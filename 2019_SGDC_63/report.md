@@ -1,0 +1,651 @@
+# Public Prosecutor _v_ Koh Ley Hian  
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">DAC 938434 of 2017, Magistrate's Appeal No. 9069/2019/01</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">10 April 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Edgar Foo</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">APP Lydia Goh Huey Theng for the Public Prosecutor; Accused acting in person</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Koh Ley Hian</td></tr></tbody></table>
+
+\[LawNet Editorial Note: An appeal to this decision has been filed in MA 9069/2019/01 \]
+
+10 April 2019
+
+### District Judge Edgar Foo:
+
+## Introduction
+
+1       The accused, a 56 year old male Singaporean who was representing himself, had claimed trial to the following charge:-
+
+_That you, on 24th October 2017, at the Central Narcotics Bureau ("CNB") office of the Central Police Divisional Headquarters, Singapore, having been reasonably suspected by a CNB officer of committing an offence under section 8(b) of the Misuse of Drugs Act, (Cap 185, 2008 Red Ed) (the "Act") did fail to provide a specimen of your urine for urine test as required by a CNB Officer without reasonable excuse, and you have thereby committed an offence under Section 31(2) of the Act_,
+
+_and further_,
+
+_that you, before the commission of the said offence, were on 14th March 2002 in District Court No. 24, vide DAC 8236/2002, convicted of an offence for consumption of a specified drug, to wit, morphine, under section 8(b)(ii) of the Misuse of Drugs Act (Cap 185, 2001 Rev Ed) and punished under section 33A(1) of the said Act with 5 years' and 6 months' imprisonment and 3 strokes of the cane, which conviction and punishment have not been set aside to date, and you shall now be liable for enhanced punishment under section 33A(2) of the Act.._
+
+## Punishment Prescribed by Law
+
+2       The punishment prescribed under section 33A(2) of the Misuse of Drugs Act (Cap. 185) \[“MDA”\] is imprisonment for a term not less than 7 years and not more than 13 years and not less than 6 strokes and not more than 12 strokes of the cane. In the present case, the accused is more than 50 years old and he is not liable for caning due to his age[\[note: 1\]](#Ftn_1).
+
+3       At the conclusion of the trial, I found the accused guilty and convicted him of the charge.
+
+4       I sentenced the accused to 7 years’ and 3 months’ imprisonment and I backdated the sentence to 25 October 2017 which is the date of his remand. The accused being dissatisfied with my decision., has filed his Notice of Appeal against sentence. Accordingly, I set out my reasons for both the conviction and sentence.
+
+## The Offence
+
+5       It is provided in section 31 of the MDA that:-
+
+(1)     Any officer of the Bureau, immigration officer or police officer not below the rank of sergeant may, if he reasonably suspects any person to have committed an offence under section 8(b), require that person to provide a specimen of his urine for urine tests to be conducted under this section.
+
+(2)     A person who fails, without reasonable excuse, to provide a specimen of his urine within such time as may be required by any of the officers referred to in subsection (1) shall be guilty of an offence.
+
+6       Section 33(2) of the MDA also provides that where a person who has been punished under section 33(1) of the MDA is again convicted of an offence of consumption of a specified drug under section 8(b) or an offence of failure to provide a urine specimen under section 31(2), he shall be on conviction be punished with –
+
+(1)     imprisonment of not less than 7 years and not more than 13 years; and
+
+(2)     not less than 6 strokes and not more than 12 strokes of the cane.
+
+7       Section 33(3) further provides that “a certificate purporting to be signed by an officer authorized in writing by the Commissioner of Prisons and purporting to relate to a person’s previous admission to an approved institution under the MDA shall be admissible in evidence in any proceedings under this section, on its production by the prosecution without proof of signature; and, until the contrary is proved, that certificate shall be evidence of all matters contained therein.”
+
+## Prosecution’s Case
+
+8       The prosecution had called a total of 16 witnesses in their case against the accused:-
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="11.6376724655069%"> <col width="31.9136172765447%"> <col width="34.9130173965207%"> <col width="21.5356928614277%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">No.</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Witness</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Role</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Marking given for witness</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">1</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Yew Kok Hong</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Investigation Officer (applied for Memorandum of Certified Previous Convictions, served charge and cautioned statement</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">PW1</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">2</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Muhammad Amirrudin Bin Tokuman</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">CNB Officer (arresting officer, lodged NP299 dated 23/10/17, sealing officer)</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">PW2</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">3</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Mohamed Buhari Bin Sarni</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">CNB Officer (escorting officer to hospital, lodged NP299 dated 25/10/17, statement recorder)</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">PW16</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">4</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Tan Poh Choo, Jessilyn</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">CNB Officer (served warning)</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">PW3</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">5</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Mohd Noor Bin Jajing</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">CNB Officer (escorting officer to procure urine at CNB)</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">PW5</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">6</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Ika Zahary Bin Kasmari</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">CNB Officer (escorting officer to procure urine at CNB)</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">PW9</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">7</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Edmund Lim Chin Tat</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">CNB Officer (served warning)</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">PW4</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">8</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Adi Putra Bin Rahmat</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">CNB Officer (served warning)</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">PW10</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">9</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Edwin Lee Mun Foong</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">CNB Officer (escorting officer to hospital, escorted accused to toilet at hospital with nurse)</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">PW8</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">10</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Muhammad Ihsan Bin Abdul Rahim</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">CNB Officer (sent urine samples to HSA)</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">PW12</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">11</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">SurriaMurthy</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">CNB Officer (escorting officer)</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">PW11</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">12</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Chan Si Jia</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">HSA Analyst</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">PW13</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">13</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Chang Hian Twan</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">HSA Analyst</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">PW14</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">14</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Dr Liew Yee Kent</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Examining doctor</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">PW6</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">15</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Rozaina Bin Zainal</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Nurse(assisted accused to hospital toilet with CNB Officer)</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">PW7</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">16</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Lee Kang Hua</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">HSA Forensic Scientist</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">PW15</p></td></tr></tbody></table>
+
+  
+  
+
+9       The prosecution was of the view that in order to prove the charge against the accused, the prosecution must prove the following[\[note: 2\]](#Ftn_2):-
+
+a)     That the CNB officer reasonably suspects accused to have committed an offence under section 8(b) and require the accused to provide a specimen of his urine for urine tests to be conducted under the Misuse of Drugs Act (Cap 185, 2008 Rev Ed) (“MDA”);
+
+b)     The accused had failed, without reasonable excuse to provide a specimen of his urine within such time as may be required by the CNB officers; and
+
+c)     The accused had been punished under section 33A (1) for consumption of a specified drug and has again committed the offence of failure to provide urine specimen under section 31(2), warranting punishment under section 33A (2) of the MDA.
+
+## Prosecution’s Submission on Uncontested facts
+
+10     The Prosecution has led evidence from a total of 16 witnesses (PW1 to PW16). The accused elected to give his own evidence without calling any witnesses for the Defence. The following material facts were not challenged by the Defence in the course of the trial[\[note: 3\]](#Ftn_3):-
+
+a.      **Facts relating to accused’s arrest on 23/10/2017**
+
+i.     The accused was arrested on 23/10/2017 during a random screening by a party of CNB officers for suspected Consumption of a Specified Drug.
+
+ii.     The accused was escorted to Central Narcotic Bureau Headquarters (“CNB HQ”) and subject to an Instant Urine Test (“IUT”).
+
+iii.     The arrest report (P2) was lodged on 23/10/2017 by PW2.
+
+b.      **Events At CNB HQ**
+
+i.     The accused was warned that if he fails to provide a urine specimen within such time as may be required by the CNB officers **without any valid excuse**, he will be charged under s31(2) of MDA, Cap 185 (“_the 1st warning_”).
+
+ii.     The warning was served and explained in Hokkien to the accused by PW3. The accused acknowledged the warning served by PW3 by appending his signature and NRIC (on the left side) below the entry on police station diary (P3).
+
+iii.     On 23/10/2017 at 23.18, the accused informed the CNB officers that he had a stomach and needed to go toilet. So CNB officers (PW5 and PW9) escorted the accused to the toilet.
+
+iv.     The accused was asked to choose a master bottle (“red capped bottle”) and 2 urine containers (“2 blue capped bottles”) in case he can urinate. The accused held onto the red capped bottle while squatting in the toilet facing PW5. PW9 stood at another part of the toilet.
+
+v.     The accused was squatting inside the toilet cubicle for some time. PW5 blinked his eyes for 2-3 seconds due to fatigue and at that very moment, PW5 heard a flushing sound. PW5 opened his eyes and saw the accused turned (sideway) to flush the toilet. The accused’s legs and trousers blocked PW5’s view so he could not see what the accused was doing. The accused then turned around and handed the red capped bottle already filled to the brim to PW5.
+
+vi.     PW5 said that the red capped bottle handed to him felt a little warm and he noticed that the “_urine specimen_” inside the bottle **_was clear like water_**. Nonetheless, PW5 proceeded to pour the “_urine specimen_” into the two blue capped bottles.
+
+vii.     At the point of tapping the two blue bottles, PW4 noticed that the “_urine specimen_” in the bottles was clear like water and he suspect the first procurement of urine specimen may be tampered with. PW4 checked his suspicion with PW5.
+
+viii.     PW5 informed PW4 that he was not confident that the accused has indeed provided his urine specimen into the red capped bottle.
+
+ix.     So PW4 told the accused to provide his urine specimen again into one red capped bottle.
+
+x.     On 24/10/2017 at about 5.45am, PW4 warned the accused (in Hokkien) if he fails to provide a urine specimen within such time as may be required by the CNB officers **without any valid excuse**, he will be charged under s31(2) of MDA, Cap 185 (“the 2nd warning”).
+
+xi.     The accused acknowledged the 2nd warning by appending his signature and NRIC on P3.
+
+xii.     After the 2nd warning was given, the accused was offered water to drink several times but he declined.
+
+xiii.     On 24/10/2017 at about 10.51am, a strip search was conducted on the accused by PW16 before the accused left for Alexandra Hospital (“the hospital”) for a medical check-up.
+
+c.      **Events At Alexandra Hospital (“the hospital”)**
+
+i.     The accused informed CNB officer **(**PW8) that he wanted to provide his urine specimen.
+
+ii.     The accused chose a red capped bottle and 2 blue capped bottles from a number of bottles which were pre-packed in a bag.
+
+iii.     The accused was escorted to the toilet at the hospital by CNB officer (PW8) and enrolled nurse (PW7). The accused provided his urine specimen into the master bottle and filled up the master bottle as instructed by PW8.
+
+iv.     The accused then purposely tiled the red capped bottle to empty the urine specimen into the toilet bowl in the presence of PW7 and PW8.
+
+v.     PW8 then offered the accused another red capped bottle for him to urinate into but he refused and continued to urinate into the toilet bowl.
+
+vi.     The incident inside the hospital handicapped toilet was recorded on the Nurse’s Flow Sheet and reflected in the clarification report (P6).
+
+vii.     The clarification report (P6) states that the accused was able to pass urine during his stay at the Emergency Department and the urine collected into the bottle was discarded by the accused himself before it could be handed over.
+
+viii.     PW7 testified that the accused was well and not having an asthma attack/feeling giddy when he purposely poured the urine specimen into the toilet bowl.
+
+ix.     On instructions from the investigating officer (PW1), the two blue capped bottles containing the “_urine specimen_” from the first procurement were sealed and labels affixed and sent to HSA for analysis.
+
+x.     The accused was subsequently placed under arrest on 24/10/2017 by PW16. The arrest report (P15) was lodged subsequently on 25/10/2017 by PW16.
+
+d.      **Test conducted on the “** **_urine specimen_** **s”**
+
+i.     Both “_urine specimens_” (two urine bottles) were sent to HSA and tested by independent HSA analysts (PW13 and PW14). Both specimens tested negative for opiates and amphetamines.
+
+ii.     On the request of CNB Investigating officer (PW1), the two urine bottles containing the remaining samples/specimen (“two exhibits”) were sealed and transferred to the Forensics Chemistry and Physics Laboratory of HSA, to be analysed for the presence of urine.
+
+iii.     Dr Lee Kang Hua (PW15) analysed the two exhibits (P13) and found that urine was not detected in the exhibits as the constituents of urine, THP, urea and creatinine were not detected
+
+iv.     The HSA report (P12) and its findings was unchallenged by the accused.
+
+e.      **Previous Convictions**
+
+i.     The accused admitted to the contents as contained in the Memorandum of Certified Previous Conviction marked P1 and is aware that he is now liable for enhanced punishment under s33A(2) of the MDA.
+
+## Defence Case
+
+11     The accused had acted in person and he did not call any other witness to give evidence on his behalf. In this case, the accused did not dispute most of the facts which were presented by the prosecution. The accused’s defence is as follows:-
+
+a.      **On the urine sample provided at CNB HQ**
+
+The accused had testified that[\[note: 4\]](#Ftn_4):-
+
+i.       He did provide a urine sample to the CNB HQ on 23 Oct 2017 after his arrest.
+
+ii.       He had provided a urine sample to CNB at around 11 plus that night.
+
+iii.       The accused had argued that “if I had really scooped water from the toilet, CNB would have stopped me”.
+
+iv.       When he handed his urine sample to CNB, it was warm.
+
+v.       But later CNB twisted their words and ask him why his urine was clear and claimed that he had tampered with the samples[\[note: 5\]](#Ftn_5).
+
+vi.       The accused also accepted that the two bottles of urine specimen was in his possession and he only deposited the two bottles of urine specimen into the metal container for HSA analysis at the hospital.
+
+vii.       The accused also alleged that when he was at the hospital, he had left the 2 bottles of urine sample on his hospital bed when he was escorted to the hospital toilet to take his urine sample and there is a possibility that his original urine sample could have been tampered with[\[note: 6\]](#Ftn_6).
+
+b.      **On the urine sample taken at the hospital toilet**
+
+i.     As regard to his urine sample provided at the hospital toilet, the accused’s position is that he did urinate into the red capped bottle provided. But PW8 had slapped him on his upper back, causing his head to feel giddy. At this point, the accused was afraid of falling down and he decided to sit down on the toilet bowl. The accused also said that he had undergone surgery on his left hand and he is unable to clench his hand. At that point in time, his hand was weak and he dropped the urine bottle into the toilet bowl. because he was giddy and as his fingertips were numb, he dropped the urine into the toilet bowl[\[note: 7\]](#Ftn_7).
+
+ii.     As such, even though the accused did not specifically say so, I gather that the accused is saying that he had a valid excuse in that he did not deliberately drop the urine sample into the toilet bowl but it fell into the toilet accidentally. And this is caused by a number of reasons including:-
+
+a.       his asthma attack which caused him to be weak and giddy
+
+b.       the hitting by PW4 on his back
+
+c.       his weak hand which had undergone surgery which resulted in him not being able to grip the bottle properly
+
+c.      **The accused has inability to pass urine**
+
+i.     I note that in the accused’s medical report (P5), he had also complained of inability to pass urine. Even though the accused had not raise this point specifically at the trial, I will address this issue in my Grounds of Decision herein.
+
+## Prosecution’s Summary of the Defence Case
+
+12     The prosecution had argued that the accused was not telling the truth. The prosecution pointed out that during their cross-examination, the following questions were put to the accused: -
+
+a)     “_the sample that you claim that you have given is not a urine sample_”.
+
+The accused disagreed.
+
+b)     “_Do you agree that Ms Lee has no reason to lie about her findings_ **(**P12)”.
+
+The accused said “Yes, I agree with what she said”.
+
+c)      _“Do you agree for urine, no matter how dilute or concentrate, there must be these 3 constituents (THP, urea and creatinine) according to HSA”._
+
+The court noted that the accused had nothing to say.
+
+d)     “_Do you agree all the allegations you made against the officer about you sitting down and feeling giddy at that point in time in the toilet (at AH), these are all fabrications, afterthoughts.”_
+
+The accused disagreed.
+
+e)     “_the nurse (PW7) was not behind the accused but was beside the accused_”.
+
+The accused agreed.
+
+f)     “_the accused did not provide urine sample to the CNB officer when requested_”.
+
+The accused disagreed.
+
+g)     “_the accused failed to provide the urine sample without reasonable excuse_”.
+
+The accused disagreed.
+
+h)     “_despite being warned that if you fail without reasonable excuse to provide a urine sample, you will be charged under the Misuse of Drugs Act and the conviction is similar to that of a LT-2, you failed to provide a proper urine sample_”
+
+The accused agreed he was warned but claimed he provide the “_urine specimen_” to CNB on 23/10/2017.
+
+13     The accused also claimed that the 2 urine bottles should have been deposited into the metal container when he urinated on the 23/10/2017, the two bottles were on his bed at the hospital and alleged that anything could have happened if the CNB wanted to implicate him.
+
+14     On the issue of potential tampering of the 1st set of urine sample, the accused did not put these allegations to any of the CNB officers (PW1 to PW5, PW8, PW9, PW10, PW11, PW12 and PW16). In fact, the accused declined to cross-examine most of the CNB officers.
+
+15     The prosecution also noted that the accused also did not challenge the testimony of the independent witness, PW7 who witnessed the accused discarding the urine specimen collected in the red capped bottle into the toilet bowl instead of handing it over to the CNB officer (PW8) for testing.
+
+## Prosecution’s Analysis and Assessment of the Evidence
+
+16     The prosecution also pointed out the following :-
+
+i.     As to the accused’s contention that his 1st urine sample contained his urine, the Forensics Chemistry and Physics Laboratory of HSA report (P12) was admitted without challenge by the accused. PW15 had analysed the “_urine specimen_” (two exhibits) and found that **urine was not detected in the two exhibits as the constituents of urine, THP, urea and creatinine were not detected**.
+
+ii.     During cross-examination, the accused had suggested to PW15 that he had a sore throat and he had drunk a lot of water the day before and he had gone to the toilet for about 20 time before he gave the 1st urine sample to CNB on 23 October 2017and that could be the reason why his urine lacked the 3 constituents. PW15 had replied that even if the accused drank a lot of water the 3 constituents of urine will still be present but it may be less concentrated. The accused did not challenge PW15 on this point.
+
+iii.     As regards to the collection of urine sample at the hospital, the accused had claim that he felt giddy and his hands were weak so he dropped his urine bottle into the toilet bowl. The nurse (PW7) was called to the stand and he testified that the accused was physically well and not having an asthma attack/feeling giddy while inside the toilet. PW7 also testified that the accused had purposely tilted the red capped bottle and poured the urine specimen collected into the toilet bowl instead of handing over the bottle to CNB officer (PW8). Thereafter, PW7 witnessed PW8 offering the accused another red capped bottle to provide his urine specimen. The accused refused and continued to urinate into the toilet bowl.
+
+iv.     Also Dr Liew (PW6) had examined the accused and he was found fit to be discharged. Further, PW6 has also confirmed that the accused does not have trouble passing urine and there is also no evidence of acute urinary retention.
+
+v.     In fact, P6 documented that the accused passed urine during his stay at the Emergency Department which was witnessed by PW7 and PW8 and the urine collected into the bottle was discarded by the accused himself before it could be handed over.
+
+17     The prosecution was of the view that despite the numerous opportunities given to the accused to provide his urine specimen to CNB officers for testing, the accused had failed to do so.
+
+18     Also the accused did not contest his previous LT-1 conviction. Accordingly, he is liable for enhanced punishment under Section 33A (2) of the MDA.
+
+19     Given the foregoing evidence, the prosecution submitted that it had proven beyond a reasonable doubt that the accused had committed the offence under section 31(2) and punishable under Section 33A(2) of the MDA.
+
+## My Decision
+
+20     Having considered the totality of the evidence, I find as a fact that the accused did not have any reasonable or legitimate excuse for not providing his urine specimen. And my reasons are as follows.
+
+## My Findings
+
+21     Based on the evidence that has been presented, I am prepared to make the following findings:-
+
+i.      **The accused was arrested on 23 October 2017 for suspected drug consumption.**
+
+a.     PW2 holds the rank of Sergeant and he is attached to the Enforcement Suppression Unit of CNB.
+
+b.     PW2 had testified that he was with ASP Liu Fuquan on 23 October 2017 when they spotted the accused at the SPC petrol kiosk at 41 Bukit Panjang Ring Road and they conducted a random check and screening on the accused. The accused was traced for drug records. They suspected that the accused had consumed drugs and they decide to place him under arrest in order to bring him back to CNB HQ for “an instant urine test”[\[note: 8\]](#Ftn_8).
+
+c.     PW2 then placed the accused under arrest and he also lodged the arrest report (P2).
+
+ii.      **The Accused had given a urine sample to CNB at 2323 hours on 23 October 2017 but CNB suspected it was tampered with.**
+
+a.     PW3, who hold the rank of Senior Staff Sergeant, had administered the warning to the accused at 2113 hours on 23 October 2017 that if he were to fail to give his urine sample he could be charged with an offence under section 31(2) of the MDA. She then proceeded to record the same into the station dairy (P3). This entry was signed by both PW3 and the accused[\[note: 9\]](#Ftn_9).
+
+b.     At around 2323 hours on 23 October 2017, the accused indicated to the CNB officers that he wanted to pass urine. PW5 and PW9 escorted the accused to the toilet in order to procure his urine sample. The accused went into the toilet with PW5 standing at the toilet door and PW9 waited outside the toilet. The accused gave his urine sample to PW5 at 2323 hours. This sample was contained in the red capped bottle. PW5 took the red capped bottle and poured 2 samples into 2 blue capped bottles. PW5 then proceeded to use a syringe to take a sample from the red capped bottle and placed the sample into a test tube for instant testing with the IUT machine. The balance of the urine in the red capped bottle was discarded[\[note: 10\]](#Ftn_10).
+
+c.     The 2 blue capped bottles were then given to the accused and the accused was brought before PW2 who proceeded to seal the 2 blue capped bottles with masking tape and these 2 blue capped bottles were placed in a clear plastic bag together with a printed barcode with the accused’s name and details. The plastic bag is then heat sealed to prevent tampering. All these were done in the presence of the accused[\[note: 11\]](#Ftn_11).
+
+d.     When the accused handed the 2 blue capped bottles to PW2, PW2 noted that the urine sample was “**crystal clear**” and **it felt cold** and he suspected that the sample did not contain urine[\[note: 12\]](#Ftn_12). PW2 then decided to seek instruction from PW4 who instructed PW2 to proceed with the temporary sealing of the sample which he did[\[note: 13\]](#Ftn_13).
+
+e.     This temporary sealing of the urine sample was done pending the outcome of the instant testing result from the IUT machine. In the present case, the instant testing result came back negative and PW2 again sought PW4’s direction on what to do. PW4 then directed PW2 to proceed with the full sealing of the 2 bottles with 2 bottles with the blue caps. This process is carried out by CNB whenever they want to send the samples to HSA for further testing for drugs. PW2 took the 2 blue capped bottles from the accused, removed the heat sealed plastic bag and proceeded to print out 2 HSA labels with the accused’s name, NRIC number and marking number. PW2 then proceeded to show the 2 HSA labels to the accused for the accused to verify the same. After verification, PW2 pasted the 2 labels on the blue bottles and got the accused to sign on the labels.
+
+f.     At this stage, these 2 blue capped bottles are usually dropped into a sealed metal contained to be delivered to HSA. In this case, instead of asking the accused to deposit the 2 blue capped bottles into the sealed metal container, PW4 instructed PW2 to heat seal these 2 blue capped bottles in another clear plastic bag and to hand the 2 blue capped bottles to the accused for safe keeping instead of dropping them into the metal container to be sent to HSA[\[note: 14\]](#Ftn_14)
+
+g.     PW4 also went on to check with PW5 who had escorted the accused to the toilet to procure his urine sample on the urine procurement process. **PW5 informed PW4 that he had closed his eyes for a few seconds due to fatigue and when he opened his eyes, the accused had already filled up the red capped bottle with urine. PW5 also confirmed that he did not personally witness the accused urinating into the red capped bottle**.
+
+h.     PW9 was the other CNB officer who had escorted the accused to the CNB toilet in order to procure his urine. PW9 testified that he did not personally see the accused urinate into the red capped bottle. PW9 also testified that he did not follow the accused into the toilet cubicle and only PW5 followed the accused into the toilet cubicle. PW5 stood at the entrance of the toilet cubicle while the accused was in the toilet cubicle. PW9 also said that the only thing he heard was a few flushes before the accused handed over his urine sample to PW5[\[note: 15\]](#Ftn_15).
+
+i.     PW4 testified that he suspected something was amiss because the accused was very quiet when he was arrested and the accused suddenly become chatty and confident after he had given his urine sample to PW5 to the extent that he was able to even joke with the CNB officers[\[note: 16\]](#Ftn_16) The accused’s changed in behaviour was also noticed by PW2 who said “he seemed to be very confident… because before he provided his urine, he seems to be very quiet and he didn’t talk to anyone. But after he gave his urine and the result out, I notice that he seems to be very confident and I can see he’s a bit cheerful”[\[note: 17\]](#Ftn_17).
+
+j.     PW4 then decided to question the accused on this issue at 2333 hours and the accused replied that the urine samples were real. PW4 was suspicious of the accused because he has a history of section 31(2) MDA. All these details were recorded by PW4 in the station dairy P3[\[note: 18\]](#Ftn_18).
+
+k.     PW5 also testified in court that he did not actually see the accused urinating into the red capped bottle and he only heard the accused flush the toilet before handling him the red capped bottle with his urine and telling him that this is his urine sample[\[note: 19\]](#Ftn_19). PW5 also confirmed that his eyes were closed for a few seconds before he heard the accused flushing the toilet[\[note: 20\]](#Ftn_20).
+
+l.     In view of the above, PW4 decided to ask the accused for another sample of his urine at 0115 hours but the accused refused saying that he had already given a big bottle of his sample earlier on. This was also recorded by PW4 in P3[\[note: 21\]](#Ftn_21).
+
+m.     At 0545 hours on 24 October 2017, PW4 decided to serve a second written warning on section 31(2) on the accused. PW4 informed the accused that he suspected that the 1st urine sample was not properly procured as the escorting officer was not confident that the accused did provide his urine specimen and he went on the serve the second section 31(2) warning on the accused. PW4 also recorded this warning in P3 and this was signed and acknowledged by both PW4 and the accused in P3[\[note: 22\]](#Ftn_22).
+
+n.     Other than the 2 written warnings, PW3 also testified that it is part of CNB’s operating procedure to offer water to the accused every half an hour when he is required to furnish his urine for testing and if he does not want to urinate, she will warn him orally of the consequence[\[note: 23\]](#Ftn_23). PW3 also testified that she does not record all her oral warnings in P3.
+
+o.     In this case, I note that PW3 had entered her written warning in P3 at 2113 hours on 23 October 2017, I also note PW3 had also recorded in P3 that she had offered the accused water at 2142 hours, 2218 hours and 2254 hours on 23 October 2017 and that PW3 had also said that she had administered the oral warning to the accused on these occasions as well.
+
+p.     PW10 also testified that he had given the oral warning to the accused at 0208 hours on 24 October 2017[\[note: 24\]](#Ftn_24).
+
+q.     Given the above, it is clear that the CNB did have doubts as to whether the sample that was procured from the accused at 2323 hours on 23 October 2017 was in fact urine and I am of the view that it is not wrong for CNB officers to ask for a further sample of urine from the accused.
+
+iii.      **CNB did serve the section 31(2) warning on the accused at the CNB HQ**
+
+a.     It is also clear from Paragraph 26(ii) above that CNB did serve the section 31(2) warning on the accused at the CNB HQ in writing on 2 occasions and orally on a number of occasions from 23 October 2017 to 24 October 2017.
+
+iv.      **The accused did not pass any urine from 2323 hours on 23 October 2017 till 2055 hours on 24 October 2017**
+
+a.     It is clear from the evidence that the accused did not pass urine from 2323 hours on 23 October 2017 after he gave his 1st urine sample at the CNB HQ until 2055 hours on 24 October 2017 when he urinated at the hospital Emergency Department disabled toilet[\[note: 25\]](#Ftn_25). The entries in P3 clearly show that the accused was asked on numerous occasions as to whether he wanted to furnish his urine sample after 2323 hours on 23 October 2017 but the accused would either decline or say he has no urge to pass urine. This is also evident from the testimony of the CNB officers who had given evidence in court.
+
+b.     As regards to the incident at 2055 hours on 24 October 2017, PW7 who is a nurse working at the hospital had testified that he saw the accused passing urine at 2055 hours on 24 October 2017 at the hospital toilet and he had recorded the event in his Nurse’s Flow Sheet[\[note: 26\]](#Ftn_26). PW7’s evidence was corroborated by PW8 who said that he has escorted the accused to the toilet together with PW7 on the night of 24 October 2017 and he had observed the accused urinating on that day in the hospital toilet[\[note: 27\]](#Ftn_27).
+
+c.     PW8 also confirmed that before the incident at 2055 hours, whilst at the hospital, the accused was asked on many occasions to give his urine sample but the accused kept saying that he could not give any urine sample or that he tried but was unable to furnish any urine sample[\[note: 28\]](#Ftn_28).
+
+d.     It is also clear from the testimony of the witnesses and the entries made in the station diary P3 that there were many attempts made by various CNB officers to help the accused pass urine by offering him water and food but the accused had rejected and refused all offers of food and water throughout the entire period.
+
+e.     PW3 had also testified that it was CNB operating procedure to offer water to the accused every half an hour in order to assist the accused to produce urine so that the accused’s urine can be procured for urine testing for drugs.
+
+f.     From the evidence presented, it is clear that the CNB was unable to procure any urine sample from the accused from the period from 2323 hours on 23 October 2017 till 2055 hours on 24 October 2017.
+
+v.      **There is nothing medically wrong with the accused and he is able to pass urine normally**
+
+a.     When CNB was unable to procure any further urine sample from the accused after he had given his first specimen on 2323 hours on 23 October 2017, CNB decided to send the accused to Alexandra Hospital for a medical examination on 24 October 2017.
+
+b.     At 1051 hours on 24 October 2017, PW10 and PW16 conducted a strip search on the accused in preparation to bring him the hospital. The accused was then taken out of CNB HQ at 1115 hours by a team of escorting officers and they arrived at the hospital at 1125 hours[\[note: 29\]](#Ftn_29).
+
+c.     At the hospital, the accused was 1st examined by Dr Lingadurai and Dr Nausheen Edwin Doctor. The accused had complained of 2 issues when he was brought to the hospital. The accused complained of shortness of breath and inability to pass urine[\[note: 30\]](#Ftn_30).
+
+d.     The doctors examined him and found him to be breathless and tachhypnoic with bilateral rhonchi. There was no evidence of acute retention of urine[\[note: 31\]](#Ftn_31).
+
+e.     PW6, who was a doctor at the hospital, also attended to the accused on 24 October 2017. PW6 had given evidence that the accused was admitted to the short stay ward at the hospital for observation of his respiratory symptoms after which he was stable enough to be discharged[\[note: 32\]](#Ftn_32).
+
+f.     At the point of discharge at about 9.30 pm (ie 2130 hours) on 24 October 2017, the accused again complained of giddiness, chest pain and cough. PW6 did a complete examination on the accused and after consultation with his senior consultant, Dr Goh, decided that the accused was medically fit for discharge and there was no acute medical issues at that point of time for the hospital to hold him further[\[note: 33\]](#Ftn_33).
+
+g.     As regards to the accused’s ability to pass urine, PW7 testified that he had seen the accused passing urine at 2055 hours on 24 October 2017 at the hospital disabled toilet and he had recorded the event in his Nurse’s Flow Sheet[\[note: 34\]](#Ftn_34). PW8’s evidence was corroborated by PW8 who said that he has escorted the accused to the toilet together with PW7 on the night of 24 October 2017 and he had also observed the accused urinating on that day in the hospital toilet[\[note: 35\]](#Ftn_35).
+
+h.     PW6 also confirmed the contents of P6, which is a Clarification Report on the accused. It was recorded in P6 that PW7 had at 8.55 pm witnessed that the accused was able to pass urine and this was co-witnessed by PW8.
+
+i.     PW6 further testified that he had done an ultra sound scan on the accused at about 5.00 pm (ie 1700 hours) on 24 October 2017 and the ultra sound scan had shown that the accused’s bladder contained about 260 mls of urine[\[note: 36\]](#Ftn_36). After the accused had passed urine at 2055 hour, PW6 had examined the accused again at 9.30 pm and there was no evidence of retention of urine in the urinary bladder. PW6 also said that when he examined the accused the 2nd time round, there was not much urine in the accused’s bladder and his clinical conclusion was that there was no problem with the accused and he was able to pass urine[\[note: 37\]](#Ftn_37).
+
+j.     Given the above evidence, it is clear that the accused does not have any issue of urine retention.
+
+vi.      **The toilet incident at 2055 hours on 24 October 2017**
+
+a.     PW8 had testified in court that in the night of 24 October 2017, the accused informed him that he was ready to provide CNB with his urine sample. PW8 then escorted the accused to the hospital disabled toilet accompanied by PW7 to collect the accused’s urine specimen. The accused had also picked a red capped bottle to contain his urine specimen from a number of red capped bottles offered by PW8 to the accused. When the accused was in the hospital disabled toilet, he proceeded to urinate into the red capped bottle but he later poured the contents of the red capped bottle into the toilet bowl. PW8 was shocked by the accused’s action and he immediately offered the accused another red capped bottle to contain his urine but the accused informed PW8 that he did not wish to give any more urine and he continued to urinate into the toilet bowl[\[note: 38\]](#Ftn_38).
+
+b.     PW7 also testified in court that he saw the accused urinate into the red capped bottle till it was half full. PW7 also heard PW8 instruct the accused to fill the red capped bottle to the brim. The accused did fill the red capped bottle to the brim and when PW8 wanted to take the red capped bottle from the accused, the accused claimed he was shocked and he tilted the red capped bottle in a slow and deliberate movement and poured the urine into the toilet bowl. PW7 was of the view that the accused had poured the urine into the toilet bowl deliberately. PW7 then proceeded to record the incident into his Nurse Flow Sheet. PW7 had also noted the time of the incident to be at 2055 hours[\[note: 39\]](#Ftn_39).
+
+c.     This incident is also recorded in the Clarification of Medical Report for Mr Koh Ley Hian (P6) which was tendered by prosecution as part of their case. Paragraph 2 of P6 stated “it was recorded by the nurse, Rozaini Bin Zainal (PW7), on 24/10/2017 at 2055 hours, that the patient (the accused) managed to pass urine during his stay at the Emergency Department, which was witnesses by officer Edwin Lee. It was also recorded that the urine collected into the bottle was discarded by the patient himself before it could be handed over”[\[note: 40\]](#Ftn_40).
+
+d.     PW8 then informed PW16 of the incident and PW16 proceeded to record the incident in P3[\[note: 41\]](#Ftn_41). PW16 also went on to file a police report on the incident (P15)[\[note: 42\]](#Ftn_42).
+
+e.     At 2223 hours on 24 October 2017, PW16 recorded the accused’s statement on the incident. After recording the accused’s statement, PW16 read back the accused’s statement to the accused and this statement (P16) was signed by both PW16 and the accused. In P16, the accused informed PW16 that he had accidentally dropped his urine sample into the toilet bowl because his hand is not strong enough[\[note: 43\]](#Ftn_43). The accused also admitted in P16 that “he ignored the CNB officer’s instruction as he told me to urinate in the bottle”[\[note: 44\]](#Ftn_44).
+
+f.     The prosecution’s position is that the accused had deliberately dropped the bottle into the toilet bowl at the hospital disabled toilet.
+
+g.     The accused had given different versions of what had happened in relation to the incident:-
+
+i.       In P16, the accused had said that he had accidentally dropped the urine bottle because his hand was not strong enough.
+
+ii.       When the accused was on the stand, he said that he had urinated into the container till it was full. But the CNB officer was greedy and he wanted the container to be fuller. The officer then slapped his upper back and at that point his head suddenly felt giddy and he decided to sit down. At this point his hand became weak and he dropped the urine[\[note: 45\]](#Ftn_45).
+
+h.     I am of the view that the accused had deliberately poured his urine into the toilet bowl at the hospital disabled toilet. I do not believe the accused’s story for the following reasons :-
+
+i.       PW7, who is an independent witness, clearly saw the accused tilt the red capped bottle in a slow and deliberate manner and pour the urine into the toilet bowl. PW7 evidence is supported by PW8’s evidence. PW8 had testified that the accused had poured his urine into the toilet bowl in his presence and had told him that he does not wish to give any more urine[\[note: 46\]](#Ftn_46). Both these witnesses do not know the accused and there is no reason for them to lie to get the accused into trouble. This is especially so for PW7 who was a nurse on duty at the hospital on the day of the incident.
+
+ii.       The accused had claimed that he was feeling giddy and weak and he had dropped the urine sample. PW6 who had examined the accused at around 9.30 pm (about half an hour after the accused has passed urine), had testified that the accused had complained of giddiness, chest pain and cough at the time of the examination. PW6 had conducted a complete examination on the accused and had found that the accused had no medical issues at that point of time. PW6 also consulted his Senior Consultant Dr Goh and both of them were also of the view that the accused was fit for discharge from the hospital[\[note: 47\]](#Ftn_47). PW7 had also testified that the accused did not look unwell at the time when he was urinating in the toilet.
+
+iii.       The accused had said that he was feeling giddy and he sat down on the toilet bowl. Both PW7 and PW8 did not see the accused sit down in the hospital disabled toilet.
+
+iv.       I also note that the accused did not complain to PW6 about any weakness in his hand when he was examined by PW6 at 9.30 pm. He only complained to PW6 that he was having giddiness, chest pain and cough[\[note: 48\]](#Ftn_48).
+
+v.       The accused also did not mention of any asthma problem or giddiness when his statement was recorded by PW16 at 2223 hours on 24 October 2017. In P16, the accused had informed PW16 that he had accidentally dropped his urine sample as his hand was not strong enough[\[note: 49\]](#Ftn_49). The accused also did not inform PW16 that PW8 had slapped him on his back or that he had sat down on the toilet bowl.
+
+vii.      **The accused’s conduct suggested that he was trying to avoid giving urine**
+
+a.     From the evidence tendered, the accused had given his 1st urine sample to CNB at 2323 hours on 23 October 2017.
+
+b.     It is also evident from the testimony of the prosecution witnesses that throughout the whole period, they had been offering water and food to the accused every half an hour but the accused had rejected all offer of food and water. This started at 2323 hours on 23 October 2017 at CNB HQ till the time the accused was brought to the hospital for a medical check-up and medical treatment[\[note: 50\]](#Ftn_50).
+
+c.     The testimony of the prosecution witnesses was also corroborated by the entries made in P3 by the relevant witnesses who had recorded all the events relating to the accused on 23 October 2017 and 24 October 2017.
+
+d.     I also note the entry in P3 by PW3 that the accused was given water at 2142 hours on 23 October 2017 and he did drink the water[\[note: 51\]](#Ftn_51). This was before he gave his 1st urine sample at 2323 hours on the same day.
+
+e.     I further note that the accused had rejected all offers of food and water after 2323 hours. Looking at the entries in P3, it can be seen that the accused had rejected offers of food and water no less than 19 times at the CNB HQ and the hospital.
+
+f.     It is also clear from the evidence that the accused had refused food and water for almost 21 hours from 2323 hours on 23 October 2017 till the time he urinated in the hospital toilet at 2055 hours on 24 October 2017. To me, it is inconceivable that a person can avoid food and water for such a long period without feeling thirsty or hungry unless that person is fasting or is deliberately refusing to eat and drink.
+
+g.     The accused’s conduct towards the urine procurement process on the 23 and 24 October 2017 also showed that he was not cooperative towards the CNB officers in their attempt to procure urine sample from the accused. This can seen from the following:-
+
+i.       As mentioned earlier, the accused was offered food and water no less than 19 times but he had refused all the offers.
+
+ii.       Each time the CNB offered food and drink to the accused, they will also ask him if he want to pass urine and his answer to them was always no[\[note: 52\]](#Ftn_52).
+
+iii.       At 0235 hours on 24 October 2017, the accused claimed that he had a stomach ache and requested to go to the toilet. At the toilet, he simply squatted at the toilet for almost an hour and he made 2 requests to turn his back towards the escorting which was refused by the escorting officers. When PW4 requested the accused to stand up at 0325 hours to go back to his seat, the accused threw a tantrum and threw the red capped bottle onto the floor. PW4 then proceeded to record this incident in P3 and both the accused and PW4 acknowledged the same by placing their signatures in P3[\[note: 53\]](#Ftn_53). No urine was procured from the accused on this occasion.
+
+iv.       At 0510 hours on 24 October 2017, Sergeant Richard Chua escorted the accused to the toilet to procure his urine and he spotted the accused spitting into the red capped bottle[\[note: 54\]](#Ftn_54). No urine was procured from the accused on this occasion.
+
+v.       At 0945 hours on 24 October 2017, the accused informed the CNB officers that he wanted to pass urine and he was escorted to the toilet by PW4 and PW9. At about 1000 hours, both PW4 and PW9 spotted the accused spitting his saliva into the red capped bottle. PW4 cautioned the accused for spitting into the bottle and the bottle was thrown away. The accused was then brought back to his seat[\[note: 55\]](#Ftn_55). This was the second time that the accused had spitted into the red capped bottle. No urine was procured from the accused on this occasion.
+
+vi.       At 1936 hours on 24 October 2017 at the hospital, the accused informed PW11that he wished to pass urine. PW11 escorted the accused to the hospital toilet in order to collect his urine sample. At about 1938 hours at the hospital toilet, PW11 saw the accused trying to pass urine. But when doing do, the accused dropped the red capped bottle into the toilet bowl claiming he did not hold on to the red capped bottle properly and it slipped from his hand. When the accused was retrieving the red capped bottle, he tried to scoop water from the toilet bowl into the red capped bottle. PW11 managed to stop the accused from doing so. The accused then told PW11 that he was no longer unable to pass urine. PW11 proceeded to warn the accused that what he was doing was not acceptable. PW11 then told the accused to dispose of the red capped bottle and proceeded to record the incident into P3[\[note: 56\]](#Ftn_56).
+
+vii.       There were also a number of times when the accused informed the CNB officers that he needed to pass urine or that he need to pass motion but after he was escorted to the toilet, he proceeded to inform the officers that he no longer need to do either[\[note: 57\]](#Ftn_57).
+
+viii.       The accused had, in his Defence, explained that he did not deliberately spit into the bottles but that his saliva had accidentally dripped into the red capped bottle because he was not wearing his dentures[\[note: 58\]](#Ftn_58). I do not believe the accused’s story as to what had happened. There were 2 occasions where he had spitted into the red capped bottle. The CNB officers who testified were clear that the accused had spitted into the bottle. If it had been an accident, it should not have happened on 2 separate occasions. Also why did the accused not inform the officers of the same when it happened. The accused also did not explain to PW11 when he was warned by PW11. I also note that the accused was also given the opportunity to cross-examine the officers and to put his case to them but he did not do so. I further note that the accused also did not raise this defence when he was giving his statement in P16 to PW16. Given all these, I am of the view that this defence is an afterthought by the accused.
+
+h.     I also noted that the time between the 1st urine sample and the accused passing urine at the hospital is almost 21 hours. And during this period, the accused had also refused and turned down all offers for food and drinks. I am of the view that that this is not reasonable behavior of a person who is willing and prepared to furnish his urine sample. In fact, the accused’s behavior would suggest that he is trying to stall the giving of his urine sample for whatever reasons that is best known to the accused himself.
+
+i.     In this regard, I note PW4’s evidence in court where he said:-
+
+“the accused was not cooperative because he keeps saying want to go to the toilet but in the end he couldn’t urinate at all. And he’s trying to .. wait for opportunity. What I would say he’s trying to wait for opportunity that he can tamper his urine. This is the impression that he gave me”[\[note: 59\]](#Ftn_59).
+
+j.     Looking at the above, the accused’s action clearly show that he was either trying to find ways not to give his urine sample to the CNB officers or that he was trying to tamper with the urine samples.
+
+viii.      **Whether the 1st sample was tampered with by anyone?**
+
+a.     The accused had suggested that his 1st urine sample which he had given to CNB at 2323 hours on 23 October 2017 could have been tampered with when he left it unattended at the hospital bed when he was giving his 2nd urine sample at the hospital toilet around 2055 hours on 24 October 2017.
+
+b.     The accused had testified that when he went to the hospital toilet to give his 2nd urine sample, he had left the 1st sample on the hospital bed and “anything could have happened if the CNB wanted to implicate me”[\[note: 60\]](#Ftn_60)
+
+c.     I note that the accused had acknowledged that his 1st urine sample was in his possession all the time from the CNB HQ till the hospital. This was also confirmed by PW16 who had escorted the accused to the hospital[\[note: 61\]](#Ftn_61).
+
+d.     I also note that the 1st sample was properly labelled and sealed by PW2 in the presence of the accused at CNB HQ after the initial testing was done at the IUT machine. PW2 had taken the 2 blue capped bottles which was temporarily heat sealed in a clear plastic bag from the accused and he had removed the original heat sealed plastic bag. PW2 proceeded to print out 2 HSA labels with the accused’s name, NRIC number and marking number and he showed the same to the accused for the accused to verify the same. After verification by the accused, PW2 had pasted the 2 HSA labels on the blue capped bottles and got the accused to sign on the labels. PW2 then proceeded to heat seal these 2 bottles in another clear plastic and handed the bottles to the accused for safe keeping
+
+e.     At the hospital, when the CNB decided to send the 1st urine sample to HSA for further testing, PW16 testified that the CNB officers had arranged for the HSA metal container to be brought to the hospital and the accused had deposited the 1st sample into the HSA metal container at 1834 hours on 24 October 2017[\[note: 62\]](#Ftn_62).
+
+f.     The 1st urine sample was sent by PW12 to HSA for testing on 25 October 2017[\[note: 63\]](#Ftn_63).
+
+g.     I note that the accused’s allegation that his 1st urine sample could have been tampered with is just a bare allegation. I also note that the 1st urine sample had been properly sealed and the accused had also placed his signature on the bottles before it was heat packed in a clear plastic bag and handed over to the accused for safe keeping. There was also no evidence that the heat packed plastic bag was tampered with or damaged or that the seal on the blue capped bottles broken in any way.
+
+h.     Given the above, I am unable to accept the accused’s contention that his 1st urine sample could have been tampered with at the hospital.
+
+ix.      **Whether the 1st sample given by the accused at 2323 hours on 23 October contained urine?**
+
+a.     The CNB had sent the accused’s 1st urine sample to HSA Analytical Toxicology Laboratory for testing for drugs on 25 October 2017. The initial test result on their IUT machine was negative.
+
+b.     The accused’s 1st urine sample was analysed by PW13 and PW14, who were HSA analysts attached to their Analytical Toxicology Laboratory. Both PW13 and PW14 found the urine sample to be negative for amphetamines and opiates[\[note: 64\]](#Ftn_64).
+
+c.     PW1 had also requested the HSA Analytical Toxicology Laboratory to send the accused’s remaining 1st urine sample to their Forensic Chemistry and Physics Laboratory to test if the sample which was given by the accused did contain urine. PW14 confirmed that they did seal up the accused’s remaining urine sample and they did forward the same to their Forensic Chemistry and Physics Laboratory on 25 October 2017 for the test as requested by CNB[\[note: 65\]](#Ftn_65).
+
+d.     PW15, who is a HSA Forensic Scientist from their Forensic Chemistry and Physics Laboratory did test the accused’s remaining 1st urine sample for the presence of urine and her conclusion was that the accused’s 1st urine sample did not contain any urine[\[note: 66\]](#Ftn_66).
+
+e.     PW15 also testified in court that for there to be urine, 3 constituents must be present, urea, creatinine and THP. Urea and creatinine are organic compounds present in urine and THP is a compound that is produced by the human kidney[\[note: 67\]](#Ftn_67).
+
+f.     The prosecution had submitted that based on PW15’s finding, the accused’s 1st urine sample did not contain any urine.
+
+g.     The accused, on the other hand, had argued that he was having a sore throat the day before and he had drunk a lot of water and he had urinated more than 20 times. During of cross-examination of PW15, the accused had suggested to PW15 that this could be a possible reason as to why his urine did not contain any of the 3 constituents. PW15 did not agree with the accused and she was of the view that the amount of water that a person consume can only go towards diluting the constituents in urine. In order for there to be urine, the 3 constituents must be present[\[note: 68\]](#Ftn_68).
+
+h.     Given the evidence presented, especially that of PW15, I would reject the accused’s argument that his 1st urine sample did contain his urine.
+
+x.      **Accused’s contention that he did not sign the entries in P3**
+
+a.     The accused had also alleged that most of the signatures in P3 are not his signatures and they were not signed by him[\[note: 69\]](#Ftn_69).
+
+b.     However, I note that even though the accused is saying that the signatures are not his, he is not disputing the contents of the entries in P3.
+
+c.     I also note that all the prosecution witnesses who had given evidence in relation to P3 had confirmed that they had witnessed the accused signing his name on the relevant pages of P3.
+
+d.     The burden of proof is on he who allege. In this case, all these allegations are bare allegations made by the accused. The prosecution’s witnesses are all CNB officers who are just doing their job. There is no reason as to why they would want to forge the accused’s signature to get him into trouble. In the present case, the accused’s allegation is not just against one particular CNB officer but against all the officers.
+
+e.     Given the above, I am not prepared to accept the accused’s contention that he did not sign his signature in P3 and I am prepared to accept the prosecution’s evidence that the accused did sign his signature at the relevant pages in P3.
+
+xi.      **Accused’s previously conviction under LT1**
+
+a.     I also note that the accused did not dispute the contents of the Memorandum of Certified Previous Convictions (P1) when prosecution tendered the same through PW1[\[note: 70\]](#Ftn_70). And it is clear from P1 that the accused was sentenced by District Court No. 24 on 14 March 2002 in DAC 8236/2002 to imprisonment of 5 years and 6 months with 3 strokes of the cane for consumption of drugs under section 8(b)(ii) of the MDA read with section 33A(1). In fact, the accused had also confirmed this previous conviction when he was on the stand and being cross-examined by the learned prosecutor[\[note: 71\]](#Ftn_71).
+
+## Conclusion
+
+22     The charge against the accused is for failing to furnish a specimen of his urine to the CNB without reasonable excuse when CNB had suspected him of committing an offence of consumption of drugs under the MDA.
+
+23     In this case, the CNB had conducted a random check on the accused and upon screening found that he had previous drug consumption convictions. They had suspected that he had taken drugs and they had placed him on arrest and requested for a sample of his urine for testing.
+
+24     In this case, the accused would have a reasonable excuse for failing to provide a urine sample if he was physically or mentally unable to provide it or that, despite trying as hard as he could, he was nonetheless unable to provide a urine sample.
+
+25     It is clear from the evidence presented that the sample which the accused had given to the CNB at 2323 hours on 23 October 2017 did not contained any urine. It is also clear from the evidence that the accused did not have any medical condition which was preventing him from passing urine.
+
+26     From the accused’s conduct, it is also clear to me that he was trying his best not to given his urine sample from 2323 hours on 23 October 2017 till 2055 hours on 24 October 2017 by not drinking water and eating food. It is also clear that several warnings (both written and oral) had been administered to the accused on the consequence of his failure to give his urine sample to the CNB.
+
+27     As for the incident at 2055 hours on 24 October 2017 at the hospital, it is clear that the accused had deliberately poured away his urine at 2055 hours on 24 October 2017 and had refused to give any sample to the CNB after that. I do not believe that the accused was suffering from an asthma attack and that he having a dizzy spell at that point of time. I also reject the accused’s testimony that he was having weakness in his hand resulting in him not being able to grip the bottle at that point of time and this had caused him to drop the bottle into the toilet bowl.
+
+28     Given the evidence before me, I wish to state that I do not accept the accused’s testimony and I am rejecting his defence accordingly. As such, I am of the view that the accused had failed to provide a urine specimen to the CNB officers on the 24 October 2017 and that he did not have any reasonable excuse for failing to do so.
+
+29     I therefore find that the prosecution has proved the charge beyond reasonable doubt and, I accordingly convict the accused as charged.
+
+## Sentence
+
+30     On the issue of sentencing, I note that the accused has the following antecedents:-
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="11.4822964592919%"> <col width="20.00400080016%"> <col width="24.4848969793959%"> <col width="23.4446889377876%"> <col width="20.5841168233647%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">S/No.</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Date of Conviction</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Offence</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Sentence</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Court and Case No.</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">1.</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">16/02/1982</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">S38(1)C.102 Fraudulent Possession of Property</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">$100 fine (paid in full)</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">MAC 1370/82</p><p align="justify" class="Table-Para-1">Court 26</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">2.</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">23/03/1982</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">S6(B) MDA 1973 Consumption of a Controlled Drug</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">SAF Detention 18 months</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">N.A.</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">3.</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">13/10/1987</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">R 8(2)(f) MDR 1976 Failure to Report for Urine Test</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">TIC</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">MAC 5369/87</p><p align="justify" class="Table-Para-1">Court 12</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">4.</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">13/10/1987</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">R 8(2)(f) MDR 1976 Failure to Report for Urine Test</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">TIC</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">MAC 5370/87</p><p align="justify" class="Table-Para-1">Court 12</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">5.</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">13/10/1987</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">R 8(2)(f) MDR 1976 Failure to Report for Urine Test</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">TIC</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">MAC 5371/87</p><p align="justify" class="Table-Para-1">Court 12</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">6.</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">31/10/1987</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">S 6(1) C.65 Carrying Offensive Weapon in Public Places</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">TIC</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">MAC 5165/87</p><p align="justify" class="Table-Para-1">Court 12</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">7.</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">31/10/1987</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">S 8(A) C185 Unauthorised Possession of Controlled Drug</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">1 month imprisonment</p><p align="justify" class="Table-Para-1">(concurrent)</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">MAC 5697/87</p><p align="justify" class="Table-Para-1">Court 12</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">8.</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">31/10/1987</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">S 8(B) C185 Consumption of Controlled Drug</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">1 month imprisonment</p><p align="justify" class="Table-Para-1">(concurrent)</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">MAC 5698/87</p><p align="justify" class="Table-Para-1">Court 12</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">9.</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">31/10/1987</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">S392 C224 Robbery</p><p align="justify" class="Table-Para-1">R/W S397 C224 Robbery when armed or with attempt to cause death or grievous hurt</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">TIC</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC 5402/87</p><p align="justify" class="Table-Para-1">Court 12</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">10.</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">31/10/1987</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">S392 C224 Robbery</p><p align="justify" class="Table-Para-1">R/W S397 C224 Robbery when armed or with attempt to cause death or grievous hurt</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">TIC</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC 5401/87</p><p align="justify" class="Table-Para-1">Court 12</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">11.</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">31/10/1987</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">S392 C224 Robbery</p><p align="justify" class="Table-Para-1">R/W S397 C224 Robbery when armed or with attempt to cause death or grievous hurt</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">30 months imprisonment with 12 strokes caning</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC 5398/87</p><p align="justify" class="Table-Para-1">Court 12</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">12.</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">31/10/1987</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">S392 C224 Robbery</p><p align="justify" class="Table-Para-1">R/W S397 C224 Robbery when armed or with attempt to cause death or grievous hurt</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">TIC</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC 5400/87</p><p align="justify" class="Table-Para-1">Court 12</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">13.</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">31/10/1987</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">S392 C224 Robbery</p><p align="justify" class="Table-Para-1">R/W S397 C224 Robbery when armed or with attempt to cause death or grievous hurt</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">TIC</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC 5399/87</p><p align="justify" class="Table-Para-1">Court 12</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">14.</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">18/02/1991</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">R 8(3)(f) MDR 1976 Failure to Report for Urine Test</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">3 months imprisonment</p><p align="justify" class="Table-Para-1">(Consecutive)</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">MAC 1629/91</p><p align="justify" class="Table-Para-1">Court 26</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">15.</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">18/02/1991</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">R 8(3)(f) MDR 1976 Failure to Report for Urine Test</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">3 months imprisonment</p><p align="justify" class="Table-Para-1">(Concurrent)</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">MAC 1630/91</p><p align="justify" class="Table-Para-1">Court 26</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">16.</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">18/02/1991</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">R 8(3)(f) MDR 1976 Failure to Report for Urine Test</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">3 months imprisonment</p><p align="justify" class="Table-Para-1">(Concurrent)</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">MAC 1631/91</p><p align="justify" class="Table-Para-1">Court 26</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">17.</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">18/02/1991</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">S356 C224 Snatch Theft</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">2 years imprisonment</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC 1408/91</p><p align="justify" class="Table-Para-1">Court 26</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">18.</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">18/02/1991</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">S356 C224 Snatch Theft</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">2 years imprisonment</p><p align="justify" class="Table-Para-1">(Concurrent)</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC 1409/91</p><p align="justify" class="Table-Para-1">Court 26</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">19.</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">17/03/1997</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">S8(A) C185 Unauthorised possession of controlled drugs</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">2 years imprisonment</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC 5905/97</p><p align="justify" class="Table-Para-1">Court 26</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">20.</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">14/03/2002</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">S8(B)(ii) C185 Smoking, Self-Administering or Consuming of Specified Drug R/W S33A(1)(C) C185 LT1 Offence</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">5 years 6 months imprisonment and 3 strokes caning</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC 8236/2002</p><p align="justify" class="Table-Para-1">Court 24</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">21.</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">28/10/2011</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">S31(2) C185 Failure to provide specimen of urine for urine test P/U S33A(2) C185 LT2 Offence</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">7 years LT2 imprisonment with 6 strokes caning</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC 40545/2011</p><p align="justify" class="Table-Para-1">Court 11</p></td></tr></tbody></table>
+
+  
+  
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="12.32%"> <col width="23.3%"> <col width="34.24%"> <col width="30.14%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">S/No.</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Date of Order</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Offence</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Order</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">1.</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">04/06/1981</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">S29(4) C262 Being member of unlawful society</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Placed on record by Order of Registrar of Societies</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">2.</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">22/03/1983</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">S6(B) MDA 1973 Consumption of controlled drug R/W S33(2) MDA Treatment Drug addict to undergo treatment or rehabilitation</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Placed under 2 years drug supervision</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">3.</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">19/10/1983</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">S6(B) MDA 1973 Consumption of controlled drug R/W S33(2) MDA Treatment Drug addict to undergo treatment or rehabilitation</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">18 months Drug Rehabilitation Centre Medical</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">4.</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">15/02/1985</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">S6(B) MDA 1973 Consumption of controlled drug R/W S33(2) MDA Treatment Drug addict to undergo treatment or rehabilitation</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Placed under 2 years drug supervision</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">5.</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">08/10/1990</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">S8(B) C185 Consumption of specified drug</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Placed under 2 years drug supervision</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">6.</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">16/10/1996</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">S8(B) C185 Consumption of specified drug</p><p align="justify" class="Table-Para-1">R/W S37(2)(B) C185 Drug addict to undergo treatment or rehabilitation</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">6 months Drug Rehabilitation Centre Urine</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">7.</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">01/09/1999</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">S8(B)(ii) C185 Smoking, self-administering or consuming specified drug</p><p align="justify" class="Table-Para-1">Drug type : Morphine</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">6 months Drug Rehabilitation Centre Urine</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">8.</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">14/09/2001</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">S8(B)(ii) C185 Smoking, self-administering or consuming specified drug</p><p align="justify" class="Table-Para-1">R/W S37(2)(B) C185 Drug addict to undergo treatment or rehabilitation</p><p align="justify" class="Table-Para-1">Drug type : Morphine</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Placed under 24 months drug supervision</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">9.</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">15/10/2005</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">S8(B)(ii) C185 Smoking, self-administering or consuming specified drug</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Placed under 24 months drug supervision</p><p align="justify" class="Table-Para-1">Complete 1 year SO</p><p align="justify" class="Table-Para-1">(Date of review – 14/11/2006)</p></td></tr></tbody></table>
+
+  
+  
+
+## Mitigation Factors
+
+31     I had invited the accused to submit his mitigation but the accused had informed that he does not wish to mitigate as he will be appealing against my decision.
+
+## My Orders
+
+32     I note that Section 33(2) of the MDA provides that where a person who has been punished under section 33(1) of the MDA is again convicted of an offence of consumption of a specified drug under section 8(b) or an offence of failure to provide a urine specimen under section 31(2), he shall be on conviction be punished with –
+
+(1)     imprisonment of not less than 7 years and not more than 13 years; and
+
+(2)     not less than 6 strokes and not more than 12 strokes of the cane.
+
+33     I also noted that the accused is past the age of 50 years and he is not liable for caning.
+
+34     The prosecution had pointed out to me that the accused was previously sentenced to 7 years imprisonment and 6 strokes of the cane by District Court No. 11 on 28 October 2011 for a similar charge under section 31(2) read with section 33A(2). The prosecution was of the view that given this antecedent, the current sentence must warrant an uplift from the 7 years previously ordered.
+
+35     Taking into account all the above considerations, I imposed a sentence of 7 years and 3 months’ imprisonment on the accused. I also took into account that the accused has been in remand since 25 October 2017 and I back-dated the sentence to start from 25 October 2017.
+
+36     The accused is currently serving his sentence pending appeal.
+
+* * *
+
+[\[note: 1\]](#Ftn_1_1)See section 325 of the Criminal Procedure Code
+
+[\[note: 2\]](#Ftn_2_1)Paragraph 3 of Prosecution’s Closing Submission
+
+[\[note: 3\]](#Ftn_3_1)Paragraph 5 of Prosecution’s Closing Submission
+
+[\[note: 4\]](#Ftn_4_1)See NE Day 3 page 3
+
+[\[note: 5\]](#Ftn_5_1)Evident from NE Day 3 Page 6 where accused said that he was at the hospital when CNB asked him to confirm the bottles before he deposited them into the metal container for HSA testing
+
+[\[note: 6\]](#Ftn_6_1)See NE Day 3 Page 18 lines 13 to 23
+
+[\[note: 7\]](#Ftn_7_1)See NE Day 3 Page 5 lines 1 to 20
+
+[\[note: 8\]](#Ftn_8_1)See NE Day 1 Pages 9 and 10
+
+[\[note: 9\]](#Ftn_9_1)See Page 67 of P3 and NE Day 1 Page 37 and 38
+
+[\[note: 10\]](#Ftn_10_1)See NE Day 1 Pages 71 to 78 and 81 to 86
+
+[\[note: 11\]](#Ftn_11_1)See NE Day 1 Pages 14 to 15
+
+[\[note: 12\]](#Ftn_12_1)See NE Day 1 Page 15 Lines 24 to 30 and Page 16 Lines 15 to 25
+
+[\[note: 13\]](#Ftn_13_1)See NE Day 1 Page 16 Lines 27 to Page 17 Line 16
+
+[\[note: 14\]](#Ftn_14_1)See NE Day 1 Page 29 Line 12 to Page 32 Line 17
+
+[\[note: 15\]](#Ftn_15_1)See NE Day 1 Page 123 to 124
+
+[\[note: 16\]](#Ftn_16_1)See NE Day 1 Page 49 to 50
+
+[\[note: 17\]](#Ftn_17_1)See NE Day 1 Page 32 Line 26 to Page 33 Line 8
+
+[\[note: 18\]](#Ftn_18_1)See page 68 to 69 of P3
+
+[\[note: 19\]](#Ftn_19_1)See NE Day 1 Page 87 Lines 14 to 28
+
+[\[note: 20\]](#Ftn_20_1)See NE Day 1 Page 93 Line 1 to Page 94 Line 21
+
+[\[note: 21\]](#Ftn_21_1)See Page 69 of P3
+
+[\[note: 22\]](#Ftn_22_1)See Page 71 of P3
+
+[\[note: 23\]](#Ftn_23_1)See NE Day 1 Page 38 to Page 44
+
+[\[note: 24\]](#Ftn_24_1)See NE Day 2 Page 8 Line 4 to 18
+
+[\[note: 25\]](#Ftn_25_1)See Page 74 of P3
+
+[\[note: 26\]](#Ftn_26_1)See NE Day 1 Page 115 Lines 1 to 15
+
+[\[note: 27\]](#Ftn_27_1)See NE Day 1 Page 118 Line 5 to Page 119 Line 17
+
+[\[note: 28\]](#Ftn_28_1)See NE Day 1 Page 117 Lines 27 to 32
+
+[\[note: 29\]](#Ftn_29_1)See Page 72 of P3
+
+[\[note: 30\]](#Ftn_30_1)See Paragraph 1 and 2 of P5
+
+[\[note: 31\]](#Ftn_31_1)See Paragraph 3 of P5
+
+[\[note: 32\]](#Ftn_32_1)See NE Day 1 Page 98
+
+[\[note: 33\]](#Ftn_33_1)See NE Day 1 Page 98 Lines 19 to 28
+
+[\[note: 34\]](#Ftn_34_1)See NE Day 1 Page 115 Lines 1 to 15
+
+[\[note: 35\]](#Ftn_35_1)See NE Day 1 Page 118 Line 5 to Page 119 Line 17
+
+[\[note: 36\]](#Ftn_36_1)NE Day 1 Page 106 and 107
+
+[\[note: 37\]](#Ftn_37_1)See NE Day 1 Page 102 Lines 1 to 14 and P6
+
+[\[note: 38\]](#Ftn_38_1)See NE Day 1 Page 118 to Page 119
+
+[\[note: 39\]](#Ftn_39_1)See NE Day 1 Page 111 Line 24 to Page 115 Line 18
+
+[\[note: 40\]](#Ftn_40_1)See paragraph 1 of P6
+
+[\[note: 41\]](#Ftn_41_1)See Page 74 of P3
+
+[\[note: 42\]](#Ftn_42_1)See P15
+
+[\[note: 43\]](#Ftn_43_1)See paragraph 5 of P16
+
+[\[note: 44\]](#Ftn_44_1)See Paragraph 6 of P16
+
+[\[note: 45\]](#Ftn_45_1)See NE Day 3 Page 4 Lin 31 to Page 5 Line 24
+
+[\[note: 46\]](#Ftn_46_1)See NE Day 1 Pg 118 to 119
+
+[\[note: 47\]](#Ftn_47_1)See NE Day 1 Page 98 Line 18 to 28
+
+[\[note: 48\]](#Ftn_48_1)See NE Day 1 Page 98
+
+[\[note: 49\]](#Ftn_49_1)See Paragraph 5 of P16
+
+[\[note: 50\]](#Ftn_50_1)See the timing recorded in P3
+
+[\[note: 51\]](#Ftn_51_1)See Page 67 of P3
+
+[\[note: 52\]](#Ftn_52_1)See P3
+
+[\[note: 53\]](#Ftn_53_1)See Page 70 of P3 and NE Day 1 Page 53 Line 28 to Page 54 Line 8
+
+[\[note: 54\]](#Ftn_54_1)See Page 70 of P3
+
+[\[note: 55\]](#Ftn_55_1)See Page 72 of P3 and NE Day 1 Page 60 Line 10 to 21
+
+[\[note: 56\]](#Ftn_56_1)See Page 74 of P3 and NE Day 2 Page 14 Line 29 to Page 18 Line 20
+
+[\[note: 57\]](#Ftn_57_1)See P3
+
+[\[note: 58\]](#Ftn_58_1)See NE Day 3 Page 4 Line 4 to 11
+
+[\[note: 59\]](#Ftn_59_1)See NE Day 1 Page 61 Line 1 to 7
+
+[\[note: 60\]](#Ftn_60_1)See NE Day 3 Page 4 Line 20 to27 and Page 18 Line 17 to 21
+
+[\[note: 61\]](#Ftn_61_1)See NE Day 2 page 48 Line 8 to 12
+
+[\[note: 62\]](#Ftn_62_1)See NE Day 2 Page 48 Line 17 to Page 49 Line18 and Page 73 of P3
+
+[\[note: 63\]](#Ftn_63_1)See NE Day 2 Page 21 Line 24
+
+[\[note: 64\]](#Ftn_64_1)See P7, P8, P9 and P10 and NE Day 2 Page 23 to 34
+
+[\[note: 65\]](#Ftn_65_1)See P11 and NE Day 2 Page 33 Line 3 to 32
+
+[\[note: 66\]](#Ftn_66_1)See P12 – Report Under Section 263 of the Criminal Procedure Code by PW15
+
+[\[note: 67\]](#Ftn_67_1)See NE Day 2 Page 37 Line 30 to Page 39 Line 1
+
+[\[note: 68\]](#Ftn_68_1)See NE Day 2 Page 39 Line 8 to 16
+
+[\[note: 69\]](#Ftn_69_1)See NE Day 1 Page 44 Line 25 to Page 47 Line 13
+
+[\[note: 70\]](#Ftn_70_1)See NE Day 1 Page 4 to 6
+
+[\[note: 71\]](#Ftn_71_1)
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F23026-SSP.xml)

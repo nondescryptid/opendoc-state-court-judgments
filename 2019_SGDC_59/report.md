@@ -1,0 +1,212 @@
+# Public Prosecutor _v_ Seet Eng Ann  
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">DAC-931894-2018, Magistrate's Appeal No. 9054 &amp; 9059/2019/01</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">05 April 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Lorraine Ho</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">DSP Toh Hock Guan Francis (Criminal Investigation Division) for the Public Prosecutor; Daniel Atticus Xu (Exodus Law Corporation) for the Accused</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Seet Eng Ann</td></tr></tbody></table>
+
+Criminal Procedure and Sentencing – Sentencing – Road Traffic Act – Drink-Driving – Second Conviction
+
+\[LawNet Editorial Note: An appeal to this decision has been filed in MA 9054/2019/01 and MA 9059/2019/01 \]
+
+5 April 2019
+
+### District Judge Lorraine Ho:
+
+## INTRODUCTION
+
+1       A person who drinks and drives not only poses a danger to other road users but also to himself. There is hence a need to strongly deter motorists from drink driving, a fortiori when the offence is committed for a second time. In Singapore, the consequences are harsh and severe for a recalcitrant drink driver. They attract not only a fine and an order of disqualification from holding or obtaining all classes of driving licences being imposed, but also a mandatory imprisonment term not exceeding 12 months.
+
+2       The accused, a 55-year-old Singaporean male and works as a sales manager for a household electronic appliances distribution company, was arrested for drink driving while driving his motorcar no. SJQ2171T (“the accused’s motorcar”) along Lavender Street towards the direction of Balestier Road, when he was stopped at the police roadblock for checks at about 2.10am on 30 August 2018.
+
+3       Consequently, the accused was charged under Section 67(1)(b) of the Road Traffic Act (“RTA”) for driving under the influence of alcohol beyond the prescribed limit. This was his second time being charged for the same offence, his first conviction being on 4 May 2011.
+
+4       Originally, the accused had wanted to plead guilty on 21 January 2019. However, there was an issue with the Breath Evidential Analyser (BEA) test reading of the accused’s alcohol level for his earlier conviction which was stated in his written mitigation plea. As such, the Prosecution sought for an adjournment to verify this fact.
+
+5       On 18 February 2019, the Prosecution was ready to proceed. This time, the accused asked for a final adjournment till after the Chinese New Year period at the end of February 2019 to plead guilty. He had wanted to settle his personal matters. A final adjournment was therefore granted to the accused. Finally, on 28 February 2019, the accused pleaded guilty before me to the said drink driving charge and was sentenced to two weeks’ imprisonment with effect from 28 February 2019 and fined $5,000 in default 20 days’ imprisonment. Additionally, pursuant to s67(2) of the RTA, the accused was disqualified from holding or obtaining all classes of driving licences for a period of 36 months with effect from the date of his release.
+
+6       The accused initially filed a Notice of Appeal dated 8 March 2019 against the sentence imposed on him whilst he was serving the two weeks’ imprisonment term. He paid the $5000 fine in full. After the accused completed serving the imprisonment term on 13 March 2019, he filed another Notice of Appeal on the same day to specifically appeal against the order of disqualification from obtaining all classes of driving licences (“DQAC”) for a period of 36 months imposed. The accused has not applied for a stay of the disqualification order pending the appeal.
+
+## BACKGROUND FACTS
+
+### The Charges
+
+7       The singular drink driving charge reads as follows:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="29.96%"> <col width="70.04%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><u>Charge No.</u></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><u>Description of the Charge</u></p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Charge –</p><p align="justify" class="Table-Para-1">Drink driving charge</p><p align="justify" class="Table-Para-1">(DAC-931894-2018)</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">You, are charged that you, on the 30th August 2018, at about 2.10 am, along Lavender Street towards the direction of Balestier Road somewhere near to lamp post number 40, Singapore, when driving motor car SJQ 2171 T, did have so much alcohol in your body that the proportion of it in your breath, to wit, <b>not less than 49 microgrammes of alcohol in 100 millilitres of breath</b>, exceeded the prescribed limit of 35 microgrammes of alcohol in 100 millilitres of breath and you have thereby committed an offence punishable under Section 67(1)(b) of the Road Traffic Act, Chapter 276.</p><p align="justify" class="Table-Para-1">And further, that you, before the committing of the said offence, that is to say that you, 4th May 2011 had been convicted at the Subordinate Court (now known as State Court) No. 21 of Singapore, for an offence of Drink Driving under Section 67(1)(b) of the Road Traffic Act, Chapter 276</p><p align="justify" class="Table-Para-1">(DAC/8176/11), which conviction has not been set aside, and you shall be punishable under Section 67(1), Road Traffic Act, Chapter 276.</p></td></tr></tbody></table>
+
+  
+  
+
+### Statement of Facts
+
+8       The accused admitted to the Statement of Facts (“SOF”) without qualification. A concise, succinct and edited version of the SOF depicting the offence of the drink driving charge reads as follows:
+
+…
+
+3    On 30th August 2018 about 2.10 am, the accused was driving motorcar **SJQ2171T** along Lavender Street towards the direction of Balestier Road near lamp post 40, Singapore, where he was stopped at the police roadblock for checks. The complainant approached the accused and upon talking to him, the complainant observed that the accused reeked of alcohol. A breathalyzer test was conducted on the accused and the result shown “Fail”. The accused was arrested for driving under the influence of alcohol and escorted back to Traffic Police for the Breath Analysing Device (BAD) test.
+
+4    The Breath Analysing Device test was conducted by Staff Sergeant Faezah Mohd Ata on 30th August 2018 at about 3.09 am at Traffic Police. The breath test revealed that the proportion of alcohol in accused’s breath was **49 microgrammes of alcohol in every 100 millilitres of breath**. The prescribed limit is 35 microgrammes of alcohol per 100 millilitres of breath.
+
+5    Investigation revealed that on 29th August 2018 at about 10 plus pm, the accused drove to Kampung Bahru and had gone to a pub called ‘De Red Dot’. The accused started drinking at the said pub at about 10.45 pm and had consumed about four bottles of “Carlsberg” beer. He ended drinking at about 12.30 am on the 30th August 2018 and left the place at about 1 plus am thereafter and drove his vehicle intending to go for supper at Jalan Besar when he was stopped at the police roadblock for checks.
+
+6    Further investigations also revealed that before the committing of the said offence, the accused had on, 4th May 2011 had been convicted at the State Court of Singapore, for an offence of Driving while under the influence of drink under Section 67(1)(b) of the Road Traffic Act, Chapter 276 (DAC/8176/11), which conviction has not been set aside, and he shall be punishable under Section 67(1), Road Traffic Act, Chapter 276.
+
+.…
+
+## SENTENCE
+
+### Antecedents
+
+9       On 4 May 2011, the accused was fined $2,000 and given a one-year disqualification period for his first drink driving conviction.
+
+10     Other than the earlier drink driving conviction, the accused had various compounded offences for speeding (2 times), failing to give driver’s particulars (1 time), failing to wear seat belt (1 time), failing to conform to “no waiting” sign (2 times), using mobile telephone while driving (1 time) and parking (15 times).
+
+### Prosecution’s Address on Sentence
+
+11     The Prosecution orally submitted a sentence of at least two to four weeks’ imprisonment as the usual benchmark sentence. This was given the fact that it was the accused’s second drink driving offence. As for the appropriate fine amount and duration of the disqualification order, the Prosecution did not make any specific submission and left them to the court’s discretion.
+
+### Mitigation
+
+12     The Defence tendered a written mitigation. Defence counsel submitted that a sentence of one week’s imprisonment, fine of $5,000 and DQAC for two years would adequately serve as a deterrent sentence for the accused from drink driving again. Nevertheless, no legal authorities were tendered to support the Defence’s sentencing submissions or the fact that the accused should be given a sentence that is lower than the usual benchmark sentence for a second time offender.
+
+13     First, Defence counsel highlighted that little weight should be placed on the accused’s drink driving antecedent, as it was in 2011, some 8 years ago. Furthermore, since the accused reobtained his licence on 2 June 2012, he had maintained a clean driving record and did not commit any traffic offences or receive any demerit points until the present offence.
+
+14     Next, the proportion of alcohol in his breath was 37 microgrammes of alcohol in every 100 millilitres of breath for his first drink driving offence. This was only a mere 1.057 times the prescribed limit. Unfortunately, he was then unrepresented and failed to seek legal advice before pleading guilty to his first offence.
+
+15     It was because of this submission made by the Defence that Prosecution sought for an adjournment to verify the details of the accused’s earlier drink driving conviction. This was because as part of the Prosecution’s discretion, it would typically administer a stern warning on a potential accused if the alcohol level had only exceeded the prescribed limit marginally. This was to take into account any margin of error.
+
+16     The case file for the court papers in respect of the accused’s first conviction was eventually retrieved. The papers revealed that the accused was, on the contrary, charged for having a proportion of alcohol in his breath at 49 microgrammes instead of 37 microgrammes in every 100 millilitres of breath as submitted by the Defence. Hence, the accused’s alcohol level during his first conviction did not merely exceed the prescribed limit marginally as alleged.
+
+17     In light of the correction made to the facts pertaining to the accused’s first drink driving conviction, the Defence then sought to argue that the alcohol level for the accused’s first conviction was the same as the present charge. They were both within Band 1 of the benchmark sentence as set out in the case of _Edwin s/o Suse Nathen v PP_ (_“Edwin Suse”_).
+
+18     The table of sentencing guidelines for first offenders based on the bands for level of alcohol as set out at \[22\] of _Edwin Suse_ is as follows:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="14.5%"> <col width="25.12%"> <col width="29.9%"> <col width="30.48%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Band</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Level of alcohol (μg</b></p><p align="center" class="Table-Para-1"><b>per 100 ml of breath)</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Range of fines</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Range of disqualification</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">1</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">35 – 54</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">$1,000 – $2,000</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">12 – 18 months</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">2</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">55 – 69</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">$2,000 – $3,000</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">18 – 24 months</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">3</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">70 – 89</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">$3,000 – $4,000</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">24 – 36 months</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">4</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">≥ 90</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">&gt; $ 4,000</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">36 – 48 months (or longer)</p></td></tr></tbody></table>
+
+  
+  
+
+Therefore, the Defence submitted that the alcohol levels for both the accused’s first and second offences were within the low range.
+
+19     Moreover, the Defence emphasized that the accused had staggered his drinking time before driving in the present incident by only driving when it was about 2 hours after he last took alcohol. He had genuinely thought or believed that the alcohol level in his body had dropped to below the legal limit before he commenced driving.
+
+20     Further, the accused is a very responsible family man who works diligently as a sales manager. This incident was a one-off aberration as such. The Defence tendered a character reference letter from the accused’s employer in support of the accused’s work ethics, dedication to work and other positive qualities. As the accused is a sales manager, his livelihood depended heavily on his driving licence since the accused is required to travel to meet the company’s clients.
+
+21     In terms of his family circumstances, the accused is the main breadwinner of the family, which consists of his wife, two children, aged 18 and 22, as well as his parents-in-law. The Accused’s eldest son had been diagnosed with post traumatic cataract and glaucoma in his right eye after a sports accident in 2015. He now requires constant care from the accused, who has been ferrying him to and from his medical appointments and school.
+
+22     Last but not least, the Accused is deeply remorseful for his actions. He has expressed willingness to turn over a new leaf and hopes to be a useful member of society. The Accused has cooperated fully with any and all investigations, and has elected to plead guilty without qualification to the charge. This has saved the court and Prosecution much valuable time and resources.
+
+23     In the circumstances, the Defence sought, in particular, for a shorter custodial term and disqualification period.
+
+### Reasons for Sentence
+
+24     Section 67(1)(b) of the RTA states:
+
+**Driving while under influence of drink or drugs**
+
+67.—(1)    Any person who, when driving or attempting to drive a motor vehicle on a road or other public place —
+
+…
+
+(b)     _has so much alcohol in his body that the proportion of it in his breath or blood exceeds the prescribed limit_,
+
+shall be guilty of an offence and shall be liable on conviction to a fine of not less than $1,000 and not more than $5,000 or to imprisonment for a term not exceeding 6 months and, in the case of a second or subsequent conviction, _to a fine of not less than $3,000 and not more than $10,000 and to imprisonment for a term not exceeding 12 months._ \[Emphasis added\]
+
+25     The “prescribed limit” is defined under s72(1) of the RTA to mean:
+
+(a)     35 microgrammes of alcohol in 100 millilitres of breath; or
+
+(b)     80 milligrammes of alcohol in 100 millilitres of blood.
+
+26     The accused had exceeded the prescribed limit of alcohol in his body by 1.4 times.
+
+27     For the disqualification period, pursuant to s67(2) of the RTA:
+
+(2)    A person convicted of an offence under this section shall, unless the court for special reasons thinks fit to order otherwise and without prejudice to the power of the court to order a longer period of disqualification, be _disqualified from holding or obtaining a driving licence for a period of not less than 12 months_ from the date of his conviction or, where he is sentenced to imprisonment, from the date of his release from prison. \[Emphasis added\]
+
+28     Even though the accused has already paid the fine and served the imprisonment term imposed on him, as he had earlier appealed on sentence, I would explain briefly why I am of the view that the overall sentence imposed on him as a second repeat offender is within the usual benchmark sentence. Regardless, it cannot be said to be manifestly excessive.
+
+#### Case Law
+
+29     As the court was not assisted in the present case, I had to revert to well-established case law from the High Court, which this court is bound by in any event.
+
+30     In _PP v Lee Soon Lee Vincent_ \[1998\] 3 SLR 553 (“_Vincent Lee_”), the respondent pleaded guilty to two charges, one of which was for drink driving and the other for speeding. This was the respondent’s second drink driving offence. On 17 October 1997, the respondent was caught speeding along the Tampines Expressway. As his breath smelled of alcohol, he was brought back to the traffic police station and subjected to the BEA test. The test revealed that the respondent had 38 microgrammes of alcohol per 100 millilitres of breath.
+
+31     In the court below, the district judge sentenced the respondent to only a fine of $6,000 and disqualification period of four years in respect of the drink driving charge (there was a separate sentence imposed for the speeding charge). This was even though the prosecution had urged the court to impose an imprisonment term since this was the respondent’s second conviction for drink driving. That being so, an imprisonment term was mandatory.
+
+32     Subsequently, the prosecution appealed only in respect of the sentence imposed under the drink driving charge. At the hearing of the appeal, the former Chief Justice Yong Pung How agreed with the prosecution that an imprisonment term was mandatory for a repeat drink driving offender under s67(1) of the RTA. Thus, he sentenced the respondent to two weeks’ imprisonment in addition to the fine of $6,000 and DQAC of four years for the drink driving charge.
+
+33     In sentencing the respondent, Chief Justice Yong Pung How held that he took into account the fact that the respondent had exceeded the legal limit by only three microgrammes, his previous drinking offence was some seven years ago, that he pleaded guilty to the present offence and had co-operated with the police when stopped.
+
+34     I have also had the opportunity to refer to a more recent decision of _PP v Teo Wee Jin_ (“_Teo Wee Jin_”) \[the appeal to this decision by the accused was dismissed by the High Court on 23 August 2017\], which also involved a second offender for drink driving. In that case, the accused was convicted on 23 March 2017 under s67(1)(b) of the RTA and was sentenced to two weeks’ imprisonment, a fine of $5,000 and a disqualification period of 42 months. His BEA test reading was 48 microgrammes of alcohol in every 100 millilitres of breath.
+
+35     Teo Wee Jin was first convicted for drink driving on 3 March 2015. He was fined a sum of $1,500 and was imposed a disqualification period of 14 months. It was not stated what was the BEA test reading during the first offence. Nonetheless, based on the sentence imposed on him, the alcohol level would likely to have fallen within Band 1 based on the sentencing framework in _Edwin Suse_.
+
+36     The district court in _Teo Wee Jin_ held at \[7\] that the sentencing norm for an accused who has pleaded guilty to a second conviction under s67(1)(b) of the RTA is generally a “2 to 5 weeks’ imprisonment”, a fine in the range of “$4,000 to $7,000”, and a disqualification period of between “4 to 7 years”. The sentence would depend on factors such as the level of alcohol, the length of time from the previous conviction, the extent of any harm caused etc.
+
+37     A comparison of the facts in both the cases of _Vincent Lee_ and _Teo Wee Jin_ with those of the present accused is as follows:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="29.6659331866373%"> <col width="23.6647329465893%"> <col width="23.3446689337868%"> <col width="23.3246649329866%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">&nbsp;</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>Vincent Lee</em></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>Teo Wee Jin</em></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>Seet Eng Ann</em></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Date of first drink driving conviction</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">1991</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">3 March 2015</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">4 May 2011</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Sentence of first drink driving conviction</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Fine of $1,500 and DQ Class 3 vehicles for 1 year</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Fine of $1,500 and DQAC for 14 months</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Fine of $2,000 and DQAC for 1 year</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Breath-alcohol level for first drink driving conviction</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Not available</p><p align="justify" class="Table-Para-1">(would have fallen within Band 1 based on <em>Edwin Suse)</em></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Not available</p><p align="justify" class="Table-Para-1">(would have fallen within Band 1 based on <em>Edwin Suse</em>)</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">49 microgrammes</p><p align="justify" class="Table-Para-1">Band 1 based on <em>Edwin Suse)</em></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Date of second drink driving conviction</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">6 March 1998</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">23 March 2017</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">28 February 2019</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Duration between the 1<sup>st</sup> and 2<sup>nd</sup> conviction</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">About 7 years</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">About 2 years</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">About 8 years</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Breath-alcohol level for second drink driving conviction</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">38 microgrammes</p><p align="justify" class="Table-Para-1">(would have fallen within Band 1 based on <em>Edwin Suse)</em></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">48 microgrammes</p><p align="justify" class="Table-Para-1">(would have fallen within Band 1 based on <em>Edwin Suse</em>)</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">49 microgrammes</p><p align="justify" class="Table-Para-1">Band 1 based on <em>Edwin Suse)</em></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Amount above prescribed limit</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">3 microgrammes</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">13 microgrammes</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">14 microgrammes</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Sentence imposed</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">2 weeks’ imprisonment, fine $6,000 and DQAC for 4 years</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">2 weeks’ imprisonment, fine $5,000 and DQAC for 42 months</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">2 weeks’ imprisonment, fine $5,000 and DQAC for 36 months</p></td></tr></tbody></table>
+
+  
+  
+
+#### Imprisonment Term
+
+38     As can be seen from the comparison table, all three accused were given a two weeks’ imprisonment term for their second drink driving offence. It is apposite to note that the alcohol level for all of them in respect of both the first and second drink driving offences would have fallen within Band 1 based on the sentencing framework in _Edwin Suse._
+
+39     In fact, it will be pertinent to point out that when comparing _Vincent Lee_ and the present case, even though the duration of the conviction between the first and second offences for the accused was about a year longer, the alcohol level for the second offence in _Vincent Lee_ was 11 microgrammes less than the accused. Yet, Vincent Lee was imposed a larger fine amount of $6,000 and longer disqualification period of four years as compared to the accused.
+
+40     As such, I agreed with the prosecution and imposed the usual benchmark sentence of two weeks’ imprisonment on the accused in the present case. This was clearly in line with the sentence as meted out in both _Vincent Lee_ and _Teo Wee Jin_. It was too within the lower end of the usual benchmark for an imprisonment term.
+
+#### Fine
+
+41     As for the quantum of the fine, I agreed with the Defence’s submissions and imposed a fine of $5,000. Again, this was in line with the sentencing norm of $4,000 to $7,000 for a second offender and fell within the lower end of the range. Furthermore, the accused in _Teo Wee Jin_ was, similar to the accused, fined $5,000 for a Band 1 alcohol level in respect of the second offence.
+
+#### Disqualification Period
+
+42     I now come to the main bone of contention in the accused’s appeal, which is the duration of the disqualification period.
+
+43     In coming to my decision on the appropriate sentence to be imposed, I have considered the relevant aggravating and mitigating factors that bear upon the sentence. Generally, whilst one may be sympathetic, I did not find the personal and family circumstances of the accused to be of significant mitigating value in the circumstances. Besides, the fact that his job as a Sales Manager requires him to drive is neither here nor there. If he knew that his livelihood depended heavily on his driving licence, then the accused ought not to have taken the unnecessary risk by driving after drinking.
+
+44     Additionally, the Defence was unable to provide any “special reasons” in the present circumstances to justify a disqualification period of 24 months being meted out on the accused. The Defence was simply relying on the argument that the disqualification period should not be more than double of the earlier sentence imposed since on both occasions, his alcohol level fell within Band 1 of the sentencing guidelines in _Edwin Suse_. Admittedly, it was conceded by Defence counsel that he was unable to find any authority in support of this argument.
+
+45     Indeed, for a second drink driving offence, there is no rule or principle that has been laid down that the duration of the disqualification order sought must not be more than double the first conviction.
+
+46     In actuality, as observable from the case authorities cited, quite apart from an accused’s alcohol level at the material time, there is a need for a draconian sentence against a second offender, including a longer disqualification period. This is necessary in order to provide a specific deterrent effect in light of the fact that the earlier sentence imposed did not cease to deter an accused from reoffending.
+
+47     Reference can be taken from the Second Reading of the Road Traffic (Amendment) Bill by the then Minister for Home Affairs. He explained the reason for the amendment to the old s67(1) of the RTA was to effect a drastic change (Parliamentary Debates dated 28 March 1990 cl 960 as quoted in _Vincent Lee_ at \[37\]):
+
+Sir, at present, a person driving under the influence of alcohol is liable to a fine not exceeding $1,000 or imprisonment not exceeding six months. Repeat offenders can be fined up to $2,000 or imprisoned for 12 months, or both. _The amendments seek to enhance this penalty by increasing the fine and imposing mandatory imprisonment for repeat offenders…For a repeat offender, the fine will be between $3,000 and $10,000, but this repeat offender will be subject to mandatory imprisonment, the period of which will not exceed 12 months. The court will decide on the period of imprisonment_ \[Emphasis added\]
+
+48     Additional guidance can be drawn from _PP v Tan Teck Hin_ at para \[35\], where the Court of Appeal had to consider the minimum punishment for a repeat offender under s67(1) of the RTA:
+
+We have no doubt at all that what Parliament intended to do was simply to enhance the punishment for persons found guilty of driving while under the influence of alcohol and drugs. The offence dealt with by the amended subsection is the same as that under the old subsection. What was changed was the punishment prescribed for persons convicted of the offence_. The Legislature was particularly intent on dealing severely with repeat offenders._ Rather than prescribing a maximum fine and imprisonment term and leaving it to the courts to impose an appropriate punishment up to the maximum, _Parliament prescribed the minimum as well_. _This indicates beyond doubt an intention to see that such criminal conduct is treated with the required degree of seriousness by the courts._
+
+\[Emphasis added\]
+
+49     Next, it is discernible when comparing the table of cases, that both the accused in _Vincent Lee_ and _Teo Wee Jin_ had a lower BEA test reading than the accused for their second conviction. For their first conviction, all three would have had an alcohol level within Band 1. Despite that, the accused was being meted out the lowest disqualification period amongst the three. Admittedly, the accused in _Teo Wee Jin_ had reoffended sooner than the accused here. This would undoubtedly have tilted the balance somewhat and accounted for the longer disqualification period being imposed on Teo Wee Jin_._
+
+50     Besides taking into consideration the accused’s alcohol level for both his convictions, (which were both in the Band 1 range as per _Edwin Suse_), I had also taken into account his other driving-related antecedents as well as the duration between his first and second convictions for drink driving. Last but not least, I have given due consideration that no accident or harm was caused, the accused had cooperated fully with the authorities and pleaded guilty as soon as possible.
+
+51     Pertinently, the accused highlighted in his mitigation that he had sought to be responsible after driving by resting for about two hours from drinking before driving instead of driving immediately after drinking. He had genuinely thought that the alcohol level in his body had dropped to below the legal limit before he commenced driving. This to me is not a mitigating factor.
+
+52     The true objective test is the BEA test reading after an accused is caught for driving under the influence of alcohol. How long a person rested after drinking before driving is subjective and varies for individuals. If a person chooses to drive immediately after drinking as compared to resting for a period before driving, the law will have already taken this into consideration as the sentence he or she receives will be higher given the higher alcohol level in the body at the material time.
+
+53     On the contrary, if one chooses to take the risk to drive after drinking even having rested for a while before doing so, one may have to bear the consequences that the alcohol level in his or her body may not have fallen below the legally prescribed limit. Such a risk also does not commensurate with the danger posed by driving with alcohol in one’s body, whether above or below the prescribed limit. The best practice may simply be choosing not to drive when one has chosen to drink.
+
+54     For the foregoing reasons, I am of the view that sentence imposed on the accused, including the disqualification period of 36 months is fair. Fundamentally, the sentence imposed cannot be said to be manifestly excessive. The sentence imposed is unequivocally lower than the usual sentencing range of DQAC for four to seven years.
+
+55     All things considered, I duly calibrated the sentence and imposed a two weeks’ imprisonment, fine of $5,000 in default 20 days’ imprisonment and 36 months’ disqualification period from holding or obtaining driving licences for all classes with effect from the date of release on the accused. The sentence, in my view, could not be said to be manifestly excessive given the circumstances as well as the strong policy reasons against drink driving.
+
+## CONCLUSION
+
+56     To summarise, as aforementioned, the accused was sentenced accordingly:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="32.94%"> <col width="67.06%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Charge No.</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Sentence Ordered</b></p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Charge</p><p align="justify" class="Table-Para-1">(DAC-931894-2018)</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Two (2) weeks'</b> imprisonment with effect from 28 February 2019 and fine of <b>$5,000</b>, in default twenty (20) days’ imprisonment</p><p align="justify" class="Table-Para-1">Disqualified from holding or obtaining all classes of driving licences for a period of <b>thirty-six (36) months</b> with effect from date of release.</p></td></tr></tbody></table>
+
+  
+  
+
+57     The accused, having paid the fine in full and served the imprisonment term imposed, is currently serving out the disqualification order. I understand that he was released from prison on 13 March 2019 and the disqualification order would have started to run from that date.
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F23019-SSP.xml)

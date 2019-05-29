@@ -1,18 +1,81 @@
-title: OpenDoc Template #----> Required
+title: OpenDoc Template
 remote_theme: opendocsg/opendoc-theme@v2
 timezone: Asia/Singapore
-repository: opendocsg/opendoc-template #----> Required
+repository: opendocsg/opendoc-template
 plugins:
   - jekyll-include-cache
 baseurl: ''
-server_PROD: https://search.opendoc.sg
-server_DEV: https://search-staging.opendoc.sg
-google_analytics:  #----> Optional, Google analytics ID
-order: #----> Optional, order of documents
+server_PROD: 'https://search.opendoc.sg'
+server_DEV: 'https://search-staging.opendoc.sg'
+google_analytics: null
+order:
   - README.md
   - sample.md
 styling_options:
-  primary_brand_color: '#444'  #----> Optional, theme color
-  logo_path: /assets/logo.png  #----> Optional, path to logo
+  primary_brand_color: '#444'
+  logo_path: /assets/logo.png
   opendoc_logo_path: /assets/images/logo-full.png
-  feedback_url:  #----> Optional, feedback url
+  feedback_url: null
+document_order:
+  - 2019_SGDC_105
+  - 2019_SGDC_103
+  - 2019_SGDC_98
+  - 2019_SGMC_21
+  - 2019_SGDC_104
+  - 2019_SGDC_93
+  - 2019_SGDC_100
+  - 2019_SGDC_96
+  - 2019_SGDC_97
+  - 2019_SGDC_95
+  - 2019_SGDC_77
+  - 2019_SGDC_94
+  - 2019_SGDC_85
+  - 2019_SGDC_91
+  - 2019_SGDC_76
+  - 2019_SGDC_92
+  - 2019_SGMC_18
+  - 2019_SGDC_46
+  - 2019_SGDC_73
+  - 2019_SGDC_89
+  - 2019_SGDC_84
+  - 2019_SGDC_82
+  - 2019_SGDC_83
+  - 2019_SGDC_88
+  - 2019_SGDC_81
+  - 2019_SGDC_80
+  - 2019_SGDC_79
+  - 2019_SGDC_78
+  - 2019_SGDC_50
+  - 2019_SGMC_13
+  - 2019_SGDC_69
+  - 2019_SGMC_17
+  - 2019_SGDC_62
+  - 2019_SGDC_74
+  - 2019_SGDC_66
+  - 2019_SGDC_68
+  - 2019_SGDC_72
+  - 2019_SGDC_60
+  - 2019_SGDC_64
+  - 2019_SGMC_16
+  - 2019_SGDC_61
+  - 2019_SGDC_59
+  - 2019_SGDC_71
+  - 2019_SGMC_15
+  - 2019_SGDC_65
+  - 2019_SGDC_70
+  - 2019_SGDC_48
+  - 2019_SGDC_63
+  - 2019_SGMC_14
+  - 2019_SGDC_58
+  - 2019_SGDC_57
+  - 2019_SGDC_56
+  - 2019_SGDC_55
+  - 2019_SGDC_47
+  - 2019_SGMC_12
+  - 2019_SGDC_54
+  - 2019_SGDC_52
+  - 2019_SGDC_49
+  - 2019_SGDC_38
+  - 2019_SGDC_45
+  - 2019_SGDC_40
+  - 2019_SGDC_44
