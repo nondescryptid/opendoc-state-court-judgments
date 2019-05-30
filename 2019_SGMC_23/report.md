@@ -1,0 +1,614 @@
+# Public Prosecutor _v_ GCD  
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">MAC-912908-2017 &amp; Ors (3)</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">23 May 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">Magistrates Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Chay Yuen Fatt</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">DPP Marshall Lim (Attorney-General's Chambers) for the Public Prosecutor; Remy Choo (Peter Low LLC); Jonathan Cho (Covenant Chambers LLC) for the accused</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — GCD</td></tr></tbody></table>
+
+\[LawNet Editorial Note: An appeal to this decision has been filed in MA 9104/2019/01.\]
+
+23 May 2019
+
+### District Judge Chay Yuen Fatt:
+
+## Introduction
+
+1       The accused, a 32-year old Filipino male national, was a music teacher at a music school. He faced four charges of molesting his 16-year old female student who was taking private cello lessons from him at the music school. The offences were committed on two separate days. The accused was convicted after trial of the four charges and sentenced to a total sentence of 21 months’ imprisonment and one (1) stroke of the cane.
+
+2       The accused appealed against the conviction and sentence. A stay of execution of the sentence was granted and he is presently on bail pending the appeal.
+
+## Charges
+
+3       The accused was convicted of four charges for molesting the victim under s 354(1) of the Penal Code (Cap. 224). The first charge was committed on a Saturday, 25 June 2016 (“first Saturday”). The remaining three charges were committed the following Saturday, 2 July 2016 (“second Saturday”). All four offences were committed in one of the music rooms at the music school when the accused was giving one-to-one cello lessons to the victim.
+
+4       For ease of reference, I set out the four charges (as redacted) against the accused:
+
+1st Charge (MAC-912908-2017)
+
+You…are charged that you, on the 25th day of June 2016, at about between 4.00pm and 6.00pm, inside a classroom number 5 of XXX Music School at XXX, Singapore, did use criminal force on one XXX, female 18 years old, intending to outrage her modesty, to wit, by placing your hand on the left side of her chest above her left breast, and you have thereby committed an offence punishable under Section 354(1) of the Penal Code, Chapter 224 (2008 Revised Edition).
+
+2nd Charge (MAC-912909-2017)
+
+You…are charged that you, on the 2nd day of July 2016, at about between 3.00pm and 4.00pm, inside a classroom number 5 of XXX Music School at XXX, Singapore, did use criminal force on one XXX, female 18 years old, intending to outrage her modesty, to wit, by placing your hand on the left side of her chest above her left breast several times, and you have thereby committed an offence punishable under Section 354(1) of the Penal Code, Chapter 224 (2008 Revised Edition).
+
+3rd Charge (MAC-912910)-2017
+
+You…are charged that you, on the 2nd day of July 2016, at about between 3.00pm and 4.00pm, inside a classroom number 5 of XXX Music School at XXX, Singapore, did use criminal force on one XXX, female 18 years old, intending to outrage her modesty, to wit, by placing your hand into her shirt and into her bra before touching her left breast by moving your hand left and right several times, and you have thereby committed an offence punishable under Section 354(1) of the Penal Code, Chapter 224 (2008 Revised Edition).
+
+4th Charge (MAC-912911-2017)
+
+You…are charged that you, on the 2nd day of July 2016, at about between 3.00pm and 4.00pm, inside a classroom number 5 of XXX Music School at XXX, Singapore, did use criminal force on one XXX, female 18 years old, intending to outrage her modesty, to wit, by touching her right thigh, and you have thereby committed an offence punishable under Section 354(1) of the Penal Code, Chapter 224 (2008 Revised Edition).
+
+5       For completeness, the prosecution withdrew a fifth charge[\[note: 1\]](#Ftn_1) of molest at the close of the prosecution’s case[\[note: 2\]](#Ftn_2).
+
+## The Prosecution’s Case
+
+### Prosecution Witnesses
+
+6       The Prosecution called two witnesses, namely, the victim and her mother.
+
+### Prosecution’s Case
+
+7       Whilst the acts of molest were denied by the accused, the events and circumstances leading up to and surrounding the alleged offences were largely undisputed. I set out a summary of the victim’s account of the acts of molest in respect of the four charges as follows[\[note: 3\]](#Ftn_3).
+
+8       The victim was 16 years old at the time of the alleged offences. Her date of birth is 26 September 1999. Therefore, when she gave her evidence in court on 22 June 2018, she was 18 years old and studying at a local polytechnic. I should point out that the age of the victim is stated in the charges to be 18 years old. This is incorrect in that she was 18 years old when she gave evidence at the trial but was 16 years old at the time of the offences. She provided her date of birth in her testimony[\[note: 4\]](#Ftn_4) and that is not disputed.
+
+##### 1st charge
+
+9       There is no dispute that the victim was taking one-to-one private cello classes conducted by the accused on the first Saturday, between 4-6 pm, in classroom number 5 at XXX Music School (“the music school”) located at XXX, Singapore[\[note: 5\]](#Ftn_5). Photographs of the classroom were admitted in evidence[\[note: 6\]](#Ftn_6).
+
+10     As noted above, the first offence was committed on the first Saturday. In the course of and towards the end of the lesson, and on the pretext of correcting the way the victim was holding her cello relative to her body, the accused outraged the victim’s modesty by touching the left side of her chest above her left breast[\[note: 7\]](#Ftn_7).
+
+11     The victim testified that:
+
+ASo, as he placed his hands in between my---the cello and my ch---left side of the chest area. Uh, his hand touched my chest area on the left side.
+
+QOkay. And how long was that touch?
+
+AHe---he, uh---uh, until the song ends around 1 minute like that[\[note: 8\]](#Ftn_8).
+
+12     The victim testified that she felt it was weird but she did not think much about it as she thought it was part of the teaching process.
+
+##### 2nd and 3rd charge
+
+13     The charges allege that the accused outraged the victim’s modesty by (i) placing his hand on the left side of her chest above her left breast several times; and (ii) placing his hand into her shirt and beneath her bra to touch her left breast by moving his hand over her breast several times.
+
+14     The victim’s evidence was that she attended her cello class on the second Saturday, between 3-4 pm, at the said music school. She testified that the accused tuned her cello and instructed her to play a tune. Subsequently, he again corrected the way she positioned her cello:
+
+..So, the---he---he went---hmm, he used the same reason like he said that there---placing shouldn’t be--- the cello shouldn’t be, um, like leaning against my, uh, chest a---the cello shouldn’t be touching my chest area, my shoulder area. So, he actually, um, helped me to---uh, by placing his hands between the cello and my chest area. Uh, afterwards, uh, then he---uh, as e---as he began to place it on the chest area, is---he---the hands---his hands slowly moved towards my---underneath of my shirt[\[note: 9\]](#Ftn_9).
+
+15     In addition to touching the victim on the chest area over her t-shirt, the victim further testified that his hand went into her bra:
+
+QSo, when you said that, his hand went into your shirt, can you describe to the Court how it went into the shirt because it’s a T-shirt?
+
+AHmm. I---he went underneath through the top of the---the neck link[\[note: 10\]](#Ftn_10).
+
+…
+
+QOkay. Now, where was Mr. GCD standing at the point of time?
+
+AUm, he was standing behind me at the left-hand side.
+
+QOkay, now, his hand---you said his hand went into your shirt. What did he do---did he do anything? After that.
+
+AHe placed his, um, hands onto my chest area and then he slowly went down un---
+
+QSorry, XXX, this---I apologise, I couldn’t catch that just now. Would you---be able to repeat that?
+
+AHe slowly went down my chest area and then he---and then slowly went downwards towards the breast area. And then went underneath my bra[\[note: 11\]](#Ftn_11).
+
+16     The victim testified that the accused then fondled her breast:
+
+QAlright. And then he went underneath your bra.
+
+AYes.
+
+QOkay. What did he do?
+
+AHe twist---he twist his hands there. And---yah, then he mo---moved. He placed on the left side of the area then he moved to the right side of the area. And he---he moved back[\[note: 12\]](#Ftn_12).
+
+…
+
+He went from my left side of the breast to my right side of the breast and then back towards the left side of the breast area. Yah[\[note: 13\]](#Ftn_13).
+
+##### 2nd, 3rd and 4th Charge
+
+17     The victim further testified that the accused outraged her modesty by touching her right thigh. Her evidence was that the accused pulled the chair to the centre of the room and sat down with his back facing the door.[\[note: 14\]](#Ftn_14) He then requested the victim to sit between his thighs[\[note: 15\]](#Ftn_15). She testified that the accused touched the inside of her right thigh[\[note: 16\]](#Ftn_16).
+
+18     The accused then then touched the victim’s breast again from underneath her bra:
+
+Then---then he, hmm, went underneath my shirt from the bottom at---and---and then---and then he u---he---his hands, uh---his hands placed under---he hands went on to my, uh, left side of the chest area and then, he gave the reason that---like, my---my cello shouldn’t be leaning on my chest area. He told me that. Then he---he---he placed his hands on my chest---left side of the chest area. And un---un---underneath my bra.[\[note: 17\]](#Ftn_17)
+
+19     The accused then asked the victim if he could unhook her bra. The victim asked why. He said “never mind” and went back to his own chair[\[note: 18\]](#Ftn_18). The victim then excused herself and left the room on the pretext of going to the toilet. She returned to the room but the accused did not end the class. He corrected her cello positioning and again placed his hand on her chest[\[note: 19\]](#Ftn_19).
+
+20     The victim then testified as to what happened after the class. Briefly, she went home and took a long shower because she felt she needed one. She also resorted to self-harm by cutting her wrists. She then told her mother what the accused did. A police report was lodged that same evening.
+
+#### Victim’s mother
+
+21     The victim’s mother testified that the victim came home after her cello class on the second Saturday and went straight up to her room on the second floor. She simply left her cello in the car[\[note: 20\]](#Ftn_20). She did not come down for tea even when her mother called her. Sometime later, the victim called her mother on the mobile phone:
+
+When I picked up the handphone, she was crying. She said, “Mummy, Mummy, can you come up?” Then I asked her, “What happened?” Then she said, “Can you come up?” Then I faster ran up to her room. When I opened the door, she was, uh, sitting under her study desk, very scared, crying, I went to her. I hugged her. I asked her, “What happened?” **She cry and cry. She could not talk. Then I pester her. I console her. And finally, she told me, “My cello teacher touched me.” Then I asked her, “Touched where?” Then she told me, touched her breast**[\[note: 21\]](#Ftn_21).
+
+(emphasis mine)
+
+22     The victim went on to tell her mother the details of how the accused had touched her. The mother asked the victim why she did not kick or slap or push the accused away, the victim replied that “I’m very scared. I’m very scared.[\[note: 22\]](#Ftn_22)”
+
+23     The mother also testified that when she found the victim hiding under her desk crying, she saw that the victim had also cut her wrists with a pair of scissors[\[note: 23\]](#Ftn_23).
+
+24     The victim further revealed that the accused had touched her during the previous lesson. The mother then informed her husband and they brought the victim that same evening to the police to lodge a report[\[note: 24\]](#Ftn_24).
+
+### Evidence as to how the incident has affected the victim
+
+25     The victim also testified that after the offences, she consulted the psychiatrist at the Institute of Mental Health (“IMH”) because she felt “dirty” and “needed to be clean”, had difficulty sleeping and constantly felt that someone was following her[\[note: 25\]](#Ftn_25). The IMH report was admitted in evidence by consent[\[note: 26\]](#Ftn_26).
+
+## Close of Prosecution’s Case
+
+26     At the close of the prosecution’s case, counsel for the accused did not make any submission of no case to answer. Notwithstanding counsel’s position, the learned DPP made submissions that the accused has a case to answer in respect of four charges[\[note: 27\]](#Ftn_27). I agreed with the prosecution’s submission and called on the accused to give his defence to the charges.
+
+## The Defence
+
+27     The accused elected to give his evidence on oath. The accused also called his former employer (“the employer”), who owned the music school, to give evidence in his defence. I should add that the accused had engaged another counsel at this stage of his defence.
+
+### The Accused’s Evidence
+
+28     The accused testified in English. He did not require an interpreter even though one had been arranged.
+
+29     The accused is a 32-year old Filipino male national. He came to Singapore in July 2011 with his then girl-friend whom he married subsequently in 2012. He found work in Singapore as a music teacher at various music schools before the present music school[\[note: 28\]](#Ftn_28). The accused impressed upon the court that he was a dedicated music teacher and his goal was to help his students improve their music playing ability. Much evidence was led from the accused regarding his purpose for coming to Singapore[\[note: 29\]](#Ftn_29), his reasons for joining the music school[\[note: 30\]](#Ftn_30), his typical class schedule[\[note: 31\]](#Ftn_31) and his teaching methods[\[note: 32\]](#Ftn_32).
+
+30     As regards the victim, the accused testified that the victim first started her lessons in November 2015 at another branch of the music school. However, she then moved to the present location because her mother preferred her lessons to be conducted on Saturdays. The victim had just finished grade one and was going on to grade two when she joined the music school. The accused assessed that the victim’s ability was not up to the standard of grade one[\[note: 33\]](#Ftn_33). He also observed that for someone who is going on to grade two, she was not holding the cello properly. He testified that she was not improving and did not put in sufficient effort to practice. He would also communicate with the victim and her mother over “WhatsApp”. Their communication related only to payment of fees, make-up lessons and concert recitals[\[note: 34\]](#Ftn_34). A set of WhatsApp messages with the victim (from May – June 2016) and the mother (from May – July 2016) were tendered by the defence and admitted as evidence[\[note: 35\]](#Ftn_35). He would also talk to the mother when she was present after class. Otherwise, there was no other communication with the victim or her mother outside the school[\[note: 36\]](#Ftn_36). He also described the victim to be quiet and did not talk much during lessons, unlike other students[\[note: 37\]](#Ftn_37).
+
+31     In a nutshell, the accused’s defence was a bare denial. Counsel for the accused stated as much that the accused could only present a bare denial[\[note: 38\]](#Ftn_38). The accused denied molesting the victim. He claimed nothing out of the ordinary happened on those two Saturdays when he taught the victim. However, he tried to cast doubt on the victim’s allegation that he was correcting the way she positioned her cello. He said that cannot be true because cello positioning would have been taught at the beginner level and would not have been relevant to the victim who was at grade two[\[note: 39\]](#Ftn_39). He was in fact introducing her to grade three topics. He further denied being behind or close enough to touch her because he would always be facing her and giving instructions[\[note: 40\]](#Ftn_40). He also explained that they had their own chairs and there would be some distance between them and they were also separated by the cello[\[note: 41\]](#Ftn_41). Further , he described the room as being very small and there was not enough space for him to either stand next to her or behind her in order to commit the offence[\[note: 42\]](#Ftn_42). He also said that the student’s chair was too small to accommodate both of them. In short, the accused’s defence was that considering (i) how he would have conducted the class and (ii) the size and layout of the room and furniture, he could not have molested the victim in the manner as she has described.
+
+32     The accused also pointed out that the door to the classroom had a small glass window. Therefore, any number of persons (including parents, students and even his employer) could have looked in and see what he was doing. In other words, the accused was suggesting that it would be foolhardy for him to molest the victim because he could not have done so without risking someone witnessing the crime[\[note: 43\]](#Ftn_43). He also said that there is no reason for him to touch the victim[\[note: 44\]](#Ftn_44) and that it did not cross his mind to touch her[\[note: 45\]](#Ftn_45). The accused further suggested that the victim did not raise any alarm either during or immediately after her lessons.
+
+### The Employer’s Evidence
+
+33     The accused’s employer testified that he was looking for a music teacher and his friend referred the accused to him. He said he has known the accused for 4-5 years[\[note: 46\]](#Ftn_46). He thinks that the accused is a decent person[\[note: 47\]](#Ftn_47).
+
+34     As regards the offences, the employer runs several branches and cannot recall if he was present at the branch where the offences were alleged to have been committed at the material times. In any case, he confirmed that he did not receive any complaints of molest until the victim’s parents called him at about 6 pm on the second Saturday alleging that the accused had molested the victim. The employer was scared, shocked and also angry[\[note: 48\]](#Ftn_48). He told the parents to go to the police station and met them there.
+
+35     The employer also testified that although parents and students are supposed to wait at a waiting area and not hang around outside the classrooms, the students do sometimes enter the area outside the classrooms[\[note: 49\]](#Ftn_49).
+
+## The Court’s Findings and Decision
+
+### Elements of the offence
+
+36     The offence of outrage of modesty is set out in s 354 of the Penal Code (Cap 224, 2008 Rev Ed) as follows:
+
+(1)    Whoever assaults or uses criminal force to any person, intending to outrage or knowing it to be likely that he will thereby outrage the modesty of that person, shall be punished with imprisonment for a term which may extend to 2 years, or with fine, or with caning, or with any combination of such punishments.
+
+37     For the present charges, the mens rea is one of intention to outrage the victim’s modesty. Therefore, the prosecution has to prove the following elements of the charges:
+
+a.     The accused used criminal force against the victim by performing the acts spelt out in the charges; and
+
+b.     The accused performed the said acts with the intention to outrage the victim’s modesty.
+
+38     The accused denied committing any of the acts of molest. However, if he did commit those acts, there can be no question that he must have intended to outrage the victim’s modesty since (i) the victim had not consented to the said acts and (ii) the accused denied even accidentally touching her. As was held in _Sim Yew Thong v Ng Loy Nam Thomas_ at \[18\], a person’s intention may be proved by drawing inferences from the surrounding circumstances and a person must have intended the natural consequences of his acts.
+
+### The Law on Assessing Credibility of Victims of Sexual Offences
+
+39     As in most cases of sexual offences, this case ultimately turned on the victim’s allegations against the accused’s denials. The prosecution’s case is largely premised on the veracity and accuracy of the victim’s testimony. The court has to decide beyond reasonable doubt whether the accused molested the victim as alleged in the four charges. As explained earlier, considering the physical and sexual nature of the alleged acts and lack of consent, if I accept the victim’s evidence and find that the accused had indeed committed those acts, then there can be no question that he had intended to outrage her modesty.
+
+40     While there is no statutory provision or legal principle prohibiting the conviction of an accused on the evidence of a single witness[\[note: 50\]](#Ftn_50) (including the victim in a sexual offence), the court must be mindful of the inherent danger in doing so. The court must evaluate and scrutinise the evidence of the witness very carefully and thereafter decide if the testimony is so compelling to the extent that a conviction can be justified entirely, if necessary, on that testimony. This caution is especially important if the testimony is that of a relatively young witness.
+
+41     In the case of a sexual offence where there is no other corroborative evidence and the court has to rely substantially, if not entirely, on the evidence of the victim in order to convict the accused, the legal test is that the victim’s evidence must be unusually convincing or compelling in order to sustain a conviction of the charge beyond reasonable doubt (see generally _Khoo Kwoon Hain v PP_ _; PP v Mohammed Liton Mohammed Syeed Mallik_ (“_Mohammed Liton_”)).
+
+42     The phrase “unusually convincing” was explained by the Court of Appeal (“CA”) in _Mohammed Liton_ at \[39\]:
+
+In our view, therefore, the “extra something” implied by the word “unusually” must refer to the need for the trial judge to be aware of the dangers of convicting solely on the complainant’s testimony as well as of the importance of convicting only on testimony that, when weighted against the overall backdrop of the available facts and circumstances, contains that ring of truth which leaves the court satisfied that no reasonable doubt exists in favour of the accused.
+
+43     The phrase was also explained by the CA in _AOF v PP_ (“_AOF_”) at \[115\] as follows:
+
+It is clear that a witness’ testimony may only be found to be “unusually convincing” by weighing the demeanour of the witness alongside both the internal and external consistencies found in the witness’ testimony.
+
+44     The CA in _AOF_ further laid out the approach at \[173\] – \[175\] to determine what constitutes corroboration in a sexual offence, if the testimony of the victim is not ‘unusually convincing’. The CA held that the approach to locating corroborative evidence is liberal so that the trial judge has the necessary flexibility to treat relevant evidence as corroborative. The court stated that what is important is the substance as well as the relevance of the evidence, and whether it is supportive or confirmative of the weak evidence which it is meant to corroborate.
+
+45     The overall approach to be taken in cases of sexual offences is well encapsulated in _Tang Kin Seng v PP_ (“_Tang Kin Seng_”) at \[39\] and \[44\]:
+
+In a trial for sexual offences, what is important is that the evidence is weighed carefully, always bearing in mind the relevant aspects of human nature and behaviour. It would be wrong to be bogged down by technicalities especially when it has no logical problem at hand…
+
+In my view, the right approach is to analyse the evidence for the prosecution and for the defence, and decide whether the complainant's evidence is so reliable that a conviction based solely on it is not unsafe. If it is not, it is necessary to identify which aspect of it is not so convincing and for which supporting evidence is required or desired. In assessing the supporting evidence, the question then is whether this supporting evidence makes up for the weakness in the complainant's evidence. All these would, of course, have to be done in light of all the circumstances of each case and all the evidence, including the defence evidence, as well as accumulated knowledge of human behaviour and common sense.
+
+### General Principles on Assessing Credibility
+
+46     The test in respect of the testimony of a sexual offence victim is but an extension of the application of the general principle that the credibility of a witness is to be assessed by the witness’s demeanour, the internal consistency and external consistency between the witness’s evidence and other extrinsic objective evidence (see _Farida Begam d/o Mohd Artham v PP_ ; _Jagatheesan s/o Krishnasamy v PP_ ).
+
+47     In observing and assessing a witness’s credibility from his demeanour, the CA in _Sandz Solutions Strategic and Others v Worldwide Assets Limited_ (“_Sandz Solutions Strategic_”) at \[46\] further cautioned that such observation should seldom be the sole basis on which the court determines the credibility of a witness and the veracity of his evidence.
+
+48     Ultimately, there will likely be discrepancies and inconsistencies in any witness’s testimony. As such, the court must recognise and give reasonable allowance for human fallibility in observation, retention and recollection. In this regard, the CA in _Sandz Solutions Strategic_ at \[56\] highlighted the danger of over-reliance on the recollection of witnesses on the witness stand. The CA held that a witness should not be judged to be less credible merely because of gaps in his memory, particularly where a long period of time has passed since the occurrence of the events in question. Ultimately, the trial judge has to consider the _totality_ of the evidence in determining the veracity, reliability and credibility of a particular witness’s evidence.
+
+49     With these general and specific principles in mind, I proceed to assess the veracity, reliability and credibility of the victim.
+
+### Victim was Compelling and Unusually Convincing
+
+#### Demeanor and credibilty
+
+50     The victim was 18 years old when she gave evidence. Although she was no longer a child, I would still consider her young even at 18 years old and I was also mindful that she was testifying probably for the first time in court in a very formal environment. She also had to face the accused in court and testify in his presence and describe in embarrassing detail the acts that he had done to her. She then had to be subject to cross-examination by the accused’s counsel. In spite of the intense and intimidatingly formal nature of the proceedings, I observed that the victim was calm and able to provide a coherent and descriptive account of the events and what the accused did to her. Albeit a little shy and timid, I found the victim on the whole to be a mature, sensible and reasonable girl. She was reasonably articulate and therefore able to express her feelings, emotions and relate the events well. Her testimony was coherent, internally consistent and also externally consistent with the objective facts and circumstances. Despite her veracity being challenged by counsel in cross-examination, she acquitted herself admirably and stood firm on her accusations and allegations against the accused.
+
+51     Thus, the victim testified that the accused molested her during class on both Saturdays. She testified that the accused had touched her chest on the pretext of correcting the position of her cello. He did this on the first Saturday. In view of her timid disposition, she was perhaps prepared to overlook the incident but come the second Saturday, the accused did it again and went even further. She was unwavering in her evidence that the accused reached into her shirt and underneath her bra to fondle her breasts. He then asked her to sit between his thighs and touched her breast again underneath the bra. He also wanted to unhook the victim’s bra but the victim essentially denied him.
+
+#### Victim’s reaction
+
+52     The defence tried to discredit the victim by suggesting that she did not raise an alarm when the accused allegedly molested her. Counsel also tried to impugn her credibility by pointing to the fact that her police report was only about the incident of molest on the second Saturday but she did not mention the incident on the first Saturday[\[note: 51\]](#Ftn_51). It was therefore suggested to her that, at the very least, no offence took place on the first Saturday[\[note: 52\]](#Ftn_52).
+
+53     However, as observed in _Tang Kin Seng_ at \[79\], there may be very good reasons why a sexual offence victim would react or not react in ways which appear to deviate from common human experience. Victims of sexual crimes cannot be expected or straightjacketed to act or react in a certain manner. There cannot be a standard list of checkboxes that must be ticked when assessing the reaction of a victim during and after a sexual offence has been committed against her (_GBR v PP_ (“_GBR_”) at \[13\] and \[20\]).
+
+54     I considered that the victim was attending her cello lesson as per normal in the familiar and safe environment of a music school. She would not have expected that her music teacher whom she would have trusted for the last eight months or so to take advantage of her. She would have been unprepared for and blindsided by the accused’s actions. The lack of any strong or violent objection and reaction from the victim must be considered and assessed in this context. She cannot also be faulted for not making a complaint to anyone, including the police, in respect of the incident on the first Saturday. I am reminded of the observations in _Chng Yew Chin v PP_ at \[38\] that:
+
+…a victim of molest ought not to be penalised or her credibility prejudiced merely because shame, discomfort or fear has prevented her from telling her story immediately or soon thereafter. Any reason that impedes such disclosure will always be a question of fact that can be explained or clarified plausibly by the temperament and/or character of a complainant. To suggest, as a general proposition, that a victim of molest must immediately report her situation even if it is to a mere acquaintance, is totally unrealistic and reflects a patent lack of appreciation for the plight and dilemma of victims of sexual abuse.
+
+55     I am also guided by the observations of the court in _Tan Pin Seng v PP_ at \[29\] that:
+
+…there is a natural reluctance on the part of victims of sexual offences to make a police report. This stems from a variety of reasons. The victim may keep silent for fear of being stigmatised or disbelieved. She may view the police investigation and the court process, both of which are potentially intrusive and distressing, with trepidation, or she may have been so traumatised by the experience that reporting the offence is simply a very low priority... Indeed, many of those who do eventually make a police report do so only after they have been persuaded to do so by their family or friends.”
+
+In the present case, I would add that the observed natural reluctance of a sexual offence victim would be even more pronounced when it is not in dispute that the victim was young, timid and soft-spoken.
+
+56     As regards counsel pointing out that the police report did not mention the incident on the first Saturday, I find corroboration that it did happen in the victim’s mother’s testimony:
+
+In fact, when she was describing to me, just before she des---just when she described to me what happened, she also mentioned something which I forget to say. She said, uh, last---last lesson, he also touched me like that. He just---she just mentioned to me like that and then after that, she went on to tell the detail of the July 2nd incident.[\[note: 53\]](#Ftn_53)
+
+I also accept the victim’s explanation that although the incident on the first Saturday was not mentioned in the police report, she did tell the police about the incident in her statement to the police recorded on 2 July 2016[\[note: 54\]](#Ftn_54).
+
+57     In any event, as I have said above, the victim was probably prepared to overlook the incident on the first Saturday or somehow rationalise it away in her mind partly because of her timid disposition and the fact that the accused used the pretext of correcting her cello positioning, but also because the accused’s act would have completely taken her by surprise. Thus, when testifying as to the incident on the first Saturday, she initially described the accused as having “accidentally”[\[note: 55\]](#Ftn_55) touched her chest above her breast. I agree with the prosecution’s submission[\[note: 56\]](#Ftn_56) that the victim could have easily described the touch as intentional. However, she was probably trying to make sense of the accused’s act which was otherwise inexplicable. Her mental rationalisation and the fact that her modesty was indeed outraged is evident when she went on to testify that she felt “like it’s weird but \[she\] never go and think much more because \[she\] thought that, okay, it was supposed to be part of the teaching process”[\[note: 57\]](#Ftn_57).
+
+58     In any event, the accused’s intention to molest the victim could not have become any clearer the following Saturday. Even then, the very same question as to why she did not put up a more forceful resistance against the accused was asked by her mother. I believe the victim when she told her mother that she was very scared. That is an entirely believable and reasonable explanation. She was probably too shocked to react. Nonetheless, she did attempt to extricate herself from the harrowing experience by making an excuse to go to the toilet[\[note: 58\]](#Ftn_58). The fact that she excused herself to go to the toilet is not in dispute. However, when she returned to the class thinking that the class had ended, the accused would not let up and molested her again. She was then forced by the accused’s persistent advances to muster enough courage to refuse the accused when he asked to unhook her bra. That was a line that she could not bear for the accused to cross. This is far from a case where there was no reaction from the victim whatsoever.
+
+59     In summary and consistent with the observation in _GBR_ at \[20\], I accept and find that the victim’s reaction to the accused’s acts of molest was “_well within the realm of possibilities and indeed would have been perfectly foreseeable._” More importantly, I find that her nuanced and detailed description of what the accused did and her reaction throughout is entirely credible and convincing and very unlikely to be fabricated.
+
+#### Post-event trauma and complaint
+
+60     I find corroboration of the victim’s allegations in her conduct immediately after she returned home from her cello lesson on the second Saturday. I considered that the victim was so traumatised having been molested that she rushed straight to her room, leaving her cello in the car. She said the feeling of being touched lingered and she had to shower for a long time. She then hid under her desk and resorted to self-harm. She testified further that:
+
+Hmm, I don’t know I’m---I don’t---I don’t know. I think I, uh, I---I---I wanted to call somebody. But I don’t know who to call and then I---I hide underneath the table.[\[note: 59\]](#Ftn_59)
+
+61     The victim’s emotional outpouring to her mother was also consistent with her being molested. Her mother’s vivid description of the victim’s post-event trauma is not in dispute. The victim called the mother on the phone. The mother went up to the victim’s room and found her hiding under the table. The victim cried inconsolably before she could finally tell her mother that the accused had done to her. As aptly put by the learned DPP, the victim’s mother provided a heart-wrenching account of what the victim told her[\[note: 60\]](#Ftn_60).
+
+62     The victim’s complaint against and revelation of the accused’s offence within hours after the incident was reasonably contemporaneous. I find further corroboration of her allegations from the fact that her mother’s account of what the victim told her is broadly consistent with the victim’s testimony in court. Both accounts are consistent as to the accused’s pretext of repositioning the cello; the different ways he molested her i.e. reaching into her shirt and underneath her bra and also doing that again after making her sit between his thighs; where he touched her i.e. the breast; and also the fact that he asked to unhook her bra[\[note: 61\]](#Ftn_61). The victim’s outpouring of her emotions and allegations was plainly spontaneous and unlikely to be contrived. Her mother would know her own daughter well enough to believe her.
+
+63     I further noted that the victim’s allegations are materially consistent with what she told her psychiatrist. The IMH report stated that the victim revealed that she was molested on both dates. The manner of the molest is also consistent with her court testimony. The report stated that on the first Saturday, she felt uncomfortable when the accused touched the outside of her chest and she ‘froze’. The psychiatrist noted that “being a naturally shy person, she did not report this to anyone.”[\[note: 62\]](#Ftn_62) The following week, she was more certain of the assailant’s intentions when he reached inside her shirt and also touched her thigh[\[note: 63\]](#Ftn_63).
+
+#### No reason/motive to lie
+
+64     I agree with prosecution’s submission and I find that the victim has neither reason nor motive to lie about the allegations[\[note: 64\]](#Ftn_64). The defence did not suggest that there were any. The accused himself acknowledged that he cannot think of a reason why she would make false allegations against him[\[note: 65\]](#Ftn_65). The Whatsapp messages between the victim and the accused contained nothing out of the ordinary (at least on the face of the messages) and their relationship appeared cordial[\[note: 66\]](#Ftn_66). In fact, the accused accommodated the victim’s schedule as far as possible[\[note: 67\]](#Ftn_67). There were no complaints by the accused to the victim or her mother even though he said he was unhappy about the victim’s progress. The mother even thanked the accused for his teaching[\[note: 68\]](#Ftn_68). Therefore, there is no reason for the victim to be unhappy with the accused let alone frame him for these serious crimes.
+
+65     On the contrary, I note from the text messages that after the incident on the first Saturday (25 June 2016), it looked like the victim was trying to avoid her lesson on the second Saturday but was pestered into attending class by the accused[\[note: 69\]](#Ftn_69):
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2" frame="none" pgwide="1"><colgroup><col width="35.68%"> <col width="64.32%"> </colgroup><tbody><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">28/6/16 Accused:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Hi! You want to come this Sat for 2 hours (3-5pm) or break it for 2 Saturdays 1 hour each?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">30/6/16 Accused:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Hi! Kindly confirm this Saturday. Thanks.</p></td></tr><tr><td align="left" class="" colspan="2" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><u>Second Saturday</u></p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">2/7/16 Victim:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">is it possible to change the date?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">2/7/16 Accused:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Not possible. I was waiting for your reply last week. Please come today to finish makeup. Thanks.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">2/7/16 Victim:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">okay sure.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">2/7/16 Victim:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">but can I have it for one hr only.</p></td></tr></tbody></table>
+
+  
+  
+
+As may be seen from the exchange, the accused texted the victim on 28 June 2016 to confirm the class for the second Saturday but the victim did not respond until the Saturday itself (2 July 2016) and only because she wanted to cancel the class but the accused said no. I find (i) the fact that she did not reply to the accused until the day of the next lesson and (ii) the fact that she wanted to cancel the class at the eleventh hour, to be consistent with the victim’s allegation that the accused had molested the victim during the last lesson and she was therefore trying to avoid another class with the accused.
+
+66     Up till the commission of the offences, the accused agreed and I find that the victim and her mum had no issues with the accused as a music teacher[\[note: 70\]](#Ftn_70). The victim certainly bore no ill-will against the accused. I am satisfied that she had no reason, let alone motive, to lie or frame the accused for molest. Her allegations against the accused, considered in the context of the totality of all the evidence, must be true and accurate. I observed the victim’s demeanour when she gave her evidence and I assessed and found her to be entirely truthful. Considering the passage of two years since the offence, the victim was able to recall and relate with sufficient clarity the details of the allegations against the accused and roller-coaster of emotions that she felt.
+
+67     I considered the totality of her evidence as well as the totality of all the evidence that was presented by both prosecution and defence, and found her evidence to be unusually convincing and compelling. I find that the victim had testified to the best of her memory and in an internally consistent manner. In view of her soft-spoken and shy disposition, I find that she had displayed tremendous courage and strength to be able to face the accused and to testify in open court. Her evidence of the events and alleged acts of molest was, in its totality, both internally consistent and externally consistent with her behaviour (including self-harm) and clear distress shortly after the offence on the second Saturday.
+
+### Defence Rejected
+
+68     The accused denied touching the victim at all, not even accidentally[\[note: 71\]](#Ftn_71). Having heard his evidence and after observing his demeanour, I did not believe him. He suggested a variety of reasons why he would not or could not have committed the offences. I disagree and rejected all his reasons.
+
+#### Positioning of cello
+
+69     The accused claimed that he would not have corrected the cello positioning of the victim because that would have been more appropriate at the beginner level. He was already preparing the victim for grade 3 and therefore, it could not have been the case that he needed to correct the victim’s cello positioning and hence, there would not have been any physical contact with the victim or her cello[\[note: 72\]](#Ftn_72). However, as pointed out by the learned DPP[\[note: 73\]](#Ftn_73), the accused was shown to have overstated his case because he conceded under cross-examination that some students, even at higher grades, might require more direct supervision, including correcting the positioning of the cello.[\[note: 74\]](#Ftn_74) Furthermore, it was also the accused’s opinion that the victim was not that competent and was not playing as well as someone at her level. If that was so, it would not be inconceivable that the victim’s cello position may require adjustment.
+
+70     In truth, the question whether her cello positioning was correct or whether her cello positioning required correction or refinement even at the victim’s level, is a red herring. I find that the accused did touch the victim inappropriately _on the pretext_ of correcting her cello positioning. Whether or not the victim’s cello positioning required adjustment or correction is beside the point.
+
+71     I should also add that I very much doubted the accused’s assessment of the victim’s competence in playing the cello. On the one hand, the accused appeared to disparage the victim by saying that she was not playing as well as someone at her grade (i.e. having passed grade 1) and that she was not putting enough effort. On the other hand, he also said that he was preparing her for grade 3 (i.e. skipping grade 2[\[note: 75\]](#Ftn_75)) which appeared to contradict his assessment that the victim was not playing at grade 1 standard. The accused cannot seem to make up his mind as to the victim’s competence level. The accused is merely tailoring his evidence according to what suited his purpose.
+
+#### Accused’s position
+
+72     The accused also claimed that the cello case was behind the victim’s chair and he could not have stood behind her to correct her cello positioning[\[note: 76\]](#Ftn_76). In this regard, I accept the victim’s evidence that the accused was “behind towards the left which is, the left side, not exactly behind.”[\[note: 77\]](#Ftn_77) Further, the victim testified that the cello case was lying horizontally on the floor[\[note: 78\]](#Ftn_78) and as such would not have obstructed the accused. Therefore, I reject the accused’s suggestion that he could not have positioned himself behind the victim to touch the victim’s chest and/or breast.
+
+#### Size of room and chair
+
+73     The accused emphasised that the room was very small and that he could not have moved around the room as described by the victim. First of all, I find that the dimensions of the room are irrelevant and immaterial to the charges. In the first place, the room was not that small to begin with since it was large enough to accommodate a piano, a piano bench, a music stand, a teacher’s desk and a couple of chairs[\[note: 79\]](#Ftn_79). The accused further conceded that he has held lessons for up to three students in that room[\[note: 80\]](#Ftn_80). Therefore, it cannot be denied regardless of the dimensions of the room, there was more than enough space for the accused to have committed the alleged acts, when there was only two of them in the room. I also noted that the accused was inconsistent in his arguments regarding how much space there was in the room, depending on whether it suited his purpose. For example, when arguing that he could not have touched the victim, he would emphasise that he would always maintain a distance between her chair and his. Therefore, I find that the accused would manipulate the issue of how much space there was in room simply to suit his purpose and argument.
+
+74     Next, the accused suggested that the chair was too small to accommodate both the victim and him[\[note: 81\]](#Ftn_81). I rejected this suggestion. The chair in question is shown in the photographs. The accused is not a big person. In fact, he might be regarded as relatively small-built. I find that it is entirely possible for the victim, a 16-year old girl, to sit between the accused’s thighs on the same chair.
+
+#### Glass window on door
+
+75     The accused also brought up the fact that there was a glass window on the door. He appeared to be suggesting that he could not have been so brazen as to molest the victim because anyone (be it student, parent or even his boss) could have looked in and catch him in the act. However, I am of the view that this argument does not take the accused very far. As a general observation, a person may decide to commit an offence either because he thinks no one will catch him or because he has taken precautions so as not to be caught or both. Molest offences occur even in the most crowded of places let alone in a room behind closed doors with no one else present except the accused and the victim. It is a fact that offences of molest have been committed in public places in the very presence of potential witnesses all around e.g. on a bus or train and in at least one case, in a classroom in the presence of other students[\[note: 82\]](#Ftn_82). In the present case, the accused himself described the victim as being reserved and timid. He obviously took advantage of that knowing that she would not raise an alarm when he molested her in the music room. However, he did it one time too many.
+
+76     I find that it is not the least inconceivable that the accused would have committed the offences notwithstanding the glass window on the door. There are two reasons for this. First, even if someone was to look into the room, it would likely be a cursory look either out of curiosity or to just to check if the class was still going on. That person would not be looking out for anything out of the ordinary.
+
+77     The second reason is more important which is that even if someone happened to look into the class room through the glass panel, that person would not have been able to see what the accused’s offending hand was doing. Insofar as the acts that were committed by the accused when he made the victim sit between his legs, I accept the victim’s evidence that the chair was facing away from the door[\[note: 83\]](#Ftn_83). In other words, the accused had his back to the window on the door and anyone looking in would only have seen his back and would not have been able to see him touching the victim’s inner thigh or chest or reaching into her shirt to touch her breast. The accused would appear to anyone looking in, to be simply teaching the victim how to hold the cello. As for the incidents when he stood somewhat behind the victim to touch her chest or reach down into her shirt, he was probably also careful enough to have his back to the door. Even if the victim was facing the direction of the door with the accused standing behind her and touching her chest or reaching underneath her shirt, the victim’s cello would have shielded the accused’s hand from being seen by someone at the door looking in. For these reasons, I reject the accused’s defence regarding the glass window on the door.
+
+#### Employer’s evidence is neutral
+
+78     Finally, I agree with the prosecution’s submission that the accused’s employer’s testimony was at best neutral and did not assist the accused’s defence at all[\[note: 84\]](#Ftn_84). At its worst, the witness came across as being argumentative and unnecessarily defensive when the learned DPP suggested that he seemed unsure of how the classrooms were numbered[\[note: 85\]](#Ftn_85). He was also rather defensive when the victim’s parents complained to him on the evening of the second Saturday about the accused. He was more concerned about the trouble that would be caused to the school rather than the well-being of the victim. He said he “shot back” at the victim’s parents when they requested him not to inform the teacher yet about the allegation[\[note: 86\]](#Ftn_86). He also asked the victim’s parents to go to the police because he did not want to talk to them for “selfish” reasons[\[note: 87\]](#Ftn_87). Ultimately, even though he was at the music school that second Saturday afternoon, all that he could say was that he was not informed that anything out of the ordinary had occurred. It is not his evidence that he had entered the class room in question during the material time or had checked on the accused or the victim. It was plain to me that the defence had called the employer to vouch for the good character of the accused. However, while the employer may be able to vouch for the good qualities of the accused as a music teacher and as an employee, he was in no position to testify as to the factual allegations made against the accused. Accordingly, I disregarded the employer’s testimony.
+
+## Conclusion - Verdict
+
+79     Having considered the totality of all the evidence, I believed the victim and find her evidence to be unusually convincing and compelling. I find the victim to be truthful and that whatever minor discrepancies that were highlighted by the defence were nothing more than imperfect recollections of minor details and not deliberate lies. I did not find that the discrepancies (either on its own or taken together) had rendered the accused’s conviction to be unsafe. I am satisfied that she did not and had no reason to frame the accused.
+
+80     I further find that the victim’s testimony was corroborated by her post-offence trauma, her complaint to her mother, the report made to the police and her subsequent police statement, and her recollection of the events provided to her psychiatrist.
+
+81     On the other hand, I did not believe the accused’s defence which was inconsistent with the totality of all the evidence. I reject the various aspects of the accused’s defence regarding the size and layout of the room and furniture, and the possibility that someone might look in. These factors do not render the allegations impossible or even unlikely.
+
+82     In the final analysis of all the evidence before me, I am satisfied that the victim’s evidence was so reliable that a conviction based on her evidence was _not_ unsafe. In conclusion, I find that the prosecution has proved its case beyond reasonable doubt. The accused was accordingly convicted of the charges.
+
+## The Sentence
+
+83     The accused was convicted after trial of four charges of outraging the modesty of the victim under under s 354(1) of the Penal Code. Each charge is punishable with imprisonment for a term which may extend to two years, or with fine, or with caning, or with any combination of such punishments.
+
+84     He was sentenced to a total sentence of 21 months’ imprisonment and one stroke of the cane as follows:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="25.4239809580482%"> <col width="24.2933650699197%"> <col width="23.9363284736686%"> <col width="26.3463254983636%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Date</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Charge No.</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Offence</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Sentence</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">08/05/2019</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">MAC-912908-2017</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Section 354(1) Penal Code (Cap 224, Rev. Ed. 2008)</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Six(6) months’ imprisonment</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">&nbsp;</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">MAC-912909-2017</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Section 354(1) Penal Code (Cap 224, Rev. Ed. 2008)</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Six(6) months’ imprisonment</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">&nbsp;</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">MAC-912910-2017</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Section 354(1) Penal Code (Cap 224, Rev. Ed. 2008)</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Fifteen(15) months’ imprisonment and one(1) stroke of the cane</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">&nbsp;</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">MAC-912911-2017</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Section 354(1) Penal Code (Cap 224, Rev. Ed. 2008)</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Five(5) months’ imprisonment</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Further orders</p></td><td align="left" class="b" colspan="3" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Sentences in MAC-912908-217 and MAC-912910-2017 to run consecutively (shaded).</p><p align="justify" class="Table-Para-1">Sentences in MAC-912909-207 and MAC-912911-2017 to run concurrently.</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Total Sentence</p></td><td align="left" class="" colspan="3" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Twenty-one (21) months’ imprisonment and one (1) stroke of the cane.</p></td></tr></tbody></table>
+
+  
+  
+
+### Prosecution’s Submission on Sentence
+
+85     The prosecution submitted for the following individual sentences as set out in the following table[\[note: 88\]](#Ftn_88):
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="20.62%"> <col width="49.08%"> <col width="30.3%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Charge</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Facts</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Proposed sentence</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">1<sup>st</sup> Charge</p><p align="justify" class="Table-Para-1">MAC-912908-2017</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">The accused had on 25 June 2016, between 4.00pm and 6.00pm, outraged the modesty of the victim by <b>placing his hand on the left side of her chest above her left breast</b>.</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">6 months’ imprisonment</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">2<sup>nd</sup> Charge</p><p align="justify" class="Table-Para-1">MAC-912909-2017</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">The accused had on 2 July 2016, at about between 3.00pm and 4.00pm, outraged the modesty of the victim by <b>placing his hand on the left side of her chest above her left breast several times</b>.</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">6 months’ imprisonment</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">3<sup>rd</sup> Charge</p><p align="justify" class="Table-Para-1">MAC-912910-2017</p><p align="justify" class="Table-Para-1">&nbsp;</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">The accused had on 2 July 2016, at about between 3.00pm and 4.00pm, outraged the modesty of the victim by <b>placing his hand into her shirt and into her bra before touching her left breast by moving his hand left and right several times</b>.</p><p align="justify" class="Table-Para-1">&nbsp;</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">15 months’ imprisonment and one stroke of the cane.</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">4<sup>th</sup> Charge</p><p align="justify" class="Table-Para-1">MAC-912911-2017</p><p align="justify" class="Table-Para-1">&nbsp;</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">The accused had on 2 July 2016, at about between 3.00pm and 4.00pm, outraged the modesty of the victim by <b>touching the right inner side of the victim’s thigh</b>.</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">5 months’ imprisonment</p></td></tr></tbody></table>
+
+  
+  
+
+86     The prosecution asked that the proposed imprisonment sentence of six months for the first charge run consecutively with the proposed imprisonment sentence of 15 months for the third charge, and for the remaining imprisonment sentences to run concurrently.
+
+### Reasons for Sentence
+
+87     I agree with proposed individual and global sentences proposed by the prosecution and sentenced the accused accordingly.
+
+88     The learned prosecutor premised his sentencing submissions on the application of the sentencing framework that was set out in _PP v Kunasekaran s/o Kalimuthu Somasundara_ \[2018\] SGHC 09 (“_Kunasekaran”)_ in respect of outrage of modesty offences. The said framework involves a two-step analysis. The first step would be to identify the relevant offence-specific factors which include:
+
+(i)     The degree of sexual exploitation which “includes considerations of the part of the victim's body the accused touched, how the accused touched the victim, and the duration of the outrage of modesty”[\[note: 89\]](#Ftn_89);
+
+(ii)     The circumstances of the offence which “include considerations of: (A) the presence of premeditation; (B) the use of force or violence; (C) the abuse of a position of trust; (D) the use of deception; (E) the presence of other aggravating acts accompanying the outrage of modesty; and (F) the exploitation of a vulnerable victim”[\[note: 90\]](#Ftn_90).
+
+(iii)     The harm caused to the victim, “whether physical or psychological, which would usually be set out in a victim impact statement”[\[note: 91\]](#Ftn_91).
+
+89     Depending on the number of offence-specific factors that are present, the court will then situate the offence in one of the following three sentencing bands:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="16.7063373995835%"> <col width="50.8925914906278%"> <col width="32.4010711097888%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Band 1</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">This includes cases that do not present any, or at most one, of the offence-specific factors, and typically involves cases that involve a fleeting touch or no skin-to-skin contact, and no intrusion into the victim's private parts.</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Less than five months' imprisonment</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Band 2</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">This includes cases where two or more of the offence-specific factors present themselves. The lower end of the band involves cases where the private parts of the victim are intruded, but there is no skin-on-skin contact. The higher end of the band involves cases where there is skin-on-skin contact with the victim’s private parts. It would also involve cases where there was the use of deception.</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Five to 15 months' imprisonment</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Band 3</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">This includes cases where numerous offence-specific factors present themselves, especially factors such as the exploitation of a particularly vulnerable victim, a serious abuse of a position of trust, and/or the use of violence or force on the victim.</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">15 to 24 months' imprisonment</p></td></tr></tbody></table>
+
+  
+  
+
+90     The second step in this two-step analysis would be to identify applicable offender-specific aggravating and mitigating factors, if any[\[note: 92\]](#Ftn_92), and to calibrate the sentence upwards or downwards. If the offence involves the intrusion upon a victim's private parts or sexual organs, the court held at \[50\] that caning ought to be imposed:
+
+In my view, _Chow Yee Sze_ still remains instructive in respect of its guidance that the starting point in respect of the imposition of caning is where the outrage of modesty involves the intrusion upon the victim's private parts or sexual organs.
+
+91     In the present case, I agree with the prosecution’s application of the sentencing framework to the facts of this case. Accordingly, I agree that all four charges would fall minimally within sentencing band 2 because of the following offence-specific factors[\[note: 93\]](#Ftn_93):
+
+(i)     The accused touched the private areas of the victim i.e. chest, breast and inner thigh;
+
+(ii)     There was premeditation in that he pressured the victim to attend class on the second Saturday and molested her on the pretext of correcting her cello positioning;
+
+(iii)     He abused his position as a music teacher and betrayed the trust placed on him by the victim’s parents by leaving the victim alone with him in a one-to-one class;
+
+(iv)     He took advantage of the victim’s timid and soft-spoken nature; and
+
+(v)     The victim suffered psychological harm in the form of Post-Traumatic Stress Disorder with depressed mood as evidenced by the IMH report.
+
+92     I agree with the prosecution’s submission that in respect of the 1st, 2nd and 4th charge where there was no skin-on-skin contact, the indicative starting point ought to be 5-6 months’ imprisonment. More importantly, in respect of the 3rd charge involving skin-on-skin contact, I agree with the prosecution that the degree of sexual exploitation was very high. In respect of this charge, the accused reached inside the victim’s shirt and underneath the victim’s bra to fondle her bare breast. Therefore, I agree with the prosecution that an indicative starting point of 15 months’ imprisonment should apply to this charge. Further, as there was skin-on-skin contact with the victim’s private part, I accept prosecution’s submission that one stroke of the cane should be imposed on the accused. I would not hesitate to impose more than one stroke of the cane had the prosecution not been so restrained in its submission.
+
+93     Turning to the second step of the sentencing analysis, I considered that the accused had contested the charges and therefore, would not benefit from a sentencing discount that would otherwise be given if he had pleaded guilty. The fact that he is a first offender is a neutral factor[\[note: 94\]](#Ftn_94). Finally, as I will elaborate below, there are no objective mitigating factors in his favour. Therefore, I agree with the prosecution’s assessment that there should not be any downward adjustments to the indicative starting sentences that were arrived in the first step[\[note: 95\]](#Ftn_95).
+
+### Defence Submission on Sentence
+
+94     Counsel for the defence did not offer any mitigation plea on behalf of the accused. The reason is probably because the accused had already decided to appeal against the conviction and counsel thought that to enter a plea of mitigation might be inconsistent with the accused’s defence and would undermine his case at the appeal. Therefore, no mitigating factors or circumstances were highlighted by counsel for my consideration to lessen the accused’s culpability which might reduce the sentence to be imposed on him. In any event, on the available evidence before me, I did not find any mitigating circumstances or factors which I might have considered in favour of the accused.
+
+95     On the contrary, in claiming trial to the charges and now deciding to appeal against his conviction, the accused is plainly unremorseful and unrepentant and refuses to take responsibility for the reprehensible acts committed against a young girl. Having claimed trial to the charges, he did not spare the still youthful victim from having to relive the ordeal. He is therefore not entitled to the any discount which would have been given for a plea of guilt.
+
+96     Counsel did however make submissions as to the sentence in respect of the third charge which is the most aggravated charge involving skin-on-skin fondling of the victim’s breast (“third charge”). Counsel did not make any submissions as regards the other three charges i.e. first, second and fourth charges. Therefore, I will assume that counsel did not disagree with the learned DPP’s proposed imprisonment terms in respect of these three charges. I have, therefore, focused mainly on the question of the sentence for the third charge.
+
+97     In respect of the said third charge, counsel cited three precedents and submitted that the appropriate sentence to be imposed should be no more than 12 months’ imprisonment without caning. I did not find these three precedents to be useful or relevant. Two of the precedents were _PP v Mohamed Said Bin Mohamed Sani_ and _Winston Lee Siew Boon v PP_ (“_Winston Lee_”). These were decided before _Kunasekaran_ and therefore would not have applied the sentencing framework in _Kunasekaran_. In fact, the High Court in _Winston Lee_ specifically stated at \[214\] that the sentences imposed by the lower court in that case was in line with the then well-established benchmark decided in _PP v Chow Yee Sze_ at \[9\] of nine months’ imprisonment with caning where the victim’s private parts or sexual organs were intruded. _Winston Lee_ involved a doctor molesting his adult patient in similar fashion as the present case i.e. reaching underneath the bra to touch the victim’s breast. The offender was sentenced to a global term of 10 months’ imprisonment and was spared the cane because he was 67 years old.
+
+98     The third precedent (_PP v Rakesh Kumar Prasad_[\[note: 96\]](#Ftn_96)) case involved a male 26-year old yoga teacher outraging the modesty of his adult 25-year old female student by similarly slipping his hand underneath the victim’s bra and touching her breast. The accused in that case was convicted after trial and jailed nine months and given three strokes of the cane in respect of this single charge of molest. He was also convicted of a second charge of using criminal force. On appeal, the sentence for the molest charge was increased to 12 months’ imprisonment. The punishment of caning remained the same. In view of the adult age of the victim who was almost as old as the accused, I did not consider the circumstances of that precedent to be as aggravating as the present case involving a much younger and more vulnerable student. Even then, the sentence of 12 months’ imprisonment is not very much less than the 15 months that I imposed on the present accused. Furthermore, three strokes of the cane were imposed in that case as opposed to only one stroke in the present case. Therefore, the present accused would appear to have gotten off more lightly in terms of the number of strokes of the cane.
+
+#### Consecutive sentences
+
+99     The accused was convicted of four offences of outraging the modesty of the victim committed over two Saturdays. Section 307(1) of the Criminal Procedure Code (Cap. 68) mandates that if a person is convicted and sentenced to imprisonment for at least three distinct offences, the court must order at least two of those offences to run consecutively. The prosecution only asked for two of the sentences to run consecutively. I did not disagree with the prosecution’s submission. I ordered the sentences for the 1st charge and the 3rd charge to run consecutively for the following reasons:
+
+(i)     The 1st offence was committed on a different day from the other three offences;
+
+(ii)     The 3rd offence was the most serious and must be included to reflect the overall culpability of the accused; and
+
+(iii)     The sentence for the 3rd offence is also the longest, and consecutive sentences must result in a term of imprisonment which is longer than the longest imprisonment sentence (see _Mohamed Shouffee bin Adam v PP_ at \[77\])
+
+100    The global sentence imposed on the accused was therefore 21 months’ imprisonment and one stroke of the cane.
+
+### Conclusion - Sentence
+
+101    No mitigation was offered by the accused person and no mitigating factors were canvassed for the accused.
+
+102    Having considered the sentencing submission of both the prosecution and the defence and applying the sentencing framework in _Kunasekaran_, I was of the view that the individual and global sentences proposed by the prosecution are more than reasonable, fair and appropriate. In the circumstances, I sentenced the accused to an aggregate sentence of 21 months’ imprisonment and one stroke of the cane.
+
+* * *
+
+[\[note: 1\]](#Ftn_1_1)MAC-912912-2017.
+
+[\[note: 2\]](#Ftn_2_1)On 28 January 2019.
+
+[\[note: 3\]](#Ftn_3_1)See Prosecution’s Submission at Close of Prosecution’s Case (“PSCPC”) dated 28 January 2019.
+
+[\[note: 4\]](#Ftn_4_1)Notes of Evidence (“NEs”), Day 1, Page 4 Line 3-10.
+
+[\[note: 5\]](#Ftn_5_1)NEs, Day 1, Page 5.
+
+[\[note: 6\]](#Ftn_6_1)Photos 9-11 of P1.
+
+[\[note: 7\]](#Ftn_7_1)NEs, Day 1, Page 6.
+
+[\[note: 8\]](#Ftn_8_1)NEs, Day 1, Page 7 Line 30 - Page 8 Line 3.
+
+[\[note: 9\]](#Ftn_9_1)NEs, Day 1, Page 9 Line 1-9.
+
+[\[note: 10\]](#Ftn_10_1)NEs, Day 1, Page 9 Line 23-27.
+
+[\[note: 11\]](#Ftn_11_1)NEs, Day 1, Page 10 Line 5-16.
+
+[\[note: 12\]](#Ftn_12_1)NEs, Day 1, Page 10 Line 27-32.
+
+[\[note: 13\]](#Ftn_13_1)NEs, Day 1, Page 11 Line 8-10.
+
+[\[note: 14\]](#Ftn_14_1)NEs, Day 1, Page 14 Line 2-11.
+
+[\[note: 15\]](#Ftn_15_1)NEs, Day 1, Page 15.
+
+[\[note: 16\]](#Ftn_16_1)NEs, Day 1, Page 17.
+
+[\[note: 17\]](#Ftn_17_1)NEs. Day 1, Page 17 Line 16-23.
+
+[\[note: 18\]](#Ftn_18_1)NEs, Day 1, Page 18.
+
+[\[note: 19\]](#Ftn_19_1)NEs. Day 1, Page 19 Line 23-30.
+
+[\[note: 20\]](#Ftn_20_1)NEs. Day 1, Page 42 Line 19-22.
+
+[\[note: 21\]](#Ftn_21_1)NEs. Day 1, Page 43 Line 6-17.
+
+[\[note: 22\]](#Ftn_22_1)NEs, Day 1, Page 43 Line 28.
+
+[\[note: 23\]](#Ftn_23_1)NEs, Day 1, Page 45 Line 1-3.
+
+[\[note: 24\]](#Ftn_24_1)P2 dated 18 October 2016.
+
+[\[note: 25\]](#Ftn_25_1)NEs, Day 1, Page 26 Line 3-17.
+
+[\[note: 26\]](#Ftn_26_1)P3; NEs, Day 1, Page 2 Line 15-23.
+
+[\[note: 27\]](#Ftn_27_1)PSCPC.
+
+[\[note: 28\]](#Ftn_28_1)NEs, Day 2, Page 8-10.
+
+[\[note: 29\]](#Ftn_29_1)NEs, Day 2, Page 7 – 9.
+
+[\[note: 30\]](#Ftn_30_1)NEs, Day 2, Page 10.
+
+[\[note: 31\]](#Ftn_31_1)NEs, Day 2, Page 12.
+
+[\[note: 32\]](#Ftn_32_1)NEs, Day 2, Page 13 – 15.
+
+[\[note: 33\]](#Ftn_33_1)NEs, Day 2, Page 21 Line 28 – Page 22 Line 3.
+
+[\[note: 34\]](#Ftn_34_1)NEs, Day 2, Page 23 Line 17-29.
+
+[\[note: 35\]](#Ftn_35_1)D1.
+
+[\[note: 36\]](#Ftn_36_1)NEs, Day 2, Page 23 Line 5-12.
+
+[\[note: 37\]](#Ftn_37_1)NEs, Day 2, Page 43 Line 22-26.
+
+[\[note: 38\]](#Ftn_38_1)Defence Closing Submission (“DCS”) dated 1 April 2019 at \[8\].
+
+[\[note: 39\]](#Ftn_39_1)NEs, Day 2, Page 45 Line 9-17.
+
+[\[note: 40\]](#Ftn_40_1)NEs, Day 2, Page 45 Line 23-29.
+
+[\[note: 41\]](#Ftn_41_1)NEs, Day 2, Page 46 Line 16-21.
+
+[\[note: 42\]](#Ftn_42_1)NEs, Day 2, Page 48 Line 12-19.
+
+[\[note: 43\]](#Ftn_43_1)NEs, Day 2, Page 49 Line 12-27.
+
+[\[note: 44\]](#Ftn_44_1)NEs, Day 2, Page 42.
+
+[\[note: 45\]](#Ftn_45_1)NEs, Day 2, Page 44.
+
+[\[note: 46\]](#Ftn_46_1)NEs, Day 3, Page 4.
+
+[\[note: 47\]](#Ftn_47_1)NEs, Day 3, Page 20.
+
+[\[note: 48\]](#Ftn_48_1)NEs, Day 3, Page 9 Line 2-11.
+
+[\[note: 49\]](#Ftn_49_1)NEs, Day 3, Page 13 Line 28-32.
+
+[\[note: 50\]](#Ftn_50_1)Section 136 of the Evidence Act (Cap 97, 1997 Rev Ed).
+
+[\[note: 51\]](#Ftn_51_1)NEs, Day 1, Page 29.
+
+[\[note: 52\]](#Ftn_52_1)NEs, Day 1, Page 32.
+
+[\[note: 53\]](#Ftn_53_1)NEs, Day 1, Page 46 Line 23-28.
+
+[\[note: 54\]](#Ftn_54_1)NEs, Day 1, Page 29 Line 13-22.
+
+[\[note: 55\]](#Ftn_55_1)NEs, Day 1, Page 7.
+
+[\[note: 56\]](#Ftn_56_1)Prosecution’s Closing Submission (“PCS”) dated 16 April 2019 at \[23\].
+
+[\[note: 57\]](#Ftn_57_1)NEs, Day 1, Page 8.
+
+[\[note: 58\]](#Ftn_58_1)NEs, Day 1, Page 19 Line 1-5.
+
+[\[note: 59\]](#Ftn_59_1)NEs, Day 1 Page 21 Line 10-12.
+
+[\[note: 60\]](#Ftn_60_1)PCS at \[24\].
+
+[\[note: 61\]](#Ftn_61_1)NEs, Day 1 Page 43 Line 16 – Page 44 Line 5.
+
+[\[note: 62\]](#Ftn_62_1)P2 at page 1, last paragraph.
+
+[\[note: 63\]](#Ftn_63_1)_Ibid_ at page 2, first paragraph.
+
+[\[note: 64\]](#Ftn_64_1)PCS at \[25\].
+
+[\[note: 65\]](#Ftn_65_1)NEs, Day 2, Page 114 Line 9-15.
+
+[\[note: 66\]](#Ftn_66_1)NEs, Day 2, Page 32 – 35.
+
+[\[note: 67\]](#Ftn_67_1)NEs, Day 2, Page 37.
+
+[\[note: 68\]](#Ftn_68_1)NEs, Day 2, Page 34.
+
+[\[note: 69\]](#Ftn_69_1)D1, last page.
+
+[\[note: 70\]](#Ftn_70_1)NEs, Day 2, Page 89 Line 26-31.
+
+[\[note: 71\]](#Ftn_71_1)NEs, Day 2, Page 45.
+
+[\[note: 72\]](#Ftn_72_1)NEs, Day 2, Page 46 and 66.
+
+[\[note: 73\]](#Ftn_73_1)PCS at \[29\].
+
+[\[note: 74\]](#Ftn_74_1)NEs, Day 2, Page 73 and 75.
+
+[\[note: 75\]](#Ftn_75_1)NEs, Day 2, Page 64 Line 9-13.
+
+[\[note: 76\]](#Ftn_76_1)NEs, Day 1, Page 39.
+
+[\[note: 77\]](#Ftn_77_1)_Ibid_.
+
+[\[note: 78\]](#Ftn_78_1)NEs, Day 1, Page 35 Line 2-7.
+
+[\[note: 79\]](#Ftn_79_1)Sketch plan P1 - Page 2.
+
+[\[note: 80\]](#Ftn_80_1)NEs, Day 2, Page 76.
+
+[\[note: 81\]](#Ftn_81_1)NEs, Day 1, Page 37.
+
+[\[note: 82\]](#Ftn_82_1)DAC 935581-2017 - the accused pleaded guilty to one charge of molesting his 11-year old female student in a classroom with other students present. He was sentenced to 15 months’ imprisonment. No caning was imposed because of his age.
+
+[\[note: 83\]](#Ftn_83_1)NEs, Day 1, Page 14 Line 2-11.
+
+[\[note: 84\]](#Ftn_84_1)PCS at \[38\].
+
+[\[note: 85\]](#Ftn_85_1)NEs, Day 3, Page 22.
+
+[\[note: 86\]](#Ftn_86_1)NEs, Day 3, Page 9 Line 25-30.
+
+[\[note: 87\]](#Ftn_87_1)NEs, Day 3, Page 42.
+
+[\[note: 88\]](#Ftn_88_1)Prosecution’s Sentencing Submission (“PSS”) dated 7 May 2019 at \[3\].
+
+[\[note: 89\]](#Ftn_89_1)_Kunasekaran_ at \[45\].
+
+[\[note: 90\]](#Ftn_90_1)_Kunasekaran_ at \[45\].
+
+[\[note: 91\]](#Ftn_91_1)_Kunasekaran_ at \[45\].
+
+[\[note: 92\]](#Ftn_92_1)_Kunasekaran_ at \[45\].
+
+[\[note: 93\]](#Ftn_93_1)PSS at \[11\]-\[15\].
+
+[\[note: 94\]](#Ftn_94_1)_Kunasekaran_ at \[65\].
+
+[\[note: 95\]](#Ftn_95_1)PSS at \[21\].
+
+[\[note: 96\]](#Ftn_96_1).
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F23186-SSP.xml)
