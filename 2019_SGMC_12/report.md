@@ -1,3 +1,4 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
 # Public Prosecutor _v_ Lim Toon Leng and Seah Lei Sie Linda  
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">MCN 901530-2017, MAC 906778-2017 &amp; Ors</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">25 March 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">Magistrates Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Olivia Low</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">DPPs Sarah Shi and Jotham Tay for the Prosecution; Kertar Singh (Kertar &amp; Sandhu LLC) for the 1st Accused; Ragbir Singh Bajwa (Bajwa &amp; Co) for the 2nd Accused</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Lim Toon Leng — Seah Lei Sie Linda</td></tr></tbody></table>
@@ -72,7 +73,7 @@ _“I would like to give information maid abuse. She is a Myanmar maid. Previous
 
 14     Two police officers were despatched that night to the flat to interview Seah and the victim. The next day on 15 October 2016, Insp Shaun Leong and Stella Tay brought the victim to Khoo Teck Puat Hospital for a medical check-up. Photographs of the victim’s injuries were taken in the hospital.
 
-15     It is not in dispute that the victim suffered injuries as a result of hot water being poured on her and continues to bear scald marks on her body. The victim’s injuries can be observed from the photographs exhibited at P2 and the victim’s medical report[\[note: 1\]](#Ftn_1) noted the injuries suffered by the victim:
+15     It is not in dispute that the victim suffered injuries as a result of hot water being poured on her and continues to bear scald marks on her body. The victim’s injuries can be observed from the photographs exhibited at P2 and the victim’s medical report[^1] noted the injuries suffered by the victim:
 
 a.     Haematoma, left orbital region
 
@@ -92,59 +93,59 @@ e.     Swelling, left metacarpophalangeal joints
 
 ## MCN 901530-2017 - Punching Phyu Phyu Mar twice
 
-18     Phyu Phyu Mar testified that on 13 October 2016, Lim punched her twice on the forehead in quick succession, causing her pain.[\[note: 2\]](#Ftn_2) Although Phyu Phyu Mar was unable to recall the exact time it happened, she said that it took place sometime in the evening after the third occasion when Seah had hit her with the phone.[\[note: 3\]](#Ftn_3) The incident took place inside the flat near the iron gate of the flat’s entrance and caused her to suffer pain. Lim had punched her because he thought that she had thrown away his spectacles when she did not do so.[\[note: 4\]](#Ftn_4)
+18     Phyu Phyu Mar testified that on 13 October 2016, Lim punched her twice on the forehead in quick succession, causing her pain.[^2] Although Phyu Phyu Mar was unable to recall the exact time it happened, she said that it took place sometime in the evening after the third occasion when Seah had hit her with the phone.[^3] The incident took place inside the flat near the iron gate of the flat’s entrance and caused her to suffer pain. Lim had punched her because he thought that she had thrown away his spectacles when she did not do so.[^4]
 
 ## MAC 906780-2017 – Late August instigating victim to knock head on floor
 
-19     Phyu Phyu Mar testified that from late August 2016, Seah’s attitude towards her was not too good and Seah was not happy with her.[\[note: 5\]](#Ftn_5) Seah was not happy with Phyu Phyu Mar and had asked her to hit her head on the floor in late August 2016, stating that this was the maid agency’s instructions.[\[note: 6\]](#Ftn_6) Phyu Phyu Mar therefore knelt on the floor in the kitchen to hit her head whilst Seah sat in the living room. She was told to hit her head until Seah could hear the sound of her head hitting the floor.[\[note: 7\]](#Ftn_7) Phyu Phyu Mar complied and hit her forehead on the floor multiple times, causing her head to be very painful and to bleed a little.[\[note: 8\]](#Ftn_8)
+19     Phyu Phyu Mar testified that from late August 2016, Seah’s attitude towards her was not too good and Seah was not happy with her.[^5] Seah was not happy with Phyu Phyu Mar and had asked her to hit her head on the floor in late August 2016, stating that this was the maid agency’s instructions.[^6] Phyu Phyu Mar therefore knelt on the floor in the kitchen to hit her head whilst Seah sat in the living room. She was told to hit her head until Seah could hear the sound of her head hitting the floor.[^7] Phyu Phyu Mar complied and hit her forehead on the floor multiple times, causing her head to be very painful and to bleed a little.[^8]
 
 ## MAC 906778-2018 – Late August instigating victim to pour hot water on left shoulder
 
-20     Phyu Phyu Mar testified that Seah had boiled water in an electric kettle, poured the water into a cup till it was more than half full in late August 2016. Phyu Phyu Mar was asked to pour the hot water on herself,[\[note: 9\]](#Ftn_9) causing her skin to become red and very painful such that she was unable to sleep that night.
+20     Phyu Phyu Mar testified that Seah had boiled water in an electric kettle, poured the water into a cup till it was more than half full in late August 2016. Phyu Phyu Mar was asked to pour the hot water on herself,[^9] causing her skin to become red and very painful such that she was unable to sleep that night.
 
 ## MAC 906779-2017 – Late September instigating victim to pour hot water on left shoulder twice
 
 21     Phyu Phyu Mar testified that in late September 2016 Seah would watch Phyu Phyu Mar via the CCTV installed in the flat to observe her complete her chores. However, as Phyu Phyu Mar was slow to finish the chores, this meant that Seah was unable to sleep and this made Seah angry.
 
-22     When Phyu Phyu Mar was boiling water in the kitchen, Seah told her to pour a cup of hot water on her body. Seah poured the hot water into a cup and threatened Phyu Phyu Mar by saying: “If you don’t pour on yourself, I will pour hot water (on myself). Then I will call the police, tell the police you pour hot water on me. Then police arrest you and you will not see your parents again.”[\[note: 10\]](#Ftn_10)
+22     When Phyu Phyu Mar was boiling water in the kitchen, Seah told her to pour a cup of hot water on her body. Seah poured the hot water into a cup and threatened Phyu Phyu Mar by saying: “If you don’t pour on yourself, I will pour hot water (on myself). Then I will call the police, tell the police you pour hot water on me. Then police arrest you and you will not see your parents again.”[^10]
 
-23     This made Phyu Phyu Mar afraid that she would be jailed and be unable to see her parents again, thus she proceeded to pour the hot water in the cup she was holding in her right hand onto her left shoulder. Seah was standing in front of Phyu Phyu Mar at that time and found that too much water had fallen on the floor instead of on Phyu Phyu Mar’s shoulder. Seah refilled the cup till it was full and asked Phyu Phyu Mar to pour it on herself a second time.[\[note: 11\]](#Ftn_11) Phyu Phyu asked if she could pour it on the other shoulder instead but Seah insisted that she pour it on the same left shoulder which Phyu Phyu Mar complied with. She described it as being “very very painful” and caused her to shout in pain. Her skin subsequently became very red, blistered and had scald marks.[\[note: 12\]](#Ftn_12)
+23     This made Phyu Phyu Mar afraid that she would be jailed and be unable to see her parents again, thus she proceeded to pour the hot water in the cup she was holding in her right hand onto her left shoulder. Seah was standing in front of Phyu Phyu Mar at that time and found that too much water had fallen on the floor instead of on Phyu Phyu Mar’s shoulder. Seah refilled the cup till it was full and asked Phyu Phyu Mar to pour it on herself a second time.[^11] Phyu Phyu asked if she could pour it on the other shoulder instead but Seah insisted that she pour it on the same left shoulder which Phyu Phyu Mar complied with. She described it as being “very very painful” and caused her to shout in pain. Her skin subsequently became very red, blistered and had scald marks.[^12]
 
-24     However, instead of seeking medical attention for Phyu Phyu Mar, Seah only passed her a needle to puncture the blisters herself. Phyu Phyu Mar was too afraid to ask Seah if she could see a doctor. She testified to feeling “pain” when she used the needle to puncture the blisters.[\[note: 13\]](#Ftn_13) She also wished to go home so that someone could give her medicine and take care of her.
+24     However, instead of seeking medical attention for Phyu Phyu Mar, Seah only passed her a needle to puncture the blisters herself. Phyu Phyu Mar was too afraid to ask Seah if she could see a doctor. She testified to feeling “pain” when she used the needle to puncture the blisters.[^13] She also wished to go home so that someone could give her medicine and take care of her.
 
 25     Phyu Phyu Mar subsequently informed PW1 Lynette of her injuries caused by the hot water and sought Lynette’s help to speak with Seah.
 
 ## MAC 910505-2017 – Causing victim to take water adulterated with floor cleaner
 
-26     Immediately after the pouring of the hot water, Seah proceeded to ask Phyu Phyu Mar to clean the wet floor.[\[note: 14\]](#Ftn_14) Phyu Phyu Mar cleaned the floor with a towel. She filled a pail with water and poured a capful of floor detergent into the water to clean the kitchen floor and living room. Seah scooped up a cup of water from the pail and asked her to drink the dirty water, which was black and contained dog hairs. Phyu Phyu Mar testified that Seah looked angry, thus she drank all the water in the cup which tasted very bitter.[\[note: 15\]](#Ftn_15) This caused Phyu Phyu Mar to vomit and her stomach was not well for the next few days.
+26     Immediately after the pouring of the hot water, Seah proceeded to ask Phyu Phyu Mar to clean the wet floor.[^14] Phyu Phyu Mar cleaned the floor with a towel. She filled a pail with water and poured a capful of floor detergent into the water to clean the kitchen floor and living room. Seah scooped up a cup of water from the pail and asked her to drink the dirty water, which was black and contained dog hairs. Phyu Phyu Mar testified that Seah looked angry, thus she drank all the water in the cup which tasted very bitter.[^15] This caused Phyu Phyu Mar to vomit and her stomach was not well for the next few days.
 
 ## MAC 906781-2017 – Grabbing her by her hair and shaking her until quite a lot of her hair fell out
 
-27     On the same day, Seah told Phyu Phyu Mar that she would not report her to the agency and would not go to the police anymore. Phyu Phyu Mar asked “Really?”[\[note: 16\]](#Ftn_16) which caused Seah to get angry again. This time, Seah grabbed her hair on the right side of her head and pulled it downwards a number of times, causing her head to hurt and quite a lot of her hair to fall out.[\[note: 17\]](#Ftn_17) The incident occurred near the toilet.
+27     On the same day, Seah told Phyu Phyu Mar that she would not report her to the agency and would not go to the police anymore. Phyu Phyu Mar asked “Really?”[^16] which caused Seah to get angry again. This time, Seah grabbed her hair on the right side of her head and pulled it downwards a number of times, causing her head to hurt and quite a lot of her hair to fall out.[^17] The incident occurred near the toilet.
 
 ## MAC 906782-2017 – Hitting multiple times with mobile phone
 
-28     Phyu Phyu Mar testified that she was hit on three occasions on 13 October 2016 by a pink iPhone.[\[note: 18\]](#Ftn_18) The first occurred in the morning in the flat near the entrance of the main door. Seah felt that Phyu Phyu Mar was working very slowly and because Seah needed to observe her work, this caused Seah to have insufficient sleep which was bad for her health.[\[note: 19\]](#Ftn_19) Seah hit Phyu Phyu multiple times all over her forehead with the corner of the phone. Phyu Phyu Mar felt pain on her head but did not react because she was afraid of Seah.[\[note: 20\]](#Ftn_20)
+28     Phyu Phyu Mar testified that she was hit on three occasions on 13 October 2016 by a pink iPhone.[^18] The first occurred in the morning in the flat near the entrance of the main door. Seah felt that Phyu Phyu Mar was working very slowly and because Seah needed to observe her work, this caused Seah to have insufficient sleep which was bad for her health.[^19] Seah hit Phyu Phyu multiple times all over her forehead with the corner of the phone. Phyu Phyu Mar felt pain on her head but did not react because she was afraid of Seah.[^20]
 
-29     The second occasion took place in the afternoon in the kitchen. Phyu Phyu Mar did not know which part of the mobile phone Seah had used on her because she had bent her head whilst being hit with the mobile phone. Seah had hit her forehead and all over the back of her head and this was very painful.[\[note: 21\]](#Ftn_21)
+29     The second occasion took place in the afternoon in the kitchen. Phyu Phyu Mar did not know which part of the mobile phone Seah had used on her because she had bent her head whilst being hit with the mobile phone. Seah had hit her forehead and all over the back of her head and this was very painful.[^21]
 
-30     The third occasion took place in the toilet towards the evening or night when Seah used the phone to hit Phyu Phyu Mar all over her head. This time, Phyu Phyu Mar protected her eyes with her hands and blocked the blows.[\[note: 22\]](#Ftn_22) Seah hit Phyu Phyu Mar around her left eye area and some of the blows landed on her eye and face.[\[note: 23\]](#Ftn_23) As a result, Phyu Phyu Mar was hit around her left eye. Phyu Phyu Mar testified that it was very painful.[\[note: 24\]](#Ftn_24)
+30     The third occasion took place in the toilet towards the evening or night when Seah used the phone to hit Phyu Phyu Mar all over her head. This time, Phyu Phyu Mar protected her eyes with her hands and blocked the blows.[^22] Seah hit Phyu Phyu Mar around her left eye area and some of the blows landed on her eye and face.[^23] As a result, Phyu Phyu Mar was hit around her left eye. Phyu Phyu Mar testified that it was very painful.[^24]
 
-31     Phyu Phyu Mar also testified that she was not given enough food, sometimes she was only fed with biscuits, and sometimes she had noodles which were not cooked, i.e. dipped in cold water.[\[note: 25\]](#Ftn_25) As a result, her weight when she was at the hospital was only 38 kilograms, compared to 50 kilograms in February 2016.
+31     Phyu Phyu Mar also testified that she was not given enough food, sometimes she was only fed with biscuits, and sometimes she had noodles which were not cooked, i.e. dipped in cold water.[^25] As a result, her weight when she was at the hospital was only 38 kilograms, compared to 50 kilograms in February 2016.
 
 ## Evidence of PW1 Lee Lee Yen (“Lynette”)
 
 32     Lynette worked as a nutritionist in Seah’s beauty salon from December 2015 to October 2016, although she had known and had worked with Seah since 2009. She described her relationship with Seah as good. Lynette testified that Seah would sometimes bring her daughter to the salon. Phyu Phyu Mar would take care of the daughter and also help with the cleaning.
 
-33     Lynette described Phyu Phyu Mar as initially being quite chatty, having long hair and looking a bit chubby.[\[note: 26\]](#Ftn_26) However in August or September 2016, Lynette noticed that Phyu Phyu Mar had slimmed down and she did not see her eating meals in the shop so often. Phyu Phyu Mar told Lynette that she had no food to eat and was hungry, so Lynette would secretly give her biscuits and drinks.[\[note: 27\]](#Ftn_27)
+33     Lynette described Phyu Phyu Mar as initially being quite chatty, having long hair and looking a bit chubby.[^26] However in August or September 2016, Lynette noticed that Phyu Phyu Mar had slimmed down and she did not see her eating meals in the shop so often. Phyu Phyu Mar told Lynette that she had no food to eat and was hungry, so Lynette would secretly give her biscuits and drinks.[^27]
 
-34     In mid-October 2016, Lynette observed that Phyu Phyu Mar had a swollen left eye, and when Phyu Phyu Mar was in the shop folding towels, she showed Lynette her left shoulder injury which was very red with the skin starting to peel off. Lynette testified that Phyu Phyu Mar had told her that Seah “used hot water to pour it on her back and \[Seah\] also asked her to pour the hot water onto herself”.[\[note: 28\]](#Ftn_28)
+34     In mid-October 2016, Lynette observed that Phyu Phyu Mar had a swollen left eye, and when Phyu Phyu Mar was in the shop folding towels, she showed Lynette her left shoulder injury which was very red with the skin starting to peel off. Lynette testified that Phyu Phyu Mar had told her that Seah “used hot water to pour it on her back and \[Seah\] also asked her to pour the hot water onto herself”.[^28]
 
-35     Lynette asked if Phyu Phyu Mar needed any assistance and Phyu Phyu Mar replied that she hoped that Lynette could talk to Seah so that she could continue to work for Seah and for Seah not to treat her that way anymore.[\[note: 29\]](#Ftn_29) Lynette explained that she knew it was a hot water scalding mark because in mid-September, her colleague Maggie told her that Phyu Phyu Mar had been scalded by hot water. During that period, Seah had asked Phyu Phyu not to talk to or have contact with the workers in the salon.[\[note: 30\]](#Ftn_30) Lynette decided to make a police report and called ‘999’ that evening on 14 October 2016.
+35     Lynette asked if Phyu Phyu Mar needed any assistance and Phyu Phyu Mar replied that she hoped that Lynette could talk to Seah so that she could continue to work for Seah and for Seah not to treat her that way anymore.[^29] Lynette explained that she knew it was a hot water scalding mark because in mid-September, her colleague Maggie told her that Phyu Phyu Mar had been scalded by hot water. During that period, Seah had asked Phyu Phyu not to talk to or have contact with the workers in the salon.[^30] Lynette decided to make a police report and called ‘999’ that evening on 14 October 2016.
 
 ## Evidence of PW2 Muhammad Gharib Bin Sani
 
-36     PW2 was one of the police officer who attended at the house on 14 October 2018. He testified that when the maid was called to come out, she was not wearing a jacket at first but later returned back in to put on a jacket.[\[note: 31\]](#Ftn_31) PW2 interviewed Seah whilst his colleague interviewed Phyu Phyu Mar. PW2 observed that Phyu Phyu Mar had an injury on her eye and told him initially that she was being abused by Seah using the handphone, but upon further probing, became intimidated and inconsistent.[\[note: 32\]](#Ftn_32)
+36     PW2 was one of the police officer who attended at the house on 14 October 2018. He testified that when the maid was called to come out, she was not wearing a jacket at first but later returned back in to put on a jacket.[^31] PW2 interviewed Seah whilst his colleague interviewed Phyu Phyu Mar. PW2 observed that Phyu Phyu Mar had an injury on her eye and told him initially that she was being abused by Seah using the handphone, but upon further probing, became intimidated and inconsistent.[^32]
 
 ## Evidence of PW3 Shem Leow
 
@@ -152,25 +153,25 @@ e.     Swelling, left metacarpophalangeal joints
 
 ## Evidence of PW5 Shaun Leong
 
-38     Inspector Shaun Leong visited the house on 15 October 2016 with his female colleague IO Stella and asked for Phyu Phyu Mar to be brought out. He testified that Seah had closed the door for about 5 minutes before Phyu Phyu Mar came out. They brought her to Khoo Teck Puat Hospital for a medical examination. He testified that they noticed Phyu Phyu Mar fidgeting with her fringe whilst in the waiting area of the hospital and when his colleague lifted her fringe, they saw extensive bruising on her forehead. Phyu Phyu Mar was initially reluctant to share what had happened but later teared up and said that Seah had hit her on the forehead with her mobile phone.[\[note: 33\]](#Ftn_33) Phyu Phyu Mar also shared that the scald marks were caused by Seah forcing her to pour boiling water on herself on two separate occasions.
+38     Inspector Shaun Leong visited the house on 15 October 2016 with his female colleague IO Stella and asked for Phyu Phyu Mar to be brought out. He testified that Seah had closed the door for about 5 minutes before Phyu Phyu Mar came out. They brought her to Khoo Teck Puat Hospital for a medical examination. He testified that they noticed Phyu Phyu Mar fidgeting with her fringe whilst in the waiting area of the hospital and when his colleague lifted her fringe, they saw extensive bruising on her forehead. Phyu Phyu Mar was initially reluctant to share what had happened but later teared up and said that Seah had hit her on the forehead with her mobile phone.[^33] Phyu Phyu Mar also shared that the scald marks were caused by Seah forcing her to pour boiling water on herself on two separate occasions.
 
 ## Evidence of PW7 Stella Tay
 
-39     PW7 visited the house on 15 October together with IO Shaun Leong and confirmed that they waited 5 to 8 minutes before Phyu Phyu Mar was brought out to them. At the hospital, when PW7 touched Phyu Phyu Mar’s shoulder, she shrugged her shoulder away and PW7 noticed a patch of burn marks which looked quite fresh. Phyu Phyu Mar was observed to be crying and looking down and also told PW7 that “she poured hot water”, which PW7 assumed to be Seah pouring hot water on Phyu Phyu Mar.[\[note: 34\]](#Ftn_34)
+39     PW7 visited the house on 15 October together with IO Shaun Leong and confirmed that they waited 5 to 8 minutes before Phyu Phyu Mar was brought out to them. At the hospital, when PW7 touched Phyu Phyu Mar’s shoulder, she shrugged her shoulder away and PW7 noticed a patch of burn marks which looked quite fresh. Phyu Phyu Mar was observed to be crying and looking down and also told PW7 that “she poured hot water”, which PW7 assumed to be Seah pouring hot water on Phyu Phyu Mar.[^34]
 
 ## Evidence of PW8 Dr Teo Ting Zhang
 
-40     Dr Teo was the medical officer who attended to Phyu Phyu Mar at the hospital for about 30 to 45 minutes. He testified that she appeared frightful. Dr Teo took a history of injuries from the victim and recorded that she was “coerced to scald herself”.[\[note: 35\]](#Ftn_35) He opined that her haematoma was likely to have been caused by a blunt force trauma.[\[note: 36\]](#Ftn_36) Dr Teo also noted that she was undernourished with wasting over the left temporal region.
+40     Dr Teo was the medical officer who attended to Phyu Phyu Mar at the hospital for about 30 to 45 minutes. He testified that she appeared frightful. Dr Teo took a history of injuries from the victim and recorded that she was “coerced to scald herself”.[^35] He opined that her haematoma was likely to have been caused by a blunt force trauma.[^36] Dr Teo also noted that she was undernourished with wasting over the left temporal region.
 
 ## Summary of the Defence’s Case
 
 ## MCN 901530-2017 - Punching Phyu Phyu Mar twice
 
-41     Lim’s evidence was one of bare denial. He testified that no such incident took place and that he had never punched the victim.[\[note: 37\]](#Ftn_37) Further, there was no objective medical evidence to prove that she had suffered injuries caused by his alleged act. Counsel also contended that Phyu Phyu Mar did not mention Lim’s assault to the prosecution witnesses until much later during the investigations.
+41     Lim’s evidence was one of bare denial. He testified that no such incident took place and that he had never punched the victim.[^37] Further, there was no objective medical evidence to prove that she had suffered injuries caused by his alleged act. Counsel also contended that Phyu Phyu Mar did not mention Lim’s assault to the prosecution witnesses until much later during the investigations.
 
 ## MAC 906780-2017 – Late August instigating victim to knock head on floor
 
-42     Seah alleged that Phyu Phyu Mar had, on her own accord and without any instigation by Seah, knocked her head on the ground. This was because Phyu Phyu Mar’s attitude towards her work started to slacken in June, and Seah had called the maid agent Kevin in August 2016 to complain about the victim. Upon overhearing the conversation and knowing that Seah intended to replace her, Phyu Phyu Mar became dramatic, knelt down and knocked her head on the floor to plead with Seah not to send her back.[\[note: 38\]](#Ftn_38) Seah denies that the victim’s forehead had bled and said that there was no wound when she checked.
+42     Seah alleged that Phyu Phyu Mar had, on her own accord and without any instigation by Seah, knocked her head on the ground. This was because Phyu Phyu Mar’s attitude towards her work started to slacken in June, and Seah had called the maid agent Kevin in August 2016 to complain about the victim. Upon overhearing the conversation and knowing that Seah intended to replace her, Phyu Phyu Mar became dramatic, knelt down and knocked her head on the floor to plead with Seah not to send her back.[^38] Seah denies that the victim’s forehead had bled and said that there was no wound when she checked.
 
 ## MAC 906778-2018 – Late August instigating victim to pour hot water on left shoulder
 
@@ -184,7 +185,7 @@ e.     Swelling, left metacarpophalangeal joints
 
 46     Seah then checked on Phyu Phyu’s injuries and wanted to send her to the hospital but Phyu Phyu became agitated and said she could not go to the hospital because her passport was fake (in the sense that she had overdeclared her age in order to work in Singapore).
 
-47     Lim had also testified that whilst he did not witness the water-pouring incident, he had seen Phyu Phyu Mar run to the bathroom. Lim also said that he had told Phyu Phyu Mar that it was a dangerous act for her to pour water on herself and that when he suggested sending her to hospital, Phyu Phyu Mar became agitated and begged him not to.[\[note: 39\]](#Ftn_39) Lim said that this took place around 12am to 1am and that although he wanted to bring the maid to see a doctor, Phyu Phyu Mar said she would be alright after a rest. Lim told her he would get her some cream for her burns the next day.
+47     Lim had also testified that whilst he did not witness the water-pouring incident, he had seen Phyu Phyu Mar run to the bathroom. Lim also said that he had told Phyu Phyu Mar that it was a dangerous act for her to pour water on herself and that when he suggested sending her to hospital, Phyu Phyu Mar became agitated and begged him not to.[^39] Lim said that this took place around 12am to 1am and that although he wanted to bring the maid to see a doctor, Phyu Phyu Mar said she would be alright after a rest. Lim told her he would get her some cream for her burns the next day.
 
 ## MAC 910505-2017 – Causing victim to take water adulterated with floor cleaner
 
@@ -196,9 +197,9 @@ e.     Swelling, left metacarpophalangeal joints
 
 ## MAC 906782-2017 – Hitting multiple times with mobile phone
 
-50     Seah testified that she did not hit Phyu Phyu Mar multiple times with her handphone. It was Phyu Phyu Mar who had inflicted the injuries on herself in three incidents. First, she hit herself on the forehead and eye for a couple of times in the morning at around 8am to 9am using an iPhone 4 that was left on the dining table[\[note: 40\]](#Ftn_40). Seah then told Phyu Phyu Mar that she had decided to send Phyu Phyu Mar back and would make the necessary arrangements. After Seah returned to her room, she heard a loud bang and both Seah and Lim came out of the room to see what had happened. They saw Phyu Phyu Mar at the balcony door. She said that she had accidentally fallen whilst cleaning the balcony and her left eye looked unnatural and/or her head had a bump.
+50     Seah testified that she did not hit Phyu Phyu Mar multiple times with her handphone. It was Phyu Phyu Mar who had inflicted the injuries on herself in three incidents. First, she hit herself on the forehead and eye for a couple of times in the morning at around 8am to 9am using an iPhone 4 that was left on the dining table[^40]. Seah then told Phyu Phyu Mar that she had decided to send Phyu Phyu Mar back and would make the necessary arrangements. After Seah returned to her room, she heard a loud bang and both Seah and Lim came out of the room to see what had happened. They saw Phyu Phyu Mar at the balcony door. She said that she had accidentally fallen whilst cleaning the balcony and her left eye looked unnatural and/or her head had a bump.
 
-51     Seah also gave evidence that Phyu Phyu Mar wanted to take a loan of $5,000 from Seah because her family was suffering from financial difficulties.[\[note: 41\]](#Ftn_41) Seah however preferred to send the money directly to the family and asked the maid for her home address. Seah made queries with DW4 Ng Kae How and found that it was not the home address of Phyu Phyu Mar’s parents. She confronted Phyu Phyu Mar who became agitated and starting hitting herself on her forehead with the handphone.
+51     Seah also gave evidence that Phyu Phyu Mar wanted to take a loan of $5,000 from Seah because her family was suffering from financial difficulties.[^41] Seah however preferred to send the money directly to the family and asked the maid for her home address. Seah made queries with DW4 Ng Kae How and found that it was not the home address of Phyu Phyu Mar’s parents. She confronted Phyu Phyu Mar who became agitated and starting hitting herself on her forehead with the handphone.
 
 ## The Ancillary Hearing
 
@@ -216,15 +217,15 @@ e.     Telling accused’s lawyer “see what you can do”
 
 53     IO Shaun took the stand for the prosecution whilst Ms Kasturibai Manickam, who had represented Seah in this trial until 20 June 2018 gave evidence for the defence together with Seah.
 
-54     On the first allegation, IO Shaun Leong testified that he did not ask the accused to plead guilty before or during the recording of the statement. The accused had not been charged at the time of the statement recording. It did not appear logical that the IO would make such a statement as alleged. The acronym “PG” is not something commonly known to laypersons and moreover, the IO would not have the power to decide on the sentence or the charge. In Ms Manickam’s letter on 14 February 2017[\[note: 42\]](#Ftn_42), I note that there was no mention of such a phrase being uttered. Instead, it was alleged that the accused was under duress when asked to “admit to her so-called wrongdoing”. This differs from the ancillary hearing where Seah consistently maintained that the IO had told her she had better “PG” to get a lighter sentence and not waste time lying.[\[note: 43\]](#Ftn_43) Even if such a phrase had been uttered by the IO, this was a general statement that could not reasonably be inferred as an inducement which operated on Seah’s mind and affected the voluntariness of the statement without more.
+54     On the first allegation, IO Shaun Leong testified that he did not ask the accused to plead guilty before or during the recording of the statement. The accused had not been charged at the time of the statement recording. It did not appear logical that the IO would make such a statement as alleged. The acronym “PG” is not something commonly known to laypersons and moreover, the IO would not have the power to decide on the sentence or the charge. In Ms Manickam’s letter on 14 February 2017[^42], I note that there was no mention of such a phrase being uttered. Instead, it was alleged that the accused was under duress when asked to “admit to her so-called wrongdoing”. This differs from the ancillary hearing where Seah consistently maintained that the IO had told her she had better “PG” to get a lighter sentence and not waste time lying.[^43] Even if such a phrase had been uttered by the IO, this was a general statement that could not reasonably be inferred as an inducement which operated on Seah’s mind and affected the voluntariness of the statement without more.
 
-55     On the allegation that IO Shaun threatened to get people outside to handle her, the IO did not understand what the phrase meant.[\[note: 44\]](#Ftn_44) Given that the statement was being recorded in an open concept office, it was unlikely that an IO would make such a threat. In fact, IO Shaun clarified that he was willing to accede to her request but it was his supervisor who turned down her request.[\[note: 45\]](#Ftn_45) In any event, it appeared that this was in the context of the accused not being able to download the contacts in her handphone and was not in any way connected with the recording of the statement.[\[note: 46\]](#Ftn_46) In fact, it is also telling that Ms Manickam’s letter alleging that the IO had threatened to harass her at her business premises or home[\[note: 47\]](#Ftn_47) was not in Seah’s evidence at all during the ancillary hearing.
+55     On the allegation that IO Shaun threatened to get people outside to handle her, the IO did not understand what the phrase meant.[^44] Given that the statement was being recorded in an open concept office, it was unlikely that an IO would make such a threat. In fact, IO Shaun clarified that he was willing to accede to her request but it was his supervisor who turned down her request.[^45] In any event, it appeared that this was in the context of the accused not being able to download the contacts in her handphone and was not in any way connected with the recording of the statement.[^46] In fact, it is also telling that Ms Manickam’s letter alleging that the IO had threatened to harass her at her business premises or home[^47] was not in Seah’s evidence at all during the ancillary hearing.
 
 56     As for asking IO Stella to come over to prove that Seah had been lying, IO Shaun could not recall if IO Stella was even present in office that day. Prosecution had offered IO Stella to the defence as a witness, however after defence counsel spoke to IO Stella, the defence declined to call her as a witness. I also note that Ms Manickam’s letter had in fact emphasised that “there were no female officers present” during the statement recording, which directly contradicts Seah’s allegation.
 
 57     It is not disputed that Seah was asked to hand over her handphone towards the end of the statement recording and that Seah was allowed to make phone calls before handing it over. Seah however claimed that she was not allowed to check her phone to help her recall when certain incidents may have occurred. Whilst it may have been possible that the accused was not allowed to check her phone to recall the dates, I am not satisfied that this amounted to any duress or oppression which operated on her mind which affected the voluntariness of her statement. In any event, I note that the accused was able to see messages from her lawyer and make a call to her lawyer as well as to the person with whom she arranged to come download her phone.
 
-58     In respect of the allegation “see what your lawyer can do”, the accused claimed that she had contacted her lawyer during the statement recording after seeing a message from her lawyer and this had been said by the IO to Ms Manickam. Ms Manickam’s testimony was limited because she could only confirm that she had purportedly heard the phrase “see what your lawyer can do”. Ms Manickam was unable to reveal the context of the conversation on the basis of legal privilege. With no context or explanation as to how this phrase could have come about, I found her evidence was of little utility and little weight should be placed on it. I was more inclined to accept IO Shaun’s evidence that such a statement was not uttered because first, he did not even know that the accused was speaking with her lawyer and secondly, no such allegation was raised in Ms Manickam’s letter. Even if such a statement had indeed been uttered, I was satisfied that this did not amount to any threat which operated on the accused’s mind. This was because the accused was able to effect an amendment in her statement[\[note: 48\]](#Ftn_48) to say that she would not be willing to undergo a polygraph test until she had spoken to her lawyer.
+58     In respect of the allegation “see what your lawyer can do”, the accused claimed that she had contacted her lawyer during the statement recording after seeing a message from her lawyer and this had been said by the IO to Ms Manickam. Ms Manickam’s testimony was limited because she could only confirm that she had purportedly heard the phrase “see what your lawyer can do”. Ms Manickam was unable to reveal the context of the conversation on the basis of legal privilege. With no context or explanation as to how this phrase could have come about, I found her evidence was of little utility and little weight should be placed on it. I was more inclined to accept IO Shaun’s evidence that such a statement was not uttered because first, he did not even know that the accused was speaking with her lawyer and secondly, no such allegation was raised in Ms Manickam’s letter. Even if such a statement had indeed been uttered, I was satisfied that this did not amount to any threat which operated on the accused’s mind. This was because the accused was able to effect an amendment in her statement[^48] to say that she would not be willing to undergo a polygraph test until she had spoken to her lawyer.
 
 59     Counsel also took issue with the accuracy of the statement, i.e. that the statement contained missing words, using “my pay” instead of “her pay”. IO Shaun took the stand and explained that these were answers that were recorded verbatim. It would not have been proper for the IO to correct or rephrase the accused’s answers even if they were grammatically incorrect. Considering that Seah was more comfortable giving evidence through a Mandarin interpreter, it was not surprising that her answers as taken down verbatim would contain missing words, or incorrect usage of pronouns.
 
@@ -310,7 +311,7 @@ c.     Phyu Phyu Mar also admitted that she did not tell Dr Teo everything 
 
 88     Phyu Phyu Mar’s evidence had been consistent that it was a pink iPhone. Seah however maintained that Phyu Phyu Mar had taken her iPhone 4 and not her pink iPhone to hit herself on her eye and head. I note that Seah was unable to produce the said iPhone 4. The exhibit P3 is in fact a rose gold iPhone 6S Plus – which is larger than the regular iPhone 6S. An iPhone 4 on the other hand is a much smaller phone and shorter in length compared to the iPhone 6S Plus. It seemed unnatural for one to hold an iPhone 4 in such a way as to be able to hit oneself on the face. More importantly, it would not explain why Phyu Phyu hands also suffered bruises unless she had used the phone to hit her own hand which was covering her eye. I preferred Phyu Phyu Mar’s version which was that Seah had inflicted the blows on her using her pink iPhone 6S Plus. This would explain the fact that Phyu Phyu Mar had bruises on her hands as well – because she was shielding her eyes from the impact of the phone.
 
-89     I further note that Seah’s statement to the IO at A16 and A17[\[note: 49\]](#Ftn_49) indicated that she had nothing to say, or was unable to recall such an incident. The only reason why Seah claimed that it was an iPhone 4 was to prevent the IO from confiscating her pink iPhone.
+89     I further note that Seah’s statement to the IO at A16 and A17[^49] indicated that she had nothing to say, or was unable to recall such an incident. The only reason why Seah claimed that it was an iPhone 4 was to prevent the IO from confiscating her pink iPhone.
 
 90     In summary, I was of the view that prosecution had proven their case on each of the charges above beyond reasonable doubt and I found Lim guilty and convicted on one charge, and Seah guilty and convicted on six charges.
 
@@ -353,7 +354,7 @@ e.     Even when the police visited the flat, Phyu Phyu Mar was told to lie
   
   
 
-100    As for MAC-910505-2017 (causing victim to drink water with floor cleaner), this is a charge under section 328 of which the maximum imprisonment term is 10 years. I agreed with prosecution’s submissions and having calibrated it against the precedents cited[\[note: 50\]](#Ftn_50) which ranged from 8 months’ to 4 years’ imprisonment, I imposed a sentence of 18 months’ imprisonment for this charge. Seah’s culpability here was high and an aggravating factor here was that it had taken place right after she had asked the victim to pour boiling water on herself twice. The psychological harm to the victim would be far higher in such an instance and Phyu Phyu Mar did in fact drink the adulterated water because of her fear of Seah.
+100    As for MAC-910505-2017 (causing victim to drink water with floor cleaner), this is a charge under section 328 of which the maximum imprisonment term is 10 years. I agreed with prosecution’s submissions and having calibrated it against the precedents cited[^50] which ranged from 8 months’ to 4 years’ imprisonment, I imposed a sentence of 18 months’ imprisonment for this charge. Seah’s culpability here was high and an aggravating factor here was that it had taken place right after she had asked the victim to pour boiling water on herself twice. The psychological harm to the victim would be far higher in such an instance and Phyu Phyu Mar did in fact drink the adulterated water because of her fear of Seah.
 
 101    To summarise, the sentences I ordered for Seah were as follows:
 
@@ -390,113 +391,113 @@ f.     MAC-906782-2017 - $1000
 
 108    As for the loss of income, in line with _Tay Wee Kiat v PP_, a compensation of 4 months’ salary amounting to $2800 should be paid to Phyu Phyu Mar. However, in this case, given that Lim was convicted of just one charge and had relatively limited contact with Phyu Phyu Mar, it would not be appropriate that he bore the compensation of the loss of income equally with Seah. I therefore ordered that the $2800 be borne solely by Seah rather than be apportioned equally.
 
-109    As for the $200 for cost of airfare sought by prosecution, I agreed with defence counsel’s submission that the security bond of $5000 was meant to cover repatriation, food and accommodation costs. This is also apparent from MOM’s website.[\[note: 51\]](#Ftn_51) As the bond had already been forfeited by MOM, it was not necessary to order a compensation of $200 for airfare.
+109    As for the $200 for cost of airfare sought by prosecution, I agreed with defence counsel’s submission that the security bond of $5000 was meant to cover repatriation, food and accommodation costs. This is also apparent from MOM’s website.[^51] As the bond had already been forfeited by MOM, it was not necessary to order a compensation of $200 for airfare.
 
 110    The total compensation payable by Seah to Phyu Phyu Mar was $11,800 in default six weeks’ imprisonment.
 
 * * *
 
-[\[note: 1\]](#Ftn_1_1)Exhibit P5
+[^1]: Exhibit P5
 
-[\[note: 2\]](#Ftn_2_1)NE Day 4, Page 23-24
+[^2]: NE Day 4, Page 23-24
 
-[\[note: 3\]](#Ftn_3_1)NE Day 4, Page 23:1-4 and Day 5, Page 10 and 12
+[^3]: NE Day 4, Page 23:1-4 and Day 5, Page 10 and 12
 
-[\[note: 4\]](#Ftn_4_1)NE Day 4, Page 23
+[^4]: NE Day 4, Page 23
 
-[\[note: 5\]](#Ftn_5_1)NE Day 4, Page 9-10
+[^5]: NE Day 4, Page 9-10
 
-[\[note: 6\]](#Ftn_6_1)NE Day 4, Page 10:11-17
+[^6]: NE Day 4, Page 10:11-17
 
-[\[note: 7\]](#Ftn_7_1)NE Day 4, Page 13:1-2
+[^7]: NE Day 4, Page 13:1-2
 
-[\[note: 8\]](#Ftn_8_1)NE Day 4, Page 14:24-27 and Day 7 Page 50:23-24
+[^8]: NE Day 4, Page 14:24-27 and Day 7 Page 50:23-24
 
-[\[note: 9\]](#Ftn_9_1)NE Day 4, Page 41-42
+[^9]: NE Day 4, Page 41-42
 
-[\[note: 10\]](#Ftn_10_1)NE Day 7, Page 29:8-30:5
+[^10]: NE Day 7, Page 29:8-30:5
 
-[\[note: 11\]](#Ftn_11_1)NE Day 4, Page 28
+[^11]: NE Day 4, Page 28
 
-[\[note: 12\]](#Ftn_12_1)NE Day 4, Page 30
+[^12]: NE Day 4, Page 30
 
-[\[note: 13\]](#Ftn_13_1)NE Day 4, Page 32:1-6
+[^13]: NE Day 4, Page 32:1-6
 
-[\[note: 14\]](#Ftn_14_1)NE Day 4, Page 32:14-20 and Day 7: Page 12:23-13:10
+[^14]: NE Day 4, Page 32:14-20 and Day 7: Page 12:23-13:10
 
-[\[note: 15\]](#Ftn_15_1)NE Day 4, Page 36
+[^15]: NE Day 4, Page 36
 
-[\[note: 16\]](#Ftn_16_1)NE Day 4, Page 35:11-12 and 38:1-2
+[^16]: NE Day 4, Page 35:11-12 and 38:1-2
 
-[\[note: 17\]](#Ftn_17_1)NE Day 4, Page 38
+[^17]: NE Day 4, Page 38
 
-[\[note: 18\]](#Ftn_18_1)Exhibit P3
+[^18]: Exhibit P3
 
-[\[note: 19\]](#Ftn_19_1)NE Day 4, Page 17
+[^19]: NE Day 4, Page 17
 
-[\[note: 20\]](#Ftn_20_1)NE Day 4, Page 19:5-10
+[^20]: NE Day 4, Page 19:5-10
 
-[\[note: 21\]](#Ftn_21_1)NE Day 4, Page 19-20
+[^21]: NE Day 4, Page 19-20
 
-[\[note: 22\]](#Ftn_22_1)NE Day 4, Page 20:19-21:2
+[^22]: NE Day 4, Page 20:19-21:2
 
-[\[note: 23\]](#Ftn_23_1)NE Day 7, Page 41:2-4
+[^23]: NE Day 7, Page 41:2-4
 
-[\[note: 24\]](#Ftn_24_1)NE Day 4, Page 22:7-8
+[^24]: NE Day 4, Page 22:7-8
 
-[\[note: 25\]](#Ftn_25_1)NE Day 4, Page 49:11-17
+[^25]: NE Day 4, Page 49:11-17
 
-[\[note: 26\]](#Ftn_26_1)NE Day 1, Page 6: 14-16
+[^26]: NE Day 1, Page 6: 14-16
 
-[\[note: 27\]](#Ftn_27_1)NE Day 1, Page 7 to 8
+[^27]: NE Day 1, Page 7 to 8
 
-[\[note: 28\]](#Ftn_28_1)NE Day 1, Page 27:18-19 and Page 34:26-27
+[^28]: NE Day 1, Page 27:18-19 and Page 34:26-27
 
-[\[note: 29\]](#Ftn_29_1)NE Day 1, Page 9:28-10:3
+[^29]: NE Day 1, Page 9:28-10:3
 
-[\[note: 30\]](#Ftn_30_1)NE Day 1, Page 9:3-12
+[^30]: NE Day 1, Page 9:3-12
 
-[\[note: 31\]](#Ftn_31_1)NE Day 1, Page 38:18-32
+[^31]: NE Day 1, Page 38:18-32
 
-[\[note: 32\]](#Ftn_32_1)NE Day 1, Page 47:23:31
+[^32]: NE Day 1, Page 47:23:31
 
-[\[note: 33\]](#Ftn_33_1)NE Day 2, Page 19:2-7
+[^33]: NE Day 2, Page 19:2-7
 
-[\[note: 34\]](#Ftn_34_1)NE Day 2, Page 52
+[^34]: NE Day 2, Page 52
 
-[\[note: 35\]](#Ftn_35_1)Exhibit D1 and NE Day 3, Page 7:20-24
+[^35]: Exhibit D1 and NE Day 3, Page 7:20-24
 
-[\[note: 36\]](#Ftn_36_1)NE Day 3, Page 10:18-19
+[^36]: NE Day 3, Page 10:18-19
 
-[\[note: 37\]](#Ftn_37_1)NE Day 9, Page 24:21-28
+[^37]: NE Day 9, Page 24:21-28
 
-[\[note: 38\]](#Ftn_38_1)NE Day 10, Page 4
+[^38]: NE Day 10, Page 4
 
-[\[note: 39\]](#Ftn_39_1)NE Day 9, Page 9:24-32
+[^39]: NE Day 9, Page 9:24-32
 
-[\[note: 40\]](#Ftn_40_1)NE Day 10, Page 32:19
+[^40]: NE Day 10, Page 32:19
 
-[\[note: 41\]](#Ftn_41_1)NE Day 11, Page 71
+[^41]: NE Day 11, Page 71
 
-[\[note: 42\]](#Ftn_42_1)Exhibit P9
+[^42]: Exhibit P9
 
-[\[note: 43\]](#Ftn_43_1)NE Day 14, Page 3:16-17
+[^43]: NE Day 14, Page 3:16-17
 
-[\[note: 44\]](#Ftn_44_1)NE Day 13, Page 57:2
+[^44]: NE Day 13, Page 57:2
 
-[\[note: 45\]](#Ftn_45_1)NE Day 13, Page 56:29-31
+[^45]: NE Day 13, Page 56:29-31
 
-[\[note: 46\]](#Ftn_46_1)NE Day 13, Page 56:24-28
+[^46]: NE Day 13, Page 56:24-28
 
-[\[note: 47\]](#Ftn_47_1)Exhibit P9
+[^47]: Exhibit P9
 
-[\[note: 48\]](#Ftn_48_1)Exhibit P10, Answer 29
+[^48]: Exhibit P10, Answer 29
 
-[\[note: 49\]](#Ftn_49_1)Exhibit P10
+[^49]: Exhibit P10
 
-[\[note: 50\]](#Ftn_50_1)See prosecution’s sentencing submissions, Page 11
+[^50]: See prosecution’s sentencing submissions, Page 11
 
-[\[note: 51\]](#Ftn_51_1)https://www.mom.gov.sg/newsroom/press-replies/2011/truth-about-security-bonds: “The forfeited security bond is used to cover repatriation and other related costs once the worker is found, so that it does not exact a cost on taxpayers in Singapore. This includes the cost of providing food and temporary accommodation, as well as arranging for her repatriation to her home country.”
+[^51]: https://www.mom.gov.sg/newsroom/press-replies/2011/truth-about-security-bonds: “The forfeited security bond is used to cover repatriation and other related costs once the worker is found, so that it does not exact a cost on taxpayers in Singapore. This includes the cost of providing food and temporary accommodation, as well as arranging for her repatriation to her home country.”
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F22988-SSP.xml)

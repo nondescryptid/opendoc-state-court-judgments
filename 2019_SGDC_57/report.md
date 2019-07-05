@@ -1,3 +1,4 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
 # Public Prosecutor _v_ Parti Liyani  
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">DAC 901530-2017 &amp; Ors</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">29 March 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Olivia Low</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">DPPs Tan Yanying and Tan Wee Hao for the Prosecution; Mr Anil Balchandani (Red Lion Circle Advocates &amp; Solicitors) for the Accused</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Parti Liyani</td></tr></tbody></table>
@@ -29,21 +30,21 @@
 
 5       The four victims are Mr Liew Mun Leong (“Mr Liew”), his daughter Liew Cheng May (“May”), his son Karl Liew (“Karl”), and Karl’s wife Heather Lim (“Heather”). Mr Liew, his wife Mdm Ng Lai Peng (“Mdm Ng”), Karl, Heather and their children also lived in the house. Karl and his family moved out of the house in March 2016.
 
-6       The accused was not badly treated and admitted that she had a cordial relationship with the Liew family and they often gave her generous red packets on special and festive occasions.[\[note: 1\]](#Ftn_1) Her starting monthly salary was initially $300 but by the end of her employment in 2016, her monthly salary was $600.[\[note: 2\]](#Ftn_2) It is not in dispute that she had arguments with Karl in the past over her refusal to do household chores for him.[\[note: 3\]](#Ftn_3)
+6       The accused was not badly treated and admitted that she had a cordial relationship with the Liew family and they often gave her generous red packets on special and festive occasions.[^1] Her starting monthly salary was initially $300 but by the end of her employment in 2016, her monthly salary was $600.[^2] It is not in dispute that she had arguments with Karl in the past over her refusal to do household chores for him.[^3]
 
 ## Events of 28 October 2016
 
-7       In October 2016, Mr Liew decided to terminate the accused’s employment.[\[note: 4\]](#Ftn_4) He had discovered that items had gone missing in the household over the years and suspected that the accused had stolen the items. These included Longchamp bags, shoes and a specially designed power bank, although the shoes and power bank were not the subject matter of the charges as they were never recovered. As Mr Liew was overseas, he instructed Karl to oversee the accused’s termination and repatriation to Indonesia.
+7       In October 2016, Mr Liew decided to terminate the accused’s employment.[^4] He had discovered that items had gone missing in the household over the years and suspected that the accused had stolen the items. These included Longchamp bags, shoes and a specially designed power bank, although the shoes and power bank were not the subject matter of the charges as they were never recovered. As Mr Liew was overseas, he instructed Karl to oversee the accused’s termination and repatriation to Indonesia.
 
-8       Karl arranged for representatives from the employment agency to be present on the day of repatriation, 28 October 2016. On the morning of 28 October 2016, Karl informed the accused that her employment was terminated without giving her reasons and she was given two to three hours to pack her belongings. Two to three months’ salary was also given to the accused as compensation for her termination. The accused demanded to know the reason for her termination and got upset with Karl even to the extent of accusing him of being a very bad person and that God (Allah) would punish him.[\[note: 5\]](#Ftn_5)
+8       Karl arranged for representatives from the employment agency to be present on the day of repatriation, 28 October 2016. On the morning of 28 October 2016, Karl informed the accused that her employment was terminated without giving her reasons and she was given two to three hours to pack her belongings. Two to three months’ salary was also given to the accused as compensation for her termination. The accused demanded to know the reason for her termination and got upset with Karl even to the extent of accusing him of being a very bad person and that God (Allah) would punish him.[^5]
 
-9       Karl went out and came back a few hours later where the accused demanded that he pay for three jumbo boxes of items to be shipped to her home.[\[note: 6\]](#Ftn_6) These were boxes that one of the drivers Ismail had been sent to purchase. Karl refused initially but the employment agency representatives then stepped in to advise that the matter be resolved amicably and that Karl could offer to pay for the three boxes which he agreed to.
+9       Karl went out and came back a few hours later where the accused demanded that he pay for three jumbo boxes of items to be shipped to her home.[^6] These were boxes that one of the drivers Ismail had been sent to purchase. Karl refused initially but the employment agency representatives then stepped in to advise that the matter be resolved amicably and that Karl could offer to pay for the three boxes which he agreed to.
 
 10     The two drivers, Robin and Ismail had helped the accused with the packing of her items. The accused threw items she wanted to pack into the boxes on the floor and Robin and Ismail would help place the items into the jumbo boxes. The accused sealed the first box securely and wrote her shipping address on the box. For the other two boxes, Robin and Ismail helped tape up the box in the accused’s presence as the accused had no time because the agency representatives had returned to fetch her by then. The accused then left the house with the agency representatives and returned to Indonesia.
 
 ## Events post-28 October 2016
 
-11     Mdm Ng mentioned to Karl that she saw one of Mr Liew’s Japanese brand thermal wear still unopened in its packaging when the accused was packing her items.[\[note: 7\]](#Ftn_7) Mdm Ng asked the accused if the item belonged to Mr Liew but was told that it had been purchased from a second-hand shop and Mdm Ng did not pursue it further with the accused.
+11     Mdm Ng mentioned to Karl that she saw one of Mr Liew’s Japanese brand thermal wear still unopened in its packaging when the accused was packing her items.[^7] Mdm Ng asked the accused if the item belonged to Mr Liew but was told that it had been purchased from a second-hand shop and Mdm Ng did not pursue it further with the accused.
 
 12     Heather voiced her concern to Karl that it was not prudent for the boxes to be shipped back to the accused without being aware of the contents as they would have to declare the contents of what was being shipped. They went over to the house the next day on 29 October 2016 to check on the contents of the boxes. When the boxes were opened, they discovered many items belonging to them and a video was recorded of the items they had taken out.
 
@@ -91,7 +92,7 @@ d.     Remaining items were not packed by her in the boxes.
 
 20     Teo Eng Lian from Jarmay Enterprises was also called as a defence witness to give evidence on a black knife, one of the item in the assortment of the kitchenware and utensils and I found her answers to be candid and forthright.
 
-21     In respect of the accused, Prosecution proceeded to impeach her credibility based on the inconsistencies in her statements and I found material inconsistencies between her evidence in court and her statements. She had various versions when giving evidence on various items such as the Pioneer DVD player, the Vacheron Constantin watch, white Swatch watch or and purple Prada bag depending on whether it was in her statement, examination-in-chief or cross-examination.[\[note: 8\]](#Ftn_8)
+21     In respect of the accused, Prosecution proceeded to impeach her credibility based on the inconsistencies in her statements and I found material inconsistencies between her evidence in court and her statements. She had various versions when giving evidence on various items such as the Pioneer DVD player, the Vacheron Constantin watch, white Swatch watch or and purple Prada bag depending on whether it was in her statement, examination-in-chief or cross-examination.[^8]
 
 ## My findings in respect of the proceeded charges
 
@@ -99,13 +100,13 @@ d.     Remaining items were not packed by her in the boxes.
 
 #### P19 - Pioneer DVD Player
 
-22     Mr Liew testified that this was purchased during the renovation of the house and it was placed in Karl’s room and it had never been given away.[\[note: 9\]](#Ftn_9) Mdm Ng also confirmed that she had never given the DVD player to the accused and that it did not break down.[\[note: 10\]](#Ftn_10) This is in contrast to the accused’s evidence that Mdm Ng wanted to throw the player away and the accused told her she wanted to take it back to Indonesia to repair. The defence further accused prosecution of using a “sleight-of-hand” technique to demonstrate in court that the DVD player was working.
+22     Mr Liew testified that this was purchased during the renovation of the house and it was placed in Karl’s room and it had never been given away.[^9] Mdm Ng also confirmed that she had never given the DVD player to the accused and that it did not break down.[^10] This is in contrast to the accused’s evidence that Mdm Ng wanted to throw the player away and the accused told her she wanted to take it back to Indonesia to repair. The defence further accused prosecution of using a “sleight-of-hand” technique to demonstrate in court that the DVD player was working.
 
-23     The defence counsel attempt to introduce evidence from bar by persisting in giving a lengthy explanation of how the DVD player could not be played. Such evidence should have at the very least been elicited from the accused herself in examination-in-chief or re-examination if the accused wanted to clarify or retract her concession that the DVD player was working. Alternatively, the accused could have introduced the same through an expert, as was done in the case of the Gerald Genta watch. In any event, the crux of the issue was whether the DVD player had been taken without permission and I was of the view that it had been, because the accused admitted the same in her statement[\[note: 11\]](#Ftn_11).
+23     The defence counsel attempt to introduce evidence from bar by persisting in giving a lengthy explanation of how the DVD player could not be played. Such evidence should have at the very least been elicited from the accused herself in examination-in-chief or re-examination if the accused wanted to clarify or retract her concession that the DVD player was working. Alternatively, the accused could have introduced the same through an expert, as was done in the case of the Gerald Genta watch. In any event, the crux of the issue was whether the DVD player had been taken without permission and I was of the view that it had been, because the accused admitted the same in her statement[^11].
 
 #### P2 & P3 – Brown and Blue Longchamp bag
 
-24     Mr Liew testified that he purchased several foldable Longchamp bags from overseas for travel and would not discard them as they were durable. He found that a number of these bags went missing.[\[note: 12\]](#Ftn_12) The accused’s version is that these Longchamp bags were found by her in an abandoned suitcase[\[note: 13\]](#Ftn_13), or large black suitcase, or big bag[\[note: 14\]](#Ftn_14) outside one of the houses at Chancery Lane five or six years ago. Whilst a Longchamp bag is a common bag that is available in Singapore, I did not accept that the accused was able to chance across two Longchamp bags of the same style as that used by Mr Liew that had been discarded by his neighbours. I preferred the evidence of Mr Liew in this regard.
+24     Mr Liew testified that he purchased several foldable Longchamp bags from overseas for travel and would not discard them as they were durable. He found that a number of these bags went missing.[^12] The accused’s version is that these Longchamp bags were found by her in an abandoned suitcase[^13], or large black suitcase, or big bag[^14] outside one of the houses at Chancery Lane five or six years ago. Whilst a Longchamp bag is a common bag that is available in Singapore, I did not accept that the accused was able to chance across two Longchamp bags of the same style as that used by Mr Liew that had been discarded by his neighbours. I preferred the evidence of Mr Liew in this regard.
 
 ## Items in the possession of Karl Liew
 
@@ -129,11 +130,11 @@ d.     Item 101/120 in P1A-10 – black dress
 
 #### Two black wallets
 
-28     Of the two black wallets listed in the charge, one Gucci[\[note: 15\]](#Ftn_15) and one Braun Buffel wallet[\[note: 16\]](#Ftn_16), I found that Karl was not able to recall much about the items apart from saying that all his wallets were gifts from his family.[\[note: 17\]](#Ftn_17) There was no evidence that Karl had used these wallets either as he was unfamiliar with the wallets or the condition that they were in.
+28     Of the two black wallets listed in the charge, one Gucci[^15] and one Braun Buffel wallet[^16], I found that Karl was not able to recall much about the items apart from saying that all his wallets were gifts from his family.[^17] There was no evidence that Karl had used these wallets either as he was unfamiliar with the wallets or the condition that they were in.
 
-29     The accused’s evidence is that her friend Diah had given her these two second-hand wallets and the accused pointed out the wear and tear on the wallets. I note that the accused in her statement to the police only mentioned that the Braun Buffel wallet had been given to her by Diah[\[note: 18\]](#Ftn_18). The accused was unable to specify how she came into possession of the Gucci wallet. It was only in examination in chief that the accused claimed that the Gucci wallet was also gifted to her by Diah.[\[note: 19\]](#Ftn_19) Having considered the evidence, there is some doubt raised whether these two wallets belonged to Karl. This is because none of the Liew family members who testified had recognised gifting Karl these wallets. More importantly, the style of these wallets did not appear to be men’s wallets and therefore I found that it was likely that Karl was mistaken about these two wallets having been gifted to him. I therefore amended the charge to remove the description of the two wallet items.
+29     The accused’s evidence is that her friend Diah had given her these two second-hand wallets and the accused pointed out the wear and tear on the wallets. I note that the accused in her statement to the police only mentioned that the Braun Buffel wallet had been given to her by Diah[^18]. The accused was unable to specify how she came into possession of the Gucci wallet. It was only in examination in chief that the accused claimed that the Gucci wallet was also gifted to her by Diah.[^19] Having considered the evidence, there is some doubt raised whether these two wallets belonged to Karl. This is because none of the Liew family members who testified had recognised gifting Karl these wallets. More importantly, the style of these wallets did not appear to be men’s wallets and therefore I found that it was likely that Karl was mistaken about these two wallets having been gifted to him. I therefore amended the charge to remove the description of the two wallet items.
 
-30     The value of the Gerald Genta watch was overestimated at $25,000 in the charge. Prosecution has invited the court to amend the value to $10,000.[\[note: 20\]](#Ftn_20) I agreed that the evidence showed the value of the watch to be closer to $10,000 and I therefore amended the value of the Gerald Genta watch to $10,000.
+30     The value of the Gerald Genta watch was overestimated at $25,000 in the charge. Prosecution has invited the court to amend the value to $10,000.[^20] I agreed that the evidence showed the value of the watch to be closer to $10,000 and I therefore amended the value of the Gerald Genta watch to $10,000.
 
 31     The amended charge below was read to the accused and her plea was taken:
 
@@ -157,7 +158,7 @@ _You, are charged that you, on 28 October 2016 at about 1 pm, at 49 Chancery Lan
 
 _with a total value of S$30,606, in the possession of one Liew Kai Lung Karl, and you have thereby committed an offence punishable under s 380 of the Penal Code (Cap 224, Rev Ed 2008)._
 
-32     The accused maintained her plea of not guilty. Prosecution did not apply to recall any witnesses. Counsel for the defence applied to recall five witnesses with reference to the altered charge. The five witnesses they wished to recall were: Karl, the investigation officer Tang Ru Long, the photographer, the accused, and the maker of a statement.[\[note: 21\]](#Ftn_21) Counsel wanted to “refocus the defence” and “go through in excruciating detail” all the remaining items of clothing as well as “establish a new form that the Defence will have to take”.[\[note: 22\]](#Ftn_22)
+32     The accused maintained her plea of not guilty. Prosecution did not apply to recall any witnesses. Counsel for the defence applied to recall five witnesses with reference to the altered charge. The five witnesses they wished to recall were: Karl, the investigation officer Tang Ru Long, the photographer, the accused, and the maker of a statement.[^21] Counsel wanted to “refocus the defence” and “go through in excruciating detail” all the remaining items of clothing as well as “establish a new form that the Defence will have to take”.[^22]
 
 33     I did not accede to defence counsel’s application to recall the witnesses as I was of the view that this was merely an attempt to further delay the trial or to frustrate justice. I emphasise that the amendment of the charge was merely to _remove_ the reference to 5 items of clothing and two wallets that the accused was alleged to have stolen from Karl. The value of the items was also amended to bring the total value down to just $30,606.
 
@@ -165,21 +166,21 @@ _with a total value of S$30,606, in the possession of one Liew Kai Lung Karl, an
 
 #### P24 – 115 items of clothing
 
-35     With respect to the clothing, a number of these were shirts that Mr Liew had passed to Karl. Karl confirmed that he had never given the accused any clothes. Mdm Ng only gave the accused clothes that were hers, and not anyone else’s.[\[note: 23\]](#Ftn_23) Heather had also identified two items as belonging to her which were kept in their wardrobe.[\[note: 24\]](#Ftn_24)
+35     With respect to the clothing, a number of these were shirts that Mr Liew had passed to Karl. Karl confirmed that he had never given the accused any clothes. Mdm Ng only gave the accused clothes that were hers, and not anyone else’s.[^23] Heather had also identified two items as belonging to her which were kept in their wardrobe.[^24]
 
 36     The accused claimed that some of the shirts had been given by May’s husband, Robin and Mdm Ng whilst the other clothing were purchased by her. She also denied that she had wanted to pack Karl’s clothes into the boxes, saying that these had been packed into the boxes by Robin and Ismail.
 
-37     Without delving into the details of each and every item of clothing, I note that Robin and Mdm Ng denied giving the accused clothes. In fact, Robin denied even owning the shirt the accused alleged he had given her.[\[note: 25\]](#Ftn_25) The accused admitted that she had taken 10 to 15 men’s clothing in her statement[\[note: 26\]](#Ftn_26) without permission though she claimed in court subsequently that prior permission had been given.
+37     Without delving into the details of each and every item of clothing, I note that Robin and Mdm Ng denied giving the accused clothes. In fact, Robin denied even owning the shirt the accused alleged he had given her.[^25] The accused admitted that she had taken 10 to 15 men’s clothing in her statement[^26] without permission though she claimed in court subsequently that prior permission had been given.
 
-38     As for the allegation that Karl’s clothes had been packed into the box by Robin and Ismail, this did not gel with the accused’s explanation in her statement[\[note: 27\]](#Ftn_27) where she said that _after_ the luggage and three boxes had been sealed and whilst waiting for the agent to arrive, she brought out the clothes that Karl had given to his previous maid, and Karl had started to try on two items of clothes before her agent arrived. If the boxes had already been sealed, and she had brought the clothes out to return to Karl, then I see no reason how those clothes could have been ended up inside the sealed boxes.
+38     As for the allegation that Karl’s clothes had been packed into the box by Robin and Ismail, this did not gel with the accused’s explanation in her statement[^27] where she said that _after_ the luggage and three boxes had been sealed and whilst waiting for the agent to arrive, she brought out the clothes that Karl had given to his previous maid, and Karl had started to try on two items of clothes before her agent arrived. If the boxes had already been sealed, and she had brought the clothes out to return to Karl, then I see no reason how those clothes could have been ended up inside the sealed boxes.
 
 39     Furthermore, whilst it may be possible to accuse Robin or Ismail of inadvertently putting in a few shirts into the boxes, the sheer quantity of the shirts found in the boxes makes the accused’s version doubtful. 115 items of clothing take up considerable space in the jumbo boxes. If these shirts had been inadvertently packed in, the accused would not have had sufficient space for her other items. Conversely, the fact that all her items could fit into the boxes meant that the accused had provisioned for the space needed for these shirts when requesting for the three jumbo boxes to be purchased.
 
 #### P22, P23 – Blanket and three bedsheets
 
-40     Karl gave clear evidence that he had bought the item at P22 which is a duvet cover from the UK costing $500 which was a “big thing” for a student in the UK but which he justified on the basis that he would be there for three years. He also bought the bedcover at P1-11 from Habitat and remembered the design as it was his favourite.[\[note: 28\]](#Ftn_28)
+40     Karl gave clear evidence that he had bought the item at P22 which is a duvet cover from the UK costing $500 which was a “big thing” for a student in the UK but which he justified on the basis that he would be there for three years. He also bought the bedcover at P1-11 from Habitat and remembered the design as it was his favourite.[^28]
 
-41     The accused relies on the label of the bedcover at P1-11 to say she purchased it from Ikea for $49 whilst the duvet cover was given by May. She also claimed that May had given her the brown blanket and blue bedsheet. In contrast, not only did May deny giving the items in P1-11 and P1-12, she was clear that she had not even seen these before.[\[note: 29\]](#Ftn_29) Whether Karl had bought the bed cover from Habitat or elsewhere, I found no reason to doubt that he had purchased it from the UK. On the other hand, the accused’s version that May had given the items to her was directly contradicted by May herself.
+41     The accused relies on the label of the bedcover at P1-11 to say she purchased it from Ikea for $49 whilst the duvet cover was given by May. She also claimed that May had given her the brown blanket and blue bedsheet. In contrast, not only did May deny giving the items in P1-11 and P1-12, she was clear that she had not even seen these before.[^29] Whether Karl had bought the bed cover from Habitat or elsewhere, I found no reason to doubt that he had purchased it from the UK. On the other hand, the accused’s version that May had given the items to her was directly contradicted by May herself.
 
 #### P20 – Philips DVD player
 
@@ -239,7 +240,7 @@ _with a total value of S$30,606, in the possession of one Liew Kai Lung Karl, an
 
 #### P10 – One black Gucci sunglass with red stains
 
-58     Heather testified that she bought the bag more than 10 years ago and used it for stayovers or as a gym bag. She did not discard the bag because it was a Prada and was working well.[\[note: 30\]](#Ftn_30) As for the sunglass, she was able to explain how it became stained because she had put it into her bag without putting the glasses in a protective case. She also did not discard the glasses.
+58     Heather testified that she bought the bag more than 10 years ago and used it for stayovers or as a gym bag. She did not discard the bag because it was a Prada and was working well.[^30] As for the sunglass, she was able to explain how it became stained because she had put it into her bag without putting the glasses in a protective case. She also did not discard the glasses.
 
 59     The accused’s version is that these two items were found in the rubbish bag within the house or outside the house. I accepted Heather’s version that these items were never discarded. Instead, it is telling that the accused conveniently relied on the fact that Karl and Heather were in the midst of moving out (whether for renovations or to their own place), to claim that no less than six of these items had been discarded by them and she had taken them thinking that Karl and Heather had relinquished ownership of them.
 
@@ -249,7 +250,7 @@ _with a total value of S$30,606, in the possession of one Liew Kai Lung Karl, an
 
 ## Sentencing
 
-62     In respect of the remaining charge which was stood down at the start of trial, prosecution had offered for the remaining charge to be taken into consideration in sentencing, however the accused did not consent to the same as she maintained her innocence.[\[note: 31\]](#Ftn_31)
+62     In respect of the remaining charge which was stood down at the start of trial, prosecution had offered for the remaining charge to be taken into consideration in sentencing, however the accused did not consent to the same as she maintained her innocence.[^31]
 
 63     This offence of theft as a servant under section 381 of the Penal Code and theft in dwelling under section 380 are both punishable with imprisonment of up to 7 years and a fine may be imposed in addition to the term of imprisonment.
 
@@ -302,67 +303,67 @@ d.     the accused also attended a civil hearing where Karl, a victim, was 
 
 * * *
 
-[\[note: 1\]](#Ftn_1_1)NE Day 13, Page 63
+[^1]: NE Day 13, Page 63
 
-[\[note: 2\]](#Ftn_2_1)NE Day 10, Page 38:23-39:4
+[^2]: NE Day 10, Page 38:23-39:4
 
-[\[note: 3\]](#Ftn_3_1)NE Day 13, Page 63 :25-65 :14
+[^3]: NE Day 13, Page 63 :25-65 :14
 
-[\[note: 4\]](#Ftn_4_1)NE Day 9, Page 4:28-29
+[^4]: NE Day 9, Page 4:28-29
 
-[\[note: 5\]](#Ftn_5_1)NE Day 2, Page 47
+[^5]: NE Day 2, Page 47
 
-[\[note: 6\]](#Ftn_6_1)NE Day 2, Page 48:2-6
+[^6]: NE Day 2, Page 48:2-6
 
-[\[note: 7\]](#Ftn_7_1)NE Day 2, Page 62:21-23
+[^7]: NE Day 2, Page 62:21-23
 
-[\[note: 8\]](#Ftn_8_1)Prosecution’s Closing Submissions at Annex B
+[^8]: Prosecution’s Closing Submissions at Annex B
 
-[\[note: 9\]](#Ftn_9_1)NE Day 9, Page 12:11-14:13
+[^9]: NE Day 9, Page 12:11-14:13
 
-[\[note: 10\]](#Ftn_10_1)NE Day 10, Page 5:13-20
+[^10]: NE Day 10, Page 5:13-20
 
-[\[note: 11\]](#Ftn_11_1)P33 at Q18
+[^11]: P33 at Q18
 
-[\[note: 12\]](#Ftn_12_1)NE Day 9, Page 14:14-18:14
+[^12]: NE Day 9, Page 14:14-18:14
 
-[\[note: 13\]](#Ftn_13_1)P31 at Q41
+[^13]: P31 at Q41
 
-[\[note: 14\]](#Ftn_14_1)NE Day 12, Page 51:6-18
+[^14]: NE Day 12, Page 51:6-18
 
-[\[note: 15\]](#Ftn_15_1)P4
+[^15]: P4
 
-[\[note: 16\]](#Ftn_16_1)P5
+[^16]: P5
 
-[\[note: 17\]](#Ftn_17_1)NE Day 2, Page 75:31-76:6 and Page 106:2-32
+[^17]: NE Day 2, Page 75:31-76:6 and Page 106:2-32
 
-[\[note: 18\]](#Ftn_18_1)P31 at Q49
+[^18]: P31 at Q49
 
-[\[note: 19\]](#Ftn_19_1)NE Day 12, Page 52
+[^19]: NE Day 12, Page 52
 
-[\[note: 20\]](#Ftn_20_1)Prosecution’s Closing Submissions, Para 72-74
+[^20]: Prosecution’s Closing Submissions, Para 72-74
 
-[\[note: 21\]](#Ftn_21_1)NE Day 21, Page 7:26-28:2
+[^21]: NE Day 21, Page 7:26-28:2
 
-[\[note: 22\]](#Ftn_22_1)NE Day 21, Page 10
+[^22]: NE Day 21, Page 10
 
-[\[note: 23\]](#Ftn_23_1)NE Day 10, Page 8:10-15
+[^23]: NE Day 10, Page 8:10-15
 
-[\[note: 24\]](#Ftn_24_1)NE Day 6, Page 36:28-37:10
+[^24]: NE Day 6, Page 36:28-37:10
 
-[\[note: 25\]](#Ftn_25_1)NE Day 7, Page 59
+[^25]: NE Day 7, Page 59
 
-[\[note: 26\]](#Ftn_26_1)P33 at Q27
+[^26]: P33 at Q27
 
-[\[note: 27\]](#Ftn_27_1)P33 at Q95
+[^27]: P33 at Q95
 
-[\[note: 28\]](#Ftn_28_1)NE Day 2, Page 74:12-32 and Page 102:25-104:27
+[^28]: NE Day 2, Page 74:12-32 and Page 102:25-104:27
 
-[\[note: 29\]](#Ftn_29_1)NE Day 7, Page 25:1-23
+[^29]: NE Day 7, Page 25:1-23
 
-[\[note: 30\]](#Ftn_30_1)NE Day 6, Page 40:20-41:31
+[^30]: NE Day 6, Page 40:20-41:31
 
-[\[note: 31\]](#Ftn_31_1)Mitigation plea, Paragraph 2
+[^31]: Mitigation plea, Paragraph 2
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F23002-SSP.xml)

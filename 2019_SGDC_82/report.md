@@ -1,3 +1,4 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
 # A\*Glasstech Pte. Ltd. _v_ Full-Glass Pte Ltd  
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">District Court Suit No. 3749 of 2017, RA 95 of 2018, RA 96 of 2018, RA 97 of 2018</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">30 April 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Chiah Kok Khun</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Ms Doris Chia Ming Lai and Mr Amos Wee Choong Wei (DC Law LLC) for the Plaintiff.; Mr Derek Kang Yu Hsien (Cairnhill Law LLC) for the Defendant.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">A*Glasstech Pte. Ltd. — Full-Glass Pte Ltd</td></tr></tbody></table>
@@ -16,21 +17,21 @@ Civil Procedure – summary judgment
 
 1       This trio of Registrar’s Appeals (“**RAs**”) before me concern two applications that the Plaintiff had taken out in the Suit herein; and one taken out by the Defendant. The two applications filed by the Plaintiff were:
 
-a.     An application to strike out the whole of the Defendant’s counterclaim, i.e. \[6\] to \[15\] of the Defence and Counterclaim (Amendment No. 1) filed on 7 February 2018.[\[note: 1\]](#Ftn_1)
+a.     An application to strike out the whole of the Defendant’s counterclaim, i.e. \[6\] to \[15\] of the Defence and Counterclaim (Amendment No. 1) filed on 7 February 2018.[^1]
 
-b.     An application for summary judgment to be entered on the Plaintiff’s claim of $230,329.41 (“**the claim**”);[\[note: 2\]](#Ftn_2)
+b.     An application for summary judgment to be entered on the Plaintiff’s claim of $230,329.41 (“**the claim**”);[^2]
 
-2       The application[\[note: 3\]](#Ftn_3) taken out by the Defendant was to consolidate the Suit herein (“**the DC Suit**”) with Suit No. MC 21545/2017 (“**the MC Suit**”).
+2       The application[^3] taken out by the Defendant was to consolidate the Suit herein (“**the DC Suit**”) with Suit No. MC 21545/2017 (“**the MC Suit**”).
 
-3       In respect of these applications, the learned Deputy Registrar (“**DR**”) struck out the counterclaim, allowed the summary judgment in the sum of $230,329.41, made no order on the consolidation application and ordered costs in favour of the Plaintiff.[\[note: 4\]](#Ftn_4) The Defendant appealed against all of the DR’s decisions.
+3       In respect of these applications, the learned Deputy Registrar (“**DR**”) struck out the counterclaim, allowed the summary judgment in the sum of $230,329.41, made no order on the consolidation application and ordered costs in favour of the Plaintiff.[^4] The Defendant appealed against all of the DR’s decisions.
 
-4       The Plaintiff is in the business of glass supply and glass processing services. The Defendant is in the business of supply and installation of materials in construction and development projects[\[note: 5\]](#Ftn_5). The DC Suit is an action by the Plaintiff against the Defendant for 383 unpaid invoices for the supply of glass and provision of glass processing services (such as glass laminating, tempering and heat strengthening) by the Plaintiff to the Defendant. These unpaid invoices concerned about 170 projects of the Defendant and added up to a total sum of $230,329.41. Other than this action in the DC Suit, the Plaintiff has a separate action against the Defendant in the MC Suit in respect of 14 unpaid invoices for glass lamination and other services amounting to $12,381.13 for a project known as the Jurong Gateway project.[\[note: 6\]](#Ftn_6) It is not disputed that none of the invoices claimed in the DC Suit relates to the invoices claimed in the MC Suit.[\[note: 7\]](#Ftn_7)
+4       The Plaintiff is in the business of glass supply and glass processing services. The Defendant is in the business of supply and installation of materials in construction and development projects[^5]. The DC Suit is an action by the Plaintiff against the Defendant for 383 unpaid invoices for the supply of glass and provision of glass processing services (such as glass laminating, tempering and heat strengthening) by the Plaintiff to the Defendant. These unpaid invoices concerned about 170 projects of the Defendant and added up to a total sum of $230,329.41. Other than this action in the DC Suit, the Plaintiff has a separate action against the Defendant in the MC Suit in respect of 14 unpaid invoices for glass lamination and other services amounting to $12,381.13 for a project known as the Jurong Gateway project.[^6] It is not disputed that none of the invoices claimed in the DC Suit relates to the invoices claimed in the MC Suit.[^7]
 
-5       On 7 February 2018, the Defendant amended its Defences in both the DC Suit and MC Suit and added a counterclaim to each action (“**the counterclaims**”). It is not disputed that the counterclaims are identical.[\[note: 8\]](#Ftn_8) The Defendant also admits that the contents of these identical counterclaims relate solely to the Jurong Gateway (“**J Gateway**”) project.[\[note: 9\]](#Ftn_9)
+5       On 7 February 2018, the Defendant amended its Defences in both the DC Suit and MC Suit and added a counterclaim to each action (“**the counterclaims**”). It is not disputed that the counterclaims are identical.[^8] The Defendant also admits that the contents of these identical counterclaims relate solely to the Jurong Gateway (“**J Gateway**”) project.[^9]
 
-6       At this juncture, it would be useful to set out some background to the commercial dealings between the parties leading to the current litigation. The Plaintiff and the Defendant had a business relationship which started sometime in 2008. It appears undisputed that throughout their years of dealings, the Defendant would place orders for glass and/or glass processing services with the Plaintiff and the Plaintiff would issue invoices after each order was delivered. The Plaintiff would not request for payment on these invoices immediately but would accumulate several invoices and request for payment from the Defendant in a consolidated Statement of Account, as a lump sum payment.[\[note: 10\]](#Ftn_10)
+6       At this juncture, it would be useful to set out some background to the commercial dealings between the parties leading to the current litigation. The Plaintiff and the Defendant had a business relationship which started sometime in 2008. It appears undisputed that throughout their years of dealings, the Defendant would place orders for glass and/or glass processing services with the Plaintiff and the Plaintiff would issue invoices after each order was delivered. The Plaintiff would not request for payment on these invoices immediately but would accumulate several invoices and request for payment from the Defendant in a consolidated Statement of Account, as a lump sum payment.[^10]
 
-7       According to the Defendant, these Statements of Account would not differentiate between J Gateway and non-J Gateway projects, or any projects for that matter.[\[note: 11\]](#Ftn_11) Similarly, lump sum payments made by the Defendant to the Plaintiff would also not distinguish between whether the payments were for particular projects. It would appear that on occasions, where there were either over-payment or under-payment by the Defendant to the Plaintiff, the Plaintiff would carry these amounts over to the next Statement of Account, and apply the same to another outstanding invoice which would then be reflected as credit sales under a subsequent consolidated Statement of Account.
+7       According to the Defendant, these Statements of Account would not differentiate between J Gateway and non-J Gateway projects, or any projects for that matter.[^11] Similarly, lump sum payments made by the Defendant to the Plaintiff would also not distinguish between whether the payments were for particular projects. It would appear that on occasions, where there were either over-payment or under-payment by the Defendant to the Plaintiff, the Plaintiff would carry these amounts over to the next Statement of Account, and apply the same to another outstanding invoice which would then be reflected as credit sales under a subsequent consolidated Statement of Account.
 
 8       On 21 December 2017, the Plaintiff filed Writs of Summons for both the DC Suit and the MC Suit. The Defendant’s contention is that the Plaintiff sought to differentiate the invoices in the Statement of Account into: (i) J Gateway invoices (i.e. the subject matter of the MC Suit); and (ii) non-J Gateway invoices (i.e. the subject matter of the DC Suit), when at all material times prior, the Plaintiff had treated all invoices (for any and all projects) as part of one consolidated course of dealing, and payment sought collectively through a single Statement of Account.
 
@@ -38,17 +39,17 @@ b.     An application for summary judgment to be entered on the Plaintiff�
 
 9       This leads to a preliminary matter in the RAs that I will deal with here. The Defendant contends that the order in which the DR decided to hear the three applications prejudiced the outcome of the applications against the Defendant.
 
-10     The Defendant points out that the DR had noted preliminarily that “_it was fairer and more sensible to hear arguments on all three applications before making my orders”.[\[note: 12\]](#Ftn_12)_The Defendant says that subsequently however, in his decision, the DR had:
+10     The Defendant points out that the DR had noted preliminarily that “_it was fairer and more sensible to hear arguments on all three applications before making my orders”.[^12]_The Defendant says that subsequently however, in his decision, the DR had:
 
-a.     First struck out the Defendant’s counterclaim in the DC Suit (the subject matter of RA97);[\[note: 13\]](#Ftn_13)
+a.     First struck out the Defendant’s counterclaim in the DC Suit (the subject matter of RA97);[^13]
 
-b.     Then, considered the Plaintiff’s application for summary judgment before the Defendant’s consolidation application and took the view that only if summary judgment were denied would he go on to consider the Defendant’s consolidation application (the subject matter of RA96);[\[note: 14\]](#Ftn_14)
+b.     Then, considered the Plaintiff’s application for summary judgment before the Defendant’s consolidation application and took the view that only if summary judgment were denied would he go on to consider the Defendant’s consolidation application (the subject matter of RA96);[^14]
 
-c.     Finally, allowed summary judgment to be entered against the Defendant in the DC Suit and completely left the Defendant’s consolidation application unconsidered (the subject matter of RA95).[\[note: 15\]](#Ftn_15)
+c.     Finally, allowed summary judgment to be entered against the Defendant in the DC Suit and completely left the Defendant’s consolidation application unconsidered (the subject matter of RA95).[^15]
 
-11     The Defendant says that in deciding right at the outset to strike out the Defendant’s counterclaim, he placed the Defendant at a disadvantage when the court eventually had to consider the summary judgment application because the Defendant would be, at that point, devoid of a defence of set-off (because the counterclaim in the DC Suit had been struck out). The Defendant complains that the approach taken by the DR rendered the Defendant’s consolidation application nugatory, effectively deciding against the Defendant without even considering the merits of the Defendant’s consolidation application. The Defendant contends that the prejudice suffered by the Defendant pursuant to the approach taken by the DR is significantly larger than that which the Plaintiff might suffer if the court had granted consolidation and subsequently denied the Defendant’s summary judgment application. This is because, even if summary judgment were denied, the Plaintiff would still have a chance to make out its case against the Defendant at trial. However, if summary judgment were granted against the Defendant, the Defendant would be completely shut out from making its defence.[\[note: 16\]](#Ftn_16)
+11     The Defendant says that in deciding right at the outset to strike out the Defendant’s counterclaim, he placed the Defendant at a disadvantage when the court eventually had to consider the summary judgment application because the Defendant would be, at that point, devoid of a defence of set-off (because the counterclaim in the DC Suit had been struck out). The Defendant complains that the approach taken by the DR rendered the Defendant’s consolidation application nugatory, effectively deciding against the Defendant without even considering the merits of the Defendant’s consolidation application. The Defendant contends that the prejudice suffered by the Defendant pursuant to the approach taken by the DR is significantly larger than that which the Plaintiff might suffer if the court had granted consolidation and subsequently denied the Defendant’s summary judgment application. This is because, even if summary judgment were denied, the Plaintiff would still have a chance to make out its case against the Defendant at trial. However, if summary judgment were granted against the Defendant, the Defendant would be completely shut out from making its defence.[^16]
 
-12     The Defendant submits that the fairest and most logical approach is:[\[note: 17\]](#Ftn_17)
+12     The Defendant submits that the fairest and most logical approach is:[^17]
 
 a.     First, to consider the consolidation application for moving and/or combining the MC Suit with the DC Suit;
 
@@ -82,11 +83,11 @@ d.     it is otherwise an abuse of the process of the court.
 
 18     In _Terrestrial_, where the respondent filed a Statement of Claim in its action against the appellant which was identical to its counterclaim in the appellant’s action, the High Court struck out the respondent’s Statement of Claim as being frivolous or vexatious and an abuse of the process of the court. It was held that the duplicate claim would result in increased costs to the appellant (at \[21\]). It is plain that in law, a duplicated counterclaim would be struck out.
 
-19     The Defendant, on the other hand contends that there is a distinction between cases where a litigant had initiated identical claims against a respondent in two separate proceedings and cases where a litigant had pleaded identical counterclaims in order to defend himself against the respondent’s separated claims. The Defendant contends that in _Terrestrial_, the respondent initiated a separate suit which was identical to its counterclaim in the applicant’s suit. In the present case, however, it was the Plaintiff who had deliberately initiated two separate actions which stems from the same Statement of Account and the same course of dealings between parties. The Defendant submits that had the Plaintiff filed a single suit against the Defendant (which is what the Defendant is trying to achieve through the consolidation application), the Defendant would have only filed a single counterclaim. The Defendant gave the hypothetical example that if a plaintiff had filed 100 different law suits (each in respect of 1 out of 100 unpaid invoices against a defendant), the Plaintiff should not be allowed to argue that the defendant was not entitled to file a counterclaim and/or plead a defence of set-off in 99 out of the 100 different law suits.[\[note: 18\]](#Ftn_18)
+19     The Defendant, on the other hand contends that there is a distinction between cases where a litigant had initiated identical claims against a respondent in two separate proceedings and cases where a litigant had pleaded identical counterclaims in order to defend himself against the respondent’s separated claims. The Defendant contends that in _Terrestrial_, the respondent initiated a separate suit which was identical to its counterclaim in the applicant’s suit. In the present case, however, it was the Plaintiff who had deliberately initiated two separate actions which stems from the same Statement of Account and the same course of dealings between parties. The Defendant submits that had the Plaintiff filed a single suit against the Defendant (which is what the Defendant is trying to achieve through the consolidation application), the Defendant would have only filed a single counterclaim. The Defendant gave the hypothetical example that if a plaintiff had filed 100 different law suits (each in respect of 1 out of 100 unpaid invoices against a defendant), the Plaintiff should not be allowed to argue that the defendant was not entitled to file a counterclaim and/or plead a defence of set-off in 99 out of the 100 different law suits.[^18]
 
-20     In other words, the Defendant says that it is simply responding to proceedings which the Plaintiff tactically elected to commence separately, in full knowledge that the Defendant would have to respond to the same by way of its counterclaim against the Plaintiff. The Plaintiff has given no good explanation as to why it chose to file two separate suits against the Defendant and the only reasonable inference is that it did so to try to seek an improper advantage in litigation. Further, as the Plaintiff’s striking out application is based solely on the fact that the counterclaims in the DC Suit and the MC Suit are duplicated, it is unreasonable that the Plaintiff has sought to strike out the counterclaim in the DC Suit, and not the MC Suit. The only reasonable inference is that the Plaintiff had done so tactically so as to try to prevent the Defendant from being availed of a defence of set-off in the DC Suit.[\[note: 19\]](#Ftn_19)
+20     In other words, the Defendant says that it is simply responding to proceedings which the Plaintiff tactically elected to commence separately, in full knowledge that the Defendant would have to respond to the same by way of its counterclaim against the Plaintiff. The Plaintiff has given no good explanation as to why it chose to file two separate suits against the Defendant and the only reasonable inference is that it did so to try to seek an improper advantage in litigation. Further, as the Plaintiff’s striking out application is based solely on the fact that the counterclaims in the DC Suit and the MC Suit are duplicated, it is unreasonable that the Plaintiff has sought to strike out the counterclaim in the DC Suit, and not the MC Suit. The only reasonable inference is that the Plaintiff had done so tactically so as to try to prevent the Defendant from being availed of a defence of set-off in the DC Suit.[^19]
 
-21     I am unable to agree with the Defendant’s position. There is a distinction in civil proceedings between what procedural step is permissible in law and what is permissible as a matter of strategy. If a step taken by a party is not allowable in law, that it is taken as a matter of litigation strategy does not render it allowable. If a party in a case takes measures that are permissible in law but which incur unnecessary costs, purely as a matter of strategy, the opposing party that takes counter measures is not exempt from adherence to procedural law. That the opposing party is answering an unreasonable step taken by the first party does not legitimise any procedural step taken by the opposing party that is not allowed in law. Any unreasonable step taken by the first party is a matter for case management. The court has tools in its case management tool box to manage any costs wasting steps taken by parties.[\[note: 20\]](#Ftn_20) It is not for the opposing party to flout procedural law to answer any unreasonable step taken. That the Defendant was merely countering procedural tactics of the Plaintiff in this case is not an answer to the question of whether the duplicate counterclaim should be struck out. By the same token, the Defendant’s complaint that the Plaintiff had chosen, as a matter of tactics, to apply to strike out the counterclaim in the DC Suit and not the MC Suit does not assist the Defendant.
+21     I am unable to agree with the Defendant’s position. There is a distinction in civil proceedings between what procedural step is permissible in law and what is permissible as a matter of strategy. If a step taken by a party is not allowable in law, that it is taken as a matter of litigation strategy does not render it allowable. If a party in a case takes measures that are permissible in law but which incur unnecessary costs, purely as a matter of strategy, the opposing party that takes counter measures is not exempt from adherence to procedural law. That the opposing party is answering an unreasonable step taken by the first party does not legitimise any procedural step taken by the opposing party that is not allowed in law. Any unreasonable step taken by the first party is a matter for case management. The court has tools in its case management tool box to manage any costs wasting steps taken by parties.[^20] It is not for the opposing party to flout procedural law to answer any unreasonable step taken. That the Defendant was merely countering procedural tactics of the Plaintiff in this case is not an answer to the question of whether the duplicate counterclaim should be struck out. By the same token, the Defendant’s complaint that the Plaintiff had chosen, as a matter of tactics, to apply to strike out the counterclaim in the DC Suit and not the MC Suit does not assist the Defendant.
 
 22     The Defendant also refers to the case of **_PT Muliakeramik Indahraya TBK v Nam Huat Tiling & Panelling Co Pte Ltd_** **_(“PT Muliakeramik”)_** where the High Court noted at \[16\]:
 
@@ -108,7 +109,7 @@ b.     If the plaintiff satisfies (a), then the burden shifts to the defend
 
 “_such assertion, denial or dispute is equivocal, or lacking in precision or is inconsistent with undisputed contemporary documents or other statements by the same deponent, or is inherently improbable in itself”_, then _“the judge has a duty to reject such assertion or denial, thereby rendering the issue not triable_”.
 
-26     In the present case, the Defendant does not dispute that the sum of $227,687.04 out of the total claim of $230,329.41 is owing.[\[note: 21\]](#Ftn_21) Counsel for the Defendant confirmed this positon at the hearing of the RAs before me. It is settled law that where an admission has been made by the Defendant, summary judgment for that sum ought to be ordered. In any event, I note that the Plaintiff had for good measure produced affidavit evidence of all the supporting documents in respect of its claim.[\[note: 22\]](#Ftn_22)
+26     In the present case, the Defendant does not dispute that the sum of $227,687.04 out of the total claim of $230,329.41 is owing.[^21] Counsel for the Defendant confirmed this positon at the hearing of the RAs before me. It is settled law that where an admission has been made by the Defendant, summary judgment for that sum ought to be ordered. In any event, I note that the Plaintiff had for good measure produced affidavit evidence of all the supporting documents in respect of its claim.[^22]
 
 27     As for the balance amount of $2,642.37, the Plaintiff submits that it should be granted summary judgment as the Defendant did not plead in its Defence any other grounds on which it disputed the Plaintiff’s claim. The Defendant did not plead that it was disputing that: (i) the invoices were valid; (ii) it had agreed to apply the Plaintiff’s prices lists; and (iii) it had agreed to pay the Plaintiff’s prices as claimed by the Plaintiff. I note that the Defendant asserted its dispute to the invoices relating to the sum of $2,642.37 in Tan’s 5th Affidavit at \[9\]. However, I also note that these invoices were not disputed on any of these grounds until Tan’s 5th Affidavit (filed on 23 May 2018). More importantly, there is no document offered by the Defendant to support these new allegations in respect of the invoices which were issued since 2016 and 2017. There are no detailed assertions of any agreement between the parties to the application of a different price list to the invoices. In the circumstances, I am therefore unable to find that the Defendant has raised any _bona fide_ issue for trial in respect of the entire claim for $230,329.41. In this regard, I agree with the DR’s determination that there was no _bona fide_ triable issue.
 
@@ -126,7 +127,7 @@ c.     Step 3: whether the plausible counterclaim was sufficiently connecte
 
 d.     Step 4: whether there were grounds for a stay of execution in the light of the connected and plausible counterclaim – if the court considered that there was really no defence to the claim and that as a consequence the plaintiff would be put to needless expense in proving its claim, the court should generally grant summary judgment of the whole of the claim. This was the default position where there were no triable issues under the usual approach. But, in the exercise of its discretion, where the court also found (through an application of Steps 1 and 3 above) that there was a connected and plausible counterclaim, this might provide grounds for the court to stay execution of the whole judgment (or a portion thereof) pending the determination of the connected and plausible counterclaim. A qualification applied in the situation where the quantum of the judgment exceeded that of the quantum of the counterclaim: in such circumstances, there should not be any stay of execution of the quantum of the judgment that was in excess of the counterclaim.
 
-30     In the present case, the starting position in the analysis of the counterclaim is that it is not disputed that the losses and damages constituting the counterclaim have not accrued. The counterclaim is for losses and damages resulting from the Plaintiff supplying the Defendant with the wrong materials for the J Gateway project. The Defendant’s contention is that the supply of wrong materials resulted in the Defendant having to carry out rectification works and to compensate a third party.[\[note: 23\]](#Ftn_23) A sum of $2,842,011.20 was referred to in the Defence and Counterclaim.[\[note: 24\]](#Ftn_24) However, the Defendant admits that the rectification works have not been carried out. There is also no evidence that compensation has been paid to any third party. No loss or damage has to-date being incurred. It is safe to say that the counterclaim for losses and damages is in the realm of speculation. In this regard, I am therefore unable to hold that the Defendant has mounted a plausible counterclaim.
+30     In the present case, the starting position in the analysis of the counterclaim is that it is not disputed that the losses and damages constituting the counterclaim have not accrued. The counterclaim is for losses and damages resulting from the Plaintiff supplying the Defendant with the wrong materials for the J Gateway project. The Defendant’s contention is that the supply of wrong materials resulted in the Defendant having to carry out rectification works and to compensate a third party.[^23] A sum of $2,842,011.20 was referred to in the Defence and Counterclaim.[^24] However, the Defendant admits that the rectification works have not been carried out. There is also no evidence that compensation has been paid to any third party. No loss or damage has to-date being incurred. It is safe to say that the counterclaim for losses and damages is in the realm of speculation. In this regard, I am therefore unable to hold that the Defendant has mounted a plausible counterclaim.
 
 ### Defence of set-off
 
@@ -134,7 +135,7 @@ d.     Step 4: whether there were grounds for a stay of execution in the li
 
 “_The fact that the defendants have in their defence put a figure to what they claimed does not mean that it has become a liquidated sum or a sum ascertainable with precision_ _at the time of pleading__…”_
 
-32     The counterclaim is premised on an unascertained or unascertainable amount based, as admitted by the Defendant, purely on estimates and on quotations obtained.[\[note: 25\]](#Ftn_25) Clearly, the counterclaim is for amounts that are not ascertainable with precision in the absence of valuation or estimation. The counterclaim therefore cannot form the subject matter of a legal set-off.
+32     The counterclaim is premised on an unascertained or unascertainable amount based, as admitted by the Defendant, purely on estimates and on quotations obtained.[^25] Clearly, the counterclaim is for amounts that are not ascertainable with precision in the absence of valuation or estimation. The counterclaim therefore cannot form the subject matter of a legal set-off.
 
 33     As for equitable set-off, the Plaintiff refers to the case of **_Pacific Rim Investments Pte Ltd v Lam Seng Tiong and another_** **\[**1995\] 2 SLR(R) 643 (“**_Pacific Rim_**”). The requirements of an equitable set-off are:
 
@@ -148,7 +149,7 @@ c.     it is for the defendant to particularise the amount of his set-off o
 
 35     I agree. Whilst the parties had a running series of projects between them requiring the supply of fabricated glass products by the Plaintiff to the Defendant, each contract concerned products with different specifications and requirements. That the Plaintiff issued a consolidated Statement of Account in respect of all the invoices for the various projects does not condense them into a single transaction. The Statements of Account are plainly for purposes of billing, and finding the references to the invoices for the counterclaim and claim in the Statement of Account does not render the counterclaim so closely connected with the claim. As regards the portion of the counterclaim pertaining to the sum of $30,159.63, said to be an overcharged amount, it related only to the J Gateway project and certainly is not closely connected with the claim.
 
-36     The Defendant refers to the case of **_Abdul Salam Asanaru Pillai (trading as South Kerala Cashew Exporters) v Nomanbhoy & Sons Pte Ltd_** (“**_Abdul Salam_**”),[\[note: 26\]](#Ftn_26) where it was held that there is a general right to equitable set-off in cases where there is a close relationship or connection between the dealings and the transactions which give rise to the respective claims. It is not necessary that the claim and the cross-claim must arise out of the same contract. It was held that the proper enquiry would be to ask whether there is a sufficient degree of closeness between the claim and the cross-claim, and in each case, the question turns on whether the respective claims are so closely connected that it would offend one’s sense of fairness or justice to allow one claim to be enforced without regard to the other.[\[note: 27\]](#Ftn_27)
+36     The Defendant refers to the case of **_Abdul Salam Asanaru Pillai (trading as South Kerala Cashew Exporters) v Nomanbhoy & Sons Pte Ltd_** (“**_Abdul Salam_**”),[^26] where it was held that there is a general right to equitable set-off in cases where there is a close relationship or connection between the dealings and the transactions which give rise to the respective claims. It is not necessary that the claim and the cross-claim must arise out of the same contract. It was held that the proper enquiry would be to ask whether there is a sufficient degree of closeness between the claim and the cross-claim, and in each case, the question turns on whether the respective claims are so closely connected that it would offend one’s sense of fairness or justice to allow one claim to be enforced without regard to the other.[^27]
 
 37     In my view, _Abdul Salam_ does not assist the Defendant. As I have alluded to above, in my judgment, there lacked a sufficient degree of closeness between the claim and the counterclaim. The respective claims are not so closely connected that it would offend one’s sense of fairness or justice to allow one claim to be enforced without regard to the other. In fact, to my mind, it would be contrary to the sense of fairness to allow an equitable set-off on the basis of the counterclaim. There should rightly be judgment to the Plaintiff for its claim.
 
@@ -174,59 +175,59 @@ c.     Following from a) and b), there is no need to consider the consolida
 
 * * *
 
-[\[note: 1\]](#Ftn_1_1)RA 97/2018 (DC/SUM 543/2018 below)
+[^1]: RA 97/2018 (DC/SUM 543/2018 below)
 
-[\[note: 2\]](#Ftn_2_1)RA 96 (DC/SUM 703/2018 below)
+[^2]: RA 96 (DC/SUM 703/2018 below)
 
-[\[note: 3\]](#Ftn_3_1)RA 95 (DC/SUM 576/2018 below)
+[^3]: RA 95 (DC/SUM 576/2018 below)
 
-[\[note: 4\]](#Ftn_4_1)Decision given on 28 November 2018
+[^4]: Decision given on 28 November 2018
 
-[\[note: 5\]](#Ftn_5_1)Tan’s 4th Affidavit, at \[20(a) – (b)\]
+[^5]: Tan’s 4th Affidavit, at \[20(a) – (b)\]
 
-[\[note: 6\]](#Ftn_6_1)See Lim’s 2nd Affidavit at \[7\]
+[^6]: See Lim’s 2nd Affidavit at \[7\]
 
-[\[note: 7\]](#Ftn_7_1)2nd Affidavit of Lim Hong Choo Doreen filed on 26 February 2018 (“**Lim’s 2nd Affidavit**”)
+[^7]: 2nd Affidavit of Lim Hong Choo Doreen filed on 26 February 2018 (“**Lim’s 2nd Affidavit**”)
 
-[\[note: 8\]](#Ftn_8_1)See 1st Affidavit of Tan Kwee Heng filed on 13 February 2018 (“**Tan’s 1st Affidavit**”) and Tan’s 2nd Affidavit filed on 21 March 2018 at \[13\]
+[^8]: See 1st Affidavit of Tan Kwee Heng filed on 13 February 2018 (“**Tan’s 1st Affidavit**”) and Tan’s 2nd Affidavit filed on 21 March 2018 at \[13\]
 
-[\[note: 9\]](#Ftn_9_1)Tan’s 1st Affidavit at \[13\], \[21\] and \[22\]
+[^9]: Tan’s 1st Affidavit at \[13\], \[21\] and \[22\]
 
-[\[note: 10\]](#Ftn_10_1)Tan’s 4th Affidavit, at \[20(c) – (m)\]
+[^10]: Tan’s 4th Affidavit, at \[20(c) – (m)\]
 
-[\[note: 11\]](#Ftn_11_1)Tan’s 3rd Affidavit dated 10 April 2018 at \[15\] and Tan’s 4th Affidavit at \[20(k)\]
+[^11]: Tan’s 3rd Affidavit dated 10 April 2018 at \[15\] and Tan’s 4th Affidavit at \[20(k)\]
 
-[\[note: 12\]](#Ftn_12_1)Page 5 of the Notes of Evidence for the Hearing for the Summonses on 28 November 2018 (“**the NE**”).
+[^12]: Page 5 of the Notes of Evidence for the Hearing for the Summonses on 28 November 2018 (“**the NE**”).
 
-[\[note: 13\]](#Ftn_13_1)Page 6 of the NE
+[^13]: Page 6 of the NE
 
-[\[note: 14\]](#Ftn_14_1)Page 9 of the NE
+[^14]: Page 9 of the NE
 
-[\[note: 15\]](#Ftn_15_1)Pages 9 – 10 of the NE
+[^15]: Pages 9 – 10 of the NE
 
-[\[note: 16\]](#Ftn_16_1)\[26\]-\[28\] of Defendant’s Skeletal Submissions for the RAs
+[^16]: \[26\]-\[28\] of Defendant’s Skeletal Submissions for the RAs
 
-[\[note: 17\]](#Ftn_17_1)\[30\] of Defendant’s Skeletal Submissions for the RAs
+[^17]: \[30\] of Defendant’s Skeletal Submissions for the RAs
 
-[\[note: 18\]](#Ftn_18_1)\[66\]-\[71\] of Defendant’s Skeletal Submissions for the RAs
+[^18]: \[66\]-\[71\] of Defendant’s Skeletal Submissions for the RAs
 
-[\[note: 19\]](#Ftn_19_1)\[73\] of Defendant’s Skeletal Submissions for the RAs
+[^19]: \[73\] of Defendant’s Skeletal Submissions for the RAs
 
-[\[note: 20\]](#Ftn_20_1)For instance, the court could direct that all the related Suits be heard together by the same judge, with a single set of witnesses.
+[^20]: For instance, the court could direct that all the related Suits be heard together by the same judge, with a single set of witnesses.
 
-[\[note: 21\]](#Ftn_21_1)See Tan’s 5th Affidavit at \[7\]
+[^21]: See Tan’s 5th Affidavit at \[7\]
 
-[\[note: 22\]](#Ftn_22_1)Pages 24 to 33 (price lists) and pages 76 to 1290 (purchase orders, delivery orders, invoices) of Chong’s 1st Affidavit
+[^22]: Pages 24 to 33 (price lists) and pages 76 to 1290 (purchase orders, delivery orders, invoices) of Chong’s 1st Affidavit
 
-[\[note: 23\]](#Ftn_23_1)\[50\] of Defendant’s Skeletal Submissions for the RAs
+[^23]: \[50\] of Defendant’s Skeletal Submissions for the RAs
 
-[\[note: 24\]](#Ftn_24_1)\[15\] of Defence and Counterclaim
+[^24]: \[15\] of Defence and Counterclaim
 
-[\[note: 25\]](#Ftn_25_1)Tan’s 6th Affidavit
+[^25]: Tan’s 6th Affidavit
 
-[\[note: 26\]](#Ftn_26_1)Cited in **_United Overseas Bank Pte Ltd v Tru-line Beauty Consultants Pte Ltd_**
+[^26]: Cited in **_United Overseas Bank Pte Ltd v Tru-line Beauty Consultants Pte Ltd_**
 
-[\[note: 27\]](#Ftn_27_1)\[26\] & \[28\] of **_Abdul Salam_**
+[^27]: \[26\] & \[28\] of **_Abdul Salam_**
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F23137-SSP.xml)

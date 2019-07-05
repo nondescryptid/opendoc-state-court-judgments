@@ -1,3 +1,4 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
 # Public Prosecutor _v_ Muhammad Yusof Yuuki bin Yacob Hussain  
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">DAC 934698 of 2018</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">23 May 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Toh Yung Cheong</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Ms Grace Chua &amp; Ms Seah Ee Wei (Deputy Public Prosecutors) for the Prosecution'; Kanthosamy Rajendran (Reliance Law Corporation) for the Accused</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Muhammad Yusof Yuuki bin Yacob Hussain</td></tr></tbody></table>
@@ -234,13 +235,13 @@ Besides community sentences, the Bills also make major changes to another senten
 
 …
 
-The proposed changes reflect this deeper understanding, allowing SPS to take on a risk and performance-based approach in determining the intensity of intervention in RTC for the trainee. A key feature of the proposed changes is that the minimum detention period for reformative training will be reduced from 18 months, to six or 12 months, depending on the intensity of the rehabilitation the offender requires. This will be based on the time required for programming to mitigate the risks and address the needs of the RT trainees, according to their profiles.[\[note: 1\]](#Ftn_1)
+The proposed changes reflect this deeper understanding, allowing SPS to take on a risk and performance-based approach in determining the intensity of intervention in RTC for the trainee. A key feature of the proposed changes is that the minimum detention period for reformative training will be reduced from 18 months, to six or 12 months, depending on the intensity of the rehabilitation the offender requires. This will be based on the time required for programming to mitigate the risks and address the needs of the RT trainees, according to their profiles.[^1]
 
 45     Taking into account the recommendation in the Reformative Training pre-sentence report as to the appropriate intensity of rehabilitation, I sentenced the accused to a term of reformative training with a minimum period of detention of 6 months’. At the time of preparing this judgment, the accused is on bail pending appeal.
 
 * * *
 
-[\[note: 1\]](#Ftn_1_1)_Singapore Parliamentary Debates, Official Report (19 March 2018) vol 94_
+[^1]: _Singapore Parliamentary Debates, Official Report (19 March 2018) vol 94_
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F23218-SSP.xml)

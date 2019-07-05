@@ -1,3 +1,4 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
 # Public Prosecutor _v_ Gunasegaran S/O Govindarajoo  
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">DAC No. 913353-2018, Magistrate's Appeal No. 9120/2019/01</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">24 June 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Edgar Foo</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Zhou Yihong, Deputy Public Prosecutor for the Prosecution; Mr Ng Shi Yang and Ms Marjorie Kong (Criminal Legal Aid Scheme/Law Society Pro Bono Services) for the Accused</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Gunasegaran S/O Govindarajoo</td></tr></tbody></table>
@@ -71,11 +72,11 @@ _and further, that you, from_ **_12 October 2017 to 10 February 2019_** _, were 
 
 8       The following facts are undisputed between the parties:-
 
-i.     PW1 is a social worker with CARE CORNER. Her job scope includes helping victims and perpetrators of family violence For victims, PW1 will work with the victims and provide them with a safety plan. For perpetrators, PW1 will work with them to increase their insight on their use of violence as well as to work towards non-violent ways to manage issues and also to implement violence control plans where possible[\[note: 1\]](#Ftn_1).
+i.     PW1 is a social worker with CARE CORNER. Her job scope includes helping victims and perpetrators of family violence For victims, PW1 will work with the victims and provide them with a safety plan. For perpetrators, PW1 will work with them to increase their insight on their use of violence as well as to work towards non-violent ways to manage issues and also to implement violence control plans where possible[^1].
 
-ii.     Both the accused and his wife (PW3) have been referred to CARE CORNER by the Ministry of Social and Family Development for family violence issues at home and PW1 is the social worker in charge of their case[\[note: 2\]](#Ftn_2).
+ii.     Both the accused and his wife (PW3) have been referred to CARE CORNER by the Ministry of Social and Family Development for family violence issues at home and PW1 is the social worker in charge of their case[^2].
 
-iii.     The accused and PW3 have been having marital issues including issues with their children and divorce[\[note: 3\]](#Ftn_3). PW3 has also been a victim of spousal violence and she has been granted PPO against the accused. The accused has been sent to jail for committing family violence against PW3.
+iii.     The accused and PW3 have been having marital issues including issues with their children and divorce[^3]. PW3 has also been a victim of spousal violence and she has been granted PPO against the accused. The accused has been sent to jail for committing family violence against PW3.
 
 iv.     PW1 was working with PW3 to prepare PW3 for the accused’s discharge from prison in October 2017 and she was also referred to the accused and working with him on the same issue.
 
@@ -83,17 +84,17 @@ v.     PW1 had also met up with the accused on a number of occasions as par
 
 vi.     On 28 February 2018, PW1 conducted a routine home visit and the accused was alone at home. PW1 spoke to the accused at the void deck at Blk 704 West Coast Road Singapore 120704.
 
-vii.     During the session at the void deck, the accused shared with PW1 that he was angry with PW3 over issues with their children and divorce and he subsequently told PW1 that he wanted to murder PW3[\[note: 4\]](#Ftn_4).
+vii.     During the session at the void deck, the accused shared with PW1 that he was angry with PW3 over issues with their children and divorce and he subsequently told PW1 that he wanted to murder PW3[^4].
 
-viii.     When the accused told PW1 that he wanted to murder PW3, PW1 asked him what he meant and the accused told PW1 that he could either kill PW3 in her sleep or he would get someone to finish her off[\[note: 5\]](#Ftn_5).
+viii.     When the accused told PW1 that he wanted to murder PW3, PW1 asked him what he meant and the accused told PW1 that he could either kill PW3 in her sleep or he would get someone to finish her off[^5].
 
-ix.     PW1 also said that she was alarmed at what the accused had told her[\[note: 6\]](#Ftn_6).
+ix.     PW1 also said that she was alarmed at what the accused had told her[^6].
 
-x.     PW1 then met up with PW3 later on the same day at her work place and she informed PW3 of what PW1 had said and she also accompanied PW3 to Clementi NPC to make a police report relating to the incident[\[note: 7\]](#Ftn_7).
+x.     PW1 then met up with PW3 later on the same day at her work place and she informed PW3 of what PW1 had said and she also accompanied PW3 to Clementi NPC to make a police report relating to the incident[^7].
 
-xi.     PW1 then put a safety plan in place and arranged for PW3 and the children to move to a shelter[\[note: 8\]](#Ftn_8).
+xi.     PW1 then put a safety plan in place and arranged for PW3 and the children to move to a shelter[^8].
 
-## Prosecution’s Case[\[note: 9\]](#Ftn_9)
+## Prosecution’s Case[^9]
 
 9       The accused does not dispute telling PW1 that he wanted to murder PW3, that he had a plan to do so, that it would be easy to do so either by killing PW3 in her sleep or getting someone to finish her off (“the Remarks”). It is also undisputed that PW1 was in fact alarmed. The only issue in dispute is whether the accused _intended_ to cause PW1 alarm in making the Remarks.
 
@@ -117,11 +118,11 @@ xi.     PW1 then put a safety plan in place and arranged for PW3 and the ch
 
 15     The accused’s intention can be inferred from the following:
 
-(a)      **The accused’s knowledge of PW1’s role.** The accused knew well that PW1 was a social worker who had been trying to get him to change his ways of using family violence. By making the Remarks to PW1 – Remarks which touched on not just ‘violence’ in general terms but _murder_ - the accused must have known for absolute certainty that PW1 would be alarmed[\[note: 10\]](#Ftn_10).
+(a)      **The accused’s knowledge of PW1’s role.** The accused knew well that PW1 was a social worker who had been trying to get him to change his ways of using family violence. By making the Remarks to PW1 – Remarks which touched on not just ‘violence’ in general terms but _murder_ - the accused must have known for absolute certainty that PW1 would be alarmed[^10].
 
-(b)      **The details of the Remarks.** The accused did not make one single, isolated and off the cuff remark about wanting to kill his wife. In response to PW1’s query on “what does he mean”[\[note: 11\]](#Ftn_11), the accused proceeded to _actively emphasize_ to PW1 that he was “serious”. This makes it twice that the accused had announced his murderous intent to PW1. PW1 then questioned the accused further on what the plan was. For the third time, the accused spoke about his intention to murder his wife - he elaborated it “would be easy to kill \[his wife\]” and even prescribed the modalities through which this could be achieved – “killing her in her sleep or getting someone to finish her off”[\[note: 12\]](#Ftn_12). In essence, the accused thought it necessary to _impress upon PW1_ just how absolutely serious he was, and to even spell out details to PW1[\[note: 13\]](#Ftn_13).
+(b)      **The details of the Remarks.** The accused did not make one single, isolated and off the cuff remark about wanting to kill his wife. In response to PW1’s query on “what does he mean”[^11], the accused proceeded to _actively emphasize_ to PW1 that he was “serious”. This makes it twice that the accused had announced his murderous intent to PW1. PW1 then questioned the accused further on what the plan was. For the third time, the accused spoke about his intention to murder his wife - he elaborated it “would be easy to kill \[his wife\]” and even prescribed the modalities through which this could be achieved – “killing her in her sleep or getting someone to finish her off”[^12]. In essence, the accused thought it necessary to _impress upon PW1_ just how absolutely serious he was, and to even spell out details to PW1[^13].
 
-(c)      **The fact that PW1 was** **_in fact alarmed_** **further fortifies the fact that the accused intended to alarm her[\[note: 14\]](#Ftn_14).** Although not an element of the offence per se, the fact that a victim felt alarmed _supports_ the finding of a guilty intent. As the learned Yong CJ observed in _Ameer Akbar_ at \[51\]-\[53\] (cited with approval by the CA in _Liton_ at\[65\]):
+(c)      **The fact that PW1 was** **_in fact alarmed_** **further fortifies the fact that the accused intended to alarm her[^14].** Although not an element of the offence per se, the fact that a victim felt alarmed _supports_ the finding of a guilty intent. As the learned Yong CJ observed in _Ameer Akbar_ at \[51\]-\[53\] (cited with approval by the CA in _Liton_ at\[65\]):
 
 Of course, guilty intent was a question of fact to be inferred. Thus, if it could be shown that the victim had some objective basis to apprehend alarm, even if he was never actually alarmed, and the threat was sufficient to overcome the ordinary free will of a firm man (see _Ramanathan Yogendran v PP_ … at \[111\]), that would then fortify a finding of the guilty intent.
 
@@ -155,7 +156,7 @@ The appellant here had threatened to assault the complainant. The fact that the 
 
 20     Given the above, the Prosecution submitted that they had proven the charge beyond a reasonable doubt, and urged the Court to convict the accused as charged.
 
-## Defence Case**[\[note: 15\]](#Ftn_15)**
+## Defence Case**[^15]**
 
 21     The Defence accepts that the accused had said to PW1 that he wanted to kill PW3, and that it would be easy to kill her either in her sleep or getting someone to “_finish her off_”.
 
@@ -251,7 +252,7 @@ _Whoever_, **_intending to insult_** _the modesty of any woman, utters any word,
 
 ## C.   The accused had no intention to cause alarm to PW1
 
-37     The Defence had submitted that it is trite that the intention of an individual has to be inferred from his act or conduct or other relevant circumstances of the case, as it is difficult if not impossible to procure direct evidence to prove intention[\[note: 16\]](#Ftn_16).
+37     The Defence had submitted that it is trite that the intention of an individual has to be inferred from his act or conduct or other relevant circumstances of the case, as it is difficult if not impossible to procure direct evidence to prove intention[^16].
 
 38     The following extract from the case of _Chan Yok Tuang_ at \[27\] is an example of the surrounding circumstances that can be taken into account in determining one’s intention:
 
@@ -275,7 +276,7 @@ c.     There was no reason why the accused would have wanted to cause alarm
 
 EIC of PW1
 
-“_…during the home visit---during the session where which we had, um, he shared with me that he’s angry with Madam Mailavathi, um, over issues of like their children and, um divorce, yah. And then, um, subsequently, he told me that he wants to murder her.”[\[note: 17\]](#Ftn_17)_
+“_…during the home visit---during the session where which we had, um, he shared with me that he’s angry with Madam Mailavathi, um, over issues of like their children and, um divorce, yah. And then, um, subsequently, he told me that he wants to murder her.”[^17]_
 
 Cross-examination of PW1
 
@@ -287,7 +288,7 @@ _…_
 
 _Q:_ _Now, so on 28th February 2018 when both of you were at the void deck, he again shared problems he had at home with his wife and family, right?_
 
-_A:_ _Yes.”[\[note: 18\]](#Ftn_18)_
+_A:_ _Yes.”[^18]_
 
 EIC of the accused
 
@@ -301,7 +302,7 @@ _A:_ _To her._
 
 _Q:_ _to her._
 
-_A:_ _Yes.”[\[note: 19\]](#Ftn_19)_
+_A:_ _Yes.”[^19]_
 
 _“Q:_ _…So you remember you said you---you want to kill your wife._
 
@@ -315,13 +316,13 @@ _…_
 
 _Q:_ _Why would you say you want to kill your wife when you are frustrated?_
 
-_A:_ _I was also very angry, the---I feel frustrated. That’s wha---I only say this word. But I don’t have any kind---any intention at all. …I told because I can trust the social welfare that’s well---that’s where I tried to express to her what I feel.”[\[note: 20\]](#Ftn_20)_
+_A:_ _I was also very angry, the---I feel frustrated. That’s wha---I only say this word. But I don’t have any kind---any intention at all. …I told because I can trust the social welfare that’s well---that’s where I tried to express to her what I feel.”[^20]_
 
 43     The accused had viewed the session with PW1 as an opportunity to vent his frustrations, and saying that he wanted to murder his wife was his way of expressing his anger.
 
 44     In the heat of the moment, the accused had also said that it would be easy to kill his wife either by killing her in her sleep or getting someone to “_finish her off_”. The accused had testified that the reason why he had said all of these things was because:
 
-“_…when I’m angry, when I’m---I just keep saying anything whatever come to my mind_”[\[note: 21\]](#Ftn_21)
+“_…when I’m angry, when I’m---I just keep saying anything whatever come to my mind_”[^21]
 
 45     It is therefore clear that to the accused, these were merely words that he was spewing out in expressing his anger, to which he gave no considered thought.
 
@@ -333,7 +334,7 @@ Cross-examination of PW1
 
 _“Q:_ _…it was important to you that Mr. Gunasegaran and his wife Madam Mailavathi were open with you about their problems and feelings in order for you to properly help them._
 
-_A:_ _Yes.”[\[note: 22\]](#Ftn_22)_
+_A:_ _Yes.”[^22]_
 
 _“Q:_ _… in the meeting in around October 2017 which was the last meeting before the meeting in February 2018._
 
@@ -341,13 +342,13 @@ _A:_ _Yah._
 
 _Q:_ _You had told Mr. Guna expressly that he could speak to you openly if he had any problems in his family._
 
-_A:_ _Yes.”[\[note: 23\]](#Ftn_23)_
+_A:_ _Yes.”[^23]_
 
 EIC of the accused
 
 _“Q:_ _What else did the social worker talk to you about?_
 
-_A:_ _And she told me, “You can talk to me anything, openly. You can trust me.”[\[note: 24\]](#Ftn_24)_
+_A:_ _And she told me, “You can talk to me anything, openly. You can trust me.”[^24]_
 
 ## iii.   There was no reason why the accused would have wanted to cause alarm to PW1 as he viewed her as somebody who was there to help and somebody he could trust
 
@@ -361,11 +362,11 @@ _“Q:_ _Okay. So, what did you understand his ro---Ms. Charisa’s role was? Wh
 
 _…_
 
-_A:_ _Only the 2nd time, the 2nd interview. And then she told me like, “I’m here to help you out regarding your family matter.””[\[note: 25\]](#Ftn_25)_
+_A:_ _Only the 2nd time, the 2nd interview. And then she told me like, “I’m here to help you out regarding your family matter.””[^25]_
 
 _“Q: …in your eyes, what kind of role did you view Ms. Charisa to play in your family’s affairs?_
 
-_A: …I thought she is came here to help me patch up the family, because I trusted her.”[\[note: 26\]](#Ftn_26)_
+_A: …I thought she is came here to help me patch up the family, because I trusted her.”[^26]_
 
 _“Q:_ _What else did the social worker talk to you about?_
 
@@ -387,7 +388,7 @@ _A:_ _I thought---at least there’s someone uh to listen. There’s a ear for--
 
 _Q:_ _The assurance that she gave to you…that---you know, you could speak openly to her… How did that make you feel…when you heard it?_
 
-_A:_ _I was very happy about it, because she’s---someone is coming forward---to help me.”[\[note: 27\]](#Ftn_27)_
+_A:_ _I was very happy about it, because she’s---someone is coming forward---to help me.”[^27]_
 
 “Q: _… why do you think it is okay to tell a stranger that you want to kill your wife?_
 
@@ -395,11 +396,11 @@ _A:_ _well, I trusted the social…worker. I trusted her. That’s why I tried t
 
 _Q:_ _Can you tell the Court why you trust her?_
 
-_A:_ _Because she told me that “Okay. You can trust me. You can speak to me openly.”[\[note: 28\]](#Ftn_28)_
+_A:_ _Because she told me that “Okay. You can trust me. You can speak to me openly.”[^28]_
 
-_“A:_ _…after talking to her, I feel a bit happy. I---that I share something---the burden in me that I share---the one who I can trust, the social worker.”[\[note: 29\]](#Ftn_29)_
+_“A:_ _…after talking to her, I feel a bit happy. I---that I share something---the burden in me that I share---the one who I can trust, the social worker.”[^29]_
 
-49     The accused’s positive impression of PW1, was not disputed or challenged by the Prosecution and in fact, PW1’s position was also that she was there to assist both parties[\[note: 30\]](#Ftn_30).
+49     The accused’s positive impression of PW1, was not disputed or challenged by the Prosecution and in fact, PW1’s position was also that she was there to assist both parties[^30].
 
 50     It is therefore difficult to fathom, given that the accused viewed PW1 as someone who was there to help him and provide a listening ear, why he would have wanted to cause alarm to PW1.
 
@@ -416,7 +417,7 @@ Cross-Examination of the accused
 
 Re-Examination of the accused
 
-“A:    …_I did not have any intention to cause alarm, because I see her as a normal person. And she’s---she came forward to help me,_”_[\[note: 32\]](#Ftn_32)_
+“A:    …_I did not have any intention to cause alarm, because I see her as a normal person. And she’s---she came forward to help me,_”_[^32]_
 
 ## iv.   Anything less than intention will not suffice to find that the accused had the requisite _mens rea_
 
@@ -446,7 +447,7 @@ _A:_ _But, I---why should I cause alarm to hers?_
 
 _Q:_ _No, do you agree or not?_
 
-_A:_ _No.”[\[note: 33\]](#Ftn_33)_
+_A:_ _No.”[^33]_
 
 54     However, it is a leap of logic to conclude that the accused had the intention to cause alarm to PW1 merely because he knew that she was counselling him on his use of family violence. That alone cannot be enough to meet the high threshold of the accused having the _purpose_ of causing PW1 alarm or being _absolutely_ certain that his words would cause PW1 alarm. Even if the accused knew that by saying those words, it was possible that he could cause alarm to PW1, that would not be sufficient, as knowledge of the substantial or virtual certainty of a result occurring will not constitute intention.
 
@@ -456,7 +457,7 @@ _A:_ _No.”[\[note: 33\]](#Ftn_33)_
 
 56     The Defence also highlighted that the accused was initially arrested for breach of PPO (for which he has been given a discharge amounting to an acquittal), and this criminal intimidation charge towards PW1 was only brought later.
 
-57     IO Rahmuna Abdul Samad (PW2) explained that the breach of PPO charge was brought because the police thought that the accused had caused fear towards PW3[\[note: 34\]](#Ftn_34), even though there was no uncertainty in the first report made to the police that the words in question were uttered to PW1 and not PW3[\[note: 35\]](#Ftn_35).
+57     IO Rahmuna Abdul Samad (PW2) explained that the breach of PPO charge was brought because the police thought that the accused had caused fear towards PW3[^34], even though there was no uncertainty in the first report made to the police that the words in question were uttered to PW1 and not PW3[^35].
 
 58     Investigations were thus conducted on the basis of the accused’s intentions towards PW3 and PW3 being the victim, rather than the accused’s intentions towards PW1.
 
@@ -476,7 +477,7 @@ _A:_ _Agree._
 
 _Q:_ _And in conducting the investigations, the police believe\[d\] that Mr. Gunasegaran’s wife was the victim?_
 
-_A:_ _I agree.”[\[note: 36\]](#Ftn_36)_
+_A:_ _I agree.”[^36]_
 
 59     The Defence had submitted that the accused and PW3 shared a dysfunctional relationship with a long history of unhappiness. While it may be easier to infer that the accused would have an intention to cause alarm to PW3, she is not the victim in the present charge against him. It is also not the Prosecution’s case that the accused said those words to PW1intending or knowing that the words would be communicated to PW3. Rather, the named victim in the charge is PW1, and it is submitted that the circumstances as set out above sufficiently raise a reasonable doubt as to whether the accused had the requisite intention vis-à-vis PW1.
 
@@ -512,21 +513,21 @@ _Whoever commits the offence of criminal intimidation shall be punished with imp
 
 66     In this context, I note the following:
 
-a.     PW3 and the accused have been married since 1997[\[note: 37\]](#Ftn_37) and PW3 has been a victim of spousal violence for 20 years[\[note: 38\]](#Ftn_38). PW3 had also been issued with a PPO against the accused[\[note: 39\]](#Ftn_39).
+a.     PW3 and the accused have been married since 1997[^37] and PW3 has been a victim of spousal violence for 20 years[^38]. PW3 had also been issued with a PPO against the accused[^39].
 
-b.     The accused had gone to jail for family violence issues and PW1 was appointed by MSF to help PW3 as a victim of family violence and also to help prepare her for the accused’s discharged from prison. PW1 was also tasked to help the accused who was perpetrator of family violence and to prepare him before he was discharged from prison in October 2017[\[note: 40\]](#Ftn_40).
+b.     The accused had gone to jail for family violence issues and PW1 was appointed by MSF to help PW3 as a victim of family violence and also to help prepare her for the accused’s discharged from prison. PW1 was also tasked to help the accused who was perpetrator of family violence and to prepare him before he was discharged from prison in October 2017[^40].
 
 c.     It is also clear that after the accused was released from prison, the parties continued to live together.
 
-d.     However PW1 continued to allege that the accused was committing family violence on her[\[note: 41\]](#Ftn_41) and the accused was accusing PW3 of abusing her PPO against the accused[\[note: 42\]](#Ftn_42).
+d.     However PW1 continued to allege that the accused was committing family violence on her[^41] and the accused was accusing PW3 of abusing her PPO against the accused[^42].
 
-e.     Other than the issue of spousal violence, there is also the issue of infidelity by the accused. PW3 had testified that the accused had gotten married to another woman in December 2017[\[note: 43\]](#Ftn_43) and was trying to force her to divorce him because of the woman[\[note: 44\]](#Ftn_44).
+e.     Other than the issue of spousal violence, there is also the issue of infidelity by the accused. PW3 had testified that the accused had gotten married to another woman in December 2017[^43] and was trying to force her to divorce him because of the woman[^44].
 
-f.     It is also clear that in addition to his matrimonial issue with PW3, the accused was also having issues with his children. He felt that his daughter had disciplinary issues as she was staying out and not coming home and his children were not respectful of him[\[note: 45\]](#Ftn_45). The accused had also obtained a PPO against his son for alleged family violence towards him[\[note: 46\]](#Ftn_46).
+f.     It is also clear that in addition to his matrimonial issue with PW3, the accused was also having issues with his children. He felt that his daughter had disciplinary issues as she was staying out and not coming home and his children were not respectful of him[^45]. The accused had also obtained a PPO against his son for alleged family violence towards him[^46].
 
-g.     PW1 has been helping both PW3 and the accused to address their matrimonial problems as well as the problems relating to their children[\[note: 47\]](#Ftn_47) since 2016[\[note: 48\]](#Ftn_48). PW1 also acknowledged that she had informed the accused as far back in October 2017 that he could be honest with her and he could share his problems with her[\[note: 49\]](#Ftn_49).
+g.     PW1 has been helping both PW3 and the accused to address their matrimonial problems as well as the problems relating to their children[^47] since 2016[^48]. PW1 also acknowledged that she had informed the accused as far back in October 2017 that he could be honest with her and he could share his problems with her[^49].
 
-h.     This is not the 1st time that the accused had “threatened” to kill PW3[\[note: 50\]](#Ftn_50). According to PW3, the accused had on numerous previous occasions verbally abused her and threatened to kill her and their daughter when he was triggered by the mention of his girlfriend. The accused had also threatened to murder PW3 and the children during a dispute in January 2018[\[note: 51\]](#Ftn_51).
+h.     This is not the 1st time that the accused had “threatened” to kill PW3[^50]. According to PW3, the accused had on numerous previous occasions verbally abused her and threatened to kill her and their daughter when he was triggered by the mention of his girlfriend. The accused had also threatened to murder PW3 and the children during a dispute in January 2018[^51].
 
 i.     I also note that despite the numerous “threats to kill” by the accused, PW3 and the children continued to live with the accused under the same roof.
 
@@ -588,7 +589,7 @@ Unlike civil cases, where the court may choose between competing stories and acc
 
 ## Whether to amend the charge to section 4(1)(a) POHA
 
-## a.   The Prosecution’s Position on Amending the Charge**[\[note: 52\]](#Ftn_52)**
+## a.   The Prosecution’s Position on Amending the Charge**[^52]**
 
 80     The Prosecution had also invited me to exercise my powers under section 128(1) of the Criminal Procedure Code to amend the charge to one under section 4(1)(a) punishable under section 4(2) of the Protection from Harassment Act (Cap 256A) in the event that I am of the view that element of _mens rea_ is not satisfied under section 506 of the Penal Code.
 
@@ -612,7 +613,7 @@ Unlike civil cases, where the court may choose between competing stories and acc
 
 83     The Prosecution also submitted that in a clear case such as a present case, I should exercise my discretion to effect the necessary amendments to a charge so as to fit the proved facts: _PP v Tan Khee Wan Iris_ .
 
-## b.   Defence’s Position on Amending the Charge**[\[note: 53\]](#Ftn_53)**
+## b.   Defence’s Position on Amending the Charge**[^53]**
 
 84     The Defence had highlighted the following points in relation to the amending of the section 506 Penal Code charge to one under section 4(1) under POHA:
 
@@ -626,9 +627,9 @@ b.       The Prosecution should make clear that it is seeking a convictio
 
 The Defence had pointed out that this was not done in the present case. Therefore, given the fact that the Prosecution is proposing to amend the charge only after closing submissions, this is clearly unfair to the Defence.
 
-iii.     On the issue of whether section 4 POHA requires a _mens rea_ element for the charge to be made out[\[note: 54\]](#Ftn_54):-
+iii.     On the issue of whether section 4 POHA requires a _mens rea_ element for the charge to be made out[^54]:-
 
-a.       At the outset, parliamentary intent makes clear that POHA is a statute which collates and penalises harassing conduct[\[note: 55\]](#Ftn_55). Particularly, section 4 POHA is the least severe offence contained within POHA, as it carries with it the maximum penalty of a $5,000 fine. The remaining offences carry additional maximum imprisonment terms of between 6 to 12 months at first instance. section 4 POHA is thus the least severe form of harassment that may be committed.
+a.       At the outset, parliamentary intent makes clear that POHA is a statute which collates and penalises harassing conduct[^55]. Particularly, section 4 POHA is the least severe offence contained within POHA, as it carries with it the maximum penalty of a $5,000 fine. The remaining offences carry additional maximum imprisonment terms of between 6 to 12 months at first instance. section 4 POHA is thus the least severe form of harassment that may be committed.
 
 b.       Conversely, section 506 of the Penal Code is intended to punish criminal intimidation. This distinction immediately makes clear that both offences are not of the same genus, with each painting a convicted person with completely different textures – one commits an act of unintended harassment, while the other intended to criminally intimidate. With distinctly different genus, it is submitted that section 4 POHA is not a _simpliciter_ form of section 506 Penal Code, and the Prosecution should be slow to conclude so.
 
@@ -802,115 +803,115 @@ _Illustrations_
 
 * * *
 
-[\[note: 1\]](#Ftn_1_1)See NE Day 1 page 13
+[^1]: See NE Day 1 page 13
 
-[\[note: 2\]](#Ftn_2_1)See NE Day 1 page 4
+[^2]: See NE Day 1 page 4
 
-[\[note: 3\]](#Ftn_3_1)See NE Day 1 page 6
+[^3]: See NE Day 1 page 6
 
-[\[note: 4\]](#Ftn_4_1)See NE Day 1 page 6
+[^4]: See NE Day 1 page 6
 
-[\[note: 5\]](#Ftn_5_1)See NE Day 1 page 7 to 8
+[^5]: See NE Day 1 page 7 to 8
 
-[\[note: 6\]](#Ftn_6_1)See NE Day 1 page 8
+[^6]: See NE Day 1 page 8
 
-[\[note: 7\]](#Ftn_7_1)See NE Day 1 page 9, page 39 and P1, PW3’s police report dated 28 February 2018
+[^7]: See NE Day 1 page 9, page 39 and P1, PW3’s police report dated 28 February 2018
 
-[\[note: 8\]](#Ftn_8_1)See NE Day 1 page 41
+[^8]: See NE Day 1 page 41
 
-[\[note: 9\]](#Ftn_9_1)See The Prosecution’s Submissions
+[^9]: See The Prosecution’s Submissions
 
-[\[note: 10\]](#Ftn_10_1)See also Paragraph 11 of Prosecution’s Further Submissions
+[^10]: See also Paragraph 11 of Prosecution’s Further Submissions
 
-[\[note: 11\]](#Ftn_11_1)NE Day 1 page 7 line 16.
+[^11]: NE Day 1 page 7 line 16.
 
-[\[note: 12\]](#Ftn_12_1)NE Day 1 page 7 lines 21 to 27
+[^12]: NE Day 1 page 7 lines 21 to 27
 
-[\[note: 13\]](#Ftn_13_1)See Paragraph 9 and 10 of Prosecution’s Further Submission
+[^13]: See Paragraph 9 and 10 of Prosecution’s Further Submission
 
-[\[note: 14\]](#Ftn_14_1)See Paragraph 13 of Prosecution’s Further Submission
+[^14]: See Paragraph 13 of Prosecution’s Further Submission
 
-[\[note: 15\]](#Ftn_15_1)See Defence Closing Submissions
+[^15]: See Defence Closing Submissions
 
-[\[note: 16\]](#Ftn_16_1)See e.g. _PP v Wong Wai Hung and another_ at \[72\]
+[^16]: See e.g. _PP v Wong Wai Hung and another_ at \[72\]
 
-[\[note: 17\]](#Ftn_17_1)NE Day 1 page 6 lines 12-17
+[^17]: NE Day 1 page 6 lines 12-17
 
-[\[note: 18\]](#Ftn_18_1)NE Day 1 page 15 lines 11-14 and lines 22-25
+[^18]: NE Day 1 page 15 lines 11-14 and lines 22-25
 
-[\[note: 19\]](#Ftn_19_1)NE, Day 1 page 67 lines 20-31
+[^19]: NE, Day 1 page 67 lines 20-31
 
-[\[note: 20\]](#Ftn_20_1)NE Day 1 page 69 lines 11-25
+[^20]: NE Day 1 page 69 lines 11-25
 
-[\[note: 21\]](#Ftn_21_1)NE, Day 1 page 72 lines 25-26
+[^21]: NE, Day 1 page 72 lines 25-26
 
-[\[note: 22\]](#Ftn_22_1)NE, Day 1 page 14, lines 12-19
+[^22]: NE, Day 1 page 14, lines 12-19
 
-[\[note: 23\]](#Ftn_23_1)NE, Day 1 page 15, lines 15-21
+[^23]: NE, Day 1 page 15, lines 15-21
 
-[\[note: 24\]](#Ftn_24_1)NE, Day 1 page 65, lines 10-12
+[^24]: NE, Day 1 page 65, lines 10-12
 
-[\[note: 25\]](#Ftn_25_1)NE Day 1 page 62 line 32 to page 63 line 6
+[^25]: NE Day 1 page 62 line 32 to page 63 line 6
 
-[\[note: 26\]](#Ftn_26_1)NE, Day 2 page 7, lines 5-8
+[^26]: NE, Day 2 page 7, lines 5-8
 
-[\[note: 27\]](#Ftn_27_1)NE, Day 1 page 65 line 10 to page 66 line 11
+[^27]: NE, Day 1 page 65 line 10 to page 66 line 11
 
-[\[note: 28\]](#Ftn_28_1)NE, Day 1 page 73, lines 22-29
+[^28]: NE, Day 1 page 73, lines 22-29
 
-[\[note: 29\]](#Ftn_29_1)NE Day 1 page 74 lines 21-23
+[^29]: NE Day 1 page 74 lines 21-23
 
-[\[note: 30\]](#Ftn_30_1)NE Day 1 page 14 lines 9-11
+[^30]: NE Day 1 page 14 lines 9-11
 
-[\[note: 31\]](#Ftn_31_1)NE, Day 2 page 4 lines 29-32
+[^31]: NE, Day 2 page 4 lines 29-32
 
-[\[note: 32\]](#Ftn_32_1)NE, Day 2 page 8 lines 30-32
+[^32]: NE, Day 2 page 8 lines 30-32
 
-[\[note: 33\]](#Ftn_33_1)NE, Day 2 page 4 lines 7-26
+[^33]: NE, Day 2 page 4 lines 7-26
 
-[\[note: 34\]](#Ftn_34_1)NE Day 1 page 31 lines 12-16
+[^34]: NE Day 1 page 31 lines 12-16
 
-[\[note: 35\]](#Ftn_35_1)NE Day 1 page 31 lines 1-11
+[^35]: NE Day 1 page 31 lines 1-11
 
-[\[note: 36\]](#Ftn_36_1)NE, Day 1 page 32, lines 12-27
+[^36]: NE, Day 1 page 32, lines 12-27
 
-[\[note: 37\]](#Ftn_37_1)NE Day 1 page 36
+[^37]: NE Day 1 page 36
 
-[\[note: 38\]](#Ftn_38_1)NE Day 1 page 5
+[^38]: NE Day 1 page 5
 
-[\[note: 39\]](#Ftn_39_1)NE Day 1 page 10
+[^39]: NE Day 1 page 10
 
-[\[note: 40\]](#Ftn_40_1)NE Day 1 page 4, page 5, page 11 and page 12
+[^40]: NE Day 1 page 4, page 5, page 11 and page 12
 
-[\[note: 41\]](#Ftn_41_1)See P1
+[^41]: See P1
 
-[\[note: 42\]](#Ftn_42_1)NE Day 1 page 57
+[^42]: NE Day 1 page 57
 
-[\[note: 43\]](#Ftn_43_1)NE Day 1 page 36
+[^43]: NE Day 1 page 36
 
-[\[note: 44\]](#Ftn_44_1)NE Day 1 pages 45 to 48
+[^44]: NE Day 1 pages 45 to 48
 
-[\[note: 45\]](#Ftn_45_1)NE Day 1 page 67
+[^45]: NE Day 1 page 67
 
-[\[note: 46\]](#Ftn_46_1)NE day 1 page 84
+[^46]: NE day 1 page 84
 
-[\[note: 47\]](#Ftn_47_1)NE Day 1 pages 5 to 6
+[^47]: NE Day 1 pages 5 to 6
 
-[\[note: 48\]](#Ftn_48_1)NE Day 1 page 5
+[^48]: NE Day 1 page 5
 
-[\[note: 49\]](#Ftn_49_1)NE Day 1 Page 15
+[^49]: NE Day 1 Page 15
 
-[\[note: 50\]](#Ftn_50_1)NE Day 1 page 49
+[^50]: NE Day 1 page 49
 
-[\[note: 51\]](#Ftn_51_1)See P1
+[^51]: See P1
 
-[\[note: 52\]](#Ftn_52_1)See paragraphs 9 and 10 of Prosecution’s Submission
+[^52]: See paragraphs 9 and 10 of Prosecution’s Submission
 
-[\[note: 53\]](#Ftn_53_1)See Defence’s Reply Submissions and Defence’s Further Reply Submissions
+[^53]: See Defence’s Reply Submissions and Defence’s Further Reply Submissions
 
-[\[note: 54\]](#Ftn_54_1)See paragraph 11 to 18 of Defence Further Reply Submissions
+[^54]: See paragraph 11 to 18 of Defence Further Reply Submissions
 
-[\[note: 55\]](#Ftn_55_1)Second Reading Speech by Minister for Law, K Shanmugam, on the Protection from Harassment Bill, dated 13 Mar 2014
+[^55]: Second Reading Speech by Minister for Law, K Shanmugam, on the Protection from Harassment Bill, dated 13 Mar 2014
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F23313-SSP.xml)

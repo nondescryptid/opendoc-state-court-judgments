@@ -1,3 +1,4 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
 # Karats Pte Ltd _v_ Asia Capital and Brokerage Pte Ltd  
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">MC/Magistrate's Court Suit No 18576 of 2018 (MC/Summons No 407 of 2019)</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">10 June 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">Magistrates Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Chua Wei Yuan</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Lulla Ammar Khan (Cairnhill Law LLC) for the applicant; and Vishnu Aditya Naidu (Phoenix Law Corporation) for the respondent.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Karats Pte Ltd — Asia Capital and Brokerage Pte Ltd</td></tr></tbody></table>
@@ -48,7 +49,7 @@ Civil Procedure – Simplified process – Upfront discovery
 
 #### Knowledge of pending application to extend time to file defence
 
-13     The defendant argues that the plaintiff entered default judgment despite knowing that it had filed an application for particulars and for an extension of time to file its defence.[\[note: 1\]](#Ftn_1)
+13     The defendant argues that the plaintiff entered default judgment despite knowing that it had filed an application for particulars and for an extension of time to file its defence.[^1]
 
 14     In my view, the plaintiff is not obligated to refrain from entering default judgment in the light of the pending application (or its knowledge that the application is pending).
 
@@ -66,13 +67,13 @@ Civil Procedure – Simplified process – Upfront discovery
 
 19     The defendant raised a litany of complaints which it says amounted to either lack of full and frank disclosure or a breach of natural justice. It says that the plaintiff:
 
-(a)     did not inform the defendant that on 8 Jan 2019 it filed a request to enter default judgment, until after the judgment was accepted into the case file on 10 Jan 2019;[\[note: 2\]](#Ftn_2)
+(a)     did not inform the defendant that on 8 Jan 2019 it filed a request to enter default judgment, until after the judgment was accepted into the case file on 10 Jan 2019;[^2]
 
-(b)     did not copy the defendant in its letter to court that set out the correspondence between parties and requesting that default judgment be entered;[\[note: 3\]](#Ftn_3)
+(b)     did not copy the defendant in its letter to court that set out the correspondence between parties and requesting that default judgment be entered;[^3]
 
-(c)     had attended before the duty registrar on 10 Jan 2019 without having informed the defendant or its solicitors of its intention to seek an audience;[\[note: 4\]](#Ftn_4) and
+(c)     had attended before the duty registrar on 10 Jan 2019 without having informed the defendant or its solicitors of its intention to seek an audience;[^4] and
 
-(d)     had, in its letter to court and attendance before the duty registrar, failed to inform the court of the fact that the defendant had filed an application to extend the time allowed to file its defence.[\[note: 5\]](#Ftn_5)
+(d)     had, in its letter to court and attendance before the duty registrar, failed to inform the court of the fact that the defendant had filed an application to extend the time allowed to file its defence.[^5]
 
 20     In my view, while these complaints raise a spectrum of concerns if they are true, none make the judgment irregular.
 
@@ -214,15 +215,15 @@ Civil Procedure – Simplified process – Upfront discovery
 
 * * *
 
-[\[note: 1\]](#Ftn_1_1)Defendant’s submissions, para 16–21.
+[^1]: Defendant’s submissions, para 16–21.
 
-[\[note: 2\]](#Ftn_2_1)Defendant’s submissions, para 22(ii).
+[^2]: Defendant’s submissions, para 22(ii).
 
-[\[note: 3\]](#Ftn_3_1)Defendant’s submissions, para 22(iii).
+[^3]: Defendant’s submissions, para 22(iii).
 
-[\[note: 4\]](#Ftn_4_1)Defendant’s submissions, para 22(iv).
+[^4]: Defendant’s submissions, para 22(iv).
 
-[\[note: 5\]](#Ftn_5_1)Defendant’s submissions, para 22(v).
+[^5]: Defendant’s submissions, para 22(v).
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F23327-SSP.xml)

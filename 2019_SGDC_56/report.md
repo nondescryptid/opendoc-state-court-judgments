@@ -1,3 +1,4 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
 # Public Prosecutor _v_ Kanagaratnam Nicholas Jens  
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">DAC 906836/2018 &amp; Others</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">27 March 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Josephine Kang</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">DPP Ng Jun Chong (Attorney-General's Chambers) for the Public Prosecutor; Peter Keith Fernando (Leo Fernando LLC) for the Accused.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Kanagaratnam Nicholas Jens</td></tr></tbody></table>
@@ -171,9 +172,9 @@
 
 #### The factors militating against the finding of a ‘purely exceptional case’
 
-42     The Prosecution pointed out and I accepted that there was no medical evidence that the Accused had failed to understand either the wrongfulness or seriousness of his acts. On the contrary, the facts stated in the probation report showed that the Accused did understand the nature and severity of his offences[\[note: 1\]](#Ftn_1).
+42     The Prosecution pointed out and I accepted that there was no medical evidence that the Accused had failed to understand either the wrongfulness or seriousness of his acts. On the contrary, the facts stated in the probation report showed that the Accused did understand the nature and severity of his offences[^1].
 
-43     I also agreed with the Prosecution that the Accused’s admission to have abused drugs as a lifestyle activity for fun and relaxation[\[note: 2\]](#Ftn_2), the fact that he had shared his supply of cannabis with other drug abusers, and his overseas escapades to smoke cannabis for fun and enjoyment[\[note: 3\]](#Ftn_3), undermined the position that there was a causal link between the Accused’s psychiatric disorders and his commission of the offences. These indicated that the Accused’s decision to commit the drug offences was not, as opined by Dr. Winslow, motivated by his desire to cope with his underlying psychiatric conditions. He had clearly gone far beyond that and committed the offences for social reasons, despite knowing the nature and consequences of his illegal acts.
+43     I also agreed with the Prosecution that the Accused’s admission to have abused drugs as a lifestyle activity for fun and relaxation[^2], the fact that he had shared his supply of cannabis with other drug abusers, and his overseas escapades to smoke cannabis for fun and enjoyment[^3], undermined the position that there was a causal link between the Accused’s psychiatric disorders and his commission of the offences. These indicated that the Accused’s decision to commit the drug offences was not, as opined by Dr. Winslow, motivated by his desire to cope with his underlying psychiatric conditions. He had clearly gone far beyond that and committed the offences for social reasons, despite knowing the nature and consequences of his illegal acts.
 
 44     To be fair, these facts may not have been disclosed to Dr. Winslow, given that his report made no mention of them. The absence of these facts may have impacted his ability to give a fair and accurate assessment.
 
@@ -229,11 +230,11 @@
 
 * * *
 
-[\[note: 1\]](#Ftn_1_1) See Probation Report (a) pg. 12, paragraph 8 and (b) pg. 13, paragraph 10
+[^1]:  See Probation Report (a) pg. 12, paragraph 8 and (b) pg. 13, paragraph 10
 
-[\[note: 2\]](#Ftn_2_1) See Probation Report pg. 13, paragraph 10
+[^2]:  See Probation Report pg. 13, paragraph 10
 
-[\[note: 3\]](#Ftn_3_1) See Probation Report pg. 13, para 7 and 8
+[^3]:  See Probation Report pg. 13, para 7 and 8
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F22994-SSP.xml)

@@ -1,3 +1,4 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
 # Public Prosecutor _v_ Kamarudin bin Mohamed Miza  
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">DAC-916391-2018</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">28 June 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Kessler Soh</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">DPP Pavithra Ramkumar (Attorney-General's Chambers) for the Prosecution; Defendant in person.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Kamarudin bin Mohamed Miza</td></tr></tbody></table>
@@ -32,13 +33,13 @@ You \[...\] are charged that you, on or before 23 January 2018, in Singapore, di
 
 6       The defendant was arrested on 23 January 2018 at about 8.30 pm at Haig Road, during a random check conducted by officers from the Central Narcotics Bureau (“**CNB**”). The defendant was screened and found to have failed to report for urine testing. (The arrest report was admitted in evidence as Exh P1.)
 
-7       After his arrest the defendant was taken to the Bedok Police Divisional Headquarters. A CNB officer, Sergeant Ahmad Badawi bin Abubakar Bagarib (PW2, “**Sgt Ahmad**”), escorted the defendant to procure his urine specimen. Sgt Ahmad testified[\[note: 1\]](#Ftn_1) that he instructed the defendant to select a “red bottle” from a container of more than 10 of such bottles, and two “blue bottles” from another container containing more than 20 of such bottles. The defendant was asked to open the packaging of all the three bottles. Sgt Ahmad then escorted the defendant to a toilet urinal. The defendant provided his urine sample into the red master bottle. Subsequently the urine specimen was handed to the IUT (Instant Urine Test) operator. At all times it was the defendant who carried the urine bottles.
+7       After his arrest the defendant was taken to the Bedok Police Divisional Headquarters. A CNB officer, Sergeant Ahmad Badawi bin Abubakar Bagarib (PW2, “**Sgt Ahmad**”), escorted the defendant to procure his urine specimen. Sgt Ahmad testified[^1] that he instructed the defendant to select a “red bottle” from a container of more than 10 of such bottles, and two “blue bottles” from another container containing more than 20 of such bottles. The defendant was asked to open the packaging of all the three bottles. Sgt Ahmad then escorted the defendant to a toilet urinal. The defendant provided his urine sample into the red master bottle. Subsequently the urine specimen was handed to the IUT (Instant Urine Test) operator. At all times it was the defendant who carried the urine bottles.
 
-8       The IUT operator was CNB officer Sergeant Nuruljanna Marican Binte Mohamed Rafee (PW3, “**Sgt Nuruljanna**”). She testified[\[note: 2\]](#Ftn_2) that she transferred some urine from the red master bottle into a test tube and performed an instant urine test. It tested positive for opiates. Sgt Nuruljanna then printed out the IUT Result Slip (Exh P2). She also printed out some labels bearing the defendant’s particulars. She took the two blue urine bottles from the defendant (which contained the defendant’s urine specimen) and sealed the bottles with a layer of masking tape. She fixed the labels, which had been signed by the defendant, on the two blue bottles. She then placed scotch tape over the urine labels. The defendant was asked to check that the particulars on the urine labels were correct. He was then asked to deposit the two blue bottles into a locked metal box.
+8       The IUT operator was CNB officer Sergeant Nuruljanna Marican Binte Mohamed Rafee (PW3, “**Sgt Nuruljanna**”). She testified[^2] that she transferred some urine from the red master bottle into a test tube and performed an instant urine test. It tested positive for opiates. Sgt Nuruljanna then printed out the IUT Result Slip (Exh P2). She also printed out some labels bearing the defendant’s particulars. She took the two blue urine bottles from the defendant (which contained the defendant’s urine specimen) and sealed the bottles with a layer of masking tape. She fixed the labels, which had been signed by the defendant, on the two blue bottles. She then placed scotch tape over the urine labels. The defendant was asked to check that the particulars on the urine labels were correct. He was then asked to deposit the two blue bottles into a locked metal box.
 
 #### (b)   Analysis of urine specimens by HSA
 
-9       The defendant’s urine specimen was sent to the HSA on 24 January 2018. It was analysed separately by two analysts from the HSA (the “**HSA Analysts**”): Ms Ng Xue Qin (PW5, “**Ms Ng**”) and Ms Maggie Tiong Su Su (PW6, “**Ms Tiong**”). Upon analysis, the defendant’s urine was found to contain morphine. The certificates prepared by the HSA analysts under s 16 MDA were tendered in evidence (Exhs P3 and P4, respectively). Both HSA Analysts testified that the presence of morphine in the defendant’s urine specimen was consistent with the consumption of diamorphine (also known as heroin).[\[note: 3\]](#Ftn_3)
+9       The defendant’s urine specimen was sent to the HSA on 24 January 2018. It was analysed separately by two analysts from the HSA (the “**HSA Analysts**”): Ms Ng Xue Qin (PW5, “**Ms Ng**”) and Ms Maggie Tiong Su Su (PW6, “**Ms Tiong**”). Upon analysis, the defendant’s urine was found to contain morphine. The certificates prepared by the HSA analysts under s 16 MDA were tendered in evidence (Exhs P3 and P4, respectively). Both HSA Analysts testified that the presence of morphine in the defendant’s urine specimen was consistent with the consumption of diamorphine (also known as heroin).[^3]
 
 #### (c)   Presumption of consumption under s 22 MDA
 
@@ -52,13 +53,13 @@ Presumption relating to urine test
 
 11     The defendant was called upon to enter his defence. He elected to testify.
 
-12     In his defence, the defendant testified[\[note: 4\]](#Ftn_4) that since 2010 he had been taking a lot of medication because he suffered from a number of medical ailments, which included heart and kidney problems, asthma, high blood pressure. He had taken a variety of medicine during the period from 12 October 2017 to 22 January 2018. He had consumed 12-15 bottles of cough mixture and various types of tablets. He said that the mixture would mix with the metabolic system and produce this by-product of morphine. The metamorphosing of the active ingredients was a scientific fact that could only be confirmed by a medical expert or toxicologist. He maintained that he did not consume heroin.[\[note: 5\]](#Ftn_5) (The lists of medication tendered in evidence by the defendant were marked Exhs D1 and D2.)
+12     In his defence, the defendant testified[^4] that since 2010 he had been taking a lot of medication because he suffered from a number of medical ailments, which included heart and kidney problems, asthma, high blood pressure. He had taken a variety of medicine during the period from 12 October 2017 to 22 January 2018. He had consumed 12-15 bottles of cough mixture and various types of tablets. He said that the mixture would mix with the metabolic system and produce this by-product of morphine. The metamorphosing of the active ingredients was a scientific fact that could only be confirmed by a medical expert or toxicologist. He maintained that he did not consume heroin.[^5] (The lists of medication tendered in evidence by the defendant were marked Exhs D1 and D2.)
 
 #### Decision
 
 13     On the evidence before me, I found that the defendant’s urine specimen had been properly procured and analysed by the HSA Analysts, and found to contain morphine. He was presumed under s 22 of the MDA to have consumed the drug until the contrary is proved.
 
-14     The defendant provided no cogent evidence to prove the contrary. His evidence that the drug was found in his urine as he had consumed a lot of medication was no more than a bare assertion. It was refuted by the testimony of both HSA Analysts, who testified that the medication he consumed would _not_ give rise to morphine in the urine, regardless of the duration and the amount of the medication taken.[\[note: 6\]](#Ftn_6)
+14     The defendant provided no cogent evidence to prove the contrary. His evidence that the drug was found in his urine as he had consumed a lot of medication was no more than a bare assertion. It was refuted by the testimony of both HSA Analysts, who testified that the medication he consumed would _not_ give rise to morphine in the urine, regardless of the duration and the amount of the medication taken.[^6]
 
 15     The defendant had not rebutted the statutory presumption that he had consumed the drug. Accordingly, he was found guilty and convicted on the charge.
 
@@ -115,17 +116,17 @@ Presumption relating to urine test
 
 * * *
 
-[\[note: 1\]](#Ftn_1_1)Transcript, 29 May 2019, pp 6-9.
+[^1]: Transcript, 29 May 2019, pp 6-9.
 
-[\[note: 2\]](#Ftn_2_1)Transcript, 29 May 2019, pp 9-12.
+[^2]: Transcript, 29 May 2019, pp 9-12.
 
-[\[note: 3\]](#Ftn_3_1)Evidence of Ng Xue Qin (PW5): Transcript, 29 May 2019, pp 14-20, 47-49. Evidence of Maggie Tiong Su Su (PW6): Transcript, 29 May 2019, pp 21-27, 46-47.
+[^3]: Evidence of Ng Xue Qin (PW5): Transcript, 29 May 2019, pp 14-20, 47-49. Evidence of Maggie Tiong Su Su (PW6): Transcript, 29 May 2019, pp 21-27, 46-47.
 
-[\[note: 4\]](#Ftn_4_1)Transcript, 29 May 2019, pp 30-41.
+[^4]: Transcript, 29 May 2019, pp 30-41.
 
-[\[note: 5\]](#Ftn_5_1)_Ibid_, at p 34 (lines 16-26).
+[^5]: _Ibid_, at p 34 (lines 16-26).
 
-[\[note: 6\]](#Ftn_6_1)Evidence of Ng Xue Qin (PW5): Transcript, 29 May 2019, p 16 (line 22) – p 18 (line 1), p 19 (lines 1-7), p 47 (line 31) – p 48 (line 28).Evidence of Maggie Tiong Su Su (PW6): Transcript, 29 May 2019, p 23 (line 20) – p 24 (line 15), p 26 (lines 16-21), p 46 (line 27) – p 47 (line 13).
+[^6]: Evidence of Ng Xue Qin (PW5): Transcript, 29 May 2019, p 16 (line 22) – p 18 (line 1), p 19 (lines 1-7), p 47 (line 31) – p 48 (line 28).Evidence of Maggie Tiong Su Su (PW6): Transcript, 29 May 2019, p 23 (line 20) – p 24 (line 15), p 26 (lines 16-21), p 46 (line 27) – p 47 (line 13).
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F23326-SSP.xml)

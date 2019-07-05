@@ -1,3 +1,4 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
 # Public Prosecutor _v_ Asep Karyadi  
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">DAC 904169 of 2018, Magistrate's Appeal No. 9092/2019/01</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">17 May 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Edgar Foo</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">DPP Michelle Lu for the Public Prosecutor; Mr Amarick Gill (M/s Amarick Gill LLC) for the Accused</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Asep Karyadi</td></tr></tbody></table>
@@ -136,7 +137,7 @@ c.     An elongated contusion mark of 1cm in width and 5cm in length over h
 
 26     The accused is untraced for any previous offence.
 
-## The Prosecution’s Submissions on Sentence [\[note: 1\]](#Ftn_1)
+## The Prosecution’s Submissions on Sentence [^1]
 
 27     The Prosecution is seeking a sentence of at least 20 months’ imprisonment for the accused for the following reasons:-
 
@@ -192,7 +193,7 @@ xiv.       Given the circumstances of this case, the Prosecution avers th
 
 ## Mitigation
 
-28     The Defence has urged me to consider the following mitigating factors[\[note: 2\]](#Ftn_2):-
+28     The Defence has urged me to consider the following mitigating factors[^2]:-
 
 a.      **The accused mitigating factors**
 
@@ -280,9 +281,9 @@ ii.     The accused was not the main culprit. He did not know the victims p
 
 * * *
 
-[\[note: 1\]](#Ftn_1_1)See Prosecution’s Skeletal Submissions on Sentence and the Further Address on Sentence by Prosecution
+[^1]: See Prosecution’s Skeletal Submissions on Sentence and the Further Address on Sentence by Prosecution
 
-[\[note: 2\]](#Ftn_2_1)See Defence’s Mitigation and Defence Submissions
+[^2]: See Defence’s Mitigation and Defence Submissions
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F23168-SSP.xml)

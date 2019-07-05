@@ -1,3 +1,4 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
 # Public Prosecutor _v_ Lee Chiew Yan  
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">MCN 902249/2017, Magistrate's Appeal No.9008/2019/01</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">11 April 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">Magistrates Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Lim Tse Haw</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">DPP Esther Tang for the Prosecution; Mr Rai Vijay Kumar for the Accused</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Lee Chiew Yan</td></tr></tbody></table>
@@ -22,13 +23,13 @@ On 9 October 2016 at or about 10.07 a.m., at the multi-storey car park at Tiong 
 
 #### (A)    Background Facts
 
-3       The background facts leading to the commission of the offence were largely not in dispute at the trial. Briefly, on 9 October 2016 at about 10.07 a.m., at the multi-storey car park at Tiong Bahru Market and Food Centre (“the Car Park”), both the Accused and one Wong Chiu Giau Nellie (“the Complainant”)[\[note: 1\]](#Ftn_1) were waiting in their cars to park in the same parking lot. When the car which was then occupying the lot moved out of the lot, there was a dispute between the Accused and the Complainant as to who was entitled to park in that lot. After a short stand-off, the Accused decided to move her car away and the Complainant then reverse-parked her car in the lot. Shortly thereafter, the Accused found another lot, just opposite and to the left of the Complainant’s lot. The Accused then parked her car in that lot.
+3       The background facts leading to the commission of the offence were largely not in dispute at the trial. Briefly, on 9 October 2016 at about 10.07 a.m., at the multi-storey car park at Tiong Bahru Market and Food Centre (“the Car Park”), both the Accused and one Wong Chiu Giau Nellie (“the Complainant”)[^1] were waiting in their cars to park in the same parking lot. When the car which was then occupying the lot moved out of the lot, there was a dispute between the Accused and the Complainant as to who was entitled to park in that lot. After a short stand-off, the Accused decided to move her car away and the Complainant then reverse-parked her car in the lot. Shortly thereafter, the Accused found another lot, just opposite and to the left of the Complainant’s lot. The Accused then parked her car in that lot.
 
 #### (B)   The Complainant’s Evidence
 
-4       After parking her car, the Complainant locked her car and left to do some marketing in the Tiong Bahru Market. When she returned to her car about 20-30 minutes later, she noticed a long continuous scratch mark on the left side of her car[\[note: 2\]](#Ftn_2), starting from somewhere just below the left rear light of the car, running along the left side of the car, across the left rear passenger door, all the way until the middle of the left front passenger door.[\[note: 3\]](#Ftn_3)
+4       After parking her car, the Complainant locked her car and left to do some marketing in the Tiong Bahru Market. When she returned to her car about 20-30 minutes later, she noticed a long continuous scratch mark on the left side of her car[^2], starting from somewhere just below the left rear light of the car, running along the left side of the car, across the left rear passenger door, all the way until the middle of the left front passenger door.[^3]
 
-5       The Complainant said she was sure that the scratch was not there before the incident as her domestic helper would wash her car every morning and she would have informed her if there were such a scratch that morning when she washed the car. It also could not have been caused on her way to the Tiong Bahru market as she was not involved in any accident. As there was an in-car camera installed in her car, with the help of her husband[\[note: 4\]](#Ftn_4), the relevant footage capturing the incident was retrieved and admitted as evidence at the trial without any objection from the Defence.[\[note: 5\]](#Ftn_5)
+5       The Complainant said she was sure that the scratch was not there before the incident as her domestic helper would wash her car every morning and she would have informed her if there were such a scratch that morning when she washed the car. It also could not have been caused on her way to the Tiong Bahru market as she was not involved in any accident. As there was an in-car camera installed in her car, with the help of her husband[^4], the relevant footage capturing the incident was retrieved and admitted as evidence at the trial without any objection from the Defence.[^5]
 
 #### (C)   What the Relevant Footage Showed
 
@@ -36,17 +37,17 @@ On 9 October 2016 at or about 10.07 a.m., at the multi-storey car park at Tiong 
 
 7       After a short while, the footage showed the Accused approaching the Complainant’s car from the front left. She then walked to the right side of the car from the front. She was seen holding a purse in her left hand. As she was walking towards the right of the car, she seemed to be transferring something from her left hand to her right hand. She continued walking to the front right of the Complainant’s car until she was out of the view of the footage. She next appeared in the footage at the right rear of the Complainant’s car. She was seen looking over the parapet behind the Complainant’s car, then walked from the right to the left of the car at the rear until she was again out of the view of the footage. She next appeared in the footage at the front left of the Complainant’s car and walked away from the car from the front left.
 
-8       After the Complainant discovered that her car was scratched, she saw that the Accused’s car was still at the car park. She then called the police and told the police that “_(a) lady just scratched my car and she is still here. I have CCTV.”[\[note: 6\]](#Ftn_6)_ She also called her brother who subsequently came to the Car Park. When the police arrived at the scene, the Complainant told the police officer to check the Accused’s car key but the police officer told the Complainant that they were not able to do so as they had many cases to attend to.
+8       After the Complainant discovered that her car was scratched, she saw that the Accused’s car was still at the car park. She then called the police and told the police that “_(a) lady just scratched my car and she is still here. I have CCTV.”[^6]_ She also called her brother who subsequently came to the Car Park. When the police arrived at the scene, the Complainant told the police officer to check the Accused’s car key but the police officer told the Complainant that they were not able to do so as they had many cases to attend to.
 
-9       As a result of the scratch, the Complainant sent her car, a BMW 7 Series, to Performance Motors Limited (“PML”) for repair. The cost of repair came up to $7395.14.[\[note: 7\]](#Ftn_7)
+9       As a result of the scratch, the Complainant sent her car, a BMW 7 Series, to Performance Motors Limited (“PML”) for repair. The cost of repair came up to $7395.14.[^7]
 
-10     In cross-examination, it was put to the Complainant that the Accused was walking towards the staircase at Exit B of the car park when she was seen approaching the Complainant’s car from the front right of the car in the footage. The Complainant disagreed and pointed out that the staircase at Exit B of the car park was to the far right side of her car where it was parked, and not behind her car to the right as shown in the sketch plan drawn by the investigations officer (“IO”) in P13.[\[note: 8\]](#Ftn_8)
+10     In cross-examination, it was put to the Complainant that the Accused was walking towards the staircase at Exit B of the car park when she was seen approaching the Complainant’s car from the front right of the car in the footage. The Complainant disagreed and pointed out that the staircase at Exit B of the car park was to the far right side of her car where it was parked, and not behind her car to the right as shown in the sketch plan drawn by the investigations officer (“IO”) in P13.[^8]
 
-11     It was further put to the Complainant that when the Accused was seen in the footage walking _away_ from the Complainant’s car from the left, she was walking back to her car to retrieve her mobile phone, and thereafter she walked towards lift B.[\[note: 9\]](#Ftn_9) The Complainant said that she would not know.
+11     It was further put to the Complainant that when the Accused was seen in the footage walking _away_ from the Complainant’s car from the left, she was walking back to her car to retrieve her mobile phone, and thereafter she walked towards lift B.[^9] The Complainant said that she would not know.
 
 #### (D)   The Evidence of the Domestic Helper
 
-12     Miss Sri Widayati, the Complainant’s domestic helper (“Widayati”)[\[note: 10\]](#Ftn_10), testified that she would wash the Complainant’s car every morning at about 7.00 to 7.30 a.m. On the morning of the day of the incident, she washed the car as usual and she did not notice any scratch on the car. Later in the morning, the Complainant called her and asked her if she saw any “line” on the car when she was washing the car. Widayati said no. She identified what she referred to as the “line” as the scratch as shown in P10, from somewhere below the back light beside the licence plate to the front passenger door just below the door handle. She said if she were to notice such a scratch when she was washing the car, she would have told the Complainant about it.
+12     Miss Sri Widayati, the Complainant’s domestic helper (“Widayati”)[^10], testified that she would wash the Complainant’s car every morning at about 7.00 to 7.30 a.m. On the morning of the day of the incident, she washed the car as usual and she did not notice any scratch on the car. Later in the morning, the Complainant called her and asked her if she saw any “line” on the car when she was washing the car. Widayati said no. She identified what she referred to as the “line” as the scratch as shown in P10, from somewhere below the back light beside the licence plate to the front passenger door just below the door handle. She said if she were to notice such a scratch when she was washing the car, she would have told the Complainant about it.
 
 ## THE DEFENCE’S CASE
 
@@ -54,25 +55,25 @@ On 9 October 2016 at or about 10.07 a.m., at the multi-storey car park at Tiong 
 
 13     The Accused testified that on the day of the incident, she was waiting for a car park lot at the Car Park for about two minutes when she noticed that a car was trying to emerge from a lot just behind her car. She moved her car forward to allow the car to emerge. When she tried to reverse park her car into the lot, the Complainant suddenly just rushed her car forward to try to take that lot. No indicator signal was given. She then came down from her car and approached the Complainant. The Accused said she could have asked the Complainant “_what do you want?”._ She cannot remember what exactly she had said to the Complainant but her intention was to ask her nicely. The Accused said although she was always loud, she denied using any foul language at the Complainant. After a conversation of about 20-30 seconds with the Complainant, she decided to wait for another lot. Another lot soon became available and she parked her car in that lot.
 
-14     The Accused then walked towards the staircase at Exit B. She said at that time she was not conscious of the route she was taking.[\[note: 11\]](#Ftn_11) She then noticed that the Complainant’s car was still parked at the same lot. She then walked along the right side of the Complainant’s car. When she reached the aisle between the car and the parapet behind the Complainant’s car[\[note: 12\]](#Ftn_12), she remembered that she had forgotten to take her mobile phone. She then walked back to her car to retrieve her mobile phone. She did this by walking around the Complainant’s car from the back and along the left side of the car. After retrieving her mobile phone, she went to the market by walking along the aisle between _her car_ and the parapet.[\[note: 13\]](#Ftn_13) She spent about an hour at the market. When she came back from the market to her car, she saw that a man was taking pictures of either her or her car. He was with the Complainant. She said there was a commotion but she just ignored it and drove home. The Accused denied causing the scratch on the Complainant’s car as shown in P9 to P12. She said there was no reason for her to do so as she was not upset with the Complainant for taking the parking lot.
+14     The Accused then walked towards the staircase at Exit B. She said at that time she was not conscious of the route she was taking.[^11] She then noticed that the Complainant’s car was still parked at the same lot. She then walked along the right side of the Complainant’s car. When she reached the aisle between the car and the parapet behind the Complainant’s car[^12], she remembered that she had forgotten to take her mobile phone. She then walked back to her car to retrieve her mobile phone. She did this by walking around the Complainant’s car from the back and along the left side of the car. After retrieving her mobile phone, she went to the market by walking along the aisle between _her car_ and the parapet.[^13] She spent about an hour at the market. When she came back from the market to her car, she saw that a man was taking pictures of either her or her car. He was with the Complainant. She said there was a commotion but she just ignored it and drove home. The Accused denied causing the scratch on the Complainant’s car as shown in P9 to P12. She said there was no reason for her to do so as she was not upset with the Complainant for taking the parking lot.
 
-15     In cross-examination, when asked by the learned deputy public prosecutor (DPP) if it would have been more logical for her to take the same route to walk back to her car when she realised that she had forgotten her mobile phone, instead of going one round around the Complainant’s car as seen in the footage, the Accused said she cannot explain if that would have been more logical or not but said that that was how “_most of us will walk”[\[note: 14\]](#Ftn_14)_.
+15     In cross-examination, when asked by the learned deputy public prosecutor (DPP) if it would have been more logical for her to take the same route to walk back to her car when she realised that she had forgotten her mobile phone, instead of going one round around the Complainant’s car as seen in the footage, the Accused said she cannot explain if that would have been more logical or not but said that that was how “_most of us will walk”[^14]_.
 
-16     When asked by the Court why she did not just walk directly from where she had parked her car to the staircase at Exit B but instead took a rather roundabout way of walking beside the Complainant’s car, the Accused said that the route she took was shorter as it was a “diagonal route” whereas the direct route from where she had parked her car to the staircase at Exit B was an L-shape route, which was longer.[\[note: 15\]](#Ftn_15)
+16     When asked by the Court why she did not just walk directly from where she had parked her car to the staircase at Exit B but instead took a rather roundabout way of walking beside the Complainant’s car, the Accused said that the route she took was shorter as it was a “diagonal route” whereas the direct route from where she had parked her car to the staircase at Exit B was an L-shape route, which was longer.[^15]
 
 17     The DPP also put the Accused that from the footage, when she was approaching the front right of the Complainant’s car, she was seen transferring something from her left hand to her right hand and that she had used it to scratch the Complainant’s car. The Accused disagreed.
 
-18     When asked by the Court why she had said in her police statement[\[note: 16\]](#Ftn_16) at \[3\] that she took the staircase down to the market after she had retrieved her mobile phone from the car when it was her evidence in court during cross examination that she took lift B, the Accused at first said that she had made a mistake in her police statement as she had always taken the staircase down to the market.[\[note: 17\]](#Ftn_17)
+18     When asked by the Court why she had said in her police statement[^16] at \[3\] that she took the staircase down to the market after she had retrieved her mobile phone from the car when it was her evidence in court during cross examination that she took lift B, the Accused at first said that she had made a mistake in her police statement as she had always taken the staircase down to the market.[^17]
 
-19     However, when the trial resumed after the lunch break, the Accused changed her evidence and claimed that she “_cannot remember exactly_” whether she had taken lift B to the market and that normally she “_would have gone down the staircase_”. She then explained that as the police statement was taken only days after the incident, her recollection of the incident was probably fresher then and hence she had “_probably_” taken the staircase down.[\[note: 18\]](#Ftn_18)
+19     However, when the trial resumed after the lunch break, the Accused changed her evidence and claimed that she “_cannot remember exactly_” whether she had taken lift B to the market and that normally she “_would have gone down the staircase_”. She then explained that as the police statement was taken only days after the incident, her recollection of the incident was probably fresher then and hence she had “_probably_” taken the staircase down.[^18]
 
-20     When asked by the DPP why she did not take the same route to go the staircase at Exit B after retrieving her mobile phone from her car, i.e, by walking past the Complainant’s car again, the Accused explained that as by this time she was already at the back of her car, as opposed to at the driver side of her car earlier, it was natural for her to walk along the aisle behind her car to go to the staircase at Exit B.[\[note: 19\]](#Ftn_19)
+20     When asked by the DPP why she did not take the same route to go the staircase at Exit B after retrieving her mobile phone from her car, i.e, by walking past the Complainant’s car again, the Accused explained that as by this time she was already at the back of her car, as opposed to at the driver side of her car earlier, it was natural for her to walk along the aisle behind her car to go to the staircase at Exit B.[^19]
 
 ## MY DECISION
 
 #### (A)   The Law on Circumstantial Evidence
 
-21     It was not in dispute at the close of the trial that the Prosecution relied solely on circumstantial evidence to prove the charge against the Accused. It is trite law that the circumstantial evidence on which the prosecution relies must, in the final analysis, “inevitably and inexorably” lead the court to a single conclusion of the accused’s guilt- _PP v Chee Cheong Hin Constance_ \[2006\] 2 SLR (R) 24 at \[77\]. Further, the standard of proof required to prove the accused’s guilt is that of beyond a reasonable doubt.[\[note: 20\]](#Ftn_20) On what amounts to beyond a reasonable doubt, the Court of Appeal in _Took Leng How v PP [\[note: 21\]](#Ftn_21)_ at \[28\] cited the following passage by Denning J in _Miller v Ministry of Pensions_ \[1947\] 2 All ER 372 at 373 with approval:
+21     It was not in dispute at the close of the trial that the Prosecution relied solely on circumstantial evidence to prove the charge against the Accused. It is trite law that the circumstantial evidence on which the prosecution relies must, in the final analysis, “inevitably and inexorably” lead the court to a single conclusion of the accused’s guilt- _PP v Chee Cheong Hin Constance_ \[2006\] 2 SLR (R) 24 at \[77\]. Further, the standard of proof required to prove the accused’s guilt is that of beyond a reasonable doubt.[^20] On what amounts to beyond a reasonable doubt, the Court of Appeal in _Took Leng How v PP [^21]_ at \[28\] cited the following passage by Denning J in _Miller v Ministry of Pensions_ \[1947\] 2 All ER 372 at 373 with approval:
 
 _“That degree is well settled. It need not reach certainty, but it must carry a high degree of probability. Proof beyond a reasonable doubt does not mean proof beyond the shadow of a doubt. The law would fail to protect the community if it admitted fanciful possibilities to deflect the course of justice. If the evidence is so strong against a man as to leave only a remote possibility in his favour which can be dismissed with the sentence “of course it is possible but not in the least probable,” the case is proved beyond reasonable doubt, but nothing short of that will suffice.”_
 
@@ -120,7 +121,7 @@ iv.     However, in later part of her cross-examination, she changed her ev
 
 32     In my judgement, the Accused’s behaviour in approaching the Complainant’s car was unnatural and surreptitious for the following reasons:
 
-i.     I agreed with the Prosecution that when the Accused reached the Complainant’s car near the front right, she was seen to be transferring something from her left hand to her right. The Accused herself admitted that her car key was in her right hand when she was walking around the Complainant’s car[\[note: 22\]](#Ftn_22);
+i.     I agreed with the Prosecution that when the Accused reached the Complainant’s car near the front right, she was seen to be transferring something from her left hand to her right. The Accused herself admitted that her car key was in her right hand when she was walking around the Complainant’s car[^22];
 
 ii.     When she reached the back of the Complainant’s car on the right, instead of turning to her left to go to the staircase (as she claimed was her intention), she turned to her right and pretended to look down the parapet. In my judgment, this unnatural action of hers was in fact her way of trying to make her presence at the back of the Complainant’s car looked less suspicious, so that she appeared to other people to be merely searching or looking out for something at the back of a car. Further, I did not accept the Accused’s explanation that she had left her mobile phone in her car. In my judgment, this was another one of the Accused’s lies to explain why she was seen walking around the back of the Complainant’s car from the right to the left instead of turning to her left to go to the staircase at Exit B;
 
@@ -132,7 +133,7 @@ iii.     It was also unnatural for her to be leaning so close to the Compla
 
 #### iv.   The scratch mark, which was not present on the left side of the car when the Complainant left the car, was present after the Accused was seen walking around the car and when the Complainant returned to her car shortly thereafter
 
-35     After the Accused was seen in the footage walking around the Complainant’s car in an unnatural and surreptitious manner as described above, when the Complainant returned to her car after her marketing, she found the scratch mark on the left side of her car which was not there when she first parked the car. It was the Defence’s case that the scratch mark could have been caused by the passers-by who were seen walking past the Complainant’s car when she was still waiting for a lot, or by someone whose act was not captured in the footage because of the “jump” in the footage.[\[note: 23\]](#Ftn_23) The short answer to this submission is that it is not in the least probable as the cumulative effect of the circumstantial evidence against the Accused is so strong as to leave me in no doubt that it was the Accused who had caused the scratch mark on the Complainant’s car.
+35     After the Accused was seen in the footage walking around the Complainant’s car in an unnatural and surreptitious manner as described above, when the Complainant returned to her car after her marketing, she found the scratch mark on the left side of her car which was not there when she first parked the car. It was the Defence’s case that the scratch mark could have been caused by the passers-by who were seen walking past the Complainant’s car when she was still waiting for a lot, or by someone whose act was not captured in the footage because of the “jump” in the footage.[^23] The short answer to this submission is that it is not in the least probable as the cumulative effect of the circumstantial evidence against the Accused is so strong as to leave me in no doubt that it was the Accused who had caused the scratch mark on the Complainant’s car.
 
 36     In the circumstances, in view of the above findings of fact, it was my judgment that the cumulative effect of the above circumstantial evidence was such that, in the final analysis, inevitably and inexorably led me to a single conclusion of the Accused’s guilt.
 
@@ -144,7 +145,7 @@ iii.     It was also unnatural for her to be leaning so close to the Compla
 
 ## SUBMISSION ON SENTENCE BY THE PROSECUTION
 
-39     The Prosecution submitted for a custodial sentence to be imposed on the Accused but left the duration of the custodial sentence to the court. The Prosecution relied on the following three grounds[\[note: 24\]](#Ftn_24) for submitting for a custodial sentence:
+39     The Prosecution submitted for a custodial sentence to be imposed on the Accused but left the duration of the custodial sentence to the court. The Prosecution relied on the following three grounds[^24] for submitting for a custodial sentence:
 
 i.     Lack of remorse on the Accused’s part as she was convicted after a full trial;
 
@@ -152,17 +153,17 @@ ii.     The act committed by the Accused was vengeful and malicious, with r
 
 iii.     The value of the damage sustained by the Complainant was high: $7395.14. No compensation was made by the Accused to the Complainant for the damage.
 
-40     The Prosecution also tendered a table of sentencing precedents for the offence of mischief under section 427 of the Penal Code arising from road incidents. Out of the seven cases in the table, fines were imposed in six cases, ranging from $3000 to $4800.[\[note: 25\]](#Ftn_25) Only in one case where a sentence of one week imprisonment was imposed after an appeal to the High Court.[\[note: 26\]](#Ftn_26)
+40     The Prosecution also tendered a table of sentencing precedents for the offence of mischief under section 427 of the Penal Code arising from road incidents. Out of the seven cases in the table, fines were imposed in six cases, ranging from $3000 to $4800.[^25] Only in one case where a sentence of one week imprisonment was imposed after an appeal to the High Court.[^26]
 
 ## MITIGATION AND SUBMISSION ON SENTENCE BY THE DEFENCE
 
-41     In mitigation, Counsel for the Accused informed that the Accused was the sole care giver for her 86 years-old mother who had suffered multiple fractures in the ribs recently due to a fall. The Defence repeated its submission reproduced in \[37\] above that the Complainant ought to have engaged an independent surveyor to assess the extent of damage and cost of repair, as this may lead to a lower repair cost. He also submitted for a fine to be imposed.[\[note: 27\]](#Ftn_27)
+41     In mitigation, Counsel for the Accused informed that the Accused was the sole care giver for her 86 years-old mother who had suffered multiple fractures in the ribs recently due to a fall. The Defence repeated its submission reproduced in \[37\] above that the Complainant ought to have engaged an independent surveyor to assess the extent of damage and cost of repair, as this may lead to a lower repair cost. He also submitted for a fine to be imposed.[^27]
 
 ## THE SENTENCE
 
-42     As noted in \[40\] above, in six out of the seven cases cited in the Prosecution’s table of sentencing precedents, fines were imposed. In the only case where a sentence of one week imprisonment term was imposed by the High Court after an appeal,[\[note: 28\]](#Ftn_28) the facts of that case showed that substantial violence was used by the offender, in that there was a fight at first and the offender then went on to use a bamboo stick to smash the headlight of the victim’s car. In my judgment, the substantial violence used in that case constituted a significant aggravating factor which warranted a short custodial sentence being imposed. In the present case, although the damage caused was high, none of the above substantial violence was found in the facts. Further, in my judgment, the mere fact that an accused person was found guilty after a full trial, without more, should generally not result in a more serious sentence of a _different nature_ being imposed, than the appropriate sentence that would have been imposed had the accused person pleaded guilty. It should generally result in an accused person losing the usual discount in sentencing that would have been imposed had the accused person pleaded guilty.
+42     As noted in \[40\] above, in six out of the seven cases cited in the Prosecution’s table of sentencing precedents, fines were imposed. In the only case where a sentence of one week imprisonment term was imposed by the High Court after an appeal,[^28] the facts of that case showed that substantial violence was used by the offender, in that there was a fight at first and the offender then went on to use a bamboo stick to smash the headlight of the victim’s car. In my judgment, the substantial violence used in that case constituted a significant aggravating factor which warranted a short custodial sentence being imposed. In the present case, although the damage caused was high, none of the above substantial violence was found in the facts. Further, in my judgment, the mere fact that an accused person was found guilty after a full trial, without more, should generally not result in a more serious sentence of a _different nature_ being imposed, than the appropriate sentence that would have been imposed had the accused person pleaded guilty. It should generally result in an accused person losing the usual discount in sentencing that would have been imposed had the accused person pleaded guilty.
 
-43     In the Prosecution’s table of sentencing precedents, the facts in _PP v Zaidi Bin Ali[\[note: 29\]](#Ftn_29)_ were similar to the present case: there was also a dispute over a parking lot between the offender and the victim, with the victim eventually parking in the disputed lot. The offender pleaded guilty to causing a 40 cm scratch mark at the rear right fender of the victim’s car. The cost of the repair was $2354 and the offender made a restitution of $1000 to the victim. The offender was fined $4500. Given that the Accused in the present case was found guilty after a full trial and the damage caused was much higher at $$7395.14, with no restitution having been made by the Accused, I imposed a higher fine of $8,000 on the Accused, in default eight weeks’ imprisonment.
+43     In the Prosecution’s table of sentencing precedents, the facts in _PP v Zaidi Bin Ali[^29]_ were similar to the present case: there was also a dispute over a parking lot between the offender and the victim, with the victim eventually parking in the disputed lot. The offender pleaded guilty to causing a 40 cm scratch mark at the rear right fender of the victim’s car. The cost of the repair was $2354 and the offender made a restitution of $1000 to the victim. The offender was fined $4500. Given that the Accused in the present case was found guilty after a full trial and the damage caused was much higher at $$7395.14, with no restitution having been made by the Accused, I imposed a higher fine of $8,000 on the Accused, in default eight weeks’ imprisonment.
 
 44     I also considered it appropriate that the Accused should compensate the Complainant for the repair cost incurred as it was a direct consequence of the Accused’s offence. In the circumstances, I made a compensation order against the Accused under section 359 of the Criminal Procedure Code (Cap 68) for her to pay the repair cost of $7395.14 to the Complainant, in default seven weeks’ imprisonment.
 
@@ -170,63 +171,63 @@ iii.     The value of the damage sustained by the Complainant was high: $73
 
 * * *
 
-[\[note: 1\]](#Ftn_1_1)PW1
+[^1]: PW1
 
-[\[note: 2\]](#Ftn_2_1)SDS 3355J
+[^2]: SDS 3355J
 
-[\[note: 3\]](#Ftn_3_1)See photographs from P9 to P12.
+[^3]: See photographs from P9 to P12.
 
-[\[note: 4\]](#Ftn_4_1)Kevin Wong (PW3)
+[^4]: Kevin Wong (PW3)
 
-[\[note: 5\]](#Ftn_5_1)P15
+[^5]: P15
 
-[\[note: 6\]](#Ftn_6_1)P14
+[^6]: P14
 
-[\[note: 7\]](#Ftn_7_1)P16.
+[^7]: P16.
 
-[\[note: 8\]](#Ftn_8_1)The Complainant then marked where she claimed was the correct location of Exit B in P13 with a triangle, denoting it as “Exit B”. Exit B can also be seen in P25, where it was marked as “Exit B” by the Court. The Complainant’s car was parked in a lot on the right side of the picture and the Accused’s car was parked in a lot opposite the Complainant’s car to the left. where she claimed
+[^8]: The Complainant then marked where she claimed was the correct location of Exit B in P13 with a triangle, denoting it as “Exit B”. Exit B can also be seen in P25, where it was marked as “Exit B” by the Court. The Complainant’s car was parked in a lot on the right side of the picture and the Accused’s car was parked in a lot opposite the Complainant’s car to the left. where she claimed
 
-[\[note: 9\]](#Ftn_9_1)The Complainant further added that lift B was also erroneously drawn by the IO in P13. She then marked where she claimed was the correct location of lift B in P13 with a triangle, denoting it as “lift B”. The relative positions of the parking lot in which the Complainant’s car was parked on that day (5th lot from the right), staircase at Exit B (to the right of the picture) and lift B (to the left of the picture) can be seen in P28.
+[^9]: The Complainant further added that lift B was also erroneously drawn by the IO in P13. She then marked where she claimed was the correct location of lift B in P13 with a triangle, denoting it as “lift B”. The relative positions of the parking lot in which the Complainant’s car was parked on that day (5th lot from the right), staircase at Exit B (to the right of the picture) and lift B (to the left of the picture) can be seen in P28.
 
-[\[note: 10\]](#Ftn_10_1)PW 5 (Sri Widayati)
+[^10]: PW 5 (Sri Widayati)
 
-[\[note: 11\]](#Ftn_11_1)Notes of Evidence (NE), Day 4 at page 22 ln 1 to 15
+[^11]: Notes of Evidence (NE), Day 4 at page 22 ln 1 to 15
 
-[\[note: 12\]](#Ftn_12_1)As shown in P27
+[^12]: As shown in P27
 
-[\[note: 13\]](#Ftn_13_1)As shown in P25, on the left.
+[^13]: As shown in P25, on the left.
 
-[\[note: 14\]](#Ftn_14_1)NE, Day 4 at page 77 ln 6 to 10
+[^14]: NE, Day 4 at page 77 ln 6 to 10
 
-[\[note: 15\]](#Ftn_15_1)NE, Day 4 at page 80 ln 6 to page 81 ln 23
+[^15]: NE, Day 4 at page 80 ln 6 to page 81 ln 23
 
-[\[note: 16\]](#Ftn_16_1)D3
+[^16]: D3
 
-[\[note: 17\]](#Ftn_17_1)NE, Day 4 at page 91 ln 22 to page 92 ln 8
+[^17]: NE, Day 4 at page 91 ln 22 to page 92 ln 8
 
-[\[note: 18\]](#Ftn_18_1)NE, Day 4 at page 93 ln 7 to page 94 ln 27
+[^18]: NE, Day 4 at page 93 ln 7 to page 94 ln 27
 
-[\[note: 19\]](#Ftn_19_1)NE, Day 4 at page 95 ln 26 to page 96 ln 1
+[^19]: NE, Day 4 at page 95 ln 26 to page 96 ln 1
 
-[\[note: 20\]](#Ftn_20_1)_Took Leng How v PP_ \[2006\] 2 SLR (R) 70 at \[27\]
+[^20]: _Took Leng How v PP_ \[2006\] 2 SLR (R) 70 at \[27\]
 
-[\[note: 21\]](#Ftn_21_1)_Ibid._
+[^21]: _Ibid._
 
-[\[note: 22\]](#Ftn_22_1)NE, Day 4 at page 50 ln 32 to page 51 ln 5
+[^22]: NE, Day 4 at page 50 ln 32 to page 51 ln 5
 
-[\[note: 23\]](#Ftn_23_1)\[51\] of the Defence’s Closing Submissions. It was the evidence of the Investigations Officer Matthias Aw (PW6) (“IO”) that from the time when the Complainant parked her car, when the car was switched from driving mode to parking mode, there was a “jump” in the video footage whereby there was a gap of about 44 seconds during which there were no footages recorded, from 10.00.29 am to 10.01.13 a.m. The IO reasoned that the “jump” could be due to the driving mode of the car being switched to parking mode from driving mode when the Complainant drove and parked the car. (See NE Day 3 at page 23 ln 6 to page 25 ln 5)
+[^23]: \[51\] of the Defence’s Closing Submissions. It was the evidence of the Investigations Officer Matthias Aw (PW6) (“IO”) that from the time when the Complainant parked her car, when the car was switched from driving mode to parking mode, there was a “jump” in the video footage whereby there was a gap of about 44 seconds during which there were no footages recorded, from 10.00.29 am to 10.01.13 a.m. The IO reasoned that the “jump” could be due to the driving mode of the car being switched to parking mode from driving mode when the Complainant drove and parked the car. (See NE Day 3 at page 23 ln 6 to page 25 ln 5)
 
-[\[note: 24\]](#Ftn_24_1)NE Day 5 at page 6 ln 1 to page 7 ln 2
+[^24]: NE Day 5 at page 6 ln 1 to page 7 ln 2
 
-[\[note: 25\]](#Ftn_25_1)S/n 2 to 7 of the table.
+[^25]: S/n 2 to 7 of the table.
 
-[\[note: 26\]](#Ftn_26_1)S/n 1 of the table- _Fred Khoo Chin Chye v PP._
+[^26]: S/n 1 of the table- _Fred Khoo Chin Chye v PP._
 
-[\[note: 27\]](#Ftn_27_1)NE Day 5 at page 10 ln 1 to page 14 ln 3
+[^27]: NE Day 5 at page 10 ln 1 to page 14 ln 3
 
-[\[note: 28\]](#Ftn_28_1)S/n 1 of the table- _Fred Khoo Chin Chye v PP_
+[^28]: S/n 1 of the table- _Fred Khoo Chin Chye v PP_
 
-[\[note: 29\]](#Ftn_29_1)S/n.7 of the table
+[^29]: S/n.7 of the table
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F23023-SSP.xml)

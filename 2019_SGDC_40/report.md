@@ -1,3 +1,4 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
 # Public Prosecutor _v_ Tay Teok Choon  
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">DAC 914510 of 2018</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">04 March 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Luke Tan</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Deputy Public Prosecutor, Ms Claire Poh for the Public Prosecution; The Accused in person</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Tay Teok Choon</td></tr></tbody></table>
@@ -44,9 +45,9 @@
 
 10     SSS Tan stated that no interpreter was used as neither the Accused nor he had problems understanding each other. SSS Tan also described the Accused as looking okay during the statement recording process, and that the contents of P1 came from the Accused himself. SSS Tan confirmed that he did not know the Accused personally, nor did he have any previous dealing with him. He denied the Accused’s allegation that part of the contents of P1 was provided by SSS Tan, rather than from the Accused alone. SSS Tan also denied that he had mentioned the word “mitigation” to the Accused during the recording process.
 
-11     When it was his turn to testify, the Accused admitted that there had been no threat, inducement or promise made to him, nor was he put under any form of oppression[\[note: 1\]](#Ftn_1). However, he claimed that SSS Tan had told him that the statement was recorded for purposes of mitigation in court, although the Accused initially also said that he had not told SSS Tan anything during the statement recording. The Accused further claimed that SSS Tan’s Mandarin was not fluent, and added that some of his (the Accused’s) words were not recorded, before again claiming that he had not said anything to SSS Tan[\[note: 2\]](#Ftn_2). In addition, the Accused said that he had signed on the statement because SSS Tan had told that it was a mitigation letter. Finally, the Accused said that if he had indeed consumed drugs, he would have absconded.
+11     When it was his turn to testify, the Accused admitted that there had been no threat, inducement or promise made to him, nor was he put under any form of oppression[^1]. However, he claimed that SSS Tan had told him that the statement was recorded for purposes of mitigation in court, although the Accused initially also said that he had not told SSS Tan anything during the statement recording. The Accused further claimed that SSS Tan’s Mandarin was not fluent, and added that some of his (the Accused’s) words were not recorded, before again claiming that he had not said anything to SSS Tan[^2]. In addition, the Accused said that he had signed on the statement because SSS Tan had told that it was a mitigation letter. Finally, the Accused said that if he had indeed consumed drugs, he would have absconded.
 
-12     However, under cross-examination, the Accused admitted that the “Notice of Warning” on P1 had been read to him. Further, he had signed on P1 voluntarily, had written his own NRIC down, and that he had been informed (and understood) that he was facing a LT-1 charge with a minimum imprisonment term of 5 years’ imprisonment. While initially still insisting that he had never said to SSS Tan what was written down on P1, the Accused later admitted that he had told PW1 that his brother had committed suicide and that he was depressed[\[note: 3\]](#Ftn_3). This was in fact what SSS Tan recorded in P1. Nevertheless, the Accused claimed that he had not stated the rest of what was written on P1. Specially, the Accused denied saying to SSS Tan the words “I plead for leniency and ask for a lighter sentence”, which appeared before the sentence about his brother committing suicide, nor had he allegedly said the sentences that appeared after this sentence (i.e. the words “I admit that I have consumed heroin. I have only elapsed back to drug less than one month ago”).
+12     However, under cross-examination, the Accused admitted that the “Notice of Warning” on P1 had been read to him. Further, he had signed on P1 voluntarily, had written his own NRIC down, and that he had been informed (and understood) that he was facing a LT-1 charge with a minimum imprisonment term of 5 years’ imprisonment. While initially still insisting that he had never said to SSS Tan what was written down on P1, the Accused later admitted that he had told PW1 that his brother had committed suicide and that he was depressed[^3]. This was in fact what SSS Tan recorded in P1. Nevertheless, the Accused claimed that he had not stated the rest of what was written on P1. Specially, the Accused denied saying to SSS Tan the words “I plead for leniency and ask for a lighter sentence”, which appeared before the sentence about his brother committing suicide, nor had he allegedly said the sentences that appeared after this sentence (i.e. the words “I admit that I have consumed heroin. I have only elapsed back to drug less than one month ago”).
 
 13     The Accused, however, admitted that he had not met SSS Tan prior to the recording of his statement, nor had they any prior dealings.
 
@@ -64,7 +65,7 @@
 
 ## (3)   Procurement of the Accused’s urine specimens
 
-16     PW2 Station Inspector Edmund Lim Chin Tat (“SI Edmund”) testified the Accused was arrested by a team of CNB officers at about 12.40 pm on the 12/3/2018, at the lift lobby of Block 3 Jalan Bukit Merah. This occurred after they had found the Accused looking suspicious as he had a “drug addict’s cutting” and demeanour, including having a shrunken face. The officers had screened the Accused and discovered that he had a history of drug offences. A bottle of Procodin was found in the Accused’s possession, together with the Accused’s mobile phone. The Accused was then brought back to Tanglin Police Division, together with his bottle of Procodin[\[note: 4\]](#Ftn_4).
+16     PW2 Station Inspector Edmund Lim Chin Tat (“SI Edmund”) testified the Accused was arrested by a team of CNB officers at about 12.40 pm on the 12/3/2018, at the lift lobby of Block 3 Jalan Bukit Merah. This occurred after they had found the Accused looking suspicious as he had a “drug addict’s cutting” and demeanour, including having a shrunken face. The officers had screened the Accused and discovered that he had a history of drug offences. A bottle of Procodin was found in the Accused’s possession, together with the Accused’s mobile phone. The Accused was then brought back to Tanglin Police Division, together with his bottle of Procodin[^4].
 
 17     According to PW3 Sergeant Loh Kok Kiang (“Sgt Loh”), the Accused was then escorted to the toilet to procure his urine specimen in a master bottle. The urine was then poured from the master bottle to two smaller bottles, and the remaining urine in the master bottle was siphoned into a test tube by the Instant Urine Test (IUT) operator, PW4 Staff Sergeant Tan Yan Ping (“SSgt Tan”), and then tested with the IUT machine. The two smaller bottles with the Accused’s urine were then temporarily sealed in a Ziploc bag and handed to the Accused. When the Accused’s urine was tested positive for benzopdiazepines and opiates using the IUT machine (see P5), the two smaller bottles were removed from the Ziploc bag and they were sealed with HSA labels bearing the Accused’s name, signature, NRIC number and the HSA marking number. Scotch tape was pasted on the HSA label. Sgt Loh said that it was not possible to open the two bottles without breaking the labels pasted on each bottle.
 
@@ -85,13 +86,13 @@
 
 22     In his testimony, Mr Ong also explained that he had conducted a preparatory test and a subsequent confirmation test, and had sent his results to a senior analyst. This was done independently of Ms Zhang’s analysis which was also reviewed by the senior analyst. There were no issues with the review, and hence both of them had issued their respective certificates. Mr Ong explained that an issue would have been raised when the variance in both results crossed a 20% threshold but that this had not happened in this case.
 
-23     In court, both analysts also stated that if someone had consumed monoacetylmorphine, this would also give rise to monoacetylmorphine in the urine, although the presence of monoacetylmorphine usually came from heroin or diamorphine, which degrades to monoacetylmorphine in a person’s body and is then detected in his urine[\[note: 5\]](#Ftn_5).
+23     In court, both analysts also stated that if someone had consumed monoacetylmorphine, this would also give rise to monoacetylmorphine in the urine, although the presence of monoacetylmorphine usually came from heroin or diamorphine, which degrades to monoacetylmorphine in a person’s body and is then detected in his urine[^5].
 
-24     In addition, Ms Zhang also said that the monoacetylmorphine in the urine specimen could also be due to consumption of an exhibit which contains both diamorphine and monoacetylmorphine[\[note: 6\]](#Ftn_6). Further, she stated that it is difficult to detect diamorphine in the urine as it this almost immediately metabolises into monoacetylmorphine. The latter, however, could be detected in the urine about 1 to 24 hours after consumption. The monoacetylmorphine would then further metabolise into morphine which could be detected in the urine about 1 to 3 days after consumption.[\[note: 7\]](#Ftn_7)
+24     In addition, Ms Zhang also said that the monoacetylmorphine in the urine specimen could also be due to consumption of an exhibit which contains both diamorphine and monoacetylmorphine[^6]. Further, she stated that it is difficult to detect diamorphine in the urine as it this almost immediately metabolises into monoacetylmorphine. The latter, however, could be detected in the urine about 1 to 24 hours after consumption. The monoacetylmorphine would then further metabolise into morphine which could be detected in the urine about 1 to 3 days after consumption.[^7]
 
-25     Mr Ong also confirmed that aside from the consumption of diamorphine, the consumption of monoacetlymorphine itself could give rise to monoacetylmorphine in the urine. However, in terms of pharmaceutical products, he was not aware of any pharmaceutical product that contains monoacetylmorphine. [\[note: 8\]](#Ftn_8)
+25     Mr Ong also confirmed that aside from the consumption of diamorphine, the consumption of monoacetlymorphine itself could give rise to monoacetylmorphine in the urine. However, in terms of pharmaceutical products, he was not aware of any pharmaceutical product that contains monoacetylmorphine. [^8]
 
-26     Importantly, both Ms Zhang and Mr Ong also confirmed that consumption of Procodin would not give rise to monoacetylmorphine in the Accused’s urine. [\[note: 9\]](#Ftn_9)
+26     Importantly, both Ms Zhang and Mr Ong also confirmed that consumption of Procodin would not give rise to monoacetylmorphine in the Accused’s urine. [^9]
 
 27     Based on the evidence adduced, it was clear that at the end of the Prosecution’s case, there was some evidence, not inherently incredible which, if accepted, would prove each and every element of the charge. The Accused was thus called upon to enter his defence.
 
@@ -99,23 +100,23 @@
 
 28     The Accused elected to give evidence. He also called a CNB officer, DW2 Staff Sergeant Ang Xin Wei (“SSgt Ang”), to testify for the Defence.
 
-29     In essence, the Accused claimed that the HSA certificates showed that he had consumed two kinds of drugs. He also took issue with the testimonies of the HSA analysts that diamorphine had “become monoacetylmorphine”, which was detected in his urine specimens. He claimed that the analysts had not specified which drug he had consumed, and that “…. people are rarely being caught for monoacetylmorphine, even for capital punishment. It’s either---it’s for morphine and diamorphine. Their report does not show monoacetylmorphine.” [\[note: 10\]](#Ftn_10) In addition, the Accused denied having consumed any drug, and insisted that the last time he did so was in 1997. Further, the Accused said that if he had indeed consumed drugs, he would have pleaded guilty and not claimed trial. He was also unhappy that the CNB officers had arrested him and taken the Procodin found on him.
+29     In essence, the Accused claimed that the HSA certificates showed that he had consumed two kinds of drugs. He also took issue with the testimonies of the HSA analysts that diamorphine had “become monoacetylmorphine”, which was detected in his urine specimens. He claimed that the analysts had not specified which drug he had consumed, and that “…. people are rarely being caught for monoacetylmorphine, even for capital punishment. It’s either---it’s for morphine and diamorphine. Their report does not show monoacetylmorphine.” [^10] In addition, the Accused denied having consumed any drug, and insisted that the last time he did so was in 1997. Further, the Accused said that if he had indeed consumed drugs, he would have pleaded guilty and not claimed trial. He was also unhappy that the CNB officers had arrested him and taken the Procodin found on him.
 
-30     When asked whether he could suggest any reason why monoacetylmorphine was found in his urine specimens, the Accused was unable to explain, other than saying that he would not know how the HSA analysts had carried out their analysis. He added that “I’m not saying that they are wrong, or they are bad. I’ve never seen this drug before and neither have I consume it.”[\[note: 11\]](#Ftn_11) The Accused further argued that the analysts could not provide any proof to substantiate their conclusions, other than their own oral evidence. When specifically asked to elaborate on the nature of his disagreement with the analysts’ conclusions, the Accused could only say that “…the report is incorrect. That’s my basis….” and “There’s no point for me to say anything further.”[\[note: 12\]](#Ftn_12)
+30     When asked whether he could suggest any reason why monoacetylmorphine was found in his urine specimens, the Accused was unable to explain, other than saying that he would not know how the HSA analysts had carried out their analysis. He added that “I’m not saying that they are wrong, or they are bad. I’ve never seen this drug before and neither have I consume it.”[^11] The Accused further argued that the analysts could not provide any proof to substantiate their conclusions, other than their own oral evidence. When specifically asked to elaborate on the nature of his disagreement with the analysts’ conclusions, the Accused could only say that “…the report is incorrect. That’s my basis….” and “There’s no point for me to say anything further.”[^12]
 
 31     As for his cautioned statement (P1), the Accused stated that he had told SSS Tan about his brother’s suicide and about him (the Accused) feeling sad and having depression. This was what SSS Tan had written in P1. In addition, the Accused denied that he had told SSS Tan that he had consumed drugs. The Accused added that if he had indeed consumed drugs, he would not have gone for his urine test on 18th April 2018. As for his signature that appeared on P1, the Accused claimed that when P1 was handed to him by SSS Tan, it was folded and he (the Accused) had not read it when he signed it.
 
-32     The Accused also claimed that while he was able to see, read and understand the four sentences that were recorded by SSS Tan in P1, which were allegedly his own words, he “did not pay attention to what was written” [\[note: 13\]](#Ftn_13). He insisted that of the four sentences, only the second sentence (“My brother had committed suicide and I’m very sad, I have a depression”), which was found in the middle of the entire paragraph, came from him. The Accused was, however, not able to say why SSS Tan had included the other three (incriminating) sentences in the same paragraph that allegedly did not come from the Accused. In addition, the Accused insisted that he was told to sign the statement, and he signed it accordingly[\[note: 14\]](#Ftn_14). Further, despite the fact that “Notice of Warning” in P1 had been read to him, the Accused admitted that he did not tell SSS Tan that he was innocent and that he did not consume monoacetylmorphine.[\[note: 15\]](#Ftn_15)
+32     The Accused also claimed that while he was able to see, read and understand the four sentences that were recorded by SSS Tan in P1, which were allegedly his own words, he “did not pay attention to what was written” [^13]. He insisted that of the four sentences, only the second sentence (“My brother had committed suicide and I’m very sad, I have a depression”), which was found in the middle of the entire paragraph, came from him. The Accused was, however, not able to say why SSS Tan had included the other three (incriminating) sentences in the same paragraph that allegedly did not come from the Accused. In addition, the Accused insisted that he was told to sign the statement, and he signed it accordingly[^14]. Further, despite the fact that “Notice of Warning” in P1 had been read to him, the Accused admitted that he did not tell SSS Tan that he was innocent and that he did not consume monoacetylmorphine.[^15]
 
 33     The Accused also produced his long statement (D1) which was recorded by SSgt Ang, on 18th of April 2018, at about 11:00am. This was recorded about 5 hours before his cautioned statement P1 was recorded. In D1, there were references to two certificates that were shown to the Accused by SSgt Ang during the recording of D1. While the laboratory report number of one of the certificates recorded in D1 corresponded to the laboratory report (P7) issued by Ms Zhang, the laboratory number of the other certificate that was recorded by SSgt Ang in D1 (“AT-1833-02741-002-01”), did not correspond with the laboratory number (“AT-1833-2488-002-01”) found on the HSA certificate (P8) produced by Mr Ong.
 
-34     The Accused thus insisted on calling SSgt Ang to testify, as he claimed that someone had doctored his urine specimen that was analysed by HSA. In any event, the Accused said that for the certificates that SSgt Ang had shown to him when she was recording D1, he did not take note of the particulars written on the certificates. Instead, he only noticed that the certificates stated that “monoacetylmorphine was detected”. [\[note: 16\]](#Ftn_16)
+34     The Accused thus insisted on calling SSgt Ang to testify, as he claimed that someone had doctored his urine specimen that was analysed by HSA. In any event, the Accused said that for the certificates that SSgt Ang had shown to him when she was recording D1, he did not take note of the particulars written on the certificates. Instead, he only noticed that the certificates stated that “monoacetylmorphine was detected”. [^16]
 
-35     When SSgt Ang took the stand, she admitted that she had wrongly recorded the laboratory number of one of the certificates that she had shown to the Accused when she recorded D1. She testified that she had actually showed P7 and P8 to him when she recorded D1, and that there was in fact no certificate with laboratory number “1833-02741-002-01” even though this was the laboratory number of the certificate recorded on D1. SSgt Ang explained that there had been a typographical error in D1, in that she had wrongly recorded the laboratory number of one of the certificates that she had showed to the Accused as having laboratory number “1833-02741-002-01”.[\[note: 17\]](#Ftn_17)
+35     When SSgt Ang took the stand, she admitted that she had wrongly recorded the laboratory number of one of the certificates that she had shown to the Accused when she recorded D1. She testified that she had actually showed P7 and P8 to him when she recorded D1, and that there was in fact no certificate with laboratory number “1833-02741-002-01” even though this was the laboratory number of the certificate recorded on D1. SSgt Ang explained that there had been a typographical error in D1, in that she had wrongly recorded the laboratory number of one of the certificates that she had showed to the Accused as having laboratory number “1833-02741-002-01”.[^17]
 
 ## (6)   Rebuttal evidence from PW9 Mr Muhd Thobraani Mohd Soom (“IO Thobraani”),
 
-36     SSgt Ang’s evidence - that she had wrongly recorded the laboratory number of one of the certificates in D1 that she showed to the Accused - was corroborated by the evidence of the investigating officer, PW9 Mr Muhd Thobraani Mohd Soom (“IO Thobraani”). IO Thobraani confirmed that the certificate with the laboratory number “AT-1833-02741-002-01” that was recorded in D1 (which was purportedly shown by SSgt Ang to the Accused) does not even exist. [\[note: 18\]](#Ftn_18) Instead, there was only a HSA certificate with a laboratory number “AT-1833-02741-002-**03**” that had a similar reference number to “AT-1833-02741-002-**01**”. However, this certificate (with laboratory number “AT-1833-02741-002-**03**”) was actually issued for another accused person ‘Maula Bin Ibrahim’.
+36     SSgt Ang’s evidence - that she had wrongly recorded the laboratory number of one of the certificates in D1 that she showed to the Accused - was corroborated by the evidence of the investigating officer, PW9 Mr Muhd Thobraani Mohd Soom (“IO Thobraani”). IO Thobraani confirmed that the certificate with the laboratory number “AT-1833-02741-002-01” that was recorded in D1 (which was purportedly shown by SSgt Ang to the Accused) does not even exist. [^18] Instead, there was only a HSA certificate with a laboratory number “AT-1833-02741-002-**03**” that had a similar reference number to “AT-1833-02741-002-**01**”. However, this certificate (with laboratory number “AT-1833-02741-002-**03**”) was actually issued for another accused person ‘Maula Bin Ibrahim’.
 
 37     To corroborate his evidence, IO Thobraani produced two certificates, P9 and P10 which had been issued in connection with the urine tests for another accused person ‘Maula Bin Ibrahim’. P9 was the certificate with laboratory number “AT-1833-02741-001-**03**,” whilst P10 was the certificate with laboratory number “AT-1833-02741-002-**03**”. It is relevant to note that the two certificates (P9 and P10), which were issued for ‘Maula Bin Ibrahim’, had stated that methamphetamine (not “monoacetylmorphine”) was detected in the urine specimens.
 
@@ -155,7 +156,7 @@ shall be admitted in evidence, in any proceedings for an offence under this Act,
 
 “I had previously in _Vadugaiah Mahendran v PP_ held that the statutory presumption in s 22 was twofold in that proof of the primary fact by the Prosecution, i.e. a controlled drug was found in the urine as a result of both urine tests in s 31, triggered the actus reus of consumption and the mens rea required for the offence. **The burden of proof hence fell upon the Defence who would have to disprove either element on a balance of probabilities. It was insufficient if the appellant merely raised a reasonable doubt.**” (emphasis added)
 
-45     Similarly, the Court of Appeal in _Mohammad Ashik_ also affirmed the position that “…the s 22 presumption will operate to presume that the accused person has, in contravention of s 8(b), consumed the controlled drug detected in his urine specimens. **This means that both the actus reus and the mens rea of the s 8(b) offence are presumed by s 22...**[\[note: 19\]](#Ftn_19)”. (emphasis added)
+45     Similarly, the Court of Appeal in _Mohammad Ashik_ also affirmed the position that “…the s 22 presumption will operate to presume that the accused person has, in contravention of s 8(b), consumed the controlled drug detected in his urine specimens. **This means that both the actus reus and the mens rea of the s 8(b) offence are presumed by s 22...**[^19]”. (emphasis added)
 
 46     On the evidence adduced in court, I was satisfied that the analyses were carried out in compliance with section 31(4)(b) of the MDA in that:
 
@@ -242,7 +243,7 @@ shall be admitted in evidence, in any proceedings for an offence under this Act,
 
 68     Moving on to the specific punishment, the possible sentence ranged from the mandatory minimum of 5 years up to a maximum of 7 years imprisonment, with a possibility of an additional term of imprisonment of up to 12 months imprisonment in lieu of the mandatory caning that could not be imposed because of his age.
 
-69     In deciding on his sentence, I noted that many of the same factors that applied to the present Accused (see \[67\] above), were also considered in sentencing by the High Court in _Nandakishor s/o Raj Pat Ahir v PP_ (“_Nandakishor_”). While that case involved an offender who was convicted of an LT-2 consumption charge (also for consumption of monoacetylmorphine)[\[note: 20\]](#Ftn_20), the guidance provided by Tay Yong Kwang J (as he then was) on the relevance of these same factors was nonetheless relevant to deciding the appropriate sentence in the present case. In this regard, in dismissing the appeal against sentence in _Nandakishor_, Tay J had stated at \[24\]:
+69     In deciding on his sentence, I noted that many of the same factors that applied to the present Accused (see \[67\] above), were also considered in sentencing by the High Court in _Nandakishor s/o Raj Pat Ahir v PP_ (“_Nandakishor_”). While that case involved an offender who was convicted of an LT-2 consumption charge (also for consumption of monoacetylmorphine)[^20], the guidance provided by Tay Yong Kwang J (as he then was) on the relevance of these same factors was nonetheless relevant to deciding the appropriate sentence in the present case. In this regard, in dismissing the appeal against sentence in _Nandakishor_, Tay J had stated at \[24\]:
 
 “In my view, with the Appellant’s drug-related antecedents dating back to 1994 (when he was convicted by a military court) and in the absence of mitigating factors in his favour, it can hardly be said that an imprisonment term of six months above the mandatory minimum sentence prescribed by the MDA is manifestly excessive”.
 
@@ -258,45 +259,45 @@ shall be admitted in evidence, in any proceedings for an offence under this Act,
 
 * * *
 
-[\[note: 1\]](#Ftn_1_1)Notes of Evidence (NE) dated 2 January 2019 at page 21-22
+[^1]: Notes of Evidence (NE) dated 2 January 2019 at page 21-22
 
-[\[note: 2\]](#Ftn_2_1)NE dated 2 January 2019 at page 23
+[^2]: NE dated 2 January 2019 at page 23
 
-[\[note: 3\]](#Ftn_3_1)NE dated 2 January 2019 at page 31-32
+[^3]: NE dated 2 January 2019 at page 31-32
 
-[\[note: 4\]](#Ftn_4_1)According to PW6 Staff Sergeant Silvanus Kolandy, the bottle of Procodin was not seized and was believed to have been returned to the Accused after he was released on bail
+[^4]: According to PW6 Staff Sergeant Silvanus Kolandy, the bottle of Procodin was not seized and was believed to have been returned to the Accused after he was released on bail
 
-[\[note: 5\]](#Ftn_5_1)NE dated 2 January 2019 at page 83, 96-97
+[^5]: NE dated 2 January 2019 at page 83, 96-97
 
-[\[note: 6\]](#Ftn_6_1)NE dated 2 January 2019 at page 83-86
+[^6]: NE dated 2 January 2019 at page 83-86
 
-[\[note: 7\]](#Ftn_7_1)NE dated 2 January 2019 at page 88
+[^7]: NE dated 2 January 2019 at page 88
 
-[\[note: 8\]](#Ftn_8_1)NE dated 2 January 2019 at page 102
+[^8]: NE dated 2 January 2019 at page 102
 
-[\[note: 9\]](#Ftn_9_1)NE dated 2 January 2019 at page 81, 96
+[^9]: NE dated 2 January 2019 at page 81, 96
 
-[\[note: 10\]](#Ftn_10_1)NE dated 3 January 2019 at page 8-9
+[^10]: NE dated 3 January 2019 at page 8-9
 
-[\[note: 11\]](#Ftn_11_1)NE dated 3 January 2019 at page 17
+[^11]: NE dated 3 January 2019 at page 17
 
-[\[note: 12\]](#Ftn_12_1)NE dated 3 January 2019 at page 20
+[^12]: NE dated 3 January 2019 at page 20
 
-[\[note: 13\]](#Ftn_13_1)NE dated 3 January 2019 at page 23-24
+[^13]: NE dated 3 January 2019 at page 23-24
 
-[\[note: 14\]](#Ftn_14_1)NE dated 3 January 2019 at page 22-23, 26
+[^14]: NE dated 3 January 2019 at page 22-23, 26
 
-[\[note: 15\]](#Ftn_15_1)NE dated 3 January 2019 at page 27-28
+[^15]: NE dated 3 January 2019 at page 27-28
 
-[\[note: 16\]](#Ftn_16_1)NE dated 3 January 2019 at page 43
+[^16]: NE dated 3 January 2019 at page 43
 
-[\[note: 17\]](#Ftn_17_1)NE dated 3 January 2019 at page 51-52
+[^17]: NE dated 3 January 2019 at page 51-52
 
-[\[note: 18\]](#Ftn_18_1)NE dated 3 January 2019 at page 55-56
+[^18]: NE dated 3 January 2019 at page 55-56
 
-[\[note: 19\]](#Ftn_19_1)At \[10\] of the judgment
+[^19]: At \[10\] of the judgment
 
-[\[note: 20\]](#Ftn_20_1)He was sentenced to seven years and six months’ imprisonment and six strokes of the cane
+[^20]: He was sentenced to seven years and six months’ imprisonment and six strokes of the cane
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F22897-SSP.xml)

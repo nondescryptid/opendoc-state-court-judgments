@@ -1,3 +1,4 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
 # Public Prosecutor _v_ Theo Teo Leng  
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">DAC-918447-2018 &amp; DAC-918448-2018</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">15 May 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Kessler Soh</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">DPP Shana Poon (Attorney-General's Chambers) for the Prosecution; Defendant in person.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Theo Teo Leng</td></tr></tbody></table>
@@ -36,7 +37,7 @@ You \[...\] are charged that you, on or before the 17th day of May 2018, in Sing
 
 6       The defendant was arrested on 17 May 2018 at about 11.30 pm.
 
-7       Two of the police officers involved in the arrest were Sergeant Muhammad Fitri Bin Abdul Latif (PW2) and Sergeant Jonathan Lim Zi Xuan (PW3). They testified[\[note: 1\]](#Ftn_1) that at that time they were patrolling along Siglap Road in a patrol car when they spotted the defendant and a lady outside 578 Siglap Road, behind a bush. The officers stopped the car and alighted to conduct a spot-check. They screened the defendant and the lady and discovered that both had antecedents for drug offences. The officers proceeded to conduct a search. The lady’s handbag was searched, and a utensil for drug consumption was found inside the bag.
+7       Two of the police officers involved in the arrest were Sergeant Muhammad Fitri Bin Abdul Latif (PW2) and Sergeant Jonathan Lim Zi Xuan (PW3). They testified[^1] that at that time they were patrolling along Siglap Road in a patrol car when they spotted the defendant and a lady outside 578 Siglap Road, behind a bush. The officers stopped the car and alighted to conduct a spot-check. They screened the defendant and the lady and discovered that both had antecedents for drug offences. The officers proceeded to conduct a search. The lady’s handbag was searched, and a utensil for drug consumption was found inside the bag.
 
 8       At that point the defendant ran away, and the officers gave chase. They managed to stop the defendant, and he put up a struggle. The officers used necessary force to detain the defendant. Both officers suffered minor injuries, and the defendant was also injured. An ambulance was called. After the ambulance had attended to the defendant he was placed under arrest.
 
@@ -46,7 +47,7 @@ You \[...\] are charged that you, on or before the 17th day of May 2018, in Sing
 
 10     The defendant’s urine specimen was subsequently procured.
 
-11     Sergeant Ng Kok Wah Ken (PW4, “**Sgt Ken**”) was on duty at the lockup. He testified[\[note: 2\]](#Ftn_2) that on 18 May 2018, he escorted the defendant to procure a urine specimen. First he escorted the defendant to wash his hands. Then he brought the defendant to a room where the urine bottles were stocked. He asked the defendant to choose one master bottle with a red cap (from among more than ten such bottles) (the “**red bottle**”), and two bottles with blue caps (from among more than 20 such bottles) (the “**blue bottles**”). The bottles were all new, and each bottle was sealed inside a plastic bag.
+11     Sergeant Ng Kok Wah Ken (PW4, “**Sgt Ken**”) was on duty at the lockup. He testified[^2] that on 18 May 2018, he escorted the defendant to procure a urine specimen. First he escorted the defendant to wash his hands. Then he brought the defendant to a room where the urine bottles were stocked. He asked the defendant to choose one master bottle with a red cap (from among more than ten such bottles) (the “**red bottle**”), and two bottles with blue caps (from among more than 20 such bottles) (the “**blue bottles**”). The bottles were all new, and each bottle was sealed inside a plastic bag.
 
 12     Sgt Ken then led the defendant to a remand cell to procure the urine. The defendant opened the red bottle and provided his urine into it. After that he was asked to pour urine from the red bottle into the two blue bottles. The bottles were then capped, and Sgt Ken taped over them with masking tape to prevent leakage. The red bottle was placed inside a polymer bag; and the two blue bottles were placed inside another polymer bag. The defendant was then escorted to the temporary holding area.
 
@@ -54,7 +55,7 @@ You \[...\] are charged that you, on or before the 17th day of May 2018, in Sing
 
 13     An Instant Urine Test (“**IUT**”) was then conducted on the urine specimen.
 
-14     Station Inspector Lee Seng Kui (PW5, “**SI Lee**”) testified[\[note: 3\]](#Ftn_3) that he conducted the IUT on the defendant’s urine specimen. The defendant was holding on to his urine specimens. SI Lee took the polymer bag that contained the red bottle. He cut open the polymer bag and used a siphon to take urine from the bottle and transferred it into a test-tube. He labelled the test tube with the defendant’s name and NRIC number. The test tube was then put into the IUT machine and processed. The urine specimen tested positive for amphetamines and opiates. SI Lee printed out the IUT result slip (Exh P2).
+14     Station Inspector Lee Seng Kui (PW5, “**SI Lee**”) testified[^3] that he conducted the IUT on the defendant’s urine specimen. The defendant was holding on to his urine specimens. SI Lee took the polymer bag that contained the red bottle. He cut open the polymer bag and used a siphon to take urine from the bottle and transferred it into a test-tube. He labelled the test tube with the defendant’s name and NRIC number. The test tube was then put into the IUT machine and processed. The urine specimen tested positive for amphetamines and opiates. SI Lee printed out the IUT result slip (Exh P2).
 
 15     SI Lee also printed out two stickers bearing the name and NRIC number of the defendant. The defendant was asked to check the two stickers to verify that the details were correct. The defendant confirmed that they were correct and signed on each sticker. After that SI Lee took the polymer bag with the two blue bottles from the defendant. He cut the polymer bag and took out the two blue bottles, and taped around the two bottles with masking tape. He placed a sticker on each bottle, over the masking tape.
 
@@ -64,7 +65,7 @@ You \[...\] are charged that you, on or before the 17th day of May 2018, in Sing
 
 17     Later that day (18 May 2018) the locked metal container with the urine specimens was sent by CNB officer Staff Sergeant Low Chee Tong (PW6) to the HSA for analysis.
 
-18     The urine specimens were subsequently analysed separately by two analysts from the Analytical Toxicology Laboratory of the HSA, Zhang Huifen Hannah (PW10) and Chang Hian Twan (PW11) (the “**HSA analysts**”). Upon analysis, the defendant’s urine specimens were found to contain monoacetylmorphine and methamphetamine.[\[note: 4\]](#Ftn_4) The presence of monoacetylmorphine was consistent with the consumption of diamorphine or heroin; and the presence of methamphetamine was consistent with the consumption of ‘ice’ (street name for methamphetamine). The relevant certificates prepared by the two HSA analysts under s 16 of the MDA were admitted in evidence (Exhs P7, P8, P9 and P10).
+18     The urine specimens were subsequently analysed separately by two analysts from the Analytical Toxicology Laboratory of the HSA, Zhang Huifen Hannah (PW10) and Chang Hian Twan (PW11) (the “**HSA analysts**”). Upon analysis, the defendant’s urine specimens were found to contain monoacetylmorphine and methamphetamine.[^4] The presence of monoacetylmorphine was consistent with the consumption of diamorphine or heroin; and the presence of methamphetamine was consistent with the consumption of ‘ice’ (street name for methamphetamine). The relevant certificates prepared by the two HSA analysts under s 16 of the MDA were admitted in evidence (Exhs P7, P8, P9 and P10).
 
 19     The HSA analysts were also asked to comment on a list of medication prescribed to the defendant by the Tan Tock Seng Hospital in 2017. (The list of medication was set out in a medical report issued by the hospital dated 22 January 2019 – Exh P6). It was the unanimous opinion of both HSA analysts that consumption of the medication would not give rise to monoacetylmorphine or methamphetamine in the urine.
 
@@ -86,7 +87,7 @@ Presumption relating to urine test
 
 \[ _Emphasis_ added\]
 
-23     The statement was recorded by Sergeant (CNB) Guan Zhenfu (PW7, the “**recording officer**”). He testified[\[note: 5\]](#Ftn_5) that the statement was recorded on 18 May 2018 at around 11.20 am. He spoke to the defendant in Mandarin. The statement was typed in English. After the statement was recorded it was read back to the defendant in Mandarin. The defendant was given a chance to make any amendment, addition or deletion. There were amendments at paras 2, 5 and 7. The recording officer added that at para 2, the word “smoking” should not be there, but the cancellation had (inadvertently) not been made.[\[note: 6\]](#Ftn_6)
+23     The statement was recorded by Sergeant (CNB) Guan Zhenfu (PW7, the “**recording officer**”). He testified[^5] that the statement was recorded on 18 May 2018 at around 11.20 am. He spoke to the defendant in Mandarin. The statement was typed in English. After the statement was recorded it was read back to the defendant in Mandarin. The defendant was given a chance to make any amendment, addition or deletion. There were amendments at paras 2, 5 and 7. The recording officer added that at para 2, the word “smoking” should not be there, but the cancellation had (inadvertently) not been made.[^6]
 
 24     The recording officer further testified that during the recording of the statement the defendant was compliant and showed no signs of stress. The contents of the statement came from the defendant.
 
@@ -94,7 +95,7 @@ Presumption relating to urine test
 
 25     The defendant was called upon to enter his defence.
 
-26     In his testimony[\[note: 7\]](#Ftn_7), the defendant asserted that he did not smoke heroin or ‘ice’ at all. As to why his urine specimen was found to contain the drugs, he thought it could be due to the water consumed by him, which had been provided by the officers just before the urine test was conducted.
+26     In his testimony[^7], the defendant asserted that he did not smoke heroin or ‘ice’ at all. As to why his urine specimen was found to contain the drugs, he thought it could be due to the water consumed by him, which had been provided by the officers just before the urine test was conducted.
 
 27     He also disputed the confessions in his statement. He disputed telling the recording officer that he smoked the drugs alone in his unit (para 5). He said he told the recording officer that he did not consume drugs, but the officer kept saying that he did consume, so his denial was of no use. He also said that other portions of the statement (paras 6 and 7) were incorrect. He signed the statement (despite the inaccuracies) as he was feeling very tired and he wanted the recording process to be over so he could rest. He was told that after signing the statement he would be allowed to rest. He also thought that after the HSA result was out he would be released, as it would prove his innocence. So he did not care too much about whatever was written in the statement.
 
@@ -104,7 +105,7 @@ Presumption relating to urine test
 
 28     Having considered the totality of the evidence, including the testimony of the defendant, I found that the defendant had not rebutted the presumption under s 22 MDA that he had consumed the drugs.
 
-29     I found that the defendant’s urine specimen had been properly procured. In his defence, the defendant sought to cast doubt by saying that the officers who offered him water before his urine specimen was procured could have put the drugs into the water. He provided, however, no cogent evidence of such a possibility. He did not question any of the officers who came to testify about such a possibility. Under cross-examination, he said that he was served by a number of officers and he did not know who put drugs into the water. He also conceded that when his Case for the Defence was filed in October 2018 (five months after his arrest) under the criminal case disclosure process, he did not make mention of anyone putting drugs into the water.[\[note: 8\]](#Ftn_8)
+29     I found that the defendant’s urine specimen had been properly procured. In his defence, the defendant sought to cast doubt by saying that the officers who offered him water before his urine specimen was procured could have put the drugs into the water. He provided, however, no cogent evidence of such a possibility. He did not question any of the officers who came to testify about such a possibility. Under cross-examination, he said that he was served by a number of officers and he did not know who put drugs into the water. He also conceded that when his Case for the Defence was filed in October 2018 (five months after his arrest) under the criminal case disclosure process, he did not make mention of anyone putting drugs into the water.[^8]
 
 30     I found the defendant’s assertion plainly to be an afterthought and wholly incredible. On the evidence, it was clear that the defendant’s urine specimen had been properly procured and subsequently analysed. The defendant had not rebutted the presumption under s 22 MDA.
 
@@ -112,7 +113,7 @@ Presumption relating to urine test
 
 31     Further, I found that the defendant did voluntarily confess in his statement to having consumed the drugs (above, at \[22\]).
 
-32     At the trial, the defendant sought to cast doubt on the accuracy of his statement (above, at \[27\]). I did not find his evidence to be credible. He was plainly aware that he faced severe enhanced punishments (LT-1) for the offences.[\[note: 9\]](#Ftn_9) It was simply illogical and unbelievable that he would give a statement that provided details of drug consumption that were self-incriminatory if there was no truth to it at all. His claim that he signed the statement out of convenience as he wanted to rest was not credible. On the other hand, I found the evidence of the recording officer, that the contents of the statement were provided by the defendant voluntarily, to be credible.
+32     At the trial, the defendant sought to cast doubt on the accuracy of his statement (above, at \[27\]). I did not find his evidence to be credible. He was plainly aware that he faced severe enhanced punishments (LT-1) for the offences.[^9] It was simply illogical and unbelievable that he would give a statement that provided details of drug consumption that were self-incriminatory if there was no truth to it at all. His claim that he signed the statement out of convenience as he wanted to rest was not credible. On the other hand, I found the evidence of the recording officer, that the contents of the statement were provided by the defendant voluntarily, to be credible.
 
 #### (c)   Verdict
 
@@ -164,23 +165,23 @@ Presumption relating to urine test
 
 * * *
 
-[\[note: 1\]](#Ftn_1_1)Transcript, 15 April 2019, pp 5-12.
+[^1]: Transcript, 15 April 2019, pp 5-12.
 
-[\[note: 2\]](#Ftn_2_1)Transcript, 15 April 2019, pp 12-18.
+[^2]: Transcript, 15 April 2019, pp 12-18.
 
-[\[note: 3\]](#Ftn_3_1)Transcript, 15 April 2019, pp 19-23.
+[^3]: Transcript, 15 April 2019, pp 19-23.
 
-[\[note: 4\]](#Ftn_4_1)Transcript, 15 April 2019, pp 39-46.
+[^4]: Transcript, 15 April 2019, pp 39-46.
 
-[\[note: 5\]](#Ftn_5_1)Transcript, 15 April 2019, pp 26-35.
+[^5]: Transcript, 15 April 2019, pp 26-35.
 
-[\[note: 6\]](#Ftn_6_1)The portion of para 2 that the recording officer was referring to stated as follows: “Yesterday, 17/5/2018 around 11pm while I was _smoking_ with my friend, ah J, which I am referring to the female who was arrested together with me. \[...\]”.
+[^6]: The portion of para 2 that the recording officer was referring to stated as follows: “Yesterday, 17/5/2018 around 11pm while I was _smoking_ with my friend, ah J, which I am referring to the female who was arrested together with me. \[...\]”.
 
-[\[note: 7\]](#Ftn_7_1)Transcript, 15 April 2019, pp 48-64.
+[^7]: Transcript, 15 April 2019, pp 48-64.
 
-[\[note: 8\]](#Ftn_8_1)Transcript, 15 April 2019, p 53 (lines 13-22).
+[^8]: Transcript, 15 April 2019, p 53 (lines 13-22).
 
-[\[note: 9\]](#Ftn_9_1)Transcript, 15 April 2019, p 62 (lines 20-25).
+[^9]: Transcript, 15 April 2019, p 62 (lines 20-25).
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F23163-SSP.xml)

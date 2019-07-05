@@ -1,3 +1,4 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
 # Public Prosecutor _v_ Wham Kwok Han Jolovan  
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">MAC-912063-2017 &amp; MAC-912064-2017</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">21 May 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">Magistrates Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Kessler Soh</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">DPPs Kumaresan Gohulabalan and Nicholas Wuan (Attorney-General's Chambers) for the Prosecution; Eugene Thuraisingam and Suang Wijaya (Eugene Thuraisingam LLP) for the Defendant.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Wham Kwok Han Jolovan</td></tr></tbody></table>
@@ -56,7 +57,7 @@ Refusing to sign statement
 
 #### (a)   Defendant organised the Event on 26 November 2016
 
-10     It was undisputed that the defendant organised the Event entitled “Civil Disobedience and Social Movement”. He did so together with one Zeng Ruiqing. He organised the Event to discuss issues relating to civil disobedience and democracy in social change.[\[note: 1\]](#Ftn_1) The Event was scheduled on 26 November 2016 from about 4.00 - 6.00 pm. The venue was The AGORA, an indoor event venue located at 28 Sin Ming Lane, #03-142, Midview City, Singapore 573972.
+10     It was undisputed that the defendant organised the Event entitled “Civil Disobedience and Social Movement”. He did so together with one Zeng Ruiqing. He organised the Event to discuss issues relating to civil disobedience and democracy in social change.[^1] The Event was scheduled on 26 November 2016 from about 4.00 - 6.00 pm. The venue was The AGORA, an indoor event venue located at 28 Sin Ming Lane, #03-142, Midview City, Singapore 573972.
 
 11     The Event was open to the public. The defendant publicised the Event on Facebook by creating an Event Page and by posting the link to this page on his Facebook wall. (ASOF, Tabs A and B)
 
@@ -64,7 +65,7 @@ Refusing to sign statement
 
 12     It was undisputed that three days before the Event, on 23 November 2016, Assistant Superintendent of Police Gideon Manaseh (PW2, “**ASP Gideon**”, as he then was) contacted the defendant. ASP Gideon advised the defendant to apply for a permit under the POA for the Event.
 
-13     ASP Gideon testified that when he contacted the defendant, he advised the defendant to apply for a permit, stating he could do so online at his convenience. The defendant said that he would speak with the co-organiser before getting back to ASP Gideon. ASP Gideon then ended the conversation after telling the defendant he would call again in an hour. About an hour later, ASP Gideon tried calling the defendant again three times (at about 11.47 am, 11.55 am, and 12.30 pm), but the defendant did not pick up the call.[\[note: 2\]](#Ftn_2)
+13     ASP Gideon testified that when he contacted the defendant, he advised the defendant to apply for a permit, stating he could do so online at his convenience. The defendant said that he would speak with the co-organiser before getting back to ASP Gideon. ASP Gideon then ended the conversation after telling the defendant he would call again in an hour. About an hour later, ASP Gideon tried calling the defendant again three times (at about 11.47 am, 11.55 am, and 12.30 pm), but the defendant did not pick up the call.[^2]
 
 #### (c)   Event was held without a permit
 
@@ -84,11 +85,11 @@ Refusing to sign statement
 
 16     A police report was subsequently lodged in relation to the Event (ASOF, Tab C). The matter was investigated by an investigation officer, Assistant Superintendent of Police Lee Ting Wei (as he then was) (PW1, the “**IO**”).
 
-17     On 20 December 2016 at 10.00 am, the IO recorded a statement from the defendant (Exh P5, the “**Statement**”) under the provisions of s 22 of the _Criminal Procedure Code_ (Cap 68, 2012 Rev Ed) (“**CPC**”). The defendant chose to speak in English. No threat, inducement or promise was made before or during the recording of the Statement. The Statement was recorded accurately. After the Statement was recorded, it was read back to the defendant in English. He affirmed the Statement to be true and correct. He was asked to sign the Statement, but he refused. The recording of the Statement concluded at 10.48 am that day.[\[note: 3\]](#Ftn_3)
+17     On 20 December 2016 at 10.00 am, the IO recorded a statement from the defendant (Exh P5, the “**Statement**”) under the provisions of s 22 of the _Criminal Procedure Code_ (Cap 68, 2012 Rev Ed) (“**CPC**”). The defendant chose to speak in English. No threat, inducement or promise was made before or during the recording of the Statement. The Statement was recorded accurately. After the Statement was recorded, it was read back to the defendant in English. He affirmed the Statement to be true and correct. He was asked to sign the Statement, but he refused. The recording of the Statement concluded at 10.48 am that day.[^3]
 
-18     The IO testified that after recording the defendant’s answers, he informed the defendant that he was required to sign the Statement. The defendant asked if he would receive a copy of the Statement after signing it. The IO replied that he would not, as the Statement was a confidential document meant for police investigations. The defendant then refused to sign the Statement.[\[note: 4\]](#Ftn_4)
+18     The IO testified that after recording the defendant’s answers, he informed the defendant that he was required to sign the Statement. The defendant asked if he would receive a copy of the Statement after signing it. The IO replied that he would not, as the Statement was a confidential document meant for police investigations. The defendant then refused to sign the Statement.[^4]
 
-19     (It was not in dispute that subsequently, on 28 November 2017, the IO recorded two statements from the defendant under the provisions of s 23 of the CPC (Exhs P7 and P8, the “s 23 statements”). The defendant did sign both s 23 statements.[\[note: 5\]](#Ftn_5) The IO testified that the defendant did so after being told that he would be given a copy of these statements.[\[note: 6\]](#Ftn_6))
+19     (It was not in dispute that subsequently, on 28 November 2017, the IO recorded two statements from the defendant under the provisions of s 23 of the CPC (Exhs P7 and P8, the “s 23 statements”). The defendant did sign both s 23 statements.[^5] The IO testified that the defendant did so after being told that he would be given a copy of these statements.[^6])
 
 #### Defence
 
@@ -186,11 +187,11 @@ Exempt assemblies
 
 32     I was not persuaded by this submission. The meaning of “assembly” under s 2 of the POA (reproduced at \[25\], above) includes any gathering or meeting for which the purpose, _or one of the purposes_, is to publicise a cause. The gathering or meeting may take various forms, and may comprise a “lecture, talk, address, debate or discussion”. It is not a requirement that the meeting or gathering seeks to promote or rally support for a particular cause; it is sufficient if the meeting or gathering _publicises_ the cause (in the sense of making it widely known).
 
-33     The word “cause” is not defined in the POA. In the Oxford English Dictionary, a “cause” is defined to mean, among other things, “a principle, aim or movement to which one is committed and which one is prepared to defend or advocate”.[\[note: 7\]](#Ftn_7) In the present case, the “cause” was apparent from the title of the Event, “Civil Disobedience and Social Movements”. It was also evident from the content of the talks at the Event. For example, the defendant, when he spoke at the Event, did seek to publicise the cause of civil disobedience. The following is an extract of what he said:
+33     The word “cause” is not defined in the POA. In the Oxford English Dictionary, a “cause” is defined to mean, among other things, “a principle, aim or movement to which one is committed and which one is prepared to defend or advocate”.[^7] In the present case, the “cause” was apparent from the title of the Event, “Civil Disobedience and Social Movements”. It was also evident from the content of the talks at the Event. For example, the defendant, when he spoke at the Event, did seek to publicise the cause of civil disobedience. The following is an extract of what he said:
 
 So it seems like the Singapore approach is to have a picnic. Right, if you look at how successful Pink Dot is, right, everyone is happy to go to Pink Dot, wear pink, and party, and you know, eat pink muffins and pink cakes, you know, pink as a show of solidarity.
 
-I mean I think it is a great movement, and I say this not to criticize Pink Dot, but _it seems like in Singapore there are certain ways in which we do our activism, and we don’t seem to like this very confrontational civil disobedience types of actions. So how do we how do we get there, I think this is the billion-dollar question_. Step by step, do we do we wait for many pink dots to happen and then slowly we transition there, or _do we need to have a bunch of individuals come together and really hammer on in the civil disobedience so that we open space_ in the same way that um, people like Seelan, Dr Chee Soon Juan and all that, did 10 years. This is something for us to think about. [\[note: 8\]](#Ftn_8)
+I mean I think it is a great movement, and I say this not to criticize Pink Dot, but _it seems like in Singapore there are certain ways in which we do our activism, and we don’t seem to like this very confrontational civil disobedience types of actions. So how do we how do we get there, I think this is the billion-dollar question_. Step by step, do we do we wait for many pink dots to happen and then slowly we transition there, or _do we need to have a bunch of individuals come together and really hammer on in the civil disobedience so that we open space_ in the same way that um, people like Seelan, Dr Chee Soon Juan and all that, did 10 years. This is something for us to think about. [^8]
 
 \[ _Emphasis_ added\]
 
@@ -286,7 +287,7 @@ Refusing to sign statement
 
 54     I accepted the submission of the prosecution that the facts of the present case were more aggravated than in _Jacob Lau_. The present defendant was advised by the police to apply for a permit before the Event, yet he failed to do so. The defendant had also shown no remorse in claiming trial to the charges despite the clear evidence against him, unlike in _Jacob Lau_ where the offender pleaded guilty. Hence the defendant ought to receive a sentence higher than in _Jacob Lau._ In my judgment, a fine of $2,000 as submitted by the prosecution would be commensurate with the defendant’s culpability.
 
-55     The defence cited a number of past cases involving “elements of public disturbance and/or nuisance”: _PP v Yan Jun_ ; _Ng Chye Huay v PP_ ; _Chee Soon Juan v PP_ .[\[note: 9\]](#Ftn_9) However, I did not find any of these cases relevant or helpful given their very dissimilar and more aggravating facts.
+55     The defence cited a number of past cases involving “elements of public disturbance and/or nuisance”: _PP v Yan Jun_ ; _Ng Chye Huay v PP_ ; _Chee Soon Juan v PP_ .[^9] However, I did not find any of these cases relevant or helpful given their very dissimilar and more aggravating facts.
 
 #### Sentencing considerations for Penal Code Charge
 
@@ -307,23 +308,23 @@ Refusing to sign statement
 
 * * *
 
-[\[note: 1\]](#Ftn_1_1)ASOF (Exh P1), at \[2\].
+[^1]: ASOF (Exh P1), at \[2\].
 
-[\[note: 2\]](#Ftn_2_1)Transcript, 1 October 2018 (Day 1), p 37 (lines 13-26).
+[^2]: Transcript, 1 October 2018 (Day 1), p 37 (lines 13-26).
 
-[\[note: 3\]](#Ftn_3_1)ASOF (Exh P1) at \[8\].
+[^3]: ASOF (Exh P1) at \[8\].
 
-[\[note: 4\]](#Ftn_4_1)Transcript, 1 October 2018 (Day 1), p 15 (lines 24-29), p 16 (lines 4-10)
+[^4]: Transcript, 1 October 2018 (Day 1), p 15 (lines 24-29), p 16 (lines 4-10)
 
-[\[note: 5\]](#Ftn_5_1)ASOF (Exh P1) at \[9\]-\[10\].
+[^5]: ASOF (Exh P1) at \[9\]-\[10\].
 
-[\[note: 6\]](#Ftn_6_1)Transcript, 1 October 2018 (Day 1), p 20 (line 29) – p 21 (line 3); p 22 (lines 7-10).
+[^6]: Transcript, 1 October 2018 (Day 1), p 20 (line 29) – p 21 (line 3); p 22 (lines 7-10).
 
-[\[note: 7\]](#Ftn_7_1)Oxford English Dictionary: <https://en.oxforddictionaries.com/definition/cause> (accessed on 20 May 2019).
+[^7]: Oxford English Dictionary: <https://en.oxforddictionaries.com/definition/cause> (accessed on 20 May 2019).
 
-[\[note: 8\]](#Ftn_8_1)Exh P3 (CD-ROM), at 52:35 to 53:36. Transcription set out in the Prosecution’s Closing Submissions (PS1) at pp 12-13, which was not disputed by the defence.
+[^8]: Exh P3 (CD-ROM), at 52:35 to 53:36. Transcription set out in the Prosecution’s Closing Submissions (PS1) at pp 12-13, which was not disputed by the defence.
 
-[\[note: 9\]](#Ftn_9_1)Defence’s Submissions on Sentencing (DS2), at paras 9-12.
+[^9]: Defence’s Submissions on Sentencing (DS2), at paras 9-12.
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F23175-SSP.xml)

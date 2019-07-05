@@ -1,3 +1,4 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
 # Public Prosecutor _v_ He Yan  
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">District Arrest Case DAC-911793-2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">06 May 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Chay Yuen Fatt</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">DPP Rebecca Wong for the Public Prosecutor; Accused in person</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — He Yan</td></tr></tbody></table>
@@ -66,7 +67,7 @@ FACTS RELATING TO THE CHARGE
 
 #### Sentencing framework and principles
 
-8       I considered the public interest to protect police officers from all forms of assault and abuse in the course of carrying out their duties. The said public interest was recently re-affirmed by the High Court of three Judges in _PP v Yeo Ek Boon Jeffrey_ (“_Jeffrey Yeo_”) where the court stated at \[50\] in no uncertain terms that police officers had to be assured of adequate protection and vindication by the law against behaviour that might compromise the effective discharge of their duties. The High Court noted a sentencing trend which showed that for any assault against a police or law enforcement officer, a custodial sentence was the norm and the usual sentence would be around two to nine months’ imprisonment.[\[note: 1\]](#Ftn_1) The court went on to formulate a sentencing framework for a s 332 Penal Code offence so as to reflect society’s opprobrium of offences against police officers.[\[note: 2\]](#Ftn_2) Under the framework, the lowest category (i.e. Category 1) is stated to encompass the existing sentencing norm of a custodial sentence of two to nine months’ imprisonment, which would remain the indicative starting point. The present offence would fall under this category.
+8       I considered the public interest to protect police officers from all forms of assault and abuse in the course of carrying out their duties. The said public interest was recently re-affirmed by the High Court of three Judges in _PP v Yeo Ek Boon Jeffrey_ (“_Jeffrey Yeo_”) where the court stated at \[50\] in no uncertain terms that police officers had to be assured of adequate protection and vindication by the law against behaviour that might compromise the effective discharge of their duties. The High Court noted a sentencing trend which showed that for any assault against a police or law enforcement officer, a custodial sentence was the norm and the usual sentence would be around two to nine months’ imprisonment.[^1] The court went on to formulate a sentencing framework for a s 332 Penal Code offence so as to reflect society’s opprobrium of offences against police officers.[^2] Under the framework, the lowest category (i.e. Category 1) is stated to encompass the existing sentencing norm of a custodial sentence of two to nine months’ imprisonment, which would remain the indicative starting point. The present offence would fall under this category.
 
 9       The applicable and dominant sentencing consideration for the present case must be one of general deterrence. In addition, I considered the specific nature of the assault by the accused and the injury caused. The accused bit the officer and left a mark on the officer’s forearm. He had to seek medical treatment and was given a tetanus vaccination and also medical leave for one day. I was therefore of the view that the principle of retribution was also applicable to a certain degree in view of the vicious and atavistic nature of the assault on the unsuspecting officer.
 
@@ -76,11 +77,11 @@ FACTS RELATING TO THE CHARGE
 
 #### Sentencing precedents
 
-11     The prosecution submitted for a sentence of at least six months’ imprisonment. The learned DPP tendered a table listing out 21 sentencing precedents in support of prosecution’s sentencing position.[\[note: 3\]](#Ftn_3) These precedents were all decided post-_Jeffrey Yeo_ and they all involve an offence under s 332 of the Penal Code for biting a police officer. I noted that the sentence imposed for a similar offence of biting a police officer in 17 of the 21 cases was between 5-18 months’ imprisonment, with 11 of the cases (i.e. more than half of the cases) having a sentence of between 5-6 months’ imprisonment for the said offence. In three of the remaining four cases, the sentence imposed was four months’ imprisonment which was not very much less than the norm of 5-6 months. The outlier was a case[\[note: 4\]](#Ftn_4) where the offender, who had a mild intellectual disability, was given a more lenient sentence of six weeks’ imprisonment.
+11     The prosecution submitted for a sentence of at least six months’ imprisonment. The learned DPP tendered a table listing out 21 sentencing precedents in support of prosecution’s sentencing position.[^3] These precedents were all decided post-_Jeffrey Yeo_ and they all involve an offence under s 332 of the Penal Code for biting a police officer. I noted that the sentence imposed for a similar offence of biting a police officer in 17 of the 21 cases was between 5-18 months’ imprisonment, with 11 of the cases (i.e. more than half of the cases) having a sentence of between 5-6 months’ imprisonment for the said offence. In three of the remaining four cases, the sentence imposed was four months’ imprisonment which was not very much less than the norm of 5-6 months. The outlier was a case[^4] where the offender, who had a mild intellectual disability, was given a more lenient sentence of six weeks’ imprisonment.
 
-12     The facts in relation to these precedents were typical i.e. the offender would resist arrest by inter alia biting the police officer. By way of example and reference, I refer to the facts of one such precedent in _PP v Ang See Seng_ (“_Ang See Seng_”)[\[note: 5\]](#Ftn_5). Police officers raided the home of a 34-year old male offender and found drugs and drug paraphernalia. The offender tried to leave the room and was arrested when he became aggressive. He struggled violently and bit one of the officers’ right forearm. The officer suffered a contusion with abrasions. He was sentenced to six months’ imprisonment which was upheld on appeal.
+12     The facts in relation to these precedents were typical i.e. the offender would resist arrest by inter alia biting the police officer. By way of example and reference, I refer to the facts of one such precedent in _PP v Ang See Seng_ (“_Ang See Seng_”)[^5]. Police officers raided the home of a 34-year old male offender and found drugs and drug paraphernalia. The offender tried to leave the room and was arrested when he became aggressive. He struggled violently and bit one of the officers’ right forearm. The officer suffered a contusion with abrasions. He was sentenced to six months’ imprisonment which was upheld on appeal.
 
-13     Having regard to the precedents, the prosecution’s submission for a 6- month jail sentence in the present case is entirely reasonable, justified and fell within the normal range of sentences which has been imposed by the courts for such an offence. In _Ang See Seng_, the sentence of six month’s imprisonment was upheld on appeal[\[note: 6\]](#Ftn_6). However, I note that the offender in that case has an antecedent in 2000 as a juvenile for an offence of voluntarily causing hurt and again in 2011 but that was taken into consideration.[\[note: 7\]](#Ftn_7) In the present case, I considered that the accused is a first offender, at least for purposes of the present proceedings in Singapore. Therefore, I decided that a starting sentence of five months’ imprisonment would be appropriate.
+13     Having regard to the precedents, the prosecution’s submission for a 6- month jail sentence in the present case is entirely reasonable, justified and fell within the normal range of sentences which has been imposed by the courts for such an offence. In _Ang See Seng_, the sentence of six month’s imprisonment was upheld on appeal[^6]. However, I note that the offender in that case has an antecedent in 2000 as a juvenile for an offence of voluntarily causing hurt and again in 2011 but that was taken into consideration.[^7] In the present case, I considered that the accused is a first offender, at least for purposes of the present proceedings in Singapore. Therefore, I decided that a starting sentence of five months’ imprisonment would be appropriate.
 
 #### No compelling mitigating factors
 
@@ -94,19 +95,19 @@ FACTS RELATING TO THE CHARGE
 
 * * *
 
-[\[note: 1\]](#Ftn_1_1)At \[43\] – \[44\].
+[^1]: At \[43\] – \[44\].
 
-[\[note: 2\]](#Ftn_2_1)At \[57\] onwards.
+[^2]: At \[57\] onwards.
 
-[\[note: 3\]](#Ftn_3_1)P1.
+[^3]: P1.
 
-[\[note: 4\]](#Ftn_4_1)_PP v Don Lai Huan Wen_, _ibid_ at s/no.9.
+[^4]: _PP v Don Lai Huan Wen_, _ibid_ at s/no.9.
 
-[\[note: 5\]](#Ftn_5_1)_Ibid_ at s/no 2.
+[^5]: _Ibid_ at s/no 2.
 
-[\[note: 6\]](#Ftn_6_1)MA 9329-2017.
+[^6]: MA 9329-2017.
 
-[\[note: 7\]](#Ftn_7_1)Based on court (ICMS) records.
+[^7]: Based on court (ICMS) records.
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F23134-SSP.xml)

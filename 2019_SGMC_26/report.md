@@ -1,3 +1,4 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
 # Public Prosecutor _v_ Syed Abdul Rahman bin Syed Mohsin  
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">MCN 900346/2016</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">10 June 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Kamala Ponnampalam</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">DPP Muhammad Zulhafni Bin Haji Zulkeflee (Attorney-General's Chambers) for the Prosecution; Mr Anil Narain Balchandani (Messrs Red Lion Circle) for the Accused.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Syed Abdul Rahman bin Syed Mohsin</td></tr></tbody></table>
@@ -61,7 +62,7 @@ You \[...\] are charged that you, on 10 October 2011, in Singapore, did dishones
 
 15     The Defence argued that the documents were inadmissible as the makers of the documents were not called as witnesses and the documents constituted hearsay evidence. It was further argued that the Prosecution could not avail itself of the exception to the hearsay rule contained in s 32(1)(b)(iv) of the Evidence Act (Cap 97, 1997 Rev Ed) as the specific requirements of the provision had not been satisfied.
 
-16     The case of _Gimpex Ltd v Unity Holdings Business Ltd and others and another appeal[\[note: 1\]](#Ftn_1)_ was cited by the Defence and it was contended that the Court of Appeal had held that hearsay documents may only be admitted in evidence through a witness who was either the compiler or the person who supplied the information included in a record of the documents made in the ordinary course of his trade, business, profession or other occupation. In the present case, the witness through whom the Prosecution sought to admit the documents was Ms Lynette Foo Lee Phing, the Operations Manager at Navigator. She was only involved in verifying the Withdrawal Form with the attachments, which was received from Syed Abdul Rahman. She had neither compiled a record of the documents or supplied the information contained in the record. The Defence contended that the documents may not be admitted in evidence through her.
+16     The case of _Gimpex Ltd v Unity Holdings Business Ltd and others and another appeal[^1]_ was cited by the Defence and it was contended that the Court of Appeal had held that hearsay documents may only be admitted in evidence through a witness who was either the compiler or the person who supplied the information included in a record of the documents made in the ordinary course of his trade, business, profession or other occupation. In the present case, the witness through whom the Prosecution sought to admit the documents was Ms Lynette Foo Lee Phing, the Operations Manager at Navigator. She was only involved in verifying the Withdrawal Form with the attachments, which was received from Syed Abdul Rahman. She had neither compiled a record of the documents or supplied the information contained in the record. The Defence contended that the documents may not be admitted in evidence through her.
 
 #### (b)   The Prosecution’s response
 
@@ -87,11 +88,11 @@ _95_      _In the premises, we are of the view that the current s 32(1)(b)(i
 
 20     In short, the Court of Appeal held that s 32(1)(b)(iv) permitted a record compiled by a person acting in the ordinary course of a trade, business, profession or occupation based on information supplied by other persons to be admitted in evidence. s 32(1)(b)(iv) did not require the person who prepared the record to have personal knowledge of the information contained therein. It was however cautioned that the Court needs to assess whether the business records in question should nonetheless be excluded in the interest of justice.
 
-21     In the instant case, it is not disputed that Ms Lynette Foo Lee Phing did not have personal knowledge of the information contained in the documents. As the Operations Manager of Navigator, she was able to tell the Court about the manner in which copies of the documents were made and kept in Navigator’s Content Management System, which is an electronic filing system, and how the physical copies of the documents were stored in the CISCO warehouse facility.[\[note: 2\]](#Ftn_2) She explained that her functional role in this case was that of a ‘checker’, to check and to ensure that all the processes are in place, including the submission of supporting documents, to effect the full plan account closure.[\[note: 3\]](#Ftn_3) I therefore accepted that it was appropriate for the documents to be produced in Court through Ms Lynette Foo Lee Phing.
+21     In the instant case, it is not disputed that Ms Lynette Foo Lee Phing did not have personal knowledge of the information contained in the documents. As the Operations Manager of Navigator, she was able to tell the Court about the manner in which copies of the documents were made and kept in Navigator’s Content Management System, which is an electronic filing system, and how the physical copies of the documents were stored in the CISCO warehouse facility.[^2] She explained that her functional role in this case was that of a ‘checker’, to check and to ensure that all the processes are in place, including the submission of supporting documents, to effect the full plan account closure.[^3] I therefore accepted that it was appropriate for the documents to be produced in Court through Ms Lynette Foo Lee Phing.
 
 #### (d)   Weight accorded to the documents
 
-22     The Court of Appeal in the case of _Gimplex_ acknowledged that the scope of s 32(1)(b)(iv) is very wide and agreed with Prof Pinsler that under the current provision, ‘multiple hearsay to an unlimited degree may be admitted without safeguards’. The Court of Appeal then agreed with Prof Pinsler’s view _that the issue in applying s 32(3) is whether admissible evidence should be excluded because other countervailing factors outweigh the benefit of having the evidence admitted_.[\[note: 4\]](#Ftn_4) The Court went on to specify the following guidelines.
+22     The Court of Appeal in the case of _Gimplex_ acknowledged that the scope of s 32(1)(b)(iv) is very wide and agreed with Prof Pinsler that under the current provision, ‘multiple hearsay to an unlimited degree may be admitted without safeguards’. The Court of Appeal then agreed with Prof Pinsler’s view _that the issue in applying s 32(3) is whether admissible evidence should be excluded because other countervailing factors outweigh the benefit of having the evidence admitted_.[^4] The Court went on to specify the following guidelines.
 
 _109_      _In particular, we think that where the hearsay evidence sought to be admitted is of limited probative value, such evidence should properly be excluded. The effect of this is that the party seeking the admission of the hearsay evidence must be able to show the court that there were certain safeguards or measures that applied to that evidence which would ensure a minimal degree of reliability. Of course, the court in doing so must bear in mind the fine line between a decision not to admit hearsay evidence (under s 32(3)) and a decision to admit the hearsay evidence but to accord it less weight (under s 32(5)). The court should not normally exercise its discretion to exclude evidence that is declared to be admissible by the EA._
 
@@ -103,7 +104,7 @@ _109_      _In particular, we think that where the hearsay evidence sought t
 
 #### The Applicable Law
 
-26     The offence of criminal misappropriation under s 403 of the Penal Code, Cap 224, is different from other property offences in that _the accused person initially comes across the movable property in a legally neutral manner (eg, by finding), and he subsequently forms a dishonest intention to deal with the movable property in a manner that is inconsistent with the rights of the true owner.[\[note: 5\]](#Ftn_5)_
+26     The offence of criminal misappropriation under s 403 of the Penal Code, Cap 224, is different from other property offences in that _the accused person initially comes across the movable property in a legally neutral manner (eg, by finding), and he subsequently forms a dishonest intention to deal with the movable property in a manner that is inconsistent with the rights of the true owner.[^5]_
 
 27     I reproduce below, the relevant provisions governing the offence of criminal misappropriation, to illustrate the key elements of the offence.
 
@@ -121,7 +122,7 @@ _109_      _In particular, we think that where the hearsay evidence sought t
 
 _Explanation_. — A person is said to gain wrongfully when such person retains wrongfully, as well as when such person acquires wrongfully. A person is said to lose wrongfully when such person is wrongfully kept out of any property, as well as when such person is wrongfully deprived of property.
 
-28     The High Court decision in _Wong Seng Kwan v Public Prosecutor_[\[note: 6\]](#Ftn_6) succinctly sets out the elements of an offence under s 403 of the Penal Code, Cap 224, which the Prosecution must prove beyond reasonable doubt.
+28     The High Court decision in _Wong Seng Kwan v Public Prosecutor_[^6] succinctly sets out the elements of an offence under s 403 of the Penal Code, Cap 224, which the Prosecution must prove beyond reasonable doubt.
 
 (a)      _the movable property (“lost chattel”) must belong to some person other than the accused person;_
 
@@ -135,7 +136,7 @@ _Explanation_. — A person is said to gain wrongfully when such person retains 
 
 31     The only issue which remained was whether Syed Abdul Rahman possessed a dishonest intention when he encashed the second cheque and used the monies for his own purposes. I accepted the Prosecution’s submission that the factual issue to be decided here is whether Syed Abdul Rahman knew that the second cheque was issued in error and that he was not entitled to retain and encash the cheque for his own use. I further accepted Prosecution’s submissions that it is sufficient to prove wilful blindness on the part of Syed Abdul Rahman as the concept of wilful blindness is akin to actual knowledge and both will go towards establishing a dishonest intent.
 
-32     The Prosecution cited the Court of Appeal decision in _Tan Kiam Peng v Public Prosecutor[\[note: 7\]](#Ftn_7)_ for the general principles to apply when inferring wilful blindness. The Court of Appeal in determining the issue of the applicable mens rea for the presumption under section 18 of the Misuse of Drugs Act, (Cap 185, 2008 Rev Ed) held:
+32     The Prosecution cited the Court of Appeal decision in _Tan Kiam Peng v Public Prosecutor[^7]_ for the general principles to apply when inferring wilful blindness. The Court of Appeal in determining the issue of the applicable mens rea for the presumption under section 18 of the Misuse of Drugs Act, (Cap 185, 2008 Rev Ed) held:
 
 _The practical reality, however, is, as Yong CJ put it in Koo Pui Fong, that “\[o\]f course, we would never have the benefit of going into the mind of another person to ascertain his knowledge and in every case, knowledge is a fact that has to be inferred from the circumstances” ((\[103\] supra) at \[14\]; see also the Singapore Court of Appeal decision of Tay Kah Tiang v PP (“Tay Kah Tiang”) at \[34\]). Likewise, a finding of wilful blindness is “solely dependent on the relevant inferences to be drawn by the trial judge from all the facts and circumstances of the particular case, giving due weight, where necessary, to the credibility of the witnesses” (per Abdul Malik Ishak J in the Malaysian High Court decision of Public Prosecutor v Tan Kok An at 101; see also per Lord Esher MR in the English Court of Appeal decision of The English and Scottish Mercantile Investment Company, Limited v Brunton at 708 (“Brunton”) (the relevant passage of which is quoted at \[109\] below)). Indeed, short of a clear admission (which will, in the nature of things, be extremely rare), inferences drawn from the precise facts and circumstances of the case concerned are the only viable material available to the court in order to ascertain whether or not either actual knowledge or wilful blindness exists. It is, at this juncture, important to note, once again, that wilful blindness has always been treated, in law, as the equivalent of actual knowledge_ …
 
@@ -177,7 +178,7 @@ _The practical reality, however, is, as Yong CJ put it in Koo Pui Fong, that “
 
 42     Syed Abdul Rahman stated in Court that he had previously been told by his brother that his brother had $360,000. This was the reason why he did not enquire further when Navigator issued the second cheque to him. He agreed that the total amount paid out by Navigator was about $280,000 which was less than the sum of $360,000 told to him by his brother. He did not provide a satisfactory explanation as to why he did not enquire about the remaining sum of about $80,000. He simply said that he had been told by the staff at Navigator that the price will fluctuate. He does not know anything about this investment and so he did not ask any questions.
 
-43     It is puzzling why Syed Abdul Rahman did not seek any clarification if he did not understand his late brother’s investment portfolio with Navigator. He had several opportunities to do so. He had interacted with the staff from CPF Board, Navigator and DBS. Most importantly, he had solicitors who had acted for him in the probate matter. Yet, he had not asked anyone to explain to him why he had only received about $140,000 in April 2011 when his brother had informed him that he had more than two times that amount. He did not even question if it is possible for the price fluctuations to reduce the amount from $360,000 to less than half the sum, to only $140,000. He said that he was _willing to wait and to wait for someone to tell him what to do_.[\[note: 8\]](#Ftn_8) This ran counter to the clear evidence contained in the audio recordings. The recordings showed that Syed Abdul Rahman was not shy about asking for details and clarifications when he did not understand. When he could not hear clearly which organisation Mr Lum was from, he was quick to ask, “From where”. When he was unsure about the details, he had asked for more information. For example, he had enquired how much the cheque was for.
+43     It is puzzling why Syed Abdul Rahman did not seek any clarification if he did not understand his late brother’s investment portfolio with Navigator. He had several opportunities to do so. He had interacted with the staff from CPF Board, Navigator and DBS. Most importantly, he had solicitors who had acted for him in the probate matter. Yet, he had not asked anyone to explain to him why he had only received about $140,000 in April 2011 when his brother had informed him that he had more than two times that amount. He did not even question if it is possible for the price fluctuations to reduce the amount from $360,000 to less than half the sum, to only $140,000. He said that he was _willing to wait and to wait for someone to tell him what to do_.[^8] This ran counter to the clear evidence contained in the audio recordings. The recordings showed that Syed Abdul Rahman was not shy about asking for details and clarifications when he did not understand. When he could not hear clearly which organisation Mr Lum was from, he was quick to ask, “From where”. When he was unsure about the details, he had asked for more information. For example, he had enquired how much the cheque was for.
 
 44     I therefore found it incredible that he would have made no attempt to enquire about a shortfall of up to $220,000 if he truly believed that his brother’s estate was worth $360,000. I also found that this bare assertion that his brother had informed him that he had $360,000 lacked credibility. It was only raised during Syed Abdul Rahman’s testimony in Court and was not referred to at any other time during the trial. Neither was it stated in either of his two statements given to the police. I therefore concluded that it was an after-thought, fabricated to conceal the fact that he had been wilfully blind to the fact that Navigator had issued the second cheque based on the mistaken belief that the first cheque had not been presented to the bank. A belief which Syed Abdul Rahman knew to be untrue. Syed Abdul Rahman himself had presented the first cheque and withdrawn the monies to fund his personal expenses and that of his family. This knowledge of Navigator’s mistake would also explain the alacrity with which Syed Abdul Rahman opened the second estate on the very same day that he had collected the cheque, and thereafter, he had withdrawn most of the money from the account, on the following day.
 
@@ -205,7 +206,7 @@ _The practical reality, however, is, as Yong CJ put it in Koo Pui Fong, that “
 
 54     The Appellate Court in _Wong Seng Kwan_ had discussed the implied obligation that one bears under the law to restore a lost item or property to its rightful owner. Steven Chong J held:
 
-_Finders are not always keepers, and a finder who dishonestly keeps his find may instead “find” himself in violation of the law_._[\[note: 9\]](#Ftn_9)_
+_Finders are not always keepers, and a finder who dishonestly keeps his find may instead “find” himself in violation of the law_._[^9]_
 
 55     There is no doubt that Syed Abdul Rahman acted with dishonest intent when he turned a blind eye to the clear evidence that Navigator had issued the cheque in error. Instead of doing what he could to rectify that error, Syed Abdul Rahman quickly banked in the second cheque without alerting anyone to the fact that he had previously encashed a cheque for the same amount. Thus he caused wrongful loss to Navigator and concurrently, wrongful gain to himself.
 
@@ -239,23 +240,23 @@ _Finders are not always keepers, and a finder who dishonestly keeps his find may
 
 * * *
 
-[\[note: 1\]](#Ftn_1_1)
+[^1]: 
 
-[\[note: 2\]](#Ftn_2_1)NE Day 3, 16 Aug 2017, Page 39-41
+[^2]: NE Day 3, 16 Aug 2017, Page 39-41
 
-[\[note: 3\]](#Ftn_3_1)NE Day 4, 17 Aug 2017, Page 23-24
+[^3]: NE Day 4, 17 Aug 2017, Page 23-24
 
-[\[note: 4\]](#Ftn_4_1) at para 105
+[^4]:  at para 105
 
-[\[note: 5\]](#Ftn_5_1)_Wong Seng Kwan v Public Prosecutor, at \[15\]_
+[^5]: _Wong Seng Kwan v Public Prosecutor, at \[15\]_
 
-[\[note: 6\]](#Ftn_6_1)
+[^6]: 
 
-[\[note: 7\]](#Ftn_7_1)
+[^7]: 
 
-[\[note: 8\]](#Ftn_8_1)NE Day 7, 5 April 2018, p 56, lines 26-32
+[^8]: NE Day 7, 5 April 2018, p 56, lines 26-32
 
-[\[note: 9\]](#Ftn_9_1)At \[60\]
+[^9]: At \[60\]
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F23286-SSP.xml)

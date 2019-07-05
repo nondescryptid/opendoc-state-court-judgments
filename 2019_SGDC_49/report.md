@@ -1,3 +1,4 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
 # Public Prosecutor _v_ Sutherland Hugh David Brodie  
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">DAC 917560-2017 &amp; DAC 917561-2017, Magistrate's Appeal No 9044-2019-01</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">13 March 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Ong Luan Tze</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">DPP Wu Yu Jie for the Prosecution; Mr Suresh Damodara for the Accused.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Sutherland Hugh David Brodie</td></tr></tbody></table>
@@ -138,7 +139,7 @@
 
 40     Any other financial hardship on the accused is also not exceptional.
 
-41     The accused is presently 61 years old. All the reasons for taking a rehabilitative approach in sentencing[\[note: 1\]](#Ftn_1) do not apply to him – (a) any scope for effective rehabilitation is minimal; (b) unlike in a case of a young offender, the number of years left for society to benefit from any rehabilitation on the accused’s part is less; and (c) the accused cannot claim not to have known better.
+41     The accused is presently 61 years old. All the reasons for taking a rehabilitative approach in sentencing[^1] do not apply to him – (a) any scope for effective rehabilitation is minimal; (b) unlike in a case of a young offender, the number of years left for society to benefit from any rehabilitation on the accused’s part is less; and (c) the accused cannot claim not to have known better.
 
 42     All things considered, I was of the view that general and specific deterrence remained the paramount sentencing consideration applicable in this case. A probation order was wholly inappropriate, and I therefore declined to call for a probation report.
 
@@ -156,7 +157,7 @@
 
 * * *
 
-[\[note: 1\]](#Ftn_1_1)As observed by the High Court at \[6\] of _Lim Cheng Ji Alvin._
+[^1]: As observed by the High Court at \[6\] of _Lim Cheng Ji Alvin._
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F22933-SSP.xml)

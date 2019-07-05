@@ -1,3 +1,4 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
 # Public Prosecutor _v_ Chia Yun Ling and Tay Wee Kiat  
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">MAC 902885-2014 &amp; Ors and MAC 902865-2014 &amp; Ors</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">28 March 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">Magistrates Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Olivia Low</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">DPPs Kumaresan s/o Gohulabalan and Angela Ang for the Prosecution; Wee Pan Lee and Low Chang Yong (Wee, Tay &amp; Lim LLP) for the 1st and 2nd Accused</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Chia Yun Ling — Tay Wee Kiat</td></tr></tbody></table>
@@ -14,7 +15,7 @@
 
 2       On 20 October 2018, prosecution applied to withdraw one charge against Chia - MAC903411-2017 for failure to bear the cost of repatriation. Pursuant to section 128 of the Criminal Procedure Code, Prosecution also invited the court to amend certain charges against both the accused based on the evidence given at trial, namely Chia’s MAC-902886-2014, MAC-902893-2014, MAC-903410-2017 and Tay’s MAC-902866-2014, MAC-902867-2014, MAC-902868-2014, MAC-902871-2014, MAC-902980-2014, MAC-902883-2014.
 
-3       I allowed these amendments and both the accused maintained their intention to claim trial on the altered charges. Upon the application by defence counsel to recall witnesses to give evidence on the altered charges, I allowed two witnesses - Moe Moe Than and Fitriyah to be recalled. Fitriyah returned to give evidence on the amended charges. Moe Moe Than however had already returned to Myanmar and refused to return to Singapore to testify on the amended charges.[\[note: 1\]](#Ftn_1) As she was out of jurisdiction, no summons could be issued to her to compel her attendance in court.
+3       I allowed these amendments and both the accused maintained their intention to claim trial on the altered charges. Upon the application by defence counsel to recall witnesses to give evidence on the altered charges, I allowed two witnesses - Moe Moe Than and Fitriyah to be recalled. Fitriyah returned to give evidence on the amended charges. Moe Moe Than however had already returned to Myanmar and refused to return to Singapore to testify on the amended charges.[^1] As she was out of jurisdiction, no summons could be issued to her to compel her attendance in court.
 
 4       On 12 December 2018, at the close of the prosecution’s case, the defence made a submission of “no case to answer” on certain charges in relation to Tay and Chia. I granted a discharge amounting to an acquittal on Tay’s MAC-902882-2014 – of Tay hitting the victim repeatedly with a metal stick.
 
@@ -60,9 +61,9 @@ e.     MA-9064-2019-02 – That no compensation was ordered in Chia’s MAC
 
 13     The incidents came to light when Moe Moe Than sought help from her Myanmar agent, one Zalian Thuam on the day she returned to Yangon on 12 November 2012. Zalian alerted the local maid agency Nation Employment about Moe Moe Than’s situation and followed up with an email attaching Moe Moe Than’s photographs. The matter was referred to the authorities and the Ministry of Manpower (“MOM”) subsequently arranged for Moe Moe Than to return to Singapore on 11 December 2012.
 
-14     A first information report was then made on 12 December 2012 by an MOM officer Gerkiel Tay to inform that a maid had been severely abused by her employer.[\[note: 2\]](#Ftn_2)
+14     A first information report was then made on 12 December 2012 by an MOM officer Gerkiel Tay to inform that a maid had been severely abused by her employer.[^2]
 
-15     Moe Moe Than was examined at Khoo Teck Puat hospital on 12 December 2012 and was assessed to have the following injuries: (a) Multiple longitudinal healed scars over the left forearm, right wrist, right posterior part of hip and (b) a 2cm healed laceration over the occiput.[\[note: 3\]](#Ftn_3)
+15     Moe Moe Than was examined at Khoo Teck Puat hospital on 12 December 2012 and was assessed to have the following injuries: (a) Multiple longitudinal healed scars over the left forearm, right wrist, right posterior part of hip and (b) a 2cm healed laceration over the occiput.[^3]
 
 16     PW1 Moe Moe Than testified on the acts committed against her and the circumstances leading up to these incidents. She also gave evidence on the restrictions imposed on her by the accused persons in relation to her daily living and working conditions and how she was repatriated to Myanmar on 12 November 2012.
 
@@ -92,7 +93,7 @@ e.     MA-9064-2019-02 – That no compensation was ordered in Chia’s MAC
 
 27     Moe Moe Than also gave evidence on other incidents that had happened, for example, the canister incident. However, as the incident was not the subject matter of the charges before me, I will not deal with it in my judgment.
 
-28     For the accused persons, I found that Tay’s evidence contained external and internal inconsistencies. For example, he could not recall if Moe Moe Than or Fitriyah were required to pay for items that they specifically requested for, but when shown P58, his version changed and even then, his evidence was different from that of Chia’s.[\[note: 4\]](#Ftn_4) He was also not able to offer a clear explanation as to why the agency did not handle Moe Moe Than’s repatriation.[\[note: 5\]](#Ftn_5)
+28     For the accused persons, I found that Tay’s evidence contained external and internal inconsistencies. For example, he could not recall if Moe Moe Than or Fitriyah were required to pay for items that they specifically requested for, but when shown P58, his version changed and even then, his evidence was different from that of Chia’s.[^4] He was also not able to offer a clear explanation as to why the agency did not handle Moe Moe Than’s repatriation.[^5]
 
 29     Chia appeared defensive on the stand and her evidence was not externally or internally consistent, especially in respect of the repatriation of Moe Moe Than. She claimed that Nation Employment would charge her a fee for the repatriation, but this was denied by the agent Choo Wei Yin.
 
@@ -104,9 +105,9 @@ e.     MA-9064-2019-02 – That no compensation was ordered in Chia’s MAC
 
 ##### C2A – MAC-902886-2014 – Naked photo incident
 
-31     Chia is alleged to have taken naked photos of Moe Moe Than in the living room because Moe Moe Than did not give Celeste sufficient water, causing Celeste to suffer constipation.[\[note: 6\]](#Ftn_6) When the family returned home, Chia instructed Moe Moe Than to remove all her clothing and used a red camera to take a photograph of her naked body. Moe Moe Than said that the camera had a flash. Chia then laughed at her and showed the naked photo to Fitriyah who was present at the time.
+31     Chia is alleged to have taken naked photos of Moe Moe Than in the living room because Moe Moe Than did not give Celeste sufficient water, causing Celeste to suffer constipation.[^6] When the family returned home, Chia instructed Moe Moe Than to remove all her clothing and used a red camera to take a photograph of her naked body. Moe Moe Than said that the camera had a flash. Chia then laughed at her and showed the naked photo to Fitriyah who was present at the time.
 
-32     This earlier version of this charge alleged that the incident took place on the night of 22 January 2012, i.e. Chinese New Year Eve. The timeframe was subsequently broadened to cover the entire employment period. Even under cross-examination, Moe Moe Than stood by her version that the incident took place on 22 January 2012.[\[note: 7\]](#Ftn_7) Moe Moe Than also stood by her version that the camera had a flash because she saw a flash.[\[note: 8\]](#Ftn_8)
+32     This earlier version of this charge alleged that the incident took place on the night of 22 January 2012, i.e. Chinese New Year Eve. The timeframe was subsequently broadened to cover the entire employment period. Even under cross-examination, Moe Moe Than stood by her version that the incident took place on 22 January 2012.[^7] Moe Moe Than also stood by her version that the camera had a flash because she saw a flash.[^8]
 
 33     Moe Moe Than further alleged that Chia had told her to sleep in the toilet that evening without her clothes. However, Tay returned home and discovered Moe Moe Than in the toilet and asked her to get dressed.
 
@@ -114,7 +115,7 @@ e.     MA-9064-2019-02 – That no compensation was ordered in Chia’s MAC
 
 35     Fitriyah denied that the red Sony handycam produced by Tay and Chia in court was the same camera used to take photographs of Moe Moe Than. Fitriyah also denied that this incident took place early on in Moe Moe Than’s employment, i.e. it could not have occurred in January 2012.
 
-36     Chia denied that this incident happened at all and that all her three children suffered from constipation. There was therefore no reason why she would punish Moe Moe Than in such a manner. Chia also provided camera specifications of the camera model to show that this particular Sony model did not have a flash.[\[note: 9\]](#Ftn_9) Chia also showed an invoice to prove that the camera was only purchased on 18 March 2012.[\[note: 10\]](#Ftn_10)
+36     Chia denied that this incident happened at all and that all her three children suffered from constipation. There was therefore no reason why she would punish Moe Moe Than in such a manner. Chia also provided camera specifications of the camera model to show that this particular Sony model did not have a flash.[^9] Chia also showed an invoice to prove that the camera was only purchased on 18 March 2012.[^10]
 
 37     I did not find it safe to convict Chia on this charge for the following reasons:
 
@@ -134,23 +135,23 @@ e.     The red Sony camera was not seized by the police during the raid. On
 
 ##### C18A – MAC-903413-2017 – Failure to pay outstanding salaries
 
-40     Moe Moe Than testified that she never received any salary from Chia even after being repatriated, despite signing an acknowledgement and writing a note against her will to say that she had received $1800 in salary.[\[note: 11\]](#Ftn_11) Prosecution’s case is that the sum of $1450 was due and owing to Moe Moe Than.[\[note: 12\]](#Ftn_12) Moe Moe Than testified that Chia did not pay her anything because she had to compensate for damage she had caused to the household.
+40     Moe Moe Than testified that she never received any salary from Chia even after being repatriated, despite signing an acknowledgement and writing a note against her will to say that she had received $1800 in salary.[^11] Prosecution’s case is that the sum of $1450 was due and owing to Moe Moe Than.[^12] Moe Moe Than testified that Chia did not pay her anything because she had to compensate for damage she had caused to the household.
 
-41     Chia however maintained that she had given cash amounting to $1600 to Moe Moe Than on 11 November 2012 although the document at P49 and P50 were backdated to 6 November 2012. She relied on her DBS ATM transaction record[\[note: 13\]](#Ftn_13) to show that she had withdrawn $1200 in cash on 9 November in order to pay Moe Moe Than with Tay providing the remaining $600 in order to make up a total of $1800.[\[note: 14\]](#Ftn_14) Chia further testifies that she realised that the payment schedule was erroneous as it included an overpayment of one month. She therefore deducted $200 as payment of the airfare, and gave $1600 to Moe Moe Than, which still represented an overpayment to Moe Moe Than.
+41     Chia however maintained that she had given cash amounting to $1600 to Moe Moe Than on 11 November 2012 although the document at P49 and P50 were backdated to 6 November 2012. She relied on her DBS ATM transaction record[^13] to show that she had withdrawn $1200 in cash on 9 November in order to pay Moe Moe Than with Tay providing the remaining $600 in order to make up a total of $1800.[^14] Chia further testifies that she realised that the payment schedule was erroneous as it included an overpayment of one month. She therefore deducted $200 as payment of the airfare, and gave $1600 to Moe Moe Than, which still represented an overpayment to Moe Moe Than.
 
 42     Whilst Chia testified that she had repatriated Moe Moe Than on her own without the agency’s assistance in order to avoid any allegations of abuse or ill-treatment, I did not find that this was done in order to avoid paying Moe Moe Than any of the salary that was due to her. I also noted that Moe Moe Than could only cite a couple of instances when she was asked to pay compensation for items she had damaged, such as $500 for scratching the table, and $10 for forgetting to switch off the fan, and an incident when she made a hole in a lamp shade cover. These examples certainly did not add up to $1450 such that her entire salary was offset. Moreover, it appeared that this compensation issue had only arisen because Moe Moe Than had wanted to ask for a transfer. Chia had told her that she could only transfer if she had paid off her 7 months’ salary for agent fees as well as compensated for the items she had damaged.
 
-43     Considering the contemporaneous documents such as the DBS ATM transaction record of $1200 together with the acknowledgment on the payment schedule[\[note: 15\]](#Ftn_15) that $1800 had been received and the further note[\[note: 16\]](#Ftn_16) by Moe Moe Than (even if written on Chia’s instructions) that she had received her salary, there was some reasonable doubt raised as to whether Chia had indeed failed to pay Moe Moe Than’s outstanding salary.
+43     Considering the contemporaneous documents such as the DBS ATM transaction record of $1200 together with the acknowledgment on the payment schedule[^15] that $1800 had been received and the further note[^16] by Moe Moe Than (even if written on Chia’s instructions) that she had received her salary, there was some reasonable doubt raised as to whether Chia had indeed failed to pay Moe Moe Than’s outstanding salary.
 
 ## Tay acquitted on two charges
 
 ##### C3A – MAC-902867-2014 – Fitriyah’s biscuit incident
 
-44     Tay is alleged to have instructed Fitriyah to hit Moe Moe Than with a metal stick. Moe Moe Than testified that on one occasion, she had taken Fitriyah’s biscuit because she was hungry. Fitriyah saw the biscuit in her T-shirt pocket and so did Chia.[\[note: 17\]](#Ftn_17) When Tay discovered this, he instructed Fitriyah to use a metal pole to hit Moe Moe Than on her buttocks. Moe Moe Than identified the stick as P25 and even said that the stick used to be straight but after she was hit by it, it became “bent”.[\[note: 18\]](#Ftn_18)
+44     Tay is alleged to have instructed Fitriyah to hit Moe Moe Than with a metal stick. Moe Moe Than testified that on one occasion, she had taken Fitriyah’s biscuit because she was hungry. Fitriyah saw the biscuit in her T-shirt pocket and so did Chia.[^17] When Tay discovered this, he instructed Fitriyah to use a metal pole to hit Moe Moe Than on her buttocks. Moe Moe Than identified the stick as P25 and even said that the stick used to be straight but after she was hit by it, it became “bent”.[^18]
 
-45     Tay denied this and claimed that there was no segregation of biscuits in the household.[\[note: 19\]](#Ftn_19) Fitriyah did not recall hitting Moe Moe Than with a metal pole despite repeated questions from defence counsel.[\[note: 20\]](#Ftn_20) Whilst Fitriyah later clarified that she may have used a cane against Moe Moe Than (which was in any event the subject matter of another charge), she was adamant that no metal stick was used.
+45     Tay denied this and claimed that there was no segregation of biscuits in the household.[^19] Fitriyah did not recall hitting Moe Moe Than with a metal pole despite repeated questions from defence counsel.[^20] Whilst Fitriyah later clarified that she may have used a cane against Moe Moe Than (which was in any event the subject matter of another charge), she was adamant that no metal stick was used.
 
-46     The earlier version of this charge also alleged that the incident took place on a specific date and time, i.e. 5 June 2012 between 12pm to 1pm. Tay had an alibi[\[note: 21\]](#Ftn_21) which was his carpark records to prove that he was at work that day, by virtue of his car having been parked in his office’s car park from 0943 hrs to 1745 hrs. Prosecution objected to the admission of the records as alibi evidence on the basis of it being hearsay evidence because no formal witness from Wilson Parking was called to confirm the information given.
+46     The earlier version of this charge also alleged that the incident took place on a specific date and time, i.e. 5 June 2012 between 12pm to 1pm. Tay had an alibi[^21] which was his carpark records to prove that he was at work that day, by virtue of his car having been parked in his office’s car park from 0943 hrs to 1745 hrs. Prosecution objected to the admission of the records as alibi evidence on the basis of it being hearsay evidence because no formal witness from Wilson Parking was called to confirm the information given.
 
 47     Even if I had been minded to give some weight to the car park records, the charge was in any event subsequently amended to include the entire period of Moe Moe Than’s employment. I note that the defence was not given the opportunity to cross-examine Moe Moe Than on the same because she refused to be recalled as a witness.
 
@@ -158,7 +159,7 @@ e.     The red Sony camera was not seized by the police during the raid. On
 
 ##### C9A – MAC-902883-2014 – Bundle of three canes incident
 
-49     Tay is alleged to have instructed Fitriyah to hit Moe Moe Than with three small canes bundled together in July 2012. The prosecution conceded that Moe Moe Than did not raise any incident where she had been caned by Fitriyah on Tay’s instruction.[\[note: 22\]](#Ftn_22) Fitriyah however testified that she had been instructed by Tay to cane Moe Moe Than although she was unable to provide concrete details on how such incidents came about, or when these occurred, let alone that it occurred in July 2012 itself.
+49     Tay is alleged to have instructed Fitriyah to hit Moe Moe Than with three small canes bundled together in July 2012. The prosecution conceded that Moe Moe Than did not raise any incident where she had been caned by Fitriyah on Tay’s instruction.[^22] Fitriyah however testified that she had been instructed by Tay to cane Moe Moe Than although she was unable to provide concrete details on how such incidents came about, or when these occurred, let alone that it occurred in July 2012 itself.
 
 50     I note that it is not in dispute that there were only two canes seized during the raid. Tay and Chia also testified that they did not have a bundle of three canes in the house.
 
@@ -196,7 +197,7 @@ e.     The red Sony camera was not seized by the police during the raid. On
 
 60     Chia denied that these two incidents happened. 9 November was a Friday and whilst she could not remember if she was working, she anticipated that the prosecution’s case would be that it would not take long for someone to be slapped. When shown the DBS ATM transaction record to show that she had withdrawn $1200 on 9 November at 12.30pm at Northpoint, Chia explained that she was probably either on her way to or from work. For 10 and 11 November, this was the weekend and Chia said that at the 3pm to 4pm period when the incident was alleged to have occurred, the family would usually be out in the shopping mall or at their in-law’s place. Further Chia said that she had paid Moe Moe Than her salary on 11 November thus she did not think there was any reason to fly into a rage over such an incident.
 
-61     I was of the view that none of what Chia offered was sufficient to raise reasonable doubt that the incidents had happened. The fact that Chia had withdrawn money[\[note: 23\]](#Ftn_23) in close proximity to her home only a few hours prior to the incident on 9 November meant that Moe Moe Than’s version was preferred. As for the weekend of 10 to 11 November, the evidence was that Tay had left for overseas, thus this made it unlikely that Chia would maintain her routine of going to the mall or visiting her in-laws.
+61     I was of the view that none of what Chia offered was sufficient to raise reasonable doubt that the incidents had happened. The fact that Chia had withdrawn money[^23] in close proximity to her home only a few hours prior to the incident on 9 November meant that Moe Moe Than’s version was preferred. As for the weekend of 10 to 11 November, the evidence was that Tay had left for overseas, thus this made it unlikely that Chia would maintain her routine of going to the mall or visiting her in-laws.
 
 ## Two caning incidents – C7A-MAC-902893-2014, C8-MAC-902894-2014
 
@@ -238,7 +239,7 @@ e.     The red Sony camera was not seized by the police during the raid. On
 
 73     Moe Moe Than’s version is largely corroborated by Fitriyah who witnessed Chia doing the same to Moe Moe Than. Whilst Moe Moe Than and Fitriyah evidence differed as to the colour of the funnel, they were both consistent in describing the shape of the funnel. Fitriyah however said that Moe Moe Than had spat out the rice rather than vomited it out. Fitriyah also said that the incident took place in the toilet and Moe Moe Than was in a lying-down position.
 
-74     Chia denied that this incident took place and even conducted an experiment on video[\[note: 24\]](#Ftn_24) to show how it was not possible for a mixture of rice and sugar to be forced down a funnel into Moe Moe Than’s mouth. Chia however admitted to seeing a funnel in the house, even though this funnel was not seized during the raid. Chia also gave evidence that Moe Moe Than claimed that the rice in Singapore was not the same as that in Myanmar and she would eat 8 cups of rice in Myanmar. Chia therefore asked Fitriyah to experiment cooking 8 cups of rice which Moe Moe Than could not finish and this was gradually reduced to 2 ½ cups for Moe Moe Than.
+74     Chia denied that this incident took place and even conducted an experiment on video[^24] to show how it was not possible for a mixture of rice and sugar to be forced down a funnel into Moe Moe Than’s mouth. Chia however admitted to seeing a funnel in the house, even though this funnel was not seized during the raid. Chia also gave evidence that Moe Moe Than claimed that the rice in Singapore was not the same as that in Myanmar and she would eat 8 cups of rice in Myanmar. Chia therefore asked Fitriyah to experiment cooking 8 cups of rice which Moe Moe Than could not finish and this was gradually reduced to 2 ½ cups for Moe Moe Than.
 
 75     Notwithstanding the minor inconsistencies between both Moe Moe Than and Fitriyah’s evidence, I was satisfied that the three charges had been proven. Moe Moe Than had been forced to eat the rice sugar mixture and her mouth had been forced open in order for a funnel to be inserted. Thereafter, whether she had spat or vomited the contents out, she was told to then eat what she had spat out. Chia’s experiment was of little evidential value as the ratio of rice, sugar and water may not be identical as that of the alleged incident, nor would the diameter of the spout be the same.
 
@@ -381,7 +382,7 @@ e.     The red Sony camera was not seized by the police during the raid. On
 
 115    Amendments to the EFMA was made on 9 November 2012 to enhance the prescribed punishment for a breach of section 22(1)(a) EFMA. As the period during which the offence was committed was just before the EFMA amendments took effect, Chia faced a maximum sentence of a fine of up to $5,000 or an imprisonment term of up to 6 months or both for each EFMA charge.
 
-116    The threat uttered by Chia would amount to ill-treatment under the EFMA Regulations[\[note: 25\]](#Ftn_25) as it amounted to criminal intimidation, and hence a breach of the conditions to be complied by the employer. Moe Moe Than had testified that she felt sad upon hearing this. I agreed that the custodial threshold had been crossed such that an imprisonment term was warranted, but I did not agree with prosecution’s submission to impose a sentence of four months’ imprisonment. Under the EFMA, I was of the view that such a verbal threat should not attract a higher sentence than an offence where actual harm was caused, for example in C12A MAC903407-2017 (forcing victim to eat rice mixed with sugar), and therefore imposed a sentence of one month’s imprisonment. I would further add that Prosecution retains a discretion to prefer a more serious charge such as criminal intimidation under the Penal Code against the accused for uttering such a threat if a stiffer sentence is sought.
+116    The threat uttered by Chia would amount to ill-treatment under the EFMA Regulations[^25] as it amounted to criminal intimidation, and hence a breach of the conditions to be complied by the employer. Moe Moe Than had testified that she felt sad upon hearing this. I agreed that the custodial threshold had been crossed such that an imprisonment term was warranted, but I did not agree with prosecution’s submission to impose a sentence of four months’ imprisonment. Under the EFMA, I was of the view that such a verbal threat should not attract a higher sentence than an offence where actual harm was caused, for example in C12A MAC903407-2017 (forcing victim to eat rice mixed with sugar), and therefore imposed a sentence of one month’s imprisonment. I would further add that Prosecution retains a discretion to prefer a more serious charge such as criminal intimidation under the Penal Code against the accused for uttering such a threat if a stiffer sentence is sought.
 
 ##### The remaining sentences for Chia
 
@@ -405,7 +406,7 @@ e.     The red Sony camera was not seized by the police during the raid. On
 
 126    Under the law, where there are three or more sentences, at least 2 of the sentences must run consecutively. Prosecution submitted that five of the 15 sentences should run consecutively – Charges C1 MAC-902885-2014, C6 – MAC-902890-2014, C8 MAC-902894-2014, C9 MAC-905414-2017 and C15B MAC-903410-2017.
 
-127    It must be borne in mind that these were distinct offences even if they pertained to the same victim. The systematic pattern of violence and psychological abuse inflicted on the victim required that the aggregate sentence reflect the culpability of Chia and the harm caused to the victim. Considering the one-transaction rule and the totality principle, I agreed with prosecution’s submissions on the sentences which were to run consecutively, and sentenced Chia to a total of 47 months’ imprisonment and a fine of $4,000[\[note: 26\]](#Ftn_26) in default two weeks’ imprisonment. Chia’s sentence was not wholly disproportionate nor could it be said to be crushing.
+127    It must be borne in mind that these were distinct offences even if they pertained to the same victim. The systematic pattern of violence and psychological abuse inflicted on the victim required that the aggregate sentence reflect the culpability of Chia and the harm caused to the victim. Considering the one-transaction rule and the totality principle, I agreed with prosecution’s submissions on the sentences which were to run consecutively, and sentenced Chia to a total of 47 months’ imprisonment and a fine of $4,000[^26] in default two weeks’ imprisonment. Chia’s sentence was not wholly disproportionate nor could it be said to be crushing.
 
 ## Against Tay Wee Kiat
 
@@ -459,57 +460,57 @@ c.     For C14A MAC 903409-2017, this was a verbal threat in which I did no
 
 * * *
 
-[\[note: 1\]](#Ftn_1_1)P57
+[^1]: P57
 
-[\[note: 2\]](#Ftn_2_1)P52
+[^2]: P52
 
-[\[note: 3\]](#Ftn_3_1)P48
+[^3]: P48
 
-[\[note: 4\]](#Ftn_4_1)Prosecution’s Closing Submissions, para 177
+[^4]: Prosecution’s Closing Submissions, para 177
 
-[\[note: 5\]](#Ftn_5_1)Prosecution’s Closing Submissions, para 178
+[^5]: Prosecution’s Closing Submissions, para 178
 
-[\[note: 6\]](#Ftn_6_1)NE Day 1, Page 25:3-26:25
+[^6]: NE Day 1, Page 25:3-26:25
 
-[\[note: 7\]](#Ftn_7_1)NE Day 5, Page 34:16-26
+[^7]: NE Day 5, Page 34:16-26
 
-[\[note: 8\]](#Ftn_8_1)NE Day 1, Page 26:19-20, Day 3, Page 61:6-11 and Day 11, Page 7:29-8:5
+[^8]: NE Day 1, Page 26:19-20, Day 3, Page 61:6-11 and Day 11, Page 7:29-8:5
 
-[\[note: 9\]](#Ftn_9_1)D23 Page 2
+[^9]: D23 Page 2
 
-[\[note: 10\]](#Ftn_10_1)D17
+[^10]: D17
 
-[\[note: 11\]](#Ftn_11_1)NE Day 2, Page 17:1-18:6 and Page 16:1-17:31
+[^11]: NE Day 2, Page 17:1-18:6 and Page 16:1-17:31
 
-[\[note: 12\]](#Ftn_12_1)Prosecution’s Closing Submissions Para 93
+[^12]: Prosecution’s Closing Submissions Para 93
 
-[\[note: 13\]](#Ftn_13_1)D22
+[^13]: D22
 
-[\[note: 14\]](#Ftn_14_1)NE Day 29, Page 47:27-48:6
+[^14]: NE Day 29, Page 47:27-48:6
 
-[\[note: 15\]](#Ftn_15_1)P49
+[^15]: P49
 
-[\[note: 16\]](#Ftn_16_1)P50
+[^16]: P50
 
-[\[note: 17\]](#Ftn_17_1)NE Day 1, Page 11:12-16
+[^17]: NE Day 1, Page 11:12-16
 
-[\[note: 18\]](#Ftn_18_1)NE Day 8, Page 7:1-2
+[^18]: NE Day 8, Page 7:1-2
 
-[\[note: 19\]](#Ftn_19_1)NE Day 27, Page 59:15-32
+[^19]: NE Day 27, Page 59:15-32
 
-[\[note: 20\]](#Ftn_20_1)NE Day 22, Page 100-105
+[^20]: NE Day 22, Page 100-105
 
-[\[note: 21\]](#Ftn_21_1)D13 Page 6
+[^21]: D13 Page 6
 
-[\[note: 22\]](#Ftn_22_1)Prosecution’s Closing Submissions, Para 48
+[^22]: Prosecution’s Closing Submissions, Para 48
 
-[\[note: 23\]](#Ftn_23_1)D22
+[^23]: D22
 
-[\[note: 24\]](#Ftn_24_1)D27-29
+[^24]: D27-29
 
-[\[note: 25\]](#Ftn_25_1)See Paragraph 76 above
+[^25]: See Paragraph 76 above
 
-[\[note: 26\]](#Ftn_26_1)See table summary of sentences imposed in Paragraph 6 above
+[^26]: See table summary of sentences imposed in Paragraph 6 above
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F23000-SSP.xml)

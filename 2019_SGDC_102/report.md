@@ -1,3 +1,4 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
 # Lee William _v_ Tan Pang Yav  
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">DC/DC Suit No. 520 of 2018, HC/District Court Appeal No. 19 of 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">22 May 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Loo Ngan Chor</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Mr Low Kuang Ting Winston (M/s Winston Low &amp; Partners) - for the Plaintiff; Mr Teo Weng Kie (M/s Tan Kok Quan Partnership) - for the Defendant</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Lee William — Tan Pang Yav</td></tr></tbody></table>
@@ -22,13 +23,13 @@ Tort - Negligence – Contributory Negligence
 
 ## THE PLEADINGS:
 
-4       The plaintiff’s pleaded case is that he was standing at the front entrance of the work shop when the defendant reversed the panel van and collided into him.[\[note: 0\]](#Ftn_0) Amongst other particulars, the plaintiff said that the defendant had failed to see the plaintiff standing at the front entrance of the workshop in sufficient time or at all to avoid a collision and that the defendant had failed to keep a proper look out.[\[note: 1\]](#Ftn_1)
+4       The plaintiff’s pleaded case is that he was standing at the front entrance of the work shop when the defendant reversed the panel van and collided into him.[^0] Amongst other particulars, the plaintiff said that the defendant had failed to see the plaintiff standing at the front entrance of the workshop in sufficient time or at all to avoid a collision and that the defendant had failed to keep a proper look out.[^1]
 
-5       The defendant’s pleaded case denied all negligence. He averred that he was reversing carefully and slowly at the entrance after checking his rear and blind spots when the plaintiff knocked on the rear right corner of his van and alleged that the defendant’s van had knocked into him.[\[note: 2\]](#Ftn_2) Amongst other particulars of negligence, the defendant stated that the plaintiff had failed to have regard for his own safety by standing at the entrance.[\[note: 3\]](#Ftn_3)
+5       The defendant’s pleaded case denied all negligence. He averred that he was reversing carefully and slowly at the entrance after checking his rear and blind spots when the plaintiff knocked on the rear right corner of his van and alleged that the defendant’s van had knocked into him.[^2] Amongst other particulars of negligence, the defendant stated that the plaintiff had failed to have regard for his own safety by standing at the entrance.[^3]
 
 ## THE EVIDENCE:
 
-6       In his affidavit of evidence-in-chief, the plaintiff stated that he was at the front entrance of the workshop when the defendant reversed the van into him.[\[note: 4\]](#Ftn_4) In cross-examination, the plaintiff vacillated and said that he was actually within the compound of the workshop.
+6       In his affidavit of evidence-in-chief, the plaintiff stated that he was at the front entrance of the workshop when the defendant reversed the van into him.[^4] In cross-examination, the plaintiff vacillated and said that he was actually within the compound of the workshop.
 
 QNow, you tell me that---tell His Honour that you were inside the compound. You agree that both comp---Mister, I haven’t asked a question yet. You must allow me to ask the question then you can answer to his Judge then we can be faster. I’m so sorry. Thank you, Mr. Lee. So, you agree that these are conflicting versions. Agree or not?
 
@@ -56,9 +57,9 @@ A1 metre, Sir.
 
 QSo, is it exactly 1 metre? I think you are saying roughly 1 metre. Does that what you are to---saying? I just want to be fair to you.
 
-AAround 1 metre.[\[note: 5\]](#Ftn_5)
+AAround 1 metre.[^5]
 
-7       In the defendant’s affidavit of evidence-in-chief, he said that as he reversed slowly “into the compound of the said work shop while checking \[his\] right wing mirror”, he “suddenly saw the plaintiff who was having his back to \[his\] van seemingly talking to someone. Suddenly he turned around and I felt a slight impact at the rear of \[his\] van.”[\[note: 6\]](#Ftn_6)
+7       In the defendant’s affidavit of evidence-in-chief, he said that as he reversed slowly “into the compound of the said work shop while checking \[his\] right wing mirror”, he “suddenly saw the plaintiff who was having his back to \[his\] van seemingly talking to someone. Suddenly he turned around and I felt a slight impact at the rear of \[his\] van.”[^6]
 
 8       In cross-examination, the defendant was to say that the plaintiff ran towards and collided into his reversing van:
 
@@ -73,13 +74,13 @@ AAround 1 metre.[\[note: 5\]](#Ftn_5)
 
 9       The learned defendant’s counsel, Mr Teo Weng Kie submitted that the plaintiff’s evidence that he was within the workshop compound when the accident occurred departed from his pleaded case. I agreed that it was not open to the plaintiff to say that he was somewhat within the workshop compound because this was not his pleaded case; see \[4\] above. In his AEIC (see \[6\] above), the plaintiff had likewise placed himself at the entrance to the workshop.
 
-10     At the same time, I was not prepared to find that the plaintiff was outside of the workshop compound and on a public road in that the defendant’s police report placed the plaintiff inside the compound. The defendant’s police report[\[note: 8\]](#Ftn_8) made about three hours after the accident stated that as he reversed, “Suddenly \[the plaintiff\] who was inside the compound turn (_sic_) around after talking to his collegue (_sic_) and knock (_sic_) onto the rear right portion of my vehicle and fell.” While the defendant’s Defence did not make clear his version about the plaintiff’s location, the defendant’s AEIC (see \[7\] above) seemed to reinforce his police report that the plaintiff was within the workshop compound when he stated that he was reversing into the workshop compound.
+10     At the same time, I was not prepared to find that the plaintiff was outside of the workshop compound and on a public road in that the defendant’s police report placed the plaintiff inside the compound. The defendant’s police report[^8] made about three hours after the accident stated that as he reversed, “Suddenly \[the plaintiff\] who was inside the compound turn (_sic_) around after talking to his collegue (_sic_) and knock (_sic_) onto the rear right portion of my vehicle and fell.” While the defendant’s Defence did not make clear his version about the plaintiff’s location, the defendant’s AEIC (see \[7\] above) seemed to reinforce his police report that the plaintiff was within the workshop compound when he stated that he was reversing into the workshop compound.
 
 11     Given the foregoing, including the constraints of the plaintiff’s pleaded case, I found that the plaintiff was at the entrance to the workshop compound when the accident took place. He was not on a public road, a point which, as I shall explain below at \[17\] to \[22\], went to the issue of contribution.
 
 ## The plaintiff did not run towards the van:
 
-12     In closing submissions, Mr Teo did not refer to the defendant’s version in cross-examination. Instead, Mr Teo stated the defendant’s version as follows: “Suddenly the plaintiff knocked onto this rear right corner and alleged that the defendant’s van had knocked into him (see BA page 31 paragraph 5).”[\[note: 9\]](#Ftn_9) In fact the version that Mr Teo cited was the defendant’s pleaded version – see \[5\] above. The defendant’s version in the AEIC, set out at \[7\] above, was that the plaintiff turned around just before impact. I thought that there was reasonable basis in the learned plaintiff’s counsel, Mr Winston Low’s, criticism of the defendant’s inconsistencies.
+12     In closing submissions, Mr Teo did not refer to the defendant’s version in cross-examination. Instead, Mr Teo stated the defendant’s version as follows: “Suddenly the plaintiff knocked onto this rear right corner and alleged that the defendant’s van had knocked into him (see BA page 31 paragraph 5).”[^9] In fact the version that Mr Teo cited was the defendant’s pleaded version – see \[5\] above. The defendant’s version in the AEIC, set out at \[7\] above, was that the plaintiff turned around just before impact. I thought that there was reasonable basis in the learned plaintiff’s counsel, Mr Winston Low’s, criticism of the defendant’s inconsistencies.
 
 13     I found the defendant’s case as he made it under cross-examination at \[8\] above rather hard to believe. His testimony was that as he reversed, the plaintiff turned around and ran towards his van, colliding into it. Both the defendant’s police report and AEIC (see \[10\] above) stated simply that the plaintiff turned around and this was followed by impact. It was therefore my finding that as the plaintiff stood at the entrance to the workshop compound talking to his colleague, the defendant reversed into the plaintiff; the plaintiff did not run towards and collide into the defendant’s van.
 
@@ -113,11 +114,11 @@ Where pedestrians seek to cross the road either near to or at places other than 
 
 20     On the other hand, a public road is generally where persons, whether in different types of conveyance or on foot, get from one place to another. The number of interactions among them is tremendous so that road traffic laws are in place to allow the public to more safely use the roads.
 
-21     Each party pointed to action taken by the Traffic Police against the other. The plaintiff had been issued with a warning letter for breaching rule 13(2) of the Road Traffic (Pedestrian Crossings) Rules (“the Rules”) which states that “No person shall stand, sit, squat, loiter, walk or run on a _road_ in such a manner or in such a position as to interfere with the lawful movement of traffic.”[\[note: 10\]](#Ftn_10) (italics added) On the other hand, the defendant paid a composition fine for careless driving.[\[note: 11\]](#Ftn_11)
+21     Each party pointed to action taken by the Traffic Police against the other. The plaintiff had been issued with a warning letter for breaching rule 13(2) of the Road Traffic (Pedestrian Crossings) Rules (“the Rules”) which states that “No person shall stand, sit, squat, loiter, walk or run on a _road_ in such a manner or in such a position as to interfere with the lawful movement of traffic.”[^10] (italics added) On the other hand, the defendant paid a composition fine for careless driving.[^11]
 
 22     The Rules are issued pursuant to ss 121 and 140 of the Road Traffic Act (Cap 276) (“the Act”) in which the word ‘“road” means any public road and any other road to which the public has access…’ Whilst the word “public” is not itself defined in the Act, its meaning may be found from s2 of the Act when it states that ‘“public place” means any place or premises, whether privately owned or not, to which the general public or any section of the general public is permitted to have access, whether on payment or otherwise;’ Since it is arguable that the workshop, even though privately owned, is a place to which a section of the general public having business there has access, it is arguable that the road traffic laws, including the Rules, extend to the compound of the workshop. Be that as it may, since each party did not argue the point and was content to assume that police action, whatever its factual basis concerning the location of the point of impact, was correctly taken.
 
-23     I would mention one last point, namely, the defendant’s allegation that his van had a beeping feature when it reversed. I noted that this was not pleaded as a particular of the plaintiff’s alleged negligence. In any case, I was not persuaded that his van really did have this feature, or at any rate that it was working at the time of the accident, because his answers in re-examination appeared to me somewhat tentative.[\[note: 12\]](#Ftn_12)
+23     I would mention one last point, namely, the defendant’s allegation that his van had a beeping feature when it reversed. I noted that this was not pleaded as a particular of the plaintiff’s alleged negligence. In any case, I was not persuaded that his van really did have this feature, or at any rate that it was working at the time of the accident, because his answers in re-examination appeared to me somewhat tentative.[^12]
 
 ## CONCLUSION:
 
@@ -125,31 +126,31 @@ Where pedestrians seek to cross the road either near to or at places other than 
 
 * * *
 
-[\[note: 0\]](#Ftn_0_1)Statement of Claim \[3\], BP 3
+[^0]: Statement of Claim \[3\], BP 3
 
-[\[note: 1\]](#Ftn_1_1)Statement of Claim \[4(c)\] and \[4(b)\], BP 3
+[^1]: Statement of Claim \[4(c)\] and \[4(b)\], BP 3
 
-[\[note: 2\]](#Ftn_2_1)Defence \[4\], BP17
+[^2]: Defence \[4\], BP17
 
-[\[note: 3\]](#Ftn_3_1)Defence \[5(c)\], BP17
+[^3]: Defence \[5(c)\], BP17
 
-[\[note: 4\]](#Ftn_4_1)The plaintiff’s AEIC \[3\], BA1
+[^4]: The plaintiff’s AEIC \[3\], BA1
 
-[\[note: 5\]](#Ftn_5_1)Transcript p24 ln8 to p25 ln5
+[^5]: Transcript p24 ln8 to p25 ln5
 
-[\[note: 6\]](#Ftn_6_1)The defendant’s AEIC \[5\], BA31
+[^6]: The defendant’s AEIC \[5\], BA31
 
-[\[note: 7\]](#Ftn_7_1)Transcript p42 ln20 to p44 ln26
+[^7]: Transcript p42 ln20 to p44 ln26
 
-[\[note: 8\]](#Ftn_8_1)2AB8-9
+[^8]: 2AB8-9
 
-[\[note: 9\]](#Ftn_9_1)DCS \[11\]
+[^9]: DCS \[11\]
 
-[\[note: 10\]](#Ftn_10_1)The plaintiff’s AEIC \[4\], BA2
+[^10]: The plaintiff’s AEIC \[4\], BA2
 
-[\[note: 11\]](#Ftn_11_1)The defendant’s AEIC \[9\], BA32
+[^11]: The defendant’s AEIC \[9\], BA32
 
-[\[note: 12\]](#Ftn_12_1)Transcript p58 ln14-27
+[^12]: Transcript p58 ln14-27
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F23244-SSP.xml)

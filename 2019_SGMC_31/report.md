@@ -1,3 +1,4 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
 # Public Prosecutor _v_ Nur Ellyna binte Abdul Karim  
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">MAC 901883-2019 &amp; Others</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">21 June 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Tan Jen Tse</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Deputy Public Prosecutor Sheryl Yeo for the prosecution; Sofia Bakhash (Lexcompass LLC) for the accused</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Nur Ellyna binte Abdul Karim</td></tr></tbody></table>
@@ -99,23 +100,23 @@ _First Information Report_
 
 ## Mandatory Treatment Order is not appropriate
 
-5       Defence counsel urged the court to consider making a Mandatory Treatment Order (“MTO”) since the accused was suffering from mental illness. Section 339 of the Criminal Procedure Code (“CPC”) sets out when an MTO may or may not be made. In particular, an MTO may not be made when the report by the appointed psychiatrist states that he is not satisfied that the psychiatric condition of the offender is one of the contributing factors for committing the offence.[\[note: 1\]](#Ftn_1)
+5       Defence counsel urged the court to consider making a Mandatory Treatment Order (“MTO”) since the accused was suffering from mental illness. Section 339 of the Criminal Procedure Code (“CPC”) sets out when an MTO may or may not be made. In particular, an MTO may not be made when the report by the appointed psychiatrist states that he is not satisfied that the psychiatric condition of the offender is one of the contributing factors for committing the offence.[^1]
 
-6       To support its case, the defence had obtained a comprehensive forensic medical report on the accused from the Institute of Mental Health (“IMH”). In her report, Dr Deva Priya Appan, Senior Resident, East Region, Institute of Mental Health (“Dr Deva”) opined that:-[\[note: 2\]](#Ftn_2)
+6       To support its case, the defence had obtained a comprehensive forensic medical report on the accused from the Institute of Mental Health (“IMH”). In her report, Dr Deva Priya Appan, Senior Resident, East Region, Institute of Mental Health (“Dr Deva”) opined that:-[^2]
 
-(a)     The accused has a history of major depression and she was in a state of remission at the time of the alleged offence;[\[note: 3\]](#Ftn_3)
+(a)     The accused has a history of major depression and she was in a state of remission at the time of the alleged offence;[^3]
 
 (b)     There was no contributory link between her psychiatric disorder and the alleged offence.
 
-7       Since Dr Deva had stated unequivocally that there was no contributory link between the accused’s psychiatric disorder and the commission of the alleged offence, it was most unlikely that the conditions set out in s 339 of the CPC could be fulfilled. It would have been pointless for the court to appoint a psychiatrist (who would invariably also be from IMH) to render an opinion, when a forensic report on the accused (which addressed the issue of whether there was a contributory link between the psychiatric disorder and the offence) had already been prepared. Counsel for the defence acknowledged that the statutory requirements for an MTO had not been fulfilled.[\[note: 4\]](#Ftn_4) In these circumstances, the imposition of an MTO could not be considered.
+7       Since Dr Deva had stated unequivocally that there was no contributory link between the accused’s psychiatric disorder and the commission of the alleged offence, it was most unlikely that the conditions set out in s 339 of the CPC could be fulfilled. It would have been pointless for the court to appoint a psychiatrist (who would invariably also be from IMH) to render an opinion, when a forensic report on the accused (which addressed the issue of whether there was a contributory link between the psychiatric disorder and the offence) had already been prepared. Counsel for the defence acknowledged that the statutory requirements for an MTO had not been fulfilled.[^4] In these circumstances, the imposition of an MTO could not be considered.
 
 ## Mitigating factors
 
-8       The accused had married recently and was 6 months’ pregnant at the time of sentencing. The court was informed that she had been suffering from depressive illness since June 2016 and that her underlying mental illness caused her to react explosively. Although she had been placed on medication to stabilize her mood, the accused did not take her medication regularly as she did not like the side effects of the medication. There were several other episodes where she had lost her temper.[\[note: 5\]](#Ftn_5)
+8       The accused had married recently and was 6 months’ pregnant at the time of sentencing. The court was informed that she had been suffering from depressive illness since June 2016 and that her underlying mental illness caused her to react explosively. Although she had been placed on medication to stabilize her mood, the accused did not take her medication regularly as she did not like the side effects of the medication. There were several other episodes where she had lost her temper.[^5]
 
-9       Counsel stated that the offences were not pre-meditated and were committed on the spur of the moment. For the offences which were committed on 16 January 2018, while the accused did notice that the victim was attending to another passenger, she retaliated when she was told off for having rushed the victim. She then hit the victim out of anger but the hurt caused was minimal.[\[note: 6\]](#Ftn_6)
+9       Counsel stated that the offences were not pre-meditated and were committed on the spur of the moment. For the offences which were committed on 16 January 2018, while the accused did notice that the victim was attending to another passenger, she retaliated when she was told off for having rushed the victim. She then hit the victim out of anger but the hurt caused was minimal.[^6]
 
-10     For the offence which occurred on 9 December 2018, the accused had a heated argument with her boyfriend which lasted for several hours. Her boyfriend threatened to hit her and called her crazy. She lost control of herself at the lift landing as she felt that her boyfriend was intentionally making her agitated and that he had threatened to hit her.[\[note: 7\]](#Ftn_7)
+10     For the offence which occurred on 9 December 2018, the accused had a heated argument with her boyfriend which lasted for several hours. Her boyfriend threatened to hit her and called her crazy. She lost control of herself at the lift landing as she felt that her boyfriend was intentionally making her agitated and that he had threatened to hit her.[^7]
 
 11     Counsel submitted that if the court were not minded to impose an MTO, a fine should be imposed instead.
 
@@ -123,7 +124,7 @@ _First Information Report_
 
 12     In sentencing, I took into account the factors raised in the plea-in-mitigation and the fact that the accused had no antecedents. I accepted that the offences were committed on the spur of the moment and that the accused was remorseful and had pleaded guilty at an early opportunity. I was also sympathetic towards her mental health issues and her pregnancy. Nonetheless, the custodial threshold had been crossed due to the serious nature of her offences as well as the number of offences she had committed.
 
-13     For the 1st charge, the victim of the accused’s attack was a public transport worker and it was appropriate to pass a deterrent sentence. In _Wong Hoi Len v Public Prosecutor_ (_“Wong Hoi Len”_), in setting out a starting benchmark of 4 weeks’ imprisonment[\[note: 8\]](#Ftn_8) for cases of simple assaults against public service workers, VK Rajah stated at \[18\]:-
+13     For the 1st charge, the victim of the accused’s attack was a public transport worker and it was appropriate to pass a deterrent sentence. In _Wong Hoi Len v Public Prosecutor_ (_“Wong Hoi Len”_), in setting out a starting benchmark of 4 weeks’ imprisonment[^8] for cases of simple assaults against public service workers, VK Rajah stated at \[18\]:-
 
 \[T\]he courts must send a clear message that all acts of criminal violence against public transport workers will not be tolerated. These workers provide the larger community with an invaluable and essential service, and they have every right to work in a safe and secure environment.
 
@@ -137,15 +138,15 @@ _First Information Report_
 
 (d)     The offence was committed during the evening rush hour and would have caused a public disturbance.
 
-15     I accepted the defence submission that harm caused to the victim was low. He suffered pain and did not seek medical attention. However, this was more than a case of a simple assault. The accused’s culpability was high due to the presence of offence specific aggravating factors. Further, the accused had caused hurt to 2 other public transport workers on the same day. The charges relating to these assaults were taken into consideration for the purposes of sentencing.[\[note: 9\]](#Ftn_9)
+15     I accepted the defence submission that harm caused to the victim was low. He suffered pain and did not seek medical attention. However, this was more than a case of a simple assault. The accused’s culpability was high due to the presence of offence specific aggravating factors. Further, the accused had caused hurt to 2 other public transport workers on the same day. The charges relating to these assaults were taken into consideration for the purposes of sentencing.[^9]
 
 16     While the court was sympathetic towards the fact that the accused suffered from mental health issues, Dr Deva had stated that the accused was in remission and that there was no contributory link between her psychiatric disorder and the offence. I also noted that the accused did not take responsibility for her condition and did not take her prescribed medication regularly. It was therefore difficult for the court to place much weight on her mental health issues.
 
 17     In view of the accused’s culpability, an uplift of sentence from the starting point of 4 week’s imprisonment (as set out in _Wong Hoi Len_) was warranted. The prosecution had submitted for a 2-week uplift from the starting point of 4 weeks. But for the mitigating factors, I would have agreed with the prosecution. Having considered the mitigating factors which included the accused’s mental health issues as well as the fact that she was expecting a child, I sentenced the accused to 5 weeks’ imprisonment.
 
-18     The 2nd charge involved the use of insulting language on a public transport worker in a public place. I agreed with the defence that a fine could be imposed. The maximum fine for this offence is $5,000.[\[note: 10\]](#Ftn_10) I was of the view that a fine at the lower end of the range was appropriate and imposed a fine of $2,000 or in default to 2 weeks’ imprisonment.
+18     The 2nd charge involved the use of insulting language on a public transport worker in a public place. I agreed with the defence that a fine could be imposed. The maximum fine for this offence is $5,000.[^10] I was of the view that a fine at the lower end of the range was appropriate and imposed a fine of $2,000 or in default to 2 weeks’ imprisonment.
 
-19     The 5th charge which related to disorderly behaviour on 9 December 2018 was aggravated as the accused had by then been charged for her earlier offences.[\[note: 11\]](#Ftn_11) Apart from her disorderly behaviour, the accused had also kicked a policeman in his stomach and chest area.[\[note: 12\]](#Ftn_12) This charge was taken in consideration for the purposes of sentencing.[\[note: 13\]](#Ftn_13) For the 5th charge, I acceded to the request by the defence for a fine to be imposed. The maximum fine for this offence is $2,000. I was of the view that a fine of $1,000 or in default to 1 week’s imprisonment was the appropriate punishment.
+19     The 5th charge which related to disorderly behaviour on 9 December 2018 was aggravated as the accused had by then been charged for her earlier offences.[^11] Apart from her disorderly behaviour, the accused had also kicked a policeman in his stomach and chest area.[^12] This charge was taken in consideration for the purposes of sentencing.[^13] For the 5th charge, I acceded to the request by the defence for a fine to be imposed. The maximum fine for this offence is $2,000. I was of the view that a fine of $1,000 or in default to 1 week’s imprisonment was the appropriate punishment.
 
 ## Conclusion
 
@@ -153,31 +154,31 @@ _First Information Report_
 
 * * *
 
-[\[note: 1\]](#Ftn_1_1)S 339(4) read with s 339(3)(c) of the CPC.
+[^1]: S 339(4) read with s 339(3)(c) of the CPC.
 
-[\[note: 2\]](#Ftn_2_1)IMH report dated 17 September 2018 at \[27(a)\] and \[27(b)\]. \[27(c)\] to \[27(e)\] of the opinion and recommendations are not relevant and are not set out herein. The report is at Annex B of the Plea-in-Mitigation.
+[^2]: IMH report dated 17 September 2018 at \[27(a)\] and \[27(b)\]. \[27(c)\] to \[27(e)\] of the opinion and recommendations are not relevant and are not set out herein. The report is at Annex B of the Plea-in-Mitigation.
 
-[\[note: 3\]](#Ftn_3_1)The “alleged offence” refers to the offence(s) committed on 16 January 2018.
+[^3]: The “alleged offence” refers to the offence(s) committed on 16 January 2018.
 
-[\[note: 4\]](#Ftn_4_1)NE 23 May 2019, page 7, lines 2-3 and 14-22.
+[^4]: NE 23 May 2019, page 7, lines 2-3 and 14-22.
 
-[\[note: 5\]](#Ftn_5_1)Plea-in-mitigation at \[16\]-\[17\].
+[^5]: Plea-in-mitigation at \[16\]-\[17\].
 
-[\[note: 6\]](#Ftn_6_1)Plea-in-mitigation at \[7\]-\[9\].
+[^6]: Plea-in-mitigation at \[7\]-\[9\].
 
-[\[note: 7\]](#Ftn_7_1)Plea-in-mitigation at \[10\]-\[14\].
+[^7]: Plea-in-mitigation at \[10\]-\[14\].
 
-[\[note: 8\]](#Ftn_8_1)_Wong Hoi Len_ at \[20\].
+[^8]: _Wong Hoi Len_ at \[20\].
 
-[\[note: 9\]](#Ftn_9_1)MCN-901373-2018 (3rd charge) and MCN-901374-2018 (4th charge).
+[^9]: MCN-901373-2018 (3rd charge) and MCN-901374-2018 (4th charge).
 
-[\[note: 10\]](#Ftn_10_1)s 6(1)(a) Prevention of Harassment Act, p/u s 6(3).
+[^10]: s 6(1)(a) Prevention of Harassment Act, p/u s 6(3).
 
-[\[note: 11\]](#Ftn_11_1)The accused was first charged on 5 June 2018.
+[^11]: The accused was first charged on 5 June 2018.
 
-[\[note: 12\]](#Ftn_12_1)s 353 of the Penal Code.
+[^12]: s 353 of the Penal Code.
 
-[\[note: 13\]](#Ftn_13_1)DAC 904900-2019 (6th charge).
+[^13]: DAC 904900-2019 (6th charge).
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F23307-SSP.xml)

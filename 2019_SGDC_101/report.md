@@ -1,3 +1,4 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
 # Public Prosecutor _v_ Muhammad Shahidin bin Sahurdin  
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">DAC-930475-2016, MAGISTRATE'S APPEAL NO. 9039/2019/01</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">21 May 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Marvin Bay</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Deputy Public Prosecutor Theong Li Han for the State; Jayakumar Naidu (Jay Law Corporation) for the accused</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Muhammad Shahidin bin Sahurdin</td></tr></tbody></table>
@@ -10,11 +11,11 @@ This are my grounds setting out the basis for the conviction of Mr Muhammad Shah
 
 ### The charge
 
-2       Mr Shahidin has claimed trial to the following charge[\[note: 1\]](#Ftn_1) of an offence under section 5(1)(a) read with section 5(2) of the Misuse of Drugs Act (Cap 185, 2008 Rev Ed) and Section 34 of the Penal Code (Cap 224, 2008 Rev Ed), punishable under s 33(1) of the Misuse of Drugs Act (Cap 185, 2008 Rev Ed).
+2       Mr Shahidin has claimed trial to the following charge[^1] of an offence under section 5(1)(a) read with section 5(2) of the Misuse of Drugs Act (Cap 185, 2008 Rev Ed) and Section 34 of the Penal Code (Cap 224, 2008 Rev Ed), punishable under s 33(1) of the Misuse of Drugs Act (Cap 185, 2008 Rev Ed).
 
 … that (he), on 2 August 2016 at about 6.15 p.m., at Blk 402, Hougang Avenue 10, Singapore 530402, together with one Muhammad Zulkifli Bin Syed Ali, **_in furtherance of the common intention_** of both of you, did traffic in a Class A Controlled Drug listed in the First Schedule to the Misuse of Drugs Act…, to wit, by having in your possession for the purpose of trafficking, one (01) packet containing not less than 0.50 gram of crystalline substance which was pulverized and homogenized into a powdery substance which was analysed and found to contain not less than 0.33 gram of methamphetamine…
 
-3       Plainly stated, Mr Shahidin is charged with having on 2 August 2016 at about 6.15 p.m., at Blk 402, Hougang Avenue 10, together with one Muhammad Zulkifli Bin Syed Ali, acting on their common intention to traffic in methamphetamine, by having in possession, for the purpose of trafficking, one packet which was found, upon analysis to contain not less than 0.33 gram of methamphetamine, better known in its street name of ‘**_Ice_**’. Mr Shahidin had initially faced a joint trial with Mr Zulkifli, but the latter had fled prior to the first day of trial[\[note: 2\]](#Ftn_2). Mr Shahidin, the remaining accused person, had confirmed his intent to claim trial, and the trial had thus proceeded against the charge he faced. Mr Zulkifli was subsequently arrested, and produced in Court 26 on 30 December 2017.
+3       Plainly stated, Mr Shahidin is charged with having on 2 August 2016 at about 6.15 p.m., at Blk 402, Hougang Avenue 10, together with one Muhammad Zulkifli Bin Syed Ali, acting on their common intention to traffic in methamphetamine, by having in possession, for the purpose of trafficking, one packet which was found, upon analysis to contain not less than 0.33 gram of methamphetamine, better known in its street name of ‘**_Ice_**’. Mr Shahidin had initially faced a joint trial with Mr Zulkifli, but the latter had fled prior to the first day of trial[^2]. Mr Shahidin, the remaining accused person, had confirmed his intent to claim trial, and the trial had thus proceeded against the charge he faced. Mr Zulkifli was subsequently arrested, and produced in Court 26 on 30 December 2017.
 
 4       The offence of trafficking in 0.33g of methamphetamine is punishable with a minimum sentence of 5 years’ imprisonment and 5 strokes of the cane.
 
@@ -22,7 +23,7 @@ This are my grounds setting out the basis for the conviction of Mr Muhammad Shah
 
 ### Agreed facts
 
-6       The areas of dispute in this case have been greatly reduced by the prosecution and defence stipulating certain agreed facts, and formalising this agreement by a document setting out an agreed statement of facts[\[note: 3\]](#Ftn_3). Per this document, the salient settled facts[\[note: 4\]](#Ftn_4) are as follows:
+6       The areas of dispute in this case have been greatly reduced by the prosecution and defence stipulating certain agreed facts, and formalising this agreement by a document setting out an agreed statement of facts[^3]. Per this document, the salient settled facts[^4] are as follows:
 
 3.    On 2 August 2016, at or about 5.45 p.m., acting on information received, ASP Lim Peng Chye ("ASP Lim") led a party of officers from the Central Narcotics Bureau …to the vicinity of Blk 402 to look out for Shahidin. Sgt Ibrahim was tasked to observe unit #XXX of Blk 402 Hougang Ave 10 ("the unit").
 
@@ -30,13 +31,13 @@ This are my grounds setting out the basis for the conviction of Mr Muhammad Shah
 
 5    A short while later, Shahidin and Zulkifli came out of one of the lifts and were placed under arrest at the ground floor lift lobby. Both Shahidin and Zulkifli were then brought to the void deck of Blk 402, where each of them were searched.
 
-6.    Cpl Laila conducted the search on Shahidin. Nothing incriminating was found on Shahidin, Sgt Zakaria conducted the search on Zulkifli. Sgt Zakaria recovered the following items from a red plastic bag that Zulkifli was carrying [\[note: 5\]](#Ftn_5):
+6.    Cpl Laila conducted the search on Shahidin. Nothing incriminating was found on Shahidin, Sgt Zakaria conducted the search on Zulkifli. Sgt Zakaria recovered the following items from a red plastic bag that Zulkifli was carrying [^5]:
 
-(a)    One Bluetooth headset box[\[note: 6\]](#Ftn_6), containing one red plastic bag[\[note: 7\]](#Ftn_7) (later marked as) containing one green "Pall Mall" cigarette box[\[note: 8\]](#Ftn_8) containing one packet of crystalline substance.[\[note: 9\]](#Ftn_9)
+(a)    One Bluetooth headset box[^6], containing one red plastic bag[^7] (later marked as) containing one green "Pall Mall" cigarette box[^8] containing one packet of crystalline substance.[^9]
 
 …
 
-7 …    Later on the same day, at the CNB office of Tanglin Police Division Headquarters, Sgt Sam Toh seized Shahidiri's personal items, which includes one blue Samsung phone[\[note: 10\]](#Ftn_10)…
+7 …    Later on the same day, at the CNB office of Tanglin Police Division Headquarters, Sgt Sam Toh seized Shahidiri's personal items, which includes one blue Samsung phone[^10]…
 
 …
 
@@ -48,9 +49,9 @@ This are my grounds setting out the basis for the conviction of Mr Muhammad Shah
 
 ### Evidence of PW1; W/SSG Nurfarhanah Osman, and PW2; SSG Eugene Tong Kecheng
 
-7       The stipulation on the above set of agreed facts, along with Mr Shahidin’s counsel’s indication that he would not be contesting the voluntariness of his long statement[\[note: 11\]](#Ftn_11), has made it unnecessary to set out the evidence of the first two prosecution witnesses PW1 W/SSG Nurfarhanah Osman and PW2 SSG Eugene Tong Kecheng in any great detail, as they had been largely involved in undisputed procedural aspects as the arrest of the accused, and the recording of statements P-9[\[note: 12\]](#Ftn_12) and P10, respectively from Mr Shahidin.
+7       The stipulation on the above set of agreed facts, along with Mr Shahidin’s counsel’s indication that he would not be contesting the voluntariness of his long statement[^11], has made it unnecessary to set out the evidence of the first two prosecution witnesses PW1 W/SSG Nurfarhanah Osman and PW2 SSG Eugene Tong Kecheng in any great detail, as they had been largely involved in undisputed procedural aspects as the arrest of the accused, and the recording of statements P-9[^12] and P10, respectively from Mr Shahidin.
 
-8       W/SSG Nurfarhanah had been part of the arresting party, and indicated that she had been briefed to proceed to Block 402 Hougang Avenue 10 ‘**_to look out for a suspected trafficker by the name of Din’_**.[\[note: 13\]](#Ftn_13) The team was told that ‘Din’s’ full name was Mohammad Shahidin Bin Sahurdin[\[note: 14\]](#Ftn_14). At the scene, W/SSG Nurfarhanah had received information that there were two suspects leaving a unit at level 7. The officers deployed around the void deck of Block 402 Hougang Avenue 10 had waited for the two suspects to emerge from the lift before effecting arrest. Both were searched by CNB officers at different sites, and one of the officer recovered a packet of drug in a cigarette box. PW1 learnt that the person found with the drugs was Mr Zulkifli, and not the accused; Mr Shahidin. W/SSG Nurfahanah had recorded a contemporaneous statement from Mr Shahidin, with the salient portions set out[\[note: 15\]](#Ftn_15).
+8       W/SSG Nurfarhanah had been part of the arresting party, and indicated that she had been briefed to proceed to Block 402 Hougang Avenue 10 ‘**_to look out for a suspected trafficker by the name of Din’_**.[^13] The team was told that ‘Din’s’ full name was Mohammad Shahidin Bin Sahurdin[^14]. At the scene, W/SSG Nurfarhanah had received information that there were two suspects leaving a unit at level 7. The officers deployed around the void deck of Block 402 Hougang Avenue 10 had waited for the two suspects to emerge from the lift before effecting arrest. Both were searched by CNB officers at different sites, and one of the officer recovered a packet of drug in a cigarette box. PW1 learnt that the person found with the drugs was Mr Zulkifli, and not the accused; Mr Shahidin. W/SSG Nurfahanah had recorded a contemporaneous statement from Mr Shahidin, with the salient portions set out[^15].
 
 Q1:Who is this? (_Mr Fadli’s image shown to accused_)
 
@@ -96,13 +97,13 @@ A10:“**_Beng” would pay me with a pack of cigarettes_**.
 
 ### Evidence of PW3; CNB FORT officer Koh Kok Sim
 
-9       Forensics Specialist Koh Soon Sim from the CNB Forensics Response Team (FORT) gave evidence that he had undertaken a data extraction exercise of Mr Shahidin’s Samsung mobile device, and had produced a report which was admitted into the proceedings[\[note: 16\]](#Ftn_16) Mr Koh indicated that the mobile phone forensic processing system had extracted information relating to calls, and _WhatsApp_ messages that Mr Shahidin’s Sumsung phone had logged on 2 of August 2016. Among the calls made had been _WhatsApp_ calls to a phone number XXX, to an individual listed in the call records as **_Amad (Jenggo_**), which was the number of a certain Mohamad Fadli Bin Abubakar (PW4).
+9       Forensics Specialist Koh Soon Sim from the CNB Forensics Response Team (FORT) gave evidence that he had undertaken a data extraction exercise of Mr Shahidin’s Samsung mobile device, and had produced a report which was admitted into the proceedings[^16] Mr Koh indicated that the mobile phone forensic processing system had extracted information relating to calls, and _WhatsApp_ messages that Mr Shahidin’s Sumsung phone had logged on 2 of August 2016. Among the calls made had been _WhatsApp_ calls to a phone number XXX, to an individual listed in the call records as **_Amad (Jenggo_**), which was the number of a certain Mohamad Fadli Bin Abubakar (PW4).
 
-10     The FORT report of calls and messages logged in Mr Shahidin’s Samsung, while incomplete as a result of limitations in the data extraction process[\[note: 17\]](#Ftn_17), were nevertheless, in these proceedings, an essential means to **_counter-check_** against another set of records documenting calls and messages between Mr Fadli, and the person using Mr Shahidin’s mobile device, after Mr Fadli’s arrest and co-option to work with a CNB officer; Sgt Norjansher Shah Bin Misnan (PW5) to bring in his drug supplier.
+10     The FORT report of calls and messages logged in Mr Shahidin’s Samsung, while incomplete as a result of limitations in the data extraction process[^17], were nevertheless, in these proceedings, an essential means to **_counter-check_** against another set of records documenting calls and messages between Mr Fadli, and the person using Mr Shahidin’s mobile device, after Mr Fadli’s arrest and co-option to work with a CNB officer; Sgt Norjansher Shah Bin Misnan (PW5) to bring in his drug supplier.
 
 ### Evidence of PW4; Mohamad Fadli Bin Abubakar
 
-11     The prosecution’s principal witness at trial was Mohamad Fadli Bin Abubakar. Mr Fadli testified that Mr Shahidin, who was known to Mr Fadli as “Din”, was his **_only_** _Ice_ supplier. It is pertinent to note that Fadli was less than keen to undertake the role of being a prosecution witness in these proceedings, and only attended after a warrant having been taken against him[\[note: 18\]](#Ftn_18). Once on the stand however, Mr Fadli was forthright in giving a candid account of his relationship and dealings with Mr Shahidin. Mr Fadli informed the court that he had bought _Ice_ from Mr Shahidin on at least two previous occasions. On 2 August 2016, Mr Fadli had made his final order of _Ice_ with Mr Shahidin, upon instructions by CNB officers, after his earlier arrest. In this follow-up operation, Mr Shahidin and Mr Zulkifli had been arrested.
+11     The prosecution’s principal witness at trial was Mohamad Fadli Bin Abubakar. Mr Fadli testified that Mr Shahidin, who was known to Mr Fadli as “Din”, was his **_only_** _Ice_ supplier. It is pertinent to note that Fadli was less than keen to undertake the role of being a prosecution witness in these proceedings, and only attended after a warrant having been taken against him[^18]. Once on the stand however, Mr Fadli was forthright in giving a candid account of his relationship and dealings with Mr Shahidin. Mr Fadli informed the court that he had bought _Ice_ from Mr Shahidin on at least two previous occasions. On 2 August 2016, Mr Fadli had made his final order of _Ice_ with Mr Shahidin, upon instructions by CNB officers, after his earlier arrest. In this follow-up operation, Mr Shahidin and Mr Zulkifli had been arrested.
 
 ### Background history and prior dealings between Mr Fadli and Mr Shahidin
 
@@ -110,7 +111,7 @@ A10:“**_Beng” would pay me with a pack of cigarettes_**.
 
 13     After he was made aware by friends that Mr Shahidin was selling _Ice_, Mr Fadli had, in July 2016, begun buying _Ice_ from Mr Shahidin. Mr Fadli revealed that Mr Shahidin’s mobile phone number had been in the contact list of his phone as “_Din Bomb”_.
 
-14     Mr Fadli’s evidence in the manner of his dealings with Mr Shahidin, whom he habitually referred to in court under the moniker ‘_Din_’, is especially cogent. A salient portion of his testimony is therefore reproduced below[\[note: 19\]](#Ftn_19):
+14     Mr Fadli’s evidence in the manner of his dealings with Mr Shahidin, whom he habitually referred to in court under the moniker ‘_Din_’, is especially cogent. A salient portion of his testimony is therefore reproduced below[^19]:
 
 <table align="left" cellpadding="0" cellspacing="0" class="Judg-2" frame="none" pgwide="1"><colgroup><col width="19%"> <col width="81%"> </colgroup><tbody><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Q</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Okay. So, earlier, you said that you bought your Ice from this friend, Din. How did you come to know that Din was selling Ice?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">A</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">From my friends.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Q</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b><em>So, after you heard that Din was selling Ice, did you ask Din whether he is selling Ice?</em></b></p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">A</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b><em>Yah.</em></b></p></td></tr><tr><td align="left" class="" colspan="2" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">…</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Q</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Did you ask him in person or over the phone?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">A</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Over the phone.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Q</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">And do you remember if you called him or he called you?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">A</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">I think I called him.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Q</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">You called him?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">A</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Call or text.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Q</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b><em>And when you asked Din whether he was selling Ice, what did he say?</em></b></p></td></tr><tr><td align="left" class="" colspan="2" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">…</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">A</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b><em>He need to ask his friend</em></b>.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Q</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Did he say that he was selling Ice?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">A</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Say---he didn’t say that he was selling Ice. He just say he can get for me.</p></td></tr><tr><td align="left" class="" colspan="2" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">…</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Witness:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">He wasn’t the supplier. He only just say he try to get from someone or what.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Court:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">“He only said that he can”?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Witness:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">He try to get from someone or---</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Court:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">He had to get it from someone. I see.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Q</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b><em>Did Din tell you to contact someone else to buy the Ice?</em></b></p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">A</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b><em>No.</em></b></p></td></tr><tr><td align="left" class="" colspan="2" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">[<em>Emphasis added</em>]</p></td></tr></tbody></table>
 
@@ -121,7 +122,7 @@ A10:“**_Beng” would pay me with a pack of cigarettes_**.
 
 15     As a significant point in the prosecution’s case, Mr Fadli identified Mr Shahidin as his sole supplier of drugs, and **_did not even know_** Mr Zulkifli, the acknowledged supplier of the drugs that Mr Fadli had been implicated from, nor had he never communicated with any person who identified by that name. Indeed, Mr Shahidin had never told him to contact any other person in the process of Mr Fadli’s procurement of _Ice._
 
-16     Mr Fadli did, however, recall collecting his drug purchase from a dark complexioned man[\[note: 20\]](#Ftn_20) in a prior transaction (which was the second of two such transactions before Mr Fadli’s arrest), who **_could_** have been Mr Zulkifli. Mr Shahidin had not introduced this individual, and Mr Fadli had never communicated with this person then or subsequently. Salient parts of his testimony in this aspect is as follows[\[note: 21\]](#Ftn_21):
+16     Mr Fadli did, however, recall collecting his drug purchase from a dark complexioned man[^20] in a prior transaction (which was the second of two such transactions before Mr Fadli’s arrest), who **_could_** have been Mr Zulkifli. Mr Shahidin had not introduced this individual, and Mr Fadli had never communicated with this person then or subsequently. Salient parts of his testimony in this aspect is as follows[^21]:
 
 Q **_Now, Mr Fadli…do you know anyone called Muhammad Zulkifli Bin Syed Ali?_**
 
@@ -153,23 +154,23 @@ AYes.
 
 18     To allow a better appreciation of the significance of Mr Fadli’s testimony in respect of these interactions, it would be apposite to briefly state Mr Shahidin’s position in defending against the proceeded possession for purpose of trafficking charge. Mr Shahidin did **_not_** deny that Mr Fadli had contacted him to buy _Ice_ on 2 August 2016. His position at trial was that he (Mr Shahidin) had **_merely directed_** Mr Fadli to Mr Zulkifli, who was the actual drug supplier, and that he had no further involvement in Mr Fadli’s order for methamphetamine from that point.
 
-19     The prosecution sought to show that Mr Fadli’s account of his interactions with Din was entirely consistent with their case that while Mr Shahidin did not control his own store of drugs, he nevertheless fulfilled a **_middleman_** role between Mr Fadli and Mr Zulkifli[\[note: 22\]](#Ftn_22). The prosecution’s case was therefore that while Mr Fadli never dealt directly with Mr Zulkifli (since the Ice sold to him (Mr Fadli) actually came from Mr Zulkifli), this was because the buyer and supplier had been brought together by Mr Shahidin assuming a merchant role. This middleman was **_not uncompensated_** as Mr Zulkifli would, according to recorded statements[\[note: 23\]](#Ftn_23), reward Mr Shahidin with a tangible, if somewhat meagre, recompense such as a packet of cigarettes, for taking Mr Fadli’s orders of _Ice_, and (in this instance at least) co-ordinating the delivery.
+19     The prosecution sought to show that Mr Fadli’s account of his interactions with Din was entirely consistent with their case that while Mr Shahidin did not control his own store of drugs, he nevertheless fulfilled a **_middleman_** role between Mr Fadli and Mr Zulkifli[^22]. The prosecution’s case was therefore that while Mr Fadli never dealt directly with Mr Zulkifli (since the Ice sold to him (Mr Fadli) actually came from Mr Zulkifli), this was because the buyer and supplier had been brought together by Mr Shahidin assuming a merchant role. This middleman was **_not uncompensated_** as Mr Zulkifli would, according to recorded statements[^23], reward Mr Shahidin with a tangible, if somewhat meagre, recompense such as a packet of cigarettes, for taking Mr Fadli’s orders of _Ice_, and (in this instance at least) co-ordinating the delivery.
 
-20     The prosecution’s case[\[note: 24\]](#Ftn_24), bolstered by PW$’s testimony and the call and message records, was essentially that after receiving the call from Mr Fadli, Mr Shahidin would check with Mr Zulkifli to see if he had the amount of _Ice_ that Mr Fadli had asked for. Mr Shahidin had then **_continued to liaise_** with Mr Fadli via his mobile phone number XXX, to arrange for the collection of the order.
+20     The prosecution’s case[^24], bolstered by PW$’s testimony and the call and message records, was essentially that after receiving the call from Mr Fadli, Mr Shahidin would check with Mr Zulkifli to see if he had the amount of _Ice_ that Mr Fadli had asked for. Mr Shahidin had then **_continued to liaise_** with Mr Fadli via his mobile phone number XXX, to arrange for the collection of the order.
 
 21     The prosecution had averred to a close co-operative relationship between the two in pursuance of this transaction with Mr Fadli. The prosecution’s case was that in the afternoon preceding the time of the rendezvous with Mr Fadli, Mr Shahidin had assisted Mr Zulkifli in packing the packet of _Ice_ in Mr Shahidin’s room, as this was facilitated by scavenging plastic bags and boxes from Mr Shahidin’s **_own_** residence to use as packaging. Mr Shahidin and Mr Zulkifli then proceeded downstairs to the void deck via lift to meet Mr Fadli. At some point, Mr Zulkifli had been the one holding on to the red plastic bag containing Mr Fadli’s order of Ice. Upon reaching the ground floor, the two men had been arrested by CNB officers.
 
 ### Accused’s section 22 Criminal Procedure Code Statement
 
-22     Mr Shahidin’s statement was admitted as part of the prosecution’s case[\[note: 25\]](#Ftn_25) after he had confirmed that it had been voluntarily provided. A close reading shows Mr Shahidin’s role to be considerably greater than his characterisation at trial of being a generally disinterested party who merely referred Mr Fadli to Mr Zulkifli to purchase his drug supply. The salient parts of the statement are set out.
+22     Mr Shahidin’s statement was admitted as part of the prosecution’s case[^25] after he had confirmed that it had been voluntarily provided. A close reading shows Mr Shahidin’s role to be considerably greater than his characterisation at trial of being a generally disinterested party who merely referred Mr Fadli to Mr Zulkifli to purchase his drug supply. The salient parts of the statement are set out.
 
-2.    On 02 August 2016 (Tuesday), at around 1815hrs, I was arrested together with friend[\[note: 26\]](#Ftn_26), (Mr Muhammad Zulkifi Bin Syed Ali, NRIC No: XXX) by a party of officers who identified themselves as CNB officers inside the lift at the ground floor lobby at Blk 402, Hougang Ave 10, # XXX. The party of CNB officers arrested us when we are about to walk out from the lift. We were immediately handcuffed by the CNB officers inside the lift. The party of CNB officers escorted us out from the lift and a body search was conducted on me. Nothing incriminating was seized from me. A body search was also conducted on (Mr Zulkifli) by CNB officers. I overheard that a packet of "Ice" was seized by CNB officers.
+2.    On 02 August 2016 (Tuesday), at around 1815hrs, I was arrested together with friend[^26], (Mr Muhammad Zulkifi Bin Syed Ali, NRIC No: XXX) by a party of officers who identified themselves as CNB officers inside the lift at the ground floor lobby at Blk 402, Hougang Ave 10, # XXX. The party of CNB officers arrested us when we are about to walk out from the lift. We were immediately handcuffed by the CNB officers inside the lift. The party of CNB officers escorted us out from the lift and a body search was conducted on me. Nothing incriminating was seized from me. A body search was also conducted on (Mr Zulkifli) by CNB officers. I overheard that a packet of "Ice" was seized by CNB officers.
 
 3.    After the body search was conducted on me, the same party of CNB officers escorted me to my unit at level seven and conducted house search inside the room that my family is renting. Nothing incriminating was seized from the room search…
 
-7.    On 02 August 2016 (Tuesday), at around 1200hrs, I met up with (Mr Zulkifli) at the vicinity of Serangoon North. We took bus to Fahrenheit clinic located at 218 Bedok Street 1. At around 1500hrs, (Mr Zulkifli) companied me to consult doctor. At around 1500hrs plus, I received a call from (Mr Fadli)[\[note: 27\]](#Ftn_27)**_I know_** (Mr Fadli) **_since year 2004 through_** (Mr Fadli’s) **_older brother. He asked me if my side have "Ice" or not._** (Mr Fadli) **_requested for 0.5 gram of "Ice". I told him that I will check and update him again later. After the call conversation, I checked with_** (Mr Zulkifli) **_if he had supply for 0.5 gram of "Ice", I called back (_**Mr Fadli) **_using my hand phone to inform him that I had supply for 0.5 gram of "Ice" which was from_** (Mr Zulkifli). (Mr Fadli) informed me to meet at serangoon Blk 101 at 7pm. After the consultation of doctor, I together with (Mr Zulkifli) went back to my residential at Hougang to play computer games.
+7.    On 02 August 2016 (Tuesday), at around 1200hrs, I met up with (Mr Zulkifli) at the vicinity of Serangoon North. We took bus to Fahrenheit clinic located at 218 Bedok Street 1. At around 1500hrs, (Mr Zulkifli) companied me to consult doctor. At around 1500hrs plus, I received a call from (Mr Fadli)[^27]**_I know_** (Mr Fadli) **_since year 2004 through_** (Mr Fadli’s) **_older brother. He asked me if my side have "Ice" or not._** (Mr Fadli) **_requested for 0.5 gram of "Ice". I told him that I will check and update him again later. After the call conversation, I checked with_** (Mr Zulkifli) **_if he had supply for 0.5 gram of "Ice", I called back (_**Mr Fadli) **_using my hand phone to inform him that I had supply for 0.5 gram of "Ice" which was from_** (Mr Zulkifli). (Mr Fadli) informed me to meet at serangoon Blk 101 at 7pm. After the consultation of doctor, I together with (Mr Zulkifli) went back to my residential at Hougang to play computer games.
 
-8.    At around 1700hrs plus, (Mr Fadli) messaged me and informed that he will be heading down to "7-11" located at Blk 401 Hougang to get 0.5gram of "Ice" from (Mr Zulkifli). I informed (Mr Zulkifli) that (Mr Fadli) is on the way down to collect the 0.5 gram of "Ice". Inside my room, I witnessed (Mr Zulkifli) packing one packet of "Ice”… I witnessed (Mr Zulkifli) taking a packet of "Ice" into an empty packet of green colour "PALL MALL" cigarette box[\[note: 28\]](#Ftn_28). I did not noticed (_sic_) where he took out the packet of "Ice" from. This empty packet of green colour "PALL MALL" cigarette box belonged to me. I am a smoker and only smoke green colour "PALL MALL" cigarettes. My house has many empty packets of "PALL MALL" cigarettes boxes. After placing the packet of "Ice" into the "PALL MALL" cigarette box, he placed the cigarette box into a red colour plastic bag[\[note: 29\]](#Ftn_29). He then placed the red colour plastic bag into an empty Bluetooth headset box[\[note: 30\]](#Ftn_30). After that, he placed this empty Bluetooth headset box into a red colour plastic bag. The two red colour plastic bags[\[note: 31\]](#Ftn_31), and also the empty Bluetooth headset box. I confirmed that the packet of "Ice"[\[note: 32\]](#Ftn_32) does not belonged(sic) to me. I do not have any knowledge of this packet of "Ice", I only know is from (Mr Zulkifli). I confirmed never touch this packet of "Ice" before. This packet of "Ice" belonged to (Mr Zulkifli).
+8.    At around 1700hrs plus, (Mr Fadli) messaged me and informed that he will be heading down to "7-11" located at Blk 401 Hougang to get 0.5gram of "Ice" from (Mr Zulkifli). I informed (Mr Zulkifli) that (Mr Fadli) is on the way down to collect the 0.5 gram of "Ice". Inside my room, I witnessed (Mr Zulkifli) packing one packet of "Ice”… I witnessed (Mr Zulkifli) taking a packet of "Ice" into an empty packet of green colour "PALL MALL" cigarette box[^28]. I did not noticed (_sic_) where he took out the packet of "Ice" from. This empty packet of green colour "PALL MALL" cigarette box belonged to me. I am a smoker and only smoke green colour "PALL MALL" cigarettes. My house has many empty packets of "PALL MALL" cigarettes boxes. After placing the packet of "Ice" into the "PALL MALL" cigarette box, he placed the cigarette box into a red colour plastic bag[^29]. He then placed the red colour plastic bag into an empty Bluetooth headset box[^30]. After that, he placed this empty Bluetooth headset box into a red colour plastic bag. The two red colour plastic bags[^31], and also the empty Bluetooth headset box. I confirmed that the packet of "Ice"[^32] does not belonged(sic) to me. I do not have any knowledge of this packet of "Ice", I only know is from (Mr Zulkifli). I confirmed never touch this packet of "Ice" before. This packet of "Ice" belonged to (Mr Zulkifli).
 
 9.    After (Mr Zulkifli) finished packing the packet of "Ice", we took lift and went down together to meet (Mr Fadli), (Mr Zulkifli) was holding on to the red colour plastic bag containing one packet of "Ice". Once we landed at the ground floor, both of us were arrested by CNB officers.
 
@@ -179,11 +180,11 @@ AYes.
 
 ### Fadli’s account of the operation on 2 August 2016 to lure out his supplier
 
-23     Mr Fadli had been arrested with drug paraphernalia earlier at Toa Payoh that day as he was heading home to his after dropping his children off to school[\[note: 33\]](#Ftn_33). He had admitted to consuming drugs, and Mr Shahidin’s number had been listed in his seized mobile phone, under the appellation _‘Din Bomb’_. Mr Fadli had been using his phone at the time of his arrest[\[note: 34\]](#Ftn_34), which had aroused interest in the mobile device among the arresting officers. He had then been asked to co-operate in an operation against his supplier by way of a staged purchase of a quantity of methamphetamine. Mr Fadli could not remember the name of the officer he was required to work with in this enterprise, but recalled that he was heavy-set, bearded, and had Malay features, which were attributes consistent with the appearance of PW5 Sgt Norjansher Shah Misnan[\[note: 35\]](#Ftn_35).
+23     Mr Fadli had been arrested with drug paraphernalia earlier at Toa Payoh that day as he was heading home to his after dropping his children off to school[^33]. He had admitted to consuming drugs, and Mr Shahidin’s number had been listed in his seized mobile phone, under the appellation _‘Din Bomb’_. Mr Fadli had been using his phone at the time of his arrest[^34], which had aroused interest in the mobile device among the arresting officers. He had then been asked to co-operate in an operation against his supplier by way of a staged purchase of a quantity of methamphetamine. Mr Fadli could not remember the name of the officer he was required to work with in this enterprise, but recalled that he was heavy-set, bearded, and had Malay features, which were attributes consistent with the appearance of PW5 Sgt Norjansher Shah Misnan[^35].
 
 ### Evidence of CNB Sgt Norjansher
 
-24     Mr Muhammad Norjansher Shah Bin Misnan, a six-year veteran of the Central Narcotics Bureau, had recorded Fadli’s statement at the Tanglin CNB premises, after his arrest. The recording session commenced after Mr Fadli’s urine test results were known. Both men were seated during the process, and Mr Fadli had reportedly been forthright in disclosing his drug activities. He had stated when he had last smoked _Ice_ and where he obtained the _Ice_ from[\[note: 36\]](#Ftn_36), which prompted Sgt Norjansher to formulate a plan lure out Mr Fadli’s supplier[\[note: 37\]](#Ftn_37):
+24     Mr Muhammad Norjansher Shah Bin Misnan, a six-year veteran of the Central Narcotics Bureau, had recorded Fadli’s statement at the Tanglin CNB premises, after his arrest. The recording session commenced after Mr Fadli’s urine test results were known. Both men were seated during the process, and Mr Fadli had reportedly been forthright in disclosing his drug activities. He had stated when he had last smoked _Ice_ and where he obtained the _Ice_ from[^36], which prompted Sgt Norjansher to formulate a plan lure out Mr Fadli’s supplier[^37]:
 
 QSo where did Mr Fadli say he got the Ice from?
 
@@ -201,7 +202,7 @@ AI asked him if it was possible to lure Din.
 
 ### Modus operandi for luring ‘Din’ with a staged purchase
 
-25     In the process of luring out ‘Din’, Sgt Norjansher learnt that Mr Fadli’s usual order[\[note: 38\]](#Ftn_38) from Din was $30 worth of Ice. He thus instructed him to call ‘Din’ to order $30 of Ice. Mr Fadli had made the call, and spoke on Malay. Din responded to the call, and started a chain of communications by call and _WhatsApp_ text. During these calls, the mobile phone was not placed on speaker mode, and Sgt Norjansher did not hear the voice of the person Mr Fadli was speaking to, nor the content of the message from that person. Sgt Norjansher had waited for Mr Fadli put down the phone, before inquiring on that aspect of the conversation, and recording this on a piece of paper[\[note: 39\]](#Ftn_39).
+25     In the process of luring out ‘Din’, Sgt Norjansher learnt that Mr Fadli’s usual order[^38] from Din was $30 worth of Ice. He thus instructed him to call ‘Din’ to order $30 of Ice. Mr Fadli had made the call, and spoke on Malay. Din responded to the call, and started a chain of communications by call and _WhatsApp_ text. During these calls, the mobile phone was not placed on speaker mode, and Sgt Norjansher did not hear the voice of the person Mr Fadli was speaking to, nor the content of the message from that person. Sgt Norjansher had waited for Mr Fadli put down the phone, before inquiring on that aspect of the conversation, and recording this on a piece of paper[^39].
 
 ### The transcript of exchanges between Fadli and ‘Din’
 
@@ -214,15 +215,15 @@ AI asked him if it was possible to lure Din.
   
   
 
-28     Sgt Norjansher indicated that entries 1, 2, 13 and 30 involved mobile phone calls, while the remaining 34 entries were WhatsApp messages. Starting from serial number 3, which was sent from ‘Din’ to Mr Fadli, Mr Fadli would show Sgt Norjansher each successive message on the screen of his mobile phone. Sgt Norajnsher would use his own mobile phone and take a photo[\[note: 41\]](#Ftn_41) of the conversation from Fadli’s phone, and transcribe these messages. With a view to luring ‘Din’ for apprehension, Sgt Norjansher would tell Mr Fadli exactly what to reply to Din, giving him a level of discretion in composing his message rather than forcing him to follow an exact word-for-word script. In transcribing, Sgt Norjansher would type out the Malay conversation first, and then translate[\[note: 42\]](#Ftn_42) the messages to English at the bottom of the Malay sentence using a bracket to distinguish between the two texts. Sgt Norjansher professed to be fluent in the Malay language as Malay had been his mother tongue, and a language that he had continued to use conversationally, Sgt Norjansher’s formal education in that language had extended to his GCE O-levels[\[note: 43\]](#Ftn_43). To facilitate the operation, starting at serial number 29, Sgt Norjansher told Mr Fadli that he had to buy time at this juncture. After learning from Mr Fadli that there was a 7-Eleven store in the vicinity, he had caused Mr Fadli to send a message to ‘Din’ that “I am stopping at the back. I am going to buy chocolate for my son at 7-Eleven.”
+28     Sgt Norjansher indicated that entries 1, 2, 13 and 30 involved mobile phone calls, while the remaining 34 entries were WhatsApp messages. Starting from serial number 3, which was sent from ‘Din’ to Mr Fadli, Mr Fadli would show Sgt Norjansher each successive message on the screen of his mobile phone. Sgt Norajnsher would use his own mobile phone and take a photo[^41] of the conversation from Fadli’s phone, and transcribe these messages. With a view to luring ‘Din’ for apprehension, Sgt Norjansher would tell Mr Fadli exactly what to reply to Din, giving him a level of discretion in composing his message rather than forcing him to follow an exact word-for-word script. In transcribing, Sgt Norjansher would type out the Malay conversation first, and then translate[^42] the messages to English at the bottom of the Malay sentence using a bracket to distinguish between the two texts. Sgt Norjansher professed to be fluent in the Malay language as Malay had been his mother tongue, and a language that he had continued to use conversationally, Sgt Norjansher’s formal education in that language had extended to his GCE O-levels[^43]. To facilitate the operation, starting at serial number 29, Sgt Norjansher told Mr Fadli that he had to buy time at this juncture. After learning from Mr Fadli that there was a 7-Eleven store in the vicinity, he had caused Mr Fadli to send a message to ‘Din’ that “I am stopping at the back. I am going to buy chocolate for my son at 7-Eleven.”
 
 ### Incongruity with FORT report
 
-29     Sgt Norjansher was asked by DPP Teong to clarify the entry in serial number 2 which Sgt Norjansher had documented to be a call **_by_** ‘Din’ **_to_** Mr Fadli. This had differed from an extraction report from the CNB’s Forensic Response Team of Mr Shahidin’s phone which appeared to show that the call had been made at 3.45 pm by Mr Fadli (who was listed in Mr Shahidin’s phone as _Amad (Jenggo_)) **_to_** ‘Din’. A previous witness; PW3 Forensic Expert Koh Soon Kim had in his FORT report documented the call received from ‘_Amad (Jenggo)’_ (Mr Fadli’s phone) on the 2 August 2016 at 1545 with the annotation “_Recorded a call on the 2nd of August 2016 at 1545 hours_.”[\[note: 44\]](#Ftn_44) On whether ‘Din’ had called Mr Fadli or vice versa in that instance, Sgt Norjansher was candid in conceding that he ‘_could not recall who called who at that point of time_’ but could remember substance of the conversation, which was to set the rendezvous point for ‘Din’ to pass Mr Fadli the Ice.
+29     Sgt Norjansher was asked by DPP Teong to clarify the entry in serial number 2 which Sgt Norjansher had documented to be a call **_by_** ‘Din’ **_to_** Mr Fadli. This had differed from an extraction report from the CNB’s Forensic Response Team of Mr Shahidin’s phone which appeared to show that the call had been made at 3.45 pm by Mr Fadli (who was listed in Mr Shahidin’s phone as _Amad (Jenggo_)) **_to_** ‘Din’. A previous witness; PW3 Forensic Expert Koh Soon Kim had in his FORT report documented the call received from ‘_Amad (Jenggo)’_ (Mr Fadli’s phone) on the 2 August 2016 at 1545 with the annotation “_Recorded a call on the 2nd of August 2016 at 1545 hours_.”[^44] On whether ‘Din’ had called Mr Fadli or vice versa in that instance, Sgt Norjansher was candid in conceding that he ‘_could not recall who called who at that point of time_’ but could remember substance of the conversation, which was to set the rendezvous point for ‘Din’ to pass Mr Fadli the Ice.
 
 ### The Defence Case, accused as sole witness and not calling evidence of Zulkifli
 
-30     Mr Shahidin, who elected to give evidence on his own behalf, was the sole defence witness. Mr Zulkifli, who had fled at the beginning of trial, had been apprehended[\[note: 45\]](#Ftn_45) by the time the prosecution closed its case. Mr Zulklifli was offered as a defence witness, but Mr Shahidin had eschewed calling Mr Zulkifli to bolster his case. This was after counsel had been given the opportunity to interview Mr Zulkifli, who had been held in remand after his arrest.
+30     Mr Shahidin, who elected to give evidence on his own behalf, was the sole defence witness. Mr Zulkifli, who had fled at the beginning of trial, had been apprehended[^45] by the time the prosecution closed its case. Mr Zulklifli was offered as a defence witness, but Mr Shahidin had eschewed calling Mr Zulkifli to bolster his case. This was after counsel had been given the opportunity to interview Mr Zulkifli, who had been held in remand after his arrest.
 
 31     Given this election by defence counsel, the inevitable impression would be that Mr Zulkifli would not have been inclined to say anything which would be favourable to Mr Shahidin’s defence. Otherwise, if one operated on the premise that Mr Zulkifli supported Mr Shahidin’s account, Mr Zulkifli might would have been a key pillar to prop Mr Shahidin’s contention that there had been no common intention between the two to traffic the packet of _Ice_ to Mr Fadli with Mr Zulkifli.
 
@@ -230,7 +231,7 @@ AI asked him if it was possible to lure Din.
 
 ### Accused’s testimony at trial
 
-33     Mr Shahidin repeated the account in his statement that he had known Mr Fadli through his association with Mr Fadli’s elder brother, who was a childhood friend. He had played soccer with Mr Fadli’s brother as both had lived in close proximity. Mr Shahidin denied being particularly close to Mr Fadli stating [\[note: 46\]](#Ftn_46):
+33     Mr Shahidin repeated the account in his statement that he had known Mr Fadli through his association with Mr Fadli’s elder brother, who was a childhood friend. He had played soccer with Mr Fadli’s brother as both had lived in close proximity. Mr Shahidin denied being particularly close to Mr Fadli stating [^46]:
 
 QAre you in talking terms with Fadli?
 
@@ -238,7 +239,7 @@ AUh, no. I don’t really know him, ah.
 
 ### Events on 2 August 2016
 
-34     On 2 August 2016, Mr Shahidin had met Mr. Zulkifli in Bedok, where Mr Zulkifli had accompanied him for a medical consultation at a certain Fahrenheit Clinic. After meeting Mr. Zulkifli at this clinic, Mr Shahidin had received a call from Mr Fadli. Mr Shahdin’s evidence was that Mr Fadli had asked to purchase drugs, and Mr Shahidin had simply passed the phone to Mr Zulkifli to make arrangements, and leaving the two to sort out the pertinent details of the order and rendezvous. He states[\[note: 47\]](#Ftn_47):
+34     On 2 August 2016, Mr Shahidin had met Mr. Zulkifli in Bedok, where Mr Zulkifli had accompanied him for a medical consultation at a certain Fahrenheit Clinic. After meeting Mr. Zulkifli at this clinic, Mr Shahidin had received a call from Mr Fadli. Mr Shahdin’s evidence was that Mr Fadli had asked to purchase drugs, and Mr Shahidin had simply passed the phone to Mr Zulkifli to make arrangements, and leaving the two to sort out the pertinent details of the order and rendezvous. He states[^47]:
 
 QYou received a call from Fadli?
 
@@ -278,19 +279,19 @@ AI went back to my house.
 
 QSo from Bedok, went back to Hougang.
 
-35     After receiving his medical certificate, Mr Shahidin had returned to his apartment in Hougang, and been engrossed in computer games until he had been distracted by Mr Zulkifli, who had asked for a cigarette box or other suitable receptacle. After Mr Shahidin had provided him with a Pall Mall cigarette box, Mr Zulkifli ‘packed the thing’[\[note: 48\]](#Ftn_48).
+35     After receiving his medical certificate, Mr Shahidin had returned to his apartment in Hougang, and been engrossed in computer games until he had been distracted by Mr Zulkifli, who had asked for a cigarette box or other suitable receptacle. After Mr Shahidin had provided him with a Pall Mall cigarette box, Mr Zulkifli ‘packed the thing’[^48].
 
-36     Mr Shahidin indicated that there was nothing remarkable about the Pall Mall cigarette box, as it was one of about a hundred empty cigarette boxes that had accumulated un-discarded in his apartment after he had smoked the contents. Mr Shahidin conceded to being aware that Mr Zulkifli was involved in the supply of illicit drugs, but professed not to know the nature or scale of his activities[\[note: 49\]](#Ftn_49).
+36     Mr Shahidin indicated that there was nothing remarkable about the Pall Mall cigarette box, as it was one of about a hundred empty cigarette boxes that had accumulated un-discarded in his apartment after he had smoked the contents. Mr Shahidin conceded to being aware that Mr Zulkifli was involved in the supply of illicit drugs, but professed not to know the nature or scale of his activities[^49].
 
 37     Summing up the above, the gist of Mr Shahidin’s own account of the sequence of events on 2 August 2016 is a concession that Mr Fadli had called him on his mobile phone to order _Ice_. Dissociating himself from any active facilitation, he states however, that Mr Fadli had only called him because he **_could not get through_** to Mr Zulkifli, as Mr Zulkifli tended to change his number frequently. As Mr Shahidin was in Mr Zulkifli’s presence at that point in time, he had simply passed his mobile phone for Mr Fadli to speak directly to Mr Zulkifli.
 
-38     Mr Shahidin’s case was that aside from the first time he answered Mr Fadli’s call, he did not communicate or speak to Mr Fadli at all. In relation to _WhatsApp_ messages, his case was that **_Mr Zulkifli_** was the one who used his mobile phone to exchange messages with Mr Fadli in the afternoon of 2 August 2016[\[note: 50\]](#Ftn_50). Mr Zulkifli had then, on his own accord, processed the order by packing the sachet of _Ice_ using the boxes and plastic bags from the house.
+38     Mr Shahidin’s case was that aside from the first time he answered Mr Fadli’s call, he did not communicate or speak to Mr Fadli at all. In relation to _WhatsApp_ messages, his case was that **_Mr Zulkifli_** was the one who used his mobile phone to exchange messages with Mr Fadli in the afternoon of 2 August 2016[^50]. Mr Zulkifli had then, on his own accord, processed the order by packing the sachet of _Ice_ using the boxes and plastic bags from the house.
 
-39     It is, in my view noteworthy that the crucial point of Mr Zulkifli taking over all practical aspects of the interactions, runs starkly against Mr Fadli’s account in Court. From the record, it appears that the notion of Mr Fadli speaking or messaging someone else[\[note: 51\]](#Ftn_51) other than Mr Shahidin was never put to him[\[note: 52\]](#Ftn_52). Counsel’s ‘put’ question was rather that ‘_no calls received by you from the accused’s handphone’[\[note: 53\]](#Ftn_53)_. Neither Mr Shahidin’s statements to the CNB P9 or P10 raised this aspect of Mr Zulkifli handling the direct communications with Mr Fadli.
+39     It is, in my view noteworthy that the crucial point of Mr Zulkifli taking over all practical aspects of the interactions, runs starkly against Mr Fadli’s account in Court. From the record, it appears that the notion of Mr Fadli speaking or messaging someone else[^51] other than Mr Shahidin was never put to him[^52]. Counsel’s ‘put’ question was rather that ‘_no calls received by you from the accused’s handphone’[^53]_. Neither Mr Shahidin’s statements to the CNB P9 or P10 raised this aspect of Mr Zulkifli handling the direct communications with Mr Fadli.
 
 ### Difference in testimony on whether Shahidin received payment
 
-40     Rather surprisingly, Mr Shahidin’s court testimony differed from his original account from the statements recorded by the CNB officers in respect of whether he had received payments from Mr Zulkifli. Where he was referred to question 10 of the contemporaneous statement P9, Mr Shahidin was asked what he would get in return for helping (Mr Zulkifli) to order ice, he stated unequivocally that he did not receive any payment at all[\[note: 54\]](#Ftn_54):
+40     Rather surprisingly, Mr Shahidin’s court testimony differed from his original account from the statements recorded by the CNB officers in respect of whether he had received payments from Mr Zulkifli. Where he was referred to question 10 of the contemporaneous statement P9, Mr Shahidin was asked what he would get in return for helping (Mr Zulkifli) to order ice, he stated unequivocally that he did not receive any payment at all[^54]:
 
 A **_He give me nothing, ah_**.
 
@@ -316,11 +317,11 @@ AI cannot remember.
 
 QWhy you can’t remember? _\[Emphasis added\]_
 
-41     Mr Shahidin gives a surprisingly flippant answer that he could not remember why he had alluded to the in-kind payment of a packet of cigarettes. He attributed his memory lapse to his being on medication expressing himself that ‘**_I not sure, maybe I on medication or what. Because I go doctor, mah.[\[note: 55\]](#Ftn_55)’_**
+41     Mr Shahidin gives a surprisingly flippant answer that he could not remember why he had alluded to the in-kind payment of a packet of cigarettes. He attributed his memory lapse to his being on medication expressing himself that ‘**_I not sure, maybe I on medication or what. Because I go doctor, mah.[^55]’_**
 
 ### Assessment of the quality of evidence given by PW4 Fadli
 
-42     In court, Mr Fadli appeared to be forthright in his testimony. Mr Fadli did not appear to bear any ill-will against Mr Shahidin, stating that he did not harbour any grudges against him, nor had any reason to implicate Mr Shahidin[\[note: 56\]](#Ftn_56). Mr Fadli indeed couched his dealings with Mr Shahidin in rather euphemistic terms. Mr Fadli seemed reluctant to describe Mr Shahidin as a “seller” of _Ice_, but framed his dealings with Mr Shahidin to say rather diplomatically that Mr Shahidin _helped_ him to get _Ice_, although Mr Fadli would make a payment to him for this supply. Mr Fadli stated explicitly that Mr Shahidin had indicated affirmatively that “he can get for him” when he asked him whether he was selling _Ice_. Mr Fadli was also circumspect in clarifying that Mr Shahidin was not the “supplier” who maintained his own store, but that he had to get the _Ice_ from another individual who was not known to him. Mr Fadli was also a witness who condescended to details, mentioning an instance of having collected his order of Ice from someone apart from Mr Shahidin on a previous occasion. He therefore seemed to be a creditworthy witness, who would be unlikely to fudge or gloss over significant details in his evidence.
+42     In court, Mr Fadli appeared to be forthright in his testimony. Mr Fadli did not appear to bear any ill-will against Mr Shahidin, stating that he did not harbour any grudges against him, nor had any reason to implicate Mr Shahidin[^56]. Mr Fadli indeed couched his dealings with Mr Shahidin in rather euphemistic terms. Mr Fadli seemed reluctant to describe Mr Shahidin as a “seller” of _Ice_, but framed his dealings with Mr Shahidin to say rather diplomatically that Mr Shahidin _helped_ him to get _Ice_, although Mr Fadli would make a payment to him for this supply. Mr Fadli stated explicitly that Mr Shahidin had indicated affirmatively that “he can get for him” when he asked him whether he was selling _Ice_. Mr Fadli was also circumspect in clarifying that Mr Shahidin was not the “supplier” who maintained his own store, but that he had to get the _Ice_ from another individual who was not known to him. Mr Fadli was also a witness who condescended to details, mentioning an instance of having collected his order of Ice from someone apart from Mr Shahidin on a previous occasion. He therefore seemed to be a creditworthy witness, who would be unlikely to fudge or gloss over significant details in his evidence.
 
 43     It is also noteworthy that Mr Fadli had **_identified_** Mr Shahidin to be the supplier of his methamphetamine from the point of his arrest, and it was this disclosure which had precipitated the sting-type operation to arrest Mr Shahidin by having him call Mr Shahidin for a fresh supply.
 
@@ -334,7 +335,7 @@ QWhy you can’t remember? _\[Emphasis added\]_
 
 47     Conversely. Mr Shahidin’s account of Mr Zulkifli using his (Mr Shahidin’s) mobile phone to liaise with Mr Fadli on 2 August 2016 is problematic. There does not seem to be any dispute from any account that Mr Zulkifli **_had_** his own mobile phone with him at that time. Mr Shahidin’s account was that Mr Zulkifli had simply appropriated his (Mr Shahidin’s) phone to talk to Mr Fadli, while Mr Shahidin was inside the clinic. He had left to speak to Mr Fadli, while Mr Shahidin remained in the clinic, and thus did not follow their conversation. After the conversation, Mr Zulkifli had held on to the phone, until Mr Shahidin had asked for phone back. Mr Zulkifli had regained possession of the hand phone after they had returned, taking it in Mr Shahidin’s room without asking Mr Shahidin’s permission to send messages to Mr Fadli. Mr Shahidin had never asked Mr Zulkifli why he had to use Mr Shahidin’s phone. Mr Shahidin’s evidence is as follows:
 
-QOkay. So ‘Beng’[\[note: 57\]](#Ftn_57) held on to your phone the whole afternoon and you didn’t ask him why he needed your phone?
+QOkay. So ‘Beng’[^57] held on to your phone the whole afternoon and you didn’t ask him why he needed your phone?
 
 ANo.
 
@@ -358,9 +359,9 @@ AYes.
 
 49     Mr Shahidin had seemed keen to disavow himself from all dealings with Mr Fadli’s order after the initial call. There is, however, no cogent explanation why he had not simply informed Mr Zulkifli that Mr Fadli wished to place an order of _Ice_, and then leave this to Mr Zulkifli to follow through with Mr Fadli via his own means. Even if Mr Zulkifli did not have Mr Fadli’s number, Mr Shahidin could have easily provided this to him as Mr Fadli had been saved in his mobile phone contact list as “_Amad Jenggo_”
 
-50     Mr Shahidin’s account was that Mr Fadli had specifically asked him for Mr Zulkifli’s phone number when he called him on 2 August 2016. He states as follows to DPP Theong’s cross-examination[\[note: 58\]](#Ftn_58):
+50     Mr Shahidin’s account was that Mr Fadli had specifically asked him for Mr Zulkifli’s phone number when he called him on 2 August 2016. He states as follows to DPP Theong’s cross-examination[^58]:
 
-QOkay. Now when Fadli called you asking for Ice on the 2nd of August, he didn’t ask to speak to ‘Beng[\[note: 59\]](#Ftn_59)’, right?
+QOkay. Now when Fadli called you asking for Ice on the 2nd of August, he didn’t ask to speak to ‘Beng[^59]’, right?
 
 AHe ask me for ‘Beng’ number and then he ask me for Ice.
 
@@ -380,11 +381,11 @@ QSo you could have just given ‘Beng’s’ new number to Fadli, like what you 
 
 AThe first time I was not with him.
 
-51     Notwithstanding Mr Zulkifli’s alleged habit of changing phone numbers frequently[\[note: 60\]](#Ftn_60), Mr Shahidin already had Mr Zulkifli’s extant number at that point in time. Nothing should therefore have stopped Mr Shahidin from **_giving_** Mr Zulkifli’s number to Mr Fadli, which was his purported _modus operandi_ in a previous occasion[\[note: 61\]](#Ftn_61) when Mr Fadli called him to place an order for _Ice_. In Mr Shahidin’s own words ‘… **_the second time is I passed my phone to_** (Zulkifli), **_the first time I give_** (Zulkifli’s) **_number to_** (Fadli)’
+51     Notwithstanding Mr Zulkifli’s alleged habit of changing phone numbers frequently[^60], Mr Shahidin already had Mr Zulkifli’s extant number at that point in time. Nothing should therefore have stopped Mr Shahidin from **_giving_** Mr Zulkifli’s number to Mr Fadli, which was his purported _modus operandi_ in a previous occasion[^61] when Mr Fadli called him to place an order for _Ice_. In Mr Shahidin’s own words ‘… **_the second time is I passed my phone to_** (Zulkifli), **_the first time I give_** (Zulkifli’s) **_number to_** (Fadli)’
 
-52     There hence does not seem to be a rational basis for Mr Shahidin to have yielded his mobile phone to Mr Zulkifli for the whole afternoon, when he could have given Mr Fadli Mr Zulkifli’s current number to facilitate direct communications. Mr Shahidin’s cryptic explanation that he did not give Mr Zulkifli’s number on 2 August 2016 is **_that ‘I assume..that he doesn’t want to give his number_**, **_ah_**’ does not serve as a coherent explanation, because there is nothing to indicate that Mr Zulkifli had objected to Mr Shahidin giving his number to Mr Fadli previously[\[note: 62\]](#Ftn_62).
+52     There hence does not seem to be a rational basis for Mr Shahidin to have yielded his mobile phone to Mr Zulkifli for the whole afternoon, when he could have given Mr Fadli Mr Zulkifli’s current number to facilitate direct communications. Mr Shahidin’s cryptic explanation that he did not give Mr Zulkifli’s number on 2 August 2016 is **_that ‘I assume..that he doesn’t want to give his number_**, **_ah_**’ does not serve as a coherent explanation, because there is nothing to indicate that Mr Zulkifli had objected to Mr Shahidin giving his number to Mr Fadli previously[^62].
 
-53     Ultimately, I agree with the prosecution’s submission that Mr Shahidin’s defence appears somewhat **_internally_** inconsistent[\[note: 63\]](#Ftn_63) in the sense of his (Mr Shahidin) never mentioning that Mr Zulkifli was using his mobile phone on 2 August 2016 in either of his statements P9 or P10. Mr Shahidin’s variant of the events then had him play a central co-ordinating role,[\[note: 64\]](#Ftn_64) including the revelation that _he_ was the one who had called Mr Fadli back using his mobile phone to inform him that he could get the _Ice_ that ordered[\[note: 65\]](#Ftn_65), and his account has Mr Fadli messaging _him_ (rather than Mr Zulkifli) at the point when he was **_‘on the way down’_** to collect his order.[\[note: 66\]](#Ftn_66) Another telling detail was the message from Mr Fadli at 5.33 am stating[\[note: 67\]](#Ftn_67)**_‘Din, is it possible if I meet at your place’._** Mr Shahidin is referred to by his nickname but if Mr Zulkifli had indeed been using the phone, it is surprising that he never seeks to correct Mr Fadli.
+53     Ultimately, I agree with the prosecution’s submission that Mr Shahidin’s defence appears somewhat **_internally_** inconsistent[^63] in the sense of his (Mr Shahidin) never mentioning that Mr Zulkifli was using his mobile phone on 2 August 2016 in either of his statements P9 or P10. Mr Shahidin’s variant of the events then had him play a central co-ordinating role,[^64] including the revelation that _he_ was the one who had called Mr Fadli back using his mobile phone to inform him that he could get the _Ice_ that ordered[^65], and his account has Mr Fadli messaging _him_ (rather than Mr Zulkifli) at the point when he was **_‘on the way down’_** to collect his order.[^66] Another telling detail was the message from Mr Fadli at 5.33 am stating[^67]**_‘Din, is it possible if I meet at your place’._** Mr Shahidin is referred to by his nickname but if Mr Zulkifli had indeed been using the phone, it is surprising that he never seeks to correct Mr Fadli.
 
 54     Defence counsel’s decision not to call Mr Zulkifli to take the stand was certainly a missed opportunity to clarify the rather significant controversies over who had possession of the mobile phone, and the nature and extent of that person’s communications with Mr Fadli. As mentioned before, Mr Zulkifli had been arrested by the time that defence was called, and counsel had been afforded an opportunity to interview him.
 
@@ -410,9 +411,9 @@ In **_Ranjit Singh_**, Hoo Sheau Peng J states
 
 ### Defence submissions
 
-58     Defence counsel; Mr Jayakumar Naidu, sought to undermine the prosecution’s case by pointing out that there had been a paucity of **_physical_** evidence implicating Mr Shahidin with a direct role in the crime. Counsel pointed out that ‘nothing incriminating’[\[note: 68\]](#Ftn_68) had been found on Mr Shahidin’s person at the time of arrest, or in his apartment, which was searched in the wake of the arrest. Mr Jayakumar emphasized that search had not uncovered any _‘sachet or weighing scale which are synonymous with the trafficking trade’_.[\[note: 69\]](#Ftn_69) The fact that the Bluetooth and Pall Mall cigarette boxed containing Mr Shahidin’s DNA would not necessarily implicate his client, as the items had been sourced from Mr Shahidin’s room, and the DNA could have been the result of DNA transfer from prior handling by him, before they had been selected to pack the drugs. Significantly, in this regard, the _sachet_ of crystalline substance, which was later determined to be methamphetamine, did not contain any DNA from Mr Shahidin. He reiterated the defence was simply Mr Shahidin merely ‘helping’ Mr Fadli to order _Ice_ from Mr Zulkifli on 2 August 2016. And that Mr Shahidin had never alluded to personally dealing with narcotic substances[\[note: 70\]](#Ftn_70).
+58     Defence counsel; Mr Jayakumar Naidu, sought to undermine the prosecution’s case by pointing out that there had been a paucity of **_physical_** evidence implicating Mr Shahidin with a direct role in the crime. Counsel pointed out that ‘nothing incriminating’[^68] had been found on Mr Shahidin’s person at the time of arrest, or in his apartment, which was searched in the wake of the arrest. Mr Jayakumar emphasized that search had not uncovered any _‘sachet or weighing scale which are synonymous with the trafficking trade’_.[^69] The fact that the Bluetooth and Pall Mall cigarette boxed containing Mr Shahidin’s DNA would not necessarily implicate his client, as the items had been sourced from Mr Shahidin’s room, and the DNA could have been the result of DNA transfer from prior handling by him, before they had been selected to pack the drugs. Significantly, in this regard, the _sachet_ of crystalline substance, which was later determined to be methamphetamine, did not contain any DNA from Mr Shahidin. He reiterated the defence was simply Mr Shahidin merely ‘helping’ Mr Fadli to order _Ice_ from Mr Zulkifli on 2 August 2016. And that Mr Shahidin had never alluded to personally dealing with narcotic substances[^70].
 
-59     Given the situation above, it was incumbent on the prosecution to prove beyond reasonable doubt that Mr Shahidin and Mr Zulkifli had the common intention to traffick the quantity of methamphetamine to Mr Fadli. Mr Jayakumar also noted that the presumption under s17[\[note: 71\]](#Ftn_71) of the MDA did not apply given the quantity was too low to trigger the presumption. The learned DPP countered that her case was instead premised on her reliance on the presumption under s18(4)[\[note: 72\]](#Ftn_72) of the MDA.
+59     Given the situation above, it was incumbent on the prosecution to prove beyond reasonable doubt that Mr Shahidin and Mr Zulkifli had the common intention to traffick the quantity of methamphetamine to Mr Fadli. Mr Jayakumar also noted that the presumption under s17[^71] of the MDA did not apply given the quantity was too low to trigger the presumption. The learned DPP countered that her case was instead premised on her reliance on the presumption under s18(4)[^72] of the MDA.
 
 ### Elements of common intention
 
@@ -432,7 +433,7 @@ In **_Ranjit Singh_**, Hoo Sheau Peng J states
 
 65     The circumstances, in my judgment, strongly point to Mr Shahidin having known of and consented to Zulkifli’s possession of the packet of Ice, when the two proceeded to meet Fadli. Despite Mr Shahidin’s protestations to the contrary, I am convinced that the communications in P20 did not involve Mr Zulkifli at all as a correspondent, and that the agreement and arrangements for the transaction in respect of the packet of _Ice_ was principally between Mr Shahidin and Mr Fadli.
 
-66     On the consideration of the aspect of common intention, while it is common ground that the _Ice_ came from Mr Zulkifli, Mr Shahidin, from the accumulated evidence, acted as the prime mover in making arrangements for the transaction (by taking Mr Fadli’s order) and the liaison work to facilitate the delivery. It is also significant that Mr Shahidin had _accompanied_ Zulkifli in making the delivery. This is congruent too with Mr Fadli’s evidence that Mr Shahidin had never **_introduced_** Mr Zulkifli to him. It would have therefore been difficult to imagine Mr Fadli being agreeable, much less comfortable to transacting illicit drugs with a practical stranger, even if he had seen a person conforming to Mr Zulkifli’s appearance with Mr Shahidin before. As the amount of drugs had been an extremely small quantity in a sachet, there would have been no need for **_both_** men to hold the drugs. Practicably, only one would do so, and the person was, of course, Mr Zulkifli. He was accordingly the person found with this drugs when the CNB officers executed their arrest at the void deck. Mr Shaidin’s complicity can also be seen in his allowing Mr Zulkifli pack the Ice sachet with multiple layers of packaging from bags and boxes found in his room[\[note: 73\]](#Ftn_73).
+66     On the consideration of the aspect of common intention, while it is common ground that the _Ice_ came from Mr Zulkifli, Mr Shahidin, from the accumulated evidence, acted as the prime mover in making arrangements for the transaction (by taking Mr Fadli’s order) and the liaison work to facilitate the delivery. It is also significant that Mr Shahidin had _accompanied_ Zulkifli in making the delivery. This is congruent too with Mr Fadli’s evidence that Mr Shahidin had never **_introduced_** Mr Zulkifli to him. It would have therefore been difficult to imagine Mr Fadli being agreeable, much less comfortable to transacting illicit drugs with a practical stranger, even if he had seen a person conforming to Mr Zulkifli’s appearance with Mr Shahidin before. As the amount of drugs had been an extremely small quantity in a sachet, there would have been no need for **_both_** men to hold the drugs. Practicably, only one would do so, and the person was, of course, Mr Zulkifli. He was accordingly the person found with this drugs when the CNB officers executed their arrest at the void deck. Mr Shaidin’s complicity can also be seen in his allowing Mr Zulkifli pack the Ice sachet with multiple layers of packaging from bags and boxes found in his room[^73].
 
 67     It is plain therefore that Mr Shahidin accepted that the transportation of the quantity of _Ice_ was a clandestine operation which required the Ice to be concealed as much as possible from possible detection. From his own account, he allowed the utilisation of resources from his own premises. Within this factual matrix, the intent to convey the drugs to Mr Fadli would be construed be a mutual one.
 
@@ -440,21 +441,21 @@ In **_Ranjit Singh_**, Hoo Sheau Peng J states
 
 36    Turning to (the participation element), it was emphasised by this court in L_ee Chez Kee v PP_ (“_Lee Chez Kee_”) that participation, not presence, is the key ingredient in imposing liability under s 34 PC and that this is a question of fact to be decided in each case (see _Lee Chez Kee_ at \[146\]). **_The secondary offender satisfies this requirement of participation if he participates in the specific criminal act committed by the actual doer which gives rise to the offence charged or if he participates in some other criminal act that is done in furtherance of the common intention of all the offenders_**, _ie_, he participated in any of the diverse acts which altogether formed the unity of criminal behaviour resulting in the offence charged and that offence was commonly intended by all the offenders…
 
-69     I am satisfied that the element of Mr Shahidin’s **_participation_** in the transaction with Mr Fadli is 2 August 2016 is amply fulfilled from the evidence. Mr Shahidin had received the order and directly quoted the selling price[\[note: 74\]](#Ftn_74), and liaised with Mr Fadli in respect of the collection time and place. From his account, Mr Zulkifli had taken steps to ‘process’ the order by taking the methamphetamine from his source, and then use the materials from Mr Shahidin’s apartment for the multiple layers of wrapping.
+69     I am satisfied that the element of Mr Shahidin’s **_participation_** in the transaction with Mr Fadli is 2 August 2016 is amply fulfilled from the evidence. Mr Shahidin had received the order and directly quoted the selling price[^74], and liaised with Mr Fadli in respect of the collection time and place. From his account, Mr Zulkifli had taken steps to ‘process’ the order by taking the methamphetamine from his source, and then use the materials from Mr Shahidin’s apartment for the multiple layers of wrapping.
 
-70     The interception by CNB had occurred when the two men had been on their way to meet Mr Fadli, with Mr Shahidin being the **_only one_** of the two men recognised by the former. Given the involvement of Mr Shahidin at multiple critical steps the transaction, Mr Shahidin was a key participant. Even if it may be argued that the person in actual possession of the _Ice_ (ie Mr Zulkifli) would be the one who would be more likely to personally execute the exchange, it was Shahidin who, by his own admission, was in physical possession of his **_mobile phone_** at the time the two left the premises, and thus be in a continued position to co-ordinate the transaction between Mr Fadli and a man he could barely recognise beyond his dark complexion. Considering the number of frenetic messages for timing and directions in the latter part of the transcript P20[\[note: 75\]](#Ftn_75), it was likely that **_further_** co-ordination would have been required after the duo reached the ground floor, before the transaction could take place, and it was, in my view, far more likely that the person **_holding_** the mobile phone (ie Mr Shahidin himself) to have assumed the continued responsibility to facilitate a successful meet-up and exchange.
+70     The interception by CNB had occurred when the two men had been on their way to meet Mr Fadli, with Mr Shahidin being the **_only one_** of the two men recognised by the former. Given the involvement of Mr Shahidin at multiple critical steps the transaction, Mr Shahidin was a key participant. Even if it may be argued that the person in actual possession of the _Ice_ (ie Mr Zulkifli) would be the one who would be more likely to personally execute the exchange, it was Shahidin who, by his own admission, was in physical possession of his **_mobile phone_** at the time the two left the premises, and thus be in a continued position to co-ordinate the transaction between Mr Fadli and a man he could barely recognise beyond his dark complexion. Considering the number of frenetic messages for timing and directions in the latter part of the transcript P20[^75], it was likely that **_further_** co-ordination would have been required after the duo reached the ground floor, before the transaction could take place, and it was, in my view, far more likely that the person **_holding_** the mobile phone (ie Mr Shahidin himself) to have assumed the continued responsibility to facilitate a successful meet-up and exchange.
 
 ### Whether the transcript of calls and messages between Fadli and the accused was reliable
 
-71     Counsel had sought to cast doubt on both accuracy and veracity of the transcript at P20. His submission included the fact that Mr Fadli’s conversation with Mr Shahidin had not been on speaker phone, and thus Sgt Norjahsher did not **_hear_** the actual conversation[\[note: 76\]](#Ftn_76) between the two men. In my view, however, it would have been unrealistic to have the conversation on speakerphone, as doing so would have run the risk of transmitting background noise from Tanglin CNB office, or even Sgt Norjansher’s verbal cues while giving instructions, and possibly arousing Mr Shahidin’s suspicion that he was the subject of a sting operation. On the accuracy of the transcript, Sgt Norjansher gave his account that he had taken screenshots[\[note: 77\]](#Ftn_77) of the WhatsApp messages, and made written annotations[\[note: 78\]](#Ftn_78) before he executed the finalised typed transcript of the record of communications some six hours after the communications took place.
+71     Counsel had sought to cast doubt on both accuracy and veracity of the transcript at P20. His submission included the fact that Mr Fadli’s conversation with Mr Shahidin had not been on speaker phone, and thus Sgt Norjahsher did not **_hear_** the actual conversation[^76] between the two men. In my view, however, it would have been unrealistic to have the conversation on speakerphone, as doing so would have run the risk of transmitting background noise from Tanglin CNB office, or even Sgt Norjansher’s verbal cues while giving instructions, and possibly arousing Mr Shahidin’s suspicion that he was the subject of a sting operation. On the accuracy of the transcript, Sgt Norjansher gave his account that he had taken screenshots[^77] of the WhatsApp messages, and made written annotations[^78] before he executed the finalised typed transcript of the record of communications some six hours after the communications took place.
 
 72     From this account, it would be clear that Sgt Norjansher had referred from a contemporaneous handwritten record of the conversation, and not merely from his memory, with the attendant risks of fallible recall. Given this, I do not find any basis to doubt the exactness in the transcription of the actual messages. It would, of course, have been ideal if Sgt Norjansher had been prescient enough to have retained his handwritten ‘working papers’ as well as the **_screen-shots_** of Mr Fadli’s mobile phone to resolve all controversies on accuracy, but I accept that he might not have anticipated the defence’s challenge. Without any advance knowledge of a challenge of this nature, it would not be reasonable to expect Sgt Norjansher to keep the images in his phone for the not insignificant duration between 2 August 2016 and 11 April 2018, when he gave his evidence.
 
 73     Defence counsel has highlighted the fact that the FORT report of SHAH-1 did not contain a complete documentation of messages and calls. The FORT officer, Mr Koh Soon Sim, has conceded that forensic software had technical limitations, which inhibited its ability to retrieve messages from Shahidin’s phone, and that only successfully extracted messages were retrieved. Mr Koh could not work any further on Shahidin’s phone, despite the device being in police/CNB hands, as the extant WhatsApp edition had expired, and any attempt to update the application would risk the contamination of the phone’s data, degrading its forensic value.
 
-74     In evaluating the evidence, I accept that there are indeed errors and inconsistencies, the faults appear to be clerical in nature, as I would accept that the entry in the FORT report is more likely to be correct, regarding the call on 2 August 2016 at 3.45 pm, and that it was Mr Fadli who had called Mr Shahidin, and not _vice versa_ as indicated in P20. These minor inroads into the accuracy of the record of communications do very little to stem the far more pervasive impression that the messages are largely correctly recorded. This has been verified by Mr Fadli in his testimony[\[note: 79\]](#Ftn_79), after he was taken through the contents of P20. Almost all the translations, including vernacular usages and abbreviations have also been certified **_correct_** by PW7, professional interpreter Mohammad Farhan Bin Sani at both a literal and contextual level[\[note: 80\]](#Ftn_80) Given that P-20 is at least partially supported by forensic analysis of its counterpart device (Mr Shahidin’s phone _vide_ FORT report SHAH-1), attested to in authenticity by PW4; Mr Fadli and PW5; Sgt Norjansher, and assessed to be a faithfully translation by PW7, I would find P20 to be, after excluding the qualifications above, a document of high **_probative value_** of the phone and text interactions that are set out, with the context and contents strongly indicating the communications to be between Mr Fadli and Mr Shahidin.
+74     In evaluating the evidence, I accept that there are indeed errors and inconsistencies, the faults appear to be clerical in nature, as I would accept that the entry in the FORT report is more likely to be correct, regarding the call on 2 August 2016 at 3.45 pm, and that it was Mr Fadli who had called Mr Shahidin, and not _vice versa_ as indicated in P20. These minor inroads into the accuracy of the record of communications do very little to stem the far more pervasive impression that the messages are largely correctly recorded. This has been verified by Mr Fadli in his testimony[^79], after he was taken through the contents of P20. Almost all the translations, including vernacular usages and abbreviations have also been certified **_correct_** by PW7, professional interpreter Mohammad Farhan Bin Sani at both a literal and contextual level[^80] Given that P-20 is at least partially supported by forensic analysis of its counterpart device (Mr Shahidin’s phone _vide_ FORT report SHAH-1), attested to in authenticity by PW4; Mr Fadli and PW5; Sgt Norjansher, and assessed to be a faithfully translation by PW7, I would find P20 to be, after excluding the qualifications above, a document of high **_probative value_** of the phone and text interactions that are set out, with the context and contents strongly indicating the communications to be between Mr Fadli and Mr Shahidin.
 
-75     For completeness in assessing the factual matrix of this case, I should highlight that also seems to be a difference between the various parties in their respective accounts of the _price_ of the drugs ordered. Sgt Norjansher had indicated his instructions to Mr Fadli to order $30 of methamphetamine in the first entry of P20[\[note: 81\]](#Ftn_81), which he understood to be Mr Fadli’s ‘usual order’. In his court testimony, Mr Fadli was rather vague about how much he paid for the drugs in his last two transactions. He had indicated that he had paid ‘_Thirty…less than 50, if I’m not mistaken’[\[note: 82\]](#Ftn_82)_ during his first transaction for some 0.2 to 0.3 grammes of _Ice_, and that the agreed price was ‘_around $50’[\[note: 83\]](#Ftn_83)_ for the purchase on 2 August 2016. To be fair, Mr Fadli gave his evidence on 24 November 2017, almost 16 months from the day that he and Mr Shahidin had been arrested. Mr Shahidin’s account[\[note: 84\]](#Ftn_84), on the other hand, was that he had quoted a sum of $70-80 for 0.5 grammes of _Ice._ The amount actually seized from Mr Zulkifli was 0.50 grammes of crystalline substance that contained not less than 0.33 gram of methamphetamine. From the documented evidence, the difference might well be from a miscommunication during Mr Fadli’s initial call at 2.59 pm. This is because the price or quantity of the _Ice_ to be transacted is never mentioned again in the next 37 entries of the transcript. It may thus be inferred that both parties were oblivious to the metaphorical **_crossed lines_** between Mr Fadli’s actual order and Mr Shahidin’s impression of his order.
+75     For completeness in assessing the factual matrix of this case, I should highlight that also seems to be a difference between the various parties in their respective accounts of the _price_ of the drugs ordered. Sgt Norjansher had indicated his instructions to Mr Fadli to order $30 of methamphetamine in the first entry of P20[^81], which he understood to be Mr Fadli’s ‘usual order’. In his court testimony, Mr Fadli was rather vague about how much he paid for the drugs in his last two transactions. He had indicated that he had paid ‘_Thirty…less than 50, if I’m not mistaken’[^82]_ during his first transaction for some 0.2 to 0.3 grammes of _Ice_, and that the agreed price was ‘_around $50’[^83]_ for the purchase on 2 August 2016. To be fair, Mr Fadli gave his evidence on 24 November 2017, almost 16 months from the day that he and Mr Shahidin had been arrested. Mr Shahidin’s account[^84], on the other hand, was that he had quoted a sum of $70-80 for 0.5 grammes of _Ice._ The amount actually seized from Mr Zulkifli was 0.50 grammes of crystalline substance that contained not less than 0.33 gram of methamphetamine. From the documented evidence, the difference might well be from a miscommunication during Mr Fadli’s initial call at 2.59 pm. This is because the price or quantity of the _Ice_ to be transacted is never mentioned again in the next 37 entries of the transcript. It may thus be inferred that both parties were oblivious to the metaphorical **_crossed lines_** between Mr Fadli’s actual order and Mr Shahidin’s impression of his order.
 
 ### Whether s 18(4) of the Misuse of Drugs Acts would apply here
 
@@ -470,13 +471,13 @@ In **_Ranjit Singh_**, Hoo Sheau Peng J states
 
 80     Delivering the judgment of the Court of Appeal, Yong Pung How CJ held: at \[39\]
 
-…Although the drugs were in the possession of the first appellant[\[note: 85\]](#Ftn_85), the second appellant[\[note: 86\]](#Ftn_86) clearly knew and consented to it in that there was an agreement between the appellants to deal with the drugs. **_By the same token, common intention to traffic in drugs was manifest from the circumstances. The appellants acted in concert pursuant to a prearranged plan to sell the drugs_**. \[_Emphasis added_\]
+…Although the drugs were in the possession of the first appellant[^85], the second appellant[^86] clearly knew and consented to it in that there was an agreement between the appellants to deal with the drugs. **_By the same token, common intention to traffic in drugs was manifest from the circumstances. The appellants acted in concert pursuant to a prearranged plan to sell the drugs_**. \[_Emphasis added_\]
 
 81     The circumstances in play for **_Hartej’s_** case to infer ‘consent’ would have included the major role undertaken by Mr Sarjit in his **_prior negotiations_** with Michael for the sale of the drugs. By the same token, the train of evidence here shows Mr Shahidin’s collective actions to extend far beyond mere ‘acquiescence or condonation’. Indeed, Mr Shahidin appeared to be the prime mover in **_essential middleman_** arrangements and negotiations starting from his receipt of Mr Fadli’s order, arranging for Mr Zulkifli to draw from his supply, directly quoting the selling price, co-ordinating with Mr Fadli in respect of the collection time and place, and completing the circle by actually accompanying the person in physical possession; Mr Zulkifli. The sheer extent of Mr Shahidin’s expended efforts to prosecute the sale of the sachet of methamphetamine are all too evident by the fact that his mobile phone had (according to P20) logged no fewer than 37 calls and messages with Mr Fadli’s phone, prior to interception and arrest by CNB officers.
 
 82     Given this, I am of the view that the presumption of joint possession of the sachet of _Ice_ with Zulkifli provided by s 18(4) of the MDA. s 18(4) ought to apply to Mr Shahidin in this instance, as the element of consent has been patently fulfilled.
 
-83     Defence counsel has raised a final point that the charge against Mr Shahidin was not made out as the packet of Ice had not yet been handed over to Mr Fadli or any officer from the Central Narcotics Bureau at the time of arrest. In this regard, I would agree with the prosecution’s response[\[note: 87\]](#Ftn_87) that Mr Shahidin’s charge is not of trafficking _simpliciter_ under s 5(1)(a) of the Misuse of Drugs Act, but rather possession for the purpose of trafficking, _vide_ a joint enterprise with Mr Zulkifli to supply a quantity of methamphetamine to the client who had made an implicated purchase; Mr Fadli. Hence, the charge does not impose a requirement for the prosecution to prove that an act of trafficking has taken place, by the delivery of the packet, but rather **_‘(a)ll that needs to be shown is that the possession of the packet of Ice was for the purpose of trafficking i.e. that it was intended to be trafficked’_**.[\[note: 88\]](#Ftn_88)
+83     Defence counsel has raised a final point that the charge against Mr Shahidin was not made out as the packet of Ice had not yet been handed over to Mr Fadli or any officer from the Central Narcotics Bureau at the time of arrest. In this regard, I would agree with the prosecution’s response[^87] that Mr Shahidin’s charge is not of trafficking _simpliciter_ under s 5(1)(a) of the Misuse of Drugs Act, but rather possession for the purpose of trafficking, _vide_ a joint enterprise with Mr Zulkifli to supply a quantity of methamphetamine to the client who had made an implicated purchase; Mr Fadli. Hence, the charge does not impose a requirement for the prosecution to prove that an act of trafficking has taken place, by the delivery of the packet, but rather **_‘(a)ll that needs to be shown is that the possession of the packet of Ice was for the purpose of trafficking i.e. that it was intended to be trafficked’_**.[^88]
 
 84     In this case, with my finding that Mr Shahidin was the co-respondent for the calls and messages in D20, and my acceptance of Mr Fadli’s testimony as true, there is ample evidence of Mr Shahidin’s participation in the 2 August 2016 transaction with Mr Fadli. The evidence shows that Mr Shahidin did play a major role in the liaison work in the trafficking of the packet of _Ice_ to Mr Fadli, even if the packet of _Ice_ had come from an inventory maintained by Mr Zulkifli. As the learned DPP aptly pointed out, Mr Shahidin was inextricably involved in every step of Mr Fadli’s order – he took the order, communicated it to Mr Zulkifli, provided the materials to pack the packet of Ice and accompanied Mr Zulkifli to deliver it. The symbiotic relationship between Mr Shahidin’s suite of services to facilitate Mr Zulkifli’s drug supply is clear from the testimonial and circumstantial evidence. Their collaboration in this context is the virtual quintessence of common intention.
 
@@ -486,7 +487,7 @@ In **_Ranjit Singh_**, Hoo Sheau Peng J states
 
 ### Sentence imposed
 
-87     Mr Shahidin has not appealed against the sentence imposed. I would nevertheless state, for the purpose of completeness, the reason for the sentence given. In sentencing, I noted that Mr Shahidin did have somewhat dated drug antecedents, having been sentenced served a term of 12 months’ detention at an SAF Detention Barrack on 15 Aug 2008. On 10 February 2010, he had been placed under a supervision order. Counsel had pleaded for leniency, and asked for the imposition of the minimum sentence in consideration of the small quantity involved. I noted that Counsel had a valid point in relation to the small value of the transaction for the methamphetamine supplied, and for which Mr Shahidin received a paltry reward of no more than a packet of cigarettes from Mr Zulkifli for his ‘middleman’ role in the transaction[\[note: 89\]](#Ftn_89).
+87     Mr Shahidin has not appealed against the sentence imposed. I would nevertheless state, for the purpose of completeness, the reason for the sentence given. In sentencing, I noted that Mr Shahidin did have somewhat dated drug antecedents, having been sentenced served a term of 12 months’ detention at an SAF Detention Barrack on 15 Aug 2008. On 10 February 2010, he had been placed under a supervision order. Counsel had pleaded for leniency, and asked for the imposition of the minimum sentence in consideration of the small quantity involved. I noted that Counsel had a valid point in relation to the small value of the transaction for the methamphetamine supplied, and for which Mr Shahidin received a paltry reward of no more than a packet of cigarettes from Mr Zulkifli for his ‘middleman’ role in the transaction[^89].
 
 88     In her sentencing recommendations, DPP Theong had leant on the side of moderation in indicating that she would have no objections to the minimum sentence despite the protracted proceedings.
 
@@ -494,183 +495,183 @@ In **_Ranjit Singh_**, Hoo Sheau Peng J states
 
 * * *
 
-[\[note: 1\]](#Ftn_1_1)Charge C1C
+[^1]: Charge C1C
 
-[\[note: 2\]](#Ftn_2_1)On 20 November 2017
+[^2]: On 20 November 2017
 
-[\[note: 3\]](#Ftn_3_1)Admitted as P1
+[^3]: Admitted as P1
 
-[\[note: 4\]](#Ftn_4_1)Edited for relevance and brevity.
+[^4]: Edited for relevance and brevity.
 
-[\[note: 5\]](#Ftn_5_1)marked by CNB as "AI "
+[^5]: marked by CNB as "AI "
 
-[\[note: 6\]](#Ftn_6_1)Marked as "AlA"
+[^6]: Marked as "AlA"
 
-[\[note: 7\]](#Ftn_7_1)Marked as " AlA 1"
+[^7]: Marked as " AlA 1"
 
-[\[note: 8\]](#Ftn_8_1)Marked as "AIAIA"
+[^8]: Marked as "AIAIA"
 
-[\[note: 9\]](#Ftn_9_1)Marked as "AIAlAl"
+[^9]: Marked as "AIAlAl"
 
-[\[note: 10\]](#Ftn_10_1)Marked as "SHAH-I"
+[^10]: Marked as "SHAH-I"
 
-[\[note: 11\]](#Ftn_11_1)Exhibit P10.
+[^11]: Exhibit P10.
 
-[\[note: 12\]](#Ftn_12_1)P9 was a contemporaneous handwritten statement recorded at 7.20 pm, very shortly after Mr Shahidin’s arrest.
+[^12]: P9 was a contemporaneous handwritten statement recorded at 7.20 pm, very shortly after Mr Shahidin’s arrest.
 
-[\[note: 13\]](#Ftn_13_1)Notes of Evidence, Day 1, page 22, lines 1-2.
+[^13]: Notes of Evidence, Day 1, page 22, lines 1-2.
 
-[\[note: 14\]](#Ftn_14_1)Notes of Evidence, Day 1, page 22, lines 5-6.
+[^14]: Notes of Evidence, Day 1, page 22, lines 5-6.
 
-[\[note: 15\]](#Ftn_15_1)The recording of P9 commenced at 7.20 pm on 2 August 2016, and was completed at 8.02 pm.
+[^15]: The recording of P9 commenced at 7.20 pm on 2 August 2016, and was completed at 8.02 pm.
 
-[\[note: 16\]](#Ftn_16_1)As Exhibit P11.
+[^16]: As Exhibit P11.
 
-[\[note: 17\]](#Ftn_17_1)These will be elaborated on further in these grounds.
+[^17]: These will be elaborated on further in these grounds.
 
-[\[note: 18\]](#Ftn_18_1)Notes of Evidence, Day 4 – page 1, lines 14 to 28, and also at page 31, lines 24-28.
+[^18]: Notes of Evidence, Day 4 – page 1, lines 14 to 28, and also at page 31, lines 24-28.
 
-[\[note: 19\]](#Ftn_19_1)Notes of Evidence, Day 4 – pages 15-16
+[^19]: Notes of Evidence, Day 4 – pages 15-16
 
-[\[note: 20\]](#Ftn_20_1)Notes of Evidence, Day 4, page 21, lines 15.
+[^20]: Notes of Evidence, Day 4, page 21, lines 15.
 
-[\[note: 21\]](#Ftn_21_1)Notes of Evidence, Day 4, page 22, lines 16-31.
+[^21]: Notes of Evidence, Day 4, page 22, lines 16-31.
 
-[\[note: 22\]](#Ftn_22_1)Submission of Prosecution, at \[8\] at page 4.
+[^22]: Submission of Prosecution, at \[8\] at page 4.
 
-[\[note: 23\]](#Ftn_23_1)In Exhibit P9: Q10: _What did you get in return for helping Amat_ (Mr Fadli) _to order “Ice”?_A10: _“Beng”_ (Mr Zulkifli) _would pay be with a pack of cigarettes._Despite these statements, Mr Shahdin would later deny in his testimony to receiving any reward.
+[^23]: In Exhibit P9: Q10: _What did you get in return for helping Amat_ (Mr Fadli) _to order “Ice”?_A10: _“Beng”_ (Mr Zulkifli) _would pay be with a pack of cigarettes._Despite these statements, Mr Shahdin would later deny in his testimony to receiving any reward.
 
-[\[note: 24\]](#Ftn_24_1)As stated in Submission of Prosecution, pages 4-5.
+[^24]: As stated in Submission of Prosecution, pages 4-5.
 
-[\[note: 25\]](#Ftn_25_1)Admitted as P10. This section 22 CPC statement was recorded on 3 August 2016 at 12.20 pm.
+[^25]: Admitted as P10. This section 22 CPC statement was recorded on 3 August 2016 at 12.20 pm.
 
-[\[note: 26\]](#Ftn_26_1)Referred to in the statement in his nickname ‘Beng’.
+[^26]: Referred to in the statement in his nickname ‘Beng’.
 
-[\[note: 27\]](#Ftn_27_1)Mohamad Fadli Bin Abubakar, who is referred to in his nickname ‘Amad’ in the statement.
+[^27]: Mohamad Fadli Bin Abubakar, who is referred to in his nickname ‘Amad’ in the statement.
 
-[\[note: 28\]](#Ftn_28_1)Identified as AIAIA
+[^28]: Identified as AIAIA
 
-[\[note: 29\]](#Ftn_29_1)Identified as AlAI
+[^29]: Identified as AlAI
 
-[\[note: 30\]](#Ftn_30_1)Identified as "AlA"
+[^30]: Identified as "AlA"
 
-[\[note: 31\]](#Ftn_31_1)Identified as "AI" and AIAa
+[^31]: Identified as "AI" and AIAa
 
-[\[note: 32\]](#Ftn_32_1)Identified as "AIAIAI"
+[^32]: Identified as "AIAIAI"
 
-[\[note: 33\]](#Ftn_33_1)Notes of Evidence Day 4, page 23, lines 7-28
+[^33]: Notes of Evidence Day 4, page 23, lines 7-28
 
-[\[note: 34\]](#Ftn_34_1)Notes of Evidence Day 4, pages 26, Line 28
+[^34]: Notes of Evidence Day 4, pages 26, Line 28
 
-[\[note: 35\]](#Ftn_35_1)Notes of Evidence Day 4, pages 25-26
+[^35]: Notes of Evidence Day 4, pages 25-26
 
-[\[note: 36\]](#Ftn_36_1)Notes of Evidence, Day 5 page 8, lines 1-5.
+[^36]: Notes of Evidence, Day 5 page 8, lines 1-5.
 
-[\[note: 37\]](#Ftn_37_1)Notes of Evidence, Day 5 page 8, lines 14-17.
+[^37]: Notes of Evidence, Day 5 page 8, lines 14-17.
 
-[\[note: 38\]](#Ftn_38_1)Notes of Evidence, Day 5, page 12, lines 18-20.
+[^38]: Notes of Evidence, Day 5, page 12, lines 18-20.
 
-[\[note: 39\]](#Ftn_39_1)Notes of Evidence, Day 5, page 12, lines 21-32.
+[^39]: Notes of Evidence, Day 5, page 12, lines 21-32.
 
-[\[note: 40\]](#Ftn_40_1)All bracketed and bold, italicized text denote exchanges with Malay language references translated. Please refer to Exhibit P20 for the actual text in Malay. Messages are verbatim and left uncorrected for gramma.
+[^40]: All bracketed and bold, italicized text denote exchanges with Malay language references translated. Please refer to Exhibit P20 for the actual text in Malay. Messages are verbatim and left uncorrected for gramma.
 
-[\[note: 41\]](#Ftn_41_1)According to Sgt Norjansher, these screenshots had been deleted by the time he gave his oral testimony.
+[^41]: According to Sgt Norjansher, these screenshots had been deleted by the time he gave his oral testimony.
 
-[\[note: 42\]](#Ftn_42_1)The accuracy of the translations have been attested to by PW7 Mohammad Farhan bin Sani who only found fault with a reference at entry number 20, where the Malay test was “_Kau naik atas” which_ should be translated as “_you go upstairs_” instead of _“you meet me upstairs_”.
+[^42]: The accuracy of the translations have been attested to by PW7 Mohammad Farhan bin Sani who only found fault with a reference at entry number 20, where the Malay test was “_Kau naik atas” which_ should be translated as “_you go upstairs_” instead of _“you meet me upstairs_”.
 
-[\[note: 43\]](#Ftn_43_1)Notes of Evidence, Day 5, page 15, lines 8-15.
+[^43]: Notes of Evidence, Day 5, page 15, lines 8-15.
 
-[\[note: 44\]](#Ftn_44_1)At the Table stating “WhatsApp received calls” of Exhibit P12
+[^44]: At the Table stating “WhatsApp received calls” of Exhibit P12
 
-[\[note: 45\]](#Ftn_45_1)Mr Zulkifli was produced in Court 26 on 30 December 2017 after his arrest.
+[^45]: Mr Zulkifli was produced in Court 26 on 30 December 2017 after his arrest.
 
-[\[note: 46\]](#Ftn_46_1)Notes of Evidence, Day 8, Page 8 at lines 15-16.
+[^46]: Notes of Evidence, Day 8, Page 8 at lines 15-16.
 
-[\[note: 47\]](#Ftn_47_1)Notes of Evidence, Day 8, page 10, lines 5-26
+[^47]: Notes of Evidence, Day 8, page 10, lines 5-26
 
-[\[note: 48\]](#Ftn_48_1)Notes of Evidence, Day 8, page 11, line 12.
+[^48]: Notes of Evidence, Day 8, page 11, line 12.
 
-[\[note: 49\]](#Ftn_49_1)Notes of Evidence, Day 8, page 12. lines 4-12.
+[^49]: Notes of Evidence, Day 8, page 12. lines 4-12.
 
-[\[note: 50\]](#Ftn_50_1)In this regard Mr Shahidin’s testimony tended to waver on whether he had entirely ceded possession of his mobile phone to Mr Zulkifli. Upon being cross-examined on certain discrepancies, he claimed to have had **intermittent** possession of his mobile phone, and could see Mr Fadli’s messages, whereupon he would pass the phone to Mr Zulkifli to key his response. At Notes of Evidence, page 47, lines 1-8, he states: Q: Oh, so you can see the message? So the whole afternoon when ‘Beng’ was texting on your phone, you can see all the messages he is exchanging?ANot all, lah. Like when the phone is---he put down already then when the text come, I can see the message, then I pass to him, ah.
+[^50]: In this regard Mr Shahidin’s testimony tended to waver on whether he had entirely ceded possession of his mobile phone to Mr Zulkifli. Upon being cross-examined on certain discrepancies, he claimed to have had **intermittent** possession of his mobile phone, and could see Mr Fadli’s messages, whereupon he would pass the phone to Mr Zulkifli to key his response. At Notes of Evidence, page 47, lines 1-8, he states: Q: Oh, so you can see the message? So the whole afternoon when ‘Beng’ was texting on your phone, you can see all the messages he is exchanging?ANot all, lah. Like when the phone is---he put down already then when the text come, I can see the message, then I pass to him, ah.
 
-[\[note: 51\]](#Ftn_51_1)Mr Fadli had of course, already testified to his not personally knowing Mr Zulkifli.
+[^51]: Mr Fadli had of course, already testified to his not personally knowing Mr Zulkifli.
 
-[\[note: 52\]](#Ftn_52_1)Notes of Evidence, Day 4, page 48, lines 15-25.
+[^52]: Notes of Evidence, Day 4, page 48, lines 15-25.
 
-[\[note: 53\]](#Ftn_53_1)
+[^53]: 
 
-[\[note: 54\]](#Ftn_54_1)Notes of Evidence, Day 8, Page 21, lines 9-29
+[^54]: Notes of Evidence, Day 8, Page 21, lines 9-29
 
-[\[note: 55\]](#Ftn_55_1)Notes of Evidence, Day 8, page 22, lines 1-2
+[^55]: Notes of Evidence, Day 8, page 22, lines 1-2
 
-[\[note: 56\]](#Ftn_56_1)Notes of Evidence, Day 4, page 31 lines 18-23
+[^56]: Notes of Evidence, Day 4, page 31 lines 18-23
 
-[\[note: 57\]](#Ftn_57_1)‘Beng’ is Mr Zulkifli
+[^57]: ‘Beng’ is Mr Zulkifli
 
-[\[note: 58\]](#Ftn_58_1)Notes of Evidence, Day 8, page 37, lines 11-23
+[^58]: Notes of Evidence, Day 8, page 37, lines 11-23
 
-[\[note: 59\]](#Ftn_59_1)As before, ‘Beng’ is Mr Zulkifli
+[^59]: As before, ‘Beng’ is Mr Zulkifli
 
-[\[note: 60\]](#Ftn_60_1)Notes of Evidence, Day 8, page 19 lines 21-21 where accused saysQ And on this date, on the 2nd of August, why didn’t you ask him to call Zulkifli same way you did the first time?A He was constantly changing numbers, ah.
+[^60]: Notes of Evidence, Day 8, page 19 lines 21-21 where accused saysQ And on this date, on the 2nd of August, why didn’t you ask him to call Zulkifli same way you did the first time?A He was constantly changing numbers, ah.
 
-[\[note: 61\]](#Ftn_61_1)Notes of Evidence, Day 8, Page 20, lines 27-29.
+[^61]: Notes of Evidence, Day 8, Page 20, lines 27-29.
 
-[\[note: 62\]](#Ftn_62_1)It should be noted that Mr Fadli’s testimony that he **_did not have_** Mr Zulkifli’s phone number at the time, and had merely **_collected_** drugs he had ordered from Fadli once from a ‘dark person’ whom he did not know: Notes of Evidence Day 4 Pages 56-57.
+[^62]: It should be noted that Mr Fadli’s testimony that he **_did not have_** Mr Zulkifli’s phone number at the time, and had merely **_collected_** drugs he had ordered from Fadli once from a ‘dark person’ whom he did not know: Notes of Evidence Day 4 Pages 56-57.
 
-[\[note: 63\]](#Ftn_63_1)Prosecution’s Submissions, Exhibit A at \[29\]-\[30\], which referenced the criteria for evaluating witness credibility enunciated in _Farida Begum d/o Mohd Artham v Public Prosecutor_ .
+[^63]: Prosecution’s Submissions, Exhibit A at \[29\]-\[30\], which referenced the criteria for evaluating witness credibility enunciated in _Farida Begum d/o Mohd Artham v Public Prosecutor_ .
 
-[\[note: 64\]](#Ftn_64_1)Per Exhibit P9: Q2: What is the purpose of (Mr Fadli) coming to Hougang Avenue 10 Blk 402?A2: Amad came down to **_see me_**.
+[^64]: Per Exhibit P9: Q2: What is the purpose of (Mr Fadli) coming to Hougang Avenue 10 Blk 402?A2: Amad came down to **_see me_**.
 
-[\[note: 65\]](#Ftn_65_1)Exhibit P10 at \[7\]
+[^65]: Exhibit P10 at \[7\]
 
-[\[note: 66\]](#Ftn_66_1)Exhibit P10 at \[8}, Mr Shahidin states: ‘I informed (Mr Zulkifli) that (Mr Fadli) is on the way down to collect the 0.5 gram of "Ice".’
+[^66]: Exhibit P10 at \[8}, Mr Shahidin states: ‘I informed (Mr Zulkifli) that (Mr Fadli) is on the way down to collect the 0.5 gram of "Ice".’
 
-[\[note: 67\]](#Ftn_67_1)Serial number 10 at Exhibit P20.
+[^67]: Serial number 10 at Exhibit P20.
 
-[\[note: 68\]](#Ftn_68_1)Defence submissions; Exhibit C at \[5\]
+[^68]: Defence submissions; Exhibit C at \[5\]
 
-[\[note: 69\]](#Ftn_69_1)Exhibit C at \[9\]
+[^69]: Exhibit C at \[9\]
 
-[\[note: 70\]](#Ftn_70_1)Exhibit C at \[16\]
+[^70]: Exhibit C at \[16\]
 
-[\[note: 71\]](#Ftn_71_1)Section 17 provides that Any person who is proved to have had in his possession more than —… (h) **_25 grammes_** of methamphetamine;…whether or not contained in any substance, extract, preparation or mixture, shall be presumed to have had that drug in possession for the purpose of trafficking unless it is proved that his possession of that drug was not for that purpose.
+[^71]: Section 17 provides that Any person who is proved to have had in his possession more than —… (h) **_25 grammes_** of methamphetamine;…whether or not contained in any substance, extract, preparation or mixture, shall be presumed to have had that drug in possession for the purpose of trafficking unless it is proved that his possession of that drug was not for that purpose.
 
-[\[note: 72\]](#Ftn_72_1)Presumption of possession and knowledge of controlled drugs18.(1) Any person who is proved to have had in his possession or custody or under his control —(a) anything containing a controlled drug;...shall, until the contrary is proved, be presumed to have had that drug in his possession. {Emphasis added\]…(4) **_Where one of 2 or more persons with the knowledge and consent of the rest has any controlled drug in his possession, it shall be deemed to be in the possession of each and all of them._**
+[^72]: Presumption of possession and knowledge of controlled drugs18.(1) Any person who is proved to have had in his possession or custody or under his control —(a) anything containing a controlled drug;...shall, until the contrary is proved, be presumed to have had that drug in his possession. {Emphasis added\]…(4) **_Where one of 2 or more persons with the knowledge and consent of the rest has any controlled drug in his possession, it shall be deemed to be in the possession of each and all of them._**
 
-[\[note: 73\]](#Ftn_73_1)As described in \[8\] of Exhibit P10.
+[^73]: As described in \[8\] of Exhibit P10.
 
-[\[note: 74\]](#Ftn_74_1)W/SSG Nurfarhanah Osman, the recorder of the Contemporaneous Statement P9 records for the seventh question and answer: Q7 How much did (Mr Fadli) give to youA7. **_I quote him_** 0.5 g at $70-$80/ \[Emphasis added\]
+[^74]: W/SSG Nurfarhanah Osman, the recorder of the Contemporaneous Statement P9 records for the seventh question and answer: Q7 How much did (Mr Fadli) give to youA7. **_I quote him_** 0.5 g at $70-$80/ \[Emphasis added\]
 
-[\[note: 75\]](#Ftn_75_1)As is evident from the messages in items 20-37 in P20
+[^75]: As is evident from the messages in items 20-37 in P20
 
-[\[note: 76\]](#Ftn_76_1)Exhibit Cat \[42\]
+[^76]: Exhibit Cat \[42\]
 
-[\[note: 77\]](#Ftn_77_1)Notes of Evidence, Day 5, page 26, lines 11-20
+[^77]: Notes of Evidence, Day 5, page 26, lines 11-20
 
-[\[note: 78\]](#Ftn_78_1)Notes of Evidence, Day 5, page 20, lines 1-32
+[^78]: Notes of Evidence, Day 5, page 20, lines 1-32
 
-[\[note: 79\]](#Ftn_79_1)At Notes of Evidence, Day 4, page 29, lines 23-26, PW 4 Fadli states:QOkay. So, do you confirm that the messages in this document are the messages that you exchanged with Din on the 2nd of AugustAYes.
+[^79]: At Notes of Evidence, Day 4, page 29, lines 23-26, PW 4 Fadli states:QOkay. So, do you confirm that the messages in this document are the messages that you exchanged with Din on the 2nd of AugustAYes.
 
-[\[note: 80\]](#Ftn_80_1)Notes of Evidence, Day 6, page 8, lines 1-25
+[^80]: Notes of Evidence, Day 6, page 8, lines 1-25
 
-[\[note: 81\]](#Ftn_81_1)The first entry of Exhibit P20 logged at 2.59 pm on 2 August 2016 states that Mr Fadli ‘Called Din and he answered. Fadli asked him if he have Ice with him. Din said yes and asked how much he wanted. **_Fadli told him he wanted to buy for $30_** and Din asked when he wants it. Fadli told him today and would call him to confirm the timing. Din said okay.’
+[^81]: The first entry of Exhibit P20 logged at 2.59 pm on 2 August 2016 states that Mr Fadli ‘Called Din and he answered. Fadli asked him if he have Ice with him. Din said yes and asked how much he wanted. **_Fadli told him he wanted to buy for $30_** and Din asked when he wants it. Fadli told him today and would call him to confirm the timing. Din said okay.’
 
-[\[note: 82\]](#Ftn_82_1)Notes of Evidence, Day 4 page 17, line 32.
+[^82]: Notes of Evidence, Day 4 page 17, line 32.
 
-[\[note: 83\]](#Ftn_83_1)Notes of Evidence, Day 4 page 21, line 5.
+[^83]: Notes of Evidence, Day 4 page 21, line 5.
 
-[\[note: 84\]](#Ftn_84_1)In both P9 and P10.
+[^84]: In both P9 and P10.
 
-[\[note: 85\]](#Ftn_85_1)The first appellant was Hartej
+[^85]: The first appellant was Hartej
 
-[\[note: 86\]](#Ftn_86_1)The second appellant was Sarjit
+[^86]: The second appellant was Sarjit
 
-[\[note: 87\]](#Ftn_87_1)As set out in page 10 of Exhibit B; Reply of Prosecution.
+[^87]: As set out in page 10 of Exhibit B; Reply of Prosecution.
 
-[\[note: 88\]](#Ftn_88_1)At \[2\] of Exhibit B.
+[^88]: At \[2\] of Exhibit B.
 
-[\[note: 89\]](#Ftn_89_1)As reflected in Q&A 10 of Mr Shahidin’s contemporaneous statement; Exhibit P9.
+[^89]: As reflected in Q&A 10 of Mr Shahidin’s contemporaneous statement; Exhibit P9.
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F23176-SSP.xml)

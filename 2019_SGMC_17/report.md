@@ -1,3 +1,4 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
 # Public Prosecutor _v_ Yan Jun  
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">MAC-902514-2019 &amp; Others</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">22 April 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">Magistrates Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">May Mesenas</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Mr Chong Yong Hui &amp; Ms Tan Pei Wei (Deputy Public Prosecutors) for the prosecution; Accused in person</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Yan Jun</td></tr></tbody></table>
@@ -80,7 +81,7 @@ The term “public place” means:
 
 **Any place (open to the air or otherwise) to which members of the public have access as of right** or by virtue of express or implied permission, whether or not on payment of a fee, whether or not access to the place may be restricted at particular times or for particular purposes, and whether or not it is an “approved place” within the meaning of the Public Entertainments and Meetings Act (Cap. 257); or…\[Emphasis added\]
 
-8       I agree with the prosecution’s submission at \[10\] that the offence under section 16(2)(a) of the POA is one of strict liability. Such an interpretation has also been affirmed by the High Court in previous cases[\[note: 1\]](#Ftn_1), which appeals against conviction for similar offences have been dismissed. Further, this is also supported by the Explanatory Statement to the Public Order Bill, which states:
+8       I agree with the prosecution’s submission at \[10\] that the offence under section 16(2)(a) of the POA is one of strict liability. Such an interpretation has also been affirmed by the High Court in previous cases[^1], which appeals against conviction for similar offences have been dismissed. Further, this is also supported by the Explanatory Statement to the Public Order Bill, which states:
 
 Where a public assembly or public procession in respect of which no permit has been granted… takes place, each person who organises \[or takes part in\] a public assembly… is guilty of an offence.
 
@@ -92,7 +93,7 @@ Where a public assembly or public procession in respect of which no permit has b
 
 #### Was the accused taking part in a public assembly?
 
-10     The following facts were not in dispute. The accused was standing outside the Raffles Place MRT station on 28 February 2019 at about 5.03pm, holding to two placards, namely, P3 and P4, and ‘making declarations concerning the subject matters of his protest’[\[note: 2\]](#Ftn_2). The body-worn camera footage (P1) recorded by the arresting officer, Station Inspector Juherman bin Zaiton (PW1) confirms this as well.
+10     The following facts were not in dispute. The accused was standing outside the Raffles Place MRT station on 28 February 2019 at about 5.03pm, holding to two placards, namely, P3 and P4, and ‘making declarations concerning the subject matters of his protest’[^2]. The body-worn camera footage (P1) recorded by the arresting officer, Station Inspector Juherman bin Zaiton (PW1) confirms this as well.
 
 11     In P3, the Chinese characters “抗議香港政府在裝甲車陰謀中出賣中國主權!” which mean ‘Protest against the Hong Kong government for betraying the sovereignty of China in the armoured vehicles conspiracy!’ were printed on one side. On the reverse side of the same placard were the English words “_PM Lee: Resign over Singapore’s Watergate Scandal and Nepotism!_”
 
@@ -126,7 +127,7 @@ Subject to this section, a police officer of or above the rank of sergeant may g
 
 21     Section 36 of the POA requires the police officer to ‘give’ a direction to move on to the person in writing. As seen in P1, PW2 held P5 to the accused’s eye level and informed him of its contents, stating the terms of the direction as well as the consequences for non-compliance. He also showed the accused the map annexed to P5, which sets out the demarcated area which the accused was to leave, and not return to, for a period of 24 hours (see s/n 21 of P2). When the accused refused to take P5, PW2 then left it on the ground at the accused’s feet.
 
-22     The issue is whether PW2 had ‘given’ the direction to move on to the accused despite the latter’s refusal to accept the same. Under section 45(1)(a)(i) of the POA, any requirement under the Act stating that a document be ‘given’ may be fulfilled by ‘delivering it to the individual personally’. I agree with the prosecution that ‘delivery’ of the document is not premised on _physical acceptance or receipt_ of the document being given[\[note: 3\]](#Ftn_3).
+22     The issue is whether PW2 had ‘given’ the direction to move on to the accused despite the latter’s refusal to accept the same. Under section 45(1)(a)(i) of the POA, any requirement under the Act stating that a document be ‘given’ may be fulfilled by ‘delivering it to the individual personally’. I agree with the prosecution that ‘delivery’ of the document is not premised on _physical acceptance or receipt_ of the document being given[^3].
 
 23     This reading also accords with a contextual interpretation of the provision, seeing as the other means of ‘giving’ documents listed in section 45(1)(a) of the POA similarly do not require that the intended recipient physically accept or receive the document.
 
@@ -164,7 +165,7 @@ Section 36(3) further provides:
 
 (3)    The rights and freedoms referred to in subsection (2)(c) includes a reference to the rights and freedoms of the public to enjoy the place and the rights of persons to carry on lawful business in or in accordance with the place.
 
-30     PW2 had testified that a crowd of about 30 to 40 people had gathered to watch the accused. This can also be seen in P1. Based on PW2’s testimony, there was a risk of a ‘public order incident’ if the accused managed to rile the crowd’s emotions with the messages on his placards. He further added that there were public safety concerns as public disorder would present a risk of injury to the persons in the crowd if the onlookers present at the scene turned ‘rowdy’[\[note: 4\]](#Ftn_4). Additionally, he also stated that the crowd gathered as a result of the accused’s public protest, would also have obstructed other members of the public who sought to move around the area.
+30     PW2 had testified that a crowd of about 30 to 40 people had gathered to watch the accused. This can also be seen in P1. Based on PW2’s testimony, there was a risk of a ‘public order incident’ if the accused managed to rile the crowd’s emotions with the messages on his placards. He further added that there were public safety concerns as public disorder would present a risk of injury to the persons in the crowd if the onlookers present at the scene turned ‘rowdy’[^4]. Additionally, he also stated that the crowd gathered as a result of the accused’s public protest, would also have obstructed other members of the public who sought to move around the area.
 
 31     In view of the foregoing, I agree that the direction to move on was reasonably necessary for public safety, public order as well as for the protection of the right of members of the public to move around the area.
 
@@ -172,17 +173,17 @@ Section 36(3) further provides:
 
 32     The direction to move on required the accused to leave the area demarcated in the map (annexed to P5) and not return for the duration of 24 hours from 5.06pm, 28 February 2019.
 
-33     PW2 testified that the accused was asked to leave the demarcated area for the specified duration so as to give him time to cool off and reconsider his offending conduct, as well as to prevent him from simply coming back to stage another protest within a short period[\[note: 5\]](#Ftn_5).
+33     PW2 testified that the accused was asked to leave the demarcated area for the specified duration so as to give him time to cool off and reconsider his offending conduct, as well as to prevent him from simply coming back to stage another protest within a short period[^5].
 
 34     I agree with the prosecution that these conditions were reasonable in the circumstances given that the accused had already committed an offence by staging a public protest without a permit under section 16(2)(a) of the POA and the risks that his behaviour posed to public safety, public order and the right of free movement of the public around that area.
 
 #### Did the accused fail to comply with the move-on direction without any reasonable excuse?
 
-35     On the evidence adduced from PW2 and PW4, as well as P2, it was clear that even after the move-on direction (P5) was given to the accused, PW2 and PW4 gave the accused two opportunities to comply with the direction by informing him of the consequences for non-compliance. They had even given him time and space to consider complying with the direction. However, the accused chose to remain where he was and continued to ‘brandish the placards’[\[note: 6\]](#Ftn_6), shouting that he ‘will not leave this area’, telling PW2 and PW4 that he was ‘not interested in any final warning’ and for them to ‘go away’ and even challenged them to arrest him (see P2). The facts above remain unchallenged by the defence.
+35     On the evidence adduced from PW2 and PW4, as well as P2, it was clear that even after the move-on direction (P5) was given to the accused, PW2 and PW4 gave the accused two opportunities to comply with the direction by informing him of the consequences for non-compliance. They had even given him time and space to consider complying with the direction. However, the accused chose to remain where he was and continued to ‘brandish the placards’[^6], shouting that he ‘will not leave this area’, telling PW2 and PW4 that he was ‘not interested in any final warning’ and for them to ‘go away’ and even challenged them to arrest him (see P2). The facts above remain unchallenged by the defence.
 
 36     The issue is whether the accused had a ‘reasonable excuse’ to contravene the move-on direction which he has to prove on a balance of probabilities. In his defence, the accused offered two excuses: first, that the move-on direction was unnecessary and the police should have arrested him immediately to stop him from protesting if they considered the protest unlawful; second, the police were fully aware that he would not comply with the move-on direction, but ‘maliciously’ issued the direction regardless.
 
-37     These excuses proffered by the accused were clearly not reasonable. The police did not effect arrest immediately after the accused began his public protest as they had wanted to give him both ample time and space to ‘cool off’ and consider complying with the move-on direction. This was consistent with the demarcated area being set a certain distance away from the vicinity where the accused was staging his protest[\[note: 7\]](#Ftn_7). As the evidence remain unchallenged by the defence, and given the accused’s failure to provide reasonable excuses for non-compliance of move-on direction, I was satisfied that the prosecution had proved the charge under section 37 of the POA beyond reasonable doubt.
+37     These excuses proffered by the accused were clearly not reasonable. The police did not effect arrest immediately after the accused began his public protest as they had wanted to give him both ample time and space to ‘cool off’ and consider complying with the move-on direction. This was consistent with the demarcated area being set a certain distance away from the vicinity where the accused was staging his protest[^7]. As the evidence remain unchallenged by the defence, and given the accused’s failure to provide reasonable excuses for non-compliance of move-on direction, I was satisfied that the prosecution had proved the charge under section 37 of the POA beyond reasonable doubt.
 
 ## Third charge
 
@@ -214,9 +215,9 @@ Whoever, being legally bound to state the truth on any subject to any public ser
 
 #### Was the accused legally bound to state the truth to PW6 on the facts and circumstances concerning events on 28 February 2019?
 
-44     The issue is whether the accused was legally bound to state the truth to PW6 when he is questioned about the facts and circumstances of the case. The prosecution contended that persons examined by police officers under section 22 of the CPC are bound to state truly what they know about the case, save that they need not say anything which ‘might expose \[them\] to a criminal charge, penalty or forfeiture.’[\[note: 8\]](#Ftn_8)
+44     The issue is whether the accused was legally bound to state the truth to PW6 when he is questioned about the facts and circumstances of the case. The prosecution contended that persons examined by police officers under section 22 of the CPC are bound to state truly what they know about the case, save that they need not say anything which ‘might expose \[them\] to a criminal charge, penalty or forfeiture.’[^8]
 
-45     Further, the prosecution relied on the Indian Supreme Court decision in _Nandini Satpathy v PL Dani_ (1978) CrLJ 968 (“_Nandini Sathpathy_”), where an accused person who refused to answer questions put to her by a police officer under a provision substantially similar to section 22(2) of the CPC could incur criminal liability under section 179 of the Indian Penal Code, which is in _pari materia_ with section 179 of the PC. The Court held at \[60\] that the proviso excluding the person being examined from having to answer questions with answers ‘which would have a tendency to expose him to a criminal charge or to a penalty or forfeiture’ only excuses the person being examined from having to give answers with a “reasonable, real, material or probable” likelihood of incriminating himself. The Court further elaborated at \[70\] as follows that[\[note: 9\]](#Ftn_9):
+45     Further, the prosecution relied on the Indian Supreme Court decision in _Nandini Satpathy v PL Dani_ (1978) CrLJ 968 (“_Nandini Sathpathy_”), where an accused person who refused to answer questions put to her by a police officer under a provision substantially similar to section 22(2) of the CPC could incur criminal liability under section 179 of the Indian Penal Code, which is in _pari materia_ with section 179 of the PC. The Court held at \[60\] that the proviso excluding the person being examined from having to answer questions with answers ‘which would have a tendency to expose him to a criminal charge or to a penalty or forfeiture’ only excuses the person being examined from having to give answers with a “reasonable, real, material or probable” likelihood of incriminating himself. The Court further elaborated at \[70\] as follows that[^9]:
 
 …fanciful claims, unreasonable apprehensions and vague possibilities cannot be the hiding ground for an accused person. He is bound to answer where there is no clear tendency to incriminate.
 
@@ -231,11 +232,11 @@ Whoever, being legally bound to state the truth on any subject to any public ser
 
 #### Did the accused refuse to answer a public servant authorised to question?
 
-48     Having examined the series of questions, I was of the view that not all the answers to the questions posed by PW6 would be incriminatory or had a clear tendency to incriminate, or expose him to a ‘criminal charge, penalty or forfeiture’, should the accused state the truth therein as required under section 22(2) of the CPC. I agree with the prosecution that question 1 was a very general question dealing with the accused’s knowledge of the facts of the case. There was nothing to suggest that the accused had to give details which may incriminate him. As for question 4, it was a factual inquiry into the meaning the Chinese characters in one of the placards. Question 9 could hardly be characterised as incriminatory as it pertains to the accused’s personal particulars. As for question 10, the prosecution submitted that ‘it merely sought to determine if the accused recognised the move-on direction which had been issued to him[\[note: 10\]](#Ftn_10)’. I did not agree with the prosecution that the answer to this question would necessarily not incriminate him if he were to state the truth.
+48     Having examined the series of questions, I was of the view that not all the answers to the questions posed by PW6 would be incriminatory or had a clear tendency to incriminate, or expose him to a ‘criminal charge, penalty or forfeiture’, should the accused state the truth therein as required under section 22(2) of the CPC. I agree with the prosecution that question 1 was a very general question dealing with the accused’s knowledge of the facts of the case. There was nothing to suggest that the accused had to give details which may incriminate him. As for question 4, it was a factual inquiry into the meaning the Chinese characters in one of the placards. Question 9 could hardly be characterised as incriminatory as it pertains to the accused’s personal particulars. As for question 10, the prosecution submitted that ‘it merely sought to determine if the accused recognised the move-on direction which had been issued to him[^10]’. I did not agree with the prosecution that the answer to this question would necessarily not incriminate him if he were to state the truth.
 
-49     That said, I agree with the prosecution that the accused was under a legal obligation to answer the questions posed by PW6 (whether the accused subjectively believes them to be ‘silly’ or not) at the material time he was being lawfully examined by PW6 as long as his answers could not have incriminated him in any way[\[note: 11\]](#Ftn_11).
+49     That said, I agree with the prosecution that the accused was under a legal obligation to answer the questions posed by PW6 (whether the accused subjectively believes them to be ‘silly’ or not) at the material time he was being lawfully examined by PW6 as long as his answers could not have incriminated him in any way[^11].
 
-50     Additionally, I found the accused’s refusal to answer questions 1, 4 and 9 was clearly blatant in light of the fact that he had at the very outset did not wish to co-operate with the authorities, by first refusing to leave the cell for an interview (P9)[\[note: 12\]](#Ftn_12) and subsequently stating that he was exercising his right of silence even before PW6 started posing the questions as stated in P10. His conduct was not a case of exercising his right to not self-incriminate to questions posed by PW6 in the course of recording P10. The accused had made it abundantly clear to PW6 and his colleagues that he was not going to answer any of the questions regardless of the nature of the questions. He was in fact lying to his left in a foetal position with the blanket covering his body and legs when PW6 tried to engage him.[\[note: 13\]](#Ftn_13) He continued to remain uncooperative even after PW6 had expressly warned him that his refusal to provide a statement may amount to an offence.
+50     Additionally, I found the accused’s refusal to answer questions 1, 4 and 9 was clearly blatant in light of the fact that he had at the very outset did not wish to co-operate with the authorities, by first refusing to leave the cell for an interview (P9)[^12] and subsequently stating that he was exercising his right of silence even before PW6 started posing the questions as stated in P10. His conduct was not a case of exercising his right to not self-incriminate to questions posed by PW6 in the course of recording P10. The accused had made it abundantly clear to PW6 and his colleagues that he was not going to answer any of the questions regardless of the nature of the questions. He was in fact lying to his left in a foetal position with the blanket covering his body and legs when PW6 tried to engage him.[^13] He continued to remain uncooperative even after PW6 had expressly warned him that his refusal to provide a statement may amount to an offence.
 
 51     In light of the foregoing, I was thus satisfied that all four elements as stated in \[36\] above have been proven beyond reasonable doubt.
 
@@ -260,7 +261,7 @@ The appeals against conviction and sentence for all of the above previous convic
 
 ## Prosecution’s address on sentence
 
-56     The prosecution submitted that deterrence and prevention are the dominant sentencing considerations for the present case. In particular, there was a need to specifically deter the accused from his repeated offending behaviour as well as prevention for the protection of the public where the offender must be physically incapacitated and removed from general public society because the members of the general public need to be protected from his criminal conduct. It was further submitted that persistence in offending, particularly, must be met by sentences that achieve the need for prevention[\[note: 14\]](#Ftn_14).
+56     The prosecution submitted that deterrence and prevention are the dominant sentencing considerations for the present case. In particular, there was a need to specifically deter the accused from his repeated offending behaviour as well as prevention for the protection of the public where the offender must be physically incapacitated and removed from general public society because the members of the general public need to be protected from his criminal conduct. It was further submitted that persistence in offending, particularly, must be met by sentences that achieve the need for prevention[^14].
 
 57     The offences under section 37 of the POA and section 179 of the PC call for sentences that significantly emphasise the need for general deterrence whereas specific deterrence and prevention would be particularly applicable for the offence under section 16(2)(a) of the POA in view of his numerous previous convictions for the same offence. The following relevant factors were highlighted in relation to each specific offence as set out in prosecution’s address on sentence at \[21\] – \[24\] below:
 
@@ -306,7 +307,7 @@ The appeals against conviction and sentence for all of the above previous convic
 
 58     Thus, for the offence under section 16(2)(a) of the POA, the prosecution submitted for the maximum fine of $5,000, which is the maximum punishment prescribed. This was given the fact that the previous sentence of the maximum fine imposed for the last few convictions for the same offence had failed to deter the accused. Furthermore, the increasing longer imprisonment terms imposed in default of payment of the maximum fine for each previous conviction, has also not deterred the accused from re-offending. In fact, the previous default imprisonment term of 7 weeks’ imposed on 5 April 2018, had failed to deter the accused as upon his release from prison on 20 September 2018 (after serving the global sentence imposed by two different courts including the default imprisonment term of 7 weeks), he re-offended shortly thereafter on 28 February 2019. He had in fact made it blatantly clear that he would continue to re-offend and had asked PW2 (during cross-examination) if the police would continue to issue him with a move-on direction when he held his next unlawful public assembly in future. In that regard, a default term of not less than 10 weeks’ imprisonment was sought.
 
-59     A sentencing framework based on the harm-culpability matrix for the offence under section 37 of the POA was submitted, given that it was previously accepted by the district judge who dealt with a similar offence[\[note: 15\]](#Ftn_15). The harm-culpability matrix is reproduced below:
+59     A sentencing framework based on the harm-culpability matrix for the offence under section 37 of the POA was submitted, given that it was previously accepted by the district judge who dealt with a similar offence[^15]. The harm-culpability matrix is reproduced below:
 
 ![]([2019] SGMC 0017_Image/[2019] SGMC 0017_image1.png)
 
@@ -372,43 +373,43 @@ The appeals against conviction and sentence for all of the above previous convic
 
 78     I agree with the prosecution that both sentences under sections 37 of the POA and 179 of the PC ought to run consecutively as they clearly deal with different interests. Bearing in mind the totality and proportionality principles, I was of the view that the overall sentence should not be overly crushing, and determined that the aggregate sentence of 26 week’s imprisonment was justified in the circumstances. This was also noting the fact that the accused had previously been sentenced to a global sentence of 18 weeks’ imprisonment for similar offences on 5 April 2018 and 7 May 2018 respectively (see \[52\] above).
 
-79     In the event that the accused fails to pay the fine imposed, a further 9 weeks’ imprisonment would have to be served in default, making it a total of 35 weeks’ imprisonment, which is by no stretch of the imagination manifestly excessive in the circumstances. This is also notwithstanding the accused’s bizarre and inexplicable submission for the maximum 18 months’ to be imposed[\[note: 16\]](#Ftn_16). The sentence was further ordered to be backdated to the accused’s first date of remand.
+79     In the event that the accused fails to pay the fine imposed, a further 9 weeks’ imprisonment would have to be served in default, making it a total of 35 weeks’ imprisonment, which is by no stretch of the imagination manifestly excessive in the circumstances. This is also notwithstanding the accused’s bizarre and inexplicable submission for the maximum 18 months’ to be imposed[^16]. The sentence was further ordered to be backdated to the accused’s first date of remand.
 
 _The accused was convicted and sentenced to twenty-six weeks’ imprisonment and a fine of $5,000 and nine weeks’ imprisonment in default of payment of the fine._
 
 * * *
 
-[\[note: 1\]](#Ftn_1_1)_PP v Yan Jun_ at \[36\]; _PP v Yan Jun_ at \[9\]; _PP v Yan Jun_ ; _PP v Yan Jun_ at \[24\]
+[^1]: _PP v Yan Jun_ at \[36\]; _PP v Yan Jun_ at \[9\]; _PP v Yan Jun_ ; _PP v Yan Jun_ at \[24\]
 
-[\[note: 2\]](#Ftn_2_1)Prosecution’s closing submissions at \[19\].
+[^2]: Prosecution’s closing submissions at \[19\].
 
-[\[note: 3\]](#Ftn_3_1)See Prosecution’s closing submissions at \[34\]-\[36\]
+[^3]: See Prosecution’s closing submissions at \[34\]-\[36\]
 
-[\[note: 4\]](#Ftn_4_1)Day 1 NE – page 41, lines 16-18; lines 26-30
+[^4]: Day 1 NE – page 41, lines 16-18; lines 26-30
 
-[\[note: 5\]](#Ftn_5_1)Day 1 NE – page 45, lines 31-32; page 46, line 1
+[^5]: Day 1 NE – page 45, lines 31-32; page 46, line 1
 
-[\[note: 6\]](#Ftn_6_1)Prosecution’s closing submissions at \[48\]
+[^6]: Prosecution’s closing submissions at \[48\]
 
-[\[note: 7\]](#Ftn_7_1)Prosecution’s closing submissions at \[44\]
+[^7]: Prosecution’s closing submissions at \[44\]
 
-[\[note: 8\]](#Ftn_8_1)Prosecution’s closing submissions at \[57\]
+[^8]: Prosecution’s closing submissions at \[57\]
 
-[\[note: 9\]](#Ftn_9_1)Prosecution’s closing submissions at \[58\]-\[59\]
+[^9]: Prosecution’s closing submissions at \[58\]-\[59\]
 
-[\[note: 10\]](#Ftn_10_1)Prosecution’s closing submissions at \[60\].
+[^10]: Prosecution’s closing submissions at \[60\].
 
-[\[note: 11\]](#Ftn_11_1)Prosecution’s closing submissions at \[61\].
+[^11]: Prosecution’s closing submissions at \[61\].
 
-[\[note: 12\]](#Ftn_12_1)S/n 8 of P9
+[^12]: S/n 8 of P9
 
-[\[note: 13\]](#Ftn_13_1)S/n 10 of P9
+[^13]: S/n 10 of P9
 
-[\[note: 14\]](#Ftn_14_1)Prosecution’s Address on sentence at \[18\]
+[^14]: Prosecution’s Address on sentence at \[18\]
 
-[\[note: 15\]](#Ftn_15_1)PP v Yan Jun
+[^15]: PP v Yan Jun
 
-[\[note: 16\]](#Ftn_16_1)For the avoidance of doubt, there was no evidence to suggest that the accused was of unsound mind during the course of the trial or at the material time of the current offences.
+[^16]: For the avoidance of doubt, there was no evidence to suggest that the accused was of unsound mind during the course of the trial or at the material time of the current offences.
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F23076-SSP.xml)

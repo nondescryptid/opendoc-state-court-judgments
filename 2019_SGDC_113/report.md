@@ -1,3 +1,4 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
 # Public Prosecutor _v_ Liew Yaoxiang Daniel  
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">DAC No. 935864 of 2018 &amp; ors</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">29 May 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Kan Shuk Weng</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">DPPs Teo Guan Siew, Nicholas Lim, Suhas Malhotra and David Koh Attorney-General's Chambers for the Prosecution; Mr Sant Singh S.C., Ms Megan Chia and Ms Yap En Li M/s Tan, Rajah and Cheah for the Accused</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Liew Yaoxiang Daniel</td></tr></tbody></table>
@@ -37,23 +38,23 @@
 
 7       The Accused graduated from the National University of Singapore in 2006 with a Bachelor’s Degree and practised as a dental surgeon after his graduation. From 2006 to 2008, the Accused practised at the National Dental Centre. He was with Vista Dental Surgery from 2008, and joined TSD sometime in 2011.
 
-8       TSD was a group of dental surgery clinics, with each TSD clinic operating under a separate limited exempt private company. The sole shareholder and director of each of the TSD clinic was Dr Goh Chin Chye Cecil (“Goh”). TSD had a practice manager, Mdm Yeo Meow Koon (“Yeo”). Yeo was responsible for, _inter alia_, the “schedules of dentists and nurses” and the preparation and submission of “relevant documents on behalf of TSD’s patients for claims” made under the Central Provident Fund Medisave scheme[\[note: 1\]](#Ftn_1). In addition, Yeo was responsible for the preparation of documents, in consultation with the relevant dentists, for auditing purposes.
+8       TSD was a group of dental surgery clinics, with each TSD clinic operating under a separate limited exempt private company. The sole shareholder and director of each of the TSD clinic was Dr Goh Chin Chye Cecil (“Goh”). TSD had a practice manager, Mdm Yeo Meow Koon (“Yeo”). Yeo was responsible for, _inter alia_, the “schedules of dentists and nurses” and the preparation and submission of “relevant documents on behalf of TSD’s patients for claims” made under the Central Provident Fund Medisave scheme[^1]. In addition, Yeo was responsible for the preparation of documents, in consultation with the relevant dentists, for auditing purposes.
 
 9       At the time the offences were committed, TSD had nine dental clinics island-wide with about 30 dentists, working either full-time or part-time. The Accused and Dr Ang Kiam Hau Steven (“Ang”) were working full time at TSD at the material time.
 
-10     During the time the Accused was with TSD, he was rostered to work at three of the dental clinics under TSD. The Accused was paid based on the fees collected from the patients: TSD would deduct and retain the costs incidental to the dental procedures performed/treatment rendered, and the Accused would then receive 50% of the balance. The Accused resigned from TSD in 2014[\[note: 2\]](#Ftn_2).
+10     During the time the Accused was with TSD, he was rostered to work at three of the dental clinics under TSD. The Accused was paid based on the fees collected from the patients: TSD would deduct and retain the costs incidental to the dental procedures performed/treatment rendered, and the Accused would then receive 50% of the balance. The Accused resigned from TSD in 2014[^2].
 
 #### The Fraudulent Scheme
 
-11     Sometime in 2009, Ang devised a scheme of making dishonest Medisave claims by certifying in Letters of Certification that dental procedures were performed on patients over numerous days, when that was not the case, with the intention of dishonestly inducing the CPF Board to disburse multiple claim amounts to TSD (the “Scheme”)[\[note: 3\]](#Ftn_3).
+11     Sometime in 2009, Ang devised a scheme of making dishonest Medisave claims by certifying in Letters of Certification that dental procedures were performed on patients over numerous days, when that was not the case, with the intention of dishonestly inducing the CPF Board to disburse multiple claim amounts to TSD (the “Scheme”)[^3].
 
-12     Claims that could be made from a CPF members’ Medisave accounts was regulated under the Central Provident Fund (Medisave Account Withdrawals) Regulations (the “Regulations”) and a patient was only to use his Medisave savings to pay for medical procedures carried out by an approved medical institution and an approved medical practitioner[\[note: 4\]](#Ftn_4). Claims were further regulated in terms of the type of procedure for which claims could be made, the amount of each claim which could be made in relation to each procedure, and the number of claims that could be made within a particular day. The claims were generally capped[\[note: 5\]](#Ftn_5). The Scheme essentially “split up” single procedures into “multiple procedures”, thereby circumventing the daily withdrawal limits under the Regulations[\[note: 6\]](#Ftn_6).
+12     Claims that could be made from a CPF members’ Medisave accounts was regulated under the Central Provident Fund (Medisave Account Withdrawals) Regulations (the “Regulations”) and a patient was only to use his Medisave savings to pay for medical procedures carried out by an approved medical institution and an approved medical practitioner[^4]. Claims were further regulated in terms of the type of procedure for which claims could be made, the amount of each claim which could be made in relation to each procedure, and the number of claims that could be made within a particular day. The claims were generally capped[^5]. The Scheme essentially “split up” single procedures into “multiple procedures”, thereby circumventing the daily withdrawal limits under the Regulations[^6].
 
-13     When Goh found out about the Scheme, he decided to implement the Scheme in the dental clinics under TSD. Through Yeo, Goh put in place a centralised system of processing and submitting dishonest Medisave claims made by the dental clinics, and also encouraged the dentists in TSD to adopt the Scheme[\[note: 7\]](#Ftn_7).
+13     When Goh found out about the Scheme, he decided to implement the Scheme in the dental clinics under TSD. Through Yeo, Goh put in place a centralised system of processing and submitting dishonest Medisave claims made by the dental clinics, and also encouraged the dentists in TSD to adopt the Scheme[^7].
 
-14     Liew came to know of the Scheme when he joined TSD, and participated in it. He knew that he would benefit from the Scheme since a patient would more likely choose dental procedures which did not require him to pay out-of-pocket[\[note: 8\]](#Ftn_8). The Scheme required the patient to receive financial counselling from the staff of the relevant TSD dental clinic. Once the staff ascertained that the patient had sufficient savings in his CPF account, the patient would be advised that he would be able to utilise his savings to pay the full costs of his procedure through a “package” offered by TSD[\[note: 9\]](#Ftn_9).
+14     Liew came to know of the Scheme when he joined TSD, and participated in it. He knew that he would benefit from the Scheme since a patient would more likely choose dental procedures which did not require him to pay out-of-pocket[^8]. The Scheme required the patient to receive financial counselling from the staff of the relevant TSD dental clinic. Once the staff ascertained that the patient had sufficient savings in his CPF account, the patient would be advised that he would be able to utilise his savings to pay the full costs of his procedure through a “package” offered by TSD[^9].
 
-15     If the patient was agreeable to using his CPF savings to pay for the full costs of his treatment, the Accused would proceed to perform the procedure on the patient. Multiple claims would then be made against the patient’s Medisave account through the Scheme. In order for the false claims to be made, the TSD staff would work out the number of Medisave claims and the type of “surgical procedures” to be assigned to these claims, so that the full costs of the procedure could be claimed. Fictitious surgery dates would also be assigned to these false claims, on which no surgery was in fact carried out, to circumvent the withdrawal limits imposed under the Regulations. A patient who agreed to the Scheme was required to sign on multiple blank Medisave Authorisation Forms and the Accused would also sign on an equivalent number of blank Letters of Certification to facilitate the making of false claims to the CPF Board[\[note: 10\]](#Ftn_10).
+15     If the patient was agreeable to using his CPF savings to pay for the full costs of his treatment, the Accused would proceed to perform the procedure on the patient. Multiple claims would then be made against the patient’s Medisave account through the Scheme. In order for the false claims to be made, the TSD staff would work out the number of Medisave claims and the type of “surgical procedures” to be assigned to these claims, so that the full costs of the procedure could be claimed. Fictitious surgery dates would also be assigned to these false claims, on which no surgery was in fact carried out, to circumvent the withdrawal limits imposed under the Regulations. A patient who agreed to the Scheme was required to sign on multiple blank Medisave Authorisation Forms and the Accused would also sign on an equivalent number of blank Letters of Certification to facilitate the making of false claims to the CPF Board[^10].
 
 #### CAD Investigations
 
@@ -67,9 +68,9 @@ c.     the Medisave Authorisation Form;
 
 d.     the pre- and post-surgery investigative reports, including radiographs, CT scan images, implant labels, histology reports etc.; and
 
-e.     the payment records (_e.g._ invoices or receipts issued to the patient) showing the itemised breakdown of the bill submitted for Medisave claims[\[note: 11\]](#Ftn_11).
+e.     the payment records (_e.g._ invoices or receipts issued to the patient) showing the itemised breakdown of the bill submitted for Medisave claims[^11].
 
-17     TSD provided the requisite documents to DAT, with a cover letter signed by Goh. By end-February 2014, DAT had completed its assessment and evaluation on the sample claims. It concluded that at least four Medisave claims were highly suspicious and might be fraudulent submissions. MOH eventually lodged a police report on 14 July 2014, informing the police of its suspicion that four dishonest claims were made by a TSD clinic at Choa Chu Kang for procedures which were supposedly performed by the Accused but which were in fact not carried out[\[note: 12\]](#Ftn_12).
+17     TSD provided the requisite documents to DAT, with a cover letter signed by Goh. By end-February 2014, DAT had completed its assessment and evaluation on the sample claims. It concluded that at least four Medisave claims were highly suspicious and might be fraudulent submissions. MOH eventually lodged a police report on 14 July 2014, informing the police of its suspicion that four dishonest claims were made by a TSD clinic at Choa Chu Kang for procedures which were supposedly performed by the Accused but which were in fact not carried out[^12].
 
 18     Upon the lodging of the police report by MOH, CAD carried out extensive investigations and interviewed 36 patients, after limiting its investigations based on the following criteria:
 
@@ -77,9 +78,9 @@ a.     claims where the total amount claimed by the patient exceeded $30,00
 
 b.     claims submitted between 1 January 2011 and 31 December 2013; and
 
-c.     claims reflecting a date which ICA’s records showed that either the patient or the dentist was not in Singapore, when the treatment was purportedly rendered[\[note: 13\]](#Ftn_13).
+c.     claims reflecting a date which ICA’s records showed that either the patient or the dentist was not in Singapore, when the treatment was purportedly rendered[^13].
 
-19     False Medisave claims were found to be submitted on behalf of these patients, and investigations revealed that 13 of the 36 patients were treated by the Accused – these formed the subject-matter of the cheating charges against him. Ang was found to have treated 14 patients, and Goh was found to have treated nine patients[\[note: 14\]](#Ftn_14).
+19     False Medisave claims were found to be submitted on behalf of these patients, and investigations revealed that 13 of the 36 patients were treated by the Accused – these formed the subject-matter of the cheating charges against him. Ang was found to have treated 14 patients, and Goh was found to have treated nine patients[^14].
 
 20     Of the 13 patients treated by the Accused, two of them were randomly selected by DAT for the Professional Medisave Audit. Forged clinical notes were submitted to DAT and these formed the subject-matter of the forgery charges against the Accused.
 
@@ -92,15 +93,15 @@ c.     claims reflecting a date which ICA’s records showed that either th
   
   
 
-22     For the above patients, the false Medisave claims had drained between 79.9% and 89.1% of the total amount in their Medisave accounts[\[note: 15\]](#Ftn_15). Other than one patient, the remaining five patients did not incur any out-of-pocket expenses for the procedures performed by the Accused[\[note: 16\]](#Ftn_16).
+22     For the above patients, the false Medisave claims had drained between 79.9% and 89.1% of the total amount in their Medisave accounts[^15]. Other than one patient, the remaining five patients did not incur any out-of-pocket expenses for the procedures performed by the Accused[^16].
 
-23     Investigations also revealed that, on or around 30 October 2012, Yeo received a request from DAT for relevant documents in respect of one of the Accused’s patients, Mdm Jasbir Kaur d/o Hardial Singh, for the purpose of the Professional Medisave Audit. Yeo realised that the clinical notes for Mdm Kaur did not tally with the Medisave claims submitted. She notified the Accused, and both of them rewrote the clinical notes for Mdm Kaur. In addition, the Accused instructed Yeo look for a set of suitable radiographs taken for another patient to pass off as radiographs of Mdm Kaur, since there were no radiographs taken for her. The Accused did so to avoid detection by MOH of the dishonest claims filed by TSD in relation to Mdm Kaur (DAC 936181-2018)[\[note: 17\]](#Ftn_17).
+23     Investigations also revealed that, on or around 30 October 2012, Yeo received a request from DAT for relevant documents in respect of one of the Accused’s patients, Mdm Jasbir Kaur d/o Hardial Singh, for the purpose of the Professional Medisave Audit. Yeo realised that the clinical notes for Mdm Kaur did not tally with the Medisave claims submitted. She notified the Accused, and both of them rewrote the clinical notes for Mdm Kaur. In addition, the Accused instructed Yeo look for a set of suitable radiographs taken for another patient to pass off as radiographs of Mdm Kaur, since there were no radiographs taken for her. The Accused did so to avoid detection by MOH of the dishonest claims filed by TSD in relation to Mdm Kaur (DAC 936181-2018)[^17].
 
-24     A year later, on or around 8 November 2013, Yeo received another request from DAT for relevant documents in respect of Yeo Choon Tee, who was the Accused’s patient, for the purpose of the Professional Medisave Audit. Yeo realised, again, that the clinical notes for Mdm Yeo did not tally with the Medisave claims submitted. The Accused was notified, and both of them proceeded to rewrite the clinical notes for Mdm Yeo, to avoid detection by MOH of the dishonest claims filed by TSD in relation to Mdm Yeo (DAC 936182-2018)[\[note: 18\]](#Ftn_18).
+24     A year later, on or around 8 November 2013, Yeo received another request from DAT for relevant documents in respect of Yeo Choon Tee, who was the Accused’s patient, for the purpose of the Professional Medisave Audit. Yeo realised, again, that the clinical notes for Mdm Yeo did not tally with the Medisave claims submitted. The Accused was notified, and both of them proceeded to rewrite the clinical notes for Mdm Yeo, to avoid detection by MOH of the dishonest claims filed by TSD in relation to Mdm Yeo (DAC 936182-2018)[^18].
 
 25     On both occasions in 2012 and 2013, Goh signed off on the cover letter before the documents were submitted to DAT.
 
-26     The total amount which was disbursed by the CPF Board as a result of the false Medisave claims made by the Accused was $388,700.00. The Accused made full restitution of the amount, including interest amounting to $81,474.49 on 21 December 2017[\[note: 19\]](#Ftn_19).
+26     The total amount which was disbursed by the CPF Board as a result of the false Medisave claims made by the Accused was $388,700.00. The Accused made full restitution of the amount, including interest amounting to $81,474.49 on 21 December 2017[^19].
 
 ## (3)   The Sentence
 
@@ -144,7 +145,7 @@ c.     claims reflecting a date which ICA’s records showed that either th
 
 #### (i)   Sentencing precedents for cheating cases involving public institutions
 
-31     As observed by the Prosecution in its Address on Sentence, “\[t\]his is a unique case, where a medical professional entrusted with making honest and accurate claims from a statutory trustee, abused that trust by cheating the trustee”[\[note: 20\]](#Ftn_20). The Prosecution cited six cheating cases involving public institution and discussed them extensively[\[note: 21\]](#Ftn_21):
+31     As observed by the Prosecution in its Address on Sentence, “\[t\]his is a unique case, where a medical professional entrusted with making honest and accurate claims from a statutory trustee, abused that trust by cheating the trustee”[^20]. The Prosecution cited six cheating cases involving public institution and discussed them extensively[^21]:
 
 (i)      _PP v Lim Cheng Hoe_ (unreported, DAC 39357-2013) – the offender was sentenced to 15 months’ imprisonment;
 
@@ -158,11 +159,11 @@ c.     claims reflecting a date which ICA’s records showed that either th
 
 (vi)      _PP v Koh Seah Wee & Lim Chai Meng_ – Koh was sentenced to a total of 22 years’ imprisonment and Lim was sentenced to a total of 15 years’ imprisonment.
 
-32     I agreed that the cases cited by the Prosecution were relevant. However, as I have noted in _PP v Ang Kiam Hau Steven_ (unreported, DAC 912271-2017 & ors), they were not on all fours with the present case[\[note: 22\]](#Ftn_22). In the cases cited by the Prosecution, the deception of the offenders had resulted in actual losses to the government. This was quite apart from whether the government had actually suffered real losses after restitution being made by the offenders. In Ang’s case, the Prosecution had similarly proceeded against him on 30 charges. All the charges involved an amount of $2,150, except for one which was for an amount of $3,508. He was sentenced to a total of 30 months’ imprisonment – six months’ imprisonment on each of the cheating charges, with the sentences in five of the charges ordered to run consecutively.
+32     I agreed that the cases cited by the Prosecution were relevant. However, as I have noted in _PP v Ang Kiam Hau Steven_ (unreported, DAC 912271-2017 & ors), they were not on all fours with the present case[^22]. In the cases cited by the Prosecution, the deception of the offenders had resulted in actual losses to the government. This was quite apart from whether the government had actually suffered real losses after restitution being made by the offenders. In Ang’s case, the Prosecution had similarly proceeded against him on 30 charges. All the charges involved an amount of $2,150, except for one which was for an amount of $3,508. He was sentenced to a total of 30 months’ imprisonment – six months’ imprisonment on each of the cheating charges, with the sentences in five of the charges ordered to run consecutively.
 
 #### (ii)   Sentencing precedents for forgery cases involving public institutions
 
-33     In relation to the forgery charges, the Prosecution cited three cases and submitted that even where there was no financial benefit to the offenders, “offences of forgery for the purpose of cheating involving public agencies will always be treated seriously and met with stiff sentences”[\[note: 23\]](#Ftn_23):
+33     In relation to the forgery charges, the Prosecution cited three cases and submitted that even where there was no financial benefit to the offenders, “offences of forgery for the purpose of cheating involving public agencies will always be treated seriously and met with stiff sentences”[^23]:
 
 _Lim Ek Kian v PP_
 
@@ -194,29 +195,29 @@ The Prosecution proceeded on 18 charges against the offender, who was untraced. 
 
 ### Accused’s fraud subverted national healthcare policy
 
-35     I agreed that the Accused’s participation in the Scheme subverted our national healthcare policy. The restrictions in the Regulations for Medisave claims were meant, at a general level, to prevent the over depletion of a member’s Medisave account over time. For example, where multiple surgical procedures were performed on a patient on any given date, Medisave claims could only be made for no more than three such procedures, involving no more than two anatomical systems and no more than two procedures within each system, depending on the type of surgical procedures involved[\[note: 24\]](#Ftn_24).
+35     I agreed that the Accused’s participation in the Scheme subverted our national healthcare policy. The restrictions in the Regulations for Medisave claims were meant, at a general level, to prevent the over depletion of a member’s Medisave account over time. For example, where multiple surgical procedures were performed on a patient on any given date, Medisave claims could only be made for no more than three such procedures, involving no more than two anatomical systems and no more than two procedures within each system, depending on the type of surgical procedures involved[^24].
 
-36     As I noted in Ang’s case, the Scheme essentially “split up” single procedures into “multiple procedures” in order to circumvent the regulatory strictures and caps. How this was done vis-à-vis the patient was that the Accused’s staff would ask the patient to provide his Medisave Account status as part of financial counselling, and if the patient was agreeable to using his Medisave savings to pay for the procedure, he was offered a “package” that would, through the fraudulent claims, allow him to claim virtually the entire treatment in full from his Medisave account[\[note: 25\]](#Ftn_25). In the present case, the patients’ Medisave accounts were depleted up to 89.1%, and five of them paid for their treatments entirely through their Medisave accounts. The Accused participated fully in the Scheme for almost two years, knowing that he would benefit from it[\[note: 26\]](#Ftn_26), which resulted in an almost complete depletion of the patients’ Medisave accounts, a mischief that the Regulations were meant to guard against.
+36     As I noted in Ang’s case, the Scheme essentially “split up” single procedures into “multiple procedures” in order to circumvent the regulatory strictures and caps. How this was done vis-à-vis the patient was that the Accused’s staff would ask the patient to provide his Medisave Account status as part of financial counselling, and if the patient was agreeable to using his Medisave savings to pay for the procedure, he was offered a “package” that would, through the fraudulent claims, allow him to claim virtually the entire treatment in full from his Medisave account[^25]. In the present case, the patients’ Medisave accounts were depleted up to 89.1%, and five of them paid for their treatments entirely through their Medisave accounts. The Accused participated fully in the Scheme for almost two years, knowing that he would benefit from it[^26], which resulted in an almost complete depletion of the patients’ Medisave accounts, a mischief that the Regulations were meant to guard against.
 
 ### Fraud perpetuated against public institutions, and involved abuse of trust and professional integrity
 
-37     The Prosecution further submitted that the Accused “occupied a position of trust vis-à-vis the \[CPF Board\]”[\[note: 27\]](#Ftn_27), and had abused that trust. I agreed with the Prosecution that the Accused abused the trust placed in him as a professional vis-à-vis the CPF Board as he was expected to declare truthfully the treatments which were given to the patients, and not make fictitious submissions to it. The Accused’s offences were further aggravated[\[note: 28\]](#Ftn_28) by the fact that he perpetuated the fraud not just against the CPF Board, but also MOH, when he sought to cover up the false claims by conspiring with Yeo to forge clinical notes of two of his patients.
+37     The Prosecution further submitted that the Accused “occupied a position of trust vis-à-vis the \[CPF Board\]”[^27], and had abused that trust. I agreed with the Prosecution that the Accused abused the trust placed in him as a professional vis-à-vis the CPF Board as he was expected to declare truthfully the treatments which were given to the patients, and not make fictitious submissions to it. The Accused’s offences were further aggravated[^28] by the fact that he perpetuated the fraud not just against the CPF Board, but also MOH, when he sought to cover up the false claims by conspiring with Yeo to forge clinical notes of two of his patients.
 
 38     As pointed out by the Prosecution, the audit check by DAT was a “mechanism” which was “put in place by the MOH to check errant Medisave claims”. The Accused and Yeo thwarted this safeguard when they rewrote the original clinical notes of patients, giving the false impression that the Medisave claims submitted by TSD were in order. Rewriting clinical notes goes against the fundamental duty of the Accused as a physician. A significant term of imprisonment is therefore necessary to signal the seriousness of the forgeries committed by the Accused, in conspiracy with Yeo. As a professional, the Accused was expected to submit genuine clinical notes of patients prepared by him and had abused the trust reposed on him. The cover-up by the Accused in October 2012 would have misled MOH into thinking that the Medisave claims submitted were in order, and allowed TSD to perpetuate the fraud against CPF for another year.
 
 ### Offences were premeditated, highly planned, committed over a prolonged period and Accused was motivated by significant personal gains
 
-39     When the Accused joined TSD in 2011, the Scheme was already implemented throughout TSD “in a streamlined and efficient manner”. By the time the Accused participated in the Scheme, Goh had put in place a “well-oiled” system which was functioning “so smoothly that the \[Accused\] could simply sign stacks of blank \[LOCs\] and his clinical staff would simply take as many blank LOCs as were necessary to make up the entire treatment amount”[\[note: 29\]](#Ftn_29).
+39     When the Accused joined TSD in 2011, the Scheme was already implemented throughout TSD “in a streamlined and efficient manner”. By the time the Accused participated in the Scheme, Goh had put in place a “well-oiled” system which was functioning “so smoothly that the \[Accused\] could simply sign stacks of blank \[LOCs\] and his clinical staff would simply take as many blank LOCs as were necessary to make up the entire treatment amount”[^29].
 
-40     I agreed with the Prosecution that the offences were premeditated and highly planned. The Accused repeatedly participated in the Scheme for a substantial period of time, from 2011 to 2013, and his actions were not borne out of a moment of indiscretion. In terms of the cheating charges therefore, while Ang’s culpability was higher than the Accused, the Accused’s sentence for the cheating charges should nonetheless be higher than the general sentence for a section 420 offence to reflect the gravity of his offences[\[note: 30\]](#Ftn_30).
+40     I agreed with the Prosecution that the offences were premeditated and highly planned. The Accused repeatedly participated in the Scheme for a substantial period of time, from 2011 to 2013, and his actions were not borne out of a moment of indiscretion. In terms of the cheating charges therefore, while Ang’s culpability was higher than the Accused, the Accused’s sentence for the cheating charges should nonetheless be higher than the general sentence for a section 420 offence to reflect the gravity of his offences[^30].
 
 41     In terms of personal gains, the Accused was working on a commission basis. While there were no actual figures in terms of dollars and cents on the amount which the Accused had profited from the Scheme, it could be inferred that there were significant personal gains considering the fact that he was involved in it for the whole of his duration at TSD.
 
 ### Real and substantial harm caused, and Accused’s plea of guilt and restitution
 
-42     The Prosecution submitted that the Accused knew that his patients were “not in a financial position to afford the dental treatments he was offering”, yet “proceeded to charge them tens of thousands of dollars for their dental treatment” thereby draining their Medisave accounts and leaving them with “a minute fraction of their savings for future medical needs”[\[note: 31\]](#Ftn_31).
+42     The Prosecution submitted that the Accused knew that his patients were “not in a financial position to afford the dental treatments he was offering”, yet “proceeded to charge them tens of thousands of dollars for their dental treatment” thereby draining their Medisave accounts and leaving them with “a minute fraction of their savings for future medical needs”[^31].
 
-43     While it might be true that the procedures were expensive, there was no indication that the patients were coerced or misled into accepting the treatment options presented to them by the Accused, nor was there suggestion that the Accused had deliberately recommended expensive treatments for the patients that were not necessary. As I have noted in Ang’s case, the patient should have realised that some improper conduct was afoot – the fact that they had to sign multiple blank forms ought to have put them on notice[\[note: 32\]](#Ftn_32). The disbursements by the CPF Board were therefore done with the consent and knowledge of the patients for their moneys to be utilised to pay for the dental treatments they were receiving from the Accused.
+43     While it might be true that the procedures were expensive, there was no indication that the patients were coerced or misled into accepting the treatment options presented to them by the Accused, nor was there suggestion that the Accused had deliberately recommended expensive treatments for the patients that were not necessary. As I have noted in Ang’s case, the patient should have realised that some improper conduct was afoot – the fact that they had to sign multiple blank forms ought to have put them on notice[^32]. The disbursements by the CPF Board were therefore done with the consent and knowledge of the patients for their moneys to be utilised to pay for the dental treatments they were receiving from the Accused.
 
 44     In the present case, the Accused had paid back the full amount, including interest, to the CPF Board. The Medisave accounts of these patients were therefore restored to their original state and no harm was caused to the patients in the end. In fact, they ended up paying very little for the treatments. It was also not disputed by the Prosecution that the patients had benefitted from the treatment. I therefore gave due weight to the fact that the Accused had made full restitution. If the Accused had not done so, the CPF Board would have to take steps to claw back the amounts, which would have led to uncertainties – this is especially so as the Accused is presently an undischarged bankrupt, and it is not certain if the patients’ Medisave accounts could be reinstated if the Accused had not voluntarily made full restitution.
 
@@ -244,9 +245,9 @@ The Prosecution proceeded on 18 charges against the offender, who was untraced. 
 
 52     Even after the audit check, the Accused did not stop his dishonest practice. He continued with the Scheme. In end 2013, the Accused had another chance to come clean – he was approached by Yeo again for another request from DAT. However, the Accused again chose to work with Yeo to rewrite the clinical notes of this other patient so that MOH would not be alerted to the fact that there were in fact discrepancies between the original clinical notes and the Medisave claims.
 
-53     Ang did not face forgery charges, and I was unable to agree with the Defence that the forgery offences were an “inevitable consequence” of the fraudulent scheme of TSD[\[note: 33\]](#Ftn_33) and that the Accused had “no way out”[\[note: 34\]](#Ftn_34). While the Accused might have perceived himself as not having any way out in October 2012, he could have stopped participating in the Scheme after the October 2012 audit. He did not do so. Of the 278 cheating charges, more than 200 were committed post October 2012. In any event, the perception of him not having a way out could not be a factor which lowered the Accused’s culpability for the offences.
+53     Ang did not face forgery charges, and I was unable to agree with the Defence that the forgery offences were an “inevitable consequence” of the fraudulent scheme of TSD[^33] and that the Accused had “no way out”[^34]. While the Accused might have perceived himself as not having any way out in October 2012, he could have stopped participating in the Scheme after the October 2012 audit. He did not do so. Of the 278 cheating charges, more than 200 were committed post October 2012. In any event, the perception of him not having a way out could not be a factor which lowered the Accused’s culpability for the offences.
 
-54     In deciding the appropriate sentence for the forgery charges, I took into consideration the sentencing precedents submitted by the Prosecution, in particular, _Lim Ek Kian v PP_ and _PP v Balasundaram s/o Suppiah[\[note: 35\]](#Ftn_35)_. In those cases, the offenders were sentenced to 12 and 15 months’ imprisonment respectively. Both of them were traced with dishonesty-related offences, and had claimed trial. In the present case, the Accused was a first-time offender, had pleaded guilty to the charges and made full restitution. Taking these into account and the other mitigating factors discussed above, I was of the view that a 9-month imprisonment term on each of the forgery charges was appropriate and would reflect the seriousness of his actions. A sentence of nine months would not be out of line with the case of _PP v Hew Chong Wai_[\[note: 36\]](#Ftn_36), cited by the Prosecution. In that case, the offender was on the run for 30 years, made no restitution and was sentenced to a total term of 42 weeks’ imprisonment.
+54     In deciding the appropriate sentence for the forgery charges, I took into consideration the sentencing precedents submitted by the Prosecution, in particular, _Lim Ek Kian v PP_ and _PP v Balasundaram s/o Suppiah[^35]_. In those cases, the offenders were sentenced to 12 and 15 months’ imprisonment respectively. Both of them were traced with dishonesty-related offences, and had claimed trial. In the present case, the Accused was a first-time offender, had pleaded guilty to the charges and made full restitution. Taking these into account and the other mitigating factors discussed above, I was of the view that a 9-month imprisonment term on each of the forgery charges was appropriate and would reflect the seriousness of his actions. A sentence of nine months would not be out of line with the case of _PP v Hew Chong Wai_[^36], cited by the Prosecution. In that case, the offender was on the run for 30 years, made no restitution and was sentenced to a total term of 42 weeks’ imprisonment.
 
 ### Principle of totality in sentencing
 
@@ -268,77 +269,77 @@ The Prosecution proceeded on 18 charges against the offender, who was untraced. 
 
 * * *
 
-[\[note: 1\]](#Ftn_1_1)\[6\], Statement of Facts.
+[^1]: \[6\], Statement of Facts.
 
-[\[note: 2\]](#Ftn_2_1)\[11\], Statement of Facts.
+[^2]: \[11\], Statement of Facts.
 
-[\[note: 3\]](#Ftn_3_1)\[48\] & \[49\], Statement of Facts.
+[^3]: \[48\] & \[49\], Statement of Facts.
 
-[\[note: 4\]](#Ftn_4_1)\[17\], Statements of Facts.
+[^4]: \[17\], Statements of Facts.
 
-[\[note: 5\]](#Ftn_5_1)Pgs 4 to 10, Statement of Facts.
+[^5]: Pgs 4 to 10, Statement of Facts.
 
-[\[note: 6\]](#Ftn_6_1)\[48\], Statement of Facts.
+[^6]: \[48\], Statement of Facts.
 
-[\[note: 7\]](#Ftn_7_1)\[49\], Statement of Facts.
+[^7]: \[49\], Statement of Facts.
 
-[\[note: 8\]](#Ftn_8_1)\[50\], Statement of Facts.
+[^8]: \[50\], Statement of Facts.
 
-[\[note: 9\]](#Ftn_9_1)\[53\], Statement of Facts.
+[^9]: \[53\], Statement of Facts.
 
-[\[note: 10\]](#Ftn_10_1)\[55\], Statement of Facts.
+[^10]: \[55\], Statement of Facts.
 
-[\[note: 11\]](#Ftn_11_1)\[39\], Statement of Facts.
+[^11]: \[39\], Statement of Facts.
 
-[\[note: 12\]](#Ftn_12_1)\[41\], Statement of Facts.
+[^12]: \[41\], Statement of Facts.
 
-[\[note: 13\]](#Ftn_13_1)\[45\], Statement of Facts.
+[^13]: \[45\], Statement of Facts.
 
-[\[note: 14\]](#Ftn_14_1)\[46\], Statement of Facts.
+[^14]: \[46\], Statement of Facts.
 
-[\[note: 15\]](#Ftn_15_1)\[62\], Statement of Facts.
+[^15]: \[62\], Statement of Facts.
 
-[\[note: 16\]](#Ftn_16_1)Annex B, Statement of Facts.
+[^16]: Annex B, Statement of Facts.
 
-[\[note: 17\]](#Ftn_17_1)\[71\]–\[73\], Statement of Facts.
+[^17]: \[71\]–\[73\], Statement of Facts.
 
-[\[note: 18\]](#Ftn_18_1)\[74\]–\[76\], Statements of Facts.
+[^18]: \[74\]–\[76\], Statements of Facts.
 
-[\[note: 19\]](#Ftn_19_1)\[79\] & \[80\], Statements of Facts.
+[^19]: \[79\] & \[80\], Statements of Facts.
 
-[\[note: 20\]](#Ftn_20_1)\[71\], Address on Sentence.
+[^20]: \[71\], Address on Sentence.
 
-[\[note: 21\]](#Ftn_21_1)\[72\], Address on Sentence.
+[^21]: \[72\], Address on Sentence.
 
-[\[note: 22\]](#Ftn_22_1)\[16\], Brief Grounds of Decision.
+[^22]: \[16\], Brief Grounds of Decision.
 
-[\[note: 23\]](#Ftn_23_1)\[80\], Address on Sentence.
+[^23]: \[80\], Address on Sentence.
 
-[\[note: 24\]](#Ftn_24_1)\[20\], Statements of Facts.
+[^24]: \[20\], Statements of Facts.
 
-[\[note: 25\]](#Ftn_25_1)\[4\], Brief Grounds of Decision.
+[^25]: \[4\], Brief Grounds of Decision.
 
-[\[note: 26\]](#Ftn_26_1)\[50\], Statement of Facts.
+[^26]: \[50\], Statement of Facts.
 
-[\[note: 27\]](#Ftn_27_1)\[43\], Address on Sentence.
+[^27]: \[43\], Address on Sentence.
 
-[\[note: 28\]](#Ftn_28_1)_PP v Law Aik Meng_ at \[24\].
+[^28]: _PP v Law Aik Meng_ at \[24\].
 
-[\[note: 29\]](#Ftn_29_1)\[48(e)\], Statement of Facts.
+[^29]: \[48(e)\], Statement of Facts.
 
-[\[note: 30\]](#Ftn_30_1)_PP v Tan Fook Sum_ at \[28\].
+[^30]: _PP v Tan Fook Sum_ at \[28\].
 
-[\[note: 31\]](#Ftn_31_1)\[60\], Address on Sentence.
+[^31]: \[60\], Address on Sentence.
 
-[\[note: 32\]](#Ftn_32_1)\[5\] & \[17\], Brief Grounds of Decision.
+[^32]: \[5\] & \[17\], Brief Grounds of Decision.
 
-[\[note: 33\]](#Ftn_33_1)\[25\], Mitigation Plea.
+[^33]: \[25\], Mitigation Plea.
 
-[\[note: 34\]](#Ftn_34_1)\[24\], Mitigation Plea.
+[^34]: \[24\], Mitigation Plea.
 
-[\[note: 35\]](#Ftn_35_1)_Ibid_, at \[33\].
+[^35]: _Ibid_, at \[33\].
 
-[\[note: 36\]](#Ftn_36_1)_Ibid_, at \[33\].
+[^36]: _Ibid_, at \[33\].
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F23235-SSP.xml)
