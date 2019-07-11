@@ -1,3 +1,4 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
 # Public Prosecutor _v_ Ang Kian Peng  
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">MCN 901758 &amp; 901759 of 2018</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">20 June 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Christopher Tan Pheng Wee</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Derek Ee (Deputy Public Prosecutor) for the Prosecution; Ramesh Bharani s/o K. Nagaratnam (RBN Chambers LLC) for the Accused</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Ang Kian Peng</td></tr></tbody></table>
@@ -23,7 +24,7 @@ No other charges were taken into consideration for the purpose of sentencing.
 
 ## Facts
 
-3       The Accused is a Grab driver. On 6 February 2018, he received a job request to a pick up a passenger at the roundabout of One Raffles Link.[\[note: 4\]](#Ftn_4) He duly proceeded to this location and arrived at about 2.47pm. The Accused then stopped his vehicle at the roundabout to wait for his passenger.
+3       The Accused is a Grab driver. On 6 February 2018, he received a job request to a pick up a passenger at the roundabout of One Raffles Link.[^4] He duly proceeded to this location and arrived at about 2.47pm. The Accused then stopped his vehicle at the roundabout to wait for his passenger.
 
 4       Two minutes later, the Victim’s taxi pulled up behind the Accused. The Victim, after having dropped off a passenger, tried to drive off but was unable to as the Accused’s vehicle was in front of him. The Victim tried to reverse, so as to create more space between himself and the Accused’s vehicle. However, he was still unable to turn out after that. The Victim sounded his horn at the Accused loudly. A passer-by gestured to the Accused to move his vehicle forward. The Accused duly drove ahead slightly, thereby allowing the Victim to turn out. As the Victim drove past the Accused’s vehicle, the Accused gestured his hand to scold the Victim. The Victim also raised his hand in a gesture to ask the Accused what he was doing. This angered the Accused, who alighted from his vehicle and ran towards the Victim’s taxi. The Accused kicked the rear of the Victim’s taxi, which stopped at the point where the roundabout adjoined the Raffles Link road.
 
@@ -63,7 +64,7 @@ In my view, an incident of violence should be labelled as an episode of road rag
 
 In this case, the Accused’s vehicle and the Victim’s taxi were sharing the roundabout at One Raffles Link. The Victim found it difficult to manoeuvre the roundabout and horned at the Accused for stopping in front of him. This led to an exchange of hand gestures, after which the Accused went on to commit the offence of using criminal force. On these facts, the case evidently fell within the road raged definition envisaged by Chan J.
 
-11     The significance of this being a road rage case is that the sentencing policy of deterrence comes to the fore. As alluded to by Yong Pung How CJ in _PP v Lee Seck Hing_ :[\[note: 5\]](#Ftn_5)
+11     The significance of this being a road rage case is that the sentencing policy of deterrence comes to the fore. As alluded to by Yong Pung How CJ in _PP v Lee Seck Hing_ :[^5]
 
 The court must also be mindful of the need to deter anyone else who would resort with impunity to violence on the roads, especially in view of the deplorable increase in such incidents. Our roads are progressively becoming more crowded … and motorists must simply learn to live with one another. There can be no place on our roads for road bullies. Such persons must be made aware of the severe detestation the law expresses in regard to such crimes.
 
@@ -93,11 +94,11 @@ I should add that whether or not a particular incident of road rage violence cro
 
 15     In terms of offender-specific factors, I took the following into account:
 
-(a)     The Accused had a clean record - it is trite that absence of antecedents is a mitigating factor.[\[note: 6\]](#Ftn_6)
+(a)     The Accused had a clean record - it is trite that absence of antecedents is a mitigating factor.[^6]
 
 (b)     The Accused pleaded guilty, saving valuable court time.
 
-As regards the second factor, I am mindful that a plea of guilt carries little weight if evidence of liability is overwhelming.[\[note: 7\]](#Ftn_7) In this respect, there was CCTV footage capturing the Accused alighting from his vehicle, running towards the Victim’s taxi and kicking it, before inserting his torso into the taxi’s driver-side door. However, the footage (which was shot from some distance) offered no insight into what actually transpired within the taxi. As such, the evidence (including the testimonies of the two witnesses) would still have to be tested in the event of a trial.
+As regards the second factor, I am mindful that a plea of guilt carries little weight if evidence of liability is overwhelming.[^7] In this respect, there was CCTV footage capturing the Accused alighting from his vehicle, running towards the Victim’s taxi and kicking it, before inserting his torso into the taxi’s driver-side door. However, the footage (which was shot from some distance) offered no insight into what actually transpired within the taxi. As such, the evidence (including the testimonies of the two witnesses) would still have to be tested in the event of a trial.
 
 16     In seeking a custodial term for the criminal force charge, the Prosecution cited three precedents. I have tabulated them below:
 
@@ -128,7 +129,7 @@ The three precedents relied upon by the Prosecution thus do no alter my view tha
 
 18     I am aware that the current case before me bears some aspects which operate _against_ the Accused’s efforts to downplay his culpability. Nevertheless, they do not, to my mind, reach the point of tipping the scales in favour of an imprisonment term. I canvass these aspects below.
 
-19     In his mitigation plea, the Accused sought to show that he had acted out of provocation. By his estimation, there was sufficient space behind his vehicle for the Victim’s taxi to turn outwards,[\[note: 9\]](#Ftn_9) so there was no need for the Victim to sound his horn at the Accused. Having viewed the CCTV footage, I had some sympathy for the Accused’s view that the Victim’s loud horning was unnecessary:
+19     In his mitigation plea, the Accused sought to show that he had acted out of provocation. By his estimation, there was sufficient space behind his vehicle for the Victim’s taxi to turn outwards,[^9] so there was no need for the Victim to sound his horn at the Accused. Having viewed the CCTV footage, I had some sympathy for the Accused’s view that the Victim’s loud horning was unnecessary:
 
 (a)     The berth between both vehicles _was_ relatively wide. Thus, while the Victim may have felt himself unable to manoeuvre his taxi from behind the Accused’s vehicle, I do not rule out that some other driver might have been able to do so quite comfortably.
 
@@ -140,7 +141,7 @@ Against this context, the Accused felt that the Victim’s behaviour, i.e. sound
 
 20     According to the Accused, he finally lost his temper at the point when both persons exchanged hand gestures while the Victim was driving past the Accused. In this respect, the CCTV footage shows that when the Victim was driving past the Accused’s vehicle, he stopped his taxi abreast of the Accused’s vehicle for a moment, before driving off – the exchange of hand gestures had presumably taken place then.
 
-21     Notwithstanding the above, Chan J had in _Lim Yee Hua_ made it abundantly clear that provocation from ungentlemanly conduct or bad driving carries little mitigating value in cases of road rage violence:[\[note: 10\]](#Ftn_10)
+21     Notwithstanding the above, Chan J had in _Lim Yee Hua_ made it abundantly clear that provocation from ungentlemanly conduct or bad driving carries little mitigating value in cases of road rage violence:[^10]
 
 … ungentlemanly conduct arising in the course of the use of the roads, bad driving, breach of road traffic rules on the part of the victim and even serious traffic accidents caused by the victim would be insufficient to amount to provocation that justifies any act of causing hurt to the victim (or, indeed, any act of mischief causing damage to the victim’s property); on the contrary, a violent reaction to such instances of road use would attract the deterrent sentencing policy underlying road rage violence.
 
@@ -148,7 +149,7 @@ As such, I have not placed much weight on the provocation which the Accused clai
 
 22     I also found various other aspects of the Accused’s conduct to be aggravating. I set them out below:
 
-(a)     Firstly, the Victim was 70 years old, so there was an element of vulnerability. In his mitigation plea, the Accused stated that there was a scuffle with the Victim during which the Accused’s right index finger was so badly bruised that even after some two months, it was still diagnosed to have ‘_soft tissue swelling … around the proximal interphalangeal joint, likely related to the recent/previous trauma_”.[\[note: 11\]](#Ftn_11) Presumably, the Accused was seeking to demonstrate that the Victim was not as physically vulnerable as his age might suggest, seeing as how the Accused had sustained injuries that were not insignificant. Still, the fact remains that it was the Accused who started the physical encounter - not the Victim. Furthermore, when the Accused opened the taxi door and came face to face with an individual who was obviously of some advancement in years, the Accused should have had some cause for pause. He ought to have exercised some restraint then.
+(a)     Firstly, the Victim was 70 years old, so there was an element of vulnerability. In his mitigation plea, the Accused stated that there was a scuffle with the Victim during which the Accused’s right index finger was so badly bruised that even after some two months, it was still diagnosed to have ‘_soft tissue swelling … around the proximal interphalangeal joint, likely related to the recent/previous trauma_”.[^11] Presumably, the Accused was seeking to demonstrate that the Victim was not as physically vulnerable as his age might suggest, seeing as how the Accused had sustained injuries that were not insignificant. Still, the fact remains that it was the Accused who started the physical encounter - not the Victim. Furthermore, when the Accused opened the taxi door and came face to face with an individual who was obviously of some advancement in years, the Accused should have had some cause for pause. He ought to have exercised some restraint then.
 
 (b)     Secondly, the Accused’s act of mischief, perpetrated immediately after his use of criminal force, was reprehensible. One would have expected the Accused to regain some semblance of composure, after having just physically vented his rage on the Victim. The Accused could have walked away. Yet, he persisted in his bout of aggression by breaking the Victim’s signal lever. This was wholly uncalled for. Having said that, I have already I imposed a hefty fine of $2,000 for the Accused’s mischief in this regard (see paragraph 26 below). In effect, the Accused has to pay 40-fold the cost of the damage (i.e. $50) which he inflicted. I think that is sufficient punishment for the Accused’s act mischief and I do not propose to double-count the aggravating impact of that mischief by using it to justify an uplift in the sentence for the criminal force charge as well.
 
@@ -174,13 +175,13 @@ Whoever, with intent to cause, or knowing that he is likely to cause, wrongful l
 
 #### Compensation
 
-27     According to the Statement of Facts, no restitution was made by the Accused to the Victim. The Defence indicated that the Accused had wanted to compensate the Victim for the cost of his medical examination and the damage to the signal lever, as well as offer the Victim a token sum by way of compensation.[\[note: 12\]](#Ftn_12) However, the Victim’s medical bills, as well as the cost of repairing the signal lever, were ultimately covered by insurance.[\[note: 13\]](#Ftn_13)
+27     According to the Statement of Facts, no restitution was made by the Accused to the Victim. The Defence indicated that the Accused had wanted to compensate the Victim for the cost of his medical examination and the damage to the signal lever, as well as offer the Victim a token sum by way of compensation.[^12] However, the Victim’s medical bills, as well as the cost of repairing the signal lever, were ultimately covered by insurance.[^13]
 
-28     Given this turn of events, I decided not to make any compensation order against the Accused.[\[note: 14\]](#Ftn_14)
+28     Given this turn of events, I decided not to make any compensation order against the Accused.[^14]
 
 #### Disqualification from driving
 
-29     I note that the power to make a disqualification order exists in this case. Specifically, s 42(2) of the Road Traffic Act[\[note: 15\]](#Ftn_15) provides:
+29     I note that the power to make a disqualification order exists in this case. Specifically, s 42(2) of the Road Traffic Act[^15] provides:
 
 Where … the offender … is convicted of an offence under section … 352 \[or\] 426 … of the Penal Code (Cap. 224) and —
 
@@ -210,47 +211,47 @@ In _Fizrul_, Tay JA imposed a disqualification term of 12 months on an offender 
 
 32     To conclude, I sentence the Accused to:
 
-(a)     the maximum fine of $1,500[\[note: 16\]](#Ftn_16) for the criminal force charge; and
+(a)     the maximum fine of $1,500[^16] for the criminal force charge; and
 
-(b)     a fine of $2,000[\[note: 17\]](#Ftn_17) for the mischief charge.
+(b)     a fine of $2,000[^17] for the mischief charge.
 
 The total fine imposed on the Accused was thus $3,500.
 
 * * *
 
-[\[note: 1\]](#Ftn_1_1)Chapter 224.
+[^1]: Chapter 224.
 
-[\[note: 2\]](#Ftn_2_1)8 days’ imprisonment in default of payment.
+[^2]: 8 days’ imprisonment in default of payment.
 
-[\[note: 3\]](#Ftn_3_1)10 days’ imprisonment in default of payment.
+[^3]: 10 days’ imprisonment in default of payment.
 
-[\[note: 4\]](#Ftn_4_1)Located at 1 Raffles Link, Singapore 039393.
+[^4]: Located at 1 Raffles Link, Singapore 039393.
 
-[\[note: 5\]](#Ftn_5_1)At \[12\].
+[^5]: At \[12\].
 
-[\[note: 6\]](#Ftn_6_1)See _Chua Siew Lin v PP_ , at \[60\].
+[^6]: See _Chua Siew Lin v PP_ , at \[60\].
 
-[\[note: 7\]](#Ftn_7_1)See _Wong Kai Chuen Philip v PP_ , at \[14\].
+[^7]: See _Wong Kai Chuen Philip v PP_ , at \[14\].
 
-[\[note: 8\]](#Ftn_8_1)With 5 days imprisonment in default of payment.
+[^8]: With 5 days imprisonment in default of payment.
 
-[\[note: 9\]](#Ftn_9_1)See paragraph 9 and 20 of the plea in mitigation.
+[^9]: See paragraph 9 and 20 of the plea in mitigation.
 
-[\[note: 10\]](#Ftn_10_1)At \[29\].
+[^10]: At \[29\].
 
-[\[note: 11\]](#Ftn_11_1)See paragraph 14 of the plea in mitigation.
+[^11]: See paragraph 14 of the plea in mitigation.
 
-[\[note: 12\]](#Ftn_12_1)See paragraph 49 of the plea in mitigation.
+[^12]: See paragraph 49 of the plea in mitigation.
 
-[\[note: 13\]](#Ftn_13_1)See paragraphs 9 and 10 of the Statement of Facts.
+[^13]: See paragraphs 9 and 10 of the Statement of Facts.
 
-[\[note: 14\]](#Ftn_14_1)The Prosecution also did not seek any such order.
+[^14]: The Prosecution also did not seek any such order.
 
-[\[note: 15\]](#Ftn_15_1)Chapter 276.
+[^15]: Chapter 276.
 
-[\[note: 16\]](#Ftn_16_1)8 days’ imprisonment in default of payment.
+[^16]: 8 days’ imprisonment in default of payment.
 
-[\[note: 17\]](#Ftn_17_1)10 days’ imprisonment in default of payment.
+[^17]: 10 days’ imprisonment in default of payment.
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F23304-SSP.xml)

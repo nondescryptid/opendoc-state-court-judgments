@@ -1,3 +1,4 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
 # Public Prosecutor _v_ Hayzal bin Mohamad Riduan  
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">DAC 921760-2018 &amp; others</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">18 June 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Tan Jen Tse</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Deputy Public Prosecutor Tan Yanying for the prosecution; Accused in person</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Hayzal bin Mohamad Riduan</td></tr></tbody></table>
@@ -259,7 +260,7 @@ v)    One burnt joint marked as **‘HAY-4’**
 
 ## The individual sentences
 
-11     In sentencing the accused, the court had first to determine the appropriate individual sentence for each offence, before deciding on which of the individual sentences should run consecutively, so as to derive the appropriate aggregate sentence.[\[note: 1\]](#Ftn_1)
+11     In sentencing the accused, the court had first to determine the appropriate individual sentence for each offence, before deciding on which of the individual sentences should run consecutively, so as to derive the appropriate aggregate sentence.[^1]
 
 ### Minimum sentences were passed for offences relating to LT-1 drug consumption and for housebreaking
 
@@ -289,9 +290,9 @@ v)    One burnt joint marked as **‘HAY-4’**
 
 ## Sentences ordered to run consecutively
 
-22     In general, where unrelated offences are committed, sentences should run consecutively as the offender should be separately punished for each offence.[\[note: 2\]](#Ftn_2) The only related offences were the 6th charge (drug consumption) and the 11th and 14th charges (drug possession) which were committed at or around the time of the accused’s arrest on 30 June 2018. All the other offences were separate and distinct and should as a general rule run consecutively as they involved the invasion of different legally protected interests.
+22     In general, where unrelated offences are committed, sentences should run consecutively as the offender should be separately punished for each offence.[^2] The only related offences were the 6th charge (drug consumption) and the 11th and 14th charges (drug possession) which were committed at or around the time of the accused’s arrest on 30 June 2018. All the other offences were separate and distinct and should as a general rule run consecutively as they involved the invasion of different legally protected interests.
 
-23     In calibrating the appropriate aggregate sentence, the court had to consider whether the overall sentence would be just and proportionate.[\[note: 3\]](#Ftn_3) If all the sentences were to run consecutively, this would have resulted in a disproportionate and crushing overall sentence. There was however still a need to have a sufficiently deterrent sentence to reflect that the accused had pleaded guilty to 9 charges and had given his consent to have another 16 charges taken into consideration for the purposes of sentencing. I was of the view that on balance, it was appropriate to run the sentences relating to LT-1 drug consumption, housebreaking and causing grievous hurt consecutively. The end result was that the accused would serve a total of 8 years and 6 months’ imprisonment, and receive the mandatory minimum 3 strokes of the cane for the LT-1 drug consumption offence.
+23     In calibrating the appropriate aggregate sentence, the court had to consider whether the overall sentence would be just and proportionate.[^3] If all the sentences were to run consecutively, this would have resulted in a disproportionate and crushing overall sentence. There was however still a need to have a sufficiently deterrent sentence to reflect that the accused had pleaded guilty to 9 charges and had given his consent to have another 16 charges taken into consideration for the purposes of sentencing. I was of the view that on balance, it was appropriate to run the sentences relating to LT-1 drug consumption, housebreaking and causing grievous hurt consecutively. The end result was that the accused would serve a total of 8 years and 6 months’ imprisonment, and receive the mandatory minimum 3 strokes of the cane for the LT-1 drug consumption offence.
 
 ## Conclusion
 
@@ -299,11 +300,11 @@ v)    One burnt joint marked as **‘HAY-4’**
 
 * * *
 
-[\[note: 1\]](#Ftn_1_1)_Public Prosecutor v Raveen Balakrishnan_ _(“Raveen”_) at \[37\].
+[^1]: _Public Prosecutor v Raveen Balakrishnan_ _(“Raveen”_) at \[37\].
 
-[\[note: 2\]](#Ftn_2_1)_Raveen_ at \[41\].
+[^2]: _Raveen_ at \[41\].
 
-[\[note: 3\]](#Ftn_3_1)_Raveen_ at \[65\].
+[^3]: _Raveen_ at \[65\].
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F23291-SSP.xml)

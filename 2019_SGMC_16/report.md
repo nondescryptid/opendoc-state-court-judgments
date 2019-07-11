@@ -1,3 +1,4 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
 # Public Prosecutor _v_ Chai Meng Teck  
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">MAC 909628-2015 &amp; Others</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">11 April 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Tan Jen Tse</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">DPPs Yvonne Poon &amp; Charlene Tay Chia for the Public Prosecutor; Melanie Ho &amp; Tang Shangwei, Wong Partnership LLP for the accused</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Chai Meng Teck</td></tr></tbody></table>
@@ -29,17 +30,17 @@
 
 6       The accused was a counsellor at the school from 2009 to 2013. V2 and V3 had been referred to him for counselling for behavioural problems. He was never V1’s counsellor as V1 was not at the material time in need of counselling.
 
-7       According to his principal Mrs Choi Mok Sang (PW7) (“Mrs Choi”), the accused was a very committed officer and a very passionate counsellor. He had put in place processes and procedures for at-risk students. He was analytical, innovative and had added value to the whole school community. Colleagues would look to him for many issues.[\[note: 1\]](#Ftn_1)
+7       According to his principal Mrs Choi Mok Sang (PW7) (“Mrs Choi”), the accused was a very committed officer and a very passionate counsellor. He had put in place processes and procedures for at-risk students. He was analytical, innovative and had added value to the whole school community. Colleagues would look to him for many issues.[^1]
 
-8       The accused was well-respected and well-liked by the students too. According to Mrs Choi, he was very approachable and visible. Students would go to him when they needed help and he would be there for them. He cared a lot for the students, especially those who were under him, and he would go the extra mile for them.[\[note: 2\]](#Ftn_2)
+8       The accused was well-respected and well-liked by the students too. According to Mrs Choi, he was very approachable and visible. Students would go to him when they needed help and he would be there for them. He cared a lot for the students, especially those who were under him, and he would go the extra mile for them.[^2]
 
 9       The prosecution’s case was that sometime around 16 October 2013, while the complainants were near a restaurant at East Coast Road called Astons (“Astons”) where they worked, the topic of whether the accused had touched them inappropriately arose in conversation. Each of the complainants stated that he had done so. V1 and V3 were reluctant to take the matter any further. However, the next day, V2 approached a teacher named Mrs Candy Chua and informed her that the accused had molested him.
 
-10     Mrs Choi testified that on 17 October 2013 at about 5 p.m., Mrs Candy Chua, the art teacher brought V2 and V3 to her office and said that they had something to report against the accused. Together with the vice-principal, Mrs Choi proceeded to interview V2 and V3 separately. She impressed upon them the need to tell the truth.[\[note: 3\]](#Ftn_3)
+10     Mrs Choi testified that on 17 October 2013 at about 5 p.m., Mrs Candy Chua, the art teacher brought V2 and V3 to her office and said that they had something to report against the accused. Together with the vice-principal, Mrs Choi proceeded to interview V2 and V3 separately. She impressed upon them the need to tell the truth.[^3]
 
-11     When Mrs Choi learnt of the allegations of molest against the accused involving the three complainants, she felt a need to act. This was because in July 2013, another student, G had similarly reported that the accused had molested him. In that case, the accused was given the benefit of the doubt. Mrs Choi thus reported the matter to her superintendent at around 6.30 p.m.. She also called the parents of the complainants and advised them to lodge police reports. She did not speak to the accused about the case.[\[note: 4\]](#Ftn_4)
+11     When Mrs Choi learnt of the allegations of molest against the accused involving the three complainants, she felt a need to act. This was because in July 2013, another student, G had similarly reported that the accused had molested him. In that case, the accused was given the benefit of the doubt. Mrs Choi thus reported the matter to her superintendent at around 6.30 p.m.. She also called the parents of the complainants and advised them to lodge police reports. She did not speak to the accused about the case.[^4]
 
-12     The next morning (18 October 2013), V1, V2 and V3 proceeded separately to make police reports against the accused.[\[note: 5\]](#Ftn_5) SSG Syed Muhd Isa Omar Alhabshee (PW1) (“SSG Isa”), the duty officer who was attached to the Violence Against Persons Investigation Team of Bedok Police Division, was assigned to go to the school with SSI Joyce Jaden Loo (PW2) (“SSI Loo”). At the school, SSG Isa interviewed the accused at the principal’s office and thereafter placed him under arrest.[\[note: 6\]](#Ftn_6) During the course of 18 and 19 October 2013, SSG Isa recorded three statements from the accused, the admissibility of which was challenged.
+12     The next morning (18 October 2013), V1, V2 and V3 proceeded separately to make police reports against the accused.[^5] SSG Syed Muhd Isa Omar Alhabshee (PW1) (“SSG Isa”), the duty officer who was attached to the Violence Against Persons Investigation Team of Bedok Police Division, was assigned to go to the school with SSI Joyce Jaden Loo (PW2) (“SSI Loo”). At the school, SSG Isa interviewed the accused at the principal’s office and thereafter placed him under arrest.[^6] During the course of 18 and 19 October 2013, SSG Isa recorded three statements from the accused, the admissibility of which was challenged.
 
 13     V2 and V3 were assessed by Dr Parvarthy Parthy (PW4) (“Dr Pavarthy”), a Senior Consultant, Child Guidance Clinic, Institute of Mental Health (“IMH”) to determine if they were fit to testify in court. Her reports on V2 and V3 were marked as Exhibits P10 and P9 respectively. As both of them were able to give accounts of what had happened, understand the severity of their actions and the consequences of giving false evidence, she found them fit to testify. V1 declined to undergo psychiatric assessment by her and no report was put up on him.
 
@@ -59,7 +60,7 @@
 
 Charges for any offences whether felonies of misdemeanours may be joined in the same indictment if those charges are founded on the same facts or form or are a part of a series of offences of the same or of a similar character.
 
-17     In considering the English rule, Lord Pearson, delivering the judgment of the House of Lords, stated at page 40:-[\[note: 7\]](#Ftn_7)
+17     In considering the English rule, Lord Pearson, delivering the judgment of the House of Lords, stated at page 40:-[^7]
 
 Another point dealt within the Court of Appeal’s judgment in the Kray case is relevant to the present case also. They said , 836 – 836:
 
@@ -81,7 +82,7 @@ However, if the trial judge feels that the circumstances of the case before him 
 
 22     The Defence asserted that the accused would be prejudiced or embarrassed due to the scandalous nature of the charges which were vague, lacking in particulars and brought after a considerable delay, and as there could be collusion among the complainants. I did not think that these were valid reasons for separate trials to be ordered. Charges involving offences of a sexual nature would be tried and assessed according to well-established rules of evidence. The issues raised in relation to the charges would exist whether the trials were separate or joint. Lastly, while the possibility of collusion existed, this was an issue which could properly be considered at trial.
 
-23     For the reasons stated above, I allowed the prosecution’s application for a joint trial.[\[note: 8\]](#Ftn_8)
+23     For the reasons stated above, I allowed the prosecution’s application for a joint trial.[^8]
 
 ## ANCILLARY HEARING
 
@@ -93,15 +94,15 @@ However, if the trial judge feels that the circumstances of the case before him 
 
 (c)     19 October 2013 at 1.10 p.m. (Exhibit C).
 
-25     The accused challenged the admissibility of all three statements. Defence counsel informed the court that the statements were not made voluntarily and had been obtained by threat and inducement.[\[note: 9\]](#Ftn_9) The parties agreed to proceed on a joint ancillary hearing to determine the admissibility of all three statements.[\[note: 10\]](#Ftn_10)
+25     The accused challenged the admissibility of all three statements. Defence counsel informed the court that the statements were not made voluntarily and had been obtained by threat and inducement.[^9] The parties agreed to proceed on a joint ancillary hearing to determine the admissibility of all three statements.[^10]
 
-26     SSG Isa testified that he started to record Exhibit A immediately after interviewing the accused at around 6.21 p.m..[\[note: 11\]](#Ftn_11) He typed out the statement based on information the accused voluntarily provided. After the recording of the statement ended at 8.21 p.m., he read out the statement from a printed copy to the accused, who affirmed the contents to be true and correct by signing on the statement. However, SSG Isa himself forgot to sign the statement.
+26     SSG Isa testified that he started to record Exhibit A immediately after interviewing the accused at around 6.21 p.m..[^11] He typed out the statement based on information the accused voluntarily provided. After the recording of the statement ended at 8.21 p.m., he read out the statement from a printed copy to the accused, who affirmed the contents to be true and correct by signing on the statement. However, SSG Isa himself forgot to sign the statement.
 
 27     Immediately after that, SSG Isa commenced the recording of Exhibit B at 8.33 p.m.. He commenced a new statement as it would relate to a different victim. As before, he typed out the information the accused voluntarily provided to him. At the end of the statement, the accused read the printed statement himself and affirmed it to be true and correct by signing on the statement. SSG Isa signed the statement as well. The recording of Exhibit B ended at 9.15 p.m..
 
 28     The recording of Exhibit C commenced at about 1.10 p.m. on 19 October 2013. SSG Isa obtained information from the accused which was provided voluntarily and typed it out immediately. The recording of the statement ended at 2.21 p.m.. The printed statement was read over to the accused who affirmed it to be true and correct by signing on the statement.
 
-29     In challenging the admissibility of the statements, the accused made multiple allegations against SSG Isa as well as against at least one other unidentified police officer. These allegations included:-[\[note: 12\]](#Ftn_12)
+29     In challenging the admissibility of the statements, the accused made multiple allegations against SSG Isa as well as against at least one other unidentified police officer. These allegations included:-[^12]
 
 (a)     During an interview in the afternoon, an unidentified Malay officer entered the interview room and told him, “Tell us the truth if you have molested the student. If you tell us everything, it is not necessary a jail term. It could be just a warning.”
 
@@ -145,11 +146,11 @@ A statement made by any person examined under this section must —
 
 ### Accused failed to state allegations made in court in his fourth statement
 
-33     After he was released from custody, the accused sought legal advice from Wong Partnership LLP. Both he and his solicitors wrote to the police and a fourth statement (“the fourth statement”) was eventually recorded on 19 September 2014[\[note: 13\]](#Ftn_13) by IO Khairil Idzwan Zakaria (PW 3) (“IO Khairil”) who had taken over the case from SSG Isa.[\[note: 14\]](#Ftn_14) The accused was allowed to read and make numerous clarifications to Exhibits A, B and C.[\[note: 15\]](#Ftn_15)
+33     After he was released from custody, the accused sought legal advice from Wong Partnership LLP. Both he and his solicitors wrote to the police and a fourth statement (“the fourth statement”) was eventually recorded on 19 September 2014[^13] by IO Khairil Idzwan Zakaria (PW 3) (“IO Khairil”) who had taken over the case from SSG Isa.[^14] The accused was allowed to read and make numerous clarifications to Exhibits A, B and C.[^15]
 
-34     Despite having the benefit of legal advice, and having been given the opportunity to set the record straight in his fourth statement, the accused only alleged that as he did not have his spectacles, he may not have read his statements properly. He failed to mention any of the alleged threats or inducements which he claimed in court he was subjected to, nor did he complain that he was oppressed. He failed to mention that the statements were not read back to him or that he was not given the opportunity to read the statements.[\[note: 16\]](#Ftn_16) IO Khairil’s evidence was that if the accused had indeed made any such complaints, it would have been “absolutely necessary” to have included these allegations in the fourth statement as the accused would technically be challenging the statements.[\[note: 17\]](#Ftn_17)
+34     Despite having the benefit of legal advice, and having been given the opportunity to set the record straight in his fourth statement, the accused only alleged that as he did not have his spectacles, he may not have read his statements properly. He failed to mention any of the alleged threats or inducements which he claimed in court he was subjected to, nor did he complain that he was oppressed. He failed to mention that the statements were not read back to him or that he was not given the opportunity to read the statements.[^16] IO Khairil’s evidence was that if the accused had indeed made any such complaints, it would have been “absolutely necessary” to have included these allegations in the fourth statement as the accused would technically be challenging the statements.[^17]
 
-35     To explain his failure to state his case when he was given an opportunity to do so, the accused claimed that he was focussing on clarifying the parts relating to him and the students[\[note: 18\]](#Ftn_18) and that he did not want to “wage war” against the police. He stated:-[\[note: 19\]](#Ftn_19)
+35     To explain his failure to state his case when he was given an opportunity to do so, the accused claimed that he was focussing on clarifying the parts relating to him and the students[^18] and that he did not want to “wage war” against the police. He stated:-[^19]
 
 \[m\]y intent was not to - I’m so sorry - our intent was not to wage war against the police and that’s was why I told the IO Khairil to include the part of my spectacle. I just want to make it clear. It is not to say that he \[SSG Isa\] did this wrong or that wrong.
 
@@ -159,7 +160,7 @@ A statement made by any person examined under this section must —
 
 37     The accused’s claim in court that he could not read his statements at all as he was not allowed his spectacles was without merit. There was no reason for SSG Isa to deprive the accused of the use of his spectacles. The undisputed evidence was that the lock-up personnel would have brought the accused to his pigeon hole to collect his spectacles before bringing him to the interview room. This is discussed further at \[43\].
 
-38     His late claim in court that he could not read his statements at all without his spectacles was a bare allegation. His claim was also contradicted by his fourth statement where he only alleged that he “may not have read the statement properly” as he did not have his spectacles.[\[note: 20\]](#Ftn_20) This is quite different from saying that he could not read his statements at all.
+38     His late claim in court that he could not read his statements at all without his spectacles was a bare allegation. His claim was also contradicted by his fourth statement where he only alleged that he “may not have read the statement properly” as he did not have his spectacles.[^20] This is quite different from saying that he could not read his statements at all.
 
 39     The accused had also failed to mention in his fourth statement that SSG Isa flipped through the three statements quickly and got him to sign all three statements at the same time without giving him a chance to read them. I found this late claim in court to be dubious. Related to this, it would follow that SSG Isa could not have held out any inducement or threat to get the accused to sign the three statements at the same time.
 
@@ -173,17 +174,17 @@ A statement made by any person examined under this section must —
 
 57    In other words, a statement would not be extracted by oppression unless the accused was in such a state that his will was “sapped” and he could not resist making a statement which he would otherwise not have made: _PP v Tan Boon Tat_ . In that case, the accused sought to show that the circumstances in which he had made the statement were so oppressive that his will was sapped or broken with the result that the statement was not one made with his own free will.
 
-42     It should firstly be observed that as the accused had been taken into custody, certain protocol for prisoners had to be observed. For example, he had to surrender his shoes, belt, socks and spectacles for reasons of personal safety. He would also have to be handcuffed when he was led to the interview room and during the interview.[\[note: 21\]](#Ftn_21) Nothing indicated that he was treated more harshly than the other persons under police custody.
+42     It should firstly be observed that as the accused had been taken into custody, certain protocol for prisoners had to be observed. For example, he had to surrender his shoes, belt, socks and spectacles for reasons of personal safety. He would also have to be handcuffed when he was led to the interview room and during the interview.[^21] Nothing indicated that he was treated more harshly than the other persons under police custody.
 
-43     There was no reason to doubt SSG Isa’s evidence that when accused persons are taken out and escorted to interview rooms by lock-up officers, slippers would be provided by the lock-up facility and the lock-up officers would let them take whatever they needed including their spectacles from the pigeon holes.[\[note: 22\]](#Ftn_22) The accused’s evidence that he was not given slippers to wear and that he was barefooted when being interviewed was an afterthought, since this was never put to SSG Isa. Instead, it was only put that the accused did not have his socks, shoes and spectacles[\[note: 23\]](#Ftn_23).
+43     There was no reason to doubt SSG Isa’s evidence that when accused persons are taken out and escorted to interview rooms by lock-up officers, slippers would be provided by the lock-up facility and the lock-up officers would let them take whatever they needed including their spectacles from the pigeon holes.[^22] The accused’s evidence that he was not given slippers to wear and that he was barefooted when being interviewed was an afterthought, since this was never put to SSG Isa. Instead, it was only put that the accused did not have his socks, shoes and spectacles[^23].
 
-44     It could only be expected that while being interviewed, accused persons in custody would have to be handcuffed to secure them. According to SSG Isa, he would normally handcuff them to the railing of the next seat.[\[note: 24\]](#Ftn_24) The contention that handcuffing the accused _per se_ during statement recording constituted oppression[\[note: 25\]](#Ftn_25) was spurious. He was handcuffed in a way which ensured his relative comfort and which was not oppressive. He was not handcuffed from behind. The times when the statements were recorded and the duration spent were also reasonable. He was also provided adequate food and drink during his custody and served all his meals.
+44     It could only be expected that while being interviewed, accused persons in custody would have to be handcuffed to secure them. According to SSG Isa, he would normally handcuff them to the railing of the next seat.[^24] The contention that handcuffing the accused _per se_ during statement recording constituted oppression[^25] was spurious. He was handcuffed in a way which ensured his relative comfort and which was not oppressive. He was not handcuffed from behind. The times when the statements were recorded and the duration spent were also reasonable. He was also provided adequate food and drink during his custody and served all his meals.
 
-45     The defence had claimed that SSG Isa had deliberately deprived the accused of dinner by purposely removing him from the lock-up at the very time dinner was served.[\[note: 26\]](#Ftn_26) The objective evidence showed that this was another fabrication. The lock-up diary (Exhibit P2) showed that at 1549 hours, 44 meals were ordered by the Station Sergeant and that at 1715 hours, 44 meals[\[note: 27\]](#Ftn_27) were served to the prisoners by lock-up personnel. There would be no reason for lock-up personnel to have failed to give the accused his meal. The serving of the meal did not clash with the recording of Exhibit A which was at 6.21 p.m.. In any event, the unchallenged evidence was that even if prisoners were being interviewed, lock-up officers would also bring food to them.[\[note: 28\]](#Ftn_28) I therefore found the accused to be untruthful in his claim that he was deprived of dinner.
+45     The defence had claimed that SSG Isa had deliberately deprived the accused of dinner by purposely removing him from the lock-up at the very time dinner was served.[^26] The objective evidence showed that this was another fabrication. The lock-up diary (Exhibit P2) showed that at 1549 hours, 44 meals were ordered by the Station Sergeant and that at 1715 hours, 44 meals[^27] were served to the prisoners by lock-up personnel. There would be no reason for lock-up personnel to have failed to give the accused his meal. The serving of the meal did not clash with the recording of Exhibit A which was at 6.21 p.m.. In any event, the unchallenged evidence was that even if prisoners were being interviewed, lock-up officers would also bring food to them.[^28] I therefore found the accused to be untruthful in his claim that he was deprived of dinner.
 
-46     The accused also made a late claim in court that he was oppressed as he was brought out sometime in the afternoon and interrogated, during which an inducement was also extended to him. His testimony was inconsistent with what was put or suggested to SSG Isa during cross-examination. SSG Isa was asked if two officers had entered the interview room between 1 to 2 p.m. to induce the accused into giving a statement by telling him, “Tell us the truth if you have molested the student. If you tell us everything, it is not necessary a jail term. It could be just a warning.” [\[note: 29\]](#Ftn_29) However, the accused testified that only one Malay officer had done so.[\[note: 30\]](#Ftn_30) His evidence was simply not credible.
+46     The accused also made a late claim in court that he was oppressed as he was brought out sometime in the afternoon and interrogated, during which an inducement was also extended to him. His testimony was inconsistent with what was put or suggested to SSG Isa during cross-examination. SSG Isa was asked if two officers had entered the interview room between 1 to 2 p.m. to induce the accused into giving a statement by telling him, “Tell us the truth if you have molested the student. If you tell us everything, it is not necessary a jail term. It could be just a warning.” [^29] However, the accused testified that only one Malay officer had done so.[^30] His evidence was simply not credible.
 
-47     The objective evidence showed that between 12.23 p.m. to 2.23 p.m., SSG Isa was engaged in recording the statement of one of the complainants[\[note: 31\]](#Ftn_31) and could not have been interrogating the accused. Further, the lock-up diary (Exhibit P2) showed that the lock-up called SSG Isa at 1324 hours to inform him that the accused had been processed and that SSG Isa could take him out for investigations. SSG Isa informed them that he would come down later as he was engaged. This supported SSG Isa’s evidence that he was occupied at the time the accused alleged he was interrogated. It was therefore clear that the accused had concocted his evidence relating to his alleged interrogation as well as the alleged offer of inducement, which were not mentioned in his fourth statement.
+47     The objective evidence showed that between 12.23 p.m. to 2.23 p.m., SSG Isa was engaged in recording the statement of one of the complainants[^31] and could not have been interrogating the accused. Further, the lock-up diary (Exhibit P2) showed that the lock-up called SSG Isa at 1324 hours to inform him that the accused had been processed and that SSG Isa could take him out for investigations. SSG Isa informed them that he would come down later as he was engaged. This supported SSG Isa’s evidence that he was occupied at the time the accused alleged he was interrogated. It was therefore clear that the accused had concocted his evidence relating to his alleged interrogation as well as the alleged offer of inducement, which were not mentioned in his fourth statement.
 
 ### Statements were recorded without threat, inducement or promise
 
@@ -201,47 +202,47 @@ A statement made by any person examined under this section must —
 
 ### Evidence of V1 (PW8)
 
-53     V1 was a student at the school from 2010 to 2014. V1 knew that V2 and V3 attended counselling with the accused and his impression was that the accused was a caring counsellor. Sometimes the accused would talk to him about V3’s study or family issues when V3 was present. V1 would also go to the counselling room when V3 asked him along.[\[note: 32\]](#Ftn_32)
+53     V1 was a student at the school from 2010 to 2014. V1 knew that V2 and V3 attended counselling with the accused and his impression was that the accused was a caring counsellor. Sometimes the accused would talk to him about V3’s study or family issues when V3 was present. V1 would also go to the counselling room when V3 asked him along.[^32]
 
-54     He testified that one afternoon in August 2013 after national day, the accused approached him while he was talking to a friend and said that he wanted to talk about V3’s results. V1 followed the accused to the counselling room[\[note: 33\]](#Ftn_33) and sat on the three-seater sofa. According to V1, the sofa could not be seen if one were to look through the glass panel of the counselling room door. The accused sat on V1’s left on the same sofa.[\[note: 34\]](#Ftn_34)
+54     He testified that one afternoon in August 2013 after national day, the accused approached him while he was talking to a friend and said that he wanted to talk about V3’s results. V1 followed the accused to the counselling room[^33] and sat on the three-seater sofa. According to V1, the sofa could not be seen if one were to look through the glass panel of the counselling room door. The accused sat on V1’s left on the same sofa.[^34]
 
-55     As they were speaking about V3’s results, the accused started to unzip V1’s long pants and unbuckled it. V1 felt that his body was hot. He was confused and did not know what to think, except that the accused might be doing a health check-up. The accused pulled down V1’s underwear and touched V1’s penis. He then pulled down the skin of V1’s penis and looked at it. V1 estimated that the contact lasted for not more than 5 minutes. During this time, the accused looked at V1’s penis and at him, while V1 looked straight ahead. The accused then zipped up V1’s pants and both of them left the room. V1 thought that what the accused did was “partially wrong” but as it could be a health check-up, he did not really bother.[\[note: 35\]](#Ftn_35)
+55     As they were speaking about V3’s results, the accused started to unzip V1’s long pants and unbuckled it. V1 felt that his body was hot. He was confused and did not know what to think, except that the accused might be doing a health check-up. The accused pulled down V1’s underwear and touched V1’s penis. He then pulled down the skin of V1’s penis and looked at it. V1 estimated that the contact lasted for not more than 5 minutes. During this time, the accused looked at V1’s penis and at him, while V1 looked straight ahead. The accused then zipped up V1’s pants and both of them left the room. V1 thought that what the accused did was “partially wrong” but as it could be a health check-up, he did not really bother.[^35]
 
-56     V1 testified that about one or two days later, he asked V3 if the accused had pulled down his pants and checked his penis. V3 said that the accused had done so. In answer to V3’s query if the same thing had happened to him, V1 replied that it did. [\[note: 36\]](#Ftn_36)
+56     V1 testified that about one or two days later, he asked V3 if the accused had pulled down his pants and checked his penis. V3 said that the accused had done so. In answer to V3’s query if the same thing had happened to him, V1 replied that it did. [^36]
 
-57     V1 testified that around 16 October 2013, V2, V3 and he were near Astons along East Coast Road. V3 and he decided to ask V2 whether the accused had “… pulled down the penis or anything or did it to him before.” V2 stated that the accused had done so and asked if it had also happened to them. They said that it had. However they did not speak about what had happened in detail.[\[note: 37\]](#Ftn_37)
+57     V1 testified that around 16 October 2013, V2, V3 and he were near Astons along East Coast Road. V3 and he decided to ask V2 whether the accused had “… pulled down the penis or anything or did it to him before.” V2 stated that the accused had done so and asked if it had also happened to them. They said that it had. However they did not speak about what had happened in detail.[^37]
 
-58     V1 testified that sometime towards the next evening, his principal Mrs Choi called and informed him that V2 and V3 had made a report against the accused. She told him to make a police report but he was reluctant to do so. She also asked to speak to his mother. The next day, V1 went with his parents to lodge a police report (Exhibit P6). V1 testified that he was unhappy and had confronted V2 and V3 at their workplace to find out why they had reported the matter.[\[note: 38\]](#Ftn_38)
+58     V1 testified that sometime towards the next evening, his principal Mrs Choi called and informed him that V2 and V3 had made a report against the accused. She told him to make a police report but he was reluctant to do so. She also asked to speak to his mother. The next day, V1 went with his parents to lodge a police report (Exhibit P6). V1 testified that he was unhappy and had confronted V2 and V3 at their workplace to find out why they had reported the matter.[^38]
 
-59     V1 gave evidence that as at the time of trial, he was no longer in contact with V2 and V3. He felt that it was a waste of time coming to court to testify and that he had better things to do. He had no reason to dislike the accused or bear a grudge against him.[\[note: 39\]](#Ftn_39)
+59     V1 gave evidence that as at the time of trial, he was no longer in contact with V2 and V3. He felt that it was a waste of time coming to court to testify and that he had better things to do. He had no reason to dislike the accused or bear a grudge against him.[^39]
 
 ### Evidence of V2 (PW6)
 
-60     V2 was a student of the school from 2010 to 2014. In 2010, his class teacher Mrs Candy Chua referred him to the accused for counselling. He had behavioural issues as he was rude to his teachers and had gotten into arguments and fights. The accused was his counsellor from 2010 to 2013. Apart from counselling sessions, V2 would see the accused at the counselling room two to three times a week during recess or after school. He went there to “slack” or rant about teachers. The accused would at these informal sessions talk to him about managing stress.[\[note: 40\]](#Ftn_40)
+60     V2 was a student of the school from 2010 to 2014. In 2010, his class teacher Mrs Candy Chua referred him to the accused for counselling. He had behavioural issues as he was rude to his teachers and had gotten into arguments and fights. The accused was his counsellor from 2010 to 2013. Apart from counselling sessions, V2 would see the accused at the counselling room two to three times a week during recess or after school. He went there to “slack” or rant about teachers. The accused would at these informal sessions talk to him about managing stress.[^40]
 
-61     When he first started his counselling sessions, V2 found the accused to be friendly. The accused had even helped him clear up some misunderstandings with teachers and students. However, sometime in 2011, his feelings for the accused changed. [\[note: 41\]](#Ftn_41)
+61     When he first started his counselling sessions, V2 found the accused to be friendly. The accused had even helped him clear up some misunderstandings with teachers and students. However, sometime in 2011, his feelings for the accused changed. [^41]
 
-62     In 2011, while V2 was in the counselling room, he sat on the two-seater sofa which was close to the window and which was covered with curtains. The accused came and sat beside him on the same sofa. He asked V2, “Do you masturbate?” V2 felt awkward and answered “No”. The accused then asked V2 to stand up. He pulled V2’s PE shorts down to around knee level and looked at V2’s groin for about 5 to 10 seconds, after which the accused asked him to pull up his clothes. The accused then asked again if he really never masturbated. V2 felt very uneasy, and left the room. He did not know if what the accused did was right or wrong. He did not tell anyone about the incident as he was to be streamed that year and wanted to focus on his examinations. After this incident he did not go to the accused’s room that much or he would go with a friend.[\[note: 42\]](#Ftn_42)
+62     In 2011, while V2 was in the counselling room, he sat on the two-seater sofa which was close to the window and which was covered with curtains. The accused came and sat beside him on the same sofa. He asked V2, “Do you masturbate?” V2 felt awkward and answered “No”. The accused then asked V2 to stand up. He pulled V2’s PE shorts down to around knee level and looked at V2’s groin for about 5 to 10 seconds, after which the accused asked him to pull up his clothes. The accused then asked again if he really never masturbated. V2 felt very uneasy, and left the room. He did not know if what the accused did was right or wrong. He did not tell anyone about the incident as he was to be streamed that year and wanted to focus on his examinations. After this incident he did not go to the accused’s room that much or he would go with a friend.[^42]
 
-63     In late 2011 or 2012, V2 went to see the accused over some examination stress issues. He sat on the same sofa and held a cushion he found against his stomach as he was afraid of what the accused might do. The accused initially sat on a single seat armchair but soon moved to V2’s sofa. V2 shifted to make space, but the accused inched closer. The accused then moved his left hand slowly towards V2’s groin area, past the cushion V2 was holding. He touched V2 at his “ball and penis area” with his fingers, using a circular motion. This was over V2’s shorts. V2 estimated that this lasted from a few seconds up to a minute. V2 just stared into space as he was trying to collate what was going on. V2 felt uneasy and tried to inch away but the accused inched closer to him. V2 then told the accused that he had to get back to a lesson, got up and left. After this incident he knew that what the accused did was wrong. He did not tell anyone about this as he was having examinations and did not want to be distracted.[\[note: 43\]](#Ftn_43)
+63     In late 2011 or 2012, V2 went to see the accused over some examination stress issues. He sat on the same sofa and held a cushion he found against his stomach as he was afraid of what the accused might do. The accused initially sat on a single seat armchair but soon moved to V2’s sofa. V2 shifted to make space, but the accused inched closer. The accused then moved his left hand slowly towards V2’s groin area, past the cushion V2 was holding. He touched V2 at his “ball and penis area” with his fingers, using a circular motion. This was over V2’s shorts. V2 estimated that this lasted from a few seconds up to a minute. V2 just stared into space as he was trying to collate what was going on. V2 felt uneasy and tried to inch away but the accused inched closer to him. V2 then told the accused that he had to get back to a lesson, got up and left. After this incident he knew that what the accused did was wrong. He did not tell anyone about this as he was having examinations and did not want to be distracted.[^43]
 
-64     V2 testified that a third incident occurred in the first half of 2012 in the accused’s counselling room. He sat on the same sofa and held a cushion against his stomach. The accused came and sat quite close beside him. The accused tried to put his hand on V2’s groin area, but he was not able to do so as V2 kept shifting away. The accused however managed to touch the surface of V2’s pants around the penis area, but V2 could not remember if actual contact was made with his penis. V2 managed to shift to an armchair and the accused and he spoke about some school issues. After a while, the accused asked him to move back to the two-seat sofa and he reluctantly did so. During their conversation, the accused put his hand over V2’s shoulder. V2 felt very awkward because of what had happened and managed to leave the room. He did not report the matter to anyone.[\[note: 44\]](#Ftn_44)
+64     V2 testified that a third incident occurred in the first half of 2012 in the accused’s counselling room. He sat on the same sofa and held a cushion against his stomach. The accused came and sat quite close beside him. The accused tried to put his hand on V2’s groin area, but he was not able to do so as V2 kept shifting away. The accused however managed to touch the surface of V2’s pants around the penis area, but V2 could not remember if actual contact was made with his penis. V2 managed to shift to an armchair and the accused and he spoke about some school issues. After a while, the accused asked him to move back to the two-seat sofa and he reluctantly did so. During their conversation, the accused put his hand over V2’s shoulder. V2 felt very awkward because of what had happened and managed to leave the room. He did not report the matter to anyone.[^44]
 
-65     Eventually, V2 spoke about what had happened to V1 and V3. V1 and he were classmates in 2010 and 2011, while V3 was his classmate in secondary 4 in 2013. At the time the topic came up, they were going to work at Astons. V2 noticed that V1 and V3 were whispering to each other. V1 did not want to tell him about what was going on but V3 asked if the accused had touched his private parts before. He told V3, “Yes, you kena also”. V3 replied “yes” but they did not go into details. V1 also indicated that the accused had touched him inappropriately. V2 thought that as he was not the only one affected, he should make a report. He was afraid that if he did not report the matter and he graduated, his juniors could also be molested by the accused. V1 did not want a report to be made as it would be troublesome.[\[note: 45\]](#Ftn_45)
+65     Eventually, V2 spoke about what had happened to V1 and V3. V1 and he were classmates in 2010 and 2011, while V3 was his classmate in secondary 4 in 2013. At the time the topic came up, they were going to work at Astons. V2 noticed that V1 and V3 were whispering to each other. V1 did not want to tell him about what was going on but V3 asked if the accused had touched his private parts before. He told V3, “Yes, you kena also”. V3 replied “yes” but they did not go into details. V1 also indicated that the accused had touched him inappropriately. V2 thought that as he was not the only one affected, he should make a report. He was afraid that if he did not report the matter and he graduated, his juniors could also be molested by the accused. V1 did not want a report to be made as it would be troublesome.[^45]
 
-66     V2 testified that less than a week later, he was coming out of the school hall after his Design & Technology (“D & T”) paper when he saw his ex-form teacher Mrs Candy Chua. He had been thinking of whether he should report the matter and asked Mrs Chua if it was right for a counsellor to touch his private parts. She asked who had done so and he replied that it was the accused. She then brought V2 to see the principal, Mrs Choi. He told Mrs Choi that V1 and V3 were also involved. Mrs Choi got him to call them on his handphone. V1 refused to go to her office, but V3 agreed to do so. Mrs Choi then called all their parents and V2 went home. He made a police report (Exhibit P7) the next day.[\[note: 46\]](#Ftn_46)
+66     V2 testified that less than a week later, he was coming out of the school hall after his Design & Technology (“D & T”) paper when he saw his ex-form teacher Mrs Candy Chua. He had been thinking of whether he should report the matter and asked Mrs Chua if it was right for a counsellor to touch his private parts. She asked who had done so and he replied that it was the accused. She then brought V2 to see the principal, Mrs Choi. He told Mrs Choi that V1 and V3 were also involved. Mrs Choi got him to call them on his handphone. V1 refused to go to her office, but V3 agreed to do so. Mrs Choi then called all their parents and V2 went home. He made a police report (Exhibit P7) the next day.[^46]
 
 ### Evidence of V3 (PW5)
 
-67     V3 was a student at the school from 2010 to 2013. He was referred for counselling due to family and social problems and issues with his results. V3 had frequent fights and quarrels with his mother as he came home late and played computer games too often. The accused started to counsel him from 2011 when his original counsellor left the school.[\[note: 47\]](#Ftn_47)
+67     V3 was a student at the school from 2010 to 2013. He was referred for counselling due to family and social problems and issues with his results. V3 had frequent fights and quarrels with his mother as he came home late and played computer games too often. The accused started to counsel him from 2011 when his original counsellor left the school.[^47]
 
-68     With respect to the 8th charge for which the accused was convicted, V3 stated that in 2013 between the June and September holidays, the accused saw him in the hallway and asked him to go to the counselling room to talk about his ‘N’ level results. He told the accused that he had to return to his class first to leave his things there. When he arrived at the counselling room, V3 was still in his PE attire and sat on the sofa at the behest of the accused. The accused closed the door and locked it. V3 found a cushion on the sofa and placed it in his lap in order to prevent the accused from touching him. The accused then sat on his right, quite close to him.[\[note: 48\]](#Ftn_48)
+68     With respect to the 8th charge for which the accused was convicted, V3 stated that in 2013 between the June and September holidays, the accused saw him in the hallway and asked him to go to the counselling room to talk about his ‘N’ level results. He told the accused that he had to return to his class first to leave his things there. When he arrived at the counselling room, V3 was still in his PE attire and sat on the sofa at the behest of the accused. The accused closed the door and locked it. V3 found a cushion on the sofa and placed it in his lap in order to prevent the accused from touching him. The accused then sat on his right, quite close to him.[^48]
 
-69     The accused spoke to him about his ‘N’ level examinations and his plans after that. Somehow the conversation shifted to V3 saying he was fat. The accused then proceeded to touch V3’s bare stomach (which he exposed by moving V3’s hands from his stomach and pulling up V3’s shirt) and said that V3 was not fat. The accused then touched V3’s private area with his fingers for about four to five seconds. Following this, the accused untied V3’s shorts and started to pull down his shorts and underwear. V3 was not sure as to what to do, so he lifted his “butt” up and let the accused do what he wanted. V3’s “dick” (penis) and “balls” (testicles) became exposed and the accused touched V3’s “dick”. The accused held on to it, and was “pressing and a bit of up and down”. V3’s penis became a little erect. The accused looked at V3, at what his own hands were doing, then at V3 again. V3 felt scared and angry and wanted to ask the accused why he did that but words could not come out of his mouth. After some time, the accused pulled up V3’s shorts and underwear. V3 tied his shorts up and told the accused that he had to leave. V3 then unlocked the door and left the room.[\[note: 49\]](#Ftn_49)
+69     The accused spoke to him about his ‘N’ level examinations and his plans after that. Somehow the conversation shifted to V3 saying he was fat. The accused then proceeded to touch V3’s bare stomach (which he exposed by moving V3’s hands from his stomach and pulling up V3’s shirt) and said that V3 was not fat. The accused then touched V3’s private area with his fingers for about four to five seconds. Following this, the accused untied V3’s shorts and started to pull down his shorts and underwear. V3 was not sure as to what to do, so he lifted his “butt” up and let the accused do what he wanted. V3’s “dick” (penis) and “balls” (testicles) became exposed and the accused touched V3’s “dick”. The accused held on to it, and was “pressing and a bit of up and down”. V3’s penis became a little erect. The accused looked at V3, at what his own hands were doing, then at V3 again. V3 felt scared and angry and wanted to ask the accused why he did that but words could not come out of his mouth. After some time, the accused pulled up V3’s shorts and underwear. V3 tied his shorts up and told the accused that he had to leave. V3 then unlocked the door and left the room.[^49]
 
-70     V3 felt a mixture of frustration and fear as he could not do anything about it. He did not think of reporting the matter as he was leaving school soon and would not have to see the accused any more. However, sometime in October 2013, after their ‘N’ levels, V3 was on his way to Astons for a job interview with V1 and V2. He was close to V1 at that time, but not V2. V1 and he were speaking about leaving school when the thought of what the accused had done came to his mind. He told V1 that the accused had touched him inappropriately during counselling. V1 replied, “Eh, you also kena”. V2 who was nearby also heard it, turned around and said that he too had been molested by the accused.[\[note: 50\]](#Ftn_50)
+70     V3 felt a mixture of frustration and fear as he could not do anything about it. He did not think of reporting the matter as he was leaving school soon and would not have to see the accused any more. However, sometime in October 2013, after their ‘N’ levels, V3 was on his way to Astons for a job interview with V1 and V2. He was close to V1 at that time, but not V2. V1 and he were speaking about leaving school when the thought of what the accused had done came to his mind. He told V1 that the accused had touched him inappropriately during counselling. V1 replied, “Eh, you also kena”. V2 who was nearby also heard it, turned around and said that he too had been molested by the accused.[^50]
 
-71     V2 asked if V1 and V3 wanted to report the matter but they said that as they were leaving school soon, they did not want much trouble. However, when they went to school for a D & T project, V2 informed him that he had reported the matter to Mrs Choi and that she wanted to see him. V3 was angry as both he and V1 did not want to lodge a report. He felt that V2 was causing trouble for them. However, as Mrs Choi insisted that a police report be made, he lodged a report the next day (Exhibit P8).[\[note: 51\]](#Ftn_51)
+71     V2 asked if V1 and V3 wanted to report the matter but they said that as they were leaving school soon, they did not want much trouble. However, when they went to school for a D & T project, V2 informed him that he had reported the matter to Mrs Choi and that she wanted to see him. V3 was angry as both he and V1 did not want to lodge a report. He felt that V2 was causing trouble for them. However, as Mrs Choi insisted that a police report be made, he lodged a report the next day (Exhibit P8).[^51]
 
 ## CLOSE OF THE PROSECUTION’S CASE
 
@@ -261,7 +262,7 @@ A statement made by any person examined under this section must —
 
 77     In considering the evidence adduced by the prosecution, the court had to assume the primary facts to be true unless the evidence was inherently incredible. The prosecution primarily relied on the evidence of the complainants, their police statements and the police statements of the accused. I agreed with the prosecution that this primary evidence showed that there was some evidence not inherently incredible which supported each and every element of the original and amended charges. The court had to assume that this evidence was true, since none of the evidence was inherently incredible. It was not the role of the court at this stage to assess the overall veracity of the prosecution’s evidence.
 
-78     The defence submission of no case to answer was in substance an assertion that the evidence of the witnesses was not credible and should not be believed. For example, with respect to V1, the defence submitted that his evidence should be given “no weight” in view of material discrepancies between his evidence in court and his police statement, and due to his memory lapses.[\[note: 52\]](#Ftn_52) The defence submitted that V2’s evidence was a “bundle of confusion” and that the prosecution had recognized this when they applied to allow V2 to refresh his memory.[\[note: 53\]](#Ftn_53) For V3, the defence submitted that there were inconsistencies between his police statements and his evidence in court, which remained unexplained.[\[note: 54\]](#Ftn_54)
+78     The defence submission of no case to answer was in substance an assertion that the evidence of the witnesses was not credible and should not be believed. For example, with respect to V1, the defence submitted that his evidence should be given “no weight” in view of material discrepancies between his evidence in court and his police statement, and due to his memory lapses.[^52] The defence submitted that V2’s evidence was a “bundle of confusion” and that the prosecution had recognized this when they applied to allow V2 to refresh his memory.[^53] For V3, the defence submitted that there were inconsistencies between his police statements and his evidence in court, which remained unexplained.[^54]
 
 79     Taken at the highest, the defence submission was to the effect that the witnesses had vacillated as they had given inconsistent accounts, that there were internal and external inconsistencies in their evidence and that their evidence was unreliable due to a failure of memory. There was however, nothing to show that the primary facts adduced were inherently incredible or manifestly unreliable.
 
@@ -283,15 +284,15 @@ A statement made by any person examined under this section must —
 
 83     The accused joined the Ministry of Education as a counsellor in September 2009 and was posted to the school. He reported to Madam Sutinah who assigned him counselling cases. He was also the Enhanced Step-up Case Manager who liaised with external social service agencies and referred students to them.
 
-84     He was never assigned as V1’s counsellor, but had one session with V1 in early 2012 when V1’s counsellor left the school. He then closed V1’s case in the system. He denied interacting with V1 on a one-to-one basis in the counselling room.[\[note: 55\]](#Ftn_55)
+84     He was never assigned as V1’s counsellor, but had one session with V1 in early 2012 when V1’s counsellor left the school. He then closed V1’s case in the system. He denied interacting with V1 on a one-to-one basis in the counselling room.[^55]
 
-85     The accused became V2’s counsellor when Mrs Candy Chua referred V2 to him in February 2010 for behaviour and peer related issues. During the counselling sessions, he taught V2 some techniques to modify his behaviour.[\[note: 56\]](#Ftn_56) V2 had requested for additional counselling sessions on several occasions either personally or through his class teachers. The accused felt that V2 had a tendency to use counselling sessions to skip lessons so as to relax.[\[note: 57\]](#Ftn_57)
+85     The accused became V2’s counsellor when Mrs Candy Chua referred V2 to him in February 2010 for behaviour and peer related issues. During the counselling sessions, he taught V2 some techniques to modify his behaviour.[^56] V2 had requested for additional counselling sessions on several occasions either personally or through his class teachers. The accused felt that V2 had a tendency to use counselling sessions to skip lessons so as to relax.[^57]
 
-86     In February or March 2011, Mrs Choi asked the accused to refer V3 to TOUCH Youth for gaming issues. The accused subsequently became V3’s counsellor between June to August 2011. During the counselling sessions, he developed a good relationship with V3. The accused helped V3 with various issues relating to his school and family. He contacted V3’s father and got his father to hug him. The accused also tried to help V3 resolve the issues he had with his mother. In March 2012, he even arranged for a trip with V3 and his mother to Popular Bookstore at Paya Lebar to buy assessment books.[\[note: 58\]](#Ftn_58)
+86     In February or March 2011, Mrs Choi asked the accused to refer V3 to TOUCH Youth for gaming issues. The accused subsequently became V3’s counsellor between June to August 2011. During the counselling sessions, he developed a good relationship with V3. The accused helped V3 with various issues relating to his school and family. He contacted V3’s father and got his father to hug him. The accused also tried to help V3 resolve the issues he had with his mother. In March 2012, he even arranged for a trip with V3 and his mother to Popular Bookstore at Paya Lebar to buy assessment books.[^58]
 
 ## B’s evidence (DW2)
 
-87     B was at the time of trial, aged 20 years old. He was a student at the school between 2010 and 2013. The accused counselled him in 2010 and 2011 when he was in secondary 1 and 2. He testified that the accused had never molested him.[\[note: 59\]](#Ftn_59) He regarded the accused as a very kind and friendly person who was willing to solve his problems. He was surprised to hear about the molest allegations against the accused as he felt that the accused was “not that type of person”.[\[note: 60\]](#Ftn_60)
+87     B was at the time of trial, aged 20 years old. He was a student at the school between 2010 and 2013. The accused counselled him in 2010 and 2011 when he was in secondary 1 and 2. He testified that the accused had never molested him.[^59] He regarded the accused as a very kind and friendly person who was willing to solve his problems. He was surprised to hear about the molest allegations against the accused as he felt that the accused was “not that type of person”.[^60]
 
 ### Dr Wong’s evidence (DW5)
 
@@ -303,7 +304,7 @@ A statement made by any person examined under this section must —
 
 ### General principles
 
-90     In cases of alleged sexual assault where no corroborative evidence was available, the complainant’s testimony alone could constitute proof beyond reasonable doubt when it was so “usually convincing” as to overcome any doubts which may arise from the lack of corroboration.[\[note: 61\]](#Ftn_61)
+90     In cases of alleged sexual assault where no corroborative evidence was available, the complainant’s testimony alone could constitute proof beyond reasonable doubt when it was so “usually convincing” as to overcome any doubts which may arise from the lack of corroboration.[^61]
 
 91     In _Kunasekaran s/o Kalimuthu v Public Prosecutor_ (_“Kunasekaran”_), Chan Seng Onn, J provided guidance as to when the testimony of a complainant could be found to be unusually convincing. He stated at \[25\] - \[27\]:-
 
@@ -335,11 +336,11 @@ Former statements of witness may be proved to corroborate later testimony as to 
 
 159.  In order to corroborate the testimony of a witness, any former statement made by such witness, whether written or verbal, on oath, or in ordinary conversation, relating to the same fact at or about the time when the fact took place, or before any authority legally competent to investigate the fact, may be proved.
 
-96     The complainants had made statements and reports to the school principal, police as well as to Dr Pavarthy. They had also spoken to each other about the accused’s conduct. These were of little evidential value in determining the truth of the allegations and for corroborative purposes. They were not made contemporaneously and could not be regarded as independent corroborative evidence because they were potentially self-serving.[\[note: 62\]](#Ftn_62)
+96     The complainants had made statements and reports to the school principal, police as well as to Dr Pavarthy. They had also spoken to each other about the accused’s conduct. These were of little evidential value in determining the truth of the allegations and for corroborative purposes. They were not made contemporaneously and could not be regarded as independent corroborative evidence because they were potentially self-serving.[^62]
 
 #### Similar fact evidence
 
-97     The prosecution sought to rely on similar fact evidence in proving its case. Similar fact evidence is admissible under s 11(b) of the Evidence Act which provides:-[\[note: 63\]](#Ftn_63)
+97     The prosecution sought to rely on similar fact evidence in proving its case. Similar fact evidence is admissible under s 11(b) of the Evidence Act which provides:-[^63]
 
 When facts not otherwise relevant become relevant
 
@@ -357,9 +358,9 @@ When facts not otherwise relevant become relevant
 
 99     When considering the issue of similar fact evidence, there is therefore no requirement for the facts to be strikingly similar. The similarities which formed the basis of similar fact evidence in the present case included how the accused knew the complainants, their ages, gender, how they were approached, where the offences occurred, the area intruded upon and the nature of the acts. As stated in _Lee Kwang Peng_, the court could in the present case consider the allegations made by all the three complainants in deciding the accused’s liability in respect of any one of the charges.
 
-100    The prosecution had submitted that similar fact evidence should be used to support the testimony of the complainants.[\[note: 64\]](#Ftn_64) Under this approach, potential prejudice would be limited as the probative force of the similar fact evidence would only extend to providing corroborative value. In other words, similar fact evidence could not be used as the sole basis of establishing criminal liability for any one of the charges. At most, the allegations of the complainants could be used to buttress the allegation of molest made by any one of the complainants. In my view, there was sufficient probative force to overcome any potential prejudice which could be occasioned by the admission of such evidence.
+100    The prosecution had submitted that similar fact evidence should be used to support the testimony of the complainants.[^64] Under this approach, potential prejudice would be limited as the probative force of the similar fact evidence would only extend to providing corroborative value. In other words, similar fact evidence could not be used as the sole basis of establishing criminal liability for any one of the charges. At most, the allegations of the complainants could be used to buttress the allegation of molest made by any one of the complainants. In my view, there was sufficient probative force to overcome any potential prejudice which could be occasioned by the admission of such evidence.
 
-101    The court was careful to exclude other prejudicial evidence which the prosecution sought to rely on. About three months before the complainants lodged their police reports, another student ‘G’ had reported that the accused had molested him. The prosecution contended that the court should take this report into account as there was broad consistency between the complainants’ reports and G’s report.[\[note: 65\]](#Ftn_65) I rejected this contention and placed no weight on the evidence relating to G’s report, as this would have unfairly prejudiced the accused. G was not even called upon to give evidence. Mrs Choi’s account of what G had reported was hearsay and did not prove that the accused had molested G or anyone else. The evidence relating to G was therefore excluded from consideration.
+101    The court was careful to exclude other prejudicial evidence which the prosecution sought to rely on. About three months before the complainants lodged their police reports, another student ‘G’ had reported that the accused had molested him. The prosecution contended that the court should take this report into account as there was broad consistency between the complainants’ reports and G’s report.[^65] I rejected this contention and placed no weight on the evidence relating to G’s report, as this would have unfairly prejudiced the accused. G was not even called upon to give evidence. Mrs Choi’s account of what G had reported was hearsay and did not prove that the accused had molested G or anyone else. The evidence relating to G was therefore excluded from consideration.
 
 102    In considering the use of similar fact evidence, the court had to discount the danger of collusion between the complainants. In _Lee Kwang Peng_, Yong Pung How, CJ stated at \[52\]:-
 
@@ -397,7 +398,7 @@ When facts not otherwise relevant become relevant
 
 109    The matters stated in Exhibit P5 were also within the accused’s own knowledge and there was no reason to doubt the truth of what he had stated. He did not even call his wife as a witness to refute the information contained therein.
 
-110    The prosecution had asked the court to place weight on the accused’s admission to SSI Loo that he had committed the offences. SSI Loo (who had accompanied SSG Isa to the school) testified that when they were returning to the police station after the accused was arrested, she had a conversation in Mandarin with the accused in the police car. She asked if he had molested the boys and the accused answered in the affirmative. She then told SSG Isa that it was a “PG”.[\[note: 66\]](#Ftn_66) While the accused agreed that the conversation took place, he denied that he had admitted to molesting the boys.[\[note: 67\]](#Ftn_67) Although I did not think that SSI Loo was not telling the truth or that she was mistaken, I was not prepared to place any weight on the accused’s admission. SSI Loo did not make a record of the conversation and her account was devoid of detail. I therefore excluded the accused’s alleged admission to her from consideration.
+110    The prosecution had asked the court to place weight on the accused’s admission to SSI Loo that he had committed the offences. SSI Loo (who had accompanied SSG Isa to the school) testified that when they were returning to the police station after the accused was arrested, she had a conversation in Mandarin with the accused in the police car. She asked if he had molested the boys and the accused answered in the affirmative. She then told SSG Isa that it was a “PG”.[^66] While the accused agreed that the conversation took place, he denied that he had admitted to molesting the boys.[^67] Although I did not think that SSI Loo was not telling the truth or that she was mistaken, I was not prepared to place any weight on the accused’s admission. SSI Loo did not make a record of the conversation and her account was devoid of detail. I therefore excluded the accused’s alleged admission to her from consideration.
 
 ## Evaluation of evidence relating to the first charge (V1)
 
@@ -405,13 +406,13 @@ When facts not otherwise relevant become relevant
 
 ### An exercise in semantics
 
-112    The defence submitted that there was no evidence to show that V1’s private parts (in plural) were touched as V1 could only recall that the accused had touched his penis but not his testicles.[\[note: 68\]](#Ftn_68) It was contended that since V1’s private parts (in plural) were not touched, the charge (which referred to “private parts” in the plural and not singular) should therefore fail. To my mind, this submission lacked substance and was a fruitless exercise in semantics.
+112    The defence submitted that there was no evidence to show that V1’s private parts (in plural) were touched as V1 could only recall that the accused had touched his penis but not his testicles.[^68] It was contended that since V1’s private parts (in plural) were not touched, the charge (which referred to “private parts” in the plural and not singular) should therefore fail. To my mind, this submission lacked substance and was a fruitless exercise in semantics.
 
 113    In _Kunasekeran_ (supra), Chan Seng Onn, J stated at \[55\], “_private parts refer to the victim’s genitalia per se”._ As V1’s penis would form part of his genitalia, there was no defect in the charge. It did not follow that if the accused had touched V1’s penis but not testicles, the wording of the charge ought to have been amended to change the plural form “private parts” to some sort of singular version.
 
-114    The defence also submitted that V1’s evidence did not show that the accused had touched V1’s private parts from inside his underwear as alleged.[\[note: 69\]](#Ftn_69) However, it was clear from V1’s evidence that the accused had pulled down his pants and underwear and touched his penis. While a case could be made out for the charge to have been drafted more precisely, to my mind, the phrase “from inside his underwear” would imply that the accused had made skin-to-skin contact with V1’s penis. The opposing scenario would be where the touch was from outside (or over) V1’s underwear so that there would be no skin-to-skin contact.
+114    The defence also submitted that V1’s evidence did not show that the accused had touched V1’s private parts from inside his underwear as alleged.[^69] However, it was clear from V1’s evidence that the accused had pulled down his pants and underwear and touched his penis. While a case could be made out for the charge to have been drafted more precisely, to my mind, the phrase “from inside his underwear” would imply that the accused had made skin-to-skin contact with V1’s penis. The opposing scenario would be where the touch was from outside (or over) V1’s underwear so that there would be no skin-to-skin contact.
 
-115    The claim by the defence that there was no evidence to show that the accused had pulled down V1’s pants[\[note: 70\]](#Ftn_70) was also unsubstantiated. Defence counsel had even acknowledged in cross-examination that V1 had said so:-[\[note: 71\]](#Ftn_71)
+115    The claim by the defence that there was no evidence to show that the accused had pulled down V1’s pants[^70] was also unsubstantiated. Defence counsel had even acknowledged in cross-examination that V1 had said so:-[^71]
 
 QSo your version is he pulled down your pants, he unbuckled your pants, unzipped your pants and pulled down your pants and underwear together?
 
@@ -429,7 +430,7 @@ A.It was unbuckled, then unzipped, then he opened up the pants, then the underwe
 
 ### V1 did not admit that he lied
 
-117    V1 was repeatedly called a liar and the defence claimed that V1 had admitted that he lied.[\[note: 72\]](#Ftn_72) This was far from the truth. The defence relied on the following exchange (from the fifth question) to assert that their position:-[\[note: 73\]](#Ftn_73)
+117    V1 was repeatedly called a liar and the defence claimed that V1 had admitted that he lied.[^72] This was far from the truth. The defence relied on the following exchange (from the fifth question) to assert that their position:-[^73]
 
 Q.How are you saying he pulled down your underwear?
 
@@ -479,7 +480,7 @@ Q.Which one did you mean, that you cannot recall or that you were outright lying
 
 A.I cannot recall.
 
-119    Another account relied on by the defence to support the claim that V1 had admitted to lying was in the context of whether V1 had a discussion with the other complainants:-[\[note: 74\]](#Ftn_74)
+119    Another account relied on by the defence to support the claim that V1 had admitted to lying was in the context of whether V1 had a discussion with the other complainants:-[^74]
 
 <table align="left" cellpadding="0" cellspacing="0" class="Judg-2" frame="none" pgwide="1"><colgroup><col width="20.92%"> <col width="79.08%"> </colgroup><tbody><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Q.</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">So you are very sure you all never discussed the penis part or pulled down pants, pulled down skin?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">A.</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Yes.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Q.</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Never, right?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">A.</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">I never spoke to them about it before.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Q.</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">In your answers to Ms Poon this morning -- it's not verbatim my set -- you said, the question:</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">"Question:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">First time you and Rick and Darryl spoke about Mr Chai, did you go into detail on what Mr Chai had done to all three of you?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Answer:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Details not much, just that the penis part pulled down, the skin, pants and everything."</p><p align="justify" class="Table-Para-1">Recall that?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">A</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">No.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Q.</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">No, right. Because it's a lie, correct?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">A.</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Hmm, sorry?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Q.</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Because it's a lie.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">A.</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">I --</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Q.</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">What you told Ms Poon this morning was a lie, that's why you can't even recall yourself saying it, yes?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">A.</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Well --</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Q.</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">It's all recorded, Mr Poh.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">A.</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">If it's a lie, then it's a lie. What else can I say?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Q.</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Correct. It is a lie, right?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">A.</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Then if it's a lie, then it's a lie ah.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Q.</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">No, Mr Poh, this is a court of law. You tell me whether it is a lie or not.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">A.</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Then I'll say yes, lah, since I don't recall.</p></td></tr></tbody></table>
 
@@ -498,11 +499,11 @@ A.I cannot recall.
 
 #### Reason for going to accused’s room
 
-123    The defence pointed out that V1 was inconsistent on why he had gone to the accused’s room.[\[note: 75\]](#Ftn_75) In particular, he was inconsistent on whether the accused wanted to talk to him about his \[V1’s\] results (as stated in his police report) or V3’s results (as given in evidence). This was peripheral and did not relate to the material issues. Whichever the case, the accused would have ended up in the accused’s room.
+123    The defence pointed out that V1 was inconsistent on why he had gone to the accused’s room.[^75] In particular, he was inconsistent on whether the accused wanted to talk to him about his \[V1’s\] results (as stated in his police report) or V3’s results (as given in evidence). This was peripheral and did not relate to the material issues. Whichever the case, the accused would have ended up in the accused’s room.
 
 #### When alleged offence occurred
 
-124    Another inconsistency related to when V1 had been molested. V1 was firm that the accused had molested him in August 2013, after national day.[\[note: 76\]](#Ftn_76) In cross-examination, he agreed that it could have occurred during the preliminary examinations.[\[note: 77\]](#Ftn_77) The defence then claimed that V1 was lying, apparently on the basis that the preliminary examination results could not have been available yet.[\[note: 78\]](#Ftn_78) This was a speculative since there was no evidence to show that the results would only be released after all the papers had been completed.
+124    Another inconsistency related to when V1 had been molested. V1 was firm that the accused had molested him in August 2013, after national day.[^76] In cross-examination, he agreed that it could have occurred during the preliminary examinations.[^77] The defence then claimed that V1 was lying, apparently on the basis that the preliminary examination results could not have been available yet.[^78] This was a speculative since there was no evidence to show that the results would only be released after all the papers had been completed.
 
 125    Further, V1 did not definitively say that he was molested during the preliminary examinations. He had consistently maintained in his evidence, his police report (Exhibit P6) and his police statements (Exhibits D22 and D23) that this took place in August 2013, after national day. His evidence on this was unshaken.
 
@@ -512,29 +513,29 @@ That said, the alleged inconsistencies in the complainant’s testimony that cou
 
 #### How the offence occurred
 
-127    Further it was submitted that V1 was inconsistent about how he had been molested.[\[note: 79\]](#Ftn_79) V1’s evidence was that the accused had touched his penis then “pulled down the skin to take a look at it”.[\[note: 80\]](#Ftn_80) The defence claimed that this was an embellishment as V1 had never stated so in his police report or statements.
+127    Further it was submitted that V1 was inconsistent about how he had been molested.[^79] V1’s evidence was that the accused had touched his penis then “pulled down the skin to take a look at it”.[^80] The defence claimed that this was an embellishment as V1 had never stated so in his police report or statements.
 
 128    In his police report (Exhibit P6), V1 stated that the accused took down his pants and touched his private parts. He stated, “The conversation lasted about 5 mins and during the 5 mins he kept touching my private parts”. In his statement to the police (Exhibit D22), V1 repeated that, “During the conversation, he then took down my pants and touched my private parts. The conversation lasted about 5 mins and during the 5 mins, he kept touching my private parts.” Finally, in his further statement to the police (Exhibit D23), V1 stated at \[7\] that after the accused pulled down his pants and underwear, he “moved his right hand beneath my underwear and started touching my penis. He touched my penis and testicles…”.
 
-129    While these accounts were consistent on how he had been molested, the description of how the accused had touched his penis was fairly brief. V1’s claim in court that the accused had pulled the skin of his penis was not inconsistent with these previous accounts. He could not be said to have embellished his testimony just because he provided more detail on the same incident or for describing it in a different way. It was not the case that his testimony would render a conviction more likely by the provision of the additional facts. From his evidence, he did not even see what the accused was doing. He stated, “I wasn’t looking, I just looking straight forward.”[\[note: 81\]](#Ftn_81) As the accused held on to his penis for some time, it would not be surprising if V1 would have felt a pull on his skin.
+129    While these accounts were consistent on how he had been molested, the description of how the accused had touched his penis was fairly brief. V1’s claim in court that the accused had pulled the skin of his penis was not inconsistent with these previous accounts. He could not be said to have embellished his testimony just because he provided more detail on the same incident or for describing it in a different way. It was not the case that his testimony would render a conviction more likely by the provision of the additional facts. From his evidence, he did not even see what the accused was doing. He stated, “I wasn’t looking, I just looking straight forward.”[^81] As the accused held on to his penis for some time, it would not be surprising if V1 would have felt a pull on his skin.
 
-130    The defence also contended that it would be incredible that V1 would have allowed himself to be molested for 5 minutes.[\[note: 82\]](#Ftn_82) This should be approached with “a degree of realism and common sense”: _Chng Yew Chin_ at \[34\]. V1 had only provided his best estimate of the time involved. In my view, how a person perceives time would be a subjective matter and is at best an estimate. What V1’s evidence implied was that the accused had touched V1’s penis for a substantial period of time and that it was not a fleeting touch.
+130    The defence also contended that it would be incredible that V1 would have allowed himself to be molested for 5 minutes.[^82] This should be approached with “a degree of realism and common sense”: _Chng Yew Chin_ at \[34\]. V1 had only provided his best estimate of the time involved. In my view, how a person perceives time would be a subjective matter and is at best an estimate. What V1’s evidence implied was that the accused had touched V1’s penis for a substantial period of time and that it was not a fleeting touch.
 
 #### When V1 first disclosed the offence
 
-131    V1 testified that after the accused molested him (i.e. after 9 August 2013), he spoke to V3 about it one or two days later. This was contradicted by V3’s police statement (Exhibit D13) which stated that V1 and V3 had discussed the issue of the accused’s conduct in July 2013.[\[note: 83\]](#Ftn_83) In court, V3’s position was that the first time they spoke about it was on 16 October 2013.
+131    V1 testified that after the accused molested him (i.e. after 9 August 2013), he spoke to V3 about it one or two days later. This was contradicted by V3’s police statement (Exhibit D13) which stated that V1 and V3 had discussed the issue of the accused’s conduct in July 2013.[^83] In court, V3’s position was that the first time they spoke about it was on 16 October 2013.
 
-132    Another inconsistency related to V1’s evidence in cross-examination which suggested that he had spoken to V2 about the accused’s conduct in August or September 2013, although he may have been confused by the line of questioning.[\[note: 84\]](#Ftn_84) On the other hand, V2 testified that the first time they spoke about the matter was on 16 October 2013.
+132    Another inconsistency related to V1’s evidence in cross-examination which suggested that he had spoken to V2 about the accused’s conduct in August or September 2013, although he may have been confused by the line of questioning.[^84] On the other hand, V2 testified that the first time they spoke about the matter was on 16 October 2013.
 
-133    While there were inconsistencies, the fact that a conversation occurred on 16 October 2013 could not be disputed. Dr Wong did not allege that this aspect of the evidence was fabricated and accepted that the three complainants met on 16 October 2013.[\[note: 85\]](#Ftn_85) I had no doubt that this meeting did occur, since this triggered off V2’s report to Mrs Choi the next day. Whether V1 had spoken to V2 or V3 beforehand was not a material issue, since such previous statements are of little evidential value and played no part in my findings. It is useful to recall that, “It must first be recognised that absolute truth is beyond human perception, even by honest and disinterested witnesses and due allowance must be given to human fallibility in retention and recollection.”: _Viswanathan (supra)_
+133    While there were inconsistencies, the fact that a conversation occurred on 16 October 2013 could not be disputed. Dr Wong did not allege that this aspect of the evidence was fabricated and accepted that the three complainants met on 16 October 2013.[^85] I had no doubt that this meeting did occur, since this triggered off V2’s report to Mrs Choi the next day. Whether V1 had spoken to V2 or V3 beforehand was not a material issue, since such previous statements are of little evidential value and played no part in my findings. It is useful to recall that, “It must first be recognised that absolute truth is beyond human perception, even by honest and disinterested witnesses and due allowance must be given to human fallibility in retention and recollection.”: _Viswanathan (supra)_
 
-134    The defence had also made the same submission in relation to V3’s evidence.[\[note: 86\]](#Ftn_86) Likewise, I rejected the submissions for the reasons aforesaid.
+134    The defence had also made the same submission in relation to V3’s evidence.[^86] Likewise, I rejected the submissions for the reasons aforesaid.
 
 ### Reasonable for V1 to think that the accused was conducting a health check-up
 
-135    Contrary to the submissions of the defence, it was reasonable for V1 to think that the accused was conducting a health check-up.[\[note: 87\]](#Ftn_87) V1 was only about 15 years old and saw the accused as a good caring counsellor. He would have been caught by surprise when the accused started to touch his penis. It would not be unreasonable if the first thing that came to his mind was that the accused was conducting a health check-up. In effect, he gave the accused the benefit of the doubt, although he may have harboured some doubts about the propriety of the accused’s conduct.
+135    Contrary to the submissions of the defence, it was reasonable for V1 to think that the accused was conducting a health check-up.[^87] V1 was only about 15 years old and saw the accused as a good caring counsellor. He would have been caught by surprise when the accused started to touch his penis. It would not be unreasonable if the first thing that came to his mind was that the accused was conducting a health check-up. In effect, he gave the accused the benefit of the doubt, although he may have harboured some doubts about the propriety of the accused’s conduct.
 
-136    The defence had also made the same submission in relation to V2’s evidence for the 2nd charge. I rejected this for the same reasons. There was also no evidence to show that V1 and V2 had tailored their evidence to both claim that the accused may have been conducting a health check-up. By their narrative, the offences were committed in quite different ways.[\[note: 88\]](#Ftn_88)
+136    The defence had also made the same submission in relation to V2’s evidence for the 2nd charge. I rejected this for the same reasons. There was also no evidence to show that V1 and V2 had tailored their evidence to both claim that the accused may have been conducting a health check-up. By their narrative, the offences were committed in quite different ways.[^88]
 
 ### Conclusion on evidence relating to the 1st charge
 
@@ -560,13 +561,13 @@ That said, the alleged inconsistencies in the complainant’s testimony that cou
 
 ### General issues relating to credibility of V2
 
-142    I did not consider that the amendment of 4th charge and withdrawal of the 5th charge meant that V2 should be treated as an unreliable witness. V2 had indicated that for the 4th charge, he was unsure whether the accused had actually made contact with his penis and for the 5th charge, he indicated that he was, “Not really sure of it. I can’t remember already”.[\[note: 89\]](#Ftn_89) Due allowance had to be given for the fallibility in retention and recollection: _Viswanathan (supra)_. As several years had passed since the alleged incident, it would not be surprising that he could not remember certain things. It was to his credit that he had honestly said so. However, I did not consider V2 to be an unusually convincing witness in view of the difficulty he had in recollecting events. In order to discharge its burden of proving its case beyond a reasonable doubt, the prosecution would have to rely on corroborative evidence.
+142    I did not consider that the amendment of 4th charge and withdrawal of the 5th charge meant that V2 should be treated as an unreliable witness. V2 had indicated that for the 4th charge, he was unsure whether the accused had actually made contact with his penis and for the 5th charge, he indicated that he was, “Not really sure of it. I can’t remember already”.[^89] Due allowance had to be given for the fallibility in retention and recollection: _Viswanathan (supra)_. As several years had passed since the alleged incident, it would not be surprising that he could not remember certain things. It was to his credit that he had honestly said so. However, I did not consider V2 to be an unusually convincing witness in view of the difficulty he had in recollecting events. In order to discharge its burden of proving its case beyond a reasonable doubt, the prosecution would have to rely on corroborative evidence.
 
 ### The second charge (MAC 909629-2015)
 
 #### Inconsistencies were not material
 
-143    For the 2nd charge, the defence drew the court’s attention to four different versions on how V2 was allegedly molested. These were contained in his police report, his police statement, the history he gave to Dr Pavarthy and his evidence in court.[\[note: 90\]](#Ftn_90) The table produced by the defence is reproduced below (with minor modifications):-
+143    For the 2nd charge, the defence drew the court’s attention to four different versions on how V2 was allegedly molested. These were contained in his police report, his police statement, the history he gave to Dr Pavarthy and his evidence in court.[^90] The table produced by the defence is reproduced below (with minor modifications):-
 
 <table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="15.08%"> <col width="19.92%"> <col width="23.4%"> <col width="21.78%"> <col width="19.82%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Sequence</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Version 1</b></p><p align="justify" class="Table-Para-1"><b>(Police report)</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Version 2</b></p><p align="justify" class="Table-Para-1"><b>(police statement)</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Version 3</b></p><p align="justify" class="Table-Para-1"><b>(Dr P’s report)</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Version 4</b></p><p align="justify" class="Table-Para-1"><b>(Testimony)</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">1</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Accused pulled down V2’s pants together with his underwear</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Accused asked V2 if he masturbates</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Accused asked V2 to stand up</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Accused asked if V2 masturbates</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">2</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Accused looked at his groin</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Accused pulled down V2’s shorts</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Accused lowered V2’s underwear and shorts</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Accused asked V2 to stand up and pulled down his shorts</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">3</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Accused asked if V2 masturbates</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Accused asked V2 to stand up and pulled down V2’s underwear</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Accused kept asking if V2 masturbates</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Accused lowered V2’s underwear</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">4</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">&nbsp;</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Accused looked at V2’s penis</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">V2 wore back his shorts</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Accused looked at V2’s groin</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="center" class="Table-Para-1">5</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">&nbsp;</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Accused pulled up both V2’s underwear and shorts</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">&nbsp;</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Accused asked again if V2 masturbates</p></td></tr></tbody></table>
 
@@ -589,19 +590,19 @@ That said, the alleged inconsistencies in the complainant’s testimony that cou
 
 11    \[V2\] did not react. Maybe because it was for just a short moment. He kept talking before leaving the room soon after. Sometime before the end of that year, I did the same thing to him. I can’t remember exactly when but it was also after school hours. He also didn’t react. Those were the only time I had touched him inappropriately.
 
-147    The accused’s confession provided strong corroboration to V2’s testimony that the accused had molested him.[\[note: 91\]](#Ftn_91) Both accounts were consistent in all material aspects i.e. they were seated on the sofa in the accused’s office when the accused slowly reached out his hand to grope V2’s groin and penis. The accounts were also similar down to the last detail that V2 did not react. V2’s evidence that he was “stoning” and “staring into space” was therefore credible as it was corroborated by Exhibit P3 as well as Exhibit P4.[\[note: 92\]](#Ftn_92)
+147    The accused’s confession provided strong corroboration to V2’s testimony that the accused had molested him.[^91] Both accounts were consistent in all material aspects i.e. they were seated on the sofa in the accused’s office when the accused slowly reached out his hand to grope V2’s groin and penis. The accounts were also similar down to the last detail that V2 did not react. V2’s evidence that he was “stoning” and “staring into space” was therefore credible as it was corroborated by Exhibit P3 as well as Exhibit P4.[^92]
 
 #### Inconsistencies were not material
 
-148    There were inconsistencies relating to why V2 had gone to see the accused and the date on which the offence occurred. While V2 had been inconsistent as to whether he had gone to see the accused for a counselling session or an informal chit-chat session,[\[note: 93\]](#Ftn_93) this was not material as he would have gone to the accused’s room in either scenario.
+148    There were inconsistencies relating to why V2 had gone to see the accused and the date on which the offence occurred. While V2 had been inconsistent as to whether he had gone to see the accused for a counselling session or an informal chit-chat session,[^93] this was not material as he would have gone to the accused’s room in either scenario.
 
-149    The most glaring inconsistency with regards the date was that while V3 testified that the offence occurred in “late 2011 or early 2012” or in “February 2012”, the accused had stated in Exhibit P3 that the offence occurred in late 2012.[\[note: 94\]](#Ftn_94) I did not think that this was material. Two incidents were mentioned in Exhibit P3. There was no doubt that the first incident in Exhibit P3 referred to the 3rd charge. Although the dates were different, they referred to the same event. The same reasoning would apply to the 4th charge which co-relates to the second incident in Exhibit P3.
+149    The most glaring inconsistency with regards the date was that while V3 testified that the offence occurred in “late 2011 or early 2012” or in “February 2012”, the accused had stated in Exhibit P3 that the offence occurred in late 2012.[^94] I did not think that this was material. Two incidents were mentioned in Exhibit P3. There was no doubt that the first incident in Exhibit P3 referred to the 3rd charge. Although the dates were different, they referred to the same event. The same reasoning would apply to the 4th charge which co-relates to the second incident in Exhibit P3.
 
 #### The accused’s confession in Exhibit P3 was reliable
 
 150    I was of the view that the accused’s confession that he had molested V2 was reliable and should be given full weight. It would be most unlikely that he would falsely incriminate himself and confess if he did not commit the offence. As indicated, it was totally consistent with V2’s account of events, even to the detail that V2 did not react when being molested. In considering the evidence, I also found that no valid criticism could be attached to SSG Isa’s recording of Exhibit P3 or for that matter, the other statements.
 
-151    I rejected any suggestion that Exhibit P3 only contained a summary of the accused’s words and that SSG Isa had insisted on using incriminating words, such as “rub”, “private parts”, “groin” and “penis’, when the accused had used neutral words like “tapped”.[\[note: 95\]](#Ftn_95) It was certainly permissible for the statement to have been recorded in the narrative form. The words used were descriptive in nature and did not imply any wrongdoing _per se_.
+151    I rejected any suggestion that Exhibit P3 only contained a summary of the accused’s words and that SSG Isa had insisted on using incriminating words, such as “rub”, “private parts”, “groin” and “penis’, when the accused had used neutral words like “tapped”.[^95] It was certainly permissible for the statement to have been recorded in the narrative form. The words used were descriptive in nature and did not imply any wrongdoing _per se_.
 
 152    It was clear from Exhibit P3 that different words were used in different contexts. The word “tapped” was used to describe a consoling action. The word “rub” was however used to denote a different action i.e. the motion the accused used when he molested V2. There was therefore a range of words used depending on the context. The accused was given the opportunity to review Exhibit P3 and to make amendments to it. As he signed Exhibit P3, he must have agreed with the words used therein.
 
@@ -617,13 +618,13 @@ That said, the alleged inconsistencies in the complainant’s testimony that cou
 
 #### Corroborative evidence
 
-156    The accused had admitted in Exhibit P3 that on another occasion in 2012 he “did the same thing” to V2 i.e. his hand slowly strayed to V2’s groin and rubbed his penis. This would corroborate V2’s allegation that the accused had touched his penis area on a second occasion.[\[note: 96\]](#Ftn_96) As V2 could not recall if actual contact was made with his penis, it was reasonable for the charge to be amended to one of attempt. Nonetheless, what the accused said could serve to corroborate V2’s evidence.
+156    The accused had admitted in Exhibit P3 that on another occasion in 2012 he “did the same thing” to V2 i.e. his hand slowly strayed to V2’s groin and rubbed his penis. This would corroborate V2’s allegation that the accused had touched his penis area on a second occasion.[^96] As V2 could not recall if actual contact was made with his penis, it was reasonable for the charge to be amended to one of attempt. Nonetheless, what the accused said could serve to corroborate V2’s evidence.
 
 ### V2 was a “real victim”
 
-157    Relying on Dr Wong’s report, the defence submitted that V2 could not have been a “real victim” as he showed no signs of distress nor did he appear traumatized while giving evidence. Instead, “real victims” would have to show hesitation, anxiety, fear or even cry when narrating the events. Dr Wong criticized V2’s narrative for being rather bland, matter of fact and devoid of accompanying emotions, unlike that of a genuine molest victim. He even thought that V2’s choice of words were highly unusual when he described how he felt when he was molested i.e. “awkward”, “very uneasy”, “very lost”, “not sure how to feel about it” and “very WTF”.[\[note: 97\]](#Ftn_97)
+157    Relying on Dr Wong’s report, the defence submitted that V2 could not have been a “real victim” as he showed no signs of distress nor did he appear traumatized while giving evidence. Instead, “real victims” would have to show hesitation, anxiety, fear or even cry when narrating the events. Dr Wong criticized V2’s narrative for being rather bland, matter of fact and devoid of accompanying emotions, unlike that of a genuine molest victim. He even thought that V2’s choice of words were highly unusual when he described how he felt when he was molested i.e. “awkward”, “very uneasy”, “very lost”, “not sure how to feel about it” and “very WTF”.[^97]
 
-158    All these comments were contained in the section of Dr Wong’s report entitled _“Comments on \[V2’s\] demeanour and responses during cross-examination by DPP and Defence lawyer”._[\[note: 98\]](#Ftn_98) It was rather surprising that Dr Wong would venture an opinion on V2’s demeanour and behaviour without ever examining him or ever seeing him at all. None of what he described was apparent from my observation of V2’s demeanour in court. I would also think that if a student were to be molested by his counsellor, it would not be surprising that he would feel awkward, uneasy, lost and unsure as V2 had indicated he did.
+158    All these comments were contained in the section of Dr Wong’s report entitled _“Comments on \[V2’s\] demeanour and responses during cross-examination by DPP and Defence lawyer”._[^98] It was rather surprising that Dr Wong would venture an opinion on V2’s demeanour and behaviour without ever examining him or ever seeing him at all. None of what he described was apparent from my observation of V2’s demeanour in court. I would also think that if a student were to be molested by his counsellor, it would not be surprising that he would feel awkward, uneasy, lost and unsure as V2 had indicated he did.
 
 159    It has long been recognised that there is no typical way in which a victim of sexual assault should behave. In _GBR v Public Prosecutor_ (_“GBR”_), See Kee Oon, J stated at \[20\]:-
 
@@ -631,19 +632,19 @@ That said, the alleged inconsistencies in the complainant’s testimony that cou
 
 160    I agreed with the prosecution that in preparing his report, Dr Wong had made the false assumption that victims of sexual offences must behave in a certain fixed way. It could not be the case (as is apparent from his report) that genuine victims of molest had to speak in a certain way in describing what happened or how they felt, and that if they did not, they must be lying.
 
-161    The defence also contended that based on Dr Wong’s report, V2’s behaviour was incongruous with that of a genuine victim of molest as he had initiated communication with the accused on several occasions[\[note: 99\]](#Ftn_99) and had also gone to the accused’s counselling room to “slack” and “chit chat” i.e. to relax.
+161    The defence also contended that based on Dr Wong’s report, V2’s behaviour was incongruous with that of a genuine victim of molest as he had initiated communication with the accused on several occasions[^99] and had also gone to the accused’s counselling room to “slack” and “chit chat” i.e. to relax.
 
 162    In considering the issue of the supposedly unexpected conduct, the reasons for this had to be assessed. In _Public Prosecutor v Roger Yue_ (_“Roger Yue”_), Aedit Abdullah, J made the following observations at \[31\]:-
 
 30.    …While the average adult may be expected to react in a particular way – for example, to resist, report or complain about an assault as soon as possible – a child or juvenile cannot be expected to always react similarly. The thinking process, assumptions and view point of a child or juvenile victim may lead to a course of action that may on its face appear unreasonable or improbable to an adult. However, the court must always be mindful of the reasons behind what may seem like unexpected conduct on the part of a child or juvenile victim, and should not measure a child or juvenile by adult standards.
 
-163    In considering why V2 continued to send messages, the simplest and best explanation was provided by the accused himself. He stated that V2 “tend to send random messages, sometime for no reason” as he liked to spend a lot of time online. According to the accused, V2 did this to stay connected with friends and from the accused’s observation, it was very normal of him.[\[note: 100\]](#Ftn_100)
+163    In considering why V2 continued to send messages, the simplest and best explanation was provided by the accused himself. He stated that V2 “tend to send random messages, sometime for no reason” as he liked to spend a lot of time online. According to the accused, V2 did this to stay connected with friends and from the accused’s observation, it was very normal of him.[^100]
 
-164    For reasons of his own (whether to “slack” or otherwise) V2 felt that he needed counselling. He had on at least three occasions approached Mr Faizal but had been turned away.[\[note: 101\]](#Ftn_101) By contrast, the accused (who was his counsellor) was more welcoming and responsive. As an example, when V2 asked for counselling on 27 September 2013, the accused did not flatly turn down his request but said, “Not now. Sorry.”[\[note: 102\]](#Ftn_102)
+164    For reasons of his own (whether to “slack” or otherwise) V2 felt that he needed counselling. He had on at least three occasions approached Mr Faizal but had been turned away.[^101] By contrast, the accused (who was his counsellor) was more welcoming and responsive. As an example, when V2 asked for counselling on 27 September 2013, the accused did not flatly turn down his request but said, “Not now. Sorry.”[^102]
 
-165    The accused was also encouraging of V2. For example, he had on 6 May 2013 messaged V2 to wish him good luck in his examinations.[\[note: 103\]](#Ftn_103) V2 obviously still valued the accused’s opinion and encouragement and had even sent the accused a link of his photographic work on 10 June 2013. Perceiving things from V2’s point of view, it was not unthinkable or incredible that he continued to communicate with and see the accused, since they were still members of the same school community and the relationship was still beneficial to him.
+165    The accused was also encouraging of V2. For example, he had on 6 May 2013 messaged V2 to wish him good luck in his examinations.[^103] V2 obviously still valued the accused’s opinion and encouragement and had even sent the accused a link of his photographic work on 10 June 2013. Perceiving things from V2’s point of view, it was not unthinkable or incredible that he continued to communicate with and see the accused, since they were still members of the same school community and the relationship was still beneficial to him.
 
-166    Dr Wong himself had offered one possible explanation for an alleged victim continuing to see his perpetrator i.e. the secondary gains were strong enough to overcome the anxiety, fear, reluctance and aversion of seeing the alleged perpetrator.[\[note: 104\]](#Ftn_104) This provided a plausible reason for V2 to communicate with and to see the accused.
+166    Dr Wong himself had offered one possible explanation for an alleged victim continuing to see his perpetrator i.e. the secondary gains were strong enough to overcome the anxiety, fear, reluctance and aversion of seeing the alleged perpetrator.[^104] This provided a plausible reason for V2 to communicate with and to see the accused.
 
 ### Conclusion on evidence on 2nd, 3rd and 4th charges
 
@@ -665,7 +666,7 @@ That said, the alleged inconsistencies in the complainant’s testimony that cou
 
 173    While I did not think that V3 had set out to lie, his evidence on the 6th and 7th charges was so confused and unreliable that it would have been unsafe to have convicted the accused on these two charges. The original charges stated that the alleged offences occurred within March and April 2012, but due to the confused state of V3’s evidence, the dates were widened to a two-year period of 2011 to 2012. As V3 had also alleged that there were many other incidents during the same period, the issue of the dates of the offences was material, but it became totally uncertain as to which incidents V3 was actually referring to when giving evidence.
 
-174    There were numerous material discrepancies between his evidence in court, police statements and the history he gave Dr Pavarthy. The alleged incidents occurred within a short space of time of about a week or two. It appeared that V3 had conflated his evidence on the two incidents, for example, on whether his mother had beaten him with a metal rod before the first incident or the second incident. For the amended 6th charge, there was also a material discrepancy between his evidence in court and what he had informed Dr Pavarthy. This related to whether there was in fact skin-to-skin contact with his genitals.[\[note: 105\]](#Ftn_105)
+174    There were numerous material discrepancies between his evidence in court, police statements and the history he gave Dr Pavarthy. The alleged incidents occurred within a short space of time of about a week or two. It appeared that V3 had conflated his evidence on the two incidents, for example, on whether his mother had beaten him with a metal rod before the first incident or the second incident. For the amended 6th charge, there was also a material discrepancy between his evidence in court and what he had informed Dr Pavarthy. This related to whether there was in fact skin-to-skin contact with his genitals.[^105]
 
 175    I therefore had doubts over the reliability of his evidence and found that the prosecution had not discharged its burden of proving the charges beyond a reasonable doubt.
 
@@ -675,11 +676,11 @@ That said, the alleged inconsistencies in the complainant’s testimony that cou
 
 ### Establishing the date of the offence
 
-178    While the date stated in the 8th charge was “September 2013”, V3’s evidence was that the offence occurred on the Tuesday before the September 2013 school holidays, towards the end of recess. The defence had helpfully established that this date was 3 September 2013. This was not disputed by the prosecution. The fact that V3’s recess time was between 10.30 a.m. to 11.10 a.m. was also not in dispute.[\[note: 106\]](#Ftn_106)
+178    While the date stated in the 8th charge was “September 2013”, V3’s evidence was that the offence occurred on the Tuesday before the September 2013 school holidays, towards the end of recess. The defence had helpfully established that this date was 3 September 2013. This was not disputed by the prosecution. The fact that V3’s recess time was between 10.30 a.m. to 11.10 a.m. was also not in dispute.[^106]
 
 ### Credible that V3 was in his PE attire
 
-179    V3 testified that he was wearing his PE attire when the accused molested him because he had PE earlier that day. His evidence relating to his attire was credible as the objective evidence (his class timetable) showed that he had PE on 3 September 2013. The timetable also showed that he had two periods of English thereafter. While Mr Faisal, Madam Sutinah and B testified that students were not allowed to wear their PE attire in class after PE lessons, it would be difficult to believe that the rule would have been enforced without exception. As V3 had stated, “it could just be me breaking a school rule” and “No, I mean I wear PE to go to class, but I didn't get chased out to change.”[\[note: 107\]](#Ftn_107)
+179    V3 testified that he was wearing his PE attire when the accused molested him because he had PE earlier that day. His evidence relating to his attire was credible as the objective evidence (his class timetable) showed that he had PE on 3 September 2013. The timetable also showed that he had two periods of English thereafter. While Mr Faisal, Madam Sutinah and B testified that students were not allowed to wear their PE attire in class after PE lessons, it would be difficult to believe that the rule would have been enforced without exception. As V3 had stated, “it could just be me breaking a school rule” and “No, I mean I wear PE to go to class, but I didn't get chased out to change.”[^107]
 
 ### Inconsistencies were not material
 
@@ -687,17 +688,17 @@ That said, the alleged inconsistencies in the complainant’s testimony that cou
 
 #### Lifting his “butt”
 
-181    In court, V3 stated that when the accused had tried to remove his shorts and underwear, he lifted his “butt” up so that the accused could do as he wanted. This was inconsistent with his account to the police (Exhibit D13) as he did not mention this. The defence contended that V3 had embellished his evidence when he gave testimony in court as he had applied ‘logic’.[\[note: 108\]](#Ftn_108)
+181    In court, V3 stated that when the accused had tried to remove his shorts and underwear, he lifted his “butt” up so that the accused could do as he wanted. This was inconsistent with his account to the police (Exhibit D13) as he did not mention this. The defence contended that V3 had embellished his evidence when he gave testimony in court as he had applied ‘logic’.[^108]
 
 182    It was open to V3 to provide more detail when testifying in court rather than being limited by the content of his police statement. This would assist to paint a more complete picture of what had occurred. It would be illogical and unwarranted if anything he added would be classified as an embellishment. V3’s evidence that he lifted his “butt” up was not significant and did not play a role in my consideration of the evidence. It had no probative value, nor did the allegation that V3 had used “logic”. His additional evidence could not therefore be considered as an embellishment.
 
 #### Scrotum not stroked
 
-183    The defence submitted that V3’s testimony should be rejected as he did not state that the accused had stroked his scrotum. This was inconsistent with Exhibit D13 (which was admitted into evidence), where V3 stated that the accused had stroked his penis and touched his scrotum.[\[note: 109\]](#Ftn_109) In this respect, I was prepared to make allowances to account for the fallibility of V3’s memory and recollection. This was a relatively minor issue and did not detract from his evidence that the accused had touched his private parts that day. Just because he was not able to recall (even after being shown Exhibit D13) if his scrotum was stroked did not mean that the charge should fail.[\[note: 110\]](#Ftn_110)
+183    The defence submitted that V3’s testimony should be rejected as he did not state that the accused had stroked his scrotum. This was inconsistent with Exhibit D13 (which was admitted into evidence), where V3 stated that the accused had stroked his penis and touched his scrotum.[^109] In this respect, I was prepared to make allowances to account for the fallibility of V3’s memory and recollection. This was a relatively minor issue and did not detract from his evidence that the accused had touched his private parts that day. Just because he was not able to recall (even after being shown Exhibit D13) if his scrotum was stroked did not mean that the charge should fail.[^110]
 
 #### Refreshing memory before trial
 
-184    The defence asserted that V3 had lied about whether he had refreshed his memory before trial, since he gave conflicting accounts of what had occurred.[\[note: 111\]](#Ftn_111) This submission was another overstatement of the evidence. In cross-examination V3 had been asked:-[\[note: 112\]](#Ftn_112)
+184    The defence asserted that V3 had lied about whether he had refreshed his memory before trial, since he gave conflicting accounts of what had occurred.[^111] This submission was another overstatement of the evidence. In cross-examination V3 had been asked:-[^112]
 
 QOkay, so you did not refer to anything ---
 
@@ -705,15 +706,15 @@ Q\-- before coming to court today?
 
 AYes.
 
-185    The question implied that V3 was being asked if he had referred to anything on the very day he came to court, to which he answered “no”. However, when he was shown his actual statement the next day, he answered without hesitation that he had seen it about two weeks earlier.[\[note: 113\]](#Ftn_113) I did not in any event find the issue of whether he had referred to anything before he testified in court to be relevant.
+185    The question implied that V3 was being asked if he had referred to anything on the very day he came to court, to which he answered “no”. However, when he was shown his actual statement the next day, he answered without hesitation that he had seen it about two weeks earlier.[^113] I did not in any event find the issue of whether he had referred to anything before he testified in court to be relevant.
 
 ### Accused’s alibi
 
 186    The date of the offence was narrowed down to 3 September 2013 when the offence was alleged to have occurred during the latter part of V3’s recess, which was from 10.30 a.m. to 11.10 a.m..
 
-187    The accused’s position was that on 3 September 2013, he was involved with counselling a student named R from 10.30 a.m. to 10.50 a.m.. Thereafter he returned to his room to prepare some documents for a meeting with “Paul” of Alive Community Network concerning the case of another student named SL at 11.10 a.m..[\[note: 114\]](#Ftn_114)
+187    The accused’s position was that on 3 September 2013, he was involved with counselling a student named R from 10.30 a.m. to 10.50 a.m.. Thereafter he returned to his room to prepare some documents for a meeting with “Paul” of Alive Community Network concerning the case of another student named SL at 11.10 a.m..[^114]
 
-188    In support of his evidence, he tendered Exhibit D27, which was a print-out of a Google e-calendar, which reflected that he had scheduled an appointment with R that day. Although the time was not stated, the accused testified he would have scheduled it to start at 10.30 a.m.:-[\[note: 115\]](#Ftn_115)
+188    In support of his evidence, he tendered Exhibit D27, which was a print-out of a Google e-calendar, which reflected that he had scheduled an appointment with R that day. Although the time was not stated, the accused testified he would have scheduled it to start at 10.30 a.m.:-[^115]
 
 <table align="left" cellpadding="0" cellspacing="0" class="Judg-2" frame="none" pgwide="1"><colgroup><col width="18.82%"> <col width="81.18%"> </colgroup><tbody><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">MS HO:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Yes, can you tell us how you know it is 10.30?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">A.</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Based on my scheduling on 3 September, I -- this is 10.30 am, it's a VE period. Typically, your Honour, I schedule my counselling session with my students, it's on their non-academic lesson, which is VE lesson. I do have record that I schedule my session with [R] all are on his VE lesson, on that date, based on the school timetable.</p></td></tr></tbody></table>
 
@@ -722,7 +723,7 @@ AYes.
 
 189    The accused claimed that as the VE teacher had to brief R’s class on some matters, he did not bring R to his counselling room, but only spoke to R in the hallway until 10.50 a.m. before returning to his room.
 
-190    I found the accused’s evidence to be suspect. It was clear that he had no actual recollection of what had occurred and that he had constructed his account by looking at the timetable for 3 September 2013.[\[note: 116\]](#Ftn_116) There was no proper record to show that he had met R.[\[note: 117\]](#Ftn_117) No witnesses were called upon to support the accused’s claim that he had spoken to R. R had an absenteeism issue[\[note: 118\]](#Ftn_118) and no records were tendered to show that R even attended school that day. No counselling notes were tendered, although the defence had been thorough in pursuing records with the Ministry of Education.
+190    I found the accused’s evidence to be suspect. It was clear that he had no actual recollection of what had occurred and that he had constructed his account by looking at the timetable for 3 September 2013.[^116] There was no proper record to show that he had met R.[^117] No witnesses were called upon to support the accused’s claim that he had spoken to R. R had an absenteeism issue[^118] and no records were tendered to show that R even attended school that day. No counselling notes were tendered, although the defence had been thorough in pursuing records with the Ministry of Education.
 
 191    The accused’s claim that he went back to his room after 10.50 a.m. to prepare a student detail on SL (which he needed for a meeting with Paul at 11.10 a.m.) also seemed unlikely. Being an organized person, it was surprising that he would have left the preparation of this document until such as late stage, especially since he claimed to have scheduled counselling with R during the VE period which was from 10.30 a.m. to 11.10 a.m..
 
@@ -736,7 +737,7 @@ AYes.
 
 195    After 3 September 2013, there was minimal contact between V3 and the accused. Apart from one photograph taken on graduation day (30 October 2013) which occurred in public and where contact would have been short, the evidence did not establish that V3 met or visited the accused or that there was any communication between them. If so, these would have been minimal. Thus, V3 did not display any supposedly unexpected conduct which was incongruous with that of a “true” molest victim after the offence on 3 September 2013. In fact, when the accused tried to contact V3 in October or November 2013, V3 even refused to pick up the call.
 
-196    It was submitted on behalf of the accused that he had called to check on V3’s well-being and that his contemporaneous actions showed that he did not molest V3. I could not see how this followed as the accused’s conduct could equally be construed as being self-serving. V3 had refused to pick up the accused’s call as the police had told him not too.[\[note: 119\]](#Ftn_119) The police must also have informed the accused not to contact the complainants, and if so, the accused’s call would have been in breach of this. Common sense would also dictate that he should not contact the complainants since a police investigation was already under way. The evidence showed that the accused was keen to the speak to the complainants, presumably to have them withdraw their complaints.[\[note: 120\]](#Ftn_120) Therefore when he called V3, it was likely that it would also have been for this purpose. At best, the accused’s attempted call to V3 was a neutral factor in the assessment of the evidence.
+196    It was submitted on behalf of the accused that he had called to check on V3’s well-being and that his contemporaneous actions showed that he did not molest V3. I could not see how this followed as the accused’s conduct could equally be construed as being self-serving. V3 had refused to pick up the accused’s call as the police had told him not too.[^119] The police must also have informed the accused not to contact the complainants, and if so, the accused’s call would have been in breach of this. Common sense would also dictate that he should not contact the complainants since a police investigation was already under way. The evidence showed that the accused was keen to the speak to the complainants, presumably to have them withdraw their complaints.[^120] Therefore when he called V3, it was likely that it would also have been for this purpose. At best, the accused’s attempted call to V3 was a neutral factor in the assessment of the evidence.
 
 ### Corroborative evidence
 
@@ -748,7 +749,7 @@ AYes.
 
 199    V3 had benefitted from being counselled by the accused, who had helped him with his family issues and even lent him money for food or to top-up his EZ-link card. There was no evidence to show that he bore any grudges against the accused or that he would be so cynical as to lie to get the accused into trouble with the police.
 
-200    V3 never wanted to report the matter as he was leaving school and did not have to see the accused any longer.[\[note: 121\]](#Ftn_121) Once the matter surfaced, he had no choice since, “Mrs Choi say that due to the MOE rules this is offence already, so it is a must to report to the police.”[\[note: 122\]](#Ftn_122) While this had to be done, he still maintained a sympathetic outlook towards the accused:-[\[note: 123\]](#Ftn_123)
+200    V3 never wanted to report the matter as he was leaving school and did not have to see the accused any longer.[^121] Once the matter surfaced, he had no choice since, “Mrs Choi say that due to the MOE rules this is offence already, so it is a must to report to the police.”[^122] While this had to be done, he still maintained a sympathetic outlook towards the accused:-[^123]
 
 They tell me to report it to the police. But I told them that I don't want to report the police. I just want them to punish him or give him a warning. Because at that point of time I think that he has a family and kids. He has to work. So I don't want to make the matter too big -- matters too big.
 
@@ -762,17 +763,17 @@ They tell me to report it to the police. But I told them that I don't want to re
 
 204    There was in reality no evidence to show that the complainants had conspired to bring false charges against the accused. However, the defence relied on Dr Wong to support its theory. Dr Wong claimed that V2 was the ringleader as he was the only one who wanted to lodge a complaint against the accused. He stated:-
 
-So he took action very quickly, and then got the other two to support him in this all, and manipulated them to also report to the principal.[\[note: 124\]](#Ftn_124)
+So he took action very quickly, and then got the other two to support him in this all, and manipulated them to also report to the principal.[^124]
 
-205    However, Dr Wong failed to state precisely how these things had occurred. His claim was doubtful as it was against the weight of the evidence. There was no evidence to suggest that V1 and V3 supported V2 when he reported the matter. In fact, both V1 and V3 were from the start, totally against making a report against the accused. They were angry when they learnt that V2 had told Mrs Choi about what had happened. At trial, V1 remained a reluctant witness and V3 would have withdrawn his police report if he could.[\[note: 125\]](#Ftn_125) This showed that it was quite unlikely that there was any collusion.
+205    However, Dr Wong failed to state precisely how these things had occurred. His claim was doubtful as it was against the weight of the evidence. There was no evidence to suggest that V1 and V3 supported V2 when he reported the matter. In fact, both V1 and V3 were from the start, totally against making a report against the accused. They were angry when they learnt that V2 had told Mrs Choi about what had happened. At trial, V1 remained a reluctant witness and V3 would have withdrawn his police report if he could.[^125] This showed that it was quite unlikely that there was any collusion.
 
 206    Dr Wong also opined that as V2 had a history of behavioural issues, he was suffering from a moderately severe Conduct Disorder which would evolve into Antisocial Personality Disorder as he grew order. According to him, those suffering from this disorder would be callous, cynical and contemptuous of the feelings, rights, and sufferings of others. Having this disorder, V2 was “in the high risk group of liability to create trouble for others”.
 
-207    I did not accept Dr Wong’s diagnosis that V2 had a conduct disorder as I was not convinced by his methodology. While Dr Wong agreed that in preparing forensic reports, the patient should be interviewed as part of the forensic process,[\[note: 126\]](#Ftn_126) he did not examine V2 or even see him in person. He did not observe the testimony of V2 (or any of the complainants).[\[note: 127\]](#Ftn_127) He did not speak to V2’s family or anyone else, except perhaps to the defence lawyer. While he claimed to have based his assessment on the accused’s counselling reports, he admitted that he could not even read some of the writing there.[\[note: 128\]](#Ftn_128) It was also surprising that he would even venture an opinion based on V2’s alleged nickname and supposed reputation. He stated:-[\[note: 129\]](#Ftn_129)
+207    I did not accept Dr Wong’s diagnosis that V2 had a conduct disorder as I was not convinced by his methodology. While Dr Wong agreed that in preparing forensic reports, the patient should be interviewed as part of the forensic process,[^126] he did not examine V2 or even see him in person. He did not observe the testimony of V2 (or any of the complainants).[^127] He did not speak to V2’s family or anyone else, except perhaps to the defence lawyer. While he claimed to have based his assessment on the accused’s counselling reports, he admitted that he could not even read some of the writing there.[^128] It was also surprising that he would even venture an opinion based on V2’s alleged nickname and supposed reputation. He stated:-[^129]
 
 \[T\]his boy also, apart from the features that I stated about anti-social personality disorder, he is also known as a _sabo_\---_sabo_ boy; means he has a tendency to sabotage without any feeling of remorse, distress, like that. …
 
-208    Contrary to Dr Wong’s assessment, V2 had displayed empathy towards the potential suffering of others and demonstrated his civic mindedness. In deciding to report the accused’s wrongdoing, he was motivated by a sense of civic duty towards his fellow students and the school. As he was graduating, he was afraid that if he did not report the matter, his juniors could also be molested by the accused. Further, one of V2’s activities was to serve the school by setting up the public address system. He would also go to his principal Mrs Choi and give her the microphone when she needed to use it. Mrs Choi found him to be a very reliable boy who would be there whenever she needed his help with the microphone.[\[note: 130\]](#Ftn_130) I therefore had doubts about Dr Wong’s diagnosis as well as the conclusions he drew in Exhibit D36.
+208    Contrary to Dr Wong’s assessment, V2 had displayed empathy towards the potential suffering of others and demonstrated his civic mindedness. In deciding to report the accused’s wrongdoing, he was motivated by a sense of civic duty towards his fellow students and the school. As he was graduating, he was afraid that if he did not report the matter, his juniors could also be molested by the accused. Further, one of V2’s activities was to serve the school by setting up the public address system. He would also go to his principal Mrs Choi and give her the microphone when she needed to use it. Mrs Choi found him to be a very reliable boy who would be there whenever she needed his help with the microphone.[^130] I therefore had doubts about Dr Wong’s diagnosis as well as the conclusions he drew in Exhibit D36.
 
 209    Dr Wong also felt that it was likely that V2’s motivation for framing the accused was stoked because the accused did not post a graduation photograph of V2 and himself on Facebook and because the accused did not bring him and other students to Universal Studios Singapore. In his opinion, this might have pushed V2 into making the very serious allegations against the accused, since this was in-line with V2’s reputation of being “a sabotage boy”.
 
@@ -783,9 +784,9 @@ So he took action very quickly, and then got the other two to support him in thi
   
   
 
-211    From this exchange, V2’s messages appeared to be light-hearted. As the accused had testified, V2 liked to send random messages. V2 testified that he had sent the message about Universal Studios as the accused had mentioned a trip there, and V2 wanted to find out what was happening. For the issue of the graduation photograph, he messaged the accused as a friend had asked why the accused had not posted it on Facebook. When the accused failed to respond, there was no cogent evidence to show that V2 pursued the matter or communicated with the accused any further. No further messages were tendered to prove that V2 had persisted in his quest. If he did, it would be expected that further messages would be sent.[\[note: 131\]](#Ftn_131) There was also nothing to show that V2 was so disappointed that he would want to take revenge on the accused.
+211    From this exchange, V2’s messages appeared to be light-hearted. As the accused had testified, V2 liked to send random messages. V2 testified that he had sent the message about Universal Studios as the accused had mentioned a trip there, and V2 wanted to find out what was happening. For the issue of the graduation photograph, he messaged the accused as a friend had asked why the accused had not posted it on Facebook. When the accused failed to respond, there was no cogent evidence to show that V2 pursued the matter or communicated with the accused any further. No further messages were tendered to prove that V2 had persisted in his quest. If he did, it would be expected that further messages would be sent.[^131] There was also nothing to show that V2 was so disappointed that he would want to take revenge on the accused.
 
-212    The complainants had given fairly consistent accounts of the meeting near Astons, which led to the report to Mrs Choi. The prosecution had provided a useful table summarizing the evidence and this is substantially re-produced below[\[note: 132\]](#Ftn_132) :-
+212    The complainants had given fairly consistent accounts of the meeting near Astons, which led to the report to Mrs Choi. The prosecution had provided a useful table summarizing the evidence and this is substantially re-produced below[^132] :-
 
 <table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="18.5%"> <col width="30.74%"> <col width="26.52%"> <col width="24.24%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">&nbsp;</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>V1</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>V2</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>V3</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Date when the conversation took place</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">During October, around the 16<sup>th</sup><sup>.</sup></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">October 2013. They were going to work at Astons.</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">After N Levels and they were going for a job interview</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Where conversation occurred</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">It was either before or after work at Katong at Astons opposite 112 Katong.</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">East Coast Road, opposite Astons.</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">&nbsp;</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Contents of conversation</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">They talked about the accused and whether the accused had pulled down the penis or anything or done this to him before.</p><p align="justify" class="Table-Para-1">V2 said that the accused had touched him, and asked V1 and V3 if it happened to them as well. They just said yes, but did not go into further detail.</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">V1 and V3 were talking about the accused to each other. V2 was curious as to what they were talking about, and pestered them. V3 then asked V2 if the accused had touched them there before (<em>ie</em>, at their private parts).</p><p align="justify" class="Table-Para-1">V2 replied in the affirmative.</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">V3 told V1 that the accused had “touched” him when counselling him. V1 stated that he “<em>also kena</em>”. V2 overheard their conversation, and said that he had also been molested by the accused.</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Level of detail</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">They did not go into much detail about what the accused had done to them. “Just that the penis part where pulled down the skin and everything, there’s really not much detail to talk about it”.</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">V3 did not go into details such as the number of times he had been touched. V2 also did not really go into the details.</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Only talked to V2 about the main point – how the accused touched him. Neither of them mentioned specific details of what had happened in the accused’s room to each other.</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Whether they intended to do anything</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">&nbsp;</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">V2 wanted to report the matter, as he did not want the same thing to happen to his juniors. However, V1 and V3 were reluctant to do so.</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">V2 asked if they wanted to report this to the principal. V1 and V3 did not want to do so as they were leaving the school soon.</p></td></tr></tbody></table>
 
@@ -794,7 +795,7 @@ So he took action very quickly, and then got the other two to support him in thi
 
 213    There can be no doubt that the meeting on 16 October 2013 occurred, since this triggered off the report to Mrs Choi. From my assessment, the evidence of the complainants did not seem to be contrived. While there were inconsistencies in their accounts as to what had occurred, these were minor. Each complainant was merely trying to recount the events to the best of his memory and from his own point of view. Their accounts were credible, and there was nothing to suggest any collusion or conspiracy on their part.
 
-214    There was no evidence to suggest that the complainants had discussed how they could harm the accused. For example, V3 testified that he had not since the matter was reported on 18 October 2013, discussed the matter with the other complainants or find out what the accused did to them. He did not know any details of their allegations or how many times they had been molested.[\[note: 133\]](#Ftn_133) Further, after the complainants left school they did not see much of each other. In these circumstances, it would be most unlikely that they would give false testimony in court to frame accused.
+214    There was no evidence to suggest that the complainants had discussed how they could harm the accused. For example, V3 testified that he had not since the matter was reported on 18 October 2013, discussed the matter with the other complainants or find out what the accused did to them. He did not know any details of their allegations or how many times they had been molested.[^133] Further, after the complainants left school they did not see much of each other. In these circumstances, it would be most unlikely that they would give false testimony in court to frame accused.
 
 215    There was not an iota of evidence to suggest any collusion on the part of the complainants. None of them bore any grudges against the accused and had nothing to gain from making false complaints against him and giving false testimony in court. There was no reason to imagine that the three complainants would collude and concoct evidence against the accused, whom they thought of highly. The burden did not therefore shift to the prosecution to prove beyond a reasonable doubt that there was no collusion. I was prepared in any event to hold that it had.
 
@@ -822,7 +823,7 @@ So he took action very quickly, and then got the other two to support him in thi
 
 (b)    Secondly, the court should have regard to the aggravating and mitigating factors which _are personal to the offender_ to calibrate the appropriate sentence for that offender. These “offender-specific” factors relate to the offender’s particular personal circumstances and, by definition, _cannot_ be the factors which have already been taken into account in the categorisation of the offence. In exceptional circumstances, the court is entitled to move outside of the prescribed range for that band if, in its view, the case warrants such a departure.
 
-220    The following offence-specific factors which had been identified in _GBR_ (supra) were adopted.[\[note: 134\]](#Ftn_134) Chan, J stated at \[45\]:-
+220    The following offence-specific factors which had been identified in _GBR_ (supra) were adopted.[^134] Chan, J stated at \[45\]:-
 
 45.    In _GBR v Public Prosecutor_ (“_GBR_”), See Kee Oon J laid down the following sentencing framework regarding offences under s 354(2) of the Penal Code for aggravated outrage of modesty committed against a child under 14 years of age:
 
@@ -834,32 +835,32 @@ So he took action very quickly, and then got the other two to support him in thi
 
 (iv)   The harm caused to the victim, whether physical or psychological, which would usually be set out in a victim impact statement.
 
-221    While _GBR_ dealt with a case of the outrage of modesty of a child under 14 years of age, the offence-specific factors were equally applicable to an offence of outrage of modesty _simpliciter_ under s 354(1).[\[note: 135\]](#Ftn_135) Based on the offence-specific factors, the offences would be fall into one of three bands:-[\[note: 136\]](#Ftn_136)
+221    While _GBR_ dealt with a case of the outrage of modesty of a child under 14 years of age, the offence-specific factors were equally applicable to an offence of outrage of modesty _simpliciter_ under s 354(1).[^135] Based on the offence-specific factors, the offences would be fall into one of three bands:-[^136]
 
 <table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="17.62%"> <col width="61.94%"> <col width="20.44%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Sentencing Band</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Factors</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Range</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">1</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">This includes cases that do not present any, or at most one, of the offence-specific factors, and typically involves cases that involve a fleeting touch or no skin-to-skin contact, and no intrusion into the victim’s private parts.</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Less than 5 months imprisonment</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">2</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">This includes cases where two or more of the offence-specific factors present themselves. The lower end of the band involves cases where the private parts of the victim are intruded, but there is no skin-on-skin contact. The higher end of the band involves cases where there is skin-on-skin contact with the victim’s private parts. It would also involve cases where there was the use of deception.</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">5 to 15 months’ imprisonment</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="center" class="Table-Para-1">3</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">This includes cases where numerous offence-specific factors present themselves, especially factors such as the exploitation of a particularly vulnerable victim, a serious abuse of a position of trust, and/or the use of violence or force on the victim.</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">15 to 24 months’ imprisonment</p></td></tr></tbody></table>
 
   
   
 
-222    In setting out the sentencing scheme, Chan J reiterated the long-standing position[\[note: 137\]](#Ftn_137) that “the starting point in respect of the imposition of _caning_ is where the outrage of modesty involves the intrusion upon the victim’s private parts or sexual organs.”[\[note: 138\]](#Ftn_138)
+222    In setting out the sentencing scheme, Chan J reiterated the long-standing position[^137] that “the starting point in respect of the imposition of _caning_ is where the outrage of modesty involves the intrusion upon the victim’s private parts or sexual organs.”[^138]
 
 ### Calibrating sentence
 
-223    In the present case, there were at least two offence-specific aggravating factors for each offence. As a counsellor, the accused was in a position of trust, in particular to V2 and V3 whom he counselled. He had offended against vulnerable victims. In this respect, Dr Wong had classified V3 as a “vulnerable youth”.[\[note: 139\]](#Ftn_139) Equally, I considered V2 who was young and needed counselling to be one. V1 was also a vulnerable victim due to his age and the level of maturity he displayed.[\[note: 140\]](#Ftn_140) The offence against V1 was pre-meditated as the accused had asked V1 to go to his office on the pretext of a discussion before molesting him. All the offences therefore fell into sentencing band 2 as they contained at least two aggravating factors.
+223    In the present case, there were at least two offence-specific aggravating factors for each offence. As a counsellor, the accused was in a position of trust, in particular to V2 and V3 whom he counselled. He had offended against vulnerable victims. In this respect, Dr Wong had classified V3 as a “vulnerable youth”.[^139] Equally, I considered V2 who was young and needed counselling to be one. V1 was also a vulnerable victim due to his age and the level of maturity he displayed.[^140] The offence against V1 was pre-meditated as the accused had asked V1 to go to his office on the pretext of a discussion before molesting him. All the offences therefore fell into sentencing band 2 as they contained at least two aggravating factors.
 
 224    For the 1st and 8th charges, there was direct skin-to-skin contact with the genitalia of V1 and V3. There was more than a fleeting touch. These cases would therefore fall at the higher end of sentencing band 2. However, as the harm caused to V1 and V3 did not appear to be that severe, the starting point did not have to be at the very top of the band as was suggested by the prosecution. I was of the view that a term of 12 months’ imprisonment was the appropriate indicative starting point. As the private parts of V1 and V3 had been intruded, it was also appropriate to impose 3 strokes of the cane for each offence.
 
 225    For the 2nd charge, although V2’s genitals were exposed by the accused, no physical contact was made and the accused had just looked at V2’s genitals. Sentence should start at the lowest point of band 2 i.e. 5 months’ imprisonment.
 
-226    For the 3rd charge, V2’s private parts were intruded over his pants, but no skin-to-skin contact was made. The starting point for this offence should be at the lower end of the middle range[\[note: 141\]](#Ftn_141) of sentencing band 2. The appropriate starting point would be 8 months’ imprisonment.
+226    For the 3rd charge, V2’s private parts were intruded over his pants, but no skin-to-skin contact was made. The starting point for this offence should be at the lower end of the middle range[^141] of sentencing band 2. The appropriate starting point would be 8 months’ imprisonment.
 
 227    Lastly, for the 4th charge which involved the accused’s attempt to touch V3 penis through his shorts, by reason of s 511 of the Penal Code, the maximum term of imprisonment would be 1 year’s imprisonment. I placed this offence at the lowest end of sentencing band 2, and imposed a sentence of 5 months’ imprisonment as the starting point.
 
-228    The prosecution submitted that there were offender-specific aggravating factors present. Principally, the prosecution focussed on the conduct of the trial. It said that the accused was totally unremorseful and had “embarked upon an invidious defence unfairly attacking the complainants and police officers involved”. It was said that he had made groundless accusations against various witnesses for concocting evidence and lying, and proceeded on a campaign to assassinate the characters of the complainants, resulting in them having to undergo prolonged, distressing and humiliating cross-examination. The prosecution also alleged that the accused had engaged an “expert” who had come to sweeping conclusions about the complainants and their family members.[\[note: 142\]](#Ftn_142)
+228    The prosecution submitted that there were offender-specific aggravating factors present. Principally, the prosecution focussed on the conduct of the trial. It said that the accused was totally unremorseful and had “embarked upon an invidious defence unfairly attacking the complainants and police officers involved”. It was said that he had made groundless accusations against various witnesses for concocting evidence and lying, and proceeded on a campaign to assassinate the characters of the complainants, resulting in them having to undergo prolonged, distressing and humiliating cross-examination. The prosecution also alleged that the accused had engaged an “expert” who had come to sweeping conclusions about the complainants and their family members.[^142]
 
 229    While I accepted that the conduct of the defence may have been robust, expansive and even overbearing, I could not say that it was such that an upward adjustment of sentence was warranted.
 
-230    I did not find any mitigating factors in the accused’s favour. He displayed no remorse. While he may have been a caring counsellor who went out of his way to ensure the well-being of his students and was well-respected by his peers and colleagues,[\[note: 143\]](#Ftn_143) this would have been negated once he breached the trust reposed of him and molested the students in his care. It was therefore not appropriate for sentence to be adjusted downwards to take into account any mitigating factors.
+230    I did not find any mitigating factors in the accused’s favour. He displayed no remorse. While he may have been a caring counsellor who went out of his way to ensure the well-being of his students and was well-respected by his peers and colleagues,[^143] this would have been negated once he breached the trust reposed of him and molested the students in his care. It was therefore not appropriate for sentence to be adjusted downwards to take into account any mitigating factors.
 
 231    As there were no offender-specific aggravating or mitigating factors which necessitated an adjustment from the initial starting points, I therefore imposed sentence as stated in paragraphs \[224\] - \[227\] above.
 
@@ -875,291 +876,291 @@ Finally, if the accused is certified to be unfit for caning, for example, becaus
 
 * * *
 
-[\[note: 1\]](#Ftn_1_1)NE 29 November 2016, page 105 line 11 to page 106 line 2.
+[^1]: NE 29 November 2016, page 105 line 11 to page 106 line 2.
 
-[\[note: 2\]](#Ftn_2_1)NE 29 November 2016, page 106, lines 4-11.
+[^2]: NE 29 November 2016, page 106, lines 4-11.
 
-[\[note: 3\]](#Ftn_3_1)NE 29 November 2016, pages 90-103.
+[^3]: NE 29 November 2016, pages 90-103.
 
-[\[note: 4\]](#Ftn_4_1)NE 29 November 2016, pages 108-111; page 133, lines 13-25.
+[^4]: NE 29 November 2016, pages 108-111; page 133, lines 13-25.
 
-[\[note: 5\]](#Ftn_5_1)Exhibits P6, P7 and P8 respectively.
+[^5]: Exhibits P6, P7 and P8 respectively.
 
-[\[note: 6\]](#Ftn_6_1)The arrest report is marked Exhibit P1.
+[^6]: The arrest report is marked Exhibit P1.
 
-[\[note: 7\]](#Ftn_7_1)Both the Prosecution and Defence agreed that it was appropriate to apply these dicta for the purposes of considering s 133 of the CPC.
+[^7]: Both the Prosecution and Defence agreed that it was appropriate to apply these dicta for the purposes of considering s 133 of the CPC.
 
-[\[note: 8\]](#Ftn_8_1)See _Lee Kwang Peng v Public Prosecutor_ \[1997\] 2 SLR (R) 569 (_“Lee Kwang Peng”_) and _XP v Public Prosecutor_ (_“XP”_) as examples where joint trials were held when multiple complainants claimed that they had been molested.
+[^8]: See _Lee Kwang Peng v Public Prosecutor_ \[1997\] 2 SLR (R) 569 (_“Lee Kwang Peng”_) and _XP v Public Prosecutor_ (_“XP”_) as examples where joint trials were held when multiple complainants claimed that they had been molested.
 
-[\[note: 9\]](#Ftn_9_1)NE 6 June 2016, page 8, lines 21-23.
+[^9]: NE 6 June 2016, page 8, lines 21-23.
 
-[\[note: 10\]](#Ftn_10_1)NE 6 June 2016, page 7 line 29 to page 8 line 29.
+[^10]: NE 6 June 2016, page 7 line 29 to page 8 line 29.
 
-[\[note: 11\]](#Ftn_11_1)The statement states that it was recorded at 6.21 a.m., but SSG Isa testified that it was a typographical error and that the correct time should be 6.21 p.m.. Nothing turns on this.
+[^11]: The statement states that it was recorded at 6.21 a.m., but SSG Isa testified that it was a typographical error and that the correct time should be 6.21 p.m.. Nothing turns on this.
 
-[\[note: 12\]](#Ftn_12_1)NE 7 June 2016, pages 51-74. I have excluded allegations as to what occurred at the school and on the journey to the police station as these events were too remote.
+[^12]: NE 7 June 2016, pages 51-74. I have excluded allegations as to what occurred at the school and on the journey to the police station as these events were too remote.
 
-[\[note: 13\]](#Ftn_13_1)NE 8 June 2016, page 36, lines 10-24.
+[^13]: NE 8 June 2016, page 36, lines 10-24.
 
-[\[note: 14\]](#Ftn_14_1)Exhibit D8.
+[^14]: Exhibit D8.
 
-[\[note: 15\]](#Ftn_15_1)NE 8 June 2016, page 26, lines 22-28.
+[^15]: NE 8 June 2016, page 26, lines 22-28.
 
-[\[note: 16\]](#Ftn_16_1)NE 8 June 2016, page 59, lines 4-30.
+[^16]: NE 8 June 2016, page 59, lines 4-30.
 
-[\[note: 17\]](#Ftn_17_1)NE 8 June 2016, page 61, lines 16-18.
+[^17]: NE 8 June 2016, page 61, lines 16-18.
 
-[\[note: 18\]](#Ftn_18_1)NE 8 June 2016, page 27, lines 4-6.
+[^18]: NE 8 June 2016, page 27, lines 4-6.
 
-[\[note: 19\]](#Ftn_19_1)NE 8 June 2016, page 30 line 31 to page 31 line 2.
+[^19]: NE 8 June 2016, page 30 line 31 to page 31 line 2.
 
-[\[note: 20\]](#Ftn_20_1)NE 8 June 2016, page 29, lines 6-11.
+[^20]: NE 8 June 2016, page 29, lines 6-11.
 
-[\[note: 21\]](#Ftn_21_1)NE 7 June 2016, page 54, lines 15-20 & 25-27.
+[^21]: NE 7 June 2016, page 54, lines 15-20 & 25-27.
 
-[\[note: 22\]](#Ftn_22_1)NE 6 June 2016, page 51, lines 1-9; page 57, lines 14-21.
+[^22]: NE 6 June 2016, page 51, lines 1-9; page 57, lines 14-21.
 
-[\[note: 23\]](#Ftn_23_1)NE 6 June 2016, page 25, line 2.
+[^23]: NE 6 June 2016, page 25, line 2.
 
-[\[note: 24\]](#Ftn_24_1)NE 6 June 2016, page 32, lines 4-7.
+[^24]: NE 6 June 2016, page 32, lines 4-7.
 
-[\[note: 25\]](#Ftn_25_1)NE 8 June 2016, page 95 line 29 to page 96 line 5.
+[^25]: NE 8 June 2016, page 95 line 29 to page 96 line 5.
 
-[\[note: 26\]](#Ftn_26_1)NE 6 June 2016, page 27, lines 2-7.
+[^26]: NE 6 June 2016, page 27, lines 2-7.
 
-[\[note: 27\]](#Ftn_27_1)The lock-up diary wrongly states this as “lunch” when it should in fact be “dinner”.
+[^27]: The lock-up diary wrongly states this as “lunch” when it should in fact be “dinner”.
 
-[\[note: 28\]](#Ftn_28_1)NE 6 June 2016, page 27, lines 15-18; 7 June 2016, page 39, lines 24-25.
+[^28]: NE 6 June 2016, page 27, lines 15-18; 7 June 2016, page 39, lines 24-25.
 
-[\[note: 29\]](#Ftn_29_1)NE 6 June 2016, page 25 line 27 to page 26 line 14.
+[^29]: NE 6 June 2016, page 25 line 27 to page 26 line 14.
 
-[\[note: 30\]](#Ftn_30_1)NE 7 June 2016, page 56, lines 18-31.
+[^30]: NE 7 June 2016, page 56, lines 18-31.
 
-[\[note: 31\]](#Ftn_31_1)NE 7 June 2016, page 52, lines 7-24.
+[^31]: NE 7 June 2016, page 52, lines 7-24.
 
-[\[note: 32\]](#Ftn_32_1)NE 30 November 2016, pages 4-6.
+[^32]: NE 30 November 2016, pages 4-6.
 
-[\[note: 33\]](#Ftn_33_1)NE 30 November 2016, page 6 line 13 to page 7 line 14.
+[^33]: NE 30 November 2016, page 6 line 13 to page 7 line 14.
 
-[\[note: 34\]](#Ftn_34_1)NE 30 November 2016, page 8 line 8 to page 10 line 6.
+[^34]: NE 30 November 2016, page 8 line 8 to page 10 line 6.
 
-[\[note: 35\]](#Ftn_35_1)NE 30 November 2016, page 10 line 4 to page 12 line 17.
+[^35]: NE 30 November 2016, page 10 line 4 to page 12 line 17.
 
-[\[note: 36\]](#Ftn_36_1)NE 30 November 2016, page 12 line 19 to page 13 line 3.
+[^36]: NE 30 November 2016, page 12 line 19 to page 13 line 3.
 
-[\[note: 37\]](#Ftn_37_1)NE 30 November 2016, page 13 line 12 to page 14 line 12; page 15 line 25 to page 16 line 7.
+[^37]: NE 30 November 2016, page 13 line 12 to page 14 line 12; page 15 line 25 to page 16 line 7.
 
-[\[note: 38\]](#Ftn_38_1)NE 30 November 2016, page 15, lines 5-24.
+[^38]: NE 30 November 2016, page 15, lines 5-24.
 
-[\[note: 39\]](#Ftn_39_1)NE 30 November 2016, page 18 line 23 to page 19 line 19.
+[^39]: NE 30 November 2016, page 18 line 23 to page 19 line 19.
 
-[\[note: 40\]](#Ftn_40_1)NE 28 November 2016, page 7, lines 10-21.
+[^40]: NE 28 November 2016, page 7, lines 10-21.
 
-[\[note: 41\]](#Ftn_41_1)NE 28 November 2016, page 8, lines 6-19.
+[^41]: NE 28 November 2016, page 8, lines 6-19.
 
-[\[note: 42\]](#Ftn_42_1)NE 28 November 2016, page 8 line 21 to page 13 line 23.
+[^42]: NE 28 November 2016, page 8 line 21 to page 13 line 23.
 
-[\[note: 43\]](#Ftn_43_1)NE 28 November 2017, page 14 line 8 to page 20 line 11; page 59 line 20 to page 60 line 3.
+[^43]: NE 28 November 2017, page 14 line 8 to page 20 line 11; page 59 line 20 to page 60 line 3.
 
-[\[note: 44\]](#Ftn_44_1)NE 28 November 2017, page 20 line 19 to page 24 line 11; page 63, lines 15-23.
+[^44]: NE 28 November 2017, page 20 line 19 to page 24 line 11; page 63, lines 15-23.
 
-[\[note: 45\]](#Ftn_45_1)NE 28 November 2016, page 28 line 21 to page 32 line 12.
+[^45]: NE 28 November 2016, page 28 line 21 to page 32 line 12.
 
-[\[note: 46\]](#Ftn_46_1)NE 28 November 2016, page 32 line 16 to page 35 line 15.
+[^46]: NE 28 November 2016, page 32 line 16 to page 35 line 15.
 
-[\[note: 47\]](#Ftn_47_1)NE 5 October 2016, page 21 line 1 to page 22 line 23; page 27, line 23.
+[^47]: NE 5 October 2016, page 21 line 1 to page 22 line 23; page 27, line 23.
 
-[\[note: 48\]](#Ftn_48_1)NE 5 October 2016, page 42 line 14 to page 46 line 12.
+[^48]: NE 5 October 2016, page 42 line 14 to page 46 line 12.
 
-[\[note: 49\]](#Ftn_49_1)NE 5 October 2016, page 47, line 3.
+[^49]: NE 5 October 2016, page 47, line 3.
 
-[\[note: 50\]](#Ftn_50_1)NE 5 October 2016, page 53 line 2 to page 55 line 18.
+[^50]: NE 5 October 2016, page 53 line 2 to page 55 line 18.
 
-[\[note: 51\]](#Ftn_51_1)NE 5 October 2016, page 55 line 19 to page 59 line 24.
+[^51]: NE 5 October 2016, page 55 line 19 to page 59 line 24.
 
-[\[note: 52\]](#Ftn_52_1)Skeletal submissions of no case to answer at \[3(c)\]. Any rulings on discrepancies at that juncture were solely for the purpose of allowing the defence to apply for the statements of the complainants for impeaching their credit and cross-examining them. See also Prosecution’s reply submissions at close of trial at \[74\] & \[75\] which sets out the correct position.
+[^52]: Skeletal submissions of no case to answer at \[3(c)\]. Any rulings on discrepancies at that juncture were solely for the purpose of allowing the defence to apply for the statements of the complainants for impeaching their credit and cross-examining them. See also Prosecution’s reply submissions at close of trial at \[74\] & \[75\] which sets out the correct position.
 
-[\[note: 53\]](#Ftn_53_1)Skeletal submissions of no case to answer at \[3(b)\].
+[^53]: Skeletal submissions of no case to answer at \[3(b)\].
 
-[\[note: 54\]](#Ftn_54_1)Skeletal submission of no case to answer at \[3(a)\].
+[^54]: Skeletal submission of no case to answer at \[3(a)\].
 
-[\[note: 55\]](#Ftn_55_1)NE 7 March 2017, page 41 line 4 to page 42 line 20.
+[^55]: NE 7 March 2017, page 41 line 4 to page 42 line 20.
 
-[\[note: 56\]](#Ftn_56_1)NE 7 March 2017, page 105 line 12 to page 106 line 15; page 108, lines 9-11.
+[^56]: NE 7 March 2017, page 105 line 12 to page 106 line 15; page 108, lines 9-11.
 
-[\[note: 57\]](#Ftn_57_1)NE 7 March 2017, page 112, lines 5-8.
+[^57]: NE 7 March 2017, page 112, lines 5-8.
 
-[\[note: 58\]](#Ftn_58_1)NE 7 March 2017, page 57, lines 14-15; page 62, lines 21-25; page 73, lines 1-4; page 78, lines 20-22; page 82, lines 3-9.
+[^58]: NE 7 March 2017, page 57, lines 14-15; page 62, lines 21-25; page 73, lines 1-4; page 78, lines 20-22; page 82, lines 3-9.
 
-[\[note: 59\]](#Ftn_59_1)NE 25 May 2017, page 6, lines 15-23.
+[^59]: NE 25 May 2017, page 6, lines 15-23.
 
-[\[note: 60\]](#Ftn_60_1)NE 25 May 2017, page 7, lines 11-21.
+[^60]: NE 25 May 2017, page 7, lines 11-21.
 
-[\[note: 61\]](#Ftn_61_1)_AOF v Public Prosecutor_ , Andrew Phang Boon Leong, JA at \[111\].
+[^61]: _AOF v Public Prosecutor_ , Andrew Phang Boon Leong, JA at \[111\].
 
-[\[note: 62\]](#Ftn_62_1)_Khoo Kwoon Hain v Public Prosecutor_ .
+[^62]: _Khoo Kwoon Hain v Public Prosecutor_ .
 
-[\[note: 63\]](#Ftn_63_1)_Lee Kwang Peng_ at \[43\].
+[^63]: _Lee Kwang Peng_ at \[43\].
 
-[\[note: 64\]](#Ftn_64_1)Prosecution’s supplemental submissions at close of trial at \[135\].
+[^64]: Prosecution’s supplemental submissions at close of trial at \[135\].
 
-[\[note: 65\]](#Ftn_65_1)Prosecution’s submissions at close of trial at \[28\].
+[^65]: Prosecution’s submissions at close of trial at \[28\].
 
-[\[note: 66\]](#Ftn_66_1)NE 7 June 2016, page 6, lines 2-8.
+[^66]: NE 7 June 2016, page 6, lines 2-8.
 
-[\[note: 67\]](#Ftn_67_1)NE 7 June 2016, page 52, lines 8-12.
+[^67]: NE 7 June 2016, page 52, lines 8-12.
 
-[\[note: 68\]](#Ftn_68_1)Accused’s closing submissions \[63\]-\[68\].
+[^68]: Accused’s closing submissions \[63\]-\[68\].
 
-[\[note: 69\]](#Ftn_69_1)Accused’s closing submissions \[57\]-\[62\].
+[^69]: Accused’s closing submissions \[57\]-\[62\].
 
-[\[note: 70\]](#Ftn_70_1)Accused’s closing submissions \[69\]-\[72\].
+[^70]: Accused’s closing submissions \[69\]-\[72\].
 
-[\[note: 71\]](#Ftn_71_1)NE 30 November 2016, page 92 line 13 to page 93 line 3.
+[^71]: NE 30 November 2016, page 92 line 13 to page 93 line 3.
 
-[\[note: 72\]](#Ftn_72_1)Accused closing submissions \[86\] & \[112\]; Accused’s supplemental reply submissions.
+[^72]: Accused closing submissions \[86\] & \[112\]; Accused’s supplemental reply submissions.
 
-[\[note: 73\]](#Ftn_73_1)NE 30 November 2016, page 95 line 11 to page 96 line 8.
+[^73]: NE 30 November 2016, page 95 line 11 to page 96 line 8.
 
-[\[note: 74\]](#Ftn_74_1)NE 30 November 2016, page 144 line 1 to page 145 line 11.
+[^74]: NE 30 November 2016, page 144 line 1 to page 145 line 11.
 
-[\[note: 75\]](#Ftn_75_1)Accused’s closing submissions \[87\]-\[92\].
+[^75]: Accused’s closing submissions \[87\]-\[92\].
 
-[\[note: 76\]](#Ftn_76_1)NE 30 November 2016, page 6, lines 21-25.
+[^76]: NE 30 November 2016, page 6, lines 21-25.
 
-[\[note: 77\]](#Ftn_77_1)The defence alleged that the preliminary examinations commenced on 12 August 2013.
+[^77]: The defence alleged that the preliminary examinations commenced on 12 August 2013.
 
-[\[note: 78\]](#Ftn_78_1)Accused’s closing submissions at \[92\].
+[^78]: Accused’s closing submissions at \[92\].
 
-[\[note: 79\]](#Ftn_79_1)Accused’s closing submissions \[93\]-\[98\].
+[^79]: Accused’s closing submissions \[93\]-\[98\].
 
-[\[note: 80\]](#Ftn_80_1)NE 30 November 2016, page 11, lines 11-12.
+[^80]: NE 30 November 2016, page 11, lines 11-12.
 
-[\[note: 81\]](#Ftn_81_1)NE 30 November 2016, page 12, line 13.
+[^81]: NE 30 November 2016, page 12, line 13.
 
-[\[note: 82\]](#Ftn_82_1)Accused closing submissions \[128\]-\[131\].
+[^82]: Accused closing submissions \[128\]-\[131\].
 
-[\[note: 83\]](#Ftn_83_1)Exhibit D13 at \[25\].
+[^83]: Exhibit D13 at \[25\].
 
-[\[note: 84\]](#Ftn_84_1)Prosecution’s reply submissions at the close of trial.
+[^84]: Prosecution’s reply submissions at the close of trial.
 
-[\[note: 85\]](#Ftn_85_1)Exhibit P36 at \[18\].
+[^85]: Exhibit P36 at \[18\].
 
-[\[note: 86\]](#Ftn_86_1)Accused closing submissions \[265\]-\[269\]. As the analysis of the issue has been dealt with here, it will not be repeated when dealing with the evidence relating to the 8th charge.
+[^86]: Accused closing submissions \[265\]-\[269\]. As the analysis of the issue has been dealt with here, it will not be repeated when dealing with the evidence relating to the 8th charge.
 
-[\[note: 87\]](#Ftn_87_1)Accused closing submissions page 40.
+[^87]: Accused closing submissions page 40.
 
-[\[note: 88\]](#Ftn_88_1)Accused’s closing submissions at \[196\]. As the analysis of the issue has been dealt with here, it will not be repeated when dealing with the evidence relating to the 2nd charge.
+[^88]: Accused’s closing submissions at \[196\]. As the analysis of the issue has been dealt with here, it will not be repeated when dealing with the evidence relating to the 2nd charge.
 
-[\[note: 89\]](#Ftn_89_1)NE 28 November 2017, page 24, line 17.
+[^89]: NE 28 November 2017, page 24, line 17.
 
-[\[note: 90\]](#Ftn_90_1)Accused’s closing submissions \[175\]-\[180\].
+[^90]: Accused’s closing submissions \[175\]-\[180\].
 
-[\[note: 91\]](#Ftn_91_1)As the 3rd charge was directly corroborated by Exhibit P3, I did not see the need to rely on similar fact evidence, although it would have been applicable.
+[^91]: As the 3rd charge was directly corroborated by Exhibit P3, I did not see the need to rely on similar fact evidence, although it would have been applicable.
 
-[\[note: 92\]](#Ftn_92_1)See Accused’s closing submissions at \[213\].
+[^92]: See Accused’s closing submissions at \[213\].
 
-[\[note: 93\]](#Ftn_93_1)Accused’s closing submissions \[181\]-\[186\].
+[^93]: Accused’s closing submissions \[181\]-\[186\].
 
-[\[note: 94\]](#Ftn_94_1)Accused’s closing submissions \[321\]-\[322\].
+[^94]: Accused’s closing submissions \[321\]-\[322\].
 
-[\[note: 95\]](#Ftn_95_1)Accused’s closing submissions \[340\]-\[347\].
+[^95]: Accused’s closing submissions \[340\]-\[347\].
 
-[\[note: 96\]](#Ftn_96_1)As the 4th charge was directly corroborated by Exhibit P3, I did not see the need to rely on similar fact evidence, although it would have been applicable.
+[^96]: As the 4th charge was directly corroborated by Exhibit P3, I did not see the need to rely on similar fact evidence, although it would have been applicable.
 
-[\[note: 97\]](#Ftn_97_1)Accused’s closing submissions \[197\]-\[202\]. Opinion of Dr Wong Sze Tai (Exhibit D36).
+[^97]: Accused’s closing submissions \[197\]-\[202\]. Opinion of Dr Wong Sze Tai (Exhibit D36).
 
-[\[note: 98\]](#Ftn_98_1)Exhibit P36 at page 16.
+[^98]: Exhibit P36 at page 16.
 
-[\[note: 99\]](#Ftn_99_1)This issue is further discussed within the topic of collusion, below.
+[^99]: This issue is further discussed within the topic of collusion, below.
 
-[\[note: 100\]](#Ftn_100_1)NE 7 March 2017, page 114 line 17 to page 115 line 5.
+[^100]: NE 7 March 2017, page 114 line 17 to page 115 line 5.
 
-[\[note: 101\]](#Ftn_101_1)NE 25 May 2017, page 58, lines 8-20.
+[^101]: NE 25 May 2017, page 58, lines 8-20.
 
-[\[note: 102\]](#Ftn_102_1)Exhibit D16.
+[^102]: Exhibit D16.
 
-[\[note: 103\]](#Ftn_103_1)Exhibits D20 & D21.
+[^103]: Exhibits D20 & D21.
 
-[\[note: 104\]](#Ftn_104_1)Exhibit D36 \[33\]-\[34\]. Despite raising this as a possibility, Dr Wong did not consider its application in relation to V2 and V3.
+[^104]: Exhibit D36 \[33\]-\[34\]. Despite raising this as a possibility, Dr Wong did not consider its application in relation to V2 and V3.
 
-[\[note: 105\]](#Ftn_105_1)Accused’s closing submissions at \[230\].
+[^105]: Accused’s closing submissions at \[230\].
 
-[\[note: 106\]](#Ftn_106_1)Accused’s closing submissions \[248\]-\[249\].
+[^106]: Accused’s closing submissions \[248\]-\[249\].
 
-[\[note: 107\]](#Ftn_107_1)NE 5 October 2016, page 124, lines 1-3; page 125, lines 12-13.
+[^107]: NE 5 October 2016, page 124, lines 1-3; page 125, lines 12-13.
 
-[\[note: 108\]](#Ftn_108_1)Accused’s closing submissions \[245\]-\[247\].
+[^108]: Accused’s closing submissions \[245\]-\[247\].
 
-[\[note: 109\]](#Ftn_109_1)Accused’s closing submissions \[241\]-\[244\].
+[^109]: Accused’s closing submissions \[241\]-\[244\].
 
-[\[note: 110\]](#Ftn_110_1)If it was necessary, I would have been prepared to amend the charge.
+[^110]: If it was necessary, I would have been prepared to amend the charge.
 
-[\[note: 111\]](#Ftn_111_1)Accused’s closing submissions \[270\]-\[277\].
+[^111]: Accused’s closing submissions \[270\]-\[277\].
 
-[\[note: 112\]](#Ftn_112_1)NE 5 October 2016, page 87, lines 8-12.
+[^112]: NE 5 October 2016, page 87, lines 8-12.
 
-[\[note: 113\]](#Ftn_113_1)NE 6 October 2016, page 31, lines 2-12.
+[^113]: NE 6 October 2016, page 31, lines 2-12.
 
-[\[note: 114\]](#Ftn_114_1)NE 7 March 2017, page 92 line 22 to page 96 line 7, page 97, lines 1-9; page 97 line 10 to page 98 line 14.
+[^114]: NE 7 March 2017, page 92 line 22 to page 96 line 7, page 97, lines 1-9; page 97 line 10 to page 98 line 14.
 
-[\[note: 115\]](#Ftn_115_1)NE 7 March 2017, page 93 line 21 to page 94 line 3.
+[^115]: NE 7 March 2017, page 93 line 21 to page 94 line 3.
 
-[\[note: 116\]](#Ftn_116_1)NE 8 March 2017, page 53 line 10 to page 54 line 9.
+[^116]: NE 8 March 2017, page 53 line 10 to page 54 line 9.
 
-[\[note: 117\]](#Ftn_117_1)NE 8 March 2017, page 52 line 20 to page 54 line 1.
+[^117]: NE 8 March 2017, page 52 line 20 to page 54 line 1.
 
-[\[note: 118\]](#Ftn_118_1)NE 8 March 2017, page 5, line 2.
+[^118]: NE 8 March 2017, page 5, line 2.
 
-[\[note: 119\]](#Ftn_119_1)Accused’s closing submissions \[255\]-\[256\]; NE 6 October 2016, page 64 lines 14-19; page 65 lines 6-10.
+[^119]: Accused’s closing submissions \[255\]-\[256\]; NE 6 October 2016, page 64 lines 14-19; page 65 lines 6-10.
 
-[\[note: 120\]](#Ftn_120_1)Exhibit D33.
+[^120]: Exhibit D33.
 
-[\[note: 121\]](#Ftn_121_1)NE 5 October 2016, page 53, lines 16-17.
+[^121]: NE 5 October 2016, page 53, lines 16-17.
 
-[\[note: 122\]](#Ftn_122_1)NE 5 October 2016, page 58, lines 7-8.
+[^122]: NE 5 October 2016, page 58, lines 7-8.
 
-[\[note: 123\]](#Ftn_123_1)NE 5 October 2016, page 58 line 23 to page 59 line 4.
+[^123]: NE 5 October 2016, page 58 line 23 to page 59 line 4.
 
-[\[note: 124\]](#Ftn_124_1)NE 30 June 2017, page 18, lines 1-2.
+[^124]: NE 30 June 2017, page 18, lines 1-2.
 
-[\[note: 125\]](#Ftn_125_1)Exhibit D36 at \[53(g)\].
+[^125]: Exhibit D36 at \[53(g)\].
 
-[\[note: 126\]](#Ftn_126_1)NE 30 June 2017, page 23 line 15 to page 24 line 7.
+[^126]: NE 30 June 2017, page 23 line 15 to page 24 line 7.
 
-[\[note: 127\]](#Ftn_127_1)If the defence had applied for Dr Wong to observe the testimony of the complainants, permission would have been granted even though proceedings were in camera.
+[^127]: If the defence had applied for Dr Wong to observe the testimony of the complainants, permission would have been granted even though proceedings were in camera.
 
-[\[note: 128\]](#Ftn_128_1)NE 30 June 2017, page 56, lines 21-32; page 58, lines 21-30.
+[^128]: NE 30 June 2017, page 56, lines 21-32; page 58, lines 21-30.
 
-[\[note: 129\]](#Ftn_129_1)NE 30 June 2017, page 18, lines 25-32.
+[^129]: NE 30 June 2017, page 18, lines 25-32.
 
-[\[note: 130\]](#Ftn_130_1)NE 29 November 2016, page 91 line 10 to page 92 line 2.
+[^130]: NE 29 November 2016, page 91 line 10 to page 92 line 2.
 
-[\[note: 131\]](#Ftn_131_1)I rejected the accused’s bare allegation that V2 had persisted on this issue.
+[^131]: I rejected the accused’s bare allegation that V2 had persisted on this issue.
 
-[\[note: 132\]](#Ftn_132_1)Prosecution’s supplemental submissions at the close of trial at \[130\].
+[^132]: Prosecution’s supplemental submissions at the close of trial at \[130\].
 
-[\[note: 133\]](#Ftn_133_1)NE 5 October 2016, page 112 line 20 to page 113 line 9.
+[^133]: NE 5 October 2016, page 112 line 20 to page 113 line 9.
 
-[\[note: 134\]](#Ftn_134_1)_Kunasekaran_ at \[48\].
+[^134]: _Kunasekaran_ at \[48\].
 
-[\[note: 135\]](#Ftn_135_1)_Kunasekaran_ at \[48\].
+[^135]: _Kunasekaran_ at \[48\].
 
-[\[note: 136\]](#Ftn_136_1)The table is reproduced (modified slightly) from the Prosecution’s skeletal submissions on sentence at \[3\]. This is based on \[45\] and \[49\] of _Kunasekaran_.
+[^136]: The table is reproduced (modified slightly) from the Prosecution’s skeletal submissions on sentence at \[3\]. This is based on \[45\] and \[49\] of _Kunasekaran_.
 
-[\[note: 137\]](#Ftn_137_1)_Public Prosecutor v Chow Yee Sze_ .
+[^137]: _Public Prosecutor v Chow Yee Sze_ .
 
-[\[note: 138\]](#Ftn_138_1)_Kunasekaran_ at \[50\].
+[^138]: _Kunasekaran_ at \[50\].
 
-[\[note: 139\]](#Ftn_139_1)Exhibit D36 at \[54\].
+[^139]: Exhibit D36 at \[54\].
 
-[\[note: 140\]](#Ftn_140_1)See for example, NE 30 November 2016, page 43 line 1 to page 45 line 14. When V3 was asked why his female friend would feel awkward about going into a room with the accused and him, he suggested that she might think that she would be threatened, raped etc.
+[^140]: See for example, NE 30 November 2016, page 43 line 1 to page 45 line 14. When V3 was asked why his female friend would feel awkward about going into a room with the accused and him, he suggested that she might think that she would be threatened, raped etc.
 
-[\[note: 141\]](#Ftn_141_1)I took the middle range of sentencing band 2 to be 8-12 months’ imprisonment.
+[^141]: I took the middle range of sentencing band 2 to be 8-12 months’ imprisonment.
 
-[\[note: 142\]](#Ftn_142_1)Prosecutions skeletal submissions on sentence \[23\]-\[24\].
+[^142]: Prosecutions skeletal submissions on sentence \[23\]-\[24\].
 
-[\[note: 143\]](#Ftn_143_1)Accused’s plea-in-mitigation \[37\]-\[50\].
+[^143]: Accused’s plea-in-mitigation \[37\]-\[50\].
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F23052-SSP.xml)

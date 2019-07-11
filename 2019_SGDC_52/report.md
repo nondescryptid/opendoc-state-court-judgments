@@ -1,3 +1,4 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
 # Public Prosecutor _v_ Tan Hang Song  
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">ACRA Summons No. 000138-2017 &amp; Others</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">19 March 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Chay Yuen Fatt</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Kung Yong Jin Kenny (ACRA) for the Public Prosecutor; Daniel Chia and Christine Ong (Coleman Street Chambers LLC) for the accused</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Tan Hang Song</td></tr></tbody></table>
@@ -26,7 +27,7 @@ Failing to file AR
 
 You…on or around 24 December 2016, in Singapore, being a director of Faxlink Trading Pte Ltd (198903432W) (“the Company”), a company incorporated in Singapore, did knowingly and wilfully permit the Company to fail to lodge an annual return as required under section 197(1) of the Companies Act, to wit, you permitted the Company to fail to lodge its annual return by 24 December 2016, the Company thereby contravened section 197(6) of the Companies Act (Chapter 50, 2006 Revised Edition) (“the Act”), and you have thereby committed an offence punishable under section 197(6) of the Act read with section 408(3)(b) of the Act.
 
-4       For the charges for failing to file an AR, it is also pointed out by the prosecution[\[note: 1\]](#Ftn_1) that the Companies (Amendment) Act 2014 amended the timeframe for filing an AR from within one month of the date of the AGM to within 30 days. Further, for offences committed before 3 January 2016, the offence section number is s 197(7) whereas for offences committed on or after that date, the offence section number is s 197(6).
+4       For the charges for failing to file an AR, it is also pointed out by the prosecution[^1] that the Companies (Amendment) Act 2014 amended the timeframe for filing an AR from within one month of the date of the AGM to within 30 days. Further, for offences committed before 3 January 2016, the offence section number is s 197(7) whereas for offences committed on or after that date, the offence section number is s 197(6).
 
 5       For completeness, I point out that the reference in the charges to s 408(3)(b) of the Act provides for a default penalty in respect of a continuing offence. However, the issue of any continuing offence was not pursued by the prosecution in the present case.
 
@@ -34,30 +35,30 @@ You…on or around 24 December 2016, in Singapore, being a director of Faxlink T
 
 6       The facts are largely undisputed. The accused holds an accountancy degree and is a qualified chartered accountant in Singapore. He is also the general manager and director of Asian Corporate Service (SEA) Pte Ltd (‘ACS’), a company providing corporate secretarial services. He has been the general manager of ACS for 15 years from April 2004. At all material times, ACS is a registered filing agent (‘RFA’) and the accused is the authorised person to carry out electronic transactions with the Accounting and Corporate Regulatory Authority (‘ACRA’) on behalf of ACS.
 
-7       It is not disputed that the accused is a director of some 39 companies and was first appointed as a director of a company as far back as 2001. In short, the accused has been in this business for some 20 years. In respect of the charges and at all material times, it is not in dispute that the accused was the sole local director of the nine companies. I set out the material particulars of the accused’s directorship as provided by the prosecution in a table[\[note: 2\]](#Ftn_2):
+7       It is not disputed that the accused is a director of some 39 companies and was first appointed as a director of a company as far back as 2001. In short, the accused has been in this business for some 20 years. In respect of the charges and at all material times, it is not in dispute that the accused was the sole local director of the nine companies. I set out the material particulars of the accused’s directorship as provided by the prosecution in a table[^2]:
 
 <table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="16.7063373995835%"> <col width="33.7845879202618%"> <col width="24.7545373400774%"> <col width="24.7545373400774%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">S/No.</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Company Name &amp; Registration Number</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Date accused appointed as director</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Status of Company</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">1</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Faxlink Trading Pte Ltd</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">09 November 2004</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Live</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">2</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Oliver Wight Asia Pacific (Singapore) Pte Ltd</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">14 June 2004</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Live</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">3</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Rothesay Pte Ltd</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">11 November 2004</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Live</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">4</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">SQR Solutions Pte Ltd</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">05 December 2006</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Live</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">5</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Hawkesbury Pte Ltd</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">01 October 2004</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Live</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">6</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">JCF Investment Group Pte Ltd</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">4 June 2004</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Live</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">7</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Maro Pte Ltd</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">23 May 2006</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Struck off on 4 June 2018</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">8</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Solutions Center Pte Ltd</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">25 May 2006</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Struck off on 4 June 2018</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="center" class="Table-Para-1">9</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Gannon Power Pte Ltd</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">30 March 2007</p></td><td align="left" class="" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Live</p></td></tr></tbody></table>
 
   
   
 
-8       It is not in dispute that the companies in question did not hold an AGM or file an AR within the material dates as reflected in the charges. The deadlines that were breached span a number of years between 2011 to 2017 and are comprehensively set out in the conditioned statement[\[note: 3\]](#Ftn_3) of the representative of ACRA[\[note: 4\]](#Ftn_4) who gave evidence for the prosecution.
+8       It is not in dispute that the companies in question did not hold an AGM or file an AR within the material dates as reflected in the charges. The deadlines that were breached span a number of years between 2011 to 2017 and are comprehensively set out in the conditioned statement[^3] of the representative of ACRA[^4] who gave evidence for the prosecution.
 
 9       It is also undisputed that the accused did not apply to ACRA for an extension of time to comply with the statutory requirements in respect of any of the charges. Apart from two letters from the accused or his lawyers to explain the circumstances in respect of one of the companies named in the charges, he did not inform ACRA of any difficulties in holding the AGMs or filing the ARs in respect of the remaining companies. The accused also did not make any representations in respect of the charges before the summonses were issued against him to answer the charges.
 
 10     The prosecution also relied on the following concessions by the accused in respect of the charges:
 
-(i)     That he did not issue a notice to call for the AGM to be held;[\[note: 5\]](#Ftn_5)
+(i)     That he did not issue a notice to call for the AGM to be held;[^5]
 
-(ii)     That he did not apply for an extension of time to hold any of the AGMs;[\[note: 6\]](#Ftn_6)
+(ii)     That he did not apply for an extension of time to hold any of the AGMs;[^6]
 
-(iii)     That he did not apply to dispense with holding the AGMs under s 175A of the Act;[\[note: 7\]](#Ftn_7)
+(iii)     That he did not apply to dispense with holding the AGMs under s 175A of the Act;[^7]
 
-(iv)     That he was aware of the avenue of[\[note: 8\]](#Ftn_8) but did not make any application to ACRA to file the ARs even though an AGM could not be held due to a variety of reasons including the lack of a quorum and/or where two directors signatures could not be obtained;[\[note: 9\]](#Ftn_9)and
+(iv)     That he was aware of the avenue of[^8] but did not make any application to ACRA to file the ARs even though an AGM could not be held due to a variety of reasons including the lack of a quorum and/or where two directors signatures could not be obtained;[^9]and
 
-(v)     That he did not make any applications to the High Court concerning the holding of any AGM or for an order to hold an AGM because of any difficulty.[\[note: 10\]](#Ftn_10)
+(v)     That he did not make any applications to the High Court concerning the holding of any AGM or for an order to hold an AGM because of any difficulty.[^10]
 
-11     Finally, it is not in dispute that ACRA had sent the accused reminders to hold the AGM and file the AR before the due dates in respect of the companies.[\[note: 11\]](#Ftn_11)
+11     Finally, it is not in dispute that ACRA had sent the accused reminders to hold the AGM and file the AR before the due dates in respect of the companies.[^11]
 
 ## The Defence
 
@@ -65,7 +66,7 @@ You…on or around 24 December 2016, in Singapore, being a director of Faxlink T
 
 13     The accused testified that he was only a nominee director of the companies in question, being appointed to comply with s 145(1) of the Act which mandates that every company shall have at least one director who is ordinarily resident in Singapore. He is also the sole director who is resident in Singapore.
 
-14     Essentially, the accused’s defence is that he had difficulties either contacting the foreign directors and shareholders of the companies or getting them to sign or provide him with the necessary documents and accounts in order to hold an AGM and file the AR within the statutory time frame after the AGM. Therefore, despite all his efforts and due diligence, he was unable to hold the AGM or file the AR in respect of the companies within the statutory time frames. In this regard, the prosecution has summarised the steps the accused took, and the reasons or causes which led to the statutory breaches, in the form of a table.[\[note: 12\]](#Ftn_12) As these facts are not in dispute, I will adopt and set out the summary as follows:
+14     Essentially, the accused’s defence is that he had difficulties either contacting the foreign directors and shareholders of the companies or getting them to sign or provide him with the necessary documents and accounts in order to hold an AGM and file the AR within the statutory time frame after the AGM. Therefore, despite all his efforts and due diligence, he was unable to hold the AGM or file the AR in respect of the companies within the statutory time frames. In this regard, the prosecution has summarised the steps the accused took, and the reasons or causes which led to the statutory breaches, in the form of a table.[^12] As these facts are not in dispute, I will adopt and set out the summary as follows:
 
 <table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="8.54%"> <col width="18.24%"> <col width="23.62%"> <col width="31.94%"> <col width="17.66%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">S/No</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Company Name &amp; Registration Number</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Reasons for breaches</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Date accused lost contact with Directors/Shareholders</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Date of 1st breach of s. 175 CA</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">1</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Faxlink Trading Pte Ltd</p><p align="justify" class="Table-Para-1">&nbsp;</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Domestic family dispute between shareholders preventing holding of AGM<span class="FootnoteRef"><a href="#Ftn_13" id="Ftn_13_1"><sup>[note: 13]</sup></a></span></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Did not lose contact<span class="FootnoteRef"><a href="#Ftn_14" id="Ftn_14_1"><sup>[note: 14]</sup></a></span></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1">24/11/2016</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">2</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Oliver Wight Asia Pacific (S) Pte Ltd</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">“Client” had disappeared ie Mr Gly Williams<span class="FootnoteRef"><a href="#Ftn_15" id="Ftn_15_1"><sup>[note: 15]</sup></a></span></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">30/04/ 2009<span class="FootnoteRef"><a href="#Ftn_16" id="Ftn_16_1"><sup>[note: 16]</sup></a></span></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1">04/05/2015</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">3</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Rothesay Pte Ltd</p><p align="justify" class="Table-Para-1">&nbsp;</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">“Clients” are in Taiwan – “not very co-operative” – there were “accounting issues” <span class="FootnoteRef"><a href="#Ftn_17" id="Ftn_17_1"><sup>[note: 17]</sup></a></span></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Did not lose contact<span class="FootnoteRef"><a href="#Ftn_18" id="Ftn_18_1"><sup>[note: 18]</sup></a></span></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1">31/12/2014</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">4</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">SQR Solutions Pte Ltd</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">“Client abandoned Us” – did not respond to correspondence and request to get the affairs of the company up to date” - was informed that the “principal” had discontinued business<span class="FootnoteRef"><a href="#Ftn_19" id="Ftn_19_1"><sup>[note: 19]</sup></a></span></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">7 September 2012<span class="FootnoteRef"><a href="#Ftn_20" id="Ftn_20_1"><sup>[note: 20]</sup></a></span></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1">31/12/2014</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">5</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Hawkesbury Pte Ltd</p><p align="justify" class="Table-Para-1">&nbsp;</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Uncooperative “client” – asked for information to confirm and complete the accounts but client not co-operative<span class="FootnoteRef"><a href="#Ftn_21" id="Ftn_21_1"><sup>[note: 21]</sup></a></span></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Did not lose contact<span class="FootnoteRef"><a href="#Ftn_22" id="Ftn_22_1"><sup>[note: 22]</sup></a></span></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1">31/12/2016</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">6</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">JCF Investment Group Pte. Ltd.</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Missing information regarding the accounts and when “client” responded they did not provide information <span class="FootnoteRef"><a href="#Ftn_23" id="Ftn_23_1"><sup>[note: 23]</sup></a></span></p><p align="center" class="Table-Para-1">“JCF is more a issue of them not being able to provide us with information about creditors and how we should distinguish the creditors”<span class="FootnoteRef"><a href="#Ftn_24" id="Ftn_24_1"><sup>[note: 24]</sup></a></span></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Lost contact in March 2016</p><p align="center" class="Table-Para-1">(but resumed contact March 2017)<span class="FootnoteRef"><a href="#Ftn_25" id="Ftn_25_1"><sup>[note: 25]</sup></a></span></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1">15/11/2014</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">7</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Maro Pte. Ltd</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">“Clients” did not respond to accused’s correspondence<span class="FootnoteRef"><a href="#Ftn_26" id="Ftn_26_1"><sup>[note: 26]</sup></a></span></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">30/05/2013<span class="FootnoteRef"><a href="#Ftn_27" id="Ftn_27_1"><sup>[note: 27]</sup></a></span></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1">31/12/2013</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">8</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Solutions Center Pte Ltd</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Lost contact with shareholders and directors<span class="FootnoteRef"><a href="#Ftn_28" id="Ftn_28_1"><sup>[note: 28]</sup></a></span></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">30/05/2013<span class="FootnoteRef"><a href="#Ftn_29" id="Ftn_29_1"><sup>[note: 29]</sup></a></span></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1">31/12/2013</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="center" class="Table-Para-1">9</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Gannon Power Pte Ltd</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Lost contact with shareholders<span class="FootnoteRef"><a href="#Ftn_30" id="Ftn_30_1"><sup>[note: 30]</sup></a></span></p><p align="center" class="Table-Para-1">Non-cooperative regarding proposed</p><p align="center" class="Table-Para-1">striking off the company<span class="FootnoteRef"><a href="#Ftn_31" id="Ftn_31_1"><sup>[note: 31]</sup></a></span></p></td><td align="left" class="r" rowspan="1" valign="top"><p align="center" class="Table-Para-1">10/08/2012<span class="FootnoteRef"><a href="#Ftn_32" id="Ftn_32_1"><sup>[note: 32]</sup></a></span></p></td><td align="left" class="" rowspan="1" valign="top"><p align="center" class="Table-Para-1">09/09/2011</p></td></tr></tbody></table>
 
@@ -74,15 +75,15 @@ You…on or around 24 December 2016, in Singapore, being a director of Faxlink T
 
 15     As emphasised by the shaded boxes, the accused did not lose contact with the foreign directors of three of the companies.
 
-16     The defence also relied on the fact that the accused wrote to ACRA on 10 August 2012[\[note: 33\]](#Ftn_33) and on 23 September 2013[\[note: 34\]](#Ftn_34) (through his lawyers) to explain that he was only the nominee director in respect of one of the companies (Oliver Wight Asia Pacific (Singapore) Pte Ltd, and that he has difficulties contacting the controlling director of the company (who resides overseas) to provide the necessary documents in order to file the AR or hold the AGM. The accused represented that the controlling director has, in effect, abandoned the company which is dormant.
+16     The defence also relied on the fact that the accused wrote to ACRA on 10 August 2012[^33] and on 23 September 2013[^34] (through his lawyers) to explain that he was only the nominee director in respect of one of the companies (Oliver Wight Asia Pacific (Singapore) Pte Ltd, and that he has difficulties contacting the controlling director of the company (who resides overseas) to provide the necessary documents in order to file the AR or hold the AGM. The accused represented that the controlling director has, in effect, abandoned the company which is dormant.
 
 17     ACRA replied essentially that it is not in a position to interfere with the internal disputes of the company and advised the accused that if the company is indeed dormant, he should take steps to strike off the name of the company from ACRA’s registers. ACRA enclosed references to the guidelines on an application for striking off a company. Once that is done, the accused may have the charges compounded.
 
 18     The accused testified that he did not find ACRA’s advice useful because it is the case for the defence that the accused was not in a position to apply to ACRA to deregister the companies.
 
-19     In summary, the accused’s defence is that he could not give notice to hold an AGM because the foreign directors and shareholders were either non-contactable or had failed to provide (despite repeated pleas and reminders from the accused) the accounting records and critical documents which are necessary to hold an AGM and thereafter to file the AR.[\[note: 35\]](#Ftn_35)
+19     In summary, the accused’s defence is that he could not give notice to hold an AGM because the foreign directors and shareholders were either non-contactable or had failed to provide (despite repeated pleas and reminders from the accused) the accounting records and critical documents which are necessary to hold an AGM and thereafter to file the AR.[^35]
 
-20     The accused also took the position that he did not or was not given the go-ahead by the foreign directors and shareholders to strike off the companies.[\[note: 36\]](#Ftn_36) Further, to do so would render him in breach of his fiduciary duties as a director and contractual duties as a corporate services provider.
+20     The accused also took the position that he did not or was not given the go-ahead by the foreign directors and shareholders to strike off the companies.[^36] Further, to do so would render him in breach of his fiduciary duties as a director and contractual duties as a corporate services provider.
 
 ## The Court’s Findings and Decision
 
@@ -124,27 +125,27 @@ As pointed out earlier, if the failure to file an AR was committed before 3 Janu
 
 ### Main issue
 
-26     The defence does not dispute[\[note: 37\]](#Ftn_37) and I find that the _actus reus_ in respect of all the charges is made out i.e. that the AGMs were not held and the ARs were not filed within the dates as mandated by statute. The prosecution contends that the accused, being a director (i.e. an officer of the companies in question) has permitted the commission of the offences by the company of not holding the AGMs and filing the necessary ARs.
+26     The defence does not dispute[^37] and I find that the _actus reus_ in respect of all the charges is made out i.e. that the AGMs were not held and the ARs were not filed within the dates as mandated by statute. The prosecution contends that the accused, being a director (i.e. an officer of the companies in question) has permitted the commission of the offences by the company of not holding the AGMs and filing the necessary ARs.
 
-27     It is common ground between the parties that the main issue before the court is whether the accused had the requisite _mens rea_. Specifically, the court has to decide beyond reasonable doubt whether the accused did “knowingly and wilfully permit” the statutory breaches by the companies.[\[note: 38\]](#Ftn_38)
+27     It is common ground between the parties that the main issue before the court is whether the accused had the requisite _mens rea_. Specifically, the court has to decide beyond reasonable doubt whether the accused did “knowingly and wilfully permit” the statutory breaches by the companies.[^38]
 
 ### Director’s duty
 
 28     As pointed out by the prosecution, s 157A of the Act provides that the business of a company shall be managed by or under the direction of directors. To this end, s 157 of the Act, which spells out the duty and liability of officers of a company, specifically mandates in subsection (1) that a director “_shall at all times act honestly and use reasonable diligence in the discharge of the duties of his office_.” It is not disputed and the defence accepts that the accused has the statutory obligation and duty to act with reasonable diligence in respect of holding AGMs and filing ARs in respect of the companies in question. The accused’s defence, which is rejected, is that he did act with reasonable diligence but in spite of his efforts and because of the circumstances, he was not able to hold the AGMs or file the ARs.
 
-29     It is a requirement under s 145(1) of the Act that every company shall have at least one director who is ordinarily resident in Singapore. It is also provided that if the company has only one member, that sole director may also be the sole member of the company. It is not disputed that the accused is the Singapore resident director in all the companies in question so as to comply with s 145(1) of the Act. He was appointed as a nominee director by the companies under ‘Nominee Service Agreements’ (‘NSAs’) which ACS signed with the companies. Copies of the relevant NSAs were tendered in evidence.[\[note: 39\]](#Ftn_39)
+29     It is a requirement under s 145(1) of the Act that every company shall have at least one director who is ordinarily resident in Singapore. It is also provided that if the company has only one member, that sole director may also be the sole member of the company. It is not disputed that the accused is the Singapore resident director in all the companies in question so as to comply with s 145(1) of the Act. He was appointed as a nominee director by the companies under ‘Nominee Service Agreements’ (‘NSAs’) which ACS signed with the companies. Copies of the relevant NSAs were tendered in evidence.[^39]
 
 30     The defence’s primary contention that the accused had acted with reasonable diligence appears to be grounded on the premise that he was merely a ‘nominee’ director as opposed to being one of the ‘controlling’ directors who resided overseas i.e. the foreign directors. After all, he was merely a corporate services provider (‘CSP’) and therefore a director only in name. This argument suggests that the standard of duty imposed on him as a nominee director is somewhat lower than that of the other directors. As such, his duty does not extend beyond anything more than mere corporate secretarial duties. I find that the defence argument and premise for that argument to be erroneous and flawed.
 
-31     I accept the prosecution’s position, which was plainly conveyed to the accused in ACRA’s reply[\[note: 40\]](#Ftn_40) to him as far back as in 2012 when the accused first wrote to ACRA, that a person who has agreed to take on the role of a director of a company must be responsible to ensure that the company comply with the statutory requirements under the Act. The accused was clearly informed by ACRA that “\[t\]_here is no distinction between an “active” and “non-active” director._”[\[note: 41\]](#Ftn_41) This position was reiterated by the representative of ACRA[\[note: 42\]](#Ftn_42) who testified during cross-examination as follows:
+31     I accept the prosecution’s position, which was plainly conveyed to the accused in ACRA’s reply[^40] to him as far back as in 2012 when the accused first wrote to ACRA, that a person who has agreed to take on the role of a director of a company must be responsible to ensure that the company comply with the statutory requirements under the Act. The accused was clearly informed by ACRA that “\[t\]_here is no distinction between an “active” and “non-active” director._”[^41] This position was reiterated by the representative of ACRA[^42] who testified during cross-examination as follows:
 
 QWitness, just a few more areas, if you bear with me. Do you agree that the Companies Act does not prohibit the appointment of nominee directors?
 
-AI will say that the Companies Act does not differentiate between nominee or active directors.[\[note: 43\]](#Ftn_43)
+AI will say that the Companies Act does not differentiate between nominee or active directors.[^43]
 
 32     In other words, the correct legal position which I accept, is that the standard of duty that is statutorily imposed on all directors is the same regardless of the labels that the directors may choose to call themselves.
 
-33     It is pointed out by the prosecution, which I accept, that it is Parliament’s intention under the Act to require at least one locally resident director for Singapore registered companies so that at the very least, there is one resident director who may be held accountable for the obligations of the company.[\[note: 44\]](#Ftn_44) That person would be the accused in respect of the companies stated in the charges.
+33     It is pointed out by the prosecution, which I accept, that it is Parliament’s intention under the Act to require at least one locally resident director for Singapore registered companies so that at the very least, there is one resident director who may be held accountable for the obligations of the company.[^44] That person would be the accused in respect of the companies stated in the charges.
 
 34     The rationale of this legal position was explained by the High Court in _Abdul Ghani bin Tahir v PP_ (‘_Abdul Ghani’_), a case that is relied on by both parties in their respective submissions. In _Abdul Ghani_, the court examined the role of non-executive but locally resident directors and their duties in respect of commercial decisions that were made by foreign executive directors. In examining the role of non-executive directors, Chan Seng Onn J. stated at \[89\] that while local resident directors might not be liable for breach of their duties in connection with _commercial_ decisions made by the company (emphasis original), however, local resident directors:
 
@@ -154,7 +155,7 @@ cannot simply be a “dummy director” who approves, ignores or is nonchalant a
 
 ### Knowingly and wilfully permit breach
 
-36     It is submitted by the prosecution that the accused had the authority under the memorandum and articles of association (‘M&A’) of the respective companies to give the requisite notice and call an AGM as a director.[\[note: 45\]](#Ftn_45) At the very least, the accused accepted that there is nothing under the M&A that would prevent him from holding an AGM or filing an AR.[\[note: 46\]](#Ftn_46)
+36     It is submitted by the prosecution that the accused had the authority under the memorandum and articles of association (‘M&A’) of the respective companies to give the requisite notice and call an AGM as a director.[^45] At the very least, the accused accepted that there is nothing under the M&A that would prevent him from holding an AGM or filing an AR.[^46]
 
 37     As to what the requisite _mens rea_ of “knowingly and wilfully permitting” a breach entails, the prosecution referred to a number of cases in their submission. Suffice to say that I find the decision by Chan Sek Kiong JC as he then was in _Swee Leong Cheng v Project Aqua Culture & Trading Co Pte Ltd_ (‘_Swee Leong Cheng’_) to be most relevant and instructive. In _Swee Leong Cheng_, there was an application by a director to claim relief from the court under s 391 of the Act in respect of his responsibility for his company’s default in holding the AGM and lodging of the AR. The High Court adopted the meaning of the phrase “knowingly and wilfully” that was provided by Burt J. of the Western Australian Supreme Court in _Manning v Cory_ (1974) CLC 40 as follows:
 
@@ -162,9 +163,9 @@ I recognise the difficulty in applying the words “knowingly and wilfully…aut
 
 (emphasis added)
 
-38     I am guided by the observations in _Swee Leong Cheng_ and I agree with the prosecution’s submission that an accused is said to “knowingly and wilfully permit” a breach if he has knowledge of the breach and by the “free exercise” of his will authorised or permitted the breach to take place.[\[note: 47\]](#Ftn_47) I do not believe that the defence seriously disputes this meaning as ascribed in _Swee Leong Cheng_.
+38     I am guided by the observations in _Swee Leong Cheng_ and I agree with the prosecution’s submission that an accused is said to “knowingly and wilfully permit” a breach if he has knowledge of the breach and by the “free exercise” of his will authorised or permitted the breach to take place.[^47] I do not believe that the defence seriously disputes this meaning as ascribed in _Swee Leong Cheng_.
 
-39     For completeness, I do not think that the other cases cited by the prosecution adds anything further to the meaning of the phrase, except that in another Australian decision in _Crichton v Montgomery_ (1963) 2 ACLR 89 (‘_Crichton’_), the Supreme Court of Victoria cautioned that the motive for not doing something must not be confused with the intention of not doing that thing. In _Crichton_, two directors appealed against their convictions for offences of failing to hold AGMs and file ARs in that they had knowingly and wilfully permitted the commission of the company’s breaches. The relevant Australian statutory provisions in respect of the offences are similar to the provisions in the Act. The appellant directors argued that they could not hold the AGM or file the AR because they had been advised by the assistant managing director (whose advice turned out to be wrong) that the accounts were not complete. In dismissing their argument and upholding their convictions, the Australian court held that the fact of the assistant managing director persuading them not to hold the AGM was the motive and did not negative the wilfulness on the part of the directors in not holding the AGM. The directors clearly had the intention not to hold the AGM and the best of motives (even misguided ones) will not excuse an act that is prohibited by the law. The Australian court added that[\[note: 48\]](#Ftn_48):
+39     For completeness, I do not think that the other cases cited by the prosecution adds anything further to the meaning of the phrase, except that in another Australian decision in _Crichton v Montgomery_ (1963) 2 ACLR 89 (‘_Crichton’_), the Supreme Court of Victoria cautioned that the motive for not doing something must not be confused with the intention of not doing that thing. In _Crichton_, two directors appealed against their convictions for offences of failing to hold AGMs and file ARs in that they had knowingly and wilfully permitted the commission of the company’s breaches. The relevant Australian statutory provisions in respect of the offences are similar to the provisions in the Act. The appellant directors argued that they could not hold the AGM or file the AR because they had been advised by the assistant managing director (whose advice turned out to be wrong) that the accounts were not complete. In dismissing their argument and upholding their convictions, the Australian court held that the fact of the assistant managing director persuading them not to hold the AGM was the motive and did not negative the wilfulness on the part of the directors in not holding the AGM. The directors clearly had the intention not to hold the AGM and the best of motives (even misguided ones) will not excuse an act that is prohibited by the law. The Australian court added that[^48]:
 
 Even though the defendants may not have desired to avoid the holding of the annual general meeting, they nevertheless decided to authorize or permit the company not to hold it and manifested this decision by their conduct.
 
@@ -174,17 +175,17 @@ Even though the defendants may not have desired to avoid the holding of the annu
 
 #### Accused not without options
 
-41     The nub of the defence is that the accused could not hold the requisite AGMs or file the ARs because he could not contact the foreign directors or get them to cooperate to provide him with the necessary written and signed instructions/documents and accounts to comply with the requirements under the Act.[\[note: 49\]](#Ftn_49) Therefore, apart from reminding and chasing the foreign directors (by way of letters, emails and phone calls) to provide the necessary documents and accounts to hold the AGM and file the AR, he claimed that there was nothing else that he could have done. This claim and defence is plainly incorrect and I reject this defence.
+41     The nub of the defence is that the accused could not hold the requisite AGMs or file the ARs because he could not contact the foreign directors or get them to cooperate to provide him with the necessary written and signed instructions/documents and accounts to comply with the requirements under the Act.[^49] Therefore, apart from reminding and chasing the foreign directors (by way of letters, emails and phone calls) to provide the necessary documents and accounts to hold the AGM and file the AR, he claimed that there was nothing else that he could have done. This claim and defence is plainly incorrect and I reject this defence.
 
-42     I note that the offences span a period of many years from 2011 to 2017. As highlighted above, the accused was advised as early as 2012 that he had a number of options and recourses available to him if he faced difficulties in holding the AGM or filing the AR. These options are comprehensively set out by the prosecution in their submission.[\[note: 50\]](#Ftn_50) I accept and find that these options were available to the accused but he chose not to avail them but was content to merely send reminders to the foreign directors and in the same breath, chase them for outstanding fees owed to him for his CSP services.[\[note: 51\]](#Ftn_51) I agree with the prosecution’s submission that these options, whether pursued on their own or in combination, may have negated any allegation that the accused knowingly and wilfully permitted the companies to breach the obligations under the Act. In fact, if he had successfully pursued these options, the companies would not have breached their statutory obligations and the charges would not have been levelled at the accused. In any event, I propose to only summarise these options that were available to the accused because as I will point out later, the accused was well aware of most, if not all, of the options. After all, the accused is an experienced CSP having been in the business for close to two decades.
+42     I note that the offences span a period of many years from 2011 to 2017. As highlighted above, the accused was advised as early as 2012 that he had a number of options and recourses available to him if he faced difficulties in holding the AGM or filing the AR. These options are comprehensively set out by the prosecution in their submission.[^50] I accept and find that these options were available to the accused but he chose not to avail them but was content to merely send reminders to the foreign directors and in the same breath, chase them for outstanding fees owed to him for his CSP services.[^51] I agree with the prosecution’s submission that these options, whether pursued on their own or in combination, may have negated any allegation that the accused knowingly and wilfully permitted the companies to breach the obligations under the Act. In fact, if he had successfully pursued these options, the companies would not have breached their statutory obligations and the charges would not have been levelled at the accused. In any event, I propose to only summarise these options that were available to the accused because as I will point out later, the accused was well aware of most, if not all, of the options. After all, the accused is an experienced CSP having been in the business for close to two decades.
 
-43     One of the hurdles the accused claimed he faced was that he could not contact the foreign directors to form a quorum (of at least two members) to hold any of the AGMs. Even if that is the case, the prosecution pointed out and I accept that the accused was appointed as a proxy to attend and vote at AGMs for at least four of the companies.[\[note: 52\]](#Ftn_52) If so, the issue of quorum would not have been a hurdle at least for four of the companies.
+43     One of the hurdles the accused claimed he faced was that he could not contact the foreign directors to form a quorum (of at least two members) to hold any of the AGMs. Even if that is the case, the prosecution pointed out and I accept that the accused was appointed as a proxy to attend and vote at AGMs for at least four of the companies.[^52] If so, the issue of quorum would not have been a hurdle at least for four of the companies.
 
 44     Further, even if quorum was an issue, the accused could have applied to the High Court under s 182 of the Act to overcome this hurdle. This provision generally provides that in situations where it is “_impracticable to call a meeting in any manner in which meetings may be called or to conduct the meeting in the manner prescribed by the articles or this Act_”, the High Court has the discretion to order a meeting (including an AGM) to be held and conducted “_in such manner as the Court thinks fit_,” and the High Court may give ancillary or consequential directions as it thinks expedient, including a direction that only one member or his proxy shall constitute a quorum. In other words, this provision gives the High Court much discretion to order an AGM to be held and conducted even if the usual pre-conditions cannot be met. Therefore, it was open to the accused to make the application to the High Court to give directions as to the necessary quorum. As pointed out by the prosecution, in the case of _Lim Yew Meng v Aik Chuan Construction Pte Ltd_ at \[30\], the High Court opined that an inability to form a quorum because some members refused to attend the meeting would be an example of the impracticability of convening a meeting as envisaged under s 182 of the Act.
 
 45     In fact, the scope of s 182 of the Act with regards to the holding of a meeting is so wide that the accused could have applied to the High Court for the necessary directions that would have been expedient to overcome any of the difficulties that he claimed to face in calling for an AGM for his companies.
 
-46     The accused also claimed that he could not hold an AGM because he could not obtain from the foreign directors the full set of accounts to be laid at the meeting.[\[note: 53\]](#Ftn_53) I agree with the prosecution’s submission that under s 201(1) of the Act, the directors are only required to lay the company’s accounts at the AGM. There is no statutory requirement that these accounts must be complete and approved at the AGM.[\[note: 54\]](#Ftn_54) As such, there is no legal impediment to the accused holding an AGM even if he did not have the full set of the company’s accounts or financial statements. Therefore, I accept prosecution’s position that the AGMs could have been called without the completed accounts being laid.
+46     The accused also claimed that he could not hold an AGM because he could not obtain from the foreign directors the full set of accounts to be laid at the meeting.[^53] I agree with the prosecution’s submission that under s 201(1) of the Act, the directors are only required to lay the company’s accounts at the AGM. There is no statutory requirement that these accounts must be complete and approved at the AGM.[^54] As such, there is no legal impediment to the accused holding an AGM even if he did not have the full set of the company’s accounts or financial statements. Therefore, I accept prosecution’s position that the AGMs could have been called without the completed accounts being laid.
 
 47     Yet another option was pointed out by the prosecution in that the accused could also have applied to the High Court under s 409A of the Act to compel the foreign directors to hold an AGM or at least to co-operate by providing the necessary accounting records and documents to the accused. The accused did not pursue this option.
 
@@ -192,19 +193,19 @@ Even though the defendants may not have desired to avoid the holding of the annu
 
 49     Further, it is submitted by the prosecution which I agree that the accused is not stopped from obtaining the companies’ accounts and financial statements himself, even if the foreign directors are uncooperative or unresponsive. Thus, if the foreign directors refuse to or do not otherwise provide the accounts or the necessary records for the accused to prepare the accounts, he can make an application under s 399 of the Act for the High Court to allow him to inspect the company’s accounting records. Such accounting records are required under s 199 of the Act to be kept by the company in Singapore in such manner as to enable the records to be conveniently and properly audited. Further, if such accounting and other records are kept outside of Singapore, these records shall be sent to and kept in Singapore and be at all times open to inspection by the directors, which would include the accused. If such records are not sent to Singapore, the accused may again apply to the High Court under s 399 of the Act for an order to compel the foreign directors to send and keep the records in Singapore and be made available for the accused’s inspection.
 
-50     In addition, the terms of the NSAs signed with the companies also require the foreign directors to render quarterly or monthly accounts and to advise ACS/the nominee director of the name and address of the company’s book-keeper or accountant, and if no such appointment is made, ACS/the nominee director has the right to undertake these duties and charge the appropriate fees.[\[note: 55\]](#Ftn_55) I will elaborate more on the terms of the NSAs further on in these grounds. Suffice it to say at this point that therefore, given all these avenues, the accused has no reason why he cannot obtain the accounting records and file the ARs on behalf of the company.
+50     In addition, the terms of the NSAs signed with the companies also require the foreign directors to render quarterly or monthly accounts and to advise ACS/the nominee director of the name and address of the company’s book-keeper or accountant, and if no such appointment is made, ACS/the nominee director has the right to undertake these duties and charge the appropriate fees.[^55] I will elaborate more on the terms of the NSAs further on in these grounds. Suffice it to say at this point that therefore, given all these avenues, the accused has no reason why he cannot obtain the accounting records and file the ARs on behalf of the company.
 
-51     The accused also claimed that some of these companies are effectively dormant.[\[note: 56\]](#Ftn_56) If so, as highlighted above, the accused was advised by ACRA as early as 2012 to take steps to remove the company’s name from ACRA’s register. The accused was keenly aware of this option but chose not to do so and allowed the unsatisfactory state of dormancy to continue leading to the multiple breaches by the companies. As may be seen in many of his correspondence with the foreign directors of the various companies, the accused did threaten to strike off the company. For example, in respect of the company Oliver Wight Asia Pacific (S) Pte Ltd (‘Oliver Wight Asia Pacific’), he wrote to the foreign director as far back as July 2013 threatening to apply for striking off because the accused has not been able to contact the said foreign director.[\[note: 57\]](#Ftn_57) However, the accused did not do so even up to August 2017 and February 2018 when he wrote to the foreign director repeating the same admonition of striking off.[\[note: 58\]](#Ftn_58)
+51     The accused also claimed that some of these companies are effectively dormant.[^56] If so, as highlighted above, the accused was advised by ACRA as early as 2012 to take steps to remove the company’s name from ACRA’s register. The accused was keenly aware of this option but chose not to do so and allowed the unsatisfactory state of dormancy to continue leading to the multiple breaches by the companies. As may be seen in many of his correspondence with the foreign directors of the various companies, the accused did threaten to strike off the company. For example, in respect of the company Oliver Wight Asia Pacific (S) Pte Ltd (‘Oliver Wight Asia Pacific’), he wrote to the foreign director as far back as July 2013 threatening to apply for striking off because the accused has not been able to contact the said foreign director.[^57] However, the accused did not do so even up to August 2017 and February 2018 when he wrote to the foreign director repeating the same admonition of striking off.[^58]
 
-52     In fact, in respect of Oliver Wight Asia Pacific (and other companies), the accused had yet another option i.e. to wind up the company under s 254(1) of the Act. I note from the defence documentary exhibits (and this is also pointed out by the prosecution) that the accused sought legal advice because the foreign director allegedly misused company funds and also that the company owed ACS $15,000 in CSP fees. In an email dated 24 May 2011, his lawyers advised the accused that he can apply to wind up the company.[\[note: 59\]](#Ftn_59) His lawyers also advised that the advantage of winding up the company was that the accused’s duties as a director will then cease after the company is wound up. However, the accused did not go ahead with this course of action because presumably, he was not prepared to pay the legal costs of about $12,000 to wind up the company as estimated by his lawyers.
+52     In fact, in respect of Oliver Wight Asia Pacific (and other companies), the accused had yet another option i.e. to wind up the company under s 254(1) of the Act. I note from the defence documentary exhibits (and this is also pointed out by the prosecution) that the accused sought legal advice because the foreign director allegedly misused company funds and also that the company owed ACS $15,000 in CSP fees. In an email dated 24 May 2011, his lawyers advised the accused that he can apply to wind up the company.[^59] His lawyers also advised that the advantage of winding up the company was that the accused’s duties as a director will then cease after the company is wound up. However, the accused did not go ahead with this course of action because presumably, he was not prepared to pay the legal costs of about $12,000 to wind up the company as estimated by his lawyers.
 
-53     There are numerous other correspondence in respect of other companies where the accused threatened to either wind up the company because it owed the accused fees or to strike off the company because the foreign directors were not responding.[\[note: 60\]](#Ftn_60) I also note that in his correspondence with one of the companies (Rothesay Pte Ltd)[\[note: 61\]](#Ftn_61), he in fact advised the company of two ways to close down the company i.e. (i) members voluntary winding-up or (ii) striking off. He then offered to provide the service to strike off the company for a fee of US$2,000. He similarly advised Gannon Power Pte Ltd that to liquidate the company would cost S$10,000 and to strike it off would cost S$2,500.[\[note: 62\]](#Ftn_62)
+53     There are numerous other correspondence in respect of other companies where the accused threatened to either wind up the company because it owed the accused fees or to strike off the company because the foreign directors were not responding.[^60] I also note that in his correspondence with one of the companies (Rothesay Pte Ltd)[^61], he in fact advised the company of two ways to close down the company i.e. (i) members voluntary winding-up or (ii) striking off. He then offered to provide the service to strike off the company for a fee of US$2,000. He similarly advised Gannon Power Pte Ltd that to liquidate the company would cost S$10,000 and to strike it off would cost S$2,500.[^62]
 
 54     I therefore find that the accused was fully aware of the recourses and options available but did not pursue them. Instead, he subjugated his duty as a director of these companies to his own pecuniary interests as a CSP to the said companies. He chose not to wind up, strike off or deregister the companies simply because he was not paid his CSP fees and to do so would incur additional business costs to him. He was content to wait out, for as long as it took, until his fees were paid or until the foreign directors responded in one way or another. In so doing, the breaches snowballed.
 
 #### Nominee service agreements (NSAs)
 
-55     The accused claimed that he did not apply to strike off the companies because of his fiduciary duty to the company and his contractual obligations.[\[note: 63\]](#Ftn_63) I cannot accept this claim. On the contrary, I find that he ought to have taken appropriate steps to strike off or dissolve the companies one way or another because of his duty as a director and his contractual obligations.
+55     The accused claimed that he did not apply to strike off the companies because of his fiduciary duty to the company and his contractual obligations.[^63] I cannot accept this claim. On the contrary, I find that he ought to have taken appropriate steps to strike off or dissolve the companies one way or another because of his duty as a director and his contractual obligations.
 
 56     The accused acknowledged his statutory duties as a director and agreed in his evidence that the NSAs do not override his director duties:
 
@@ -214,11 +215,11 @@ AYes.
 
 QAnd you act as a director with all the obligations to exercise reasonable diligence in the discharge of your duties including ensuring the company complies with the regulatory requirements of the Act, including Section 175 and 197.
 
-AYes.[\[note: 64\]](#Ftn_64)
+AYes.[^64]
 
-57     I find that the contracts or NSAs[\[note: 65\]](#Ftn_65) signed by ACS with the companies to appoint the accused as a nominee director do not prevent the accused from either discharging his duties as a director generally or from striking out or winding up the company specifically. In fact, the clauses are drafted in such a way as to protect ACS/the nominee director in the precise circumstances which the accused found himself (which circumstances he is relying on) in respect of the companies i.e. that the foreigners cannot be contacted or are uncooperative or that the companies are dormant.
+57     I find that the contracts or NSAs[^65] signed by ACS with the companies to appoint the accused as a nominee director do not prevent the accused from either discharging his duties as a director generally or from striking out or winding up the company specifically. In fact, the clauses are drafted in such a way as to protect ACS/the nominee director in the precise circumstances which the accused found himself (which circumstances he is relying on) in respect of the companies i.e. that the foreigners cannot be contacted or are uncooperative or that the companies are dormant.
 
-58     The NSAs are materially similar in their scope and content. Let me take the first NSA exhibited in the defence bundle in respect of the company Gannon Power Pte Ltd as an example.[\[note: 66\]](#Ftn_66) The clauses under the said NSA stipulate the duties, responsibilities and powers of the contracting parties, including the accused as a nominee director. I highlight the clauses relevant to the accused as a nominee director. Not only do the following clauses not impede the accused from carrying his duties as a director of the company, they in fact mandate and empower the nominee to act in the interests of the company:
+58     The NSAs are materially similar in their scope and content. Let me take the first NSA exhibited in the defence bundle in respect of the company Gannon Power Pte Ltd as an example.[^66] The clauses under the said NSA stipulate the duties, responsibilities and powers of the contracting parties, including the accused as a nominee director. I highlight the clauses relevant to the accused as a nominee director. Not only do the following clauses not impede the accused from carrying his duties as a director of the company, they in fact mandate and empower the nominee to act in the interests of the company:
 
 a.     Clause 2.1 states that the nominee shall “_exercise all functions required by the articles of association of the Company while observing to the best of his ability the interests of the Company.”_
 
@@ -234,17 +235,17 @@ This clause specifically provides for the claimed situation that the accused rel
 
 d.     Clause 4.3 in turn provides that the nominee has the authority to “_make such decisions as it deems fit, including winding-up or de-registering the Company_” in the event that the nominee is unable to contact the Principal and/or the shareholders of the Company for instructions or if instructions have not been given for more than six months.
 
-Thus, pursuant to this clause, the accused may take such course of action as he deems necessary, including winding up or de-registering the company, if he does not receive instructions for more than six months. Therefore, in respect of the present charges, there is no reason or justification for the accused to wait years on end for the foreign directors to respond or cooperate. As rightly and accurately put to the accused by the learned DPP, the accused simply “stood by and let the company default in its obligation to hold the AGM and file the annual return in respect of all the charges.”[\[note: 67\]](#Ftn_67)
+Thus, pursuant to this clause, the accused may take such course of action as he deems necessary, including winding up or de-registering the company, if he does not receive instructions for more than six months. Therefore, in respect of the present charges, there is no reason or justification for the accused to wait years on end for the foreign directors to respond or cooperate. As rightly and accurately put to the accused by the learned DPP, the accused simply “stood by and let the company default in its obligation to hold the AGM and file the annual return in respect of all the charges.”[^67]
 
 59     In light of these clauses that I have highlighted, the accused has absolutely no excuse or defence whatsoever that he is powerless and option-less simply because he is unable to contact the foreign directors or that these foreign directors were uncooperative. In truth, I find that he did knowingly and wilfully permitted the companies to default in their statutory obligations.
 
 #### No due diligence
 
-60     I agree with the prosecution’s submission[\[note: 68\]](#Ftn_68) that the defence has mischaracterised the testimony of the representative from ACRA[\[note: 69\]](#Ftn_69) who gave evidence for the prosecution. During cross-examination, counsel was trying to get the witness to agree with the defence that the accused did not have any options and therefore, that the accused had tried his level best. However, it is plain from the witness’ testimony that ultimately, his position is that the accused has not discharged his duties as a director with due diligence:
+60     I agree with the prosecution’s submission[^68] that the defence has mischaracterised the testimony of the representative from ACRA[^69] who gave evidence for the prosecution. During cross-examination, counsel was trying to get the witness to agree with the defence that the accused did not have any options and therefore, that the accused had tried his level best. However, it is plain from the witness’ testimony that ultimately, his position is that the accused has not discharged his duties as a director with due diligence:
 
 QIf the---what is the purpose of paragraph 17 of your PS1? Why do you say it in your Conditioned Statement? How is it relevant to us?
 
-AHe did not, uh, take all due diligence in terms of trying to comply with 175 and 197.[\[note: 70\]](#Ftn_70)
+AHe did not, uh, take all due diligence in terms of trying to comply with 175 and 197.[^70]
 
 61     It was also unfair of counsel to ask the ACRA representative, a lay witness, questions concerning possible applications to the High Court:
 
@@ -254,15 +255,15 @@ AHe still has not made an application to the High Court.
 
 QYou agree that even if he had made an application to the High Court, if the accounts could not be prepared, then annual returns could not have been filed? Even if he applied to the High Court.
 
-AWell, I can’t say for sure what the High Court would have ordered in terms of the---well, the---the how should I put it? Putting up the necessary accounts for filing.[\[note: 71\]](#Ftn_71)
+AWell, I can’t say for sure what the High Court would have ordered in terms of the---well, the---the how should I put it? Putting up the necessary accounts for filing.[^71]
 
 The witness would not have the legal expertise to answer such questions. In any case, it remains a fact that the accused did not made any such applications to the High Court.
 
 62     Counsel’s made a litany of suggestions to ACRA’s representative that the accused could not have reasonably pursued a number of options. However, I had made it very clear to counsel during the trial (as the notes of proceedings will show) that in my view, it is ultimately for the court (and not the prosecution witness) to decide whether the accused had indeed acted reasonably or had discharged his duties as a director with due diligence. I find that the accused has not done so.
 
-63     The least he could have done was to ask for extensions of time to comply with s 175 and s 197 of the Act at the early stages but it is not in dispute that he did not do so. He is well aware of the option of seeking an extension of time as evident from the many reminders sent to the foreign directors as well as ACRA’s reminders to ACS.[\[note: 72\]](#Ftn_72) In this regard, the accused was overly pedantic and therefore unbelievable in his claim that while he was aware that he could apply for an extension of time, he did not know that he could have applied for a _further_ extension of time. I find that these are mere excuses to justify his ‘pen-pushing’ exercise of sending reminders to the foreign directors. In any case, he did not make any attempt to apply for an extension of time to comply with the statutory obligations which form the subject-matter of the charges.
+63     The least he could have done was to ask for extensions of time to comply with s 175 and s 197 of the Act at the early stages but it is not in dispute that he did not do so. He is well aware of the option of seeking an extension of time as evident from the many reminders sent to the foreign directors as well as ACRA’s reminders to ACS.[^72] In this regard, the accused was overly pedantic and therefore unbelievable in his claim that while he was aware that he could apply for an extension of time, he did not know that he could have applied for a _further_ extension of time. I find that these are mere excuses to justify his ‘pen-pushing’ exercise of sending reminders to the foreign directors. In any case, he did not make any attempt to apply for an extension of time to comply with the statutory obligations which form the subject-matter of the charges.
 
-64     The defence also tried to justify its position by claiming that any extension of time would have been impractical as there was no prospect of holding an AGM in so short a time-frame.[\[note: 73\]](#Ftn_73) However, I find that if indeed there was no prospect of holding an AGM, it would only be due to the fact that the accused has failed to take any active or remedial steps (apart from sending useless reminders to the foreign directors) to convene or compel an AGM to be convened. In failing to even apply for an appropriate extension of time right from the start to take the necessary steps to comply with the statutory requirements, the accused cannot be said to have discharged his duties with any degree of diligence.
+64     The defence also tried to justify its position by claiming that any extension of time would have been impractical as there was no prospect of holding an AGM in so short a time-frame.[^73] However, I find that if indeed there was no prospect of holding an AGM, it would only be due to the fact that the accused has failed to take any active or remedial steps (apart from sending useless reminders to the foreign directors) to convene or compel an AGM to be convened. In failing to even apply for an appropriate extension of time right from the start to take the necessary steps to comply with the statutory requirements, the accused cannot be said to have discharged his duties with any degree of diligence.
 
 ### Conclusion
 
@@ -276,151 +277,151 @@ The witness would not have the legal expertise to answer such questions. In any 
 
 * * *
 
-[\[note: 1\]](#Ftn_1_1)Prosecution’s Closing Submission (‘PCS’) at \[4\].
+[^1]: Prosecution’s Closing Submission (‘PCS’) at \[4\].
 
-[\[note: 2\]](#Ftn_2_1)PCS at \[15\] and conditioned statement (‘PS1’) of ACRA’s representative (PW1).
+[^2]: PCS at \[15\] and conditioned statement (‘PS1’) of ACRA’s representative (PW1).
 
-[\[note: 3\]](#Ftn_3_1)PS5.
+[^3]: PS5.
 
-[\[note: 4\]](#Ftn_4_1)PW1 Chua Chun Wei.
+[^4]: PW1 Chua Chun Wei.
 
-[\[note: 5\]](#Ftn_5_1)Page 19 at paragraph 25 to 32 and page 20 at paragraph 1 to 24 (Day 2 Transcript).
+[^5]: Page 19 at paragraph 25 to 32 and page 20 at paragraph 1 to 24 (Day 2 Transcript).
 
-[\[note: 6\]](#Ftn_6_1)Page 20 at paragraph 25 to 30 (Day 2 Transcript).
+[^6]: Page 20 at paragraph 25 to 30 (Day 2 Transcript).
 
-[\[note: 7\]](#Ftn_7_1)Page 93 at paragraph 6 (Day 2 Transcript).
+[^7]: Page 93 at paragraph 6 (Day 2 Transcript).
 
-[\[note: 8\]](#Ftn_8_1)ACRA’s brochure (PS1 – exhibit 4) and Page 23 at paragraph 4 to 7 (Day 2 Transcript).
+[^8]: ACRA’s brochure (PS1 – exhibit 4) and Page 23 at paragraph 4 to 7 (Day 2 Transcript).
 
-[\[note: 9\]](#Ftn_9_1)Page 24 at paragraph 6 to 8 (Day 2 Transcript), Page 25 at paragraph 14 to 23 (Day 2 Transcript).
+[^9]: Page 24 at paragraph 6 to 8 (Day 2 Transcript), Page 25 at paragraph 14 to 23 (Day 2 Transcript).
 
-[\[note: 10\]](#Ftn_10_1)Page 26 at paragraph Page 111 at para 17 to 20 (Day 2 Transcript).
+[^10]: Page 26 at paragraph Page 111 at para 17 to 20 (Day 2 Transcript).
 
-[\[note: 11\]](#Ftn_11_1)PS1 at \[18\].
+[^11]: PS1 at \[18\].
 
-[\[note: 12\]](#Ftn_12_1)PCS at \[29\].
+[^12]: PCS at \[29\].
 
-[\[note: 13\]](#Ftn_13_1)Page 18 at paragraph 22 to 32 and page 19 at paragraph 1 to 13 (Day 2 Transcript).
+[^13]: Page 18 at paragraph 22 to 32 and page 19 at paragraph 1 to 13 (Day 2 Transcript).
 
-[\[note: 14\]](#Ftn_14_1)Page 88 at paragraph 10 to 11 (Day 2 Transcript).
+[^14]: Page 88 at paragraph 10 to 11 (Day 2 Transcript).
 
-[\[note: 15\]](#Ftn_15_1)Page 17 at paragraph 32 and Page 18 at paragraph 1 to 6 (Day 2 Transcript).
+[^15]: Page 17 at paragraph 32 and Page 18 at paragraph 1 to 6 (Day 2 Transcript).
 
-[\[note: 16\]](#Ftn_16_1)Page 87 at paragraph 1 to 23 (Day 2 Transcript).
+[^16]: Page 87 at paragraph 1 to 23 (Day 2 Transcript).
 
-[\[note: 17\]](#Ftn_17_1)Page 16 at paragraph 21 to 32 (Day 2 Transcript).
+[^17]: Page 16 at paragraph 21 to 32 (Day 2 Transcript).
 
-[\[note: 18\]](#Ftn_18_1)Page 81 at paragraph 2 to 10 (Day 2 Transcript).
+[^18]: Page 81 at paragraph 2 to 10 (Day 2 Transcript).
 
-[\[note: 19\]](#Ftn_19_1)Page 17 at paragraph 10 to 20 and paragraph 24 to 31 (Day 2 Transcript).
+[^19]: Page 17 at paragraph 10 to 20 and paragraph 24 to 31 (Day 2 Transcript).
 
-[\[note: 20\]](#Ftn_20_1)Page 83 at paragraph 15 to 18. (Day 2 Transcript).
+[^20]: Page 83 at paragraph 15 to 18. (Day 2 Transcript).
 
-[\[note: 21\]](#Ftn_21_1)Page 15 at paragraph 23 to 31 (Day 2 Transcript).
+[^21]: Page 15 at paragraph 23 to 31 (Day 2 Transcript).
 
-[\[note: 22\]](#Ftn_22_1)Page 77 at paragraph 10 to 16 (Day 2 Transcript).
+[^22]: Page 77 at paragraph 10 to 16 (Day 2 Transcript).
 
-[\[note: 23\]](#Ftn_23_1)Page 14 at paragraph 29 to Page 15 at paragraph 22 (Day 2 Transcript).
+[^23]: Page 14 at paragraph 29 to Page 15 at paragraph 22 (Day 2 Transcript).
 
-[\[note: 24\]](#Ftn_24_1)Page 76 at paragraph 9 to 20 (Day 2 Transcript).
+[^24]: Page 76 at paragraph 9 to 20 (Day 2 Transcript).
 
-[\[note: 25\]](#Ftn_25_1)Page 76 at paragraph 75 and Page 76 at paragraph 1 to 8 (Day 2 Transcript).
+[^25]: Page 76 at paragraph 75 and Page 76 at paragraph 1 to 8 (Day 2 Transcript).
 
-[\[note: 26\]](#Ftn_26_1)Page 14 at paragraph 5 to 8 (Day 2 Transcript).
+[^26]: Page 14 at paragraph 5 to 8 (Day 2 Transcript).
 
-[\[note: 27\]](#Ftn_27_1)Page 74 at paragraph 6 to 9 (Day 2 Transcript).
+[^27]: Page 74 at paragraph 6 to 9 (Day 2 Transcript).
 
-[\[note: 28\]](#Ftn_28_1)Page 13 at paragraph 21 to 32 (Day 2 Transcript).
+[^28]: Page 13 at paragraph 21 to 32 (Day 2 Transcript).
 
-[\[note: 29\]](#Ftn_29_1)Page 74 at paragraph 6 to 9 (Day 2 Transcript).
+[^29]: Page 74 at paragraph 6 to 9 (Day 2 Transcript).
 
-[\[note: 30\]](#Ftn_30_1)Page 11 at paragraph 22 to 32 and page 13 at para 2 to 6 (Day 2 Transcript).
+[^30]: Page 11 at paragraph 22 to 32 and page 13 at para 2 to 6 (Day 2 Transcript).
 
-[\[note: 31\]](#Ftn_31_1)Page 13 at paragraph 7 to 12 (Day 2 Transcript).
+[^31]: Page 13 at paragraph 7 to 12 (Day 2 Transcript).
 
-[\[note: 32\]](#Ftn_32_1)Page 70 at paragraph 19 to 26 (Day 2 Transcript).
+[^32]: Page 70 at paragraph 19 to 26 (Day 2 Transcript).
 
-[\[note: 33\]](#Ftn_33_1)D2.
+[^33]: D2.
 
-[\[note: 34\]](#Ftn_34_1)D4.
+[^34]: D4.
 
-[\[note: 35\]](#Ftn_35_1)Page 19 at paragraph 27 to 32 and Page 20 at paragraph 1 to 24 (Day 2 Transcript).
+[^35]: Page 19 at paragraph 27 to 32 and Page 20 at paragraph 1 to 24 (Day 2 Transcript).
 
-[\[note: 36\]](#Ftn_36_1)Page 8 at paragraph 29 to 32 and Page 9 at paragraph 1 to 5 (Day 2 Transcript).
+[^36]: Page 8 at paragraph 29 to 32 and Page 9 at paragraph 1 to 5 (Day 2 Transcript).
 
-[\[note: 37\]](#Ftn_37_1)Defence Closing Submission (‘DCS’) dated 16 October 2018 at \[4\].
+[^37]: Defence Closing Submission (‘DCS’) dated 16 October 2018 at \[4\].
 
-[\[note: 38\]](#Ftn_38_1)PCS at \[36\] and DCS at \[5\].
+[^38]: PCS at \[36\] and DCS at \[5\].
 
-[\[note: 39\]](#Ftn_39_1)Defence Bundle of Documents (‘DBD’) Tab A.
+[^39]: Defence Bundle of Documents (‘DBD’) Tab A.
 
-[\[note: 40\]](#Ftn_40_1)D3 dated 17 September 2012.
+[^40]: D3 dated 17 September 2012.
 
-[\[note: 41\]](#Ftn_41_1)At \[2\].
+[^41]: At \[2\].
 
-[\[note: 42\]](#Ftn_42_1)PW1 Chua Chun Wei.
+[^42]: PW1 Chua Chun Wei.
 
-[\[note: 43\]](#Ftn_43_1)Page 57 at paragraph 27-31 (Day 1 Transcript).
+[^43]: Page 57 at paragraph 27-31 (Day 1 Transcript).
 
-[\[note: 44\]](#Ftn_44_1)As per Minister Lim Hng Kiang in the Singapore Parliamentary Debates, 06 Feb 2004, Vol 77 Col 376.
+[^44]: As per Minister Lim Hng Kiang in the Singapore Parliamentary Debates, 06 Feb 2004, Vol 77 Col 376.
 
-[\[note: 45\]](#Ftn_45_1)PCS at \[33\]-\[34\].
+[^45]: PCS at \[33\]-\[34\].
 
-[\[note: 46\]](#Ftn_46_1)Page 59 at paragraph 17-23 (Day 2 Transcript).
+[^46]: Page 59 at paragraph 17-23 (Day 2 Transcript).
 
-[\[note: 47\]](#Ftn_47_1)PCS at \[40\].
+[^47]: PCS at \[40\].
 
-[\[note: 48\]](#Ftn_48_1)At page 8 of the judgment.
+[^48]: At page 8 of the judgment.
 
-[\[note: 49\]](#Ftn_49_1)DCS at \[28\],\[47\],\[49\],\[69\],\[75\],\[80\],\[91\],\[92\],\[94\].
+[^49]: DCS at \[28\],\[47\],\[49\],\[69\],\[75\],\[80\],\[91\],\[92\],\[94\].
 
-[\[note: 50\]](#Ftn_50_1)PCS at \[66\]-\[87\].
+[^50]: PCS at \[66\]-\[87\].
 
-[\[note: 51\]](#Ftn_51_1)See DBD303 as an example of such reminders.
+[^51]: See DBD303 as an example of such reminders.
 
-[\[note: 52\]](#Ftn_52_1)Gannon Power Pte Ltd, Solutions Center Pte Ltd, Maro Pte Ltd and SQR Solutions Pte Ltd.
+[^52]: Gannon Power Pte Ltd, Solutions Center Pte Ltd, Maro Pte Ltd and SQR Solutions Pte Ltd.
 
-[\[note: 53\]](#Ftn_53_1)Page 11 at paragraph 5 to 11 (Day 2 Transcript), Page 28 at paragraph 22 to 28 and Page 29 at paragraph 5 to 11 (Day 2 Transcript).
+[^53]: Page 11 at paragraph 5 to 11 (Day 2 Transcript), Page 28 at paragraph 22 to 28 and Page 29 at paragraph 5 to 11 (Day 2 Transcript).
 
-[\[note: 54\]](#Ftn_54_1)Reference to Woon, W_., Woon’s Corporation Law_ at \[4153\] provided by the prosecution.
+[^54]: Reference to Woon, W_., Woon’s Corporation Law_ at \[4153\] provided by the prosecution.
 
-[\[note: 55\]](#Ftn_55_1)E.g. Clause 3.7 of NSA with Gannon Power Pte Ltd at DBD1-5.
+[^55]: E.g. Clause 3.7 of NSA with Gannon Power Pte Ltd at DBD1-5.
 
-[\[note: 56\]](#Ftn_56_1)See D4 – Accused’s letter to ACRA through his lawyers.
+[^56]: See D4 – Accused’s letter to ACRA through his lawyers.
 
-[\[note: 57\]](#Ftn_57_1)DBD58.
+[^57]: DBD58.
 
-[\[note: 58\]](#Ftn_58_1)DBD40 and DBD46.
+[^58]: DBD40 and DBD46.
 
-[\[note: 59\]](#Ftn_59_1)DBD94-95.
+[^59]: DBD94-95.
 
-[\[note: 60\]](#Ftn_60_1)Eg. See letters to Maro Pte Ltd, Gannon Power Pte Ltd and SQR Solutions Pte Ltd.
+[^60]: Eg. See letters to Maro Pte Ltd, Gannon Power Pte Ltd and SQR Solutions Pte Ltd.
 
-[\[note: 61\]](#Ftn_61_1)DBD242-3.
+[^61]: DBD242-3.
 
-[\[note: 62\]](#Ftn_62_1)DBD306-308.
+[^62]: DBD306-308.
 
-[\[note: 63\]](#Ftn_63_1)Page 30 at paragraph 20-21 (Day 2 Transcript).
+[^63]: Page 30 at paragraph 20-21 (Day 2 Transcript).
 
-[\[note: 64\]](#Ftn_64_1)Page 55 at paragraph 6 to 16 (Day 2 Transcript).
+[^64]: Page 55 at paragraph 6 to 16 (Day 2 Transcript).
 
-[\[note: 65\]](#Ftn_65_1)The NSAs are exhibited at DBD Tab A.
+[^65]: The NSAs are exhibited at DBD Tab A.
 
-[\[note: 66\]](#Ftn_66_1)DBD1.
+[^66]: DBD1.
 
-[\[note: 67\]](#Ftn_67_1)Page 116 at 26 (Day 2 Transcript).
+[^67]: Page 116 at 26 (Day 2 Transcript).
 
-[\[note: 68\]](#Ftn_68_1)Prosecution’s Reply Submission (‘PRS’) dated 30 October 2018 at \[1\]-\[3\].
+[^68]: Prosecution’s Reply Submission (‘PRS’) dated 30 October 2018 at \[1\]-\[3\].
 
-[\[note: 69\]](#Ftn_69_1)PW1 Chua Chun Wei.
+[^69]: PW1 Chua Chun Wei.
 
-[\[note: 70\]](#Ftn_70_1)Page 51 at paragraph 13 to 17 (Day 1 Transcript).
+[^70]: Page 51 at paragraph 13 to 17 (Day 1 Transcript).
 
-[\[note: 71\]](#Ftn_71_1)Page 63 at paragraph 8-18 (Day 1 Transcript).
+[^71]: Page 63 at paragraph 8-18 (Day 1 Transcript).
 
-[\[note: 72\]](#Ftn_72_1)E.g. DBD141-142.
+[^72]: E.g. DBD141-142.
 
-[\[note: 73\]](#Ftn_73_1)DCS at \[60\] – \[64\].
+[^73]: DCS at \[60\] – \[64\].
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F22948-SSP.xml)

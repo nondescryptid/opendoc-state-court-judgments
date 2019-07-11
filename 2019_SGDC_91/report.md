@@ -1,3 +1,4 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
 # Public Prosecutor _v_ Seah Kim Hock  
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">DAC-929529-2018 &amp; DAC-929530-2018</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">10 May 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Mathew Joseph</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">DPP Jane Lim for the Prosecution; Accused in person</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Seah Kim Hock</td></tr></tbody></table>
@@ -129,7 +130,7 @@ _359.—(1_)     _The court before which a person is convicted of any offenc
 
 ## Post-Sentence
 
-19     As soon as sentence was passed, the accused became somewhat agitated. He asked “_Why is the sentence so heavy?_”[\[note: 1\]](#Ftn_1) The court then made clear to the accused that the sentence had already been passed. The accused continued to protest. He further retorted “_It is very simple, if the DPP want to bite me, die, up to ----- okay, I’ll admit.”[\[note: 2\]](#Ftn_2)_ The court again went on to state that the sentence was already passed and was based on the submissions of the Prosecution and the cited precedent and the accused’s antecedents. The accused continued to disagree, even as the court was trying to convey the position that the sentence had already been passed. The accused then abruptly stated that “_I want to go and collect my blood report today.”[\[note: 3\]](#Ftn_3)_ This was a surprise about turn by the accused. At the same time, the court was minded to grant some time to the accused for this purpose and to therefore defer the commencement of his sentence. As the Prosecution had no objection, the court then informed the accused that his sentence would only commence the following day upon his surrender to court at 3.00 PM in the afternoon. The accused agreed to return the following day to surrender and also asked “_Can I discuss about this decision to appeal tomorrow when I come back?” [\[note: 4\]](#Ftn_4)_ The court confirmed that the accused could return the following day to either commence serving his sentence or appeal his sentence.
+19     As soon as sentence was passed, the accused became somewhat agitated. He asked “_Why is the sentence so heavy?_”[^1] The court then made clear to the accused that the sentence had already been passed. The accused continued to protest. He further retorted “_It is very simple, if the DPP want to bite me, die, up to ----- okay, I’ll admit.”[^2]_ The court again went on to state that the sentence was already passed and was based on the submissions of the Prosecution and the cited precedent and the accused’s antecedents. The accused continued to disagree, even as the court was trying to convey the position that the sentence had already been passed. The accused then abruptly stated that “_I want to go and collect my blood report today.”[^3]_ This was a surprise about turn by the accused. At the same time, the court was minded to grant some time to the accused for this purpose and to therefore defer the commencement of his sentence. As the Prosecution had no objection, the court then informed the accused that his sentence would only commence the following day upon his surrender to court at 3.00 PM in the afternoon. The accused agreed to return the following day to surrender and also asked “_Can I discuss about this decision to appeal tomorrow when I come back?” [^4]_ The court confirmed that the accused could return the following day to either commence serving his sentence or appeal his sentence.
 
 ## Appeal and Stay of Execution
 
@@ -137,13 +138,13 @@ _359.—(1_)     _The court before which a person is convicted of any offenc
 
 * * *
 
-[\[note: 1\]](#Ftn_1_1)NE 15 Apr 2019 at page 16 line 2
+[^1]: NE 15 Apr 2019 at page 16 line 2
 
-[\[note: 2\]](#Ftn_2_1)NE 15 Apr 2019 at page 16 line 7
+[^2]: NE 15 Apr 2019 at page 16 line 7
 
-[\[note: 3\]](#Ftn_3_1)NE 15 Apr 2019 at page 17 line 16
+[^3]: NE 15 Apr 2019 at page 17 line 16
 
-[\[note: 4\]](#Ftn_4_1)NE 15 Apr 2019 at page 19 line 28
+[^4]: NE 15 Apr 2019 at page 19 line 28
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F23158-SSP.xml)

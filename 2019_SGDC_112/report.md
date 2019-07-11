@@ -1,3 +1,4 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
 # Public Prosecutor v Tristan Koh Boon Hui  
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">DAC 939942/2018 &amp; Ors</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">27 May 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Christopher Tan Pheng Wee</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Foo Shi Hao (Deputy Public Prosecutor) for the prosecution; Accused in person</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Tristan Koh Boon Hui</td></tr></tbody></table>
@@ -19,7 +20,7 @@ The Accused is a 25-year-old male. He pleaded guilty to the two charges below an
 
 \*Both imprisonment terms were ordered to run concurrently.
 
-2       The Accused also consented to two other charges[\[note: 2\]](#Ftn_2) against him being taken into consideration (“TiC”) for the purpose of sentencing. Both TiC charges relate to offences under s 6(3) of the Protection from Harassment Act[\[note: 3\]](#Ftn_3) (“PHA”).
+2       The Accused also consented to two other charges[^2] against him being taken into consideration (“TiC”) for the purpose of sentencing. Both TiC charges relate to offences under s 6(3) of the Protection from Harassment Act[^3] (“PHA”).
 
 ## Facts
 
@@ -55,7 +56,7 @@ WSSgt Lim did not suffer any visible injuries arising from the punch.
 
 ## Mitigation
 
-9       In his mitigation plea, the Accused said that he is very sorry for what happened and that he does not wish to lose his job.[\[note: 4\]](#Ftn_4)
+9       In his mitigation plea, the Accused said that he is very sorry for what happened and that he does not wish to lose his job.[^4]
 
 ## Sentence
 
@@ -73,13 +74,13 @@ Whoever assaults or uses criminal force to any person being a public servant in 
 
 50    Police officers must therefore be assured of adequate protection and vindication by the law against behaviour that might compromise the effective discharge of their duties. In that light and coupled with the fact that police officers were often the target in the cases prosecuted under s 332 of the Penal Code, it is appropriate to have a sentencing framework which reflects society's opprobrium of such offences. This will aid especially the State Courts in sentencing in such cases and help maintain uniformity in the sentences.
 
-12      _Jeffrey Yeo_ involved a more serious penal provision than in the present case before me −the charge in _Jeffrey Yeo_ was under s 332 of the Penal Code (which requires that hurt be caused). The present case involves a charge under s 353 of the Penal Code, which only requires use of criminal force.[\[note: 5\]](#Ftn_5) Nevertheless, the sentencing rationale expounded in _Jeffrey Yeo_ as regards protecting our law enforcement officers is of equal relevance to other offences involving physical violence against the police.
+12      _Jeffrey Yeo_ involved a more serious penal provision than in the present case before me −the charge in _Jeffrey Yeo_ was under s 332 of the Penal Code (which requires that hurt be caused). The present case involves a charge under s 353 of the Penal Code, which only requires use of criminal force.[^5] Nevertheless, the sentencing rationale expounded in _Jeffrey Yeo_ as regards protecting our law enforcement officers is of equal relevance to other offences involving physical violence against the police.
 
-13     Additionally, the High Court in _Jeffrey Yeo_[\[note: 6\]](#Ftn_6) indicated that the sentencing framework which it sought to lay down extends to, _inter alia_, members of the Special Constabulary (of which WSSgt Lim is a member).
+13     Additionally, the High Court in _Jeffrey Yeo_[^6] indicated that the sentencing framework which it sought to lay down extends to, _inter alia_, members of the Special Constabulary (of which WSSgt Lim is a member).
 
 14     There is a myriad of physical attacks to which our law enforcement officers could potentially be exposed. These include attacks with body-to-body contact (e.g. pushing or punching), those which are calculated to demean (e.g. spitting), or both (e.g. a slap to the face). Some attacks also carry risk of infection to the victim (e.g. biting). While sentencing precedents can be found for most of these categories, I was of the view that those which involve _pushing_ the victim are most apposite here. As regards the other categories:
 
-(a)     Precedent cases involving punches are less relevant to the current factual matrix. While the Accused in the present case threw a punch, the blow failed to connect with its mark as WSSgt Lim managed to block it with her hands. In any event, I found a dearth of precedents involving punching of law enforcement officers where the charge was one under s 353 of the Penal Code (i.e. the provision at issue here).[\[note: 7\]](#Ftn_7) However, the fact that contact in this case arose from the throwing of a punch tends to render the Accused’s actions more aggravating than a mere push −this is alluded to at paragraph 16(b) below.
+(a)     Precedent cases involving punches are less relevant to the current factual matrix. While the Accused in the present case threw a punch, the blow failed to connect with its mark as WSSgt Lim managed to block it with her hands. In any event, I found a dearth of precedents involving punching of law enforcement officers where the charge was one under s 353 of the Penal Code (i.e. the provision at issue here).[^7] However, the fact that contact in this case arose from the throwing of a punch tends to render the Accused’s actions more aggravating than a mere push −this is alluded to at paragraph 16(b) below.
 
 (b)     I also placed less emphasis on precedents involving attacks calculated to demean, such as spitting or slaps to the face, where the added dimension of indignity and humiliation suffered by the victim may warrant further nuancing of the sentence.
 
@@ -94,7 +95,7 @@ Whoever assaults or uses criminal force to any person being a public servant in 
 
 (a)     The manner of the Accused’s attack was more aggressive than just a push −he had thrown a punch. While that punch failed to hit home, this was not due to any restraint on his part but rather because WSSgt Lim had stopped the blow with her hands.
 
-(b)     As with the three precedent cases above, the Accused was intoxicated at the time of the offence. The High Court has repeatedly held that this is an aggravating factor: see _Wong Hoi Len v PP_ [\[note: 12\]](#Ftn_12) and (more recently) _PP v Holman, Benjamin John_ .[\[note: 13\]](#Ftn_13)
+(b)     As with the three precedent cases above, the Accused was intoxicated at the time of the offence. The High Court has repeatedly held that this is an aggravating factor: see _Wong Hoi Len v PP_ [^12] and (more recently) _PP v Holman, Benjamin John_ .[^13]
 
 (c)     The Accused’s actions as reflected in the two TiC charges, i.e. using expletives against both WSSgt Lim and Sgt Tan, also served to enhance his culpability.
 
@@ -138,31 +139,31 @@ This charge would thus merit either the maximum fine, or possibly a very short c
 
 * * *
 
-[\[note: 1\]](#Ftn_1_1)Chapter 224.
+[^1]: Chapter 224.
 
-[\[note: 2\]](#Ftn_2_1)MACs 902523 & 902524 of 2019.
+[^2]: MACs 902523 & 902524 of 2019.
 
-[\[note: 3\]](#Ftn_3_1)Chapter 256A.
+[^3]: Chapter 256A.
 
-[\[note: 4\]](#Ftn_4_1)The Statement of Facts (to which the Accused admitted) states that he works as an executive host.
+[^4]: The Statement of Facts (to which the Accused admitted) states that he works as an executive host.
 
-[\[note: 5\]](#Ftn_5_1)Section 332 of the Penal Code thus prescribes a maximum imprisonment term of 7 years, with fine or caning. On the other hand, s 353 of the Penal Code prescribes a maximum imprisonment term of only 4 years, with a possible fine but no caning.
+[^5]: Section 332 of the Penal Code thus prescribes a maximum imprisonment term of 7 years, with fine or caning. On the other hand, s 353 of the Penal Code prescribes a maximum imprisonment term of only 4 years, with a possible fine but no caning.
 
-[\[note: 6\]](#Ftn_6_1)At \[54\].
+[^6]: At \[54\].
 
-[\[note: 7\]](#Ftn_7_1)This is unsurprising, as the charge in a case involving a punch would generally cause pain, if not injury, particularly if the blow hits its mark. The charge involved would thus more likely be one under s 332 of the Penal Code, where a heavier sentencing range is prescribed (or under an even more severe penal provision, depending on the extent of injury).
+[^7]: This is unsurprising, as the charge in a case involving a punch would generally cause pain, if not injury, particularly if the blow hits its mark. The charge involved would thus more likely be one under s 332 of the Penal Code, where a heavier sentencing range is prescribed (or under an even more severe penal provision, depending on the extent of injury).
 
-[\[note: 8\]](#Ftn_8_1)The offender also pleaded guilty to other charges under s 332 of the Penal Code, s 6(3) of the PHA and s 14(2) of the Liquor Control (Supply and Consumption) Act 2015 (Act 5 of 2015). Seven other charges were taken into consideration for the purpose of sentencing.
+[^8]: The offender also pleaded guilty to other charges under s 332 of the Penal Code, s 6(3) of the PHA and s 14(2) of the Liquor Control (Supply and Consumption) Act 2015 (Act 5 of 2015). Seven other charges were taken into consideration for the purpose of sentencing.
 
-[\[note: 9\]](#Ftn_9_1)The sentence for another charge, under s 332 of the Penal Code, was enhanced to 8 months’ imprisonment (up from the 6-month term imposed by the lower court).
+[^9]: The sentence for another charge, under s 332 of the Penal Code, was enhanced to 8 months’ imprisonment (up from the 6-month term imposed by the lower court).
 
-[\[note: 10\]](#Ftn_10_1)Another charge under s 20 of the Miscellaneous Offences (Public Order and Nuisance) Act (Cap 184) was taken into consideration for the purpose of sentencing.
+[^10]: Another charge under s 20 of the Miscellaneous Offences (Public Order and Nuisance) Act (Cap 184) was taken into consideration for the purpose of sentencing.
 
-[\[note: 11\]](#Ftn_11_1)Under s 20 of the Miscellaneous Offences (Public Order and Nuisance) Act (Cap 184).
+[^11]: Under s 20 of the Miscellaneous Offences (Public Order and Nuisance) Act (Cap 184).
 
-[\[note: 12\]](#Ftn_12_1)At \[44\]
+[^12]: At \[44\]
 
-[\[note: 13\]](#Ftn_13_1)At \[25\] - \[26\].
+[^13]: At \[25\] - \[26\].
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F23225-SSP.xml)

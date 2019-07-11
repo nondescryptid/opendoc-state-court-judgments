@@ -1,3 +1,4 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
 # Public Prosecutor _v_ Tham Wai Kong  
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">DAC 938556-2016 &amp; others</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">22 May 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Tan Jen Tse</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">DPPs Mr Jordon Li and Cheng Yuxi for the Public Prosecutor; Accused in person</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Tham Wai Kong</td></tr></tbody></table>
@@ -53,7 +54,7 @@ You, Tham Wai Kong… are charged that you, on the 13th day of November 2014, Si
 
 12     The accused had represented to PW1 and PW2 that he would sell them the toys stated in the charges and in consequence thereof, they transferred money to his bank account. The sole issue was whether the accused had cheated by dishonestly inducing PW1 and PW2 (the persons deceived) to transfer the money on the false promise that he would deliver the toys they ordered.
 
-13     While there was no direct evidence of the accused’s intention, the prosecution submitted that an irresistible inference should be drawn from the following factors that there was dishonest inducement:-[\[note: 1\]](#Ftn_1)
+13     While there was no direct evidence of the accused’s intention, the prosecution submitted that an irresistible inference should be drawn from the following factors that there was dishonest inducement:-[^1]
 
 (a)     The conduct of the accused in becoming uncontactable after he failed to deliver the toys; and
 
@@ -79,23 +80,23 @@ I would like to highlight to the honourable court, why I should not be penalized
 
 Till this day I maintain that I am a victim of a co-ordinated “frame up” job to get me arrested and charged for something I did not commit.
 
-16     The accused claimed to have exposed at least 9 individuals for various offences which ranged from money laundering, massive criminal breach of trust, corruption, and rape.[\[note: 2\]](#Ftn_2) He asserted that they were now making him a scapegoat so that his conviction in the present case would render him an untrustworthy witness should these “criminals” be prosecuted.
+16     The accused claimed to have exposed at least 9 individuals for various offences which ranged from money laundering, massive criminal breach of trust, corruption, and rape.[^2] He asserted that they were now making him a scapegoat so that his conviction in the present case would render him an untrustworthy witness should these “criminals” be prosecuted.
 
-17     The accused’s conspiracy claim was outlandish and spurious.[\[note: 3\]](#Ftn_3) None of the witnesses he called supported him or gave any evidence in his favour. Cheot Zhi Chen (DW2), an officer with the Corrupt Practices Investigation Bureau (“CPIB”) who investigated into the matter after the accused lodged a CPIB report, testified that the accused’s claims were not supported by any evidence.
+17     The accused’s conspiracy claim was outlandish and spurious.[^3] None of the witnesses he called supported him or gave any evidence in his favour. Cheot Zhi Chen (DW2), an officer with the Corrupt Practices Investigation Bureau (“CPIB”) who investigated into the matter after the accused lodged a CPIB report, testified that the accused’s claims were not supported by any evidence.
 
-18     The accused even questioned the integrity of the trial Deputy Public Prosecutor (“DPP”) whom he asserted lied in court. He further alleged that he had an unsuccessful transaction with a Deputy Senior State Counsel (“DSSC”) over a $30 million deal. He asserted that the DSSC, who was the superior officer of the trial DPP, had looked through his file and said, “I’m going to get back at you, man.” He claimed that both the trial DPP and the DSSC had breached the law.[\[note: 4\]](#Ftn_4) Having considered the accused’s allegations, there was no basis to criticize the conduct of the trial DPP, the DSSC or the prosecution.
+18     The accused even questioned the integrity of the trial Deputy Public Prosecutor (“DPP”) whom he asserted lied in court. He further alleged that he had an unsuccessful transaction with a Deputy Senior State Counsel (“DSSC”) over a $30 million deal. He asserted that the DSSC, who was the superior officer of the trial DPP, had looked through his file and said, “I’m going to get back at you, man.” He claimed that both the trial DPP and the DSSC had breached the law.[^4] Having considered the accused’s allegations, there was no basis to criticize the conduct of the trial DPP, the DSSC or the prosecution.
 
 19     There was absolutely no basis to accept the accused’s bare assertion that there was a conspiracy against him. If he honestly held the belief that others were conspiring to harm him, this was in all likelihood a figment of his imagination.
 
 ## No evidence of malicious internet rumours
 
-20     The accused also asserted that from the latter part of 2014, malicious rumours had been spread on the internet by certain conspirators led by one ‘Glenn Chan’, which were to the effect that the accused could not deliver the items ordered by his customers. According to him, “pandemonium” ensued and there was a mass cancellation of orders. The scale was such that he was unable to give refunds to his all customers. The accused claimed that he had refunded money from his own pocket although there was no need for him to do so as the cancellations were not legitimate.[\[note: 5\]](#Ftn_5) This was one of many unfounded and unsubstantiated assertions made by the accused during the course of trial.
+20     The accused also asserted that from the latter part of 2014, malicious rumours had been spread on the internet by certain conspirators led by one ‘Glenn Chan’, which were to the effect that the accused could not deliver the items ordered by his customers. According to him, “pandemonium” ensued and there was a mass cancellation of orders. The scale was such that he was unable to give refunds to his all customers. The accused claimed that he had refunded money from his own pocket although there was no need for him to do so as the cancellations were not legitimate.[^5] This was one of many unfounded and unsubstantiated assertions made by the accused during the course of trial.
 
-21     It should firstly be noted that PW1 and PW2 could not cancel their orders as the accused did not allow them to. For example, when PW1 asked the accused on 4 March 2015 if he could obtain a refund for _Peacemaker_ and _Python_ so that he could channel his funds towards the purchase of _Hulkbuster_, the accused refused his request.[\[note: 6\]](#Ftn_6) It was therefore incumbent on the accused to procure the toys for PW1 and PW2 or make the necessary refunds. His claim to the effect that he could not afford the refunds was not credible. By his own account, he had a safe which was full of cash.
+21     It should firstly be noted that PW1 and PW2 could not cancel their orders as the accused did not allow them to. For example, when PW1 asked the accused on 4 March 2015 if he could obtain a refund for _Peacemaker_ and _Python_ so that he could channel his funds towards the purchase of _Hulkbuster_, the accused refused his request.[^6] It was therefore incumbent on the accused to procure the toys for PW1 and PW2 or make the necessary refunds. His claim to the effect that he could not afford the refunds was not credible. By his own account, he had a safe which was full of cash.
 
-22     To support his claim of the alleged malicious rumours, the accused relied on Exhibit D6 which contained various on-line posts. In my view, Exhibit D6 did not lend any support to the accused’s claim. The first post (dated 28 January 2015) originated from the accused and alleged that Glenn Chan had tried to find out what the accused’s customers had ordered and how much they paid.[\[note: 7\]](#Ftn_7) Significantly, the accused did not even mention that Glenn Chan had spread malicious rumours about him failing to deliver the items his customers ordered. While the accused also claimed that Glenn Chan had spread rumours on other forums, no evidence was tendered to show this.
+22     To support his claim of the alleged malicious rumours, the accused relied on Exhibit D6 which contained various on-line posts. In my view, Exhibit D6 did not lend any support to the accused’s claim. The first post (dated 28 January 2015) originated from the accused and alleged that Glenn Chan had tried to find out what the accused’s customers had ordered and how much they paid.[^7] Significantly, the accused did not even mention that Glenn Chan had spread malicious rumours about him failing to deliver the items his customers ordered. While the accused also claimed that Glenn Chan had spread rumours on other forums, no evidence was tendered to show this.
 
-23     The accused also admitted that Exhibit D6 did not show that any orders had been cancelled because of the alleged rumours.[\[note: 8\]](#Ftn_8) It therefore did not support his theory that malicious on-line rumours led to a mass cancellation of orders. PW1 and PW2 did not ask for refunds on the basis of any alleged internet rumours, but because the accused failed to deliver the toys they ordered.
+23     The accused also admitted that Exhibit D6 did not show that any orders had been cancelled because of the alleged rumours.[^8] It therefore did not support his theory that malicious on-line rumours led to a mass cancellation of orders. PW1 and PW2 did not ask for refunds on the basis of any alleged internet rumours, but because the accused failed to deliver the toys they ordered.
 
 24     I therefore found the accused’s claims regarding the on-line rumours to be unfounded.
 
@@ -107,7 +108,7 @@ Till this day I maintain that I am a victim of a co-ordinated “frame up” job
 
 ## The accused’s evidence relating to his supply of Hot Toys
 
-27     One of the key issues in determining if the accused intended to cheat PW1 and PW2 was whether he took steps to procure the toys they ordered. He claimed that his supplier was a Russian named Antanov, who sourced the toys from Russia and Eastern Europe. When the accused received on-line orders from his customers, he wrote them down on a piece of paper. He handed the piece of paper to Antanov or his friends when they visited Singapore once or twice a year. He did not make a copy of the piece of paper or keep his own records of what he had ordered.[\[note: 9\]](#Ftn_9) He would pre-pay his orders in full from the stash of cash he kept at home.[\[note: 10\]](#Ftn_10) To ensure that he only sold to collectors and not resellers, he placed a pre-order limit of one Hot Toy figurine per customer.[\[note: 11\]](#Ftn_11)
+27     One of the key issues in determining if the accused intended to cheat PW1 and PW2 was whether he took steps to procure the toys they ordered. He claimed that his supplier was a Russian named Antanov, who sourced the toys from Russia and Eastern Europe. When the accused received on-line orders from his customers, he wrote them down on a piece of paper. He handed the piece of paper to Antanov or his friends when they visited Singapore once or twice a year. He did not make a copy of the piece of paper or keep his own records of what he had ordered.[^9] He would pre-pay his orders in full from the stash of cash he kept at home.[^10] To ensure that he only sold to collectors and not resellers, he placed a pre-order limit of one Hot Toy figurine per customer.[^11]
 
 28     Having assessed the evidence, I did not think that the accused’s testimony relating to his alleged supplier was credible for the reasons which will be stated below.
 
@@ -117,7 +118,7 @@ Till this day I maintain that I am a victim of a co-ordinated “frame up” job
 
 #### No valid contact details
 
-30     The accused’s failure to provide Antanov’s valid contact details weighed against his claim that a person named Antanov was his supplier of Hot Toys. He could only provide a non-working telephone number to IO Ng Shiunn Jye (PW3).[\[note: 12\]](#Ftn_12) He could not even provide Antanov’s email address or any other contact details, such as a physical address. In my view, this indicated that it was highly unlikely that the accused could have placed orders for PW1 and PW2’s toys with Antanov.
+30     The accused’s failure to provide Antanov’s valid contact details weighed against his claim that a person named Antanov was his supplier of Hot Toys. He could only provide a non-working telephone number to IO Ng Shiunn Jye (PW3).[^12] He could not even provide Antanov’s email address or any other contact details, such as a physical address. In my view, this indicated that it was highly unlikely that the accused could have placed orders for PW1 and PW2’s toys with Antanov.
 
 #### The accused’s evidence on how he dealt with Antanov was dubious
 
@@ -131,13 +132,13 @@ Till this day I maintain that I am a victim of a co-ordinated “frame up” job
 
 34     In view of the accused’s assertion that Antanov and he had a long history of dealing, it would be reasonable to expect that there would be a documentary or evidentiary trail linking them. This could take the form of email, SMS, telephone records, or other correspondence on issues such as the price, availability of items, delivery schedules and payment. These were strikingly absent.
 
-35     Further, if any items had been delivered by Antanov, there must have been proof of delivery. The accused informed the Commercial Affairs Department (CAD) as early as 14 June 2016 that he could produce the delivery orders[\[note: 13\]](#Ftn_13) but he did not do so nor did he tender these documents in court.
+35     Further, if any items had been delivered by Antanov, there must have been proof of delivery. The accused informed the Commercial Affairs Department (CAD) as early as 14 June 2016 that he could produce the delivery orders[^13] but he did not do so nor did he tender these documents in court.
 
 36     The accused’s case was characterized by a total absence of documentary evidence showing any dealings with Antanov, whether in the past or in relation to the items ordered by PW1 and PW2. The absence of such evidence rendered his claim that he had placed orders with Antanov unlikely. There was no evidence to show that the accused had tried to procure the undelivered items which form the subject matter of the charges.
 
 ## No valid reason to stop delivery of items PW1 and PW2 ordered
 
-37     The accused testified that after he fell out with Antanov around May or June 2015 over the issue of provision of refunds by the accused to his customers, he instructed Antanov to stop deliveries as customers no longer wanted their orders.[\[note: 14\]](#Ftn_14) However, at no time were the orders of PW1 and PW2 cancelled.
+37     The accused testified that after he fell out with Antanov around May or June 2015 over the issue of provision of refunds by the accused to his customers, he instructed Antanov to stop deliveries as customers no longer wanted their orders.[^14] However, at no time were the orders of PW1 and PW2 cancelled.
 
 38     Even if the accused had placed orders for PW1 and PW2’s items with Antanov, it would have been irrational to stop Antanov (whom he paid in full) from delivering the items. Instead, the logical thing was to have instructed Antanov to make delivery, so that the orders made by PW1 and PW2 could be fulfilled. If the accused was truly a genuine seller, there would be no reason as to why he would have disabled himself from delivering the toys his customers ordered.
 
@@ -149,15 +150,15 @@ Till this day I maintain that I am a victim of a co-ordinated “frame up” job
 
 40     PW1 had ordered various toys between 13 November 2014 and 31 December 2014. According to the chat logs between the accused and PW1 (Exhibit P2), PW1 started enquiring about the status of his various orders or the possibility of a refund in February and March 2015. This continued until 3 February 2016 when the accused failed to respond any longer to PW1.
 
-41     During this time, the accused had misrepresented to PW1 the status of his orders. While the accused testified that he told Antanov to stop delivery after May or June 2015, he failed to disclose this to PW1. Instead, he continued to give the impression that the orders would be fulfilled. He informed PW1 after June 2015 that he would check with his supplier about the toys ordered. On 3 October 2015, he told PW1 that a large shipment was being prepared by his supplier and that it was coming soon.[\[note: 15\]](#Ftn_15) The accused continued to inform PW1 right up to 29 November 2015 that he could make a delivery by the end of the year or thereabouts.[\[note: 16\]](#Ftn_16) The accused was clearly untruthful and evasive towards PW1, since by his own account he had already instructed Antanov not to deliver any more items.
+41     During this time, the accused had misrepresented to PW1 the status of his orders. While the accused testified that he told Antanov to stop delivery after May or June 2015, he failed to disclose this to PW1. Instead, he continued to give the impression that the orders would be fulfilled. He informed PW1 after June 2015 that he would check with his supplier about the toys ordered. On 3 October 2015, he told PW1 that a large shipment was being prepared by his supplier and that it was coming soon.[^15] The accused continued to inform PW1 right up to 29 November 2015 that he could make a delivery by the end of the year or thereabouts.[^16] The accused was clearly untruthful and evasive towards PW1, since by his own account he had already instructed Antanov not to deliver any more items.
 
-42     The accused also agreed to give PW1 a refund if the items were not delivered before Christmas.[\[note: 17\]](#Ftn_17) However, on 26 December 2015, the accused informed PW1 that he could only make a refund towards the end of January 2016. When PW1 inquired about this on 1 February 2016, the accused replied on 3 February 2016 that he could only give the refund once the supplier passed him the money. The last communication between them was on 3 February 2016 when PW1 asked if the accused could transfer $500 to him as he needed it urgently for Chinese New Year, but the accused failed to respond. PW1 tried to message the accused’s handphone, but the accused also did not respond to him.[\[note: 18\]](#Ftn_18)
+42     The accused also agreed to give PW1 a refund if the items were not delivered before Christmas.[^17] However, on 26 December 2015, the accused informed PW1 that he could only make a refund towards the end of January 2016. When PW1 inquired about this on 1 February 2016, the accused replied on 3 February 2016 that he could only give the refund once the supplier passed him the money. The last communication between them was on 3 February 2016 when PW1 asked if the accused could transfer $500 to him as he needed it urgently for Chinese New Year, but the accused failed to respond. PW1 tried to message the accused’s handphone, but the accused also did not respond to him.[^18]
 
 #### The accused was evasive with PW2 and became uncontactable
 
 43     PW2 had ordered items from the accused between 19 December 2014 and 3 January 2015. The chat log between then is found at Exhibit P4.
 
-44     When the accused failed to deliver the items, PW2 started to check with the accused on or around 24 February 2015. After much persistence on PW2’s part, the accused refunded him $212.50 for an _Igor_ figurine on or around 27 April 2015, and made another refund of $300 for _Hot Rod_ on or around 18 May 2015.[\[note: 19\]](#Ftn_19) However, Exhibit P4 shows that the accused was evasive about the delivery of other items when he was queried by PW2 as well as on the issue of refunds for the items he failed to deliver.
+44     When the accused failed to deliver the items, PW2 started to check with the accused on or around 24 February 2015. After much persistence on PW2’s part, the accused refunded him $212.50 for an _Igor_ figurine on or around 27 April 2015, and made another refund of $300 for _Hot Rod_ on or around 18 May 2015.[^19] However, Exhibit P4 shows that the accused was evasive about the delivery of other items when he was queried by PW2 as well as on the issue of refunds for the items he failed to deliver.
 
 45     The accused failed to respond to PW2 from around 7 June 2015, despite being sent messages on 7 June 2015 and 22 August 2015. On 22 August 2015, the accused suddenly blocked PW2 from Facebook and became uncontactable. He also failed to contact PW2 to resolve the outstanding issues. His claim that he blocked PW2 as PW2 would message and call him at late hours, did not absolve him from contacting PW2 to resolve the issue of the outstanding orders.
 
@@ -167,11 +168,11 @@ Till this day I maintain that I am a victim of a co-ordinated “frame up” job
 
 “You’re crazy. You are killing yourself. What about the stocks that’s coming? What I’m gonna do with it?”. Because a lot of them, the packagings are---are pretty huge. 1 figure is fine when you have a carton, 2 cartons, 3 cartons, 4 cartons that piling up is no joke. So he says “Stop refunding. Tell your customers we were sell off the items first or their slots then we refund them”. I---he told me that is the right thing to do.
 
-47     The accused also testified that Antanov and he stopped dealing in watches as Antanov was very angry with him for giving refunds to those who had cancelled their orders.[\[note: 20\]](#Ftn_20) This was another inherently illogical bare allegation on the accused’s part. There would be no reason for Antanov to get angry with the accused as he had paid Antanov in full when the orders were placed. Further, in making refunds, he was using his own money (and not Antanov’s).[\[note: 21\]](#Ftn_21) There was also no evidence that pursuant to the alleged cancellations the accused had demanded that Antanov refund the money paid to him.
+47     The accused also testified that Antanov and he stopped dealing in watches as Antanov was very angry with him for giving refunds to those who had cancelled their orders.[^20] This was another inherently illogical bare allegation on the accused’s part. There would be no reason for Antanov to get angry with the accused as he had paid Antanov in full when the orders were placed. Further, in making refunds, he was using his own money (and not Antanov’s).[^21] There was also no evidence that pursuant to the alleged cancellations the accused had demanded that Antanov refund the money paid to him.
 
 ## The accused had the means to make refunds but failed to do so
 
-48     While the accused was an undischarged bankrupt, he boasted that he had a safe which was full of cash and tendered a photograph to support his claim (Exhibit D3). He claimed that he and his wife had twice struck lottery from Singapore Pools. The first time was for $350,000 (in August 2012) and the second time was for $25,000 (in December 2015).[\[note: 22\]](#Ftn_22)
+48     While the accused was an undischarged bankrupt, he boasted that he had a safe which was full of cash and tendered a photograph to support his claim (Exhibit D3). He claimed that he and his wife had twice struck lottery from Singapore Pools. The first time was for $350,000 (in August 2012) and the second time was for $25,000 (in December 2015).[^22]
 
 49     His claim that he was not able to give refunds due to a mass cancellation of orders was not credible as he had ample funds to do so. If he had been honest in his dealings with PW1 and PW2, he would have provided full refunds to them since he had informed Antanov not to make any more deliveries.
 
@@ -211,7 +212,7 @@ Explanation —A person is said to gain wrongfully when such person retains wron
 
 55     Taking the circumstantial evidence in totality, the irresistible inference and the only conclusion the court could arrive at was that the accused had intended to cheat PW1 and PW2 when he dishonestly induced them to transfer funds to him for the purchase of the toys. He was dishonest in that by doing so, he had gained wrongfully.
 
-56     By way of clarification, DAC 938553-2016 related to cheating with respect to $850 for 2 units of _Igor_. The funds for both units of _Igor_ were sent to the accused on or around 13 November 2014.[\[note: 23\]](#Ftn_23) The accused delivered one unit of _Igor_ on or around 6 June 2015, after many enquiries from PW1 and a request for a refund on 1 June 2015. Although delivery of one unit of _Igor_ was made, I was of the view that no amendment to the charge was necessary as PW1 had ordered 2 units of _Igor_ at the same time and as he expected delivery of both products.[\[note: 24\]](#Ftn_24)
+56     By way of clarification, DAC 938553-2016 related to cheating with respect to $850 for 2 units of _Igor_. The funds for both units of _Igor_ were sent to the accused on or around 13 November 2014.[^23] The accused delivered one unit of _Igor_ on or around 6 June 2015, after many enquiries from PW1 and a request for a refund on 1 June 2015. Although delivery of one unit of _Igor_ was made, I was of the view that no amendment to the charge was necessary as PW1 had ordered 2 units of _Igor_ at the same time and as he expected delivery of both products.[^24]
 
 ## FINDING OF GUILT
 
@@ -235,11 +236,11 @@ Explanation —A person is said to gain wrongfully when such person retains wron
 
 In relation to the Prosecution’s submission, I accept that the use of the Internet is a relevant sentencing consideration in that there is a strong public interest to deter potential offenders from using that medium to reach a larger number of potential victims.
 
-63     The fact that the accused was a serial cheat who had committed multiple offences against 2 victims was another aggravating factor.[\[note: 25\]](#Ftn_25)
+63     The fact that the accused was a serial cheat who had committed multiple offences against 2 victims was another aggravating factor.[^25]
 
 ## Plea-in-mitigation
 
-64     The accused re-iterated the issues raised in his defence. He maintained that there was a vast conspiracy against him. He also reiterated that he could not deliver due to false internet rumours being spread about him. He further accused the trial DPP of committing perjury. He also asserted that he had exposed certain criminal elements in the Attorney-General’s Chambers and that he had experienced bias. He had highlighted all these issues to PM Lee.[\[note: 26\]](#Ftn_26)
+64     The accused re-iterated the issues raised in his defence. He maintained that there was a vast conspiracy against him. He also reiterated that he could not deliver due to false internet rumours being spread about him. He further accused the trial DPP of committing perjury. He also asserted that he had exposed certain criminal elements in the Attorney-General’s Chambers and that he had experienced bias. He had highlighted all these issues to PM Lee.[^26]
 
 ## Sentencing precedents
 
@@ -263,57 +264,57 @@ In relation to the Prosecution’s submission, I accept that the use of the Inte
 
 * * *
 
-[\[note: 1\]](#Ftn_1_1)Prosecution’s closing submissions at \[19\].
+[^1]: Prosecution’s closing submissions at \[19\].
 
-[\[note: 2\]](#Ftn_2_1)Final written submissions of the accused.
+[^2]: Final written submissions of the accused.
 
-[\[note: 3\]](#Ftn_3_1)The exception was his allegation that one of the individuals was speeding at 160 kmph, which was supported by a photograph of a speedometer. However, this had no bearing on the case or my findings.
+[^3]: The exception was his allegation that one of the individuals was speeding at 160 kmph, which was supported by a photograph of a speedometer. However, this had no bearing on the case or my findings.
 
-[\[note: 4\]](#Ftn_4_1)NE day 6, page 4 line 8 to page 5 line 24.
+[^4]: NE day 6, page 4 line 8 to page 5 line 24.
 
-[\[note: 5\]](#Ftn_5_1)NE day 2, page 125 lines 13-18; page 127, lines 21-32.
+[^5]: NE day 2, page 125 lines 13-18; page 127, lines 21-32.
 
-[\[note: 6\]](#Ftn_6_1)Exhibit P2 at page 17.
+[^6]: Exhibit P2 at page 17.
 
-[\[note: 7\]](#Ftn_7_1)NE day 3, page 95, lines 10-20.
+[^7]: NE day 3, page 95, lines 10-20.
 
-[\[note: 8\]](#Ftn_8_1)NE day 3, page 28 line 27 to page 28 line 12.
+[^8]: NE day 3, page 28 line 27 to page 28 line 12.
 
-[\[note: 9\]](#Ftn_9_1)Exhibit P6, A14.
+[^9]: Exhibit P6, A14.
 
-[\[note: 10\]](#Ftn_10_1)NE day 3, page 141 line 19 to page 142 line 15.
+[^10]: NE day 3, page 141 line 19 to page 142 line 15.
 
-[\[note: 11\]](#Ftn_11_1)NE day 2, page 124 line 11 to page 125 line 6.
+[^11]: NE day 2, page 124 line 11 to page 125 line 6.
 
-[\[note: 12\]](#Ftn_12_1)NE day 2, page 22 line 13 to page 23 line 2.
+[^12]: NE day 2, page 22 line 13 to page 23 line 2.
 
-[\[note: 13\]](#Ftn_13_1)Exhibit P8, A5.
+[^13]: Exhibit P8, A5.
 
-[\[note: 14\]](#Ftn_14_1)NE day 4, page 33 line 30 to page 34 line 28.
+[^14]: NE day 4, page 33 line 30 to page 34 line 28.
 
-[\[note: 15\]](#Ftn_15_1)Exhibit P2, page 40, entries dated 3 and 15 October 2015.
+[^15]: Exhibit P2, page 40, entries dated 3 and 15 October 2015.
 
-[\[note: 16\]](#Ftn_16_1)Exhibit P2 at page 42.
+[^16]: Exhibit P2 at page 42.
 
-[\[note: 17\]](#Ftn_17_1)Exhibit P2, pages 40-41, entries dated 15 October 2015.
+[^17]: Exhibit P2, pages 40-41, entries dated 15 October 2015.
 
-[\[note: 18\]](#Ftn_18_1)NE day 1, page 66 line 12 to page 67 line 32; Exhibit P2, pages 43 to 44.
+[^18]: NE day 1, page 66 line 12 to page 67 line 32; Exhibit P2, pages 43 to 44.
 
-[\[note: 19\]](#Ftn_19_1)These items do not form the subject matter of any of the charges.
+[^19]: These items do not form the subject matter of any of the charges.
 
-[\[note: 20\]](#Ftn_20_1)NE day 3, page 157 line 29 to page 158 line 1.
+[^20]: NE day 3, page 157 line 29 to page 158 line 1.
 
-[\[note: 21\]](#Ftn_21_1)NE day 4, page 26, lines 29-32
+[^21]: NE day 4, page 26, lines 29-32
 
-[\[note: 22\]](#Ftn_22_1)NE day 2, page 140, lines 23-25; NE day 3, page 11, lines 3-5; page 13 line 20 to page 14 line 4.
+[^22]: NE day 2, page 140, lines 23-25; NE day 3, page 11, lines 3-5; page 13 line 20 to page 14 line 4.
 
-[\[note: 23\]](#Ftn_23_1)Exhibit P2 at page 3.
+[^23]: Exhibit P2 at page 3.
 
-[\[note: 24\]](#Ftn_24_1)If necessary, I would have amended the charge to reflect that the offence was with respect to one _Igor_ figurine and that the amount cheated was $425. In sentencing, I took into account that delivery of one _Igor_ figurine was made.
+[^24]: If necessary, I would have amended the charge to reflect that the offence was with respect to one _Igor_ figurine and that the amount cheated was $425. In sentencing, I took into account that delivery of one _Igor_ figurine was made.
 
-[\[note: 25\]](#Ftn_25_1)_PP v Fernando Payagala Waduge Malitha Kumar_ \[2007\] 2 SLR (R) 334 at \[43\] to \[46\].
+[^25]: _PP v Fernando Payagala Waduge Malitha Kumar_ \[2007\] 2 SLR (R) 334 at \[43\] to \[46\].
 
-[\[note: 26\]](#Ftn_26_1)NE day 7, page 6 line 19 to page 11 line 2.
+[^26]: NE day 7, page 6 line 19 to page 11 line 2.
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F23177-SSP.xml)

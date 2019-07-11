@@ -1,3 +1,4 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
 # Public Prosecutor _v_ Janarthanan S/O Vilasamy  
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">DAC-900675-2017</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">20 June 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Kessler Soh</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">APP Asran Samad (Attorney-General's Chambers) for the Prosecution; Defendant in person.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Janarthanan S/O Vilasamy</td></tr></tbody></table>
@@ -44,31 +45,31 @@ Voluntarily causing grievous hurt by dangerous weapons or means
 
 #### (a)   Victim testified that the defendant slashed her
 
-9       S Maenakadevi d/o Nagalingam (PW5, the “**Victim**”) testified[\[note: 1\]](#Ftn_1) that she had been in a relationship with the defendant for 8 to 9 months before the incident on 7 January 2017. The defendant and her had a “fight” inside her unit that morning. The fight arose because some drugs wrapped in a tissue paper, that the defendant had given to her to keep, was missing. She told the defendant to be patient while she looked for it. He suddenly took a chopper and slashed her on her right hand.
+9       S Maenakadevi d/o Nagalingam (PW5, the “**Victim**”) testified[^1] that she had been in a relationship with the defendant for 8 to 9 months before the incident on 7 January 2017. The defendant and her had a “fight” inside her unit that morning. The fight arose because some drugs wrapped in a tissue paper, that the defendant had given to her to keep, was missing. She told the defendant to be patient while she looked for it. He suddenly took a chopper and slashed her on her right hand.
 
 10     She managed to snatch the chopper from him and threw it aside. She started to bleed profusely. She told him not to bicker anymore. He then took a piece of cloth to wrap around the slashed area on her hand. As she had just taken a bath and did not have any clothes on, she took a towel and wrapped herself with it. She went to the front door. As soon as she opened the door she collapsed on the ground. It was at that point that her next door neighbour saw her, and called for the police as well as the ambulance.
 
 #### (b)   A neighbour called the police and an ambulance
 
-11     The Victim’s neighbour, Hiranisha Binte Rasimuddin (PW4, “**Hiranisha**”) testified[\[note: 2\]](#Ftn_2) that when she stepped out of the lift that morning to return to her unit, she saw the Victim lying down outside her (the Victim’s) unit. Her body was covered in blood, and there was also blood on her towel. Her hands were shaking and she asked for help to call the police. The defendant was there, and Hiranisha asked him what happened. He did not answer. Hiranisha said that she would call the police, and his response was “Call, lah, can go ahead” (or words to that effect). Hiranisha also testified that she saw a lot of blood in the Victim’s unit. The blood was “all around the floor”, “everywhere”. From the blood stains it appeared that the Victim had come out of the unit crawling.
+11     The Victim’s neighbour, Hiranisha Binte Rasimuddin (PW4, “**Hiranisha**”) testified[^2] that when she stepped out of the lift that morning to return to her unit, she saw the Victim lying down outside her (the Victim’s) unit. Her body was covered in blood, and there was also blood on her towel. Her hands were shaking and she asked for help to call the police. The defendant was there, and Hiranisha asked him what happened. He did not answer. Hiranisha said that she would call the police, and his response was “Call, lah, can go ahead” (or words to that effect). Hiranisha also testified that she saw a lot of blood in the Victim’s unit. The blood was “all around the floor”, “everywhere”. From the blood stains it appeared that the Victim had come out of the unit crawling.
 
 #### (c)   A chopper (among other exhibits) was seized
 
-12     Senior Staff Sergeant Soebqi Aiman Bin Soebirin (PW2, “**SSSgt Soebqi**”) and his partner were the first police officers to arrive at the scene. He testified[\[note: 3\]](#Ftn_3) that he saw the Victim lying on the ground just outside the unit. She was naked, with a towel wrapped around her. He also saw the defendant outside the unit. SSSgt Soebqi asked the defendant what happened. The defendant told him that a “third party” came into the unit and ran off from there. At that time the door to the unit was open. From his observations, SSSgt Soebqi believed something violent had happened inside the unit, and he called for backup. The officers went inside the unit and found and seized three items which they believed could have been the weapon used, including a chopper.
+12     Senior Staff Sergeant Soebqi Aiman Bin Soebirin (PW2, “**SSSgt Soebqi**”) and his partner were the first police officers to arrive at the scene. He testified[^3] that he saw the Victim lying on the ground just outside the unit. She was naked, with a towel wrapped around her. He also saw the defendant outside the unit. SSSgt Soebqi asked the defendant what happened. The defendant told him that a “third party” came into the unit and ran off from there. At that time the door to the unit was open. From his observations, SSSgt Soebqi believed something violent had happened inside the unit, and he called for backup. The officers went inside the unit and found and seized three items which they believed could have been the weapon used, including a chopper.
 
-13     The first investigation officer of the case, Station Inspector Alan Ng Yuebin (PW8, “**SI Ng**”) testified[\[note: 4\]](#Ftn_4) that the defendant was observed to be outside the unit. He was uncooperative. The officers tried to interview him but to no avail. After the defendant was brought to the police station, SI Ng tried to conduct an interview with the defendant, but he was not forthcoming and was uncooperative.
+13     The first investigation officer of the case, Station Inspector Alan Ng Yuebin (PW8, “**SI Ng**”) testified[^4] that the defendant was observed to be outside the unit. He was uncooperative. The officers tried to interview him but to no avail. After the defendant was brought to the police station, SI Ng tried to conduct an interview with the defendant, but he was not forthcoming and was uncooperative.
 
-14     The defendant was subsequently placed under arrest. The arrest report dated 7 January 2017 was tendered in evidence (Exh P5). Photographs subsequently taken at the scene were also tendered in evidence (Exh P1[\[note: 5\]](#Ftn_5)).
+14     The defendant was subsequently placed under arrest. The arrest report dated 7 January 2017 was tendered in evidence (Exh P5). Photographs subsequently taken at the scene were also tendered in evidence (Exh P1[^5]).
 
 #### (d)   Medical evidence of Victim’s injuries
 
-15     Meanwhile, the Victim was conveyed to the Emergency Department of the Ng Teng Fong General Hospital. A medical report of the Victim dated 3 March 2017 was tendered in evidence (Exh P3). The report was prepared by Dr Yu Hongmin (PW6, “**Dr Yu**”). It was observed that the Victim had (among other things) “laceration on the right lateral aspect of her \[right\] wrist 5-cm, exposing the tendon but sensation remained intact on right fingers” and an X-ray of the right hand showed a “displaced oblique fracture of the 2nd metacarpal proximal shaft”. Dr Yu testified[\[note: 6\]](#Ftn_6) that the deep injury sustained by the Victim was likely caused by a sharp object such as a knife. The angle of the laceration was slanted or diagonal. Dr Yu opined that the laceration (on the right wrist area) was _unlikely_ to be self-inflicted unless the person was left-hand dominant.[\[note: 7\]](#Ftn_7) (The Victim was right-handed.)
+15     Meanwhile, the Victim was conveyed to the Emergency Department of the Ng Teng Fong General Hospital. A medical report of the Victim dated 3 March 2017 was tendered in evidence (Exh P3). The report was prepared by Dr Yu Hongmin (PW6, “**Dr Yu**”). It was observed that the Victim had (among other things) “laceration on the right lateral aspect of her \[right\] wrist 5-cm, exposing the tendon but sensation remained intact on right fingers” and an X-ray of the right hand showed a “displaced oblique fracture of the 2nd metacarpal proximal shaft”. Dr Yu testified[^6] that the deep injury sustained by the Victim was likely caused by a sharp object such as a knife. The angle of the laceration was slanted or diagonal. Dr Yu opined that the laceration (on the right wrist area) was _unlikely_ to be self-inflicted unless the person was left-hand dominant.[^7] (The Victim was right-handed.)
 
 #### Defence
 
 16     After the close of the prosecution’s case, the defendant was called upon to enter his defence. He elected to testify.
 
-17     He testified[\[note: 8\]](#Ftn_8) that he and the Victim had a disagreement that morning. He wanted to return home (to his family), but she refused to let him go. She made some threats to kill herself, and he stopped her. It was she (not he) who took the chopper from the kitchen. She was holding on to the chopper and he was holding on to her hands and trying to take the chopper from her. They had a struggle, in the course of which she was accidentally slashed by the large blade of the chopper. He had never intended to harm her with the chopper.
+17     He testified[^8] that he and the Victim had a disagreement that morning. He wanted to return home (to his family), but she refused to let him go. She made some threats to kill herself, and he stopped her. It was she (not he) who took the chopper from the kitchen. She was holding on to the chopper and he was holding on to her hands and trying to take the chopper from her. They had a struggle, in the course of which she was accidentally slashed by the large blade of the chopper. He had never intended to harm her with the chopper.
 
 18     The defendant testified that he got to know the Victim about six to seven months prior to the incident. They both liked each other and he told her that he was a married man. Initially they were on good terms at the beginning of their relationship. As time went on she started to give him some problems. Whenever he tried to go back home she would pick a fight with him. She threatened him on two occasions that she would cut herself and end her life by jumping down. She threatened him by saying if he were to leave and go back to his home she would commit these acts and the blame would be on him. And she told him not to go. About two to three times he made plans to leave. The Victim came to the main gate and cut herself with a knife. He went back in and stopped what she was doing, and he continued to stay with her. On one occasion she took a knife to slit her throat. He did not want that to happen, so he stayed with her, and their relationship went on.
 
@@ -96,7 +97,7 @@ Voluntarily causing grievous hurt by dangerous weapons or means
 
 26     It should be noted, however, that after the taking of the evidence had been completed and the trial had been adjourned for submissions, the Victim sent two letters to the court, dated 22 November 2018 (Exh A) and 6 March 2019 (Exh B). In these letters she made certain assertions that contradicted her earlier oral testimony in court on 31 October 2018 (her “**earlier testimony**”). Given these unusual circumstances, she was recalled to give further testimony, which was heard on 2-3 May 2019 (her “**later testimony**”).
 
-27     The gist of her later testimony was as follows:[\[note: 9\]](#Ftn_9)
+27     The gist of her later testimony was as follows:[^9]
 
 (a)     It was true that on that day in question, her hand was cut and she was injured. But that was a result of the struggle when the defendant tried to pull the knife from her. It was she who was holding on to the knife. He tried to pull it away from her. As a result her hand was cut. She did not wish to blame the defendant for this, because it was her mistake, because she wanted to kill herself using the knife.
 
@@ -104,13 +105,13 @@ Voluntarily causing grievous hurt by dangerous weapons or means
 
 (c)     When the statement was being taken from her at the hospital she was feeling sleepy and dizzy. She did not read her statement at the hospital. It was the IO who read out something to her and told her to append her thumbprint. She was half conscious when she fixed her thumbprint on the statement. She subsequently did mention to the IO that she would like to have the case withdrawn but he did not allow it.
 
-28     Following her testimony, a rebuttal witness was called by the prosecution. The recorder of the Victim’s statement, Inspector Crystal Goh (PW9, “**Insp Goh**”) was called to testify to the circumstances under which the Victim’s statement was recorded. Insp Goh testified[\[note: 10\]](#Ftn_10) that she went to the hospital (Ng Teng Fong General Hospital) twice that day (7 January 2017). She first saw the Victim at the hospital at about 9.10 am. This was to check the Victim’s injuries to ascertain that they were not life-threatening and to ascertain “how it happened and who did it”. It was a preliminary interview to gather facts. She observed the Victim to be conscious but not lucid. The Victim informed that she was slashed by her boyfriend due to a dispute over drugs. Insp Goh took down some notes but did not record a statement from the Victim that morning as the Victim was going into an operation for her injury. Insp Goh left the hospital at about 1 pm.
+28     Following her testimony, a rebuttal witness was called by the prosecution. The recorder of the Victim’s statement, Inspector Crystal Goh (PW9, “**Insp Goh**”) was called to testify to the circumstances under which the Victim’s statement was recorded. Insp Goh testified[^10] that she went to the hospital (Ng Teng Fong General Hospital) twice that day (7 January 2017). She first saw the Victim at the hospital at about 9.10 am. This was to check the Victim’s injuries to ascertain that they were not life-threatening and to ascertain “how it happened and who did it”. It was a preliminary interview to gather facts. She observed the Victim to be conscious but not lucid. The Victim informed that she was slashed by her boyfriend due to a dispute over drugs. Insp Goh took down some notes but did not record a statement from the Victim that morning as the Victim was going into an operation for her injury. Insp Goh left the hospital at about 1 pm.
 
 29     Insp Goh went to the hospital a second time at about 4.15 pm. She visited the Victim at her bed and, on this occasion, recorded a statement from her. She spent some time talking to the Victim concerning what happened, before writing down her statement. Insp Goh testified that the Victim was conscious and stable, able to articulate, and able to recall facts very well. They spoke in English. The statement was a mixture of questions and answers. The statement was read back to the Victim. She was invited to make corrections or amendments; she did not make any amendment. As the Victim’s right hand was injured, the thumbprint of her left thumb was applied on the statement. The statement was recorded from 5 pm and completed at 6.25 pm.
 
 30     I found Insp Goh to be a truthful and credible witness. Her evidence that the Victim was conscious and articulate when the statement was given was far more credible than the Victim’s claim that she was half-conscious and unaware of the statement she had given. Insp Goh had no motive to fabricate the Victim’s statement. I was satisfied that Insp Goh had properly recorded in the statement what the Victim had told her. (The statement given by the Victim was admitted in evidence as Exh P9.)
 
-31     I found, on the other hand, that the Victim had a clear motive to disclaim the contents of her statement and her earlier testimony on 31 October 2018. By her own account she continued to love the defendant after the incident, and she wanted to withdraw the case and did not want him “to get any punishment”.[\[note: 11\]](#Ftn_11) She continued to visit him while he was in prison, and on one occasion (prior to her earlier testimony in October 2018), when they spoke about the case he told her to testify that it was because of a _struggle_ they had that her wrist was cut.[\[note: 12\]](#Ftn_12) In essence he suggested that she told a lie in court. Her letters (Exhs A and B) were plainly a late attempt to try to exonerate him.
+31     I found, on the other hand, that the Victim had a clear motive to disclaim the contents of her statement and her earlier testimony on 31 October 2018. By her own account she continued to love the defendant after the incident, and she wanted to withdraw the case and did not want him “to get any punishment”.[^11] She continued to visit him while he was in prison, and on one occasion (prior to her earlier testimony in October 2018), when they spoke about the case he told her to testify that it was because of a _struggle_ they had that her wrist was cut.[^12] In essence he suggested that she told a lie in court. Her letters (Exhs A and B) were plainly a late attempt to try to exonerate him.
 
 32     Taking into account the entirety of the evidence, I did not believe that the contents of Exhs A and B, and the Victim’s later testimony in May 2019 represented a true account of what happened. What she had told the court in her earlier testimony in October 2018, which was consistent with what was recorded in her statement just a matter of hours after the incident, was much closer to the unvarnished truth of what had transpired that morning of 7 January 2017.
 
@@ -118,7 +119,7 @@ Voluntarily causing grievous hurt by dangerous weapons or means
 
 33     The chopper seized from the Victim’s unit, by which her injuries had been sustained, was sent to the Health Sciences Authority (HSA) for analysis by the DNA Profiling Laboratory. A HSA report was subsequently prepared (Exh P7).
 
-34     The defendant’s DNA was not positively identified on the chopper. That observation was inconclusive, however. The HSA Analyst, Lee Yong Sheng (PW7) testified[\[note: 13\]](#Ftn_13) that it was possible for someone to have touched the chopper without the DNA being found. One possibility was that the person did not leave enough cells or DNA on the exhibit. Another possibility was that the person touched the area but the DNA was masked by the higher DNA levels of another person (such as when there is a lot of blood). Another possibility was that the person’s DNA may gave degraded over time due to environmental factors such as UV from sunlight, humidity, temperature as well as microbial activity.
+34     The defendant’s DNA was not positively identified on the chopper. That observation was inconclusive, however. The HSA Analyst, Lee Yong Sheng (PW7) testified[^13] that it was possible for someone to have touched the chopper without the DNA being found. One possibility was that the person did not leave enough cells or DNA on the exhibit. Another possibility was that the person touched the area but the DNA was masked by the higher DNA levels of another person (such as when there is a lot of blood). Another possibility was that the person’s DNA may gave degraded over time due to environmental factors such as UV from sunlight, humidity, temperature as well as microbial activity.
 
 #### (d)   Defendant’s testimony was not credible
 
@@ -207,31 +208,31 @@ Voluntarily causing grievous hurt by dangerous weapons or means
 
 * * *
 
-[\[note: 1\]](#Ftn_1_1)Transcript, 31 October 2018 (Day 1), pp 44-88.
+[^1]: Transcript, 31 October 2018 (Day 1), pp 44-88.
 
-[\[note: 2\]](#Ftn_2_1)Transcript, 31 October 2018 (Day 1), pp 32-44.
+[^2]: Transcript, 31 October 2018 (Day 1), pp 32-44.
 
-[\[note: 3\]](#Ftn_3_1)Transcript, 31 October 2018 (Day 1), pp 16-27.
+[^3]: Transcript, 31 October 2018 (Day 1), pp 16-27.
 
-[\[note: 4\]](#Ftn_4_1)Transcript, 2 November 2018 (Day 2), pp 20-30.
+[^4]: Transcript, 2 November 2018 (Day 2), pp 20-30.
 
-[\[note: 5\]](#Ftn_5_1)Note: only photographs 1-12, 14, 19-20, 25-32 of the photograph booklet were admitted in evidence. Photographs 13, 15-18, 21-24 were not relevant to the present case.
+[^5]: Note: only photographs 1-12, 14, 19-20, 25-32 of the photograph booklet were admitted in evidence. Photographs 13, 15-18, 21-24 were not relevant to the present case.
 
-[\[note: 6\]](#Ftn_6_1)Transcript, 2 November 2018 (Day 2), pp 1-13.
+[^6]: Transcript, 2 November 2018 (Day 2), pp 1-13.
 
-[\[note: 7\]](#Ftn_7_1)_Ibid_, at p 5 (line 10) – p 6 (line 10).
+[^7]: _Ibid_, at p 5 (line 10) – p 6 (line 10).
 
-[\[note: 8\]](#Ftn_8_1)Transcript, 2 November 2018 (Day 2), pp 34-63.
+[^8]: Transcript, 2 November 2018 (Day 2), pp 34-63.
 
-[\[note: 9\]](#Ftn_9_1)Transcript, 2 May 2019 (Day 4), pp 8-46; 3 May 2019 (Day 5), pp 1-28.
+[^9]: Transcript, 2 May 2019 (Day 4), pp 8-46; 3 May 2019 (Day 5), pp 1-28.
 
-[\[note: 10\]](#Ftn_10_1)Transcript, 3 May 2019 (Day 5), pp 29-44.
+[^10]: Transcript, 3 May 2019 (Day 5), pp 29-44.
 
-[\[note: 11\]](#Ftn_11_1)Transcript, 31 October 2018 (Day 1), p 77 (lines 29-32).
+[^11]: Transcript, 31 October 2018 (Day 1), p 77 (lines 29-32).
 
-[\[note: 12\]](#Ftn_12_1)Transcript, 31 October 2018 (Day 1), p 64 (line 9) – p 65 (line 7).
+[^12]: Transcript, 31 October 2018 (Day 1), p 64 (line 9) – p 65 (line 7).
 
-[\[note: 13\]](#Ftn_13_1)Transcript, 2 November 2018 (Day 2), pp 13-20.
+[^13]: Transcript, 2 November 2018 (Day 2), pp 13-20.
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F23305-SSP.xml)

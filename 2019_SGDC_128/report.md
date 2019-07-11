@@ -1,3 +1,4 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
 # Public Prosecutor _v_ Lim Yi Jie  
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">DAC-921252-2018 &amp; DAC-931531-2018</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">27 June 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Luke Tan</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Deputy Public Prosecutor, Mr Ho Lian-Yi for the Public Prosecution; Defence Counsel, Mr Rajwin Singh Sandhu (Amarjit Sidhu Law Practice) for the accused</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Lim Yi Jie</td></tr></tbody></table>
@@ -94,7 +95,7 @@ b)     DAC 931531-2018
 
 ## (3)   Summary of Prosecution’s Submissions on Sentence
 
-28     The Prosecution submitted for the following sentences to be imposed[\[note: 1\]](#Ftn_1).
+28     The Prosecution submitted for the following sentences to be imposed[^1].
 
 <table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="21.755648870226%"> <col width="19.6560687862428%"> <col width="26.1947610477904%"> <col width="32.3935212957409%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Charge</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Value involved</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Mens rea</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Proposed sentence</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC-921252-2018</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">$86,400</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">“Knowing”</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">At least 40 months’ imprisonment</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC-931531-2018</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">$5,950</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">“Reasonable grounds to believe”</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">At least 6 months’ imprisonment</p></td></tr></tbody></table>
 
@@ -184,7 +185,7 @@ b)     DAC 931531-2018
 
 41     For DAC-921252-2018, I was of the view that based on the factors relevant to culpability that were identified by the High Court in _Huang Ying-Chun_, the culpability of the accused for this charge was at the higher end of the medium category, due to the following reasons:
 
-(1)      Planning and premeditation involved, and scale and sophistication of scheme: As summarised in the Prosecution’s table[\[note: 2\]](#Ftn_2), even before the victim fell prey to the phishing scam on 7 May 2018, the accused had been told by “Earn Money” that they dealt with money that had been hacked from others’ bank accounts, and that the money would be transferred to the UOB account that had been set up for SL Pek Trading for which the accused was the authorised representative. “Earn Money” further informed the accused to stand by for someone to withdraw money from the UOB account. Subsequent details were given by “Earn Money” to the accused, who was also involved in co-ordinating between Foong and “Earn Money” in Singapore. In addition, the scheme also extended to the setting up of a bogus website and an apparently bogus company, and the involvement of various individuals and bank accounts. Clearly, the entire affair was not just a small time ruse, but was instead a sophisticated scam carried out with much deliberation and planning.
+(1)      Planning and premeditation involved, and scale and sophistication of scheme: As summarised in the Prosecution’s table[^2], even before the victim fell prey to the phishing scam on 7 May 2018, the accused had been told by “Earn Money” that they dealt with money that had been hacked from others’ bank accounts, and that the money would be transferred to the UOB account that had been set up for SL Pek Trading for which the accused was the authorised representative. “Earn Money” further informed the accused to stand by for someone to withdraw money from the UOB account. Subsequent details were given by “Earn Money” to the accused, who was also involved in co-ordinating between Foong and “Earn Money” in Singapore. In addition, the scheme also extended to the setting up of a bogus website and an apparently bogus company, and the involvement of various individuals and bank accounts. Clearly, the entire affair was not just a small time ruse, but was instead a sophisticated scam carried out with much deliberation and planning.
 
 (2)      The accused’s role: The Prosecution argued that the accused played a more major role in the entire arrangement, as compared to his co-accused, Foong, who was merely a runner. Specifically, the accused played at least three roles: (1) he was the authorised representative for SL Pek Trading and handed the necessary means of control of the UOB account to the syndicate in Malaysia; (2) he handed the cash cheques to Foong for the latter to withdraw the money; and (3) he also managed and coordinated Foong’s role in Singapore including giving Foong instructions to delete the call logs in his handphone. In addition, the accused was the one trusted by the syndicate to take over the large sum of $86,400 from Foong after the withdrawal of the money by the latter. He was apparently also trusted to relay instructions to Foong from “Earned Money”, who was clearly a higher placed member of the syndicate. There can be no doubt that the accused was more involved and culpable than Foong, and that he was “at least one step higher on the hierarchy” than Foong.
 
@@ -221,7 +222,7 @@ b)     DAC 931531-2018
 
 50     While both proceeded charges were framed under s 44(1)(_a_) CDSA, they clearly involved distinct offences where the actions of the accused were quite different, as were the accounts involved, and the time periods of the offences. It would thus have been entirely appropriate for consecutive sentences to have been imposed in the present case.
 
-51     The Prosecution, however, did not make any submission for the two imprisonment sentences to run consecutively, taking into account “…the totality of the offending, as well as the accused’s age, past records and future prospects”. [\[note: 3\]](#Ftn_3)
+51     The Prosecution, however, did not make any submission for the two imprisonment sentences to run consecutively, taking into account “…the totality of the offending, as well as the accused’s age, past records and future prospects”. [^3]
 
 52     Having assessed the matter holistically, and in line with the totality principle, I was of the view that it would be sufficient for the two imprisonment sentences to run concurrently for a global sentence of 40 months’ imprisonment.
 
@@ -241,7 +242,7 @@ b)     DAC 931531-2018
 
 57     In the present case, the accused had been convicted under s 44(1)(a) of the CDSA punishable under s 44(5)(a) of the same Act, while his co-accused, Foong, had pleaded guity on an earlier date to a lesser charge under s 44(1)(a) of the CDSA punishable under s 44(5)(a) of the same Act, read with s 116 of the Penal Code, Chapter 224 (where the offence is NOT committed in consequence of the abetment). The maximum prescribed punishment for Foong’s offence was “a term which may extend to one-fourth part of the longest term provided for that offence” i.e. 2 ½ years’ imprisonment, as compared to maximum term of 10 years’ imprisonment for the accused’s CDSA charge.
 
-58     For reasons not known to this court, the Prosecution, in the exercise of its discretion, had decided to proceed on different charges against the accused from that it proceeded with against Foong. This means that the charges that the accused and Foong pleaded guilty to were different, and with vastly dissimilar punishments. This distinction was explicitly made known to the Counsel and the accused during the court mention, and the accused nevertheless maintained his plea of guilt[\[note: 4\]](#Ftn_4). In the circumstances, the principle of parity clearly could not be used to justify a lesser sentence for the accused. Nor should the accused be surprised by this.
+58     For reasons not known to this court, the Prosecution, in the exercise of its discretion, had decided to proceed on different charges against the accused from that it proceeded with against Foong. This means that the charges that the accused and Foong pleaded guilty to were different, and with vastly dissimilar punishments. This distinction was explicitly made known to the Counsel and the accused during the court mention, and the accused nevertheless maintained his plea of guilt[^4]. In the circumstances, the principle of parity clearly could not be used to justify a lesser sentence for the accused. Nor should the accused be surprised by this.
 
 59     In any event, the fact remained that based on the considerations set out in _Huang Ying-chun_, and as extensively discussed in the earlier part of this judgment (see \[41(2)\]), the role and culpability of Foong was very different from that of the accused. The accused was clearly a lot more culpable and very much more involved. He was also more trusted and placed at a higher positon in the syndicate’s hierarchy. Moreover, the accused had two TIC charges which were relevant to his sentencing. All in all, imposing a global sentence of 40 months’ imprisonment on the accused on the two proceeded charges was entirely appropriate, and in accord with sentencing principles.
 
@@ -255,13 +256,13 @@ b)     DAC 931531-2018
 
 * * *
 
-[\[note: 1\]](#Ftn_1_1)Prosecution’s Skeletal Submissions on Sentence at \[2\]
+[^1]: Prosecution’s Skeletal Submissions on Sentence at \[2\]
 
-[\[note: 2\]](#Ftn_2_1)Prosecution’s Skeletal Submissions on Sentence at \[3\]
+[^2]: Prosecution’s Skeletal Submissions on Sentence at \[3\]
 
-[\[note: 3\]](#Ftn_3_1)Prosecution’s Skeletal Submissions on Sentence at \[26\]
+[^3]: Prosecution’s Skeletal Submissions on Sentence at \[26\]
 
-[\[note: 4\]](#Ftn_4_1)Notes of Evidence dated 6 June 2019 at page 22-24
+[^4]: Notes of Evidence dated 6 June 2019 at page 22-24
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F23320-SSP.xml)

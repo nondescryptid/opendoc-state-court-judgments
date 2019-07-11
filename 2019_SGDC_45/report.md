@@ -1,3 +1,4 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
 # Public Prosecutor _v_ Tan Cher Kuan Cavin  
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">MAC No. 903166-2018 and others</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">04 March 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Ong Hian Sun</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">DPP Benjamin Samynathan for the Prosecution; Mr Raviderpal Singh for The Accused (24 Oct 18 &amp; 23 Jan 19); Mr Wong Guo Yean for the Accused (7 Feb 19)</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Tan Cher Kuan Cavin</td></tr></tbody></table>
@@ -64,7 +65,7 @@ This offence is punishable on conviction to a fine not exceeding $10,000/- for e
 
 9       The Accused caused JCI to enter into an agreement dated 14 Oct 2013 with one Spade Auto Pte Ltd. For one month, JCI would sell vouchers at $10 each that would entitle the purchaser to a $50 discount at Spade Auto Pte Ltd.
 
-10     JCI employed at least five people: Seah Chu Wei,[\[note: 1\]](#Ftn_1) Jasper Phua Kian Wee,[\[note: 2\]](#Ftn_2) Tan Jieshou,[\[note: 3\]](#Ftn_3) Ryan Lee Wei Xian, and Joseph Wang Yinjing.
+10     JCI employed at least five people: Seah Chu Wei,[^1] Jasper Phua Kian Wee,[^2] Tan Jieshou,[^3] Ryan Lee Wei Xian, and Joseph Wang Yinjing.
 
 11     The witness is Jasper Phua Kian Wee (M/22/Singaporean). At the material time, he was 18 years of age, and working for JCI.
 
@@ -234,11 +235,11 @@ This offence is punishable on conviction to a fine not exceeding $10,000/- for e
 
 * * *
 
-[\[note: 1\]](#Ftn_1_1)Placed on probation.
+[^1]: Placed on probation.
 
-[\[note: 2\]](#Ftn_2_1)Administered a stern warning.
+[^2]: Administered a stern warning.
 
-[\[note: 3\]](#Ftn_3_1)Administered a stern warning.
+[^3]: Administered a stern warning.
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F22898-SSP.xml)

@@ -1,3 +1,4 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
 # Public Prosecutor _v_ Ismawi bin Ismail  
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">DAC-921572-2018 &amp; Ors</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">12 March 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Kessler Soh</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">DPP Eugene Sng (Attorney-General's Chambers) for the Prosecution; Kalidass S/O Murugaiyan (Kalidass Law Corporation) for the Defendant.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Ismawi bin Ismail</td></tr></tbody></table>
@@ -69,7 +70,7 @@ The key details of the Corruption Charges are summarised in the table below:
 
 15     Zainal also returned with the defendant to the Warehouse after working hours to block the view of a CCTV camera capturing footage of vehicle and personnel movements at the Warehouse. He would do so either by using a forklift to move a container to block the CCTV camera or by using a long pole to place a cloth over the camera. Zainal would then leave the Warehouse before the lorries arrived, returning only after they had left to unblock the view of the CCTV camera.
 
-16     Two or three days after each occasion, the defendant would meet Zainal in a toilet at the Warehouse and give him $200. This included the three occasions in September, October and November 2017.[\[note: 1\]](#Ftn_1)
+16     Two or three days after each occasion, the defendant would meet Zainal in a toilet at the Warehouse and give him $200. This included the three occasions in September, October and November 2017.[^1]
 
 #### (d)   Involvement of warehouse administrator (Mohd Ali)
 
@@ -77,9 +78,9 @@ The key details of the Corruption Charges are summarised in the table below:
 
 #### (e)   Payment of bribes to security officer (Letchumanan)
 
-18     Back in June 2017, after the defendant informed Zainal that a lorry would be coming to the Warehouse to pick up empty wooden pallets. Zainal relayed this to the security officer Letchumanan. Zainal instructed Letchumanan to allow the lorry to enter and exit the warehouse premises without recording its entry and exit details on a visitor movement log sheet or checking the contents of the lorry on its departure. Letchumanan complied with this instruction even though it was his responsibility as a security officer to do all of these things. Shortly after, the defendant passed $100 to Zainal and asked him to give it to Letchumanan as a reward. Zainal did so. The defendant thus abetted by instigation Zainal to corruptly give gratification of $100 to Letchumanan.[\[note: 2\]](#Ftn_2)
+18     Back in June 2017, after the defendant informed Zainal that a lorry would be coming to the Warehouse to pick up empty wooden pallets. Zainal relayed this to the security officer Letchumanan. Zainal instructed Letchumanan to allow the lorry to enter and exit the warehouse premises without recording its entry and exit details on a visitor movement log sheet or checking the contents of the lorry on its departure. Letchumanan complied with this instruction even though it was his responsibility as a security officer to do all of these things. Shortly after, the defendant passed $100 to Zainal and asked him to give it to Letchumanan as a reward. Zainal did so. The defendant thus abetted by instigation Zainal to corruptly give gratification of $100 to Letchumanan.[^2]
 
-19     Subsequently, on three occasions in or around September, October and November 2017, Letchumanan was instructed to allow unknown lorries to enter and exit the warehouse premises without recording their entry and exit details on a visitor movement log sheet or check the contents of the lorries on their departure. Letchumanan complied with these instructions. On 11 September, 2 October and 13 November 2017, the defendant deposited $800 into Letchumanan’s bank account as a reward.[\[note: 3\]](#Ftn_3)
+19     Subsequently, on three occasions in or around September, October and November 2017, Letchumanan was instructed to allow unknown lorries to enter and exit the warehouse premises without recording their entry and exit details on a visitor movement log sheet or check the contents of the lorries on their departure. Letchumanan complied with these instructions. On 11 September, 2 October and 13 November 2017, the defendant deposited $800 into Letchumanan’s bank account as a reward.[^3]
 
 #### (f)   CBT of nickel cathode plates
 
@@ -202,11 +203,11 @@ The key details of the Corruption Charges are summarised in the table below:
 
 * * *
 
-[\[note: 1\]](#Ftn_1_1)DAC-921584-2018; DAC-921585-2018; DAC-921589-2018.
+[^1]: DAC-921584-2018; DAC-921585-2018; DAC-921589-2018.
 
-[\[note: 2\]](#Ftn_2_1)DAC-921572-2018.
+[^2]: DAC-921572-2018.
 
-[\[note: 3\]](#Ftn_3_1)DAC-921575-2018; DAC-921576-2018; DAC-921580-2018.
+[^3]: DAC-921575-2018; DAC-921576-2018; DAC-921580-2018.
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F22924-SSP.xml)

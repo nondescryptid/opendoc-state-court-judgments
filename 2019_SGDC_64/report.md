@@ -1,3 +1,4 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
 # Public Prosecutor _v_ Soh Eng Luan  
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">DAC-939986-2018 and Ors</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">12 April 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Luke Tan</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Deputy Public Prosecutor Mr Norman Yew for the Prosecution; Counsel Mr K Bala Chandran (Mallal &amp; Namazie) for the Accused</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Soh Eng Luan</td></tr></tbody></table>
@@ -111,7 +112,7 @@
 
 ## (4)   Mitigation and Defence’s Submissions on Sentence
 
-18     The Defence Counsel, Mr K Bala Chandran, tendered a mitigation plea and a set of submissions on sentence. As regards the bulk of the facts set out by the Defence, these were essentially not disputed by the Prosecution. [\[note: 1\]](#Ftn_1)
+18     The Defence Counsel, Mr K Bala Chandran, tendered a mitigation plea and a set of submissions on sentence. As regards the bulk of the facts set out by the Defence, these were essentially not disputed by the Prosecution. [^1]
 
 19     In the mitigation plea, counsel highlighted the circumstances under which the offences were committed and the Accused had pleaded guilty.
 
@@ -125,7 +126,7 @@
 
 (5)      **_About a year after her report to CAD, the Accused was charged on 13 December 2018. During this mention, the court was informed of her intention to admit to the charges_**, and a date was subsequently taken for her to plead guilty.
 
-20     In addition, Mr Chandran submitted that the Accused’s culpability was low as she was not conversant with the ICV workflow and processes as she does not run any business and was not familiar with the system and how it operates. Whatever little she knew was told to her by Leong, the mastermind. Moreover, the Accused did not engage in multiple conspiracies and did not know the other co-accused persons (named in the SOF) and had met them only once. **_Further, even though the offences were committed over a short period from 17 August 2016 and 31 August 2016, the actual submission of the claim to SPRING (i.e. the subject matter of all the cheating charges) was made on a single date i.e. 31 August 2016_**[\[note: 2\]](#Ftn_2). As for the forgery charges, the forgeries were made by Leong himself, sent to the Accused via email, and submitted to SPRING online.
+20     In addition, Mr Chandran submitted that the Accused’s culpability was low as she was not conversant with the ICV workflow and processes as she does not run any business and was not familiar with the system and how it operates. Whatever little she knew was told to her by Leong, the mastermind. Moreover, the Accused did not engage in multiple conspiracies and did not know the other co-accused persons (named in the SOF) and had met them only once. **_Further, even though the offences were committed over a short period from 17 August 2016 and 31 August 2016, the actual submission of the claim to SPRING (i.e. the subject matter of all the cheating charges) was made on a single date i.e. 31 August 2016_**[^2]. As for the forgery charges, the forgeries were made by Leong himself, sent to the Accused via email, and submitted to SPRING online.
 
 21     Counsel submitted that Leong was the mastermind and had approached the Accused and taken advantage of her naivety. The Accused went along because she needed money due to her husband’s financial circumstances. She was also unaware of how Leong had carried out the forgeries, although she knew that documents were forged when she received them and submitted them online. In addition, when Leong wanted her to make additional claims to SPRING, she refused to participate further because of her guilty conscience.
 
@@ -214,7 +215,7 @@
 
 40     In short, in light of the Accused’s relatively low level of culpability, and the relatively low level of harm ultimately caused, as well as the strong mitigating factors in the Accused’s favour (especially the fact that that she was the person who alerted the police to the offences and activity “pushed” to return money to the victim - as compared to the accused persons in the precedent cases), I am of the view that the sentence imposed on the Accused should be significantly less than 5 months’ imprisonment per charge.
 
-41     Nevertheless, taking into account the need for the sentence to reflect a deterrent element in light of the fact that public funds were involved and a public body was targeted, as well as the amount involved in the charges, I am of the view that a sentence of 3 months’ imprisonment per charge is appropriate. While lower than what was imposed on Leong (8 months’ imprisonment per charge), and in the case of S_oh Hua Xiang_ (5 months’ imprisonment per charge), a sentence of 3 months’ imprisonment per charge is higher than the sentence of 2 months’ imprisonment per charge imposed for the accused persons in _Tan Yu Sheng_ and _Sim Chee Kiang[\[note: 3\]](#Ftn_3)_.
+41     Nevertheless, taking into account the need for the sentence to reflect a deterrent element in light of the fact that public funds were involved and a public body was targeted, as well as the amount involved in the charges, I am of the view that a sentence of 3 months’ imprisonment per charge is appropriate. While lower than what was imposed on Leong (8 months’ imprisonment per charge), and in the case of S_oh Hua Xiang_ (5 months’ imprisonment per charge), a sentence of 3 months’ imprisonment per charge is higher than the sentence of 2 months’ imprisonment per charge imposed for the accused persons in _Tan Yu Sheng_ and _Sim Chee Kiang[^3]_.
 
 42     Further, in line with the one transaction rule, and the submissions of both the Prosecution and Defence that only two (out of four) sentences should run consecutively, I decided that only the sentences for the two cheating charges (DAC-939986-2018 and DAC-940231-2018), which relate to separate transactions, should run consecutively. The global sentence is thus 6 months’ imprisonment, a sentence which is in line with the relevant aggravating and mitigating factors of the case. The sentence is also proportionate, not crushing, and in accord with the totality principle.
 
@@ -222,11 +223,11 @@
 
 * * *
 
-[\[note: 1\]](#Ftn_1_1)Notes of Evidence (NE) dated 22 March 2019 at page 19
+[^1]: Notes of Evidence (NE) dated 22 March 2019 at page 19
 
-[\[note: 2\]](#Ftn_2_1)NE dated 22 March 2019 at page 18
+[^2]: NE dated 22 March 2019 at page 18
 
-[\[note: 3\]](#Ftn_3_1)Sim’s global sentence was 6 months’ imprisonment (18 charges in total: 6 charges proceeded with, and 12 charges were TIC), and Tan’s global sentence was 8 months’ imprisonment (22 charges in total: 7 charges proceeded with, and 15 charges were TIC).
+[^3]: Sim’s global sentence was 6 months’ imprisonment (18 charges in total: 6 charges proceeded with, and 12 charges were TIC), and Tan’s global sentence was 8 months’ imprisonment (22 charges in total: 7 charges proceeded with, and 15 charges were TIC).
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F23054-SSP.xml)

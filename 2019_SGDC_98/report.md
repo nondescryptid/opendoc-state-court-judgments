@@ -1,3 +1,4 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
 # SC Construction & Renovation Pte Ltd v Jinzhou Construction Pte Ltd  
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Summons No. 1400 of 2019, District Court Originating Summons No. 42 of 2019, RAS 13/2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">16 May 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Tan May Tee</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Mr Ng Hweelon (Veritas Law Corporation) for the Plaintiff; Mr Ashok Kumar Rai (Eversheds Harry Elias LLP) for the Defendant</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">SC Construction &amp; Renovation Pte Ltd — Jinzhou Construction Pte Ltd</td></tr></tbody></table>
@@ -82,7 +83,7 @@ _“11_.     _.. the plaintiff appears insolvent and therefore unable to pay
 
 _12_.     _I say this because 4 sub-contractors have informed me that they have submitted payment claims to the plaintiff which have not been paid.”_
 
-17     The affidavit went on to identify the four subcontractors and exhibited their payment claims. On my examination of the documents exhibited, it appeared that the total amount claimed by the subcontractors added up to less than $32,043.52[\[note: 1\]](#Ftn_1). Other than the fact that this was a significantly small sum in comparison with the adjudicated amount of $180,582.55, the assertion by the Defendant’s director that she had been informed by the four subcontractors that they had submitted claims to the Plaintiff which had not been paid, without more, could hardly qualify as clear and objective evidence of the Plaintiff’s actual present insolvency.
+17     The affidavit went on to identify the four subcontractors and exhibited their payment claims. On my examination of the documents exhibited, it appeared that the total amount claimed by the subcontractors added up to less than $32,043.52[^1]. Other than the fact that this was a significantly small sum in comparison with the adjudicated amount of $180,582.55, the assertion by the Defendant’s director that she had been informed by the four subcontractors that they had submitted claims to the Plaintiff which had not been paid, without more, could hardly qualify as clear and objective evidence of the Plaintiff’s actual present insolvency.
 
 ## The Defendant’s claim in HC/ S 218/2019
 
@@ -108,7 +109,7 @@ _12_.     _I say this because 4 sub-contractors have informed me that they h
 
 * * *
 
-[\[note: 1\]](#Ftn_1_1)See pages 546, 547, 548, 549 and 554 of the Affidavit of Eng Kim Hong filed on 11 April 2019. Page 555 was excluded from the computation as the document is handwritten in Chinese and no certified translation has been furnished.
+[^1]: See pages 546, 547, 548, 549 and 554 of the Affidavit of Eng Kim Hong filed on 11 April 2019. Page 555 was excluded from the computation as the document is handwritten in Chinese and no certified translation has been furnished.
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F23172-SSP.xml)

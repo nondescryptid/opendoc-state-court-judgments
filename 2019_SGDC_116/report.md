@@ -1,3 +1,4 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
 # Public Prosecutor _v_ Muhammad Noor Fadjar bin Alias  
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">DAC-912896-2017 &amp; ors, Magistrate's Appeal No 9074-2019-01</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">30 May 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Hamidah Bte Ibrahim</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Mr Jaime Pang (DPP) for the Public Prosecutor; Accused in person.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Muhammad Noor Fadjar bin Alias</td></tr></tbody></table>
@@ -53,7 +54,7 @@ Muhammad Noor Fadjar Bin Alias (the accused), male, aged 36, claimed trial and w
 
 15     The investigating officer, Insp Yusyeila, gave directions for the seized drug exhibits to be sent to HSA for analysis. While 3 mobile phones were seized from the accused, only the Samsung phone was sent for forensics analysis as it was the only one that had activities. The messages extracted from the said phone which were extracted and set out in detail in P15 by the forensics analyst, were also translated from Malay to English by Insp Yusyeila as she is fluent in the language. Insp Yusyeila is also familiar with drug lingo which she said are words that are commonly used by accused persons to refer to drug activities. She explained that there were messages found in the accused’s phone that he sent to others like Uma, explaining that he did not have enough supply. Insp Yusyeila added that other forms of drug lingo used such as ‘a place to throw’ means a place of collection. The word “_keja”_ meant either placing an order or ordering together.
 
-16     The drug lingo used in the messages sent and received by the accused according to Insp Yusyeila showed that the accused had indeed been partaking in drug trafficking. Examples include messages to Nana Bak stating that accused was “_still packing_”[\[note: 1\]](#Ftn_1), a reference to him packing drugs for delivery. Another included a customer named Mimi asking the accused “_How much for 25 grams of ice?_”[\[note: 2\]](#Ftn_2).
+16     The drug lingo used in the messages sent and received by the accused according to Insp Yusyeila showed that the accused had indeed been partaking in drug trafficking. Examples include messages to Nana Bak stating that accused was “_still packing_”[^1], a reference to him packing drugs for delivery. Another included a customer named Mimi asking the accused “_How much for 25 grams of ice?_”[^2].
 
 17     During the cross-examination, the accused referred to a message on packing and said that the term used was not used to describe the packing of drugs but the packing of 25 boxes of Epam tablets. Insp Yusyeila replied that she had taken the message in context of a previous message which mentioned ‘_mainan_’ or in this case, smoking utensils for methamphetamine. Insp Yusyeila, in re-examination, described Epam as sleeping tablet which is taken orally but no such tablets were found at the scene.
 
@@ -83,27 +84,27 @@ Muhammad Noor Fadjar Bin Alias (the accused), male, aged 36, claimed trial and w
 
 25     I shall begin with the undisputed facts. Firstly, a party of CNB officers went to the above address and arrested the accused on 17 April 2017. Secondly, drugs were seized from the accused at this address. Thirdly, the accused does not deny that the drugs, class A controlled in nature, subject of the 4 trafficking charges, were found at the said address and that they were in his possession at the material time. The prosecution’s case is that the drugs were meant for trafficking while the accused’s defence is that they were for his consumption. The accused also claimed that he did not deliver drugs to his customers but had cheated them by giving them salt instead.
 
-26     To prove their case, the prosecution rely primarily on a confession recorded in a contemporaneous statement, P2, from the accused by SI Affendi, PW3, almost immediately after the arrest in the accused’s room. The accused agreed that he gave P2 voluntarily[\[note: 3\]](#Ftn_3). SI Affendi said there was nothing unusual about the recording process and the accused signed P2, on each and every page, in total 4 times. In P2, the accused has unequivocally admitted that the drugs belong to one Kecik and that he was selling the drugs for him or passing to anyone who wants. There are details in P2 on the delivery and payment for the drugs. The accused agreed that he had been selling drugs for Kecik since 2015 but he claimed that he had stopped in 2017.
+26     To prove their case, the prosecution rely primarily on a confession recorded in a contemporaneous statement, P2, from the accused by SI Affendi, PW3, almost immediately after the arrest in the accused’s room. The accused agreed that he gave P2 voluntarily[^3]. SI Affendi said there was nothing unusual about the recording process and the accused signed P2, on each and every page, in total 4 times. In P2, the accused has unequivocally admitted that the drugs belong to one Kecik and that he was selling the drugs for him or passing to anyone who wants. There are details in P2 on the delivery and payment for the drugs. The accused agreed that he had been selling drugs for Kecik since 2015 but he claimed that he had stopped in 2017.
 
 27     The accused now disputes P2 on 2 fronts. Firstly, he claimed that he did not sign P2. Secondly, he claimed that his answers were not recorded in full by S1 Affendi as he had told him that the drugs were for his consumption and that although his supplier told him to sell the drugs, he did not do so. Instead of delivering to Kecik’s customers, he had cheated them by giving them alternatives like salt and unknown substances.
 
-28     I shall deal with the issue of the accused’s signatures on P2. I am aware of the evidence of the document examiner, Mr Yap, PW11, who testified that he was unable to ascertain whether it was in fact the accused’s signature as he opined that the evidence was inconclusive. This was hence neither here nor there and Mr Yap agreed that it was at best neutral[\[note: 4\]](#Ftn_4). What is more significant is the fact that both SSSgt Fadli[\[note: 5\]](#Ftn_5) and S1 Affendi[\[note: 6\]](#Ftn_6) saw the accused signing P2. It would not make sense for a seasoned and experienced officer like S1 Affendi not to obtain the accused’s signatures on P2 after going through the process of recording his statement. The common description of the accused by the officers was the fact that he was co-operative[\[note: 7\]](#Ftn_7). That being the case there would have been no reason for the accused not to sign P2. In addition, there was no earthly reason as to why both SSSgt Fadli and S1 Affendi would lie and make up the fact of the accused signing P2 in their presence. I therefore make a finding that the accused did sign P2 and he did so voluntarily.
+28     I shall deal with the issue of the accused’s signatures on P2. I am aware of the evidence of the document examiner, Mr Yap, PW11, who testified that he was unable to ascertain whether it was in fact the accused’s signature as he opined that the evidence was inconclusive. This was hence neither here nor there and Mr Yap agreed that it was at best neutral[^4]. What is more significant is the fact that both SSSgt Fadli[^5] and S1 Affendi[^6] saw the accused signing P2. It would not make sense for a seasoned and experienced officer like S1 Affendi not to obtain the accused’s signatures on P2 after going through the process of recording his statement. The common description of the accused by the officers was the fact that he was co-operative[^7]. That being the case there would have been no reason for the accused not to sign P2. In addition, there was no earthly reason as to why both SSSgt Fadli and S1 Affendi would lie and make up the fact of the accused signing P2 in their presence. I therefore make a finding that the accused did sign P2 and he did so voluntarily.
 
-29     The next issue would be the weight to be attached to P2. The accused was well aware when he gave P2 about the seriousness[\[note: 8\]](#Ftn_8) of drug offences in Singapore, that trafficking in drugs is very serious and that he must tell the truth when the statement is recorded from him. He agreed that he answered all the questions posed truthfully[\[note: 9\]](#Ftn_9). SI Affendi was a complete stranger[\[note: 10\]](#Ftn_10) to the accused prior to their interaction on 17 April 2017 and this was a fact conceded by the accused when he gave his evidence that there was no bad blood between them[\[note: 11\]](#Ftn_11). There is therefore nothing to suggest that S1 Affendi would lie in court or deliberately record a false statement from the accused. He had testified that whatever answers which the accused gave in response to his questions were recorded[\[note: 12\]](#Ftn_12) by him. He was a forthright and candid witness whose only involvement with the accused was in the recording of P2. I see no reason not to give P2 its due weight and in P2, a contemporaneous statement it should be emphasised, there is an unequivocal admission by the accused that the drugs in question were given by his supplier for him to sell and hence the offence of trafficking can be established.
+29     The next issue would be the weight to be attached to P2. The accused was well aware when he gave P2 about the seriousness[^8] of drug offences in Singapore, that trafficking in drugs is very serious and that he must tell the truth when the statement is recorded from him. He agreed that he answered all the questions posed truthfully[^9]. SI Affendi was a complete stranger[^10] to the accused prior to their interaction on 17 April 2017 and this was a fact conceded by the accused when he gave his evidence that there was no bad blood between them[^11]. There is therefore nothing to suggest that S1 Affendi would lie in court or deliberately record a false statement from the accused. He had testified that whatever answers which the accused gave in response to his questions were recorded[^12] by him. He was a forthright and candid witness whose only involvement with the accused was in the recording of P2. I see no reason not to give P2 its due weight and in P2, a contemporaneous statement it should be emphasised, there is an unequivocal admission by the accused that the drugs in question were given by his supplier for him to sell and hence the offence of trafficking can be established.
 
-30     When the accused gave his defence, he mentioned for the first time that P2 was not read to him. This contradicted what SI Affendi had testified to and since the accused failed to put this point to SI Affendi when he was cross-examining him, I can only conclude that this was an afterthought on his part. While the accused conceded that his supplier Kecik had given him the drugs to sell, he used them instead for his own consumption and he had no intention to sell,[\[note: 13\]](#Ftn_13) and this was what he had told SI Affendi. On this score, SI Affendi was clear that the accused said no such thing to him. I was inclined to believe SI Affendi because when the accused mentioned in P2[\[note: 14\]](#Ftn_14) that the drugs inside a box were for his consumption, there was no follow up question from him. This was in contrast to the earlier part of P2 where after the accused disclosed that the drugs belonged to Kecik and he was helping him to sell the drugs there were follow up questions posed pertaining to details as to how the sales were carried out, when and how he received the drugs from Kecik, the pricing of these drugs, etc. These are details which can only be relevant for drug trafficking activity.
+30     When the accused gave his defence, he mentioned for the first time that P2 was not read to him. This contradicted what SI Affendi had testified to and since the accused failed to put this point to SI Affendi when he was cross-examining him, I can only conclude that this was an afterthought on his part. While the accused conceded that his supplier Kecik had given him the drugs to sell, he used them instead for his own consumption and he had no intention to sell,[^13] and this was what he had told SI Affendi. On this score, SI Affendi was clear that the accused said no such thing to him. I was inclined to believe SI Affendi because when the accused mentioned in P2[^14] that the drugs inside a box were for his consumption, there was no follow up question from him. This was in contrast to the earlier part of P2 where after the accused disclosed that the drugs belonged to Kecik and he was helping him to sell the drugs there were follow up questions posed pertaining to details as to how the sales were carried out, when and how he received the drugs from Kecik, the pricing of these drugs, etc. These are details which can only be relevant for drug trafficking activity.
 
-31     I now turn to his defence that he had cheated his customers by collecting payment and then giving them salt instead of the real drugs and this was what he had packed inside the packets. This was undoubtedly an afterthought which he sought to embellish later on as the accused only mentioned salt[\[note: 15\]](#Ftn_15) when giving his examination in chief but in the course of being cross-examined he suddenly came up with “_tawas”_[\[note: 16\]](#Ftn_16). He described “_tawas”_ as a material used to clean fish tanks. There was no explanation as to why he did not mention “_tawas_” in the course of his examination in chief when he went to great length to explain the use of coarse salt instead of the real drugs. Therefore, if “_tawas_” was really another material he had used as part of his ruse to cheat his customers, I would have expected him to raise it during his examination in chief. The accused was given more than ample time to state his defence and the fact that he failed to mention “_tawas_” earlier can only mean that not only was he embellishing his defence in the course of the trial, but the irresistible inference is that whether it was salt or/and “_tawas_” these claims were just mere afterthoughts.
+31     I now turn to his defence that he had cheated his customers by collecting payment and then giving them salt instead of the real drugs and this was what he had packed inside the packets. This was undoubtedly an afterthought which he sought to embellish later on as the accused only mentioned salt[^15] when giving his examination in chief but in the course of being cross-examined he suddenly came up with “_tawas”_[^16]. He described “_tawas”_ as a material used to clean fish tanks. There was no explanation as to why he did not mention “_tawas_” in the course of his examination in chief when he went to great length to explain the use of coarse salt instead of the real drugs. Therefore, if “_tawas_” was really another material he had used as part of his ruse to cheat his customers, I would have expected him to raise it during his examination in chief. The accused was given more than ample time to state his defence and the fact that he failed to mention “_tawas_” earlier can only mean that not only was he embellishing his defence in the course of the trial, but the irresistible inference is that whether it was salt or/and “_tawas_” these claims were just mere afterthoughts.
 
-32     Now the accused claimed that the customers he cheated included those he transacted with as disclosed in P15(Annex A1) (the data that was extracted from his mobile phone), namely Uma, Snake, Nana Bak and Mimi[\[note: 17\]](#Ftn_17). Beginning with Uma, in cross-examination, the accused agreed that Uma was a drug dealer and he was the supplier[\[note: 18\]](#Ftn_18). In fact, when questioned as to whether Uma is “ _a regular customer of yours_”[\[note: 19\]](#Ftn_19), the accused unhesitatingly agreed. From the messages exchanged between them from February to April 2017 the accused also agreed that there appeared to have been multiple transactions, deliveries involving even Uma’s further clients and the accused being paid on multiple occasions by Uma[\[note: 20\]](#Ftn_20). The accused admitted that for every single transaction he cheated Uma[\[note: 21\]](#Ftn_21) by giving him salt or “_tawas_” and not the drugs. The accused agreed that there were no messages from Uma complaining about salt or “_tawas_” or where Uma was angry with him that he did not receive the drugs that he paid for[\[note: 22\]](#Ftn_22).
+32     Now the accused claimed that the customers he cheated included those he transacted with as disclosed in P15(Annex A1) (the data that was extracted from his mobile phone), namely Uma, Snake, Nana Bak and Mimi[^17]. Beginning with Uma, in cross-examination, the accused agreed that Uma was a drug dealer and he was the supplier[^18]. In fact, when questioned as to whether Uma is “ _a regular customer of yours_”[^19], the accused unhesitatingly agreed. From the messages exchanged between them from February to April 2017 the accused also agreed that there appeared to have been multiple transactions, deliveries involving even Uma’s further clients and the accused being paid on multiple occasions by Uma[^20]. The accused admitted that for every single transaction he cheated Uma[^21] by giving him salt or “_tawas_” and not the drugs. The accused agreed that there were no messages from Uma complaining about salt or “_tawas_” or where Uma was angry with him that he did not receive the drugs that he paid for[^22].
 
-33     The situation appeared to be strikingly similar for the other 3 customers. For Snake too, the accused conceded that he was the drug supplier[\[note: 23\]](#Ftn_23) and there were recorded from February 2017 multiple transactions, deliveries and payments[\[note: 24\]](#Ftn_24) with no complaints[\[note: 25\]](#Ftn_25) raised by Snake. While the accused actually initially wavered when it came to Snake not complaining, the following exchange “…_Are there any complaints in here about being cheated about salt? Any complaints of being cheated with tawa? A: No, don’t have_”[\[note: 26\]](#Ftn_26) between the 2 of them made it resoundingly clear that there were none from Snake.
+33     The situation appeared to be strikingly similar for the other 3 customers. For Snake too, the accused conceded that he was the drug supplier[^23] and there were recorded from February 2017 multiple transactions, deliveries and payments[^24] with no complaints[^25] raised by Snake. While the accused actually initially wavered when it came to Snake not complaining, the following exchange “…_Are there any complaints in here about being cheated about salt? Any complaints of being cheated with tawa? A: No, don’t have_”[^26] between the 2 of them made it resoundingly clear that there were none from Snake.
 
-34     I will now deal with Nana Bak, a female client of the accused. He agreed that there were no messages from her complaining about being cheated[\[note: 27\]](#Ftn_27), about not getting deliveries, about getting salt or “_tawas_”. The accused willingly agreed to the description of Nana Bak as “ _a happy, satisfied customer_ ..”[\[note: 28\]](#Ftn_28) Lastly for Mimi, whom the accused agreed was a repeat and regular[\[note: 29\]](#Ftn_29) customer in 2017, there were multiple occasions where multiple drug transactions were recorded in the messages[\[note: 30\]](#Ftn_30). Similar to the other 3 customers, the accused also conceded that there were no messages from Mimi complaining of being cheated[\[note: 31\]](#Ftn_31) and that he received salt or “_tawas_”.
+34     I will now deal with Nana Bak, a female client of the accused. He agreed that there were no messages from her complaining about being cheated[^27], about not getting deliveries, about getting salt or “_tawas_”. The accused willingly agreed to the description of Nana Bak as “ _a happy, satisfied customer_ ..”[^28] Lastly for Mimi, whom the accused agreed was a repeat and regular[^29] customer in 2017, there were multiple occasions where multiple drug transactions were recorded in the messages[^30]. Similar to the other 3 customers, the accused also conceded that there were no messages from Mimi complaining of being cheated[^31] and that he received salt or “_tawas_”.
 
 35     I find it incredible that the above 4 customers who had allegedly been cheated by the accused in that he supplied them with either salt or “_tawas_”, instead of the drugs which he agreed to sell to them, and for which they made payment did not take him to task for not delivering what they had ordered from him. They were repeat and regular customers too and it defied logic for them to continue to be his customers if they had really been cheated. They were not novices or amateurs who would not have known whether they were really given drugs. The accused was clearly a dependable and reliable supplier of drugs as far as these customers were concerned. Uma and Snake went on to sell the drugs which they received from the accused to their own customers. There was not a whimper from any of them based on the messages, expressing either displeasure or dissatisfaction, which the accused had conceded too.
 
-36     The testimony from Hairezal also known as Snake did not help the accused’s defence as he was also one of the 4 customers whose interactions with the accused showed no record of any messages from him, expressing displeasure over the accused’s alleged cheating. This contradicted his position that he would be angry and upset if he was cheated by a supplier in that the supplier did not deliver the drugs or delivered things other than drugs[\[note: 32\]](#Ftn_32). While he claimed that he did send angry messages to the accused on the 14 of April 2017[\[note: 33\]](#Ftn_33) because the ice could not be smoked and the ecstasy had not been delivered, the records of P15(Annex A1) did not show any messages being exchanged between him and the accused, which only showed that Hairezal lied and was prepared to do so to aid the accused. Despite the accused and Hairezal trying to salvage the situation when the latter said he called, the phone records do not show that any call was made between the accused and Hairezal. In gist, I do not find any substance in Hairezal’s evidence which helped the accused to prove that he had been cheating his customers as he has shown himself to be an untruthful witness.
+36     The testimony from Hairezal also known as Snake did not help the accused’s defence as he was also one of the 4 customers whose interactions with the accused showed no record of any messages from him, expressing displeasure over the accused’s alleged cheating. This contradicted his position that he would be angry and upset if he was cheated by a supplier in that the supplier did not deliver the drugs or delivered things other than drugs[^32]. While he claimed that he did send angry messages to the accused on the 14 of April 2017[^33] because the ice could not be smoked and the ecstasy had not been delivered, the records of P15(Annex A1) did not show any messages being exchanged between him and the accused, which only showed that Hairezal lied and was prepared to do so to aid the accused. Despite the accused and Hairezal trying to salvage the situation when the latter said he called, the phone records do not show that any call was made between the accused and Hairezal. In gist, I do not find any substance in Hairezal’s evidence which helped the accused to prove that he had been cheating his customers as he has shown himself to be an untruthful witness.
 
 37     Under these circumstances, I came to the finding that the accused’s alleged cheating of his customers was undoubtedly a convenient afterthought which he concocted. I had no hesitation in rejecting his defence.
 
@@ -117,71 +118,71 @@ Muhammad Noor Fadjar Bin Alias (the accused), male, aged 36, claimed trial and w
 
 * * *
 
-[\[note: 1\]](#Ftn_1_1)Day 3, page 49, line 3, Notes of Evidence (NE).
+[^1]: Day 3, page 49, line 3, Notes of Evidence (NE).
 
-[\[note: 2\]](#Ftn_2_1)Day 3, page 49, line 25-26, NE.
+[^2]: Day 3, page 49, line 25-26, NE.
 
-[\[note: 3\]](#Ftn_3_1)Day 1, page(pg) 25, line 31-3, pg 26, Notes of Evidence(NE).
+[^3]: Day 1, page(pg) 25, line 31-3, pg 26, Notes of Evidence(NE).
 
-[\[note: 4\]](#Ftn_4_1)Day 2, pg 11, line 30-31, NE.
+[^4]: Day 2, pg 11, line 30-31, NE.
 
-[\[note: 5\]](#Ftn_5_1)Day 1, pg 19, line 32-4, pg 20, NE.
+[^5]: Day 1, pg 19, line 32-4, pg 20, NE.
 
-[\[note: 6\]](#Ftn_6_1)Day 1, pg 29, line 27-6, pg 30, NE.
+[^6]: Day 1, pg 29, line 27-6, pg 30, NE.
 
-[\[note: 7\]](#Ftn_7_1)Day 1, pg 12, line 5 and pg 17, line 31, NE.
+[^7]: Day 1, pg 12, line 5 and pg 17, line 31, NE.
 
-[\[note: 8\]](#Ftn_8_1)Day 4, pg 5, line 12-5, pg 6, NE.
+[^8]: Day 4, pg 5, line 12-5, pg 6, NE.
 
-[\[note: 9\]](#Ftn_9_1)Day 4, pg 6, line 23-26, NE.
+[^9]: Day 4, pg 6, line 23-26, NE.
 
-[\[note: 10\]](#Ftn_10_1)Day 1, pg 41, line 12-22, NE.
+[^10]: Day 1, pg 41, line 12-22, NE.
 
-[\[note: 11\]](#Ftn_11_1)Day 4,pg 6, line 27-5, pg 7, NE.
+[^11]: Day 4,pg 6, line 27-5, pg 7, NE.
 
-[\[note: 12\]](#Ftn_12_1)Day 1, pg 27, line 20-27, NE.
+[^12]: Day 1, pg 27, line 20-27, NE.
 
-[\[note: 13\]](#Ftn_13_1)Day 3, pg 65, line 15-17, NE.
+[^13]: Day 3, pg 65, line 15-17, NE.
 
-[\[note: 14\]](#Ftn_14_1)5th answer at 3rd page of P2 (refer to 2nd page of P2T)
+[^14]: 5th answer at 3rd page of P2 (refer to 2nd page of P2T)
 
-[\[note: 15\]](#Ftn_15_1)Day 3, pg 62, line 31-3, pg 63, NE.
+[^15]: Day 3, pg 62, line 31-3, pg 63, NE.
 
-[\[note: 16\]](#Ftn_16_1)Day 4, pg 17, line 29-32, NE.
+[^16]: Day 4, pg 17, line 29-32, NE.
 
-[\[note: 17\]](#Ftn_17_1)Day 4, pg 20, line 1-5, NE.
+[^17]: Day 4, pg 20, line 1-5, NE.
 
-[\[note: 18\]](#Ftn_18_1)Day 4, pg 33, line 6-12, NE.
+[^18]: Day 4, pg 33, line 6-12, NE.
 
-[\[note: 19\]](#Ftn_19_1)Day 4, pg 43, line 28-29, NE.
+[^19]: Day 4, pg 43, line 28-29, NE.
 
-[\[note: 20\]](#Ftn_20_1)Day 4, pg 43, line 30-10, pg 44, NE.
+[^20]: Day 4, pg 43, line 30-10, pg 44, NE.
 
-[\[note: 21\]](#Ftn_21_1)Day 4, pg 44, line 16-19, NE.
+[^21]: Day 4, pg 44, line 16-19, NE.
 
-[\[note: 22\]](#Ftn_22_1)Day 4, pg 44, line 20-26, NE.
+[^22]: Day 4, pg 44, line 20-26, NE.
 
-[\[note: 23\]](#Ftn_23_1)Day 4, pg 55, line14-16, NE.
+[^23]: Day 4, pg 55, line14-16, NE.
 
-[\[note: 24\]](#Ftn_24_1)Day 4, pg 55, line 21-24, NE.
+[^24]: Day 4, pg 55, line 21-24, NE.
 
-[\[note: 25\]](#Ftn_25_1)Day 4, line 28-19, pg 56, NE.
+[^25]: Day 4, line 28-19, pg 56, NE.
 
-[\[note: 26\]](#Ftn_26_1)Day 4, pg 57, line 18-21, NE.
+[^26]: Day 4, pg 57, line 18-21, NE.
 
-[\[note: 27\]](#Ftn_27_1)Day 4, pg 67, line 8-12, NE.
+[^27]: Day 4, pg 67, line 8-12, NE.
 
-[\[note: 28\]](#Ftn_28_1)Day 4, pg 67, line 13-14, NE.
+[^28]: Day 4, pg 67, line 13-14, NE.
 
-[\[note: 29\]](#Ftn_29_1)Day 4, pg 77, 24-26, NE.
+[^29]: Day 4, pg 77, 24-26, NE.
 
-[\[note: 30\]](#Ftn_30_1)Day 4, pg 77, line 11-14, NE.
+[^30]: Day 4, pg 77, line 11-14, NE.
 
-[\[note: 31\]](#Ftn_31_1)Day 4, pg 77, line 27-32, NE.
+[^31]: Day 4, pg 77, line 27-32, NE.
 
-[\[note: 32\]](#Ftn_32_1)Day 4, pg 92, line 1-32, NE.
+[^32]: Day 4, pg 92, line 1-32, NE.
 
-[\[note: 33\]](#Ftn_33_1)Day 4, pg 97, line 14-31, NE.
+[^33]: Day 4, pg 97, line 14-31, NE.
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F23228-SSP.xml)

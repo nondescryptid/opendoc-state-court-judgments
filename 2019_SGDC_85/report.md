@@ -1,3 +1,4 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
 # Public Prosecutor _v_ Wee Sook Yee  
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">District Arrest Case DAC-934583-2018 &amp; Others</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">02 May 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Chay Yuen Fatt</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">DPPs Mark Yeo &amp; Jane Lim for the Public Prosecutor; Foo Cheow Ming (Foo Cheow Meng Chambers) for the Accused</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Wee Sook Yee</td></tr></tbody></table>
@@ -18,9 +19,9 @@
 
 3       The accused pleaded guilty to the following two charges (“proceeded charges”):
 
-(a)     First charge under s 353 of the Penal Code (Cap. 224 using criminal force against a police officer when he was executing his duty, by slapping his left hand (“criminal force offence or charge”)[\[note: 1\]](#Ftn_1); and
+(a)     First charge under s 353 of the Penal Code (Cap. 224 using criminal force against a police officer when he was executing his duty, by slapping his left hand (“criminal force offence or charge”)[^1]; and
 
-(b)     Second charge under s 3(1)(a) punishable under s 3(2) of the Protection from Harassment Act (Cap. 256A) for harassing the her neighbour by ringing his doorbell and pouring water on his door (“POHA offence or charge”)[\[note: 2\]](#Ftn_2).
+(b)     Second charge under s 3(1)(a) punishable under s 3(2) of the Protection from Harassment Act (Cap. 256A) for harassing the her neighbour by ringing his doorbell and pouring water on his door (“POHA offence or charge”)[^2].
 
 4       The accused also consented to have two other charges taken into consideration (“TIC”) for the purpose of sentencing. These were one charge of disorderly behaviour under s 20 of the Miscellaneous Offences (Public Order and Nuisance) Act (Cap 184) and another charge under s 6(1)(a) of POHA for insulting the police officer by calling him “stupid”.
 
@@ -73,7 +74,7 @@ Facts relating to MAC-910197-2018): Section 3(1)(A) p/u Section 3(2) Protection 
 
 ## Reasons for Sentence – Criminal Force Offence
 
-9       I considered the personal circumstances of the accused as set out in the mitigation plea filed by her counsel.[\[note: 3\]](#Ftn_3) The accused is a 56-year old female homemaker. She is a first offender. As described in the mitigation, she has had “neighbourhood issues” with her next-door neighbour for many years. The proceeded POHA charge arose out of the long-standing feud between them. When the police were called to the scene, she then committed the criminal force offence when the police intervened.
+9       I considered the personal circumstances of the accused as set out in the mitigation plea filed by her counsel.[^3] The accused is a 56-year old female homemaker. She is a first offender. As described in the mitigation, she has had “neighbourhood issues” with her next-door neighbour for many years. The proceeded POHA charge arose out of the long-standing feud between them. When the police were called to the scene, she then committed the criminal force offence when the police intervened.
 
 10     In respect of the criminal force offence, counsel pleaded for only a fine in view of the accused’s clean record and her plea of guilt. It is not in dispute that this was the accused’s first brush with the law. However, I reminded counsel of the public interest to protect police officers which was re-affirmed by the High Court of three Judges in _PP v Yeo Ek Boon Jeffrey_ (“_Jeffrey Yeo_”). The appellate court in _Jeffrey Yeo_ has thus set the tone for adequate sentences to be meted out in cases of assault against police officers. On the facts of the case and taking into account the TIC charges, and in the absence of exceptional mitigating factors, I told counsel that the custodial threshold has been crossed in respect of the criminal force charge.
 
@@ -81,7 +82,7 @@ Facts relating to MAC-910197-2018): Section 3(1)(A) p/u Section 3(2) Protection 
 
 12     On the other hand, the prosecution asked for a sentence of at least four weeks’ imprisonment and has appealed against the one-week imprisonment sentence that was imposed. As noted earlier, the learned DPP had clarified to the court that their appeal is only confined to the imprisonment sentence in respect of the criminal force offence.
 
-13     The prosecution tendered a table of five precedents in relation to a criminal force offence committed against police officers.[\[note: 4\]](#Ftn_4) I asked the learned DPP if he was relying, in particular, on any of the cited precedents. He highlighted the first precedent of _PP v Li Xiangnan[\[note: 5\]](#Ftn_5)_ which is an unreported decision of the lower court and which was not the subject of an appeal. The brief facts in that case were stated to be that the accused, who was drunk, had a quarrel with his wife at home. The situation got out of hand when the accused started throwing household appliances around and the police were called to the scene. They interviewed the accused who was uncooperative and refused to answer their questions. He also shouted at the officers and refused to calm down when advised to do so. He then turned his attention to his wife and shouted at her to come out of the room. When he tried to go into the room, the police officer told him to sit down. _He then pushed the officer in the chest and moved towards him._ _The other officers seeing that the accused was going to charge at the first officer stepped in to arrest the accused who put up a violent struggle._ He was eventually subdued with necessary force. The accused was charged for an offence of using criminal force and was sentenced to four weeks’ imprisonment.
+13     The prosecution tendered a table of five precedents in relation to a criminal force offence committed against police officers.[^4] I asked the learned DPP if he was relying, in particular, on any of the cited precedents. He highlighted the first precedent of _PP v Li Xiangnan[^5]_ which is an unreported decision of the lower court and which was not the subject of an appeal. The brief facts in that case were stated to be that the accused, who was drunk, had a quarrel with his wife at home. The situation got out of hand when the accused started throwing household appliances around and the police were called to the scene. They interviewed the accused who was uncooperative and refused to answer their questions. He also shouted at the officers and refused to calm down when advised to do so. He then turned his attention to his wife and shouted at her to come out of the room. When he tried to go into the room, the police officer told him to sit down. _He then pushed the officer in the chest and moved towards him._ _The other officers seeing that the accused was going to charge at the first officer stepped in to arrest the accused who put up a violent struggle._ He was eventually subdued with necessary force. The accused was charged for an offence of using criminal force and was sentenced to four weeks’ imprisonment.
 
 14     I considered and compared the facts in _Li Xiangnan_ with the present case and. I took the view that the act of pushing the police officer in the chest and then attempting to charge at him in _Li Xiangnan_ is far more aggravating than the act of slapping the hand of the police officer in the present case. The amount of force and the degree of maliciousness in respect of both actions cannot be equated. In essence, a slap on the hand by a female accused is very different from a shove on the chest by a male accused. Furthermore, the accused in _Li Xiangnan_ was also drunk. He was far more aggressive than the present female accused who was a homemaker in her mid-fifties. While not trying to making light of her criminal act, I was of the view that her single slap on the officer’s hand must surely be less serious and aggressive than that of pushing the police officer in the chest and then attempting to charge at him as was the case in _Li Xiangnan_. I further considered that a slap on the hand is also not as degrading or humiliating as spitting at an officer (see _PP v Stephen Albert_ (MA 9254/2017); _PP v Rasaruddin Bin Abdul Rahaman_ (MA 9208/2017)) or slapping an officer in the face (see _PP v Walter Marcel Christoph_ which was cited by the prosecution), which acts would warrant a longer imprisonment term. The criminal force in the present case is also not as “insulting” as described by the High Court in _PP v Neo Rong Hao Benjamin_ (MA 9160/2017) where a male accused pushed a female officer in the chest and was sentenced on appeal to five weeks’ imprisonment.
 
@@ -89,29 +90,29 @@ Facts relating to MAC-910197-2018): Section 3(1)(A) p/u Section 3(2) Protection 
 
 16     I am aware and had considered that the accused’s slapping of the officer did cause pain to the officer (as stated in the SOF). However, the pain caused could not have been anything more than momentary and superficial considering that it was a single slap to a non-vulnerable part of the officer’s body. It was in fact so inconsequential that the officer did not seek medical treatment and certainly no injury was caused to him.
 
-17     I also viewed and considered the body-worn camera footage[\[note: 6\]](#Ftn_6) that was shown in court and which accompanied the SOF that was read out to the accused. The video footage did not add anything to the written words of the SOF. The learned DPP also did not highlight any portion of the video footage which was aggravating and not encapsulated in the SOF.
+17     I also viewed and considered the body-worn camera footage[^6] that was shown in court and which accompanied the SOF that was read out to the accused. The video footage did not add anything to the written words of the SOF. The learned DPP also did not highlight any portion of the video footage which was aggravating and not encapsulated in the SOF.
 
 18     I also considered the two TIC charges against the accused. The offence of disorderly behaviour and that of verbally berating the officer (_sans_ vulgarities or racial slurs) would have only attracted a fine even if the prosecution had proceeded with the two charges. The TIC charges would not and ought not to have the effect of increasing the imprisonment sentence for the criminal force offence to any significant degree. As I explained to counsel for the accused who had asked for a fine to be imposed for the criminal force offence, had the accused calmed herself down and apologised to the officer after slapping his hand, I would have considered imposing only a fine on her. In other words, if not for her acts that form the subject matter of the TIC charges, I would have given only a fine. Having said that, I did not think that the TIC charges would have the multiplier effect of augmenting the sentence to that of four weeks’ imprisonment that was sought by the prosecution.
 
 ## Conclusion
 
-19     In conclusion, I considered that an imprisonment sentence of one week is fairly commensurate with a single slap of the hand of the officer, even against the backdrop of all the circumstances of the case. As emphasised by counsel in his mitigation[\[note: 7\]](#Ftn_7), this is the first time that the accused has been charged for any offence and certainly the first time that she is going to jail. An imprisonment sentence even for a week is by no means a mere slap on the wrist. Taking into account the accused’s remorse as demonstrated by her plea of guilt and her clean record, the sentence of one week’s imprisonment ought to be sufficient punishment for her and would also adequately serve as a deterrent to like-minded individuals.
+19     In conclusion, I considered that an imprisonment sentence of one week is fairly commensurate with a single slap of the hand of the officer, even against the backdrop of all the circumstances of the case. As emphasised by counsel in his mitigation[^7], this is the first time that the accused has been charged for any offence and certainly the first time that she is going to jail. An imprisonment sentence even for a week is by no means a mere slap on the wrist. Taking into account the accused’s remorse as demonstrated by her plea of guilt and her clean record, the sentence of one week’s imprisonment ought to be sufficient punishment for her and would also adequately serve as a deterrent to like-minded individuals.
 
 * * *
 
-[\[note: 1\]](#Ftn_1_1)DAC-934583-2018.
+[^1]: DAC-934583-2018.
 
-[\[note: 2\]](#Ftn_2_1)MAC-910197-2018.
+[^2]: MAC-910197-2018.
 
-[\[note: 3\]](#Ftn_3_1)Plea in Mitigation (D1) dated 19 April 2019.
+[^3]: Plea in Mitigation (D1) dated 19 April 2019.
 
-[\[note: 4\]](#Ftn_4_1)P3; (1) _PP v Li Xiangnan_, (2) _PP v Selvam s/o Muthu Krishna_, (3) _PP v Walter Marcel Christoph_ , (4) _PP v Neo Rong Hoa Benjamin_ (MA-9160-2017-01), (5) _PP v Kandasamy Ramesh_ (MAC 902392-2016).
+[^4]: P3; (1) _PP v Li Xiangnan_, (2) _PP v Selvam s/o Muthu Krishna_, (3) _PP v Walter Marcel Christoph_ , (4) _PP v Neo Rong Hoa Benjamin_ (MA-9160-2017-01), (5) _PP v Kandasamy Ramesh_ (MAC 902392-2016).
 
-[\[note: 5\]](#Ftn_5_1)SC 904534/2017.
+[^5]: SC 904534/2017.
 
-[\[note: 6\]](#Ftn_6_1)P5.
+[^6]: P5.
 
-[\[note: 7\]](#Ftn_7_1)At \[11\].
+[^7]: At \[11\].
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F23157-SSP.xml)
