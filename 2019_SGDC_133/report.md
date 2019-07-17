@@ -1,4 +1,5 @@
-<style>.footnotes::before { content: "Footnotes:"; }</style># Public Prosecutor _v_ Tan Cheng Tien  
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Tan Cheng Tien  
 
 ### \[2019\] SGDC 133
 

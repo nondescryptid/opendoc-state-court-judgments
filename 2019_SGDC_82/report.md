@@ -1,4 +1,5 @@
-<style>.footnotes::before { content: "Footnotes:"; }</style># A\*Glasstech Pte. Ltd. _v_ Full-Glass Pte Ltd  
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# A\*Glasstech Pte. Ltd. _v_ Full-Glass Pte Ltd  
 
 ### \[2019\] SGDC 82
 

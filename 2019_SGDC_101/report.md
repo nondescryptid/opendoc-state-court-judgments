@@ -1,4 +1,5 @@
-<style>.footnotes::before { content: "Footnotes:"; }</style># Public Prosecutor _v_ Muhammad Shahidin bin Sahurdin  
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Muhammad Shahidin bin Sahurdin  
 
 ### \[2019\] SGDC 101
 

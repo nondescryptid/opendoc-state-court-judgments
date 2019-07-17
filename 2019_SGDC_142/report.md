@@ -1,4 +1,5 @@
-<style>.footnotes::before { content: "Footnotes:"; }</style># Public Prosecutor _v_ Muhammad Ammami Irwan bin Abdul Rahman  
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Muhammad Ammami Irwan bin Abdul Rahman  
 
 ### \[2019\] SGDC 142
 

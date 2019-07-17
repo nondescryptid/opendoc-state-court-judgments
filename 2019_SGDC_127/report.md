@@ -1,4 +1,5 @@
-<style>.footnotes::before { content: "Footnotes:"; }</style># Public Prosecutor _v_ Lim Hong Liang and Ong Hock Chye  
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Lim Hong Liang and Ong Hock Chye  
 
 ### \[2019\] SGDC 127
 

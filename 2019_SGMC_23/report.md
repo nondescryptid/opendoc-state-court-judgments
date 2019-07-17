@@ -1,4 +1,5 @@
-<style>.footnotes::before { content: "Footnotes:"; }</style># Public Prosecutor _v_ GCD  
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ GCD  
 
 ### \[2019\] SGMC 23
 

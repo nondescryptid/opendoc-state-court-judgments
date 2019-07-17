@@ -1,4 +1,5 @@
-<style>.footnotes::before { content: "Footnotes:"; }</style># Public Prosecutor _v_ Muthukaruppan Periyasamy  
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Muthukaruppan Periyasamy  
 
 ### \[2019\] SGDC 107
 

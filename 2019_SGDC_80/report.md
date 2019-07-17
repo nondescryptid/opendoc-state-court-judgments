@@ -1,4 +1,5 @@
-<style>.footnotes::before { content: "Footnotes:"; }</style># Public Prosecutor _v_ Koh Choon Lin Anthony  
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Koh Choon Lin Anthony  
 
 ### \[2019\] SGDC 80
 

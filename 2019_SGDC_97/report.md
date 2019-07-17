@@ -1,4 +1,5 @@
-<style>.footnotes::before { content: "Footnotes:"; }</style># Public Prosecutor _v_ Hamezi bin Jumahat  
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Hamezi bin Jumahat  
 
 ### \[2019\] SGDC 97
 

@@ -1,4 +1,5 @@
-<style>.footnotes::before { content: "Footnotes:"; }</style># NK Ceramic Pte Ltd _v_ Chong Fook Ying and others  
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# NK Ceramic Pte Ltd _v_ Chong Fook Ying and others  
 
 ### \[2019\] SGDC 87
 

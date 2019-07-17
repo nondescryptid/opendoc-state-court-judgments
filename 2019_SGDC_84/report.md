@@ -1,4 +1,5 @@
-<style>.footnotes::before { content: "Footnotes:"; }</style># Public Prosecutor _v_ Mohammad Faizal bin Omar  
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Mohammad Faizal bin Omar  
 
 ### \[2019\] SGDC 84
 

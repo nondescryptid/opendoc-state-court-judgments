@@ -1,4 +1,5 @@
-<style>.footnotes::before { content: "Footnotes:"; }</style># Public Prosecutor _v_ Lim Li Yong, Amanda  
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Lim Li Yong, Amanda  
 
 ### \[2019\] SGDC 137
 

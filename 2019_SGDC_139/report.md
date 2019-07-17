@@ -1,4 +1,5 @@
-<style>.footnotes::before { content: "Footnotes:"; }</style># Public Prosecutor _v_ Loy Zhong Huan, Dylan  
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Loy Zhong Huan, Dylan  
 
 ### \[2019\] SGDC 139
 

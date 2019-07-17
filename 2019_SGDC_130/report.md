@@ -1,4 +1,5 @@
-<style>.footnotes::before { content: "Footnotes:"; }</style># Public Prosecutor _v_ Mohamad Eskah bin Abdul Malek  
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Mohamad Eskah bin Abdul Malek  
 
 ### \[2019\] SGDC 130
 

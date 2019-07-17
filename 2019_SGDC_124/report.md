@@ -1,4 +1,5 @@
-<style>.footnotes::before { content: "Footnotes:"; }</style># Public Prosecutor _v_ Janarthanan S/O Vilasamy  
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Janarthanan S/O Vilasamy  
 
 ### \[2019\] SGDC 124
 

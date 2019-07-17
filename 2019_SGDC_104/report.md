@@ -1,4 +1,5 @@
-<style>.footnotes::before { content: "Footnotes:"; }</style># Public Prosecutor _v_ Annadurai s/o Periyasamy  
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Annadurai s/o Periyasamy  
 
 ### \[2019\] SGDC 104
 

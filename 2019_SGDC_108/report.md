@@ -1,4 +1,5 @@
-<style>.footnotes::before { content: "Footnotes:"; }</style># Public Prosecutor _v_ Muhammad Zulhilmy bin Azman  
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Muhammad Zulhilmy bin Azman  
 
 ### \[2019\] SGDC 108
 

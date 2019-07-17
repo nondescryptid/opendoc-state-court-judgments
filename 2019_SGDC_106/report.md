@@ -1,4 +1,5 @@
-<style>.footnotes::before { content: "Footnotes:"; }</style># Public Prosecutor _v_ Muhammad Yusof Yuuki bin Yacob Hussain  
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Muhammad Yusof Yuuki bin Yacob Hussain  
 
 ### \[2019\] SGDC 106
 

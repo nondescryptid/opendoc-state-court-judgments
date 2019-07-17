@@ -1,4 +1,5 @@
-<style>.footnotes::before { content: "Footnotes:"; }</style># Liu Baoan _v_ Tien Seng Engineering Pte Ltd and another  
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Liu Baoan _v_ Tien Seng Engineering Pte Ltd and another  
 
 ### \[2019\] SGDC 99
 

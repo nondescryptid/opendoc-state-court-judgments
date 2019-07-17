@@ -1,4 +1,5 @@
-<style>.footnotes::before { content: "Footnotes:"; }</style># SC Construction & Renovation Pte Ltd v Jinzhou Construction Pte Ltd  
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# SC Construction & Renovation Pte Ltd v Jinzhou Construction Pte Ltd  
 
 ### \[2019\] SGDC 98
 

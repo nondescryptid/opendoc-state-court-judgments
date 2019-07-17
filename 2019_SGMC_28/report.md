@@ -1,4 +1,5 @@
-<style>.footnotes::before { content: "Footnotes:"; }</style># Public Prosecutor _v_ Alex Lim Yong Chuan  
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Alex Lim Yong Chuan  
 
 ### \[2019\] SGMC 28
 

@@ -1,4 +1,5 @@
-<style>.footnotes::before { content: "Footnotes:"; }</style># Public Prosecutor v Tristan Koh Boon Hui  
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor v Tristan Koh Boon Hui  
 
 ### \[2019\] SGDC 112
 

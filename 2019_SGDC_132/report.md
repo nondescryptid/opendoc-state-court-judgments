@@ -1,4 +1,5 @@
-<style>.footnotes::before { content: "Footnotes:"; }</style># Public Prosecutor _v_ Kamarudin bin Mohamed Miza  
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Kamarudin bin Mohamed Miza  
 
 ### \[2019\] SGDC 132
 

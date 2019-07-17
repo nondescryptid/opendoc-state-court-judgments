@@ -1,4 +1,5 @@
-<style>.footnotes::before { content: "Footnotes:"; }</style># Public Prosecutor _v_ Cardoza Christopher Edward  
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Cardoza Christopher Edward  
 
 ### \[2019\] SGDC 111
 

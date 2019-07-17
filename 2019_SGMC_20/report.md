@@ -1,4 +1,5 @@
-<style>.footnotes::before { content: "Footnotes:"; }</style># Karats Pte Ltd _v_ Asia Capital and Brokerage Pte Ltd  
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Karats Pte Ltd _v_ Asia Capital and Brokerage Pte Ltd  
 
 ### \[2019\] SGMC 20
 

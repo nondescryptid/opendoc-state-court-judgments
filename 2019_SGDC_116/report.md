@@ -1,4 +1,5 @@
-<style>.footnotes::before { content: "Footnotes:"; }</style># Public Prosecutor _v_ Muhammad Noor Fadjar bin Alias  
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Muhammad Noor Fadjar bin Alias  
 
 ### \[2019\] SGDC 116
 

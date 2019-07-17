@@ -1,4 +1,5 @@
-<style>.footnotes::before { content: "Footnotes:"; }</style># Public Prosecutor _v_ Mohd Faroz bin Abdul Hamit  
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Mohd Faroz bin Abdul Hamit  
 
 ### \[2019\] SGDC 136
 

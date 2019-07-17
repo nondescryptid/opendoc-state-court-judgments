@@ -1,4 +1,5 @@
-<style>.footnotes::before { content: "Footnotes:"; }</style># Public Prosecutor _v_ Hayzal bin Mohamad Riduan  
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Hayzal bin Mohamad Riduan  
 
 ### \[2019\] SGDC 122
 

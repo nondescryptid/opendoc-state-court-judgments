@@ -1,4 +1,5 @@
-<style>.footnotes::before { content: "Footnotes:"; }</style># Public Prosecutor _v_ Abdul Muhaikal bin Abdul Mootalib  
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Abdul Muhaikal bin Abdul Mootalib  
 
 ### \[2019\] SGDC 140
 

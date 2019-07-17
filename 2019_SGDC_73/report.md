@@ -1,4 +1,5 @@
-<style>.footnotes::before { content: "Footnotes:"; }</style># Public Prosecutor _v_ Simon Tan Yew Chong  
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Simon Tan Yew Chong  
 
 ### \[2019\] SGDC 73
 

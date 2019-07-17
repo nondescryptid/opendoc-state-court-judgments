@@ -1,4 +1,5 @@
-<style>.footnotes::before { content: "Footnotes:"; }</style># The Management Corporation Strata Title Plan No. 1030 _v_ Hoe-Tan Company (Pte) Ltd  
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# The Management Corporation Strata Title Plan No. 1030 _v_ Hoe-Tan Company (Pte) Ltd  
 
 ### \[2019\] SGDC 76
 

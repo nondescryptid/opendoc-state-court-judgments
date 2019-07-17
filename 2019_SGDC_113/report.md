@@ -1,4 +1,5 @@
-<style>.footnotes::before { content: "Footnotes:"; }</style># Public Prosecutor _v_ Liew Yaoxiang Daniel  
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Liew Yaoxiang Daniel  
 
 ### \[2019\] SGDC 113
 

@@ -1,4 +1,5 @@
-<style>.footnotes::before { content: "Footnotes:"; }</style># Huan Jong Ming _v_ Khoo Khim Chin  
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Huan Jong Ming _v_ Khoo Khim Chin  
 
 ### \[2019\] SGDC 83
 

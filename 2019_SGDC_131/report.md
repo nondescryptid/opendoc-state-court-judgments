@@ -1,4 +1,5 @@
-<style>.footnotes::before { content: "Footnotes:"; }</style># Public Prosecutor _v_ Gunasegaran S/O Govindarajoo  
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Gunasegaran S/O Govindarajoo  
 
 ### \[2019\] SGDC 131
 

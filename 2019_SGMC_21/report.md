@@ -1,4 +1,5 @@
-<style>.footnotes::before { content: "Footnotes:"; }</style># Public Prosecutor _v_ Wham Kwok Han Jolovan  
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Wham Kwok Han Jolovan  
 
 ### \[2019\] SGMC 21
 

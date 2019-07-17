@@ -1,4 +1,5 @@
-<style>.footnotes::before { content: "Footnotes:"; }</style># Wah Lei Industrial Supply Co Pte Ltd _v_ Nasrin Akter  
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Wah Lei Industrial Supply Co Pte Ltd _v_ Nasrin Akter  
 
 ### \[2019\] SGDC 120
 

@@ -1,4 +1,5 @@
-<style>.footnotes::before { content: "Footnotes:"; }</style># Public Prosecutor _v_ Kumarasamy s/o Govindasamy  
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Kumarasamy s/o Govindasamy  
 
 ### \[2019\] SGDC 141
 

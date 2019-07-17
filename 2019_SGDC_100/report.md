@@ -1,4 +1,5 @@
-<style>.footnotes::before { content: "Footnotes:"; }</style># Public Prosecutor _v_ Arunachalam Elayaraja  
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Arunachalam Elayaraja  
 
 ### \[2019\] SGDC 100
 

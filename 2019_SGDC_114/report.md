@@ -1,4 +1,5 @@
-<style>.footnotes::before { content: "Footnotes:"; }</style># Public Prosecutor _v_ Harveen Kaur d/o Jaginder Singh  
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Harveen Kaur d/o Jaginder Singh  
 
 ### \[2019\] SGDC 114
 

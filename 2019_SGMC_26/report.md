@@ -1,4 +1,5 @@
-<style>.footnotes::before { content: "Footnotes:"; }</style># Public Prosecutor _v_ Syed Abdul Rahman bin Syed Mohsin  
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Syed Abdul Rahman bin Syed Mohsin  
 
 ### \[2019\] SGMC 26
 

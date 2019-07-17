@@ -1,4 +1,5 @@
-<style>.footnotes::before { content: "Footnotes:"; }</style># Jasmine binte Mohd Khalif @ Jasmine binte Mohd Khalip _v_ Bibi Fernaz Ashraf  
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Jasmine binte Mohd Khalif @ Jasmine binte Mohd Khalip _v_ Bibi Fernaz Ashraf  
 
 ### \[2019\] SGMC 32
 

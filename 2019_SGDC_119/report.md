@@ -1,4 +1,5 @@
-<style>.footnotes::before { content: "Footnotes:"; }</style># Public Prosecutor _v_ Andy Kow Yong Wen  
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Andy Kow Yong Wen  
 
 ### \[2019\] SGDC 119
 

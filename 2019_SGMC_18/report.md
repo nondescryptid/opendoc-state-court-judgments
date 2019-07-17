@@ -1,4 +1,5 @@
-<style>.footnotes::before { content: "Footnotes:"; }</style># Syed Almagdad bin Syed Faraj (administrator of the Estate of Musoling bin Faraj, deceased) _v_ India International Insurance Pte Ltd (personal representative of the estate of Chellappan Chivadasan, deceased)  
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Syed Almagdad bin Syed Faraj (administrator of the Estate of Musoling bin Faraj, deceased) _v_ India International Insurance Pte Ltd (personal representative of the estate of Chellappan Chivadasan, deceased)  
 
 ### \[2019\] SGMC 18
 

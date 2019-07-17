@@ -1,4 +1,5 @@
-<style>.footnotes::before { content: "Footnotes:"; }</style># Public Prosecutor _v_ Mohamad Yusri bin Mohamed Yusoff  
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Mohamad Yusri bin Mohamed Yusoff  
 
 ### \[2019\] SGDC 134
 

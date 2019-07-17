@@ -1,4 +1,5 @@
-<style>.footnotes::before { content: "Footnotes:"; }</style># Public Prosecutor _v_ Ong Jie Sheng, Jason  
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Ong Jie Sheng, Jason  
 
 ### \[2019\] SGDC 129
 
