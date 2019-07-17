@@ -1,5 +1,6 @@
-<style>.footnotes::before { content: "Footnotes:"; }</style>
-# Wah Lei Industrial Supply Co Pte Ltd _v_ Nasrin Akter  
+<style>.footnotes::before { content: "Footnotes:"; }</style># Wah Lei Industrial Supply Co Pte Ltd _v_ Nasrin Akter  
+
+### \[2019\] SGDC 120
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">District Court Suit No 3913 of 2016</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">16 June 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Ronald Gwee</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Mr Anthony Soh [M/s TAYLOR VINTERS VIA LLC] - for Plaintiff; Mr David Nayar [M/s DAVID NAYAR AND VARDAN] - for Defendant</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Wah Lei Industrial Supply Co Pte Ltd — Nasrin Akter</td></tr></tbody></table>
 

@@ -1,5 +1,6 @@
-<style>.footnotes::before { content: "Footnotes:"; }</style>
-# Tata International Singapore Pte. Limited _v_ Saachi Singapore Pte. Ltd.  
+<style>.footnotes::before { content: "Footnotes:"; }</style># Tata International Singapore Pte. Limited _v_ Saachi Singapore Pte. Ltd.  
+
+### \[2019\] SGDC 77
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Registrar's Appeal No. 19 of 2019, District Court Suit No.533 of 2018, RAS No 9 of 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">10 May 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">James Leong Kiu Yiu</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Mr Lin Weiwen Moses (Incisive Law LLC.) for the Plaintiff; Mr P Padman (KSCGP Juris LLP) for the Defendant.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Tata International Singapore Pte. Limited — Saachi Singapore Pte. Ltd.</td></tr></tbody></table>
 
@@ -31,7 +32,7 @@ Civil Procedure – Summary judgment
 
 ## Analysis
 
-6       Whether or not the Defendant would succeed in resisting the application for summary judgment on the countermanded cheques depended on whether there was conditional delivery of the cheques. In this regard, I was guided by the approach of District Judge Tan Puay Boon (as he then was) in _Lo Hing Yong v Reign Geoponics Pte Ltd_ (Lo Ying Hong) which also concerned summary judgment proceedings based on 2 dishonoured cheques. Specifically, on the issue of whether there was conditional delivery in that case, it was noted at \[38-39\] that:
+6       Whether or not the Defendant would succeed in resisting the application for summary judgment on the countermanded cheques depended on whether there was conditional delivery of the cheques. In this regard, I was guided by the approach of District Judge Tan Puay Boon (as he then was) in _Lo Hing Yong v Reign Geoponics Pte Ltd \[2016\] SGDC 242_ (Lo Ying Hong) which also concerned summary judgment proceedings based on 2 dishonoured cheques. Specifically, on the issue of whether there was conditional delivery in that case, it was noted at \[38-39\] that:
 
 _“38_      _In Marina Sports Ltd \[note: 11\] where the same defence was raised, the High Court stated that –_
 

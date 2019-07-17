@@ -1,5 +1,6 @@
-<style>.footnotes::before { content: "Footnotes:"; }</style>
-# Public Prosecutor _v_ Muhammad Faizal bin Mohamed Salleh  
+<style>.footnotes::before { content: "Footnotes:"; }</style># Public Prosecutor _v_ Muhammad Faizal bin Mohamed Salleh  
+
+### \[2019\] SGDC 115
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">District Arrest Case No. 934088/2018 &amp; Others, Magistrate's Appeal No. 9090/2018/01</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">29 May 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Ng Cheng Thiam</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">DPP Andre Ong (Attorney-General's Chambers) for the Prosecution.; Tan Jeh Yaw (Tan Jeh Yaw Law Chambers) for the Accused.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Muhammad Faizal bin Mohamed Salleh</td></tr></tbody></table>
 
@@ -147,11 +148,11 @@ You, Muhammad Faizal Bin Mohamed Salleh, …, Male/29 years, …, are charged th
 
 ### A   Applicable Sentencing Principles
 
-36     In my judgment, general deterrence in sentencing was applicable to this case. General deterrence aims to educate and deter other like-minded members of the general public by making an example of a particular offender. The use of wanton violence, in addition to harming their immediate victims, also have the wider-felt impact of triggering unease and offending the sensibilities of the general public. It is in the public interest that a strong message be sent that that the commission of such crimes would be met with a lengthy custodial sentence. See _PP v Law Aik Meng_ at \[24\] – \[25\]. I was therefore in agreement with the Prosecution’s submissions that this case called for a deterrent sentence to quell the public disquiet caused by the vicious attack on Noordilah which was carried out in full view of members of the public.
+36     In my judgment, general deterrence in sentencing was applicable to this case. General deterrence aims to educate and deter other like-minded members of the general public by making an example of a particular offender. The use of wanton violence, in addition to harming their immediate victims, also have the wider-felt impact of triggering unease and offending the sensibilities of the general public. It is in the public interest that a strong message be sent that that the commission of such crimes would be met with a lengthy custodial sentence. See _PP v Law Aik Meng_ \[2007\] 2 SLR(R) 814 at \[24\] – \[25\]. I was therefore in agreement with the Prosecution’s submissions that this case called for a deterrent sentence to quell the public disquiet caused by the vicious attack on Noordilah which was carried out in full view of members of the public.
 
-37     Next, I also held the view that specific deterrence in sentencing was also applicable in this case. Specific deterrence relates to the effect that the punishment might have in persuading an offender to refrain from committing such offences again by fashioning an appropriate sentence that takes into account the nature of the offence and the accused’s peculiar disposition: _PP v Loqmanul Hakim bin Buang_ at \[25\] – \[29\].
+37     Next, I also held the view that specific deterrence in sentencing was also applicable in this case. Specific deterrence relates to the effect that the punishment might have in persuading an offender to refrain from committing such offences again by fashioning an appropriate sentence that takes into account the nature of the offence and the accused’s peculiar disposition: _PP v Loqmanul Hakim bin Buang_ \[2007\] 4 SLR(R) 753 at \[25\] – \[29\].
 
-38     Thirdly, I understood the Prosecution’s submissions to be that the retributive principle is an important sentencing consideration in this case. Accordingly, I accepted the Prosecution’s submission that it is important that offenders are punished not just for the physical harm they inflict but also for the life-long trauma, emotional distress and anguish they have callously and cruelly inflicted on their victim: _PP v Murugesan_ at \[55\].
+38     Thirdly, I understood the Prosecution’s submissions to be that the retributive principle is an important sentencing consideration in this case. Accordingly, I accepted the Prosecution’s submission that it is important that offenders are punished not just for the physical harm they inflict but also for the life-long trauma, emotional distress and anguish they have callously and cruelly inflicted on their victim: _PP v Murugesan_ \[2005\] SGHC 160 at \[55\].
 
 ### B   Section 326, PC – A custodial sentence was warranted
 
@@ -159,7 +160,7 @@ You, Muhammad Faizal Bin Mohamed Salleh, …, Male/29 years, …, are charged th
 
 ### (i)   The indicative starting point for sentencing based on the seriousness of the injury
 
-40     In determining the appropriate sentence, I followed the two-step framework enunciated in _PP v BDB_ (“_BDB_”). The first step was to determine the indicative starting point for sentencing based on the serious of the injury. The second step was to make adjustment for the offender’s culpability by taking into account the relevant aggravating and/or mitigating circumstances.
+40     In determining the appropriate sentence, I followed the two-step framework enunciated in _PP v BDB_ \[2017\] SGCA 69 (“_BDB_”). The first step was to determine the indicative starting point for sentencing based on the serious of the injury. The second step was to make adjustment for the offender’s culpability by taking into account the relevant aggravating and/or mitigating circumstances.
 
 41     In _BDB_ at \[56\], the Court of Appeal, in dealing with the offence of Voluntarily Causing Grievous Hurt under s 325 PC, held that:
 
@@ -182,7 +183,7 @@ You, Muhammad Faizal Bin Mohamed Salleh, …, Male/29 years, …, are charged th
 
 47     I have also observed that under Band II, the indicative starting point was pegged at the 35th percentile mark of the maximum prescribed punishment under s 325 PC. Hence, adopting the same Band II and using the 35th percentile mark, we would get the indicative starting point at approximately 5 years’ imprisonment, rounded downwards to the nearest year, for a s 326 PC offence. A review of some case precedents would provide support for adopting this indicative sentence point for Band II.
 
-48     The case precedents reviewed were: _PP v Neo Aik You_ (CC 27/2001), _PP v Wong Guoliang_ and _PP v Mohamad Yazit Bin Abdullah_ (SC-913140-2016).
+48     The case precedents reviewed were: _PP v Neo Aik You_ (CC 27/2001), _PP v Wong Guoliang_ \[2016\] SGDC 184 and _PP v Mohamad Yazit Bin Abdullah_ (SC-913140-2016).
 
 (a)      _PP v Neo Aik You_
 
@@ -243,7 +244,7 @@ The different forms of grievous hurt vary in their seriousness. For example, per
 
 (a)     Firstly, majority of the cases cited predated the amendment to s 326 PC by Amendment Act 51 of 2007 where the maximum prescribed sentence for s 326 PC was increased from ten years imprisonment to 15 years’ imprisonment or life imprisonment.
 
-(b)     Secondly, in _PP v Lim See Yong_ , _PP v Hamzah Bin Hamid_ and _PP v Muraleindran s/o Thoondy and Others_ , the respective District Judges relied on case precedents that predated the amendment to s 326 PC and failed to have regard to the full breath of the permitted sentencing range under the new regime.
+(b)     Secondly, in _PP v Lim See Yong_ \[2017\] SGDC 135, _PP v Hamzah Bin Hamid_ \[2009\] SGDC 427 and _PP v Muraleindran s/o Thoondy and Others_ \[2016\] SGDC 2, the respective District Judges relied on case precedents that predated the amendment to s 326 PC and failed to have regard to the full breath of the permitted sentencing range under the new regime.
 
 (c)     Thirdly, none of the case precedents cited followed the two-step sentencing framework provided in _BDB_.
 
@@ -285,7 +286,7 @@ The different forms of grievous hurt vary in their seriousness. For example, per
 
 ### E   Sentences of imprisonment to run consecutively
 
-69     The s 326 PC and s 323 PC offences were clearly distinct offences. The two offences were committed on different dates and against different victims. As such, it would be proper to run the individual sentences consecutively. This would also be in line with the one-transaction rule and the totality principle (see _Mohamed Shouffee bin Adam v Public Prosecutor_ at \[25\].
+69     The s 326 PC and s 323 PC offences were clearly distinct offences. The two offences were committed on different dates and against different victims. As such, it would be proper to run the individual sentences consecutively. This would also be in line with the one-transaction rule and the totality principle (see _Mohamed Shouffee bin Adam v Public Prosecutor_ \[2014\] 2 SLR 998 at \[25\].
 
 ## Part 6   Conclusion
 

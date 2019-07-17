@@ -1,5 +1,6 @@
-<style>.footnotes::before { content: "Footnotes:"; }</style>
-# Public Prosecutor _v_ Syed Abdul Rahman bin Syed Mohsin  
+<style>.footnotes::before { content: "Footnotes:"; }</style># Public Prosecutor _v_ Syed Abdul Rahman bin Syed Mohsin  
+
+### \[2019\] SGMC 26
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">MCN 900346/2016</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">10 June 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Kamala Ponnampalam</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">DPP Muhammad Zulhafni Bin Haji Zulkeflee (Attorney-General's Chambers) for the Prosecution; Mr Anil Narain Balchandani (Messrs Red Lion Circle) for the Accused.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Syed Abdul Rahman bin Syed Mohsin</td></tr></tbody></table>
 
@@ -138,7 +139,7 @@ _Explanation_. — A person is said to gain wrongfully when such person retains 
 
 32     The Prosecution cited the Court of Appeal decision in _Tan Kiam Peng v Public Prosecutor[^7]_ for the general principles to apply when inferring wilful blindness. The Court of Appeal in determining the issue of the applicable mens rea for the presumption under section 18 of the Misuse of Drugs Act, (Cap 185, 2008 Rev Ed) held:
 
-_The practical reality, however, is, as Yong CJ put it in Koo Pui Fong, that “\[o\]f course, we would never have the benefit of going into the mind of another person to ascertain his knowledge and in every case, knowledge is a fact that has to be inferred from the circumstances” ((\[103\] supra) at \[14\]; see also the Singapore Court of Appeal decision of Tay Kah Tiang v PP (“Tay Kah Tiang”) at \[34\]). Likewise, a finding of wilful blindness is “solely dependent on the relevant inferences to be drawn by the trial judge from all the facts and circumstances of the particular case, giving due weight, where necessary, to the credibility of the witnesses” (per Abdul Malik Ishak J in the Malaysian High Court decision of Public Prosecutor v Tan Kok An at 101; see also per Lord Esher MR in the English Court of Appeal decision of The English and Scottish Mercantile Investment Company, Limited v Brunton at 708 (“Brunton”) (the relevant passage of which is quoted at \[109\] below)). Indeed, short of a clear admission (which will, in the nature of things, be extremely rare), inferences drawn from the precise facts and circumstances of the case concerned are the only viable material available to the court in order to ascertain whether or not either actual knowledge or wilful blindness exists. It is, at this juncture, important to note, once again, that wilful blindness has always been treated, in law, as the equivalent of actual knowledge_ …
+_The practical reality, however, is, as Yong CJ put it in Koo Pui Fong, that “\[o\]f course, we would never have the benefit of going into the mind of another person to ascertain his knowledge and in every case, knowledge is a fact that has to be inferred from the circumstances” ((\[103\] supra) at \[14\]; see also the Singapore Court of Appeal decision of Tay Kah Tiang v PP \[2001\] 1 SLR(R) 577 (“Tay Kah Tiang”) at \[34\]). Likewise, a finding of wilful blindness is “solely dependent on the relevant inferences to be drawn by the trial judge from all the facts and circumstances of the particular case, giving due weight, where necessary, to the credibility of the witnesses” (per Abdul Malik Ishak J in the Malaysian High Court decision of Public Prosecutor v Tan Kok An \[1996\] 1 MLJ 89 at 101; see also per Lord Esher MR in the English Court of Appeal decision of The English and Scottish Mercantile Investment Company, Limited v Brunton \[1892\] 2 QB 700 at 708 (“Brunton”) (the relevant passage of which is quoted at \[109\] below)). Indeed, short of a clear admission (which will, in the nature of things, be extremely rare), inferences drawn from the precise facts and circumstances of the case concerned are the only viable material available to the court in order to ascertain whether or not either actual knowledge or wilful blindness exists. It is, at this juncture, important to note, once again, that wilful blindness has always been treated, in law, as the equivalent of actual knowledge_ …
 
 33     I turn now to address the factual issues bearing in mind the applicable principles for determining the element of knowledge of an accused person, as set out by the Court of Appeal in the case above.
 
@@ -240,19 +241,19 @@ _Finders are not always keepers, and a finder who dishonestly keeps his find may
 
 * * *
 
-[^1]: 
+[^1]: \[2015\] 2 SLR 686
 
 [^2]: NE Day 3, 16 Aug 2017, Page 39-41
 
 [^3]: NE Day 4, 17 Aug 2017, Page 23-24
 
-[^4]:  at para 105
+[^4]: \[2015\] 2 SLR 686 at para 105
 
 [^5]: _Wong Seng Kwan v Public Prosecutor, at \[15\]_
 
-[^6]: 
+[^6]: \[2012\] 3 SLR 12
 
-[^7]: 
+[^7]: \[2008\] 1 SLR(R) 1
 
 [^8]: NE Day 7, 5 April 2018, p 56, lines 26-32
 

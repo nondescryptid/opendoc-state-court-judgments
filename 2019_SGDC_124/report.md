@@ -1,5 +1,6 @@
-<style>.footnotes::before { content: "Footnotes:"; }</style>
-# Public Prosecutor _v_ Janarthanan S/O Vilasamy  
+<style>.footnotes::before { content: "Footnotes:"; }</style># Public Prosecutor _v_ Janarthanan S/O Vilasamy  
+
+### \[2019\] SGDC 124
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">DAC-900675-2017</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">20 June 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Kessler Soh</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">APP Asran Samad (Attorney-General's Chambers) for the Prosecution; Defendant in person.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Janarthanan S/O Vilasamy</td></tr></tbody></table>
 
@@ -182,7 +183,7 @@ Voluntarily causing grievous hurt by dangerous weapons or means
 
 48     In my judgement, such a sentence would have been manifestly excessive and disproportionate to the overall culpability of the defendant. It would have breached the totality principle in sentencing, considering that the total sentence far exceeded the sentence for the most serious offence.
 
-49     On the other hand, I did not consider it appropriate for the sentence in the present offence to run concurrently, as that would have meant that the defendant received no imprisonment term at all for the current offence. That would have been a perverse outcome: _PP v Raveen Balakrishnan_ .
+49     On the other hand, I did not consider it appropriate for the sentence in the present offence to run concurrently, as that would have meant that the defendant received no imprisonment term at all for the current offence. That would have been a perverse outcome: _PP v Raveen Balakrishnan_ \[2018\] SGHC 148.
 
 50     In arriving at a sentence that was fair, I considered it necessary to make an adjustment to the sentence for the present offence to arrive at an overall sentence that would be proportionate to the defendant’s culpability as a whole. Notionally, had the defendant been sentenced at _one sitting_ for all the offences, a possible outcome which in my judgment could have been fair was as follows:
 

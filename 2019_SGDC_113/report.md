@@ -1,5 +1,6 @@
-<style>.footnotes::before { content: "Footnotes:"; }</style>
-# Public Prosecutor _v_ Liew Yaoxiang Daniel  
+<style>.footnotes::before { content: "Footnotes:"; }</style># Public Prosecutor _v_ Liew Yaoxiang Daniel  
+
+### \[2019\] SGDC 113
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">DAC No. 935864 of 2018 &amp; ors</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">29 May 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Kan Shuk Weng</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">DPPs Teo Guan Siew, Nicholas Lim, Suhas Malhotra and David Koh Attorney-General's Chambers for the Prosecution; Mr Sant Singh S.C., Ms Megan Chia and Ms Yap En Li M/s Tan, Rajah and Cheah for the Accused</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Liew Yaoxiang Daniel</td></tr></tbody></table>
 
@@ -149,15 +150,15 @@ c.     claims reflecting a date which ICA’s records showed that either th
 
 (i)      _PP v Lim Cheng Hoe_ (unreported, DAC 39357-2013) – the offender was sentenced to 15 months’ imprisonment;
 
-(ii)      _PP v Lim May Cheng_ – the offender was sentenced to nine months’ imprisonment;
+(ii)      _PP v Lim May Cheng_ \[2004\] SGDC 85 – the offender was sentenced to nine months’ imprisonment;
 
 (iii)      _Anil Kumar Singh s/o Ragu Singh v PP_ (unreported, MA 259-1995) – the offender was sentenced to a total of 60 months’ imprisonment;
 
 (iv)      _PP v Zheng Zhenwei_ (unreported, DAC 923128-2017) – the offender was sentenced to 36 months’ imprisonment;
 
-(v)      _Lim Mong Hong v PP_ – the offender was sentenced to a total of 16 months’ imprisonment; and
+(v)      _Lim Mong Hong v PP_ \[2003\] 3 SLR(R) 88 – the offender was sentenced to a total of 16 months’ imprisonment; and
 
-(vi)      _PP v Koh Seah Wee & Lim Chai Meng_ – Koh was sentenced to a total of 22 years’ imprisonment and Lim was sentenced to a total of 15 years’ imprisonment.
+(vi)      _PP v Koh Seah Wee & Lim Chai Meng_ \[2012\] 1 SLR 292 – Koh was sentenced to a total of 22 years’ imprisonment and Lim was sentenced to a total of 15 years’ imprisonment.
 
 32     I agreed that the cases cited by the Prosecution were relevant. However, as I have noted in _PP v Ang Kiam Hau Steven_ (unreported, DAC 912271-2017 & ors), they were not on all fours with the present case[^22]. In the cases cited by the Prosecution, the deception of the offenders had resulted in actual losses to the government. This was quite apart from whether the government had actually suffered real losses after restitution being made by the offenders. In Ang’s case, the Prosecution had similarly proceeded against him on 30 charges. All the charges involved an amount of $2,150, except for one which was for an amount of $3,508. He was sentenced to a total of 30 months’ imprisonment – six months’ imprisonment on each of the cheating charges, with the sentences in five of the charges ordered to run consecutively.
 
@@ -165,7 +166,7 @@ c.     claims reflecting a date which ICA’s records showed that either th
 
 33     In relation to the forgery charges, the Prosecution cited three cases and submitted that even where there was no financial benefit to the offenders, “offences of forgery for the purpose of cheating involving public agencies will always be treated seriously and met with stiff sentences”[^23]:
 
-_Lim Ek Kian v PP_
+_Lim Ek Kian v PP_ \[2003\] SGHC 58
 
 \[Claimed trial\]
 
@@ -251,9 +252,9 @@ The Prosecution proceeded on 18 charges against the offender, who was untraced. 
 
 ### Principle of totality in sentencing
 
-55     I have dealt at length the individual sentence which I considered appropriate for the cheating and forgery charges. In relation to the number of consecutive terms and the appropriate global sentence, I found guidance in the case of _Muhammad Sutarno bin Nasir v PP_ :
+55     I have dealt at length the individual sentence which I considered appropriate for the cheating and forgery charges. In relation to the number of consecutive terms and the appropriate global sentence, I found guidance in the case of _Muhammad Sutarno bin Nasir v PP_ \[2018\] 2 SLR 647:
 
-22    Having determined the individual sentence for each charge, the next stage is for the court to consider whether they should run consecutively or concurrently. In our judgment, the Judge was correct in ordering all three sentences to run consecutively. First, s307(1) of the Criminal Procedure Code (Cap 68, 2012Rev Ed) provides that where a person is sentenced to imprisonment for at least three distinct offences, the court must order the sentences for at least two offences to run consecutively. Second, the possession charge relates to a separate transaction which took place about a month prior to the rape and house-breaking offences. Third, although the latter two offences were temporally proximate, the offences of rape and house-breaking violate different legally-protected interests and should not be regarded as being part of a single transaction: _Chang Kar Meng_ (\[16\] _supra_) at \[62\]; _Mohamed Shouffee bin Adam v PP_ (“_Shouffee_”) at \[33\]. _Distinct offences should be punished separately with consecutive sentences so as to ensure that each legally-protected interest is properly vindicated. Otherwise, the imposition of concurrent sentences for unrelated offences would result in the perverse and unjust outcome of the offender not having to bear any real consequences for the further offending_: _Raveen_ (\[17\] supra) at \[41\]–\[46\].
+22    Having determined the individual sentence for each charge, the next stage is for the court to consider whether they should run consecutively or concurrently. In our judgment, the Judge was correct in ordering all three sentences to run consecutively. First, s307(1) of the Criminal Procedure Code (Cap 68, 2012Rev Ed) provides that where a person is sentenced to imprisonment for at least three distinct offences, the court must order the sentences for at least two offences to run consecutively. Second, the possession charge relates to a separate transaction which took place about a month prior to the rape and house-breaking offences. Third, although the latter two offences were temporally proximate, the offences of rape and house-breaking violate different legally-protected interests and should not be regarded as being part of a single transaction: _Chang Kar Meng_ (\[16\] _supra_) at \[62\]; _Mohamed Shouffee bin Adam v PP_ \[2014\] 2 SLR 998 (“_Shouffee_”) at \[33\]. _Distinct offences should be punished separately with consecutive sentences so as to ensure that each legally-protected interest is properly vindicated. Otherwise, the imposition of concurrent sentences for unrelated offences would result in the perverse and unjust outcome of the offender not having to bear any real consequences for the further offending_: _Raveen_ (\[17\] supra) at \[41\]–\[46\].
 
 23     _At this stage of the analysis, the court must consider whether the cumulative sentence is proportionate to the overall criminality of the offences by applying the totality principle_. The principle has two limbs: _first, to examine whether the aggregate sentence is substantially above the normal level of sentences for the most serious of the individual offences committed_, and _second, to examine whether the effect of the aggregate sentence on the offender is crushing and not in keeping with his past record and future prospects. If an aggregate sentence is considered excessive, the court may opt for a different combination of sentences to run consecutively or adjust the individual sentences_: _Shouffee_ at \[58\]–\[59\]; _Raveen_ at \[73\].
 
@@ -261,7 +262,7 @@ The Prosecution proceeded on 18 charges against the offender, who was untraced. 
 
 \[emphasis added\]
 
-56     In Ang’s case, I ordered the sentences in five of the charges to run consecutively. Having regard to the above case and the principles in _PP v Raveen Balakrishnan_ , I saw no reason to depart from my decision in Ang’s case in ordering five of the sentences to run consecutively. I therefore ordered the sentences for four of the cheating charges, involving four different patients, to run consecutively. As for the forgery charges, they were of a different genre from the cheating charges and, in my view, it was appropriate to order the sentence for one of the forgery charges (DAC 936181-2018) to run consecutively to DAC 935864-2018. The total sentence is therefore 24 months’ imprisonment.
+56     In Ang’s case, I ordered the sentences in five of the charges to run consecutively. Having regard to the above case and the principles in _PP v Raveen Balakrishnan_ \[2018\] SGHC 148, I saw no reason to depart from my decision in Ang’s case in ordering five of the sentences to run consecutively. I therefore ordered the sentences for four of the cheating charges, involving four different patients, to run consecutively. As for the forgery charges, they were of a different genre from the cheating charges and, in my view, it was appropriate to order the sentence for one of the forgery charges (DAC 936181-2018) to run consecutively to DAC 935864-2018. The total sentence is therefore 24 months’ imprisonment.
 
 ## (4)   Conclusion
 
@@ -323,11 +324,11 @@ The Prosecution proceeded on 18 charges against the offender, who was untraced. 
 
 [^27]: \[43\], Address on Sentence.
 
-[^28]: _PP v Law Aik Meng_ at \[24\].
+[^28]: _PP v Law Aik Meng_ \[2007\] 2 SLR(R) 814 at \[24\].
 
 [^29]: \[48(e)\], Statement of Facts.
 
-[^30]: _PP v Tan Fook Sum_ at \[28\].
+[^30]: _PP v Tan Fook Sum_ \[1999\] 1 SLR(R) 1022 at \[28\].
 
 [^31]: \[60\], Address on Sentence.
 

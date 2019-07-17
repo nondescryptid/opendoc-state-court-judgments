@@ -1,5 +1,6 @@
-<style>.footnotes::before { content: "Footnotes:"; }</style>
-# Public Prosecutor _v_ Kee Hsiao Hsien  
+<style>.footnotes::before { content: "Footnotes:"; }</style># Public Prosecutor _v_ Kee Hsiao Hsien  
+
+### \[2019\] SGDC 95
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">DAC 941355/2017 &amp; 4 ors, Magistrate's Appeal No. 9087-2019-01</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">15 May 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Ng Peng Hong</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Deputy Public Prosecutor Claire Poh (Attorney-General's Chambers) for the prosecution; Mr Daniel Chia Hsiung Wen and Ms Annette Liu Jia Ying (Morgan Lewis Stamford LLC) for the Accused</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Kee Hsiao Hsien</td></tr></tbody></table>
 
@@ -283,7 +284,7 @@ c.    One (01) improvised glass bottle attached with rubber tube (later mark
 
 (e)     2 months’ imprisonment for DAC 907167/2018
 
-55     In support of the submission, the defence referred to various sentencing precedents, in particular the case of _Loo Pei Xiang Alan v PP_ .
+55     In support of the submission, the defence referred to various sentencing precedents, in particular the case of _Loo Pei Xiang Alan v PP \[2015\] 5 SLR 500_.
 
 56     Counsel submitted for the sentences in DAC 941355/2017 and DAC 907167/2018 to run consecutively and the rest to run concurrently. The total sentence would be an imprisonment term of 5 years and 2 months. Counsel also submitted for the sentence to be backdated to 18 Nov 2017.
 
@@ -293,7 +294,7 @@ c.    One (01) improvised glass bottle attached with rubber tube (later mark
 
 ## The Sentences
 
-59     It is well known that the social object of the Misuse of Drugs Act is to eradicate the trafficking, possession and consumption of illicit drugs. The dangers that illicit drugs pose to society were acknowledged by the High Court in _Dinesh Singh Bhatia v PP_ . Clearly the main sentencing consideration must be one of general and specific deterrence.
+59     It is well known that the social object of the Misuse of Drugs Act is to eradicate the trafficking, possession and consumption of illicit drugs. The dangers that illicit drugs pose to society were acknowledged by the High Court in _Dinesh Singh Bhatia v PP \[2005\] 3 SLR(R) 1_. Clearly the main sentencing consideration must be one of general and specific deterrence.
 
 60     Having taken into account the submissions of both the parties, the circumstances and the nature of the offences committed and the punishments prescribed for the offences, I sentenced the Accused as follows:
 

@@ -1,5 +1,6 @@
-<style>.footnotes::before { content: "Footnotes:"; }</style>
-# Public Prosecutor _v_ Gunasegaran S/O Govindarajoo  
+<style>.footnotes::before { content: "Footnotes:"; }</style># Public Prosecutor _v_ Gunasegaran S/O Govindarajoo  
+
+### \[2019\] SGDC 131
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">DAC No. 913353-2018, Magistrate's Appeal No. 9120/2019/01</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">24 June 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Edgar Foo</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Zhou Yihong, Deputy Public Prosecutor for the Prosecution; Mr Ng Shi Yang and Ms Marjorie Kong (Criminal Legal Aid Scheme/Law Society Pro Bono Services) for the Accused</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Gunasegaran S/O Govindarajoo</td></tr></tbody></table>
 
@@ -152,7 +153,7 @@ The appellant here had threatened to assault the complainant. The fact that the 
 
 (b)    that his conduct was reasonable.
 
-19     The Prosecution had submitted that a section 4 Cap 256A offence does not require the offender to possess _mens rea_ that his words/behaviour would cause harassment/alarm/distress, only that his words/behaviour is _in fact_ likely to do so. The Court has the power under s 128(1) of the Criminal Procedure Code (Cap 68, 2012 Rev Ed) to amend the charge and convict the accused accordingly. In a clear case, the trial judge should exercise his discretion to effect the necessary amendments to a charge so as to fit the proved facts: _PP v Tan Khee Wan Iris_ .
+19     The Prosecution had submitted that a section 4 Cap 256A offence does not require the offender to possess _mens rea_ that his words/behaviour would cause harassment/alarm/distress, only that his words/behaviour is _in fact_ likely to do so. The Court has the power under s 128(1) of the Criminal Procedure Code (Cap 68, 2012 Rev Ed) to amend the charge and convict the accused accordingly. In a clear case, the trial judge should exercise his discretion to effect the necessary amendments to a charge so as to fit the proved facts: _PP v Tan Khee Wan Iris_ \[1994\] 3 SLR 214.
 
 20     Given the above, the Prosecution submitted that they had proven the charge beyond a reasonable doubt, and urged the Court to convict the accused as charged.
 
@@ -236,7 +237,7 @@ _Whoever_, **_intending to insult_** _the modesty of any woman, utters any word,
 
 ## B.   The offence is not made out merely because PW1 felt alarmed
 
-32     The Defence also relied on the case of _Chan Yok Tuang v PP_ (“_Chan Yok Tuang_”), the accused person was charged with the offence of criminal intimidation by threatening to cause injury to the reputation of a police officer, one Senior Staff Sergeant Lim. The accused person had allegedly snapped in Hokkien “_I will shoot her to death_”.
+32     The Defence also relied on the case of _Chan Yok Tuang v PP_ \[2008\] 4 SLR(R) 895 (“_Chan Yok Tuang_”), the accused person was charged with the offence of criminal intimidation by threatening to cause injury to the reputation of a police officer, one Senior Staff Sergeant Lim. The accused person had allegedly snapped in Hokkien “_I will shoot her to death_”.
 
 33     The High Court stated the following at \[26\]:
 
@@ -557,9 +558,9 @@ b.     The way the accused had threatened to kill PW3 on 23 February 2018. 
 
 76     At the close of the trial, the burden on the Prosecution is to prove its case beyond reasonable doubt. And the accused is entitled to an acquittal only if the doubts are real or reasonable.
 
-77     In _Public Prosecutor v Liew Kim Choo_ , Yong Pung How CJ in quoting Lord Diplock in the leading case of _Haw Tua Tau v PP_ \[at 57\]:
+77     In _Public Prosecutor v Liew Kim Choo_ \[1997\] 3 SLR 699, Yong Pung How CJ in quoting Lord Diplock in the leading case of _Haw Tua Tau v PP_ \[1981\] 2 MLJ 49 \[at 57\]:
 
-“57.  As Lord Diplock stated in the leading case of _Haw Tua Tau v PP_ :
+“57.  As Lord Diplock stated in the leading case of _Haw Tua Tau v PP_ \[1981\] 2 MLJ 49 :
 
 “For reasons that are inherent in the adversarial character of criminal trials under the common law system, it does not place upon the court a positive obligation to make up its mind at that stage of the proceedings whether the evidence adduced by the prosecution has by then already satisfied its beyond reasonable doubt that the accused is guilty. Indeed it would run counter to the concept of what is a fair trial under that system to require the court to do so.”
 
@@ -571,7 +572,7 @@ b.     The way the accused had threatened to kill PW3 on 23 February 2018. 
 
 60.    I therefore had to consider the evidence afresh, without reference to my conclusions in the first appeal, which conclusions were premises on a different standard of proof”
 
-78     The issue of burden of proof was also considered in the case of _Public Prosecutor v Mohammed Liton Mohammed Syed Mallik_ where the Court of Appeal \[ at 34\] commented:
+78     The issue of burden of proof was also considered in the case of _Public Prosecutor v Mohammed Liton Mohammed Syed Mallik_ \[2007\] SGCA 48 where the Court of Appeal \[ at 34\] commented:
 
 “34    …in relation to the requisite burden of proof, it needs no reminding that the burden lies squarely with the Prosecution to prove the accused person’s guilt beyond a reasonable doubt. As Rajah JA said in _Sakthivel Punithavathi_ (\[32\] supra at \[78\]):
 
@@ -611,7 +612,7 @@ Unlike civil cases, where the court may choose between competing stories and acc
 
 82     The Prosecution had submitted that a section 4 Cap 256A offence does not require the offender to possess _mens rea_ that his words/behaviour would cause harassment/alarm/distress, only that his words/behaviour is _in fact_ likely to do so.
 
-83     The Prosecution also submitted that in a clear case such as a present case, I should exercise my discretion to effect the necessary amendments to a charge so as to fit the proved facts: _PP v Tan Khee Wan Iris_ .
+83     The Prosecution also submitted that in a clear case such as a present case, I should exercise my discretion to effect the necessary amendments to a charge so as to fit the proved facts: _PP v Tan Khee Wan Iris_ \[1994\] 3 SLR 214.
 
 ## b.   Defence’s Position on Amending the Charge**[^53]**
 
@@ -619,7 +620,7 @@ Unlike civil cases, where the court may choose between competing stories and acc
 
 i.     Although this Court has the powers to amend the charge at any point before judgment, the power should be exercised liberally and without reference to existing jurisprudence.
 
-ii.     The Court of Appeal in _Mui Jia Jun v PP_ (“**_Mui Jia Jun_**”) at \[95\] laid down the following guidance for the Prosecution where it is pursuing alternative cases:
+ii.     The Court of Appeal in _Mui Jia Jun v PP_ \[2018\] SGCA 59 (“**_Mui Jia Jun_**”) at \[95\] laid down the following guidance for the Prosecution where it is pursuing alternative cases:
 
 a.       The charge should clearly state the various facets of the Prosecution’s case against the accused.
 
@@ -639,7 +640,7 @@ d.       Section 4(3)(b) POHA provides as follows:
 
 _“In any proceedings for an offence under subsection (2), it is a defence for the accused person to prove… that his conduct was reasonable.”_
 
-e.       This is supported by the High Court’s dicta in _Benber Dayao Yu v Jacter Singh_ at \[43\]. When determining whether the respondent in the case had shown that his conduct was reasonable, the High Court opined as follows:
+e.       This is supported by the High Court’s dicta in _Benber Dayao Yu v Jacter Singh_ \[2017\] 5 SLR 316 at \[43\]. When determining whether the respondent in the case had shown that his conduct was reasonable, the High Court opined as follows:
 
 _“It must be said that_ **_what amounts to reasonable conduct is heavily fact-specific and dependent on the unique circumstances of each case_** _. In responding to question from the members of the House on the Protection from Harassment Bill, Minister for Law Mr K Shanmugam outlined some factors that should be considered when determining the reasonableness of conduct (see Singapore Parliamentary Debates, Official Report (13 March 2014) vol 91):_
 
@@ -679,15 +680,15 @@ a.       Whether the evidence led in the present trial for the section 50
 
 “07.052    Section 128, adopted from section 163 of the old CPC, provides that a court may alter a charge or frame a new charge, whether in substitution for or in addition to the existing charge, at any time before judgment is given. The new or altered charge must be read and explained to the accused. As the provision envisions that the power ought to be exercised _before judgment_ is rendered, this provision does not apply to appellate forums; instead, the power of an appellate court to frame an altered charge can be found in section 390(4). This should be distinguished from the position in the old CPC, where, in the light of the conspicuous absence of a provision analogous to section 390(4), an appellate forum would have to seek recourse to section 163 of the old CPC, to amend the charge: see _Lee Ngin Kiat v Public Prosecutor_ \[1993\] 1 SLR (R) 695 at \[42\].
 
-07.053    In practice, when the Prosecution seeks to amend a charge during a trial, the Prosecution will be required to make an application under this section. **_As the Prosecution should maintain the integrity of the prosecutorial process, it cannot successfully maintain that the court has failed in its duty because it did not make an amendment to a charge when the Prosecution did not in any way suggest it and which is predicated upon a legal view of the facts that would have been quite different from that which the Prosecution had put forward throughout the case: see Public Prosecutor v Ishak . However, in a case where it is clear that the end of justice requires that the court amend the charge, the court should do so: see Public Prosecutor v Tan Khee Wan Iris \[1994\] 3 SLR (R) 168 at \[7\] to \[10\]. Further, once the trial court’s attention has been directed to an amendment, it possesses a duty to consider whether its powers to amend the charge should be exercised: see Public Prosecutor v Beh Yew Suan_** _._ \[emphasis mine\]
+07.053    In practice, when the Prosecution seeks to amend a charge during a trial, the Prosecution will be required to make an application under this section. **_As the Prosecution should maintain the integrity of the prosecutorial process, it cannot successfully maintain that the court has failed in its duty because it did not make an amendment to a charge when the Prosecution did not in any way suggest it and which is predicated upon a legal view of the facts that would have been quite different from that which the Prosecution had put forward throughout the case: see Public Prosecutor v Ishak \[1952\] MLJ 151. However, in a case where it is clear that the end of justice requires that the court amend the charge, the court should do so: see Public Prosecutor v Tan Khee Wan Iris \[1994\] 3 SLR (R) 168 at \[7\] to \[10\]. Further, once the trial court’s attention has been directed to an amendment, it possesses a duty to consider whether its powers to amend the charge should be exercised: see Public Prosecutor v Beh Yew Suan \[1952\] MLJ 225_**_._ \[emphasis mine\]
 
 07.054     **Failure to amend** A failure to amend the charge is an irregularity which can be cured: see _Ramalingam Pillay v The Crown_ \[1905\] IX SSLR 99. However, if the accused was misled by the failure to amend an error in the charge, a re-trial may be ordered: see _Teo Peng Chow v Public Prosecutor_ \[1957\] 1 MLJ 118. On appeal, the appellate court can amend the charge where the trial court had failed to do so and thereafter, remit the case back to the trial court for trial to proceed on the amended charge: see _Public Prosecutor v Tan Khee Wan Isis_ \[1994\] 3 SLR (R) 168 at \[9\] – \[11\].
 
-07.055     **Time of amendment** In _Lew Cheok Hin v R_ , it was held that an amendment to the charge may be made at any stage of the trial though, in general, the earlier the amendment, the better. However, it is at the close of the evidence for the Prosecution that the court is placed in an ideal position to decide exactly what the case the accused is required to meet is. **_In deciding whether an amendment to the charge should be allowed after the close of the case for the defence, the test is whether such an amendment would be prejudicial to the accused: see Public Prosecutor v Salamah binte Abdullah . Where the charge is amended at the close of the case for the Defence by substituting the charge with a more serious charge, this may be held to be unjust to the accused: see Lim Teck Seng v R \[1957\] 1 MLJ 71._** \[emphasis mine\]
+07.055     **Time of amendment** In _Lew Cheok Hin v R_ \[1956\] MLJ 131, it was held that an amendment to the charge may be made at any stage of the trial though, in general, the earlier the amendment, the better. However, it is at the close of the evidence for the Prosecution that the court is placed in an ideal position to decide exactly what the case the accused is required to meet is. **_In deciding whether an amendment to the charge should be allowed after the close of the case for the defence, the test is whether such an amendment would be prejudicial to the accused: see Public Prosecutor v Salamah binte Abdullah \[1947\] 1 MLJ 178. Where the charge is amended at the close of the case for the Defence by substituting the charge with a more serious charge, this may be held to be unjust to the accused: see Lim Teck Seng v R \[1957\] 1 MLJ 71._** \[emphasis mine\]
 
 87     It is clear from section 128(1) that this court has the powers to alter or to frame a new charge against the accused based on the facts presented at any point before judgment. Although, in most cases, this is done at the close of the Prosecution’s case, there is nothing in law to stop me from doing so even after the close of the Defence’s case.
 
-88     In the case of **_Public Prosecutor v Ishak_** , Whitton J made this comment:
+88     In the case of **_Public Prosecutor v Ishak \[1952\] MLJ 151_**, Whitton J made this comment:
 
 “… a President or a Magistrate has the discretion to amend the charge at any stage of the trial but in addition he is statutorily inquired to consider if it is necessary at the close of the Prosecution case. What precisely is he required to do? He is required to consider the charge recorded against the accused and decide whether it is sufficient and, if necessary, to amend the same. Now if he omits to do this this omission must in some circumstances, in my opinion, constitute a proper ground for reversing his decision. **But I do not think the Prosecution can successfully, maintain a Magistrate has failed in his duty in this matter because he did not make an amendment to the charge which they did not themselves in any way suggest and based on a legal view of the facts quite different from that they themselves have put forward throughout the case**. In my opinion the learned President in the present case complied with the requirements of 173 Criminal Procedure Code, and this ground of appeal must fail.”
 
@@ -697,7 +698,7 @@ a.       Whether the evidence led in the present trial for the section 50
 
 91     On appeal by the prosecution, Yong Pung How CJ noted \[at 6\]:
 
-“6    Counsel for the respondent urged this court to uphold the above reasoning, pointing out that the district judge bore no duty as such to amend the charge. Counsel submitted also that the onus lay on the Prosecution in any case to decide what the real complaint against an accused was and to frame the charge or to submit amendments accordingly. In the present case, so counsel claimed, the Prosecution had failed to ask the district judge for an amendment of the charge against the respondent and should not be allowed to argue on appeal that such amendment should have been effected. Two authorities were relied on by counsel: _PP v Heng You Nang_ \[1949\] MLJ 285 and _R v Cheah Teow Peng_ , both judgments of Spenser-Wilkinson J.
+“6    Counsel for the respondent urged this court to uphold the above reasoning, pointing out that the district judge bore no duty as such to amend the charge. Counsel submitted also that the onus lay on the Prosecution in any case to decide what the real complaint against an accused was and to frame the charge or to submit amendments accordingly. In the present case, so counsel claimed, the Prosecution had failed to ask the district judge for an amendment of the charge against the respondent and should not be allowed to argue on appeal that such amendment should have been effected. Two authorities were relied on by counsel: _PP v Heng You Nang_ \[1949\] MLJ 285 and _R v Cheah Teow Peng_ \[1952\] MLJ 216, both judgments of Spenser-Wilkinson J.
 
 7    In both cases, it was stressed that the primary duty in respect of the drawing up of charges was that of the Prosecution’s; and further, that a trial judge was not himself obliged to “_search the law for offences which an accused person may have committed_”. Neither principle is in much dispute, but they really have no direct bearing on the case at hand. **The fact remains that even though the Prosecution in this case did not request an appropriate amendment of the charge, the district judge herself possessed the discretion to effect such amendment once she noted the strong possibility of another offence arising on the facts (an observation which, moreover, she articulated in her written grounds). Indeed, given that the evidence available pointed so obviously to the offence of providing public entertainment without a licence, she should have exercised her discretion so as to amend the charge accordingly, unless the proposed amendment prejudiced the respondent: see** **_R v Newcastle-upon-Tyne Justices, ex parte John Bryce (Contractors) Ltd_** **\[1976\] 2 All ER 611. I must add at this juncture that it seems to me most counsel who cite the above two judgments of Spenser-Wilkinson J patently fail to note that in both instances the learned judge was of the opinion that “****_in a clear case, a president or a magistrate ought to alter a charge to fit the proved facts_****”.**
 
@@ -707,15 +708,15 @@ a.       Whether the evidence led in the present trial for the section 50
 
 ## On whether section 4 POHA is applicable to the current facts
 
-94     In the case of _Benber Dayao Yu v Jacter Singh_ , See Kee Oon J discussed sections 3 and 4 of the Protection From Harassment Act and made the following comments (at \[21\] to \[24\]):
+94     In the case of _Benber Dayao Yu v Jacter Singh_ \[2017\] 5 SLR 316, See Kee Oon J discussed sections 3 and 4 of the Protection From Harassment Act and made the following comments (at \[21\] to \[24\]):
 
 “21    Section 3 of the POHA provides for the offence of acting with intent to cause harassment, alarm or distress to any person by the use of threatening, abusive or insulting words or behaviour; or making any threatening, abusive or insulting communication thereby causing harassment, alarm or distress. Under s 3(3), it is a defence for the accused person to prove that his conduct was reasonable.
 
 **22**      **Section 4 of the POHA lays down the offence of using threatening, abusive or insulting words or behaviour; or making any threatening, abusive or insulting communication which is heard, seen or otherwise perceived by any person (“the victim”) likely to be caused harassment, alarm or distress. Under s 4(3)(a), it is a defence for the accused person to prove that he had no reason to believe the victim would hear, see or otherwise perceive the word or behaviour used, or the communication made. Similar to s 3(3), s 4(3)(b) also states that it is a defence for the accused person to prove that his conduct was reasonable.**
 
-23     **The difference between the offences in ss 3 and 4 of the POHA is the requirement of intention, which is found in s 3 but absent from s 4** (see Goh Yihan and Yip Man, “The Protection from Harassment Act 2014: Legislative Comment” at p 710):
+23     **The difference between the offences in ss 3 and 4 of the POHA is the requirement of intention, which is found in s 3 but absent from s 4** (see Goh Yihan and Yip Man, “The Protection from Harassment Act 2014: Legislative Comment” (2014) 26 SAcLJ 700 at p 710):
 
-The distinction between ss 3 and 4 of \[the POHA\] can seem rather thin. Chee Siok Chin \[v Minister for Home Affairs \] highlights two important differences between ss 13A and 13B of the \[Miscellaneous Offences (Public Order and Nuisance) Act (Cap 184, 1997 Rev Ed) (“MOA”)\], which will be relevant to understanding ss 3 and 4. First, s 13A (and s 3 \[of the POHA\]), unlike s 13B (and s 4 \[of the POHA\]) does not require the offence to take place within the hearing or sight of any person likely to be caused harassment, alarm or distress. Secondly, a plain reading of s 13B of the MOA reveals that an intention for the conduct to be ‘threatening, abusive or insulting’ is not even a necessary criterion. It has been said that objectivity is the touch stone for assessing the conduct in question and that threats, abuses and insults embraced by s 13B may constitute an offence whether or not they were so intended. This is likely applicable to s 4 of the \[POHA\]. \[emphasis added\]
+The distinction between ss 3 and 4 of \[the POHA\] can seem rather thin. Chee Siok Chin \[v Minister for Home Affairs \[2006\] 1 SLR(R) 582\] highlights two important differences between ss 13A and 13B of the \[Miscellaneous Offences (Public Order and Nuisance) Act (Cap 184, 1997 Rev Ed) (“MOA”)\], which will be relevant to understanding ss 3 and 4. First, s 13A (and s 3 \[of the POHA\]), unlike s 13B (and s 4 \[of the POHA\]) does not require the offence to take place within the hearing or sight of any person likely to be caused harassment, alarm or distress. Secondly, a plain reading of s 13B of the MOA reveals that an intention for the conduct to be ‘threatening, abusive or insulting’ is not even a necessary criterion. It has been said that objectivity is the touch stone for assessing the conduct in question and that threats, abuses and insults embraced by s 13B may constitute an offence whether or not they were so intended. This is likely applicable to s 4 of the \[POHA\]. \[emphasis added\]
 
 24    As stated by the Minister for Law, Mr K Shanmugam, during the second reading of the Protection from Harassment Bill, ss 3 and 4 of the POHA were adapted from s 13A and s 13B of the Miscellaneous Offences (Public Order and Nuisance) Act (Cap 184, 1997 Rev Ed) (“MOA”) with minor changes and modifications so as to extend to words, behaviour or communications made by any means including electronic means as in the present case (see Singapore Parliamentary Debates, Official Report (13 March 2014) vol 91):
 
@@ -729,9 +730,9 @@ The second of my five points is that illustrations have been introduced in claus
 
 96     See Kee Onn J also made the following comments \[at 31\]:
 
-“31    The terms “abusive”, “insulting”, “threatening”, “harassment”, “alarm”, and “distress” found in ss 3 and 4 are not defined in the POHA. In my judgment, these terms ought to be accorded their common-sense meaning. This is in line with V K Rajah J’s approach in Chee Siok Chin v Minister for Home Affairs (“Chee Siok Chin”) at \[124\] in considering the absence of definitions for similar terms found in ss 13A and 13B of the MOA:
+“31    The terms “abusive”, “insulting”, “threatening”, “harassment”, “alarm”, and “distress” found in ss 3 and 4 are not defined in the POHA. In my judgment, these terms ought to be accorded their common-sense meaning. This is in line with V K Rajah J’s approach in Chee Siok Chin v Minister for Home Affairs \[2006\] 1 SLR(R) 582 (“Chee Siok Chin”) at \[124\] in considering the absence of definitions for similar terms found in ss 13A and 13B of the MOA:
 
-The fact that Parliament did not define the word ‘harassment’ in ss 13A and 13B of the MOA is a strong indication that this word, like the words ‘insult’ and ‘abusive’, is intended to be accorded a common-sense meaning. Harassment describes determined conduct which is directed at persons and is calculated to produce discomfort and/or unease and/or distress: see Malcomson Nicholas Hugh Bertran v Mehta Naresh Kumar . Persistent or prolonged conduct that is directed at causing distress in those responsible for discharging their duties would amount to harassment for the purpose of the subject provisions. The essence of harassment is not just repetitive conduct but includes prolonged or persistent or sustained conduct. \[emphasis in original omitted\]
+The fact that Parliament did not define the word ‘harassment’ in ss 13A and 13B of the MOA is a strong indication that this word, like the words ‘insult’ and ‘abusive’, is intended to be accorded a common-sense meaning. Harassment describes determined conduct which is directed at persons and is calculated to produce discomfort and/or unease and/or distress: see Malcomson Nicholas Hugh Bertran v Mehta Naresh Kumar \[2001\] 3 SLR(R) 379. Persistent or prolonged conduct that is directed at causing distress in those responsible for discharging their duties would amount to harassment for the purpose of the subject provisions. The essence of harassment is not just repetitive conduct but includes prolonged or persistent or sustained conduct. \[emphasis in original omitted\]
 
 32    At \[72\] and \[76\] of Chee Siok Chin, the court also held that:
 
@@ -785,7 +786,7 @@ _Illustrations_
 
 07.136     **Subsection (1)** Subsection (1) was adapted from section 175(1) of the old CPC, which had employed the term “minor offence” as opposed to that of “lesser offence”. Such variation in nomenclature is not intended to result in any substantive variation in the law.
 
-07.137    For the powers of the court under this provision to be engaged, the lesser offence of which the accused is convicted must be one which is necessarily included in the offence originally charged : see _Kundan Singh v Public Prosecutor_ . The principle is enunciated in _Mallal’s Criminal Procedure_ (Butterworth Asia, 6th Ed. 2001) at para 6229 in the following fashion:
+07.137    For the powers of the court under this provision to be engaged, the lesser offence of which the accused is convicted must be one which is necessarily included in the offence originally charged : see _Kundan Singh v Public Prosecutor_ \[1939\] MLJ 27. The principle is enunciated in _Mallal’s Criminal Procedure_ (Butterworth Asia, 6th Ed. 2001) at para 6229 in the following fashion:
 
 \[W\]here an offence consists of several particulars, a combination of some only of which constitutes a complete \[lesser\] offence, the graver charge gives notice to the accused of all the circumstances going to constitute the \[lesser\] offence of which he may be convicted. The latter is arrived at by mere subtraction from the former. But when the circumstances constituting the major charge do not, necessarily and according to the definition of the offence imputed by that charge, constitute the \[lesser\] offence also, the principle no longer applies, because notice of the former does not necessarily involve notice of all that constitutes the latter”
 
@@ -833,7 +834,7 @@ _Illustrations_
 
 [^15]: See Defence Closing Submissions
 
-[^16]: See e.g. _PP v Wong Wai Hung and another_ at \[72\]
+[^16]: See e.g. _PP v Wong Wai Hung and another_ \[1992\] 2 SLR(R) 918 at \[72\]
 
 [^17]: NE Day 1 page 6 lines 12-17
 

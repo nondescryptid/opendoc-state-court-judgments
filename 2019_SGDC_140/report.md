@@ -1,5 +1,7 @@
 <style>.footnotes::before { content: "Footnotes:"; }</style># Public Prosecutor _v_ Abdul Muhaikal bin Abdul Mootalib  
 
+### \[2019\] SGDC 140
+
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">DAC 912383 - 2018 , Magistrate's Appeal No: 9153/2019/01</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">04 July 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Salina Bte Ishak</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">DPP Derek Ee from the Attorney-General's Chambers for the Prosecution; Mr Amogh Nallan Chakravati of Dentons Rodyk &amp; Davidson LLP for the Accused.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Abdul Muhaikal bin Abdul Mootalib</td></tr></tbody></table>
 
 \[LawNet Editorial Note: An appeal to this decision has been filed in MA 9153/2019/01.\]
@@ -157,7 +159,7 @@ c)     All three accused persons were untraced at the time of sentencing.
 
 19     In essence, it was the case for the Defence that (i) considering the circumstances of the offence, (ii) the primacy of rehabilitation as the relevant sentencing objective and (iii) the accused’s strong propensity for rehabilitation, a probation order may the appropriate sentence in this case. The Court was requested to call for a pre-sentencing report to assess the accused’s suitability to undergo probation.
 
-20     It was submitted that the accused was 21 years’ old at the time of the commission of the offence and should be treated as a youthful offender such that rehabilitation remains the primary sentencing objective. In support of their submissions, Counsel had relied on the two-stage sentencing approach for sentencing youthful offenders in the High Court case of _A Karthik v Public Prosecutor_ . It was further submitted that the accused is now 22 years old and there has not been significant delay between the time of the commission of the offence and his sentencing.
+20     It was submitted that the accused was 21 years’ old at the time of the commission of the offence and should be treated as a youthful offender such that rehabilitation remains the primary sentencing objective. In support of their submissions, Counsel had relied on the two-stage sentencing approach for sentencing youthful offenders in the High Court case of _A Karthik v Public Prosecutor_ \[2018\] 5 SLR 1289. It was further submitted that the accused is now 22 years old and there has not been significant delay between the time of the commission of the offence and his sentencing.
 
 21     It was also submitted that the accused has made active efforts to get his life on track. It was the case for the Defence that the steps the accused had taken to recover from a difficult point in his life, make amends and move forward as a strong and more mature professional demonstrates his capacity to reform.
 
@@ -202,7 +204,7 @@ f)     Fadhil had attested that this was a one-off incident and out of char
 
 #### Alternative Sentencing Options
 
-28     In the alternative, it was submitted that should the Court not be minded to consider probation and call for a probation suitability report, the Court could consider the imposition of one of the combination of community based sentences including a Short Detention Order (“SDO”) to achive the twin sentencing objectives of rehabilitation and deterrence. In support of this submission, the Defence relied on the case of _Sim Wen Yi Ernest v Public Prosecutor_ where the accused who was 25 years’ old at the material time was eventually sentenced to a SDO and a community service order.
+28     In the alternative, it was submitted that should the Court not be minded to consider probation and call for a probation suitability report, the Court could consider the imposition of one of the combination of community based sentences including a Short Detention Order (“SDO”) to achive the twin sentencing objectives of rehabilitation and deterrence. In support of this submission, the Defence relied on the case of _Sim Wen Yi Ernest v Public Prosecutor_ \[2016\] SGHC 174 where the accused who was 25 years’ old at the material time was eventually sentenced to a SDO and a community service order.
 
 ## F.   Prosecution’s Reply
 
@@ -220,7 +222,7 @@ f)     Fadhil had attested that this was a one-off incident and out of char
 
 #### Should a pre-sentence report have been called in the present case?
 
-34     In my consideration on the appropriate sentence to be imposed, I was mindful that it is trite that a probation order accords primacy to the principle of rehabilitation: see _PP v Lim Chee Yin Jordon_ at \[29\]. A court would have to be satisfied that rehabilitation was the dominant sentencing principle in order for a probation order to be justified. At \[31\] of the same case, it was further stated that the High Court in _PP v Lim Cheng Ji Alvin_ held at \[6\]–\[7\] that the law takes a presumptive view that with young offenders, the primary sentencing consideration is rehabilitation, but that this is not presumptively the case with an older offender. It is clear from case law that the probation is the exception rather than the norm for adult offenders.
+34     In my consideration on the appropriate sentence to be imposed, I was mindful that it is trite that a probation order accords primacy to the principle of rehabilitation: see _PP v Lim Chee Yin Jordon_ \[2018\] 4 SLR 1294 at \[29\]. A court would have to be satisfied that rehabilitation was the dominant sentencing principle in order for a probation order to be justified. At \[31\] of the same case, it was further stated that the High Court in _PP v Lim Cheng Ji Alvin_ \[2017\] 5 SLR 671 held at \[6\]–\[7\] that the law takes a presumptive view that with young offenders, the primary sentencing consideration is rehabilitation, but that this is not presumptively the case with an older offender. It is clear from case law that the probation is the exception rather than the norm for adult offenders.
 
 35     In the present case, the Accused was not a young offender below the age of 21 years but was four months’ shy of turning 22 years’ of age when the offences were committed on 23 March 2018. In addition, when he was sentenced on 20 June 2019, it was 17 days away from his 23rd birthday. At the time of the offence, the accused was working full time as a Security Administrative Officer at Club Envy. He had also completed his two years of National Service with the Traffic Police of the Singapore Police Force on 11 November 2017. I noted that the accused had received basic police training and would have been trained in law enforcement. I was also mindful that in his Singapore Police Force Service Transcript exhibited in his mitigation, it was reflected that “_He is a mature and a very effective and co-operative officer who is able to maintain excellent relationship with his fellow colleagues_.”
 
@@ -244,9 +246,9 @@ f)     Fadhil had attested that this was a one-off incident and out of char
 
 * * *
 
-[^1]: _Public Prosecutor v Boaz_ at \[30\].
+[^1]: _Public Prosecutor v Boaz_ \[2016\] 1 SLR 334 at \[30\].
 
-[^2]: _A Karthik v Public Prosecutor_ at \[47\].
+[^2]: _A Karthik v Public Prosecutor_ \[2018\] 5 SLR 1289 at \[47\].
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F23341-SSP.xml)

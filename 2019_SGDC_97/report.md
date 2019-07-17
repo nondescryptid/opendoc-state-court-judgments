@@ -1,7 +1,10 @@
-<style>.footnotes::before { content: "Footnotes:"; }</style>
-# Public Prosecutor _v_ Hamezi bin Jumahat  
+<style>.footnotes::before { content: "Footnotes:"; }</style># Public Prosecutor _v_ Hamezi bin Jumahat  
+
+### \[2019\] SGDC 97
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">DAC 948675/2016 &amp; Ors</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">16 May 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Christopher Tan Pheng Wee</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Vadivalagan Shanmuga (Deputy Public Prosecutor) for the prosecution; Accused in person</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Hamezi bin Jumahat</td></tr></tbody></table>
+
+\[LawNet Editorial Note: An appeal to this decision has been filed in MA 9101/2019/01.\]
 
 16 May 2019
 
@@ -112,7 +115,7 @@ As regards Exhibit E1B, analysis by HSA’s Illicit Drugs Laboratory found this 
 
 19     As regards the charges for consumption of methamphetamine (under the 2nd Proceeded Charge) and morphine (under the 5th Proceeded Charge), the Prosecution sought an imprisonment term of no less than 12 months each.
 
-20     A key sentencing consideration for drug offences is deterrence (both general and specific), given the grave harm that drugs cause to both individuals and society at large: see _Public Prosecutor v Lim Cheng Ji Alvin_ .[^17] For drug consumption charges, a custodial term is warranted unless it is a purely exceptional case: see _Dinesh Singh Bhatia s/o Amarjeet Singh v Public Prosecutor_ [^18] (“_Dinesh_”). In _Dinesh_, the accused person pleaded guilty to and was sentenced under s.8(b) MDA for unauthorised consumption of cocaine. On appeal, his sentence was reduced (from 12 months’ imprisonment) to 8 months’ imprisonment. The High Court, in describing[^19] the accused person’s conduct as a “single foolish act of momentary indiscretion”, laid out its sentencing considerations:[^20]
+20     A key sentencing consideration for drug offences is deterrence (both general and specific), given the grave harm that drugs cause to both individuals and society at large: see _Public Prosecutor v Lim Cheng Ji Alvin_ \[2017\] SGHC 183.[^17] For drug consumption charges, a custodial term is warranted unless it is a purely exceptional case: see _Dinesh Singh Bhatia s/o Amarjeet Singh v Public Prosecutor_ \[2005\] 3 SLR(R) 1[^18] (“_Dinesh_”). In _Dinesh_, the accused person pleaded guilty to and was sentenced under s.8(b) MDA for unauthorised consumption of cocaine. On appeal, his sentence was reduced (from 12 months’ imprisonment) to 8 months’ imprisonment. The High Court, in describing[^19] the accused person’s conduct as a “single foolish act of momentary indiscretion”, laid out its sentencing considerations:[^20]
 
 I take into account the following considerations: that the Appellant did not seek the drugs; that the act of consumption was not planned but effected on the spur of the moment; that the amount consumed was not substantial; that there was no payment involved in this unfortunate incident and that this was, based on the evidence before the court, a one-off episode.
 
@@ -124,11 +127,11 @@ I take into account the following considerations: that the Appellant did not see
 
 23     I move on to the two trafficking charges, i.e. the 1st and 4th Proceeded Charges. The latter charge accounted for the lion’s share of the global sentence which the Accused ultimately received.
 
-24     For drug trafficking cases, the quantity of drugs trafficked is a strong determinant of the appropriate sentence, given its direct correlation with the degree of harm, although quantity is of course not the only consideration: see _Vasentha d/o Joseph v Public Prosecutor_ [^22] (“_Vasentha_”). Indicative sentencing bands have been set out in case law:
+24     For drug trafficking cases, the quantity of drugs trafficked is a strong determinant of the appropriate sentence, given its direct correlation with the degree of harm, although quantity is of course not the only consideration: see _Vasentha d/o Joseph v Public Prosecutor_ \[2015\] SGHC 197[^22] (“_Vasentha_”). Indicative sentencing bands have been set out in case law:
 
-(a)     For diamorphine, the cases of _Vasentha_ and _Public Prosecutor v Lai Teck Guan_ set out the indicative starting sentences for, respectively, first-time and repeat traffickers. The sentencing bands set out in both these cases were further modified in _Soh Qiu Xia Katty v Public Prosecutor_ (“_Katty Soh_”).
+(a)     For diamorphine, the cases of _Vasentha_ and _Public Prosecutor v Lai Teck Guan_ \[2018\] SGHC 151 set out the indicative starting sentences for, respectively, first-time and repeat traffickers. The sentencing bands set out in both these cases were further modified in _Soh Qiu Xia Katty v Public Prosecutor_ \[2018\] SGHC 260 (“_Katty Soh_”).
 
-(b)     For methamphetamine, the case of _Loo Pei Xiang Alan v Public Prosecutor_ (_Loo Pei Xiang Alan_) adapted the _Vasentha_ sentencing bands to the methamphetamine context.
+(b)     For methamphetamine, the case of _Loo Pei Xiang Alan v Public Prosecutor_ \[2015\] SGHC 217 (_Loo Pei Xiang Alan_) adapted the _Vasentha_ sentencing bands to the methamphetamine context.
 
 25     I now deal with the 4th Proceeded Charge, i.e. trafficking in not less than 7.17 grams of diamorphine.
 
@@ -238,9 +241,9 @@ His Honour had then proceeded to add an uplift of 2 years’ imprisonment to the
 
 [^29]: I.e. the 1st TiC charge.
 
-[^30]: See _Mohamed Shouffee bin Adam v PP_ , at \[58\].
+[^30]: See _Mohamed Shouffee bin Adam v PP_ \[2014\] SGHC 34, at \[58\].
 
-[^31]: See _Raveen Balakrishnan v PP_ , at \[78\].
+[^31]: See _Raveen Balakrishnan v PP_ \[2018\] SGHC 148, at \[78\].
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F23167-SSP.xml)

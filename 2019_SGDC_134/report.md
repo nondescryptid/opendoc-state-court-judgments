@@ -1,5 +1,7 @@
 <style>.footnotes::before { content: "Footnotes:"; }</style># Public Prosecutor _v_ Mohamad Yusri bin Mohamed Yusoff  
 
+### \[2019\] SGDC 134
+
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">DAC 926760/17 &amp; Ors</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">02 July 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Shaiffudin Bin Saruwan</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">DPP Tan Hsiao Tien for the Prosecution; Mr Dilip Kumar for the Accused</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Mohamad Yusri bin Mohamed Yusoff</td></tr></tbody></table>
 
 \[LawNet Editorial Note: An appeal to this decision has been filed in MA 9148/2019/01.\]
@@ -77,11 +79,11 @@ The Accused pleaded guilty to the following offences –
 
 19     In relation the RTA offences, DPP Tan Hsiao Tien described the Accused as a very dangerous driver. On the basis of his egregious driving behaviour and the multiple offences committed, and his egregious driving antecedents, DPP Tan submitted that both general and specific deterrence must apply. DPP Tan categorised the Accused’s culpability as moderate to high.
 
-20     For the s 67(1) RTA charge, DPP Tan sought a sentence of at least one month’s imprisonment and a four years’ disqualification order. She cited the case of _Stansilas Fabian Kester v PP_ (“_Stansilas Fabian Kester_”). As for the other RTA charges, she sought for fines to be imposed and left the individual quantum to the court.
+20     For the s 67(1) RTA charge, DPP Tan sought a sentence of at least one month’s imprisonment and a four years’ disqualification order. She cited the case of _Stansilas Fabian Kester v PP_ \[2017\] SGHC 185 (“_Stansilas Fabian Kester_”). As for the other RTA charges, she sought for fines to be imposed and left the individual quantum to the court.
 
 21     In respect of the s 332 charge, she submitted that the case fell into the band one category set out in _PP v Yeo Ek Boon Jeffrey and another matter_ \[2018\] 3 SLR 10 (“_Yeo Ek Boon Jeffrey_”). The police officer has suffered an injury. The Accused’s previous convictions for similar offences of violence should put him at the higher end of the sentencing band. Although the injury was minor but the act of kicking the police officer on the face was a particularly egregious one.
 
-22     DPP Tan cited the case of _PP v Alfian bin Abdullah_ (MA No 9053 of 2015/01) (“_Alfian bin Abdullah_”) to support the prosecution’s sentencing proposal. In that case, which was cited in _Yeo Ek Boon Jeffrey_ at \[66\], the accused person had punched a police officer on the back of his head and kicked his stomach. On appeal, the High Court enhanced his sentence to 10 months’ imprisonment, taking into account the vengeful nature of the attack and the accused person’s long list of criminal antecedents.
+22     DPP Tan cited the case of _PP v Alfian bin Abdullah_ \[2015\] SGDC 111 (MA No 9053 of 2015/01) (“_Alfian bin Abdullah_”) to support the prosecution’s sentencing proposal. In that case, which was cited in _Yeo Ek Boon Jeffrey_ at \[66\], the accused person had punched a police officer on the back of his head and kicked his stomach. On appeal, the High Court enhanced his sentence to 10 months’ imprisonment, taking into account the vengeful nature of the attack and the accused person’s long list of criminal antecedents.
 
 23     As for the s 353 charge, DPP Tan submitted for a custodial sentence of four weeks’ imprisonment. A table of sentencing precedents was tendered which showed that the trend seemed to be in the range of four to six weeks’ imprisonment.
 

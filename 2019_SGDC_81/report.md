@@ -1,9 +1,10 @@
-<style>.footnotes::before { content: "Footnotes:"; }</style>
-# Public Prosecutor _v_ Muhammad Haziq bin Rosli  
+<style>.footnotes::before { content: "Footnotes:"; }</style># Public Prosecutor _v_ Muhammad Haziq bin Rosli  
+
+### \[2019\] SGDC 81
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">DAC 902571/2018 and others</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">02 May 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Eddy Tham Tong Kong</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Deputy Public Prosecutor Johannus Houston for the Prosecution; Defence Counsel Dhillon Surinder Singh (M/s Dhillon &amp; Panoo LLC) for the Accused</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Muhammad Haziq bin Rosli</td></tr></tbody></table>
 
-\[LawNet Editorial Note: An appeal to this decision has been filed in MA 9051/2019/01.\]
+\[LawNet Editorial Note: The appeal in MA 9051/2019/01 was withdrawn on 17 May 2019.\]
 
 2 May 2019
 
@@ -189,7 +190,7 @@ Christopher, Felix, and Daniel.
 
 39     The Prosecution sought for the Accused to be sentenced to reformative training for a minimum detention period of 6 months, as the Accused had been assessed to be suitable to undergo a Level 1 intensity of intervention programmes.
 
-40     The Prosecution started off their submission with applying the sentencing approach set out in the case of _Public Prosecutor v Koh Wen Jie Boaz_ (“Boaz Koh”) comprising a 2- stage enquiry. Applying the approach, the Prosecution submitted that given the Accused is still below 21 years old and the nature of the offences, rehabilitation would still be relevant sentencing principle. However, going into the second stage, deterrence should still come to the fore as the Accused had committed 2 serious offences of rioting.
+40     The Prosecution started off their submission with applying the sentencing approach set out in the case of _Public Prosecutor v Koh Wen Jie Boaz_ \[2016\] 1 SLR 334 (“Boaz Koh”) comprising a 2- stage enquiry. Applying the approach, the Prosecution submitted that given the Accused is still below 21 years old and the nature of the offences, rehabilitation would still be relevant sentencing principle. However, going into the second stage, deterrence should still come to the fore as the Accused had committed 2 serious offences of rioting.
 
 41     The Prosecution pointed out that for the first rioting offence on 1 July 2016, the Accused was an active participant in the rioting. He had taken a wooden stick and chased and punched more than one victim. The other aggravating factors highlighted was that there were at least 2 victims who were hurt and weapons were used by the group. The violent incident would also have caused disturbance to the public as it had happened in full view of public at 10.45pm in a public mall attracting a crowd. The Prosecution submitted that such behaviour needs to be deterred.
 

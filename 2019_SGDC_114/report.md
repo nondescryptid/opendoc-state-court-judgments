@@ -1,5 +1,6 @@
-<style>.footnotes::before { content: "Footnotes:"; }</style>
-# Public Prosecutor _v_ Harveen Kaur d/o Jaginder Singh  
+<style>.footnotes::before { content: "Footnotes:"; }</style># Public Prosecutor _v_ Harveen Kaur d/o Jaginder Singh  
+
+### \[2019\] SGDC 114
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">DAC 901868/19</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">28 May 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Shaiffudin Bin Saruwan</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">DPP Nicholas Lim for the Prosecution; The Accused in person</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Harveen Kaur d/o Jagindar Singh</td></tr></tbody></table>
 
@@ -31,11 +32,11 @@ The Accused pleaded guilty to one charge of criminal breach of trust under secti
 
 7       The case precedents for a s 406 Penal Code offence showed that 15 weeks’ to three months’ imprisonment have been imposed where the value of the item or items misappropriated ranged from $12,996/- to $16,546/-.
 
-8       In _PP v Osi Maria Elenora Protacio_ , the accused was a receptionist in a dental clinic. She misappropriated payments from patients and used them to settle her debts. The amount involved was $14,089.05. Full restitution was made. The District Judge fined her $4,000/- but on appeal the sentence was enhanced to 15 weeks’ imprisonment.
+8       In _PP v Osi Maria Elenora Protacio_ \[2016\] SGHC 78, the accused was a receptionist in a dental clinic. She misappropriated payments from patients and used them to settle her debts. The amount involved was $14,089.05. Full restitution was made. The District Judge fined her $4,000/- but on appeal the sentence was enhanced to 15 weeks’ imprisonment.
 
-9       In _PP v Lim Yew Heng_ , the accused was the dormitory manager of a construction company. He pockets three cheques totalling $12,332/- from customers. Full restitution was made. The sentence imposed was three months’ imprisonment.
+9       In _PP v Lim Yew Heng_ \[2013\] SGDC 104, the accused was the dormitory manager of a construction company. He pockets three cheques totalling $12,332/- from customers. Full restitution was made. The sentence imposed was three months’ imprisonment.
 
-10     In _Tham Whye Tong v PP_ , the accused was a general manager of a company. He misappropriated a sum totalling $13,547.57. Full restitution was made. He was sentenced to three months’ imprisonment.
+10     In _Tham Whye Tong v PP_ \[2001\] SGDC 137, the accused was a general manager of a company. He misappropriated a sum totalling $13,547.57. Full restitution was made. He was sentenced to three months’ imprisonment.
 
 11     In _PP v Nurita Binte Salem_ (DAC 917187/16), the accused was the principal of a pre-school. She misappropriated a total of $12,996/- from the school. She made full restitution. She was sentenced to three months’ imprisonment.
 

@@ -1,5 +1,6 @@
-<style>.footnotes::before { content: "Footnotes:"; }</style>
-# Lee William _v_ Tan Pang Yav  
+<style>.footnotes::before { content: "Footnotes:"; }</style># Lee William _v_ Tan Pang Yav  
+
+### \[2019\] SGDC 102
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">DC/DC Suit No. 520 of 2018, HC/District Court Appeal No. 19 of 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">22 May 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Loo Ngan Chor</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Mr Low Kuang Ting Winston (M/s Winston Low &amp; Partners) - for the Plaintiff; Mr Teo Weng Kie (M/s Tan Kok Quan Partnership) - for the Defendant</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Lee William — Tan Pang Yav</td></tr></tbody></table>
 
@@ -94,7 +95,7 @@ AAround 1 metre.[^5]
 
 ## No contributory negligence:
 
-17     In closing submissions, Mr Teo had asked for 50% contribution against the plaintiff for failing to keep a proper look out for vehicles. Mr Teo relied on _Tan Siok Yee (suing by the committee of the person and estate of Liew Chee Kong_ v _Chong Voon Kee Ivan_ where the High Court found 50:50 in a case where a vehicle was reversing an unreasonable distance on a public road in order to use a just-vacated parking lot and struck a pedestrian who had stepped out from between parked vehicles onto the road. Justice Lai Siu Chiu’s reason for finding the plaintiff 50% contributorily negligent was that she had an equal duty as a pedestrian to mind her own welfare by keeping a watchful eye for vehicular traffic when she wished to step onto and cross the road, as may be gleaned from the following extract of the report:
+17     In closing submissions, Mr Teo had asked for 50% contribution against the plaintiff for failing to keep a proper look out for vehicles. Mr Teo relied on _Tan Siok Yee (suing by the committee of the person and estate of Liew Chee Kong_ v _Chong Voon Kee Ivan_ \[2005\] SGHC 157 where the High Court found 50:50 in a case where a vehicle was reversing an unreasonable distance on a public road in order to use a just-vacated parking lot and struck a pedestrian who had stepped out from between parked vehicles onto the road. Justice Lai Siu Chiu’s reason for finding the plaintiff 50% contributorily negligent was that she had an equal duty as a pedestrian to mind her own welfare by keeping a watchful eye for vehicular traffic when she wished to step onto and cross the road, as may be gleaned from the following extract of the report:
 
 52    There is a corresponding duty on the part of pedestrians as road users as can be seen from the following passage (at para 9-231) from the same textbook:
 

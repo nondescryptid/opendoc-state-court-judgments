@@ -1,5 +1,6 @@
-<style>.footnotes::before { content: "Footnotes:"; }</style>
-# SC Construction & Renovation Pte Ltd v Jinzhou Construction Pte Ltd  
+<style>.footnotes::before { content: "Footnotes:"; }</style># SC Construction & Renovation Pte Ltd v Jinzhou Construction Pte Ltd  
+
+### \[2019\] SGDC 98
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Summons No. 1400 of 2019, District Court Originating Summons No. 42 of 2019, RAS 13/2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">16 May 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Tan May Tee</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Mr Ng Hweelon (Veritas Law Corporation) for the Plaintiff; Mr Ashok Kumar Rai (Eversheds Harry Elias LLP) for the Defendant</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">SC Construction &amp; Renovation Pte Ltd — Jinzhou Construction Pte Ltd</td></tr></tbody></table>
 
@@ -63,7 +64,7 @@ Building and Construction Law – Building and Construction Industry Security 
 
 ## Principles governing a stay of enforcement of an adjudication determination
 
-13     In determining whether a stay ought to be granted, consideration had to be given to the legislative intent behind the SOPA regime which is to facilitate cash flow for parties in the building and construction industry. To ensure that cash flow is maintained, the adjudication determination is cloaked with temporary finality. As articulated by Sundaresh Menon CJ in delivering judgment of the Court of Appeal in _W Y Steel Construction Pte Ltd v Osko Pte Ltd_ at \[18\], SOPA –
+13     In determining whether a stay ought to be granted, consideration had to be given to the legislative intent behind the SOPA regime which is to facilitate cash flow for parties in the building and construction industry. To ensure that cash flow is maintained, the adjudication determination is cloaked with temporary finality. As articulated by Sundaresh Menon CJ in delivering judgment of the Court of Appeal in _W Y Steel Construction Pte Ltd v Osko Pte Ltd_ \[2013\] 3 SLR 380 at \[18\], SOPA –
 
 _“achieves its stated purpose of facilitating cash flow in the building and construction industry in two principal ways. First, it establishes that parties who have done work or supplied goods are entitled to payment as of right: see s 5 of the Act. Second, it creates an intervening, provisional process of adjudication which, although provisional in nature, is final and binding on the parties to the adjudication until their differences are ultimately and conclusively determined or resolved: see s 21 of the Act. This is what is referred to as temporary finality.”_
 
@@ -99,7 +100,7 @@ _12_.     _I say this because 4 sub-contractors have informed me that they h
 
 ## The _Erinford_ Order
 
-22     After I dismissed the Defendant’s application, counsel informed me that he had instructions to appeal to the High Court and sought an _Erinford_ order on the basis that the appeal would be rendered nugatory should the Defendant succeed in the appeal. Counsel for the Plaintiff submitted that a similar application had been made before the High Court in _AES Façade Pte Ltd v WYSE Pte Ltd_ which was dismissed. The High Court held that a stay of execution of the court’s orders pending an intended appeal was not justified as it could not have been intended that the considerations behind SOPA could be circumvented easily by the filing of an appeal.
+22     After I dismissed the Defendant’s application, counsel informed me that he had instructions to appeal to the High Court and sought an _Erinford_ order on the basis that the appeal would be rendered nugatory should the Defendant succeed in the appeal. Counsel for the Plaintiff submitted that a similar application had been made before the High Court in _AES Façade Pte Ltd v WYSE Pte Ltd_ \[2017\] 5 SLR 640 which was dismissed. The High Court held that a stay of execution of the court’s orders pending an intended appeal was not justified as it could not have been intended that the considerations behind SOPA could be circumvented easily by the filing of an appeal.
 
 23     I declined to make any _Erinford_ order as there was no material before me to suggest that the Defendant’s appeal would be rendered nugatory. The Defendant had not furnished any compelling evidence to persuade me that should they succeed in the appeal, any monies paid by them in compliance with the Judgment would not be recoverable. As far as winding-up action was concerned, as mentioned in \[21\] above, this could be easily prevented by making payment of the Adjudicated Amount as required.
 

@@ -1,5 +1,7 @@
 <style>.footnotes::before { content: "Footnotes:"; }</style># Public Prosecutor _v_ Loy Zhong Huan, Dylan  
 
+### \[2019\] SGDC 139
+
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">DAC No. 918248 of 2018</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">10 July 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">May Lucia Mesenas</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">DPP Michelle Lu (Attorney-General's Chambers) for the public prosecutor; Mr Deya Shankar Dubey (M/s Wong Partnership LLP) for the accused</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Loy Zhong Huan, Dylan</td></tr></tbody></table>
 
 \[LawNet Editorial Note: An appeal to this decision has been filed in MA 9124/2019/01.\]
@@ -104,7 +106,7 @@ c)     severity of the injuries sustained by the victim.
 
 ## Mitigation
 
-10     Defence counsel had urged this court to consider calling a probation report. Whilst it is not disputed that the current offences are serious, it was submitted that whether rehabilitation retains primacy in the sentencing matrix depends on the facts and circumstances of the case as well as the court’s consideration on whether the particular offender’s capacity for rehabilitation is demonstrably high, such that it outweighs the public policy concerns that are traditionally understood as militating against probation (see _Praveen s/o Krishnan v PP_ (“_Praveen_”) at \[29\]).
+10     Defence counsel had urged this court to consider calling a probation report. Whilst it is not disputed that the current offences are serious, it was submitted that whether rehabilitation retains primacy in the sentencing matrix depends on the facts and circumstances of the case as well as the court’s consideration on whether the particular offender’s capacity for rehabilitation is demonstrably high, such that it outweighs the public policy concerns that are traditionally understood as militating against probation (see _Praveen s/o Krishnan v PP_ \[2018\] 3 SLR 1300 (“_Praveen_”) at \[29\]).
 
 11     In that regard, the defence submitted that the accused’s capacity for rehabilitation should be assessed after the probation report is called for. Further, it was highlighted that the accused committed the offence when he was 16 years old and is now actively engaged in school. In particular, he is undergoing a diploma course in the Republic Polytechnic (“RP”) where he is one year away from graduation.
 
@@ -176,7 +178,7 @@ d)     The accused is genuinely remorseful for his actions as he has pleade
 
 29     As a starting point, rehabilitation is generally the dominant sentencing consideration in determining the appropriate sentence for a young offender aged 21 years and below (see _Maurice Mok_ at \[21\] and followed in _Leon Russel Francis_ at \[13\]).
 
-30     However, as noted by Chong JA in _Praveen’s_ case, at \[28\], when a young offender is convicted of a _serious offence_, the principle of rehabilitation may be outweighed by other considerations such as the need for general and specific deterrence and even retribution: _Leon Russel Francis v PP_ (“_Leon Russel Francis_”) at \[13\] and _PP v Justin Heng Zheng Hao_ (“_Justin Heng_”) at \[13\]. Such offences include serious sexual crimes (see _PP v Mohamed Noh Hafiz bin Osman_ ), crimes involving violence, robbery, rioting and drug offences, in particular, those which relate to trafficking (_Justin Heng_ at \[13\] and \[26\]).
+30     However, as noted by Chong JA in _Praveen’s_ case, at \[28\], when a young offender is convicted of a _serious offence_, the principle of rehabilitation may be outweighed by other considerations such as the need for general and specific deterrence and even retribution: _Leon Russel Francis v PP_ \[2014\] 4 SLR 651 (“_Leon Russel Francis_”) at \[13\] and _PP v Justin Heng Zheng Hao_ \[2012\] SGDC 219 (“_Justin Heng_”) at \[13\]. Such offences include serious sexual crimes (see _PP v Mohamed Noh Hafiz bin Osman_ \[2003\] 4 SLR(R) 281), crimes involving violence, robbery, rioting and drug offences, in particular, those which relate to trafficking (_Justin Heng_ at \[13\] and \[26\]).
 
 31     In considering whether rehabilitation retains its primacy in the sentencing matrix, the court should consider whether the particular offender’s _capacity for rehabilitation_ is demonstrably high, so that it outweighs the public policy concerns that are traditionally understood as militating against probation (_Justin Hen_g at \[13\] and \[15\], cited at _Leon Russel Francis_ at \[14\] – _Praveen_ at \[29\]). In _Praveen_ at \[30\], it was further stated that in determining the offender’s capacity for rehabilitation and the appropriate sentence, the following considerations set out in _Leon Russel Francis_ (for drug cases) at \[15\] are relevant:
 
@@ -188,7 +190,7 @@ d)     The accused is genuinely remorseful for his actions as he has pleade
 
 (d)     the presence of risk factors such as negative peers or bad habits.
 
-32     Given the seriousness of the offences as well as the need for rehabilitation, I am also mindful of the observations made by the learned Justice of Appeal, Justice VK Rajah (as he then was) in the case of _PP v Mohamed Al Ansari bin Basri_ (“_Al Ansari_”) at \[58\]:
+32     Given the seriousness of the offences as well as the need for rehabilitation, I am also mindful of the observations made by the learned Justice of Appeal, Justice VK Rajah (as he then was) in the case of _PP v Mohamed Al Ansari bin Basri_ \[2008\] 1 SLR 449 (“_Al Ansari_”) at \[58\]:
 
 .. it is clear that reformative training by itself, with the attendant element of incarceration, implicitly carries with it a significant deterrent effect, both on a specific and general level. As such, it is my view that the sentencing option of reformative training provides the courts with a middle ground that broadly encapsulates the twin principles of rehabilitation and deterrence in relation to young offenders.
 

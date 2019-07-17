@@ -1,5 +1,6 @@
-<style>.footnotes::before { content: "Footnotes:"; }</style>
-# Public Prosecutor _v_ Hayzal bin Mohamad Riduan  
+<style>.footnotes::before { content: "Footnotes:"; }</style># Public Prosecutor _v_ Hayzal bin Mohamad Riduan  
+
+### \[2019\] SGDC 122
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">DAC 921760-2018 &amp; others</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">18 June 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Tan Jen Tse</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Deputy Public Prosecutor Tan Yanying for the prosecution; Accused in person</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Hayzal bin Mohamad Riduan</td></tr></tbody></table>
 
@@ -272,7 +273,7 @@ v)    One burnt joint marked as **‘HAY-4’**
 
 14     The accused’s culpability was not low. When he was approached by the victim and other police officers, he resisted arrest and struggled violently. The harm caused was fairly serious. A fracture had been caused to the victim’s fifth toe and the victim was given one month’s medical leave.
 
-15     In _Public Prosecutor v GCA_ (“_GCA_”), the offender was sentenced to 30 months’ imprisonment for an offence under s 333 of the Penal Code. This is the only available sentencing precedent. The offender had kicked the right hand of a public servant, causing a soft tissue injury of the right thumb and a contusion of the hand. The victim was given medical leave of 21 days, during which time he was unable to follow his ordinary pursuits. While the appeal in _GCA_ has not been heard, this case illustrates that stiff deterrent sentences will be imposed when grievous hurt is caused to public servants.
+15     In _Public Prosecutor v GCA_ \[2019\] SGDC 28 (“_GCA_”), the offender was sentenced to 30 months’ imprisonment for an offence under s 333 of the Penal Code. This is the only available sentencing precedent. The offender had kicked the right hand of a public servant, causing a soft tissue injury of the right thumb and a contusion of the hand. The victim was given medical leave of 21 days, during which time he was unable to follow his ordinary pursuits. While the appeal in _GCA_ has not been heard, this case illustrates that stiff deterrent sentences will be imposed when grievous hurt is caused to public servants.
 
 16     The injury caused in the present case was even more severe than in _GCA_ as the victim suffered a fracture and was given a longer period of medical leave. The prosecution’s submission that a sentence of 18 months’ imprisonment should be imposed was reasonable, since this was substantially shorter than the sentence of 30 months’ imprisonment meted out in _GCA_.
 
@@ -300,7 +301,7 @@ v)    One burnt joint marked as **‘HAY-4’**
 
 * * *
 
-[^1]: _Public Prosecutor v Raveen Balakrishnan_ _(“Raveen”_) at \[37\].
+[^1]: _Public Prosecutor v Raveen Balakrishnan_ \[2018\] SGHC 148 _(“Raveen”_) at \[37\].
 
 [^2]: _Raveen_ at \[41\].
 

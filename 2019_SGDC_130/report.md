@@ -1,5 +1,6 @@
-<style>.footnotes::before { content: "Footnotes:"; }</style>
-# Public Prosecutor _v_ Mohamad Eskah bin Abdul Malek  
+<style>.footnotes::before { content: "Footnotes:"; }</style># Public Prosecutor _v_ Mohamad Eskah bin Abdul Malek  
+
+### \[2019\] SGDC 130
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">DAC No. 915535 of 2017</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">25 June 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Mathew Joseph</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">DPP Jane Lim for the Prosecution; Accused in Person</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Mohamad Eskah bin Abdul Malek</td></tr></tbody></table>
 
@@ -215,7 +216,7 @@ the court, in deciding whether the accused is guilty of the offence, may draw su
 
 \[Emphasis added\]
 
-58     The Court of Appeal in _Took Leng How v Public Prosecutor_ (_“Took Leng How”)_ at paragraphs \[42\] – \[43\] clarified the scope of “such inferences” referred to the previous formulation of s 291(3) (a), namely s 196 (2) of the CPC. The Court of Appeal also referred in this regard to the well-known case of _Haw Tua Tau v PP_ \[1981 – 1982\] SLR(R) 133 where the Court of Appeal had stated at \[42\] that “_what inferences are proper to be drawn from an accused’s refusal to give evidence depend on the circumstances of a particular case, and is a question to be decided by applying ordinary common sense_” and the strongest inference being one of guilt itself. This pronouncement also affirmed the decision in _Chai Chien Wei Kelvin v Public Prosecutor_ [^31] at \[82\]:
+58     The Court of Appeal in _Took Leng How v Public Prosecutor \[2006\] 2 SLR(R) 70_ (_“Took Leng How”)_ at paragraphs \[42\] – \[43\] clarified the scope of “such inferences” referred to the previous formulation of s 291(3) (a), namely s 196 (2) of the CPC. The Court of Appeal also referred in this regard to the well-known case of _Haw Tua Tau v PP_ \[1981 – 1982\] SLR(R) 133 where the Court of Appeal had stated at \[42\] that “_what inferences are proper to be drawn from an accused’s refusal to give evidence depend on the circumstances of a particular case, and is a question to be decided by applying ordinary common sense_” and the strongest inference being one of guilt itself. This pronouncement also affirmed the decision in _Chai Chien Wei Kelvin v Public Prosecutor_ \[1998\] 3 SLR(R) 619[^31] at \[82\]:
 
 _On the other hand_, _if aspects of the evidence taken alone or in combination with other facts clearly call for an explanation_ _which the accused ought to be in a position to give, if an explanation exists, then a failure to give any explanation may_ _as a matter of common sense allow the drawing of an inference that there is no explanation and that the accused is guilty._
 

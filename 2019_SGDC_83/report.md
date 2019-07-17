@@ -1,9 +1,12 @@
-<style>.footnotes::before { content: "Footnotes:"; }</style>
-# Huan Jong Ming _v_ Khoo Khim Chin  
+<style>.footnotes::before { content: "Footnotes:"; }</style># Huan Jong Ming _v_ Khoo Khim Chin  
+
+### \[2019\] SGDC 83
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">District Court Suit No. 2790/2017, District Court Appeal No. 14/2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">26 April 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Lim Wee Ming</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Mr Michael Han (Hoh Law Corporation) for the Plaintiff; Mr Tan Chee Kiong (Seah Ong &amp; Partners LLP) for the Defendant</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Huan Jong Ming — Khoo Khim Chin</td></tr></tbody></table>
 
 Tort – Motor accident – Contributory Negligence
+
+\[LawNet Editorial Note: An appeal to this decision has been filed in DCA 14/2019.\]
 
 26 April 2019
 

@@ -1,5 +1,6 @@
-<style>.footnotes::before { content: "Footnotes:"; }</style>
-# Public Prosecutor _v_ Mohammad Faizal bin Omar  
+<style>.footnotes::before { content: "Footnotes:"; }</style># Public Prosecutor _v_ Mohammad Faizal bin Omar  
+
+### \[2019\] SGDC 84
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">TP-177002496205 &amp; ors, LTA-3184119164 &amp; ors, Magistrate's Appeal No. 005/2019/01</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">06 May 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Lorraine Ho</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">ASP Shrmani (CID) and Daniel Marini (LTA) for the Public Prosecutor; Accused in Person</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Mohammad Faizal bin Omar</td></tr></tbody></table>
 
@@ -116,7 +117,7 @@ On 22 April 2017 at about 8.00 am, along Pan Island Expressway towards Tuas (che
 
 26     Recently reported cases have shown that the usual tariff that is applicable to first offenders in respect of common road traffic offences like ERP, parking and failing to furnish driver’s particulars offences is $400 to $500 if they choose to plead guilty in court:
 
-(a)      _PP v Nunoeng Roheryanto Bin Wahid_ , where $400 in default 1 day’s imprisonment was imposed on each charge_;_ and
+(a)      _PP v Nunoeng Roheryanto Bin Wahid_ \[2016\] SGDC 245, where $400 in default 1 day’s imprisonment was imposed on each charge_;_ and
 
 (b)      _PP v Fok Jun Hong Johnson_ \[2017\], where $500 in default 1 day’s imprisonment was imposed on each charge.
 

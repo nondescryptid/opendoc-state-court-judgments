@@ -1,9 +1,10 @@
-<style>.footnotes::before { content: "Footnotes:"; }</style>
-# Public Prosecutor _v_ Koh Choon Lin Anthony  
+<style>.footnotes::before { content: "Footnotes:"; }</style># Public Prosecutor _v_ Koh Choon Lin Anthony  
+
+### \[2019\] SGDC 80
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">DAC 909913-4/2015</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">29 April 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Kamala Ponnampalam</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">DPP Sanjiv Vaswani (Attorney-General's Chambers) for the Prosecution; Kalidass Murugaiyan (Messrs Kalidass Law Corporation Co) for the Accused.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Koh Choon Lin Anthony</td></tr></tbody></table>
 
-\[LawNet Editorial Note: An appeal to this decision has been filed in MA 9126/2018/01-02.\]
+\[LawNet Editorial Note: The appeal in MA 9126/2018/02 was withdrawn on 27 May 2019.\]
 
 29 April 2019
 
@@ -351,7 +352,7 @@ _At the end of the day, it must be borne in mind that the main sentencing consid
 
 [^8]: NE Day 8, 18 Nov 2016, Pages 72-73
 
-[^9]: 
+[^9]: \[1998\] 2 SLR(R) 119
 
 [^10]: Exhibit P8
 
@@ -381,13 +382,13 @@ _At the end of the day, it must be borne in mind that the main sentencing consid
 
 [^23]: Exhibit D17
 
-[^24]: 
+[^24]: \[2011\] 4 SLR 217
 
-[^25]: 
+[^25]: \[2007\] 2 SLR(R) 814
 
-[^26]: 
+[^26]: \[2001\] 2 SLR(R) 515
 
-[^27]: 
+[^27]: \[2009\] SGHC 3
 
 [^28]: Magistrate’s Appeal No 139/2007/01
 

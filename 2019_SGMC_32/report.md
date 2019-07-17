@@ -1,5 +1,7 @@
 <style>.footnotes::before { content: "Footnotes:"; }</style># Jasmine binte Mohd Khalif @ Jasmine binte Mohd Khalip _v_ Bibi Fernaz Ashraf  
 
+### \[2019\] SGMC 32
+
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Magistrate Court Suit No 4123 of 2018</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">01 July 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">Magistrates Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Prem Raj Prabakaran</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Patrick Fernandez (M/s Fernandez LLC) for the plaintiff; Ranjit Singh (M/s Francis Khoo &amp; Lim) for the defendant.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Jasmine binte Mohd Khalif @ Jasmine binte Mohd Khalip — Bibi Fernaz Ashraf</td></tr></tbody></table>
 
 1 July 2019
@@ -142,7 +144,7 @@ MAINTENANCE OF WIFE, INCAPACITATED HUSBAND AND CHILDREN
 
 [^26]: See \[9\] above.
 
-[^27]: _TDT v TDS and another appeal and another matter_ at \[102\]-\[117\].
+[^27]: _TDT v TDS and another appeal and another matter_ \[2016\] 4 SLR 145 at \[102\]-\[117\].
 
 [^28]: See \[9\] above.
 

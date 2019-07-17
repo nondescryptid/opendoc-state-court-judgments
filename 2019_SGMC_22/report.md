@@ -1,5 +1,6 @@
-<style>.footnotes::before { content: "Footnotes:"; }</style>
-# Public Prosecutor _v_ Chia Puay Yeoh  
+<style>.footnotes::before { content: "Footnotes:"; }</style># Public Prosecutor _v_ Chia Puay Yeoh  
+
+### \[2019\] SGMC 22
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">MAC 909179/16 &amp; Ors</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">22 May 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Shaiffudin Bin Saruwan</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Mr Riasudeen for the Prosecution; Mr Kertar Singh for the Accused Person</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Chia Puay Yeoh</td></tr></tbody></table>
 
@@ -157,7 +158,7 @@ The Accused, a 55 years old male Chinese, faced 37 charges under s 22B(1) read w
 
 ### (i)    17 similar charges taken into consideration
 
-39     17 similar charges were taken into consideration. Mr Rias submitted that its effect was to warrant an enhancement of the sentence: _PP v UI_ at \[38\].
+39     17 similar charges were taken into consideration. Mr Rias submitted that its effect was to warrant an enhancement of the sentence: _PP v UI_ \[2008\] 4 SLR(R) 500 at \[38\].
 
 ### (ii)    Relevant antecedents demonstrates recalcitrance
 
@@ -225,7 +226,7 @@ The Accused, a 55 years old male Chinese, faced 37 charges under s 22B(1) read w
 
 58     Caning was mandatory under s 22B(2) EFMA as the Accused had been charged with more than five offences, and convicted on at least six offences at the same trial. As he could not be caned because of his age, I have to impose a fine not exceeding $10,000/- in lieu of caning. I imposed a fine of $2,000/- in default to serve one week’s imprisonment.
 
-59     In this, there was the issue whether caning should be imposed on each individual charge proceeded with (“individual offence approach”) or cumulatively on all the proceeded charges (“cumulative offences approach”). I accepted the submissions by Mr Rias that the cumulative offences approach should be adopted for s 22B(2) EFMA. The issue was canvassed in _Shanmugam P v PP_ (_“Shanmugam P”_). _Shanmugam P_ dealt with s 57(1A) Immigration Act, Cap 133 (“IA”) which prescribed mandatory caning where the defendant had hired more than five immigration offenders. Yong Pung How CJ preferred the individual offence approach for the following reasons –
+59     In this, there was the issue whether caning should be imposed on each individual charge proceeded with (“individual offence approach”) or cumulatively on all the proceeded charges (“cumulative offences approach”). I accepted the submissions by Mr Rias that the cumulative offences approach should be adopted for s 22B(2) EFMA. The issue was canvassed in _Shanmugam P v PP_ \[2000\] 1 SLR(R) 662 (_“Shanmugam P”_). _Shanmugam P_ dealt with s 57(1A) Immigration Act, Cap 133 (“IA”) which prescribed mandatory caning where the defendant had hired more than five immigration offenders. Yong Pung How CJ preferred the individual offence approach for the following reasons –
 
 (i)     It accorded with the plain and ordinary reading of the provision;
 

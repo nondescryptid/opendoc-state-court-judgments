@@ -1,5 +1,6 @@
-<style>.footnotes::before { content: "Footnotes:"; }</style>
-# Public Prosecutor _v_ Ong Jie Sheng, Jason  
+<style>.footnotes::before { content: "Footnotes:"; }</style># Public Prosecutor _v_ Ong Jie Sheng, Jason  
+
+### \[2019\] SGDC 129
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">DAC 927775 of 2017</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">24 June 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Toh Yung Cheong</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Ms Claire Poh (Deputy Public Prosecutor) for the Prosecution; Wee Hong Shern (Ong &amp; Co. LLC) for the Accused</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Ong Jie Sheng, Jason</td></tr></tbody></table>
 
@@ -80,9 +81,9 @@ You, on 22 June 2017, at or about 6.45pm, at the backlane between Lorong 14 Geyl
 
 15     The DPP highlighted the following sentencing precedents:
 
-15.1      _PP v Koh Ah Chwee_ : The offender pleaded guilty to a total of 7 charges, including charges of consuming and possessing specified and controlled drugs respectively. The offender had committed those offences while he was on Court bail. A sentence of 12 months’ imprisonment was imposed on each of those charges. The total sentence imposed was 45 months’ imprisonment. The offender’s appeal against sentence was dismissed by the High Court.
+15.1      _PP v Koh Ah Chwee_ \[2016\] SGDC 77: The offender pleaded guilty to a total of 7 charges, including charges of consuming and possessing specified and controlled drugs respectively. The offender had committed those offences while he was on Court bail. A sentence of 12 months’ imprisonment was imposed on each of those charges. The total sentence imposed was 45 months’ imprisonment. The offender’s appeal against sentence was dismissed by the High Court.
 
-15.2      _PP v Mohamad Riduan Bin Saimon_ . The offender faced 3 separate charges of consumption of a specified drug on 3 separate occasions. Two of the consumption charges were committed while the offender was on bail. In addition, he also faced a trafficking charge. He was sentenced to 8, 10, and 12 months’ respectively for each of the consumption charges. In light of the other charges he faced, his total sentence was 7 years and 20 months’ imprisonment and 6 strokes of the cane. The offender discontinued his appeal.
+15.2      _PP v Mohamad Riduan Bin Saimon_ \[2016\] SGDC 355. The offender faced 3 separate charges of consumption of a specified drug on 3 separate occasions. Two of the consumption charges were committed while the offender was on bail. In addition, he also faced a trafficking charge. He was sentenced to 8, 10, and 12 months’ respectively for each of the consumption charges. In light of the other charges he faced, his total sentence was 7 years and 20 months’ imprisonment and 6 strokes of the cane. The offender discontinued his appeal.
 
 16     In respect of the Common Gaming Houses Act charge, the DPP noted that the accused had been sentenced to 3 weeks’ imprisonment and a fine of $20,000 for a similar offence. The DPP submitted that the sentencing precedents for repeat offences suggest a sentence of 6 weeks’ imprisonment and a fine of $40,000.
 
@@ -104,13 +105,13 @@ You, on 22 June 2017, at or about 6.45pm, at the backlane between Lorong 14 Geyl
 
 18     The High Court has indicated that the sentencing range for cases involving the consumption of a class A controlled drug by a first-time offender is 6 to 18 months’ imprisonment: _Dinesh Singh Bhatia s/o Amarjeet Singh v PP_ \[2005\] 3 SLRI 1. In _Dinesh Singh Bhatia, t_he High Court allowed the appeal against sentence and reduced the offender’s sentence to 8 months’ imprisonment. Justice VK Rajah noted at \[56\]-\[57\] that the act of consumption was not planned, the amount consumed was not substantial, there was no payment involved, and that this was a one-off episode.
 
-19     In _PP v Lim Cheng Ji Alvin_ , Chief Justice Sundaresh Menon at \[28\] applied the sentencing range in _Dinesh Singh Bhatia_ to a first-time offender convicted of possession of a class A controlled drug. The learned Chief Justice noted at \[29\] that the offender was a casual user rather than a one-off user and there was a greater need for specific deterrence for the former category. The offender was sentenced on appeal to 8 months’ imprisonment for possession of not less than 0.91g of cannabis mixture.
+19     In _PP v Lim Cheng Ji Alvin_ \[2017\] SGHC 183, Chief Justice Sundaresh Menon at \[28\] applied the sentencing range in _Dinesh Singh Bhatia_ to a first-time offender convicted of possession of a class A controlled drug. The learned Chief Justice noted at \[29\] that the offender was a casual user rather than a one-off user and there was a greater need for specific deterrence for the former category. The offender was sentenced on appeal to 8 months’ imprisonment for possession of not less than 0.91g of cannabis mixture.
 
 #### Misuse of Drugs Act charges – Sentencing Considerations
 
 20     I was of the view that the sentencing range of 6 to 18 months’ imprisonment was applicable in the present case as the accused did not have any previous convictions under the Misuse of Drugs Act. I agreed with the prosecution that the sentence imposed should be at the higher end of the range for the following reasons:
 
-20.1     The accused committed the drug offences while on bail for other offences. The commission of an offence whilst on bail is an aggravating factor: _PP v Loqmanul Hakim Bin Buang_ at \[57\].
+20.1     The accused committed the drug offences while on bail for other offences. The commission of an offence whilst on bail is an aggravating factor: _PP v Loqmanul Hakim Bin Buang_ \[2007\] 4 SLR 753 at \[57\].
 
 20.2     The sentencing precedents cited by the prosecution indicate that sentences at the higher end of the range have been imposed in relation to offences of possession and consumption of controlled drugs that were committed while on bail.
 

@@ -1,5 +1,6 @@
-<style>.footnotes::before { content: "Footnotes:"; }</style>
-# Public Prosecutor _v_ Tham Wai Kong  
+<style>.footnotes::before { content: "Footnotes:"; }</style># Public Prosecutor _v_ Tham Wai Kong  
+
+### \[2019\] SGDC 103
 
 <table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">DAC 938556-2016 &amp; others</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">22 May 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Tan Jen Tse</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">DPPs Mr Jordon Li and Cheng Yuxi for the Public Prosecutor; Accused in person</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Tham Wai Kong</td></tr></tbody></table>
 
@@ -232,7 +233,7 @@ Explanation —A person is said to gain wrongfully when such person retains wron
 
 61     In submitting for a sentence of at least 3 months’ imprisonment per charge with 2 sentences to run consecutively, the prosecution pointed out that the accused was unremorseful and had mounted a spurious defence. It was an aggravating factor that he had used the internet to attract buyers and commit multiple offences.
 
-62     The use of the internet to cheat members of the public has been recognized to be an aggravating factor. In _Public Prosecutor v Syamsul Hilal bin Ismail_ (_“Syamsul”_), Chao Hick Tin, JA stated at \[36\]:-
+62     The use of the internet to cheat members of the public has been recognized to be an aggravating factor. In _Public Prosecutor v Syamsul Hilal bin Ismail_ \[2012\] 1 SLR 973 (_“Syamsul”_), Chao Hick Tin, JA stated at \[36\]:-
 
 In relation to the Prosecution’s submission, I accept that the use of the Internet is a relevant sentencing consideration in that there is a strong public interest to deter potential offenders from using that medium to reach a larger number of potential victims.
 
