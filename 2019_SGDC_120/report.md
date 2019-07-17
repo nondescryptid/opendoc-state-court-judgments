@@ -7,7 +7,7 @@
 
 Sale of Immovable Property
 
-16 June 2019
+16 June 2019 - Judgment reserved.
 
 ### District Judge Ronald Gwee:
 

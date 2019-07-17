@@ -9,7 +9,7 @@ Tort – Misrepresentation – Fraud and deceit
 
 Civil Procedure – Pleadings
 
-19 June 2019
+19 June 2019 - Judgment reserved.
 
 ### Magistrate Chua Wei Yuan:
 

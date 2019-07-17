@@ -7,7 +7,7 @@
 
 Building and Construction Law
 
-13 June 2019
+13 June 2019 - Judgment reserved.
 
 ### District Judge Ronald Gwee:
 

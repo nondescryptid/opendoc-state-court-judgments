@@ -7,7 +7,7 @@
 
 \[LawNet Editorial Note: An appeal to this decision has been filed in MA 9106/2019/01\]
 
-23 May 2019
+23 May 2019 - Judgment reserved.
 
 ### District Judge Toh Yung Cheong:
 
