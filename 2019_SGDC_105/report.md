@@ -90,7 +90,7 @@ MAC 902066/2019 (Voluntarily causing hurt)
 
 15     In this case, the accused had submitted for a short custodial sentence. Defence counsel did not submit on the sentencing principles applicable for which the court ought to consider a short imprisonment term instead of a sentence of reformative training, for which the minimum detention period is either 6 or 12 months, depending on the needs of the offender. Counsel merely stated that he was constrained by his client’s instructions. Notwithstanding that the accused may have turned 21 years old at the time of sentencing, I am of the view that the offences were nonetheless committed when he was below 21 years old, in which case, rehabilitation would still be a relevant sentencing consideration. The issue is thus whether deterrence ought to play a dominant role such that it eclipses the rehabilitative needs of the accused, and where an imprisonment term should be imposed.
 
-16     As observed by the learned Justice of Appeal, Justice VK Rajah in the case of _PP v Mohamed Al Ansari bin Basri_ \[2008\] 1 SLR 449 (“_Al Ansari_”) at \[58\]:
+16     As observed by the learned Justice of Appeal, Justice VK Rajah in the case of _PP v Mohamed Al Ansari bin Basri_ <span class="citation">\[2008\] 1 SLR 449</span> (“_Al Ansari_”) at \[58\]:
 
 .. it is clear that reformative training by itself, with the attendant element of incarceration, implicitly carries with it a significant deterrent effect, both on a specific and general level. As such, it is my view that the sentencing option of reformative training provides the courts with a middle ground that broadly encapsulates the twin principles of rehabilitation and deterrence in relation to young offenders..
 
@@ -112,7 +112,7 @@ If the offence is so heinous and the young offender so devoid of any realistic p
 
 (f)     any other special reasons or need for rehabilitation.
 
-19     Further, as noted by Sundaresh Menon CJ in the case of _PP v Koh Wen Jie Boaz_ \[2016\] 1 SLR 334 (“_Boaz Koh_”) at \[30\], rehabilitation can be diminished or eclipsed by considerations such as deterrence or retribution in appropriate situations, where (the “_Boaz_ factors” as termed by Chan Seng Onn J in the case of _Muhammad Zuhairie Adely Bin Zulkifli v PP_ \[2016\] SGHC 134 (“_Muhammad Zuhairie_”) at \[23\]) :
+19     Further, as noted by Sundaresh Menon CJ in the case of _PP v Koh Wen Jie Boaz_ <span class="citation">\[2016\] 1 SLR 334</span> (“_Boaz Koh_”) at \[30\], rehabilitation can be diminished or eclipsed by considerations such as deterrence or retribution in appropriate situations, where (the “_Boaz_ factors” as termed by Chan Seng Onn J in the case of _Muhammad Zuhairie Adely Bin Zulkifli v PP_ <span class="citation">\[2016\] SGHC 134</span> (“_Muhammad Zuhairie_”) at \[23\]) :
 
 (a)     the offence is serious;
 
@@ -136,7 +136,7 @@ If the offence is so heinous and the young offender so devoid of any realistic p
 
 23     There was no question that the UML charge was committed out of greed, and the lure of quick money when the accused was in need of money. Instead of finding legal employment to deal with his financial difficulties, the accused turned to the unlicensed moneylender when the offer came up for him to provide his ATM card and passcode linked to his bank account registered under his name, in return for $400. The said bank account was deliberately opened by the accused for this nefarious purpose, which the accused was clearly aware of. I also note that the bank account was used for illegal purposes for a relatively long period of about seven months (from September 2017 to 12 April 2018) where transactions involved totalled to a substantial amount of almost $640,000, which resulted in the bank ‘flagging’ it out as being ‘suspicious’ due to its high volume of transactions.
 
-24     As for the VCH charge, I note that there were two victims involved (including the TIC charge) and the offences were committed while the accused was inebriated. The fact that the accused smelt strongly of alcohol at the material time is not a mitigating factor and would instead be regarded as an aggravating factor since he had consumed it voluntarily (see PP v Satesh s/o Narvalan \[2019\] SGHC 119 at \[17\]).
+24     As for the VCH charge, I note that there were two victims involved (including the TIC charge) and the offences were committed while the accused was inebriated. The fact that the accused smelt strongly of alcohol at the material time is not a mitigating factor and would instead be regarded as an aggravating factor since he had consumed it voluntarily (see PP v Satesh s/o Narvalan <span class="citation">\[2019\] SGHC 119</span> at \[17\]).
 
 #### Existence of antecedents
 

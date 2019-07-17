@@ -78,7 +78,7 @@ Facts relating to MAC-910197-2018): Section 3(1)(A) p/u Section 3(2) Protection 
 
 9       I considered the personal circumstances of the accused as set out in the mitigation plea filed by her counsel.[^3] The accused is a 56-year old female homemaker. She is a first offender. As described in the mitigation, she has had “neighbourhood issues” with her next-door neighbour for many years. The proceeded POHA charge arose out of the long-standing feud between them. When the police were called to the scene, she then committed the criminal force offence when the police intervened.
 
-10     In respect of the criminal force offence, counsel pleaded for only a fine in view of the accused’s clean record and her plea of guilt. It is not in dispute that this was the accused’s first brush with the law. However, I reminded counsel of the public interest to protect police officers which was re-affirmed by the High Court of three Judges in _PP v Yeo Ek Boon Jeffrey_ \[2017\] SGHC 306 (“_Jeffrey Yeo_”). The appellate court in _Jeffrey Yeo_ has thus set the tone for adequate sentences to be meted out in cases of assault against police officers. On the facts of the case and taking into account the TIC charges, and in the absence of exceptional mitigating factors, I told counsel that the custodial threshold has been crossed in respect of the criminal force charge.
+10     In respect of the criminal force offence, counsel pleaded for only a fine in view of the accused’s clean record and her plea of guilt. It is not in dispute that this was the accused’s first brush with the law. However, I reminded counsel of the public interest to protect police officers which was re-affirmed by the High Court of three Judges in _PP v Yeo Ek Boon Jeffrey_ <span class="citation">\[2017\] SGHC 306</span> (“_Jeffrey Yeo_”). The appellate court in _Jeffrey Yeo_ has thus set the tone for adequate sentences to be meted out in cases of assault against police officers. On the facts of the case and taking into account the TIC charges, and in the absence of exceptional mitigating factors, I told counsel that the custodial threshold has been crossed in respect of the criminal force charge.
 
 11     In the alternative, counsel also asked the court to consider a community-based sentence (e.g. short detention order) but as was rightly pointed by the prosecution, such a sentence would not be an option for a criminal force offence in view of the maximum prescribed punishment. Ultimately, counsel accepted that a custodial sentence was justified and there is no appeal by the defence.
 
@@ -108,7 +108,7 @@ Facts relating to MAC-910197-2018): Section 3(1)(A) p/u Section 3(2) Protection 
 
 [^3]: Plea in Mitigation (D1) dated 19 April 2019.
 
-[^4]: P3; (1) _PP v Li Xiangnan_, (2) _PP v Selvam s/o Muthu Krishna_, (3) _PP v Walter Marcel Christoph_ \[2013\] SGDC 305, (4) _PP v Neo Rong Hoa Benjamin_ (MA-9160-2017-01), (5) _PP v Kandasamy Ramesh_ (MAC 902392-2016).
+[^4]: P3; (1) _PP v Li Xiangnan_, (2) _PP v Selvam s/o Muthu Krishna_, (3) _PP v Walter Marcel Christoph_ <span class="citation">\[2013\] SGDC 305</span>, (4) _PP v Neo Rong Hoa Benjamin_ (MA-9160-2017-01), (5) _PP v Kandasamy Ramesh_ (MAC 902392-2016).
 
 [^5]: SC 904534/2017.
 

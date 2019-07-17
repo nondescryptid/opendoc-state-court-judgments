@@ -147,7 +147,7 @@ by delivering it to the individual personally;
 
 by leaving it at, or by sending it by pre-paid post to, the usual or last known address of the place of residence or business of thee individual; \[..\]
 
-27     Additionally, in the context of effective service of documents, the High Court has accepted that service can be validly effected even if the person being served refuses to accept the document as long as the server “_informed the person to be served of the nature of the document and throws it down in his presence_” (see _Maruti Shipping Pte Ltd v Tay Sien Djim_ \[2014\] SGHC 227 at \[56\]).
+27     Additionally, in the context of effective service of documents, the High Court has accepted that service can be validly effected even if the person being served refuses to accept the document as long as the server “_informed the person to be served of the nature of the document and throws it down in his presence_” (see _Maruti Shipping Pte Ltd v Tay Sien Djim_ <span class="citation">\[2014\] SGHC 227</span> at \[56\]).
 
 28     Based on the evidence adduced from PW2, which was unchallenged by the defence, I was satisfied that the accused was given the written direction to move on by PW2, within the meaning of section 36 of the POA.
 
@@ -381,7 +381,7 @@ _The accused was convicted and sentenced to twenty-six weeks’ imprisonment and
 
 * * *
 
-[^1]: _PP v Yan Jun_ \[2016\] SGMC 24 at \[36\]; _PP v Yan Jun_ \[2017\] SGMC 50 at \[9\]; _PP v Yan Jun_ \[2017\] SGMC 76; _PP v Yan Jun_ \[2018\] SGMC 19 at \[24\]
+[^1]: _PP v Yan Jun_ <span class="citation">\[2016\] SGMC 24</span> at \[36\]; _PP v Yan Jun_ <span class="citation">\[2017\] SGMC 50</span> at \[9\]; _PP v Yan Jun_ <span class="citation">\[2017\] SGMC 76</span>; _PP v Yan Jun_ <span class="citation">\[2018\] SGMC 19</span> at \[24\]
 
 [^2]: Prosecution’s closing submissions at \[19\].
 
@@ -409,7 +409,7 @@ _The accused was convicted and sentenced to twenty-six weeks’ imprisonment and
 
 [^14]: Prosecution’s Address on sentence at \[18\]
 
-[^15]: PP v Yan Jun \[2018\] SGMC 19
+[^15]: PP v Yan Jun <span class="citation">\[2018\] SGMC 19</span>
 
 [^16]: For the avoidance of doubt, there was no evidence to suggest that the accused was of unsound mind during the course of the trial or at the material time of the current offences.
 

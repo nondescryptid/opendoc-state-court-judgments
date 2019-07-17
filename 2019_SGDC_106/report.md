@@ -97,7 +97,7 @@ You, on 20 May 2018, between 2.26am to 3.00am at St James Power Station Club Hol
 
 ## PROSECUTION’S SUBMISSIONS
 
-20     The prosecution’s submission adopted the two-stage analysis set out in _PP v Mohammad Al-Ansari bin Basri_ \[2008\] 1 SLR(R) 449 (“Al-Ansari”). While the prosecution recognised the importance of rehabilitation for an accused person under the age of 21, the DPP submitted that specific deterrence was nevertheless a key sentencing consideration and highlighted the following:
+20     The prosecution’s submission adopted the two-stage analysis set out in _PP v Mohammad Al-Ansari bin Basri_ <span class="citation">\[2008\] 1 SLR(R) 449</span> (“Al-Ansari”). While the prosecution recognised the importance of rehabilitation for an accused person under the age of 21, the DPP submitted that specific deterrence was nevertheless a key sentencing consideration and highlighted the following:
 
 20.1     The accused and the other club employees were tasked to ensure the safety and security of the club’s patrons
 
@@ -173,7 +173,7 @@ You, on 20 May 2018, between 2.26am to 3.00am at St James Power Station Club Hol
 
 ### Part II: Approach Adopted
 
-29     Taking into account the guidance of the High Court in _PP v Mohammad Al-Ansari bin Basri_ \[2008\] 1 SLR(R) 449 (“Al-Ansari”), I adopted the following steps:
+29     Taking into account the guidance of the High Court in _PP v Mohammad Al-Ansari bin Basri_ <span class="citation">\[2008\] 1 SLR(R) 449</span> (“Al-Ansari”), I adopted the following steps:
 
 29.1     I noted that for offenders below the age of 21, rehabilitation was often a dominant sentencing consideration. Therefore, it was important to form an assessment of the prospects for the accused’s rehabilitation based on the probation pre-sentence report, the Reformative Training pre-sentence report, as well as the evidence presented to the Court by the prosecution and defence.
 
@@ -191,11 +191,11 @@ You, on 20 May 2018, between 2.26am to 3.00am at St James Power Station Club Hol
 
 ### Seriousness of the offence
 
-33     The second stage in the process set out in _Al-Ansari_ requires the Court to consider the seriousness of the offence. In order to assess offence seriousness, the Court had to look at the harm or potential harm caused as well as the culpability of the accused. In _PP v Koh Wen Jie Boaz_ \[2016\] 1 SLR 334, Chief Justice Sundaresh Menon endorsed the two-stage process set out in _Al-Ansari_ and further noted at \[30\]:
+33     The second stage in the process set out in _Al-Ansari_ requires the Court to consider the seriousness of the offence. In order to assess offence seriousness, the Court had to look at the harm or potential harm caused as well as the culpability of the accused. In _PP v Koh Wen Jie Boaz_ <span class="citation">\[2016\] 1 SLR 334</span>, Chief Justice Sundaresh Menon endorsed the two-stage process set out in _Al-Ansari_ and further noted at \[30\]:
 
 But rehabilitation is neither singular nor unyielding. The focus on rehabilitation can be diminished or even eclipsed by such considerations as deterrence or retribution where the circumstances warrant. Broadly speaking, this happens in cases where (a) the offence is serious, (b) the harm caused is severe, (c) the offender is hardened and recalcitrant, or (d) the conditions do not exist to make rehabilitative sentencing options such as probation or reformative training viable.
 
-34     In _Muhammad Zuhairie Adely bin Zulkifli v Public Prosecutor_ \[2016\] 4 SLR 697 at \[26\] Justice Chan Seng Onn referred to the above passage and noted that it was not necessary for all four factors \[i.e. those listed in (a) to (d)\] to be present before a court can find that rehabilitation has been displaced as the primary sentencing consideration.
+34     In _Muhammad Zuhairie Adely bin Zulkifli v Public Prosecutor_ <span class="citation">\[2016\] 4 SLR 697</span> at \[26\] Justice Chan Seng Onn referred to the above passage and noted that it was not necessary for all four factors \[i.e. those listed in (a) to (d)\] to be present before a court can find that rehabilitation has been displaced as the primary sentencing consideration.
 
 ##### HARM / POTENTIAL HARM
 

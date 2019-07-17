@@ -285,7 +285,7 @@ c.    One (01) improvised glass bottle attached with rubber tube (later mark
 
 (e)     2 months’ imprisonment for DAC 907167/2018
 
-55     In support of the submission, the defence referred to various sentencing precedents, in particular the case of _Loo Pei Xiang Alan v PP \[2015\] 5 SLR 500_.
+55     In support of the submission, the defence referred to various sentencing precedents, in particular the case of _Loo Pei Xiang Alan v PP <span class="citation">\[2015\] 5 SLR 500</span>_.
 
 56     Counsel submitted for the sentences in DAC 941355/2017 and DAC 907167/2018 to run consecutively and the rest to run concurrently. The total sentence would be an imprisonment term of 5 years and 2 months. Counsel also submitted for the sentence to be backdated to 18 Nov 2017.
 
@@ -295,7 +295,7 @@ c.    One (01) improvised glass bottle attached with rubber tube (later mark
 
 ## The Sentences
 
-59     It is well known that the social object of the Misuse of Drugs Act is to eradicate the trafficking, possession and consumption of illicit drugs. The dangers that illicit drugs pose to society were acknowledged by the High Court in _Dinesh Singh Bhatia v PP \[2005\] 3 SLR(R) 1_. Clearly the main sentencing consideration must be one of general and specific deterrence.
+59     It is well known that the social object of the Misuse of Drugs Act is to eradicate the trafficking, possession and consumption of illicit drugs. The dangers that illicit drugs pose to society were acknowledged by the High Court in _Dinesh Singh Bhatia v PP <span class="citation">\[2005\] 3 SLR(R) 1</span>_. Clearly the main sentencing consideration must be one of general and specific deterrence.
 
 60     Having taken into account the submissions of both the parties, the circumstances and the nature of the offences committed and the punishments prescribed for the offences, I sentenced the Accused as follows:
 

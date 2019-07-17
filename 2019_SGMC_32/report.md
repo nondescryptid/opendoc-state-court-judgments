@@ -145,7 +145,7 @@ MAINTENANCE OF WIFE, INCAPACITATED HUSBAND AND CHILDREN
 
 [^26]: See \[9\] above.
 
-[^27]: _TDT v TDS and another appeal and another matter_ \[2016\] 4 SLR 145 at \[102\]-\[117\].
+[^27]: _TDT v TDS and another appeal and another matter_ <span class="citation">\[2016\] 4 SLR 145</span> at \[102\]-\[117\].
 
 [^28]: See \[9\] above.
 

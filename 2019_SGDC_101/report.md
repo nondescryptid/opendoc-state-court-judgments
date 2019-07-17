@@ -403,11 +403,11 @@ AThe first time I was not with him.
 
 In the context of this case, section 2 of the MDA, which defines the act of trafficking to encompass **_delivery_**, would apply.
 
-56     Salient areas of this aspect of trafficking under s 5(1)(_a_) read with s 5(2) of the MDA have been reiterated in the recent decision of the High Court in **_Public Prosecutor v Ranjit Singh Gill Menjeet Singh and another_** **\[2016\] SGHC 217** at \[34\] which elucidated on principles set by the Court of Appeal in **_Muhammad Ridzuan Bin Md Ali v PP and other matters_** **\[2014\] SGCA 32**
+56     Salient areas of this aspect of trafficking under s 5(1)(_a_) read with s 5(2) of the MDA have been reiterated in the recent decision of the High Court in **_Public Prosecutor v Ranjit Singh Gill Menjeet Singh and another_** **<span class="citation">\[2016\] SGHC 217</span>** at \[34\] which elucidated on principles set by the Court of Appeal in **_Muhammad Ridzuan Bin Md Ali v PP and other matters_** **<span class="citation">\[2014\] SGCA 32</span>**
 
 In **_Ranjit Singh_**, Hoo Sheau Peng J states
 
-34    In respect of a charge of trafficking under s 5(1) read with s 5(2) of the MDA (as faced by Farid), the elements to be established are (a) **_possession of the drugs_**; (b) **_knowledge of the nature of the drugs_**; and (c) **_proof that possession of the drugs was for the purpose of trafficking_** which was not authorised: _Muhammad Ridzuan bin Md Ali v PP_ \[2014\] 3 SLR 721 (“_Muhammad Ridzuan_”) at \[59\]. \[_Emphasis added_\]
+34    In respect of a charge of trafficking under s 5(1) read with s 5(2) of the MDA (as faced by Farid), the elements to be established are (a) **_possession of the drugs_**; (b) **_knowledge of the nature of the drugs_**; and (c) **_proof that possession of the drugs was for the purpose of trafficking_** which was not authorised: _Muhammad Ridzuan bin Md Ali v PP_ <span class="citation">\[2014\] 3 SLR 721</span> (“_Muhammad Ridzuan_”) at \[59\]. \[_Emphasis added_\]
 
 57     In this case Mr Shahidin had been jointly charged with Mr Zulkifli for trafficking in furtherance of a common intention, as provided under s 34 of the Penal Code (Cap 224, 2008 Rev Ed) (**PC**) which implicates any criminal act done by several persons, in furtherance of a common intention of all, with criminal liable for that act in the same manner as if the act had been done by him alone.
 
@@ -421,7 +421,7 @@ In **_Ranjit Singh_**, Hoo Sheau Peng J states
 
 60     The elements of common intention were referenced in the **_Ridzuan_** where the Court of Appeal stated at \[34\]:
 
-34    The applicable law in so far as s 34 PC is concerned has been set out in the decision of (_Daniel Vijay s/o Katherasan_ v PP \[2010\] 4 SLR 1119). **_Three elements_** must be present before constructive liability can be imposed pursuant to s 34 PC, namely: (a) **_the criminal act element_** (“a criminal act”); (b) **_the common intention element_** (“in furtherance of the common intention of all”) and (c) **_the participation element_** (“a criminal act … done by several persons”)…
+34    The applicable law in so far as s 34 PC is concerned has been set out in the decision of (_Daniel Vijay s/o Katherasan_ v PP <span class="citation">\[2010\] 4 SLR 1119</span>). **_Three elements_** must be present before constructive liability can be imposed pursuant to s 34 PC, namely: (a) **_the criminal act element_** (“a criminal act”); (b) **_the common intention element_** (“in furtherance of the common intention of all”) and (c) **_the participation element_** (“a criminal act … done by several persons”)…
 
 61     The concept of constructive responsibility is expounded on by the Court of Appeal in **_Ridzuan_** as follows:
 
@@ -441,7 +441,7 @@ In **_Ranjit Singh_**, Hoo Sheau Peng J states
 
 68     In relation to the third element of participation, **_Ridzuan’s_** case elaborates at \[36\]:
 
-36    Turning to (the participation element), it was emphasised by this court in L_ee Chez Kee v PP_ \[2008\] 3 SLR(R) 447 (“_Lee Chez Kee_”) that participation, not presence, is the key ingredient in imposing liability under s 34 PC and that this is a question of fact to be decided in each case (see _Lee Chez Kee_ at \[146\]). **_The secondary offender satisfies this requirement of participation if he participates in the specific criminal act committed by the actual doer which gives rise to the offence charged or if he participates in some other criminal act that is done in furtherance of the common intention of all the offenders_**, _ie_, he participated in any of the diverse acts which altogether formed the unity of criminal behaviour resulting in the offence charged and that offence was commonly intended by all the offenders…
+36    Turning to (the participation element), it was emphasised by this court in L_ee Chez Kee v PP_ <span class="citation">\[2008\] 3 SLR(R) 447</span> (“_Lee Chez Kee_”) that participation, not presence, is the key ingredient in imposing liability under s 34 PC and that this is a question of fact to be decided in each case (see _Lee Chez Kee_ at \[146\]). **_The secondary offender satisfies this requirement of participation if he participates in the specific criminal act committed by the actual doer which gives rise to the offence charged or if he participates in some other criminal act that is done in furtherance of the common intention of all the offenders_**, _ie_, he participated in any of the diverse acts which altogether formed the unity of criminal behaviour resulting in the offence charged and that offence was commonly intended by all the offenders…
 
 69     I am satisfied that the element of Mr Shahidin’s **_participation_** in the transaction with Mr Fadli is 2 August 2016 is amply fulfilled from the evidence. Mr Shahidin had received the order and directly quoted the selling price[^74], and liaised with Mr Fadli in respect of the collection time and place. From his account, Mr Zulkifli had taken steps to ‘process’ the order by taking the methamphetamine from his source, and then use the materials from Mr Shahidin’s apartment for the multiple layers of wrapping.
 
@@ -465,9 +465,9 @@ In **_Ranjit Singh_**, Hoo Sheau Peng J states
 
 ### Considering ‘Consent’
 
-77     The other condition of **_consent_** requires a more considered delving into the principles elucidated by case law as well, and applied to the factual matrix of this case. In **_Ridzuan_**, the Court of Appeal had at \[64\] cited a formulation by then Judicial Commissioner Kan Ting Chiu in the case of **_Public Prosecutor v Lim Ah Poh_** **\[1991\] 2 SLR(R) 307**, where Kan JC in using foreign authorities to assist in determining what constituted consent, had concluded (at \[71\]) that **_‘\[a\]cquiescence or condonation is not enough. There must be some dealing between the parties in relation to the drug, such as an agreement to buy it or help in concealing it’_****.**
+77     The other condition of **_consent_** requires a more considered delving into the principles elucidated by case law as well, and applied to the factual matrix of this case. In **_Ridzuan_**, the Court of Appeal had at \[64\] cited a formulation by then Judicial Commissioner Kan Ting Chiu in the case of **_Public Prosecutor v Lim Ah Poh_** **<span class="citation">\[1991\] 2 SLR(R) 307</span>**, where Kan JC in using foreign authorities to assist in determining what constituted consent, had concluded (at \[71\]) that **_‘\[a\]cquiescence or condonation is not enough. There must be some dealing between the parties in relation to the drug, such as an agreement to buy it or help in concealing it’_****.**
 
-78     The Court of Appeal in **_Ridzuan_** had also referenced the use of Kan JC’s formulation by the Court of Appeal in the case of in **_Hartej Sidhu v Public Prosecutor_** \[1994\] SGCA 79. **_Hatej_** has striking parallels to this case, as can be seen from the facts set out below.
+78     The Court of Appeal in **_Ridzuan_** had also referenced the use of Kan JC’s formulation by the Court of Appeal in the case of in **_Hartej Sidhu v Public Prosecutor_** <span class="citation">\[1994\] SGCA 79</span>. **_Hatej_** has striking parallels to this case, as can be seen from the facts set out below.
 
 79     The two accused persons, Mr Hartej and Mr Sarjit agreed to transact drugs with a certain Michael, who was actually an undercover CNB officer. After some discussions, which were predominantly conducted by Mr Sarjit, Michael placed an order for drugs to be supplied. Although Michael had arranged to deal with both accused persons. It was Mr Hartej who ultimately brought the bag of drugs to Michael by himself, and was arrested. Some ten minutes later, Mr Sarjit was also arrested while walking towards the coffee shop rendezvous. Mr Sarjit mounted a defence that the narcotics were not in his possession as they had not been found on him.
 
@@ -621,7 +621,7 @@ In **_Ranjit Singh_**, Hoo Sheau Peng J states
 
 [^62]: It should be noted that Mr Fadli’s testimony that he **did not have: ** Mr Zulkifli’s phone number at the time, and had merely **collected: ** drugs he had ordered from Fadli once from a ‘dark person’ whom he did not know: Notes of Evidence Day 4 Pages 56-57.
 
-[^63]: Prosecution’s Submissions, Exhibit A at \[29\]-\[30\], which referenced the criteria for evaluating witness credibility enunciated in _Farida Begum d/o Mohd Artham v Public Prosecutor_ \[2001\] SGHC 333.
+[^63]: Prosecution’s Submissions, Exhibit A at \[29\]-\[30\], which referenced the criteria for evaluating witness credibility enunciated in _Farida Begum d/o Mohd Artham v Public Prosecutor_ <span class="citation">\[2001\] SGHC 333</span>.
 
 [^64]: Per Exhibit P9: Q2: What is the purpose of (Mr Fadli) coming to Hougang Avenue 10 Blk 402?A2: Amad came down to **see me: **.
 

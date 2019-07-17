@@ -126,7 +126,7 @@ _First Information Report_
 
 12     In sentencing, I took into account the factors raised in the plea-in-mitigation and the fact that the accused had no antecedents. I accepted that the offences were committed on the spur of the moment and that the accused was remorseful and had pleaded guilty at an early opportunity. I was also sympathetic towards her mental health issues and her pregnancy. Nonetheless, the custodial threshold had been crossed due to the serious nature of her offences as well as the number of offences she had committed.
 
-13     For the 1st charge, the victim of the accused’s attack was a public transport worker and it was appropriate to pass a deterrent sentence. In _Wong Hoi Len v Public Prosecutor_ \[2008\] SGHC 146 (_“Wong Hoi Len”_), in setting out a starting benchmark of 4 weeks’ imprisonment[^8] for cases of simple assaults against public service workers, VK Rajah stated at \[18\]:-
+13     For the 1st charge, the victim of the accused’s attack was a public transport worker and it was appropriate to pass a deterrent sentence. In _Wong Hoi Len v Public Prosecutor_ <span class="citation">\[2008\] SGHC 146</span> (_“Wong Hoi Len”_), in setting out a starting benchmark of 4 weeks’ imprisonment[^8] for cases of simple assaults against public service workers, VK Rajah stated at \[18\]:-
 
 \[T\]he courts must send a clear message that all acts of criminal violence against public transport workers will not be tolerated. These workers provide the larger community with an invaluable and essential service, and they have every right to work in a safe and secure environment.
 

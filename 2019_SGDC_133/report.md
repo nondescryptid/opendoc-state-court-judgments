@@ -146,7 +146,7 @@ In the light of the above material inconsistencies in Mr Tan’s evidence, his d
 
 ## Prosecution’s submissions on sentence
 
-21     This is Mr Tan’s first conviction for a LT-2 offence which carries a mandatory minimum sentence of 7 years’ imprisonment and 6 strokes of the cane. The Prosecution submitted for an uplift of 6 months above the mandatory minimum sentence and in support of its position, cited the High Court decision of _Nandakishor s/o Raj Pat Ahir v PP \[2014\] SGHC 121_. In that case, the appellant had claimed trial. Justice Tay Yong Kwang (as he then was), having regard to the appellant’s drug-related antecedents and in the absence of mitigating factors, held that the District Court’s decision to sentence the accused to an additional 6 months’ imprisonment above the mandatory minimum sentence could hardly be said to be manifestly excessive.
+21     This is Mr Tan’s first conviction for a LT-2 offence which carries a mandatory minimum sentence of 7 years’ imprisonment and 6 strokes of the cane. The Prosecution submitted for an uplift of 6 months above the mandatory minimum sentence and in support of its position, cited the High Court decision of _Nandakishor s/o Raj Pat Ahir v PP <span class="citation">\[2014\] SGHC 121</span>_. In that case, the appellant had claimed trial. Justice Tay Yong Kwang (as he then was), having regard to the appellant’s drug-related antecedents and in the absence of mitigating factors, held that the District Court’s decision to sentence the accused to an additional 6 months’ imprisonment above the mandatory minimum sentence could hardly be said to be manifestly excessive.
 
 ## Mitigation
 

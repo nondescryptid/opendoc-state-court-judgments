@@ -274,7 +274,7 @@ v)    One burnt joint marked as **‘HAY-4’**
 
 14     The accused’s culpability was not low. When he was approached by the victim and other police officers, he resisted arrest and struggled violently. The harm caused was fairly serious. A fracture had been caused to the victim’s fifth toe and the victim was given one month’s medical leave.
 
-15     In _Public Prosecutor v GCA_ \[2019\] SGDC 28 (“_GCA_”), the offender was sentenced to 30 months’ imprisonment for an offence under s 333 of the Penal Code. This is the only available sentencing precedent. The offender had kicked the right hand of a public servant, causing a soft tissue injury of the right thumb and a contusion of the hand. The victim was given medical leave of 21 days, during which time he was unable to follow his ordinary pursuits. While the appeal in _GCA_ has not been heard, this case illustrates that stiff deterrent sentences will be imposed when grievous hurt is caused to public servants.
+15     In _Public Prosecutor v GCA_ <span class="citation">\[2019\] SGDC 28</span> (“_GCA_”), the offender was sentenced to 30 months’ imprisonment for an offence under s 333 of the Penal Code. This is the only available sentencing precedent. The offender had kicked the right hand of a public servant, causing a soft tissue injury of the right thumb and a contusion of the hand. The victim was given medical leave of 21 days, during which time he was unable to follow his ordinary pursuits. While the appeal in _GCA_ has not been heard, this case illustrates that stiff deterrent sentences will be imposed when grievous hurt is caused to public servants.
 
 16     The injury caused in the present case was even more severe than in _GCA_ as the victim suffered a fracture and was given a longer period of medical leave. The prosecution’s submission that a sentence of 18 months’ imprisonment should be imposed was reasonable, since this was substantially shorter than the sentence of 30 months’ imprisonment meted out in _GCA_.
 
@@ -302,7 +302,7 @@ v)    One burnt joint marked as **‘HAY-4’**
 
 * * *
 
-[^1]: _Public Prosecutor v Raveen Balakrishnan_ \[2018\] SGHC 148 _(“Raveen”_) at \[37\].
+[^1]: _Public Prosecutor v Raveen Balakrishnan_ <span class="citation">\[2018\] SGHC 148</span> _(“Raveen”_) at \[37\].
 
 [^2]: _Raveen_ at \[41\].
 

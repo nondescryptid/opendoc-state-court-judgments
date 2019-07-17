@@ -234,7 +234,7 @@ Explanation —A person is said to gain wrongfully when such person retains wron
 
 61     In submitting for a sentence of at least 3 months’ imprisonment per charge with 2 sentences to run consecutively, the prosecution pointed out that the accused was unremorseful and had mounted a spurious defence. It was an aggravating factor that he had used the internet to attract buyers and commit multiple offences.
 
-62     The use of the internet to cheat members of the public has been recognized to be an aggravating factor. In _Public Prosecutor v Syamsul Hilal bin Ismail_ \[2012\] 1 SLR 973 (_“Syamsul”_), Chao Hick Tin, JA stated at \[36\]:-
+62     The use of the internet to cheat members of the public has been recognized to be an aggravating factor. In _Public Prosecutor v Syamsul Hilal bin Ismail_ <span class="citation">\[2012\] 1 SLR 973</span> (_“Syamsul”_), Chao Hick Tin, JA stated at \[36\]:-
 
 In relation to the Prosecution’s submission, I accept that the use of the Internet is a relevant sentencing consideration in that there is a strong public interest to deter potential offenders from using that medium to reach a larger number of potential victims.
 

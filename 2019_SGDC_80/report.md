@@ -353,7 +353,7 @@ _At the end of the day, it must be borne in mind that the main sentencing consid
 
 [^8]: NE Day 8, 18 Nov 2016, Pages 72-73
 
-[^9]: \[1998\] 2 SLR(R) 119
+[^9]: <span class="citation">\[1998\] 2 SLR(R) 119</span>
 
 [^10]: Exhibit P8
 
@@ -383,13 +383,13 @@ _At the end of the day, it must be borne in mind that the main sentencing consid
 
 [^23]: Exhibit D17
 
-[^24]: \[2011\] 4 SLR 217
+[^24]: <span class="citation">\[2011\] 4 SLR 217</span>
 
-[^25]: \[2007\] 2 SLR(R) 814
+[^25]: <span class="citation">\[2007\] 2 SLR(R) 814</span>
 
-[^26]: \[2001\] 2 SLR(R) 515
+[^26]: <span class="citation">\[2001\] 2 SLR(R) 515</span>
 
-[^27]: \[2009\] SGHC 3
+[^27]: <span class="citation">\[2009\] SGHC 3</span>
 
 [^28]: Magistrate’s Appeal No 139/2007/01
 

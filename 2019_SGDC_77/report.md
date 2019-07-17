@@ -33,7 +33,7 @@ Civil Procedure – Summary judgment
 
 ## Analysis
 
-6       Whether or not the Defendant would succeed in resisting the application for summary judgment on the countermanded cheques depended on whether there was conditional delivery of the cheques. In this regard, I was guided by the approach of District Judge Tan Puay Boon (as he then was) in _Lo Hing Yong v Reign Geoponics Pte Ltd \[2016\] SGDC 242_ (Lo Ying Hong) which also concerned summary judgment proceedings based on 2 dishonoured cheques. Specifically, on the issue of whether there was conditional delivery in that case, it was noted at \[38-39\] that:
+6       Whether or not the Defendant would succeed in resisting the application for summary judgment on the countermanded cheques depended on whether there was conditional delivery of the cheques. In this regard, I was guided by the approach of District Judge Tan Puay Boon (as he then was) in _Lo Hing Yong v Reign Geoponics Pte Ltd <span class="citation">\[2016\] SGDC 242</span>_ (Lo Ying Hong) which also concerned summary judgment proceedings based on 2 dishonoured cheques. Specifically, on the issue of whether there was conditional delivery in that case, it was noted at \[38-39\] that:
 
 _“38_      _In Marina Sports Ltd \[note: 11\] where the same defence was raised, the High Court stated that –_
 

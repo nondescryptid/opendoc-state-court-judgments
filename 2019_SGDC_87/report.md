@@ -250,25 +250,25 @@ f.     Exposing the Plaintiff to liabilities[^11]
 
 60     Having found that there is no agreement between the Plaintiff and the 1st Defendant for the 1st Defendant to continue to operate her own sub-contractor business at the same time as she was employed by the Plaintiff, I will now move on to the issue of whether the 1st Defendant owes any duty as an employee and if so, what these duties are. In addition, it is also necessary to examine the issue of whether the 1st Defendant is also a fiduciary and owes fiduciary duties towards the Plaintiff.
 
-61     The Plaintiff submits that as an employee of the Plaintiff, the 1st Defendant owes various duties including an implied duty of fidelity and good faith, to the Plaintiff during the term of her employment. The Plaintiff cited the Court of Appeal case of _Man Financial (S) Pte Ltd (formerly known as E D & F Main International (S) Pte Ltd) v. Wong Bark Chuan David_ \[2007\] SGCA 53[^76] which held at \[193\] that:-
+61     The Plaintiff submits that as an employee of the Plaintiff, the 1st Defendant owes various duties including an implied duty of fidelity and good faith, to the Plaintiff during the term of her employment. The Plaintiff cited the Court of Appeal case of _Man Financial (S) Pte Ltd (formerly known as E D & F Main International (S) Pte Ltd) v. Wong Bark Chuan David_ <span class="citation">\[2007\] SGCA 53</span>[^76] which held at \[193\] that:-
 
 “It is _trite law_ that there is an _implied term in the employer’s favour that the employee will serve the employer with good faith and fidelity_, and that he or she (the employee) will also use reasonable care and skill in the performance of his or her duties pursuant to the employment contract…”
 
 (Emphasis added)
 
-62     This duty of fidelity of an employee is further described in _Asiawerks Global Investment Group Pte Ltd v. Ismail bin Syed Ahmad and another_ \[2003\] SGHC 269[^77] (“Asiawerks”) at \[61\] as:
+62     This duty of fidelity of an employee is further described in _Asiawerks Global Investment Group Pte Ltd v. Ismail bin Syed Ahmad and another_ <span class="citation">\[2003\] SGHC 269</span>[^77] (“Asiawerks”) at \[61\] as:
 
 “There can be no denying that _all employees are expected to serve their employers diligently, honestly and loyally_. What this duty translates into factually depends on the circumstances such as the nature of the work. _Employees should not be engaged in other business or employment during their working hours without the approval of their employers. They should certainly not be diverting business opportunities that they got wind of only because of their employment status and during the subsistence of the employment_, whether or not such information amounted to confidential information within the meaning of the law.”
 
 (Emphasis added)
 
-63     In _Smile Inc Dental Surgeons Pte Ltd v. Lui Andrew Stewart_ \[2012\] SGCA 39[^78], the Court of Appeal held at \[67\] that an employee would be in breach of his implied duty of good faith and fidelity if he engaged in actual competitive activity with his employer during the term of his employment:-
+63     In _Smile Inc Dental Surgeons Pte Ltd v. Lui Andrew Stewart_ <span class="citation">\[2012\] SGCA 39</span>[^78], the Court of Appeal held at \[67\] that an employee would be in breach of his implied duty of good faith and fidelity if he engaged in actual competitive activity with his employer during the term of his employment:-
 
 “The case law also clearly demonstrates that whether or not steps taken by an employee can be considered as preparatory to future competition (which is permissible), or instead constitute actual competitive activity (which is not permissible), turns on the facts of each particular case. … What is of _signal importance_ is _whether or not_, on the _facts of this particular appeal_, the Respondent had merely taken _preparatory steps_. If mere preparatory steps had been taken, there would have been _no_ breach of the Respondent’s implied duty of good faith and fidelity; on the contrary, if more than mere preparatory steps had been taken, then there _would_ have been a breach of this duty.”
 
-64     The Plaintiff also argues that in addition to being an employee, the 1st Defendant was also a fiduciary given the scope of her duties and authority as the Plaintiff’s site manager. The Plaintiff cited the case of _Clearlab SG Pte Ltd v. Ting Chong Chai and others_ \[2014\] SGHC 221[^79] in support of this argument. The High Court at \[275\] held that:-
+64     The Plaintiff also argues that in addition to being an employee, the 1st Defendant was also a fiduciary given the scope of her duties and authority as the Plaintiff’s site manager. The Plaintiff cited the case of _Clearlab SG Pte Ltd v. Ting Chong Chai and others_ <span class="citation">\[2014\] SGHC 221</span>[^79] in support of this argument. The High Court at \[275\] held that:-
 
-“A rough and ready guide to whether or not the imposition of a fiduciary obligation would be appropriate are the three characteristics identified by Wilson J (dissenting) in _Richard Hugh Frame v Eleanor Margaret Smith_ \[1987\] 2 SCR 99 at \[60\] which were cited with approval by the Court of Appeal in _Susilawati v American Express Bank Ltd_ \[2009\] 2 SLR(R) 737 at \[41\]:
+“A rough and ready guide to whether or not the imposition of a fiduciary obligation would be appropriate are the three characteristics identified by Wilson J (dissenting) in _Richard Hugh Frame v Eleanor Margaret Smith_ \[1987\] 2 SCR 99 at \[60\] which were cited with approval by the Court of Appeal in _Susilawati v American Express Bank Ltd_ <span class="citation">\[2009\] 2 SLR(R) 737</span> at \[41\]:
 
 (1)    The fiduciary has scope for the exercise of some discretion or power.
 
@@ -845,7 +845,7 @@ i.     It is not disputed that the 1st Defendant was an employee of the Pla
 
 [^143]: 4 ABD 1460-1462. 6 ABD 2004, 2005, 2006, 2007, 2008, 2009, 2012, 2016, 2020, 2029, 2057, 2062, 2071
 
-[^144]: See the case of _Smile Inc Dental Surgeons Pte Ltd v. Lui Andrew Stewart_ \[2012\] SGCA 39 at \[67\]
+[^144]: See the case of _Smile Inc Dental Surgeons Pte Ltd v. Lui Andrew Stewart_ <span class="citation">\[2012\] SGCA 39</span> at \[67\]
 
 [^145]: 2 BA 628 para 99-103.
 

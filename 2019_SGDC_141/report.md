@@ -197,7 +197,7 @@ iv.     Finally, he made the preposterous allegation in cross-examination t
 
 56     The Prosecution submitted for a custodial sentence of between 15 to 18 months to be imposed on the Accused. In support of its submissions, the Prosecution tendered a table of sentencing precedents for the offence under section 408 of the Penal Code (“the Precedents”).
 
-57     In particular, the Prosecution relied on the case of _Kavitha d/o Mailvaganam_ \[2017\] 4 SLR 1349[^71] to support its submissions. The brief facts of the case are follows:
+57     In particular, the Prosecution relied on the case of _Kavitha d/o Mailvaganam_ <span class="citation">\[2017\] 4 SLR 1349</span>[^71] to support its submissions. The brief facts of the case are follows:
 
 <table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="67.46%"> <col width="32.54%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Case &amp; Brief Facts</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Sentence</b></p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">The offender was employed as a customer service officer by the company. It was her duty to collect payments from the company’s customers. Over a period of five months, she dishonestly misappropriated <b><u>$30,423.96</u></b>.</p><p align="justify" class="Table-Para-1">She <b>pleaded guilty</b> to a charge under s.408 and made partial restitution of $2000.</p><p align="justify" class="Table-Para-1">The High Court accepted that she committed the offence not out of greed or for personal financial gain, but to pay off illegal moneylenders who were harassing her. She also feared for the safety of her child. She had dated theft antecedents but this was not given significant weight by the High Court .</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">On appeal, the offender’s sentence was reduced from 9 months’ imprisonment to</p><p align="justify" class="Table-Para-1"><b>7 months’ imprisonment</b>.</p><p align="justify" class="Table-Para-1">The High Court observed that <b>the usual sentence</b> for an accused in the offender’s position was <b>10 months’ imprisonment</b>. A lower sentence was warranted due to the offender’s motivation for the offence.</p></td></tr></tbody></table>
 
@@ -391,7 +391,7 @@ _“(i)n an offence like criminal breach of trust, it was a matter of common sen
 
 [^76]: S/n.3 in the second table in the Precedents (for unreported cases)
 
-[^77]: \[1990\] 2 SLR(R) 361 at \[18\]
+[^77]: <span class="citation">\[1990\] 2 SLR(R) 361</span> at \[18\]
 
 [^78]: $29,119.04.
 

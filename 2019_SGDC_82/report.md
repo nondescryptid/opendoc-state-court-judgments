@@ -81,7 +81,7 @@ c.     it may prejudice, embarrass or delay the fair trial of the action; o
 
 d.     it is otherwise an abuse of the process of the court.
 
-17     Specifically, it has been held that it is an abuse of process of the court and also vexatious to bring duplicate actions based on the same cause of action. See **_Terrestrial Pte Ltd v Allgo Marine Pte Ltd_** \[2013\] 3 SLR 527, (“**_Terrestrial_**”) at \[13\], \[14\], \[15\], \[16\] & \[21\]. This applies to counterclaims as well, as a counterclaim effectively operates as a separate action under Order 15 rule 2, for which a defendant is put in the position of a plaintiff (_Terrestrial_ at \[15\]).
+17     Specifically, it has been held that it is an abuse of process of the court and also vexatious to bring duplicate actions based on the same cause of action. See **_Terrestrial Pte Ltd v Allgo Marine Pte Ltd_** <span class="citation">\[2013\] 3 SLR 527</span>, (“**_Terrestrial_**”) at \[13\], \[14\], \[15\], \[16\] & \[21\]. This applies to counterclaims as well, as a counterclaim effectively operates as a separate action under Order 15 rule 2, for which a defendant is put in the position of a plaintiff (_Terrestrial_ at \[15\]).
 
 18     In _Terrestrial_, where the respondent filed a Statement of Claim in its action against the appellant which was identical to its counterclaim in the appellant’s action, the High Court struck out the respondent’s Statement of Claim as being frivolous or vexatious and an abuse of the process of the court. It was held that the duplicate claim would result in increased costs to the appellant (at \[21\]). It is plain that in law, a duplicated counterclaim would be struck out.
 
@@ -91,7 +91,7 @@ d.     it is otherwise an abuse of the process of the court.
 
 21     I am unable to agree with the Defendant’s position. There is a distinction in civil proceedings between what procedural step is permissible in law and what is permissible as a matter of strategy. If a step taken by a party is not allowable in law, that it is taken as a matter of litigation strategy does not render it allowable. If a party in a case takes measures that are permissible in law but which incur unnecessary costs, purely as a matter of strategy, the opposing party that takes counter measures is not exempt from adherence to procedural law. That the opposing party is answering an unreasonable step taken by the first party does not legitimise any procedural step taken by the opposing party that is not allowed in law. Any unreasonable step taken by the first party is a matter for case management. The court has tools in its case management tool box to manage any costs wasting steps taken by parties.[^20] It is not for the opposing party to flout procedural law to answer any unreasonable step taken. That the Defendant was merely countering procedural tactics of the Plaintiff in this case is not an answer to the question of whether the duplicate counterclaim should be struck out. By the same token, the Defendant’s complaint that the Plaintiff had chosen, as a matter of tactics, to apply to strike out the counterclaim in the DC Suit and not the MC Suit does not assist the Defendant.
 
-22     The Defendant also refers to the case of **_PT Muliakeramik Indahraya TBK v Nam Huat Tiling & Panelling Co Pte Ltd_** \[2006\] SGHC 154 **_(“PT Muliakeramik”)_** where the High Court noted at \[16\]:
+22     The Defendant also refers to the case of **_PT Muliakeramik Indahraya TBK v Nam Huat Tiling & Panelling Co Pte Ltd_** <span class="citation">\[2006\] SGHC 154</span> **_(“PT Muliakeramik”)_** where the High Court noted at \[16\]:
 
 _“While it is possible to analogise a defendant who is counterclaiming to a plaintiff, it may be_ _quite a different matter to try and equate the two. A defendant is not the instigator of the litigation; he is instead the party brought into the proceedings and who has to defend himself against attack. The fact that he subsequently decides to take an extra step to pursue a counterclaim does not necessarily equate to a plaintiff who has decided to take the first step to initiate legal proceedings_ _.”_
 
@@ -101,13 +101,13 @@ _“While it is possible to analogise a defendant who is counterclaiming to a pl
 
 ### Bona fide triable issue
 
-24     I turn to the next order made by the DR, which was to grant summary judgment in the sum of $230,329.41. The law in respect of summary judgment is uncontroverted. The Plaintiff referred to the case of **_Capital Springboard Ltd and 45 others v Vangard Project Management Pte Ltd and another_** \[2018\] SGHC 29 (“**_Capital Springboard_**”), which set out the established approach to summary judgment applications:
+24     I turn to the next order made by the DR, which was to grant summary judgment in the sum of $230,329.41. The law in respect of summary judgment is uncontroverted. The Plaintiff referred to the case of **_Capital Springboard Ltd and 45 others v Vangard Project Management Pte Ltd and another_** <span class="citation">\[2018\] SGHC 29</span> (“**_Capital Springboard_**”), which set out the established approach to summary judgment applications:
 
 a.     A plaintiff must first show that he has a _prima facie_ case; and
 
 b.     If the plaintiff satisfies (a), then the burden shifts to the defendant to show that either: (i) there is an issue or question in dispute which ought to be tried; or (ii) that there ought for some other reason to be a trial.
 
-25     It is common for a defendant to make mere assertions in answer to a summary judgment application. The Plaintiff referred to **_M2B World Asia Pacific Pte Ltd v Matsumura Akihiko_** \[2015\] 1 SLR 325 (“**_M2B_**”) at \[19\], where it was held that where:
+25     It is common for a defendant to make mere assertions in answer to a summary judgment application. The Plaintiff referred to **_M2B World Asia Pacific Pte Ltd v Matsumura Akihiko_** <span class="citation">\[2015\] 1 SLR 325</span> (“**_M2B_**”) at \[19\], where it was held that where:
 
 “_such assertion, denial or dispute is equivocal, or lacking in precision or is inconsistent with undisputed contemporary documents or other statements by the same deponent, or is inherently improbable in itself”_, then _“the judge has a duty to reject such assertion or denial, thereby rendering the issue not triable_”.
 
@@ -119,7 +119,7 @@ b.     If the plaintiff satisfies (a), then the burden shifts to the defend
 
 28     As alluded to above, the Defendant did not plead any grounds in the defence to dispute the claim. The Defendant’s only defence to the claim is that it has a defence of set-off based on the counterclaim in this action. No other defences are pleaded. It follows that with the counterclaim struck out, the Defendant has no defence to the summary judgment application. I shall however, for completeness, consider whether the counterclaim amounted to a defence of set-off.
 
-29     In respect of the law in this regard, both parties reply on the authority of **_Kim Seng Orchid Pte Ltd v Lim Kah Hin (trading as Yik Zhuan Orchid Garden)_** \[2017\] SGHC 4 (“**_Kim Seng_**”). At \[98\], the High Court set out a practical framework for determining whether summary judgment ought to be ordered where there is a subsisting counterclaim, as follows:
+29     In respect of the law in this regard, both parties reply on the authority of **_Kim Seng Orchid Pte Ltd v Lim Kah Hin (trading as Yik Zhuan Orchid Garden)_** <span class="citation">\[2017\] SGHC 4</span> (“**_Kim Seng_**”). At \[98\], the High Court set out a practical framework for determining whether summary judgment ought to be ordered where there is a subsisting counterclaim, as follows:
 
 a.     Step 1: whether the counterclaim is plausible – the court should first consider whether the counterclaim was plausible, i.e. whether it was reasonably possible for the counterclaim to succeed at trial. If the counterclaim was not plausible, then its presence ought not to stand in the way of the plaintiff obtaining summary judgment of its whole claim, without any stay pending the determination of the counterclaim, and the court should so rule. If the court found that the counterclaim was plausible, then Step 2 followed.
 
@@ -133,7 +133,7 @@ d.     Step 4: whether there were grounds for a stay of execution in the li
 
 ### Defence of set-off
 
-31     Whilst I find that there is no plausible counterclaim, I will nevertheless for completion consider whether a defence of legal or equitable set-off is made out. A legal set-off is only applicable to claims that are capable of being liquidated or ascertained with precision (without valuation or estimation) at the time of pleading, and which are due and payable: see **_OCWS Logistics Pte Ltd v Soon Meng Construction Pte Ltd_** \[1998\] SGHC 382 **(**“**_OCWS Logistics_**_”_**_)_** at \[8\] and \[12\]. At \[12\], Chao Hick Tin J (as he then was) stated that:
+31     Whilst I find that there is no plausible counterclaim, I will nevertheless for completion consider whether a defence of legal or equitable set-off is made out. A legal set-off is only applicable to claims that are capable of being liquidated or ascertained with precision (without valuation or estimation) at the time of pleading, and which are due and payable: see **_OCWS Logistics Pte Ltd v Soon Meng Construction Pte Ltd_** <span class="citation">\[1998\] SGHC 382</span> **(**“**_OCWS Logistics_**_”_**_)_** at \[8\] and \[12\]. At \[12\], Chao Hick Tin J (as he then was) stated that:
 
 “_The fact that the defendants have in their defence put a figure to what they claimed does not mean that it has become a liquidated sum or a sum ascertainable with precision_ _at the time of pleading__…”_
 
@@ -151,7 +151,7 @@ c.     it is for the defendant to particularise the amount of his set-off o
 
 35     I agree. Whilst the parties had a running series of projects between them requiring the supply of fabricated glass products by the Plaintiff to the Defendant, each contract concerned products with different specifications and requirements. That the Plaintiff issued a consolidated Statement of Account in respect of all the invoices for the various projects does not condense them into a single transaction. The Statements of Account are plainly for purposes of billing, and finding the references to the invoices for the counterclaim and claim in the Statement of Account does not render the counterclaim so closely connected with the claim. As regards the portion of the counterclaim pertaining to the sum of $30,159.63, said to be an overcharged amount, it related only to the J Gateway project and certainly is not closely connected with the claim.
 
-36     The Defendant refers to the case of **_Abdul Salam Asanaru Pillai (trading as South Kerala Cashew Exporters) v Nomanbhoy & Sons Pte Ltd \[2007\] 2 SLR(R) 856_** (“**_Abdul Salam_**”),[^26] where it was held that there is a general right to equitable set-off in cases where there is a close relationship or connection between the dealings and the transactions which give rise to the respective claims. It is not necessary that the claim and the cross-claim must arise out of the same contract. It was held that the proper enquiry would be to ask whether there is a sufficient degree of closeness between the claim and the cross-claim, and in each case, the question turns on whether the respective claims are so closely connected that it would offend one’s sense of fairness or justice to allow one claim to be enforced without regard to the other.[^27]
+36     The Defendant refers to the case of **_Abdul Salam Asanaru Pillai (trading as South Kerala Cashew Exporters) v Nomanbhoy & Sons Pte Ltd <span class="citation">\[2007\] 2 SLR(R) 856</span>_** (“**_Abdul Salam_**”),[^26] where it was held that there is a general right to equitable set-off in cases where there is a close relationship or connection between the dealings and the transactions which give rise to the respective claims. It is not necessary that the claim and the cross-claim must arise out of the same contract. It was held that the proper enquiry would be to ask whether there is a sufficient degree of closeness between the claim and the cross-claim, and in each case, the question turns on whether the respective claims are so closely connected that it would offend one’s sense of fairness or justice to allow one claim to be enforced without regard to the other.[^27]
 
 37     In my view, _Abdul Salam_ does not assist the Defendant. As I have alluded to above, in my judgment, there lacked a sufficient degree of closeness between the claim and the counterclaim. The respective claims are not so closely connected that it would offend one’s sense of fairness or justice to allow one claim to be enforced without regard to the other. In fact, to my mind, it would be contrary to the sense of fairness to allow an equitable set-off on the basis of the counterclaim. There should rightly be judgment to the Plaintiff for its claim.
 
@@ -227,7 +227,7 @@ c.     Following from a) and b), there is no need to consider the consolida
 
 [^25]: Tan’s 6th Affidavit
 
-[^26]: Cited in **United Overseas Bank Pte Ltd v Tru-line Beauty Consultants Pte Ltd [2011] 2 SLR 590: **
+[^26]: Cited in **United Overseas Bank Pte Ltd v Tru-line Beauty Consultants Pte Ltd <span class="citation">[2011] 2 SLR 590</span>: **
 
 [^27]: \[26\] & \[28\] of **Abdul Salam: **
 

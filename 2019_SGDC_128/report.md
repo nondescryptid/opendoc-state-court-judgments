@@ -104,7 +104,7 @@ b)     DAC 931531-2018
   
   
 
-29     In its submissions, the Prosecution referred to the decision of See Kee Oon J in _Huang Ying-chun v PP_ \[2019\] 3 SLR 606 (“_Huang Ying-chun_”) where his Honour set out a sentencing framework for offences under s 44(1)(_a_) CDSA, involving the laundering of cash proceeds of offences committed in Singapore. These guidelines apply to offenders who fall into one of three categories (see \[47\] and \[48\]):
+29     In its submissions, the Prosecution referred to the decision of See Kee Oon J in _Huang Ying-chun v PP_ <span class="citation">\[2019\] 3 SLR 606</span> (“_Huang Ying-chun_”) where his Honour set out a sentencing framework for offences under s 44(1)(_a_) CDSA, involving the laundering of cash proceeds of offences committed in Singapore. These guidelines apply to offenders who fall into one of three categories (see \[47\] and \[48\]):
 
 (1)     Runners who collect cash in Singapore and dissipate the monies, for example, by remitting the monies or handing them to other persons to remove the monies from the jurisdiction;
 
@@ -232,7 +232,7 @@ b)     DAC 931531-2018
 
 53     Counsel argued that as Foong was sentenced to only 16 months’ imprisonment, there should be parity in sentencing, and that sentences of 16 months and 2 months’ imprisonment should be imposed for DAC-921252-2018 and DAC-931531-2018 respectively, with both sentences running consecutively for a global sentence of 18 months’ imprisonment.
 
-54     With respect, I did not agree with Counsel’s submissions. In this regard, the High Court in the cases of _Phua Song Hua v PP_ \[2004\] SGHC 33 (“_Phua Song Hua”_), and _Lim Bee Ngan Karen v PP_ \[2015\] SGHC 183 (“_Lim Bee Ngan Karen”_), had made it clear that the principle of parity should not apply to correct discrepancies due to a different charge faced by an accused in comparison with that of his co-accused persons.
+54     With respect, I did not agree with Counsel’s submissions. In this regard, the High Court in the cases of _Phua Song Hua v PP_ <span class="citation">\[2004\] SGHC 33</span> (“_Phua Song Hua”_), and _Lim Bee Ngan Karen v PP_ <span class="citation">\[2015\] SGHC 183</span> (“_Lim Bee Ngan Karen”_), had made it clear that the principle of parity should not apply to correct discrepancies due to a different charge faced by an accused in comparison with that of his co-accused persons.
 
 55     In _Phua Song Hua_, the appellant was convicted, after trial, on 2 charges of rioting under s 147 of the Penal Code, and he was sentenced to a total of 18 months’ imprisonment and 3 strokes of the cane. On appeal, his counsel argued for a lower sentence as the co-accused persons, who had played more major roles but who had pleaded guilty to charges of unlawful assembly under section 143 of the Penal Code, had been sentenced to much lower sentences. Yong Pung How CJ, however, dismissed the appeal. On the issue of parity, his Honour stated as follows:
 
