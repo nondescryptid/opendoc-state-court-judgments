@@ -28,223 +28,223 @@
 
 4       The Statement of Facts which the accused admitted to stated:-
 
-**FACTS PERTAINING TO 1st CHARGE (DAC-921760-2018)**
+> **FACTS PERTAINING TO 1st CHARGE (DAC-921760-2018)**
 
-**PERSONS INVOLVED**
+> **PERSONS INVOLVED**
 
-1.    Accused is Hayzal Bin Mohamad Riduan, male 28 years old, NRIC: Sxxx. At the material time, the accused was working as a food despatch rider for ‘Food Panda’.
+> 1.    Accused is Hayzal Bin Mohamad Riduan, male 28 years old, NRIC: Sxxx. At the material time, the accused was working as a food despatch rider for ‘Food Panda’.
 
-2.    The following parties resided at Chelsea Lodge located at 300 Tanjong Katong Road (“Chelsea Lodge”):
+> 2.    The following parties resided at Chelsea Lodge located at 300 Tanjong Katong Road (“Chelsea Lodge”):
 
-a.    Complainant is Ravinperzasamy.
+>> a.    Complainant is Ravinperzasamy.
 
-b.    First witness is Sucres Angelina.
+>> b.    First witness is Sucres Angelina.
 
-c.    Victim is Gary Hui Singh.
+>> c.    Victim is Gary Hui Singh.
 
-d.    Second witness is Lim Geok Hwa. He is also the father of the victim.
+>> d.    Second witness is Lim Geok Hwa. He is also the father of the victim.
 
-3.    On 27 June 2018 at 4.11am, the complainant called Police and informed ‘I saw a guy climbed over a van. I shouted at him and he saw me and wants to meet me at the front. I don’t know if he trying to break in or what. I want police to come and check’. Location is given as ‘Chelsea Lodge’ No.300 Tanjong Katong Road.
+> 3.    On 27 June 2018 at 4.11am, the complainant called Police and informed ‘I saw a guy climbed over a van. I shouted at him and he saw me and wants to meet me at the front. I don’t know if he trying to break in or what. I want police to come and check’. Location is given as ‘Chelsea Lodge’ No.300 Tanjong Katong Road.
 
-**FACTS**
+> **FACTS**
 
-4.    On 27 June 2018 at about 4am, the accused was riding his motorcycle along Tanjong Katong Road and he decided to stop at the side of the road to consume drugs. He climbed over the rear fence of Chelsea Lodge, and climbed up the plastic piping on the ground floor, before entering the victim’s unit on the second floor via an unsecured toilet window. He saw the victim’s laptop, one black ‘ASUS’ laptop valued at $2298 on the living room table, and decided to steal it.
+> 4.    On 27 June 2018 at about 4am, the accused was riding his motorcycle along Tanjong Katong Road and he decided to stop at the side of the road to consume drugs. He climbed over the rear fence of Chelsea Lodge, and climbed up the plastic piping on the ground floor, before entering the victim’s unit on the second floor via an unsecured toilet window. He saw the victim’s laptop, one black ‘ASUS’ laptop valued at $2298 on the living room table, and decided to steal it.
 
-5.    Just then, the second witness who was at home heard noises coming from the common toilet located in the living room. He assumed that it was his son (the victim) in the toilet.
+> 5.    Just then, the second witness who was at home heard noises coming from the common toilet located in the living room. He assumed that it was his son (the victim) in the toilet.
 
-6.    About 10 minutes later, the complainant (who resided on a third floor unit of Chelsea Lodge) was woken up by his dog barking from the living room. He went to the balcony area and saw the accused standing on the ledge. He asked the accused what he was doing there, and the latter replied that he was looking for a friend staying at #XXX.
+> 6.    About 10 minutes later, the complainant (who resided on a third floor unit of Chelsea Lodge) was woken up by his dog barking from the living room. He went to the balcony area and saw the accused standing on the ledge. He asked the accused what he was doing there, and the latter replied that he was looking for a friend staying at #XXX.
 
-7.    The complainant immediately became suspicious as there was no such unit at Chelsea Lodge. He told the accused to meet him on the ground floor, and called for the Police.
+> 7.    The complainant immediately became suspicious as there was no such unit at Chelsea Lodge. He told the accused to meet him on the ground floor, and called for the Police.
 
-8.    The first witness (who resides in the unit below the complainant) was awoken by the commotion and looked out her window. She saw the accused holding onto the air-con bracket, scaling down to the ground floor. The accused had left the victim’s laptop which he stole on the air-con ledge, in a bid to escape.
+> 8.    The first witness (who resides in the unit below the complainant) was awoken by the commotion and looked out her window. She saw the accused holding onto the air-con bracket, scaling down to the ground floor. The accused had left the victim’s laptop which he stole on the air-con ledge, in a bid to escape.
 
-9.    When the complainant went to the ground floor to look for the accused, he could not locate him.
+> 9.    When the complainant went to the ground floor to look for the accused, he could not locate him.
 
-10.    Based on the above, the accused has committed the offence of Housebreaking & Theft by Night under Section 457 of the Penal Code, Chapter 224 (“PC”).
+> 10.    Based on the above, the accused has committed the offence of Housebreaking & Theft by Night under Section 457 of the Penal Code, Chapter 224 (“PC”).
 
-**FACTS PERTAINING TO 5th CHARGE (MAC-906782-2018)**
+> **FACTS PERTAINING TO 5th CHARGE (MAC-906782-2018)**
 
-11.    The victim is Tan Chee Pheng. He is a renovation contractor.
+> 11.    The victim is Tan Chee Pheng. He is a renovation contractor.
 
-12.    On 30 June 2018 at about 9am, the victim proceeded to No. 156 Joo Chiat Road, Singapore to perform renovation works. He placed his bag in the living room on level 2 and proceeded to another room to do his work. Unbeknownst to the victim, the accused was following the victim. He went through the victim’s unattended bag and dishonestly removed two gold rings (valued at RM200), a handphone (black Oppo mobile phone valued at RM700.00), a work permit, a Maybank ATM card and cash of $100 belonging to the victim from the bag. The accused then left the location with the items.
+> 12.    On 30 June 2018 at about 9am, the victim proceeded to No. 156 Joo Chiat Road, Singapore to perform renovation works. He placed his bag in the living room on level 2 and proceeded to another room to do his work. Unbeknownst to the victim, the accused was following the victim. He went through the victim’s unattended bag and dishonestly removed two gold rings (valued at RM200), a handphone (black Oppo mobile phone valued at RM700.00), a work permit, a Maybank ATM card and cash of $100 belonging to the victim from the bag. The accused then left the location with the items.
 
-13.    Upon the accused’s arrest, the victim’s handphone, work permit and Maybank ATM card were recovered. The two gold rings and cash of $100 were not recovered.
+> 13.    Upon the accused’s arrest, the victim’s handphone, work permit and Maybank ATM card were recovered. The two gold rings and cash of $100 were not recovered.
 
-14.    The accused person has thereby committed an offence punishable under Section 379 PC.
+> 14.    The accused person has thereby committed an offence punishable under Section 379 PC.
 
-**FACTS PERTAINING TO 16th CHARGE (MAC-910123-2018)**
+> **FACTS PERTAINING TO 16th CHARGE (MAC-910123-2018)**
 
-15.    The victim is Hilmi Bin Arsahat. He is the Senior Manager of E-Maison condominium at 28 Braddell Road (“E-Maison”).
+> 15.    The victim is Hilmi Bin Arsahat. He is the Senior Manager of E-Maison condominium at 28 Braddell Road (“E-Maison”).
 
-16.    On 21 September 2018 at about 11.00 am, the accused was conducting deliveries around Braddell Road. When he passed by E-Maison, observed that the access button at its side gate to allow entry could be reached from the outside. As such, he stood outside the side gate and reached out towards the access button and pressed it. He then entered into E-Maison, which was in the possession of the victim, with intent to annoy him.
+> 16.    On 21 September 2018 at about 11.00 am, the accused was conducting deliveries around Braddell Road. When he passed by E-Maison, observed that the access button at its side gate to allow entry could be reached from the outside. As such, he stood outside the side gate and reached out towards the access button and pressed it. He then entered into E-Maison, which was in the possession of the victim, with intent to annoy him.
 
-17.    Shortly after, the victim approached the accused and asked why he was on the premises. The accused did not have a satisfactory explanation.
+> 17.    Shortly after, the victim approached the accused and asked why he was on the premises. The accused did not have a satisfactory explanation.
 
-18.    The accused has thereby committed an offence of Criminal Trespass punishable under Section 447 PC.
+> 18.    The accused has thereby committed an offence of Criminal Trespass punishable under Section 447 PC.
 
-**FACTS PERTAINING TO 18th CHARGE (DAC-938593-2018)**
+> **FACTS PERTAINING TO 18th CHARGE (DAC-938593-2018)**
 
-19.    The informant is Investigation Officer Johnny Tan from Bedok Division.
+> 19.    The informant is Investigation Officer Johnny Tan from Bedok Division.
 
-20.    The victim is Assistant Superintendent Ong Shin Hoong. He was the officer-in-charge of Property Offenders Squad, (“POS”), Bedok Division.
+> 20.    The victim is Assistant Superintendent Ong Shin Hoong. He was the officer-in-charge of Property Offenders Squad, (“POS”), Bedok Division.
 
-21.    On 30 June 2018 at about 7.05 pm, the victim was following up on a police report lodged on 27 June 2018 about a case of Housebreaking by Night at Chelsea Lodge when he received information about the whereabouts of the accused, who was the suspect.
+> 21.    On 30 June 2018 at about 7.05 pm, the victim was following up on a police report lodged on 27 June 2018 about a case of Housebreaking by Night at Chelsea Lodge when he received information about the whereabouts of the accused, who was the suspect.
 
-22.    The victim and his team of officers proceeded to Pasir Ris West Mall, where they spotted the accused on the second floor of the multi storey car park. The victim approached the accused, identified himself as a police officer and showed his warrant card. The accused looked shocked and asked the officers what they wanted. When the accused was told that he would be placed under arrest, he suddenly jumped up and pushed the victim on his upper body, causing the victim to fall backwards.
+> 22.    The victim and his team of officers proceeded to Pasir Ris West Mall, where they spotted the accused on the second floor of the multi storey car park. The victim approached the accused, identified himself as a police officer and showed his warrant card. The accused looked shocked and asked the officers what they wanted. When the accused was told that he would be placed under arrest, he suddenly jumped up and pushed the victim on his upper body, causing the victim to fall backwards.
 
-23.    The officers immediately grabbed the accused but he struggled violently. They managed to pin him to the ground, but the accused continued to punch and kick the officers, including the victim, multiple times.
+> 23.    The officers immediately grabbed the accused but he struggled violently. They managed to pin him to the ground, but the accused continued to punch and kick the officers, including the victim, multiple times.
 
-24.    The accused knew that by pushing, kicking and punching the victim multiple times, his actions were likely to cause grievous hurt to the victim.
+> 24.    The accused knew that by pushing, kicking and punching the victim multiple times, his actions were likely to cause grievous hurt to the victim.
 
-25.    As a result of the accused’s push, punches and kicks, the victim sustained the following injuries (Changi General Hospital Medical Report dated 10 July 2018):
+> 25.    As a result of the accused’s push, punches and kicks, the victim sustained the following injuries (Changi General Hospital Medical Report dated 10 July 2018):
 
-a.    Bruise and tenderness was noted over the right 3rd finger and the left 5th toe. Diagnosis upon x-ray was fracture of the left 5th toe with multiple superficial injuries.
+>> a.    Bruise and tenderness was noted over the right 3rd finger and the left 5th toe. Diagnosis upon x-ray was fracture of the left 5th toe with multiple superficial injuries.
 
-b.    Superficial cuts and scratch marks were seen over both upper and lower limbs.
+>> b.    Superficial cuts and scratch marks were seen over both upper and lower limbs.
 
-c.    5 x 5 cm bruise over the right forearm with tenderness over the right distal radius region. Diagnosis was wrist strain with forearm contusion.
+>> c.    5 x 5 cm bruise over the right forearm with tenderness over the right distal radius region. Diagnosis was wrist strain with forearm contusion.
 
-26.    The victim was discharged and given medical leave from 1 July 2018 to 30 July 2018 after a splint was applied.
+> 26.    The victim was discharged and given medical leave from 1 July 2018 to 30 July 2018 after a splint was applied.
 
-27.    By virtue of the foregoing, the accused has voluntarily caused grievous hurt to the victim in the discharge of his duty as a public servant, and he has thereby committed an offence of punishable under 333 PC.
+> 27.    By virtue of the foregoing, the accused has voluntarily caused grievous hurt to the victim in the discharge of his duty as a public servant, and he has thereby committed an offence of punishable under 333 PC.
 
-**FACTS PERTAINING TO 26th CHARGE (MAC-912408-2018)**
+> **FACTS PERTAINING TO 26th CHARGE (MAC-912408-2018)**
 
-28.    Complainant is Sindy Toh Lai Yen. At the time of the offence she was in possession of a company vehicle, SFY4386H (“SFY”).
+> 28.    Complainant is Sindy Toh Lai Yen. At the time of the offence she was in possession of a company vehicle, SFY4386H (“SFY”).
 
-29.    On 3 June 2018 at 8.15am, the complainant drove SFY to 8 Kaki Bukit Avenue 4 and parked near to unit #XXX. She alighted from the car, leaving the following items within:-
+> 29.    On 3 June 2018 at 8.15am, the complainant drove SFY to 8 Kaki Bukit Avenue 4 and parked near to unit #XXX. She alighted from the car, leaving the following items within:-
 
-a)    One Pink and White Adidas Sunglass value at S$350/-
+>> a)    One Pink and White Adidas Sunglass value at S$350/-
 
-b)    One Brown and Black Gucci Sunglass value at S$150/-
+>> b)    One Brown and Black Gucci Sunglass value at S$150/-
 
-c)    One Black Rayban Sunglass value at S$300/-
+>> c)    One Black Rayban Sunglass value at S$300/-
 
-d)    One Cashcard with stored value of S$2/-
+>> d)    One Cashcard with stored value of S$2/-
 
-e)    One red bag containing medication
+>> e)    One red bag containing medication
 
-f)    One Rosequartz Crystals value at S$20
+>> f)    One Rosequartz Crystals value at S$20
 
-Total value at S$822/-.
+> Total value at S$822/-.
 
-30.    At about 11 a.m., the accused noticed the above belongings left unattended and decided to gain entry into SFY. Having unlawfully done so, he dishonestly removed the above belongings from the complainant’s possession without her consent. The accused’s theft was captured on CCTV.
+> 30.    At about 11 a.m., the accused noticed the above belongings left unattended and decided to gain entry into SFY. Having unlawfully done so, he dishonestly removed the above belongings from the complainant’s possession without her consent. The accused’s theft was captured on CCTV.
 
-31.    The accused has thereby committed an offence of Theft punishable under Section 379 PC. The complainant’s belongings were not recovered.
+> 31.    The accused has thereby committed an offence of Theft punishable under Section 379 PC. The complainant’s belongings were not recovered.
 
-**FACTS PERTAININIG TO 6th charge DAC-927343-2018, 11th CHARGE DAC- 927348-2018, 14th CHARGE DAC-927351-2018, 22nd CHARGE DAC-941373- 2018**
+> **FACTS PERTAININIG TO 6th charge DAC-927343-2018, 11th CHARGE DAC- 927348-2018, 14th CHARGE DAC-927351-2018, 22nd CHARGE DAC-941373- 2018**
 
-Seizure of items
+> Seizure of items
 
-32.    After the accused committed the offence of housebreaking by night at Chelsea Lodge, he inadvertently left behind the following drugs and utensils, which belonged to him:
+> 32.    After the accused committed the offence of housebreaking by night at Chelsea Lodge, he inadvertently left behind the following drugs and utensils, which belonged to him:
 
-a)    One blue colour pouch marked as **‘A’**
+>> a)    One blue colour pouch marked as **‘A’**
 
-a1)    One broken glass pipe and one plastic pipe
+>> a1)    One broken glass pipe and one plastic pipe
 
-b)    One ‘raw’ rolling paper, one lighter, one blue box, three candles, one pink contact lens box, one weighing scale, one straw, one glass apparatus and three cotton buds marked as **‘A1’**
+>> b)    One ‘raw’ rolling paper, one lighter, one blue box, three candles, one pink contact lens box, one weighing scale, one straw, one glass apparatus and three cotton buds marked as **‘A1’**
 
-c)    One packet containing crystalline substance marked as **‘A2’**
+>> c)    One packet containing crystalline substance marked as **‘A2’**
 
-d)    One ‘Tic Tac’ box marked as **‘A3’**
+>> d)    One ‘Tic Tac’ box marked as **‘A3’**
 
-e)    One unknown tablet marked as **‘A3A’**
+>> e)    One unknown tablet marked as **‘A3A’**
 
-f)    Two blue tablets and one blue fragment marked as **‘A4’**
+>> f)    Two blue tablets and one blue fragment marked as **‘A4’**
 
-g)    One packet containing vegetable matter marked as **‘A5’**
+>> g)    One packet containing vegetable matter marked as **‘A5’**
 
-h)    One transparent box marked as **‘A6’**
+>> h)    One transparent box marked as **‘A6’**
 
-i)    One foil containing five tablets and one fragment marked as **‘A6A’**
+>> i)    One foil containing five tablets and one fragment marked as **‘A6A’**
 
-33.    When the accused was placed under arrest at Pasir Ris West Mall, a search was conducted on his person and the following items belonging to him were recovered and seized:
+> 33.    When the accused was placed under arrest at Pasir Ris West Mall, a search was conducted on his person and the following items belonging to him were recovered and seized:
 
-j)    One pouch marked as **‘B’**
+>> j)    One pouch marked as **‘B’**
 
-k)    Four lighters, one improvised bottle with broken glass attachments, two straws, one weighing scale and one ‘Christian Dior’ pouch marked as **‘B1’**
+>> k)    Four lighters, one improvised bottle with broken glass attachments, two straws, one weighing scale and one ‘Christian Dior’ pouch marked as **‘B1’**
 
-l)    One foil containing one tablet marked as **‘B2’**
+>> l)    One foil containing one tablet marked as **‘B2’**
 
-m)    One sealed ‘Epam’ tablet marked as **‘B3’**
+>> m)    One sealed ‘Epam’ tablet marked as **‘B3’**
 
-n)    Five unknown tablets marked as **‘B4’**
+>> n)    Five unknown tablets marked as **‘B4’**
 
-o)    One ziplock bag containing one ziplock bag containing vegetable matter marked as **‘B5’**
+>> o)    One ziplock bag containing one ziplock bag containing vegetable matter marked as **‘B5’**
 
-p)    Four packets containing crystalline substance marked as **‘B6’**
+>> p)    Four packets containing crystalline substance marked as **‘B6’**
 
-**6th CHARGE: CONSUMPTION OF A SPECIFIED DRUG (DAC-927343-2018)**
+> **6th CHARGE: CONSUMPTION OF A SPECIFIED DRUG (DAC-927343-2018)**
 
-34.    On 1st July 2018, the accused provided two bottles of his urine sample which were marked as **“P-SG-18-00282-1 HAYZAL BIN MOHAMAD RIDUAN Sxxx”** and **“P-SG-18-00282-2 HAYZAL BIN MOHAMAD RIDUAN Sxxx”** and sealed **‘CENTRAL NARCOTICS BUREAU’** in his presence. The next day, the said urine samples were sent to HSA for analysis.
+> 34.    On 1st July 2018, the accused provided two bottles of his urine sample which were marked as **“P-SG-18-00282-1 HAYZAL BIN MOHAMAD RIDUAN Sxxx”** and **“P-SG-18-00282-2 HAYZAL BIN MOHAMAD RIDUAN Sxxx”** and sealed **‘CENTRAL NARCOTICS BUREAU’** in his presence. The next day, the said urine samples were sent to HSA for analysis.
 
-35.    On 4th July 2018, HSA issued two Certificates bearing Lab Nos: AT-1833-06289-.001-03 and AT-1833-06289-002-03.
+> 35.    On 4th July 2018, HSA issued two Certificates bearing Lab Nos: AT-1833-06289-.001-03 and AT-1833-06289-002-03.
 
-36.    Analyst Ng Chee Ann, with the Analytical Toxicology Laboratory (ATL) of the HSA, having conduct of the analysis in relation to the urine sample marked as “**PSG- 18-00282-1 HAYZAL BIN MOHAMAD RIDUAN Sxxx”** issued the Certificate bearing Lab No: AT-1833-06289-001-03, stating that on analysis, the said urine sample was found to contain Methamphetamine.
+> 36.    Analyst Ng Chee Ann, with the Analytical Toxicology Laboratory (ATL) of the HSA, having conduct of the analysis in relation to the urine sample marked as “**PSG- 18-00282-1 HAYZAL BIN MOHAMAD RIDUAN Sxxx”** issued the Certificate bearing Lab No: AT-1833-06289-001-03, stating that on analysis, the said urine sample was found to contain Methamphetamine.
 
-37.    Analyst Chang Hian Twan, with the ATL of the HSA, having conduct of the analysis in relation to the urine sample marked as “**P-SG-18-00282-2 HAYZAL BIN MOHAMAD RIDUAN Sxxx”** issued the Certificate bearing Lab No: AT-1833-06289-002-03, stating that on analysis, the said urine sample was found to contain Methamphetamine.
+> 37.    Analyst Chang Hian Twan, with the ATL of the HSA, having conduct of the analysis in relation to the urine sample marked as “**P-SG-18-00282-2 HAYZAL BIN MOHAMAD RIDUAN Sxxx”** issued the Certificate bearing Lab No: AT-1833-06289-002-03, stating that on analysis, the said urine sample was found to contain Methamphetamine.
 
-38.    The accused admitted to consuming ‘ice’, which is the street name for methamphetamine. He had been consuming ‘ice’ three months prior to his arrest, and last consumed ‘ice’ five days before his arrest, by pouring it into a glass bong and lighting it up. He inhaled the fumes emitted from the burning ‘ice’ using a tube.
+> 38.    The accused admitted to consuming ‘ice’, which is the street name for methamphetamine. He had been consuming ‘ice’ three months prior to his arrest, and last consumed ‘ice’ five days before his arrest, by pouring it into a glass bong and lighting it up. He inhaled the fumes emitted from the burning ‘ice’ using a tube.
 
-39.    Methamphetamine is a specified drug listed in the Fourth Schedule to the MDA. The accused was not authorized to consume a specified drug under the MDA, or the Regulations made thereunder. The accused has thereby committed an offence under section 8(b)(ii) of the MDA.
+> 39.    Methamphetamine is a specified drug listed in the Fourth Schedule to the MDA. The accused was not authorized to consume a specified drug under the MDA, or the Regulations made thereunder. The accused has thereby committed an offence under section 8(b)(ii) of the MDA.
 
-40.    Before the commission of the said offence, the accused was on 12 December 2013, pursuant to an order made by the Director of the Central Narcotics Bureau in Singapore under s 34(2)(b) of the MDA, admitted to Drug Rehabilitation Centre, for consumption of a specified drug, to wit, 11-Nor-delta-9-tetrahydrocannabinol-9-carboxylic acid and methamphetamine, and was on 5 August 2015, pursuant to an order made by the Acting Director of the Central Narcotics Bureau in Singapore under s 34(2)(b) of MDA admitted to Drug Rehabilitation Centre, for consumption of a specified drug, to wit, methamphetamine.
+> 40.    Before the commission of the said offence, the accused was on 12 December 2013, pursuant to an order made by the Director of the Central Narcotics Bureau in Singapore under s 34(2)(b) of the MDA, admitted to Drug Rehabilitation Centre, for consumption of a specified drug, to wit, 11-Nor-delta-9-tetrahydrocannabinol-9-carboxylic acid and methamphetamine, and was on 5 August 2015, pursuant to an order made by the Acting Director of the Central Narcotics Bureau in Singapore under s 34(2)(b) of MDA admitted to Drug Rehabilitation Centre, for consumption of a specified drug, to wit, methamphetamine.
 
-41.    The accused is thereby liable for enhanced punishment under Section 33A(1) of the Misuse of Drugs Act (Cap 185, 2008 Rev Ed).
+> 41.    The accused is thereby liable for enhanced punishment under Section 33A(1) of the Misuse of Drugs Act (Cap 185, 2008 Rev Ed).
 
-**FACTS PERTAINING TO POSSESSION OF MDMA (DAC-927348-2018).**
+> **FACTS PERTAINING TO POSSESSION OF MDMA (DAC-927348-2018).**
 
-42.    On 2nd July 2018, exhibits marked **‘B4’** were sent to the HSA for analysis.
+> 42.    On 2nd July 2018, exhibits marked **‘B4’** were sent to the HSA for analysis.
 
-43.    On 26th July 2018, Tang Shi Ying Angeline, an Analyst with the Illicit Drug Laboratory (IDL) of HSA, issued one certificate under Section 16 of MDA, bearing the Lab No: ID-1832-01490-002 stating that exhibit ‘B4’ was found to be five blue tablets weighing not less than 1.69 grams which was analysed and found to contain not less than 0.64 gram of MDMA.
+> 43.    On 26th July 2018, Tang Shi Ying Angeline, an Analyst with the Illicit Drug Laboratory (IDL) of HSA, issued one certificate under Section 16 of MDA, bearing the Lab No: ID-1832-01490-002 stating that exhibit ‘B4’ was found to be five blue tablets weighing not less than 1.69 grams which was analysed and found to contain not less than 0.64 gram of MDMA.
 
-44.    MDMA is a Class A Controlled Drugs listed in the First Schedule to the MDA.
+> 44.    MDMA is a Class A Controlled Drugs listed in the First Schedule to the MDA.
 
-45.    The accused is not authorized under the MDA or the Regulations made thereunder to have in his possession a Controlled Drug and he has thereby committed an offence under section 8(a) of the MDA.
+> 45.    The accused is not authorized under the MDA or the Regulations made thereunder to have in his possession a Controlled Drug and he has thereby committed an offence under section 8(a) of the MDA.
 
-**FACTS PERTAINING TO POSSESSION OF METHAMPHETAMINE (DAC-927351-2018).**
+> **FACTS PERTAINING TO POSSESSION OF METHAMPHETAMINE (DAC-927351-2018).**
 
-46.    On 2nd July 2018, exhibits marked **‘B6’** were sent to HSA for analysis.
+> 46.    On 2nd July 2018, exhibits marked **‘B6’** were sent to HSA for analysis.
 
-47.    On 26th July 2018, Kwang Jia Yi, an Analyst with the IDL of HSA, issued one certificate under Section 16 of the Misuse of Drug Act (MDA) Cap 185, bearing the Lab No: ID-1832-01490-004 stating that exhibit ‘B6’ was found to be four packets containing not less than 3.82 grams of crystalline substance which was analysed and found to contain not less than 2.59 grams of methamphetamine.
+> 47.    On 26th July 2018, Kwang Jia Yi, an Analyst with the IDL of HSA, issued one certificate under Section 16 of the Misuse of Drug Act (MDA) Cap 185, bearing the Lab No: ID-1832-01490-004 stating that exhibit ‘B6’ was found to be four packets containing not less than 3.82 grams of crystalline substance which was analysed and found to contain not less than 2.59 grams of methamphetamine.
 
-48.    Methamphetamine is a Class A Controlled Drug listed in the First Schedule to the MDA Cap 185.
+> 48.    Methamphetamine is a Class A Controlled Drug listed in the First Schedule to the MDA Cap 185.
 
-49.    The accused is not authorized under the MDA or the Regulations made thereunder to have in his possession a Controlled Drug and he has thereby committed an offence under section 8(a) of the MDA.
+> 49.    The accused is not authorized under the MDA or the Regulations made thereunder to have in his possession a Controlled Drug and he has thereby committed an offence under section 8(a) of the MDA.
 
-**FACTS PERTAINING TO POSSESSION OF METHAMPHETAMINE (DAC- 941373-2018).**
+> **FACTS PERTAINING TO POSSESSION OF METHAMPHETAMINE (DAC- 941373-2018).**
 
-50.    On 24th October 2018 at about 10:20 am, while the accused was out on court bail, he was arrested for further drug offences. A search was conducted and the following exhibits belonging to him were recovered and seized: -
+> 50.    On 24th October 2018 at about 10:20 am, while the accused was out on court bail, he was arrested for further drug offences. A search was conducted and the following exhibits belonging to him were recovered and seized: -
 
-q)    One sachet of crystallized substance marked as **‘HAY-1’**
+>> q)    One sachet of crystallized substance marked as **‘HAY-1’**
 
-r)    One tablet of codeine in blister pack marked as **‘HAY-2’**
+>> r)    One tablet of codeine in blister pack marked as **‘HAY-2’**
 
-s)    Six empty sachets, one lighter, two pieces of broken glass fragments wrapped in scotch tape, one glass bong and tow coloured straws with rubber attachment marked as **‘HAY-5’**
+>> s)    Six empty sachets, one lighter, two pieces of broken glass fragments wrapped in scotch tape, one glass bong and tow coloured straws with rubber attachment marked as **‘HAY-5’**
 
-t)    One weighing scale, one roll of cigarette paper, one cigarette box containing 6 sticks of cigarettes and one black pouch marked as **‘HAY-6’**
+>> t)    One weighing scale, one roll of cigarette paper, one cigarette box containing 6 sticks of cigarettes and one black pouch marked as **‘HAY-6’**
 
-u)    One ziplock containing vegetable matter marked as **‘HAY-3’**
+>> u)    One ziplock containing vegetable matter marked as **‘HAY-3’**
 
-v)    One burnt joint marked as **‘HAY-4’**
+>> v)    One burnt joint marked as **‘HAY-4’**
 
-51.    On 16th November 2018, exhibit marked **‘HAY-1’** were sent to HSA for analysis.
+> 51.    On 16th November 2018, exhibit marked **‘HAY-1’** were sent to HSA for analysis.
 
-52.    On 11th December 2018, Kwang Jia Yi, an Analyst with the IDL of HSA, issued one certificate under Section 16 of the MDA, bearing Lab No: ID-1832-02727-001 stating that exhibit ‘HAY-1’ was found to be one packet containing not less than 0.67 gram of crystalline substance which was analysed and found to contain not less than 0.45 gram of methamphetamine.
+> 52.    On 11th December 2018, Kwang Jia Yi, an Analyst with the IDL of HSA, issued one certificate under Section 16 of the MDA, bearing Lab No: ID-1832-02727-001 stating that exhibit ‘HAY-1’ was found to be one packet containing not less than 0.67 gram of crystalline substance which was analysed and found to contain not less than 0.45 gram of methamphetamine.
 
-53.    The accused has thereby committed an offence under section 8(a) of the MDA.
+> 53.    The accused has thereby committed an offence under section 8(a) of the MDA.
 
 ## Antecedents
 
 5       The accused had the following antecedents:-
 
-(a)     On 9 November 2004, the accused was placed on 18 months’ probation for robbery and theft charges;
+> (a)     On 9 November 2004, the accused was placed on 18 months’ probation for robbery and theft charges;
 
-(b)     On 6 April 2006, probation was revoked as he had breached probation and committed further theft and housebreaking offences. A 24 month stay at a juvenile home was ordered;
+> (b)     On 6 April 2006, probation was revoked as he had breached probation and committed further theft and housebreaking offences. A 24 month stay at a juvenile home was ordered;
 
-(c)     On 29 March 2010, he was convicted of being a member of an unlawful assembly and for drug trafficking. He was ordered to undergo reformative training; and
+> (c)     On 29 March 2010, he was convicted of being a member of an unlawful assembly and for drug trafficking. He was ordered to undergo reformative training; and
 
-(d)     He was also ordered to be placed in the Drug Rehabilitation Centre on two occasions i.e. on 12 December 2013 and 5 August 2015.
+> (d)     He was also ordered to be placed in the Drug Rehabilitation Centre on two occasions i.e. on 12 December 2013 and 5 August 2015.
 
 ## Mitigation
 

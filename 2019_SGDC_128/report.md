@@ -15,13 +15,13 @@
 
 1       The accused, Lim Yi Jie, is a 24-year-old male Malaysian. The two charges that the Prosecution proceeded with against him were both under section 44(1)(_a_) punishable under section 44(5)(_a_) of the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act (Cap 65A, 2000 Rev Ed) (“CDSA**”**). The proceeded charges read:
 
-a)     DAC 921252-2018
+> a)     DAC 921252-2018
 
-“You….are charged that you, on 8 May 2018, at 900 South Woodlands Drive, Singapore, were concerned in an arrangement, knowing that by the arrangement, the control of the criminal benefits of an unknown person with the moniker “Peter” would be facilitated and knowing that “Peter” was engaged in criminal conduct _wit_, you gave two cash cheques amounting to S$86,400.00/- to one Daniel Foong Weng Kit and instructed him to encash them at the UOB Branch located at 900 South Woodlands Drive, Singapore, which sum was Peter’s benefits from criminal conduct, and you have thereby committed an offence under Section 44(1)(_a_) of the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act (Cap 65A, 2000 Rev Ed) and punishable under Section 44(5)(_a_) of the same Act.”
+> “You….are charged that you, on 8 May 2018, at 900 South Woodlands Drive, Singapore, were concerned in an arrangement, knowing that by the arrangement, the control of the criminal benefits of an unknown person with the moniker “Peter” would be facilitated and knowing that “Peter” was engaged in criminal conduct _wit_, you gave two cash cheques amounting to S$86,400.00/- to one Daniel Foong Weng Kit and instructed him to encash them at the UOB Branch located at 900 South Woodlands Drive, Singapore, which sum was Peter’s benefits from criminal conduct, and you have thereby committed an offence under Section 44(1)(_a_) of the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act (Cap 65A, 2000 Rev Ed) and punishable under Section 44(5)(_a_) of the same Act.”
 
-b)     DAC 931531-2018
+> b)     DAC 931531-2018
 
-“You….are charged that you, between April and May 2018, in Singapore, were concerned in an arrangement, having reasonable grounds to believe that by the arrangement, the control of the criminal benefits of a person who went by the moniker “Peter” (“Peter”) would be facilitated _to wit_, you permitted your POSB Bank Account no. XXX to be used to receive a total sum of at least S$5,950.00/-, which was Peter’s benefits from criminal conduct, and having reasonable grounds to believe that “Peter” has engaged in criminal conduct, and you have thereby committed an offence under Section 44(1)(_a_) and punishable under Section 44(5)(_a_) of the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act (Cap 65A, 2000 Rev Ed).”
+> “You….are charged that you, between April and May 2018, in Singapore, were concerned in an arrangement, having reasonable grounds to believe that by the arrangement, the control of the criminal benefits of a person who went by the moniker “Peter” (“Peter”) would be facilitated _to wit_, you permitted your POSB Bank Account no. XXX to be used to receive a total sum of at least S$5,950.00/-, which was Peter’s benefits from criminal conduct, and having reasonable grounds to believe that “Peter” has engaged in criminal conduct, and you have thereby committed an offence under Section 44(1)(_a_) and punishable under Section 44(5)(_a_) of the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act (Cap 65A, 2000 Rev Ed).”
 
 2       Two other charges were taken into consideration for the purpose of sentencing (TIC charges). These were charges for abetment by conspiracy to intentionally pervert the course of justice (section 204A read with section 109 of the Penal Code), as well as another s 44(1)(_a_) CDSA charge punishable under s 44(5)(_a_) CDSA.
 
@@ -85,13 +85,13 @@ b)     DAC 931531-2018
 
 26     Between April and May 2018, the accused permitted the POSB account to be used to receive at least S$5,950.00, which were “Peter’s” benefits from criminal conduct as follows:
 
-(1)     Nor Mariana Binte Rahim, female / 21 years old, had transferred $600 as payment for a loan from an unlicensed moneylender. Unlicensed moneylending is a serious offence under the Second Schedule to the CDSA;
+> (1)     Nor Mariana Binte Rahim, female / 21 years old, had transferred $600 as payment for a loan from an unlicensed moneylender. Unlicensed moneylending is a serious offence under the Second Schedule to the CDSA;
 
-(2)     Khoo Chuan Boon, male / 67 years old, had transferred $500 as payment for a loan from an unlicensed moneylender;
+> (2)     Khoo Chuan Boon, male / 67 years old, had transferred $500 as payment for a loan from an unlicensed moneylender;
 
-(3)     Kumaresan s/o Nagaiya, male / 26 years old, had transferred $50 for betting credits for online betting. Providing unlawful remote gambling service for another is a serious offence under the Second Schedule to the CDSA.
+> (3)     Kumaresan s/o Nagaiya, male / 26 years old, had transferred $50 for betting credits for online betting. Providing unlawful remote gambling service for another is a serious offence under the Second Schedule to the CDSA.
 
-(4)     Leau Hong Wee, male / 48 years old, transferred $4,800 as payments for online betting.
+> (4)     Leau Hong Wee, male / 48 years old, transferred $4,800 as payments for online betting.
 
 27     Thus, the accused was concerned in an arrangement, having reasonable grounds to believe that by the arrangement, the control of “Peter’s” criminal benefits would be facilitated, having reasonable grounds to believe that “Peter” had engaged in criminal conduct, an offence under s 44(1)(a) and punishable under s 44(5)(a) of the CDSA.
 
@@ -106,11 +106,11 @@ b)     DAC 931531-2018
 
 29     In its submissions, the Prosecution referred to the decision of See Kee Oon J in _Huang Ying-chun v PP_ <span class="citation">\[2019\] 3 SLR 606</span> (“_Huang Ying-chun_”) where his Honour set out a sentencing framework for offences under s 44(1)(_a_) CDSA, involving the laundering of cash proceeds of offences committed in Singapore. These guidelines apply to offenders who fall into one of three categories (see \[47\] and \[48\]):
 
-(1)     Runners who collect cash in Singapore and dissipate the monies, for example, by remitting the monies or handing them to other persons to remove the monies from the jurisdiction;
+> (1)     Runners who collect cash in Singapore and dissipate the monies, for example, by remitting the monies or handing them to other persons to remove the monies from the jurisdiction;
 
-(2)     Persons who recruit these runners; and
+> (2)     Persons who recruit these runners; and
 
-(3)     Persons managing and/or coordinating these runners.
+> (3)     Persons managing and/or coordinating these runners.
 
 30     The Prosecution submitted that based on the offence-specific and offender-specific factors summarised at \[98\], and adopting the five-step sentencing framework set out at \[100\] – \[105\] of _Huang Ying-chun_, the appropriate sentence for the accused would be a term of at least 40 months’ imprisonment for DAC 921252-2018, and a sentence of at least 6 months’ imprisonment for DAC 931531-2018.
 
@@ -122,15 +122,15 @@ b)     DAC 931531-2018
 
 33     Defence Counsel, Mr Rajwin Singh Sandhu, gave an oral mitigation. He submitted that a sentence of 16 months’ imprisonment should be imposed for DAC 921252-2018, and a sentence of 2 months’ imprisonment was appropriate for DAC 931531-2018. He also argued that the sentences could run consecutively, for a global imprisonment sentence of 18 months. The main features of the accused’s mitigation plea are summarised below:
 
-(1)     The accused is unmarried and comes from a broken family. He had been wilfully blind when tasked to send Foong to encash the cheques, when he used his name to be the authorised representative of the company, and also when he allowed his bank account to be used. He was only paid a few hundred dollars for his role. Counsel said that the accused is a simple man, is remorseful and has learnt his mistake.
+> (1)     The accused is unmarried and comes from a broken family. He had been wilfully blind when tasked to send Foong to encash the cheques, when he used his name to be the authorised representative of the company, and also when he allowed his bank account to be used. He was only paid a few hundred dollars for his role. Counsel said that the accused is a simple man, is remorseful and has learnt his mistake.
 
-(2)     His co-accused, Foong, was sentenced to only 16 months’ imprisonment, and there should be parity in the sentencing of the accused. In this regard, Counsel argued that the accused’s role was similar to that of Foong in that he was also a victim mule or the helper of victim mule. Further, he was not the mastermind, nor did he plan the offence. While the accused was aware that something was amiss around 5 May 2018, because he was misguided and due to bad judgment on his part, the accused had committed the offences without understanding the seriousness of what he was doing.
+> (2)     His co-accused, Foong, was sentenced to only 16 months’ imprisonment, and there should be parity in the sentencing of the accused. In this regard, Counsel argued that the accused’s role was similar to that of Foong in that he was also a victim mule or the helper of victim mule. Further, he was not the mastermind, nor did he plan the offence. While the accused was aware that something was amiss around 5 May 2018, because he was misguided and due to bad judgment on his part, the accused had committed the offences without understanding the seriousness of what he was doing.
 
-(3)     Further, there was only an attempt to recover the criminal proceeds, but the transaction was not completed.
+> (3)     Further, there was only an attempt to recover the criminal proceeds, but the transaction was not completed.
 
-(4)     The accused has spent a year in remand and has assisted the investigation officers.
+> (4)     The accused has spent a year in remand and has assisted the investigation officers.
 
-(5)     Finally, as regards the sentencing matrix in _Huang Ying-chun_, Counsel highlighted that the matrix applies for claim trial cases, whereas the accused had pleaded guilty in this case.
+> (5)     Finally, as regards the sentencing matrix in _Huang Ying-chun_, Counsel highlighted that the matrix applies for claim trial cases, whereas the accused had pleaded guilty in this case.
 
 ## (5)   The Court’s decision
 
@@ -142,17 +142,17 @@ b)     DAC 931531-2018
 
 35     For such offences, See J had set out a comprehensive framework, at \[100\] to \[105\] of _Huang Ying-chun_, for the courts to apply in determining the appropriate sentence:
 
-(1)     Step one: Identify the level of harm and the level of culpability.
+> (1)     Step one: Identify the level of harm and the level of culpability.
 
-(2)     Step two: Identify the applicable indicative sentencing range. See J set out the following indicative sentencing ranges which are to apply to contested cases.
+> (2)     Step two: Identify the applicable indicative sentencing range. See J set out the following indicative sentencing ranges which are to apply to contested cases.
 
 ![]([2019] SGDC 0128_Image/[2019] SGDC 0128_image2.png)
 
-(3)     Step three: Identify the appropriate starting point within the indicative sentencing range.
+> (3)     Step three: Identify the appropriate starting point within the indicative sentencing range.
 
-(4)     Step four: Make adjustments to the starting point to account for offender-specific factors.
+> (4)     Step four: Make adjustments to the starting point to account for offender-specific factors.
 
-(5)     Step five: Make further adjustments to take into account the totality principle.
+> (5)     Step five: Make further adjustments to take into account the totality principle.
 
 36     See J also analysed the offence-specific and offender-specific factors (non-exhaustive) that may be relevant when applying the five-step framework. These factors, as summarised by Justice See (see _Huang Ying-chun_ at \[98\]), are reproduced below.
 
@@ -171,13 +171,13 @@ b)     DAC 931531-2018
 
 38     For DAC-921252-2018, based on the factors identified in _Huang Ying-chun_ at \[98\], I agreed with the Prosecution that the harm was moderate.
 
-(1)      Amount Cheated: First, the amount involved for the charge was substantial – consisting of two cash cheques totalling $86,400. This was money traced to the predicate offence.
+> (1)      Amount Cheated: First, the amount involved for the charge was substantial – consisting of two cash cheques totalling $86,400. This was money traced to the predicate offence.
 
-(2)      Syndicate Involvement, Transnational Element and the ambit of the CDSA: Next, as set out in the SOF, the offence involved a syndicate, whose members consisted largely (if not totally) of foreigners. For this offence, the syndicate essentially targeted a 65-year-old female Singaporean housewife. Thereafter, following the commission of the predicate offence, the syndicate made use of various Singapore banks to move the money, before it sending its members to Singapore to remove its proceeds of crime. Clearly, the involvement of an organised syndicate, and the transnational nature of its activities, were aggravating features which called for the imposition of a deterrent sentence for the CDSA offences. In addition, in deciding on harm, I was reminded of the words of See J in _Huang Ying-chun_ at \[98\] that “(t)he CDSA is tangentially concerned with the underlying predicate offence, in this case, cheating, but also has a broader ambit in targeting the laundering of monies through Singapore’s financial system that will tarnish Singapore’s hard-won reputation as a financial hub.”
+> (2)      Syndicate Involvement, Transnational Element and the ambit of the CDSA: Next, as set out in the SOF, the offence involved a syndicate, whose members consisted largely (if not totally) of foreigners. For this offence, the syndicate essentially targeted a 65-year-old female Singaporean housewife. Thereafter, following the commission of the predicate offence, the syndicate made use of various Singapore banks to move the money, before it sending its members to Singapore to remove its proceeds of crime. Clearly, the involvement of an organised syndicate, and the transnational nature of its activities, were aggravating features which called for the imposition of a deterrent sentence for the CDSA offences. In addition, in deciding on harm, I was reminded of the words of See J in _Huang Ying-chun_ at \[98\] that “(t)he CDSA is tangentially concerned with the underlying predicate offence, in this case, cheating, but also has a broader ambit in targeting the laundering of monies through Singapore’s financial system that will tarnish Singapore’s hard-won reputation as a financial hub.”
 
-(3)      Seriousness of the predicate offence: Another aggravating feature that I noted was the fact that that the predicate offence involved serious and well-executed acts of deception carried out through e-mail phishing and the use of fake websites.
+> (3)      Seriousness of the predicate offence: Another aggravating feature that I noted was the fact that that the predicate offence involved serious and well-executed acts of deception carried out through e-mail phishing and the use of fake websites.
 
-(4)      Harm done to confidence in public administration: As described in the SOF, the victim was deceived through the use of a bogus message purportedly sent from the Standard Chartered Bank. The entire scheme also made use of the Internet as well as online banking tools and financial institutions in order to commit the predicate offence and to transfer funds from the victim’s bank account to an account from which the ill-gotten gains were meant to be withdrawn (see chart at \[12\]). I agreed with the Prosecution that the phishing of bank messages and the laundering of money through our bank accounts, could seriously undermine confidence in Singapore’s banking and financial sector.
+> (4)      Harm done to confidence in public administration: As described in the SOF, the victim was deceived through the use of a bogus message purportedly sent from the Standard Chartered Bank. The entire scheme also made use of the Internet as well as online banking tools and financial institutions in order to commit the predicate offence and to transfer funds from the victim’s bank account to an account from which the ill-gotten gains were meant to be withdrawn (see chart at \[12\]). I agreed with the Prosecution that the phishing of bank messages and the laundering of money through our bank accounts, could seriously undermine confidence in Singapore’s banking and financial sector.
 
 39     In light of the above considerations, I was of the view that for DAC-921252-2018, the harm could be considered to be at the higher end of the moderate range.
 
@@ -187,13 +187,13 @@ b)     DAC 931531-2018
 
 41     For DAC-921252-2018, I was of the view that based on the factors relevant to culpability that were identified by the High Court in _Huang Ying-Chun_, the culpability of the accused for this charge was at the higher end of the medium category, due to the following reasons:
 
-(1)      Planning and premeditation involved, and scale and sophistication of scheme: As summarised in the Prosecution’s table[^2], even before the victim fell prey to the phishing scam on 7 May 2018, the accused had been told by “Earn Money” that they dealt with money that had been hacked from others’ bank accounts, and that the money would be transferred to the UOB account that had been set up for SL Pek Trading for which the accused was the authorised representative. “Earn Money” further informed the accused to stand by for someone to withdraw money from the UOB account. Subsequent details were given by “Earn Money” to the accused, who was also involved in co-ordinating between Foong and “Earn Money” in Singapore. In addition, the scheme also extended to the setting up of a bogus website and an apparently bogus company, and the involvement of various individuals and bank accounts. Clearly, the entire affair was not just a small time ruse, but was instead a sophisticated scam carried out with much deliberation and planning.
+> (1)      Planning and premeditation involved, and scale and sophistication of scheme: As summarised in the Prosecution’s table[^2], even before the victim fell prey to the phishing scam on 7 May 2018, the accused had been told by “Earn Money” that they dealt with money that had been hacked from others’ bank accounts, and that the money would be transferred to the UOB account that had been set up for SL Pek Trading for which the accused was the authorised representative. “Earn Money” further informed the accused to stand by for someone to withdraw money from the UOB account. Subsequent details were given by “Earn Money” to the accused, who was also involved in co-ordinating between Foong and “Earn Money” in Singapore. In addition, the scheme also extended to the setting up of a bogus website and an apparently bogus company, and the involvement of various individuals and bank accounts. Clearly, the entire affair was not just a small time ruse, but was instead a sophisticated scam carried out with much deliberation and planning.
 
-(2)      The accused’s role: The Prosecution argued that the accused played a more major role in the entire arrangement, as compared to his co-accused, Foong, who was merely a runner. Specifically, the accused played at least three roles: (1) he was the authorised representative for SL Pek Trading and handed the necessary means of control of the UOB account to the syndicate in Malaysia; (2) he handed the cash cheques to Foong for the latter to withdraw the money; and (3) he also managed and coordinated Foong’s role in Singapore including giving Foong instructions to delete the call logs in his handphone. In addition, the accused was the one trusted by the syndicate to take over the large sum of $86,400 from Foong after the withdrawal of the money by the latter. He was apparently also trusted to relay instructions to Foong from “Earned Money”, who was clearly a higher placed member of the syndicate. There can be no doubt that the accused was more involved and culpable than Foong, and that he was “at least one step higher on the hierarchy” than Foong.
+> (2)      The accused’s role: The Prosecution argued that the accused played a more major role in the entire arrangement, as compared to his co-accused, Foong, who was merely a runner. Specifically, the accused played at least three roles: (1) he was the authorised representative for SL Pek Trading and handed the necessary means of control of the UOB account to the syndicate in Malaysia; (2) he handed the cash cheques to Foong for the latter to withdraw the money; and (3) he also managed and coordinated Foong’s role in Singapore including giving Foong instructions to delete the call logs in his handphone. In addition, the accused was the one trusted by the syndicate to take over the large sum of $86,400 from Foong after the withdrawal of the money by the latter. He was apparently also trusted to relay instructions to Foong from “Earned Money”, who was clearly a higher placed member of the syndicate. There can be no doubt that the accused was more involved and culpable than Foong, and that he was “at least one step higher on the hierarchy” than Foong.
 
-(3)      The accused’s knowledge of the underlying predicate offence: The charge was brought under the “knowing” rather than the “reasonable grounds to believe” limb of s 44(1)(_a_) CDSA. As set out in the SOF, the accused in fact knew (and not merely had reason to believe) that by the arrangement, he was facilitating control of “Peter’s” benefits of criminal conduct. Further, prior to the actual date of the offence, the accused had already been told that the UOB account contained money from hacking, and that that his role was to collect money from Foong, after the latter had withdrawn money from the account. In this respect, as noted by See J in _Huang Ying-Chun_ at \[75\], “…where the offender had actual knowledge of the criminal nature of proceeds, this would be grounds to find that the offender had heightened culpability justifying a higher sentence.”
+> (3)      The accused’s knowledge of the underlying predicate offence: The charge was brought under the “knowing” rather than the “reasonable grounds to believe” limb of s 44(1)(_a_) CDSA. As set out in the SOF, the accused in fact knew (and not merely had reason to believe) that by the arrangement, he was facilitating control of “Peter’s” benefits of criminal conduct. Further, prior to the actual date of the offence, the accused had already been told that the UOB account contained money from hacking, and that that his role was to collect money from Foong, after the latter had withdrawn money from the account. In this respect, as noted by See J in _Huang Ying-Chun_ at \[75\], “…where the offender had actual knowledge of the criminal nature of proceeds, this would be grounds to find that the offender had heightened culpability justifying a higher sentence.”
 
-(4)      Duration of offence and the prospect of reward: As regards these considerations that were identified in _Huang Ying-Chun_, while the date of the offence was set as 8 May 2018 in the charge, various preparatory acts had occurred sometime before this date. In this regard, the accused became acquainted with “Peter” in March 2018, and the scheme was apparently already put into action by or before 12 April 2018, which was the date that SL Pek Trading was registered with the accused as its representative. On a separate matter relating to culpability, it bears mentioning that the accused participated in the scheme as he was motivated by the prospect of a reward, which is yet another relevant culpability factor.
+> (4)      Duration of offence and the prospect of reward: As regards these considerations that were identified in _Huang Ying-Chun_, while the date of the offence was set as 8 May 2018 in the charge, various preparatory acts had occurred sometime before this date. In this regard, the accused became acquainted with “Peter” in March 2018, and the scheme was apparently already put into action by or before 12 April 2018, which was the date that SL Pek Trading was registered with the accused as its representative. On a separate matter relating to culpability, it bears mentioning that the accused participated in the scheme as he was motivated by the prospect of a reward, which is yet another relevant culpability factor.
 
 42     As for DAC-931531-2018, the accused was aware that that the account that he rented to “Peter” for a reward of $400, was to facilitate illegal activities (albeit he was told that it was for “tax evasion”). The account was also used from April to May 2018, During this period, a significant amount of illicit funds was received in the account. However, it should be noted that for this charge, the Prosecution had proceeded on the limb involving the lesser mens rea of “reasonable grounds to believe”. All in, I agreed that the accused’s culpability on this charge could be regarded as being at the higher end of the low culpability range.
 
@@ -236,7 +236,7 @@ b)     DAC 931531-2018
 
 55     In _Phua Song Hua_, the appellant was convicted, after trial, on 2 charges of rioting under s 147 of the Penal Code, and he was sentenced to a total of 18 months’ imprisonment and 3 strokes of the cane. On appeal, his counsel argued for a lower sentence as the co-accused persons, who had played more major roles but who had pleaded guilty to charges of unlawful assembly under section 143 of the Penal Code, had been sentenced to much lower sentences. Yong Pung How CJ, however, dismissed the appeal. On the issue of parity, his Honour stated as follows:
 
-“38    Phua’s counsel scathingly criticised the sentences as being harsher than those meted out to Oh, Bai, Leong and Tan, who had played a more major role. This objection neglected the fact that these witnesses had pleaded guilty to a less serious offence of unlawful assembly (s 143), which has a lower sentencing regime of a maximum penalty of six months’ imprisonment**. The principle of parity of sentence is irrelevant once there are different offences, as there is no longer any common basis for comparison…**.”
+> “38    Phua’s counsel scathingly criticised the sentences as being harsher than those meted out to Oh, Bai, Leong and Tan, who had played a more major role. This objection neglected the fact that these witnesses had pleaded guilty to a less serious offence of unlawful assembly (s 143), which has a lower sentencing regime of a maximum penalty of six months’ imprisonment**. The principle of parity of sentence is irrelevant once there are different offences, as there is no longer any common basis for comparison…**.”
 
 \[emphasis added\]
 

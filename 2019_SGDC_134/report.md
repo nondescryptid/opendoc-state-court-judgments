@@ -15,25 +15,25 @@
 
 The Accused pleaded guilty to the following offences –
 
-(i)     Two charges of driving without reasonable consideration under s 65(b) of the Road Traffic Act, Cap 276 2004 Rev Ed (“RTA”);
+> (i)     Two charges of driving without reasonable consideration under s 65(b) of the Road Traffic Act, Cap 276 2004 Rev Ed (“RTA”);
 
-(ii)     Three charges of failure to stop after an accident had occurred under s 84(1) read with s 84(7) punishable under s 131(2)(a) RTA;
+> (ii)     Three charges of failure to stop after an accident had occurred under s 84(1) read with s 84(7) punishable under s 131(2)(a) RTA;
 
-(iii)     One charge of driving a lorry whilst under the influence of a drug (dextromethorphan) under s 67(1)(a) RTA;
+> (iii)     One charge of driving a lorry whilst under the influence of a drug (dextromethorphan) under s 67(1)(a) RTA;
 
-(iv)     One charge of using criminal force on a police officer under s 353 of the Penal Code, Cap 224 2008 Rev Ed (“PC”);
+> (iv)     One charge of using criminal force on a police officer under s 353 of the Penal Code, Cap 224 2008 Rev Ed (“PC”);
 
-(v)     One charge of voluntarily causing hurt to a police officer under s 332 PC.
+> (v)     One charge of voluntarily causing hurt to a police officer under s 332 PC.
 
 2       The following four offences were taken into consideration for the purpose of sentencing –
 
-(i)     One charge of using criminal force on a police officer under s 353 PC;
+> (i)     One charge of using criminal force on a police officer under s 353 PC;
 
-(ii)     One charge of attempting to cause hurt to a police officer under s 332 read with s 511 PC;
+> (ii)     One charge of attempting to cause hurt to a police officer under s 332 read with s 511 PC;
 
-(iii)     One charge of driving his lorry without due care and attention under s 65(a) RTA;
+> (iii)     One charge of driving his lorry without due care and attention under s 65(a) RTA;
 
-(iv)     One charge of abandoning his lorry in the middle of a service road under s 122 RTA.
+> (iv)     One charge of abandoning his lorry in the middle of a service road under s 122 RTA.
 
 ## THE FACTS
 

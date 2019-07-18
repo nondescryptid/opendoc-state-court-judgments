@@ -25,33 +25,33 @@
 
 5       The first charge against the defendant was for organising a public assembly without a permit, an offence under s 16(1)(a) of the _Public Order Act_, Chapter 257A (2012 Rev Ed) (“**POA**”):
 
-(MAC-912063-2017) (the “**POA Charge**”)
+> (MAC-912063-2017) (the “**POA Charge**”)
 
-You \[...\] are charged that you, on the 26th day of November 2016, did organise a public assembly from about 4.00 pm to about 6.00 pm at “The AGORA”, located at 28 Sin Ming Lane, #03-142, Midview City, Singapore 573972, to publicise the cause of “civil disobedience and democracy in social change”, in which one Joshua Wong Chi-Fung, a non-citizen of Singapore, gave a speech by real-time transmission and in respect of which no permit has been granted under Section 7 of the Public Order Act, Chapter 257A (2012 Rev Ed), where such permit is required, and you have thereby committed an offence punishable under Section 16(1)(a) of the said Act.
+> You \[...\] are charged that you, on the 26th day of November 2016, did organise a public assembly from about 4.00 pm to about 6.00 pm at “The AGORA”, located at 28 Sin Ming Lane, #03-142, Midview City, Singapore 573972, to publicise the cause of “civil disobedience and democracy in social change”, in which one Joshua Wong Chi-Fung, a non-citizen of Singapore, gave a speech by real-time transmission and in respect of which no permit has been granted under Section 7 of the Public Order Act, Chapter 257A (2012 Rev Ed), where such permit is required, and you have thereby committed an offence punishable under Section 16(1)(a) of the said Act.
 
 6       Section 16(1)(_a_) POA provides:
 
-16.—(1)    Each person who organises a public assembly or public procession —
+> 16.—(1)    Each person who organises a public assembly or public procession —
 
-(a)     _in respect of which no permit has been granted_ under section 7 or no such permit is in force, where such permit is required by this Act;
+>> (a)     _in respect of which no permit has been granted_ under section 7 or no such permit is in force, where such permit is required by this Act;
 
-\[...\]
+>> \[...\]
 
-shall be guilty of an offence and shall \[...\] be liable on conviction to a fine not exceeding $5,000.
+> shall be guilty of an offence and shall \[...\] be liable on conviction to a fine not exceeding $5,000.
 
 \[ _Emphasis_ added\]
 
 7       The second charge was for refusing to sign a statement recorded by a police officer in the course of investigations, an offence under s 180 of the _Penal Code_ (Cap 224, 2008 Rev Ed) (“**Penal Code**”):
 
-(MAC-912064-2017) (the “**Penal Code Charge**”)
+> (MAC-912064-2017) (the “**Penal Code Charge**”)
 
-You \[...\] are charged that you, on the 20th day of December 2016, at or about 10.48 am, at Block D, 391 New Bridge Road, #03-11, Police Cantonment Complex, Singapore, did refuse to sign a statement made by you, _to wit_, the statement recorded under Section 22 of the Criminal Procedure Code, Chapter 68 (2012 Rev Ed) on 20 December 2016 at about 10.48 am at Block D, 391 New Bridge Road, #03-11, Police Cantonment Complex, when required to sign the said statement by a public servant legally competent to require that you sign the statement, namely Assistant Superintendent of Police Lee Ting Wei, and you have thereby committed an offence punishable under Section 180 of the Penal Code, Chapter 224 (2008 Rev Ed).
+> You \[...\] are charged that you, on the 20th day of December 2016, at or about 10.48 am, at Block D, 391 New Bridge Road, #03-11, Police Cantonment Complex, Singapore, did refuse to sign a statement made by you, _to wit_, the statement recorded under Section 22 of the Criminal Procedure Code, Chapter 68 (2012 Rev Ed) on 20 December 2016 at about 10.48 am at Block D, 391 New Bridge Road, #03-11, Police Cantonment Complex, when required to sign the said statement by a public servant legally competent to require that you sign the statement, namely Assistant Superintendent of Police Lee Ting Wei, and you have thereby committed an offence punishable under Section 180 of the Penal Code, Chapter 224 (2008 Rev Ed).
 
 8       Section 180 Penal Code provides:
 
-Refusing to sign statement
+> Refusing to sign statement
 
-180.  Whoever refuses to sign any statement made by him, when required to sign that statement by a public servant legally competent to require that he shall sign that statement, shall be punished with imprisonment for a term which may extend to 3 months, or with fine which may extend to $2,500, or with both.
+> 180.  Whoever refuses to sign any statement made by him, when required to sign that statement by a public servant legally competent to require that he shall sign that statement, shall be punished with imprisonment for a term which may extend to 3 months, or with fine which may extend to $2,500, or with both.
 
 #### Prosecution’s case
 
@@ -75,13 +75,13 @@ Refusing to sign statement
 
 15     The Event was held on 26 November 2016 as scheduled. Members of the public attended the Event. Speeches were delivered by the following persons at the Event:
 
-(a)     Han Yi Ling, Kirsten;
+> (a)     Han Yi Ling, Kirsten;
 
-(b)     Seelan s/o Palay; and
+> (b)     Seelan s/o Palay; and
 
-(c)     Joshua Wong Chi-Fung (“**Joshua Wong**”). Joshua Wong was not a citizen of Singapore, which was a fact known to the defendant. Joshua Wong delivered his speech via video call, using the “Skype” application on a laptop. The video call lasted 119 minutes.
+> (c)     Joshua Wong Chi-Fung (“**Joshua Wong**”). Joshua Wong was not a citizen of Singapore, which was a fact known to the defendant. Joshua Wong delivered his speech via video call, using the “Skype” application on a laptop. The video call lasted 119 minutes.
 
-(A transcript of some parts of these speeches was tendered in evidence as Exh P11.)
+> (A transcript of some parts of these speeches was tendered in evidence as Exh P11.)
 
 #### (d)   Defendant refused to sign statement recorded during investigations
 
@@ -101,15 +101,15 @@ Refusing to sign statement
 
 22     In respect of the POA Charge, the defence submitted that:
 
-(a)     The requirement for a permit under s 7 of the POA breached the defendant’s constitutional right of freedom of assembly under Art 14 of the Constitution of the Republic of Singapore (1985 Rev Ed, 1999 Rep) (the “**Constitution**”).
+> (a)     The requirement for a permit under s 7 of the POA breached the defendant’s constitutional right of freedom of assembly under Art 14 of the Constitution of the Republic of Singapore (1985 Rev Ed, 1999 Rep) (the “**Constitution**”).
 
-(b)     The Event did not constitute an “assembly” within the meaning of s 2 of the POA. For the Event to constitute an “assembly”, it must seek to publicise a specific cause; the Event was merely a discussion on multiple topics of general academic interest (and not to publicise a specific cause). Furthermore, the Event posed no threat to public order, safety or security.
+> (b)     The Event did not constitute an “assembly” within the meaning of s 2 of the POA. For the Event to constitute an “assembly”, it must seek to publicise a specific cause; the Event was merely a discussion on multiple topics of general academic interest (and not to publicise a specific cause). Furthermore, the Event posed no threat to public order, safety or security.
 
 23     In respect of the Penal Code Charge, the defence submitted that:
 
-(a)     The Statement attracted the right against self-incrimination under s 22(2) CPC, and the IO was not legally competent to require the defendant to sign the Statement;
+> (a)     The Statement attracted the right against self-incrimination under s 22(2) CPC, and the IO was not legally competent to require the defendant to sign the Statement;
 
-(b)     s 22(3) CPC merely provided a procedural guideline to ensure the voluntariness and accuracy of the statement and did not require the defendant to sign the statement.
+> (b)     s 22(3) CPC merely provided a procedural guideline to ensure the voluntariness and accuracy of the statement and did not require the defendant to sign the statement.
 
 #### Decision on POA Charge
 
@@ -117,47 +117,47 @@ Refusing to sign statement
 
 24     Section 5(1) POA provides that (generally) a permit is required before any “public assembly” takes place:
 
-5.—(1)    Subject to the provisions of this Act, _a public assembly_ and a public procession _shall not take place unless_ —
+> 5.—(1)    Subject to the provisions of this Act, _a public assembly_ and a public procession _shall not take place unless_ —
 
-(a)    the _Commissioner_ \[of Police\] _is notified_ under section 6 of the intention to hold the public assembly or public procession, and _a permit is granted under section 7_ in respect of that public assembly or public procession, as the case may be; and
+>> (a)    the _Commissioner_ \[of Police\] _is notified_ under section 6 of the intention to hold the public assembly or public procession, and _a permit is granted under section 7_ in respect of that public assembly or public procession, as the case may be; and
 
-(b)    the holding of that public assembly or public procession is not prohibited under section 12 or 13.
+>> (b)    the holding of that public assembly or public procession is not prohibited under section 12 or 13.
 
 \[ _Emphasis_ added\]
 
 25     The words “assembly” and “public assembly” are defined in s 2 POA as follows:
 
-“assembly” means _a gathering or meeting_ (whether or not comprising any lecture, _talk, address_, debate or _discussion_) of persons the purpose (_or one of the purposes_) of which is —
+> “assembly” means _a gathering or meeting_ (whether or not comprising any lecture, _talk, address_, debate or _discussion_) of persons the purpose (_or one of the purposes_) of which is —
 
-(a)    to demonstrate support for or opposition to the views or actions of any person, group of persons or any government;
+>> (a)    to demonstrate support for or opposition to the views or actions of any person, group of persons or any government;
 
-(b)    to publicise a cause or campaign; or
+>> (b)    to publicise a cause or campaign; or
 
-(c)    to mark or commemorate any event,
+>> (c)    to mark or commemorate any event,
 
-and includes a demonstration by a person alone for any such purpose referred to in paragraph (a), (b) or (c);
+>> and includes a demonstration by a person alone for any such purpose referred to in paragraph (a), (b) or (c);
 
-\[...\]
+>> \[...\]
 
-“public assembly” means an assembly held or to be held _in a public place or_ to which _members of the public_ in general are _invited_, induced or permitted to attend\[.\]
+>> “public assembly” means an assembly held or to be held _in a public place or_ to which _members of the public_ in general are _invited_, induced or permitted to attend\[.\]
 
 \[ _Emphasis_ added\]
 
 26     Such permit is not required if the assembly is an exempt assembly. The _Public Order (Exempt Assemblies and Processions) Order 2009_ (the “**2009 Order**”) provides for “exempt assemblies”, as follows:
 
-Exempt assemblies
+> Exempt assemblies
 
-4.–(1)    A public assembly \[...\] that is held wholly inside a building or other enclosed premises outside of the prohibited area, and –
+> 4.–(1)    A public assembly \[...\] that is held wholly inside a building or other enclosed premises outside of the prohibited area, and –
 
-(a)    every organiser of which is a citizen of Singapore or a Singapore entity;
+>> (a)    every organiser of which is a citizen of Singapore or a Singapore entity;
 
-(b)     _every individual giving a speech or lecture during the assembly_ (whether in person, through real-time transmission or a recording) _is a citizen of Singapore_;
+>> (b)     _every individual giving a speech or lecture during the assembly_ (whether in person, through real-time transmission or a recording) _is a citizen of Singapore_;
 
-(c)    the purpose of which is to demonstrate support for or opposition to the views or actions of any person, group of persons, to publicise a cause or campaign, or to mark or commemorate any event, without dealing with any matter which relates (directly or indirectly) to any religious belief or religion, or any matter which may cause feelings of enmity, hatred, ill-will or hostility between different racial or religious groups in Singapore; and
+>> (c)    the purpose of which is to demonstrate support for or opposition to the views or actions of any person, group of persons, to publicise a cause or campaign, or to mark or commemorate any event, without dealing with any matter which relates (directly or indirectly) to any religious belief or religion, or any matter which may cause feelings of enmity, hatred, ill-will or hostility between different racial or religious groups in Singapore; and
 
-(d)    during which an organiser thereof, or an authorised agent of such an organiser, is present at all times during the assembly.
+>> (d)    during which an organiser thereof, or an authorised agent of such an organiser, is present at all times during the assembly.
 
-\[...\]
+>> \[...\]
 
 \[ _Emphasis_ added\]
 
@@ -169,15 +169,15 @@ Exempt assemblies
 
 29     The right of assembly under Art 14 is not an absolute right. It may be circumscribed by Parliament, for example, in the interest of public order: _Chee Siok Chin & Ors v Minister for Home Affairs & Anor_ \[2006\] 1 SLR (R) 582 (“**_Chee Siok Chin_**”). In _Chee Siok Chin_, the High Court made it clear that there is a wide “legislative remit that allows Parliament to take a prophylactic approach in the maintenance of public order”. The High Court stated (at \[50\]-\[54\]):
 
-50    It is also crucial to note that the legislative power to circumscribe the rights conferred by Art 14 of the Constitution is, _inter alia_, delineated by what is “in the interest of public order” and not confined to “the maintenance of public order”. _This is a much wider legislative remit that allows Parliament to take a prophylactic approach in the maintenance of public order._ This necessarily will include laws that are not purely designed or crafted for the immediate or direct maintenance of public order \[...\]
+> 50    It is also crucial to note that the legislative power to circumscribe the rights conferred by Art 14 of the Constitution is, _inter alia_, delineated by what is “in the interest of public order” and not confined to “the maintenance of public order”. _This is a much wider legislative remit that allows Parliament to take a prophylactic approach in the maintenance of public order._ This necessarily will include laws that are not purely designed or crafted for the immediate or direct maintenance of public order \[...\]
 
-51    There is nothing irregular, arbitrary, or unusual about Parliament’s right to limit the right of assembly or freedom of speech. The genealogy of Art 14 of the Constitution can be traced back to the _Report of the Federation of Malaya Constitutional Commission 1957_ (G A Smith, 1957) (at para 162) where it was recommended “that freedom of speech and expression should be guaranteed to all citizens _subject to restrictions in the interests of security, public order or morality or in relation to incitement, defamation or contempt of court_” \[emphasis added\].
+> 51    There is nothing irregular, arbitrary, or unusual about Parliament’s right to limit the right of assembly or freedom of speech. The genealogy of Art 14 of the Constitution can be traced back to the _Report of the Federation of Malaya Constitutional Commission 1957_ (G A Smith, 1957) (at para 162) where it was recommended “that freedom of speech and expression should be guaranteed to all citizens _subject to restrictions in the interests of security, public order or morality or in relation to incitement, defamation or contempt of court_” \[emphasis added\].
 
-\[...\]
+> \[...\]
 
-53    The right of assembly can never be absolute and may be subordinated to public convenience and good order for the protection of the general welfare whenever it is “necessary or expedient”. From time to time, for the common welfare and good, individual interests have to be subordinated to the wider community’s interests. _There is also nothing inherently wrong or unreasonable in requiring permission from the relevant authorities to be sought prior to the holding of a public meeting or assembly. This can be viewed as a facilitative arrangement._
+> 53    The right of assembly can never be absolute and may be subordinated to public convenience and good order for the protection of the general welfare whenever it is “necessary or expedient”. From time to time, for the common welfare and good, individual interests have to be subordinated to the wider community’s interests. _There is also nothing inherently wrong or unreasonable in requiring permission from the relevant authorities to be sought prior to the holding of a public meeting or assembly. This can be viewed as a facilitative arrangement._
 
-54    The nub of the matter is that Arts 14(1)(a) and 14(1)(b) of the Constitution do not confer absolute or immutable rights. \[...\].
+> 54    The nub of the matter is that Arts 14(1)(a) and 14(1)(b) of the Constitution do not confer absolute or immutable rights. \[...\].
 
 \[ _Emphasis_ added\]
 
@@ -191,9 +191,9 @@ Exempt assemblies
 
 33     The word “cause” is not defined in the POA. In the Oxford English Dictionary, a “cause” is defined to mean, among other things, “a principle, aim or movement to which one is committed and which one is prepared to defend or advocate”.[^7] In the present case, the “cause” was apparent from the title of the Event, “Civil Disobedience and Social Movements”. It was also evident from the content of the talks at the Event. For example, the defendant, when he spoke at the Event, did seek to publicise the cause of civil disobedience. The following is an extract of what he said:
 
-So it seems like the Singapore approach is to have a picnic. Right, if you look at how successful Pink Dot is, right, everyone is happy to go to Pink Dot, wear pink, and party, and you know, eat pink muffins and pink cakes, you know, pink as a show of solidarity.
+> So it seems like the Singapore approach is to have a picnic. Right, if you look at how successful Pink Dot is, right, everyone is happy to go to Pink Dot, wear pink, and party, and you know, eat pink muffins and pink cakes, you know, pink as a show of solidarity.
 
-I mean I think it is a great movement, and I say this not to criticize Pink Dot, but _it seems like in Singapore there are certain ways in which we do our activism, and we don’t seem to like this very confrontational civil disobedience types of actions. So how do we how do we get there, I think this is the billion-dollar question_. Step by step, do we do we wait for many pink dots to happen and then slowly we transition there, or _do we need to have a bunch of individuals come together and really hammer on in the civil disobedience so that we open space_ in the same way that um, people like Seelan, Dr Chee Soon Juan and all that, did 10 years. This is something for us to think about. [^8]
+> I mean I think it is a great movement, and I say this not to criticize Pink Dot, but _it seems like in Singapore there are certain ways in which we do our activism, and we don’t seem to like this very confrontational civil disobedience types of actions. So how do we how do we get there, I think this is the billion-dollar question_. Step by step, do we do we wait for many pink dots to happen and then slowly we transition there, or _do we need to have a bunch of individuals come together and really hammer on in the civil disobedience so that we open space_ in the same way that um, people like Seelan, Dr Chee Soon Juan and all that, did 10 years. This is something for us to think about. [^8]
 
 \[ _Emphasis_ added\]
 
@@ -217,33 +217,33 @@ I mean I think it is a great movement, and I say this not to criticize Pink Dot,
 
 39     The power of police officers to record statements from witnesses in the course of investigations is provided under s 22 of the _Criminal Procedure Code_ (“**CPC**”). The relevant parts of s 22 CPC provide as follows:
 
-Power to examine witnesses
+> Power to examine witnesses
 
-22.—(1) In conducting an investigation under this Part, a police officer \[...\] may examine orally any person who appears to be acquainted with any of the facts and circumstances of the case —
+> 22.—(1) In conducting an investigation under this Part, a police officer \[...\] may examine orally any person who appears to be acquainted with any of the facts and circumstances of the case —
 
-(a) whether before or after that person or anyone else is charged with an offence in connection with the case; and
+>> (a) whether before or after that person or anyone else is charged with an offence in connection with the case; and
 
-(b) whether or not that person is to be called as a witness in any inquiry, trial, or other proceeding under this Code in connection with the case.
+>> (b) whether or not that person is to be called as a witness in any inquiry, trial, or other proceeding under this Code in connection with the case.
 
-(2) The person examined shall be bound to state truly what he knows of the facts and circumstances of the case, except that he need not say anything that might expose him to a criminal charge, penalty or forfeiture.
+> (2) The person examined shall be bound to state truly what he knows of the facts and circumstances of the case, except that he need not say anything that might expose him to a criminal charge, penalty or forfeiture.
 
-(3) _A statement made by any person examined under this section must_ —
+> (3) _A statement made by any person examined under this section must_ —
 
-(a) be in writing;
+>> (a) be in writing;
 
-(b) be read over to him;
+>> (b) be read over to him;
 
-(c) if he does not understand English, be interpreted for him in a language that he understands; and
+>> (c) if he does not understand English, be interpreted for him in a language that he understands; and
 
-(d) _be signed by him_.
+>> (d) _be signed by him_.
 
 \[ _Emphasis_ added\]
 
 40     Under s 180 of the Penal Code, it is an offence for a person to refuse to sign a statement made by him or her when required to do so by a public servant legally competent to require the statement to be signed. Section 180 Penal Code provides:
 
-Refusing to sign statement
+> Refusing to sign statement
 
-180.  Whoever refuses to sign any statement made by him, when required to sign that statement by a public servant legally competent to require that he shall sign that statement, shall be punished with imprisonment for a term which may extend to 3 months, or with fine which may extend to $2,500, or with both.
+> 180.  Whoever refuses to sign any statement made by him, when required to sign that statement by a public servant legally competent to require that he shall sign that statement, shall be punished with imprisonment for a term which may extend to 3 months, or with fine which may extend to $2,500, or with both.
 
 41     On a plain reading of these provisions, a witness who provides a statement under s 22 CPC _must_ sign it, and the police officer recording such a statement is legally competent to require the witness to sign the statement: s 22(3)(d) CPC.
 
@@ -267,9 +267,9 @@ Refusing to sign statement
 
 47     The prosecution submitted that the following sentences would be appropriate:
 
-(a)     for the POA Charge, a fine of not less than $2,000 (in default, 14 days’ imprisonment); and
+> (a)     for the POA Charge, a fine of not less than $2,000 (in default, 14 days’ imprisonment); and
 
-(b)     for the Penal Code Charge, a fine of not less than $1,200 (in default, 8 days’ imprisonment).
+> (b)     for the Penal Code Charge, a fine of not less than $1,200 (in default, 8 days’ imprisonment).
 
 48     It was submitted by the prosecution that the defendant had behaved wilfully, which was an aggravating factor. A few days before the Event, he was advised by the police that a permit was required for the Event and that the permit could be applied for online. The defendant acknowledged this but proceeded with the Event without applying for a permit. When the police investigated the matter and took a statement from him under s 22 of the CPC, he refused to sign the statement. The defendant had displayed no remorse, and had claimed trial to the two charges despite the overwhelming evidence against him.
 

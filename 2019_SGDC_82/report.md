@@ -19,9 +19,9 @@ Civil Procedure – summary judgment
 
 1       This trio of Registrar’s Appeals (“**RAs**”) before me concern two applications that the Plaintiff had taken out in the Suit herein; and one taken out by the Defendant. The two applications filed by the Plaintiff were:
 
-a.     An application to strike out the whole of the Defendant’s counterclaim, i.e. \[6\] to \[15\] of the Defence and Counterclaim (Amendment No. 1) filed on 7 February 2018.[^1]
+> a.     An application to strike out the whole of the Defendant’s counterclaim, i.e. \[6\] to \[15\] of the Defence and Counterclaim (Amendment No. 1) filed on 7 February 2018.[^1]
 
-b.     An application for summary judgment to be entered on the Plaintiff’s claim of $230,329.41 (“**the claim**”);[^2]
+> b.     An application for summary judgment to be entered on the Plaintiff’s claim of $230,329.41 (“**the claim**”);[^2]
 
 2       The application[^3] taken out by the Defendant was to consolidate the Suit herein (“**the DC Suit**”) with Suit No. MC 21545/2017 (“**the MC Suit**”).
 
@@ -43,25 +43,25 @@ b.     An application for summary judgment to be entered on the Plaintiff�
 
 10     The Defendant points out that the DR had noted preliminarily that “_it was fairer and more sensible to hear arguments on all three applications before making my orders”.[^12]_The Defendant says that subsequently however, in his decision, the DR had:
 
-a.     First struck out the Defendant’s counterclaim in the DC Suit (the subject matter of RA97);[^13]
+> a.     First struck out the Defendant’s counterclaim in the DC Suit (the subject matter of RA97);[^13]
 
-b.     Then, considered the Plaintiff’s application for summary judgment before the Defendant’s consolidation application and took the view that only if summary judgment were denied would he go on to consider the Defendant’s consolidation application (the subject matter of RA96);[^14]
+> b.     Then, considered the Plaintiff’s application for summary judgment before the Defendant’s consolidation application and took the view that only if summary judgment were denied would he go on to consider the Defendant’s consolidation application (the subject matter of RA96);[^14]
 
-c.     Finally, allowed summary judgment to be entered against the Defendant in the DC Suit and completely left the Defendant’s consolidation application unconsidered (the subject matter of RA95).[^15]
+> c.     Finally, allowed summary judgment to be entered against the Defendant in the DC Suit and completely left the Defendant’s consolidation application unconsidered (the subject matter of RA95).[^15]
 
 11     The Defendant says that in deciding right at the outset to strike out the Defendant’s counterclaim, he placed the Defendant at a disadvantage when the court eventually had to consider the summary judgment application because the Defendant would be, at that point, devoid of a defence of set-off (because the counterclaim in the DC Suit had been struck out). The Defendant complains that the approach taken by the DR rendered the Defendant’s consolidation application nugatory, effectively deciding against the Defendant without even considering the merits of the Defendant’s consolidation application. The Defendant contends that the prejudice suffered by the Defendant pursuant to the approach taken by the DR is significantly larger than that which the Plaintiff might suffer if the court had granted consolidation and subsequently denied the Defendant’s summary judgment application. This is because, even if summary judgment were denied, the Plaintiff would still have a chance to make out its case against the Defendant at trial. However, if summary judgment were granted against the Defendant, the Defendant would be completely shut out from making its defence.[^16]
 
 12     The Defendant submits that the fairest and most logical approach is:[^17]
 
-a.     First, to consider the consolidation application for moving and/or combining the MC Suit with the DC Suit;
+> a.     First, to consider the consolidation application for moving and/or combining the MC Suit with the DC Suit;
 
-b.     Second, to consider the summary judgment application on the basis that a counterclaim had been filed by the Defendant in the same suit;
+> b.     Second, to consider the summary judgment application on the basis that a counterclaim had been filed by the Defendant in the same suit;
 
-c.     Lastly:
+> c.     Lastly:
 
-i.       If consolidation is granted at (a), the striking out application would fall by the wayside;
+>> i.       If consolidation is granted at (a), the striking out application would fall by the wayside;
 
-ii.       If consolidation is not granted, and leave to defend had been granted, consider whether the counterclaim ought to be struck out on its merits.
+>> ii.       If consolidation is not granted, and leave to defend had been granted, consider whether the counterclaim ought to be struck out on its merits.
 
 13     In my view, a distinction must be drawn between the order of _hearing_ the applications; and the order of _adjudicating_ the applications. There is no dispute that the DR had heard all three applications together, before making his orders. That must be the approach in dealing with these applications. They are inter-related, and they have to be heard and considered together. In the same vein, I heard all three RAs together and counsel agreed at the beginning of the hearing that I should do so. It is a different question in regard to the order the applications are adjudicated. The order of adjudication would be an integral part of the decision of the court in respect of the three applications. What the Defendant is contending in fact is that the DR ought not have decided the applications in the sequence he did. Implicit in that contention however, is the refutation of the DR’s determination in respect of each of the applications. The sequence of adjudicating the three applications flows directly from the decision the DR made in respect of each of the applications. The sequence of the orders in respect of the three applications was a function of his decision in respect of the applications. In this regard, I see no merit in the contention that the approach as reflected in the order of the DR’s decision on the applications was wrong in itself. The correctness or otherwise of the decision lies in the determination by the DR in respect of the applications; and not the order of hearing or determining the applications.
 
@@ -73,13 +73,13 @@ ii.       If consolidation is not granted, and leave to defend had been g
 
 16     The law on striking out is uncontroverted. Under Order 18, Rule 19(1) of the Rules of Court, the court may strike out any pleading on the ground that:
 
-a.     it discloses no reasonable cause of action or defence, as the case may be;
+> a.     it discloses no reasonable cause of action or defence, as the case may be;
 
-b.     it is scandalous, frivolous or vexatious;
+> b.     it is scandalous, frivolous or vexatious;
 
-c.     it may prejudice, embarrass or delay the fair trial of the action; or
+> c.     it may prejudice, embarrass or delay the fair trial of the action; or
 
-d.     it is otherwise an abuse of the process of the court.
+> d.     it is otherwise an abuse of the process of the court.
 
 17     Specifically, it has been held that it is an abuse of process of the court and also vexatious to bring duplicate actions based on the same cause of action. See **_Terrestrial Pte Ltd v Allgo Marine Pte Ltd_** <span class="citation">\[2013\] 3 SLR 527</span>, (“**_Terrestrial_**”) at \[13\], \[14\], \[15\], \[16\] & \[21\]. This applies to counterclaims as well, as a counterclaim effectively operates as a separate action under Order 15 rule 2, for which a defendant is put in the position of a plaintiff (_Terrestrial_ at \[15\]).
 
@@ -93,7 +93,7 @@ d.     it is otherwise an abuse of the process of the court.
 
 22     The Defendant also refers to the case of **_PT Muliakeramik Indahraya TBK v Nam Huat Tiling & Panelling Co Pte Ltd_** <span class="citation">\[2006\] SGHC 154</span> **_(“PT Muliakeramik”)_** where the High Court noted at \[16\]:
 
-_“While it is possible to analogise a defendant who is counterclaiming to a plaintiff, it may be_ _quite a different matter to try and equate the two. A defendant is not the instigator of the litigation; he is instead the party brought into the proceedings and who has to defend himself against attack. The fact that he subsequently decides to take an extra step to pursue a counterclaim does not necessarily equate to a plaintiff who has decided to take the first step to initiate legal proceedings_ _.”_
+> _“While it is possible to analogise a defendant who is counterclaiming to a plaintiff, it may be_ _quite a different matter to try and equate the two. A defendant is not the instigator of the litigation; he is instead the party brought into the proceedings and who has to defend himself against attack. The fact that he subsequently decides to take an extra step to pursue a counterclaim does not necessarily equate to a plaintiff who has decided to take the first step to initiate legal proceedings_ _.”_
 
 23     The Defendant relies on _PT Muliakeramik_ to argue that a counterclaim ought to be given a different treatment from a claim. In my view, that a counterclaim does not equate a claim does not answer the question before us. Whilst a counterclaim might not equate a claim, it is a different question whether the filing of the counterclaim should conform to procedural law. There is no dispute that the counterclaims in the two Suits are identical. The Plaintiff applied to strike out the duplicate counterclaim in the DC Suit. In my view, it is clear that the DR’s decision to allow the application to strike out is correct.
 
@@ -103,13 +103,13 @@ _“While it is possible to analogise a defendant who is counterclaiming to a pl
 
 24     I turn to the next order made by the DR, which was to grant summary judgment in the sum of $230,329.41. The law in respect of summary judgment is uncontroverted. The Plaintiff referred to the case of **_Capital Springboard Ltd and 45 others v Vangard Project Management Pte Ltd and another_** <span class="citation">\[2018\] SGHC 29</span> (“**_Capital Springboard_**”), which set out the established approach to summary judgment applications:
 
-a.     A plaintiff must first show that he has a _prima facie_ case; and
+> a.     A plaintiff must first show that he has a _prima facie_ case; and
 
-b.     If the plaintiff satisfies (a), then the burden shifts to the defendant to show that either: (i) there is an issue or question in dispute which ought to be tried; or (ii) that there ought for some other reason to be a trial.
+> b.     If the plaintiff satisfies (a), then the burden shifts to the defendant to show that either: (i) there is an issue or question in dispute which ought to be tried; or (ii) that there ought for some other reason to be a trial.
 
 25     It is common for a defendant to make mere assertions in answer to a summary judgment application. The Plaintiff referred to **_M2B World Asia Pacific Pte Ltd v Matsumura Akihiko_** <span class="citation">\[2015\] 1 SLR 325</span> (“**_M2B_**”) at \[19\], where it was held that where:
 
-“_such assertion, denial or dispute is equivocal, or lacking in precision or is inconsistent with undisputed contemporary documents or other statements by the same deponent, or is inherently improbable in itself”_, then _“the judge has a duty to reject such assertion or denial, thereby rendering the issue not triable_”.
+> “_such assertion, denial or dispute is equivocal, or lacking in precision or is inconsistent with undisputed contemporary documents or other statements by the same deponent, or is inherently improbable in itself”_, then _“the judge has a duty to reject such assertion or denial, thereby rendering the issue not triable_”.
 
 26     In the present case, the Defendant does not dispute that the sum of $227,687.04 out of the total claim of $230,329.41 is owing.[^21] Counsel for the Defendant confirmed this positon at the hearing of the RAs before me. It is settled law that where an admission has been made by the Defendant, summary judgment for that sum ought to be ordered. In any event, I note that the Plaintiff had for good measure produced affidavit evidence of all the supporting documents in respect of its claim.[^22]
 
@@ -121,13 +121,13 @@ b.     If the plaintiff satisfies (a), then the burden shifts to the defend
 
 29     In respect of the law in this regard, both parties reply on the authority of **_Kim Seng Orchid Pte Ltd v Lim Kah Hin (trading as Yik Zhuan Orchid Garden)_** <span class="citation">\[2017\] SGHC 4</span> (“**_Kim Seng_**”). At \[98\], the High Court set out a practical framework for determining whether summary judgment ought to be ordered where there is a subsisting counterclaim, as follows:
 
-a.     Step 1: whether the counterclaim is plausible – the court should first consider whether the counterclaim was plausible, i.e. whether it was reasonably possible for the counterclaim to succeed at trial. If the counterclaim was not plausible, then its presence ought not to stand in the way of the plaintiff obtaining summary judgment of its whole claim, without any stay pending the determination of the counterclaim, and the court should so rule. If the court found that the counterclaim was plausible, then Step 2 followed.
+> a.     Step 1: whether the counterclaim is plausible – the court should first consider whether the counterclaim was plausible, i.e. whether it was reasonably possible for the counterclaim to succeed at trial. If the counterclaim was not plausible, then its presence ought not to stand in the way of the plaintiff obtaining summary judgment of its whole claim, without any stay pending the determination of the counterclaim, and the court should so rule. If the court found that the counterclaim was plausible, then Step 2 followed.
 
-b.     Step 2: whether the plausible counterclaim amounted to a defence of set-off – the court should then determine whether the counterclaim that it had found to be plausible amounted to a defence of set-off, whether legal or equitable. If the plausible counterclaim did amount to a defence of set-off, then unconditional leave to defend should be granted in respect of the whole of the claim. The reason was that when the court reached such a conclusion, it had found in essence that the defendant had shown reasonable grounds of a real defence, and therefore leave to defend should, on the usual principles, be granted. On the other hand, if the counterclaim did not amount to a defence of set-off, then the court could proceed to Step 3 below.
+> b.     Step 2: whether the plausible counterclaim amounted to a defence of set-off – the court should then determine whether the counterclaim that it had found to be plausible amounted to a defence of set-off, whether legal or equitable. If the plausible counterclaim did amount to a defence of set-off, then unconditional leave to defend should be granted in respect of the whole of the claim. The reason was that when the court reached such a conclusion, it had found in essence that the defendant had shown reasonable grounds of a real defence, and therefore leave to defend should, on the usual principles, be granted. On the other hand, if the counterclaim did not amount to a defence of set-off, then the court could proceed to Step 3 below.
 
-c.     Step 3: whether the plausible counterclaim was sufficiently connected to the claim – the court could then consider whether there was a connection between the claim (for which summary judgment was sought) and the counterclaim which it had considered to be plausible. If that counterclaim arose out of quite a separate and distinct transaction or it was wholly foreign to the claim or there was no connection between the claim and counterclaim, the court should generally grant summary judgment of the whole claim, without a stay pending the determination of the unconnected counterclaim. If the court was satisfied of the degree of connection between the claim and counterclaim, it could then proceed to Step 4.
+> c.     Step 3: whether the plausible counterclaim was sufficiently connected to the claim – the court could then consider whether there was a connection between the claim (for which summary judgment was sought) and the counterclaim which it had considered to be plausible. If that counterclaim arose out of quite a separate and distinct transaction or it was wholly foreign to the claim or there was no connection between the claim and counterclaim, the court should generally grant summary judgment of the whole claim, without a stay pending the determination of the unconnected counterclaim. If the court was satisfied of the degree of connection between the claim and counterclaim, it could then proceed to Step 4.
 
-d.     Step 4: whether there were grounds for a stay of execution in the light of the connected and plausible counterclaim – if the court considered that there was really no defence to the claim and that as a consequence the plaintiff would be put to needless expense in proving its claim, the court should generally grant summary judgment of the whole of the claim. This was the default position where there were no triable issues under the usual approach. But, in the exercise of its discretion, where the court also found (through an application of Steps 1 and 3 above) that there was a connected and plausible counterclaim, this might provide grounds for the court to stay execution of the whole judgment (or a portion thereof) pending the determination of the connected and plausible counterclaim. A qualification applied in the situation where the quantum of the judgment exceeded that of the quantum of the counterclaim: in such circumstances, there should not be any stay of execution of the quantum of the judgment that was in excess of the counterclaim.
+> d.     Step 4: whether there were grounds for a stay of execution in the light of the connected and plausible counterclaim – if the court considered that there was really no defence to the claim and that as a consequence the plaintiff would be put to needless expense in proving its claim, the court should generally grant summary judgment of the whole of the claim. This was the default position where there were no triable issues under the usual approach. But, in the exercise of its discretion, where the court also found (through an application of Steps 1 and 3 above) that there was a connected and plausible counterclaim, this might provide grounds for the court to stay execution of the whole judgment (or a portion thereof) pending the determination of the connected and plausible counterclaim. A qualification applied in the situation where the quantum of the judgment exceeded that of the quantum of the counterclaim: in such circumstances, there should not be any stay of execution of the quantum of the judgment that was in excess of the counterclaim.
 
 30     In the present case, the starting position in the analysis of the counterclaim is that it is not disputed that the losses and damages constituting the counterclaim have not accrued. The counterclaim is for losses and damages resulting from the Plaintiff supplying the Defendant with the wrong materials for the J Gateway project. The Defendant’s contention is that the supply of wrong materials resulted in the Defendant having to carry out rectification works and to compensate a third party.[^23] A sum of $2,842,011.20 was referred to in the Defence and Counterclaim.[^24] However, the Defendant admits that the rectification works have not been carried out. There is also no evidence that compensation has been paid to any third party. No loss or damage has to-date being incurred. It is safe to say that the counterclaim for losses and damages is in the realm of speculation. In this regard, I am therefore unable to hold that the Defendant has mounted a plausible counterclaim.
 
@@ -135,17 +135,17 @@ d.     Step 4: whether there were grounds for a stay of execution in the li
 
 31     Whilst I find that there is no plausible counterclaim, I will nevertheless for completion consider whether a defence of legal or equitable set-off is made out. A legal set-off is only applicable to claims that are capable of being liquidated or ascertained with precision (without valuation or estimation) at the time of pleading, and which are due and payable: see **_OCWS Logistics Pte Ltd v Soon Meng Construction Pte Ltd_** <span class="citation">\[1998\] SGHC 382</span> **(**“**_OCWS Logistics_**_”_**_)_** at \[8\] and \[12\]. At \[12\], Chao Hick Tin J (as he then was) stated that:
 
-“_The fact that the defendants have in their defence put a figure to what they claimed does not mean that it has become a liquidated sum or a sum ascertainable with precision_ _at the time of pleading__…”_
+> “_The fact that the defendants have in their defence put a figure to what they claimed does not mean that it has become a liquidated sum or a sum ascertainable with precision_ _at the time of pleading__…”_
 
 32     The counterclaim is premised on an unascertained or unascertainable amount based, as admitted by the Defendant, purely on estimates and on quotations obtained.[^25] Clearly, the counterclaim is for amounts that are not ascertainable with precision in the absence of valuation or estimation. The counterclaim therefore cannot form the subject matter of a legal set-off.
 
 33     As for equitable set-off, the Plaintiff refers to the case of **_Pacific Rim Investments Pte Ltd v Lam Seng Tiong and another_** **\[**1995\] 2 SLR(R) 643 (“**_Pacific Rim_**”). The requirements of an equitable set-off are:
 
-a.     the claim in question must arise out of the same transaction or is closely connected with the original claim and which goes towards impeaching the title to the legal demand which the plaintiff is seeking to enforce (at \[35\]);
+> a.     the claim in question must arise out of the same transaction or is closely connected with the original claim and which goes towards impeaching the title to the legal demand which the plaintiff is seeking to enforce (at \[35\]);
 
-b.     the claim must be quantifiable by means of a reasonable assessment made in good faith (at \[27\]); and
+> b.     the claim must be quantifiable by means of a reasonable assessment made in good faith (at \[27\]); and
 
-c.     it is for the defendant to particularise the amount of his set-off or counterclaim to specify or indicate how it is made up or calculated.
+> c.     it is for the defendant to particularise the amount of his set-off or counterclaim to specify or indicate how it is made up or calculated.
 
 34     The Plaintiff submits that the Defendant fails on all three counts. On the first requirement, the counterclaim (which the Defendant admits relate only to the J Gateway project) does not arise out of the same transaction or is closely connected with the claim which relates to some 170 other projects (completely unrelated to the J Gateway project), such that it goes towards impeaching the claim. On the second and third principles, the Defendant has failed to quantify his loss by means of a reasonable assessment made in good faith. There is no evidence led by the Defendant on this except for the Defendant’s bare assertions. This is given that the alleged losses and damages under the counterclaim have not accrued and are entirely speculative.
 
@@ -167,11 +167,11 @@ c.     it is for the defendant to particularise the amount of his set-off o
 
 40     In summary, my view is that:
 
-a.     The counterclaim should be struck out;
+> a.     The counterclaim should be struck out;
 
-b.     Summary judgment should be entered for the claim; and
+> b.     Summary judgment should be entered for the claim; and
 
-c.     Following from a) and b), there is no need to consider the consolidation application.
+> c.     Following from a) and b), there is no need to consider the consolidation application.
 
 41     In the premises, the DR’s orders are correct and I dismiss all three appeals before me, with costs to the Plaintiff to be agreed or failing agreement, to be fixed by me.
 

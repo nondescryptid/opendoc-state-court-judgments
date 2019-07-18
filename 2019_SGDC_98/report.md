@@ -23,19 +23,19 @@ Building and Construction Law – Building and Construction Industry Security 
 
 5       The Adjudicator issued his Adjudication Determination dated 5 March 2019 wherein he identified two issues that he had to deal with, namely:
 
-(1)     whether the Defendant had provided a valid payment response under SOPA by way of its email dated 26 December 2018, and
+> (1)     whether the Defendant had provided a valid payment response under SOPA by way of its email dated 26 December 2018, and
 
-(2)     the amount of progress payment properly due to the Plaintiff (if any).
+> (2)     the amount of progress payment properly due to the Plaintiff (if any).
 
 6       With regard to the first issue, the Adjudicator made the finding that the email sent by the Defendant on 26 December 2018 was not a valid payment response as required by the relevant provisions in SOPA and related regulations. The Defendant’s complaints with regard to the Sub-Contract Works carried out by the Plaintiff’s workers and its counterclaim were therefore not taken into consideration by the Adjudicator. On the second issue, the Adjudicator found that the Plaintiff had established a _prima facie_ case for Payment Claim No. 16 and went on to determine that:
 
-(a)     the Defendant shall pay the Plaintiff the sum of $180,582.55 being the adjudicated amount of the determination;
+> (a)     the Defendant shall pay the Plaintiff the sum of $180,582.55 being the adjudicated amount of the determination;
 
-(b)     the date on which the adjudicated amount became due was 14 February 2019, and the Defendant shall pay interest on the adjudicated amount at the rate of 5.33% per annum from 15 February 2019 up to the date of full payment;
+> (b)     the date on which the adjudicated amount became due was 14 February 2019, and the Defendant shall pay interest on the adjudicated amount at the rate of 5.33% per annum from 15 February 2019 up to the date of full payment;
 
-(c)     the Defendant shall pay the adjudicated amount and interest to the Plaintiff within 7 days after the Adjudication Determination is served on the Defendant; and
+> (c)     the Defendant shall pay the adjudicated amount and interest to the Plaintiff within 7 days after the Adjudication Determination is served on the Defendant; and
 
-(d)     the costs of the Adjudication being the Adjudication Application Fee of S$642.00 (inclusive of 7% GST) and the Adjudicator Fee of $19,153.00 and disbursements of S$85.60 (both figures inclusive of 7% GST) shall be borne by the Defendant in full.
+> (d)     the costs of the Adjudication being the Adjudication Application Fee of S$642.00 (inclusive of 7% GST) and the Adjudicator Fee of $19,153.00 and disbursements of S$85.60 (both figures inclusive of 7% GST) shall be borne by the Defendant in full.
 
 7       As the Adjudication Determination was served on the Defendant on 6 March 2019, the Defendant was obliged to make payment of the adjudicated amount with interest by 13 March 2019. Payment was not made as required which led to the Plaintiff filing an _ex parte_ originating summons on 15 March 2019 for leave to enforce the Adjudication Determination in the same manner as a judgment or an order of the court to the same effect pursuant to s 27 of SOPA.
 
@@ -43,11 +43,11 @@ Building and Construction Law – Building and Construction Industry Security 
 
 9       On 11 April 2019, the Defendant filed a summons (DC/SUM 1400/2019) seeking the following orders:
 
-(1)     the enforcement of the Order of Court be stayed permanently;
+> (1)     the enforcement of the Order of Court be stayed permanently;
 
-(2)     alternatively to (1), that the enforcement of the Order of Court be stayed pending the disposal of the High Court action in HC/S 218/2019;
+> (2)     alternatively to (1), that the enforcement of the Order of Court be stayed pending the disposal of the High Court action in HC/S 218/2019;
 
-(3)     alternatively to (1) and (2), that the Plaintiff be restrained from bringing winding up proceedings against the Defendant pending the disposal of the High Court action in HC/S 218/2019 or further order.
+> (3)     alternatively to (1) and (2), that the Plaintiff be restrained from bringing winding up proceedings against the Defendant pending the disposal of the High Court action in HC/S 218/2019 or further order.
 
 10     Although the summons was filed as an _ex parte_ application, counsel for the Plaintiff had been notified to attend the hearing which was fixed before me on an urgent basis. After hearing the arguments from both parties, I dismissed the Defendant’s application with costs fixed at S$1,000. The Defendant being dissatisfied with my order has appealed to the High Court. My reasons for ruling against the Defendant are set out herein.
 
@@ -55,11 +55,11 @@ Building and Construction Law – Building and Construction Industry Security 
 
 11     The Defendant’s grounds for seeking a stay of the Order of Court and the enforcement of the Adjudication Determination can be summarised as follows:
 
-(1)     the Plaintiff appears to be insolvent and the Defendant is unlikely to recover any sums paid to the Plaintiff;
+> (1)     the Plaintiff appears to be insolvent and the Defendant is unlikely to recover any sums paid to the Plaintiff;
 
-(2)     the Defendant has genuine cross-claims against the Plaintiff which are the subject matter of its suit in HC/S 218/2019; and
+> (2)     the Defendant has genuine cross-claims against the Plaintiff which are the subject matter of its suit in HC/S 218/2019; and
 
-(3)     the irreparable harm that would be caused to the Defendant by a winding-up action.
+> (3)     the irreparable harm that would be caused to the Defendant by a winding-up action.
 
 12     In support of its application, the Defendant had filed an affidavit by its director, Eng Kim Hong, in which she had exhibited payment claims made by four of the Plaintiff’s subcontractors that had allegedly not been paid, the pleadings filed in HC/S 218/2019, as well as the statutory demand under s 254 of the Companies Act which would serve as the precursor to a winding-up action.
 
@@ -67,11 +67,11 @@ Building and Construction Law – Building and Construction Industry Security 
 
 13     In determining whether a stay ought to be granted, consideration had to be given to the legislative intent behind the SOPA regime which is to facilitate cash flow for parties in the building and construction industry. To ensure that cash flow is maintained, the adjudication determination is cloaked with temporary finality. As articulated by Sundaresh Menon CJ in delivering judgment of the Court of Appeal in _W Y Steel Construction Pte Ltd v Osko Pte Ltd_ <span class="citation">\[2013\] 3 SLR 380</span> at \[18\], SOPA –
 
-_“achieves its stated purpose of facilitating cash flow in the building and construction industry in two principal ways. First, it establishes that parties who have done work or supplied goods are entitled to payment as of right: see s 5 of the Act. Second, it creates an intervening, provisional process of adjudication which, although provisional in nature, is final and binding on the parties to the adjudication until their differences are ultimately and conclusively determined or resolved: see s 21 of the Act. This is what is referred to as temporary finality.”_
+> _“achieves its stated purpose of facilitating cash flow in the building and construction industry in two principal ways. First, it establishes that parties who have done work or supplied goods are entitled to payment as of right: see s 5 of the Act. Second, it creates an intervening, provisional process of adjudication which, although provisional in nature, is final and binding on the parties to the adjudication until their differences are ultimately and conclusively determined or resolved: see s 21 of the Act. This is what is referred to as temporary finality.”_
 
 14     A stay of enforcement of an adjudication determination would not readily be granted as it would run counter to the stated objective of SOPA. As explained by the Court of Appeal in _W Y Steel Construction Pte Ltd v Osko Pte Ltd_ (_supra_) at \[59\]:
 
-_“the purpose of the Act is to ensure (inter alia) that even though adjudication determinations are interim in nature, successful claimants are paid. To this end, under s 22(1), the respondent must pay the adjudicated amount either within seven days after being served with the adjudication determination (see s 22(1)(a)), or by the deadline stipulated by the adjudicator (see s 22(1)(b)). The claimant can suspend work (see s 26(1)(d)) or take a lien on goods supplied (see s 25(2)(d)) if the respondent fails to pay. If the respondent intends to apply for a review of the adjudication determination, he must first pay the adjudicated amount to the claimant: see s 18(3). If the respondent wants to set aside the adjudication determination, he must pay into court as security the unpaid portion of the adjudicated amount: see s 27(5). This requirement is repeated in O 95 r 3(3) of the Rules of Court (Cap 322, R 5, 2006 Rev Ed)._ **_These provisions all point to one thing: where a claimant succeeds in his adjudication application, he is entitled to receive the adjudicated amount quickly and cannot be denied payment without very good reason.”_**
+> _“the purpose of the Act is to ensure (inter alia) that even though adjudication determinations are interim in nature, successful claimants are paid. To this end, under s 22(1), the respondent must pay the adjudicated amount either within seven days after being served with the adjudication determination (see s 22(1)(a)), or by the deadline stipulated by the adjudicator (see s 22(1)(b)). The claimant can suspend work (see s 26(1)(d)) or take a lien on goods supplied (see s 25(2)(d)) if the respondent fails to pay. If the respondent intends to apply for a review of the adjudication determination, he must first pay the adjudicated amount to the claimant: see s 18(3). If the respondent wants to set aside the adjudication determination, he must pay into court as security the unpaid portion of the adjudicated amount: see s 27(5). This requirement is repeated in O 95 r 3(3) of the Rules of Court (Cap 322, R 5, 2006 Rev Ed)._ **_These provisions all point to one thing: where a claimant succeeds in his adjudication application, he is entitled to receive the adjudicated amount quickly and cannot be denied payment without very good reason.”_**
 
 (emphasis added in bold) 
 
@@ -81,9 +81,9 @@ _“the purpose of the Act is to ensure (inter alia) that even though adjudicati
 
 16     The supporting affidavit of the Defendant’s director which sought to portray the Plaintiff’s apparent insolvency was stated in the following terms:
 
-_“11_.     _.. the plaintiff appears insolvent and therefore unable to pay back the amount claimed under the adjudication determination should the defendant succeed in HC/S 218/2019._
+> _“11_.     _.. the plaintiff appears insolvent and therefore unable to pay back the amount claimed under the adjudication determination should the defendant succeed in HC/S 218/2019._
 
-_12_.     _I say this because 4 sub-contractors have informed me that they have submitted payment claims to the plaintiff which have not been paid.”_
+> _12_.     _I say this because 4 sub-contractors have informed me that they have submitted payment claims to the plaintiff which have not been paid.”_
 
 17     The affidavit went on to identify the four subcontractors and exhibited their payment claims. On my examination of the documents exhibited, it appeared that the total amount claimed by the subcontractors added up to less than $32,043.52[^1]. Other than the fact that this was a significantly small sum in comparison with the adjudicated amount of $180,582.55, the assertion by the Defendant’s director that she had been informed by the four subcontractors that they had submitted claims to the Plaintiff which had not been paid, without more, could hardly qualify as clear and objective evidence of the Plaintiff’s actual present insolvency.
 

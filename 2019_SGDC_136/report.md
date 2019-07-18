@@ -104,7 +104,7 @@ The Offender is dissatisfied with the punishment imposed and has filed this appe
 
 26     The Prosecution submitted correctly therefore, for at least 3 of the imprisonment sentences to be run consecutively. I accepted this submission in view of the number of cheating offences, the 15 TIC charges for the purpose of sentencing and the distinct drug offence. In the recent case of _Muhammad Sutarno Bin Nasir v Public Prosecutor_ <span class="citation">\[2018\] SGCA 43</span>, it was reiterated by the Chief Justice Sundaresh Menon, Judge of Appeal Andrew Phang and Judge Quentin Loh sitting in the Court of Appeal, in the _ex tempore_ judgment that:
 
-“… Distinct offences should be punished separately with consecutive sentences so as to ensure that each legally-protected interest is properly vindicated. Otherwise, the imposition of concurrent sentences for unrelated offences would result in the perverse and unjust outcome of the offender not having to bear any real consequences for the further offending …” (at Paragraph 22)
+> “… Distinct offences should be punished separately with consecutive sentences so as to ensure that each legally-protected interest is properly vindicated. Otherwise, the imposition of concurrent sentences for unrelated offences would result in the perverse and unjust outcome of the offender not having to bear any real consequences for the further offending …” (at Paragraph 22)
 
 The cheating offences and the offence of drug possession are distinct offences with very different legally-protected interests to be properly vindicated.
 

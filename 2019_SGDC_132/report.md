@@ -25,7 +25,7 @@
 
 4       The charge against the defendant was as follows:
 
-You \[...\] are charged that you, on or before 23 January 2018, in Singapore, did consume a specified drug listed in the Fourth Schedule of the Misuse of Drugs Act (Cap. 185, 2008 Rev. Ed.) (“MDA”), to wit, morphine, without any authorisation under the MDA or the Regulations made thereunder and you have thereby committed an offence under section 8(b)(ii) of the MDA \[...\].
+> You \[...\] are charged that you, on or before 23 January 2018, in Singapore, did consume a specified drug listed in the Fourth Schedule of the Misuse of Drugs Act (Cap. 185, 2008 Rev. Ed.) (“MDA”), to wit, morphine, without any authorisation under the MDA or the Regulations made thereunder and you have thereby committed an offence under section 8(b)(ii) of the MDA \[...\].
 
 #### Prosecution’s case
 
@@ -47,9 +47,9 @@ You \[...\] are charged that you, on or before 23 January 2018, in Singapore, di
 
 10     Given that the defendant’s urine specimen was found by the HSA Analysts to contain morphine, a controlled drug, he was presumed under s 22 MDA to have consumed the drug, until the contrary is proved. Section 22 provides as follows:
 
-Presumption relating to urine test
+> Presumption relating to urine test
 
-22.    If any controlled drug is found in the urine of a person as a result of both urine tests conducted under section 31(4)(b) \[i.e., urine tests conducted by analysts of the HSA\], _he shall be presumed, until the contrary is proved, to have consumed that controlled drug_ in contravention of section 8(b).
+> 22.    If any controlled drug is found in the urine of a person as a result of both urine tests conducted under section 31(4)(b) \[i.e., urine tests conducted by analysts of the HSA\], _he shall be presumed, until the contrary is proved, to have consumed that controlled drug_ in contravention of section 8(b).
 
 #### Defence
 

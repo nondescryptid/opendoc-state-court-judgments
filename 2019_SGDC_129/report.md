@@ -13,17 +13,17 @@
 
 1       The accused pleaded guilty to the following three charges
 
-DAC 927775/2017
+> DAC 927775/2017
 
-You, on or about 28 April 2017, in Singapore, did consume a specified drug listed in the Fourth Schedule to the Misuse of Drugs Act (Cap 185, 2008 Rev Ed) (“MDA”), to wit, Norketamine, without authorisation under the MDA or the Regulations made thereunder, and you have thereby committed an offence under Section 8(b)(ii) and punishable under Section 33(1) of the MDA.
+> You, on or about 28 April 2017, in Singapore, did consume a specified drug listed in the Fourth Schedule to the Misuse of Drugs Act (Cap 185, 2008 Rev Ed) (“MDA”), to wit, Norketamine, without authorisation under the MDA or the Regulations made thereunder, and you have thereby committed an offence under Section 8(b)(ii) and punishable under Section 33(1) of the MDA.
 
-DAC 927776/2017
+> DAC 927776/2017
 
-You, on 28 April 2017, at about 12.20pm, at the entrance of the State Courts, Singapore, did have in your possession a Class A controlled drug listed in the First Schedule to the Misuse of Drugs Act (Cap 185, 2008 Rev Ed) (“MDA”), to wit, one packet containing not less than 0.16 gram of powdery substance which was analysed and found to contain not less than 0.09 gram of Ketamine, without authorisation under the MDA or the Regulations made thereunder, and you have thereby committed an offence under Section 8(a) and punishable under Section 33(1) of the MDA.
+> You, on 28 April 2017, at about 12.20pm, at the entrance of the State Courts, Singapore, did have in your possession a Class A controlled drug listed in the First Schedule to the Misuse of Drugs Act (Cap 185, 2008 Rev Ed) (“MDA”), to wit, one packet containing not less than 0.16 gram of powdery substance which was analysed and found to contain not less than 0.09 gram of Ketamine, without authorisation under the MDA or the Regulations made thereunder, and you have thereby committed an offence under Section 8(a) and punishable under Section 33(1) of the MDA.
 
-MAC 908214/2017
+> MAC 908214/2017
 
-You, on 22 June 2017, at or about 6.45pm, at the backlane between Lorong 14 Geylang and Lorong 16 Geylang, Singapore, which is a public place, did intentionally facilitate the commission of a game of “Big Small”, a game of chance for money, to wit, by setting up the makeshift gambling table, and you have thereby committed an offence punishable under Section 8(4) of the Common Gaming Houses Act (Cap 49, 1985 Rev Ed).
+> You, on 22 June 2017, at or about 6.45pm, at the backlane between Lorong 14 Geylang and Lorong 16 Geylang, Singapore, which is a public place, did intentionally facilitate the commission of a game of “Big Small”, a game of chance for money, to wit, by setting up the makeshift gambling table, and you have thereby committed an offence punishable under Section 8(4) of the Common Gaming Houses Act (Cap 49, 1985 Rev Ed).
 
 2       A further charge under s.8(b)(ii) of the Misuse of Drugs Act was taken into consideration. As the accused has appealed against the sentence imposed, I will now set out the reasons for my decision.
 
@@ -39,9 +39,9 @@ You, on 22 June 2017, at or about 6.45pm, at the backlane between Lorong 14 Geyl
 
 6       Analysts from the Health Sciences Authority issued the following:
 
-6.1     Two certificates under section 16 of the Misuse of Drugs Act stating that the accused’s urine sample was found to contain Norketamine, a Specified Drug listed in the Fourth Schedule to the Misuse of Drugs Act.
+> 6.1     Two certificates under section 16 of the Misuse of Drugs Act stating that the accused’s urine sample was found to contain Norketamine, a Specified Drug listed in the Fourth Schedule to the Misuse of Drugs Act.
 
-6.2     One certificate under section 16 of the Misuse of Drugs Act stating that the 0.16g of powdery substance contained not less than 0.09 grams of Ketamine, a Class A Controlled Drug.
+> 6.2     One certificate under section 16 of the Misuse of Drugs Act stating that the 0.16g of powdery substance contained not less than 0.09 grams of Ketamine, a Class A Controlled Drug.
 
 7       The accused consumed Norketamine before his arrest because he was stressed about his impending incarceration.
 
@@ -59,13 +59,13 @@ You, on 22 June 2017, at or about 6.45pm, at the backlane between Lorong 14 Geyl
 
 12     The accused has the following antecedents:
 
-12.1     In March 2008, the accused was placed on probation in relation to a charge of rioting and a charge of possession of uncensored films. He was placed on 21 months’ probation.
+> 12.1     In March 2008, the accused was placed on probation in relation to a charge of rioting and a charge of possession of uncensored films. He was placed on 21 months’ probation.
 
-12.2     In October 2008, the accused was convicted on charges of rioting, being armed with an offensive weapon, and voluntarily causing hurt by dangerous weapons or means. He was sentenced to a total of 2 years 6 months’ imprisonment and 9 strokes of the cane.
+> 12.2     In October 2008, the accused was convicted on charges of rioting, being armed with an offensive weapon, and voluntarily causing hurt by dangerous weapons or means. He was sentenced to a total of 2 years 6 months’ imprisonment and 9 strokes of the cane.
 
-12.3     In March 2016, the accused was convicted on a charge of assisting an unlicensed moneylender. He was sentenced to 4 weeks’ imprisonment and fined $30,000.
+> 12.3     In March 2016, the accused was convicted on a charge of assisting an unlicensed moneylender. He was sentenced to 4 weeks’ imprisonment and fined $30,000.
 
-12.4     In April 2017, the accused was convicted on two charges of instigating, promoting, or facilitating public gaming under s.8(4) of the Common Gaming Houses Act. He was sentenced to 3 weeks’ imprisonment and a fine of $20,000 per charge. The imprisonment terms were ordered to run concurrently.
+> 12.4     In April 2017, the accused was convicted on two charges of instigating, promoting, or facilitating public gaming under s.8(4) of the Common Gaming Houses Act. He was sentenced to 3 weeks’ imprisonment and a fine of $20,000 per charge. The imprisonment terms were ordered to run concurrently.
 
 ## PRESCRIBED PUNISHMENT
 
@@ -82,9 +82,9 @@ You, on 22 June 2017, at or about 6.45pm, at the backlane between Lorong 14 Geyl
 
 15     The DPP highlighted the following sentencing precedents:
 
-15.1      _PP v Koh Ah Chwee_ <span class="citation">\[2016\] SGDC 77</span>: The offender pleaded guilty to a total of 7 charges, including charges of consuming and possessing specified and controlled drugs respectively. The offender had committed those offences while he was on Court bail. A sentence of 12 months’ imprisonment was imposed on each of those charges. The total sentence imposed was 45 months’ imprisonment. The offender’s appeal against sentence was dismissed by the High Court.
+> 15.1      _PP v Koh Ah Chwee_ <span class="citation">\[2016\] SGDC 77</span>: The offender pleaded guilty to a total of 7 charges, including charges of consuming and possessing specified and controlled drugs respectively. The offender had committed those offences while he was on Court bail. A sentence of 12 months’ imprisonment was imposed on each of those charges. The total sentence imposed was 45 months’ imprisonment. The offender’s appeal against sentence was dismissed by the High Court.
 
-15.2      _PP v Mohamad Riduan Bin Saimon_ <span class="citation">\[2016\] SGDC 355</span>. The offender faced 3 separate charges of consumption of a specified drug on 3 separate occasions. Two of the consumption charges were committed while the offender was on bail. In addition, he also faced a trafficking charge. He was sentenced to 8, 10, and 12 months’ respectively for each of the consumption charges. In light of the other charges he faced, his total sentence was 7 years and 20 months’ imprisonment and 6 strokes of the cane. The offender discontinued his appeal.
+> 15.2      _PP v Mohamad Riduan Bin Saimon_ <span class="citation">\[2016\] SGDC 355</span>. The offender faced 3 separate charges of consumption of a specified drug on 3 separate occasions. Two of the consumption charges were committed while the offender was on bail. In addition, he also faced a trafficking charge. He was sentenced to 8, 10, and 12 months’ respectively for each of the consumption charges. In light of the other charges he faced, his total sentence was 7 years and 20 months’ imprisonment and 6 strokes of the cane. The offender discontinued his appeal.
 
 16     In respect of the Common Gaming Houses Act charge, the DPP noted that the accused had been sentenced to 3 weeks’ imprisonment and a fine of $20,000 for a similar offence. The DPP submitted that the sentencing precedents for repeat offences suggest a sentence of 6 weeks’ imprisonment and a fine of $40,000.
 
@@ -92,13 +92,13 @@ You, on 22 June 2017, at or about 6.45pm, at the backlane between Lorong 14 Geyl
 
 17     Counsel for the accused submitted a written mitigation plea which highlighted the following:
 
-17.1     The accused was married to foreign national and they have a young daughter. The accused is the sole breadwinner.
+> 17.1     The accused was married to foreign national and they have a young daughter. The accused is the sole breadwinner.
 
-17.2     The coming of his daughter placed additional responsibilities and expenses on the accused and this “stressed him deeply.”
+> 17.2     The coming of his daughter placed additional responsibilities and expenses on the accused and this “stressed him deeply.”
 
-17.3     The accused consumed drugs for “temporary relief, in a moment of folly and lapse of judgment.”
+> 17.3     The accused consumed drugs for “temporary relief, in a moment of folly and lapse of judgment.”
 
-17.4     In relation to the s.8(4) charge, the accused’s role was limited to setting up the table for gaming. He did not participate or promote the game thereafter.
+> 17.4     In relation to the s.8(4) charge, the accused’s role was limited to setting up the table for gaming. He did not participate or promote the game thereafter.
 
 ## DECISION ON SENTENCE
 
@@ -112,19 +112,19 @@ You, on 22 June 2017, at or about 6.45pm, at the backlane between Lorong 14 Geyl
 
 20     I was of the view that the sentencing range of 6 to 18 months’ imprisonment was applicable in the present case as the accused did not have any previous convictions under the Misuse of Drugs Act. I agreed with the prosecution that the sentence imposed should be at the higher end of the range for the following reasons:
 
-20.1     The accused committed the drug offences while on bail for other offences. The commission of an offence whilst on bail is an aggravating factor: _PP v Loqmanul Hakim Bin Buang_ <span class="citation">\[2007\] 4 SLR 753</span> at \[57\].
+> 20.1     The accused committed the drug offences while on bail for other offences. The commission of an offence whilst on bail is an aggravating factor: _PP v Loqmanul Hakim Bin Buang_ <span class="citation">\[2007\] 4 SLR 753</span> at \[57\].
 
-20.2     The sentencing precedents cited by the prosecution indicate that sentences at the higher end of the range have been imposed in relation to offences of possession and consumption of controlled drugs that were committed while on bail.
+> 20.2     The sentencing precedents cited by the prosecution indicate that sentences at the higher end of the range have been imposed in relation to offences of possession and consumption of controlled drugs that were committed while on bail.
 
-20.3     Before the accused went to the State Courts to ask for a deferment of sentence, he had consumed Norketamine. Furthermore, he had brought a controlled drug with him to the State Courts. Whether or not he brought it into the Courtroom itself or left it outside while his case was being mentioned, this was still a brazen act which suggested that a higher level of specific deterrence was necessary.
+> 20.3     Before the accused went to the State Courts to ask for a deferment of sentence, he had consumed Norketamine. Furthermore, he had brought a controlled drug with him to the State Courts. Whether or not he brought it into the Courtroom itself or left it outside while his case was being mentioned, this was still a brazen act which suggested that a higher level of specific deterrence was necessary.
 
 #### Common Gaming Houses Act – Sentencing Considerations
 
 21     I was of the view that a sentence of 6 weeks’ imprisonment and a fine of $30,000 was appropriate for the following reasons:
 
-21.1     In respect of the accused’s similar antecedent, a longer sentence would be justified on the principle that specific deterrence is necessary to curb his criminal activity. The interval between convictions is also relevant. However, the relevance of these antecedents is subject to an assessment of the precise facts before the court: see _PP v NF_ \[2006\] 4 SLRI 849 at \[69\]. In the present case, the accused was convicted on 28 April 2017 for identical offences under s.8(4) of the Common Gaming Houses Act. The present offence was committed on 22 June 2017, less than 2 months’ after his previous conviction. In light of these factors, I was of the view that specific deterrence was a relevant and applicable sentencing consideration.
+> 21.1     In respect of the accused’s similar antecedent, a longer sentence would be justified on the principle that specific deterrence is necessary to curb his criminal activity. The interval between convictions is also relevant. However, the relevance of these antecedents is subject to an assessment of the precise facts before the court: see _PP v NF_ \[2006\] 4 SLRI 849 at \[69\]. In the present case, the accused was convicted on 28 April 2017 for identical offences under s.8(4) of the Common Gaming Houses Act. The present offence was committed on 22 June 2017, less than 2 months’ after his previous conviction. In light of these factors, I was of the view that specific deterrence was a relevant and applicable sentencing consideration.
 
-21.2     I accepted Counsel’s mitigation that the accused’s role was relatively minor and I took this into account. Nevertheless, the fact remains that shortly after his April 2017 conviction, the accused made (or re-established) contact with the persons who organised these illegal gambling activities and had no qualms or second thoughts about assisting them.
+> 21.2     I accepted Counsel’s mitigation that the accused’s role was relatively minor and I took this into account. Nevertheless, the fact remains that shortly after his April 2017 conviction, the accused made (or re-established) contact with the persons who organised these illegal gambling activities and had no qualms or second thoughts about assisting them.
 
 #### General sentencing consideration – Accused’s dissimilar antecedents
 
@@ -134,11 +134,11 @@ You, on 22 June 2017, at or about 6.45pm, at the backlane between Lorong 14 Geyl
 
 23     After careful consideration, I passed the following sentences:
 
-23.1     DAC 927775/2017 – 12 months’ imprisonment
+> 23.1     DAC 927775/2017 – 12 months’ imprisonment
 
-23.2     DAC 92776/2017 – 12 months’ imprisonment
+> 23.2     DAC 92776/2017 – 12 months’ imprisonment
 
-23.3     MAC 908214/2017 – 6 weeks’ imprisonment and a fine of $30,000 (in default 3 weeks’ imprisonment)
+> 23.3     MAC 908214/2017 – 6 weeks’ imprisonment and a fine of $30,000 (in default 3 weeks’ imprisonment)
 
 24     I ordered the sentences in DAC 92775/2017 and MAC 908214/2017 to run consecutively for a total sentence of 12 months’ 6 weeks’ imprisonment and a fine of $30,000.
 

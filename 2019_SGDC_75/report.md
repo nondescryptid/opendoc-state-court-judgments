@@ -25,11 +25,11 @@ Civil Procedure – Fresh evidence
 
 3       Originally before me were three applications in the DC Suit. In order of filing date, they were:
 
-(a)     the Plaintiff’s application to strike out the counterclaim;
+> (a)     the Plaintiff’s application to strike out the counterclaim;
 
-(b)     the Defendant’s application to consolidate both suits and to transfer the suits to the High Court (“the HC”); and
+> (b)     the Defendant’s application to consolidate both suits and to transfer the suits to the High Court (“the HC”); and
 
-(c)     the Plaintiff’s application for summary judgment in the sum of $230,329.41 plus interest and costs.
+> (c)     the Plaintiff’s application for summary judgment in the sum of $230,329.41 plus interest and costs.
 
 A fourth application was filed by the defendant, after I had reserved judgment, seeking to adduce further evidence to resist summary judgment. I heard arguments at an adjourned hearing before rendering decision on all the applications.
 
@@ -39,11 +39,11 @@ A fourth application was filed by the defendant, after I had reserved judgment, 
 
 5       My grounds of decision below supplement and clarify the reasons I gave parties when I rendered my decision. It will not escape the parties’ notice that the reasons I gave previously were organised in a slightly different manner. On reflection, it seems clearest to explain my views:
 
-(a)     first, on the sequence in which these applications should be heard and decided;
+> (a)     first, on the sequence in which these applications should be heard and decided;
 
-(b)     next, on each of the individual applications in such sequence; and
+> (b)     next, on each of the individual applications in such sequence; and
 
-(c)     finally, on the costs of the applications.
+> (c)     finally, on the costs of the applications.
 
 ### How should the applications be heard and decided?
 
@@ -55,13 +55,13 @@ A fourth application was filed by the defendant, after I had reserved judgment, 
 
 9       The application for transfer of proceedings could be dealt with separately since the defendant was seeking to withdraw it. Having reflected on parties’ arguments, I consider that the remainder of the applications would ideally be approached in the following manner:
 
-(a)     first, to dispose of the application to adduce further evidence and to decide if the counterclaim in the DC Suit amounts to a set-off against the claim in the DC Suit and, in so doing, decide whether the counterclaim should be struck out;
+> (a)     first, to dispose of the application to adduce further evidence and to decide if the counterclaim in the DC Suit amounts to a set-off against the claim in the DC Suit and, in so doing, decide whether the counterclaim should be struck out;
 
-(b)     next, to consider if summary judgment should be granted (and if I should, consequent to the application to adduce further evidence, allow the plaintiff a reply affidavit);
+> (b)     next, to consider if summary judgment should be granted (and if I should, consequent to the application to adduce further evidence, allow the plaintiff a reply affidavit);
 
-(c)     third, to decide if the DC Suit and the MC Suit should be consolidated; and
+> (c)     third, to decide if the DC Suit and the MC Suit should be consolidated; and
 
-(d)     finally, to deal with the costs of all the applications.
+> (d)     finally, to deal with the costs of all the applications.
 
 10      **_First_**, the application to strike out a counterclaim appeared logically prior to the application for summary judgment on the principal claim because (at least on a _prima facie_ basis) the existence of the counterclaim may provide a ground to stay execution on any judgment that may be granted, and it might even amount to a defence of set-off, which would be a triable issue. The defendant argued in this case was that it was effectively compelled to plead identical counterclaims because the plaintiff had elected to split its claims across two suits. In my view, this did not require the striking out application to be decided after the other applications; it simply meant that the outcome of the striking out application might turn on an issue that is typically addressed in the context of the summary judgment application, _ie_, whether the counterclaim is capable of amounting to a set-off to the claims in the DC Suit.
 
@@ -101,7 +101,7 @@ A fourth application was filed by the defendant, after I had reserved judgment, 
 
 24     I agree with the argument that an application to adduce new evidence while a trial is subsisting should, all other things being equal, be treated more favourably than one at the appeal stage (_Singapore Court Practice 2016_ (Jeffrey Pinsler ed) (LexisNexis, 2016), para 35/4/18). Also, _Yah Binti Aji_ was eschewed in favour of _Ong Yoke Eng_ in _Tan Kah Khiam v Liew Chin Chuan and another_ <span class="citation">\[2007\] 2 MLJ 445</span> (CA, Putrajaya). At \[6\], Gopal Sri Ram JCA (delivering the judgment of the court) gave three reasons why the _Ladd_ principles should not apply:
 
-6    …the criteria for permitting a party at a trial to reopen its case for the purpose of either recalling a witness or calling fresh evidence are very different from those that govern the statutory jurisdiction of an appellate court to receive further evidence. Indeed they cannot be the same … \[First\], although an appeal is … by way of rehearing, **there are important constraints on an appellate court** \[_Chow Yee Wah & Anor v Choo Ah Pat_ <span class="citation">\[1978\] 2 MLJ 41</span> at p 42\]. Such constraints include the deference given by an appellate court to the audio-visual advantage enjoyed by the trial court. These constraints are absent at a trial. The trier of fact is yet to see and hear the witness whose evidence it is sought to be adduced by a re-opening of the case. \[Second\], the issue on an application to adduce further evidence before an appellate court is **whether the party seeking to adduce it could not by reasonable diligence have obtained it for use at the trial**. This **does not enter at all into the equation before the trial court**. \[Third\], **an application to adduce further evidence before an appellate court is temporally fixed**. That is to say, it is fixed at the point **when** all the evidence is in and the submissions are over and more importantly, the **trial judge has pronounced his views on the evidence before him**. What an applicant for further evidence at the appellate stage seeks to do is to persuade the court hearing the appeal that if the trial judge had the further evidence before him, he may, or even would, have come to a different conclusion. But that is not the position at the trial. For temporally speaking, whether the trial judge may exercise his discretion to permit the reopening of a party’s case will very much depend on the stage at which the application is made. It may be more likely that discretion may be exercised at the stage where the application is made immediately after a party closes his case. But it may be less likely that discretion will be favourably exercised where the application is made after the defendants have closed their case and just before the trial judge is about to pronounce his judgment. In the spectrum of factual possibilities that exist between each of these two extremes the exercise of discretion would, in my judgment, very much depend as to where the justice of the case lies having regard to the peculiar facts and circumstances before the court.
+> 6    …the criteria for permitting a party at a trial to reopen its case for the purpose of either recalling a witness or calling fresh evidence are very different from those that govern the statutory jurisdiction of an appellate court to receive further evidence. Indeed they cannot be the same … \[First\], although an appeal is … by way of rehearing, **there are important constraints on an appellate court** \[_Chow Yee Wah & Anor v Choo Ah Pat_ <span class="citation">\[1978\] 2 MLJ 41</span> at p 42\]. Such constraints include the deference given by an appellate court to the audio-visual advantage enjoyed by the trial court. These constraints are absent at a trial. The trier of fact is yet to see and hear the witness whose evidence it is sought to be adduced by a re-opening of the case. \[Second\], the issue on an application to adduce further evidence before an appellate court is **whether the party seeking to adduce it could not by reasonable diligence have obtained it for use at the trial**. This **does not enter at all into the equation before the trial court**. \[Third\], **an application to adduce further evidence before an appellate court is temporally fixed**. That is to say, it is fixed at the point **when** all the evidence is in and the submissions are over and more importantly, the **trial judge has pronounced his views on the evidence before him**. What an applicant for further evidence at the appellate stage seeks to do is to persuade the court hearing the appeal that if the trial judge had the further evidence before him, he may, or even would, have come to a different conclusion. But that is not the position at the trial. For temporally speaking, whether the trial judge may exercise his discretion to permit the reopening of a party’s case will very much depend on the stage at which the application is made. It may be more likely that discretion may be exercised at the stage where the application is made immediately after a party closes his case. But it may be less likely that discretion will be favourably exercised where the application is made after the defendants have closed their case and just before the trial judge is about to pronounce his judgment. In the spectrum of factual possibilities that exist between each of these two extremes the exercise of discretion would, in my judgment, very much depend as to where the justice of the case lies having regard to the peculiar facts and circumstances before the court.
 
 25     Nonetheless, I would not treat these as saying that the _Ladd_ criteria are entirely irrelevant at first instance. In my view, the _Ladd_ criteria remain useful in limiting the stringency with which the court treats an application to adduce further evidence. Indeed, both the parties’ submissions and my decision were took into account an adaptation of the _Ladd_ principles. The first criterion of unavailability can be approached by examining the reasons for not adducing the evidence earlier. (In the context of interlocutory appeals, the first criterion might not be rigorously policed, but the applicant still had to show sufficiently strong reasons why the fresh evidence was not adduced before the registrar (_Singapore Civil Procedure 2018_ (Foo Chee Hock gen ed) (Sweet & Maxwell, 2018) (“_Civil Procedure_”) at para 55B/1/3, citing _Lassiter Ann Masters v To Keng Lam_ <span class="citation">\[2004\] 2 SLR(R) 392</span>).) The second and third criteria can be approached by inquiring into the relevance and materiality of the evidence to the matter and the reliability of the evidence. More generally, an appellate court will insist on the _Ladd_ criteria more strictly if the matter had the characteristics of a full trial (_eg_, where oral evidence had been taken), even if it was an interlocutory hearing. That, in my view, is a matter that can also be considered at first instance.
 
@@ -125,13 +125,13 @@ A fourth application was filed by the defendant, after I had reserved judgment, 
 
 33     The Court may, under O 18 r 19(1), strike out any pleading if it:
 
-(a)     discloses no reasonable cause of action or defence, as the case may be;
+> (a)     discloses no reasonable cause of action or defence, as the case may be;
 
-(b)     is scandalous, frivolous or vexatious;
+> (b)     is scandalous, frivolous or vexatious;
 
-(c)     may prejudice, embarrass or delay the fair trial of the action; or
+> (c)     may prejudice, embarrass or delay the fair trial of the action; or
 
-(d)     is otherwise an abuse of Court process.
+> (d)     is otherwise an abuse of Court process.
 
 34      **_First_**, pleading identical counterclaims in two suits would appear to be vexatious and amount to an abuse of process. It was on these grounds a respondent’s statement of claim was struck out for being identical to the counterclaim in another suit brought against it by the applicant (_Terrestrial_ at \[13\]–\[14\] and \[21\]). The Court stated that the duplicate claim would waste court resources and increase costs. Similarly, it was vexatious and an abuse of process to bring two actions in the same court in respect of the same cause of action (_Bank of Canton Ltd v Dart Sum Timber (Pte) Ltd_ \[1977-1978\] SLR(R) 367 (CA) at \[23\]). This reasoning applies to a counterclaim as it effectively operates as a separate action for which the defendant acts as plaintiff (_Terrestrial_ at \[15\]).
 
@@ -185,11 +185,11 @@ A fourth application was filed by the defendant, after I had reserved judgment, 
 
 56     If, however, I was wrong to strike out the counterclaim, then I would have applied the following approach to determine if summary judgment should be granted (_Kim Seng Orchid Pte Ltd v Lim Kah Hin (trading as Yik Zhuan Orchid Garden)_ <span class="citation">\[2018\] 3 SLR 34</span> (HC) at \[98\]–\[99\] _per_ Chan Seng Onn J):
 
-(a)     First, consider if the counterclaim is plausible (_ie_, success at trial is reasonably possible). If not, summary judgment may be granted.
+> (a)     First, consider if the counterclaim is plausible (_ie_, success at trial is reasonably possible). If not, summary judgment may be granted.
 
-(b)     But, if so, the court should next determine if it amounts to a defence of set-off, whether legal or equitable. If set-off is available, unconditional leave to defend should be granted.
+> (b)     But, if so, the court should next determine if it amounts to a defence of set-off, whether legal or equitable. If set-off is available, unconditional leave to defend should be granted.
 
-(c)     But, if not, the court may give judgment and then determine if execution should be stayed pending the disposal of the counterclaim, having regard to whether the claim and counterclaim are sufficiently connected and whether there are grounds to stay execution.
+> (c)     But, if not, the court may give judgment and then determine if execution should be stayed pending the disposal of the counterclaim, having regard to whether the claim and counterclaim are sufficiently connected and whether there are grounds to stay execution.
 
 (I)   Whether leave to defend could have been granted
 
@@ -243,31 +243,31 @@ A fourth application was filed by the defendant, after I had reserved judgment, 
 
 77     In summary, my orders were as follows:
 
-(a)     on the application to adduce further evidence to resist the summary judgment application:
+> (a)     on the application to adduce further evidence to resist the summary judgment application:
 
-(i)       order in terms of the prayer for leave to file a further affidavit; and
+>> (i)       order in terms of the prayer for leave to file a further affidavit; and
 
-(ii)       no order as to costs;
+>> (ii)       no order as to costs;
 
-(b)     on the application to strike out the counterclaim:
+> (b)     on the application to strike out the counterclaim:
 
-(i)       order in terms of the prayer to strike out the counterclaim (_ie_, paragraphs 6–15 of the Defence & Counterclaim (Amendment No 1)); and
+>> (i)       order in terms of the prayer to strike out the counterclaim (_ie_, paragraphs 6–15 of the Defence & Counterclaim (Amendment No 1)); and
 
-(ii)       that the defendant pay the plaintiff costs of this application fixed at $3,000.00 plus GST thereon and disbursements to be taxed if neither agreed nor fixed upon a request made within 14 days of my order;
+>> (ii)       that the defendant pay the plaintiff costs of this application fixed at $3,000.00 plus GST thereon and disbursements to be taxed if neither agreed nor fixed upon a request made within 14 days of my order;
 
-(c)     on the application for summary judgment:
+> (c)     on the application for summary judgment:
 
-(i)       order in terms of the prayer for summary judgment in the sum of $230,329.41 plus interest at 5.33% per annum from the date of writ to the date of judgment; and
+>> (i)       order in terms of the prayer for summary judgment in the sum of $230,329.41 plus interest at 5.33% per annum from the date of writ to the date of judgment; and
 
-(ii)       that the defendant pay the plaintiff costs of this application and this action fixed at $8,000.00 plus GST thereon and disbursements to be taxed if neither agreed nor fixed upon a request made within 14 days of my order; and
+>> (ii)       that the defendant pay the plaintiff costs of this application and this action fixed at $8,000.00 plus GST thereon and disbursements to be taxed if neither agreed nor fixed upon a request made within 14 days of my order; and
 
-(d)     on the application for consolidation and transfer of proceedings:
+> (d)     on the application for consolidation and transfer of proceedings:
 
-(i)       leave to withdraw the prayer for transfer of proceedings to the HC;
+>> (i)       leave to withdraw the prayer for transfer of proceedings to the HC;
 
-(ii)       no order on the other prayers apart from costs; and
+>> (ii)       no order on the other prayers apart from costs; and
 
-(iii)       that the defendant pay the plaintiff costs of this application fixed at $2,000.00 plus GST thereon and disbursements to be taxed if neither agreed nor fixed upon a request made within 14 days of my order.
+>> (iii)       that the defendant pay the plaintiff costs of this application fixed at $2,000.00 plus GST thereon and disbursements to be taxed if neither agreed nor fixed upon a request made within 14 days of my order.
 
 78     The defendant has appealed my decisions on the striking out, consolidation, and summary judgment applications.
 

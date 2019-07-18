@@ -17,35 +17,35 @@ The police raided a flat for suspected vice activities and found a group of wome
 
 2       I set out the charge against the accused for easy reference:
 
-You…are charged that you, on 28 August 2018, at or about 2.45 a.m., at Block 356B Admiralty Drive #XXX, Sun Bliss, Singapore, did voluntarily cause hurt to one SC/Sergeant Tan Jun Hong, a public servant in the discharge of his duty as such public servant, to wit, by biting his right forearm with intent to prevent the said SC/Sergeant Tan Jun Hong from discharging his duty as such public servant, and you have thereby committed an offence punishable under section 332 of the Penal Code (Cap 224, 2008 Rev Ed).
+> You…are charged that you, on 28 August 2018, at or about 2.45 a.m., at Block 356B Admiralty Drive #XXX, Sun Bliss, Singapore, did voluntarily cause hurt to one SC/Sergeant Tan Jun Hong, a public servant in the discharge of his duty as such public servant, to wit, by biting his right forearm with intent to prevent the said SC/Sergeant Tan Jun Hong from discharging his duty as such public servant, and you have thereby committed an offence punishable under section 332 of the Penal Code (Cap 224, 2008 Rev Ed).
 
 ## Statement of Facts
 
 3       The accused admitted to the statement of facts (“SOF”) presented by the prosecution without qualification. The SOF is set out in its entirety as follows:
 
-1.    The accused is He Yan, a 32-year old female Chinese national and holder of FIN: XXX (date of birth: 13 April 1987). She was in Singapore on a work permit and resided at Block 356B Admiralty Drive #XXX, Sun Bliss, Singapore (“the Flat”).
+> 1.    The accused is He Yan, a 32-year old female Chinese national and holder of FIN: XXX (date of birth: 13 April 1987). She was in Singapore on a work permit and resided at Block 356B Admiralty Drive #XXX, Sun Bliss, Singapore (“the Flat”).
 
-2.    The victim is Tan Jun Hong, a 20 year old male Singaporean. At the material time, he was a police officer (national service) attached to Sembawang NPC and held the rank of SC/Sergeant.
+> 2.    The victim is Tan Jun Hong, a 20 year old male Singaporean. At the material time, he was a police officer (national service) attached to Sembawang NPC and held the rank of SC/Sergeant.
 
-3.    The witnesses are:
+> 3.    The witnesses are:
 
-a.    Reagan Heng Loong Jin, a 28 year old male Singaporean. At the material time, he was a police officer attached to Ang Mo Kio Division Crime Control Unit and held the rank of Sergeant (2) (“Sgt Heng”).
+>> a.    Reagan Heng Loong Jin, a 28 year old male Singaporean. At the material time, he was a police officer attached to Ang Mo Kio Division Crime Control Unit and held the rank of Sergeant (2) (“Sgt Heng”).
 
-b.    Hoe Zulin Jocelyn, a 25 year old female Singaporean. At the material time, she was a police officer attached to Ang Mo Kio Division Crime Control Unit and held the rank of Sergeant (2) (“Sgt Hoe”).
+>> b.    Hoe Zulin Jocelyn, a 25 year old female Singaporean. At the material time, she was a police officer attached to Ang Mo Kio Division Crime Control Unit and held the rank of Sergeant (2) (“Sgt Hoe”).
 
-FACTS RELATING TO THE CHARGE
+> FACTS RELATING TO THE CHARGE
 
-4.    On 28 August 2018 at about 1.05 a.m., a party of police officers consisting of the victim and the witnesses proceeded to the Flat to investigate into a complaint concerning vice activities. Upon reaching the Flat, the police officers found the accused and some other women. After interviewing them, the police officers placed the accused and the other women under arrest on suspicion of having engaged in vice activities.
+> 4.    On 28 August 2018 at about 1.05 a.m., a party of police officers consisting of the victim and the witnesses proceeded to the Flat to investigate into a complaint concerning vice activities. Upon reaching the Flat, the police officers found the accused and some other women. After interviewing them, the police officers placed the accused and the other women under arrest on suspicion of having engaged in vice activities.
 
-5.    Sgt Hoe and Sgt Heng informed the accused that she would be brought back to the police station and asked her to pack her belongings. The accused was reluctant. As such, Sgt Hoe and Sgt Heng decided to place handcuffs on the accused and approached her. The accused remained uncooperative. She lay down on a bed with her arms and legs flailing and tried to kick Sgt Hoe away in order to resist arrest. Sgt Heng then held her left arm to the bed while another police officer held her right arm.
+> 5.    Sgt Hoe and Sgt Heng informed the accused that she would be brought back to the police station and asked her to pack her belongings. The accused was reluctant. As such, Sgt Hoe and Sgt Heng decided to place handcuffs on the accused and approached her. The accused remained uncooperative. She lay down on a bed with her arms and legs flailing and tried to kick Sgt Hoe away in order to resist arrest. Sgt Heng then held her left arm to the bed while another police officer held her right arm.
 
-6.    Gradually, Sgt Heng propped the accused up into a sitting position and tried to bend her left arm to her back in order to handcuff her. The accused tried to bite Sgt Heng’s left arm but Sgt Heng moved his arm out of the way.
+> 6.    Gradually, Sgt Heng propped the accused up into a sitting position and tried to bend her left arm to her back in order to handcuff her. The accused tried to bite Sgt Heng’s left arm but Sgt Heng moved his arm out of the way.
 
-7.    At this juncture, **the victim came to assist Sgt Heng in arresting the accused and tried to stop the accused from struggling. He placed his right hand on the accused’s shoulder. The accused then turned her head towards her left and bit the victim’s right forearm. The victim pulled his hand away immediately.** The accused was subsequently handcuffed and brought back to Ang Mo Kio Divisional Headquarters.
+> 7.    At this juncture, **the victim came to assist Sgt Heng in arresting the accused and tried to stop the accused from struggling. He placed his right hand on the accused’s shoulder. The accused then turned her head towards her left and bit the victim’s right forearm. The victim pulled his hand away immediately.** The accused was subsequently handcuffed and brought back to Ang Mo Kio Divisional Headquarters.
 
-8.    The victim was subsequently seen at the Acute and Emergency Care Centre of Khoo Teck Puat Hospital on the same day by Dr. Hiew Shen Yong. He was found to have suffered a superficial bite mark on his right forearm. He was given a tetanus toxoid vaccination and had his wound dressed. He was given 1 day of medical leave.
+> 8.    The victim was subsequently seen at the Acute and Emergency Care Centre of Khoo Teck Puat Hospital on the same day by Dr. Hiew Shen Yong. He was found to have suffered a superficial bite mark on his right forearm. He was given a tetanus toxoid vaccination and had his wound dressed. He was given 1 day of medical leave.
 
-9.    By virtue of the foregoing, the accused did voluntarily cause hurt to the victim, a public servant in the discharge of his duty as such public servant, by biting his right forearm with intent to prevent the victim from discharging his duty as such public servant. She has thus committed an offence punishable under section 332 of the Penal Code (Cap 224, 2008 Rev Ed) and is charged accordingly.
+> 9.    By virtue of the foregoing, the accused did voluntarily cause hurt to the victim, a public servant in the discharge of his duty as such public servant, by biting his right forearm with intent to prevent the victim from discharging his duty as such public servant. She has thus committed an offence punishable under section 332 of the Penal Code (Cap 224, 2008 Rev Ed) and is charged accordingly.
 
 (emphasis added)
 

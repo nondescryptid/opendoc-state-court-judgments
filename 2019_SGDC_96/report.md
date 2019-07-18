@@ -120,15 +120,15 @@
 
 38     In coming to my decision, I took into account the following:
 
-(a)     The six proceeded charges took place over the course of _three_ separate incidents and arrests;
+> (a)     The six proceeded charges took place over the course of _three_ separate incidents and arrests;
 
-(b)     Two sets of offences had been committed while the accused was on station bail and court bail respectively and in fact, the third set of offences was committed only a week after the second set of offences;
+> (b)     Two sets of offences had been committed while the accused was on station bail and court bail respectively and in fact, the third set of offences was committed only a week after the second set of offences;
 
-(c)     The accused had previously served a global term of 10 years’ imprisonment and nine strokes of the cane for drug related offences;
+> (c)     The accused had previously served a global term of 10 years’ imprisonment and nine strokes of the cane for drug related offences;
 
-(d)     He committed the first set of offences only about a year after his release from prison; and
+> (d)     He committed the first set of offences only about a year after his release from prison; and
 
-(e)     There were 11 remaining charges taken into consideration, including three enhanced possession charges and four LT2 charges. There were also multiple types of illegal drugs involved.
+> (e)     There were 11 remaining charges taken into consideration, including three enhanced possession charges and four LT2 charges. There were also multiple types of illegal drugs involved.
 
 39     Having considered the above, I was of the view that it was both appropriate and necessary to run three of the sentences consecutively in order to properly reflect the extent of the accused’s criminality. Despite having been arrested in November 2017, the accused remained unrepentant and went on to commit more drug related offences on two further occasions. To only run two of the sentences consecutively would lead to the perverse and unjust outcome of the accused effectively not being punished for one of the occasions. I saw no reason to afford him such a discount. Such an approach also did not offend the _one-transaction rule_, since the three offences ordered to run consecutively took place on separate occasions and were unrelated to one another.
 

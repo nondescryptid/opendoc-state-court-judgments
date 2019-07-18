@@ -25,13 +25,13 @@
 
 5       The defendant pleaded guilty to the following two charges:
 
-DAC-901741-2019 (1st Charge)
+> DAC-901741-2019 (1st Charge)
 
-You \[...\] are charged that you, on a day in **May 2018**, in Tampines, Singapore, being a site manager of Ramo Industries Pte Ltd and Fenzhii Engineering Services Pte Ltd, did corruptly give gratification of **$400** to Tung Chee Keong and Chandran Jeganathan of Killem Pest Pte Ltd, as a reward for giving you advance notification of inspection by Killem Pest and National Environmental Agency (“NEA”) and you have thereby committed an offence punishable under Section 6(b) of the Prevention of Corruption Act (Chapter 241).
+> You \[...\] are charged that you, on a day in **May 2018**, in Tampines, Singapore, being a site manager of Ramo Industries Pte Ltd and Fenzhii Engineering Services Pte Ltd, did corruptly give gratification of **$400** to Tung Chee Keong and Chandran Jeganathan of Killem Pest Pte Ltd, as a reward for giving you advance notification of inspection by Killem Pest and National Environmental Agency (“NEA”) and you have thereby committed an offence punishable under Section 6(b) of the Prevention of Corruption Act (Chapter 241).
 
-DAC-901742-2019 (2nd Charge)
+> DAC-901742-2019 (2nd Charge)
 
-You \[...\] are charged that you, on a day in **June 2018**, in Tampines, Singapore, being a site manager of Ramo Industries Pte Ltd and Fenzhii Engineering Services Pte Ltd, did corruptly give gratification of **$400** to Tung Chee Keong and Chandran Jeganathan of Killem Pest Pte Ltd, as a reward for giving you advance notification of inspection by Killem Pest and National Environmental Agency (“NEA”) and you have thereby committed an offence punishable under Section 6(b) of the Prevention of Corruption Act (Chapter 241).
+> You \[...\] are charged that you, on a day in **June 2018**, in Tampines, Singapore, being a site manager of Ramo Industries Pte Ltd and Fenzhii Engineering Services Pte Ltd, did corruptly give gratification of **$400** to Tung Chee Keong and Chandran Jeganathan of Killem Pest Pte Ltd, as a reward for giving you advance notification of inspection by Killem Pest and National Environmental Agency (“NEA”) and you have thereby committed an offence punishable under Section 6(b) of the Prevention of Corruption Act (Chapter 241).
 
 #### Facts
 
@@ -53,11 +53,11 @@ You \[...\] are charged that you, on a day in **June 2018**, in Tampines, Singap
 
 13     Three other charges were taken into consideration for the purposes of sentencing. The charges related to bribes paid by the defendant to Tung and Chandran on the following occasions:
 
-(a)     a bribe of $100 in July 2018 (DAC-901743-2019);
+> (a)     a bribe of $100 in July 2018 (DAC-901743-2019);
 
-(b)     a bribe of $300 in July 2018 (DAC-901744-2019); and
+> (b)     a bribe of $300 in July 2018 (DAC-901744-2019); and
 
-(c)     a bribe of $400 in August 2018 (DAC-901745-2019).
+> (c)     a bribe of $400 in August 2018 (DAC-901745-2019).
 
 ## SENTENCE
 

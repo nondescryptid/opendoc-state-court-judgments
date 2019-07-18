@@ -27,19 +27,19 @@
 
 6       The defendant was tried, and at the end of the trial found guilty and convicted, on the following charge:
 
-You \[...\] are charged that you, on the 7th day of January 2017 at or about 8.13 a.m., at Block 632A Senja Road #XXX Singapore, did voluntarily cause grievous hurt to one Maenakadevi d/o Nagalingam (“Maenakadevi”), _to wit_, by using a chopper measuring about 30 cm, an instrument used for stabbing or cutting, to slash the said Maenakadevi, causing her to sustain injuries including:
+> You \[...\] are charged that you, on the 7th day of January 2017 at or about 8.13 a.m., at Block 632A Senja Road #XXX Singapore, did voluntarily cause grievous hurt to one Maenakadevi d/o Nagalingam (“Maenakadevi”), _to wit_, by using a chopper measuring about 30 cm, an instrument used for stabbing or cutting, to slash the said Maenakadevi, causing her to sustain injuries including:
 
-i.    Laceration on the right lateral aspect on the right wrist 5-cm, exposing the tendon but sensation remained intact on right fingers; and
+>> i.    Laceration on the right lateral aspect on the right wrist 5-cm, exposing the tendon but sensation remained intact on right fingers; and
 
-ii.    Displaced oblique fracture of the 2nd metacarpal proximal shaft.
+>> ii.    Displaced oblique fracture of the 2nd metacarpal proximal shaft.
 
-and you have thereby committed an offence punishable under Section 326 of the Penal Code, Chapter 224 (2008 Rev. Ed.).
+> and you have thereby committed an offence punishable under Section 326 of the Penal Code, Chapter 224 (2008 Rev. Ed.).
 
 7       Section 326 of the Penal Code provides:
 
-Voluntarily causing grievous hurt by dangerous weapons or means
+> Voluntarily causing grievous hurt by dangerous weapons or means
 
-326.  Whoever, except in the case provided for by section 335, _voluntarily causes grievous hurt by means of any instrument for_ shooting, _stabbing or cutting_, or any instrument which, used as a weapon of offence, is likely to cause death, or by means of fire or any heated substance, or by means of any poison or any corrosive substance, or by means of any explosive substance, or by means of any substance which it is deleterious to the human body to inhale, to swallow, or to receive into the blood, or by means of any animal, shall be punished with imprisonment for life, or with imprisonment for a term which may extend to 15 years, and shall also be liable to fine or to caning.
+> 326.  Whoever, except in the case provided for by section 335, _voluntarily causes grievous hurt by means of any instrument for_ shooting, _stabbing or cutting_, or any instrument which, used as a weapon of offence, is likely to cause death, or by means of fire or any heated substance, or by means of any poison or any corrosive substance, or by means of any explosive substance, or by means of any substance which it is deleterious to the human body to inhale, to swallow, or to receive into the blood, or by means of any animal, shall be punished with imprisonment for life, or with imprisonment for a term which may extend to 15 years, and shall also be liable to fine or to caning.
 
 #### Prosecution’s case
 
@@ -101,11 +101,11 @@ Voluntarily causing grievous hurt by dangerous weapons or means
 
 27     The gist of her later testimony was as follows:[^9]
 
-(a)     It was true that on that day in question, her hand was cut and she was injured. But that was a result of the struggle when the defendant tried to pull the knife from her. It was she who was holding on to the knife. He tried to pull it away from her. As a result her hand was cut. She did not wish to blame the defendant for this, because it was her mistake, because she wanted to kill herself using the knife.
+> (a)     It was true that on that day in question, her hand was cut and she was injured. But that was a result of the struggle when the defendant tried to pull the knife from her. It was she who was holding on to the knife. He tried to pull it away from her. As a result her hand was cut. She did not wish to blame the defendant for this, because it was her mistake, because she wanted to kill herself using the knife.
 
-(b)     As regards her evidence on 31 October 2018, she said that when she was shown her statement (by the prosecutor before the trial), she told the prosecutor that she was not able to recall what happened. But she was told this was the statement she had given, this was what had happened, and she had to stick to it. As such, she just followed whatever was written in the statement. But when she went back home, she felt guilty. She thought about it. It was her mistake and she had to rectify it. She did not want an innocent person to be punished for something he did not do. And that was the reason she wrote the letter dated 22 November 2018 (Exh A). After that she received the summons (on 17 December 2018) to come to court. She then wrote the second letter (Exh B) to inform the court that she did not want to come to testify (as she was suffering from depression).
+> (b)     As regards her evidence on 31 October 2018, she said that when she was shown her statement (by the prosecutor before the trial), she told the prosecutor that she was not able to recall what happened. But she was told this was the statement she had given, this was what had happened, and she had to stick to it. As such, she just followed whatever was written in the statement. But when she went back home, she felt guilty. She thought about it. It was her mistake and she had to rectify it. She did not want an innocent person to be punished for something he did not do. And that was the reason she wrote the letter dated 22 November 2018 (Exh A). After that she received the summons (on 17 December 2018) to come to court. She then wrote the second letter (Exh B) to inform the court that she did not want to come to testify (as she was suffering from depression).
 
-(c)     When the statement was being taken from her at the hospital she was feeling sleepy and dizzy. She did not read her statement at the hospital. It was the IO who read out something to her and told her to append her thumbprint. She was half conscious when she fixed her thumbprint on the statement. She subsequently did mention to the IO that she would like to have the case withdrawn but he did not allow it.
+> (c)     When the statement was being taken from her at the hospital she was feeling sleepy and dizzy. She did not read her statement at the hospital. It was the IO who read out something to her and told her to append her thumbprint. She was half conscious when she fixed her thumbprint on the statement. She subsequently did mention to the IO that she would like to have the case withdrawn but he did not allow it.
 
 28     Following her testimony, a rebuttal witness was called by the prosecution. The recorder of the Victim’s statement, Inspector Crystal Goh (PW9, “**Insp Goh**”) was called to testify to the circumstances under which the Victim’s statement was recorded. Insp Goh testified[^10] that she went to the hospital (Ng Teng Fong General Hospital) twice that day (7 January 2017). She first saw the Victim at the hospital at about 9.10 am. This was to check the Victim’s injuries to ascertain that they were not life-threatening and to ascertain “how it happened and who did it”. It was a preliminary interview to gather facts. She observed the Victim to be conscious but not lucid. The Victim informed that she was slashed by her boyfriend due to a dispute over drugs. Insp Goh took down some notes but did not record a statement from the Victim that morning as the Victim was going into an operation for her injury. Insp Goh left the hospital at about 1 pm.
 

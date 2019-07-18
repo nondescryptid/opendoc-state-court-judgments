@@ -25,25 +25,25 @@
 
 **1st CHARGE (AMENDED) - DAC 904169-2018**
 
-You … are charged that you, on the 21st day of August 2017 at or about 12.30am., in the vicinity of Blk 575 Hougang Street 51, Singapore, together with:
+> You … are charged that you, on the 21st day of August 2017 at or about 12.30am., in the vicinity of Blk 575 Hougang Street 51, Singapore, together with:
 
-(B1)   Muhammad Furqan Firdaus Bin Mohamad Sazali;
+>> (B1)   Muhammad Furqan Firdaus Bin Mohamad Sazali;
 
-(B2)   Vickneswaran S/O Vangades Varan;
+>> (B2)   Vickneswaran S/O Vangades Varan;
 
-(B3)   Muhammad Rohaizat Bin Juraimy;
+>> (B3)   Muhammad Rohaizat Bin Juraimy;
 
-(B4)   Muhammad Al Amin Bin Abdul Latiff;
+>> (B4)   Muhammad Al Amin Bin Abdul Latiff;
 
-(B6)   Muhammad Darwiis Bin Zainudin;
+>> (B6)   Muhammad Darwiis Bin Zainudin;
 
-(B7)   Nurul Eizwan Bin Sulaimi;
+>> (B7)   Nurul Eizwan Bin Sulaimi;
 
-(B8)   Muhammad Zulfiqarl Bin Mohamed Rudy;
+>> (B8)   Muhammad Zulfiqarl Bin Mohamed Rudy;
 
-(B9)   Benjamin Ang Wee Hao; and
+>> (B9)   Benjamin Ang Wee Hao; and
 
-were members of an unlawful assembly whose common object was to cause hurt to one Lim Jia Cai, Kenny, and one Teo Yue Teck, Frederick, and in prosecution of the said common object of the said assembly, some or all of you did use violence on the said Lim Jia Cai, Kenny and Teo Yue Teck, Frederick, _to wit_, by pushing, punching and kicking the said Lim Jia Cai, Kenny and Teo Yue Teck, Frederick, and you have thereby committed an offence of rioting punishable under Section 147 of the Penal Code (Chapter 224, 2008 Rev Ed).
+> were members of an unlawful assembly whose common object was to cause hurt to one Lim Jia Cai, Kenny, and one Teo Yue Teck, Frederick, and in prosecution of the said common object of the said assembly, some or all of you did use violence on the said Lim Jia Cai, Kenny and Teo Yue Teck, Frederick, _to wit_, by pushing, punching and kicking the said Lim Jia Cai, Kenny and Teo Yue Teck, Frederick, and you have thereby committed an offence of rioting punishable under Section 147 of the Penal Code (Chapter 224, 2008 Rev Ed).
 
 ## Statement of Facts
 
@@ -53,49 +53,49 @@ were members of an unlawful assembly whose common object was to cause hurt to on
 
 7       The accomplices are:
 
-a.    (B1) Muhammad Furqan Firdaus Bin Mohamad Sazali (“**Furqan**”), male, 18 years old (D.O.B.: 23 June 2000), Singaporean (NRIC No. XXX). He is a student at ITE College East.
+> a.    (B1) Muhammad Furqan Firdaus Bin Mohamad Sazali (“**Furqan**”), male, 18 years old (D.O.B.: 23 June 2000), Singaporean (NRIC No. XXX). He is a student at ITE College East.
 
-b.    (B2) Vickneswaran s/o Vangades Varan (“**Vickneswaran**”), male, 18 years old (D.O.B.: 12 February 2000), Singaporean (NRIC No. XXX). He is a student at ITE College Central.
+> b.    (B2) Vickneswaran s/o Vangades Varan (“**Vickneswaran**”), male, 18 years old (D.O.B.: 12 February 2000), Singaporean (NRIC No. XXX). He is a student at ITE College Central.
 
-c.    (B3) Muhammad Rohaizat Bin Juraimy (“**Rohaizat**”), male, 22 years old (D.O.B.: 26 March 1996), Singaporean (NRIC No. XXX). He is working as a delivery man.
+> c.    (B3) Muhammad Rohaizat Bin Juraimy (“**Rohaizat**”), male, 22 years old (D.O.B.: 26 March 1996), Singaporean (NRIC No. XXX). He is working as a delivery man.
 
-d.    (B4) Muhammad Al Amin Bin Abdul Latiff (“**Amin**”), male, 18 years old (D.O.B.: 6 March 2000), Singaporean (NRIC No. XXX). He is a student at ITE College Central.
+> d.    (B4) Muhammad Al Amin Bin Abdul Latiff (“**Amin**”), male, 18 years old (D.O.B.: 6 March 2000), Singaporean (NRIC No. XXX). He is a student at ITE College Central.
 
-e.    (B6) Muhammad Darwiis Bin Zainudin (“**Darwiis**”), male, 22 years old (D.O.B.: 22 October 1996), Singaporean (NRIC No. XXX). He was serving his National Service with SAF at the material time.
+> e.    (B6) Muhammad Darwiis Bin Zainudin (“**Darwiis**”), male, 22 years old (D.O.B.: 22 October 1996), Singaporean (NRIC No. XXX). He was serving his National Service with SAF at the material time.
 
-f.    (B7) Nurul Eizwan Bin Sulaimi (“**Eizwan**”), male, 18 years old (D.O.B.: 26 August 2000), Singaporean (NRIC No. XXX). He is a student at ITE College Central.
+> f.    (B7) Nurul Eizwan Bin Sulaimi (“**Eizwan**”), male, 18 years old (D.O.B.: 26 August 2000), Singaporean (NRIC No. XXX). He is a student at ITE College Central.
 
-g.    (B8) Muhammad Zulfiqarl Bin Muhamed Rudy (“**Zulfiqarl**”), male, 22 years old (D.O.B.: 29 January 1996), Singaporean (NRIC No. XXX). He is working as a packer.
+> g.    (B8) Muhammad Zulfiqarl Bin Muhamed Rudy (“**Zulfiqarl**”), male, 22 years old (D.O.B.: 29 January 1996), Singaporean (NRIC No. XXX). He is working as a packer.
 
-h.    (B9) Benjamin Ang Wee Hao (“**Benjamin**”), male, 18 years old (D.O.B.: 16 March 2000), Singaporean (NRIC No. XXX). He is unemployed, and is the ex-boyfriend of A3.
+> h.    (B9) Benjamin Ang Wee Hao (“**Benjamin**”), male, 18 years old (D.O.B.: 16 March 2000), Singaporean (NRIC No. XXX). He is unemployed, and is the ex-boyfriend of A3.
 
-i.    (B10) Aloysius Cheng Kai Yuan (“**Aloysius**”), male, 21 years old (Date of Birth: 19 January 1997), Singaporean (NRIC No. XXX). At the material time, he was 20 years old and was unemployed.
+> i.    (B10) Aloysius Cheng Kai Yuan (“**Aloysius**”), male, 21 years old (Date of Birth: 19 January 1997), Singaporean (NRIC No. XXX). At the material time, he was 20 years old and was unemployed.
 
 8       Vickneswaran and Rohaizat are members of Ang Soon Tong secret society. Amin, Benjamin and Aloysius are members of Hai Lok San secret society of the ‘108’ group, and Darwiis and Zulfiqarl are members of Sio Kun Tong secret society.
 
 9       The victims are:
 
-a.     (A1) Lim Jia Cai Kenny, a 19-year-old Male Singaporean (“**Kenny**”);and
+> a.     (A1) Lim Jia Cai Kenny, a 19-year-old Male Singaporean (“**Kenny**”);and
 
-b.     (A2) Frederick Teo Yue Teck, a 22-year-old Male Singaporean (“**Frederick**”). He is Kenny’s friend.
+> b.     (A2) Frederick Teo Yue Teck, a 22-year-old Male Singaporean (“**Frederick**”). He is Kenny’s friend.
 
 10     The witnesses are:
 
-a.     (A3) Andrea Mok Yuen Yee, an 18-year-old, female, Singaporean. At the material time, she was Benjamin’s ex-girlfriend.
+> a.     (A3) Andrea Mok Yuen Yee, an 18-year-old, female, Singaporean. At the material time, she was Benjamin’s ex-girlfriend.
 
-b.     (A4) Ng Wuang Chin, a 26-year-old Female Singaporean. At the material time, she was Frederick’s girlfriend.
+> b.     (A4) Ng Wuang Chin, a 26-year-old Female Singaporean. At the material time, she was Frederick’s girlfriend.
 
-c.     (A5) Praveen s/o K Krishnan, a 19-year-old Male Singaporean. He is Kenny’s friend.
+> c.     (A5) Praveen s/o K Krishnan, a 19-year-old Male Singaporean. He is Kenny’s friend.
 
-d.     (A6) Tan Darren, a 17-year-old Male Singaporean. He is Benjamin’s friend.
+> d.     (A6) Tan Darren, a 17-year-old Male Singaporean. He is Benjamin’s friend.
 
-e.     (A7) Tan Wei Lun, a 17-year-old Male Singaporean. He is Benjamin’s friend.
+> e.     (A7) Tan Wei Lun, a 17-year-old Male Singaporean. He is Benjamin’s friend.
 
 ## First Information Report
 
 11     On 21 August 2017 at around 12.30 am, Police received a ‘999’call with the message:
 
-“**_About 15 to 20 boys are running and shouting. They are screaming like ‘Mati Mati’. Like they are fighting_**.”
+> “**_About 15 to 20 boys are running and shouting. They are screaming like ‘Mati Mati’. Like they are fighting_**.”
 
 The incident location given was Blk 575 Hougang Street 51, Singapore.
 
@@ -125,11 +125,11 @@ The incident location given was Blk 575 Hougang Street 51, Singapore.
 
 23     Kenny sought medical treatment at Singapore General Hospital (“SGH”) on 23 August 2017. The SGH medical report dated 4 September 2017 stated that Kenny sustained:
 
-a.     Tenderness over his nose bridge, right post-auricular region, mid back and right mid forearm;
+> a.     Tenderness over his nose bridge, right post-auricular region, mid back and right mid forearm;
 
-b.     1cm bruise over the corner of his right eye;
+> b.     1cm bruise over the corner of his right eye;
 
-c.     An elongated contusion mark of 1cm in width and 5cm in length over his right shoulder posteriorly.
+> c.     An elongated contusion mark of 1cm in width and 5cm in length over his right shoulder posteriorly.
 
 24     Kenny was discharged with analgesia on the same day.
 
@@ -143,75 +143,75 @@ c.     An elongated contusion mark of 1cm in width and 5cm in length over h
 
 27     The Prosecution is seeking a sentence of at least 20 months’ imprisonment for the accused for the following reasons:-
 
-a.      **A sentence of at 20 months’ imprisonment is warranted on the facts of this case**
+> a.      **A sentence of at 20 months’ imprisonment is warranted on the facts of this case**
 
-i.       At the time of the offence, the accused was 22 years and 9 months old.
+>> i.       At the time of the offence, the accused was 22 years and 9 months old.
 
-ii.       The accused had joined 9 others to assault two victims, and he had actively participated in the assault by punching and kicking the victims. As a result of their vicious attack, one of the victims Frederick sustained grievous injuries.
+>> ii.       The accused had joined 9 others to assault two victims, and he had actively participated in the assault by punching and kicking the victims. As a result of their vicious attack, one of the victims Frederick sustained grievous injuries.
 
-iii.       It is trite that the offence of rioting invokes a deterrent approach for the following reasons:
+>> iii.       It is trite that the offence of rioting invokes a deterrent approach for the following reasons:
 
-(a)       It is a group/syndicate offence, which generally results in greater harm and greater fear to the victim;
+>>> (a)       It is a group/syndicate offence, which generally results in greater harm and greater fear to the victim;
 
-(b)       It affects public safety or security, and the court must show that such conduct cannot and will not be tolerated in the community; and
+>>> (b)       It affects public safety or security, and the court must show that such conduct cannot and will not be tolerated in the community; and
 
-(c)       It engenders public disquiet as it triggers fear and unease amongst the general public,3 and large-scale violence threatens the public’s perception of the safety of public spaces.
+>>> (c)       It engenders public disquiet as it triggers fear and unease amongst the general public,3 and large-scale violence threatens the public’s perception of the safety of public spaces.
 
-iv.       Against this backdrop, it is unsurprising that the courts have consistently imposed a lengthy imprisonment term on adult offenders of rioting offences. As recognised in Sentencing Practice in the Subordinate Courts (3rd Edition) at pp 376-377:
+>> iv.       Against this backdrop, it is unsurprising that the courts have consistently imposed a lengthy imprisonment term on adult offenders of rioting offences. As recognised in Sentencing Practice in the Subordinate Courts (3rd Edition) at pp 376-377:
 
-“**For adult offenders, a sentence if imprisonment is inevitable.** The length of the imprisonment term would depend on the **size of the group, scale of the riot, the duration of the attack, the level of violence, the extent of injuries, the present or potential danger of injury inherent, the use of weapons, the degree of deliberation in committing the offence and the nature of the premises/scene of the offence**.
+>>> “**For adult offenders, a sentence if imprisonment is inevitable.** The length of the imprisonment term would depend on the **size of the group, scale of the riot, the duration of the attack, the level of violence, the extent of injuries, the present or potential danger of injury inherent, the use of weapons, the degree of deliberation in committing the offence and the nature of the premises/scene of the offence**.
 
-While the case precedents indicate that **the usual range of imprisonment for ‘non-secret society related’ cases is from 18 to 24 months**, however, this is not always so as every case turns on its facts…” \[Emphasis added\]
+>>> While the case precedents indicate that **the usual range of imprisonment for ‘non-secret society related’ cases is from 18 to 24 months**, however, this is not always so as every case turns on its facts…” \[Emphasis added\]
 
-v.       In the present case, the Prosecution was of the view that the usual sentencing range for an offence of this nature is 18 to 24 months. The Prosecution is asking for a slight uplift from the starting point of 18 months. An uplift in sentence is clearly warranted in view of the following aggravating considerations:
+>> v.       In the present case, the Prosecution was of the view that the usual sentencing range for an offence of this nature is 18 to 24 months. The Prosecution is asking for a slight uplift from the starting point of 18 months. An uplift in sentence is clearly warranted in view of the following aggravating considerations:
 
-(a)        **There was premeditation to assault the victims** – as stated in the Statement of Facts at \[11\], the accused and the co-accused persons had discussed about how they should run up as a group and attack Kenny (i.e. the first victim). The need for specific deterrence, which seeks to instil in a particular offender the fear of reoffending through the potential threat of re-experiencing the same sanction, should also be reflected in the length of imprisonment term imposed.
+>>> (a)        **There was premeditation to assault the victims** – as stated in the Statement of Facts at \[11\], the accused and the co-accused persons had discussed about how they should run up as a group and attack Kenny (i.e. the first victim). The need for specific deterrence, which seeks to instil in a particular offender the fear of reoffending through the potential threat of re-experiencing the same sanction, should also be reflected in the length of imprisonment term imposed.
 
-(b)        **The accused’s group had assaulted Frederick’s face, which is a vulnerable part of the body, and caused Frederick to sustain grievous injuries** – as a result of the assault by the accused’s group, Frederick sustained, _inter alia_, closed **blow-out fracture right orbit, and closed fracture of the nasal bone.**
+>>> (b)        **The accused’s group had assaulted Frederick’s face, which is a vulnerable part of the body, and caused Frederick to sustain grievous injuries** – as a result of the assault by the accused’s group, Frederick sustained, _inter alia_, closed **blow-out fracture right orbit, and closed fracture of the nasal bone.**
 
-(c)        **The unlawful assembly was large in size** – there were 10 people in the accused’s group that were involved in assaulting the two victims. The accused’s group’s assault on the victims have also clearly alarmed the residents in the neighbourhood, prompting them to call for the police.
+>>> (c)        **The unlawful assembly was large in size** – there were 10 people in the accused’s group that were involved in assaulting the two victims. The accused’s group’s assault on the victims have also clearly alarmed the residents in the neighbourhood, prompting them to call for the police.
 
-(d)       There is a charge for possession of drug utensils which was taken into consideration which was committed by the accused whilst on police bail.
+>>> (d)       There is a charge for possession of drug utensils which was taken into consideration which was committed by the accused whilst on police bail.
 
-vi.       The need for an uplift in imprisonment is further augmented by the fact that the accused has another charge of possession of drug utensils, which was committed whilst the accused was on court bail, and was taken into consideration for sentencing. Re-offending whilst on bail is an aggravating factor in sentencing as it shows the accused’s disregard of authority and disrespect for the law, and a more severe sanction would be required to deter him from re-offending: _PP v Loqmanul Hakim bin Buang_ \[2007\] 4 SLR(R) 7536 at \[54\] to \[61\]. It is also trite that where there are TIC offences, the general effect would be that the sentence which the court would otherwise have imposed for the offences proceeded with would be increased: _PP v UI_ <span class="citation">\[2008\] 4 SLR(R) 500</span> at \[38\].
+>> vi.       The need for an uplift in imprisonment is further augmented by the fact that the accused has another charge of possession of drug utensils, which was committed whilst the accused was on court bail, and was taken into consideration for sentencing. Re-offending whilst on bail is an aggravating factor in sentencing as it shows the accused’s disregard of authority and disrespect for the law, and a more severe sanction would be required to deter him from re-offending: _PP v Loqmanul Hakim bin Buang_ \[2007\] 4 SLR(R) 7536 at \[54\] to \[61\]. It is also trite that where there are TIC offences, the general effect would be that the sentence which the court would otherwise have imposed for the offences proceeded with would be increased: _PP v UI_ <span class="citation">\[2008\] 4 SLR(R) 500</span> at \[38\].
 
-vii.       Accordingly, the Prosecution submitted that a sentence of at least 20 months’ imprisonment, which is an uplift of about 2 months from the lower end of the usual sentencing range, is appropriate. This is also in line with the sentencing precedents for rioting offences wherein grievous hurt, particularly fracture(s), was caused.
+>> vii.       Accordingly, the Prosecution submitted that a sentence of at least 20 months’ imprisonment, which is an uplift of about 2 months from the lower end of the usual sentencing range, is appropriate. This is also in line with the sentencing precedents for rioting offences wherein grievous hurt, particularly fracture(s), was caused.
 
-b.      **Probation is clearly inappropriate as the accused is an adult offender, and he has not raised any exceptional circumstances that justify the grant of probation.**
+> b.      **Probation is clearly inappropriate as the accused is an adult offender, and he has not raised any exceptional circumstances that justify the grant of probation.**
 
-viii.       As reiterated by See J in _PP v Lim Chee Yin Jordan_ <span class="citation">\[2018\] 4 SLR 1294</span> at \[29\] (“_Lee Chee Yin Jordan_”), rehabilitation had to be shown to be the dominant sentencing principle in order for a probation order to be justified. See J further noted at \[34\] that while there is no general prohibition for adult offenders who are above 21 years old to be sentenced to probation, it is “the exception rather than the norm” for adult offenders to be granted probation. This is because where an offender is an adult offender, i.e. above the age of 21 at both the time of the offence and the time of sentencing, neither the retrospective rationale nor the prospective rationale underlying the presumptive primacy of rehabilitation would apply: _A Karthik v PP_ \[2018\] 5 SLR 128912 (“_A Karthik_”) at \[44\].
+>> viii.       As reiterated by See J in _PP v Lim Chee Yin Jordan_ <span class="citation">\[2018\] 4 SLR 1294</span> at \[29\] (“_Lee Chee Yin Jordan_”), rehabilitation had to be shown to be the dominant sentencing principle in order for a probation order to be justified. See J further noted at \[34\] that while there is no general prohibition for adult offenders who are above 21 years old to be sentenced to probation, it is “the exception rather than the norm” for adult offenders to be granted probation. This is because where an offender is an adult offender, i.e. above the age of 21 at both the time of the offence and the time of sentencing, neither the retrospective rationale nor the prospective rationale underlying the presumptive primacy of rehabilitation would apply: _A Karthik v PP_ \[2018\] 5 SLR 128912 (“_A Karthik_”) at \[44\].
 
-ix.       The High Court has also consistently held that rehabilitation would only be regarded as the operative consideration when sentencing adult offenders if the particular offender concerned “_demonstrates an extremely strong propensity for reform and/or there are exceptional circumstances warranting the grant of probation_” (see _Lim Chee Yin Jordan_ at \[33\]; _A Karthik_ at \[34\])
+>> ix.       The High Court has also consistently held that rehabilitation would only be regarded as the operative consideration when sentencing adult offenders if the particular offender concerned “_demonstrates an extremely strong propensity for reform and/or there are exceptional circumstances warranting the grant of probation_” (see _Lim Chee Yin Jordan_ at \[33\]; _A Karthik_ at \[34\])
 
-x.       It is evident that the present case is not an exceptional case such that rehabilitation should displace deterrence to be the dominant sentencing consideration. The accused has not raised any exceptional or extenuating circumstances that warrant a departure from the usual sentencing approach – for example, the accused does not suffer from any mental condition that is causally linked to his commission of the rioting offence.
+>> x.       It is evident that the present case is not an exceptional case such that rehabilitation should displace deterrence to be the dominant sentencing consideration. The accused has not raised any exceptional or extenuating circumstances that warrant a departure from the usual sentencing approach – for example, the accused does not suffer from any mental condition that is causally linked to his commission of the rioting offence.
 
-xi.       The accused has also not demonstrated an extremely strong propensity for reform. Although the accused has a few positive testimonials in relation to his performance during National Service, it bears highlighting that the present offence was committed when he was serving National Service. His National Service record is also clearly eclipsed by the aggravating factors which weighed clearly in favour of deterrence.
+>> xi.       The accused has also not demonstrated an extremely strong propensity for reform. Although the accused has a few positive testimonials in relation to his performance during National Service, it bears highlighting that the present offence was committed when he was serving National Service. His National Service record is also clearly eclipsed by the aggravating factors which weighed clearly in favour of deterrence.
 
-xii.       The accused’s performance during National Service should clearly be given little mitigating weight (if any), especially in light that he had committed the offence of possession of drug utensils during the same period.
+>> xii.       The accused’s performance during National Service should clearly be given little mitigating weight (if any), especially in light that he had committed the offence of possession of drug utensils during the same period.
 
-xiii.       The Defence’s submission for parity in sentencing is also fallacious - it is plainly wrong to treat the accused as a young offender simply because he had committed the offence with other young offenders.
+>> xiii.       The Defence’s submission for parity in sentencing is also fallacious - it is plainly wrong to treat the accused as a young offender simply because he had committed the offence with other young offenders.
 
-xiv.       Given the circumstances of this case, the Prosecution avers that the actions of the accused are particularly aggravated, and a sentence of at least 20 months’ imprisonment should be imposed on him. Probation is clearly inappropriate in the present case as the accused is an adult offender who has not demonstrated any exceptional or extenuating circumstances deserving of a departure from the sentencing norm.
+>> xiv.       Given the circumstances of this case, the Prosecution avers that the actions of the accused are particularly aggravated, and a sentence of at least 20 months’ imprisonment should be imposed on him. Probation is clearly inappropriate in the present case as the accused is an adult offender who has not demonstrated any exceptional or extenuating circumstances deserving of a departure from the sentencing norm.
 
 ## Mitigation
 
 28     The Defence has urged me to consider the following mitigating factors[^2]:-
 
-a.      **The accused mitigating factors**
+> a.      **The accused mitigating factors**
 
-i.       The accused, is now 24 year of age (D.O.B. 24 November 1994). He was 22 years and 9 months at the time of the offence (20 November 2017). The accused was then serving his National Service in SCDF as a fire fighter. He had hoped to be accepted as a regular but unfortunately that did not happen die to his offence. The accused is now employed as a despatch rider.
+>> i.       The accused, is now 24 year of age (D.O.B. 24 November 1994). He was 22 years and 9 months at the time of the offence (20 November 2017). The accused was then serving his National Service in SCDF as a fire fighter. He had hoped to be accepted as a regular but unfortunately that did not happen die to his offence. The accused is now employed as a despatch rider.
 
-ii.       The accused was also praised and given adulation by his SCDF superiors, all of whom spoke highly of the accused. His superiors have given glowing testimonials on his behalf and he was also awarded the “Perfect Attendance Award” when he was with the SCDF.
+>> ii.       The accused was also praised and given adulation by his SCDF superiors, all of whom spoke highly of the accused. His superiors have given glowing testimonials on his behalf and he was also awarded the “Perfect Attendance Award” when he was with the SCDF.
 
-iii.       The accused is a first offender and he has decided to take a certain course and accepted the contents of the SOF without denying his presence and involvement.
+>> iii.       The accused is a first offender and he has decided to take a certain course and accepted the contents of the SOF without denying his presence and involvement.
 
-b.      **To call for a pre-sentence report**
+> b.      **To call for a pre-sentence report**
 
-iv.       For parity of sentencing, the Defence had also urged me to call for a pre-sentence report to assess the accused’s suitability towards probation. The Defence also pointed to me that other than B4 and B6, the rest of the co-accuseds were found to suitable for probation and were all placed on probation. B4 was placed in a youth hostel and B6 has yet to be dealt with.
+>> iv.       For parity of sentencing, the Defence had also urged me to call for a pre-sentence report to assess the accused’s suitability towards probation. The Defence also pointed to me that other than B4 and B6, the rest of the co-accuseds were found to suitable for probation and were all placed on probation. B4 was placed in a youth hostel and B6 has yet to be dealt with.
 
-v.       The Defence was of the view that the only difference between the accused and the other co-accuseds is the fact that he was the oldest in the group at 22 years at the material time. Moreover, the accused had no prior antecedent and his involvement was akin to the rest of the co-accuseds.
+>> v.       The Defence was of the view that the only difference between the accused and the other co-accuseds is the fact that he was the oldest in the group at 22 years at the material time. Moreover, the accused had no prior antecedent and his involvement was akin to the rest of the co-accuseds.
 
-vi.       The Defence also referred me to the cases of _A Karthik v public Prosecutor_ <span class="citation">\[2018\] SGHC 202</span> (“_Karthik”_) and _GCX v Public Prosecutor_ <span class="citation">\[2019\] SGHC 14</span>. The Defence had submitted that these 2 cases depicted a scenario that where an offender has the potential for rehabilitation, the courts should call for a pre-sentence report to the different sentencing options. In this case, although the accused is not a youthful offender, he is still of a young age and has the potential for rehabilitation.
+>> vi.       The Defence also referred me to the cases of _A Karthik v public Prosecutor_ <span class="citation">\[2018\] SGHC 202</span> (“_Karthik”_) and _GCX v Public Prosecutor_ <span class="citation">\[2019\] SGHC 14</span>. The Defence had submitted that these 2 cases depicted a scenario that where an offender has the potential for rehabilitation, the courts should call for a pre-sentence report to the different sentencing options. In this case, although the accused is not a youthful offender, he is still of a young age and has the potential for rehabilitation.
 
 ## My Decision
 
@@ -221,21 +221,21 @@ vi.       The Defence also referred me to the cases of _A Karthik v publi
 
 30     As pointed out by the Honourable Chief Justice Menon in _Karthik’s_ case at \[32\] - \[34\]:-
 
-“32    It is clear from the language of section 5(1) (of the Probation of Offenders Act) that there is no aged-based restriction as to whether the court is permitted to make a probation order, so long as the offender does not fall within the proviso to that provision (in other words, so long as the offender is not convicted of an offence for which a specific minimum sentence or mandatory minimum sentence of imprisonment or fine or caning is prescribed by law): _Goh Lee Yin v Public Prosecutor_ <span class="citation">\[2006\] 1 SLR (R) 530</span> (“_Goh Lee Yin_”) at \[26\].
+> “32    It is clear from the language of section 5(1) (of the Probation of Offenders Act) that there is no aged-based restriction as to whether the court is permitted to make a probation order, so long as the offender does not fall within the proviso to that provision (in other words, so long as the offender is not convicted of an offence for which a specific minimum sentence or mandatory minimum sentence of imprisonment or fine or caning is prescribed by law): _Goh Lee Yin v Public Prosecutor_ <span class="citation">\[2006\] 1 SLR (R) 530</span> (“_Goh Lee Yin_”) at \[26\].
 
-33.    That said, the age of an offender is nonetheless a critical factor in the court’s determination of whether an offender should be granted probation in lieu of imprisonment. This is because probation as a sentencing option places rehabilitation at the front and centre of the court’s deliberation (_Public Prosecutor v Koh Wen Jie Boaz_ <span class="citation">\[2016\] 1 SLR 334</span> (“_Boaz Koh”_) at \[35\], citing _Public Prosecutor v Mohannad Al-Ansari bin Basri_ \[2008\] 1 SLR (R) 449 (“_Al-Ansari”_) at \[41\] – \[43\]), and rehabilitation as a sentencing principle generally takes precedence when the court is dealing with youthful offenders (_Public Prosecutor v Lim Chee Yin Jordon_ \[2018\] SHGC 46 (“_Jordon Lim”_) at \[30\], citing _Public Prosecutor v Mok Ping Wuen Maurice_ \[1998\] 3 SLR (R) (“_Maurice Mok”_) at \[21\]). Indeed, the law takes a _presumptive_ view that where youthful offenders are concerned, the primary sentencing consideration is rehabilitation: _Public Prosecutor v Lim Cheng Ji Alvin_ <span class="citation">\[2017\] 5 SLR 671</span> (“_Alvin Lim”_) at \[6\], cited in _Jordon Lim_ at \[3\].
+> 33.    That said, the age of an offender is nonetheless a critical factor in the court’s determination of whether an offender should be granted probation in lieu of imprisonment. This is because probation as a sentencing option places rehabilitation at the front and centre of the court’s deliberation (_Public Prosecutor v Koh Wen Jie Boaz_ <span class="citation">\[2016\] 1 SLR 334</span> (“_Boaz Koh”_) at \[35\], citing _Public Prosecutor v Mohannad Al-Ansari bin Basri_ \[2008\] 1 SLR (R) 449 (“_Al-Ansari”_) at \[41\] – \[43\]), and rehabilitation as a sentencing principle generally takes precedence when the court is dealing with youthful offenders (_Public Prosecutor v Lim Chee Yin Jordon_ \[2018\] SHGC 46 (“_Jordon Lim”_) at \[30\], citing _Public Prosecutor v Mok Ping Wuen Maurice_ \[1998\] 3 SLR (R) (“_Maurice Mok”_) at \[21\]). Indeed, the law takes a _presumptive_ view that where youthful offenders are concerned, the primary sentencing consideration is rehabilitation: _Public Prosecutor v Lim Cheng Ji Alvin_ <span class="citation">\[2017\] 5 SLR 671</span> (“_Alvin Lim”_) at \[6\], cited in _Jordon Lim_ at \[3\].
 
-34.     **In contrast, the presumption that the dominant sentencing consideration is rehabilitation does** **_not_** **apply to adult offenders, that is to say, offenders who are above the age of 21:** **_Alvin Lim_** **at \[7\]. Instead, rehabilitation would only be regarded as the operative consideration when sentencing adult offenders if the particular offender concerned “demonstrates an** **_extremely strong propensity for reform_** **and/or there are** **_exceptional circumstances warranting the grant of probation_** **” \[emphasis added\]:** **_Goh Lee Yin_** **at \[28\], cited in** **_Jordan Lim_** **at \[33\]. In short, the archetype of the appropriate candidate for probation is the young amateur” offender (** **_Sim Wen Yi Ernest v Public Prosecutor_** **<span class="citation">\[2016\] 5 SLR 207</span> (“** **_Ernest Sim_** **”) at \[27\], citing** **_Lim Li Ling v Public Prosecutor_** **<span class="citation">\[2007\] 1 SLR(R) 165</span> at \[87\]). As against this, it is “the exception rather than the norm for adult offenders to be sentenced to probation” (** **_Jordan Lim_** **at \[34\]).** (emphasis mine).
+> 34.     **In contrast, the presumption that the dominant sentencing consideration is rehabilitation does** **_not_** **apply to adult offenders, that is to say, offenders who are above the age of 21:** **_Alvin Lim_** **at \[7\]. Instead, rehabilitation would only be regarded as the operative consideration when sentencing adult offenders if the particular offender concerned “demonstrates an** **_extremely strong propensity for reform_** **and/or there are** **_exceptional circumstances warranting the grant of probation_** **” \[emphasis added\]:** **_Goh Lee Yin_** **at \[28\], cited in** **_Jordan Lim_** **at \[33\]. In short, the archetype of the appropriate candidate for probation is the young amateur” offender (** **_Sim Wen Yi Ernest v Public Prosecutor_** **<span class="citation">\[2016\] 5 SLR 207</span> (“** **_Ernest Sim_** **”) at \[27\], citing** **_Lim Li Ling v Public Prosecutor_** **<span class="citation">\[2007\] 1 SLR(R) 165</span> at \[87\]). As against this, it is “the exception rather than the norm for adult offenders to be sentenced to probation” (** **_Jordan Lim_** **at \[34\]).** (emphasis mine).
 
 31     In the present case, the accused is an adult offender at the time of the commissioning of the offence **and the presumption that the dominant sentencing consideration does not apply to adult offenders unless the adult offender demonstrates an extremely strong propensity for reform or there are exceptional circumstances warranting the grant of probation.**
 
 32     The issue of whether to call for a probation report for adult offenders was also considered by See Kee Onn J in GCO v Public Prosecutor <span class="citation">\[2019\] SGHC 31</span> at \[32\] – \[34\]:-
 
-“32    I turn then to examine whether probation can be ordered. I recently touched on the relevant principles concerning when probation should be ordered in my decision in _Public Prosecutor v Lim Chee Yin Jordon_ <span class="citation">\[2018\] 4 SLR 1294</span> (“_Jordon Lim_”). In brief, probation responds to the principle of rehabilitation and can only be justified where rehabilitation is the dominant sentencing principle: _Jordon Lim_ at \[29\]. Rehabilitation as a sentencing principle will presumptively take precedence where young offenders are involved, seeing as they are in their formative years and have better prospects of being reformed: _Jordon Lim_ at \[30\]–\[31\].
+> “32    I turn then to examine whether probation can be ordered. I recently touched on the relevant principles concerning when probation should be ordered in my decision in _Public Prosecutor v Lim Chee Yin Jordon_ <span class="citation">\[2018\] 4 SLR 1294</span> (“_Jordon Lim_”). In brief, probation responds to the principle of rehabilitation and can only be justified where rehabilitation is the dominant sentencing principle: _Jordon Lim_ at \[29\]. Rehabilitation as a sentencing principle will presumptively take precedence where young offenders are involved, seeing as they are in their formative years and have better prospects of being reformed: _Jordon Lim_ at \[30\]–\[31\].
 
-33.    That being said, adult offenders above 21 years of age can still be sentenced to probation, although this would be the exception rather than the norm. Indeed, in _Sim Wen Yi Ernest v Public Prosecutor_ <span class="citation">\[2016\] 5 SLR 207</span>, I noted at \[28\] that older offenders might in fact “be more receptive to probation as they are generally more mature and better able to understand their responsibilities, the consequences of breaching probation, and the significance of being afforded a chance for reform”.
+> 33.    That being said, adult offenders above 21 years of age can still be sentenced to probation, although this would be the exception rather than the norm. Indeed, in _Sim Wen Yi Ernest v Public Prosecutor_ <span class="citation">\[2016\] 5 SLR 207</span>, I noted at \[28\] that older offenders might in fact “be more receptive to probation as they are generally more mature and better able to understand their responsibilities, the consequences of breaching probation, and the significance of being afforded a chance for reform”.
 
-34.     **What is required, however, is that the offender demonstrate an extremely strong propensity for reform, or that there be exceptional circumstances warranting the grant of probation**: _Jordon Lim_ at \[33\], citing _Goh Lee Yin v Public Prosecutor_ <span class="citation">\[2006\] 1 SLR(R) 530</span> (“_Goh Lee Yin_”). **Moreover, even if rehabilitation is found to apply, it can be displaced by the need for deterrence. Deterrence would become relatively more prominent, and rehabilitation correspondingly less so, if the offence is serious or the harm caused is severe, amongst other considerations:** **_Jordon Lim_** **at \[35\].** Rehabilitation would come to the fore, and deterrence recede in significance, if the offender suffers from a mental condition causally linked to the commission of the offence: _Jordon Lim_ at \[37\].”
+> 34.     **What is required, however, is that the offender demonstrate an extremely strong propensity for reform, or that there be exceptional circumstances warranting the grant of probation**: _Jordon Lim_ at \[33\], citing _Goh Lee Yin v Public Prosecutor_ <span class="citation">\[2006\] 1 SLR(R) 530</span> (“_Goh Lee Yin_”). **Moreover, even if rehabilitation is found to apply, it can be displaced by the need for deterrence. Deterrence would become relatively more prominent, and rehabilitation correspondingly less so, if the offence is serious or the harm caused is severe, amongst other considerations:** **_Jordon Lim_** **at \[35\].** Rehabilitation would come to the fore, and deterrence recede in significance, if the offender suffers from a mental condition causally linked to the commission of the offence: _Jordon Lim_ at \[37\].”
 
 33     Applying the above principles to the facts of the present case, the accused was 22 years and 9 months when he committed the section 147 offence on 21 August 2017. He then went on the commit the section 9 MDA offence on 21 September 2018 when he was 23 years and 10 months and whilst on police bail. This MDA offence was taken into consideration for purposes of sentencing. As such, he is well above the threshold of 21 years of age for which the presumptive dominant sentencing principle is rehabilitation. The accused would therefore need to demonstrate an “extremely strong propensity for reform”, or show “exceptional circumstances” justifying the imposition of probation.
 
@@ -247,17 +247,17 @@ vi.       The Defence also referred me to the cases of _A Karthik v publi
 
 37     Looking at the offence under section 147 of the Penal Code, I would agree with Prosecution that this constitutes a very serious offence. I also took into account following facts :-
 
-i.     That this is a group offence in which 10 co-accused attacked 2 victims and one of the victim had suffered grievous injuries.
+> i.     That this is a group offence in which 10 co-accused attacked 2 victims and one of the victim had suffered grievous injuries.
 
-ii.     The accused’s group had assaulted Frederick’s face, which is a vulnerable part of the body, and caused Frederick to sustain a closed blow-out fracture right orbit and a closed fracture of the nasal bone**.**
+> ii.     The accused’s group had assaulted Frederick’s face, which is a vulnerable part of the body, and caused Frederick to sustain a closed blow-out fracture right orbit and a closed fracture of the nasal bone**.**
 
-iii.     The incident had taken place in a public place.
+> iii.     The incident had taken place in a public place.
 
-iv.     The attack was pre-meditated. The attackers had planned on how to attack the victims.
+> iv.     The attack was pre-meditated. The attackers had planned on how to attack the victims.
 
-v.     At the time of the offence, the accused was a member of the SCDF. He is a public servant and he should be upholding the law and not breaking the law.
+> v.     At the time of the offence, the accused was a member of the SCDF. He is a public servant and he should be upholding the law and not breaking the law.
 
-vi.     The section 9 MDA offence is also a very serious offence and it was committed whilst he was on police bail.
+> vi.     The section 9 MDA offence is also a very serious offence and it was committed whilst he was on police bail.
 
 38     Given the above, I am of the view even if the appellant were found to possess some potential for rehabilitation, it would be eclipsed or significantly outweighed by deterrence in the present case because the offence is a serious one and also given the aggravating factors in this case. As such, I am not prepared to consider probation for this case.
 
@@ -267,9 +267,9 @@ vi.     The section 9 MDA offence is also a very serious offence and it was
 
 40     The Defence had proposed a sentence of 15 months. The Defence also highlighted the following points:-
 
-i.     That this incident is not a gang related incident.
+> i.     That this incident is not a gang related incident.
 
-ii.     The accused was not the main culprit. He did not know the victims personally. It was one of the co-accused who had issues with the victims.
+> ii.     The accused was not the main culprit. He did not know the victims personally. It was one of the co-accused who had issues with the victims.
 
 41     Looking at the Prosecution’s Table of Sentencing Precedents, I note that for the cases of PP v Saravanan s/o Murugaya , PP v Darivindran s/o Chandra Mohan and PP v Rajendran Seganathan where sentences of 18 to 20 months have been imposed, the facts clearly show that weapons were used by the assailants in the attack. The use of weapons was also featured in PP v Jai Kavish s/o Ramakrishnan where the assailants threw bar stools at the victims. In PP v Jai Kavish s/o Ramakrishnan , the accused was sentenced to 19 months imprisonment for the section 147 offence. Similarly, in PP v Denesh Darren s/o Thanagaran, the accuseds had used an aluminium chair and bottles to hit the victims. The accused in that case was sentenced to 20 months’ imprisonment with 3 strokes of the cane.
 

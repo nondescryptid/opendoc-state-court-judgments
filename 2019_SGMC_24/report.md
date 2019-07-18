@@ -43,15 +43,15 @@ Civil procedure – Experts
 
 12     The five key features of the Simplified Process are as follows:[^9]
 
-a.     Upfront disclosure;
+> a.     Upfront disclosure;
 
-b.     Early and robust case management;
+> b.     Early and robust case management;
 
-c.     The use of ADR;
+> c.     The use of ADR;
 
-d.     Curtailed interlocutories; and
+> d.     Curtailed interlocutories; and
 
-e.     Simplified trial.
+> e.     Simplified trial.
 
 13     The first feature is upfront disclosure. Under the Simplified Process, parties file and serve a list of documents with their pleadings. Thus at the outset, all documentary evidence in relation to the dispute is disclosed. The purpose of upfront disclosure is to enable parties to have a better sense of the relative strengths and weaknesses of their cases at an early stage. The weighing of the relative strengths and weaknesses facilitates early appreciation of the situation and deliberation of available options to move forward.
 
@@ -65,13 +65,13 @@ e.     Simplified trial.
 
 18     If the case is not resolved, all necessary directions are given at the CMC for the further progress of the case. If the case has to proceed to trial, directions are given at the CMC for a simplified trial. It is at the CMC that directions for SJE are given, in cases where expert evidence is involved. The simplified trial is another feature of the Simplified Process. Simplified trials are conducted with limited time allocated for the different stages of the trial as follows:
 
-a.     Evidence in chief (to introduce the AEIC of each witness) – 10 mins.
+> a.     Evidence in chief (to introduce the AEIC of each witness) – 10 mins.
 
-b.     Cross-examination (each witness) – 60 mins.
+> b.     Cross-examination (each witness) – 60 mins.
 
-c.     Re-examination (each witness) – 10 mins.
+> c.     Re-examination (each witness) – 10 mins.
 
-d.     Closing submissions (each party) – 30 mins.
+> d.     Closing submissions (each party) – 30 mins.
 
 19     The narrowing of issues at the CMC makes a simplified trial practicable. The narrowing of issues also facilitates the appointment of an SJE. This will be elaborated on below.
 
@@ -83,25 +83,25 @@ d.     Closing submissions (each party) – 30 mins.
 
 22     The appointment of SJE is provided for under Order 108 Rule 5 of the ROC:
 
-_“Order 108 Rule 5_
+> _“Order 108 Rule 5_
 
-(_3_)     _If any question requiring the evidence of an expert witness arises in any case which the Court has directed to be set down for a simplified trial –_
+> (_3_)     _If any question requiring the evidence of an expert witness arises in any case which the Court has directed to be set down for a simplified trial –_
 
-(_a_)     _the parties must jointly appoint one independent expert to give the expert evidence in a written report; and_
+>> (_a_)     _the parties must jointly appoint one independent expert to give the expert evidence in a written report; and_
 
-(_b_)     _if the parties are unable to agree on the expert to be appointed –_
+>> (_b_)     _if the parties are unable to agree on the expert to be appointed –_
 
-(_i_)     _the Court shall –_
+>>> (_i_)     _the Court shall –_
 
-(_A_)     _make such orders or give such directions, in relation to the appointment of the expert, as the Court deems fit, including an order appointing the expert; and_
+>>>> (_A_)     _make such orders or give such directions, in relation to the appointment of the expert, as the Court deems fit, including an order appointing the expert; and_
 
-(_B_)     _fix the amount of remuneration payable to the expert; and_
+>>>> (_B_)     _fix the amount of remuneration payable to the expert; and_
 
-(_ii_)    _the parties shall be jointly and severally liable to pay the expert the amount of remuneration fixed by the Court._
+>>> (_ii_)    _the parties shall be jointly and severally liable to pay the expert the amount of remuneration fixed by the Court._
 
-_…_
+> _…_
 
-(_7_)     _In every case to which this Order applies, where interlocutory judgment has been entered for damages to be assessed, this Rule shall apply with the necessary modifications to the assessment of damages.”_
+> (_7_)     _In every case to which this Order applies, where interlocutory judgment has been entered for damages to be assessed, this Rule shall apply with the necessary modifications to the assessment of damages.”_
 
 23     As seen, Order 108 Rule 5(3) provides that parties must jointly appoint an independent expert to give expert evidence in a written report. For each specified field of expertise, only one expert will appear and one report will be adduced at the relevant trial/assessment of damages/hearing with no other reports from any other experts in the same field on the same subject matter being admitted. Where parties cannot agree on the expert to be appointed, the court is empowered to make an order appointing the expert. The rationale is plain. With a small value claim, it is disproportionate to have two experts, one for each party, to render opinion on the same issue. Two reports would have to be prepared, and each subject to cross-examination by the other party. The experts are often presented with the facts of the case framed according to the perspective and instructions of the party appointing them. Moreover, opposing experts tend to take polarised positions on the issue at hand. The parties and the court have to traverse two differing and often competing opinions. The consequence is increased expenditure of time and effort. The concept of SJE sits eminently well with the underlying philosophy of the Simplified Process. At the end of the day, the small value involved in MC cases brings into sharp focus the question of costs proportionality in the appointment of experts. By nature, expert evidence is costly. This cost is ultimately borne by the parties. The costs savings for parties in using an SJE is a factor that cannot be easily ignored. Further, the use of SJE also fits naturally into the scheme of the simplified trial procedure.[^15]
 
@@ -109,17 +109,17 @@ _…_
 
 25     However, unlike an expert who is instructed by one party in proceedings under Order 40A of the ROC, an SJE is appointed by parties or the court to provide evidence which will be relied on and referred to _jointly_ by both parties in the case. As such:
 
-a.     An SJE’s evidence is expected to be independent of the cases of each of the parties in the matter;
+> a.     An SJE’s evidence is expected to be independent of the cases of each of the parties in the matter;
 
-b.     An SJE’s fees and costs of engagement are borne equally between parties before being finally determined;
+> b.     An SJE’s fees and costs of engagement are borne equally between parties before being finally determined;
 
-c.     Prior to the issuance of the SJE’s report, both parties are entitled to and are encouraged to provide the SJE with a list of queries or issues which they will be raising at the trial, assessment of damages or hearing for the relevant proceedings to ensure that all relevant evidence will be before the court at the appropriate juncture;
+> c.     Prior to the issuance of the SJE’s report, both parties are entitled to and are encouraged to provide the SJE with a list of queries or issues which they will be raising at the trial, assessment of damages or hearing for the relevant proceedings to ensure that all relevant evidence will be before the court at the appropriate juncture;
 
-d.     As alluded to above, for each specified field of expertise, only one SJE will appear and one report will be adduced at the relevant trial/assessment of damages/hearing with no other reports from any other experts in the same field on the same subject matter being admitted;
+> d.     As alluded to above, for each specified field of expertise, only one SJE will appear and one report will be adduced at the relevant trial/assessment of damages/hearing with no other reports from any other experts in the same field on the same subject matter being admitted;
 
-e.     Parties to a suit are not bound by the contents of the SJE’s report and the appointment of an SJE is without prejudice to either party’s right to cross-examine the SJE on his relevant area of expertise and/or his report. The Court has the discretion to decide which party cross-examines first. Order 108 Rule 5(5)(b) provides that the time limit for cross examination of a witness in a simplified trial is 60 minutes per witness. Order 108 Rule 5(6), however, provides that the court may extend any time limit as it deems fit; and
+> e.     Parties to a suit are not bound by the contents of the SJE’s report and the appointment of an SJE is without prejudice to either party’s right to cross-examine the SJE on his relevant area of expertise and/or his report. The Court has the discretion to decide which party cross-examines first. Order 108 Rule 5(5)(b) provides that the time limit for cross examination of a witness in a simplified trial is 60 minutes per witness. Order 108 Rule 5(6), however, provides that the court may extend any time limit as it deems fit; and
 
-f.     As mentioned above, the fees of the SJE are to be borne equally by the parties in the first instance, but can be recovered by the successful party at the conclusion of the trial/assessment of damages/hearing as disbursements.
+> f.     As mentioned above, the fees of the SJE are to be borne equally by the parties in the first instance, but can be recovered by the successful party at the conclusion of the trial/assessment of damages/hearing as disbursements.
 
 26     It should be noted that parties are not precluded from applying to have their own experts examine the subject matter of the dispute. In some cases, it may be necessary for parties to have recourse to their own experts in order to be in a position to examine the SJE and the contents of his/her report. In a personal injury case for example, an application for the plaintiff to be re-examined by another medical specialist (beside the SJE) for the purpose of preparation for cross examination would therefore be allowed. It must however, be noted that the report of this other medical specialist will not be admitted at the hearing and that he or she cannot be called as an expert witness. At the end of the day, the principle is that there can be only one expert giving evidence (on each expert issue) at the hearing under the Simplified Process.
 
@@ -135,19 +135,19 @@ f.     As mentioned above, the fees of the SJE are to be borne equally by t
 
 31     In deciding on the expert to be appointed as SJE, the court looks at a few key factors. These factors include the following:
 
-a.     Area of expertise and experience of the proposed expert;
+> a.     Area of expertise and experience of the proposed expert;
 
-b.     Costs of a proposed expert’s engagement including the costs of examination, surveys, reviewing documents, preparing reports, giving clarifications and/or attending the trial/hearing;
+> b.     Costs of a proposed expert’s engagement including the costs of examination, surveys, reviewing documents, preparing reports, giving clarifications and/or attending the trial/hearing;
 
-c.     Length of time required for a proposed expert to produce his/her report;
+> c.     Length of time required for a proposed expert to produce his/her report;
 
-d.     In personal injury cases arising from motor accidents (“PIMA cases”), whether the proposed expert is from a restructured hospital, is the treating physician and/or had the opportunity to evaluate the patient or relevant medical records at the appropriate juncture in order to reach a considered expert opinion;
+> d.     In personal injury cases arising from motor accidents (“PIMA cases”), whether the proposed expert is from a restructured hospital, is the treating physician and/or had the opportunity to evaluate the patient or relevant medical records at the appropriate juncture in order to reach a considered expert opinion;
 
-e.     In non-injury motor accident cases (“NIMA cases”), whether the proposed expert had conducted a pre-repair and/or post-repair inspection of the vehicle;
+> e.     In non-injury motor accident cases (“NIMA cases”), whether the proposed expert had conducted a pre-repair and/or post-repair inspection of the vehicle;
 
-f.     Whether either party had breached any of the regulations within the NIMA or PIMA pre-action protocols which led to circumstances affecting the position of either party with respect to the appointment of an SJE (e.g. failure to inform the Defendant of the accident within the prescribed timeline leading to the Defendant losing the opportunity to conduct pre-repair inspection). In this regard, the SJE affidavit should also state whether the parties have complied with pre-action protocols; and/or
+> f.     Whether either party had breached any of the regulations within the NIMA or PIMA pre-action protocols which led to circumstances affecting the position of either party with respect to the appointment of an SJE (e.g. failure to inform the Defendant of the accident within the prescribed timeline leading to the Defendant losing the opportunity to conduct pre-repair inspection). In this regard, the SJE affidavit should also state whether the parties have complied with pre-action protocols; and/or
 
-g.     Allegations in respect of claim inflation, causation, fraud and/or bias.
+> g.     Allegations in respect of claim inflation, causation, fraud and/or bias.
 
 32     The court looks at the above factors and considers all of them in deciding which expert to appoint as SJE. In NIMA and PIMA cases, the use of pre-action protocols has worked well for many years to assist parties to reach early resolution and to limit the scope of the dispute. The pre-action protocols also assist in the process of preserving evidence in regard to the nature and extent of property damage or personal injury. In particular, the pre-action protocols contain provisions in respect of inspection of damage caused to motor vehicles that would form the subject matter of NIMA claims. These pre-action protocols therefore relate to the questions that expert evidence seeks to address in such cases. Compliance with them are directly connected to the issue of expert evidence and the court values the compliance by parties with these pre-action protocols. To this end, non-compliance with pre-action protocols by a party will in general result in the preference of the court to appoint the complying party’s nominated expert. The other factor considered in NIMA and PIMA cases is the scope and tendency for claims to be inflated; and relatedly, bias and fraud. To the extent that this factor is credibly triggered in a given case, the claimant’s nominations will be looked upon less favourably by the court.
 

@@ -63,23 +63,23 @@ Criminal Procedure and Sentencing – Sentencing – Road Traffic Offences
 
 16     The accused admitted to the Statement of Facts (“SOF”) for the 3 TP summonses dated 9 April 2019 without qualification. A concise, succinct and edited version of the SOF depicting the offence for failing to furnish driver’s particulars within 14 days of a traffic offence is as follows:
 
-…
+> …
 
-He was the registered owner of motor vehicle SJD 529C, SGZ3796Y and SLA5584 B at the time of the offences.
+> He was the registered owner of motor vehicle SJD 529C, SGZ3796Y and SLA5584 B at the time of the offences.
 
-Facts relating to 1770 0249 6205
+> Facts relating to 1770 0249 6205
 
-2    On 14 February 2017 at about 8.53 am, along Jurong West Avenue 5, motor vehicle SJD529C was reported by Staff Sergeant Tan Kwok Chye for making an unauthorised U-turn. A Notice to furnish driver's particulars was sent to the defendant, who was the registered owner of the motor vehicle SJD529C. The defendant did not furnish the driver's particulars within the 14 days as required by a police officer.
+> 2    On 14 February 2017 at about 8.53 am, along Jurong West Avenue 5, motor vehicle SJD529C was reported by Staff Sergeant Tan Kwok Chye for making an unauthorised U-turn. A Notice to furnish driver's particulars was sent to the defendant, who was the registered owner of the motor vehicle SJD529C. The defendant did not furnish the driver's particulars within the 14 days as required by a police officer.
 
-Facts relating to 1760 8262 8205
+> Facts relating to 1760 8262 8205
 
-3    On 11 April 2017 at about 10.23 am, along West Coast Highway (lamp post 174F towards Jalan Buroh), motor vehicle SGZ3796Y was captured by Inspector Low Hui Yu using the Police Speed Laser Camera for Speeding (exceed the speed limit of 70 kmph of the road). A Notice to furnish driver's particulars was sent to the defendant, who was the registered owner of the motor vehicle SGZ3796Y. Defendant did not furnish the driver's particulars within the 14 days as required by a police officer.
+> 3    On 11 April 2017 at about 10.23 am, along West Coast Highway (lamp post 174F towards Jalan Buroh), motor vehicle SGZ3796Y was captured by Inspector Low Hui Yu using the Police Speed Laser Camera for Speeding (exceed the speed limit of 70 kmph of the road). A Notice to furnish driver's particulars was sent to the defendant, who was the registered owner of the motor vehicle SGZ3796Y. Defendant did not furnish the driver's particulars within the 14 days as required by a police officer.
 
-Facts relating to 1760 6645 8805
+> Facts relating to 1760 6645 8805
 
-On 22 April 2017 at about 8.00 am, along Pan Island Expressway towards Tuas (chevron of Central Expressway towards Ayer Rajah Expressway), motor vehicle SLA 5584 B was reported for Inconsiderate driving under Section 65(b) of the Road Traffic Act, Chapter 276 by Staff Sergeant Syafa'at Bin Abdul Rahman. A Notice to furnish driver' s particulars was sent to the defendant, who was the registered owner of the motor vehicle SLA5584B. The defendant did not furnish the driver's particulars within the 14 days as required by a police officer.
+> On 22 April 2017 at about 8.00 am, along Pan Island Expressway towards Tuas (chevron of Central Expressway towards Ayer Rajah Expressway), motor vehicle SLA 5584 B was reported for Inconsiderate driving under Section 65(b) of the Road Traffic Act, Chapter 276 by Staff Sergeant Syafa'at Bin Abdul Rahman. A Notice to furnish driver' s particulars was sent to the defendant, who was the registered owner of the motor vehicle SLA5584B. The defendant did not furnish the driver's particulars within the 14 days as required by a police officer.
 
-…
+> …
 
 17     As for the 48 proceeded charges, the facts were as per the charges and the accused admitted to them without qualification.
 
@@ -118,9 +118,9 @@ On 22 April 2017 at about 8.00 am, along Pan Island Expressway towards Tuas (che
 
 26     Recently reported cases have shown that the usual tariff that is applicable to first offenders in respect of common road traffic offences like ERP, parking and failing to furnish driver’s particulars offences is $400 to $500 if they choose to plead guilty in court:
 
-(a)      _PP v Nunoeng Roheryanto Bin Wahid_ <span class="citation">\[2016\] SGDC 245</span>, where $400 in default 1 day’s imprisonment was imposed on each charge_;_ and
+> (a)      _PP v Nunoeng Roheryanto Bin Wahid_ <span class="citation">\[2016\] SGDC 245</span>, where $400 in default 1 day’s imprisonment was imposed on each charge_;_ and
 
-(b)      _PP v Fok Jun Hong Johnson_ \[2017\], where $500 in default 1 day’s imprisonment was imposed on each charge.
+> (b)      _PP v Fok Jun Hong Johnson_ \[2017\], where $500 in default 1 day’s imprisonment was imposed on each charge.
 
 27     In respect of the offences faced by the accused, they all attract a maximum fine of $1,000 for a first offender. The corresponding punishment provision for the relevant offences are as follows:
 
@@ -139,21 +139,21 @@ On 22 April 2017 at about 8.00 am, along Pan Island Expressway towards Tuas (che
 
 31     Section 133(5) and (6) of the RTA state:
 
-133 - (5)    If a person, upon whom such a notice has been served as aforesaid, fails to appear before a court in person or by counsel in accordance therewith, the court may, if satisfied that the notice was duly served, issue a warrant for the arrest of the person unless in the case of an offence which may be compounded that person has before that date been permitted to compound the offence.
+> 133 - (5)    If a person, upon whom such a notice has been served as aforesaid, fails to appear before a court in person or by counsel in accordance therewith, the court may, if satisfied that the notice was duly served, issue a warrant for the arrest of the person unless in the case of an offence which may be compounded that person has before that date been permitted to compound the offence.
 
-(6)    Upon a person arrested in pursuance of a warrant issued under subsection (5) being produced before it, a court shall —
+> (6)    Upon a person arrested in pursuance of a warrant issued under subsection (5) being produced before it, a court shall —
 
-(a)    proceed as though he were produced before it under section 153 of the Criminal Procedure Code 2010; and
+>> (a)    proceed as though he were produced before it under section 153 of the Criminal Procedure Code 2010; and
 
-(b)    at the conclusion of the proceedings, call upon him to show cause why he should not be punished for failing to attend in compliance with the notice served upon him, and if cause is not shown may order him to pay such fine not exceeding $2,000 as the court thinks fit or may commit him to prison for a term not exceeding 2 months.
+>> (b)    at the conclusion of the proceedings, call upon him to show cause why he should not be punished for failing to attend in compliance with the notice served upon him, and if cause is not shown may order him to pay such fine not exceeding $2,000 as the court thinks fit or may commit him to prison for a term not exceeding 2 months.
 
 32     As mentioned by the accused in mitigation, his failure to notify his change of address due to the fact that he had lost his IC was not a justifiable or reasonable excuse for his failure to attend court. In the circumstances, I was of the view that cause was not shown.
 
 33     As regards the fine amount for show cause, recently reported cases have shown that the usual tariff for such night court cases is typically $100 in default 1 day’s imprisonment per count of show cause:
 
-(a)      _PP v Nunoeng Roheryanto Bin Wahid_, where $100 in default 1 day’s imprisonment was imposed for each count of show cause_;_ and
+> (a)      _PP v Nunoeng Roheryanto Bin Wahid_, where $100 in default 1 day’s imprisonment was imposed for each count of show cause_;_ and
 
-(b)      _PP v Fok Jun Hong Johnson_ \[2017\], where $100 in default 1 day’s imprisonment was imposed for each count of show cause.
+> (b)      _PP v Fok Jun Hong Johnson_ \[2017\], where $100 in default 1 day’s imprisonment was imposed for each count of show cause.
 
 34     Having considered that the accused had accumulated a not insignificant number of show cause at 141 and his poor financial situation, I decided to impose a very minimal sum of $50 in default 1 day’s imprisonment on him for each count of show cause. This amounted to a total of $7,050 in default 141 days’ imprisonment. Given the large number of show cause, the fine imposed could not be said to be manifestly excessive. In fact, I could say that this was clearly below the usual tariff but considered holistically in order to aid the accused in view of his financial plight raised by him in mitigation.
 

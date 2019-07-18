@@ -32,17 +32,17 @@ No other charges were taken into consideration for the purpose of sentencing.
 
 5       The Accused then rushed forward and opened the driver-side door of the Victim’s taxi. There, the Accused used both his hands to push in the direction of the Victim’s body. However, the Victim was able to deflect the Accused’s hands. The Accused then grabbed the Victim’s left wrist and pushed it against the Victim’s chest with his body weight - this lasted for about three seconds. Two witnesses saw the Accused with his upper torso in the taxi and using his arms to push down towards the Victim. One of the witnesses shouted at the Accused to ‘stop it’. The Accused’s act of grabbing the Victim’s wrist and pushing it against the latter’s chest forms the subject of the charge under s 352 of the Penal Code (“the criminal force charge”):
 
-MCN 901758/2018
+> MCN 901758/2018
 
-… you, on 6 February 2018, at or about 2.49pm, at the roundabout of One Raffles Link, located at 1 Raffles Link, Singapore 039393, did use criminal force on Ng Merng Hong (“Ng”) otherwise than on grave and sudden provocation, to wit, by grabbing Ng’s left wrist and pushing it against Ng’s chest, causing Ng to experience chest discomfort, and you have thereby committed an offence punishable under Section 352 of the Penal Code … .
+> … you, on 6 February 2018, at or about 2.49pm, at the roundabout of One Raffles Link, located at 1 Raffles Link, Singapore 039393, did use criminal force on Ng Merng Hong (“Ng”) otherwise than on grave and sudden provocation, to wit, by grabbing Ng’s left wrist and pushing it against Ng’s chest, causing Ng to experience chest discomfort, and you have thereby committed an offence punishable under Section 352 of the Penal Code … .
 
 A subsequent medical report stated that the Victim had central chest discomfort but these symptoms had resolved spontaneously after the incident. The Victim was diagnosed with chest contusion and discharged with oral analgesics.
 
 6       After releasing his grip on the Victim’s wrist, the Accused (still in a fit of anger) broke the signal lever of the Victim’s taxi. This act forms the subject of the charge under s 426 of the Penal Code (“the mischief charge”):
 
-MCN 901759/2018
+> MCN 901759/2018
 
-… you, on 6 February 2018, at or about 2.49pm, at the roundabout of One Raffles Link, located at 1 Raffles Link, Singapore 039393, with intent to cause wrongful damage to Ng Merng Hong’s taxi bearing vehicle number SH8522R, did commit mischief, to wit, by breaking the said taxi’s signal lever, causing damage amounting to $50 in repairs, and you have thereby committed an offence punishable under Section 426 of the Penal Code … .
+> … you, on 6 February 2018, at or about 2.49pm, at the roundabout of One Raffles Link, located at 1 Raffles Link, Singapore 039393, with intent to cause wrongful damage to Ng Merng Hong’s taxi bearing vehicle number SH8522R, did commit mischief, to wit, by breaking the said taxi’s signal lever, causing damage amounting to $50 in repairs, and you have thereby committed an offence punishable under Section 426 of the Penal Code … .
 
 The cost of repairing the signal lever was about $50.
 
@@ -56,49 +56,49 @@ The cost of repairing the signal lever was about $50.
 
 9       The Accused’s act of pressing down on the Victim’s chest gave rise to an offence under s 352 of the Penal Code, which reads:
 
-Whoever assaults or uses criminal force to any person otherwise than on grave and sudden provocation given by that person, shall be punished with imprisonment for a term which may extend to 3 months, or with fine which may extend to $1,500, or with both.
+> Whoever assaults or uses criminal force to any person otherwise than on grave and sudden provocation given by that person, shall be punished with imprisonment for a term which may extend to 3 months, or with fine which may extend to $1,500, or with both.
 
 The Prosecution argued that this charge warranted a custodial sentence. I disagreed.
 
 10     The Prosecution highlighted that this case was one of road rage. I concurred that it was. In _PP v Lim Yee Hua_ <span class="citation">\[2017\] SGHC 308</span> (“_Lim Yee Hua_”), Chan Seng Onn J provided guidance as to when traffic-related violence may be categorised as ‘road rage’:
 
-In my view, an incident of violence should be labelled as an episode of road rage violence only where the facts disclose violence perpetrated by road users as a result of real or perceived slights by other road users stemming from differences that arise in the course of the shared use of our roads. The litmus test for whether the deterrent sentencing policy associated with road rage offences should apply for a particular offence of violence is thus whether the violence originates from differences arising through common road use. In other words, the harsh deterrent sanctions for road rage incidents only apply when road users engage in violence specifically over disputes that arise from the shared use of our roads.
+> In my view, an incident of violence should be labelled as an episode of road rage violence only where the facts disclose violence perpetrated by road users as a result of real or perceived slights by other road users stemming from differences that arise in the course of the shared use of our roads. The litmus test for whether the deterrent sentencing policy associated with road rage offences should apply for a particular offence of violence is thus whether the violence originates from differences arising through common road use. In other words, the harsh deterrent sanctions for road rage incidents only apply when road users engage in violence specifically over disputes that arise from the shared use of our roads.
 
 In this case, the Accused’s vehicle and the Victim’s taxi were sharing the roundabout at One Raffles Link. The Victim found it difficult to manoeuvre the roundabout and horned at the Accused for stopping in front of him. This led to an exchange of hand gestures, after which the Accused went on to commit the offence of using criminal force. On these facts, the case evidently fell within the road raged definition envisaged by Chan J.
 
 11     The significance of this being a road rage case is that the sentencing policy of deterrence comes to the fore. As alluded to by Yong Pung How CJ in _PP v Lee Seck Hing_ <span class="citation">\[1992\] SGHC 185</span>:[^5]
 
-The court must also be mindful of the need to deter anyone else who would resort with impunity to violence on the roads, especially in view of the deplorable increase in such incidents. Our roads are progressively becoming more crowded … and motorists must simply learn to live with one another. There can be no place on our roads for road bullies. Such persons must be made aware of the severe detestation the law expresses in regard to such crimes.
+> The court must also be mindful of the need to deter anyone else who would resort with impunity to violence on the roads, especially in view of the deplorable increase in such incidents. Our roads are progressively becoming more crowded … and motorists must simply learn to live with one another. There can be no place on our roads for road bullies. Such persons must be made aware of the severe detestation the law expresses in regard to such crimes.
 
 12     Still, not all cases involving road rage must necessarily end with an imprisonment term. In _Lim Yee Hua_ Chan J sounded the following caution:
 
-45    … I respectfully take the view that it should not invariably be the case that a custodial term must be imposed for all offences involving road rage violence. ...
+> 45    … I respectfully take the view that it should not invariably be the case that a custodial term must be imposed for all offences involving road rage violence. ...
 
-…
+> …
 
-47    Accordingly, while I agree that incidents involving road rage violence do indeed call for general deterrence, I take the view that considerations of proportionality militate against the imposition of a custodial term in all cases of road rage violence, regardless of the facts and circumstances of the case; **_depending on the particular facts and circumstances of a road rage offence, a high fine could well be sufficient to function as a deterrent sentence_**. \[emphasis added\]
+> 47    Accordingly, while I agree that incidents involving road rage violence do indeed call for general deterrence, I take the view that considerations of proportionality militate against the imposition of a custodial term in all cases of road rage violence, regardless of the facts and circumstances of the case; **_depending on the particular facts and circumstances of a road rage offence, a high fine could well be sufficient to function as a deterrent sentence_**. \[emphasis added\]
 
 13     As such, simply sticking the ‘road rage’ label on a case does not absolve one who propounds a custodial sentence from carefully scrutinizing the facts, to see if imprisonment is indeed warranted. In _Lim Yee Hua_, Chan J observed:
 
-I should add that whether or not a particular incident of road rage violence crosses the custodial threshold is ultimately a fact-specific enquiry.
+> I should add that whether or not a particular incident of road rage violence crosses the custodial threshold is ultimately a fact-specific enquiry.
 
 14     On the present facts before me, I do not think that an imprisonment term is called for. I set out my reasons below:
 
-(a)     In respect of the harm caused, this was low. The Victim did not suffer injury. The central chest discomfort which he claimed to have experienced “resolved spontaneously after the incident”.
+> (a)     In respect of the harm caused, this was low. The Victim did not suffer injury. The central chest discomfort which he claimed to have experienced “resolved spontaneously after the incident”.
 
-(b)     In respect of culpability, I do not think that the Accused’s conduct was sufficiently aggravating as to convey his case to the custodial realm:
+> (b)     In respect of culpability, I do not think that the Accused’s conduct was sufficiently aggravating as to convey his case to the custodial realm:
 
-(i)       One can conceive of a myriad of means by which criminal force may be applied, with each being sited at a different point along the spectrum of aggravation. What the Accused did in this case, i.e. grabbing the Victim’s hand and pushing it against the latter’s chest, did not strike me as being particularly high on that spectrum.
+>> (i)       One can conceive of a myriad of means by which criminal force may be applied, with each being sited at a different point along the spectrum of aggravation. What the Accused did in this case, i.e. grabbing the Victim’s hand and pushing it against the latter’s chest, did not strike me as being particularly high on that spectrum.
 
-(ii)       The push lasted for all of 3 seconds - the incident was over very quickly.
+>> (ii)       The push lasted for all of 3 seconds - the incident was over very quickly.
 
-(iii)       The incident took place on a discrete cul de sac and not on a crowded road. There was no suggestion of the incident causing any danger to road users.
+>> (iii)       The incident took place on a discrete cul de sac and not on a crowded road. There was no suggestion of the incident causing any danger to road users.
 
 15     In terms of offender-specific factors, I took the following into account:
 
-(a)     The Accused had a clean record - it is trite that absence of antecedents is a mitigating factor.[^6]
+> (a)     The Accused had a clean record - it is trite that absence of antecedents is a mitigating factor.[^6]
 
-(b)     The Accused pleaded guilty, saving valuable court time.
+> (b)     The Accused pleaded guilty, saving valuable court time.
 
 As regards the second factor, I am mindful that a plea of guilt carries little weight if evidence of liability is overwhelming.[^7] In this respect, there was CCTV footage capturing the Accused alighting from his vehicle, running towards the Victim’s taxi and kicking it, before inserting his torso into the taxi’s driver-side door. However, the footage (which was shot from some distance) offered no insight into what actually transpired within the taxi. As such, the evidence (including the testimonies of the two witnesses) would still have to be tested in the event of a trial.
 
@@ -111,21 +111,21 @@ As regards the second factor, I am mindful that a plea of guilt carries little w
 
 17     I found these precedents to be distinguishable, for the following reasons.
 
-(a)     The offence-specific factors in the three precedents were far more aggravating:
+> (a)     The offence-specific factors in the three precedents were far more aggravating:
 
-(i)       In _Felix Huang_, there was an element of dangerous driving as the offender had abruptly jerked to a halt in front of the victim’s taxi. This was in the midst of heavy traffic, no less. Furthermore, the offender’s actions had obstructed other vehicles, which sounded their horns. No similar situation of danger arose in the present case, which occurred on a discrete cul de sac.
+>> (i)       In _Felix Huang_, there was an element of dangerous driving as the offender had abruptly jerked to a halt in front of the victim’s taxi. This was in the midst of heavy traffic, no less. Furthermore, the offender’s actions had obstructed other vehicles, which sounded their horns. No similar situation of danger arose in the present case, which occurred on a discrete cul de sac.
 
-(ii)       In _Desmond Lim_, the offender had, _inter alia_, hit the victim on the face. This formed the basis of a more serious charge, under s 323 of the Penal Code, that was taken into consideration for the purpose of sentencing. In contrast, the Accused had pushed on the Victim’s chest for 3 seconds - something which I viewed (at least on the facts before me) to be a less aggravating form of criminal force than striking someone in the face. Correspondingly, the Accused faced a less serious charge, under s 352 of the Penal Code.
+>> (ii)       In _Desmond Lim_, the offender had, _inter alia_, hit the victim on the face. This formed the basis of a more serious charge, under s 323 of the Penal Code, that was taken into consideration for the purpose of sentencing. In contrast, the Accused had pushed on the Victim’s chest for 3 seconds - something which I viewed (at least on the facts before me) to be a less aggravating form of criminal force than striking someone in the face. Correspondingly, the Accused faced a less serious charge, under s 352 of the Penal Code.
 
-(iii)       In _Harry Lim_, the nature of the criminal force was more aggravating (spitting at the victim’s face and holding him in a neck lock) than in the present case. Furthermore, the victim in _Harry Lim_ suffered a fractured finger. No such injuries exist in the present case.
+>> (iii)       In _Harry Lim_, the nature of the criminal force was more aggravating (spitting at the victim’s face and holding him in a neck lock) than in the present case. Furthermore, the victim in _Harry Lim_ suffered a fractured finger. No such injuries exist in the present case.
 
-(b)     In all three precedents, the offender had previous antecedents relating to aggression and/or violence. Two of these three precedents do not have published grounds of decision, but for the remaining precedent which does (i.e. _Felix Huang_), one sees that the offender’s antecedent was a salient sentencing consideration. Specifically, the judge in _Felix Huang_ held:
+> (b)     In all three precedents, the offender had previous antecedents relating to aggression and/or violence. Two of these three precedents do not have published grounds of decision, but for the remaining precedent which does (i.e. _Felix Huang_), one sees that the offender’s antecedent was a salient sentencing consideration. Specifically, the judge in _Felix Huang_ held:
 
-I also took into account the previous conviction of the Accused. He had clearly not learned his lesson but had instead shown a certain degree of hot headedness and propensity towards violence.
+>> I also took into account the previous conviction of the Accused. He had clearly not learned his lesson but had instead shown a certain degree of hot headedness and propensity towards violence.
 
-In contrast, the Accused has a clean record.
+> In contrast, the Accused has a clean record.
 
-(c)     Finally, the offender in _Harry Lim_ claimed trial, while the Accused pleaded guilty.
+> (c)     Finally, the offender in _Harry Lim_ claimed trial, while the Accused pleaded guilty.
 
 The three precedents relied upon by the Prosecution thus do no alter my view that the custodial threshold has **_not_** been crossed in the present case.
 
@@ -133,11 +133,11 @@ The three precedents relied upon by the Prosecution thus do no alter my view tha
 
 19     In his mitigation plea, the Accused sought to show that he had acted out of provocation. By his estimation, there was sufficient space behind his vehicle for the Victim’s taxi to turn outwards,[^9] so there was no need for the Victim to sound his horn at the Accused. Having viewed the CCTV footage, I had some sympathy for the Accused’s view that the Victim’s loud horning was unnecessary:
 
-(a)     The berth between both vehicles _was_ relatively wide. Thus, while the Victim may have felt himself unable to manoeuvre his taxi from behind the Accused’s vehicle, I do not rule out that some other driver might have been able to do so quite comfortably.
+> (a)     The berth between both vehicles _was_ relatively wide. Thus, while the Victim may have felt himself unable to manoeuvre his taxi from behind the Accused’s vehicle, I do not rule out that some other driver might have been able to do so quite comfortably.
 
-(b)     Prior to another vehicle pulling up behind the Victim’s taxi (thereby preventing the Victim from reversing), there was actually plenty of room behind the Victim’s taxi, to his right. He could easily have reversed diagonally to his right and that would have given him ample clearance on his front left, to turn out from behind the Accused’s vehicle.
+> (b)     Prior to another vehicle pulling up behind the Victim’s taxi (thereby preventing the Victim from reversing), there was actually plenty of room behind the Victim’s taxi, to his right. He could easily have reversed diagonally to his right and that would have given him ample clearance on his front left, to turn out from behind the Accused’s vehicle.
 
-(c)     Finally, even if there had truly been no way for the Victim to turn out from behind the Accused’s vehicle, the civil thing for the Victim to have done was to either alight and ask the Accused to move or, if he was inclined to use the horn, to just give a quick honk to alert the Accused.
+> (c)     Finally, even if there had truly been no way for the Victim to turn out from behind the Accused’s vehicle, the civil thing for the Victim to have done was to either alight and ask the Accused to move or, if he was inclined to use the horn, to just give a quick honk to alert the Accused.
 
 Against this context, the Accused felt that the Victim’s behaviour, i.e. sounding his horn in a loud manner, was unwarranted. The plea in mitigation also averred that the Victim _continued_ to horn at the Accused even after the latter moved forward to make way for the Victim.9
 
@@ -145,17 +145,17 @@ Against this context, the Accused felt that the Victim’s behaviour, i.e. sound
 
 21     Notwithstanding the above, Chan J had in _Lim Yee Hua_ made it abundantly clear that provocation from ungentlemanly conduct or bad driving carries little mitigating value in cases of road rage violence:[^10]
 
-… ungentlemanly conduct arising in the course of the use of the roads, bad driving, breach of road traffic rules on the part of the victim and even serious traffic accidents caused by the victim would be insufficient to amount to provocation that justifies any act of causing hurt to the victim (or, indeed, any act of mischief causing damage to the victim’s property); on the contrary, a violent reaction to such instances of road use would attract the deterrent sentencing policy underlying road rage violence.
+> … ungentlemanly conduct arising in the course of the use of the roads, bad driving, breach of road traffic rules on the part of the victim and even serious traffic accidents caused by the victim would be insufficient to amount to provocation that justifies any act of causing hurt to the victim (or, indeed, any act of mischief causing damage to the victim’s property); on the contrary, a violent reaction to such instances of road use would attract the deterrent sentencing policy underlying road rage violence.
 
 As such, I have not placed much weight on the provocation which the Accused claimed to have suffered.
 
 22     I also found various other aspects of the Accused’s conduct to be aggravating. I set them out below:
 
-(a)     Firstly, the Victim was 70 years old, so there was an element of vulnerability. In his mitigation plea, the Accused stated that there was a scuffle with the Victim during which the Accused’s right index finger was so badly bruised that even after some two months, it was still diagnosed to have ‘_soft tissue swelling … around the proximal interphalangeal joint, likely related to the recent/previous trauma_”.[^11] Presumably, the Accused was seeking to demonstrate that the Victim was not as physically vulnerable as his age might suggest, seeing as how the Accused had sustained injuries that were not insignificant. Still, the fact remains that it was the Accused who started the physical encounter - not the Victim. Furthermore, when the Accused opened the taxi door and came face to face with an individual who was obviously of some advancement in years, the Accused should have had some cause for pause. He ought to have exercised some restraint then.
+> (a)     Firstly, the Victim was 70 years old, so there was an element of vulnerability. In his mitigation plea, the Accused stated that there was a scuffle with the Victim during which the Accused’s right index finger was so badly bruised that even after some two months, it was still diagnosed to have ‘_soft tissue swelling … around the proximal interphalangeal joint, likely related to the recent/previous trauma_”.[^11] Presumably, the Accused was seeking to demonstrate that the Victim was not as physically vulnerable as his age might suggest, seeing as how the Accused had sustained injuries that were not insignificant. Still, the fact remains that it was the Accused who started the physical encounter - not the Victim. Furthermore, when the Accused opened the taxi door and came face to face with an individual who was obviously of some advancement in years, the Accused should have had some cause for pause. He ought to have exercised some restraint then.
 
-(b)     Secondly, the Accused’s act of mischief, perpetrated immediately after his use of criminal force, was reprehensible. One would have expected the Accused to regain some semblance of composure, after having just physically vented his rage on the Victim. The Accused could have walked away. Yet, he persisted in his bout of aggression by breaking the Victim’s signal lever. This was wholly uncalled for. Having said that, I have already I imposed a hefty fine of $2,000 for the Accused’s mischief in this regard (see paragraph 26 below). In effect, the Accused has to pay 40-fold the cost of the damage (i.e. $50) which he inflicted. I think that is sufficient punishment for the Accused’s act mischief and I do not propose to double-count the aggravating impact of that mischief by using it to justify an uplift in the sentence for the criminal force charge as well.
+> (b)     Secondly, the Accused’s act of mischief, perpetrated immediately after his use of criminal force, was reprehensible. One would have expected the Accused to regain some semblance of composure, after having just physically vented his rage on the Victim. The Accused could have walked away. Yet, he persisted in his bout of aggression by breaking the Victim’s signal lever. This was wholly uncalled for. Having said that, I have already I imposed a hefty fine of $2,000 for the Accused’s mischief in this regard (see paragraph 26 below). In effect, the Accused has to pay 40-fold the cost of the damage (i.e. $50) which he inflicted. I think that is sufficient punishment for the Accused’s act mischief and I do not propose to double-count the aggravating impact of that mischief by using it to justify an uplift in the sentence for the criminal force charge as well.
 
-(c)     Thirdly, after having committed the offences, the Accused simply drove off when the responsible thing to do would have been to stop and render some form of assistance to the Victim. Nevertheless, I do not regard this to be a strong aggravating factor, as the Statement of Facts bore no indication of the Accused having perceived the Victim to be hurt in any way (even if an ambulance was called to the scene after the Accused left). Of course, if the Accused had fled while leaving the Victim in an obvious state of injury, that would have been another matter.
+> (c)     Thirdly, after having committed the offences, the Accused simply drove off when the responsible thing to do would have been to stop and render some form of assistance to the Victim. Nevertheless, I do not regard this to be a strong aggravating factor, as the Statement of Facts bore no indication of the Accused having perceived the Victim to be hurt in any way (even if an ambulance was called to the scene after the Accused left). Of course, if the Accused had fled while leaving the Victim in an obvious state of injury, that would have been another matter.
 
 23     Bearing in mind my finding that the custodial threshold has _not_ been crossed and juxtaposing that against the aggravating points listed above, I imposed the maximum fine of $1,500 for the criminal force charge.
 
@@ -163,11 +163,11 @@ As such, I have not placed much weight on the provocation which the Accused clai
 
 24     As regards the Accused’s act of breaking the signal lever, this gave rise to an offence of mischief under s 426 of the Penal Code, which states:
 
-Whoever commits mischief shall be punished with imprisonment for a term which may extend to one year, or with fine, or with both.
+> Whoever commits mischief shall be punished with imprisonment for a term which may extend to one year, or with fine, or with both.
 
 Mischief is in turn defined by s 425 of the Penal Code as follows:
 
-Whoever, with intent to cause, or knowing that he is likely to cause, wrongful loss or damage to the public or any person, causes the destruction of any property, or any such change in any property, or in the situation thereof, as destroys or diminishes its value or utility, or affects it injuriously, commits “mischief”.
+> Whoever, with intent to cause, or knowing that he is likely to cause, wrongful loss or damage to the public or any person, causes the destruction of any property, or any such change in any property, or in the situation thereof, as destroys or diminishes its value or utility, or affects it injuriously, commits “mischief”.
 
 25     Given the relatively small cost of the damage to the signal lever, I do not think that the Accused’s mischief warranted a custodial sentence. Nevertheless, as I had explained at paragraph 23(b) above, the Accused’s act of snapping the signal lever was wholly uncalled for. I view the malevolence underlying this act of mischief (despite the relatively low cost involved) to be no less reprehensible than (say) inflicting more expensive damage such as dents or scratches. The Accused chose to neuter a tool which he knew (being a Grab driver himself) was indispensable for the Victim to continue safely plying his trade on the roads for the rest of that day.
 
@@ -185,25 +185,25 @@ Whoever, with intent to cause, or knowing that he is likely to cause, wrongful l
 
 29     I note that the power to make a disqualification order exists in this case. Specifically, s 42(2) of the Road Traffic Act[^15] provides:
 
-Where … the offender … is convicted of an offence under section … 352 \[or\] 426 … of the Penal Code (Cap. 224) and —
+> Where … the offender … is convicted of an offence under section … 352 \[or\] 426 … of the Penal Code (Cap. 224) and —
 
-(a)    at the time of the commission of the offence the offender was the driver or was in charge of a motor vehicle on a road or other public place;
+>> (a)    at the time of the commission of the offence the offender was the driver or was in charge of a motor vehicle on a road or other public place;
 
-(b)    the person against whom the offence was committed was the driver of another vehicle on the road or public place, a passenger in that other vehicle or a pedestrian on the road or public place;
+>> (b)    the person against whom the offence was committed was the driver of another vehicle on the road or public place, a passenger in that other vehicle or a pedestrian on the road or public place;
 
-(c)    the court convicting the offender of the offence is satisfied that the commission of the offence arose from or was connected with a dispute between the offender and that other person over the use of the road or public place; and
+>> (c)    the court convicting the offender of the offence is satisfied that the commission of the offence arose from or was connected with a dispute between the offender and that other person over the use of the road or public place; and
 
-(d)    having regard to the circumstances under which the offence was committed and the behaviour of the offender, the court is of the opinion that it is undesirable for the offender to continue to be allowed to drive a motor vehicle,
+>> (d)    having regard to the circumstances under which the offence was committed and the behaviour of the offender, the court is of the opinion that it is undesirable for the offender to continue to be allowed to drive a motor vehicle,
 
-the court may, in addition to imposing on the offender the punishment provided for such offence, make an order disqualifying him from holding or obtaining a driving licence for life or for such period as the court may think fit.
+> the court may, in addition to imposing on the offender the punishment provided for such offence, make an order disqualifying him from holding or obtaining a driving licence for life or for such period as the court may think fit.
 
 The discretion to disqualify under s 42(2) of the Road Traffic Act is encapsulated in subsection (d), which alludes to the court “having regard to the circumstances under which the offence was committed and the behaviour of the offender”, when deciding if it is undesirable for the offender to continue being allowed to drive.
 
 30     The scope of this discretion, as applied to the road rage context, was considered by the High Court in _PP v Fizul Asrul bin Efandi_ <span class="citation">\[2018\] SGHC 119</span> (“_Fizul Asrul_”). In that case, Tay JA observed:
 
-13    The next question concerned whether the Court should exercise its discretion under s 42(2)(d) of the RTA to impose a disqualification order on the respondent. In exercising this discretion, the Court should bear in mind the need for deterrence of unruly or violent behaviour as well as the need to protect other road users. …
+> 13    The next question concerned whether the Court should exercise its discretion under s 42(2)(d) of the RTA to impose a disqualification order on the respondent. In exercising this discretion, the Court should bear in mind the need for deterrence of unruly or violent behaviour as well as the need to protect other road users. …
 
-14    Parliament has made it clear that s 42 of the RTA is meant to protect innocent road users from the potential danger posed by motorists who show violent behaviour when reacting to situations connected to driving … . Further, general and specific deterrence are the primary sentencing considerations for offences involving violence on our roads … . Thus, the imposition of a disqualification order serves the objectives of protection of the public and deterrence. The offender would not have the opportunity to be a menace on the roads and, for the duration of the disqualification order, which could conceivably be longer than any imprisonment term imposed, the offender would be reminded that he was not permitted to drive because of his bad behaviour on the roads.
+> 14    Parliament has made it clear that s 42 of the RTA is meant to protect innocent road users from the potential danger posed by motorists who show violent behaviour when reacting to situations connected to driving … . Further, general and specific deterrence are the primary sentencing considerations for offences involving violence on our roads … . Thus, the imposition of a disqualification order serves the objectives of protection of the public and deterrence. The offender would not have the opportunity to be a menace on the roads and, for the duration of the disqualification order, which could conceivably be longer than any imprisonment term imposed, the offender would be reminded that he was not permitted to drive because of his bad behaviour on the roads.
 
 In _Fizrul_, Tay JA imposed a disqualification term of 12 months on an offender for his second road rage offence.
 
@@ -213,9 +213,9 @@ In _Fizrul_, Tay JA imposed a disqualification term of 12 months on an offender 
 
 32     To conclude, I sentence the Accused to:
 
-(a)     the maximum fine of $1,500[^16] for the criminal force charge; and
+> (a)     the maximum fine of $1,500[^16] for the criminal force charge; and
 
-(b)     a fine of $2,000[^17] for the mischief charge.
+> (b)     a fine of $2,000[^17] for the mischief charge.
 
 The total fine imposed on the Accused was thus $3,500.
 

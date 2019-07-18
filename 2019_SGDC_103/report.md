@@ -15,9 +15,9 @@
 
 1       The accused was an on-line seller of collectible toys known as “Hot Toys”. When he failed to deliver the toys ordered, various buyers lodged police reports against him. This led to 48 counts of cheating punishable under s 420 of the Penal Code being preferred against him. The prosecution proceeded on 8 charges relating to 2 alleged victims and stood down the other 40 charges. It was alleged that the accused had deceived various buyers into believing that he was selling them Hot Toys, thereby inducing them to deliver various sums of money to him. A sample charge is as follows:-
 
-DAC 938553/2016
+> DAC 938553/2016
 
-You, Tham Wai Kong… are charged that you, on the 13th day of November 2014, Singapore, did cheat one Tan Gee Pin _(the “_**_victim_**_”)_, to wit, by deceiving him into believing that you are selling him two sets of “Hot Toys Iron Man Igor” at S$850, a fact which you knew to be false, and by such manner of deception, you dishonestly induced the victim to deliver a sum of S$850, to wit, by transferring S$850 to your POSB Saving Account No.XXX, and you have thereby committed an offence punishable under Section 420 of the Penal Code, Chapter 224.
+> You, Tham Wai Kong… are charged that you, on the 13th day of November 2014, Singapore, did cheat one Tan Gee Pin _(the “_**_victim_**_”)_, to wit, by deceiving him into believing that you are selling him two sets of “Hot Toys Iron Man Igor” at S$850, a fact which you knew to be false, and by such manner of deception, you dishonestly induced the victim to deliver a sum of S$850, to wit, by transferring S$850 to your POSB Saving Account No.XXX, and you have thereby committed an offence punishable under Section 420 of the Penal Code, Chapter 224.
 
 2       The details of the charges which the prosecution proceeded on are set out in the following table:-
 
@@ -50,27 +50,27 @@ You, Tham Wai Kong… are charged that you, on the 13th day of November 2014, Si
 
 11     Section 420 of the Penal Code provides that:-
 
-**Cheating and dishonestly inducing a delivery of property**
+> **Cheating and dishonestly inducing a delivery of property**
 
-420.  Whoever cheats and thereby dishonestly induces the person deceived to deliver any property to any person, or to make, alter or destroy the whole or any part of a valuable security, or anything which is signed or sealed, and which is capable of being converted into a valuable security, shall be punished with imprisonment for a term which may extend to 10 years, and shall also be liable to fine.
+> 420.  Whoever cheats and thereby dishonestly induces the person deceived to deliver any property to any person, or to make, alter or destroy the whole or any part of a valuable security, or anything which is signed or sealed, and which is capable of being converted into a valuable security, shall be punished with imprisonment for a term which may extend to 10 years, and shall also be liable to fine.
 
 12     The accused had represented to PW1 and PW2 that he would sell them the toys stated in the charges and in consequence thereof, they transferred money to his bank account. The sole issue was whether the accused had cheated by dishonestly inducing PW1 and PW2 (the persons deceived) to transfer the money on the false promise that he would deliver the toys they ordered.
 
 13     While there was no direct evidence of the accused’s intention, the prosecution submitted that an irresistible inference should be drawn from the following factors that there was dishonest inducement:-[^1]
 
-(a)     The conduct of the accused in becoming uncontactable after he failed to deliver the toys; and
+> (a)     The conduct of the accused in becoming uncontactable after he failed to deliver the toys; and
 
-(b)     The accused’s account of how he procured the toys and the reasons for not delivering the toys to PW1 and PW2.
+> (b)     The accused’s account of how he procured the toys and the reasons for not delivering the toys to PW1 and PW2.
 
 14     In his defence, the accused claimed to be a genuine seller of Hot Toys. From what could be discerned, his defence was as follows:-
 
-(a)     He was the victim of a vast conspiracy of certain individuals whose aim was to frame him;
+> (a)     He was the victim of a vast conspiracy of certain individuals whose aim was to frame him;
 
-(b)     He was prevented from delivering the toys as he was the victim of malicious rumours spread about him on the internet;
+> (b)     He was prevented from delivering the toys as he was the victim of malicious rumours spread about him on the internet;
 
-(c)     He was a genuine seller of Hot Toys and not a scammer; and
+> (c)     He was a genuine seller of Hot Toys and not a scammer; and
 
-(d)     He had a genuine Russian supplier of Hot Toys named “Antanov”.
+> (d)     He had a genuine Russian supplier of Hot Toys named “Antanov”.
 
 ## EVALUATION OF EVIDENCE AND FINDINGS
 
@@ -78,9 +78,9 @@ You, Tham Wai Kong… are charged that you, on the 13th day of November 2014, Si
 
 15     The accused claimed that he did not commit the offences and that he was being framed. The crux of his case (as stated in his final written submissions) was that:-
 
-I would like to highlight to the honourable court, why I should not be penalized for a “fix up” or “frame up” job just because I exposed sophisticated local criminals for their criminal activities.
+> I would like to highlight to the honourable court, why I should not be penalized for a “fix up” or “frame up” job just because I exposed sophisticated local criminals for their criminal activities.
 
-Till this day I maintain that I am a victim of a co-ordinated “frame up” job to get me arrested and charged for something I did not commit.
+> Till this day I maintain that I am a victim of a co-ordinated “frame up” job to get me arrested and charged for something I did not commit.
 
 16     The accused claimed to have exposed at least 9 individuals for various offences which ranged from money laundering, massive criminal breach of trust, corruption, and rape.[^2] He asserted that they were now making him a scapegoat so that his conviction in the present case would render him an untrustworthy witness should these “criminals” be prosecuted.
 
@@ -168,7 +168,7 @@ Till this day I maintain that I am a victim of a co-ordinated “frame up” job
 
 46     The accused’s evidence was that when Glenn Chan started spreading false rumours about him, this led to a mass cancellation of orders. The accused testified that at first he refunded his customers from his own pocket when they cancelled their orders. However, he stopped making refunds after Antanov told him:-
 
-“You’re crazy. You are killing yourself. What about the stocks that’s coming? What I’m gonna do with it?”. Because a lot of them, the packagings are---are pretty huge. 1 figure is fine when you have a carton, 2 cartons, 3 cartons, 4 cartons that piling up is no joke. So he says “Stop refunding. Tell your customers we were sell off the items first or their slots then we refund them”. I---he told me that is the right thing to do.
+> “You’re crazy. You are killing yourself. What about the stocks that’s coming? What I’m gonna do with it?”. Because a lot of them, the packagings are---are pretty huge. 1 figure is fine when you have a carton, 2 cartons, 3 cartons, 4 cartons that piling up is no joke. So he says “Stop refunding. Tell your customers we were sell off the items first or their slots then we refund them”. I---he told me that is the right thing to do.
 
 47     The accused also testified that Antanov and he stopped dealing in watches as Antanov was very angry with him for giving refunds to those who had cancelled their orders.[^20] This was another inherently illogical bare allegation on the accused’s part. There would be no reason for Antanov to get angry with the accused as he had paid Antanov in full when the orders were placed. Further, in making refunds, he was using his own money (and not Antanov’s).[^21] There was also no evidence that pursuant to the alleged cancellations the accused had demanded that Antanov refund the money paid to him.
 
@@ -184,33 +184,33 @@ Till this day I maintain that I am a victim of a co-ordinated “frame up” job
 
 51     “Dishonestly” is defined under s 24 of the Penal Code as follows:-
 
-**“Dishonestly”**
+> **“Dishonestly”**
 
-24.    Whoever does anything with the intention of causing wrongful gain to one person, or wrongful loss to another person, is said to do that thing dishonestly.
+> 24.    Whoever does anything with the intention of causing wrongful gain to one person, or wrongful loss to another person, is said to do that thing dishonestly.
 
 52     By section 23 of the Penal Code, the meaning of “wrongful gain” or “wrongful loss” would be:-
 
-**“Wrongful gain” and “wrongful loss”**
+> **“Wrongful gain” and “wrongful loss”**
 
-23.    “Wrongful gain” is gain by unlawful means of property to which the person gaining it is not legally entitled; “wrongful loss” is loss by unlawful means of property to which the person losing it is legally entitled.
+> 23.    “Wrongful gain” is gain by unlawful means of property to which the person gaining it is not legally entitled; “wrongful loss” is loss by unlawful means of property to which the person losing it is legally entitled.
 
-Explanation —A person is said to gain wrongfully when such person retains wrongfully, as well as when such person acquires wrongfully. A person is said to lose wrongfully when such person is wrongfully kept out of any property, as well as when such person is wrongfully deprived of property.
+> Explanation —A person is said to gain wrongfully when such person retains wrongfully, as well as when such person acquires wrongfully. A person is said to lose wrongfully when such person is wrongfully kept out of any property, as well as when such person is wrongfully deprived of property.
 
 53     There was no direct evidence to show whether the accused had been dishonest in that he had wrongfully gained by wrongfully acquiring the funds which PW1 and PW2 transferred to him. The court’s finding that there was dishonest inducement on the part of the accused was based on circumstantial evidence which occurred after the events.
 
 54     In summary, the circumstantial evidence was:-
 
-(a)     The accused’s testimony that he had ordered the toys from Antanov was not credible. Even if he did so, there was no valid reason for him to stop delivery of the toys PW1 and PW2 ordered;
+> (a)     The accused’s testimony that he had ordered the toys from Antanov was not credible. Even if he did so, there was no valid reason for him to stop delivery of the toys PW1 and PW2 ordered;
 
-(b)     The accused did not have nor did he claim to have any other supplier for the toys which PW1 and PW2 ordered;
+> (b)     The accused did not have nor did he claim to have any other supplier for the toys which PW1 and PW2 ordered;
 
-(c)     There was no evidence to show that the accused attempted to procure the toys which PW1 and PW2 ordered;
+> (c)     There was no evidence to show that the accused attempted to procure the toys which PW1 and PW2 ordered;
 
-(d)     The accused’s reason for non-delivery of the toys i.e. mass cancellation of orders due to rumours spread about him was incredible;
+> (d)     The accused’s reason for non-delivery of the toys i.e. mass cancellation of orders due to rumours spread about him was incredible;
 
-(e)     In dealing with PW1 and PW2, the accused was untruthful and evasive and became uncontactable; and
+> (e)     In dealing with PW1 and PW2, the accused was untruthful and evasive and became uncontactable; and
 
-(f)     The accused had the means to provide refunds to PW1 and PW2 but failed to do so.
+> (f)     The accused had the means to provide refunds to PW1 and PW2 but failed to do so.
 
 55     Taking the circumstantial evidence in totality, the irresistible inference and the only conclusion the court could arrive at was that the accused had intended to cheat PW1 and PW2 when he dishonestly induced them to transfer funds to him for the purchase of the toys. He was dishonest in that by doing so, he had gained wrongfully.
 
@@ -236,7 +236,7 @@ Explanation —A person is said to gain wrongfully when such person retains wron
 
 62     The use of the internet to cheat members of the public has been recognized to be an aggravating factor. In _Public Prosecutor v Syamsul Hilal bin Ismail_ <span class="citation">\[2012\] 1 SLR 973</span> (_“Syamsul”_), Chao Hick Tin, JA stated at \[36\]:-
 
-In relation to the Prosecution’s submission, I accept that the use of the Internet is a relevant sentencing consideration in that there is a strong public interest to deter potential offenders from using that medium to reach a larger number of potential victims.
+> In relation to the Prosecution’s submission, I accept that the use of the Internet is a relevant sentencing consideration in that there is a strong public interest to deter potential offenders from using that medium to reach a larger number of potential victims.
 
 63     The fact that the accused was a serial cheat who had committed multiple offences against 2 victims was another aggravating factor.[^25]
 

@@ -15,7 +15,7 @@
 
 The Accused, a Singaporean male aged 62, claimed trial to a single charge of driving without reasonable consideration under section 65(b) of the Road Traffic Act. The charge reads:
 
-_“You… are charged that you, on 9 October 2017 at or about 12:25 pm, along Bukit Timah Road slip road into Dunearn Road (Bukit Timah Road u-turn into Dunearn Road), Singapore, did drive motor van PA 5098R without reasonable consideration for other persons using the road, to wit, by failing to give way to a vehicle with the right of way when making the u-turn, in the process, cutting into the path of the unknown motor vehicle, resulting in the said vehicle to apply brakes in order to avoid a near collision with your vehicle, and you have thereby committed an offence punishable under section 65(b) of the Road Traffic Act, Chapter 276._
+> _“You… are charged that you, on 9 October 2017 at or about 12:25 pm, along Bukit Timah Road slip road into Dunearn Road (Bukit Timah Road u-turn into Dunearn Road), Singapore, did drive motor van PA 5098R without reasonable consideration for other persons using the road, to wit, by failing to give way to a vehicle with the right of way when making the u-turn, in the process, cutting into the path of the unknown motor vehicle, resulting in the said vehicle to apply brakes in order to avoid a near collision with your vehicle, and you have thereby committed an offence punishable under section 65(b) of the Road Traffic Act, Chapter 276._
 
 2       At the conclusion of the trial, I found the Accused guilty and convicted him on the charge. He was fined a sum of $800 which he duly paid. The Accused has appealed against both conviction and sentence.
 
@@ -29,9 +29,9 @@ _“You… are charged that you, on 9 October 2017 at or about 12:25 pm, along B
 
 5       The Prosecution’s case was made of these essential pieces of evidence:
 
-a)     The testimonies of PW1 SSgt Syafa’at Bin Abdul Rahman and PW2 Nur Sabrina Bte Mustaffa;
+> a)     The testimonies of PW1 SSgt Syafa’at Bin Abdul Rahman and PW2 Nur Sabrina Bte Mustaffa;
 
-b)     A video footage (marked and admitted as P3)
+> b)     A video footage (marked and admitted as P3)
 
 #### Evidence of PW1 SSgt Syafa’at Bin Abdul Rahman
 
@@ -69,13 +69,13 @@ b)     A video footage (marked and admitted as P3)
 
 20     The pertinent footage that formed a crucial part of the Prosecution’s evidence against the Accused ran from time-stamp 0:17:01 to 0:17:35. It showed the Accused’s van along Bukit Timah Road, turning into the slip road to make the u-turn onto Dunearn Road. I make the following observations upon viewing this portion of the footage:
 
-a)     As the Accused’s van was waiting to make the u-turn, one could see bright flashes reflected at the rear of the Accused’s van. This indicated that the blinkers on the patrol car, which was right behind the Accused’s van, were on, as testified to by PW1 and PW2;
+> a)     As the Accused’s van was waiting to make the u-turn, one could see bright flashes reflected at the rear of the Accused’s van. This indicated that the blinkers on the patrol car, which was right behind the Accused’s van, were on, as testified to by PW1 and PW2;
 
-b)     There was a steady flow of traffic along Dunearn Road as the Accused was waiting for his turn to make the u-turn;
+> b)     There was a steady flow of traffic along Dunearn Road as the Accused was waiting for his turn to make the u-turn;
 
-c)     After the Accused executed the u-turn into Dunearn Road, a blue vehicle (in footage: one SLQ 9758G) was seen coming closely behind the Accused’s van, honking;
+> c)     After the Accused executed the u-turn into Dunearn Road, a blue vehicle (in footage: one SLQ 9758G) was seen coming closely behind the Accused’s van, honking;
 
-d)     The brake lights on the blue vehicle were lit up[^12].
+> d)     The brake lights on the blue vehicle were lit up[^12].
 
 ## Assessing the Prosecution’s Evidence
 

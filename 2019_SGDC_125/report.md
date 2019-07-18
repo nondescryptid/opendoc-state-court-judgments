@@ -41,25 +41,25 @@ He is appealing against the sentences imposed.
 
 7       Eventually, the Accused was restrained and escorted out of the Club and towards the police vehicle. Whilst being escorted out, the Accused uttered expletives in the Hokkien language, directed at ASP Diong’s mother. The Accused did this repeatedly, despite ASP Diong warning him to stop. The Accused’s vulgarities form the subject of the charge under s 6(3) of the Protection from Harassment Act (“the Harassment Charge”). The Harassment charge reads:
 
-you, on 3rd February 2018 at or about 1.15am, at Club Nexus in Oriental Plaza, located at 291 New Bridge Road, Singapore, did use abusive words towards one Diong Kok Leong, an Assistant Superintendent of Police (ASP) of the Singapore Police Force, who is a public servant, in relation to the execution of his duty as such public servant, to wit, by uttering the words “Na Bei Chee Bye” in Hokkien dialect, which meant “Your mother’s cunt” in English at the said public servant, and you have thereby committed an offence punishable under Section 6(3) of the Protection from Harassment Act, Chapter 256A.
+> you, on 3rd February 2018 at or about 1.15am, at Club Nexus in Oriental Plaza, located at 291 New Bridge Road, Singapore, did use abusive words towards one Diong Kok Leong, an Assistant Superintendent of Police (ASP) of the Singapore Police Force, who is a public servant, in relation to the execution of his duty as such public servant, to wit, by uttering the words “Na Bei Chee Bye” in Hokkien dialect, which meant “Your mother’s cunt” in English at the said public servant, and you have thereby committed an offence punishable under Section 6(3) of the Protection from Harassment Act, Chapter 256A.
 
 8       After the Accused was brought to the police vehicle, he continued behaving in an aggressive manner towards ASP Diong and the other SSB officers. He identified himself as ‘Marlboro’, declaring that he was a gang member of the “Sio Gi Ho” secret society of the ‘18’ group and that he was not afraid of any police officers. The Accused also continued to utter the abovementioned Hokkien expletives at ASP Diong.
 
 9       The Accused’s two acts of:
 
-(a)     shouting “Yo Ah Yo” (this being a slogan of the ‘Sio Gi Ho’ secret society); and
+> (a)     shouting “Yo Ah Yo” (this being a slogan of the ‘Sio Gi Ho’ secret society); and
 
-(b)     identifying himself to ASP Diong as a member of the ‘Sio Gi Ho’ secret society,
+> (b)     identifying himself to ASP Diong as a member of the ‘Sio Gi Ho’ secret society,
 
 form the subject of the charge under s 14(3) of the Societies Act (“the Societies Act Charge”) which the Prosecution proceeded with. The Societies Act charge reads:
 
-you, on 3rd February 2018, at or about 1.15am, at Club Nexus located at No. 291 New Bridge Road, Oriental Plaza, Singapore, had acted as a member of the ‘Sio Gi Ho’ Secret Society of the ‘18’ Group, an unlawful society, to wit,
+> you, on 3rd February 2018, at or about 1.15am, at Club Nexus located at No. 291 New Bridge Road, Oriental Plaza, Singapore, had acted as a member of the ‘Sio Gi Ho’ Secret Society of the ‘18’ Group, an unlawful society, to wit,
 
-\-    by shouting ‘Yo Ah Yo’, the gang slogan of the said unlawful society, and
+>> \-    by shouting ‘Yo Ah Yo’, the gang slogan of the said unlawful society, and
 
-\-    by identifying yourself as a member of the said unlawful society to Assistant Superintendent of Police (ASP) Diong Kok Leong,
+>> \-    by identifying yourself as a member of the said unlawful society to Assistant Superintendent of Police (ASP) Diong Kok Leong,
 
-and you have thereby committed an offence punishable under section 14(3) of the Societies Act, Chapter 311
+> and you have thereby committed an offence punishable under section 14(3) of the Societies Act, Chapter 311
 
 ## Antecedents
 
@@ -69,27 +69,27 @@ and you have thereby committed an offence punishable under section 14(3) of the 
 
 11     The relevant portion of s 14(3) of the Societies Act is set out below:
 
-Any person who
+> Any person who
 
-\-     **_is_** or
+>> \-     **_is_** or
 
-\-     **_acts as_**
+>> \-     **_acts as_**
 
-a member of an unlawful society… shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 3 years or to both. \[emphasis added\]
+> a member of an unlawful society… shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 3 years or to both. \[emphasis added\]
 
 12     The membership prohibition in s 14(3) thus has two limbs: [^7]
 
-(a)     the prohibition against _being_ a member; and
+> (a)     the prohibition against _being_ a member; and
 
-(b)     the prohibition against _acting as_ a member.
+> (b)     the prohibition against _acting as_ a member.
 
 In this case, the Societies Act Charge which the Prosecution proceeded with pertains to the second limb, i.e. “acting as” a member.[^8]
 
 13     Insofar as the Accused’s _actus reus_ of acting as a member is concerned, this comprises two parts:
 
-(a)     shouting the slogan “Yo Ah Yo”; and
+> (a)     shouting the slogan “Yo Ah Yo”; and
 
-(b)     identifying himself to ASP Diong as a secret society member.
+> (b)     identifying himself to ASP Diong as a secret society member.
 
 I will deal with each part in turn.
 
@@ -103,9 +103,9 @@ I will deal with each part in turn.
 
 17     The Prosecution also cited two other precedents where the charge was for **being** a member of an unlawful society under s 14(3) (unlike in _Suffiandy_, where the charge was for **acting** as a member):
 
-(a)     In _PP v Jaiseelan s/o Muthusamy_ (SC-903241-2018, unreported) (“_Jaiseelan_”), the offender attended a funeral while sporting tattoos and wearing a shirt with emblems tied to his secret society. He was sentenced to 10 weeks’ imprisonment for the charge under s 14(3) of the Societies Act.
+> (a)     In _PP v Jaiseelan s/o Muthusamy_ (SC-903241-2018, unreported) (“_Jaiseelan_”), the offender attended a funeral while sporting tattoos and wearing a shirt with emblems tied to his secret society. He was sentenced to 10 weeks’ imprisonment for the charge under s 14(3) of the Societies Act.
 
-(b)     In _PP v Ho Kok Fah_ (SC-902742-2018, unreported) (“_Ho Kok Fah_”), the offender initiated a settlement talk and brought his fellow secret society members to attend the talk (which ended amicably). He was sentenced to 3 months’ imprisonment.
+> (b)     In _PP v Ho Kok Fah_ (SC-902742-2018, unreported) (“_Ho Kok Fah_”), the offender initiated a settlement talk and brought his fellow secret society members to attend the talk (which ended amicably). He was sentenced to 3 months’ imprisonment.
 
 As with _Suffiandy_, custodial terms were imposed for the s 14(3) charge in both _Jaiseelan_ and _Ho Kok Fah_, despite the absence of any accompanying gang violence. However, as with _Suffiandy_, the offenders in _Jaiseelan_ and _Ho Kok Fah_ were heavily traced for antecedents.
 
@@ -123,13 +123,13 @@ As with _Suffiandy_, custodial terms were imposed for the s 14(3) charge in both
 
 19     Reverting to the present case, the Accused had repeatedly shouted the ‘Sio Gi Ho’ secret society slogan. The Prosecution argued that public chanting of secret society slogans gives rise to two types of harm:
 
-(a)     First, it causes alarm to member of the public. Overt displays of gang affiliation bring back the spectre of secret society activities.
+> (a)     First, it causes alarm to member of the public. Overt displays of gang affiliation bring back the spectre of secret society activities.
 
-(b)     Second, it risks triggering violence, e.g. by provoking rival gangs within the same area to react.
+> (b)     Second, it risks triggering violence, e.g. by provoking rival gangs within the same area to react.
 
 20     In the mitigation plea, the Defence explained that the Accused had been in a joyous mood and was dancing with his girlfriend. When the crowd started chanting “Yo Ah Yo”, the Accused “did not think much of it and decided to join in”.[^10] Furthermore, the Defence said that the slogan “Yo Ah Yo” shouted by the Accused was “an extremely limited fragment” of the fuller chant, which ran as follows: [^11]
 
-Wan Shui Wan Shui Yo Ah Yo; Wan Shui Ginna Sio Yi \[_sic_\] Ho.
+> Wan Shui Wan Shui Yo Ah Yo; Wan Shui Ginna Sio Yi \[_sic_\] Ho.
 
 The Defence thus said that the slogan shouted by the Accused failed to extend to the line within the chant that actually identifies the ‘Sio Gi Ho’ secret society.
 
@@ -139,17 +139,17 @@ The Defence thus said that the slogan shouted by the Accused failed to extend to
 
 23     However, I agreed with the Prosecution that the Accused’s slogan shouting engendered real harm, both actual and potential:
 
-(a)     The Accused committed the offence not in some remote location, out of the public eye. He did it in a public place. I agreed with the Prosecution that the harm resulting from this was the disquiet that would have arisen amongst the patrons at the Club. While the Statement of Facts did not explicitly allude to members of the public feeling fear or unease, it would not be unreasonable to infer such harm. This is particularly so given that the Accused did not just chant the slogan but had repeatedly _shouted_ it.
+> (a)     The Accused committed the offence not in some remote location, out of the public eye. He did it in a public place. I agreed with the Prosecution that the harm resulting from this was the disquiet that would have arisen amongst the patrons at the Club. While the Statement of Facts did not explicitly allude to members of the public feeling fear or unease, it would not be unreasonable to infer such harm. This is particularly so given that the Accused did not just chant the slogan but had repeatedly _shouted_ it.
 
-(b)     As pointed out by the Prosecution, the public chanting of such slogans carries the risk of triggering rival gang reactions. In this case, no gang violence erupted from the Accused’s slogan shouting, so the actual harm may not have been high in that respect. However, the fact that the Accused repeatedly shouted the slogan despite the _potential risk_ of triggering gang violence went towards his culpability. Cases in the past have shown that the chanting of secret society slogans can trigger fights between rival gangs[^12] and very often serves as a prelude to such violence.[^13] In this particular instance, the risk of triggering gang reactions at the Club could not be dismissed out of hand. The Accused himself had asserted that there was a crowd at the Club chanting “Yo Ah Yo”,[^14] so he would be hard put to assert that the Club was free of secret society elements. I further note that the Club was, after all, a spot which the SSB had specifically identified for conducting its enforcement rounds.
+> (b)     As pointed out by the Prosecution, the public chanting of such slogans carries the risk of triggering rival gang reactions. In this case, no gang violence erupted from the Accused’s slogan shouting, so the actual harm may not have been high in that respect. However, the fact that the Accused repeatedly shouted the slogan despite the _potential risk_ of triggering gang violence went towards his culpability. Cases in the past have shown that the chanting of secret society slogans can trigger fights between rival gangs[^12] and very often serves as a prelude to such violence.[^13] In this particular instance, the risk of triggering gang reactions at the Club could not be dismissed out of hand. The Accused himself had asserted that there was a crowd at the Club chanting “Yo Ah Yo”,[^14] so he would be hard put to assert that the Club was free of secret society elements. I further note that the Club was, after all, a spot which the SSB had specifically identified for conducting its enforcement rounds.
 
 24     As regards the Defence’s argument that the Accused merely uttered a single slogan from the ‘Sio Gi Ho’ chant (rather than the full chant), I failed to see how this mitigated his actions. If the “Yo Ah Yo” slogan (being only a fragment of the full chant) bore little or no significance, this begged the question of why the Accused saw fit to shout it. The Accused (having previously been a ‘fighter” of the ‘Sio Gi Ho’ secret society) knew full well the significance of chanting “Yo Ah Yo” – he admitted as much to this in his mitigation plea.[^15] The Accused had also admitted unequivocally that the slogan “Yo Ah Yo” is a gang slogan of the ‘Sio Gi Ho’ secret society.[^16] So long as that slogan is sufficient to signify affiliation with the ‘Sio Gi Ho’ secret society, the fact that the entire chant was not fully recited does not detract from that slogan’s significance, and consequently its ability to cause disquiet and potentially trigger rival gang reactions. The Accused certainly did not venture to suggest that rival gangs were unaware of what “Yo Ah Yo” stood for.
 
 25     The precedents cited by the Prosecution, while helpful, did not specifically relate to the act of slogan chanting. After the notice of appeal was filed against my decision, I managed to find two precedents which did. The caveat is therefore that neither party had a chance to put forward their views on these two precedents. Nevertheless, I think they offer some assistance:
 
-(a)     In _PP v Adam Malik Bin Bahtiar_ (SC-911363-2017, unreported) (“_Adam Malik_”), the offender had chanted his secret society’s slogan at a funeral procession. He was sentenced to 2 months’ imprisonment.
+> (a)     In _PP v Adam Malik Bin Bahtiar_ (SC-911363-2017, unreported) (“_Adam Malik_”), the offender had chanted his secret society’s slogan at a funeral procession. He was sentenced to 2 months’ imprisonment.
 
-(b)     In _PP v Yee Shengwei Justin_ (SC-907144-2018, unreported) (“_Justin Yee_”), the offender had had chanted his secret society’s slogan at a club. He was sentenced to 10 weeks’ imprisonment.
+> (b)     In _PP v Yee Shengwei Justin_ (SC-907144-2018, unreported) (“_Justin Yee_”), the offender had had chanted his secret society’s slogan at a club. He was sentenced to 10 weeks’ imprisonment.
 
 The offender in _Adam Malik_ was heavily traced for antecedents, while the offender in _Justin Yee_ had a clean record. Yet, the latter received a heavier sentence. This could potentially be justified on the ground that the offender in _Justin Yee_ starting chanting after a scuffle broke out between patrons of the club where he was at, meaning that the chanting had the potential to escalate what was already a violent situation. The culpability of the offender in _Justin Yee_ would thus have been higher.
 
@@ -164,11 +164,11 @@ The offender in _Adam Malik_ was heavily traced for antecedents, while the offen
 
 28     In that respect, it appears that when an offender overtly displays his secret society affiliation in a non-violent fashion, e.g. by
 
-(a)     posting a photograph of himself bearing the secret society’s hand symbol (as in _Suffiandy_);
+> (a)     posting a photograph of himself bearing the secret society’s hand symbol (as in _Suffiandy_);
 
-(b)     wearing clothes or sporting tattoos with emblems tied to the secret society (as in _Jaiseelan_); or
+> (b)     wearing clothes or sporting tattoos with emblems tied to the secret society (as in _Jaiseelan_); or
 
-(c)     chanting the secret society’s slogan at a funeral (as in _Adam Malik_),
+> (c)     chanting the secret society’s slogan at a funeral (as in _Adam Malik_),
 
 an imprisonment term of 9 to 10 weeks would be an appropriate starting point (in the case of offenders traced for related criminal antecedents).
 
@@ -176,13 +176,13 @@ an imprisonment term of 9 to 10 weeks would be an appropriate starting point (in
 
 30     Nevertheless, if I am wrong in this regard and the Accused’s slogan shouting merits a starting point of only a fine, I am of the view that the following aggravating factors would suffice to tip the scales toward the custodial option:
 
-(a)     The Accused was intoxicated when he committed the offence - this is a well-established aggravating factor. If excessive consumption of alcohol is going to make a person shed his inhibitions towards criminal conduct, it behoves him to exercise responsibility in his alcohol intake. If that person sees fit not to do so and consequently drinks himself to a state where he has no compunction about breaching the public peace, his failure to exercise restraint at the point of alcohol intake can ordinarily be held against him during sentencing: see _Wong Hoi Len v PP_ <span class="citation">\[2008\] SGHC 146</span> [^18] and more recently _PP v Holman, Benjamin John_ <span class="citation">\[2018\] SGHC 237</span>[^19] and _PP v Satesh s/o Navarlan_ <span class="citation">\[2019\] SGHC 119</span>.[^20] Reverting to the present case, it is hard to see how the Accused exercised any restraint at all. By his own admission,[^21] he drank at least 20 glasses of various alcohol types while at the Club, viz, beer, stout, red wine, white wine and whisky. I had no hesitation in regarding his state of intoxication, which arose from a patent lack of responsibility in drinking, as an aggravating factor.
+> (a)     The Accused was intoxicated when he committed the offence - this is a well-established aggravating factor. If excessive consumption of alcohol is going to make a person shed his inhibitions towards criminal conduct, it behoves him to exercise responsibility in his alcohol intake. If that person sees fit not to do so and consequently drinks himself to a state where he has no compunction about breaching the public peace, his failure to exercise restraint at the point of alcohol intake can ordinarily be held against him during sentencing: see _Wong Hoi Len v PP_ <span class="citation">\[2008\] SGHC 146</span> [^18] and more recently _PP v Holman, Benjamin John_ <span class="citation">\[2018\] SGHC 237</span>[^19] and _PP v Satesh s/o Navarlan_ <span class="citation">\[2019\] SGHC 119</span>.[^20] Reverting to the present case, it is hard to see how the Accused exercised any restraint at all. By his own admission,[^21] he drank at least 20 glasses of various alcohol types while at the Club, viz, beer, stout, red wine, white wine and whisky. I had no hesitation in regarding his state of intoxication, which arose from a patent lack of responsibility in drinking, as an aggravating factor.
 
-(b)     The Accused resisted arrest when the SSB officers tried to arrest him - this was also an aggravating factor. In terms of culpability, the Accused’s conduct clearly cannot be placed on the same platform as someone who peacefully submits to police arrest. The manner in which the Accused resisted arrest was particularly aggravating −he put up a _violent struggle_ (to the point that he had to be restrained).[^22] In his mitigation, the Accused explained that when he suddenly found himself surrounded by SSB officers, he tried to distance himself but he was immediately pulled back.[^23] As he was not able to fully grasp what was happening, it was “natural” for him to struggle.[^24] However, by this time, the police officers had already identified themselves as being from the SSB and asked him to follow them (to which he refused). In my view, there is nothing “natural” about putting up a violent struggle against police officers who are exercising their duty within the bounds of the law. This not only undermines police authority in the public eye but also exposes the officers to physical risks. I can do no better than echo the words of the High Court in _PP v Yeo Ek Boon, Jeffrey_ <span class="citation">\[2017\] SGHC 306</span> (“_Jeffrey Yeo_”):[^25]
+> (b)     The Accused resisted arrest when the SSB officers tried to arrest him - this was also an aggravating factor. In terms of culpability, the Accused’s conduct clearly cannot be placed on the same platform as someone who peacefully submits to police arrest. The manner in which the Accused resisted arrest was particularly aggravating −he put up a _violent struggle_ (to the point that he had to be restrained).[^22] In his mitigation, the Accused explained that when he suddenly found himself surrounded by SSB officers, he tried to distance himself but he was immediately pulled back.[^23] As he was not able to fully grasp what was happening, it was “natural” for him to struggle.[^24] However, by this time, the police officers had already identified themselves as being from the SSB and asked him to follow them (to which he refused). In my view, there is nothing “natural” about putting up a violent struggle against police officers who are exercising their duty within the bounds of the law. This not only undermines police authority in the public eye but also exposes the officers to physical risks. I can do no better than echo the words of the High Court in _PP v Yeo Ek Boon, Jeffrey_ <span class="citation">\[2017\] SGHC 306</span> (“_Jeffrey Yeo_”):[^25]
 
-Police officers are often exposed to violence and aggression in their frontline duties daily. They frequently endanger their lives and risk their personal safety in the discharge of their duties to protect society by maintaining law and order. While one could argue that danger is inherent in the work of the police on the ground, surely those who preserve law and order and protect society dutifully deserve to feel assured that they will be protected adequately by the law that they uphold.
+>> Police officers are often exposed to violence and aggression in their frontline duties daily. They frequently endanger their lives and risk their personal safety in the discharge of their duties to protect society by maintaining law and order. While one could argue that danger is inherent in the work of the police on the ground, surely those who preserve law and order and protect society dutifully deserve to feel assured that they will be protected adequately by the law that they uphold.
 
-(c)     The Accused committed the offence while he was on bail for the Affray Charge - this is an aggravating factor: see _Public Prosecutor v Loqmanul Hakim bin Buang_ <span class="citation">\[2007\] SGHC 159</span>[^26]. The Accused was already being investigated for an offence involving disturbance to the public peace. When he was released in the interim, he went on to commit yet another offence impinging on public peace and order. The Accused’s conduct demonstrated the need for deterrence in sentencing.
+> (c)     The Accused committed the offence while he was on bail for the Affray Charge - this is an aggravating factor: see _Public Prosecutor v Loqmanul Hakim bin Buang_ <span class="citation">\[2007\] SGHC 159</span>[^26]. The Accused was already being investigated for an offence involving disturbance to the public peace. When he was released in the interim, he went on to commit yet another offence impinging on public peace and order. The Accused’s conduct demonstrated the need for deterrence in sentencing.
 
 31     Over and above these aggravating factors, the Affray Charge needs to be substantively taken into consideration for the purpose of sentencing. That would merit yet a further uplift in sentence.
 
@@ -192,7 +192,7 @@ Police officers are often exposed to violence and aggression in their frontline 
 
 33     The Prosecution submitted that the Accused’s words were intended to threaten ASP Diong. The Prosecution said that this was an aggravating factor, highlighting the policy enunciated in _Jeffrey Yeo_, i.e. that our police officers need to be assured of adequate protection when discharging their duties:[^27]
 
-Police officers must therefore be assured of adequate protection and vindication by the law against behaviour that might compromise the effective discharge of their duties. In that light and coupled with the fact that police officers were often the target in the cases prosecuted under s 332 of the Penal Code, it is appropriate to have a sentencing framework which reflects society's opprobrium of such offences. …
+> Police officers must therefore be assured of adequate protection and vindication by the law against behaviour that might compromise the effective discharge of their duties. In that light and coupled with the fact that police officers were often the target in the cases prosecuted under s 332 of the Penal Code, it is appropriate to have a sentencing framework which reflects society's opprobrium of such offences. …
 
 34     In my opinion, due care should be exercised before gleaning a threat from the Accused’s words, particularly if this is meant to be construed as aggravating. The Statement of Facts did not explicitly equate the Accused’s words with a threat. Nor was any charge preferred against the Accused under s 6(1)(a) of the Protection from Harassment Act in respect of these words. The Defence also pointed out during the hearing that there is no evidence of the SSB officers _actually_ feeling intimidated by the Accused’s words. There is thus a need to scrutinize the facts carefully, to see if the Prosecution’s allegation is well founded.
 
@@ -200,15 +200,15 @@ Police officers must therefore be assured of adequate protection and vindication
 
 36     I am of the view that the Defence’s claim that the Accused’s words were was just “drunk talk” ignores the context in which they were uttered. To recap, the chain of events was as follows:
 
-(a)     ASP Diong told the Accused to follow him but the Accused refused to comply.
+> (a)     ASP Diong told the Accused to follow him but the Accused refused to comply.
 
-(b)     The Accused then behaved aggressively.
+> (b)     The Accused then behaved aggressively.
 
-(c)     When the SSB officers purported to effect arrest, the Accused put up a violent struggle.
+> (c)     When the SSB officers purported to effect arrest, the Accused put up a violent struggle.
 
-(d)     While the Accused was being led out, he repeatedly used expletives on ASP Diong, despite being warned to stop.
+> (d)     While the Accused was being led out, he repeatedly used expletives on ASP Diong, despite being warned to stop.
 
-(e)     Even after being led to the police vehicle, he continued to behave in an aggressive manner. He also continued to direct the same expletives at ASP Diong.
+> (e)     Even after being led to the police vehicle, he continued to behave in an aggressive manner. He also continued to direct the same expletives at ASP Diong.
 
 The Accused’s disposition was clearly to defy the SSB officers at every turn and undermine their efforts to enforce order. In finally ending off by identifying himself with the ‘Sio Gi Ho’ Secret Society and saying that he was not afraid of the police, the Accused’s words were entirely consistent with that disposition, rather than with drunken ramblings.
 
@@ -224,21 +224,21 @@ The Accused’s disposition was clearly to defy the SSB officers at every turn a
 
 41     The Accused’s slogan shouting would have caused some harm, in the sense of public unease and disquiet. Even if one were to regard this head of harm as low, I think that the Accused’s culpability was not insignificant. This was in light of the potential for harm which he created by repeatedly shouting the slogan, which contributed to the risk of gang reactions in a public arena. Bearing in mind:
 
-(a)     the custodial terms imposed in the precedents cited above (specifically, _Suffiandy_, _Jaiseelan_ and _Adam Malik_, where imprisonment terms of about 9 to 10 weeks were imposed);
+> (a)     the custodial terms imposed in the precedents cited above (specifically, _Suffiandy_, _Jaiseelan_ and _Adam Malik_, where imprisonment terms of about 9 to 10 weeks were imposed);
 
-(b)     the Accused’s plea of guilt; and
+> (b)     the Accused’s plea of guilt; and
 
-(c)     his (relatively) clean record,
+> (c)     his (relatively) clean record,
 
 I view the Accused’s slogan shouting as meriting a short custodial term as a starting point.
 
 42     If I am wrong in that conclusion and the slogan shouting only merits a fine, I am of the view that the following aggravating factors in this case would suffice to tip the scales towards an imprisonment term:
 
-(a)     The Accused’s state of intoxication at the time of the offence;
+> (a)     The Accused’s state of intoxication at the time of the offence;
 
-(b)     His violent resistance of arrest; and
+> (b)     His violent resistance of arrest; and
 
-(c)     The fact that the offence was committed while he was on bail.
+> (c)     The fact that the offence was committed while he was on bail.
 
 43     Furthermore, the Affray Charge, when taken into consideration for the purpose of sentencing, would merit a further uplift in sentence.
 
@@ -250,27 +250,27 @@ I view the Accused’s slogan shouting as meriting a short custodial term as a s
 
 46     The expletives uttered by the Accused against ASP Diong gave rise to the offence of using abusive words against a public servant, under s 6 of the Protection from Harassment Act. The relevant portions of the provision are set out below:
 
-**6**.     **Threatening, abusing or insulting public servant or public service worker**
+> **6**.     **Threatening, abusing or insulting public servant or public service worker**
 
-(1)    No person shall by any means —
+> (1)    No person shall by any means —
 
-(a)    use any indecent, threatening, abusive or insulting words or behaviour; …
+>> (a)    use any indecent, threatening, abusive or insulting words or behaviour; …
 
-towards or to a public servant … (referred to for the purposes of this section as the victim) in relation to the execution of the victim’s duty as such public servant or public service worker.
+>> towards or to a public servant … (referred to for the purposes of this section as the victim) in relation to the execution of the victim’s duty as such public servant or public service worker.
 
-…
+> …
 
-(3)    Any person who contravenes subsection (1) shall be guilty of an offence and, subject to section 8, shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both.
+> (3)    Any person who contravenes subsection (1) shall be guilty of an offence and, subject to section 8, shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both.
 
 47     For offences under s 6(1)(a), recent sentencing precedents show that a fine ranging from $3,000 to $4,000 is usually imposed where:
 
-(a)     vulgarities are directed against the public servant;
+> (a)     vulgarities are directed against the public servant;
 
-(b)     there are no other accompanying offences (e.g. no use of criminal force against the public servant concerned);
+> (b)     there are no other accompanying offences (e.g. no use of criminal force against the public servant concerned);
 
-(c)     the offender pleads guilty; and
+> (c)     the offender pleads guilty; and
 
-(d)     he is untraced for antecedents.
+> (d)     he is untraced for antecedents.
 
 This is of course subject to the operation of any other aggravating or mitigating factors.
 
@@ -280,9 +280,9 @@ This is of course subject to the operation of any other aggravating or mitigatin
 
 50     I decided that the appropriate sentence was a **fine of $5,000**.[^35] This was in light of:
 
-(a)     the manner in which the offence was committed −the Accused directed the expletives at ASP Diong repeatedly, despite being warned to stop; and
+> (a)     the manner in which the offence was committed −the Accused directed the expletives at ASP Diong repeatedly, despite being warned to stop; and
 
-(b)     the aggravating factors cited above (e.g. commission of the offence while on bail and in a state of intoxication).
+> (b)     the aggravating factors cited above (e.g. commission of the offence while on bail and in a state of intoxication).
 
 ## Conclusion
 

@@ -15,9 +15,9 @@ Do Thi Phuong (the accused), female, aged 35, claimed trial and was convicted on
 
 2       The offence was committed on 13 March 2014 at the Permanent Resident Services Centre, Immigration & Checkpoints Authority (ICA) located at the ICA Building, 10 Kallang Road when the accused submitted an Application for Permanent Residence in Singapore form. In this form, she declared that the particulars stated in the said form were true and correct and that she had not wilfully suppressed any material fact, when she stated in Part A of the said form that:
 
-a)     Her present residential address in Singapore was Block 114, Bedok North St 2, #XXX, Singapore 460114 and
+> a)     Her present residential address in Singapore was Block 114, Bedok North St 2, #XXX, Singapore 460114 and
 
-b)     That she was residing with the sponsor, Mat Peng Hwa, PW1, at the above address at the time of the application, which statements she knew to be false and as a result of her application, she obtained an entry permit granting her permanent residence on 30 June 2015.
+> b)     That she was residing with the sponsor, Mat Peng Hwa, PW1, at the above address at the time of the application, which statements she knew to be false and as a result of her application, she obtained an entry permit granting her permanent residence on 30 June 2015.
 
 3       The accused was sentenced to serve 8 weeks’ imprisonment. She is now appealing against her conviction and sentence.
 
@@ -87,17 +87,17 @@ b)     That she was residing with the sponsor, Mat Peng Hwa, PW1, at the ab
 
 27     The prosecution witnesses disputed the accused’s claim that she returned to the Bedok flat even once a week after she left. These 2 witnesses would be Mat and his mother, Mdm Ah Moi, PW2. Mat was unequivocally firm that after the accused left in June 2013 to stay in the Marine Terrace flat, she did not return to stay in the Bedok flat[^4]. He elaborated that the accused came back just to visit his mother and that apart from this visit, she did not stay at all in the Bedok flat[^5]. His testimony was corroborated by Mdm Ah Moi. Her evidence, which was unchallenged by the defence and it was never put to her that she was lying, was to the same effect, in that after the accused moved out[^6] to a place that she was not aware of, the accused only came back to visit her once[^7]. The following questions posted to her and answers[^8] provided by Mdm Ah Moi, were overwhelmingly clear.
 
-_Q_ _Okay, Mdm. Ah Moi, you said earlier that the accused person used to stay or reside in Block 114 Bedok North Street 2, correct? She used to stay there, am I right?_
+> _Q_ _Okay, Mdm. Ah Moi, you said earlier that the accused person used to stay or reside in Block 114 Bedok North Street 2, correct? She used to stay there, am I right?_
 
-_A_ _Correct._
+> _A_ _Correct._
 
-_Q_ _Yes. Do you know when she moved out from that unit in Block---from 114 Bedok North, do you know?_
+> _Q_ _Yes. Do you know when she moved out from that unit in Block---from 114 Bedok North, do you know?_
 
-_A_ _I’ve forgotten. She moved out and I didn’t pay attention to the date on which she moved._
+> _A_ _I’ve forgotten. She moved out and I didn’t pay attention to the date on which she moved._
 
-_Q_ _Okay, after she moved out from Block 114 Bedok North Street 2, did she ever come back to---come back to Block 114 to stay---to stay there as well or she just visited you?_
+> _Q_ _Okay, after she moved out from Block 114 Bedok North Street 2, did she ever come back to---come back to Block 114 to stay---to stay there as well or she just visited you?_
 
-_A_ _Just to visit me._
+> _A_ _Just to visit me._
 
 28     There was no mention of Mat being around during this singular visit by the accused and her 2 sons.
 

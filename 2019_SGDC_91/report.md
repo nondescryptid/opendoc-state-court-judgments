@@ -17,15 +17,15 @@
 
 2       The accused has appealed against the sentence impose on him. He is presently on bail pending appeal.
 
-**_The Charges_**
+> **_The Charges_**
 
-**_DAC-929529-2018_**
+> **_DAC-929529-2018_**
 
-_You are charged that you, sometime on 16 November to 20 November 2016, at Lai Yi Wan Minced Pork Noodle Stall located at Blk 84 Marine Parade Central #01-182, Singapore, while being employed in the capacity of a servant, to wit, a hawker assistant, did commit theft of cash amounting to a total value of SGD$700/- in the possession of your employer, Ho Thiam Teng Michael, and you have thereby committed an offence punishable under s 381 of the Penal Code (Cap 224, 2008 Rev Ed)._
+> _You are charged that you, sometime on 16 November to 20 November 2016, at Lai Yi Wan Minced Pork Noodle Stall located at Blk 84 Marine Parade Central #01-182, Singapore, while being employed in the capacity of a servant, to wit, a hawker assistant, did commit theft of cash amounting to a total value of SGD$700/- in the possession of your employer, Ho Thiam Teng Michael, and you have thereby committed an offence punishable under s 381 of the Penal Code (Cap 224, 2008 Rev Ed)._
 
-**_DAC-929530-2018_**
+> **_DAC-929530-2018_**
 
-_You are charged that you, sometime on 21 November 2016, at Lai Yi Wan Minced Pork Noodle Stall located at Blk 84 Marine Parade Central #01-182, Singapore, while being employed in the capacity of a servant, to wit, a hawker assistant, did commit theft of cash amounting to a total value of SGD$400/- in the possession of your employer, Ho Thiam Teng Michael (m/44 years old), and you have thereby committed an offence punishable under s 381 of the Penal Code (Cap 224, 2008 Rev Ed)._
+> _You are charged that you, sometime on 21 November 2016, at Lai Yi Wan Minced Pork Noodle Stall located at Blk 84 Marine Parade Central #01-182, Singapore, while being employed in the capacity of a servant, to wit, a hawker assistant, did commit theft of cash amounting to a total value of SGD$400/- in the possession of your employer, Ho Thiam Teng Michael (m/44 years old), and you have thereby committed an offence punishable under s 381 of the Penal Code (Cap 224, 2008 Rev Ed)._
 
 ## Statement of Facts
 
@@ -37,43 +37,43 @@ STATEMENT OF FACTS
 
 (Incorporating 2 charges)
 
-1    The victim is Ho Thiam Teng, Michael, Male, 44 years old, Singaporean. He is the owner of Lai Yi Wan Minced Pork Noodle Stall located at No. 84 Marine Parade Central, #01-182, Singapore (“Lai Yi Wan”). At the material time, he was 42 years old.
+> 1    The victim is Ho Thiam Teng, Michael, Male, 44 years old, Singaporean. He is the owner of Lai Yi Wan Minced Pork Noodle Stall located at No. 84 Marine Parade Central, #01-182, Singapore (“Lai Yi Wan”). At the material time, he was 42 years old.
 
-2    The accused is Seah Kim Hock, Male, 38 years old, Singaporean bearing NRIC No. XXX (date of birth: 22 October 1980). At the material time, he was 36 years old and was employed by the victim as a hawker assistant at Lai Yi Wan.
+> 2    The accused is Seah Kim Hock, Male, 38 years old, Singaporean bearing NRIC No. XXX (date of birth: 22 October 1980). At the material time, he was 36 years old and was employed by the victim as a hawker assistant at Lai Yi Wan.
 
-FIRST INFORMATION REPORT
+> FIRST INFORMATION REPORT
 
-3    On 29 November 2016, at about 3.10 p.m., the victim went to Marine Parade Neighbourhood Police Post and reported a case of theft by the accused on two separate occasions. The incident location was given as Lai Yi Wan.
+> 3    On 29 November 2016, at about 3.10 p.m., the victim went to Marine Parade Neighbourhood Police Post and reported a case of theft by the accused on two separate occasions. The incident location was given as Lai Yi Wan.
 
-FACTS RELATING TO THE 1ST CHARGE
+> FACTS RELATING TO THE 1ST CHARGE
 
-4    On 20 November 2016, the victim received a text message from the accused stating that the accused took monies from the stall’s earnings on 16 and 17 November 2016 earnings. The victim told the accused that he was not allowed to take the said monies from the stall’s earnings. However, on the same day, the victim went to check at the earnings at the stall and discovered cash amounting to about S$800/- missing from the total earnings.
+> 4    On 20 November 2016, the victim received a text message from the accused stating that the accused took monies from the stall’s earnings on 16 and 17 November 2016 earnings. The victim told the accused that he was not allowed to take the said monies from the stall’s earnings. However, on the same day, the victim went to check at the earnings at the stall and discovered cash amounting to about S$800/- missing from the total earnings.
 
-5    Investigations revealed that the accused admitted to taking the said S$700 in cash from the stall’s earnings sometime on 16 November to 20 November 2016, he also admitted to taking S$80 because he deemed it as his salary for two days.
+> 5    Investigations revealed that the accused admitted to taking the said S$700 in cash from the stall’s earnings sometime on 16 November to 20 November 2016, he also admitted to taking S$80 because he deemed it as his salary for two days.
 
-6    The accused had, while being employed in the capacity of a servant, to wit, a hawker assistant, did dishonestly removed cash amounting to S$700 sometime on 16 November to 20 November 2016, from the possession of the victim, who was his employer. By virtue of the foregoing, the accused has committed an offence of theft as a servant under s 381 of the Penal Code (Cap 224, 2008 Rev Ed) (“Penal Code”).
+> 6    The accused had, while being employed in the capacity of a servant, to wit, a hawker assistant, did dishonestly removed cash amounting to S$700 sometime on 16 November to 20 November 2016, from the possession of the victim, who was his employer. By virtue of the foregoing, the accused has committed an offence of theft as a servant under s 381 of the Penal Code (Cap 224, 2008 Rev Ed) (“Penal Code”).
 
-FACTS RELATING TO THE 2 ND CHARGE
+> FACTS RELATING TO THE 2 ND CHARGE
 
-7    On 22 November 2016, the victim realised that S$400 was missing from the stall’s earnings on 21 November 2016. He realised that the money had been taken by the accused during the accused’s shift on 21 November 2016 as the accused had left a payment voucher with his name, amount taken, and signature inside the earnings box. When the victim realised this, he immediately tried to call the accused, but to no avail.
+> 7    On 22 November 2016, the victim realised that S$400 was missing from the stall’s earnings on 21 November 2016. He realised that the money had been taken by the accused during the accused’s shift on 21 November 2016 as the accused had left a payment voucher with his name, amount taken, and signature inside the earnings box. When the victim realised this, he immediately tried to call the accused, but to no avail.
 
-8    The victim then sent a text message to the accused to ask him if he took the S$400. The accused replied to ask the victim to treat it as a loan. However, the victim replied to say “no” and asked him to return the money straightaway. The accused did not do so.
+> 8    The victim then sent a text message to the accused to ask him if he took the S$400. The accused replied to ask the victim to treat it as a loan. However, the victim replied to say “no” and asked him to return the money straightaway. The accused did not do so.
 
-9    Investigations revealed that the accused admitted to taking the said S$400 in cash from the stall’s earnings sometime on 21 November 2016.
+> 9    Investigations revealed that the accused admitted to taking the said S$400 in cash from the stall’s earnings sometime on 21 November 2016.
 
-10    The accused had, while being employed in the capacity of a servant, to wit, a hawker assistant, did dishonestly removed cash amounting to S$400 sometime on 21 November 2016, from the possession of the victim, who was his employer. By virtue of the foregoing, the accused has committed an offence of theft as a servant under s 381 of the Penal Code.
+> 10    The accused had, while being employed in the capacity of a servant, to wit, a hawker assistant, did dishonestly removed cash amounting to S$400 sometime on 21 November 2016, from the possession of the victim, who was his employer. By virtue of the foregoing, the accused has committed an offence of theft as a servant under s 381 of the Penal Code.
 
-CONCLUSION
+> CONCLUSION
 
-11    The accused was subsequently arrested on 14 June 2017 through a Police Gazette. He had spent all the stolen monies and no restitution has been made to the victim.”
+> 11    The accused was subsequently arrested on 14 June 2017 through a Police Gazette. He had spent all the stolen monies and no restitution has been made to the victim.”
 
 ## Prescribed punishment
 
 4       A charge under s. 381 of the Penal Code is punishable as follows –
 
-**Theft by clerk or servant of property in possession of master**
+> **Theft by clerk or servant of property in possession of master**
 
-**381**.    Whoever, being a clerk or servant, or being employed in the capacity of a clerk or servant, commits theft in respect of any property in the possession of his master or employer, _shall be punished with imprisonment for a term which may extend to 7 years, and shall also be liable to fine._
+> **381**.    Whoever, being a clerk or servant, or being employed in the capacity of a clerk or servant, commits theft in respect of any property in the possession of his master or employer, _shall be punished with imprisonment for a term which may extend to 7 years, and shall also be liable to fine._
 
 ## Antecedents
 
@@ -101,15 +101,15 @@ CONCLUSION
 
 12     Under s 359(1) of the Criminal Procedure Code, the Court is required to consider whether or not to make a compensation order against an accused in favour of a victim who was injured in respect of his person, character or property. Section 359(1) of the CPC states:
 
-**_Order for payment of compensation_**
+> **_Order for payment of compensation_**
 
-_359.—(1_)     _The court before which a person is convicted of any offence shall, after the conviction, consider whether or not to make an order for the payment by that person of a sum to be fixed by the court by way of compensation to the person injured, or his representative, in respect of his person, character or property by —_
+> _359.—(1_)     _The court before which a person is convicted of any offence shall, after the conviction, consider whether or not to make an order for the payment by that person of a sum to be fixed by the court by way of compensation to the person injured, or his representative, in respect of his person, character or property by —_
 
-(_a_)     _the offence or offences for which the sentence is passed; and_
+>> (_a_)     _the offence or offences for which the sentence is passed; and_
 
-(_b_)     _any offence that has been taken into consideration for the purposes of sentencing only._
+>> (_b_)     _any offence that has been taken into consideration for the purposes of sentencing only._
 
-(_2_)     _If the court is of the view that it is appropriate to make such an order referred to in subsection (1), it must do so._
+> (_2_)     _If the court is of the view that it is appropriate to make such an order referred to in subsection (1), it must do so._
 
 13     The underlying purpose and rationale of a compensation order has been clearly enunciated in the case of  _Soh Meiyun v Public Prosecutor_ <span class="citation">\[2014\] 3 SLR 299</span> (“_Soh Meiyun_”), Chao JA had stated at paragraph \[ 56\] that “_compensation orders are meant solely to provide redress to the victim and are not intended to punish the offender”_. I also noted that in _PP v Donohue Enilia_  <span class="citation">\[2005\] 1 SLR(R) 220</span> (“_Donohue Enilia_”), it was held that there must be a causal connection between the offence committed by the accused and the injury, loss, or damage suffered by the victim before a compensation order can be made . Such injury, loss, or damage should also be readily ascertainable and not subject to significant dispute (_Donohue Enilia_ at paragraph \[24\].
 

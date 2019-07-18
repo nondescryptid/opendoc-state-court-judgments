@@ -13,9 +13,9 @@
 
 1       On 18 March 2019, Mr Loh pleaded guilty to two charges:
 
-(a)     C1 - one charge of driving a motor vehicle while a third party risks insurance policy was not in force, an offence under s 3(1), punishable under s 3(2) and s 3(3) of the Motor Vehicles (Third Party Risks and Compensation) Act (Cap 189, 2000 Rev Ed) (“Motor Vehicles Act”), and
+> (a)     C1 - one charge of driving a motor vehicle while a third party risks insurance policy was not in force, an offence under s 3(1), punishable under s 3(2) and s 3(3) of the Motor Vehicles (Third Party Risks and Compensation) Act (Cap 189, 2000 Rev Ed) (“Motor Vehicles Act”), and
 
-(b)     C2 – one charge of using a motor vehicle as a public service vehicle (taxi) without a valid licence under s 101(1) punishable under s 101(2) of the Road Traffic Act (Cap 276, 2004 Rev Ed) (“Road Traffic Act”).
+> (b)     C2 – one charge of using a motor vehicle as a public service vehicle (taxi) without a valid licence under s 101(1) punishable under s 101(2) of the Road Traffic Act (Cap 276, 2004 Rev Ed) (“Road Traffic Act”).
 
 Mr Loh was convicted on both charges. Two other charges were taken into consideration for the purpose of sentencing.
 
@@ -25,11 +25,11 @@ Mr Loh was convicted on both charges. Two other charges were taken into consider
 
 3       Proceedings for C1 were initiated on 5 December 2016 by way of a summons to attend court. C1 reads as follows:
 
-\[You\] are charged that you, on 16 July 2016, at about 3.29 am, did use a motor car bearing registration number SGK8467T as a public service vehicle (taxi) along Sentosa Gateway whilst there was not in force in relation to the user of the said vehicle, such a policy of insurance or such a security in respect of third party risks as complies with the requirements of the Motor Vehicles (Third-Party Risks & Compensation) Act… and you have thereby contravened section 3(1) of the said Act which is an offence punishable under section 3(2) and 3(3) of the said Act.
+> \[You\] are charged that you, on 16 July 2016, at about 3.29 am, did use a motor car bearing registration number SGK8467T as a public service vehicle (taxi) along Sentosa Gateway whilst there was not in force in relation to the user of the said vehicle, such a policy of insurance or such a security in respect of third party risks as complies with the requirements of the Motor Vehicles (Third-Party Risks & Compensation) Act… and you have thereby contravened section 3(1) of the said Act which is an offence punishable under section 3(2) and 3(3) of the said Act.
 
 4       C2 reads as follows:
 
-\[You\] are charged that you, on 16 July 2016, at about 3.29 am, did use a motor car bearing registration number SGK8467T as a public service vehicle (taxi) along Sentosa Gateway without there being in force, in respect of the said motor car, a valid licence issued under Part V of the Road Traffic Act… authorising such use, and you have thereby committed an offence under Section 101(1) punishable under Section 101(2) of the said Act.
+> \[You\] are charged that you, on 16 July 2016, at about 3.29 am, did use a motor car bearing registration number SGK8467T as a public service vehicle (taxi) along Sentosa Gateway without there being in force, in respect of the said motor car, a valid licence issued under Part V of the Road Traffic Act… authorising such use, and you have thereby committed an offence under Section 101(1) punishable under Section 101(2) of the said Act.
 
 ## Statement of Facts and Conviction
 
@@ -45,9 +45,9 @@ Mr Loh was convicted on both charges. Two other charges were taken into consider
 
 9       Mr Loh admitted and consented to having two other charges taken into consideration for sentencing, and they are:
 
-(a)     C3 – Plying, at the material time, the Car, for hire along the road in front of Sentosa Gateway in front of St James Power Station in contravention of rule 40(1) of the Road Traffic (Public Service Vehicles) Rules (Cap 276, R14, 1999 Rev Ed) (“Road Traffic (Public Service Vehicles) Rules”), an offence under s 131(1) punishable under s 131(2) of the Road Traffic Act.
+> (a)     C3 – Plying, at the material time, the Car, for hire along the road in front of Sentosa Gateway in front of St James Power Station in contravention of rule 40(1) of the Road Traffic (Public Service Vehicles) Rules (Cap 276, R14, 1999 Rev Ed) (“Road Traffic (Public Service Vehicles) Rules”), an offence under s 131(1) punishable under s 131(2) of the Road Traffic Act.
 
-(b)     C4 – Displaying an advertisement inside the Car at the material time, of two “Taxi” signs without prior written approval, in contravention of rule 66 of the Road Traffic (Public Service Vehicles) Rules, an offence under s 131(1) punishable under s 131(2) of the Road Traffic Act.
+> (b)     C4 – Displaying an advertisement inside the Car at the material time, of two “Taxi” signs without prior written approval, in contravention of rule 66 of the Road Traffic (Public Service Vehicles) Rules, an offence under s 131(1) punishable under s 131(2) of the Road Traffic Act.
 
 ## Antecedents
 
@@ -59,11 +59,11 @@ Mr Loh was convicted on both charges. Two other charges were taken into consider
 
 11     In respect of C1, the punishment and disqualification was to be imposed in accordance with s 3(2) and (3) of the Motor Vehicles Act, which provides that:
 
-(2)    If a person acts in contravention of this section, he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 3 months or both.
+> (2)    If a person acts in contravention of this section, he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 3 months or both.
 
-(3)    A person convicted of an offence under this section shall (unless the court for **special reasons** thinks fit to order otherwise and without prejudice to the power of the court to order a longer period of disqualification) be disqualified for holding or obtaining a driving licence under the Road Traffic Act (Cap 276) for a period of 12 months from the date of the conviction.
+> (3)    A person convicted of an offence under this section shall (unless the court for **special reasons** thinks fit to order otherwise and without prejudice to the power of the court to order a longer period of disqualification) be disqualified for holding or obtaining a driving licence under the Road Traffic Act (Cap 276) for a period of 12 months from the date of the conviction.
 
-\[emphasis in bold\]
+> \[emphasis in bold\]
 
 12     The effect of s 3(3) of the Motor Vehicles Act is that a disqualification of 12 months (or for a longer period) from holding or obtaining a driving licence under the Road Traffic Act, _shall_ be imposed unless the court “thinks fit to order otherwise” for “special reasons”. In _Sivakumar s/o Rajoo v Public Prosecutor_ <span class="citation">\[2002\] 1 SLR(R) 265</span> at \[22\], it was held that it did not necessarily follow that if “special reasons” exist, a disqualification period would not be imposed. The court must separately consider whether it ought to exercise of its discretion in favour of the offender. The court ought then to determine if the circumstances were so exceptional that the non-imposition of the disqualification period on the offender would not defeat the underlying objectives s 3(3) of the Motor Vehicles Act (_Siti Hajar bte Abdullah v Public Prosecutor_ <span class="citation">\[2006\] 2 SLR(R) 248</span> at \[8\]).
 

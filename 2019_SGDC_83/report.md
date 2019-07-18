@@ -21,9 +21,9 @@ This is a claim for personal injuries suffered by the Plaintiff, against the Def
 
 3       It is not disputed that the Defendant cut into the second lane causing the 2nd motorcycle to collide into the Defendant’s taxi. The Defendant conceded that he was 60% liable for the accident. The issues in this case were:
 
-a.     whether the Plaintiff was contributorily negligent in travelling too closely behind the 2nd motorcycle, and
+> a.     whether the Plaintiff was contributorily negligent in travelling too closely behind the 2nd motorcycle, and
 
-b.     if so, the extent to which the Defendant’s liability for the accident should be reduced.
+> b.     if so, the extent to which the Defendant’s liability for the accident should be reduced.
 
 ## Decision
 

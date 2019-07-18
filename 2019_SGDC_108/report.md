@@ -13,7 +13,7 @@
 
 Muhammad Zulhilmy Bin Azman, male, aged 25, was convicted after a trial on a charge of unlawful assembly under section 147 of the Penal Code, Chapter. 224. The particulars of the charge are as follows:
 
-DAC-922242-2016 (C1E) - On 11 June 2016, sometime between 4.15 a.m. and 4.30 a.m., outside Postbar located at 3 Sentosa Gateway, Singapore, the accused together with Muhamad Danial bin Mohamed Siraj Marican, Zulfiqar bin Johari, Muhammad Muhaimin bin Kasim and Darwin Singh, were members of an unlawful assembly whose common object was to cause hurt to Jamal Razeen bin Abdul Ghani, M Visnukanth, Divagaran A/L Kesavan and Prasad S/O Krishnan, and in the prosecution of the common object, one or more of did use violence against them.
+> DAC-922242-2016 (C1E) - On 11 June 2016, sometime between 4.15 a.m. and 4.30 a.m., outside Postbar located at 3 Sentosa Gateway, Singapore, the accused together with Muhamad Danial bin Mohamed Siraj Marican, Zulfiqar bin Johari, Muhammad Muhaimin bin Kasim and Darwin Singh, were members of an unlawful assembly whose common object was to cause hurt to Jamal Razeen bin Abdul Ghani, M Visnukanth, Divagaran A/L Kesavan and Prasad S/O Krishnan, and in the prosecution of the common object, one or more of did use violence against them.
 
 2       The accused was sentenced to serve 20 months’ imprisonment. He is now appealing against his conviction and sentence.
 
@@ -29,11 +29,11 @@ DAC-922242-2016 (C1E) - On 11 June 2016, sometime between 4.15 a.m. and 4.30 a.m
 
 6       The other co-accused persons are as follows:
 
-a)     Muhamad Danial bin Mohamed Siraj (“B3”). He had pleaded guilty and was sentenced to reformative training in Court 19 on 25 January 2017.
+> a)     Muhamad Danial bin Mohamed Siraj (“B3”). He had pleaded guilty and was sentenced to reformative training in Court 19 on 25 January 2017.
 
-b)     Darwin Singh (“B4”). He had pleaded guilty and was sentenced to a total of 6 years’ imprisonment and 6 strokes of the cane in Court 20 with effect from 2 March 2017.
+> b)     Darwin Singh (“B4”). He had pleaded guilty and was sentenced to a total of 6 years’ imprisonment and 6 strokes of the cane in Court 20 with effect from 2 March 2017.
 
-c)     Zulfiqar bin Johari (“B5”). He had pleaded guilty and was sentenced to reformative training in Court 19 on 8 March 2017.
+> c)     Zulfiqar bin Johari (“B5”). He had pleaded guilty and was sentenced to reformative training in Court 19 on 8 March 2017.
 
 ## B.   First Information Report
 
@@ -47,11 +47,11 @@ c)     Zulfiqar bin Johari (“B5”). He had pleaded guilty and was senten
 
 10     Articles of clothing were seized from B2 on the same day (Seizure Report No. D/20160614/2072). They are:
 
-a)     One black ‘adidas’ cap
+> a)     One black ‘adidas’ cap
 
-b)     One black pair of jeans
+> b)     One black pair of jeans
 
-c)     One maroon long-sleeved t-shirt with the word “Raw” imprinted on it.
+> c)     One maroon long-sleeved t-shirt with the word “Raw” imprinted on it.
 
 11     The exhibits referred in paragraph 8 were subsequently photographed by HTS12 Rachel Lee Hui Min on 14 June 2016 at 5.23 p.m. at Clementi Police Divisional Headquarters. On 26 July 2016 at about 3.30 a.m., police officers from Bedok Police Divisional Headquarters arrested B1 at Block 736 Pasir Ris Drive 10, Singapore 510736.
 
@@ -61,21 +61,21 @@ c)     One maroon long-sleeved t-shirt with the word “Raw” imprinted on
 
 13     The following medical reports of each of the victims state the following injuries:
 
-a.      **M Visnukanth**: Dr Jeremy Ng Chung Fai of Singapore General Hospital, in a report dated 7 July 2016, stated that Visnu suffered a single stab wound to the posterior left chest. He was hypotensive and resuscitated with fluids before proceeding for a CT scan. 2 defects were noted on the left hemo-diaphragm and a 4-cm laceration of the spleen were repaired. He was warded from 11 to 16 June 2016 and seen with a follow-up appointment on 23 June 2016.
+> a.      **M Visnukanth**: Dr Jeremy Ng Chung Fai of Singapore General Hospital, in a report dated 7 July 2016, stated that Visnu suffered a single stab wound to the posterior left chest. He was hypotensive and resuscitated with fluids before proceeding for a CT scan. 2 defects were noted on the left hemo-diaphragm and a 4-cm laceration of the spleen were repaired. He was warded from 11 to 16 June 2016 and seen with a follow-up appointment on 23 June 2016.
 
-b.      **Divagaran A/L Kesavan**: Dr Tina Koh of National Cancer Centre Singapore, Division of Surgical Oncology, in a report dated 12 July 2016, stated that Divagaran was found to have sustained a 4cm open wound horizontal over right anterior chest wall and a vertical 3cm laceration over lateral chest wall, lacerations over right shoulder, leg and finger, right pneumothorax in the chest, moderate haemothorax, pneumothorax and moderate haematoma in the fissure. He was seen by orthopaedics and hand and oncology surgeons in the repair of other injuries and was discharged well on 17 June 2016, six days after admission on 11 June 2016.
+> b.      **Divagaran A/L Kesavan**: Dr Tina Koh of National Cancer Centre Singapore, Division of Surgical Oncology, in a report dated 12 July 2016, stated that Divagaran was found to have sustained a 4cm open wound horizontal over right anterior chest wall and a vertical 3cm laceration over lateral chest wall, lacerations over right shoulder, leg and finger, right pneumothorax in the chest, moderate haemothorax, pneumothorax and moderate haematoma in the fissure. He was seen by orthopaedics and hand and oncology surgeons in the repair of other injuries and was discharged well on 17 June 2016, six days after admission on 11 June 2016.
 
-c.      **Jamal Razeen bin Abdul Ghani**: Dr Chok Aik Yong of Singapore General Hospital, in a report dated 26 July 2016, stated that Jamal was found to have suffered 6cm laceration over high occiput, 10cm laceration over left parietal region of scalp, 1cm laceration over left upper back, large left posterior convexity scalp haematoma, and subcutaneous emphysema in the right posterior chest wall. A CT on his chest showed small pockets of gas which were seen in the subcutaneous tissues and paraspinal muscles of the upper back, consistent with the given history of a knife wound. On 11 June 2016, he underwent wound exploration, toilet and suture of scalp lacerations and back wound. Intra-operative findings showed:
+> c.      **Jamal Razeen bin Abdul Ghani**: Dr Chok Aik Yong of Singapore General Hospital, in a report dated 26 July 2016, stated that Jamal was found to have suffered 6cm laceration over high occiput, 10cm laceration over left parietal region of scalp, 1cm laceration over left upper back, large left posterior convexity scalp haematoma, and subcutaneous emphysema in the right posterior chest wall. A CT on his chest showed small pockets of gas which were seen in the subcutaneous tissues and paraspinal muscles of the upper back, consistent with the given history of a knife wound. On 11 June 2016, he underwent wound exploration, toilet and suture of scalp lacerations and back wound. Intra-operative findings showed:
 
-i)       Left-sided scalp laceration, located at parieto-occiptal region, 5cm in length, full thickness down to periosteum but no skull fracture;
+>> i)       Left-sided scalp laceration, located at parieto-occiptal region, 5cm in length, full thickness down to periosteum but no skull fracture;
 
-ii)       Right-sided scalp laceration, parietal region, 5 x 3 cm degloving, partial thickness, some muscles exposed, debris present;
+>> ii)       Right-sided scalp laceration, parietal region, 5 x 3 cm degloving, partial thickness, some muscles exposed, debris present;
 
-iii)       Upper back 2cm wound 5 cm deep, spinal process palpable.
+>> iii)       Upper back 2cm wound 5 cm deep, spinal process palpable.
 
-He underwent toilet and suture of scalp lacerations and back wounds and was discharged well on 13 June 2016.
+> He underwent toilet and suture of scalp lacerations and back wounds and was discharged well on 13 June 2016.
 
-d.      **Prasad s/o Krishnan**: Dr Lim Kwee Kuang of Ng Teng Fong General Hospital, in a report dated 7 July 2016, states that Prasad suffered a 3cm puncture wound over left shoulder, deep puncture wound over first web space of left hand, 2cm puncture wound over the angle of the mouth. The X-ray of left hand showed displaced fracture of proximal phalanx of left thumb. He underwent wound debridement surgery under emergency OT and was discharged on 12 June 2016. Hospitalisation leave was given from 11 to 26 June 2016.
+> d.      **Prasad s/o Krishnan**: Dr Lim Kwee Kuang of Ng Teng Fong General Hospital, in a report dated 7 July 2016, states that Prasad suffered a 3cm puncture wound over left shoulder, deep puncture wound over first web space of left hand, 2cm puncture wound over the angle of the mouth. The X-ray of left hand showed displaced fracture of proximal phalanx of left thumb. He underwent wound debridement surgery under emergency OT and was discharged on 12 June 2016. Hospitalisation leave was given from 11 to 26 June 2016.
 
 ## The Prosecution’s Case
 
@@ -309,17 +309,17 @@ d.      **Prasad s/o Krishnan**: Dr Lim Kwee Kuang of Ng Teng Fong General 
 
 109    I now turn to his first statement, P42, recorded on the 12 of June, 2016 at 10.34 pm. This was just 1 day after the incident of 11 June, 2016 in the early hours of 4 am and can be described as practically contemporaneous. In P42, which was recorded by Insp Sng, PW16, who asked Danial what he had to say about the fight, Danial had replied that “ _My other friends Muhaimin, Zulhelmie and Darwin Singh were also there but the Indians never beat them_ “[^3] and this was followed with “_Then we all started fighting with the Indian guys…_ “[^4] and he added that “_When we were fighting, we were all blur and don’t know what’s going. We just fight only_.”[^5]. The very next day, on 13 June 2016, Insp Sng recorded another statement, P44, where the questions were even more specific to the accused and Danial was asked:
 
-_Q1:_ _Tell the police what is ‘Zulhimie’ role in the fight._
+> _Q1:_ _Tell the police what is ‘Zulhimie’ role in the fight._
 
-_A1:_ _He was fighting the Indians as all of us were fighting…_
+> _A1:_ _He was fighting the Indians as all of us were fighting…_
 
-_Q2:_ _How was ‘Zulhimie’ fighting with the Indians?_
+> _Q2:_ _How was ‘Zulhimie’ fighting with the Indians?_
 
-_A2:_ _He was fist fighting. He was whacking and punching the Indian people._
+> _A2:_ _He was fist fighting. He was whacking and punching the Indian people._
 
-_Q6:_ _So are you saying that all 5 of you guys threw punches at the Indians?_
+> _Q6:_ _So are you saying that all 5 of you guys threw punches at the Indians?_
 
-_A6:_ _Ys. They were doing the same to us also._
+> _A6:_ _Ys. They were doing the same to us also._
 
 Clearly Danial’s replies were just as specific and he gave clear details as to what the accused was doing during the fight and that he was simply attacking the Indian victims.
 

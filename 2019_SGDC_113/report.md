@@ -15,9 +15,9 @@
 
 1       The Accused, a 38-year-old male Chinese, Singapore citizen, was charged with the following:
 
-(i)     276 charges under section 420 read with section 109 of the Penal Code (Cap 224, 2008 Rev Ed) (the “Penal Code”) for engaging in a conspiracy to cheat the Central Provident Fund Board (the “CPF Board”) by authorising the submission of various Medisave claims to the CPF Board, to deceive the CPF Board into believing that he had performed procedures on the various patients on the dates stated in the claims, when he had not in fact done so (“the cheating charges”); and
+> (i)     276 charges under section 420 read with section 109 of the Penal Code (Cap 224, 2008 Rev Ed) (the “Penal Code”) for engaging in a conspiracy to cheat the Central Provident Fund Board (the “CPF Board”) by authorising the submission of various Medisave claims to the CPF Board, to deceive the CPF Board into believing that he had performed procedures on the various patients on the dates stated in the claims, when he had not in fact done so (“the cheating charges”); and
 
-(ii)     two charges under section 468 read with section 109 of the Penal Code for engaging in a conspiracy to cheat the Ministry of Health during a Professional Medisave Audit on The Smile Division (“TSD”) by forging the clinical notes of two of his patients (“the forgery charges”).
+> (ii)     two charges under section 468 read with section 109 of the Penal Code for engaging in a conspiracy to cheat the Ministry of Health during a Professional Medisave Audit on The Smile Division (“TSD”) by forging the clinical notes of two of his patients (“the forgery charges”).
 
 2       The Accused was represented and elected to plead guilty. The Prosecution proceeded on 28 cheating charges and both the forgery charges. The remaining 248 cheating charges were stood down.
 
@@ -62,25 +62,25 @@
 
 16     Sometime in September 2013, the CPF Board informed the Ministry of Health (“MOH”) that “there were inappropriate Medisave claims by some dental clinics. Subsequently, an audit was conducted and some irregularities were detected”. Based on the information received, the Medisave Dental Audit Team of MOH (“DAT”) conducted an ad-hoc Professional Medisave Audit, in November 2013, on a random sample of claims submitted by TSD. TSD was then requested to submit the following items, in relation to a patient treated at a TSD clinic, as part of the audit process:
 
-a.     the patient’s full set of clinical notes;
+> a.     the patient’s full set of clinical notes;
 
-b.     the Letter of Certification;
+> b.     the Letter of Certification;
 
-c.     the Medisave Authorisation Form;
+> c.     the Medisave Authorisation Form;
 
-d.     the pre- and post-surgery investigative reports, including radiographs, CT scan images, implant labels, histology reports etc.; and
+> d.     the pre- and post-surgery investigative reports, including radiographs, CT scan images, implant labels, histology reports etc.; and
 
-e.     the payment records (_e.g._ invoices or receipts issued to the patient) showing the itemised breakdown of the bill submitted for Medisave claims[^11].
+> e.     the payment records (_e.g._ invoices or receipts issued to the patient) showing the itemised breakdown of the bill submitted for Medisave claims[^11].
 
 17     TSD provided the requisite documents to DAT, with a cover letter signed by Goh. By end-February 2014, DAT had completed its assessment and evaluation on the sample claims. It concluded that at least four Medisave claims were highly suspicious and might be fraudulent submissions. MOH eventually lodged a police report on 14 July 2014, informing the police of its suspicion that four dishonest claims were made by a TSD clinic at Choa Chu Kang for procedures which were supposedly performed by the Accused but which were in fact not carried out[^12].
 
 18     Upon the lodging of the police report by MOH, CAD carried out extensive investigations and interviewed 36 patients, after limiting its investigations based on the following criteria:
 
-a.     claims where the total amount claimed by the patient exceeded $30,000;
+> a.     claims where the total amount claimed by the patient exceeded $30,000;
 
-b.     claims submitted between 1 January 2011 and 31 December 2013; and
+> b.     claims submitted between 1 January 2011 and 31 December 2013; and
 
-c.     claims reflecting a date which ICA’s records showed that either the patient or the dentist was not in Singapore, when the treatment was purportedly rendered[^13].
+> c.     claims reflecting a date which ICA’s records showed that either the patient or the dentist was not in Singapore, when the treatment was purportedly rendered[^13].
 
 19     False Medisave claims were found to be submitted on behalf of these patients, and investigations revealed that 13 of the 36 patients were treated by the Accused – these formed the subject-matter of the cheating charges against him. Ang was found to have treated 14 patients, and Goh was found to have treated nine patients[^14].
 
@@ -117,31 +117,31 @@ c.     claims reflecting a date which ICA’s records showed that either th
 
 29     The Prosecution submitted, that a global sentence of 30 to 36 months’ imprisonment would be fair and just as, _inter alia_:
 
-(i)     the Accused’s fraud subverted the national healthcare policy;
+> (i)     the Accused’s fraud subverted the national healthcare policy;
 
-(ii)     the fraud was perpetuated against public institutions;
+> (ii)     the fraud was perpetuated against public institutions;
 
-(iii)     the offences involved abuse of trust and professional integrity;
+> (iii)     the offences involved abuse of trust and professional integrity;
 
-(iv)     the offences were pre-meditated, highly planned and committed systematically over a prolonged period of time;
+> (iv)     the offences were pre-meditated, highly planned and committed systematically over a prolonged period of time;
 
-(v)     real and substantial harm was caused to the Accused’s patients;
+> (v)     real and substantial harm was caused to the Accused’s patients;
 
-(vi)     the Accused was motivated by significant personal gains; and
+> (vi)     the Accused was motivated by significant personal gains; and
 
-(vii)     the Accused’s plea of guilt and restitution should not be given significant weight.
+> (vii)     the Accused’s plea of guilt and restitution should not be given significant weight.
 
 ### (c)   The mitigation plea
 
 30     The Defence submitted for a global sentence of 15 months’ imprisonment. In its submissions, the Defence highlighted, _inter alia_:
 
-(i)     the restitution made by the Accused and his remorse;
+> (i)     the restitution made by the Accused and his remorse;
 
-(ii)     the clang of the prison gates principle;
+> (ii)     the clang of the prison gates principle;
 
-(iii)     the principle of parity in sentencing; and
+> (iii)     the principle of parity in sentencing; and
 
-(iv)     the principle of totality in sentencing.
+> (iv)     the principle of totality in sentencing.
 
 ### (d)   Decision on sentence
 
@@ -149,17 +149,17 @@ c.     claims reflecting a date which ICA’s records showed that either th
 
 31     As observed by the Prosecution in its Address on Sentence, “\[t\]his is a unique case, where a medical professional entrusted with making honest and accurate claims from a statutory trustee, abused that trust by cheating the trustee”[^20]. The Prosecution cited six cheating cases involving public institution and discussed them extensively[^21]:
 
-(i)      _PP v Lim Cheng Hoe_ (unreported, DAC 39357-2013) – the offender was sentenced to 15 months’ imprisonment;
+> (i)      _PP v Lim Cheng Hoe_ (unreported, DAC 39357-2013) – the offender was sentenced to 15 months’ imprisonment;
 
-(ii)      _PP v Lim May Cheng_ <span class="citation">\[2004\] SGDC 85</span> – the offender was sentenced to nine months’ imprisonment;
+> (ii)      _PP v Lim May Cheng_ <span class="citation">\[2004\] SGDC 85</span> – the offender was sentenced to nine months’ imprisonment;
 
-(iii)      _Anil Kumar Singh s/o Ragu Singh v PP_ (unreported, MA 259-1995) – the offender was sentenced to a total of 60 months’ imprisonment;
+> (iii)      _Anil Kumar Singh s/o Ragu Singh v PP_ (unreported, MA 259-1995) – the offender was sentenced to a total of 60 months’ imprisonment;
 
-(iv)      _PP v Zheng Zhenwei_ (unreported, DAC 923128-2017) – the offender was sentenced to 36 months’ imprisonment;
+> (iv)      _PP v Zheng Zhenwei_ (unreported, DAC 923128-2017) – the offender was sentenced to 36 months’ imprisonment;
 
-(v)      _Lim Mong Hong v PP_ <span class="citation">\[2003\] 3 SLR(R) 88</span> – the offender was sentenced to a total of 16 months’ imprisonment; and
+> (v)      _Lim Mong Hong v PP_ <span class="citation">\[2003\] 3 SLR(R) 88</span> – the offender was sentenced to a total of 16 months’ imprisonment; and
 
-(vi)      _PP v Koh Seah Wee & Lim Chai Meng_ <span class="citation">\[2012\] 1 SLR 292</span> – Koh was sentenced to a total of 22 years’ imprisonment and Lim was sentenced to a total of 15 years’ imprisonment.
+> (vi)      _PP v Koh Seah Wee & Lim Chai Meng_ <span class="citation">\[2012\] 1 SLR 292</span> – Koh was sentenced to a total of 22 years’ imprisonment and Lim was sentenced to a total of 15 years’ imprisonment.
 
 32     I agreed that the cases cited by the Prosecution were relevant. However, as I have noted in _PP v Ang Kiam Hau Steven_ (unreported, DAC 912271-2017 & ors), they were not on all fours with the present case[^22]. In the cases cited by the Prosecution, the deception of the offenders had resulted in actual losses to the government. This was quite apart from whether the government had actually suffered real losses after restitution being made by the offenders. In Ang’s case, the Prosecution had similarly proceeded against him on 30 charges. All the charges involved an amount of $2,150, except for one which was for an amount of $3,508. He was sentenced to a total of 30 months’ imprisonment – six months’ imprisonment on each of the cheating charges, with the sentences in five of the charges ordered to run consecutively.
 
@@ -167,29 +167,29 @@ c.     claims reflecting a date which ICA’s records showed that either th
 
 33     In relation to the forgery charges, the Prosecution cited three cases and submitted that even where there was no financial benefit to the offenders, “offences of forgery for the purpose of cheating involving public agencies will always be treated seriously and met with stiff sentences”[^23]:
 
-_Lim Ek Kian v PP_ <span class="citation">\[2003\] SGHC 58</span>
+> _Lim Ek Kian v PP_ <span class="citation">\[2003\] SGHC 58</span>
 
-\[Claimed trial\]
+> \[Claimed trial\]
 
-The offender was the managing director of the distributor of Skoda cars in Singapore at the material time. The offender had forged the signature of the victim, who was one of his customers, on a LTA transfer form for the purpose of deceiving LTA into believing that the victim intended to transfer her PARF/COE rebate to one Jason, who was another customer of the offender. Based on the LTA transfer form, the victim’s rebate of $9,237 was transferred to Jason which was then used towards the payment of the registration charges for Jason’s car. Subsequently, Skoda terminated its distributorship with the offender’s company, and the victim lost, _inter alia_, the $9,237 which was wrongfully transferred to Jason, as a result of the offender’s forgery. No restitution was made.
+> The offender was the managing director of the distributor of Skoda cars in Singapore at the material time. The offender had forged the signature of the victim, who was one of his customers, on a LTA transfer form for the purpose of deceiving LTA into believing that the victim intended to transfer her PARF/COE rebate to one Jason, who was another customer of the offender. Based on the LTA transfer form, the victim’s rebate of $9,237 was transferred to Jason which was then used towards the payment of the registration charges for Jason’s car. Subsequently, Skoda terminated its distributorship with the offender’s company, and the victim lost, _inter alia_, the $9,237 which was wrongfully transferred to Jason, as a result of the offender’s forgery. No restitution was made.
 
-The offender, who was traced for theft in 1987, claimed trial to the charge. He was convicted and sentenced to 12 months’ imprisonment. His appeal against conviction and sentence was dismissed.
+> The offender, who was traced for theft in 1987, claimed trial to the charge. He was convicted and sentenced to 12 months’ imprisonment. His appeal against conviction and sentence was dismissed.
 
-_PP v Balasundaram s/o Suppiah_ (MA 71-2003)
+> _PP v Balasundaram s/o Suppiah_ (MA 71-2003)
 
-\[Claimed trial\]
+> \[Claimed trial\]
 
-The offender was the operations manager for a night club and was responsible for obtaining a licence from the Public Entertainment Licensing Unit (“PELU”). An endorsement from the Fire Safety Bureau (“FSB”) was necessary as part of the application process. The endorsement by the FSB was for 146 patrons. However, the offender forged the endorsement by changing the number to 246 patrons before submitting the application to PELU which approved the application.
+> The offender was the operations manager for a night club and was responsible for obtaining a licence from the Public Entertainment Licensing Unit (“PELU”). An endorsement from the Fire Safety Bureau (“FSB”) was necessary as part of the application process. The endorsement by the FSB was for 146 patrons. However, the offender forged the endorsement by changing the number to 246 patrons before submitting the application to PELU which approved the application.
 
-The offender was traced for various offences including cheating under section 420 of the Penal Code, and giving false information under section 26A of the Prevention of Corruption Act. The offender was convicted after a trial and sentenced to 15 months’ imprisonment. His appeal was withdrawn.
+> The offender was traced for various offences including cheating under section 420 of the Penal Code, and giving false information under section 26A of the Prevention of Corruption Act. The offender was convicted after a trial and sentenced to 15 months’ imprisonment. His appeal was withdrawn.
 
-_PP v Hew Chong Wai_ (unreported, DAC 916378-2017 & ors)
+> _PP v Hew Chong Wai_ (unreported, DAC 916378-2017 & ors)
 
-\[Pleaded guilty\]
+> \[Pleaded guilty\]
 
-The offender was a Housing and Maintenance Inspector of the Housing Development Board (“HDB”). Between February and March 1987, he forged signatures of HDB officers on 128 Work Orders to deceive HDB into believing that works had been completed. This was done to allow his accomplice to claim reimbursements from the HDB. The total value for the works was $66,612.05, with the offender’s share being $22,959.50. The offender absconded to Malaysia sometime in 1987, and was only arrested in May 2017.
+> The offender was a Housing and Maintenance Inspector of the Housing Development Board (“HDB”). Between February and March 1987, he forged signatures of HDB officers on 128 Work Orders to deceive HDB into believing that works had been completed. This was done to allow his accomplice to claim reimbursements from the HDB. The total value for the works was $66,612.05, with the offender’s share being $22,959.50. The offender absconded to Malaysia sometime in 1987, and was only arrested in May 2017.
 
-The Prosecution proceeded on 18 charges against the offender, who was untraced. He was sentenced to 14 weeks’ imprisonment on each of the charges, with a global sentence of 42 weeks’ imprisonment.
+> The Prosecution proceeded on 18 charges against the offender, who was untraced. He was sentenced to 14 weeks’ imprisonment on each of the charges, with a global sentence of 42 weeks’ imprisonment.
 
 34     I next considered the sentencing factors raised by the Prosecution and the Defence’s mitigation plea.
 
@@ -255,13 +255,13 @@ The Prosecution proceeded on 18 charges against the offender, who was untraced. 
 
 55     I have dealt at length the individual sentence which I considered appropriate for the cheating and forgery charges. In relation to the number of consecutive terms and the appropriate global sentence, I found guidance in the case of _Muhammad Sutarno bin Nasir v PP_ <span class="citation">\[2018\] 2 SLR 647</span>:
 
-22    Having determined the individual sentence for each charge, the next stage is for the court to consider whether they should run consecutively or concurrently. In our judgment, the Judge was correct in ordering all three sentences to run consecutively. First, s307(1) of the Criminal Procedure Code (Cap 68, 2012Rev Ed) provides that where a person is sentenced to imprisonment for at least three distinct offences, the court must order the sentences for at least two offences to run consecutively. Second, the possession charge relates to a separate transaction which took place about a month prior to the rape and house-breaking offences. Third, although the latter two offences were temporally proximate, the offences of rape and house-breaking violate different legally-protected interests and should not be regarded as being part of a single transaction: _Chang Kar Meng_ (\[16\] _supra_) at \[62\]; _Mohamed Shouffee bin Adam v PP_ <span class="citation">\[2014\] 2 SLR 998</span> (“_Shouffee_”) at \[33\]. _Distinct offences should be punished separately with consecutive sentences so as to ensure that each legally-protected interest is properly vindicated. Otherwise, the imposition of concurrent sentences for unrelated offences would result in the perverse and unjust outcome of the offender not having to bear any real consequences for the further offending_: _Raveen_ (\[17\] supra) at \[41\]–\[46\].
+> 22    Having determined the individual sentence for each charge, the next stage is for the court to consider whether they should run consecutively or concurrently. In our judgment, the Judge was correct in ordering all three sentences to run consecutively. First, s307(1) of the Criminal Procedure Code (Cap 68, 2012Rev Ed) provides that where a person is sentenced to imprisonment for at least three distinct offences, the court must order the sentences for at least two offences to run consecutively. Second, the possession charge relates to a separate transaction which took place about a month prior to the rape and house-breaking offences. Third, although the latter two offences were temporally proximate, the offences of rape and house-breaking violate different legally-protected interests and should not be regarded as being part of a single transaction: _Chang Kar Meng_ (\[16\] _supra_) at \[62\]; _Mohamed Shouffee bin Adam v PP_ <span class="citation">\[2014\] 2 SLR 998</span> (“_Shouffee_”) at \[33\]. _Distinct offences should be punished separately with consecutive sentences so as to ensure that each legally-protected interest is properly vindicated. Otherwise, the imposition of concurrent sentences for unrelated offences would result in the perverse and unjust outcome of the offender not having to bear any real consequences for the further offending_: _Raveen_ (\[17\] supra) at \[41\]–\[46\].
 
-23     _At this stage of the analysis, the court must consider whether the cumulative sentence is proportionate to the overall criminality of the offences by applying the totality principle_. The principle has two limbs: _first, to examine whether the aggregate sentence is substantially above the normal level of sentences for the most serious of the individual offences committed_, and _second, to examine whether the effect of the aggregate sentence on the offender is crushing and not in keeping with his past record and future prospects. If an aggregate sentence is considered excessive, the court may opt for a different combination of sentences to run consecutively or adjust the individual sentences_: _Shouffee_ at \[58\]–\[59\]; _Raveen_ at \[73\].
+> 23     _At this stage of the analysis, the court must consider whether the cumulative sentence is proportionate to the overall criminality of the offences by applying the totality principle_. The principle has two limbs: _first, to examine whether the aggregate sentence is substantially above the normal level of sentences for the most serious of the individual offences committed_, and _second, to examine whether the effect of the aggregate sentence on the offender is crushing and not in keeping with his past record and future prospects. If an aggregate sentence is considered excessive, the court may opt for a different combination of sentences to run consecutively or adjust the individual sentences_: _Shouffee_ at \[58\]–\[59\]; _Raveen_ at \[73\].
 
-24    The sentencing court must also bear in mind the aggregation principle referred to in _Raveen_ at \[77\]–\[80\], which is that the totality principle should ordinarily apply with greater force in cases that involve longer aggregate sentences. The aggregation principle recognises the fact that aggregation in such cases may result in a compounding effect that bears more than a linear relation to the overall criminality of the case, and that longer sentences may induce feelings of hopelessness that destroy the offender’s prospects of rehabilitation and reintegration. …
+> 24    The sentencing court must also bear in mind the aggregation principle referred to in _Raveen_ at \[77\]–\[80\], which is that the totality principle should ordinarily apply with greater force in cases that involve longer aggregate sentences. The aggregation principle recognises the fact that aggregation in such cases may result in a compounding effect that bears more than a linear relation to the overall criminality of the case, and that longer sentences may induce feelings of hopelessness that destroy the offender’s prospects of rehabilitation and reintegration. …
 
-\[emphasis added\]
+> \[emphasis added\]
 
 56     In Ang’s case, I ordered the sentences in five of the charges to run consecutively. Having regard to the above case and the principles in _PP v Raveen Balakrishnan_ <span class="citation">\[2018\] SGHC 148</span>, I saw no reason to depart from my decision in Ang’s case in ordering five of the sentences to run consecutively. I therefore ordered the sentences for four of the cheating charges, involving four different patients, to run consecutively. As for the forgery charges, they were of a different genre from the cheating charges and, in my view, it was appropriate to order the sentence for one of the forgery charges (DAC 936181-2018) to run consecutively to DAC 935864-2018. The total sentence is therefore 24 months’ imprisonment.
 

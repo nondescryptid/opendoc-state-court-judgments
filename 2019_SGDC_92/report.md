@@ -23,25 +23,25 @@ This is an appeal against my order that the sum of $50,000/- be forfeited to the
 
 4       The background facts were adequately set out in the Public Prosecutor’s Application, and which was reproduced below -
 
-1.    \[Dean\] (NRIC: XXX) was convicted on 49 counts of cheating on 28 July 2016 in the State Courts and was sentenced to a global imprisonment term of 60 months.
+> 1.    \[Dean\] (NRIC: XXX) was convicted on 49 counts of cheating on 28 July 2016 in the State Courts and was sentenced to a global imprisonment term of 60 months.
 
-2.    The offences were for his cheating one Lim Chong Beng Ivan (“Ivan”), the managing Director of Worldgate Express Lines Pte Ltd (“Worldgate”), by deceiving him into believing that one Yeo Kong Meow (“Yeo”), of Splendid Service & Supply, wanted referral fees in return for recommending freight business from NTN Bearing Singapore Pte Ltd to Worldgate, and by such deception, dishonestly induced Ivan, to deliver a total sum of S$703,317.20 to the accused. …
+> 2.    The offences were for his cheating one Lim Chong Beng Ivan (“Ivan”), the managing Director of Worldgate Express Lines Pte Ltd (“Worldgate”), by deceiving him into believing that one Yeo Kong Meow (“Yeo”), of Splendid Service & Supply, wanted referral fees in return for recommending freight business from NTN Bearing Singapore Pte Ltd to Worldgate, and by such deception, dishonestly induced Ivan, to deliver a total sum of S$703,317.20 to the accused. …
 
-3.    In the course of investigations, a search was conducted at Yeo’s residence (Block 122 Paya Lebar Way #XXX) on 15 March 2011. During the search, \[Yeo\] stated the following:
+> 3.    In the course of investigations, a search was conducted at Yeo’s residence (Block 122 Paya Lebar Way #XXX) on 15 March 2011. During the search, \[Yeo\] stated the following:
 
-a.    He had closed and withdrawn S$50,000 from a UOB joint account which he had held with the accused.
+>> a.    He had closed and withdrawn S$50,000 from a UOB joint account which he had held with the accused.
 
-b.    This S$50,000 belongs to the accused but the accused had told him to safeguard the money for him.
+>> b.    This S$50,000 belongs to the accused but the accused had told him to safeguard the money for him.
 
-c.    \[Yeo\] then asked his son, Yeo Leng Chwee, to safekeep the same sum of S$50,000, consisting of 50 S$1,000/- notes at Yeo Leng Chwee’s residence (Block 97 Aljunied Crescent #XXX).
+>> c.    \[Yeo\] then asked his son, Yeo Leng Chwee, to safekeep the same sum of S$50,000, consisting of 50 S$1,000/- notes at Yeo Leng Chwee’s residence (Block 97 Aljunied Crescent #XXX).
 
-4.    In the course of the trial against the offender, \[Yeo\] was called as a Prosecution Witness (PW1). On 21 January 2016, during the trial for \[Dean\], Yeo stated under oath that he had never deposited money into the UOB joint account and that _all_ the money in the UOB joint account belongs to \[Dean\]. …
+> 4.    In the course of the trial against the offender, \[Yeo\] was called as a Prosecution Witness (PW1). On 21 January 2016, during the trial for \[Dean\], Yeo stated under oath that he had never deposited money into the UOB joint account and that _all_ the money in the UOB joint account belongs to \[Dean\]. …
 
-5.    During the course of investigations, \[Dean\] confirmed the following in his statement to the CPIB, which was admitted by consent into evidence at the trial and marked as **P171**: …
+> 5.    During the course of investigations, \[Dean\] confirmed the following in his statement to the CPIB, which was admitted by consent into evidence at the trial and marked as **P171**: …
 
-a.    He had deposited some of his proceeds of crime into two joint accounts with PW1 Yeo, _including_ the UOB joint account with Yeo.
+>> a.    He had deposited some of his proceeds of crime into two joint accounts with PW1 Yeo, _including_ the UOB joint account with Yeo.
 
-b.    He had asked \[Yeo\] to withdraw money from the UOB joint account and to safeguard this for him.
+>> b.    He had asked \[Yeo\] to withdraw money from the UOB joint account and to safeguard this for him.
 
 ## YEO’S SUBMISSION
 

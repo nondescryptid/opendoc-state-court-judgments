@@ -13,7 +13,7 @@
 
 1       The accused was tried on a charge of rioting with three others (the charge alleged that there was another unknown person) under s 147 of the Penal Code (Cap 224). After a 14-day trial, I acquitted the accused and the other three accused on the rioting charge. Against the accused, I framed a lesser charge under s 323 of the Penal Code, to which he pleaded guilty. The charge reads as follows:
 
-are charged that you, on the 7th day of September 2016 at about 3.44am, along Hastings Road, Singapore, did voluntarily cause hurt to Logeeswaaran a/l Shunmugam, by punching him on his face, swinging him down onto the road, dragging him on the road by his left hand, throwing him against the railings and kicking him, and thereby committed an offence punishable under section 323 of the Penal Code (Cap 224, 2008 Rev Ed).
+> are charged that you, on the 7th day of September 2016 at about 3.44am, along Hastings Road, Singapore, did voluntarily cause hurt to Logeeswaaran a/l Shunmugam, by punching him on his face, swinging him down onto the road, dragging him on the road by his left hand, throwing him against the railings and kicking him, and thereby committed an offence punishable under section 323 of the Penal Code (Cap 224, 2008 Rev Ed).
 
 2       In addition, the accused faced two charges under s 186 of the Penal Code (Cap 224) for obstructing a police officer in the discharge of his duties. These two offences were committed on 8 April 2018 whilst he was on court bail. The prosecution proceeded on one charge and the other charge was taken into consideration for the purpose of sentence with the consent of the accused.
 
@@ -43,17 +43,17 @@ are charged that you, on the 7th day of September 2016 at about 3.44am, along Ha
 
 14     As a result of the assault by the accused, Logeeswaaran was conveyed in an ambulance to Tan Tock Seng Hospital. On examination, he was found to have suffered the following injuries:
 
-1.     a small subcentimetre laceration on his nasal bridge;
+> 1.     a small subcentimetre laceration on his nasal bridge;
 
-2.     two missing front teeth from his upper jaw;
+> 2.     two missing front teeth from his upper jaw;
 
-3.     one missing front tooth from his lower jaw;
+> 3.     one missing front tooth from his lower jaw;
 
-4.     a 3cm laceration on his external lower lip;
+> 4.     a 3cm laceration on his external lower lip;
 
-5.     a 2cm laceration on his internal lower lip;
+> 5.     a 2cm laceration on his internal lower lip;
 
-G.     a 1 x 1 cm superficial abrasion over the back of his right elbow.
+> G.     a 1 x 1 cm superficial abrasion over the back of his right elbow.
 
 His lip lacerations were sutured.
 
@@ -87,7 +87,7 @@ His lip lacerations were sutured.
 
 26     Here, with respect to the harm suffered, the victim described it as follows in his statement (exh P44) at \[9\]:
 
-I realised that the 2 upper front tooth and one lower front tooth dropped as a result of the assault. My lips were torn. I was given stiches on my lips. I also suffered bodily pain and unable to move my right arm much. The doctor attended to me and I was discharged with 3 days medical leave.
+> I realised that the 2 upper front tooth and one lower front tooth dropped as a result of the assault. My lips were torn. I was given stiches on my lips. I also suffered bodily pain and unable to move my right arm much. The doctor attended to me and I was discharged with 3 days medical leave.
 
 The injuries were plainly severe. It resulted in three teeth being knocked completely out. It would obviously follow that these three missing teeth would have resulted in the victim having some difficulty to eat and drink until he sought dental treatment. Further, the lacerations on the lips were also severe as they had to be stitched.
 

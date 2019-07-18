@@ -21,9 +21,9 @@
 
 3       The accused pleaded guilty to the following two charges (“proceeded charges”):
 
-(a)     First charge under s 353 of the Penal Code (Cap. 224 using criminal force against a police officer when he was executing his duty, by slapping his left hand (“criminal force offence or charge”)[^1]; and
+> (a)     First charge under s 353 of the Penal Code (Cap. 224 using criminal force against a police officer when he was executing his duty, by slapping his left hand (“criminal force offence or charge”)[^1]; and
 
-(b)     Second charge under s 3(1)(a) punishable under s 3(2) of the Protection from Harassment Act (Cap. 256A) for harassing the her neighbour by ringing his doorbell and pouring water on his door (“POHA offence or charge”)[^2].
+> (b)     Second charge under s 3(1)(a) punishable under s 3(2) of the Protection from Harassment Act (Cap. 256A) for harassing the her neighbour by ringing his doorbell and pouring water on his door (“POHA offence or charge”)[^2].
 
 4       The accused also consented to have two other charges taken into consideration (“TIC”) for the purpose of sentencing. These were one charge of disorderly behaviour under s 20 of the Miscellaneous Offences (Public Order and Nuisance) Act (Cap 184) and another charge under s 6(1)(a) of POHA for insulting the police officer by calling him “stupid”.
 
@@ -38,33 +38,33 @@
 
 6       The accused admitted to the statement of facts (“SOF”) presented by the prosecution without qualification which is reproduced in its entirety as follows:
 
-The accused is Wee Sook Yee, a 56-year old female Singaporean bearing NRIC No.: XXX. She resides at 82A, Lorong 4 Toa Payoh, #XXX, Singapore 311082.
+> The accused is Wee Sook Yee, a 56-year old female Singaporean bearing NRIC No.: XXX. She resides at 82A, Lorong 4 Toa Payoh, #XXX, Singapore 311082.
 
-First Information Report
+> First Information Report
 
-2.    On 21st January 2018, at or about 10.16 p.m., the victim called Police to inform: “I have a troublesome neighbour keep pressing the doorbell and pouring water outside my unit. Please assist”. The location given was at Blk 82A Lorong 4 Toa Payoh #XXX Singapore 311082.
+> 2.    On 21st January 2018, at or about 10.16 p.m., the victim called Police to inform: “I have a troublesome neighbour keep pressing the doorbell and pouring water outside my unit. Please assist”. The location given was at Blk 82A Lorong 4 Toa Payoh #XXX Singapore 311082.
 
-Facts relating to MAC-910197-2018): Section 3(1)(A) p/u Section 3(2) Protection From Harassment Act (Cap 256a)
+> Facts relating to MAC-910197-2018): Section 3(1)(A) p/u Section 3(2) Protection From Harassment Act (Cap 256a)
 
-3.    The victim is Wong Fook Weng David (“Mr Wong”), a 65-year old male Singaporean bearing NRIC No.: XXX. He resided as Blk 82A Lorong 4 Toa Payoh #XXX Singapore 311082. He is the accused’s neighbour.
+> 3.    The victim is Wong Fook Weng David (“Mr Wong”), a 65-year old male Singaporean bearing NRIC No.: XXX. He resided as Blk 82A Lorong 4 Toa Payoh #XXX Singapore 311082. He is the accused’s neighbour.
 
-4.    Investigations revealed that on the 21st January 2018, the accused was disciplining her son over his school work inside her flat. While she was doing so, the accused heard Mr Wong whistling outside her flat. Hence, the accused decided to confront Mr Wong but she noticed that he had already taken the lift down. According to the accused, this was not the first time she had heard Mr Wong whistling whenever she was disciplining her son and she felt that Mr Wong had done it on purpose.
+> 4.    Investigations revealed that on the 21st January 2018, the accused was disciplining her son over his school work inside her flat. While she was doing so, the accused heard Mr Wong whistling outside her flat. Hence, the accused decided to confront Mr Wong but she noticed that he had already taken the lift down. According to the accused, this was not the first time she had heard Mr Wong whistling whenever she was disciplining her son and she felt that Mr Wong had done it on purpose.
 
-5.    On the same day, at or about 10 p.m., after the accused had waited for about 30 minutes for Mr Wong to return, she saw Mr Wong walking back to his flat. The accused went to her main gate and confronted Mr Wong as to why he had whistled earlier. Mr Wong looked at her, whistled and went inside his flat closing the main gate and front door behind him. The accused then walked over the Mr Wong’s flat and rang the doorbell located outside Mr Wong’s flat continuously for at least one minute with intent to cause harassment to Mr Wong. At that juncture, Mr Wong had already closed the front door to his flat and entered his flat but he could hear the doorbell ringing continuously. He also heard the accused shouting to ask him to come out but he did not open the door. The accused became angry, went back to her flat to take a pail of water and splashed the pail of water on the front door of Mr Wong’s flat. The accused repeated this about 2 – 3 times as she wanted Mr Wong to stop whistling. The water then seeped into Mr Wong’s living room. Mr Wong felt harassed by the accused’s actions. Mr Wong admitted that he would whistle from time to time whenever he felt happy but he did not do so to annoy the accused.
+> 5.    On the same day, at or about 10 p.m., after the accused had waited for about 30 minutes for Mr Wong to return, she saw Mr Wong walking back to his flat. The accused went to her main gate and confronted Mr Wong as to why he had whistled earlier. Mr Wong looked at her, whistled and went inside his flat closing the main gate and front door behind him. The accused then walked over the Mr Wong’s flat and rang the doorbell located outside Mr Wong’s flat continuously for at least one minute with intent to cause harassment to Mr Wong. At that juncture, Mr Wong had already closed the front door to his flat and entered his flat but he could hear the doorbell ringing continuously. He also heard the accused shouting to ask him to come out but he did not open the door. The accused became angry, went back to her flat to take a pail of water and splashed the pail of water on the front door of Mr Wong’s flat. The accused repeated this about 2 – 3 times as she wanted Mr Wong to stop whistling. The water then seeped into Mr Wong’s living room. Mr Wong felt harassed by the accused’s actions. Mr Wong admitted that he would whistle from time to time whenever he felt happy but he did not do so to annoy the accused.
 
-6.    By virtue of the foregoing, the accused has thereby committed an offence under section 3(1)(a) p/u section 3(2) of the Protection from Harassment Act (Cap 256A).
+> 6.    By virtue of the foregoing, the accused has thereby committed an offence under section 3(1)(a) p/u section 3(2) of the Protection from Harassment Act (Cap 256A).
 
-**Facts relating to DAC-934583-2018: Section 353 Penal Code (Cap 224)**
+> **Facts relating to DAC-934583-2018: Section 353 Penal Code (Cap 224)**
 
-7.    The victim is Staff Sergeant Ngoo Tse Ee (“SSGT Ngoo”), a 27-year old male. He is a police officer attached to Toa Payoh NPC. At the material time, he was performing fast response car duty together with his partner SGT Kelvin Ong Lin Wei (“SGT Kelvin”), and they had attended to the incident pursuant to the ‘999’ call made by Mr Wong. SSGT Ngoo and SGT Kelvin were public servants in the discharge of their duties as such public servants at the material time.
+> 7.    The victim is Staff Sergeant Ngoo Tse Ee (“SSGT Ngoo”), a 27-year old male. He is a police officer attached to Toa Payoh NPC. At the material time, he was performing fast response car duty together with his partner SGT Kelvin Ong Lin Wei (“SGT Kelvin”), and they had attended to the incident pursuant to the ‘999’ call made by Mr Wong. SSGT Ngoo and SGT Kelvin were public servants in the discharge of their duties as such public servants at the material time.
 
-8.    Investigations revealed that on 21st January 2018, at 10.21 p.m., SSGT Ngoo and SGT Kelvin arrived at the common corridor outside of unit #XXX of Blk 82A Lorong 4 Toa Payoh, Singapore, and began to gather information from Mr Wong. At about 10.41 p.m., while SSGT Ngoo was talking to Mr Wong, the accused opened her gate and walked out of her flat with intention to walk towards Mr Wong’s flat. In order to prevent the matter from escalating, SSGT Ngoo approached the accused to stop her from confronting Mr Wong. SSGT Ngoo also advised the accused to calm down and to stay put near her flat. **_However, the accused became agitated and told SSGT Ngoo not to block her. All of a sudden, the accused swung her right hand to slap SSGT Ngoo’s left hand once. SSGT Ngoo felt pain in his left hand as a result of the slap but he did not seek medical attention._**
+> 8.    Investigations revealed that on 21st January 2018, at 10.21 p.m., SSGT Ngoo and SGT Kelvin arrived at the common corridor outside of unit #XXX of Blk 82A Lorong 4 Toa Payoh, Singapore, and began to gather information from Mr Wong. At about 10.41 p.m., while SSGT Ngoo was talking to Mr Wong, the accused opened her gate and walked out of her flat with intention to walk towards Mr Wong’s flat. In order to prevent the matter from escalating, SSGT Ngoo approached the accused to stop her from confronting Mr Wong. SSGT Ngoo also advised the accused to calm down and to stay put near her flat. **_However, the accused became agitated and told SSGT Ngoo not to block her. All of a sudden, the accused swung her right hand to slap SSGT Ngoo’s left hand once. SSGT Ngoo felt pain in his left hand as a result of the slap but he did not seek medical attention._**
 
-9.    Further investigations revealed that after SSGT Ngoo informed the accused that she would be placed under arrest for assaulting a police officer, she started shouting and put up a struggle. Necessary force was used to effect arrest.
+> 9.    Further investigations revealed that after SSGT Ngoo informed the accused that she would be placed under arrest for assaulting a police officer, she started shouting and put up a struggle. Necessary force was used to effect arrest.
 
-10.    By virtue of the foregoing, the accused had thereby committed an offence under section 353 of the Penal Code (Cap 224).
+> 10.    By virtue of the foregoing, the accused had thereby committed an offence under section 353 of the Penal Code (Cap 224).
 
-11.    The accused has admitted to the offences and she is charged accordingly.
+> 11.    The accused has admitted to the offences and she is charged accordingly.
 
 (Emphasis added in relation to the criminal force offence)
 

@@ -29,171 +29,171 @@
 
 6       The Charge against the accused was as follows -
 
-**_DAC-923344-2017_**
+> **_DAC-923344-2017_**
 
-_You are charged that you, between 22 June 2017 and 7 July 2017, in Singapore, having reasonable grounds to believe that an unknown person had engaged in criminal conduct, were concerned in an arrangement with one Huang Ying-Chun, Hsieh Teng-Chia and others unknown, having reasonable grounds to believe that by the arrangement, the retention of the said unknown person’s benefits of criminal conduct was facilitated, to wit, you collected and handed over cash monies amounting to a total of about SGD$803,000 (Eight Hundred and Fifty-Three Thousand Dollars), which was the said unknown person’s benefits from criminal conduct, and you have therefore committed an offence under section 44(1)(a) of the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act (Cap 65A, 2000 Rev Ed) and punishable under section 44(5)(a) of the same Act._
+> _You are charged that you, between 22 June 2017 and 7 July 2017, in Singapore, having reasonable grounds to believe that an unknown person had engaged in criminal conduct, were concerned in an arrangement with one Huang Ying-Chun, Hsieh Teng-Chia and others unknown, having reasonable grounds to believe that by the arrangement, the retention of the said unknown person’s benefits of criminal conduct was facilitated, to wit, you collected and handed over cash monies amounting to a total of about SGD$803,000 (Eight Hundred and Fifty-Three Thousand Dollars), which was the said unknown person’s benefits from criminal conduct, and you have therefore committed an offence under section 44(1)(a) of the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act (Cap 65A, 2000 Rev Ed) and punishable under section 44(5)(a) of the same Act._
 
 ### Statement of Facts
 
 7       The statement of facts which the accused admitted to without qualification is as follows -
 
-**“** _Statement of Facts_
+> **“** _Statement of Facts_
 
-_1_.     _The accused is Chen Peng-Yu, a 35year-old male Taiwanese, bearing FIN No. XXX (“_ **_the accused_** _”)._
+> _1_.     _The accused is Chen Peng-Yu, a 35year-old male Taiwanese, bearing FIN No. XXX (“_ **_the accused_** _”)._
 
-_2_.     _The co-accused are:_
+> _2_.     _The co-accused are:_
 
-_B2_)     _Huang Ying-Chun, a 53-year-old male Taiwanese (“_ **_Huang_** _”)._
+>> _B2_)     _Huang Ying-Chun, a 53-year-old male Taiwanese (“_ **_Huang_** _”)._
 
-_B3_)     _Hsieh Teng-Chia, a 31-year-old male Taiwanese (“_ **_Hsieh_** _”)._
+>> _B3_)     _Hsieh Teng-Chia, a 31-year-old male Taiwanese (“_ **_Hsieh_** _”)._
 
-_B4_)     _Chen You-Jeng, a 34-year-old male Taiwanese (“_ **_Chen_** _”)._
+>> _B4_)     _Chen You-Jeng, a 34-year-old male Taiwanese (“_ **_Chen_** _”)._
 
-_3_.     _The victims involved are:_
+> _3_.     _The victims involved are:_
 
-_V1_)     _Lee Teo Sey, a 67-year-old male Singapore Citizen (“_ **_Lee_** _”)._
+>> _V1_)     _Lee Teo Sey, a 67-year-old male Singapore Citizen (“_ **_Lee_** _”)._
 
-_V2_)     _Tan Kok Phuang, an 83-year-old male Singapore Citizen (“_ **_Tan_** _”)._
+>> _V2_)     _Tan Kok Phuang, an 83-year-old male Singapore Citizen (“_ **_Tan_** _”)._
 
-_V3_)     _Chan Sook Yuen Ilene, a 51-year-old female Singapore Citizen (“_ **_Chan_** _”)._
+>> _V3_)     _Chan Sook Yuen Ilene, a 51-year-old female Singapore Citizen (“_ **_Chan_** _”)._
 
-_V4_)     _Lim Yong Gek, a 61-year-old female Singapore Citizen (“_ **_Lim_** _”)_
+>> _V4_)     _Lim Yong Gek, a 61-year-old female Singapore Citizen (“_ **_Lim_** _”)_
 
-_V5_)     _Li Lixi, a 73-year-old female Chinese National (“_ **_Lixi_** _”)._
+>> _V5_)     _Li Lixi, a 73-year-old female Chinese National (“_ **_Lixi_** _”)._
 
-_V6_)     _Xue Junhua, a 56-year-old female Singapore Citizen (“_ **_Xue_** _”)._
+>> _V6_)     _Xue Junhua, a 56-year-old female Singapore Citizen (“_ **_Xue_** _”)._
 
-_V7_)     _Mak Swee Ying, a 74-year-old female Singapore Citizen (“_ **_Mak_** _”)._
+>> _V7_)     _Mak Swee Ying, a 74-year-old female Singapore Citizen (“_ **_Mak_** _”)._
 
-_4_.     _The other involved parties are:_
+> _4_.     _The other involved parties are:_
 
-_W1_)     _Toh Sin Yee, a 43-year-old female Singapore Citizen (“_ **_Toh_** _”)_
+>> _W1_)     _Toh Sin Yee, a 43-year-old female Singapore Citizen (“_ **_Toh_** _”)_
 
-_W2_)     _Leong Chie Kong, a 57-year-old male Singapore Citizen (“_ **_Leong_** _”)._
+>> _W2_)     _Leong Chie Kong, a 57-year-old male Singapore Citizen (“_ **_Leong_** _”)._
 
-_W3_)     _Liu Jie, a 30-year-old female Chinese National (“_ **_Liu_** _”)._
+>> _W3_)     _Liu Jie, a 30-year-old female Chinese National (“_ **_Liu_** _”)._
 
-_W4_)     _Koh Eng Tiong, a 62-year-old male Singapore Citizen (“_ **_Koh_** _”)._
+>> _W4_)     _Koh Eng Tiong, a 62-year-old male Singapore Citizen (“_ **_Koh_** _”)._
 
-_W5_)     _Chua Tek Meng, a 31-year-old male Malaysian (“_ **_Chua_** _”)._
+>> _W5_)     _Chua Tek Meng, a 31-year-old male Malaysian (“_ **_Chua_** _”)._
 
-_W6_)     _Li Wenjia, a 29-year-old female Chinese National (“_ **_Wenjia_** _”)._
+>> _W6_)     _Li Wenjia, a 29-year-old female Chinese National (“_ **_Wenjia_** _”)._
 
-_5_.     _The witness is Li Li, a 46-year-old female Chinese National (“_ **_Lili_** _”)._
+> _5_.     _The witness is Li Li, a 46-year-old female Chinese National (“_ **_Lili_** _”)._
 
-**_First Information Reports_**
+> **_First Information Reports_**
 
-_6_.     _On 27 June 2017 at about 7.41pm, Lee lodged a police report at Bukit Panjang South Neighbourhood Police Post reporting that there were unauthorised debits from his Post Office Savings Bank (“_ **_POSB_** _”) bank accounts._
+> _6_.     _On 27 June 2017 at about 7.41pm, Lee lodged a police report at Bukit Panjang South Neighbourhood Police Post reporting that there were unauthorised debits from his Post Office Savings Bank (“_ **_POSB_** _”) bank accounts._
 
-_7_.     _On 7 July 2017 at about 10.47pm, Tan lodged a police report at Clementi Neighbourhood Police Centre reporting that there were several unauthorised fund transfers made from his Development Bank of Singapore (“_ **_DBS_** _”) bank account._
+> _7_.     _On 7 July 2017 at about 10.47pm, Tan lodged a police report at Clementi Neighbourhood Police Centre reporting that there were several unauthorised fund transfers made from his Development Bank of Singapore (“_ **_DBS_** _”) bank account._
 
-_8_.     _On 1 July 2017 at about 9.44pm, Chan lodged a police report at Bukit Timah Neighbourhood Police Centre reporting that an unauthorised electronic fund transfer had been made from her DBS bank account._
+> _8_.     _On 1 July 2017 at about 9.44pm, Chan lodged a police report at Bukit Timah Neighbourhood Police Centre reporting that an unauthorised electronic fund transfer had been made from her DBS bank account._
 
-_9_.     _On 4 July 2017 at about 4.54pm, Lim lodged a police report at Kreta Ayer Neighbourhood Police Post reporting that an unauthorised debit had been made from her POSB bank account._
+> _9_.     _On 4 July 2017 at about 4.54pm, Lim lodged a police report at Kreta Ayer Neighbourhood Police Post reporting that an unauthorised debit had been made from her POSB bank account._
 
-_10_.     _On 6 July 2017 at about 4.01pm, Lixi lodged a police report at Jurong West Neighbourhood Police Centre reporting that an unauthorised electronic fund transfer had been made from her bank account._
+> _10_.     _On 6 July 2017 at about 4.01pm, Lixi lodged a police report at Jurong West Neighbourhood Police Centre reporting that an unauthorised electronic fund transfer had been made from her bank account._
 
-_11_.     _On 5 July 2017 at about 7.05pm, Xue lodged a police report at Woodlands East Neighbourhood Police Centre reporting that several unauthorised electronic fund transfers had been made from her DBS bank account._
+> _11_.     _On 5 July 2017 at about 7.05pm, Xue lodged a police report at Woodlands East Neighbourhood Police Centre reporting that several unauthorised electronic fund transfers had been made from her DBS bank account._
 
-_12_.     _On 6 July 2017 at about 5.18pm, Mak lodged a police report at Serangoon Gardens Neighbourhood Police Post reporting that unauthorised electronic fund transfers had been made from her POSB bank accounts._
+> _12_.     _On 6 July 2017 at about 5.18pm, Mak lodged a police report at Serangoon Gardens Neighbourhood Police Post reporting that unauthorised electronic fund transfers had been made from her POSB bank accounts._
 
-**_Background Facts_**
+> **_Background Facts_**
 
-A.     **_The Police Impersonation Scheme_**
+> A.     **_The Police Impersonation Scheme_**
 
-_13_.     _The victims and the other involved parties received phone calls from persons who claimed that they were officers from Chinese or Singaporean Police authorities. These callers convinced the victims and other involved parties that they were involved in money laundering cases, or in some other serious offences, which were being investigated in China. The victims and other involved parties were told that their bank accounts or bank cards were implicated in these offences._
+> _13_.     _The victims and the other involved parties received phone calls from persons who claimed that they were officers from Chinese or Singaporean Police authorities. These callers convinced the victims and other involved parties that they were involved in money laundering cases, or in some other serious offences, which were being investigated in China. The victims and other involved parties were told that their bank accounts or bank cards were implicated in these offences._
 
-_14_.     _The victims were told that they would be prosecuted by the authorities, unless they cooperated with the callers’ purported investigations. Feeling threatened, the victims agreed to cooperate. They were then cheated into providing details relating to their bank accounts which enabled the callers (or their criminal associates) to effect electronic transfers of moneys out of the victims’ accounts without the victim’s knowledge. These details included login credentials to their internet banking accounts and/or One-Time-Passwords (“_ **_OTP_** _”) from their authentication tokens. The details were provided to the callers by the victims who were deceived into believing that the callers were Police officers who needed to conduct investigations in relation to their respective bank accounts._
+> _14_.     _The victims were told that they would be prosecuted by the authorities, unless they cooperated with the callers’ purported investigations. Feeling threatened, the victims agreed to cooperate. They were then cheated into providing details relating to their bank accounts which enabled the callers (or their criminal associates) to effect electronic transfers of moneys out of the victims’ accounts without the victim’s knowledge. These details included login credentials to their internet banking accounts and/or One-Time-Passwords (“_ **_OTP_** _”) from their authentication tokens. The details were provided to the callers by the victims who were deceived into believing that the callers were Police officers who needed to conduct investigations in relation to their respective bank accounts._
 
-_15_.     _The involved parties were similarly pressured into cooperating with the callers’ purported investigations, and were instructed by the callers to withdraw moneys transferred into their respective bank accounts, before handing these moneys over to one of the accused persons. Such involved parties were therefore “victim-mules”. These moneys transferred into the involved parties’ bank accounts were in fact moneys wrongfully transferred from the victims’ bank accounts, after the victims were deceived into providing details in relation to their bank accounts to the callers._
+> _15_.     _The involved parties were similarly pressured into cooperating with the callers’ purported investigations, and were instructed by the callers to withdraw moneys transferred into their respective bank accounts, before handing these moneys over to one of the accused persons. Such involved parties were therefore “victim-mules”. These moneys transferred into the involved parties’ bank accounts were in fact moneys wrongfully transferred from the victims’ bank accounts, after the victims were deceived into providing details in relation to their bank accounts to the callers._
 
-_16_.     _The above-named victims were therefore victims of criminal conduct, namely, Cheating and Dishonestly Inducing a Delivery of Property under section 420 of the Penal Code (Cap 224, 2008 Rev Ed). The said offence is a “serious offence” as defined in section 2 of the Corruption, Drug Trafficking and other Serious Offences (Confiscation of Benefits) Act (“_ **_CDSA_** _”) and specified under the Second Schedule, Part I of the CDSA._
+> _16_.     _The above-named victims were therefore victims of criminal conduct, namely, Cheating and Dishonestly Inducing a Delivery of Property under section 420 of the Penal Code (Cap 224, 2008 Rev Ed). The said offence is a “serious offence” as defined in section 2 of the Corruption, Drug Trafficking and other Serious Offences (Confiscation of Benefits) Act (“_ **_CDSA_** _”) and specified under the Second Schedule, Part I of the CDSA._
 
-B.     **_Background to the Accused’s Involvement_**
+> B.     **_Background to the Accused’s Involvement_**
 
-_17_.     _Sometime in mid-2015, the accused borrowed about NT$400,000 (approximately S$17,847.60) to NT$500,000 (approximately S$22,309.50) from an unlicensed moneylender known as “Dun Zhi” in Taiwan. Sometime in end May 2017 or early June 2017, the accused told “Dun Zhi” that he was unable to service the loan any further as he required money for his father’s medical expenses. “Dun Zhi” then requested the accused to work for him. “Dun Zhi” informed the accused that the job was to collect and hand over monies as instructed in Singapore, and that he would be paid NT$80,000 (approximately S$3,578.44) for his assistance, with expenses and accommodation additionally paid for. The accused agreed and eventually came to Singapore._
+> _17_.     _Sometime in mid-2015, the accused borrowed about NT$400,000 (approximately S$17,847.60) to NT$500,000 (approximately S$22,309.50) from an unlicensed moneylender known as “Dun Zhi” in Taiwan. Sometime in end May 2017 or early June 2017, the accused told “Dun Zhi” that he was unable to service the loan any further as he required money for his father’s medical expenses. “Dun Zhi” then requested the accused to work for him. “Dun Zhi” informed the accused that the job was to collect and hand over monies as instructed in Singapore, and that he would be paid NT$80,000 (approximately S$3,578.44) for his assistance, with expenses and accommodation additionally paid for. The accused agreed and eventually came to Singapore._
 
-_18_.     _Although the accused did not ask “Dun Zhi” the origin of the monies he was to collect and hand over, he had reasonable grounds to believe that they were derived from criminal conduct as he knew that “Dun Zhi” was operating an unlicensed moneylending business, night clubs, and illegal casinos in Taiwan. The accused then became involved with a trans-national syndicate, which included, among others, Huang, Hsieh and Chen, and which had operatives in Taiwan. On 21 June 2017, the accused arrived in Singapore together with Huang and one Lu Ming Lun. In the course of the accused’s stay in Singapore, he received instructions via a mobile messaging application known as “Telegram”, and also got in touch with relevant syndicate members via the same application._
+> _18_.     _Although the accused did not ask “Dun Zhi” the origin of the monies he was to collect and hand over, he had reasonable grounds to believe that they were derived from criminal conduct as he knew that “Dun Zhi” was operating an unlicensed moneylending business, night clubs, and illegal casinos in Taiwan. The accused then became involved with a trans-national syndicate, which included, among others, Huang, Hsieh and Chen, and which had operatives in Taiwan. On 21 June 2017, the accused arrived in Singapore together with Huang and one Lu Ming Lun. In the course of the accused’s stay in Singapore, he received instructions via a mobile messaging application known as “Telegram”, and also got in touch with relevant syndicate members via the same application._
 
-**_The First Incident_**
+> **_The First Incident_**
 
-_19_.     _On 22 June 2017, a sum of S$50,000 had been transferred into Toh’s Overseas Chinese Banking Corporation_ **_(OCBC)_** _bank account XXX, after an unknown caller cheated Lee into providing the login credentials to his POSB bank accounts XXX and XXX. The S$50,000 had been transferred from Lee’s POSB bank accounts into Toh’s bank account._
+> _19_.     _On 22 June 2017, a sum of S$50,000 had been transferred into Toh’s Overseas Chinese Banking Corporation_ **_(OCBC)_** _bank account XXX, after an unknown caller cheated Lee into providing the login credentials to his POSB bank accounts XXX and XXX. The S$50,000 had been transferred from Lee’s POSB bank accounts into Toh’s bank account._
 
-_20_.     _That same day, Toh was instructed by the unknown individual, who claimed to be from the Police, to withdraw the sum of S$50,000 from his bank account. Around the same time, the accused received instructions to arrange for the collection of the said sum of money from Toh. The accused arranged for Huang to do the collection and Huang collected the sum of S$50,000 from Toh at Lorong 28 Geylang, Singapore. The accused, upon instruction from an unknown other person, together with Lu Ming Lun, then accompanied Huang to Indus Road, Singapore and handed over the S$50,000 to Lili._
+> _20_.     _That same day, Toh was instructed by the unknown individual, who claimed to be from the Police, to withdraw the sum of S$50,000 from his bank account. Around the same time, the accused received instructions to arrange for the collection of the said sum of money from Toh. The accused arranged for Huang to do the collection and Huang collected the sum of S$50,000 from Toh at Lorong 28 Geylang, Singapore. The accused, upon instruction from an unknown other person, together with Lu Ming Lun, then accompanied Huang to Indus Road, Singapore and handed over the S$50,000 to Lili._
 
-**_The Second Incident_**
+> **_The Second Incident_**
 
-_21_.     _On 1 July 2017, a sum of S$97,000 was transferred into Chua’s OCBC bank account XXX, after unknown callers cheated both Chan and Lim into providing the login credentials to their respective bank accounts – DBS account XXX and POSB XXX. S$50,000 had been transferred from Chan’s bank account to Chua’s bank account, and S$47,000 had been transferred from Lim’s bank account into Chua’s bank account._
+> _21_.     _On 1 July 2017, a sum of S$97,000 was transferred into Chua’s OCBC bank account XXX, after unknown callers cheated both Chan and Lim into providing the login credentials to their respective bank accounts – DBS account XXX and POSB XXX. S$50,000 had been transferred from Chan’s bank account to Chua’s bank account, and S$47,000 had been transferred from Lim’s bank account into Chua’s bank account._
 
-_22_.     _That same day, Chua received instructions from an unknown caller, who claimed to be from the Police, to withdraw the said S$97,000 from his bank account. Around the same time, the accused received instructions to arrange for the collection of the said sum of money from Chua. The accused arranged for Huang to do the collection and Huang collected the sum of S$97,000 from Chua at Lorong 16 Geylang, Singapore._
+> _22_.     _That same day, Chua received instructions from an unknown caller, who claimed to be from the Police, to withdraw the said S$97,000 from his bank account. Around the same time, the accused received instructions to arrange for the collection of the said sum of money from Chua. The accused arranged for Huang to do the collection and Huang collected the sum of S$97,000 from Chua at Lorong 16 Geylang, Singapore._
 
-**_The Third to Seventh Incidents_**
+> **_The Third to Seventh Incidents_**
 
-_23_.     _On 1 July 2017, a sum of S$50,000 had been transferred into Koh’s OCBC bank account XXX, after an unknown caller cheated Tan into providing the login credentials to his DBS bank account XXX. The S$50,000 had been transferred from Tan’s bank account into Koh’s bank account. That same day, a further S$25,000 was transferred from Tan’s bank account into Koh’s POSB account XXX._
+> _23_.     _On 1 July 2017, a sum of S$50,000 had been transferred into Koh’s OCBC bank account XXX, after an unknown caller cheated Tan into providing the login credentials to his DBS bank account XXX. The S$50,000 had been transferred from Tan’s bank account into Koh’s bank account. That same day, a further S$25,000 was transferred from Tan’s bank account into Koh’s POSB account XXX._
 
-_24_.     _That same day, Koh was instructed by an unknown individual, who claimed to be from the Police, to withdraw the sum of S$75,000 from his bank accounts. He was instructed to hand them over to Huang, at Lorong 16 Geylang, Singapore. Koh complied._
+> _24_.     _That same day, Koh was instructed by an unknown individual, who claimed to be from the Police, to withdraw the sum of S$75,000 from his bank accounts. He was instructed to hand them over to Huang, at Lorong 16 Geylang, Singapore. Koh complied._
 
-_25_.     _On 1 July 2017, while at Taiwan Kaohsiung International Airport, the accused received instructions to collect a sum of money from Huang in Singapore. On 2 July 2017 after the accused touched down in Singapore, he arranged for Huang to place the money he collected from Chua and Koh on 1 July 2017, at the telephone booth along Lorong 6 Geylang, Singapore. Huang acted as arranged by the accused and the accused received the money from the telephone booth. The money was established to be a total of S$172,000. The accused removed S$7,000 as instructed to hold on to for any unforeseen circumstances._
+> _25_.     _On 1 July 2017, while at Taiwan Kaohsiung International Airport, the accused received instructions to collect a sum of money from Huang in Singapore. On 2 July 2017 after the accused touched down in Singapore, he arranged for Huang to place the money he collected from Chua and Koh on 1 July 2017, at the telephone booth along Lorong 6 Geylang, Singapore. Huang acted as arranged by the accused and the accused received the money from the telephone booth. The money was established to be a total of S$172,000. The accused removed S$7,000 as instructed to hold on to for any unforeseen circumstances._
 
-_26_.     _On 2 July 2017, an unknown individual accessed Tan’s bank account and made unauthorised electronic transfers of S$25,000 to Koh’s POSB bank account, and S$50,000 to Koh’s OCBC bank account. Koh was then instructed by the unknown individual to withdraw S$9,000 from his POSB bank account and S$50,000 from his OCBC bank account. On the same day, the accused received instructions to arrange for the collection of the said sum of money from Koh. The accused arranged for Huang to do the collection and Huang collected the sum of S$59,000 from Koh at the carpark opposite Lorong 20 Geylang, Singapore. Thereafter, the accused collected the S$59,000 from Huang._
+> _26_.     _On 2 July 2017, an unknown individual accessed Tan’s bank account and made unauthorised electronic transfers of S$25,000 to Koh’s POSB bank account, and S$50,000 to Koh’s OCBC bank account. Koh was then instructed by the unknown individual to withdraw S$9,000 from his POSB bank account and S$50,000 from his OCBC bank account. On the same day, the accused received instructions to arrange for the collection of the said sum of money from Koh. The accused arranged for Huang to do the collection and Huang collected the sum of S$59,000 from Koh at the carpark opposite Lorong 20 Geylang, Singapore. Thereafter, the accused collected the S$59,000 from Huang._
 
-_27_.     _On 3 July 2017, an unknown individual accessed Tan’s bank account and made unauthorised electronic transfers of S$25,000 to Koh’s POSB bank account, and S$50,000 to Koh’s OCBC bank account. Koh was then instructed by the unknown individual to withdraw S$41,000 from his POSB bank account, and S$50,000 from his OCBC bank account. On the same day, the accused received instructions to arrange for the collection of the said sum of money from Koh. The accused arranged for Huang to do the collection and Huang collected the sum of S$91,000 from Koh at the carpark opposite Lorong 20 Geylang, Singapore. Thereafter, the accused collected the S$91,000 from Huang at Lorong 10 Geylang, Singapore. On the same day, the accused delivered a total of S$315,000 that was collected from Huang on 2 July 2017 and 3 July 2017 to Lili at Indus Road, Singapore._
+> _27_.     _On 3 July 2017, an unknown individual accessed Tan’s bank account and made unauthorised electronic transfers of S$25,000 to Koh’s POSB bank account, and S$50,000 to Koh’s OCBC bank account. Koh was then instructed by the unknown individual to withdraw S$41,000 from his POSB bank account, and S$50,000 from his OCBC bank account. On the same day, the accused received instructions to arrange for the collection of the said sum of money from Koh. The accused arranged for Huang to do the collection and Huang collected the sum of S$91,000 from Koh at the carpark opposite Lorong 20 Geylang, Singapore. Thereafter, the accused collected the S$91,000 from Huang at Lorong 10 Geylang, Singapore. On the same day, the accused delivered a total of S$315,000 that was collected from Huang on 2 July 2017 and 3 July 2017 to Lili at Indus Road, Singapore._
 
-_28_.     _On 4 July 2017, an unknown individual accessed Tan’s bank account and made unauthorised electronic transfers of S$25,000 to Koh’s POSB bank account, and S$50,000 to Koh’s OCBC bank account. Koh was then instructed by the unknown individual to withdraw S$25,000 from his POSB bank account, and S$50,000 from his OCBC bank account. On the same day, the accused received instructions to arrange for the collection of the said sum of money from Koh. The accused arranged for Huang to do the collection and Huang collected the sum of S$75,000 from Koh at the carpark opposite Lorong 20 Geylang, Singapore. Thereafter, the accused collected the S$75,000 from Huang at Lorong 7 Geylang, Singapore. On the same day, the accused delivered the S$75,000 to Lili at Indus Road, Singapore._
+> _28_.     _On 4 July 2017, an unknown individual accessed Tan’s bank account and made unauthorised electronic transfers of S$25,000 to Koh’s POSB bank account, and S$50,000 to Koh’s OCBC bank account. Koh was then instructed by the unknown individual to withdraw S$25,000 from his POSB bank account, and S$50,000 from his OCBC bank account. On the same day, the accused received instructions to arrange for the collection of the said sum of money from Koh. The accused arranged for Huang to do the collection and Huang collected the sum of S$75,000 from Koh at the carpark opposite Lorong 20 Geylang, Singapore. Thereafter, the accused collected the S$75,000 from Huang at Lorong 7 Geylang, Singapore. On the same day, the accused delivered the S$75,000 to Lili at Indus Road, Singapore._
 
-_29_.     _On 5 July 2017, an unknown individual accessed Tan’s bank account and made unauthorised electronic transfers of S$25,000 to Koh’s POSB bank account, and S$50,000 to Koh’s OCBC bank account. Koh was then instructed by the unknown individual to withdraw S$25,000 from his POSB bank account, and S$50,000 from his OCBC bank account. On the same day, the accused received instructions to arrange for the collection of the said sum of money from Koh. The accused arranged for Huang to do the collection and Huang collected the sum of S$75,000 from Koh at the carpark opposite Lorong 20 Geylang, Singapore. Thereafter, the accused collected the S$75,000 from Huang at Lorong 12 Geylang, Singapore. On the same day, the accused delivered the S$75,000 to Lili at Indus Road, Singapore._
+> _29_.     _On 5 July 2017, an unknown individual accessed Tan’s bank account and made unauthorised electronic transfers of S$25,000 to Koh’s POSB bank account, and S$50,000 to Koh’s OCBC bank account. Koh was then instructed by the unknown individual to withdraw S$25,000 from his POSB bank account, and S$50,000 from his OCBC bank account. On the same day, the accused received instructions to arrange for the collection of the said sum of money from Koh. The accused arranged for Huang to do the collection and Huang collected the sum of S$75,000 from Koh at the carpark opposite Lorong 20 Geylang, Singapore. Thereafter, the accused collected the S$75,000 from Huang at Lorong 12 Geylang, Singapore. On the same day, the accused delivered the S$75,000 to Lili at Indus Road, Singapore._
 
-**_The Eighth Incident_**
+> **_The Eighth Incident_**
 
-_30_.     _On 6 July 2017, a sum of S$150,000 had been transferred into Leong’s OCBC bank account XXX, after an unknown caller cheated Xue into providing the login credentials to her DBS bank account XXX. The S$150,000 had been transferred from Xue’s bank account into Leong’s bank account._
+> _30_.     _On 6 July 2017, a sum of S$150,000 had been transferred into Leong’s OCBC bank account XXX, after an unknown caller cheated Xue into providing the login credentials to her DBS bank account XXX. The S$150,000 had been transferred from Xue’s bank account into Leong’s bank account._
 
-_31_.     _Leong was then instructed by an unknown individual, who claimed to be from Interpol, to withdraw the S$150,000 from his bank account. On the same day, the accused received instructions to arrange for the collection of the said sum of money from Leong. The accused arranged for Huang to do the collection and Huang collected the sum of S$150,000 from Leong at Lorong 40 Geylang, Singapore. Thereafter, the accused collected the S$150,000 from Huang at a toilet in Parklane Mall, Singapore. On the same day, the accused delivered S$148,000 to Lili at Indus Road, Singapore, after taking S$2,000 for his expenditure._
+> _31_.     _Leong was then instructed by an unknown individual, who claimed to be from Interpol, to withdraw the S$150,000 from his bank account. On the same day, the accused received instructions to arrange for the collection of the said sum of money from Leong. The accused arranged for Huang to do the collection and Huang collected the sum of S$150,000 from Leong at Lorong 40 Geylang, Singapore. Thereafter, the accused collected the S$150,000 from Huang at a toilet in Parklane Mall, Singapore. On the same day, the accused delivered S$148,000 to Lili at Indus Road, Singapore, after taking S$2,000 for his expenditure._
 
-**_The Ninth Incident_**
+> **_The Ninth Incident_**
 
-_32_.     _On 5 July 2017, a sum of S$10,000 had been transferred to Wenjia’s POSB bank account XXX, after an unknown caller cheated Lixi into providing the login credentials to her DBS bank account XXX. The S$10,000 had been transferred from Lixi’s bank account into Wenjia’s bank account._
+> _32_.     _On 5 July 2017, a sum of S$10,000 had been transferred to Wenjia’s POSB bank account XXX, after an unknown caller cheated Lixi into providing the login credentials to her DBS bank account XXX. The S$10,000 had been transferred from Lixi’s bank account into Wenjia’s bank account._
 
-_33_.     _Wenjia was then instructed by an unknown individual, who claimed to be from the Police, to withdraw the S$10,000 from her POSB bank account. On the same day, the accused received instructions to arrange for the collection of the said sum of money from Wenjia. The accused arranged for Huang to do the collection and Huang collected the said sum of S$10,000 from Wenjia at Lorong 17 Geylang, Singapore. Thereafter, the accused made arrangements for Hsieh to collect the S$10,000 from Huang at San Jiang Eating House, at Lorong 12 Geylang, Singapore. Huang left the money in the toilet at the said location, and Hsieh collected it from there. The accused then instructed Hsieh to leave the S$10,000 in a toilet at a coffee shop located at Lorong 10 Geylang, Singapore. The money was subsequently collected from this location by the accused._
+> _33_.     _Wenjia was then instructed by an unknown individual, who claimed to be from the Police, to withdraw the S$10,000 from her POSB bank account. On the same day, the accused received instructions to arrange for the collection of the said sum of money from Wenjia. The accused arranged for Huang to do the collection and Huang collected the said sum of S$10,000 from Wenjia at Lorong 17 Geylang, Singapore. Thereafter, the accused made arrangements for Hsieh to collect the S$10,000 from Huang at San Jiang Eating House, at Lorong 12 Geylang, Singapore. Huang left the money in the toilet at the said location, and Hsieh collected it from there. The accused then instructed Hsieh to leave the S$10,000 in a toilet at a coffee shop located at Lorong 10 Geylang, Singapore. The money was subsequently collected from this location by the accused._
 
-**_The Tenth Incident_**
+> **_The Tenth Incident_**
 
-_34_.     _On 6 July 2017, a sum of S$50,000 was transferred into Koh’s OCBC bank account, from Tan’s bank account, by an unknown person. Koh was then instructed by the unknown individual to withdraw the S$50,000 from his OCBC bank account. On the same day, the accused received instructions to arrange for the collection of the said sum of money from Koh. The accused arranged for Huang to do the collection and Huang collected the said sum of S$50,000 from Koh at the carpark opposite Lorong 20 Geylang, Singapore. Thereafter, on the accused’s instruction, Huang left the money in the toilet of a coffee shop located at Lorong 10 Geylang, Singapore. The accused then instructed Hsieh to collect the money from that location. Hsieh did so. Hsieh then handed over the S$50,000 to the accused at V Hotel, Singapore, that same day._
+> _34_.     _On 6 July 2017, a sum of S$50,000 was transferred into Koh’s OCBC bank account, from Tan’s bank account, by an unknown person. Koh was then instructed by the unknown individual to withdraw the S$50,000 from his OCBC bank account. On the same day, the accused received instructions to arrange for the collection of the said sum of money from Koh. The accused arranged for Huang to do the collection and Huang collected the said sum of S$50,000 from Koh at the carpark opposite Lorong 20 Geylang, Singapore. Thereafter, on the accused’s instruction, Huang left the money in the toilet of a coffee shop located at Lorong 10 Geylang, Singapore. The accused then instructed Hsieh to collect the money from that location. Hsieh did so. Hsieh then handed over the S$50,000 to the accused at V Hotel, Singapore, that same day._
 
-**_The Eleventh Incident_**
+> **_The Eleventh Incident_**
 
-_35_.     _On 6 July 2017, a sum of S$50,000 had been transferred into Liu’s UOB bank account XXX, after an unknown caller cheated Mak into providing the login credentials to her POSB bank account XXX. The S$50,000 had been transferred from Mak’s bank account into Liu’s bank account._
+> _35_.     _On 6 July 2017, a sum of S$50,000 had been transferred into Liu’s UOB bank account XXX, after an unknown caller cheated Mak into providing the login credentials to her POSB bank account XXX. The S$50,000 had been transferred from Mak’s bank account into Liu’s bank account._
 
-_36_.     _Liu was then instructed by an unknown individual, who claimed to be from the Police, to withdraw the S$50,000 from her bank account. On the same day, the accused received instructions to arrange for the collection of the said sum of money from Liu. The accused arranged for Hsieh to do the collection and Hsieh collected the sum of S$50,000 from Liu at Lorong 9 Geylang, Singapore. Thereafter, Hsieh delivered the money to the accused at V Hotel, Singapore._
+> _36_.     _Liu was then instructed by an unknown individual, who claimed to be from the Police, to withdraw the S$50,000 from her bank account. On the same day, the accused received instructions to arrange for the collection of the said sum of money from Liu. The accused arranged for Hsieh to do the collection and Hsieh collected the sum of S$50,000 from Liu at Lorong 9 Geylang, Singapore. Thereafter, Hsieh delivered the money to the accused at V Hotel, Singapore._
 
-_37_.     _On 6 July 2017, the accused handed the S$50,000 collected by Huang from Koh at the carpark opposite Lorong 20 Geylang, and the S$50,000 collected by Hsieh from Liu at Lorong 9 Geylang, to Chen, and directed Chen to deliver the money to Lili at Indus Road, Singapore. Chen delivered the S$100,000 to Lili as directed._
+> _37_.     _On 6 July 2017, the accused handed the S$50,000 collected by Huang from Koh at the carpark opposite Lorong 20 Geylang, and the S$50,000 collected by Hsieh from Liu at Lorong 9 Geylang, to Chen, and directed Chen to deliver the money to Lili at Indus Road, Singapore. Chen delivered the S$100,000 to Lili as directed._
 
-**_The Twelfth Incident_**
+> **_The Twelfth Incident_**
 
-_38_.     _On 7 July 2017, a sum of S$25,000 was transferred into Koh’s POSB bank account, from Tan’s bank account, by an unknown person. A further S$50,000 was transferred into Koh’s OCBC bank account from Tan’s bank account._
+> _38_.     _On 7 July 2017, a sum of S$25,000 was transferred into Koh’s POSB bank account, from Tan’s bank account, by an unknown person. A further S$50,000 was transferred into Koh’s OCBC bank account from Tan’s bank account._
 
-_39_.     _Koh was then instructed by an unknown individual to withdraw the S$75,000. On the same day, the accused received instructions to arrange for the collection of the said sum of money from Koh. The accused arranged for Hsieh to do the collection and Hsieh collected the said sum of S$75,000 from Koh at Blk 608, Hougang Avenue 4, Singapore. Hsieh took S$1,000 of it for his own expenses, with the accused’s approval. Thereafter, on the accused’s instruction, Hsieh left the remaining S$74,000 in the toilet at Parklane Shopping Centre, Singapore. This money was then collected by the accused._
+> _39_.     _Koh was then instructed by an unknown individual to withdraw the S$75,000. On the same day, the accused received instructions to arrange for the collection of the said sum of money from Koh. The accused arranged for Hsieh to do the collection and Hsieh collected the said sum of S$75,000 from Koh at Blk 608, Hougang Avenue 4, Singapore. Hsieh took S$1,000 of it for his own expenses, with the accused’s approval. Thereafter, on the accused’s instruction, Hsieh left the remaining S$74,000 in the toilet at Parklane Shopping Centre, Singapore. This money was then collected by the accused._
 
-_40_.     _On 7 July 2017, Chen and the accused checked into MBS Hotel. Thereat, the accused consolidated the money he had on hand which comprised the S$7,000 that the accused safe kept on 2 July 2017, the S$74,000 collected by Hsieh from Koh at Blk 608 Hougang Avenue 4 on 7 July 2017, and the S$10,000 collected by Huang from Wenjia. The accused removed $1,000 and directed Chen to deliver the sum of S$90,000 to Lili. Chen delivered the S$90,000 as directed._
+> _40_.     _On 7 July 2017, Chen and the accused checked into MBS Hotel. Thereat, the accused consolidated the money he had on hand which comprised the S$7,000 that the accused safe kept on 2 July 2017, the S$74,000 collected by Hsieh from Koh at Blk 608 Hougang Avenue 4 on 7 July 2017, and the S$10,000 collected by Huang from Wenjia. The accused removed $1,000 and directed Chen to deliver the sum of S$90,000 to Lili. Chen delivered the S$90,000 as directed._
 
-**_Facts leading to the arrest of the accused and Chen_**
+> **_Facts leading to the arrest of the accused and Chen_**
 
-_41_.     _On 8 July 2017, at about 4 a.m., the accused went to Changi Airport Terminal 2 for departure to Taiwan, and thereat, he was arrested by the Police. The following items found with the accused in relation to the case were seized as case exhibits:_
+> _41_.     _On 8 July 2017, at about 4 a.m., the accused went to Changi Airport Terminal 2 for departure to Taiwan, and thereat, he was arrested by the Police. The following items found with the accused in relation to the case were seized as case exhibits:_
 
-_i_)     _One Apple iPhone 6 with silver rear casing;_
+>> _i_)     _One Apple iPhone 6 with silver rear casing;_
 
-_ii_)     _One Apple iPhone 7 with red rear casing._
+>> _ii_)     _One Apple iPhone 7 with red rear casing._
 
-_42_.     _On 8 July 2017 at 8.50 a.m., Chen went to Changi Airport Terminal 2 to arrange for a flight back to Taiwan and he was arrested by the police. The following item found with him in relation to the case was seized as case exhibit:_
+> _42_.     _On 8 July 2017 at 8.50 a.m., Chen went to Changi Airport Terminal 2 to arrange for a flight back to Taiwan and he was arrested by the police. The following item found with him in relation to the case was seized as case exhibit:_
 
-_iii_)     _One Apple iPhone 6 with gold rear casing._
+>> _iii_)     _One Apple iPhone 6 with gold rear casing._
 
-_43_.     _All the moneys have been dissipated. No restitution has been made by the accused._
+> _43_.     _All the moneys have been dissipated. No restitution has been made by the accused._
 
-**_Offence_**
+> **_Offence_**
 
-_44_.     _At all times, the accused had reasonable grounds to believe that that an unknown person had engaged in criminal conduct, and had reasonable grounds to believe that by entering into the arrangement he had entered into, the retention of the said unknown person’s benefits of criminal conduct was facilitated. The accused collected and handed over a total of_ **_S$803,000_** _._
+> _44_.     _At all times, the accused had reasonable grounds to believe that that an unknown person had engaged in criminal conduct, and had reasonable grounds to believe that by entering into the arrangement he had entered into, the retention of the said unknown person’s benefits of criminal conduct was facilitated. The accused collected and handed over a total of_ **_S$803,000_** _._
 
-_45_.     _In acting as he did, the accused has committed one count of the offence under section 44(1)(a) of the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act (Cap 65A, 2000 Rev Ed), punishable under section 44(5)(a) of the same Act. “_
+> _45_.     _In acting as he did, the accused has committed one count of the offence under section 44(1)(a) of the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act (Cap 65A, 2000 Rev Ed), punishable under section 44(5)(a) of the same Act. “_
 
 ## Prescribed Punishment
 
@@ -239,9 +239,9 @@ _45_.     _In acting as he did, the accused has committed one count of the o
 
 21     I agreed with the submissions of the Prosecution that the culpability of the accused was in the _medium_ range. In this regard, I am guided by what was stated by See J in _Huang Ying-Chun v PP –_
 
-“_127\. Although various factors are relevant to this analysis, I consider that the most important consideration_ _is the appellant’s_ **_role_** _in this criminal enterprise_.”
+> “_127\. Although various factors are relevant to this analysis, I consider that the most important consideration_ _is the appellant’s_ **_role_** _in this criminal enterprise_.”
 
-(Emphasis added)
+> (Emphasis added)
 
 22     Indeed, an objective and closer scrutiny of the role of the accused displays vividly that he played a more expansive role than that of his co-accused _Huang_ and whose culpability was also in the _medium_ range[^1].
 

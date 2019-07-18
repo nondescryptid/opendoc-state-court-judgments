@@ -26,17 +26,17 @@
 
 3       The accused pleaded guilty to the following charges:-
 
-**1st charge (MCN-901371-2018)**
+> **1st charge (MCN-901371-2018)**
 
-… \[o\]n the 16th day of January 2018, at or about 5.58pm, at Orchard MRT Station located at No. 437 Orchard Road, Singapore, did voluntarily cause hurt to one Sapiie Bin Katib, to wit, by hitting him twice on his right cheek, and thrice on his forehead and the back of his head, and you have thereby committed an offence punishable under Section 323 of the Penal Code, Chapter 224.
+> … \[o\]n the 16th day of January 2018, at or about 5.58pm, at Orchard MRT Station located at No. 437 Orchard Road, Singapore, did voluntarily cause hurt to one Sapiie Bin Katib, to wit, by hitting him twice on his right cheek, and thrice on his forehead and the back of his head, and you have thereby committed an offence punishable under Section 323 of the Penal Code, Chapter 224.
 
-**2nd charge (MCN-901372-2018)**
+> **2nd charge (MCN-901372-2018)**
 
-… \[o\]n the 16th day of January 2018, at or about 5.58pm, at Orchard MRT Station located at No. 437 Orchard Road, Singapore, did use insulting words, to wit, by scolding vulgarities “_Sial_” and “_Konek_” in Malay, meaning “Jinx” and “Penis” respectively in English, towards one Sapiie Bin Katib, a Service Ambassador for SMRT, who was executing his duty as a public service worker at the material time, and you have thereby committed an offence under Section 6(1)(a) of the Protection from Harassment Act, Chapter 256A, punishable under Section 6(3) of the said Act.
+> … \[o\]n the 16th day of January 2018, at or about 5.58pm, at Orchard MRT Station located at No. 437 Orchard Road, Singapore, did use insulting words, to wit, by scolding vulgarities “_Sial_” and “_Konek_” in Malay, meaning “Jinx” and “Penis” respectively in English, towards one Sapiie Bin Katib, a Service Ambassador for SMRT, who was executing his duty as a public service worker at the material time, and you have thereby committed an offence under Section 6(1)(a) of the Protection from Harassment Act, Chapter 256A, punishable under Section 6(3) of the said Act.
 
-**5th charge (MAC-901883-2019)**
+> **5th charge (MAC-901883-2019)**
 
-… \[o\]n the 9th day of December 2018, at or about 4.05 a.m, in the vicinity of lift C of Blk 645 Ang Mo Kio Ave 6, Singapore 560645, which is a public place, did behave in a disorderly manner, to wit, by shouting and gesticulating towards the police officers, and not adhering to the warnings given by the police officers, and you have thereby committed an offence under Section 20 of the Miscellaneous Offences (Public Order and Nuisance) Act, Chapter 184.
+> … \[o\]n the 9th day of December 2018, at or about 4.05 a.m, in the vicinity of lift C of Blk 645 Ang Mo Kio Ave 6, Singapore 560645, which is a public place, did behave in a disorderly manner, to wit, by shouting and gesticulating towards the police officers, and not adhering to the warnings given by the police officers, and you have thereby committed an offence under Section 20 of the Miscellaneous Offences (Public Order and Nuisance) Act, Chapter 184.
 
 ## THE FACTS
 
@@ -44,59 +44,59 @@
 
 **STATEMENT OF FACTS (AMENDED)**
 
-The accused is, **Nur Ellyna Binte Abdul Karim**, a 26-year-old female Singaporean (FIN No.: Sxxx; D.O.B.: 29 May 1992).
+> The accused is, **Nur Ellyna Binte Abdul Karim**, a 26-year-old female Singaporean (FIN No.: Sxxx; D.O.B.: 29 May 1992).
 
-**Facts relating to the 1st and 2nd Charges (s 323 Penal Code and s 6(1) p/u s 6(3) POHA)**
+> **Facts relating to the 1st and 2nd Charges (s 323 Penal Code and s 6(1) p/u s 6(3) POHA)**
 
-2.    The victim is Sapiie Bin Katib, a 59-year-old male Singaporean. At the material time, the victim was working as a Service Ambassador for SMRT.
+> 2.    The victim is Sapiie Bin Katib, a 59-year-old male Singaporean. At the material time, the victim was working as a Service Ambassador for SMRT.
 
-3.    The witnesses are:
+> 3.    The witnesses are:
 
-a)    Siti Aishah Fadillah Binte Supa’at (“**Siti**”) who was an assistant station manager at Orchard MRT station at the material time; and
+>> a)    Siti Aishah Fadillah Binte Supa’at (“**Siti**”) who was an assistant station manager at Orchard MRT station at the material time; and
 
-b)    Ananthi Kerisenan who was deployed as a security officer at Orchard MRT station at the material time.
+>> b)    Ananthi Kerisenan who was deployed as a security officer at Orchard MRT station at the material time.
 
-(Collectively, the “Witnesses”)
+> (Collectively, the “Witnesses”)
 
-_First Information Report_
+> _First Information Report_
 
-4    On 16th January 2018 at about 6.09 p.m., the Police received a phone call from an unknown caller informing that “2 x SMRT Staff assaulted”. The incident location was given as Blk 437 Orchard Road Orchard MRT Station, Singapore.
+> 4    On 16th January 2018 at about 6.09 p.m., the Police received a phone call from an unknown caller informing that “2 x SMRT Staff assaulted”. The incident location was given as Blk 437 Orchard Road Orchard MRT Station, Singapore.
 
-5.    Investigations revealed that on 16th January 2018 at or about 5.58 p.m., the victim was on duty at Orchard MRT. The victim was attending to a passenger to process her train ticket refund at the passenger service centre which was being manned by Siti. At that time, the accused was the next passenger in line at the passenger service centre. The accused was waiting to top-up her Ez-Link card at the passenger service centre.
+> 5.    Investigations revealed that on 16th January 2018 at or about 5.58 p.m., the victim was on duty at Orchard MRT. The victim was attending to a passenger to process her train ticket refund at the passenger service centre which was being manned by Siti. At that time, the accused was the next passenger in line at the passenger service centre. The accused was waiting to top-up her Ez-Link card at the passenger service centre.
 
-6.    The accused grew impatient while waiting for both the victim and Siti to be done servicing the passenger in front of her in the queue. The accused then started shouting “faster faster” at the victim and Siti to hurry up.
+> 6.    The accused grew impatient while waiting for both the victim and Siti to be done servicing the passenger in front of her in the queue. The accused then started shouting “faster faster” at the victim and Siti to hurry up.
 
-7.    The victim then replied to the accused in Malay to wait as Siti was still serving the passenger. The accused then replied the victim saying “Yah, I cannot wait, you got a problem is it?” The accused then started to verbally abuse the victim, who was performing his duty as a public service worker at that time, by scolding vulgarities “Sial” and “Konek” at the victim in Malay, which mean “jinx” and “penis” in English respectively. The accused then used her left hand and hit the victim twice on his right cheek area before trying to leave the place. When the victim tried to stop the accused from leaving the place, the accused then hit the victim thrice on his forehead and at the back of the head. The accused then tried to leave the scene again. The witnesses then proceeded to intervene and detained the accused person at the incident location. The police were then called to the scene.
+> 7.    The victim then replied to the accused in Malay to wait as Siti was still serving the passenger. The accused then replied the victim saying “Yah, I cannot wait, you got a problem is it?” The accused then started to verbally abuse the victim, who was performing his duty as a public service worker at that time, by scolding vulgarities “Sial” and “Konek” at the victim in Malay, which mean “jinx” and “penis” in English respectively. The accused then used her left hand and hit the victim twice on his right cheek area before trying to leave the place. When the victim tried to stop the accused from leaving the place, the accused then hit the victim thrice on his forehead and at the back of the head. The accused then tried to leave the scene again. The witnesses then proceeded to intervene and detained the accused person at the incident location. The police were then called to the scene.
 
-8.    The victim felt pain on his cheek area as a result of the accused’s actions. The victim did not seek any medical attention.
+> 8.    The victim felt pain on his cheek area as a result of the accused’s actions. The victim did not seek any medical attention.
 
-9.    By virtue of the foregoing, the accused has committed an offence of voluntarily causing hurt punishable under s 323 of the Penal Code (Cap 224, 2008 Rev Ed).
+> 9.    By virtue of the foregoing, the accused has committed an offence of voluntarily causing hurt punishable under s 323 of the Penal Code (Cap 224, 2008 Rev Ed).
 
-10.    In addition, the accused has committed an offence of using insulting words towards a public service worker under s 6(1) punishable under s 6(3) of the Protection from Harassment Act (Cap 256A, 2015 Rev Ed).
+> 10.    In addition, the accused has committed an offence of using insulting words towards a public service worker under s 6(1) punishable under s 6(3) of the Protection from Harassment Act (Cap 256A, 2015 Rev Ed).
 
-**Facts relating to the 5th Charge (s 20 Miscellaneous Offences (Public Order and Nuisance) Act)**
+> **Facts relating to the 5th Charge (s 20 Miscellaneous Offences (Public Order and Nuisance) Act)**
 
-11.    The first witness is SSSgt Loh Zhiming, a 37-year-old male Singaporean. At the material time, the witness was a police officer attached to Ang Mo Kio North NPC.
+> 11.    The first witness is SSSgt Loh Zhiming, a 37-year-old male Singaporean. At the material time, the witness was a police officer attached to Ang Mo Kio North NPC.
 
-12.    The second witness is Syed Farhan. The second witness was the boyfriend of the accused at the material time.
+> 12.    The second witness is Syed Farhan. The second witness was the boyfriend of the accused at the material time.
 
-_First Information Report_
+> _First Information Report_
 
-13.    On 9th December 2018 at or about 3.09 a.m., an unknown male caller called the Police stating that “There is a dispute between a Malay couple. The lady has been screaming like a mad person. Can you come and settle this?” The incident location was given as Blk 647, Ang Mo Kio Ave 6, Singapore. Police officers, including SSSgt Loh Zhiming, were then dispatched to deal with the complaint.
+> 13.    On 9th December 2018 at or about 3.09 a.m., an unknown male caller called the Police stating that “There is a dispute between a Malay couple. The lady has been screaming like a mad person. Can you come and settle this?” The incident location was given as Blk 647, Ang Mo Kio Ave 6, Singapore. Police officers, including SSSgt Loh Zhiming, were then dispatched to deal with the complaint.
 
-14.    At or about 3.18 a.m., SSSgt Loh Zhiming and other team members arrived at the incident location. SSSgt Loh Zhiming and the team were informed by a member of the public that the accused and the second witness were at Blk 645, Ang Mo Kio Ave 6, Singapore (“Blk 645”). When the police officers proceeded to Blk 645, they saw the accused shouting. When the accused noticed that police officers had arrived, the accused then walked off to the second witness’ apartment on the 12th floor. The officers followed after the accused to the 12th floor of Blk 645.
+> 14.    At or about 3.18 a.m., SSSgt Loh Zhiming and other team members arrived at the incident location. SSSgt Loh Zhiming and the team were informed by a member of the public that the accused and the second witness were at Blk 645, Ang Mo Kio Ave 6, Singapore (“Blk 645”). When the police officers proceeded to Blk 645, they saw the accused shouting. When the accused noticed that police officers had arrived, the accused then walked off to the second witness’ apartment on the 12th floor. The officers followed after the accused to the 12th floor of Blk 645.
 
-15.    When the officers arrived at the 12th floor of Blk 645 at or around 3.25 a.m., the accused was spotted along the common corridor in front of the second witness’ unit. The accused was very agitated and kept shouting at the officers, claiming that she did not do anything wrong and exclaiming why the Police were following her. SSSgt Loh Zhiming and team then tried to explain the presence of the officers to the accused in an attempt to calm her down. However, the accused refused to accept it. After a while, the accused left the scene.
+> 15.    When the officers arrived at the 12th floor of Blk 645 at or around 3.25 a.m., the accused was spotted along the common corridor in front of the second witness’ unit. The accused was very agitated and kept shouting at the officers, claiming that she did not do anything wrong and exclaiming why the Police were following her. SSSgt Loh Zhiming and team then tried to explain the presence of the officers to the accused in an attempt to calm her down. However, the accused refused to accept it. After a while, the accused left the scene.
 
-16.    At or about 3.50 a.m., SSSgt Loh Zhiming and the team decided to patrol the vicinity of Blk 645 as it was believed the accused would return back to the scene. While patrolling the area, the officers spotted the second witness sitting alone along Ang Mo Kio Ave 6. They then decided to gather information from the second witness.
+> 16.    At or about 3.50 a.m., SSSgt Loh Zhiming and the team decided to patrol the vicinity of Blk 645 as it was believed the accused would return back to the scene. While patrolling the area, the officers spotted the second witness sitting alone along Ang Mo Kio Ave 6. They then decided to gather information from the second witness.
 
-17.    The second witness informed the police officers that the accused and himself had a heated argument and the accused had walked off. The second witness believed that the accused would head back to his unit on the 12th floor of Blk 645. As such, the officers accompanied the second witness back to his unit to check if the accused had returned.
+> 17.    The second witness informed the police officers that the accused and himself had a heated argument and the accused had walked off. The second witness believed that the accused would head back to his unit on the 12th floor of Blk 645. As such, the officers accompanied the second witness back to his unit to check if the accused had returned.
 
-18.    While the police officers were walking back to the second witness’ unit at or around 4.05 a.m., they spotted the accused at the void deck of Blk 645. The second witness attempted to calm the accused down to no avail. The accused then ran towards the lift landing of Blk 645. The police officers followed suit.
+> 18.    While the police officers were walking back to the second witness’ unit at or around 4.05 a.m., they spotted the accused at the void deck of Blk 645. The second witness attempted to calm the accused down to no avail. The accused then ran towards the lift landing of Blk 645. The police officers followed suit.
 
-19.    The accused was then observed to be shouting at the top of her voice in the vicinity of lift C of Blk 645. Despite several warnings given by the officers to calm down and step outside the lift, the accused persisted in shouting and gesticulating towards the officers. The police officers then arrested the accused for behaving in a disorderly manner. The accused put up a violent struggle and additional resources had to be activated to assist.
+> 19.    The accused was then observed to be shouting at the top of her voice in the vicinity of lift C of Blk 645. Despite several warnings given by the officers to calm down and step outside the lift, the accused persisted in shouting and gesticulating towards the officers. The police officers then arrested the accused for behaving in a disorderly manner. The accused put up a violent struggle and additional resources had to be activated to assist.
 
-20.    By virtue of the foregoing, the accused has committed an offence of disorderly behaviour under s 20 of the Miscellaneous Offences (Public Oder and Nuisance) Act (Cap 184, 1997 Rev Ed).
+> 20.    By virtue of the foregoing, the accused has committed an offence of disorderly behaviour under s 20 of the Miscellaneous Offences (Public Oder and Nuisance) Act (Cap 184, 1997 Rev Ed).
 
 ## SENTENCE
 
@@ -106,9 +106,9 @@ _First Information Report_
 
 6       To support its case, the defence had obtained a comprehensive forensic medical report on the accused from the Institute of Mental Health (“IMH”). In her report, Dr Deva Priya Appan, Senior Resident, East Region, Institute of Mental Health (“Dr Deva”) opined that:-[^2]
 
-(a)     The accused has a history of major depression and she was in a state of remission at the time of the alleged offence;[^3]
+> (a)     The accused has a history of major depression and she was in a state of remission at the time of the alleged offence;[^3]
 
-(b)     There was no contributory link between her psychiatric disorder and the alleged offence.
+> (b)     There was no contributory link between her psychiatric disorder and the alleged offence.
 
 7       Since Dr Deva had stated unequivocally that there was no contributory link between the accused’s psychiatric disorder and the commission of the alleged offence, it was most unlikely that the conditions set out in s 339 of the CPC could be fulfilled. It would have been pointless for the court to appoint a psychiatrist (who would invariably also be from IMH) to render an opinion, when a forensic report on the accused (which addressed the issue of whether there was a contributory link between the psychiatric disorder and the offence) had already been prepared. Counsel for the defence acknowledged that the statutory requirements for an MTO had not been fulfilled.[^4] In these circumstances, the imposition of an MTO could not be considered.
 
@@ -128,17 +128,17 @@ _First Information Report_
 
 13     For the 1st charge, the victim of the accused’s attack was a public transport worker and it was appropriate to pass a deterrent sentence. In _Wong Hoi Len v Public Prosecutor_ <span class="citation">\[2008\] SGHC 146</span> (_“Wong Hoi Len”_), in setting out a starting benchmark of 4 weeks’ imprisonment[^8] for cases of simple assaults against public service workers, VK Rajah stated at \[18\]:-
 
-\[T\]he courts must send a clear message that all acts of criminal violence against public transport workers will not be tolerated. These workers provide the larger community with an invaluable and essential service, and they have every right to work in a safe and secure environment.
+> \[T\]he courts must send a clear message that all acts of criminal violence against public transport workers will not be tolerated. These workers provide the larger community with an invaluable and essential service, and they have every right to work in a safe and secure environment.
 
 14     The present case was not one of a simple assault. Several offence specific aggravating factors were present. These included:-
 
-(a)     The victim was aged 59 years old and was fairly elderly;
+> (a)     The victim was aged 59 years old and was fairly elderly;
 
-(b)     The accused had hit the victim repeatedly in his vulnerable head and face area;
+> (b)     The accused had hit the victim repeatedly in his vulnerable head and face area;
 
-(c)     The accused had attempted to flee and had to be detained by other SMRT staff; and
+> (c)     The accused had attempted to flee and had to be detained by other SMRT staff; and
 
-(d)     The offence was committed during the evening rush hour and would have caused a public disturbance.
+> (d)     The offence was committed during the evening rush hour and would have caused a public disturbance.
 
 15     I accepted the defence submission that harm caused to the victim was low. He suffered pain and did not seek medical attention. However, this was more than a case of a simple assault. The accused’s culpability was high due to the presence of offence specific aggravating factors. Further, the accused had caused hurt to 2 other public transport workers on the same day. The charges relating to these assaults were taken into consideration for the purposes of sentencing.[^9]
 

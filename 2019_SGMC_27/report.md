@@ -28,17 +28,17 @@ The Accused is a 57-year-old male. He pleaded guilty to the two charges below an
 
 4       When the Accused tried to filter into the merging lane, the Complainant refused to give way. This greatly annoyed the Accused. He thus intentionally accelerated, driving on the road shoulder until he overtook the Complainant’s car. The Accused ended up directly in front of the Complainant, with both cars on the leftmost lane of the PIE (which had five lanes). The Accused then abruptly applied his brakes twice, so as to convey his displeasure about the Complainant not giving way to him earlier. On both occasions, the Complainant managed to brake in time, thereby averting a collision with the Accused. The Complainant then filtered right, to the second leftmost lane of the PIE. Immediately, the Accused followed suit and applied his brakes abruptly for the third time. On this third occasion, the Complainant was unable to brake in time, with the result that his front bumper collided into the Accused’s rear bumper. According to a quote which the Complainant subsequently obtained, the cost of repairing the damage to his front bumper and number plate was $2,162. These events which led to the collision form the subject of the charge against the Accused under s 336(a) of the Penal Code (“the rash endangerment charge”):
 
-MAC 911027/2018
+> MAC 911027/2018
 
-… you, on 16 March 2017, between 5.51pm to 5.52pm, along the Pan Island Expressway near Pioneer Road North, Singapore, did do an act so rashly as to endanger the personal safety of \[the Complainant\] and other road users, to wit, by intentionally and abruptly jamming the brakes of your car … thrice in front of \[the Complainant’s\] car …, when there was no reason to do so, causing the said \[Complainant’s\] car to collide into the rear of your car, and you have thereby committed an offence punishable under section 336(a) of the Penal Code ….
+> … you, on 16 March 2017, between 5.51pm to 5.52pm, along the Pan Island Expressway near Pioneer Road North, Singapore, did do an act so rashly as to endanger the personal safety of \[the Complainant\] and other road users, to wit, by intentionally and abruptly jamming the brakes of your car … thrice in front of \[the Complainant’s\] car …, when there was no reason to do so, causing the said \[Complainant’s\] car to collide into the rear of your car, and you have thereby committed an offence punishable under section 336(a) of the Penal Code ….
 
 5       After the collision, the Accused and the Complainant stopped their cars at the second leftmost lane of the PIE. Both men alighted and took photographs of the other party’s car. The Accused then demanded to see the Complainant’s driving licence. The latter refused, telling the Accused to check with the Land Transport Authority using the vehicle registration number that the Accused had already taken a photograph of. This enraged the Accused, who shouted at the Complainant. The Complainant, a 60-year-old male Singaporean, decided to disengage by returning to the safety of his car. However, the Accused tried to prevent the Complainant from getting in by forcefully opening the Complainant’s car door, grabbing the Complainant’s arm and pulling it. The Complainant pushed the Accused’s hand away, causing the latter to drop his mobile phone. The Accused’s act of grabbing the Complainant’s arm and pulling it forms the subject of the TiC charge, i.e. using criminal force under s 352 of the Penal Code.
 
 6       The Complainant managed to get into his car, after which he locked the car doors. The Accused tried to open the Complainant’s car door and, upon realising that it was locked, hit the driver-side window of the Complainant’s car. The Complainant then attempted to drive away. In a bid to stop the Complainant from leaving, the Accused walked to the front of the Complainant’s car and forcefully hit the bonnet four times, thereby denting it. The Complainant managed to reverse his car and drive off. According to a quote which the Complainant subsequently obtained, the cost of repairing his bonnet was S$2,171. The Accused’s act of hitting the bonnet forms the subject of the charge under s 427 of the Penal Code (“the mischief charge”):
 
-MAC 911028/2018
+> MAC 911028/2018
 
-… you, on 16 March 2017, at about 5.54pm, in the second lane from the left along the Pan Island Expressway near Pioneer Road North, Singapore, did commit mischief, to wit, by hitting the \[Complainant’s\] car … on the bonnet four times forcefully ... , resulting in damages to the bonnet of the car amounting to S$2,171, and you have thereby committed an offence punishable under section 427 of the Penal Code …
+> … you, on 16 March 2017, at about 5.54pm, in the second lane from the left along the Pan Island Expressway near Pioneer Road North, Singapore, did commit mischief, to wit, by hitting the \[Complainant’s\] car … on the bonnet four times forcefully ... , resulting in damages to the bonnet of the car amounting to S$2,171, and you have thereby committed an offence punishable under section 427 of the Penal Code …
 
 ## Antecedents
 
@@ -50,25 +50,25 @@ MAC 911028/2018
 
 9       In the mitigation plea, the Defence canvassed various arguments, the broad thrusts of which are laid out below:
 
-(a)     The rash endangerment charge was preferred under the limb of s 336(a) which relates to endangerment of _personal safety_, as opposed to endangerment of _human life_. Offences under the former carry lower culpability than those under the latter.[^6]
+> (a)     The rash endangerment charge was preferred under the limb of s 336(a) which relates to endangerment of _personal safety_, as opposed to endangerment of _human life_. Offences under the former carry lower culpability than those under the latter.[^6]
 
-(b)     For offences involving rashness, the _outcome_ is material to the sentence.[^7] Under this principle of ‘outcome materiality’ the court can take account of the full extent of the harm arising from the offence. [^8] In this case, as the harm was low (no injuries resulted), the Accused’s culpability is correspondingly low.[^9]
+> (b)     For offences involving rashness, the _outcome_ is material to the sentence.[^7] Under this principle of ‘outcome materiality’ the court can take account of the full extent of the harm arising from the offence. [^8] In this case, as the harm was low (no injuries resulted), the Accused’s culpability is correspondingly low.[^9]
 
-(c)     The Complainant drove in an inconsiderate and aggressive fashion, despite the Accused having the right of way.[^10] The Accused had thus acted under provocation[^11] and without any premeditation.[^12]
+> (c)     The Complainant drove in an inconsiderate and aggressive fashion, despite the Accused having the right of way.[^10] The Accused had thus acted under provocation[^11] and without any premeditation.[^12]
 
-(d)     The Accused pleaded guilty at the earliest opportunity.[^13]
+> (d)     The Accused pleaded guilty at the earliest opportunity.[^13]
 
-(e)     The Accused has a long and distinguished career.[^14] A custodial sentence would have a catastrophic impact on him and his family.[^15]
+> (e)     The Accused has a long and distinguished career.[^14] A custodial sentence would have a catastrophic impact on him and his family.[^15]
 
 ## The Rash Endangerment Charge
 
 10     The manner in which the Accused had driven gave rise to an offence under s 336(a) of the Penal Code, which reads:
 
-Whoever does any act so rashly or negligently as to endanger human life or the personal safety of others, shall be punished —
+> Whoever does any act so rashly or negligently as to endanger human life or the personal safety of others, shall be punished —
 
-(a)    in the case of a rash act, with imprisonment for a term which may extend to 6 months, or with fine which may extend to $2,500, or with both; or
+>> (a)    in the case of a rash act, with imprisonment for a term which may extend to 6 months, or with fine which may extend to $2,500, or with both; or
 
-(b)    in the case of a negligent act, with imprisonment for a term which may extend to 3 months, or with fine which may extend to $1,500, or with both.
+>> (b)    in the case of a negligent act, with imprisonment for a term which may extend to 3 months, or with fine which may extend to $1,500, or with both.
 
 11     The rash endangerment charge, having been brought under the ‘rash’ (as opposed to ‘negligent’) category under s 336, invoked the higher punishment ceiling in subsection (a).
 
@@ -76,33 +76,33 @@ Whoever does any act so rashly or negligently as to endanger human life or the p
 
 12     For offences under s 336(a) of the Penal Code, the charge may be brought under either the endangerment of _personal safety_ limb or the endangerment of _human life_ limb. In _PP v. Lim Choon Teck_ <span class="citation">\[2015\] SGHC 265</span> (“_Lim Choon Teck_”), Chan Seng Onn J observed that charges under the ‘personal safety’ limb ordinarily attract a lower sentence than those under the ‘human life’ limb. In this respect, the Defence draws the court’s attention to the following observation by Chan J:[^16]
 
-Naturally, when an offender is charged under the Personal Safety Limb as opposed to the Endangering Life Limb, it is an indication that his rashness ... falls at the lower end of the spectrum in relation to an offence under s 336(a) of the Penal Code. Therefore, correspondingly, his sentence would **_in the absence of other aggravating factors_** likely fall at the lower end of the sentencing spectrum of s 336(a) of the Penal Code. … \[emphasis added\]
+> Naturally, when an offender is charged under the Personal Safety Limb as opposed to the Endangering Life Limb, it is an indication that his rashness ... falls at the lower end of the spectrum in relation to an offence under s 336(a) of the Penal Code. Therefore, correspondingly, his sentence would **_in the absence of other aggravating factors_** likely fall at the lower end of the sentencing spectrum of s 336(a) of the Penal Code. … \[emphasis added\]
 
 13     As a preliminary observation, the statutory provision does _not_ rule out the custodial option for the ‘personal safety’ limb. Particularly in this case, where the category concerned is rashness and not just negligence. Furthermore, Chan J explicitly qualified in the extract of his judgment above (see emphasised text) that his observation was subject to the absence of aggravating factors. On the present facts, a key aggravating factor was that this is a case of road rage −I will touch on that later (at paragraph 28 below).
 
 14     In _Lim Choon Teck_, Chan J set out three (non-exhaustive) factors for determining where the offender should be placed on the sentencing spectrum:[^17]
 
-(a)     the degree of rashness;
+> (a)     the degree of rashness;
 
-(b)     the injury suffered by the victim; and
+> (b)     the injury suffered by the victim; and
 
-(c)     whether the offender pleaded guilty early.
+> (c)     whether the offender pleaded guilty early.
 
 15     The Defence has placed significant reliance on the second factor, i.e. the absence of injuries in this case. In particular, the Defence cites the following statement from Chan J’s judgment in _Lim Choon Teck_:[^18]
 
-A fine that is close to the upper limit should generally be reserved for cases where no injuries or only relatively minor injuries are suffered by the victim and the offender pleads guilty at the first reasonable opportunity
+> A fine that is close to the upper limit should generally be reserved for cases where no injuries or only relatively minor injuries are suffered by the victim and the offender pleads guilty at the first reasonable opportunity
 
 This, argues the Defence, demonstrates the importance which _Lim Choon Teck_ attributed to the principle of _outcome materiality_. If the outcome occasioned no injury, so the argument goes, the sentence must be dialled down accordingly.
 
 16     In alluding to the principle of outcome materiality, the court in _Lim Choon Teck_ had referred to _PP v Hue An Li_ <span class="citation">\[2014\] SGHC 171</span> (“_Hue An Li_”). There, a three-judge bench of the High Court expounded on the principle of outcome materiality, in the context of the offence of causing death by a rash or negligent act (under s 304A of the Penal Code). The court in _Hue An Li_ explained what it called the ‘control principle’, i.e. that intuitively, a person should not be made to bear the blame for what is beyond his control. As such, if the harm that results from an offence is exacerbated by factors beyond the offender’s control, intuitive moral sense dictates that the offender should not be blamed for the full extent of that harm. However, the High Court in _Hue An Li_ held that the control principle is still subordinate to the principle of outcome materiality, which dictates that the offender be held accountable for the outcome of his transgression. As such, if that outcome is uncertain _ex ante_ and a person still sees fit to embark on that course of transgression, he effectively takes his chances as regards what he will ultimately be held to account for. The High Court in _Hue An Li_ explained this as such:[^19]
 
-… \[A\] countervailing species of legal luck can operate in favour of a putative offender. Take, for instance, two drivers who briefly fall asleep while driving straight at the same speed along the same stretch of road. One driver wakes up before any harm is caused. The other driver collides into and kills a jaywalking pedestrian. It could be said that as a matter of moral assessment, both drivers are equally culpable. However, as a matter of practical fact, the former will not suffer any legal repercussions because no detectable harm has occurred. Putative offenders take the benefit of legal luck operating in their favour if adverse consequences do not eventuate; **_it is only fair that an offender should not be heard to raise the control principle as a shield when a harmful outcome does eventuate_**. \[emphasis added\]
+> … \[A\] countervailing species of legal luck can operate in favour of a putative offender. Take, for instance, two drivers who briefly fall asleep while driving straight at the same speed along the same stretch of road. One driver wakes up before any harm is caused. The other driver collides into and kills a jaywalking pedestrian. It could be said that as a matter of moral assessment, both drivers are equally culpable. However, as a matter of practical fact, the former will not suffer any legal repercussions because no detectable harm has occurred. Putative offenders take the benefit of legal luck operating in their favour if adverse consequences do not eventuate; **_it is only fair that an offender should not be heard to raise the control principle as a shield when a harmful outcome does eventuate_**. \[emphasis added\]
 
 Thus, under the principle of outcome materiality, a court is entitled to take into account the full extent of the outcome flowing from the offender’s rashness. The offender **_cannot shield himself_** from this consequence by arguing that some aspects of that outcome were spawned by factors beyond his control.
 
 17     The Defence thus relies on the principle of outcome materiality to argue that the Accused’s culpability should be treated as low:[^20]
 
-… as the incident did not result in any injuries to any party, only resulted in minor property damage to \[the Accused\]’s and the Complainant’s car, and in reality posed a low degree of potential minor property damage to other road users at the time, \[the Accused\]’s culpability is very low in this outcome materiality respect.
+> … as the incident did not result in any injuries to any party, only resulted in minor property damage to \[the Accused\]’s and the Complainant’s car, and in reality posed a low degree of potential minor property damage to other road users at the time, \[the Accused\]’s culpability is very low in this outcome materiality respect.
 
 As a preliminary observation, the claim that the incident “_posed a low degree of potential minor property damage_” is not borne out by the facts −I will return to that at paragraph 22 below.
 
@@ -110,19 +110,19 @@ As a preliminary observation, the claim that the incident “_posed a low degree
 
 19     Prior to the decision in _Hue An Li_, the principle of outcome materiality was enunciated in _Edwin s/o Suse Nathen v Public Prosecutor_ <span class="citation">\[2013\] SGHC 194</span> (“_Edwin s/o Suse Nathan_”). In _Edwin s/o Suse Nathan_, the offender was charged with drink driving under s 67(1)(b) of the Road Traffic Act.[^21] The Prosecution sought to argue that in determining the appropriate sentence, the key consideration was the level of alcohol in the offender’s blood or breath, regardless of whether injury or damage actually occurred. Sundaresh Menon CJ disagreed, opining that the court should also take account of the actual harm eventuating from the offence. In doing so, Menon CJ underscored the importance of the outcome materiality principle:[^22]
 
-The simple point is that the offence has been aggravated by reason of the harm being actual rather than merely potential, and I see no reason why the appropriate sentence should not reflect this. I acknowledge that there may be arguments over the vagaries of fortune – a drunk driver might fortuitously escape the consequence of harm – but from a punitive or deterrent viewpoint, serious consequences that flow from antisocial, risk-taking behaviour which are the very consequences that were meant to be avoided by the enactment of the offence ought to be visited with sentences of appropriate severity.
+> The simple point is that the offence has been aggravated by reason of the harm being actual rather than merely potential, and I see no reason why the appropriate sentence should not reflect this. I acknowledge that there may be arguments over the vagaries of fortune – a drunk driver might fortuitously escape the consequence of harm – but from a punitive or deterrent viewpoint, serious consequences that flow from antisocial, risk-taking behaviour which are the very consequences that were meant to be avoided by the enactment of the offence ought to be visited with sentences of appropriate severity.
 
 However, the learned Chief Justice took care to qualify that while the _presence_ of injury or damage could be an _aggravating_ factor (no doubt, pursuant to the outcome materiality principle), this did **not** mean that the _absence_ of such injuries must be treated as _mitigating_:[^23]
 
-The fact that an offender had not displayed poor control of his vehicle or had not caused an accident resulting in property damage or injury is plainly relevant in deciding whether the seriousness of the offence had been aggravated; but **_the obverse proposition, that the absence of such an aggravating factor may be called in aid as a mitigating factor, is misconceived and simply does not follow_**. The presence or absence of a particular factor may be seen in one of three ways – aggravating, neutral or mitigating. **_There is no basis at all for assuming that the absence of an aggravating factor is to be regarded as mitigating_** (and vice versa): see Andrew Ashworth, Sentencing and Criminal Justice (Cambridge University Press, 5th Ed, 2010) at p 158. **_On the contrary, the mere absence of an aggravating factor is just that and it is in that sense a neutral factor when it comes to sentencing_**. \[emphasis added\]
+> The fact that an offender had not displayed poor control of his vehicle or had not caused an accident resulting in property damage or injury is plainly relevant in deciding whether the seriousness of the offence had been aggravated; but **_the obverse proposition, that the absence of such an aggravating factor may be called in aid as a mitigating factor, is misconceived and simply does not follow_**. The presence or absence of a particular factor may be seen in one of three ways – aggravating, neutral or mitigating. **_There is no basis at all for assuming that the absence of an aggravating factor is to be regarded as mitigating_** (and vice versa): see Andrew Ashworth, Sentencing and Criminal Justice (Cambridge University Press, 5th Ed, 2010) at p 158. **_On the contrary, the mere absence of an aggravating factor is just that and it is in that sense a neutral factor when it comes to sentencing_**. \[emphasis added\]
 
 20     Significantly, Menon CJ went on to explain that the offence could be aggravated not only by _actual_ danger but by _potential_ danger as well:[^24]
 
-In my judgment, there are a number of recognisable factors that may aggravate or mitigate the gravity of an offence under s 67(1)(b). First, such an offence may be aggravated by reason of the **_actual or potential danger_** posed by the offender’s conduct in committing the offence. This may be manifested by the **_manner of driving_** … \[italics in original text\]
+> In my judgment, there are a number of recognisable factors that may aggravate or mitigate the gravity of an offence under s 67(1)(b). First, such an offence may be aggravated by reason of the **_actual or potential danger_** posed by the offender’s conduct in committing the offence. This may be manifested by the **_manner of driving_** … \[italics in original text\]
 
 21     Reverting to the present case, I am similarly of the view that while no _actual_ harm (in terms of physical injury) arose from the Accused’s conduct, the _potential_ harm which arose therefrom is a salient consideration. Within the harm-culpability matrix, while injury would be chalked towards the harm component, _potential_ harm is a key element of culpability. This view also comports with _Lim Choon Teck_, which involved an offender who was cycling on the pavement at an unsafe speed and whose bicycle collided with the victim as a result. As set out at paragraph 14 above, the very first sentencing factor listed by Chan J as being relevant to offences under s 336(a) of the Penal Code was not ‘injury suffered by the victim’, but rather ‘degree of rashness’. In determining the degree of rashness, Chan J felt that factors such as the cyclist’s speed of travel as well as pedestrian density of the pavement on which he was cycling were relevant.[^25] Clearly, these are all factors which traverse the realm of _potential_ harm. Significantly, Chan J held:[^26]
 
-The higher the degree of rashness, the longer will be the length of the custodial sentence.
+> The higher the degree of rashness, the longer will be the length of the custodial sentence.
 
 It would therefore be incorrect to rely on _Lim Choon Teck_ to argue that the outcome materiality principle dictates a non-custodial sentence, just because injuries did not materialise in this case.
 
@@ -136,11 +136,11 @@ It would therefore be incorrect to rely on _Lim Choon Teck_ to argue that the ou
 
 25     The primary sentencing consideration when dealing with a case of road rage is that of deterrence. The rationale for this was set out by Yong Pung How CJ in _PP v Lee Seck Hing_ <span class="citation">\[1992\] SGHC 185</span>:[^29]
 
-The court must also be mindful of the need to deter anyone else who would resort with impunity to violence on the roads, especially in view of the deplorable increase in such incidents. Our roads are progressively becoming more crowded each month, as more and more cars add to the traffic, and motorists must simply learn to live with one another. There can be no place on our roads for road bullies. Such persons must be made aware of the severe detestation the law expresses in regard to such crimes
+> The court must also be mindful of the need to deter anyone else who would resort with impunity to violence on the roads, especially in view of the deplorable increase in such incidents. Our roads are progressively becoming more crowded each month, as more and more cars add to the traffic, and motorists must simply learn to live with one another. There can be no place on our roads for road bullies. Such persons must be made aware of the severe detestation the law expresses in regard to such crimes
 
 26     Given the stiffened sentencing posture that is triggered by a case being caught by the ‘road rage’ definition, it is important that this term be applied with care and not bandied around indiscriminately. To this end, in _PP v Lim Yee Hua_ <span class="citation">\[2017\] SGHC 308</span> (“_Lim Yee Hua_”), Chan J provided guidance on when an offence would be classified as a ‘road rage’ case, thereby bringing into play the sentencing principle of deterrence:[^30]
 
-In my view, an incident of violence should be labelled as an episode of road rage violence only where the facts disclose violence perpetrated by road users as a result of real or perceived slights by other road users stemming from differences that arise in the course of the shared use of our roads. The litmus test for whether the deterrent sentencing policy associated with road rage offences should apply for a particular offence of violence is thus whether the violence originates from differences arising through common road use. In other words, the harsh deterrent sanctions for road rage incidents only apply when road users engage in violence specifically over disputes that arise from the shared use of our roads.
+> In my view, an incident of violence should be labelled as an episode of road rage violence only where the facts disclose violence perpetrated by road users as a result of real or perceived slights by other road users stemming from differences that arise in the course of the shared use of our roads. The litmus test for whether the deterrent sentencing policy associated with road rage offences should apply for a particular offence of violence is thus whether the violence originates from differences arising through common road use. In other words, the harsh deterrent sanctions for road rage incidents only apply when road users engage in violence specifically over disputes that arise from the shared use of our roads.
 
 27     In _Lim Yee Hua_, the offender failed to give way to the victim when the latter was using a zebra crossing. Annoyed, the victim hit the top of the offender’s car. This angered the offender, who alighted from his car and punched the victim. When the victim tried to take down the offender’s car plate number, the offender attacked him a second time. Both these attacks formed the subject of two counts of voluntarily causing hurt to the victim, under s 323 of the Penal Code. The lower court imposed a fine for each of the two charges, but the fine for one of the charges was enhanced to a 3-week imprisonment when the matter went on appeal before Chan J. Even then, Chan J was of the view that _neither_ of the two charges were caught by the road rage definition.
 
@@ -148,29 +148,29 @@ In my view, an incident of violence should be labelled as an episode of road rag
 
 29     Nevertheless, the Defence argues that classification of a case as one of road rage does not rule out the imposition of a fine. The Defence cites the following passages from Chan J’s judgment in _Lim Yee Hua_:
 
-45    … I respectfully take the view that it should not invariably be the case that a custodial term must be imposed for all offences involving road rage violence. ...
+> 45    … I respectfully take the view that it should not invariably be the case that a custodial term must be imposed for all offences involving road rage violence. ...
 
-…
+> …
 
-47    Accordingly, while I agree that incidents involving road rage violence do indeed call for general deterrence, I take the view that considerations of proportionality militate against the imposition of a custodial term in all cases of road rage violence, regardless of the facts and circumstances of the case; **_depending on the particular facts and circumstances of a road rage offence, a high fine could well be sufficient to function as a deterrent sentence_**. \[emphasis added\]
+> 47    Accordingly, while I agree that incidents involving road rage violence do indeed call for general deterrence, I take the view that considerations of proportionality militate against the imposition of a custodial term in all cases of road rage violence, regardless of the facts and circumstances of the case; **_depending on the particular facts and circumstances of a road rage offence, a high fine could well be sufficient to function as a deterrent sentence_**. \[emphasis added\]
 
 30     I would respectfully agree that the classification of a case as one of road rage should not trigger a knee-jerk reaction that mechanically kicks the custodial option up to the default position. Much will depend on the exact nature of the aggression displayed. In _Lim Yee Hua_, Chan J observed:[^31]
 
-I should add that whether or not a particular incident of road rage violence crosses the custodial threshold is ultimately a fact-specific enquiry.
+> I should add that whether or not a particular incident of road rage violence crosses the custodial threshold is ultimately a fact-specific enquiry.
 
 Focusing on the offence of voluntarily causing hurt under s 323 of the Penal Code, Chan J observed that this could be perpetrated via a myriad of means in a road rage case: [^32]
 
-An offence of voluntarily causing hurt under s 323 of the Penal Code which arises out of road rage can involve a wide variety of possible fact situations. The fact that road rage is involved will mean that the policy considerations of a deterrent sentence will obviously kick in. Nevertheless, all the relevant circumstances of the case must still be considered in order to mete out a fair and appropriate sentence.
+> An offence of voluntarily causing hurt under s 323 of the Penal Code which arises out of road rage can involve a wide variety of possible fact situations. The fact that road rage is involved will mean that the policy considerations of a deterrent sentence will obviously kick in. Nevertheless, all the relevant circumstances of the case must still be considered in order to mete out a fair and appropriate sentence.
 
 31     The nature of the Accused’s conduct must thus be examined carefully. In doing so, I found the Accused’s actions to be particularly aggravating. He had accelerated over the road shoulder (which was itself illegal[^33]) before cutting into the Complainant’s path. The Accused then jammed on his brakes abruptly −not once or twice, but three times. This was in the midst of closely packed traffic, no less. In fact, after the Accused applied his brakes twice, the Complainant tried to move away from the Accused’s lane by filtering to the right. This provided the Accused with every opportunity to move on, particularly since his displeasure had already been quite unequivocally conveyed to the Complainant. Instead, the Accused saw fit to perpetuate the confrontation by cutting in front of the Complainant yet again and jamming on his brakes for a third time. The mayhem was put to an end only when the collision occurred. Even then, after stepping out from behind the wheel, the Accused went on to use criminal force against the Complainant.[^34]
 
 32     The Defence cited various authorities where fines were imposed for offences of rash behaviour under s 336(a) of the Penal Code and (where the rash act caused hurt to the victim) under s 337(a) of the Penal Code. I have focused only on the following three cases, as they arose from traffic incidents and are therefore more germane to the present facts:
 
-(a)      _PP v Tan Teck Chian Samuel Melvin_ <span class="citation">\[2016\] SGMC 5</span> (“_Samuel Tan_”);
+> (a)      _PP v Tan Teck Chian Samuel Melvin_ <span class="citation">\[2016\] SGMC 5</span> (“_Samuel Tan_”);
 
-(b)      _PP v Chang Shiuan Fei, Mathews_ <span class="citation">\[2018\] SGMC 60</span> (“_Mathews Chang_”); and
+> (b)      _PP v Chang Shiuan Fei, Mathews_ <span class="citation">\[2018\] SGMC 60</span> (“_Mathews Chang_”); and
 
-(c)      _PP v Tan Guan Ming_ (SC-900718-2018, unreported) (“_Tan Guan Ming_”).
+> (c)      _PP v Tan Guan Ming_ (SC-900718-2018, unreported) (“_Tan Guan Ming_”).
 
 The table below summarizes the salient aspects of each case:
 
@@ -181,11 +181,11 @@ The table below summarizes the salient aspects of each case:
 
 33     I do not think that these three cases assist the Defence. Acts of road rage can be perpetrated by a multitude of means, each potentially giving rising to different offences. For example:
 
-(a)     An offender may alight from his vehicle and strike the victim, thereby committing an offence of voluntarily causing hurt under s 323 of the Penal Code (as was the case in _Lim Yee Hua_[^35]).
+> (a)     An offender may alight from his vehicle and strike the victim, thereby committing an offence of voluntarily causing hurt under s 323 of the Penal Code (as was the case in _Lim Yee Hua_[^35]).
 
-(b)     Any ensuing scuffle between offender and victim may also give rise to an offence of affray, under s 267B of the Penal Code (as was the case in _Mathews Chang_).
+> (b)     Any ensuing scuffle between offender and victim may also give rise to an offence of affray, under s 267B of the Penal Code (as was the case in _Mathews Chang_).
 
-(c)     The offender may deliver a blow to the victim’s car, whereby any resulting damage to the car gives rise to the offence of mischief (under s 426 or s 427 of the Penal Code).[^36]
+> (c)     The offender may deliver a blow to the victim’s car, whereby any resulting damage to the car gives rise to the offence of mischief (under s 426 or s 427 of the Penal Code).[^36]
 
 The three precedents cited by the Defence fall into yet another category, wherein the offender throws an object at the victim’s moving car, giving rise to offences under s 336(a) or 337(a) of the Penal Code. The objects in the precedents cited by the Defence were a water tumbler (in _Samuel Tan_), a bunch of keys (in _Mathews Chang_) and a 500 ml coke bottle (in _Tan Guan Ming_).
 
@@ -195,11 +195,11 @@ The three precedents cited by the Defence fall into yet another category, wherei
 
 36     Still, there is some utility in surveying the landscape of past decisions, including the unreasoned ones, if only as a reality check and to see if the sentence sought to be imposed is out of step with contemporaneous cases having comparable factual matrices. To that end, I found three precedents cited by the Prosecution useful:
 
-(a)      _PP v Abdul Ghani Bin Mohamad Hashim_ (SC-900629-2017, unreported) (“_Abdul Ghani_”);
+> (a)      _PP v Abdul Ghani Bin Mohamad Hashim_ (SC-900629-2017, unreported) (“_Abdul Ghani_”);
 
-(b)      _PP v Mohammad Azfar Bin Hashim_ (SC-904579-2017, unreported) (“_Mohammad Azfar_”); and
+> (b)      _PP v Mohammad Azfar Bin Hashim_ (SC-904579-2017, unreported) (“_Mohammad Azfar_”); and
 
-(c)      _PP v N Prama Kumar_ (SC-901575-2018, unreported) (_Prama Kumar_).
+> (c)      _PP v N Prama Kumar_ (SC-901575-2018, unreported) (_Prama Kumar_).
 
 In these cases, short custodial sentences were imposed for offences under s 336(b) of the Penal Code. The salient facts of the cases are summarized below:
 
@@ -210,17 +210,17 @@ In these cases, short custodial sentences were imposed for offences under s 336(
 
 37     The facts in these precedents are closer to that in the present case. The channel of aggression in these precedents were, as with the present case, a moving vehicle. Specifically:
 
-(a)     In _Abdul Ghani_, the offender had swerved into the path of the victim’s taxi, thereby causing a collision – he was sentenced to 2 weeks’ imprisonment (plus 7 months’ disqualification).
+> (a)     In _Abdul Ghani_, the offender had swerved into the path of the victim’s taxi, thereby causing a collision – he was sentenced to 2 weeks’ imprisonment (plus 7 months’ disqualification).
 
-(b)     In _Mohammad Azfar_, the offender had driven in front of the victim in a stop-start fashion before opening the door, sticking his head out, turning around and shouting at the victim – he was sentenced to 1 week’s imprisonment.
+> (b)     In _Mohammad Azfar_, the offender had driven in front of the victim in a stop-start fashion before opening the door, sticking his head out, turning around and shouting at the victim – he was sentenced to 1 week’s imprisonment.
 
-(c)     In _Prama Kumar_, the offender had abruptly applied his brakes, thereby causing a collision −he was sentenced to 1 week’s imprisonment (plus 6 months’ disqualification). I note that there are factors in _Prama Kumar_ which may have justified a differential in sentence for that case:
+> (c)     In _Prama Kumar_, the offender had abruptly applied his brakes, thereby causing a collision −he was sentenced to 1 week’s imprisonment (plus 6 months’ disqualification). I note that there are factors in _Prama Kumar_ which may have justified a differential in sentence for that case:
 
-(i)     The offender had claimed trial (while the Accused pleaded guilty); and
+> (i)     The offender had claimed trial (while the Accused pleaded guilty); and
 
-(ii)     The victim’s front passenger hit his head against the dashboard (while there were no signs of physical injury suffered by the Complainant in the present case).
+> (ii)     The victim’s front passenger hit his head against the dashboard (while there were no signs of physical injury suffered by the Complainant in the present case).
 
-Still, these have to be counter-balanced against the fact that the Accused here has admitted to a further charge of using criminal force against the Complainant. This is something which has to be taken into consideration for the purpose of sentencing (and which was absent in _Prama Kumar_).
+> Still, these have to be counter-balanced against the fact that the Accused here has admitted to a further charge of using criminal force against the Complainant. This is something which has to be taken into consideration for the purpose of sentencing (and which was absent in _Prama Kumar_).
 
 38     Having considered the above precedents, I felt that a short custodial term was similarly appropriate for the current factual matrix, at least as a starting point.
 
@@ -230,39 +230,39 @@ Still, these have to be counter-balanced against the fact that the Accused here 
 
 40     I focus first on the offence-specific factors. The Defence argues that the Complainant had driven in an inconsiderate and aggressive fashion,[^39] in that he insisted on squeezing into the merging lane despite the Accused having the right of way.[^40] As such:
 
-(a)     Provocation was present in this case;[^41] and
+> (a)     Provocation was present in this case;[^41] and
 
-(b)     There was no premeditation by the Accused.[^42]
+> (b)     There was no premeditation by the Accused.[^42]
 
 41     In relation to provocation, this was something on which I placed little weight. Even if the Complainant had been selfish and demonstrated a complete lack of civic-consciousness, this did not suffice to mitigate the Accused’s ensuing behaviour. As observed by Chan J in _Lim Yee Hua_:[^43]
 
-Put another way, ungentlemanly conduct arising in the course of the use of the roads, bad driving, breach of road traffic rules on the part of the victim and even serious traffic accidents caused by the victim would be insufficient to amount to provocation that justifies any act of causing hurt to the victim (or, indeed, any act of mischief causing damage to the victim’s property); on the contrary, a violent reaction to such instances of road use would attract the deterrent sentencing policy underlying road rage violence.
+> Put another way, ungentlemanly conduct arising in the course of the use of the roads, bad driving, breach of road traffic rules on the part of the victim and even serious traffic accidents caused by the victim would be insufficient to amount to provocation that justifies any act of causing hurt to the victim (or, indeed, any act of mischief causing damage to the victim’s property); on the contrary, a violent reaction to such instances of road use would attract the deterrent sentencing policy underlying road rage violence.
 
 I would also add that the purported provocation carries even less currency when one views the sequence of events leading to the collision. As explained above, after the Accused jammed on his brakes twice, the Complainant tried to filter out of the Accused’s lane. By then, the Accused’s displeasure would already have been clearly conveyed to the Complainant. There should have been some attenuation in the provocation and the Accused could have moved on. Yet, the Accused persisted in his quest to get back at the Complainant, by cutting into the latter’s lane yet again and jamming on the brakes for a third time.
 
 42     As regards the argument that there was no premeditation by the Accused, I can do no better than echo the words of Chan J in _Lim Choon Teck_:[^44]
 
-In cases of criminal negligence and rashness, the _actual offence_ occurs at the spur of moment and there is no finding of intention; thus, considerations relating to premeditation or planning are not legally relevant to these offences.
+> In cases of criminal negligence and rashness, the _actual offence_ occurs at the spur of moment and there is no finding of intention; thus, considerations relating to premeditation or planning are not legally relevant to these offences.
 
 As such, I placed little weight on the claim that there was no premeditation.
 
 43     The Defence further stresses that the Accused pleaded guilty at the earliest opportunity.[^45] It is of course trite that an early plea of guilt may demonstrate remorse. In _Lim Choon Teck_, Chan J remarked:[^46]
 
-A timeously-effected plea of guilt may merit a sentencing discount of between a quarter to a third of what would otherwise be an appropriate sentence although this is by no means an entitlement nor a hard and fast rule.
+> A timeously-effected plea of guilt may merit a sentencing discount of between a quarter to a third of what would otherwise be an appropriate sentence although this is by no means an entitlement nor a hard and fast rule.
 
 However, a plea of guilt will hold little sway if the evidence against the offender is overwhelming: see _Wong Kai Chuen Philip v PP_ <span class="citation">\[1990\] SGHC 79</span> (at \[14\]). Reverting to the present case, the Complainant’s vehicle camera had captured everything −from the juncture when the Accused entered the merging lane, to the points when he repeatedly applied the brakes, down to the moment of impact. The camera went on to capture the Accused’s behaviour after he emerged from the car, when he repeatedly struck the Complainant’s bonnet as the latter tried to drive away. If the Accused had claimed trial to the proceeded charges, there would not have been very much to fight about.
 
 44     Another mitigating factor raised by the Defence was the Accused’s long and distinguished career as a tenured Associate Professor at the Nanyang Technological University. Notably:[^47]
 
-(a)     He was awarded a PhD from John Hopkins University in 1988.
+> (a)     He was awarded a PhD from John Hopkins University in 1988.
 
-(b)     He received several awards and accolades, including:
+> (b)     He received several awards and accolades, including:
 
-(i)       the Long Service Medal on National Day 2015;
+>> (i)       the Long Service Medal on National Day 2015;
 
-(ii)       commendations for his contributions to the advancement of the Institute of Electrical and Electronics Engineers and the Engineering professions in 2008-2009; and
+>> (ii)       commendations for his contributions to the advancement of the Institute of Electrical and Electronics Engineers and the Engineering professions in 2008-2009; and
 
-(iii)       an award for long-standing service at NTU of 20 and 25 years, in 2011 and 2016 respectively.
+>> (iii)       an award for long-standing service at NTU of 20 and 25 years, in 2011 and 2016 respectively.
 
 When an offender raises his past contributions to society as a mitigating factor, he must draw the link between those contributions and his capacity for reform: see _Stansilas Fabian Kester v PP_ <span class="citation">\[2017\] SGHC 185</span> (“_Stansilas_”).[^48] The Defence omitted to do this. In any case, even if these contributions had some bearing on the Accused’s rehabilitative potential, their weight would only be modest and could be displaced by other sentencing considerations: see _Stansilas_.48
 
@@ -282,9 +282,9 @@ When an offender raises his past contributions to society as a mitigating factor
 
 51      _Fizul Asrul_ was not cited to me during the hearing. Nevertheless, it is highly instructive on the issue of disqualification in road rage cases. In _Fizul Asrul_, the victim had sounded his horn at the offender’s vehicle, which was blocking the victim’s way. This led to an altercation where the offender punched the victim. The offender was consequently charged for voluntarily causing hurt under s 323 of the Penal Code. He had a prior conviction under the same provision just 4 years before, also arising out of a traffic dispute. The offender was sentenced to 16 weeks’ imprisonment. On appeal by the Prosecution, Tay JA imposed (over and above the imprisonment term) an order disqualifying the offender from holding or obtaining a driving licence for all classes of vehicles, for a period of 12 months, pursuant to s 42(2) of the Road Traffic Act. In doing so, Tay JA remarked:
 
-13    The next question concerned whether the Court should exercise its discretion under s 42(2)(d) of the RTA to impose a disqualification order on the respondent. In exercising this discretion, the Court should bear in mind the need for deterrence of unruly or violent behaviour as well as the need to protect other road users. …
+> 13    The next question concerned whether the Court should exercise its discretion under s 42(2)(d) of the RTA to impose a disqualification order on the respondent. In exercising this discretion, the Court should bear in mind the need for deterrence of unruly or violent behaviour as well as the need to protect other road users. …
 
-14     **_Parliament has made it clear that s 42 of the RTA is meant to protect innocent road users from the potential danger posed by motorists who show violent behaviour when reacting to situations connected to driving_** … . Further, general and specific deterrence are the primary sentencing considerations for offences involving violence on our roads … . **_Thus, the imposition of a disqualification order serves the objectives of protection of the public and deterrence. The offender would not have the opportunity to be a menace on the roads and, for the duration of the disqualification order, which could conceivably be longer than any imprisonment term imposed, the offender would be reminded that he was not permitted to drive because of his bad behaviour on the roads_**. \[emphasis added\]
+> 14     **_Parliament has made it clear that s 42 of the RTA is meant to protect innocent road users from the potential danger posed by motorists who show violent behaviour when reacting to situations connected to driving_** … . Further, general and specific deterrence are the primary sentencing considerations for offences involving violence on our roads … . **_Thus, the imposition of a disqualification order serves the objectives of protection of the public and deterrence. The offender would not have the opportunity to be a menace on the roads and, for the duration of the disqualification order, which could conceivably be longer than any imprisonment term imposed, the offender would be reminded that he was not permitted to drive because of his bad behaviour on the roads_**. \[emphasis added\]
 
 The above considerations apply with equal force here. Given the danger that the Accused’s driving had posed, the disqualification period will give him some time to reflect on his conduct, before he gets behind the wheel again.
 
@@ -292,11 +292,11 @@ The above considerations apply with equal force here. Given the danger that the 
 
 52     As regards the Accused’s act of damaging the bonnet of the Complainant’s car, this gave rise to an offence of mischief under s 427 of the Penal Code, which states:
 
-Whoever commits mischief and thereby causes loss or damage to the amount of $500 or upwards, shall be punished with imprisonment for a term which may extend to 2 years, or with fine, or with both.
+> Whoever commits mischief and thereby causes loss or damage to the amount of $500 or upwards, shall be punished with imprisonment for a term which may extend to 2 years, or with fine, or with both.
 
 Mischief is in turn defined by s 425 of the Penal Code as follows:
 
-Whoever, with intent to cause, or knowing that he is likely to cause, wrongful loss or damage to the public or any person, causes the destruction of any property, or any such change in any property, or in the situation thereof, as destroys or diminishes its value or utility, or affects it injuriously, commits “mischief”.
+> Whoever, with intent to cause, or knowing that he is likely to cause, wrongful loss or damage to the public or any person, causes the destruction of any property, or any such change in any property, or in the situation thereof, as destroys or diminishes its value or utility, or affects it injuriously, commits “mischief”.
 
 53     I note that the harm from the damaged bonnet was relatively low. The Accused’s culpability was also not particularly high for this offence. The Prosecution did not take the position that the damage to the bonnet was an act of road rage but, even if it was, I did not think that this tipped the scales of culpability toward the custodial realm: there was no inherent danger created by the Accused’s actions. The damage was reversible, at a cost of which the Accused had offered to pay for.
 
@@ -306,11 +306,11 @@ Whoever, with intent to cause, or knowing that he is likely to cause, wrongful l
 
 55     The Accused was thus sentenced to a global sentence of:
 
-(a)     1 week’s imprisonment;
+> (a)     1 week’s imprisonment;
 
-(b)     Disqualification from holding or obtaining all classes of driving licences, for 6 months; [^52] and
+> (b)     Disqualification from holding or obtaining all classes of driving licences, for 6 months; [^52] and
 
-(c)     A fine of $2,000.51
+> (c)     A fine of $2,000.51
 
 56     I also granted the Defence’s application for bail pending the Accused’s appeal against sentence.
 

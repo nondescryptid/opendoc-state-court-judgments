@@ -23,33 +23,33 @@ The accused, a 20-year old male, pleaded guilty to two charges on the first day 
 
 4       The accused admitted to the Statement of Facts pertaining to the above charges, without qualification. The salient points are as follows:
 
-DAC 929478/2018 (Assisting an unlicensed moneylender)
+> DAC 929478/2018 (Assisting an unlicensed moneylender)
 
-(a)     The accused is the registered owner of the OCBC Bank Account No. XXX (the “bank account”).
+> (a)     The accused is the registered owner of the OCBC Bank Account No. XXX (the “bank account”).
 
-(b)     Sometime in September 2017, the accused went online in search for moneylenders as he was in need of money. The accused came across an online advertisement promoting moneylending services, and sent a WhatsApp message to an unlicensed moneylender known as “Simon” to request for a S$500 loan. However, “Simon” denied the accused’s request due to the accused’s lack of income.
+> (b)     Sometime in September 2017, the accused went online in search for moneylenders as he was in need of money. The accused came across an online advertisement promoting moneylending services, and sent a WhatsApp message to an unlicensed moneylender known as “Simon” to request for a S$500 loan. However, “Simon” denied the accused’s request due to the accused’s lack of income.
 
-(c)     A few days later, “Simon” contacted the accused and offered him S$400 in return for the use of the accused’s ATM card. The accused knew that “Simon” was an unlicensed moneylender and that his ATM card would be used by “Simon” for the latter’s illegal moneylending business. Nonetheless, the accused agreed to this.
+> (c)     A few days later, “Simon” contacted the accused and offered him S$400 in return for the use of the accused’s ATM card. The accused knew that “Simon” was an unlicensed moneylender and that his ATM card would be used by “Simon” for the latter’s illegal moneylending business. Nonetheless, the accused agreed to this.
 
-(d)     On 4 September 2017, the accused proceeded to the OCBC bank and opened the above bank account. On the same day, pursuant to “Simon’s” instructions, the accused left the OCBC ATM card linked to his bank account at a particular location. The said ATM card was then picked up by an unidentified runner of “Simon’s”. Subsequently, the corresponding passcode to the ATM card was also communicated to “Simon”.
+> (d)     On 4 September 2017, the accused proceeded to the OCBC bank and opened the above bank account. On the same day, pursuant to “Simon’s” instructions, the accused left the OCBC ATM card linked to his bank account at a particular location. The said ATM card was then picked up by an unidentified runner of “Simon’s”. Subsequently, the corresponding passcode to the ATM card was also communicated to “Simon”.
 
-(e)     The accused received S$400 in exchange for providing “Simon” with the ATM card, its corresponding passcode and its linked bank account. Thereafter, the accused did not utilise the bank account at all.
+> (e)     The accused received S$400 in exchange for providing “Simon” with the ATM card, its corresponding passcode and its linked bank account. Thereafter, the accused did not utilise the bank account at all.
 
-(f)     Subsequently, the bank account was flagged out for suspicious activity due to its high volume of transactions. The said bank account was used to further “Simon’s” unlicensed moneylending business from the period between September 2017 and 12 April 2018, when the account was closed. During the said period, the total amount deposited into the bank account was not less than $638,988.69 and the total amount withdrawn was no less than $639,951.60. Thereafter, the accused was arrested on 7 May 2018 on suspicion of assisting in the business of unlicensed moneylending.
+> (f)     Subsequently, the bank account was flagged out for suspicious activity due to its high volume of transactions. The said bank account was used to further “Simon’s” unlicensed moneylending business from the period between September 2017 and 12 April 2018, when the account was closed. During the said period, the total amount deposited into the bank account was not less than $638,988.69 and the total amount withdrawn was no less than $639,951.60. Thereafter, the accused was arrested on 7 May 2018 on suspicion of assisting in the business of unlicensed moneylending.
 
-MAC 902066/2019 (Voluntarily causing hurt)
+> MAC 902066/2019 (Voluntarily causing hurt)
 
-(g)     The victim is a 20-year old female. At the time of the offence, she was 19 years old and the accused’s ex-girlfriend.
+> (g)     The victim is a 20-year old female. At the time of the offence, she was 19 years old and the accused’s ex-girlfriend.
 
-(h)     The complainant was 19 years old and the victim’s boyfriend at the material time.
+> (h)     The complainant was 19 years old and the victim’s boyfriend at the material time.
 
-(i)     On 24 November 2018 at about 2.00am, the victim was at the complainant’s house. The accused had sent the victim Whatsapp messages to find out her whereabouts. The victim informed the accused that she was at the complainant’s house. The accused was unhappy about this and proceeded to the complainant’s house to confront the victim.
+> (i)     On 24 November 2018 at about 2.00am, the victim was at the complainant’s house. The accused had sent the victim Whatsapp messages to find out her whereabouts. The victim informed the accused that she was at the complainant’s house. The accused was unhappy about this and proceeded to the complainant’s house to confront the victim.
 
-(j)     When the accused was at the complainant’s house, an argument ensued between him and the complainant, following which the accused and the complainant were involved in a physical scuffle. The victim managed to separate the accused and the complainant. However, at this juncture, the accused used his right hand to slap the victim twice on her left cheek. This in turn caused the victim to sustain redness on her left cheek, which resulted in the complainant calling for the police.
+> (j)     When the accused was at the complainant’s house, an argument ensued between him and the complainant, following which the accused and the complainant were involved in a physical scuffle. The victim managed to separate the accused and the complainant. However, at this juncture, the accused used his right hand to slap the victim twice on her left cheek. This in turn caused the victim to sustain redness on her left cheek, which resulted in the complainant calling for the police.
 
-(k)     Upon the police’s arrival, the accused was found to be in an emotional states and smelt strongly of alcohol. The victim did not seek any medical treatment.
+> (k)     Upon the police’s arrival, the accused was found to be in an emotional states and smelt strongly of alcohol. The victim did not seek any medical treatment.
 
-(l)     The accused had committed the current offence while he was on bail and after he was first charged in court for the offence under the MLA (UML charge) on 4 September 2018.
+> (l)     The accused had committed the current offence while he was on bail and after he was first charged in court for the offence under the MLA (UML charge) on 4 September 2018.
 
 ## Antecedents
 
@@ -92,39 +92,39 @@ MAC 902066/2019 (Voluntarily causing hurt)
 
 16     As observed by the learned Justice of Appeal, Justice VK Rajah in the case of _PP v Mohamed Al Ansari bin Basri_ <span class="citation">\[2008\] 1 SLR 449</span> (“_Al Ansari_”) at \[58\]:
 
-.. it is clear that reformative training by itself, with the attendant element of incarceration, implicitly carries with it a significant deterrent effect, both on a specific and general level. As such, it is my view that the sentencing option of reformative training provides the courts with a middle ground that broadly encapsulates the twin principles of rehabilitation and deterrence in relation to young offenders..
+> .. it is clear that reformative training by itself, with the attendant element of incarceration, implicitly carries with it a significant deterrent effect, both on a specific and general level. As such, it is my view that the sentencing option of reformative training provides the courts with a middle ground that broadly encapsulates the twin principles of rehabilitation and deterrence in relation to young offenders..
 
 17     Furthermore, it is also pertinent to note in _Al Ansari_ at \[61\] as follows:
 
-If the offence is so heinous and the young offender so devoid of any realistic prospect of being reformed then deterrence must form the dominant consideration, and the statutorily prescribed punishment (probably imprisonment) for the offender would be the obvious choice.
+> If the offence is so heinous and the young offender so devoid of any realistic prospect of being reformed then deterrence must form the dominant consideration, and the statutorily prescribed punishment (probably imprisonment) for the offender would be the obvious choice.
 
 18     In determining the balance to be struck between the dominant consideration for rehabilitation and the need for deterrence, some relevant factors to be considered as stated in _Al Ansari_ at \[67\] included:
 
-(a)     the seriousness of the offence;
+> (a)     the seriousness of the offence;
 
-(b)     the culpability of the offender;
+> (b)     the culpability of the offender;
 
-(c)     the existence of antecedents;
+> (c)     the existence of antecedents;
 
-(d)     the nature of the rehabilitation best suited for the offender;
+> (d)     the nature of the rehabilitation best suited for the offender;
 
-(e)     the availability of familial support in the rehabilitative efforts; and
+> (e)     the availability of familial support in the rehabilitative efforts; and
 
-(f)     any other special reasons or need for rehabilitation.
+> (f)     any other special reasons or need for rehabilitation.
 
 19     Further, as noted by Sundaresh Menon CJ in the case of _PP v Koh Wen Jie Boaz_ <span class="citation">\[2016\] 1 SLR 334</span> (“_Boaz Koh_”) at \[30\], rehabilitation can be diminished or eclipsed by considerations such as deterrence or retribution in appropriate situations, where (the “_Boaz_ factors” as termed by Chan Seng Onn J in the case of _Muhammad Zuhairie Adely Bin Zulkifli v PP_ <span class="citation">\[2016\] SGHC 134</span> (“_Muhammad Zuhairie_”) at \[23\]) :
 
-(a)     the offence is serious;
+> (a)     the offence is serious;
 
-(b)     the harm caused is severe;
+> (b)     the harm caused is severe;
 
-(c)     the offender is hardened and recalcitrant; or
+> (c)     the offender is hardened and recalcitrant; or
 
-(d)     the conditions do not exist to make rehabilitative sentencing options such as probation or reformative training viable.
+> (d)     the conditions do not exist to make rehabilitative sentencing options such as probation or reformative training viable.
 
 20     As observed by Chan J in _Muhammad Zuhairie_ at \[30\], that in light of the relevant factors as stated in _Al Ansari_ (as above), as well as consideration of the _Boaz_ factors:
 
-..it would still be necessary for the court to consider all the relevant facts and circumstances which ultimately aid the court in achieving the right balance between deterrence and rehabilitation when sentencing a young offender. In the delicate balancing exercise, one of the key considerations would in my view be the _rehabilitative potential of the young offender._
+> ..it would still be necessary for the court to consider all the relevant facts and circumstances which ultimately aid the court in achieving the right balance between deterrence and rehabilitation when sentencing a young offender. In the delicate balancing exercise, one of the key considerations would in my view be the _rehabilitative potential of the young offender._
 
 21     With the above sentencing considerations in mind, I now turn to the factual matrix of the present case.
 

@@ -35,17 +35,17 @@ Employee’s duties – duty of fidelity – breach
 
 8       In summary, the Plaintiff’s claims against the 1st Defendant are for:-
 
-a.     Breaches of her contractual duties and obligations as an employee[^6];
+> a.     Breaches of her contractual duties and obligations as an employee[^6];
 
-b.     Breaches of her implied duty of duty of fidelity, mutual trust and confidence[^7];
+> b.     Breaches of her implied duty of duty of fidelity, mutual trust and confidence[^7];
 
-c.     Breaches of her fiduciary duties including a duty not to place herself in a position of conflict of interest and not to profit from her position[^8];
+> c.     Breaches of her fiduciary duties including a duty not to place herself in a position of conflict of interest and not to profit from her position[^8];
 
-d.     Deceit and/or fraudulent misrepresentation[^9];
+> d.     Deceit and/or fraudulent misrepresentation[^9];
 
-e.     Wrongful and/or unlawful interference with the Plaintiff’s legitimate business interests and/or contractual relations – inducing breach of contract[^10]; and
+> e.     Wrongful and/or unlawful interference with the Plaintiff’s legitimate business interests and/or contractual relations – inducing breach of contract[^10]; and
 
-f.     Exposing the Plaintiff to liabilities[^11]
+> f.     Exposing the Plaintiff to liabilities[^11]
 
 9       For breaches under (a), (b), (c) and (e) above, the Plaintiff’s claim is for damages to be assessed. The Plaintiff also avers that the 1st and 3rd Defendants are liable to pay the Plaintiff the sum of $45,968 that the 1st Defendant has received from Hong Dat Engineering Pte Ltd (“Hong Dat”). For breach under (d) above, the Plaintiff’s claim is for the sum of $50,010 paid by the Plaintiff on the basis of the alleged deception practiced by the 1st Defendant and/or on account of the 1st Defendant’s alleged misrepresentation. For breach under (f), the Plaintiff avers that the 1st and 3rd Defendants are liable to pay the Plaintiff the sum of $320,000 or such sums that the 1st and 3rd Defendants have received from Sung Yee General Contractor Pte Ltd (“Sung Yee”).
 
@@ -91,33 +91,33 @@ f.     Exposing the Plaintiff to liabilities[^11]
 
 21     In relation to the various projects for which the Plaintiff claims there has been a breach of duties by the 1st Defendant, the following issues in relation to each project have been agreed to by parties as agreed issues:
 
-(a)     In relation to Hong Dat:
+> (a)     In relation to Hong Dat:
 
-\-       Whether the Plaintiff had agreed to loan the Plaintiff’s workers to Hong Dat for $130 per worker per day to assist Hong Dat in their works;
+>> \-       Whether the Plaintiff had agreed to loan the Plaintiff’s workers to Hong Dat for $130 per worker per day to assist Hong Dat in their works;
 
-\-       Whether the Plaintiff had agreed that the 1st Defendant was to keep the sum of $45,968.00 being payment from Hong Dat;
+>> \-       Whether the Plaintiff had agreed that the 1st Defendant was to keep the sum of $45,968.00 being payment from Hong Dat;
 
-\-       As regards the 1st and 3rd Defendants’ counterclaim, whether the sum of $45,968.00 that was received by the 1st Defendant was given to her as payment in meeting certain CONQUAS scores pursuant to an alleged oral “CONQUAS Scoring Agreement” between the parties.
+>> \-       As regards the 1st and 3rd Defendants’ counterclaim, whether the sum of $45,968.00 that was received by the 1st Defendant was given to her as payment in meeting certain CONQUAS scores pursuant to an alleged oral “CONQUAS Scoring Agreement” between the parties.
 
-(b)     In relation to Wee Hur and Sung Yee:
+> (b)     In relation to Wee Hur and Sung Yee:
 
-\-       Whether the 1st Defendant had disclosed her beneficial interest in the 3rd Defendant to the Plaintiff;
+>> \-       Whether the 1st Defendant had disclosed her beneficial interest in the 3rd Defendant to the Plaintiff;
 
-\-       Whether the 1st Defendant had disclosed her intention to carry out tiling works for Wee Hur and Sung Yee to the Plaintiff.
+>> \-       Whether the 1st Defendant had disclosed her intention to carry out tiling works for Wee Hur and Sung Yee to the Plaintiff.
 
-(c)     In relation to the waterproofing works:
+> (c)     In relation to the waterproofing works:
 
-\-       Whether the 1st Defendant misrepresented to the Plaintiff as regards the shortage of workers for water-proofing works resulting in the Plaintiff suffering losses in paying Pang and Liew therefor;
+>> \-       Whether the 1st Defendant misrepresented to the Plaintiff as regards the shortage of workers for water-proofing works resulting in the Plaintiff suffering losses in paying Pang and Liew therefor;
 
-\-       Whether the 1st Defendant had used the Plaintiff’s workers for works carried out not for the benefit of the Plaintiff but for the benefit of the 3rd Defendant;
+>> \-       Whether the 1st Defendant had used the Plaintiff’s workers for works carried out not for the benefit of the Plaintiff but for the benefit of the 3rd Defendant;
 
-\-       Whether the 1st Defendant had received any benefit from introducing Pang and Liew to the Plaintiff.
+>> \-       Whether the 1st Defendant had received any benefit from introducing Pang and Liew to the Plaintiff.
 
-(d)     In relation to the 1st and 3rd Defendants’ counterclaim:
+> (d)     In relation to the 1st and 3rd Defendants’ counterclaim:
 
-\-       Whether there was an oral agreement between the Plaintiff and the 1st Defendant regarding CONQUAS scoring and whether pursuant to such agreement, the 1st Defendant is entitled to keep the sum of $45,968.00 received from Hong Dat as part payment due to her for meeting certain CONQUAS scores and whether the Plaintiff is still owing the balance of $19,582 pursuant thereto;
+>> \-       Whether there was an oral agreement between the Plaintiff and the 1st Defendant regarding CONQUAS scoring and whether pursuant to such agreement, the 1st Defendant is entitled to keep the sum of $45,968.00 received from Hong Dat as part payment due to her for meeting certain CONQUAS scores and whether the Plaintiff is still owing the balance of $19,582 pursuant thereto;
 
-\-       Whether the Plaintiff is obliged to pay the foreign worker’s levies, salaries and air tickets and deposits of the workers who had resigned from the employment of the Plaintiff as pleaded in the Defendants’ counterclaim.
+>> \-       Whether the Plaintiff is obliged to pay the foreign worker’s levies, salaries and air tickets and deposits of the workers who had resigned from the employment of the Plaintiff as pleaded in the Defendants’ counterclaim.
 
 ## MY DECISION
 
@@ -129,13 +129,13 @@ f.     Exposing the Plaintiff to liabilities[^11]
 
 23     By her own testimony[^43], the 1st Defendant detailed her responsibilities as the Plaintiff’s site supervisor as follows:
 
-(a)     drive and ferry the Plaintiff’s workers from their dormitory to the Plaintiff’s respective projects assigned to her, to BCA for identity verifications, to clinics or hospitals when they were unwell;
+> (a)     drive and ferry the Plaintiff’s workers from their dormitory to the Plaintiff’s respective projects assigned to her, to BCA for identity verifications, to clinics or hospitals when they were unwell;
 
-(b)     attend project site meetings, monitor the progress of works at each project site; take photographs and report to the Plaintiff’s management on the progress of works;
+> (b)     attend project site meetings, monitor the progress of works at each project site; take photographs and report to the Plaintiff’s management on the progress of works;
 
-(c)     ensure that the instructions received from the main contractor at each project site assigned to her are properly conveyed to the Plaintiff’s foremen at each site;
+> (c)     ensure that the instructions received from the main contractor at each project site assigned to her are properly conveyed to the Plaintiff’s foremen at each site;
 
-(d)     purchase materials and tools for project sites.
+> (d)     purchase materials and tools for project sites.
 
 24     In her affidavit, she has also identified 13 projects which she handled during her tenure with the Plaintiff[^44].
 
@@ -151,7 +151,511 @@ f.     Exposing the Plaintiff to liabilities[^11]
 
 29     Counsel for the 1st and 3rd Defendants relied on the following response of the 1st Defendant in cross-examination to bolster their argument that there was indeed an agreement for the 1st Defendant to continue to engage in her own business even when she was the Plaintiff’s employee (I am reproducing all the relevant responses as cited by counsel in order to give a more comprehensive overview of the position taken by the 1st and 3rd Defendants):
 
-<table align="left" cellpadding="0" cellspacing="0" class="Judg-2" frame="none" pgwide="1"><colgroup><col width="20.68%"> <col width="79.32%"> </colgroup><tbody><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">“<em>Q</em></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>… You agree you were the employee of the company from late 2004 until you resigned in October 2013?</em></p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>A</em></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>I was the employee of the company. At the same time, I was the boss of Fong Teck.</em></p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>Q</em></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>But you were an employee? We will talk about---</em></p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>A</em></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>I was the employee and the boss. Agreed that I worked---I---because before I joined the company as the company’s worker, I was a subcontractor of the company. I’ve clearly informed him about this. He asked me to make my work arrangement and then work at his site. Because my work was subcontracted to other people---Malaysians. So he had agreed.</em></p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>Q</em></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>As an employee, you are not to work for a competitor of NK Ceramics [sic], agreed?</em></p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>A</em></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>I don’t feel that it is a competitor. Even though in the same line, but it’s not competitor. Because I incorporated Meztec. I transferred the lorry from Fong Teck to Meztec. I also let Chris, the Plaintiff use---the admin of Meztec---</em></p></td></tr><tr><td align="left" class="" colspan="2" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>…</em></p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>Q</em></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>Just agree or disagree, whether or not---that as an employee, you shouldn’t be working for another---or for a competitor.</em></p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>A</em></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b><em>Disagree. Because he agrees with me to work, so I work. If he disagreed, then I will not accept this job.</em></b> <span class="FootnoteRef"><a href="#Ftn_48" id="Ftn_48_1"><sup>[note: 48]</sup></a></span></p></td></tr><tr><td align="left" class="" colspan="2" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>…</em></p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>Q</em></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>There is no quotation that we can see, where Fong Teck gave a quote to NK for works while you were an employee?</em></p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>A</em></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>Fong Teck has done the subcontract work and completed that half a block of HDB block, then I work as an employee of the Plaintiff.</em></p></td></tr><tr><td align="left" class="" colspan="2" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>…</em></p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>Q</em></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>What you are saying is, after you completed your last co---subcontract as Fong Teck, you then worked as an employee of NK?</em></p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>A</em></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>I become the employee after a few months.</em></p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>Q</em></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b><em>And from the time you became an employee onwards, there was no more payment to Fong Teck?</em></b></p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>A</em></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b><em>So he did not subcontract the work to Fong Teck, but Fong Teck has other subcontract work from outs---external source.</em></b></p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>Liow:</em></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>So she is saying that she still continued as a subcontractor?</em></p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>A</em></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b><em>Correct</em></b> <em>.</em></p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>Q</em></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>And you didn’t inform Chris?</em></p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>A</em></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>Chris is aware. He went to the site to look for me. I was working there. He---he told me that I need not go to the site too early. I only---I was only required to go to the site for meeting and at---at anything---others things at 9.00 am. I was doing the---for the---for the dormitory. I was doing tiling and plastering.</em></p></td></tr><tr><td align="left" class="" colspan="2" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>…</em></p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>A</em></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>Initially I told him that I cannot work for him, because I have not completed my own job.</em></p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>Q</em></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>I’m going to stop you here. Answer the question. If Chris did not know---I know you say he knows, but Chris didn’t know. Would you agree with me---would you agree with me it’s wrong for you to have a sideline business?</em></p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>A</em></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b><em>I disagree. If he cannot---if he cannot accept that I have my own other business he could not have employed me, because I have not completed my own business. I’ve done it halfway.</em></b></p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>Q</em></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>So in 20---2011 you were still running Fong Teck?</em></p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>A</em></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>Yes. Fong Teck has some small businesses, with regards to renovation, tilings and those electrical installations.</em></p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>Q</em></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>And you were still making money under Fong Teck?</em></p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>A</em></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b><em>Correct</em></b> <em>.<span class="FootnoteRef"><a href="#Ftn_49" id="Ftn_49_1"><sup>[note: 49]</sup></a></span></em></p></td></tr><tr><td align="left" class="" colspan="2" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>…</em></p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>Q</em></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>Now, specifically, I draw your attention to item 2---20.4, where it reads, “Meztec Construction Pte Ltd, quotation dated 30th October 2012.” Right? Do you agree that what this means is that as of 30th October 2012, while you were still an employee of NK, you, through your company gave a quotation to Wee Hur?</em></p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>A</em></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b><em>Since yesterday I had been saying, when I was working with NK, I will still carry on with my work---my job</em></b> <em>. If I cannot work for---on Meztec or Fong Teck’s work, I cannot apply for workers---either Meztec or Fong Teck…</em></p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>Q</em></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>I’m sorry, is the answer to my question, yes?</em></p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>A</em></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b><em>Since yesterday, I’ve already been telling you that I have been working on my own work.</em></b></p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>Q</em></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b><em>So your answer is and if I may help you, yes, I did give this quotation when I was the employee of NK, but I had an understanding with NK that I could continue as an independent contractor. That’s what you are saying, right?</em></b></p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>A</em></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b><em>Yes</em></b>.<span class="FootnoteRef"><a href="#Ftn_50" id="Ftn_50_1"><sup>[note: 50]</sup></a></span></p></td></tr><tr><td align="left" class="" colspan="2" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>…</em></p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>Q</em></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>Do you agree what Chris was doing here was he’s---was trying to explain to Anna the fact that you’ve gone behind NK’s back, to take work at Wee Hur.</em></p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>Interpreter:</em></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>To take work at Wee Hur, sorry? You said to take---</em></p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>Q</em></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>That---</em></p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>Interpreter:</em></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>work?</em></p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>Liow:</em></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>at---what he was trying to express to Anna here was that Madam Chong had gone behind NK’s back, to take work from Wee Hur.</em></p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>A</em></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b><em>Is not go behind---do behind his back. We actually had do it openly to sign the contract. NK has promised me that I can do my own small business</em></b> <em>.<span class="FootnoteRef"><a href="#Ftn_51" id="Ftn_51_1"><sup>[note: 51]</sup></a></span></em></p></td></tr><tr><td align="left" class="" colspan="2" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>…</em></p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>Q</em></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>Now I’m going to round off this area ….</em> <b><em>I put to you that you had never disclosed to Chris or anyone in NK that you were giving quotations for the Wee Hur Project. Do you agree?</em></b></p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>A</em></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b><em>Agree.</em></b></p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>Q</em></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b><em>I put to you that when you---when you started to negotiate with Wee Hur for their work, this was in October 2012.</em></b></p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>A</em></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b><em>Agree.</em></b></p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>Q</em></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b><em>At that time you were still an employee of NK?</em></b></p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>A</em></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b><em>Correct.</em></b></p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>Q</em></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>Is that yes?</em></p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>A</em></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b><em>I have---I’ve told you many times, I have already told NK and NK has agreed with me that I could do my other small business</em></b>…</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>Q</em></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b><em>So you agree with me that you did not disclose to Chris or anyone in NK that you were negotiating the contract with Wee Hur?</em></b></p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>A</em></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b><em>Correct.</em></b></p></td></tr><tr><td align="left" class="" colspan="2" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>…</em></p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>Q</em></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>I put to you that subsequently around 19th September 2013, when Chris had a conversation with Anna, it was to reveal to Anna Chris discovery about what you did behind NK Ceramic’s back.</em></p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>A</em></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>It’s not behind his back. I have all along been doing my small business.<span class="FootnoteRef"><a href="#Ftn_52" id="Ftn_52_1"><sup>[note: 52]</sup></a></span></em></p></td></tr><tr><td align="left" class="" colspan="2" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>…</em></p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>Q</em></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b><em>Chris Lim did not give you his express consent for you to negotiate with Wee Hur. Do you agree?</em></b></p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>A</em></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b><em>I disagree. He agreed with me through my own business, whether I deal with any---some---anyone. I’ve already started this Fong Teck in year 2000, and NK and Chris is aware of this</em></b> <em>, because he knew that I’m able---I’m able to carry out the work, that’s why he ap---he accepted me. And if I do not able to do, I would not be accepted as a club contractor. </em><b><em>So all along he knew</em></b> <em>. If he dis---</em> <b><em>if he did not agree … he can terminate me if he doesn’t want me, correct? If he did not accept me, then he would not continue to hire me. </em></b><em>Now I tender my resignation, I do not want to work for him. It’s not that he had terminated me. </em><b><em>Because I can provide the lorry to him and then I can also em---hire workers for him and then it’s all beneficial to him</em></b> <em>.<span class="FootnoteRef"><a href="#Ftn_53" id="Ftn_53_1"><sup>[note: 53]</sup></a></span></em></p></td></tr></tbody></table>
+>   
+| 
+
+“_Q_
+
+ | 
+
+_… You agree you were the employee of the company from late 2004 until you resigned in October 2013?_
+
+ |
+| 
+
+_A_
+
+ | 
+
+_I was the employee of the company. At the same time, I was the boss of Fong Teck._
+
+ |
+| 
+
+_Q_
+
+ | 
+
+_But you were an employee? We will talk about---_
+
+ |
+| 
+
+_A_
+
+ | 
+
+_I was the employee and the boss. Agreed that I worked---I---because before I joined the company as the company’s worker, I was a subcontractor of the company. I’ve clearly informed him about this. He asked me to make my work arrangement and then work at his site. Because my work was subcontracted to other people---Malaysians. So he had agreed._
+
+ |
+| 
+
+_Q_
+
+ | 
+
+_As an employee, you are not to work for a competitor of NK Ceramics \[sic\], agreed?_
+
+ |
+| 
+
+_A_
+
+ | 
+
+_I don’t feel that it is a competitor. Even though in the same line, but it’s not competitor. Because I incorporated Meztec. I transferred the lorry from Fong Teck to Meztec. I also let Chris, the Plaintiff use---the admin of Meztec---_
+
+ |
+| 
+
+_…_
+
+ |
+| 
+
+_Q_
+
+ | 
+
+_Just agree or disagree, whether or not---that as an employee, you shouldn’t be working for another---or for a competitor._
+
+ |
+| 
+
+_A_
+
+ | 
+
+**_Disagree. Because he agrees with me to work, so I work. If he disagreed, then I will not accept this job._** [^48]
+
+ |
+| 
+
+_…_
+
+ |
+| 
+
+_Q_
+
+ | 
+
+_There is no quotation that we can see, where Fong Teck gave a quote to NK for works while you were an employee?_
+
+ |
+| 
+
+_A_
+
+ | 
+
+_Fong Teck has done the subcontract work and completed that half a block of HDB block, then I work as an employee of the Plaintiff._
+
+ |
+| 
+
+_…_
+
+ |
+| 
+
+_Q_
+
+ | 
+
+_What you are saying is, after you completed your last co---subcontract as Fong Teck, you then worked as an employee of NK?_
+
+ |
+| 
+
+_A_
+
+ | 
+
+_I become the employee after a few months._
+
+ |
+| 
+
+_Q_
+
+ | 
+
+**_And from the time you became an employee onwards, there was no more payment to Fong Teck?_**
+
+ |
+| 
+
+_A_
+
+ | 
+
+**_So he did not subcontract the work to Fong Teck, but Fong Teck has other subcontract work from outs---external source._**
+
+ |
+| 
+
+_Liow:_
+
+ | 
+
+_So she is saying that she still continued as a subcontractor?_
+
+ |
+| 
+
+_A_
+
+ | 
+
+**_Correct_** _._
+
+ |
+| 
+
+_Q_
+
+ | 
+
+_And you didn’t inform Chris?_
+
+ |
+| 
+
+_A_
+
+ | 
+
+_Chris is aware. He went to the site to look for me. I was working there. He---he told me that I need not go to the site too early. I only---I was only required to go to the site for meeting and at---at anything---others things at 9.00 am. I was doing the---for the---for the dormitory. I was doing tiling and plastering._
+
+ |
+| 
+
+_…_
+
+ |
+| 
+
+_A_
+
+ | 
+
+_Initially I told him that I cannot work for him, because I have not completed my own job._
+
+ |
+| 
+
+_Q_
+
+ | 
+
+_I’m going to stop you here. Answer the question. If Chris did not know---I know you say he knows, but Chris didn’t know. Would you agree with me---would you agree with me it’s wrong for you to have a sideline business?_
+
+ |
+| 
+
+_A_
+
+ | 
+
+**_I disagree. If he cannot---if he cannot accept that I have my own other business he could not have employed me, because I have not completed my own business. I’ve done it halfway._**
+
+ |
+| 
+
+_Q_
+
+ | 
+
+_So in 20---2011 you were still running Fong Teck?_
+
+ |
+| 
+
+_A_
+
+ | 
+
+_Yes. Fong Teck has some small businesses, with regards to renovation, tilings and those electrical installations._
+
+ |
+| 
+
+_Q_
+
+ | 
+
+_And you were still making money under Fong Teck?_
+
+ |
+| 
+
+_A_
+
+ | 
+
+**_Correct_** _.[^49]_
+
+ |
+| 
+
+_…_
+
+ |
+| 
+
+_Q_
+
+ | 
+
+_Now, specifically, I draw your attention to item 2---20.4, where it reads, “Meztec Construction Pte Ltd, quotation dated 30th October 2012.” Right? Do you agree that what this means is that as of 30th October 2012, while you were still an employee of NK, you, through your company gave a quotation to Wee Hur?_
+
+ |
+| 
+
+_A_
+
+ | 
+
+**_Since yesterday I had been saying, when I was working with NK, I will still carry on with my work---my job_** _. If I cannot work for---on Meztec or Fong Teck’s work, I cannot apply for workers---either Meztec or Fong Teck…_
+
+ |
+| 
+
+_Q_
+
+ | 
+
+_I’m sorry, is the answer to my question, yes?_
+
+ |
+| 
+
+_A_
+
+ | 
+
+**_Since yesterday, I’ve already been telling you that I have been working on my own work._**
+
+ |
+| 
+
+_Q_
+
+ | 
+
+**_So your answer is and if I may help you, yes, I did give this quotation when I was the employee of NK, but I had an understanding with NK that I could continue as an independent contractor. That’s what you are saying, right?_**
+
+ |
+| 
+
+_A_
+
+ | 
+
+**_Yes_**.[^50]
+
+ |
+| 
+
+_…_
+
+ |
+| 
+
+_Q_
+
+ | 
+
+_Do you agree what Chris was doing here was he’s---was trying to explain to Anna the fact that you’ve gone behind NK’s back, to take work at Wee Hur._
+
+ |
+| 
+
+_Interpreter:_
+
+ | 
+
+_To take work at Wee Hur, sorry? You said to take---_
+
+ |
+| 
+
+_Q_
+
+ | 
+
+_That---_
+
+ |
+| 
+
+_Interpreter:_
+
+ | 
+
+_work?_
+
+ |
+| 
+
+_Liow:_
+
+ | 
+
+_at---what he was trying to express to Anna here was that Madam Chong had gone behind NK’s back, to take work from Wee Hur._
+
+ |
+| 
+
+_A_
+
+ | 
+
+**_Is not go behind---do behind his back. We actually had do it openly to sign the contract. NK has promised me that I can do my own small business_** _.[^51]_
+
+ |
+| 
+
+_…_
+
+ |
+| 
+
+_Q_
+
+ | 
+
+_Now I’m going to round off this area …._ **_I put to you that you had never disclosed to Chris or anyone in NK that you were giving quotations for the Wee Hur Project. Do you agree?_**
+
+ |
+| 
+
+_A_
+
+ | 
+
+**_Agree._**
+
+ |
+| 
+
+_Q_
+
+ | 
+
+**_I put to you that when you---when you started to negotiate with Wee Hur for their work, this was in October 2012._**
+
+ |
+| 
+
+_A_
+
+ | 
+
+**_Agree._**
+
+ |
+| 
+
+_Q_
+
+ | 
+
+**_At that time you were still an employee of NK?_**
+
+ |
+| 
+
+_A_
+
+ | 
+
+**_Correct._**
+
+ |
+| 
+
+_Q_
+
+ | 
+
+_Is that yes?_
+
+ |
+| 
+
+_A_
+
+ | 
+
+**_I have---I’ve told you many times, I have already told NK and NK has agreed with me that I could do my other small business_**…
+
+ |
+| 
+
+_Q_
+
+ | 
+
+**_So you agree with me that you did not disclose to Chris or anyone in NK that you were negotiating the contract with Wee Hur?_**
+
+ |
+| 
+
+_A_
+
+ | 
+
+**_Correct._**
+
+ |
+| 
+
+_…_
+
+ |
+| 
+
+_Q_
+
+ | 
+
+_I put to you that subsequently around 19th September 2013, when Chris had a conversation with Anna, it was to reveal to Anna Chris discovery about what you did behind NK Ceramic’s back._
+
+ |
+| 
+
+_A_
+
+ | 
+
+_It’s not behind his back. I have all along been doing my small business.[^52]_
+
+ |
+| 
+
+_…_
+
+ |
+| 
+
+_Q_
+
+ | 
+
+**_Chris Lim did not give you his express consent for you to negotiate with Wee Hur. Do you agree?_**
+
+ |
+| 
+
+_A_
+
+ | 
+
+**_I disagree. He agreed with me through my own business, whether I deal with any---some---anyone. I’ve already started this Fong Teck in year 2000, and NK and Chris is aware of this_** _, because he knew that I’m able---I’m able to carry out the work, that’s why he ap---he accepted me. And if I do not able to do, I would not be accepted as a club contractor._ **_So all along he knew_** _. If he dis---_ **_if he did not agree … he can terminate me if he doesn’t want me, correct? If he did not accept me, then he would not continue to hire me._** _Now I tender my resignation, I do not want to work for him. It’s not that he had terminated me._ **_Because I can provide the lorry to him and then I can also em---hire workers for him and then it’s all beneficial to him_** _.[^53]_
+
+ |
 
   
   
@@ -160,27 +664,27 @@ f.     Exposing the Plaintiff to liabilities[^11]
 
 31     From the 1st Defendant’s testimony in cross-examination (as seen from the extract quoted above), it is clear that the 1st Defendant is not saying that an agreement exists but that her position is that the Plaintiff had agreed and/or consented for her to operate as an independent sub-contractor by virtue of the following: -
 
-(a)     Mr Chris Lim was aware that the she was running her own business under Fong Teck when he engaged her to assist as a site supervisor of the Plaintiff and to manage the Plaintiff’s workers in 2005;
+> (a)     Mr Chris Lim was aware that the she was running her own business under Fong Teck when he engaged her to assist as a site supervisor of the Plaintiff and to manage the Plaintiff’s workers in 2005;
 
-(b)     Mr Chris Lim was allegedly aware that she had already started Fong Teck in year 2000;
+> (b)     Mr Chris Lim was allegedly aware that she had already started Fong Teck in year 2000;
 
-(c)     If she was not allowed to carry on with her own business, she would not have agreed to work for the Plaintiff;
+> (c)     If she was not allowed to carry on with her own business, she would not have agreed to work for the Plaintiff;
 
-(d)     Mr Chris Lim was aware of the existence of the 3rd Defendant.
+> (d)     Mr Chris Lim was aware of the existence of the 3rd Defendant.
 
 32     From the 1st Defendant’s affidavit of evidence-in-chief and from her testimony in court, she also appears to rely on the following for the inference that there was such an agreement between the Plaintiff and her that she is allowed to engage in competing businesses while under the employment of the Plaintiff:
 
-(a)     She continued to do business as Fong Teck whilst assisting the Plaintiff in managing its workers;
+> (a)     She continued to do business as Fong Teck whilst assisting the Plaintiff in managing its workers;
 
-(b)     The Plaintiff had known about her Fong Teck business because she had used Fong Teck’s lorry to assist in the Plaintiff’s business;
+> (b)     The Plaintiff had known about her Fong Teck business because she had used Fong Teck’s lorry to assist in the Plaintiff’s business;
 
-(c)     She had been receiving commissions from the Plaintiff based on the projects handled by her;
+> (c)     She had been receiving commissions from the Plaintiff based on the projects handled by her;
 
-(d)     The Plaintiff should have known that the 3rd Defendant was incorporated to take over Fong Teck because the sticker on Fong Teck’s lorry was allegedly changed to the name of the 3rd Defendant;
+> (d)     The Plaintiff should have known that the 3rd Defendant was incorporated to take over Fong Teck because the sticker on Fong Teck’s lorry was allegedly changed to the name of the 3rd Defendant;
 
-(e)     The Plaintiff had conducted a Questnet search on the 3rd Defendant in December 2012 which stated that the 1st Defendant was a director; and
+> (e)     The Plaintiff had conducted a Questnet search on the 3rd Defendant in December 2012 which stated that the 1st Defendant was a director; and
 
-(f)     The Plaintiff had issued a sub-contract to the 3rd Defendant for the Sengkang N3C18 project.
+> (f)     The Plaintiff had issued a sub-contract to the 3rd Defendant for the Sengkang N3C18 project.
 
 33     I will now address each of these points of contention.
 
@@ -252,31 +756,31 @@ f.     Exposing the Plaintiff to liabilities[^11]
 
 61     The Plaintiff submits that as an employee of the Plaintiff, the 1st Defendant owes various duties including an implied duty of fidelity and good faith, to the Plaintiff during the term of her employment. The Plaintiff cited the Court of Appeal case of _Man Financial (S) Pte Ltd (formerly known as E D & F Main International (S) Pte Ltd) v. Wong Bark Chuan David_ <span class="citation">\[2007\] SGCA 53</span>[^76] which held at \[193\] that:-
 
-“It is _trite law_ that there is an _implied term in the employer’s favour that the employee will serve the employer with good faith and fidelity_, and that he or she (the employee) will also use reasonable care and skill in the performance of his or her duties pursuant to the employment contract…”
+> “It is _trite law_ that there is an _implied term in the employer’s favour that the employee will serve the employer with good faith and fidelity_, and that he or she (the employee) will also use reasonable care and skill in the performance of his or her duties pursuant to the employment contract…”
 
 (Emphasis added)
 
 62     This duty of fidelity of an employee is further described in _Asiawerks Global Investment Group Pte Ltd v. Ismail bin Syed Ahmad and another_ <span class="citation">\[2003\] SGHC 269</span>[^77] (“Asiawerks”) at \[61\] as:
 
-“There can be no denying that _all employees are expected to serve their employers diligently, honestly and loyally_. What this duty translates into factually depends on the circumstances such as the nature of the work. _Employees should not be engaged in other business or employment during their working hours without the approval of their employers. They should certainly not be diverting business opportunities that they got wind of only because of their employment status and during the subsistence of the employment_, whether or not such information amounted to confidential information within the meaning of the law.”
+> “There can be no denying that _all employees are expected to serve their employers diligently, honestly and loyally_. What this duty translates into factually depends on the circumstances such as the nature of the work. _Employees should not be engaged in other business or employment during their working hours without the approval of their employers. They should certainly not be diverting business opportunities that they got wind of only because of their employment status and during the subsistence of the employment_, whether or not such information amounted to confidential information within the meaning of the law.”
 
 (Emphasis added)
 
 63     In _Smile Inc Dental Surgeons Pte Ltd v. Lui Andrew Stewart_ <span class="citation">\[2012\] SGCA 39</span>[^78], the Court of Appeal held at \[67\] that an employee would be in breach of his implied duty of good faith and fidelity if he engaged in actual competitive activity with his employer during the term of his employment:-
 
-“The case law also clearly demonstrates that whether or not steps taken by an employee can be considered as preparatory to future competition (which is permissible), or instead constitute actual competitive activity (which is not permissible), turns on the facts of each particular case. … What is of _signal importance_ is _whether or not_, on the _facts of this particular appeal_, the Respondent had merely taken _preparatory steps_. If mere preparatory steps had been taken, there would have been _no_ breach of the Respondent’s implied duty of good faith and fidelity; on the contrary, if more than mere preparatory steps had been taken, then there _would_ have been a breach of this duty.”
+> “The case law also clearly demonstrates that whether or not steps taken by an employee can be considered as preparatory to future competition (which is permissible), or instead constitute actual competitive activity (which is not permissible), turns on the facts of each particular case. … What is of _signal importance_ is _whether or not_, on the _facts of this particular appeal_, the Respondent had merely taken _preparatory steps_. If mere preparatory steps had been taken, there would have been _no_ breach of the Respondent’s implied duty of good faith and fidelity; on the contrary, if more than mere preparatory steps had been taken, then there _would_ have been a breach of this duty.”
 
 64     The Plaintiff also argues that in addition to being an employee, the 1st Defendant was also a fiduciary given the scope of her duties and authority as the Plaintiff’s site manager. The Plaintiff cited the case of _Clearlab SG Pte Ltd v. Ting Chong Chai and others_ <span class="citation">\[2014\] SGHC 221</span>[^79] in support of this argument. The High Court at \[275\] held that:-
 
-“A rough and ready guide to whether or not the imposition of a fiduciary obligation would be appropriate are the three characteristics identified by Wilson J (dissenting) in _Richard Hugh Frame v Eleanor Margaret Smith_ \[1987\] 2 SCR 99 at \[60\] which were cited with approval by the Court of Appeal in _Susilawati v American Express Bank Ltd_ <span class="citation">\[2009\] 2 SLR(R) 737</span> at \[41\]:
+> “A rough and ready guide to whether or not the imposition of a fiduciary obligation would be appropriate are the three characteristics identified by Wilson J (dissenting) in _Richard Hugh Frame v Eleanor Margaret Smith_ \[1987\] 2 SCR 99 at \[60\] which were cited with approval by the Court of Appeal in _Susilawati v American Express Bank Ltd_ <span class="citation">\[2009\] 2 SLR(R) 737</span> at \[41\]:
 
-(1)    The fiduciary has scope for the exercise of some discretion or power.
+>> (1)    The fiduciary has scope for the exercise of some discretion or power.
 
-(2)    The fiduciary can unilaterally exercise that power or discretion so as to affect the beneficiary’s legal or practical interests.
+>> (2)    The fiduciary can unilaterally exercise that power or discretion so as to affect the beneficiary’s legal or practical interests.
 
-(3)    The beneficiary is peculiarly vulnerable to or at the mercy of the fiduciary holding the discretion or power.
+>> (3)    The beneficiary is peculiarly vulnerable to or at the mercy of the fiduciary holding the discretion or power.
 
-_At the end, the foundation for fiduciary obligation is the parties’ relationship. Factors such as ascendancy, vulnerability, and dependence which characterise the relationship will be important in deciding if one party does owe specific obligations to solely act in another’s interest at all times.”_
+> _At the end, the foundation for fiduciary obligation is the parties’ relationship. Factors such as ascendancy, vulnerability, and dependence which characterise the relationship will be important in deciding if one party does owe specific obligations to solely act in another’s interest at all times.”_
 
 (Emphasis added)
 
@@ -288,21 +792,21 @@ _At the end, the foundation for fiduciary obligation is the parties’ relations
 
 68     In cross-examination, the 1st Defendant also agreed that:
 
-a.     she was managing 11 projects for the Plaintiff in 2012[^85];
+> a.     she was managing 11 projects for the Plaintiff in 2012[^85];
 
-b.     she was given cash to pay the workers’ salary[^86];
+> b.     she was given cash to pay the workers’ salary[^86];
 
-c.     if the supervisors who were assisting her had a problem with the worksites, they would report to her[^87];
+> c.     if the supervisors who were assisting her had a problem with the worksites, they would report to her[^87];
 
-d.     if there was a work related problem, she would “d_efinitely have to be responsible because this is---this was managed by me_”[^88];
+> d.     if there was a work related problem, she would “d_efinitely have to be responsible because this is---this was managed by me_”[^88];
 
-e.     she would usually attend the weekly progress meetings for the projects she was managing on behalf of the Plaintiff[^89];
+> e.     she would usually attend the weekly progress meetings for the projects she was managing on behalf of the Plaintiff[^89];
 
-f.     if she was informed of a problem in relation to the progress of the works, it was part of her responsibility to think of a solution together with the relevant supervisor[^90];
+> f.     if she was informed of a problem in relation to the progress of the works, it was part of her responsibility to think of a solution together with the relevant supervisor[^90];
 
-g.     she was responsible for financing the purchase of materials on behalf of the Plaintiff in order to keep the job sites going[^91]; and
+> g.     she was responsible for financing the purchase of materials on behalf of the Plaintiff in order to keep the job sites going[^91]; and
 
-h.     she was responsible for ensuring that the works in respect of the projects that she was managing progressed smoothly[^92].
+> h.     she was responsible for ensuring that the works in respect of the projects that she was managing progressed smoothly[^92].
 
 69     From all of the above, it is clear that the 1st Defendant had played a significant role in managing the affairs of the Plaintiff, especially in the area of the work to be carried out and work progress at the work sites and the foreign workers resource management and deployment at the project sites. She was given a fair amount of discretion and power in relation to the management and supervision of the Plaintiff’s workers and projects. As a site supervisor, the 1st Defendant had been entrusted with the management of the Plaintiff’s workers and projects and the Plaintiff relied heavily on her as regards supervising the work progress and the deployment of workers at the work sites and the supervision of the Plaintiff’s workers at the project sites.
 
@@ -334,9 +838,9 @@ h.     she was responsible for ensuring that the works in respect of the pr
 
 80     The Plaintiff argues that I should not believe the 1st Defendant’s version for the following reasons (among other reasons):
 
-(a)     If the Plaintiff had agreed to let its workers assist Hong Dat for a fee, there would be claims or tax invoices issued by the Plaintiff against Hong Dat for the work done[^102]. That there were no such claims or tax invoices shows that the Plaintiff was not aware of this.
+> (a)     If the Plaintiff had agreed to let its workers assist Hong Dat for a fee, there would be claims or tax invoices issued by the Plaintiff against Hong Dat for the work done[^102]. That there were no such claims or tax invoices shows that the Plaintiff was not aware of this.
 
-(b)     The payment vouchers in respect of the cheques issued by Hong Dat were in the name of the 1st Defendant instead of the Plaintiff.[^103] The Plaintiff argues that if the arrangement was between Hong Dat and the Plaintiff, the payment vouchers would have been in the name of the Plaintiff to reflect the party receiving payment.
+> (b)     The payment vouchers in respect of the cheques issued by Hong Dat were in the name of the 1st Defendant instead of the Plaintiff.[^103] The Plaintiff argues that if the arrangement was between Hong Dat and the Plaintiff, the payment vouchers would have been in the name of the Plaintiff to reflect the party receiving payment.
 
 81     The Plaintiff also submits that it is highly suspicious that the cheques issued by Hong Dat as payment for the Plaintiff’s workers were cash cheques which is unusual in the ordinary course of business since whoever receives it can cash it for themselves.
 
@@ -394,23 +898,23 @@ h.     she was responsible for ensuring that the works in respect of the pr
 
 106    The Plaintiff argues that the 1st Defendant has breached her duties for the following reasons:
 
-a.     The scope of the Wee Hur project works was tiling works which is the same business as the Plaintiff’s[^129];
+> a.     The scope of the Wee Hur project works was tiling works which is the same business as the Plaintiff’s[^129];
 
-b.     The 1st Defendant had agreed that she had “_reflected the track record of (the Plaintiff)” \[sic\]_ in her negotiations with Wee Hur[^130];
+> b.     The 1st Defendant had agreed that she had “_reflected the track record of (the Plaintiff)” \[sic\]_ in her negotiations with Wee Hur[^130];
 
-c.     The 1st Defendant agreed that she had also reflected copies of the Plaintiff’s CoreTrade skilled workers’ cards in her negotiations with Wee Hur (she attempted to explain this away by saying that it was a mistake)[^131];
+> c.     The 1st Defendant agreed that she had also reflected copies of the Plaintiff’s CoreTrade skilled workers’ cards in her negotiations with Wee Hur (she attempted to explain this away by saying that it was a mistake)[^131];
 
-d.     The 1st Defendant was an employee of the Plaintiff at the time she quoted for the Sengkang N4C20 project[^132];
+> d.     The 1st Defendant was an employee of the Plaintiff at the time she quoted for the Sengkang N4C20 project[^132];
 
-e.     The 1st Defendant did not inform the Plaintiff about the opportunity in relation to the Sengkang N4C20 project and/or seek the Plaintiff’s consent to quote for the Sengkang N4C20 project through the 3rd Defendant. When asked, the 1st Defendant agreed that she “_did not disclose to Chris or anyone in NK that (she was) negotiating the contract with Wee Hur_”[^133];
+> e.     The 1st Defendant did not inform the Plaintiff about the opportunity in relation to the Sengkang N4C20 project and/or seek the Plaintiff’s consent to quote for the Sengkang N4C20 project through the 3rd Defendant. When asked, the 1st Defendant agreed that she “_did not disclose to Chris or anyone in NK that (she was) negotiating the contract with Wee Hur_”[^133];
 
-f.     When the 3rd Defendant was awarded the Sengkang N4C20 project, the 1st Defendant was still an employee of the Plaintiff;
+> f.     When the 3rd Defendant was awarded the Sengkang N4C20 project, the 1st Defendant was still an employee of the Plaintiff;
 
-g.     The 1st Defendant did not inform the Plaintiff that the 3rd Defendant was awarded the Sengkang N4C20 project and/or seek the Plaintiff’s consent to carry out the works when the 3rd Defendant accepted and signed a contract for tiling works with Wee Hur for $1.4 million on 19 September 2013[^134];
+> g.     The 1st Defendant did not inform the Plaintiff that the 3rd Defendant was awarded the Sengkang N4C20 project and/or seek the Plaintiff’s consent to carry out the works when the 3rd Defendant accepted and signed a contract for tiling works with Wee Hur for $1.4 million on 19 September 2013[^134];
 
-h.     The 1st Defendant was aware that pursuant to clause 3 of the Sengkang N4C20 contract, the 3rd Defendant was to commence work on the project from 1 March 2013[^135];
+> h.     The 1st Defendant was aware that pursuant to clause 3 of the Sengkang N4C20 contract, the 3rd Defendant was to commence work on the project from 1 March 2013[^135];
 
-i.     It is not disputed that the 1st Defendant was an employee of the Plaintiff up to 25 October 2013[^136] and accordingly, that the works for the Sengkang N4C20 project had already started whilst the 1st Defendant was an employee of the Plaintiff (by the 1st Defendant’s own testimony, the work for Wee Hur started in June 2013).
+> i.     It is not disputed that the 1st Defendant was an employee of the Plaintiff up to 25 October 2013[^136] and accordingly, that the works for the Sengkang N4C20 project had already started whilst the 1st Defendant was an employee of the Plaintiff (by the 1st Defendant’s own testimony, the work for Wee Hur started in June 2013).
 
 107    The Plaintiff submits that the 1st Defendant’s actions constitute a breach of her implied duty of fidelity and good faith and a breach of her fiduciary duties as she had (i) engaged in competitive activity with the Plaintiff; (ii) usurped the Plaintiff’s business opportunity as the works undertaken by the 3rd Defendant were works that could have been undertaken by the Plaintiff; and (iii) profited from her position as the Plaintiff’s site manager by quoting for the Sengkang N4C20 project using the Plaintiff’s track record and CoreTrade skilled workers’ cards.
 
@@ -466,11 +970,11 @@ i.     It is not disputed that the 1st Defendant was an employee of the Pla
 
 130    The 1st Defendant’s counterclaim against the Plaintiff is based on the following:
 
-\-    The outstanding commissions of $9,357.50 for September 2013 and $26,555.19 which the 1st Defendant claims are due to her. The total amount is quantified at $35,912.69.
+> \-    The outstanding commissions of $9,357.50 for September 2013 and $26,555.19 which the 1st Defendant claims are due to her. The total amount is quantified at $35,912.69.
 
-\-    The outstanding amount of $19,582 which the 1st Defendant claims is payable to her by the Plaintiff in respect of the CONQUAS Agreement.
+> \-    The outstanding amount of $19,582 which the 1st Defendant claims is payable to her by the Plaintiff in respect of the CONQUAS Agreement.
 
-\-    The sum of $22,161.44 which the 1st Defendant says she had paid on the Plaintiff’s behalf, these being expenses in relation to the workers who had allegedly worked exclusively and solely for the Plaintiff’s benefit[^151].
+> \-    The sum of $22,161.44 which the 1st Defendant says she had paid on the Plaintiff’s behalf, these being expenses in relation to the workers who had allegedly worked exclusively and solely for the Plaintiff’s benefit[^151].
 
 #### Whether the Plaintiff is liable to pay the 1st Defendant the outstanding commissions
 
@@ -543,15 +1047,15 @@ i.     It is not disputed that the 1st Defendant was an employee of the Pla
 
 154    In conclusion,
 
-(a)     The Plaintiff’s claim is allowed with costs to the Plaintiff as follows:
+> (a)     The Plaintiff’s claim is allowed with costs to the Plaintiff as follows:
 
-(i)       1st Defendant is to return to the Plaintiff the sum of $45,968. In addition, the 1st Defendant is also liable to the Plaintiff in the sum of S$101,940.78. The Defendant is therefore ordered to pay to the Plaintiff the sum of $147,908.78.
+>> (i)       1st Defendant is to return to the Plaintiff the sum of $45,968. In addition, the 1st Defendant is also liable to the Plaintiff in the sum of S$101,940.78. The Defendant is therefore ordered to pay to the Plaintiff the sum of $147,908.78.
 
-(ii)       1st and 3rd Defendants are jointly and severally liable to the Plaintiff in the sum of $77,805.11.
+>> (ii)       1st and 3rd Defendants are jointly and severally liable to the Plaintiff in the sum of $77,805.11.
 
-(b)     The Plaintiff’s claim against the 2nd Defendant is dismissed with costs to the 2nd Defendant.
+> (b)     The Plaintiff’s claim against the 2nd Defendant is dismissed with costs to the 2nd Defendant.
 
-(c)     As regards the 1st and 3rd Defendants’ counterclaim against the Plaintiff, the Plaintiff shall pay to the 3rd Defendant the sum of $7,842.30. Costs of the 1st and 3rd Defendants’ counterclaim is awarded to the Plaintiff.
+> (c)     As regards the 1st and 3rd Defendants’ counterclaim against the Plaintiff, the Plaintiff shall pay to the 3rd Defendant the sum of $7,842.30. Costs of the 1st and 3rd Defendants’ counterclaim is awarded to the Plaintiff.
 
 155    On 9 May 2019 when parties appeared before me for my decision, Counsel for the Plaintiff represented to the court that as against the 1st Defendant, there was an Offer To Settle served on her offering to settle the case on terms better than I had ordered. Counsel for the Plaintiff therefore asked that costs against the 1st Defendant be taxed on an indemnity basis from the date the Offer To Settle was served on her, that is, 23 November 2018. Accordingly, costs to the Plaintiff as against the 1st Defendant shall be on an indemnity basis from 23 November 2018. As costs shall be taxed, if not agreed, the issue of the 1st and 3rd Defendants’ individual liability as regards costs shall be dealt with at taxation.
 

@@ -25,13 +25,13 @@
 
 5       The defendant faced the following two charges at trial:
 
-DAC-918447-2018 (1st Charge)
+> DAC-918447-2018 (1st Charge)
 
-You \[...\] are charged that you, on or before the 17th day of May 2018, in Singapore, did consume a specified drug listed in the Fourth Schedule to the Misuse of Drugs Act (Cap 185, 2008 Rev Ed), _to wit_, **monoacetylmorphine**, without any authorisation under the said Act or the Regulations made thereunder, and you have thereby committed an offence under section 8(b)(ii) of the Misuse of Drugs Act (Cap 185, 2008 Rev Ed). \[...\]
+> You \[...\] are charged that you, on or before the 17th day of May 2018, in Singapore, did consume a specified drug listed in the Fourth Schedule to the Misuse of Drugs Act (Cap 185, 2008 Rev Ed), _to wit_, **monoacetylmorphine**, without any authorisation under the said Act or the Regulations made thereunder, and you have thereby committed an offence under section 8(b)(ii) of the Misuse of Drugs Act (Cap 185, 2008 Rev Ed). \[...\]
 
-DAC-918448-2018 (2nd Charge)
+> DAC-918448-2018 (2nd Charge)
 
-You \[...\] are charged that you, on or before the 17th day of May 2018, in Singapore, did consume a specified drug listed in the Fourth Schedule to the Misuse of Drugs Act (Cap 185, 2008 Rev Ed), _to wit_, **methamphetamine**, without any authorisation under the said Act or the Regulations made thereunder, and you have thereby committed an offence under section 8(b)(ii) of the Misuse of Drugs Act (Cap 185, 2008 Rev Ed). \[...\]
+> You \[...\] are charged that you, on or before the 17th day of May 2018, in Singapore, did consume a specified drug listed in the Fourth Schedule to the Misuse of Drugs Act (Cap 185, 2008 Rev Ed), _to wit_, **methamphetamine**, without any authorisation under the said Act or the Regulations made thereunder, and you have thereby committed an offence under section 8(b)(ii) of the Misuse of Drugs Act (Cap 185, 2008 Rev Ed). \[...\]
 
 #### Prosecution’s case
 
@@ -75,9 +75,9 @@ You \[...\] are charged that you, on or before the 17th day of May 2018, in Sing
 
 20     Given that the defendant’s urine specimen tested positive for monoacetylmorphine and methamphetamine, the defendant was presumed under s 22 of the MDA to have consumed the drugs, until the contrary is proved. Section 22 provides as follows:
 
-Presumption relating to urine test
+> Presumption relating to urine test
 
-22.    If any controlled drug is found in the urine of a person as a result of both urine tests conducted under section 31(4)(b) \[i.e., urine tests conducted by analysts of the HSA\], _he shall be presumed, until the contrary is proved, to have consumed that controlled drug_ in contravention of section 8(b).
+> 22.    If any controlled drug is found in the urine of a person as a result of both urine tests conducted under section 31(4)(b) \[i.e., urine tests conducted by analysts of the HSA\], _he shall be presumed, until the contrary is proved, to have consumed that controlled drug_ in contravention of section 8(b).
 
 #### (f)   Confessions in defendant’s statement
 
@@ -85,7 +85,7 @@ Presumption relating to urine test
 
 22     The statement contained, among other things, a detailed confession by the defendant regarding his abuse heroin and ‘ice’. Para 5 of the statement stated as follows:
 
-5    Pertaining to my urine sample tested positive for Amphetamine and Opiates, _the last time I smoke ice and heroin was yesterday, 17/5/2018. I smoked alone at my unit_ but I cannot remembered what time I smoked. I smoked both but I cannot remember which I smoked first and how many puffs I had took. _I smoked both ice and heroin using “Chasing” method, by placing the ice and heroin on a aluminium foil and heat it up using a lighter then inhaled using a rolled up paper._ I felt relaxed and energetic after smoking. I would smoked 1 straw of heroin and 1 small packet of ice everyday, and I relapsed back to smoking of ice and heroin everyday ever since I stopped coming to Bedok for my urine reporting since 8/12/2017. I do not have any heroin and ice at home as I had finished off everything yesterday, 17/5/2018. After I smoked, I went down to the void deck to meet Ah J which we were then arrested together by the police.
+> 5    Pertaining to my urine sample tested positive for Amphetamine and Opiates, _the last time I smoke ice and heroin was yesterday, 17/5/2018. I smoked alone at my unit_ but I cannot remembered what time I smoked. I smoked both but I cannot remember which I smoked first and how many puffs I had took. _I smoked both ice and heroin using “Chasing” method, by placing the ice and heroin on a aluminium foil and heat it up using a lighter then inhaled using a rolled up paper._ I felt relaxed and energetic after smoking. I would smoked 1 straw of heroin and 1 small packet of ice everyday, and I relapsed back to smoking of ice and heroin everyday ever since I stopped coming to Bedok for my urine reporting since 8/12/2017. I do not have any heroin and ice at home as I had finished off everything yesterday, 17/5/2018. After I smoked, I went down to the void deck to meet Ah J which we were then arrested together by the police.
 
 \[ _Emphasis_ added\]
 

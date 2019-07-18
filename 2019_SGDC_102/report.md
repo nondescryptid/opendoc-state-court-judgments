@@ -33,39 +33,381 @@ Tort - Negligence – Contributory Negligence
 
 6       In his affidavit of evidence-in-chief, the plaintiff stated that he was at the front entrance of the workshop when the defendant reversed the van into him.[^4] In cross-examination, the plaintiff vacillated and said that he was actually within the compound of the workshop.
 
-QNow, you tell me that---tell His Honour that you were inside the compound. You agree that both comp---Mister, I haven’t asked a question yet. You must allow me to ask the question then you can answer to his Judge then we can be faster. I’m so sorry. Thank you, Mr. Lee. So, you agree that these are conflicting versions. Agree or not?
+> QNow, you tell me that---tell His Honour that you were inside the compound. You agree that both comp---Mister, I haven’t asked a question yet. You must allow me to ask the question then you can answer to his Judge then we can be faster. I’m so sorry. Thank you, Mr. Lee. So, you agree that these are conflicting versions. Agree or not?
 
-AThe front entrance was the position where I stood and facing inside.
+> AThe front entrance was the position where I stood and facing inside.
 
-QOkay. So, you confirm for the Judge that the accident happened at the front entrance of number 19, correct?
+> QOkay. So, you confirm for the Judge that the accident happened at the front entrance of number 19, correct?
 
-AI was at the front entrance, yes.
+> AI was at the front entrance, yes.
 
-QAnd the front entrance that we are talking about, so His Honour can identify, is found on 2AB page 24, agree? Where the blue lorry is parked.
+> QAnd the front entrance that we are talking about, so His Honour can identify, is found on 2AB page 24, agree? Where the blue lorry is parked.
 
-AI was standing inside of the front entrance.
+> AI was standing inside of the front entrance.
 
-QMr.---Mr. Lee, in your affidavit, you say, “At the front entrance”, then when I asked you, “Is it at the front entrance?”, you agree. Now you are telling me it was inside the front entrance. You must make up your mind, Mr. Lee. If you have a poor recollection, please tell us so. Please clarify.
+> QMr.---Mr. Lee, in your affidavit, you say, “At the front entrance”, then when I asked you, “Is it at the front entrance?”, you agree. Now you are telling me it was inside the front entrance. You must make up your mind, Mr. Lee. If you have a poor recollection, please tell us so. Please clarify.
 
-AIt was inside of the front entrance.
+> AIt was inside of the front entrance.
 
-QAnd could you tell us how far inside? 1 metre? 2 metre?
+> QAnd could you tell us how far inside? 1 metre? 2 metre?
 
-ANot far---not far, just a short distance away.
+> ANot far---not far, just a short distance away.
 
-QCould you help us to tell us it---the distance? If you can’t, it’s okay, but I’m just asking you if you can help.
+> QCould you help us to tell us it---the distance? If you can’t, it’s okay, but I’m just asking you if you can help.
 
-A1 metre, Sir.
+> A1 metre, Sir.
 
-QSo, is it exactly 1 metre? I think you are saying roughly 1 metre. Does that what you are to---saying? I just want to be fair to you.
+> QSo, is it exactly 1 metre? I think you are saying roughly 1 metre. Does that what you are to---saying? I just want to be fair to you.
 
-AAround 1 metre.[^5]
+> AAround 1 metre.[^5]
 
 7       In the defendant’s affidavit of evidence-in-chief, he said that as he reversed slowly “into the compound of the said work shop while checking \[his\] right wing mirror”, he “suddenly saw the plaintiff who was having his back to \[his\] van seemingly talking to someone. Suddenly he turned around and I felt a slight impact at the rear of \[his\] van.”[^6]
 
 8       In cross-examination, the defendant was to say that the plaintiff ran towards and collided into his reversing van:
 
-<table align="left" cellpadding="0" cellspacing="0" class="Judg-2" frame="none" pgwide="1"><colgroup><col width="19.26%"> <col width="80.74%"> </colgroup><tbody><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Q</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">No. That’s not my---my point. My point is, you said, “Suddenly a man who was in---inside the compound”.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">A</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Yes.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Q</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">So, am I right that this man is the Plaintiff?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">A</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Yes.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Q</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">And according to your police report, the Plaintiff was inside the compound of number 19 Kim Chuan Terrace?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">A</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Not inside the gate entrance yet.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Q</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">But Mr. Tan, your police report say, “A man who was in---inside the compound”.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">A</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">He was inside and then he was talking and then he just ran out.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Q</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Wait, wait, wait. Now, you are saying he ran out?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">A</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Yes, because the location where he fell onto the road, I was outside the gate.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Q</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">I put it to you from reading page 2AB8 of your police report, you said the Plaintiff was inside the compound?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Interpreter:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">So ask---you are putting it to him?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Low:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Yah. That---based on his own police report, Plaintiff was inside the compound of the workshop.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">A</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">I disagree.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Q</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Okay. Now, now you are saying or telling the Court that the Plaintiff ran out from inside the compound. Where did he run to?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">A</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">He ran by the side of my vehicle. My car was reversing, so he ran over and knocked onto my car---knocked on my vehicle, sorry.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Q</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Your story is that the Plaintiff was inside the workshop, the compound, his workshop, ran towards your vehicle and knocked into your vehicle?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">A</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Yes.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Q</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">So, your version is that, it was the Plaintiff who ran towards your motor van and bumped---knocked into your motor van. Is that correct?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">A</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Yes.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Q</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">But if we look at 2AB8, you said Plaintiff turned around after talking to his colleague and knocked onto the right rear portion of your vehicle and fell.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Teo:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Where you reading for?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Low:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">2AB8, his police report.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">A</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">I wa---yes, I saw him talking to his colleague, then suddenly he just make the turn and just collide and then he just knocked onto the por---knocked onto the---my vehicle.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Q</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">It’s not my point, it is in your police report. You not---did not say he ran towards your vehicle, but now you are telling the Court, you are saying the Plaintiff ran towards your vehicle.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">A</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">All along, in my police report, I told the police officer that he was the one who knocked onto my vehicle.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Q</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Okay. But you are now saying that he also ran towards your vehicle and knocked onto your vehicle. Is that correct?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">A</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Yes, that’s my stand.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Q</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">How did he knock into your vehicle?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">A</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">He was talking and suddenly he just turned around and knocked into my vehicle.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Q</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Are you saying that he threw his body onto your vehicle?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">A</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">His whole person turned and knocked onto my car---on---onto my vehicle.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Q</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Okay. So, your version now is he turned, ran and knocked onto your vehicle?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">A</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">He was talking to his colleague, he was moving backwards, and then suddenly he just turned and knocked onto my car---on---onto my vehicle.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Q</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Mr. Tan, now you are saying he did not run but---did he run or he---did he turn or walk backwards towards the [inaudible]?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">A</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">He was moving backwards, and then suddenly he turned and then knocked onto my vehicle.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Q</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">So, all this awhile, were you still reversing your motor van into the compound of the workshop?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">A</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">After he collided onto my vehicle, I stopped.<span class="FootnoteRef"><a href="#Ftn_7" id="Ftn_7_1"><sup>[note: 7]</sup></a></span></p></td></tr></tbody></table>
+>   
+| 
+
+Q
+
+ | 
+
+No. That’s not my---my point. My point is, you said, “Suddenly a man who was in---inside the compound”.
+
+ |
+| 
+
+A
+
+ | 
+
+Yes.
+
+ |
+| 
+
+Q
+
+ | 
+
+So, am I right that this man is the Plaintiff?
+
+ |
+| 
+
+A
+
+ | 
+
+Yes.
+
+ |
+| 
+
+Q
+
+ | 
+
+And according to your police report, the Plaintiff was inside the compound of number 19 Kim Chuan Terrace?
+
+ |
+| 
+
+A
+
+ | 
+
+Not inside the gate entrance yet.
+
+ |
+| 
+
+Q
+
+ | 
+
+But Mr. Tan, your police report say, “A man who was in---inside the compound”.
+
+ |
+| 
+
+A
+
+ | 
+
+He was inside and then he was talking and then he just ran out.
+
+ |
+| 
+
+Q
+
+ | 
+
+Wait, wait, wait. Now, you are saying he ran out?
+
+ |
+| 
+
+A
+
+ | 
+
+Yes, because the location where he fell onto the road, I was outside the gate.
+
+ |
+| 
+
+Q
+
+ | 
+
+I put it to you from reading page 2AB8 of your police report, you said the Plaintiff was inside the compound?
+
+ |
+| 
+
+Interpreter:
+
+ | 
+
+So ask---you are putting it to him?
+
+ |
+| 
+
+Low:
+
+ | 
+
+Yah. That---based on his own police report, Plaintiff was inside the compound of the workshop.
+
+ |
+| 
+
+A
+
+ | 
+
+I disagree.
+
+ |
+| 
+
+Q
+
+ | 
+
+Okay. Now, now you are saying or telling the Court that the Plaintiff ran out from inside the compound. Where did he run to?
+
+ |
+| 
+
+A
+
+ | 
+
+He ran by the side of my vehicle. My car was reversing, so he ran over and knocked onto my car---knocked on my vehicle, sorry.
+
+ |
+| 
+
+Q
+
+ | 
+
+Your story is that the Plaintiff was inside the workshop, the compound, his workshop, ran towards your vehicle and knocked into your vehicle?
+
+ |
+| 
+
+A
+
+ | 
+
+Yes.
+
+ |
+| 
+
+Q
+
+ | 
+
+So, your version is that, it was the Plaintiff who ran towards your motor van and bumped---knocked into your motor van. Is that correct?
+
+ |
+| 
+
+A
+
+ | 
+
+Yes.
+
+ |
+| 
+
+Q
+
+ | 
+
+But if we look at 2AB8, you said Plaintiff turned around after talking to his colleague and knocked onto the right rear portion of your vehicle and fell.
+
+ |
+| 
+
+Teo:
+
+ | 
+
+Where you reading for?
+
+ |
+| 
+
+Low:
+
+ | 
+
+2AB8, his police report.
+
+ |
+| 
+
+A
+
+ | 
+
+I wa---yes, I saw him talking to his colleague, then suddenly he just make the turn and just collide and then he just knocked onto the por---knocked onto the---my vehicle.
+
+ |
+| 
+
+Q
+
+ | 
+
+It’s not my point, it is in your police report. You not---did not say he ran towards your vehicle, but now you are telling the Court, you are saying the Plaintiff ran towards your vehicle.
+
+ |
+| 
+
+A
+
+ | 
+
+All along, in my police report, I told the police officer that he was the one who knocked onto my vehicle.
+
+ |
+| 
+
+Q
+
+ | 
+
+Okay. But you are now saying that he also ran towards your vehicle and knocked onto your vehicle. Is that correct?
+
+ |
+| 
+
+A
+
+ | 
+
+Yes, that’s my stand.
+
+ |
+| 
+
+Q
+
+ | 
+
+How did he knock into your vehicle?
+
+ |
+| 
+
+A
+
+ | 
+
+He was talking and suddenly he just turned around and knocked into my vehicle.
+
+ |
+| 
+
+Q
+
+ | 
+
+Are you saying that he threw his body onto your vehicle?
+
+ |
+| 
+
+A
+
+ | 
+
+His whole person turned and knocked onto my car---on---onto my vehicle.
+
+ |
+| 
+
+Q
+
+ | 
+
+Okay. So, your version now is he turned, ran and knocked onto your vehicle?
+
+ |
+| 
+
+A
+
+ | 
+
+He was talking to his colleague, he was moving backwards, and then suddenly he just turned and knocked onto my car---on---onto my vehicle.
+
+ |
+| 
+
+Q
+
+ | 
+
+Mr. Tan, now you are saying he did not run but---did he run or he---did he turn or walk backwards towards the \[inaudible\]?
+
+ |
+| 
+
+A
+
+ | 
+
+He was moving backwards, and then suddenly he turned and then knocked onto my vehicle.
+
+ |
+| 
+
+Q
+
+ | 
+
+So, all this awhile, were you still reversing your motor van into the compound of the workshop?
+
+ |
+| 
+
+A
+
+ | 
+
+After he collided onto my vehicle, I stopped.[^7]
+
+ |
 
   
   
@@ -98,17 +440,17 @@ AAround 1 metre.[^5]
 
 17     In closing submissions, Mr Teo had asked for 50% contribution against the plaintiff for failing to keep a proper look out for vehicles. Mr Teo relied on _Tan Siok Yee (suing by the committee of the person and estate of Liew Chee Kong_ v _Chong Voon Kee Ivan_ <span class="citation">\[2005\] SGHC 157</span> where the High Court found 50:50 in a case where a vehicle was reversing an unreasonable distance on a public road in order to use a just-vacated parking lot and struck a pedestrian who had stepped out from between parked vehicles onto the road. Justice Lai Siu Chiu’s reason for finding the plaintiff 50% contributorily negligent was that she had an equal duty as a pedestrian to mind her own welfare by keeping a watchful eye for vehicular traffic when she wished to step onto and cross the road, as may be gleaned from the following extract of the report:
 
-52    There is a corresponding duty on the part of pedestrians as road users as can be seen from the following passage (at para 9-231) from the same textbook:
+> 52    There is a corresponding duty on the part of pedestrians as road users as can be seen from the following passage (at para 9-231) from the same textbook:
 
-Where pedestrians seek to cross the road either near to or at places other than pedestrian crossings, they have no specific precedence and the responsibility for causing an accident more often than not will be shared between the pedestrian and the vehicle driver. Nevertheless, the court has held that a pedestrian may cross a road at ay point he chooses, provided that he takes reasonable care for his own safety. He is not obliged to cross over the road only at an adjacent or nearby light-controlled crossing \[see _Tremayne v Hill_ \[1987\] RTR 131\].
+>> Where pedestrians seek to cross the road either near to or at places other than pedestrian crossings, they have no specific precedence and the responsibility for causing an accident more often than not will be shared between the pedestrian and the vehicle driver. Nevertheless, the court has held that a pedestrian may cross a road at ay point he chooses, provided that he takes reasonable care for his own safety. He is not obliged to cross over the road only at an adjacent or nearby light-controlled crossing \[see _Tremayne v Hill_ \[1987\] RTR 131\].
 
-…
+>> …
 
-58    At the same time, I have no doubt that the first plaintiff was equally to blame. Counsel for the plaintiffs submitted that there was no evidence to support the conclusion put forth by the defendant’s closing submission that she had stepped suddenly into the road and that the first plaintiff had failed to exercise due caution for her own safety when she crossed the road. With respect, I disagree. Why else would she not have seen the car and a station wagon at that, being reversed?
+> 58    At the same time, I have no doubt that the first plaintiff was equally to blame. Counsel for the plaintiffs submitted that there was no evidence to support the conclusion put forth by the defendant’s closing submission that she had stepped suddenly into the road and that the first plaintiff had failed to exercise due caution for her own safety when she crossed the road. With respect, I disagree. Why else would she not have seen the car and a station wagon at that, being reversed?
 
-59    There is no provision in the Road Traffic Act (Cap 276, 1997 Rev Ed) or in its regulations or in our Highway Code (Cap 276, R 11, 1990 Rev Ed) that puts the onus solely on motorists to look out for pedestrians. At law, there is a corresponding duty on the part of pedestrians to watch out for oncoming traffic. Indeed, r 7 of the Highway Code specifically exhorts pedestrians not to step into the road suddenly without looking. According to ASP Lim, that duty equally applies in one-way streets. It also cannot be disputed that it is usually easier for a pedestrian to see a reversing vehicle than _vice versa_ (because every vehicle has its blind spots and a vehicle is a large object) unless the pedestrian’s view is blocked, or he or she is not alert.
+> 59    There is no provision in the Road Traffic Act (Cap 276, 1997 Rev Ed) or in its regulations or in our Highway Code (Cap 276, R 11, 1990 Rev Ed) that puts the onus solely on motorists to look out for pedestrians. At law, there is a corresponding duty on the part of pedestrians to watch out for oncoming traffic. Indeed, r 7 of the Highway Code specifically exhorts pedestrians not to step into the road suddenly without looking. According to ASP Lim, that duty equally applies in one-way streets. It also cannot be disputed that it is usually easier for a pedestrian to see a reversing vehicle than _vice versa_ (because every vehicle has its blind spots and a vehicle is a large object) unless the pedestrian’s view is blocked, or he or she is not alert.
 
-60    I have no doubt that the first plaintiff suddenly stepped out onto the road from the kerb on the left side of the road. She did so by making her way through a gap between the vehicles parked outside the coffee shop and failed to look out for traffic in the process. Otherwise, she could not have missed seeing the car being reversed by the defendant.
+> 60    I have no doubt that the first plaintiff suddenly stepped out onto the road from the kerb on the left side of the road. She did so by making her way through a gap between the vehicles parked outside the coffee shop and failed to look out for traffic in the process. Otherwise, she could not have missed seeing the car being reversed by the defendant.
 
 18     I did not think that it would be right to hold the plaintiff contributorily negligent in any degree. The _Tan Siok Yee_ case was distinguishable because it concerned an accident on a public road.
 

@@ -30,11 +30,11 @@ The accused person, a 44-year-old male Singaporean faces a total of 9 charges un
 
 5       On 12 August 2018 at about 2.40 p.m., the accused was arrested by Police officers from Jurong Police Divisional Headquarters for drug-related offences at Block 371 Bukit Batok Street 31 #01-322, Singapore. The police officers searched him and the following items were found and seized:
 
-a.     one straw and two packets containing granular substances (later marked “CSP-1”)
+> a.     one straw and two packets containing granular substances (later marked “CSP-1”)
 
-b.     one straw containing granular substances (later marked “CSP-2”), and
+> b.     one straw containing granular substances (later marked “CSP-2”), and
 
-c.     one piece of aluminium foil, one glass pipe, one glass piece, two straws and three rubber tubes.
+> c.     one piece of aluminium foil, one glass pipe, one glass piece, two straws and three rubber tubes.
 
 6       The accused was brought to the Jurong Police Divisional Headquarters for further investigation.
 
@@ -48,11 +48,11 @@ c.     one piece of aluminium foil, one glass pipe, one glass piece, two st
 
 9       On 26 August 2018 at 3.00 p.m., the accused was again arrested by the Police Officers from the same police division at Block 375 Bukit Batok Street 31 for drug-related offences. A search was conducted on him and the following items were found and seized:
 
-a.     three cut straws containing granular substances and nine coloured straws containing granular substances (later marked “C-1”)
+> a.     three cut straws containing granular substances and nine coloured straws containing granular substances (later marked “C-1”)
 
-b.     two packets containing crystalline substances (later marked “C-2”), and
+> b.     two packets containing crystalline substances (later marked “C-2”), and
 
-c.     three lighters, five coloured straws, one tube, one glass pipe and one improvised small bottle with two tubes attached (later marked “C-3”).
+> c.     three lighters, five coloured straws, one tube, one glass pipe and one improvised small bottle with two tubes attached (later marked “C-3”).
 
 10     The accused was then brought to the police division for further investigation.
 

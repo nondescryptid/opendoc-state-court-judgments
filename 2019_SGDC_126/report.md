@@ -56,51 +56,51 @@ Criminal Law - Penal Code Offences - Using Criminal Force on a Public Servant
 
 10     The first charge read as follows:
 
-You, MANFRED WU JING JIE, are charged that you, on 12 March 2016, sometime between 5.53am and 6.08am, at the vicinity of the bus stop near No. 402 Orchard Road, Delfi Orchard, Singapore, did used criminal force on Police Sergeant Muhammad Afiq Bin Saiful Bahry, a public servant, _to wit_, by pushing him repeatedly with intent to deter the said public servant from discharging his duty as such public servant, and you have thereby committed an offence punishable under s 353 of the Penal Code (Cap 224, 2008 Rev Ed).
+> You, MANFRED WU JING JIE, are charged that you, on 12 March 2016, sometime between 5.53am and 6.08am, at the vicinity of the bus stop near No. 402 Orchard Road, Delfi Orchard, Singapore, did used criminal force on Police Sergeant Muhammad Afiq Bin Saiful Bahry, a public servant, _to wit_, by pushing him repeatedly with intent to deter the said public servant from discharging his duty as such public servant, and you have thereby committed an offence punishable under s 353 of the Penal Code (Cap 224, 2008 Rev Ed).
 
 11     In essence, the accused’s defence against the 1st charge was that:
 
-(a)     The elements of the charge were not made out by the Prosecution because any physical contact made by the accused against Sgt Afiq was not occasioned to deter Sgt Afiq from discharging his duty as a public servant or at all. The arrest of the accused was as a result of a grudge by Cpl Muhamin against the accused which arose from their initial interaction; and further or in the alternative,
+> (a)     The elements of the charge were not made out by the Prosecution because any physical contact made by the accused against Sgt Afiq was not occasioned to deter Sgt Afiq from discharging his duty as a public servant or at all. The arrest of the accused was as a result of a grudge by Cpl Muhamin against the accused which arose from their initial interaction; and further or in the alternative,
 
-(b)     The accused did not possess the requisite _mens rea_ to commit to said offence against Sgt Afiq because he was so drunk or intoxicated at the material time that he could not have known what he was doing. There was a reasonable excuse for his behaviour as such.
+> (b)     The accused did not possess the requisite _mens rea_ to commit to said offence against Sgt Afiq because he was so drunk or intoxicated at the material time that he could not have known what he was doing. There was a reasonable excuse for his behaviour as such.
 
 12     At the trial, the accused did not challenge the voluntariness of the statements made by him (P15 and P19 –P21) but only as to the weight to be placed on the content of the long statement (P15). This was because the accused was so intoxicated at the material time when the statement was recorded that he was suffering from alcohol amnesia.
 
 13     The accused further did not challenge the facts as stated in the Statement of Facts which he had pleaded guilty to without qualification in respect of the 2nd and 3rd charges:
 
-2.    The complainant and victim is Sergeant Muhd Afiq Bin Saiful Bahry (“Sgt. Afiq”), a male police officer attached to Toa Payoh Neighbourhood Police Centre. He was performing standby duties with Cpl Ahmad Muhaimin (“Cpl. Muhaimin”) at the time of the incident.
+> 2.    The complainant and victim is Sergeant Muhd Afiq Bin Saiful Bahry (“Sgt. Afiq”), a male police officer attached to Toa Payoh Neighbourhood Police Centre. He was performing standby duties with Cpl Ahmad Muhaimin (“Cpl. Muhaimin”) at the time of the incident.
 
-3.    The witness is Cpl Muhaimin, a police officer attached to Toa Payoh Neighbourhood Police Centre. He was performing standby duties with Sgt. Afiq at the time of the incident.
+> 3.    The witness is Cpl Muhaimin, a police officer attached to Toa Payoh Neighbourhood Police Centre. He was performing standby duties with Sgt. Afiq at the time of the incident.
 
-4.    On the 12 March 2016, at about 05.57 am, Cpl.Muhaimin created a police message and informed, “E2P1C arresting one male subject for disorderly behaviour, criminal force against public servant and abusive language against public servant.” The incident location given was at No. 442 Orchard Road, Orchard Hotel Singapore 238879.
+> 4.    On the 12 March 2016, at about 05.57 am, Cpl.Muhaimin created a police message and informed, “E2P1C arresting one male subject for disorderly behaviour, criminal force against public servant and abusive language against public servant.” The incident location given was at No. 442 Orchard Road, Orchard Hotel Singapore 238879.
 
-Facts leading to the 2nd and 3rd Charges: MAC 902974-5/2016
+> Facts leading to the 2nd and 3rd Charges: MAC 902974-5/2016
 
-5.    Investigations revealed that on 12th March 2016, at about 03.30 a.m., Sgt. Afiq and his partner Cpl. Muhaimin were performing standby duties outside Club Sonar, at the vicinity of the bus stop near No. 402 Orchard Road, Delfi Orchard, Singapore.
+> 5.    Investigations revealed that on 12th March 2016, at about 03.30 a.m., Sgt. Afiq and his partner Cpl. Muhaimin were performing standby duties outside Club Sonar, at the vicinity of the bus stop near No. 402 Orchard Road, Delfi Orchard, Singapore.
 
-6.    Sometime between 5.15 a.m. and 6.00am, the police officers spotted the accused behaving in a disorderly manner by gesturing and raising his voice. He was also seen using vulgarities towards members of the public, shouting and gesticulating wildly. The accused was warned several times by Sgt. Afiq and Cpl. Muhaimin, and told to go home.
+> 6.    Sometime between 5.15 a.m. and 6.00am, the police officers spotted the accused behaving in a disorderly manner by gesturing and raising his voice. He was also seen using vulgarities towards members of the public, shouting and gesticulating wildly. The accused was warned several times by Sgt. Afiq and Cpl. Muhaimin, and told to go home.
 
-7.    Sgt. Afiq and Cpl. Ahmad gave multiple warnings given to the accused to keep the peace, but he carried on his behaviour. At about 06.01 a.m., Sgt. Afiq and Cpl. Ahmad decided to move in to arrest the accused.
+> 7.    Sgt. Afiq and Cpl. Ahmad gave multiple warnings given to the accused to keep the peace, but he carried on his behaviour. At about 06.01 a.m., Sgt. Afiq and Cpl. Ahmad decided to move in to arrest the accused.
 
-8.    On the 12th March 2016, at about 06.02 a.m., Sgt. Afiq and his partner Cpl. Ahmad were effecting arrest on the accused. During the arrest, the accused was uncooperative and resisted the arrest. The accused shouted in a mixture of Hokkien dialect (in italics) and the English language the words “Chee Bye, Fuck you” which means “Cunt, Fuck you” in the English language to Sgt. Afiq, who was executing his duty as a public servant at the said time.
+> 8.    On the 12th March 2016, at about 06.02 a.m., Sgt. Afiq and his partner Cpl. Ahmad were effecting arrest on the accused. During the arrest, the accused was uncooperative and resisted the arrest. The accused shouted in a mixture of Hokkien dialect (in italics) and the English language the words “Chee Bye, Fuck you” which means “Cunt, Fuck you” in the English language to Sgt. Afiq, who was executing his duty as a public servant at the said time.
 
 ## THE PROSECUTION’S CASE
 
 14     In the course of the trial, the Prosecution called upon seven witnesses to testify. They were:
 
-(i)     PW1 – Sergeant Muhd Afiq Bin Saiful Bahry (Victim – “Sgt Afiq”);
+> (i)     PW1 – Sergeant Muhd Afiq Bin Saiful Bahry (Victim – “Sgt Afiq”);
 
-(ii)     PW2 – Deputy Team Leader (DTL) Tan Eng Thiam Amos (Inspector of Police);
+> (ii)     PW2 – Deputy Team Leader (DTL) Tan Eng Thiam Amos (Inspector of Police);
 
-(iii)     PW3 – Dr Kenneth Heng Wei Jian (Tan Tock Seng Hospital \[TTSH\]: Accident and Emergency Department- “Dr Heng”);
+> (iii)     PW3 – Dr Kenneth Heng Wei Jian (Tan Tock Seng Hospital \[TTSH\]: Accident and Emergency Department- “Dr Heng”);
 
-(iv)     PW4 – Dr Yao Yi Ju (Laboratory and Division Director of the Analytical Toxicology Division, Health Sciences Authority \[HSA\]);
+> (iv)     PW4 – Dr Yao Yi Ju (Laboratory and Division Director of the Analytical Toxicology Division, Health Sciences Authority \[HSA\]);
 
-(v)     PW5 – Dr Guo Song (Psychiatrist at Institution of Mental Health \[IMH\]);
+> (v)     PW5 – Dr Guo Song (Psychiatrist at Institution of Mental Health \[IMH\]);
 
-(vi)     PW6 – Corporal Ahmad Muhaimin Amzar Bin Mohd Yusof (“Cpl Muhaimin” – Colleague of Sgt Afiq and on duty with the victim at the material time); and
+> (vi)     PW6 – Corporal Ahmad Muhaimin Amzar Bin Mohd Yusof (“Cpl Muhaimin” – Colleague of Sgt Afiq and on duty with the victim at the material time); and
 
-(vii)     PW7 – Assistant Superintendent of Police (ASP) Lionel Chee Zhen Liang (Investigation Officer \[“IO”\]).
+> (vii)     PW7 – Assistant Superintendent of Police (ASP) Lionel Chee Zhen Liang (Investigation Officer \[“IO”\]).
 
 15     Essentially, the evidence from the various witnesses dealt with the events which unfolded during the material night in question leading up to the arrest of the accused, the events subsequent to the arrest of the accused and the medical evidence pertaining to the level of intoxication of the accused and his mental state of mind during the incident.
 
@@ -126,53 +126,53 @@ Facts leading to the 2nd and 3rd Charges: MAC 902974-5/2016
 
 24     After 5 to 10 minutes later, a second commotion occurred. The accused was swearing vulgarities, even at the police officers, and his friends sought to cover his mouth. The accused’s friends apologised profusely and reassured the police officers that they would be able to handle the accused. This time round, the accused was able to approach the 2 police officers unaided, spoke to them and asked them where they were from. When Cpl Muhaimin was asked during examination-in-chief on the second commotion, he said the accused could even tell his friends that the police officers were just doing their job:
 
-QOkay, during this incident at the period of time from 5:26:3 hours, right? Right after when we stopped at 5:28:01. He informs the---his friends---that you are all just doing your job, right?
+> QOkay, during this incident at the period of time from 5:26:3 hours, right? Right after when we stopped at 5:28:01. He informs the---his friends---that you are all just doing your job, right?
 
-ACorrect, Ma’am.
+> ACorrect, Ma’am.
 
-QCould you recognise his friends?
+> QCould you recognise his friends?
 
-AYes, Ma’am.
+> AYes, Ma’am.
 
-QWas he calling some of them by name?
+> QWas he calling some of them by name?
 
-AUh, yah.
+> AUh, yah.
 
-QHe was, right?
+> QHe was, right?
 
-AYes.
+> AYes.
 
-QSo he’s able to walk unaided, he’s able to speak to you all, right?
+> QSo he’s able to walk unaided, he’s able to speak to you all, right?
 
-ACorrect, Ma’am.
+> ACorrect, Ma’am.
 
-QAnd ask where you all are from, that you’re just doing your job and he was able to recognise his friends?
+> QAnd ask where you all are from, that you’re just doing your job and he was able to recognise his friends?
 
-ACorrect, Ma’am.
+> ACorrect, Ma’am.
 
-QNow at that point of time, were you of the view that he was very highly intoxicated?
+> QNow at that point of time, were you of the view that he was very highly intoxicated?
 
-AUh, no.
+> AUh, no.
 
-QBut you felt the he was intoxicated?
+> QBut you felt the he was intoxicated?
 
-AYes, not highly, yah.
+> AYes, not highly, yah.
 
-QYou didn’t feel he was highly intoxicated?
+> QYou didn’t feel he was highly intoxicated?
 
-ANo---no, Ma’am.
+> ANo---no, Ma’am.
 
-QAnd why is that?
+> QAnd why is that?
 
-AHe---he’s able to walk straight and without any---friend support, yah.---
+> AHe---he’s able to walk straight and without any---friend support, yah.---
 
-QAnything else that you observed?
+> QAnything else that you observed?
 
-ACall it---call his friends’ names. He replied to all questions.
+> ACall it---call his friends’ names. He replied to all questions.
 
-QSo he could communicate with you all?
+> QSo he could communicate with you all?
 
-AYes---yes, Ma’am.
+> AYes---yes, Ma’am.
 
 25     After the accused assured them that he would be going and even shook their hands, they left the accused and his friends alone. Cpl Muhaimin and Sgt Afiq decided to keep an eye on the group from a distance.
 
@@ -184,105 +184,105 @@ AYes---yes, Ma’am.
 
 29     Despite that, Cpl Muhaimin said the duo tried to calm the accused down. They gave him a final warning and once again asked him to go home. Otherwise, they would have no alternative but to arrest him back to the police station. Unfortunately, the accused became emboldened by putting his hands out and challenging the police officers to arrest him:
 
-QHe asked you to arrest him, right?
+> QHe asked you to arrest him, right?
 
-ACorrect, Ma’am.
+> ACorrect, Ma’am.
 
-QAnd you all didn’t arrest him?
+> QAnd you all didn’t arrest him?
 
-AI did not.
+> AI did not.
 
-QWhy?
+> QWhy?
 
-ABecause we just want the matter to rest then---we just---
+> ABecause we just want the matter to rest then---we just---
 
-Qwanna resolve it?
+> Qwanna resolve it?
 
-AYah. Correct. Just by asking him to go back.
+> AYah. Correct. Just by asking him to go back.
 
-QAnd when you said, “you did nothing wrong” what do you mean? Because you’ve already seen him push your partner, right?
+> QAnd when you said, “you did nothing wrong” what do you mean? Because you’ve already seen him push your partner, right?
 
-ABecause we---we push ourselves to the limit. We really tried our best to just let him go back home safety. To resolve the matter.
+> ABecause we---we push ourselves to the limit. We really tried our best to just let him go back home safety. To resolve the matter.
 
-QOkay. But you knew that he had committed an offence when he pushed your partner?
+> QOkay. But you knew that he had committed an offence when he pushed your partner?
 
-ACorrect, Ma’am.
+> ACorrect, Ma’am.
 
-QBecause you said the words “criminal force”.
+> QBecause you said the words “criminal force”.
 
-ACorrect, Ma’am.
+> ACorrect, Ma’am.
 
-QThat was your words, right---in the footage.
+> QThat was your words, right---in the footage.
 
-ACorrect, Ma’am.
+> ACorrect, Ma’am.
 
-QSo you were just trying to get him to go back still--at this point?
+> QSo you were just trying to get him to go back still--at this point?
 
-AYes, Ma’am.
+> AYes, Ma’am.
 
-QAnd when you heard him talk to you, was he able to talk clearly---
+> QAnd when you heard him talk to you, was he able to talk clearly---
 
-AAh, yes---
+> AAh, yes---
 
-Qat this point?
+> Qat this point?
 
-Ayes, Ma’am.
+> Ayes, Ma’am.
 
-QWhen he said, “I’m not sorry” ---he could---still communicates with you all.
+> QWhen he said, “I’m not sorry” ---he could---still communicates with you all.
 
-ACorrect, Ma’am.
+> ACorrect, Ma’am.
 
-\---
+> \---
 
-QWell you saw him walking. How was he walking? How was his walk?
+> QWell you saw him walking. How was he walking? How was his walk?
 
-ALike a normal person. Like---
+> ALike a normal person. Like---
 
-QWas he staggering around? Could---he walk in a straight line?
+> QWas he staggering around? Could---he walk in a straight line?
 
-Astraight line, Ma’am.
+> Astraight line, Ma’am.
 
-QSo he didn’t need a help at this point?
+> QSo he didn’t need a help at this point?
 
-ANo.
+> ANo.
 
 30     Cpl Muhaimin added that as it was a weekend (Saturday early morning), patrol duty was busier along Orchard Road with more revellers. Notwithstanding that they kept having to attend to the accused, time and again, they encouraged him to go home. This included telling him that he “did nothing wrong” when they could have arrested him earlier but did not. In fact, Cpl Muhaimin told the accused’s friends at the scene that he had already committed an offence:
 
-QWhat did you say to---these are his 2 friends, is it?
+> QWhat did you say to---these are his 2 friends, is it?
 
-AAh, correct, Ma’am.
+> AAh, correct, Ma’am.
 
-QAnd what did you say to them?
+> QAnd what did you say to them?
 
-AUh, just give---resolve the matter ASAP amicably. Uh, he did an offence already of criminal force and disorderly---
+> AUh, just give---resolve the matter ASAP amicably. Uh, he did an offence already of criminal force and disorderly---
 
-QBehaviour.
+> QBehaviour.
 
-AYah. Correct.
+> AYah. Correct.
 
-QSo you already told them that---that he’s committed 2 offences.
+> QSo you already told them that---that he’s committed 2 offences.
 
-ACorrect, Ma’am.
+> ACorrect, Ma’am.
 
 Yet, the accused and his friends were still at the scene after 45 minutes. The accused simply refused to go home. His behaviour did not improve. He took off his shirt and was topless. He hurled vulgarities and showing the middle finger to the police officers.
 
 31     The final straw came when the accused started to have a heated quarrel with his girlfriend near to the bus stop. This was about 6.02am. The accused remained aggressive and foul-mouthed. He was talking loudly. Cpl Muhaimin and Sgt Afiq decided to approach the accused one more time to arrest him. Cpl Muhaimin said when asked for the reason for the arrest:
 
-Q45 minutes, right? Now, why did you all finally decide to arrest him? What was the trigger finally?
+> Q45 minutes, right? Now, why did you all finally decide to arrest him? What was the trigger finally?
 
-AHe was still aggressive and (clears throat) behaving rowdily.
+> AHe was still aggressive and (clears throat) behaving rowdily.
 
-QOkay. And why did you have to step in at the last point at 6:02? What was happening?
+> QOkay. And why did you have to step in at the last point at 6:02? What was happening?
 
-A\---uh, he wants to \[inaudible\] against the---the girlfriend.
+> A\---uh, he wants to \[inaudible\] against the---the girlfriend.
 
-QYah.
+> QYah.
 
-ASo we have to intervene to make sure everyone is safe.
+> ASo we have to intervene to make sure everyone is safe.
 
-QOkay. So there was a dispute going on between him and the girlfriend?
+> QOkay. So there was a dispute going on between him and the girlfriend?
 
-ACorrect, Ma’am.
+> ACorrect, Ma’am.
 
 32     The accused resisted the arrest by swearing at the policemen and Cpl Muhaimin saw the accused push Sgt Afiq on the shoulder.
 
@@ -304,31 +304,31 @@ ACorrect, Ma’am.
 
 39     This occurred at about 5.53am during a third commotion caused by the accused and his group. When asked during examination-in-chief what happened between Sgt Afiq and the accused which led to the first physical contact made by the accused:
 
-QWhat was happening here?
+> QWhat was happening here?
 
-AHe took a look at my nametag, Ma’am.
+> AHe took a look at my nametag, Ma’am.
 
-QWho took a look at your---
+> QWho took a look at your---
 
-AThe accused took a look at my nametag.
+> AThe accused took a look at my nametag.
 
-QNametag?
+> QNametag?
 
-AYes, correct.
+> AYes, correct.
 
-QAlright. And did you provide him your name?
+> QAlright. And did you provide him your name?
 
-AYes, correct, Ma’am, I provide him my name.
+> AYes, correct, Ma’am, I provide him my name.
 
-QOkay---
+> QOkay---
 
-**(Video started at 3:28:34pm)**
+> **(Video started at 3:28:34pm)**
 
-**(Video stopped at 3:28:41pm)**
+> **(Video stopped at 3:28:41pm)**
 
-QOkay, could you tell us what happened here?
+> QOkay, could you tell us what happened here?
 
-AThe accused pushed me on my chest area, Ma’am.
+> AThe accused pushed me on my chest area, Ma’am.
 
 40     In fact, the accused was talking loudly about going for reservist on Monday with the Police Force after looking at Sgt Afiq’s nametag when Sgt Afiq and Cpl Muhaimin approached him to intervene. They had asked him to leave or they would arrest him. The accused then challenged them, approached Sgt Afiq closely, pushed him on the chest and thereafter warned Sgt Afiq not to touch him.
 
@@ -336,13 +336,13 @@ AThe accused pushed me on my chest area, Ma’am.
 
 41     This was at about 6.02am when Sgt Afiq and Cpl Muhaimin decided to effect the arrest about 45 minutes later since the first commotion caused by the accused. By this time, the accused was topless. During the trial, when asked what happened, Sgt Afiq replied:
 
-QNow, at this point of time, could you tell us what happened?
+> QNow, at this point of time, could you tell us what happened?
 
-ABefore we effect the arrest, I was pushed on the shoulder area by the accused. So as such---we affected the arrest.
+> ABefore we effect the arrest, I was pushed on the shoulder area by the accused. So as such---we affected the arrest.
 
-QOkay, how many times did he push you during the arrest?
+> QOkay, how many times did he push you during the arrest?
 
-A\---during the arrest, once.
+> A\---during the arrest, once.
 
 42     It was Sgt Afiq’s evidence that the accused had deliberately pushed him on the chest near to the shoulder area just as they were about to effect the arrest. The arrest occurred at the bus stop. Prior to the arrest, the accused was having a heated quarrel with his girlfriend. Similar to Cpl Muhaimin’s evidence, Sgt Afiq indicated that the accused continued to be aggressive. This included shouting vulgarities at the police officers. That led to the arrest.
 
@@ -350,37 +350,37 @@ A\---during the arrest, once.
 
 43     This happened at about 6.07am after the accused was arrested. Backup was called by Sgt Afiq because the accused remained aggressive and foul-mouthed after the arrest. When asked what the accused did:
 
-QCould you tell us what happened at this point?
+> QCould you tell us what happened at this point?
 
-ASo while---while I was trying to send a message through the set, he used his head to push onto my chest area.
+> ASo while---while I was trying to send a message through the set, he used his head to push onto my chest area.
 
-**(Video started at 3:42:20pm)**
+> **(Video started at 3:42:20pm)**
 
-**(Video stopped at 3:43:01pm)**
+> **(Video stopped at 3:43:01pm)**
 
-QNow, at this point of time, more officers have arrived.
+> QNow, at this point of time, more officers have arrived.
 
-ACorrect, Ma’am, more officers have arrived.
+> ACorrect, Ma’am, more officers have arrived.
 
-QAnd the reason for that was because?
+> QAnd the reason for that was because?
 
-ABecause the accused was aggressive.
+> ABecause the accused was aggressive.
 
-QOkay, so what did you all do since he was so aggressive?
+> QOkay, so what did you all do since he was so aggressive?
 
-ASo we asked him to sit down at the seat area first while waiting for more officers to arrive.
+> ASo we asked him to sit down at the seat area first while waiting for more officers to arrive.
 
-QDid you all call for backup?
+> QDid you all call for backup?
 
-ABackup, correct.
+> ABackup, correct.
 
 44     In essence, Sgt Afiq testified that he had been trying to keep the accused in his custody and at the same time send a message to the Police HQ. It was during this time that he was hit at the chest by the accused’s head.
 
 45     Finally, when asked to confirm in evidence the number of times the accused had pushed him during the entire incident, Sgt Afiq replied:
 
-QOkay. Now during this entire incident, how many times did the accused push you?
+> QOkay. Now during this entire incident, how many times did the accused push you?
 
-AIt was three times, Ma’am.
+> AIt was three times, Ma’am.
 
 #### Video footage, table of events and location of the incident
 
@@ -396,71 +396,71 @@ AIt was three times, Ma’am.
 
 50     Sgt Afiq recollected that the accused was able to give his particulars to the police except that the alphabet of the NRIC no. was incorrect. He replied:
 
-QWhat is this number that he is giving to the police officer?
+> QWhat is this number that he is giving to the police officer?
 
-AHe provided his NRIC verbally to us.
+> AHe provided his NRIC verbally to us.
 
-QOkay. Are you aware whether the NRIC was correct---or incorrect?
+> QOkay. Are you aware whether the NRIC was correct---or incorrect?
 
-AAt that point of time, I was not aware, Ma’am.
+> AAt that point of time, I was not aware, Ma’am.
 
-QYou’re not aware?
+> QYou’re not aware?
 
-AYah.
+> AYah.
 
-QAre you aware now?
+> QAre you aware now?
 
-AYes, Ma’am. I was aware.
+> AYes, Ma’am. I was aware.
 
-QOkay. What is---is the number that he gave correct or incorrect, NRIC number?
+> QOkay. What is---is the number that he gave correct or incorrect, NRIC number?
 
-AThe number is correct, except for the alphabet at the end. It was wrong.
+> AThe number is correct, except for the alphabet at the end. It was wrong.
 
-QSo the number he provided, the NRIC number, how many times?
+> QSo the number he provided, the NRIC number, how many times?
 
-ATwice, Ma’am.
+> ATwice, Ma’am.
 
-QTwice?
+> QTwice?
 
-AYes.
+> AYes.
 
-QAnd the both times, it was correct?
+> QAnd the both times, it was correct?
 
-ACorrect. Both times---
+> ACorrect. Both times---
 
-QExcept for the alphabet?
+> QExcept for the alphabet?
 
-AExcept for the alphabet, it was---
+> AExcept for the alphabet, it was---
 
-QAlright.
+> QAlright.
 
-**(Video started at 3:56:31pm)**
+> **(Video started at 3:56:31pm)**
 
-**(Video stopped at 3:56:53pm)**
+> **(Video stopped at 3:56:53pm)**
 
-QOkay. At this point, the footage ends but you were present at that point of time?
+> QOkay. At this point, the footage ends but you were present at that point of time?
 
-AYes, Ma’am.
+> AYes, Ma’am.
 
-QWas he able to provide his full name, spell it out?
+> QWas he able to provide his full name, spell it out?
 
-AYes, Ma’am. He provided his full name and also, he spelled it out.
+> AYes, Ma’am. He provided his full name and also, he spelled it out.
 
-QAnd was it spelled---was it given correctly, his name---
+> QAnd was it spelled---was it given correctly, his name---
 
-ACorrect, Ma’am.
+> ACorrect, Ma’am.
 
-Q\---and spelling?
+> Q\---and spelling?
 
-AHe---the name and the spelling is given correctly.
+> AHe---the name and the spelling is given correctly.
 
-QDo you know why the footage ended at this point?
+> QDo you know why the footage ended at this point?
 
-AThe battery on the BWC it---it ran out of battery.
+> AThe battery on the BWC it---it ran out of battery.
 
-QRan out of battery?
+> QRan out of battery?
 
-ACorrect.
+> ACorrect.
 
 #### PW 2 – Deputy Team Leader (DTL) Tan Eng Thiam Amos (Inspector of Police)
 
@@ -468,21 +468,21 @@ ACorrect.
 
 52     Insp Tan testified in court that the accused was able to provide him with his name (including the correct spelling of his name), NRIC (without the prefix “S”) and telephone numbers as well as his address. The rest of page 1 of P4 was completed by Insp Tan. At that time, Insp Tan observed that whilst the accused was intoxicated and smelt of alcohol, he was aware of his surroundings:
 
-QOkay. Now, you were present when he was brought to the police station. From your observation, did he appear intoxicated?
+> QOkay. Now, you were present when he was brought to the police station. From your observation, did he appear intoxicated?
 
-AYes, Madam. He appeared intoxicated.
+> AYes, Madam. He appeared intoxicated.
 
-QNow, from your observation of the accused, did he appear to know that you and your colleagues were police officers and they\[sic\] were speaking to police officers at that point of time?
+> QNow, from your observation of the accused, did he appear to know that you and your colleagues were police officers and they\[sic\] were speaking to police officers at that point of time?
 
-AYes, Madam.
+> AYes, Madam.
 
-QAnd why do you say that?
+> QAnd why do you say that?
 
-AIt is because, earlier on, when I first step into the report lodging room, he was actually quite agitated. Then I actually introduced myself, ask him cool down. And he complied because he saw that I’m their supervisor. And subsequently, he allowed my officers to, actually, put on the grip restrain on him.
+> AIt is because, earlier on, when I first step into the report lodging room, he was actually quite agitated. Then I actually introduced myself, ask him cool down. And he complied because he saw that I’m their supervisor. And subsequently, he allowed my officers to, actually, put on the grip restrain on him.
 
-QOkay. So, from your observation, you thought that he was aware of his surroundings?
+> QOkay. So, from your observation, you thought that he was aware of his surroundings?
 
-AYes, Madam.
+> AYes, Madam.
 
 53     From the lock-up of the police station, the accused was thereafter brought to Tan Tock Seng Hospital (TTSH) for a medical examination by Sgt Afiq and two other police officers. Insp Tan explained that even though no visible injuries might have been found on the accused at that time, it was a police protocol that the accused should be medically examined for any injuries (as stated in P4) if necessary force had been used to effect the arrest of a person. Sgt Afiq recalled that the accused could have sustained some bleeding on in his lips during the incident.
 
@@ -494,15 +494,15 @@ AYes, Madam.
 
 56     As for alcohol intoxication, Dr Heng recorded that the accused had a steady gait and was able to do a normal straight line walking. His eyes were reactive to light and showed no nystagmus. There was neither slurring of or incoherence of speech. His clothes were intact. He also showed the following signs:
 
-(i)     Alcoholic breath;
+> (i)     Alcoholic breath;
 
-(ii)     Injected conjunctiva;
+> (ii)     Injected conjunctiva;
 
-(iii)     Pupillary size normal and equal;
+> (iii)     Pupillary size normal and equal;
 
-(iv)     Flushing of the face; and
+> (iv)     Flushing of the face; and
 
-(v)     Verboseness.
+> (v)     Verboseness.
 
 57     As the accused’s condition was good and he was unlikely to cause immediate danger to himself, he was discharged to the care of the police with no follow-up at 7.15am on the same day. A copy of the triage record (P5) for the TTSH A & E Department recorded by the triage nurse, Ella A Mariano, stated similar observations. Other than a superficial abrasion of his right middle finger knuckle and crust or dried blood on his lips with no source of bleeding, the accused was able to ambulate steadily and calm down when the police left the room.
 
@@ -536,9 +536,9 @@ AYes, Madam.
 
 70     The time difference between the incident and the blood collection was about 9 hours. As the blood alcohol elimination rate (also known as AER) can vary from person to person and even within the same person depending on factors like age, gender, body mass, frequency of consuming alcohol etc., the rate ranges from 9 to 29 mg/100ml/hour. As such, by applying the lower and upper limits of the AER, the possible range of the accused’s BAC at the time of the incident was estimated as follows:
 
-Lower limit of BAC = (9 hrs x 9mg/100ml/hr) + 104 ≈ 185mg/100ml
+> Lower limit of BAC = (9 hrs x 9mg/100ml/hr) + 104 ≈ 185mg/100ml
 
-Upper limit of BAC = (9hrs x 29mg/100ml/hr) + 104 ≈ 365mg/100ml
+> Upper limit of BAC = (9hrs x 29mg/100ml/hr) + 104 ≈ 365mg/100ml
 
 71     During examination-in-chief, Dr Yao testified that there is a confidence limit of 95% based on the calculations and this would include Asians who are known to have a lower AER than Westerners. The BAC of the accused would be the highest around 5 to 5.15am during the absorptive phase and it would start to decline around 5.30am onwards. The rate of decline would depend on the ability of the accused’s body in metabolising alcohol.
 
@@ -560,13 +560,13 @@ Upper limit of BAC = (9hrs x 29mg/100ml/hr) + 104 ≈ 365mg/100ml
 
 75     When Dr Yao was asked for her expert opinion as to the range of BAC the accused was exhibiting at the time of the incident, she estimated that it was between 180 to 250mg/100ml:
 
-QNow, in your expert opinion, right, what range of blood alcohol level the accused was exhibiting at the time of this incident when you looked at the footages?
+> QNow, in your expert opinion, right, what range of blood alcohol level the accused was exhibiting at the time of this incident when you looked at the footages?
 
-ABased on the symptoms, it appears that he might have blood alcohol of 180 to about 250, Your Honour, because of the overlap.
+> ABased on the symptoms, it appears that he might have blood alcohol of 180 to about 250, Your Honour, because of the overlap.
 
-….
+> ….
 
-ABecause most of the symptoms that I observed that he exhibited, comes from the category of “excitement” and “confusion”. Very little from “stupor”. So my estimation is, he is probably about 180 to about 250. But that is just an estimate, Your Honour.
+> ABecause most of the symptoms that I observed that he exhibited, comes from the category of “excitement” and “confusion”. Very little from “stupor”. So my estimation is, he is probably about 180 to about 250. But that is just an estimate, Your Honour.
 
 76     When she was asked about Dr Fone’s opinion that the BAC of the accused would have been at least 270mg/100ml by back counting to 11 hours from the time the blood sample was taken (i.e. from the time the accused had stopped consuming alcohol at 4am), Dr Yao said that this would be overestimating as the alcohol level was still climbing upward given that the body was still absorbing the alcohol.
 
@@ -598,11 +598,11 @@ ABecause most of the symptoms that I observed that he exhibited, comes from the 
 
 88     The Defence further called upon the following witnesses to testify on behalf of the accused:
 
-(i)     DW2 – Miss Isabel Melissa Peter (Friend of the accused) \[“Isabel”\];
+> (i)     DW2 – Miss Isabel Melissa Peter (Friend of the accused) \[“Isabel”\];
 
-(ii)     DW3 – Miss Liana Madhavan (Girlfriend of the accused) \[“Liana”\]; and
+> (ii)     DW3 – Miss Liana Madhavan (Girlfriend of the accused) \[“Liana”\]; and
 
-(iii)     DW4 – Dr Calvin Fones (Psychiatrist at Fones Clinic, Gleneagles Medical Centre) \[“Dr Fones”\].
+> (iii)     DW4 – Dr Calvin Fones (Psychiatrist at Fones Clinic, Gleneagles Medical Centre) \[“Dr Fones”\].
 
 89     Based on the video evidence, the accused did not deny that there had been physical contact against Sgt Afiq by the accused on at least two of the three occasions. His primary defence was that he was too heavily intoxicated to form an intention to physically deter Sgt Afiq from discharging his duty. He therefore had crossed the threshold of intoxication required in law for him to be exonerated from the offence.
 
@@ -622,141 +622,141 @@ ABecause most of the symptoms that I observed that he exhibited, comes from the 
 
 95     When asked by Defence counsel what was his last known memory of that day, he said:
 
-ASo, ---after I drink my last drink, um, I---prior to having my last drink, I remember my friends being there. So each and every one of them, I actually said hi and I spoke to them briefly in my---of course, uh, without much content. So I don’t remember exactly how did I leave the club, but I remember---having a squabble with a friend. And then I remember waking up at the side of the road because my face was smashed into the road. And next thing I know, I was---I woke up in a lock-up. That’s roughly what I remembered.
+> ASo, ---after I drink my last drink, um, I---prior to having my last drink, I remember my friends being there. So each and every one of them, I actually said hi and I spoke to them briefly in my---of course, uh, without much content. So I don’t remember exactly how did I leave the club, but I remember---having a squabble with a friend. And then I remember waking up at the side of the road because my face was smashed into the road. And next thing I know, I was---I woke up in a lock-up. That’s roughly what I remembered.
 
-\---
+> \---
 
-QAnd were all these---5 plus 3---yah, 8 people intact together right up to the time when you left Aura. Or did---people split earlier?
+> QAnd were all these---5 plus 3---yah, 8 people intact together right up to the time when you left Aura. Or did---people split earlier?
 
-AIt was more or less 8 of us there.
+> AIt was more or less 8 of us there.
 
-QThat means to say that when you left Aura, do you--- are you able to remember your girlfriend, Liana Madhavan, she left with you?
+> QThat means to say that when you left Aura, do you--- are you able to remember your girlfriend, Liana Madhavan, she left with you?
 
-AYes. That’s right.
+> AYes. That’s right.
 
-QRight? Was Ms. Isabel Peters also there when you---
+> QRight? Was Ms. Isabel Peters also there when you---
 
-AYah. That’s right.
+> AYah. That’s right.
 
-QWas Mr. Ryan Tan also there?
+> QWas Mr. Ryan Tan also there?
 
-AOh, sorry. Ryan and Armani left earlier.
+> AOh, sorry. Ryan and Armani left earlier.
 
-QOkay. So Ryan and Mohd Armani had left earlier.
+> QOkay. So Ryan and Mohd Armani had left earlier.
 
-AThat’s right.
+> AThat’s right.
 
-QRight. What about Mr. Shaazelee, Mr. Jeremy and their friends?
+> QRight. What about Mr. Shaazelee, Mr. Jeremy and their friends?
 
-AThey---they were around.
+> AThey---they were around.
 
-QThey were around.
+> QThey were around.
 
-AYes. That’s right.
+> AYes. That’s right.
 
-QOkay. Right up till the end.
+> QOkay. Right up till the end.
 
-AUh, no. Shaaz went off during the commotion.
+> AUh, no. Shaaz went off during the commotion.
 
-QYou remember Shaaz left during the commotion?
+> QYou remember Shaaz left during the commotion?
 
-AI was told that he left.
+> AI was told that he left.
 
-\---
+> \---
 
-QNow you were saying that from the time you came out, you remembered you had some squabbles.
+> QNow you were saying that from the time you came out, you remembered you had some squabbles.
 
-AYes---Sir.
+> AYes---Sir.
 
-QWho did you have a squabble or squabbles with?
+> QWho did you have a squabble or squabbles with?
 
-AIt was with ‘Christopher’, a friend of mine.
+> AIt was with ‘Christopher’, a friend of mine.
 
-QWho is ‘Christopher’? Was he drinking with you all earlier?
+> QWho is ‘Christopher’? Was he drinking with you all earlier?
 
-AUh, we bumped into him. At the club.
+> AUh, we bumped into him. At the club.
 
-QOkay. So he was an acquaintance who was also drinking in Aura.
+> QOkay. So he was an acquaintance who was also drinking in Aura.
 
-AThat’s right, Sir.
+> AThat’s right, Sir.
 
-QRight. Do you remember why you squabbled with him?
+> QRight. Do you remember why you squabbled with him?
 
-ANo, I do not.
+> ANo, I do not.
 
-QRight. And then do you remember what is the result of that squabble? Did you fight?
+> QRight. And then do you remember what is the result of that squabble? Did you fight?
 
-ANo, we did not fight, Sir.
+> ANo, we did not fight, Sir.
 
-QRight. Okay. Then there was an---you said that you---you fell. You landed on the road. You remember that?
+> QRight. Okay. Then there was an---you said that you---you fell. You landed on the road. You remember that?
 
-ABriefly, yes.
+> ABriefly, yes.
 
-QOkay. So can you tell us what you know? Was it on the road was it in the bush or was it in the van or what?
+> QOkay. So can you tell us what you know? Was it on the road was it in the bush or was it in the van or what?
 
-AI remember it was---is---at the side of the bus stop. I don’t remember what was said. I don’t remember hearing anything. I thought I was just---
+> AI remember it was---is---at the side of the bus stop. I don’t remember what was said. I don’t remember hearing anything. I thought I was just---
 
-QRight. You thought you lost your balance and fell?
+> QRight. You thought you lost your balance and fell?
 
-AIn some sorts, yes.
+> AIn some sorts, yes.
 
-QRight. And did you see when you woke up whether you had injuries resulting from that?
+> QRight. And did you see when you woke up whether you had injuries resulting from that?
 
-AYah. I was bleeding on my lips.
+> AYah. I was bleeding on my lips.
 
-QYou had blood on your lips?
+> QYou had blood on your lips?
 
-AThat’s right.
+> AThat’s right.
 
 96     The accused gave evidence that he could not remember anything else. When he woke up at the police lock-up, he remembered it was daytime. He felt groggy from the effects of alcohol and was in a state of shock. He said he did not know why he was there but he remembered giving consent for his blood sample to be taken, provided his statement to the police at 3pm (P15) and wrote and signed on the cautioned statements (P19 to P21) that day. He could not remember anything about P4.
 
 97     Having watched his behaviour in the video footage at the trial, when asked if he had intended to use criminal force on Sgt Afiq:
 
-QAlright. So we are looking at it---the video, right? Now, a corollary to hit is that, if---even if you did, that means even if there was contact that amounted to criminal force, Mr. Wu, were you able to---did you intend?
+> QAlright. So we are looking at it---the video, right? Now, a corollary to hit is that, if---even if you did, that means even if there was contact that amounted to criminal force, Mr. Wu, were you able to---did you intend?
 
-ANo, did not intend for all this.
+> ANo, did not intend for all this.
 
 98     When asked what event from the video footage he could remember, he said:
 
-Witness:    I---I had a recollection from being outside the club, okay, but I really had no recollection of speaking with the police or anything happening, so I would assume that I had started to have a blackout from then on, until my head was hit on the floor and I sort of---I was able to have some visions, but I don’t recall hearing any sounds or anything of that sort during that moment. And I don’t even remember going to the hospital, because when I was questioned by my previous lawyer, Mr. Sant Singh, I was---only then I found out that I went to the hospital.
+> Witness:    I---I had a recollection from being outside the club, okay, but I really had no recollection of speaking with the police or anything happening, so I would assume that I had started to have a blackout from then on, until my head was hit on the floor and I sort of---I was able to have some visions, but I don’t recall hearing any sounds or anything of that sort during that moment. And I don’t even remember going to the hospital, because when I was questioned by my previous lawyer, Mr. Sant Singh, I was---only then I found out that I went to the hospital.
 
 99     During cross-examination, when asked whether he could remember where he fell onto the road, he said:
 
-AWhen I was pinned on the floor and I could just see, this is what I could remember, was looking at Forum.
+> AWhen I was pinned on the floor and I could just see, this is what I could remember, was looking at Forum.
 
-QAt what, sorry, Forum?
+> QAt what, sorry, Forum?
 
-AForum---Shopping Centre.
+> AForum---Shopping Centre.
 
-Qyou remember being at the bus stop?
+> Qyou remember being at the bus stop?
 
-AYah, so that pieces---that piece together to say that I was at the bus stop.
+> AYah, so that pieces---that piece together to say that I was at the bus stop.
 
 100    At the same time, despite the fact that he said he was heavily intoxicated when he was talking to them, the accused suggested that Sgt Afiq and Cpl Muhaimin had a motive to arrest him but they did not know what to arrest him for or were waiting for an opportunity to do so:
 
-Q\---In that 15 minutes, tell the Court your conclusion from their recorded conversation. Were they---refraining from arresting you, or were they waiting for an excuse to arrest you---
+> Q\---In that 15 minutes, tell the Court your conclusion from their recorded conversation. Were they---refraining from arresting you, or were they waiting for an excuse to arrest you---
 
-ASorry about that. Um, my fe---feels like, um, they’re not sure what they can arrest me for---
+> ASorry about that. Um, my fe---feels like, um, they’re not sure what they can arrest me for---
 
-QRight.
+> QRight.
 
-Aand they’re not sure if I’ve done anything enough for them to arrest me. So, they were discussing and, yah, like you said, they were wait---sort of waiting.
+> Aand they’re not sure if I’ve done anything enough for them to arrest me. So, they were discussing and, yah, like you said, they were wait---sort of waiting.
 
-QRight, so at the end of the day, Prosecution has put to you their position that the Prosecution were---the---the police were very tolerant with you, they want to---only want you to go home and they were refraining from---they did not want to arrest you for 45 minutes, do you agree with that position?
+> QRight, so at the end of the day, Prosecution has put to you their position that the Prosecution were---the---the police were very tolerant with you, they want to---only want you to go home and they were refraining from---they did not want to arrest you for 45 minutes, do you agree with that position?
 
-ASo---sorry, can you repeat the, can---could you repeat the question?
+> ASo---sorry, can you repeat the, can---could you repeat the question?
 
-QYes, you see the Prosecution has put to you their position that the police that night or that early that morning for 45 minutes, they were patient. They wanted you to go home only. Therefore, they didn’t want to arrest you. Do you agree that that is so?
+> QYes, you see the Prosecution has put to you their position that the police that night or that early that morning for 45 minutes, they were patient. They wanted you to go home only. Therefore, they didn’t want to arrest you. Do you agree that that is so?
 
-AMe---I don’t agree to a certain extent.
+> AMe---I don’t agree to a certain extent.
 
-QRight?
+> QRight?
 
-AYah.---Um, like he’s morphing stuff, he’s morphing, um, charges and he’s planting a stigma in, uh, of me in him. So---
+> AYah.---Um, like he’s morphing stuff, he’s morphing, um, charges and he’s planting a stigma in, uh, of me in him. So---
 
-QSo that suggests to you what?
+> QSo that suggests to you what?
 
-AThat he is actually looking for opportunity in the end.
+> AThat he is actually looking for opportunity in the end.
 
 #### DW 2 – Miss Isabel Melissa Peter
 
@@ -824,15 +824,15 @@ AThat he is actually looking for opportunity in the end.
 
 129    Based on self-reporting, the accused informed Dr Fones that his last conscious and continuous memory was at approximately 2am on 12 March 2016. Thereafter, his scattered memory included recollections of:
 
-(i)     subjective frustrations as he was surrendered by his friends who were crowding around him and asked if he was “OK”;
+> (i)     subjective frustrations as he was surrendered by his friends who were crowding around him and asked if he was “OK”;
 
-(ii)     boarding his girlfriend’s car and alighting shortly thereafter to vomit;
+> (ii)     boarding his girlfriend’s car and alighting shortly thereafter to vomit;
 
-(iii)     wandering about the vicinity albeit unsteadily;
+> (iii)     wandering about the vicinity albeit unsteadily;
 
-(iv)     being held down by someone and his face was against the floor, resulting in him feeling shaken; and
+> (iv)     being held down by someone and his face was against the floor, resulting in him feeling shaken; and
 
-(v)     being hauled out of the police patrol vehicle upon arriving at a hospital.
+> (v)     being hauled out of the police patrol vehicle upon arriving at a hospital.
 
 130    Dr Fones recorded that the accused last regained his full memory or consciousness in the lock-up at the police station as it was already bright in the day. He remembered having his statement recorded and was informed of the charges he was going to face. The accused, too, consented to providing his blood sample and was cooperative throughout.
 
@@ -840,9 +840,9 @@ AThat he is actually looking for opportunity in the end.
 
 132    According to the AER rate used by Dr Fones, the range of BAC of the accused at the time of the incident would have been:
 
-(15mg x 11 hours) + 104 = 269mg/100ml
+> (15mg x 11 hours) + 104 = 269mg/100ml
 
-(20mg x 11 hours) + 104 = 324mg/100ml
+> (20mg x 11 hours) + 104 = 324mg/100ml
 
 133    Therefore, Dr Fones was of the view that the accused would have a BAC of at least 270mg/100ml during his intoxicated state. This was further validated by the accused’s own account that he ate very little food prior to drinking and he had consumed a considerable volume of various types of alcoholic beverage during his drinking session that night.
 
@@ -850,29 +850,29 @@ AThat he is actually looking for opportunity in the end.
 
 135    During examination-in-chief, when asked about his opinion of the accused’s state of mind as at the time of the incident, he replied:
 
-Q\---Dr. Fones. But I just want you to articulate. At the end of your assessment of Mr. Wu and after studying the documents that were provided to you, what was your opinion as to Mr. Wu’s state of mind at the time of the incident?
+> Q\---Dr. Fones. But I just want you to articulate. At the end of your assessment of Mr. Wu and after studying the documents that were provided to you, what was your opinion as to Mr. Wu’s state of mind at the time of the incident?
 
-AIn brief, um, I’m of the ---opinion that Mr. Wu was suffering from, um, alcohol intoxication at, uh, level which was, um, rather high, estimated at---at least 200 to 300 milligrams per 100ml. Hence, leading to a state of confusion as well as, uh, behavioural disinhibition, all of which contributed to his actions at that point in time.
+> AIn brief, um, I’m of the ---opinion that Mr. Wu was suffering from, um, alcohol intoxication at, uh, level which was, um, rather high, estimated at---at least 200 to 300 milligrams per 100ml. Hence, leading to a state of confusion as well as, uh, behavioural disinhibition, all of which contributed to his actions at that point in time.
 
-QRight. I’ll come---
+> QRight. I’ll come---
 
-APertaining to the memory part, um, I have also opined that, uh, he had, um, amnesia, uh, i.e., a memory loss for events that occurred during the material time.
+> APertaining to the memory part, um, I have also opined that, uh, he had, um, amnesia, uh, i.e., a memory loss for events that occurred during the material time.
 
 136    During cross-examination, Dr Fones agreed that he could accept Dr Yao’s opinion that the accused’s BAC level was within the range of 180-250mg/100ml of blood based on back counting of his blood sample taken at the police station as well as the symptoms exhibited by him during the period of the incident. Moreover, Dr Fones agreed that he is not a forensic toxicologist like Dr Yao.
 
 137    Based on the clinical and corroborative anecdotal evidence before him, Dr Fones was of the view that the accused’s mental state had been affected at the material time of him committing the offences on 12 March 2016 due to his alcohol intoxication. As he was experiencing an alcohol-induced blackout, the accused was inebriated to an extent which severely undermined his self-regulatory and self-monitoring mechanisms, situational awareness and better judgment. Yet, Dr Fones said the accused was still able to retain certain basic memory functions, particularly memory formed before the incident, despite his level of intoxication:
 
-QNow, my question is that, wouldn’t the conduct of the accused person stated in paragraph 3 of P30---
+> QNow, my question is that, wouldn’t the conduct of the accused person stated in paragraph 3 of P30---
 
-AMmm hmm.
+> AMmm hmm.
 
-Qbe indicative that the person that, in this case doc---Mr. Wu, knew what he was doing as he was able to ask the police to show ID, he was able to apologise to the police, he was able to walk a considerable distance and that he was able to ask for his lawyer, he was able to provide his name and he was able to, both at the police station at and---at the hospital?
+> Qbe indicative that the person that, in this case doc---Mr. Wu, knew what he was doing as he was able to ask the police to show ID, he was able to apologise to the police, he was able to walk a considerable distance and that he was able to ask for his lawyer, he was able to provide his name and he was able to, both at the police station at and---at the hospital?
 
-AUm, I think these, uh, footages, uh, may illustrate that, um, he still retains certain basic functions at a most basic level he was still able to walk. He was still able to, um, answer simple questions, uh, and obey simple instructions. Um, however, it does not automatically, uh---uh, um, suggest that, um, he is able to form intent or is able to understand, uh, what other aspects of his behaviour, uh, may actually be involved in.
+> AUm, I think these, uh, footages, uh, may illustrate that, um, he still retains certain basic functions at a most basic level he was still able to walk. He was still able to, um, answer simple questions, uh, and obey simple instructions. Um, however, it does not automatically, uh---uh, um, suggest that, um, he is able to form intent or is able to understand, uh, what other aspects of his behaviour, uh, may actually be involved in.
 
-QCorrect. And this will also relate to your earlier opinion that memory formed before the incident should be retained. So---so like, for example, his name, his address, his identity card number these are---
+> QCorrect. And this will also relate to your earlier opinion that memory formed before the incident should be retained. So---so like, for example, his name, his address, his identity card number these are---
 
-ACorrect.
+> ACorrect.
 
 138    In summary, having considered the evidence before him, the BAC level of the accused at that material time and his interaction with the accused, Dr Fones was of the view that the accused was suffering from both fragmentary and at certain points, en bloc amnesia, last for a couple of hours during the incident. This was consistent with the clinical symptoms and behaviour which the accused had exhibited at the material time.
 
@@ -880,21 +880,21 @@ ACorrect.
 
 139    Section 353 of the PC states:
 
-**Using criminal force to deter a public servant from discharge of his duty**
+> **Using criminal force to deter a public servant from discharge of his duty**
 
-353.  Whoever assaults or _uses criminal force to any person being a public servant in the execution of his duty as such public servant, or with intent to prevent or deter that person from discharging his duty_ as such public servant, or in consequence of anything done or attempted to be done by such person in the lawful discharge of his duty as such public servant, shall be punished with imprisonment for a term which may extend to 4 years, or with fine, or with both. \[Emphasis\]
+> 353.  Whoever assaults or _uses criminal force to any person being a public servant in the execution of his duty as such public servant, or with intent to prevent or deter that person from discharging his duty_ as such public servant, or in consequence of anything done or attempted to be done by such person in the lawful discharge of his duty as such public servant, shall be punished with imprisonment for a term which may extend to 4 years, or with fine, or with both. \[Emphasis\]
 
 140    In the case of _Goh Ang Huat v PP_ <span class="citation">\[1996\] 3 SLR(R) 1</span> (_“Goh Ang Huat”_), the High Court held at \[12\] and \[13\] that:
 
-\[12\]  To convict on a s 353 charge, the following ingredients must be proved:
+> \[12\]  To convict on a s 353 charge, the following ingredients must be proved:
 
-(a)    that the victim of the criminal force was a public servant;
+>> (a)    that the victim of the criminal force was a public servant;
 
-(b)    that the accused used criminal force to such public servant;
+>> (b)    that the accused used criminal force to such public servant;
 
-(c)    that the accused used criminal force on the public servant when the latter was in the execution of his duty as such public servant.
+>> (c)    that the accused used criminal force on the public servant when the latter was in the execution of his duty as such public servant.
 
-\[13\]  Dealing with the first and third ingredients of the offence together, the question was whether, at the time of the incident, the complainant was a public servant in the execution of his duty. In this regard, it was also significant whether, at the relevant time, the complainant was acting lawfully in stopping the appellant.
+> \[13\]  Dealing with the first and third ingredients of the offence together, the question was whether, at the time of the incident, the complainant was a public servant in the execution of his duty. In this regard, it was also significant whether, at the relevant time, the complainant was acting lawfully in stopping the appellant.
 
 141    Both the Prosecution and Defence were in agreement that the material time of the incident, the victim was a public servant and was in the execution of his duty as such a public servant.
 
@@ -902,51 +902,51 @@ ACorrect.
 
 143    “Criminal force” is defined under s350 of the PC as:
 
-350.  Whoever intentionally uses force to any person, without that person's consent, in order to cause the committing of any offence, or intending by the use of such force illegally to cause, or knowing it to be likely that by the use of such force he will illegally cause injury, fear or annoyance to the person to whom the force is used, is said to use criminal force to that other.
+> 350.  Whoever intentionally uses force to any person, without that person's consent, in order to cause the committing of any offence, or intending by the use of such force illegally to cause, or knowing it to be likely that by the use of such force he will illegally cause injury, fear or annoyance to the person to whom the force is used, is said to use criminal force to that other.
 
 144    Force is further defined under s349 of the PC as:
 
-349.  A person is said to use force to another if _he causes motion, change of motion, or cessation of motion to that other_, or if he causes to any substance such motion, or change of motion, or cessation of motion as brings that substance into contact with any part of that other’s body, or with anything which that other is wearing or carrying, or with anything so situated that such contact affects that other’s sense of feeling:
+> 349.  A person is said to use force to another if _he causes motion, change of motion, or cessation of motion to that other_, or if he causes to any substance such motion, or change of motion, or cessation of motion as brings that substance into contact with any part of that other’s body, or with anything which that other is wearing or carrying, or with anything so situated that such contact affects that other’s sense of feeling:
 
-_Provided that the person causing the motion, or change of motion, or cessation of motion, causes that motion, change of motion, or cessation of motion in one of the following 3 ways:_
+>> _Provided that the person causing the motion, or change of motion, or cessation of motion, causes that motion, change of motion, or cessation of motion in one of the following 3 ways:_
 
-(_a_)     _by his own bodily power_;
+>>> (_a_)     _by his own bodily power_;
 
-(b)    by disposing any substance in such a manner that the motion, or change or cessation of motion, takes place without any further act on his part, or on the part of any other person;
+>>> (b)    by disposing any substance in such a manner that the motion, or change or cessation of motion, takes place without any further act on his part, or on the part of any other person;
 
-(c)    by inducing any animal to move, to change its motion, or to cease to move. \[Emphasis added\]
+>>> (c)    by inducing any animal to move, to change its motion, or to cease to move. \[Emphasis added\]
 
 145    Chief Justice Yong Pung How held at \[21\] in _Goh Ang Huat_ that the definition of criminal force is so wide that this includes a “force of almost every description of which a person is the ultimate object”.
 
 146    In respect of the accused’s defence of intoxication, sections 85 and 86 of the PC state:
 
-**Intoxication when a defence**
+> **Intoxication when a defence**
 
-85.-(1)    Except as provided in this section and in section 86, intoxication shall not constitute a defence to any criminal charge.
+> 85.-(1)    Except as provided in this section and in section 86, intoxication shall not constitute a defence to any criminal charge.
 
-(2)    Intoxication shall be a defence to any criminal charge if by reason thereof the person charged at the time of the act or omission complained of did not know that such act or omission was wrong or did not know what he was doing and -
+> (2)    Intoxication shall be a defence to any criminal charge if by reason thereof the person charged at the time of the act or omission complained of did not know that such act or omission was wrong or did not know what he was doing and -
 
-(a)    the state of intoxication was caused without his consent by the malicious or negligent act of another person; or
+>> (a)    the state of intoxication was caused without his consent by the malicious or negligent act of another person; or
 
-(b)    the person charged was, by reason of intoxication, insane, temporarily or otherwise, at the time of such act or omission.
+>> (b)    the person charged was, by reason of intoxication, insane, temporarily or otherwise, at the time of such act or omission.
 
-**Effect of defence of intoxication when established**
+> **Effect of defence of intoxication when established**
 
-86.-(1)    Where the defence under section 85 is established, then in a case falling under section 85(2)(a) the accused person shall be acquitted, and in a case falling under section 85(2)(b), section 84 of this Code and sections 251 and 252 of the Criminal Procedure Code 2010 shall apply.
+> 86.-(1)    Where the defence under section 85 is established, then in a case falling under section 85(2)(a) the accused person shall be acquitted, and in a case falling under section 85(2)(b), section 84 of this Code and sections 251 and 252 of the Criminal Procedure Code 2010 shall apply.
 
-(_2_)     _Intoxication shall be taken into account for the purpose of determining whether the person charged had formed any intention, specific or otherwise, in the absence of which he would not be guilty of the offence._ \[Emphasis added\]
+> (_2_)     _Intoxication shall be taken into account for the purpose of determining whether the person charged had formed any intention, specific or otherwise, in the absence of which he would not be guilty of the offence._ \[Emphasis added\]
 
 147    Both the Prosecution and Defence agreed that the accused had voluntarily consumed alcohol on 12 March 2016 and he was not medically certified as “insane”, whether temporarily or otherwise, by reason of his intoxication at the material time. Accordingly, both parties agreed that any defence of intoxication that could possibly be raised by the accused would have to be pursuant to s86(2) of the PC, where the intoxication prevented the accused from forming the requisite _mens rea_ of the offence in question.
 
 148    The requirements for invoking the defence of intoxication under s86(2) of the PC have been enunciated in the Court of Appeal decision of _Tan Chor Jin v PP_ \[2008\] 4 SLR (R) 319 at \[27\]:
 
-\[27\]  We turn now to s 86(2) of the Penal Code, which is the last of the three avenues through which intoxication may be raised as a defence (see \[17\] above). Two requirements must be met before this subsection can be successfully invoked. _First, the accused must show evidence of his intoxication. In this regard, objective evidence of the accused's level of intoxication is crucial_ (see Jin Yugang v PP <span class="citation">\[2003\] SGCA 22</span> at \[32\]). _Second, even if the accused can prove that he had consumed a considerable amount of alcohol, the surrounding facts must show that he was so intoxicated that he could not form the intention which is a necessary element of the alleged offence_ (see Mohd Sulaiman v PP <span class="citation">\[1994\] 2 SLR(R) 528</span>("Mohd Sulaiman") at \[31\]). \[Emphasis added\]
+> \[27\]  We turn now to s 86(2) of the Penal Code, which is the last of the three avenues through which intoxication may be raised as a defence (see \[17\] above). Two requirements must be met before this subsection can be successfully invoked. _First, the accused must show evidence of his intoxication. In this regard, objective evidence of the accused's level of intoxication is crucial_ (see Jin Yugang v PP <span class="citation">\[2003\] SGCA 22</span> at \[32\]). _Second, even if the accused can prove that he had consumed a considerable amount of alcohol, the surrounding facts must show that he was so intoxicated that he could not form the intention which is a necessary element of the alleged offence_ (see Mohd Sulaiman v PP <span class="citation">\[1994\] 2 SLR(R) 528</span>("Mohd Sulaiman") at \[31\]). \[Emphasis added\]
 
 149    The Court of Appeal also commented at \[14\] in relation to ss85 and 86 of the PC:
 
-\[14\]  It has been rightly observed (in K L Koh, CMV Clarkson & NA Morgan, _Criminal Law in Singapore and Malaysia: Text and Materials (Malayan Law Journal Pte Ltd, 1989) (“Koh, Clarkson & Morgan”))_ that from the perspective of criminal responsibility (at p232):
+> \[14\]  It has been rightly observed (in K L Koh, CMV Clarkson & NA Morgan, _Criminal Law in Singapore and Malaysia: Text and Materials (Malayan Law Journal Pte Ltd, 1989) (“Koh, Clarkson & Morgan”))_ that from the perspective of criminal responsibility (at p232):
 
-\[A\] person who commits a crime when involuntarily intoxicated should not be blameworthy while one who voluntarily gets into a state of intoxication should be responsible for his acts.
+>> \[A\] person who commits a crime when involuntarily intoxicated should not be blameworthy while one who voluntarily gets into a state of intoxication should be responsible for his acts.
 
 150    With the elements of the offence as well the requirements of the accused’s defence of intoxication in mind, I shall now analyse the evidence presented before me.
 
@@ -954,11 +954,11 @@ _Provided that the person causing the motion, or change of motion, or cessation 
 
 151    The issues before the court were:
 
-(a)     Whether the accused had made physical contact with Sgt Afiq by pushing him such that it amounted to using criminal force on a public servant when Sgt Afiq was executing his duty as a public servant;
+> (a)     Whether the accused had made physical contact with Sgt Afiq by pushing him such that it amounted to using criminal force on a public servant when Sgt Afiq was executing his duty as a public servant;
 
-(b)     Whether the accused had the requisite intention to use criminal force on Sgt Afiq at the material time because he was drunk or was in an intoxicating state; and
+> (b)     Whether the accused had the requisite intention to use criminal force on Sgt Afiq at the material time because he was drunk or was in an intoxicating state; and
 
-(c)     Should the accused’s reason that he was drunk at the material time be accepted as a reasonable excuse for his actions against the policeman in any event.
+> (c)     Should the accused’s reason that he was drunk at the material time be accepted as a reasonable excuse for his actions against the policeman in any event.
 
 ### Was there an act of criminal force committed by the accused on Sgt Afiq
 
@@ -978,71 +978,71 @@ _Provided that the person causing the motion, or change of motion, or cessation 
 
 158    During cross-examination of Sgt Afiq, when put to him that even if there had been a contact between the accused and him, this did not deter Sgt Afiq from performing his duty as a public servant, he disagreed:
 
-QThere was contact. First contact at 5.53, I am---my case is that he was drawing your attention, not to deter you from performing your duty, because you were not doing anything in connection with him at that time.
+> QThere was contact. First contact at 5.53, I am---my case is that he was drawing your attention, not to deter you from performing your duty, because you were not doing anything in connection with him at that time.
 
-AI disagree, Sir. We were trying to separate the parties. I’m just asking the friend to bring him home. So that’s my duty to keep peace at that place.
+> AI disagree, Sir. We were trying to separate the parties. I’m just asking the friend to bring him home. So that’s my duty to keep peace at that place.
 
 159    During cross-examination, based on P1 and P2, IO Chee also disagreed that it did not amount to a push:
 
-AI disagree.
+> AI disagree.
 
-QYou disagree and what is your interpretation?
+> QYou disagree and what is your interpretation?
 
-A\---as police officers sometimes we do get engage with drunk subjects. This is a common part of the job.
+> A\---as police officers sometimes we do get engage with drunk subjects. This is a common part of the job.
 
-QRight.
+> QRight.
 
-A\---I think is quite evident to see that Manfred was advancing towards---Sergeant Afiq. I believe Sergeant Afiq’s hand was placed there to prevent him from coming any nearer. Subsequently, um, the accused went to push ---Sergeant Afiq’s hand.
+> A\---I think is quite evident to see that Manfred was advancing towards---Sergeant Afiq. I believe Sergeant Afiq’s hand was placed there to prevent him from coming any nearer. Subsequently, um, the accused went to push ---Sergeant Afiq’s hand.
 
-\---
+> \---
 
-Qbut I am submitting to you---that means I’m putting to you, Mr. Lionel that it can hardly be called a push, it cannot be called a push.
+> Qbut I am submitting to you---that means I’m putting to you, Mr. Lionel that it can hardly be called a push, it cannot be called a push.
 
-AI disagree.
+> AI disagree.
 
 160    When Defence counsel asked Cpl Muhaimin if the first contact was as a result of the accused trying to brush Sgt Afiq’s hand away since Sgt Afiq had raised his hand to reach for the accused’s shoulder’s first:
 
-QAlright. That---that is the episode, right? I---in my interpretation is that---they were facing each other but they were not looking at each other. ---Afiq was not looking at him, right? And then Afiq raised his hand---to reach for his shoulder and then he brushed it away. You agree?
+> QAlright. That---that is the episode, right? I---in my interpretation is that---they were facing each other but they were not looking at each other. ---Afiq was not looking at him, right? And then Afiq raised his hand---to reach for his shoulder and then he brushed it away. You agree?
 
-AI disagree because, um, he came near to us. We were carrying arms so we are afraid that he might just attack.
+> AI disagree because, um, he came near to us. We were carrying arms so we are afraid that he might just attack.
 
-QYah---
+> QYah---
 
-AAnything possible---
+> AAnything possible---
 
-Qthe arms is at the---waist, right? So his hands are actually---at the chest.
+> Qthe arms is at the---waist, right? So his hands are actually---at the chest.
 
-A\---there are many incidents happened. They just grabbed our arms and just do anything. So to be aware we have to like move---keep step---a distance away from the subject. But he---
+> A\---there are many incidents happened. They just grabbed our arms and just do anything. So to be aware we have to like move---keep step---a distance away from the subject. But he---
 
-QOkay, that’s your explanation---
+> QOkay, that’s your explanation---
 
-ACorrect.
+> ACorrect.
 
 161    After the first contact, when asked during re-examination why he said that to the accused that “he did nothing wrong”, Cpl Muhaimin explained that they were just trying to get the accused to go home:
 
-QWhat was the 2nd offence he had committed?
+> QWhat was the 2nd offence he had committed?
 
-A(clears throat). The---push---
+> A(clears throat). The---push---
 
-QYah. The push with---to your partner, right?
+> QYah. The push with---to your partner, right?
 
-AYes, Ma’am.
+> AYes, Ma’am.
 
-QBut you told him no offence was committed?
+> QBut you told him no offence was committed?
 
-AYes, Ma’am.
+> AYes, Ma’am.
 
-QAnd you explained yesterday why.
+> QAnd you explained yesterday why.
 
-AYah.
+> AYah.
 
-QWhy were you trying---why were you telling him no offence was committed?
+> QWhy were you trying---why were you telling him no offence was committed?
 
-AI just want to out---I just want him to just go home, yah.
+> AI just want to out---I just want him to just go home, yah.
 
-QJust go home.
+> QJust go home.
 
-AYah. Give--- him chance.
+> AYah. Give--- him chance.
 
 Besides, as could be seen from the video, the accused’s friends were urging them to arrest the accused for his behaviour. Nonetheless, Cpl Muhaimin told them to send the accused home in a car quickly to avoid any more commotions.
 
@@ -1052,43 +1052,43 @@ Besides, as could be seen from the video, the accused’s friends were urging th
 
 164    When asked during re-examination whether this could have been an accidental contact by the accused during the arrest and this would not have deterred him from performing his duty as a public servant in any event, Sgt Afiq replied:
 
-AWhen we approached him, he was quite aggressive. So as such, that’s why, we---and that we---necessary force was used and also we landed on the road as well.
+> AWhen we approached him, he was quite aggressive. So as such, that’s why, we---and that we---necessary force was used and also we landed on the road as well.
 
-\---
+> \---
 
-Q\---And this---and incident happened to you, did you feel the accused pushing you during the time that you were trying to arrest him?
+> Q\---And this---and incident happened to you, did you feel the accused pushing you during the time that you were trying to arrest him?
 
-AYes, Ma’am. At that point of time, I did feel the push.
+> AYes, Ma’am. At that point of time, I did feel the push.
 
-QYou felt him push you?
+> QYou felt him push you?
 
-ACorrect.
+> ACorrect.
 
-QDid you think it was an accidental touch?
+> QDid you think it was an accidental touch?
 
-AI don’t believe so, Ma’am.
+> AI don’t believe so, Ma’am.
 
-QSo you felt a positive push towards you---
+> QSo you felt a positive push towards you---
 
-ACorrect, Ma’am.
+> ACorrect, Ma’am.
 
-Q\---during the---about the time you were affecting arrest?
+> Q\---during the---about the time you were affecting arrest?
 
-ACorrect, Ma’am.
+> ACorrect, Ma’am.
 
 165    Further, I did not see any inconsistency in the evidence of the Prosecution witnesses as to the location of the second contact. During cross-examination of Cpl Muhaimin, Defence counsel suggested to him that the second contact was nothing more than the accused trying to withdraw his right hand when Sgt Afiq tried to grab hold of the accused’s hand to effect the arrest but he disagreed:
 
-QAs I have brought your attention to. Once was in front of him offered to be arrested. The 2nd one, he was walking away, he put his hand like that to be arrested. The 3rd one he said, the other---he could only raise 1 hand because the other hand was still around ‘Isabel’ and he was in the process of withdrawing it. And your partner held his left hand---right hand. Do you agree with my interpretation?
+> QAs I have brought your attention to. Once was in front of him offered to be arrested. The 2nd one, he was walking away, he put his hand like that to be arrested. The 3rd one he said, the other---he could only raise 1 hand because the other hand was still around ‘Isabel’ and he was in the process of withdrawing it. And your partner held his left hand---right hand. Do you agree with my interpretation?
 
-AI disagree, yah, Sir.
+> AI disagree, yah, Sir.
 
 166    When asked to elaborate during re-examination, Cpl Muhaimin informed the court that he indeed saw the accused use his right hand to push Sgt Afiq on the shoulder area during the arrest. Additionally, nobody hit the accused on his head or body during the arrest.
 
 167    IO Chee said in evidence that this happened when the accused had used his right hand to push the chest of Sgt Afiq near the shoulder area before the accused was being restrained:
 
-QOh, you are talking about this push. Where’s the push?
+> QOh, you are talking about this push. Where’s the push?
 
-AThis is the push. With his right arm he tries to shove Sergeant Afiq on the left shoulder. This is the push that we’ve been referring to.
+> AThis is the push. With his right arm he tries to shove Sergeant Afiq on the left shoulder. This is the push that we’ve been referring to.
 
 168    Next, I see no reason to doubt the Prosecution’s evidence that the recording from Sgt Afiq’s data could not be extracted as there could have been a corruption of the data. In fact, from the video that was available, which we saw numerous times during the trial, clearly showed that he was not only resisting his arrest but was still behaving in an aggressive manner and shouting vulgarities after his arrest.
 
@@ -1100,77 +1100,77 @@ AThis is the push. With his right arm he tries to shove Sergeant Afiq on the lef
 
 172    When put to Sgt Afiq that the third contact would not have deterred him from performing his duties as a public servant because by that time, the accused was already arrested and he had merely wanted to see the nametag of Sgt Afiq, Sgt Afq disagreed. When asked to explain why during re-examination, he said:
 
-QThis is happening post-arrest when he’s already handcuffed?
+> QThis is happening post-arrest when he’s already handcuffed?
 
-ACorrect, Ma’am, he was---he was---already handcuffed.
+> ACorrect, Ma’am, he was---he was---already handcuffed.
 
-Q\---point of time, he’s handcuffed and he’s still resisting arrest? Would that be correct?
+> Q\---point of time, he’s handcuffed and he’s still resisting arrest? Would that be correct?
 
-AAnd he’s still uncooperative.
+> AAnd he’s still uncooperative.
 
-QHe’s still uncooperative, he’s still---being aggressive towards you and Muhaimin?
+> QHe’s still uncooperative, he’s still---being aggressive towards you and Muhaimin?
 
-ACorrect, Ma’am.
+> ACorrect, Ma’am.
 
-\---
+> \---
 
-QNow, at this point of time, what was your duty? What were you attempting to do?
+> QNow, at this point of time, what was your duty? What were you attempting to do?
 
-AI was attempting to call for backup to quickly hurry up.
+> AI was attempting to call for backup to quickly hurry up.
 
-QOkay. And pertaining to the accused---where the accused is concerned, what was your role? What was your duty when you arrested this accused? What were you trying to do?
+> QOkay. And pertaining to the accused---where the accused is concerned, what was your role? What was your duty when you arrested this accused? What were you trying to do?
 
-AI need to keep him in my custody---
+> AI need to keep him in my custody---
 
-QYes.
+> QYes.
 
-AI need to ensure that he’s---he’s there---in front of me.
+> AI need to ensure that he’s---he’s there---in front of me.
 
-QThat he wasn’t---escaped from your---custody, right?
+> QThat he wasn’t---escaped from your---custody, right?
 
-ACorrect.
+> ACorrect.
 
-QAnd when he pushed you like this, or when he pushed you, did you feel that he was deterring you from your duty in any way?
+> QAnd when he pushed you like this, or when he pushed you, did you feel that he was deterring you from your duty in any way?
 
-AYes, Ma’am.
+> AYes, Ma’am.
 
-QAnd how was he deterring you from your duty? What is he doing?
+> QAnd how was he deterring you from your duty? What is he doing?
 
-AI was---I need to secure him and also try to actually send a message through my ops room to the said HD. So subsequently, he used his head and pushed onto my chest area.
+> AI was---I need to secure him and also try to actually send a message through my ops room to the said HD. So subsequently, he used his head and pushed onto my chest area.
 
 173    For the third contact, Cpl Muhaimin disagreed too with the Defence that the accused had hit the right chest of Sgt Afiq unintentionally because the accused had wanted to see the name tag of Sgt Afiq after he was arrested:
 
-QRight? And Afiq’s name was obviously printed on his name tag, right? My case is that it was obstructed, alright? And he asked for the obstruction to be removed and he said, “Remove the visor. I want to see. Remove the visor.” Right? And there is no visor, and it is my case that Afiq didn’t expose his name tag and the accused used his head to brush the body cam aside so he that he can see the vi---the name tag, right? So, my case is that there was no head-butting as you have mentioned. His hands were cuffed behind him you agree? Right, so the only thing that he could move was his head.
+> QRight? And Afiq’s name was obviously printed on his name tag, right? My case is that it was obstructed, alright? And he asked for the obstruction to be removed and he said, “Remove the visor. I want to see. Remove the visor.” Right? And there is no visor, and it is my case that Afiq didn’t expose his name tag and the accused used his head to brush the body cam aside so he that he can see the vi---the name tag, right? So, my case is that there was no head-butting as you have mentioned. His hands were cuffed behind him you agree? Right, so the only thing that he could move was his head.
 
-AYah, he was resisting the arrest (clears throat).
+> AYah, he was resisting the arrest (clears throat).
 
-QNo, he was arrested. ---He was already in cuffs.
+> QNo, he was arrested. ---He was already in cuffs.
 
-ABut he was still violent as you can see in---throughout the whole video---
+> ABut he was still violent as you can see in---throughout the whole video---
 
-QRight.
+> QRight.
 
-Awhen he was---arrested.
+> Awhen he was---arrested.
 
-QI am asking the question; do you agree that by his head gesture he was attempting to use his head to remove whatever that was obstructing his reading of the name tag?
+> QI am asking the question; do you agree that by his head gesture he was attempting to use his head to remove whatever that was obstructing his reading of the name tag?
 
-ADisagree, Sir.
+> ADisagree, Sir.
 
 174    When the same question was suggested to IO Chee during cross-examination, IO Chee also disagreed and explained:
 
-QYes. His head went to a motion forward and upwards. I’m---I am suggesting to you that my interpretation of this footage, this is the time at 6:07:58. That the accused was not head-butting Afiq but he was approaching the further half of his body because that was where his camera was which was blocking his name tag and he moved his head forward and upward in an attempt to remove the obstacle which was blocking his view of Afiq’s name tag.
+> QYes. His head went to a motion forward and upwards. I’m---I am suggesting to you that my interpretation of this footage, this is the time at 6:07:58. That the accused was not head-butting Afiq but he was approaching the further half of his body because that was where his camera was which was blocking his name tag and he moved his head forward and upward in an attempt to remove the obstacle which was blocking his view of Afiq’s name tag.
 
-AFirstly, I cannot be certain what’s the intention of the accused. And secondly is what he is doing is I think it’s a clear-cut he’s a criminal force against the officer. The officer had no intention for him to do---to do---for him to allow him to headbutt or at least what you mean was to push the camera up. That wasn’t--- mentioned to any--- other---officer
+> AFirstly, I cannot be certain what’s the intention of the accused. And secondly is what he is doing is I think it’s a clear-cut he’s a criminal force against the officer. The officer had no intention for him to do---to do---for him to allow him to headbutt or at least what you mean was to push the camera up. That wasn’t--- mentioned to any--- other---officer
 
-QWhether---it---amounts to an offence or not, I think this is the purpose of the trial. But what we are trying to do is to interpret---to describe his actions, right. First question is you agree that he didn’t strike---headbutt. That’s means go straight into Afiq’s chest. He did forward and upwards, yes?
+> QWhether---it---amounts to an offence or not, I think this is the purpose of the trial. But what we are trying to do is to interpret---to describe his actions, right. First question is you agree that he didn’t strike---headbutt. That’s means go straight into Afiq’s chest. He did forward and upwards, yes?
 
-AI disagree. I can’t tell.
+> AI disagree. I can’t tell.
 
-\---
+> \---
 
-QCorrect. So, at the end of the day, I put to you, alright, Mr. Lionel that this so-called 3rd contact was not intentional---with the intention to deter Mr. Afiq from doing his duty. Correct? He---he was already arrested. He had already been pinned down. He had---his hand was already in handcuffs. He merely wanted to read the name tag.
+> QCorrect. So, at the end of the day, I put to you, alright, Mr. Lionel that this so-called 3rd contact was not intentional---with the intention to deter Mr. Afiq from doing his duty. Correct? He---he was already arrested. He had already been pinned down. He had---his hand was already in handcuffs. He merely wanted to read the name tag.
 
-AI disagree.
+> AI disagree.
 
 175    As such, there was unequivocal evidence that criminal force had been exerted by the accused on Sgt Afiq to deter the latter from discharging his duty as a public servant more than once. The physical acts have been proven by the Prosecution. There were 3 occasions. This included once pre-arrest, once whilst resisting his arrest by the police for his aggressive and disorderly behavior and a third one post-arrest. All 3 contacts, in my view, did deter Sgt Afiq from lawfully discharging his duty as a police officer that day.
 
@@ -1186,35 +1186,35 @@ AI disagree.
 
 180    When asked whether they had an ulterior motive to arrest the accused at the material time since Cpl Muhamin was unhappy with the accused for shouting vulgarities are them as put to him by the Defence, Sgt Afiq replied during re-examination:
 
-QYes. Now, counsel questioned you about this. Right? And he asked you about the arrest that the only reason you all arrested him was because of the vulgarity. Now, on that day---you saw the footage multiple times already. When you arrested the accused, why did you effect the arrest? What were the offences he was committing, or that you thought he was doing that you needed to step in, arrest him? What was he doing?
+> QYes. Now, counsel questioned you about this. Right? And he asked you about the arrest that the only reason you all arrested him was because of the vulgarity. Now, on that day---you saw the footage multiple times already. When you arrested the accused, why did you effect the arrest? What were the offences he was committing, or that you thought he was doing that you needed to step in, arrest him? What was he doing?
 
-ADisorderly behaviour.
+> ADisorderly behaviour.
 
-QOkay. What else did he do?
+> QOkay. What else did he do?
 
-ACriminal force against public servant and also abusive language.
+> ACriminal force against public servant and also abusive language.
 
-QSo, when at that point of time when you effected your arrest---you and Muhaimin effected the arrest, was it for those reasons or just because he was shouting things about your mother?
+> QSo, when at that point of time when you effected your arrest---you and Muhaimin effected the arrest, was it for those reasons or just because he was shouting things about your mother?
 
-AIt was for those reasons.
+> AIt was for those reasons.
 
-\---
+> \---
 
-QNow, counsel also pointed out to you that your partner sounded unhappy. Right? Remember he was unhappy and he wanted to effect an arrest?
+> QNow, counsel also pointed out to you that your partner sounded unhappy. Right? Remember he was unhappy and he wanted to effect an arrest?
 
-ACorrect, Ma’am.
+> ACorrect, Ma’am.
 
-QDo you know why your partner was unhappy and wanted to effect an arrest on the accused at that point of time? Because you were having a conversation, right?
+> QDo you know why your partner was unhappy and wanted to effect an arrest on the accused at that point of time? Because you were having a conversation, right?
 
-AI believe it was because he wanted to settle the issue. We just want him to leave the area actually.
+> AI believe it was because he wanted to settle the issue. We just want him to leave the area actually.
 
-QYes.
+> QYes.
 
-ABut then, he’s still ---uncooperative with us.
+> ABut then, he’s still ---uncooperative with us.
 
-QOkay.
+> QOkay.
 
-AYes, still around the area.
+> AYes, still around the area.
 
 In fact, Sgt Afiq elaborated that for more than 45 minutes that day, the duo had given the accused many chances. They were hardly eager to arrest him and was hoping that he would leave the area and not cause trouble so that they could carry on with their patrolling duty.
 
@@ -1232,11 +1232,11 @@ In fact, Sgt Afiq elaborated that for more than 45 minutes that day, the duo had
 
 186    In assessing the accused’s state of mind as a consequence of his alcohol intoxication during the incident, I accepted the evidence of the medical experts before me that this can be determined by:
 
-i.     The BAC level of the accused;
+> i.     The BAC level of the accused;
 
-ii.     Stage of alcohol intoxication based on symptoms exhibited by the accused; and
+> ii.     Stage of alcohol intoxication based on symptoms exhibited by the accused; and
 
-iii.     The recollection or self-reporting of the incident by the accused.
+> iii.     The recollection or self-reporting of the incident by the accused.
 
 187    Items i and ii are objective elements whilst item iii is a subjective element which requires the honest reporting by a person as to his or her recollection of the events which occurred during the period of intoxication. I would discuss each item sequentially.
 
@@ -1262,173 +1262,173 @@ iii.     The recollection or self-reporting of the incident by the accused.
 
 195    Sgt Afiq said the accused was intoxicated but not highly intoxicated during the time of the accident. This was based on his 4 years of experience as a police officer:
 
-QNow from your observation of the accused during this incident, did he appear intoxicated to you?
+> QNow from your observation of the accused during this incident, did he appear intoxicated to you?
 
-AYes, Ma’am. He appeared---intoxicated.
+> AYes, Ma’am. He appeared---intoxicated.
 
-QAlright. Now from your observation, did he appear to know that you and your partners were police officers when he was speaking to you or he didn’t know that you were police officers when he was speaking to you?
+> QAlright. Now from your observation, did he appear to know that you and your partners were police officers when he was speaking to you or he didn’t know that you were police officers when he was speaking to you?
 
-AI believe he was aware---the accused was aware that we are police officers.
+> AI believe he was aware---the accused was aware that we are police officers.
 
-QAnd why do you feel that he was aware?
+> QAnd why do you feel that he was aware?
 
-ABecause in the clip, he did mention to one of his friends that we are just doing our job.
+> ABecause in the clip, he did mention to one of his friends that we are just doing our job.
 
-QOkay, and anything else apart from that?
+> QOkay, and anything else apart from that?
 
-AAnd he---we have given our passes and also our name to him quite a number of times.
+> AAnd he---we have given our passes and also our name to him quite a number of times.
 
-QAlright. And what did he address you as?
+> QAlright. And what did he address you as?
 
-AHe addressed us as officers, Ma’am.
+> AHe addressed us as officers, Ma’am.
 
-QOfficers as well?
+> QOfficers as well?
 
-AYes, Ma’am.
+> AYes, Ma’am.
 
-QOkay. Now from your observation of the accused during this incident, did the accused appear to recognise his friends?
+> QOkay. Now from your observation of the accused during this incident, did the accused appear to recognise his friends?
 
-AYes, Ma’am. He can---can recognise his friends.
+> AYes, Ma’am. He can---can recognise his friends.
 
-QWas he addressing---calling them by name?
+> QWas he addressing---calling them by name?
 
-\---
+> \---
 
-QNow you said that you’ve been a police officer for 4-plus years?
+> QNow you said that you’ve been a police officer for 4-plus years?
 
-AYes, correct, Ma’am.
+> AYes, correct, Ma’am.
 
-QAlright. Now in your routine patrol, have you seen many incidents of accused persons who are intoxicated?
+> QAlright. Now in your routine patrol, have you seen many incidents of accused persons who are intoxicated?
 
-AYes, Ma’am. I have seen many.
+> AYes, Ma’am. I have seen many.
 
-\---
+> \---
 
-QOkay. So in your 4 years, how many accused persons who are intoxicated have you seen?
+> QOkay. So in your 4 years, how many accused persons who are intoxicated have you seen?
 
-AA lot, Ma’am. I---cannot count.
+> AA lot, Ma’am. I---cannot count.
 
-QCan’t count?
+> QCan’t count?
 
-AYah.
+> AYah.
 
-QNow from your observation of the accused, did he appear to you to be very highly intoxicated?
+> QNow from your observation of the accused, did he appear to you to be very highly intoxicated?
 
-AHe is intoxicated but highly intoxicated, he’s---he’s not, Ma’am, because I have seen highly intoxicated people during my work---during my shift of work. Basically, they are---they cannot even respond to us and they just lie down, for heavily intoxicated person.
+> AHe is intoxicated but highly intoxicated, he’s---he’s not, Ma’am, because I have seen highly intoxicated people during my work---during my shift of work. Basically, they are---they cannot even respond to us and they just lie down, for heavily intoxicated person.
 
 196    When Cpl Muhaimin was asked what was the accused’s level of intoxication that day based on his own experience of dealing with drunkards in the course of his work as a policeman for about 2 years, he replied that it was average:
 
-QNow from your observation of the accused during his whole incident, right, was intoxicated?
+> QNow from your observation of the accused during his whole incident, right, was intoxicated?
 
-AYes, Ma’am.
+> AYes, Ma’am.
 
-QWould you be able to describe how intoxicated you had thought he was from your observation of him?
+> QWould you be able to describe how intoxicated you had thought he was from your observation of him?
 
-AHmm, not really highly intoxicated because if he’s really---highly intoxicated he might just have like sit down and then just, uh, lie down on the flat ground.
+> AHmm, not really highly intoxicated because if he’s really---highly intoxicated he might just have like sit down and then just, uh, lie down on the flat ground.
 
-QIn the course of your duty---as a police officer, have you come across intoxicated people before? Intoxicated people?
+> QIn the course of your duty---as a police officer, have you come across intoxicated people before? Intoxicated people?
 
-AUh, yes Ma’am.
+> AUh, yes Ma’am.
 
-QAnd have there been many occasions or just a few occasions?
+> QAnd have there been many occasions or just a few occasions?
 
-AMany, many occasions.
+> AMany, many occasions.
 
-QMany, many occasions of intoxicated?
+> QMany, many occasions of intoxicated?
 
-ACorrect, Ma’am.
+> ACorrect, Ma’am.
 
-QAnd where he’s concerned, ---what level of intoxication would you think he was at?
+> QAnd where he’s concerned, ---what level of intoxication would you think he was at?
 
-AJust average.
+> AJust average.
 
-QNow during this---the course of this entire incident---this 45 minutes, was he able to communicate with you and Afiq?
+> QNow during this---the course of this entire incident---this 45 minutes, was he able to communicate with you and Afiq?
 
-AYes, Ma’am.
+> AYes, Ma’am.
 
-QWere you all able to understand him?
+> QWere you all able to understand him?
 
-AYes, Ma’am.
+> AYes, Ma’am.
 
-QFor most of the time?
+> QFor most of the time?
 
-ACorrect, Ma’am.
+> ACorrect, Ma’am.
 
-QSo, there are some instances where you couldn’t understand what he was saying?
+> QSo, there are some instances where you couldn’t understand what he was saying?
 
-AYes, Ma’am, correct.
+> AYes, Ma’am, correct.
 
-QWas he able to walk unaided during these 45 minutes---
+> QWas he able to walk unaided during these 45 minutes---
 
-AYes---
+> AYes---
 
-QAnd these 45 minutes, was he able to recognise his friends?
+> QAnd these 45 minutes, was he able to recognise his friends?
 
-AYes, Ma’am.
+> AYes, Ma’am.
 
-QWas he calling them by name?
+> QWas he calling them by name?
 
-AYes, Ma’am.
+> AYes, Ma’am.
 
-QFrom your observation of accused in the manner in which he was interacting with you, would---was he aware that you all were police officers---
+> QFrom your observation of accused in the manner in which he was interacting with you, would---was he aware that you all were police officers---
 
-AUh, yes.
+> AUh, yes.
 
-Qthis entire incident?
+> Qthis entire incident?
 
-AYes, Ma’am.
+> AYes, Ma’am.
 
-QYou all were in full uniform on that day, right?
+> QYou all were in full uniform on that day, right?
 
-AYes, Ma’am.
+> AYes, Ma’am.
 
-QAnd---you were wearing your pass?
+> QAnd---you were wearing your pass?
 
-ACorrect, Ma’am.
+> ACorrect, Ma’am.
 
-QAnd so was Afiq?
+> QAnd so was Afiq?
 
-AYes, Ma’am.
+> AYes, Ma’am.
 
-Q\---did he look at both your passes on the day before his arrest?
+> Q\---did he look at both your passes on the day before his arrest?
 
-AYes, Ma’am.
+> AYes, Ma’am.
 
-QHe did?
+> QHe did?
 
-AYes, Ma’am.
+> AYes, Ma’am.
 
-QDid he address you all as officers at any point of time during these 45 minutes?
+> QDid he address you all as officers at any point of time during these 45 minutes?
 
-AI don’t know.
+> AI don’t know.
 
-QYou---you not sure about that?
+> QYou---you not sure about that?
 
-ANot sure, yah.
+> ANot sure, yah.
 
-QOkay. But did he ask where you all from, which division?
+> QOkay. But did he ask where you all from, which division?
 
-AYes, Ma’am.
+> AYes, Ma’am.
 
-QSo you all told him---you told him that you---you’re from Tanglin?
+> QSo you all told him---you told him that you---you’re from Tanglin?
 
-AYes, Ma’am.
+> AYes, Ma’am.
 
-QNow before this incident, did you have any dealings, right, any dealings previously, do you know him personally, the accused or any of his friends?
+> QNow before this incident, did you have any dealings, right, any dealings previously, do you know him personally, the accused or any of his friends?
 
-AUh, no, Ma’am.
+> AUh, no, Ma’am.
 
 197    Even during cross-examination, Isabel agreed that from watching the video footage, the accused could be seen at certain points:
 
-(a)     Walking away on his own unaided including walking straight and backwards;
+> (a)     Walking away on his own unaided including walking straight and backwards;
 
-(b)     Communicating with the policemen and speaking coherently;
+> (b)     Communicating with the policemen and speaking coherently;
 
-(c)     Being aware that he was speaking with the policemen;
+> (c)     Being aware that he was speaking with the policemen;
 
-(d)     Recognising some of the friends around him including Isabel; and
+> (d)     Recognising some of the friends around him including Isabel; and
 
-(e)     Asking his friend to go away from him.
+> (e)     Asking his friend to go away from him.
 
 198    Liana observed in the video footage that prior to the accused’s arrest, he was even seen walking forward and backwards by himself. After his arrest, the accused was able to recognise his friends and tell them that he would not resist and asked them to go home. He even told the police to allow him to walk to the police car, this indicating to the police that he would co-operate with them.
 
@@ -1440,7 +1440,7 @@ AUh, no, Ma’am.
 
 202    The fact that the accused was seen exhibiting several of the symptoms from the euphoria stage and a few of the symptoms from the excitement stage during the incident was confirmed by Dr Fones in his evidence before the court:
 
-A    So, um, I think, um, impairment of his, um, uh, motor functions and all, I agree, he was mostly intact, he could walk straight, he could coordinate himself. Um, uh, in terms of his recollection, um, yes, I would say largely he is able to recall most of the basic information. Um, the NRIC error, I find to be somewhat surprising. Um, so, it does seem to show some impairment but I---I mean, my point is that the type of, uh, impairment of the mind has much more to do with, uh, if I refer back to our table again, it’s, uh, _very much to do with the category of euphoria, you know, talkativeness, self-confidence, decreased inhibitions, uh, diminished judgement and control, alright. So, I think those are the key impairments of the mind which we are dealing with. Uh, there’s a little bit of the excitement category as well, especially the emotional instability and the loss of critical judgement_. I think that’s quite key in terms of how he, uh, behaves, um, in the video. The other point I like to make is that for each of these categories, it is not a game of you need to have the full house of symptoms. That means, you do not have to have for that---particular category, every single one. Um, you can have some people with more of 1 symptom or even the absence of another symptom or sign. So, these are---and on the point of, um, how long and what duration had elapsed, I think, uh, he is almost 100% would be at least in the 0.12 level, the euphoria level if we are not taking bones on the, uh, whatever he had actually hit as high as 200 milligrams but, uh, he is definitely at least 120 because we even have a blood alcohol concentration much later, uh, which shows 100 plus, 105 or something like that, yah. \[emphasis added\]
+> A    So, um, I think, um, impairment of his, um, uh, motor functions and all, I agree, he was mostly intact, he could walk straight, he could coordinate himself. Um, uh, in terms of his recollection, um, yes, I would say largely he is able to recall most of the basic information. Um, the NRIC error, I find to be somewhat surprising. Um, so, it does seem to show some impairment but I---I mean, my point is that the type of, uh, impairment of the mind has much more to do with, uh, if I refer back to our table again, it’s, uh, _very much to do with the category of euphoria, you know, talkativeness, self-confidence, decreased inhibitions, uh, diminished judgement and control, alright. So, I think those are the key impairments of the mind which we are dealing with. Uh, there’s a little bit of the excitement category as well, especially the emotional instability and the loss of critical judgement_. I think that’s quite key in terms of how he, uh, behaves, um, in the video. The other point I like to make is that for each of these categories, it is not a game of you need to have the full house of symptoms. That means, you do not have to have for that---particular category, every single one. Um, you can have some people with more of 1 symptom or even the absence of another symptom or sign. So, these are---and on the point of, um, how long and what duration had elapsed, I think, uh, he is almost 100% would be at least in the 0.12 level, the euphoria level if we are not taking bones on the, uh, whatever he had actually hit as high as 200 milligrams but, uh, he is definitely at least 120 because we even have a blood alcohol concentration much later, uh, which shows 100 plus, 105 or something like that, yah. \[emphasis added\]
 
 203    In essence, from the observations of the accused by the various witnesses as well as his behavior as seen in the video footage at the time of the commotion, I was not persuaded that he was so drunk or intoxicated that he did not know what he was doing and that what he did was wrong. At the beginning, he could have exhibited symptoms from both the “confusion” and “excitement” stage. Gradually, he started to exhibit more symptoms from both the “excitement” and “euphoria” stages, thus suggesting that his alcohol intoxication level was decreasing prior to his arrest.
 
@@ -1450,63 +1450,63 @@ A    So, um, I think, um, impairment of his, um, uh, motor functions and all
 
 205    When the accused was brought back to the police station lock-up in less than half an hour, he was able to provide his personal particulars with relative ease. Sgt Afiq recalled that the accused was able to provide his date of birth, ask for his handphone as well as the reason for his arrest. He requested for his lawyer to be contacted. When asked how did the accused, whilst intoxicated, differ from heavily intoxicated people he met previously in his course of work, Sgt Afiq said:
 
-QOkay. What did you observe of this particular person in contrast to those type of people?
+> QOkay. What did you observe of this particular person in contrast to those type of people?
 
-ASo the accused can walk by himself and he can also speak---reply to our question, also speak in proper sentences. He also provided his name correctly to a few of people---as well.
+> ASo the accused can walk by himself and he can also speak---reply to our question, also speak in proper sentences. He also provided his name correctly to a few of people---as well.
 
-QAnd his IC as well?
+> QAnd his IC as well?
 
-AIC number, he provided the number correctly but then the alphabet, at that point of time he provided, was wrong.
+> AIC number, he provided the number correctly but then the alphabet, at that point of time he provided, was wrong.
 
-QOkay. And was he able to provide his date of birth?
+> QOkay. And was he able to provide his date of birth?
 
-AYes, he ­provided date of birth to the nurse as well.
+> AYes, he ­provided date of birth to the nurse as well.
 
-QI see. And looking at all of that from your observation, what did you think of his intoxication?
+> QI see. And looking at all of that from your observation, what did you think of his intoxication?
 
-AHe is intoxicated but I believe he’s not heavily intoxicated.
+> AHe is intoxicated but I believe he’s not heavily intoxicated.
 
 206    During cross-examination, Insp Tan replied that, whilst he was not an expert in alcohol intoxication, based on his 22 years of experience in the police force where he has encountered people with different degrees of intoxication, the accused was aware of what he was doing and able to relate to his surroundings:
 
-ABased on the part that intoxicated comes in a lot of levels. Like, for instance, I have come across people who are intoxicated and totally were sleeping and out of the world, in which ambulance will have to come to convey him. I have---person who have just drink two or three mugs of beer as informed by the passer-by and was actually aware of what he is doing but he’s actually---this is what I was informed. And he’s still able to relate what is happening---
+> ABased on the part that intoxicated comes in a lot of levels. Like, for instance, I have come across people who are intoxicated and totally were sleeping and out of the world, in which ambulance will have to come to convey him. I have---person who have just drink two or three mugs of beer as informed by the passer-by and was actually aware of what he is doing but he’s actually---this is what I was informed. And he’s still able to relate what is happening---
 
 207    When asked at the trial if the accused could be suffering from memory loss at the lock-up as a symptom at the “confusion” stage (based on the Dubowski table) since he had given the alphabet of his NRIC no. wrongly, Dr Yao was of the view that he did not experience much memory loss, if at all:
 
-QFrom the clips, we observed that he was able to give his NRIC number correctly but the alphabet was incorrect, his name correctly, his date of birth correctly. The rest of the information---the clip ended abruptly, right? So memory loss, you were commenting on memory loss based on the clip?
+> QFrom the clips, we observed that he was able to give his NRIC number correctly but the alphabet was incorrect, his name correctly, his date of birth correctly. The rest of the information---the clip ended abruptly, right? So memory loss, you were commenting on memory loss based on the clip?
 
-AIt doesn’t appear that he had much of a memory loss.
+> AIt doesn’t appear that he had much of a memory loss.
 
-QSo memory loss that is referred to in this table, the Dubowski Alcohol Table, what does it actually refer to? What kind of memory loss does it refer to?
+> QSo memory loss that is referred to in this table, the Dubowski Alcohol Table, what does it actually refer to? What kind of memory loss does it refer to?
 
-ATypically at this blood alcohol concentration, there might be people who does not remember what happened, who is he with or where did he just came from. This kind of memory loss.
+> ATypically at this blood alcohol concentration, there might be people who does not remember what happened, who is he with or where did he just came from. This kind of memory loss.
 
-QOkay. And that would be at that point of time?
+> QOkay. And that would be at that point of time?
 
-AAt that point of time. Yup, right.
+> AAt that point of time. Yup, right.
 
-QSo we are talking about real time - at the time where he is, let’s say, at the lock-up, et cetera?
+> QSo we are talking about real time - at the time where he is, let’s say, at the lock-up, et cetera?
 
-AThe table typically represents clinical symptoms at that blood level.
+> AThe table typically represents clinical symptoms at that blood level.
 
-QOkay. So your calculation was actually blood alcohol concentration at the time of the incident which would be at 6.00?
+> QOkay. So your calculation was actually blood alcohol concentration at the time of the incident which would be at 6.00?
 
-AAround 6.00am.
+> AAround 6.00am.
 
-Q6.00---around 6.00am?
+> Q6.00---around 6.00am?
 
-AYes, Your Honour.
+> AYes, Your Honour.
 
-QAnd he is at the lock-up at about 6.00-plus, 6.40?
+> QAnd he is at the lock-up at about 6.00-plus, 6.40?
 
-A6.24, Your Honour.
+> A6.24, Your Honour.
 
-QYes, around there. So his blood concentration level, based on that, you are looking at the symptoms and he doesn’t correlate with those symptoms - he doesn’t seem to have a memory loss, correct?
+> QYes, around there. So his blood concentration level, based on that, you are looking at the symptoms and he doesn’t correlate with those symptoms - he doesn’t seem to have a memory loss, correct?
 
-AHe does not seem to have a memory loss, Your Honour.
+> AHe does not seem to have a memory loss, Your Honour.
 
-QSo if at that point of time his blood alcohol level was 180 to 300, one of the possible symptoms he would have displayed is memory loss?
+> QSo if at that point of time his blood alcohol level was 180 to 300, one of the possible symptoms he would have displayed is memory loss?
 
-AYes, Your Honour, but these are symptoms that is typical of a group of people with that kind of blood level. It does not mean that everyone with this blood level would have the same symptom, Your Honour.
+> AYes, Your Honour, but these are symptoms that is typical of a group of people with that kind of blood level. It does not mean that everyone with this blood level would have the same symptom, Your Honour.
 
 208    Even Dr Heng, who examined the accused about an hour after his arrest at the scene, was of the medical opinion that the accused, whilst experiencing alcohol intoxication, was not greatly intoxicated, sleeping or stuporous. The accused had a Glasgow Coma Score of 15, indicating that the accused was alert, conscious and functional. Otherwise, he would have to observe the accused until he became soberer. The symptoms recorded by him of the accused also confirmed his findings. The accused was even able to communicate properly with Dr Heng and the former could be discharged to go home independently without a risk to his own safety.
 
@@ -1518,7 +1518,7 @@ AYes, Your Honour, but these are symptoms that is typical of a group of people w
 
 211    Alcohol induced amnesia is typically a form of anterograde amnesia. This causes a person to have memory loss of events or “blackouts” which occurred during the period of intoxication. According to the Collins English Dictionary, anterograde amnesia means:
 
-Amnesia caused by brain damage in which the memory loss relates to events occurring after the damage.
+> Amnesia caused by brain damage in which the memory loss relates to events occurring after the damage.
 
 212    This means that a person may loss his memory for the things he did or the events which occurred during the period of intoxication. The memory loss during this period is commonly called a “blackout”.
 
@@ -1526,61 +1526,61 @@ Amnesia caused by brain damage in which the memory loss relates to events occurr
 
 214    In his evidence before the Court, Dr Guo explained that when the accused was experiencing alcohol intoxication, the alcohol had the effect of affecting the inhibition and judgment of the accused. Whilst the accused should know what was right or wrong, the alcohol enhanced his risk taking ability or his intention to do so. The more alcohol one consumes, the lesser is one’s inhibition or greater the impairment in one’s judgment:
 
-QRight. And his perception, that, “Should I do this? Should I not do this?” Right. That means to say, we all have to make decisions like this all the time. “Should I do this? Should I use a vulgarity on you? Should I not use a vulgarity or” ---do you agree that that inhibition of refraining from using certain---conducting himself in a certain way, has been removed?
+> QRight. And his perception, that, “Should I do this? Should I not do this?” Right. That means to say, we all have to make decisions like this all the time. “Should I do this? Should I use a vulgarity on you? Should I not use a vulgarity or” ---do you agree that that inhibition of refraining from using certain---conducting himself in a certain way, has been removed?
 
-ANot really removed, it’s affected---
+> ANot really removed, it’s affected---
 
-QHe’s affected, yes?
+> QHe’s affected, yes?
 
-A\---by the alcohol. The judgement is affected.
+> A\---by the alcohol. The judgement is affected.
 
-QI---oh, I see. The judgement is affected to what extent, Dr Guo?
+> QI---oh, I see. The judgement is affected to what extent, Dr Guo?
 
-AIt’s depends.
+> AIt’s depends.
 
-QWell, we---I’m dealing with a specific subject here.
+> QWell, we---I’m dealing with a specific subject here.
 
-AIt is affected, significantly affected.
+> AIt is affected, significantly affected.
 
-QSignificantly, right? And that, that significant impairment, I use the word “impairment”, right, it’s the same thing, impairment of his judgement, right. That significant affect---impairment is available---impairment of his judgement, would it go to the extent of impairing his ability to decide, “This is right. This is wrong”?
+> QSignificantly, right? And that, that significant impairment, I use the word “impairment”, right, it’s the same thing, impairment of his judgement, right. That significant affect---impairment is available---impairment of his judgement, would it go to the extent of impairing his ability to decide, “This is right. This is wrong”?
 
-AHe should know what is right, what is wrong. But the only thing is that the---he---it---they---the---the intention to take the---to take the risk is much higher.
+> AHe should know what is right, what is wrong. But the only thing is that the---he---it---they---the---the intention to take the---to take the risk is much higher.
 
-QI see. Risk taking ability?
+> QI see. Risk taking ability?
 
-AYes.
+> AYes.
 
-QRight. And that is also due to the fact that inhibition has been removed?
+> QRight. And that is also due to the fact that inhibition has been removed?
 
-AAffected, not really removed. Affected.
+> AAffected, not really removed. Affected.
 
-QRight. So I’m trying to understand, what is the difference between taking a risk and having his judgement affected? No---is there a difference?
+> QRight. So I’m trying to understand, what is the difference between taking a risk and having his judgement affected? No---is there a difference?
 
-AIt’s the same. Same thing.
+> AIt’s the same. Same thing.
 
-QIt’s the same, right? So if his judgement is affected, therefore he was able to take risk.
+> QIt’s the same, right? So if his judgement is affected, therefore he was able to take risk.
 
-AYes.
+> AYes.
 
-QHow is that translated to the ability to know the difference between right thing to do, wrong thing to do?
+> QHow is that translated to the ability to know the difference between right thing to do, wrong thing to do?
 
-AYah, he may---he---he might know the---whether it’s right or wrong, but the issue is that he become---so brave that---that under the influence of alcohol that he---he may just take a risk to do it.
+> AYah, he may---he---he might know the---whether it’s right or wrong, but the issue is that he become---so brave that---that under the influence of alcohol that he---he may just take a risk to do it.
 
-QWhich is not rational?
+> QWhich is not rational?
 
-ANot, yes.
+> ANot, yes.
 
-QRight. And which is not something he would have done if he’s sober?
+> QRight. And which is not something he would have done if he’s sober?
 
-AYah, the person won’t---won’t be doing that---if sober.
+> AYah, the person won’t---won’t be doing that---if sober.
 
-QNow, would you be able to scale it up to say that if the more alcohol he had consumed, the higher is his ability to---the more it will affect his judgement? That means to say---
+> QNow, would you be able to scale it up to say that if the more alcohol he had consumed, the higher is his ability to---the more it will affect his judgement? That means to say---
 
-AYes.
+> AYes.
 
-Q\---in that scale.
+> Q\---in that scale.
 
-AYes.
+> AYes.
 
 215    As agreed by Dr Fones said, a person who is intoxicated by alcohol may become less inhibited by the alcohol and may be more willing to do something that he would ordinarily not have done because of the effects of alcohol.
 
@@ -1620,29 +1620,29 @@ AYes.
 
 232    Additionally, the accused admitted that with the aid of the video footage, he could remember the following that day:
 
-(a)     The presence of his friends around him like Jeremy, Chris, Isable and Melvin;
+> (a)     The presence of his friends around him like Jeremy, Chris, Isable and Melvin;
 
-(b)     He knew that Sgt Afiq and Cpl Muhaimin were policemen in their uniforms when he spoke to them throughout the entire incident;
+> (b)     He knew that Sgt Afiq and Cpl Muhaimin were policemen in their uniforms when he spoke to them throughout the entire incident;
 
-(c)     He had approached Sgt Afiq;
+> (c)     He had approached Sgt Afiq;
 
-(d)     When he spoke to Sgt Afiq, the accused was coherent and he was able to inform the latter of the fact that he was going to report for reservist with the police force on the coming Monday;
+> (d)     When he spoke to Sgt Afiq, the accused was coherent and he was able to inform the latter of the fact that he was going to report for reservist with the police force on the coming Monday;
 
-(e)     He negotiated with the police to let him walk into the police car after his arrest;
+> (e)     He negotiated with the police to let him walk into the police car after his arrest;
 
-(f)     He was able to check around for his handphone; and
+> (f)     He was able to check around for his handphone; and
 
-(g)     He recognised his friends after his arrest and told them to go back as he would comply with the police.
+> (g)     He recognised his friends after his arrest and told them to go back as he would comply with the police.
 
 233    A pertinent point to note is that even though he could not remember the names of Sgt Afiq and Cpl Muhaimin, the fact that he had repeatedly asked for their names that night suggested to me that he could at the very least remember and knew that he was talking to policemen and they were not his friends. During re-examination, he was asked:
 
-Q\---Now, you explain to the Court, Mr. Wu, looking at all these sequences that I have just identified, why do you think, you on that day or that night, were asking repeatedly for their identity?
+> Q\---Now, you explain to the Court, Mr. Wu, looking at all these sequences that I have just identified, why do you think, you on that day or that night, were asking repeatedly for their identity?
 
-AWhat I can think of would be I actually forgot, uh, the names or forgot even talking to the police officers moments ago. 2nd would be I would---I probably thought that at each time I was speaking to the policemen, they were different pair of policemen that I was talking to.
+> AWhat I can think of would be I actually forgot, uh, the names or forgot even talking to the police officers moments ago. 2nd would be I would---I probably thought that at each time I was speaking to the policemen, they were different pair of policemen that I was talking to.
 
-QOkay. So your explanation is twofold, one is that they told you, you forgot. That means no retention. The 2nd one is that you don’t recognise them because each time you talk to them you thought it were---different people---
+> QOkay. So your explanation is twofold, one is that they told you, you forgot. That means no retention. The 2nd one is that you don’t recognise them because each time you talk to them you thought it were---different people---
 
-AThat’s right, Sir. ---
+> AThat’s right, Sir. ---
 
 234    Evidently, the accused knew how to react differently when he was talking to his friends or girlfriend. When he spoke to the policemen, he knew that they were not his friends. Even the manner in which he spoke to the policemen was different from his friends. As such, he asked for the policemen for their names. He did so repeatedly because he kept forgetting their names or having spoken to them earlier. He even told his friends that Sgt Afiq and Cpl Muhaimin were policemen. At that point in time, alcohol induced amnesia might have caused him to forget their names but not who he spoke to. He could differentiate the policemen from his friends.
 
@@ -1654,67 +1654,67 @@ AThat’s right, Sir. ---
 
 237    In court, Dr Guo gave his expert opinion that the accused knew what he was doing at the time of the accident and that what he was doing was wrong. This is because a person still retains the capability of making decisions and know what is happening to him during a “blackout”:
 
-AYes, I think so.
+> AYes, I think so.
 
-QIs that your expert opinion? That he knew---what he was doing---and what he was doing was wrong?
+> QIs that your expert opinion? That he knew---what he was doing---and what he was doing was wrong?
 
-AYes. So actually that the---during the blackout, it’s just the---it’s just problems with the memory recording. So during the blackout, that the person that can function well, although it’s under the influence of alcohol. So usually the person still keep the---during the blackout, still keep the capability of making decision and it---it---you know, that---and---and the---and knowing what is happening to him.
+> AYes. So actually that the---during the blackout, it’s just the---it’s just problems with the memory recording. So during the blackout, that the person that can function well, although it’s under the influence of alcohol. So usually the person still keep the---during the blackout, still keep the capability of making decision and it---it---you know, that---and---and the---and knowing what is happening to him.
 
-QSo even if, prosecution is not saying he’s suffering from it, but even if he had an alcohol-induced amnesia or blackout, during that period of time, he would still be aware of what he was doing and what he was doing was wrong, is that correct?
+> QSo even if, prosecution is not saying he’s suffering from it, but even if he had an alcohol-induced amnesia or blackout, during that period of time, he would still be aware of what he was doing and what he was doing was wrong, is that correct?
 
-AYah. But it’s the---the---the time is the---the behaviour is the---and the thought is under the influence of alcohol.
+> AYah. But it’s the---the---the time is the---the behaviour is the---and the thought is under the influence of alcohol.
 
-QYes. But he was aware---he would be aware of what he’ll be doing?
+> QYes. But he was aware---he would be aware of what he’ll be doing?
 
-AYes. Should be.
+> AYes. Should be.
 
-QAnd he’ll be aware that what he’s doing is wrong?
+> QAnd he’ll be aware that what he’s doing is wrong?
 
-AShould be.
+> AShould be.
 
-QShould be. And that’s your opinion?
+> QShould be. And that’s your opinion?
 
-AYeah.
+> AYeah.
 
-QAlright. ---
+> QAlright. ---
 
-ASorry, because all the literature---
+> ASorry, because all the literature---
 
-QYes.
+> QYes.
 
-A\---have indicated that the---when the person is in a blackout, the person still can function well.
+> A\---have indicated that the---when the person is in a blackout, the person still can function well.
 
-QOkay.
+> QOkay.
 
-AAnd the---have the capability to make a decision.
+> AAnd the---have the capability to make a decision.
 
-QTo make a decision?
+> QTo make a decision?
 
-AYah.
+> AYah.
 
-QAnd to be aware of what is right and what is wrong?
+> QAnd to be aware of what is right and what is wrong?
 
-AWhat is a---what---what is happening around him---
+> AWhat is a---what---what is happening around him---
 
-QYes.
+> QYes.
 
-A\---and the---but the only problem is that the---the person cannot remember---
+> A\---and the---but the only problem is that the---the person cannot remember---
 
-QI see. So it’s just the---
+> QI see. So it’s just the---
 
-A\---after that.
+> A\---after that.
 
-Q\---memory loss---
+> Q\---memory loss---
 
-AJust---
+> AJust---
 
-Q\---but at that point of time, he is functioning---
+> Q\---but at that point of time, he is functioning---
 
-AYes.
+> AYes.
 
-Q\---and aware of what he’s doing?
+> Q\---and aware of what he’s doing?
 
-ARight.
+> ARight.
 
 238    In summary, Dr Guo was of the view that even if the accused was actually suffering from alcohol induced amnesia or blackout (whether en bloc or fragmentary) at the material point in time during the incident, he would still know what he was doing at that point in time even though he might not be able remember what he had done after he recovered from the alcohol intoxication due to the memory loss.
 
@@ -1722,26 +1722,170 @@ ARight.
 
 240    When asked by Defence counsel whether Dr Guo thought the accused knew what he was doing at the material time, Dr Guo answered positively:
 
-AYah, he should have known---
+> AYah, he should have known---
 
-QRight.
+> QRight.
 
-A\---what he’s doing. Yes.
+> A\---what he’s doing. Yes.
 
-QAnd what motivated him to do what he was doing, was it due to the alcohol that it---was in him?
+> QAnd what motivated him to do what he was doing, was it due to the alcohol that it---was in him?
 
-APartly, yes.
+> APartly, yes.
 
 241    Dr Fones too, when asked by the Court, agreed that the accused would be aware of what he was doing for certain things and events even if he was having a fragmented amnesia at the material time such that might not have remembered thereafter:
 
-<table align="left" cellpadding="0" cellspacing="0" class="Judg-2" frame="none" pgwide="0"><colgroup><col width="42.32%"> <col width="57.68%"> </colgroup><tbody><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Court:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">But what you call a---let me get the term correct. Fragmented amnesia.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Witness:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Yes.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Court:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Which means that in the course of the intoxication, he---he remember certain things and he doesn’t remember certain things and he can remember parts of it. He doesn’t remember parts of it. So he’s---he’s---he’s got awareness on---at some instances and not awareness of certain instances. In this case, it will be very difficult for us to really say when he is fully aware of doing certain act and when he is not fully aware of certain act since he has got fragmented amnesia, is it---was it correct?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Witness:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Uh, yes. And not only for different fragments but also the detail to which he can remember certain fragments.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Court:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Yes. So actually---</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Witness:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Yes.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Court:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">if he has got a fragmented amnesia, there could be a point that night whereby he’s---he is aware of what he is doing.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Witness:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Yes, for certain things and certain---event.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Court:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">moments.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Witness:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Yes.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Court:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">And it will be very difficult for us to really exactly point---</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Witness:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">When---</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Court:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">when he is aware and when he’s not aware.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Witness:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">that’s---correct.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Court:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">for fragmented amnesia.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Witness:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Yes, that’s---correct.</p></td></tr></tbody></table>
+>   
+| 
+
+Court:
+
+ | 
+
+But what you call a---let me get the term correct. Fragmented amnesia.
+
+ |
+| 
+
+Witness:
+
+ | 
+
+Yes.
+
+ |
+| 
+
+Court:
+
+ | 
+
+Which means that in the course of the intoxication, he---he remember certain things and he doesn’t remember certain things and he can remember parts of it. He doesn’t remember parts of it. So he’s---he’s---he’s got awareness on---at some instances and not awareness of certain instances. In this case, it will be very difficult for us to really say when he is fully aware of doing certain act and when he is not fully aware of certain act since he has got fragmented amnesia, is it---was it correct?
+
+ |
+| 
+
+Witness:
+
+ | 
+
+Uh, yes. And not only for different fragments but also the detail to which he can remember certain fragments.
+
+ |
+| 
+
+Court:
+
+ | 
+
+Yes. So actually---
+
+ |
+| 
+
+Witness:
+
+ | 
+
+Yes.
+
+ |
+| 
+
+Court:
+
+ | 
+
+if he has got a fragmented amnesia, there could be a point that night whereby he’s---he is aware of what he is doing.
+
+ |
+| 
+
+Witness:
+
+ | 
+
+Yes, for certain things and certain---event.
+
+ |
+| 
+
+Court:
+
+ | 
+
+moments.
+
+ |
+| 
+
+Witness:
+
+ | 
+
+Yes.
+
+ |
+| 
+
+Court:
+
+ | 
+
+And it will be very difficult for us to really exactly point---
+
+ |
+| 
+
+Witness:
+
+ | 
+
+When---
+
+ |
+| 
+
+Court:
+
+ | 
+
+when he is aware and when he’s not aware.
+
+ |
+| 
+
+Witness:
+
+ | 
+
+that’s---correct.
+
+ |
+| 
+
+Court:
+
+ | 
+
+for fragmented amnesia.
+
+ |
+| 
+
+Witness:
+
+ | 
+
+Yes, that’s---correct.
+
+ |
 
   
   
 
 242    When asked to elaborate further, Dr Fones explained that at certain points in time, in terms of his interaction with the police officers, the accused did not know what he was doing. Due to his disinhibition, at least at some of the time, the accused did not know what he was doing was wrong.
 
-Witness:This one had to do with---even in front of his friends who were trying to restrain him, he was actually very belligerent as well. So I think that just speaks to his lack of inhibition. Perhaps, it’s not for me to comment on the legal concept of mens rea. Lawyers sometimes ask me not to but I think put it simply, did he know what he was doing and did he know what he was doing was wrong? I would say that he---at certain points in time, in terms of in his---his interactions with the police officers, he did not know what he was doing. Did he know what he was doing was wrong? Uh, because of his disinhibition, I would say that at least some of the time, he didn’t know that he was wrong. Yah.
+> Witness:This one had to do with---even in front of his friends who were trying to restrain him, he was actually very belligerent as well. So I think that just speaks to his lack of inhibition. Perhaps, it’s not for me to comment on the legal concept of mens rea. Lawyers sometimes ask me not to but I think put it simply, did he know what he was doing and did he know what he was doing was wrong? I would say that he---at certain points in time, in terms of in his---his interactions with the police officers, he did not know what he was doing. Did he know what he was doing was wrong? Uh, because of his disinhibition, I would say that at least some of the time, he didn’t know that he was wrong. Yah.
 
 243    Put it in another way, despite his disinhibition, at other points in time the accused did know what he was doing and he did know what he was doing was wrong. The alcohol merely increased his self-confidence to do things that he might not have ordinarily done or thought twice about doing before doing so.
 

@@ -19,19 +19,19 @@
 
 4       Subsequently, arising from investigations by the police into the report lodged as mentioned above, the Accused was arrested on 27 September 2017 for an offence of commercial sex with a minor and initially charged as follows:
 
-“Sometime in early August 2017, between 4.30pm and 5.00pm, at No. 317 Alexandra Road, IKEA Alexandra basement carpark, Singapore, did obtain for consideration the sexual services of \[**_name of victim redacted_**\] (female / 03/08/2001), who was under the age of 18 years, _to wit_, by sexually penetrating her vagina with your finger and giving her a sum of S$50 thereafter, and you have thereby committed an offence punishable under Section 376B(1) of the Penal Code, Chapter 224 (2008 Rev. Ed.)”
+> “Sometime in early August 2017, between 4.30pm and 5.00pm, at No. 317 Alexandra Road, IKEA Alexandra basement carpark, Singapore, did obtain for consideration the sexual services of \[**_name of victim redacted_**\] (female / 03/08/2001), who was under the age of 18 years, _to wit_, by sexually penetrating her vagina with your finger and giving her a sum of S$50 thereafter, and you have thereby committed an offence punishable under Section 376B(1) of the Penal Code, Chapter 224 (2008 Rev. Ed.)”
 
 ## The Prosecution’s case
 
 5       Just before the start of the trial, the Prosecution tendered an amended charge for an offence of attempting to obtain for consideration the sexual services of a person under 18 years of age (DAC 944069/2017) as follows:
 
-“Sometime in August 2017, in Singapore, did attempt to obtain for consideration the sexual services of \[**_name of victim redacted_**\] (female / 03/08/2001), a person under 18 years of age, _to wit_, by:
+> “Sometime in August 2017, in Singapore, did attempt to obtain for consideration the sexual services of \[**_name of victim redacted_**\] (female / 03/08/2001), a person under 18 years of age, _to wit_, by:
 
-(a)    sending messages to her on Locanto and WeChat in August 2017 to obtain for consideration her sexual services; and
+>> (a)    sending messages to her on Locanto and WeChat in August 2017 to obtain for consideration her sexual services; and
 
-(b)    meeting her in August 2017 at Jurong West and driving her to Alexandra Road, Singapore, to discuss the sexual services that she was willing to provide for consideration;
+>> (b)    meeting her in August 2017 at Jurong West and driving her to Alexandra Road, Singapore, to discuss the sexual services that she was willing to provide for consideration;
 
-and you have thereby committed an offence punishable under Section 376B(1) read with Section 511(1) of the Penal Code, Chapter 224 (2008 Rev. Ed.)”
+> and you have thereby committed an offence punishable under Section 376B(1) read with Section 511(1) of the Penal Code, Chapter 224 (2008 Rev. Ed.)”
 
 6       This amendment to the offence of attempt was necessitated by the undisputed fact that the digital penetration of the victim by the Accused at the basement carpark was not a sexual service provided by the victim for consideration of the $50 given by the Accused to her after the act. Therefore, the Prosecution proceeded on a charge of Attempt particularised by the sending of messages to obtain sexual services and meeting up and discussing in the car the sexual services she was willing to provide for consideration.
 
@@ -55,9 +55,9 @@ and you have thereby committed an offence punishable under Section 376B(1) read 
 
 14     Whether an attempt had been made to commit an offence depends on the type of offence in question. In the present case, the Prosecution had particularised the elements of the Attempt as:
 
-(a)     sending messages to her on Locanto and WeChat in August 2017 to obtain for consideration her sexual services; and
+> (a)     sending messages to her on Locanto and WeChat in August 2017 to obtain for consideration her sexual services; and
 
-(b)     meeting her in August 2017 at Jurong West and driving her to Alexandra Road, Singapore, to discuss the sexual services that she was willing to provide for consideration.
+> (b)     meeting her in August 2017 at Jurong West and driving her to Alexandra Road, Singapore, to discuss the sexual services that she was willing to provide for consideration.
 
 15     The particulars under (a) are not in dispute. The particulars under (b) are disputed in so far as the Accused denied discussing the sexual services that the victim was willing to provide for consideration while they were in the car.
 
@@ -85,11 +85,11 @@ and you have thereby committed an offence punishable under Section 376B(1) read 
 
 25     The DPP was able to show that the evidence proffered by the Accused was rather telling of his true motives and ill intentions. There is no need to repeat most of what the DPP managed to do in destroying the Accused’s feeble explanations. I agree with the DPP’s cogent Closing Submissions (replete with excerpts of the Accused’s testimony) and characterisation of the Accused therein and need only highlight the following pertinent aspects to show why the Court rejected his version:
 
-(a)     I agree with the salient point made by the DPP that “The Locanto messages unequivocally show that the accused intended to have sexual intercourse with the victim for $500 despite knowing that she was just 16”.
+> (a)     I agree with the salient point made by the DPP that “The Locanto messages unequivocally show that the accused intended to have sexual intercourse with the victim for $500 despite knowing that she was just 16”.
 
-(b)     It was preposterous for the Accused to have said that he was prepared to pay the victim $500 per occasion to secure her companionship purely for coffee, movies and meals.
+> (b)     It was preposterous for the Accused to have said that he was prepared to pay the victim $500 per occasion to secure her companionship purely for coffee, movies and meals.
 
-(c)     The sudden detour to the basement carpark (which caught the victim by surprise) and the sexual acts that the Accused performed on the victim at the basement carpark betrayed his intentions all along to engage in sexual activity.
+> (c)     The sudden detour to the basement carpark (which caught the victim by surprise) and the sexual acts that the Accused performed on the victim at the basement carpark betrayed his intentions all along to engage in sexual activity.
 
 ## Offence of Attempt Sufficiently Established
 
@@ -109,21 +109,21 @@ and you have thereby committed an offence punishable under Section 376B(1) read 
 
 31     I had given the following Brief Remarks on Sentence in imposing an imprisonment term of 3 months:
 
-“I am grateful to the DPP and the DC for their assistance in this case. Having heard the submissions of the Prosecution and the Defence, I found that the custodial threshold for the sentence in this case has been crossed. It is clear that the dominant sentencing principle in this case is Deterrence.
+> “I am grateful to the DPP and the DC for their assistance in this case. Having heard the submissions of the Prosecution and the Defence, I found that the custodial threshold for the sentence in this case has been crossed. It is clear that the dominant sentencing principle in this case is Deterrence.
 
-The High Court has touched upon the relevant sentencing factors and considerations for an offence under Section 376B(1) of the Penal Code, Chapter 224, Revised Edition 2008 (“PC”) in _Tan Chye Hin v PP_ <span class="citation">\[2009\] 3 SLR(R) 873</span>. Justice Lee Seiu Kin agreed in this case with Justice Choo Han Teck’s observation in _PP v Wang Minjiang_ <span class="citation">\[2009\] 1 SLR(R) 867</span>, that “a fine alone should not be imposed for such offences, except in the most exceptional circumstances. A custodial sentence should be the norm to deter such behaviour and to reflect the seriousness of such offences.” As stated in the High Court cases, the dominant consideration in enacting s 376B was to protect the young and vulnerable from commercial exploitation.
+> The High Court has touched upon the relevant sentencing factors and considerations for an offence under Section 376B(1) of the Penal Code, Chapter 224, Revised Edition 2008 (“PC”) in _Tan Chye Hin v PP_ <span class="citation">\[2009\] 3 SLR(R) 873</span>. Justice Lee Seiu Kin agreed in this case with Justice Choo Han Teck’s observation in _PP v Wang Minjiang_ <span class="citation">\[2009\] 1 SLR(R) 867</span>, that “a fine alone should not be imposed for such offences, except in the most exceptional circumstances. A custodial sentence should be the norm to deter such behaviour and to reflect the seriousness of such offences.” As stated in the High Court cases, the dominant consideration in enacting s 376B was to protect the young and vulnerable from commercial exploitation.
 
-The maximum term of imprisonment for an offence under s376B(1) PC is 7 years. The maximum imprisonment term for a conviction of an attempt of this offence, read with s 511(2)(b) PC, would be half of that _i.e._ 3 years and 6 months. The Prosecution had asked for a sentence of at least 6 months’ imprisonment, based on a reduced calibration from the sentences of completed offences under s376B(1) PC. The DPP had submitted a table of sentencing precedents showing sentences of between 10 to 12 months of imprisonment for s376B(1) PC offences.
+> The maximum term of imprisonment for an offence under s376B(1) PC is 7 years. The maximum imprisonment term for a conviction of an attempt of this offence, read with s 511(2)(b) PC, would be half of that _i.e._ 3 years and 6 months. The Prosecution had asked for a sentence of at least 6 months’ imprisonment, based on a reduced calibration from the sentences of completed offences under s376B(1) PC. The DPP had submitted a table of sentencing precedents showing sentences of between 10 to 12 months of imprisonment for s376B(1) PC offences.
 
-In my view, the suggestion of an imprisonment of at least 6 months is too high in this case. I say this because using the sentences passed for cases where the sexual exploitation had occurred as starting or reference points would be inappropriate. The fact of actual exploitation is patently a significant sentencing factor. This is because the very reason for the law _i.e_. the protection of the young from being exploited has been compromised and the offender ought to be severely punished. The adverse physical and psychological effects of the sexual exploitation on the young victim are irreversible.
+> In my view, the suggestion of an imprisonment of at least 6 months is too high in this case. I say this because using the sentences passed for cases where the sexual exploitation had occurred as starting or reference points would be inappropriate. The fact of actual exploitation is patently a significant sentencing factor. This is because the very reason for the law _i.e_. the protection of the young from being exploited has been compromised and the offender ought to be severely punished. The adverse physical and psychological effects of the sexual exploitation on the young victim are irreversible.
 
-In the present case before me, the Accused had been convicted of an Attempt, which means that in so far as the act of exploitation is concerned, it had not materialized. Therefore, the sentencing of the Offender in such a case cannot be on the same plane as that of one who had exploited the victim and carried out the sexual act.
+> In the present case before me, the Accused had been convicted of an Attempt, which means that in so far as the act of exploitation is concerned, it had not materialized. Therefore, the sentencing of the Offender in such a case cannot be on the same plane as that of one who had exploited the victim and carried out the sexual act.
 
-The DPP has pointed out in his sentencing submissions that the Accused eventually achieved what he had set out to do by engaging in a sexual act with the victim. If this fact is taken into account in the sentencing of the offender in this case, it would be tantamount to convicting him on a charge which he had not been convicted of. In fact, the Accused was originally charged with a completed offence under s376B(1) PC but that was amended by the Prosecution a few days before the beginning of the trial to an Attempted Offence as the sexual act engaged by the Accused and the girl was not carried out for consideration or money. It would be unfair to take the sex act into account in calibrating the sentence to be imposed for the conviction of an Attempted Offence.
+> The DPP has pointed out in his sentencing submissions that the Accused eventually achieved what he had set out to do by engaging in a sexual act with the victim. If this fact is taken into account in the sentencing of the offender in this case, it would be tantamount to convicting him on a charge which he had not been convicted of. In fact, the Accused was originally charged with a completed offence under s376B(1) PC but that was amended by the Prosecution a few days before the beginning of the trial to an Attempted Offence as the sexual act engaged by the Accused and the girl was not carried out for consideration or money. It would be unfair to take the sex act into account in calibrating the sentence to be imposed for the conviction of an Attempted Offence.
 
-That said, the sentence to be passed on the Accused cannot be a slap on the wrist but has to be of sufficient punishment as to send out a deterrent message to discourage people from trying to gain the trust of immature girls for the purpose of commercial sex with them. Regardless of whether these girls had actively attracted the attention of the men, the law is there to prohibit without exceptions such attempts and propositions.
+> That said, the sentence to be passed on the Accused cannot be a slap on the wrist but has to be of sufficient punishment as to send out a deterrent message to discourage people from trying to gain the trust of immature girls for the purpose of commercial sex with them. Regardless of whether these girls had actively attracted the attention of the men, the law is there to prohibit without exceptions such attempts and propositions.
 
-All considered, a sentence of 3 months’ imprisonment would be appropriate in this case. In calibrating this sentence, I had taken into account, as rightly pointed out by the DPP, that the Accused was persistent in his conduct. The DPP is also right to point out that the Accused had claimed trial and should not be given a sentencing discount ordinarily given to offenders who plead guilty at the earliest opportunity. I had also taken into consideration that the Accused was a first offender for an offence of a sexual nature as he did not have any relevant antecedents. I also understand from the DPP that this is the first case of a person being prosecuted for an attempt to commit the offence under Section 376B(1) of the Penal Code.”
+> All considered, a sentence of 3 months’ imprisonment would be appropriate in this case. In calibrating this sentence, I had taken into account, as rightly pointed out by the DPP, that the Accused was persistent in his conduct. The DPP is also right to point out that the Accused had claimed trial and should not be given a sentencing discount ordinarily given to offenders who plead guilty at the earliest opportunity. I had also taken into consideration that the Accused was a first offender for an offence of a sexual nature as he did not have any relevant antecedents. I also understand from the DPP that this is the first case of a person being prosecuted for an attempt to commit the offence under Section 376B(1) of the Penal Code.”
 
 
 Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F23299-SSP.xml)

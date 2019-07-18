@@ -17,7 +17,7 @@ The accused, a taxi driver, pleaded guilty to a single charge under s 324 of the
 
 2       The charge under s 324 is reproduced for convenient reference:
 
-You … are charged that you, on the 1st day of May 2017, at or about 8.00pm, at the traffic light junction of Harbourfront Walk and Telok Blangah Road, Singapore, did voluntarily cause hurt to Lam Choon Chai by means of fire, to wit, by spraying insecticide at Lam Choon Chai, and igniting the aerosol stream with a lighter, causing the victim to suffer first degree superficial burns to the left ear, cheek and neck, and singeing of the left head hair and left eyebrow, and you have thereby committed an offence punishable under Section 324 of the Penal Code (Cap 224, 2008 Rev Ed).
+> You … are charged that you, on the 1st day of May 2017, at or about 8.00pm, at the traffic light junction of Harbourfront Walk and Telok Blangah Road, Singapore, did voluntarily cause hurt to Lam Choon Chai by means of fire, to wit, by spraying insecticide at Lam Choon Chai, and igniting the aerosol stream with a lighter, causing the victim to suffer first degree superficial burns to the left ear, cheek and neck, and singeing of the left head hair and left eyebrow, and you have thereby committed an offence punishable under Section 324 of the Penal Code (Cap 224, 2008 Rev Ed).
 
 3       The offence carries a maximum penalty of seven years’ imprisonment, fine, caning, in any combination of such punishments. Under s 42(2) of the Road Traffic Act (Cap 276), the offender convicted under this provision can, in addition to the punishment imposed, be disqualified from holding or obtaining a driving licence for life or such period as the court may think fit.
 
@@ -51,27 +51,27 @@ You … are charged that you, on the 1st day of May 2017, at or about 8.00pm, at
 
 15     As a starting point, the prosecution took the position that this was a case involving medium culpability and low harm within the context of a harm-culpability sentencing matrix. The learned prosecutor made general reference to the following five-step methodology laid out by Sundaresh Menon CJ in respect of applying a sentencing matrix in the High Court decision of _Logachev Vladislav v PP_ <span class="citation">\[2018\] SGHC 12</span> at \[76\]-\[84\]:
 
-(i)     Identifying the level of harm caused by the offence, and the level of the offender’s culpability;
+> (i)     Identifying the level of harm caused by the offence, and the level of the offender’s culpability;
 
-(ii)     Identifying the applicable indicative sentencing range within the matrix;
+> (ii)     Identifying the applicable indicative sentencing range within the matrix;
 
-(iii)     Identifying the appropriate starting point within the indicative sentencing range, with reference to the factors in (i);
+> (iii)     Identifying the appropriate starting point within the indicative sentencing range, with reference to the factors in (i);
 
-(iv)     Adjusting the starting point to take into account offender-specific factors; and
+> (iv)     Adjusting the starting point to take into account offender-specific factors; and
 
-(v)     Making further adjustments to take into account the totality principle.
+> (v)     Making further adjustments to take into account the totality principle.
 
 16     The prosecution also highlighted that the sentencing range laid out in the second step should generally utilise the full spectrum of possible sentences that can be imposed for the offence, in order to reflect the gravity with which Parliament views that particular offence (per _Vasentha d/o Joseph v PP_ <span class="citation">\[2015\] SGHC 197</span> (“Vasentha”) at \[46\], and _Poh Boon Kiat v PP_ \[2014\] SLR 892 at \[60\]).
 
 17     The prosecution then posited that the accused should be considered as having medium culpability under the first step for the following reasons:
 
-(a)     The accused’s act was vastly disproportionate to any provocation issued by the victim;
+> (a)     The accused’s act was vastly disproportionate to any provocation issued by the victim;
 
-(b)     The accused committed the acts despite there being a passenger in the car who had shouted at the accused;
+> (b)     The accused committed the acts despite there being a passenger in the car who had shouted at the accused;
 
-(c)     There was an element of premeditation as the accused returned back to his car to procure the lighter;
+> (c)     There was an element of premeditation as the accused returned back to his car to procure the lighter;
 
-(d)     The offence took place at a traffic light junction, while the signal was red.
+> (d)     The offence took place at a traffic light junction, while the signal was red.
 
 18     In the prosecution’s view, the offence was considered one involving low harm as the burns on the victim were superficial, although the potential for serious harm was high.
 

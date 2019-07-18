@@ -25,25 +25,25 @@
 
 5       Two charges (the “**RGA Charges**”) were for engaging in a conspiracy to facilitate the participation by other persons in remote gambling. These were offences under s 9(1)(e) of the _Remote Gambling Act 2014_ (“**RGA**”) read with s 109 of the _Penal Code_ (Cap 224, Rev Ed 2008) (“**Penal Code**”). The charges read as follows:
 
-DAC-914435-2018 (10th Charge)
+> DAC-914435-2018 (10th Charge)
 
-You \[...\] are charged that you, sometime in June 2016, did engage in a conspiracy with Tan Ke Da Paul (“Tan”) to facilitate participation by others in remote gambling, in accordance with arrangements made by your principal, one “Ming Long”, and in pursuance of that conspiracy and in order to the doing of the thing, an act took place, _to wit_, Tan created and issued a player account with the user ID “**30mqc112**” on the website http://www.water22.com, which is a remote gambling service not provided by an exempt operator or a person otherwise exempt under Section 40 of the Remote Gambling Act 2014 (“RGA”), which allowed one or more individuals to gamble using remote communication, _to wit_, on soccer fixtures between 14 September 2016 to 30 September 2016 with a total bet value amounting to **S$12,300**, which act took place in consequence of your abetment, and as a result, you facilitated one or more individuals to commit an offence under Section 8 of the RGA, and you have thereby committed an offence punishable under Section 9(1)(e) of the RGA read with Section 109 of the Penal Code (Cap 224, 2008 Rev Ed).
+> You \[...\] are charged that you, sometime in June 2016, did engage in a conspiracy with Tan Ke Da Paul (“Tan”) to facilitate participation by others in remote gambling, in accordance with arrangements made by your principal, one “Ming Long”, and in pursuance of that conspiracy and in order to the doing of the thing, an act took place, _to wit_, Tan created and issued a player account with the user ID “**30mqc112**” on the website http://www.water22.com, which is a remote gambling service not provided by an exempt operator or a person otherwise exempt under Section 40 of the Remote Gambling Act 2014 (“RGA”), which allowed one or more individuals to gamble using remote communication, _to wit_, on soccer fixtures between 14 September 2016 to 30 September 2016 with a total bet value amounting to **S$12,300**, which act took place in consequence of your abetment, and as a result, you facilitated one or more individuals to commit an offence under Section 8 of the RGA, and you have thereby committed an offence punishable under Section 9(1)(e) of the RGA read with Section 109 of the Penal Code (Cap 224, 2008 Rev Ed).
 
-DAC-914436-2018 (11th Charge)
+> DAC-914436-2018 (11th Charge)
 
-You \[...\] are charged that you, sometime in June 2016, did engage in a conspiracy with Tan Ke Da Paul (“Tan”) to facilitate participation by others in remote gambling, in accordance with arrangements made by your principal, one “Ming Long”, and in pursuance of that conspiracy and in order to the doing of the thing, an act took place, _to wit_, Tan created and issued an player account with the user ID “**30mqc113**” on the website http://www.water22.com, which is a remote gambling service not provided by an exempt operator or a person otherwise exempt under Section 40 of the Remote Gambling Act 2014 (“RGA”), which allowed one or more individuals to gamble using remote communication, _to wit_, on soccer fixtures between 14 September 2016 to 30 September 2016 with a total bet value amounting to **S$5,094**, which act took place in consequence of your abetment, and as a result, you facilitated one or more individuals to commit an offence under Section 8 of the RGA, and you have thereby committed an offence punishable under Section 9(1)(e) of the RGA read with Section 109 of the Penal Code (Cap 224, 2008 Rev Ed).
+> You \[...\] are charged that you, sometime in June 2016, did engage in a conspiracy with Tan Ke Da Paul (“Tan”) to facilitate participation by others in remote gambling, in accordance with arrangements made by your principal, one “Ming Long”, and in pursuance of that conspiracy and in order to the doing of the thing, an act took place, _to wit_, Tan created and issued an player account with the user ID “**30mqc113**” on the website http://www.water22.com, which is a remote gambling service not provided by an exempt operator or a person otherwise exempt under Section 40 of the Remote Gambling Act 2014 (“RGA”), which allowed one or more individuals to gamble using remote communication, _to wit_, on soccer fixtures between 14 September 2016 to 30 September 2016 with a total bet value amounting to **S$5,094**, which act took place in consequence of your abetment, and as a result, you facilitated one or more individuals to commit an offence under Section 8 of the RGA, and you have thereby committed an offence punishable under Section 9(1)(e) of the RGA read with Section 109 of the Penal Code (Cap 224, 2008 Rev Ed).
 
 6       One charge (the “**PCA Charge**”) related to the corrupt offer of a gratification, an offence under s 6(b) of the _Prevention of Corruption Act_ (Cap 241, Rev Ed 1993) (“**PCA**”):
 
-DAC-914443-2018 (18th Charge)
+> DAC-914443-2018 (18th Charge)
 
-You \[...\] are charged that you, sometime in July 2016, in Singapore, did corruptly offer gratification, _to wit_, an unspecified sum of money, to an agent, Royce Phua Tai Da (“Phua”), a Staff Assistant of the Singapore Police Force (“SPF”), through one Ivan Sim Jun Jie, as an inducement for doing acts in relation to Phua’s principal’s affairs, _to wit_, obtain screening results from the SPF’s internal computer databases without authorisation, which acts you knew were unauthorised, and you have thereby committed an offence punishable under Section 6(b) of the Prevention of Corruption Act (Cap 241).
+> You \[...\] are charged that you, sometime in July 2016, in Singapore, did corruptly offer gratification, _to wit_, an unspecified sum of money, to an agent, Royce Phua Tai Da (“Phua”), a Staff Assistant of the Singapore Police Force (“SPF”), through one Ivan Sim Jun Jie, as an inducement for doing acts in relation to Phua’s principal’s affairs, _to wit_, obtain screening results from the SPF’s internal computer databases without authorisation, which acts you knew were unauthorised, and you have thereby committed an offence punishable under Section 6(b) of the Prevention of Corruption Act (Cap 241).
 
 7       One charge (the “**CMCA Charge**”) related to a conspiracy to secure unauthorised access to a computer system used by the police, an offence under s 3(1) read with s 10(1) of the _Computer Misuse and Cybersecurity Act_ (Cap 50A, Rev Ed 2007) (“**CMCA**”):
 
-DAC-914444-2018 (19th Charge)
+> DAC-914444-2018 (19th Charge)
 
-You \[...\] are charged that you, sometime in July 2016, in Singapore, did abet the commission of an offence by engaging in a conspiracy with Ivan Sim Jun Jie and Royce Phua Tai Da to commit an offence under Section 3(1) of the Computer Misuse and Cybersecurity Act (Cap 50A) (“CMCA”), to perform a function for the purpose of securing access without authority to data contained in the computer system of the Traffic Police, Singapore Police Force, and in pursuance of that conspiracy and in order to the doing of that thing, an act took place on 14 July 2016, at or about 2:57 pm, at No. 10, Ubi Avenue 3, Traffic Police, Singapore, _to wit_, one Joseph Yeo Peng Siong ran an unauthorised search on the NRIC number \[SxxxxxxxG\] in the Traffic Police’s CRIMES-2 system and accessed, without authority, data relevant to that NRIC number, which act you knew was unauthorised and which act took place in consequence of your abetment, and you have thereby committed an offence punishable under Section 3(1) read with Section 10(1) of the CMCA.
+> You \[...\] are charged that you, sometime in July 2016, in Singapore, did abet the commission of an offence by engaging in a conspiracy with Ivan Sim Jun Jie and Royce Phua Tai Da to commit an offence under Section 3(1) of the Computer Misuse and Cybersecurity Act (Cap 50A) (“CMCA”), to perform a function for the purpose of securing access without authority to data contained in the computer system of the Traffic Police, Singapore Police Force, and in pursuance of that conspiracy and in order to the doing of that thing, an act took place on 14 July 2016, at or about 2:57 pm, at No. 10, Ubi Avenue 3, Traffic Police, Singapore, _to wit_, one Joseph Yeo Peng Siong ran an unauthorised search on the NRIC number \[SxxxxxxxG\] in the Traffic Police’s CRIMES-2 system and accessed, without authority, data relevant to that NRIC number, which act you knew was unauthorised and which act took place in consequence of your abetment, and you have thereby committed an offence punishable under Section 3(1) read with Section 10(1) of the CMCA.
 
 #### Facts
 
@@ -67,9 +67,9 @@ You \[...\] are charged that you, sometime in July 2016, in Singapore, did abet 
 
 15     Pursuant to their conspiracy, sometime in June 2016, Tan used the agent account to create and issue two player accounts (among others) on the illegal remote gambling website http://water22.com. The userIDs of these two accounts were:
 
-(a)     “30mqc112” (DAC-914435-2018); and
+> (a)     “30mqc112” (DAC-914435-2018); and
 
-(b)     “30mqc113” (DAC-914436-2018).
+> (b)     “30mqc113” (DAC-914436-2018).
 
 16     The provision of the two player accounts allowed one or more punters to access the illegal gambling accounts using the Internet and to place bets, which amounted to a total of $12,300 and $5,094, respectively. The bets were placed to forecast the results of soccer match fixtures in various soccer leagues.
 
@@ -105,13 +105,13 @@ You \[...\] are charged that you, sometime in July 2016, in Singapore, did abet 
 
 29     Apart from the four charges that the defendant pleaded guilty to, he also admitted to 15 other offences and consented to the offences being taken into consideration for the purposes of sentencing. These were:
 
-(a)     12 other offences relating to the facilitation of remote gambling, involving bet values ranging from $8.00 to $4,685, which were offences under s 9(1)(e) RGA read with s 109 Penal Code;
+> (a)     12 other offences relating to the facilitation of remote gambling, involving bet values ranging from $8.00 to $4,685, which were offences under s 9(1)(e) RGA read with s 109 Penal Code;
 
-(b)     One offence of receiving an unknown amount of betting money from Tan and passing it to “Ming Long”, an offence under s 9(1)(c) RGA;
+> (b)     One offence of receiving an unknown amount of betting money from Tan and passing it to “Ming Long”, an offence under s 9(1)(c) RGA;
 
-(c)     One offence of unlawful remote gambling in which the defendant placed bets of $3,769, an offence under s 8(1) RGA; and
+> (c)     One offence of unlawful remote gambling in which the defendant placed bets of $3,769, an offence under s 8(1) RGA; and
 
-(d)     The offence of corruptly offering gratification to Sim as an inducement to obtain screening results from a police computer database, an offence under s 5(b)(i) PCA.
+> (d)     The offence of corruptly offering gratification to Sim as an inducement to obtain screening results from a police computer database, an offence under s 5(b)(i) PCA.
 
 ## SENTENCE
 

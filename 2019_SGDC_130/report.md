@@ -29,27 +29,27 @@
 
 6       The Charge against the accused is set out below -
 
-**_DAC-915535-2017_**
+> **_DAC-915535-2017_**
 
-_You are charged that you, on 8 May 2017, between 5am and 11am., at Changi General Hospital, in Singapore, did fail, without reasonable excuse, to provide a specimen of your urine within such time as may be required by police officers not below the rank of sergeant, namely, Sergeant Muhammad Fazli bin Zailani and Woman Staff Sergeant Wee Xue Ting, for urine tests to be conducted under s 31 of the Misuse of Drugs Act (Cap 185, 2008 Rev Ed), to wit, and you have thereby committed an offence under s 31(2) of the Misuse of Drugs Act (Cap 185, 2008 Rev Ed)._
+> _You are charged that you, on 8 May 2017, between 5am and 11am., at Changi General Hospital, in Singapore, did fail, without reasonable excuse, to provide a specimen of your urine within such time as may be required by police officers not below the rank of sergeant, namely, Sergeant Muhammad Fazli bin Zailani and Woman Staff Sergeant Wee Xue Ting, for urine tests to be conducted under s 31 of the Misuse of Drugs Act (Cap 185, 2008 Rev Ed), to wit, and you have thereby committed an offence under s 31(2) of the Misuse of Drugs Act (Cap 185, 2008 Rev Ed)._
 
-_And further, that you, before the commission of the said offence, were on 12 July 2011, in District Court No. 25, vide DAC14982/2011, convicted of an offence of consumption of a specified drug, to wit, morphine, under s 8(b)(ii) and punished under s 33A(1) of the Misuse of Drugs Act (Cap 185, 2008 Rev Ed) with 5 years’ and 6 months’ imprisonment and 3 strokes of the cane, which conviction and sentence have not been set aside to date, and you shall now be punished under s 33A(2) of the Misuse of Drugs Act (Cap 185, 2008 Rev Ed)._
+> _And further, that you, before the commission of the said offence, were on 12 July 2011, in District Court No. 25, vide DAC14982/2011, convicted of an offence of consumption of a specified drug, to wit, morphine, under s 8(b)(ii) and punished under s 33A(1) of the Misuse of Drugs Act (Cap 185, 2008 Rev Ed) with 5 years’ and 6 months’ imprisonment and 3 strokes of the cane, which conviction and sentence have not been set aside to date, and you shall now be punished under s 33A(2) of the Misuse of Drugs Act (Cap 185, 2008 Rev Ed)._
 
 ## The Offence
 
 7       The offence of failing to provide a urine specimen without reasonable excuse is described in section 31 of the MDA as follows:
 
-“(1)  Any officer of the Bureau, immigration officer or police officer not below the rank of sergeant may, if he reasonably suspects any person to have committed an offence under section 8(b), require that person to provide a specimen of his urine for urine tests to be conducted under this section.
+> “(1)  Any officer of the Bureau, immigration officer or police officer not below the rank of sergeant may, if he reasonably suspects any person to have committed an offence under section 8(b), require that person to provide a specimen of his urine for urine tests to be conducted under this section.
 
-(2)    A person who fails, without reasonable excuse, to provide a specimen of his urine within such time as may be required by any of the officers referred to in subsection (1) shall be guilty of an offence.”
+> (2)    A person who fails, without reasonable excuse, to provide a specimen of his urine within such time as may be required by any of the officers referred to in subsection (1) shall be guilty of an offence.”
 
 8       The punishment for such offence is provided under s 33A of the MDA (relating to “Punishment for repeat consumption of specified drugs”) as follows:
 
-“(2)  Where a person who has been punished under subsection (1) \[for an LT-1 offence\] is again convicted of an offence for consumption of a specified drug under section 8(b) or _an offence of failure to provide a urine specimen under section 31(2)_, he shall on conviction be punished with —
+> “(2)  Where a person who has been punished under subsection (1) \[for an LT-1 offence\] is again convicted of an offence for consumption of a specified drug under section 8(b) or _an offence of failure to provide a urine specimen under section 31(2)_, he shall on conviction be punished with —
 
-imprisonment of not less than 7 years and not more than 13 years; and
+>> imprisonment of not less than 7 years and not more than 13 years; and
 
-not less than 6 strokes and not more than 12 strokes of the cane.”
+>> not less than 6 strokes and not more than 12 strokes of the cane.”
 
 (emphasis added)
 
@@ -59,9 +59,9 @@ not less than 6 strokes and not more than 12 strokes of the cane.”
 
 10     The accused was stopped by Police Officers from the Singapore Police Force on 8 May 2017 at about 12.45am at the void deck of Block 803, Chai Chee Road, Singapore. The accused was asked for his particulars by the police officers. He provided a NRIC number which did not belong to him. Upon further questioning of the accused, the police officers realized that the accused had a stack of medical certificates, and also found an NRIC number “XXX” on the medical certificates. It was noticed that the NRIC number of the medical certificates did not tally with the NRIC number that the accused had provided. The police officers then carried out a screening done on the NRIC number “XXX.” It was discovered that the person bearing the said NRIC number was wanted under a Police Gazette for failing to report for urine test. At this point, the accused then admitted that the said NRIC number was his own NRIC number. The accused was then arrested for failing to report for urine test and for being suspected of having consumed a specified drug. The following items were also seized from the accused :-
 
-one burnt aluminium foil; and
+> one burnt aluminium foil; and
 
-one rolled up paper.
+> one rolled up paper.
 
 11     The accused was then brought to Bedok Police Divisional Headquarters for further investigations. Subsequently, he was brought to the Changi General Hospital (“CGH”) on the same day. At about 4.56 am, the accused urinated in his pants on his own in a holding room at CGH.
 
@@ -103,9 +103,9 @@ one rolled up paper.
 
 23     Aside from the two instances above which showed that the accused was able to, and in fact, had passed urine on his own on 8 May 2017, the Prosecution also adduced medical evidence to show that the accused was able to pass urine on his own _on other occasions_:
 
-(i)     Dr Christina had issued two medical reports dated 16 May 2017 (Exhibit P4) and dated 14 September 2017 (Exhibit P5) stating that the accused was able to pass urine unaided and on his own and was certified to pass urine on 8 May 2017;
+> (i)     Dr Christina had issued two medical reports dated 16 May 2017 (Exhibit P4) and dated 14 September 2017 (Exhibit P5) stating that the accused was able to pass urine unaided and on his own and was certified to pass urine on 8 May 2017;
 
-(ii)     PW13 Dr Teo Jin Kiat, a doctor in the Urology department of CGH, had issued a medical report dated 25 July 2018 (exhibit P15) stating that the accused was able to pass urine “on his own” as claimed by him on 8 May 2017. This meant that the accused did not require the insertion of a urinary catheter to drain out his urine, and had passed urine on his own at 1.30pm on 8 May 2017.[^4]
+> (ii)     PW13 Dr Teo Jin Kiat, a doctor in the Urology department of CGH, had issued a medical report dated 25 July 2018 (exhibit P15) stating that the accused was able to pass urine “on his own” as claimed by him on 8 May 2017. This meant that the accused did not require the insertion of a urinary catheter to drain out his urine, and had passed urine on his own at 1.30pm on 8 May 2017.[^4]
 
 #### (vi)   Close of Prosecution case
 
@@ -209,17 +209,17 @@ one rolled up paper.
 
 57     In this regard, s. 291 (3) (a) of the CPC states that –
 
-(i)    after being called by the court to give evidence or after he or the advocate representing him has informed the court that he will give evidence, refuses to be sworn or affirmed; or
+> (i)    after being called by the court to give evidence or after he or the advocate representing him has informed the court that he will give evidence, refuses to be sworn or affirmed; or
 
-(ii)  having been sworn or affirmed, without good cause refuses to answer any question
+> (ii)  having been sworn or affirmed, without good cause refuses to answer any question
 
-the court, in deciding whether the accused is guilty of the offence, may draw such inferences from the refusal as appear proper.
+> the court, in deciding whether the accused is guilty of the offence, may draw such inferences from the refusal as appear proper.
 
-\[Emphasis added\]
+> \[Emphasis added\]
 
 58     The Court of Appeal in _Took Leng How v Public Prosecutor <span class="citation">\[2006\] 2 SLR(R) 70</span>_ (_“Took Leng How”)_ at paragraphs \[42\] – \[43\] clarified the scope of “such inferences” referred to the previous formulation of s 291(3) (a), namely s 196 (2) of the CPC. The Court of Appeal also referred in this regard to the well-known case of _Haw Tua Tau v PP_ \[1981 – 1982\] SLR(R) 133 where the Court of Appeal had stated at \[42\] that “_what inferences are proper to be drawn from an accused’s refusal to give evidence depend on the circumstances of a particular case, and is a question to be decided by applying ordinary common sense_” and the strongest inference being one of guilt itself. This pronouncement also affirmed the decision in _Chai Chien Wei Kelvin v Public Prosecutor_ <span class="citation">\[1998\] 3 SLR(R) 619</span>[^31] at \[82\]:
 
-_On the other hand_, _if aspects of the evidence taken alone or in combination with other facts clearly call for an explanation_ _which the accused ought to be in a position to give, if an explanation exists, then a failure to give any explanation may_ _as a matter of common sense allow the drawing of an inference that there is no explanation and that the accused is guilty._
+> _On the other hand_, _if aspects of the evidence taken alone or in combination with other facts clearly call for an explanation_ _which the accused ought to be in a position to give, if an explanation exists, then a failure to give any explanation may_ _as a matter of common sense allow the drawing of an inference that there is no explanation and that the accused is guilty._
 
 59     Using the above statements as a guide, and noting also that the medical evidence in this case provided by a total of 7 doctors and several medical reports, this was a case that “_clearly called”_ for an explanation from the accused. It was one thing for the accused to claim that he had a urine disorder on 8 May 2017. At the same time, the evidence clearly revealed that he had passed urine on his own on 2 occasions that very same day. Further, the accused had also been examined and certified by both the A&E doctors and also specialist urology doctors to be able to pass urine on that day. As such and even putting aside the accused’s s 22 long statement which contained incriminating matters pertaining to his drug consumption just before his arrest, the medical evidence alone warranted an explanation from the accused. None was forthcoming for reasons known only to the accused. In the absence of any explanation or reasons being given by oral evidence, there was nothing really to assist the accused apart from his bare assertions and tangential allegations made during his cross-examination of some of the prosecution witnesses. I find therefore that this was clearly a case of “ _Where evidence which has been given calls for an explanation which the accused alone can give_, **_then silence on his part may lead to the inference that none is available and that the evidence is probably true_****”** – paragraph \[43\] of _Took Leng How_. In the absence of any such explanation from the accused, I am of the view that the irresistible inference from the medical evidence is that the accused was entirely able to pass urine on his own on 8 May 2017 and he had deliberately chosen not to provide a urine sample to the police officers when requested to do so without reasonable excuse.
 
@@ -247,53 +247,53 @@ _On the other hand_, _if aspects of the evidence taken alone or in combination w
 
 67     After the accused had been found guilty and convicted on the single proceeded Charge, he elected to plead guilty to the following 2 Charges –
 
-**_DAC-915536-2017_**
+> **_DAC-915536-2017_**
 
-_You are charged that you, on 8 May 2017 at about 12.45 am, at Block 803 Chai Chee Road, Void Deck, in Singapore, did have in possession utensils intended for the consumption of a Class A controlled drug listed in the First Schedule to the Misuse of Drugs Act (Cap 185, 2008 Rev Ed), to wit, one burnt aluminium foil and one rolled up paper, without any authorisation under the said Act or the Regulations made thereunder and you have thereby committed an offence under Section 9 and punishable under Section 33(1) of the said Act._
+> _You are charged that you, on 8 May 2017 at about 12.45 am, at Block 803 Chai Chee Road, Void Deck, in Singapore, did have in possession utensils intended for the consumption of a Class A controlled drug listed in the First Schedule to the Misuse of Drugs Act (Cap 185, 2008 Rev Ed), to wit, one burnt aluminium foil and one rolled up paper, without any authorisation under the said Act or the Regulations made thereunder and you have thereby committed an offence under Section 9 and punishable under Section 33(1) of the said Act._
 
-**_DAC-918795-2017_**
+> **_DAC-918795-2017_**
 
-_You are charged that you, on the 24th day of April 2017 (Monday), in Singapore, being a person subjected to a Supervision Order for a period of 24 months with effect from 13th June 2015, issued under Regulation 15 of the Misuse of Drugs (Approved Institutions and Treatment and Rehabilitation) Regulations (Reg 3, 1999 Rev Ed), did fail to present yourself for urine test to the Duty Officer at Bedok Police Divisional HQ as required under the said Order and you have thereby committed an offence under Regulation 15(3)(f) of the aforesaid Regulations and punishable under Regulation 15(6)(a) of the aforesaid Regulations._
+> _You are charged that you, on the 24th day of April 2017 (Monday), in Singapore, being a person subjected to a Supervision Order for a period of 24 months with effect from 13th June 2015, issued under Regulation 15 of the Misuse of Drugs (Approved Institutions and Treatment and Rehabilitation) Regulations (Reg 3, 1999 Rev Ed), did fail to present yourself for urine test to the Duty Officer at Bedok Police Divisional HQ as required under the said Order and you have thereby committed an offence under Regulation 15(3)(f) of the aforesaid Regulations and punishable under Regulation 15(6)(a) of the aforesaid Regulations._
 
 ## Statement of Facts
 
 68     The statement of facts for the for these 2 proceeded charges stated as follows –
 
-_“Statement of Facts_
+> _“Statement of Facts_
 
-PP v MOHAMAD ESKAH BIN ABDUL MALEK
+> PP v MOHAMAD ESKAH BIN ABDUL MALEK
 
-STATEMENT OF FACTS
+> STATEMENT OF FACTS
 
-1.    The accused is Mohamad Eskah Bin Abdul Malek, male, 44 years old, Singaporean, bearing NRIC No.: XXX (date of birth: 15 December 1974)
+> 1.    The accused is Mohamad Eskah Bin Abdul Malek, male, 44 years old, Singaporean, bearing NRIC No.: XXX (date of birth: 15 December 1974)
 
-FACTS PERTAINING TO THE 2nd CHARGE (DAC-915536-2017) –POSSESSION OF DRUG UTENSILS
+> FACTS PERTAINING TO THE 2nd CHARGE (DAC-915536-2017) –POSSESSION OF DRUG UTENSILS
 
-2.    On 8 May 2017, at about 12.45am, at the void deck of block 803, Chai Chee Road, Singapore, the accused was stopped by police officers from the Singapore Police Force. The police officers asked for his particulars and he provided a NRIC number which did not belong to him. Upon further questioning, the police officers saw that the accused had a stack of medical certificates, and found an NRIC number “XXX” on the medical certificates, and noticed that the NRIC number of the medical certificates did not tally with the NRIC number the accused provided. As such, a screening was done on the NRIC number “XXX” and it was found that the person bearing the said NRIC number was wanted via Police Gazette for failing to report for urine test. The accused then admitted that the said NRIC number was his NRIC number. He was then arrested for failing to report for urine test and for being suspected of having consumed a specified drug. The following was also seized from him:-
+> 2.    On 8 May 2017, at about 12.45am, at the void deck of block 803, Chai Chee Road, Singapore, the accused was stopped by police officers from the Singapore Police Force. The police officers asked for his particulars and he provided a NRIC number which did not belong to him. Upon further questioning, the police officers saw that the accused had a stack of medical certificates, and found an NRIC number “XXX” on the medical certificates, and noticed that the NRIC number of the medical certificates did not tally with the NRIC number the accused provided. As such, a screening was done on the NRIC number “XXX” and it was found that the person bearing the said NRIC number was wanted via Police Gazette for failing to report for urine test. The accused then admitted that the said NRIC number was his NRIC number. He was then arrested for failing to report for urine test and for being suspected of having consumed a specified drug. The following was also seized from him:-
 
-(a)    one burnt aluminium foil; and
+>> (a)    one burnt aluminium foil; and
 
-(b)    one rolled up paper.
+>> (b)    one rolled up paper.
 
-3.    The accused was then brought to Bedok Police Divisional Headquarters for further investigations. The accused admitted that the abovementioned items belonged to him and were in his possession for the purpose of drug consumption, in particular, heroin.
+> 3.    The accused was then brought to Bedok Police Divisional Headquarters for further investigations. The accused admitted that the abovementioned items belonged to him and were in his possession for the purpose of drug consumption, in particular, heroin.
 
-4.    By virtue of the foregoing, the accused has committed an offence under s 9 of the Misuse of Drugs Act (Cap 185, 2008 Rev Ed) (“**MDA**”) and punishable under s 33(1) of the MDA.
+> 4.    By virtue of the foregoing, the accused has committed an offence under s 9 of the Misuse of Drugs Act (Cap 185, 2008 Rev Ed) (“**MDA**”) and punishable under s 33(1) of the MDA.
 
-FACTS PERTAINING TO THE 3rd CHARGE (DAC-918795-2017) - FAILING TO REPORT FOR URINE TEST
+> FACTS PERTAINING TO THE 3rd CHARGE (DAC-918795-2017) - FAILING TO REPORT FOR URINE TEST
 
-5.    The accused was placed under compulsory supervision with effect from 13 June 2015 for a period 24 months by virtue of Regulation 15 of the Misuse of Drugs (Approved Institutions and Treatment and Rehabilitation) Regulations (Reg 3, 1999 Rev Ed) (“**MDR**”).
+> 5.    The accused was placed under compulsory supervision with effect from 13 June 2015 for a period 24 months by virtue of Regulation 15 of the Misuse of Drugs (Approved Institutions and Treatment and Rehabilitation) Regulations (Reg 3, 1999 Rev Ed) (“**MDR**”).
 
-6.    Pursuant to Regulation 15(3)(f) of the MDR, the accused was required to present himself to the Duty Officer at Bedok Police Divisional Headquarters, on every Monday, Friday of each month, from 9.30 am to 10.00 pm, commencing on 15 June 2015 for urine tests during the period of supervision, that is from 13 June 2015 to 12 June 2017, except Public Holidays. However, the accused failed to report for urine test on 1 occasion. On **24 April 2017 (Monday)**, the accused failed to present himself for urine test at Bedok Divisional Headquarters without any valid reasons.
+> 6.    Pursuant to Regulation 15(3)(f) of the MDR, the accused was required to present himself to the Duty Officer at Bedok Police Divisional Headquarters, on every Monday, Friday of each month, from 9.30 am to 10.00 pm, commencing on 15 June 2015 for urine tests during the period of supervision, that is from 13 June 2015 to 12 June 2017, except Public Holidays. However, the accused failed to report for urine test on 1 occasion. On **24 April 2017 (Monday)**, the accused failed to present himself for urine test at Bedok Divisional Headquarters without any valid reasons.
 
-7.    The accused has thereby committed an offence under Regulation 15(3)(f) and punishable under Regulation 15(6)(a) of the MDR.
+> 7.    The accused has thereby committed an offence under Regulation 15(3)(f) and punishable under Regulation 15(6)(a) of the MDR.
 
-_JANE LIM_
+> _JANE LIM_
 
-_DEPUTY PUBLIC PROSECUTOR_
+> _DEPUTY PUBLIC PROSECUTOR_
 
-_SINGAPORE_
+> _SINGAPORE_
 
-_27 May 2019”_
+> _27 May 2019”_
 
 69     The accused admitted to the above statement of facts without qualification.
 
@@ -317,11 +317,11 @@ _27 May 2019”_
 
 74     In view of the above considerations, I sentenced the accused as follows –
 
-DAC-915535-2017    7 years and 6 months’ imprisonment and 6 strokes
+> DAC-915535-2017    7 years and 6 months’ imprisonment and 6 strokes
 
-DAC-915536-2017    4 months’ imprisonment
+> DAC-915536-2017    4 months’ imprisonment
 
-DAC-918795-2017    6 months’ imprisonment
+> DAC-918795-2017    6 months’ imprisonment
 
 75     I ordered the imprisonment terms for DAC-915535-2017 and DAC-915536-2017 to run consecutively. The accused was therefore sentenced to a total of 7 years and 10 months’ imprisonment and 6 strokes of the cane. He is appealing against his conviction on the s. 31 (2) MDA charge.
 

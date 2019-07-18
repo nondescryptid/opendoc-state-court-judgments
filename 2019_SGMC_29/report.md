@@ -19,23 +19,23 @@ Civil Procedure – Pleadings
 
 2       The plaintiff claims that she paid the defendant over S$40,000.00 for the purpose of investing in three schemes, namely “Silverstar”, “Cam Loto” and “Zero Space”, as a result of the defendant’s supposed fraudulent misrepresentations and concealment of facts. The plaintiff alleged:
 
-(a)     as regards Silverstar, that the defendant had said that:
+> (a)     as regards Silverstar, that the defendant had said that:
 
-(i)       she would “be able to profit the sum of S$5,000.00 and above every month”[^1] (“Item 1a”); and
+>> (i)       she would “be able to profit the sum of S$5,000.00 and above every month”[^1] (“Item 1a”); and
 
-(ii)       he would release 100 people to her (“Item 1b”).[^2]
+>> (ii)       he would release 100 people to her (“Item 1b”).[^2]
 
-(b)     as regards Cam Loto, that the defendant:
+> (b)     as regards Cam Loto, that the defendant:
 
-(i)       had represented it as a low risk scheme (“Item 2a”);[^3]
+>> (i)       had represented it as a low risk scheme (“Item 2a”);[^3]
 
-(ii)       had said that it was “established with the knowledge of the Cambodia government and licensed to broadcast on official media” (“Item 2b”); and
+>> (ii)       had said that it was “established with the knowledge of the Cambodia government and licensed to broadcast on official media” (“Item 2b”); and
 
-(iii)       had guaranteed her “investment profits” under this scheme[^4] (“Item 2c”).
+>> (iii)       had guaranteed her “investment profits” under this scheme[^4] (“Item 2c”).
 
-(c)     as regards Zero Space, that the defendant had promised her “an immediate gain of USD6,000.00 on the very next day upon pumping in her capital”[^5] (“Item 3”).
+> (c)     as regards Zero Space, that the defendant had promised her “an immediate gain of USD6,000.00 on the very next day upon pumping in her capital”[^5] (“Item 3”).
 
-(d)     that the defendant did not disclose to her that these investments were “participated by” one “Simon” (“Item 4”), even though she had told him that she would not invest in any scheme “operated by” Simon.[^6] (Simon was another investor, known to both parties, and in whom the plaintiff had lost her trust, after she had lost money in investments that Simon had recommended.)
+> (d)     that the defendant did not disclose to her that these investments were “participated by” one “Simon” (“Item 4”), even though she had told him that she would not invest in any scheme “operated by” Simon.[^6] (Simon was another investor, known to both parties, and in whom the plaintiff had lost her trust, after she had lost money in investments that Simon had recommended.)
 
 3       The plaintiff thus sued for “S$40,000.00 being part of the large sum previously paid by the Plaintiff to the Defendant”.[^7] In opening, counsel for the plaintiff clarified that the action was brought in the tort of deceit (and not in contract), and that the sum claimed represents tortious damages (and not contractual damages or restitution consequent to rescission).[^8] The plaintiff has made no attempt to advance an alternative case of negligent misrepresentation.
 
@@ -51,11 +51,11 @@ Civil Procedure – Pleadings
 
 7       In this case, I did not consider that the plaintiff had distinctly alleged fraud in the statement of claim (“SOC”). **_First_**, no allegation of fraud was made in respect of Zero Space. **_Second_**, in all but one instances where some sort of fraud or cheating was alluded to, plaintiff pleaded that she _felt_ cheated. In my view, that was hardly a serious suggestion of fraud at best, and irrelevant at worst. **_Third_**, and more importantly, what little reasons the plaintiff offered for feeling (or having been) cheated were entirely consistent with non-fraudulent conduct. Specifically:
 
-(a)     In relation to Silverstar, the plaintiff said that she “feels cheated and that she had been misrepresented by the Defendant”, simply by virtue of the fact that she had not received the profit that she was told she would earn.[^9] Later on in the SOC, she emphasised that she “was also cheated by the Defendant in the Silverstar investment schemes, whereby the Defendant had promised a profit of S$5,000.00 per month but \[to date\] no such profits have been received by the Plaintiff”.[^10]
+> (a)     In relation to Silverstar, the plaintiff said that she “feels cheated and that she had been misrepresented by the Defendant”, simply by virtue of the fact that she had not received the profit that she was told she would earn.[^9] Later on in the SOC, she emphasised that she “was also cheated by the Defendant in the Silverstar investment schemes, whereby the Defendant had promised a profit of S$5,000.00 per month but \[to date\] no such profits have been received by the Plaintiff”.[^10]
 
-(b)     In relation to Cam Loto, she said she “again feels cheated by the Defendant as he failed to fulfil his promises and representation of this scheme towards her”.[^11]
+> (b)     In relation to Cam Loto, she said she “again feels cheated by the Defendant as he failed to fulfil his promises and representation of this scheme towards her”.[^11]
 
-(c)     In relation to Simon’s supposed participation in the above investments, the plaintiff said she “felt cheated by the Defendant for not disclosing” the fact that the investments were “participated by” Simon, or for “withholding such information from her”.[^12] There was no averment, for example, that the defendant had said that Simon was not participating in the investments, that the defendant was obligated to say whether he knew Simon to be participating in the investments, or even that the defendant knew whether Simon was participating in the investments at any time before the investments were entered.
+> (c)     In relation to Simon’s supposed participation in the above investments, the plaintiff said she “felt cheated by the Defendant for not disclosing” the fact that the investments were “participated by” Simon, or for “withholding such information from her”.[^12] There was no averment, for example, that the defendant had said that Simon was not participating in the investments, that the defendant was obligated to say whether he knew Simon to be participating in the investments, or even that the defendant knew whether Simon was participating in the investments at any time before the investments were entered.
 
 8       The plaintiff submitted, relying on _The Dolphina_ <span class="citation">\[2012\] 1 SLR 992</span> at \[193\]–\[197\] _per_ Belinda Ang J, that the word “fraud” or “deceit” need not be pleaded for a case of fraud to succeed. However, what sufficed there was the fact that the plaintiff had used synonyms or paraphrases: the plaintiff alleged that he had been “duped”, that the invoices were “bogus”, and that the relevant documents were not “genuine and valid”. Also on Ang J’s mind was the fact that the plaintiff faced the apparent problem of having to plead two mutually exclusive cases (_ie_, lawful and unlawful means conspiracy). The second concern is not live in this case. As for the first concern, the pleaded words (“feels cheated”) and the reasons (_ie_, reasons consistent with non-fraudulent conduct) are quite different from those pleaded in _The Dolphina_ in terms of severity and specificity.
 
@@ -83,7 +83,138 @@ Civil Procedure – Pleadings
 
 18     The evidence in this case could be summed up as being largely one person’s word against the other’s. The plaintiff tendered a single piece of documentary evidence in support of her claim—a translated transcript of a recorded conversation between the parties of an unknown date. The most relevant part reads as follows:
 
-<table align="left" cellpadding="0" cellspacing="0" class="Judg-2" frame="none" pgwide="1"><colgroup><col width="27.26%"> <col width="72.74%"> </colgroup><tbody><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">[Plaintiff (“P”)]:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">… you shouldn’t continue to lie to me about having at least $5,000 every month.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">[Defendant (“D”)]:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">What is it? Silver Star?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">[P]:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">You lied to me again about Silver Star and the $5,000.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">[D]:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">No, so what is the deal about Silver Star? Because at the time, they changed … When did you enter? I forgot. It was roughly…</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">[P]:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">I did not enter for a long time. I told you that it was very little money and I did not want to enter. I insisted in not entering, but you kept telling me that I will give you at least $5,000, and I will release 100 people to you. You said at least 100 people, but what happened in the end?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">[D]:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">I know, I know.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">[P]:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">You did not manage to do the two things — $5,000 and the 100 people. You did not manage to do all those things. … it was because you promised me and that is why I entered. Is this the case?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">[D]:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Mm.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">[P]:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Did I get anything wrong? If you did not promise me, I would not have entered right? It was because you promised me and guaranteed that you would introduce this number of people and that I would earn a certain amount, and that is why I entered. Am I right?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">[D]:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Mm.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">[P]:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">So isn’t this considered deception?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">[D]:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>It is not deception. It is a white lie. No, it’s not a lie. It’s … how should I put it? It’s the plans that cannot catch up to the changes. It was originally planned, but suddenly there was something that happened.</b> So I also don’t want to explain to you what has happened. You would be like this doesn’t concern me.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">[P]:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">I don’t even know the nature of the thing.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">[D]:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Right, and that is why I want to explain to you. Anyway, it has caused this thing to change. That’s it. Regardless, I have told you that over his side, he would already have … Silver Star right? He would …</p></td></tr><tr><td align="left" class="" colspan="2" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">[emphasis added in bold]</p></td></tr></tbody></table>
+>   
+| 
+
+\[Plaintiff (“P”)\]:
+
+ | 
+
+… you shouldn’t continue to lie to me about having at least $5,000 every month.
+
+ |
+| 
+
+\[Defendant (“D”)\]:
+
+ | 
+
+What is it? Silver Star?
+
+ |
+| 
+
+\[P\]:
+
+ | 
+
+You lied to me again about Silver Star and the $5,000.
+
+ |
+| 
+
+\[D\]:
+
+ | 
+
+No, so what is the deal about Silver Star? Because at the time, they changed … When did you enter? I forgot. It was roughly…
+
+ |
+| 
+
+\[P\]:
+
+ | 
+
+I did not enter for a long time. I told you that it was very little money and I did not want to enter. I insisted in not entering, but you kept telling me that I will give you at least $5,000, and I will release 100 people to you. You said at least 100 people, but what happened in the end?
+
+ |
+| 
+
+\[D\]:
+
+ | 
+
+I know, I know.
+
+ |
+| 
+
+\[P\]:
+
+ | 
+
+You did not manage to do the two things — $5,000 and the 100 people. You did not manage to do all those things. … it was because you promised me and that is why I entered. Is this the case?
+
+ |
+| 
+
+\[D\]:
+
+ | 
+
+Mm.
+
+ |
+| 
+
+\[P\]:
+
+ | 
+
+Did I get anything wrong? If you did not promise me, I would not have entered right? It was because you promised me and guaranteed that you would introduce this number of people and that I would earn a certain amount, and that is why I entered. Am I right?
+
+ |
+| 
+
+\[D\]:
+
+ | 
+
+Mm.
+
+ |
+| 
+
+\[P\]:
+
+ | 
+
+So isn’t this considered deception?
+
+ |
+| 
+
+\[D\]:
+
+ | 
+
+**It is not deception. It is a white lie. No, it’s not a lie. It’s … how should I put it? It’s the plans that cannot catch up to the changes. It was originally planned, but suddenly there was something that happened.** So I also don’t want to explain to you what has happened. You would be like this doesn’t concern me.
+
+ |
+| 
+
+\[P\]:
+
+ | 
+
+I don’t even know the nature of the thing.
+
+ |
+| 
+
+\[D\]:
+
+ | 
+
+Right, and that is why I want to explain to you. Anyway, it has caused this thing to change. That’s it. Regardless, I have told you that over his side, he would already have … Silver Star right? He would …
+
+ |
+| 
+
+\[emphasis added in bold\]
+
+ |
 
   
   
@@ -118,11 +249,11 @@ Civil Procedure – Pleadings
 
 31      **_Second_**, the representation is not borne out on the pleadings or the evidence. The plaintiff pleaded in the SOC:
 
-9.    The Plaintiff relying on the Defendant’s representation and the low risk factor of the scheme as she believes it was the Cambodia’s government initiative, had thereafter invested into the same. …
+> 9.    The Plaintiff relying on the Defendant’s representation and the low risk factor of the scheme as she believes it was the Cambodia’s government initiative, had thereafter invested into the same. …
 
 She then deposed the following affidavit evidence:
 
-20.    I wish to say that again, because of the trust I had with the Defendant as a friend above our relationship of an Up-Line and Down-Line, I believed that this was a low risk scheme and thus invested in it.
+> 20.    I wish to say that again, because of the trust I had with the Defendant as a friend above our relationship of an Up-Line and Down-Line, I believed that this was a low risk scheme and thus invested in it.
 
 As a matter of simple grammar, nothing above says that the defendant had represented that the Cam Loto investment was low risk. In the SOC, the low risk factor appeared to be an assessment (for whatever reason) objectively arrived at, based on the plaintiff’s belief that it was an initiative by the Cambodian government. In the affidavit, a different reason was given for believing that this was a low-risk investment—the plaintiff’s trust in the defendant borne of friendship. These are not consonant.
 
@@ -162,7 +293,97 @@ As a matter of simple grammar, nothing above says that the defendant had represe
 
 46     The plaintiff also relied on a portion of the transcription of the conversation, presumably to establish that the representation was made and that it was false:
 
-<table align="left" cellpadding="0" cellspacing="0" class="Judg-2" frame="none" pgwide="1"><colgroup><col width="29.36%"> <col width="70.64%"> </colgroup><tbody><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">[Plaintiff (“P”)]:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">You told me – I did not say anything. You told me that if I enter now, I have a way to enable you to earn $6,000 immediately.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">[Defendant (“D”)]:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Right. Wait a minute.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">[P]:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Did you tell me this before you …</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">[D]:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">It’s true. It’s true. It’s true.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">[P]:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Yes, so $10,000 would become $16,000. That is earning money immediately.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">[D]:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Right.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">[P]:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">That would be earning money immediately. <b>Then you told me to wait one or two months and I would earn double of that. Did you say this?</b></p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">[D]:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Yes.</b></p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">[P]:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>When two months is up, you asked me to wait for one more month. Do you know how long this has been dragging since I have been listening to you?</b></p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">[D]:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>I know.</b></p></td></tr></tbody></table>
+>   
+| 
+
+\[Plaintiff (“P”)\]:
+
+ | 
+
+You told me – I did not say anything. You told me that if I enter now, I have a way to enable you to earn $6,000 immediately.
+
+ |
+| 
+
+\[Defendant (“D”)\]:
+
+ | 
+
+Right. Wait a minute.
+
+ |
+| 
+
+\[P\]:
+
+ | 
+
+Did you tell me this before you …
+
+ |
+| 
+
+\[D\]:
+
+ | 
+
+It’s true. It’s true. It’s true.
+
+ |
+| 
+
+\[P\]:
+
+ | 
+
+Yes, so $10,000 would become $16,000. That is earning money immediately.
+
+ |
+| 
+
+\[D\]:
+
+ | 
+
+Right.
+
+ |
+| 
+
+\[P\]:
+
+ | 
+
+That would be earning money immediately. **Then you told me to wait one or two months and I would earn double of that. Did you say this?**
+
+ |
+| 
+
+\[D\]:
+
+ | 
+
+**Yes.**
+
+ |
+| 
+
+\[P\]:
+
+ | 
+
+**When two months is up, you asked me to wait for one more month. Do you know how long this has been dragging since I have been listening to you?**
+
+ |
+| 
+
+\[D\]:
+
+ | 
+
+**I know.**
+
+ |
 
   
   

@@ -23,71 +23,71 @@ The accused, male, 19 years old, pleaded guilty to one charge of causing grievou
 
 4       For completeness, the proceeded charge states as follows:
 
-DAC 918248/2018 (Voluntarily causing grievous hurt)
+> DAC 918248/2018 (Voluntarily causing grievous hurt)
 
-You, Loy Zhong Huan, Dylan, male/19 years old, are charged that you on the 29th day of November 2016, at or about 8.41 a.m., at the common corridor on the 7th floor of Block 506 Bishan Street 11, Singapore, did voluntarily cause grievous hurt to one Loy Shiang Chian, _to wit_, by stabbing and slashing the said Loy Shiang Chian multiple times with a knife with blade length of about 8cm, which is an instrument for cutting, causing the said Loy Shiang Chian to be, during the space of 20 days, unable to follow his ordinary pursuits, and you have thereby committed an offence punishable under Section 326 of the Penal Code (Cap 224, 2008 Rev. Ed).
+> You, Loy Zhong Huan, Dylan, male/19 years old, are charged that you on the 29th day of November 2016, at or about 8.41 a.m., at the common corridor on the 7th floor of Block 506 Bishan Street 11, Singapore, did voluntarily cause grievous hurt to one Loy Shiang Chian, _to wit_, by stabbing and slashing the said Loy Shiang Chian multiple times with a knife with blade length of about 8cm, which is an instrument for cutting, causing the said Loy Shiang Chian to be, during the space of 20 days, unable to follow his ordinary pursuits, and you have thereby committed an offence punishable under Section 326 of the Penal Code (Cap 224, 2008 Rev. Ed).
 
 5       The TIC charge is reproduced below:
 
-MAC 912174/2018 (Voluntarily causing hurt)
+> MAC 912174/2018 (Voluntarily causing hurt)
 
-You, Loy Zhong Huan, Dylan, male/19 years old, are charged that you on the 29th day of November 2016, at or about 8.41 a.m., at the common corridor on the 7th floor of Block 506 Bishan Street 11, Singapore, did voluntarily cause hurt to one Loy Shiang Chian, _to wit_, by punching and kicking the said Loy Shiang Chian’s right face and right lateral side of his body near the rib cage area multiple times, you have thereby committed an offence punishable under Section 323 of the Penal Code (Cap 224, 2008 Rev. Ed).
+> You, Loy Zhong Huan, Dylan, male/19 years old, are charged that you on the 29th day of November 2016, at or about 8.41 a.m., at the common corridor on the 7th floor of Block 506 Bishan Street 11, Singapore, did voluntarily cause hurt to one Loy Shiang Chian, _to wit_, by punching and kicking the said Loy Shiang Chian’s right face and right lateral side of his body near the rib cage area multiple times, you have thereby committed an offence punishable under Section 323 of the Penal Code (Cap 224, 2008 Rev. Ed).
 
 ## Summary of Facts
 
 6       The accused admitted to the Statement of Facts pertaining to the above proceeded charge, without qualification. The salient points are as follows:
 
-(a)     The complainant is the victim’s neighbour who was residing opposite the victim’s unit at the material time.
+> (a)     The complainant is the victim’s neighbour who was residing opposite the victim’s unit at the material time.
 
-(b)     The victim is the accused’s father. At the material time, the accused was a student and residing at his paternal grandfather’s flat.
+> (b)     The victim is the accused’s father. At the material time, the accused was a student and residing at his paternal grandfather’s flat.
 
-(c)     Investigations revealed that before 18 November 2016, the accused had been asking the victim for money and claimed that he needed $3,000 to pay for rides as part of his work to survey Uber drivers on behalf of Grab. However, the victim only gave the accused $1,000 and transferred the same into his account.
+> (c)     Investigations revealed that before 18 November 2016, the accused had been asking the victim for money and claimed that he needed $3,000 to pay for rides as part of his work to survey Uber drivers on behalf of Grab. However, the victim only gave the accused $1,000 and transferred the same into his account.
 
-(d)     After spending the $1,000, the accused requested for the remainder amount of $2,000 from the victim. However, the victim rejected the accused’s requests a few times. On 29 November 2016, at about 6.00am, the accused had also requested for $2,000 from his grandparents but was rejected by them as well.
+> (d)     After spending the $1,000, the accused requested for the remainder amount of $2,000 from the victim. However, the victim rejected the accused’s requests a few times. On 29 November 2016, at about 6.00am, the accused had also requested for $2,000 from his grandparents but was rejected by them as well.
 
-(e)     The accused decided to confront the victim at his unit and proceeded to the victim’s unit. He also brought along a steak knife with blade length measuring about 8-cm (“the said knife”), which he took from his grandfather’s unit.
+> (e)     The accused decided to confront the victim at his unit and proceeded to the victim’s unit. He also brought along a steak knife with blade length measuring about 8-cm (“the said knife”), which he took from his grandfather’s unit.
 
-(f)     On 29 November 2016 at about 8.30am, the victim was leaving for work when he saw the accused hiding beside a shoe cabinet outside his unit. The accused demanded to know why the victim refused to give him the money as requested and started to push and shove the victim. In response, the victim warned the accused not to touch him, and told him that he would not be giving any money to the accused and that he needed to leave for work. The victim proceeded to latch the gate of his unit, but the accused continued to push and shove the victim, resulting in the victim dropping his key pouch.
+> (f)     On 29 November 2016 at about 8.30am, the victim was leaving for work when he saw the accused hiding beside a shoe cabinet outside his unit. The accused demanded to know why the victim refused to give him the money as requested and started to push and shove the victim. In response, the victim warned the accused not to touch him, and told him that he would not be giving any money to the accused and that he needed to leave for work. The victim proceeded to latch the gate of his unit, but the accused continued to push and shove the victim, resulting in the victim dropping his key pouch.
 
-(g)     The accused picked up the victim’s key pouch and the victim asked for it to be returned back to him. However, the accused threw the key pouch towards a drain along the corridor. The victim went over to pick the said key pouch.
+> (g)     The accused picked up the victim’s key pouch and the victim asked for it to be returned back to him. However, the accused threw the key pouch towards a drain along the corridor. The victim went over to pick the said key pouch.
 
-(h)     As the victim was picking up his key pouch from the drain, the accused took the said knife and started to stab the victim’s head continuously with it for about two to three times. This resulted in the victim stumbling and falling to the ground, whereupon the accused took the opportunity to grab the victim’s key pouch. The victim screamed for help and tried to stop the accused from using his key to enter the unit. There was no one at home in the victim’s unit then.
+> (h)     As the victim was picking up his key pouch from the drain, the accused took the said knife and started to stab the victim’s head continuously with it for about two to three times. This resulted in the victim stumbling and falling to the ground, whereupon the accused took the opportunity to grab the victim’s key pouch. The victim screamed for help and tried to stop the accused from using his key to enter the unit. There was no one at home in the victim’s unit then.
 
-(i)     The accused, however, continued to stab and slash the victim multiple times. He also punched and kicked the victim multiple times.
+> (i)     The accused, however, continued to stab and slash the victim multiple times. He also punched and kicked the victim multiple times.
 
-(j)     The victim continued to scream for help and tried to fend off the accused’s blows with his hands but to no avail. The accused then shoved a pink recyclable bag into the victim’s mouth. However, when the victim pulled out the recyclable bag from his mouth, the accused shoved it back into the victim’s mouth again. While the victim was still lying on the floor with the haversack strapped on his back, the accused yanked the haversack which pulled the victim’s body and shook him around.
+> (j)     The victim continued to scream for help and tried to fend off the accused’s blows with his hands but to no avail. The accused then shoved a pink recyclable bag into the victim’s mouth. However, when the victim pulled out the recyclable bag from his mouth, the accused shoved it back into the victim’s mouth again. While the victim was still lying on the floor with the haversack strapped on his back, the accused yanked the haversack which pulled the victim’s body and shook him around.
 
-(k)     At this juncture, the victim tried to reach for his mobile phone to call his wife but the accused attempted to pull it out of his hand. The victim then lay on his mobile phone to prevent the accused from taking it. The accused then sat on the victim and struggled with the victim for the latter’s mobile phone. During the struggle, when the victim was still lying in a prone position on the floor, the accused also kicked the victim on his face.
+> (k)     At this juncture, the victim tried to reach for his mobile phone to call his wife but the accused attempted to pull it out of his hand. The victim then lay on his mobile phone to prevent the accused from taking it. The accused then sat on the victim and struggled with the victim for the latter’s mobile phone. During the struggle, when the victim was still lying in a prone position on the floor, the accused also kicked the victim on his face.
 
-(l)     At this juncture, the complainant and her mother heard the commotion outside their unit. When they noticed the accused and the victim struggling and blood along the corridor, the complainant called the police.
+> (l)     At this juncture, the complainant and her mother heard the commotion outside their unit. When they noticed the accused and the victim struggling and blood along the corridor, the complainant called the police.
 
-(m)     When the paramedics arrived at the incident location, the victim was lying on the floor, near a pool of blood. They observed the victim to be weak and in pain. The accused was observed to be looking distressed and walking around the corridor.
+> (m)     When the paramedics arrived at the incident location, the victim was lying on the floor, near a pool of blood. They observed the victim to be weak and in pain. The accused was observed to be looking distressed and walking around the corridor.
 
-(n)     The victim was conveyed to hospital via ambulance. He sustained the following injuries:
+> (n)     The victim was conveyed to hospital via ambulance. He sustained the following injuries:
 
-a.       Multiple stab wounds and lacerations over the scalp;
+>> a.       Multiple stab wounds and lacerations over the scalp;
 
-b.       Left 5th metacarpal dorsum stab wound;
+>> b.       Left 5th metacarpal dorsum stab wound;
 
-c.       Two facial lacerations;
+>> c.       Two facial lacerations;
 
-d.       Scalp hematomas.
+>> d.       Scalp hematomas.
 
-(o)     The victim was admitted into hospital for three days. He was also given hospitalisation leave for 20 days and was therefore unable to follow his ordinary pursuits.
+> (o)     The victim was admitted into hospital for three days. He was also given hospitalisation leave for 20 days and was therefore unable to follow his ordinary pursuits.
 
-(p)     In a clarification medical report, it was stated that the injuries sustained by the victim would leave scars behind, and the ones on the victim’s left forehead may cause some disfigurement but not any permanent impairment.
+> (p)     In a clarification medical report, it was stated that the injuries sustained by the victim would leave scars behind, and the ones on the victim’s left forehead may cause some disfigurement but not any permanent impairment.
 
-(q)     The accused was seen at the Emergency department of the hospital and observed with ‘generalised dried blood over the upper limb, lower limb and body’. He sustained the following injuries:
+> (q)     The accused was seen at the Emergency department of the hospital and observed with ‘generalised dried blood over the upper limb, lower limb and body’. He sustained the following injuries:
 
-a.       Tenderness over the right hand;
+>> a.       Tenderness over the right hand;
 
-b.       Tenderness over the right wrist;
+>> b.       Tenderness over the right wrist;
 
-c.       Tenderness over the left heel;
+>> c.       Tenderness over the left heel;
 
-d.       Fracture of the right 5th metacarpal and suspicious fracture of the right wrist.
+>> d.       Fracture of the right 5th metacarpal and suspicious fracture of the right wrist.
 
-(r)     As a result of the incident, the victim’s family (excluding the accused) moved out of the victim’s unit temporarily for about two months as they were concerned for their safety.
+> (r)     As a result of the incident, the victim’s family (excluding the accused) moved out of the victim’s unit temporarily for about two months as they were concerned for their safety.
 
 ## Antecedents
 
@@ -97,11 +97,11 @@ d.       Fracture of the right 5th metacarpal and suspicious fracture of 
 
 8       The prosecution urged the court to call for only the RT report. As the accused is a young offender, rehabilitation and deterrence would form the dominant sentencing considerations. This was especially so in view of the following aggravating factors:
 
-a)     where the attack by the accused on the victim was premeditated as he brought a knife to confront the victim;
+> a)     where the attack by the accused on the victim was premeditated as he brought a knife to confront the victim;
 
-b)     the attack was also vicious;
+> b)     the attack was also vicious;
 
-c)     severity of the injuries sustained by the victim.
+> c)     severity of the injuries sustained by the victim.
 
 9       It was submitted that probation would be wholly inappropriate as probation would only be imposed on cases where rehabilitation would take centre-stage as a sentencing consideration.
 
@@ -119,19 +119,19 @@ c)     severity of the injuries sustained by the victim.
 
 14     Following the two-stage approach in sentencing young offenders in the case of _PP v Koh Wen Jie Boaz_ 1 SLR 334 (“_Boaz Koh_”), it was submitted that both rehabilitation and deterrence are the dominant sentencing considerations for the following reasons:
 
-a)     The accused is a young offender, who is currently below 21 years old and was 16 years old at the material time. In that regard, rehabilitation would thus retain its primacy in the sentencing matrix.
+> a)     The accused is a young offender, who is currently below 21 years old and was 16 years old at the material time. In that regard, rehabilitation would thus retain its primacy in the sentencing matrix.
 
-b)     General and specific deterrence would also be warranted in the present case given that the offence committed by the accused is serious and that severe physical and emotional harm was caused to the victim. Further, the accused’s act of bringing the knife to confront the victim also demonstrated a high degree of premeditation.
+> b)     General and specific deterrence would also be warranted in the present case given that the offence committed by the accused is serious and that severe physical and emotional harm was caused to the victim. Further, the accused’s act of bringing the knife to confront the victim also demonstrated a high degree of premeditation.
 
 15     Reformative training would thus be the most appropriate sentence as it is geared towards the rehabilitation of the offender under a structured environment while avoiding the danger of exposing the young offender to the potentially unsettling influence of an adult prison environment[^1].
 
 16     It was further submitted that a sentence of probation would be clearly unsuitable for the following reasons[^2]:
 
-a)     The assessment and recommendations by the probation officer, Ms Ter Shao Wei (“PO”) and the psychologist are fair and comprehensive and should thus be given considerable weight;
+> a)     The assessment and recommendations by the probation officer, Ms Ter Shao Wei (“PO”) and the psychologist are fair and comprehensive and should thus be given considerable weight;
 
-b)      Lack of genuine remorse: As assessed by the PO, there was a lack of attempts by the accused to express remorse and acknowledge his wrongdoing. Additionally, his numerous inconsistencies and attempts to downplay his role in his account of events to the various agencies strongly suggest his lack of genuine remorse.
+> b)      Lack of genuine remorse: As assessed by the PO, there was a lack of attempts by the accused to express remorse and acknowledge his wrongdoing. Additionally, his numerous inconsistencies and attempts to downplay his role in his account of events to the various agencies strongly suggest his lack of genuine remorse.
 
-c)      Lack of familial support and supervision: Whilst the accused’s grandparents have indicated that they are willing to supervise him, it is clear that they are unable to exert a sufficient degree of supervision over the accused. This was in light of the grandparents’ account that the effectiveness of their advice (to abide by the probation conditions and against further re-offending) would depend on the accused’s choice to be receptive or not. They also expressed that they would ‘refrain from angering (the accused) by being mindful of not confronting or nagging at him’,
+> c)      Lack of familial support and supervision: Whilst the accused’s grandparents have indicated that they are willing to supervise him, it is clear that they are unable to exert a sufficient degree of supervision over the accused. This was in light of the grandparents’ account that the effectiveness of their advice (to abide by the probation conditions and against further re-offending) would depend on the accused’s choice to be receptive or not. They also expressed that they would ‘refrain from angering (the accused) by being mindful of not confronting or nagging at him’,
 
 17     On the facts, it was further submitted that the accused did not demonstrate any exceptionally high capacity for rehabilitation, such that it would outweigh the need for general and specific deterrence.
 
@@ -139,13 +139,13 @@ c)      Lack of familial support and supervision: Whilst the accused’s gr
 
 18     In further elaboration of the points raised in \[10\] to \[11\] above, the defence submitted for probation to be imposed instead of a sentence of reformative training for the following reasons:
 
-a)     Rehabilitation would be the primary sentencing consideration in the current case as the accused had committed the present offences when he was only 16 years old and a first offender at the material time. It was an one-off incident and for which the accused has not re-offended for the past three years;
+> a)     Rehabilitation would be the primary sentencing consideration in the current case as the accused had committed the present offences when he was only 16 years old and a first offender at the material time. It was an one-off incident and for which the accused has not re-offended for the past three years;
 
-b)     The accused has strong potential for reform given that his conduct in school has been generally positive and that he has been constructively engaged in part-time employment in order to supplement his parents’ allowance. He is surrounded by positive peers and engaged in recreational activities. He has also been abiding to the trial time curfew restrictions pending the assessment of both the probation and RT reports.
+> b)     The accused has strong potential for reform given that his conduct in school has been generally positive and that he has been constructively engaged in part-time employment in order to supplement his parents’ allowance. He is surrounded by positive peers and engaged in recreational activities. He has also been abiding to the trial time curfew restrictions pending the assessment of both the probation and RT reports.
 
-c)     The accused has strong familial support in that he enjoys a stable relationship with his paternal grandparents, who are willing to supervise him and execute the bond to ensure his good behaviour should probation order be imposed.
+> c)     The accused has strong familial support in that he enjoys a stable relationship with his paternal grandparents, who are willing to supervise him and execute the bond to ensure his good behaviour should probation order be imposed.
 
-d)     The accused is genuinely remorseful for his actions as he has pleaded guilty to the offences to ‘assume responsibility for his actions and to make amends for them[^3]’. The accused feels ‘regretful and ashamed’ for his actions and realises that ‘he should not have harmed his father… and understood that it must be difficult for his father to accept what he had done[^4]’. He has not made a formal apology to date to his parents, as he ‘felt awkward to do so[^5]’.
+> d)     The accused is genuinely remorseful for his actions as he has pleaded guilty to the offences to ‘assume responsibility for his actions and to make amends for them[^3]’. The accused feels ‘regretful and ashamed’ for his actions and realises that ‘he should not have harmed his father… and understood that it must be difficult for his father to accept what he had done[^4]’. He has not made a formal apology to date to his parents, as he ‘felt awkward to do so[^5]’.
 
 #### Weight to be given to the probation report
 
@@ -183,33 +183,33 @@ d)     The accused is genuinely remorseful for his actions as he has pleade
 
 31     In considering whether rehabilitation retains its primacy in the sentencing matrix, the court should consider whether the particular offender’s _capacity for rehabilitation_ is demonstrably high, so that it outweighs the public policy concerns that are traditionally understood as militating against probation (_Justin Hen_g at \[13\] and \[15\], cited at _Leon Russel Francis_ at \[14\] – _Praveen_ at \[29\]). In _Praveen_ at \[30\], it was further stated that in determining the offender’s capacity for rehabilitation and the appropriate sentence, the following considerations set out in _Leon Russel Francis_ (for drug cases) at \[15\] are relevant:
 
-(a)     the strength of familial support and the degree of supervision provided by the offender’s family for his rehabilitation;
+> (a)     the strength of familial support and the degree of supervision provided by the offender’s family for his rehabilitation;
 
-(b)     the frequency and intensity of the offender’s drug-related activities;
+> (b)     the frequency and intensity of the offender’s drug-related activities;
 
-(c)     the genuineness of remorse demonstrated by the offender; and
+> (c)     the genuineness of remorse demonstrated by the offender; and
 
-(d)     the presence of risk factors such as negative peers or bad habits.
+> (d)     the presence of risk factors such as negative peers or bad habits.
 
 32     Given the seriousness of the offences as well as the need for rehabilitation, I am also mindful of the observations made by the learned Justice of Appeal, Justice VK Rajah (as he then was) in the case of _PP v Mohamed Al Ansari bin Basri_ <span class="citation">\[2008\] 1 SLR 449</span> (“_Al Ansari_”) at \[58\]:
 
-.. it is clear that reformative training by itself, with the attendant element of incarceration, implicitly carries with it a significant deterrent effect, both on a specific and general level. As such, it is my view that the sentencing option of reformative training provides the courts with a middle ground that broadly encapsulates the twin principles of rehabilitation and deterrence in relation to young offenders.
+> .. it is clear that reformative training by itself, with the attendant element of incarceration, implicitly carries with it a significant deterrent effect, both on a specific and general level. As such, it is my view that the sentencing option of reformative training provides the courts with a middle ground that broadly encapsulates the twin principles of rehabilitation and deterrence in relation to young offenders.
 
 33     As noted by Sundaresh Menon CJ in the case of _Boaz Koh_ at \[36\], that whilst probation is conducive to rehabilitation, it is not the only sentencing option for a youthful offender where rehabilitation remains the dominant sentencing consideration. Reformative training too is geared towards the rehabilitation of the offender, which allows the court to sentence the offender to a rehabilitative programme under a structured environment while avoiding the danger of exposing the young offender to the potentially unsettling influence of an adult prison environment (see _Boaz Koh_ at \[38\]). It was further observed at \[39\] that where the court is concerned to incorporate a sufficient element of deterrence within the overarching focus on the goal of rehabilitation, reformative training would be the preferred sentencing option in cases where a degree of deterrence is desired.
 
 34     Thus, in determining the balance to be struck between the dominant consideration for rehabilitation and the need for deterrence, some relevant factors to be considered as stated in _Al Ansari_ at \[67\] included:
 
-(a)     the seriousness of the offence;
+> (a)     the seriousness of the offence;
 
-(b)     the culpability of the offender;
+> (b)     the culpability of the offender;
 
-(c)     the existence of antecedents;
+> (c)     the existence of antecedents;
 
-(d)     the nature of the rehabilitation best suited for the offender;
+> (d)     the nature of the rehabilitation best suited for the offender;
 
-(e)     the availability of familial support in the rehabilitative efforts; and
+> (e)     the availability of familial support in the rehabilitative efforts; and
 
-(f)     any other special reasons or need for rehabilitation.
+> (f)     any other special reasons or need for rehabilitation.
 
 35     With the above sentencing considerations in mind, I now turn to the factual matrix of the present case.
 
@@ -233,7 +233,7 @@ d)     The accused is genuinely remorseful for his actions as he has pleade
 
 43     Further, in referring to the past acts of aggression of the accused towards his family, the accused was ‘observed to downplay the psychological harm caused to his family by his aggressive behaviours and to justify his anger towards them due to their reported mistreatment towards him[^19]’. This seems to be a consistent pattern of behaviour where his acts of aggression escalated to the commission of the current offences. In particular, the psychologist also states as follows at \[17\] of her psychological report:
 
-Overall, the family violence appeared to be triggered by Dylan’s resentment surrounding the theft accusations and desperation for money. The current assessment suggested that Dylan presented with antagonistic and blaming stance towards others when interpersonal conflicts arise. The lack of problem solving skills to resolve family conflict and pro-violence attitudes, particularly his desire to establish dominance over his family, were likely to have perpetuated his aggression towards his family.
+> Overall, the family violence appeared to be triggered by Dylan’s resentment surrounding the theft accusations and desperation for money. The current assessment suggested that Dylan presented with antagonistic and blaming stance towards others when interpersonal conflicts arise. The lack of problem solving skills to resolve family conflict and pro-violence attitudes, particularly his desire to establish dominance over his family, were likely to have perpetuated his aggression towards his family.
 
 44     The accused’s immediate family, has also informed the PO that they were not willing to reconcile with the accused until he has shown remorse for what he has done. The father stated that he did not want to be disappointed again. His mother remained fearful of him and his sister ‘felt that he was untrustworthy’ and ‘remained fearful of him’[^20]. Counsel had submitted that the ‘subjective views’ of the accused’s family should not be given too much weight in view of the accused’s current good conduct. I agree with the defence that the accused’s father who is also the victim in the current case, may have been very hurt. However, I did not think that the peculiar facts of the current case suggest that the accused’s family would have any reasons or motive to be less than economical with the truth. Their accounts have been consistent. I would think that they would know the accused best, having lived with him for the first sixteen years of the accused’s life, and in that regard, their views cannot be ignored.
 

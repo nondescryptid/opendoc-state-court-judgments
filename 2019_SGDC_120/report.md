@@ -37,17 +37,17 @@ Sale of Immovable Property
 
 12     The $310,000 was to be paid by “instalments” pursuant to the following schedule:
 
-·    The sum of $20,000, as deposit, on the execution of the S&P;
+> ·    The sum of $20,000, as deposit, on the execution of the S&P;
 
-·    A sum of $50,000 on completion of the S&P;
+> ·    A sum of $50,000 on completion of the S&P;
 
-·    A sum of $15,000 on the expiry of the 6th month from the date of completion;
+> ·    A sum of $15,000 on the expiry of the 6th month from the date of completion;
 
-·    A sum of $15,000 on the expiry of the 12th month from the date of completion; and
+> ·    A sum of $15,000 on the expiry of the 12th month from the date of completion; and
 
-·    A sum of $15,000 on the expiry of the 18th month from the date of completion.
+> ·    A sum of $15,000 on the expiry of the 18th month from the date of completion.
 
-·    The balance of $195,000 to be paid pursuant to events as set out in the S&P.
+> ·    The balance of $195,000 to be paid pursuant to events as set out in the S&P.
 
 13     It is not in dispute that the first 5 sums (as set out in the first 5 bullet points in paragraph 12 above) amounting to $115,000 have been paid. The balance $195,000 remains unpaid. Wah Lei claimed that they were entitled to be paid the balance sum of $195,000 (and GST thereon) without any deduction whatsoever. Good Luck did not deny that $195,000 was primarily payable, but countered that, by operation of SC 9, a larger sum was due to her from Wah Lei, thus reversing the situation (by way of set off) such that it was Wah Lei who owed her the aforesaid sum of $7,720.87.
 

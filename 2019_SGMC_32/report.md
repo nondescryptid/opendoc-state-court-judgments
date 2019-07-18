@@ -15,7 +15,7 @@
 
 2       The Plaintiff claimed “the Defendant paid the Plaintiff a monthly sum of $400 as the child’s maintenance \[to compensate the Plaintiff\]”.[^5] She also claimed she had “actual custody of the child” from March 2009 to March 2015.[^6] During this six-year period, the Plaintiff further claimed she:[^7]
 
-…solely maintained the child, including but not limited to paying for the child’s food/milk, clothing/diaper, toys, books/stationary \[_sic_\], medical, transport, tour and family outings etc.
+> …solely maintained the child, including but not limited to paying for the child’s food/milk, clothing/diaper, toys, books/stationary \[_sic_\], medical, transport, tour and family outings etc.
 
 3       According to the Plaintiff, the sum of $400 the Defendant gave every month “as the child’s monthly maintenance” was “insufficient to cover the child’s monthly expenses.” As such, “the Plaintiff had to top up at least $500 \[every month\] to cover the same.”[^8]
 
@@ -27,7 +27,7 @@
 
 6       The Plaintiff claimed she “has cared for the child for a period of 6 years[^12] \[and\] had expended a sum of $36,000 to maintain the child \[during this period\]”[^13]. The Plaintiff did not plead any agreement between the parties (whether oral or implied).[^14] According to the Plaintiff, her claim was based on s 70(3) of the Women’s Charter[^15] (“the Act”):[^16]
 
-…for sums expended by her during the time the child was in \[her\] actual custody from March 2009 to March 2015.
+> …for sums expended by her during the time the child was in \[her\] actual custody from March 2009 to March 2015.
 
 ## The Defendant’s objection to the Plaintiff’s claim
 
@@ -47,29 +47,29 @@ PART VIII
 
 MAINTENANCE OF WIFE, INCAPACITATED HUSBAND AND CHILDREN
 
-…
+> …
 
-**Duty to maintain child accepted as member of family**
+> **Duty to maintain child accepted as member of family**
 
-70.—(1)    Where a person has accepted a child who is not his child as a member of his family, it shall be his duty to maintain that child while he remains a child, so far as the father or the mother of the child fails to do so, and the court may make such orders as may be necessary to ensure the welfare of the child.
+> 70.—(1)    Where a person has accepted a child who is not his child as a member of his family, it shall be his duty to maintain that child while he remains a child, so far as the father or the mother of the child fails to do so, and the court may make such orders as may be necessary to ensure the welfare of the child.
 
-(2)    The duty imposed by subsection (1) shall cease if the child is taken away by his father or mother.
+> (2)    The duty imposed by subsection (1) shall cease if the child is taken away by his father or mother.
 
-(**3**)     **Any sums expended by a person maintaining that child shall be recoverable as a debt from the father or mother of the child.**
+> (**3**)     **Any sums expended by a person maintaining that child shall be recoverable as a debt from the father or mother of the child.**
 
-(4)    An application for an order under subsection (1) may be made by —
+> (4)    An application for an order under subsection (1) may be made by —
 
-(a)    any person who is a guardian or has the actual custody of the child;
+>> (a)    any person who is a guardian or has the actual custody of the child;
 
-(b)    where the child has attained the age of 21 years, the child himself;
+>> (b)    where the child has attained the age of 21 years, the child himself;
 
-(c)    where the child is below the age of 21 years, any of his siblings who has attained the age of 21 years; or
+>> (c)    where the child is below the age of 21 years, any of his siblings who has attained the age of 21 years; or
 
-(d)    any person appointed by the Minister.
+>> (d)    any person appointed by the Minister.
 
-(5)    Subsections (4) to (9) of section 69 shall apply, with the necessary modifications, to the making of an order under this section.
+> (5)    Subsections (4) to (9) of section 69 shall apply, with the necessary modifications, to the making of an order under this section.
 
-\[emphasis added\]
+> \[emphasis added\]
 
 11     I agreed with the Defendant that the Magistrate’s Court has no jurisdiction to hear an action or a claim under s 70(3) of the Act.
 
@@ -79,9 +79,9 @@ MAINTENANCE OF WIFE, INCAPACITATED HUSBAND AND CHILDREN
 
 14     A claim under s 70(3) of the Act therefore requires the determination of two preliminary factual issues:[^27]
 
-(a)     Whether the child had been accepted as a member of the non-parent’s family. To this end, there must have been voluntary assumption of parental responsibility for the child’s maintenance on the part of the non-parent.
+> (a)     Whether the child had been accepted as a member of the non-parent’s family. To this end, there must have been voluntary assumption of parental responsibility for the child’s maintenance on the part of the non-parent.
 
-(b)     Whether the child’s father or mother had maintained the child, given that the non-parent’s duty is to maintain the child “so far as the father or mother of the child fails to do so.”[^28]
+> (b)     Whether the child’s father or mother had maintained the child, given that the non-parent’s duty is to maintain the child “so far as the father or mother of the child fails to do so.”[^28]
 
 15     These are issues a Family Court is best placed to hear evidence in respect of and to make a determination on. I say this bearing in mind that the child (who is now about 10 years old) may well have to give evidence also.
 

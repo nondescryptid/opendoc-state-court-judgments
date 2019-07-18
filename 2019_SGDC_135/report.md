@@ -15,13 +15,13 @@
 
 The Accused is a 37-year-old male. He claimed trial to the following charge under s 8(b)(ii) of the Misuse of Drugs Act (“MDA”) for unauthorised consumption of methamphetamine:
 
-DAC 915446/2018
+> DAC 915446/2018
 
-… you, on or before 23 April 2018, in Singapore, did consume a Specified Drug listed in the Fourth Schedule to the Misuse of Drugs Act …, to wit, methamphetamine, without any authorisation under the said Act or the Regulations made thereunder, and you have thereby committed an offence under Section 8(b)(ii) of the Misuse of Drugs Act … ;
+> … you, on or before 23 April 2018, in Singapore, did consume a Specified Drug listed in the Fourth Schedule to the Misuse of Drugs Act …, to wit, methamphetamine, without any authorisation under the said Act or the Regulations made thereunder, and you have thereby committed an offence under Section 8(b)(ii) of the Misuse of Drugs Act … ;
 
-and further,
+> and further,
 
-that you, before the commission of the said offence, were on 22 January 2013, … convicted of an offence for consumption of a specified drug, to wit, morphine, under Section 8(b)(ii) of the Misuse of Drugs Act … and punished under Section 33A(1) of the said Act with 5 years’ imprisonment and 3 strokes of the cane, which conviction and punishment have not been set aside to date, and you shall now be punished under Section 33A(2) of the Misuse of Drugs Act … .
+> that you, before the commission of the said offence, were on 22 January 2013, … convicted of an offence for consumption of a specified drug, to wit, morphine, under Section 8(b)(ii) of the Misuse of Drugs Act … and punished under Section 33A(1) of the said Act with 5 years’ imprisonment and 3 strokes of the cane, which conviction and punishment have not been set aside to date, and you shall now be punished under Section 33A(2) of the Misuse of Drugs Act … .
 
 I found the Accused guilty and sentenced him to 7 years and 3 months’ imprisonment, with 6 strokes of the cane.
 
@@ -35,31 +35,31 @@ I found the Accused guilty and sentenced him to 7 years and 3 months’ imprison
 
 5       Upon conclusion of the IUT, a result slip[^5] was generated which contained the entry “Amphetamine: POS”, meaning that the IUT found the Accused’s urine to be positive for amphetamines. Amphetamines are a class of drugs which includes methamphetamine.[^6] Subsequently, HSA reverted with the following:
 
-(a)     A certificate bearing Lab No. AT-1833-04060-002-03,[^7] signed by HSA Analyst Maggie Tiong Su Su (“Maggie Su”); and
+> (a)     A certificate bearing Lab No. AT-1833-04060-002-03,[^7] signed by HSA Analyst Maggie Tiong Su Su (“Maggie Su”); and
 
-(b)     A certificate bearing Lab No. AT-1833-04060-001-03,[^8] signed by HSA Analyst Zhang HuiFen Hannah (“Hannah Zhang”).
+> (b)     A certificate bearing Lab No. AT-1833-04060-001-03,[^8] signed by HSA Analyst Zhang HuiFen Hannah (“Hannah Zhang”).
 
 Both certificates affirmed that the Accused’s urine samples in the blue-capped bottles contained methamphetamine.
 
 6       After the IUT, the Accused gave a long statement dated 23 April 2019 (i.e. within the day of the arrest) that was recorded by SSgt Fadzly (“the First Long Statement”)[^9]. In it, the Accused stated that he consumed cough syrup three days prior to his arrest and had thrown away the syrup bottle:[^10]
 
-… I do not know why my urine is tested positive. I did not consume drugs. I only consumed cough syrup that I bought at Geylang lorong 23. I bought a bottle of cough syrup for $10 and have finished consuming it. There is no more balance. I have thrown away the said bottle after I finish consuming it. The last time I consumed it was 3 days ago.
+> … I do not know why my urine is tested positive. I did not consume drugs. I only consumed cough syrup that I bought at Geylang lorong 23. I bought a bottle of cough syrup for $10 and have finished consuming it. There is no more balance. I have thrown away the said bottle after I finish consuming it. The last time I consumed it was 3 days ago.
 
 7       About a week later, on 30 April 2018, the Accused gave another long statement (“the Second Long Statement”).[^11] This was recorded by CNB’s Investigation Officer for the Accused’s case, Woman Staff Sergeant Joanne Ng (“W/SSgt Joanne”). In the Second Long Statement, the Accused again mentioned that he had consumed illicit cough syrup a few days before his arrest:[^12]
 
-… I do not know why my urine is tested positive for methamphetamine. I only consumed the cough syrup which I bought from a Chinese guy which I saw at Geylang Lorong 23 a few days before my arrest. I bought the bottle of cough syrup for $10 or $15/- I cannot remember. The size of the cough syrup bottle is similar to the ones sold at the doctor’s clinic. It contained about ¾ full of cough syrup. I drank the bottle of cough syrup one shot to get high because I am a ‘heroin’ addict and I did not want to consume or smoke ‘heroin’ anymore as I know I am LT-2 liable, should I get caught. As such, I buy these illicit cough syrup from Geylang to curb \[_sic_\] with my ‘heroin’ addiction and withdrawal. I have already consumed everything before getting arrested. This is my first time buying cough syrup from the ‘Chinese guy’ and I do not know his name or contact no. Other than that, I did not consume any other controlled drugs or medications. …
+> … I do not know why my urine is tested positive for methamphetamine. I only consumed the cough syrup which I bought from a Chinese guy which I saw at Geylang Lorong 23 a few days before my arrest. I bought the bottle of cough syrup for $10 or $15/- I cannot remember. The size of the cough syrup bottle is similar to the ones sold at the doctor’s clinic. It contained about ¾ full of cough syrup. I drank the bottle of cough syrup one shot to get high because I am a ‘heroin’ addict and I did not want to consume or smoke ‘heroin’ anymore as I know I am LT-2 liable, should I get caught. As such, I buy these illicit cough syrup from Geylang to curb \[_sic_\] with my ‘heroin’ addiction and withdrawal. I have already consumed everything before getting arrested. This is my first time buying cough syrup from the ‘Chinese guy’ and I do not know his name or contact no. Other than that, I did not consume any other controlled drugs or medications. …
 
 The Second Long Statement, which was about one-page long, was recorded over a span of 15 minutes. Specifically, recording commenced at 2.45pm and ended at 3.00pm.
 
 8       Immediately after recording the Second Long Statement, W/SSgt Joanne proceeded to execute the preparatory steps (e.g. reading of the charge) for recording the Accused’s cautioned statement under s 23 of the Criminal Procedure Code (“CPC”) (“the Cautioned Statement”). She commenced these steps at 3.00pm and, at 3.04pm, began recording the Cautioned Statement proper. The Cautioned Statement was recorded over a span of one minute, i.e. from 3.04pm to 3.05pm. In the Cautioned Statement,[^13] the Accused denied taking Ice (the street name for methamphetamine) and re-iterated that he took cough syrup. He also added that he had taken two illicit sex enhancement pills, saying that he finished consuming the cough syrup and sex enhancement pills two days before his arrest:
 
-I do not know why my urine is tested positive for methamphetamine. I really never take ‘ice’ and I know what ‘ice’ is. I also got take illicit cough syrup and sex enhancement pills before I was arrested but I have already finished consuming all the cough syrup and 2 sex enhancement pills the day before my arrest. The pills were light green capsules which I bought for $5/- each together with the cough syrup from the Chinese guy. I do not have any of these left on me during my arrest when the CNB came as I have finished it all.
+> I do not know why my urine is tested positive for methamphetamine. I really never take ‘ice’ and I know what ‘ice’ is. I also got take illicit cough syrup and sex enhancement pills before I was arrested but I have already finished consuming all the cough syrup and 2 sex enhancement pills the day before my arrest. The pills were light green capsules which I bought for $5/- each together with the cough syrup from the Chinese guy. I do not have any of these left on me during my arrest when the CNB came as I have finished it all.
 
 9       About three months after the Cautioned Statement was taken, while the Accused was in remand, he sent CNB a letter dated 2 August 2018. According to the Prosecution, the Accused had (through this letter) indicated that he consumed Lipodrene Hardcore (“Lipodrene”) and Ephedrine prior to his arrest.[^14] These are weight loss supplements.[^15]**_Neither_** Lipodrene[^16] nor Ephedrine[^17] will give rise to methamphetamine in the urine, if consumed.[^18] Ultimately, the 2 August 2018 letter was not tendered in evidence as the Prosecution said that it contained material prejudicial to the Accused.[^19] The Accused similarly did not seek to admit the 2 August 2018 letter and also did not dispute the Prosecution’s depiction of its contents.[^20]
 
 10     On 21 September 2018, the Accused filed his Case for the Defence,[^21] wherein he denied taking Ice and claimed that he had consumed some supplements which may contain methamphetamine:
 
-I’m denying to \[_sic_\] the charge as I did not consume any crystalline substances commonly known as “ICE”. However, I did consume some supplements which may contains \[_sic_\] methamphetamine. Therefore, my urine samples contained methamphetamine as a result of my consumption of these supplements.
+> I’m denying to \[_sic_\] the charge as I did not consume any crystalline substances commonly known as “ICE”. However, I did consume some supplements which may contains \[_sic_\] methamphetamine. Therefore, my urine samples contained methamphetamine as a result of my consumption of these supplements.
 
 11     Subsequently, at a pre-trial conference, the Accused informed that he had consumed a substance called Desoxyn prior to his arrest. According to the Prosecution’s records, the pre-trial conference at which the Accused first raised the issue of Desoxyn consumption was held on 31 January 2019.[^22]
 
@@ -69,35 +69,35 @@ I’m denying to \[_sic_\] the charge as I did not consume any crystalline subst
 
 13     To buttress his submission, the Accused highlighted the following points:[^24]
 
-(a)     Upon his arrest, he was not found in possession of anything incriminating that related to consumption of Ice;
+> (a)     Upon his arrest, he was not found in possession of anything incriminating that related to consumption of Ice;
 
-(b)     He had no records of ever having consumed Ice in the past; and
+> (b)     He had no records of ever having consumed Ice in the past; and
 
-(c)     His statements did not contain any confessions.
+> (c)     His statements did not contain any confessions.
 
 14     The Prosecution, for its part, pointed out that the Accused did not challenge the procedures by which his urine samples had been tested positive for methamphetamine. These procedures are prescribed by s 31 of the MDA, the relevant portions of which read:
 
-**31**.     **Urine tests**
+> **31**.     **Urine tests**
 
-(1)    Any officer of the \[CNB\] … may, if he reasonably suspects any person to have committed an offence under section 8(b), require that person to provide a specimen of his urine for urine tests to be conducted under this section.
+> (1)    Any officer of the \[CNB\] … may, if he reasonably suspects any person to have committed an offence under section 8(b), require that person to provide a specimen of his urine for urine tests to be conducted under this section.
 
-…
+> …
 
-(4)    A specimen of urine provided under this section shall be divided into 3 parts and dealt with, in such manner and in accordance with such procedure as may be prescribed, as follows:
+> (4)    A specimen of urine provided under this section shall be divided into 3 parts and dealt with, in such manner and in accordance with such procedure as may be prescribed, as follows:
 
-(a)    a preliminary urine test shall be conducted on one part of the urine specimen; and
+>> (a)    a preliminary urine test shall be conducted on one part of the urine specimen; and
 
-(b)    each of the remaining 2 parts of the urine specimen shall be marked and sealed and a urine test shall be conducted on each part by a different person, being either an analyst employed by the Health Sciences Authority or any person as the Minister may, by notification in the Gazette, appoint for such purpose.
+>> (b)    each of the remaining 2 parts of the urine specimen shall be marked and sealed and a urine test shall be conducted on each part by a different person, being either an analyst employed by the Health Sciences Authority or any person as the Minister may, by notification in the Gazette, appoint for such purpose.
 
 15     As such, the Prosecution highlighted that the presumption in s 22 of the MDA has been triggered. This provision states:
 
-**22**.     **Presumption relating to urine test**
+> **22**.     **Presumption relating to urine test**
 
-If any controlled drug is found in the urine of a person as a result of both urine tests conducted under section 31(4)(b), he shall be presumed, until the contrary is proved, to have consumed that controlled drug in contravention of section 8(b).
+> If any controlled drug is found in the urine of a person as a result of both urine tests conducted under section 31(4)(b), he shall be presumed, until the contrary is proved, to have consumed that controlled drug in contravention of section 8(b).
 
 16     I was of view that there was evidence which was not inherently incredible that established every element of the charge. Specifically, I agreed with the Prosecution that the evidence was sufficient to trigger the operation of s 22 of the MDA. As elucidated by the Court of Appeal in _Mohammad Ashik bin Aris v Public Prosecutor_ <span class="citation">\[2011\] SGCA 46</span>,[^25] s 22 presumes the presence of both the _actus reus_ and _mens rea_ for the offence under s 8(b) of the MDA:
 
-The significance of compliance with s 31(4)(b) is that if there are positive results from both of the urine tests carried out pursuant to this subsection, the s 22 presumption will operate to presume that the accused person has, in contravention of s 8(b), consumed the controlled drug detected in his urine samples. This means that both the _actus reus_ and the _mens rea_ of the s 8(b) offence are presumed by s 22 …
+> The significance of compliance with s 31(4)(b) is that if there are positive results from both of the urine tests carried out pursuant to this subsection, the s 22 presumption will operate to presume that the accused person has, in contravention of s 8(b), consumed the controlled drug detected in his urine samples. This means that both the _actus reus_ and the _mens rea_ of the s 8(b) offence are presumed by s 22 …
 
 The onus thus fell on the Accused to adduce evidence rebutting that presumption.
 
@@ -107,11 +107,11 @@ The onus thus fell on the Accused to adduce evidence rebutting that presumption.
 
 18     The Accused’s defence was that the methamphetamine in his urine did not come from illicit sources (such as Ice) but rather came from Desoxyn. The Accused claimed that he had consumed Desoxyn prior to his arrest[^26] to help him lose weight.[^27] He also relied on the evidence of the HSA analysts Maggie Su and Hannah Zhang, who testified at trial that:
 
-(a)     Desoxyn is used for the treatment of obesity and Attention Deficit Hyperactivity Disorder;[^28]
+> (a)     Desoxyn is used for the treatment of obesity and Attention Deficit Hyperactivity Disorder;[^28]
 
-(b)     Desoxyn **_can_** give rise to methamphetamine in the urine if consumed;[^29] and
+> (b)     Desoxyn **_can_** give rise to methamphetamine in the urine if consumed;[^29] and
 
-(c)     It is not possible to distinguish whether the methamphetamine in the Accused’s urine came from illicit drugs or from Desoxyn.[^30]
+> (c)     It is not possible to distinguish whether the methamphetamine in the Accused’s urine came from illicit drugs or from Desoxyn.[^30]
 
 19     The HSA analysts had also testified that Desoxyn is not registered as a therapeutic product in Singapore[^31] and cannot simply be bought off the shelf.[^32] Even a doctor wishing to prescribe it for a patient needs to first apply for a licence from HSA’s Health Product Regulation group.[^33] Nevertheless, the Accused testified that he was able to procure Desoxyn over Facebook,[^34] from a seller by the name of DJ Fahmy.[^35] He had chatted with DJ Fahmy over Facebook messenger to confirm the transaction details of the sale,[^36] before meeting face-to-face with DJ Fahmy to take delivery of the Desoxyn.[^37] The Accused was even able to describe DJ Fahmy with some detail: “a Malay guy… quite good looking … quite fit”.[^38] However, the Accused was no longer able to furnish DJ Fahmy’s contact details or produce the records of his Facebook chats with DJ Fahmy, as the Accused’s Facebook account had been deleted.[^39] The Accused said that upon his arrest, he had asked his girlfriend to delete his Facebook account as he did not want people looking for him over Facebook, now that he was in prison.[^40]
 
@@ -127,27 +127,27 @@ The onus thus fell on the Accused to adduce evidence rebutting that presumption.
 
 24     The Accused faces a charge under s 8(b)(ii) of the MDA, which reads:
 
-**8**.     **Possession and consumption of controlled drugs**
+> **8**.     **Possession and consumption of controlled drugs**
 
-Except as authorised by this Act, it shall be an offence for a person to —
+> Except as authorised by this Act, it shall be an offence for a person to —
 
-…
+>> …
 
-(b)    smoke, administer to himself or otherwise consume —
+>> (b)    smoke, administer to himself or otherwise consume —
 
-…
+>>> …
 
-(ii)   a specified drug.
+>>> (ii)   a specified drug.
 
 25     As highlighted at paragraphs 15-16 above, the presence of methamphetamine in the Accused’s urine triggers the operation of s 22 of the MDA, which presumes both the _actus reus_ and _mens rea_ for the offence under s 8(b). The Accused bears the burden of rebutting that presumption on a balance of probabilities: see _Cheng Siah Johnson v Public Prosecutor_ <span class="citation">\[2002\] SGHC 84</span>.[^61]
 
 26     At the conclusion of the case, I was firmly of the view that the Accused failed to rebut that presumption. His defence of Desoxyn consumption was devoid of merit, for the following reasons:
 
-(a)     He raised his alleged consumption of Desoxyn only very late in the day and offered no reasonable explanation for that delay. This showed that his defence was an afterthought.
+> (a)     He raised his alleged consumption of Desoxyn only very late in the day and offered no reasonable explanation for that delay. This showed that his defence was an afterthought.
 
-(b)     The Accused was unable to produce a single shred of evidence proving his alleged purchase of Desoxyn.
+> (b)     The Accused was unable to produce a single shred of evidence proving his alleged purchase of Desoxyn.
 
-(c)     Aidil’s testimony, which sought to corroborate the Accused’s claim of having consumed Desoxyn, lacked credibility.
+> (c)     Aidil’s testimony, which sought to corroborate the Accused’s claim of having consumed Desoxyn, lacked credibility.
 
 I elaborate on each of these points below.
 
@@ -155,13 +155,13 @@ I elaborate on each of these points below.
 
 27     The Accused had numerous opportunities to alert the authorities to his alleged consumption of Desoxyn. These opportunities came in the form of:
 
-(a)     the First Long Statement, recorded on the day of the Accused’s arrest;
+> (a)     the First Long Statement, recorded on the day of the Accused’s arrest;
 
-(b)     the Second Long Statement and the Cautioned Statement, recorded one week after the arrest;
+> (b)     the Second Long Statement and the Cautioned Statement, recorded one week after the arrest;
 
-(c)     the Accused’s letter to CNB, dated 2 August 2018; and
+> (c)     the Accused’s letter to CNB, dated 2 August 2018; and
 
-(d)     the Case for the Defence, filed on 21 September 2018.
+> (d)     the Case for the Defence, filed on 21 September 2018.
 
 The circumstances surrounding these occasions are examined below.
 
@@ -173,7 +173,52 @@ The circumstances surrounding these occasions are examined below.
 
 30     I asked the Accused what he would have included in the First Long Statement if SSgt Fadzly had specifically drawn his attention to the fact that his urine tested positive for amphetamines. The Accused replied that he would have been prompted to list more of the substances which he had consumed prior to his arrest:[^64]
 
-<table align="left" cellpadding="0" cellspacing="0" class="Judg-2" frame="none" pgwide="1"><colgroup><col width="14.6%"> <col width="85.4%"> </colgroup><tbody><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Amin:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">… I said I took cough mixture because I assumed that my urine is tested positive for opiate. If I had known my urine is tested positive for amphetamine, I would have think some more what I have eaten, Your Honour.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Court:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">… okay, assuming Staff Sergeant Ahmad [Fadzly] had told you specifically that you tested positive for amphetamine, what would you have done during the statement recording? What would you have done? What would you have said?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Amin:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">I would have provide more alibis for why my urine is tested positive for amphetamine.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Court:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Sorry, what alibi?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Amin:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">What medication I took.</p></td></tr></tbody></table>
+>   
+| 
+
+Amin:
+
+ | 
+
+… I said I took cough mixture because I assumed that my urine is tested positive for opiate. If I had known my urine is tested positive for amphetamine, I would have think some more what I have eaten, Your Honour.
+
+ |
+| 
+
+Court:
+
+ | 
+
+… okay, assuming Staff Sergeant Ahmad \[Fadzly\] had told you specifically that you tested positive for amphetamine, what would you have done during the statement recording? What would you have done? What would you have said?
+
+ |
+| 
+
+Amin:
+
+ | 
+
+I would have provide more alibis for why my urine is tested positive for amphetamine.
+
+ |
+| 
+
+Court:
+
+ | 
+
+Sorry, what alibi?
+
+ |
+| 
+
+Amin:
+
+ | 
+
+What medication I took.
+
+ |
 
   
   
@@ -182,9 +227,9 @@ Presumably, the Accused’s argument was that if his attention had been specific
 
 31     However, this excuse clearly rings hollow when one looks at what transpired one week after the arrest, when the Second Long Statement and Cautioned Statement were recorded. By that point, the Accused already knew that his urine had tested positive for methamphetamine. Still, he failed to raise Desoxyn in any of these statements:
 
-(a)     In the Second Long Statement (extracted at paragraph 7 above), recorded by W/SSgt Joanne on 30 April 2019, the Accused merely repeated his original defence that he had consumed cough syrup. The Accused went so far as to end the Second Long Statement by saying: “**_Other than that, I did not consume any other controlled drugs or medications_**.”
+> (a)     In the Second Long Statement (extracted at paragraph 7 above), recorded by W/SSgt Joanne on 30 April 2019, the Accused merely repeated his original defence that he had consumed cough syrup. The Accused went so far as to end the Second Long Statement by saying: “**_Other than that, I did not consume any other controlled drugs or medications_**.”
 
-(b)     In his Cautioned Statement (extracted at paragraph 8 above), which was recorded by W/SSgt Joanne immediately after recording the Second Long Statement, the Accused re-iterated that he had consumed cough syrup and also went on to add that he had consumed two sex enhancement pills.
+> (b)     In his Cautioned Statement (extracted at paragraph 8 above), which was recorded by W/SSgt Joanne immediately after recording the Second Long Statement, the Accused re-iterated that he had consumed cough syrup and also went on to add that he had consumed two sex enhancement pills.
 
 By the time the Cautioned Statement was recorded, the charge would already have been read to the Accused and he would have been cautioned (pursuant to the procedure under s 23 of the CPC) about the adverse consequences of omitting to mention matters relevant to his defence. Apparently, this was enough to prompt him to mention the sex enhancement pills, over and above the cough syrup. Yet, Desoxyn remained conspicuously absent from both statements.
 
@@ -198,15 +243,15 @@ By the time the Cautioned Statement was recorded, the charge would already have 
 
 36     It is incumbent on accused persons, when giving their long statements to the authorities, to highlight exculpatory matters within their knowledge. The omission to do so may render the defence less believable, unless there are good reasons for that omission. This principle was set out by the Court of Appeal in _Kwek Seow Hock v Public Prosecutor_ <span class="citation">\[2011\] SGCA 12</span>, which held:[^75]
 
-18    … In our view, because an accused has such a right against self-incrimination when he makes a long statement under s 121, no adverse inference, in general, may be drawn against him for failing to state any fact or circumstance which may incriminate him in any way.
+> 18    … In our view, because an accused has such a right against self-incrimination when he makes a long statement under s 121, no adverse inference, in general, may be drawn against him for failing to state any fact or circumstance which may incriminate him in any way.
 
-19    If, however, the fact or circumstance that is withheld will exculpate the accused from an offence, a court may justifiably infer that it is an afterthought and untrue, unless the court is persuaded that there are good reasons for the omission to mention that exculpatory fact or circumstance. This accords with common sense – if an accused believes he is not guilty of an offence that he might be charged with, he would be expected to disclose why he has such a belief. For a self-confessed trafficker like the Appellant, consumption would be an exculpatory fact. Furthermore, an exculpatory fact or circumstance has more credibility if disclosed to an investigating officer at the earliest opportunity after arrest.
+> 19    If, however, the fact or circumstance that is withheld will exculpate the accused from an offence, a court may justifiably infer that it is an afterthought and untrue, unless the court is persuaded that there are good reasons for the omission to mention that exculpatory fact or circumstance. This accords with common sense – if an accused believes he is not guilty of an offence that he might be charged with, he would be expected to disclose why he has such a belief. For a self-confessed trafficker like the Appellant, consumption would be an exculpatory fact. Furthermore, an exculpatory fact or circumstance has more credibility if disclosed to an investigating officer at the earliest opportunity after arrest.
 
 Reverting to the present case, I was unable to discern any valid reason for the Accused’s failure to raise his alleged Desoxyn consumption in the First Long Statement (recorded by SSgt Fadzly) or the Second Long Statement (recorded by W/SSgt Joanne).
 
 37     That it was imperative for the Accused to clearly set out his defence must have become all the more apparent after W/SSgt Joanne executed the preparatory steps (under s 23 of the CPC) for recording the Cautioned Statement. The Accused would have been expressly cautioned about the adverse consequences that could arise from his failure to fully articulate his defence. As regards cautioned statements, the Court of Appeal in _PP v Ilechukwu Uchechukwu Chukwudi_ <span class="citation">\[2015\] SGCA 33</span> had this to say:[^76]
 
-At this point, ie, the obtaining of the cautioned statement, it is incumbent on an accused person, if he was in fact innocent, to come clean with any facts or matter in his defence. If he fails to do so, the court may draw an adverse inference against him. Under s 261 of the Criminal Procedure Code 2012 (Cap 68, 2012 Rev Ed) (“CPC 2012”), the court is expressly empowered to draw appropriate inferences on the failure of accused persons, upon being charged with an offence, to state facts which he could reasonably be expected to mention when so questioned.
+> At this point, ie, the obtaining of the cautioned statement, it is incumbent on an accused person, if he was in fact innocent, to come clean with any facts or matter in his defence. If he fails to do so, the court may draw an adverse inference against him. Under s 261 of the Criminal Procedure Code 2012 (Cap 68, 2012 Rev Ed) (“CPC 2012”), the court is expressly empowered to draw appropriate inferences on the failure of accused persons, upon being charged with an offence, to state facts which he could reasonably be expected to mention when so questioned.
 
 38     Reverting to the present case, the Accused has failed to offer any credible explanation for why he repeatedly failed to mention the defence of Desoxyn consumption in every one of his statements to CNB. This is clearly grounds for drawing an adverse inference against him, insofar as the believability of that defence is concerned.
 
@@ -258,9 +303,9 @@ At this point, ie, the obtaining of the cautioned statement, it is incumbent on 
 
 57     The Accused testified that he **_had his own room_**.[^88] However, it was also his evidence that he consumed Desoxyn _outside_ of his room.[^89] This thus afforded Aidil the opportunity to witness the Accused consuming Desoxyn, despite the Accused having a room of his own. However, Aidil’s evidence was markedly different. Specifically, in testifying as to how he managed to witness the Accused consuming Desoxyn, Aidil said that he **_shared a room_** with the Accused.[^90] The room-sharing arrangement thus formed the canvass against which Aidil painted vivid details of how and when he caught sight of the Desoxyn bottle and the Accused’s consumption therefrom. Specifically, Aidil testified that:
 
-(a)     he spotted the Desoxyn bottle on a dressing table which both he and the Accused used;[^91] and
+> (a)     he spotted the Desoxyn bottle on a dressing table which both he and the Accused used;[^91] and
 
-(b)     there was an incident when he woke up and saw the Accused consuming from the Desoxyn bottle.[^92]
+> (b)     there was an incident when he woke up and saw the Accused consuming from the Desoxyn bottle.[^92]
 
 Aidil’s evidence, which was grounded against the backdrop of two brothers sharing a room, thus ran directly counter to the Accused’s evidence that the Accused had his own room and Aidil witnessed him consuming Desoxyn outside of that room.
 
@@ -268,53 +313,53 @@ Aidil’s evidence, which was grounded against the backdrop of two brothers shar
 
 59     There were also other inconsistencies in Aidil’s testimony that demonstrated the unreliability of his evidence. Initially, Aidil claimed that when he saw the Accused consuming from the Desoxyn bottle, he had **_asked_** the Accused about the bottle. Specifically, he asked “What’s this?”, to which the Accused replied that it was his medication:[^94]
 
-Q… And then you went to ask your brother?
+> Q… And then you went to ask your brother?
 
-AYah, I---I went to ask him, yah. What is this? And says for his medication something like that--- And I just ignore it, lah.
+> AYah, I---I went to ask him, yah. What is this? And says for his medication something like that--- And I just ignore it, lah.
 
-…
+> …
 
-Qyou asked him while he was inside the room as well?
+> Qyou asked him while he was inside the room as well?
 
-AUh, other---other---uh, yes, you we---when he was inside the room, lah.
+> AUh, other---other---uh, yes, you we---when he was inside the room, lah.
 
-…
+> …
 
-QAnd then your brother also explained to you what it was?
+> QAnd then your brother also explained to you what it was?
 
-ANo, he didn’t explain it to me.
+> ANo, he didn’t explain it to me.
 
-QOkay.
+> QOkay.
 
-AHe just, uh, told me that it’s---it was his medication and I didn’t probe him anymore.
+> AHe just, uh, told me that it’s---it was his medication and I didn’t probe him anymore.
 
 Under cross-examination, Aidil was confronted with the fact that the Accused, in his testimony, never mentioned anything about Aidil asking him about the Desoxyn:[^95]
 
-Q\---you remember clearly, you asked your brother, “What happened? What was this bottle?” Right?
+> Q\---you remember clearly, you asked your brother, “What happened? What was this bottle?” Right?
 
-AYes.
+> AYes.
 
-QAnd then he said it was his, right?
+> QAnd then he said it was his, right?
 
-AYes, correct.
+> AYes, correct.
 
-QYour brother, in his evidence has not told us any of this.
+> QYour brother, in his evidence has not told us any of this.
 
-AMmm.
+> AMmm.
 
 After this, Aidil changed his evidence and testified that despite seeing his brother consuming from the Desoxyn bottle more than once, Aidil **_never_** asked him what the bottle was:[^96]
 
-QSo, just to confirm, you saw \[the Accused\] more than once?
+> QSo, just to confirm, you saw \[the Accused\] more than once?
 
-AYes, correct.
+> AYes, correct.
 
-QAnd despite seeing more than once, you never did ask him what was the bottle---
+> QAnd despite seeing more than once, you never did ask him what was the bottle---
 
-ANo---
+> ANo---
 
-Qcorrect?
+> Qcorrect?
 
-Anever.
+> Anever.
 
 60     The Accused tried to dismiss these contradictions as “minor discrepancies”.[^97] I did not agree – they were clearly material.
 
@@ -326,11 +371,11 @@ Anever.
 
 63     In my opinion, the Accused failed to rebut the presumption under s 22 of the MDA, for the following reasons:
 
-(a)     He failed to mention his alleged consumption of Desoxyn despite repeated opportunities to do so. This defence was clearly an afterthought.
+> (a)     He failed to mention his alleged consumption of Desoxyn despite repeated opportunities to do so. This defence was clearly an afterthought.
 
-(b)     There was not a single trace of evidence to prove the alleged purchase of Desoxyn from DJ Fahmy. The Accused’s explanations as to how all such traces came to be extinguished were not worthy of belief.
+> (b)     There was not a single trace of evidence to prove the alleged purchase of Desoxyn from DJ Fahmy. The Accused’s explanations as to how all such traces came to be extinguished were not worthy of belief.
 
-(c)     The evidence given by Aidil (that he saw the Accused consuming Desoxyn) was inconsistent and contradicted by the Accused’s own testimony.
+> (c)     The evidence given by Aidil (that he saw the Accused consuming Desoxyn) was inconsistent and contradicted by the Accused’s own testimony.
 
 64     Consequently, I find that the charge under s 8(b)(ii) of the MDA has been proven beyond reasonable doubt and I convict the Accused accordingly.
 

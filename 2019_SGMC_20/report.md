@@ -41,11 +41,11 @@ Civil Procedure – Simplified process – Upfront discovery
 
 11     In brief, the defendant raised 3 lines of argument as regards the regularity of the judgment:
 
-(a)     that the plaintiff acted despite knowing of a pending application by the defendant to extend the time for filing its defence;
+> (a)     that the plaintiff acted despite knowing of a pending application by the defendant to extend the time for filing its defence;
 
-(b)     that the plaintiff had acted in breach of natural justice and did not give full and frank disclosure to the court; and
+> (b)     that the plaintiff had acted in breach of natural justice and did not give full and frank disclosure to the court; and
 
-(c)     that the plaintiff did not comply with its discovery obligations under O 108.
+> (c)     that the plaintiff did not comply with its discovery obligations under O 108.
 
 12     I did not consider the judgment irregular for the exact reasons advanced by the defendant. However, its arguments as regards discovery obligations led me to take notice of some other matters which made the judgment irregular.
 
@@ -59,7 +59,7 @@ Civil Procedure – Simplified process – Upfront discovery
 
 16     I am aware that a seemingly different result was reached in _Carona Holdings Pte Ltd and others v Go Go Delicacy Pte Ltd_ <span class="citation">\[2008\] 4 SLR(R) 460</span> (CA). There, after the writ had been served, the defendants applied for a stay of proceedings in favour of arbitration but did not file a defence. After the time limited for filing a defence had lapsed, the plaintiff filed an _inter partes_ application for judgment to be entered in default of defence. Both applications were fixed for hearing together, whereupon an assistant registrar entered judgment and made no order on the stay application. The High Court judge, relying on _Australian Timber_, affirmed this result on appeal. On further appeal, V K Rajah JA (delivering the grounds of decision of the court) held at \[37\]–\[38\] that the merits of a stay application should always be heard first if applications for a stay and default judgment are concurrently pending. That case, however, concerned the unusual situation where the plaintiff filed an **inter partes** **_application_** to enter judgment in default of defence instead of a **_request_** (as required today by Practice Direction 76). The consequence is that there were two _applications concurrently pending_. Such was not the situation in the present case. In fact, Rajah JA stated at \[32\]:
 
-… **far from suggesting that the timelines in the Rules of Court will stop on the filing of a stay application, Chao JA was in fact alluding to quite the opposite**. By observing (at \[18\] of \[_Samsung Corp v Chinese Chamber Realty Pte Ltd_ <span class="citation">\[2004\] 1 SLR(R) 382</span>\]) that, in the event of the failure of the stay application, “the court would no doubt make the necessary consequential orders, including setting the time-limit for the filing of Defence”, the court in _Samsung Corp_ confirmed that **fidelity to the timelines in the Rules of Court must still be observed**. After the merits of the stay application have been found to be wanting, an unsuccessful defendant has to file his defence. The time limits for the filing of the defence can, at the same hearing, be set by the court. In a similar vein, _Australian Timber_ clarifies that **the onus lies on the defendant to bring forward the hearing date or apply for an extension of time to serve the defence, if a default judgment is to be avoided**. \[emphasis added\]
+> … **far from suggesting that the timelines in the Rules of Court will stop on the filing of a stay application, Chao JA was in fact alluding to quite the opposite**. By observing (at \[18\] of \[_Samsung Corp v Chinese Chamber Realty Pte Ltd_ <span class="citation">\[2004\] 1 SLR(R) 382</span>\]) that, in the event of the failure of the stay application, “the court would no doubt make the necessary consequential orders, including setting the time-limit for the filing of Defence”, the court in _Samsung Corp_ confirmed that **fidelity to the timelines in the Rules of Court must still be observed**. After the merits of the stay application have been found to be wanting, an unsuccessful defendant has to file his defence. The time limits for the filing of the defence can, at the same hearing, be set by the court. In a similar vein, _Australian Timber_ clarifies that **the onus lies on the defendant to bring forward the hearing date or apply for an extension of time to serve the defence, if a default judgment is to be avoided**. \[emphasis added\]
 
 17     I return to the present case. The general rule is that, in the first place, an order for further and better particulars will not be made before the service of the defence unless the court considers it necessary or desirable to enable the defendant to plead, or for some other special reason (O 18 r 12(5)). Even if the defendant nonetheless took the view that the particulars had to be given before a defence could be filed, and that the extension of time meant so much to the defendant, then Ang J’s comments in _Australian Timber_ squarely apply to this case. The defendant could have sought, before the duty registrar, an urgent hearing date of the application or an extension of time to file the defence pending the disposal of the application. As long as the court has not extended the time for the filing of the defence, the plaintiff is not precluded from enter judgment in default of defence.
 
@@ -69,13 +69,13 @@ Civil Procedure – Simplified process – Upfront discovery
 
 19     The defendant raised a litany of complaints which it says amounted to either lack of full and frank disclosure or a breach of natural justice. It says that the plaintiff:
 
-(a)     did not inform the defendant that on 8 Jan 2019 it filed a request to enter default judgment, until after the judgment was accepted into the case file on 10 Jan 2019;[^2]
+> (a)     did not inform the defendant that on 8 Jan 2019 it filed a request to enter default judgment, until after the judgment was accepted into the case file on 10 Jan 2019;[^2]
 
-(b)     did not copy the defendant in its letter to court that set out the correspondence between parties and requesting that default judgment be entered;[^3]
+> (b)     did not copy the defendant in its letter to court that set out the correspondence between parties and requesting that default judgment be entered;[^3]
 
-(c)     had attended before the duty registrar on 10 Jan 2019 without having informed the defendant or its solicitors of its intention to seek an audience;[^4] and
+> (c)     had attended before the duty registrar on 10 Jan 2019 without having informed the defendant or its solicitors of its intention to seek an audience;[^4] and
 
-(d)     had, in its letter to court and attendance before the duty registrar, failed to inform the court of the fact that the defendant had filed an application to extend the time allowed to file its defence.[^5]
+> (d)     had, in its letter to court and attendance before the duty registrar, failed to inform the court of the fact that the defendant had filed an application to extend the time allowed to file its defence.[^5]
 
 20     In my view, while these complaints raise a spectrum of concerns if they are true, none make the judgment irregular.
 
@@ -99,47 +99,47 @@ Civil Procedure – Simplified process – Upfront discovery
 
 28     I was unable to accept the argument in the way the defendant had framed it. For convenience, O 108 r 2 provides:
 
-**Upfront discovery (O. 108, r. 2)**
+> **Upfront discovery (O. 108, r. 2)**
 
-**2.—(1**)    The purpose of this Rule is to ensure that every party has the fullest possible particulars of every other party’s case at an early stage of the proceedings, in order to facilitate effective negotiations towards a resolution of the dispute between all of the parties.
+> **2.—(1**)    The purpose of this Rule is to ensure that every party has the fullest possible particulars of every other party’s case at an early stage of the proceedings, in order to facilitate effective negotiations towards a resolution of the dispute between all of the parties.
 
-(2)    The negotiations referred to in paragraph (1) include —
+> (2)    The negotiations referred to in paragraph (1) include —
 
-(_a_)    direct negotiations between the parties themselves; and
+>> (_a_)    direct negotiations between the parties themselves; and
 
-(_b_)    negotiations facilitated by a judge or mediator, or by any other suitable person (not being a party).
+>> (_b_)    negotiations facilitated by a judge or mediator, or by any other suitable person (not being a party).
 
-(3)    Every pleading served by a party under Order 18 must be accompanied by a list of documents which are or have been in that party’s possession, custody or power.
+> (3)    Every pleading served by a party under Order 18 must be accompanied by a list of documents which are or have been in that party’s possession, custody or power.
 
-(4)    The list of documents referred to in paragraph (3) —
+> (4)    The list of documents referred to in paragraph (3) —
 
-(_a_)    must be filed in Form 234;
+>> (_a_)    must be filed in Form 234;
 
-(_b_)    must set out —
+>> (_b_)    must set out —
 
-(i)    every document referred to in the pleading which the list accompanies;
+>>> (i)    every document referred to in the pleading which the list accompanies;
 
-(ii)   every document on which the party serving the list relies or will rely; and
+>>> (ii)   every document on which the party serving the list relies or will rely; and
 
-(iii)   any other document which could —
+>>> (iii)   any other document which could —
 
-(A)    adversely affect that party’s own case;
+>>>> (A)    adversely affect that party’s own case;
 
-(B)    adversely affect another party’s case; or
+>>>> (B)    adversely affect another party’s case; or
 
-(C)    support another party’s case; and
+>>>> (C)    support another party’s case; and
 
-(_c_)    must set out the documents in a convenient order and as shortly as possible, but also describe each document sufficiently to enable the document to be identified.
+>> (_c_)    must set out the documents in a convenient order and as shortly as possible, but also describe each document sufficiently to enable the document to be identified.
 
-(5)    Where a party who has served a list of documents on any other party receives from that other party a request for a copy of any document on the list, the party who has served the list of documents must, within 7 days after receiving the request, provide that other party with a copy of that document.
+> (5)    Where a party who has served a list of documents on any other party receives from that other party a request for a copy of any document on the list, the party who has served the list of documents must, within 7 days after receiving the request, provide that other party with a copy of that document.
 
-(6)    If an amended pleading is filed by any party, this Rule shall apply to the amended pleading if the amended pleading —
+> (6)    If an amended pleading is filed by any party, this Rule shall apply to the amended pleading if the amended pleading —
 
-(_a_)    pleads any additional fact; or
+>> (_a_)    pleads any additional fact; or
 
-(_b_)    refers to any document that was not referred to in any other pleading filed by that party.
+>> (_b_)    refers to any document that was not referred to in any other pleading filed by that party.
 
-…
+> …
 
 29     The defendant’s argument—that it was motivated by a desire to file a meaningful defence—appears attractive at first glance. However, one need only recall that the date the SOC and LOD were served was 22 November 2018, to realise that the last day for the filing of a defence would have been 14 December 2018 (by virtue of O 18 r 2(1) read with O 12 r 4(_a_)) and that, therefore, the plaintiff could have entered default judgment on 15 December 2018 (but for the fact it filed an amended SOC). On the other hand, it was only on 14 December 2018 that a copy of the cheque was first requested. This meant that the plaintiff had until 21 December 2018 to provide a copy of the cheque. In other words, the plaintiff could have entered default judgment _before_ it was obligated to provide a copy of the cheque. I somewhat doubt that the defendant was motivated by a desire to file a meaningful defence if it requested a copy of the cheque on the last day it had to file a defence. More to the point, I did not think it lay in the mouth of the defendant, having made the request late in the day, to complain that the plaintiff entered default judgment any time after having provided a copy of the cheque.
 
@@ -165,21 +165,21 @@ Civil Procedure – Simplified process – Upfront discovery
 
 38     Where a judgment is irregular, the starting point is that the judgment should be set aside as a matter of right (_Mercurine Pte Ltd v Canberra Development Pte Ltd_ <span class="citation">\[2008\] 4 SLR(R) 907</span> (CA) (“_Mercurine_”) at \[74\] and \[90\]–\[91\]). However, the court may depart from this rule depending on whether there has been such an egregious breach of the rules of procedural justice as to warrant the setting aside of the judgment as of right (_Mercurine_ at \[76\]). Specifically, the court should consider (among other things) (_Mercurine_ at \[76\] and \[96\]):
 
-(a)     the nature of the irregularity, in particular, whether it consists of:
+> (a)     the nature of the irregularity, in particular, whether it consists of:
 
-(i)       entering a default judgment prematurely; or
+>> (i)       entering a default judgment prematurely; or
 
-(ii)       failing to give the defendant proper notice of the proceedings;
+>> (ii)       failing to give the defendant proper notice of the proceedings;
 
-(b)     whether the defendant took a fresh step in the proceedings after becoming aware of the irregular default judgment;
+> (b)     whether the defendant took a fresh step in the proceedings after becoming aware of the irregular default judgment;
 
-(c)     the blameworthiness of the respective parties (_eg_, whether there has been undue delay on the defendant’s part in making its setting-aside application);
+> (c)     the blameworthiness of the respective parties (_eg_, whether there has been undue delay on the defendant’s part in making its setting-aside application);
 
-(d)     where a judgment is irregular because of the plaintiff’s breach of procedural rules (which would be the case for the majority of irregular default judgments), whether the breach was committed in bad faith;
+> (d)     where a judgment is irregular because of the plaintiff’s breach of procedural rules (which would be the case for the majority of irregular default judgments), whether the breach was committed in bad faith;
 
-(e)     whether the defendant has admitted liability under the default judgment; and
+> (e)     whether the defendant has admitted liability under the default judgment; and
 
-(f)     whether the defendant would be unduly prejudiced if the judgment was allowed to stand.
+> (f)     whether the defendant would be unduly prejudiced if the judgment was allowed to stand.
 
 39     If the court departs from such a rule, then it must consider whether the defendant is bound to lose, since if the defendant was bound to lose in a summary judgment application should it be brought subsequently, then the setting-aside would essentially have been in vain. Alternatively, the court must consider if it should exercise its discretion to uphold the judgment to stand subject to some variation or condition (_Mercurine_ at \[92\]–\[93\]).
 

@@ -122,13 +122,13 @@ The sentences in DAC 944922/17 and DAC 944954/17 were ordered to run consecutive
 
 40     The Accused has unrelated previous convictions –
 
-(i)     On 8 Jul 88, he was placed on two years’ probation for theft by a servant under s 381 of the Penal Code. Cap 224.
+> (i)     On 8 Jul 88, he was placed on two years’ probation for theft by a servant under s 381 of the Penal Code. Cap 224.
 
-(ii)     On 30 Nov 93, he was sentenced to two months’ imprisonment a similar offence under s 381 Penal Code, and three months’ imprisonment for theft in dwelling under s 380 Penal Code. Both sentences ran consecutively, making the total sentence five months’ imprisonment.
+> (ii)     On 30 Nov 93, he was sentenced to two months’ imprisonment a similar offence under s 381 Penal Code, and three months’ imprisonment for theft in dwelling under s 380 Penal Code. Both sentences ran consecutively, making the total sentence five months’ imprisonment.
 
-(iii)     On 17 Nov 98, he was sentenced to 30 months’ imprisonment for house-breaking and theft with common intention under s 457 read with s 34 Penal Code.
+> (iii)     On 17 Nov 98, he was sentenced to 30 months’ imprisonment for house-breaking and theft with common intention under s 457 read with s 34 Penal Code.
 
-(iv)     On 29 Nov 01, he was sentenced to five years’ imprisonment and three strokes of the cane for a similar offence under s 457 punishable under s 458A Penal Code.
+> (iv)     On 29 Nov 01, he was sentenced to five years’ imprisonment and three strokes of the cane for a similar offence under s 457 punishable under s 458A Penal Code.
 
 ## SUBMISSION ON SENTENCE
 

@@ -27,17 +27,17 @@ Civil Procedure – Striking Out
 
 4       The principles in relation to striking out are well established and were not disputed in this case. The Defendant’s application for striking out was instead premised on the purported breach of Section 6 of the SCTA (“s.6”). This provides that:
 
-_“Exclusion of other jurisdictions_
+> _“Exclusion of other jurisdictions_
 
-_6.– (1_)     _Where a claim has been lodged with a tribunal, no proceedings relating to that claim shall be brought before any other court except –_
+> _6.– (1_)     _Where a claim has been lodged with a tribunal, no proceedings relating to that claim shall be brought before any other court except –_
 
-(_a_)     _where the proceedings before that court were commenced before the claim was lodged with the tribunal; or_
+>> (_a_)     _where the proceedings before that court were commenced before the claim was lodged with the tribunal; or_
 
-(_b_)     _where the claim before the tribunal has been withdrawn or abandoned._
+>> (_b_)     _where the claim before the tribunal has been withdrawn or abandoned._
 
-(_2_)     _No claim shall be brought before a tribunal if proceedings relating to that claim are pending in or have been heard and determined by any other court._
+> (_2_)     _No claim shall be brought before a tribunal if proceedings relating to that claim are pending in or have been heard and determined by any other court._
 
-(_3_)     _For purpose of this section, a claim shall be deemed to have been lodged with a tribunal when section 15 has been complied with.”_
+> (_3_)     _For purpose of this section, a claim shall be deemed to have been lodged with a tribunal when section 15 has been complied with.”_
 
 ## Key Issue for Determination
 

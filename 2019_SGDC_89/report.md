@@ -33,15 +33,15 @@ The Accused pleaded guilty to four charges of cheating under section 420 of the 
 
 8       At around this time, the Accused was facing financial difficulties. When Ng approached him about investing the $150,000/-, he hatched a plan to misappropriate the money for himself. The plan involved the following –
 
-(i)     Getting Ng to pre-sign blank investment application forms which he would then use to redeem units in the fund;
+> (i)     Getting Ng to pre-sign blank investment application forms which he would then use to redeem units in the fund;
 
-(ii)     Getting Ng to open a UOB current account to receive the redemption proceeds;
+> (ii)     Getting Ng to open a UOB current account to receive the redemption proceeds;
 
-(iii)     Applying for a UOB debit card linked to the current account and having the debit card delivered to his own address without Ng’s knowledge;
+> (iii)     Applying for a UOB debit card linked to the current account and having the debit card delivered to his own address without Ng’s knowledge;
 
-(iv)     Redeeming the investment using the pre-signed forms without Ng’s knowledge; and
+> (iv)     Redeeming the investment using the pre-signed forms without Ng’s knowledge; and
 
-(v)     Misappropriating the redemption proceeds deposited into the current account by using the debit card.
+> (v)     Misappropriating the redemption proceeds deposited into the current account by using the debit card.
 
 9       On or around 1 Sep 11, Ng signed the form to invest $150,000/- in a unit trust called “Pru Monthly Income Plan M Fund” (“the Fund”). The Accused completed the rest of the form for him. On the same day, the Accused had Ng pre-signed several additional blank forms. Ng was not told what they were for. Ng did not question the Accused and he pre-signed the forms as requested. The Accused subsequently filled in the rest of the forms.
 
@@ -62,39 +62,39 @@ The Accused pleaded guilty to four charges of cheating under section 420 of the 
 
 15     A total of $223,620.82 was deposited into the Current Account from the date it was opened on 5 Sep 11 to the date it was closed on 22 Jun 12. These included –
 
-(i)     Seven unauthorised redemptions of units in the Fund totalling $142,278.35;
+> (i)     Seven unauthorised redemptions of units in the Fund totalling $142,278.35;
 
-(ii)     One redemption of units in another fund amounting to $842.61;
+> (ii)     One redemption of units in another fund amounting to $842.61;
 
-(iii)     One fund transfer from Ng’s Savings Account amounting to $24,800/-;
+> (iii)     One fund transfer from Ng’s Savings Account amounting to $24,800/-;
 
-(iv)     Two premature redemptions from Ng’s UOB structured deposit account number XXX amounting to $55,620/-;
+> (iv)     Two premature redemptions from Ng’s UOB structured deposit account number XXX amounting to $55,620/-;
 
-(v)     One cash deposit of $50/-; and
+> (v)     One cash deposit of $50/-; and
 
-(vi)     Interest credits amounting to $29.86.
+> (vi)     Interest credits amounting to $29.86.
 
 16     Between 3 Oct 11 and 20 Mar 12, the Accused misappropriated a total of $218,100/- from the Current Account using the debit card. He withdrew $97,350/- in cash. He also made ATM fund transfers totalling $120,750/- to his personal UOB current account number XXX. As of 1 Sep 11, prior to these transactions, his personal UOB current account had a balance of $1.47.
 
 17     Between 3 Oct 11 and 9 Apr 12, a total of $144,357.20 was withdrawn from the Accused’s personal UOB account, as follows –
 
-(i)     $40,756.55 was withdrawn in cash;
+> (i)     $40,756.55 was withdrawn in cash;
 
-(ii)     $32,000/- was transferred to one Yap Lay Chu in relation to the purchase of a business called Queens Nails LLP by the Accused and his wife;
+> (ii)     $32,000/- was transferred to one Yap Lay Chu in relation to the purchase of a business called Queens Nails LLP by the Accused and his wife;
 
-(iii)     $5,200/- was transferred to one Kim Wah Boon for the rental of the shop premises of Queen Nails LLP;
+> (iii)     $5,200/- was transferred to one Kim Wah Boon for the rental of the shop premises of Queen Nails LLP;
 
-(iv)     $11,660.30 was purportedly paid to the Accused’s friends and family members, as repayment of loans which he had taken from them;
+> (iv)     $11,660.30 was purportedly paid to the Accused’s friends and family members, as repayment of loans which he had taken from them;
 
-(v)     $6,402.58 was used to pay the Accused’s bills and miscellaneous expenses;
+> (v)     $6,402.58 was used to pay the Accused’s bills and miscellaneous expenses;
 
-(vi)     $3,261.62 was withdrawn in cheques made out to unknown parties;
+> (vi)     $3,261.62 was withdrawn in cheques made out to unknown parties;
 
-(vii)     $15,606.15 was transferred to unknown parties in transactions of below $1000 each;
+> (vii)     $15,606.15 was transferred to unknown parties in transactions of below $1000 each;
 
-(viii)    $12,350/- was transferred to the Accused’s other personal UOB current account number XXX. The money was then paid to unknown parties, either in cash or by transfer;
+> (viii)    $12,350/- was transferred to the Accused’s other personal UOB current account number XXX. The money was then paid to unknown parties, either in cash or by transfer;
 
-(ix)     $17,120/- was transferred to unknown parties, which investigations revealed to be linked to unlicensed moneylending activities.
+> (ix)     $17,120/- was transferred to unknown parties, which investigations revealed to be linked to unlicensed moneylending activities.
 
 18     On 18 Oct 12, the Accused also purchased a condominium unit at 523 Serangoon North Avenue 4 #XXX for $1,350,000/-. The property was held by him and his brother as tenants-in-common with the Accused holding a 99% share.
 
@@ -112,15 +112,15 @@ The Accused pleaded guilty to four charges of cheating under section 420 of the 
 
 24     On 4 Dec 16, the Accused told Betty via Facebook messenger that he was going to be sent to remand prison on 5 Dec 16, and that he needed $20,000/- to bail himself out. This was a lie. His intention was to deceive her into believing this so that she would give him the $20,000/-. The Accused also claimed that his mobile phone would be taken away from him when he was in remand prison. So he gave her another mobile number which he claimed belonged to his brother, Casper. He instructed her to contact Casper via Whatsapp for updates on him. This mobile number actually belonged to the Accused. By impersonating as Casper, the Accused falsely represented to Betty via Whatsapp that –
 
-(i)     The Accused was in remand prison;
+> (i)     The Accused was in remand prison;
 
-(ii)     Casper was finding it hard to obtain the bail money, He had obtained $30,000/- and needed $20,000/- more to post bail for the Accused;
+> (ii)     Casper was finding it hard to obtain the bail money, He had obtained $30,000/- and needed $20,000/- more to post bail for the Accused;
 
-(iii)     The Accused has a bad back which was aggravated as there was no bed in remand prison;
+> (iii)     The Accused has a bad back which was aggravated as there was no bed in remand prison;
 
-(iv)     Betty was the best girlfriend the Accused ever had, and that Casper was very happy to have her as a sister-in-law;
+> (iv)     Betty was the best girlfriend the Accused ever had, and that Casper was very happy to have her as a sister-in-law;
 
-(v)     The Accused wanted to marry Betty but was ashamed of himself at that time.
+> (v)     The Accused wanted to marry Betty but was ashamed of himself at that time.
 
 25     Believing that she was communicating with Casper and that the Accused was in remand, and concerned for his welfare, Betty transferred HKD54,600/- and HKD54,800/- (approximately $20,000/-) to the Accused’s SCB account on 5 and 6 Dec 16. This was the subject matter of the section 420 charge against the Accused in relation to Betty.
 
@@ -132,31 +132,31 @@ The Accused pleaded guilty to four charges of cheating under section 420 of the 
 
 28     DPP Kenneth Chin highlighted the aggravating factors present in relation to the two sets of charges. In relation to the charges involving Ng, DPP Chin highlighted the following –
 
-(i)     Ng was a vulnerable victim because of his age, low educational level and inability to understand the forms which he had been asked to pre-sign. Because of these disadvantages, Ng had placed his implicit trust on the Accused for advice and to complete the relevant banking forms.
+> (i)     Ng was a vulnerable victim because of his age, low educational level and inability to understand the forms which he had been asked to pre-sign. Because of these disadvantages, Ng had placed his implicit trust on the Accused for advice and to complete the relevant banking forms.
 
-(ii)     The Accused was placed in a special position of trust given his position and Ng’s vulnerability.
+> (ii)     The Accused was placed in a special position of trust given his position and Ng’s vulnerability.
 
-(iii)     The Accused had systematically abused the trust reposed in him, and egregiously exploited Ng’s vulnerability.
+> (iii)     The Accused had systematically abused the trust reposed in him, and egregiously exploited Ng’s vulnerability.
 
-(iv)     The Accused had made use of UOB’s banking facilities to cloak the illegal transactions with a sheen of legitimacy.
+> (iv)     The Accused had made use of UOB’s banking facilities to cloak the illegal transactions with a sheen of legitimacy.
 
-(v)     A high level of planning and premeditation was involved. He had Ng pre-signed all the relevant forms essential towards making his deception successful and after that to cover up his tracks.
+> (v)     A high level of planning and premeditation was involved. He had Ng pre-signed all the relevant forms essential towards making his deception successful and after that to cover up his tracks.
 
-(vi)     The amount which he had misappropriated was substantial ($218,100/-). In a short period of 6 months, the Accused had wiped clean the funds in Ng’s current account.
+> (vi)     The amount which he had misappropriated was substantial ($218,100/-). In a short period of 6 months, the Accused had wiped clean the funds in Ng’s current account.
 
-(vii)     He took active steps to cover up his tracks in an effort to conceal his crimes.
+> (vii)     He took active steps to cover up his tracks in an effort to conceal his crimes.
 
-(viii)    He had lied to the CAD in his first statement and had only come clean after receiving legal advice. This showed a lack of genuine remorse. He had come clean because he knew the game was up.
+> (viii)    He had lied to the CAD in his first statement and had only come clean after receiving legal advice. This showed a lack of genuine remorse. He had come clean because he knew the game was up.
 
 29     In relation to the charges involving Betty –
 
-(i)     He committed these offences whilst he was under investigations for the offences involving Ng.
+> (i)     He committed these offences whilst he was under investigations for the offences involving Ng.
 
-(ii)     He exploited his relationship with Betty and her genuine concern for his welfare.
+> (ii)     He exploited his relationship with Betty and her genuine concern for his welfare.
 
-(iii)     The degree of deception perpetrated against Betty was high. He went into great length to manipulate her emotions, even to the extent of impersonating his brother, Casper.
+> (iii)     The degree of deception perpetrated against Betty was high. He went into great length to manipulate her emotions, even to the extent of impersonating his brother, Casper.
 
-(iv)     The amount involved was not small ($20,000/-).
+> (iv)     The amount involved was not small ($20,000/-).
 
 30     DPP Chin submitted that retribution and deterrence - general and specific - were the relevant considerations in sentencing the Accused. Retribution was relevant because the sentence must be commensurate to the seriousness of the offences in terms of the harm caused and his culpability. General deterrence was relevant because the Accused committed the offences in relation to Ng in his professional capacity, Ng was a vulnerable victim, and there was the abuse of banking facilities which could seriously undermine public confidence on our financial institutions. Specific deterrence was relevant because the offences involved a high degree of planning and pre-meditation. In addition, committing the offence against Betty whilst he was under investigation, showed lack of remorse.
 
@@ -166,7 +166,92 @@ The Accused pleaded guilty to four charges of cheating under section 420 of the 
 
 33     All considered, DPP Chin sought for the following sentences –
 
-<table align="left" cellpadding="0" cellspacing="0" class="Judg-2" frame="none" pgwide="1"><colgroup><col width="10.2620524104821%"> <col width="31.2662532506501%"> <col width="10.4220844168834%"> <col width="48.0496099219844%"> </colgroup><tbody><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">(i)</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC 919089/17</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">-</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">24 months’ imprisonment.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">(ii)</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC 919092/17</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">-</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">18 months’ imprisonment.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">(iii)</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC 919095/17</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">-</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">18 months’ imprisonment.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">(iv)</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC 919096/17</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">-</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">36 months’ imprisonment.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">(v)</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC 900455/17</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">-</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">12 months’ imprisonment.</p></td></tr></tbody></table>
+>   
+| 
+
+(i)
+
+ | 
+
+DAC 919089/17
+
+ | 
+
+\-
+
+ | 
+
+24 months’ imprisonment.
+
+ |
+| 
+
+(ii)
+
+ | 
+
+DAC 919092/17
+
+ | 
+
+\-
+
+ | 
+
+18 months’ imprisonment.
+
+ |
+| 
+
+(iii)
+
+ | 
+
+DAC 919095/17
+
+ | 
+
+\-
+
+ | 
+
+18 months’ imprisonment.
+
+ |
+| 
+
+(iv)
+
+ | 
+
+DAC 919096/17
+
+ | 
+
+\-
+
+ | 
+
+36 months’ imprisonment.
+
+ |
+| 
+
+(v)
+
+ | 
+
+DAC 900455/17
+
+ | 
+
+\-
+
+ | 
+
+12 months’ imprisonment.
+
+ |
 
   
   

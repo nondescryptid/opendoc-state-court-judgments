@@ -15,9 +15,9 @@
 
 The Accused is a 45-year-old male. The Prosecution proceeded with six charges (referred to in this judgment as the “Proceeded Charges”) against him, comprising:
 
-(a)     five charges under the Misuse of Drugs Act[^1] (“MDA”); and
+> (a)     five charges under the Misuse of Drugs Act[^1] (“MDA”); and
 
-(b)     one charge under the Penal Code.[^2]
+> (b)     one charge under the Penal Code.[^2]
 
 2       I sentenced the Accused for the six Proceeded Charges as follows:
 
@@ -41,9 +41,9 @@ The Accused is a 45-year-old male. The Prosecution proceeded with six charges (r
 
 6       After being released on bail for these two charges, he went on to commit:
 
-(a)     the offence underlying the 3rd Proceeded Charge (use of criminal force) in August 2017; and
+> (a)     the offence underlying the 3rd Proceeded Charge (use of criminal force) in August 2017; and
 
-(b)     the offences underlying the 4th to 6th Proceeded Charges (possession of diamorphine, consumption of morphine and possession of methamphetamine) in March 2018.
+> (b)     the offences underlying the 4th to 6th Proceeded Charges (possession of diamorphine, consumption of morphine and possession of methamphetamine) in March 2018.
 
 7       The following facts are distilled from the amended Statement of Facts tendered by the Prosecution, which the Accused admitted to.
 
@@ -53,13 +53,13 @@ The Accused is a 45-year-old male. The Prosecution proceeded with six charges (r
 
 9       These events provide the context for the 1st and 2nd Proceeded Charges:
 
-(a)     1st Proceeded Charge (**DAC 948675/2016**) −Trafficking not less than 17.84 grams of methamphetamine:
+> (a)     1st Proceeded Charge (**DAC 948675/2016**) −Trafficking not less than 17.84 grams of methamphetamine:
 
-Analysis by the Health Sciences Authority (“HSA”) Illicit Drugs Laboratory revealed that Exhibit HBJ-A1A1 contained not less than _17.84 grams of Methamphetamine_.[^5] The Accused admitted to owning Exhibit HBJ-A1A1 and said that it was intended for sale to others and also for his own consumption.
+>> Analysis by the Health Sciences Authority (“HSA”) Illicit Drugs Laboratory revealed that Exhibit HBJ-A1A1 contained not less than _17.84 grams of Methamphetamine_.[^5] The Accused admitted to owning Exhibit HBJ-A1A1 and said that it was intended for sale to others and also for his own consumption.
 
-(b)     2nd Proceeded Charge (**DAC 948676/2016**) −Consumption of methamphetamine:
+> (b)     2nd Proceeded Charge (**DAC 948676/2016**) −Consumption of methamphetamine:
 
-Following his arrest, the Accused’s urine samples were analysed by HSA’s Analytical Toxicology Laboratory and found to contain methamphetamine.[^6] The Accused admitted that on the afternoon of his arrest, he had smoked ‘Ice’ (the street name for methamphetamine) by pouring some of it into a glass utensil, heating the utensil with a lighter and inhaling the fumes.
+>> Following his arrest, the Accused’s urine samples were analysed by HSA’s Analytical Toxicology Laboratory and found to contain methamphetamine.[^6] The Accused admitted that on the afternoon of his arrest, he had smoked ‘Ice’ (the street name for methamphetamine) by pouring some of it into a glass utensil, heating the utensil with a lighter and inhaling the fumes.
 
 10     The Accused was charged in court for the above offences and released on court bail.
 
@@ -73,21 +73,21 @@ Following his arrest, the Accused’s urine samples were analysed by HSA’s Ana
 
 13     These events provide the backdrop to the 4th to 6th Proceeded Charges, which are set out below:
 
-(a)     4th Proceeded Charge (**DAC 926864/2018**) −Trafficking not less than 7.17 grams of diamorphine:
+> (a)     4th Proceeded Charge (**DAC 926864/2018**) −Trafficking not less than 7.17 grams of diamorphine:
 
-Exhibit D1A1 was analysed by HSA’s Illicit Drugs Laboratory and found to contain not less than _7.17 grams of diamorphine_.[^7] The Accused admitted to ownership and possession of Exhibit D1A1, which he said contained ‘Panas’ (a street name for diamorphine). The Accused said that he intended to repack Exhibit D1A1 into 60 packets, of which he intended to pass 30 packets to his wife for her trafficking activities and also for her own consumption. He intended to keep the remaining 30 packets for himself, of which:
+>> Exhibit D1A1 was analysed by HSA’s Illicit Drugs Laboratory and found to contain not less than _7.17 grams of diamorphine_.[^7] The Accused admitted to ownership and possession of Exhibit D1A1, which he said contained ‘Panas’ (a street name for diamorphine). The Accused said that he intended to repack Exhibit D1A1 into 60 packets, of which he intended to pass 30 packets to his wife for her trafficking activities and also for her own consumption. He intended to keep the remaining 30 packets for himself, of which:
 
-(i)       23-24 packets were meant for selling; and
+>>> (i)       23-24 packets were meant for selling; and
 
-(ii)       6-7 packets were for the Accused’s own consumption.
+>>> (ii)       6-7 packets were for the Accused’s own consumption.
 
-(b)     5th Proceeded Charge (**DAC 926866/2018**) −Consumption of morphine:
+> (b)     5th Proceeded Charge (**DAC 926866/2018**) −Consumption of morphine:
 
-After his arrest, the Accused’s urine samples were analysed by HSA’s Analytical Toxicology Laboratory and found to contain morphine.[^8] The Accused admitted that he had smoked diamorphine in his bedroom, prior to his arrest. He did so by pouring some diamorphine on an aluminium foil, heating the underside of the foil and inhaling the fumes. The Accused admitted that since 2014, he smoked diamorphine a few times a day.
+>> After his arrest, the Accused’s urine samples were analysed by HSA’s Analytical Toxicology Laboratory and found to contain morphine.[^8] The Accused admitted that he had smoked diamorphine in his bedroom, prior to his arrest. He did so by pouring some diamorphine on an aluminium foil, heating the underside of the foil and inhaling the fumes. The Accused admitted that since 2014, he smoked diamorphine a few times a day.
 
-(c)     6th Proceeded Charge (**DAC 934347/2018**) −Joint possession (by the Accused and his wife) of not less than 0.22 grams of methamphetamine:
+> (c)     6th Proceeded Charge (**DAC 934347/2018**) −Joint possession (by the Accused and his wife) of not less than 0.22 grams of methamphetamine:
 
-As regards Exhibit E1B, analysis by HSA’s Illicit Drugs Laboratory found this to contain not less than _0.22 grams of methamphetamine_.[^9] The Accused admitted to ownership and possession of Exhibit E1B, which he knew contained Ice. He also admitted that the Ice was for consumption by him and his wife.
+>> As regards Exhibit E1B, analysis by HSA’s Illicit Drugs Laboratory found this to contain not less than _0.22 grams of methamphetamine_.[^9] The Accused admitted to ownership and possession of Exhibit E1B, which he knew contained Ice. He also admitted that the Ice was for consumption by him and his wife.
 
 14     The Accused had, in May 1996, been convicted under s.8(a) MDA for unauthorised possession of a controlled drug (for which he was sentenced to 3 weeks’ imprisonment).[^10] As this past conviction has not been set aside, the Accused’s current conviction for drug possession (under DAC 934347/2018) constitutes a subsequent offence that attracts enhanced punishment, i.e. a minimum imprisonment term of 2 years.[^11]
 
@@ -118,7 +118,7 @@ As regards Exhibit E1B, analysis by HSA’s Illicit Drugs Laboratory found this 
 
 20     A key sentencing consideration for drug offences is deterrence (both general and specific), given the grave harm that drugs cause to both individuals and society at large: see _Public Prosecutor v Lim Cheng Ji Alvin_ <span class="citation">\[2017\] SGHC 183</span>.[^17] For drug consumption charges, a custodial term is warranted unless it is a purely exceptional case: see _Dinesh Singh Bhatia s/o Amarjeet Singh v Public Prosecutor_ <span class="citation">\[2005\] 3 SLR(R) 1</span>[^18] (“_Dinesh_”). In _Dinesh_, the accused person pleaded guilty to and was sentenced under s.8(b) MDA for unauthorised consumption of cocaine. On appeal, his sentence was reduced (from 12 months’ imprisonment) to 8 months’ imprisonment. The High Court, in describing[^19] the accused person’s conduct as a “single foolish act of momentary indiscretion”, laid out its sentencing considerations:[^20]
 
-I take into account the following considerations: that the Appellant did not seek the drugs; that the act of consumption was not planned but effected on the spur of the moment; that the amount consumed was not substantial; that there was no payment involved in this unfortunate incident and that this was, based on the evidence before the court, a one-off episode.
+> I take into account the following considerations: that the Appellant did not seek the drugs; that the act of consumption was not planned but effected on the spur of the moment; that the amount consumed was not substantial; that there was no payment involved in this unfortunate incident and that this was, based on the evidence before the court, a one-off episode.
 
 21     The complexion of that case was very different from the facts underlying the 2nd and 5th Proceeded Charges. The Accused was no stranger to drugs. Despite his previous conviction in 1996, he persisted with his consumption habit. Apart from the two Proceeded Charges for drug consumption, there was yet a further drug consumption charge taken into consideration for the purpose of sentencing.[^21] On these facts, the sentence for the 2nd Proceeded Charge should be calibrated to an **_imprisonment term of 12 months_**.
 
@@ -130,9 +130,9 @@ I take into account the following considerations: that the Appellant did not see
 
 24     For drug trafficking cases, the quantity of drugs trafficked is a strong determinant of the appropriate sentence, given its direct correlation with the degree of harm, although quantity is of course not the only consideration: see _Vasentha d/o Joseph v Public Prosecutor_ <span class="citation">\[2015\] SGHC 197</span>[^22] (“_Vasentha_”). Indicative sentencing bands have been set out in case law:
 
-(a)     For diamorphine, the cases of _Vasentha_ and _Public Prosecutor v Lai Teck Guan_ <span class="citation">\[2018\] SGHC 151</span> set out the indicative starting sentences for, respectively, first-time and repeat traffickers. The sentencing bands set out in both these cases were further modified in _Soh Qiu Xia Katty v Public Prosecutor_ <span class="citation">\[2018\] SGHC 260</span> (“_Katty Soh_”).
+> (a)     For diamorphine, the cases of _Vasentha_ and _Public Prosecutor v Lai Teck Guan_ <span class="citation">\[2018\] SGHC 151</span> set out the indicative starting sentences for, respectively, first-time and repeat traffickers. The sentencing bands set out in both these cases were further modified in _Soh Qiu Xia Katty v Public Prosecutor_ <span class="citation">\[2018\] SGHC 260</span> (“_Katty Soh_”).
 
-(b)     For methamphetamine, the case of _Loo Pei Xiang Alan v Public Prosecutor_ <span class="citation">\[2015\] SGHC 217</span> (_Loo Pei Xiang Alan_) adapted the _Vasentha_ sentencing bands to the methamphetamine context.
+> (b)     For methamphetamine, the case of _Loo Pei Xiang Alan v Public Prosecutor_ <span class="citation">\[2015\] SGHC 217</span> (_Loo Pei Xiang Alan_) adapted the _Vasentha_ sentencing bands to the methamphetamine context.
 
 25     I now deal with the 4th Proceeded Charge, i.e. trafficking in not less than 7.17 grams of diamorphine.
 
@@ -142,11 +142,11 @@ I take into account the following considerations: that the Appellant did not see
 
 28     The Prosecution is undoubtedly correct that commission of the offence while on bail is an aggravating factor. In _Loo Pei Xiang Alan_, Chao Hick Tin JA (as he then was) remarked that if an accused person commits the drug offence while on bail, this is a good reason to elevate the sentence above the indicative starting point, given that such conduct[^24]
 
-demonstrates a disregard for the law and a recalcitrance that calls for an increased sentence on principles of specific deterrence and prevention.
+> demonstrates a disregard for the law and a recalcitrance that calls for an increased sentence on principles of specific deterrence and prevention.
 
 Still, at the very next line in that judgment, Chao JA cautioned that this alone should not justify an overly sharp increase:
 
-But I do not think that this factor alone warrants a sharp increase of six years’ imprisonment and five strokes of the cane from the minimum. I am therefore of the opinion that, for the trafficking charge, the sentence of 16 years’ imprisonment and 15 strokes of the cane imposed on the appellant by the District Judge was manifestly excessive.
+> But I do not think that this factor alone warrants a sharp increase of six years’ imprisonment and five strokes of the cane from the minimum. I am therefore of the opinion that, for the trafficking charge, the sentence of 16 years’ imprisonment and 15 strokes of the cane imposed on the appellant by the District Judge was manifestly excessive.
 
 His Honour had then proceeded to add an uplift of 2 years’ imprisonment to the indicative starting sentence of 10 years.
 
@@ -176,9 +176,9 @@ His Honour had then proceeded to add an uplift of 2 years’ imprisonment to the
 
 38     Taking a “last look”[^30] at this global sentence, I did not find it to offend the totality principle:
 
-(a)     The most serious of the individual sentences would be that for the 4th Proceeded Charge. As explained above, the normal imprisonment term for that offence, given the amount of diamorphine involved, would be up to 9 years. Juxtaposed against that, the global imprisonment term of 13 years does not appear disproportionately high, particularly considering the number of offences involved and the lack of any noteworthy mitigating factors.
+> (a)     The most serious of the individual sentences would be that for the 4th Proceeded Charge. As explained above, the normal imprisonment term for that offence, given the amount of diamorphine involved, would be up to 9 years. Juxtaposed against that, the global imprisonment term of 13 years does not appear disproportionately high, particularly considering the number of offences involved and the lack of any noteworthy mitigating factors.
 
-(b)     Furthermore, the global imprisonment term of 13 years was neither crushing, nor did it fail to keep with the Accused’s past record and future prospects. With remission for good behaviour, the Accused could conceivably be released in 8 years and a few months. This was not so long as to “induce a feeling of hopelessness that destroys all prospects of the \[the Accused’s\] subsequent rehabilitation and reintegration.”[^31]
+> (b)     Furthermore, the global imprisonment term of 13 years was neither crushing, nor did it fail to keep with the Accused’s past record and future prospects. With remission for good behaviour, the Accused could conceivably be released in 8 years and a few months. This was not so long as to “induce a feeling of hopelessness that destroys all prospects of the \[the Accused’s\] subsequent rehabilitation and reintegration.”[^31]
 
 39     I was thus not minded to opt for a different combination of consecutive sentences that might have yielded a lower global imprisonment term.
 

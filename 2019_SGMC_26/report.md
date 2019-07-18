@@ -23,7 +23,7 @@
 
 MCN-900346-2016
 
-You \[...\] are charged that you, on 10 October 2011, in Singapore, did dishonestly convert to your own use movable property, _to wit_, a Citibank cheque bearing Cheque No. 9995533 for a sum of S$140,159.54 that was drawn in your favour by Navigator Investment Services Pte Ltd as payment for monies due to one Syed Salleh Bin Syed Mohsin, by banking the said cheque into the bank account in the name of the estate of the said Syed Salleh Bin Syed Mohsin, which account you administered, for your own use, when the said cheque was sent to you in error by the said Navigator Investment Services Pte Ltd, to whom the monies rightfully belonged, and you have thereby committed an offence punishable under s 403 of the Penal Code (Cap 224, 2008 Rev Ed).
+> You \[...\] are charged that you, on 10 October 2011, in Singapore, did dishonestly convert to your own use movable property, _to wit_, a Citibank cheque bearing Cheque No. 9995533 for a sum of S$140,159.54 that was drawn in your favour by Navigator Investment Services Pte Ltd as payment for monies due to one Syed Salleh Bin Syed Mohsin, by banking the said cheque into the bank account in the name of the estate of the said Syed Salleh Bin Syed Mohsin, which account you administered, for your own use, when the said cheque was sent to you in error by the said Navigator Investment Services Pte Ltd, to whom the monies rightfully belonged, and you have thereby committed an offence punishable under s 403 of the Penal Code (Cap 224, 2008 Rev Ed).
 
 #### Background Facts
 
@@ -76,17 +76,17 @@ You \[...\] are charged that you, on 10 October 2011, in Singapore, did dishones
 
 19      _Gimplex_ was a case involving the purchase of coal of a specified quality by the plaintiffs from the defendants. Prior to delivery, the coal was certified to be of satisfactory quality by the defendants’ inspectors in the ‘Sucofindo Report’. After delivery, the plaintiff’s inspectors found the coal to be of unsatisfactory quality. In the course of the trial, the defendants sought to rely on the Sucofindo Report. The Court of Appeal considered the ambit of s 32(1)(b)(iv) to determine if the Sucofindo Report was in fact admissible. I will set out the relevant portions of the holding below.
 
-_90_      _Be that as it may, the cases above were decided under the previous version of s 32, which does not concern us here. The current s 32(1)(b) expressly includes, “a statement made in a document that is, or forms part of, a record compiled by a person acting in the ordinary course of a trade, business, profession or other occupation based on information supplied by other persons” \[emphasis added\]. It would appear that Gimpex’s objection that the Sucofindo Report was made by a person without personal knowledge of the information required to make the report can no longer hold good in light of the current provision._
+> _90_      _Be that as it may, the cases above were decided under the previous version of s 32, which does not concern us here. The current s 32(1)(b) expressly includes, “a statement made in a document that is, or forms part of, a record compiled by a person acting in the ordinary course of a trade, business, profession or other occupation based on information supplied by other persons” \[emphasis added\]. It would appear that Gimpex’s objection that the Sucofindo Report was made by a person without personal knowledge of the information required to make the report can no longer hold good in light of the current provision._
 
-_91_      _It was clear from the Explanatory Statement to the Bill which eventually was enacted as EA(A) 2012 that s 32 was amended, “to expand the scope of existing exceptions, especially the exception for statements made in the course of a trade, business, profession or other occupation” \[emphasis added\]. We should add that the expansion of the scope of s 32(1)(b) was also discussed in greater detail in the Ministry of Law draft consultation paper in relation to the Bill (“the Consultation Paper”)._
+> _91_      _It was clear from the Explanatory Statement to the Bill which eventually was enacted as EA(A) 2012 that s 32 was amended, “to expand the scope of existing exceptions, especially the exception for statements made in the course of a trade, business, profession or other occupation” \[emphasis added\]. We should add that the expansion of the scope of s 32(1)(b) was also discussed in greater detail in the Ministry of Law draft consultation paper in relation to the Bill (“the Consultation Paper”)._
 
-_93_      _It is also apposite to note that the limitations of the old s 32(1)(b) as mentioned in the Law Reform Committee Report, were made with reference to the decision in Vaynar (see the Law Reform Committee Report at para 15). In fact, that report stated that the position on the admissibility of “composite business reports” was still unclear despite the decision of Press Automation (ibid). There is, therefore, cause to believe that the scope of the current s 32(1)(b) is meant to remove the limitations under the old law set out in Vaynar._
+> _93_      _It is also apposite to note that the limitations of the old s 32(1)(b) as mentioned in the Law Reform Committee Report, were made with reference to the decision in Vaynar (see the Law Reform Committee Report at para 15). In fact, that report stated that the position on the admissibility of “composite business reports” was still unclear despite the decision of Press Automation (ibid). There is, therefore, cause to believe that the scope of the current s 32(1)(b) is meant to remove the limitations under the old law set out in Vaynar._
 
-_94_      _We would observe that s 32(1)(b)(iv) appears to be a new subprovision which was not there in the old s 32(1)(b). However, on the face of it, s 32(1)(b)(iv) does not purport to alter the scope of the admissibility of business documents apart from making it absolutely clear that business records would also fall within the exception to the hearsay rule. This is evidenced by the Parliamentary Debates on the Bill (see above at \[77\]) where the Minister had expressly stated that, “\[t\]he business records exception in section 32(b) \[sic\] is extended”. However, the real extension of the scope of this exception to the hearsay rule would appear to lie in the last phrase of s 32(1)(b), “based on information supplied by other persons”, which qualifies all sub-paras (i) to (iv) of s 32(1)(b). This phrase is commented on by Prof Jeffrey Pinsler SC (“Prof Pinsler”) in his work, Evidence and the Litigation Process (LexisNexis, 4th Ed, 2013) (“Pinsler”) in the context of s 32(1)(b)(iv), as follows (at para 6.008):_
+> _94_      _We would observe that s 32(1)(b)(iv) appears to be a new subprovision which was not there in the old s 32(1)(b). However, on the face of it, s 32(1)(b)(iv) does not purport to alter the scope of the admissibility of business documents apart from making it absolutely clear that business records would also fall within the exception to the hearsay rule. This is evidenced by the Parliamentary Debates on the Bill (see above at \[77\]) where the Minister had expressly stated that, “\[t\]he business records exception in section 32(b) \[sic\] is extended”. However, the real extension of the scope of this exception to the hearsay rule would appear to lie in the last phrase of s 32(1)(b), “based on information supplied by other persons”, which qualifies all sub-paras (i) to (iv) of s 32(1)(b). This phrase is commented on by Prof Jeffrey Pinsler SC (“Prof Pinsler”) in his work, Evidence and the Litigation Process (LexisNexis, 4th Ed, 2013) (“Pinsler”) in the context of s 32(1)(b)(iv), as follows (at para 6.008):_
 
-_The term ‘record’ is not defined in the EA. It may consist of a single document which includes information or two or more documents which contain information. In any event, it must be compiled by a person in the ordinary course of his trade, business, profession or other occupation. There is no express requirement that the compiler and the persons who supplied the information included in the record must have personal knowledge of that information. Therefore, s 32(1)(b)(iv) is broader than the repealed s 272 of the current CPC (and its predecessor, s 380 of the former CPC), which required the supplier of information to have, or to be reasonably supposed to have had, personal knowledge concerning the facts. Moreover, where the supplier of information was merely an intermediary (as when he received information from another supplier of information, who might have been an intermediary himself), the intermediary or intermediaries had to have been acting under a duty. The absence of these requirements in s 32(1)(b)(iv) means that hearsay upon hearsay (multiple hearsay) to an unlimited degree may be admitted without safeguards concerning the knowledge of the persons involved in transmitting the information. Furthermore, the condition in the repealed s 272 that direct oral evidence of the facts would have been admissible (ie, the court could have accepted direct testimony of the facts if it had been available) is also absent from s 32(1)(b)(iv). Additionally, the protection in the repealed s 272, which precluded the admissibility of a statement in the record if the person who supplied the information did so after the commencement of investigations into the offence, has not been retained by s 32(1)(b)(iv). These omissions raise the real possibility that documentary records admitted under s 32(1)(b)(iv) may be unreliable, a particular concern where the accused has to face such evidence in criminal proceedings. … \[emphasis added\]_
+>> _The term ‘record’ is not defined in the EA. It may consist of a single document which includes information or two or more documents which contain information. In any event, it must be compiled by a person in the ordinary course of his trade, business, profession or other occupation. There is no express requirement that the compiler and the persons who supplied the information included in the record must have personal knowledge of that information. Therefore, s 32(1)(b)(iv) is broader than the repealed s 272 of the current CPC (and its predecessor, s 380 of the former CPC), which required the supplier of information to have, or to be reasonably supposed to have had, personal knowledge concerning the facts. Moreover, where the supplier of information was merely an intermediary (as when he received information from another supplier of information, who might have been an intermediary himself), the intermediary or intermediaries had to have been acting under a duty. The absence of these requirements in s 32(1)(b)(iv) means that hearsay upon hearsay (multiple hearsay) to an unlimited degree may be admitted without safeguards concerning the knowledge of the persons involved in transmitting the information. Furthermore, the condition in the repealed s 272 that direct oral evidence of the facts would have been admissible (ie, the court could have accepted direct testimony of the facts if it had been available) is also absent from s 32(1)(b)(iv). Additionally, the protection in the repealed s 272, which precluded the admissibility of a statement in the record if the person who supplied the information did so after the commencement of investigations into the offence, has not been retained by s 32(1)(b)(iv). These omissions raise the real possibility that documentary records admitted under s 32(1)(b)(iv) may be unreliable, a particular concern where the accused has to face such evidence in criminal proceedings. … \[emphasis added\]_
 
-_95_      _In the premises, we are of the view that the current s 32(1)(b)(iv) is prima facie broad enough to permit the admission of the Sucofindo Report for the purposes of proving that the coal shipped on board the Vessel and discharged at Karachi was of the quality stated in the report. However, this is not the end of the matter. There is still s 32(3) which requires the court to examine whether it should exercise its discretion to exclude the Sucofindo Report in the interest of justice._
+> _95_      _In the premises, we are of the view that the current s 32(1)(b)(iv) is prima facie broad enough to permit the admission of the Sucofindo Report for the purposes of proving that the coal shipped on board the Vessel and discharged at Karachi was of the quality stated in the report. However, this is not the end of the matter. There is still s 32(3) which requires the court to examine whether it should exercise its discretion to exclude the Sucofindo Report in the interest of justice._
 
 20     In short, the Court of Appeal held that s 32(1)(b)(iv) permitted a record compiled by a person acting in the ordinary course of a trade, business, profession or occupation based on information supplied by other persons to be admitted in evidence. s 32(1)(b)(iv) did not require the person who prepared the record to have personal knowledge of the information contained therein. It was however cautioned that the Court needs to assess whether the business records in question should nonetheless be excluded in the interest of justice.
 
@@ -96,7 +96,7 @@ _95_      _In the premises, we are of the view that the current s 32(1)(b)(i
 
 22     The Court of Appeal in the case of _Gimplex_ acknowledged that the scope of s 32(1)(b)(iv) is very wide and agreed with Prof Pinsler that under the current provision, ‘multiple hearsay to an unlimited degree may be admitted without safeguards’. The Court of Appeal then agreed with Prof Pinsler’s view _that the issue in applying s 32(3) is whether admissible evidence should be excluded because other countervailing factors outweigh the benefit of having the evidence admitted_.[^4] The Court went on to specify the following guidelines.
 
-_109_      _In particular, we think that where the hearsay evidence sought to be admitted is of limited probative value, such evidence should properly be excluded. The effect of this is that the party seeking the admission of the hearsay evidence must be able to show the court that there were certain safeguards or measures that applied to that evidence which would ensure a minimal degree of reliability. Of course, the court in doing so must bear in mind the fine line between a decision not to admit hearsay evidence (under s 32(3)) and a decision to admit the hearsay evidence but to accord it less weight (under s 32(5)). The court should not normally exercise its discretion to exclude evidence that is declared to be admissible by the EA._
+> _109_      _In particular, we think that where the hearsay evidence sought to be admitted is of limited probative value, such evidence should properly be excluded. The effect of this is that the party seeking the admission of the hearsay evidence must be able to show the court that there were certain safeguards or measures that applied to that evidence which would ensure a minimal degree of reliability. Of course, the court in doing so must bear in mind the fine line between a decision not to admit hearsay evidence (under s 32(3)) and a decision to admit the hearsay evidence but to accord it less weight (under s 32(5)). The court should not normally exercise its discretion to exclude evidence that is declared to be admissible by the EA._
 
 23     In the present case, Ms Lynette Foo Lee Phing explained over two days of her testimony in Court, about the nature of the documents and the manner in which they are stored and archived. She stated that P8I, P9I and P9AI are standard letters of correspondence prepared and sent out by Navigator. P10I is a standard form prepared by Navigator for the closure of the account. It was completed and submitted by Syed Abdul Rahman and the documents submitted were in fact verified by her. P12I and P12AI are computer generated letters and P14I is an internal check-list used to process returned mail.
 
@@ -110,27 +110,27 @@ _109_      _In particular, we think that where the hearsay evidence sought t
 
 27     I reproduce below, the relevant provisions governing the offence of criminal misappropriation, to illustrate the key elements of the offence.
 
-**Dishonest misappropriation of property**
+> **Dishonest misappropriation of property**
 
-**403**.    Whoever dishonestly misappropriates or converts to his own use movable property, shall be punished with imprisonment for a term which may extend to 2 years, or with fine, or with both.
+> **403**.    Whoever dishonestly misappropriates or converts to his own use movable property, shall be punished with imprisonment for a term which may extend to 2 years, or with fine, or with both.
 
-**“Dishonestly”**
+> **“Dishonestly”**
 
-**24**.    Whoever does anything with the intention of causing wrongful gain to one person, or wrongful loss to another person, is said to do that thing dishonestly.
+> **24**.    Whoever does anything with the intention of causing wrongful gain to one person, or wrongful loss to another person, is said to do that thing dishonestly.
 
-**“Wrongful gain” and “wrongful loss”**
+> **“Wrongful gain” and “wrongful loss”**
 
-**23**.    “Wrongful gain” is gain by unlawful means of property to which the person gaining it is not legally entitled; “wrongful loss” is loss by unlawful means of property to which the person losing it is legally entitled.
+> **23**.    “Wrongful gain” is gain by unlawful means of property to which the person gaining it is not legally entitled; “wrongful loss” is loss by unlawful means of property to which the person losing it is legally entitled.
 
-_Explanation_. — A person is said to gain wrongfully when such person retains wrongfully, as well as when such person acquires wrongfully. A person is said to lose wrongfully when such person is wrongfully kept out of any property, as well as when such person is wrongfully deprived of property.
+> _Explanation_. — A person is said to gain wrongfully when such person retains wrongfully, as well as when such person acquires wrongfully. A person is said to lose wrongfully when such person is wrongfully kept out of any property, as well as when such person is wrongfully deprived of property.
 
 28     The High Court decision in _Wong Seng Kwan v Public Prosecutor_[^6] succinctly sets out the elements of an offence under s 403 of the Penal Code, Cap 224, which the Prosecution must prove beyond reasonable doubt.
 
-(a)      _the movable property (“lost chattel”) must belong to some person other than the accused person;_
+> (a)      _the movable property (“lost chattel”) must belong to some person other than the accused person;_
 
-(b)      _there must be an act of misappropriation or conversion to his own use; and_
+> (b)      _there must be an act of misappropriation or conversion to his own use; and_
 
-(c)      _the accused person must possess a dishonest intention._
+> (c)      _the accused person must possess a dishonest intention._
 
 29     The first two elements of the offence are largely undisputed. It was agreed that the second cheque which was issued to Syed Abdul Rahman was the movable property belonging to Navigator as it was issued out of Navigator’s account. It was not a lost chattel abandoned by the owner, Navigator. As such, it belonged to a person other than the accused.
 
@@ -140,7 +140,7 @@ _Explanation_. — A person is said to gain wrongfully when such person retains 
 
 32     The Prosecution cited the Court of Appeal decision in _Tan Kiam Peng v Public Prosecutor[^7]_ for the general principles to apply when inferring wilful blindness. The Court of Appeal in determining the issue of the applicable mens rea for the presumption under section 18 of the Misuse of Drugs Act, (Cap 185, 2008 Rev Ed) held:
 
-_The practical reality, however, is, as Yong CJ put it in Koo Pui Fong, that “\[o\]f course, we would never have the benefit of going into the mind of another person to ascertain his knowledge and in every case, knowledge is a fact that has to be inferred from the circumstances” ((\[103\] supra) at \[14\]; see also the Singapore Court of Appeal decision of Tay Kah Tiang v PP <span class="citation">\[2001\] 1 SLR(R) 577</span> (“Tay Kah Tiang”) at \[34\]). Likewise, a finding of wilful blindness is “solely dependent on the relevant inferences to be drawn by the trial judge from all the facts and circumstances of the particular case, giving due weight, where necessary, to the credibility of the witnesses” (per Abdul Malik Ishak J in the Malaysian High Court decision of Public Prosecutor v Tan Kok An <span class="citation">\[1996\] 1 MLJ 89</span> at 101; see also per Lord Esher MR in the English Court of Appeal decision of The English and Scottish Mercantile Investment Company, Limited v Brunton <span class="citation">\[1892\] 2 QB 700</span> at 708 (“Brunton”) (the relevant passage of which is quoted at \[109\] below)). Indeed, short of a clear admission (which will, in the nature of things, be extremely rare), inferences drawn from the precise facts and circumstances of the case concerned are the only viable material available to the court in order to ascertain whether or not either actual knowledge or wilful blindness exists. It is, at this juncture, important to note, once again, that wilful blindness has always been treated, in law, as the equivalent of actual knowledge_ …
+> _The practical reality, however, is, as Yong CJ put it in Koo Pui Fong, that “\[o\]f course, we would never have the benefit of going into the mind of another person to ascertain his knowledge and in every case, knowledge is a fact that has to be inferred from the circumstances” ((\[103\] supra) at \[14\]; see also the Singapore Court of Appeal decision of Tay Kah Tiang v PP <span class="citation">\[2001\] 1 SLR(R) 577</span> (“Tay Kah Tiang”) at \[34\]). Likewise, a finding of wilful blindness is “solely dependent on the relevant inferences to be drawn by the trial judge from all the facts and circumstances of the particular case, giving due weight, where necessary, to the credibility of the witnesses” (per Abdul Malik Ishak J in the Malaysian High Court decision of Public Prosecutor v Tan Kok An <span class="citation">\[1996\] 1 MLJ 89</span> at 101; see also per Lord Esher MR in the English Court of Appeal decision of The English and Scottish Mercantile Investment Company, Limited v Brunton <span class="citation">\[1892\] 2 QB 700</span> at 708 (“Brunton”) (the relevant passage of which is quoted at \[109\] below)). Indeed, short of a clear admission (which will, in the nature of things, be extremely rare), inferences drawn from the precise facts and circumstances of the case concerned are the only viable material available to the court in order to ascertain whether or not either actual knowledge or wilful blindness exists. It is, at this juncture, important to note, once again, that wilful blindness has always been treated, in law, as the equivalent of actual knowledge_ …
 
 33     I turn now to address the factual issues bearing in mind the applicable principles for determining the element of knowledge of an accused person, as set out by the Court of Appeal in the case above.
 
@@ -156,14 +156,465 @@ _The practical reality, however, is, as Yong CJ put it in Koo Pui Fong, that “
 
 36     Mr Lum was an administrative officer with Navigator. On 5 October 2011 at 6.27 pm, Mr Lum had called Syed Abdul Rahman to inform him that a second cheque was being prepared to replace the first cheque. The transcript of the telephone conversation was admitted in evidence. Mr Lum began by identifying himself as Adam from Navigator. Syed Abdul Rahman acknowledged his identity with a “Yes, Yes, Yes”. Mr Lum followed by explaining the purpose of his call. I will reproduce below the transcript of the call for clarity. W refers to Mr Lum and D refers to Syed Abdul Rahman.
 
-<table align="left" cellpadding="0" cellspacing="0" class="Judg-2" frame="none" pgwide="1"><colgroup><col width="20.92%"> <col width="79.08%"> </colgroup><tbody><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>D :</em></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>Hello</em></p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>W:</em></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>Hello Good Afternoon, may I speak to Mr Syed Abdul Rahman please?</em></p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>D :</em></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>Yes speaking</em></p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>W :</em></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>Hi ah Mr Syed ah this is Adam calling from AVIVA Navigator</em></p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>D :</em></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b><em>From where?</em></b></p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>W :</em></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>AVIVA Navigator</em></p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>D :</em></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>Yes Yes Yes</em></p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>W :</em></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>OK ah its actually regarding ah </em><b><em>a previous cheque payment that we tried to ah send it out </em></b><em>in the name of ah estate of Syed Salleh Bin (Inaudible)</em></p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>D :</em></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>Yes Yes</em></p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>W:</em></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>Ok ah because </em><b><em>the the document was actually returned to us </em></b><em>ah is because ah the address given by ah shown on your NRIC is actually not valid. So ah </em><b><em>we have checked and the cheque wasn’t presented to the bank</em></b> <em>. So we have actually </em><b><em>raised a request to stop ah to cancel that previous cheque </em></b><em>and </em><b><em>we will be issuing a new cheque </em></b><em>also in the name of ah the estate. But ah I will need your confirmation because we do not have a valid ah address on our end to mail out to you. So ah is it possible for you to actually make a trip down to our customer service centre to</em></p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>D :</em></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b><em>Tomorrow ah?</em></b></p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>W :</em></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>To collect it personally</em></p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>D :</em></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b><em>Ok can </em></b><em>tomorrow ah?</em></p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>W :</em></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>Ah tomorrow it won’t be ready yet. But um how about I give you a call back to inform you when the cheque would be ready for you collection.</em></p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>D :</em></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b><em>Ok, Ok, ah then how much is the amount ah ?</em></b></p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>W :</em></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>The amount is ah ok for verification purposes ah Syed can you just provide me your NRIC and date of birth first?</em></p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>D :</em></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>one four five four seven zero four England</em></p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>W :</em></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>Ok, and your date of birth please</em></p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>D :</em></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>Zero five zero six sixty</em></p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>W :</em></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b><em>Ok ah so ah actually the amount right is ah slightly above one hundred and forty k.</em></b></p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>D :</em></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b><em>Oo</em></b></p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>W :</em></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>So I will check on my end first I will give you a call back later to ah let you know when the cheque would be ready for your collection.</em></p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>D :</em></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>Ok</em></p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>W :</em></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>Ok alright thank you so much</em></p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>D :</em></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>Thank you bye</em></p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>W :</em></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>Thank you Bye</em></p></td></tr><tr><td align="left" class="" colspan="2" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">[emphasis added]</p></td></tr></tbody></table>
+>   
+| 
+
+_D :_
+
+ | 
+
+_Hello_
+
+ |
+| 
+
+_W:_
+
+ | 
+
+_Hello Good Afternoon, may I speak to Mr Syed Abdul Rahman please?_
+
+ |
+| 
+
+_D :_
+
+ | 
+
+_Yes speaking_
+
+ |
+| 
+
+_W :_
+
+ | 
+
+_Hi ah Mr Syed ah this is Adam calling from AVIVA Navigator_
+
+ |
+| 
+
+_D :_
+
+ | 
+
+**_From where?_**
+
+ |
+| 
+
+_W :_
+
+ | 
+
+_AVIVA Navigator_
+
+ |
+| 
+
+_D :_
+
+ | 
+
+_Yes Yes Yes_
+
+ |
+| 
+
+_W :_
+
+ | 
+
+_OK ah its actually regarding ah_ **_a previous cheque payment that we tried to ah send it out_** _in the name of ah estate of Syed Salleh Bin (Inaudible)_
+
+ |
+| 
+
+_D :_
+
+ | 
+
+_Yes Yes_
+
+ |
+| 
+
+_W:_
+
+ | 
+
+_Ok ah because_ **_the the document was actually returned to us_** _ah is because ah the address given by ah shown on your NRIC is actually not valid. So ah_ **_we have checked and the cheque wasn’t presented to the bank_** _. So we have actually_ **_raised a request to stop ah to cancel that previous cheque_** _and_ **_we will be issuing a new cheque_** _also in the name of ah the estate. But ah I will need your confirmation because we do not have a valid ah address on our end to mail out to you. So ah is it possible for you to actually make a trip down to our customer service centre to_
+
+ |
+| 
+
+_D :_
+
+ | 
+
+**_Tomorrow ah?_**
+
+ |
+| 
+
+_W :_
+
+ | 
+
+_To collect it personally_
+
+ |
+| 
+
+_D :_
+
+ | 
+
+**_Ok can_** _tomorrow ah?_
+
+ |
+| 
+
+_W :_
+
+ | 
+
+_Ah tomorrow it won’t be ready yet. But um how about I give you a call back to inform you when the cheque would be ready for you collection._
+
+ |
+| 
+
+_D :_
+
+ | 
+
+**_Ok, Ok, ah then how much is the amount ah ?_**
+
+ |
+| 
+
+_W :_
+
+ | 
+
+_The amount is ah ok for verification purposes ah Syed can you just provide me your NRIC and date of birth first?_
+
+ |
+| 
+
+_D :_
+
+ | 
+
+_one four five four seven zero four England_
+
+ |
+| 
+
+_W :_
+
+ | 
+
+_Ok, and your date of birth please_
+
+ |
+| 
+
+_D :_
+
+ | 
+
+_Zero five zero six sixty_
+
+ |
+| 
+
+_W :_
+
+ | 
+
+**_Ok ah so ah actually the amount right is ah slightly above one hundred and forty k._**
+
+ |
+| 
+
+_D :_
+
+ | 
+
+**_Oo_**
+
+ |
+| 
+
+_W :_
+
+ | 
+
+_So I will check on my end first I will give you a call back later to ah let you know when the cheque would be ready for your collection._
+
+ |
+| 
+
+_D :_
+
+ | 
+
+_Ok_
+
+ |
+| 
+
+_W :_
+
+ | 
+
+_Ok alright thank you so much_
+
+ |
+| 
+
+_D :_
+
+ | 
+
+_Thank you bye_
+
+ |
+| 
+
+_W :_
+
+ | 
+
+_Thank you Bye_
+
+ |
+| 
+
+\[emphasis added\]
+
+ |
 
   
   
 
 37     This phone conversation was followed by a second phone conversation between Mr Lum and Syed Abdul Rahman when Mr Lum called back on the same day at 6.36 pm. Mr Lum informed Syed Abdul Rahman to collect the cheque on the following Monday, 10 October 2011, from the customer service centre at SGX from about 12.00 pm onwards. He was instructed to approach the receptionist when he arrives and to also bring along his NRIC for verification purposes. The transcript of this phone conversation is reproduced below as well.
 
-<table align="left" cellpadding="0" cellspacing="0" class="Judg-2" frame="none" pgwide="1"><colgroup><col width="14.6%"> <col width="85.4%"> </colgroup><tbody><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>D :</em></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>Hello</em></p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>W:</em></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>Hello sorry to interrupt you ah Syed I</em></p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>D :</em></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>Hello</em></p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>W :</em></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>I am calling from ... Hello</em></p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>D :</em></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>Yes Yes Yes Yes</em></p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>W :</em></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>This is Adam calling from AVIVA Navigator</em></p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>D:</em></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b><em>Again, I can’t hear you</em></b></p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>W :</em></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>Um it’s Adam calling from AVIVA Navigator (inaudible)</em></p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>D:</em></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b><em>Yes. Wait ah I can’t hear you ah</em></b> <em>.</em></p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>D :</em></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>Ah what’s that?</em></p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>W :</em></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>Hello ah ya</em></p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>D :</em></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>Hello</em></p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>W:</em></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>Hello I called you earlier ah regarding the cheque payment for your ah for the estate case</em></p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>D:</em></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>Yes</em></p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>W :</em></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>Ok ah the cheque will be ready from ah 12 pm Monday onwards, next Monday</em></p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>D:</em></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>Next Monday ah</em></p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>W:</em></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>Ya next Monday 12 pm onwards for your collection. So, so you can just head down to our customer service centre which is ah actually at SGX Centre 2. Do you know where is it?</em></p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>D:</em></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b><em>Yes I know</em></b></p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>W:</em></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>Ok ah so you can just come down ah bring along you NRIC and approach our receptionist will do</em></p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>D:</em></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b><em>Ok thank you very much</em></b></p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>W:</em></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>Ok thank you so much</em></p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>D:</em></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>Thank you sir bye</em></p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>W:</em></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>B</em>ye</p></td></tr><tr><td align="left" class="" colspan="2" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">[emphasis added]</p></td></tr></tbody></table>
+>   
+| 
+
+_D :_
+
+ | 
+
+_Hello_
+
+ |
+| 
+
+_W:_
+
+ | 
+
+_Hello sorry to interrupt you ah Syed I_
+
+ |
+| 
+
+_D :_
+
+ | 
+
+_Hello_
+
+ |
+| 
+
+_W :_
+
+ | 
+
+_I am calling from ... Hello_
+
+ |
+| 
+
+_D :_
+
+ | 
+
+_Yes Yes Yes Yes_
+
+ |
+| 
+
+_W :_
+
+ | 
+
+_This is Adam calling from AVIVA Navigator_
+
+ |
+| 
+
+_D:_
+
+ | 
+
+**_Again, I can’t hear you_**
+
+ |
+| 
+
+_W :_
+
+ | 
+
+_Um it’s Adam calling from AVIVA Navigator (inaudible)_
+
+ |
+| 
+
+_D:_
+
+ | 
+
+**_Yes. Wait ah I can’t hear you ah_** _._
+
+ |
+| 
+
+_D :_
+
+ | 
+
+_Ah what’s that?_
+
+ |
+| 
+
+_W :_
+
+ | 
+
+_Hello ah ya_
+
+ |
+| 
+
+_D :_
+
+ | 
+
+_Hello_
+
+ |
+| 
+
+_W:_
+
+ | 
+
+_Hello I called you earlier ah regarding the cheque payment for your ah for the estate case_
+
+ |
+| 
+
+_D:_
+
+ | 
+
+_Yes_
+
+ |
+| 
+
+_W :_
+
+ | 
+
+_Ok ah the cheque will be ready from ah 12 pm Monday onwards, next Monday_
+
+ |
+| 
+
+_D:_
+
+ | 
+
+_Next Monday ah_
+
+ |
+| 
+
+_W:_
+
+ | 
+
+_Ya next Monday 12 pm onwards for your collection. So, so you can just head down to our customer service centre which is ah actually at SGX Centre 2. Do you know where is it?_
+
+ |
+| 
+
+_D:_
+
+ | 
+
+**_Yes I know_**
+
+ |
+| 
+
+_W:_
+
+ | 
+
+_Ok ah so you can just come down ah bring along you NRIC and approach our receptionist will do_
+
+ |
+| 
+
+_D:_
+
+ | 
+
+**_Ok thank you very much_**
+
+ |
+| 
+
+_W:_
+
+ | 
+
+_Ok thank you so much_
+
+ |
+| 
+
+_D:_
+
+ | 
+
+_Thank you sir bye_
+
+ |
+| 
+
+_W:_
+
+ | 
+
+_B_ye
+
+ |
+| 
+
+\[emphasis added\]
+
+ |
 
   
   
@@ -208,7 +659,7 @@ _The practical reality, however, is, as Yong CJ put it in Koo Pui Fong, that “
 
 54     The Appellate Court in _Wong Seng Kwan_ had discussed the implied obligation that one bears under the law to restore a lost item or property to its rightful owner. Steven Chong J held:
 
-_Finders are not always keepers, and a finder who dishonestly keeps his find may instead “find” himself in violation of the law_._[^9]_
+> _Finders are not always keepers, and a finder who dishonestly keeps his find may instead “find” himself in violation of the law_._[^9]_
 
 55     There is no doubt that Syed Abdul Rahman acted with dishonest intent when he turned a blind eye to the clear evidence that Navigator had issued the cheque in error. Instead of doing what he could to rectify that error, Syed Abdul Rahman quickly banked in the second cheque without alerting anyone to the fact that he had previously encashed a cheque for the same amount. Thus he caused wrongful loss to Navigator and concurrently, wrongful gain to himself.
 

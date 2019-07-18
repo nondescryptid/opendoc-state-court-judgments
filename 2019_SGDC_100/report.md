@@ -17,27 +17,27 @@
 
 1       This is an appeal by the accused, Mr Arunachalam Elayaraja, a 39-year old male Indian national against the global sentence of _12 weeks’ imprisonment_ imposed on him for three charges under section 6(b) read with section 29(a) Prevention of Corruption Act (Cap 241, 1993 Rev.Ed.). Initially, the amount of gratification reflected in the three original proceeded charges against him were as follows:
 
-a)     $4000 to $5,000 for the fourth charge;
+> a)     $4000 to $5,000 for the fourth charge;
 
-b)     $3000 to $5,000 for the fifth charge and
+> b)     $3000 to $5,000 for the fifth charge and
 
-c)     $4000 to $5,000 for the sixth charge.
+> c)     $4000 to $5,000 for the sixth charge.
 
 Although the parties were ready for the accused’s plea of guilt to be taken on 10 April 2019, I directed the Prosecution to consider specifying the exact amount of gratification provided to the agent in respect of each of the three proceeded charges as it would have an impact on sentencing. The case was adjourned to 6 May 2019 for the Prosecution to conduct further investigation into the exact amount of gratification that was provided to the agent for the proceeded charges.
 
 2       Subsequently on 6 May 2019, the Prosecution tendered amended charges for the charges to be proceeded should the accused decide to plead guilty. The accused maintained his original plea and had pleaded guilty to the three following amended charges in **DAC 912574-2018, DAC 912575-2018** and **DAC 912576-2018** namely:
 
-_Exhibit C1A –_ **_4th charge (Amended)_**
+> _Exhibit C1A –_ **_4th charge (Amended)_**
 
-“…sometime between July and November 2014, in Singapore, did abet, by engaging in a conspiracy with one Murugesan Moorthy, to corruptly give to an agent, one Kolanji Govindan, a Site Manager in the employ of Singapore Engineering & Construction Pte Ltd (previously known as Singapore Piling & Civil Engineering Pte Ltd (“SPCE”) ), gratification as an inducement for doing an act in relation to SPCE’s affairs, to wit, advancing the business interest of MS Brothers Scaffolding & Engineering Pte Ltd with SPCE, and in pursuance of the conspiracy and in order to the doing of that thing, an act took place, to wit, sometime in September 2014, said Murugesan Moorthy gave a sum S$5000/- to the said Kolanji Govindan, and you have thereby committed an offence punishable under Section 6(b) read with Section 29(a) of the Prevention of Corruption Act (Chapter 241).”
+> “…sometime between July and November 2014, in Singapore, did abet, by engaging in a conspiracy with one Murugesan Moorthy, to corruptly give to an agent, one Kolanji Govindan, a Site Manager in the employ of Singapore Engineering & Construction Pte Ltd (previously known as Singapore Piling & Civil Engineering Pte Ltd (“SPCE”) ), gratification as an inducement for doing an act in relation to SPCE’s affairs, to wit, advancing the business interest of MS Brothers Scaffolding & Engineering Pte Ltd with SPCE, and in pursuance of the conspiracy and in order to the doing of that thing, an act took place, to wit, sometime in September 2014, said Murugesan Moorthy gave a sum S$5000/- to the said Kolanji Govindan, and you have thereby committed an offence punishable under Section 6(b) read with Section 29(a) of the Prevention of Corruption Act (Chapter 241).”
 
-_Exhibit C2A –_ **_5th charge (Amended)_**
+> _Exhibit C2A –_ **_5th charge (Amended)_**
 
-“…sometime between July and November 2014, in Singapore, did abet, by engaging in a conspiracy with one Murugesan Moorthy, to corruptly give to an agent, one Kolanji Govindan, a Site Manager in the employ of Singapore Engineering & Construction Pte Ltd (previously known as Singapore Piling & Civil Engineering Pte Ltd (“SPCE”) ), gratification as an inducement for doing an act in relation to SPCE’s affairs, to wit, advancing the business interest of MS Brothers Scaffolding & Engineering Pte Ltd with SPCE, and in pursuance of the conspiracy and in order to the doing of that thing, an act took place, to wit, sometime in October 2014, said Murugesan Moorthy gave a sum S$5000/- to the said Kolanji Govindan, and you have thereby committed an offence punishable under Section 6(b) read with Section 29(a) of the Prevention of Corruption Act (Chapter 241).”
+> “…sometime between July and November 2014, in Singapore, did abet, by engaging in a conspiracy with one Murugesan Moorthy, to corruptly give to an agent, one Kolanji Govindan, a Site Manager in the employ of Singapore Engineering & Construction Pte Ltd (previously known as Singapore Piling & Civil Engineering Pte Ltd (“SPCE”) ), gratification as an inducement for doing an act in relation to SPCE’s affairs, to wit, advancing the business interest of MS Brothers Scaffolding & Engineering Pte Ltd with SPCE, and in pursuance of the conspiracy and in order to the doing of that thing, an act took place, to wit, sometime in October 2014, said Murugesan Moorthy gave a sum S$5000/- to the said Kolanji Govindan, and you have thereby committed an offence punishable under Section 6(b) read with Section 29(a) of the Prevention of Corruption Act (Chapter 241).”
 
-_Exhibit C3A –_ **_6th charge (Amended)_**
+> _Exhibit C3A –_ **_6th charge (Amended)_**
 
-“…sometime between July and November 2014, in Singapore, did abet, by engaging in a conspiracy with one Murugesan Moorthy, to corruptly give to an agent, one Kolanji Govindan, a Site Manager in the employ of Singapore Engineering & Construction Pte Ltd (previously known as Singapore Piling & Civil Engineering Pte Ltd (“SPCE”) ), gratification as an inducement for doing an act in relation to SPCE’s affairs, to wit, advancing the business interest of MS Brothers Scaffolding & Engineering Pte Ltd with SPCE, and in pursuance of the conspiracy and in order to the doing of that thing, an act took place, to wit, sometime in November 2014, said Murugesan Moorthy gave a sum S$5000/- to the said Kolanji Govindan, and you have thereby committed an offence punishable under Section 6(b) read with Section 29(a) of the Prevention of Corruption Act (Chapter 241).”
+> “…sometime between July and November 2014, in Singapore, did abet, by engaging in a conspiracy with one Murugesan Moorthy, to corruptly give to an agent, one Kolanji Govindan, a Site Manager in the employ of Singapore Engineering & Construction Pte Ltd (previously known as Singapore Piling & Civil Engineering Pte Ltd (“SPCE”) ), gratification as an inducement for doing an act in relation to SPCE’s affairs, to wit, advancing the business interest of MS Brothers Scaffolding & Engineering Pte Ltd with SPCE, and in pursuance of the conspiracy and in order to the doing of that thing, an act took place, to wit, sometime in November 2014, said Murugesan Moorthy gave a sum S$5000/- to the said Kolanji Govindan, and you have thereby committed an offence punishable under Section 6(b) read with Section 29(a) of the Prevention of Corruption Act (Chapter 241).”
 
 Three other remaining charges against him, namely similar charges under s 6(b) read with s 29(a) Prevention of Corruption Act (Cap 241, 1993 Rev.Ed.) in **DAC 912571-2018, DAC 912572-2018** and **DAC 912573-2018** were taken into consideration for the purpose of sentencing. The charges in **DAC 912571-2018 9** (“1st charge”) and **DAC 912572-2018** (“2nd charge”) had each involved his abetment with one Murugesan Moorthy in giving gratification of $2,000 in July 2014 and August 2014 respectively, to the said agent Kolanji Govindan in order to advance the business interest of MS Brothers Scaffolding & Engineering Pte Ltd with Singapore Piling & Civil Engineering Pte Ltd. The third charge, **DAC 912573-2018** involved his abetment with Murugesan Moorthy in giving a loan of $1,000 in August 2014 to the said agent Kolanji Govindan in order to advance the business interest of MS Brothers Scaffolding & Engineering Pte Ltd with Singapore Piling & Civil Engineering Pte Ltd.
 
@@ -45,30 +45,30 @@ Three other remaining charges against him, namely similar charges under s 6(b) r
 
 3       The Statement of Facts (_Exhibit PS1_) which the accused had admitted to without qualification is as follows:
 
-1    The accused, **Arunachalam Elayaraja**, male Singapore Permanent Resident, was the director of MS Brothers Scaffolding & Engineering Pte Ltd ("**MS Brothers**") from June 2013 to December 2014. The accused sold the business of MS Brothers in December 2014 and thereafter left the company.
+> 1    The accused, **Arunachalam Elayaraja**, male Singapore Permanent Resident, was the director of MS Brothers Scaffolding & Engineering Pte Ltd ("**MS Brothers**") from June 2013 to December 2014. The accused sold the business of MS Brothers in December 2014 and thereafter left the company.
 
-2    MS Brothers is in the construction business and does scaffolding works for buildings. As the director of MS Brothers, the accused oversaw the business of the company. He was also the sole cheque signatory of MS Brothers’ bank account.
+> 2    MS Brothers is in the construction business and does scaffolding works for buildings. As the director of MS Brothers, the accused oversaw the business of the company. He was also the sole cheque signatory of MS Brothers’ bank account.
 
-3    The accused worked closely with one Murugesan Moorthy (“**Moorthy**”), Operations Manager of MS Brothers. Moorthy was in charge of running the scaffolding operations and projects at work sites and reported directly to the accused. The accused and Moorthy would have weekly meetings to discuss the business of MS Brothers.
+> 3    The accused worked closely with one Murugesan Moorthy (“**Moorthy**”), Operations Manager of MS Brothers. Moorthy was in charge of running the scaffolding operations and projects at work sites and reported directly to the accused. The accused and Moorthy would have weekly meetings to discuss the business of MS Brothers.
 
-**_Facts pertaining to 4th, 5th and 6th Charges – DAC-912574-2018, DAC-912575-2018 and DAC-912576-2018_**
+> **_Facts pertaining to 4th, 5th and 6th Charges – DAC-912574-2018, DAC-912575-2018 and DAC-912576-2018_**
 
-4    Sometime in June 2014, MS Brothers started receiving jobs from Singapore Engineering & Construction Pte Ltd (previously known as Singapore Piling & Civil Engineering Pte Ltd) ("**SPCE**") for scaffolding works at the work site of Singapore University of Technology & Design. The accused knew Moorthy was the one who had secured these jobs from Kolanji Govindan ("**Kolanji**"), a Site Manager of SPCE.
+> 4    Sometime in June 2014, MS Brothers started receiving jobs from Singapore Engineering & Construction Pte Ltd (previously known as Singapore Piling & Civil Engineering Pte Ltd) ("**SPCE**") for scaffolding works at the work site of Singapore University of Technology & Design. The accused knew Moorthy was the one who had secured these jobs from Kolanji Govindan ("**Kolanji**"), a Site Manager of SPCE.
 
-5    Sometime in June 2014 when MS Brothers received the 1st progress payment from SPCE, the accused met Moorthy for their weekly meetings. In this meeting, Moorthy told the accused that he had asked Kolanji to recommend MS Brothers for scaffolding works of SPCE and in return he would give Kolanji monies. Moorthy sought for the accused’s permission to give such monies. The accused agreed to do so and told Moorthy that he can look for Mala, the accounts clerk in MS Brothers, to get the relevant cheque payments for such monies to be given to Kolanji.
+> 5    Sometime in June 2014 when MS Brothers received the 1st progress payment from SPCE, the accused met Moorthy for their weekly meetings. In this meeting, Moorthy told the accused that he had asked Kolanji to recommend MS Brothers for scaffolding works of SPCE and in return he would give Kolanji monies. Moorthy sought for the accused’s permission to give such monies. The accused agreed to do so and told Moorthy that he can look for Mala, the accounts clerk in MS Brothers, to get the relevant cheque payments for such monies to be given to Kolanji.
 
-6    Pursuant to this arrangement, Moorthy would go to Mala who would prepare the cheque payments. These cheques would be signed by the accused and the accused knew that the monies was to be paid Kolanji. Moorthy would take these cheques, encash them and then passed the monies to Kolanji on the following occasions:
+> 6    Pursuant to this arrangement, Moorthy would go to Mala who would prepare the cheque payments. These cheques would be signed by the accused and the accused knew that the monies was to be paid Kolanji. Moorthy would take these cheques, encash them and then passed the monies to Kolanji on the following occasions:
 
 <table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="33.34%"> <col width="33.32%"> <col width="33.34%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Charge</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Date</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Amount</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">DAC-912574-2018</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Sept 2014</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1">$5,000</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">DAC-912575-2018</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Oct 2014</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1">$5,000</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="center" class="Table-Para-1">DAC-912576-2018</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Nov 2014</p></td><td align="left" class="" rowspan="1" valign="top"><p align="center" class="Table-Para-1">$5,000</p></td></tr></tbody></table>
 
   
   
 
-7    On the above occasions, Moorthy gave the monies to Kolanji pursuant to his agreement with the accused to give monies to Kolanji in return for Kolanji recommending MS Brothers to SPCE for scaffolding works. By the foregoing, the accused has engaged in conspiracies with Moorthy to corruptly give gratifications to Kolanji as inducement for advancing the business interest of MS Brothers with SPCE and he has thereby committed offences under section 6(b) read with section 29 of the Prevention of Corruption Act, Chapter 241.
+> 7    On the above occasions, Moorthy gave the monies to Kolanji pursuant to his agreement with the accused to give monies to Kolanji in return for Kolanji recommending MS Brothers to SPCE for scaffolding works. By the foregoing, the accused has engaged in conspiracies with Moorthy to corruptly give gratifications to Kolanji as inducement for advancing the business interest of MS Brothers with SPCE and he has thereby committed offences under section 6(b) read with section 29 of the Prevention of Corruption Act, Chapter 241.
 
-8    After November 2014, the accused sold the business of MS Brothers to one Visvalingam Pachamuthu and was therefore no longer involved in the giving of monies to Kolanji.
+> 8    After November 2014, the accused sold the business of MS Brothers to one Visvalingam Pachamuthu and was therefore no longer involved in the giving of monies to Kolanji.
 
-9    Between July and November 2014, the business volume between SPCE and Ms Brothers amounted to $1,033,570.25. During this period, the accused together with Moorthy had given Kolanji a total sum of $20,000.
+> 9    Between July and November 2014, the business volume between SPCE and Ms Brothers amounted to $1,033,570.25. During this period, the accused together with Moorthy had given Kolanji a total sum of $20,000.
 
 ## C.   Antecedents
 
@@ -80,21 +80,154 @@ Three other remaining charges against him, namely similar charges under s 6(b) r
 
 6       It was submitted that it is trite that deterrence and punishment are the main sentencing consideration in corruption cases **(**see _PP v Ang Seng Thor_ <span class="citation">\[2011\] 4 SLR 217</span> at \[33\]). In determining the appropriate sentence, the Prosecution highlighted the following considerations:
 
-a.     The present case falls under the first category of cases enunciated in _PP v Syed Mostofa Romel_ <span class="citation">\[2015\] 3 SLR 1166</span>. The accused paid bribes in order to get the respective receiver to favorably recommend MS Brothers for the jobs.
+> a.     The present case falls under the first category of cases enunciated in _PP v Syed Mostofa Romel_ <span class="citation">\[2015\] 3 SLR 1166</span>. The accused paid bribes in order to get the respective receiver to favorably recommend MS Brothers for the jobs.
 
-b.     There were four aggravating factors:
+> b.     There were four aggravating factors:
 
-i.       The accused’s actions were premeditated: he agreed with Moorthy to give bribes to get business and had signed on the cheque payments in order for the bribes to be given out.
+>> i.       The accused’s actions were premeditated: he agreed with Moorthy to give bribes to get business and had signed on the cheque payments in order for the bribes to be given out.
 
-ii.       The accused, together with Moorthy, had initiated the giving of bribes.
+>> ii.       The accused, together with Moorthy, had initiated the giving of bribes.
 
-iii.       There is a significant degree of persistent offending as the accused gave total of $20,000 bribes over 6 occasions from July to November 2014.
+>> iii.       There is a significant degree of persistent offending as the accused gave total of $20,000 bribes over 6 occasions from July to November 2014.
 
-iv.       There was substantial benefit accruing as the accused’s company stood to gain $1 million in business.
+>> iv.       There was substantial benefit accruing as the accused’s company stood to gain $1 million in business.
 
 7       The Prosecution had tendered a table of sentencing precedents of the following cases:
 
-<table align="left" cellpadding="0" cellspacing="0" class="Judg-2" frame="none" pgwide="1"><colgroup><col width="29.36%"> <col width="70.64%"> </colgroup><tbody><tr><td align="left" class="" colspan="2" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b><em>(a) PP v Ong Seng Wee</em></b> - DAC 921352-2015 and 2 Ors</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Charges</b>:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Pleaded guilty: 2 x s 6(a) PCA.</p><p align="justify" class="Table-Para-1">TIC: 1 x s 6(a) PCA.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Case details</b>:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">The accused, a facility manager of a semiconductor company, solicited and received <b>bribes totalling $20,000</b> in return for assisting the two givers to secure contracts worth about $150,000. He surrendered $12,000 to CPIB in the course of investigations.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Sentence</b>:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">8 weeks’ imprisonment for a charge involving $7,000 and 10 weeks’ imprisonment for a charge involving $10,000.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Global sentence</b>:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">10 weeks’imprisonment.</p></td></tr><tr><td align="left" class="" colspan="2" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">(b)&nbsp;&nbsp;&nbsp;&nbsp; <b><em>PP v Koh Kian Wee</em></b> - DAC-937866-2015 &amp; 49 Ors</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Charges:</b></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Pleaded guilty: 3 x s 6(a) PCA and 12 x s 6(c) PCA.</p><p align="justify" class="Table-Para-1">TIC: 8 x s 6(a) PCA and 27 x s 6(c) PCA.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Case details:</b></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">The accused, a sales manager, <b>accepted bribes</b> from a vendor in exchange for awarding contracts to the vendor company. He accepted a total of $37,100 in the span of about 14 months. In respect of the section 6(c) charges, he used the vendor’s soft copy quotation template to quote for jobs under the guise of the vendor company. Once the job was awarded, he would perform the works himself and pocket the payments. He acted in cahoots with the vendor, who would prepare documents on his end in order to deceive the accused’s principal.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Sentence:</b></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">6, 8 and 10 weeks’ imprisonment for s 6(a) charges (bribe amounts between $4,700 to $9,480).</p><p align="justify" class="Table-Para-1">2 weeks’ imprisonment for each s 6(c) charge.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Global sentence</b>:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">18 weeks’ imprisonment as 2 sentences (8 &amp; 10 weeks) to run consecutively.</p></td></tr><tr><td align="left" class="" colspan="2" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">(c)&nbsp;&nbsp;&nbsp;&nbsp; <b><em>PP v Geow Chwee Hiam</em></b> - MA 19/2016; <a class="pagecontent" href="javascript:viewPageContent('/Judgment/18957-SSP.xml')">[2016] SGDC 139</a></p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Charges:</b></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Pleaded guilty: 3 x s 6(a) PCA.</p><p align="justify" class="Table-Para-1">TIC: 5 x s6(a) PCA.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Case details:</b></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">The accused (untraced) a Director and Head of Operations of Island Landscape &amp; Nursery Pte Ltd (“Island Landscape”) accepted bribes totalling $143,000 from one Loo Nee Soon, Managing Director of Sinflora (S) Pte Ltd (“Sinflora”) in return for advancing the business interests of Sinflora with Island Landscape. The offender initiated the bribes and the bribes were given over 8 occasions from November 2008 to December 2010. Offender had voluntarily disgorged the monies in full.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Sentence:</b></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">4 months’ imprisonment per charge (amounts of $20,000, $30,000 and $30,000).</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Global sentence</b>:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">8 months’ imprisonment.</p><p align="justify" class="Table-Para-1"><em>Sentence upheld on appeal.</em></p></td></tr></tbody></table>
+>   
+| 
+
+**_(a) PP v Ong Seng Wee_** - DAC 921352-2015 and 2 Ors
+
+ |
+| 
+
+**Charges**:
+
+ | 
+
+Pleaded guilty: 2 x s 6(a) PCA.
+
+TIC: 1 x s 6(a) PCA.
+
+ |
+| 
+
+**Case details**:
+
+ | 
+
+The accused, a facility manager of a semiconductor company, solicited and received **bribes totalling $20,000** in return for assisting the two givers to secure contracts worth about $150,000. He surrendered $12,000 to CPIB in the course of investigations.
+
+ |
+| 
+
+**Sentence**:
+
+ | 
+
+8 weeks’ imprisonment for a charge involving $7,000 and 10 weeks’ imprisonment for a charge involving $10,000.
+
+ |
+| 
+
+**Global sentence**:
+
+ | 
+
+10 weeks’imprisonment.
+
+ |
+| 
+
+(b)     **_PP v Koh Kian Wee_** - DAC-937866-2015 & 49 Ors
+
+ |
+| 
+
+**Charges:**
+
+ | 
+
+Pleaded guilty: 3 x s 6(a) PCA and 12 x s 6(c) PCA.
+
+TIC: 8 x s 6(a) PCA and 27 x s 6(c) PCA.
+
+ |
+| 
+
+**Case details:**
+
+ | 
+
+The accused, a sales manager, **accepted bribes** from a vendor in exchange for awarding contracts to the vendor company. He accepted a total of $37,100 in the span of about 14 months. In respect of the section 6(c) charges, he used the vendor’s soft copy quotation template to quote for jobs under the guise of the vendor company. Once the job was awarded, he would perform the works himself and pocket the payments. He acted in cahoots with the vendor, who would prepare documents on his end in order to deceive the accused’s principal.
+
+ |
+| 
+
+**Sentence:**
+
+ | 
+
+6, 8 and 10 weeks’ imprisonment for s 6(a) charges (bribe amounts between $4,700 to $9,480).
+
+2 weeks’ imprisonment for each s 6(c) charge.
+
+ |
+| 
+
+**Global sentence**:
+
+ | 
+
+18 weeks’ imprisonment as 2 sentences (8 & 10 weeks) to run consecutively.
+
+ |
+| 
+
+(c)     **_PP v Geow Chwee Hiam_** - MA 19/2016; <span class="citation">\[2016\] SGDC 139</span>
+
+ |
+| 
+
+**Charges:**
+
+ | 
+
+Pleaded guilty: 3 x s 6(a) PCA.
+
+TIC: 5 x s6(a) PCA.
+
+ |
+| 
+
+**Case details:**
+
+ | 
+
+The accused (untraced) a Director and Head of Operations of Island Landscape & Nursery Pte Ltd (“Island Landscape”) accepted bribes totalling $143,000 from one Loo Nee Soon, Managing Director of Sinflora (S) Pte Ltd (“Sinflora”) in return for advancing the business interests of Sinflora with Island Landscape. The offender initiated the bribes and the bribes were given over 8 occasions from November 2008 to December 2010. Offender had voluntarily disgorged the monies in full.
+
+ |
+| 
+
+**Sentence:**
+
+ | 
+
+4 months’ imprisonment per charge (amounts of $20,000, $30,000 and $30,000).
+
+ |
+| 
+
+**Global sentence**:
+
+ | 
+
+8 months’ imprisonment.
+
+_Sentence upheld on appeal._
+
+ |
 
   
   
@@ -115,13 +248,13 @@ iv.       There was substantial benefit accruing as the accused’s compa
 
 13     It was submitted that pursuant to the discussion between Moorthy and the accused, it was agreed that: -
 
-13.1.     Moorthy would solely contribute the sum of S$50,000 as share capital of the company;
+> 13.1.     Moorthy would solely contribute the sum of S$50,000 as share capital of the company;
 
-13.2.     Moorthy and the accused would hold equal shares in the company;
+> 13.2.     Moorthy and the accused would hold equal shares in the company;
 
-13.3. Moorthy would “handle from top to bottom” all operations of the company for the first two years. This included all office and administrative matters, accounts, human resource matters as well as all site project matters; and
+> 13.3. Moorthy would “handle from top to bottom” all operations of the company for the first two years. This included all office and administrative matters, accounts, human resource matters as well as all site project matters; and
 
-13.4.     The accused would become the director of the company and receive a monthly salary of S$2,000 per month.
+> 13.4.     The accused would become the director of the company and receive a monthly salary of S$2,000 per month.
 
 14     On 10 June 2013, the accused and Moorthy incorporated MS Brothers Scaffolding & Engineering Pte Ltd (“**MS Brothers**”), with the accused being the sole-director of MS Brothers. It was further submitted that at the material time, the accused was a full-time employee of Sato Kogyo and was resultantly not so involved in the running of MS Brothers.
 
@@ -141,11 +274,11 @@ iv.       There was substantial benefit accruing as the accused’s compa
 
 21     It was submitted that pursuant to this, Moorthy would go to Mala who would prepare the cheque payments. Mala would in turn approach the accused to obtain the necessary signatories for the said cheques. Thereafter, Moorthy would take these cheques, encash them and then pass the monies to Kolanji on the following occasions: -
 
-21.1.     September 2014 – S$4,000 to S$5,000
+> 21.1.     September 2014 – S$4,000 to S$5,000
 
-21.2.     October 2014 – S$4,000 to S$5,000
+> 21.2.     October 2014 – S$4,000 to S$5,000
 
-21.3.     November 2014 – S$4,000 to S$5,000
+> 21.3.     November 2014 – S$4,000 to S$5,000
 
 22     It was further submitted that accordingly, the three (3) cheques amounting to the total sum of $10,000/- to $15,000/- form the subject matter of the Charges.
 
@@ -155,11 +288,11 @@ iv.       There was substantial benefit accruing as the accused’s compa
 
 23     It was submitted that in _Public Prosecutor v Syed Mostofa Romel_ <span class="citation">\[2015\] 3 SLR 1166</span> (“**_Mostofa Romel_**”), the High Court had set out at \[26\] three broad and non-exhaustive categories of private sector corruption:
 
-23.1.     First, where the receiving party is paid to confer on the paying party a benefit that is within the receiving party’s power to confer, without regard to whether the paying party ought properly to have received that benefit. This is typically done at the payer’s behest; (the “**First Category**”);
+> 23.1.     First, where the receiving party is paid to confer on the paying party a benefit that is within the receiving party’s power to confer, without regard to whether the paying party ought properly to have received that benefit. This is typically done at the payer’s behest; (the “**First Category**”);
 
-23.2.     Second, where the receiving party is paid to forbear from performing what he is duty bound to do, thereby conferring a benefit on the paying party. Such benefit typically takes the form of avoiding prejudice which would be occasioned to the paying party if the receiving party discharged his duty as he ought to have. This also is typically done at the payer’s behest; (the “**Second Category**”)
+> 23.2.     Second, where the receiving party is paid to forbear from performing what he is duty bound to do, thereby conferring a benefit on the paying party. Such benefit typically takes the form of avoiding prejudice which would be occasioned to the paying party if the receiving party discharged his duty as he ought to have. This also is typically done at the payer’s behest; (the “**Second Category**”)
 
-23.3.     Third, where a receiving party is paid so that he will forbear from inflicting harm on the paying party, even though there may be no lawful basis for the infliction of such harm. This is typically done at the receiving party’s behest; (the “**Third Category**”)
+> 23.3.     Third, where a receiving party is paid so that he will forbear from inflicting harm on the paying party, even though there may be no lawful basis for the infliction of such harm. This is typically done at the receiving party’s behest; (the “**Third Category**”)
 
 24     It was further submitted that an example of a case falling within the First Category is where the receiving party purchases or favourably recommends the goods or services offered by the paying party (_Mostofa Romel_ at \[27\]). Whether the custodial threshold is crossed depends on the facts (_Mostofa Romel_ at \[27\]). An example of a case falling within the Second Category is where the receiving party, who is under a duty to inspect the paying party’s goods or work, slackens in his inspection or turns a blind eye to any deficiencies in the paying party’s goods or work (_Mostofa Romel_ at \[28\]). These cases frequently attract custodial sentences (_Mostofa Romel_ at \[28\]). It was highlighted that the Third Category generally attracts a custodial sentence due to the receiving party’s heightened culpability in: - (a) seeking out payment from the paying party, whether implicitly or explicitly; and (b) in his threat, if the bribe is not paid, to inflict harm on the paying party when there is no lawful basis for doing so (_Mostofa Romel_ at \[29\]).
 
@@ -169,35 +302,35 @@ iv.       There was substantial benefit accruing as the accused’s compa
 
 26     It was submitted that in _Chua Tiong Tiong v Public Prosecutor_ <span class="citation">\[2001\] 2 SLR(R) 515</span> _(“_**_Chua Tiong Tiong_**_”)_, Yong Pung How CJ expounded at \[21\] that: -
 
-“\[…\] I endorsed the general principle that in most cases, the giver of gratification bears equal culpability as to that of the receiver. Sentences meted out should therefore be similar in terms. \[…\]”
+> “\[…\] I endorsed the general principle that in most cases, the giver of gratification bears equal culpability as to that of the receiver. Sentences meted out should therefore be similar in terms. \[…\]”
 
 It was further submitted that this position was similarly echoed in the case of _Public Prosecutor v Ang Seng Thor_ <span class="citation">\[2011\] SGHC 134</span> _(“_**_Ang Seng Thor_**_”)_, at \[45\] and _Public Prosecutor v Tee Fook Boon Andrew_ <span class="citation">\[2011\] SGHC 192</span> _(“_**_Andrew Tee_**_”)_ at \[20\].
 
 27     It was further submitted the non-exhaustive factors that are relevant in determining the appropriate sentence for an offence under s 6 of the PCA are:
 
-27.1.     whether the offence was committed by a public servant;
+> 27.1.     whether the offence was committed by a public servant;
 
-27.2.     what the value of the gratification was;
+> 27.2.     what the value of the gratification was;
 
-27.3.     whether the offender was in a position of trust;
+> 27.3.     whether the offender was in a position of trust;
 
-27.4.     the number of offences committed;
+> 27.4.     the number of offences committed;
 
-27.5. whether the offence was committed over a lengthy period; and
+> 27.5. whether the offence was committed over a lengthy period; and
 
-27.6.     the seriousness of the consequence of the offender’s acts.
+> 27.6.     the seriousness of the consequence of the offender’s acts.
 
-(see _Practitioners’ Library: Sentencing Practice in the Subordinate Court_ vol 2 (LexisNexis, 3rd Ed, 2013) (“_Sentencing Practice in the Subordinate_ Court”) at pg 1378).
+> (see _Practitioners’ Library: Sentencing Practice in the Subordinate Court_ vol 2 (LexisNexis, 3rd Ed, 2013) (“_Sentencing Practice in the Subordinate_ Court”) at pg 1378).
 
 #### Whether the Custodial Threshold is Crossed
 
 28     It was submitted the following remarks by the High Court in _Mostofa Romel_ at \[20\] are instructive as to whether the custodial threshold is crossed:
 
-“Where private sector agents are concerned, offences which register a lower level of culpability _can_ be dealt with by the imposition of fines. Such cases are _generally_ those where the **amount of gratification is below $30,000** and where there is **no real detriment to the interests of the principal** …” \[emphasis in original in italics; emphasis added in bold and underline\]
+> “Where private sector agents are concerned, offences which register a lower level of culpability _can_ be dealt with by the imposition of fines. Such cases are _generally_ those where the **amount of gratification is below $30,000** and where there is **no real detriment to the interests of the principal** …” \[emphasis in original in italics; emphasis added in bold and underline\]
 
 29     It was highlighted that in _Heng Tze Yong v Public Prosecutor_ <span class="citation">\[2017\] 5 SLR 976</span> (“**_Heng Tze Yong_**”), it was emphasised at \[25\] that the amount of gratification is an important factor:
 
-“The amount of gratification involved remains an important factor in determining the proper sentence for corruption offences. The reasons for regarding this factor as important, which are summarised in the passage above, remained relevant: the amount of gratification still correlates with the harm caused by the bribe and the need to deter the creation of a corrupt business culture at the highest level of commerce. Additionally, there is nothing in _Mostofa Romel_ (\[19\] supra) to suggest that the amount of gratification is no longer an important factor. … ”
+> “The amount of gratification involved remains an important factor in determining the proper sentence for corruption offences. The reasons for regarding this factor as important, which are summarised in the passage above, remained relevant: the amount of gratification still correlates with the harm caused by the bribe and the need to deter the creation of a corrupt business culture at the highest level of commerce. Additionally, there is nothing in _Mostofa Romel_ (\[19\] supra) to suggest that the amount of gratification is no longer an important factor. … ”
 
 30     It was submitted where private sector corruption involves (a) a significant amount of gratification; (b) gratification which is received over a lengthy period of time; or (c) a compromise of one’s duty or a serious betrayal of trust, the starting point is likely to be a custodial sentence (_Mostofa Romel_ at \[23\]).
 
@@ -221,15 +354,15 @@ It was further submitted that this position was similarly echoed in the case of 
 
 38     Lastly, it was highlighted that in the case of _Public Prosecutor v Geow Chwee Hiam_ <span class="citation">\[2016\] SGDC 139</span> (“**_Geow Chwee Hiam_**”), the accused, a director of a public listed company had pleaded guilty to three (3) charges under s 6(a) PCA for corruptly accepting gratification and consented to having five (5) other similar charges taken into consideration. It was submitted that the total quantum involved in the three proceeded charges amounted to $80,000 and that the grand total amount in relation to the corrupt scheme is $143,000. This is vastly higher than the recommended threshold of $30,000 highlighted in _Mostofa Romel_. In addition, it was further submitted that the following aggravating factors present in _Geow Chwee Hiam_ are devoid in the present case: -
 
-38.1     Multiple offences over a significantly long period of two years;
+> 38.1     Multiple offences over a significantly long period of two years;
 
-38.2     Substantial financial gain to the accused;
+> 38.2     Substantial financial gain to the accused;
 
-38.3     Offences were premeditated and steps were taken to conceal them;
+> 38.3     Offences were premeditated and steps were taken to conceal them;
 
-38.4     The accused had initiated the bribe;
+> 38.4     The accused had initiated the bribe;
 
-38.5     The bribe amounts were substantial ranging between $10,000 to $30,000.
+> 38.5     The bribe amounts were substantial ranging between $10,000 to $30,000.
 
 ## A fine is appropriate in light of the mitigating factors
 
@@ -249,7 +382,7 @@ It was further submitted that this position was similarly echoed in the case of 
 
 46     It was submitted that this was the accused’s first brush with the law. He was remorseful for his actions and had elected to plead guilty to the proceeded charge at an early stage. It was highlighted in _Angliss Singapore Pte Ltd v Public Prosecutor_ \[2006\] 4 SLR (R) 653 at \[77\], then Honourable Justice VK Rajah held that:
 
-“A plea of guilt can be taken into consideration when it is motivated by genuine remorse, contriteness or regret and/or a desire to facilitate the administration of justice.”
+> “A plea of guilt can be taken into consideration when it is motivated by genuine remorse, contriteness or regret and/or a desire to facilitate the administration of justice.”
 
 47     It was further submitted that his plea of guilt was motivated by genuine remorse and contrition. He had, to the best of his ability, provided his full cooperation to CPIB throughout the course of their investigations. Through this incident, he had learnt his lesson and vows to stay on the straight and narrow hereon forth. Therefore, it was submitted that significant mitigating weight should be accorded to his decision to plead guilty to the proceeded charge.
 
@@ -257,19 +390,19 @@ It was further submitted that this position was similarly echoed in the case of 
 
 48     It was submitted that in determining the appropriate quantum of fine to be imposed, the case of _Heng Tze Yong_ expounded at \[46\] – \[47\] that: -
 
-“\[46\] As I viewed it, the Appellant’s culpability was broadly similar to that of Thor, bearing in mind the following similarities:
+> “\[46\] As I viewed it, the Appellant’s culpability was broadly similar to that of Thor, bearing in mind the following similarities:
 
-(a)    The total amount of gratification was S$10,000 (though it should be noted that the amount involved in the proceeded charge was only S$7,000)
+>> (a)    The total amount of gratification was S$10,000 (though it should be noted that the amount involved in the proceeded charge was only S$7,000)
 
-(b)    The bribes were paid to the same recipient, ie, Ben Ong;
+>> (b)    The bribes were paid to the same recipient, ie, Ben Ong;
 
-(c)    No detriment was suffered by the principal, ie, Micron was the principal in both cases; and
+>> (c)    No detriment was suffered by the principal, ie, Micron was the principal in both cases; and
 
-(d)    The offenders in both cases held senior positions in their respective companies, ie, ANM and Infinity
+>> (d)    The offenders in both cases held senior positions in their respective companies, ie, ANM and Infinity
 
-\[47\]  There were some differences between the two cases. For example, the Appellant had committed two offences (compared to Thor’s single offence), while Thor had initiated his offence and the Appellant had not.
+> \[47\]  There were some differences between the two cases. For example, the Appellant had committed two offences (compared to Thor’s single offence), while Thor had initiated his offence and the Appellant had not.
 
-On the whole, in my judgement, both the Appellant and Thor were of similar culpability. Accordingly, it was appropriate to impose on the Appellant the same fine of S$35,000 that was imposed on Thor.
+> On the whole, in my judgement, both the Appellant and Thor were of similar culpability. Accordingly, it was appropriate to impose on the Appellant the same fine of S$35,000 that was imposed on Thor.
 
 49     It was further submitted that a fine not exceeding S$40,000 would be appropriate in light of the mitigating factors. First, the amount of gratification in respect of the proceeded charge is ‘$11,000 to $15,000’, which is significantly lower than the quantum of $30,000 highlighted in _Mostofa Romel_. This correlates with a lower level of culpability. Second, there was no evidence to suggest that the principal had suffered real detriment (see \[47\] and \[48\] above). Third, it is undisputed that the accused did not benefit personally from the corrupt scheme. Last but not least, the accused had elected to plead guilty at an early stage. In the circumstances, a fine similar in quantum to that imposed in _Heng Tze Yong_ would be appropriate. His Counsel urged the Court to impose a global fine not exceeding S$40,000 in respect of the present case. He orally submitted that for the proceeded charges the amount of gratification sums up to “$20,000”. Even if the charges that were taken into consideration were taken into account, it amounts to “$25,000” which was still below the threshold in _Heng Tze Yong._
 
@@ -309,13 +442,13 @@ On the whole, in my judgement, both the Appellant and Thor were of similar culpa
 
 62     In the present case, I agreed with the Prosecution that the custodial threshold had been crossed in view of the aggravating factors namely:
 
-i.     The accused’s actions were premeditated as he had agreed with Moorthy to give bribes to get business and had signed on the cheque payments in order for the bribes to be given out.
+> i.     The accused’s actions were premeditated as he had agreed with Moorthy to give bribes to get business and had signed on the cheque payments in order for the bribes to be given out.
 
-ii.     The accused, together with Moorthy, had initiated the giving of bribes.
+> ii.     The accused, together with Moorthy, had initiated the giving of bribes.
 
-iii.     There was a significant degree of persistent offending as the accused gave total of $20,000 bribes on 6 occasions over a period of 5 months i.e. from July 2014 to November 2014.
+> iii.     There was a significant degree of persistent offending as the accused gave total of $20,000 bribes on 6 occasions over a period of 5 months i.e. from July 2014 to November 2014.
 
-iv.     There was substantial benefit accruing as the accused’s company stood to gain $1 million in business.
+> iv.     There was substantial benefit accruing as the accused’s company stood to gain $1 million in business.
 
 63     I disagreed with Counsel’s assertion that the accused had merely acquiesced to Moorthy’s suggestion to bribe Kolanji. I did not accept Counsel’s submissions that the accused only played a peripheral role in signing the cheques and did not play an active role in the scheme of things. Instead, I agreed with the Prosecution that as the accused was the sole director of the company at the material time as well as the sole signatory for the cheques, without his cooperation these offences could not have been committed. In my mind the accused played an active role in the conspiracy with Moorthy to corruptly influence the site manager of Singapore Piling & Civil Engineering Pte Ltd who was in a position to recommend the accused’s company for the scaffolding works.
 

@@ -31,15 +31,15 @@
 
 **Lim’s Charge**
 
-You…are charged that you, some time on or before 30 April 2016, in Singapore, did abet by engaging in a conspiracy with Ong Hock Chye, Lim De Mai Ron, Nur Muhammad Irwan Bin Mohd Ngat (“Irwan”), Mohammad Amin Bin Aman, and Nur Atika Fuziana Binte Sherhan, to do a certain thing, namely, to voluntarily cause grievous hurt to one Joshua Koh Kian Yong (“Joshua”) by means of an instrument for stabbing or cutting, and in pursuance of that conspiracy and in order to the doing of that thing, an act took place, on 30 April 2016 at or about 1.07 a.m. in the vicinity of 9 Townshend Road, Singapore, to wit, Irwan did use a pen-knife, being an instrument used for stabbing or cutting, to slash Joshua on his face, resulting in lacerations and the permanent disfiguration of Joshua’s face, which act was committed in consequence of your abetment, and you have thereby committed an offence punishable under section 326 read with section 109 of the Penal Code (Cap 224, 2008 Rev Ed).
+> You…are charged that you, some time on or before 30 April 2016, in Singapore, did abet by engaging in a conspiracy with Ong Hock Chye, Lim De Mai Ron, Nur Muhammad Irwan Bin Mohd Ngat (“Irwan”), Mohammad Amin Bin Aman, and Nur Atika Fuziana Binte Sherhan, to do a certain thing, namely, to voluntarily cause grievous hurt to one Joshua Koh Kian Yong (“Joshua”) by means of an instrument for stabbing or cutting, and in pursuance of that conspiracy and in order to the doing of that thing, an act took place, on 30 April 2016 at or about 1.07 a.m. in the vicinity of 9 Townshend Road, Singapore, to wit, Irwan did use a pen-knife, being an instrument used for stabbing or cutting, to slash Joshua on his face, resulting in lacerations and the permanent disfiguration of Joshua’s face, which act was committed in consequence of your abetment, and you have thereby committed an offence punishable under section 326 read with section 109 of the Penal Code (Cap 224, 2008 Rev Ed).
 
 6       As for Ong, because he was subject to a police supervision order at the time of the offence, he was therefore liable to enhanced punishment under the Criminal Law (Temporary Provisions) Act. His charge reads as follows:
 
 **Ong’s Charge**
 
-You…are charged that you, some time on or before 30 April 2016, in Singapore, did abet by engaging in a conspiracy with Lim Hong Liang, Lim De Mai Ron, Mohammad Amin Bin Aman, Nur Muhammad Irwan Bin Mohd Ngat (“Irwan”), and Nur Atika Fuziana Binte Sherhan, to do a certain thing, namely, to voluntarily cause grievous hurt to one Joshua Koh Kian Yong (“Joshua”) by means of an instrument for stabbing or cutting, and in pursuance of that conspiracy and in order to the doing of that thing, an act took place, on 30 April 2016 at or about 1.07 a.m. in the vicinity of 9 Townshend Road, Singapore, to wit, Irwan did use a pen-knife, being an instrument used for stabbing or cutting, to slash Joshua on his face, resulting in lacerations and the permanent disfiguration of Joshua’s face, which act was committed in consequence of your abetment, and you have thereby committed an offence punishable under section 326 read with section 109 of the Penal Code (Cap 224, 2008 Rev Ed);
+> You…are charged that you, some time on or before 30 April 2016, in Singapore, did abet by engaging in a conspiracy with Lim Hong Liang, Lim De Mai Ron, Mohammad Amin Bin Aman, Nur Muhammad Irwan Bin Mohd Ngat (“Irwan”), and Nur Atika Fuziana Binte Sherhan, to do a certain thing, namely, to voluntarily cause grievous hurt to one Joshua Koh Kian Yong (“Joshua”) by means of an instrument for stabbing or cutting, and in pursuance of that conspiracy and in order to the doing of that thing, an act took place, on 30 April 2016 at or about 1.07 a.m. in the vicinity of 9 Townshend Road, Singapore, to wit, Irwan did use a pen-knife, being an instrument used for stabbing or cutting, to slash Joshua on his face, resulting in lacerations and the permanent disfiguration of Joshua’s face, which act was committed in consequence of your abetment, and you have thereby committed an offence punishable under section 326 read with section 109 of the Penal Code (Cap 224, 2008 Rev Ed);
 
-and further that you, at the time of the commission of the said offence, which is a scheduled offence under the Third Schedule to the Criminal Law (Temporary Provisions) Act (Cap 67, 2000 Rev Ed), were a person subject to supervision under the said Act by virtue of an Order made by the Minister on the 1 April 2016 and which Order has not been revoked, and you are thereby liable to enhanced punishment under section 35 of the said Act.
+> and further that you, at the time of the commission of the said offence, which is a scheduled offence under the Third Schedule to the Criminal Law (Temporary Provisions) Act (Cap 67, 2000 Rev Ed), were a person subject to supervision under the said Act by virtue of an Order made by the Minister on the 1 April 2016 and which Order has not been revoked, and you are thereby liable to enhanced punishment under section 35 of the said Act.
 
 ## The Prosecution’s Case
 
@@ -63,7 +63,34 @@ and further that you, at the time of the commission of the said offence, which i
 
 14     It is the prosecution’s case that Lim had ordered Ron to beat up the victim. Audrey received three voice messages from Lim that evening after the attack. The messages (in Mandarin) from Lim were admitted in evidence as follows to show that Lim knew about the victim and was behind the revenge beating:
 
-<table align="left" cellpadding="0" cellspacing="0" class="Judg-2" frame="none" pgwide="1"><colgroup><col width="24.04%"> <col width="75.96%"> </colgroup><tbody><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">11:31pm:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">All thanks to Summer [a friend of Audrey]. I have to thank Summer. She told me that you brought ‘Joshua’ back home to sleep. I don’t know about it. Your good friend told me.<span class="FootnoteRef"><a href="#Ftn_14" id="Ftn_14_1"><sup>[note: 14]</sup></a></span></p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">11:43pm:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">What you did, was it right or wrong? You bring a man back to sleep when I go overseas. What you did was it right or wrong? I provided you and everything. You want money, I provided you with money. I even protect 300K for you to open a coffee shop.<span class="FootnoteRef"><a href="#Ftn_15" id="Ftn_15_1"><sup>[note: 15]</sup></a></span></p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">11:44pm:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Please do some reflection. From the way I treat you, I accommodate to all your demands. What you did was right or wrong?<span class="FootnoteRef"><a href="#Ftn_16" id="Ftn_16_1"><sup>[note: 16]</sup></a></span></p></td></tr></tbody></table>
+>   
+| 
+
+11:31pm:
+
+ | 
+
+All thanks to Summer \[a friend of Audrey\]. I have to thank Summer. She told me that you brought ‘Joshua’ back home to sleep. I don’t know about it. Your good friend told me.[^14]
+
+ |
+| 
+
+11:43pm:
+
+ | 
+
+What you did, was it right or wrong? You bring a man back to sleep when I go overseas. What you did was it right or wrong? I provided you and everything. You want money, I provided you with money. I even protect 300K for you to open a coffee shop.[^15]
+
+ |
+| 
+
+11:44pm:
+
+ | 
+
+Please do some reflection. From the way I treat you, I accommodate to all your demands. What you did was right or wrong?[^16]
+
+ |
 
   
   
@@ -86,17 +113,17 @@ and further that you, at the time of the commission of the said offence, which i
 
 21     It is not disputed that the victim sustained the following injuries[^26]:
 
-i.     Laceration measuring 2cm over the left upper lip;
+> i.     Laceration measuring 2cm over the left upper lip;
 
-ii.     Laceration measuring 5cm over the right lower lip;
+> ii.     Laceration measuring 5cm over the right lower lip;
 
-iii.     Laceration over the right tricep area;
+> iii.     Laceration over the right tricep area;
 
-iv.     Bruise measuring about 3cm over the left face;
+> iv.     Bruise measuring about 3cm over the left face;
 
-v.     Bruise measuring about 5cm over the back of the head; and
+> v.     Bruise measuring about 5cm over the back of the head; and
 
-vi.     Tenderness over the upper neck region.
+> vi.     Tenderness over the upper neck region.
 
 22     The doctor who had examined the victim at the hospital, (PW9) Dr Lee Chee Sean, testified that the lacerations on the left upper lip and right lower lip could have been caused from a “_single slash_.”[^27]
 
@@ -114,13 +141,13 @@ vi.     Tenderness over the upper neck region.
 
 28     The hired thugs were:
 
-(i)     Irwan;[^33]
+> (i)     Irwan;[^33]
 
-(ii)     (PW11) Nur Atika Fuziana Binte Sherhan (“Atika”) – Irwan’s girlfriend;[^34]
+> (ii)     (PW11) Nur Atika Fuziana Binte Sherhan (“Atika”) – Irwan’s girlfriend;[^34]
 
-(iii)     (PW13) Juhari Bin Ab Karim (“Juhari”) – Irwan’s friend;[^35] and
+> (iii)     (PW13) Juhari Bin Ab Karim (“Juhari”) – Irwan’s friend;[^35] and
 
-(iv)     Amin.[^36]
+> (iv)     Amin.[^36]
 
 29     The hired thugs (except Juhari) met Ong and Ron on 27 April 2016 at a coffee-shop in Toa Payoh. The discussion was mainly between Ong, Amin and Irwan. It is not in dispute that Atika had only a minor role and that Juhari was only subsequently recruited by Irwan. Ong explained to Amin and Irwan that the job was to slash the victim’s face. Ron provided them with the victim’s photograph. Atika was given the GPS username and password to track Audrey’s car. The thugs would be paid $5000 for the job. A “downpayment” was given with the balance to be paid after the job.[^37] The thugs were told that the victim needed to be taught a lesson because he had cheated a girl. After the meeting, Irwan told Atika that Ong said _“there was some issue with a Chinese guy”_ and that he was _“gonna leave a mark on that Chinese guy’s face”_.[^38] Amin’s recollection was that Ong’s instruction to them was to _“punch the guy”_, _“teach the guy a lesson”_, and to _“leave a mark on the face”._[^39]
 
@@ -156,41 +183,41 @@ vi.     Tenderness over the upper neck region.
 
 40     First of all, there are three types of abetment i.e. abetment by (a) instigation; (b) conspiracy; and (c) aiding. The present charge concerns the second type of abetment (by conspiracy) which is defined in s 107(b) of the Penal Code as follows:
 
-107.  A person abets the doing of a thing who –
+> 107.  A person abets the doing of a thing who –
 
-(a)    \[Instigation\]
+>> (a)    \[Instigation\]
 
-(b)    engages with one or more other person or persons in any conspiracy for the doing of that thing, if an act or illegal omission takes place in pursuance of that conspiracy, and in order to the doing of that thing;
+>> (b)    engages with one or more other person or persons in any conspiracy for the doing of that thing, if an act or illegal omission takes place in pursuance of that conspiracy, and in order to the doing of that thing;
 
-(c)    \[Aiding\].
+>> (c)    \[Aiding\].
 
 41     The elements for a charge which alleges an abetment by way of conspiracy are laid down in _Chai Chien Wei Kelvin v PP_ <span class="citation">\[1998\] 3 SLR(R) 619</span> at \[76\]:
 
-The essential elements of abetment by conspiracy are: first, the person abetting must engage with one or more other persons in a conspiracy; second, the conspiracy must be for the doing of the thing abetted; and third, an act or illegal omission must take place in pursuance of the conspiracy in order to the doing of that thing.
+> The essential elements of abetment by conspiracy are: first, the person abetting must engage with one or more other persons in a conspiracy; second, the conspiracy must be for the doing of the thing abetted; and third, an act or illegal omission must take place in pursuance of the conspiracy in order to the doing of that thing.
 
 42     Explanation 5 to s 108 of the Penal Code and the accompanying illustration also make it clear that it is not necessary for the abettor to have agreed or arranged directly with all the other conspirators or even the person who commits the offence:
 
-_Explanation 5_ – It is not necessary to the commission of the offence of abetment by conspiracy that the abettor should concert the offence with the person who commits it. It is sufficient if he engages in the conspiracy in pursuance of which the offence is committed.
+> _Explanation 5_ – It is not necessary to the commission of the offence of abetment by conspiracy that the abettor should concert the offence with the person who commits it. It is sufficient if he engages in the conspiracy in pursuance of which the offence is committed.
 
 _Illustration_
 
-_A_ concerts with _B_ a plan for poisoning _Z_. It is agreed that _A_ shall administer the poison. _B_ then explains the plan to _C_, mentioning that a third person is to administer the poison, but without mentioning _A_’s name. _C_ agrees to procure the poison, and procures and delivers it to _B_ for the purpose of its being used in the manner explained. _A_ administers the poison; _Z_ dies in consequence. Here, though _A_ and _C_ have not conspired together, yet _C_ has been engaged in the conspiracy in pursuance of which _Z_ has been murdered. _C_ has therefore committed the offence defined in this section, and is liable to the punishment for murder.
+> _A_ concerts with _B_ a plan for poisoning _Z_. It is agreed that _A_ shall administer the poison. _B_ then explains the plan to _C_, mentioning that a third person is to administer the poison, but without mentioning _A_’s name. _C_ agrees to procure the poison, and procures and delivers it to _B_ for the purpose of its being used in the manner explained. _A_ administers the poison; _Z_ dies in consequence. Here, though _A_ and _C_ have not conspired together, yet _C_ has been engaged in the conspiracy in pursuance of which _Z_ has been murdered. _C_ has therefore committed the offence defined in this section, and is liable to the punishment for murder.
 
 43     While there must be knowledge of a common design and the unlawful objective of the conspiracy, not every conspirator needs to be equally informed as to every detail of the conspiracy. It was held in _Nomura Taiji v Public Prosecutor_ <span class="citation">\[1998\] 1 SLR(R) 259</span> at \[110\] that:
 
-Thus, in essence, although there must be knowledge of a common design, it is not necessary that all the co-conspirators should be equally informed as to the details. However, they must at least be aware of the general purpose of the plot and that plot must be unlawful. The test of guilt is not what was the object of the accused, but whether having regard to the immediate object of the instigation or conspiracy, the act done by the principal is one which according to ordinary experience and common sense, the abettor must have seen as foreseeable – see _The Penal Law of India_ by Sir Hari Singh Gour at p 945.
+> Thus, in essence, although there must be knowledge of a common design, it is not necessary that all the co-conspirators should be equally informed as to the details. However, they must at least be aware of the general purpose of the plot and that plot must be unlawful. The test of guilt is not what was the object of the accused, but whether having regard to the immediate object of the instigation or conspiracy, the act done by the principal is one which according to ordinary experience and common sense, the abettor must have seen as foreseeable – see _The Penal Law of India_ by Sir Hari Singh Gour at p 945.
 
 See also the holding of then Yong Pung How CJ in _Er Joo Nguang and Another v PP_ <span class="citation">\[2000\] SGHC 60</span> at \[34\].
 
 44     It was also held in _PP v Yeo Choon Poh_ <span class="citation">\[1993\] 3 SLR(R) 302</span> at \[20\] that an agreement between parties may be inferred from the words and actions of the parties:
 
-One method of proving a conspiracy would be to show that the words and actions of the parties indicate their concert in the pursuit of a common object or design, giving rise to the inference that their actions must have been coordinated by arrangement beforehand. These actions and words do not of themselves constitute the conspiracy but rather constitute evidence of the conspiracy.
+> One method of proving a conspiracy would be to show that the words and actions of the parties indicate their concert in the pursuit of a common object or design, giving rise to the inference that their actions must have been coordinated by arrangement beforehand. These actions and words do not of themselves constitute the conspiracy but rather constitute evidence of the conspiracy.
 
 45     Finally, s 111 of the Penal Code also stipulates that an abettor may be liable for abetting an act even when a different act is done:
 
-When an act is abetted and a different act is done, the abettor is liable for the act done, in the same manner, and to the same extent, as if he had directly abetted it:
+> When an act is abetted and a different act is done, the abettor is liable for the act done, in the same manner, and to the same extent, as if he had directly abetted it:
 
-Provided the act done was a probable consequence of the abetment, and was committed…in pursuance of the conspiracy which constituted the abetment.
+> Provided the act done was a probable consequence of the abetment, and was committed…in pursuance of the conspiracy which constituted the abetment.
 
 ### Ong is guilty of the charge
 
@@ -220,31 +247,31 @@ Provided the act done was a probable consequence of the abetment, and was commit
 
 55     I accept Ron’s evidence which implicated Lim as being the mastermind of the conspiracy leading to the slashing of the victim on 30 April 2016. Ron also implicated Lim in respect of the revenge beating at the apartment on 8 April 2016. I also found that his evidence is largely consistent with the following statements that he gave to the police[^58]:
 
-(i)     P20 was recorded on 3 January 2018 and relates to both the revenge beating and slashing incidents; and
+> (i)     P20 was recorded on 3 January 2018 and relates to both the revenge beating and slashing incidents; and
 
-(ii)     P21 and P22 are identical to P20 and were recorded on 17 April and 19 April 2018, after Ron had pleaded guilty and sentenced.
+> (ii)     P21 and P22 are identical to P20 and were recorded on 17 April and 19 April 2018, after Ron had pleaded guilty and sentenced.
 
 56     I agree with the prosecution’s submission[^59] and I accept Ron’s testimony as to the following material facts:
 
-a.     That Lim instructed Ron to use the GPS account for Audrey’s car and paid him to follow her to report her whereabouts to Lim[^60];
+> a.     That Lim instructed Ron to use the GPS account for Audrey’s car and paid him to follow her to report her whereabouts to Lim[^60];
 
-b.     That Lim instructed Ron to beat up the victim at his apartment and also to remove the valuables from his safe[^61];
+> b.     That Lim instructed Ron to beat up the victim at his apartment and also to remove the valuables from his safe[^61];
 
-c.     That Lim asked Ron not to implicate him to the police in respect of the revenge beating[^62];
+> c.     That Lim asked Ron not to implicate him to the police in respect of the revenge beating[^62];
 
-d.     That Lim then asked Ron to find someone to break the victim’s arms and legs because he was still seeing Audrey;[^63]
+> d.     That Lim then asked Ron to find someone to break the victim’s arms and legs because he was still seeing Audrey;[^63]
 
-e.     That Ong offered to help Lim[^64];
+> e.     That Ong offered to help Lim[^64];
 
-f.     That Lim paid Ong (through Ron) a down-payment[^65];
+> f.     That Lim paid Ong (through Ron) a down-payment[^65];
 
-g.     That Ong suggested to Ron that instead of breaking the victim’s arms and legs, they should leave a lasting impact by cutting the victim’s face with a penknife, and that Lim agreed when Ron relayed this suggestion to Lim[^66];
+> g.     That Ong suggested to Ron that instead of breaking the victim’s arms and legs, they should leave a lasting impact by cutting the victim’s face with a penknife, and that Lim agreed when Ron relayed this suggestion to Lim[^66];
 
-h.     That Lim gave Ong (through Ron) the balance payment for the job and also provided a photograph of the victim for identification as well as the access codes to the GPS in Audrey’s car[^67];
+> h.     That Lim gave Ong (through Ron) the balance payment for the job and also provided a photograph of the victim for identification as well as the access codes to the GPS in Audrey’s car[^67];
 
-i.     Tat after the job, Ron informed Lim that the job was done[^68]; and
+> i.     Tat after the job, Ron informed Lim that the job was done[^68]; and
 
-j.     That when Ron was called up for investigations, Lim promised to pay Ron a sum of money every month if Ron did not implicate Lim[^69].
+> j.     That when Ron was called up for investigations, Lim promised to pay Ron a sum of money every month if Ron did not implicate Lim[^69].
 
 57     The defence does not disagree that Ron’s evidence in court is consistent with his statements in P20-22.[^70] However, the defence takes issue with the prosecution’s reliance on these statements in their submission. To be clear, I made a finding on the above enumerated material facts based on Ron’s testimony in court and not in reliance on his statements in P20-22. However, I considered that his testimony is consistent with these statements.
 
@@ -254,11 +281,11 @@ j.     That when Ron was called up for investigations, Lim promised to pay 
 
 60     Counsel for the defence confronted Ron with the following statements that Ron gave which were inconsistent with his testimony and his statements in P20-22:
 
-(i)     D1 was recorded on 9 April 2016 and relates only to the revenge beating on 8 April 2016 at the apartment;
+> (i)     D1 was recorded on 9 April 2016 and relates only to the revenge beating on 8 April 2016 at the apartment;
 
-(ii)     D2-D5 were recorded between 5-13 May 2016 in respect of the revenge slashing on 30 April 2016;
+> (ii)     D2-D5 were recorded between 5-13 May 2016 in respect of the revenge slashing on 30 April 2016;
 
-(iii)     D6 is a cautioned statement recorded on 8 May 2016;
+> (iii)     D6 is a cautioned statement recorded on 8 May 2016;
 
 61     However, I found that these apparent inconsistencies must be seen and understood in the circumstances when Ron gave these statements and that they do not detract from his testimony in court. For example, in D1 where Ron recounts the events of the revenge beating at the apartment, he did not implicate Lim as the person who had instructed him to beat up the victim but claimed, instead to have gotten into a fight with the victim. However, I accept Ron’s explanation in court that he did not implicate Lim only because Lim asked him not to tell the police and also promised to pay Ron $2000 for keeping quiet.[^72] I accept and found that Ron owed some form of allegiance to Lim being both related to and employed by Lim and was therefore agreeable to not to get him involved, irrespective of whether Lim would reward him more for his reticence. Ultimately, there can be no doubt that Ron had beaten the victim to a pulp and that he had gone to the apartment on the instructions of Lim to do his bidding.
 
@@ -274,13 +301,13 @@ j.     That when Ron was called up for investigations, Lim promised to pay 
 
 67     Notwithstanding the inconsistencies pointed out by the defence in D2-D6 when compared to P20-P22, I agree with prosecution’s submission[^77] that Ron did incriminate Lim in the conspiracy. Taken as a whole, there can be no doubt that Ron was acting on the instructions of Lim to pay Ong and the thugs for the job, as may be seen from the following references in the statements:
 
-a.     D2 at \[5\] – “I believed it was my uncle \[Lim\] who instructed “Chai” \[Ong\] to beat Joshua \[victim\] up.”
+> a.     D2 at \[5\] – “I believed it was my uncle \[Lim\] who instructed “Chai” \[Ong\] to beat Joshua \[victim\] up.”
 
-b.     D3 at \[7\] – “About 3 days after “Chai” made contact with my uncle, my uncle called me on the phone at about 10am, and called me to go to his house to receive an envelope which contained money and other items, which I did not know what it was, to pass to “Chai”. My uncle also instructed me to hand over the GPS account to “Chai”.”
+> b.     D3 at \[7\] – “About 3 days after “Chai” made contact with my uncle, my uncle called me on the phone at about 10am, and called me to go to his house to receive an envelope which contained money and other items, which I did not know what it was, to pass to “Chai”. My uncle also instructed me to hand over the GPS account to “Chai”.”
 
-c.     D4 at \[8\] – “At that time, my uncle called me to ask for Audrey’s location and I told him. Subsequently, “Chai” knew that the caller was my uncle and he asked for my phone to talk to my uncle. “Chai” then started to tell my uncle that my uncle need not to instruct me to do things and “Chai” can settle things for my uncle in return for money.”
+> c.     D4 at \[8\] – “At that time, my uncle called me to ask for Audrey’s location and I told him. Subsequently, “Chai” knew that the caller was my uncle and he asked for my phone to talk to my uncle. “Chai” then started to tell my uncle that my uncle need not to instruct me to do things and “Chai” can settle things for my uncle in return for money.”
 
-d.     D6 (cautioned statement) – “It’s my uncle Lim Hong Liang, create such things out.”
+> d.     D6 (cautioned statement) – “It’s my uncle Lim Hong Liang, create such things out.”
 
 #### Lim agreed to slashing the victim’s face
 
@@ -296,7 +323,7 @@ d.     D6 (cautioned statement) – “It’s my uncle Lim Hong Liang, crea
 
 73     For the sake of argument, even if it is accepted that Lim only wanted to break the victim’s limbs and the act that was eventually abetted was a completely different one of slashing the victim’s face, Lim would nonetheless be guilty, at the very least, of abetting Ong and the rest to cause grievous hurt to the victim by breaking his limbs.[^82] Counsel for the defence acknowledged this possibility when he addressed the court on sentencing[^83]:
 
-Now, as a matter of law, if a particular act is conspired to and another act results from that, it can still be---you can still find the accused person guilty. I concede that.
+> Now, as a matter of law, if a particular act is conspired to and another act results from that, it can still be---you can still find the accused person guilty. I concede that.
 
 ### Miscellaneous issues
 
@@ -330,9 +357,9 @@ Now, as a matter of law, if a particular act is conspired to and another act res
 
 84     The prosecution sought the following sentences against the two accused[^91]:
 
-(a)     For Lim – 7 years’ imprisonment, and an additional 3 months’ imprisonment in lieu of 6 strokes of the cane;
+> (a)     For Lim – 7 years’ imprisonment, and an additional 3 months’ imprisonment in lieu of 6 strokes of the cane;
 
-(b)     For Ong – 6 years’ imprisonment and 6 strokes of the cane.
+> (b)     For Ong – 6 years’ imprisonment and 6 strokes of the cane.
 
 85     Counsel for Lim asked for “as light a sentence, as is legally possible.”[^92] Counsel did not submit for any specific length of sentence but he cited the case of _PP v Sumanthiran s/o Selvarajoo_ <span class="citation">\[2017\] 3 SLR 879</span> (“_Sumanthiran_”) for the court’s reference. In that case, the accused was sentenced to 3 years’ imprisonment and 4 strokes of the cane for a similar offence under s 326 of the Penal Code. However, the accused in _Sumanthiran_ was convicted not only of a s326 charge but also other charges including a s 304(a) Penal Code charge. I was of the view that _Sumanthiran_ does not assist the defence in its submission for a light sentence because (i) the accused in that case was only 18 years old and with a mental disorder which meant that the sentencing principle of rehabilitation would have been more relevant in that case, and (ii) the High Court at \[83\] made it very clear that its main focus in sentencing was the s 304(a) charge as that was the most serious charge.
 
@@ -377,9 +404,9 @@ Now, as a matter of law, if a particular act is conspired to and another act res
 
 99     Having weighed and balanced the accused persons’ mitigation plea against all the sentencing factors above, I sentenced them as follows:
 
-(i)     Lim was sentenced to 6 years’ imprisonment. No caning was imposed because he was 55 years old; and
+> (i)     Lim was sentenced to 6 years’ imprisonment. No caning was imposed because he was 55 years old; and
 
-(ii)     Ong was sentenced to 5½ years’ imprisonment and 6 strokes of the cane.
+> (ii)     Ong was sentenced to 5½ years’ imprisonment and 6 strokes of the cane.
 
 100    In conclusion, I was of the view that the sentences imposed on the two accused were necessarily deterrent and retributive, and also entirely justified, appropriate and proportionate to their respective culpability and role.
 

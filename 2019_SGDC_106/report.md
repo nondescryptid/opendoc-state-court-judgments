@@ -15,9 +15,9 @@
 
 2       As a result, the accused and a number of other security staff were charged for rioting under s.147 of the Penal Code. The accused eventually pleaded guilty to the following charge:
 
-DAC 934698 of 2018
+> DAC 934698 of 2018
 
-You, on 20 May 2018, between 2.26am to 3.00am at St James Power Station Club Hollywood, located at No.3 Sentosa Gateway Singapore, together with Muhammad Shahreen Azril Bin Rosli, Mohammad Irfan Bin Raman, Iszman Bin Sulaiman, Yit Hong You Jeffrey, Mohd Azrin bin Hussain, Frank Lui and Tay Boon Huat were members of an unlawful assembly whose common object was to cause hurt to Tan Song Chew, Tay Shao Bin Joshua and Tay Shao Qiang David, and in the prosecution of the common object of the assembly, the members of the unlawful assembly used violence by punching and kicking the said Tan Song Chew, Tay Shao Bin Joshua and Tay Shao Qiang David, and you have thereby committed an offence punishable under Section 147 of the Penal Code, Chapter 224.
+> You, on 20 May 2018, between 2.26am to 3.00am at St James Power Station Club Hollywood, located at No.3 Sentosa Gateway Singapore, together with Muhammad Shahreen Azril Bin Rosli, Mohammad Irfan Bin Raman, Iszman Bin Sulaiman, Yit Hong You Jeffrey, Mohd Azrin bin Hussain, Frank Lui and Tay Boon Huat were members of an unlawful assembly whose common object was to cause hurt to Tan Song Chew, Tay Shao Bin Joshua and Tay Shao Qiang David, and in the prosecution of the common object of the assembly, the members of the unlawful assembly used violence by punching and kicking the said Tan Song Chew, Tay Shao Bin Joshua and Tay Shao Qiang David, and you have thereby committed an offence punishable under Section 147 of the Penal Code, Chapter 224.
 
 3       After considering the pre-sentence reports and the submissions of the prosecution and the defence, I sentenced the accused to reformative training with a minimum period of detention of 6 months. As the accused has appealed against the sentence imposed, I will now set out the reasons for my decision.
 
@@ -29,11 +29,11 @@ You, on 20 May 2018, between 2.26am to 3.00am at St James Power Station Club Hol
 
 5       The victims were patrons of the Club at the material time. They are:
 
-5.1     Tan, a 32-year old male.
+> 5.1     Tan, a 32-year old male.
 
-5.2     David, a 33-year old male
+> 5.2     David, a 33-year old male
 
-5.3     Joshua, a 29-year old male
+> 5.3     Joshua, a 29-year old male
 
 6       On 20 May 2018, the victims were drinking at the Club with some friends. They had a dispute amongst themselves and sometime before 2.26 a.m., they were told by Shahreen to leave the Club. Shahreen then ushered some of the victims’ friends out of the Club.
 
@@ -57,11 +57,11 @@ You, on 20 May 2018, between 2.26am to 3.00am at St James Power Station Club Hol
 
 14     Dr Livia Teo, a Consultant with the Singapore National Eye Centre, prepared a medical report on Tan dated 29 June 2018. According to the medical report, Tan suffered the following injuries:
 
-14.1     Left eye: subconjunctival haemorrhage with chemosis, 9x4mm cornea abrasion, microscopic hyphaema, iritis and commotio retinae, pupillary sphincter rupture, periorbital hematoma with limited ocular motility, left retrobulbar haemorrhage with fracture of the left orbital floor;
+> 14.1     Left eye: subconjunctival haemorrhage with chemosis, 9x4mm cornea abrasion, microscopic hyphaema, iritis and commotio retinae, pupillary sphincter rupture, periorbital hematoma with limited ocular motility, left retrobulbar haemorrhage with fracture of the left orbital floor;
 
-14.2     Right eye: subconjunctival haemorrhage; and
+> 14.2     Right eye: subconjunctival haemorrhage; and
 
-14.3     Mildly displaced nasal fracture.
+> 14.3     Mildly displaced nasal fracture.
 
 15     Tan underwent a left floor fracture repair with orbital implant. He then underwent a repeat surgery with examination under anaesthesia. As of 25 June 2018, Tan still had some pain on eye movement with binocular diplopia, and residual limitation of upgaze and mild residual periorbital edema and hematoma of the left eye. He was hospitalised from 20-22 May, 5-8 June and 14 June 2018.
 
@@ -69,15 +69,15 @@ You, on 20 May 2018, between 2.26am to 3.00am at St James Power Station Club Hol
 
 16     Dr Mohamed Madeena Faizur Rahman, a Resident Physician at the Department of Emergency Medicine, SGH, prepared a medical report on David, dated 11 June 2018. According to the medical report, David suffered the following injuries:
 
-16.1     Mild tenderness over the left maxilla and mild bruising over the right forehead;
+> 16.1     Mild tenderness over the left maxilla and mild bruising over the right forehead;
 
-16.2     Abrasion over both upper and lower lips;
+> 16.2     Abrasion over both upper and lower lips;
 
-16.3     Multiple superficial abrasions over both arms and knees;
+> 16.3     Multiple superficial abrasions over both arms and knees;
 
-16.4     Mild tenderness over the right proximal interphalangeal joint; and
+> 16.4     Mild tenderness over the right proximal interphalangeal joint; and
 
-16.5     Comminuted fracture of the proximal phalanx of right little finger with intra articular extension.
+> 16.5     Comminuted fracture of the proximal phalanx of right little finger with intra articular extension.
 
 17     David was given tetanus toxoid and analgesia, and a buddy splint was applied to his finger fracture. He was given hospitalisation leave from 20 to 26 May 2018 (7 days).
 
@@ -85,11 +85,11 @@ You, on 20 May 2018, between 2.26am to 3.00am at St James Power Station Club Hol
 
 18     Dr Seah Zeyen, a Medical Officer at the Department of Emergency Medicine, SGH, prepared a medical report on Joshua, dated 7 June 2018. According to the medical report, Joshua suffered the following injuries:
 
-18.1     Mild bruise over his left eye;
+> 18.1     Mild bruise over his left eye;
 
-18.2     Swelling and tenderness over his left maxilla and temporal region; and
+> 18.2     Swelling and tenderness over his left maxilla and temporal region; and
 
-18.3     Cephalohematoma over his occiput.
+> 18.3     Cephalohematoma over his occiput.
 
 ## ANTECEDENTS
 
@@ -99,19 +99,19 @@ You, on 20 May 2018, between 2.26am to 3.00am at St James Power Station Club Hol
 
 20     The prosecution’s submission adopted the two-stage analysis set out in _PP v Mohammad Al-Ansari bin Basri_ <span class="citation">\[2008\] 1 SLR(R) 449</span> (“Al-Ansari”). While the prosecution recognised the importance of rehabilitation for an accused person under the age of 21, the DPP submitted that specific deterrence was nevertheless a key sentencing consideration and highlighted the following:
 
-20.1     The accused and the other club employees were tasked to ensure the safety and security of the club’s patrons
+> 20.1     The accused and the other club employees were tasked to ensure the safety and security of the club’s patrons
 
-20.2     The way in which the accused assaulted the victims.
+> 20.2     The way in which the accused assaulted the victims.
 
-20.3     The prolonged nature of the assault.
+> 20.3     The prolonged nature of the assault.
 
-20.4     The severity of the victim’s injuries
+> 20.4     The severity of the victim’s injuries
 
-20.5     The offence was one of group violence.
+> 20.5     The offence was one of group violence.
 
-20.6     The safety of the public was affected
+> 20.6     The safety of the public was affected
 
-20.7     The offence engendered public disquiet.
+> 20.7     The offence engendered public disquiet.
 
 21     In light of the above factors, the prosecution submitted that a sentence of reformative training would strike the appropriate balance between rehabilitation and deterrence.
 
@@ -121,45 +121,45 @@ You, on 20 May 2018, between 2.26am to 3.00am at St James Power Station Club Hol
 
 23     The prosecution submitted that the accused was more culpable than Shahreen as:
 
-23.1     The accused was the aggressor who delivered the first blow.
+> 23.1     The accused was the aggressor who delivered the first blow.
 
-23.2     Shahreen only assaulted two of the victims while the accused assaulted all three victims.
+> 23.2     Shahreen only assaulted two of the victims while the accused assaulted all three victims.
 
 ## MITIGATION
 
 24     The defence tendered a written mitigation plea which highlighted the following points:
 
-24.1     The accused graduated from ITE College West with a Higher Nitec in Security System Integration in May 2019. He has applied to further his studies in a polytechnic.
+> 24.1     The accused graduated from ITE College West with a Higher Nitec in Security System Integration in May 2019. He has applied to further his studies in a polytechnic.
 
-24.2     On the day in question, at 2.30am, the accused had completed his duty of playing recorded music at the Club where he was employed. The accused was then required to perform his duties as a security officer, which were to check the patrons to ensure that they were over 18 years of age and that no prohibited items were brought into the club.
+> 24.2     On the day in question, at 2.30am, the accused had completed his duty of playing recorded music at the Club where he was employed. The accused was then required to perform his duties as a security officer, which were to check the patrons to ensure that they were over 18 years of age and that no prohibited items were brought into the club.
 
-24.3     The accused was informed by his colleague that a group of men were creating trouble at the back of the club. He saw one of the men punching someone. Counsel later clarified that the accused saw Shahreen being assaulted by Joshua, though that was not captured by the video camera.
+> 24.3     The accused was informed by his colleague that a group of men were creating trouble at the back of the club. He saw one of the men punching someone. Counsel later clarified that the accused saw Shahreen being assaulted by Joshua, though that was not captured by the video camera.
 
-24.4     The accused and his friends (i.e. the security officers), went to “pull the aggressor but things went out of control and there was sudden violence” (Mitigation plea at \[6\]). However, their original intent was to de-escalate further violence.
+> 24.4     The accused and his friends (i.e. the security officers), went to “pull the aggressor but things went out of control and there was sudden violence” (Mitigation plea at \[6\]). However, their original intent was to de-escalate further violence.
 
-24.5     The offence was not premeditated as it happened suddenly.
+> 24.5     The offence was not premeditated as it happened suddenly.
 
-24.6     The accused was only 19 years of age at the time of the offence.
+> 24.6     The accused was only 19 years of age at the time of the offence.
 
-24.7     The accused had completed the 45th Ship for Southeast Asian and Japanese Youth Program in 2018.
+> 24.7     The accused had completed the 45th Ship for Southeast Asian and Japanese Youth Program in 2018.
 
-24.8     The accused was of good character as evidenced by the various testimonials enclosed with the mitigation plea.
+> 24.8     The accused was of good character as evidenced by the various testimonials enclosed with the mitigation plea.
 
 ## DECISION ON SENTENCE
 
 25     The decision on sentence is divided into four parts:
 
-25.1     Part I: Availability of Reformative Training and Probation as sentencing options.
+> 25.1     Part I: Availability of Reformative Training and Probation as sentencing options.
 
-25.2     Part II: Approach Adopted
+> 25.2     Part II: Approach Adopted
 
-25.3     Part III: Applicability of Deterrence and Rehabilitation as sentencing principles in this case.
+> 25.3     Part III: Applicability of Deterrence and Rehabilitation as sentencing principles in this case.
 
-25.3.1       The individual prospects for rehabilitation.
+>> 25.3.1       The individual prospects for rehabilitation.
 
-25.3.2       The seriousness of the offence
+>> 25.3.2       The seriousness of the offence
 
-25.4     Part IV: Ensuring that the sentence reflects all applicable sentencing principles.
+> 25.4     Part IV: Ensuring that the sentence reflects all applicable sentencing principles.
 
 ### Part I: Availability of Reformative Training and Probation as sentencing options.
 
@@ -167,7 +167,7 @@ You, on 20 May 2018, between 2.26am to 3.00am at St James Power Station Club Hol
 
 27     He is therefore eligible for probation under section 5(1) of the Probation of Offenders Act (Cap 252) as well as reformative training (“RTC”) under s.305(1)(a) of the Criminal Procedure Code (“CPC”). Section 305(1) of the CPC states:
 
-\[T\]he court may impose a sentence of reformative training in lieu of any other sentence if it is satisfied, having regard to his character, previous conduct and the circumstances of the offence, that to reform him and to prevent crime he should undergo a period of training in a reformative training centre.
+> \[T\]he court may impose a sentence of reformative training in lieu of any other sentence if it is satisfied, having regard to his character, previous conduct and the circumstances of the offence, that to reform him and to prevent crime he should undergo a period of training in a reformative training centre.
 
 28     The pre-sentence reports state that reformative training and probation were suitable sentencing options for the accused.
 
@@ -175,9 +175,9 @@ You, on 20 May 2018, between 2.26am to 3.00am at St James Power Station Club Hol
 
 29     Taking into account the guidance of the High Court in _PP v Mohammad Al-Ansari bin Basri_ <span class="citation">\[2008\] 1 SLR(R) 449</span> (“Al-Ansari”), I adopted the following steps:
 
-29.1     I noted that for offenders below the age of 21, rehabilitation was often a dominant sentencing consideration. Therefore, it was important to form an assessment of the prospects for the accused’s rehabilitation based on the probation pre-sentence report, the Reformative Training pre-sentence report, as well as the evidence presented to the Court by the prosecution and defence.
+> 29.1     I noted that for offenders below the age of 21, rehabilitation was often a dominant sentencing consideration. Therefore, it was important to form an assessment of the prospects for the accused’s rehabilitation based on the probation pre-sentence report, the Reformative Training pre-sentence report, as well as the evidence presented to the Court by the prosecution and defence.
 
-29.2     Next, I looked at whether the seriousness (or heinousness) of the offence would lead to rehabilitation being diminished or even eclipsed by the sentencing considerations of deterrence and retribution.
+> 29.2     Next, I looked at whether the seriousness (or heinousness) of the offence would lead to rehabilitation being diminished or even eclipsed by the sentencing considerations of deterrence and retribution.
 
 30     After careful consideration, I found that the seriousness of the offence meant that deterrence was a relevant and applicable principle in this case. Rehabilitation was not the sole or dominant sentencing consideration.
 
@@ -193,7 +193,7 @@ You, on 20 May 2018, between 2.26am to 3.00am at St James Power Station Club Hol
 
 33     The second stage in the process set out in _Al-Ansari_ requires the Court to consider the seriousness of the offence. In order to assess offence seriousness, the Court had to look at the harm or potential harm caused as well as the culpability of the accused. In _PP v Koh Wen Jie Boaz_ <span class="citation">\[2016\] 1 SLR 334</span>, Chief Justice Sundaresh Menon endorsed the two-stage process set out in _Al-Ansari_ and further noted at \[30\]:
 
-But rehabilitation is neither singular nor unyielding. The focus on rehabilitation can be diminished or even eclipsed by such considerations as deterrence or retribution where the circumstances warrant. Broadly speaking, this happens in cases where (a) the offence is serious, (b) the harm caused is severe, (c) the offender is hardened and recalcitrant, or (d) the conditions do not exist to make rehabilitative sentencing options such as probation or reformative training viable.
+> But rehabilitation is neither singular nor unyielding. The focus on rehabilitation can be diminished or even eclipsed by such considerations as deterrence or retribution where the circumstances warrant. Broadly speaking, this happens in cases where (a) the offence is serious, (b) the harm caused is severe, (c) the offender is hardened and recalcitrant, or (d) the conditions do not exist to make rehabilitative sentencing options such as probation or reformative training viable.
 
 34     In _Muhammad Zuhairie Adely bin Zulkifli v Public Prosecutor_ <span class="citation">\[2016\] 4 SLR 697</span> at \[26\] Justice Chan Seng Onn referred to the above passage and noted that it was not necessary for all four factors \[i.e. those listed in (a) to (d)\] to be present before a court can find that rehabilitation has been displaced as the primary sentencing consideration.
 
@@ -215,11 +215,11 @@ But rehabilitation is neither singular nor unyielding. The focus on rehabilitati
 
 41     When David and Tan moved to assist Joshua and help him to their feet, the accused and his colleagues attacked them. At separate points during the incident, the accused:
 
-41.1     Stomped on David after he had fallen to the floor.
+> 41.1     Stomped on David after he had fallen to the floor.
 
-41.2     Threw Joshua to the floor and stomped on him multiple times.
+> 41.2     Threw Joshua to the floor and stomped on him multiple times.
 
-41.3     Kicked Tan twice on the torso and twice on his face while he was lying on the ground.
+> 41.3     Kicked Tan twice on the torso and twice on his face while he was lying on the ground.
 
 ##### OTHER MITIGATING FACTORS
 
@@ -233,11 +233,11 @@ But rehabilitation is neither singular nor unyielding. The focus on rehabilitati
 
 44     After the completing both steps of the _Al-Ansari_ analysis I had to consider the various sentencing options to decide on a sentence that would reflect the applicable sentencing principles. Given that there has been a change in the Reformative Training Regime since _Al-Ansari_ was decided, I referred to the Parliamentary Reports to confirm that Reformative Training continues to address the rehabilitative needs of the offender. During the second reading of the Criminal Justice Reform Bill, the Senior Minister of State for Law, Ms Indranee Rajah, stated:
 
-Besides community sentences, the Bills also make major changes to another sentencing option that is focused on rehabilitation – the reformative training (“RT”) regime. The RT regime is specifically geared towards the rehabilitation of young offenders. It emphasises both discipline and rehabilitation in a structured environment, where officers provide supervision and guidance to the RT trainees. The trainees will go through programmes that will help them take charge of their rehabilitation. They will need to soberly reflect on their offences, on how to stay crime-free, and on how to strengthen their relationships with their family.
+> Besides community sentences, the Bills also make major changes to another sentencing option that is focused on rehabilitation – the reformative training (“RT”) regime. The RT regime is specifically geared towards the rehabilitation of young offenders. It emphasises both discipline and rehabilitation in a structured environment, where officers provide supervision and guidance to the RT trainees. The trainees will go through programmes that will help them take charge of their rehabilitation. They will need to soberly reflect on their offences, on how to stay crime-free, and on how to strengthen their relationships with their family.
 
-…
+> …
 
-The proposed changes reflect this deeper understanding, allowing SPS to take on a risk and performance-based approach in determining the intensity of intervention in RTC for the trainee. A key feature of the proposed changes is that the minimum detention period for reformative training will be reduced from 18 months, to six or 12 months, depending on the intensity of the rehabilitation the offender requires. This will be based on the time required for programming to mitigate the risks and address the needs of the RT trainees, according to their profiles.[^1]
+> The proposed changes reflect this deeper understanding, allowing SPS to take on a risk and performance-based approach in determining the intensity of intervention in RTC for the trainee. A key feature of the proposed changes is that the minimum detention period for reformative training will be reduced from 18 months, to six or 12 months, depending on the intensity of the rehabilitation the offender requires. This will be based on the time required for programming to mitigate the risks and address the needs of the RT trainees, according to their profiles.[^1]
 
 45     Taking into account the recommendation in the Reformative Training pre-sentence report as to the appropriate intensity of rehabilitation, I sentenced the accused to a term of reformative training with a minimum period of detention of 6 months’. At the time of preparing this judgment, the accused is on bail pending appeal.
 

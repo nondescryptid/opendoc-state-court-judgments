@@ -17,11 +17,11 @@
 
 2       At the end of the hearing, the accused was convicted on all the charges and sentenced as follows:
 
-a)     First charge (section 16(2)(a) POA) – Fine $5,000 and in default of payment of the fine, to serve 9 weeks’ imprisonment;
+> a)     First charge (section 16(2)(a) POA) – Fine $5,000 and in default of payment of the fine, to serve 9 weeks’ imprisonment;
 
-b)     Second charge (section 37 POA) – 16 weeks’ imprisonment; and
+> b)     Second charge (section 37 POA) – 16 weeks’ imprisonment; and
 
-c)     Third charge (section 179 PC) – 10 weeks’ imprisonment.
+> c)     Third charge (section 179 PC) – 10 weeks’ imprisonment.
 
 Both sentences were ordered to run consecutively. Accordingly, the aggregate sentence amounted to 26 weeks’ imprisonment and a fine of $5,000 and in default of payment of the fine, to serve 9 weeks’ imprisonment. The global sentence was backdated to the date which the accused was first remanded on 2 March 2019.
 
@@ -31,67 +31,67 @@ Both sentences were ordered to run consecutively. Accordingly, the aggregate sen
 
 4       The three charges below state as follows:
 
-MAC 902514-2019 (First charge)
+> MAC 902514-2019 (First charge)
 
-You are charged that you, on 28 February 2019, at about 5.03pm, outside the Raffles Place MRT Station, located at 5 Raffles Place, Singapore, did take part in a public assembly in respect of which no permit had been granted to you, to wit, by displaying a placard demonstrating opposition to the actions of Minister K. Shanmugam, and Commissioner of Prisons Desmond Chin on one side, and demonstrating opposition to the actions of Senior Judge Chao Hick Tin on the reverse side of the same placard; and by displaying a placard demonstrating opposition to the actions of the Hong Kong government, with the Chinese characters “抗議香港政府在裝甲車陰謀中出賣中國主權!” on one side of the placard, which means “Protest against the Hong Kong government for betraying the sovereignty of China in the armoured vehicles conspiracy!” in English, and demonstrating opposition to the actions of the Prime Minister of Singapore, PM Lee Hsien Loong, by displaying the words “PM Lee: Resign over Singapore’s Watergate Scandal and Nepotism!” on the reverse side of the said placard;
+> You are charged that you, on 28 February 2019, at about 5.03pm, outside the Raffles Place MRT Station, located at 5 Raffles Place, Singapore, did take part in a public assembly in respect of which no permit had been granted to you, to wit, by displaying a placard demonstrating opposition to the actions of Minister K. Shanmugam, and Commissioner of Prisons Desmond Chin on one side, and demonstrating opposition to the actions of Senior Judge Chao Hick Tin on the reverse side of the same placard; and by displaying a placard demonstrating opposition to the actions of the Hong Kong government, with the Chinese characters “抗議香港政府在裝甲車陰謀中出賣中國主權!” on one side of the placard, which means “Protest against the Hong Kong government for betraying the sovereignty of China in the armoured vehicles conspiracy!” in English, and demonstrating opposition to the actions of the Prime Minister of Singapore, PM Lee Hsien Loong, by displaying the words “PM Lee: Resign over Singapore’s Watergate Scandal and Nepotism!” on the reverse side of the said placard;
 
-and you have thereby committed an offence punishable under Section 16(2)(2)(a) of the Public Order Act (Cap 257A, 2012 Rev Ed);
+> and you have thereby committed an offence punishable under Section 16(2)(2)(a) of the Public Order Act (Cap 257A, 2012 Rev Ed);
 
-and further, that you, before the commission of the said offence, were on 5 April 2018, in State Court 12, vide MAC-901950-2018, convicted of an offence punishable under section 16(2)(a) of the Public Order Act (Cap 257A, 2012 Rev Ed), and sentenced to a fine of $5,000 (in default 49 days’ imprisonment), which conviction and punishment have not been set aside, and you are thereby liable for enhanced punishment under Section 16(3)(b) of the Public Order Act (Cap 257A, 2012 Rev Ed).
+> and further, that you, before the commission of the said offence, were on 5 April 2018, in State Court 12, vide MAC-901950-2018, convicted of an offence punishable under section 16(2)(a) of the Public Order Act (Cap 257A, 2012 Rev Ed), and sentenced to a fine of $5,000 (in default 49 days’ imprisonment), which conviction and punishment have not been set aside, and you are thereby liable for enhanced punishment under Section 16(3)(b) of the Public Order Act (Cap 257A, 2012 Rev Ed).
 
-MAC 902515-2019 (Second charge)
+> MAC 902515-2019 (Second charge)
 
-You are charged that you, on 28 February 2019, at about 5.09pm, outside the Raffles Place MRT Station, located at 5 Raffles Place, Singapore, having been given a direction under section 36 of the Public Order Act (Cap 257A, 2012 Rev Ed) by Station Inspector Juherman bin Zaiton, which required you to leave the area set out in the said direction for a period of 24 hours, did, without reasonable excuse, contravene the said direction by refusing to leave the said area, and you have thereby committed an offence punishable under section 37 of the Public Order Act (Cap 257A, 2012 Rev Ed).
+> You are charged that you, on 28 February 2019, at about 5.09pm, outside the Raffles Place MRT Station, located at 5 Raffles Place, Singapore, having been given a direction under section 36 of the Public Order Act (Cap 257A, 2012 Rev Ed) by Station Inspector Juherman bin Zaiton, which required you to leave the area set out in the said direction for a period of 24 hours, did, without reasonable excuse, contravene the said direction by refusing to leave the said area, and you have thereby committed an offence punishable under section 37 of the Public Order Act (Cap 257A, 2012 Rev Ed).
 
-MAC 902516-2018 (Third charge)
+> MAC 902516-2018 (Third charge)
 
-You are charged that you, on 1 March 2019, at about 12.59am, inside cell 10-M of Regional lock-up located at 391 New Bridge Road, Singapore, being legally bound under section 22 of the Criminal Procedure Code (Cap 68)(“CPC”) to state the truth on the subject of your public assembly on 28 February 2019, to Assistant Superintendent of Police Chan Kheng Yong Aaron, in the exercise of the legal powers of the said Assistant Superintendent of Police Chan Kheng Yong Aaron, and you have thereby committed an offence under section 179 of the Penal Code (Cap 224, 2008 Rev Ed).
+> You are charged that you, on 1 March 2019, at about 12.59am, inside cell 10-M of Regional lock-up located at 391 New Bridge Road, Singapore, being legally bound under section 22 of the Criminal Procedure Code (Cap 68)(“CPC”) to state the truth on the subject of your public assembly on 28 February 2019, to Assistant Superintendent of Police Chan Kheng Yong Aaron, in the exercise of the legal powers of the said Assistant Superintendent of Police Chan Kheng Yong Aaron, and you have thereby committed an offence under section 179 of the Penal Code (Cap 224, 2008 Rev Ed).
 
 ## First Charge
 
 5       Section 5 of the POA states that no public assembly may be held in a public place unless a permit has been granted by the Commission of the Police under section 7 of the said Act. The offence of taking part in a public assembly without a permit is provided for in section 16(2)(a), which reads:
 
-(2)    Each person who takes part in a public assembly or public procession –
+> (2)    Each person who takes part in a public assembly or public procession –
 
-(a)    in respect of which no permit has been granted under section 7 or no such permit is in force, where such permit is required by this Act;
+>> (a)    in respect of which no permit has been granted under section 7 or no such permit is in force, where such permit is required by this Act;
 
-shall be guilty of an offence and shall, subject to subsection (3), be liable on conviction to a fine not exceeding $3,000.
+> shall be guilty of an offence and shall, subject to subsection (3), be liable on conviction to a fine not exceeding $3,000.
 
-For repeat offenders found guilty under section 16(2)(a), the offence is punishable with a fine not exceeding $5,000.
+> For repeat offenders found guilty under section 16(2)(a), the offence is punishable with a fine not exceeding $5,000.
 
 6       Section 17(1) provides a defence:
 
-17—(1)    In any proceedings for an offence under section 16(1)(a) or (2)(a), it shall be a defence for the person charged to prove that he did not know, and neither suspected nor had any reason to suspect, that no permit had been granted under section 7 in respect of the assembly or procession or that no such permit is in force, as the case may be.
+> 17—(1)    In any proceedings for an offence under section 16(1)(a) or (2)(a), it shall be a defence for the person charged to prove that he did not know, and neither suspected nor had any reason to suspect, that no permit had been granted under section 7 in respect of the assembly or procession or that no such permit is in force, as the case may be.
 
 7       The term “public assembly” is defined in section 2 of the POA as follows:
 
-“public assembly” means an **assembly held** or to be held **in a public place** or to which members of the public in general are invited, induced or permitted to attend; \[Emphasis added\]
+> “public assembly” means an **assembly held** or to be held **in a public place** or to which members of the public in general are invited, induced or permitted to attend; \[Emphasis added\]
 
-The term “assembly” is defined in section 2 of the said Act as:
+> The term “assembly” is defined in section 2 of the said Act as:
 
-“assembly” means a gathering or meeting (whether or not comprising any lecture, talk, address, debate or discussion) of persons the purpose (or one of the purposes) of which is ---
+>> “assembly” means a gathering or meeting (whether or not comprising any lecture, talk, address, debate or discussion) of persons the purpose (or one of the purposes) of which is ---
 
-**to demonstrate** support for or **opposition** to the **views or actions of any person**, group of persons or **any government**;
+>>> **to demonstrate** support for or **opposition** to the **views or actions of any person**, group of persons or **any government**;
 
-to publicise a cause or campaign; or
+>> to publicise a cause or campaign; or
 
-to mark or commemorate any event;
+>> to mark or commemorate any event;
 
-**and includes a demonstration by a person alone for any such purpose referred to in paragraph (a)**, (b), (c);” \[Emphasis added\]
+> **and includes a demonstration by a person alone for any such purpose referred to in paragraph (a)**, (b), (c);” \[Emphasis added\]
 
-The term “public place” means:
+> The term “public place” means:
 
-**Any place (open to the air or otherwise) to which members of the public have access as of right** or by virtue of express or implied permission, whether or not on payment of a fee, whether or not access to the place may be restricted at particular times or for particular purposes, and whether or not it is an “approved place” within the meaning of the Public Entertainments and Meetings Act (Cap. 257); or…\[Emphasis added\]
+>> **Any place (open to the air or otherwise) to which members of the public have access as of right** or by virtue of express or implied permission, whether or not on payment of a fee, whether or not access to the place may be restricted at particular times or for particular purposes, and whether or not it is an “approved place” within the meaning of the Public Entertainments and Meetings Act (Cap. 257); or…\[Emphasis added\]
 
 8       I agree with the prosecution’s submission at \[10\] that the offence under section 16(2)(a) of the POA is one of strict liability. Such an interpretation has also been affirmed by the High Court in previous cases[^1], which appeals against conviction for similar offences have been dismissed. Further, this is also supported by the Explanatory Statement to the Public Order Bill, which states:
 
-Where a public assembly or public procession in respect of which no permit has been granted… takes place, each person who organises \[or takes part in\] a public assembly… is guilty of an offence.
+> Where a public assembly or public procession in respect of which no permit has been granted… takes place, each person who organises \[or takes part in\] a public assembly… is guilty of an offence.
 
 9       The prosecution thus has to establish the following two elements:
 
-(i)     The accused has taken part in a public assembly; and
+> (i)     The accused has taken part in a public assembly; and
 
-(ii)     No permit has been granted in respect of that assembly.
+> (ii)     No permit has been granted in respect of that assembly.
 
 #### Was the accused taking part in a public assembly?
 
@@ -115,13 +115,13 @@ Where a public assembly or public procession in respect of which no permit has b
 
 18     Section 36(1) of the POA provides as follows:
 
-Subject to this section, a police officer of or above the rank of sergeant may give to a person or group of persons whose behaviour is of a kind mentioned in section 35 any direction in writing that is reasonable in the circumstances.
+> Subject to this section, a police officer of or above the rank of sergeant may give to a person or group of persons whose behaviour is of a kind mentioned in section 35 any direction in writing that is reasonable in the circumstances.
 
 19     Section 35(1)(d) of the POA provides that a move-on direction may be given to a person if the said police officer reasonably suspects the person’s behaviour ---
 
-……
+> ……
 
-(d)    shows that he is just about to commit an offence or has just committed or is committing an offence.
+> (d)    shows that he is just about to commit an offence or has just committed or is committing an offence.
 
 20     PW2 had testified that he was a Station Inspector and thus above the rank of sergeant at the material time. He gave evidence that he had received information that the accused intended to conduct a public assembly without a permit in the open space outside Raffles Place MRT Station on 28 February 2019 at about 5.00pm. When PW2 arrived at the scene, he saw the accused displaying two placards (P3 and P4) and shouting to attract the attention of members of the public. According to PW2, the accused was protesting for a few minutes before he and his partner, Inspector Siaw Kah Swe (PW4) approached the accused. PW2 was aware that the accused did not have the requisite permit at the time when he was shouting his protests and holding onto the said placards. PW2 proceeded to issue the accused with the direction to move on in writing (“move-on direction”-P5) as he suspected the accused of committing the offence of taking part in a public assembly without a permit.
 
@@ -139,13 +139,13 @@ Subject to this section, a police officer of or above the rank of sergeant may g
 
 26     By virtue of section 48A(1) of the Interpretation Act (Cap 1, 2002 Rev Ed)(“IA”), it would appear that personal delivery of a document to an individual personally constitutes ‘giving’ the said document to him. For ease of reference, section 48(1) of the IA provides as follows:
 
-Where a written law authorises or requires a document to be served on a person, whether the expression “serve”, “give” or “send” or any other expression is used, then, unless the contrary intention appears, the document may be served –
+> Where a written law authorises or requires a document to be served on a person, whether the expression “serve”, “give” or “send” or any other expression is used, then, unless the contrary intention appears, the document may be served –
 
-in the case of an individual ---
+>> in the case of an individual ---
 
-by delivering it to the individual personally;
+>>> by delivering it to the individual personally;
 
-by leaving it at, or by sending it by pre-paid post to, the usual or last known address of the place of residence or business of thee individual; \[..\]
+>>> by leaving it at, or by sending it by pre-paid post to, the usual or last known address of the place of residence or business of thee individual; \[..\]
 
 27     Additionally, in the context of effective service of documents, the High Court has accepted that service can be validly effected even if the person being served refuses to accept the document as long as the server “_informed the person to be served of the nature of the document and throws it down in his presence_” (see _Maruti Shipping Pte Ltd v Tay Sien Djim_ <span class="citation">\[2014\] SGHC 227</span> at \[56\]).
 
@@ -155,17 +155,17 @@ by leaving it at, or by sending it by pre-paid post to, the usual or last known 
 
 29     Section 36(2) of the POA states as follows:
 
-(2)    A police officer shall not give a direction under subsection (1) that interferes with a person’s right of peaceful assembly unless it is reasonably necessary in the interests of ---
+> (2)    A police officer shall not give a direction under subsection (1) that interferes with a person’s right of peaceful assembly unless it is reasonably necessary in the interests of ---
 
-(a)    public safety;
+>> (a)    public safety;
 
-(b)    public order;
+>> (b)    public order;
 
-(c)    the protection of the rights and freedom of other persons.
+>> (c)    the protection of the rights and freedom of other persons.
 
-Section 36(3) further provides:
+> Section 36(3) further provides:
 
-(3)    The rights and freedoms referred to in subsection (2)(c) includes a reference to the rights and freedoms of the public to enjoy the place and the rights of persons to carry on lawful business in or in accordance with the place.
+>> (3)    The rights and freedoms referred to in subsection (2)(c) includes a reference to the rights and freedoms of the public to enjoy the place and the rights of persons to carry on lawful business in or in accordance with the place.
 
 30     PW2 had testified that a crowd of about 30 to 40 people had gathered to watch the accused. This can also be seen in P1. Based on PW2’s testimony, there was a risk of a ‘public order incident’ if the accused managed to rile the crowd’s emotions with the messages on his placards. He further added that there were public safety concerns as public disorder would present a risk of injury to the persons in the crowd if the onlookers present at the scene turned ‘rowdy’[^4]. Additionally, he also stated that the crowd gathered as a result of the accused’s public protest, would also have obstructed other members of the public who sought to move around the area.
 
@@ -191,27 +191,27 @@ Section 36(3) further provides:
 
 38     Section 179 PC reads as follows:
 
-Whoever, being legally bound to state the truth on any subject to any public servant, refuses to answer any questions demanded of him touching that subject by such public servant, in the exercise of the legal powers of such public servant, shall be punished with imprisonment for a term which may extend to 6 months, or with fine which may extend to $3,000, or with both.
+> Whoever, being legally bound to state the truth on any subject to any public servant, refuses to answer any questions demanded of him touching that subject by such public servant, in the exercise of the legal powers of such public servant, shall be punished with imprisonment for a term which may extend to 6 months, or with fine which may extend to $3,000, or with both.
 
 39     The elements of the offence are as follows:
 
-(a)     there was a question posed by a public servant to the accused;
+> (a)     there was a question posed by a public servant to the accused;
 
-(b)     the accused was legally bound to state the truth on any subject to the public servant;
+> (b)     the accused was legally bound to state the truth on any subject to the public servant;
 
-(c)     the answer to the question was required by the public servant in the exercise of his legal powers; and
+> (c)     the answer to the question was required by the public servant in the exercise of his legal powers; and
 
-(d)     the accused refused to answer the question demanded of him on that subject.
+> (d)     the accused refused to answer the question demanded of him on that subject.
 
 40     On the undisputed facts, ASP Aaron Chan (PW6), a police officer, is a ‘public servant’ by virtue of section 22(1)(g) of the PC, which states that a ‘public servant’ includes:
 
-(g)    every officer of Government whose duty it is, as such officer, to prevent offences, to give information of offences, to bring offenders to justice, or to protect the public health, safety or convenience;
+> (g)    every officer of Government whose duty it is, as such officer, to prevent offences, to give information of offences, to bring offenders to justice, or to protect the public health, safety or convenience;
 
 41     Section 22(1) of the Criminal Procedure Code (Cap 68) (“CPC”) provides that a police officer acting in the course of his duty, in conducting investigations under Part IV of the CPC, may examine orally any person who appears to be acquainted with any facts and circumstances of the case.
 
 42     Section 22(2) of the CPC further states:
 
-(2)    The person examined shall be bound to state truly what he knows of the facts and circumstances of the case, except that he need not say anything that might expose him to a criminal charge, penalty or forfeiture.
+> (2)    The person examined shall be bound to state truly what he knows of the facts and circumstances of the case, except that he need not say anything that might expose him to a criminal charge, penalty or forfeiture.
 
 43     It was further undisputed that PW6, was the investigating officer, assigned to conduct investigations pertaining to the accused for a suspected offence under section 16(2)(a) of the POA, committed on 28 February 2019. He was thus lawfully empowered to exercise his powers of examination under section 22 of the CPC, to question the accused regarding the facts and circumstances of the case. In that regard, PW6 posed questions to the accused which was recorded in P10.
 
@@ -221,7 +221,7 @@ Whoever, being legally bound to state the truth on any subject to any public ser
 
 45     Further, the prosecution relied on the Indian Supreme Court decision in _Nandini Satpathy v PL Dani_ (1978) CrLJ 968 (“_Nandini Sathpathy_”), where an accused person who refused to answer questions put to her by a police officer under a provision substantially similar to section 22(2) of the CPC could incur criminal liability under section 179 of the Indian Penal Code, which is in _pari materia_ with section 179 of the PC. The Court held at \[60\] that the proviso excluding the person being examined from having to answer questions with answers ‘which would have a tendency to expose him to a criminal charge or to a penalty or forfeiture’ only excuses the person being examined from having to give answers with a “reasonable, real, material or probable” likelihood of incriminating himself. The Court further elaborated at \[70\] as follows that[^9]:
 
-…fanciful claims, unreasonable apprehensions and vague possibilities cannot be the hiding ground for an accused person. He is bound to answer where there is no clear tendency to incriminate.
+> …fanciful claims, unreasonable apprehensions and vague possibilities cannot be the hiding ground for an accused person. He is bound to answer where there is no clear tendency to incriminate.
 
 46     I now set out the list of questions posed to the accused as per P10 for ease of reference:
 
@@ -267,45 +267,45 @@ The appeals against conviction and sentence for all of the above previous convic
 
 57     The offences under section 37 of the POA and section 179 of the PC call for sentences that significantly emphasise the need for general deterrence whereas specific deterrence and prevention would be particularly applicable for the offence under section 16(2)(a) of the POA in view of his numerous previous convictions for the same offence. The following relevant factors were highlighted in relation to each specific offence as set out in prosecution’s address on sentence at \[21\] – \[24\] below:
 
-21    The factors justifying the need for specific deterrence and protection of the public with respect to the offence under section 16(2)(a) of the POA are:
+> 21    The factors justifying the need for specific deterrence and protection of the public with respect to the offence under section 16(2)(a) of the POA are:
 
-·    the serious nature of the protests;
+>> ·    the serious nature of the protests;
 
-·    the long string of similar antecedents; and
+>> ·    the long string of similar antecedents; and
 
-·    the clearly premeditated conduct.
+>> ·    the clearly premeditated conduct.
 
-22    The factors justifying the need for general and specific deterrence, with respect to the offence under section 37 of the POA are:
+> 22    The factors justifying the need for general and specific deterrence, with respect to the offence under section 37 of the POA are:
 
-·    the accused had no explanation for not complying with the move-on direction;
+>> ·    the accused had no explanation for not complying with the move-on direction;
 
-·    the accused disobeyed the move-on direction entirely;
+>> ·    the accused disobeyed the move-on direction entirely;
 
-·    the effect of non-compliance with the move-on direction was the continued commission of a criminal offence;
+>> ·    the effect of non-compliance with the move-on direction was the continued commission of a criminal offence;
 
-·    the presence of the public; and
+>> ·    the presence of the public; and
 
-·    the public disquiet caused.
+>> ·    the public disquiet caused.
 
-23    The factors justifying the need for general deterrence, with respect to the offence under section 179 PC are:
+> 23    The factors justifying the need for general deterrence, with respect to the offence under section 179 PC are:
 
-·    the accused had no legal grounds to refuse to answer questions lawfully posed to him by a police officer;
+>> ·    the accused had no legal grounds to refuse to answer questions lawfully posed to him by a police officer;
 
-·    the accused, in wilful defiance of lawful authority, prevented a police officer from discharging his public duty; and
+>> ·    the accused, in wilful defiance of lawful authority, prevented a police officer from discharging his public duty; and
 
-·    public interest lies in ensuring the ability of police officers to investigate crimes and gather evidence, including through taking statements from suspects, is not frustrated.
+>> ·    public interest lies in ensuring the ability of police officers to investigate crimes and gather evidence, including through taking statements from suspects, is not frustrated.
 
-24    Finally, the aggravating factors that cut across all offences are:
+> 24    Finally, the aggravating factors that cut across all offences are:
 
-·    the total absence of remorse;
+>> ·    the total absence of remorse;
 
-·    the accused having re-offended very soon after release from imprisonment;
+>> ·    the accused having re-offended very soon after release from imprisonment;
 
-·    there being no impediment to his ability to understand the nature and consequences of his actions;
+>> ·    there being no impediment to his ability to understand the nature and consequences of his actions;
 
-·    the high risk of re-offending; and
+>> ·    the high risk of re-offending; and
 
-·    his having claimed trial with no valid defence.
+>> ·    his having claimed trial with no valid defence.
 
 58     Thus, for the offence under section 16(2)(a) of the POA, the prosecution submitted for the maximum fine of $5,000, which is the maximum punishment prescribed. This was given the fact that the previous sentence of the maximum fine imposed for the last few convictions for the same offence had failed to deter the accused. Furthermore, the increasing longer imprisonment terms imposed in default of payment of the maximum fine for each previous conviction, has also not deterred the accused from re-offending. In fact, the previous default imprisonment term of 7 weeks’ imposed on 5 April 2018, had failed to deter the accused as upon his release from prison on 20 September 2018 (after serving the global sentence imposed by two different courts including the default imprisonment term of 7 weeks), he re-offended shortly thereafter on 28 February 2019. He had in fact made it blatantly clear that he would continue to re-offend and had asked PW2 (during cross-examination) if the police would continue to issue him with a move-on direction when he held his next unlawful public assembly in future. In that regard, a default term of not less than 10 weeks’ imprisonment was sought.
 
@@ -339,11 +339,11 @@ The appeals against conviction and sentence for all of the above previous convic
 
 69     The punishments prescribed for the following offences are:
 
-(a)     Section 16(2)(a) of the POA which is punishable under section 16(3)(b) POA for a repeat offender – maximum fine of $5,000;
+> (a)     Section 16(2)(a) of the POA which is punishable under section 16(3)(b) POA for a repeat offender – maximum fine of $5,000;
 
-(b)     Section 37 of the POA - fine of up to $20,000 or imprisonment up to 12 months or both.
+> (b)     Section 37 of the POA - fine of up to $20,000 or imprisonment up to 12 months or both.
 
-(c)     Section 179 of the PC – imprisonment term of up to 6 months or a fine of up to $3,000 or both.
+> (c)     Section 179 of the PC – imprisonment term of up to 6 months or a fine of up to $3,000 or both.
 
 #### Sentencing considerations
 

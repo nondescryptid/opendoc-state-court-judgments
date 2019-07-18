@@ -17,79 +17,79 @@
 
 1       This is an appeal filed by the accused, Mr Abdul Muhaikal Bin Abdul Mootalib on 28 June 2019 against his sentence of four weeks’ imprisonment for one charge of being a member of an unlawful assembly under s 143 Penal Code (Cap 224, 2008 Rev.Ed.). The accused, a 22-year old male Singaporean had pleaded guilty on 20 June 2019 to the following charge in **DAC 912383-2018** namely:
 
-_Exhibit C1A_ – **_1st charge (Amended)_**
+> _Exhibit C1A_ – **_1st charge (Amended)_**
 
-“…on the 23 March 2018, at or about 5.30am, at the open carpark in front of Club Envy located at St James Power Station, No. 3 Sentosa Gateway, Singapore, together with Lim Pin Yang, Muhammad Kameil Bin Md Kamisan, and at least 2 other unknown males, were members of an unlawful assembly whose common object was to cause hurt to Neo Zhao Fu Desmond, male 29 years old, and you have thereby committed an offence punishable under Section 143 of the Penal Code, Chapter 224.”
+> “…on the 23 March 2018, at or about 5.30am, at the open carpark in front of Club Envy located at St James Power Station, No. 3 Sentosa Gateway, Singapore, together with Lim Pin Yang, Muhammad Kameil Bin Md Kamisan, and at least 2 other unknown males, were members of an unlawful assembly whose common object was to cause hurt to Neo Zhao Fu Desmond, male 29 years old, and you have thereby committed an offence punishable under Section 143 of the Penal Code, Chapter 224.”
 
 ## B.   Statement of Facts
 
 2       The Statement of Facts (_Exhibit PS1_) tendered by the Prosecution which the accused had admitted to without qualification is as follows:
 
-“**INTRODUCTION**
+> “**INTRODUCTION**
 
-1.    The accused persons involved in this case are:
+> 1.    The accused persons involved in this case are:
 
-a.    B1 - Lim Pin Yang, Male Chinese aged 26 years old.
+>> a.    B1 - Lim Pin Yang, Male Chinese aged 26 years old.
 
-b.    B2 - Muhammad Kameil Bin Md Kamisan, Male Malay aged 26 years old.
+>> b.    B2 - Muhammad Kameil Bin Md Kamisan, Male Malay aged 26 years old.
 
-c.    B3 - Abdul Muhaikal Bin Abdul Mootalib, Male Malay aged 22 years old.
+>> c.    B3 - Abdul Muhaikal Bin Abdul Mootalib, Male Malay aged 22 years old.
 
-d.    At least 2 unknown males.
+>> d.    At least 2 unknown males.
 
-B1, B2 and B3 are staff members of Club Envy located at St James Power Station. B1 was a Public Relations Executive, while B2 and B3 were bouncers.
+> B1, B2 and B3 are staff members of Club Envy located at St James Power Station. B1 was a Public Relations Executive, while B2 and B3 were bouncers.
 
-2.    The other parties involved in this case are:
+> 2.    The other parties involved in this case are:
 
-a.    A1 - Desmond Neo Zhao Fu, Male Chinese aged 29 years old.
+>> a.    A1 - Desmond Neo Zhao Fu, Male Chinese aged 29 years old.
 
-b.    A2 - Regina Toh Jia Wen, Female Chinese aged 21years old. A2 is A1’s wife.
+>> b.    A2 - Regina Toh Jia Wen, Female Chinese aged 21years old. A2 is A1’s wife.
 
-c.    A3 - Choo Jing Hui, Elliott, Male Chinese aged 22 years old. He is a Public Relations Manager at Club Envy and is an acquaintance of A2.
+>> c.    A3 - Choo Jing Hui, Elliott, Male Chinese aged 22 years old. He is a Public Relations Manager at Club Envy and is an acquaintance of A2.
 
-**FIRST INFORMATION REPORT**
+> **FIRST INFORMATION REPORT**
 
-3.    On 23 March 2018 at 5.13am, police received a call bearing the message “_10 person beat 1. The guy on the floor_ “. The incident location given was at Blk 3 Sentosa Gateway, St James Power Station Carpark.
+> 3.    On 23 March 2018 at 5.13am, police received a call bearing the message “_10 person beat 1. The guy on the floor_ “. The incident location given was at Blk 3 Sentosa Gateway, St James Power Station Carpark.
 
-**FACTS RELATING TO THE CHARGE – DAC-912383-2018**
+> **FACTS RELATING TO THE CHARGE – DAC-912383-2018**
 
-4.    Investigations revealed that on 23 March 2018 at about 2am plus, A1 and A2 had separately gone to Club Envy with their respective group. At about 5am, the pair met up and left Club together. A3, being a Public Relations Manager of the Club who had earlier drank and interacted with A2 in the Club, accompanied her out of the Club and chatted with her. While A3 was chatting with A2, A1 got into a verbal altercation with A3. The dispute then turned physical, and A1 punched A3.
+> 4.    Investigations revealed that on 23 March 2018 at about 2am plus, A1 and A2 had separately gone to Club Envy with their respective group. At about 5am, the pair met up and left Club together. A3, being a Public Relations Manager of the Club who had earlier drank and interacted with A2 in the Club, accompanied her out of the Club and chatted with her. While A3 was chatting with A2, A1 got into a verbal altercation with A3. The dispute then turned physical, and A1 punched A3.
 
-5.    The altercation attracted the attention of other Club staff, who learnt that A3 had been attacked. About 10 people, including B1, B2 and B3, arrived in the vicinity. They did not know A1 and A2.
+> 5.    The altercation attracted the attention of other Club staff, who learnt that A3 had been attacked. About 10 people, including B1, B2 and B3, arrived in the vicinity. They did not know A1 and A2.
 
-6.    A few unknown male subjects amongst the 10 people then approached A1 and started attacking A1 by kicking and punching him. Upon seeing this, B1 joined in to attack A1. He first obtained a plastic traffic wand from the Club valet and used the wand to hit A1 on the side of the body. The traffic wand broke as a result. B1 then kicked A1 twice, when A1 was already on the floor. At some point during the incident, B2 and B3 also joined in the assault on A1. In particular, B3 kicked A1 once and also joined the group to stomp on A1 after he had fallen onto the ground. B2 and B3 only stopped when another Club staff pushed them away and told them not to get involved further. The group is thus an Unlawful Assembly which common object of the members was to cause hurt to A1, and by joining in to attack A1, B3 formed part of the Unlawful Assembly.
+> 6.    A few unknown male subjects amongst the 10 people then approached A1 and started attacking A1 by kicking and punching him. Upon seeing this, B1 joined in to attack A1. He first obtained a plastic traffic wand from the Club valet and used the wand to hit A1 on the side of the body. The traffic wand broke as a result. B1 then kicked A1 twice, when A1 was already on the floor. At some point during the incident, B2 and B3 also joined in the assault on A1. In particular, B3 kicked A1 once and also joined the group to stomp on A1 after he had fallen onto the ground. B2 and B3 only stopped when another Club staff pushed them away and told them not to get involved further. The group is thus an Unlawful Assembly which common object of the members was to cause hurt to A1, and by joining in to attack A1, B3 formed part of the Unlawful Assembly.
 
-7.    While A1 was being attacked, A2 tried to intervene to stop the attack. As a result, some blows dealt by members of the Unlawful Assembly landed on her. In a bid to stop the attack, A2 offered to leave her phone number so that the matter may be “settled” the next day. The attack then ceased, and A1 and A2 left the scene.
+> 7.    While A1 was being attacked, A2 tried to intervene to stop the attack. As a result, some blows dealt by members of the Unlawful Assembly landed on her. In a bid to stop the attack, A2 offered to leave her phone number so that the matter may be “settled” the next day. The attack then ceased, and A1 and A2 left the scene.
 
-8.    After the incident, A1 sought medical treatment at Singapore General Hospital. He was seen by Dr Lim Mian Jie on 23 March 2018, at 6.10am, and was observed to have suffered the following injuries:
+> 8.    After the incident, A1 sought medical treatment at Singapore General Hospital. He was seen by Dr Lim Mian Jie on 23 March 2018, at 6.10am, and was observed to have suffered the following injuries:
 
-a.    A haematoma over his occiput;
+>> a.    A haematoma over his occiput;
 
-b.    1 cm laceration over his right parietal scalp;
+>> b.    1 cm laceration over his right parietal scalp;
 
-c.    Multiple puncture wounds over his back;
+>> c.    Multiple puncture wounds over his back;
 
-d.    3 cm laceration over his right supraorbital region;
+>> d.    3 cm laceration over his right supraorbital region;
 
-e.    2 puncture wounds over his right humerus area;
+>> e.    2 puncture wounds over his right humerus area;
 
-f.    Tenderness of his left anatomical snuffbox; and
+>> f.    Tenderness of his left anatomical snuffbox; and
 
-g.    A superficial puncture wound over his right thigh; and
+>> g.    A superficial puncture wound over his right thigh; and
 
-h.    Mild soft tissue gas in the region of his right biceps brachii.
+>> h.    Mild soft tissue gas in the region of his right biceps brachii.
 
-A1 was diagnosed to have assault with multiple puncture wounds and head injury. He was treated with analgesia and anti-tetanus toxoid. Toilet and suture was done over his puncture and laceration wounds. He was given 1 week of medical leave.
+> A1 was diagnosed to have assault with multiple puncture wounds and head injury. He was treated with analgesia and anti-tetanus toxoid. Toilet and suture was done over his puncture and laceration wounds. He was given 1 week of medical leave.
 
-9.    A2 also sought treatment at Singapore General Hospital. She was seen by Dr Jeremy Ng Chung Fai, who observed the following injuries on her:
+> 9.    A2 also sought treatment at Singapore General Hospital. She was seen by Dr Jeremy Ng Chung Fai, who observed the following injuries on her:
 
-a.    Multiple bruises; and
+>> a.    Multiple bruises; and
 
-b.    A fracture of her right 5th rib with an associated pneumothorax.
+>> b.    A fracture of her right 5th rib with an associated pneumothorax.
 
-10.    A3 also sought treatment at Singapore General Hospital. He was seen by Dr Seah Zeyen, and was observed that he had a superficial abrasion over the right upper lip and mild tenderness over his nasal bone. He was discharged with analgesia and nose drop, and was given outpatient medical leave for 3 days.
+> 10.    A3 also sought treatment at Singapore General Hospital. He was seen by Dr Seah Zeyen, and was observed that he had a superficial abrasion over the right upper lip and mild tenderness over his nasal bone. He was discharged with analgesia and nose drop, and was given outpatient medical leave for 3 days.
 
-11.    By virtue of the foregoing, B3 has committed an offence of being a member of an Unlawful Assembly punishable under s 143 of the Penal Code.
+> 11.    By virtue of the foregoing, B3 has committed an offence of being a member of an Unlawful Assembly punishable under s 143 of the Penal Code.
 
 ## C.   Antecedents
 
@@ -99,19 +99,19 @@ b.    A fracture of her right 5th rib with an associated pneumothorax.
 
 4       In its oral address on sentence, the Prosecution sought an imprisonment term of at least four weeks. It was submitted that the aggravating factors in this case were:
 
-a)     This was a large group assault which involves a large number of ten males assaulting the victim;
+> a)     This was a large group assault which involves a large number of ten males assaulting the victim;
 
-b)     The injuries suffered by the victim were not insignificant or minor. There were not only superficial injuries but also puncture wounds.
+> b)     The injuries suffered by the victim were not insignificant or minor. There were not only superficial injuries but also puncture wounds.
 
 5       The Prosecution further submitted that the following factors were more specific to the accused namely:
 
-a)     He had only joined the assault after seeing the larger group begin their assault;
+> a)     He had only joined the assault after seeing the larger group begin their assault;
 
-b)     The accused not only kicked the victim but proceeded to stomp on him after he had fallen to the ground;
+> b)     The accused not only kicked the victim but proceeded to stomp on him after he had fallen to the ground;
 
-c)     The accused was employed as a bouncer at Club Envy. His main role was to maintain order and security in the club and its premises. In the present case, the accused had done the complete opposite;
+> c)     The accused was employed as a bouncer at Club Envy. His main role was to maintain order and security in the club and its premises. In the present case, the accused had done the complete opposite;
 
-d)     The accused only stopped his assault when he was pulled away by another staff member of the club and told not to get involved further.
+> d)     The accused only stopped his assault when he was pulled away by another staff member of the club and told not to get involved further.
 
 #### Sentencing Precedents
 
@@ -128,11 +128,11 @@ d)     The accused only stopped his assault when he was pulled away by anot
 
 9       It was the Prosecution’s case that there were similarities between the two cases cited and the present case namely:
 
-a)     The age of the accused persons was on the threshold of 21 years’ old or had barely crossed it at the time of sentencing;
+> a)     The age of the accused persons was on the threshold of 21 years’ old or had barely crossed it at the time of sentencing;
 
-b)     The injuries were relatively minor involving bruising or scratching but in the present case slightly more severe involving lacerations and puncture wounds;
+> b)     The injuries were relatively minor involving bruising or scratching but in the present case slightly more severe involving lacerations and puncture wounds;
 
-c)     All three accused persons were untraced at the time of sentencing.
+> c)     All three accused persons were untraced at the time of sentencing.
 
 10     It was submitted that in line with these precedents where imprisonment of one month to 8 weeks’ were imposed, the Court was urged to impose a custodial sentence of 4 weeks’ imprisonment. I was informed that the co-accused, Lim Pin Yang had been convicted and sentenced to 5 weeks’ imprisonment to a similar charge under s 143 Penal Code in Court 6 on 11 March 2019. As for the co-accused, Muhammad Kameil Bin Md Kamisan, his matter was still outstanding and that he faced additional charges in addition to this present related charge.
 
@@ -166,27 +166,27 @@ c)     All three accused persons were untraced at the time of sentencing.
 
 22     It was the case for the Defence that the accused’s rehabilitation retains its primacy in the sentencing matrix for the present case. It was acknowledged by the Defence that the primacy of rehabilitation may be diminished or eclipsed by considerations of deterrence or retribution where[^1]:
 
-a)     the offence is serious;
+> a)     the offence is serious;
 
-b)     the harm caused is severe;
+> b)     the harm caused is severe;
 
-c)     the offender is hardened and recalcitrant; and/or
+> c)     the offender is hardened and recalcitrant; and/or
 
-d)     the conditions which made rehabilitative sentencing options such as probation or reformative training viable do no exist.
+> d)     the conditions which made rehabilitative sentencing options such as probation or reformative training viable do no exist.
 
 23     It was submitted that the severity of an offence and the corresponding punitive response that this calls for is calibrated by considering the culpability of the offender’s conduct and the harm caused by the offence[^2]. It was further submitted that the accused’s culpability was on the lower end of the spectrum for the following reasons:
 
-a)     there was no pre-meditation on the accused’s part. His involvement in the incident happened spontaneously;
+> a)     there was no pre-meditation on the accused’s part. His involvement in the incident happened spontaneously;
 
-b)     there was a degree of provocation of the victim’s part albeit not towards the accused himself. As far as the accused was concerned, the accused was the initial aggressor and had physically attacked Elliot and Fadhil;
+> b)     there was a degree of provocation of the victim’s part albeit not towards the accused himself. As far as the accused was concerned, the accused was the initial aggressor and had physically attacked Elliot and Fadhil;
 
-c)     his involvement in the incident was limited to kicking the victim twice;
+> c)     his involvement in the incident was limited to kicking the victim twice;
 
-d)     his actions were attributable to his immaturity and perhaps a misguided sense of protectiveness towards his colleagues. The accused should not be held to the standard of an older security officer who may have had the benefit of experience and training. The accused’s youth and inexperience were relevant in appreciating his impulsive reaction;
+> d)     his actions were attributable to his immaturity and perhaps a misguided sense of protectiveness towards his colleagues. The accused should not be held to the standard of an older security officer who may have had the benefit of experience and training. The accused’s youth and inexperience were relevant in appreciating his impulsive reaction;
 
-e)     there are no other aggravating factors present in the commission of the incident other than the necessary constituent elements to make out the charge itself.
+> e)     there are no other aggravating factors present in the commission of the incident other than the necessary constituent elements to make out the charge itself.
 
-f)     Fadhil had attested that this was a one-off incident and out of character for the accused.
+> f)     Fadhil had attested that this was a one-off incident and out of character for the accused.
 
 24     The Defence accepted that in terms of the harm caused, the accused bears liability for the injuries inflicted on the victim by the other members of the group. It was orally agreed that the harm caused to the victim was serious but not severe. The victim had suffered puncture wounds and lacerations and there was no serious harm caused or lasting damage. Nevertheless, it was highlighted that while the victim was admitted to the hospital, he was released within the day. It was again emphasized that the accused had only aimed two kicks at the victim and was not directly responsible for the injuries suffered by Regina.
 

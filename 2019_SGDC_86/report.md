@@ -29,29 +29,29 @@
 
 6       Three charges were for assisting the UML, which were offences under the MLA:
 
-DAC-946309-2017 (1st Charge)
+> DAC-946309-2017 (1st Charge)
 
-You \[...\] are charged that you, \[sometime\] on the 20th day of December 2017, at the vicinity of 57 Dawson Road, in Singapore, did assist an unlicensed moneylender known as “Jacob”, in the carrying on of the business of moneylending, _to wit_, by collecting one United Overseas Bank (UOB) ATM card bearing serial number \[xxxxxxx.x\] from one \[CLT\] on behalf of the said Jacob, knowing that these would facilitate his unlicensed moneylending business, when he is not an excluded moneylender or an exempt moneylender or authorised to do so by licence, and you have thereby assisted in the contravention of Section 5(1) of the Moneylenders’ Act, Chapter 188 (Revised Edition 2010) and committed an offence punishable under Section 14(1)(b)(i) read with Section 14(1A)(a) of the said Act.
+> You \[...\] are charged that you, \[sometime\] on the 20th day of December 2017, at the vicinity of 57 Dawson Road, in Singapore, did assist an unlicensed moneylender known as “Jacob”, in the carrying on of the business of moneylending, _to wit_, by collecting one United Overseas Bank (UOB) ATM card bearing serial number \[xxxxxxx.x\] from one \[CLT\] on behalf of the said Jacob, knowing that these would facilitate his unlicensed moneylending business, when he is not an excluded moneylender or an exempt moneylender or authorised to do so by licence, and you have thereby assisted in the contravention of Section 5(1) of the Moneylenders’ Act, Chapter 188 (Revised Edition 2010) and committed an offence punishable under Section 14(1)(b)(i) read with Section 14(1A)(a) of the said Act.
 
-DAC-930005-2018 (10th Charge)
+> DAC-930005-2018 (10th Charge)
 
-You \[...\] are charged that you, from mid-September 2017 to December 2017, in Singapore, did assist one unlicensed moneylender known as “Jacob”, in the carrying on of the business of moneylending, _to wit_, by performing fund transfers, making cash withdrawals and checking of account balances, using a United Overseas Bank bank account (account number \[yyy-yyy-yyy-y\]) linked to a direct VISA card bearing serial number \[yyyy yyyy yyyy yyyy\], knowing that these would facilitate Jacob’s unlicensed moneylending business, when he was not an excluded moneylender or an exempt moneylender or authorised to do so by licence, and you have thereby assisted in the contravention of Section 5(1) of the Moneylenders’ Act (Cap 188, 2010 Rev Ed) and committed an offence punishable under Section 14(1)(b)(i) read with Section 14(1A)(a) of the said Act.
+> You \[...\] are charged that you, from mid-September 2017 to December 2017, in Singapore, did assist one unlicensed moneylender known as “Jacob”, in the carrying on of the business of moneylending, _to wit_, by performing fund transfers, making cash withdrawals and checking of account balances, using a United Overseas Bank bank account (account number \[yyy-yyy-yyy-y\]) linked to a direct VISA card bearing serial number \[yyyy yyyy yyyy yyyy\], knowing that these would facilitate Jacob’s unlicensed moneylending business, when he was not an excluded moneylender or an exempt moneylender or authorised to do so by licence, and you have thereby assisted in the contravention of Section 5(1) of the Moneylenders’ Act (Cap 188, 2010 Rev Ed) and committed an offence punishable under Section 14(1)(b)(i) read with Section 14(1A)(a) of the said Act.
 
-DAC-930009-2018 (14th Charge)
+> DAC-930009-2018 (14th Charge)
 
-You \[...\] are charged that you, \[sometime\] between late October 2017 and early November 2017, somewhere in the vicinity of Geylang, Singapore, did assist one unlicensed moneylender known as “Jacob”, in the carrying on of the business of moneylending, _to wit_, by collecting cash generated from Jacob’s unlicensed Moneylending business amounting to SGD $7000 from his worker, knowing that these would facilitate Jacob’s unlicensed moneylending business, when he was not an excluded moneylender or an exempt moneylender or authorised to do so by licence, and you have thereby assisted in the contravention of Section 5(1) of the Moneylenders’ Act, Chapter 188 (Revised Edition 2010) and committed an offence punishable under Section 14(1)(b)(i) read with Section 14(1A)(a) of the said Act.
+> You \[...\] are charged that you, \[sometime\] between late October 2017 and early November 2017, somewhere in the vicinity of Geylang, Singapore, did assist one unlicensed moneylender known as “Jacob”, in the carrying on of the business of moneylending, _to wit_, by collecting cash generated from Jacob’s unlicensed Moneylending business amounting to SGD $7000 from his worker, knowing that these would facilitate Jacob’s unlicensed moneylending business, when he was not an excluded moneylender or an exempt moneylender or authorised to do so by licence, and you have thereby assisted in the contravention of Section 5(1) of the Moneylenders’ Act, Chapter 188 (Revised Edition 2010) and committed an offence punishable under Section 14(1)(b)(i) read with Section 14(1A)(a) of the said Act.
 
 #### (b)   CDSA charges
 
 7       Two charges were for removing cash, which represented the illegal proceeds of the UML, out of Singapore, which were offences under the CDSA:
 
-DAC-930006-2018 (11th Charge)
+> DAC-930006-2018 (11th Charge)
 
-You \[...\] are charged that you, on 2 November 2017, at about 12.36am, at Woodlands Checkpoint, Singapore, did remove property from the jurisdiction of Singapore, namely, cash amounting to S$10,000, _to wit_, by bringing out the said amount of cash into Malaysia, when you knew that such property, in whole, directly represents one Jacob’s benefits from criminal conduct, namely, the carrying on of the business of unlicensed moneylending in contravention of section 5(1) of the Moneylenders Act (Cap 188, 2010 Rev Ed), and you have thereby committed an offence under section 47(2)(b) and punishable under section 47(6)(a) of the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act (Cap 65A, 2000 Rev Ed).
+> You \[...\] are charged that you, on 2 November 2017, at about 12.36am, at Woodlands Checkpoint, Singapore, did remove property from the jurisdiction of Singapore, namely, cash amounting to S$10,000, _to wit_, by bringing out the said amount of cash into Malaysia, when you knew that such property, in whole, directly represents one Jacob’s benefits from criminal conduct, namely, the carrying on of the business of unlicensed moneylending in contravention of section 5(1) of the Moneylenders Act (Cap 188, 2010 Rev Ed), and you have thereby committed an offence under section 47(2)(b) and punishable under section 47(6)(a) of the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act (Cap 65A, 2000 Rev Ed).
 
-DAC-930007-2018 (12th Charge)
+> DAC-930007-2018 (12th Charge)
 
-You \[...\] are charged that you, on 1 December 2017, at about 12.36am, at Woodlands Checkpoint, Singapore, did remove property from the jurisdiction of Singapore, namely, cash amounting to S$10,000, _to wit_, by bringing out the said amount of cash into Malaysia, when you knew that such property, in whole, directly represents one Jacob’s benefits from criminal conduct, namely, the carrying on of the business of unlicensed moneylending in contravention of section 5(1) of the Moneylenders Act (Cap 188, 2010 Rev Ed), and you have thereby committed an offence under section 47(2)(b) and punishable under section 47(6)(a) of the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act (Cap 65A, 2000 Rev Ed).
+> You \[...\] are charged that you, on 1 December 2017, at about 12.36am, at Woodlands Checkpoint, Singapore, did remove property from the jurisdiction of Singapore, namely, cash amounting to S$10,000, _to wit_, by bringing out the said amount of cash into Malaysia, when you knew that such property, in whole, directly represents one Jacob’s benefits from criminal conduct, namely, the carrying on of the business of unlicensed moneylending in contravention of section 5(1) of the Moneylenders Act (Cap 188, 2010 Rev Ed), and you have thereby committed an offence under section 47(2)(b) and punishable under section 47(6)(a) of the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act (Cap 65A, 2000 Rev Ed).
 
 #### Facts
 
@@ -91,9 +91,9 @@ You \[...\] are charged that you, on 1 December 2017, at about 12.36am, at Woodl
 
 21     Apart from the five charges to which he pleaded guilty, the defendant also admitted to 10 other offences and consented to having these offences taken into consideration for the purposes of sentencing. These charges related to:
 
-(a)     Assisting in the business of the UML Jacob by collecting bank cards and tokens (four charges), conducting multiple banking transactions (four charges), and collecting cash (one charge) – offences under the MLA; and
+> (a)     Assisting in the business of the UML Jacob by collecting bank cards and tokens (four charges), conducting multiple banking transactions (four charges), and collecting cash (one charge) – offences under the MLA; and
 
-(b)     Bringing $8,000 cash out of Singapore and handing over to the UML’s runner in Malaysia (one charge).
+> (b)     Bringing $8,000 cash out of Singapore and handing over to the UML’s runner in Malaysia (one charge).
 
 ## SENTENCE
 

@@ -114,7 +114,7 @@ The Offender was sentenced as follows:
 
 28     However, of more pertinent consideration would be the Aggregation Principle, first referred to as such in _Raveen’s case_ (at Paragraph 79 of that case) and then in _Sutarno’s case_ as follows:
 
-“… The aggregation principle recognizes the fact that aggregation in such cases may result in a compounding effect that bears more than a linear relation to the overall criminality of the case, and that longer sentences may induce feelings of hopelessness that destroy the offender’s prospects of rehabilitation and reintegration. …” (at Paragraph 24)
+> “… The aggregation principle recognizes the fact that aggregation in such cases may result in a compounding effect that bears more than a linear relation to the overall criminality of the case, and that longer sentences may induce feelings of hopelessness that destroy the offender’s prospects of rehabilitation and reintegration. …” (at Paragraph 24)
 
 29     To give effect to the Aggregation Principle, I acceded to the Offender’s plea not to run the repeat drug trafficking sentence and the sentence for the LT-1 drug consumption offence consecutively. Besides the Aggregation Principle to be applied within the Totality Principle, there is nothing to bring the level of punishment down. I gave effect to the Aggregation Principle in this case by running the sentences for the repeat drug trafficking, the repeat possession of drugs, the repeat failure to report for urine test and the unlicensed driving consecutively.
 

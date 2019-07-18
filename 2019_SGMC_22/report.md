@@ -57,11 +57,11 @@ The Accused, a 55 years old male Chinese, faced 37 charges under s 22B(1) read w
 
 15     All interested food stall operators would have to agree with the following conditions –
 
-(i)     Sign a management agreement with Home Eatery;
+> (i)     Sign a management agreement with Home Eatery;
 
-(ii)     Obtain the National Environment Agency (“NEA”) food shop licence under the name of Home Eatery, and which would be displayed at the food stall; and
+> (ii)     Obtain the National Environment Agency (“NEA”) food shop licence under the name of Home Eatery, and which would be displayed at the food stall; and
 
-(iii)     Pay a monthly sum of $1,000/- to the Accused for each foreign worker.
+> (iii)     Pay a monthly sum of $1,000/- to the Accused for each foreign worker.
 
 16     The management agreement and the NEA licence were required to give the false impression that the food stall was under the management of Home Eatery in case of a surprise inspection by the authorities.
 
@@ -101,23 +101,23 @@ The Accused, a 55 years old male Chinese, faced 37 charges under s 22B(1) read w
 
 26     He has convictions on 7 Oct 10 as follows -
 
-(i)     Fined $6,000/- for the offence of employment a foreign worker without a valid work pass vide s 5(1) read with s 5(6) of the EFMA.
+> (i)     Fined $6,000/- for the offence of employment a foreign worker without a valid work pass vide s 5(1) read with s 5(6) of the EFMA.
 
-(ii)     Sentenced to eight weeks’ imprisonment on two counts, and two weeks’ imprisonment on seven counts, for the offence of abetting the making of a false statement to the Controller or Employment Inspector vide s 22(1)(d) read with s 23(1) punishable under s 22(1)(ii) of the EFMA. The global imprisonment sentence was 10 weeks.
+> (ii)     Sentenced to eight weeks’ imprisonment on two counts, and two weeks’ imprisonment on seven counts, for the offence of abetting the making of a false statement to the Controller or Employment Inspector vide s 22(1)(d) read with s 23(1) punishable under s 22(1)(ii) of the EFMA. The global imprisonment sentence was 10 weeks.
 
-(iii)     Two counts under s 5(1) read with s 5(6) of the EFMA, and one count under s 22(1)(d) read with s 23(1) punishable under s 22(1)(ii) of the EFMA, were taken into consideration for the purpose of sentencing.
+> (iii)     Two counts under s 5(1) read with s 5(6) of the EFMA, and one count under s 22(1)(d) read with s 23(1) punishable under s 22(1)(ii) of the EFMA, were taken into consideration for the purpose of sentencing.
 
 ## PROSECUTION’S SUBMISSION ON SENTENCE
 
 27     Mr Rias asked for the following sentences –
 
-(i)     Seven months’ imprisonment per charge for the four Hong Kong Street charges;
+> (i)     Seven months’ imprisonment per charge for the four Hong Kong Street charges;
 
-(ii)     Eight months’ imprisonment per charge for the nine Home Eatery and two Royal Success charges;
+> (ii)     Eight months’ imprisonment per charge for the nine Home Eatery and two Royal Success charges;
 
-(iii)     Two months’ imprisonment and fine $13,000/- for the one Royal Success charge under s 5(1) read with s 23(1) of the EFMA;
+> (iii)     Two months’ imprisonment and fine $13,000/- for the one Royal Success charge under s 5(1) read with s 23(1) of the EFMA;
 
-(iv)     A fine of $2,000/- in lieu of the caning provided for under s 22B(3) read with s 22B(2) of the EFMA, as the Accused could not be caned by virtue of his age.
+> (iv)     A fine of $2,000/- in lieu of the caning provided for under s 22B(3) read with s 22B(2) of the EFMA, as the Accused could not be caned by virtue of his age.
 
 28     Mr Rias asked for four of the imprisonment sentences to run consecutively, making the global sentence 30 months’ imprisonment and $15,000 fine. He also sought an order directing the Accused to pay the sum of $54,490/- under s 23A(1)(b) EFMA. This sum equals the amount which the Accused had received for obtaining the work passes in relation to the 15 proceeded charges under s 22B(1) EFMA.
 
@@ -173,11 +173,11 @@ The Accused, a 55 years old male Chinese, faced 37 charges under s 22B(1) read w
 
 42     Mr Rias cited 11 cases to show that his proposed sentences in relation to the s 22B(1) EFMA charges fell within the range of sentences imposed in these precedent cases. He then focused on three cases which were closest to the present case. These were –
 
-(i)      _PP v Lim Kien Peng \[MAC 1864/14 & Ors\](“Lim Kien Peng”)_: The offender was a director of a company. He obtained work passes for 30 foreigners for a shell company. It released them to seek their own employment. The offender received illicit gains of at least $30,000/-. He was convicted on five charges and 25 charges were TIC. He was sentenced to nine months’ imprisonment per charge, with three ordered to run consecutively. The total sentence was 27 months’ imprisonment.
+> (i)      _PP v Lim Kien Peng \[MAC 1864/14 & Ors\](“Lim Kien Peng”)_: The offender was a director of a company. He obtained work passes for 30 foreigners for a shell company. It released them to seek their own employment. The offender received illicit gains of at least $30,000/-. He was convicted on five charges and 25 charges were TIC. He was sentenced to nine months’ imprisonment per charge, with three ordered to run consecutively. The total sentence was 27 months’ imprisonment.
 
-(ii)      _PP v Toh Gim Por \[MAC 908018/15 & Ors\](“Toh Gim Por”)_: The offender submitted work pass applications for 37 foreigners under an inoperative company. He signed the forms in the name of a “sleeping” director. The workers were left to their own devises. He obtained illicit gains of $10,000/-. He was convicted on five charges and 41 charges were TIC. He was sentenced to 10 months’ imprisonment and $3,000/- fine per charge, with four ordered to run consecutively. The total sentence was 40 months’ imprisonment and fine $15,000/-.
+> (ii)      _PP v Toh Gim Por \[MAC 908018/15 & Ors\](“Toh Gim Por”)_: The offender submitted work pass applications for 37 foreigners under an inoperative company. He signed the forms in the name of a “sleeping” director. The workers were left to their own devises. He obtained illicit gains of $10,000/-. He was convicted on five charges and 41 charges were TIC. He was sentenced to 10 months’ imprisonment and $3,000/- fine per charge, with four ordered to run consecutively. The total sentence was 40 months’ imprisonment and fine $15,000/-.
 
-(iii)      _PP v Mui Chee Mun \[MAC 903992/16 & Ors\](“Mui Chee Mun”)_: The offender submitted work pass applications for 37 foreign workers. He signed the forms in the name of a “sleeping director”. The workers were released to look for their own employment. The offender obtained illicit gains of $46,250/-. He was convicted on 13 charges with 24 charges TIC. He was sentenced to 12 months’ imprisonment per charge, with three to run consecutively. The total sentence was 36 months’ imprisonment. He was also fined $2,000/- in lieu of caning.
+> (iii)      _PP v Mui Chee Mun \[MAC 903992/16 & Ors\](“Mui Chee Mun”)_: The offender submitted work pass applications for 37 foreign workers. He signed the forms in the name of a “sleeping director”. The workers were released to look for their own employment. The offender obtained illicit gains of $46,250/-. He was convicted on 13 charges with 24 charges TIC. He was sentenced to 12 months’ imprisonment per charge, with three to run consecutively. The total sentence was 36 months’ imprisonment. He was also fined $2,000/- in lieu of caning.
 
 ## ACCUSED’S MITIGATION
 
@@ -217,11 +217,11 @@ The Accused, a 55 years old male Chinese, faced 37 charges under s 22B(1) read w
 
 57     All considered, I imposed the following sentences –
 
-(i)     Seven months’ imprisonment on each of the four HKS charges;
+> (i)     Seven months’ imprisonment on each of the four HKS charges;
 
-(ii)     Eight months’ imprisonment for each of the seven Home Eatery charges; and
+> (ii)     Eight months’ imprisonment for each of the seven Home Eatery charges; and
 
-(iii)     Eight months’ imprisonment for each of the two Royal Success charges.
+> (iii)     Eight months’ imprisonment for each of the two Royal Success charges.
 
 ### Caning under s 22B(2) EFMA
 
@@ -229,11 +229,11 @@ The Accused, a 55 years old male Chinese, faced 37 charges under s 22B(1) read w
 
 59     In this, there was the issue whether caning should be imposed on each individual charge proceeded with (“individual offence approach”) or cumulatively on all the proceeded charges (“cumulative offences approach”). I accepted the submissions by Mr Rias that the cumulative offences approach should be adopted for s 22B(2) EFMA. The issue was canvassed in _Shanmugam P v PP_ <span class="citation">\[2000\] 1 SLR(R) 662</span> (_“Shanmugam P”_). _Shanmugam P_ dealt with s 57(1A) Immigration Act, Cap 133 (“IA”) which prescribed mandatory caning where the defendant had hired more than five immigration offenders. Yong Pung How CJ preferred the individual offence approach for the following reasons –
 
-(i)     It accorded with the plain and ordinary reading of the provision;
+> (i)     It accorded with the plain and ordinary reading of the provision;
 
-(ii)     It accorded with Parliament’s intention in providing for strict penalties in dealing with immigration law offenders; and
+> (ii)     It accorded with Parliament’s intention in providing for strict penalties in dealing with immigration law offenders; and
 
-(iii)     There is a general principle that the sentence for an offence should be specific and a separate sentence should be passed on each charge. There was nothing to indicate that this general principle ought to be departed from in this case.
+> (iii)     There is a general principle that the sentence for an offence should be specific and a separate sentence should be passed on each charge. There was nothing to indicate that this general principle ought to be departed from in this case.
 
 60     If the individual offence approach was adopted for s 22B(2) EFMA, then it practically meant that the offender would face a minimum mandatory of six strokes of the cane because of the second condition precedent that the offender must have been convicted on at least six charges at the same trial. I did not think that Parliament intended for this outcome. This condition precedent was not present in s 57(1A) IA. The IA provision could be invoked even if only one such charge was preferred or proceeded with, so long as it was proved to the satisfaction of the court that more than five immigration offenders were employed at the same time by the offender. There was therefore a good reason to depart from the general principle in \[59(iii)\] above. The wordings in s 22B(2) EFMA did not preclude the application of the cumulative offences approach.
 

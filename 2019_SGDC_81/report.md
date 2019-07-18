@@ -13,77 +13,77 @@
 
 1       The Accused pleaded guilty before me to three charges, namely:
 
-i.    DAC 902571/2018:
+> i.    DAC 902571/2018:
 
-“on 13 January 2018 at or about 3.23am, along Circular Road, Singapore, together with
+>> “on 13 January 2018 at or about 3.23am, along Circular Road, Singapore, together with
 
-Muhammad Irfan bin Rosli (male/18 years old) \[“Irfan’\],
+>> Muhammad Irfan bin Rosli (male/18 years old) \[“Irfan’\],
 
-Muhammad Sazali bin Mohd Azhari (Male/22 years old) \[“Sazali”\],
+>> Muhammad Sazali bin Mohd Azhari (Male/22 years old) \[“Sazali”\],
 
-Muhammad Luqman bin Hamzah (male/22 years old) \[“Luqman’\]and
+>> Muhammad Luqman bin Hamzah (male/22 years old) \[“Luqman’\]and
 
-Muhammad Fazli Bin Roslee (male/21 years old) \[“Fazli”\],
+>> Muhammad Fazli Bin Roslee (male/21 years old) \[“Fazli”\],
 
-were members of an unlawful assembly whose common object was to cause hurt to
+>> were members of an unlawful assembly whose common object was to cause hurt to
 
-Christopher Alan Thompson (male/19 years old) \[“Christopher”\],
+>> Christopher Alan Thompson (male/19 years old) \[“Christopher”\],
 
-Daniel Dowsa Collins (male/19 years old) \[“Daniel”\] and
+>> Daniel Dowsa Collins (male/19 years old) \[“Daniel”\] and
 
-Felix Alexander Wayland (male/19 years old) \[“Felix”\],
+>> Felix Alexander Wayland (male/19 years old) \[“Felix”\],
 
-and in the prosecution of the common object of the said assembly, some or all of you in the said assembly did use violence on them all, to wit, by punching and kicking them, and you have thereby committed an offence punishable under Section 147 of the Penal Code, Chapter 224”;
+>> and in the prosecution of the common object of the said assembly, some or all of you in the said assembly did use violence on them all, to wit, by punching and kicking them, and you have thereby committed an offence punishable under Section 147 of the Penal Code, Chapter 224”;
 
-ii.    DAC 917308/2018:
+> ii.    DAC 917308/2018:
 
-“on 1 July 2016, at or about 10.45 pm, at City Plaza located at 810 Geylang Road, Singapore, together with:
+>> “on 1 July 2016, at or about 10.45 pm, at City Plaza located at 810 Geylang Road, Singapore, together with:
 
-i.    \[M\] (Male/15 years old),
+>>> i.    \[M\] (Male/15 years old),
 
-ii.    Muhammad Haikel Danish Bin Sabtu (Male/16 years) \[“Haikel”\],
+>>> ii.    Muhammad Haikel Danish Bin Sabtu (Male/16 years) \[“Haikel”\],
 
-iii.   Muhammad Hanafi Bin Rahmat (Male/18 years old) \[“Hanafi”\],
+>>> iii.   Muhammad Hanafi Bin Rahmat (Male/18 years old) \[“Hanafi”\],
 
-iv.    Muhammad Ridwan Bin Atan (Male/19 years old) \[“Ridwan”\],
+>>> iv.    Muhammad Ridwan Bin Atan (Male/19 years old) \[“Ridwan”\],
 
-v.    Mohammed Safari Bin Ghani (Male/17 years old) \[“Safari”\],
+>>> v.    Mohammed Safari Bin Ghani (Male/17 years old) \[“Safari”\],
 
-vi.    Iman Jauhari Bin Suhadi (Male/17 years old) \[“Iman”\] and
+>>> vi.    Iman Jauhari Bin Suhadi (Male/17 years old) \[“Iman”\] and
 
-vii.   two unknown male subjects
+>>> vii.   two unknown male subjects
 
-were members of an unlawful assembly whose common object was to cause hurt to
+>> were members of an unlawful assembly whose common object was to cause hurt to
 
-Nur Amanullah Bin Nor Sheriff (Male/17 years old) \[“Amanullah’\],
+>> Nur Amanullah Bin Nor Sheriff (Male/17 years old) \[“Amanullah’\],
 
-Putera Muhammad Naufal Bin Zainal, (Male/17 years old) \[“Putera”\],
+>> Putera Muhammad Naufal Bin Zainal, (Male/17 years old) \[“Putera”\],
 
-Muhammad Khairuzan bin Zuraini (male/17 years old) \[“Khairuzan”\],
+>> Muhammad Khairuzan bin Zuraini (male/17 years old) \[“Khairuzan”\],
 
-Mohamad Sabir Bin Mohamad Yusof (Male/17 years old) \[“Sabir”\],
+>> Mohamad Sabir Bin Mohamad Yusof (Male/17 years old) \[“Sabir”\],
 
-Nur Irsyad Danial Bin Mohamad Isa (Male/18 years old) \[“Irsyad’\],
+>> Nur Irsyad Danial Bin Mohamad Isa (Male/18 years old) \[“Irsyad’\],
 
-Muhamad Hanafis bin Ismail Gani (male/17 years old) \[“Hanafis”\],
+>> Muhamad Hanafis bin Ismail Gani (male/17 years old) \[“Hanafis”\],
 
-Bijay Limbu (Male/18 years old) \[“Bijay”\] and
+>> Bijay Limbu (Male/18 years old) \[“Bijay”\] and
 
-Shamuel Pun (Male/17 years old) \[“Shamuel”\],
+>> Shamuel Pun (Male/17 years old) \[“Shamuel”\],
 
-and in the prosecution of the common object of the assembly, you and other members of the assembly had used violence on them, and you have thereby committed an offence punishable under section 147 of the Penal Code (Chapter 224, 2008 Rev Ed)”; and
+>> and in the prosecution of the common object of the assembly, you and other members of the assembly had used violence on them, and you have thereby committed an offence punishable under section 147 of the Penal Code (Chapter 224, 2008 Rev Ed)”; and
 
-iii.     DAC 932195/2018:
+> iii.     DAC 932195/2018:
 
-“being a full time National Serviceman in the Singapore Civil Defence Force who was rendering continuous full-time service at the relevant time and thereby subject to the Civil Defence Act, Chapter 42, being absent without authority, namely, by absenting yourself from your place of duty at the National Service Training Institute (NSTI), 91 Jalan Bahar, Singapore, without authority, from 6 September 2018 to 26 September 2018 (both dates inclusive), and you have committed an offence punishable under section 48(1) of the said Act”.
+>> “being a full time National Serviceman in the Singapore Civil Defence Force who was rendering continuous full-time service at the relevant time and thereby subject to the Civil Defence Act, Chapter 42, being absent without authority, namely, by absenting yourself from your place of duty at the National Service Training Institute (NSTI), 91 Jalan Bahar, Singapore, without authority, from 6 September 2018 to 26 September 2018 (both dates inclusive), and you have committed an offence punishable under section 48(1) of the said Act”.
 
 2       The Accused admitted to and gave his consent for three other charges to be taken into consideration, namely:
 
-i.     DAC 922270/2018: a similar offence of absence from National Service duty without authority under section 48(1) of the Civil Defence Act for the period of 12 February 2018 to 4 July 2018;
+> i.     DAC 922270/2018: a similar offence of absence from National Service duty without authority under section 48(1) of the Civil Defence Act for the period of 12 February 2018 to 4 July 2018;
 
-ii.     MAC 904990/2018: an offence of voluntarily causing hurt with common intention under section 323 read with section 34 of the Penal Code, committed on 1 July 2016; and
+> ii.     MAC 904990/2018: an offence of voluntarily causing hurt with common intention under section 323 read with section 34 of the Penal Code, committed on 1 July 2016; and
 
-iii.     MAC 904991/2018: an offence of voluntarily causing hurt with common intention under section 323 read with section 34 of the Penal Code, committed on 25 January 2017.
+> iii.     MAC 904991/2018: an offence of voluntarily causing hurt with common intention under section 323 read with section 34 of the Penal Code, committed on 25 January 2017.
 
 3       I sentenced the Accused to 21 months’ probation with conditions.
 
@@ -125,9 +125,9 @@ iii.     MAC 904991/2018: an offence of voluntarily causing hurt with commo
 
 17     Several members of both groups underwent medical examination. Most did not suffer any injuries except the following:
 
-(a)     Irsyad suffered left arm soreness and left foot pain.
+> (a)     Irsyad suffered left arm soreness and left foot pain.
 
-(b)     Sabir suffered slight tenderness over his left maxillary area.
+> (b)     Sabir suffered slight tenderness over his left maxillary area.
 
 18     By virtue of the foregoing, the Accused was a member of an unlawful assembly whose common object was to cause hurt to Khairuzan's group. In the prosecution of the common object of the unlawful assembly, the Accused and other members of the assembly had used violence on Khairuzan's group. The Accused has thereby committed an offence punishable under s 147 of the Penal Code, Chapter 224 (2008 Rev Ed). At the material time of the offence, the Accused was 18 years old.
 
@@ -135,11 +135,11 @@ iii.     MAC 904991/2018: an offence of voluntarily causing hurt with commo
 
 19     The co-accused persons in this case are:
 
-Luqman, Haziq, Irfan, Sazali and Fazli.
+> Luqman, Haziq, Irfan, Sazali and Fazli.
 
 20     The victims are:
 
-Christopher, Felix, and Daniel.
+> Christopher, Felix, and Daniel.
 
 21     Christopher was serving his National Service at the material time. Felix is a German National while Daniel is an Australian National, and were in Singapore to visit Christopher as they were childhood friends. None of the victims know the accused persons.
 
@@ -167,11 +167,11 @@ Christopher, Felix, and Daniel.
 
 33     The victims subsequently sought treatment at the Singapore General Hospital (“SGH”). Both Christopher and Daniel visited SGH on 13 January 2018, while Felix visited on 24 January 2018. They were found to have suffered the following injuries:
 
-(a)     Christopher: Nasal tenderness and oral mucosa wound in upper part left side and one loose tooth. He was diagnosed with having stable head injury with nasal contusion secondary to blunt assault. He was given 3 days’ medical leave from 13 January to 15 January 2018.
+> (a)     Christopher: Nasal tenderness and oral mucosa wound in upper part left side and one loose tooth. He was diagnosed with having stable head injury with nasal contusion secondary to blunt assault. He was given 3 days’ medical leave from 13 January to 15 January 2018.
 
-(b)     Felix: Right lower chest wall has mild tenderness. He was diagnosed with minor injury.
+> (b)     Felix: Right lower chest wall has mild tenderness. He was diagnosed with minor injury.
 
-(c)     Daniel: Superficial scalp abrasions with bilateral periorbital ecchymoses, mild tenderness over the right angle of mandible and over the left lateral chest wall. He was diagnosed with minor head injury and multiple facial abrasions.
+> (c)     Daniel: Superficial scalp abrasions with bilateral periorbital ecchymoses, mild tenderness over the right angle of mandible and over the left lateral chest wall. He was diagnosed with minor head injury and multiple facial abrasions.
 
 34     The Accused, together with the four co-accused persons and other unknown persons, were members of an unlawful assembly whose common object was to cause hurt to the three victims, and he had therefore committed an offence punishable under s 147 of the Penal Code. At the material time of the offence, the Accused was 19 years old.
 
@@ -209,23 +209,23 @@ Christopher, Felix, and Daniel.
 
 47     In mitigation, the Defence Counsel set out the following mitigating factors:
 
-i.     the Accused’s show of remorse through his guilty plea and he has been fully cooperative with the police.
+> i.     the Accused’s show of remorse through his guilty plea and he has been fully cooperative with the police.
 
-ii.     the circumstances leading to the commission of the offences:
+> ii.     the circumstances leading to the commission of the offences:
 
-a.        The first rioting offence
+>> a.        The first rioting offence
 
-The Accused happened to be with a friend when they were asked to help out hence he had followed along.
+>> The Accused happened to be with a friend when they were asked to help out hence he had followed along.
 
-b.        The second rioting offence
+>> b.        The second rioting offence
 
-The Accused was again happened to be on the scene when he spotted his brother Irfan being bumped into by one of the victims. He became upset by the act of the victim and joined Irfan in chasing after the victim which led him to participate in the rioting offence.
+>> The Accused was again happened to be on the scene when he spotted his brother Irfan being bumped into by one of the victims. He became upset by the act of the victim and joined Irfan in chasing after the victim which led him to participate in the rioting offence.
 
-c.        The Absence Without Leave (“AWOL”) offence
+>> c.        The Absence Without Leave (“AWOL”) offence
 
-The Accused had gone to work during this period of time in order to help ease the financial stress on his family.
+>> The Accused had gone to work during this period of time in order to help ease the financial stress on his family.
 
-iii.     The Accused had been in remand for almost 5 months and therefore had experienced the element of deterrence.
+> iii.     The Accused had been in remand for almost 5 months and therefore had experienced the element of deterrence.
 
 #### The Principles of Sentencing
 
@@ -239,11 +239,11 @@ iii.     The Accused had been in remand for almost 5 months and therefore h
 
 51     Nonetheless, I note that the Accused had already been subjected to a strong dose of deterrence brought about by his remand of 5 months by the time he was sentenced. In fact, on closer examination of the history of the case from the court records, I realised that the Accused had actually been remanded for a much longer period of 221 days i.e. over 7 months as follows:
 
-i.     7 days from 20 to 26 January 2018 for purpose of investigations.
+> i.     7 days from 20 to 26 January 2018 for purpose of investigations.
 
-ii.     61 days from 7 July to 5 September 2018 as he could not raise bail.
+> ii.     61 days from 7 July to 5 September 2018 as he could not raise bail.
 
-iii.     153 days from 27 September 2018 to 26 February 2019 as bail was revoked.
+> iii.     153 days from 27 September 2018 to 26 February 2019 as bail was revoked.
 
 52     The Prosecution tried to argue that the remand was the result of the Accused’s own doing due to his reoffending and should not be used to change what is an appropriate sentence. I disagree. Periods of remand are usually taken into consideration as a matter of course when backdating sentences of imprisonment or in calibrating the sentence to be imposed. This is so regardless of whether an offender was in remand right from the moment he was charged in court or subsequently when he re-offended and bail was either raised or revoked. An offender should not be punished further for failure to be bailed out.
 
@@ -251,25 +251,25 @@ iii.     153 days from 27 September 2018 to 26 February 2019 as bail was re
 
 54     This good potential for rehabilitation is consistent with the recommendation for probation in the Probation Report. I found that the Accused has been sufficiently punished and it is time for the Accused to focus more on rehabilitation within the community he would eventually return to. The Probation Report has put up a strong case for why he can be rehabilitated within the community by highlighting the following positive factors:
 
-i.     Mother and siblings’ insights into the Accused’s needs and struggles. There was verbalised openness to improve parenting and supervision indicating a strong familial support for the Accused’s rehabilitation;
+> i.     Mother and siblings’ insights into the Accused’s needs and struggles. There was verbalised openness to improve parenting and supervision indicating a strong familial support for the Accused’s rehabilitation;
 
-ii.     The Accused’s period of remand and his grandfather’s death during the same period had invoked reflection on his behaviours;
+> ii.     The Accused’s period of remand and his grandfather’s death during the same period had invoked reflection on his behaviours;
 
-iii.     The Accused presented as an individual open and willing to receive intervention; and
+> iii.     The Accused presented as an individual open and willing to receive intervention; and
 
-iv.     The Accused expressed willingness to work towards staying constructively engaged.
+> iv.     The Accused expressed willingness to work towards staying constructively engaged.
 
 55     I also found that the probation conditions recommended which will last 21 months, comprehensive addressing the following risk factors in the Accused:
 
-i.     Poor consequential thinking and respect for the law;
+> i.     Poor consequential thinking and respect for the law;
 
-ii.     Negative peer influence and misguided peer loyalty;
+> ii.     Negative peer influence and misguided peer loyalty;
 
-iii.     Emotional regulation and his poor coping methods such as self-harm and use of aggression;
+> iii.     Emotional regulation and his poor coping methods such as self-harm and use of aggression;
 
-iv.     Poor parental supervision and guidance on part of the Accused’s mother in the past; and
+> iv.     Poor parental supervision and guidance on part of the Accused’s mother in the past; and
 
-v.     Accused’s need to attend to the family’s financial responsibilities.
+> v.     Accused’s need to attend to the family’s financial responsibilities.
 
 56     In my view, this comprehensive programme to tackle the Accused’s risk factors, over a longer period will clearly have a stronger and more lasting effect than a 6-month reformative training programme as it will keep the Accused on his toes for a longer period of time. As the deterrent effect of a 6-month reformative training sentence had already been taken care of by the 7-month remand, it is clearly a better option for the Accused to undergo a more comprehensive and longer lasting rehabilitative programme within the community. This will augur well for a more successful reintegration into society and I see no reason to delay that by incarcerating the Accused for a further 6-month period.
 
@@ -279,13 +279,13 @@ v.     Accused’s need to attend to the family’s financial responsibilit
 
 59     I had accordingly sentenced the Accused to probation for 21 months with the following conditions:
 
-a)     Time Restriction for the Accused to remain at home from 10pm to 6am subject to his National Service obligations;
+> a)     Time Restriction for the Accused to remain at home from 10pm to 6am subject to his National Service obligations;
 
-b)     To perform 100 hours of community service;
+> b)     To perform 100 hours of community service;
 
-c)     Progress Accountability Court review in 4 months for the Accused to provide a personal account of his progress under probation; and
+> c)     Progress Accountability Court review in 4 months for the Accused to provide a personal account of his progress under probation; and
 
-d)     Mother to be bonded for $5000 to ensure the good behaviour of the Accused.
+> d)     Mother to be bonded for $5000 to ensure the good behaviour of the Accused.
 
 60     The order of probation had been held in abeyance pending the hearing of the appeal.
 

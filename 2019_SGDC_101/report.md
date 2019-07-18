@@ -15,7 +15,7 @@ This are my grounds setting out the basis for the conviction of Mr Muhammad Shah
 
 2       Mr Shahidin has claimed trial to the following charge[^1] of an offence under section 5(1)(a) read with section 5(2) of the Misuse of Drugs Act (Cap 185, 2008 Rev Ed) and Section 34 of the Penal Code (Cap 224, 2008 Rev Ed), punishable under s 33(1) of the Misuse of Drugs Act (Cap 185, 2008 Rev Ed).
 
-… that (he), on 2 August 2016 at about 6.15 p.m., at Blk 402, Hougang Avenue 10, Singapore 530402, together with one Muhammad Zulkifli Bin Syed Ali, **_in furtherance of the common intention_** of both of you, did traffic in a Class A Controlled Drug listed in the First Schedule to the Misuse of Drugs Act…, to wit, by having in your possession for the purpose of trafficking, one (01) packet containing not less than 0.50 gram of crystalline substance which was pulverized and homogenized into a powdery substance which was analysed and found to contain not less than 0.33 gram of methamphetamine…
+> … that (he), on 2 August 2016 at about 6.15 p.m., at Blk 402, Hougang Avenue 10, Singapore 530402, together with one Muhammad Zulkifli Bin Syed Ali, **_in furtherance of the common intention_** of both of you, did traffic in a Class A Controlled Drug listed in the First Schedule to the Misuse of Drugs Act…, to wit, by having in your possession for the purpose of trafficking, one (01) packet containing not less than 0.50 gram of crystalline substance which was pulverized and homogenized into a powdery substance which was analysed and found to contain not less than 0.33 gram of methamphetamine…
 
 3       Plainly stated, Mr Shahidin is charged with having on 2 August 2016 at about 6.15 p.m., at Blk 402, Hougang Avenue 10, together with one Muhammad Zulkifli Bin Syed Ali, acting on their common intention to traffic in methamphetamine, by having in possession, for the purpose of trafficking, one packet which was found, upon analysis to contain not less than 0.33 gram of methamphetamine, better known in its street name of ‘**_Ice_**’. Mr Shahidin had initially faced a joint trial with Mr Zulkifli, but the latter had fled prior to the first day of trial[^2]. Mr Shahidin, the remaining accused person, had confirmed his intent to claim trial, and the trial had thus proceeded against the charge he faced. Mr Zulkifli was subsequently arrested, and produced in Court 26 on 30 December 2017.
 
@@ -27,27 +27,27 @@ This are my grounds setting out the basis for the conviction of Mr Muhammad Shah
 
 6       The areas of dispute in this case have been greatly reduced by the prosecution and defence stipulating certain agreed facts, and formalising this agreement by a document setting out an agreed statement of facts[^3]. Per this document, the salient settled facts[^4] are as follows:
 
-3.    On 2 August 2016, at or about 5.45 p.m., acting on information received, ASP Lim Peng Chye ("ASP Lim") led a party of officers from the Central Narcotics Bureau …to the vicinity of Blk 402 to look out for Shahidin. Sgt Ibrahim was tasked to observe unit #XXX of Blk 402 Hougang Ave 10 ("the unit").
+> 3.    On 2 August 2016, at or about 5.45 p.m., acting on information received, ASP Lim Peng Chye ("ASP Lim") led a party of officers from the Central Narcotics Bureau …to the vicinity of Blk 402 to look out for Shahidin. Sgt Ibrahim was tasked to observe unit #XXX of Blk 402 Hougang Ave 10 ("the unit").
 
-4    At or about 6.15 p.m., Sgt Ibrahim informed the other CNB officers over radio that he has just seen two male subjects leave the unit. ASP Lim then instructed the rest of the CNB officers to proceed to the ground floor lift landing of Blk 402 to arrest the said two male subjects.
+> 4    At or about 6.15 p.m., Sgt Ibrahim informed the other CNB officers over radio that he has just seen two male subjects leave the unit. ASP Lim then instructed the rest of the CNB officers to proceed to the ground floor lift landing of Blk 402 to arrest the said two male subjects.
 
-5    A short while later, Shahidin and Zulkifli came out of one of the lifts and were placed under arrest at the ground floor lift lobby. Both Shahidin and Zulkifli were then brought to the void deck of Blk 402, where each of them were searched.
+> 5    A short while later, Shahidin and Zulkifli came out of one of the lifts and were placed under arrest at the ground floor lift lobby. Both Shahidin and Zulkifli were then brought to the void deck of Blk 402, where each of them were searched.
 
-6.    Cpl Laila conducted the search on Shahidin. Nothing incriminating was found on Shahidin, Sgt Zakaria conducted the search on Zulkifli. Sgt Zakaria recovered the following items from a red plastic bag that Zulkifli was carrying [^5]:
+> 6.    Cpl Laila conducted the search on Shahidin. Nothing incriminating was found on Shahidin, Sgt Zakaria conducted the search on Zulkifli. Sgt Zakaria recovered the following items from a red plastic bag that Zulkifli was carrying [^5]:
 
-(a)    One Bluetooth headset box[^6], containing one red plastic bag[^7] (later marked as) containing one green "Pall Mall" cigarette box[^8] containing one packet of crystalline substance.[^9]
+>> (a)    One Bluetooth headset box[^6], containing one red plastic bag[^7] (later marked as) containing one green "Pall Mall" cigarette box[^8] containing one packet of crystalline substance.[^9]
 
-…
+> …
 
-7 …    Later on the same day, at the CNB office of Tanglin Police Division Headquarters, Sgt Sam Toh seized Shahidiri's personal items, which includes one blue Samsung phone[^10]…
+> 7 …    Later on the same day, at the CNB office of Tanglin Police Division Headquarters, Sgt Sam Toh seized Shahidiri's personal items, which includes one blue Samsung phone[^10]…
 
-…
+> …
 
-9 …    (The) packet containing not less than 0.50 gram of crystalline substance which was pulverised and homogenised into a powdery substance, which was analysed and found to contain not less than 0.33 gram of methamphetamine.
+> 9 …    (The) packet containing not less than 0.50 gram of crystalline substance which was pulverised and homogenised into a powdery substance, which was analysed and found to contain not less than 0.33 gram of methamphetamine.
 
-14.    (The DNA Profiling Laboratory) report states that Shahidin's DNA was found on the interior of … (the) Bluetooth headset box) as well as the exterior of (the)… green "Pall Mall" cigarette box.
+> 14.    (The DNA Profiling Laboratory) report states that Shahidin's DNA was found on the interior of … (the) Bluetooth headset box) as well as the exterior of (the)… green "Pall Mall" cigarette box.
 
-15    Investigations revealed that Shahidin's blue Samsung phone marked as "SHAH-I" corresponded to the number XXX.
+> 15    Investigations revealed that Shahidin's blue Samsung phone marked as "SHAH-I" corresponded to the number XXX.
 
 ### Evidence of PW1; W/SSG Nurfarhanah Osman, and PW2; SSG Eugene Tong Kecheng
 
@@ -55,47 +55,47 @@ This are my grounds setting out the basis for the conviction of Mr Muhammad Shah
 
 8       W/SSG Nurfarhanah had been part of the arresting party, and indicated that she had been briefed to proceed to Block 402 Hougang Avenue 10 ‘**_to look out for a suspected trafficker by the name of Din’_**.[^13] The team was told that ‘Din’s’ full name was Mohammad Shahidin Bin Sahurdin[^14]. At the scene, W/SSG Nurfarhanah had received information that there were two suspects leaving a unit at level 7. The officers deployed around the void deck of Block 402 Hougang Avenue 10 had waited for the two suspects to emerge from the lift before effecting arrest. Both were searched by CNB officers at different sites, and one of the officer recovered a packet of drug in a cigarette box. PW1 learnt that the person found with the drugs was Mr Zulkifli, and not the accused; Mr Shahidin. W/SSG Nurfahanah had recorded a contemporaneous statement from Mr Shahidin, with the salient portions set out[^15].
 
-Q1:Who is this? (_Mr Fadli’s image shown to accused_)
+> Q1:Who is this? (_Mr Fadli’s image shown to accused_)
 
-A1:He is Amad, he is my friend’s brother and I known him since 2004.
+> A1:He is Amad, he is my friend’s brother and I known him since 2004.
 
-Q2:What is the purpose of him coming to Hougang Avenue 10 Blk 402?
+> Q2:What is the purpose of him coming to Hougang Avenue 10 Blk 402?
 
-A2:Amad came down to **_see me_**.
+> A2:Amad came down to **_see me_**.
 
-Q3:Why did Amad want to see you?
+> Q3:Why did Amad want to see you?
 
-A3:He want to take “barang” from my friend “Beng” (_Beng was ascertained to be Mr Zulkifli_).
+> A3:He want to take “barang” from my friend “Beng” (_Beng was ascertained to be Mr Zulkifli_).
 
-Q4:What “barang”
+> Q4:What “barang”
 
-A4“Barang” refers to 0.5g of “Ice”. Amad wanted 0.5 g of Ice from “Beng”.
+> A4“Barang” refers to 0.5g of “Ice”. Amad wanted 0.5 g of Ice from “Beng”.
 
-Q5:What is this (Mr Shahidin is shown seized items)
+> Q5:What is this (Mr Shahidin is shown seized items)
 
-A5:This is the “Ice” that I helped Amad order from “Beng”.
+> A5:This is the “Ice” that I helped Amad order from “Beng”.
 
-Q6;What is it for?
+> Q6;What is it for?
 
-A6:It is for Amad.
+> A6:It is for Amad.
 
-Q7:How much does Amad give to you?
+> Q7:How much does Amad give to you?
 
-A7: **_I quoted him_** 0.5g at $70-80.
+> A7: **_I quoted him_** 0.5g at $70-80.
 
-Q8:Who did you order the packet of “Ice” from?
+> Q8:Who did you order the packet of “Ice” from?
 
-A8:I ordered it from “Beng” for Amad.
+> A8:I ordered it from “Beng” for Amad.
 
-Q9:How many times have you helped Amad order “Ice” through “Beng”?
+> Q9:How many times have you helped Amad order “Ice” through “Beng”?
 
-A9:I **_helped Amad two times to order “Ice” from “Beng”._**
+> A9:I **_helped Amad two times to order “Ice” from “Beng”._**
 
-Q10:What do you get in return for helping Amad to order “Ice’?
+> Q10:What do you get in return for helping Amad to order “Ice’?
 
-A10:“**_Beng” would pay me with a pack of cigarettes_**.
+> A10:“**_Beng” would pay me with a pack of cigarettes_**.
 
-\[_Emphasis added_\]
+> \[_Emphasis added_\]
 
 ### Evidence of PW3; CNB FORT officer Koh Kok Sim
 
@@ -115,7 +115,207 @@ A10:“**_Beng” would pay me with a pack of cigarettes_**.
 
 14     Mr Fadli’s evidence in the manner of his dealings with Mr Shahidin, whom he habitually referred to in court under the moniker ‘_Din_’, is especially cogent. A salient portion of his testimony is therefore reproduced below[^19]:
 
-<table align="left" cellpadding="0" cellspacing="0" class="Judg-2" frame="none" pgwide="1"><colgroup><col width="19%"> <col width="81%"> </colgroup><tbody><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Q</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Okay. So, earlier, you said that you bought your Ice from this friend, Din. How did you come to know that Din was selling Ice?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">A</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">From my friends.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Q</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b><em>So, after you heard that Din was selling Ice, did you ask Din whether he is selling Ice?</em></b></p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">A</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b><em>Yah.</em></b></p></td></tr><tr><td align="left" class="" colspan="2" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">…</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Q</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Did you ask him in person or over the phone?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">A</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Over the phone.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Q</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">And do you remember if you called him or he called you?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">A</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">I think I called him.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Q</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">You called him?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">A</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Call or text.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Q</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b><em>And when you asked Din whether he was selling Ice, what did he say?</em></b></p></td></tr><tr><td align="left" class="" colspan="2" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">…</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">A</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b><em>He need to ask his friend</em></b>.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Q</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Did he say that he was selling Ice?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">A</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Say---he didn’t say that he was selling Ice. He just say he can get for me.</p></td></tr><tr><td align="left" class="" colspan="2" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">…</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Witness:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">He wasn’t the supplier. He only just say he try to get from someone or what.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Court:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">“He only said that he can”?</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Witness:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">He try to get from someone or---</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Court:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">He had to get it from someone. I see.</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Q</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b><em>Did Din tell you to contact someone else to buy the Ice?</em></b></p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">A</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b><em>No.</em></b></p></td></tr><tr><td align="left" class="" colspan="2" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">[<em>Emphasis added</em>]</p></td></tr></tbody></table>
+>   
+| 
+
+Q
+
+ | 
+
+Okay. So, earlier, you said that you bought your Ice from this friend, Din. How did you come to know that Din was selling Ice?
+
+ |
+| 
+
+A
+
+ | 
+
+From my friends.
+
+ |
+| 
+
+Q
+
+ | 
+
+**_So, after you heard that Din was selling Ice, did you ask Din whether he is selling Ice?_**
+
+ |
+| 
+
+A
+
+ | 
+
+**_Yah._**
+
+ |
+| 
+
+…
+
+ |
+| 
+
+Q
+
+ | 
+
+Did you ask him in person or over the phone?
+
+ |
+| 
+
+A
+
+ | 
+
+Over the phone.
+
+ |
+| 
+
+Q
+
+ | 
+
+And do you remember if you called him or he called you?
+
+ |
+| 
+
+A
+
+ | 
+
+I think I called him.
+
+ |
+| 
+
+Q
+
+ | 
+
+You called him?
+
+ |
+| 
+
+A
+
+ | 
+
+Call or text.
+
+ |
+| 
+
+Q
+
+ | 
+
+**_And when you asked Din whether he was selling Ice, what did he say?_**
+
+ |
+| 
+
+…
+
+ |
+| 
+
+A
+
+ | 
+
+**_He need to ask his friend_**.
+
+ |
+| 
+
+Q
+
+ | 
+
+Did he say that he was selling Ice?
+
+ |
+| 
+
+A
+
+ | 
+
+Say---he didn’t say that he was selling Ice. He just say he can get for me.
+
+ |
+| 
+
+…
+
+ |
+| 
+
+Witness:
+
+ | 
+
+He wasn’t the supplier. He only just say he try to get from someone or what.
+
+ |
+| 
+
+Court:
+
+ | 
+
+“He only said that he can”?
+
+ |
+| 
+
+Witness:
+
+ | 
+
+He try to get from someone or---
+
+ |
+| 
+
+Court:
+
+ | 
+
+He had to get it from someone. I see.
+
+ |
+| 
+
+Q
+
+ | 
+
+**_Did Din tell you to contact someone else to buy the Ice?_**
+
+ |
+| 
+
+A
+
+ | 
+
+**_No._**
+
+ |
+| 
+
+\[_Emphasis added_\]
+
+ |
 
   
   
@@ -126,29 +326,29 @@ A10:“**_Beng” would pay me with a pack of cigarettes_**.
 
 16     Mr Fadli did, however, recall collecting his drug purchase from a dark complexioned man[^20] in a prior transaction (which was the second of two such transactions before Mr Fadli’s arrest), who **_could_** have been Mr Zulkifli. Mr Shahidin had not introduced this individual, and Mr Fadli had never communicated with this person then or subsequently. Salient parts of his testimony in this aspect is as follows[^21]:
 
-Q **_Now, Mr Fadli…do you know anyone called Muhammad Zulkifli Bin Syed Ali?_**
+> Q **_Now, Mr Fadli…do you know anyone called Muhammad Zulkifli Bin Syed Ali?_**
 
-A **_I don’t know._**
+> A **_I don’t know._**
 
-Q **_Have you every communicated with anyone with this name?_**
+> Q **_Have you every communicated with anyone with this name?_**
 
-A **_No._**
+> A **_No._**
 
-QAnd have you ever bought Ice from anyone with this name?
+> QAnd have you ever bought Ice from anyone with this name?
 
-ANo. Maybe, the person that the second I meet, right, it may be him that’s him or---I don’t know who’s that person.
+> ANo. Maybe, the person that the second I meet, right, it may be him that’s him or---I don’t know who’s that person.
 
-QBut you don’t know for sure that this is---
+> QBut you don’t know for sure that this is---
 
-AYah, I don’t know.
+> AYah, I don’t know.
 
-Q **_And, earlier, you said that you have never communicated directly with the person who met you that time._**
+> Q **_And, earlier, you said that you have never communicated directly with the person who met you that time._**
 
-A **_Yah._**
+> A **_Yah._**
 
-QYou confirm that?
+> QYou confirm that?
 
-AYes.
+> AYes.
 
 17     After his co-option on 2 August 2016, Mr Fadli had been instructed by CNB officers to contact the person he bought drugs from, after his own arrest. Mr Fadli in his court testimony confirmed that the record of communications prepared by Sgt Norjansher, who had been beside Mr Fadli during his communications with Mr Shahidin) to be an accurate reflection of several calls and _WhatApp_ messages that he had stated to be with Mr Shahidin in the afternoon of 2 August 2016. This aspect of the evidence will be set out, and discussed later in these grounds.
 
@@ -166,19 +366,19 @@ AYes.
 
 22     Mr Shahidin’s statement was admitted as part of the prosecution’s case[^25] after he had confirmed that it had been voluntarily provided. A close reading shows Mr Shahidin’s role to be considerably greater than his characterisation at trial of being a generally disinterested party who merely referred Mr Fadli to Mr Zulkifli to purchase his drug supply. The salient parts of the statement are set out.
 
-2.    On 02 August 2016 (Tuesday), at around 1815hrs, I was arrested together with friend[^26], (Mr Muhammad Zulkifi Bin Syed Ali, NRIC No: XXX) by a party of officers who identified themselves as CNB officers inside the lift at the ground floor lobby at Blk 402, Hougang Ave 10, # XXX. The party of CNB officers arrested us when we are about to walk out from the lift. We were immediately handcuffed by the CNB officers inside the lift. The party of CNB officers escorted us out from the lift and a body search was conducted on me. Nothing incriminating was seized from me. A body search was also conducted on (Mr Zulkifli) by CNB officers. I overheard that a packet of "Ice" was seized by CNB officers.
+> 2.    On 02 August 2016 (Tuesday), at around 1815hrs, I was arrested together with friend[^26], (Mr Muhammad Zulkifi Bin Syed Ali, NRIC No: XXX) by a party of officers who identified themselves as CNB officers inside the lift at the ground floor lobby at Blk 402, Hougang Ave 10, # XXX. The party of CNB officers arrested us when we are about to walk out from the lift. We were immediately handcuffed by the CNB officers inside the lift. The party of CNB officers escorted us out from the lift and a body search was conducted on me. Nothing incriminating was seized from me. A body search was also conducted on (Mr Zulkifli) by CNB officers. I overheard that a packet of "Ice" was seized by CNB officers.
 
-3.    After the body search was conducted on me, the same party of CNB officers escorted me to my unit at level seven and conducted house search inside the room that my family is renting. Nothing incriminating was seized from the room search…
+> 3.    After the body search was conducted on me, the same party of CNB officers escorted me to my unit at level seven and conducted house search inside the room that my family is renting. Nothing incriminating was seized from the room search…
 
-7.    On 02 August 2016 (Tuesday), at around 1200hrs, I met up with (Mr Zulkifli) at the vicinity of Serangoon North. We took bus to Fahrenheit clinic located at 218 Bedok Street 1. At around 1500hrs, (Mr Zulkifli) companied me to consult doctor. At around 1500hrs plus, I received a call from (Mr Fadli)[^27]**_I know_** (Mr Fadli) **_since year 2004 through_** (Mr Fadli’s) **_older brother. He asked me if my side have "Ice" or not._** (Mr Fadli) **_requested for 0.5 gram of "Ice". I told him that I will check and update him again later. After the call conversation, I checked with_** (Mr Zulkifli) **_if he had supply for 0.5 gram of "Ice", I called back (_**Mr Fadli) **_using my hand phone to inform him that I had supply for 0.5 gram of "Ice" which was from_** (Mr Zulkifli). (Mr Fadli) informed me to meet at serangoon Blk 101 at 7pm. After the consultation of doctor, I together with (Mr Zulkifli) went back to my residential at Hougang to play computer games.
+> 7.    On 02 August 2016 (Tuesday), at around 1200hrs, I met up with (Mr Zulkifli) at the vicinity of Serangoon North. We took bus to Fahrenheit clinic located at 218 Bedok Street 1. At around 1500hrs, (Mr Zulkifli) companied me to consult doctor. At around 1500hrs plus, I received a call from (Mr Fadli)[^27]**_I know_** (Mr Fadli) **_since year 2004 through_** (Mr Fadli’s) **_older brother. He asked me if my side have "Ice" or not._** (Mr Fadli) **_requested for 0.5 gram of "Ice". I told him that I will check and update him again later. After the call conversation, I checked with_** (Mr Zulkifli) **_if he had supply for 0.5 gram of "Ice", I called back (_**Mr Fadli) **_using my hand phone to inform him that I had supply for 0.5 gram of "Ice" which was from_** (Mr Zulkifli). (Mr Fadli) informed me to meet at serangoon Blk 101 at 7pm. After the consultation of doctor, I together with (Mr Zulkifli) went back to my residential at Hougang to play computer games.
 
-8.    At around 1700hrs plus, (Mr Fadli) messaged me and informed that he will be heading down to "7-11" located at Blk 401 Hougang to get 0.5gram of "Ice" from (Mr Zulkifli). I informed (Mr Zulkifli) that (Mr Fadli) is on the way down to collect the 0.5 gram of "Ice". Inside my room, I witnessed (Mr Zulkifli) packing one packet of "Ice”… I witnessed (Mr Zulkifli) taking a packet of "Ice" into an empty packet of green colour "PALL MALL" cigarette box[^28]. I did not noticed (_sic_) where he took out the packet of "Ice" from. This empty packet of green colour "PALL MALL" cigarette box belonged to me. I am a smoker and only smoke green colour "PALL MALL" cigarettes. My house has many empty packets of "PALL MALL" cigarettes boxes. After placing the packet of "Ice" into the "PALL MALL" cigarette box, he placed the cigarette box into a red colour plastic bag[^29]. He then placed the red colour plastic bag into an empty Bluetooth headset box[^30]. After that, he placed this empty Bluetooth headset box into a red colour plastic bag. The two red colour plastic bags[^31], and also the empty Bluetooth headset box. I confirmed that the packet of "Ice"[^32] does not belonged(sic) to me. I do not have any knowledge of this packet of "Ice", I only know is from (Mr Zulkifli). I confirmed never touch this packet of "Ice" before. This packet of "Ice" belonged to (Mr Zulkifli).
+> 8.    At around 1700hrs plus, (Mr Fadli) messaged me and informed that he will be heading down to "7-11" located at Blk 401 Hougang to get 0.5gram of "Ice" from (Mr Zulkifli). I informed (Mr Zulkifli) that (Mr Fadli) is on the way down to collect the 0.5 gram of "Ice". Inside my room, I witnessed (Mr Zulkifli) packing one packet of "Ice”… I witnessed (Mr Zulkifli) taking a packet of "Ice" into an empty packet of green colour "PALL MALL" cigarette box[^28]. I did not noticed (_sic_) where he took out the packet of "Ice" from. This empty packet of green colour "PALL MALL" cigarette box belonged to me. I am a smoker and only smoke green colour "PALL MALL" cigarettes. My house has many empty packets of "PALL MALL" cigarettes boxes. After placing the packet of "Ice" into the "PALL MALL" cigarette box, he placed the cigarette box into a red colour plastic bag[^29]. He then placed the red colour plastic bag into an empty Bluetooth headset box[^30]. After that, he placed this empty Bluetooth headset box into a red colour plastic bag. The two red colour plastic bags[^31], and also the empty Bluetooth headset box. I confirmed that the packet of "Ice"[^32] does not belonged(sic) to me. I do not have any knowledge of this packet of "Ice", I only know is from (Mr Zulkifli). I confirmed never touch this packet of "Ice" before. This packet of "Ice" belonged to (Mr Zulkifli).
 
-9.    After (Mr Zulkifli) finished packing the packet of "Ice", we took lift and went down together to meet (Mr Fadli), (Mr Zulkifli) was holding on to the red colour plastic bag containing one packet of "Ice". Once we landed at the ground floor, both of us were arrested by CNB officers.
+> 9.    After (Mr Zulkifli) finished packing the packet of "Ice", we took lift and went down together to meet (Mr Fadli), (Mr Zulkifli) was holding on to the red colour plastic bag containing one packet of "Ice". Once we landed at the ground floor, both of us were arrested by CNB officers.
 
-10.    This is the second time that I helping (Mr Fadli) to order from (Mr Zulkifli), The first time that I help (Mr Fadli) to order through (Mr Zulkifli) was earlier last month. I am unable to recall the actual date. (Mr Fadli) contacted me through phone to place the order on the first occasion. That is the first time I arranged both of them meet up. I relay the messages to both of them to meet up at Serangoon North Blk 101. The reason why I think this time (02 August 2016) he contacted me and placed order through me is because he was unable to get through (Mr Zulkifli) himself. (Mr Fadli) knew that most of the time me and (Mr Zulkifli) will be together as we are working in the company as store-man. Prior to the meet up with (Mr Fadli), (Mr Zulkifli) agreed to buy for me one (01) packet of cigarette. (Mr Fadli) is the only person that I introduced (Mr Zulkifli) to, (Mr Fadli) already knew the price for the packet of 0.5 gram of "Ice" as both (Mr Zulkifli) and (Mr Fadli) transacted before. The price for the packet of 0.5 gram of "Ice" should be roughly _S$70_ to _S$80._ The first time, (Mr Zulkifli) sold to (Mr Fadli) for 0.5 gram of "Ice" for the price of around _$70_ to _$80._ I not sure how many times both of them meet each other after I introduce to both of them.
+> 10.    This is the second time that I helping (Mr Fadli) to order from (Mr Zulkifli), The first time that I help (Mr Fadli) to order through (Mr Zulkifli) was earlier last month. I am unable to recall the actual date. (Mr Fadli) contacted me through phone to place the order on the first occasion. That is the first time I arranged both of them meet up. I relay the messages to both of them to meet up at Serangoon North Blk 101. The reason why I think this time (02 August 2016) he contacted me and placed order through me is because he was unable to get through (Mr Zulkifli) himself. (Mr Fadli) knew that most of the time me and (Mr Zulkifli) will be together as we are working in the company as store-man. Prior to the meet up with (Mr Fadli), (Mr Zulkifli) agreed to buy for me one (01) packet of cigarette. (Mr Fadli) is the only person that I introduced (Mr Zulkifli) to, (Mr Fadli) already knew the price for the packet of 0.5 gram of "Ice" as both (Mr Zulkifli) and (Mr Fadli) transacted before. The price for the packet of 0.5 gram of "Ice" should be roughly _S$70_ to _S$80._ The first time, (Mr Zulkifli) sold to (Mr Fadli) for 0.5 gram of "Ice" for the price of around _$70_ to _$80._ I not sure how many times both of them meet each other after I introduce to both of them.
 
-11.    I have no knowledge of where (Mr Zulkifli) got his supply of "Ice" from. That all. \[_Emphasis added_\]
+> 11.    I have no knowledge of where (Mr Zulkifli) got his supply of "Ice" from. That all. \[_Emphasis added_\]
 
 ### Fadli’s account of the operation on 2 August 2016 to lure out his supplier
 
@@ -188,19 +388,19 @@ AYes.
 
 24     Mr Muhammad Norjansher Shah Bin Misnan, a six-year veteran of the Central Narcotics Bureau, had recorded Fadli’s statement at the Tanglin CNB premises, after his arrest. The recording session commenced after Mr Fadli’s urine test results were known. Both men were seated during the process, and Mr Fadli had reportedly been forthright in disclosing his drug activities. He had stated when he had last smoked _Ice_ and where he obtained the _Ice_ from[^36], which prompted Sgt Norjansher to formulate a plan lure out Mr Fadli’s supplier[^37]:
 
-QSo where did Mr Fadli say he got the Ice from?
+> QSo where did Mr Fadli say he got the Ice from?
 
-AHe said he got the Ice from his friend, known to him as Din.
+> AHe said he got the Ice from his friend, known to him as Din.
 
-…
+> …
 
-QSo did you give any instructions to Mr Fadli after he told you that?
+> QSo did you give any instructions to Mr Fadli after he told you that?
 
-AYes.
+> AYes.
 
-QWhat instructions did you give him?
+> QWhat instructions did you give him?
 
-AI asked him if it was possible to lure Din.
+> AI asked him if it was possible to lure Din.
 
 ### Modus operandi for luring ‘Din’ with a staged purchase
 
@@ -235,51 +435,51 @@ AI asked him if it was possible to lure Din.
 
 33     Mr Shahidin repeated the account in his statement that he had known Mr Fadli through his association with Mr Fadli’s elder brother, who was a childhood friend. He had played soccer with Mr Fadli’s brother as both had lived in close proximity. Mr Shahidin denied being particularly close to Mr Fadli stating [^46]:
 
-QAre you in talking terms with Fadli?
+> QAre you in talking terms with Fadli?
 
-AUh, no. I don’t really know him, ah.
+> AUh, no. I don’t really know him, ah.
 
 ### Events on 2 August 2016
 
 34     On 2 August 2016, Mr Shahidin had met Mr. Zulkifli in Bedok, where Mr Zulkifli had accompanied him for a medical consultation at a certain Fahrenheit Clinic. After meeting Mr. Zulkifli at this clinic, Mr Shahidin had received a call from Mr Fadli. Mr Shahdin’s evidence was that Mr Fadli had asked to purchase drugs, and Mr Shahidin had simply passed the phone to Mr Zulkifli to make arrangements, and leaving the two to sort out the pertinent details of the order and rendezvous. He states[^47]:
 
-QYou received a call from Fadli?
+> QYou received a call from Fadli?
 
-AYah.
+> AYah.
 
-QOkay. What was the purpose of this call?
+> QOkay. What was the purpose of this call?
 
-AHe want to find this thing, ah.
+> AHe want to find this thing, ah.
 
-QFind what?
+> QFind what?
 
-AThe drug, ah. He was asking, ah, at---
+> AThe drug, ah. He was asking, ah, at---
 
-QSo he was asking you. What was your reply to that?
+> QSo he was asking you. What was your reply to that?
 
-AI passed to the---my phone---passed---I passed to Zulkifli.
+> AI passed to the---my phone---passed---I passed to Zulkifli.
 
-QAnd why did you pass it to Zulkifli?
+> QAnd why did you pass it to Zulkifli?
 
-AYour Honour, he actually---actually they know each other, but he doesn’t have the Zulkifli contact number.
+> AYour Honour, he actually---actually they know each other, but he doesn’t have the Zulkifli contact number.
 
-QOh, I see. So from then until your arrest, did you communicate with---
+> QOh, I see. So from then until your arrest, did you communicate with---
 
-AOnly on the first time when I answer the call, lah, just to pass my phone to Mr. Zulkifli.
+> AOnly on the first time when I answer the call, lah, just to pass my phone to Mr. Zulkifli.
 
-QAfter that, you did not speak to---
+> QAfter that, you did not speak to---
 
-ANo.
+> ANo.
 
-QMr. Fadli?
+> QMr. Fadli?
 
-ANo.
+> ANo.
 
-QNow from there, where did you go to?
+> QNow from there, where did you go to?
 
-AI went back to my house.
+> AI went back to my house.
 
-QSo from Bedok, went back to Hougang.
+> QSo from Bedok, went back to Hougang.
 
 35     After receiving his medical certificate, Mr Shahidin had returned to his apartment in Hougang, and been engrossed in computer games until he had been distracted by Mr Zulkifli, who had asked for a cigarette box or other suitable receptacle. After Mr Shahidin had provided him with a Pall Mall cigarette box, Mr Zulkifli ‘packed the thing’[^48].
 
@@ -295,29 +495,29 @@ QSo from Bedok, went back to Hougang.
 
 40     Rather surprisingly, Mr Shahidin’s court testimony differed from his original account from the statements recorded by the CNB officers in respect of whether he had received payments from Mr Zulkifli. Where he was referred to question 10 of the contemporaneous statement P9, Mr Shahidin was asked what he would get in return for helping (Mr Zulkifli) to order ice, he stated unequivocally that he did not receive any payment at all[^54]:
 
-A **_He give me nothing, ah_**.
+> A **_He give me nothing, ah_**.
 
-QHe give you nothing.
+> QHe give you nothing.
 
-A **_Yah, the thing is I’m not really like, helping him doing something. I just pass the number to him._**
+> A **_Yah, the thing is I’m not really like, helping him doing something. I just pass the number to him._**
 
-Q **_So that’s---what you’re saying is there’s no payment by way of a packet of cigarette._**
+> Q **_So that’s---what you’re saying is there’s no payment by way of a packet of cigarette._**
 
-A **_Yah, no._**
+> A **_Yah, no._**
 
-QFor helping ‘Ahmad’.
+> QFor helping ‘Ahmad’.
 
-ANo.
+> ANo.
 
-QAnd then why did you say this in the statement?
+> QAnd then why did you say this in the statement?
 
-AI cannot remember, eh.
+> AI cannot remember, eh.
 
-QHmm?
+> QHmm?
 
-AI cannot remember.
+> AI cannot remember.
 
-QWhy you can’t remember? _\[Emphasis added\]_
+> QWhy you can’t remember? _\[Emphasis added\]_
 
 41     Mr Shahidin gives a surprisingly flippant answer that he could not remember why he had alluded to the in-kind payment of a packet of cigarettes. He attributed his memory lapse to his being on medication expressing himself that ‘**_I not sure, maybe I on medication or what. Because I go doctor, mah.[^55]’_**
 
@@ -337,23 +537,23 @@ QWhy you can’t remember? _\[Emphasis added\]_
 
 47     Conversely. Mr Shahidin’s account of Mr Zulkifli using his (Mr Shahidin’s) mobile phone to liaise with Mr Fadli on 2 August 2016 is problematic. There does not seem to be any dispute from any account that Mr Zulkifli **_had_** his own mobile phone with him at that time. Mr Shahidin’s account was that Mr Zulkifli had simply appropriated his (Mr Shahidin’s) phone to talk to Mr Fadli, while Mr Shahidin was inside the clinic. He had left to speak to Mr Fadli, while Mr Shahidin remained in the clinic, and thus did not follow their conversation. After the conversation, Mr Zulkifli had held on to the phone, until Mr Shahidin had asked for phone back. Mr Zulkifli had regained possession of the hand phone after they had returned, taking it in Mr Shahidin’s room without asking Mr Shahidin’s permission to send messages to Mr Fadli. Mr Shahidin had never asked Mr Zulkifli why he had to use Mr Shahidin’s phone. Mr Shahidin’s evidence is as follows:
 
-QOkay. So ‘Beng’[^57] held on to your phone the whole afternoon and you didn’t ask him why he needed your phone?
+> QOkay. So ‘Beng’[^57] held on to your phone the whole afternoon and you didn’t ask him why he needed your phone?
 
-ANo.
+> ANo.
 
-QDid you ask him what he need to use your phone for?
+> QDid you ask him what he need to use your phone for?
 
-ANo.
+> ANo.
 
-…
+> …
 
-QSo you assumed that ‘Beng’ was using your phone to communicate with Fadli?
+> QSo you assumed that ‘Beng’ was using your phone to communicate with Fadli?
 
-AYes.
+> AYes.
 
-QAnd you only got your phone back before you went downstairs with ‘Beng’?
+> QAnd you only got your phone back before you went downstairs with ‘Beng’?
 
-AYes.
+> AYes.
 
 48     Mr Shahidn’s evidence was that Mr Zulkifli had left the phone on the bed, and that he had retrieved it just before going down for the rendezvous with Mr Fadli,
 
@@ -363,25 +563,25 @@ AYes.
 
 50     Mr Shahidin’s account was that Mr Fadli had specifically asked him for Mr Zulkifli’s phone number when he called him on 2 August 2016. He states as follows to DPP Theong’s cross-examination[^58]:
 
-QOkay. Now when Fadli called you asking for Ice on the 2nd of August, he didn’t ask to speak to ‘Beng[^59]’, right?
+> QOkay. Now when Fadli called you asking for Ice on the 2nd of August, he didn’t ask to speak to ‘Beng[^59]’, right?
 
-AHe ask me for ‘Beng’ number and then he ask me for Ice.
+> AHe ask me for ‘Beng’ number and then he ask me for Ice.
 
-QBut then you just passed the phone to ‘Beng’ directly, right?
+> QBut then you just passed the phone to ‘Beng’ directly, right?
 
-ABecause he is beside me.
+> ABecause he is beside me.
 
-Q **_At the time ‘Beng’ had his own phone, right?_**
+> Q **_At the time ‘Beng’ had his own phone, right?_**
 
-A **_Uh, yes._**
+> A **_Uh, yes._**
 
-QAnd at the time you already had the number he was using at the time, right?
+> QAnd at the time you already had the number he was using at the time, right?
 
-AYes.
+> AYes.
 
-QSo you could have just given ‘Beng’s’ new number to Fadli, like what you said you did the first time around, right?
+> QSo you could have just given ‘Beng’s’ new number to Fadli, like what you said you did the first time around, right?
 
-AThe first time I was not with him.
+> AThe first time I was not with him.
 
 51     Notwithstanding Mr Zulkifli’s alleged habit of changing phone numbers frequently[^60], Mr Shahidin already had Mr Zulkifli’s extant number at that point in time. Nothing should therefore have stopped Mr Shahidin from **_giving_** Mr Zulkifli’s number to Mr Fadli, which was his purported _modus operandi_ in a previous occasion[^61] when Mr Fadli called him to place an order for _Ice_. In Mr Shahidin’s own words ‘… **_the second time is I passed my phone to_** (Zulkifli), **_the first time I give_** (Zulkifli’s) **_number to_** (Fadli)’
 
@@ -395,11 +595,11 @@ AThe first time I was not with him.
 
 55     The prosecution has proceeded with a single charge under section 5(1)(_a_) of the Misuse of Drugs Act (Cap 185, 2008 Rev Ed); which provides as follows:
 
-**Trafficking in controlled drugs**
+> **Trafficking in controlled drugs**
 
-**5.– (1**)    Except as authorised by this Act, it shall be an offence for a person, on his own behalf or on behalf of any other person, whether or not that other person is in Singapore — (_a_) to traffic in a controlled drug…
+> **5.– (1**)    Except as authorised by this Act, it shall be an offence for a person, on his own behalf or on behalf of any other person, whether or not that other person is in Singapore — (_a_) to traffic in a controlled drug…
 
-(2)    For the purposes of this Act, a person commits the offence of trafficking in a controlled drug if he has in his possession that drug for the purpose of trafficking.
+> (2)    For the purposes of this Act, a person commits the offence of trafficking in a controlled drug if he has in his possession that drug for the purpose of trafficking.
 
 In the context of this case, section 2 of the MDA, which defines the act of trafficking to encompass **_delivery_**, would apply.
 
@@ -407,7 +607,7 @@ In the context of this case, section 2 of the MDA, which defines the act of traf
 
 In **_Ranjit Singh_**, Hoo Sheau Peng J states
 
-34    In respect of a charge of trafficking under s 5(1) read with s 5(2) of the MDA (as faced by Farid), the elements to be established are (a) **_possession of the drugs_**; (b) **_knowledge of the nature of the drugs_**; and (c) **_proof that possession of the drugs was for the purpose of trafficking_** which was not authorised: _Muhammad Ridzuan bin Md Ali v PP_ <span class="citation">\[2014\] 3 SLR 721</span> (“_Muhammad Ridzuan_”) at \[59\]. \[_Emphasis added_\]
+> 34    In respect of a charge of trafficking under s 5(1) read with s 5(2) of the MDA (as faced by Farid), the elements to be established are (a) **_possession of the drugs_**; (b) **_knowledge of the nature of the drugs_**; and (c) **_proof that possession of the drugs was for the purpose of trafficking_** which was not authorised: _Muhammad Ridzuan bin Md Ali v PP_ <span class="citation">\[2014\] 3 SLR 721</span> (“_Muhammad Ridzuan_”) at \[59\]. \[_Emphasis added_\]
 
 57     In this case Mr Shahidin had been jointly charged with Mr Zulkifli for trafficking in furtherance of a common intention, as provided under s 34 of the Penal Code (Cap 224, 2008 Rev Ed) (**PC**) which implicates any criminal act done by several persons, in furtherance of a common intention of all, with criminal liable for that act in the same manner as if the act had been done by him alone.
 
@@ -421,11 +621,11 @@ In **_Ranjit Singh_**, Hoo Sheau Peng J states
 
 60     The elements of common intention were referenced in the **_Ridzuan_** where the Court of Appeal stated at \[34\]:
 
-34    The applicable law in so far as s 34 PC is concerned has been set out in the decision of (_Daniel Vijay s/o Katherasan_ v PP <span class="citation">\[2010\] 4 SLR 1119</span>). **_Three elements_** must be present before constructive liability can be imposed pursuant to s 34 PC, namely: (a) **_the criminal act element_** (“a criminal act”); (b) **_the common intention element_** (“in furtherance of the common intention of all”) and (c) **_the participation element_** (“a criminal act … done by several persons”)…
+> 34    The applicable law in so far as s 34 PC is concerned has been set out in the decision of (_Daniel Vijay s/o Katherasan_ v PP <span class="citation">\[2010\] 4 SLR 1119</span>). **_Three elements_** must be present before constructive liability can be imposed pursuant to s 34 PC, namely: (a) **_the criminal act element_** (“a criminal act”); (b) **_the common intention element_** (“in furtherance of the common intention of all”) and (c) **_the participation element_** (“a criminal act … done by several persons”)…
 
 61     The concept of constructive responsibility is expounded on by the Court of Appeal in **_Ridzuan_** as follows:
 
-27    …The purpose of s 34 PC is to impute _constructive_ liability on a secondary offender in relation to an offence arising from a criminal act committed by the actual doer in furtherance of the common intention shared by the actual doer and the secondary offender …
+> 27    …The purpose of s 34 PC is to impute _constructive_ liability on a secondary offender in relation to an offence arising from a criminal act committed by the actual doer in furtherance of the common intention shared by the actual doer and the secondary offender …
 
 62     Hence, in a case of trafficking in furtherance of a common intention, should all the elements of trafficking be made out against the ‘actual doer’, and, it is proven beyond reasonable doubt that the elements of s 34 of the Penal Code are fulfilled, constructive liability for trafficking would be imposed on the secondary offender. The elements for trafficking need not be additionally made out against the secondary offender (_per_ \[29\] of **_Ridzuan_**). In this context, Mr Zulkifli would be the ‘primary’ offender, being in direct physical possession of the methamphetamine, while Mr Shahidin has been charged in a factual matrix where he is accused of being the ‘secondary’ offender.
 
@@ -441,7 +641,7 @@ In **_Ranjit Singh_**, Hoo Sheau Peng J states
 
 68     In relation to the third element of participation, **_Ridzuan’s_** case elaborates at \[36\]:
 
-36    Turning to (the participation element), it was emphasised by this court in L_ee Chez Kee v PP_ <span class="citation">\[2008\] 3 SLR(R) 447</span> (“_Lee Chez Kee_”) that participation, not presence, is the key ingredient in imposing liability under s 34 PC and that this is a question of fact to be decided in each case (see _Lee Chez Kee_ at \[146\]). **_The secondary offender satisfies this requirement of participation if he participates in the specific criminal act committed by the actual doer which gives rise to the offence charged or if he participates in some other criminal act that is done in furtherance of the common intention of all the offenders_**, _ie_, he participated in any of the diverse acts which altogether formed the unity of criminal behaviour resulting in the offence charged and that offence was commonly intended by all the offenders…
+> 36    Turning to (the participation element), it was emphasised by this court in L_ee Chez Kee v PP_ <span class="citation">\[2008\] 3 SLR(R) 447</span> (“_Lee Chez Kee_”) that participation, not presence, is the key ingredient in imposing liability under s 34 PC and that this is a question of fact to be decided in each case (see _Lee Chez Kee_ at \[146\]). **_The secondary offender satisfies this requirement of participation if he participates in the specific criminal act committed by the actual doer which gives rise to the offence charged or if he participates in some other criminal act that is done in furtherance of the common intention of all the offenders_**, _ie_, he participated in any of the diverse acts which altogether formed the unity of criminal behaviour resulting in the offence charged and that offence was commonly intended by all the offenders…
 
 69     I am satisfied that the element of Mr Shahidin’s **_participation_** in the transaction with Mr Fadli is 2 August 2016 is amply fulfilled from the evidence. Mr Shahidin had received the order and directly quoted the selling price[^74], and liaised with Mr Fadli in respect of the collection time and place. From his account, Mr Zulkifli had taken steps to ‘process’ the order by taking the methamphetamine from his source, and then use the materials from Mr Shahidin’s apartment for the multiple layers of wrapping.
 
@@ -473,7 +673,7 @@ In **_Ranjit Singh_**, Hoo Sheau Peng J states
 
 80     Delivering the judgment of the Court of Appeal, Yong Pung How CJ held: at \[39\]
 
-…Although the drugs were in the possession of the first appellant[^85], the second appellant[^86] clearly knew and consented to it in that there was an agreement between the appellants to deal with the drugs. **_By the same token, common intention to traffic in drugs was manifest from the circumstances. The appellants acted in concert pursuant to a prearranged plan to sell the drugs_**. \[_Emphasis added_\]
+> …Although the drugs were in the possession of the first appellant[^85], the second appellant[^86] clearly knew and consented to it in that there was an agreement between the appellants to deal with the drugs. **_By the same token, common intention to traffic in drugs was manifest from the circumstances. The appellants acted in concert pursuant to a prearranged plan to sell the drugs_**. \[_Emphasis added_\]
 
 81     The circumstances in play for **_Hartej’s_** case to infer ‘consent’ would have included the major role undertaken by Mr Sarjit in his **_prior negotiations_** with Michael for the sale of the drugs. By the same token, the train of evidence here shows Mr Shahidin’s collective actions to extend far beyond mere ‘acquiescence or condonation’. Indeed, Mr Shahidin appeared to be the prime mover in **_essential middleman_** arrangements and negotiations starting from his receipt of Mr Fadli’s order, arranging for Mr Zulkifli to draw from his supply, directly quoting the selling price, co-ordinating with Mr Fadli in respect of the collection time and place, and completing the circle by actually accompanying the person in physical possession; Mr Zulkifli. The sheer extent of Mr Shahidin’s expended efforts to prosecute the sale of the sachet of methamphetamine are all too evident by the fact that his mobile phone had (according to P20) logged no fewer than 37 calls and messages with Mr Fadli’s phone, prior to interception and arrest by CNB officers.
 

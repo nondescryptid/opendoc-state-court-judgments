@@ -15,13 +15,13 @@
 
 1       The Accused pleaded guilty to the following two charges:
 
-DAC 934088/2018 (marked ‘C1B’)
+> DAC 934088/2018 (marked ‘C1B’)
 
-You, Muhammad Faizal Bin Mohamed Salleh, …, Male/29 years, …, are charged that you on 11 October 2018, at about 11.45 p.m., at the void deck of Block 146 Mei Ling Street, Singapore, did voluntarily cause grievous hurt to one Noordilah Binte Fadilah with an instrument which, used as a weapon of offence, is likely to cause death; _to wit_, by stabbing her multiple times in the right side of the said Noordilah Binte Fadilah’s body with a knife without handle measuring about 15 cm, causing multiple puncture wounds over the right side of her body, and you have thereby committed an offence punishable under Section 326 of the Penal Code (Cap 224, 2008 Rev Ed).
+> You, Muhammad Faizal Bin Mohamed Salleh, …, Male/29 years, …, are charged that you on 11 October 2018, at about 11.45 p.m., at the void deck of Block 146 Mei Ling Street, Singapore, did voluntarily cause grievous hurt to one Noordilah Binte Fadilah with an instrument which, used as a weapon of offence, is likely to cause death; _to wit_, by stabbing her multiple times in the right side of the said Noordilah Binte Fadilah’s body with a knife without handle measuring about 15 cm, causing multiple puncture wounds over the right side of her body, and you have thereby committed an offence punishable under Section 326 of the Penal Code (Cap 224, 2008 Rev Ed).
 
-MAC 911268/2018 (marked ‘C2B’)
+> MAC 911268/2018 (marked ‘C2B’)
 
-You, Muhammad Faizal Bin Mohamed Salleh, …, Male/29 years, …, are charged that you on 10 September 2018 at or about 7.30 p.m. at Apt Block 872A Tampines Street 86 #XXX, Singapore, did voluntarily cause hurt to one Aishah Binte Rosli, to wit, by punching the said Aishah Binte Rosli once on her mouth area and left cheek, wrapping your hand around her neck region with force, and holding tightly onto her left bicep, and causing her multiple bruises on her face, neck and bicep, and you have thereby committed an offence punishable under Section 323 of Penal Code (Cap 224, 2008 Rev Ed).
+> You, Muhammad Faizal Bin Mohamed Salleh, …, Male/29 years, …, are charged that you on 10 September 2018 at or about 7.30 p.m. at Apt Block 872A Tampines Street 86 #XXX, Singapore, did voluntarily cause hurt to one Aishah Binte Rosli, to wit, by punching the said Aishah Binte Rosli once on her mouth area and left cheek, wrapping your hand around her neck region with force, and holding tightly onto her left bicep, and causing her multiple bruises on her face, neck and bicep, and you have thereby committed an offence punishable under Section 323 of Penal Code (Cap 224, 2008 Rev Ed).
 
 ## Part 2   Conviction, Sentence and Appeal
 
@@ -29,9 +29,9 @@ You, Muhammad Faizal Bin Mohamed Salleh, …, Male/29 years, …, are charged th
 
 3       The Accused then admitted to two other charges and consented to have them taken into consideration for the purpose of sentencing. These two charges were for:
 
-(a)     Breaking into four pieces the identity card of one Noordilah Binte Fadilah (“Noordilah”), an offence punishable under Section 13(1)(g) of the National Registration Act, Chapter 201; and
+> (a)     Breaking into four pieces the identity card of one Noordilah Binte Fadilah (“Noordilah”), an offence punishable under Section 13(1)(g) of the National Registration Act, Chapter 201; and
 
-(b)     Threatening to cause hurt to the family members and friends of one Aishah Binte Rosli (“Aishah”), with the intent to cause the said Aishah to be alarmed, an offence punishable under Section 3(2) of the Protection against Harassment Act, Chapter 256A.
+> (b)     Threatening to cause hurt to the family members and friends of one Aishah Binte Rosli (“Aishah”), with the intent to cause the said Aishah to be alarmed, an offence punishable under Section 3(2) of the Protection against Harassment Act, Chapter 256A.
 
 4       In my deliberation on sentence, I have considered the Prosecution’s written skeletal submissions on sentence (Exhibit ‘P6’) and the Defence’s written mitigation plea (Exhibit ‘D1’).
 
@@ -91,27 +91,27 @@ You, Muhammad Faizal Bin Mohamed Salleh, …, Male/29 years, …, are charged th
 
 27     Noordilah was conveyed by an ambulance to the National University Hospital (“NUH”). The medical report on Noordilah provided by NUH (Exhibit ‘P2’) revealed that Noordialh has sustained the following injuries:
 
-(a)     Three lacerations on her right ear; 2 through and through lacerations, each about 1.5 cm on the inferior portion of the antihelix and 1 superficial laceration on the posterior border of the lobule and the face. A bedside toilet and suture of these lacerations were performed under sterile technique;
+> (a)     Three lacerations on her right ear; 2 through and through lacerations, each about 1.5 cm on the inferior portion of the antihelix and 1 superficial laceration on the posterior border of the lobule and the face. A bedside toilet and suture of these lacerations were performed under sterile technique;
 
-(b)     A superficial laceration 1 cm over the dorsum of the left hand;
+> (b)     A superficial laceration 1 cm over the dorsum of the left hand;
 
-(c)     Four (4) cuts over the dorsum of her right hand comprising 2 cuts over thumb pulp, 1 cut over the 1st webspace, 1 cut over the radial border of the index finger; all cuts ranging from 0.5 cm to 2 cm);
+> (c)     Four (4) cuts over the dorsum of her right hand comprising 2 cuts over thumb pulp, 1 cut over the 1st webspace, 1 cut over the radial border of the index finger; all cuts ranging from 0.5 cm to 2 cm);
 
-(d)     A 2 cm deep cut over the victim’s right lateral elbow;
+> (d)     A 2 cm deep cut over the victim’s right lateral elbow;
 
-(e)     A 2 cm superficial cut over the victim’s right medial elbow;
+> (e)     A 2 cm superficial cut over the victim’s right medial elbow;
 
-(f)     A right lateral chest wound 3 cm x 2 cm and 2 cm deep;
+> (f)     A right lateral chest wound 3 cm x 2 cm and 2 cm deep;
 
-(g)     Right anterior axillary wound 1 cm x 0.5 cm and 0.5 cm deep (armpit);
+> (g)     Right anterior axillary wound 1 cm x 0.5 cm and 0.5 cm deep (armpit);
 
-(h)     Right posterior axilla wound 2 cm x 1 cm and 4 cm length (armpit);
+> (h)     Right posterior axilla wound 2 cm x 1 cm and 4 cm length (armpit);
 
-(i)     Five posterior neck wounds, shallow, 1 cm in length (neck);
+> (i)     Five posterior neck wounds, shallow, 1 cm in length (neck);
 
-(j)     One right anterior shoulder wound, shallow, 2 cm in length; and
+> (j)     One right anterior shoulder wound, shallow, 2 cm in length; and
 
-(k)     Right haemothorax and pneumothorax.
+> (k)     Right haemothorax and pneumothorax.
 
 28     Noordilah was admitted to the hospital’s surgical ward on 12 October 2018. She was discharged on 16 October 2018, and given 23 days of hospitalisation leave from 11 October 2018 to 2 November 2018. At a follow-up appointment, the hospitalisation leave was extended by four more days to 6 November 2018. Due to her injuries, Noordilah was unable to work. Her employer allowed her to return to work after 13 November 2018.
 
@@ -137,13 +137,13 @@ You, Muhammad Faizal Bin Mohamed Salleh, …, Male/29 years, …, are charged th
 
 35     Aishah was seen by Dr Geraldine Tan of Changi General Hospital on 12 September 2018. In the Medical Form for Complaint of Violence (Exhibit ‘P3’), Dr Geraldine Tan documented the following injuries sustained by Aishah as a result of the attack on her by the Accused:
 
-(a)     A 3 cm irregular-shaped bruise on the victim’s left cheek;
+> (a)     A 3 cm irregular-shaped bruise on the victim’s left cheek;
 
-(b)     A 1 cm irregular-shaped bruise on the victim’s lower left inner lip;
+> (b)     A 1 cm irregular-shaped bruise on the victim’s lower left inner lip;
 
-(c)     A 2 cm irregular-shaped bruise on the front of the victim’s neck below her chin; and
+> (c)     A 2 cm irregular-shaped bruise on the front of the victim’s neck below her chin; and
 
-(d)     A 6 cm by 4 cm irregular-shaped bruise on the underside of the victim’s left bicep.
+> (d)     A 6 cm by 4 cm irregular-shaped bruise on the underside of the victim’s left bicep.
 
 ## Part 5   Sentence
 
@@ -165,7 +165,7 @@ You, Muhammad Faizal Bin Mohamed Salleh, …, Male/29 years, …, are charged th
 
 41     In _BDB_ at \[56\], the Court of Appeal, in dealing with the offence of Voluntarily Causing Grievous Hurt under s 325 PC, held that:
 
-“… given the inherent mischief that underlies the offence under s 325, and considering that a more severe sentencing range is prescribed for this offence (compared to the offence of voluntarily causing simple hurt under s 323 PC) precisely because _grievous_ hurt has been caused, the factor that should guide the court’s determination of the indicative starting point for sentencing should be the _seriousness of the hurt caused_ to the victim.” (words in italics as per the judgement).
+> “… given the inherent mischief that underlies the offence under s 325, and considering that a more severe sentencing range is prescribed for this offence (compared to the offence of voluntarily causing simple hurt under s 323 PC) precisely because _grievous_ hurt has been caused, the factor that should guide the court’s determination of the indicative starting point for sentencing should be the _seriousness of the hurt caused_ to the victim.” (words in italics as per the judgement).
 
 42     In my judgment, the above sentencing principle is applicable to a s 326 PC offence with equal force as s 326 PC is an aggravated form of the offence under s 325 PC.
 
@@ -186,43 +186,43 @@ You, Muhammad Faizal Bin Mohamed Salleh, …, Male/29 years, …, are charged th
 
 48     The case precedents reviewed were: _PP v Neo Aik You_ (CC 27/2001), _PP v Wong Guoliang_ <span class="citation">\[2016\] SGDC 184</span> and _PP v Mohamad Yazit Bin Abdullah_ (SC-913140-2016).
 
-(a)      _PP v Neo Aik You_
+> (a)      _PP v Neo Aik You_
 
-The victim was hit on the back of her head by an axe welded by the accused. The victim sustained a 7 cm laceration over the occiput. She also had bilateral hematoma, left subconjunctival haemorrhage, a depressed fracture and a comminuted left parieto-occiptal fracture with associated underlying cerebral contusion. The prosecution proceeded against the accused under s 326 PC and the accused pleaded guilty. The accused was sentenced to seven years’ imprisonment.
+> The victim was hit on the back of her head by an axe welded by the accused. The victim sustained a 7 cm laceration over the occiput. She also had bilateral hematoma, left subconjunctival haemorrhage, a depressed fracture and a comminuted left parieto-occiptal fracture with associated underlying cerebral contusion. The prosecution proceeded against the accused under s 326 PC and the accused pleaded guilty. The accused was sentenced to seven years’ imprisonment.
 
-This is a 2001 case where the maximum prescribed punishment then for an offence under s 326 PC was imprisonment for life or imprisonment up to ten years’ imprisonment. The maximum prescribed punishment was raised by Amendment Act 51 of 2007 to imprisonment for life, or imprisonment up to 15 years. The said amendment took effect from 1 February 2008. In my opinion, the sentence in _PP v Neo Aik You_ would have been higher the current sentencing regime.
+> This is a 2001 case where the maximum prescribed punishment then for an offence under s 326 PC was imprisonment for life or imprisonment up to ten years’ imprisonment. The maximum prescribed punishment was raised by Amendment Act 51 of 2007 to imprisonment for life, or imprisonment up to 15 years. The said amendment took effect from 1 February 2008. In my opinion, the sentence in _PP v Neo Aik You_ would have been higher the current sentencing regime.
 
-(b)      _PP v Wong Guoliang_
+> (b)      _PP v Wong Guoliang_
 
-The victim was slashed with a parang at his abdomen area, his right arm, right check, left upper back and right forehead area. The injuries as documented by the hospital showed:
+> The victim was slashed with a parang at his abdomen area, his right arm, right check, left upper back and right forehead area. The injuries as documented by the hospital showed:
 
-i.       a penetrating abdominal wound;
+>> i.       a penetrating abdominal wound;
 
-ii.       a 15 cm laceration on the right arm;
+>> ii.       a 15 cm laceration on the right arm;
 
-iii.       a 5 cm laceration on the right cheek;
+>> iii.       a 5 cm laceration on the right cheek;
 
-iv.       a 4 cm laceration on the left upper back over the scapula spine
+>> iv.       a 4 cm laceration on the left upper back over the scapula spine
 
-v.       a right front bone fracture involving the outer table of the skull, with a 10 cm overlying right frontal laceration.
+>> v.       a right front bone fracture involving the outer table of the skull, with a 10 cm overlying right frontal laceration.
 
-The accused was sentenced to 5 years’ imprisonment and 9 strokes of the cane.
+> The accused was sentenced to 5 years’ imprisonment and 9 strokes of the cane.
 
-(c)      _PP v Mohamad Yazit Bin Abdullah_
+> (c)      _PP v Mohamad Yazit Bin Abdullah_
 
-The accused faced several charges. For the purpose of this discussion, I shall only be focusing on the s 326 PC offence and the injuries sustained by the victim.
+> The accused faced several charges. For the purpose of this discussion, I shall only be focusing on the s 326 PC offence and the injuries sustained by the victim.
 
-The accused used a bread knife to attack the victim; slashing the victim with the bread knife over the neck, right chest and left neck. The victim was found to have sustained:
+> The accused used a bread knife to attack the victim; slashing the victim with the bread knife over the neck, right chest and left neck. The victim was found to have sustained:
 
-i.       a deep zone II laceration on the right neck extending from the angle of the mandible to the midline with active bleeding from the right external jugular vein which was ligated; and
+>> i.       a deep zone II laceration on the right neck extending from the angle of the mandible to the midline with active bleeding from the right external jugular vein which was ligated; and
 
-ii.       superficial lacerations on left side of the neck and right chest.
+>> ii.       superficial lacerations on left side of the neck and right chest.
 
-The victim also underwent a concurrent left hand debridement and repair of cut structures to his left hand.
+>> The victim also underwent a concurrent left hand debridement and repair of cut structures to his left hand.
 
-The victim was warded for eight days and given a total of 30 days hospitalization leave. Taken together, the victim was unable to follow his ordinary pursuits for at 38 days.
+>> The victim was warded for eight days and given a total of 30 days hospitalization leave. Taken together, the victim was unable to follow his ordinary pursuits for at 38 days.
 
-The accused was sentenced to five years’ imprisonment and eight strokes of the cane.
+>> The accused was sentenced to five years’ imprisonment and eight strokes of the cane.
 
 49     The table below presents the discussion in \[46\] – \[48\] in a simplified form.
 
@@ -235,19 +235,19 @@ The accused was sentenced to five years’ imprisonment and eight strokes of the
 
 51     Before setting out the indicative starting point for the present case, I am mindful of the following observation of the Court of Appeal in _BDB_:
 
-41    As stated in Sentencing Practice in the Subordinate Courts (LexisNexis, 3rd Ed, 2013) (“Sentencing Practice”) at p 266, the facts and circumstances of each offence of voluntarily causing grievous hurt vary considerably, and each case must be evaluated based on its own particular facts:
+> 41    As stated in Sentencing Practice in the Subordinate Courts (LexisNexis, 3rd Ed, 2013) (“Sentencing Practice”) at p 266, the facts and circumstances of each offence of voluntarily causing grievous hurt vary considerably, and each case must be evaluated based on its own particular facts:
 
-The different forms of grievous hurt vary in their seriousness. For example, permanent privation of sight or a bodily part would be more serious than a simple fracture. The Penal Code (Amendment) Act \[(Act 51 of 2007)\] expanded the definition of ‘grievous hurt’ by including ‘death’ and ‘penetration of the vagina or anus’ as categories of grievous hurt. Clearly, where death has been caused …, the imposition of a higher sentence must be considered. In general, the factors that would dominate sentence are the degree of deliberation; the extent and duration of the attack; the nature of the injury; and the use of a weapon (the dangerousness of it). The obvious aggravating factors would be premeditation, a lengthy application of violence, group assault, significant injuries, permanence of injuries, the use of a weapon, a young or otherwise vulnerable victim, abuse of position, and previous convictions … \[emphasis added\]
+>> The different forms of grievous hurt vary in their seriousness. For example, permanent privation of sight or a bodily part would be more serious than a simple fracture. The Penal Code (Amendment) Act \[(Act 51 of 2007)\] expanded the definition of ‘grievous hurt’ by including ‘death’ and ‘penetration of the vagina or anus’ as categories of grievous hurt. Clearly, where death has been caused …, the imposition of a higher sentence must be considered. In general, the factors that would dominate sentence are the degree of deliberation; the extent and duration of the attack; the nature of the injury; and the use of a weapon (the dangerousness of it). The obvious aggravating factors would be premeditation, a lengthy application of violence, group assault, significant injuries, permanence of injuries, the use of a weapon, a young or otherwise vulnerable victim, abuse of position, and previous convictions … \[emphasis added\]
 
 52     In the present, the seriousness of the injuries suffered by Noordilah would not fall within either Bands of the Table at \[49\]. However, I have taken note that Noordilah was given 27 days of hospitalisation leave and thereafter her employer allowed her to commence work seven days after the end of her hospitalisation leave. Noordilah was thus unable to follow her ordinary pursuits for 34 days. Any hurt which causes the sufferer to be, during the space of 20 days, unable to follow his ordinary pursuits is designated as grievous hurt: s 320(h) PC. Noordilah was unable to follow her ordinary pursuits for almost twice the prescribed length as set out in s 320(h) PC. In _PP v Mohamad Yazit Bin Abdullah_ (SC-913140-2016), the victim was unable to follow his ordinary pursuit for 38 days. In my judgment, for the present case, the indicative starting point for sentencing ought to be four years’ imprisonment.
 
 53     Counsel for the Accused has referred to numerous case precedents from the District Courts. I found these case precedents to be unhelpful for three reasons :
 
-(a)     Firstly, majority of the cases cited predated the amendment to s 326 PC by Amendment Act 51 of 2007 where the maximum prescribed sentence for s 326 PC was increased from ten years imprisonment to 15 years’ imprisonment or life imprisonment.
+> (a)     Firstly, majority of the cases cited predated the amendment to s 326 PC by Amendment Act 51 of 2007 where the maximum prescribed sentence for s 326 PC was increased from ten years imprisonment to 15 years’ imprisonment or life imprisonment.
 
-(b)     Secondly, in _PP v Lim See Yong_ <span class="citation">\[2017\] SGDC 135</span>, _PP v Hamzah Bin Hamid_ <span class="citation">\[2009\] SGDC 427</span> and _PP v Muraleindran s/o Thoondy and Others_ <span class="citation">\[2016\] SGDC 2</span>, the respective District Judges relied on case precedents that predated the amendment to s 326 PC and failed to have regard to the full breath of the permitted sentencing range under the new regime.
+> (b)     Secondly, in _PP v Lim See Yong_ <span class="citation">\[2017\] SGDC 135</span>, _PP v Hamzah Bin Hamid_ <span class="citation">\[2009\] SGDC 427</span> and _PP v Muraleindran s/o Thoondy and Others_ <span class="citation">\[2016\] SGDC 2</span>, the respective District Judges relied on case precedents that predated the amendment to s 326 PC and failed to have regard to the full breath of the permitted sentencing range under the new regime.
 
-(c)     Thirdly, none of the case precedents cited followed the two-step sentencing framework provided in _BDB_.
+> (c)     Thirdly, none of the case precedents cited followed the two-step sentencing framework provided in _BDB_.
 
 ### (ii)   Culpability of the Accused – Adjustment upwards for aggravating factors
 

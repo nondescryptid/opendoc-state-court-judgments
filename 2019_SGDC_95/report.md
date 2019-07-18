@@ -35,123 +35,123 @@
 
 6       The Statement of Facts (SOF) in support of the plead guilty charges was as follows:
 
-1.    The accused (B1) is Kee Hsiao Hsien, a 50-year-old male Singaporean (Date of Birth: 07th July 1968). His NRIC number is XXX. At the material time, he was employed as a Protection Officer at Certis Cisco.
+> 1.    The accused (B1) is Kee Hsiao Hsien, a 50-year-old male Singaporean (Date of Birth: 07th July 1968). His NRIC number is XXX. At the material time, he was employed as a Protection Officer at Certis Cisco.
 
-**Facts Pertaining to the Arrest of B1**
+> **Facts Pertaining to the Arrest of B1**
 
-2.    On 13th November 2017 at about 09:40 am, acting on information received, at Certis Cisco West Hub, 10A Science Centre Road, Singapore 609082, the CNB officers placed B1 under arrest for offences under the Misuse of Drugs Act (Cap. 185, 2008 Rev Ed) (“the MDA”). Upon arrest, the accused surrendered the following items:
+> 2.    On 13th November 2017 at about 09:40 am, acting on information received, at Certis Cisco West Hub, 10A Science Centre Road, Singapore 609082, the CNB officers placed B1 under arrest for offences under the Misuse of Drugs Act (Cap. 185, 2008 Rev Ed) (“the MDA”). Upon arrest, the accused surrendered the following items:
 
-From his black bag pack (later marked as “A”):
+> From his black bag pack (later marked as “A”):
 
-At the front zip pocket:
+> At the front zip pocket:
 
 <table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="16.3%"> <col width="83.7%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>S/N</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Description of Item</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">1</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">One (01) white medication packet (later marked as “A1”)</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">2</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Two (02) packets of crystallised substances (later marked as “A1A”) found inside “A1”</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">3</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Two (02) packets containing one (01) packet of crystallised substances each (later marked as “A1B”) found inside “A1”</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">4</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Numerous empty packets (later marked as “A1C”) found inside “A1”</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">5</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">One (01) blue plastic packet (later marked as “A2”)</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">6</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Numerous empty packets (later marked as “A2A”) found inside “A2”</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">7</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">One (01) digital weighing scale (later marked as “A3”)</p></td></tr></tbody></table>
 
   
   
 
-At the right zip pocket at the front of the bag:
+> At the right zip pocket at the front of the bag:
 
 <table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="16.3%"> <col width="83.7%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>S/N</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Description of Item</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">8</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">One (01) blue case (later marked as “A4”)</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">9</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">One (01) rubber tube attached to one (01) mouth piece (later marked as “A4A”) found inside “A4”</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">10</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Two (02) glass utensils attached with rubber tube (later marked as “A4B”) found inside “A4”</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">11</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">One (01) improvised glass bottle attached with rubber tube (later marked as “A4C”) found inside “A4”</p></td></tr></tbody></table>
 
   
   
 
-3.    A search was conducted on B1’s motorcycle FBF6247K and nothing incriminating was found. The accused was then escorted to his place of residence at Blk 601 Woodlands Drive 42 #XXX Singapore 730601, and the following exhibits were recovered:
+> 3.    A search was conducted on B1’s motorcycle FBF6247K and nothing incriminating was found. The accused was then escorted to his place of residence at Blk 601 Woodlands Drive 42 #XXX Singapore 730601, and the following exhibits were recovered:
 
-From the master bedroom, on the 3 rd shelf from the top of the wardrobe:
+> From the master bedroom, on the 3 rd shelf from the top of the wardrobe:
 
 <table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="12.18%"> <col width="87.82%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>S/N</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Description of Item</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">12</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">One (01) blue ‘stitch’ case (later marked as “B1”)</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">13</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">One (01) glass utensil attached with rubber tube (later marked as “B1A”) found inside</p><p align="justify" class="Table-Para-1">“B1”</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">14</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">One (01) green mouth piece (later marked as “B1B”) found inside “B1”</p></td></tr></tbody></table>
 
   
   
 
-From the master bedroom, on the bottom left 2nd drawer of the same wardrobe:
+> From the master bedroom, on the bottom left 2nd drawer of the same wardrobe:
 
 <table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="12.18%"> <col width="87.82%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>S/N</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Description of Item</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">15</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">One (01) black case (later marked as “B2”)</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">16</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">One (01) blue rubber tube (later marked as “B2A”) found inside “B2”</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">17</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">One (01) glass utensil attached with rubber tube (later marked as “B2B”) found inside “B2”</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">18</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">One (01) orange improvised glass bottle (later marked as “B2C”) found inside “B2”</p></td></tr></tbody></table>
 
   
   
 
-4.    On 14th November 2017 at about 5:40 pm, Investigation Officer Joey Tan conducted a search on the accused’s personal property and recovered the following item:
+> 4.    On 14th November 2017 at about 5:40 pm, Investigation Officer Joey Tan conducted a search on the accused’s personal property and recovered the following item:
 
 <table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="12.18%"> <col width="87.82%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>S/N</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Description of Item</b></p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">19</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">One (01) packet containing green powdery substance (later marked as “D”)</p></td></tr></tbody></table>
 
   
   
 
-5.    In addition to the above case exhibits, the following items were also seized for investigation purposes:
+> 5.    In addition to the above case exhibits, the following items were also seized for investigation purposes:
 
 <table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="12.18%"> <col width="87.82%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>S/N</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Description of Item</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">19</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">One (01) packet containing green powdery substance (later marked as “D”)</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">20</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Four (04) pieces of SGD $10/-, Five (05) pieces of SGD$2/-, Five (05) pieces of SGD$1/- (later marked as “MONIES-SGD”) amounting SGD$55/-</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">21</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">One (01) piece of USD$1/- (later marked as “MONIES-USD”)</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">22</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Five (05) pieces of PLN$100/- (later marked as “MONIES-PLN”)</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">23</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">One (01) black iPhone (later marked as HP1)</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">24</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">One (01) black Xiao Mi phone with casing (later marked as HP2)</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">25</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">One (01) POSB ATM Card with serial number 6230264.0 (later marked as CARD)</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">26</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">One (01) blue notebook (later marked as C)</p></td></tr></tbody></table>
 
   
   
 
-**Facts relating to B1’s 2nd Charge (DAC-907164-2018)**
+> **Facts relating to B1’s 2nd Charge (DAC-907164-2018)**
 
-6.    On 14th December 2017, the exhibits marked “A1A” and “A1B”, which were each sealed in a tamper-proof bag, were sent to the Health Sciences Authority (“HSA”) for analysis.
+> 6.    On 14th December 2017, the exhibits marked “A1A” and “A1B”, which were each sealed in a tamper-proof bag, were sent to the Health Sciences Authority (“HSA”) for analysis.
 
-7.    On 21st December 2017, the HSA issued two certificates under Section 16 of the MDA in respect of “A1A” and “A1B”:
+> 7.    On 21st December 2017, the HSA issued two certificates under Section 16 of the MDA in respect of “A1A” and “A1B”:
 
-a.    A certificate bearing Lab. No. ID-1732-02322-001, by Maria Devianna Avisena Lieka, an Analyst in the Illicit Drugs Laboratory of the HSA, which states that the exhibit marked “A1A” was found to be:
+>> a.    A certificate bearing Lab. No. ID-1732-02322-001, by Maria Devianna Avisena Lieka, an Analyst in the Illicit Drugs Laboratory of the HSA, which states that the exhibit marked “A1A” was found to be:
 
-i.    one packet containing not less than 1.03 grams of crystalline substance which was analysed and found to contain not less than 0.68 gram of methamphetamine.
+>>> i.    one packet containing not less than 1.03 grams of crystalline substance which was analysed and found to contain not less than 0.68 gram of methamphetamine.
 
-ii.    one packet containing not less than 0.53 gram of crystalline substance which was analysed and found to contain not less than 0.35 gram of methamphetamine.
+>>> ii.    one packet containing not less than 0.53 gram of crystalline substance which was analysed and found to contain not less than 0.35 gram of methamphetamine.
 
-b.    A certificate bearing Lab. No. ID-1732-02322-002, by Maria Devianna Avisena Lieka, an Analyst in the Illicit Drugs Laboratory of the HSA, which states that the exhibit marked “A1B” was found to be:
+>> b.    A certificate bearing Lab. No. ID-1732-02322-002, by Maria Devianna Avisena Lieka, an Analyst in the Illicit Drugs Laboratory of the HSA, which states that the exhibit marked “A1B” was found to be:
 
-i.    one packet marked “KRANJI” containing not less than 1.90 grams of crystalline substance which was analysed and found to contain not less than 1.28 grams of methamphetamine.
+>>> i.    one packet marked “KRANJI” containing not less than 1.90 grams of crystalline substance which was analysed and found to contain not less than 1.28 grams of methamphetamine.
 
-ii.    one packet containing not less than 4.93 grams of crystalline substance which was analysed and found to contain not less than 3.29 grams of methamphetamine.
+>>> ii.    one packet containing not less than 4.93 grams of crystalline substance which was analysed and found to contain not less than 3.29 grams of methamphetamine.
 
-Apart from the packet marked “KRANJI”, the packets above were in the accused’s possession for the purposes of the accused’s consumption.
+>> Apart from the packet marked “KRANJI”, the packets above were in the accused’s possession for the purposes of the accused’s consumption.
 
-8.    Methamphetamine is Class A Controlled Drugs listed in the First Schedule to the MDA Cap 185.
+> 8.    Methamphetamine is Class A Controlled Drugs listed in the First Schedule to the MDA Cap 185.
 
-9.    The accused is not authorized under the MDA or the Regulations made thereunder to be in possession of methamphetamine. The accused has thereby committed an offence under Section 8(a) punishable under Section 33(1) of the MDA.
+> 9.    The accused is not authorized under the MDA or the Regulations made thereunder to be in possession of methamphetamine. The accused has thereby committed an offence under Section 8(a) punishable under Section 33(1) of the MDA.
 
-**Facts relating to B1’s 3rd Charge (DAC-907165-2018)**
+> **Facts relating to B1’s 3rd Charge (DAC-907165-2018)**
 
-10.    On 15th December 2017, the exhibit marked “D”, which was sealed in a tamper-proof bag, was sent to HSA for analysis.
+> 10.    On 15th December 2017, the exhibit marked “D”, which was sealed in a tamper-proof bag, was sent to HSA for analysis.
 
-11.    On 21st December 2017, HSA issued the following certificate under Section 16 of the MDA:
+> 11.    On 21st December 2017, HSA issued the following certificate under Section 16 of the MDA:
 
-a.    A certificate bearing Lab. No. ID-1732-02322-003, by Dr. Lee Hui Zhi Shirley, an Analyst in the Illicit Drugs Laboratory of the HSA, which states that the exhibit marked “D” was found to be:
+>> a.    A certificate bearing Lab. No. ID-1732-02322-003, by Dr. Lee Hui Zhi Shirley, an Analyst in the Illicit Drugs Laboratory of the HSA, which states that the exhibit marked “D” was found to be:
 
-i.    one packet containing not less than 0.08 gram of granular/powdery substance which was analysed and found to contain MDMA.
+>>> i.    one packet containing not less than 0.08 gram of granular/powdery substance which was analysed and found to contain MDMA.
 
-12.    MDMA is Class A Controlled Drugs listed in the First Schedule to the MDA Cap 185.
+> 12.    MDMA is Class A Controlled Drugs listed in the First Schedule to the MDA Cap 185.
 
-13.    The accused is not authorized under the MDA or the Regulations made thereunder to be in possession of MDMA. He has thereby committed an offence under Section 8(a) punishable under Section 33(1) of the MDA.
+> 13.    The accused is not authorized under the MDA or the Regulations made thereunder to be in possession of MDMA. He has thereby committed an offence under Section 8(a) punishable under Section 33(1) of the MDA.
 
-**Facts relating to B1’s 4th Charge (DAC-907166-2018)**
+> **Facts relating to B1’s 4th Charge (DAC-907166-2018)**
 
-14.    On 13th November 2017, at the CNB office at Clementi Police Divisional HQ, the accused provided two bottles of his urine samples. The bottles were sealed “CENTRAL NARCOTICS BUREAU”, and marked “C-SD-17-00075-1 KEE HSIAO HSIEN SXXX” and “C-SD-17-00075-2 KEE HSIAO HSIEN SXXX” respectively, in his presence. On 14th November 2017, the said two bottles of urine samples were sent to the HSA for analysis.
+> 14.    On 13th November 2017, at the CNB office at Clementi Police Divisional HQ, the accused provided two bottles of his urine samples. The bottles were sealed “CENTRAL NARCOTICS BUREAU”, and marked “C-SD-17-00075-1 KEE HSIAO HSIEN SXXX” and “C-SD-17-00075-2 KEE HSIAO HSIEN SXXX” respectively, in his presence. On 14th November 2017, the said two bottles of urine samples were sent to the HSA for analysis.
 
-15.    On 16th November 2017, the HSA issued the following two certificates under Section 16 of the MDA:
+> 15.    On 16th November 2017, the HSA issued the following two certificates under Section 16 of the MDA:
 
-a.    A certificate bearing Lab No. AT-1733-09933-001-03, by Ng Chee Ann, an analyst in the Analytical Toxicology Laboratory of the HSA, who had conducted the analysis of the sample marked “C-SD-17-00075-1 KEE HSIAO HSIEN SXXX”, which states that, on analysis, the said sample was found to contain Methamphetamine.
+>> a.    A certificate bearing Lab No. AT-1733-09933-001-03, by Ng Chee Ann, an analyst in the Analytical Toxicology Laboratory of the HSA, who had conducted the analysis of the sample marked “C-SD-17-00075-1 KEE HSIAO HSIEN SXXX”, which states that, on analysis, the said sample was found to contain Methamphetamine.
 
-b.    A certificate bearing Lab No. AT-1733-09933-002-03, by Goh Mei Ling Evelyn, an analyst in the Analytical Toxicology Laboratory of the HSA, who had conducted the analysis of the sample marked “C-SD-17-00075-2 KEE HSIAO HSIEN SXXX”, which states that, on analysis, the said sample was found to contain Methamphetamine.
+>> b.    A certificate bearing Lab No. AT-1733-09933-002-03, by Goh Mei Ling Evelyn, an analyst in the Analytical Toxicology Laboratory of the HSA, who had conducted the analysis of the sample marked “C-SD-17-00075-2 KEE HSIAO HSIEN SXXX”, which states that, on analysis, the said sample was found to contain Methamphetamine.
 
-16.    Methamphetamine is a Specified Drug listed in the Fourth Schedule to the MDA.
+> 16.    Methamphetamine is a Specified Drug listed in the Fourth Schedule to the MDA.
 
-17.    Investigations revealed that the accused had abused methamphetamine for about two to three times a week since March 2015, in order to stay awake during work. He would abuse about 0.5 gram of methamphetamine each time. The last time he abused methamphetamine was on the night of 12th November 2017 in his room of his current residence. He had placed some ‘ice’ in a glass bong and then filled it up a separate improvised glass bottle attached with a rubber tube with tap water. Thereafter, he attached the bong to the top of the improvised glass bottle. After which, the accused attached a separate rubber tube with a mouth piece to the other opening of the glass bottle. He then heated up the bottom of the bong with a lighter and inhaled the vapor through the mouth piece.
+> 17.    Investigations revealed that the accused had abused methamphetamine for about two to three times a week since March 2015, in order to stay awake during work. He would abuse about 0.5 gram of methamphetamine each time. The last time he abused methamphetamine was on the night of 12th November 2017 in his room of his current residence. He had placed some ‘ice’ in a glass bong and then filled it up a separate improvised glass bottle attached with a rubber tube with tap water. Thereafter, he attached the bong to the top of the improvised glass bottle. After which, the accused attached a separate rubber tube with a mouth piece to the other opening of the glass bottle. He then heated up the bottom of the bong with a lighter and inhaled the vapor through the mouth piece.
 
-18.    The accused is not authorized under the MDA or the Regulations made thereunder to consume a specified drug. The accused has thereby committed an offence under Section 8(b)(ii) and punishable under Section 33(1) of the MDA.
+> 18.    The accused is not authorized under the MDA or the Regulations made thereunder to consume a specified drug. The accused has thereby committed an offence under Section 8(b)(ii) and punishable under Section 33(1) of the MDA.
 
-**Facts relating to B1’s 5th charge (DAC-901767-2018)**
+> **Facts relating to B1’s 5th charge (DAC-901767-2018)**
 
-19.    The following exhibits which were found in the accused possession as stated in paragraph 2 above were utensils intended to be used in connection with the consumption of a Class A controlled drug listed in The First Schedule to the MDA:
+> 19.    The following exhibits which were found in the accused possession as stated in paragraph 2 above were utensils intended to be used in connection with the consumption of a Class A controlled drug listed in The First Schedule to the MDA:
 
-a.    One (01) rubber tube attached to one (01) mouth piece (later marked as “A4A”) found inside “A4”
+>> a.    One (01) rubber tube attached to one (01) mouth piece (later marked as “A4A”) found inside “A4”
 
-b.    Two (02) glass utensils attached with rubber tube (later marked as “A4B”) found inside “A4”
+>> b.    Two (02) glass utensils attached with rubber tube (later marked as “A4B”) found inside “A4”
 
-c.    One (01) improvised glass bottle attached with rubber tube (later marked as “A4C”) found inside “A4”
+>> c.    One (01) improvised glass bottle attached with rubber tube (later marked as “A4C”) found inside “A4”
 
-20.    The accused had admitted that he had used the above stated exhibits to consume methamphetamine. The accused was not authorized to be in possession of the said exhibits under the MDA or the regulations made thereunder. He has thereby committed an offence under Section 9 punishable under Section 33(1) of the MDA.
+> 20.    The accused had admitted that he had used the above stated exhibits to consume methamphetamine. The accused was not authorized to be in possession of the said exhibits under the MDA or the regulations made thereunder. He has thereby committed an offence under Section 9 punishable under Section 33(1) of the MDA.
 
 7       The Accused admitted without qualification the SOF. Accordingly, he was found guilty and convicted of these 4 charges.
 
@@ -275,15 +275,15 @@ c.    One (01) improvised glass bottle attached with rubber tube (later mark
 
 54     The Defence submitted for the following sentences to be imposed:
 
-(a)     5 years’ imprisonment for DAC 941355/2017
+> (a)     5 years’ imprisonment for DAC 941355/2017
 
-(b)     8 months’ imprisonment for DAC 907164/2018
+> (b)     8 months’ imprisonment for DAC 907164/2018
 
-(c)     6 months’ imprisonment for DAC 907165/2018
+> (c)     6 months’ imprisonment for DAC 907165/2018
 
-(d)     7 months’ imprisonment for DAC 907166/2018
+> (d)     7 months’ imprisonment for DAC 907166/2018
 
-(e)     2 months’ imprisonment for DAC 907167/2018
+> (e)     2 months’ imprisonment for DAC 907167/2018
 
 55     In support of the submission, the defence referred to various sentencing precedents, in particular the case of _Loo Pei Xiang Alan v PP <span class="citation">\[2015\] 5 SLR 500</span>_.
 
@@ -299,15 +299,15 @@ c.    One (01) improvised glass bottle attached with rubber tube (later mark
 
 60     Having taken into account the submissions of both the parties, the circumstances and the nature of the offences committed and the punishments prescribed for the offences, I sentenced the Accused as follows:
 
-(a)     5 years 3 months’ imprisonment for DAC 941355/2017
+> (a)     5 years 3 months’ imprisonment for DAC 941355/2017
 
-(b)     8 months’ imprisonment for DAC 907164/2018
+> (b)     8 months’ imprisonment for DAC 907164/2018
 
-(c)     6 months’ imprisonment for DAC 907165/2018
+> (c)     6 months’ imprisonment for DAC 907165/2018
 
-(d)     8 months’ imprisonment for DAC 907166/2018
+> (d)     8 months’ imprisonment for DAC 907166/2018
 
-(e)     2 months’ imprisonment for DAC 907167/2018
+> (e)     2 months’ imprisonment for DAC 907167/2018
 
 61     The sentences in DAC 941355/2017 and DAC 907166/2018 were ordered to run consecutively. The other sentences were to run concurrently with these 2 sentences. Hence the total sentence was 5 years 11 months’ imprisonment. The sentence was back dated to 18 Nov 2017.
 
