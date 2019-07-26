@@ -1,0 +1,313 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Lee Shing Chan and another  
+
+### \[2019\] SGMC 38
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Magistrate's Arrest Case Nos 900672 and 900673 of 2018</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">19 July 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">Magistrates Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Lim Siew Mei Regina</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Daphne Lim (Attorney-General's Chambers) for the prosecution; the first accused in person; and the second accused in person.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Lee Shing Chan — Tan Ah Lai</td></tr></tbody></table>
+
+\[LawNet Editorial Note: An appeal to this decision has been filed in MA 9088-9089/2019/01.\]
+
+19 July 2019
+
+### Magistrate Lim Siew Mei Regina:
+
+## Introduction
+
+1       The accused persons, Mr Lee Shing Chan and Mr Tan Ah Lai, each faced one charge of unlawful stalking under s 7 of the Protection from Harassment Act (Cap 256A, 2015 Rev Ed) (“the Act”) and one charge of using abusive words towards a public servant under s 6 of the Act. Both claimed trial to the s 7 charges. Mr Tan also claimed trial to the s 6 charge whereas Mr Lee indicated on the first day of trial that he would be pleading guilty to the s 6 charge. The s 6 charge against Mr Lee was therefore stood down and the proceeded charges were the s 7 charge against Lee, the s 7 charge against Mr Tan and the s 6 charge against Mr Tan. The accused persons were jointly tried before me.
+
+2       At the conclusion of the trial, I found that the three proceeded charges had been proved beyond a reasonable doubt and convicted Mr Lee and Mr Tan accordingly. Mr Lee pleaded guilty to the s 6 charge against him and was also convicted on that charge. The following sentences were passed: for Mr Lee, four months’ imprisonment for the s 7 charge and one week’s imprisonment for the s 6 charge; and for Mr Tan, four months’ imprisonment for the s 7 charge and nine days’ imprisonment for the s 6 charge. The sentences were ordered to run consecutively.
+
+3       Mr Lee and Mr Tan have appealed against their conviction and sentence for the s 7 charges. I now set out the full grounds of my decision in respect of the s 7 charges.
+
+## Facts
+
+4       Mr Lee and Mr Tan were unlicensed fruit hawkers. On 6 June 2016 at about 5.45pm, Mr Tan was spotted selling fruit in the vicinity of Yew Tee MRT station by two officers from the National Environment Agency (“NEA”), Mr Mohamed Shammir s/o Thirunauc Karasu and Mr Siow Chee Tseng. Mr Lee, along with Mr Chow Yong Heng, were at that time arranging boxes of fruit nearby, next to Mr Lee’s silver Nissan lorry bearing registration number GBD3116K (“the Lorry”).[^1] As Mr Tan had no licence to sell fruit, he was issued a summons.[^2] The fruit and the items which formed a makeshift table used to display the fruit for sale, such as wooden planks, were seized.[^3]
+
+5       After the seizure, the NEA team, comprising the two NEA officers, Mr Shammir and Mr Siow, a driver, Mr Nagalingam Chilvarajo, and a CISCO officer, Mr Yasothaaran Thessaruva, left in a van bearing registration number GBC2637K (“the NEA Van”). They proceeded to Lakeside MRT station to collect other seized items from their colleagues stationed there.[^4] Mr Lee, Mr Tan and Mr Chow followed in the Lorry. On the journey from Yew Tee MRT station to Lakeside MRT station, Mr Shammir observed that the Lorry was following the NEA Van and he instructed Mr Nagalingam to drive into the slip road right behind Lakeside MRI station, which is a dead end, to see if the Lorry would follow them there. When the NEA Van went into the slip road, the Lorry followed. The NEA Van made a three-point turn, came out of the slip road and stopped along the main road, which is Boon Lay Way, next to Lakeside MRT station.[^5] The Lorry followed and stopped in front of the NEA Van about 10–15m or about three car lengths away. There was no vehicle between the NEA Van and the Lorry and, as such, Mr Shammir was able to see Mr Lee, who was the driver of the Lorry, Mr Tan as well as Mr Chow in the Lorry.[^6]
+
+6       After the NEA team had collected the seized items at Lakeside MRT station, they proceeded to Pioneer MRT station, where there were more seized items to be collected. The Lorry followed. The NEA Van stopped at a car park of a HDB block near an exit of Pioneer MRT station.[^7] The Lorry stopped about two car lengths away. Because the front of the Lorry faced the NEA Van, Mr Siow could see Mr Lee, Mr Tan and Mr Chow in the Lorry.[^8] During the process of loading the seized items at Pioneer MRT station onto the NEA Van, Mr Shammir noticed that Mr Lee and Mr Tan had disembarked from the Lorry and were standing outside the Lorry, talking to the driver of another lorry. That other lorry belonged to the unlicensed fruit hawkers who had been selling fruit at Pioneer MRT station.[^9] When the NEA team boarded the NEA Van, Mr Lee and Mr Tan followed suit in boarding the Lorry. When the NEA Van drove off, the Lorry did so too.[^10]
+
+7       At this juncture, Mr Siow and Mr Shammir decided to test if the Lorry was deliberately following them by relocating to a different car park. The NEA Van went out of the car park that it was in and went into a car park that was opposite. The Lorry followed the NEA Van into the second car park.[^11] The NEA team then decided to head to a Shell petrol station for a toilet break and to buy drinks. From that car park to Shell petrol station, the Lorry followed closely — in Mr Shammir’s words, “as if it was a convoy”.[^12] When the NEA Van reached and entered the Shell petrol station at Jurong West, the Lorry parked along the main road outside the station.[^13]
+
+8       The NEA Van made its way to the NEA North East Regional Office at Blk 174 Sin Ming Drive in order to dispose of the seized items. The Lorry followed the NEA Van to the office. There was no vehicle between the NEA Van and the Lorry en route to the office.[^14] As the gate to the office opened for the NEA Van, the Lorry stopped directly across the road.[^15] Whilst inside the office premises, the NEA team unloaded the seized items from the NEA Van and placed them inside bins. Mr Lee, Mr Tan and Mr Chow came down from the Lorry, which was still parked across the road, and looked at the NEA team.[^16] Mr Lee, Mr Tan and Mr Chow were neither behind nor inside the Lorry and therefore were in clear view of Mr Siow and Mr Shammir.[^17]
+
+9       After consulting their manager, Mr Siow and Mr Shammir decided to continue their rounds as their shift was not over.[^18] They also decided to carry out another test to see if the Lorry would follow the NEA Van. After leaving the office, the NEA Van drove to a McDonald’s restaurant at Ang Mo Kio Ave 6. When the NEA Van entered the drive-though, the Lorry stopped along the main road.[^19]
+
+10     The NEA Van went on to Seah Im Food Centre. The Lorry followed behind, though at one point in time when the NEA Van stopped at a traffic light, the Lorry stopped right next to it. At that traffic light, Mr Lee turned to his right and stared at the NEA team.[^20] When the NEA team arrived at the open air car park next to Seah Im Food Centre, they parked the NEA Van in a vacant lot. Shortly after, the Lorry was parked to the left of the NEA Van about one or two lots away. There was no vehicle between the NEA Van and the Lorry.[^21]
+
+11     Mr Siow alighted from the NEA Van and took a photograph of the Lorry’s licence plate and a photograph of the side of the Lorry which showed the name of the company that the Lorry was registered under.[^22] After the two photographs were taken, Mr Lee, Mr Tan and Mr Chow alighted from the Lorry. Mr Lee asked Mr Siow why he was photographing the Lorry and demanded to see Mr Siow’s warrant card. Mr Siow was not willing to show Mr Lee his warrant card. Vulgarities were used against Mr Siow. Around this time, Mr Shammir alighted from the NEA Van to ask Mr Siow to get back into the NEA Van. Mr Yasothaaran also alighted from the NEA Van.[^23] As Mr Siow, Mr Shammir and Mr Yasothaaran tried to board the NEA Van, Mr Lee stood before the NEA Van with his arms wide open and held on to the front passenger door and the open back passenger door.[^24] More vulgarities were used.[^25] There was break in the standoff when Mr Lee walked a few steps away from the NEA Van to make a call. Mr Siow, Mr Shammir and Mr Yasothaaran seized the opportunity to board the NEA Van.[^26] The vulgarities formed the subject matter of the s 6 charges against Mr Lee and Mr Tan.
+
+12     On the journey back to the office, the Lorry followed very closely and in a manner which Mr Shammir described as akin to the Lorry “tailgating” the NEA Van.[^27] A short video of the Lorry following the NEA Van was recorded by Mr Shammir using his mobile phone.[^28] On the advice of his manager,[^29] Mr Shammir made a police report at 10.06pm. The first information report recorded the following message: [^30]
+
+> I AM CALLING FROM NEA. EARLIER AT 7PM I HAD BOOKED OFFENDER AT YEW TEE MRT STATION. NOW A CAR IS FOLLOWING MY VEHICLE. I AM ON THE WAY BACK TO MY OFFICE AND WILL ARRIVE IN 10 MINUTES TIME
+
+The manager further advised the NEA team not to enter the office premises directly, but to park at the car park at Sin Ming Drive.[^31]
+
+13     When the NEA Van was parked at the car park at Sin Ming Drive, the Lorry was parked along the main road just outside the car park.[^32] A police car arrived soon after and the police interviewed Mr Lee, Mr Tan and Mr Chow. During this period when the occupants of the Lorry were occupied with the police, the NEA Van left the car park and returned to the office.[^33]
+
+14     The police later came by the NEA office to interview Mr Shammir. As the interview was taking place, the Lorry approached the office and stopped briefly on the road across the office before moving off.[^34]
+
+## The s 7 charges
+
+15     The s 7 charges contain a summary of the events that unfolded on 6 June 2016. I set out the s 7 charge against Mr Lee:
+
+> You … are charged that you, on 6 June 2016, from about 7.00 p.m. to about 10.04 p.m., in Singapore, together with Tan Ah Lai … and Chow Yong Heng … and in the furtherance of the common intention of you all, with the intention to cause alarm to one Siow Chee Tseng and one Mohamed Shammir s/o Thirunauc Karasu, who were travelling in a vehicle bearing registration number GBC2637K, did unlawfully stalk them by following them in a lorry bearing registration number GBD3116K, of which you were the driver, to various locations, namely:
+
+>> i.    From Yew Tee MRT station to Lakeside MRT station;
+
+>> ii.    From Lakeside MRT station to the car park located at Blk 650B, Jurong West Street 63, Singapore (“the Blk 650B car park”);
+
+>> iii.   From Blk 650B car park to a ‘Shell’ petrol station located along Jurong West Ave 5, Singapore (“the petrol station”);
+
+>> iv.    From the petrol station to Blk 174 Sin Ming Drive, NEA North East Regional Office, Singapore (“the NEA office”);
+
+>> v.    From the NEA office to a McDonald’s restaurant located along Ang Mo Kio Ave 6, Singapore (“the McDonald’s restaurant”);
+
+>> vi.    From the McDonald’s restaurant to the open air car park located next to Seah Im Food Centre, 2 Seah Im Road, Singapore (“the Seah Im car park”); and
+
+>> vii.   From the Seah Im car park to the NEA office,
+
+> thereby causing alarm to the said Siow Chee Tseng and Mohamed Shammir s/o Thirunauc Karasu, and you have thereby contravened section 7(1) of the Protection from Harassment Act (Cap 256A, 2015 Rev Ed) and committed an offence punishable under s 7(6) of the said Act read with section 34 of the Penal Code (Cap 224, 2008 Rev Ed).
+
+16     The s 7 charge against Mr Tan is identical to the above charge, save that Mr Tan’s name is replaced with Mr Lee’s name and the reference to Mr Lee’s role as the driver of the Lorry is replaced with a reference to Mr Tan’s role as a passenger of the Lorry.
+
+## The law
+
+17     Section 7(1) of the Act prohibits the unlawful stalking of another person and s 7(2) of the Act defines the three main elements of unlawful stalking:
+
+> Subject to subsection (7), a person (referred to in this section as the accused person) unlawfully stalks another person (referred to for the purposes of this section as the victim) if the accused person engages in a course of conduct which —
+
+>> (_a_) involves acts or omissions associated with stalking;
+
+>> (_b_) causes harassment, alarm or distress to the victim; and
+
+>> (_c_) the accused person —
+
+>>> (i)    intends to cause harassment, alarm or distress to the victim; or
+
+>>> (ii)   knows or ought reasonably to know is likely to cause harassment, alarm or distress to the victim.
+
+18     Examples of the first element — acts or omissions associated with stalking — are provided under s 7(3) of the Act. They include “following the victim or a related person” under s 7(3)(_a_) of the Act.
+
+19     The second element concerns the consequences of stalking, namely “harassment, alarm or distress to the victim”.
+
+20     The third element is the _mens rea_. Under s 7(2)(_c_) of the Act, there are two alternative limbs of intention and knowledge. It is the prosecution’s case that Mr Lee and Mr Tan had an intention to cause alarm — not merely knowledge, actual or imputed, of some likelihood of alarm being caused — and this is expressed in the s 7 charges.
+
+21     Section 7(10) of the Act states what a “course of conduct” is. It requires more than one occasion where acts or omissions associated with stalking were carried out, or such acts or omissions to be protracted in nature, or a previous conviction of unlawful stalking in respect of the same victim. This concept of a “course of conduct” is intended to “cover acts which may in themselves be innocuous, but which when done repeatedly or in a protracted manner, may cause victims harassment, alarm and distress” (_Singapore Parliamentary Debates, Official Report_ (13 March 2014) vol 91 (K Shanmugam, Minister for Law). Section 7(10) reads as follows:
+
+> In this section —
+
+>> “course of conduct” means conduct —
+
+>>> (_a_) on one occasion, if —
+
+>>>> (i) the conduct is protracted; or
+
+>>>> (ii) the accused person has a previous conviction under this section in respect of the same victim; or
+
+>>> (_b_) on 2 or more occasions in any other case
+
+> …
+
+22     Finally, the offence of unlawful stalking is subject to reasonableness. Under s 7(7)(_a_) of the Act, reasonableness of conduct is a defence to the offence of unlawful stalking. To establish the defence, an accused person has to prove that “the course of conduct was reasonable in all the circumstances”.
+
+23     If convicted of the offence of unlawful stalking, a person is liable to be punished under s 7(6) of the Act with a fine not exceeding $5,000, or imprisonment not exceeding 12 months, or both.
+
+## My decision on liability
+
+24     I found that all three elements of unlawful stalking had been proved beyond a reasonable doubt.
+
+25     There was no dispute that Mr Lee and Mr Tan followed the NEA officers, Mr Siow and Mr Shammir, to various places in the Lorry.[^35] Mr Lee and Mr Tan accepted that their act of following the NEA officers was an act associated with stalking and would constitute the first element under s 7(2) of the Act.[^36] Their disputes lay elsewhere. First, they disputed having an intention to cause alarm to the NEA officers. Second, they disputed that their conduct in following the NEA officers had an effect of alarming the NEA officers. Third, they disputed that there was a course of conduct. In short, they disputed the existence of the other two elements of unlawful stalking under sub-ss 7(2)(_b_) and (_c_) of the Act and, more generally, of a “course of conduct” under s 7(2) of the Act. Fourth, they sought to prove that their act of following the NEA officers was reasonable in the circumstances.
+
+26     These arguments are tied more or less to the explanations that Mr Lee and Mr Tan gave for following the NEA officers. I had grave doubts about the truth of these explanations and I will now explain.
+
+27     In course of the trial, Mr Lee and Mr Tan gave evolving reasons for their conduct. The initial reason — and the only reason appearing in the written submissions tendered by Mr Lee and Mr Tan[^37] — is that they were following only to retrieve the items that had been seized from them. This is at odds with their testimony that they would not be allowed by the NEA officers to take back the items even if the items were discarded in a public place[^38] and the undisputed fact that they followed the NEA officers “openly and with no effort to conceal themselves” from the NEA officers.[^39] Given that Mr Lee and Mr Tan knew that they would be prohibited from retrieving the seized items had such attempt come to the NEA officers’ notice, it seems self-defeating for Mr Lee and Mr Tan to alert the NEA officers to their presence.
+
+28     I set out some instances where Mr Lee and Mr Tan put themselves within sight of the NEA officers. I limit these instances to the point just after Mr Lee and Mr Tan reached the NEA office for the first time. This is because a second reason for following the NEA officers allegedly developed from that point onwards and I will address that in turn.
+
+29     First, at Lakeside MRT station, the Lorry which Mr Lee drove and Mr Tan sat in as a passenger was parked “10, 15 metres” away from the NEA Van or “about 3 car lengths in front of \[the NEA officers\]”, with “no vehicles between \[the NEA Van\] and the parked lorry”.[^40] Second, at Pioneer MRT station, the Lorry was “parked very close to \[the NEA officers\]”, “about 2 car lengths” away and “this time round the front of the lorry was facing \[the NEA officers\]”, such that Mr Siow could see “how many persons were there in the lorry” and where each of them were seated.[^41] Third, from Pioneer MRT station to the Shell petrol station, the Lorry followed “closely, right behind \[the NEA officers\] in a way where it seemed as if it was a convoy”.[^42] Fourth, from the Shell petrol station to the NEA office, Mr Lee and Mr Tan were “following quite close” and “there wasn’t any vehicle between \[the NEA Van\] and \[the Lorry\]”.[^43] Fifth, at the NEA office, the Lorry “stopped directly opposite” the NEA office and Mr Lee, Mr Tan and Mr Chow “got down the lorry, and just kept looking at \[the NEA officers\]”.[^44] Further, they “were neither hiding behind the vehicle, nor were they still inside the vehicle”.[^45]
+
+30     None of the above conduct is explicable by an alleged aim of retrieving the seized items. They were actions which drew attention: parking the Lorry next to the NEA Van, parking the Lorry facing the NEA Van, parking the Lorry across the NEA office, driving the Lorry closely behind the NEA Van, and getting out of the Lorry. The conduct of Mr Lee and Mr Tan did not cohere with their self-proclaimed intention of retrieving the seized items. It is difficult to see how following the NEA officers in such an obvious manner and letting the NEA officers know that they were being followed could help Mr Lee and Mr Tan successfully retrieve those items when that might only broadcast any attempt at retrieval and enable the NEA officers to intervene.
+
+31     It is asserted in the written submissions of Mr Lee and Mr Tan that they had “no malice” because they were not following the NEA Van surreptitiously.[^46] In my view, it is precisely because Mr Lee and Mr Tan did not follow the NEA Van surreptitiously despite alleging that they were only trying to retrieve the seized items which makes this reason suspect. The brazen manner of following the NEA officers did not indicate a lack of malice towards the NEA officers. Rather, it indicated a lack of candour on the part of Mr Lee and Mr Tan in giving evidence that they only wished to retrieve items which they knew the NEA officers would not allow them to retrieve.
+
+32     In any event, the alleged reason of trying to retrieve the seized items was no longer valid once the items were disposed of in a way that no member of the public might retrieve them. That became the case when the items were discarded within the gated NEA office premises — try as Mr Lee and Mr Tan might, after this point, the items could not be retrieved anymore, and they knew as much.[^47] Thus, it is their evidence that a second reason arose for them to continue following the NEA officers. The second reason, according to Mr Lee and Mr Tan, is that Mr Shammir had waved at Mr Lee and Mr Tan to indicate that they should follow. This allegedly occurred at the NEA office.[^48]
+
+33     I found the allegation that Mr Shammir had waved at Mr Lee and Mr Tan to be implausible. First, both Mr Lee and Mr Tan were not able to explain why Mr Shammir wanted them to follow. If they perceived that Mr Shammir had waved at them, they could have asked Mr Shammir or another member of the NEA team why he had done so. This could have happened when the Lorry stopped beside the NEA Van at a traffic light on the way to Seah Im Food Centre. There was enough time for Mr Lee to turn his head to stare at the NEA team. Alternatively, it could have happened when the Lorry parked beside the NEA Van at the open air car park next to Seah Im Food Centre and the occupants of the two vehicles confronted each other. But at neither times did Mr Lee or Mr Tan enquire about the alleged request to follow. Second, there is no evidence that Mr Lee and Mr Tan were even interested in knowing why they were required to follow. Their indifference could be discerned from the way they did not alight from the Lorry at the open air car park until Mr Siow took photographs of the Lorry. Their impetus for speaking to the NEA team was the photographing of the Lorry, not Mr Shammir’s alleged waving. Correspondingly, while Mr Lee and Mr Tan sought an explanation for the taking of the photographs, they did not seek any explanation for the alleged request to follow.[^49] Third, Mr Shammir denied waving at Mr Lee and Mr Tan, and this is corroborated by Mr Siow. Their evidence is that there was no interaction between any of them and Mr Lee and Mr Tan at the NEA office.[^50] Fourth, at the end of the day, it is not apparent how the following of the NEA officers would fulfil any purpose. There is no ostensible reason for Mr Shammir to want Mr Lee and Mr Tan to follow the NEA Van from the NEA office to the open air car park next to Seah Im Food Centre.
+
+34     The third reason which Mr Lee and Mr Tan provided for following the NEA officers is that they wanted to stop the NEA officers to ask them to call the police and to demonstrate that they would not flee from the police.[^51] Their gripe is that the NEA officers failed to call the police even though they said that they would, and left the open air car park, regardless of their broken promise.[^52] Based on Mr Lee and Mr Tan’s version of events, the NEA officers essentially abandoned them at the open air car park. This meant that even if Mr Lee and Mr Tan had seen Mr Shammir waving at them and had interpreted that as a gesture to follow, they recognised that the NEA officers no longer wanted to be followed and wanted to get away from them instead. Thus, by the end of the confrontation at the open air car park, the third reason for following the NEA officers must have supplanted the second reason, similar to how the second reason had supplanted the first reason.
+
+35     I note that the alleged promise to call the police is disputed by the NEA officers, but the point is that even on Mr Lee and Mr Tan’s evidence, the NEA officers could not have indicated to or required Mr Lee and Mr Tan to continue following them.[^53]
+
+36     It seemed to me that following the NEA officers was an illogical response to the NEA officers’ failure to call the police. If Mr Lee and Mr Tan were concerned that the police had not been involved to resolve a problem, the NEA officers were not the only persons who could call the police. Mr Lee and Mr Tan could also call the police. The fact that the NEA officers had left the open air car park would not preclude Mr Lee and Mr Tan from calling the police or the police from finding Mr Lee and Mr Tan and taking down their statements. All Mr Lee and Mr Tan had to do was to make the call and disclose their location to the police, and that did not require knowledge of the current location of the NEA officers or being in the same location as the NEA officers. Therefore, it is not clear what could be meaningfully accomplished by following the NEA officers at all, much less following them in that aggressive manner shown in the video recording made by Mr Shammir. No call was in fact placed by Mr Lee and Mr Tan to the police.
+
+37     Drawing the various threads together, I had serious doubts about the veracity of the three reasons supplied by Mr Lee and Mr Tan for their conduct. These reasons are contradicted by the actual conduct of Mr Lee and Mr Tan of following the NEA officers closely and in plain sight to multiple locations for an extended period of time. As summarised in the s 7 charges, the stalking began at Yew Tee MRT station and continued when Mr Lee and Mr Tan followed the NEA officers to Lakeside MRT station, the carpark at Blk 650B Jurong West St 63, the Shell petrol station along Jurong West Ave 5, the NEA office at Blk 174 Sin Ming Drive, the McDonald’s restaurant along Ang Mo Kio Ave 6, the car park next to Seah Im Food Centre and the NEA office again. The prosecution submitted that the irresistible inference to be drawn from their conduct is that they intended to cause alarm to the NEA officers. I agreed. An intention to cause alarm would completely explain Mr Lee and Mr Tan’s conduct, whereas the evolving reasons given by Mr Lee and Mr Tan would not.
+
+38     I found that Mr Lee and Mr Tan’s conduct had an effect of causing alarm to the NEA officers. After observing the Lorry following them for a while, Mr Siow worried about being followed “all the way back to where \[they\] stay---where \[they\] live”.[^54] Mr Siow noticed that he was being “blatantly” followed and that Mr Lee and Mr Tan were “making it very clear that they are actually following \[the NEA team\] and not hiding”. After the confrontation, Mr Siow “felt more threatened than before”.[^55] Mr Shammir also worried about “\[his\] own safety and \[his\] team’s safety”. Like Mr Siow, Mr Shammir worried that he would be followed home. He worried that Mr Lee and Mr Tan might “decide to act rashly and knock \[them\] down with the lorry” as well.[^56] Consistent with these fears, the NEA officers called the police and informed their manager about being followed.
+
+39     Mr Lee and Mr Tan argued that Mr Siow and Mr Shammir could not have been alarmed because an auxiliary police officer, Mr Yasothaaran, was present and could act against Mr Lee and Mr Tan should any untoward incident arise.[^57] But this was not put to Mr Siow or Mr Shammir at trial. It seems to be an afterthought as the prosecution contended. It was never part of Mr Lee and Mr Tan’s defence before the written submissions were tendered. Neither Mr Lee nor Mr Tan gave any evidence as to the effect that Mr Yasothaaran’s presence had on the situation. A converse argument can also be made, as the prosecution did, that because Mr Lee and Mr Tan had the temerity to follow the NEA officers in spite of Mr Yasothaaran’s presence, it did not stand to reason that Mr Siow and Mr Shammir would not be alarmed. In fact, Mr Yasothaaran’s presence served to show the boldness of Mr Lee and Mr Tan in following the NEA team and that could well be a cause for alarm.
+
+40     In the written submission, Mr Lee and Mr Tan went further into an analysis of the factors under s 7(5) of the Act which the court may consider in deciding whether a course of conduct is likely to cause harassment, alarm or distress. These factors are referable to the _mens rea_ under s 7(2)(_c_)(ii) of the Act, which is that the accused person “knows or ought reasonably to know \[that the course of conduct\] is likely to cause harassment, alarm or distress to the victim”. As mentioned at \[20\], the prosecution sought to prove the other _mens rea_ under s 7(2)(_c_)(i) of the Act, which is that the accused person “intends to cause harassment, alarm or distress to the victim”. The factors under s 7(5) of the Act would have no relevance in terms of establishing the intentions of Mr Lee and Mr Tan.
+
+41     It was not clear to me whether Mr Lee and Mr Tan were relying on the factors under s 7(5) of the Act for a different purpose of showing that Mr Siow and Mr Shammir were not actually alarmed because the conduct of Mr Lee and Mr Tan was not likely to cause them alarm. If that was the argument sought to be advanced by Mr Lee and Mr Tan, I was not persuaded of it. The submissions centred on the limited duration of stalking, how Mr Lee and Mr Tan’s conduct should be “a single act and not a repetitive act”,[^58] and the lack of any effect of the stalking had on the NEA officers’ “health, reputation, economic position \[or\] their freedom to do any act which they are legally entitled to do or not do any act which they are not legally bound to do”.[^59] While these submissions indicate that certain aggravating factors were absent in this case, they do not detract from the vital fact that Mr Lee and Mr Tan let Mr Siow and Mr Shammir know that they were being followed and did not relent in following Mr Siow and Mr Shammir even after the confrontation, which grounded Mr Siow and Mr Shammir’s worries about being followed home and knocked down by the Lorry.
+
+42     The limited duration of stalking was raised separately to deny that there was a “course of conduct” as defined by s 7(10) of the Act. Under s 7(10)(_a_), a “course of conduct” includes conduct “on one occasion” if “the conduct is protracted”. Mr Lee and Mr Tan submitted that what was done over “a couple of hours” should not be considered to be protracted.[^60] I disagreed. The conduct of following a victim for hours, in my view, is protracted.
+
+43     As all the elements of unlawful stalking were made out, the final issue was whether Mr Lee and Mr Tan had a defence for the offence. Under s 7(7)(_a_) of the Act, it is a defence for an accused person to prove that the course of conduct was reasonable in all the circumstances. Mr Lee and Mr Tan’s argument in this regard was that they followed the NEA officers with the sole intention of seeing where the NEA officers would discard the seized items so that they could retrieve the items.[^61] But a single-minded interest in retrieving the seized items would not explain why Mr Lee and Mr Tan showed themselves to the NEA officers as they followed the NEA officers. It was also not the only reason given by Mr Lee and Mr Tan at trial for following the NEA officers because it could not explain why Mr Lee and Mr Tan continued following the NEA officers after the items were put out of their reach. Apart from following the NEA officers, Mr Lee and Mr Tan confronted the NEA officers at the open air car park and blocked the NEA officers from boarding the NEA Van to leave open air car park. What would be consistent with this entire conduct is not an intention to retrieve the seized items, but an intention to alarm the NEA officers. Accordingly, I found that Mr Lee and Mr Tan’s conduct was not reasonable in all circumstances and they had no defence under s 7(7)(_a_) of the Act.
+
+## My decision on sentence
+
+44     For the offence of unlawful stalking, I sentenced Mr Tan and Mr Lee to four months’ imprisonment each.
+
+45     The stalking was carried out against NEA officers while they were executing their official duties. I considered this to be a serious aggravating factor. In their public-facing role as law enforcement officers, NEA officers are susceptible to being targeted for reprisal. Their duties do not endear them to the individuals against whom they enforce the law. They are visible to the public and easy to identify. There is a need to protect them from being abused as a consequence for enforcing the law. Hence, the sentence for the offence of unlawful stalking should be sufficiently deterrent to deter like-minded offenders.
+
+46     In this case, Mr Lee and Mr Tan stalked Mr Siow and Mr Shammir in response to the seizure of items at their unlicensed fruit stall. I found that Mr Lee and Mr Tan possessed an intention to cause alarm to Mr Siow and Mr Shammir, not merely knowledge that their course of conduct was likely to cause alarm. I also found that Mr Lee and Mr Tan succeeded in alarming Mr Siow and Mr Shammir.
+
+47     The other offence-specific factors in this case are less severe. The duration of stalking was short. It lasted for a few hours. There was, on the whole, limited interference with the NEA officers’ work. It might be said that the NEA officers could not carry out their duties as efficiently as possible because detours were taken, for example, to a McDonald’s restaurant, in order for the NEA officers to assess whether Mr Lee and Mr Tan were following them. But even though Mr Lee and Mr Tan were not discreet in following the NEA officers, the NEA officers continued their enforcement actions.
+
+48     Mr Lee and Mr Tan had been separately charged for their use of abusive words. To avoid double counting, I did not consider the confrontation between the NEA officers and Mr Lee and Mr Tan, which was a necessary occasion for the abusive words to be used, as an aggravating factor for the s 7 offence. As part of that confrontation, Mr Lee temporarily blocked the NEA team from boarding the NEA Van. That was submitted by the prosecution as an aggravating factor for the s 6 offence. Similarly, I did not take that into account for the s 7 offence so as not to double count.
+
+49     An operative principle in this case is the principle of parity of sentencing amongst co-offenders. This is because there is a third offender, Mr Chow, who was earlier sentenced for a s 7 offence. Mr Chow was the third person in the Lorry. Mr Lee, Mr Tan and Mr Chow were in the same vehicle, travelled to the same places and stalked the NEA officers for the same duration of time. The offence-specific factors are essentially indistinguishable for all three offenders.
+
+50     The key difference is in one offender-specific factor. Mr Chow pleaded guilty at the earliest opportunity on 26 July 2018 to a single proceeded charge under s 7 of the Act. The s 7 charge against Mr Chow corresponds to the s 7 charges against Mr Lee and Mr Tan. Mr Chow was sentenced to three months’ imprisonment.
+
+51     In terms of antecedents, Mr Lee, Mr Tan and Mr Chow each have one relevant antecedent. Mr Lee has an antecedent for committing affray which was punishable under s 267B of the Penal Code (Cap 224, 1985 Rev Ed) (“PC 1985”) in 2009. Mr Tan has an antecedent, albeit a very dated antecedent, for voluntarily causing hurt to deter a public servant from his duty which was punishable under s 332 of the Penal Code (Cap 103, 1970 Rev Ed) in 1986. Mr Chow has an antecedent of voluntarily causing grievous hurt by dangerous weapons or means which was punishable under s 326 of PC 1985 in 1993.
+
+52     As stated in _Lim Bee Ngan Karen v Public Prosecutor_ <span class="citation">\[2015\] 4 SLR 1120</span> (“_Karen Lim_”) at \[53\], “\[t\]he objective of the parity principle is to ensure that there is a _high level of consistency in sentencing_”. Thus, as a starting point, where offenders are engaged in the same offence or the same criminal enterprise, the sentences imposed on these offenders should be the same. But where there are varying degrees of culpability and relevant differences in the offenders’ personal circumstances, that may justify a higher or lower sentence: _Karen Lim_ at \[46\]. It follows that the parity principle does not always mandate an identical sentence being imposed on each offender. The appropriate sentence for each offender depends still on their relative actions and subjective circumstances.
+
+53     The sentence of three months’ imprisonment was imposed on Mr Chow after he had pleaded guilty. A sentencing discount is usually given for plea of guilt cases and the reasons include that a timely plea is indicative of genuine remorse and it saves the resources of the State which would otherwise have been expended if there were a trial: _Lim Teck Kim v Public Prosecutor_ <span class="citation">\[2019\] SGHC 99</span> (“_Lim Teck Kim_”) at \[45(a)\]. As Mr Lee and Mr Tan had claimed trial, they were not entitled to a sentencing discount.
+
+54     The sentencing discount suggested at \[45(a)\] of _Lim Teck Kim_ is 25%. Without a 25% discount, three months’ imprisonment would be four months’ imprisonment. I found this to be the appropriate sentence for the s 7 offences committed by Mr Lee and Mr Tan. To reiterate, the offence-specific factors are common for all three offenders because they were equally involved in the unlawful stalking of the NEA officers, Mr Lee and Mr Tan’s criminal records are not any better than Mr Chow’s, and the main difference is that Mr Chow pleaded guilty whereas Mr Lee and Mr Tan did not, so the mitigating value of a plea of guilt is absent here. To achieve parity in sentencing amongst co-offenders, the sentencing discount which would be accorded to Mr Chow for his early plea of guilty was taken out in this case.
+
+55     In _Gan Chai Bee Anne v Public Prosecutor_ <span class="citation">\[2019\] SGHC 42</span> at \[26\], the High Court cautioned against an approach of correlating sentences without ascertaining why each sentence is inherently appropriate, and impressed upon the importance of having an objective, and not just a relative, basis for each sentence. The issue which this case raises is whether the sentence meted out to the earlier-sentenced co-offender is justifiable. If that sentence is erroneous, the parity principle alone would not ensure that the sentences for the co-offenders who are tried later are appropriate. In this case, no submission was made that Mr Chow’s sentence is erroneous. Neither did I consider it to be erroneous. Mr Chow did not appeal against his sentence. As such, I regarded Mr Chow’s sentence as pertinent information for determining Mr Lee and Mr Tan’s sentences. But independently from Mr Chow’s sentence, considering the factors at \[45\]–\[47\] and the need for deterrence, I also found that four months’ imprisonment is an appropriate sentence.
+
+## Conclusion
+
+56     For the foregoing reasons, I sentenced Mr Lee and Mr Tan both to four months’ imprisonment for their s 7 offences. The sentences are stayed pending appeal.
+
+* * *
+
+[^1]: NE (Day 2), 8 January 2019, p 8, lines 8–23.
+
+[^2]: NE (Day 1), 7 January 2019, p 27, lines 27–30.
+
+[^3]: NE (Day 1), 7 January 2019, p 29, lines 8–20; NE (Day 2), 8 January 2019, p 10, lines 18–20.
+
+[^4]: NE (Day 1), 7 January 2019, p 30, lines 11–15; NE (Day 2), 8 January 2019, p 12, lines 19–23.
+
+[^5]: NE (Day 2), 8 January 2019, p 12, line 24 – p 13, line 32.
+
+[^6]: NE (Day 1), 7 January 2019, p 30, line 19 – p 31, line 14; NE (Day 2), 8 January 2019, p 13, line 30 – p 14, line 23.
+
+[^7]: NE (Day 1), 7 January 2019, p 31, lines 26–32; NE (Day 2), 8 January 2019, p 14, line 24 – p 14, line 11.
+
+[^8]: NE (Day 1), 7 January 2019, p 32, line 3 – p 33, line 1.
+
+[^9]: NE (Day 2), 8 January 2019, p 15, lines 12–29.
+
+[^10]: NE (Day 2), 8 January 2019, p 15, line 30 – p 16, line 3.
+
+[^11]: NE (Day 1), 7 January 2019, p 35, line 13 – p 36, line 19; NE (Day 2), 8 January 2019, p 16, lines 3–19.
+
+[^12]: NE (Day 2), 8 January 2019, p 17, line 2.
+
+[^13]: NE (Day 1), 7 January 2019, p 38, lines 2–14; NE (Day 2), 8 January 2019, p 16, lines 20–28.
+
+[^14]: NE (Day 1), 7 January 2019, p 41, lines 4–10.
+
+[^15]: NE (Day 1), 7 January 2019, p 39, lines 7–22; NE (Day 2), 8 January 2019, p 17, lines 9–30; p 18, line 27 – p 19, line 30; exhibit P6.
+
+[^16]: NE (Day 1), 7 January 2019, p 39, lines 16–22; NE (Day 2), 8 January 2019, p 18, lines 14–22.
+
+[^17]: NE (Day 1), 7 January 2019, p 40, lines 21–23; NE (Day 2), 8 January 2019, p 18, lines 17–19.
+
+[^18]: NE (Day 1), 7 January 2019, p 41, line 30 – p 42, line 1.
+
+[^19]: NE (Day 1), 7 January 2019, p 42, lines 11–27; NE (Day 2), 8 January 2019, p 20, lines 16–21.
+
+[^20]: NE (Day 2), 8 January 2019, p 22, lines 1–30.
+
+[^21]: NE (Day 1), 7 January 2019, p 43, line 11 – p 44, line 4; NE (Day 2), 8 January 2019, p 23, lines 21–29.
+
+[^22]: NE (Day 1), 7 January 2019, p 44, line 5 – p 45, line 19; exhibits P2 and P3.
+
+[^23]: NE (Day 1), 7 January 2019, p 45, line 30 – p 46, line 21; NE (Day 2), 8 January 2019, p 24, line 1 – p 25, line 5.
+
+[^24]: NE (Day 1), 7 January 2019, p 47, lines 3–13; NE (Day 2), 8 January 2019, p 27, lines 1–25.
+
+[^25]: NE (Day 1), 7 January 2019, p 47, lines 14–20; NE (Day 2), 8 January 2019, p 27, lines 26–27.
+
+[^26]: NE (Day 1), 7 January 2019, p 49, lines 9–19; NE (Day 2), 8 January 2019, p 27, line 28 – p 28, line 3.
+
+[^27]: NE (Day 2), 8 January 2019, p 29, lines 9–13.
+
+[^28]: NE (Day 2), 8 January 2019, p 34, line 10 – p 35, line 25.
+
+[^29]: NE (Day 1), 7 January 2019, p 50, lines 28–30.
+
+[^30]: Exhibit P1.
+
+[^31]: NE (Day 1), 7 January 2019, p 50, line 30 – p 51, line 1; NE (Day 2), 8 January 2019, p 29, lines 16–20.
+
+[^32]: NE (Day 1), 7 January 2019, p 51, line 30 – p 52, line 1; NE (Day 2), 8 January 2019, p 30, lines 12–17.
+
+[^33]: NE (Day 1), 7 January 2019, p 52, lines 7–11; NE (Day 2), 8 January 2019, p 30, lines 21–29.
+
+[^34]: NE (Day 1), 7 January 2019, p 53, lines 1–7; NE (Day 2), 8 January 2019, p 31, lines 3–11.
+
+[^35]: Defence’s Submission, para 4.
+
+[^36]: Defence’s Submission, para 13.
+
+[^37]: Defence’s Submission, paras 6, 7 and 18.
+
+[^38]: NE (Day 3), 13 March 2019, p 2, line 18 – p 3, line 8; p 50, lines 12–15.
+
+[^39]: Defence’s Submission, para 6.
+
+[^40]: NE (Day 1), 7 January 2019, p 30, line 24; p 31, line 7; lines 13–14; NE (Day 2), 8 January 2019, p 14, line 1; lines 11–16.
+
+[^41]: NE (Day 1), 7 January 2019, p 32, lines 1–2; lines 5–18.
+
+[^42]: NE (Day 2), 8 January 2019, p 16, line 29 – p 17, line 2.
+
+[^43]: NE (Day 1), 7 January 2019, p 40, line 29 – p 41, line 10.
+
+[^44]: NE (Day 2), 8 January 2019, p 17, lines 26–29.
+
+[^45]: NE (Day 1), 7 January 2019, p 40, lines 22–23.
+
+[^46]: Defence’s Submission, para 6.
+
+[^47]: NE (Day 3), 13 March 2019, p 5, lines 15–18; p 50, lines 9–11.
+
+[^48]: NE (Day 3), 13 March 2019, p 22, lines 5–7; p 37, lines 17–19; p 41, lines 17–18; p 46, lines 18; p 48; lines 1–3; p 51, line 21 – p 52, line 17.
+
+[^49]: NE (Day 3), 13 March 2019, p 52, lines 18–24; p 53, lines 8–18.
+
+[^50]: NE (Day 1), 7 January 2019, p 40, lines 5–12; NE (Day 2), 8 January 2019, p 21, lines 26–29.
+
+[^51]: NE (Day 3), 13 March 2019, p 11, lines 25–28; p 54, lines 12–14.
+
+[^52]: NE (Day 3), 13 March 2019, p 53, line 19 – p 54, line 14; p 55, lines 6–15, 25–32.
+
+[^53]: NE (Day 3), 13 March 2019, p 54, lines 20–27.
+
+[^54]: NE (Day 1), 7 January 2019, p 54, lines 22–23.
+
+[^55]: NE (Day 1), 7 January 2019, p 51, lines 23–26.
+
+[^56]: NE (Day 2), 8 January 2019, p 32, lines 28–32.
+
+[^57]: Defence’s Submission, para 14.
+
+[^58]: Defence’s Submission, para 16.
+
+[^59]: Defence’s Submission, para 17.
+
+[^60]: Defence’s Submission, para 19.
+
+[^61]: Defence’s Submission, para 18.
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F23379-SSP.xml)

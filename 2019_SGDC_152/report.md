@@ -1,0 +1,196 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Lim Tze Yong  
+
+### \[2019\] SGDC 152
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Case No. LTA000217-2019, Magistrate's Appeal No. 010-2019-01</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">19 July 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Lorraine Ho</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Edwin Loo (LTA Investigation Division) for the Public Prosecutor; Accused in person Tan Hee Joek (Tan See Swan &amp; Co.) for the Accused in respect of the stay application</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Lim Tze Yong</td></tr></tbody></table>
+
+Criminal Procedure and Sentencing – Sentencing – Motor Vehicles (Third-Party Risks and Compensation) Act – Disqualification Order
+
+\[LawNet Editorial Note: An appeal to this decision has been filed in MA 10/2019/01.\]
+
+19 July 2019
+
+### District Judge Lorraine Ho:
+
+## INTRODUCTION
+
+1       The accused is a 44-year-old Singaporean male. He is a director of M/S Bestlink Vehicle Pte Ltd. The company owns a motor van no. GBF9918M (“the motor van”).
+
+2       The accused faced one charge in relation to the motor van as follows:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="26.62%"> <col width="73.38%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Summons No.</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Offence</b></p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">LTA000217-2019</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Permitting one Fan Kah Chun to use the motor van on 9 Jan 2019 at about 3.26pm at Geylang Road whilst there was no policy of insurance in respect of third party risks in force for the use of the said motor van:</p><p align="justify" class="Table-Para-1"><b>Section 3(1) Motor Vehicles (Third-Party Risks and Compensation) Act (Cap 189, 2000 Revised Edition) [“MVA”]</b></p></td></tr></tbody></table>
+
+  
+  
+
+3       On 27 June 2019, the accused pleaded guilty before me to the singular proceeded charge and he was thereafter sentenced accordingly as follows:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="32.94%"> <col width="67.06%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Summons No.</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Sentence Ordered</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">LTA000217-2019</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Fine of $600, in default three (3) days' imprisonment.</p><p align="justify" class="Table-Para-1">Disqualified from holding or obtaining all classes of driving licences for a period of twelve (12) months with effect from 27 June 2019.</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Total</b></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Fine of <b>$600</b>, in default three (3) days' imprisonment.</p><p align="justify" class="Table-Para-1">Disqualified from holding or obtaining all classes of driving licences for <b>a period of twelve (12) months</b> with effect from 27 June 2019.</p></td></tr></tbody></table>
+
+  
+  
+
+4       The accused paid the fine amount in full. Instead, he is appealing because he was only dissatisfied with the 12-month disqualification order imposed on him from holding or obtaining all classes of driving licence in relation to the s3(1) MVA charge.
+
+## BACKGROUND FACTS
+
+### The Charge
+
+5       The charge as stated in the summons read as follows:
+
+> That you, on 9/01/2019 at about 3.26 pm along Geylang Road did permit one Fan Kah Chun to use a motor van no. GBF9918M whilst there was not in force in relation to the use of the said vehicle such a policy of insurance in respect of third party risks as complies with the requirements of the motor vehicles (third party risks & compensation) act, chapter 189 and you have thereby committed an offence under section 3(1) and punishable under section 3(2) of the said Act, Chapter 189.
+
+### Statement of Facts
+
+6       The accused admitted to the Statement of Facts (“SOF”) dated 13 May 2019 without qualification. A concise, succinct and edited version of the SOF depicting the offence of permitting someone to drive a vehicle without a policy of insurance in force reads as follows:
+
+> …
+
+> 3.    On 9/01/2019 at about 3.26 pm, the complainant stopped the motor van GBF9918M which was being used along Geylang Road for a routine check. As there was no valid insurance coverage when the motor van was used on the material time of the incident, a report was lodged for investigations.
+
+> 4.    Investigations revealed the following: -
+
+>> a.    The motor van GBF9918M is registered to the company M/S Bestlink Vehicle Pte Ltd of Business Registration no. (redacted).
+
+>> b.    The defendant is the Director of the company.
+
+>> c.    The driver of the said motor van on the material date of offence, was one Fan Kah Chun of Nric No. (redacted).
+
+>> d.    The defendant had leased the motor van to Fan Kah Chun and thus permitted him to drive the motor van GBF9918M on the material offence date.
+
+>> e.    The insurance policy had expired since 1/10/2018.
+
+>> f.    There was no such policy of insurance or such a security in respect of third party risks as complies with the requirements of the Motor Vehicles (Third Party Risks & Compensation) Act (Cap 189, 2000 Rev Ed) (the "MVA") in contravention of section 3(1) of the MVA when the motor van was used on the material date of offence.
+
+> …
+
+## SENTENCE
+
+### Antecedents
+
+7       The accused had nothing known in relation to the offence which he was been charged for.
+
+### Prosecution’s Address on Sentence
+
+8       The Prosecution orally submitted that the usual tariff for a first offender should apply for the MVA charge and left the sentence to the court.
+
+### Mitigation
+
+9       The accused, who was in acting in person, made a short oral mitigation. Besides pleading of leniency, he expressed his genuine remorse on the matter and took responsibility for his actions.
+
+### Reasons for Sentence
+
+#### Section 3 of the MVA
+
+10     The relevant portions of section 3 of the MVA state:
+
+> Users of motor vehicles to be insured against third-party risks
+
+> 3.—(1)    Subject to the provisions of this Act, it shall not be lawful for any person to use or to cause or permit any other person to use —
+
+>> (a)    a motor vehicle in Singapore; or
+
+>> (b)    a motor vehicle which is registered in Singapore in any territory specified in the Schedule, unless there is in force in relation to the use of the motor vehicle by that person or that other person, as the case may be, such a policy of insurance or such a security in respect of third-party risks as complies with the requirements of this Act.
+
+> (2)    If a person acts in contravention of this section, he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 3 months or to both.
+
+> (3)    A person convicted of an offence under this section _shall (unless the court for special reasons thinks fit to order otherwise and without prejudice to the power of the court to order a longer period of disqualification)_ be disqualified for holding or obtaining a driving licence under the Road Traffic Act (Cap. 276) _for a period of 12 months from the date of the conviction._
+
+> (4)    A person shall not be guilty of an offence under this section if he proves —
+
+>> (a)    that the motor vehicle did not belong to him and was not in his possession under a contract of hiring or loan;
+
+>> (b)    that he was using the vehicle in the course of his employment; and
+
+>> (c)    that he neither knew nor had reason to believe that there was not in force in relation to such user a policy of insurance or such security as complies with the provisions of this Act.
+
+> … \[Emphasis added\]
+
+11     As provided for by s3(3) of the MVA, a person convicted of an offence under s3 shall be disqualified for holding or obtaining a driving licence for a period of 12 months for all classes of vehicles from the date of conviction. This means that in effect, the court must impose a minimum mandatory disqualification order of at least 12 months on an accused convicted under this section. This is so unless the court thinks fit to order otherwise for special reasons.
+
+12     Unlike the discretion in terms of disqualification found under s42 of the RTA, the wordings found in s3(3) of the MVA are different in that there is an absence of a discretion on the part of the courts. This is because of a lack of insurance coverage for vehicles on the road is a serious offence. As held by Yong Pung How CJ in the seminal case of _Stewart Ashley James v PP_ <span class="citation">\[1996\] 3 SLR 426</span> at \[429G\]:
+
+> Section 3(2) is primarily concerned with ensuring that persons using the roads take adequate steps to ensure that compensation would be available to persons involved in accidents with them. A contravention of s 3(1) is a serious offence. Of course, incidents involving such contravention would not necessarily be fatal, nor need there be any injuries at all. Nonetheless it is clear that _a strict prophylactic approach is necessary to ensure that there is adequate provision for compensation_. Taking this into account, the absence of a discretion is justified and necessary. \[emphasis added\]
+
+13     In another case of _Muhammad Faizal bin Rahim v PP_ <span class="citation">\[2012\] 1 SLR 116</span>, Tay Yong Kwang J (as he then was) held that the existing interpretation of “special reasons” under s3(3) of the MVA by the Singapore courts was a narrow one and only reasons connected with the offence and not the offender would be considered. Besides the seriousness of the offence, there is strong policy reason behind s3(1) of the MVA, which is to ensure that victims of road traffic accidents will be able to seek compensation with mandatory motor insurance coverage. At \[38\] – \[43\], Tay J held:
+
+> \[38\]  In short, it is insufficient for an offender to merely assert that he or she was caught in exceptional circumstances peculiar to the offence. When an offender seeks to come within the “special reasons” exception under s3(3), “the facts to back up such circumstances must be proved to the satisfaction of the court” (_Toh Yong Soon v PP_ <span class="citation">\[2011\] 3 SLR 147</span> at \[5\]). The hurdles which the appellants in _Sriekaran_ (\[33\] _supra_) and _Siti Hajar_ failed to cross in their appeals were not legal but factual ones. Seen in this light, it cannot be said that the application of the existing interpretation has resulted in undue harshness to offenders under s 3(1) of the MVA.
+
+> _The policy and principle behind the existing interpretation_
+
+> \[39\]  The policy behind s 3(1) of the MVA is to prevent the situation articulated in _PP v Hiew Chin Fong_ <span class="citation">\[1988\] 1 MLJ 467</span> at 468: “if an innocent road user is knocked down and injured or killed, he and/or his dependants may have no means of recovering from the uninsured driver any loss or damage he and/or they may have suffered or sustained”. Section 3(1) therefore seeks to ensure that compensation would be available to persons involved in accidents on the road. For that reason, a contravention of s 3(1) is a serious offence (_Stewart Ashley James v PP_ <span class="citation">\[1996\] 3 SLR(R) 106</span> at \[17\]) and Parliament has deemed it fit to make the offence one of strict liability with only a limited defence in s 3(4).
+
+> \[40\]  The seriousness of the offence is also reflected in a possible custodial sentence (s 3(2)) and a mandatory 12 months’ disqualification order (s 3(3)) that avail the judge in sentencing the offender (_Re Kanapathipillai_ <span class="citation">\[1960\] MLJ 243</span> at 245). As the Prosecution correctly observed, the policy behind the mandatory 12 months’ disqualification order is deterrence (_Sriekaran_ at \[4\]), for “a disqualification meant that for 365 days the accused person is reminded every morning of his offence” (_MV Balakrishnan_ (\[28\] _supra_) at \[9\]).
+
+> \[41\]  Thus, even though Parliament has not unequivocally expressed how the words “special reasons” in s 3(3) are to be interpreted, I agree that, taking the seriousness of the offence and the policy behind s 3(1) into account, construing “special reasons as being those connected with the offence and not the offender would be the clearest means of giving effect to \[2012\] 1 SLR Muhammad Faizal bin Rahim v PP 127 Parliament’s intention” (_MV Balakrishnan_ at \[9\]). Widening the “special reasons” exception would “encourage frivolous defences that could derogate from the policy behind \[s 3(1)\] of the MVA” (_Chua Chye Tiong v PP_ <span class="citation">\[2004\] 1 SLR(R) 22</span> (“_Chua Chye Tiong_”) at \[53\]).
+
+> \[42\]  The existing interpretation of “special reasons” is not merely satisfactory on policy but it is justifiable in principle as well. Circumstances peculiar to the offence are given exceptional treatment as “special reasons” because they go towards reducing the moral culpability of the offender – _e.g._, if the uninsured offender was suddenly “called to attend \[to\] a dying relative” (_Whittall_ (\[30\] _supra_) at 201) or if it was “urgently necessary to take a sick person to hospital and the only conveyance available is a motor vehicle whose insurance has happened to run out” (_PP v Mohd Isa_ <span class="citation">\[1963\] MLJ 135</span> at 136).
+
+> \[43\]  On the other hand, circumstances peculiar to the offender do not go towards reducing the moral culpability of the offender. They are essentially extrinsic facts about the offender which are unrelated to the offence but are produced to illicit sympathy from the court – _e.g._, being unable to work without a licence (_Chua Chye Tiong_) or requiring a licence to ferry one’s elderly grandparents for religious and medical purposes (_Siti Hajar_ (\[36\] _supra_)). These circumstances are morally distinguishable from circumstances peculiar to the offence.
+
+14     In the present case, the accused was imposed the minimum disqualification order of 12 months pursuant to s3(3) of the MVA.
+
+#### Whether there were “special reasons” in the accused’s case
+
+15     It is pertinent for me to point out that in the accused’s oral mitigation, there was no mention of any “special reasons” in the circumstances of his case for the court to order a disqualification period of less than 12 months. There was also no submission made before the court by the accused as to what can amount or amounted to “special reasons”. As such, I am surprised that the accused is appealing against the 12-month disqualification order imposed on him.
+
+16     In any case, I found that there were no “special reasons” in the accused’s present situation.
+
+17     First, the accused was unable to prove or show that his present personal circumstances fell within the ambit of s3(4) of the MVA. The motor van belonged to his company, where he is the director of the company.
+
+18     Next, from the wordings of s3(1) of the MVA, the provision applies equally to punish those who drive and those who cause or permit another to drive without insurance coverage with at least a 12-month disqualification period. I would like to highlight that the cases of _M V Balakrishnan v PP_ \[1998\] 2 SLR (R) 846 and _Prathib s/o M Balan v PP_ <span class="citation">\[2017\] SGHC 303</span> similarly involved the permitting of an employee to use a motor vehicle without valid insurance coverage being in force.
+
+19     Furthermore, it was never denied by the accused that Fan Kah Chun was the driver of the said motor van at the material time and the accused had permitted him to drive by way of a leasing arrangement between the accused and Fan Kah Chun.
+
+20     Being the registered owner (pursuant to s10 of the RTA) of the motor van, the accused, as the director of the company, has the legal duty to ensure that there is valid insurance coverage as per the requirements of the MVA before driving or permitting someone to drive the said motor van. This is so even if the accused had, like in the present case, decided to permit someone else to drive the vehicle for a period by way of a lease arrangement. This legal duty is non-delegable. Section 19(3) of the RTA states the requirements that must be satisfied before the issuance of a vehicle licence for a vehicle registered in Singapore:
+
+> 19 (3)    The Registrar shall not be required to issue any vehicle licence for which application is made unless he is satisfied —
+
+>> (a)    that the licence applied for is the appropriate licence for the vehicle specified in the application and all fees and taxes due and payable in respect of the vehicle and any penalty recoverable from the registered owner of the vehicle under this Act or the rules have been paid;
+
+>> (b)    in the case of an application for a licence for a vehicle purporting to be the first application for a licence for the vehicle, that a licence has not previously been issued for that vehicle;
+
+>> (c)    that there is no warrant of arrest issued under section 120 of the Criminal Procedure Code 2010 against the applicant in respect of any offence committed by him under this Act or the rules or any written law specified in Part I of the First Schedule;
+
+>> (d) that either —
+
+>>> (i)     _for the period of the licence there will be in force the policy of insurance or the security required by law in relation to the use of the motor vehicle by the applicant or by other persons on his order or with his permission_; or
+
+>>> (ii)   the motor vehicle is a vehicle to which section 3 of the Motor Vehicles (Third-Party Risks and Compensation) Act (Cap. 189) does not apply at any time when it is being driven by the owner thereof or by an employee of his in the course of his employment or is otherwise subject to the control of the owner; \[Emphasis added\]
+
+> …
+
+21     The policy of insurance for the said motor van had expired on 1 October 2018. On the material day where Fan Kah Chun was caught on 9 January 2019 for driving without insurance coverage, this was more than 3 months after the policy of insurance had expired. No reasons were proffered by the accused why this lapse had happened and the accused admitted to these facts without any qualification. In a nutshell, the accused had permitted someone to drive the motor van for more than 3 months without insurance coverage.
+
+22     Even if assuming that I take the accused’s case at its highest based on personal circumstances, I am unable to agree that reasons like being dependent on the driving licence for a livelihood, a mistaken belief, an inadvertent oversight or that the administrative lapse had occurred over a period of about 3 months amounted to special reasons. Otherwise, the courts will have to deal with such common excuses or frivolous defences given by accused persons on a regular basis and they no longer become “special”.
+
+#### The Appropriate Sentence Imposed
+
+23     There are policy reasons in view of the seriousness of the offence as to why Parliament had mandated for a minimum 12-month disqualification order to be imposed pursuant to s3(3) of the MVA when a person drives or causes or permits another to drive a vehicle when there is no policy of insurance in force at the material time. This primarily acts as a general deterrence in order to protect the public interest at large to ensure that there is insurance coverage when an accident occurs on the road. Otherwise, victims of road traffic accidents may be left without a recourse. As such, a more expansive interpretation to take into account personal circumstances should unequivocally be rejected. A stringent standard must be applied.
+
+24     In any event, taking into account the totality of the evidence surrounding the offence and for the reasons stated above, I found that there was no evidence of any “special reasons” or very exceptional circumstances which justified a reduction or setting aside of the 12-month disqualification order. All things considered, I therefore found it unmeritorious that the accused is now challenging the order of disqualification imposed on him but not the fine amount. The disqualification could certainly not be considered as manifestly excessive.
+
+## CONCLUSION
+
+25     To summarise, as aforementioned, the accused was sentenced accordingly:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="32.94%"> <col width="67.06%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Charge No.</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Sentence Ordered</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">1. <b>Section 3(1) Motor Vehicles (Third-Party Risks and Compensation) Act (Cap 189, 2000 Revised Edition)</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Fine of $600, in default three (3) days' imprisonment.</p><p align="justify" class="Table-Para-1">Disqualified from holding or obtaining all classes of driving licences for a period of twelve (12) months with effect from 27 June 2019.</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Total</b></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Fine of <b>$600</b>, in default three (3) days' imprisonment.</p><p align="justify" class="Table-Para-1">Disqualified from holding or obtaining all classes of driving licences for <b>a period of twelve (12) months</b> with effect from 27 June 2019.</p></td></tr></tbody></table>
+
+  
+  
+
+26     On 3 July 2019, the accused filed a Notice of Appeal against the order of the period of disqualification imposed on him. He paid the fine imposed in full.
+
+27     On 9 July 2019, I heard the accused’s application for a stay of his disqualification order pending appeal. He was represented by counsel for the hearing of that application. Counsel first informed me that his client was ignorant of the law in that he did not realise that the court was required or mandated by law to impose the 12-month disqualification order. Counsel further submitted that at the appeal before the High Court, he intends to seek for leave to adduce evidence on the “special reasons” given by his client after the accused had pleaded guilty and been sentenced.
+
+28     First, ignorance of the law is no excuse (_ignonantia juris no excusat)_. This has been a long established principle for laypersons, whether to exculpate from criminal liability or be a mitigating factor in sentencing; See _Krishnan Chand v PP_ \[1995\] SLR 291 at \[7\]; _Lai Swee Lin Linda v AG_ \[2006\] 2 SLR(R) 505 at \[33\] and most recently _PP v Tan Seo Whatt Albert & anor_ <span class="citation">\[2019\] SGHC 156</span> at \[48\].
+
+29     Additionally, both the charge (including any order of disqualification) and the Statement of Facts were read to the accused in English before the accused made a decision to plead guilty on his own accord. The accused is a literate and understood English well. He cannot now, as a mere afterthought, say that he is ignorant of the law. If he was really unsure, he could have sought for an adjournment to seek legal advice but he chose not to do so because he had wanted to in his own words “take responsibility for” his action.
+
+30     Over and above that, Defence was still unable to provide any shred of evidence to shed light on what the potential or possible “special reasons” might have been at the stay application. This suggested to me that the accused, was perhaps seeking to appeal against the disqualification order imposed on him as a delay tactic to “buy time”. Such an act should be strongly disapproved by the courts so as to discourage like-minded individuals from doing the same, particularly so when the minimum mandatory sentence has been imposed.
+
+31     In the circumstances, all things considered, I had no other alternative but to dismiss his stay application. The disqualification order imposed against him from holding or obtaining all classes of driving licences remains in effect from the date of his conviction pending the appeal.
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F23374-SSP.xml)
