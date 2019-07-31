@@ -1,0 +1,462 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Koh Rong Gui  
+
+### \[2019\] SGDC 157
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">MCN-901354-2017 &amp; Others</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">25 July 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Chay Yuen Fatt</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">DPP Nicholas Lai (Attorney-General's Chambers) for the Public Prosecutor; Danny Chua &amp; Ravinderpal Singh (Kalco Law LLC) for the Accused</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Koh Rong Gui</td></tr></tbody></table>
+
+\[LawNet Editorial Note: An appeal to this decision has been filed in MA 9161/2019/01.\]
+
+25 July 2019
+
+### District Judge Chay Yuen Fatt:
+
+## Introduction
+
+1       The term “upskirt” is, by now, commonly and widely understood to refer to an unauthorised and voyeuristic act of filming or taking photographs underneath a woman’s skirt to capture the crotch area or undergarments. What is perhaps not as widely or commonly known is the term “downblouse” which refers to the act, of a similar voyeuristic nature, of capturing a video or image of a woman’s breast or cleavage down the top of her blouse or garment.
+
+2       This case involves both types of voyeuristic recordings. The accused, a 42-year old male Singaporean, followed a woman up the escalator of a mall and was caught using his mobile phone to take an “upskirt” video of her. He had also, on previous occasions, taken three “downblouse” videos of two other women at the MRT station and inside the train. He was charged with four counts of intruding into the privacy of these women under s 509 of the Penal Code (Cap. 224, 2008 Rev Ed). He was represented by counsel and claimed trial to the charges. At the end of the trial, he was convicted of all the charges and sentenced to a global sentence of 12 weeks’ imprisonment.
+
+3       The accused is appealing against his conviction and sentence and is presently on bail pending the appeal.
+
+## Charges
+
+4       The accused claimed trial to these four charges:
+
+**1st Downblouse Charge (MCN 901354-2017)**
+
+> You… are charged that you, on the 10th day of November 2016, at or about 1.11p.m., at Jurong East MRT Station, Singapore, did intrude upon the privacy of one unknown woman in a white dress, _to wit_, by using your hand phone with video recording function, to record a video of her cleavage and breasts, in the video file entitled “20161110\_131104”, with the intention to insult her modesty, and you have thereby committed an offence punishable under Section 509 of the Penal Code, Chapter 224.
+
+**2nd Downblouse Charge (MCN 901355-2017)**
+
+> You… are charged that you, on the 10th day of November 2016, from 1.12 p.m. to 1.21 p.m., at Jurong East MRT Station, Singapore, and in the train headed in the direction of Joo Koon MRT Station, Singapore, did intrude upon the privacy of one unknown woman in a white dress, _to wit_, by using your hand phone with video recording function, to record a video of her cleavage and breasts, in the video file entitled “20161110\_131253”, with the intention to insult her modesty, and you have thereby committed an offence punishable under Section 509 of the Penal Code, Chapter 224.
+
+**3rd Downblouse Charge (MCN 901356-2017)**
+
+> You…are charged that you, on the 20th day of January 2017, at or about 4.53 p.m., on board a train from Serangoon MRT station to Buona Vista MRT station, Singapore, did intrude upon the privacy of one unknown woman in a green tank top, _to wit_, by using your hand phone with video recording function, to record a video of her cleavage and breasts, in the video file entitled “20170120\_085318”, with the intention to insult her modesty, and you have thereby committed an offence punishable under Section 509 of the Penal Code, Chapter 224.
+
+**4th Upskirt Charge (MCN 901357-2017)**
+
+> You…are charged that you, on the 4th day of April 2017, at or about 1.21 p.m., on the escalator of Jurong East Mall, Singapore, did intrude upon the privacy of one XXX, _to wit_, by using your hand phone with video recording function, to record a upskirt video of her, in the video file entitled “20170404\_132137”, with the intention to insult her modesty, and you have thereby committed an offence punishable under Section 509 of the Penal Code, Chapter 224.
+
+(all emphasis added)
+
+## The Prosecution’s Case
+
+5       As summarised in prosecution’s opening statement, the 1st and 2nd downblouse charges were allegedly committed on the same day on 10 November 2016 against the same unidentified female victim.[^1] The two videos were taken some 23 seconds apart. The 3rd charge was for another downblouse video allegedly taken by the accused of a second unidentified female victim two months later on 20 January 2017. The 4th charge relates to an upskirt video taken by the accused less than three months thereafter on 4 April 2017 of a 3rd female victim[^2] (“J”) who testified in court as a prosecution witness.
+
+6       The prosecution led evidence from 9 witnesses to prove the charges. These witnesses included the victim, J, the arresting and investigating officers, and the forensic examiners. More importantly, an independent eye-witness who saw the accused taking the upskirt video was also called to testify.
+
+7       Evidence was led regarding the arrest of the accused in respect of the 4th charge of upskirt video taken of J. It is not in dispute that J was with her colleague[^3] (“B”) at the material time (1.21 pm on 4 April 2017) at Jurong East Mall (“JEM”). They were on the up-riding escalator going up from the 2nd to the 3rd level and then from the 3rd to the 4th level of JEM. They were going up to the food court on the 5th level for lunch.
+
+8       The accused was following them and standing behind J on the escalator. J did not notice the accused. They do not know each other.
+
+9       The prosecution’s case is that the accused positioned his mobile phone in front of him and took an upskirt video of J who was wearing skorts i.e. a skirt with integral shorts hidden underneath. He recorded the video from the 2nd to the 4th level. At the material time, the independent eye-witness, Tan Yu Han[^4] (“Ms Tan”), was also on the escalator standing directly behind the accused. She saw what the accused was doing and she took two photographs of the accused’s act.[^5]
+
+10     Ms Tan then confronted the accused when they reached the 4th level. She also alerted J to what the accused was doing. By this time, they had all arrived on the 5th level. The accused handed over his mobile phone over when they demanded to see it. J found the upskirt video taken of her on the accused’s phone. The police was called to the scene.
+
+11     Two police officers, SI Pannirselvam s/o Kuppusamy Balan and Cpl Mohamad Irfan Mirza Bin Mohamad Safaie (“arresting officers”) arrived at the scene.[^6] They then activated the investigating officer, Justin Tan[^7] (“IO Justin”), who came to the scene and gave instructions to arrest the accused. The arresting officers then escorted the accused to Police Cantonment Complex for further investigations.
+
+12     It is not in dispute that the upskirt video was recorded with a Samsung Galaxy Note 5 mobile phone. The accused had two other Apple iPhones with him when he was arrested. A 4th mobile phone (Samsung Galaxy S7 Edge) was found in his flat following a raid. All four mobile phones were sent for forensic examination.
+
+#### Forensic examination of the phones
+
+13     The forensic examination reports were admitted in evidence.[^8] It is not disputed that two downblouse videos and the upskirt video of J were extracted by Forensic Examiner Sequeena Ong (“Forensic Examiner Ong”)[^9] from the Samsung Galaxy Note 5 that the accused was holding at the scene. These three videos (“20161110\_131104”, “20161110\_131253” and “20170404\_132137”) form the subject-matter of the 1st, 2nd and 4th charges. The 3rd downblouse video (“20170120\_085318”) was extracted from the Samsung Galaxy S7 Edge seized from his flat. The Forensics Examiner, Josephine Chen (“Forensics Examiner Chen”)[^10], extracted this video which forms the subject-matter of the 3rd charge. The four videos were not challenged and were admitted in evidence.[^11] The two Samsung phones were also admitted in evidence.[^12] The four video clips were played and viewed in court.
+
+14     The prosecution also tendered the police statement recorded by IO Justin from the accused on 3 July 2017. IO Justin testified that he recorded the statement, after the videos were extracted, to ask the accused for his explanation, if any. The statement was a voluntary statement. The prosecution relied on the accused’s admission in the statement that he recorded the three downblouse videos. Counsel for the accused did not object to the statement being admitted in evidence.[^13]
+
+15     In respect of the 1st and 2nd downblouse videos of the same unidentified victim in respect of the 1st and 2nd charge, the accused admitted as follows:[^14]
+
+> Q2Did you record these two videos marked 20161110\_131104 and 20161110\_131253?
+
+> A2Yes, the videos were recorded by me. I recorded them because I have this obsessive compulsive disorder (OCD) where I see ladies in nice dress and fashions; I need to film them...
+
+> Q3For these two videos \[same markings\] are you able to recall the date, time and location where these videos \[same markings\] were filmed?
+
+> A3The location is at Jurong East MRT station on the west bound train to Boon Lay MRT. I am unable to remember what date and time I recorded this though.
+
+16     In respect of the 3rd downblouse video corresponding to the 3rd charge, the accused admitted that:[^15]
+
+> Q5Did you record this video marked 20170120\_085318?
+
+> A5Yes, I was the one whom recorded this video.
+
+> Q6For this video \[same marking\], are you able to recall the date, time and location where these (sic) video \[same marking\] was filmed?
+
+> A6It was from Serangoon MRT station on the way to Buona Vista MRT station. I am unable to recall the date and time where I filmed this.
+
+## Close of Prosecution’s Case
+
+17     At the close of the prosecution’s case, counsel for the defence did not make any submission of no case to answer. I was satisfied that there was prima facie evidence to support the key elements of the charges and I called on the accused to give his defence to all the charges.
+
+## The Defence
+
+18     The accused elected to give evidence on oath. He was the only defence witness. He decided not call the witnesses that were offered to him by the prosecution as defence witnesses. I will summarise the accused’s defence with reference to both his oral testimony and the defence’s submission at the end of the trial.[^16]
+
+### 1st to 3rd Charge - Downblouse Videos
+
+19     In respect of the 1st to 3rd downblouse videos, the accused’s defence is that he did not record the videos and he cannot remember recording them.[^17] The accused testified that he has a “hoarding problem” which is a psychiatric condition. He claimed that the three downblouse videos were downloaded from the internet and that he had downloaded thousands of videos.[^18] He termed it “digital hoarding”. He testified that the police did not seize his laptops and hard drives from his flat which contents would have revealed the extent of his hoarding problem.[^19] He tendered photographs of his room to show where the laptops and hard drives were located and to also show the clutter in his room.[^20]
+
+20     The defence contended that the 1st and 2nd videos do not show the victims’ “cleavage and breasts” as stated in the charges.[^21] Therefore, these charges cannot be made out.
+
+21     The accused also made a few other secondary contentions in respect of the downblouse videos. In respect of the 1st video which (when the phone was turned around for a fraction of a second) partially showed the person (but not his face) holding the phone, the accused claimed that he did not have a blue shirt or the type of earphones that the said person was wearing. He also argued that these items were not seized from his flat either.[^22] This would be a suggestion that the person who had recorded the 1st video (and possibly the 2nd video as well) was not the accused. Further, in respect of the video in the 3rd charge which was taken at around 4.53 pm, the accused claimed to be in the office and therefore could not have recorded the video inside the train.
+
+### 4th Charge – Upskirt Video
+
+22     The accused claimed that this upskirt video was accidentally recorded in that he must have unknowingly activated the video recording function on his phone. Therefore, the accused had no intention to insult the modesty of the victim, J.[^23] It is also the defence’s contention that the accused would not have intended to record an upskirt video since J was wearing skorts and any upskirt video would not have shown her undergarments.[^24]
+
+## The Court’s Findings and Decision
+
+### The Offence
+
+23     The offence in question is provided in s 509 of the Penal Code:
+
+> Whoever, intending to insult the modesty of any woman, utters any word, makes any sound or gesture, or exhibits any object, intending that such word or sound shall be heard, or that such gesture or object shall be seen by such woman, or intrudes upon the privacy of such woman, shall be punished with imprisonment for a term which may extend to one year, or with fine, or with both.
+
+(emphasis added)
+
+24     The prosecution accepts that it must prove that:
+
+> a.     For the 1st to 3rd charges, the accused intruded upon the privacy of a woman by recording a video of her cleavage and breasts;
+
+> b.     For the 4th charge, the accused intruded upon the privacy of J by recording an upskirt video of her; and
+
+> c.     The accused intended to insult the modesty of the women in respect of the charges.[^25]
+
+### The Issues
+
+25     The issues in dispute are:
+
+> a.     Whether the accused recorded the three downblouse videos in respect of the 1st to 3rd charges;
+
+> b.     Whether the upskirt video in the 4th charge was intentional and not accidental;
+
+> c.     Whether all four videos had intruded upon the privacy of the women; and
+
+> d.     Whether he had intended to insult the modesty of the women when he recorded the four videos.[^26]
+
+### (a)   1st to 3rd Charges (Downblouse Videos)
+
+26     The accused’s defence, as stated in the defence’s submission, is that he did not record the downblouse videos.
+
+27     However, the defence’s denial is clearly contradicted by the evidence of the forensic examiners which was not materially challenged and which I accept. In respect of the 1st and 2nd videos, these were extracted by Forensic Examiner Ong from the accused’s Samsung Galaxy Note 5 phone which he was using on the day of the arrest.[^27] The forensic examiner testified that because of the file creation and file naming convention of the phone as well as the file path, she is able to conclude that the two videos (listed at Annex B of her forensic report) had been recorded with the phone, as opposed to being downloaded from other sources.[^28] As for the 3rd downblouse video, this was extracted by Forensic Examiner Chen from the accused’s Samsung Edge phone which was seized from his flat. The forensic examiner testified that the file path of the video (which is listed in Annex A of her report) showed that the video was recorded with and saved in the phone (on the micro SD card) and not downloaded from elsewhere.[^29]
+
+28     I further compared the defence’s absolute position (that the accused did not record the three videos) with his oral testimony which would appear to be more tentative. For example, in relation to the 1st charge, the accused testified as follows:
+
+> QAnd this is the video in relation to the 1st charge.
+
+> AHmm.
+
+> QNow, what do you wish to say in your defence?
+
+> AI cannot recall taking this video, …[^30]
+
+As for the 2nd charge, he testified that:
+
+> Q..in relation to the 2nd charge. What do you wish to say in your defence?
+
+> AI cannot recall taking this video or picture.[^31]
+
+Similarly, in respect of the third charge, his position was also tentative:
+
+> QNow, Witness, you’ve just seen this video in relation to the 3rd charge. What is your defence?
+
+> ALike I mentioned, in July, I cannot recall taking this video or picture.[^32]
+
+29     I considered that the accused’s oral defence was not quite as absolute as the defence that is put forth in the defence’s submission. He was not asserting that he had never taken such downblouse videos or that he would never take such videos. In other words, it was not an outright denial. On the contrary, he was merely saying that he cannot remember if he had taken these three videos. One would have expected a more absolute and resolute assertion by any accused person who is protesting his innocence of a criminal act, that he did not commit the said act, rather than saying he does not recall doing the act. Even if I accept his oral testimony that he does not remember, it very much leaves open the possibility that he did, in fact, record the said videos. Ultimately when the learned DPP finally put the prosecution’s case to him that he had recorded the said videos, the accused then disagreed and said he did not take those videos. Given the totality of his earlier evidence and claims that he cannot remember taking the videos, his eventual denial of taking the videos must surely be an afterthought.
+
+30     In any case, I did not believe his oral testimony that he cannot remember recording the three videos. I considered and give full weight to his police statement in which he admitted recording the said three videos.[^33] The voluntariness and admissibility of his police statement was not challenged by the defence and consequently, the statement was admitted in evidence. As rightly pointed out by the prosecution, the accused was even able to identify and provide details of the locations where the videos were recorded.[^34] Thus, he identified the locations in respect of the 1st and 2nd video clips to be the Jurong East MRT Station on the west bound train to Boon Lay MRT Station.[^35] As for location of the 3rd video clip, he stated in the statement that it was recorded when he was in the train going from Serangoon MRT station to Buona Vista MRT station.[^36] These train routes were presumably familiar to the accused because he would have stated otherwise.
+
+31     In his oral testimony, the accused tried to explain why he admitted to recording the videos in his statement. He claimed that he had informed IO Justin that he cannot remember taking the videos. However, he admitted to doing so only because he was unable to prove otherwise. He did not want to be seen to have lied in his statement if it was subsequently proven that he had indeed taken the videos.[^37]
+
+32     I do not accept the accused’s oral explanation. I agree with the prosecution’s submission that his explanation is illogical and I reject it as being also untenable.[^38] The accused’s police statement contained an unqualified admission that he recorded the said videos. He also identified the locations where he had recorded them. He did not say in his statement that he was only admitting because he cannot remember or cannot prove that he did not do so. If it is true that he could not remember, there is absolutely no logic or reason why the accused (who is an educated and intelligent working professional) would choose to admit to a non-consensual and voyeuristic act of filming unidentified women, simply because he cannot prove otherwise. I also considered that not only did he admit to recording the videos, he went further to provide a reason or justification as to why he had done so i.e. that he had “_this obsessive compulsive disorder (OCD) where I see ladies in nice dress and fashions; I will need to film them_.”[^39] Far from admitting only because he could not prove otherwise, the accused admitted filming the women but then tried to justify his urge to record the videos. As noted above, the defence did not challenge the voluntariness and admissibility of his statement. I also accept IO Justin’s evidence that the accused was given every opportunity to read and amend his statement and that it was entirely voluntary and accurately recorded.[^40] Therefore, I reject the accused’s qualification that he has now put on his statement. I find as a fact that the accused had recorded the three downblouse videos.
+
+### (b)   4th Charge (Upskirt Video)
+
+33     The fact that an upskirt video was recorded of J in respect of the 4th charge is not in dispute. I reject the accused’s claim that the recording was accidental and I find that he deliberately recorded the upskirt video. The reasons for my finding are as follows.
+
+34     I accept the testimony of the independent eye-witness, Ms Tan, a final year student at NTU studying Biological Chemistry. When asked what she saw, she testified that “_I witnessed a guy taking a upskirt video of a girl._”[^41] She then provided a detailed account of what she saw the accused did. At the material time, she was with another friend and they were going up the same escalator to the 5th floor of JEM intending to go to the cinema. It is not in dispute that both the food court and the cinema are located on the 5th floor of JEM. Ms Tan and her friend were standing behind the accused on the escalator. Ms Tan’s friend then brought her attention to the accused’s conduct which the friend found to be “weird”.[^42] Ms Tan observed the accused as they rode the escalator from the 3rd to the 4th floor. She testified that the accused was “_actually hold a camera in his hand while the camera was pointing towards the girl’s underskirt._.”[^43] She then “_immediately took up my phone to take a photo of what he was doing_” as evidence.[^44] She confronted the accused when they reached the 4th floor and asked him what he was doing. The accused “_act a bit blur_” and continued up the escalator.[^45] Ms Tan followed him up to the 5th level and called out to J alerting her that “\[h\]_e is taking, uh, video of your upskirt._”[^46] J was angry and demanded for the accused’s mobile phone which he handed over. It is not in dispute that they found the upskirt video recorded of J in the accused’s mobile phone.
+
+35     The eye-witness, Ms Tan, described that the accused’s right hand was “_elevated from the body_” as compared with his left hand.[^47] She said that the accused’s left and the right hands were “_not symmetrical_”.[^48] When asked what she meant by “_not symmetrical_”, she explained that “_one side is at a resting state and the other was away from the body_”.[^49] In other words, what she observed and described showed that it was a deliberate and conscious act on the part of the accused in holding the mobile phone in front of and away from his body so as to record the upskirt video. It was not the case that the accused was merely holding onto his mobile phone and letting his arm hang loose by the side of his body. That would have been the normal and natural resting position of a person’s arm. Had it been the case that the accused’s arm was relaxed and hanging loose by the side of his body, even if he had accidentally activated the video recording function (a claim which I will shortly address), the camera lens would have been facing towards the side and would not have recorded an upskirt video of J who was standing ahead of and one or two steps higher than the accused. I therefore conclude and find that in order for an upskirt video to be recorded of J, the accused must have and did in fact deliberately hold his mobile phone forward and that he angled the camera lens upwards so as to record an upskirt video of J.
+
+36     I find that Ms Tan was not mistaken as to what she saw. She observed what the accused did for a reasonable period of time (i.e. as she rode the escalator from the 3rd to the 4th level) before confronting the accused. She was standing behind the accused and was therefore in the best of positions to see what the accused was doing. I also considered that she was so certain of what the accused did that she even took two photos of the accused’s act to serve as evidence. She then confronted the accused on the 4th level by asking him what he was doing. Her questioning the accused can be heard in the 4th video. Given what she saw of the accused from where she was standing and her conviction which led to her confronting the accused, I have absolutely no doubt as to the veracity and accuracy of her testimony. I should also add that she was not the only one who was suspicious of the accused’s conduct. It was her friend (notwithstanding that she was not called as a witness) who first found the accused’s conduct to be suspicious.
+
+37     The accused does not deny that his hand was held out in front of him with the camera lens pointing forward.[^50] In his defence, the accused offered two different explanations as to the somewhat outstretched position of his hand. The explanations are somewhat inter-linked.
+
+38     He explained that he moved his hand to the front of his thigh because he thought someone was walking up the escalator going past him. He moved his right hand to the front of his body to avoid the person brushing against his hand.[^51] He also claimed that he had a medical condition (some sort of ligament/tendon tear) in his right hand resulting in a weak grip.[^52] Therefore, if someone overtaking him were to come into contact with his right hand, he would drop his mobile phone. His natural tendency and habit would be to move his hand (which held the phone) to the front of his thigh.[^53] He further claimed that he had a little “hunch back” and therefore his arms would “_always be facing forward in front of my right thigh_.”[^54]
+
+39     I reject his explanations which I found to be overly elaborate, exaggerated and fanciful. In the first place, it is not in dispute that no one walked up the escalator or overtook the accused on his right. Therefore, his purported concern about someone knocking the phone from his hand was unfounded. Even if I were to overlook the fact that the accused did not adduce any medical evidence to substantiate his claim of having a weak right hand, it begged the question why he would even hold his mobile phone using his supposedly impaired and weakened right hand, and positioned in an unnatural outstretched position no less. His claim absolutely beggared belief. I also had the opportunity of observing the accused in the course of the trial. I did not notice any pronounced hunchbacked condition that would cause his right hand to be naturally positioned in front of his right thigh. It stands to reason that any such condition should also affect his left hand but that was apparently not the case because the uncontroverted evidence is that his right hand was held forward but not his left hand.
+
+40     In the course of the trial, IO Justin produced a cctv footage (“cctv footage”) that he had obtained from JEM.[^55] The cctv footage showed the accused going up the escalator to the 3rd level.[^56] It was astutely pointed out by the prosecution that when the accused was about to reach the 3rd level, the cctv footage captured him shifting his mobile phone from his left hand to his right hand.[^57] Therefore, if he was all that worried that someone going past him would knock his phone out of his supposed weak grip, he would not have transferred the mobile phone to his right hand in the first place. His explanation is therefore incongruous with his actions as shown on the cctv footage.
+
+41     Next, I considered that when the accused was confronted by Ms Tan, I accept her evidence that he “_tried to act blur_” by walking away to the next flight of escalator.[^58] He clearly heard Ms Tan confronting him. Instead of engaging her to see what she talking about, he pretended as if nothing had happened and walked away. This suggested that he had something to hide and was hoping that Ms Tan would not pursue the matter. However, Ms Tan called his bluff and alerted J that she had been filmed.[^59]
+
+42     I also considered and agreed with prosecution’s submission that the accused can be seen (from the mall’s cctv footage) to have moved from the right side of the escalator to the centre of the escalator when he saw J doing likewise when they were going up from the 2nd to the 3rd level.[^60] This shift in position in tandem with J is consistent with the accused shifting his position in line with J’s position so as to keep the upskirt view of J within his phone camera’s field of view. In addition, the cctv footage also showed the accused moving closer to J by taking one step up the escalator such that he was only one step behind her. I agree with prosecution’s submission that the way he followed her lateral movement on the escalator and also moving up closer to her, with his phone camera held forward and angled upwards, is consistent with and showed his intention to intrude upon J’s privacy by recording an upskirt video of her.[^61]
+
+43     I further agree with prosecution’s observation that when the accused was seen (on the cctv footage) fiddling with his mobile phone just before he stepped onto the escalator on the 2nd level, he was in fact activating the video recording function of his phone.[^62] This observation is consistent with the upskirt video itself which begins just before the accused steps onto the escalator.
+
+44     It is also very telling that the upskirt video began showing the floor and then the camera angle is flipped upwards to show an upskirt view of J. This 180 degree turn of the camera coupled with the prior fiddling of the phone showed that the activation of the video function and the positioning of the phone camera angle are deliberate and co-ordinated actions. Therefore, I dismiss the accused’s defence that he accidentally activated the video recording function. Even though no evidence was led as to how the recording function on his Samsung mobile phone may be activated, I am prepared to take judicial notice that in order to activate the video recording function on his phone (or any mobile phone for that matter), one would have to perform a combination of two or more deliberate gestures to the phone. A simple internet search would reveal that in standard mode, one would have to tap on three successive icons (Apps→Camera→Camcorder) in order to start a video recording. If the phone is in sleep or inactive mode, such gestures may include an even more deliberate swiping action or a double tapping on the home button. Therefore, I am unable to accept the accused’s defence that he unknowingly activated the video recording function on his phone. I find that he had deliberately and intentionally activated the recording function on his mobile phone to record an upskirt video of J.
+
+45     The accused further claimed that he was listening to YouTube but that the application stopped functioning about one to one and a half shop space before he arrived at the escalator.[^63] He then pressed the home button to close the application and did nothing else.[^64] If that was indeed what he did, there would be no reason why the video recording function would have been activated. I therefore also reject his claim that he did no more than to press the home button of his phone. I also agree with prosecution’s submission that his “YouTube excuse” was internally inconsistent.[^65] Thus, when questioned by the DPP as to what he was doing with his phone just before he stepped on the escalator, the accused said he was still looking at the YouTube screen on his phone but it was “not playing.”[^66] This contradicts his earlier claim that he pressed the home button (to close the YouTube application) about one shop space away from the escalator when he realised that the YouTube application had stopped playing. In other words, he would not have been still looking at the YouTube screen because he would have already closed the application by the time he arrived at the escalator, if he is to be believed in the first place. Further, if he had pressed on the home button as he claimed, the phone would have been returned to standard mode. From that state, he would have had to press on the various icons on his phone three times before the recording function is activated. As such, I find that it is highly improbable that he had done so accidentally.
+
+### (c)   All four video intruded upon the privacy of the victims
+
+46     It is not in dispute that all three victims in the four videos were women. Further, the victim in the 4th video is identified as J and she testified as a prosecution witness.
+
+47     In respect of the three downblouse videos, the defence argued that there was no intrusion upon the privacy of the victims because the videos did not show the victims’ cleavage and breasts as alleged in the first three charges. This could not be further from the truth. All the videos were viewed in court. I also viewed them subsequently at my convenience in the course of considering and deliberating on all the evidence before coming to my verdict. Having viewed the videos, I disagree with the defence and find that the three downblouse videos did intrude upon the privacy of the victims.
+
+48     The 1st and 2nd video, corresponding to the 1st and 2nd charge, were recorded of the same victim on 10 November 2016 about 10 minutes apart at about 1.11 pm and 1.21 pm respectively.[^67] The first video shows the side profile of the victim (wearing a white dress) walking inside the MRT station and then up the escalator onto the train platform. From the field of view of the recording, it is clear that the videographer (i.e. the accused) was walking alongside the victim and at times slightly ahead. The accused would have held his phone camera at a somewhat elevated position and he angled the camera downwards towards the chest area of the victim. He would also try to walk slightly ahead of the victim so as to get a more frontal view of her chest area. The video is about one and half minutes long which meant that the accused was following the victim and filming her for at least that duration of time. The video did in fact capture the cleavage and the exposed upper portion of the victim’s breasts and it is plain that the accused had intended to capture the victim’s breasts and cleavage.
+
+49     The accused then followed the victim into the train and recorded the 2nd video about 23 seconds later.[^68] This 2nd video is particularly intrusive. It is more than nine minutes long and captures a downblouse view which is, as described by IO Justin, “_clearly aimed at the lady’s chest area_.”[^69] It starts with the accused standing next to the victim on the platform as the train pulls in. He positions his camera to film a downblouse video of the victim from a side but elevated angle. He then follows her into the train. She moves further into the train and the accused follows her and stands next to her. He lifts his phone and the continuing video shows a downblouse view of the victim from a very elevated position. The accused would have been holding his phone with his hand grabbing onto the upper handrail of the train. In other words, he was innocuously grabbing onto the upper handrail so as to mask the fact that he was pointing his phone camera downwards into the victim’s chest area. The angle was so elevated that at around 20 seconds into the clip (as rightly pointed out by the prosecution), the video captured the victim’s breast and nipple beneath her rather loose bra.[^70]
+
+50     The 3rd video shows another woman wearing a green tank-top standing inside a crowded MRT train. From where the video was taken, the accused would have been standing next to the victim and recording a downblouse video of her from a side but elevated angle. The video clearly showed her cleavage and the upper portion of her breasts. The position of the camera looks to be elevated from at least the level of the victim’s face but angled downwards thus capturing the chest area inside her tank-top. The video goes on for about 1 minute and 37 seconds before the victim turns around and walks away from the camera angle.
+
+51     In summary, I am satisfied that the accused had intruded upon the privacy of the two victims by following and going up close to them in order to record a downblouse video of them, without their consent, using his mobile phone which captured their breasts and cleavage.
+
+52     In respect of the 4th video, this is an upskirt video which was shot from underneath J’s outer skirt. I agree with prosecution’s submission that it does not matter that J was wearing a skort and that the video did not show her underwear.[^71] This is a private area of her body which J (or any women for that matter) would not want to be filmed without her consent. As a matter of fact, I accept J’s evidence and find that she was upset and outraged that the accused had recorded an upskirt video of her.[^72] I therefore also find that the accused had intruded upon the privacy of J.
+
+### (d)   Accused intended to insult the modesty of the women
+
+53     I considered the length of the videos and the angle and position of the phone camera when recording the videos. I also considered and find that all the videos were deliberately taken of the private areas of the victims’ bodies without their consent. Therefore, I find that the accused had intended to insult their modesty by filming them in these circumstances.
+
+### Miscellaneous Defences Rejected
+
+54     I considered but rejected the various other miscellaneous defences put up by the accused.
+
+55     In respect of the 1st and 2nd charge (relating to the same victim), the accused observed that the person shown briefly to be recording the video (at about 1 minute 14 seconds into the 1st video) was wearing a blue shirt and a certain type of earphones. He claimed that he does not own such items and none were seized from his flat.[^73] I did not give any weight to this claim. First of all, when the police conducted a search at his flat, it was in relation to the offence for which he was arrested i.e. the 4th charge. Therefore, the police would not have been searching for any blue shirt or specific type of earphones. The other videos were only extracted much later after the police had searched his home. In any event, there was no proof either way (apart from the accused’s bare assertion) that he does not own a blue shirt or such type of earphones. His claim that he does not own such items is neither here nor there. I should also add my observation that in that brief moment in the 1st video when the camera was turned towards the person holding the phone, even though the face of the said person is not seen, the neck and body shape of a rotund male person is clearly seen and that is consistent with the person being the accused.
+
+56     In respect of the video for the 3rd charge, which is stated in the charge to have been taken at around 4.53 pm, the accused claimed to be in the office at that time and therefore could not have recorded the video inside the train. However, the defence did not adduce any independent evidence to prove that the accused was in the office or otherwise at the material time. In any event, such independent evidence would be tantamount to evidence in support of an alibi defence and the defence did not give notice of the particulars of his alibi as required under s 278(1) of the the Criminal Procedure Code (Cap 68). Therefore, the defence would have been precluded from adducing such evidence in any event. Having said that however, in the course of writing these grounds, I noticed from the notes of evidence that the learned DPP did inform the court that he was alerting the defence counsel that he would, at the close of the prosecution’s case, be amending the time stated on the charge from 4.53 pm to 8.53 am.[^74] The date remains unchanged. This revelation arose in light of Forensic Examiner Chen’s testimony (during re-examination) that the file for the 3rd video (“20170120\_085318”) was created at 8.53 am on the day in question (20 January 2017) which corresponds to the date the video was taken.[^75] However, at the close of the prosecution’s case, the learned DPP may have forgotten and did not amend the time as he had intimated earlier. Therefore, the AGC may wish to make the necessary application to the High Court at the hearing of this appeal. There is no question, however, the video was recorded by the accused on the date in question i.e 20 January 2017.
+
+57     The accused canvassed many other arguments in the defence’s reply submissions.[^76] It would appear that these further arguments were canvassed because the accused had personally insisted on canvassing them, possibly against the advice of his counsel.[^77] Therefore, I can see that counsel took pains to dissociate himself from these arguments, many of which bordered on the absurd. I find all these other arguments to be also repetitive, irrelevant, without merit or simply puerile. I will illustrate a few examples of such arguments. For example, the accused’s argument that the first three charges cannot be made out because IO Justin and the DPP were not able to show cleavage or breasts is repeated from the earlier defence submissions.[^78] The accused also suggested that IO Justin may have tampered with the videos on the phones after these were seized.[^79] I reject this argument because this not put nor suggested to IO Justin who gave an account of the safe custody of the mobile phones. The accused also argued that J ought not to be believed because she was confused and had misinformed everyone what she was in fact wearing.[^80] I dismiss this argument to be overly simplistic and unnecessarily harsh on J. There is no dispute that she was wearing what is commonly termed as skorts which is a combination of a skirt and shorts. I disagree that J’s evidence is undermined simply because she did not provide the correct description of what she wore.
+
+58     Finally, I also dismiss the accused’s various complaints against the arresting officers, the officers who searched his flat, IO Justin, and even the prosecutors. These were entirely spurious and unmeritorious complaints and were nothing more than red herrings having no bearing on the charges. For example, the accused was unhappy that the arresting officers had called his employer when they were arresting the accused at JEM. Even if they had done so, I do not see how that had any relevance to the charges. The accused is also clearly aggrieved that the police did not seize the many laptops and hard drives from his flat which he claimed contained thousands of downloaded photos and videos. The accused’s argument is that these thousands of photos and videos would prove his “hoarding condition”. I cannot accept that argument. There is nothing to stop the accused from tendering those laptops and hard drives even if these were not seized. He did not do so. He also did not lead any evidence as to where he allegedly downloaded the three downblouse videos in question. In any event, I find that he recorded the videos in question. The fact that he may have “hoarded” countless other dubious and voyeuristic videos is irrelevant and would prove little except perhaps the extent of his depravity.
+
+### Conclusion - Verdict
+
+59     In conclusion, I find that the accused had recorded all the four videos intentionally and without the consent of the victims. I find that the accused deliberately targeted the private areas of the victims’ bodies. He had therefore intruded upon the privacy of the victims. I find that the accused intended to insult the modesty of the victims when he recorded the videos.
+
+60     I further find that the accused was not a credible witness. I reject all of his defences.
+
+61     I am satisfied and I find that the prosecution has proved its case against the accused beyond reasonable doubt. Accordingly, the accused was convicted of all four charges.
+
+## The Sentence
+
+### Prescribed punishment
+
+62     The punishment prescribed for an offence under s 509 of the Penal Code is an imprisonment term up to one year or a fine or both.
+
+### Sentence
+
+63     Having considered the prosecution’s oral sentencing submission and the mitigation plea[^81] tendered by counsel for the accused, I sentenced the accused to the following individual and aggregate sentences:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="25.26%"> <col width="41.62%"> <col width="33.12%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">Charge No.</p></td><td align="left" class="br" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">Offence</p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">Sentence</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">MCN- 901354-2017</p></td><td align="left" class="br" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">Section 509 Penal Code</p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">6 weeks’ imprisonment</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">MCN- 901355-2017</p></td><td align="left" class="br" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">Section 509 Penal Code</p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">6 weeks’ imprisonment</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">MCN- 901356-2017</p></td><td align="left" class="br" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">Section 509 Penal Code</p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">6 weeks’ imprisonment</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">MCN- 901357-2017</p></td><td align="left" class="br" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">Section 509 Penal Code</p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">6 weeks’ imprisonment</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">Further Orders:</p></td><td align="left" class="b" colspan="2" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">Sentences in MCN-901356-2017 and MCN-901357-2017 to run consecutively.</p><p align="justify" class="Table-Para-1">Sentences in MCN-901354-2017 and MCN-901355-2017 to run concurrently.</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1"><b>Total Sentence:</b></p></td><td align="left" class="" colspan="2" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1"><b>Twelve (12) weeks’ imprisonment.</b></p></td></tr></tbody></table>
+
+  
+  
+
+### Reasons for Sentence
+
+#### Prosecution’s submission on sentence
+
+64     In his oral submission on sentence, the prosecution submitted for a custodial sentence of six weeks’ imprisonment for all four charges and for only two imprisonment sentences to run consecutively, making a global sentence of 12 weeks’ imprisonment. The learned DPP tendered a list of sentencing precedents in respect s 509 offences of illicit filming of women. The learned DPP pointed out that the sentences imposed for the sentencing precedents would have been discounted sentences because these were all ‘plead guilty’ cases. Accordingly, there ought to be an appropriate uplift when applying the precedents to the present accused who had contested his charges.
+
+65     I note from the precedents that the sentences ranged between 3 weeks’ imprisonment to as high as 14 weeks’ imprisonment for an offence under s 509 of the Penal Code, depending on the facts of the individual case. In the precedent of _PP v Ee Chye Hin[^82]_, the accused pleaded guilty to five charges of taking upskirt videos and was sentenced to 6 weeks’ imprisonment per charge with two sentences to run consecutively. He had consented to 11 charges to be taken into consideration (“TIC”). I agree with the prosecution that the sentences for that precedent may be applied to the present case. The uplift that ought to be made would be broadly nullified by the absence of any TIC charges in the present case.
+
+66     I also looked at the sentences imposed by the High Court in the seminal decision of _PP v Chong Hou En_ <span class="citation">\[2015\] 3 SLR 222</span> (“_Chong Hou En_”) in respect of offences of illicit filming of women under s 509 of the Penal Code. In that case, the offender pleaded guilty to five such offences which included an upskirt offence. The other four offences relate to, in my view, more aggravated acts of filming women showering. The High Court imposed a sentence of 12 weeks’ imprisonment for each of the five charges, including the upskirt offence. The High Court stated that the sentence would have been 4 months’ imprisonment if not for the fact that the accused had shown considerable remorse and had pleaded guilty. That was a strong mitigating factor in _Chong Hou En_ which is conspicuously absent in the present case.
+
+67     I considered that the sentence of 6 weeks’ imprisonment per charge that is submitted by the prosecution in the present case is more than justified and fair within the range of usual sentences for such offences. In fact, I would not have hesitated to impose a higher sentence if the prosecution had submitted for a more severe sentence. I also do not think that there should be any meaningful or material difference to be made in respect of the sentence to be imposed for both downblouse or upskirt offence. Both types of offences are equally voyeuristic in nature and similarly intrusive in intent. A simple keyword internet search would show countless of pornographic websites dedicated to both genre of voyeuristic videos.
+
+68     In short, I accept the prosecution’s sentencing submission. The individual and global sentences that the prosecution proposed are well within the normal range of sentences for s 509 offences in relation to upskirt and also, by extension, to downblouse videos. The proposed sentences are consistent with the precedents cited by the prosecution. In fact, the proposed sentence falls at the lower end of the range. Notwithstanding that many of the precedents cited are unreported cases, they do serve as useful reference points. In any event, counsel for the accused did not seek to distinguish any of the precedents.
+
+#### Mitigation
+
+69     In his mitigation plea, counsel submitted for either a fine or to call for a pre-sentence mandatory treatment order (“MTO”) suitability report.
+
+70     The prosecution tendered a psychiatric report prepared by Dr George Fernandez (“the psychiatrist”) from the Institute of Mental Health (“IMH”) with regard to the accused’s fitness to enter a plea. The prosecution objected to the calling of a pre-sentence report in light of the IMH report.[^83] I considered the IMH report and agree with the prosecution that it was not necessary to call for an MTO suitability report. The psychiatrist stated that the accused was referred for psychiatric assessment and the IMH report was put up as requested by IO Justin. The psychiatrist was aware that the accused faced four counts of insulting the modesty of women. Having examined the accused on three occasions and having spoken to his wife and sister, the psychiatrist opined at \[23\] of his report that the accused suffered from obsessive compulsive disorder (“OCD”) and probable hoarding disorder. Nonetheless, the psychiatrist stated that he was not of unsound mind at the time of the offences and was fit to stand trial. Crucially, the psychiatrist further stated that he did not see any connection between his illnesses and the commission of the alleged offences. In light of the opinion of the psychiatrist that there was no link between the accused’s psychiatric conditions of OCD and probable hoarding and the commission of the offences, there would have been no reason or requirement to call for an MTO suitability report. After all, one of the pre-conditions for ordering an MTO in favour of an accused pursuant to s 339(3) of the Criminal Procedure Code is that his psychiatric condition must be a contributing factor in the commission of the offence. In the present case, the IMH report would have negated that pre-condition.
+
+71     I also considered that in view of my finding that the accused did not download the first three videos, his psychiatric conditions are therefore irrelevant since there is no longer any issue or question of hoarding. His psychiatric conditions were also irrelevant during the trial since the question was factual i.e. whether or not he downloaded the videos. That was why counsel for the defence, having discussed with the accused, decided not to call their psychiatrist to give evidence at the trial.[^84] As for the 4th video, the issue was whether it was accidental. Therefore, the accused’s psychiatric conditions would also have no bearing on this issue be it during the trial or at this stage of sentencing.
+
+72     Counsel also canvassed several reasons, including reasons of the medical conditions that were alluded to in the course of the trial, as to why the accused cannot serve an imprisonment sentence and to ask for a high fine instead. In summary, I considered these reasons to be personal and family circumstances of the accused which do not constitute mitigating factors, much less justify a non-custodial sentence. At the end of the day, I find no legal basis or justification to impose a non-custodial sentence.
+
+### Conclusion - Sentence
+
+73     In summary, I accept the prosecution’s submission as to the appropriate individual and global sentences, which are consistent with the sentencing precedents. The personal and family circumstances canvassed did not amount to mitigating factors and would not warrant any substantial reduction in the sentence.
+
+74     In my judgment, a fine would have been manifestly inadequate as a punishment with absolutely no deterrent effect on the accused who remains unrepentant and unremorseful by deciding to claim trial to the charges, and making all sorts of spurious complaints against the police in the conduct of his defence. I also considered and decided against calling an MTO suitability report.
+
+75     Having weighed and balanced the accused’s mitigation plea against the sentencing factors and my findings as outlined above, and having regard to the all facts and circumstances of this case, the accused was sentenced to a global sentence of 12 weeks’ imprisonment.
+
+76     In conclusion, I am of the view that the length of imprisonment sentence is justified and also sufficiently deterrent, appropriate and proportionate to the facts and circumstances of the case.
+
+* * *
+
+[^1]: Opening Statement (“OS”) dated 2 October 2018.
+
+[^2]: PW2.
+
+[^3]: B was not called as a witness but was offered to the defence. The defence interviewed her but decided not to call her as a witness (see NE Day 6 page 1 lines 5-10).
+
+[^4]: PW4.
+
+[^5]: Photographs P10(a) and P10(b).
+
+[^6]: PW5 and PW6.
+
+[^7]: PW7 and P9.
+
+[^8]: P9.
+
+[^9]: PWPW1.
+
+[^10]: PW3.
+
+[^11]: P7(a), P9(a) and P12.
+
+[^12]: P5 and P6.
+
+[^13]: P11.
+
+[^14]: P11 page 1.
+
+[^15]: P11 pages 1-2.
+
+[^16]: Defence’s Submissions at the End of Trial (“DSET”) dated 28 May 2019.
+
+[^17]: DSET at \[7\], \[13\], \[19\]; NE Day 3 page 50 lines 28-31; page 55 lines 30-32; page 59 lines 1-3, 25-28.
+
+[^18]: DSET at \[8\], \[14\], \[20\].
+
+[^19]: NE Day 3 page 83 lines 16-28; page 84 lines 5-7.
+
+[^20]: D1-2.
+
+[^21]: DSET at \[15\].
+
+[^22]: NE Day 3 page 56 line 27 to page 57 line 8.
+
+[^23]: DSET at \[27\].
+
+[^24]: DSET at \[28\].
+
+[^25]: Prosecution’s Closing Submission (“PCS”) dated 11 June 2019 at \[7\].
+
+[^26]: PCS at \[8\].
+
+[^27]: P7 at s/nos. 2 and 13 of Annex B.
+
+[^28]: NE Day 1 page 15 line 26 to page 16 line 2.
+
+[^29]: P9 at s/no.2 of Annex A; NE Day 2 page 6 lines 24-26 and page 8 lines 14-20.
+
+[^30]: NE Day 3 page 55 lines 28-31.
+
+[^31]: NE Day 3 page 59 lines 1-3.
+
+[^32]: NE Day 3 page 59 lines 25-30.
+
+[^33]: P11, Q & A 1 and 2.
+
+[^34]: PCS at \[10\].
+
+[^35]: P11, Q3 & A3.
+
+[^36]: P11, Q6 & A6.
+
+[^37]: NE, Day 3, page 53, lines 5 to 17.
+
+[^38]: PCS at \[14\].
+
+[^39]: P11, Q2 & A2.
+
+[^40]: NE Day 3 page 152 lines 1-4.
+
+[^41]: NE Day 2 page 36 lines 9-10.
+
+[^42]: NE Day 2 page 36 line 26.
+
+[^43]: NE Day 2 page 36 lines 30-32.
+
+[^44]: NE Day 2 page 36 line 32; exhibits 10(a) and 10(b).
+
+[^45]: NE Day 2 page 37 line 5.
+
+[^46]: NE Day 2 page 37 line 9.
+
+[^47]: NE Day 2 page 43 lines 1-2.
+
+[^48]: NE Day 2 page 43 lines 1 to 3.
+
+[^49]: NE Day 2 page 43 lines 4 to 6.
+
+[^50]: NE Day 3 page 69 lines 19-21.
+
+[^51]: NE Day 3 page 69 lines 23-27.
+
+[^52]: NE Day 3 page 69 line 28 to page 70 line 22.
+
+[^53]: NE Day 3 page70 line 30 to page 71 line 11.
+
+[^54]: NE Day 3 page 123 lines 15-17.
+
+[^55]: NE Day 2 page 83 lines 7-18.
+
+[^56]: P12.
+
+[^57]: PCS at \[23\].
+
+[^58]: NE Day 2 page 45 lines 16 to 17.
+
+[^59]: NE Day 2 page 45 lines 29 to 32.
+
+[^60]: PCS at \[27\].
+
+[^61]: PCS at \[27\].
+
+[^62]: PCS at \[28\].
+
+[^63]: NE Day 3 page 66 lines 2-18.
+
+[^64]: NE Day 3 page 143 lines 30-32 and page 144 lines 1-8.
+
+[^65]: PCS at \[30\].
+
+[^66]: NE Day 3 page 135, lines 9-13.
+
+[^67]: Clips 20161110\_1311004 and 20161110\_131253.
+
+[^68]: NE Day 2 page 99 lines 4-7.
+
+[^69]: NE Day 2 page 97 lines 29-31.
+
+[^70]: PCS at \[34\]; NE Day 2 page 98 lines 8-12.
+
+[^71]: PCS at \[33\].
+
+[^72]: NE Day 1 page 33 lines 23-31.
+
+[^73]: NE Day 3 page 57 lines 2-10.
+
+[^74]: NE Day 2 page 34 lines 11-22.
+
+[^75]: NE Day 2 page 33 lines 7-20.
+
+[^76]: Defence Reply Submission (“DRS”) dated 19 June 2019.
+
+[^77]: DRS at \[10\].
+
+[^78]: DRS at \[11a\]-\[11b\].
+
+[^79]: DRS at \[11c\].
+
+[^80]: DRS at \[11d\]
+
+[^81]: Defence’s Mitigation Plea” (“DMP”) dated 8 July 2019
+
+[^82]: MCN 900414/2014 & Ors.
+
+[^83]: IMH report dated 18 April 2019.
+
+[^84]: NE Day 5 page 1 lines 5-20.
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F23403-SSP.xml)
