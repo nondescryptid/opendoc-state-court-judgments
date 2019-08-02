@@ -1,0 +1,139 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Muhammad Taufiq bin Alia Marikan  
+
+### \[2019\] SGDC 158
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">LTA - 3186823772 &amp; ors, Magistrate's Appeal No. 012/2019/01</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">26 July 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Lorraine Ho</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Elaine Ng (LTA) for the Public Prosecutor; Accused in Person</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Muhammad Taufiq bin Alia Marikan</td></tr></tbody></table>
+
+Criminal Procedure and Sentencing – Sentencing – Road Traffic Offences – LTA
+
+\[LawNet Editorial Note: An appeal to this decision has been filed in MA 12/2019/01\]
+
+26 July 2019
+
+### District Judge Lorraine Ho:
+
+## INTRODUCTION
+
+1       The accused is a 33-year-old Singaporean male. Between 21 May 2018 to 28 February 2019, the accused accumulated a whopping number of 78 traffic offence notices from the Land Transport Authority (LTA) for 4 motorcars driven by him (primarily motor car no. SLR6602L as the registered owner) at the material times.
+
+2       On 10 July 2019, the accused pleaded guilty before me to 26 proceeded of the 78 charges offered by the Prosecution. Additionally, he had 48 show cause pursuant to s133(6) of the Road Traffic Act (Cap 276) (“RTA”) for failing to attend court on the first court mention date. He was thereafter sentenced accordingly as follows:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="41.84%"> <col width="58.16%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Charge No.</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Sentence Ordered</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">1. <b>Rule 7(1)(f) Road Traffic (Electronic Road Pricing System) (“RT(ERPS)R”)</b></p><p align="justify" class="Table-Para-1">[18 counts - ERP]</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Fine of $400, in default one (1) day’s imprisonment per charge</p><p align="justify" class="Table-Para-1">Sub-total: Fine $7,200, in default eighteen (18) days’ imprisonment</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">2. <b>Section 15 punishable under section 15(a) Road Traffic Act (“RTA”)</b></p><p align="justify" class="Table-Para-1">[1 count – keep vehicle with expired road tax]</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Fine of $400, in default one (1) day's imprisonment per charge</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">4. <b>Rules 22(a), (b), (c) and (g) RTR</b></p><p align="justify" class="Table-Para-1">[6 counts - parking]</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Fine of $400, in default one (1) day's imprisonment per charge</p><p align="justify" class="Table-Para-1">Sub-total: Fine $2,400, in default six (6) days’ imprisonment</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">5. <b>Section 81(1A) Road Traffic Act Chapter 276</b></p><p align="justify" class="Table-Para-1">[1 count – failing to furnish driver’s particulars within 14 days]</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Fine of $400, in default one (1) day's imprisonment per charge</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">6. Show Cause</p><p align="justify" class="Table-Para-1">Pursuant to Section 133(6) RTA</p><p align="justify" class="Table-Para-1">[48 counts]</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Fine of $50, in default one (1) day's imprisonment per charge</p><p align="justify" class="Table-Para-1">Sub-total: Fine $2,400, in default forty-eight (48) days’ imprisonment</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Total</b></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Fine of <b>$12,800</b>, in seventy-four (74) days' imprisonment.</p></td></tr></tbody></table>
+
+  
+  
+
+3       The accused, being dissatisfied, is appealing against the sentence imposed on him. He was unable to pay the fine amount imposed, whether in full or in part. He is presently serving the default sentence. The present grounds of decision are expedited on this basis.
+
+## BACKGROUND FACTS
+
+### The Charges
+
+4       A summary of the 78 LTA offences committed by the accused is as follows:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="46.64%"> <col width="53.36%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Notice/Summons No.</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Offence</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">LTA – 3186823772 &amp; 60 others</p><p align="justify" class="Table-Para-1">(C1-C9, C11-62 in LTA’s Schedule of Offences)</p><p align="justify" class="Table-Para-1">[61 counts]</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Entering the Electronic Road Pricing (ERP) zone without an ERP card inserted into the in-vehicle unit offences:</p><p align="justify" class="Table-Para-1"><b>Rule 7(1)(f) RT(ERPS)R</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">LTA – 4180138081</p><p align="justify" class="Table-Para-1">(C63 in LTA’s Schedule of Offences)</p><p align="justify" class="Table-Para-1">[1 count]</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Being the registered owner, did keep vehicle on the road for which the vehicle licence was not in force:</p><p align="justify" class="Table-Para-1"><b>Section 15 punishable under section 15(a) RTA</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">LTA – 9181882862 and 12 others</p><p align="justify" class="Table-Para-1">(C64-69, C71-76, C78 in LTA’s Schedule of Offences)</p><p align="justify" class="Table-Para-1">[13 counts]</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Parking offences:</p><p align="justify" class="Table-Para-1"><b>Rules 22(a), (b), (c) and (g) RTR</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">LTA – 9182431285 &amp; 1 other</p><p align="justify" class="Table-Para-1">(C70, C77 in LTA’s Schedule of Offences)</p><p align="justify" class="Table-Para-1">[2 counts]</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Failing to furnish driver’s particulars within 14 days:</p><p align="justify" class="Table-Para-1"><b>Section 81(1A) RTA</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">LTA – 3185454586</p><p align="justify" class="Table-Para-1">(C10 in LTA’s Schedule of Offences)</p><p align="justify" class="Table-Para-1">[1 count]</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Using motor vehicle for which motor vehicle licence was not in force:</p><p align="justify" class="Table-Para-1"><b>Section 29(1) RTA</b></p></td></tr><tr><td align="left" class="" colspan="2" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Total 78 counts</b></p></td></tr></tbody></table>
+
+  
+  
+
+5       In respect of the 78 LTA notices, on condition of plea, the Prosecution agreed to proceed on 26 charges (i.e. C45 to C65, C67, C69 to C71 and C73 in LTA’s Schedule of Offences) and, subject to the consent of the accused, allow the remaining 52 be taken into consideration (TIC) for the purpose of sentence. Additionally, there were 48 counts of show cause again for the accused’s failure to appear in court for them during the first court mention.
+
+6       When the accused appeared before me on 10 July 2019, this was pursuant to a Warrant to Arrest (WTA) that was already executed against him for his failure to appear in court to answer to these 78 charges on various dates. However, he was earlier unable to raise bail for the bail offered to him in the sum of $1,000 in 1 Singaporean surety per charge (i.e. total of $78,000 for 78 charges) at LTA. As such he was brought to court.
+
+7       At the hearing before me, the accused said that he needed more time to raise funds because he was in financial difficulties. He had no money and was unable to raise bail. As the accused was unrepresented, I further explained to him that if he was unable to raise bail and consequently remanded and if he subsequently chose to plead guilty to the charges but was unable to pay the fines, I would not be able to backdate the default sentence imposed to the first date of his remand.
+
+8       Moreover, as the accused also had 48 show cause on record, if he wished to adjourn the matter to raise funds, I would need to take them into account by reoffering bail at $80,000 in 1 surety or 2 sureties, for which $15,000 was allowed to be non-monetary security. This was to ensure his attendance in court to deal with all his charges. I highlighted to him that some of his offences were committed more than a year ago and he had failed to attend court for these matters since January 2019. Therefore, his cases have heaped up and much time and resources have been utilised by LTA to secure his attendance in court in order to answer to all his charges.
+
+9       The accused requested for me to give him some time to consider the matter. I agreed and stood down the case. When the case was finally re-mentioned, the accused informed me that he was unable to raise bail given his numerous offences and therefore wished to plead guilty to all the proceeded charges. In the circumstances, I agreed to take his plea.
+
+### The Plea of Guilt
+
+10     The accused admitted to the facts as per stated in the 26 proceeded charges without qualification.
+
+11     He further admitted to the 52 remaining charges and consented to having them taken into consideration for the purpose of sentence.
+
+## SENTENCE
+
+### Antecedents
+
+12     The accused was untraced for similar offences.
+
+### Prosecution’s Address on Sentence
+
+13     The Prosecution for LTA orally submitted that the usual tariff should apply for all charges and left the quantum of fine to the court.
+
+### Mitigation
+
+14     The accused orally pleaded for leniency and hoped for the lightest possible sentence. He was remorseful for committing the offences. He was facing financial difficulties and trying to make ends meet. Hence, he required more time to resolve all his existing liabilities which he had accumulated over the year or so.
+
+15     As for the show cause for failing to appear in court to answer to the notices, the accused explained that he had not gone home since last August 2018 because he was in the midst of divorcing his wife. As such, he did not return home to retrieve the notices sent to him informing him to attend court. Nonetheless, he remains the registered owner of the residential address as stated on his Identity Card (IC).
+
+### Reasons for Sentence
+
+#### Principal Offences
+
+16     As the accused present matter for the charges were first commenced in the night court, LTA would have given the accused time to compound the matter. However, the accused failed to do so. Furthermore, even if an offender fails to compound the matter timeously, he can still avoid attending court by paying a higher fine amount using the AXS online, app or kiosk services via the PG@ATOMS prior to the first court mention date.
+
+17     The composition fine rates for the LTA offences can be found on their websites. Typically, the composition fine amounts for common offences like parking and ERP ranges from $70 to $130 for motorcars if the offender agrees to compound the matter at an early stage. The higher fine amounts payable via PG@ATOMS prior to the first court mention date typically ranges from $200 to $300.
+
+18     When an offender, like the accused, fails to compound the road traffic offence by the first court mention date, he may no longer be allowed to compound the matter thereafter. In the circumstances, should the offender wish to plead guilty in court and pay the court fine, the fine amount imposed by the courts will most certainly be higher than the composition or PG@ATOMS fine amounts. The offender cannot expect to be given a discount given that he has chosen to delay matters.
+
+19     Recently reported cases have shown that the usual tariff that is applicable to first offenders in respect of common road traffic offences like ERP, parking and failing to furnish driver’s particulars offences is $400 to $500 if they choose to plead guilty in court:
+
+> (a)      _PP v Nunoeng Roheryanto Bin Wahid_ <span class="citation">\[2016\] SGDC 245</span>, where $400 in default 1 day’s imprisonment was imposed on each charge_;_ and
+
+> (b)      _PP v Fok Jun Hong Johnson_ \[2017\], where $500 in default 1 day’s imprisonment was imposed on each charge.
+
+20     In respect of the offences faced by the accused, they all attract a maximum fine of $1,000 for a first offender. This is save for the s15 RTA offence, where the maximum fine is $2,000. The corresponding punishment provision for the relevant offences are as follows:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="0"><colgroup><col width="10.4379124175165%"> <col width="41.8516296740652%"> <col width="47.7104579084183%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><u>No.</u></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><u>Offence Provision</u></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><u>Punishment Provision</u></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">1.</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Section 81(1) read with section 81(1A) RTA</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Section 81(7) RTA</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">2.</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Section 15 RTA</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Section 15(a) RTA</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">3.</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Rule 22 RTR</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Section 131(2) RTA</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">4.</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Rule 7(1)(f) RT(ERPS)R</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Rule 7(1)(f) RT(ERPS)R</p></td></tr></tbody></table>
+
+  
+  
+
+21     For the reasons stated above, I was of the view that the fine of $400 in default 1 day’s imprisonment imposed on the accused cannot be said to be manifestly excessive since it clearly fell within the lower range of the usual tariff for a court fine. The default sentence was also the minimum sentence imposed. That was despite the fact that he had 52 charges being TIC. In fact, I was of the view that I was rather lenient towards the accused given that he was a first offender.
+
+22     The accused might have felt aggrieved that the collective fines imposed for all his LTA charges was $10,400, in default 26 days' imprisonment. Unfortunately, he only had himself to blame as he chose to accumulate all the road traffic offences for the past 1 over year without dealing with them expeditiously. Over and above that, he had failed to appear in court for the first mentions in respect of at least 48 notices. All these created a snowballing effect and his liabilities finally caught up with him.
+
+#### Show Cause
+
+23     As for the 48 counts of show cause, as highlighted earlier, the accused had failed to appear in court for the first mention of each notice. In the circumstances, warrant to arrest was issued against him and pursuant to s133(5) and s133(6), the accused would have to explain in court the reasons for his failure to attend court.
+
+24     Section 133(5) and (6) of the RTA state:
+
+> 133 - (5)    If a person, upon whom such a notice has been served as aforesaid, fails to appear before a court in person or by counsel in accordance therewith, the court may, if satisfied that the notice was duly served, issue a warrant for the arrest of the person unless in the case of an offence which may be compounded that person has before that date been permitted to compound the offence.
+
+> (6)    Upon a person arrested in pursuance of a warrant issued under subsection (5) being produced before it, a court shall —
+
+>> (a)    proceed as though he were produced before it under section 153 of the Criminal Procedure Code 2010; and
+
+>> (b)    at the conclusion of the proceedings, call upon him to show cause why he should not be punished for failing to attend in compliance with the notice served upon him, and if cause is not shown may order him to pay such fine not exceeding $2,000 as the court thinks fit or may commit him to prison for a term not exceeding 2 months.
+
+25     As mentioned by the accused in mitigation, his failure to return home to retrieve his mails due to his broken down relationship with his spouse was not a justifiable or reasonable excuse for his failure to attend court. In the circumstances, I was of the view that cause was not shown.
+
+26     As regards the fine amount for show cause, recently reported cases have shown that the usual tariff for such night court cases is typically $100 in default 1 day’s imprisonment per count of show cause:
+
+> (a)      _PP v Nunoeng Roheryanto Bin Wahid_, where $100 in default 1 day’s imprisonment was imposed for each count of show cause_;_ and
+
+> (b)      _PP v Fok Jun Hong Johnson_ \[2017\], where $100 in default 1 day’s imprisonment was imposed for each count of show cause.
+
+27     Having considered that the accused had accumulated a not insignificant number of show cause at 48 and his poor financial situation, I decided to impose a very minimal sum of $50 in default 1 day’s imprisonment on him for each count of show cause. This amounted to a total of $2,400 in default 48 days’ imprisonment. Given the large number of show cause, the fine imposed could not be said to be manifestly excessive. In fact, I could say that this was clearly below the usual tariff but considered holistically in order to aid the accused in view of his financial plight raised by him in mitigation.
+
+## CONCLUSION
+
+28     In summary, in the late afternoon of 10 July 2019, the accused pleaded guilty before me to the 26 proceeded LTA charges. He was thereafter sentenced accordingly as follows:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="32.94%"> <col width="67.06%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Charge No.</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Sentence Ordered</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">1. <b>Rule 7(1)(f) Road Traffic (Electronic Road Pricing System) (“RT(ERPS)R”)</b></p><p align="justify" class="Table-Para-1">[18 counts]</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Fine of $400, in default one (1) day’s imprisonment per charge</p><p align="justify" class="Table-Para-1">Sub-total: Fine $7,200, in default eighteen (18) days’ imprisonment</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">2. <b>Section 15 punishable under section 15(a) Road Traffic Act (“RTA”)</b></p><p align="justify" class="Table-Para-1">[1 count]</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Fine of $400, in default one (1) day's imprisonment per charge</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">4. <b>Rules 22(a), (b), (c) and (g) RTR</b></p><p align="justify" class="Table-Para-1">[6 counts]</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Fine of $400, in default one (1) day's imprisonment per charge</p><p align="justify" class="Table-Para-1">Sub-total: Fine $2,400, in default six (6) days’ imprisonment</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">5. <b>Section 81(1A) Road Traffic Act Chapter 276</b></p><p align="justify" class="Table-Para-1">[1 count]</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Fine of $400, in default one (1) day's imprisonment per charge</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">6. Show Cause</p><p align="justify" class="Table-Para-1">Pursuant to Section 133(6) RTA</p><p align="justify" class="Table-Para-1">[48 counts]</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Fine of $50, in default one (1) day's imprisonment per charge</p><p align="justify" class="Table-Para-1">Sub-total: Fine $2,400, in default forty-eight (48) days’ imprisonment</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Total</b></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Fine of <b>$12,800</b>, in seventy-four (74) days' imprisonment.</p></td></tr></tbody></table>
+
+  
+  
+
+29     On 12July 2019, the accused filed a Notice of Appeal against the sentence imposed on him. He is serving default sentence pending the appeal.
+
+30     As mentioned earlier, motorists are generally given ample time and opportunity to compound and pay their fines. Besides the traditional payment modes like cash and cheque payments and payments via vPost, ATM and Kiosks (AXS, SAM, iNETS), there are now other online payment modes readily available round the clock like LTA ePayment services (using credit/debit cards on LTA’s One.Motoring website), internet banking, AXS e-station, phone banking and mobile applications like AXS m-Station (available on Apple Appstore or Google Play) and SGQR. Even if one forgets to insert the cashcard into the In-vehicle Unit or IU or has insufficient funds in the cashcard to pay for the ERP charge, the administrative fee payable is reduced to $8 if electronic payment is made within 2 weeks from the date of receiving the letter of violation.
+
+31     Consequently, motorists are gently reminded that if they choose to delay matters and subsequently decide to only plead guilty to their road traffic offences in court, they must expect a higher court fine amount being meted out on them in view of the time and resources expended by the relevant enforcement agencies when dealing with such traffic violations.
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F23412-SSP.xml)
