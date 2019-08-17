@@ -1,0 +1,26 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ See Poh Huat  
+
+### \[2019\] SGDC 161
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">DAC 904749/2019 &amp; Ors, Magistrate's Appeal No. 9172/2019/01</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">31 July 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">John Ng</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">State Prosecuting Officer Abdul Majeed Yosuff for the Public Prosecutor; Offender is unrepresented.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — See Poh Huat</td></tr></tbody></table>
+
+31 July 2019
+
+### District Judge John Ng:
+
+The 56-year-old Offender pleaded guilty to and was sentenced on the 3 charges under the Misuse of Drugs Act, Chapter 185, Rev Ed 2008 (“MDA”) as follows:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="31.64%"> <col width="32.02%"> <col width="36.34%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Charge Number</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Offence</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Sentence of imprisonment</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">DAC 904749/2019</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Repeat Drug Possession (Nimetazepam)</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Mandatory minimum 2 years (consecutive)</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">DAC 941397/2018</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">LT-1 Drug Consumption (Methamphetamine)</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Mandatory minimum 5 years (consecutive)</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="center" class="Table-Para-1">DAC 932313/2018</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Repeat Drug Possession (Diamorphine)</p></td><td align="left" class="" rowspan="1" valign="top"><p align="center" class="Table-Para-1">2 years and 6 months (concurrent)</p></td></tr></tbody></table>
+
+  
+  
+
+2       The Offender was above 50 years of age and therefore pursuant to Section 325(1)(b) of the Criminal Procedure Code, Chapter 68, Rev Ed 2012 (“CPC”), he shall not be punished with caning. Section 307(1) of the CPC provides that where a person is convicted and sentenced to imprisonment for at least 3 distinct offences, at least 2 of the sentences of imprisonment must be ordered to run consecutively. The total statutorily mandated sentence of 7 years of imprisonment in this case was backdated to take effect from 27 September 2018. There were 7 other MDA charges to be taken into consideration (“TIC”) for sentencing.
+
+3       The Prosecution had submitted, not unfairly, for a global sentence of imprisonment of 7 years and 6 months in view of the TIC charges. The Offender had asked during his plea in mitigation to be given the mandatory minimum sentences for his offences and for the cumulative mandatory minimum imprisonment sentence of 7 years to be imposed. I also took note of the written plea in mitigation dated 24 May 2019 submitted by his counsel Ms Shaneet Nityanand Rai, assigned under the Criminal Legal Aid Scheme, before she was discharged to act for him on 29 May 2019. I agreed with her that a total sentence of imprisonment of 7 years (and not more) would be sufficient to serve the ends of justice. Therefore, that was the total sentence that was passed.
+
+4       The Offender is currently serving his sentence and had lodged this appeal against the sentence from Prisons.
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F23439-SSP.xml)
