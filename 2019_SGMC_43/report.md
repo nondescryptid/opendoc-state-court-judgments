@@ -1,0 +1,173 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Wu Mei Qiong  
+
+### \[2019\] SGMC 43
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">MAC-902886-2019 &amp; ors</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">14 August 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Mathew Joseph</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">DPP Kang Jia Hui for the Prosecution; Counsel Mr Tham Kok Leong for the Defence</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Wu Mei Qiong</td></tr></tbody></table>
+
+\[LawNet Editorial Note: An appeal to this decision has been filed in MA 9164/2019/01\]
+
+14 August 2019
+
+### District Judge Mathew Joseph :
+
+## INTRODUCTION
+
+1       The accused is a 45-year-old female Singaporean. She is married with 3 children. At the material time, she worked as a stall holder at a hawker centre.
+
+## BACKGROUND
+
+2       The accused pleaded guilty and was convicted of one charge of doing an act so rashly as to endanger the personal safety of others by throwing four glass bottles. A further charge of committing affray was also taken into consideration for purposes of sentencing. The accused was convicted of the proceeded charge and sentenced to one week’s imprisonment. The accused has appealed against her sentence and is presently on bail pending appeal.
+
+## THE PROCEEDED CHARGE
+
+3       The accused was convicted of the following charge -
+
+> _MAC-902886-2019_
+
+> _You, are charged that you, on the 28th day of April 2018, at or about 7.00 pm, at Apt Blk 1 Jalan Kukoh, Jalan Kukoh Hawker Centre, Singapore, did an act so rashly as to endanger the personal safety of others, to wit, by throwing four glass bottles around at the said location, and you have thereby committed an offence punishable under section 336(a) of the Penal Code, Chapter 224 (2008 Revised Edition)._
+
+4       The statement of facts is set out below -
+
+> _Statement of facts_
+
+**_IN THE STATE COURTS OF THE REPUBLIC OF SINGAPORE_**
+
+**_PUBLIC PROSECUTOR V WU MEI QIONG_**
+
+**_STATEMENT OF FACTS (AMENDED)_**
+
+> I.     **_PARTIES INVOLVED_**
+
+> _1_      _The accused is Wu Mei Qiong, a 45-year-old Singaporean female bearing NRIC No. XXX. At the material time, she was working as a stall holder at “I-Chick” located at 1 Jalan Kukoh, Jalan Kukoh Hawker Centre, #01-01, Singapore (“the hawker centre”)._
+
+> _2_      _The witnesses are:_
+
+>> (_a_)     _Muhammad Ramdan Bin Jainudin, a 42-year-old male Singaporean (“_ **_Ramdan_** _”). At the material time, he was working as a cleaner at the hawker centre._
+
+>> (_b_)     _Suhanah Binte Mohamad Daud (“_ **_Suhanah_** _”), a 45-year-old female Singaporean. At the material time, she was also working at the hawker centre._
+
+> II.     **_FIRST INFORMATION REPORT_**
+
+> _3_      _On 28 April 2018, at or about 6.51 p.m., a female caller called ‘999’ stating that: “TWO GROUPS OF PEOPLE ARE FIGHTING. SENT AN AMBULANCE.” The incident location was given as the hawker centre._
+
+> III.   **_BACKGROUND FACTS_**
+
+> _4_      _On 28 April 2018, at about 6.30pm, the accused was working at her stall when Suhanah approached her and ordered two burgers from her. A verbal dispute between the accused and Suhanah broke out regarding the payment of the burgers and the police were called to attend to the matter. After the police had left, the accused and Suhanah continued their verbal dispute and the accused took out her phone to record a video of the dispute. At or about 6.55 p.m., Ramdan, who was a friend of Suhanah and was sitting with her at the same table, stood up and approached the accused at her stall. Ramdan reached for the accused’s phone in an attempt to stop her from recording. A scuffle ensued and a fight broke out between the accused and Ramdan._
+
+> IV.     **_FACT RELATING TO THE 2ND CHARGE (MAC-902886-2019)_**
+
+> _5_      _During the fight with Ramdan, at or about 7 p.m., the accused saw some empty glass bottles lying on the ground. She picked up a bottle from the ground and threw them at Ramdan from a distance away. At the time, there were about five other members of the public standing close to Ramdan. The bottle did not hit anyone._
+
+> _6_      _The accused then picked a second bottle and threw it in the direction of the Ramdan even through there were other members of the public standing close by. The glass bottle missed Ramdan and shattered on the floor, which caused the members of the public to back away to avoid the glass shards._
+
+> _7_      _Ramdan approached the accused and both parties were engaged in a scuffle._
+
+> _8_      _The accused extricated herself from the scuffle with Ramdan and picked up a third bottle. She flung it in a random direction, and it narrowly avoided a member of public who had dodged the bottle. She immediately picked up a fourth bottle and flung it away from herself in frustration. The bottle smashed against the pillar and cause the same member of public to stoop down in order to avoid the glass shards._
+
+> _9_      _The accused also picked up a fifth bottle but was restrained by two other members of the public._
+
+> _10_      _By throwing four glass bottles around the incident location, the accused did an act so rashly as to endanger the personal safety of others. The accused has thereby committed an offence punishable under Section 336(a) of the Penal Code (Cap 224, 2008 Rev Ed)._
+
+> _11_      _CCTV footage capturing this incident is annexed as_ **_Annex A_** _._
+
+> _ALEXANDRIA SHAMINI JOSEPH_
+
+> _DEPUTY PUBLIC PROSECUTOR_
+
+> _10 April 2019_
+
+## THE TIC CHARGE
+
+5       The affray charge below was taken into consideration for purposes of sentencing -
+
+> _MAC-902885-2019_
+
+> _You, are charged that you, on the 28th day of April 2018, at or about 7.00 pm, at Apt Blk 1 Jalan Kukoh, Jalan Kukoh Hawker Centre, Singapore, which is a public place, did disturb the public peace by fighting with one Muhammad Ramdan Bin Jainudin (“Ramdan”), to wit, by using your hands to hit Ramdan, and you have thereby committed an offence punishable under section 267B of the Penal Code, Chapter 224 (2008 Revised Edition)._
+
+## PRESCRIBED PUNISHMENT
+
+6       The prescribed punishment for an offence under s 336 (a) of the Penal Code for endangering the life or personal safety of others is in the case of a _rash_ act, imprisonment which may extend to 6 months, or with a fine which may extend to $2500/ or to both.
+
+## ANECEDENTS
+
+7       The accused is untraced.
+
+## SUBMISSIONS
+
+8       The Prosecution submitted for a sentence of one week’s imprisonment.
+
+## MITIGATION
+
+9       Counsel submitted for a fine. It was submitted that in view of the circumstances of the cases and also as no injuries were caused, a fine would be appropriate. Counsel also submitted that the accused was untraced and a sole breadwinner.
+
+## MY DECISION
+
+10     I am mindful that cases of this nature are inevitably fact sensitive. Any precedents cited must therefore be examined closely to ascertain if the facts are indeed on all fours with the facts of the present case.
+
+#### (i)   CCTV Footage
+
+11     I have viewed carefully the CCTV footage of the incident. I am also mindful of the events that took place _immediately preceding_ the relevant facts as set out in the statement of facts which the accused had admitted without qualification. In particular, I have noted that the incident involving the accused throwing the four glass bottles took place _very soon_ after the Police had left the scene where the earlier verbal dispute between the accused and Suhanah had just taken place.
+
+#### (ii)   Precedents cited
+
+12     The Prosecution submitted several precedents to give a flavour of the sentences imposed for s. 336 (a) Penal Code offences involving rash acts.
+
+13     In the case _of PP v Pereira Denis Kenneth (MAC 11531-2011_), the accused had dated antecedents. The accused had grabbed the victim’s shirt by his collar with his left hand and swung a glass bottle at the latter’s head. The victim managed to dodge in time. The glass bottle slipped from the accused’s hand and smashed to the floor. The witness quickly helped to restrain the accused before being arrested shortly. The accused was sentenced to a fine of $2000 and in default, 2 weeks’ imprisonment.
+
+14     In the case of _PP v Ng Seng Teow (MAC-909142-201)_ the accused was untraced. The victim had approached the accused and asked him why he and his brother could not sit at the coffee shop. The accused responded by throwing an empty glass bottle towards the victim. The glass bottle hit a table and shattered. Some of the glass fragments hit the victim on his chin and the back of his palm, causing the victim to bleed. The accused was sentenced to 3 weeks’ imprisonment.
+
+15     In the case of _PP v Teo Eng Guan (MAC-8126/2013)_, the accused had unrelated antecedents. The accused was at a coffee shop and had consumed some alcohol. He requested for a beer mug and ice to consume some beer. The victim denied his request as the patrons were not allowed to consume alcohol at the coffee shop after midnight. The accused became angry and started to sweep items off the stall counter. Upon hearing the commotion caused by the accused, the victim relented and gave him a beer mug. The accused threw the beer mug toward the victim, causing the beer mug to shatter. The victim was hit by the broken glass fragments and sustained superficial bruising of the left forearm and left wrist. She also suffered a 1 cm scratch wound on her right toe. The accused was sentenced to 3 weeks’ imprisonment.
+
+16     In the case of _PP v Quek Yi Li (MAC 8112/2012_), the accused had a related antecedent for voluntarily causing hurt in 1996. The complainant was sitting at a coffee shop with a friend. The accused approached the complainant and got into a heated dispute with the complainant. The accused then went to pick up a plastic chair. In response, the complainant also picked up a plastic chair. Both the complainant and the accused used the plastic chair to hit each other with it. At that point, the involved party who was nearby came along to assist the complainant. The complainant, involved party and the accused then got into a scuffle and they punched each other. The complainant and involved party then managed to pin the accused down. Feeling outnumbered, the accused went off and asked the drink stall assistant for a knife. The drink stall assistant replied to the accused that she did not have one. The accused then went to take two crates of empty beer bottles. The accused rashly threw two beer bottles at the direction of the complainant and the involved party. The complainant or the involved party were not hit by the beer bottles. The Police then arrived on to the scene and arrested the accused. The accused was sentenced to 4 weeks’ imprisonment.
+
+17     From the above precedents, it would generally be the case that that where glass or beer bottles are used and where injuries are caused to the victim, a custodial sentence of 3 – 4 weeks’ imprisonment is usually imposed.
+
+18     The Defence had also submitted its own set of precedents for s. 336 (a) Penal Code cases and the sentences that were imposed. Out of the 7 unreported cases cited, 5 cases did not contain any accompanying relevant facts. Being also unreported cases, it was therefore not possible to draw any useful comparisons from these cases, apart from the fact that fines were imposed in all these 5 cases. The Prosecution however assisted the court by providing some very brief facts for these 5 cases. One case involved a medicine bottle thrown towards a unit from the ground floor _upwards._ Three other cases involved stools and stones with no accompanying injuries. The fifth case involved the accused lying down in the middle of a road asking for cars to run over her. There was congestion caused but no reported injuries. In my view, these 5 cases likely received fines as the facts were not serious enough to warrant a custodial sentence.
+
+19     The Defence did cite the case of _PP v Wang Bin_ (unreported), where the accused had suddenly grabbed the steering wheel of the taxi and turned the steering wheel towards himself. A collision was caused and damage caused to some cars. The accused was sentenced to 1 day’s imprisonment _and_ a $2500 fine in default 2 weeks’ imprisonment.
+
+20     Another case cited by the Defence was _PP v Jalil bin Mohamad Salleh_ (unreported). In this case, the accused had taken 3 glass cups from a table and threw them on the floor. The 3 glass cups shattered with shards being strewn around the place. The accused was sentenced to 3 days’ imprisonment.
+
+21     I have examined the precedent cases cited by both the Prosecution and Defence. It supports my earlier observation that s. 336 (a) Penal Code cases involve a myriad of facts which need to be scrupulously examined before arriving at the appropriate sentence to fit both the crime and the offender.
+
+#### (iii)   Facts and the Incident
+
+22     I turn now to the incident involving the accused throwing the four glass bottles and also examine closely the facts of the present case.
+
+23     As regards a rash act under s. 336 (a) of the Penal Code, I am mindful of the observations made by the High Court of three Judges in the leading case of _PP v Hue An Li_ <span class="citation">\[2014\] 4 SLR 661</span> at page 45 where Sundaresh Menon CJ stated as follows –
+
+> _45_.     _“_ _In our judgment, awareness of the potential risks that might arise from one’s conduct ought, in general, to be the dividing line between negligence and rashness. For both negligence and rashness, the offender would have fallen below the requisite objective standard of the reasonable person._ **_The harsher sentencing regime for_** **_rashness_** **_is justified on the basis that the offender was_** **_actually advertent to the potential risks which might arise from his conduct, but proceeded anyway despite such advertence._**
+
+> (Emphasis added)
+
+24     I am mindful that the accused had earlier been involved in an altercation with a patron of her hawker stall, Ms Suhanah. The Police had been called to settle the dispute. However, after the Police had left, both the accused and Ms Suhanah continued their verbal dispute. The accused took out her mobile phone to record the dispute. It was at this point that Ramdan, a friend of Ms Suhanah, approached the accused and tried to stop the recording by the accused. A scuffle ensued and a fight then broke out between the accused and Ramdan. This scuffle forms the basis of the TIC charge of affray against the accused involving her earlier fight with Ramdan where she had used her hands to hit Ramdan.
+
+25     I have set out above the unfolding events prior to the accused picking up the glass bottles on the 4 occasions as mentioned in the statement of facts. These events form a vital part of the background to the accused’s actions and her overall culpability and the totality of her criminal conduct.
+
+26     For the _first_ occasion, the accused was already fighting with Ramdan. Instead of ceasing her actions and desisting from the use of force, the accused picked up a bottle from the ground and threw it _at_ Ramdan. The bottle was thrown at Ramdan. This deliberate act was done even though there were 5 other members of the public standing _close_ to Ramdan. The accused had thrown the bottle at Ramdan despite being actually advertent to the potential risks from her conduct “_but proceeded anyway despite such advertence_.” It was purely fortuitous that the bottle did not hit anyone.
+
+27     For the _second_ occasion, this took place almost instantaneously after the first occasion. The accused picked up a second bottle and threw it in the direction of the Ramdan. This again was a deliberate act on the part of the accused to throw the bottle in the direction of Ramdan. Further, I note that the accused did this rash act even though there were other members of the public standing close by. The glass bottle missed Ramdan and shattered on the floor. This caused the members of the public to back away to avoid the glass shards. As in the first act of throwing the glass bottle, it was again entirely fortuitous that the bottle missed Ramdan. I found the accused’s continuing acts of throwing a glass bottle gravely disturbing.
+
+28     At this juncture, Ramdan approached the accused. Both parties then became engaged in a scuffle. The accused managed to extricate herself. Rather than calming down, the accused proceeded to pick up a third glass bottle. This was the third time the accused was deliberately getting her hands on a glass bottle. She then went on to fling the bottle in a random direction. Notwithstanding this, a member of the public was forced to dodge the flung bottle. The bottle narrowly missed hitting the member of the public. As can be seen clearly from the CCTV footage, I found the accused’s violent actions to be persistent and growing in intensity.
+
+29     Undeterred, the accused then immediately picked up a _fourth_ bottle and flung it away from herself in frustration. I note that this fourth glass bottle smashed against the pillar and caused the same member of public to stoop down _in order to avoid the glass shards._
+
+30     The accused also picked up a fifth bottle but was fortunately, restrained by two other members of the public.
+
+31     I have recounted with some detail the actions of the accused. Her culpability was moderate if not high, as her acts of throwing the glass bottles were deliberate and sustained. The accused was totally unrestrained in her actions. She was not even sensitive to the potential danger she posed to the personal safety of others nearby. Nor was she advertent to the grave danger posed by a glass bottle being flung in the direction of Ramdan or even randomly. Further, her actions were repeated not just once, but carried out over a total of 4 times. Against this backdrop, her actions were clearly a rash act and had endangered the personal safety of others.
+
+32     I am mindful that the accused is untraced. I have noted also that no injuries were caused to any members of the public. Her personal circumstances however were not so exceptional as to justify a fine.
+
+#### (iv)   Custodial sentence
+
+33     At the same time, the four separate acts of the accused in throwing a glass bottle 4 times, were clearly when viewed cumulatively, aggravating factors that constituted a rash act endangering the personal safety of others. Further, although no injuries were caused, this was purely fortuitous. The rash act of the accused had the potential for serious harm. Seen in this light and in the totality of her offending criminal conduct, a fine would have been manifestly inadequate. I was therefore of the firm view, bearing in mind also the precedents cited by the Prosecution and Defence, the TIC charge of fighting with Ramdan, and noting also the more aggravating circumstances of the facts of the present case, that a custodial sentence of one week’s imprisonment would be a fair and proportionate sentence.
+
+## CONCLUSION
+
+34     In view of the above, the accused was sentenced to one week’s imprisonment for the proceeded charge.
+
+35     The accused is presently on bail pending appeal and a stay has been ordered on the sentence of imprisonment.
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F23454-SSP.xml)

@@ -17,6 +17,9 @@ styling_options:
   opendoc_logo_path: /assets/images/logo-full.png
   feedback_url: null
 document_order:
+  - 2019_SGDC_168
+  - 2019_SGDC_167
+  - 2019_SGMC_43
   - 2019_SGDC_161
   - 2019_SGMC_42
   - 2019_SGDC_162

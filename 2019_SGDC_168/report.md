@@ -1,0 +1,98 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Mohamad Faiza bin Buang  
+
+### \[2019\] SGDC 168
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">DAC-935286-2018, Magistrate's Appeal No 9180-2019-01</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">14 August 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Hamidah Bte Ibrahim</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">DPP Tan Zhi Hao (Attorney's General Chambers) for the prosecution; Mr Tan Jeh Yaw (M/s Tan Jeh Yaw Law Chambers) for the defence</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Mohamad Faiza bin Buang</td></tr></tbody></table>
+
+\[LawNet Editorial Note: An appeal to this decision has been filed in MA 9180/2019/01\]
+
+14 August 2019
+
+### District Judge Hamidah Ibrahim:
+
+The accused person, male, now aged 40 years, pleaded guilty to 1 count of voluntarily causing hurt under section 323 of the Penal Code, Chapter 224. The particulars of the charge are as follows:
+
+> DAC-935286-2018 (C1A): On 1 May 2017, at or about 3.19 a.m., at the entrance of Balmoral Plaza, located at No. 271 Bukit Timah Road, Singapore, he did voluntarily cause hurt to one Lim Kien Teong by punching his face once.
+
+2       The accused was sentenced to serve 2 weeks imprisonment. He is now appealing against this sentence.
+
+## The Statement of Facts (SOF)
+
+3       The material portions of the SOF which the accused admitted without any qualification is as follows:
+
+> 1.    The accused is Mohamad Faiza Bin Buang, Male, 39 years old, and the victim is Lim Kien Teong, Male, 41 years old. The accused and the victim were not acquainted. The witness is Low Choon How (“Low”), Male, 41 years old. He is the victim’s friend.
+
+> _First Information Report_
+
+> 2.    On 1 May 2017 at or around 3.19 am, the Police received the following police report: "There is a fight. People armed with a knife. Come faster". The incident location was the entrance of Balmoral Plaza, 271 Bukit Timah Road, Singapore 259708.
+
+> _Facts leading to DAC-935286-2018_
+
+> 3.    Sometime on 1May 2017, the victim was drinking at Club Ion with his friends. The accused was also at Club Ion with his wife, one Chomil Binte Kamar. At or about 3 am, the victim left Club Ion with Low, and went to a convenience store at the ground floor of Balmoral Plaza to purchase soft drinks.
+
+> 4.    On 1 May 2017, at or about 3.19 am, Low and the victim were consuming their drinks at the entrance of the said convenience store when the accused walked past. The accused admitted that he was drunk at the material time. The accused thought that the victim was staring at him. He shouted “Stare what stare” and approached the victim to confront him. The victim apologised to the accused. The accused suddenly threw a punch on the victim’s right cheek, causing the victim to feel pain and fall to the ground. His spectacles fell off his face as well.
+
+> 5.    Thereafter, unknown individuals proceeded to kick the victim several times while he was on the ground. The identities of these individuals were not established. Bouncers from Club Ion then intervened successfully to separate the parties.
+
+> 6.    Having witnessed the incident, Low called the Police. The accused and his wife sought to leave the incident location in a taxi. The first taxi drove off without picking up the accused when Low confronted the accused for attempting to leave. The accused and his wife then managed to leave in a second taxi. The accused’s identity was subsequently established and he was arrested on 2 July 2017.
+
+> 7.    The victim was conveyed to Tan Tock Seng Hospital by ambulance. His medical report dated 5June 2017 stated that he sustained the following injuries:
+
+>> a.    Abrasions on his right forehead, upper lip and both upper limbs, hematoma on the occiput region and tender right cheek;
+
+>> b.    Small subdural hemorrhage cerebri;
+
+>> c.    High right parietal scalp haematoma; and
+
+>> d.    Minimally displaced fractures of the anterior wall of the right maxillary sinus.
+
+> 8.    The victim was hospitalised for 2 days and granted medical leave for 30 days. By virtue of the foregoing, the accused has committed an offence of voluntarily causing hurt, punishable under Section 323 of the Penal Code.
+
+## The Antecedents
+
+4       The accused is traced but his antecedents are not similar. His first offence was in 1992 for theft and the bulk of his subsequent convictions were for offences under the Penal Code and the Misuse of Drugs Act. His longest sentence was 5 years imprisonment with 3 strokes of the cane for a consumption charge of consuming a specified drug in 2009. The last conviction was in 2012 for failing to report for urine tests and he was sentenced to 14 months imprisonment.
+
+## The Sentence
+
+5       The prescribed punishment for the offence of causing voluntary hurt under section 323 of the Penal Code is imprisonment for a term which may extend to 2 years or with a fine of up to $5,000 or both.
+
+6       In their written address on sentence the prosecution submitted for two weeks imprisonment. Relying on the sentencing framework for section 323 offences as set out in _Low Song Chye v PP _<span class="citation">\[2019\] SGHC 140</span>, they submitted that the case falls within ‘Band 1’ and considering the aggravating factors, the custodial threshold had been crossed. The defence in their written plea in mitigation sought the maximum fine of $5,000. They highlighted the fact that the accused had pleaded guilty and was remorseful. Despite a difficult childhood and a phase in his life where he was involved in drugs, the accused has turned over a new leaf and his last conviction was in November 2012. There were no weapons used, the accused had no violent antecedents and they were of the view that he did not deserve a custodial sentence.
+
+7       Turning to the facts of this case, and pursuant to the sentencing framework recently set out in _Low Song Chye v PP _<span class="citation">\[2019\] SGHC 140</span>, I accepted the prosecution’s categorisation of this case as falling within Band 1. In this band, at paragraph 77 of the case cited, the accused’s situation is as follows:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="0"><colgroup><col width="14.5629125825165%"> <col width="46.629325865173%"> <col width="38.8077615523105%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Band</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Hurt caused</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Indicative sentencing range</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">1</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Low harm: no visible injury or minor hurt such as bruises, scratches, minor lacerations or abrasions</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Fines or short custodial term up to four weeks</p></td></tr></tbody></table>
+
+  
+  
+
+8       While the medical report of the victim indicated that he sustained multiple injuries[^1], including fractures, the prosecution was prepared to concede that the punch delivered by the accused did not cause all the injuries to the victim. Since the accused has admitted that he punched the victim’s right cheek, he must be held responsible for the injury to the victim’s right cheek. In the medical report of 5 June 2017, the right cheek was described as tender and swollen, which was rather minor. This would clearly place the case squarely as one involving ‘low harm’, a band 1 case, as the sentencing ranges would be based on the hurt caused by the offence. The defence too appeared to have no objection to this classification.
+
+9       I now move to the second step of the framework. Here, the sentence should be adjusted taking into account the aggravating and mitigating factors. In this case, the accused “ _admitted that he was drunk at the material time_.”[^2]
+
+10     Intoxication, especially when it is voluntary, is far from being a mitigating factor. In the case of _PP v Wong Hoi Len_ <span class="citation">\[2009\] 1 SLR(R) 115</span> at \[44\] it was stated that a sentencing judge should ordinarily take into account an offender’s intoxication as an aggravating consideration.
+
+11     The manner of the attack on the victim by the accused clearly showed that he was the aggressor and the attack was unprovoked. When he thought the victim was staring at him, the accused shouted “_stare what stare_”[^3] and approached the victim to confront him. The victim apologised, which the accused admitted that he did, and which appeared to be his immediate reaction upon being shouted at by the accused. The accused should have just accepted the apology and moved on, but he was obviously not satisfied with the apology, and he punched the victim on the vulnerable part of his body, namely the face. I agree with the prosecution that the accused’s willingness to resort to violence without any provocation should be seen as an aggravating factor: See _PP v Ong Chee Eng_ <span class="citation">\[2017\] 5 SLR 876</span>.
+
+12     While the accused had delivered only 1 punch on the victim’s right cheek, the force he exerted must have been excessive and considerable as the impact caused the victim to fall to the ground. The fact that the victim’s spectacles fell of his face also demonstrated the fact that it must have been a very strong punch. The prosecution also pointed out that the assault occurred in a public place and that the conduct of the accused had the potential to cause fear and alarm, which is a relevant aggravating factor. It was unfortunate for the victim that other unidentified persons chose to pounce upon him and kicked him when he was defenceless and on the ground, which was a situation caused by the accused in the first place when he punched the victim.
+
+13     I note that the accused tried to flee from the scene when the victim’s friend called for the police. The taxi he flagged drove off when the victim’s friend confronted him for attempting to leave. The accused was clearly aware that what he did to the victim when he punched him was wrong and instead of staying at the scene to await the arrival of the police, he managed to successfully leave in the next taxi. It was only 2 months later that the police were able to establish his identity which led to his arrest.
+
+14     With regard to the mitigating factors, other than the fact that the accused had pleaded guilty which is a significant expression of his remorse, there was nothing else worthy to consider. His counsel stressed that there was no weapon used and that there was no pre-meditation. These are aggravating factors and it is trite law that the absence of aggravating factors is not a mitigating factor.
+
+15     While the defence tried to paint the victim as not being an angel himself, this was not something credible as the accused had conceded that the victim did apologise to him upon being shouted at for staring, and that would mean that the victim was being conciliatory and far from provocative. The defence also claimed that the victim continued to behave aggressively after the security personnel of the club separated him from the unknown individuals who had assaulted him after he was punched by the accused. I am inclined to agree with the prosecution that given the severity of his injuries, it would have been extremely difficult for the victim who was on the ground, without his spectacles, to behave aggressively and more critically, there was nothing to indicate that he was being aggressive towards the accused or retaliating towards him in any manner.
+
+16     In conclusion, having regard to all the circumstances of this case, I find that the custodial threshold has been crossed and I impose an imprisonment term of 2 weeks which appropriately reflect the culpability of the accused.
+
+17     The accused, being dissatisfied, is now appealing against the sentence. He is currently on bail pending the hearing of his appeal.
+
+* * *
+
+[^1]: Paragraph 9 of SOF.
+
+[^2]: Paragraph 6 of SOF.
+
+[^3]: Paragraph 6 of SOF.
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F23450-SSP.xml)
