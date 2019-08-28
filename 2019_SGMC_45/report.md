@@ -1,0 +1,111 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Eric Gan Chye Hoe  
+
+### \[2019\] SGMC 45
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">MAC 902608/19</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">20 August 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Shaiffudin Bin Saruwan</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">DPP Mansoor Amir for the Prosecution; Mr Mark Zheng Junwu for the Accused Person</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Eric Gan Chye Hoe</td></tr></tbody></table>
+
+\[LawNet Editorial Note: An appeal to this decision has been filed in MA 9198/2019/01\]
+
+20 August 2019
+
+### District Judge Shaiffudin Bin Saruwan:
+
+## INTRODUCTION
+
+The Accused pleaded guilty to a charge under section 338(b) of the Penal Code (Cap 224, 2008 Rev Ed). He was negligent when executing a right turn without keeping a proper lookout thereby leading to a collision with a pedestrian (the victim) crossing the road. The location where the accident took place was Bishan Place in the direction of Bishan Street 13. The accident happened on 30 Jul 18 at about 5.16 pm.
+
+2       After considering the respective submissions, I sentenced the Accused to one week’s imprisonment and disqualified from holding or obtaining all classes of driving licences for two years, to commence from his release from prison.
+
+## THE FACTS
+
+3       On the date and time in question, the Accused was driving his car along Bishan Place. He intended to make a right turn at a un-signalised T-junction along Bishan Place in the direction of Bishan Street 13. He first came to a complete stop at the stop line. He then executed the right turn. Just as he commenced to execute the right turn, the victim began to cross the road in front of the Accused. The Accused failed to notice the victim crossing the road from his left to his right, and he continued to make the right turn. As a result, his car collided into the victim. At the point of impact, the victim was almost half-way across the road.
+
+4       At the time of the accident, the weather was fine, road surface was dry and traffic flow was light. Visibility was also good.
+
+5       The video footage of the accident recorded in the Accused’s in-vehicle camera was played back in Court.
+
+## THE INJURIES SUFFERED BY THE VICTIM
+
+6       The victim, a 72 years old female, suffered the following injuries –
+
+> (i)     Right humerus greater tuberosity fracture;
+
+> (ii)     Multiple right sided facial fractures with V2 numbness and hearing loss query secondary to edema;
+
+> (iii)     Right 3rd rib fracture;
+
+> (iv)     Right hip bruising and left knee superficial abrasions;
+
+> (v)     Right eye blunt trauma with multiple orbital wall fracture.
+
+7       For the right humerus fracture, she chose to undergo a conservative management regime over surgical intervention. She was also referred for physiotherapy to maximise full functioning recovery of her right arm. As of January 2019, the fractures were reported to have healed. She was almost able to achieve a full range of motion over her right shoulder, with tenderness noted mainly at the extreme ranges of motion.
+
+8       On 24 Jan 19, the right sided facial fractures were reported to have healed but there was a cheek depression. The cheek depression was mild and not conspicuous but it was permanent. On 20 Dec 18, it was noted that her right sub-conjunctival haemorrhage has resolved itself completely. On 3 Jan 19, it was also reported that her right third rib fracture has healed completely with no residual pain.
+
+9       The victim had also complained of a right-sided facial pain. The pain started some five months after the accident. She was referred to the neurologist for evaluation and pain management.
+
+10     The victim was in Tan Tock Seng Hospital from 30 Jul 19 to 27 Aug 18. Thereafter, she was in Renci Community Hospital for 29 days from 27 Aug 18. She was also given medical leave from 30 Jul 18 to 31 Aug 18.
+
+11     In addition to the above physical injuries, the victim also suffered from acute stress disorder, and post-traumatic stress symptoms and anxiety.
+
+## ACCUSED’S ANTECEDENTS
+
+12     On 3 Mar 2000, the Accused paid a composition fine of $200/- for the offence of careless driving under Rule 29 of the Road Traffic Rules. On 5 Nov 15, he paid a composition fine of $200/- for the offence of failing to conform to red light signal under section 120(4) of the Road Traffic Act, Cap 276.
+
+## PROSECUTION’S SENTENCING SUBMISSION
+
+13     DPP Mansoor Amir sought a sentence of one week’s imprisonment and at least two years’ disqualification. He highlighted that the case fell into category 2 of the sentencing framework in _Tang Ling Lee v PP_ <span class="citation">\[2018\] SGHC 18</span> (“_Tang Ling Lee_”). He said that the case involved greater harm and low to moderate culpability. The video footage showed that the victim had already stepped onto the road before the Accused executed the right turn. There was no indication in the footage that he had taken evasive action, which pointed to the fact that he had not checked his front when he made the right turn. This indicated that the Accused had not been aware of the victim’s presence on the road until the collision occurred.
+
+14     It was not disputed that the victim had been jaywalking. Applying _Guay Seng Tiong Nickson v PP_ <span class="citation">\[2016\] SGHC 94</span> (“_Guay Seng Tiong Nickson_”), DPP Mansoor argued that this did not affect the Accused’s culpability. He stressed that the fact remained that the Accused had turned right at the T-junction without keeping a proper lookout for other road users.
+
+15     He pointed to the injuries suffered by the victim which included multiple fractures to the face and body, and argued that this placed the harm caused at greater harm. Although the injuries have all healed, she suffered from a permanent mild depression of her right cheek. More significantly, she also suffered from psychological injuries in the form of acute stress disorder and post-traumatic stress symptoms and anxiety.
+
+16     Lastly, DPP Amir pointed to the Accused less than perfect driving record; alluding to his antecedents of careless driving in 2000 and beating the red light in 2015.
+
+## DEFENCE MITIGATION
+
+17     Mr Mark Zheng submitted that the Accused’s culpability was at the lowest end of the spectrum of low culpability. He had stopped at the stop line and allowed two cars to go past him before he executed the right turn. As he turned, his line of vision was focused towards his left to ensure that there was no on-coming vehicle. This was the reason why he had been unable to take evasive action. Mr Zheng argued that the Accused had conformed to the road traffic rules when he executed the right turn at the T-junction. The accident was the result of a very limited momentary and unfortunate lapse of inattention. He added that the victim had been jaywalking at the material time, and her line of vision was blocked by her umbrella. Also the Accused had not expected the victim to cross the road at the spot because there was a zebra crossing about 10 metres away.
+
+18     Mr Zheng highlighted that the Accused had rendered assistance to the victim. He wanted to visit her at the hospital but was advised against it by the Investigation Officer. He has rendered full co-operation to the investigation and has pleaded guilty at the earliest opportunity. Apart from some minor traffic offences, he has a relatively clean driving record.
+
+19     Mr Zheng distinguished the injuries suffered by the victim against that suffered by the victim in _Tang Ling Lee_. He admitted that in both cases the injuries were serious injuries. But, in the present case, the injuries were treated conservatively, and they have all healed with minimal or no lasting effects. Therefore, the harm should fall into the low category.
+
+20     As both culpability and harm were low, the case fell into _Tang Ling Lee_ Category 1. The presumptive sentencing range was a fine. Mr Zheng submitted that the sentence should be the maximum fine $5000/- and 24 months’ disqualification.
+
+21     Lastly, Mr Zheng highlighted the Accused’s personal circumstances. He suffered from Type 2 diabetes mellitus and hyperlipidema ie high cholesterol. He was currently on medication. He was married. He was also the sole care-giver of his elderly mother, and shouldered the responsibility of ferrying her to and from her medical appointments. The Accused also attached testimonials in relation to his National Service, present employment and his service as chairman of his condominium management council.
+
+## COURT’S FINDINGS
+
+22     I agreed that culpability in the present case was low. However, I disagreed with Mr Zheng’s characterisation that it fell on the lowest end of the spectrum. The video footage clearly showed that the Accused was oblivious of the victim’s presence in front of him. This indicated that he had failed to keep a proper lookout for other road users in front of him when he executed the right turn. This was reinforced by the Accused himself as follows -
+
+> (i)      At \[24\] of the Written Mitigation:
+
+>> “In his \[the Accused\] attempt to ensure that there were no further vehicles coming from his left, his line of vision was directed to the left.”
+
+> (ii)      At \[33\] of the Written Mitigation:
+
+>> “Regrettably, he was focusing on his blind spot when executing the right turn. The inadvertent collision was a result of his momentary but unfortunate lapse in checking for pedestrians as he did not expect the victim to jay-walk when a zebra crossing was present approximately 10m away from the collision location.”
+
+>> (Emphasise mine)
+
+23     Therefore, contrary to Mr Zheng’s submission, the Accused had not conformed to all the traffic rules when he executed the right turn. He should have also kept a proper lookout for road users in front of him. He did not. As such the Accused’s negligence did not fall at the lowest end of the spectrum. In my mind it fell on the higher end of the spectrum of low culpability.
+
+24     The harm in the _Tang Ling Lee_ category 1 sentencing band was generally characterised by the lack of very serious or permanent injuries. In contrast, the harm in the category 2 sentencing band was characterised by injuries of a more serious or permanent nature and/or necessitated significant surgical procedures. In the present case, the victim suffered multiple fractures to her face and body. Applying the Penal Code definition of hurt and grievous hurt, fractures fell into the category of grievous hurt. That being the case, the injuries suffered by the victim could not be described as anything else other than serious. Also there was also a permanent disfigurement albeit a mild depression on her right cheek. All these pointed to there being greater harm caused.
+
+25     In my mind, these considerations placed the present offence into category 2 of _Tang Ling Lee_. The presumptive sentencing range is one to two weeks’ imprisonment. Having determined the sentencing band on which the case fall, the next step was to take into account the aggravating and mitigating factors and see if further adjustment upwards or downwards should be made.
+
+26     In this regard, I did not find any additional aggravating factor significant enough to warrant an upward move from the presumptive sentencing range. Although the Accused’s driving antecedents at \[12\] was a relevant aggravating factor, I did not think it was so significant to warrant an uplift from the presumptive sentencing range.
+
+27     On mitigating factors, the only one of real significance was his plea of guilty. Given that the sentencing framework in _Tang Ling Lee_ was premised on a claim trial situation, a guilty plea would generally be a significant mitigating factor, and might justify or warrant a downward shift from the presumptive sentencing range. However, in this case, I was of the opinion that the Accused’s guilty plea did not carry as much weight, if at all, as it generally would. This was because the evidence against the Accused was overwhelming. The video footage alone clearly showed that the Accused was negligent when he executed the right turn.
+
+28     Therefore, all considered, I imposed a sentence of one week’s imprisonment, which was on the lower end of the presumptive sentencing range.
+
+29     On the issue of the disqualification order, both sides agreed that such an order was warranted. They also seemed to agree on the period of disqualification that should be imposed. The most important sentencing principles engaged in a disqualification order were the protection of society and deterrence. The objective of a disqualification order was the prevention of future harm that an offender might cause to the general public, and deterrence, because a disqualification order deprived the offender of the freedom to drive: see _PP v Ong Heng Chua and another appeal_ <span class="citation">\[2018\] SGHC 95</span>. Therefore, on account of the Accused’s level of culpability and his driving antecedents, it was my view that a two years’ disqualification period was warranted and appropriate.
+
+30     In conclusion, the sentence imposed was one week’s imprisonment and disqualification from holding or obtaining all classes of driving licences for a period of two years. The disqualification was to commence from the date of his release from prison.
+
+31     The Accused has appealed against the sentence. He is on bail pending appeal. The disqualification order is stayed pending the outcome of the appeal.
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F23486-SSP.xml)
