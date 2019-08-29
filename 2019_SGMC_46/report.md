@@ -1,0 +1,141 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Daud bin Baharom  
+
+### \[2019\] SGMC 46
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">MCN-902543-2018</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">21 August 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">Magistrates Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Seah Chi-Ling</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">DPP Derek Ee (Attorney-General's Chambers) for the Prosecution; Wee Hong Shern (Ong &amp; Co. LLC) for the Defendant.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Daud bin Baharom</td></tr></tbody></table>
+
+\[LawNet Editorial Note: An appeal to this decision has been filed in MA 9191/2019/01\]
+
+21 August 2019
+
+### District Judge Seah Chi-Ling:
+
+## INTRODUCTION
+
+1       The accused, a male taxi-driver, currently 58 years of age, faces a single charge of dishonest misappropriation of property contrary to Section 403 of the Penal Code, Chapter 224.
+
+2       The accused admitted to the Statement of Facts (“**SOF**”) without qualification and pleaded guilty to the charge. He was accordingly convicted, and sentenced to 1 week’s imprisonment. The accused is dissatisfied with his sentence and has filed an appeal against his sentence. He is currently out on bail pending appeal.
+
+## THE CHARGE
+
+3       The accused pleaded guilty to the following charge:
+
+> You \[---\] are charged that you, on 16 September 2018 between 6.15pm to 8.00pm while at Jurong, Singapore, did dishonestly misappropriate, one Huawei P20 Pro mobile phone bearing IMEI number: \[---\] valued at about $1000, belonging to one \[---\] and you have thereby committed an offence punishable under Section 403 of the Penal Code, Chapter 224.
+
+## STATEMENT OF FACTS
+
+4       The material portions of the SOF which the accused admitted to without any qualification is as follows:
+
+>   
+| 
+
+_“The accused is_ **_Daud Bin Baharom_** _, a 57-year-old (Date of Birth: --- 1961) male Singaporean, NRIC No. \[--\]. At the material time of offence, the accused is employed as a taxi driver for Premier Taxi._
+
+_2_      _The complainant is \[---\], a 25-year-old male Singaporean. He is working as a planner._
+
+_FIRST INFORMATION REPORT_
+
+_3_      _On 18 September 2018 at about 6.30 p.m., the complainant lodged a police report at the Yishun North Neighborhood Police Post stating that he had lost his “Huawei P20 Pro” mobile phone valued at about $1000 (“the mobile phone”) in a taxi which he had taken earlier. The incident location was given as \[---\](“location”)._
+
+_FACTS RELATING TO THE OFFENCE OF DISHONEST MISAPPRIOPRIATION OF PROPERTY_
+
+4     _Investigations revealed that on 16 September 2018 at about 6.15 p.m., the complainant booked a taxi bearing registration number \[---\] via Grab – a ride-hailing app. The said taxi was driven by the accused at the material time. The accused drove the complainant to his destination at the location. After alighting, the complainant inadvertently left the mobile phone behind in the taxi and proceeded home. At about 8.00 p.m., the complainant discovered that the mobile phone was missing. As the mobile phone contained various important personal information of the complainant including his bank account details, emails and trading account details, the complainant took immediate steps to locate the mobile phone._
+
+_5_      _The complainant tried calling the mobile phone line and it rang but there was no answer. The complainant then activated his “Find my device” application through the internet to attempt to track the location of the mobile phone. The mobile phone was tracked to be in the vicinity of Jurong West. Subsequently when the complainant tried to call the mobile phone line again, the call did not go through as the SIM card appeared to have been removed from the mobile phone._
+
+_6_      _The complainant contacted Grab to enquire whether the driver had found the mobile phone in the taxi after the complainant had alighted at the location. Grab then provided the complainant with the accused’s mobile number. At about 8.30 p.m., the complainant called the accused and asked if his mobile phone was in the taxi. However, the accused informed the complainant that he did not find the mobile phone in his taxi. The accused also informed the complainant that he did not ferry any other passenger after the complainant alighted from the location._
+
+_7_      _Further investigations revealed that on 16 September 2018, after the complainant alighted at the location, the accused had in fact ferried another passenger. Thereafter at or about 8 p.m., he proceeded to a petrol station in Jurong West to wash his taxi. Whilst the accused was cleaning his taxi, he found the mobile phone belonging to the complainant at the rear seat of the taxi. Despite the earlier conversation with the complainant (paragraph 6 refers), the accused decided not to inform the complainant of his discovery. The accused dishonestly misappropriated the mobile phone and kept it despite knowing that it did not belong to him. The accused made no efforts to contact the rightful owner of the mobile phone as he had no intention to do so._
+
+_8_      _On 17 September 2018, the complainant called the accused’s taxi company, Premier to enquire on the incident. The complainant was informed by Premier that the accused had informed the company that he did not take any mobile phone. The complainant lodged the police report the following day (paragraph 3 refers)._
+
+_9_      _Following from the police report lodged by the complainant (paragraph 3 refers), the accused was called up by the police and he initially denied taking the mobile phone. However, later that day, the accused decided to subsequently contact the Investigation Officer. He then admitted that he had dishonestly misappropriated the mobile phone which was left behind the rear seat of his taxi by the complainant. In his further statement to the Police, the accused stated that “\[o\]n the 17/09/2018, I brought the said mobile phone to Batam and sold it off to one of my friends who reside there. I sold it for S$200/-. I do not know his name and \[do\] not have his contact number. I had used up the said amount for paying the utilities bills and some for my personal expenses which I am unable to recall”._
+
+_10_      _The said mobile phone has since been recovered and seized by the Police._
+
+_11_      _By virtue of the foregoing, the accused has dishonestly misappropriated the mobile phone belonging to the complainant without his consent and knowledge. The accused has thereby committed an offence punishable under Section 403 of the Penal Code, Chapter 224 (2008 Rev Ed)….”_
+
+ |
+
+  
+  
+
+## ANTECEDENTS
+
+5       The accused is untraced.
+
+## PROSECUTION’S SUBMISSIONS ON SENTENCE
+
+6       The prescribed punishment for the offence of dishonest misappropriation under section 403 of the Penal Code is imprisonment for a term which may extend to 2 years, or with a fine, or both.
+
+7       The Prosecution sought a short custodial term, with the exact duration being left to the Court. In making this submission, the Prosecution relied on _Public Prosecutor v Neo Boon Seng_ <span class="citation">\[2008\] 4 SLR(R) 216</span> (“_Neo Boon Seng_”), where the High Court held that the benchmark sentence for property offences committed by a taxi driver against a passenger should generally be a custodial sentence \[at 11\].
+
+## MITIGATION PLEA AND SUBMISSION ON SENTENCE BY DEFENCE
+
+8       In a written plea-in-mitigation (the “**Mitigation Plea**”), counsel urged the court to sentence the accused to a fine instead. While acknowledging that the High Court in _Neo Boon Seng_ did lay down a benchmark custodial sentence for property offences committed by taxi drivers, counsel pointed out that the High Court made express provision for the consideration of “countervailing mitigating factors (such as the nature and insignificant value of the property)” which may lead to the imposition of a fine instead. In this regard, counsel sought to highlight various distinguishing features between _Neo Boon Seng_ and the present case, as well as the arguably higher culpability of the accused in _Neo Boon Seng_, to persuade this court to impose a fine presently. Among other things, counsel highlighted the following:
+
+> (a)     the value of the items misappropriated in _Neo Boon Seng_ were significantly higher at $11,661.03, whereas the value of the phone misappropriated by the accused was only $1,000;
+
+> (b)     the nature of the items stolen in _Neo Boon Seng_, which included the victim’s passport and laptop, were deeply personal to the victim, the loss of which would thereby occasion significant inconvenience and loss to him. In contrast, only one item, a mobile phone, was misappropriated here.
+
+> (c)     not all the items misappropriated were recovered in _Neo Boon Seng’s_ case; various items with an aggregate value approximating $4,000 remained unrecovered. In contrast, the phone was fully recovered in the present case with the accused’s assistance.
+
+> (d)     the defendant in _Neo Boon Seng_ knew of the items left behind in his taxi very soon after the passenger alighted, and formed an immediate intention to misappropriate the items. In contrast, the accused in our case only discovered the phone in his taxi some time later. He then “\[foolishly\] retained the phone out of fear of being criminally implicated”, given that he had earlier informed the complainant that the phone was not found[^1].
+
+## SENTENCING CONSIDERATIONS
+
+9       General deterrence is a primary consideration when sentencing property offences committed by a taxi driver against a passenger. As the High Court noted in _Neo Boon Seng_, although a Section 403 offence of criminal misappropriation is generally considered a less serious property offence in ch XVII of the Penal Code in that it does not require a positive act of taking (as opposed to a negative act of keeping something that belongs to the rightful owner), this consideration does not apply to persons in the position of a taxi drivers \[at 10\]. Chan Sek Keong CJ (as he then was) alluded to the special position a taxi driver assumes _vis-à-vis_ his passenger which entails, among other things, the entrustment by passengers of their properties to taxi driver during the journey. His Honour also referred to the policy considerations that underlie the need to deter taxi drivers from committing property offences against their passengers. The taxi industry is recognised as one of the key pillars of Singapore’s public transport system. With taxi drivers providing an essential private transport service to the public, an increasing incidence of dishonest conduct on the part of taxi drivers in relation to passengers’ properties would adversely affect Singapore’s well-earned reputation for integrity in public services generally \[at 13, 14\]. His Honour thus noted that the courts needed to “send a message that any dishonest conduct \[by taxi drivers\] will not be condoned and the benchmark punishment will be a custodial sentence, save in exceptional circumstances” \[at 16\].
+
+## MY DECISION
+
+10     Bearing in mind the importance of general deterrence in the case at hand, I found that there were no exceptional circumstances in the present case that would warrant a departure from the benchmark custodial sentence laid down by the High Court in _Neo Boon Seng_. The distinguishing facts and mitigating factors highlighted by counsel will no doubt be considered when determining the length of the imprisonment term that ought to be imposed, but they were not so exceptional as to warrant to imposition of a fine only. I took into account the following.
+
+11     First, the benchmark sentence laid down by the High Court in _Neo Boon Seng_ for property offences committed by a taxi driver against a passenger was that of a custodial sentence “unless there are countervailing mitigating factors (such as the _nature_ and _insignificant value_ of the property) that would make a fine an appropriate sentence” (_emphasis added”_). Turning first to the value of the property misappropriated here, which is worth approximately $1,000. While this is significantly lower than the $11,661.03 worth of items misappropriated in _Neo Boon Seng_, the value of the phone misappropriated in the present case is by no means insignificant.
+
+12     Second, I noted and accepted counsel’s argument that the nature of the property misappropriated in _Neo Boon Seng_ was important and personal to the victim as they included the victim’s passport and laptop, the loss of which would entail greater inconvenience and adverse consequences for the victim[^2]. It does not, however, follow that the loss of a smart phone in the present case would, without more, entail minimal impact or consequences to the complainant. Indeed, one of the reasons cited by the complainant in taking immediate steps to locate his hand phone was because “the mobile phone contained various important personal information of the complainant including his bank account details, emails and trading account details”[^3]. The consequence of the loss of the hand phone was evidently not trivial from the complainant’s perspective.
+
+13     Thirdly, the accused’s proffered reason for not informing the complainant that he had subsequently found his phone – namely that he feared he may be suspected of lying as he had initially informed the complainant that his phone was not sighted – is hardly convincing. It would have been perfectly reasonable and legitimate for the accused to inform the complainant, when he eventually found the phone, that he had missed the phone initially as he had only undertaken a cursory search. Subsequently, when a more thorough search was carried out while he was cleaning his car, the phone was discovered. Construed objectively, I had difficulties accepting the accused’s proffered explanation as his sole reason for not contacting the complainant when the latter’s phone was finally found.
+
+14     Fourthly, the accused had admitted in a statement given to the police that he had sold the phone to one of his friends in Batam for $200 and thereafter used the proceeds to pay for his utility bills and other personal expenses[^4]. His repeated assertions in his Mitigation Plea that he had not exhibited dishonesty[^5], and had demonstrated a much lower level of culpability[^6], therefore run counter to his own admissions. I noted that counsel had in the oral mitigation before me as well as in paragraph 11 of his Mitigation Plea asserted the phone was not in fact sold for monetary consideration, but rather transferred by the accused to his friend, a masseur, by way of a gift. In my opinion, whether the accused gifted the phone to his masseur for no consideration or sold it for cash was immaterial. In either case, he had converted the phone for his own use and derived some benefit for himself, whether tangible (in the form of cash) or intangible (in the form of generation of goodwill amongst friends).
+
+15     Fifthly, the accused sought to downplay his culpability by stating that he “voluntarily contacted the Investigating Officer to confess his crime …. wholly on his own accord out of remorse …. \[even though\] he was not presented with any evidence of his criminal conduct”[^7]. In my opinion, this statement is not completely accurate. The accused eventually confessed to misappropriating the phone after the complainant had lodged a police report, and the accused had been “called up by the police” to assist in the investigations – see para 9 of the SOF. Indeed, he admitted in the same paragraph of the SOF that when he “was called up by the police …. he initially denied taking the mobile phone”. In my mind, it was more probable that the accused confessed as he realised that the police was investigating the case and there was a risk that his misdeeds may eventually come to light.
+
+## OTHER CONSIDERATIONS
+
+16     In his Mitigation Plea, the accused also stated that he would lose his job and livelihood as a taxi driver if a custodial sentence were imposed on him. It is however trite that financial hardship that an accused person would suffer upon conviction of a crime is of little mitigatory value.
+
+17     To further persuade the court to sentence the accused to a fine, Defence Counsel cited the case of _Public Prosecutor v Tan Kia Meng_ (MAC-910936-2017, unreported) (“_Tan Kia Meng_”). In that case, the defendant, a taxi driver, misappropriated an iPad mini left behind by a passenger, and thereafter sold it for 1.8 million Vietnam Dongs during a trip to Vietnam. The defendant made restitution of $800 to the victim, which reflected the then market price of a new Apple IPad mini of a comparable model. The defendant in that case was sentenced to a fine of $1,500.
+
+18     I am, however, unable to attach significant weight to _Tan Kia Meng’s_ case for present purposes. _Tan Kia Meng_ is a non-binding, unreported Magistrate’s Court decision. It is further trite that sentencing decisions from unreported cases have diminished authoritative value as the detailed facts and relevant aggravating and mitigating circumstances are not disclosed with sufficient clarity to enable meaningful comparisons and distinctions to be drawn: see Kow Keng Siong, _Sentencing Principles in Singapore_ (Academy Publishing, 2009) at para. \[13.107\] and _Tang Ling Lee v Public Prosecutor_ <span class="citation">\[2018\] 4 SLR 813</span> at \[22\]. More importantly, the sentence imposed in _Tan Kia Meng_ was contrary to the benchmark custodial punishment laid down by the High Court in _Neo Boon Seng_, which is binding on me.
+
+19     The Prosecution’s submission for a short custodial sentence, on the other hand, is fully in line with the High Court decision of _Neo Boon Seng_. In _Neo Boon Seng_, the defendant taxi driver pleaded guilty to a charge of misappropriating items worth a total value of $11,661.05 left behind by a passenger whom he had picked up from Changi Airport. The items included the victim’s passport, laptop computer, a bottle of wine, three pairs of shoes, currencies in various denominations, two branded pens and various items belonging to the victim’s company. The defendant kept the currencies, the laptop, the shoes and the wine and discarded the rest of the items. Most of the items, save for various items with an approximate value of $4,000, were recovered when the police raided the defendant’s flat. The defendant was sentenced, on appeal, to 3 weeks’ imprisonment.
+
+20     The Prosecution also referred to the case of _Public Prosecutor v Chan Fook Choy Christopher_ (“_Christopher Chan_”). In that case, the defendant, a private hire car driver, ferried the victim and her family to Changi Airport where they were to board a flight back to New Zealand. The victim inadvertently left her backpack on the rear seat of the car. The backpack contained, among other things, cash of different currencies, a number of passports, identification cards and personal certificates belonging to the victim and her family, and a hand phone, with a combined estimated value of $1,051.61. The victim contacted the defendant through Grab to enquire if the backpack was left in the defendant’s car. Despite finding the victim’s backpack, the defendant lied and denied sighting the backpack. The defendant proceeded to appropriate the cash and the phone, and discarded the rest of the documents. As a result of the loss of the travel documents, the victim and her family were unable to board their flight home and had to forfeit their air tickets. The victim incurred a cost of $7,762.16 to replace the lost documents. The defendant pleaded guilty to the charge of dishonest misappropriation and was sentenced to 3 weeks’ imprisonment.
+
+## APPROPRIATE SENTENCE
+
+21     In sentencing the accused, I considered the differences in the factual matrices between the case at hand and those in _Neo Boon Seng_ and _Christopher Chan_. All 3 cases were cases in which the defendants pleaded guilty to their offences. I noted, in particular, the lower value of the item misappropriated in the present case relative to the other two cases, and the fact that there was full restitution in the present case compared to partial restitution in the other two cases. I also considered the mitigating factors highlighted by Defence counsel, including the accused’s lack of antecedents, early plea of guilt, and the cooperation he rendered to the police which led to the recovery of the phone.
+
+22     All things considered, and bearing in mind the need for general deterrence, I was of the view that a custodial sentence was warranted in the present case, but the length of the imprisonment term should be lower than that in _Neo Boon Seng_ and _Christopher Chan._ I agree with the Prosecution that a short custodial sentence would suffice, and sentenced the accused to 1 week’s imprisonment.
+
+23     The execution of the sentence has been stayed pending the appeal. The defendant is presently on bail pending the appeal.
+
+* * *
+
+[^1]: Mitigation Plea para 7-8.
+
+[^2]: Para 24, Mitigation Plea.
+
+[^3]: Para 4, SOF.
+
+[^4]: Para 9, SOF.
+
+[^5]: Paras 46-48, Mitigation Plea
+
+[^6]: Para 38, Mitigation Plea
+
+[^7]: Paras 13, Mitigation Plea
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F23488-SSP.xml)
