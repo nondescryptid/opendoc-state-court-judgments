@@ -1,0 +1,183 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Cheow Kai Lun  
+
+### \[2019\] SGDC 177
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">DAC 917749-2019 and Others</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">27 August 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Eddy Tham Tong Kong</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Deputy Public Prosecutor Gabriel Lim for the Prosecution; The Accused in person</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Cheow Kai Lun</td></tr></tbody></table>
+
+\[LawNet Editorial Note: An appeal to this decision has been filed in MA 9189/2019/01.\]
+
+27 August 2019
+
+### District Judge Eddy Tham Tong Kong:
+
+1       The Accused pleaded guilty before me to four drug-related charges, namely:
+
+> i.     one charge of possession of a controlled drug, methamphetamine, an offence under section 8(a) of the Misuse of Drugs Act, Chapter 185, 2008 Rev Ed. (“the Act”);
+
+> ii.     one charge of consumption of a controlled drug, methamphetamine, an offence under section 8(b) of the Act;
+
+> iii.     one charge of failing to present himself for urine test in breach of regulation 15(3) (f) of the Misuse of Drugs (Approved Institutions and Treatment and Rehabilitation) Regulations (Cap 224, Rg 3, 1999 Rev Ed) (“the Regulations”), an offence punishable under reg 15(6)(a) of the said Regulations;
+
+> iv.     one charge of failing present himself for counselling in breach of reg 15(5)(a) of the Regulations, an offence punishable under reg 15(6)(a) of the said Regulations.
+
+2       Another 5 charges of failing to present for urine test and 2 charges for failing to present himself for counselling were admitted to by the Accused and consented by him to be taken into consideration for the purpose of sentencing.
+
+3       I sentenced the Accused to 12 months of reformative training.
+
+4       The Accused being dissatisfied with the sentence has filed an appeal against it. He is currently serving sentence pending the hearing of the appeal.
+
+5       I now set out my grounds of decision for the sentence.
+
+#### The Statement of Facts
+
+6       The following has been admitted by the Accused without any qualification.
+
+7       The Accused is Cheow Kai Lun, a 16-year old male Singaporean, born on 13 February 2003.
+
+#### Background Information
+
+8       With effect from 7 September 2018, the Accused was subject to compulsory supervision for a period of 24 months, under a Supervision Order issued by the Acting Deputy Director of the Central Narcotics Bureau (“CNB”) pursuant to s 34(2)(a) of the Act.
+
+_Facts pertaining to the 1st Charge_ (DAC-917749-2019)
+
+9       On 21 January 2019, the Accused reported to the CNB office at Central Police Divisional HQ, Singapore, for a urine test pursuant to his supervision order. At around 7.46pm, a search was conducted on the Accused and the following exhibit was recovered:
+
+> One Ziploc bag containing crystalline substance (later marked “CKL-A”).
+
+10     The Accused was then arrested. The exhibit “CKL-A” was sealed and sent to the Health Sciences Authority (“HSA”) for analysis. An analyst with the Analytical Toxicology Laboratory of the HSA, having analysed the exhibit “CKL-A”, issued a certificate under s 16 of the Act, stating that, on analysis, the said exhibit was found to be one packet containing not less than 0.11g of crystalline substance which was found to contain methamphetamine.
+
+11     Methamphetamine is a Class A controlled drug listed in the First Schedule to the Act. At all material times, the Accused was not authorised to be in possession of any controlled drug.
+
+12     The Accused admitted to knowing that the packet contained methamphetamine and admitted to possessing the said drug. The Accused had possession of the said exhibit in order to traffic the drug to an unknown Chinese male (hereinafter referred to as “B2”).
+
+13     Investigations revealed that sometime in December 2018, the Accused came to know B2, who was a friend of one “Taitus”, who was also a friend of the Accused’s older brother. In January 2019, the Accused came to know one “Ang”.
+
+14     On 19 January 2019, B2 messaged the Accused asking if he could help him obtain some “ice”, the street name for methamphetamine. The Accused replied that he could, as he knew that “Ang” sold “ice”. The Accused then messaged “Ang” and obtained the said exhibit on the afternoon of 21 January 2019. The Accused was going to deliver the said exhibit to B2. In exchange, B2 would give the Accused $10, which he would then pass to “Ang”. In this manner, the Accused acted as a middle-man between “Ang” and B2.
+
+15     By virtue of the foregoing, the Accused has committed an offence under s8(a) punishable under s33(1) of the Act.
+
+_Facts pertaining to the 2nd Charge_ (DAC-917750-2019)
+
+16     On 18 February 2019, the Accused reported to the CNB office at Central Police Divisional HQ, Singapore, for a urine test pursuant to his supervision order. The Accused’s urine was subjected to an Instant Urine Test (“IUT”). The IUT results found that the urine was positive for controlled drugs.
+
+17     As such, the Accused provided two further bottles of urine samples which were submitted to the HSA for analysis.
+
+18     On 20 February 2019, two certificates under s 16 of the Act were issued by two different analysts with the Analytical Toxicology Laboratory of the HSA, stating that, on analysis, both urine samples contained methamphetamine.
+
+19     Methamphetamine is a specified drug listed in the Fourth Schedule to the Act. At all material times, the Accused was not authorised under the Act or the Regulations made thereunder to consume any specified drug.
+
+20     The Accused’s urine was found to contain methamphetamine because he consumed the said drug in Singapore on or before 18 February 2019. The Accused admitted that he had last consumed methamphetamine on 13 February 2019 in the afternoon. He had purchased the “ice” from “Ang” and consumed the “ice” by placing it on an aluminium foil, heating the bottom of the foil with a lighter, and inhaling the resulting smoke. The Accused consumed “ice” as he felt stressed.
+
+21     By virtue of the foregoing, the Accused has committed an offence under s8(b)(ii) punishable under s33(1) of the Act.
+
+_Facts pertaining to the 3rd Charge_ (DAC-917751-2019)
+
+22     As part of the supervision (referred to at \[8\] above), the Accused was required by the supervision officer, pursuant to reg 15(3)(f) of the Regulations to present himself at Central Police Divisional HQ every Monday and Thursday of each month from 9.30am to 5.30pm, commencing on 10 September 2018, for urine tests during the period of supervision, that is, from 7 September 2018 to 6 September 2020, except for public holidays.
+
+23     On 25 February 2019, a Monday, the Accused failed to present himself for urine testing as Central Police Divisional HQ, as required. The Accused did not have any valid excuse (medical certificates or otherwise) for not reporting for his urine test on this occasion.
+
+24     The Accused has thereby breached reg 15(3)(f) of the Regulations and committed an offence punishable under reg 15(6)(a) of the Regulations.
+
+_Facts pertaining to the 9th Charge_ (DAC-917757-2019)
+
+25     As part of the supervision (referred to at \[8\] above), the Accused was required by the supervision officer, pursuant to reg 15(5)(a) of the Regulations, to present himself for counselling to an authorised counsellor or caseworker from AMKFSC Community Services (Youth Infinity) located at Blk 463 Ang Mo Kio Ave 10, #01-1132, Singapore or at such other location specified by the said counsellor or caseworker, on such dates and times as notified to the Accused by the said counsellor or caseworker, for the period of supervision.
+
+26     The Accused was notified to attend various group work sessions, counselling sessions and family sessions. In particular, on 22 March 2019, he had been required to attend an individual counselling session at Youth Infinity. The Accused failed to report for his counselling session as required. He did not have any valid excuse for failing to attend this session.
+
+27     In total, the Accused had failed to attend 16 group and individual sessions as required.
+
+28     The Accused has thereby breached reg 15(5)(a) of the Regulations and committed an offence punishable under reg 15(6)(a) of the said Regulations.
+
+#### Antecedent records
+
+29     The Accused’s only criminal record was in relation to being placed on supervision order on 7 September 2018 for a period of 2 years as referred to above at \[8\] as a result of consuming methamphetamine.
+
+#### Prosecution’s submissions
+
+30     The Prosecution sought for the Accused to be sentenced to reformative training on the recommended level 2 intensity as set out in the reformation training assessment report (“the RT report”). Level 2 intensity is explained in the RT report to mean that a minimum of 12 months’ detention is required for the reformative training programmes to be carried out.
+
+31     Prosecution highlighted that the Accused was found to be unsuitable for probation as he was not responsive to past interventions and had continued to default on his urine testing even whilst on court bail.
+
+#### Mitigation
+
+32     The Accused said that he has nothing to say in mitigation and that he has no dispute with the probation report. He also had no questions for the investigating Probation Officer who had prepared the Probation Report. Instead he said he agreed with the submission of the Prosecution on sentence and that he would agree to undergo reformative training as recommended. Hence it is somewhat surprising that he had filed a notice of appeal against sentence. He apparently had a change of mind after he started his sentence.
+
+#### Principle of Sentencing
+
+33     This is a case of a young offender below the age of 21. In fact, the Accused was only 15 years old during the commission of the possession of drug offence and had just turned 16 for the other 3 proceeded charges.
+
+34     The sentencing principle for young offenders below the age of 21 has been clearly established, which is that rehabilitation would be the dominant consideration. As stated by Yong CJ in _Public Prosecutor v Mok Ping Wuen Maurice_ \[1998\] 3 SLR (R) 439 at \[21\], young offenders “are in their formative years and chances of reforming them into law abiding adults are better.”
+
+35     The sentencing court would have to approach the sentencing of a young offender in a 2-step inquiry:
+
+> i.     the first stage is to identify and prioritize the primary sentencing considerations appropriate to the youth in question having regard to all the circumstances including those of the offence; and
+
+> ii     the second stage is to select the appropriate sentence that would best meet those sentencing considerations and the priority that is placed on the relevant ones –
+
+see _Public Prosecutor v Mohammad Al-Ansari in Basri_ <span class="citation">\[2008\] 1 SLR(R) 449</span> at \[77-78\] and _Public Prosecutor v Koh Wen Jie Boaz_ <span class="citation">\[2016\] 1 SLR 334</span> at \[28\].
+
+36     Applying these principles to the present case, I found that on the first stage of the inquiry that the rehabilitation still remains a dominant sentencing consideration. The nature of the offences is not so serious as to rule out rehabilitation as the primary sentencing principle.
+
+37     The Accused had basically continued to dabble in controlled drugs despite being placed on drug supervision. He did not manage to steer clear of his drug consumption and inevitably tested positive for drugs when he went for a drug urine test. He had also breached on multiple occasions to present himself for urine testing and counselling. These are offences for which the greatest harm caused is to himself and also represented a lack of discipline and consequential thinking, for which there is still much scope for rehabilitation to take place.
+
+38     I now move on to the second stage of the inquiry which is to determine which is the most appropriate sentencing option within the overarching principle of rehabilitation.
+
+39     Ordinarily, probation which is rehabilitation within the community would be the most appropriate option given the very young and tender age of 16 of the Accused.
+
+#### Analysis of the Probation Report
+
+40     Unfortunately for the Accused, probation was not recommended. The Probation Officer had assessed the Accused’s risk of reoffending as ‘High’ setting out the following factors in the Probation Report (“PR”) at page 2:
+
+> i.     The Accused’s repeated drug offences despite intervention highlights his poor consequential thinking, lack of motivation to make changes and disregard for the law;
+
+> ii.     His association with negative peers led to his exposure to drugs;
+
+> iii.     His continued drug-taking behaviour show his propensity for risk-taking and lack of self-control, highlighting an addiction rather than mere occasional use. It appears that his drug use stemmed from his need for relatedness and served to help him cope emotionally;
+
+> iv.     Parental supervision was poor as they failed to provide close monitoring and address his drug-taking behaviour in a timely manner; and
+
+> v.     His lack of constructive engagement also contributed to his drug-taking habit.
+
+41     I agree with the assessment of the Probation Officer. The Accused’s addiction to drugs appeared to be quite deep-seated and he had not displayed any strong resolve to cease his drug involvement. He appeared to be quite nonchalant about his repeated breaches. The reason he gave for his non-attendance for his urine tests was that he felt it troublesome to attend urine testing so frequently. He also reasoned to himself that he would not be charged in any case even if arrested as he was not consuming drugs at the material time. His explanation as to why he did not attend counselling again demonstrated his lack of commitment to change and consequential thinking. He said that he lacked motivation to attend and that he felt irritated by the counsellor asking him the same questions.[^1]
+
+42     The Accused continued to reoffend despite multiple arrests. Just a month after his second arrest in January 2019 for the drug possession charge and whilst being placed on drug supervision, he committed his consumption offence in February 2019.
+
+43     One would have thought that this last arrest in February 2019 would have finally put a stop to his involvement with drugs. However, upon being confronted by the Probation Officer, he admitted that in end-June 2019 he again succumbed to the temptation of drugs when an acquaintance offered it to him without any charges.[^2]
+
+44     This shows that despite his mother imposing a curfew hour on him of 7pm since his last arrest in February 2019 and reporting that he had abided by it,[^3] the Accused clearly lacked the mental resolve to control himself. This lapse also shows that the Accused continued to have contact with acquaintances or friends who have access to drugs and did not manage to free himself from their influence.
+
+45     As for parental control and influence, it is unfortunate but the Accused was estranged from his father after his parents’ divorce and over an incident of the father slapping him in 2018. The Accused’s mother who is now the sole caregiver over the Accused has shown that she is unable to fully exert control over the Accused. She also has her hands full what with running a hair salon business as well as looking after the Accused’s elder 18-year-old brother who had also been arrested together with the Accused in 2018 for drug consumption.
+
+46     It was also reported under the category of the “Peers and Activities” in the Probation Report that despite the parents being aware and disapproving of certain relationships of the Accused with friends who had been taking drugs, the Accused continued to keep in contact with them. These friends include “Taitus” (mentioned in \[13\] above), one “Zulfakar” and one “Oscar”. Placing the Accused on probation would mean that he will continue to be at risk of being adversely influenced by them.
+
+#### Analysis of the Reformative Training Report
+
+47     The Reformative Training Report painted a similar picture of the Accused.
+
+48     The Accused displayed poor attitude towards supervision and took his conditions of his supervision lightly. His close peers are those with drug-taking behaviour and gang affiliations.[^4] He did not have any friends with positive influence.
+
+49     It was also reported that the mother did not have effective control over him as despite her reprimands, the Accused continued to breach the conditions of his supervision. Contrary to what was reported to the Probation Officer, tele-conversation with the mother disclosed that the Accused did not abide by the curfew set by his mother after his arrest this year, in order to go out with his friends.[^5]
+
+50     It was thus not surprising that it was assessed that the Accused needed to undergo a level 2 intensity of rehabilitation which would require interventions to be delivered over a 12-month period instead of a 6-month period.
+
+#### Conclusion
+
+51     Hence, considering all the factors, I found that clearly a more structured and confined environment is needed to instil the necessary discipline and values in the Accused. Drug addiction had clearly taken a very strong hold over the Accused and his continued association with negative peers would put him at very high risk of re-offending if he were to undergo rehabilitation whilst in the community.
+
+52     Accordingly, I am of the view that reformative training was the most appropriate sentence and I so ordered the Accused to undergo reformative training with a minimum period of 12 months’ detention.
+
+* * *
+
+[^1]: Page 3 of the Probation Report.
+
+[^2]: Page 9-10 of the Probation Report.
+
+[^3]: Page 4 of the Probation Report.
+
+[^4]: Page 5, under category of “Companions”, of the Reformative Training Report.
+
+[^5]: Page 5 of the Reformative Training Report.
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F23498-SSP.xml)
