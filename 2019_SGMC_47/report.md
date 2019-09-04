@@ -1,0 +1,553 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Thaw Zin Oo  
+
+### \[2019\] SGMC 47
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">MAC No. 913081 of 2017</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">27 August 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Kan Shuk Weng</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Asoka Markandu, Attorney-General's Chambers for the Prosecution; Kanthosamy Rajendran, Relianze Law Corporation for the Accused</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Thaw Zin Oo</td></tr></tbody></table>
+
+\[LawNet Editorial Note: An appeal to this decision has been filed in MA 9140/2019/01.\]
+
+27 August 2019
+
+### District Judge Kan Shuk Weng:
+
+## (1)   Introduction
+
+1       The Accused, a 30-year-old male Myanmar national, was charged under section 354(1) of the Penal Code (Chapter 224, 2008 Revised Edition) (“the Penal Code”) for outraging the modesty of the Victim by kissing her on her lips and touching her crotch area (over her jeans). The offence allegedly took place on 22 October 2016, at or about 4.55 am, at the park area behind Block 64 Circuit Road.
+
+2       The Accused claimed trial to the charge. At the conclusion of the trial, I convicted the Accused. Following his conviction, and after hearing submissions on sentence from the Prosecution, as well as the mitigation plea presented by the Defence, I sentenced the Accused to 6 months’ imprisonment.
+
+3       The Accused has since filed an appeal against his conviction, and his sentence is stayed pending the appeal. I now set out my full reasons for the conviction.
+
+## (2)   The Agreed Facts
+
+4       At the start of the trial, parties informed me that certain facts were agreed and a Statement of Agreed Facts (A), and the following exhibits were tendered and admitted as evidence:
+
+> (a)     the First Information Report (the “FIR”) (P1);
+
+> (b)     the layout of 365 Mini Mart (“the Minimart”) and the location of the Minimart’s CCTV cameras (P2);
+
+> (c)     a sketch plan depicting the area immediately behind the Minimart (P3);
+
+> (d)     a map showing an overview of the blocks surrounding Block 64, Circuit Road (P4); and
+
+> (e)     19 photographs of the Minimart (P5:1 – 9).
+
+In addition to the above, the parties also admitted, by agreement, the Housing Development Board floor plan of the Minimart (P12).
+
+5       The Statement of Agreed Facts set out the identities and particulars of the Victim and the Accused. The Accused was working at the Minimart located at Block 64, Circuit Road at the time of the offence, having started his shift at 9.30 pm on 21 October 2016. His shift was to end at 9.30 am on 22 October 2016.
+
+6       It was not disputed that the Accused walked into the dark passage at the rear of the Minimart at time-stamp 4:55:11 and only emerged from the passage way again at time-stamp 4:58:40. The total period which the Accused was not observed in any of the CCTV footages retrieved from the Minimart was 3 mins and 29 secs. Further, it was not disputed that the CCTV footages retrieved from one of the CCTV cameras in the Minimart, marked “camera X” in P2, was approximately 1 min and 10 secs ahead of the CCTV footages retrieved from the other CCTV cameras in the Minimart.
+
+7       It was also agreed that the distance between the back gate of the Minimart and the bench where the Victim claimed she was sitting, at the time of the offence, was approximately 53 meters.
+
+## (3)   The Prosecution’s Case
+
+8       The main witness for the Prosecution was the Victim. In addition, the Prosecution adduced evidence through the Investigation Officers and the Accused’s colleagues. The Prosecution also adduced a DVD, which was a compilation of the various CCTV footages (retrieved from the Minimart’s CCTV cameras) showing the sequence of events from the moment the Victim first entered the Minimart at time-stamp 4:41:48 to her confrontation with the Accused at time-stamp 5:04:40 (P7).
+
+9       I will set out the Prosecution’s case in three categories:
+
+> (a)     evidence of the Victim;
+
+> (b)     evidence of the police officers and the Accused’s colleagues; and
+
+> (c)     evidence relating to the CCTV footages (P7) and the ‘999’ call.
+
+### (a)   Evidence of the Victim
+
+10     The Victim (PW4) was 28 years old at the time of the incident and was working in a polyclinic as an administrator. She testified that, on 22 October 2016 at about 8.00 pm to 9.00 pm, she had met her friends at Boat Quay for drinks. There were about 5-6 of the, and they consumed about three towers of beer. At about 4.00 am, the Victim took a taxi to Block 43 Circuit Road, where she had been living for 28 years. However, instead of proceeding home, she proceeded to Block 64 Circuit Road as she had wanted to purchase some food, beverage and cigarettes from the Minimart[^1]. Block 64 was a 5-minute walk from Block 43 and she would usually go the Minimart once a week[^2].
+
+11     At time-stamp 4:41:48, the Victim was seen entering the Minimart[^3]. The Victim testified that when she first entered the Minimart, she wanted to buy cigarettes. However, as there were two persons waiting at the cashier counter, she decided to walk around the Minimart to look for snacks. Eventually, she left the Minimart at time-stamp 4:44:25 without purchasing anything[^4].
+
+12     After stepping out of the Minimart, the Victim browsed through the items outside the Minimart before re-entering the Minimart at time-stamp 4:44:40. The Victim proceeded to purchase a packet of cigarettes from the Accused. The Victim checked with the Accused the price of the packet of cigarettes and interacted with the Accused for about a minute, at close proximity, before exiting from the Minimart[^5] to browse through the items along the walkway. Shortly thereafter, the Victim picked up two cans of cat food and approached the Accused again at the cashier counter for payment. The Victim asked the Accused how much the two cans of cat food were and was told that it was $2. The Victim then paid for the cat food and left the Minimart at time-stamp 4:48:57, after interacting with the Accused for slightly more than a minute[^6].
+
+13     As the Victim had extra cash on her, she entered the Minimart for the fourth time at time-stamp 4:49:30 with two additional cans of cat food. She approached the Accused at the cashier counter and asked if she had given him a $5-note earlier. After clarifying with the Accused, she proceeded to pay for the additional cans of cat food, and a lighter which she had picked up at the cashier counter[^7]. The Victim left the Minimart at time-stamp 4:50:18 after paying for the additional cans of cat food and the lighter, but returned at time-stamp 4:50:42 to pay for a bottle of drink which she had taken from the refrigerator outside the Minimart. The Victim testified that, at that point, the Accused reminded her that the cans of food she bought earlier were cat food. The Accused’s remarks left a deep impression on her as she perceived that the Accused had made the remarks thinking that she was drunk and had mistaken the cat food to be “human food”. The Victim then told the Accused that she wanted to feed the cats, and used her finger to point towards the back of the Minimart[^8].
+
+14     The Victim left the Minimart at time-stamp 4:52:14, turned right and proceeded to the “garden” behind Block 64 as she intended to feed the cats. When she reached the “garden”, she sat down on one of the wooden benches which was “closest to the streetlamp”. The Victim sat cross-legged on the wooden bench and started smoking[^9]. She then noticed the Accused coming towards her and as the Accused approached her, he told her that she owed him a dollar[^10]. The Victim began searching her bag for money and as she was doing so, the Accused bent down and kissed her on the lips. After that, the Accused used his hand to touch the Victim’s “private part” over her jeans. Immediately after touching her “private part”, the Accused ran towards the direction of the back of the Minimart[^11].
+
+15     The Victim returned to the Minimart at time-stamp 5:05:40 and confronted the Accused. The Vitim testified that the Accused did not answer her questions directly and appeared to “feign ignorance”[^12]. The Victim was very angry with the Accused and threw two cans of cat food at the Accused. She felt that the Accused had taken advantage of her as he thought that she was drunk, and had used the excuse that she owed him a dollar to get near her[^13]. The Accused insisted that the Victim owed him a dollar[^14], and the Victim then left the Minimart to call the police[^15].
+
+16     The Victim maintained that she did not owe the Accused any money on 22 October 2016[^16], and that while she was high after drinking with her friends, she was not drunk[^17].
+
+### (b)   Evidence of the police officers & the Accused’s colleagues
+
+#### (i)   SSI Siena Chin (PW1) & SSSgt Kenneth Chia (PW2)
+
+17     Following the Victim’s call to the police, SSI Siena Chin (“SSI Siena”) proceeded to the scene and met the Victim. SSI Siena testified that while the Victim smelled of alcohol, the Victim was able to relate the facts of the case to her[^18], and identify the Accused. SSI Siena further testified that the Victim brought her to the scene of the offence, and demonstrated to SSI Siena how she was seated (cross-legged) on the wooden bench[^19] when the Accused molested her. The Victim also informed SSI Siena the direction which the Accused ran after molesting her[^20].
+
+18     After speaking to the Victim, SSI Siena proceeded to the Minimart to speak to the Accused in English. However, the Accused was unable to communicate very well with SSI Siena, and upon ascertaining that the Accused’s supervisor was in the Minimart, SSI Siena then woke the supervisor up. With the assistance of the supervisor, SSI Siena viewed the CCTV footages in the Minimart[^21], and proceeded to interview the supervisor. On the same day, she placed the Accused “under arrest for outrage of modesty”[^22].
+
+19     SSI Siena testified that, pursuant to the Accused’s arrest, she seized the CCTV footages from the Minimart (P6)[^23] and arranged for photographs of the Minimart, and the scene of crime and its surroundings to be taken (P5)[^24]. She also directed her team to prepare a sketch plan of the scene (P3) and measure the distance between the back gate of the Minimart and the bench where the offence took place[^25]. She further assessed that it would take approximately a minute to walk from the back gate of the Minimart to the wooden bench, regardless of whether the person was walking diagonally across the open area (as shown in P3) or walking along the running/walking track[^26].
+
+20     SSSgt Kenneth took over the investigations of the case from SSI Siena. After taking over from SSI Siena, SSSgt Kenneth reviewed the CCTV footages which were seized by her and created a DVD using the FastStone Capture application (the “DVD”). The DVD (P7) captured all the footages depicting[^27]:
+
+> (a)     the various times the Victim entered and left the Minimart;
+
+> (b)     the Victim’s movements inside the Minimart;
+
+> (c)     the Accused’s movements inside the Minimart; and
+
+> (d)     the Victim’s and the Accused’s movements along the passage way just outside the Minimart.
+
+21     In addition, SSSgt Kenneth testified that he prepared a table of “chronology of events” (P8). The table showed, _inter alia_, the time-stamp reflected on the CCTV footages when the Victim entered and left the Minimart. It also described what the Victim did inside the Minimart and her interactions with the Accused. SSSgt Kenneth testified in cross-examination that the time taken for a person to walk from the back gate of the Minimart to the bench where the Victim was “two minutes plus by normal walking”[^28].
+
+#### (ii)   Sgt Mohamed Isak bin Juma’at (PW6))
+
+22     Other than the two Investigation Officers, SSI Siena and SSSgt Kenneth, the Prosecution also called Sgt Mohamed Isak bin Juma’at (“Sgt Isak”). Sgt Isak’s evidence pertained to the two calls which the Victim made to the police on 22 October 2016, after she was molested by the Accused. Sgt Isak’s testified that he retrieved the recording of the Victim’s call (P9) from the Police Technology Department. He confirmed that the Victim made two calls to the police on 22 October 2016 – the first call was made at 5.20 am and the second call was made at 5.39 am[^29]. He was unable to ascertain if the time reflected in the CCTV footages was accurate – the CCTV system in the Minimart had been changed as the previous system was corrupted[^30].
+
+#### (iii)   Pwint Myat Soe (PW3) & Kyaw Naing Tun (PW5)
+
+23     The Prosecution further called the Mdm Pwint Myat Soe, who was also known as Michelle (“Mdm Michelle”), to testify. Mdm Michelle testified that she was the co-owner of the Minimart, which was a 24-hour store, at the relevant time.
+
+24     Besides the Minimart, Mdm Michelle was also the owner of D & D Industries Pte Ltd (“D&D”). D&D was in the business of providing “mast climbing work platforms” in the construction industry[^31]. D&D operated from the same premises as the Minimart and Mdm Michelle also had a general manager, Kyaw Naing Tun (“Mr Kyaw”), in D&D. Mr Kyaw assisted her with project management at D&D, and with stock-taking and in paying suppliers at the Minimart[^32]. At the time of the incident, Mdm Michelle had five to six employees at the Minimart, and the Accused was one of them[^33]. It was the evidence of Mdm Michelle that the Accused was normally the person taking the night shift at the Minimart[^34].
+
+25     Mdm Michelle’s office was in a room within the Minimart[^35]. The employees would use the toilet in the store room, which was her office, while she and the female staff would use the other toilet which was in the storage area. However, in the night, when there was only one employee in the Minimart, the employee was allowed to use the toilet in the storage area as a person using that toilet would be able to hear the door chime when a customer entered the Minimart. The door chime could not be heard in the toilet in the store room[^36].
+
+26     In relation to the back gate of the Minimart, Mdm Michelle testified that it was kept locked all the time and that the back gate would only be unlocked for the purposes of “aircon servicing” and “pest control”. The keys to the back gate were held by her and Mr Kyaw, and her employees at the Minimart, including the Accused, were aware of that[^37].
+
+27     As for Mr Kyaw, he confirmed that he was the assistant general manager of D&D[^38], and that Mdm Michelle was his boss[^39]. Other than his responsibilities at D&D, Mr Kyaw also assisted Mdm Michelle with the stock-taking at the Minimart and in making payments to suppliers[^40]. Whenever he went to the Minimart, Mr Kyaw would carry a haversack with him with the Minimart’s keys in the haversack. The keys were for the back gate and the letter box of the Minimart[^41].
+
+28     Mr Kyaw testified that he would sleep over in the staff’s sleeping room[^42] in the Minimart on occasions. On 21 October 2016, he was at the Minimart and the Accused was on the night shift that day[^43]. Mr Kyaw testified that he went to bed that night at about 10.30 pm, after he had done stock-taking and prepared cheques for payment to suppliers. He slept with his haversack on the bed, near his knees[^44], until he was awaken by the Accused who informed him that the police were coming to the Minimart[^45]. Subsequently, he watched the CCTV footages with the police officers[^46].
+
+29     It was also the evidence of Mr Kyaw that he was a “very sound sleeper”[^47], and that he would keep the keys to the padlock in the main compartment of his haversack[^48].
+
+### (c)   Evidence relating to the CCTV footages and the ‘999’ call
+
+30     The DVD (P7) produced by SSSgt Kenneth captured the movements of the Victim and the Accused, which were relevant to the present case, in a chronological order. The DVD showed, _inter alia_, the various times the Victim entered the Minimart and captured her interactions with the Accused. The conversation between the Victim and the Accused could be heard when the Victim approached the cashier to purchase a packet of cigarettes from the cashier counter at time-stamp 4:44:40 – the Victim asked the Accused, “how much?”, and the Accused responded by telling her the price of the cigarettes[^49].
+
+31     The Victim next interacted with the Accused when she approached the cashier counter at time-stamp 4:47:47 with two cans of cat food. She asked the Accused, “how much?”. She then placed a $2-note and a $5-note on the cashier counter, and a can of cat food on the $5-note to prevent it from being blown away. The Accused eventually responded by telling the Victim “$2”, and raised two fingers at the same time[^50].
+
+32     After the Victim bought the two cans of cat food, she took two additional cans of cat food and placed them at the cashier counter at time-stamp 4:49:31. She then asked the Accused, “just now I gave you $5 right?”. After repeating that a second time, the Accused responded by pointing at the Victim’s bag and saying, “$5 there”. The Victim apologised and handed over her $5-note to the Accused. She also took a lighter and proceeded to look for more money in her bag. However, the Accused told her, “enough”. Thereafter, the Accused returned some change to the Victim[^51].
+
+33     At time-stamp 4:50:46, the Victim again interacted with the Accused when she approached the cashier counter with a bottled drink. She took some coins from the pocket of her jeans and placed them on the cashier counter. After that, she searched through her bag for more coins, placed them on the cashier counter and asked, “enough?”. The Accused returned the excess coins to the Victim. Before leaving the Minimart, the Victim said, “bye-bye, … behind. Bye-bye” and pointed to the back using her index finger[^52].
+
+34     The Victim left the Minimart at time-stamp 4:52:14 and turned right[^53]. Shortly thereafter, at time-stamp 4:52:33, the Accused exited the Minimart and turned right. He bent down to pick up something before opening the door of a refrigerator[^54]. After that, the Accused entered the Minimart again and proceeded directly to the back of the Minimart[^55]. The Accused turned right at the doorway to the store room at time-stamp 4:53:00 before emerging at time-stamp 4:53:09. The Accused then made a right turn and walked to the rear of the Minimart.
+
+35     At time-stamp 4:53:18, the Accused turned off the lights along the passageway at the rear of the Minimart[^56]. Immediately after the Accused turned off the lights, a female customer entered the Minimart at time-stamp 4:53:19 and the door chime sounded[^57]. Eventually, the Accused emerged from the passageway at time-stamp 4:53:45[^58] and made his way to the cashier counter. He took 6 seconds to get to the cashier counter[^59]. The Accused served the female customer, and 9 seconds after the female customer left the Minimart, the Accused made his way to the back of the Minimart at time-stamp 4:55:06[^60]. He then walked into the passageway at time-stamp 4:55:11 and disappeared from view[^61].
+
+36     The Accused re-appeared at the passageway at time-stamp 4:58:40 and walked into the store room. At time-stamp 4:59:26, a male customer walked into the Minimart and the door chime sounded. The Accused emerged from the store room at time-stamp 4:59:40 and got to the cashier counter at time-stamp 4:59:45. The male customer asked if the Accused was sleeping, to which the Accused responded, “no … toilet”[^62].
+
+37     At time-stamp 5:04:40, the Victim entered the Minimart and asked the Accused, “what you want just now?”. After the Victim asked the question a second time, the Accused raised his right index finger, showing “1”. The Victim then raised two cans of cat food and the Accused said “cat food”. He then raised his right index finger again to show “1” and said, “$1”. The Victim simultaneously said, “cat food, another $1?” and flung the two cans of cat food at the Accused. She raised her voice at the Accused and again asked, “what you want just now? What you do to me behind?”. The Accused responded, “sorry, I no do”. The Victim then threw a bottle of water at the Accused and shouted at him. She accused him of kissing her and, again, asked him what he did behind. The Accused uttered, “cat food $1”. When the Accused repeatedly denied having done anything to the Victim, the Victim challenged the Accused to call the police or his boss. The Accused continued to deny and said he did not understand. The Victim then took out her mobile phone from her bag and walked out of the Minimart at around time-stamp 5:07:19, while talking on the mobile phone, saying, “erm …. 65?”[^63]. The Victim could be seen talking on her mobile phone until time-stamp 5:07:56 when she moved out of the range of the CCTVs[^64].
+
+38     The Prosecution also produced a DVD (P9) with a recording of the Victim’s ‘999’ call to the operator. The recording started with the operator asking the Victim to state the address, to which the Victim responded, “erm … 65 Circuit Road?”. The Victim proceeded to inform the operator that she had been molested, at the playground, by the shopkeeper of a provision shop, and that he had approached her on the pretext that she owed him a dollar. The operator then told the Victim to “wait there” and that he would inform the police. The recording ended with the Victim clarifying that the location of the incident was “Block 64”. The total length of the call was about two minutes.
+
+## (4)   The Defence
+
+### (a)   Evidence of the Accused
+
+39     The Accused elected to give evidence. He testified that, on the night in question, the Victim had gone to the Minimart while he was working. He perceived her to be drunk as she was swaying when she walked[^65].
+
+40     The Accused testified that the Victim came into the Minimart on a few occasions that night and made various purchases. The Accused claimed that the Victim took a long time to search for money to pay for her purchases and confirmed, in his testimony in court, that the Victim paid fully for her purchases and did not owe him any money.
+
+41     With respect to the first occasion when he was seen going to the back of the Minimart at time-stamp 4:53:00, the Accused claimed that he was “going to prepare rice”. However, before preparing his food, he decided to use the toilet in the storage area. On his way to the toilet, he turned off the light in the passageway and turned on the light in the toilet[^66]. He denied entering the staff’s sleeping room[^67] and confirmed that he “used the toilet there”[^68]. On the second occasion when he walked to the back of the Minimart at time-stamp 4:55:11, the Accused claimed that he had gone to use the toilet in the storage area again[^69]. After using the toilet, he went to the store room to prepare his rice. However, he came out of the store room when a customer stepped into the Minimart[^70].
+
+42     At time-stamp 5:04:40, the Victim entered the Minimart and was angry. The Accused claimed that he did not understand what she was saying, and thought that she was asking for the price of the cat food[^71]. He thought that the Victim was drunk and making things difficult for him[^72]. After confronting the Accused, the Victim left the Minimart at time-stamp 5:07:19 but returned again at time-stamp 5:13:43[^73]. On that occasion, the Victim bought a lighter and left the Minimart, after leaving the exact amount on the cashier counter, without talking to the Accused.
+
+43     The Accused knew that Mdm Michelle and Mr Kyaw had the keys to the back gate[^74]. He denied molesting the Victim and claimed that he had not left the provision shop at all via the back gate at the material time.
+
+### (b)   The Accused’s statements
+
+44     In cross-examination, the Prosecution sought to impeach the credibility of the Accused using two statements which the Accused had given to SSI Siena on 22 October 2016 (P13) and 7 September 2017 (P14). The admissibility of the statements was not challenged.
+
+45     In P13, the Accused claimed that when the Victim came back to the Minimart subsequently, he told her that she had to pay him a dollar more. The Victim then opened her bag and showed it to the Accused. He could not understand what the Victim meant but he understood from the Victim’s gesture that she was asking him to call the police[^75]. In P14, the Accused informed SSI Siena that when the Victim returned to the Minimart, she was angry and shouted at him. He did not know why she was shouting at him, but he told her that she had to pay him a dollar more. He was unable to understand what she told him but he heard the Victim said the words “call police”[^76].
+
+## (5)   Closing Submissions
+
+### (a)   The Prosecution’s submissions
+
+46     In essence, the Prosecution submitted that the Victim’s testimony was “unusually convincing”. Her evidence was internally consistent in that she was able to give a “vivid and textured account” of her various interactions with the Accused. In relation to the identity of her assailant, she remained unshaken in cross-examination that it was the Accused. The Victim was forthcoming, and admitted candidly that she was high, having gone for drinks with her friends earlier in the night[^77].
+
+47     The Prosecution further submitted that the Victim’s testimony was externally consistent as her account of the molest was corroborated by SSI Siena who went down to the scene to meet the Victim. In addition, her account that the Accused had approached her while she was in the park area, alleging that she owed him a dollar, was “corroborated by CCTV evidence”[^78]. The Prosecution referred to screenshots of the CCTV footage which showed the Accused responding to the Victim with a raised index finger when the Victim first confronted him[^79].
+
+48     Finally, the Prosecution submitted that the Accused was not a credible witness and his credit was impeached due to the material inconsistencies between his testimony in court, and the Accused’s statements (P13 and P14).
+
+### (b)   The Defence’s submissions
+
+49     The Defence submitted that the Victim was drunk and incoherent on the night in question, based on the Accused’s observation and the FIR[^80]. She was inconsistent in her evidence in relation to where the offence had taken place – she initially reported that the offence had taken place at the “playground”, and not the park area. It was therefore doubtful if the Victim was molested at the park area, and assuming that she was molested, she was mistaken on the identity of the assailant[^81].
+
+50     In addition to the above broad issues, the Defence submitted, _inter alia_, that[^82]:
+
+> (a)     the Accused could not possibly have known that the Victim would be at the park area;
+
+> (b)     the Accused could not possibly have known that the key to the back gate was with Mr Kyaw;
+
+> (c)     the Accused could not possibly have been able to retrieve the key to the back gate in 5 seconds and without waking Mr Kyaw up; and
+
+> (d)     it was not likely that the Accused would be able to commit the offence within 3 mins and 29 secs.
+
+## (6)   My Decision
+
+### (a)   The ingredients of the charge
+
+51     The ingredients for an offence under section 354 of the Penal Code are:
+
+> (a)     the offender used criminal force against a victim without her consent; and
+
+> (b)     the offender knew that he would likely outrage the modesty of the victim by his action.
+
+### (b)   The applicable law
+
+52     The Prosecution’s case was based primarily on the evidence of the Victim, specifically whether she was molested, and if she was, whether she had correctly identified the Accused to be the assailant. In order for the Prosecution to prove its case beyond a reasonable doubt against the Accused, the Prosecution had to demonstrate that the Victim’s evidence was “unusually convincing”[^83]:
+
+> 37    The rule as to corroboration in so far as sexual offences are concerned was laid down in the local context in the Singapore High Court decision of _Khoo Kwoon Hain v PP_ <span class="citation">\[1995\] 2 SLR(R) 591</span> (“_Khoo Kwoon Hain_”), where Yong Pung How CJ held that while there was no rule of law in this country that in sexual offences, the evidence of the complainant must be corroborated, it was nonetheless unsafe to convict in cases of this kindunless the evidence of the complainant was “unusually convincing” (_Khoo Kwoon Hain_ at \[50\]… .
+
+> 38    As to what “unusually convincing” means, Yong CJ, in _Teo Keng Pong v PP_ <span class="citation">\[1996\] 2 SLR(R) 890</span>, clarified (at \[73\]) that this simply meant that the witness’s testimony must be “so convincing that the Prosecution’s case was proven beyond reasonable doubt, solely on the basis of the evidence” (see also _Lee Kwang Peng v PP_ <span class="citation">\[1997\] 2 SLR(R) 569</span> (“_Lee Kwang Peng_”) at \[69\]–\[70\] and _Kwan Peng Hong_ (\[37\] _supra_) at \[33\])… .
+
+> 39    Given that the standard of proof required in a criminal case is already that of “beyond a reasonable doubt” (see \[34\]–\[35\] above), the expression “unusually compelling” must mean something more than a mere restatement of the requisite standard of proof. ... In our view, therefore, the “extra something” implied by the word “unusually” must refer to the need for the trial judge to be aware of the dangers of convicting solely on the complainant’s testimony as well as of the importance of convicting only on testimony that, when weighed against the overall backdrop of the available facts and circumstances, contains that ring of truth which leaves the court satisfied that no reasonable doubt exists in favour of the accused. Since a mandatory warning from the judge to himself is not required, the implication is that the appellate courts will scrutinise the trial judge’s grounds of decision to see whether the trial judge was indeed aware of the danger of convicting on the bare word of the complainant as well as whether the quality of the testimony itself was consistent with the high standard of proof beyond a reasonable doubt.
+
+53     In relation to the issue of identification, the test to apply is set out in the case of _Heng Aik Ren Thomas v PP <span class="citation">\[1998\] 3 SLR(R) 142</span>_[^84]:
+
+> 33    … The first question which a judge should ask when encountering a criminal case where there is identification evidence, is _whether the case against the accused depends wholly or substantially on the correctness of the identification evidence_ which is alleged by the Defence to be mistaken.
+
+> 34    If so, the second question should be this. _Is the identification evidence of good quality, taking into account the circumstances in which the identification by the witness was made?_ A non-exhaustive list of factors which could be considered include the length of time that the witness observed the accused, the distance at which the observation was made, the presence of obstructions in the way of the observation, the number of times the witness had seen the accused, the frequency with which the witness saw the accused, the presence of any special reasons for the witness to remember the accused, the length of time which had elapsed between the original observation and the subsequent identification to the police and the presence of material discrepancies between the description of the accused as given by the witness and the actual appearance of the accused. In considering the circumstances in which the identification was made, the judge should take note of any specific weaknesses in the identification evidence. If after evaluation of the identification evidence, the judge is satisfied that the quality of the identification is good, he may then go on to safely assess the value of the identification evidence.
+
+> 35    Where the quality of the identification evidence is poor, the judge should go on to ask the third question. _Is there any other evidence which goes to support the correctness of the identification._ If the judge is unable to find other supporting evidence for the identification evidence, he should then be mindful that a conviction which relies on such poor identification would be unsafe. The supporting evidence need not be corroborative evidence of the kind required in _R v Baskerville_ <span class="citation">\[1916\] 2 KB 658</span>. What the supporting evidence has to be is evidence that makes the judge sure that there was no mistake in the identification. …
+
+> \[emphasis added\]
+
+54     The three-step test was applied in the recent case of _Kunasekaran s/o Kalimuthu Somasundara v PP_ <span class="citation">\[2018\] 4 SLR 580</span> at \[16\] (“_Kunasekaran_”).
+
+### (c)   The Victim was unusually convincing
+
+#### The Victim was coherent and was not drunk
+
+55     In the course of the trial, I was able to observe the demeanour of the Victim at close proximity when she was testifying. I found her to be a truthful and credible witness – she was forthcoming and was honest about being high on the night in question. However, she denied being drunk.
+
+56     The Victim was cross-examined at length by the Defence on, _inter alia_, her gait, her slowness in making payments, her inability to recall certain movements and the amount that she had paid the Accused and her purported incoherence when she confronted the Accused. Having viewed the CCTV footages, I was of the view that the gait of the Victim did not show conclusively that she was drunk on the night in question. In fact, from the CCTV footages, she was able to communicate coherently with the Accused when making her purchases, and had the presence of mind to place a can of cat food on her $5-note so that it would not be blown away.
+
+57     As for her purported incoherence when she returned to confront the Accused after the molest, I did not think that this was a result of her being drunk. It was clear to me that she was extremely angry at that time, and in her anger, she could have made statements which she would not have made had she been in a calmer state of mind. In relation to her inability to recall all her movements on that night in question, I did not think that this had undermined the credibility of her evidence, given that the incident happened in 2016. I found the observations made by Yong Pung How CJ in _PP v Singh Kalpanath_ <span class="citation">\[1995\] 3 SLR(R) 158</span> instructive:
+
+> 54    … I reiterate what I said in _PP v Gan Lim Soon_ <span class="citation">\[1993\] 2 SLR(R) 67</span> at \[7\]:
+
+>> As with so many cases, where _the lapse of time has caused memories to blur and fade, and result in throwing up many discrepancies in evidence, it is vitally important that courts do not lose sight of the wood for the trees_. District judges and magistrates, especially, would be well advised to sit back sometimes, and decide what the essentials of the case are and in fact what the case is all about. …
+
+> …
+
+> 60    … _Adequate allowance must be accorded to the human fallibility in retention and recollection_. It is also common to find varying accounts of the same incident by the same person. _No one can describe the same thing exactly in the same way over and over again_ ...
+
+> \[emphasis added\]
+
+58     The above observation was endorsed by the Court of Three Judges in _Tay Wee Kiat v PP_ <span class="citation">\[2018\] 4 SLR 1315</span> at \[31\].
+
+59     While it was reflected in the FIR (P1A) that the Victim was drunk, having heard the recording of her call (P9), I did not think that she sounded drunk or confused. Her speech was not slurred and she was able to narrate the incident to the operator, and provide her mobile number and whereabouts to the operator. In the recording, the Victim could be heard saying her mobile number in Mandarin, before repeating the same to the operator in English. I did not think that this was an indication that she was drunk. The Victim was clearly more comfortable speaking in Mandarin, and had elected to testify in Mandarin.
+
+60     The Victim was also able to recall that she had to call the police a second time before a male officer and a female officer arrived at the scene. The female officer had asked her “what happened”, and eventually SSI Siena “came down”[^85]. This aspect of her testimony was not challenged by the Defence. When SSI Siena arrived at the scene, she observed that although the Victim smelt of alcohol, she was able to “relay” information to her (SSI Siena) “clearly”[^86].
+
+#### The Victim was molested
+
+61     I next considered if the Victim had in fact been molested. It could be seen from the CCTV footage at time-stamp 5:04:40, when the Victim returned to the Minimart, that she was visibly upset[^87]. She confronted the Accused and became increasingly annoyed when the Accused appeared to feign ignorance. At one point, she became so incensed that she threw the cans of cat food in her hand at the Accused. When the Accused continued to deny approaching her in the park area “behind” and molesting her, she picked up a bottle of water and threw that at him as well. The Victim eventually called the police and informed the operator that she had been molested by the Accused who had accosted her at the “playground” on the pretext that she owed him a dollar, and thereafter molested her.
+
+62     I found that the Victim was not mistaken about her being molested – that was based on her demeanour which was captured on the CCTV at time-stamp 5:04:40 to 5:07:19. Her demeanour and behaviour towards the Accused was entirely consistent with the reaction of one who had just been molested. Despite rigorous cross-examination by the Defence, her evidence that she was molested remained unshaken.
+
+#### The location of the offence
+
+63     The Defence further alleged that the Victim was mistaken as to the location of the offence. The Defence picked on the FIR made by the Victim in which she reported that the molest had taken place at the “playground”, and that she purportedly told a reporter the same. The Victim was cross-examined extensively on this issue[^88]. Having heard the evidence of the Victim, and SSI Siena, I accepted the Victim’s explanation that she had made reference to the term “playground” as that was a distinctive landmark in that location, as opposed to a wooden bench in the park, as there were many benches in the vicinity[^89]. From D2:4, it could be seen that the playground was just adjacent to the wooden bench which the Victim was seated, at the time of the molest, and they were both located in the same area behind Block 64 Circuit Road. In addition, the Victim had shown SSI Siena the exact location of the offence when SSI Siena arrived at the scene, and demonstrated to SSI Siena how she was seated when the Accused molested her[^90]. She was also unflinching in her evidence in court and had marked out the location of the offence in P5:15, without any hesitation[^91].
+
+64     In any event, while it was arguable that the Victim was not precise in reporting the location of the offence in the FIR, I accepted her explanation and did not consider her credibility to be impugned:
+
+> _It is a misconception to regard the first information report or police report as a document which should contain the entire case for the Prosecution. Its main purpose is merely to give information of a cognisable offence to the police so as to set them in motion.[^92]_
+
+> \[emphasis added\]
+
+### (d)   The identity of the Accused
+
+65     Having determined that the Victim was molested in the park area behind the Minimart, I then considered if the Victim had correctly identified the Accused as the person who molested her.
+
+#### The length of time the Victim observed the accused and the distance between them
+
+66     Between a span of 25 minutes, from the time the Victim first entered the Minimart to the time she returned to confront the Accused, the Victim had interacted with the Accused four times. Each interaction was for a duration between 48 seconds and 92 seconds. The Victim was at close proximity with the Accused, with only a narrow cashier counter between them. She had looked at the Accused while interacting with him and had eye contact with him. On all these occasions, her view of the Accused was unobstructed. She was able to tell by the Accused’s looks and accent that he was a foreigner. While she admitted that she was unable to tell the difference between a Vietnamese, a Burmese or a Thai, she was certain that the Accused came from either Vietnam, Myanmar or Thailand. She described the Accused to be “not too big” and was able to describe the attire of the Accused without difficulty[^93].
+
+#### The lighting condition at the scene and the visibility of the Accused
+
+67     The Victim testified that she was seated at the wooden bench which was “nearest to the streetlamp” after purchasing various items from the Minimart[^94]. The Victim had marked out the location of the assault in P5:15, and it was clear from the photograph that there was a lamp post right next to where the Victim was seated. In addition, it could be seen from the photograph tendered by the Defence (D2:2) that there were multiple lamp posts in the vicinity of the park area.
+
+68     It was not suggested or put to the Victim that the lamp posts were not working at the material time and the park area was in complete darkness. It is trite law that any “matter upon which it is proposed to contradict the evidence-in-chief given by the witness must normally be put to \[the witness\]”[^95]. The rule in _Browne v Dunn_ (1893) 6 R 67[^96] is clear:
+
+> It seems to me to be _absolutely essential to the proper conduct of a cause, where it is intended to suggest that a witness is not speaking the truth on a particular point, to direct his attention to the fact by some questions put in cross-examination showing that that imputation is intended to be made_, and not to take his evidence and passed it by as a matter altogether unchallenged, and then, when it is impossible for him to explain, as perhaps he might have been able to do if such questions had been put to him, the circumstances which it is suggested indicate that the story he tells ought not to be believed, to argue that he is a witness unworthy of credit …
+
+> \[emphasis added\]
+
+69     Since the Defence did not challenge the lighting condition at the park area, I accepted the Victim’s testimony that the Accused was visible to her when he appeared in front of her while she was seated on the wooden bench[^97], and she could “recognise him at one look”[^98]. I also accepted her testimony that after the Accused had molested her, she could see him running towards the back gate of the Minimart[^99].
+
+70     The Victim was so certain of the identity of the Accused that she intuitively rummaged through her bag for money to pay the Accused when he told her that she owed him a dollar. After she was molested by the Accused and after recovering from her initial shock, she did not hesitate in going back to the Minimart to confront the Accused. When she confronted the Accused by asking him what he “wanted to do just now”, the Accused’s instinctive reaction was to raise his right index finger, indicating “1”[^100]. This was a very important piece of evidence and corroborated the Victim’s evidence that the Accused had told her that she owed him a dollar before molesting her.
+
+71     When the Defence suggested to the Victim that the assailant had just asked for a dollar without specifying that she owed him a dollar, the Victim was candid and admitted that, as it had been two years since the incident, she was certain to the extent that the assailant had asked for a dollar before molesting her[^101]. In other words, she was not certain if the assailant had specifically said “$1 _less_”. While the Victim was not able to recall exactly (when she was testifying in court) what was said to her, it was clear from the recording (P9) that she had told the operator that the Accused had claimed that she owed him a dollar before he proceeded to molest her.
+
+72     I therefore found that the Victim was not mistaken as to the identity of the Accused, and had correctly identified the Accused to be the person who had molested her.
+
+### (e)   The credibility of the Accused
+
+73     The Accused claimed that he did not molest the Victim and that he did not leave the Minimart at all via the back gate. He denied approaching the Victim in the park area behind the Minimart and telling her that she owed him a dollar. He claimed that he did not understand the Victim when she confronted him and thought that she was being difficult. At that time, he thought that the Victim had wanted to know the price of cat food.
+
+74     I rejected the Accused’s evidence that he did not understand what the Victim was saying when he was first confronted. The Accused clearly understood English, which was apparent from his behaviour in court. On occasions, he had reacted even before questions were translated to him and had answered in English[^102]. The Accused admitted that he had a university degree and was taught English in school[^103]. In any event, the Victim had used very simple English when she confronted the Accused[^104].
+
+75     I further rejected his explanation that he had _assumed_ that the Victim was asking for the price of cat food when she returned to the Minimart to confront him:
+
+> (i)     If the Victim’s intention was to ask him for the price of cat food, there was no reason for her to be asking him what he had wanted from her earlier when she was at the park area behind the Minimart.
+
+> (ii)     The assailant had told the Victim “you $1 less” – when the Victim returned to the minimart after the assault to confront the Accused, he had similarly gestured with his right index finger “1”. This was even before the Victim had raised her hand which was holding onto two cans of cat food.
+
+> (iii)     Even if the Accused had assumed that the Victim wanted to know the price of the two cans of cat food, he should have gestured “2” instead of one, as the total price of the two cans of cat food was $2. This would be consistent with what he had told the Victim when she first bought the cans of cat food from him. At that time, he had told the Victim “$2” and had simultaneously raised two fingers[^105].
+
+> (iv)     After the Victim had thrown the cans of cat food at him, he had continued to tell the Victim, “cat food, $1”, which did not make sense, if his claim was that he assumed the Victim had wanted to know the price of cat food. I noted, too, that when the Victim raised her hand holding the bottled water before throwing at the Accused, the Accused did not _assume_ that the Victim had wanted to know the price of the bottled water and did not raise his fingers to indicate the price.
+
+76     The Accused’s evidence in court that he had thought that the Victim was asking for the price of cat food, when she came back to confront him, was contradicted by his statements to SSI Siena. In his statements to SSI Siena[^106], the Accused said that when the Victim came back to the Minimart, he told her that she had to pay him a dollar more. When asked to explain the inconsistencies, the Accused claimed that he had assumed that the Victim owed him a dollar when he gave his statements to SSI Siena.
+
+77     I rejected the Accused’s explanation that he had assumed that the Victim owed him a dollar when giving his statements to SSI Siena, and found his credibility impeached. I did not think that it was mere coincidence that the assailant had told the Victim “$1 _less_” just before he molested her and the Accused had indicated that the Victim owed him a dollar when she confronted him. This was again repeated by the Accused when he gave his statements to SSI Siena. If the Accused had assumed, when confronted by the Victim, that the Victim had wanted to know the price of cat food, he would have told SSI Siena so, especially since the memory of the events would have been fresh in his mind, when P13 was recorded. The same explanation was given about a year later, in P14. It would appear that the first time the Accused mentioned that he assumed that the Victim was asking for the price of cat food was during the trial – the inference must be that Accused was untruthful and that he was in fact the person who had molested the Victim.
+
+### (f)   There was sufficient time for the Accused to commit the offence
+
+78     From the evidence of SSI Siena and SSSgt Kenneth, there was sufficient time for the Accused to make his way from the back of the Minimart to the wooden bench where the Victim was seated, molest her and run/walk back to the Minimart within 3 mins and 29 secs. The distance between the back of the minimart and the bench was only slightly more than 50 m. There would be more than sufficient time for the Accused to make his way to the wooden bench and back.
+
+79     In relation to to the gate padlock, the Defence argued that the Accused only had about 5 seconds to retrieve the key from Mr Kyaw’s bag. From the CCTV footage, the Accused was out of sight for about 9 seconds. However, even if it had been 5 to 6 seconds, it was not physically impossible for the Accused to make his way swiftly to Mr Kyaw’s bag to retrieve the keys and move back to the passageway. First, the Accused admitted that he knew that Mr Kyaw had the key to the back gate. Second, the Accused also admitted that the staff’s sleeping room was not in total darkness[^107]. He would therefore be able to see that Mr Kyaw’s haversack was next to him. Third, it would not have been difficult for the Accused to figure out that Mr Kyaw kept his keys in his haversack. Fourth, the total width of the two rooms was only 5 meters, and the Accused had less distance to cover given that he was already beyond the door of the storeroom and the bed was not right at the end of the staff’s sleeping room. Since the Accused had been living in the Minimart from the time he started working at the Minimart, he would be very familiar with the layout of the Minimart and the rooms. Fifth, I noted that the Accused was able to make his way from the back of the Minimart to the cashier counter (which was about 6 meters in length) at a leisurely pace within 5 to 6 seconds. Retrieving the keys from Mr Kyaw’s haversack in about 9 seconds or less was therefore not impossible.
+
+80     As for the Accused’s ability to identify the correct key to the padlock and unlock it within 26 seconds to 27 seconds, that would not be difficult, given that there were only 6 keys in the bunch, and two of the keys were identical. In addition, if the Accused had already gone to the toilet at time-stamp 4:53:18, it was curious that he went again at time-stamp 4:55:11 as claimed. If he had not in fact used the toilet at time-stamp 4:53:18, then the Accused failed to explain satisfactorily what he was doing at the rear of the Minimart for 26 seconds, with the lights turned off, from the time the female customer entered the shop to the time he emerged from the rear of the Minimart. Even if the Accused had not opened the padlock during this period and had in fact used that time to remove mops which were allegedly hanging on the gate, he would have sufficient time to open the padlock during the 3 mins and 29 secs that he was not captured by the CCTV, go to the Victim, commit the offence and run back to the Minimart.
+
+81     After the Accused re-appeared from the passageway at time-stamp 4:58:40, he immediately turned right into the store room. It was the Prosecution’s submission that he had done so to replace the keys in Mr Kyaw’s haversack. The Defence’s argued that he had gone to wash his hands, after having used the toiled for the 3 mins and 29 secs that he was “behind”, and this was consistent with what he told the male customer subsequently. The Accused was in the store room for 46 seconds – there would be sufficient time for him to swiftly return the keys and use the toilet in the store room before attending to the male customer, if he had indeed used the toilet or washed his hands during that period.
+
+82     In summary, I found the Victim’s evidence to be unusually convincing – her evidence was externally and internally consistent. She did not embellish her evidence, was direct and forthcoming in court. While the Victim admitted that she was high, she was aware of her surroundings and what she was doing. She was coherent in reporting the molest to the operator when she called ‘999’. While she was friendly in her behaviour towards the Accused and was chatting with him, she was noticeably frosty in her behaviour towards the Accused when she returned to purchase the lighter after confronting the Accused. Although the Victim was not able to account for all her movements in certain pockets of time, she was consistent in her evidence in material aspects, despite rigorous cross-examination. In the circumstances, I am satisfied that the Prosecution has proved its case beyond a reasonable doubt and convicted the Accused accordingly.
+
+## (7)   The Sentence
+
+83     For completeness, I will also set out brief reasons for the sentence imposed.
+
+84     An offence under section 354(1) of the Penal Code is punishable with imprisonment for a term which may extend to 2 years, or with fine, or with caning, or with any combination of the stated punishments.
+
+85     The Accused is untraced.
+
+86     In the present case, the Prosecution submitted for a sentence of 8 months’ imprisonment, arguing that the case falls under Band 2 of the bands of imprisonment set out in _Kunasekaran_[^108]. The Defence submitted for a 3-month imprisonment term.
+
+87     I agreed with the Prosecution that the present case falls under Band 2, which attracts an imprisonment term of between 5 and 15 months[^109]. The Accused had touched the Victim’s crotch, which she described as her “private part” in her testimony. However, I was of the view that the present case fell within the lower end of the band as there was no skin-to-skin contact with the Victim’s private parts. The skin-to-skin contact was in relation to the fact that the Accused had kissed her on the lips. I did not agree with the Defence’s submission that this did not constitute skin-to-skin contact envisaged in the various bands described in _Kunasekaran_. However, I did not think that the Victim was in a vulnerable position, unlike the victims in _Kunasekaran_ (the victim was a 14-year-old girl) and _GCO v PP_ <span class="citation">\[2019\] 3 SLR 1402</span> (“_GCO_”) (the victim was sleeping, and hence was unable to protect herself). In both cases, the offender was sentenced to 8 months’ imprisonment. The offender in _Kunasekaran_ had claimed trial while the offender in _GCO_ had pleaded guilty.
+
+88     In my view, the facts of the present case were far less aggravating than those in _Kunasekaran_. In that case, the victim, suffered significant emotional and psychological trauma as a consequence of the offence and needed psychiatric help. She was very young and the offence had taken place on board a public bus. These aggravating factors were absent in the present case. While the Prosecution submitted that the Victim was high, this did not affect her awareness of her surroundings. The fact that the Accused could have perceived her to be drunk does not, _per se_, make her a vulnerable victim. There was also no evidence that the Victim suffered emotional and psychological harm after the incident.
+
+89     I found the facts in _GCO_ to be more aggravating than the present case as well, as there was an escalation in criminal behaviour by the offender in that case – the offender had two charges against him, involving two different victims (a victim in relation to a molest charge and another victim in an offence under section 509 of the Penal Code, which was committed earlier). In that case, in relation to the molest charge, the offender had also inserted his hand through the opening of the victim’s shorts, which was far more intrusive than the Accused’s sweeping motion of the Victim’s crotch over her jeans in the present case.
+
+90     In the circumstances, I am of the view that a sentence of 6 months’ imprisonment is appropriate.
+
+## (8)   Conclusion
+
+91     I had given careful consideration to the evidence adduced by the Prosecution, and was satisfied that the Prosecution had proved its case beyond a reasonable doubt.
+
+* * *
+
+[^1]: Day 3, pg 47, \[28\] – pg 48, \[9\].
+
+[^2]: Day 3, pg 45, \[32\].
+
+[^3]: P8.
+
+[^4]: Day 3, pgs 64 – 66.
+
+[^5]: P8 and Day 3, pgs 70 – 74.
+
+[^6]: P8 and Day 3, pgs 76 – 80.
+
+[^7]: Day 3, pgs 82 – 83.
+
+[^8]: Day 3, pg 96, \[1\] – \[22\].
+
+[^9]: Day 3, pg 51, \[32\] and P5:15 marked “X”.
+
+[^10]: Day 3, pg 48, \[16\].
+
+[^11]: Day 3, pg 48, \[22\].
+
+[^12]: Day 3, pg 98, \[19\] – \[22\].
+
+[^13]: Day 3, pg 101, \[18\] – \[23\].
+
+[^14]: Day 3, pg 103, \[12\].
+
+[^15]: Day 3, pg 110, \[3\] – \[4\].
+
+[^16]: Day 3, pg 97, \[2\] – \[9\].
+
+[^17]: Day 3, pg 101, \[20\] and Day 4, pg 69, \[10\].
+
+[^18]: Day 1, pg 10, \[23\] and pg 17, \[27\].
+
+[^19]: Day 1, pg 12, \[21\].
+
+[^20]: Day 1, pg 10.
+
+[^21]: Day 1, pg 13, \[13\] – \[24\].
+
+[^22]: Day 1, pg 17, \[21\].
+
+[^23]: Day 1, pg 18, \[7\].
+
+[^24]: Day 1, pg 20, \[4\].
+
+[^25]: Day 1, pg 18, \[24\].
+
+[^26]: Day 1, pg 19, \[22\].
+
+[^27]: Day 1, pg 79.
+
+[^28]: Day 2, pg 13, \[23\].
+
+[^29]: Day 5, pg 75, \[15\] – \[22\].
+
+[^30]: Day 5, pg 78, \[3\] – \[12\].
+
+[^31]: Day 4, pg 4.
+
+[^32]: Day 3, pg 9, \[11\] – \[22\].
+
+[^33]: Day 3, pg 9, \[28\] – \[32\].
+
+[^34]: Day 3, pg 10, \[7\].
+
+[^35]: Day 3, pg 13. The room was labelled “store room” in P2.
+
+[^36]: Day 3, pgs 13 – 14.
+
+[^37]: Day 3, pg 15.
+
+[^38]: Day 3, pg 4, \[22\].
+
+[^39]: Day 3, pg 5, \[5\].
+
+[^40]: Day 3, pg 5, \[26\].
+
+[^41]: Day 3, pg 8, \[2\] – \[8\].
+
+[^42]: Day 5, pg 10, \[23\] – \[30\]. The room was labelled “staff’s sleeping room” in P2.
+
+[^43]: Day 5, pg 10.
+
+[^44]: P5:9, marked with an “X” in black ink on the lower bunk of the double-decker bed.
+
+[^45]: Day 5, pg 16.
+
+[^46]: Day 5, pg 15, \[27\].
+
+[^47]: Day 5, pg 14, \[17\].
+
+[^48]: Day 5, pg 17, \[1\].
+
+[^49]: File 7, P7.
+
+[^50]: File 24, P7.
+
+[^51]: File 28, P7.
+
+[^52]: File 32, P7.
+
+[^53]: File 33, P7.
+
+[^54]: Files 35 and 36, P7.
+
+[^55]: File 37, P7.
+
+[^56]: File 38, P7.
+
+[^57]: File 41, P7.
+
+[^58]: File 38, P7.
+
+[^59]: The Accused got to the cashier counter at time-stamp 4:53:51 – file 41, P7.
+
+[^60]: File 42, P7.
+
+[^61]: File 43, P7.
+
+[^62]: File 44, P7.
+
+[^63]: File 45, P7.
+
+[^64]: P6, disc 3, file 20161022042736.
+
+[^65]: Day 6, pg 14, \[28\] – \[32\].
+
+[^66]: Day 6, pg 24, \[20\] – \[32\].
+
+[^67]: Day 6, pg 25, \[14\] – \[17\].
+
+[^68]: Day 6, pg 25, \[12\].
+
+[^69]: Day 6, pg 29, \[26\].
+
+[^70]: Day 6, pgs 30 – 31.
+
+[^71]: Day 6, pgs 32 – 33.
+
+[^72]: Day 6, pg 35, \[4\] – \[6\].
+
+[^73]: P6, disc 3, file 20161022040442.
+
+[^74]: Day 6, pg 10, \[5\].
+
+[^75]: P13, \[5\].
+
+[^76]: P14, answer to question 3.
+
+[^77]: \[24(a)\], Prosecution’s Closing Submissions.
+
+[^78]: \[24(b)\], Prosecution’s Closing Submissions.
+
+[^79]: \[38(a)\], Prosecution’s Closing Submissions.
+
+[^80]: \[18\] and \[21\], Defence’s Closing Submissions.
+
+[^81]: Pgs 31 – 35, Defence’s Closing Submissions.
+
+[^82]: Pgs 7 – 19, Defence’s Closing Submissions.
+
+[^83]: _PP v Mohammed Liton Mohammed Syeed Mallik_ \[2008\]1 SLR(R) 621.
+
+[^84]: <span class="citation">\[1999\] 2 SLR(R) 1074</span> at \[18\].
+
+[^85]: Day 3, pg 59, \[10\] – \[14\].
+
+[^86]: Day 1, pg 10. \[23\] – pg 11, \[3\].
+
+[^87]: File 45, P7.
+
+[^88]: Day 4, pgs 21- 24 and pgs 81 – 82.
+
+[^89]: Day 4, pg 82, \[21\] – \[22\].
+
+[^90]: Day 1, pg 12, \[15\].
+
+[^91]: Day 3, pg 51.
+
+[^92]: Per Yong Pung How CJ in _Tan Pin Seng v PP_ <span class="citation">\[1997\] 3 SLR(R) 494</span> at \[27\].
+
+[^93]: Day 3, pg 57, \[13\] – \[31\].
+
+[^94]: Day 3, pg 51, \[32\].
+
+[^95]: _Cross & Tapper on Evidence_ (14th Ed, 1990) at 319.
+
+[^96]: See also _Arts Niche Cyber Distribution Pte Ltd v PP_ \[1999\] 4 SLR 125 at \[47\].
+
+[^97]: Day 3, pg 55, \[6\] and \[22\].
+
+[^98]: Day 4, pg 69, \[4\].
+
+[^99]: Day 3, pg 53, \[2\] and day 4, pg 70, \[3\].
+
+[^100]: File 45, P7 at time-stamp 5:04:43.
+
+[^101]: Day 4, pg 65.
+
+[^102]: Day 7, pg 5, \[18\] – \[24\].
+
+[^103]: Day 7, pgs 4 – 5.
+
+[^104]: File 45, P7.
+
+[^105]: File 24, P7.
+
+[^106]: P13 and P14.
+
+[^107]: Day 8, pg 108.
+
+[^108]: _Supra_, at \[45(b)\].
+
+[^109]: _Supra_, at \[49\].
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F23507-SSP.xml)
