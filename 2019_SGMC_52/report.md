@@ -1,0 +1,398 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ lnternational Placements (S) Pte Ltd  
+
+### \[2019\] SGMC 52
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">MSC 904477-2017, Magistrate's Appeal No: 9129/2019/01</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">29 August 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">Magistrates Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Salina Bte Ishak</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">POs Mr Delvinder Singh and Mr Elwin Kuah from the Mnistry of Manpower for the Prosecution; Mr Ramasamy s/o Karuppan Chettiar of Central Chambers Law Corporation for the defendant.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — International Placements (S) Pte Ltd</td></tr></tbody></table>
+
+\[LawNet Editorial Note: An appeal to this decision has been filed in MA 9129/2019/01.\]
+
+29 August 2019
+
+### District Judge Salina Bte Ishak:
+
+## A.   Background
+
+1       In order to manage the recruitment and the use of the foreign manpower in Singapore, the Ministry of Manpower (“MOM”) has prescribed that all foreigners in Singapore, whether they are professionals, skilled or semi-skilled workers, trainees or students undergoing practical training for up to six months must possess the relevant and valid passes before they can start work in Singapore. Save for any work or activity related to the placing of a foreigner in a training program, obtaining a training employment pass (“TEP”) or a training work permit (“TWP”)[^1], such foreigners can engage the services of a licenced employment agency to assist them to apply for the relevant work passes. For TEP and TWP applications, only the _employers_ of the foreign students or foreign trainees can apply for such work passes.
+
+#### The Charge
+
+2       The defendant company, International Placements (S) Pte Ltd (“IPS”) had claimed trial to a charge of carrying on as an employment agency without a valid licence under s 6(1) of the Employment Agencies Act (Cap 92, 2012 Rev. Ed.) (“the EAA”). The charge against the defendant company is as follows:
+
+> **_MSC 904477-2017_** _\- Exhibit C1_
+
+> “...are charged that you, sometime in August 2016 to April 2017, in Singapore, did carry on an employment agency, when you were not the holder of a license issued by the Commissioner for Employment Agencies authorising you to carry on such an agency and you have thereby committed an offence under Section 6(1) of the Employment Agencies Act (Chapter 92), punishable under Section 6(4)(a) of the same Act.”
+
+3       At the conclusion of the trial and after a careful consideration of the evidence before me, I was satisfied that the Prosecution had proven its case on the proceeded charge beyond a reasonable doubt. I found the defendant company guilty and convicted the defendant company on the charge in **MSC 904477 - 2017** and imposed a fine of $40,000. I allowed the application by the defendant company to have the payment of the fine deferred to 1 July 2019.
+
+4       Dissatisfied with my decision, the defendant company filed a Notice of Appeal against its conviction and sentence on 3 June 2019. The fine has since been paid.
+
+5       I now provide the reasons for my decision.
+
+#### The Trial
+
+6       During the trial, the Prosecution had called three witnesses to the stand to give evidence against the defendant company. They were:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="15.46%"> <col width="40.44%"> <col width="44.1%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Marking</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Name</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Role</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">PW1</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Anandani Deepak Partab</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Director of DD Pte Ltd</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">PW2</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Tan Seow Ling Doreen</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Senior Manager at the Foreign Manpower Management Division, MOM</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">PW3</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Goi Weixiang</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Senior Investigation Officer, Employment Agency Licensing Branch, MOM and recorder of Subra K Chettiar’s long statement on 5 June 2017 and further statement on 17 August 2017</p></td></tr></tbody></table>
+
+  
+  
+
+7       The director of the defendant company, Mr Subra K Chettiar was the sole witness for the Defence.
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="15.48%"> <col width="39.32%"> <col width="45.2%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Marking</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Name</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Role</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DW1</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Subra K Chettiar</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Director of International Placements(S) Pte Ltd</p></td></tr></tbody></table>
+
+  
+  
+
+## B.   Undisputed Facts
+
+8       The undisputed facts as agreed by the Prosecution and the Defence in the Agreed Statement of Facts (“_Exhibit AS1_”) in the present case are set out below:
+
+> “    The accused company is International Placements (S) Pte Ltd (UEN: 200821183H) of 5000J Marine Parade Road #06-42, Lagoon View Singapore 449291. During the material period, the accused company acted as Consultant in student recruitment for private schools in Singapore and overseas.
+
+> 2.    On 6 June 2017, Goi Weixiang, an Employment Agency Inspector of the Ministry of Manpower(“MOM”) carried out investigations on possible contraventions of the laws relating to activities of employment agencies.
+
+> 3.    Investigations revealed that the accused company, sometime in August 2016 to April 2017, in Singapore, was not a holder of a licence issued by the Commissioner for Employment Agencies.
+
+> 4.    Investigations also revealed that, during the material period, the accused company had assisted in the emplacement of nine students, whose particulars are set out below, with DD Pte Ltd (UEN 200513660G)(“DD”).
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="13.74%"> <col width="37.3%"> <col width="27.98%"> <col width="20.98%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">S/N</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Name</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">FIN</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Employer</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">B1</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Munish Kumar</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">XXX</p></td><td align="left" class="b" rowspan="9" valign="top"><p align="justify" class="Table-Para-1">&nbsp;</p><p align="justify" class="Table-Para-1">&nbsp;</p><p align="justify" class="Table-Para-1">&nbsp;</p><p align="justify" class="Table-Para-1">&nbsp;</p><p align="justify" class="Table-Para-1">&nbsp;</p><p align="justify" class="Table-Para-1">DD Pte Ltd</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">B2</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Gurwinder Kaur</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">XXX</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">B3</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Amritpal Singh</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">XXX</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">B4</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Gurwinder Singh</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">XXX</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">B5</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Harmandeep Singh</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">XXX</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">B6</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Nisha</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">XXX</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">B7</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Satinderpal Singh</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">XXX</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">B8</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Haronkar Singh</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">XXX</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">B9</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Lakhwinder Singh</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">XXX</p></td></tr></tbody></table>
+
+  
+  
+
+> 5.    Investigations further revealed that sometime in August 2016, the director of DD, Anandani Deepak Partab knew that the accused company provided consultancy services in student recruitment and was interested to employ students on a Training Work Pass (TWP). These TWP holders will then work for DD under the on-job training (OJT) program for schools.
+
+> 6.    Deepak and the director of the accused company, Subra K Chettiar entered into an agreement whereby the accused company would assist to source for potential TWP applicants to forward them to DD and thereafter manage the TWP holders whom were employed by DD. Soon after the agreement, the accused company managed to obtain bio-datas of B1 to B9 and referred these bio-datas to DD via email. All applicants were interviewed by DD directly and all selected candidates’ TWP applications to MOM were made by DD directly.
+
+> 7.    For emplacing B1 to B9 with DD (as listed in the table above), the accused company was paid $500 per month for the assisting in the procurement of each TWP holder. The total amount collected by the accused company was $19,990. The amount collected included the costs of air-tickets bought for the TWP holders when their TWP were cancelled or expired, transportation charges for arranging accomodation for the TWP holders and bringing the TWP holders for medical check-up, if required.”
+
+9       In addition, s 2 EAA, defines an “employment agency” as follows:
+
+> “employment agency” means any agency or registry carried on or represented as being or intended to be carried on (whether for the purpose of gain or reward or not) for or in the connection with the employment of persons in any capacity, and includes –
+
+>> (a)    Any key appointment holder of the employment agency; and
+
+>> (b)    Any person who is engaged, whether on a permanent, temporary or contractual basis, by the employment agency to perform such work;
+
+10     In the present case, it was undisputed that the Management Agreement (“_Exhibit P1_”) between Radha Exports Pte Ltd (“the Company”) and IPS formed the basis of the agreement between DD Pte Ltd and the defendant company for the emplacement of the nine students, B1 to B9. In the management agreement, it was specified that the duties of IPS were as follows:
+
+> “**DUTIES OF IPS**
+
+> 1.    Upon the Company identifying a suitable candidate, IPS agrees to assist the Company in submitting all the necessary applicants to the relevant authorities for approval.
+
+> 2.    Once a candidate is approved, IPS undertakes to organize all arrangements for the arrival of the candidate in Singapore within the stipulated period.
+
+> 3.    IPS further undertakes to ensure that the candidate reports to the place of employment in a timely manner on the first day.
+
+> 4.    IPS also, on behalf of the Company, undertakes to be responsible at its own expense for the onward repatriation of the candidate upon completion of the contract under this scheme.
+
+> 5.    On completion, IPS also agrees to assist the company in cancelling and returning all passes to the MOM.
+
+> 6.    IPS is responsible for ensuring that all candidates are properly housed in approved housing and that their upkeep expenses are personally handled.”
+
+11     It was also undisputed that apart from being the sole director of the defendant company, Mr Subra K Chettiar (“_DW1_”) was working for an employment agency, Expert Business Management & Consultacy LLP (“EMBC”). As an employment agent with this company, the type of work DW1 performed involved sourcing and placing various candidates in the various available permits such as the work permit, the S Pass or the employment pass. It was also undisputed that DW1 was familiar with the regulations governing employment agencies (“EAs”) and in particular, he was aware that EAs were not allowed to perform TWP placements.
+
+## C.   Issue
+
+12     In the present case, the main issue before me was whether IPS, the defendant company, had carried on as an employment agency without being a holder of a valid licence thereby contravening s 6(1) of the EAA.
+
+13     The Prosecution’s case was fairly straightforward namely, that the defendant company had carried out employment agency work when it did not possess a valid licence and the work performed by the defendant company was for the purposes of establishing an employer-employee relationship.
+
+14     In contrast, it was the case for the Defence that the charge was not legally sustainable as ‘work or activity with placing a foreigner in a training program’ (“TWP”) fell outside the scope of the EAA. It was also the case for the Defence that IPS was only acting as a consultant when it assisted DD Pte Ltd with placing B1 to B9 on TWPs and that that the placement of the TWPs were for the purpose of on-the-job (“OTJ”) training and not for the purpose of employment. It was further argued that IPS was performing the role of a common law agent for DD Pte Ltd and as such did not fall within the purview of the EAA and its related legislation.
+
+#### Statements of the defendant company director
+
+15     As part of its case, the Prosecution had sought to rely on the DW1’s long statement recorded on 5 June 2017 and a further statement recorded on 17 August 2017 by PW3. As DW1 had not challenged the _voluntariness_ of the two statements namely _Exhibit P4_ and _Exhibit P5_, both statements were admitted as part of the Prosecution’s case.
+
+## D.   The Prosecution’s Case
+
+#### PW1 - Mr Anandani Deepak Partab
+
+16     The first witness for the Prosecution was _PW1_, Mr Anandani Deepak Partab who testified that he is a director of DD Pte Ltd. He is in charge of its day-to-day operations and that DD Pte Ltd are retailers with a chain of discount stores under the Value Dollar brand name.
+
+17     PW1 also testified that he got to know DW1, Mr Subra K Chettiar, when the latter approached DD Pte Ltd. DW1 had informed PW1 that he knew of some students who were looking for internship placements under the TWP programme. According to PW1, DD Pte Ltd’s intention was to bring in trainees under the internship programme through the assistance of DW1. On 30 August 2016, both PW1 and DW1 signed a management agreement (_Exhibit P1_) to document this arrangement between the parties.
+
+18     PW1 gave evidence that the arrangement was for DW1 to bring candidates who were looking for internship placements to DD Pte Ltd, to facilitate the face-to-face interviews and also to gather all documents such as passports, education certificates etc for DD Pte Ltd to submit for approval to MOM in respect of the TWP applications. He further gave evidence that IPS would also bring the candidates to DD Pte Ltd’s office in a timely manner on the first day of employment, and was also responsible for the onward repatriation of the candidate upon completion of the contract under this scheme.
+
+19     PW1 testified that _Exhibit P3_ were a set of invoices from IPS to DD Pte Ltd for the placement fees of candidates who were attached to their placement programmes for the period of August 2016 to April 2017. He further testified that there was a credit note at the last page of _Exhibit P3_, for an invoice that was mistakenly charged. PW1 gave evidence that he was satisfied with the work performed by IPS in this agreement.
+
+20     He further gave evidence that in 2016, DD Pte Ltd has not been successful in looking for candidates directly from the schools. The relationship between DD Pte Ltd and IPS started because the first candidate from this arrangement whom DD Pte Ltd had applied for a TWP online was approved by MOM. As DD Pte Ltd was happy with the candidate, they had then asked IPS if they knew more candidates who were interested in their internship programmes.
+
+21     PW1 gave evidence that apart from the candidates under the TWPs, DD Pte Ltd employs foreigners under the S Pass and Work Permit schemes. For current holders of S Passes, DD Pte Ltd would ask them to recommend suitable candidates and they would then go through the selection process. Once DD Pte Ltd has decided who they want to employ, the documentation would be obtained. For those on permits, they would do a combination of referrals, newspaper advertisements and they would also contact employment agencies.
+
+22     PW1 further testified that for employment agencies, they would send DD Pte Ltd a database of potential employees who were interested to work for the company. After a potential candidate is selected, DD Pte Ltd would apply via the MOM website for approval and whether payment is made to the employment agency for the work of sourcing and placing these employees would depend on ‘the deal’ with the employment agency.
+
+#### PW2 - Tan Seow Ling Doreen
+
+23     The next witness for the Prosecution was _PW2_, Miss Tan Seow Ling Doreen. She testified that she is a Senior Manager in the Foreign Manpower Management Division and had been working for MOM for the past 11 years. She also gave evidence that she was part of the investigation team that looked into the offence committed by the defendant company.
+
+#### Specified employment agency work
+
+24     According to PW2, based on the statutory provisions of the EAA, MOM’s investigations revealed that the defendant company had sourced and placed foreign workers namely B1 to B9 to DD Pte Ltd which fell with the definition of “specified agency work” under s 2(d) of the Act. She testified that s 2(d) EAA provides that specified employment agency work” means “_facilitation of the placement of an applicant for employment with an employer_.”
+
+25     PW2 also testified that they had not relied on s 2(a) EAA which covered the work of “_communication with any applicant for employment for the purpose of processing any application by such applicant for employment_.” as the defendant company had gone through another person to speak to the foreign workers.
+
+26     She gave evidence that s 2(b) EAA which covered the work of “_collation of the biodata or resume of any applicant for employment was the purpose of helping the applicant establish an employer-employee relationship;”_ was satisfied as investigations revealed that the biodatas were handed over to the recruiting company by IPS. She further testified that B1 to B9 were foreign workers.
+
+27     She further gave evidence that for s 2(c) EAA which covered the work of _“submission of any application on behalf of any employer or applicant for employment to the Controller of Work Passes appointed under section 3 of the Employment of Foreign Manpower Act, (Cap.91A) which application is required under that Act;”_, in the present case it was the employer, DD Pte Ltd who had submitted the application to MOM.
+
+#### Employment Agency Licence Conditions (“EALC”)
+
+28     PW2 next referred to the conditions for Comprehensive Licence in the Employment Agency Licence Conditions (“EALC”) prescribed by MOM which every licenced employment agency has to abide by. She gave evidence under Condition 1(a) under the header titled ‘General’, it was provided that:
+
+> “All categories of Comprehensive Licence shall not cover any work or activity for or in connection with placing a foreigner on a training program, or obtaining a training employment pass or training work permit for the foreigner.”
+
+According to her, this meant that no employment agent can be involved in the placing of a TWP. Only an employer could apply for a TWP and there was no reason for an intermediary to be involved. She further gave evidence that companies without an employment agency licence are not allowed to source and place foreigners under the TWP as the activity of sourcing and placing would constitute employment agency work. A company could perform employment agency work in respect of the TWPs if they are the employers themselves.
+
+#### PW3 – Goi Weixiang
+
+29     The final witness for the Prosecution was _PW3_, Mr Goi Weixiang, a Senior Investigation Officer from the Employment Agency Licensing Branch of MOM. He gave evidence that he had worked with MOM for about five years. He further gave evidence that he had carried out investigations on possible contraventions of the law relating to the activities of employment agencies.
+
+30     According to him, his investigations revealed that IPS had sourced and placed foreigners to DD Pte Ltd for a fee when the former did not hold an employment agency licence. His investigations also revealed that IPS had sourced and collated biodatas of foreigners and had referred them to DD Pte Ltd to be employed. He gave evidence that a licence by the Commissioner for Employment Agencies is required when there is sourcing and placement of foreigners to companies and the hiring is not for its own behalf. He also gave evidence on the definition of “employment agency” under s 2 EAA namely:
+
+> “employment agency” means any agency or registry carried on or represented as being intended to be carried on (whether for the purpose of gain or reward or not) in connection with the employment of persons in any capacity, but does not include any registry seet up by an employer for the sole purpose of recruiting persons for employment on its own behalf;”
+
+31     PW3 gave evidence that IPS had charged DD Pte Ltd TWP placement fees from August 2016 to April 2017 (i.e. _Exhibit P3_”). He further gave evidence that his investigations revealed that these students, B1 to B9, had actually worked for DD Pte Ltd as they received working instructions from the company.
+
+#### Specified employment agency work
+
+32     When PW3 was brought through the various activities which constituted “specified employment agency work” under s 2 EAA by the Prosecution, he testified that investigations revealed that IPS did not come under limb _(a)_ as they had not communicated directly with the applicant for employment as it was obtained through a third party. His investigations also revealed that for limb _(b)_, IPS had actually collated biodatas of the nine foreigners and it was for the purpose of referring them to DD Pte Ltd. For limb _(c)_, IPS had not performed this activity as the applications for the nine TWP holders were submitted by DD Pte Ltd themselves. Finally, in respect of limb _(d)_, his investigations revealed that IPS did facilitate the placement of the nine TWP holders to DD Pte Ltd.
+
+#### Training Work Passes
+
+33     PW3 testified that a training work permit (TWP) and Training Employment Pass (TEP) are work passes defined under Regulation 2 Employment of Foreign Manpower (Work Passes) Regulations 2012 at limb _(f)_ and limb _(g)_ respectively. He further testified that a TEP is a higher tier pass in terms of salary and educational qualifications as compared to a TWP.
+
+#### Employment Agency Licence Conditions (“EALC”)
+
+34     When PW3 was similarly referred to Condition 1(a) for Comprehensive Licence of the EALC, he testified that this meant that a licence employment agency was not allowed to facilitate the placement of foreigners for the purpose of obtaining a TWP or TEP. He further testified that it was only the hiring company such as DD Pte Ltd that could make the application. When asked why licenced employment agencies were expressly prohibited from performing employment agency work for TWPs, PW3 gave evidence that there was no need for the employment agencies to facilitate the employment of TWP and TEP holders. According to him, the hiring company would need to work out a training program for the TWP and TEP holders and it would be in the best position to liaise directly with the schools or the students directly.
+
+#### Employment Agencies (Exemption) Order 2011
+
+35     When asked when the performance of employment agency work without a licence was allowed, he testified that there was an Employment Agencies (Exemption) Order 2011 which states that if the person operates wholly using the World Wide Web[^2] or operates a job portal[^3], then there is an exemption from the requirement of holding an employment agency licence. He further testified that IPS did not fall under the exemption order category.
+
+## Close of Prosecution’s Case
+
+36     At the close of the Prosecution’s case, Counsel for the defendant company elected to make a submission of No Case to Answer. After a careful consideration of the written submissions for both the Prosecution and the Defence, I found that there was prima facie evidence to support the elements of the charge under s 6(1) EAA. Accordingly, I called on the defendant company to give its defence to the charge. The defendant company elected to give evidence through its representative, Mr Subra K Chettiar.
+
+## E.   The Defence’s Case
+
+#### DW1 - Subra K Chettiar
+
+37     The sole witness for the Defence was _DW1_, Mr Subra K Chettiar who was a director of IPS. He testified that IPS was founded in 2008 for the specific purpose of placing students as well as providing education-related consultancy services. He also testified that since its founding IPS was primarily involved with the placement of students in Singapore as well as overseas.
+
+#### Placement of students
+
+38     DW1 gave evidence that he was approached by several schools, in particular Coleman College and STEi Institute, to assist them in the placement of students in on-the-job training (“OJT”) programs in good companies. He also gave evidence that initially he had the assurance from Coleman College that he was at liberty to place TWP students on their behalf and he was assured by the said college that they did not face any “pushback” from any authority in performing their placement work. According to him, he was already holding an employment agency licence and he was familiar with the regulations governing EAs and in particular, he was aware that EAs were not allowed to perform TWP placements. He testified that he also had the assurance of STEi Institute that he could represent and assist them in the placement of trainees with third party companies.
+
+39     DW1 gave evidence that based on this arrangement, DD Pte Ltd was one of the companies that he was referred to. According to DW1, it was made known to him that DD Pte Ltd’s previous applications for TWPs were unsuccessful. He further gave evidence that at a meeting with PW1, it was agreed that DW1 would use his expertise and see if he could achieve success where PW1 was not able to.
+
+40     DW1 testified that he was not only a director of IPS which is not a licenced EA but was concurrently a partner of EMBC LLC, a licenced agency. He further testified that he had relied on the “EA licencing conditions” which clearly prohibits EAs from being involved in placement of TWPs and TEPs and had used IPS, a business consultancy where the stated primary activity was specializing mostly in education services for this agreement with DD Pte Ltd.
+
+#### The Management Agreement
+
+41     He gave evidence that when he met PW1, he had made it clear with TWP applications, the function of IPS and also DD Pte Ltd’s responsibilities. This agreement was set out in _Exhibit P1_ which was between Radha Exports which was the primary shareholder and the holding company of DD Pte Ltd and IPS. He further gave evidence that in drafting this agreement and setting out the duties of IPS, they were ‘careful, mindful and even diligent’ to ensure that they were not infringing any laws that DW1 understood. He reiterated that IPS were consultants to DD Pte Ltd in this particular area of work.
+
+42     When asked by his Counsel to explain the use of the word “employment” in clause 3 of _Exhibit P1_, he explained that the word was used in error instead of “place of training”. When DW1 was further asked what was “place of employment” supposed to refer to, he gave evidence that DD Pte Ltd has 30 to 40 outlets of business as they were running shops, ABC and Value Dollar shops. After the candidates were selected, it was IPS’s responsibility to ensure that they were delivered to the nominated place or shop.
+
+#### Specified employment agency work
+
+43     When asked by his Counsel whether IPS had infringed limbs _(b)_ and _(d)_ of s 2 EAA which was the Prosecution’s case, DW1 denied it had done so. He gave evidence that no employer-employee relationship was established in this instance of TWP applications. He further gave evidence that trainees do not and should not come under the Employment Act (Cap 91). He further denied that he had helped the applicant establish an employer-employee relationship.
+
+#### IPS’s role as a conduit
+
+44     He testified that he had facilitated the process of communicating with the school on behalf of DD Pte Ltd. He had no communication with the students in the initial instance during the selection process with B1 to B9. He also testified that IPS’s function was to work as a conduit between the two parties and help them establish a working relationship with the schools where their students could be placed. He gave evidence that DD Pte Ltd had signed contracts directly with STEi Institute and Coleman College. He was also of the view that trainees undergoing OJT as part of their curriculum are not viewed as employees per se.
+
+## F.   Assessment of Evidence
+
+45     The Employment Agencies Act (Cap 92, 2012 Rev. Ed.) is the main statutory provision that regulates employment agencies in Singapore through the requirement for a licence as well as through compliance by the EAs with the relevant conditions, rules and exemption orders issued by the Minister. The MOM has implemented an employment agency regulatory framework to ensure compliance with the relevant employment agencies legislation as well as Government’s policies and that enforcement action is taken against unlicensed or errant employment agencies. The present case arose as a result of MOM’s enforcement action and investigations into possible contraventions of the laws relating to activities of employment agencies.
+
+46     In the present case, the main issue for my determination was whether IPS had carried on as an employment agency without being a holder of a valid licence thereby contravening s 6(1) which was punishable under s 6(4)(a) EAA. In essence, I had to make a finding as to whether the work or services performed by IPS for DD Pte Ltd pursuant to their management agreement constituted “specified employment agency work” under s 2 EAA which only licenced EAs were authorised by MOM to perform.
+
+47     It was the Prosecution’s case that IPS had carried out specified employment agency work when it did not possess the necessary EA licence required under the EAA and the work performed by IPS was for the purposes of establishing an employer-employee relationship. It was also the Prosecution’s case that IPS had not demonstrated any reasonable cause, or exemption from the Minister as required under s 4 of the EAA for IPS to perform employment agency work when it was not a holder of a licence allowing it to carry on such an agency.
+
+48     It was the case for the Defence that IPS was only acting as a consultant when it assisted DD Pte Ltd with placing B1 to B9 on TWPs and that it had not been proven that the collection of biodatas or resumes by the defendant company was for the purposes of helping the TWPs establish an employer-employee relationship. In addition, it was the case for the Defence that IPS was performing the role of a common law agent for DD Pte Ltd and as such did not fall within the purview of the EAA and its related legislation.
+
+49     It was also the case for the Defence that there is no provision in the EAA that stipulates that companies cannot use the services of consultants such as IPS to do TWP placement works. It was further the case for the Defence that the proposition that an unlicenced EA cannot do TWP placement work is not supported by any written law.
+
+#### Specified employment agency work
+
+50     In my assessment of the evidence before me, I found that IPS had carried out works which fell within limbs _(b)_ and _(d)_ of the definition of “specified employment agency work” under s 2 EAA. In the present case, it was undisputed from the Agreed Statement of Facts as well as from the evidence of PW1, PW2 and PW3 that IPS had provided the works or engaged in activities which fell within both limbs of s 2 EAA. It was also undisputed that DW1 was aware that only licenced EAs could perform such works. He was also aware that EAs were prohibited from being involved in placement of TWPs and TEPs which could only be applied by the employers and not by a third party. In fact, DW1 himself had conceded during his testimony that he had used IPS instead of EMBC LLC for this agreement with DD Pte Ltd because of his awareness of the “EA licencing conditions”.
+
+#### Establishment of an employer-employee relationship
+
+51     In the present case, I also found that the work performed by IPS for DD Pte Ltd was for the purposes of establishing or facilitating an employer-employee relationship between the nine TWP applicants, B1 to B9 and DD Pte Ltd. It was undisputed that PW1 and DW1 had entered into an agreement whereby IPS would assist to source for potential TWP applicants to forward them to DD Pte Ltd and thereafter manage the TWP holders whom were employed by DD Pte Ltd. I agreed with the Prosecution that it was clear that B1 to B9, had actually worked for DD Pte Ltd and were in an employer-employee relationship as they received working instructions from the company.
+
+52     In my view, the law is clear that pursuant to s 6(1) EAA, an employment agency licence from the Commissioner for Employment Agencies is required for a person to source and place applicants for employment to companies and when not hiring on his own behalf. Based on the evidence of the various works performed by IPS for DD Pte Ltd, I disagreed with the Defence that IPS was only acting as a consultant who had merely ‘assisted DD Pte Ltd’ in performing the works. I did not accept the contention by the Defence that there is no provision in the EAA that stipulates that companies cannot use the services of consultants such as IPS to do TWP placement works. I also did not accept the proposition by the Defence that the Prosecution’s position that an unlicenced EA cannot do TWP placement work is not supported by any written law. In my view, such arguments were misconceived and had little merit.
+
+53     I agreed with the Prosecution’s submissions that the purpose of excluding licensed employment agencies from performing work in relation to the placement of TWPs would be defeated if any other intermediary or company, without an employment agency licence is allowed to perform such work. I accepted PW3’s evidence that this is because the hiring company would need to work out a training program for the TWP and TEP holders and it would be in the best position to liaise directly with the schools or the students directly.
+
+54     In addition, I also did not accept the Defence’s contention that IPS was performing the role of a common law agent for DD Pte Ltd and as such did not fall within the purview of the EAA and its related legislation. In my view, it was clear from the evidence that IPS had performed employment agency work which was governed by the EAA. I further agreed with the Prosecution that IPS had not demonstrated any reasonable cause, or exemption from the Minister as required under s 4 of the EAA as part of its defence to the present charge. In my view, it was clear that DW1 had sought to circumvent the prohibition against licenced EAs performing placements of TWPs and TEPs by sourcing and placing the foreign students through IPS and to profit from this arrangement by charging DD Pte Ltd placement fees for the candidates B1 to B9 who were attached to their placement programmes for the period of August 2016 to April 2017.
+
+55     Based on the above, I found that the Prosecution had established beyond a reasonable doubt that IPS had carried on as an employment agency without being a holder of a valid licence thereby contravening s 6(1) which was punishable under s 6(4)(a) EAA. Accordingly, I convicted the defendant company on the proceeded charge in **MSC 904477/2017**.
+
+## G.   Antecedents
+
+56     The defendant company had no prior antecedents.
+
+## H.   Prosecution’s Address on Sentence
+
+57     In the Prosecution’s oral address on sentence, the following cases where the accused persons had pleaded guilty under s 6(1) EAA were referred to in their Table of Sentencing Precedents:
+
+> a)      **_PP v Noor Hayah Binte Gulam_** – DAC 911912 - 2017 (unreported);
+
+> \-    The accused had carried on an EA without a licence from 19 November 2014 to 18 March 2016 and had collected around $25,665 as part of the agency fees. She had assisted seven foreigners to find employment as domestic workers and all were emplaced. A fine of $50,000 in default 10 weeks’ imprisonment was imposed.
+
+> b)      **_PP v Goh Chee Yang Dennis_** – DAC 21279 - 2012 & 50 Ors (unreported);
+
+> \-    The accused faced 2 charges under s 6(1) EAA and 49 other police charges. The Prosecution proceeded on one charge under s 6(1) EAA and 19 other charges. From June 2011, November 2011 and December 2011 the accused carried on an unlicensed EA. He had placed two out of three foreign workers for employment. The third foreign worker was not placed for employment despite paying $2,000. A fine of $40,000 in default 10 weeks’ imprisonment was imposed for the s 6(1) EAA charge.
+
+> c)      **_PP v Tay Huat Seng_** – DAC 8598 - 2013 (unreported);
+
+> \-    The accused had emplaced four foreign workers with employment between April 2011 to 8 February 2012. He was also involved in performing employment agency related services such as purchase of security bonds, submissions of work permit applications and cancellation of work permits involving 16 foreign workers. The accused had been approached by various companies to perform these services and did not source for them. He also linked up with China agents for biodatas of workers for prospective employers. A fine of $30,000 in default 6 weeks’ imprisonment was imposed for the s 6(1) EAA charge.
+
+> d)      **_PP v Tan Sui Huay_** – DAC 28131- 2013 (unreported);
+
+> \-    The accused had carried on an EA without a licence from June 2012 to February 2013 and had collected monies from four foreigners for his services. Only one out of the four foreigners was emplaced. A fine of $60,000 in default 100 days’ imprisonment was imposed for the s 6(1) EAA charge.
+
+> e)      **_PP v Shahabuddin Shihab Abdul Khaleq_** – DAC 11078 - 2014 & 3 Ors (unreported);
+
+> \-    The accused had pleaded guilty to one charge under s 6(1) EAA and another charge under the Immigration Act. The accused had carried on an EA without a licence from November 2011 to June 2012 and had collected monies from two foreigners for his services. Both foreigners were not placed with employment. A fine of $50,000 in default 10 weeks’ imprisonment was imposed for the s 6(1) EAA charge.
+
+> f)      **_PP v Farhan Chand Bin Feroz Chand@Rakesh Chand s/o Bahadur Chand_** – DAC 924456 – 2015 (unreported).
+
+> \-    The accused had carried on an EA without a licence from January 2014 to June 2014 and had collected $6,000 as part of agency fees. The accused assisted 5 foreigners to find employment but only one was emplaced. A fine of $30,000 in default 5 weeks’ imprisonment was imposed for the s 6(1) EAA charge.
+
+58     It was submitted that in _Noor Hayah_’s case, agency fees of $25,665 was collected which is close to the $19,900 collected in the present case. It was highlighted that she had assisted seven foreigners to find employment as domestic workers. In the present case, the defendant company had emplaced nine foreign students. It was submitted that a fine of not less than $50,000 should be imposed as IPS had claimed trial.
+
+59     It was further submitted that the present case warrants a higher fine than that imposed in _Goh Chee Yang Dennis_’s case as the third worker had paid $2,000 and the number of students involved in the present case. It was similarly submitted that in _Tay Huat Seng_’s case, although there was no evidence of gain or reward by the accused (from the table of sentencing precedents), based on the facts of the present case, in respect of the amount received and the number of foreign workers involved which is more than double than that in _Tay Huat Seng_, it was submitted that the present case warrants a higher fine.
+
+60     It was submitted for _Tan Sui Huay_’s case, the accused had only placed one out of the four foreigners with employment in Singapore. Although there was no evidence of the amount of profit or reward received (from the table of sentencing precedents), it was submitted that based on the fact that three foreigners were not placed with employment, a fine of $60,000 was imposed. In the present case all nine students were placed with DD Pte Ltd and based on that distinguishing factor, it was further submitted that a fine of not less than $50,000 was appropriate.
+
+61     It was submitted that in _Shahabuddin Shihab_’s case, there were two foreigner’s involved and both were not placed with employment. A fine of $50,000 was imposed and the Prosecution was seeking a similar fine as the present case involves nine foreign students and a gain of $19,990. It was highlighted that in _Shahabuddin Shihab_’s case, he had faced another charge under s 10(1) Employment of Foreign Manpower Act for working as a self-employed foreigner and two other ICA charges.
+
+62     It was further submitted in _Farhan Chand_’s case, the accused had collected $6,000 as agency fees and only one out of the five foreigners were emplaced. Investigations revealed that three out of the five foreigners involved were not refunded the agency fees and the carrying out of the agency was over 6 months. In the present case, the period of the unlicensed agency was about 8 months.
+
+63     It was the case for the Prosecution that _Noor Hayah_’s case was most appropriate as a sentencing precedent as it was the closest in respect of the date of conviction and sentence. It was submitted that it was also somewhat similar in respect of the amount collected as well as the number of foreigners involved and that they were all emplaced. Based on these facts, the sentencing precedents tendered by the Prosecution for offences under s 6(1) EAA and that the defendant company had claimed trial, it was further submitted that a fine of not less than $50,000 should be imposed.
+
+## I.   Mitigation
+
+64     In the written mitigation on behalf of the defendant company, Counsel had submitted that the objective of the EAA is to protect workers from being exploited. He further submitted that it is for this reason that the EAA needs to be regulated. A typical EA will charge and collect fees from employees. The EAA protects the employee from exploitation.
+
+65     It was the case for the Defence that the cases in the table of precedents tendered by the Prosecution is not derived from the Grounds of Decision of these cases. It was submitted that the tariff in those cases should not apply in the present case for the following reasons:
+
+> (a)      **_Goh Chee Yang Dennis_**
+
+> The aggravating factor in that case was: a) the defendant did not pay $60,000 security deposit which a licensed EA would have to pay; b) one of the foreign worker who paid him $2,000 was not placed with employment; c) The defendant was the principal offender which was for 7 months; d) The foreign worker was exploited. These factors were not seen in the present case;
+
+> (b)      **_Tay Huat Seng_**
+
+> The defendant had performed agency related services such as buying security bonds, submissions of work permit application and cancellation for 16 foreign workers. The defendant did not source for the workers but was linked with China agents for biodata/data of workers. The period of activity was 8 months and presumable it was submitted that foreign workers are likely to have been exploited;
+
+> (c)      **_Tan Sui Huay_**
+
+> It was submitted that this case is not helpful because no details were provided on what were the aggravating and mitigating factors. The EA period of activity was 9 months.
+
+> (d)      **_Shahabuddin Shihab Abdul Khaleq_**
+
+> It was submitted that there were other charges under the Employment of Foreign Manpower Act that were taken into account. The defendant also faced ICA charges for overstaying and the two foreigners were not placed with employment. It was further submitted that presumably, the defendant collected his fees and left the foreigners stranded. It was the case for the Defence that this case is too far removed to be a good guide for the present case. The unlicensed activity period was 8 months;
+
+> (e)      **_Farhan Chand Bin Feroz Chand@Rakesh Chand s/o Bahadur Chand_**
+
+> In that case, it was submitted that the aggravating factors appear to be: a) assisted five foreigners to find employment but only one was emplaced; b) of the five foreigners, the monies received from the three were not refunded. It was submitted that employees were exploited and the unlicensed activity period was 6 months;
+
+> (f)      **_PP v Noor Hayah Binte Gulam_**
+
+> It was submitted that the aggravating factors are not known. The number of foreigners assisted was seven and the agency fee collected was $25,665 or the average of $3,666 per employee which far exceeds MOM’s cap of EA fee of not more than one month of a worker’s fixed monthly salary for each year of service capped at 2 months’ salary. It was further submitted that presumably this must have been one of the more serious aggravating factors. All seven were domestic workers with low salaries. The unlicensed activity period was about 16 months.
+
+#### Mitigating factors
+
+66     It was submitted that the nine internship candidates would have gotten OJT placements regardless of whether IPS was involved because it was part of the school curriculum.
+
+67     It was further submitted that no monies were collected from the candidates and therefore there was no exploitation of the foreign internships students.
+
+68     It was the case for the Defence that the fees were charged to DD Pte Ltd who were the employers under the internship programme. It was submitted that MOM had removed the cap on the fees that EA can charge employee because employers are unlikely to be exploited by EA as they have a stronger bargaining power compared to employees. Counsel made reference to an extract attached to the mitigation from the MOM website with the header “Why did MOM remove the cap on fees that EAs can charge employers?”
+
+69     It was submitted that the cases cited by the Prosecution were all for offences of emplacement of foreign workers under the S Pass and Work Permits. There is no dispute that EAA applies and the offence is crystal clear and that is why the offenders pleaded guilty. It was further submitted that the present case relates to TWPs and there is no sentencing benchmark for such cases.
+
+70     It was the case for the Defence that the period of breach was two months and not eight months as submitted by the Prosecution. All nine candidates were emplaced within two months. DD Pte Ltd were invoiced over a period of eight months for the trainees.
+
+71     It was submitted that the $19,900 collected was the gross amount collected and it included air tickets, outpatient medical expenses etc that was borne by IPS. It was further submitted that the amount collected did not represent the profit of IPS.
+
+72     It was submitted that there was no communication between IPS and all nine trainees for the purpose of the placement. According to Counsel, all were done through the schools unlike in the cases cited by the Prosecution where there was direct communication with the employees.
+
+73     It was further submitted that IPS did not possess an EA licence but the sole director of IPS was a holder of a valid EA licence at all material times.
+
+74     It was submitted that IPS cooperated with the MOM investigators at all times. IPS did not cause any prejudice to licenced EAs because the latter is not allowed to do placement of TWP holders under the licencing conditions. It was the case for the Defence that the activity of IPS did not affect the genuine business interest of the licenced EA.
+
+75     It was further submitted that IPS is a first offender. IPS had chosen to claim trial because there was a genuine doubt whether the charge was sustainable. By the Court’s verdict, IPS was found guilty of the charge. It was the case for the Defence that the cases cited in the table are distinguishable because in all those cases it was never in doubt that EAA applied and the offender must get a licence before engaging in such activity. In terms of culpability, it was submitted that in the present case, it would be a very low one and technical in nature considering all the circumstances.
+
+76     It was the case for the Defence that the present case was not intended as the target by Parliament when the maximum fine was increased from $5,000 to $80,000 as none of the reasons is present in the present case. It was submitted that it would be against those entities that charge exorbitant fees to exploit vulnerable workers from developing countries without giving them the promised jobs in return. It was further submitted that the fact that the Parliamentary debates do not touch upon trainee placement is a telling factor.
+
+77     It was submitted that the precedent cases cited by the Prosecution all attracted penalties in the range of 35% to 66% of the maximum allowable fine under the new enhanced rate. If the main reason for the penalty enhancement was to deter employee exploitation, it stands to reason that IPS ought to be considered under the old maximum rate of $5,000. Applying the percentage seen in the cases cited by the Prosecution, the amount comes in the region of $1,750 to $3,300 which the Defence submitted was a rational basis for this case.
+
+## J.   Prosecution’s Reply
+
+78     In response to the plea in mitigation, the Prosecution had submitted that the present offence is in relation to employment agency work performed without a licence. This is regardless of the work pass that was applied for, be it a work permit, an S Pass or even in the present case, TWPs.
+
+79     It was the case for the Prosecution that the three key considerations were the monies gained, the foreigners involved as well as exploitation, if any. It was submitted when exploitation is referred to it was whether the workers were placed with employment. In _Noor Hayah_’s case, the amount collected was $25,665, seven foreign workers were involved and all were emplaced. The distinguishing factor was that in the present case, the defendant company had claimed trial.
+
+80     It was submitted that the four considerations in _Noor Hayah_’s case were firstly, the Parliament’s intention that such offences ought to be dealt with severely. Secondly, it was an elaborate scheme perpetrated by the accused to commit the offences. The third consideration was the difficulty in detection and the substantial profits reaped. Finally, it was the need to deter like-minded individuals from exploiting the system in a similar fashion. In that case, the accused’s employment agency licence was revoked at some point but she continued with EA activities on her own without a licence.
+
+81     In the present case, evidence was led that DW1 was warned in respect of TEP applications and he knew that this could not be done without a licence and with that knowledge he had used IPS to perform similar works for TWPs. It was submitted that in terms of profits earned, it was similar to _Noor Hayah_’s case and therefore a fine of not less than $50,000 would be appropriate based on the sentencing precedents and the facts of the present case.
+
+## K.   The Sentence
+
+82     The prescribed punishment for an offence of carrying on as an employment agency without a valid licence under s 6(1) and punishable under s 6(4)(a) EAA is a fine not exceeding $80,000 or to imprisonment not exceeding 2 years or to both. As the present case involves a company, only a sentence of a fine not exceeding $80,000 can be imposed. In the present case, the Prosecution had sought the imposition of a fine of not less than $50,000. In stark contrast, the Defence had urged the imposition of a fine in the region of $1,750 to $3,300 based on the previous maximum fine of $5,000 under the EAA.
+
+#### Sentencing considerations
+
+83     In determining the appropriate sentence for such an offence, the various sentencing factors that a Court considers would be the level of the offender’s culpability, the degree of harm caused as well as other relevant factors including the difficulty in detection, whether restitution was made and the role of the offender.
+
+#### Culpability and harm
+
+84     In determining the level of culpability of the offender, the Court would consider the reasons for the non-compliance, the period of non-compliance i.e. the unlicenced activity period, the amount of agency fees collected by the offender and the scale of the operation. In respect of the level of harm caused, the Court would consider whether there were vulnerable foreign workers involved and the degree of exploitation of these workers.
+
+85     In the present case, as the period of unlicensed activity was from August 2016 to April 2017, in my view it was for a period of about nine months and not two months’ as submitted by the Defence. I disagreed with the Defence that the level of culpability was low and the offence was a technical offence. It was clear from the evidence, DW1, the director of IPS had deliberately and knowingly sought to circumvent and undermine the regulatory framework prohibiting licenced EAs performing placements of TWPs and TEPs by sourcing and placing the foreign students through IPS and to profit from this arrangement by charging DD Pte Ltd placement fees.
+
+86     In addition, the total agency fees collected by IPS in respect of the nine foreign workers was $19,900 which in my view was a significant sum. I also found that the numbers of foreign workers i.e. B1 to B9 was also significant. Accordingly, based on these facts, I found the level of culpability to be at the medium range.
+
+87     In terms of the harm caused, I noted that all nine foreign workers had been emplaced. There was no evidence of exploitation as there was no indication that the foreign workers or their employer were compromised by the unlicensed activity. There was no evidence before me that the foreign workers found themselves in a position of dire straits while they were in Singapore and did not get the promised jobs which they had paid exorbitant agency fees for. Hence, in terms of the harm caused I was of the view it fell within the low range.
+
+#### Other relevant factors
+
+88     Apart from the culpability and the harm caused, the Court would also consider other factors such as the difficulty in detection of such offences, whether restitution was made and the role of the offender in the commission of the offence. In the present case, I was of the view that such unlicensed employment agency activities are difficult to detect and would only be uncovered after complaints are received and MOM investigations are conducted involving interviews with the foreign workers who may or may not be within the jurisdiction, the employers, third party recruiters or agents and the offending parties. I noted that in the present case, IPS played a significant role in carrying out works for DD Pte Ltd which fell within limbs _(b)_ and _(d)_ of the definition of “specified employment agency work” under s 2 EAA when it successfully sourced and emplaced the nine foreign workers, B1 to B9.
+
+89     In addition, as IPS had claimed trial to the charge under s 6(1) EAA, it was not entitled to any discount in sentencing which is usually afforded to an accused person or a defendant company that had pleaded guilty. Even after being convicted on the charge, during its mitigation it was even submitted that IPS did not cause any prejudice to licenced EAs because the latter is not allowed to do placement of TWP holders under the licencing conditions. It was also the case for the Defence that the activity of IPS did not affect the genuine business interest of the licenced EA. I was unable to agree with these submissions and to my mind this was indicative of a lack of remorse and an attempt to downplay the level of culpability of IPS.
+
+90     I next considered, the appropriate amount of fine to be imposed on IPS in the present case.
+
+#### Sentencing precedents
+
+91     The Prosecution had tendered six cases under s 6(1) EAA as sentencing precedents in support of its submissions for a fine of not less than $50,000. I noted that the precedent cases involved accused persons whereas the present case involves a defendant company and the type of work passes in those cases did not involve TWPs unlike the present case. As all six cases were unreported cases and there were no written grounds of decisions given in these cases, I was mindful of the lack of precedential value for unreported cases although it provided some reference as to the range of fines imposed for an offence under s 6(1) EAA. In addition, I found that some of the precedent cases were unhelpful as it lacked details such as amount of fees paid or the benefit derived from the unlicenced employment agency activity as well as the harm caused to the foreign workers.
+
+92     I disagreed with Counsel’s submissions that IPS ought to be considered under the old maximum rate of $5,000 and that a fine in the region of $1,750 to $3,300 be imposed. In my view, such a submission was untenable in view of level of culpability and the harm caused as well as the other factors cited above and there was no legal basis for the application of the previous maximum fine to the present case.
+
+93     It was clear that when the prescribed punishment for offences under s 6(1) EAA was substantially increased from the maximum fine of $5,000 to a maximum fine up to $80,000 and/or imprisonment not exceeding 2 years in 2011, it was Parliament’s intention that such offences should be dealt with severely. At the Second Reading of the Employment Agency (Amendment) Bill in 2011 (see _Singapore Parliamentary Debates, Official Report_, 11 January 2011, vol 87), the then Minister of State for Manpower, Mr Lee Yi Shyan had stated the following:
+
+> “    Sir, the Government takes unlicensed EA activities seriously. They undermine the regulatory framework by competing with licensed law-abiding EAs. They also tend to exploit the vulnerable workers from developing countries by charging them exorbitant fees and may not give them the promised jobs in return…
+
+> To stem the supply of unlicensed agencies, we will raise the penalties for unlicensed agencies to ensure that they are commensurate with the potential gains from malpractices. The most significant increase in the maximum penalties under the Act will be for operating an unlicensed EA in section 6. The first offence will warrant a fine of up to $80.000 and/or up to two years of imprisonment, and subsequent offences are liable for penalties of up to twice that amount. In addition to raising the penalties for operating an unlicensed EA, we will also hold an unlicensed agency accountable for the same offences as a licensed agency under the Act…”
+
+94     It was clear the enhancement to the punishment for s 6 EAA was to deter potential offenders or like minded offenders like IPS. In view of the above, the fine imposed has to be sufficient highly to serve as a form of general deterrence to like minded offenders as well as specific deterrence to the defendant company. It is noteworthy that the prescribed penalty for a subsequent offence is twice the amount in order to reflect the seriousness of the offence.
+
+95     Nevertheless, I did not agree with the Prosecution’s submissions that a fine of not less than $50,000 should be imposed in the present case. I was of the view that the proposed fine was on the high side (i.e. 62.5% of the maximum fine) for a first offender bearing in mind that there was no evidence of exploitation or deception of the foreign workers or that their employer were compromised by the unlicensed activity.
+
+96     After a careful consideration of the above factors, including the mitigating and aggravating factors in respect of MSC 904477 – 2017, I imposed a fine of $40,000 which represented 50% of the maximum fine. In my view, the quantum of the fine was just, appropriate and proportionate given the culpability, the harm caused and the other factors as stated above including the fact that the defendant company had claimed trial and was thus not entitled to a sentencing discount.
+
+* * *
+
+[^1]: _See_ Applicability of Conditions under Employment Agency Licence Conditions (“EALC”)
+
+[^2]: Order 2(1)(a)
+
+[^3]: Order 2(1)(b)
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F23517-SSP.xml)
