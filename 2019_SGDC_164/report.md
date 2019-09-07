@@ -1,0 +1,133 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Angela Lim Seok Im _v_ Tampines Town Council and others  
+
+### \[2019\] SGDC 164
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">DC/DC Suit No. 2227 of 2014</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">06 August 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Loo Ngan Chor</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Mr. Raeza Ibrahim, Mr Jonathan Cheah (M/s Salem Ibrahim LLC) - for the Plaintiff; Mr. Ramasamy K Chettiar (M/s Central Chambers Law Corporation) - for the second and third Defendants</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Angela Lim Seok Im — Tampines Town Council — Heeton Holdings Limited — Heeton Estate Pte Ltd</td></tr></tbody></table>
+
+Tort – Negligence – Duty of care – Breach of duty – Contributory negligence
+
+6 August 2019
+
+### District Judge Loo Ngan Chor:
+
+1       I set out my full reasons for the decision I made in this matter, for the purpose of the cross-appeals by the Plaintiff and the second and third Defendants. Where I refer collectively to the second and third Defendants, I shall use the phrase “the Defendants”.
+
+2       The claim against the first Defendant had been discontinued so that my decision did not concern the first Defendant.
+
+3       On 5th August 2011, at about 3pm, the Plaintiff, then 32 years old, was walking along the corridor of the Tampines Mart, on her way to Giant Supermarket, with her boyfriend, Mr Chee Jin Cheng (“Chee”), slightly ahead and to her right, when she suddenly slipped and fell. She landed hard and painfully on her behind, and suffered injuries which she later ascertained to include a fracture in her sacrum at the S4/5 junction with a 4mm posterior displacement.
+
+4       When she landed, she touched the floor and felt the presence of oil where she sat.
+
+5       With help from Chee, she made her way back to Chee’s nearby flat to rest. Her clothes, including her soiled jeans, were cleaned. Later, when the pain did not subside, she was sent to hospital.
+
+6       The third Defendant owns the Tampines Mart, which includes a privately-owned wet market. It is a subsidiary of the second Defendant which operates the market.
+
+7       As a wet market, the stalls there sell raw and pre-cooked food, dried goods, provisions, fruits and vegetables. No cooking is allowed within the wet market, neither, as a matter of policy by the National Environment Agency, nor by the Defendants[^1]. In the nature of a wet market, the floor is often wet from watering by stall holders or melting ice; this is a matter of common experience. The Defendants placed importance on the wet state of the wet market. I do not think that the Plaintiff disputes this because she is no stranger to a wet market. There are few known falls in a wet market perhaps because visitors know to walk with measured paces and careful balance because of present slip risks.
+
+8       Chee went back at about 3 plus pm to check the fall location and take photographs. Whilst there, he was seen by a former technician (Mr Hasdi Bin Johari) of the Defendants and told him briefly of the Plaintiff’s fall. Mr Hasdi reported this conversation to Mr Chia Choo Lim (“Chia”), a senior manager of the second Defendant, the Defendants’ only witness. Chia, whose office is located at another place, went to the wet market that evening to inspect the general area where the Plaintiff fell. He found it unremarkable.
+
+9       The Plaintiff’s pleaded case is that the Defendants have a duty to lawful visitors to ensure that the wet market is operated “in a safe and proper manner so as not to cause danger”, and in particular, to ensure that “its corridor is not oily”. She pleaded that the tenant of a stall she walked past had occupied an untenanted stall on the other side of the corridor, which “resulted in the corridor being oily”.[^2]
+
+10     It is not disputed that the Plaintiff has not produced any _physical_ evidence which distinctly – directly or inferentially - shows the presence of oil on the floor. Her jeans had been washed as she had not expected then that her injuries were anything more serious or other than the pain she felt during the fall. The photographs taken by her boyfriend were adduced but they do not distinctly show the presence of oil on the floor. However, they do show the presence of gas cylinders, two huge pots atop stoves and someone engaged in stirring one of the pots.[^3] Whilst Chia maintained that he saw no fire or any actual cooking from the photographs, I am prepared to infer that there was in fact cooking going on at that stall which was meant to be untenanted and vacant.
+
+11     The Plaintiff’s point is that the oil on which she stepped and caused her fall was a splatter which was invisible when she walked onto it. She only knew of its presence when she felt the presence of oil after falling down.
+
+12     Whilst the available materials are scanty, several things are clear, which are bases enough for me to accept that a splatter of oil caused the Plaintiff’s slip and fall. The Plaintiff did suffer that fall while Chee just ahead of her and to her right did not. Unfortunately, she had taken a route just outside the stall where cooking was improperly going on, stepping on the first two tiles[^4] which slightly sloped down to the flat corridor. The stall had no enclosures unlike in a hawker centre. The Defendants’ employee, Mr Hasdi, had admittedly seen Chee at the wet market taking photographs and, upon asking, invited Chee to report the fall to the management. (As an aside, I should add that I took no account of metadata (which, the Plaintiff said would have shown the date and time when Chee took these photographs) appearing on several photographic exhibits[^5], owing to the metadata having been withdrawn[^6] in the face of objections by the Defendants.) The Plaintiff and Chee did write to her MP an emailed letter dated 20th August 2011[^7] about the incident, which was signed off by Chee for and on behalf of the Plaintiff. In this letter, the Plaintiff’s complaint was that the wet market floor was oily and caused her to slip and fall.
+
+13     I should address an issue concerning the letter and Chee’s evidence, which the learned Defendants’ counsel, Mr Ramasamy Chettiar, broached. In his supplementary affidavit of evidence-in-chief, Chee said that when he returned at 3.40pm on the same day to the fall location, he noted that the cooking “made the floor around #01-03 very oily and grimy. I know this because I reached down to touch the floor.”[^8] In the said letter, however, in apparent reference to this visit, it was stated that “By this time, the stall owner had promptly washed and cleared the area of grease and oil, presumably recognising our complaint that it had posed as an extreme form of danger to unsuspecting pedestrians.” In this regard, I accepted Mr Raeza Ibrahim, the learned Plaintiff’s counsel’s contention, that this apparent inconsistency was a result of the Plaintiff’s having misunderstood Chee when she drafted the letter which in fact contained a “dual voice” of what they separately knew of the fall and the fall location.[^9]
+
+14     The type of cooking that was going on in the untenanted stall, adjacent to the corridor on which the Plaintiff fell, was, I think, capable of causing the oil splatter which the Plaintiff says caused her to slip and fall. I found that it did probably cause the oil splatter.
+
+15     The Defendants’ Defence is that they owed the Plaintiff no duty of care or that, if they did, they did not breach the duty.[^10] In addition, they had no knowledge of the incident and put the Plaintiff to proof that the patch of floor was oily.[^11] In any case, amongst other points, the Defendants pleaded that they had “used all reasonable means to ensure that \[the wet market\] was reasonably _safe_ for use in that the entire premises is _cleaned_ twice a day, once in the morning and once at night towards closing time.”[^12] They also maintained they had appointed an independent cleaning contractor, ABM Century Pte Ltd (“ABM”). They did not receive any report of the cleaners having had to clean an oil patch. Neither had they received any complaint about anyone else falling down.[^13]
+
+16     The Defendants also pleaded that in the nature of a wet market, the floor is expected to be wet.[^14] As noted above, I think that the Plaintiff did not dispute this or that one needs to exercise care walking in a wet market. Although the appurtenant part of the Defence was denied, the Plaintiff’s Reply was that “While it is reasonable to expect the floor of a wet market to be wet at times, it is not reasonable for it to be oily/greasy at any time. An oily/greasy floor is much more slippery than a wet floor.”[^15] It is noteworthy that the complaint before me was really not about a wet floor causing the Plaintiff to slip and fall.
+
+17     In my view, it cannot be seriously disputed that the Defendants have a duty of care to visitors to take reasonable steps to ensure that the wet market is safe for their use. The _Spandeck_ <span class="citation">\[2007\] 4 SLR(R) 100</span> principles clearly apply. Factual foreseeability, as a preliminary requirement, is a low factual test, _i.e._, that the Defendants’ negligence might result in harm to persons like the Plaintiff. An occupier’s liability to a lawful entrant satisfies the first requirement of proximity, as per the _See Toh Siew Kee_ case <span class="citation">\[2013\] 3 SLR 284</span>. I see no public policy considerations that militate against the finding of a duty of care, subject to an issue of standard of care which I deal with below. In any case, the Defendants no longer seemed to take this point, _i.e._, that of no duty, in their closing submissions.
+
+18     Adverting to the cleaning contract, ABM’s broad duties were to provide “labours, materials, equipment and chemicals to carry out the daily cleaning work” to Tampines Mart[^16]. In respect of the part of the premises specifically designated as the wet market, ABM’s work was described as “1. Daily sweeping of floor to remove litters (_sic_). 2. Wednesday, Friday and Sunday high pressure jet wash of floor and drains.”[^17]
+
+19     It is clear to me that it was not ABM’s duty to ensure that the wet market was kept _safe_, as opposed to _clean_, for lawful visitors such as the Plaintiff. Its cleaning duty was confined to keeping the wet market clean by sweeping away litter twice a day. There was no express duty to wash or mop the floor of the market at any intervals of time. Jet washing was confined to three days of a week, including Fridays, which was the day when the Plaintiff slipped and fell. That said, I did not discern from the photographs floor wetness from jet washing. I do grant that to an extent, cleanliness improves and overlaps with safety such as when one sweeps and removes broken glass.
+
+20     But safety is obviously not to be conflated with cleanliness although they may overlap. This was the conflation that the Defendants did when they said that they kept the wet market reasonably safe because they had hired a cleaning contractor to clean it; see \[15\] above. Whilst it was the duty of the Defendants to keep the wet market reasonably safe for visitors there, this was not a duty that was in substance or form delegated to ABM as part of the cleaning contract. Owing to this consideration, with respect, I am not able to entirely agree with the Defendants, at \[35\] of their closing submissions, that their duty “is to keep the wet market reasonably clean… and it was delegated to the cleaning contractors, ABM…” Their duty included one to keep the place reasonably safe, which was not delegated to ABM.
+
+21     In my opinion, the Defendants breached their duty of care to ensure a safe wet market when they failed to enforce the rule against cooking therein. It was in this context that I found surprising Chia’s asserted failure to even see the activities at the untenanted stall when he went that evening to inspect the fall location. I doubted that Chia did not notice the prohibited cooking. In my view, more likely than not, the prohibition against cooking was honoured in the breach rather than in the observance. Moreover, it did not suffice to say that a stall holder who does unpermitted cooking in a wet market is liable to have his licence cancelled by the National Environment Agency because such breach carries a real risk of oil splatter. In the result, it was the unlawful cooking taking place there that probably caused the oil splatter resulting in the Plaintiff’s mishap. This is the conclusion that I drew since there was no evidence suggesting any other reason for the oil splatter.
+
+22     I should advert to the issue of the appropriate standard of care as referred to in _MCST 2668_ v _Rott George Hugo_ <span class="citation">\[2013\] SGHC 114</span>. At \[26\] to \[28\], the High Court said:
+
+> 26    The Appellant’s central argument was that the maintenance system put in place was **not** inadequate in ensuring that the car park was generally safe for users, and therefore, the Appellant could not have been said to have failed to take reasonable care to prevent harm to the Respondent. In essence, the legal question that must be answered is “_what is the appropriate standard of care to which the Appellant should be held?_” While it is not disputed that the guiding principle in assessing the standard of care is the standard of a reasonable person (see _Chandran a/l Subbiah v Dockers Marine Pte Ltd_ <span class="citation">\[2010\] 1 SLR 786</span> at \[21\], citing with approval Alderson B in _Blyth v The Company of Proprietors of the Birmingham Waterworks_ (1856) 11 Ex 781), there is no doubt that this depends primarily on the factual matrix, and that a certain amount of judicial discretion is required to decide what standard of care is to be imposed.
+
+> 27    In determining the appropriate standard of care in this case, I considered the following factors as suggested by Gary Chan Kok Yew & Lee Pey Woan in _The Law of Torts in Singapore_ (Academy Publishing, 2011) (“_Gary Chan_”) at ch 5:
+
+>> (a)    the likelihood and risks of harm;
+
+>> (b)    the extent of harm;
+
+>> (c)    the costs of avoiding harm; and
+
+>> (d)    the industry standards and common practice.
+
+> 28    Given that the Respondent’s fall took place in a car park, it was foreseeable that the parked cars would sometimes leak oil and water on the floor. Further, it was not disputed that residents at the Condominium would often wash their cars in the car park, often resulting in water puddles on the floor. The risk of residents walking and slipping as a result of such water puddles and oil patches was thus a very real risk which the Appellant should have reasonably contemplated. On the other hand, I accepted the Appellant’s point that it would be unreasonable to expect the Appellant to have a “24/7” lookout for oil patches. The occasional presence of water puddles and oil patches in car parks was to be expected, and users were similarly expected to take a certain amount of precaution when using the car park.
+
+23     I do not wish to be thought of as imposing an unfair standard on the Defendants, even if this was a point not made by the Defendants. The standard of care I applied is just that of the reasonable operator of a wet market. One factor is what the common practice is and what the industry standards are. I was not told of this. That said, that cooking causes oil splatter and the slip risks of oil splatter from cooking are well known. The extents of harm vary, but they are those associated with falls. I do not think that enforcing the prohibition against cooking in a wet market would involve great cost. For these reasons, I do think that the Defendants unreasonably caused the Plaintiff to slip and fall.
+
+24     A question _apropos_ the conceptual standard of care, which vexed and distracted me during the trial, was whether the splatter had only just happened._[^18]_ Having thought about it within the evidentiary matrix overall, I think that this question was speculative and irrelevant to the issue of the standard of care on the facts before me.
+
+25     I now address the issue of contribution by the Plaintiff. This is not an issue of “mathematics” or “clinical science” but an effort at distilling “imponderables” from what a Plaintiff did and how they might dilute a Defendant’s liability for negligence. As VK Rajah JC (as his Honour then was) pointed out in _Cheong Ghim Fah and anr_ v _Murugian s/o Rangasamy_ <span class="citation">\[2004\] 1 SLR(R) 628</span> at \[87\]:
+
+> 87    Taking into account this and the other relevant factors referred to earlier, I apportion liability between the deceased and the defendant. Apportionment is more an exercise in discretion than in clinical science; it is one that involves imponderables. Mathematics does not come into the picture given that the court exercises a general discretion, taking into account the causative potency as well as the blameworthiness to be assigned to the different parties involved. Section 3(1) of the Contributory and Personal Injuries Act (Cap 54, 2002 Rev Ed), by dint of the operative word “responsibility”, requires a focus on the responsible causes of an accident. A review of all the material facts in these proceedings leaves me in no doubt that the defendant was the principal author of this tragic accident. The defendant was, all circumstances considered, 85% responsible for the accident. With this apportionment of liability, the plaintiffs are entitled to judgment and may proceed to have damages assessed.
+
+26     The oil splatter onto which the Plaintiff stepped was not so large as to be visible; it could only be felt after the Plaintiff slipped. Its slipperiness seems to me also to be more limited in that sense, say, in contrast to a visible puddle of oil. In _MCST 2668_ v _Rott George Hugo_ <span class="citation">\[2013\] SGHC 114</span>, the Plaintiff stepped onto a visible puddle of water, which he should not have done because he should have known that this was a slip risk, and unknown to him the puddle had oil in it – see \[42(b)\] of the judgment. In this scenario, he was found 75% contributorily negligent. So, in that sense, the instant Plaintiff could not be blamed for taking that unfortunate step since she could not see the oil splatter. But see \[29\] below for the opposite consideration arising from this and the first two sentences in this paragraph.
+
+27     In passing, I mention the Plaintiff’s complaint that ABM was negligently selected and was unfit for its job. Seeing as how that ABM was repeatedly chosen by a tender process and had been cleaning Tampines Mart over many years since 2003, I could not agree that ABM’s relatively lower price or narrower cleaning tasks compared with one other tenderer were reasonable bases for the complaint. In this connection, I took guidance from the Court of Appeal decision in _Ng Huat Seng_ v _Munib Mohammad Madni_ <span class="citation">\[2017\] SGCA 58</span> at \[74\] to \[77\].
+
+28     In respect of contributory negligence, Mr Ramasamy engaged this in broad terms as he started his cross-examination of the Plaintiff. Mr Ramasamy was concerned about how the Plaintiff did not attempt to explain how she took care when stepping into the wet market. Three particulars in the Defence are germane – not walking in a manner appropriate in a wet market, not walking carefully and maintaining balance and not taking precautions before stepping on the floor. Safe for a mention in the Plaintiff’s affidavit of evidence-in-chief that she kept her “usual pace”, there was no further mention of how she took care of herself when she walked into the wet market.[^19] I share, with respect, Mr Ramasamy’s concern.
+
+29     I am of the view that the Plaintiff should have walked with more care, in a gingerly way, if you like, since she was entering a wet market. If she had done this, I do not think that she would have fallen because of an invisible splatter of oil from nearby cooking. Bearing in mind that the oil splatter was invisible and thus not a great deal, she might have slipped but quickly recovered her balance. She should not have used her usual pace. And she should have been conscious of her balance and the risk of slipping, even if the cause turned out to be something not reasonably to be expected. The fact that the Plaintiff slipped, fell and landed hard was likely because of the several subtle ways in which I think she failed to take care of herself. I confess to also having wondered, in my reflections, why she stepped onto the sloping tiles and why she walked so close to the cooking but any relevance this might otherwise have had was qualitatively cancelled out by the fact that the Plaintiff was walking in a place as operated by the Defendants. All said, I formed the view that the Plaintiff’s not walking with enough care when entering the wet market contributed in no small measure to her fall.
+
+30     For this reason, and doing the best I could, I assigned the Plaintiff a contribution of 35%.
+
+31     My decision is therefore that the Defendants pay the Plaintiff 65% of the damages to be assessed, with costs and interest reserved to the assessing Registrar.
+
+* * *
+
+[^1]: The Defendants’ answer to interrogatory no. 9, BP 190
+
+[^2]: Statement of Claim Amendment No. 2, \[4\], \[5\], \[7(c)\], BP29-30
+
+[^3]: PB 7-9 and 12
+
+[^4]: PB12; see also PB6 and PB10
+
+[^5]: PB3,5,9,13 and 17
+
+[^6]: PCS \[12\]-\[20\]; DCS \[7\]
+
+[^7]: AB34
+
+[^8]: BA264 \[8\]
+
+[^9]: PCS \[65\]-\[75\]
+
+[^10]: Defence Amendment No. 1, \[3\], BP169
+
+[^11]: Defence Amendment No. 1, \[2\]
+
+[^12]: Defence Amendment No. 1, \[4(b)\]
+
+[^13]: Defence Amendment No. 1, \[4(c), (e)\]
+
+[^14]: Defence Amendment No. 1, \[4(a)\]
+
+[^15]: Reply \[5(a)\]
+
+[^16]: AB22-30
+
+[^17]: AB25
+
+[^18]: Transcript 12 March 2019, p54 ln 1 to p56 ln22
+
+[^19]: BA tab 1, \[6\]
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F23518-SSP.xml)
