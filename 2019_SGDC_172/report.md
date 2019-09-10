@@ -1,0 +1,73 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Munshi Rasal _v_ Enlighten Furniture Decoration Co. Pte. Ltd  
+
+### \[2019\] SGDC 172
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">District Court Suit No S 29 of 217</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">23 August 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Ronald Gwee</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Mr Pillai Subbiah [M/s TAN &amp; PILLAI] - for Plaintiff; Mr Appoo Ramesh [M/s JUST LAW LLC] - for Defendant</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Munshi Rasal — Enlighten Furniture Decoration Co. Pte. Ltd</td></tr></tbody></table>
+
+Negligence (Industrial Accidents with Injury)
+
+23 August 2019 - Judgment reserved.
+
+### District Judge Ronald Gwee:
+
+## DCA 20/2019
+
+The Plaintiff was employed by the Defendants.
+
+2       Whilst working for the Defendants, the Plaintiff was injured in an incident that occurred on 28 June 2015.
+
+3       The Plaintiff claimed that the Defendants had been negligent, leading to the injuries suffered by him on 28 June 2015. The Defendants admitted that they had owed the Plaintiff a duty of care, but denied that they had been negligent. The trial before me was purely on the issue of liability.
+
+4       The Plaintiff described the incident thus in paragraph 6 of the Statement of Claim (quoting verbatim): “On or about the 28th June 2015, the plaintiff was instructed by the defendant servant or agent to clean the wood laminator roller. While the plaintiff was cleaning the said machine by means of sandpaper when the roller of the laminator was moving slowly. While the plaintiff was trying to remove the waste material from the roller when the plaintiff’s hand was cut by the rollers when the rollers suddenly started to run at a fast speed and the plaintiff was injured.”
+
+5       The Plaintiff then pleaded several “Particulars of Negligence” against the Defendants. The Particulars pleaded were rather general and resulted in several areas of overlapping in the matters pleaded. The Plaintiff was generally alleging that the Defendants had failed to provide a safe work system and had failed to properly train and supervise him for the work being carried out.
+
+6       In their Defence, the Defendants pleaded that on the material date, the Plaintiff had been assigned together with another worker, Ali Mohammad Shah (who was called to give evidence on behalf of the Defendants, as DW2), to carry out the routine maintenance of a wood laminating machine (the “Machine”).
+
+7       As part of the process of maintaining the Machine, sand paper was wrapped and secured around one of the metal rollers (“Rollers”). In this state, when the Machine was switched on, it would cause the Rollers “to start moving to sand down and remove any excess glue” from the Rollers.
+
+8       It was then at this stage, with the Rollers moving, that (as pleaded by the Defendants) the Plaintiff “without any regard for his own safety” had “placed and/or inserted his right hand on or in between the Rollers and thereby injured himself”.
+
+9       The Defendants further pleaded that the Plaintiff was “familiar with and experienced in using and/or carrying out maintenance work” on the Machine. The Defendants averred that the Plaintiff “had no reason whatsoever to bring his hand anywhere close to any of the moving parts” of the Machine, “which included the Rollers”.
+
+10     It was further pleaded that the Plaintiff “was well aware and had been instructed to use the air gun to blow away any dust/dirt generated” while the Rollers were being cleaned. The Plaintiff “was never required to use his hands to remove any of the alleged “waste material” and had been warned at all material times to keep his hands away from all moving parts” of the Machine, “especially the Rollers”.
+
+11     Before the maintenance was to commence, the Machine was “powered down” and was to be switched on only when the sand paper had been wrapped and secured around one of the Rollers “and once the air gun was ready to be used”.
+
+12     In paragraph 2 of the Plaintiff’s Affidavit of Evidence-in-Chief (“AEIC”), the Plaintiff adds a bit more detail as to how the incident had occurred. The Plaintiff deposed thus (quoting verbatim): “On or about 28th June 2015, I was instructed by the Defendant servant or agent to clean the wood laminator rollers of the said machine. While I was cleaning the said machine by means of sandpaper while the roller was moving slowly as instructed by the Defendant supervisor. While I was trying to remove the waste material from the roller my hand got stuck between the rollers of the said machine when the rollers suddenly started to move at a fast speed for no reason and my hand was stuck in between the rollers and was cut.”
+
+13     It was the Plaintiff’s evidence that he was inexperienced with regard the workings and maintenance of the Machine. It was also the Plaintiff’s evidence that the Defendants did not carry out daily tool box meetings. These 2 material contentions were disputed by the Defendants.
+
+14     Besides the Plaintiff, 2 other persons gave evidence at the trial. One was the aforesaid DW2. The other was Hossain Arif (DW1), a foreman in the employ of the Defendants. DW1 had been supervising the Plaintiff and DW2 on the day of the incident.
+
+15     Both DW1 and DW2 gave evidence that the Plaintiff was indeed familiar with the workings of the Machine and the maintenance thereof, and was experienced in that regard, contrary to the Plaintiff’s evidence. DW1 and DW2 also gave evidence that there had indeed been a toolbox meeting on the morning of 28 June 2015, before work commenced. At these toolbox meetings, workers, including the Plaintiff, were briefed and reminded, inter alia, on the safety aspects of the work they were about to undertake that day.
+
+16     Having considered the evidence of the Plaintiff, DW1 and DW2, I accepted the Defendants’ contention on these 2 material points. I found that indeed, the Plaintiff was very familiar with the necessary steps to be taken for the maintenance work of the Machine to be undertaken on that day. The Plaintiff ought to have also been well aware of the safety aspects involved and the precautions to be taken.
+
+17     From the evidence, I also accepted the Defendants’ contention that there had indeed been a toolbox meeting conducted on that day, before work commenced for the day. The various safety aspects would have objectively been uppermost in the minds of the workers, including the Plaintiff, whilst carrying out their assigned duties.
+
+18     Having found that the Plaintiff was well aware of the procedures involved and the necessary safety precautions to be observed, it would be clear that the Plaintiff’s actions and conduct that day were quite inexplicable.
+
+19     The Plaintiff was aware that, during the maintenance phase, the Machine was not to be switched on until the sand paper had been wrapped and secured around one of the Rollers and once the air gun was ready to be used. Yet, the Plaintiff had switched on the Machine apparently whilst DW2 had momentarily left his (Plaintiff’s) side to prepare the air gun, and when he (Plaintiff) had not been instructed to do so (by DW1, DW2 or any other person).
+
+20     The Plaintiff was supposed to have waited for the air gun to be in a state prepared for usage before switching on the Machine. He did not wait.
+
+21     The Plaintiff well knew that the air gun was to be used to remove waste material, and that this action of clearing away waste material was certainly not to be carried out using one’s hands. The Plaintiff would have been well aware that besides being wholly impractical and unworkable, the use of one’s hands to clear away the waste material was, more importantly, patently dangerous. This would have been clear.
+
+22     After hearing all the evidence, I came to the clear conclusion that no one in the Defendants’ employ had instructed or even suggested to the Plaintiff, to carry out the actions which led to his injuries. Being well aware of the proper procedures and the safety precautions to be observed, the Plaintiff nevertheless proceeded on a course of action of his own accord.
+
+23     Therefore, the conclusion to be reached was that the Defendants had not been in any way negligent towards the Plaintiff. The Plaintiff had been given proper prior supervision as to the work processes involved, and informed of the safety aspects to be observed. There was no element of negligence on the Defendants’ part as to the work systems that revolved around the Machine and the maintenance thereof. The actions that led to the sustaining of the injuries were, on the evidence, of the Plaintiff’s own doing. The Defendants could not be held liable for these actions of the Plaintiff.
+
+24     It had not been specifically pleaded by the Plaintiff that the Machine itself had been unsafe. In his AEIC, the Plaintiff does say that the Machine had “no safety guard between my hand and the rollers”, and that there was no “automatic safety device which could have prevented my hands from being cut by the rollers”.
+
+25     The evidence showed that there were safety features in the Machine. There was an emergency stop button and safety lines “surrounding” the Machine. Pulling of these lines would stop the Machine “immediately”. In any event, the Plaintiff did not lead any evidence to show that the safety features were found wanting in their level of efficacy, or that the Machine was unsafe.
+
+26     There was no evidence to suggest that the Defendants had modified the Machine in any way, rendering the Machine unsafe, or that the Machine was unsafe, at all.
+
+27     Upon a consideration of all the evidence, I therefore found that the Plaintiff had failed to prove his case against the Defendants on a balance of probabilities. The Defendants had not been negligent towards the Plaintiff in any way that could have been a causative factor in the occurrence on 28 June 2015. The injuries the Plaintiff suffered were as a result of purely his ill-judged actions, despite his full understanding of the proper procedures to be undertaken and the safety aspects to be observed. The evidence showed that the Plaintiff had certainly not been instructed to behave as he had done. His actions were all his own.
+
+28     I therefore dismissed the Plaintiff’s claim with costs. The Defendants’ Counsel then revealed that the Defendants’ solicitors had served an Offer to Settle (“OTS”), offering a sum of money. As this OTS had not been accepted, the Defendants’ Counsel had urged for the usual Order for Costs to be on the Indemnity basis as a result, from a particular point in time. After hearing from Counsel for the Plaintiff and the Defendants, I made the Order sought.
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F23523-SSP.xml)
