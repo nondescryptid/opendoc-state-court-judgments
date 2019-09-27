@@ -1,0 +1,81 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Malinda Wongpipatkasem  
+
+### \[2019\] SGDC 197
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">DAC-930935-2018 &amp; 3 ors, Magistrate's Appeal No. 9216-2019-01</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">23 September 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Ng Peng Hong</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Deputy Public Prosecutor Jane Lim Attorney-General's Chambers for the prosecution; Ms Cheryl Ng Huiling Intelleigen Legal LLC, for the Accused person</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Malinda Wongpipatkasem</td></tr></tbody></table>
+
+\[LawNet Editorial Note: An appeal to this decision has been filed in MA 9216/2019/01.\]
+
+23 September 2019
+
+### District Judge Ng Peng Hong:
+
+1       This is an appeal by the Accused against the sentence of 3 months’ imprisonment.
+
+2       The Accused was convicted after she pleaded guilty to the following 2 charges:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="27.38%"> <col width="72.62%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Charge</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Details</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">DAC-930935-2018</p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">that you, on or before the 10<sup>th</sup> day of August 2017, in Singapore, did forge a valuable security, namely, an United Overseas Bank (“UOB”) cheque number 107047 for the sum of $6,000, by dishonestly executing it in favour of Koh Dow Fern and signing on it, intending to cause it to be believed that the cheque had been executed and signed with the authority of the owners of the UOB account associated with the said cheque, Foo Kok Leong Daniel and his parents, when you knew this not to be the</p><p align="justify" class="Table-Para-1">case, and you have thereby committed an offence punishable under Section 467 of the Penal Code (Chapter 224, 2008 Revised Edition).</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">DAC-930936-2018</p></td><td align="left" class="" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">that you, on or before the 13th day of August 2017, in Singapore, did forge a valuable security, namely, an United Overseas Bank (“UOB”) cheque number 107048 for the sum of $6,000, by dishonestly executing it in favour of Koh Dow Fern and signing on it, intending to cause it to be believed that the cheque had been executed and signed with the authority of the owners of the UOB account associated with the said cheque, Foo Kok Leong Daniel and his parents, when you knew this not to be the case, and you have thereby committed an offence punishable under Section 467 of the Penal Code (Chapter 224, 2008 Revised Edition).</p></td></tr></tbody></table>
+
+  
+  
+
+3       The Accused also admitted and consented to 2 other charges to be taken into account for the purpose of sentencing.
+
+## Statement of Facts (“SOF”)
+
+4       The Accused admitted to the following Statement of Facts (“SOF”):
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="100%"> </colgroup><tbody><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">1. The accused is Malinda Wongpipatkasem, a 40-year-old female, NRIC no. SXXXX489G, Thai national, Singapore permanent resident.</p><p align="justify" class="Table-Para-1">2. The complainant is Koh Dow Fern (“Mdm Koh”). The first witness is Foo Kok Leong Daniel, the ex-husband of the accused (“Mr Foo”). The second witness is Heam Poi Ling, the property agent for the complainant (“Mdm Heam”).</p><p align="justify" class="Table-Para-1">3. Sometime before 10 August 2017, Mdm Koh sought to rent out her apartment at the Riverwalk, located at 20 Upper Circular Road #XXX (“the apartment”). Mdm Heam thus negotiated with the accused on Mdm Koh’s behalf, for the accused to rent the apartment for $3,000 a month.</p><p align="justify" class="Table-Para-1">4. The accused requested immediate occupation of the apartment. In order to obtain this, she needed to provide one month’s rent and one month’s rent worth of security deposit (totalling $6,000). Sometime on or before 10 August 2017, the accused forged UOB cheque number 107047 to make payment of the sum.</p><p align="justify" class="Table-Para-1">5. This cheque was issued from the joint account of Mr Foo and his parents. The accused had obtained the unfilled cheque sometime in 2014, when moving out from her previous residence that she shared with Mr Foo. The accused forged the cheque by dishonestly executing it in favour of Mdm Koh for the sum of $6,000, and signing on it, intending to cause it to be believed that the cheque was executed and signed with the authority of Mr Foo and his parents, when she knew this not to be the case. <b>[1<sup>st </sup>Charge, DAC-930935- 2018]</b></p><p align="justify" class="Table-Para-1">6. The accused then presented the cheque to Mdm Heam on 10 August 2017, signed the tenancy agreement, and moved into the apartment on the same day.</p><p align="justify" class="Table-Para-1">7. Subsequently, Mdm Koh attempted to encash the cheque, and was informed by her bank that the cheque had been rejected as the UOB bank account associated with the cheque was closed.</p><p align="justify" class="Table-Para-1">8. Mdm Heam immediately notified the accused about her dishonoured cheque and sought payment of the $6,000. On or before 13 August 2017, the accused forged another UOB cheque number 107048. This cheque was similarly issued from the joint account of Mr Foo and his parents, and the accused forged it the same manner as she did cheque number 107047. <b>[2<sup>nd</sup> Charge, DAC-930936-2018]</b> She presented the cheque to Mdm Heam on 13 August 2017.</p><p align="justify" class="Table-Para-1">9. Mdm Koh again unsuccessfully attempted to encash the cheque number 107048. Mdm Heam informed the accused of this. The accused then lied to Mdm Heam that she would pay by cash or deposit money into the UOB bank account in order to allow the cheque to be honoured. Finally, the accused was asked to leave the apartment on 19 August 2017 after nine days’ occupation of the apartment.</p><p align="justify" class="Table-Para-1">10. By these acts, the accused has committed two counts of forgery of valuable security (ie, cheques), under Section 467 of the Penal Code (Cap 224, 2008 Rev Ed).</p><p align="justify" class="Table-Para-1">11. Mdm Koh subsequently obtained judgement from the Small Claims Tribunal requiring the accused to repay $6,000 to her. To-date, the accused has only repaid $3,000.</p></td></tr></tbody></table>
+
+  
+  
+
+## Antecedents
+
+5       The Accused was untraced.
+
+## Submission on Sentence by Prosecution
+
+6       The Prosecution submitted for an imprisonment term of 3 months per charge and for the sentences to run concurrently. In its submissions, the Prosecution relied particularly on the case of _PP v Muhammad Fairuz Bin Mohamed Ali_, an unreported decision.
+
+## Mitigation
+
+7       The Defence submitted a written submission in mitigation and contended for a jail term of not more than 1 month’s imprisonment per charge. In particular, counsel highlighted that the Accused was untraced. The Accused pleaded guilty and was co-operative with the authorities. She had made restitution of $3000 which was contended to be more than enough for her stay at the rental apartment. Being a foreigner, counsel also submitted that after the conviction the Accused will not be allowed to stay in Singapore.
+
+8       Counsel highlighted that the offences were committed out of desperation not greed.
+
+## Sentencing Considerations
+
+9       In my view, considering the gravity and the nature of the offences committed, the main sentencing consideration must be one of deterrence.
+
+10     I noted that the prescribed punishment for the offences committed was a mandatory jail term of up to 15 years and also liable for fine.
+
+11     In respect of the offences committed by the Accused, “t(T)he governing considerations in sentencing would be the nature of the documents, the amount involved, elements of planning and organisation, the period over which the offence was committed, and the abuse of position.” See Sentencing Practice in the Subordinate Courts, 3rd ed. Vol. II at page 998.
+
+12     In the present case, the Accused forged 2 cheques on 2 separate occasions for the sum of $6000 on each occasion. Forging a cheque is certainly an aggravating factor. It is a common instrument used in banking and commercial transactions. Hence, forging of cheques should not be condoned.
+
+13     The Accused admitted that she obtained the unfilled cheques sometime in 2014 when moving out from her previous residence. In my view, this indicated that she did have the plan to make use of it in the future. It was therefore not correct as contended by the Defence that there was a lack of premeditation. In fact, the Accused had taken advantage of the situation when she was staying together with her ex-husband to steal the cheque from her ex-husband’s possession. To further aggravate the matter, when notified that the first cheque had been dishonoured, the Accused nevertheless proceeded to issue another forged cheque similarly drawn on the same account to the landlord. This clearly indicated her persistent to perpetuate the fraud on the landlord.
+
+14     The amount indicated on the each of the 2 forged cheques was $6,000. It was a not a significant amount.
+
+15     I noted that the period over which the offences were committed were not long.
+
+16     I also took into account the 2 charges which the Accused admitted and consented for them to be taken into account for the purposes of sentencing. “It is trite that the effect of taking into consideration outstanding offences is to enhance the sentence that would otherwise be awarded (_Public Prosecutor v Mok Ping Wuen Maurice_ <span class="citation">\[1998\] 3 SLR(R) 439</span> at \[19\])” per Justice Hoo Sheau Peng in _PP v Tan Kok Ming, Michael_ <span class="citation">\[2019\] SGHC 207</span> at \[114\].
+
+17     With respect, it was not correct to say that there was no loss as submitted by the Defence. At \[11\] of the SOF the Accused admitted that she had an outstanding judgment for $6,000 but she only repaid $3,000.
+
+18     In sentencing the Accused, I also considered the mitigating factors. I gave due credit to the Accused for the fact that she had pleaded guilty and had shown her remorsefulness. I also noted that she had made partial restitution and was not motivated by greed. I gave credit for the fact that the Accused was untraced. But she cannot be treated as a first-time offender as she was charged and convicted for 2 counts of forging a cheque.
+
+## Precedents
+
+19     Both the parties referred to a number of cases for their respective submissions on sentence. I noted that the authorities cited by the Prosecution were unreported decisions. But it indicated the sentencing trend of cases involving similar amount. In the unreported case of _PP v Muhammad Fairuz Bin Mohamed Ali_, the offender who was a security guard of the company stole a cheque from a cheque book kept in the cabinet drawer and forged the owner’s signature on the cheque for $5,000. He attempted to cash it at the bank but left the premises before he received the cash. No actual loss was suffered and he was jailed for 18 weeks for the charge (DAC915660/2014). The offender was traced.
+
+20     In _Lai Jenn Wuu v PP_ \[2013\] 4SLR 1134, the offender found a cheque, forged the signature and wrote $50,000 on it. He presented it to the bank for cash but his actions were exposed when the bank verified his identity. The offender was jailed for 2 months. No loss was occasioned by the offender’s act of forgery. This case was clearly distinguishable as the offender pleaded guilty to a charge of forgery under s465 Penal Code and consented to a s403 Penal Code offence to be taken into consideration. S465 Penal Code attracted a lesser penalty of imprisonment of up to 4 years or with fine or both. On the other hand, the present case is an aggravated form of forgery offence punishable up to 15 years’ imprisonment and liable to fine. In _Lai Jenn Wuu’s_ case the offender found the cheque. In the present case, the Accused stole it from her ex-husband when they were staying together. Moreover, the Accused here was convicted on 2 charges.
+
+## Conclusion
+
+21     Having considered the Accused’s culpability, the circumstances of the case, the aggravating and mitigating factors, I was of the view that a 3 months’ imprisonment was warranted for each of the proceeded charges. The sentences were ordered to run concurrently.
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F23617-SSP.xml)
