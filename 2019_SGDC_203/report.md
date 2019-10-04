@@ -1,0 +1,503 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Loo Nee Soon  
+
+### \[2019\] SGDC 203
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">DAC-925053-2017 &amp; Ors</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">27 September 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Kessler Soh</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">DPPs Alan Loh and Magdalene Huang (Attorney-General's Chambers) for the Prosecution; Wendell Wong, Benedict Eoon, Evelyn Tan (Drew &amp; Napier LLC) for the Defendant.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Loo Nee Soon</td></tr></tbody></table>
+
+\[LawNet Editorial Note: An appeal to this decision has been filed in MA 9094/2019/01.\]
+
+27 September 2019
+
+### District Judge Kessler Soh:
+
+## INTRODUCTION
+
+1       Mr Loo Nee Soon (also known as Bernard Loo), currently 62 years of age, was the managing director of a group of companies which included Sinflora (S) Pte Ltd (“**Sinflora**”). He was a director and shareholder of Sinflora. Sinflora was a supplier of plants to a company known as Island Landscape & Nursery Pte Ltd (“**Island**”). At the material time the director in charge of operations at Island, and who had authority to select suppliers for Island, was Mr Geow Chwee Hiam (also known as “**Albert**”).
+
+2       Between November 2008 and December 2010, the defendant gave eight cash cheques to Albert, which amounted to a total of $143,000.
+
+3       Following investigations by the Corrupt Practices Investigation Bureau (“**CPIB**”), eight charges were brought against the defendant under s 6(b) of the _Prevention of Corruption Act_ (Cap 241, Rev Ed 1993) (“**PCA**”). He was charged with corruptly giving gratification to Albert as an inducement to show favour in advancing the business interests of Sinflora with Island.
+
+4       The defendant claimed trial to the charges. After a trial he was found guilty and convicted on all the charges. On 26 April 2019 he was sentenced to a total of 5 months’ imprisonment. He filed the present appeal against his conviction and sentence the same day. He is currently on bail pending the appeal.
+
+5       The grounds of my decision are set out below.
+
+## TRIAL
+
+#### Charges
+
+6       The eight charges against the defendant were similarly worded, with different particulars relating to the date of the offence and the amount of gratification:
+
+> You \[...\] are charged that you, on about _\[date\]_, in Singapore, did corruptly give a gratification of _\[amount\]_ to one Geow Chwee Hiam, being an agent, to wit, a Director in the employ of Island Landscape & Nursery Pte Ltd, as an inducement to show favour in relation to his principal’s affairs, to wit, advancing the business interests of Sinflora (S) Pte Ltd with Island Landscape & Nursery Pte Ltd, and you have thereby committed an offence punishable under Section 6(b) of the Prevention of Corruption Act, Chapter 241.
+
+7       Particulars of each charge:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="48.1703659268146%"> <col width="31.0937812437513%"> <col width="20.7358528294341%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Charge</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>[date]</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>[amount]</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC-925053-2017 (1st Charge)</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">5 November 2008</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1">S$10,000</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC-925055-2017 (2nd Charge)</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">21 November 2008</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1">S$30,000</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC-925056-2017 (3rd Charge)</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">21 November 2008</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1">S$30,000</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC-925057-2017 (4th Charge)</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">21 January 2009</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1">S$20,000</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC-925058-2017 (5th Charge)</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">1 August 2009</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1">S$10,000</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC-925059-2017 (6th Charge)</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">10 December 2009</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1">S$18,000</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC-925060-2017 (7th Charge)</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">10 February 2010</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1">S$15,000</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC-925061-2017 (8th Charge)</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">17 December 2010</p></td><td align="left" class="" rowspan="1" valign="top"><p align="center" class="Table-Para-1">S$10,000</p></td></tr></tbody></table>
+
+  
+  
+
+8       Section 6(b) of the PCA provides:
+
+> **Punishment for corrupt transactions with agents**
+
+> **6**.    If —
+
+>> \[...\]
+
+>> (b)    any person corruptly _gives_ or agrees to give or offers _any gratification to any agent as an inducement_ or reward for doing or forbearing to do, or for having done or forborne to do _any act in relation to his principal’s affairs_ or business, or for showing or forbearing to show favour or disfavour to any person in relation to his principal’s affairs or business;
+
+>> \[...\]
+
+> he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 5 years or to both.
+
+#### Prosecution’s case
+
+9       Certain facts were agreed between the prosecution and defence by way of a Statement of Agreed Facts (Exh P2).
+
+#### (a)   Business dealings between defendant (Sinflora) and Albert (Island)
+
+10     The defendant was, at the material time, a director and shareholder of Sinflora. Sinflora was (among other things) a supplier of plants to Island (which was in the business of landscaping, as well as selling and renting out plants). At the material time, the director in charge of operations at Island was Albert, and Albert had authority to select suppliers for Island.[^1] The defendant was aware that Albert had authority to select Sinflora as Island’s supplier.[^2]
+
+#### (b)   Defendant gave eight cash cheques to Albert amounting to $143,000
+
+11     It was not in dispute that between 5 November 2008 and 17 December 2010, Albert received a total of $143,000 in cash cheques issued from a joint account of the defendant and his wife. The cheques were issued with the authority of the defendant. He either gave the cheques to Albert personally, or knew that the cheques would be given to Albert. The key details of the cheques are summarised in the table below:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="28.7657531506301%"> <col width="16.2032406481296%"> <col width="29.7059411882377%"> <col width="25.3250650130026%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Date of cash cheque</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Amount</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Cheque signed by</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Received from</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">5 November 2008</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">$10,000</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Defendant’s wife</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Defendant’s wife</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">21 November 2008</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">$30,000</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Defendant</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Defendant</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">21&nbsp;November 2008</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">$30,000</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Defendant</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Defendant</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">21 January 2009</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">$20,000</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Defendant</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Defendant</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">1 August 2009</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">$10,000</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Defendant</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Defendant</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">10 December 2009</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">$18,000</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Defendant</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Defendant</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">10 February 2010</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">$15,000</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Defendant</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Defendant</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">17 December 2010</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="center" class="Table-Para-1">$10,000</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Defendant</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Defendant</p></td></tr></tbody></table>
+
+  
+  
+
+#### (c)   Defendant and Albert were not personal friends
+
+12     It was the prosecution’s case that the defendant and Albert were not personal friends.
+
+13     Albert (PW2) testified that his relationship with the defendant was that of “buyer and seller”; they were not personal friends but “only business”; they were “business friends”; they did not socialise with each other.[^3]
+
+14     In the defendant’s statements to the CPIB (the _admissibility_ of which were not challenged by the defence), the defendant said that he and Albert were “just okay friends”, they did not have social outings, and he did not know much about Albert’s family:
+
+> (Further Statement on 10 February 2011 – Exh P4)
+
+> 22\[...\] I wish to say that _I first got to know Albert Geow 10 to 15 years ago._ I got to know him through his boss at the time, Derek Keong. I believe he was a manager or supervisor at the time. _Sinflora only began to have a business relationship with Island Landscape about 8 years ago._ The sales volume in the last 4 or 5 years is higher than in the first 3 years, although it has now stagnant growth unlike the first 3 years.
+
+> \[...\]
+
+> 23\[...\]
+
+> Q1How would you describe your relationship to Albert Geow?
+
+> A1We are _just okay friends_ but we are more than just business associates.
+
+> Q2 _Do you go out with Albert Geow for any social outings?_
+
+> A2 _No._
+
+> Q3In what situations would you spend time together with Albert Geow?
+
+> A3He would come to my office to see me or go out for coffee or meals and _we would talk about business, asking a loan from me, his problems or his health._
+
+> Q4How well do you know Albert Geow's family?
+
+> A4I know he has an Indonesian wife as I had met her before and she spoke Berhasa Indonesia. _I do not know how many children he has, or what gender they are. I also don't know anything about his parents.[^4]_
+
+#### (d)   Cheques were given amid rising sales volumes
+
+15     A finance manager of Island, Ms Chithra Kandasamy (PW1), testified concerning the sales volumes between Sinflora and Island. A spreadsheet showing Sinflora’s annual sales volumes to Island was tendered in evidence (Exh P9A), as well as a listing of the invoices supporting the figures in the spreadsheet (Exh P10):
+
+> (a)     The sales volume between Sinflora and Island increased from $187,635 in 2007 to $363,989 in 2008 (both inclusive of GST).
+
+> (b)     The yearly sales volumes from 2008 to 2010 was higher than most of the previous years ($363,989 in 2008; $385,170 in 2009; $370,375 in 2010).
+
+16     It was the prosecution’s case that the defendant gave the cheques to Albert amid rising sales volumes between Sinflora and Island from 2008 to 2010. The sales volumes went on a declining trend after the payments ceased in 2010.
+
+#### (e)   Defendant lied in his statements to CPIB
+
+17     It was the prosecution’s case that the defendant had lied in his statements to the CPIB, and this demonstrated his guilty knowledge.
+
+18     The defendant described the cheques he had given to Albert as “loans”. When questioned by the CPIB, he was not truthful about the amount he had “loaned” to Albert. On 10 February 2011, he told the CPIB he estimated the amount to be “between S$60,000 and S$90,000”.[^5] It was only on 20 November 2012, when shown images of the cash cheques, that he stated that the total loan amount “should be more than $100,000”.[^6]
+
+19     The defendant had also lied about the extent to which the loans had been repaid. Albert’s evidence was that the defendant _never_ discussed repayment for any of the loans.[^7] (This was consistent with what the defendant told the CPIB, that he did not ask Albert to pay him back.[^8]) Albert testified that he nonetheless did make a small repayment of about $2,000 _after the Chinese New Year in 2010_.[^9] Albert’s evidence in this regard was not challenged by the defence in cross-examination. However, in the defendant’s statements to the CPIB, he stated that Albert had repaid much larger amounts, and that Albert managed to repay most of the loaned amount:
+
+> (a)     On 7 February 2011, he stated:
+
+>> Albert had loaned money from me on several occasions but _he managed to repay the loan to me_. The outstanding amount that he owes me is about S$40,000 to S$50,000 in total.[^10]
+
+>> Albert \[...\] _did repay the loan_, although it was paid in small amount instead of the whole lump sum.[^11]
+
+> (b)     On 10 February 2011, he stated:
+
+>> \[Albert\] has a balance of S$40,000 to S$50,000 he owes to me and _he has repaid about S$20,000 to S$40,000_.[^12]
+
+>> _A few days after I came back to Singapore on the 9 January 2011_, by which time Albert Geow had already been called up to CPIB, _Albert paid me back around S$3,000_ in one hundred dollar notes. It happened in my office in Jalan Kayu during evening, maybe after office hours. \[...\] _I cannot remember the dates he had repaid me before this, but it would usually be S$2,000 to S$3,000 each time._ Sometimes it would be in my office, or over lunch or dinner or over coffee at a hawker centre near Courts in Ang Mo Kio or at a Jalan Kayu roti prate shop. The money would be passed to me inside an envelope. I did not keep any records of the loans he repaid me. I did not ask for these repayments. Albert Geow gave it to me on his own will.[^13]
+
+>> Albert Geow would try to make payments every month \[...\].[^14]
+
+> (c)     On 21 December 2012, he stated:
+
+>> _\[T\]ill date, he only owes me only a few thousands_. \[...\] I am sure that also _repaid me most of the $143,000 and is left with only a few thousands_.[^15]
+
+20     The defendant’s motive for lying about the repayment was clear from what he told the CPIB in his first statement on 7 February 2011: the loans were not a bribe because they were repaid.
+
+> 10\[...\]
+
+> Q1Does it appear to you that the loans that you had given to Albert could be a bribe that Albert had solicited from you for in return for giving businesses to Sinflora?
+
+> A1No. It had never occurred to me. This is because Albert repaid the loan. I am not sure of what Albert was thinking but he did repay the loan, although it was paid in small amount instead of the whole lump sum. However, he still paid and _if it was a bribe, there would not have been a need for him to pay me back_.[^16]
+
+#### (f)   Defendant failed to produce chequebook stubs to CPIB
+
+21     The CPIB had asked the defendant to produce the chequebooks from which the cheques to Albert had been issued. The defendant did not produce them as at 10 February 2011 (less than two months after the last cheque to Albert dated 17 December 2010).[^17] The CPIB subsequently followed up with the defendant on the matter, and he did not produce _any_ of the chequebooks.[^18] It was the prosecution’s case that the chequebooks would have provided crucial evidence of how the defendant had recorded each payment to Albert; the omission by the defendant to produce them pointed to his guilty knowledge.
+
+#### (g)   Defendant stood to gain
+
+22     It was the prosecution’s case that the defendant and his wife stood to gain from Sinflora’s increased sales to Island. He and his wife each owned 50% of the shares of Sinflora.[^19]
+
+23     In addition, the defendant and his wife stood to gain from Sinflora’s _import sales_ to Island. The defendant used one of his companies, Sunflower Industrial Co Ltd (“**Sunflower**”), which was based in China, as the handling agent to arrange the shipment of plants and flowers from the supplier’s nursery in China to Singapore. The defendant and his wife each owned 50% of the shares of Sunflower.[^20] Increased import sales from Sinflora to Island would therefore result in increased business for Sunflower, and hence the benefit to the defendant. The value of the business generated for Sunflower for each import sale could be gleaned from Exh P10 (at the rightmost column of the tables, titled “Cost of Transport with GST”).
+
+#### (h)   Inference of guilty knowledge
+
+24     It was the prosecution’s case that the cheques given by the defendant to Albert were corrupt gratification, as an inducement for Albert to advance Sinflora’s business interests with Island. The defendant’s guilty knowledge could be inferred from the surrounding facts. The cheques were given not once or twice, but _eight_ times, and were for significant amounts. The cheques were given amid rising sales volumes between Sinflora and Island. The defendant never produced the chequebook stubs to show how the “loans” were recorded. He did not require Albert to repay the “loans”. Even though Albert had only made a small repayment, the defendant lied in his statements to the CPIB that the loans had substantially been repaid.
+
+#### Submission of no case to answer
+
+25     At the close of the prosecution’s case, the defence made a submission of no case to answer.[^21] I found the submission to be without merit. On the evidence led by the prosecution, there was some evidence, not inherently incredible, that satisfied the elements of each charge against the defendant. There was evidence of gratification (in the form of the eight cheques given by the defendant to Albert). There was also evidence led in the prosecution’s case from which it could be inferred that, given their subsisting business relationship, the large amounts given and the defendant’s lies to the CPIB, that the gratification was an inducement to Albert, that there was an objective corrupt element in the transactions and that there was subjective guilty knowledge on the part of the defendant.
+
+26     Accordingly, the defendant was called upon to enter his defence.
+
+#### Defence
+
+27     The defendant elected not to testify. The defence relied on evidence adduced in the course of the prosecution’s case.
+
+28     The crux of the defence was that Albert was a long-time family friend of the defendant. He decided to lend money to Albert as Albert needed medical treatment and was in dire financial straits at the material time between 2008 and 2010. The cash cheques were bona fide loans and had nothing to do with advancing the business interests of Sinflora.
+
+#### (a)   Bona fide loans between friends
+
+29     The defence highlighted Albert’s testimony that he had known the defendant’s family for over 30 years. Albert was first introduced to the defendant through the defendant’s father. Albert and the defendant developed a friendship over time and Albert had known the defendant for more than 10 years. Albert accumulated medical bills as a result of a major surgery in 2008. He had no relatives to approach for a loan. Albert needed financial assistance and he approached the defendant for a loan.[^22] (In a medical report dated 16 March 2015 prepared by consultant orthopaedic surgeon Dr Tay Chong Kam, it was recorded that Albert underwent spinal surgery in 2008.[^23])
+
+30     In the defendant’s statements to the CPIB, he stated that he had always considered Albert as a friend. His friendship with Albert was established as a result of their business interactions over the years:
+
+> Sinflora has been in business with Island Landscape for more than 15 years and I know most of the people at the company. We sell flowers and plants in wholesale to Island and although they provide a small profit margin, _we still choose to maintain business with the company because of the friendship that we have established over the years._ One of the persons from Island that I am quite close to is Albert \[...\] and _our friendship was established because of the business interactions that we had_. There were a few occasions when I had loaned him money during his times of financial crisis. [^24]
+
+\[emphasis added\]
+
+31     The defendant stated that “Albert would share his problems with me in private at my office over coffee and he would then ask me for the sum of money that he needs”.[^25] The loans were given to Albert “because he needed it and it was on a personal basis”.[^26] The defendant sympathised with Albert as “he had been in and out of the hospital the past year. So I did not ask him to stop borrowing money from me, nor did I ask him to pay.”[^27] He loaned the money to Albert as he treated Albert as a friend:
+
+> I wish to say that I loan the money to Albert purely based on friendship. I have known him for more than 20 years and I really treat him as a friend. [^28]
+
+32     In his statements he consistently referred to the cash cheques as _loans_ and denied that they were bribes. Albert did not promise him anything in return for the loans.[^29] He “did not expect any favour” from Albert when he loaned the money to Albert.[^30] In his cautioned statements recorded on 20 July 2017, he reiterated that the monies were loans and not gratifications, and there was no inducement and advancing of business for Sinflora.[^31]
+
+#### (b)   No identifiable net financial benefit to pay $143,000 in bribes
+
+33     The defence called Mr Timothy James Reid, a Director of Ferrier Hodgson Pte Ltd, to testify as an expert witness (DW1, “**Mr Reid**”). Mr Reid tendered a report dated 27 July 2018 (Exh D4, the “**Report**”). The Report stated, among other things, that:
+
+> (a)     The total Assessed Incremental Net Profits after Tax for Sinflora over the five-year period from 2008 to 2012 ranged from a loss of $443 to a profit of $4,039.[^32]
+
+> (b)     Sinflora’s total sales to Island increased from 2008 ($340,062) to 2009 ($355,571), and subsequently decreased in 2010 ($346,145) and 2011 ($337,971) and 2012 ($294,017).[^33]
+
+34     Mr Reid opined in the Report that his analysis “cannot reasonably conclude that there was a direct correlation between any increase in sales and the payments being made.”[^34] He also stated his view that “there appears to be no identifiable financial benefit that would support \[the defendant\] paying S$143,000 to \[Albert\] as gratifications to advancing the business interests of Sinflora with Island.”[^35]
+
+#### (c)   No link between the loans and Sinflora’s sales to Island
+
+35     It was submitted by the defence that if there was a link between the loans and Sinflora’s sales, Sinflora’s sales would have been expected to increase on a year-to-year basis from 2009 to 2011 (in the years the loans were given). The sales figures (summarised at \[33(b)\], above) showed however that:
+
+> (a)     There was a decline in Sinflora’s sales to Island from 2009 ($355,571) to 2010 ($346,145).
+
+> (b)     Further, the yearly sales hovered around $300,000 for 2010 to 2012 (and did not drop drastically after the payments from the defendant to Albert stopped).
+
+36     The defence highlighted the testimony of Albert that his purchasing decisions, including orders placed with Sinflora, were simply made in response to the _demand_ from Island’s customers.[^36] (There was no suggestion that Island’s orders from Sinflora during the material period was influenced by the loans that Albert received from the defendant.) Albert had also stated that other department heads in Island similarly had authority to decide which suppliers to buy plants from.[^37] It was the case for the defence that the fact that Sinflora’s sales volume to Island did not decline much after 2010 showed that Island had always been ordering in response to customer demand (and were not linked to the loans given by the defendant to Albert).
+
+#### Issues before the court
+
+37     The elements of each of the eight charges faced by the defendant were as follows:
+
+> (a)     The defendant gave gratification to Albert;
+
+> (b)     The gratification was given as an inducement for Albert to advance the business interests of Sinflora with Island;
+
+> (c)     There was an objective corrupt element in the transaction; and
+
+> (d)     The defendant gave the gratification with guilty knowledge.
+
+38     The defence disputed the presence of all four elements.
+
+39     The key issue before the court was largely a question of fact: whether the eight cheques given by the defendant to Albert were bona fide, innocuous loans between personal friends, or were given _corruptly_.
+
+#### Decision
+
+#### (a)   The eight cheques were “gratification”
+
+40     It was not in dispute that the defendant gave Albert the eight cheques over seven occasions between November 2008 and December 2010 (summarised at \[11\], above). The cheques were for sums of between $10,000 and $30,000. Two cheques of $30,000 each were given on the same day, on 21 November 2008 (relating to the 2nd and 3rd charges). By these cheques a total sum of $143,000 was transferred by the defendant to Albert.
+
+41     These eight cheques clearly fell within the definition of “gratification” under the PCA. Section 2 of the PCA contains an expansive definition of “gratification”:
+
+> “gratification” includes — (a) money or any _gift_, _loan_, fee, reward, commission, _valuable security or other property_ or interest in property of any description, whether movable or immovable; \[...\]
+
+42     Even if the cheques were “loans”, as contended by the defence, they would fall within the definition of “gratification”. The defendant had appeared to be labouring under the misconception that if the amounts were loans and the loans were repaid, they would not constitute a bribe (at \[20\], above). Under the law, however, a loan even if repaid wholly or partially would still fall within the definition of “gratification” and can constitute a bribe. Each cheque given by the defendant to Albert was plainly a “gratification” within the meaning of the PCA.
+
+#### (b)   Defendant’s relationship with Albert was business, not personal
+
+43     It was the case for the defence that the loans were given between friends and therefore not corrupt. It was submitted that the defendant and Albert became friends as a result of their extended business interactions. While the friendship was birthed out of the business context, it developed over time to one which was personal in nature. Given the parties’ good relationship, Albert chose to approach the defendant when he needed help financially, as Albert did not have any relatives. Seeing that Albert was in dire financial straits, the defendant extended a helping hand to his friend. Albert’s purpose in obtaining the loan from the defendant had nothing to do with the business.
+
+44     The prosecution submitted, however, that the defendant and Albert were merely “friends” in the context of business. Albert did not mention any personal relationship he had with the defendant. Albert’s evidence was that they did not socialise with each other, and this point was not challenged by the defence in cross-examination. Albert’s testimony, under cross-examination, was that he first got to know the defendant’s father, and he had known the defendant’s father for 30 years (counting back from 2019),[^38] and not the _defendant_ himself. The basis of Albert’s relationship with the defendant’s father was also business – he had bought flowers from the defendant’s father’s company since the 1980s. Albert did not testify that he had a close relationship with the defendant.
+
+45     On the evidence, I agreed with the submission of the prosecution, and found the relationship between the defendant and Albert to be primarily a _business_ relationship. Their friendship was in the context of business; they were not personal friends outside of the business context. As the defendant himself described, “We are _just okay friends_ but we are more than just business associates”; he and Albert did not go out for any “social outings”.[^39] Quite plainly, the defendant and Albert were not such close personal friends that the defence had sought to portray them to be.
+
+#### (c)   The “loans” were substantial, and largely unrepaid
+
+46     The defendant had sought to downplay the extent of the payments he made to Albert. He stated in one of his statements to the CPIB that “the amount that \[Albert\] asked for was _never too extravagant_ and it would be _only for about S$10,000_/-”.[^40] It was undisputed, however, that he had in fact given cheques of between $10,000 to $30,000 to Albert. The defendant also initially stated that the total loan he gave to Albert was between $60,000 and $90,000,[^41] which was much smaller than the sum of $143,000 that was in fact given to Albert.
+
+47     I accepted the submission of the prosecution that the amounts of the so-called “loans” were significant. The total of $143,000 that the defendant gave to Albert in the eight cash cheques ranging from $10,000 to $30,000 was a sizeable amount even between close friends, let alone merely business friends.
+
+48     I also accepted the submission of the prosecution that on the evidence, the defendant did not require Albert to repay the loans; he did not set any repayment terms. Albert’s testimony was that he only made a small repayment of about $2,000 in 2010, and this point was not challenged by the defence in cross-examination. The remaining amount of the “loans” was never repaid. These loans “quickly took on the complexion of gifts” when the defendant made no effort to recover them: _Hassan bin Ahmad v PP_ <span class="citation">\[2000\] 2 SLR(R) 567</span> at \[22\].
+
+#### (d)   Defendant lied to the CPIB that the “loans” had been repaid
+
+49     I also accepted the submission of the prosecution that the defendant had been untruthful in his statements to the CPIB about the extent to which the “loans” had been repaid. He told the CPIB that _most_ of the loans had been repaid by Albert, and he gave a detailed account of the repayments made by Albert of various sums on a variety of occasions (set out at \[19\], above). This was, however, contradicted by the testimony of Albert, who said that he had only (once) repaid the defendant about $2,000 sometime in 2010. Albert’s testimony on this point was not challenged by the defence in cross-examination. The irresistible inference must be that what the defendant had told the CPIB was untrue. Further, given his detailed account of how Albert had repaid most of the loans over several occasions, the irresistible inference must be that this elaborate story was a deliberate lie.
+
+#### (e)   Inference that the payments were corrupt
+
+50     In determining whether the payments were corrupt, it was necessary to draw inferences from the objective facts including circumstantial evidence. Ascertaining a corrupt intent is often a matter of inference from the surrounding circumstances. In _PP v Low Tiong Choon_ <span class="citation">\[1998\] 2 SLR(R) 119</span> the High Court explained at \[30\]:
+
+> 30    It is of course an evidential exercise, sometimes a difficult one, when the court has to infer the accused’s intention behind the transaction – what was the accused’s intention or reason for giving or receiving the gratification? In this respect, the surrounding circumstances of the case will no doubt assist the judge in inferring what this intention or ulterior motive (if any) is. Hence, _surreptitiousness or furtiveness of the transaction, the size of the gratification, relationship of the parties, breaking of rules or code may, as far as relevant, form part of that surrounding circumstances which, together with all the other evidence, will point towards the proper intention to be inferred_.
+
+( _Emphasis_ added)
+
+51     It was submitted by the defence that the loans were not corrupt. The defendant made no attempts to hide his loans to Albert. He had issued cash cheques drawn from the joint bank account of the defendant and his wife, which would have left an obvious documentary trail. If the loans were intended to be bribes, the monies would have been disbursed by way of cash rather than through cash cheques. There was nothing surreptitious about the manner in which the defendant gave the monies to Albert. In his statements to the CPIB, he consistently referred to the cash cheques as loans and denied that they were bribes. At no point in time did he possess any subjective knowledge that his payments to Albert were more than simple loans to help a friend in need. The defence submitted that not all loans between friends doing business together are corrupt in nature. In such a scenario, there will always be some advantage to be potentially gained due to parties’ undergirding business relationship, but that fact alone does not transform a _bona fide_ loan into a corrupt payment.[^42]
+
+52     It was highlighted by the prosecution, however, that the defendant had given the cheques to Albert, at the latter’s request, while their business relationship was subsisting. The defendant knew that Albert had the authority to select Sinflora as Island’s supplier. While there was no direct evidence that Albert had expressly promised the defendant increased business for Sinflora in return for the “loans”, the law does not require that a favour must be _expressly_ promised in exchange for a bribe. As was explained by the High Court in _PP v Tang Eng Peng Alan_ <span class="citation">\[1995\] 2 SLR(R) 672</span> at \[20\]:
+
+> \[...\] there is no necessity in law for an express request for a bribe or an express reference to a favour to be shown in order to establish a charge of corruption. To impose such a condition is undesirable and far too restrictive; the nets would not be cast wide enough to catch the often subtle and sophisticated forms of corruption. \[...\]
+
+53     The prosecution also pointed to what the defendant had said in his statements to the CPIB, that he would only loan money to friends and relatives of a “few thousand dollars”, and “not to people who have not repaid money they borrowed” from him.
+
+> I wish to say that I do not give loans to just anyone who asks. _I will only loan money to friends and relatives, and not to people who have not repaid money they borrowed from me. A few thousand dollars is a small amount for me and I would loan it to them_. I do not need them to have a specific or good reason before I loan them the money, but most people will come to me with a reason. Sometimes, I would even loan them the money even without a reason. If I come across sick patients who need help and cannot afford the treatment, I would also contribute to help them\[.\][^43]
+
+(emphasis added)
+
+The prosecution submitted that, by the defendant’s own standards, the “loans” that he gave to Albert, which totalled $143,000 and which was largely unrepaid, could not have been friendly loans. Further, if the defendant had loaned Albert the sum because they were friends and to help Albert cope with his medical expenses, there would have been no reason to lie about the repayment (discussed at \[19\], \[49\], above). The irresistible inference from his lies was that the monies were given corruptly.
+
+54     I accepted the submission of the prosecution. I found the payments by the defendant to Albert to be corrupt. The eight cheques were given by the defendant to Albert while there subsisted a business relationship in which the defendant’s company (Sinflora) supplied plants to Island, and Albert was in a position of authority to decide whether or not to select Sinflora as Island’s supplier. The total amount given by the defendant to Albert was $143,000 which, by any account, was a very substantial sum, even though the defendant and Albert did not have a close personal relationship. While Albert’s medical condition and financial difficulties at the material time could have provided the context in which Albert sought the “loans” from the defendant, the defendant’s motive in agreeing to give the “loans” to Albert was not entirely altruistic; it was to induce Albert to show favour to Sinflora, and thus advance the business interests of Sinflora with Island. There was no other plausible motive. The gratification in the form of the eight cash cheques that the defendant gave to Albert were therefore objectively corrupt. The defendant’s subjective guilty knowledge that the “loans” were corrupt was evident from his deliberate lies to the CPIB that he had loaned Albert much smaller amounts, and that most of the loans had been repaid by Albert (\[46\]-\[49\], above). Also, as was pointed out by the prosecution, the defendant failed to produce the chequebook stubs to show how he had recorded the “loans” although it would have been reasonable to expect him to do so if the payments were indeed innocuous.
+
+#### (f)   Adverse inference from defendant’s election not to testify
+
+55     One issue that the court had to consider was whether an adverse inference ought to be drawn from the defendant’s election not to testify. Under s 230(1)(m) of the _Criminal Procedure Code_ (Cap 68), in deciding whether the defendant was guilty of the charges, the court may draw such inferences as appear proper from his refusal to give evidence, including inferences that may be adverse.
+
+56     It was submitted by the defence that an adverse inference should not be drawn against the defendant.[^44] The defendant’s statements were all exculpatory. He had specifically denied any corrupt intention and maintained that these loans were _bona fide_ in nature. Given that his consistent denial of any corrupt intent in his statements was corroborated by the prosecution’s evidence adduced at trial, the entire defence had already been disclosed in the course of the prosecution’s case. It was submitted that the prosecution’s evidence did not call for any explanation that the defendant alone could give; that there was simply nothing further that the defendant could add by giving evidence.
+
+57     I was unable to agree with this submission of the defence. In the course of the testimony, there were certain aspects of the evidence that called for an explanation from him. Most significantly, the defendant had been untruthful in his statements to the CPIB concerning the amount of “loans” he made to Albert and the extent to which the loans had been repaid (discussed at \[46\]-\[49\], above). The defendant had also failed to produce the chequebooks from which the cheques had been issued, despite the request being made by the CPIB in the course of investigations (discussed at \[21\], above). These were indicative of the defendant’s guilty knowledge that the giving of the cheques was corrupt. They were matters within the defendant’s knowledge and called for an explanation from him. Yet he chose to remain silent and offered no explanation.
+
+58     It has been opined that “\[w\]here evidence which has been given calls for an explanation which the accused alone can give, then silence on his part may lead to an inference that none is available and that the evidence is probably true”: Prof Tan Yock Lin, _Criminal Procedure_ vol 2 (LexisNexis, 2005) at ch XV para 3003, cited by the Court of Appeal in _Took Leng How v PP_ <span class="citation">\[2006\] 2 SLR(R) 70</span> at \[43\]. I accepted the submission of the prosecution that an adverse inference should be drawn from the defendant’s election to remain silent. The adverse inference to be drawn was that the defendant was unable to provide a reasonable explanation for his untruthfulness to the CPIB and his lack of cooperation in producing the relevant documents that were required for investigations. From the defendant’s failure to produce the chequebooks from which the cheques had been issued, which he ought to have been able to produce without difficulty, the inference could be drawn that, if produced, they would have proved unfavourable to him: illustration (g) to s 116 of the _Evidence Act_ (Cap 97).
+
+59     Specifically, the inference to be drawn from the defendant’s election to remain silent was that the eight cheques he gave to Albert were corrupt, and he really had no good explanation to give in his defence.
+
+60     Further, the fact that the defendant elected to remain silent meant that certain submissions that the defence sought to make had either: (a) _no evidential basis_; or (b) _carried little weight_ in that, while they were based on the contents of the defendant’s statements to the CPIB, the truthfulness of the statements had not been tested in cross-examination. These included the following submissions by the defence:
+
+> (a)     That the defendant _did not lie_ about the loans and Albert’s repayment – he was simply _unable to recall_ the exact amounts that he had loaned and the amounts that Albert had repaid. He had a different recollection from Albert, and while his recollection may differ from Albert’s, it did not mean that he was lying.[^45]_Fatigue could_ have affected the defendant’s ability to recollect the precise sums.[^46]
+
+> (b)     That the _loans were not significant_, that the defendant “did not even realise” that he had lent $143,000 to Albert, and he did not consider the amounts loaned to Albert to be extravagant.[^47]
+
+> (c)     That even if there was no discussion on repayment, it did not mean that the defendant did not expect repayment. There were good reasons why the defendant did not broach the _issue of repayment_ at the time when he agreed to give the loans to Albert. Given the long friendship between the defendant and Albert and the fact that Albert was in poor health, the defendant would have come across as unsympathetic if he had immediately sought to nail down the terms of repayment when Albert was already struggling with his health and finances. He simply wanted to help Albert and would have been prepared to write off the loans if Albert was really unable to repay the loans.[^48]
+
+> (d)     That the defendant had tried his best to assist the CPIB to locate his chequebooks. There could be many different reasons why he was _unable to locate the chequebooks_. He had used his best efforts to assist CPIB to locate the chequebooks, but to no avail. The whereabouts of the chequebooks were unknown to him, and he simply could not produce them to the CPIB.[^49]
+
+> (e)     Sinflora’s sales to Island represented only 1% of the total Sinflora Group revenue, and there was no commercial reason for the defendant to make the alleged corrupt payments to Albert. Island was _not a significant client_ of the Sinflora Group, and there would be little commercial reason or incentive to bribe Albert in order to advance Sinflora’s business interests.[^50]
+
+#### (g)   Lack of benefit did not imply lack of corrupt intent
+
+61     The defence relied on the opinion of Mr Reid that his analysis “cannot reasonably conclude that there was a direct correlation between any increase in sales and the payments being made”[^51] and “there appears to be no identifiable financial benefit that would support \[the defendant\] paying S$143,000 to \[Albert\] as gratifications to advancing the business interests of Sinflora with Island”[^52]. The defence submitted that any increase in Sinflora’s sales from 2008 to 2010 was far less than the $143,000 which the defendant transferred to Albert. It simply would not have made commercial sense for the defendant to keep extending loans to Albert if the loans were indeed bribes for Albert to show favour to Sinflora. If the monies were indeed bribes, the defendant would be expected to stop advancing monies to Albert once it was apparent that the sales figures were dropping. Yet the defendant continued to advance moneys to Albert even from 2009 to 2011, when Sinflora’s year-on-year sales to Island were on a consistently declining trend.
+
+62     The prosecution submitted, however, that a payment can be corrupt even if the payer (in this case the defendant) received no monetary benefit as a result: _Thor Chi Tiong v PP_ (MA 9123 of 2016)_._ It was pointed out that the charges against the defendant related to _inducement_, not reward. At the point of time the defendant decided to give moneys to Albert, he would not have known how much sales Albert would generate for Sinflora. He could only _hope_ that the sales volume would increase. There was no guarantee that the sales volume would always increase and by the amount expected or hoped for by the defendant. Even if the sales volume did not increase and he did not get any profit, or he obtained a profit which was less than the amounts gratifications he had given to Albert, it would not detract from his intention to induce Albert to purchase more plants from Sinflora. His culpability was not dependant on how much benefit he gained with the gratification he gave.
+
+63     I accepted the submission of the prosecution. Where the charges are based on an inducement (for example, giving a bribe to induce future business), the giving of the gratification may be corrupt even if the benefit intended or hoped for by the giver of the bribe was not realised. The giver may even _persist_ in giving the gratification to the recipient in the expectation or hope of eventual benefit. That there was no apparent _immediate_ benefit after the gratification was given did not make it any less corrupt. Indeed, had there been clear evidence of benefit, such as an obvious enhancement of the business following the payment of gratification, that might have provided additional evidence of the payments being corrupt. But it was not critical that such an immediate, corresponding benefit be proved in order for a charge of corruption premised on an inducement to be made out.
+
+64     I would also add that I did not find the analysis and opinion in Mr Reid’s Report to be of any assistance in determining the issue of whether the payments were corrupt. As was pointed out by the prosecution, Mr Reid’s analysis was flawed in that he had not been informed that the defendant and his wife each owned 50% of the shares of Sunflower (discussed at \[23\], above); and the Report did not factor in the earnings from Sunflower in his calculations.[^53] In any case, as explained in the preceding paragraph, there need not necessarily be any direct correlation between the benefit (an increase in sales) and the gratification (the cheques given by the defendant to Albert to induce the benefit).
+
+#### (h)   Verdict
+
+65     Accordingly, having considered the totality of the evidence, I found that the defendant gave the eight cheques to Albert amounting to a total of $143,000 _corruptly_ to induce Albert to advance Sinflora’s business interests with Island. The payments were not bona fide, innocuous loans between personal friends, as contended by the defence. The prosecution had proven the charges against the defendant beyond a reasonable doubt, and he was found guilty and convicted on all the charges.
+
+## SENTENCE
+
+#### Prosecution’s submissions
+
+66     The prosecution sought sentences of varying lengths of imprisonment for each charge: one month’s imprisonment for the charges involving gratification of $10,000; 2 months’ imprisonment for the charges involving $20,000 or less; and 3 months’ imprisonment for the charges involving $30,000. It was submitted that at least three sentences ought to run consecutively, giving a total sentence of at least 6 to 9 months’ imprisonment.[^54]
+
+67     It was submitted that the custodial threshold had been crossed. The main sentencing considerations for corruption cases are that of deterrence and punishment. The facts of the present case fell within the first category of cases stated by Menon CJ in _PP v Syed Mostofa Romel_ <span class="citation">\[2015\] 3 SLR 1166</span> (“**_Romel_**”) at \[26(a)\], _i.e._, where the receiving party was paid to confer on the paying party a benefit that was within the receiving party’s power to confer without regard to whether the paying party ought properly to have received that benefit. Albert was paid to confer on the defendant (or Sinflora), a benefit that was within his power to confer, since he had the ultimate authority to select suppliers for Island.
+
+68     The prosecution submitted that there were a number of aggravating factors. The defendant abused his directorship in Sinflora in committing the offences. There was sustained and persistent offending: the defendant committed a total of eight offences between November 2008 and December 2010, a period in excess of two years. The offences finally came to a stop when CPIB commenced investigations in early 2011. The amount of bribes was large.
+
+#### Plea in mitigation
+
+69     The defence suggested a sentence of a total fine of $214,500 (which was three times the total gratification amount of $143,000 with a 50% discount applied).[^55]
+
+70     It was submitted that the custodial threshold had not been crossed. The defendant had not initiated the bribe. He was less culpable than Albert, who had approached him for loans. The public sector rationale was not implicated; there was no suggestion that the present case involved any strategic setting or undertaking or enterprise. There was no evidence that Albert conferred benefit to Sinflora in response to the gratification from the defendant. There was no evidence of detriment suffered by Albert’s principal, Island. The defendant’s culpability was on the low end of culpability for corruption cases.
+
+71     It was further submitted that the defendant had no antecedents. He was of good character. Character references were tendered to show the defendant to be a caring and giving man. He extended help whenever and wherever help was needed, not only to his family and friends, but to the wider community. He was a generous person who gave loans and financial aid to those who were in need. It was submitted that he had rendered his full cooperation to the authorities at every stage of the investigations.
+
+72     The quantum of each transaction ranged from $10,000 to $30,000. It was submitted that, therefore, for each of the charges, a fine can be suitably imposed if the offence registered a low level of culpability. The defence relied on the following pronouncement in _Romel_ at \[20\]:
+
+> Where private sector agents are concerned, offences which register a lower level of culpability _can_ be dealt with by the imposition of fines. Such cases are _generally_ those where the amount of gratification is below $30,000 and where there is no real detriment to the interests of the principal (see _Practitioners’ Library: Sentencing Practice in the Subordinate Courts_ vol 2 (LexisNexis, 3rd Ed, 2013) (“_Sentencing Practice in the Subordinate Courts_”) at p 1375). \[...\]
+
+73     It was further submitted that there had been a delay of over eight years since investigations were commenced in 2011.[^56] The defendant had repeatedly requested the authorities to expedite their investigations. The delay had resulted in grave prejudice to the defendant. He had suffered mental anguish, anxiety and distress in having the charges hanging over his head. A 50% discount on the quantum of the fine was appropriate in view of the delay.
+
+74     The defence made a further, alternative submission, with reference to the case of _Gan Chai Bee Anne v PP_ <span class="citation">\[2019\] SGHC 42</span> (“**_Gan Chai Bee Anne_**”).[^57] It was submitted that if the court found in determining the overall sentence that the custodial threshold was crossed, then an appropriate custodial sentence would be one to two months (per charge), with the sentences for two of the charges to run consecutively – resulting in an aggregate sentence of two to four months’ imprisonment. A 50% discount should then be applied given the delay of more than eight years, resulting in an overall sentence of one to two months’ imprisonment.
+
+#### Sentencing considerations
+
+#### (a)   Custodial sentence necessary as a deterrent
+
+75     The prescribed punishment under s 6(b) PCA is a fine not exceeding $100,000 or imprisonment for a term not exceeding 5 years or both. In deciding upon the appropriate sentence, the primary sentencing objective is _deterrence_.
+
+76     It was my judgment that, on the facts of the present case, a fine was not appropriate and a custodial sentence was warranted as a deterrent. The amounts involved in the eight charges, which ranged from $10,000 to $30,000, were substantial. Taken together, the total amount of gratification was a very large sum of $143,000. It was not a one-off act of corruption, but persisted over the course of a two-year period, from November 2008 to December 2010. The defendant was not cooperative in the course of investigations. He initially understated the amount of money he had loaned to Albert; and he subsequently gave an elaborate account of the repayments made by Albert, which was false. He failed to produce to the CPIB the chequebooks from which the eight cheques had been issued. He subsequently did not admit to the charges but claimed trial. The offences, taken individually, could arguably have warranted only a fine as submitted by the defence (above, at \[72\]). However, considering the “totality of \[the defendant’s\] criminal conduct” (_Gan Chai Bee Anne_, at \[75\]) a very substantial increase in the individual sentences – involving the imposition of custodial sentences – was justified to achieve the aim of deterrence.
+
+#### (b)   Sentences received by Albert (receiver of the bribes)
+
+77     The defendant and Albert were involved in the same corrupt transactions as the giver and receiver of the bribes, respectively. For reasons of parity, the sentences meted out in Albert’s case provided an appropriate starting point to determine the appropriate custodial sentence to impose on the defendant.
+
+78     Albert was charged with eight mirror charges under s 6_(a)_ of the PCA, for corruptly accepting gratification from the defendant. On 4 May 2015 he pleaded guilty to three of the eight charges and was sentenced as follows:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="23.4153169366127%"> <col width="27.2345530893821%"> <col width="17.0965806838632%"> <col width="32.253549290142%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Albert</b></p><p align="justify" class="Table-Para-1"><b>(s 6(a) PCA)</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Defendant</b></p><p align="justify" class="Table-Para-1"><b>(s 6(b) PCA)</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Amount</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Sentence (Albert)</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC 11690-2014</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC-925053-2017</p><p align="justify" class="Table-Para-1">(1st Charge)</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">$10,000</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">TIC</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC 11691-2014</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC-925055-2017</p><p align="justify" class="Table-Para-1">(2nd Charge)</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">$30,000</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">4 months’ imprisonment. (consecutive)</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC 11692-2014</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC-925056-2017</p><p align="justify" class="Table-Para-1">(3rd Charge)</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">$30,000</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">4 months’ imprisonment. (consecutive)</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC 11693-2014</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC-925057-2017</p><p align="justify" class="Table-Para-1">(4th Charge)</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">$20,000</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">4 months’ imprisonment.</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC 11694-2014</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC-925058-2017</p><p align="justify" class="Table-Para-1">(5th Charge)</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">$10,000</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">TIC</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC 11695-2014</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC-925059-2017</p><p align="justify" class="Table-Para-1">(6th Charge)</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">$18,000</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">TIC</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC 11696-2014</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC-925060-2017</p><p align="justify" class="Table-Para-1">(7th Charge)</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">$15,000</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">TIC</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC 11697-2014</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC-925061-2017</p><p align="justify" class="Table-Para-1">(8th Charge)</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">$10,000</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">TIC</p></td></tr><tr><td align="left" class="r" colspan="3" rowspan="1" valign="top"><p align="right" class="Table-Para-1">Total sentence for Albert</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">8&nbsp;months’ imprisonment.</p></td></tr></tbody></table>
+
+  
+  
+
+79     Albert also surrendered $143,000 (the amount of the bribes that he received from the defendant), which was forfeited to the State. Albert’s appeal against his sentence was dismissed on 9 September 2016, and he has since served the sentence.
+
+#### (c)   Appropriate sentence
+
+80     In respect of the individual offences, I accepted the submission of the defence that the culpability of the defendant was lower than Albert, considering that it was not the defendant who initiated the offer of the bribes, but Albert who approached the defendant to ask for the money on each occasion. On the other hand, I accepted the submission of the prosecution that Albert’s sentence was likely to have been a discounted sentence on account of his early plea of guilt and remorse and cooperation with the CPIB. The defendant, in comparison, was unremorseful and had not cooperated in the investigations. In claiming trial and being found guilty after the trial, the sentencing discount that Albert had received would not apply to the defendant.
+
+81     While the lapse of time between the investigation of the matter and the present trial may have caused distress and anxiety to the defendant, there was no evidence that the delay had caused the defendant any real prejudice: see _Ang Peng Tiam v Singapore Medical Council_ <span class="citation">\[2017\] 5 SLR 356</span> at \[109\]–\[118\]. Further, I did not find that there had been an unreasonable delay caused by the prosecution. The delay was caused in part by the defendant’s lack of cooperation with the CPIB and his decision to contest the charges. I did not accept the submission of the defence that the purported delay warranted a 50% discount in the sentence.
+
+82     It was my judgment, on balance, that the sentences for the defendant for the individual offences, as well as the global sentence, ought to be _lower_ than that meted out to Albert. For the offences involving payments of $15,000 or less, I considered it appropriate to impose a sentence of one month’s imprisonment; and for the offences involving more than $15,000, a sentence of two months’ imprisonment. In order to reflect adequately the gravity of the defendant’s offences, given the number of charges proceeded against him, I considered it appropriate that three of the sentences be ordered to run consecutively for a total of five months’ imprisonment. (This was less than the sentence of 4 months’ imprisonment per charge and global sentence of 8 months’ imprisonment received by Albert: above, at \[78\].)
+
+#### Sentence imposed
+
+83     Accordingly, the following sentences were imposed:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="27.68%"> <col width="33.54%"> <col width="38.78%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Charge</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Description</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Sentence</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC-925053-2017</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">s 6(b) PCA (gratification of $10,000)</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">One month’s imprisonment.</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC-925055-2017</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">s 6(b) PCA (gratification of $30,000)</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b><em>2 months’ imprisonment. (Consecutive)</em></b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC-925056-2017</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">s 6(b) PCA (gratification of $30,000)</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">2 months’ imprisonment.</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC-925057-2017</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">s 6(b) PCA (gratification of $20,000)</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b><em>2 months’ imprisonment. (Consecutive)</em></b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC-925058-2017</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">s 6(b) PCA (gratification of $10,000)</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">One month’s imprisonment.</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC-925059-2017</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">s 6(b) PCA (gratification of $18,000)</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">2 months’ imprisonment.</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC-925060-2017</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">s 6(b) PCA (gratification of $15,000)</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b><em>One month’s imprisonment. (Consecutive)</em></b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC-925061-2017</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">s 6(b) PCA (gratification of $10,000)</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">One month’s imprisonment.</p></td></tr><tr><td align="left" class="" colspan="3" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Total sentence: 5&nbsp;months’ imprisonment.</b></p></td></tr></tbody></table>
+
+  
+  
+
+84     The defendant is presently on bail pending the appeal.
+
+* * *
+
+[^1]: Transcript, 21 January 2019 (Day 2), p 76 (lines 11-14), p 82 (line 21) - p 83 (line 13).
+
+[^2]: Exh P4, \[23 QA7\].
+
+[^3]: Transcript, 21 January 2019 (Day 2), p 101 (line 23) - p 102 (line 17).
+
+[^4]: Exh P4, \[22\], \[23 QA1 - QA4\].
+
+[^5]: Exh P4, \[17\].
+
+[^6]: Exh P6, \[31\]-\[33\].
+
+[^7]: Transcript, 22 January 2019 (Day 3), p 5 (line 22) – p 6 (line 8).
+
+[^8]: Exh P3, \[6\]; Exh P4, \[18 QA4, QA5, QA8\].
+
+[^9]: Transcript, 22 January 2019 (Day 3), p 6 (lines 9-17).
+
+[^10]: Exh P3, \[5\].
+
+[^11]: Exh P3, \[10 QA1\].
+
+[^12]: Exh P4, \[17\].
+
+[^13]: Exh P4, \[20\].
+
+[^14]: Exh P4, \[21\].
+
+[^15]: Exh P7, \[45 QA6\].
+
+[^16]: Exh P3, \[10 QA1\].
+
+[^17]: Exh P4, \[14\].
+
+[^18]: Exh P5, \[29 QA8\].
+
+[^19]: Exh P3, \[2\].
+
+[^20]: Exh P6, \[38\].
+
+[^21]: DS2.
+
+[^22]: Transcript, 21 January 2019 (Day 2), p 85 (lines 14-25), p 102 (lines 8-14), p 103 (lines 619), p 104 (lines 8-24), p 105 (lines 7-8);  22 January 2019 (Day 3), p 9 (line 11) – p 10 (line 4), p 31 (line 10) – p 32 (line 17), p 33 (line 22) – p 34 (line 5), p 35 (line 23) – p 37 (line 20).
+
+[^23]: Exh D1.
+
+[^24]: Exh P3, \[4\].
+
+[^25]: Exh P3, \[5\].
+
+[^26]: Exh P3, \[6\].
+
+[^27]: Exh P4, \[18 A8\]. See also Exh P6, \[34\].
+
+[^28]: Exh P7, \[45 A7\].
+
+[^29]: Exh P4, \[18 QA1, QA2, QA3\].
+
+[^30]: Exh P6, \[34\].
+
+[^31]: Exh P8.
+
+[^32]: Exh D4, p 8 (para 27).
+
+[^33]: Exh D4, p 10 (para 38).
+
+[^34]: Exh D4, p 41 (para 75).
+
+[^35]: Exh D4, p 52 (para 100).
+
+[^36]: Transcript, 21 January 2019 (Day 2), p 88 (line 24) – p 89 (line 17).
+
+[^37]: Transcript, 21 January 2019 (Day 2), p 82 (line 21) – p 83 (line 5).
+
+[^38]: Transcript, 22 January 2019 (Day 3), p 32 (lines 4-16).
+
+[^39]: Exh P4, \[23 QA1, QA2\].
+
+[^40]: Exh P3, \[8\].
+
+[^41]: Exh P4, \[17\].
+
+[^42]: DS4, at para 66.
+
+[^43]: Exh P4, \[19\].
+
+[^44]: DS3, at paras 259-269.
+
+[^45]: DS3, at paras 176-184, 250-252.
+
+[^46]: DS4, at para 108.
+
+[^47]: DS3, at paras 197-203.
+
+[^48]: DS3, at paras 205-209.
+
+[^49]: DS3, at paras 210-213, 253.
+
+[^50]: DS3, at paras 228-231.
+
+[^51]: Exh D4, p 41 (para 75).
+
+[^52]: Exh D4, p 52 (para 100).
+
+[^53]: Transcript, 31 January 2019 (Day 5), p 88 (line 5) – p 90 (line 17).
+
+[^54]: Prosecution’s Address on Sentence (PS5).
+
+[^55]: Plea in Mitigation (DS5), at para 3.
+
+[^56]: DS5, at paras 12-16.
+
+[^57]: Letter from counsel dated 12 April 2019 (DS6).
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F23636-SSP.xml)

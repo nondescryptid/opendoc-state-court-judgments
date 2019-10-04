@@ -1,0 +1,287 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Mao Xuezhong  
+
+### \[2019\] SGDC 198
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">DSC 900606/17</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">25 September 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Shaiffudin Bin Saruwan</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Mr Delvinder Singh &amp; Mr Mohd Fadhli for the Prosecution; Mr Khor Wee Siong &amp; Mr Avery Chong for the Accused</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Mao Xuezhong</td></tr></tbody></table>
+
+25 September 2019
+
+### District Judge Shaiffudin Bin Saruwan:
+
+## INTRODUCTION
+
+The Accused claimed trial to one count under s 15(3A) of the Workplace Safety and Health Act (Cap 354A) (“WSHA”). He was alleged to have performed, without reasonable excuse, a negligent act which endangered the safety of others. They comprised the following –
+
+> (i)     Instructing two workers under his charge, one Sohal and one Alam Khan, to descend onto a soffit top of an Alumna formwork (tableform) when it was unsafe to do so; and
+
+> (ii)     Failing to ensure that Sohal had anchored his safety harness before descending onto the soffit top.
+
+Sohal fell off the soffit top of the Alumna formwork and died as a result.
+
+## THE BACKGROUND FACTS
+
+2       The Accused was a formwork supervisor for Hong Khim Construction Pte Ltd (“Hong Khim”). At the date of the offence, he had been employed by Hong Khim for about one and a half years.
+
+3       Buildtech Construction Pte Ltd (“Buildtech”) was awarded a contract valued at $37.8 million to construct a 9-storey industrial building at 201 Henderson Road Apex @ Henderson Singapore (“the worksite”). The worksite was a worksite within the meaning in WSHA. Buildtech contracted Hong Khim to supply labour and tools for the reinforced concrete structure works. This included the erection of formworks, fixing of reinforcement and concrete casting. The supplied labour would report to and receive work from Buildtech at the worksite.
+
+4       Formwork is a temporary or permanent mold into which concrete or similar materials are poured. Apart from using traditional formworks, Buildtech rented a modular formwork system from HKL-Formaply Formwork Pte Ltd (“HKL”) for the construction of reinforced concrete beams and floor slabs at the worksite. Photo 1 below showed the type of formwork used at the worksite on the day of the accident –
+
+![]([2019] SGDC 0198_Image/[2019] SGDC 0198_image1.png)
+
+5       As of the date of the incident, the Accused had been deployed as a formwork supervisor at the worksite for about three months. His supervisory duties included deploying workers and assigning work to them at the worksite.
+
+6       Sohal was a 25 years old Bangladeshi national employed as a construction worker by Hong Khim and was part of the labour supplied to Buildtech. He had worked as a formwork worker at the worksite for about four months before his death.
+
+7       On 20 Jan 14, at about 7 am, the Accused assigned the supplied labour from Hong Khim to their respective tasks for that day, which was to carry out the dismantling and lifting of the Aluma formworks ie, tableforms from the fourth to the fifth floor of the building. Each tableform measured approximately 6 m by 3.6 m by 4.8 m, and weighed approximately 1170 kg. Before lifting, the tableform would be positioned in a manner where it partially protruded out from the edge of the fourth storey. The tableform rested on wheels or rollers to facilitate its movement. The partially protruded tableform was secured with guide ropes to prevent it from sliding or slipping (at the bottom left of Photo 2 below) –
+
+![]([2019] SGDC 0198_Image/[2019] SGDC 0198_image2.png)
+
+8       The tableform was partially protruded in order to facilitate the lowering of lifting gears or cables through the openings on the soffit top of the tableform (at top right of Photo 2). The lifting gears would be used to secure the tableform before it was lifted. The lifting gears were lowered using a tower crane, and threaded through the openings. In order to facilitate the threading of the lifting gears through the openings, the Accused instructed his workers to descend onto the soffit top of the partially protruded tableform to guide the lifting gears through the openings (see Photo 3 below) –
+
+![]([2019] SGDC 0198_Image/[2019] SGDC 0198_image3.png)
+
+9       Once this was done, riggers on the fourth storey would secure the lifting gears to the tableform (see Photo 4 below). The tableform would then be lifted to the fifth storey. That morning, the workers had lifted seven to eight Aluma tableforms in this manner before they stopped for their lunch break at 12 pm.
+
+![]([2019] SGDC 0198_Image/[2019] SGDC 0198_image4.png)
+
+10     The workers returned to resume their work at about 1 pm. The Accused assigned the workers to team up with Sohal and him to carry out the lifting and assembling of the Aluma tableforms at the fifth storey. After lifting a further two to three tableforms, the lifting work was stopped because the tower crane was deployed to lift other construction materials. During the pause, the tableform was secured with a guide rope.
+
+11     At about 2 pm, when the tower crane was again available, the lifting work recommenced. Sohal and one of his co-workers, Alam Khan, climbed beyond the horizontal guardrails at the edge of the fifth storey and descended onto the top of the protruding tableform. They did this in order to help thread the lifting gears through the two openings on top of the tableform. When Sohal and Alam Khan were standing on top of the tableform, it suddenly started to tilt downwards. Both Sohal and Alam Khan were wearing their body harnesses. But only Alam Khan had secured his body harness to a guardrail at the edge of the building, Sohal had not secured his body harness to an anchorage point. As a result, he slid off the tilting tableform and fell down on the third storey vehicle ramp. He passed away four days later from his injuries. Photo 5 below showed the position of the formwork after the accident.
+
+![]([2019] SGDC 0198_Image/[2019] SGDC 0198_image5.png)
+
+## THE TRIAL
+
+## The Prosecution’s Case
+
+12     The prosecution’ case was that –
+
+> (a)     The Accused had, without reasonable excuse, performed a negligent act which endangered the safety of others;
+
+> (b)     He had instructed Sohal and Alam Khan to descend into the soffit top of the Aluma formwork when it was unsafe to do so;
+
+> (c)     He had failed to ensure that Sohal had anchored his safety harness before descending onto the soffit top; and
+
+> (d)     The negligent act of the Accused had resulted in Sohal’s death.
+
+## The Defence’s Case
+
+13     The defence’s case was that he had not given instructions to Alam Khan and Sohal to descend onto the top of the formwork that had then tilted and caused Sohal to lose his life. He was not aware and/or was not informed that they were re-commencing the lifting work, therefore he could not have given the fateful instructions. Further, descending onto the top of the formwork in order to thread the lifting cables to the formwork was the established work procedure at the work site. The Accused and the workers had merely followed this work procedure. He had every reason to believe that the work procedure was safe.
+
+## The Undisputed Facts
+
+14     It was not disputed that on 20 Jan 14, the Accused was working as a formwork supervisor of Hong Khim. He worked in that capacity at the worksite. The Accused himself confirmed that he had been a formwork supervisor with Hong Khim for six years before the date of the accident, and that he had been dealing with formwork since he was 18 years old, that is, since 1988[^1].
+
+## The Court’s Findings
+
+### The Accused was a “person at work”
+
+15     s 15(3A) WSHA provides –
+
+> “Any _person at work_ who, _without reasonable cause_, _does any negligent act which endangers the safety or health of himself or others_ shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $30,000 or to imprisonment for a term not exceeding 2 years or to both.” (Emphasis mine)
+
+16     There was no dispute that the Accused was a ‘person at work’. A ‘person at work’ was defined in s 4(1) WSHA as one who performed work in connection with any trade, business, profession or undertaking carried on by his employer, wherever that work is carried out. The Accused was an employee of Hong Khim. Hong Khim was contracted by Buildtech to supply labour and tools for the reinforced concrete structure works, including the erection of formwork, fixing of reinforcement and concrete casting, at its worksite.
+
+17     The three elements to the offence that must be proved are –
+
+> (i)     The Accused must do an act which endangers the safety or health of himself or others.
+
+> (ii)     The act must be negligent.
+
+> (iii)     The act must be done without reasonable cause.
+
+### The Accused must do an act which endangered the safety or health or himself or others
+
+18     The act complained of was that of instructing Alam Khan and Sohal to descend onto the top of the formwork in a manner that endangered their safety. He had instructed them to descend without ensuring that they had secured their safety harnesses to a lifeline or anchorage point. The Accused had denied giving those instructions. The crux of his defence was that firstly, at the material time he was some distance away from the lifting site on the fifth floor. And second, he was not aware that the lifting operation was ready to re-commence.
+
+19     Alam Khan testified that the Accused had instructed Sohal and him to descend onto the top of the formwork, which at the time was partially protruding out of the edge of the building. They were supposed to descend onto the top of the formwork to thread the lifting cables through the holes found there. He said that the Accused was with them on the fifth floor at the time. Other than the three of them, two others were present – a construction worker, Al-Amin, and the signalman, Lyton. Lyton’s duty was to signal to the crane when to lift up the formwork[^2].
+
+20     Alam Khan said that when the Accused gave them the instructions to descend, the Accused was about one and a half arm’s length away from him[^3]. Alam Khan also testified that he had asked the Accused for a lifeline but the Accused had not replied. Alam Khan was positive that the Accused had heard his request for the lifeline because of their proximity to one another. He did not repeat his request for the lifeline as the Accused was known to get annoyed or angry when questions were asked a second time to him.[^4].
+
+21     Alam Khan had asked for a lifeline because he felt that it was not safe to descend onto the top of the formwork. This was because there were no barricades around the edges. But he had to descend because that was the method of work employed[^5]. In lieu of a lifeline, on his own initiative, he had anchored his safety harness to the guardrail at the edge of the fifth floor before he descended[^6]. He told Sohal to do the same with his safety harness. Unfortunately Sohal did not heed his advice[^7]. Alam Khan also said that when they descended onto the top of the formwork, the Accused had not said anything[^8].
+
+22     When both of them were standing on top of the formwork, the formwork suddenly tilted. Alam Khan managed to jump up, grabbed onto the guardrail on the fifth floor, and pulled himself up to safety. When he got back up onto the fifth floor, he remembered that the Accused was in front of him. He also testified that he had heard the Accused shouted out that the formwork was falling[^9]. Tragically, Sohal slid off the top of the formwork and fell to the ground below.
+
+23     Alam Khan also testified that before the accident, he had made two similar descends earlier that morning. On both these occasions, he and the other workers involved had been instructed to do so by the Accused[^10]. On both these occasions, he had used a lifeline which was secured around a concrete column on the fifth floor. He had secured his safety harness to the lifeline[^11].
+
+24     The Accused admitted that he was on the fifth floor when the accident happened. However, he claimed that he was some distance away on the other side of the fifth floor. When the lifting work was paused because the crane was re-deployed to perform other lifting tasks, he claimed to have gone to supervise the arrangement of the formworks that had already been lifted to the fifth floor[^12]. As such it was not possible for him to instruct Alam Khan and Sohal to descend.[^13]. He accused Alam Khan of lying when he said he had asked the Accused for a lifeline before descending. He said it was not possible that there was no lifeline, because they had been doing lifting work since that morning, and lifelines were available then[^14].
+
+25     I was satisfied that Alam Khan was telling the truth in his narration of the events that led to the accident. His testimony exhibited internal and external consistencies. He had candidly testified that earlier that morning, he had descended onto the top of formworks twice. On both these occasions, he had used a lifeline. His act of insisting on securing himself before descending was consistent with his concern that it was unsafe to descend onto the top of the formwork. Therefore, if there was a lifeline available, he would have used it as he had done twice earlier that morning. He would not have needed to ask the Accused for one. He had asked the Accused for a lifeline because there was no lifeline at that point in time. It was possible that the lifeline had been removed during the pause in the lifting work. The fact that Alam Khan had secured his safety harness to the guardrail underscored the point that there was no lifeline, and therefore he had resorted to anchoring his safety harness to the guardrail. Again, this was wholly consistent behaviour given his concern for his safety because he felt that the act of descending onto the top of the tableform was dangerous.
+
+26     Alam Khan’s evidence put the lie to the Accused’s claim that he was some distance away at the other side of the fifth floor at the material time. He was clearly with Alam Khan and Sohal when the lifting operation was re-commenced. This conclusion was corroborated by the Accused’s own evidence. He had admitted to as much in his statement, Exhibit P11. Exhibit P11 was recorded three months after the accident, when his memory of the accident was still fresh in his mind. He agreed that what was recorded in Exhibit P11 was accurate. This was what he said in Exhibit P11 –
+
+> “At about 2pm, the signalman from my company stationed at level 5 informed me that the tower crane is ready for us to use. I informed Deceased, the signalman and another \[B\]angladeshi worker to go over to prepare for the lifting of the tableform. I then went to fetch an electrical wire cable…”
+
+27     This statement was wholly inconsistent with his assertion in court that he was at the other side of the fifth floor supervising the arrangement of formworks, and that he had not been informed that the lifting work was recommencing. His attempt at explaining away the incongruity between P11 and his oral evidence was weak[^15]. Also, it was pertinent to note from P11 that despite knowing that the lifting work was recommencing, instead of attending at the scene and supervising the lifting, he had gone to collect some electrical cable. There was no mention of any electric cable in his testimony in court.
+
+28     The Accused had also admitted that he had on previous occasions that morning instructed the same group of workers, which included Sohal and Alam Khan, to descend onto the top of the formwork to perform the threading task[^16]. It appeared that he had routinely given the instructions to descend. Furthermore, he was the only supervisor on the fifth floor at the material time. Alam Khan testified the Accused wore the white hard hat worn by a supervisor. The Accused had asked him to put the lifting cable into the hole[^17]. He controlled the movement of the workers during the lifting work[^18]. The weight of the evidence pointed to the conclusion that the Accused was in charge of supervising the lifting work at the fifth floor.
+
+29     The Accused had also agreed that it was unsafe for workers to descend onto the top of the formwork[^19]. In fact, he said that it was very dangerous to do so. He should therefore, as the supervisor in charge, ensured that the workers had secured their safety harnesses before descending. He could not have missed seeing that Sohal had not anchored his safety harness before he descended. Yet he did nothing. To amplify his casual attitude towards safety, when Alam Khan had asked him for a lifeline, he had ignored the request.
+
+### The act must be negligent
+
+30     The test for negligence was an objective one. The court “must consider whether a reasonable man in the same circumstances would have been aware of the likelihood of damage or injury to others”: _Ng Keng Yong v PP_ <span class="citation">\[2004\] 4 SLR(R) 89</span> (“_Ng Keng Yong_”) at \[88\].
+
+31     As set out in the preceding paragraphs, the Accused had instructed both Sohal and Alam Khan to descend onto the top of the formwork. He had not ensured that they had secured their safety harnesses to a lifeline or anchorage. Although Alam Khan had secured his safety harness to a guardrail, he had done so at his own initiative, and not because of anything that the Accused had said or done.
+
+32     It was clear that a reasonable man in the same circumstances as the Accused would have been aware of the likelihood of death or injury to others when descending onto the top of the tableform when it was protruding halfway out of the building. In fact, the risk of death or serious injury from falling from height in this situation was patently obvious. Instructing the workers to descend onto the top of the tableform without ensuring that they had secured their safety harnesses to a lifeline or anchorage point was patently unsafe and dangerous, even if there was no danger of the tableform tilting. This conclusion was supported by the evidence.
+
+33     Alam Khan had felt that it was not safe to descend onto the top of the formwork because there were no barricades around the edge of the formwork. Wang Fanglin (PW2), a formwork supervisor at Hong Khim with seven to eight years’ experience, also agreed that the practice of descending onto the top of the formwork was dangerous[^20]. Liow Kim Chong (PW4), the Formwork Technology Supervisor for SGB Aluma, the manufacturer of the formwork, and who had trained the Accused and his workers on the safe use of the formwork, testified that he had specifically given instructions that workers should not climb onto the top of the formwork because of the risk of falling. He also testified that he had confirmed with the Accused personally whether he understood that the workers should not climb onto the top of the formwork to secure the lifting cables, and the Accused had confirmed that he understood[^21]. The Accused himself had admitted that it was unsafe (at \[28\] above).
+
+34     The Defence argued that the Accused was merely a supervisor, and therefore did not possess the necessary intellectual competency to appreciate the danger that his instructions posed. The fact that he had not been trained to supervise lifting work was also pertinent to his inability to appreciate the dangers. This argument was way off the mark and without merit. The relevant test as stated above was that of a reasonable man in the same circumstances as the Accused. It was clear that applying the test to the factual matrix of the case, the answer was that a reasonable man in the same circumstances as the Accused would know that it was dangerous to give the instructions that the Accused had given without ensuring that the workers had their safety harnesses secured. This conclusion was further bolstered by the Accused’s own admission that he knew it was very dangerous.
+
+35     The Accused also argued that he had good reasons to believe that the tableform, secured by two ropes on the fourth floor, was safe to walk on. Following from that belief, he did not have any reason to believe that the men were exposed to any heightened risk when they descended onto the tableform[^22]. It might be argued that the danger of the tableform tilting would be significantly reduced if it was secured in that manner. However, it did not remove the danger or risk of the workers falling off the tableform; that remained a clear and present danger. In any event, the evidence showed that the Accused had only assumed that the tableform was secured by two guide ropes on the fourth floor. He did not confirm that this was the case before he gave the instructions to descend. His submissions on this point was not only misconceived, it gave a further soundbite into the cavalier and casual attitude that he had for the safety of his workers.
+
+36     I found that the Accused was negligent when he instructed Alam Khan and Sohal to descend onto the top of the tableform without ensuring that they had secured their safety harnesses. He knew that there was a risk of falling from height that might lead to death or serious injury to the workers. The risk was not only a significant one, it was obvious.
+
+### The act must be done without reasonable cause
+
+37     The Accused pleaded reasonable cause on the basis that he had merely followed the existing lifting methodology when lifting the tableforms. The methodology had been approved by his superiors, who were people with higher levels of safety training and technical expertise than him. On these basis, he had reason to believe that the methodology was safe. Corollary to this, he contended that he was not in a position to criticise or make changes even if the methodology was unsafe. Lastly, he also pleaded reasonable cause because he was bogged down by the many responsibilities put on his shoulders, and that he could not be everywhere at the same time.
+
+38     Chan Seng Onn J had held that a foreman and/or supervisor could and should have refused to follow unsafe work orders given by his superiors. He also said that the suggestion that as a matter of law, the submission that pressure from a superior could amount to reasonable cause, was questionable: see _Nurun Novi Saydur Rahman v PP_ <span class="citation">\[2019\] 3 SLR 413</span> (“_Nurun Novi_”) at \[56\]. This was because the provisions of the WSHA and the relevant Parliamentary debates suggested that Parliament did not intend for superior orders to amount to reasonable cause. For example, s 10 WSHA provided that -
+
+> (i)     WSHA may at any one time impose the same duty or liability on two or more different persons, whether in the same capacity or in different capacities; and
+
+> (ii)     A duty or liability imposed by WSHA on any person is not diminished or affected by the fact that it is imposed on one or more persons, whether in the same capacity or in different capacities.
+
+39     Chan J further held at \[58\] of _Nurun Novi_ -
+
+> “\[I\]t is clear that Parliament intended to effect a “cultural change” by expanding the liability framework to render even rank-and-file workers responsible for unsafe work practices. This responsibility is not “diminished or affected” by the acts of another employee or superior. …\[I\]t would be inconsistent with this parliamentary intention to find that an employee would be completely exonerated from liability under s 15(3A) of the WSHA, merely because the employee was following work orders. This was especially the case when \[they\] were patently unsafe, and the employee knew that \[they\] were patently unsafe.”
+
+40     s 10(c) WSHA made it clear that a duty or liability under the Act was not diminished or affected by the fact that one or more other persons also has a duty or liability under the Act, whether in the same capacity or in different capacities. In this case, the Accused was the only supervisor on the fifth floor. He was in charge of the lifting works. Otherwise there would have been no reason for the signalman to inform him that the lifting work was recommencing. Therefore, being the supervisor in charge there, he has a duty to ensure that the work was done properly and all safety precautions observed.
+
+41     The Accused had known that his instructions to Sohal and Alam Khan to descend onto the top of the formwork carried with it the risk of them falling off from the top. He had acknowledged that it was dangerous to walk on top of the tableform to thread the slings into the holes[^23]. But he said there was a procedure to mitigate the risk. He was vague on the said procedure, but it seemed to essentially consist of the use of safety harnesses secured to lifelines. Yet he did not ensure that this was done. When asked in cross-examination why not, his answer was that he could not be watching them at all times[^24].
+
+42     The Defence has had also callously blamed Sohal for his own death. The argument was phrased in this way - if Sohal had refused to secure his safety harness, what more could the Accused do? As he was defiant of authority; the Accused could therefore do nothing. Unfortunately, these submissions were debunked by the Accused’s own testimony. He testified that as a supervisor, if he saw workers under his charge working in an unsafe manner, he would stop them as it was the right thing to do[^25]. Unfortunately, he did not walk the talk.
+
+43     There was one defence submission that I took issue with. This was the submission that there was the possibility that Sohal had taken his own life because he had made the deliberate decision not to secure his safety harness before descending onto the tableform[^26]. I found this submission ill-considered, insensitive, wildly speculative and wholly devoid of merit.
+
+44     Lastly, I found that the evidence of the defence witness, Ahmad Rushdy Chia Tee Hong, was not relevant to the determination of the facts in issues in this case set out in \[17\], and applying the objective test for negligence formulated in _Ng Keng Yong_ (at \[31\]) to the facts of the case.
+
+## THE SENTENCE
+
+45     The Accused was a first offender.
+
+## The Prosecution’s Sentencing Submission
+
+46     The prosecution highlighted the egregious nature of the case. They submitted that –
+
+> “2    …\[T\]here was a _high potential for harm_ arising from the \[A\]ccused’s unsafe acts of instructing \[Sohal\] and \[Alam Khan\] to descend onto a tableform that was partially protruding from the fourth floor of a construction site, and failing to ensure that \[Sohal\] had anchored his safety harness. \[His\] _level of culpability is also high_ - he had been instructed by the tableform suppliers not to allow workers to get onto the top of the tableform, yet he had given instructions on several occasions for the workers to do so, even before the fatal accident itself.”
+
+> (Emphasis in the original)
+
+47     The prosecution highlighted the negligent act that had endangered the safety of the workers under the Accused’s charge, and which resulted in Sohal’s death –
+
+> (i)     He had given instructions to Sohal and Alam Khan to descend onto the top of the tableform when he knew it was unsafe to do so.
+
+> (ii)     He had failed to ensure that Sohal had secured his safety harness to a lifeline or an anchorage point before descending.
+
+48     They stressed that the Accused’s instructions were inherently unsafe as the tableform was sitting partially on wheels or rollers, with a portion of it protruding out from the edge of the fourth floor. The top of the tableform was also not secured by any barricades or guardrails. The additional weight of the workers on top of the tableform could lead to the tableform tilting. The unsafe nature of the Accused’s instructions was compounded by his failure to ensure that Sohal had secured his safety harness, and his failure to confirm that the tableform was secured with two guide ropes on the fourth floor.
+
+49     The prosecution pointed to the Accused’s indifferent attitude towards his workers’ safety. He had instead blamed his workers for not ensuring their own safety. He had even gone so far as to suggest that there was no need for him to supervise the workers all the time as the workers had done the work many times, that the work was the “simplest kind of work”, and they had the workers had their own “sense of safety”[^27]. In fact he went further to suggest that the safety officer was the one in charge of safety, not the supervisor[^28].
+
+50     The prosecution submitted that the Accused’s culpability and harm fell into the high category. Applying _Nurun Novi_, the sentence to be imposed should be not less than 25 weeks' imprisonment.
+
+## The Defence’s Mitigation Plea
+
+51     The Defence highlighted that the Accused had over 20 years’ experience in the construction industry, and had worked as a formwork supervisor for about six years. He has a clean safety record before and after the accident. He was a first offender. He had also cooperated with the investigations.
+
+52     The Defence submitted that a fine was the appropriate sentence. They submitted that the culpability and harm in this case was low. The harm caused was self-inflicted. Sohal had deliberately not secured his safety harness despite being told to do so by Alam Khan. The Defence argued that the law did not impose a duty on the Accused as a supervisor to compel by force safety measures on workers under his charge. His only lapse was his failure to order work to stop when Sohal chose not to secure his safety harness before descending
+
+53     There was no deviation from the established safety procedures. The lifting work was simple, routine work. The workers had done the work many times. As such the Accused need not be personally present to supervise the lifting work and to ensure that workers had secured their safety harnesses. _Nurun Novi_ was distinguishable in that it involved a non-routine task where even the basic safety precautions such as the provision of safety harnesses were not taken. The work was also patently unsafe.
+
+54     On culpability, the measure should be “…how far short the Accused \[had\] fallen from the standard of a reasonable formwork supervisor in failing to ensure that the Deceased had anchored himself”[^29]. Applying this test to the facts, culpability was at the lowest level. The Accused had every reason to expect Sohal to act reasonably in a manner consistent with self-preservation. No reasonable supervisor could prevent a worker from acting recklessly or in deliberate and pointed disregard of obvious dangers.
+
+55     The Defence disagreed that the fact that Sohal had died was an aggravating factor. Their basis for this argument was that the substantial cause for the death was Sohal’s deliberate act of descending without securing his safety harness, and not the Accused’s negligence.
+
+## The Sentence Imposed
+
+56     I found that both the culpability and harm in this case were high.
+
+57     On harm, the two workers were instructed to descend to the top of the tableform which was not barricaded with guardrails. The tableform was protruded halfway out of the building. Under these circumstances, there was a real and obvious risk of the workers falling off the tableform which might lead to death or serious injury, if they were not secured to lifelines. His failure to ensure that they had secured their safety harnesses constituted a high degree of negligent.
+
+58     There was also a high risk of the table form tilting as it rested on rollers which made it susceptible to movement. especially when the workers were on top of the tableform because of the additional weight. The failure of the Accused to first confirm that it was secured by two guide ropes on the fourth floor before he gave the instruction to descend increased this risk further compounded his negligent act.
+
+59     There was no mitigating factor present. The Accused’s conduct at trial showed a singular lack of remorse. He had deflected responsibility arguing that it was not his duty to ensure that the workers’ safety harnesses were secured, as they had been briefed. He was evasive on the stand on numerous occasions, avoided answering questions directly, and in many cases, offered irrelevant answers. He apportioned blame on everybody else and everything else, including Sohal whom he suggested had deliberately taken his own life. He blamed Sohal for his defiance and lamented that there was nothing he could do.
+
+60     I agreed with the Prosecution that the key aggravating factor in this case was that actual harm had been caused by the Accused’s negligent act ie, Sohal’s death. I disagreed that the substantial cause of death was Sohal’s flouting of the safety procedure. Rather, the substantial cause was the Accused’s failure to ensure that he was secured to a lifeline.
+
+61     The Prosecution also submitted that, although _Nurun Novi_ was binding on me, I should approach the tariffs set in the sentencing framework with caution for the following reasons –
+
+> (i)     The notional cap on the sentencing starting point for negligent acts was wrong in principle and unduly restricted the courts’ discretion to impose the appropriate sentence in each case. The notional cap was thought necessary to adequately consider the impact of s 15(3) WSHA which provided the same imprisonment term of two years’ imprisonment for cases involving wilful and reckless acts. The High Court had failed to take into account that the offences in s 15(3A) and s 15(3) were distinct offences with s 15(3) carrying a higher maximum fine $200,000. The notional cap imposed was a departure from the established principle that it was the court’s duty to ensure that the full spectrum of the sentence was fully considered in determining the appropriate sentence.
+
+> (ii)     The treatment by the High Court that fines and imprisonment were interchangeable for the purposes of the framework, using a notional conversion rate of a $5,000 fine per week of imprisonment, was in principle wrong as fines and imprisonment were qualitatively different types of sentences.
+
+> (iii)     The framework would lead to anomalous results which did not give sufficient weight to Parliament’s intent to prioritise harm as the primary sentencing consideration.
+
+62     For these reasons, they proposed an alternative sentencing framework (at \[28\] to \[34\] of the Prosecution’s Sentencing Submission). The alternative framework departed from the “sentencing scale” approach in _Nurun Novi_. Rather it took guidance from the approach adopted by the High Court in _PP v GS Engineering & Construction Corp_ <span class="citation">\[2016\] SGHC 276</span> (“_GS Engineering_”).
+
+63     Although there might be some merit to the prosecution’s submissions that there were some conceptual difficulties with the _Nurun Novi_ framework, I was nevertheless bound by the decision. In any event, having read the judgment, I was not convinced that the conceptual difficulties, if there was any, rendered the sentencing framework defective.
+
+64     Applying the framework in _Nurun Novi_, the present case fell into the 11.5 weeks’ to 20.8 weeks’ imprisonment sentencing range. In my view, the factual matrix of the case placed the starting point at 16 weeks’ imprisonment. On account of the aggravating factors, I was of the view that an uplift of eight weeks’ imprisonment was warranted and appropriate. Therefore, the sentence I imposed was 24 weeks’ imprisonment.
+
+65     The Accused has appealed against the conviction and sentence. The prosecution has appealed against the sentence. The Accused is currently on bail pending the appeal.
+
+* * *
+
+[^1]: NE, 8 Nov 18, page 8 lines 18-23.
+
+[^2]: NE, 2 May 18, page 28 line 16 to page 29 line 32.
+
+[^3]: NE, 2 May 18, page 32 lines 3-18.
+
+[^4]: NE, 2 May 18, page 34 line 6 to page 35 line 7.
+
+[^5]: NE, 2 May 18, page 35 lines 15-23.
+
+[^6]: NE, 2 May 18, page 36 line 27 to page 38 line 11.
+
+[^7]: NE, 2 May 18, page 35 lines 12-14.
+
+[^8]: NE, 2 May 18, page 38 line 30 to page 39 line 1.
+
+[^9]: NE, 2 May 18, page 40 lines 9-13.
+
+[^10]: NE, 2 May 18, page 40 lines 14-19.
+
+[^11]: NE, 2 May 18, page 41 lines 17-24.
+
+[^12]: NE, 8 Nov 18, page 24 line 28 to page 25 line 13.
+
+[^13]: NE, 8 Nov 18, page 25 lines 26-28.
+
+[^14]: NE, 8 Nov 18, page 29 lines 10-22.
+
+[^15]: NE, 12 Nov 18, page 82 lines 2-27.
+
+[^16]: Statement of Agreed Facts (PS1) at \[16\].
+
+[^17]: NE, 2 May 18, page 27, lines 9-18 and page 28, lines 16-28.
+
+[^18]: NE, 2 May 18, page 30, lines 29-32.
+
+[^19]: NE, 12 Nov 18, page 83 lines 11-29.
+
+[^20]: NE, 10 Oct 18, page 31 line 29 to page 32 line 1.
+
+[^21]: NE, 5 Nov 18, page 14 lines 19-27 and page 16 lines 8-22.
+
+[^22]: Defence’s Closing Submission at \[44\].
+
+[^23]: NE, 8 Nov 18, page 15, lines 12-21.
+
+[^24]: NE, 12 Nov 18, page 83 line 30 to page 84 line 15.
+
+[^25]: NE, 8 Nov 18, page 55, lines 15-32.
+
+[^26]: Defence’s Closing Submission at \[94\] and \[95\].
+
+[^27]: NE, 12 Nov 18, page 68, lines 5-11.
+
+[^28]: NE, 12 Nov 18, page 69, lines 14-16.
+
+[^29]: Defence’s Mitigation Plea at \[38\].
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F23635-SSP.xml)
