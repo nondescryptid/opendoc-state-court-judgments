@@ -1,0 +1,153 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Zailaini bin Abdullah Tan _v_ K Jayakumar Naidu trading as Jay Associates  
+
+### \[2019\] SGDC 192
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">District Court Suit No. 3565/2015, District Court Appeal No. 29/2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">18 September 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Lim Wee Ming</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Mr Ramasamy K Chettiar (Central Chambers Law Corporation) for the Plaintiff; Mr Khwaja Imran Hamid (Tan Rajah &amp; Cheah) for the Defendant</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Zailaini bin Abdullah Tan — K Jayakumar Naidu trading as Jay Associates</td></tr></tbody></table>
+
+Tort – Negligence – Legal Profession
+
+Contract – Breach – Legal Profession
+
+\[LawNet Editorial Note: An appeal to this decision has been filed in DCA 29/2019.\]
+
+18 September 2019
+
+### District Judge Lim Wee Ming:
+
+The Plaintiff’s claim against the Defendant is for negligence and breach of contract, arising from the Defendant’s breach of his duties as a solicitor. The Plaintiff claims damages in the sum S$193,333.33. I dismissed the Plaintiff’s claim. The Plaintiff has appealed against my decision.
+
+## Facts
+
+2       The Plaintiff was the nephew of one Mohamed Sani bin Osman (“Mohamed Sani”). Mohamed Sani owned a Housing and Development Board (“HDB”) flat at Chai Chee Drive (“the Property”). The Plaintiff was raised by Mohamed Sani and resided at the Property with Mohamed Sani.
+
+3       Mohamed Sani was diagnosed with throat cancer in early 2014. He wished the Plaintiff to inherit the Property, after he passed away. The Plaintiff and Mohamed Sani met the Defendant, an advocate and solicitor, on 21 April 2014. The Defendant was informed of Mohamed Sani’s intention that the Plaintiff should obtain the full benefit of the Property, after the death of Mohamed Sani.
+
+4       The Defendant prepared a will for Mohamed Sani to fulfil this intention. Mohamed Sani signed the will on 21 April 2014 \[Agreed Bundle (“AB”) at page 10\].
+
+5       Mohamed Sani passed away on 20 May 2014. The Plaintiff thereafter discovered that pursuant to Syariah law, only one-third of the Property could be distributed under the will. Accordingly, the Plaintiff was unable to obtain the full benefit of the Property.
+
+6       The Property was sold for $290,000. The net sale proceeds of the Property after deducting various costs and expenses was $275,918.70. The Plaintiff received one-third of the net sale proceeds of the Property amounting to $91,972.90.
+
+7       Pursuant to the Inheritance Certificate issued by the Syariah Court (AB 19, 20 and 33, 34), the value of the balance two-thirds share was distributed as follows:
+
+>   
+| 
+
+a.
+
+ | 
+
+Mohammad Razif bin Ramli
+
+ | 
+
+$76,644.08
+
+ |
+| 
+
+b.
+
+ | 
+
+Muhammad Farid bin Abdul Rahim (“Farid”)
+
+ | 
+
+$76,644.09
+
+ |
+| 
+
+c.
+
+ | 
+
+Abdul Rahman bin Abdullah (“Abdul Rahman”)
+
+ | 
+
+$30,657.63.
+
+ |
+
+  
+  
+
+8       Abdul Rahman, who received $30,657.63 under the Inheritance Certificate, was the brother of Mohamed Sani. The Plaintiff claims that Mohamed Sani was not on good terms with Abdul Rahman, and did not wish Abdul Rahman to receive any benefit after his death.
+
+9       The Plaintiff’s claim against the Defendant is in negligence and breach of contract, arising from the Defendant’s breach of his duty as a solicitor, in failing to properly advise Mohamed Sani and the Plaintiff, so as to give effect to the intention of Mohamed Sani, that the Plaintiff obtain the full benefit of the Property, after the death of Mohamed Sani (see paragraphs 5 and 16 of the Plaintiff’s Closing Submissions). The Plaintiff claims damages against the Defendant, being the value of the balance two-thirds share in the Property.
+
+10     The Plaintiff’s position is that the Defendant should have advised Mohamed Sani and the Plaintiff of the position under Syariah law, as well as advise them to transfer the Property to the Plaintiff as a joint tenant with Mohamed Sani, in order to give effect to the intention of Mohamed Sani.
+
+## Decision
+
+11     The burden is on the Plaintiff to prove on the balance of probabilities that Mohamed Sani would have been agreeable to this alternative mode of transferring the Property to the Plaintiff and that this could have been completed before Mohamed Sani passed away on 20 May 2014. This alternative mode of transferring the Property to the Plaintiff in order to give effect to the intention of Mohamed Sani gave rise to the following issues:
+
+> a.     Mohamed Sani would have to be agreeable to the Plaintiff having an interest in the Property, even prior to Mohamed Sani’s demise.
+
+> b.     The Plaintiff would have to be able to raise funds to pay the resale levy of about $22,000 to the HDB to effect the transfer of the Property.
+
+> c.     The transfer of the Property could not be completed prior to the death of Mohamed Sani on 20 May 2014.
+
+12     I will address each of these issues, as well as their collective effect on the Plaintiff’s claim.
+
+##### Mohamed Sani would have to agree to the Plaintiff being a joint tenant
+
+13     Firstly, Mohamed Sani would have to be persuaded to agree to the Plaintiff being a joint tenant. Although Mohamed Sani had the intention for the Plaintiff to have the full benefit of the Property after he passed away, this is very different from Mohamed Sani agreeing to the Plaintiff being a joint tenant of the Property, where the Plaintiff would have an irrevocable interest in the Property even before Mohamed Sani passed away.
+
+14     One key distinction is that once the Plaintiff were to become a joint tenant of the Property, Mohamed Sani could no longer change his mind on who may be a beneficiary of the Property after his death, unlike a will which may be amended at any time before the testator passes away. Furthermore, once the Plaintiff were to become a joint tenant of the Property, Mohamed Sani would no longer be able to deal with the Property independently. Every action that Mohamed Sani wished to take in relation to the Property would have to be made with the consent of the Plaintiff. There is no evidence that Mohamed Sani knew that he had just a few weeks left to live, and would have been prepared to give up the aforesaid rights, prior to his death.
+
+15     Furthermore, Mohamed Sani was himself a joint tenant of the Property with his mother, until she passed away in December 2013 and Mohamed Sani became the sole owner of the Property \[see paragraph 8 of the affidavit of evidence-in-chief (“AEIC”) of the Plaintiff\]. Once Mohamed Sani became the sole owner of the Property, it would certainly have been open to him to arrange to have the Plaintiff become a joint tenant of the Property, but he did not do so.
+
+16     Even if Mohamed Sani may have been persuaded to agree to the Plaintiff becoming a joint tenant, it is uncertain whether he could have been so persuaded, prior to his passing away on 20 May 2014, just one month after Mohamed Sani and the Plaintiff met with the Defendant on 21 April 2014. The Plaintiff claimed that he would have ensured that the transfer would take place before Mohamed Sani’s death. However, when the Plaintiff was questioned on this in cross-examination, he could only say that “_I believe it could be done_” \[Notes of Evidence (“NE”) of 24 April at page 76\]. The Plaintiff gave no explanation to support his belief.
+
+17     In the premises, I am of the view that it is doubtful that Mohamed Sani would have agreed to the Plaintiff being a joint tenant of the Property, before he passed away in May 2014.
+
+##### Whether the Plaintiff could have raised the HDB resale levy
+
+18     Secondly, the Plaintiff would have to pay HDB the resale levy of about $22,000 in order to effect the transfer. The Plaintiff acknowledged that he did not have the capacity to pay this sum himself, but claimed that he could so, with the help of his family members \[24 April NE35-36\]. The only family member who gave evidence to support the Plaintiff in this regard was the Plaintiff’s cousin, Muhammad Farid (“Farid”).
+
+19     Farid claimed that he would have been prepared to help the Plaintiff pay the resale levy of $22,000 (see paragraph 6 of Farid’s AEIC). However, Farid’s POSB savings account statement (Bundle of Affidavits at page 14), shows that the highest balance in his account during the relevant period was $21,810.76. In the premises, Farid would have had to use up his entire savings to assist the Plaintiff to pay the levy.
+
+20     Furthermore, Farid was one of the beneficiaries entitled to a share in the Property under Syariah law. Farid received the sum of $76,644.09, after the sale proceeds of the Property were distributed in accordance with the Inheritance Certificate issued by the Syariah Court (see paragraph 7 above). If the transfer to the Plaintiff had taken place, Farid would not have received this benefit.
+
+21     It is important to bear in mind that Mohamed Sani passed away on 20 May 2014, just a few weeks after the Plaintiff and Mohamed Sani met the Defendant. The Plaintiff would have had to check with his relatives and ascertain who had the necessary funds to assist him. Even after ascertaining that Farid had the funds to assist him, he would have to persuade Farid to do so, notwithstanding the loss to Farid, if the Property was transferred to the Plaintiff. All this would take time. In the circumstances, even if Farid was prepared to consider assisting the Plaintiff with the resale levy, against his own self-interest, it is unlikely he would have agreed to do so, before Mohamed Sani passed away on 20 May 2014.
+
+##### The transfer could not have been completed before Mohamed Sani passed away
+
+22     Thirdly, Mohamed Sani would have had to sign the transfer instrument to complete the transfer of the Property and the completion date would have been after Mohamed Sani passed away on 20 May 2014. The Plaintiff has acknowledged this in paragraph 46 of the Plaintiff’s Closing Submissions, stating:
+
+> _“Taking the earliest date that the Plaintiff and the Deceased could have submitted their transfer application to HDB to be 22 April 2014 (one day after their meeting with the Defendant), the entire Completion Process would have concluded by or before 1 July 2014. The Deceased had passed away on 20 May 2014, which on hindsight would have meant that the Deceased (as transferor) would not have been able to sign the transfer instrument as required by HDB.”_
+
+23     The Plaintiff has submitted that a court order could have been obtained to effect the transfer even after the death of Mohamed Sani. The Plaintiff’s argument is that it would be sufficient for Mohamed Sani to make a transfer application to HDB before he passed away, and a court order could thereafter be obtained to effect the transfer \[see paragraph 49(e) of the Plaintiff’s Closing Submissions\].
+
+24     The Plaintiff relies on the case of _BTB v BTD_ <span class="citation">\[2018\] SGHC 203</span> in support of his argument (see paragraph 49 of the Plaintiff’s Closing Submissions). In _BTB v BTD_, the High Court held that:
+
+> “_In a case where a settlor has done all that is necessary to transfer title to the donee but the transfer has not happened for reasons outside of his control, equity assumes the equitable interest to be in the donee.”_ \[19\]
+
+25     However, the aforesaid principle requires the settlor to have done all that is necessary to transfer title to the donee. In the present case, even if Mohamed Sani had applied to HDB to transfer the Property before he passed away, he would not have been able to execute the transfer instrument at the completion date. In the premises, I am of the view that this would certainly not amount to “_a case where a settlor has done all that is necessary to transfer title to the donee_”.
+
+26     The Plaintiff in paragraph 49(c) of his Closing Submissions also referred to the cases of _Re Rose_ \[1952\] Ch 499 and _Blackett v Darcy_ <span class="citation">\[2005\] NSWSC 65</span> (“_Blackett_”), which decided in favour of the transferor. However, the High Court in _BTB v BTD_ distinguished those cases on the facts \[24\].
+
+27     I am of the view that the present case is also very different from _Re Rose_ and _Blackett_. In _BTB v BTD_, Justice Valerie Thean made the following observations on _Re Rose_ and _Blackett_:
+
+> “_In Re Rose the transfer forms were completed but were only registered by the company after the applicable date. In Blackett, the donor had written a cheque, which the bank would have been obliged to honour if he had been alive. In both cases the maxim was only necessary because the donor’s death interrupted a process which would have otherwise completed with the effluxion of time.”_ \[25\]
+
+28     In essence, in _Re Rose_ and _Blackett_, there was no further step to be taken by the transferor. The only further action to be taken was by a third party, the company in _Re Rose_ and the bank in _Blackett_. In the present case, if Mohamed Sani made an application to HDB for the Property to be transferred to the Plaintiff as a joint tenant, this would not suffice, as Mohamed Sani would still have to take the further step of signing the transfer instrument upon completion, which the Plaintiff has accepted could not have been fulfilled because completion would have been after the death of Mohamed Sani (see paragraph 22 above).
+
+29     In the premises, I am of the view that the Plaintiff’s argument that a court order could have been obtained to effect the transfer is misconceived. At the very least, the issue as to whether a court order could be obtained to effect the transfer after Mohamed Sani passed away, would add another layer of uncertainty towards the Plaintiff becoming a joint tenant of the Property.
+
+30     I further note that the application to obtain the court order would be “_against the beneficiaries under the Inheritance Certificate_” \[see paragraph 49(e) of the Plaintiff’s Closing Submissions\]. This would mean that the Plaintiff would be suing Farid, as one of the beneficiaries under the Inheritance Certificate, to obtain the court order. This reinforces my view that it is unlikely that Farid would have agreed to pay the resale levy to assist the Plaintiff.
+
+## Conclusion
+
+31     This is not a case where if the right advice had been given, the path to be taken was straightforward. The path involved having to persuade Mohamed Sani to give up rights to the Property even before he passed away, for Farid to be persuaded to deplete his savings to pay the resale levy even though this would be against his own interest, and for a court order to be obtained to effect the transfer, where at the very least, the outcome would be fraught with uncertainty.
+
+32     Each of the aforesaid issues would have posed a difficulty to the Plaintiff in becoming a joint tenant of the Property. Collectively, I am of the view that they amounted to significant hurdles to the Plaintiff becoming a joint tenant. I am not convinced, on the balance of probabilities, that these hurdles could have been overcome, even if Mohamed Sani had been so advised by the Defendant.
+
+33     For the aforesaid reasons, the Plaintiff’s claim is dismissed with costs.
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F23639-SSP.xml)
