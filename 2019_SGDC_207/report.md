@@ -1,0 +1,627 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# IP Investment Management Pte Ltd and others _v_ Alex Bellingham  
+
+### \[2019\] SGDC 207
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Originating Summons No. 170 of 2018</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">03 October 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Teo Guan Kee</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Tay Yong Seng, Yap Wei-Ming Alexander and Ang Ann Liang (Allen &amp; Gledhill LLP) for the plaintiffs; Ong Ziying, Clement and Khoo Shufen, Joni (Damodara Ong LLC) for the defendant.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">(1) IP Investment Management Pte Ltd — (2) IP Real Estate Investments Pte Ltd — (3) ABC — Alex Bellingham</td></tr></tbody></table>
+
+Personal Data Protection Act – Section 32 – right of private action
+
+3 October 2019 - Judgment reserved.
+
+### District Judge Teo Guan Kee:
+
+1       District Court Originating Summons No. 170 of 2018 (the “**OS**”) was an application made by the two Plaintiff companies and one of their clients, the third Plaintiff herein (a natural person), pursuant to section 32 of the Personal Data Protection Act (Act 26 of 2012, the “**PDPA**) for, in summary, orders enjoining the Defendant from using, disclosing or communicating the personal data of three named individuals (the “**Clients’ Personal Data**”) as well as for the Defendant to deliver up any copies of the Clients’ Personal Data.
+
+2       Having considered the submissions of parties, I have decided to allow the third Plaintiff’s application (which pertains to his own personal data) but to disallow the applications of the first and second Plaintiffs (which pertain to the entirety of the Clients’ Personal Data). I set out below the grounds for my decision.
+
+## Background
+
+3       The first Plaintiff, IP Investment Management Pte Ltd, is a Singapore-incorporated company and carries on a fund management business that sets up and manages real estate private equity funds for investors. It is a part of the IP Investment Management group of companies (“**IPIM Group**”), which is in turn related to another group of companies known as the IP Global group of companies (the “**IP Global Group**”).
+
+4       The second Plaintiff, another Singapore-incorporated company, is also part of the IP Global Group.
+
+5       The Defendant was employed by the second Plaintiff from 1 June 2010 to 31 January 2017 as a marketing consultant.
+
+6       Between 1 March 2016 to 31 January 2017, the Defendant was seconded to IP Investment Management (HK) Ltd (“**IPIM HK**”), another member of the IPIM Group.
+
+7       During the period of his secondment to IPIM HK, the Defendant was involved, _inter alia_, in marketing an investment fund, set up by the first Plaintiff and IPIM HK, known as the “**Edinburgh Fund**”.
+
+8       According to the Plaintiffs, the Edinburgh Fund is a single asset, close-ended fund launched by the first Plaintiff in 2015 to acquire, develop and manage a student property in Edinburgh, UK. The investors in the Edinburgh Fund were all natural persons and included, at all material times, three individuals who shall be referred to collectively as the “**Clients**” in these Grounds. One of the three Clients is the third Plaintiff herein.
+
+9       The Defendant admitted that as part of his work marketing the Edinburgh Fund, he would have had the opportunity to know customers and prospective customers personally and that he would spend time interacting with them.
+
+10     On 31 January 2017, the Defendant left the employ of the second Plaintiff. His roles with the IP Global Group also ceased at that time.
+
+11     Subsequent to his departure from the IP Global Group, the Defendant joined a company known as Q Investment Partners Pte Ltd as “Head of Fund Raising”.
+
+12     On 14 and 15 August 2018, the Defendant sent an email to each of the three Clients at their personal email addresses. All three emails were phrased in similar terms. To give a flavour of their contents, the text of the email sent to the third Plaintiff is reproduced below:
+
+> \[name of the third Plaintiff\]
+
+> I hope this finds you well.
+
+> I am unsure what background you know re QIP but it was business set up by Peter Young, formerly CEO of IP Investment Management.
+
+> I hope you don’t mind me touching base regarding your upcoming Edinburgh exit. We have put specific GBP opportunities in place to cater to this. This includes both debt and equity, short and medium term, income producing as well as equity with distributions so we can help you in whatever capacity required. In addition, we have put specific incentives in place.
+
+> I can run through this with you if that suits?
+
+> Tks
+
+> Alex
+
+13     For ease of reference, the emails sent by the Defendant to the three Clients will be referred to as the “**Emails**” in the remainder of these grounds.
+
+14     Following the receipt of the Emails, the three Clients contacted Mark Ferguson, the first Plaintiff’s Director, Investor Relations and Business Development, to express concern about the emails sent by the Defendant. This led to the filing of the OS herein by the first and second Plaintiffs herein on 1 October 2018.
+
+15     On 8 March 2019, following the hearing of substantive arguments in the OS, the third Plaintiff applied to be joined as a plaintiff in this OS by way of DC/SUM 969/2019. This application was allowed on 23 May 2019.
+
+16     Notwithstanding the joinder of the third Plaintiff as a plaintiff in this OS, I was informed on 6 June 2019 that the relief sought by the third Plaintiff would be the same as that sought by the first and second Plaintiffs as prayed for in the initial OS, save that the personal data to which his claim related would be limited to that pertaining to the third Plaintiff himself.
+
+17     At the same hearing, I was also informed that the third Plaintiff would not be making any additional submissions and would be relying completely on arguments which had previously been made before me on behalf of the first and second Plaintiffs.
+
+## The Plaintiffs’ case
+
+18     By way of the OS, the Plaintiffs seek the following orders against the Defendant:
+
+> (a)     An injunction restraining the Defendant whether acting individually, or in concert with and/or through the Defendant’s employers, related companies, directors, officers, employees, servants, agents or any of them or otherwise howsoever, from using, disclosing or communicating to any person or persons any personal data of the Clients.
+
+> (b)     An order that the Defendant surrender and deliver up to the Plaintiffs all copies of the Clients’ personal data obtained by the Defendant in accordance with a protocol attached to the OS (summarised at \[146\] below).
+
+19     Section 32 of the PDPA forms the sole basis put forward by the Plaintiffs for the remedies sought in this OS.
+
+20     In particular, the Plaintiffs’ application herein is not premised upon any _contractual_ obligation owed by the Defendant to the Plaintiffs arising out of the Defendants’ erstwhile employment by the second Plaintiff.
+
+21     The pertinent provisions of section 32 of the PDPA state as follows:
+
+> (1)    Any person who suffers loss or damage directly as a result of a contravention of any provision in Part IV, V or VI by an organisation shall have a right of action for relief in civil proceedings in a court.
+
+> …
+
+> (3)    The court may grant to the plaintiff in an action under subsection (1) all or any of the following:
+
+>> (a)    relief by way of injunction or declaration;
+
+>> (b)    damages;
+
+>> (c)    such other relief as the court thinks fit.
+
+22     Each of the Plaintiffs submits that it or he (as the case may be) is a “person” who has suffered “loss or damage” directly as a result of the contravention of the PDPA by the Defendant, being an “organisation” for the purposes of section 32(1) of the PDPA. Accordingly, the Plaintiffs submit, they are entitled to bring an action under section 32(1) and to relief under section 32(3).
+
+23     Insofar as the “contravention of any provision in Part IV, V or VI” is concerned, the Plaintiffs allege that the provisions of the PDPA which the Defendant has contravened are sections 13 and 18, which state as follows:
+
+> **Consent required**
+
+> 13.    An organisation shall not, on or after the appointed day, collect, use or disclose personal data about an individual unless –
+
+>> (a)    the individual gives, or is deemed to have given, his consent under this Act to the collection, use or disclosure, as the case may be; or
+
+>> (b)    the collection, use or disclosure, as the case may be, without the consent of the individual is required or authorised under this Act or any other written law.
+
+> **Limitation of purpose and extent**
+
+> 18.    An organisation may collect, use or disclose personal data about an individual only for purposes –
+
+>> (a)    that a reasonable person would consider appropriate in the circumstances; and
+
+>> (b)    that the individual has been informed of under section 20, if applicable.
+
+24     The Plaintiffs allege that the Defendant, in sending the Emails to the Clients:
+
+> (a)     with reference to section 13 of the PDPA, made use of the Clients’ personal data in a manner without the Clients’ consent; and
+
+> (b)     with reference to section 18 of the PDPA, made use of such personal data for purposes other than those which the Clients had previously been informed of.
+
+## The Defendant’s case
+
+25     The Defendant seeks to resist the Plaintiffs’ application herein on a number of different grounds, which may be summarised as follows:
+
+> (a)     information used by the Defendant in sending the Emails had not been shown to amount to personal data within the meaning of the PDPA (the “**Personal Data Argument**”);
+
+> (b)     neither the first nor second Plaintiff is a “person” who can exercise the right of action conferred under section 32 of the PDPA (the “**Standing Argument**”);
+
+> (c)     none of the Plaintiffs has suffered “loss or damage directly as a result of a contravention of any provision in Part IV, V or VI” of the PDPA (the “**No Loss Argument**”); and
+
+> (d)     even if the Plaintiffs are entitled to relief in the OS, the orders sought should not be granted (the “**Relief Argument**”).
+
+26     I will consider each of the grounds summarised in the preceding paragraph in turn and, in so doing, explain why the third Plaintiff’s application herein ought to be allowed.
+
+## The Personal Data Argument
+
+27     In resisting the Plaintiffs’ application, the Defendant submitted, _inter alia_, that the Plaintiffs’ application ought not be allowed as the Plaintiffs have not identified with precision what personal data forms the subject matter of their application.
+
+28     With respect, for the reasons set out below, the position taken by the Defendant on this issue is untenable. Instead, I prefer the Plaintiffs’ submission that in this case, the following information must be considered the Clients’ Personal Data:
+
+> (a)     the names of the Clients;
+
+> (b)     their personal email addresses; and
+
+> (c)     their personal investment activity in the Edinburgh fund.
+
+29     Section 2(1) of the PDPA contains the following definition of “personal data”:
+
+> “personal data” means data, whether true or not, about an individual who can be identified —
+
+>> (a)    from that data; or
+
+>> (b)    from that data and other information to which the organisation has or is likely to have access;
+
+30     In the absence of further details in the PDPA itself as to what would constitute personal data, the Plaintiffs submitted, and I agree, that guidance can be taken from the Personal Data Protection Commission Singapore (the “**PDPC**”) as to what constitutes personal data. This is because, pursuant to section 6 of the PDPA, the functions of the PDPC shall be, _inter alia_:
+
+> (a)     to promote awareness of data protection in Singapore;
+
+> (b)     to provide consultancy, advisory, technical, managerial or other specialist services relating to data protection; and
+
+> (c)     to administer and enforce the PDPA.
+
+### Names of the Clients
+
+31     As a starting point, I note that the Advisory Guidelines on Key Concepts in the PDPA (revised 27 July 2017, the “**PDPA Guidelines**”), issued by the PDPC, state that the term “personal data” is not intended to be narrowly construed.
+
+32     Paragraphs 5.8 to 5.10 of the PDPA Guidelines are particularly apposite in this regard. These state that
+
+> 5.8    Certain types of data can, on its own, identify an individual, for instance biometric identifiers which are inherently distinctive to an individual, such as the face geometry or fingerprint of an individual.
+
+> 5.9    Similarly, data that has been assigned to an individual for the purposes of identifying the individual (e.g. NRIC or passport number of an individual) would be able to identify the individual from that data alone.
+
+> 5.10  Such data which, on its own, constitutes personal data is referred to as “unique identifier” in these guidelines. Data that the \[PDPC\] generally considers unique identifiers include:
+
+>> ·    full name
+
+>> ...
+
+33     The PDPC has also, in a number of its published decisions, consistently taken the position that the name of an individual constitutes his or her personal data. One example is the PDPC’s decision in _(1) Aviva; (2) Toh-Shi Printing Singapore Pte Ltd_ \[2016\] SGPDPC 15 where, at \[38\], the PDPC expressly referred to names of insurance policyholders’ dependents and beneficiaries as constituting personal data.
+
+34     The PDPC’s position in this regard is completely consistent with the definition of personal data contained in section 2(1) of the PDPA and accordingly, I agree with the Plaintiffs’ that the names of the Clients constitute personal data.
+
+### Personal email addresses
+
+35     Separately, I am also in agreement with the Plaintiffs that the Clients’ email addresses would constitute personal data of the Clients.
+
+36     In this regard, in its decision in _Credit Counselling Singapore_ \[2017\] SGPDPC 18, the PDPC held that email addresses, particularly if they contain the full or partial name of the individual, can constitute personal data.
+
+37     Indeed, in _Credit Counselling_, the PDPC went further and held that even where email addresses do not disclose the full or partial name of an individual, they can still constitute personal data if they can be linked to specific individuals through the use of online social media platforms.
+
+38     Again, in my view this approach is consonant with the definition of personal data in the PDPA insofar as it provides that personal data includes data which allows an individual to be identified
+
+> from **that data and other information** to which the organisation has or is likely to have access; (Emphasis added)
+
+39     In the case before me, the email addresses of the Clients contained at least partial names of the Clients. For example, the third Plaintiff’s email address contains his surname in full and a simplified form of his first name. Accordingly, these email addresses also constituted the personal data of the Clients.
+
+### Investment activity information
+
+40     The third category of personal data which the Plaintiffs allege was obtained and used by the Defendant is information pertaining to the Clients’ investment activities in the Edinburgh Fund.
+
+41     In particular, the Plaintiffs highlight that the Defendant demonstrated, by way of the contents of his emails to the Clients, that he was aware of the fact of the Clients’ investments in the Edinburgh Fund and of the Clients’ impending exit from the same investment.
+
+42     On this issue, as highlighted by the Plaintiffs’ counsel, I note that paragraph 5.4 of the PDPA Guidelines states, inter alia, as follows:
+
+> The most basic requirement for data to constitute personal data is that it is data about an individual. Data about an individual includes any data that relates to the individual. Some examples of data that is about an individual include information about an individual’s health, educational and employment background, as well as an **individual’s activities such as spending patterns**.
+
+> (Emphasis added)
+
+43     The PDPC’s decision in _Central Depository (Pte) Limited and Toh-Shi Printing Singapore Pte Ltd_ \[2016\] SGPDPC 11 (the “_CDP Case_”) supports the Plaintiffs’ submission that investment information could constitute personal data.
+
+44     In the _CDP Case_, account statements for certain Central Depository accounts were found to have been received by persons who were not the holders of the accounts to which the statements pertained. In that case, the statements contained information of one or more of the following types:
+
+> (a)     account information (name, address and account number);
+
+> (b)     securities holdings;
+
+> (c)     transaction summary; and/or
+
+> (d)     payment summary.
+
+45     For present purposes, it suffices to note that the PDPC’s decision in the _CDP Case_ proceeded on the basis that the account statements contained personal data. Indeed, in coming to its ultimate decision in that matter, the PDPC expressly stated that it had considered that the matter before it involved “sensitive financial data”.
+
+46     I see no reason why the information pertaining to the Clients’ investment activity in the Edinburgh Fund in this matter should be treated any differently from the personal data that was at issue in the CDP Case. The Defendant herein plainly was able to link investment activity in the Edinburgh Fund to each of the individual Clients to whom he wrote. Such investment activity information would therefore be considered personal data for the purposes of the application herein.
+
+47     I turn now to consider the Defendant’s submission that the Plaintiffs’ application herein ought not to be allowed because he had obtained the personal data of the Clients by, essentially, making searches of publicly available information.
+
+48     With respect, I am unable to accept this submission because, regardless of whether the Client’s names and email addresses could have been found in the public domain, the fact of their investments in the Edinburgh Fund (and any information pertaining to such investment) was indisputably information obtained by the Defendant in the course of his employment by the second Plaintiff.
+
+49     This is apparent from the evidence adduced by the Defendant himself in this matter.
+
+50     At \[61\] to \[63\] of his affidavit affirmed on 1 November 2018, the Defendant stated that:
+
+> 61.    As I have worked together with the relationship managers of \[the Clients\]…for approximately 7 years, \[the Clients’\] names must have been brought up during some conversations as customers or prospective customers…
+
+> 62.    As I recall that the above conversations occurred some time in or around August 2015, any investment they made at the time (if indeed they made an investment) must have been for the Edinburgh Fund since the Edinburgh Fund was the only asset that was being marketed by the 1st Plaintiff that I knew of at the material time.
+
+> 63…    my role at the 1st Plaintiff was also to supervise and oversee the “Know Your Customers Check”. Such a role included ensuring that staff physically processing the “Know Your Customers Check” complied with industry-level procedures and the internal mechanisms implemented by the 1st Plaintiff.
+
+> (Emphasis in original)
+
+51     The Defendant’s assertion that the names and email addresses of the Clients are available in the public domain thus misses the point. It is clear that these names and email addresses would have no value to the Defendant had they not been accompanied by the information (or data) that these names and addresses were those of persons who had invested in and who were about to exit the Edinburgh Fund.
+
+52     The personal data with which this application is concerned is thus the dataset comprising the Clients’ name, email addresses _and_ their investment activity in the Edinburgh Fund. The Defendant has not shown any reason why protection under the PDPA ought not to be accorded to such personal data. Accordingly, the Personal Data Argument must be rejected.
+
+## The Standing Argument
+
+53     Insofar as the Standing Argument is concerned, the material portion of section 32 of the PDPA is that which states as follows:
+
+> Any person who suffers loss or damage directly as a result of a contravention of any provision in Part IV, V or VI by an organisation shall have a right of action…
+
+54     The term “person” is not defined in the PDPA. However, the Plaintiffs highlight that section 2(1) of the Interpretation Act (Cap 1) does contain the following definition of the term “person”:
+
+> “Person” and “party” include any company or association or body of persons, corporate or unincorporate;
+
+55     The Plaintiffs submitted, based on the foregoing, that there is no reason why bodies corporate such as the first and second Plaintiffs should not be capable of being “persons” entitled to the benefit of the right of action conferred by section 32 of the PDPA, provided they can satisfy the other requirements contained in section 32 of the PDPA.
+
+56     Going further, the Plaintiffs also submitted that the PDPA does not specify that only a “person” to whom the personal data misused relates would be entitled to exercise the right of action conferred by section 32. For ease of reference, in the remainder of these grounds, I will refer to such an individual as the “**data subject**”.
+
+57     One key issue before me was whether it would be in keeping with the purpose and parliamentary intent of the PDPA for companies, such as the first and second Plaintiffs, which are not themselves the data subjects whose personal data have been collected and used in contravention of the PDPA’s provisions, to be allowed to bring claims under section 32 of the PDPA.
+
+58     For the avoidance of doubt, I should highlight that in this case, there was no suggestion by the first or second Plaintiffs that they were purporting to exercise derivative rights of action assigned to them by the Clients; instead, the first and second Plaintiffs submitted that they were entitled, in their own right, to bring proceedings against the Defendant pursuant to section 32 of the PDPA.
+
+59     For the reasons set out below, I am of the view that the submission made by the first and second Plaintiffs, as summarised in the preceding paragraph, must be rejected.
+
+### Parliamentary Intent and section 32 of the PDPA
+
+60     In the seminal decision of _Attorney-General v Ting Choon Meng_ <span class="citation">\[2017\] 1 SLR 373</span>, the Court of Appeal made it clear that the purposive approach to statutory interpretation is to be preferred to all other approaches and, further, that
+
+> …there is no requirement that a provision be ambiguous or inconsistent before a purposive approach can be taken.
+
+> (at \[18\] of the judgment)
+
+61     In _Ting Choon Meng_, the Court of Appeal also made clear that in construing a statutory provision, both the text as well as the context in which that provision had been promulgated would be important.
+
+62     Insofar as the text is concerned, section 32(1) of the PDPA expressly confers the right created thereunder on a “person” otherwise satisfying the other criteria set out in that provision.
+
+63     As counsel for the Plaintiffs highlighted, the use of the word “person” suggests that those entitled to exercise the right conferred by section 32 need not always be natural persons because in section 2(1) of the PDPA, it is the word “individual” which is defined to mean
+
+> …a natural person, whether living or deceased.
+
+64     As mentioned earlier, the PDPA contains no definition of the term “person”.
+
+65     The term “person” is defined in section 2(1) of the Interpretation Act (Cap 1) as including “any company or association or body of persons, corporate or incorporate”, but subject to the proviso that the definition shall apply
+
+> …unless there is something in the subject or context inconsistent with such construction…
+
+66     The inclusion of bodies corporate in the definition of the term “person” in the Interpretation Act cannot therefore, on its own, be conclusive as to its meaning in the PDPA.
+
+67     It is not entirely clear from the text of the PDPA that the term “person” always encompasses bodies corporate, as there are references in the PDPA to a “person or organisation”, and “organisation” is a term defined in section 2(1) of the PDPA as follows:
+
+> “Organisation” includes any individual, company, association or body of persons, corporate or unincorporated, whether or not –
+
+>> (a)    formed or recognised under the law of Singapore; or
+
+>> (b)    resident, or having an office or place of business, in Singapore;
+
+68     Given the PDPA definition of the term “organisation”, phrases such as “any person or organisation” or “organisation or person” would appear to be tautologous if the term “person” invariably included bodies corporate. Such references can be found in sections 51(3) and 62 of the PDPA.
+
+69     In view of the foregoing, regard to the context in which section 32 was promulgated is necessary in order to establish the scope of the “persons” who are entitled to seek recourse in the courts pursuant to that provision.
+
+70     It is clear from decisions like _Ting Choon Meng_ that in construing the terms of a statute, the provision to be construed cannot be read in isolation and regard must be had to the entire scheme and structure of the Act, which is to be viewed as an integrated and holistic whole (_vide_ \[35\] of the judgment).
+
+71     I note, in this regard, that a large portion of the PDPA is taken up with setting out obligations of organisations in relation to the collection, use and disclosure of personal data. In particular, for present purposes, section 24 of the PDPA obliges organisations to
+
+> …protect personal data in its possession or under its control by making reasonable security arrangements to **prevent** unauthorised access, collection, use, disclosure, copying, modification, disposal or similar risks.
+
+> (Emphasis added)
+
+72     As to the question of how an organisation is to meet the obligations imposed under the PDPA (including the obligation to protect personal data imposed by way of section 24 thereof), section 11(1) of the PDPA states that
+
+> \[i\]n meeting its responsibilities under this Act, an organisation shall consider what a reasonable person would consider appropriate in the circumstances.
+
+73     Further, section 12 of the PDPA expressly provides that
+
+> **Policies and practices**
+
+> 12.    An organisation shall —
+
+>> (a)    develop and implement policies and practices that are necessary for the organisation to meet the obligations of the organisation under this Act;
+
+>> (b)    develop a process to receive and respond to complaints that may arise with respect to the application of this Act;
+
+>> (c)    communicate to its staff information about the organisation’s policies and practices referred to in paragraph (a); and
+
+>> (d)    make information available on request about —
+
+>>> (i)    the policies and practices referred to in paragraph (a); and
+
+>>> (ii)   the complaint process referred to in paragraph (b).
+
+74     It would appear, from the foregoing, that the PDPA takes what could be broadly described as a prophylactic, as opposed to remedial, approach to the obligations imposed on data-collecting organisations.
+
+75     The observation made in the preceding paragraph is significant, for present purposes, because one of the arguments made before me by the Plaintiffs’ counsel, in support of their submission that section 32 of the PDPA should be construed so as to permit parties other than the data subject to sue thereunder, was that this would
+
+> …serve to promote the PDPA’s statutory purpose of protecting personal data and holding errant parties like the Defendant who abuse personal data to account.[^1]
+
+76     In further elaboration of the foregoing, it was submitted by the Plaintiffs’ counsel that as the Personal Data Commission “expects” an organisation to take remedial measures to “limit the damage caused by a third party’s data breach”, there would be
+
+> …a “serious remedial lacuna in the PDPA if the only remedial measure that the \[first and second Plaintiffs\] could take in this case was only a passive request to the Defendant for return or deletion of the Personal Data...Such a passive remedy is effective only when the defendant is willing to cooperate…
+
+> If the Defendant were recalcitrant, like in the present case, then the need for a private action by the “organisations” under section 32 becomes plain.[^2]
+
+77     The argument cited in the preceding paragraphs is no doubt attractive at first glance. Having considered the same, however, I am of the view that the interpretation of section 32 contended for by the Plaintiffs would not only fail to promote the object of the PDPA, it would be inconsistent with the same.
+
+78     As I have highlighted earlier, the obligations imposed by the PDPA upon data collecting organisations are generally speaking preventive in nature. In particular, where data breaches are concerned, section 24 of the PDPA obliges an organisation to take steps to “prevent” the risks referred in that provision.
+
+79     The aforementioned obligation would appear to include putting in place appropriate contractual and operational safeguards to ensure that in the event of a “data breach” (to use the Plaintiffs’ term), the organisation would be in place to take the necessary steps, whether by way of court proceedings or otherwise, to address the same.
+
+80     This principle is illustrated in a decision of the PDPC relied upon by the Plaintiffs themselves.
+
+81     In _Watami Food Service Pte Ltd_ \[2018\] SGPDPC 12, the eponymous restaurant discovered in November 2017 that the personal data of its 405 employees was accessible via its website and hence publicly searchable online.
+
+82     Before me, the Plaintiffs highlighted that whilst the organisation which was the subject of the _Watami_ decision was found by the PDPC to have breached its obligations under section 24 of the PDPA, it was only issued with a warning because, _inter alia_, it had taken “prompt remedial steps, including a prompt instruction to Fairwin \[a company engaged to maintain the organisation’s website\], to remove the wrongfully uploaded personal data, and restricting website server access to only one person”[^3].
+
+83     With respect, the decision in _Watami_ does not in my view assist the Plaintiffs in this case. The organisation in Watami was plainly able to take the remedial steps referred to because, quite independently of section 32 of the PDPA, it had already put in place arrangements which permitted it do so.
+
+84     In contrast, in the instant, case, it will be recalled that the sole basis of the first and second Plaintiffs’ action against the Defendant is section 32 of the PDPA. Before me, there was no attempt whatsoever by the first and second Plaintiffs to demonstrate any contractual or common law nexus by which they could be entitled to the remedy which they seek against the Defendant in these proceedings.
+
+85     Put differently, it appears that the first and second Plaintiffs in this case are attempting to use section 32 of the PDPA _as a substitute_ for contractual or other arrangements, which they might otherwise have been expected to put in place (for instance, pursuant to section 24 of the PDPA), to protect personal data in their possession.
+
+86     I cannot see how Parliament could have intended that section 32 of the PDPA should serve as a kind of crutch for organisations which have not complied with their obligations under the PDPA, for this would severely undermine the stated aim of the PDPA as legislation to
+
+> …safeguard individuals’ personal data against misuse by regulating the proper management of personal data.[^4]
+
+87     Admittedly, there is a dearth of material directly shedding light on the question of the parties who Parliament intended should enjoy the right of action created by section 32 of the PDPA.
+
+88     There is no extensive reference to the private right of action created by section 32 in the relevant Parliamentary debates pertaining to the promulgation of the PDPA. In his speech at the second reading introducing the Personal Data Protection Bill 2012, the Minister’s reference to the right of private action was in the following terms:
+
+> The Bill also **allows individuals to seek compensation** for damages directly suffered from a breach of the data protection rules through private rights of action. (Emphasis added)
+
+89     Defendant’s counsel sought to rely on the above-cited statement as supporting his submission that section 32 was intended to allow only individuals (presumably the data subject) to sue under that section of the PDPA. I do accept, however, that in making the above-cited statement, the Minister did not expressly state that the right of private action would not also be available to bodies corporate.
+
+90     Notwithstanding the lack of any direct references to section 32 of the PDPA, I think the Minister’s speech does provide some further information which indirectly assists in the interpretation of that provision.
+
+91     It seems clear that one of the primary motivating factors behind the promulgation of the PDPA generally was to bring data protection laws in Singapore in line with other jurisdictions.
+
+92     For instance, in the Minister’s speech at the second reading of the Personal Data Protection Bill 2012, the Minister remarked that the PDPA would
+
+> …put Singapore on par with the growing list of countries that have enacted data protection laws and facilitate cross-border transfers of data.
+
+93     Separately, it is in my view also significant that in the Public Consultation Issued by the then Ministry of Information, Communications and the Arts (“**MICA**”) dated 19 March 2012 (the “**2012 Public Consultation**”), it was stated, specifically in the context of the private right of action conferred by section 32 of the PDPA, that
+
+> 2.129 MICA notes the concerns about organisations incurring higher legal costs given that the **PDPA will enable individuals to separately seek redress via civil proceedings in court**. However, **to align with \[data protection\] laws with other jurisdictions and to allow for compensation to damages caused to individuals, MICA will enable the PDPA to make provisions for civil proceedings in court**. It is noted that under the PDPA, no private action may be brought in respect of a contravention for which the DPC has made a decision, until after the decision has become final as a result of there being no further right of appeal.
+
+> (Emphasis added)
+
+94     I make two points about the foregoing passage. First, there is again no reference to an organisation being granted the right to bring proceedings in court in the exercise of a right of private action. Secondly, the intent to align Singapore data protection laws with those of other jurisdictions is again expressed.
+
+95     I would add that the provisions of the draft personal data protection bill attached to the 2012 Public Consultation pertaining to the private right of action are _in pari materia_ to those of the present section 32 of the PDPA. In particular, the draft stated, _inter alia_, that
+
+> Any person who suffers loss or damage directly as a result of a contravention of Part IV, V or VI by an organisation shall have a right of action for relief in civil proceedings in a court.
+
+96     It would appear from the foregoing that even if it has not been expressly stated that the right of private action would not be available to organisations in the position of the first and second Plaintiffs herein, it would be equally true to say that the possibility that recourse to the section 32 right of private action could be sought by organisations collecting personal data appeared not to have been expressly articulated in the lead up to the promulgation of the PDPA.
+
+97     Separately, given that it was stated, on more than one occasion, that one of the purposes of promulgating the PDPA was to bring Singapore law in line with those of other jurisdictions, I invited parties to tender submissions as to whether, in other jurisdictions, the right of private action is available to parties other than the data subject.
+
+98     In brief, following my invitation for further submissions, none of the parties was able to tender any evidence of a jurisdiction in which an entity other than a data subject is able to have recourse to a right of private action similar to that provided for under section 32 of the PDPA _for its own benefit_.
+
+99     To the contrary, legislation from the United Kingdom and Hong Kong, to which I was referred, appears to confine the right to bring a private action to data subjects.
+
+100    In saying this, I must mention that there are two documents emanating from the European Union which, the Plaintiffs’ counsel submitted, pointed to the possibility that entities other than a data subject might be able to exercise rights of private action conferred by data protection legislation similar to our own.
+
+101    The two documents to which my attention was drawn by the Plaintiffs’ counsel were:
+
+> (a)     Proposal for a Directive of the European Parliament and of the Council on the protection of individuals with regard to the processing of personal data by competent authorities for the purposes of prevention, investigation, detection or prosecution of criminal offences or the execution of criminal penalties, and the free movement of such data (“the “**Directive Proposal 2012**”); and
+
+> (b)     Proposal for a Regulation of the European Parliament and of the Council on the protection of individuals with regard to the processing of personal data and on the free movement of such data (General Data Protection Regulation) (the “**Regulation Proposal 2012**”).
+
+102    The Plaintiffs’ counsel submitted that both the above-mentioned documents, _inter alia_, conferred upon a “body, organisation or association” the right to judicial remedies on behalf of data subjects. Further, as these documents were apparently promulgated in 2012, being at or around the time the 2012 Public Consultation was issued, I was also invited to infer that the data protection laws of “other jurisdictions” referred to in the passage cited in \[93\] above included those in the Directive Proposal 2012 as well as the Regulation Proposal 2012 and accordingly that it was all along intended that the private right of action conferred by section 32 of the PDPA could be enjoyed by entities other than the data subject itself.
+
+103    With respect, I am unable to accept the Plaintiffs’ submissions as summarised above.
+
+104    Both of the documents mentioned in paragraph \[101\] above are “proposals”. It is therefore not apparent to me that they should be treated as having, or having had in 2012, the force of law. It is therefore far from apparent that these documents were considered in the 2012 Public Consultation.
+
+105    More importantly, it was apparent, from a perusal of the provisions in the Directive Proposal 2012 as well as the Regulation Proposal 2012, that the private right of action, insofar as it might be enjoyed by a “body, organisation or association”, was one to be exercised “on behalf of” a data subject only (_vide_ Article 73(2) of the Regulation Proposal 2012 and Article 50(2) of the Directive Proposal 2012).
+
+106    The nature of the private right of action conferred by the Directive Proposal 2012 and the Regulation Proposal 2012, even assuming either of these documents gave rise to binding legal rights, was thus of a fundamentally different nature from that which the first and second Plaintiffs contend they enjoy under section 32 of the PDPA.
+
+107    This is because, it will be recalled, in the instant proceedings, the first and second Plaintiffs do not claim to be bringing these proceedings or exercising rights of private action on behalf of the Clients; instead, the position taken by the first and second Plaintiffs herein has consistently been that they have a right of action against the Defendant under section 32 of the PDPA which is independent of any right of action that the Clients might enjoy under the same provision.
+
+108    Neither the Directive Proposal 2012 nor the Regulation Proposal 2012 purport to confer such an independent right of action, not least on the organisations upon which were imposed the obligations to safeguard personal data.
+
+109    For completeness, I note that under both the Directive Proposal 2012 and the Regulation Proposal 2012, subject to certain other conditions a “body, organisation or association” may lodge a complaint with a supervisory body independently of a data subject’s complaint. However, there is a clear distinction between a complaint to a supervisory body and a right to bring civil proceedings in the exercise of a private right of action in the courts espoused in these documents; the right to lodge a complaint therefore provides no support for a submission that an independent private right of action was available to any party other than the data subject in the Directive Proposal 2012 or the Regulation Proposal 2012.
+
+110    Based on the information made available to me, it would therefore seem that an interpretation of section 32 of the PDPA which permits parties other than the data subject (or some other entity acting on his behalf) to bring an action thereafter would not be consistent with the approach generally taken in data protection regimes in other jurisdictions. This is, in my view, a factor that militates against the construction which the Plaintiffs herein submit I should place on the words of section 32 of the PDPA, given the stated desire to align the data protection laws of Singapore with those of other jurisdictions by way of that legislation.
+
+111    In summary, by reason of the foregoing, I am of the view that the right of private action conferred by section 32 of the PDPA was not intended to have been one that can be exercised by parties standing in the position of the first and second Plaintiffs.
+
+112    This conclusion as to the Standing Argument effectively compels the dismissal of the application herein insofar as the first and second Plaintiffs are concerned.
+
+113    There is, of course, no question that the third Plaintiff has the requisite standing to pursue a claim against the Defendant under section 32 of the PDPA insofar as it relates to the use of his own personal data.
+
+114    Accordingly, in the remainder of these Grounds, I will consider whether the third Plaintiff has made out a case to be granted relief under section 32 of the PDPA.
+
+## The No Loss Argument
+
+115    Before me, the Defendant submitted that the Plaintiffs’ application herein must fail, _inter alia_, because they have not established that they have suffered “loss or damage” of a type falling within section 32 of the PDPA.
+
+116    In this regard, section 32 expressly requires that the loss or damage in question must have been suffered “directly as a result of a contravention of any provision in Part IV, V or VI” of the PDPA.
+
+117    In making this argument, the Defendant is in fact making two separate submissions:
+
+> (a)     The Plaintiffs have not adequately demonstrated the existence of one or more contraventions of a provision in Part IV, V or VI of the PDPA;
+
+> (b)     even if the Plaintiffs are able to show the existence of breaches of the relevant Parts of the PDPA, the Plaintiffs have not suffered any “loss or damage directly” as a result of such breaches.
+
+118    Insofar as the submission in \[117(a)\] is concerned, in my view, it is clear that in obtaining and making use of the Clients’ personal data, the Defendant has breached a number of provisions in Part IV, V or VI of the PDPA.
+
+119    I begin by observing that the Defendant is capable of being an “organisation” for the purposes of the PDPA. In this regard, the definition of “organisation” in section 2 of the PDPA expressly includes an “individual”, which is in turn defined to mean
+
+> “a natural person, whether living or deceased;”
+
+120    The Defendant would thus, broadly speaking, be bound to comply with the provisions of the PDPA in respect of personal data that he has obtained.
+
+121    Insofar as the identification of specific obligations breached by the Defendant are concerned, the Plaintiffs’ counsel submitted that at the very least, the Defendant has breached the following obligations under the PDPA:
+
+> (a)     The obligation, imposed pursuant to section 13 of the PDPA, not to use an individual’s personal data without his consent (the “**Consent Obligation**”); and
+
+> (b)     The obligation, imposed pursuant to section 18 of the PDPA, to use an individual’s personal data only for purposes which a reasonable person would consider appropriate and for purposes which an individual has been informed of (the “**Limited Purpose Obligation**”).
+
+122    I agree that, on the evidence before me, the Defendant has not complied with either the Consent Obligation or the Limited Purpose Obligation.
+
+123    The Defendant sought to argue that, instead of misusing personal data collected from the Clients, he had merely been
+
+> … adept in searching Google, doing simple arithmetic and thereafter making ‘cold calls’ to potential investors after their financial relationship with the Plaintiffs ought to have ended.
+
+124    With respect, this is inconsistent, even with his own evidence, as to the level of access to client information which he enjoyed during the material period.
+
+125    In this regard, I would highlight that the Defendant himself admitted, on affidavit, the following:
+
+> (a)     The Defendant worked together with the relationship managers of the Clients for approximately seven years and thus the Clients’ named must have been brought up during conversations as customers or prospective customers.
+
+> (b)     The aforementioned conversations would have been in relation to the Edinburgh Fund (and consequently linked the Clients to the Edinburgh Fund) because the Edinburgh Fund was the only asset being marketed by the first Plaintiff that the Defendant was aware of at the material time.
+
+> (c)     The Defendant’s duties included supervising and overseeing the “Know Your Customers Check”, suggesting that this would have also have given the Defendant access to the Client’s personal data.
+
+126    As explained earlier, the Defendant obtained information as to the Clients’ investment activity through his work for the first and second Plaintiffs and this, together with the Clients’ names and email addresses, constitutes the personal data which forms the subject matter of this OS (_vide_ \[51\] to \[52\] above).
+
+127    Further, the personal data in question would have been provided by the Clients to the first and Second Plaintiffs on certain terms. These terms are set out in a document known as the “Personal Data Protection Act 2012 – Consent Form” (the “**Consent Form**”) which forms part of each Client’s subscription form for the Edinburgh Fund.
+
+128    The Consent Form, _inter alia_, states that:
+
+> (a)     the Client acknowledges that his personal data would be provided to
+
+>> the Company, the Investment Manager, the Administrator and/or their affiliates…
+
+> (b)     the personal data in question would be provided for the following purposes:
+
+>> a)       Ensuring that the Investment Manager, the Administrator and the Company meet their obligations under the applicable anti-money laundering and countering the financing of terrorism legislation or regulations;
+
+>> b)       Ascertaining whether the Subscriber meets the applicable suitability standards imposed by the jurisdiction of the Subscriber’s residence and any other law applicable to the Investment Manager, the Administrator and the Company;
+
+>> c)       To enable the Investment Manager, the Administrator and the Company to carry out each of their rights and obligations relating to the Subscriber’s subscription for shares in the Company pursuant to the Subscriber’s subscription form;
+
+>> d)       If the Subscriber’s subscription is accepted, to manage and administer the Subscriber’s holding in the Company and any related accounts on an on-going basis;
+
+>> e)       For any specific purposes to which the Subscriber had given specific consent;
+
+>> f)       To carry out statistical analysis and market research;
+
+>> g)       To comply with legal and regulatory obligations applicable to the Subscriber, the Investment Manager and the Company;
+
+>> h)       For disclosure or transfer whether in Singapore or jurisdictions outside Singapore, to third parties including financial advisers, regulatory bodies, auditors, technology providers to the Investment Manager and its delegates and/or agents and any of their respective related, associated or affiliated companies for the purposes specified above; and
+
+>> i)       For other legitimate business interests of the Investment Manager and the Company.
+
+129    Two points may be made about the terms of the Consent Form mentioned in the preceding paragraph.
+
+130    First, the consent given by each Client who signed the Consent Form was to be limited to certain identified persons or classes of persons. This is shown by the words
+
+> I understand that I will be providing personal data…to the Company, Investment Manager, the Administrator and/or their Affiliates…
+
+131    Secondly, the consent was given for certain specified purposes, being those set out \[128(b)\] above.
+
+132    On a plain reading of the Consent Form, it is evident that in giving their consent, the Clients did not contemplate that the consent being thereby given would:
+
+> (a)     extend to _former employees_ of the first or second Plaintiffs such as the Defendant; or
+
+> (b)     encompass the purpose for which the Defendant herein has used the Clients’ personal data, that is, to contact them regarding other investments following his change of employers.
+
+133    Accordingly, in making use of the Clients’ personal data in the manner in which he indisputably did, the Defendant has clearly acted in breach of the Consent Obligation as well as the Limited Purpose Obligation. The Defendant has therefore contravened provisions in Part IV of the PDPA such as would constitute grounds for the bringing of a private action against him pursuant to section 32 of the PDPA.
+
+134    That having been said, a plaintiff who seeks relief under section 32 of the PDPA must still show that he has suffered “loss and damage directly as a result” of the Defendant’s contravention of Part IV of the PDPA.
+
+135    For present purposes, as I have already determined that the first and second Plaintiffs are not entitled in any event to bring proceedings against the Defendant under section 32 of the PDPA, it is the existence of “loss and damage” suffered by the _third Plaintiff_ with which I am concerned herein.
+
+136    As pointed out earlier, following the joinder of the third Plaintiff herein, counsel for both parties were content to rest their respective submissions on those that had previously been made before me. Understandably, the focus of those earlier submissions had been on loss and damage purportedly suffered by the first and second Plaintiffs. Nevertheless, it also appeared to this court that, underlying the arguments of loss and damage suffered by the first and second plaintiffs put forward by both sides was a recognition that the third Plaintiff himself would have suffered loss and damage (if not in a financial sense) through the misuse of his personal information.
+
+137    In particular, this appears from the Defendant’s reliance on certain passages of the PDPC’s decision in _My Digital Lock_ \[2018\] SGPDPC 1. In _My Digital Lock_, the Deputy Commissioner of the PDPC, Mr Yeong Zee Kin, had occasion to consider “the intersection between the law protecting privacy and personal data protection”.
+
+138    In this context, the Deputy Commissioner made a number of remarks which were relied upon by the Defendant herein. At \[33\] of _My Digital Lock_, the Deputy Commissioner expressed the view that there was room for the PDPA, in conjunction with the statutory torts established pursuant to the Protection from Harassment Act (Cap 256A), to “protect intrusions into seclusion”.
+
+139    In making the aforementioned remarks, the Deputy Commissioner referred to a Canadian case, _Jones v Tsige_ (2012) ONCA 32, in which a defendant bank employee had used her workplace computer to access the banking records of the plaintiff in that case. In _My Digital Lock_, the Deputy Commissioner suggested that the fact that one’s banking records had been unlawfully accessed could now give rise to actionable claims under section 32 of the PDPA and opined that
+
+> The right of private action under the PDPA protects **_information_** **privacy** which is complementary to but distinct from the protection of one’s seclusion, although these rights may overlap and co-exist.
+
+> (Emphasis added)
+
+140    Indeed, in the instant case, the Defendant’s counsel did not contend that the third Plaintiff ought to be denied relief under section 32 of the PDPA on the basis that he had suffered no loss that is actionable under this provision, having been content, following the addition of the third Plaintiff to the action herein, to rest its submissions on the basis of those made in earlier hearings before me.
+
+141    Section 32(3) of the PDPA expressly provides that in an action under section 32(1) of the PDA, the court may grant to a plaintiff relief by way of injunction or declaration (as opposed to damages). Given that one stated aim of the PDPA is to “safeguard individuals’ personal data against misuse” and, given the use of the third Plaintiff’s personal data by the Defendant in clear contravention of the PDPA, in my view the No Loss Argument must be rejected insofar as the Plaintiff may submit this pertains to the third Plaintiff.
+
+## The Relief Argument
+
+142    By virtue of the foregoing, I am of the view that whilst the first and second Plaintiffs have not established an entitlement to relief under section 32 of the PDPA, the third Plaintiff has established such an entitlement.
+
+143    Accordingly, I turn now to consider the relief prayed for by the third Plaintiff herein.
+
+144    By way of its Originating Summons (Amendment No.1), the Plaintiffs first prayed (“**Prayer 1**”) for an injunction
+
+> restraining the Defendant whether acting individually, or in concert with and/or through the Defendant’s employers, related companies, directors, officers, employees, servants, agents or any of them or otherwise howsoever, from using, disclosing or communicating to any person or persons any \[Client’s Personal Data\] or such other scope of injunction as this Honourable Court deems fit.
+
+145    In addition to the foregoing, the Plaintiffs also sought an order (“**Prayer 2**”) that
+
+> The Defendant to surrender and deliver up all copies of all the \[Client’s Personal Data\] or such Personal Data of \[each Client\] obtained by the Defendant to the 1st Plaintiff and 2nd Plaintiff, in accordance with the protocol set out at the Schedule hereto
+
+146    In the interests of concision, I will not repeat the protocol referred to in the aforementioned passage. However, suffice it to say that by way of the same, the Plaintiffs sought orders that the Defendant deliver up essentially all electronic media storage equipment in his possession and allow the Plaintiffs’ forensic experts unfettered access to inspect and take copies of the contents of the same.
+
+147    As will be apparent from the foregoing, the Plaintiffs do not seek any financial compensation from the Defendant in this OS and the relief sought is purely injunctive in nature.
+
+148    I have recognised that the PDPA, and in particular the private action made available under section 32 of the same, was intended to provide persons, whose personal data has been misused in contravention of the provisions of the PDPA, with relief from the consequences of such misuse.
+
+149    It thus follows that the grant of an injunction to prevent further misuse of the personal data in question would be an appropriate means of vindicating the third Plaintiff’s rights in respect of his personal data.
+
+150    As to the scope of such injunction, the Plaintiffs had initially proposed that this should not only be prohibitive in nature (_vide_ the terms of Prayer 1) but should also contain a mandatory element (_vide_ the terms of Prayer 2 and the protocol as summarised in \[145\] and \[146\] above).
+
+151    Insofar as the Defendant is concerned, he objected to an injunction in the terms sought by the Plaintiffs, even where the Plaintiffs might otherwise be entitled the same, on the basis that the orders sought by the Plaintiffs were “uncertain in scope, uncertain in its target and is akin to an Anton Piller-like Search Order”.
+
+152    I will consider the Defendant’s objections to each of Prayer 1 and Prayer 2 in turn.
+
+### Prayer 1 of the OS
+
+153    The scope of the prohibitive injunction sought by way of Prayer 1, as framed by the Plaintiffs, is to stated apply to the
+
+> Defendant whether acting individually, or in concert with and/or through the Defendant’s employers, related companies, directors, officers, employees, servants, agents…
+
+154    I understand the Defendant’s submission to be that Prayer 1, as set out above, would extend the injunction to “unidentified individuals/entities who are not party to the OS and who have not been given any opportunity to respond”.
+
+155    With respect, I disagree that this is the correct way to read Prayer 1. In this regard, the words “whether acting individually, or in concert with and/or through the Defendant’s employers, related companies, directors, officers, employees, servants, agents” merely describe alternative means through wish the Defendant might continue to make use of the third Plaintiffs’ personal data; the scope of the injunction contained in Prayer 1 is instead to be found simply in the words “restraining the Defendant” and hence is limited to the Defendant herein. On this reading, it seems obvious that the injunction cannot be said to apply to an unreasonably large number of persons.
+
+156    Turning to the operative terms of the injunction sought in Prayer 1, the negative obligation sought to be imposed on the Defendant therein is phrased in extremely simple terms and enjoins the Defendant from
+
+> using, disclosing or communicating to any person or persons any \[Client’s Personal Data\].
+
+157    Given that the injunction currently under consideration is one to be granted for the benefit of the third Plaintiff only, it would appear logical that the personal data to be encompassed by the injunction would be that of the third Plaintiff. Such personal data would include the name, the contact details as well as any investment activity information pertaining to the third Plaintiff.
+
+158    Constrained in the foregoing manner, it appears to me that there would no longer be any basis for the Defendant’s objections as to the scope of information and classes of persons to be encompassed by the injunction.
+
+159    For completeness, I would add that in their submissions, the Defendants sought to rely on the High Court decision in _Jardine Lloyd Thompson Pte Ltd v Howden Insurance Brokers (S) Pte Ltd and others_ <span class="citation">\[2015\] SGHC 202</span> in support of an argument that no injunction ought to be grated as the Plaintiffs herein have not demonstrated any misuse of specific confidential information or a real risk of such abuse.
+
+160    With respect, this submission misses the point. The Plaintiffs’ action herein is not premised upon any common law doctrine pertaining to the abuse of confidential information (which formed the basis of the injunction sought in the _Jardine Lloyd Thompson_ decision); instead, it is brought pursuant to section 32 of the PDPA, which provision is intended to provide an avenue to individuals to seek relief against entities which have collected or used their personal data in contravention of the obligations imposed by the PDPA.
+
+161    The contravention of the obligations imposed by the PDPA therefore constitutes the “wrong” in response to which an injunction must be issued under section 32 of the PDPA. That being the case, there is no basis for superimposing requirements, pertaining to an injunction founded upon a wholly different legal basis, upon an injunction to be issued pursuant to section 32 of the PDPA, once an entitlement to relief under section 32 has been demonstrated.
+
+162    I will accordingly issue an injunction, for the benefit of the third Plaintiff only, restraining the Defendant, whether acting individually, or in concert with and/or through the Defendant’s employers, related companies, directors, officers, employees, servants, agents or any of them or otherwise howsoever, from using, disclosing or communicating to any person or persons any personal data of the third Plaintiff. Such personal data shall include the name, contact details and any information pertaining to the investment activity of the third Plaintiff in the Edinburgh Fund.
+
+### Prayer 2 of the OS
+
+163    I have expressed the view above that Prayer 1 of the OS can be limited or clarified so as to address the Defendant’s concerns about its scope and operation. My comments on Prayer 2 of the OS should be read with this in mind.
+
+164    By way of Prayer 2, the Plaintiffs sought, in summary, a mandatory injunction to compel the Defendant to deliver up all electronic media storage equipment in his possession and to allow the Plaintiffs’ forensic experts unfettered access to inspect and make copies of the same.
+
+165    In support of Prayer 2, the Plaintiffs sought to rely on the decision of Lee Seiu Kin J in _Clearlab SG Pte Ltd v Ting Chong Chai and others_ <span class="citation">\[2014\] SGHC 221</span> (“**_Clearlab_**”).
+
+166    In _Clearlab_, a delivery up order was granted by Lee J as the corollary of an injunction to prevent the defendants therein from further exploiting the plaintiff’s confidential information.
+
+167    I also acknowledge that Lee J’s order in _Clearlab_ required, _inter alia_, the delivery up of any devices containing the plaintiff’s confidential information.
+
+168    Notwithstanding this, in _Clearlab_, it does not appear that any of the defendants had contended that the devices covered by the delivery up order also contained confidential information belonging to third parties, as was asserted by the Defendant herein. The existence of such third party information and its impact on the terms of any delivery up order thus did not have to be considered in _Clearlab_.
+
+169    It further bears highlighting that in the _Clearlab_ decision, Lee J was mindful of the need, in settling on the final scope of an injunction, to balance “competing concerns” of the parties who would be affected by the same (vide \[329\] of _Clearlab_). In that case, the competing concerns engaged were, on the one hand, the plaintiff’s right to prevent further misuse of its confidential information by the defendants and, on the other, a policy that the defendants ought not to be prevented from pursing “legitimate economic activity”.
+
+170    In the present case, the personal data with which I am concerned are the name, contact details and the investment activity of the third Plaintiff.
+
+171    There is every reason to believe that such personal data, being neither technically complex or voluminous, can be found sharing storage space alongside other electronically stored information in the possession, custody or power of the Defendant. To order a broad-ranging delivery up of any and all electronic device which contains any part of the third Plaintiff’s personal data would in my view clearly be disproportionate, given the amount of data, not being the third Plaintiff’s personal data, which would be exposed to the Plaintiffs and their forensic experts.
+
+172    In my view, having regard to the competing concerns of the third Plaintiff and the Defendant, a more balanced approach would see the Defendant herein being ordered to undertake to destroy all personal data of the third Plaintiff covered by the prohibitive injunction which was granted by way of Prayer 1, as modified (_vide_ \[162\] above), and to thereafter affirm on affidavit that the aforesaid destruction of the third Plaintiff’s personal data has been carried out, and I do so order.
+
+173    I will hear parties separately on costs.
+
+* * *
+
+[^1]: \[58\] of the Plaintiffs’ written submissions dated 4 January 2019.
+
+[^2]: \[69\] and \[70\] of the Plaintiffs’ written submissions dated 4 January 2019
+
+[^3]: \[62\] of the Plaintiffs’ written submissions dated 4 January 2019
+
+[^4]: Minister’s speech at second reading of the Personal Data Protection Bill.
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F23646-SSP.xml)
