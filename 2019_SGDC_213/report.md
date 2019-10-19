@@ -1,0 +1,207 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Aw Soy Tee  
+
+### \[2019\] SGDC 213
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">DAC940081 of 2018, Magistrate's Appeal No 9184 of 2019-01</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">14 October 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Christopher Goh Eng Chiang</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Mr Mark Yeo, Deputy Public Prosecutor For the Prosecution; Mr Wendell Wong &amp; Mr Andrew Chua, Messrs Drew &amp; Napier LLC For the Accused</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Aw Soy Tee</td></tr></tbody></table>
+
+\[LawNet Editorial Note: An appeal to this decision has been filed in MA 9184/2019/01.\]
+
+14 October 2019
+
+### District Judge Christopher Goh Eng Chiang:
+
+## I.   INTRODUCTION
+
+1       This is an appeal against sentence by the accused.
+
+2       The Accused, a 72 year-old male Singaporean, pleaded guilty to a single charge under s.353 of the Penal Code (“PC”), for using criminal force on a public servant, namely Auxiliary Police Officer Yii Chai Hong (“APO Yii”), the victim, from Certis Cisco Security Private Limited, in the discharge of her duty as an Enforcement Officer, authorised to carry out enforcement action on behalf of the National Environmental Agency (“NEA”), by pushing here on the shoulder and her chest area.
+
+## II.   FACTS OF THE CASE
+
+3       The Accused admitted to the Statement of Facts (“SOF”) without qualification. The facts are relatively straightforward.
+
+### a.   Summary of the Facts
+
+4       On 22 October 2018, APO Yii was on duty with her partner in the vicinity of Boon Lay MRT Station to enforce rules against littering and spitting. At about 1012 hrs, they saw the Accused spitting twice into the drain located at Exit C of the said MRT Station.
+
+5       APO Yii approached the Accused and proceeded to identify herself as an officer authorized by the NEA. She informed the Accused of the offence that he had committed and requested for his particulars. The Accused refused to provide his particulars. Instead, he told her that he was sick and that he was in a rush. He then quickly walked away. The Accused proceeded to walk in the direction of Jurong Point Shopping Centre (“JPSC”) with APO Yii following him. The Accused refused to comply with the APO Yii’s instructions to stop and continued walking. At the entrance of JPSC, APO Yii grabbed hold of the Accused’s wrist to restrain him but she was unsuccessful.
+
+6       Inside JPSC, APO Yii placed herself in front of the Accused to confront him head on, to block his path. However, the Accused suddenly grabbed her right forearm with his left hand. When she shouted for him not to touch her, he then released her arm and pushed her on the chest above her breast. This caused APO Yii to stagger backwards. The Accused then started to walk away quickly. Although APO Yii then tried to use her hands to restrain the Accused, he managed to break free of her grip.
+
+7       APO Yii and her partner tried to follow the Accused but they lost sight of him when he entered the nearby bus interchange.
+
+### b.   Video Footage
+
+8       Two video recordings were shown to the court. The first, with audio, was taken from the body camera worn by the APO Yii’s partner. This showed what happened outside JPSC. The second, without audio, appeared to be CCTV footage from one of JPSC’s CCTV cameras. This showed what happened inside JPSC.
+
+9       The first video footage is consistent with the description of events set out at \[5\], above. The second video footage video is also consistent with the events described at \[6\] above. However, I noted it showed AOP Yii placing herself in front of the Accused on more than one occasion to block his advance. However, on each occasion, the Accused would sidestep the victim, brush past her and carried on his way. In addition, after pushing APO Yii aside, and freeing himself from APO Yii’s grasp, the Accused could be seen making a run for the nearest exit.
+
+## III.   ANTECEDENTS
+
+10     The accused has no antecedents.
+
+## IV.   SUBMISSIONS ON SENTENCE
+
+### a.   Prosecution’s Submission
+
+11     The Prosecution submitted that a custodial sentence was the norm for such offences and that an imprisonment term of at least 6 weeks was appropriate in this instant.
+
+12     In cases where law enforcement officer are assaulted, deterrence is the predominant sentencing consideration. The Prosecution relied on the High Court decision of _Public Prosecutor v Yeo Ek Boon Jeffery \[2018\] SLR 1800_ to show that attacks on police officers and other law enforcement officers can have several undesirable consequences, even at the societal level. Even though _Jeffrey Yeo_ dealt with an offence of causing hurt to a public servant under s.332 of the PC, the same principles would apply to offences under s.353 of the Penal Code as the nature of the two offences are similar.
+
+13     The Prosecution also tendered a table of sentencing precedents for s.353 Penal Code offences. A summary is set out below:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="4.92%"> <col width="29.44%"> <col width="33.12%"> <col width="32.52%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p class="Table-Heading-Center">&nbsp;</p></td><td align="left" class="br" rowspan="1" valign="top"><p class="Table-Heading-Center">Case Name</p></td><td align="left" class="br" rowspan="1" valign="top"><p class="Table-Heading-Center">Brief Facts</p></td><td align="left" class="b" rowspan="1" valign="top"><p class="Table-Heading-Center">Sentence</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">1</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>PP v Walter Marcel Christoph <a class="pagecontent" href="javascript:viewPageContent('/Judgment/[2013] SGDC 0305.xml')">[2013] SGDC 305</a></em></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">The police officer was trying to question the accused when the accused slapped the victim causing his spectacles to be displaced</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">5 weeks’ imprisonment</p><p align="justify" class="Table-Para-1">Antecedents: Nil</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">2</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>PP v See Joo Lye (DAC-920039-2016)</em></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">The accused shoved the police officer’s chest. The victim was pushed back a few steps but did not fall</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">3 months’ imprisonment</p><p align="justify" class="Table-Para-1">Antecedents: Numerous. including using criminal force on public servant and VCH</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">3</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>PP v Fernando Lawrence (DAC-901533-2016)</em></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Whilst the police officer was interviewing and conducting a search on the accused, he used his hands to push the victim on the chest</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">36 days’ imprisonment</p><p align="justify" class="Table-Para-1">Antecedents: Numerous. Including VCH</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">4.</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>Tan Hock Chiang v PP (MA 284/2001).</em></p><p align="justify" class="Table-Para-1">Appeal withdrawn.</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">When the accused was stopped for a traffic violation, he became angry. He then used both hands and pushed hard on the police officer’s chest.</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">4 weeks’ imprisonment</p><p align="justify" class="Table-Para-1">Antecedents: Dissimilar</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">5</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>Chew Kim Soon v PP <a class="pagecontent" href="javascript:viewPageContent('/Judgment/29994-M.xml')">[2004] SGMC 5</a></em></p><p align="justify" class="Table-Para-1">Appeal dismissed.</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">The accused was stopped for a traffic violation. Whilst waiting for a Breathalyzer test to be administered, he had a verbal exchange with the police officer and pushed him in the chest</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">4 weeks’ imprisonment</p><p align="justify" class="Table-Para-1">Antecedents: Dissimilar</p></td></tr></tbody></table>
+
+  
+  
+
+14     In addition to the nature of the offence itself, it was further submitted that the main reasons for the higher sentence submitted in the instant case was the Accused’s attempt to evade enforcement action by the NEA Enforcement Officers and the prolonged nature of this refusal. Therefore, a sentence of at least 6 weeks’ imprisonment in the instant case was warranted in light of the aggravating factors.
+
+### b.   Plea in Mitigation & Submission on Sentence
+
+#### Plea in Mitigation
+
+15     The Defence highlighted a _“myriad of mitigating and compassionate factors”_ that applied to the present case. These are summarised as follows:
+
+> (i)      Incident was one-of and uncharacteristic. This was a one-off incident that was not reflective of any disregard for public officers;
+
+> (ii)      Remorseful. The Accused is genuinely remorseful as evidenced by his early plea of guilt. He was willing to compensate the victim, if necessary. He has also pleaded guilty to the predicate offence[^1] for spitting on the ground and had been fined $400[^2];
+
+> (iii)      First Offender. The Accused is a first offender who made a momentary lapse of judgement;
+
+> (iv)      Heat of the Moment and Fear. The Accused’s actions were not premeditated. It stemmed from a state of fear and panic in the heat of the moment brought about by APO Yii’s unexpected attempt to physically restrain him outside JPSC. Thus, the incident arose from his reasonable reaction to being apprehended in such an aggressive manner;
+
+> (v)      Minimal contact. The contact between the Accused and APO Yii was minimal and/or relatively light. No injuries were sustained;
+
+> (vi)      Age and Illness. The Accused is now 72 years’ old and suffers from various medical afflictions. He suffers from diabetes and takes numerous medications on a daily basis.
+
+#### Defence Submission on Sentence
+
+16     Like the Prosecution, the Defence also referred to the High Court decision in _Jeffrey Yeo_. In particular, the Defence referred the court to the _“harm-and-culpability”_ sentencing framework set out by the High Court in _Jeffrey Yeo_ at \[57\] and the factors that would determine harm and culpability at \[60\].
+
+17     The Defence submitted that although the High Court in _Jeffery Yeo_ held that, while a custodial sentence of two to nine months’ imprisonment would generally be imposed for cases of causing hurt to police officers (or public servants performing similar duties) under s.332 of the PC, this did not preclude a fine from being imposed in _“very exceptional cases, where the offending act ranks the lowest in the harm-and-culpability spectrum”_[^3].
+
+18     The Defence submitted that, applying the framework set out by the High Court in _Jeffrey Yeo_ to the instant case, and the myriad of mitigating and compassionate factors, the appropriate sentence was a fine of $4,000. The offence committed by the Accused was characterized by the Defence as being on the _low end of the low-harm, low culpability spectrum_[^4].
+
+19     The support the submission of a fine, the Defence also submitted a list of 10 precedent cases in which the accused persons were sentenced to fines only for an offence of using criminal force under s.353 of the PC. The accused persons in these cases were sentenced to fines of between $3,000 to $6,000. This list can be found at Annex A of the Plea in Mitigation and the cases are set out below:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="4.92%"> <col width="29.44%"> <col width="33.12%"> <col width="32.52%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p class="Table-Heading-Center">&nbsp;</p></td><td align="left" class="br" rowspan="1" valign="top"><p class="Table-Heading-Center">Case</p></td><td align="left" class="br" rowspan="1" valign="top"><p class="Table-Heading-Center">Brief Facts</p></td><td align="left" class="b" rowspan="1" valign="top"><p class="Table-Heading-Center">Sentence</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">1</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>PP v Tan Chik Jong (SC-904179-2015)</em></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">PG. 57 year old accused pushed NEA officer. No injury. No weapon used.</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Fine $3,000</p><p align="justify" class="Table-Para-1">Antecedents: Dissimilar</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">2</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>PP v [redacted] (SC-000536-2012)</em></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">PG. 26 year old accused shoved the police officer’s chest during heated argument. Minor injury with no bleeding. No weapon used.</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Fine $4,000</p><p align="justify" class="Table-Para-1">Antecedents: Nil</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">3</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>PP v [redacted] (SC-000538-2012)</em></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">PG. 26 year old accused pushed a policeman during a scuffle. Minor injury with no bleeding. No weapon used</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Fine $4,000</p><p align="justify" class="Table-Para-1">Antecedents: Dissimilar</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">4.</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>PP v [redacted] (SC-003890-2012)</em></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">PG. 60 year old accused pushed police officer in the chest. Minor injury with no bleeding. No weapon used.</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Fine $4,000</p><p align="justify" class="Table-Para-1">Antecedents: Dissimilar</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">5</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>PP v [redacted] (SC-017462-2012)</em></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">PG. 50 year old accused pulled onto the police officer’s right shoulder during an arrest. Minor injury with no bleeding. No weapon used.</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Fine $4,000</p><p align="justify" class="Table-Para-1">Antecedents: Dissimilar</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">6</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>PP v [redacted] (SC-910997-2014)</em></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">PG. 45 year old accused held on to a female CERTIS CISCO officer. Minor injury with no bleeding. No weapon used.</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Fine $4,000</p><p align="justify" class="Table-Para-1">Antecedents: Dissimilar</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">7</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>PP v [redacted] (SC-001538-2012)</em></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">PG. 22 year old foreigner spat on the left face and thigh of public servant. Minor injury with no bleeding. No weapon used.</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Fine $5,000</p><p align="justify" class="Table-Para-1">Antecedents: Nil</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">8</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>PP v Li Xiang Yuan (SC-904731-2014)</em></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">PG. 46 year old foreigner punched a police officer once in the chest. Minor injury with no bleeding. No weapon used.</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Fine $5,000</p><p align="justify" class="Table-Para-1">Antecedents: Nil</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">9</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>PP v An Heejung <a class="pagecontent" href="javascript:viewPageContent('/Judgment/17062-SSP.xml')">[2015] SGDC 59</a></em></p><p align="justify" class="Table-Para-1">Appeal by PP Dismissed</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">PG. 46 year old foreigner kicked a police officer twice in the chest</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Fine $6,000</p><p align="justify" class="Table-Para-1">Antecedents: Nil</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">10</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>PP v Seah Hock Ann (SC-904453-2016)</em></p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">PG. 43 year old caused minor injury with no bleeding.</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Fine $6,000</p><p align="justify" class="Table-Para-1">Antecedents: Nil</p></td></tr></tbody></table>
+
+  
+  
+
+## V.   SENTENCING CONSIDERATIONS
+
+20     The punishment prescribed by law for an offence of using criminal force under s.353 of the Penal Code is a term of imprisonment of up to 4 years, or fine, or both. The Prosecution had submitted that a sentence of at least 6 weeks’ imprisonment was the appropriate sentence whilst the Defence urged the Court to impose a fine of $4,000.
+
+### a.   The Sentencing Tariff
+
+21     In the oft-cited case of _Jeffrey Yeo_, the accused pleaded guilty to causing hurt to a police officer under s.332 of the PC by slapping him across his cheek, causing him to suffer tenderness over that region. The prosecution appealed against the sentence of one weeks’ imprisonment imposed by the district judge. In allowing the prosecution’s appeal and imposing a sentence of 10 weeks’ imprisonment, the High Court at \[59\] also laid down the sentencing framework for s.332 PC offences where these were committed against police officers or public servants performing similar duties.
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="18.75624875025%"> <col width="43.75124975005%"> <col width="37.4925014997001%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p class="Table-Heading-Center">Category</p></td><td align="left" class="br" rowspan="1" valign="top"><p class="Table-Heading-Center">Circumstances</p></td><td align="left" class="b" rowspan="1" valign="top"><p class="Table-Heading-Center">Sentencing Band</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">1</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Lesser harm and lower culpability</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Fine or up to one years’ imprisonment</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">2</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Greater harm and lower culpability or lesser harm and higher culpability</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">One to three years’ imprisonment</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">3</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Greater harm and higher culpability</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Three to seven years’ imprisonment</p></td></tr></tbody></table>
+
+  
+  
+
+22     In addition, the High Court also held that the indicative sentencing range for most offences involving causing hurt to police officers under s.332 of the PC was a sentence of two to nine months’ imprisonment. Although the sentencing band in Category 1 does envisage that fines could be imposed in certain circumstances, the High Court clarified at \[59\] that:
+
+> _“ …. fines should be meted out only in very exceptional cases, where the offender act ranks the lowest in the harm-culpability spectrum, for instance, a very young offender shoving a police officer lightly in a one-off incident away from the public’s eyes and hearing and pleading guilty early.”_
+
+23     Although _Jeffery Yeo_ was concerned with a prosecution for an offence under s.332 and not s.353 of the PC, I am in agreement with the Prosecution (and accepted by the Defence) that the principles set out by the High Court for s.332 PC offences are similarly applicable to s.353 PC. Offences under s.332 and s.353 are similar in nature and aimed at protecting public servants in the execution of their duties. Where these are public officers exercising law enforcement or similar duties, a sentencing _“premium”_ is required to uphold and emphasize the authority that these officers uphold to enable them to carry out their onerous duties effectively.
+
+24     Most precedent cases highlighted to courts dealing with s.353 PC offences relate to offences committed against police officers. It is the same in the instant case. However, non-uniformed public servants exercising law enforcement functions should be treated no different from police officers. Being non-uniformed, these officers are equally, if not more vulnerable, compared to uniformed police officers, when they exercise their enforcement functions. Any form of criminal force used against these enforcement officers should not tolerated. I agree with the Prosecution that the key sentencing principle should therefore be one of deterrence, in particular that of general deterrence.
+
+25     In _PP v Chua Cheng Hong <span class="citation">\[2018\] SGDC 158</span>_, the High Court affirmed that the starting tariff for an offence of using criminal force on a public servant is a short custodial term. I note that the facts therein are remarkably similar to the instant case. This case involved an appeal against a three-week imprisonment imposed by a district court for an offence of using criminal force under s.353 PC.
+
+26     The appellant in _Chua Cheng Hong_ pleaded guilty and was convicted for using criminal force on a NEA Enforcement Officer by pushing her on the chest. He was then 20 years’ old. He was sentenced to 3 weeks’ imprisonment by a district court. Coincidentally, the NEA Enforcement Officer in _Chua Cheng Hong_ is the same APO Yii as in the present case.
+
+27     In _Chua Cheng Hong_, APO Yii was performing enforcement duties on behalf of NEA at Causeway Point Shopping Centre (“CPSC”) with her partner. She saw the appellant flick a cigarette butt onto the ground near the bicycle bay of CPSC. When the appellant tried to leave, APO Yii blocked his path by standing in front of him and stretched out her hand gesturing him to stop. The appellant then grabbed her arm and APO Yii’s partner had to intervene to stop him from doing so. The appellant then tried to walk away again and APO Yii continued to stand in front of him to block his way and prevent him from leaving. In anger, the appellant pushed APO Yi on her chest, causing her to lose her balance and move back a step. The appellant then took this opportunity to flee. He was subsequently identified, and arrested by the police.
+
+28     Like in the instant case, the prosecution in _Chua Cheng Hong_ submitted for an imprisonment term (4 weeks’ imprisonment) while the defence sought for a fine only. On appeal by the defence, and Hoo J reduced the sentence of three weeks’ imprisonment to 7 days’ imprisonment.
+
+29     In determining the appeal[^5], Hoo J agreed with the prosecution that a custodial term was warranted for such cases because:
+
+> (i)     there was a need to protect enforcement officers in order for them to carry out their duties without fear from being assaulted by members of the public;
+
+> (ii)     the s.353 offence was committed when the accused was caught for committing another offence ie. littering;
+
+> (iii)     after committing the s.353 offence, the accused fled;
+
+> (iv)     effort was expended identifying and tracing the accused.
+
+30     However, in allowing the appeal and in reducing the sentence, Hoo J took into consideration, amongst other things, the young age of the appellant when the offence was committed, the lack of any antecedents, that there no suggestion of any public disquiet regarding the appellant’s conduct in defying authority etc. Hoo J was also of the opinion that the facts in the precedent cases cited by the prosecution in the district court and the High Court were more serious than that in the appellant’s case.
+
+31     I am therefore of the view that, where criminal force is used against a police officer or a public servant exercising similar enforcement functions, the starting tariff would be a short custodial sentence.
+
+32     I next considered the harm caused by the accused’s actions and his culpability.
+
+### b.   Harm Caused by the accused
+
+33     The High Court in _Jeffrey Yeo_, at \[60\], had set out a non-exhaustive list of factors relating to the harm and the culpability of the offence to assist the court in the assessment of harm and culpability. In the Plea in Mitigation[^6], the Defence juxtaposed these factors against the facts in the instant case to persuade the court that the present case lay at the _low end of the low-hard, low-culpability spectrum_. I was not convinced.
+
+34     There has been great emphasis that the hurt caused by the Accused was slight. Precedent cases were tendered to show that where fines of between $3,000 to $6,000 have been imposed in cases where minor injury was caused and no weapons used.
+
+35     First, I note that the precedent cases tendered by the Defence are pre _Jeffrey Yeo_. I did not put much weight on them. In addition, the High Court in _Chua Cheng Hong_ has already indicated that a custodial sentence would be warranted in such cases. Second, the nature of any hurt caused in an offence of using criminal force, by the very nature of the offence itself, is bound to be slight or minimal. If the harm caused had been more serious, for example, if the accused had bitten the victim, then, the accused would have faced a more serious offence of causing hurt to a public servant under s.332 of the PC.
+
+### c.   Culpability of the Accused
+
+36     I next assessed the culpability of the accused. In this respect, I considered several factors.
+
+37     The Defence submitted that the act was not pre-meditated. The Accused acted in the heat of the moment and in a state of fear and panic. This fear and panic arose because of the shock that he felt when the victim attempted to restrain him[^7]. He had not expected this as such actions were not commonplace. However, from the Statement of Facts, it is very clear that the reason why the APO Yii attempted to restrain the Accused in the first place was his refusal to stop and provide his particulars. He was clearly trying to avoid enforcement action by APO Yii who had identified herself as such. Therefore, the Accused’s attempt to now blame APO Yii for his own subsequent action was, in my view, disingenuous.
+
+38     The Accused was charged only with the specific act of pushing APO Yii on the shoulder and chest area in the shopping mall. However, the video footage showed him brushing past APO Yii several times when she placed herself in front of him to prevent the Accused from walking away. While I do not characterise this as a sustained or repeated attack, it is certainly more aggravating than if an accused had simply pushed a victim on the chest and/or shoulder only. In my view, his actions were more aggravated than that in _Chua Cheng Hong._
+
+39     I also considered the location where the incident took place. It did not take place in some quiet corner of JPSC. It took place outside a row of shops within JPSC. Even though many shops have yet to open, people could be seen people milling around. In addition, APO Yii’s repeated attempts to stop the Accused from walking off started outside JPSC and continued all the way into the mall. In _Chua Cheng Hong_, on the other hand, the incident took place in one location only, namely, in the bicycle bay of CPSC. In my view, the prolonged attempt by APO Yii to stop the Accused was an aggravating factor and increased his culpability.
+
+40     It has been highlighted that the Accused subsequently pleaded guilty to the predicate offence under the provisions of the Environmental Public Health Act and was fined $400. The Defence has tried to put a positive spin on this. There was nothing positive about this. It was neither here nor there. The fact that he eventually pleaded guilty to the predicate offence does not detract from the fact that that the Accused tried to evade enforcement action by the NEA Enforcement Officers and had, in fact, succeeded. This was one of the factors cited by Hoo J in _Chua Cheng Hong_ when she determined that a custodial term was an appropriate sentence for such cases.
+
+41     One of the reasons cited by Hoo J is reducing the accused’s sentence in _Chua Cheng Hong_ from 3 weeks’ imprisonment to 7 days’ imprisonment was the his young age when the offence was committed. He was aged 20. In the instant case, the Accused was not young. At his age, he should have known better.
+
+### d.   Other Factors Considered
+
+42     The Defence has submitted that a fine of $4,000 was appropriate in light of the _“myriad of mitigating and compassionate factors”_. While there were some mitigating factors in the instant case, for example, like the fact that the Accused was a first offender, his remorse, early plea of guilt, contribution to public service etc, my view is that these factors were not exceptional in any way as to warrant the imposition of a fine only. I was hard pressed to find any _exceptional_ mitigating and _compassionate_ factors in this case.
+
+## VI.   SENTENCE IMPOSED
+
+43     The following are therefore a summary off my findings:
+
+> (i)     the primary consideration for offences of using criminal force on public servants under in s.353 of the PC, in particular where the victims are police officers or other public officers exercising their enforcement functions should be one of deterrence.
+
+> (ii)     From the cases of _Jeffrey Yeo_ and _Chua Cheng Hong_, it is clear that the starting tariff should be a short custodial term;
+
+> (iii)     fines may be imposed where there are exceptional circumstances. There were no exceptional circumstances in the instant case that would warrant the imposition of a fine only;
+
+> (iv)     I assessed that the culpability of the Accused in the instant case to be higher than the accused in _Chua Cheng Hong._ Accordingly, the sentence should be _higher_ than the sentence of seven days’ imprisonment imposed by the High Court in _Chua Cheng Hong_,
+
+44     I was also of the view that the six weeks’ imprisonment term submitted by the Prosecution was on the high side. Neither the facts of the present case nor the precedent cases cited by the Prosecution showed that such a sentence was warranted.
+
+45     The Accused in this case had no antecedents. From the list of precedent cases cited by the Prosecution, only in _Walter Marcel Christoph_ did the accused not have any antecedents. The accused in _Walter Marcel Christoph_ was sentenced to 5 weeks’ imprisonment for slapping a police officer. The facts in this case were, in my view, clearly less aggravating than in _Walter Marcel Christoph._ As such, a sentence of less than 5 weeks’ imprisonment would be appropriate in this case.
+
+46     All considered, I imposed a sentence of
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="100%"> </colgroup><tbody><tr><td align="left" class="" rowspan="1" valign="top"><p class="Table-Heading-Center"><em>4 weeks’ imprisonment</em></p></td></tr></tbody></table>
+
+  
+  
+
+47     The accused, being dissatisfied with the sentence imposed, now appeals against it. He is presently on bail pending the outcome of this appeal.
+
+* * *
+
+[^1]: Section 17(1)(g), Environmental Public Health Act (Cap 95).
+
+[^2]: Court records show that the accused pleaded guilty on 30 April 2019 vide NEA000839-2019. He was fined $400, in default 2 days. 
+
+[^3]: See _Jeffery Yeo_ at \[59\].
+
+[^4]: Accused’s Plea in Mitigation at \[66\].
+
+[^5]: See: High Court minute sheet in _Chua Cheng Hong v PP (HC/MA 9151/2018/01)._
+
+[^6]: See Paragraph 60, Plea in Mitigation.
+
+[^7]: See Paragraphs 39-42, Plea in Mitigation.
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F23672-SSP.xml)
