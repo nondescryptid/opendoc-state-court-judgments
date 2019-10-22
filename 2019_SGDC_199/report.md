@@ -1,0 +1,113 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Yeo Mingwei Jonathan _v_ Hamzah bin Pathol Razie  
+
+### \[2019\] SGDC 199
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">District Court Suit No 121 of 2018</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">30 September 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Ronald Gwee</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Mr Gomez Cosmas Stephen [M/s COSMAS LLC] - for Plaintiff; Mr Mahendra Prasad Rai [M/s COOMA &amp; RAI] - for Defendant</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Yeo Mingwei Jonathan — Hamzah bin Pathol Razie</td></tr></tbody></table>
+
+Negligence (Motor Accidents With Injury
+
+30 September 2019 - Judgment reserved.
+
+### District Judge Ronald Gwee:
+
+## DCA 26/2019
+
+1       The Defendant was absent from the trial. He was represented at trial by his Counsel. The Defendant did not affirm any Affidavit of Evidence in Chief.
+
+2       The only witness to give evidence at trial was the Plaintiff, Yeo Mingwei Jonathan (“Yeo”). The Defendant’s Counsel indicated that the Defendant, Hamzah Bin Pathol Razie (“Hamzah”) had become uncontactable.
+
+3       Yeo had brought this action against Hamzah for injuries suffered, arising out of a road traffic accident that had occurred on 18 March 2017. Yeo claimed that Hamzah had been negligent in the driving of motorcar SLH 1534K (“1534”), and had caused Yeo to suffer personal injuries. Yeo had been the driver of motorcar SLH 8417U (“8417”), but was, at the time of the collision between 1534 and 8417 (the “Collision”), standing between a then stationary 8417 and a then stationary motor taxi SHC 1137Y (the “Taxi”). The trial before me was on liability.
+
+4       Before the Collision, Yeo had been driving 8417 on the Pan Island Expressway (PIE). Yeo then collided into the rear of the Taxi. In the immediate aftermath, Yeo had then ascertained that the two passengers he had been travelling with in 8417 were not injured.
+
+5       After this, Yeo came out from 8417, to check on the status of the driver of the Taxi. Yeo claimed that, before alighting, he had switched on his vehicle’s (8417) hazard lights. The Taxi driver was not injured. Yeo then inspected the damage to the Taxi and to 8417. Yeo took photographs of the damage to the two vehicles. The damage to the vehicles was not particularly serious. Yeo and the Taxi driver then started to exchange particulars. This was the usual process (subject to further comment below) when parties were involved in an accident situation such as they had found themselves.
+
+6       The Taxi and 8417 were thus at this time, stationary. Yeo was standing in between 8417 and the Taxi, which was in front. It was at this time that Hamzah, driving 1534, collided into the rear of 8417. This Collision caused 8417 to surge forward and made contact with Yeo, causing him personal injuries.
+
+7       At trial, only Yeo’s Affidavit of Evidence in Chief could be considered. Yeo was the only witness to give evidence at trial. As stated earlier, Hamzah was absent from the trial. There was no Affidavit of Evidence in Chief from Hamzah. Hamzah’s absence was through no fault whatsoever of the Defendant’s Counsel.
+
+8       The reality of such situations, is that the Defendant’s Counsel would be instructed by, and take direct instructions from, the insurers of the Defendant’s vehicle. However, it must be reiterated that it was Hamzah who was the Defendant in this case. We can therefore surmise that Hamzah himself chose not to affirm an Affidavit of Evidence in Chief, and to absent himself from the trial. Hamzah simply was unwilling to put forth any evidence for the trial.
+
+9       The version of the Collision that was presented at trial in oral evidence was therefore the evidence of Yeo. There was also video footage, taken from the front facing and rear-facing cameras installed in 8417, the vehicle Yeo had been driving. The video footage was admitted into evidence and played in Court during the trial.
+
+10     The video footage from the rear-facing camera showed how 1534, driven by Hamzah, had ploughed into the stationary 8417. What was also demonstrated by this footage was how several vehicles had successfully manoeuvred around the stationary 8417, prior to the Collision. This is a point we shall return to, subsequently.
+
+11     As stated earlier, Hamzah presented no evidence, whether by way of affidavit, or oral evidence, at trial. There was but one piece of evidence that could show Hamzah’s version of the Collision. This was a copy of the police report Hamzah had made on 19 March 2017. This police report was exhibited in Yeo’s Affidavit of Evidence in Chief.
+
+12     I shall quote verbatim, that part of Hamzah’s narrative of his version of the Collision that was in dispute with Yeo’s stated case, and certain other material portions.
+
+13     Hamzah had stated, “…The car (Yeo’s) had earlier involved in an accident with a taxi (SHC1137Y) and had been on stationary at the second lane from the left. However, it did not switch on the hazard lights and put any breakdown sign at the rear of the car. As I was travelling within the road speed limit, I assumed that the car was actually travelling. By the time I realized the car was stationary, I did not manage to avoid it and hit onto its rear. Due to the impact, my passenger who sitting on the rear left passenger seat, was flung and landed onto the floor behind the driver’s seat. Her face was bleeding and was conveyed to the hospital…”
+
+14     A consideration of the following assertions made by Hamzah in his police report would be material in the finding of fact required in this case. Hamzah stated that Yeo had not switched on the hazard lights and had not put any breakdown sign at the rear of 8417. Whilst it was true that Yeo had not put any breakdown sign, Yeo’s evidence was that he had switched on the hazard lights before alighting from 8417. Hamzah further stated that he was “travelling within the road speed limit” and had “assumed” that 8417 was “actually travelling” (in motion). Hamzah then stated that by the time he realised that 8417 was indeed stationary, he “did not manage to avoid it (8417) and hit onto its rear”.
+
+15     As Hamzah was not present to give oral evidence of the aforesaid assertions, Yeo was then deprived of the opportunity to cross examine Hamzah, through his (Yeo) Counsel.
+
+16     Most crucially, Hamzah’s assertion that the hazard lights of 8417 were not on, could not be tested. Hamzah chose to be absent. I was therefore compelled to accept Yeo’s evidence on this point. This finding of fact, that the hazard lights were indeed on, was further buttressed by the observation raised earlier, in paragraph 10.
+
+17     The video footage from the rear-facing camera in 8417 showed several vehicles being able to manoeuvre successfully around the stationary 8417. It was apparent that several vehicles had made the necessary lane switch in very good time. As this had occurred around 6.00 am, it was dark. It was more likely than not, that the drivers of the vehicles which managed to safely switch lanes would have had early warning and notice of the fact that 8417 was stationary at that time. It must be pointed out that the Taxi was in front of 8417, and therefore it would have been the rear of 8417, which was immediately visible to traffic approaching the location of 8417. This early warning was most likely from the hazard lights of 8417.
+
+18     Before leaving this point, I should just comment on the acceptance of and analysis of such video footage. Both Counsel had sought to persuade me that the video footage supported their respective client’s case. Defendant’s Counsel argued that the footage did not capture the flashing of the hazard lights, whereas the Plaintiff’s Counsel argued that it did. The footage did not itself capture directly an image of the hazard lights. There were also several reflections of light in the footage, and this made it difficult to come to any conclusion either way. One must consider the limitations of such video footage evidence. Due to the fixed angle nature of the camera(s), the relative poorer resolution of the image capture in some cases, and the relative inferiority (in some cases) as compared to the perception from the human eye, one must always approach an analysis of such evidence with great care.
+
+19     Suffice to say, in the present case, there was sufficient evidence to find, on a balance of probabilities, that Yeo had indeed switched on the hazard lights.
+
+20     Yeo’s claim against Hamzah was in negligence. It was clear that Hamzah owed Yeo a duty of care. It was foreseeable that injury would be caused to Yeo if Hamzah had negligently driven 1534 into the rear of the stationary 8417, with Yeo being in the proximity of 8417. It was also clear that the Collision had resulted in the injuries suffered by Yeo.
+
+21     Therefore, the issue that was contested was whether Hamzah had been negligent. This was more or less conceded by Hamzah through his Counsel. Defendant’s Counsel had tendered D2, which was a Comparison table of facts found in two cases relied on by the Defence, and the facts as seen from the point of view of the Defence.
+
+22     In D2, it was “proposed” by the Defence that liability be found at 75% to 25%, against Yeo. The Defence was stating that the damages to be payable to Yeo be reduced by 75%, on account of Yeo’s alleged “contributory negligence”.
+
+23     The evidence was clear that Hamzah had been negligent. Yeo’s vehicle 8417 was stationary, and (as discussed above) in circumstances where a prudent motorist would have taken note of the stationary status of 8417 at the material time. There was sufficient time (as demonstrated from the video footage) for the prudent driver to have taken sufficient steps to steer a safe path around the stationary 8417.
+
+24     The other said motorists clearly knew 8417 was not in motion. Hamzah did not put himself forward to be cross-examined as to why he had not similarly noticed that 8417 was stationary. It was possible that Hamzah had not been paying careful attention to his surroundings, or had been travelling at a speed unsuitable in the circumstances. A viewing of the video footage does perhaps suggest that Hamzah may have been travelling at a faster speed than was appropriate. Again, Hamzah chose not to attend to be cross-examined on this. The effect on Hamzah’s passenger again suggests that Hamzah may have been travelling too fast in the circumstances.
+
+25     The evidence, taken as a whole, clearly shows that Hamzah had been negligent in the driving of 1534, and had, as a result of such negligence, caused Yeo to suffer injury. The only issue to be decided was whether Yeo had been “contributorily negligent”, thus resulting in an appropriate reduction (in percentage terms) of the damages to be ultimately awarded to him.
+
+26     Plaintiff’s Counsel had urged for a finding that Yeo had not been contributorily negligent at all, and thus be entitled to interlocutory judgment for 100% damages to be awarded to him. As stated above, Defendant’s Counsel was proposing that Yeo be found to be contributorily negligent to the extent that his damages be reduced by 75% (with the result that Yeo only receive 25% of the damages to be assessed).
+
+27     After a consideration of all the evidence and the closing submissions from both Counsel, I found that Yeo had been contributorily negligent, but not to the extent urged upon me by the Defendant’s Counsel. I found that the damages due to Yeo ought to be reduced by 25%, and therefore entered Interlocutory Judgment in favour of Yeo, to receive 75% of damages to be assessed, with costs and interest reserved to the Registrar hearing the assessment of damages. The Defendant has appealed my decision.
+
+28     When motorists travel on an expressway such as the PIE, they would have to pay heed to the Road Traffic (Expressway Traffic) Rules (the “Expressway Rules”).
+
+29     Rule 6(1) of the Expressway Rules provides that, “(s)ubject to this rule, no vehicle shall stop or remain at rest on a carriageway.” The material portion of Rule 6(2) reads as follows: “Where it is necessary for a vehicle to stop or remain at rest while it is on an expressway – (a) …. (b) by reason of any illness, accident or emergency; …. the vehicle shall, as soon as is practicable, be driven or moved off the carriageway to the shoulder or verge on the left or near side of the vehicle.”
+
+30     It was not in dispute that the Collision had occurred whilst 8417 (and the Taxi) were still on the expressway and had not been moved to the shoulder or verge.
+
+31     Plaintiff’s Counsel sought to rely on the provisions of Section 84 of the Road Traffic Act (“RTA”) to state that Yeo’s actions had been in compliance with that section of the RTA.
+
+32     Section 84(1) of the RTA provides that in the event of an accident which results in “damage or injury to any person, (or) vehicle…” the driver “must stop the motor vehicle”, and further must provide his particulars to any person “having reasonable grounds for so requesting the driver’s particulars”. This is the process commonly referred to as an “exchange of particulars” that occurs after most road traffic accidents (which do not require other more urgent actions to be carried out).
+
+33     Section 84(3) of the RTA further requires that (in accidents where, inter alia, death or injury is caused, or damage is caused to any vehicle), that the driver “shall render such assistance as may be reasonably required” of him.
+
+34     Section 84(4) of the RTA provides that in cases where any person is killed or seriously injured “or serious damage is caused to any vehicle”, no vehicle involved may be moved “except under the authority of a police officer”, or under other circumstances which are not relevant to our analysis.
+
+35     Hence, as Plaintiff’s Counsel argued, Yeo had to stop and exchange particulars if reasonably requested (as mandated by Section 84(1) of the RTA. More importantly, section 84(3) of the RTA required Yeo to render such assistance which may reasonably be required of him. Most crucially, pursuant to Section 84(4) of the RTA, Yeo was under a duty to ascertain whether anyone (be they passengers in 8417 or the Taxi) was seriously injured or whether serious damage had been caused to 8417 or the Taxi. To fulfil these requirements, Yeo had to check on his passengers and those in the Taxi. Yeo discovered that no serious injury had been caused. Yeo had also to ascertain whether any vehicular damage was “serious”. The vehicular damage to 8417 and the Taxi was ascertained to be not of a serious nature.
+
+36     Only when Yeo had ascertained that no serious injury had been caused, and no serious vehicular damage had been caused, would Yeo then know that his vehicle could be moved.
+
+37     Reading Section 84 of the RTA and Rule 6 of the Expressway Rules together and applying this to the fact scenario we have in this case, I was of the view that after Yeo had ascertained that no serious injury or serious damage had been caused, he ought to have attempted to move his vehicle to the shoulder or verge. It would have been “practicable” as soon as Yeo had carried out his investigation necessitated by Section 84(4) of the RTA, to have moved his vehicle. This he did not do. He ought to have carried out the exchange of particulars on the shoulder of the expressway.
+
+38     I did however consider the conditions of the expressway at that time as could be gleaned from the video footage. Traffic appeared to be moderately heavy or moderate, and it would have been difficult for Yeo to have attempted this move to the shoulder. Difficult though it may have been, but it would not have been impossible.
+
+39     The finding of a reduced entitlement to damages is governed by the Contributory Negligence and Personal Injuries Act (“CNPIA”).
+
+40     Section 3(1) of the CNPIA provides that “(w)here any person suffers damage as the result partly of his own fault and partly of the fault of any other person or persons, a claim in respect of that damage shall not be defeated by reason of the fault of the person suffering the damage, but the damages recoverable in respect thereof shall be reduced to such extent as the court thinks just and equitable having regard to the claimant’s share in the responsibility for the damage.”
+
+41     By Section 2 of the CNPIA, “damage” is defined to include personal injury. The word “fault” is defined to mean “negligence, breach of statutory duty or other act or omission which gives rise to a liability in tort or would, apart from this Act, give rise to the defence of contributory negligence.”
+
+42     Defendant’s Counsel sought to rely on two cases to support their contention with regard to the apportionment of liability. The cases cited were the High Court case of **Koh Swee Hoon Joanna Ophelia v Yeo Hee Chong <span class="citation">\[2005\] SGHC 190</span>** and a decision of a district judge in **Muhammad Firdaus Bin A Rahim v Neo Yao Tian <span class="citation">\[2018\] SGDC 225</span>**. (A LawNet Editorial Note appended on the judgment reported in **Muhammad Firdaus** states that the appeal in that case was dismissed by the High Court on 21 December 2018.)
+
+43     It must be noted that whilst the cases of **Koh Swee Hoon** and **Muhammad Firdaus** both involved a moving vehicle colliding into a stationary vehicle, in each of these two cases, it was the respective rider of the moving vehicle who was suing the respective driver of the stationary vehicle. In each of these two cases, the defendants were found liable for having created a danger on the road, leading to the respective plaintiffs each suffering damages.
+
+44     In our present case, it was the driver of the moving vehicle (Hamzah) who was being sued by the driver of the stationary vehicle (Yeo). Clearly, Hamzah had been negligent in causing injury to Yeo. The analysis pursuant to a consideration of the CNPIA had to be on this basis: to what extent was Yeo liable for his (Yeo) own damage?
+
+45     The issue of whether Yeo had created a danger to Hamzah did not fall to be considered, as there was no counterclaim in this suit by Hamzah against Yeo for any damage that might have been suffered by Hamzah.
+
+46     What we are concerned with in this suit is the damage suffered by Yeo as a result of Hamzah’s negligence. The CNPIA states that the damages recoverable by Yeo “shall be reduced to such extent as the court thinks just and equitable having regard to the claimant’s share in the responsibility for the damage”. In these circumstances, this would entail considering to what extent Yeo could have prevented the damage suffered by him (Yeo). It was clear that the primary finding in this case, for the reasons stated above, was that Hamzah had been primarily responsible for causing damage to Yeo, through his (Hamzah) negligence.
+
+47     As analysed earlier, Yeo’s responsibility with regard to Section 84 of the RTA had been clarified upon his ascertainment that no serious injury or serious damage had been caused. It was then incumbent upon Yeo to have attempted to move his vehicle to the expressway shoulder and carry out the exchange of particulars there. Had he done that, the Collision and hence the damage caused therefrom may have been avoided. However, the primary finding of Hamzah’s negligence as the causative factor for the damage suffered by Yeo, will prevail. I have taken into account the difficulty that Yeo may have faced had he attempted to move his vehicle to the shoulder.
+
+48     Having taken all these factors into consideration, I found that the damages due to Yeo ought to be reduced by 25%. Therefore, Interlocutory Judgment in favour of Yeo was entered, for 75% of damages to be assessed.
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F23678-SSP.xml)

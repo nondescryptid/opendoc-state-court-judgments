@@ -1,0 +1,122 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Pang Hang Tiong _v_ Ang Tiong Beng  
+
+### \[2019\] SGDC 205
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">District Court Suit No. 764/2017, District Court Appeals No. 27 and 30/2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">01 October 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Lim Wee Ming</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Mr A Rajandran (Messrs A Rajandran) for the Plaintiff; Mr Kelvin Ong (Tito Isaac &amp; Co LLP) for the Defendant</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Pang Hang Tiong — Ang Tiong Beng</td></tr></tbody></table>
+
+Contract – Loans
+
+\[LawNet Editorial Note: An appeal to this decision has been filed in DCA 27/2019 and DCA 30/2019.\]
+
+1 October 2019
+
+### District Judge Lim Wee Ming:
+
+The Plaintiff’s claim against the Defendant is for the sum of S$248,400, which the Plaintiff claims were loans to the Defendant under 8 cheques. I allowed the Plaintiff’s claim under the third cheque and the fifth to the eighth cheques, in the total sum of S$148,400. I rejected the Plaintiff’s claims under the first, second and fourth cheques. Both the Plaintiff and the Defendant have appealed against my decision.
+
+## Facts
+
+##### Overview of the 8 cheques
+
+2       The Plaintiff’s claim against the Defendant for the repayment of loans totalling S$248,400, is under the following 8 cheques:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="4.88%"> <col width="17.56%"> <col width="16.34%"> <col width="19.02%"> <col width="21.44%"> <col width="20.76%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">&nbsp;</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Cheque number</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Cheque date</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Amount</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Payee named in cheque</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Person who presented cheque for payment</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">1</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">300209</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">27 Jul 2012</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">S$30,000</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Cash</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Low Kok Wah</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">2</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">300211</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">30 Oct 2012</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">S$20,000</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Cash</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Chow Yee Fon</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">3</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">300229</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">15 Feb 2015</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">S$50,000</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Ang Tiong Beng (the Defendant)</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Ang Tiong Beng (the Defendant)</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">4</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">300230</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">13 Mar 2015</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">S$50,000</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Ang Tiong Meng</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Low Kok Wah</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">5</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">300233</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">14 Nov 2015</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">S$26,100</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Ang Tiong Beng (the Defendant)</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Ang Hock Seng</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">6</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">300234</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">7 Mar 2016</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">S$35,200</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Ang Tiong Beng (the Defendant)</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Ang Hock Seng</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">7</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">300238</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">13 Jul 2016</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">S$24,000</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Ang Tiong Beng (the Defendant)</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Ang Hock Seng</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">8</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">300239</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">15 Nov 2016</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">S$13,100</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Ang Tiong Beng (the Defendant)</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Ang Hock Seng</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">&nbsp;</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Total</b></p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">&nbsp;</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>S$248,400</b></p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">&nbsp;</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">&nbsp;</p></td></tr></tbody></table>
+
+  
+  
+
+3       As can be seen in the aforesaid list, the first two cheques from 2012 were cash cheques. The Defendant was named as the payee for the rest of the cheques, except for the fourth cheque, where the payee named in the cheque was “Ang Tiong Meng”. The Plaintiff claimed that he had made a mistake in spelling the Defendant’s name in this fourth cheque.
+
+4       All the cheques were bearer cheques. The words “_or Bearer_” on the cheques were not crossed out. This meant that anyone could present the cheques for payment. It was not necessary for the payee named in the cheque to present the cheque for payment. Only the third cheque, cheque number 300229, was presented by the Defendant for payment.
+
+5       Furthermore, the cheques were not crossed. All the persons presenting the cheques for payment received cash from the bank when they presented the cheques for payment.
+
+##### The relationship between the Plaintiff, the Defendant and Ang Hock Seng
+
+6       The Plaintiff and the Defendant knew each other through the Defendant’s uncle, Ang Hock Seng. According to the Plaintiff, he made the loans to the Defendant because he trusted Ang Hock Seng who was his close friend. Ang Hock Seng had assured the Plaintiff that the Defendant would repay the loans \[paragraph 21 of the Plaintiff’s affidavit of evidence-in-chief (“AEIC”)\].
+
+7       The Defendant’s position is that the loans from the Plaintiff were not to the Defendant, but to Ang Hock Seng. The Defendant claims that he was very close to Ang Hock Seng who had extended loans to the Defendant (see paragraph 4 of the Defendant’s AEIC). In cross-examination, the Defendant acknowledged that he had borrowed $50,000 and a further sum of about $100,000, but claimed that these sums were borrowed from Ang Hock Seng, not the Plaintiff \[5 March Notes of Evidence (“NE”) at pages 7, 10\].
+
+##### The February 2015 meeting and the issuance of the first cheque in the Defendant’s favour
+
+8       The Defendant claimed that he first met the Plaintiff in February 2015, together with Ang Hock Seng. In paragraph 7 of the Defendant’s AEIC, the Defendant initially claimed that this meeting took place in July 2012, but subsequently the Defendant changed his evidence in his Supplementary AEIC \[5\], to state that this first meeting took place in February 2015.
+
+9       The Plaintiff explained in his Supplementary AEIC \[5\] that, “_Upon detailed examination of all cheques in question again, I seem to recall that I only first met the Plaintiff on or around 15 February 2015, which is the date of the first cheque ostensibly made in my favour and with my name spelt on it.”_ This first cheque with the Defendant named as the payee, is cheque number 300229 dated 15 February 2015 for the sum of S$50,000 (the third cheque in the list at paragraph 2 above, as the two earlier cheques in that list were made out to “Cash”).
+
+10     The Defendant’s evidence was that he joined the February 2015 meeting “_only because \[Ang Hock Seng\] requested that I show my NRIC card to the Plaintiff so that the first cheque could be issued in my favour_” (Defendant’s AEIC at \[8\]). The Defendant claimed that this was to assist Ang Hock Seng to cash the cheque, as Ang Hock Seng was illiterate and could not cash the cheque himself. This cheque number 300229 was presented for payment by the Defendant on 16 March 2015, who received cash on presenting the cheque \[Agreed Bundle (“AB”) at page 3\].
+
+##### The issuance of the fourth to eighth cheques
+
+11     Thereafter, the Plaintiff issued cheque number 300230 dated 13 March 2015 in favour of Ang Tiong Meng (the fourth cheque in the list at paragraph 2 above). This fourth cheque was presented for payment by one Low Kok Wah.
+
+12     This was followed by the four other cheques issued by the Plaintiff in favour of the Defendant from November 2015 to November 2016 (the fifth to eighth cheques in the list at paragraph 2 above). These cheques were presented for payment by Ang Hock Seng.
+
+##### The Plaintiff’s note to the Defendant
+
+13     On 28 January 2017, Ang Hock Seng passed away. The death certificate described the cause as “_acute exacerbation of chronic obstructive pulmonary disease_”. His death was unexpected and the Plaintiff’s evidence was that he “_never thought … a young man would have died just like that_” (12 December NE102-103).
+
+14     Around 11 February 2017, the Plaintiff left a note at the letter box of the Defendant’s mother, listing out 6 cheques which he claimed the Defendant had drawn money from \[Agreed Bundle (“AB”) at page 95\]. The two cash cheques from 2012 were not listed in this note. The Plaintiff stated that if the Defendant did not call him, the Plaintiff’s lawyer would send the Defendant a letter.
+
+15     There was no response from the Defendant. The Plaintiff’s solicitors subsequently sent a letter of demand dated 10 March 2017. There was still no response. The Plaintiff then commenced the action herein on 21 March 2017.
+
+## Decision
+
+16     In coming to my decision, I analysed the Plaintiff’s claims against the Defendant for loans under the eight cheques, as follows:
+
+> a.     The first two cheques, which were cash cheques and the persons presenting the cheques was not the Defendant.
+
+> b.     The third cheque, where the payee named in the cheque was the Defendant and the cheque was presented by the Defendant for payment.
+
+> c.     The fourth cheque, where the payee named in the cheque was “Ang Tiong Meng” and the person presenting the cheque was not the Defendant.
+
+> d.     The fifth to eighth cheques, where the payee named in the cheque was the Defendant, but the cheques were presented by Ang Hock Seng for payment.
+
+##### The two cash cheques
+
+17     The first two cheques for the sums of S$30,000 and S$20,000 are dated 27 July 2012 and 30 October 2012. These two cheques were cash cheques.
+
+18     These two cash cheques were presented for payment as follows:
+
+> a.     The first cash cheque was presented for payment by Low Kok Wah, a friend of Ang Hock Seng, who claimed that he assisted Ang Hock Seng to cash the cheque (see paragraph 8 of Low Kok Wah’s AEIC).
+
+> b.     The second cash cheque was presented for payment by Chow Yee Fon, who was in a long term relationship of 28 years with Ang Hock Seng, and claimed that she had assisted Ang Hock Seng to encash the cheque (see paragraph 5 of Chow Yee Fon’s AEIC).
+
+19     These two cash cheques were not in the Plaintiff’s note to the Defendant, claiming for the return of loans under 6 cheques (AB95). The Defendant was not the payee named in these two cash cheques. These two cash cheques were not presented by the Defendant (AB1, 2). In the premises, I am not satisfied that the Plaintiff has proven that there were loans to the Defendant under these two cash cheques and reject the Plaintiff’s claims under these two cheques.
+
+##### The third cheque
+
+20     This cheque number 300229 dated 15 February 2015 for the sum of $50,000, was the first cheque issued in the Defendant’s favour and which the Defendant gave evidence that Ang Hock Seng “_requested that I show my NRIC card to the Plaintiff so that the first cheque could be issued in my favour_” (see paragraph 10 above). The payee named in this cheque was the Defendant and the cheque shows that the Defendant presented the cheque for payment and received cash in the sum of $50,000 (AB3). This cheque was presented at the Newton Branch of POSB on 16 March 2015 at 9:46 am.
+
+21     In paragraphs 3.3, 3.6 and 4 of the Defendant’s original Defence \[Bundle of Pleadings (“BP”) at page 6\], the Defendant claimed that Ang Hock Seng “_took out a loan from the Plaintiff so that the former could extend a loan to the Defendant_” and that the Defendant had repaid Ang Hock Seng. In his Defence (Amendment No. 1) (BP19), the Defendant changed his position to claim that he had been asked by Ang Hock Seng to “_to furnish his name and NRIC number to the Plaintiff so that he could assist \[Ang Hock Seng\] to cash out DBS cheque no. 300229 as \[Ang Hock Seng\] was elderly, frail and did not have a car, unlike the Defendant who was young and mobile_”. In view of the fifth to eighth cheques being presented for payment by Ang Hock Seng, it is clear that Ang Hock Seng was fully able to cash cheques himself and did not require the Defendant’s assistance to cash cheques. In the premises, I am unable to accept the Defendant’s explanation that Ang Hock Seng required the Defendant’s assistance to cash cheques.
+
+22     The Defendant stated in paragraph 8 of his AEIC that he joined the February 2015 meeting “_only because \[Ang Hock Seng\] requested that I show my NRIC card to the Plaintiff so that the first cheque could be issued in my favour.”_ There would be no good reason for the Defendant to show his NRIC card to the Plaintiff for the Plaintiff to issue the cheque in the Defendant’s favour, unless the cheque was a loan to the Defendant, rather than Ang Hock Seng.
+
+23     In the premises, I accept the Plaintiff’s claim in respect of the loan made to the Defendant under this cheque in the sum of S$50,000.
+
+##### The fourth cheque
+
+24     This cheque number 300230 dated 13 March 2015 was for the sum of $S50,000 (AB4). The payee named on the cheque was “Ang Tiong Meng”. The Plaintiff claimed that he had made a mistake in the spelling of the Defendant’s name on this cheque.
+
+25     The cheque was presented for payment on 16 March 2015 at POSB Newton Branch on 16 March 2015 at 9:47am, just one minute after the third cheque was presented by the Defendant for payment. However, the person presenting the cheque was Low Kok Wah, not the Defendant.
+
+26     This fourth cheque number 300230 dated 13 March 2015 is not in the note given by the Plaintiff to the Defendant (at AB95). The Plaintiff claimed that he had made a mistake in the cheque number and date in the note (12 December NE64-65), such that the note mistakenly referred to cheque 300228 dated 15 February 2015. I am not persuaded by the Plaintiff’s explanation as to why there were so many errors in his note on this cheque.
+
+27     In the premises, I am not satisfied that the Plaintiff has proven on the balance of probabilities that there was such a loan to the Defendant under this fourth cheque.
+
+##### The fifth to eighth cheques
+
+28     As for the fifth to the eighth cheques, for the sums of S$26,100, S$35,200, S$24,000 and S$13,100, the Defendant was named as the payee in these four cheques. All four of these cheques were presented for payment by Ang Hock Seng (AB5-8). These four cheques were listed in the Plaintiff’s note to the Defendant (AB95), which he did not respond to.
+
+29     The total amount under these four cheques is S$98,400. The Defendant claimed in cross-examination that he had borrowed from Ang Hock Seng, S$50,000 around February 2015 (5 March NE7) and a further sum of around S$100,000 (5 March NE10). Accordingly, it is not disputed that the Defendant borrowed a further sum of around S$100,000, although the Defendant claims that he borrowed this sum from Ang Hock Seng, rather than the Plaintiff.
+
+30     In cross-examination, the Defendant admitted “_the cheques were in my hand, I was the one who go and take_” (5 March NE68). Although the Defendant subsequently claimed in re-examination that the last four cheques did not come into his possession, this was in response to his counsel’s leading question “_Have they ever come into your possession at all?_” (6 March NE66). Furthermore, there was no explanation given by the Defendant for his earlier answer in cross-examination. In the premises, I am more inclined to believe the Defendant’s original answer in cross-examination, that “_the cheques were in my hand, I was the one who go and take_”.
+
+31     Although it was Ang Hock Seng who presented these four cheques for payment, there was no good reason for the Defendant to take these cheques with the Defendant’s name on the cheques from the Plaintiff, unless there was a loan from the Plaintiff to the Defendant for the sums under these cheques. Accordingly, I accept the Plaintiff’s claim against the Defendant under the last four cheques for the sums of S$26,100, S$35,200, S$24,000 and S$13,100.
+
+## Conclusion
+
+32     In the premises, the Plaintiff succeeds in his claim against the Defendant on the third cheque for the sum of S$50,000 and the last four cheques for the sums of S$26,100, S$35,200, S$24,000 and S$13,100. Judgment is entered against the Defendant for the aforesaid sums, totaling S$148,400, together with interest and costs.
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F23679-SSP.xml)
