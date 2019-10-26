@@ -1,0 +1,278 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ L Kannan  
+
+### \[2019\] SGMC 64
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">MAC 902606, 902607 &amp; 902610 of 2018</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">21 October 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">Magistrates Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Adam Nakhoda</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Mr Yeo Jian Ming &amp; Ms Justine Loh for the MOM Prosecution; Mr Sarbrinder Singh for Mr L Kannan</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — L Kannan</td></tr></tbody></table>
+
+\[LawNet Editorial Note: An appeal to this decision has been filed in MA 9221/2019/01.\]
+
+21 October 2019
+
+### District Judge Adam Nakhoda:
+
+Mr L Kannan (“Mr Kannan”) pleaded guilty to three charges of making a statement which was false in a material particular to the Controller of Work Passes when he falsely declared the salary to be paid to three employees. Mr Kannan made the false declarations in his capacity as the manager of Anjali Restaurant and Catering Pte Ltd (“Anjali”) and as a director of Shanmugha Enterprise Pte Ltd (“Shanmugha”) (collectively “the companies”). I sentenced Mr Kannan to serve a global sentence of 17 weeks’ imprisonment. Mr Kannan being dissatisfied with the sentence imposed has appealed. Mr Kannan is on bail pending appeal.
+
+## PROCEEDED CHARGES
+
+2       Charges against Mr Kannan:
+
+> **MAC 902606 of 2018**
+
+> _You, are charged that, on or about 7 December 2015, one Anjali Restaurant and Catering Pte. Ltd. (UEN No. 200920766K), a body corporate of which you were the Manager, in connection with an application for a work pass for one Muthiah Subramani (FIN: XXX) to be employed by the company as a Chef, did make a false statement to the Controller of Work Passes in a “Declaration Form” submitted to the Work Pass Division, Ministry of Manpower, which offence was committed with your consent; to wit, you, in your capacity as the Manager of the company, made the decision, for and on behalf of the company, to declare that the fixed monthly salary of the said foreign employee would be $2,800, when you knew this was false in a material particular, and you have thereby committed an offence under section 22(1)(d) read with section 20(1)(a) of the Employment of Foreign Manpower Act (Chapter 91A), punishable under section 22(1)(ii) of the same Act._
+
+> **MAC 902607 of 2018**
+
+> _You, are charged that, on or about 17 April 2015, one Shanmugha Enterprises Pte. Ltd. (UEN No. 200912933D), a body corporate of which you were the director, in connection with an application for a work pass for one Rajendran Karthik (FIN.: XXX) to be employed by the company as Business Development Manager, did make a false statement to the Controller of Work Passes in a “Declaration Form” submitted to the Work Pass Division, Ministry of Manpower, which offence was committed with your consent; to wit, you, in your capacity as the director of the company, made the decision, for and on behalf of the company, to declare that the fixed monthly salary of the said foreign employee would be $4,800, when you knew this was false in a material particular, and you have thereby committed an offence under section 22(1)(d) read with section 20(1)(a) of the Employment of Foreign Manpower Act (Chapter 91A), punishable under section 22(1)(ii) of the same Act._
+
+> **MAC 906210 of 2018**
+
+> _You, are charged that, on or about 21 November 2016, one Shanmugha Enterprises Pte. Ltd. (UEN No. 200912933D), a body corporate of which you were the director, in connection with an application for a work pass for one Sabarimuthu Manimaran (FIN.: XXX) to be employed by the company as Sales and Marketing Executive, did make a false statement to the Controller of Work Passes in a “Declaration Form” submitted to the Work Pass Division, Ministry of Manpower, which offence was committed with your consent; to wit, you, in your capacity as the director of the company, made the decision, for and on behalf of the company, to declare that the fixed monthly salary of the said foreign employee would be $2,600, when you knew this was false in a material particular, and you have thereby committed an offence under section 22(1)(d) read with section 20(1)(a) of the Employment of Foreign Manpower Act (Chapter 91A), punishable under section 22(1)(ii) of the same Act._
+
+## THE FACTS
+
+3       At the material time, Mr Kannan was the manager of Anjaliand the director of Shanmugha. He was fully in charge of the business operations of the companies. Mr Muthiah Subramani (“Mr Muthiah”) was employed by Anjali as a chef on an S-Pass; and Mr Rajendran Karthik (“Mr Rajendran”) on an Employment Pass and Mr Sabarimuthu Manimaran (“Mr Sabarimuthu”) on an S-Pass were employed by Shanmugha as a business development manager and a sales and marketing executive respectively.
+
+4       Mr Kannan had made the decision for and on behalf of Anjali and Shanmugha to declare on the work pass applications that Mr Muthiah would be paid a monthly salary of $2,800, Mr Rajendran would be paid a monthly salary of $4,800 and Mr Sabarimuthu would be paid a monthly salary of $2,600. Mr Kannan falsely declared that the three employees would be paid these salaries in order to meet the salary requirements for the employees’ respective work passes. The employees were not paid the salaries declared, instead Mr Muthiah was paid $1,600 per month, Mr Rajendran was paid $1,400 per month and Mr Sabarimuthu was paid $2,000 per month. The false declarations were made on 7 December 2015 on behalf of Mr Muthiah, 17 April 2015 on behalf of Mr Rajendran and 21 November 2016 on behalf of Mr Sabarimuthu.
+
+5       Every month, the full declared monthly salaries for Mr Muthiah and Mr Rajendran would be transferred to their bank accounts and Mr Sabarimuthu would be paid his salary in cash (as he had not opened a bank account). The three employees would then be required to return $1,200, $3,400 and $600 respectively in cash to the accused.
+
+6       MOM confirmed that a key criterion for the granting of the work passes that were granted to the three employees was that they were paid the minimum salary requirement and that but for the false declaration the three employees would not have been granted the work passes.
+
+## CHARGES TAKEN INTO CONSIDERATION FOR THE PURPOSE OF SENTENCING
+
+7       The accused admitted to and agreed to have five charges of making a false statement to the Controller of Work Passes, offences under section 22(1) Employment of Foreign Manpower Act (“EFMA”), taken into consideration for the purposes of sentencing. In all five TIC charges the accused had made false declarations relating to a foreign employee’s fixed monthly salary so that the foreign employees would qualify for a work pass. These employees were to be employed by either Shanmugha or Anjali.
+
+8       Therefore, the accused was involved in making false statements to the Controller of Work Passes in order to allow Anjali and Shanmugha to employ eight foreign employees.
+
+## ANTECEDENTS
+
+9       Mr Kannan was untraced.
+
+## PROSECUTION’S SUBMISSION
+
+10     Mr Yeo Jian Ming (“Mr Yeo”) submitted that the recent High Court decision in _Chiew Kok Chai v Public Prosecutor[^1]_(“_Chiew Kok Chai_”) had laid down the sentencing principles and framework to be adopted for sentencing offences under section 22(1)(d) EFMA. It was submitted that _Chiew Kok Chai_ established that the predominant sentencing consideration should be deterrence and that a custodial sentence would be the norm for such offences. A fine would only be appropriate where there were substantial mitigating factors present.
+
+11     Applying the sentencing framework expounded in _Chiew Kok Chai_, Mr Yeo submitted that there were six offence-specific factors present in this case:
+
+> a.      **Materiality of the falsehood**: It was submitted that but for Mr Kannan’s false declarations Mr Muthiah, Mr Rajendran and Mr Sabarimuthu would not have been issued with their respective work passes. The false declaration had clearly influenced the Controller of Work Passes in issuing work passes to the three employees.
+
+> b.      **The nature and extent of the deception**: Mr Yeo submitted that the deception on the part of Mr Kannan had been conscious, planned and deliberate as he had declared, in the application forms, the fixed monthly salaries for the three employees knowing full well that he was never going to pay the three employees the declared salaries. Mr Kannan had also created a false paper trail by crediting the declared salaries to Mr Muthiah’s and Mr Rajendran’s bank accounts and then having them return the difference to him in cash. Mr Yeo submitted that by creating the paper trail Mr Kannan had made the detection of the offences more difficult.
+
+> Mr Yeo submitted that the accused’s deception had ranged from approximately one and a half months to one year and eight months. Finally, it was submitted that Anjali and Shanmugha made significant gains by virtue of the lower operating costs gained by not paying the declared salaries.
+
+> c.      **Consequence of the deception**: As a consequence of the deception all three employees were paid lower salaries than had been declared. Mr Yeo submitted that Mr Kannan knew that Anjali and Shanmugha were financially exploiting the three employees as they were not paid their declared salaries.
+
+> d.      **Specific role played by Mr Kannan**: It was submitted that Mr Kannan was fully in charge of the entire business operations of both Anjali and Shanmugha and that he had signed on the work pass applications on behalf of the companies.
+
+> e.      **Mr Kannan stood to reap financial gains on behalf of the company**: Mr Yeo submitted that Mr Kannan saved the companies approximately $84,600 by failing to pay the three employees the declared salaries.
+
+> f.      **Mr Kannan’s motive**: Mr Yeo submitted that Mr Kannan had wanted to circumvent the quota put in place by the work pass framework and that he knew that he had to declare a higher salary than the minimum salary required for S-Pass and Employment Pass holders in order to secure the work passes for the three employees.
+
+12     On the basis of the above offence-specific factors Mr Yeo submitted that the indicative starting sentence would be 14 weeks’ imprisonment per charge.
+
+13     With regard to the offender specific factors, Mr Yeo submitted that the five TIC charges were aggravating factors and that this was balanced by the mitigating factors that Mr Kannan had pleaded guilty early, was untraced and had cooperated with MOM. After considering these offender specific factors, Mr Yeo submitted that an appropriate sentence would be 12 weeks’ imprisonment per charge. Mr Yeo sought a global sentence of 24 weeks’ imprisonment.
+
+## MITIGATION
+
+14     Mr Sarbrinder Singh (“Mr Sarbrinder”) agreed that the Court should be guided by _Chiew Kok Chai_ in determining the appropriate sentence. He submitted that there were five offence-specific factors present, although, he stated that these were “_not present to a significant degree_”:
+
+> a.      **Materiality of the falsehood:** Mr Sarbrinder agreed that the work passes were granted pursuant to Mr Kannan’s false declaration.
+
+> b.      **Nature, sophistication and extent of the deception**: Mr Sarbrinder submitted that the deception was not sophisticated. He disagreed with the Prosecution’s submission that the accused had deliberately created a false paper trail and submitted that the only reason that the salaries were credited to Mr Muthiah and Mr Rajendran was because they had bank accounts, whereas Mr Sabarimuthu did not.
+
+> c.      **Consequences of the deception:** It was submitted that the three employees were not paid their declared salaries.
+
+> d.      **Role played by Mr Kannan and the number of other people involved in furnishing the false information**: Mr Sarbrinder submitted that only Mr Kannan was involved in making the false declarations and he had not involved any other.
+
+> e.      **Whether Mr Kannan obtained any gains (financial or otherwise)**: Mr Sarbrinder submitted that Mr Kannan did not personally gain from the false declaration as the money saved by not paying the three employees their declared salaries was applied towards paying for their accommodation, food, utilities and other expenses.
+
+> f.      **Mr Kannan’s motive for circumventing the work pass framework**: Mr Sarbrinder emphasised that Mr Kannan had not made the false declarations simply to enable him to employ the three employees and that there were no ulterior motives involved. The three employees had not been involved in other criminal activities.
+
+15     Although Mr Sarbrinder submitted that there were only five offence-specific factors, as can be seen above, he addressed six factors and it was not made clear which factor should be excluded from consideration. I found that it was likely that Mr Sarbrinder was referring to either the factor at paragraph (d) or (e) above. Based on the offence-specific factors, Mr Sarbrinder submitted that the indicative starting point should be six to eight weeks’ imprisonment.
+
+16     Mr Sarbrinder submitted that there were strong mitigating factors that would warrant a substantial discount to the sentence. Mr Kannan had pleaded guilty at the first opportunity thus saving the Court’s time and his early plea of guilt was indicative of his genuine remorse. Mr Sarbrinder emphasised that Mr Kannan was a first time offender and that he was genuinely remorseful and he tendered a letter of recommendation given on behalf of Mr Kannan. It was submitted that Mr Kannan had fully cooperated with MOM in their investigations.
+
+17     Mr Sarbrinder also submitted that Mr Kannan suffered for various medical problems and that he had undergone several surgical procedures (detailed at paragraphs 20 and 21 of the Plea in Mitigation). It was submitted, on the authority of _Chew Soo Chun v Public Prosecutor[^2]_, that I should accord an additional discount to the sentence to take into account Mr Kannan’s ill health. Mr Sarbrinder attached hospital discharge summaries relating to Mr Kannan’s hospital admissions which provided some detail on the reasons for the admissions. However, there were no medical reports tendered to show the effect a sentence of imprisonment would have on Mr Kannan’s ill health. Mr Sarbrinder submitted that Mr Kannan had supported Mr Rajendran for approximately eight months after Mr Rajendran’s Employment Pass had expired. Mr Rajendran was unable to leave Singapore as this case was still being investigated.
+
+18     Finally, it was submitted that Mr Kannan’s businesses were struggling to stay afloat and that these would not be viable if he was imprisoned, as such, his family and his employees would be adversely affected.
+
+19     Mr Sarbrinder also submitted that there were no aggravating factors present. In support of this submission, he emphasised that Mr Kannan had not bolstered the false declaration by producing false documents or failing to pay the three employees their salary. He submitted that this was not a case where Mr Kannan had applied for the three employees to work in his companies but then allowed them to work for another company or that the applications had been made to allow the three employees to stay in Singapore for a longer period of time. With respect, the factors raised here are offence-specific factors that are properly considered in the first-stage of the analysis. Mr Sarbrinder did not address the actual aggravating factor, namely that there were five TIC charges.
+
+20     Taking into account the mitigating factors, Mr Sarbrinder suggested that the Court allow a one-third to one-half discount to the indicative sentence and impose a sentence of four weeks’ imprisonment with a global sentence of eight weeks’ imprisonment.
+
+## DECISION
+
+## A.    Legislative Objectives
+
+21     With the coming into force of the amendments to the EFMA on 9 November 2012, the maximum fine and maximum imprisonment for offences under section 22(1)(d) were increased to $20,000 and two years respectively. During the Second Reading of Amendment Bill, the Acting Minister for Manpower, Mr Tan Chua-Jin, stated:
+
+> _“_      _Employers in Singapore are by and large responsible, but there are some who seek to profit by circumventing our work pass framework._ **_As we further tighten the policies on the hiring and retention of foreign manpower, we can expect errant employers to try harder to get round the rules… For example, we have found that some declaring higher salaries than they are actually paying their foreign workers…_**
+
+> **_Singaporeans ultimately suffer when employers_** _fail to pay the true costs of hiring foreign manpower or_ **_hiring foreign manpower that they are not entitled to_** _._ **_Local workers will lose out in employment opportunities. Honest employers who play by the rules are also unfairly disadvantaged…_**
+
+> _Sir, the proposed amendments to the Employment of Foreign Manpower Act will enhance the Government’s ability to ensure the integrity of our work pass framework. Recognising that EFMA contraventions range widely from administrative infringements to 9criminal offences, these amendments will introduce a calibrated and appropriate response to different types of contraventions._ **_In totality, the changes will allow my Ministry to step up enforcement actions against errant employers_** _, errant foreign workers and syndicates more expeditiously and effectively_, **_thereby enhancing deterrence against EFMA contraventions, which ultimately hurts Singaporeans._**
+
+> **_To further enhance deterrence, we will increase maximum penalties for EFMA contraventions. The penalties have been benchmarked against contraventions of similar nature in the Immigration Act and Penal Code_** _…_
+
+> _Sir, as mentioned, this Bill is meant to go after errant employers, and most employers are fair and responsible. It ultimately bolsters our efforts in creating sustainable and inclusive growth in Singapore and ensuring that Singaporeans remain the core of our workforce._ **_It will do so by ensuring employers pay the true costs of hiring foreign workers and creating a level playing field for law-abiding employers…_** _”_ \[**Emphasis mine**\]
+
+22     It was clearly Parliament’s intention that the punishments meted out against errant employers, such as Mr Kannan, should be sufficient to deter such behaviour. Justice Aedit Abdullah confirmed that deterrence was the primary sentencing consideration for offences under section 22(1)(d) in his decision in _Chiew Kok Chai v Public Prosecutor_, where, having analysed the Parliamentary debates relating to the amendments to the EMFA, he held at \[49\] that:
+
+> _“49_      _It follows from my analysis above that the predominant sentencing consideration for an offence under section 22(1)(d) is_ **_deterrence._** _In this regard, I endorse Chao JA’s statements in Lim Kopi at \[10\] and \[11\]: deterrence is necessary to prevent the very object of the EFMA from being flagrantly undermined. Any deception of public institutions which frustrates the aims of the EFMA should not be condoned.”_ **\[Emphasis mine\]**
+
+23     Justice Abdullah concluded that the objective of deterrence would, generally, not be achieved by the imposition of fines, he held at \[50 to 51\]:
+
+> _“50_      _To this end, the appellant argued that a fine would have sufficient deterrent effect. While it is true that fines may be sufficiently deterrent in some circumstances, it does not follow that what would be deterrent in one situation would similarly be so for another. Where there is a significant wider interest to be protected, and where economic benefits may give rise to incentives to breach the law, a fine would not generally be enough to deter would be offenders._
+
+> _51_      _In this case, breaching the work pass system would generally bring some economic or financial advantage to the errant employer, who profits from not paying the true costs of hiring foreign manpower._ **_Additionally, the societal interest to be protected, namely, the proper regulation of foreign manpower in Singapore’s labour market and the protection of local workers and honest employers, requires a heavy response outweighing any likely economic benefit from the breach. I also take the view, as observed in the GD at \[26\], that the payment of a financial penalty in the form of a fine may encourage potential offenders to treat contraventions to be mere business costs_** _._
+
+> _52_      _In these circumstances_, **_I conclude that a custodial sentence should be the norm for offences under s 22(1)(d) of the EFMA_**_. A fine would generally not be sufficient punishment unless substantiated mitigating factors are present.”_ **\[Emphasis mine\]**
+
+24     I found that Mr Kannan was exactly the type of employer that the amendments to the EFMA targeted. Mr Kannan had obtained the S-Passes and Employment Pass for the three employees by declaring that he would pay them the minimum salary to qualify for those work passes. However, as he paid them reduced salaries (and in Mr Muthiah’s and Mr Rajendran’s cases considerably reduced salaries) and this allowed Mr Kannan to avoid paying the true costs of hiring foreign manpower.
+
+25     I also found that by these offences, Mr Kannan deprived Singaporeans of possible employment opportunities, prejudiced other employers who either employed Singaporeans for similar jobs or paid foreigners the actual declared salary and obtained a financial benefit for the companies.
+
+26     I found that in accordance with Parliament’s intent and the principles laid down in _Chiew Kok Chai_ a custodial sentence was the appropriate sentence in the present case. The only consideration for me was the length of the sentence.
+
+## B.    Sentencing framework from _Chiew Kok Chai v Public Prosecutor_
+
+27     As stated above, Justice Abdullah found that deterrence was the primary sentencing consideration. He found that the length of a custodial sentence for section 22(1)(d) offences “_should be calibrated using the “two-step sentencing bands” approach_”[^3]. Justice Abdullah held, at \[67\], that at the first stage the Court should consider the following non-exhaustive offence-specific factors:
+
+> a.     The materiality of the false representation on the mind of the decision maker;
+
+> b.     The nature sophistication and extent of the deception;
+
+> c.     The consequences of the deception, which includes a consideration of the level of exploitation of the foreign workers, the use of public resources required to uncover and investigate the offence; whether better qualified applicants were deprived of a job opportunity and whether others were put at risk as a result of an unqualified foreigner performing the job;
+
+> d.     Whether there was a transnational element or the offence was syndicated;
+
+> e.     The specific role played by the accused and the number of people involved in the offence; and
+
+> f.     Whether the offender obtained gains (financial or otherwise) from the commission of the offence.
+
+28     Using these factors, the Courts would determine the gravity of the offence and thereafter place the offence in the appropriate sentencing band. Justice Abdullah, at \[63\], adopted the sentencing bands proposed by the Prosecution as follows:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="13.64%"> <col width="57.28%"> <col width="29.08%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p class="Table-Heading-Center">Band</p></td><td align="left" class="br" rowspan="1" valign="top"><p class="Table-Heading-Center">Elaboration</p></td><td align="left" class="b" rowspan="1" valign="top"><p class="Table-Heading-Center">Sentencing range</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="right" class="Table-Para-1">1</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Lower end of the spectrum, involving one or very few offence-specific factors, or where offence-specific factors were not present to a significant degree</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Short custodial sentence of less than five months’ imprisonment</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="right" class="Table-Para-1">2</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Middle band of the spectrum, involving higher levels of seriousness or harm, comprising cases falling between Bands 1 and 3</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Five to 15 months’ imprisonment</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="right" class="Table-Para-1">3</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Higher end of the spectrum, involving numerous offence-specific factors, or were offence-specific factor were present to a significant degree</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">15 to 24 months’ imprisonment</p></td></tr></tbody></table>
+
+  
+  
+
+29     Having ascertained the appropriate sentencing band the Court would determine an indicative starting point for the sentence and then consider the second stage of the approach and consider offender-specific factors, namely, aggravating and mitigating factors, see \[68\] and \[75\].
+
+## C.    Application of the principles in _Chiew Kok Chai_ to the present case
+
+## I.    Offence-specific factors in the present case
+
+30     I found that there were four offence-specific factors applicable to this case:
+
+31      Materiality of the false representation on the mind of the decision-maker: The salaries declared on the application for the work passes for the three employees was a primary reason why they were issued with the S-Passes and Employment Pass and that but for the false declarations the three employees would not have been granted their respective work passes. Mr Sarbrinder conceded that this factor was present.
+
+32      The nature, sophistication and extent of the deception: Mr Kanan had never intended to pay the foreign employees their actual salaries and this was clearly his plan from the time he made the applications for the work passes. As such, I found that Mr Kannan had consciously and deliberately planned the deceptions.
+
+33     I disagreed with Mr Sarbrinder’s submission that the deception was unsophisticated. Mr Muthiah and Mr Rajendran had received their full declared salaries via a bank transfer to their bank accounts monthly and were then required to return the overpayment in cash. I found that this was a false paper trail as it created the impression that these two employees were being paid their full declared salaries. I found that there was some level of sophistication in the scheme thought up Mr Kannan.
+
+34     I further disagreed with the Mr Sarbrinder’s submission that Mr Kannan had not set out to create a false paper trail. I found that if he had not wanted to disguise the fact that the three employees were not being paid their declared salaries, he could have simply credited them with their actual salaries. There would be no need for to pay them the declared salaries and then expect the employees to return the overpayment in cash. Had Mr Kannan paid the employees their actual salaries then I would have accepted that his scheme could be described as unsophisticated. However, this was not the case.
+
+35     Turning to the extent of the deception, I found that, with regard to Mr Muthiah and Mr Rajendran that the deception was maintained for a lengthy period of time, ten months and one and a half years respectively. I found that the longer the deception was maintained the more egregious the offence. However, I accepted that with regard to Mr Sabarimuthu the period of deception was shorter and, I found, that this should translate into a lower starting point sentence for the offence involving Mr Sabarimuthu.
+
+36      The consequences of the deception: I found that the false paper trail that Mr Kanan used with regard to Muthiah and Rajendran and the fact that he did not pay all three employees their actual salary would have increased the difficulty of the authorities in uncovering the scheme. Mr Kannan would be able to disguise the fact that he was not paying the declared salaries if, for instance, MOM had audited his payroll. The difficulty in detection of the offences would increase Mr Kannan’s culpability under this factor.
+
+37     I found that the scheme would have potentially deprived a better-qualified applicant or possibly a Singaporean of a job opportunity had Mr Kannan paid the full declared salaries. This goes to the heart of Parliament’s reasons for amending the EFMA.
+
+38     However, I disagreed with Mr Yeo’s submission that the workers were exploited. I found that there was no overt exploitation of the employees in the sense that the three employees were threatened or warned that the company would cease to employ them and revoke their work passes if they did not accept the arrangement. I also found that there was no evidence that they have been given the impression, for instance prior to arriving in Singapore, that they would be paid their declared salaries and it was only upon their arrival that they were told otherwise.
+
+39     Had there been such overt exploitation this would have increased Mr Kannan’s culpability with regards to this factor. I found that if the Prosecution intended to submit that there was exploitation it was incumbent on them to spell this out in the Statement of Facts. As such, I found that there is no reason to doubt that the three employees were earning what they had expected to earn when they took up their employment with Anjali and Shanmugha. I disregarded exploitation of the workers as a consideration in determining the indicative starting sentence.
+
+40      The specific role played by Mr Kannan: I found that Mr Kannan was clearly the mastermind behind this scheme and I considered this factor in determining the indicative starting sentence. However, I was also alive to the fact that he had not involved any other employees, knowingly or otherwise in his scheme.
+
+41      Whether Mr Kannan obtained any gains (financial or otherwise): I accepted that the accused had not personally profited from this scheme, in the sense that he was personally pocketing the sums reimbursed by the three employees.
+
+42     However, I found that by paying the three employees less than their declared salaries the companies made substantial savings. The Prosecution has calculated that the two companies would have saved $84,600 between them by not paying the three employees their declared salaries. I found that this had an impact on Mr Kannan’s culpability because he was “_fully in charge of the entire business of the companies”._ Therefore, I found that Mr Kannan stood to indirectly gain from these offences as these savings helped the companies, that he had control over, to be viable businesses.
+
+43     Mr Sarbrinder sought to downplay the financial gains that were made by the companies by arguing that the money saved from was utilised towards paying for the employees accommodation, utilities bills, food and other expenses (“incidentals”). I found that this submission was flawed. If the company was going to fully utilise the savings from not paying the declared salaries then it made no sense not to pay the employees their declared salary and expect them to pay for their own incidentals. Mr Kannan had simply not wanted to pay the employees their declared salaries and as a result he made considerable savings for the companies.
+
+44     The fact that there were considerable financial gains from the offences would increase Mr Kannan’s culpability with regard to this factor.
+
+45      Mr Kannan’s motive for the offences: I disagreed with the Prosecution’s submission that Mr Kannan committed the offences in order to circumvent the quota put in place by the work pass framework. This submission was extremely vague. The Prosecution failed to explain what quota Mr Kannan was trying to evade.
+
+46     Hypothetically, the companies may have had insufficient quota to hire foreign employees on work permits. As the companies may have had sufficient quota for S-Passes or Employment Passes (or these work passes were not subject to a quota), Mr Kannan may have tried to get round the lack of quota for work permits by applying for S-Passes or Employment Passes. This way Mr Kannan would be able to hire employees for the companies and pay them what he would expect to pay work permit holders. If this was the case it would increase Mr Kannan’s culpability with regard to this factor.
+
+47     However, the Statement of Facts was silent on Mr Kannan’s motive for applying for S-Passes and an Employment Pass for the three employees. Therefore, there was no evidence that the companies were facing limitations on engaging workers under a work permit or that the occupations that they wanted to fill in the companies were reserved for employees on either an S-Pass or an Employment Pass. These details would have been vital for me to assess Mr Kannan’s motive and if the Prosecution sought to put forward a motive, it was incumbent on them to state this in the Statement of Facts, they did not and I have to disregard this motive.
+
+48     I found that based on the offence-specific factors, namely (i) the materiality of the deception; (ii) the nature, sophistication and extent of the deception; (iii) the consequences of the deception; and (iv) the fact that the companies, and indirectly Mr Kannan, made financial gains; I found that this case fell within the Band 1 of the sentencing table above.
+
+## II.    The indicative starting point for the sentences – comparison with case precedents
+
+49     Before determining the indicative starting point for the sentences in this case, I compared the present case with case precedents tendered by the Prosecution and the Defence:
+
+50      _Chiew Kok Chai_. The detailed facts of this case may be found in the Magistrate’s Court decision[^4]. The accused pleaded guilty to three charges under section 22(1)(d) with a further two charges taken into consideration. The accused had also pleaded guilty to a number of charges relating to failing to pay salaries, and making deductions from employees’ salaries as a condition of employment.
+
+51     The accused and his conspirator, Tan Yock Jeen (“Tan”), jointly managed Wee Chong Construction and Wan Fu Builders Pte Ltd. The accused was one of the directors of Wan Fu, whilst, Tan was the sole-proprietor of Wee Chong. As Wan Fu had defaulted in the payment of foreign worker levies it no longer had any entitlement to foreign manpower quota.
+
+52     Therefore, Tan and the accused entered into a conspiracy to make applications for work permits for workers to be employed by Wee Chong. However, the applications were false in a material particular because the accused and Tan intended for the employees to be employed by Wan Fu instead. The three workers worked for Wan Fu for period between five to six months.
+
+53     Justice Abdullah held at \[73\] that (i) the false representation was material; (ii) with regard to the nature, sophistication and extent of the deception, he held that it was consciously and deliberately planned, was difficult to detect and had been maintained for five to six months; (iii) that as a result of the deception Wan Fu gained an economic advantage and was able to hire foreign employees at a lower cost; and (iv) with regards to the motive for the offence, the accused’s deception was calculated to specifically circumvent the work pass framework and obtain employees for Wan Fu when that company was precluded from hiring foreign workers. On the basis of these factors, Justice Abdullah found that the indicative staring sentence was two months’ imprisonment (or approximately eight and a half weeks).
+
+54     I found that the factors in the present case, in particular for the offences concerning Mr Muthiah and Mr Rajendran, were more egregious than the offences in _Chiew._ With respect to these two employees, Mr Kannan had utilised a false paper trail that made detection of the offences harder, this factor does not appear to be present in _Chiew_. The period of deception, concerning the work passes issued to these two employees was far longer than the periods in _Chiew._
+
+55     Whilst it was held that Wan Fu gained an economic advantage, there was no quantification of this advantage. This is in comparison to the present case, where quantifiable savings of $84,600 was made on behalf of Anjali and Shanmugha because of the offences.
+
+56     I considered the fact that in _Chiew_, unlike the present case, there was a stated and nefarious motive to circumvent the work pass framework. This was clearly an additional aggravating factor that would have impacted the indicative starting sentence. However, I found that the circumstances of the offences in the present case, as described in the preceeding two paragraphs, made the present case more egregious than _Chiew._ Based on this I found that the indicative starting point for all three proceeded charges in the present case should be higher than the starting point in _Chiew._
+
+57      _PP v Ong Sin Yee[^5]._ In this case the accused had made a false declaration, on behalf of her company, that a foreign employee would be paid $2,600 when the employee was in fact paid $1,400. In _Ong_, the Prosecution submitted, and this submission was accepted, that the accused had financially exploited the employee. This fact was absent from the present case.
+
+58     However, I found the present case to be more egregious as the duration of the deception in _Ong Sin Yee_ was far shorter, i.e. for only three months. The financial gain in _Ong Sin Yee_ was also considerably less. The accused in _Ong Sin Yee_ was sentenced to four weeks’ imprisonment. I found that on the basis of the far longer period of deception and the higher financial gain made by the companies in the present case, the length of the custodial sentences in the present case should be longer than in _Ong Sin Yee._
+
+59      _PP v Javier Catherine Roy[^6]:_ In this case the accused had made a false declaration to obtain a work pass to work as a foreign domestic worker (“FDW”). She had no intention of working as an FDW and instead had worked for 21 months as a freelance waitress at Orchard Towers. In that time she had earned about $42,000. The false declaration by the accused in _Javier_ had also allowed her to carry out an illegal act by working as a freelance waitress. I found that the circumstances of the offence in _Javier_ was more aggravated that the circumstances of the offences in the present case in view of the longer period of deception, that the accused in _Javier_ had earned a considerable amount and that her motive was to allow her to work illegally. The accused in _Javier_ was sentenced to 14 weeks’ imprisonment. On the basis of the differences between the present case and _Javier_, I found that the sentences for the individual offences in the present case should be lower than the 14 weeks imposed in _Javier_.
+
+60     I found that the other precedents tendered by the Prosecution were not as instructive in determining the appropriate indicative starting sentence. These cases are:
+
+> a.     In _PP v Chair Wai Man[^7]_ the sentence was based on the Prosecution’s submissions that were made pre-_Chiew Kok Chai_ and as such the principles laid down in _Chiew_ were not followed.
+
+> b.     In _PP v Aberin Christine Batalla[^8]_, in this case it was held that the primary beneficiary of the false declaration was the company that employed the accused and it was the company that had hatched the scheme. The accused had merely agreed to the scheme and agreed to make the false declaration. In the present case the accused and his companies, were the primary beneficiaries of the scheme and as such, I found, their culpability would be higher than the culpability of the accused in _Batalla_.
+
+> c.     In _Saravanan Uma Mageshwari[^9]_ the accused had participated in a conspiracy to falsely declare that she would be working as an FDW. Instead, she was self-employed as a cleaner for one and a half months. The period of the deception was far shorter and the financial gain was far lower when compared to the present case. For this reason, I found that this case was not instructive.
+
+> d.     In _Mila Repollo Lopez[^10]_ the accused had falsely declared that she would be working as an FDW when her intention had been to work as a freelance cleaner. The period of deception was for 25 months. However, there was no information with regard to the financial gain that she had made. As such, I did not find this precedent instructive.
+
+> e.     In _Lee Kah Hing[^11]_ the accused had made a false declaration that he would employ a foreigner as an FDW when he did not intend to employ the foreigner as such. Instead, the accused had intended to validate the foreigner’s stay in Singapore to continue a relationship with her. The duration of the deception in this case was three years. I found that as the reasons for the commission of the offence were different to the present case it was not instructive in determining the appropriate sentence for the current case.
+
+61     Having considered the applicable factors and the precedents above, I found that the indicative starting sentence in the present case for the offences involving Mr Muthiah and Mr Rajendran should be above the mid-point of Band 1. The mid-point of Band 1 would be approximately 11 weeks’ imprisonment. I set the indicative starting sentence at 12 weeks’ imprisonment. However, with regard to the offence involving Mr Sabarimuthu, as the deception was for a shorter period of time and Mr Kannan was not crediting this employee’s salary into a bank account, I found that a starting point of nine weeks’ imprisonment was appropriate.
+
+## III.    The offender-specific factors.
+
+62     In mitigation, I accepted that Mr Kannan had pleaded guilty at the earliest possible opportunity and that this was a clear expression of his remorse, that he was a first time offender and that he had cooperated with the authorities. I noted that Mr Sarbrinder had submitted that Mr Kannan was suffering from multiple medical conditions; however, there was no indication that these conditions would be exacerbated or would worsen by a sentence of imprisonment. There was also no evidence that the Singapore Prisons Service would be unable to provide the necessary treatment for his conditions. Therefore, I placed little mitigating weight on these medical conditions.
+
+63     Mr Sarbrinder also submitted that it should be taken as mitigating that Mr Kannan had supported Mr Rajendran for approximately eight months after Mr Rajendran’s work pass had expired. Mr Sarbrinder submitted that Mr Rajendran was unable to return home as he was required to assist with MOM’s investigation. Mr Rajendran’s food and accommodation were paid for. However, I found there would have been a duty for Mr Kannan and/or Shanmugha to support Mr Rajendran whilst he was assisting with MOM’s investigation. Mr Rajendran was in this unfortunate situation due to no fault of his. As such, I did not accept that this was a mitigating factor.
+
+64     As for aggravating offender-specific factors, I noted that there were five TIC charges under section 22(1)(d) and these charges all related to different foreign employees. Therefore, balancing the aggravating and the mitigating factors I adjusted the sentences downward by two weeks’ for each charge.
+
+65     Therefore, I sentenced Mr Kannan to ten weeks’ imprisonment for the charges involving Mr Muthiah and Mr Rajendran and to seven weeks’ imprisonment for the charge involving Mr Sabarimuthu. I ordered that MAC 902606 and MAC 902610 were to run consecutively. The global sentence was 17 weeks’ imprisonment.
+
+* * *
+
+[^1]: <span class="citation">\[2019\] SGHC 169</span>
+
+[^2]: <span class="citation">\[2016\] 2 SLR 78</span>
+
+[^3]: At \[63\]
+
+[^4]: <span class="citation">\[2018\] SGMC 70</span>
+
+[^5]: SC-909403-2018
+
+[^6]: SC-900683-2019
+
+[^7]: SC-904990-2018
+
+[^8]: SC-905579-2019
+
+[^9]: SC-903851-2019
+
+[^10]: SC-905800-2019
+
+[^11]: SC-909830-2018
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F23688-SSP.xml)
