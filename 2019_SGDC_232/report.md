@@ -1,0 +1,1163 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Kreetharan s/o Kathireson and others  
+
+### \[2019\] SGDC 232
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">DAC No. 914693 of 2017 &amp; Ors</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">08 November 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Luke Tan</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Deputy Public Prosecutors Ms Thiam Jia Min, Mr Eric Hu, Mr Ryan Lim and Ms Jessie Lim for the Public Prosecutor; Defence Counsels Mr Eugene Thuraisingam, Mr Haziq Ika bin Zahidi and Ms Syazana Yahya for the accused persons</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Kreetharan s/o Kathireson — Madavakhandam s/o Panjanathan — Sivakumar s/o Israve</td></tr></tbody></table>
+
+\[LawNet Editorial Note: An appeal to this decision has been filed in MA 9233/2019/01, MA 9234/2019/01 and MA 9235/2019/01.\]
+
+8 November 2019
+
+### District Judge Luke Tan:
+
+## (1)   Introduction
+
+1       Four male Singaporeans, Kreetharan s/o Kathireson (B1), Narenthiran s/o Kathireson (B2), Madavakhandam s/o Panjanathan (B3) and Sivakumar s/o Israve (B4), were charged in connection with cheating four foreign workers (the “victims”) of their money and mobile phones. B3 faced an additional charge of causing hurt to one of the victims. The four victims, all Bangladeshi nationals, were PW2 Miah Sohel (V1), PW6 Afsari Mohammad Malek (V2), PW9 Hossain Mohamed Amir (V3) and PW8 Hossain Jalal (V4)
+
+2       The offences were alleged to have been committed on the evening of 30 April 2017 in the vicinity of Mustafa Centre. The first two victims were approached by three of the accused persons, B1, B3 and B4 at an earlier part of the evening, while V3 and V4 were approached by the same three accused persons later that same evening. On each occasion, the victims were allegedly informed that the accused persons were police officers or personnel from the Criminal Investigation Department (“CID”). Thereafter, the victims, in separate pairs, were driven in B1’s car to his office at Desker Road (hereafter “the Office”) together, with B3 and B4. There, they saw B2 who was already in the Office.
+
+3       The victims were then allegedly told to surrender their belongings. Believing that the accused persons were police or CID officers, the victims handed over a total of S$18,115 in cash, and several mobile phones. Subsequently, when the victims realised that they had been cheated, some of them tried to ask for their money back but their requests were rejected. V3 was even punched in the face and abdomen by B3 when he attempted to recover his money.
+
+4       Before me, B1 to B4 faced similar conspiracy to cheat charges under section 420 of the Penal Code (Cap. 224, 2008 Rev. Ed.) (“PC”) read with section 109 PC; a total of four separate charges relating to the four victims. Essentially, as regards these charges (“cheating charges”), the accused persons were alleged to have entered into a conspiracy with one another, with the relevant act carried out, in pursuance of the conspiracy, being the following:
+
+> (a)     B1 deceived V1 into believing that the four accused persons were police officers, and thereby dishonestly induced V1 to deliver to B1 cash amounting to S$6,625 and three mobile phones (models Nokia, Nipda and Oppo);
+
+> (b)     B1 deceived V2 into believing that the four accused persons were police officers, and thereby dishonestly induced V2 to deliver to B1 cash amounting to S$40 and a mobile phone (model Samsung J56);
+
+> (c)     B1 deceived V3 into believing that the four accused persons are personnel from the CID, and thereby dishonestly induced V3 to deliver to B1 cash amounting to S$10,250 and two mobile phones (models Samsung X4 and Karbonn); and
+
+> (d)     B4 deceived V4 into believing that B1, B2 and B3 were personnel from CID, and thereby dishonestly induced V4 to deliver to B1 cash amounting to S$1,200.
+
+5       B3 was additionally charged with voluntarily causing hurt to V3 by punching him on the face and abdomen, an offence punishable under section 323 PC (“VCH charge”).
+
+6       Both the Prosecution and the Defence consented to a joint trial of the charges.
+
+7       Subsequently, having heard the evidence and considered the exhibits, as well as the submissions and reply submissions from both the Prosecution and the Defence, I was satisfied that the charges had been made out against B1, B3 and B4 beyond a reasonable doubt and I convicted them. As for B2, I was not satisfied that the Prosecution had discharged its burden to prove its case against him, and I acquitted him[^1].
+
+8       Following the convictions of B1, B3 and B4, and having heard sentencing submissions and the mitigation plea, I imposed the following sentences:
+
+> (a)     For B1 and B4, a global sentence of 14 months’ imprisonment for the four cheating charges.
+
+> (b)     For B3, a global sentence of 14 months’ imprisonment for the four cheating charges, plus an additional 2 weeks’ imprisonment for the VCH charge (making a total of 14 months and 2 weeks’ imprisonment for B3). The details of the individual sentences are set out at \[200\] below.
+
+9       I also made compensation orders against B1, B3 and B4 for the following amounts:
+
+> (a)     B1, B3 and B4 are to pay compensation of S$6,625 to V1 in respect of the cheating offence involving him. This sum is to be divided equally so that each accused person will pay $2,208.33 (in default 11 days’ imprisonment each).
+
+> (b)     B1, B3 and B4 are to pay compensation of S$40 to V2 in respect of the cheating offence involving him. This sum is to be divided equally so that each accused person will pay $13.33 (in default 1 day’s imprisonment each);
+
+> (c)     B1, B3, and B4 are to pay compensation of S$10,250 to V3 in respect of the cheating offence involving him. This sum is to be divided equally so that each accused person will pay $3,416.66 (in default 17 days’ imprisonment each); and
+
+> (d)     B1, B3 and B4 are to pay compensation of S$1,200 to V4 in respect of the cheating offence involving him. This sum is to be divided equally so that each accused person will pay $400 (in default 2 days’ imprisonment each); and
+
+> (e)     B3 is to pay an additional compensation of S$500 (in default 2 days’ imprisonment) to V3 in respect of the VCH charge.
+
+10     B1, B3 and B4 have since filed appeals against their convictions, sentences and orders of compensation, and are currently out on bail. No appeal has been filed by the Prosecution against the order of acquittal in respect of B2’s charges.
+
+11     For the purposes of these grounds of decision, I will outline the evidence put forward for B1, B3 and B4, before setting out the reasons for my decisions in respect of these three accused persons. For completeness, I will also some of the evidence relating to B2, in so far as they provide a useful comparison in relation to the case against B1, B3 and B4. To avoid confusion, all further references to accused persons in these grounds of decision will be taken to mean B1, B3 and B4 only, unless otherwise specified.
+
+## (2)   A summary of the law
+
+12     There was essentially no dispute over the legal elements that had to be satisfied.
+
+##### Conspiracy to Cheat under section 420 read with (r/w) s 109 PC (“Cheating Charges”)
+
+13     For each offence of cheating under s 420 PC:[^2]
+
+> (a)     The victim had to be deceived;
+
+> (b)     There had to have been an inducement such that the victim delivered any property to any person; and
+
+> (c)     There had to have been a dishonest or fraudulent intention on the part of the deceiving person to induce the victim to deliver the property (i.e. to cheat).
+
+14     As for abetment by conspiracy, it has three essential elements:[^3]
+
+> (a)     First, the person abetting must engage, with one or more persons, in a conspiracy;
+
+> (b)     Second, the conspiracy must be for the doing of the thing abetted; and
+
+> (c)     Third, an act or illegal omission must take place in pursuance of the conspiracy, and in order to the doing of that thing.
+
+15     As regards proof of a conspiracy, one method is to show that the words and actions of the accused persons indicate their concert in the pursuit of a common object or design, giving rise to the inference that their actions must have been coordinated by arrangement beforehand.[^4] Further, it has been held that “…although there must be knowledge of a common design, it is not necessary that all of the co-conspirators be equally informed as to the details. However, they must at least be aware of the general purpose of the plot and the plot must be unlawful. The test of guilt is not what was the object of the offender, but whether having regard to the immediate object of the instigation or conspiracy, the act done by the principal is one which according to ordinary experience and common sense, the abettor must have seen as foreseeable.”[^5]
+
+##### Voluntarily Causing Hurt under s 323 PC (“VCH Charge”)
+
+16     B3 faced an additional charge under section 323 PC for punching V3 on his face and abdomen. For this charge, Prosecution must show that B3 did an act which caused hurt to V3, with the intention to cause hurt, or with the knowledge that he would likely thereby cause hurt to V3. It should also be noted that section 319 PC states that “Whoever causes bodily pain, disease or infirmity to any person is said to cause hurt.”
+
+## (3)   The Agreed Facts
+
+17     Both the Prosecution and Defence put up an agreed statement of facts (ASOF) which included documents in two annexes to the ASOF (Annex A and B). I have set out a short chronology of the undisputed facts, largely reproduced from the table set out at \[11\] of the Prosecution’s Closing Submissions (including references to the ASOF and annexes).
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="14.0652557319224%"> <col width="85.9347442680776%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1"><b>Time</b></p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1"><b>Events on 30 April 2017</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">&nbsp;</p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1"><b>A) V1 and V2 were brought to the Office</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">Around 8pm</p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">B1, B3 and B4 approached V1 and V2 at Gate 5 of Mustafa Centre. These accused persons brought the first pair of victims to B1’s car, and B1 drove them back to the Office (located at 129 Desker Road).<sup>6</sup></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">8.12pm</p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">B3 and B4 led V1 and V2 into the Office. B2 was already there. B1 joined them a few minutes later.<sup></sup><span class="FootnoteRef"><a href="#Ftn_6" id="Ftn_6_1"><sup>[note: 6]</sup></a></span></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">8.24pm</p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">Jahangir entered the Office for the first time, and remained until 8.39pm.<span class="FootnoteRef"><a href="#Ftn_7" id="Ftn_7_1"><sup>[note: 7]</sup></a></span></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">8.48pm</p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">Jahangir entered the Office for the second time.<span class="FootnoteRef"><a href="#Ftn_8" id="Ftn_8_1"><sup>[note: 8]</sup></a></span></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">&nbsp;</p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1"><b>B) V3 and V4 were brought to the Office, while V1 and V2 exited</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">8.51pm</p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">B1, B3 and B4 left the Office. V1 and V2 remained in the Office with B2.<span class="FootnoteRef"><a href="#Ftn_9" id="Ftn_9_1"><sup>[note: 9]</sup></a></span> Jahangir left the Office shortly thereafter.</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">Around 9pm</p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">B1, B3 and B4 approached V3 and V4 at the small lane behind New Park Hotel at Kitchener Road. They brought this second pair of victims to B1’s car, and B1 drove them back to the Office.<span class="FootnoteRef"><a href="#Ftn_10" id="Ftn_10_1"><sup>[note: 10]</sup></a></span></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">9.07pm</p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">B3 and B4 led V3 and V4 into the Office. Several seconds later, V1 and V2 left the Office with B2 and B4. The latter then led V1 and V2 to a minimart at 125 Desker Road. B2 and B4 re-entered the Office at 9.09 pm and 9.15 pm respectively without V1 and V2.<span class="FootnoteRef"><a href="#Ftn_11" id="Ftn_11_1"><sup>[note: 11]</sup></a></span></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">9.17pm</p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">Jahangir entered the Office for the third time.<span class="FootnoteRef"><a href="#Ftn_12" id="Ftn_12_1"><sup>[note: 12]</sup></a></span></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">9.28pm</p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">V3 was pulled out of the Office by B2, who then re-entered the Office. V3 re-entered the Office two minutes later.<span class="FootnoteRef"><a href="#Ftn_13" id="Ftn_13_1"><sup>[note: 13]</sup></a></span> V3 was inside the Office from 9.07 pm to 9.28 pm, and from 9.30 pm to 9.40. V4 was inside the Office from 9.07 pm to 9.41. V3’s Karbonn mobile phone (P8-3 and P8-4) was taken from him sometime during these times.<span class="FootnoteRef"><a href="#Ftn_14" id="Ftn_14_1"><sup>[note: 14]</sup></a></span></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">9.33pm</p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">Jahangir entered the Office a fourth time.<span class="FootnoteRef"><a href="#Ftn_15" id="Ftn_15_1"><sup>[note: 15]</sup></a></span></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">9.40pm</p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">V3 left the Office unaccompanied with a black bag in hand. V4 left shortly after with Jahangir.<span class="FootnoteRef"><a href="#Ftn_16" id="Ftn_16_1"><sup>[note: 16]</sup></a></span></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">10.07pm</p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">V1 returned and entered the Office alone. He left the Office at 10.08 pm.<span class="FootnoteRef"><a href="#Ftn_17" id="Ftn_17_1"><sup>[note: 17]</sup></a></span></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">10.16pm</p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">B1 turned off the lights in the Office and came out holding a pouch. B3 was waiting for him. While B1 was locking up the Office, V3 approached B1 from behind. Both B1 and B3 walked off in the direction of B1’s car. V3 followed them from behind.<span class="FootnoteRef"><a href="#Ftn_18" id="Ftn_18_1"><sup>[note: 18]</sup></a></span></p></td></tr><tr><td align="left" class="r" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">~11am</p></td><td align="left" class="" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">B1 was in his car on Desker Road and was unable to leave. Police arrived at the scene.</p></td></tr></tbody></table>
+
+  
+  
+
+18     At the material time, the accused persons were not police officers or personnel from the CID, nor was the Office a police station.[^19]
+
+19     On 30 April 2017, B1 and B2 were arrested. The following items were found in B1’s possession and seized by the police:[^20]
+
+> (a)     A Nipda mobile phone belonging to V1 (“the Nipda phone”);[^21]
+
+> (b)     A Samsung J56 mobile phone belonging to V2 (“the Samsung phone”);[^22] and
+
+> (c)     A Karbonn mobile phone belonging to V3 (“the Karbonn phone”).[^23]
+
+20     The following amounts in cash were also seized on 30 April 2017.[^24]
+
+![]([2019] SGDC 0232_Image/[2019] SGDC 0232_image1.png)
+
+21     B3 and B4 were arrested on 1 May 2017 at 8.30 pm. [^25]
+
+## (4)   Outline of the Prosecution’s Evidence
+
+22     In addition to the agreed facts, the Prosecution called 10 witnesses to testify:
+
+> (a)     PW1 Asrihan Asmawi (“IO Asmawi”) who is the Investigation Officer;
+
+> (b)     PW2 Miah Sohel (“V1”) who is the alleged first victim;
+
+> (c)     PW3 Mia Md Naba (“Naba”) who is a relative of V1;
+
+> (d)     PW4 Hosen Abu Taher (“Abu Taher”) who is a friend of V1;
+
+> (e)     PW5 Raju (“Raju”) who is a friend of V1;
+
+> (f)     PW6 Afsari Mohammad Malek (“V2”) who is the alleged second victim;
+
+> (g)     PW7 Mohammad Yusri Bin Abdul Majib (“Majib”) who is V1’s supervisor;
+
+> (h)     PW8 Hossain Jalal (“V4”) who is the alleged fourth victim;
+
+> (i)     PW9 Hossain Mohamed Amir (“V3”) who is the alleged third victim; and
+
+> (j)     PW10 Victor Kuah (“Mr Kuah”), an eyewitness to B3’s assault on V3.
+
+23     I will set out an outline of the Prosecution evidence, broadly along the lines set out in the Prosecution’s Closing Submissions.
+
+### (a)   B1, B3 and B4 approached V1 and V2, and were brought to the Office
+
+24     V1 and V2 are both Bangladeshi nationals and are relatives who worked in Singapore. On 30 April 2017, they were with each other at Mustafa Gate 5 at around 8pm. V1 was there as he wanted to remit money to Bangladesh to build a house, while V2 simply wanted to have a chat with people from his village.
+
+25     At that time, V1 had been handed $2,000 by one Raju, which consisted of $1,400 that Raju returned to V1, and an additional loan of $600 that Raju made to V1. Aside from this money from Raju, V1 had money from his relative, Abu Tahir, who had passed him $1,400, and from V1’s cousin, Naba, had also passed $1,800 to him. In addition, V1 himself had $1,425 on him. Of all this money, V1’s plan was to keep $150 for his expenses and remit the balance. V1 thus had a total of S$6,625 in cash on him at that time.
+
+26     For the trial, the Prosecution called Raju, Naba and Abu Tahar to testify and they all separately confirmed handing over the respective sums of money to V1. V2 also saw Naba passing money to V1.
+
+27     When V1 and V2 were at Mustafa Gate 5, B1, B3 and B4 approached them, and B1 said that he was a police Officer (“I, police Officer”). He also told V1 to follow them to a police station.[^26]
+
+28     V1 said he believed that the accused persons were police officers. He was then held by the accused persons and brought to the car. V1 testified that he did not know what was said to V2, but that V2 was also held and brought to the car. V1 was frightened as this was the first time that such a thing had happened to him.
+
+29     V2 stated that he saw two accused persons speak to V1, but did not know what was said to him. Separately, B4 spoke to V2, and held him by his arm and told him that he was taking V2 to the police station because they were doing illegal business and cheating the Singapore Government.[^27] V2 was subsequently brought to the car. V2 also confirmed that V1 was held as he was brought to the car.[^28]
+
+30     V1 and V2 were then placed in the back seat of a medium sized black car, and B1, B3 and B4 sat in the car with them. Both V1 and V2 testified that they thought the three accused persons were police officers.[^29]
+
+31     They were then brought by the accused persons to the Office near to the Mustafa area. At that time, V1 thought that the Office was a police station, even though the company sign indicated “Dnet Interior and Network Solutions”, as he could not read English.
+
+### (b)   V1 and V2 were told to hand over their belongings in the Office
+
+32     Once inside, V1 and V2 stood at the table in the middle of the Office.
+
+33     V1 said that he was told to put his money and mobile phones on the table. Accordingly, he placed his money ($6,625) and mobile phones (a Nipda phone, a Nokia phone and a Oppo phone) there. However, he could not say which of the accused persons had told him to do this[^30]. V1 said that he did this because they had informed him that they were police officers, and that he would not have done so if he knew the accused persons were not police officers.[^31]Following this, one of them moved the money to another table and took V1’s photograph and warned him that he would be given the rottan (i.e. that he would be caned). They spoke in English and V1 informed that he did not understand English. V1 said that V2 also put his wallet and one mobile phone on the table. While in the Office, one of the accused persons said in English “2 persons put jail inside”. V1 thought that the two persons that the accused persons were referring to were V2 and himself.[^32]
+
+34     As for V2, he said that B1 told him that he was from the Police and told both V1 and him to put whatever they had on the table (“I police. All everything put on table”[^33]). V2 said that he placed his wallet (containing his work permit, SOC card, bus card and $40), and his Samsung J56 mobile phone on the table.[^34] V2 felt that he had to listen to B1 “because he was from police and I had to listen to him.”V2 said that B1 then removed the items on the table, kept them, and did not return them to V1 and V2.[^35]
+
+35     Both V1 and V2 testified that they believed all four accused persons were from the Police and handed over their items.[^36]
+
+36     After they had surrendered their belongings, a Bangladeshi by the name of Jahangir (identified as W3 in P3) came into the Office on two occasions. V1 then informed Jahangir, that they had taken S$6,625 and 3 mobile phones from him. Jahangir replied that these people (i.e. the accused persons) were “not too good” and would not return his money. Jahangir said that they could only return the work permit to V1. [^37]V1 said that Jahangir also told him that the accused persons “every Sunday bring people and take dollar, don’t return back”.[^38]
+
+37     V2 similarly testified that Jahangir had said that the accused persons were not good people and told V1 and V2 to just forget about the things that they have taken and to leave the place. V2 said that when Jahangir returned to the Office a second time, they asked Jahangir to request the accused persons to return their money and mobile phones. However, Jahangir said that they would not listen to him, and that they had done this with other people before i.e. brought them there and taken their things. Jahangir told them to forget about it and to leave.
+
+38     At around 8.43pm, B1, B3 and B4 left the Office, while B2 stayed there with V1 and V2. V2 explained that, after their things were taken, they were asked to sit inside the Office.
+
+### (c)   B1, B3 and B4 approached V3 and V4 and brought them to the Office
+
+39     After leaving the Office, B1, B3 and B4 went back towards Mustafa Centre. There, at around 9pm at a small back lane were two Bangladeshi nationals, V3 and V4.[^39]
+
+40     Both V3 and V4 testified that they had met there for V3 to collect S$5,226 that V4 owed him. V3 added that he also had with him S$5,000 of his own savings that he kept in a black bag in his pocket. He intended to remit the entire sum to Bangladesh through a bank.[^40] Aside from the black Singtel bag in his hand, and a black bag in his pocket, V3 also carried another bag in which was placed his work permit, dormitory card and an island access pass. Both victims testified that V4 had handed to V3 a sum of S$5,250 in cash, but before V3 could return V4 his change, the three accused persons had approached them.
+
+41     V3 said that the three accused persons “surrounded” them, claimed to be from CID and accused the victims of doing illegal business. Specifically, V3 said that B1 said in English, “_I CID. You, illegal businessman. Come_”.[^41] V3 also recalled that one of the accused persons said that they had been following the victims for about an hour. One of them then held V3 by the right hand and brought him to the car. V3 explained that he had followed them into the car because he thought they were from the police.[^42] He also thought that they would be driven to a police station as the three accused persons said they were from the CID. V3 said that none of the accused persons spoke to him in the car, but he was not sure if they had spoken to V4.
+
+42     As for V4, he testified that the three accused persons came while V3 was counting the money that V4 had passed to him. He recounted that they had accused them of doing illegal business, and told them that they had been observing the victims from afar, although he could not recall which of the accused persons had said this.[^43] One of the accused persons claimed to be from Western Union (the moneychanger). V4 said that V3 and he were then told to get into a black car, and that there would be a Bengali Officer who would speak to them.
+
+43     One of the accused persons sat next to him in the car. V4 said that B4 spoke to him during the car ride, and reiterated that he was a Western Union officer, and that the other two accused persons were CID officers (which V4 understood to mean police officers).
+
+44     A short while later, they were brought to the Office. There was another Indian (B2) and two Bangladeshi men (V1 and V2) in the Office when they arrived. When V3 and V4 entered the Office, V1 and V2 were brought out. V4 said that he heard one of the Indian men said that they were bringing V1 and V2 to the police station and V3 and V4 had to sit down and wait.[^44]
+
+45     Subsequently, in the Office, V3 and V4 were told by one of the accused persons in English to sit down and put whatever they had on the table. V3 put the Singtel bag containing the $5,250. B1 then took from V3’s pocket the small black bag, as well as his work permit and other cards, as well as 2 mobile phones (the Karbonn mobile phone and a Samsung phone), and put all these items in a drawer under the table. V3 allowed him to take these items because “(t)hey said they are from CID”.[^45]V3 said that he would not have followed what the accused persons said if he had known that they were not police officers.[^46]
+
+46     V4 also put his money ($1,200), his wallet (containing his work permit, pass to the worksite, the visitor’s card to the worksite and some money), and two mobile phones (a Nokia and a Samsung phone) on the table. V4 said that he followed the instructions to put the things on the table because they said that they were CID Officers, and V4 thought that they might check his work permit. V4 testified that he believed that B4 was from Western Union, and the other accused persons were CID officers. V4 said that he would not have put his belongings on the table if he had known that B1, B2 and B3 were not police officers.[^47]
+
+47     V3 and V4 were subsequently told to leave the Office. V3 asked for the money, and was told that they could not return the money. Instead, his two phones, the bag which contained his work permit and other cards, and two empty bags which had earlier contained the money (S$5,000 and S$5,250) were returned to him. V3 did not see who had removed the money from the two bags, although he confirmed that when they were returned to him, the bags were empty. He was also told to leave.[^48]
+
+48     As for V4, he testified that after he had handed over his belongings, the accused persons took a photograph of his work permit. There was also a call on his mobile phone, but one of the accused persons switched off the phone. They refused to return the phone to V4.[^49]
+
+49     The accused persons then called Jahangir into the Office, and he entered the Office twice when V3 and V4 were present. The first time Jahangir came in, they told him that they had taken $10,250 from V3 and were not returning the money. Then Jahangir said that they were not good people, and said that they must leave the Office as soon as possible. He also said that “And if you are alive, you and a---you can earn money in Singapore”.[^50] The accused persons also told V3 and V4 to leave the Office but they did not do so. Then one of the accused persons said in English that they did not want to see V3 and V4 in the area anymore. B2 then pushed V3 out of the Office. However, after this, V3 was gestured by one of the accused persons to return and he was asked to hand both his phones to them. Believing that the accused persons were from CID, V3 complied.[^51]Jahangir then returned to the Office a second time, and V3 told him that the accused persons had taken his mobile phones as well. Jahangir then told him to leave.
+
+50     V4 testified that Jahangir said that the accused persons were “_bad people”_ and advised him to take what they were giving him and leave. After Jahangir left, the accused persons returned V4’s work permit and 2 mobile phones to him, but did not return V4’s money. Jahangir came back to the room, and repeated that the accused persons were not good people and would not return the money. Jahangir also told V4 that if they persisted in asking, the accused persons would assault them so it was better to take whatever they gave and leave the Office as he could earn more money. V4 then requested for some money because they did not have any money with them. One of the accused persons then gave him about $25 to $30.V4 said that subsequently, he was slapped in the Office when he tried to ask for more money. The $1,200 that they took from him was not returned.[^52]
+
+51     In his police statement (P14) that was admitted into evidence[^53], Jahangir informed the Police that one of the victims had told him that B1 had taken S$10,000 from him. Jahangir had told B1 to return the money, but B1 did not respond to him.[^54]
+
+52     From the CCTV footage, it could be seen that V3 left the Office at about 9.40 pm. He had only two empty bags which had earlier contained the S$10,250, and also a bag with his permits. His 2 mobile phones and the $10,250 cash were not returned to him. V4 left shortly after with Jahangir.
+
+### (d)   V1 and V2 were brought to the minimart in the interim
+
+53     In the meantime, V1 and V2 were led out of the Office after V3 and V4 were brought in. V1 testified that both he and V2 were brought to a toilet in a nearby shop and made to stand there.[^55] When asked why they did not leave, V2 explained that B4 had “detained” them and did not give them permission to leave. B4 had also brought an additional chair and told the victims to sit there.[^56] V1 also testified that he did not leave because one of the accused persons was standing there.[^57]
+
+54     Eventually, V1 said that he was returned his work permit, but none of his other items and they were told to leave the shop. He and V2 continued to wait for V3 and V4 to come out.[^58] When they came out, V2 asked them what had happened and V3 said that the accused persons had taken $10,000 from him, while V4 said they had taken about $1,500 from him although V2 could not remember exactly what V$ said.[^59] V1, in turn, told them that they had taken $6,625 and 3 mobile phones away from him. At that time, V1 did not know that Rochor Police Station was a short walk away.
+
+55     V1 then entered the Office around 22:07:01 to ask for his bus card and some money but did not ask for the return of his mobile phone. He was given back his bus card and also $50.[^60] V1 left the Office about a minute later. V2 confirmed that their work permit and some cards were returned, but not the cash and hand phones, although V1 was given $50.[^61]
+
+56     V4 and V3 also went to a nearby shop along the same corridor and asked the person there if the place they had been taken to was a police office, and also said that their money had been taken. The person at the shop, who was a Bangladeshi, said that he did not know, and told them that it was better to call the police.
+
+### (e)   B3 was punched when he tried to recover his money
+
+57     At around 10.16pm, B1 turned off the lights in the Office and locked up. He and B3 then walked off. V3 said that he saw B1 and B3 leave the Office and cross the road. V3 then followed them, specifically B1 who was carrying the money.[^62] When B1 was near a car, V3 went up to him and asked him to return the money. However, B1 said that he did not know V3. V3 then held up his hand and requested B1 to return his money but was punched above his right cheek near the left ear. When V3 repeated his request, he was punched again in the same area, although V3 was not sure whether this was done by B1 or B3. V3 then started crying. He also held B1 with both his hands. V3 was then punched in his stomach, slightly to the left of his belly button. Again, V3 was not sure whether it was B1 or B3 who did this. V3 said that all three punches were painful. He was also bleeding from the right side of his face and there was a bruise on his stomach.[^63]
+
+58     The Prosecution produced an independent eye-witness, Mr Kuah, a minibus driver, who essentially said that he witnessed B3 punching V3 on his face and stomach. I will discuss his evidence further when assessing whether the VCH charge against B3.
+
+### (f)   B1 tried to drive away but was stopped by V3 and others
+
+59     V3 said that after he was punched, B1 managed to get into the parked car, and wanted to drive out onto the road. V3 then stood in front of the car and tried to stop him. V3 also shouted for help in English saying “Help. Help. This man ‘alibaba’ my 10,000 all take already.”V3 said that “’Alibaba"’ means thief. So I can make people understand that.”[^64] V3’s actions were seen by Mr Kuah.
+
+60     V2 also testified that he saw the V3 holding onto the door handle. B1 tried to move the car so that V3 would fall off. He then tried to reverse his car out to the main road but was blocked by oncoming traffic. V3 also laid down on the road in front of the car.
+
+61     At that time, V3 said that a crowd had gathered and tried to block the car with a rubbish bin. The commotion and the attempt by the crowd, including by V1, V2 and V4, to stop the car and use rubbish bins to block B1’s car from moving off, were also testified to by V1, V2 and V4 as well as Mr Kuah. [^65] The Police subsequently arrived at the scene.
+
+### (g)   Victims and eye witness do not know the accused persons; no money was returned
+
+62     V1 said that he does not know, nor has he met the accused persons before 30 April 2017. Similarly, V2, V3 and V4 have not met the accused persons or Jahangir before this incident, nor do they have no reasons to falsely implicate them. To date, none of the victims have had their money returned to them.
+
+63     As for the eye-witness, Mr Kuah, he confirmed that he does not know V3 or any of the accused persons, nor has he spoken to any of them. He also stated that he has no reason to lie in court to implicate the accused persons. He does not understand Bengali, nor did he know the origin of the argument between the two Indian men and V3.
+
+64     Finally, both Naba and Raju testified that on the day after the incident, they were informed by V1 that he had his money taken away by Indian men.
+
+## (5)   An outline of the Defence’s Case
+
+65     At the end of the Prosecution’s case, as there was sufficient evidence to establish all the elements of the charges, the defence of each accused person was called. All of them elected to testify.
+
+66     In summary, the Defence’s case was that:[^66]
+
+> (a)     The victims (primarily V1 and V3) were involved in peddling fake security certificates, and after they were caught red-handed by B1, B3 and B4, they voluntarily agreed to follow the accused persons to the Office, with V2 (who was V1’s relative), and V4 (who was V3’s friend) tagging along. At no point were the victims labouring under the impression that the accused persons were police or CID Officers, nor did the accused persons represent themselves to be so.
+
+> (b)     At the Office, B1 discovered that the victims were peddling fake safety certificates, although not those belonging to A Star. They then pleaded with B1 not to send them to the police station. Eventually, the victims gave their phones to B1 so that B1 would not to send them to the police. B1 had also told them to come back the following day to collect their reformatted phones.
+
+67     The Defence also argued that:[^67]
+
+> (a)     The accused persons had been falsely implicated by the victims, and that “(f)rom investigations to trial, various spurious allegations were made by the victims against the accused persons.” The Defence submitted that these allegations could not be believed, as they were contradictory and uncorroborated by independent evidence.
+
+> (b)     Further, the victims, being relatives (in the case of V1 and V2), or good friends (in the case of V3 and V4) “…clearly had an intense dislike for the accused persons”, and that “…the Defence has proven (at the very least) a reasonable possibility of collusion among these victims.”. In addition, “…the victims could not, on any measure, have been credible or “unusually convincing””.
+
+> (c)     In addition, counsel submitted that “…the Defence has led credible evidence to show (at the very least) a reasonable possibility that: (a) the victims were selling fake certificates, (b) their phones were taken away from them pursuant to a mutual agreement between them and B1, and (c) the monies found on B1 were monies from the accused persons’ cash-intensive businesses.”
+
+68     I have outlined the Defence’s case below.
+
+### (a)   Events prior to the accused persons’ encounter with the victims
+
+69     B1 was the owner of A Star. B2 is B1’s brother, while B3 and B4 are his cousins.
+
+70     A Star is in the business of conducting safety courses accredited by the Ministry of Manpower. The company carried out registrations and course fee collections at 129 Desker Road. B1 stated that since 2015, there were people peddling fake safety certificates from A Star. This had adversely affected A Star’s business. At the time of the incident in 2017, their family also ran a minimart at 125 Desker Road.
+
+71     B1 apparently came to know of a Bangladeshi man called Sufon who was involved in the matter of the fake certificates. On or around 9 April 2017, B1 had devised a plan to entrap Sufon with the help (amongst others) of B2, B3 and B4. A police report was also made against Sufon, and he was subsequently remanded by the police.
+
+72     B1 claimed that on 30 April 2017, all four accused persons were heading for dinner at the Desker Road area, when B1 decided to stop for a smoke while the rest proceeded to the restaurant. B1 claimed that while he was smoking, a Bangladeshi stranger, whom he had never seen before, came up to him and asked B1 to change three S$1000 notes for $50 notes. B1, who apparently happened to have this change on him at that time, proceeded to change money with the stranger because he “thought it was better” to carry three $1,000 notes.[^68]B1, however, did not know how that Bangladeshi worker came to know that he had small change to exchange for three $1,000 notes. B1 stated that it was not normal for him to change notes for someone outside the Office.[^69]
+
+73     This same Bangladeshi stranger then said that he recognised B1 as the boss of A Star and that he had seen two men selling fake A Star certificates. B1 said that it was totally normal for a guy to come up for him and talk to him like that in Desker Road, as he was apparently well known in Desker Road as the boss of A Star.[^70] However, B1 admitted that this was the first time he was getting a tip off from a random stranger.[^71]
+
+74     B1 said that the Bangladeshi stranger also apparently showed him photographs of the two culprits on his phone and said that one of them was at one of the gates at Mustafa Centre, and the other at the back lane of New Park Hotel.[^72] B1 did not question the Bangladeshi stranger about where and when he took the photographs of these culprits, nor did he ask for a copy of the photographs. Instead, he looked at the photographs for a few seconds, and memorised them, but he was sure that they showed V1 and V3. [^73] In addition, B1 did not ask for the exact locations of these two persons who were allegedly selling the fake certificates, because he said that he felt it would be easy to identify them. Further, he did not ask the Bangladeshi man for evidence that the two men were selling fake certificates. He just took the stranger’s word for it.[^74] The Bangladeshi stranger then left.
+
+### (b)   V1 and V2 were brought to the Office by B1, B3 and B4
+
+75     At that point, B1 did not go to look for the persons allegedly selling the fake certificates. Instead, he joined the other three accused persons for dinner and stayed there for 10 minutes. During this time, B1 informed B3 and B4 about the matter as they knew about Sufon’s case and had helped him before. B2 did not participate in the conversation.
+
+76     After dinner, B2 went back to the Office, while B1 went with B3 and B4 to Mustafa Gate 5, where the Bangladeshi stranger said that one of the men was. B1 said that he brought B3 and B4 along because for the earlier case involving Sufon, it was a bit “rough and tough”.
+
+77     At that location, B1 noticed a Bangladeshi person giving out A4-sized envelopes to a group of about twenty Bangladeshis. B1 claimed that although he only saw this man from the back, he guessed that this was the person selling certificates because the latter was giving out A4-sized envelopes to everyone. B1 then told B3 and B4 to stay put there while he went to get his car that was parked at Syed Alwi Road, which was about 1 or 2 minutes away.
+
+78     B1 then parked his car and approached the man who was giving out the envelopes. B1 tapped him on his shoulder and spoke to him in English. B1 said that he recognised that this man was V1. B1 said that he identified himself as A Star’s boss and asked if V1 had any of his certificates. When the man could not reply, B1 invited him to go and speak at his Office. B1 said that V1 had about 50 envelopes with him at that time, although B1 did not actually open the envelopes. B1 said that he did not want to discuss the matter with V1 at that location because there were many people around and it was not conducive to discuss there.[^75] He also said that he did not see V1 holding onto any money there.
+
+79     V1 did not try to run away but he agreed to follow B1. V1’s friend, V2, who was beside him, also apparently tagged along to the car. B1 then drove both of them, together with B3 and B4, on a 2 minutes’ drive to the Office.[^76]B1, B3 and B4 all denied that they had said that that they were police officers. They also said that they did not do anything to create the impression that they were police officers.
+
+80     According to B4, neither he nor B3 spoke to the two victims, nor did he did not tell V1 and V2 that they were doing “illegal dollar business” and that he was there to take them to the police station. B4 also denied holding V2 by the arm and bringing him to B1’s car.[^77]
+
+81     B1 told B4 to bring the Bangladeshis to the Office and the latter did so. B4 alighted from the car and went to the Office, knocked on the door and B2 opened it. B4 agreed that both B3 and he were following the two victims closely behind while they entered the Office. He said that he had his hand on V1’s shoulder in a “friendly manner” even though V1 was a complete stranger to him.[^78] As for B3, he agreed that as they entered the Office, B4 was bringing V1, while he (B3) had his arm over V2.[^79]
+
+82     At the Office, B1 said that he asked V1 and V2 whether they were selling fake certificates. According to B1, while they initially denied this, they later admitted to this. B1 also said that he checked their bags and found that they had a lot of other training centre certificates with them, although they didn’t have any of A Star’s certificates. According to B1, V1 admitted that he was actually working for Sufon for extra cash, and that he was not the mastermind, and asked B1 not to report him to the police.[^80]
+
+83     B1 claimed that that he then asked them to give him their phones so that he could delete their contacts, since without the phones, they could not operate anymore. He allegedly told them that he would delete or reformat the phone and then return the phones to them when they returned to his Office the following day. B1 later clarified that he only spoke to V1 but not to V2, as V1 had said that V2 was not involved and only V1 was holding the certificates with him in a bag. B1 said that he only asked for V1’s phone, and that V1 had handed only two “very normal phones” to B1,[^81] although B1 subsequently said that he could not remember whether he actually took two phones from V1 or V3.
+
+84     B1 further said that no one had taken V2’s phone from him. When he was later confronted with the fact that V2’s phone was found in his car, B1 claimed that he did not know whether the phone V1 passed to him was from V2 or himself. Aside from that, he had no explanation as to how V2’s phone ended up in his car.
+
+85     B1 said that he had no intention of permanently depriving them of their phones, and claimed that they gave him their phones willingly and said that they would return for their phones. In addition, they allegedly said that they also had their own personal phones. [^82]
+
+86     B1 further said that he intended to do a “blanket delete” of all the contacts in the phone, without first clarifying which of V1’s contacts were linked to the sale of fake certificates. He also claimed that he could not do the deletion there and then, as he did not have time to do so, and hence needed them to return the following day for their phones. On further questioning, B1 conceded that he could have deleted the contacts there and then, and that to do this “...would have been easy”, but that he did not do so.[^83]
+
+87     B1 also admitted that he did not know, and he did not ask, if V1 had written his business contacts elsewhere other than in his phone. B1 said that he did not bring V1 to the Police as they pleaded with him and agreed to surrender their phones. B1 said that he did not bring V1 to the Police – as a way of stopping his selling of fake certificates – even though he had done this previously to stop someone else (Hossan) in 2017 when the latter also sold fake certificates, and that this had stopped the latter’s illegal operations. [^84] B1 claimed that he did not do this with V1 (and later also V3) because they pleaded with him and agreed to surrender their phones, and that he was in a “compromise” mood.
+
+88     B1 also insisted that neither he, nor the other accused persons, had taken money from V1 or V2. B1 said that he then told V1 and V2 to wait in the Office as B1 had information that another person was selling fake certificates behind New Park hotel. B1 said that he wanted to know if V1 and V2, and this other person, knew one another.
+
+89     As for B3 and B4, both of them stated that they were not involved in the conversation that B1 had with the victims although they claimed to have heard mention of fake certificates. B3 further said that he sat at another table playing games on his phone, while B4 said that he was charging his mobile phone, logging into Facebook and also went in and out of the Office.
+
+### (c)   B1, B3 and B4 brought V3 and V4 to the Office
+
+90     B1 then left the Office with B3 and B4 in B1’s car, while V1 and V2 remained with B2. B1, B3 and B4 proceeded to the back lane of New Park Hotel, where B1 said that they saw V3 and V4 giving out A4-sized white envelopes to the foreign workers. There was a huge crowd around them of about 200 people. B1 stopped his car, got down and approached V3 who was allegedly handing out the envelopes. B3 and B4 followed behind B1.
+
+91     B1 initially said that he recognised V3 from the photograph that the Bangladeshi stranger had shown him earlier that night. However, subsequently, during cross-examination, B1 said that he identified V3 because he was giving out A4-sized white envelopes.[^85]
+
+92     B1 also said that he then introduced himself as the boss of A Star, and invited V3 to follow him to the Office. According to B1, V3 did not try to run away but agreed to follow him. V3 also allegedly asked V4 to follow and B1 said that he did not stop V4 from doing so.
+
+93     B1 confirmed that, as with V1 and V2, both V3 and V4 were strangers to him, and that he had no evidence that they had any grudge against him.[^86]
+
+94     As for B3 and B4, both of them admitted to following B1 when he approached V3 and V4. B3 said that aside from hearing B1 identify himself as the boss of A Star, he did not hear anything else that was said as it was very crowded, although he denied that B1 had identified himself to V3 as being from CID, or had accused V3 of being an illegal businessman. Both B3 and B4 said that neither of them had spoken to V3 or V4.
+
+95     Subsequently, B1 said that when V3 and V4 were in the car with B1, B3 and B4, B1 had asked V3 if he had any of A Star’s certificates but V3 denied this. When they reached the Office, B3 had his arm on V3’s shoulder when bringing the latter in. He claimed that it was his “mannerism” to do this even though he had not met V3 before.
+
+96     B1 said that when V3 and V4 arrived at the Office, after ascertaining that V1 and V2 did not know V3 and V4 and vice versa, B1 had told V1 and V2 that they could leave. B4 said that he put his hand on the shoulders of one of them and said, in a friendly manner, that the person had come from Dhaka City and given “a lot of problems”.
+
+97     B4 said that he then went to the minimart to get a soft drink and also went for a smoke outside the minimart, while one of the victims (V1 or V2) went to the toilet and the other went to the counter. [^87]
+
+98     B1 further said that while V3 and V4 were in the Office, V3 opened his bag and showed the certificates contained in them to B1. There were no certificates from A Star but there were certificates from other training centres. According to B1, V3 then pleaded with B1 not to go to the police, and also voluntarily told B1 that he could take his phone that he used to contact the clients and agents who printed the certificates.[^88] This was unlike the earlier situation with V1, where it was B1 who had suggested taking the phone from V1.
+
+99     B1 said that as with V1, he then took V3’s phone and told him that he could collect the phone from him the following day. B1 also testified that he only spoke to V3 but not to V4, as the latter did not have any certificates. He also denied taking V4’s phone. B1 also said that he had intended to factory format the phones taken from V1 and V3, delete all their contacts, and return the phones to them when they came to his Office the following day. B1 also mentioned that at some point, Jahangir came to the Office to ask for his advance salary, and that he spoke to V4 in Bengali while he was there.
+
+100    As for B3, he said that he was not involved in the conversation between B1 and V3 in the Office but that he was just walking around and moving in and out of the Office.[^89] B3 said that after B1 had spoken to V3, they left and B2 came and passed money to B1. B2 then left and so did B4. Only B1 and B3 stayed in the Office and talked about dogs.
+
+101    B4 stated that when he returned to the Office after his smoke, he saw V3 and V4 talking to B1. B4 focused on his phone and did not hear their conversation. He said that there were a lot of files and papers on the table but no money. B4 eventually left for home.[^90]
+
+### (d)   Events after V3 and V4 left the Office
+
+102    After V3 and V4 left, at about 10 pm, B1 said that he was counting course fees from agents of workers, which he wanted to deposit in the company’s OCBC account that night. As he was counting the money, B2 also came to pass him $7,000, which were from the weekly sales in the minimart, that he wanted B1 to deposit in the bank. At that point, V1 returned and asked for his phone, and saw B2 passing the money to B1.
+
+103    B1 then asked V1 to return the following day and V1 left. B1 denied that V1 returned because he had no money and no bus card, as B1 had taken them, and asked for their return.
+
+104    After B1 had finished counting the money, he put them in his black pouch. At that time, only B3 was still with him in the Office. They then locked up the Office and B3 left first. When B1 left the Office, V3 appeared from behind a pillar. B1 said that he told V3 that he would give V3 his phone the following day, but V3 started grabbing B1’s pouch and pulling it. B1 said that at that point, he had more than $12,000 and the victims’ phones in his black pouch. B1 then called out for B3, and the latter came over and spoke loudly to V3 to tell him to stop what he was doing. B1 said that V3 then left without saying why he wanted to grab the pouch. B1 denied that he had punched V3 on the right side of his face, and also claimed that B3 did not punch V3.[^91]
+
+105    As for B3, he admitted that he did push V3 with his two fists, causing V3 to move back two steps. He said that when he questioned V3 as to what he was doing, V3 allegedly just turned and walked away. Subsequently, B3 headed for home. [^92]
+
+106    As for B1, he then walked to his car. When he started to drive, V1 came in front of his car, and caused B1 to stop his car to prevent running V1 over.[^93] B1 claimed that at that point, more that 20 or 30 Bangladeshi workers charged towards his car. V4 also joined in and tried to break his side view mirror.[^94] B1 said thatV1 then jumped onto the bonnet of his car, and B1 reversed his car, causing V1 to jump off the bonnet. However, another victim, V3, continued to hang onto the roof rack of B1’s car.[^95]
+
+107    As B1 reversed his car, it hit B2’s car when B2 turned his car in from Jalan Besar to Desker Road. At that point, B1 saw a CISCO officer. He then wound down his window and told him to call the Police. B1 said that the mob of people subsequently cleared while the four victims remained there[^96]. After B1 got out of his car, he saw V1 lying on the road in front of his car[^97]. Subsequently, police officers placed B1 under arrest.
+
+### (e)   Denials of the accused persons
+
+108    In essence, all three accused persons denied taking money from the victims as alleged. B1 and B3 also denied punching V3. B1 said that while he had not reported V1 or V3 to the police, he claimed that in retrospect, he should have done so.[^98]
+
+109    B1 said that he did not retain any of the fake certificates that he claimed to have found on V1 and V3. In addition, B1 testified that his discussions with V1 and V3 were friendly, and that the victims had voluntarily surrendered their phones for him to delete everything on them. There was thus no need for them to have approached him outside the Office. He admitted that it was “unexpected” of them to have jumped on and to hung onto the side of his car, and that what happened subsequently was thus “illogical”. He denied that they had done this because he had taken their phones and their money.[^99]
+
+110    B1 also said that Jahangir was a construction worker employed by Dnet Contract Services and that B1 had terminated his services two or three months before he was to testify in court. [^100] Prior to that, Jahangir had worked for B1 for many years, and B1 had no problems with him. B1 confirmed that on the day of the incident, Jahangir had walked into the Office four times. The first two times - when V1 and V2 were present - was ostensibly to ask B1 for $100 as advance salary. The last two times Jahangir did so – when V3 and V4 were in the Office – was to collect the $100 on the third occasion, and for an unknown reason on the last occasion. When asked about the allegation that Jahangir had made in his statement (P14) that B1 had asked him to speak to the victims, and also about V3 telling Jahangir that B1 had taken $10,000 in cash from him, B1 claimed that Jahangir had lied about these matters in his statement.[^101]
+
+## (6)   Court’s findings on the cheating charges
+
+111    As stated earlier, I convicted B1, B3 and B4 on their cheating charges and acquitted B2 of his charges. This was after considering the evidence and submissions of the parties. As no appeal has been filed against B2’s acquittal, I will not dwell too much on the evidence involving B2, although for completeness and to illustrate the major differences between the evidence implicating B1, B3 and B4, and the evidence put up against B2, I will set out some brief comments concerning the case against B2 at a later part of this judgment. This will be done after I have explained my reasons for finding B1, B3 and B4 guilty on their charges.
+
+### (a)   The Prosecution successfully proved the cheating charges against B1, B3 and B4
+
+#### (i)   Compelling evidence against B1, B3 and B4 of a conspiracy to cheat
+
+112    I agreed with the Prosecution that there was ample evidence of a conspiracy amongst B1, B3 and B4 to cheat the four victims. This was largely established from the evidence of B1, B3 and B4 acting in concert, as well as from admissions that they had made.
+
+> (a)     First, it was not disputed that B1, B3 and B4 had engaged in discussions prior to confronting the victims. While there was a dispute over what exactly was the nature of their discussions, yet even by the Defence’s own account, the discussions purportedly concerned actions that these accused persons intended to take against different individuals at Mustafa, and at the back lane of New Park Hotel, that night.
+
+> (b)     Following these discussions, B1, B3 and B4 acted together on separate occasions to approach the two pairs of victims; they approached V1 and V2 at Mustafa Gate 5 first, and then V3 and V4 at the back lane of New Park Hotel later that same night. On both occasions, the modus operandi of the accused persons was broadly the same. B1 would essentially be the one who took the lead and spoke to the victims, while B3 and B4 would be together with him to provide support.
+
+> (c)     Upon being approached by the accused persons who represented that they were from the Police or the CID, the two pairs of victims were told to follow the accused persons, and were then brought to B1’s car. There, each pair of victims would be driven by B1 in his car while B3 and B4 would sit with them in the car.
+
+> (d)     On each occasion, B1 would drive the victims to the Office, following which B3 and B4 would escort them into the Office, physically holding them in some instances. In the meantime, B1 would park the car before re-joining them.
+
+> (e)     Thereafter, B1 again took the lead to speak to the two pairs of victims on each occasion, and asked them to hand over their belongings (including money and hand phones) in the Office, while B3 and B4 continued to stay with B1 and the victims in the Office. Unlike B2 who was apparently doing paperwork in the Office, neither B3 nor B4 had any reason to be there, except apparently to provide support to B1.
+
+> (f)     Further, after V3 and V4 were brought to the Office, V1 and V2 were led to the minimart where B4 apparently watched over them, while B1 and B3 stayed in the Office to deal with the other 2 victims.
+
+> (g)     From the evidence presented from the victims and the accused persons themselves, including evidence set out in the CCTV footages, it was clear that the actions of B1, B3 and B4, were well co-ordinated and smoothly executed, and resulted in over $18,000 being transferred by the victims to the accused persons.
+
+113    I also accepted that in the course of the accused persons’ dealings with the four victims, they were falsely told by the accused persons, and expressly deceived by them, into believing that the accused persons were police officers or from the CID:
+
+> (a)     For the cheating charges involving V1 and V2:
+
+>> (i)       At Mustafa Gate 5, B1 had said to V1 in English, “I, police. Go police station.” V1 was then held by the accused persons and brought to the car. At the same location, B4 held V2 and told him in English that he was going to bring him to the police station because he was “doing illegal money business” and was “cheating Singapore government”.
+
+>> (ii)       Back at the Office, B1 had said to V2 in English, “I police. All everything put on the table.”
+
+> (b)     For the cheating charges involving V3 and V4:
+
+>> (i)       At the back lane, B1 had told V3 in English, “I CID. You, illegal businessman. Come”. V3 was then held and brought to the car;
+
+>> (ii)       At the same location, V4 was alleged to be doing illegal business by one of the accused persons. In the car on the way to the Office, B4 had told V4 that B1 and B3 were CID Officers.
+
+> (c)     In all cases, B3 who was present with B1 and B4 when the deceptions were made, did nothing to dispel the falsehoods, but continued to present a united front with his co-accused persons to the victims.
+
+114    Finally, as a result of the deception by the accused persons, and believing that the accused persons were from the Police or the CID, the four victims stated that they had handed over their property, including the monies stated in the charges and their mobile phones. The victims also made it clear that they would not have done so had they known the accused persons were actually not police officers or CID personnel.
+
+#### (ii)   The victims’ accounts were internally consistent and also corroborated by one another on material matters as well as by the external evidence
+
+115    I agreed with the Prosecution that the victims were internally consistent in their evidence, and they also corroborated one another on material matters. This was despite intense cross-examination and challenges on their accounts from the Defence, about the events that had taken place more than a year before the trial. I reproduce some of the more major pieces of corroborative evidence, broadly in line with what was highlighted by the Prosecution. [^102]
+
+116    As regards the cheating charges involving V1 and V2, both victims stated that:
+
+> (a)     They were at the specified locations at Mustafa when B1, B3 and B4 approached them in a group, and deceived them about being from the police;
+
+> (b)     V1 was held when he was brought to the car, and they were then driven back to the Office, with two accused persons sitting at the front of the car, and another accused person sitting at the back of the car with them;
+
+> (c)     In the Office, they compiled when told to place their belongings on the table;
+
+> (d)     One of the accused persons mentioned that he had a friend who was a police officer, and he would hand them over to that officer who would send them to jail. V2 was able to recall that it was B3 who had told B1 to call his “police friend” and hand the two of them over to him to be sent to jail;
+
+> (e)     They were induced into delivering their money, phone and/or other items in the Office, and specifically delivered the properties set out in the cheating charges;
+
+> (f)     Jahangir had entered the Office twice while they were inside, and they gave similar accounts of their exchanges with Jahangir. This aspect of their evidence was consistent with the CCTV footage which showed the number of times that Jahangir had entered the Office in their presence; and
+
+> (g)     They were subsequently led to a nearby shop where they stayed for some time.
+
+117    As regards the cheating charges for V3 and V4, both victims stated the following:
+
+> (a)     One of the three accused persons who approached them at the back lane accused them of doing illegal business. One of them also stated that that they had been observing the victims prior to approaching them;
+
+> (b)     They were brought to B1’s car and the three accused persons sat with them in the car and they all went to the Office;
+
+> (c)     They were told that the accused persons were from the CID and told to place their belongings on the table in the Office, and they complied;
+
+> (d)     Jahangir had entered the Office twice while they were inside. This evidence of Jahangir’s entry when V3 and V4 were present, was also seen in the CCTV footage;
+
+> (e)     As with V1 and V2’s accounts, the various times that V3 and V4 entered and exited the Office were also corroborated by the CCTV footage; and
+
+> (f)     Finally, both victims testified that after exiting the Office, they had both gone to a nearby minimart to enquire with a Bangladeshi shopkeeper if the Office was in fact a police office, and were advised by him to call the police.
+
+118    Subsequently, before police officers arrived, the victims, in their testimonies, painted a very similar picture of the scene.
+
+> (a)     V3 was seen crying and exclaiming that his S$10,000 had been taken from him, and a crowd of passers-by who had heard V3’s cries for help, stopped and tried to prevent B1 from driving off in his car.
+
+> (b)     Strikingly, the victims also mentioned that the crowd that had gathered, attempted to stop B1’s car by putting rubbish bins on the road in front of the car, and that B1 had tried to drive off by reversing his car but did not succeed in doing so.
+
+119    In addition, the victims consistently rejected the Defence’s account that:
+
+> (a)     They were asked to, and agreed to, leave their phones behind so that the contacts and contents of their phones could be deleted, and that they were told to come back on the following day to recover their phones; and
+
+> (b)     That they were involved in the selling of fake safety certificates, or that fake safety certificates were actually recovered from them on 30 April 2017.
+
+120    The Defence, however, submitted that there were various discrepancies in the victims’ evidence, which made them unreliable witnesses.
+
+121    In this respect, the law dealing with discrepancies and inconsistencies in evidence is trite. In particular, in _Osman Bin Din v Public Prosecutor_ <span class="citation">\[1995\] 2 SLR 129</span>, the Court of Appeal at \[39\] had cited with approval the following reminder of Abdul Hamid J in _Chean Siong Guan v PP_ <span class="citation">\[1969\] 2 MLJ 63</span>:
+
+> “Discrepancies may, in my view, be found in any case for the simple reason that no two persons can describe the same thing in exactly the same way. **Sometimes what may appear to be discrepancies are in reality different ways of describing the same thing, or it may happen that the witnesses who are describing the same thing might have seen it in different ways and at different times and that is how discrepancies are likely to arise. These discrepancies may either be minor or serious discrepancies**. Absolute truth is I think beyond human perception and conflicting versions of an incident, even by honest and disinterested witnesses, is a common experience. **In weighing the testimony of witnesses, human fallibility in observation, retention and recollection are often recognised by the court**…”
+
+\[emphasis added\]
+
+122    Similarly, in _Public Prosecutor v Datuk Haji Harun bin Haji Idris (No 2)_ <span class="citation">\[1977\] 1 MLJ 15</span>, Raja Azlan Shah FJ (as he then was) stated:
+
+> “I shall be almost inclined to think that **if there are no discrepancies, it might be suggested that they have concocted their accounts of what had happened or what had been said because their versions are too consistent. The question is whether the existence of certain discrepancies is sufficient to destroy their credibility...”**
+
+\[emphasis added\]
+
+123    Further in _Ng Kwee Leong v PP_ <span class="citation">\[1998\] 3 SLR(R) 281</span> at \[13\], Yong Pung How CJ (as the then was) had this to say:
+
+> “Counsel for the appellant sought to make a great deal out of these discrepancies. In the appeal to this court, the trial judge was criticised for having accepted the evidence of the prosecution witnesses despite the presence of these discrepancies. **The short answer to this was that the discrepancies relied on by the appellant were all immaterial discrepancies, that is, they had no direct bearing on the facts in issue. In other words, they had nothing to do with the question whether it was the appellant who committed the offence.** In my judgment, the trial judge was perfectly entitled to find that these discrepancies did not detract from the general veracity of the prosecution witnesses on the material issues and to accept the evidence of the prosecution witnesses on those issues.”
+
+\[emphasis added\]
+
+124    Finally, in _Jagatheesan s/o Krishnasamy v PP_ <span class="citation">\[2006\] 4 SLR(R) 45</span> at \[82\], V K Rajah J (as he then was) stated that:
+
+> “It is trite law that **minor discrepancies in a witness’s testimony should not be held against the witness in assessing his credibility. This is because human fallibility in observation, retention and recollection is both common and understandable**: Chean Siong Guat v PP <span class="citation">\[1969\] 2 MLJ 63</span> (“Chean Siong Guat”) at 63–64; Ng Kwee Leong v PP <span class="citation">\[1998\] 3 SLR(R) 281</span> at \[17\]. Inconsistencies in a witness’s statement may also be the result of different interpretations of the same event: Chean Siong Guat… **But a court is perfectly entitled, notwithstanding minor inconsistencies, to hold that a particular witness is in fact a witness of truth and to accept the other aspects of his testimony which are untainted by discrepancies**_.”_
+
+\[emphasis added\]
+
+125    In line with the above authorities, and having considered the submissions of the Prosecution and the Defence, as well as having carefully evaluated the evidence of the victims, I was of the view that the (real or perceived) discrepancies highlighted by the Defence were essentially non-issues. For one, where actual discrepancies were identified, they were either minor in nature or related to immaterial matters. Further, in some cases, errors were also explained by the relevant witness, or were explainable as arising due to memory lapses with the passage of time, or in relation to how questions were asked, or as a result of differences in perception by different witnesses on such matters as different perceptions of timing.
+
+126    In this respect, I noted that V3 had explained that he misunderstood the question asked of him about where his monies were taken;[^103] that only V4 was questioned in relation to hearing the accused persons saying that the other victims would be brought to the police station;[^104] that B3’s alleged discrepancy about whether he was assaulted in the Office was not fully established;[^105] that only V1, but not V2, was asked about V1’s plea to B4 not to put him in jail;[^106] that the purported discrepancies pertaining to Jahangir could not be fully accounted for as Jahangir was not present to clarify aspects of his evidence etc.
+
+127    In any event, what really mattered was the reliability and believability of the victims’ evidence on material issues, which pertained to the elements of the charges. In this regard, for reasons set out in this judgment, I was satisfied that their evidence was consistent and convincing on the facts in issue.
+
+128    Separately, while the Defence also took issue with the fact that the money cheated from the victims was not recovered, which counsel argued cast doubt on the victims’ accounts, I noted that the Office was not searched immediately after the incident, nor was a search of the mini-mart conducted. It would be recalled that the mini-mart was only a short distance away from the Office, and the accused persons (and B2) had travelled to and fro from the Office, and the mini-mart during the date of the incident. Further, B3 and B4, who were the co-accused persons present when the money and phones were handed over, were not arrested until after 30 April 2017.
+
+#### (iii)   Other corroborative evidence
+
+129    In addition to internal consistency of their evidence, and the external corroboration by the victims of one another’s evidence, there was additional corroboration of their accounts by other witnesses and by other external evidence.
+
+130    First, V1’s account about handing over a sum of $6,625, consisting of money that he had obtained from several other witnesses, was corroborated by evidence from Raju, Naba and Abu Tahar, all of whom testified that they had handed over the respective amounts to V1, broadly for the reasons stated by V1.
+
+131    Next, the Prosecution also tendered a statement from Jahangir (P14), in which he revealed that during the time that he was in the Office, one of the victims (from the second pair of victims in the office) had informed him that B1 had taken S$10,000 from him. Jahangir had told B1 to return the money, but to no avail. I agreed with the Prosecution that Jahangir’s account in his statement should be given full weight since there was no way for Jahangir to have known about S$10,000 being taken from V3 if this had not been told to him by the latter. Further, as Jahangir’s statement was recorded on 5 May 2017, which was less than a week after the incident date, and as there was no reason for Jahangir to falsely implicate B1, his employer, especially as B1 himself had confirmed that Jahangir had worked for him for many years and they were on good terms with each other, there was no reason to disbelieve Jahangir’s account. Thus, this evidence from Jahangir on a material issue i.e. that B1 had taken $10,000 in cash from one of the victims, was clearly damning evidence against the Defence.
+
+132    In addition, the evidence of Mr Kuah, an independent eye-witness who had made the police report after seeing the assault on V3 by B3, also corroborated the account of the victims about they (and others) trying to stop B1 from leaving the scene after he had taken their money. I will discuss Mr Kuah’s evidence in greater detail when discussing the evidence on the VCH charge (see \[168\] – \[169\] below).
+
+133    Finally, Naba and Raju also testified that they were informed by V1, on the day after the incident, about having had his money taken away by the Indian men.
+
+#### (iv)   The victims have no reason to lie and were forthcoming in their accounts
+
+134    I also accepted the Prosecution’s submissions that the victims have no reason to lie so as to falsely implicate the accused persons. Neither had the Defence adduced evidence of any motive by them to do so.[^107] In this respect, in the recent case of _PP v Roger Yue Jr[^108]_ at \[49\], Aedit Abdullah J made it clear that “…as the Defence did not raise evidence of any motive on the part of the Victim to make false allegations against the Accused, the burden on the Prosecution to disprove such motive did not arise.”
+
+135    In the present case, as the Defence has similarly failed to adduce evidence as to why any of the victims (let alone all four of them) would make false allegations against the accused persons, aside from making essentially unsubstantiated claims that the victims had an “intense dislike” of the accused persons, and “obviously resented” them, there was similarly no burden on the Prosecution to disprove any alleged motive.
+
+136    In any event, I noted that the victims had stated that they do not know the accused persons or Jahangir, nor had they met them prior to 30 April 2017. In addition, being foreigners who were gainfully employed and working legitimately in Singapore, they had a lot to lose and essentially nothing to gain, by fabricating evidence and perjuring themselves in court by testifying as they did, if in fact their claims about being cheated were not true.
+
+137    I would also add that to suggest that all four of the victims – namely the pair of V1 and V2 who did not know the pair of V3 and V4 before 30 April 2017 - would come together and come up such an elaborate ploy to frame and make such serious allegations against the accused persons, and to have done all this within the short space of time between 10.07 pm to 10.15 pm (the alleged window of opportunity for ‘collusion’ as identified by the Defence),[^109] was a ludicrous claim. Further, for them to then rope in more people to create a public commotion and try to block B1 from escaping in his car, if it was all just a ploy, was something completely unbelievable. This was especially the case for V2 and V4, who were not even implicated by the accused persons in the supposed sale of the fake certificates. Notably, B1 also claimed that he did not even speak to V4, let alone take money from him.
+
+138    In addition, B1 had essentially conceded that the Defence’s version of account did not make sense. In this regard, B1 had initially claimed that his discussions with V1 and V3 were friendly, and that they had voluntarily surrendered their phones to him in exchange for him not reporting them to the police. If so, the victims would simply have left the premises and returned the following day to retrieve their phones, and there would not been any need for them to have approached B1 outside the Office, something which B1 himself acknowledged. B1 also agreed that (by his version of the story) it was also “unexpected” and “illogical” for the victims to have tried to prevent him from leaving the area in his car,[^110] and putting themselves in harm’s way in the process.
+
+139    Furthermore, as pointed out by the Prosecution, the victims have been on special pass and without employment for some time by the date of their court appearances. There was simply no conceivable reason for them to have remained in Singapore without employment or income just so as to falsely implicate the accused persons who were strangers to them.
+
+140    If anything, I found that the victims were not only forthcoming but actually relatively restrained in their evidence. Thus, in the case of V2, he was candid in saying that only a small sum of $40 was taken from him. As for V1 and V4, they even disclosed that they were returned small sums of money and other items when they approached the accused persons. The bulk of the money taken from them was, however, still retained. Further, none of the victims directly accused B2, who had not approached them at Mustafa or at the back lane, of directly representing himself or his co-accused persons to be from the Police or the CID.
+
+141    All in all, I found the victims to be forthcoming and entirely believable in their claims against B1, B3 and B4 on the cheating charges.
+
+#### (v)   The extreme reaction of the victims was strong corroboration for the charges
+
+142    In the present case, what was perhaps one of the strongest and most compelling piece of evidence against B1, B3 and B4, was the desperate response of the victims, in particular V1 and V3, after the accused persons had taken their phones and large sums of money from them. V1 and V3, were of course the victims who had lost the largest sums of money and the most number of phones to the accused persons: (a) S$6,625 and three mobile phones in the case of V1, and (b) S$10,250 and two mobile phones in the case of V3. Thus, it was no surprise that the victims who suffered the most i.e. V1 and V3, were also the ones who reacted in the most extreme and risky manner in trying to recover what was taken from them.
+
+143    First, as confirmed by V1 and V2, V3 was clearly distressed following his encounter with the accused persons in the Office. Thus, after he was deprived of his hard-earn money, he had approached B1 to try to get his money back. This was done in the open public, with B3 in close proximity to B1. Amongst other things, for his attempt, V3 ended up being punched by B3 in the face and abdomen, something witnessed by Mr Kuah (see further at \[168\] below).
+
+144    Next, after V3 was unsuccessful in trying to recover the money taken by B1, both he and V1 literally put themselves in danger of grave physical harm by trying to stop B1 from leaving the scene in his car. To this end, V1 stood in front of B1’s car and also jumped onto the bonnet of B1’s moving car, while V3 hung onto its roof rack and also laid down on the road in front of B1’s car to stop it. V3’s actions, in particular, required a lot of courage and determination. Not only were they highly risky and potentially life threatening actions to take, V3 did what he did to stop B1 despite having already suffered injuries from being punched by B3 (and B1) only moments earlier.
+
+145    V2 and V4 was also among those that who surrounded B1’s car to prevent him from driving away. Why would all the victims have done what they did, unless they (particularly V1 and V3) were desperate at having lost large sums of money to the accused persons?
+
+146    Indeed, quite aside from putting themselves in danger of grave physical harm by using their own bodies to stop a moving car, the victims also created a ruckus in public, with V3 shouting for help and accusing B1 of being an ‘Ali Baba’ who took away his $10,000. By attracting attention to themselves in this manner, they also risked their employment and immigration status through such unruly behaviour. That the victims, all foreigners working in decently paid jobs, and also living legally in Singapore, would carry out such acts of despair and sacrifice, was fully consistent with their claims that they had been victimised and cheated of large sums of money and properties by the accused persons. I thus agreed with the Prosecution that the victims’ actions certainly could not be explained otherwise than by the fact that they had been cheated by the accused persons.
+
+147    At the end of the day, actions spoke louder than words. The extreme reactions of the victims in responding to what the accused persons did, greatly fortified their accounts that they had been cheated by the accused persons as alleged in the cheating charges.
+
+### (b)   The claims of the Defence were illogical, incredible and unsubstantiated
+
+148    I move on now to comment on the claims of the Defence. In this regard, in contrast to the convincing evidence put up by the Prosecution in respect of the cheating charges, the evidence from B1, B3 and B4 was largely illogical, unsubstantiated and quite incredible.
+
+#### (i)   The Defence was not believable
+
+149    First, B1’s story about having receiving a tip-off that V1 and V3 were selling fake certificates on the date of the incident was simply unbelievable.
+
+> (a)     B1 claimed that a Bangladeshi, who was a complete stranger to him, happened to approach him in the open street with 3 pieces of $1,000 notes to change money. B1 said that he also happened to have change for that large amount of money, in cash, with him at that exact time.
+
+> (b)     Then, he claimed that the same stranger would happen to have, and did provide him with, two passport-like photos of the persons who were allegedly selling fake certificates at that very moment. B1’s account was that he did not even ask for details about these alleged culprits, nor did he take or ask for the their photographs. He also did not ask the stranger how the stranger came to have those photographs, or how he knew that they were selling fake certificates. Neither did B1 ask the stranger about why the latter would voluntarily provide him with those photographs, or knew that he would be interested in them. In addition, B1’s account that just by looking at the two photos for a few seconds on the stranger’s phone on that night, he was “very sure even up till today … that those photographs \[were\] of \[V1 and V3\]”[^111] , was again simply incredible.
+
+> (c)     Further, after being shown these photographs and being told that the two culprits were at that very moment in the process of selling the fake certificates, as well as being told their exact locations, and despite having been plagued by the problems of the fake certificates for some time, instead of taking immediate action such as rushing down to the locations where V1 and V3 were with the other accused persons, or calling the Police to get them arrested before they could flee, B1 apparently was content to simply join B2, B3 and B4 to have dinner, before eventually going down to Mustafa Gate 5 where the first culprit was.
+
+> (d)     His inexplicable lack of curiosity, and his utter lack of urgency, were completely mystifying, and made his entire story difficult to accept.
+
+> (e)     Further, even when B1, B2 and B3 decided to go down to Mustafa Gate 5, they could have sought external help instead of taking matters into their own hands. In this regard, B4’s evidence was that along the way there, he had seen a few police officers walking along the stretch near to Mustafa Gate 5.[^112]That they did not seek assistance from the police, despite previously having had violence inflicted on them by those who deal with fake certificates, made this entire story even more incredible.
+
+150    Second, on each of the two occasions that he allegedly caught the victims selling the fake certificates, B1’s explanation as to why he asked the victims to go to his Office, and their willingness to do so, simply made no sense.
+
+> (a)     In this regard, not only did B1 and his fellow accused persons not seek help from the Police (who were apparently nearby) against V1, B1 also simply asked V1 to follow him and his fellow accused persons to the Office, while apparently content to leave the other culprit (V3) to continue selling fake certificates in the meantime, rather than alert the Police about V3. This even though he knew V3’s exact location. It was only about half an hour later that B1 (and B3 and B4) took it upon themselves to approach and “catch” the other culprit V3, who appeared to have remained in the same vicinity throughout.
+
+> (b)     In any event, the accused persons claimed that both V1 and V3 complied with B’s “invitation” to follow them to the office, despite having been caught red-handed with the incriminating certificates on them. This again made no sense. If indeed, V1 and V3 were in possession of so many fake certificates (as the Defence claimed), it was ridiculous that they would meekly follow B1 who, as claimed by B1, was well known to be the boss of A Star. Instead, one would have expected that they would have tried to run away, or sought help from the many people (whom the accused persons admitted) were around them at that time. These people around the victims, outnumbered B1, B3 and B4 according to the accused persons’ evidence.
+
+> (c)     Instead, not only did V1 and V3 allegedly just follow B1, B3 and B4, V2 and V4, who were not involved in the sale of the fake certificates according to the Defence, and who had no reason to go along, apparently just joined in as well. After that, all four victims, as claimed by B1, voluntarily went along to his car, and then to his Office, Again such an account, was quite incredible.
+
+151    Third, B1’s claim about why he had “retained” the victims’ hand phones, and about how he intended to deal with the victims, was also clearly illogical.
+
+> (a)     B1 claimed to have taken the hand phones from the victims in order to delete contacts relating to the fake certificate business. Yet, at no point did B1 attempt to check or find out which of the contacts were linked to the fake certificates. Instead, B1 apparently intended to remove the details by formatting the phones of the victims. If this was indeed the case, it was unbelievable that the victims would simply have allowed him to do whatever he wanted with their phones, including deleting possible personal information, contacts or photographs that may have nothing to do with the fake certificates.
+
+> (b)     Further, B1 admitted that the phones that he took from them were “very simple phones”[^113], and that he could have deleted the contacts easily there and then.[^114] Yet B1 did not do so, but apparently told them to come and collect their phones the following day. His account made no sense. It was inconceivable that the victims would have trusted to leave the phones (with the incriminating details) with him, when they could have simply refused to do so, or even left the Office since he did not even have their personal details or information. Further, the Defence apparently took the position that the victims could have left the Office if they wanted to.
+
+152    Even B1’s claim that he was essentially trying to do them a favour by deleting the contacts and then returning them the phones made no sense.
+
+> (a)     For one, if the same phones were critical to their illegal operations, the same victims could conceivably then have restarted their operations, and engaged in the same scams once they got their phones back.
+
+> (b)     Instead, if B1 had really caught them red-handed, he would certainly have handed them over to the Police just as he did with his former employee who was involved with fake certificates (whom he reported to the Police after taking her phone and thumb drive[^115]),and also with Sufon, who sold fake training certificates, whom B1 also reported to the police.[^116]
+
+> (c)     In this regard, B1 had conceded that by bringing the earlier perpetrators (Hossain/Sufon) to the police station, it had stopped him from further selling fake certificates. Yet, B1 did not lodge a police report against V1 or V3 even though he wanted them to stop them from doing the same.[^117]
+
+153    In fact, I noted that to this day, even though B1 claimed that the victims have made false allegations against him and against his brother/cousins about illegal taking their money and phones, and also despite allegedly having found (and kept) fake certificates on V1 and V3, B1 has not made any police report against either of them. I thus agreed with the Prosecution that the Defence’s claim that V1 and V3 were caught selling fake certificates was clearly an afterthought, just as how B1 purportedly dealt with the victims (by simply removing their phones from them) was illogical and contrary to B1’s own past behaviour.
+
+154    Fourth, as for B3 and B4, they had given incredible explanations about why they placed their hands on the victims (as shown on CCTV), while bringing them into the Office.
+
+> (a)     For B3, it was clear that he had placed his arm on V2, and also separately put his hand over V3’s shoulder, as he brought them into the Office. Despite the fact that both victims were complete strangers, B3 claimed it was normal to hold or touch them in this way.
+
+> (b)     As for B4, he similarly claimed that he just put his arm on V1’s shoulder in a friendly manner to show V1 the way into the Office. Nevertheless, B4 admitted that he would try to stop V1, if the latter tried to run away, since it was “important for \[B4\] to make sure \[V1\] entered the Office so that \[B1\] can speak to him”.[^118]
+
+> (c)     Clearly, rather than being friendly and innocuous gestures, B3 and B4’s actions were likely intended to intimate the victims and/or reinforce in them that they were being restrained by the “police”. Alternatively, they were intended to make sure that the victims entered the Office where their belongings were then removed.
+
+#### (ii)   The Defence was unsubstantiated and contradicted by objective evidence
+
+155    I also agreed with the Prosecution that the accused persons’ accounts on material matters were not supported by any objective evidence. In this respect, perhaps the most glaring example that debunked the accused persons’ story, related to why they had brought the victims to the Office in the first place i.e. supposedly because some of them had been caught red-handed dealing with fake certificates on the night of 30 April 2017.
+
+> (a)     The accused persons, in particular B1, insisted that they had caught V1 and V3 dealing with fake certificates on the night of the incident. This was after the Bangladeshi stranger had tipped B1 off about the illegal dealings of V1 and V3, and even showed B1 their photographs. The accused persons claimed that V1 and V3 had confessed to their misdeeds, and that fake certificates were recovered from V1 and V3 at the Office.
+
+> (b)     Yet despite all these claims, not a single shred of evidence was produced to support the Defence’s assertions that either V1 or V3, let alone both, had been selling fake training certificates that night. Specifically, the Defence did not produce a single fake certificate that they claimed to have found on V1 and V3 (despite many certificates supposedly being recovered - see \[82\] and \[98\] above), nor was any feasible explanation provided for this glaring omission.
+
+> (c)     Further, as noted by the Prosecution, it was not even put to any of the victims that fake certificates were found on them during their cross-examination. In addition, as stated previously, none of the accused persons has made any police report against V1 and V3 about having recovered fake certificates from them.[^119]
+
+> (d)     Thus, it was quite clear that the entire claim by the Defence – about the victims being linked to fake certificates which the accused claimed was the reason why they were brought to the Office and questioned, and which also supposedly led to V1 and V3’s phones being retained - was merely an afterthought.
+
+156    In addition, another second major gap in the Defence’s story was in relation to B1’s claims about the phones that he had taken from the victims. This was not only in relation to the number of phones that they purportedly surrendered to him, but also in his claim that he took phones only from V1 and V3, the only persons supposedly involved in dealing with the fake certificates. Yet, V2’s phone was actually found in his possession. In this regard:
+
+> (a)     During examination in chief (EIC), B1 had said that he only spoke with V1 as “only \[V1\] was holding the certificates with him in the bag \[and\] V2 was just his friend”.[^120] He did not remember speaking to V2. B1 also said that V1 had two phones with him, and B1 had only taken one phone from V1, as he remembered V1 had another personal phone with him.[^121] B1 insisted that no one had taken V2’s phone.[^122]
+
+> (b)     However, during cross-examination, when B1 was confronted with the agreed fact that V2’s phone was in fact taken from V2 in the Office, B1 back-tracked and said that it might be that V1 had given him two phones (presumably including V2’s phone), or that V3 might have done so.[^123]
+
+> (c)     I rejected B1’s account. For one, since B1 had met the two pairs of victims in his Office separately (during which he recovered the phones) i.e. he met V1 and V2 first, followed by V3 and V4 only later after fetching the latter from the back lane, V3 could not possibly have passed V2’s phone to B1, especially since they were not even associated with each other. As for the possibility of V1 being the one who passed V2’s phone to B1, this was inconsistent with B1’s own claim that he had only taken one phone from V1.
+
+157    Instead, I accepted the Prosecution’s argument that the only plausible explanation why three of the victims’ phones[^124] were found in B1’s car when he was arrested on the night of 30 April 2017, was because the version put forward by the victims was true i.e. V2 himself had passed his phone to the accused persons as a result of being deceived that the accused persons were from the Police.
+
+#### (iii)   Material inconsistencies in the accused persons’ evidence
+
+158    The Prosecution submitted that the accused persons were not credible witnesses, highlighting numerous examples of their constantly changing evidence, contradictions in and between their testimonies, and contradictions in their testimonies with their police statements, as well as the evasive manner in which the accused persons answered various questions.[^125]
+
+159    Without repeating the specific points brought out by the Prosecution, it would suffice for me to say that:
+
+> (a)     B1 kept changing his evidence about whether he was specifically looking out for V1 and V3 near Mustafa Gate 5, and at the back lane of New Park Hotel respectively, based on the photographs shown to him by the Bangladeshi stranger;[^126]
+
+> (b)     B1, B3 and B4 (as well as B2) appeared to be tailoring their evidence when, despite claiming that they were not really paying attention to what was happening in the Office, yet essentially kept repeating that they could recall mention of fake certificates and of Sufon during B1’s conversations with the victims; and
+
+> (c)     The accused persons were evasive in relation to various aspects of their testimonies including over whether B1 actually saw V3 handing out fake certificates at the back lane, whether B3 or B4 had spoken to the victims in the Office, and about why B3 and B4 had followed B1 to Mustafa Gate 5 where they picked up V1 and V2.
+
+160    Further, I agreed that there were major discrepancies in relation the evidence of the accused persons in court, and their evidence as given in their statements, and in the Case for the Defence put up for them. Some of these major contradictions on material matters related to the following:
+
+> (a)     B1’s contradictions about whether V1 or V3 admitted to selling fake certificates; and whether he had actually found fake certificates on V1;
+
+> (b)     B1’s contradictions over whether he had told V1 to come back the following day to get back his phone, and over whether he had intended to return V1’s phone after deleting its contents, as well as whether he was going to throw away the phone;
+
+> (c)     B4’s contradictions over whether it was only B1 alone who spoke to V1, or whether he and/or B3 also spoke to V1 and V2; and
+
+> (d)     B3’s contradictions over whether he and B1 ran towards B1’s car after the confrontation with V3.
+
+161    While I agree that discrepancies are not unexpected due to reasons such as failure of recall due to the passage of time, and a divergence in the interpretation and perception of incidents by different witnesses (see \[120\] – \[124\] above), nevertheless, where the discrepancies relate to material matters, and where these cannot be properly accounted for by B1, B3 and/or B4, they may well have an adverse impact on the credibility of the particular accused person(s). This was precisely the case here, as the accused persons were not able to give adequate and believable accounts for the major discrepancies on material aspects of their evidence. All in all, the accused persons were shown not to be credible witnesses.
+
+162    In summary, there was overwhelming evidence against the accused persons on the cheating charges. Accordingly, as the Prosecution had clearly proven the case beyond a reasonable against B1, B3 and B4 on all their cheating charges, I had no hesitation in finding them guilty on their charges.
+
+### (c)   Some brief comments about the evidence against B2
+
+163    As noted earlier, while I convicted B1, B3 and B4 on the cheating charges based on the evidence adduced, I also acquitted B2 on his set of charges. As no appeal against B2’s acquittal has been filed, I will not dwell too much on the evidence involving B2, save to say that B2’s case differed from that of the other accused persons in several material ways. These included the following:
+
+> (a)     After the four accused persons had dinner on 30 April 2017 where they allegedly discussed about the actions they intended to take against V1 and V3 (the alleged sellers of the fake certificates), B2 returned to the Office. Only B1, B3 and B4 went to Mustafa Gate 5.
+
+> (b)     Subsequently, only B1, B3 and B4 approached the victims: V1 and V2, at Mustafa Gate 5, and V3 and V4 at the back lane of New Park Hotel. B2 did not approach any of them.
+
+> (c)     Also, only B1, B3 and B4 were present when the victims were told (outside the Office) that they (accused persons) were from the Police or the CID. B2 was apparently in the Office at that time. Following this, only B1, B3 and B4 accompanied the victims in B1’s car, and (in some cases) had physical contact with the victims when they were led inside the Office.
+
+> (d)     While B2 did open the door to the Office for the group, it was not disputed that the door locking mechanism for the Office meant that access was controlled, and that one way to enter the premises was for someone already in the Office (in this case. B2) to open the door from the inside. Thus, B2’s account that he opened the door specifically for the accused persons (rather than the victims) to enter the Office, was not unbelievable.
+
+> (e)     During the times when the various victims were present, it was B2’s evidence that he had other work to attend to and that he was not involved with them or in their discussion. His evidence was corroborated by documents tendered by the Defence that showed that B2 indeed had other matters to deal with at that time. In contrast, for the other three accused persons, B1 was essentially the main person who dealt with the victims (including asking them to hand over their properties), and this was done in B3 and B4’s presence. The latter two accused persons (B3 and B4), unlike B2, also did not have any work to attend to in the Office, other than being present with B1 when he was dealing with the victims, although B3 and B4 did claim (without corroborative evidence) to have been handling their phones during this time.
+
+> (f)     None of the victims stated that B2 represented himself to be a member of the Police, or that he was from the CID. Neither was B2 directly implicated in Jahangir’s statement, or by any other witness, or by B1, B3 and B4, as having been involved in the plan, or even with bringing the victims to the Office.
+
+164    In short, while I was satisfied that the Prosecution had established the case against B1,B3 and B4 beyond a reasonable doubt on all their charges, I was of the view that the evidence against B2 was insufficient to meet the requisite standard of proof. Accordingly, I convicted B1, B3 and B4 on the charges against them, and acquitted B2 on his set of charges.
+
+## (7)   Court’s findings on the VCH charge against B3
+
+### (a)   B3’s account was credible and corroborated by independent evidence
+
+165    As regards the VCH charge, which was against B3 alone, V3 had given a credible and convincing account of his assault by B3. What was pertinent about his account is that it was not only clear and internally consistent, it was also consistent with V3’s account about his having being cheated of a large sum of money and of his phones by the accused persons prior to the assault, about how he had initially approached B1 to try to recover his money, about how he was assaulted as a result of that attempt, and finally about the desperate actions he took thereafter to stop B1 from escaping after V3’s initial attempt to get his money failed.
+
+166    V3 was also forthcoming in stating that the assault on him took place in the public where it could have been (and was) witnessed by members of the public. His account, that the assault on him occurred only because he was trying to get his money back from B1, was consistent with the other aspects of his evidence, and was highly believable.
+
+167    While the Prosecution did not produce any medical report for V3 detailing his injuries for the VCH charge, this was not surprising since V3 testified that he was focussed on trying to get his money back, rather than on seeking medical treatment after his assault.
+
+168    Moreover, while V3’s account of the assault itself was convincing, it was not the only piece of evidence against B3. Instead, V3’s testimony was amply supported by the evidence of a witness, Mr Kuah, a minibus driver who was present at the scene. Mr Kuah, who did not know any of the parties involved in this case, testified that:
+
+> (a)     He was having a meal with his girlfriend at about 10.30-11.30 pm at a dim sum shop in the vicinity when he noticed a Bangladeshi man (identified as V3) and two Indian men (a bald man (B3), and a taller man in a black shirt (B1)), who caught his attention. Subsequently, he briefly lost sight of them when he concentrated on his food. When Mr Kuah next turned to look, only V3 and B3 were left.
+
+> (b)     Mr Kuah said that he saw B3 and V3 holding on to a pouch. Mr Kuah described V3 as being “quite nervous and quite hurt” and that it appeared as if he “is like lost something”. V3 was also crying and begging B3. Mr Kuah said that he saw B3 throw two punches with his right hand at V3. One punch landed on V3’s face and the other landed on his stomach. Mr Kuah said that when V3 was punched on the stomach, he “…bent down, feeling a bit pained” and covered his stomach with his right hand, but still continued to hold on to the pouch.
+
+> (c)     At this time, Mr Kuah was sitting about 2 metres away, and his attention was focused on them. His view was also not obstructed, nor was it crowded nor dark[^127]. Mr Kuah was not sure if V3 was bleeding after being punched on the head, but he did not see any bleeding. [^128]
+
+> (d)     Mr Kuah said that he called the Police when he saw B3 hitting V3. The report made by Mr Kuah was admitted into evidence as P7. In P7, Mr Kuah had stated that “I saw 2 guys attacked 1 guy and then they like take his things. They went towards the Tim Sum stall that stretch of road. The victim went to chase after one of them.” Mr Kuah explained that in his report, he was talking about the two Indian men, the tall man, and also B3 who was quarrelling with V3 and who punched V3. Subsequently, Mr Kuah did not continue to look at them but focussed on his food instead.
+
+> (e)     The next time Mr Kuah looked, he saw V3 walking with B1 towards B1’s black Mercedes car. After V3 tried unsuccessfully to stop B1 from getting into the car, V3 then tried to stop B1 from driving away, and even put himself in front of the car. When B1 tried to make his escape, Mr Kuah made a second call to the police. [^129]
+
+> (f)     Mr Kuah also said that a crowd, consisting of Indian, Chinese and Bangladeshis, subsequently pushed a “rubbish chute” (rubbish bin) and used it to block B1’s car. The crowd also wanted B1 to come out of his car but he did not do so. Police officers subsequently arrived at the scene.
+
+169    Clearly, Mr Kuah’s account, quite from being that of an unaffiliated and unbiased third party, was largely corroborated by the police report that he made, and was also largely consistent with V3’s evidence. As for the Defence’s arguments that Mr Kuah did not know the origins of the quarrel between B3 and V3, and that Mr Kuah had the wrong impression that V3 owned the black pouch[^130], these were really quite irrelevant issues, since the crux of the matter – on which Mr Kuah was clear and unequivocal – was that B3 had punched V3 as alleged in the charge. Further, I agreed with the Prosecution’s observation that “(t)he Defence did not put it to PW10 (i.e. Mr Kuah) even once that he was or could be mistaken when he saw B3 punch V3 on his face and stomach”.[^131]
+
+170    All in all, Mr Kuah’s evidence lent strong support to V3’s evidence that he was assaulted by B3 in the manner set out in the VCH charge.
+
+### (b)   There was no plausible defence raised to the VCH charge
+
+171    As for the Defence, I rejected B1 and B3’s assertions as being unbelievable.
+
+172    In this regard, B1 claimed that V3 had started grabbing his arm and pulling his pouch when they were outside the Office at Desker Road.[^132] However, if V3 had earlier amicably surrendered his phone to B1 in exchange for the latter not reporting him to the Police and not taking action against him, it made no sense for V3 to have tried to grab his pouch. Instead, V3 would have voluntarily left the area, and then returned the following day for his phone as per his “agreement” with B1. To do otherwise, and to confront not just B1, but also B3 who was nearby, meant that not only was there a high chance that V3 would be unsuccessful in his effort to recover his phones, it also meant that he could be physically injured in the process. Worst of all, B1 would then be unlikely to keep his end of the bargain and could instead report V3 to the Police for dealing with fake certificates. B1’s claim clearly made no sense.
+
+173    Further, B1 and B3’s testimonies clearly contradicted each other concerning this encounter. Specifically, B1 claimed that he had called for B3 when V3 was grabbing his pouch. When this happened, B3 came and spoke to V3, following which V3 left. There was no physical contact between them.[^133] Yet, B1’s version was contradicted by B1 who admitted that there was definite physical contact between them, as B3 had pushed V3 with two clenched fists. B3 even agreed that he pushed V3 “with enough force that \[V3\] took 2 steps back”[^134].
+
+174    Quite aside from both versions being hard to reconcile or believe, B1 and B3’s inconsistent accounts were, in any event, clearly refuted by V3’s evidence and that of Mr Kuah. Indeed, even by B3’s account, his hands did come into contact with V3, and that this occurred because V3 was trying to take something from B1. This was consistent with V3’s claim that he was trying to recover what had been taken from him when he was assaulted.
+
+175    All in all, the obvious inference to be drawn was that V3 held onto B1’s pouch as he called for help from bystanders because the accused persons had taken S$10,250 and his mobile phones from him. Further, it was because of V3’s dogged persistence that B3 punched V3 on his face and his abdomen.
+
+176    I was thus of the view that in light of the clear and convincing evidence against B3 on the VCH charge, the Prosecution had proven its case against B3 beyond a reasonable doubt, and I convicted him accordingly.
+
+## (8)   Sentencing Phase
+
+177    Each cheating charge under s 420 read with s 109 PC attracts a mandatory imprisonment of up to 10 years imprisonment, with the additional possibility of a fine. For B3, his VCH charge under s 323 of the PC attracts a term of imprisonment up to 2 years, or with a $5,000 fine, or both.
+
+### (a)   Prosecution’s position
+
+178    I start off with a summary of the Prosecution’s position, which I have distilled from Prosecution’s submissions on sentence. In essence, having regard to general and specific deterrence, and the circumstances of the case, the Prosecution submitted that the following sentences should be imposed on the three accused persons who have been found guilty:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="31.7433658045012%"> <col width="23.8159220691972%"> <col width="22.2147575859366%"> <col width="22.225954540365%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Charge / Accused</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>B1</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>B3</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>B4</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>1<sup>st</sup> Charge</b></p><p align="justify" class="Table-Para-1"><b>(s 420 r/w s 109 PC involving V1)</b></p><p align="justify" class="Table-Para-1">Property delivered:</p><p align="justify" class="Table-Para-1">• Cash of S$6,625</p><p align="justify" class="Table-Para-1">• 3 mobile phones</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>5 – 6 months’ imprisonment (consecutive)</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>5 – 6 months’ imprisonment (consecutive)</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>5 – 6 months’ imprisonment (consecutive)</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>2<sup>nd</sup> Charge</b></p><p align="justify" class="Table-Para-1"><b>(s 420 r/w s 109 PC involving V2)</b></p><p align="justify" class="Table-Para-1">Property delivered:</p><p align="justify" class="Table-Para-1">• Cash of S$40</p><p align="justify" class="Table-Para-1">• 1 mobile phone</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">2 weeks’ imprisonment</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">2 weeks’ imprisonment</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">2 weeks’ imprisonment</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>3<sup>rd</sup> Charge</b></p><p align="justify" class="Table-Para-1"><b>(s 420 r/w s 109 PC involving V3)</b></p><p align="justify" class="Table-Para-1">Property delivered:</p><p align="justify" class="Table-Para-1">• Cash of S$10,250</p><p align="justify" class="Table-Para-1">• 2 mobile phones</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>10 – 12 months’ imprisonment (consecutive)</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>10 – 12 months’ imprisonment (consecutive)</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>10 – 12 months’ imprisonment (consecutive)</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>4<sup>th</sup> Charge</b></p><p align="justify" class="Table-Para-1"><b>(s 420 r/w s 109 PC involving V4)</b></p><p align="justify" class="Table-Para-1">Property delivered:</p><p align="justify" class="Table-Para-1">• Cash of S$1,200</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">3 months’ imprisonment</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">3 months’ imprisonment</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">3 months’ imprisonment</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>5<sup>th</sup> Charge</b></p><p align="justify" class="Table-Para-1"><b>(s 323 PC involving V3)</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">N.A.</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>2 weeks’ imprisonment</b></p><p align="justify" class="Table-Para-1"><b>(consecutive)</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">N.A.</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Global sentence</b></p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>15 – 18 months’ imprisonment</b></p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>15 – 18 months’ + 2 weeks’ imprisonment</b></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>15 – 18 months’ imprisonment</b></p></td></tr></tbody></table>
+
+  
+  
+
+179    The Prosecution also sought compensation orders under section 359 of the Criminal Procedure Code (“CPC”) against all three accused persons for the following amounts:
+
+> (a)     For the cheating charges:
+
+>> (i)       B1, B3 and B4 to pay compensation of S$6,625 to V1;
+
+>> (ii)       B1, B3 and B4 to pay compensation of S$40 to V2;
+
+>> (iii)       B1, B3, and B4 to pay compensation of S$10,250 to V3;
+
+>> (iv)       B1, B3 and B4 to pay compensation of S$1,200 to V4; and
+
+> (b)     B3 to pay additional compensation of S$500 to V3 for the VCH charge.
+
+180    In arguing for the sentences sought, the Prosecution submitted that the principles of general deterrence, specific deterrence, and retribution applied.
+
+> (a)     In the context of general deterrence, the Prosecution highlighted that in _Public Prosecutor v Law Aik Meng_ <span class="citation">\[2007\] 2 SLR(R) 814</span> (“_Law Aik Meng_”) at \[24\]-\[25\], V K Rajah J had identified several types and circumstances of offences which warrant general deterrence, including where the offences related to public institutions such as the Police, offences against vulnerable victims; and group offences.
+
+> (b)     Specific deterrence was also applicable as the offences were premeditated (citing in _Law Aik Meng_ at \[21\]-\[22\]).
+
+> (c)     In addition, in line with the principle of retribution, “the offender must pay for what he has done” (see _Law Aik Meng_ at \[32\]).
+
+#### (i)   Cheating charges
+
+181    The Prosecution highlighted the following aggravating features for these charges:
+
+> (a)     First, they involved substantial sums totalling S$18,115 in cash, and six mobile phones;
+
+> (b)     Second, the offences were against vulnerable victims: being foreigners unfamiliar with Singapore’s laws and enforcement authorities;
+
+> (c)     Third, there was planning and premeditation involved in the scam;
+
+> (d)     Fourth, this was a group offence involving the use of physical force to bring the victims to the car and then to the Desker Road Office;
+
+> (e)     Fifth, the offences which involved the impersonation of police officers, amounted to offences against a public institution, namely the Singapore Police Force. This caused harm to the confidence in public administration in Singapore by tarnishing the reputation of the Police, and their operational efficiency; and
+
+> (f)     Finally, there was a lack of remorse displayed by the accused persons who not only denied the offences but also painted the victims as wrongdoers.
+
+182    The Prosecution also highlighted the following sentencing precedents:
+
+> (a)      _Public Prosecutor v Liu Aik Kang_ <span class="citation">\[2019\] SGDC 8</span>: The accused and two others had impersonated police officers to cheat a commercial sex worker of S$15,600 (in cash and property). About 20% of that sum was recovered, and the accused received S$5,000 for his involvement. No restitution was made. He pleaded guilty to one count under s 419 r/w s 34 PC (and one count under s 380 PC for an unrelated offence) and was sentenced to 10 months’ imprisonment for cheating.
+
+> (b)      _Public Prosecutor v Md Kamruzzaman Md Motinur Rahma_ (DAC 941193-2016 and Ors):The accused claimed trial to five charges under s 420 PC, involving the cheating of five foreign workers of about S$4,810 when he deceived them that he would sign them up for a multi-skills course He had made partial restitution of S$500 and was sentenced to 5 months’ imprisonment globally.
+
+> (c)      _Public Prosecutor v Karim Sultan Mia_ (DAC 9578-2013 and Ors): The accused pleaded guilty to four charges under s 420 PC when he deceived his fellow Bangladeshi dormitory mates into believing that he could arrange for their relatives or friends to work in Singapore. They had handed over sums ranging from S$150 to S$3,000 to him. The total amount cheated was S$10,250 with no restitution made, and the accused was sentenced to 8 months’ imprisonment globally.
+
+183    The Prosecution argued that the sentences in the present case should be calibrated upwards as the three accused persons here had acted in a group, physically intimidated the victims, claimed trial to the offences, and the total sum involved in the cheating charges was higher with no restitution made.
+
+#### (ii)   B3’s VCH charge
+
+184    The Prosecution submitted that the appropriate sentence for B3 in respect of the VCH charge was 2 weeks’ imprisonment. In this respect, the prosecutors highlighted the recent High Court decision in _Low Song Chye v Public Prosecutor and anor appeal_ <span class="citation">\[2019\] SGHC 140</span> (“_Low Song Chye_”), where the court set out at \[77\] a sentencing matrix for s 323 offences which is applicable to a first-time offender who pleads guilty. This is as follows:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="10.9457671957672%"> <col width="56.25%"> <col width="32.8042328042328%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Band</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Hurt caused (actual harm)</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Indicative sentencing range</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>1</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Low harm: no visible injury or minor hurt such as bruises</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Fines or short custodial term of up to 4 weeks</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">2</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Moderate harm: hurt resulting in a short hospitalisation or a substantial period of medical leave, simple fractures, or temporary or mild loss of a sensory function</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Between 4 weeks to 6 months’ imprisonment</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">3</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Serious harm: serious injuries which are permanent in nature and/or which necessitate significant surgical procedures</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Between 6 – 24 months’ imprisonment</p></td></tr></tbody></table>
+
+  
+  
+
+185    In the present case, as the harm caused to V3 was minor, the starting point was thus a fine or a short custodial term of up to 4 weeks’ imprisonment. The Prosecution also submitted that the custodial threshold was crossed in the present case, and that 2 weeks’ imprisonment would be appropriate since B3 had punched V3 to stop him from getting his money back. This was deliberate and B3 was clearly unremorseful over his actions.
+
+186    The Prosecution submitted that the sentences for the 1st and 3rd cheating charges (being the charges involving the highest amounts) should run consecutively for each accused person, for a total of sentence of 15-18 months’ imprisonment. Further, the sentence for B3’s VCH charge, which represented the invasion of a distinct legally protected interest, should also run consecutively to his sentence for the cheating charges (citing _Public Prosecutor v Raveen Balakrishnan_ <span class="citation">\[2018\] 5 SLR 799</span> at \[98\]).
+
+#### (iii)   Compensation Orders
+
+187    The Prosecution also sought compensation orders under s 359 CPC against the three accused persons of various amounts (see \[179\] above). In arguing its position, the Prosecution highlighted the following principles as to compensation orders which were recently restated in _Tay Wee Kiat and anor v Public Prosecutor and anor appeal_ <span class="citation">\[2018\] 5 SLR 438</span> (“_Tay Wee Kiat_”) at \[6\]-\[11\]:
+
+> (a)     Section 359 CPC obliges the Court to consider whether or not to make a compensation order, and to make such an order if it considers it appropriate to do so;
+
+> (b)     The purpose of compensation is not to punish the offender, but to allow an injured victim to recover compensation where a civil suit is an inadequate or impractical remedy, such as where the victim is impecunious;
+
+> (c)     Compensation ought only to be ordered in clear cases where the fact and extent of damage are either agreed or readily and easily ascertainable on the evidence;
+
+> (d)     The Court should adopt a broad common-sense approach in assessing whether compensation should be awarded;
+
+> (e)     The amount of compensation ordered should not exceed what would be reasonably obtainable in civil proceedings; the court may make a compensation order only in respect of the injury or loss which results from the offence for which the accused is convicted; and
+
+> (f)     The order must not be oppressive, but must be realistic in that the Court must be satisfied that the accused will have the means to pay the compensation within a reasonable time.
+
+188    In the present case, the Prosecution argued that a compensation order was appropriate for the following reasons.
+
+> (a)     First, a compensation order was particularly apt given that a civil suit would be an inadequate and impractical remedy for the victims given their impecuniosity.
+
+> (b)     Second, the quantum of the losses caused by the accused persons was readily and easily ascertainable. In relation to the cheating offences, the Prosecution only proposed to have the accused persons pay compensation for the cash amounts taken from the victims, and not to attribute any value to the mobile phones. In relation to the VCH charge, the Prosecution submitted that the sum of S$500 was commensurate with the pain and suffering described by V3, citing _Tay Wee Kiat_ at \[19\] where the Court accepted the Prosecution’s quantification of S$500 of compensation per incident of abuse in a situation where the injury was minor (_e.g._ abrasion, contusion).
+
+> (c)     Third, the amounts which the accused persons would be required to pay was not oppressive. On the basis of equal apportionment, each of the accused persons would have to pay about S$6,038.33 to each of the victims, with B3 paying an additional S$500 to V3.
+
+## (9)   Mitigation and the Defence’s position
+
+189    The Defence proposed the following sentences for the individual charges and the global sentence as follows:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="31.25%"> <col width="21.8805114638448%"> <col width="23.4347442680776%"> <col width="23.4347442680776%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Charge / Accused</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>B1</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>B3</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>B4</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>1<sup>st</sup> Charge</b></p><p align="justify" class="Table-Para-1"><b>(s 420 r/w s 109 PC involving V1)</b></p><p align="justify" class="Table-Para-1">Property delivered:</p><p align="justify" class="Table-Para-1">• Cash of S$6,625</p><p align="justify" class="Table-Para-1">• 3 mobile phones</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>2 – 3 months’ imprisonment (consecutive)</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>2 – 3 months’ imprisonment (consecutive)</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>2 – 3 months’ imprisonment (consecutive)</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>2<sup>nd</sup> Charge</b></p><p align="justify" class="Table-Para-1"><b>(s 420 r/w s 109 PC involving V2)</b></p><p align="justify" class="Table-Para-1">Property delivered:</p><p align="justify" class="Table-Para-1">•&nbsp;&nbsp;&nbsp;&nbsp;Cash of S$40</p><p align="justify" class="Table-Para-1">•&nbsp;&nbsp;&nbsp;&nbsp;1 mobile phone</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">1 week’s imprisonment</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">1 week’s imprisonment</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">1 week’s imprisonment</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>3<sup>rd</sup> Charge</b></p><p align="justify" class="Table-Para-1"><b>(s 420 r/w s 109 PC involving V3)</b></p><p align="justify" class="Table-Para-1">Property delivered:</p><p align="justify" class="Table-Para-1">• Cash of S$10,250</p><p align="justify" class="Table-Para-1">• 2 mobile phones</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>6 – 7 months’ imprisonment</b></p><p align="justify" class="Table-Para-1"><b>(consecutive)</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>6 – 7 months’ imprisonment</b></p><p align="justify" class="Table-Para-1"><b>(consecutive)</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>6 – 7 months’ imprisonment</b></p><p align="justify" class="Table-Para-1"><b>(consecutive)</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>4<sup>th</sup> Charge</b></p><p align="justify" class="Table-Para-1"><b>(s 420 r/w s 109 PC involving V4)</b> Property delivered:</p><p align="justify" class="Table-Para-1">•&nbsp;&nbsp;&nbsp;&nbsp;Cash of S$1,200</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">1 month imprisonment</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">1 month imprisonment</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">1 month imprisonment</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>5<sup>th</sup> Charge</b></p><p align="justify" class="Table-Para-1"><b>(s 323 PC involving V3)</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">N.A.</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>1 week’s imprisonment</b></p><p align="justify" class="Table-Para-1"><b>(consecutive)</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">N.A.</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Global sentence</b></p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>8 – 10 months’ imprisonment</b></p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>8 – 10 months’ + 1 week’s imprisonment</b></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>8 – 10 months’ imprisonment</b></p></td></tr></tbody></table>
+
+  
+  
+
+190    The Defence also argued that no compensation should be ordered on the basis that:
+
+> (a)     In respect of the cheating charges, since the amount involved was S$18,115 and the accused persons may be incarcerated for a substantial period of time, the incarceration would have a significant impact on their livelihoods, and a compensation order would be oppressive.
+
+> (b)     In respective of the VCH charge involving B3, the nature of the victim’s injuries was not precise, as there was no medical report evidencing the extent and nature of the injuries.
+
+191    As regards the cheating charge:
+
+> (a)     The Defence cited the case of _PP v Husniyati binte Omar_ <span class="citation">\[2018\] SGDC 255</span> (“_Husniyati_”) where the court had set out the following sentencing ranges for s 420 offences based on the value of property involved. The ranges were derived from sentences imposed in previous cases.
+
+<table align="center" cellpadding="0" cellspacing="0" class="Judg-3-tblr" frame="all" pgwide="1"><colgroup><col width="11.5473775717183%"> <col width="32.9904375543321%"> <col width="55.4621848739496%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>S/N</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Benefit/Loss</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Proposed Imprisonment Sentence</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">1</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">$5,000- $10,000</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">2 to 6 months</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">2</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">$10,001- $50,000</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">6 to 15 months</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">3</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">$50,001- $100,000</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">15 to 24 months</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">4</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">$100,001- $200,000</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">24 to 32 months</p></td></tr></tbody></table>
+
+  
+  
+
+> (b)     In _Husniyati_ itself, the accused had pleaded guilty to 20 charges under s 420 PC, and the court imposed individual sentences ranging from 4 to 24 months’ imprisonment, where the value of property involved ranged from $7,068 to $102,728. The global sentence imposed was 93 months’ imprisonment.
+
+> (c)     The Defence also cited the case of _PP v Jasons Lim Hua Tong_ <span class="citation">\[2009\] SGDC 52</span>, where a sentence of 8 months’ imprisonment was imposed for cheating involving an aggregate sum of about $21-22,000. However, the Defence conceded that the charge there was under the old Penal Code, where the maximum prescribed imprisonment term was 7 years.
+
+192    As for the s 323 charge, the defence also referred to the same sentencing table referred to by the Prosecution from _Low Song Chye_. Counsel, however, argued for a one week’s imprisonment sentence_._
+
+193    In addition, the following matters were cited as mitigating circumstances:
+
+> (a)     In relation to the cheating charges, the amounts involved were relatively small (totalling S$18,115 in cash, and six mobile phones), and the offences took place over a short period of time of a few hours. This was also not an elaborate scam with a high level of sophistication or pre-meditation.
+
+> (b)     As for the s 323 charge, this was a spur of the moment offence committed in the middle of an altercation and was a one-off incident. The injuries were also not serious and did not require medical attention.
+
+> (c)     B1 is a first offender, while B3 and B4 do not have relevant antecedents, and the accused persons have also co-operated with authorities throughout.
+
+> (d)     All of them are sole breadwinners, and providing financial support for their respective families. In addition, B1 has over 50 employees whose livelihoods rest on his shoulders, while B3 and B4’s also have businesses or jobs. Hence, a conviction and unduly long jail sentences for them would cause undue hardship to their respective families and employees.
+
+194    The Defence argued that a global sentence of 8 -10 months’ imprisonment for the cheating charges, and a 1 week’s imprisonment for the VCH charge would be in line with the precedents and the mitigating factors above.
+
+## (10)   The Court’s Decision
+
+195    The three accused persons had been convicted after a long trial. In contesting the charges, the accused persons had, inter alia, alleged that the victims had unlawfully dealt with fake certificates, and that V1 and V3 had also allegedly admitted to such dealings. Apparently, bogus certificates of various companies were also recovered by the accused persons, although as I noted above, none was produced in court. The victims also denied the allegations and I rejected the accused persons’ claims of such illegal dealings by them.
+
+196    In assessing the sentencing submissions of parties, I agreed with the Prosecution that there were numerous aggravating factors in the present case.
+
+> (a)      Premeditation and planning on the part of B1, B3 and B4
+
+> There was clear premeditation and planning involved in the offences. The three accused persons, acting as a group, had taken the victims literally off the streets, in two distinct and separate episodes, before putting them in B1’s car, and then leading them to B1’s Office – away from others - where their money and phones were removed from them. The manner in which each accused person played a clear and distinct role, and the apparently seamless way in which the two operations were successfully carried out, showed obvious and distinct planning. Indeed, one set of offences, involving first two victims, was swiftly followed by the second set of offences, involving yet two more victims, with the same modus operandi being effectively employed throughout.
+
+> (b)      Impersonation of police officers and the intimidation of the victims
+
+> I agreed that the actions of the accused persons in impersonating law enforcement (police and CID officers), seriously risked tarnishing the reputation and good standing of law enforcement, and could have affected the operational efficiency of the Police. Their offences also jeopardised law and order as a whole since, had they not been detected, the offences could have created in the minds of foreigners that our law enforcers themselves engage in criminal activities, and hence they, and our laws in general, deserve no respect or obedience, as laws are flouted even by those entrusted to enforce them. In short, public interest would suffer if such crimes – when detected - were not treated sternly with appropriately stiff sentences imposed.
+
+> (c)      Distinct lack of remorse in this case
+
+> I noted that no remorse at all was demonstrated by the accused persons. While they were perfectly entitled to deny the allegations and to contest the charges, they should not expect the sentencing discount that normally accrues from a plea of guilt. Further, the manner in which they chose to conduct their defence, and the claims that they made against the victims, were not things that could be ignored. In this respect, not content to deny the charges, the accused persons went on the offensive by making spurious allegations against the victims of illegality and criminal conduct by asserting that the victims were selling bogus certificates. The accused persons (principally B1) even made wild and unsubstantiated claims that many fake certificates from various companies were recovered by them from the victims, without producing any shred of evidence, or even a single bogus certificate.
+
+197    I also noted that there was an abysmal lack of mitigating factors in this case.
+
+> (a)     I noted first that no restitution was made, nor was any compensation offered.
+
+> (b)     Further, while counsel tried to downplay the accused persons’ culpability by citing a lack of certain aggravating factors, with respect it is trite law that the “absence of an aggravating factor should not be viewed as a mitigating factor” (per Sundaresh Menon CJ in _Chan Chun Hong v PP_ <span class="citation">\[2016\] SGHC 75</span> at \[56(b)\]). Thus, while it would have been an aggravating factor if the offences were committed over an extended period of time, the fact that the cheating offences took place in a few hours was, with respect, not mitigating. If anything, the apparent success that the accused persons had in cheating V1 and V2, emboldened them to almost immediately try the same tricks with V3 and V4. They could hardly expect to claim ‘merit’ for being so audacious in their actions.
+
+> (c)     In addition, while counsel alluded to possible financial hardship that may be caused to the family of the accused persons due to the imprisonment terms that may be imposed, it should be noted that this “…not an argument which should normally be taken into account for the purposes of sentence. Most of the time, imprisoning the main or sole breadwinner of a family unavoidably causes hardship to his family” (as per Yong Pung How CJ (as he then was) in _Lai Oei Mui Jenny v Public Prosecutor_ <span class="citation">\[1993\] 2 SLR(R) 406</span> at \[11\]).
+
+198    As regards the precedents cited to me for the individual cheating charges, I noted that:
+
+> (a)     In PP v _Md Kamruzzaman Md Motinur Rahma_, which involved a sum of $4,810 (and restitution of $500), a global sentence of 5 months’ imprisonment was imposed. There, the charge was also framed under s 420 PC and the accused had claimed trial. This case suggested that the sentence to be imposed for the charge involving V1 (loss of $6,625) should be closer to 6 months’ imprisonment.
+
+> (b)     In _PP v Karim Sultan Mia_, which involved a sum of $10,250 (and no restitution), a global sentence of 8 months’ imprisonment was imposed. The accused there had pleaded guilty to the charges framed under s 420 PC. This case suggested that the sentence to be imposed for the charge involving V3 (loss of $10,250), where the accused persons had claimed trial, should be closer to 10 months’ imprisonment.
+
+> (c)     As for the global sentence, I considered the case of _PP v Liu Aik Kang_, which involved a sum of $15,600 (of which about 20% was recovered). There a sentence of 10 months’ imprisonment was imposed. The accused there had pleaded guilty, and his charge was framed under s 419 PC, for which the maximum imprisonment sentence is only 5 years. In contrast, the accused persons here had claimed trial and the maximum possible imprisonment sentence for a s 420 PC charge is double than that of a s 419 charge at 10 years. This suggested that the global sentence to be imposed for the cheating charges here, which involved a total loss of S$18,115, and where the accused persons had claimed trial, should be closer to 15 months’ imprisonment.
+
+> (d)     The indicative sentences stated above would, broadly speaking, not be out of the range set out in _Husniyati._ I would add that I did not find the case of _PP v Jasons Lim Hua Tong_ useful since, as the Defence conceded, it was dealt with under the earlier edition of the Penal Code for which the maximum sentence for a s 420 charge was only 7 years imprisonment at that time.
+
+199    As for the VCH charge, I took into account the fact that while this was clearly a Band 1 case, the sentencing table in _Low Song Chye_ was meant for first offenders who have pleaded guilty, and hence may have to be tweaked in a claimed trial case. Further, the sentence for B3 should also take into account the sentencing factors identified for his case.
+
+200    Thus, having regard to the above factors, the precedents tendered by both the Prosecution and the Defence, and having considered the fact that B1, B3 and B4 were either first offenders or do not have similar antecedents, and in light of the one transaction rule and, also the totality principle, I was of the view that the individual sentences and the global sentence could generally be adjusted downwards to be lower than the earlier indicative sentences. Accordingly, I imposed the following sentences:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="31.9550512764565%"> <col width="17.0194195941523%"> <col width="27.8311149901811%"> <col width="23.1944141392101%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Charge / Accused</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>B1</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>B3</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>B4</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>1<sup>st</sup> Charge</b></p><p align="justify" class="Table-Para-1"><b>(s 420 r/w s 109 PC involving V1</b>)</p><p align="justify" class="Table-Para-1">Property delivered:</p><p align="justify" class="Table-Para-1">• Cash of S$6,625</p><p align="justify" class="Table-Para-1">• 3 mobile phones</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>5 months’ imprisonment (consecutive)</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>5 months’ imprisonment (consecutive)</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>5 months’ imprisonment (consecutive)</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>2<sup>nd</sup> Charge</b></p><p align="justify" class="Table-Para-1"><b>(s 420 r/w s 109 PC involving V2)</b></p><p align="justify" class="Table-Para-1">Property delivered:</p><p align="justify" class="Table-Para-1">• Cash of S$40</p><p align="justify" class="Table-Para-1">• 1 mobile phone</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">1 week’s imprisonment</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">1 week’s imprisonment</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">1 week’s imprisonment</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>3<sup>rd</sup> Charge</b></p><p align="justify" class="Table-Para-1"><b>(s 420 r/w s 109 PC involving V3)</b></p><p align="justify" class="Table-Para-1">Property delivered:</p><p align="justify" class="Table-Para-1">• Cash of S$10,250</p><p align="justify" class="Table-Para-1">• 2 mobile phones</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>9 months’ imprisonment</b></p><p align="justify" class="Table-Para-1"><b>(consecutive)</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>9 months’ imprisonment</b></p><p align="justify" class="Table-Para-1"><b>(consecutive)</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>9 months’ imprisonment</b></p><p align="justify" class="Table-Para-1"><b>(consecutive)</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>4<sup>th</sup> Charge</b></p><p align="justify" class="Table-Para-1"><b>(s 420 r/w s 109 PC involving V4)</b></p><p align="justify" class="Table-Para-1">Property delivered:</p><p align="justify" class="Table-Para-1">• Cash of S$1,200</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">6 weeks’ imprisonment</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">6 weeks’ imprisonment</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">6 weeks’ imprisonment</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>5<sup>th</sup> Charge</b></p><p align="justify" class="Table-Para-1"><b>(s 323 PC involving V3)</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">N.A.</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>2 weeks’ imprisonment</b></p><p align="justify" class="Table-Para-1"><b>(consecutive)</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">N.A.</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Global sentence</b></p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>14 months’ imprisonment</b></p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>14 months’ imprisonment + 2 weeks’ imprisonment</b></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>14 months’ imprisonment</b></p></td></tr></tbody></table>
+
+  
+  
+
+201    As regards the issue of compensation, I agreed with the Prosecution that compensation orders should be imposed. This was clearly in line with the provisions of s 359 CPC, and the decision of the High Court in _Tay Wee Kiat_ (see \[187\] above).
+
+202    In this regard, I noted that all four victims were foreign workers earning relatively low salaries, and that some of them had wanted to remit the money that the accused persons had cheated them of at the time of the offences. To expect the victims to pursue civil suits to recover what was illegally taken from them by B1, B3 and B4, was simply impractical and incorrect.
+
+203    As regards compensation for the cheating charges:
+
+> (a)     Since the exact sums cheated from them had already been clearly identified, and were set out in the charges, such loss could, and should, be recovered by means of appropriate compensation orders.
+
+> (b)     Further, while counsel argued against making a compensation order for these charges submitting that such orders would be oppressive, with respect, I agreed with the Prosecution that such an argument by counsel was not substantiated. In fact, if anything, the evidence and documents tendered suggested that the accused persons were all men of (at least) sufficient means to make such orders of compensation.
+
+> (c)     Specifically, from the mitigation plea tendered, B1 and B3 were bosses of their respective businesses. Further, in the case of B1, it was clear from the mitigation plea, that B1’s business was quite substantial as he had about 50 employees.[^135] Moreover, as highlighted by the Prosecution, in the course of B1’s evidence, he had even tendered documents which “…possibly suggest that he is too wealthy for him to commit such cheating offences”. [^136] It was thus ridiculous to suggest that either B1 or B3 do not have the funds and could not afford to pay compensation of the amounts sought, even when they were serving their custodial sentences.
+
+> (d)     As for B4, he was also gainfully employed as a dormitory manager. [^137] Again, there was nothing put forward to show that he did not have the savings or could not afford to pay compensation of the sums sought to the victims, and that it would be oppressive to make appropriate compensation orders against him.
+
+204    In light of the above, I ordered the three accused persons to pay compensation to the four victims for the cheating charges, along the lines set out in \[9\] above.
+
+205    As for the VCH charge that B3 alone faced, the Prosecution sought a sum of $500 taking guidance from _Tay Wee Kiat_ at \[19\] where the court had referred to “ The _Guidelines for the Assessment of General Damages in Personal Injury Cases_ (Academy Publishing, 2010)”, which recommended $500 for a single abrasion or contusion.
+
+206    In the present case, the Prosecution highlighted that due to this offence, V3 had testified that he was bleeding from the side of his face and also had a bruise on his stomach. He had also received first aid when the ambulance was called to the scene. While the Prosecution accepted that there was no medical report tendered, DPP Eric Hu highlighted that at \[13\] of _Tay Wee Kiat_, the High Court stated that the absence of medical reports would not necessarily prevent the award of an order for compensation.[^138]
+
+207    I agreed with the Prosecution. This was clearly a case where injuries and pain had been caused to V3, and where the sum of $500 recommended, was well in line with guidelines previously accepted by the High Court. I thus ordered B3 to pay the additional sum of $500 to B3 for the VCH charge.
+
+208    All payments of compensation are to be made through the investigating officer who is to notify the Court of the receipt of compensation.
+
+209    The accused persons being dissatisfied have filed appeals against their convictions, sentences and compensation orders. They are on bail pending the hearing of their appeals.
+
+* * *
+
+[^1]: After B2 was acquitted, references to his name were deleted from the cheating charges for B1, B3 and B4, and they were convicted of the amended charges. See Notes of Evidence (NE) dated 21 June 2019 at p 53
+
+[^2]: _Gunasegeran s/o Pavadaisamy v Public Prosecutor_ <span class="citation">\[1997\] 2 SLR(R) 946</span> at \[42\]– \[44\]
+
+[^3]: _Chai Chien Wei Kelvin v Public Prosecutor_ \[1998\] 3 SLR(R) at \[76\]
+
+[^4]: _Public Prosecutor v Yeo Choon Poh_ <span class="citation">\[1993\] 3 SLR(R) 302</span> at \[20\]
+
+[^5]: _Nomura Taiji & Ors v Public Prosecutor_ <span class="citation">\[1998\] 1 SLR(R) 259</span> at \[110\]
+
+[^6]: ASOF \[7\]; ASOF Annex A p 4
+
+[^7]: ASOF Annex A pp 6, 12
+
+[^8]: ASOF Annex A p 14
+
+[^9]: ASOF \[9\]
+
+[^10]: ASOF \[10\]-\[11\]
+
+[^11]: ASOF \[12\]
+
+[^12]: ASOF Annex A pp 22-23
+
+[^13]: ASOF Annex A pp 26-27
+
+[^14]: ASOF \[13\]
+
+[^15]: ASOF Annex A p 29
+
+[^16]: ASOF Annex A pp 33-34
+
+[^17]: ASOF \[14\] and Annex A pp 41-42
+
+[^18]: ASOF \[17\] and Annex A pp 47-48
+
+[^19]: ASOF \[18\]
+
+[^20]: ASOF \[8\], \[13\], \[19\]
+
+[^21]: P8-1 and 2
+
+[^22]: P8-5 and 6
+
+[^23]: P8-3 and 4
+
+[^24]: ASOF \[21\]
+
+[^25]: ASOF \[19\]
+
+[^26]: NE dated 27 June 2018 at p 8
+
+[^27]: NE dated 23 July 2018 at p 34
+
+[^28]: NE dated 24 July 2018 at p 17, 57
+
+[^29]: NE dated 25 June 2018 at p 87; NE dated 23 July 2018 at p 34-35
+
+[^30]: NE dated 26 June 2018 at p 11-12
+
+[^31]: NE dated 26 June 2018 at p 16
+
+[^32]: NE dated 27 June 2018 at p 51
+
+[^33]: NE dated 23 July 2018 at p 38; NE dated 24 July 2018 at p 10, 13 and p 50
+
+[^34]: NE dated 23 July 2018 at p 38
+
+[^35]: NE dated 23 July 2018 at p 39
+
+[^36]: NE dated 26 June 2018 at p 16; NE dated 23 July 2018 at p 39
+
+[^37]: NE dated 23 July 2018 at p 41
+
+[^38]: NE dated 26 June 2018 at p 34
+
+[^39]: NE dated 25 July 2018 at p 7; NE dated 20 November 2018 at p 7
+
+[^40]: NE dated 25 July 2018 at p 7-8; NE dated 20 November 2018 at p 6-8
+
+[^41]: NE dated 20 November 2018 at p 9-11
+
+[^42]: NE dated 20 November 2018 at p 12
+
+[^43]: NE dated 25 July 2018 at p 8-11
+
+[^44]: NE dated 25 July 2018 at p 17
+
+[^45]: NE dated 20 November 2018 at p 17
+
+[^46]: NE dated 20 November 2018 at p 18
+
+[^47]: NE dated 25 July 2018 at p 19-20
+
+[^48]: NE dated 20 November 2018 at p 18-19
+
+[^49]: NE dated 25 July 2018 at p 20
+
+[^50]: NE dated 20 November 2018 at p 20
+
+[^51]: NE dated 20 November 2018 at p 22-23
+
+[^52]: NE dated 25 July 2018 at p 23-25
+
+[^53]: Pursuant to section 32(1)(j)(iii) of the Evidence Act
+
+[^54]: P14, \[4\]
+
+[^55]: NE dated 26 June 2018 at p 40
+
+[^56]: NE dated 23 July 2018 at p 31, 59-60
+
+[^57]: NE dated 27 June 2018 at p 54-56
+
+[^58]: NE dated 25 June 2018 at p 41-42
+
+[^59]: NE dated 23 July 2018 at p 47-48
+
+[^60]: NE dated 25 June 2018 at p 43, NE dated 27 June 2018 at p 42
+
+[^61]: NE dated 23 July 2018 at p 45-46; dated 24 July 2018 at p 38
+
+[^62]: NE dated 20 November 2018 at p 27
+
+[^63]: NE dated 20 November 2018 at p 30
+
+[^64]: NE dated 20 November 2018 at p 31
+
+[^65]: NE dated 26 June 2018 at p 43-45; NE dated 23 July 2018 at p 49; NE dated 25 July 2018 at p 29-31; NE dated 22 November 2018 at p 19-20
+
+[^66]: The Defence’s Written Submissions at \[27\]-\[28\]
+
+[^67]: The Defence’s Written Submissions at \[1\] - \[5\]
+
+[^68]: NE dated 11 March 2019 at p 85
+
+[^69]: NE dated 11 March 2019 at p 85- 86
+
+[^70]: NE dated 11 March 2019 at p 39-40
+
+[^71]: NE dated 11 March 2019 at p 86-87
+
+[^72]: NE dated 11 March 2019 at p 41
+
+[^73]: NE dated 11 March 2019 at p 90-91
+
+[^74]: NE dated 11 March 2019 at p 95-96
+
+[^75]: NE dated 11 March 2019 at p 111-112
+
+[^76]: NE dated 11 March 2019 at p 43
+
+[^77]: NE dated 14 March 2019 at p 38
+
+[^78]: NE dated 14 March 2019 at p 40-41
+
+[^79]: NE dated 13 March 2019 at p 102-103
+
+[^80]: NE dated 11 March 2019 at p 45
+
+[^81]: NE dated 11 March 2019 at p 47
+
+[^82]: NE dated 11 March 2019 at p 47
+
+[^83]: NE dated 12 March 2019 at p 5-6
+
+[^84]: NE dated 12 March 2019 at p 12
+
+[^85]: NE dated 12 March 2019 at p 21
+
+[^86]: NE dated 12 March 2019 at p 41-42
+
+[^87]: NE dated 14 March 2019 at p 11-12
+
+[^88]: NE dated 11 March 2019 at p 55
+
+[^89]: NE dated 13 March 2019 at p 88
+
+[^90]: NE dated 14 March 2019 at p 12-14
+
+[^91]: NE dated 12 March 2019 at p 69
+
+[^92]: NE dated 13 March 2019 at p 91-92
+
+[^93]: NE dated 12 March 2019 at p 61-62
+
+[^94]: NE dated 12 March 2019 at p 68
+
+[^95]: NE dated 12 March 2019 at p 63- 64
+
+[^96]: NE dated 12 March 2019 at p 65
+
+[^97]: NE dated 12 March 2019 at p 66
+
+[^98]: NE dated 12 March 2019 at p 38-39
+
+[^99]: NE dated 12 March 2019 at p 70-71
+
+[^100]: NE dated 12 March 2019 at p 44
+
+[^101]: NE dated 12 March 2019 at p 49-50
+
+[^102]: See \[78\] – \[79\], \[83\] – \[87\] of Prosecution’s Closing Submissions
+
+[^103]: Prosecution’s Reply Submissions at \[21\]
+
+[^104]: NE dated 21 June 2019 at p 7
+
+[^105]: NE dated 21 June 2019 at p 8-9
+
+[^106]: NE dated 21 June 2019 at p 41-42
+
+[^107]: _XP v PP_ <span class="citation">\[2008\] 4 SLR(R) 686</span> at \[21\], and _Goh Han Heng v PP_ <span class="citation">\[2003\] 4 SLR(R) 374</span> at \[33\]
+
+[^108]: <span class="citation">\[2018\] SGHC 125</span>
+
+[^109]: Prosecution’s Reply Submissions at \[12\]
+
+[^110]: NE dated 12 March 2019 at p 70-71
+
+[^111]: NE dated 11 March 2019 at p 90
+
+[^112]: NE dated 14 March 2019 at p 34
+
+[^113]: NE dated 11 March 2019 at p 45
+
+[^114]: NE dated 12 March 2019 at p 5-6
+
+[^115]: NE dated 11 March 2019 at p 30-31
+
+[^116]: NE dated 11 March 2019 at p 35-36
+
+[^117]: NE dated 12 March 2019 at p 11-13
+
+[^118]: NE dated 14 March 2019 at p 41
+
+[^119]: NE dated 12 March 2019 at p 12-13
+
+[^120]: NE dated 11 March 2019 at p 48
+
+[^121]: NE dated 11 March 2019 at p 47
+
+[^122]: NE dated 11 March 2019 at p 49 and 120
+
+[^123]: NE dated 11 March 2019 at p 121
+
+[^124]: See P8-1 to P8-7.
+
+[^125]: \[125\] – \[145\] of the Prosecution’s Closing Submissions
+
+[^126]: \[128\] – \[130\] of the Prosecution’s Closing Submissions
+
+[^127]: NE dated 22 November 2018 at p 8-12
+
+[^128]: NE dated 22 November 2018 at p 26
+
+[^129]: NE dated 22 November 2018 at p 30
+
+[^130]: The Defence’s Written Submissions at \[244\]
+
+[^131]: Prosecution’s Reply Submissions at \[35\]
+
+[^132]: NE dated 11 March 2019 at p 68
+
+[^133]: NE dated 12 March 2019 at p 54
+
+[^134]: NE dated 13 March 2019 at p 127
+
+[^135]: Plea in Mitigation at \[6\] - \[7\]
+
+[^136]: NE dated 30 September 2019 at p 20
+
+[^137]: Plea in Mitigation at \[8\]
+
+[^138]: NE dated 30 September 2019 at p 4
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F23780-SSP.xml)

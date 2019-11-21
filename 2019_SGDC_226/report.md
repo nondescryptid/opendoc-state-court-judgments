@@ -1,0 +1,119 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Muhammad Farhan bin Zaharudin  
+
+### \[2019\] SGDC 226
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">DAC-914024-2018</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">30 October 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Hamidah Bte Ibrahim</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Mr Chong Yong (DPP) for the Public Prosecutor; Accused in person</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Muhammad Farhan bin Zaharudin</td></tr></tbody></table>
+
+\[LawNet Editorial Note: An appeal to this decision has been filed in MA 9228/2019/01.\]
+
+30 October 2019
+
+### District Judge Hamidah Bte Ibrahim:
+
+Muhammad Farhan Bin Zaharudin, a 30 year old male, was convicted after a trial, on 1 charge of consuming, on or before 26 February 2018, methamphetamine, a specified drug, under Section 8(b)(ii) punishable under Section 33A(2) of the Misuse of Drugs Act (MDA), Chapter 185. This is a “Long Term Imprisonment 2” (LT2) charge as he had previously been convicted of a similar offence of consumption of morphine, a specified drug, a “Long Term Imprisonment 1” (LT1) charge, on 29 April 2015 under Section 33A(1) of the MDA and this conviction has not been set aside.
+
+2       The accused was sentenced to serve 7 years and 6 months imprisonment with the mandatory minimum 6 strokes of the cane. He is now appealing only against his conviction.
+
+## The Prosecution’s Case
+
+3       The prosecution called 13 witnesses to prove their case. They were mostly officers from the Central Narcotics Bureau (CNB), 2 analysts from the Health Sciences Authority (HSA), a doctor and a nurse from Khoo Teck Puat (KTP) hospital and a representative of the company, which supplied the catheter to the hospital. I shall begin with the arrest of the accused.
+
+#### Circumstances of Arrest
+
+4       Insp Lee Yong Sin, PW3, from the CNB was one of the arresting officers of the accused. In the arrest report, P3, which he made on the 26 of February 2018, he stated that a party of CNB officers went to Blk 157, Serangoon North Avenue 1, #XXX to look for one Ganesan s/o Chinnasamy on the said date. Ganesan refused to open the door. Eventually a locksmith was activated and forced entry was effected to gain access to the unit. Ganesan and the accused were inside the unit. The officers arrested Ganesan and the accused on suspicion of having consumed drugs. Drugs were found in the flat, which Ganesan said belonged to him. Both Ganesan and the accused told Insp Lee Yong Sin that they had consumed heroin about a week ago. The accused was then brought to Ang Mo Kio Police Division.
+
+#### The procurement of the Urine Samples
+
+5       At the said police Division, Sgt Tan Jian Bao (Sgt Tan), PW4, was the escorting officer and the Instant Urine Test (IUT) operator for the accused. He registered the accused’s particulars into the IUT machine at 5.16 pm. Sgt Tan’s name as the operator and his signature appears in the urine test result slip, P4. The accused was unable to provide his urine. He laid on the floor and an ambulance was called. Sgt Tan escorted him in the ambulance to KTP Hospital around 6 to 7 pm.
+
+6       While they were waiting for the doctor to attend to the accused, he was asked again to provide his urine sample but he was unable to do so. The accused was conscious but fell asleep a few times. Sgt Tan remained in the hospital until he was relieved by 3 other CNB officers, namely Insp Tan Kok Wee (Insp Tan), PW6, and SSSgt Michelle Tan, PW5, and Sgt Abdul Rahim, (Sgt Rahim) PW7, around 6 to 7 am the next day.
+
+7       These 3 officers waited for the doctor to confirm whether the accused could be discharged or warded. The accused was asked to provide his urine sample and he was brought to the handicapped toilet a few times. Before he was brought to the toilet, the accused was asked to select a master bottle with a red cap and 2 urine bottles with blue caps from a batch of not less than 20 new bottles for each type. The earlier team of CNB officers had brought these bottles to the hospital. The accused was given water to drink but he was unable to urinate and was returned to the hospital room. The accused agreed for a catheter to be inserted into him by the doctor for his urine to be procured as his bladder was full.
+
+#### The use of the catheter and urine bag
+
+8       Dr Wong Hang Ching (Dr Wong), PW11, was the doctor who inserted the catheter into the accused. He testified that it was because the accused could not pass urine. The 2 items used in the catheterisation process was the catheter which was inserted into the accused and the other was the urine bag, which is hooked to the catheter. He confirmed the contents of the written reports from KTP hospital, P7, P8 and P9 dated the 27 February, 5 July and 20 September 2018 which stated that the urethral catheter and the urine bag was a new set with no possibility of contamination. All substances used in the process of extracting the urine did not contain illicit drugs. The urine was collected in a clean, sterile bag and handed to the CNB officers. After sufficient urine had been collected, the catheter was removed and discarded. The accused was alert and conscious throughout the process.
+
+9       Insp Tan and Sgt Rahim observed the doctor and nurse, Ms Chan Kah Wen, PW12, attending to the accused and they had brought in new tubes and the urine bag. After the doctor had inserted the catheter into the accused’s body, they saw the accused’s urine flowing from the tube into the urine bag. Assisted by the nurse and wearing gloves, Insp Tan took the master bottle which the accused had selected earlier and poured some of the urine from the urine bag into the master bottle. This was around 11 am. The accused was conscious and laying on the bed. Thereafter, Insp Tan poured the contents from the master bottle into the 2 urine bottles which had blue caps, leaving some remaining in the master bottle. The 2 urine bottles were sealed and all 3 bottles were put inside a transparent bag in the presence of the accused and they remained with him. Subsequently, the doctor returned to remove the catheter and the accused was discharged.
+
+10     Upon being discharged from the hospital, Insp Tan and Sgt Rahim escorted the accused back to the police Station. Sgt Rahim siphoned some urine from the master bottle and conducted the instant urine test (IUT) in the accused’s presence. The result in P4 of the IUT indicated that the urine tested positive for amphetamines. The remaining 2 urine bottles with blue caps with the accused were sealed by Sgt Rahim. He first asked the accused to check his particulars on the HSA labels, which he had printed from the system. After the accused verified his particulars, Sgt Rahim sealed the 2 bottles in front of the accused. He took the metal security box from the freezer and told the accused to put the 2 bottles into the box, which the accused did. He put the box back into the freezer. The keys to the box are held by the HSA personnel and only they are able to unlock the box, according to Sgt Rahim.
+
+#### Analysis of the urine samples
+
+11     On the 28 of February 2018 the box, referred to in the above paragraph, containing the urine samples of the accused in 2 bottles were submitted to HSA for analysis. Ms Chan Si Jia, PW1, an analyst with the HSA, analysed one of them and issued a certificate dated the 2 March 2018, P1, under section 16 of the MDA indicating that methamphetamine was found in the sample. She testified that the consumption or use of methamphetamine would give rise to the presence of methamphetamine in the urine sample.
+
+12     Ms Goh Mei Ling Evelyn, PW2, the second analyst from HSA issued the second certificate dated the 3 March 2018, P2, under the same section, stating that upon analysis of the second sample it was found to contain methamphetamine. She added that the detection of methamphetamine in the urine sample was consistent with the consumption of methamphetamine. Both analysts found that the bottles were properly sealed, untampered and the accused’s personal particulars were on the printed labels on the bottles.
+
+#### Station Inspector Kevin Chiang (SI Kevin), PW9
+
+13     SI Kevin is the former investigating officer of the case. Upon receiving the HSA certificates, which indicated the presence of methamphetamine in the urine samples of the accused, he proceeded to charge the accused with 1 count of consumption of a specified drug. He was aware that a catheter was used to extract the urine from the accused. He checked with KTP hospital and was told that all the equipment used were brand new and sterilised. A further medical report, P9, dated 20 September 2018, was admitted too stating that the accused was alert and normal on the 26 February 2018 and that a new urethral catheter was used. SI Kevin also obtained a certificate of the previous convictions of the accused, which was admitted as P6. He recorded a further statement from the accused who maintained that he did not consume drugs.
+
+#### The catheter and the urine bag
+
+14     The Prosecution called Mr Melvin Tay Chong Guan (Mr Tay), PW10, a Business Director for South East Asia of Becton Dickenson as their next witness. His company was the manufacturer of the Foley catheter which was used by Dr Wong of KTP hospital on the accused on 27 February 2018. Mr Tay testified that his company supplied these catheters to all restructured hospitals in Singapore including KTP hospital and had been doing so for the last 15 years. Each catheter was individually packed and once used cannot be reused. It comes in a sealed package and it is sterile before it is used on any patient. In the course of manufacturing and packaging the catheters, no controlled substances like methamphetamine or illicit drugs were used from the beginning to the end. In the last 15 years, Mr Tay said that his company had not received any complaint that any of these catheters were contaminated with illicit substances or drugs.
+
+15     SSgt Low Zuhui (SSgt Low), PW13, the current investigating officer of the case, contacted the supplier of the urine bag, namely Biocare Global, that was used during the catheterisation of the accused. In their reply of 19 September 2019, P14, Biocare Global disclosed that they had been supplying sterile urine bags to hospitals in Singapore for the past 20 years. The material used in the manufacture of the urine bags does not contain drugs or chemicals.
+
+## The Defence
+
+16     The accused in his defence testified that he did not consume any drugs. He did not know why his urine samples tested positive for methamphetamine. His urine samples were procured from the bag and something could have been done to them. He claimed that he had been beaten up by CNB officers.
+
+17     In cross-examination, the prosecution referred the accused to the medical report, P9 and the clinical notes, P11, from KTP hospital on the 26 February 2018 admission and brought to his attention the fact that there was no record of him having informed the doctors that he had been assaulted, even though he claimed that he did. The accused agreed that he was conscious, was given breakfast and lunch at the hospital and that he was aware of the insertion of the catheter.
+
+## The Decision
+
+18     The accused has claimed trial to a consumption charge, an LT2 charge of having consumed methamphetamine, a specified drug, on or before 26 February 2018.
+
+19     I shall commence with the undisputed facts. Firstly, the accused was arrested on the said day on suspicion of having consumed drugs and brought to the Ang Mo Kio police division where attempts to procure his urine in the usual manner were not successful. He was brought to the KTP hospital where Dr Wong, PW11, inserted the catheter into him to drain his urine as he was unable to urinate and his bladder was full. His urine was collected into the urine bag and from this bag, Insp Tan, PW6, poured the contents into the master bottle and from this bottle into the 2 urine bottles with blue caps. After the IUT was positive, the 2 urine bottles were sealed and sent to the HSA for analysis. The 2 HSA certificates, P1 and P2, under section 16 of the MDA indicated that Methamphetamine, a specified drug, was found in these urine samples.
+
+20     The accused took issue with the manner in which his drug samples had been obtained. He raised the argument that the correct procedure had not been complied with, that the CNB officers had sabotaged him and that he should be granted a discharge amounting to an acquittal.
+
+21     The relevant provision with regard to urine samples is as set out under section 22 of the MDA, where it states that a person is presumed, until the contrary is proved, to have consumed a controlled drug in contravention of section 8(b) of the MDA, if that controlled drug is found in the urine of that person as a result of both urine tests conducted under section 31(4) (b). The prosecution concedes that the accused did not urinate directly into the master bottle, there was no washing of his hands prior to him being told to urinate and that his urine samples were taken from the urine bag.
+
+22     In this case, the urine was procured by Insp Tan, (after the insertion of the catheter) and having heard and considered his evidence I was satisfied that the accused was fully aware that Insp Tan was procuring his urine from the urine bag. This is because the accused had admitted that he remember the catheter being inserted, the urine bag was there and that his urine sample was taken from the said bag**[^1]**. It bears mentioning to add that it was Dr Wong’s evidence that the accused was alert and conscious**[^2]** during the catheterisation process. The accused has conceded too that it was his urine, which was in the urine bag**[^3]**. He also agreed that he had selected the master bottle and the 2 blue-capped bottles**[^4]**. He saw the pouring of the urine from the master bottle into the 2 blue-capped bottles**[^5]** and when he was discharged, the 2 bottles were with him**[^6]**.
+
+23     Insp Tan was not alone with the accused, when his urine was being procured and he provided a rather detailed account as to how he had done it. It was also the evidence of his colleague, Sgt Rahim, PW7, who was present with Insp Tan, that they saw the urine of the accused flowing from his body via the tube**[^7]** (the catheter) into the urine bag, the pouring of the urine into the master bottle and then into the 2 small, blue-capped bottles. The accused was conscious and alert and knew what was going on. The combined evidence of both officers were clear and credible that they had taken the urine samples of the accused from the urine bag. I do not find that either of them would lie on this score against the accused.
+
+24     After the IUT was conducted at the police division, the accused admitted that he did sign**[^8]** the 2 urine bottles, which were sent to the HSA for analysis. I have no doubt that the urine samples in the 2 small blue-capped bottles, sent to HSA, on 28 February 2018, were those of the accused. The 2 urine samples were analysed by the HSA and, in their 2 certificates, P1 and P2, they stated that methamphetamine, was found in the urine samples of the accused. This, according to the unchallenged evidence of both analysts, was consistent with the consumption of methamphetamine and since the urine samples were that of the accused, it would follow that he had consumed methamphetamine.
+
+25     The fact that the accused did not urinate directly into the master bottle did not mean that he had not consumed methamphetamine. There was a catheterisation procedure conducted by Dr Wong because the accused was unable to urinate despite several attempts. There was nothing insidious about the catherisation when Dr Wong testified that the equipment used was new and sterile. Mr Tay, PW10, the representative of the supplier company of the catheter, attested to the fact that the catheters come in a sealed package, are sterile and no illicit drugs are used in its manufacture**[^9]**. The position was the same for the urine bag. There was no evidence to suggest that the urine samples of the accused obtained in the catheterisation manner could have been contaminated.
+
+26     I now refer to the accused’s claim that his urine samples could have been sabotaged**[^10]** by the CNB officers. However, this was a far-fetched claim as the accused conceded that he did not know the CNB officers personally and that he had no evidence that the officers were actually against him**[^11]**. The accused had no acceptable explanation or raise anything relevant as to why methamphetamine was found in his urine samples except to repeatedly claim that he did not consume methamphetamine and ignoring the evidence of the HSA analysts, unchallenged, that the presence of methamphetamine in his urine samples is because methamphetamine had been consumed.
+
+27     Under these circumstances, I agree with the prosecution that there was ample and convincing evidence to find that the accused had consumed the methamphetamine knowingly as the said drug was detected in his urine samples and there is no explanation as to why methamphetamine, a specified drug, was found in his urine samples. There was no possibility that the urine samples provided by the accused and collected by Insp Tan from the urine bag on 27 February 2018 at the KTP hospital was contaminated and his urine samples had been properly analysed by the 2 HSa analysts, namely Ms Chan Si Jia, PW1 and Ms Goh Mei Ling Evelyn, PW2.
+
+28     Therefore, I was more than satisfied that the prosecution had proven its case beyond a reasonable doubt against the accused and I found him guilty and convicted him on the LT2 charge.
+
+## Conclusion
+
+29     Upon his conviction of the LT2 charge, I imposed a sentence of 7 years and 6 months’ imprisonment with the mandatory 6 strokes of the cane.
+
+30     The accused is currently serving his sentence, which was backdated to the 17 April 2018, as he had been in remand since this date.
+
+* * *
+
+[^1]: Day 2, page(pg) 71, line 4-11, Notes of Evidence (NE)
+
+[^2]: Day 2, pg 29, line 17-21, NE
+
+[^3]: Day 2, pg 78, line 10-21, NE
+
+[^4]: Day 2, pg 72, line 4-9, NE
+
+[^5]: Day 2, pg 72, line 27-29, NE
+
+[^6]: Day 2, pg 73, line 10-19, NE
+
+[^7]: Day 1, pg 74, line 9-2218, NE
+
+[^8]: Day 2, pg 87, line 12-14, NE
+
+[^9]: Day 2, pg 8, line 4-11, NE
+
+[^10]: Day 2, pg 82, line 5-13, NE
+
+[^11]: Day 2, pg 82, line 31 to pg 83, line 8, NE
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F23751-SSP.xml)

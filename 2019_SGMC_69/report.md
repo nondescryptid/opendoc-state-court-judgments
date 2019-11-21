@@ -1,0 +1,189 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Terence Siow Kai Yuan  
+
+### \[2019\] SGMC 69
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">MAC-902179-2019 &amp; Ors</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">08 November 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Kaur Jasvender</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Deborah Lee (16 August 2019) and Benedict Teong (25 September 2019) (Deputy Public Prosecutors) for the prosecution; Raphael Louis (Ray Louis Law Corporation)</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Terence Siow Kai Yuan</td></tr></tbody></table>
+
+\[LawNet Editorial Note: An appeal to this decision has been filed in MA 9232/2019/01.\]
+
+8 November 2019
+
+### District Judge Kaur Jasvender:
+
+1       The accused faced three charges under s 354(1) of the Penal Code (Cap 224) which were committed on 12 September 2018 against the same victim. The accused is an undergraduate, and was aged 22 years old, when he committed the offences. The prosecution proceeded with one charge, and on the application of the prosecution and with the consent of the accused, the remaining two charges were taken into consideration for the purpose of sentence (‘TIC charges’). The proceeded charge reads:
+
+> that you, on the 12th day of September 2018, at or about 11.40 pm while travelling up the escalator of Serangoon MRT Station toward the control station exit, Singapore, did use criminal force on one XXX, Female / 28 years old, to wit, by using a finger to touch her buttocks, intending to outrage her modesty and you have thereby committed an offence punishable under section 354(1) of the Penal Code, Chapter 224.
+
+Both TIC charges related to the accused touching the side of the victim’s right thigh with the back of his left hand.
+
+2       The prosecution sought a term of imprisonment of six weeks’. I rejected the submission. The accused was sentenced to 21 months’ supervised probation with the following conditions: 1) to remain indoors from 11pm to 6am, 2) to perform 150 hours of community service, 3) to attend an offence-specific treatment programme, 4) parents to execute a bond to give security in the sum of $5,000 to ensure accused’s good behaviour during probation. The probation officer was required to submit a progress update in four months. However, as the prosecution has now brought an appeal against the sentence, the commencement of the probation order was stayed.
+
+## Summary of facts
+
+3       On 12 September 2018 at about 11.25 p.m., the accused boarded a train on the North East Line towards Punggol MRT station. He saw the victim sitting down. He noticed that she was wearing shorts and had very long legs. He sat down beside her.
+
+4       The accused felt the urge to touch the victim. He used his left hand to touch the right side of the victim’s right thigh. The victim shifted and crossed her right thigh over her left leg. The accused used his left hand to touch the right side of the victim’s right thigh again. The victim then moved one seat away from the accused.
+
+5       The victim alighted at Serangoon MRT station. The accused alighted at the same station. He followed her as he felt the urge to touch again. The accused followed the victim to an ascending escalator and stood behind her. He used one finger to touch the victim’s buttock over her shorts. The victim immediately turned around and saw the accused. She shouted at him. He quickly walked to the control station. The victim informed the station officer that she had been molested. The accused hastened to exit the control station and left Serangoon MRT station. The station officer notified the Police.
+
+## Address on sentence
+
+6       In arguing for a six weeks’ imprisonment term, the prosecution referred to the unreported case of _PP v Seah Cheng Chuan_ (SC-903202-2018) where the offender pleaded guilty to one charge of forcefully grabbing the victim’s buttock when the victim exited the train. Another two charges of grabbing the victim’s buttock when the train was in motion were TICed. After the third act, the victim grabbed the accused’s right hand but he shrugged it off and fled. The offender was sentenced to six weeks’ imprisonment. It was submitted that the present case was a “similar situation” as it occurred on a public transport vehicle, it concerned the same body part and the accused had also left the scene. It was submitted that the level of intrusion was the same as it involved the same body part.
+
+7       In addition, the prosecution referred to the case of _Kunasekaran s/o Kalimuthu Somasundara_ <span class="citation">\[2018\] 4 SLR 580</span> (‘_Kunasekaran_’) and submitted that the offence fell at the higher end of Band 1 of less than five months’ imprisonment, as there was contact with the victim’s buttock. It was submitted that the offence was aggravated by the fact that it took place at a public transport station and the TIC charges occurred on a public transport vehicle, the accused had followed the victim, and he hastily left the scene.
+
+8       With respect to the six-month suspension imposed by the National University of Singapore (‘NUS’), it was submitted that this was irrelevant as it was part of the consequences which followed the commission of the offences (see _Stansilas Fabian Kester v PP_ <span class="citation">\[2017\] 5 SLR 755</span> at \[110\] & \[111\]).
+
+9       In arguing against probation, it was highlighted that the accused was 22 years of age at the time of the offences and was therefore an adult offender. It was submitted that the granting of probation to an adult offender is an exception and not the norm. It was submitted that the accused had not demonstrated an extremely strong propensity for reform because his past successes of touching females on public transport had emboldened him to repeat his actions on other victims. In this regard, reference was made to the accused’s admission to the probation officer that he touched other females while taking public transportation since he started his university education in August 2016. It was said that it demonstrated a recurring and possibly deep-seated habit of the accused. It was submitted that he had not sought help earlier for his actions but did so only after he was referred to counselling by the university’s board of discipline.
+
+10     The positive reports of his college teacher and NS commanders were dismissed as being ‘dated’.
+
+11     As regards the nature of the offence, it was submitted that outrage of modesty offences are very serious, particularly so when the offence takes place on public transport. Reference was made to the judgment in _Kunasekaran_ where the High Court stated at \[58\] that general deterrence should be the predominant sentencing consideration for such cases. It was also emphasised that the accused had ‘actively’ followed the victim onto the escalator to outrage her modesty again.
+
+## Mitigation
+
+12     The accused comes from a humble background. He lives in a three-room HDB flat with his parents. He is the only child. He is close to his parents. He is pursuing an Honours degree in Applied Mathematics at NUS.
+
+13     The accused’s cooperation in the course of investigations and plea of guilt were emphasised.
+
+14     During his free time, the accused engages in volunteer work. In 2016, he volunteered for the Association for Persons with Special Needs (‘APSN’) where he was involved in the planning and execution of games at the APSN Carnival. In 2013, he was involved in the Go Green Day 2013, an event organised by the College to collect old clothes and newspapers to raise funds for charitable organisations.
+
+15     In College, he was serious and highly focused. He has the discipline and determination to achieve the goals that he sets for himself. He was respectful to his teachers. He was unassuming and always willing to offer a helping hand.
+
+16     With respect to the TIC offences, the accused used the back of his left hand to touch the right side of the victim’s thigh twice. As for the proceeded charge, he alighted at the Serangoon MRT station as that was his usual stop to take a direct bus (Service No. 101 or 153) home from the bus stop just outside the MRT. While travelling on the escalator up to the gantry, he was standing two steps behind the victim on the escalator. The accused again had the sudden urge to touch the victim. The touch was described to be ‘light’.
+
+17     The accused was referred to the NUS University Counselling Services (‘UCS’) on 9 January 2019 by the NUS Board of Discipline. The counselling report states that the accused was ‘open in his disclosures during sessions and demonstrated a willingness to work on treatment issues.’ He has been attending counselling sessions since then. He also registered for psychiatric treatment at NUS University Health Services. The defence was unable to tender the psychiatric report as it was not released by NUS.
+
+18     Learned counsel urged me to accept the recommendation of the probation officer. In the alternative, he submitted that the accused’s offence should fall at the lower end of Band 1. He submitted that the imprisonment term should not exceed three weeks’. He referred to the case of _PP v Yeo Loo Yee_ <span class="citation">\[2016\] SGMC 42</span> where the 23-year-old offender had bumped into the left buttock of the victim at least two to three times. She then moved slightly to create more space. Nonetheless, the accused persisted in his acts of molestation and touched the victim two more times with his hands (see \[120\] of GD). He was convicted after a trial of an offence under s 354(1) and sentenced to four weeks’ imprisonment. He had a similar antecedent under s 354(1) committed on board public transportation where he was placed on 15 months’ probation. He committed the subsequent offence about four months into the probation order.
+
+## Sentence
+
+19     There is no specified minimum or mandatory sentence for s 354(1) Penal Code. It provides for an imprisonment term of up to two years or with fine or with caning.
+
+20     The classical principles for determining the type of sentence are retribution, deterrence, prevention and rehabilitation. The principles that are most relevant and have the greatest importance in a case would substantially impact the type and extent of sentence imposed: see _PP v Tan Fook Sum_ \[1999\] 1 SLR(R) 814. For offenders aged 21 and below, the presumptive primary sentencing consideration is rehabilitation. The accused was just above the threshold. He was 22 years old when he committed the offences.
+
+21     The sentencing options available were a sentence of a fine, a term of imprisonment or a probation order. In ascertaining the appropriate sentence, the primary focus was to seek the right balance between the twin considerations of deterrence and rehabilitation.
+
+22     The offender’s age is not determinative of the appropriate sentence and the court must examine all the facts in the individual case (see _Goh Lee Yin v Public Prosecutor_ <span class="citation">\[2006\] 1 SLR(R) 530</span> at \[28\] and _A Karthik v Public Prosecutor_ <span class="citation">\[2018\] 5 SLR 1289</span> at \[32\] (‘_Karthik_’)). Under s 5(1) of the Probation of Offenders Act (Cap 252, 1985 Rev Ed) (“the POA”) a court may impose a probation order when a person is convicted of an offence (not being an offence the sentence for which is fixed by law) if it is of _‘the opinion that having regard to the circumstances, including the nature of the offence and the character of the offender, it is expedient to do so.’_ Thus, the appropriateness of probation is a question which turns on all the attendant relevant circumstances of each case, which includes the offence and offender.
+
+23     Nonetheless, age is a critical factor and the imposition of probation for adult offenders is the exception rather than the norm (see _Public Prosecutor v Lim Chee Yin Jordan_ <span class="citation">\[2018\] 4 SLR 1294</span> at \[34\] (“_Jordan_”) and _Karthik_ at \[33\] and \[44\]). In _GCO v Public Prosecutor_ <span class="citation">\[2019\] 3 SLR 1402</span> (‘_GCO_’), the approach was summarised as follows at \[34\]:
+
+> What is required, however, is that the offender demonstrate an extremely strong propensity for reform, or that there be exceptional circumstances warranting the grant of probation: _Jordan Lim_ at \[33\], citing _Goh Lee Yin v PP_ <span class="citation">\[2006\] 1 SLR(R) 530</span> (“_Goh Lee Yin_”). Moreover, even if rehabilitation is found to apply, it can be displaced by the need for deterrence. Deterrence would become relatively more prominent, and rehabilitation correspondingly less so, if the offence is serious or the harm caused is severe, amongst other considerations: _Jordan Lim_ at \[35\]. Rehabilitation would come to the fore, and deterrence recede in significance if the offender suffers from a mental condition causally linked to the commission of the offence: _Jordan Lim_ at \[37\].
+
+24     To justify the imposition of probation for an adult offender, the accused would first have to demonstrate an “extremely strong propensity for reform”. Even if the accused were found to possess strong potential for rehabilitation, it can be eclipsed or diminished by considerations of deterrence or retribution if the circumstances warrant. In _Jordan_, it was held that broadly speaking, this happens in cases where (at \[35\]):
+
+> (a) the offence is serious; (b) the harm cause is severe; (c) the offender is hardened and recalcitrant; or (d) the conditions do not exist to make rehabilitative sentencing options viable. Thus, the imposition of probation is unlikely to be appropriate where there are serious charges even where rehabilitation is an important consideration; in such cases the principle of deterrence requires that a strong deterrent message be sent to others (see _Al-Ansari_ \[29\] supra) at \[72\]). Generally, therefore, probation would not be considered where the offence is a serious one.
+
+25     I turn now to apply the above principles to the facts of the instant case.
+
+## The seriousness of the offence (Offence-specific factors)
+
+26     The three main categories of offence-specific factors which bear upon the assessment of the seriousness of the offence based on the framework applied in _Kunasekaran_ are the degree of sexual exploitation, the circumstances of the offence and the physical or psychological harm caused to the victim.
+
+#### (1) Degree of sexual exploitation
+
+27     The degree of sexual exploitation includes considerations of the part of the victim’s body that was touched, how it was touched and the duration of the outrage of modesty.
+
+28     For both the proceeded and TIC charges, there was no intrusion of the private parts. For the proceeded with charge, there was no skin-to-skin contact. It involved a touch with one finger on the buttock over the shorts. For the two TIC charges, the accused touched the outer side of the right thigh with the back of his left hand. The prosecution was unable to state how high or low the touch was. The learned DPP Lee stated that the victim “did not make a mental note of which part of the thigh was being touched”.
+
+29     As for the manner and duration of the touch on the buttock, the mitigation described it as a light and brief touch. The prosecution did not take issue with the description. For the TIC charges, the touches were clearly momentary as the victim was uncertain if the touches were accidental or otherwise.
+
+30     Accordingly, I determined that the degree of sexual exploitation was low.
+
+#### (2) Circumstances of the offence
+
+31     I turn now to the circumstances of the offences. These include considerations of: a) the presence of premeditation, b) the use of force or violence, c) the abuse of a position of trust, d) the use of deception, e) the presence of other aggravating acts accompanying the outrage of modesty, and f) the exploitation of a vulnerable victim.
+
+32     The first factor is the venue. The offences were committed on board the train and at the train station. I agreed that this was an aggravating factor as commuters who use the public transport must be able to feel safe when doing so. This was recognised in _Kunasekaran_ to be an aggravating factor.
+
+33     The second aggravating factor suggested by the prosecution is that the accused had ‘actively’ followed the victim to the escalator. The statement of facts states at paragraph 7: “_The accused saw the victim alighting and proceeded to alight as well. The accused then followed the victim as he felt the urge to touch her again._” The first sentence gives the impression that the accused alighted only because he saw the victim alighting. However, the prosecution confirmed that it does not dispute that the accused had as a matter of fact intended to alight at Serangoon MRT Station where the victim alighted.
+
+34     Based on paragraph 8 of the statement of facts, the offence was committed on the escalator which led to the MRT station gantry. Passengers in the same train compartment will ordinarily take the same escalator to exit the station gantry. There is nothing to suggest that the accused had gone out of his way to follow the victim to the same escalator.
+
+35     The third aggravating factor submitted by the prosecution was that the accused hastily exited after the victim reported the incident to the station officer. There was no attempt made to detain the accused. I did not agree that the fact that the accused quickly left was by itself an aggravating factor.
+
+#### (3)   Harm caused to the victim
+
+36     Whilst such an offence naturally causes distress and anxiety to women, there was no victim statement tendered and the statement of facts also does not state that the victim suffered from psychological trauma as a consequence of the incident. There was therefore no ‘severe harm’ (see _Jordan_).
+
+#### The appropriate sentencing band
+
+37     It was agreed by the parties that the case fell within Band 1 of the _Kunasekaran_ framework. Cases that fall within Band 1 may be dealt with by a fine or up to five months imprisonment.
+
+38     I found the reliance by the prosecution on the decision in _Seah Cheng Chuan_ to seek a similar sentence on the ground that the level of intrusion was the same as it involved the same body part to be fundamentally flawed. There, the 24 year-old-offender, within the space of about 14 minutes, grabbed the buttock of the victim thrice on board the train. Initially, the victim felt something brushing against her upper left thigh, but she brushed it off as an accidental touch as the train was packed. Subsequently, he grabbed her buttock twice when the train was in motion. When the doors opened, the offender forcefully grabbed her left buttock. She held him by his hand but he struggled and managed to free himself. The case is clearly distinguishable. It involved a greater degree of sexual exploitation as it involved the forcible act of grabbing. Further, the victim’s buttock was targeted thrice. In contrast, the present case involved a light and brief touch with one finger on the buttock and two momentary touches to the outer thigh.
+
+39     As regards _Yeo Loo Yee_ who received four weeks’ imprisonment after a trial, the prosecution distinguished it on the basis that it was ‘limited to a brief moment on the MRT train’. This submission does not accord with the findings of the learned district judge at \[115\] of the judgment where he stated: “_The acts complained of in this case are not a mere slap on the victim’s buttock. The molestation comprised a series of sustained acts by the accused in touching the victim’s left buttock with his body part and then his hand_.” In addition, the offence was committed during his probation order for two similar offences.
+
+40     Cases illustrative of where fines were imposed include _Teo Keng Poh v PP_ <span class="citation">\[1996\] 2 SLR(R) 890</span> (‘_Teo Keng Poh’_), _Soh Yang Tick v PP_ <span class="citation">\[1998\] 1 SLR(R) 209</span> (‘_Soh Yang Tick’_) and _Ng Chiew Kiat v Public Prosecutor_ \[1993\] 3 SLR(R) 927 (‘_Ng Chiew Kiat’_). In _Teo Keng Poh_, a tuition teacher was fined $500 on each charge for four charges of caressing a student’s thigh and a fifth charge of caressing her thigh and squeezing her back. In _Soh Yang Tick_, an employer was fined $2,000 for slapping his secretary’s buttock lightly on the spur of the moment. In _Ng Chiew Kiat_, an employer was fined $4,000 for grabbing his foreign domestic worker’s buttock. In these three cases, the High Court set aside the terms of imprisonment as the offences were deemed to involve relatively minor acts of molest. These cases were referred to in _Kunasekaran_ and it is not stated in the judgment that these cases should no longer provide guidance.
+
+41     In the present case, there was no abuse of a position of authority and the victim was not vulnerable. For the proceeded with charge, it did not involve an act of grabbing or slapping which are more intrusive acts. It involved a brief and light touch with one finger. In addition, the two TIC charges involved momentary touches to the side of the thigh unlike that in _Teo Keng Poh_ where there was caressing. Further in _Teo Keng Poh_, there were five charges in all involving the thigh.
+
+42     Nonetheless, based on the venue and that there were three offences against the victim, I agreed that the custodial threshold was crossed. I did not agree that it fell within the higher end of Band 1. In my view, it fell at the lower end of Band 1, i.e. an imprisonment term of one week, or two weeks’ at its highest.
+
+## Offender-specific factors
+
+43     I turn now to consider the offender-specific aggravating and mitigating factors.
+
+#### The relevance of the accused’s admission to past offences
+
+44     The prosecution relied on the accused’s frank admission to the probation officer that he had previously touched other females in crowded buses or trains but managed to escape detection. He reported that this behaviour started when he commenced university in August 2016. It was submitted that this ‘demonstrates a recurring and possibly deep-seated habit of the accused’.
+
+45     Any sentence imposed must always be based on established principles of law. The accused can only be sentenced for the offence which he has pleaded guilty to and consented to TIC. In this regard, it was stated in _Vasentha d/o Joseph v Public Prosecutor_ <span class="citation">\[2015\] 5 SLR 122</span> (‘_Vasentha_’) at \[62\]:
+
+> In my judgment, an offender cannot be punished for conduct which has not formed the subject of the charges brought against him; he can only be sentenced for offences of which he has been convicted, either by trial or a plea of guilt, and in doing so, regard may properly be had only to any other charges which the accused has consented to being taken into consideration for the purpose of sentencing.
+
+46     The accused’s admission can only be used to negate the mitigating weight that this was his first or only offence and cannot be treated as an aggravating factor (see \[59\] of _Vasentha, PP v Tan Thian Earn_ <span class="citation">\[2016\] 3 SLR 269</span> at \[61-62\] and _Chong Yee Ka v PP_ <span class="citation">\[2017\] SGHC 47</span> at \[47\].)
+
+#### The TIC charges for the purposes of sentence
+
+47     In _Ng Kean Meng Terence v Public Prosecutor_ <span class="citation">\[2017\] 2 SLR 449</span> (‘_Terence Ng_’) it was held that ‘While a court is not bound to increase a sentence merely because there are TIC offences, it will normally do so where the TIC offences are of a similar nature…”. The two TIC charges are identical and against the same victim. In view of the relatively minor nature of the intrusions, I determined the enhancement of the sentence to be limited.
+
+#### Plea of guilt and cooperation with authorities
+
+48     In _Kunasekaran_, it was explained that the plea of guilt is “regarded as a mitigating factor that might entitle an offender to a reduced sentence because the plea of guilt: (a) can be a subjective expression of genuine remorse and contrition, which can be taken into account as a personal mitigating factor; (b) spares the victim the ordeal of having to testify, thereby saving the victim the horror of having to relieve the incident; and (c) saves the resources of the State which would otherwise have been expended if there were a trial…”
+
+49     The prosecution submitted that the plea of guilt should be given limited mitigating weight because the police were able to trace the accused and the victim was also able to identify him. Whilst that was so, to the credit of learned DPP Lee, she frankly disclosed that the victim was uncertain if the two TIC offences were accidental or otherwise.
+
+50     The accused pleaded guilty without any pre-trial conference being fixed. There was clear saving of resources and the victim was spared from having to testify. Based on the probation report, the investigation officer reported that the accused was co-operative during investigations. I was satisfied that the plea of guilt was motivated by regret and to facilitate the administration of justice. Accordingly, I accorded weight to the guilty plea.
+
+## The purpose of sentence – choice of sentencing principle
+
+51     Deterrence is ordinarily the dominant sentencing consideration for offences of outrage of modesty committed on public transport. Whilst the offence was serious in nature, the nature of the intrusions were relatively minor and fell at the low end of Band 1. Accordingly, I determined that rehabilitation should be given prominence notwithstanding any countervailing need for deterrence.
+
+52     I now examine whether the accused possesses the necessary characteristics and support to justify probation.
+
+#### The accused’s strong potential for reform
+
+53     The accused has a close relationship with his mother and a cordial relationship with his father. He is receptive to their advice.
+
+54     In 2012 and 2013, he was studying in a junior college. His conduct was excellent. He was described by his civics tutor to be unassuming and respectful towards his teachers. He got along well with his peers and was willing to offer a helping hand to others. He was described to be a joy to teach.
+
+55     Between February 2014 and December 2015, he performed his National Service. His overall performance and conduct was rated as very good. He was noted to be a responsible soldier who was supportive and helpful to his company mates and commanders. He strived for excellence at any given opportunity and always gave his best.
+
+56     In August 2016, he started pursuing a major in Maths at the NUS. In addition, he also did 13 hours of volunteer work as an ASPN volunteer in 2016.
+
+57     As regards his attitude towards his offending, the UCS report states that the accused was ‘open in his disclosures during sessions and demonstrated a willingness to work on treatment issues.’ He also expressed remorse and regret for his actions.
+
+58     Similarly, the probation officer stated that the accused acknowledged his mistakes and the hurt that he caused the victim and his parents for his offending behaviour. He came clean and confessed to all that he had done prior to his arrest.
+
+59     The Report states several strengths and protective factors as follows:
+
+> ·    Terence received positive reports from the school and camp authorities. His good behaviour across various settings suggests an ability to behave pro-socially when guided closely.
+
+> ·    Good academic performance in school highlights his potential to excel in life.
+
+> ·    Expressed willingness to receive offence-specific intervention.
+
+> ·    Adherence to trial time restriction shows his capacity to be responsible and disciplined.
+
+> ·    Parents’ willingness to improve their parenting skills and communication and the absence of other anti-social behaviours improves his rehabilitation prognosis in the community.
+
+60     The probation officer recommended that the during the 21-month probation, the accused be referred to an offence-specific treatment programme to address his distorted cognitions about social boundaries and to teach appropriate social skills and age-appropriate sexual practices. I agreed with this recommendation as the accused is clearly not matured to handle his sexuality.
+
+## Conclusion
+
+61     The accused was just above the threshold of 21 years of age at the time of the commission of the offences which fell at the low end of Band 1. I was satisfied that the principle of rehabilitation was suitably engaged and the appropriate intervention was a term of probation, subject to the conditions recommended in the Report. The order of probation should not be seen as a soft option. During the period of 21 months, the accused would have to perform 150 hours of community service, be subjected to a time curfew and attend offence-specific treatment programmes which will address any risk of reoffending and enable him to be a useful member of society. In my view, this will be in the best interests of not only the accused but of society.
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F23800-SSP.xml)

@@ -1,0 +1,2246 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Cheng Kim Han Stanley  
+
+### \[2019\] SGMC 66
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">MAC 906075-2017 and Others, Magistrate's Appeal No. 9237/2019/01</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">29 October 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">Magistrates Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Edgar Foo</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">DPP Asoka Markandu for the Public Prosecutor; Mr T.M. Sinnadurai (Regent Law LLC) for the Accused</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Cheng Kim Han Stanley</td></tr></tbody></table>
+
+\[LawNet Editorial Note: An appeal to this decision has been filed in MA 9237/2019/01.\]
+
+29 October 2019
+
+### District Judge Edgar Foo:
+
+## A.   Introduction
+
+1       The Accused, a 44 year old male Singaporean, had claimed trial to the following charges:-
+
+1ST CHARGE – MAC 906075-2017 (Amended)
+
+> You … are charged that you, on the 28th day of November 2016, at or around 8.55 pm, inside a bedroom at XXXXXXX, Singapore, did use criminal force on one XXXXX, female / 23 years old, a domestic maid employed to work in your household, to wit, did place your head on her right shoulder, knowing it to be likely that you would thereby outrage her modesty, and you have thereby committed an offence punishable under section 354(1) read with section 73(1)(c) and section 73(2) of the Penal Code, Chapter 224.
+
+2 ND CHARGE – MAC 906076-2017 (Amended)
+
+> You… are charged that you, on the 29th day of November 2016, at or about 5.42pm, in the toilet of the master bedroom at XXXXXXX, Singapore, did use criminal force on one XXXXX, female / 23 years old, a domestic maid employed to work in your household, to wit, you hugged her from behind and used the fingers of your left hand to press her right breast (from outside of her clothes), knowing it to be likely that you would thereby outrage her modesty, and you have thereby committed an offence punishable under section 354(1) read with section 73(1)(c) and section 73(2) of the Penal Code, Chapter 224.
+
+## B.   Punishment Prescribed by Law
+
+2       The punishment prescribed under section 354(1) of the Penal Code (Cap 224) is imprisonment for a term which may extend to 2 years, or with fine, or with caning, for with any combination of such punishments.
+
+3       Section 73 of the Penal Code (Cap 224) further states that where an employer of a domestic maid or a member of the employer’s household is convicted of an offence of using criminal force to any domestic maid employed by the employer, the court may sentence the employer of the domestic maid or the member of his household as the case may be to one and a half times the amount of punishment to which he would otherwise have been liable for that offence.
+
+4       At the conclusion of the trial, I found the Accused guilty and convicted him of both the charges.
+
+5       After hearing the Prosecution’s address on sentence and the Defence’s mitigation plea, I imposed the following sentences on the Accused:-
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="33.3382921749479%"> <col width="33.3234156501041%"> <col width="33.3382921749479%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>S/No.</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Charge No.</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Sentence</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">1.</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">MAC 906075-2017</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">$5000 fine in default 5 weeks’ imprisonment</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">2.</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">MAC 906076-2017</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">11 months’ imprisonment with 3 strokes of the cane</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">&nbsp;</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Total Sentence:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">11 months’ imprisonment with 3 strokes of the cane and $5000 fine in default 5 weeks’ imprisonment</p></td></tr></tbody></table>
+
+  
+  
+
+6       The Accused being dissatisfied with my decision, has filed his Notice of Appeal against conviction and sentence. Accordingly, I set out my reasons for both the conviction and sentence.
+
+## C.   The Undisputed Facts
+
+7       The Prosecution had called on 4 witnesses in their case against the Accused. They are:
+
+> a.     PW1 – XXXXX, the Victim
+
+> b.     PW2 – SI Chan Zhi Yao, the Investigating Officer
+
+> c.     PW3 – Naomi Biak Thawng Iang, the trainer from the maid agency
+
+> d.     PW4 – Sherlin Low Yee Huang, the manager from the maid agency
+
+8       In addition to the 4 witnesses, the Prosecution had also tendered 21 exhibits which included CCTV footages[^1] taken from video cameras installed in the Accused’s house and translation of conversations taken from the CCTV footages[^2].
+
+9       As for the Defence, the Defence had called only the Accused to give evidence in his defence. The Defence had also tendered a total of 24 exhibits as part of their case.
+
+10     The following undisputed facts have been adduced at the hearing:
+
+> a.      **Relationship between Accused and PW1**
+
+> i.     The Accused is a 44 year-old male Singaporean citizen. He has been working as an air traffic controller with the Civil Aviation Authority of Singapore for over 20 years[^3].
+
+> ii.     The Accused is the registered employer of the victim, PW1, with the Ministry of Manpower[^4]. XXXXXX Pte Ltd is the employment agency which had arranged for PW1 to work in Singapore[^5].
+
+> iii.     PW1 is a Myanmar national. She was 23 years old when she came to Singapore to work for the Accused. It is also undisputed that this was PW1’s 1st trip out of Myanmar[^6].
+
+> iv.     Under the terms of employment between the Accused and PW1, PW1 is to work for the Accused as a domestic worker for a period of 24 months starting from 22 September 2016 and she is to be paid a salary of $450 a month plus $70 for day-off compensation[^7].
+
+> v.     PW1 had taken a loan from Myanmar in order to come to Singapore to work and she is supposed to use her salary for the 1st 7 months of her employment to pay off her loan. As such, she is supposed to receive the following amounts of salary every month:
+
+>> a.       For the 1st 2 months, a sum of $34 a month;
+
+>> b.       From the 3rd to 7th month, a sum of $44 a month; and
+
+>> c.       From the 8th month to the 24th month, $520 every month[^8].
+
+> vi.     The Accused had not paid PW1 her monthly salary of $34 amount even though she had worked for him for more than 2 months[^9]. There are no terms in the employment contract to allow the Accused to withhold PW1’s salary[^10] nor is there any agreement between the parties for the Accused to withhold PW1’s salary[^11]. In the present case, it is not disputed that the Accused did not pay PW1 her salary since she started work for him and he was holding on to the same[^12].
+
+> vii.     The employment contract also allows either party to terminate the contract by giving the other party one month’s notice. Either party may also terminate the contract without notice if the other party is in breach of the work permit conditions. When that happens, it is the Accused’s responsibility to bear the cost of repatriating PW1 back to Myanmar[^13].
+
+> viii.     It was also a term of the employment contract that the Accused is to arrange for PW1 to call home to Myanmar at least once a month[^14]. PW4 also confirmed that she did tell all employers to allow their maids to call home once a month and it is the employer’s responsibility to ensure that this is done[^15]. However, the Accused had not offered PW1 the opportunity of calling home to Myanmar[^16]. The 1st time that PW1 had asked/requested the Accused to call home was on 29 November 2016 at around 17:32:46 hours. It is also clear from the CCTV footage/video recording that PW1 was not afraid to ask the Accused for permission to call home[^17].
+
+> ix.     It is written in the employment contract that the Accused is supposed to provide PW1 with suitable accommodation in accordance with MOM guidelines and it is stated in the employment contract that PW1 is supposed to share a room with the 2 children[^18]. However, it is clear from the evidence that PW1 was sleeping in the living room rather than with the children[^19]. It is also clear from the evidence that PW1 had never complained to the Accused about her sleeping arrangement all these while[^20].
+
+> b.      **Circumstances surrounding the alleged offences**
+
+> x.     At the time of the 2 offences, the Accused and PW1 were alone at home. The rest of the Accused’s family had gone to China for a holiday. They had flown off at about 3 am on 27 November 2016[^21].
+
+> xi.     PW1 had started work with the Accused and his family on 22 September 2016[^22]. From the evidence, it can be seen that PW1 was the 3rd foreign domestic maid that the Accused had engaged[^23].
+
+> xii.     PW1 had worked for the Accused for a period of 2 months and 1 week before the alleged incidents on 28 November 2016 and 29 November 2016[^24]. During this period, the Accused had reprimanded PW1 twice during the 2nd month of employment[^25], once when she did not follow the Accused’s wife’s instructions and the second time when she failed to wake up in time to get the children ready for school. On the 1st occasion, PW1 had pulled a long face when she was reprimanded and on the 2nd occasion, she teared after being reprimanded[^26]. However, despite being reprimanded, PW1 had maintained a chirpy and happy demeanour[^27].
+
+> xiii.     The Accused was on child-care leave on 26 November 2016. 27 November 2016 was his off-day from work. The Accused worked from 11pm on 28 November 2016 till 9 am on 29 November 2016 and he did not work the rest of the day on 29 November 2016[^28].
+
+> c.      **CCTVs in the Accused’s residence**
+
+> xiv.     It is not disputed that the Accused’s residence is fitted with CCTVs. The Accused’s residence is fitted with 5 CCTVs. Three of the CCTVs, namely the ones in the living room, dining room and master bedroom are fitted with SD cards and comes with recording facilities. There are 2 other CCTVs, one in the kitchen area and the other in the children’s bedroom which do not have recording functions but it comes with live viewing capability which allows the Accused to view what is going on in these 2 areas remotely[^29].
+
+> xv.     The Accused is the only person who has complete knowledge of the home CCTV system as he was the one who had given instruction to the contractor on the installation of the CCTV system. The Accused had also not shared any of this knowledge with PW1[^30].
+
+> xvi.     There are no CCTVs installed in the Bedroom 2, which is the grandfather’s bedroom and the Master Bedroom toilet where the 2 alleged incidents took place[^31].
+
+> xvii.     The Accused was the one who retrieved the SD cards and he handed the same to the police after the alleged incidents[^32].
+
+> d.      **PW1’s Personality/Demeanour**
+
+> xviii.    It is very clear from the evidence (ie the CCTV recordings) that PW1 is a very happy and easy going person. She is very chirpy by nature. She likes to sing[^33] to herself and she likes to make funny noises and mimic sounds like that of the doorbell[^34].
+
+> xix.     It is also very clear from the CCTV recordings that PW1’s demeanour remained the same throughout the 2 days from 28 November 206 to 29 November 2016 in that she was happy and chirpy up to the point the Accused left the house at 17: 44:00 hours on 29 November 2016.
+
+> xx.     It is also very clear that PW1’s demeanour changed shortly after the Accused left the house on 29 November 2016. The video recording from the living room at 17:59:18 clearly showed PW1 mopping the living room and looked very disturbed and troubled[^35]. And when the Accused returned home at around 21:03:46 that night, he found PW1 crying in the kitchen and she had asked him to call her agency instead of calling home[^36]. This is also confirmed by the Accused in his evidence in chief where he said that “… _prior to me leaving the house she was just so chirpy and asking to call back home. And when I come home, there is a sudden change and I couldn’t’ understand why there was a change_”[^37]. This fact is also corroborated from the Accused’s conversation with PW3 where the Accused told PW3 “ _Hello. Hi. Is that Naomi ? Can you speak English ? I have a Myanmar maid at home. Just now, I went out. When I came back, she was all alone at home. She started crying and she tell me she want to go back to agency. I ask her why but she don’t know how to tell me. Can you talk to her and you tell me why what is wrong with her_?”[^38]
+
+> e.      **What PW1 told the Accused**
+
+> xxi.     It is also clear from the evidence that PW1 never told the Accused that she was homesick and that it was PW3 who had told the Accused that PW1 was homesick[^39]. PW1 merely told the Accused that she had wanted to go back to the maid agency[^40].
+
+> xxii.     It is also clear from the evidence that PW1 did not inform the Accused of the allegations against him. PW3 also did not inform the Accused of the allegations made by PW1 other than the fact that she was homesick[^41]. The person who had informed the Accused of the allegations was PW4[^42]. PW4 had also advised the Accused to bring PW1 down to the police station and to file a police report in view of the nature of the allegation. The Accused had also admitted that he initially had no intention of going to the police station himself[^43] but he had decided to do so upon PW4’s advice.
+
+> xxiii.    The Accused subsequently filed his police report on 30 November 2016[^44] and he also handed the SD cards to the police on the same day[^45].
+
+## D.   The Prosecution’s case
+
+## a.    With regard to the 1st charge (MAC 906075-2016)
+
+11     The 1st charge against the Accused is that on 28 November 2016, at around 8.55 pm, inside Bedroom 2[^46], the Accused had used criminal force on PW1 by placing his head on her right shoulder, knowing it to be likely that he would outrage her modesty and he had thereby committed an offence punishable section 354(1) read with section 73(1) and section 73(2) of the Penal Code (Cap 224).
+
+## b.    With regard to the 2nd charge (MAC 906076-2016)
+
+12     The 2nd charge against the Accused is that on 29 November 2016, at about 5.42 pm, in the Master Bedroom toilet, the Accused had used criminal force on PW1 by hugging her from behind and using his fingers of his left hand to press her right breast (from outside her clothes), knowing it to be likely that he would outrage her modesty and he had thereby committed an offence punishable section 354(1) read with section 73(1) and section 73(2) of the Penal Code (Cap 224).
+
+## c.    Summary of the Prosecution’s Case **[^47]**
+
+13     The Prosecution’s case can be summarized as follows:
+
+> (a)     The Prosecution acknowledges that both the acts of outrage of modesty were not captured on CCTV. This is because the Accused knew exactly where the CCTV cameras were installed in his house and he carried out the acts in locations where there was no CCTV cameras;
+
+> (b)     The Accused had carried out the acts after his family had left for China when PW1 was alone in the house with the Accused;
+
+> (c)     The Accused has a habit of brushing or touching PW1 when he walked past her. The nature of these contacts were brief, and innocent, such that PW1 did not have any cause to be concerned until he committed the 2nd act on PW1 on 29 November 2016;
+
+> (d)     The Accused’s behaviour of brushing or touching PW1 as he walked past her was caught on CCTV on two occasions[^48] suggesting that he had a habit of touching PW1 “_here and there_”;
+
+> (e)     Although PW1 did not raise the alarm after the 1st act on 28 November 2016, and her demeanour as a happy and chirpy person had remained unchanged, it does not mean that the 1st act did not take place. An inference can be drawn that the 1st act did take place, in light of all the circumstances of this case;
+
+> (f)     PW1 maintained consistently at trial that until the 2nd act was committed she did not take these physical contacts seriously. In fact, she took it very lightly[^49].
+
+![]([2019] SGMC 0066_Image/[2019] SGMC 0066_image1.png)
+
+> (g)     PW1 only became fearful of staying alone, in the same house as the Accused, after the 2nd act on 29 November 2016. In her telephone conversation with PW3 Naomi, PW1 stated: _“XXX was so scared could not sleep. Besides the place XXX sleeping place is outside. XXX is allowed to sleep outside only”[^50]_.
+
+## E.   The Prosecution’s Evidence
+
+## a.    PW1’s Evidence in relation to the 1st charge
+
+14     At the hearing, PW1 had initially given evidence that at about 7 or 8 pm on 28 November 2016, the Accused had called her into his room and instructed her to wash the bedsheets in his room the next day. PW1 had asked the Accused if she needed to wash the grandfather’s bedsheets which were in Bedroom 2. Both of them then went into Bedroom 2 where the Accused informed PW1 that she need not wash the grandfather’s bedsheet but she only needed to wash the children’s bedsheet which were also located in Bedroom 2[^51].
+
+15     However, after viewing the CCTV footages, PW1 confirmed that the timing of the incident relating to the 1st charge was around 8.55 pm and not 7 or 8 pm[^52]. The CCTV footages show PW1 walking into Bedroom 2, followed by the Accused, at around 20:54:50 hrs. The Accused can be seen walking out of Bedroom 2, followed by PW1 at around 20:55:40 hrs. PW1 confirmed that the 1st offence happened between 20:54:50 and 20:55:40.
+
+16     PW1 also gave evidence that the parties were standing very close to each other when they were in Bedroom 2 and the Accused was standing about half a metre away from her[^53]. PW1 also went on to mark their respective positions on Exhibit P10.
+
+17     After giving instruction to PW1, the Accused turned towards PW1 and took a step towards her and he placed his head on her right shoulder and he told her that he was very tired and he has to go to work that evening[^54].
+
+18     In order to ‘avoid’ contact with the Accused, PW1 reacted by turning her body away[^55]. The Accused then went out of Bedroom 2 followed by PW1[^56].
+
+19     This incident was not captured on CCTV as it took place inside Bedroom 2 and there was no CCTV installed in Bedroom 2.
+
+20     At the material time, PW1 did not feel anything about this incident and her demeanour remained unchanged. That is why the video recordings showed PW1 behaving in her normal self and she was cheerful and singing when she came out of Bedroom 2[^57]. PW1 also testified that she did not feel anything about the incident as she had regarded the Accused as “an elder”[^58] and she thought “my boss had opened up and told me of his tiredness”[^59]. As such, PW1 did not think that the Accused was molesting her even though she knows that what he did was wrong because “he is a man and she is a woman and he is not supposed to touch her”[^60].
+
+## b.    PW1’s Evidence in relation to the 2nd charge
+
+21     PW1 had testified that the 2nd offence took place on 29th Nov 2016 in the Master Bedroom toilet, sometime at or around 1742 hours[^61].
+
+22     According to PW1, she was washing the Master Bedroom toilet when the Accused came into the Master Bedroom. He was eating an ice cream at that time. PW1 asked the Accused if she could call home later that night and the Accused said okay when he comes back[^62]. PW1 then continued to wash the toilet. The Accused then went into the toilet to throw the ice cream stick and he left the toilet. A while later the Accused returned to the toilet to put his dirty clothes in a basket, which was located on the right side (just before the shower door). At that time, PW1 was bending over the bathtub, on the left side, and washing the tiles above the bathtub. The Accused then proceeded to the wash basin to wash his hands[^63]. After that, the Accused hugged PW1 from her behind and PW1 felt the Accused’s left hand touch her right breast[^64]. When the Accused touched PW1, she was shocked and she gave out a scared sound[^65].This sound was captured by the CCTV footage at 17:42:30 hours[^66].
+
+23     PW1 then tried to distract the Accused by pointing him to the tennis court and saying “No play today ah?” and the Accused replied “No play” and he then said “bye bye” and he went out of the bathroom[^67]. The Accused then left the house.
+
+24     PW1 also testified that she was alarmed when the Accused hugged her and touch her breast[^68] and she became afraid and scared[^69] after the incident. It is undisputed that her demeanour changed completely after this incident.
+
+25     The CCTV footage showed the Accused entering the Master Bedroom toilet and closing the door behind him at around 17:42:10 hours. The Accused is subsequently seen stepping out of the toilet and closing the toilet door at around 17:42:50 hours. The total elapsed time is approximately 40 seconds. PW1 alleged that the 2nd offence was committed during this period.
+
+26     This 2nd offence was also not captured on CCTV as it took place inside the Master Bedroom toilet with the door closed. The Master Bedroom toilet was not fitted with any CCTV.
+
+27     After the Accused had left the house, PW1 went to the kitchen and she spoke to another Filipino maid who was working in another unit opposite the Accused’s house and asked her for help to call her agent[^70]. The Filipino maid asked PW1 for the telephone number of the agent[^71]. PW1 tried to shout the number to the Filipino maid but she could not hear the number[^72]. PW1 then wrote the telephone number on a piece of paper the telephone number and tossed the paper to the Filipino maid but the piece of paper did not reach the maid and it fell downstairs. PW1 also asked the Filipino maid to come to her house[^73].
+
+28     Later on, the Filipino maid did pick up the piece of paper and she came over to the Accused’s house. The Filipino maid then made a call to PW3 and PW1 told PW3 that she did not want to stay at the Accused’s place anymore because the Accused had touched me here and there and today he touched my breast[^74]. PW1 also told PW3 to come over to pick her up and bring her home[^75]. PW3 then asked PW1 which agency she was from and how long she had worked in Singapore. PW1 told PW3 that she was from the Tampines branch[^76]. PW3 asked PW1 how the Accused had touched her and PW1 informed PW3 that “1st time he hugged me but I meant he put his head on my shoulder. This time I told her he touch my breast”[^77]. PW3 also told PW1 that she will ask the Accused to bring her back to the maid agency[^78].
+
+29     PW3 later spoke to the Filipino maid and she then spoke to PW1 again and told PW1 not to go anywhere and to stay at home and she will ask the Accused to bring PW1 back to the agency[^79].
+
+30     When the Accused came back, he asked PW1 if she wanted to call home and she told him no but she wanted to call PW3 and go back to the maid agency. The Accused then scolded her and she started crying[^80]. The Accused also spoke to PW3 and he told PW1 that he will send her back to the maid agency the next day. But after receiving another telephone call, the Accused had decided to being her to the police station[^81].
+
+31     PW1 also said that she was scared to stay at the Accused’s place as she was sleeping outside in the living room and that was why she had asked PW3 to come and pick her up that night[^82]. PW1 also said that she had decided to go back to the maid agency because of what the Accused had done to her. Before this incident, she did not have any intention to go back to the maid agency[^83].
+
+## c.    PW3’s Evidence
+
+32     PW3 was a maid trainer with XXXXXX Pte Ltd. She conducted training for maids on housekeeping, cooking and how to manage the employers[^84]. PW3 also gave the maids her contact number so that they can contact her if they are in trouble[^85].
+
+33     On 29 November 2016, PW3 received a telephone call from a Filipino maid at about 7 plus in the evening[^86] and the Filipino maid told her that a Myanmar maid wanted to speak to her. The Filipino maid then passed the phone to the Myanmar maid. The Myanmar maid informed PW3 that she was PW1 and she needed PW3’s help[^87]. PW3 said that PW1 sounded frightened on the phone. PW3 said that PW1 sounded very scared and she wanted to go back to the maid agency as soon as possible[^88]. PW1 also said that the Accused had touched her and she asked for help[^89]. PW1 told PW3 that the Accused had touched her twice, once in the buttocks and once at her breast[^90]. PW1 also told PW3 that she got frightened and shouted after the Accused touched her breast and the Accused went out of the bathroom[^91].
+
+34     PW1 also informed PW3 that on the 1st night the Accused had hugged her but she kept her self-control and cool[^92]. PW1 also told PW3 that she was not sleeping in a room and she was scared[^93].
+
+35     PW3 also said that she spoke to the Accused at about 9 pm plus that night. The Accused had wanted her to speak to PW1. When she spoke to PW1, PW1 had asked her when she was coming to take her away. PW3 told PW1 not to worry and to wait for a while for her agent to talk to the Accused. PW3 also informed the Accused that PW4 will contact him[^94]. PW3 also informed the Accused that PW1 wanted to go back to the maid agency[^95].
+
+36     The conversations between PW1 and PW3 and PW3 and the Accused are also captured by the CCTV footage[^96] and translated in Exhibit P13.
+
+## d.    PW4’s Evidence
+
+37     PW4 is a manager of XXXXXX Pte Ltd (Tampines Branch). On 29 November 2016, PW4 received a call from PW3 who informed her that she had received a telephone call from a Filipino maid and the Filipino maid had informed her that PW1 was asking for help. PW3 also told PW4 that PW1 had alleged that her employer had touched her and she wanted to go back to the maid agency immediately[^97]. PW4 then asked PW3 to call back PW1 to calm her down and to ask the employer to call PW4.
+
+38     PW3 also texted the Filipino maid’s telephone number to PW4 and PW4 spoke to the Filipino maid[^98]. The Filipino maid told PW4 that she had received a note from PW1 asking for help. The Filipino maid informed PW4 that she could not speak Myanmese and she did not know what was going on. However, she did inform PW4 that PW1 looked fearful and she was crying and very scared[^99]. PW4 tried to find out PW1’s address from the Filipino maid but the Filipino maid was unable to furnish PW1’ address[^100].
+
+39     At around 9 plus or 10 pm, PW4 got a call from PW3 who informed her that the Accused had called her[^101]. PW4 asked PW3 for the Accused’s telephone number in order for her to contact the Accused. PW4 then telephoned the Accused and informed him that PW1 had claimed he had touched her. PW4 also told the Accused that this was something serious and she advised the Accused to make a police report[^102].
+
+40     PW4 also said that when she informed the Accused of PW1’s accusation, he was very frustrated[^103]. The Accused told PW4 that when he returned home, PW1 was crying and she told the Accused that she wanted to go home as her mother was sick[^104]. PW4 also said that for this case, she was the one who had instructed PW3 to tell PW1 to tell the Accused that she wanted to go to the agent as her mother was sick. This is “to make an excuse for them to seek help”[^105].
+
+41     When PW4 told the Accused that PW1 had accused him of molest, the Accused was very angry and he said that the maid “Chu Pattern”[^106]. The Accused also claimed that he did not molest PW1 and his house has CCTV. PW4 told the Accused that if his house has CCTV, then he should let the police investigate the matter[^107].
+
+42     After PW4 spoke to the Accused, he passed the phone to PW1 and PW4 spoke to PW1. PW4 informed PW1 that she was the maid agent and that the Accused will be bringing her to the police. PW4 also told PW1 to bring along all her luggage when she goes to the police station[^108].
+
+43     PW4 also said she only informed the Accused that PW1 had accused him of molest, she did not tell the Accused that PW1 had accused him of rape[^109].
+
+## e.    PW2’s Evidence
+
+44     PW2 is the investigation officer in charge of this matter. PW2 took over the matter from IO Muhammad Faizil Bin Hajiwarin about 1 to 2 weeks after the Accused had lodged his police report on 30 November 2016[^110].
+
+45     PW2 also confirmed that the Accused had handed 3 SD cards[^111] containing the CCTV footages[^112] of the Accused’s residence to IO Muhammad Faizil Bin Hajiwarin on 2 December 2016 and IO Muhammad Faizil Bin Hajiwarin had filed a seizure report on the same day[^113].
+
+## F.   Defence Case
+
+46     The Accused’s defence is one of denial. The crux of the Defence case[^114], (as seen in the Defence Closing Submission) is as follows:
+
+> a.     Within the first two (2) months after starting to work, PW1 disliked to work as a domestic worker at the Accused residence and decided to leave the residence and be placed with another employer for the following reasons:
+
+>> i.       PW1 was asked to sleep in the living room, in an open area of the Accused’s residence,
+
+>> ii.       PW1 was only given a pillow and a blanket to sleep,
+
+>> iii.       PW1 was reprimanded on a couple of occasions for waking up late and failing to prepare breakfast for the Accused’s family. This made PW1 cry and think about her family in Myanmar,
+
+>> iv.       PW1 was not given the opportunity to make phone calls back to her family members in Myanmar for two (2) months since she started working for the Accused,
+
+>> v.       PW1 was not paid for two (2) months since she started working for the Accused,
+
+> b.     The Defence’s case is that the above reasons had caused PW1 to be unhappy and PW1 colluded with another Myanmar maid who was then working in another residence on the fourth floor, opposite the Accused’s residence to try and get out of the Accused’s employ. The Defence’s position is that the 2 maids have been in communication up till the evening of 29th November 2016, just minutes before the Accused was informed of the allegations.
+
+> c.     In the course of colluding with the other Myanmar maid, PW1 made false allegations against the Accused so that she would be swiftly removed from the Accused’s employment and be placed with another employer.
+
+> d.     PW1 did not make any formal complaint to the police by way of a police report of the allegation made against the Accused. On the contrary, it was the Accused who had made the police report against PW1.
+
+> e.     Based only on the CCTV footage evidence, the very first person whom PW1 communicated to regarding the allegations was a Filipino maid who works at one of the residence at the estate. The next person whom PW1 had communicated with regarding the allegations was a Myanmar maid, who also working at one of the residence at the estate:
+
+>> (i)       These are two (2) material witnesses for the purpose of the trial. However, Prosecution was unable to call these 2 material witnesses to the stand, though they were available at the time of the alleged offences and pertinently during investigations. However, subsequently both these 2 material witnesses left Singapore by the time this matter came for trial. As for the Filipino maid, apparently a statement was recorded during investigations, but for some reason she was allowed to leave Singapore before the trial commenced. **_(See NE Day 4, Page 122, Line 1 to 11)_**. In any event, the Prosecution chose not to tender the statement in court.
+
+>> (ii)       As for the Myanmese maid, she was not identified as a material witness up till the trial commenced. As a matter of fact, the Prosecution was not even aware that this material witness exist until PW1 was crossed examined during the trial.
+
+> (iii)     For these reasons, Prosecution could not produce these two (2) material witnesses during the trail. In the circumstances, it was prejudicial to the Accused, as the Defence was not given the opportunity to cross-examine these two (2) material witnesses.
+
+## G.   The Defence Evidence
+
+47     The Accused had decided to take the stand to give his evidence after I had called for his Defence at the close of the Prosecution’s case. The Accused is currently working as an air traffic control watch manager.
+
+## a.    The Accused’s evidence on events which took place on 28 November 2016
+
+48     The Accused’s position is that he did not commit any act of outrage of modesty against PW1 as alleged on 28 November 2016. The Accused said that he had 3 days of rest before 28 November 2016 and he was well-rested and he was not tired on 28 November 2016[^115]. Because of this, the Accused is saying that there is no need or is there any basis for him to say to PW1 “I am very tired. I need to go to work” on that day[^116]. The Accused’s position is that there is also nothing on the CCTV footage to show that he had said those words on that day[^117].
+
+49     The Accused was working night shift on 28 November 2016. As regard to the allegation that he had touched PW1’s buttock at the front door when he was leaving for work that night at 21:12:00 hours[^118], the Accused said that when he was leaving, his habit is to hold the front door because it has a spring attached which causes the door to close automatically. The Accused said that he could not have touched PW1’s buttocks because her buttocks were against the door[^119].
+
+## b.    The Accused’s evidence on events which took place on 29 November 2016
+
+50     After leaving for work on 28 November 2016, the Accused returned home at about 11 plus in the morning on 29 November 2016. The Accused then went to bed and slept till about 5.25 pm and he was preparing to go out as he was meeting a friend at 6.30 pm at Chinatown[^120].
+
+51     As regards to the allegation that the Accused had brushed his hand across PW1’s body at 17:33:13 hours[^121], the Accused said that he did not touch PW1 but he was going for the door to push the door a bit more because PW1 was blocking his way[^122].
+
+52     The Accused also denied committing the 2nd offence against PW1 in the Master Bedroom toilet on 29 November 2016. The Accused’s version of what had happened in the Master Bedroom toilet is as follows:
+
+> i.     The Accused had gone to the Master Bedroom toilet to shave and to put his old clothes into the laundry basket[^123]. PW1 was already in the toilet.
+
+> ii.     The Accused opened the toilet door slowly in order not to hit PW1[^124]. PW1 was bending over the bathtub when the Accused entered the toilet.
+
+> iii.     After the Accused entered the toilet, he closed the toilet door. PW1 then stood up and walked to the window in front of the toilet bowl which was next to the wash basin[^125].
+
+> iv.     The Accused then stood in front of the wash basin to shave and PW1 made a “Oi” sound when she saw the Accused shaving[^126].
+
+> v.     PW1 then asked the Accused “Sir, go out”. PW1 had asked the Accused this because he had changed his clothes and had put his old clothes in the laundry basket and he was shaving[^127].
+
+> vi.     When the Accused finished shaving, he proceeded to wash his shaver and the back of his hand touched the tap and some water splashed at PW1 and she made the 2nd “oi” sound[^128].
+
+> vii.     After this, the Accused said “Bye,bye” to PW1 and she replied “Bye-bye, Sir” in a very happy manner[^129]. The Accused then left the toilet and left the house around 17:43 hours[^130].
+
+> viii.     However, before the Accused went out of the toilet, PW1 asked the Accused “Sir, Sir, working, ah ?”[^131].
+
+> ix.     When the Accused returned home later that night, the Accused went to the kitchen to ask PW1 if she had mopped the floor as instructed by him. PW1 said yes. The Accused also remembered that he had promised PW1 to allow her to call home before he went out and he had brought his handphone to the kitchen to ask PW1 for her home number so that she can call home[^132]. However, instead of giving the Accused a Myanmar number, PW1 passed the Accused a slip of paper pointing to PW3’s number and she told the Accused that she wanted to call PW3.
+
+> x.     The Accused was confused by PW1’s action and he told PW1 that if she wanted to call home, he would allow her to do so but PW1 will need to tell him why she wanted to call PW3 before he will allow her to make the telephone call to PW3[^133].
+
+> xi.     The Accused also noted that PW1 was talking to another Myanmese maid on the 4th floor of the opposite building when he returned home and that PW1 was crying. PW1 also told the Accused that she wanted to go back to the maid agency and she did not tell the Accused the reason why she wanted to go back to the maid agency[^134].
+
+> xii.     The Accused then called and spoke to PW3 as he wanted to find out from PW3 as to why there was a sudden change in PW1’s behaviour[^135]. When the Accused saw PW1 talking to the Myanmese maid, he thought that PW1 could have heard something bad about her family and that is why she wanted to go back to the maid agency. And since PW1 could not explain to him, the Accused thought that PW3 could help him resolve PW1’s problem as PW3 could speak both Myanmese and English[^136].
+
+> xiii.     The Accused then spoke to PW3 and PW3 informed the Accused that PW1 was homesick and that was why she wanted to go back to the maid agency[^137].
+
+> xiv.     The Accused also said that he was frustrated and angry with PW1’s behaviour because prior to leaving the house, PW1 was so chirpy and normal and had asked to call home but when the Accused returned home, there was a sudden change in PW1’s behaviour and he could not understand her change of behaviour[^138].
+
+> xv.     After talking to PW3, the Accused received another call from PW4. The Accused asked PW4 if PW3 was the one who contacted her and that is why she called the Accused. The Accused also told PW4 that PW1 was trying to pull a stunt with the Accused[^139].
+
+> xvi.     PW4 then informed the Accused that PW1 had in the afternoon, thrown a note out of the kitchen requesting for police assistance and alleging the Accused of attempted rape and molest[^140]. The Accused was shocked at the allegation and he told PW4 that he had CCTV in the house. What the Accused was trying to tell PW4 was that he was not worried because he did not do anything to PW1. The Accused then told PW4 that he will bring PW1 to the maid agency the next morning[^141]. However, PW4 told the Accused that the allegations by PW1 against the Accused are serious allegations and PW4 suggested that the Accused should bring PW1 to the police and also make a police report[^142]. The Accused decided to follow PW4’s advice and proceeded to bring PW1 to the police and made the police report accordingly[^143].
+
+## H.   The Prosecution’s Submission**[^144]**
+
+## a.    Prosecution’s position on the applicable law **[^145]**
+
+53     The Prosecution submitted that they must prove the following in relation to the 2 charges:
+
+> i.     That at the material time and place as reflected in the charge, the Accused outraged the modesty of PW1 by making physical contact with her person as described in the charge;
+
+> ii.     In doing what he did, the Accused knew it to be likely that he would outrage the modesty of PW1; and
+
+> iii.     PW1, at all material times, did not consent to the Accused’s physical advances on her.
+
+54     The Prosecution also submitted that it is trite law that the threshold the Prosecution needs to reach to prove its case beyond a reasonable doubt, without independent corroboration, was whether the Victim’s evidence was “_unusually convincing_”, as per _PP v Mohammed Liton Mohammed Syeed Mallik_ <span class="citation">\[2008\] 1 SLR(R) 601</span> ("_PP v Mohammed Liton_") at \[37\] to \[38\], which Judge of Appeal V K Rajah (as he then was) referred to in _XP v PP_ <span class="citation">\[2008\] SGHC 107</span> at \[27\].
+
+55     The words "_unusually convincing_" simply mean that that the complainant's testimony was so convincing that the prosecution's case was proven beyond reasonable doubt, based solely on that evidence: Chief Justice Yong Pung How (as he then was) in _Teo Keng Pong v PP_ <span class="citation">\[1996\] 2 SLR(R) 890</span> at \[73\]. Such a factual finding must be made after the court considers not only the Victim’s bare words but after weighing it against the overall backdrop of the available facts and circumstances, to ensure it contained a ring of truth which would leave the court satisfied that no reasonable doubt exists in favour of the Accused, as per _PP v Mohammed Liton_ at \[39\].
+
+56     The question is whether PW1’s evidence was so reliable that a conviction based solely on it was not unsafe: _Tang Kin Seng v PP_ <span class="citation">\[1996\] 3 SLR(R) 444</span> at \[44\]. In order to determine this, the court is required to make a finding as to the credibility of PW1’s evidence. A court may make this assessment by examining (a) her demeanour, (b) the internal inconsistency (or lack thereof) in the content of her evidence; and/or (c) the external inconsistency (or lack thereof) between the content of her evidence and extrinsic objective evidence.
+
+## b.    Summary of the Prosecution’s Submission **[^146]**
+
+57     The Prosecution is of the view that PW1’s account of the 2 outrage of modesty (“OM”) incidents should be accorded the maximum weight by this Court as it is both internally and externally consistent. The Prosecution’s submission is premised on the following:
+
+> Internal Consistency:
+
+>> (i)       PW1 was able to give a vivid and textured account of what had transpired immediately after the Accused had molested her;
+
+>> (ii)       Despite intense cross-examination by the Defence, PW1 consistently testified that she only spoke with the Filipino maid, at the front door[^147];
+
+>> (iii)       PW1 was frank, honest and forthright. She did not embellish her evidence just so that a stronger case can be mounted against the Accused.
+
+> External Consistency:
+
+>> (i)       PW1’s account of the OM incidents was corroborated by PW3;
+
+>> (ii)       PW1’s conversation with PW3 was also captured on CCTV.
+
+58     PW1 had no motive to fabricate the allegations against the Accused. Her demeanour showed that she was happy, chirpy and singing to herself right until the 2nd OM incident. The Accused, on the other hand, is not a credible person as evidenced by the following:
+
+> i.     The Accused lied in his police report that PW1 had alleged rape;
+
+> ii.     The Accused lied that he was ‘_pushing_’ the door when he walked past PW1 (Exhibits P18 & P19). His right hand can be clearly seen to be angled downwards;
+
+> iii.     The Accused made spurious allegation of ‘_collusion_’ which is completely unsupported by any evidence whatsoever; it was also raised as an after-thought by the Accused; and
+
+> iv.     The Accused’s evidence is not internally consistent.
+
+## c.    PW1’s testimony is internally consistent
+
+## PW1 gave a vivid and textured account of what had transpired immediately after the Accused had molested her
+
+## i.    1st OM Act – _‘turn her body away’_ **_[^148]_**
+
+59     During EIC (before CCTV was shown), PW1 testified – _“…then he came over and he put his head on my shoulder – on my right-hand shoulder. Then he told me that he’s very tired and he has to go to work this evening. Then after that, I turned around and went out. Then he went back to his own room…”[^149]._ PW1 explained that her immediate reaction was to ‘_turn her body’_ in order to avoid the Accused putting his head on her shoulder. She also affirmed that there was physical contact[^150].
+
+60     After viewing the CCTV[^151], PW1 testified that the 1st OM Act occurred at some time around **2055hrs[^152]** when she was inside Bedroom 2 with the Accused. She again recounted that when the Accused placed his head on her shoulder, “_I just turn myself and walk out. I turn my body_.”[^153] PW1 maintained that her reaction was to turn her body away[^154].
+
+61     During cross-examination, PW1was asked to enact what had happened inside Bedroom 2. She clarified that she was standing _“…slightly behind from my boss”_ and about half a metre away. After the Accused had given instructions, he turned and took a step towards PW1 and placed his head on her right shoulder. PW1 then demonstrated in Court how she turned her body. According to PW1, the Accused then walked out of the room[^155].
+
+62     PW1’s evidence about her reaction to the 1st OM Act is consistent with someone who had been inappropriately touched. Her testimony was textured and internally consistent.
+
+## ii.    1st OM Act – _‘did not feel anything’_ **_[^156]_**
+
+63     During EIC, when PW1was asked how she felt after the 1st OM Act took place, she testified “_I didn’t feel anything_”[^157]. During cross-Examination, when asked to explain why she did not shout or raise her voice, PW1 explained _“I didn’t think of anything that time because he’s my boss and he’s an elder…..I regard him as my elder and then I thought there is nothing in my mind …. so that’s why I didn’t think about (it).”[^158]_
+
+64     Despite intense pressure under cross-examination by the Defence, PW1 maintained her testimony that she felt nothing, after the 1st OM Act.
+
+![]([2019] SGMC 0066_Image/[2019] SGMC 0066_image2.png)
+
+65     PW1’s testimony that she ‘_felt nothing_’ is consistent with the CCTV footages that showed PW1 to be ‘chirpy and singing’ when she emerged from Bedroom 2. PW1 repeatedly testified in Court that she only became ‘_afraid and scared_’ after the Accused had hugged and touched her breast (ie. 2nd OM Act). PW1 also explained her behaviour and stated that if she was to change employers, she knew that she would have to pay more loans, and she just wanted to carry on working. “_So I just take it lightly and just singing, yah._”[^159]
+
+66     The Prosecution also submitted that contrary to the assertions made by the Defence, the fact that PW1was singing after the 1st OM Act only strengthens her version of the events. Her explanations are internally consistent with her actions, as seen on CCTV.
+
+## iii.    2nd OM Act – _‘I was shocked and I made a sound’_ **_[^160]_**
+
+67     During EIC (before CCTV was shown), PW1 testified that the Accused came into the bathroom to put his old clothes in the basket. He then washed his hands and after that, he hugged her and touched her breast. _“Then I was shocked and I scream. Your Honour, I want – she said that not scream like – but because he is – I was shocked and you know I made the noise – I didn’t scream but I was, you know, shocked…she made ‘Ah’ like that. And then he let go of me.”[^161]_ PW1 clarified from the outset that she did not scream when her breast was touched, but had instead made a shocked ‘sound’.
+
+68     Later, after the CCTV was played, PW1 affirmed “_He hugged me from behind…then I felt from his left hand, I felt that he touched my breast… on my right breast…I was scared…I was scared and just do not know what to do. Then I felt shame…it is not a scream, she said but she made a sound, a scare like sound like that….then he let go off me.”[^162]_ PW1 then proceeded to identify the sound she made, which was audible when the CCTV was played at **17:42:30 hrs[^163]**. PW1 also informed PW3 that she had reacted when the Accused touched her breast: “_In the evening, hugged XXX and touched breast. When XXX shouted, (he) went away_.” (See Exhibit P13).
+
+69     During cross-examination, PW1 persistently maintained that she never saw the Accused shaving, when he was in the bathroom[^164]. Although PW1 was not able to explain the 1st audible “_ehhhh_” sound, she clearly identified the 2nd audible “_ei_” sound, which was shorter and sharper, as the moment when the Accused had hugged her from behind and touched her breast[^165]. The Prosecution submitted that PW1’s version of events was consistent from the outset. The fact that she did not scream is supported by objective CCTV evidence and is consistent with her testimony in Court. Her account of the 2nd OM Act was textured and realistic.
+
+## iv.    2nd OM Act – _‘I shifted his attention’_ **_[^166]_**
+
+70     PW1’s immediate reaction after she was molested by the Accused was to ‘shift’ his attention and point to the tennis courts, which could be seen from the bathroom window[^167]. During cross-examination, PW1 explained that when she pointed to the tennis courts, she did not ask the Accused whether he was playing tennis but rather “_I just told him that nobody was playing tennis_”[^168]. PW1 then explained her reason for wanting to divert the Accused’s attention – “_If I did not say anything after he hugged me, he would – he might thought that I like – I like that, so I tried to prove that I did not feel anything about it by diverting his attention.”[^169]_ It bears noting that the 2nd OM Act took place in an enclosed area, inside the master bedroom toilet.
+
+71     At trial, PW1 consistently maintained that she was ‘_embarrassed_’, ‘_scared’_ and _‘shocked_’[^170] immediately after the 2nd OM Act. PW1’s explanation for wanting to divert the Accused’s attention is understandable given that she was concerned that she was alone, at home, with the Accused, at the material time. In fact, PW1 had expressed the same concern when she spoke with PW3, later that same evening, when she told her – “_XXX is allowed to sleep outside only”_ (see Exhibit P13). The Prosecution submitted that PW1’s evidence is internally consistent and supported by objective CCTV evidence.
+
+## Despite intense cross-examination by the Defence, PW1 consistently testified that she only spoke with the Filipino maid when she was standing at the front door**[^171]**.
+
+72     At trial, during cross-examination, the Defence attempted to discredit the PW1’s testimony by suggesting that she had colluded with the Myanmese maid, who was living on the 4th floor, across from the Accused’s flat. In so doing, the Defence maintained that PW1 had actually spoken with the Myanmese maid sometime between 1917 hrs and 1919 hrs (“**the material period**”) when PW1 was observed on CCTV to have opened both the door and the gate, to speak with someone standing outside. The CCTV however does not show who was standing outside during this material period.
+
+73     The Prosecution had submitted that PW1 was speaking to the Filipino maid, during the material period for the following reasons:
+
+> (a)     No evidence was found in **Exhibit P13** to suggest that PW1 was speaking in Myanmese language during this period[^172];
+
+> (b)     The Accused was given the opportunity to obtain a translation of the CCTV footages but chose not tender any evidence;
+
+> (c)     The Accused agreed during cross-examination that he had no evidence to support his assertions that PW1 was speaking in Myanmese language[^173];
+
+> (d)     PW1 consistently testified during her cross-examination that she had only spoken with the Filipino maid during the material period. In fact, she referred to the Filipino maid at least 7 times (see **Exhibit P20**)[^174];
+
+> (e)     During cross-examination, when PW1 was asked how many times she had spoken with the Filipino maid, she responded clearly ‘**_twice_**’[^175];
+
+> (f)     During cross-examination, confusion arose when Defence Counsel did not make it clear to PW1 whether he was seeking an explanation for her response during her evidence in chief when she had testified that she ‘_could not remember_’ or for her response on what she was able to recollect during cross-examination. This is evident from the following exchange
+
+![]([2019] SGMC 0066_Image/[2019] SGMC 0066_image3.png)
+
+> The Prosecution submitted that when PW1 responded that ‘_she did not see the person she was talking to_’, she was referring to her evidence in chief, which she later affirmed at line 22 - “_I did not remember_”. However, when his Honour checked with PW1 whether she knew who it was (and the line of questioning was still referring to the material period), PW1 responded affirmatively at line 27 - _“I knew it was the Filipino maid. She was the only (person) who came to the door to talk to me.”_
+
+> His Honour, then once again repeated the question to PW1:
+
+>> Q:    “Question is, who are you talking to?”
+
+>> A:     _“I was talking to the Filipino maid.”_
+
+> When the Defence Counsel challenged PW1 that she was changing her evidence from what she had given during her evidence in chief, PW1 responded “_Yes, Now I know who she was_”. In other words, during evidence in chief, she could not remember but during cross-examination she recalled that it was the Filipino maid who had come to the door during the material period.
+
+> (g)     During cross-examination on 31st Oct 2018, the Defence Counsel again re-visited this issue and attempted to get PW1 to admit that it was the Myanmar maid who had come to the door at the material period. This time, the Defence took a different tack and suggested that PW1 was speaking comfortably in her own language. PW1 however was steadfast – _“No, it was not true. The Myanmar maid did not come to my employer’s house at all.”[^176]_ PW1 also reaffirmed – “_I was talking to the Filipino maid in English_”[^177]. In actual fact, no evidence was adduced at trial, by the Defence, to suggest that Myanmese language could be heard on CCTV, at the material period.
+
+> (h)     During re-examination, PW1 was shown the CCTV clips between 1917 hrs to 1919 hrs (where she can be clearly seen talking to someone), and the CCTV clip at 1928 hrs where PW1 was seen standing between the door and the gate, waiting for the Filipino maid. PW1 clarified that she was talking to herself at 1928hrs, when she stood between the door and the gate. (See NE – 31 Oct 2018 at page 100)
+
+![]([2019] SGMC 0066_Image/[2019] SGMC 0066_image4.png)
+
+> (i)     Finally, in response to his Honour’s question, when PW1 was asked why she did not talk to the Filipino maid and seek her assistance the 1st time when she came to the door, PW1 responded that the Filipino maid did not bring her mobile phone on the first visit. PW1 also gave a credible explanation that she was grumbling to herself, while waiting for the Filipino maid to return, because she was concerned that the Accused would return home shortly[^178].
+
+## PW1 testified in a frank, honest and forthright manner. She did not embellish her evidence just so that a stronger case can be mounted against the Accused.**[^179]**
+
+74     During the trial, when PW1 was shown **Exhibit P18**, she affirmed that the Accused made physical contact with her, as he walked past her, on 28th Nov 2016. During her cross-examination on 22nd Jun 2016, PW1 initially testified that the Accused had ‘_brushed_’ her ‘_back_’ when he walked past her[^180]. Later, during her cross-examination on 10th Oct 2018, PW1 testified that the Accused had ‘_touched_’ her ‘_buttock_’ as he walked past her[^181]. However, during re-examination, PW1 affirmed he had ‘_brushed_’ her ‘_buttock_’ with his right hand when he walked past her[^182]. PW1’s testimony that there was physical contact was unshaken.
+
+75     However, unlike Exhibit P18, when PW1 was shown Exhibit P19, where the Accused is similarly seen to extend his right hand, angled downwards and brushing or touching PW1 as he walked past her on 29th Nov 2016, PW1 testified honestly – “_I didn’t notice_.[^183]”The Prosecution submitted that PW1 could have easily embellished her evidence to mount a stronger case against the Accused, but she did not. She was frank, honest and forthright in her testimony that she did not notice anything, when the Accused walked past her, as he stepped out of the master bedroom toilet.
+
+76     Similarly, PW1 did not embellish her evidence to suggest that the Accused was an unreasonable employer just because he did not pay her salary for 2 months or because he did not give her the opportunity to call home or because of her sleeping arrangements. In fact, during cross-examination, PW1 was forthright that none of these issues had any effect on her. She maintained consistently that it was only after the 2nd OM Act that she wanted to go back to the maid agency.
+
+## d.    PW1’s testimony is externally consistent
+
+## PW1’s account of the OM incidents was corroborated by PW3**[^184]**
+
+77     PW3 testified that she spoke with PW1 on 29th Nov 2016.64 At trial, PW3 was asked to recall her conversation with PW1 before the CCTV footages were played in Court. PW3 recalled the following: “_She sound very frightened and told me that her employer had – she told me, my employer had touch me – touched me and touched my breast_”[^185]. When PW3 was asked whether she recalled how many times PW1 told her she was touched, PW3 responded “_twice_”[^186]. PW3 also testified _“She told me she was frightened and shouted at her employer. So the employer went out of the bathroom.”[^187]_ PW3 explained that from her conversation with PW1, she understood that the employer had done something wrong and PW1 was asking her for help[^188].
+
+78     During cross-examination, PW3 testified that PW1 had told her that she was touched on her breast and buttock[^189]. Although PW1 did not go into the details of the OM acts, PW3 could tell that PW1’s “_voice sounds very scared_”[^190]. PW3 also expressed that she was concerned for the safety of PW1 as she was staying alone with her employer[^191]. The Prosecution submitted that PW1’s evidence is corroborated by PW3, who was the first person that the PW1 talked to about the OM incidents on 29th Nov 2016.
+
+## PW1’s conversation with PW3 was captured on CCTV**[^192]**
+
+79     Exhibit P13 is a translation of the conversation overheard on CCTV between PW1 and PW3. The Prosecution submitted that this exhibit corroborates PW1’s version of events in respect of the following material facts:
+
+> (a)     “_Employer is touching me head and touching me backside. In the evening, hugged XXX and touched breast.”_ This is consistent with PW1’s evidence that she was molested by the Accused;
+
+> (b)      _“When XXX shouted (he) went away”_. This is consistent with PW1’s evidence that she made a sound after the 2nd OM Act by the Accused;
+
+> (c)      _“XXX sleeping place is outside. XXX is allowed to sleep outside only. The employer is coming back soon. XXX is alone.”_ This is consistent with PW1’s evidence that she was scared of being alone, with the Accused, after he committed the 2nd OM Act.
+
+## e.    The Accused is not a credible person. He lied in Court.
+
+## The Accused lied in his police report that PW1 has alleged rape**[^193]**
+
+80     PW4 informed the Accused about the allegations made by PW1[^194]. At trial, PW1 was shown Exhibit P1, the police report filed by the Accused on 30 Nov 2016. In the police report, it was stated that _“Sherlin informed me that my maid alleged me of molesting her and trying to rape her earlier in the afternoon.”_ In Court, PW4 testified that she never told the Accused that PW1 had alleged rape[^195]. PW4 affirmed this was a ‘_false_’ statement made by the Accused. During cross-examination, PW4 maintained that she never used the word ‘rape’ as she knew it was a serious allegation which would involve the CID[^196]. PW3 also affirmed that PW1 never claimed that she was raped by her employer[^197]. Both PW4 and PW3 have no vested interest to lie about their conversations with the Accused.
+
+81     The Prosecution had submitted that the Accused **lied** to police when he made the police report. The Prosecution also suggested that the reason the Accused lied in his police report was because he wanted PW1 to appear as someone who had made a frivolous and false claim against her employer.
+
+## The Accused lied that he was ‘pushing’ the door when he walked past PW1 (see Exhibits P18 & P19). The Accused’s right hand is clearly seen angled downwards**[^198]**.
+
+82      On Exhibit P18 – During evidence in chief, the Accused had testified that the main door to his apartment had an automatic closer which will spring shut and that he had a habit of ‘_holding_’ onto the door whenever he was going out of his house[^199]. The Accused then stated – “_I could not have touched XXX’s buttocks because her back was up against the door. I did not touch her_.”[^200] In other words, he could not have touched PW1’s buttocks because her buttocks was completely against the door[^201].
+
+83     However, during cross-examination, the Accused changed his testimony. Firstly, the Accused agreed that when PW1 leaned forward to push open the gate, while holding back the main door with her buttocks, because of the gap between the main door and the gate, PW1’s left buttock was no longer in contact with the door[^202]. This is also visible from the CCTV footage. Secondly, PW1 claimed during cross-examination that he had ‘_pushed_’ the door instead of ‘_holding onto the door_’, as he walked out of the flat[^203].
+
+84      On Exhibit P19 – During EIC, the Accused testified – “_I went for the door to try to push the door a bit more because she was blocking my way there_.”[^204] In other words, the Accused claimed that when he was walking out of the Master Bedroom bathroom, as there was insufficient space for him to squeeze past PW1, he tried pushing the bathroom door a bit more. This suggests that there should have been some movement of the door.
+
+85     The Prosecution submitted that in both cases (Exhibit P18 & P19), the Accused did not ‘push’ the doors because his right hand was angled downwards. There is also no evidence found on CCTV of the doors being pushed, when the Accused walked past. Had the Accused pushed the doors, the movement of the doors would have been visible on CCTV. The Prosecution submitted that the Accused had **lied** in Court when he testified that he had ‘pushed’ the doors because he needed to explain why his right hand was angled downwards, as he walked past PW1. There can only be one explanation – the Accused had brushed or touched PW1as he walked past her on both occasions.
+
+## The Accused made spurious allegations of ‘collusion’ which is unsupported by any evidence and it was also raised as an after-thought by the Accused**[^205]**
+
+86     It is the Defence’s case that PW1 had colluded with the Myanmese maid, who lived on the 4th floor unit across from the Accused’s flat, to make false allegations against the Accused. The Defence also alleged that the Myanmese maid who had come to the flat between 1917 hrs and 1919 hrs (“the material period”)[^206] was the same person that PW1 was found talking to, when the Accused returned home on 29th Nov 2016[^207].
+
+87     The Prosecution had submitted that the allegation of ‘collusion’ is unsupported by any evidence whatsoever and the Defence only raised it as an after-thought, mid-way through the trial:
+
+> (a)     First, the Accused agreed he had no evidence to support his assertions that PW1 was speaking in Myanmese language, during the material period[^208]. The Accused also does not understand Myanmese language and cannot tell what language she was speaking;
+
+> (b)     Second, there is no evidence to prove that the Myanmese maid in the 4th floor unit was the same person who had come to the front door, during the material period. The Accused was speculating that it was the same person in order to support his ‘collusion’ theory;
+
+> (c)     Third, during PW1’s cross examination, when Defence Counsel put forward the defence of ‘collusion’, the Court inquired whether the Myanmar maid was still around. At this point, the Court was reminded of PW2’s testimony that he was only made aware of the Myanmese maid’s existence, following the CCMS between parties on 5th Oct 2018 (just before the 2nd tranche)[^209]. The Accused never raised his defence of ‘collusion’ during the course of investigations;
+
+> (d)     Fourth, the Accused was aware of the existence of the Myanmese maid, from the outset, as he had seen PW1 talking to her when he returned home[^210], but he never raised it with the police, at any time before the trial;
+
+> (e)     Fifth, in response to the Court’s inquiry, the Defence Counsel responded “_This issue only came up when the witness took the stand and she could not remember who she was talking to at that 1st incident at the gate. Then only we realised there was a 3rd party involved here.”[^211]_ In other words, the Accused’s defence of ‘collusion’ only arose after PW1 had taken the stand;
+
+> (f)     Sixth, PW1 consistently testified, at trial, that she only opened the main door (and gate) to speak with the Filipino maid, during the material period;
+
+> (g)     Finally, all the CCTV footages were extended to the Defence before the start of trial, and no assertions of ‘collusion’ were made before the start of trial[^212]. This explains why even the Court was surprised when it was raised by Defence Counsel at trial.
+
+88     The fact that the Accused had resorted to making a spurious defence, mid-way through the trial, suggests that he was desperate to discredit PW1. The ‘collusion’ defence was an after-thought.
+
+## f.    The Accused’s evidence is internally inconsistent
+
+89     The Prosecution also submitted that the Accused’s evidence at trial was internally inconsistent with his own testimony, in the following aspects:
+
+> i.      **Accused did not care if he embarrassed PW1[^213]**
+
+> (a)     The Accused had initially testified that if PW1 had seen him changing up, it would have been embarrassing for her[^214]. The Accused also claimed that PW1 had been trained to knock on the door before entering the Master Bedroom[^215].
+
+> (b)     However, after being shown CCTV footages of himself changing up with the door open and PW1 entering his bedroom without knocking[^216], the Accused agreed that it was possible for PW1 to walk into his room, without knocking, when he was changing up[^217]. The Accused also changed his evidence to say that it was perfectly fine for him to leave the Master Bedroom door open when he was changing up[^218]. This suggests that it did not matter to the Accused whether he embarrassed PW1.
+
+> (c)     The evidence also shows that while PW1 was washing the Master Bedroom toilet, the Accused was changing his clothes in the Master Bedroom. At one point, the Accused was in his underwear, sitting on his bed[^219]. He was also seen half-naked at least twice on CCTV[^220]. The Accused admitted that he was prepared to take the risk that PW1 could have opened the toilet door and seen him changing[^221]. This again suggests that it did not matter to the Accused whether he embarrassed PW1.
+
+> ii.      **The Accused told PW1 that he was going out to meet his friends [^222]**
+
+> (a)     During cross-examination, the Accused admitted that he told PW1 that he was going out to meet his friends, before the 2nd OM Act[^223]. In other words, before the 2nd OM Act was committed, the Accused had already informed PW1 that he had planned to go out to meet his friends. Yet, according to the Accused, after the 2nd OM Act was committed, the Victim had asked him - “_Sir, Sir working huh?_”[^224] PW1, on the other hand, maintained that she never asked the Accused if he was working. Her testimony on this issue is unequivocal.
+
+![]([2019] SGMC 0066_Image/[2019] SGMC 0066_image5.png)
+
+> (b)     Moreover, PW1 knew that the Accused had just returned from his night shift earlier that morning. There was no reason for her to ask if he was going to work again.
+
+> iii.      **The Accused’s claim that he was shaving is a fabrication[^225]**
+
+> (a)     During his cross-examination, the Accused conceded that he ‘_could have_’ (i) asked PW1 to step out of the bathroom, (ii) asked PW1 to step away from behind the door, and keep the door open or (iii) used the bathroom in Bedroom 2. The Accused’s explanation for not doing any of the above was that he was “_rushing to go out_”[^226] to meet his friends. If it was indeed true that the Accused was in a rush, there was no need to shave, much less squeeze into the same bathroom as PW1. In fact, according to Accused, “_I shave every time I go out of the house_”[^227]. This suggests that the Accused had already shaved before going to work, the night before.
+
+> (b)     Moreover, the Accused claimed that when he was washing the shaver, some water splashed on PW1 when the back of his right hand pressed against the tap[^228]. According to the Accused, PW1 was standing to his right, at the material time, approximately half a metre away. The Prosecution was of the view that if the Accused’s version that he was shaving was indeed true, the water would have likely splashed to his left, when the back of the Accused’s right hand had pressed against the tap, with some force.
+
+> (c)     PW1’s evidence on this issue is unequivocal – she never saw the Accused shaving inside the bathroom. According to PW1, the Accused had washed his hands and then hugged her from behind, while she was bending forward to clean the tiles above the bathtub. The Accused’s version, on the other hand, is that PW1was standing to his right, while he was shaving. The Accused did not give any explanation as to why PW1 stopped cleaning the tiles and moved to the right of the bathroom. PW1, however, gave a credible explanation - she wanted to divert the attention of the Accused, after she was molested, by pointing to the tennis courts.
+
+> iv.      **The Accused’s claim that it was NOT inappropriate to close the door after he entered the Master Bedroom bathroom is absurd[^229]**
+
+> (a)     At the material time, the Accused and PW1 were the only people in the flat. The Accused testified that when he entered the Master Bedroom toilet, he knew that PW1 would be alone with him[^230] and there would be no CCTV coverage[^231]. During cross-examination, the Accused testified that it was NOT inappropriate for him to have closed the toilet door knowing that PW1 was inside alone[^232]. The Prosecution was of the view that the Accused’s testimony is unacceptable by ordinary standards of human behaviour. The Accused’s weak attempt at explaining away his actions strongly suggests that he has a guilty mind. The Accused is clearly not fit to be an employer.
+
+> v.     T**he Accused changed his testimony during cross-examination and claimed that it was PW4 who told him that PW1 was showing a pattern[^233]**
+
+> (a)     During cross examination, the Accused testified that PW4 had told him “_I know she showed pattern_”[^234]. At that point, his Honour pointed out that this was completely new testimony coming from the Accused. The Accused however, maintained his testimony during cross examination that it was PW4 who told him that PW1 was pulling a stunt[^235].
+
+> (b)     However, the evidence however clearly shows that it was the Accused who told PW4 that PW1 had “_chu pattern_”. This conversation between the Accused and PW4 was captured on CCTV footage and it was translated and admitted into evidence as **Exhibit P12**. Based on this evidence, it can be seen that it was the Accused who told PW4 that PW1 had “_come up with pattern_.”[^236] Secondly, during PW4’s cross examination, PW4 had testified that the Accused had informed her as follows:
+
+![]([2019] SGMC 0066_Image/[2019] SGMC 0066_image6.png)
+
+> (c)     Given the above, the Prosecution was of the view that the Accused changed his testimony during his cross examination in order to give the impression that in PW4’s view, PW1 was not credible person. In truth, it is submitted that it is the Accused who is not credible at all.
+
+## g.    There is no evidence that PW1 had a motive to falsely implicate the Accused **[^237]**
+
+90     The Prosecution had noted that the nub of the Defence’s argument is that PW1 had a motive for falsely implicating the Accused because she wanted to change her employer. Consequently, she ‘colluded’ with the Myanmese maid to make a false accusation against the Accused. In this regard, the Defence had asserted that PW1 was unhappy with the Accused for the following reasons:
+
+> (a)     PW1 missed her family back in Myanmar because she was alone; and
+
+> (b)     PW1 did not like working for the Accused because:
+
+>> (i)       She was only given a blanket and made to sleep on the floor;
+
+>> (ii)       She was fearful of her employer (the Accused);
+
+>> (iii)       She was not allowed to call home for two months;
+
+>> (iv)       She was scolded by the Accused; and
+
+>> (v)       She was not paid her salary for 2 months.
+
+91     The Prosecution was of the view that based on the evidence adduced at trial, there is no evidence whatsoever to support the Defence’s assertions that PW1 was unhappy with the Accused. Based on the Accused’s own testimony in Court, it is undisputed that:
+
+> (a)     PW1 is a chirpy person[^238] ie. “_Chirpiness is her normal self_”[^239]. It is not uncommon for PW1 to be heard singing to herself[^240] or making funny noises, sometimes even mimicking sounds (like the sound of the door-bell)[^241];
+
+> (b)     Right up to the point when the Accused got dressed and went out of the house on 29th Nov 2016 at around 17:44:00 hrs (see Exhibit P11, CCTV 17:43:59 LR), PW1 had ‘_pretty much the same demeanour_’ ie. PW1 was happy. She was singing and chirpy[^242];
+
+> (c)     It was only after the Accused returned home at around 21:03:46 hrs (see Exhibit P11, CCTV 21:03:46 LR) and walked into the kitchen, that he found PW1’s demeanour had changed. She was crying. She told the Accused that she wanted him to call her agency[^243].
+
+92     Apart from the above, the CCTV footages also showed PW1 being in a very happy mood, whilst employed by the Accused. The objective evidence from these footages show:
+
+> (a)     That PW1 was not afraid to ask the Accused for permission to call home (see Exhibit P11, CCTV 17:32:01 MB);
+
+> (b)     PW1 making funny gestures at the Accused, like a ‘saluting’ gesture (a submission made by the Defence) and singing to herself;
+
+> (c)     PW1’s voice and tone, as heard on CCTV, shows she was always chirpy and happy.
+
+## h.    PW1’s statement to PW2 are inadmissable **[^244]**
+
+93     The Defence had cross-examined PW2 on statements made by PW1 to him in the course of his investigations. The Defence had also submitted as part of their closing submission that PW1’s statements to PW2 are externally inconsistent with PW1’s testimony in court.
+
+94     The Prosecution submitted that PW1’s statements to PW2 in the course of his investigation are not admissible as evidence. In this regard, the Prosecution had referred me to Section 259 of the Criminal Procedure Code (Chapter 68) which states:
+
+> (1)    Any statement made by a person other than the accused **in the course of any investigation** by any law enforcement agency is **inadmissible** in evidence, except where the statement —
+
+>> (a)    is admitted under section 147 of the Evidence Act (Cap. 97);
+
+>> (b)    is used for the purpose of impeaching his credit in the manner provided in section 157 of the Evidence Act;
+
+>> (c)    is made admissible as evidence in any criminal proceeding by virtue of any other provisions in this Code or the Evidence Act or any other written law;
+
+>> (d)    is made in the course of an identification parade; or
+
+>> (e)    falls within section 32(1)(_a_) of the Evidence Act.
+
+95     In light of Section 259 of the Criminal Procedure Code, the Prosecution had asked me to disregard the statements made by PW1 to PW2, during the course of his investigations, as they are inadmissible as evidence. As such, the Prosecution is of the view that these statements cannot be relied by the Defence to prove that PW1’s evidence was ‘externally inconsistent’. Moreover, PW2 is a police investigator and not an expert witness. PW2’s opinion on whether the Accused had touched PW1’s buttock or otherwise, based on the CCTV footages, would carry little or no weight.
+
+## i.    Treatment of Contradictions, discrepancies and falsehoods **[^245]**
+
+96     The Prosecution had also pointed out that human fallibility in observation, retention and recollection has been recognised by the Courts as a common occurrence. The essential question is whether the discrepancies are minor or serious. In _Mohammed Zairi bin Mohamad Mohtar and Anor v PP_ <span class="citation">\[2002\] 1 SLR(R) 211</span> (**TAB 3**), the High Court accepted and followed the words of Abdul Hamid J in _Chean Siong Guat_ v PP <span class="citation">\[1969\] 2 MLJ 63</span> (“**_Chean Siong Guat_**”), where it was held as follows:
+
+> _Discrepancies may, in my view, be found in any case for the simple reason that no two persons can describe the same thing in exactly the same way. Sometimes what may appear to be discrepancies are in reality different ways of describing the same thing, or it may happen that the witnesses who are describing the same thing might have seen it in different ways and at different times and that is how discrepancies are likely to arise._ **_These discrepancies may either be minor or serious discrepancies_** _. Absolute truth is I think beyond human perception and conflicting versions of an incident, even by honest and disinterested witnesses, is a common experience._ **_In weighing the testimony of witnesses, human fallibility in observation, retention and recollection are often recognised by the court. Being a question of fact, what a magistrate need do is to consider the discrepancies and say whether they are minor or serious discrepancies._** _If, after considering the discrepancies, if a magistrate finds that the discrepancies do not detract from the value of the testimony of the witness or witnesses, it would then be proper for him to regard the discrepancies as trivial and ignore them. On the other hand, if a magistrate finds that the discrepancies relate to a material point which would seriously affect the value of the testimony of the witness or witnesses, then it would be his duty to weigh the evidence carefully in arriving at the truth._
+
+> \[emphasis added\]
+
+97     The Prosecution noted that the Defence in their Closing Submission had highlighted discrepancies which they submitted was internally inconsistent with PW1’s evidence. The key issue is whether these discrepancies have a direct bearing on the facts in issue, and if so, whether they are minor or serious (ie. material):
+
+## i.   1st Material Discrepancy – “_Sir Sir working huh?_’
+
+98     The Accused’s position is that as he was exiting the bathroom, PW1 had asked him if he was working that day:
+
+![]([2019] SGMC 0066_Image/[2019] SGMC 0066_image7.png)
+
+99     PW1 maintained that she never asked the Accused whether he was working that day[^246]:
+
+![]([2019] SGMC 0066_Image/[2019] SGMC 0066_image8.png)
+
+100    The Prosecution was of the view that this is a material discrepancy because it has a direct bearing on a fact in issue ie. whether the Accused was shaving when he was inside the Master Bedroom toilet. The Defence’s position is that the reason PW1 had asked the Accused whether he was working was because she had seen him shaving. PW1’s position is unequivocal – she did not see the Accused shaving at all. PW1 also maintained that she never asked this question, when the Accused was exiting the toilet, after the 2nd OM Act. PW1’s version was that she was trying to divert his attention, at this point.
+
+101    The Prosecution had submitted that PW1’s version is credible for three reasons:
+
+> (a)      **Firstly**, PW1 already knew that the Accused was not working that day. This is evident from the CCTV footage \[17:33:06 MB\][^247] showing a conversation between PW1 and the Accused, just before the Accused entered the toilet to throw away the ice-cream stick. During cross-examination, it was established that:
+
+![]([2019] SGMC 0066_Image/[2019] SGMC 0066_image9.png)
+
+In fact, PW1 wanted the Accused to “_faster, faster come ba_ck”[^248]32 so that she can call home[^249];
+
+> (b)      **Secondly**, the Accused also informed PW1 that he was going out to meet his friends[^250]; and
+
+> (c)      **Thirdly**, a few minutes later, \[see **CCTV footage 17:41:29 MB**\] when PW1 opened the bathroom door and saw the Accused putting on perfume, PW1 can be heard exclaiming loudly. In this clip, PW1 again checked with the Accused “_Tomorrow working ah?_”[^251]
+
+These clips prove that PW1 already knew that the Accused was not working on 29 November 2016 and therefore she had no reason to ask this question, as the Accused was exiting the bathroom.
+
+102    On the other hand, the Defence position is that because PW1 knew that the Accused was not working that day, she asked him the same question yet again, as he was exiting the bathroom[^252]. **The Prosecution is of the view that this is absurd.** The Prosecution is also of the view that this is a deliberate concoction by the Accused to support his version that PW1 had asked this question, because she had seen him shaving. PW1 knew the Accused was going out to meet his friends and had no reason to ask this question.
+
+## ii.   2nd Material Discrepancy – The 1st long _‘ah_’ sound
+
+103    The Accused’s position is that PW1 made the 1st long ‘_ah_’ sound because she saw the Accused shaving[^253]. It was also put to PW1 that she made this sound because she had seen something ‘unusual’ ie. the Accused shaving[^254]. PW1’s position, on the other hand, is that she cannot remember why she made this sound.
+
+104    The Prosecution is of the view that this a material discrepancy because it has a direct bearing on a fact in issue ie. whether the Accused was shaving when he was inside the master bedroom toilet.
+
+105    It is the Defence’s case that PW1 would make sounds whenever she saw something ‘unusual’ and they pursued this line of questioning during the cross examination in order to support their case that the Accused was shaving inside the bathroom. It is submitted that there is nothing ‘unusual’ about the acts of shaving, or spraying perfume, or the door-bell making a sound. These are daily events that PW1would have been familiar with, even in Myanmar.
+
+106    PW1’s testimony, however, is that she has a ‘habit of laughing’ and ‘trying to make funny’.
+
+![]([2019] SGMC 0066_Image/[2019] SGMC 0066_image10.png)
+
+107    In other words, PW1 makes noises or sounds as a ‘habit’. It has nothing to do with the event being ‘unusual’ but rather with her own nature. PW1’s testimony is also consistent with the observations of the Accused who testified that “_Chirpiness is her normal self_”[^255]. Given that it is her nature to be making a sound, for no reason at all, it is not surprising that she cannot recall why she made the 1st long “_ah_” sound, inside the bathroom.
+
+## iii.   3rd Material Discrepancy – The 2nd short _‘ei’_ sound
+
+108    The Accused’s position is that PW1 made the 2nd short ‘_ei_’ sound when some water had splashed on her, while the Accused was washing his shaver[^256]. During cross-examination, it was also put to PW1 that, after PW1 had seen the Accused shaving, PW1 moved had away from the bathtub and towards the window. In other words, PW1 was standing to the right of the wash basin, near the bathroom window, when some water had splashed on her, while the Accused was washing his shaver.
+
+![]([2019] SGMC 0066_Image/[2019] SGMC 0066_image11.png)
+
+109    PW1’s position was that she made the 2nd short ‘_ei_’ sound when the Accused committed the 2nd OM Act. During cross-examination, PW1 explained that it was only after the 2nd OM Act that she moved away from the bathtub and walked towards the window (between the sink and the toilet bowl)[^257]. PW1 explained that the reason she moved to the window was because she wanted to divert his attention by pointing to the playground from the bathroom window.
+
+![]([2019] SGMC 0066_Image/[2019] SGMC 0066_image12.png)
+
+110    This is a material discrepancy because it has a bearing on a fact in issue ie. whether the Accused was washing his shaver, at the material time. Both PW1 and the Accused do not dispute that PW1 had moved towards the bathroom window but their respective explanations for PW1 moving towards the bathroom window is vastly different.
+
+111    According to PW1, she moved towards the bathroom window, after the Accused had outraged her modesty, because she wanted to ‘divert’ his attention. During cross-examination, PW1 explained her reasons as follows:
+
+![]([2019] SGMC 0066_Image/[2019] SGMC 0066_image13.png)
+
+112    PW1 then went on to explain that she diverted his attention because she did not want to show the Accused that she was shocked and scared.
+
+![]([2019] SGMC 0066_Image/[2019] SGMC 0066_image14.png)
+
+113    The Prosecution has submitted that PW1’s explanation is credible. Based on her version, her modesty had just been outraged by her employer; the 2nd OM Act occurred in a confined space in the bathroom; there was no one else at home; and PW1 knew that the Accused had a habit of touching her ‘_here and there_’. Her explanation for moving towards the bathroom window and diverting the Accused’s attention showed that she was aware of her circumstances, at the time of the offence.
+
+114    In contrast, the Accused’s version is that PW1 simply moved towards the bathroom window when she saw the Accused shaving. The Prosecution was of the view that this version is somewhat incredulous as PW1 was washing the bathtub, at the material time, and she had no reason to move towards the window.
+
+115    The Prosecution was of the view that this was a deliberate concoction by the Accused to support his version that PW1 made the 2nd short _‘ei’_ sound when water splashed on her, after she had moved towards the bathroom window. The Accused’s explanation requires a stretch of the imagination in order to explain away the reason for PW1’s movement towards the window.
+
+## iv.   The Immaterial Discrepancies
+
+116    The Defence also raised several other discrepancies in PW1’s testimony which have no bearing on the facts in issue. The Prosecution submitted that these discrepancies are immaterial and they do not detract from the general veracity of PW1’s testimony on the material issues. In this regard, the Prosecution referred me to the observations made in **_Chean Siong Guat_** that:
+
+> “_Absolute truth is … beyond human perception and conflicting versions of an incident, even by honest and disinterested witnesses, is a common experience. In weighing the testimony of witnesses, human fallibility in observation, retention and recollection are often recognised by the Court.”_
+
+117    Having regard to language and interpretation issues, the Prosecution submitted that zero or minimal weight should be accorded to the following discrepancies in PW1’s testimony:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="0"><colgroup><col width="33.3266653330666%"> <col width="33.3266653330666%"> <col width="33.3466693338668%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Victim’s evidence</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Defence’s Submission</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Prosecution’s Submission</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">NE 21 June 2018, page 34</p><p align="justify" class="Table-Para-1">During EIC, PW1 testified that she had pointed to the tennis courts and said “No play now tennis?”</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Defence Closing Submission paragraph [94]</p><p align="justify" class="Table-Para-1">Victim had never seen the Accused play tennis at his residence</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Immaterial discrepancy</b></p><p align="justify" class="Table-Para-1">This has no bearing on the facts in issue. The key issue is the diversion – why would PW1 point to the tennis court (or playground).</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">NE 21 June 2018, page 34</p><p align="justify" class="Table-Para-1">During EIC, PW1 testified that the Accused had said ‘bye bye’ before he went out of the bathroom.</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Defence Closing Submission paragraph [108] to [113]</p><p align="justify" class="Table-Para-1">During cross-examination, after watching the CCTV clip, PW1 agreed that after the Accused said ‘bye bye’, she also said ‘bye bye’. Defence submitted that PW1 was not truthful and had contradicted her evidence during EIC</p><p align="justify" class="Table-Para-1">&nbsp;</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Immaterial discrepancy</b></p><p align="justify" class="Table-Para-1">Human fallibility in retention and recollection.</p><p align="justify" class="Table-Para-1">Discrepancy has no bearing on the facts in issue.</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">NE 21 June 18, page 66, 84</p><p align="justify" class="Table-Para-1">During EIC, PW1 testified that she only became ‘scared’ after the Accused had touched her breast.</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Defence Closing Submission paragraph [114] to [122]</p><p align="justify" class="Table-Para-1">and at paragraph [137]</p><p align="justify" class="Table-Para-1">PW1 had said ‘bye bye’ to the Accused after the 2nd OM act. This suggested she was not emotionally distressed. PW1 was singing to herself after the Accused exited the bathroom.</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Immaterial discrepancy</b></p><p align="justify" class="Table-Para-1">Victims of sexual offences may not behave in a stereotypical way.</p><p align="justify" class="Table-Para-1">[see <em>PP v Roger Yue Jr</em> <a class="pagecontent" href="javascript:viewPageContent('/SLR/23089-SSP.xml')">[2019] 3 SLR 749</a> at (30)]</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Defence Closing Submission, paragraph [124]</p><p align="justify" class="Table-Para-1">During EIC, PW1 testified that the Accused left the bathroom immediately after he had said ‘bye bye’</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Defence Closing Submission, paragraph [124]</p><p align="justify" class="Table-Para-1">During cross-examination, after watching the CCTV clip, PW1 agreed that the Accused did not leave the bathroom immediately after she had said ‘bye bye’.</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Immaterial discrepancy</b></p><p align="justify" class="Table-Para-1">Human fallibility in retention and recollection.</p><p align="justify" class="Table-Para-1">Discrepancy has no bearing on the facts in issue.</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Defence Closing Submission paragraph [130]</p><p align="justify" class="Table-Para-1">During EIC, PW1 testified that she said ‘bye bye’ after she had pointed to the tennis court, to divert the attention of the Accused.</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Defence Closing Submission, paragraph [127] to [131]</p><p align="justify" class="Table-Para-1">During cross-examination, PW1 admitted that she forgot the sequence of events. PW1 testified that she had said ‘bye bye’ before she had talked about the tennis court.</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Immaterial discrepancy</b></p><p align="justify" class="Table-Para-1">Human fallibility in retention and recollection.</p><p align="justify" class="Table-Para-1">Discrepancy has no bearing on the facts in issue.</p></td></tr></tbody></table>
+
+  
+  
+
+## j.    PW1’s behaviour immediately after the 1st OM Act should be given little weight in the light of all the circumstances of this case **[^258]**
+
+118    In the Defence Closing Submission at paragraph \[70\], the Defence had stated that “_Her demeanour shows as if nothing has happened. PW1 was seen coming out of Bedroom 2 laughing and singing songs. PW1 even made funny gestures at the Accused, like a saluting gesture. She was seen singing a song and walking to the kitchen.”_ Based on PW1’s demeanour, the Defence submitted that reasonable doubt had been created as to whether the 1st OM Act had even taken place.
+
+119    The issue being canvassed by the Defence pertains to PW1’s ‘behaviour’ and not her ‘demeanour’, after the 1st OM Act. PW1’s demeanour actually remained unchanged (ie. a chirpy and happy person) until the point when the Accused got dressed and went out of the house at 17:44hrs on 29th Nov 2016[^259]. The Accused himself testified that PW1’s demeanour only changed after he returned home at around 21:03hrs, later that same evening[^260].
+
+120    The key issue therefore is the weight to be placed on the ‘behaviour’ of PW1 after the 1st OM Act. In this regard, the case of _PP v Yue Roger Jr_ <span class="citation">\[2019\] 3 SLR 749</span> (**TAB 4**) (“**_Yue Roger_**”) is instructive. _Yue Roger_ involved an accused who had sexually penetrated a minor who was under 14 years of age. The sexual offences were carried out from 2008 to 2010, while the accused was the victim’s rope skipping coach. The victim only revealed the sexual offences to her teacher and school counsellor and reported the matter to the police sometime in 2014. On the facts, it was undisputed that the victim had continued with her coaching lessons, even after the accused had repeatedly abused her sexually.
+
+121    In their judgment, the High Court made the following remarks at paras \[31\] to \[34\]:
+
+> \[_31_\]   _The Victim’s behaviour in the present case in continuing with her rope skipping training with the Accused until 2010 may at first blush seem odd given that she was the victim of repeated sexual abuse. So was the fact that after one instance of sexual intercourse, she went on to go for training as per normal._ **_However, all this must be seen in the light of the fact that the Victim was at the material time a child of just 13 years, for whom training and competing with the Accused’s private rope skipping team was the centrepiece of her life and, indeed, her aspirations for the future_** _. While the average adult may be expected to react in a particular way – for example, to resist, report or complain about an assault as soon as possible – a child or juvenile cannot be expected to always react similarly._ **_The thinking process, assumptions and viewpoint of a child or juvenile victim may lead to a course of action that may on its face appear unreasonable or improbable to an adult. However, the court must always be mindful of the reasons behind what may seem like unexpected conduct on the part of a child or juvenile victim, and should not measure a child or juvenile by adult standards._**
+
+> \[_32_\]   _What the court should do is to assess, given the evidence in respect of the specific complainant and the allegations made, whether what is put forward is consonant with the likely probabilities._ **_A child or juvenile complainant may not be expected to complain if he or she feels vulnerable, or is otherwise focused on matters other than protecting his or her modesty._** _A child or juvenile is by definition immature, and should not, in the absence of evidence showing otherwise, be held to the measure of an adult. The thought processes and concerns of a child or juvenile may also continue to evolve and permutate as he or she matures, such that it may be some time before he or she is in a position to complain._
+
+> \[_33_\]   **_Thus, in the present case, the fact that the Victim did not complain in a timely manner and remained in contact with the Accused over the extended duration of the abuse did not rob her of credibility_** _; I accepted that the Victim was focused on her continued participation in the private rope skipping team, and did not know what to do about the Accused’s sexual advances. I accepted her explanation that she did not resist or report the offences to a teacher or family member as rope skipping was her priority at that time and she feared that her place on the private rope skipping team would be jeopardised were she to do so. I also accepted that she had not reported the offences to her family or the police as she felt ashamed._
+
+> \[_34_\]   _Similarly, the fact that the Victim was not driven into despair or helplessness was not by itself a ground for disbelief of her evidence._ **_People react in different ways to sexual abuse and may compartmentalise or rationalise their reactions. A calm, undisturbed disposition may generally incline the court to conclude that no wrong was committed, but it is not necessary for a complainant to be distraught for her to be believed._**
+
+122    Just like a child, the thinking process, assumptions and viewpoints of a someone employed as a domestic maid, may on its face appear unreasonable or improbable, to an ordinary adult. The Prosecution submitted that this Court must be mindful of the reasons behind what may seem like unexpected conduct on the part of PW1 and should not measure her conduct by the same ordinary standards. In particular, PW1 may not complain or behave in a normal manner if she was focused on matters other than protecting her modesty.
+
+123    In the present case, the evidence shows that PW1 had borrowed monies and was in debt to her agent. She also knew she would incur additional debt if she changed employers.
+
+![]([2019] SGMC 0066_Image/[2019] SGMC 0066_image15.png)
+
+124    PW1 also testified that she regarded the Accused as her boss and an ‘elder’[^261].
+
+![]([2019] SGMC 0066_Image/[2019] SGMC 0066_image16.png)
+
+125    The Prosecution submitted that PW1’s behaviour, immediately after the 1st OM Act, is explainable given the following circumstances:
+
+> (a)     PW1 arrived from Myanmar just two months prior to the OM incidents. She came from village background and it is not inconceivable for her to look up to the Accused an ‘elder’ and to assume that he would not harbour any ill intentions towards her;
+
+> (b)     PW1 depended on the Accused her wages and her priority was to earn a living and settle her debts. This is evident from her statement - “_I didn’t keep it inside me because I felt it is nothing._ **_I just want to keep on working_**.” PW1 clearly had priorities which were more pressing, other than protecting her modesty;
+
+> (c)     The nature of the 1st OM Act was also not intrusive and was carried out in a casual manner. This explains why PW1 felt that “_it was nothing_”. However, when seen in the context of an employer – employee relationship, such acts are not acceptable even in the workplace;
+
+> (d)     Finally, the fact that PW1 behaved like nothing had happened, should not rob her of her credibility, especially in light of the Accused’s tendency to touch PW1 “_here and there_”. In all likelihood PW1 was conditioned to these non-intrusive physical contacts, so much so that she did not let it affect her.
+
+126    In light of the above, the Prosecution was of the view that little weight should be given to PW1’s behaviour immediately after the 1st OM Act. Instead, the Prosecution submitted that PW1’s behaviour is explainable given her circumstances (as an employee), her priorities and her personality as a chirpy person.
+
+## k.    PW1 did not fabricate her evidence in respect of the other 2 incidents (Exhibits P18 and P19) **[^262]**
+
+127    The Defence submitted that PW1 had fabricated her evidence in respect of these two incidents because she only raised it, at trial, after viewing the CCTV footages[^263]. Moreover, she did not inform the police about these incidents, when she was interviewed by them. At trial, PW1 readily admitted that she did not inform the police about these two incidents and explained that the reason was because she didn’t “_think about it_”.
+
+128    The Prosecution submitted that PW1 had no reason to fabricate evidence, for the following reasons:
+
+> (a)     The CCTV footages are objective evidence of what had transpired at the material time. In Court, PW1 was merely testifying to what she was seeing in Court;
+
+> (b)     Whether there was physical contact, is a finding of fact, which can be made by the Court, based on its own observations of the CCTV footages;
+
+> (c)     PW1 has no motive to falsely implicate the Accused. She testified based on her recollection of the events and she did not embellish her account just so that a stronger case could be mounted against the Accused[^264];
+
+> (d)     The Accused, on the other hand, flip-flopped in his explanations. He first suggested that he had a habit of holding onto the main door whenever he was going out of the house. He later changed his testimony and stated that he pushed the door, as he walked out of the flat. Both his explanations are not supported by the objective CCTV evidence. This can only mean that PW1’s version is credible.
+
+129    In conclusion, Prosecution submitted that they had proven their case against the Accused beyond a reasonable doubt and urged this Honourable Court to convict the Accused as charged.
+
+## I.   Defence Submission
+
+## a.    The relevant law as regards to standards of proof and witnesses’ evidence
+
+130    The Defence had submitted the relevant law as regards to standards of proof and witnesses’ evidence are as follows:
+
+> i.      **The Standard of Proof Required[^265]**
+
+> i.     The burden is on the Prosecution to prove the charges levied against the Accused beyond a reasonable doubt[^266]. On the other hand, the task of the Defence is to raise a reasonable doubt. In practical terms this means that if the court accepts the explanation of the Accused, then the Accused would have discharged this burden[^267].
+
+> ii.     A bare denial in an appropriate case can raise a reasonable doubt, especially in cases where the offence is alleged to have been committed in circumstances where there are no witnesses[^268]. However, it has to be borne in mind that illusory or fanciful doubts would not be sufficient to warrant an acquittal; they must be real or reasonable[^269].
+
+> ii.      **General treatment of witnesses’ evidence** **[^270]**
+
+> i.     Every witness is presumed to be credible until the contrary is shown. The trial judge must also bear in mind that, among other factors, the amount of credibility to be given to a witness depends mainly on his ability to discern and comprehend what was before him, what has taken place, his opportunities of observation, the degree of accuracy with which he was accustomed to marking the passing events, and his integrity or honesty in relating them: _See Kwan Peng Hong v. Public Prosecutor_ <span class="citation">\[2000\] 2 SLR(R) 824</span>
+
+> ii.     The trial judge must bear in mind that the weight to be attached to a witness’s evidence, among other factors, depends on his honesty, his ability, the number and consistency of the evidence, and conformity of the evidence with experience, and the coincidence of the evidence with other collateral circumstances: _See Kwan Peng Hong v. Public Prosecutor_ <span class="citation">\[2000\] 2 SLR(R) 824</span>
+
+> iii.     For honesty and integrity, the trial judge must be open to any prevailing motive or inducement of a witness not to speak the truth. For the ability to speak the truth, the trial judge should take into account, among other factors, the opportunities that a witness has for observing the facts, the accuracy of a witness’s powers of discerning and the faithfulness of his memory in retaining the facts: _See Kwan Peng Hong v. Public Prosecutor_ <span class="citation">\[2000\] 2 SLR(R) 824</span>.
+
+> iv.     For consistency, the trial judge must be aware of that many seeming consistencies, will prove, upon closer scrutiny, to be in substantial contradiction, and vice-versa. As to conformity of the testimony with experience, the trial judge must be receptive to whether the facts related were such as ordinarily would occur in human experience: _See Kwan Peng Hong v. Public Prosecutor_ <span class="citation">\[2000\] 2 SLR(R) 824</span>.
+
+> iii.      **Treatment of Contradictions, Discrepancies and Falsehoods** **[^271]**
+
+> i.     Human fallibility in observation, retention and recollection are often recognised by the court. The essential question is whether discrepancies in evidence are minor or material. In **_Chean Siong Guat v. PP_** **<span class="citation">\[1969\] 2 MLJ 63</span>** \[**Tab 10** of **BOA**\], His Honourable, Justice **Abdul Hamid J**, stated:
+
+>> _Discrepancies may, in my view, be found in any case for the simple reason that no two persons can describe the same thing in exactly the same way. Sometimes what may appear to be discrepancies are in reality different ways of describing the same thing, or it may happen that the witnesses who are describing the same thing might have seen it in different ways and at different times and that is how discrepancies are likely to arise. These discrepancies may either be minor or serious discrepancies. Absolute truth is I think beyond human perception and conflicting versions of an incident, even by honest and disinterested witnesses, is a common experience. In weighing the testimony of witnesses, human fallibility in observation, retention and recollection are often recognised by the court. Being a question of fact, what a magistrate need do is to consider the discrepancies and say whether they are minor or serious discrepancies. If, after considering the discrepancies, if a magistrate finds that the discrepancies do not detract from the value of the testimony of the witness or witnesses, it would then be proper for him to regard the discrepancies as trivial and ignore them. On the other hand, if a magistrate finds that the discrepancies relate to a material point which would seriously affect the value of the testimony of the witness or witnesses, then it would be his duty to weigh the evidence carefully in arriving at the truth._
+
+> ii.     Contradictions, discrepancies and falsehoods in the evidence of a witness are not sufficient reasons for rejecting the whole of the evidence of such a witness. The proper approach is to view the evidence with suspicion and treat it with caution. In this regard, His Honourable Gill J, stated in the case, **_De Silva v. PP_** **\[1964\] 1 MLJ 81:**
+
+>> _The next ground of appeal is in relation to contradictions and discrepancies in the evidence of the complainant himself and the contradictions and discrepancies between his evidence and the evidence of some of the witnesses for the Prosecution._
+
+>> _Discrepancies and contradictions there will always be in any case. In considering them what the Court has to decide is whether they are of such a nature as to discredit the witness entirely and render the whole of his evidence worthless and untrustworthy. It is true that the learned President has not specifically referred to these discrepancies and contradictions, but it does not follow that he did not consider them, particularly when he has given a fairly full summary of the evidence of each witness. I must therefore hold that this ground also is without merit._
+
+>> _Perhaps I should now deal with the ground as to the so-called patent falsehoods in the complainant’s evidence because this ground is very closely linked up with the ground with which I have dealt in the previous paragraph._
+
+>> _Perhaps some part of the complainant’s evidence was not true, but the question is whether a Court can reject the whole of his evidence because of some lies in his evidence. On this point a number of authorities were cited to me by Mr Marshall. I have considered them very carefully and would content myself by relying on the case of Khoon Chye Hin v PP \[1961\] 1 MLJ 105, which is binding upon me. It was said in that case by the Court of Appeal that if a witness demonstrably tells lies, his evidence must be looked upon with suspicion and treated with caution but to say that it should be entirely rejected would be to go too far. The learned President has said that the complainant gave his evidence in a straightforward and cogent manner notwithstanding his severe cross-examination for a little more than one day by the defence. Having gone through this witness’s evidence I must say that that is a correct appraisal of his evidence. I would therefore reject this ground of appeal._
+
+> The axiomatic observations in the above cases have often been cited with approval. See **_Lee Yuen Hong v PP_** **<span class="citation">\[2000\] 1 SLR(R) 604</span>.**
+
+> iii.     However, depending on the circumstances, a different approach is possible, as noted in **_PP v. L (a minor)_** **<span class="citation">\[1999\] 1 SLR(R) 1041</span>;** with reference to the case of **_Ng Kwee Leong v. PP_** **<span class="citation">\[1998\] 3 SLR 942</span>.** In **_PP v. L_**, **at \[31\]**, His Honourable, Yong Pung How CJ (as he was then) said;
+
+>> _With regards to this, the trial judge had reviewed the law regarding the inconsistencies and contradictions of the evidence adduced. The relevant case on this is Ng Kwee Leong v PP <span class="citation">\[1998\] 3 SLR(R) 281</span>. In that case, inconsistencies and contradictions of the evidence adduced were classified into three categories:_
+
+>>> a.     **_The first category_** _is where the discrepancies relied on are immaterial discrepancies, which have no direct bearing on the facts in issue. In such instance, the trial judge should find that these discrepancies do not detract from the general veracity of the Prosecution witnesses on the material issues and accept the evidence of the Prosecution witnesses on those issues._
+
+>>> b.     **_The second category_** _is where the discrepancy or inconsistency of evidence, whilst not relating directly to the crux of the Prosecution’s case, may be viewed as deliberate concoction of the witness and affect the credibility of the witness. A cautionary note was sounded in that, even if a witness is found to have lied on a matter, it does not necessarily affect his credibility as a whole.This was the view in_ **_PP v Datuk Haji Harun bin Haji Idris (No 2) <span class="citation">\[1977\] 1 MLJ 15</span>; Khoo Chye Hin v PP <span class="citation">\[1961\] MLJ 105</span>; Samad bin Kamis v PP <span class="citation">\[1991\] 1 SLR(R) 450</span>_** _and most recently in_ **_Sundara Moorthy Lankatharan v PP <span class="citation">\[1997\] 2 SLR(R) 253</span>._**
+
+>>> c.     **_The third category_** _concerns discrepancies where two persons give separate accounts as to short passages of time. The court noted that adequate allowance must be given to human fallibility in the precise assessment of short spans of time. Accordingly, discrepancies are to be expected where two persons give separate accounts as to short passages of time. The case of_ **_Chean Siong Guat v PP <span class="citation">\[1969\] 2 MLJ 63</span>_** _was referred to note that absolute truth is beyond human perception and honest and disinterested persons may provide conflicting versions of the same incident. Accordingly, the court in weighing the testimony of witnesses must recognise human fallibility in observation, retention and recollection._
+
+> iv.     Only material discrepancies/inconsistencies are subjected to impeachment proceedings as stated in **_Muthusamy v. PP_** **\[1948\] 14 MLJ 57** \[**Tab 14** of **BOA**\]; **_PP v. Heah Lian Khin_** **<span class="citation">\[2000\] 2 SLR(R) 745</span>** \[**Tab 15** of **BOA**\]**;** **_Ng Kwee Leong v PP_** **<span class="citation">\[1998\] 3 SLR(R) 281</span>** \[**Tab 16** of **BOA\];** **_Loganatha Venkatesan & Ors v Public Prosecutor_** **<span class="citation">\[2000\] 2 SLR(R) 904</span>** \[**Tab 17** of **BOA**\].
+
+> iv.      **Impression as to Demeanour & Credibility of a Witness** **[^272]**
+
+> i.     Impressions as to demeanour of a witness must be tested against the whole of his evidence. In this regard, **Spenser Wilkinson J** in **_Tara Singh v PP_** **\[1949\] 1 MLJ 88** (**Tab 18 BOA**) stated:
+
+>> … _it has been laid down, however, that ‘an impression as to the demeanour of a witness ought not to be adopted by a trial judge without testing it against the whole of the evidence of the witness in question’ \[see judgment of Lord Greene MR in Yuill v Yuill \[1945\] 1 All ER 183\]. This was a civil case and the principle applies with even greater force to criminal cases_
+
+> The above principle has received consistent endorsement. See **_PP v. Yeo Choon Poh_** **<span class="citation">\[1994\] 2 SLR 867</span>**.
+
+> ii.     Findings as to the credibility of a witness can be based on his demeanour and _the internal consistency_ of his own evidence, or the external consistency between his own evidence and extrinsic evidence, or some combination of these_._ In **_Farida Begam d/o Mohd Artham v. PP <span class="citation">\[2001\] 4 SLR 610</span>; <span class="citation">\[2001\] SGHC 333</span>_**, his Honour **Yong Pung How CJ** at \[9\] held that a judge can make a finding on the credibility of a witness based on some or all of the following:
+
+>> (_1_)     _His demeanour._
+
+>> (_2_)     _The internal consistency (or lack thereof) in the content of his evidence._
+
+>> (_3_)     _The external consistency (or lack thereof) between the content of his evidence and extrinsic evidence (for example, the evidence of other witnesses, documentary evidence or exhibits)._
+
+> iii.     In the absence of circumstances, which generate suspicion, every witness is to be presumed to be credible, until the contrary is shown. In the case of **_Kwang Peng Hong v. PP <span class="citation">\[2000\] 4 SLR 96</span> (Tab 9 BOA)_**, His Honour, **Yong Pung How CJ**, stated:
+
+>> _48_.     _In a case like this, the trial judge must always bear in mind that the objective of the trial is to arrive at reasonable and safe findings of fact. In the absence of circumstances, which generate suspicion, every witness is to be presumed to be credible, until the contrary is shown. Defence counsel and the prosecution have the burden of raising the question of the credibility of each other’s witnesses. It is not a rule that a witness is to be presumed false until he is proven to be true._
+
+>> _49_.     _The trial judge must also bear in mind that, among other factors, the amount of credibility to be given to the witness depends mainly on his ability to discern and comprehend what was before him, what has taken place, his opportunities of observation, the degree of accuracy with which he was accustomed to marking the passing events, and his integrity or honesty in relating them._
+
+>> _50_.     _In such a case, the trial judge must also bear in mind that the weight to be attached to the witness’s evidence, among other factors, depends on his honesty, his ability, the number and consistency of the evidence, and conformity of the evidence with experience, and the coincidence of the evidence with other collateral circumstances._
+
+>> _51_.     _For honesty and integrity, the trial judge must be open to any prevailing motive or inducement of the witness not to speak the truth. For the ability to speak the truth, the trial judge should take into account, among other factors, the opportunities that the witness has for observing the facts, the accuracy of the witness’s powers of discerning and the faithfulness of his memory in retaining the facts. For consistency, the trial judge must be aware that many seeming consistencies, will prove, upon closer scrutiny, to be in substantial contradiction, and vice versa. As to the conformity of the testimony with experience, the trial judge must be receptive to whether the facts related were such as ordinarily would occur in human experience. As to the coincidence of the evidence with collateral and contemporaneous facts and circumstances, the trial judge must carry out close inspection of the evidence, comparing its details with each other and with contemporary accounts and collateral facts, if any._
+
+> v.      **Corroborative & Uncorroborated Evidence of the Victim** **[^273]**
+
+> i.     As regards corroborative evidence a former statement of the victim may be prove of her testimony in court. This is provided for in section 159 of the Evidence Act, Cap 97.
+
+>> **_Former statements of witness may be proved to corroborate later testimony as to same fact_**
+
+>> 159.    _In order to corroborate the testimony of a witness, any former statement made by such witness, whether written or verbal, on oath, or in ordinary conversation, relating to the same fact at or about the time when the fact took place, or before any authority legally competent to investigate the fact, may be proved._
+
+> ii.     The Courts have cautioned against convicting on the words of the complainant alone unless the evidence is unusually compelling. In assessing the supporting evidence, the question is whether this supporting evidence made up for the weakness in the complainant’s evidence. This ensured that the proper weight was given to the right evidence, and no undue weight was assigned to some evidence merely because it was called ‘corroboration’, or ‘supporting evidence’. **_See Tang Kin Seng v PP <span class="citation">\[1997\] 1 SLR 46</span>; Din v PP <span class="citation">\[1964\] MLJ 300</span>_** **;** **_Brabakaran v PP <span class="citation">\[1966\] 1 MLJ 64</span>_** **;** **_Khoo Kwoon Hain v PP <span class="citation">\[1995\] 2 SLR 767</span>_****.**
+
+> iii.     In **_Cadawanaltharayil John Benjamin v Public Prosecutor \[1995\] SLR(R) 478; <span class="citation">\[1995\] SGHC 241</span>_**, it was held that the appearance of the victim should not colour the decision on whether the accused intended to outrage the modesty of the victim or not but should be based on direct evidence, relevant circumstantial evidence and independent corroborative evidence:
+
+>> \[_69_\]    _The district judge held that Chew’s evidence corroborated the complainant’s evidence. In the light of s159 of the Evidence Act (Cap 97, 1990 Rev Ed), this is technically correct. However, attention must be paid to the nature of the corroboration and the question of what exactly was meant to be corroborated. Section 159 says that the former complaint made by the complainant is corroboration. That may be so, but the fact remains that it originated from the complainant herself and is not independent evidence. Hence, great care should be exercised by the court when assessing the weight of this evidence._
+
+> vi.      **A Bare Denial; A Bare Allegation[^274]** **.**
+
+> i.     A bare denial does not carry the connotation that it could not be true. The submission that a _prima facie_ case could not be answered by a bare denial cannot generally be accepted. This is because if it were really the case that nothing happened at all, there would be nothing but a bare denial. It would be dangerous to discount the Accused’s evidence merely because it was a bare denial. See **_Teo Keng Pong v. Public Prosecutor_** **<span class="citation">\[1996\] 2 SLR(R) 890</span>.**
+
+> ii.     The right approach was to analyse the evidence adduced at trial and decide whether it was safe to convict the Accused based solely on the evidence that raises a _prima facie_ case against the Accused in question. If it was not, then it is necessary to identify which aspect of the Prosecution’s evidence was not convincing. See **_Tang Kin Seng v. Public Prosecutor_** **<span class="citation">\[1996\] 3 SLR(R) 444</span>.**
+
+> iii.     Consequently, the Court must decide what supporting evidence was required thereof and thereafter, whether the same was available. If such supplemental evidence was available, then the Court must decide nonetheless if the same made up for the weakness in the Prosecution’s evidence, as well as accumulated knowledge of human behaviour and common sense. See **_Tang Kin Seng v. Public Prosecutor_** **<span class="citation">\[1996\] 3 SLR(R) 444</span>.**
+
+> iv.     In **_Kwan Peng Hong v. Public Prosecutor_** **<span class="citation">\[2000\] 2 SLR(R) 824</span>**, the Honourable Chief Justice Mr Yong Pung How (as he was then) stated that “whenever the Court has to either acquit or convict an Accused based on a single allegation, the heightened risk of miscarriage of justice would necessarily prompt the Court to be extremely cautious. It is a requirement necessitated by the amount of evidence available to the court to make a decision one way or the other, that impacts on the Accused’s liberty”. _See_ **_Kwan Peng Hong v. Public Prosecutor_** **<span class="citation">\[2000\] 2 SLR(R) 824</span>**.
+
+> v.     In the event that there is nothing but bare allegations to support a charge preferred against an accused person, the trial judge should not convict the Accused in question based on the words of a witness alone, unless the witness’ evidence was so unusually convincing. **_See Ng Chiew Kiat v. Public Prosecutor_** **\[2000\] 1 SLR 371.**
+
+## b.    Testimony of Prosecution’s Witnesses
+
+## i.    PW1’s testimony
+
+131    The Defence submitted that PW1’s testimony should not be accepted/believed for the following reasons:
+
+> i.     PW1 had made 2 sounds in the master bedroom toilet on 29 November 2016. PW2 has testified that the 2nd sound was made by her when the Accused hugged and squeezed her breast. However, she could not remember why she made the 1st sound[^275]. The Defence was of the view that this is utter rubbish as PW1 could not have forgotten why she had made the 1st sound. And this makes her credibility highly suspicious[^276]. The Defence’s position is that PW1 has a habit of making funny noises whenever she sees anything unusual and that she had made the 1st sound when she saw the Accused shaving in the master bedroom bathroom[^277].
+
+> ii.     Immediately after the Accused had stepped out of the master bedroom toilet after he had alleged molested PW1, PW1 said “bye, bye” to the Accused and she could be heard singing. The Defence is of the view that as her demeanour does not show she was sexually assaulted as she was heard singing and not showing any signs of psychological trauma after the assault[^278].
+
+> iii.     PW1’s evidence is not corroborated. The Prosecution was unable to call the Filipino maid who could be a corroborating witness[^279]. PW1 had also been communicating with a Myanmese maid and she had deliberately not informed the police about this fact. This had resulted in the Prosecution failing to interview this witness to corroborate PW1’s story[^280]. This is a material gap in the police investigation.
+
+> iv.     PW1 is inconsistent in her testimony and she had given different accounts of events to PW3[^281]:
+
+>> a.       PW1 had testified that when the phone was handed to her by the Filipino maid, she spoke to her teacher (PW3). PW1 told PW3 that the Accused had touched her here and there (the day before) and the next day the Accused touched her breast[^282]. She had not informed PW3 that the Accused had put his head on her shoulder but she had simply told PW3 that the Accused had hugged her twice.
+
+>> b.       However, later in her evidence, PW1 gave another version of what had happened and PW1 said that “first time he hugged me but when I say to the teacher, he hugged me I meant he put the---put his head on my shoulder[^283]. I just used the word he hugged me and but this time I told her that he also touched my breast”.[^284]
+
+> v.     PW1’s demeanour immediately after the alleged 1st OM Act on 28 November 2016 does not look like someone who had been molested[^285]:
+
+>> a.       The Defence submitted that PW1’s demeanour after the incident is very telling that she had made a false allegation against the Accused. PW1had claimed that she did not feel or fear anything at all after the Accused placed his head on her shoulders. Her demeanour shows as if nothing has happened. PW1 was seen coming out of Bedroom 2 laughing and singing songs. PW1 even made funny gestures at the Accused, like a saluting gesture. She was seen singing a song and walking to the kitchen. The Defence was of the view that there is reasonable doubt created in this regard[^286].
+
+>> b.       Another clip of a video captured from the dining area after the 1st OM Act also showed PW1 in a happy and cheerful mood[^287]. She even greeted the Accused farewell and even told the Accused she will see him the next day. Defence submitted that no victim in PW1’s position would have such a demeanour if they have been touched only less than an hour ago. Again there is a reasonable doubt been created in this regard.
+
+> vi.     During cross-examination, PW1 had testified that the Accused had touched her buttocks when he was leaving his residence to work on 28 November 2016. The Defence had submitted that this is not true because of the following reasons[^288]:
+
+>> a.       The Accused could not have touched her buttocks as PW1 was seen having her buttocks pressed against the main door. Even when PW1 was asked whether the Accused touched her ‘hips’, she insisted that it was her ‘buttocks’.
+
+>> b.       PW1 did not report this allegation to the police during investigations, but claimed that the Accused’s had touched her buttocks. However, PW3 did not corroborate PW1’s evidence. PW3 did not testify that PW1 had informed her that the Accused had touched her buttocks.
+
+>> c.       PW1 testified that although she had informed the police during investigations that the Accused had placed his head of her shoulders, but she did not mention to the investigation officer of the more serious allegation of the Accused touching her buttocks, which was supposedly captured in the CCTV footages.
+
+>> d.       PW1 also testified that she did not expect that this matter would end up in court and she did not expect this matter would become serious and big. PW1 testified that all she wanted is to move out of the Accused’s residence and away from his house and she did not want to pursue the matter. Therefore, the Defence is saying that PW1 is making up this allegation so that she could leave the Accused’s house as that was her ulterior motive.
+
+>> e.       Based on the evidence given by PW2, PW1 did not even file a police report against the Accused. It was the Accused who had filed the First Information Report[^289].
+
+>> f.       The Defence also found it strange that PW1 had made allegations of two (2) incidences to the police during investigations which were NOT captured by CCTV cameras, but did not inform the police of the incidents which were supposedly captured by CCTV cameras.
+
+>> g.       If the Accused had molested PW1 by touching her buttocks at the front door, the police would have charged the Accused for the same. In the present case, the fact that the police did not charge the Accused must mean that he did not touch her buttocks[^290].
+
+>> h.       Moreover, the CCTV footage clearly showed that the main door is fixed with a spring mechanism, which would automatically spring close the door. So if the main door were to remain open, there must be a door stopper placed at the bottom of the door to prevent the door from closing. If there was no door stopper, then someone would have to hold the door to prevent it from closing. In the CCTV footage, it can be seen that PW1 was stopping the door from closing. PW1 also agreed that the main door would close by itself if no one were to stop it. Similarly, the Accused also has a habit of placing his hands on the door to stop the door from closing. In the present case, the Accused was not using his hands to touch PW1’s buttock, but was instead moving his hand, as a habit, towards the door[^291] to prevent the door from closing.
+
+> vii.     The Defence submitted that PW1 was unhappy that the Accused did not pay her salary for 2 months because she had raised this issue with PW2 in the course of investigation. The Defence was of the view that the mere fact that PW1 had raised the issue of her not being paid by the Accused, during an investigation into a case of “outrage of modesty”, must mean that she was unhappy for not being paid her salary by the Accused[^292].
+
+> viii.     The Accused’s testimony is that PW1 had said to him “Sir, Sir working, huh” when he was exiting the toilet after the 2nd OM incident on 29 November 2016. PW1’s position was that she did not say those words. The Defence is of the view that PW1 is not telling the truth because there were a number of earlier instances on the same day where PW1 had asked the Accused about him not working on that day and whether he was going out. The Defence submitted that this Court should accept the Accused’s evidence rather than PW1’s evidence because the Accused’s version is consistent with what PW1 had been asking him[^293].
+
+> ix.     The Defence also submitted that PW1 could not have asked the Accused about playing tennis when they were in the master bedroom toilet because PW1 has never seen Accused playing tennis before. The Defence had submitted that the Accused has never played tennis in his entire life, let alone at his residence tennis court. The Defence is also saying that PW1 has changed her evidence in court on this point. She had initially testified that she was asking the Accused about not playing tennis but later she change her evidence to telling him that there was no one playing tennis on that day[^294]. The Defence also pointed out that PW1 had informed PW2 that she was talking to the Accused about playing squash and not tennis on that day[^295]. In this regard, the Defence is saying that PW1’s testimony is highly suspicious and she is trying to manipulate the evidence[^296].
+
+> x.     The Defence also submitted that PW1 had wanted to leave the Accused’s employment because she had missed her family and her mother would be worried as she had not telephoned home. And this is due to the fact that the Accused had not given her the opportunity to call home since the day she started working for the Accused[^297].
+
+> xi.     Another reason given by the Defence as to why PW1’s evidence should not to be believed is because PW1 was heard singing in the master bedroom toilet immediately after the 2nd OM incident. The Defence is saying that this is clear evidence that PW1 neither was emotionally distress nor was she scared or afraid. She was joyful and happy when she was heard greeting the Accused, ‘Bye bye sir’, and subsequently singing song. This again raised doubts as to her credibility[^298].
+
+> xii.     The Defence also submitted that PW1’s evidence should not be believed because she could not remember whether she said ‘Bye Bye Sir’ first or whether she wanted to distract the Accused first[^299]. During Examination-In-Chief, PW1 claimed that after the Accused had allegedly hugged and touched her breast, in order to divert the Accused attention, she started asking the Accused about not playing tennis that day. Thereafter, the Accused said, ‘bye’, ‘bye’, to her and left the toilet. However, during Cross Examination, PW1 changed her testimony. She testified that after the Accused had allegedly hugged and touched her breast, the Accused said, ‘bye’, ‘bye’. Then PW1 moved to the window, located between the sink and the toilet bowl and ask the Accused about whether he was not playing tennis that day[^300].
+
+> xiii.     The Defence also submitted that PW1 was not a credible witness because she had contradicted herself when she said on the one hand she was scared and shocked when the Accused touched her in the toilet, but on the other hand she also said that she wanted to divert the Accused’s attention to the tennis court because she wants to show the Accused that she did not feel anything about the Accused hugged and touched her breast[^301].
+
+> xiv.     The Defence also submitted that that PW1 had lied to PW3 by telling PW3 that the Accused had hugged her twice which is not true[^302].
+
+> xv.     And in relation to the CCTV footage showing PW1 talking to the Filipino maid after the Accused had left his residence, the Defence had submitted that PW1 was not telling the truth as the CCTV footage from 19:17 to 19:18 hours clearly showed her talking to someone in a language she was comfortable in. In her Evidence in Chief, PW1 had testified that she could not remember who she was talking to. However, during Cross-Examination, she changed her story to say that she was talking to herself[^303].
+
+> xvi.     As for the Accused brushing his hand against PW1’s stomach at the master bedroom toilet door when he walked past her on 29 November 2016, the Defence position is that the Accused did not do that otherwise he would have been charged by the police for doing the same. The Defence was also of the view that if the Accused had done the alleged act, PW1 would have complained of the same to the police but she did not do that. Further her demeanour showed she was in no way affected by the incident[^304].
+
+## ii.    PW2’s testimony
+
+132    The Defence submitted that PW2 evidence in court clearly supported the Accused’s evidence and is corroborative of the Accused’s evidence that he did not commit the alleged offences against PW1[^305].
+
+133    The Defence Counsel cross-examined PW2 at length on PW1’s demeanour and her statements made to him in the course of his investigation. The Defence submitted that PW2’s observation of PW1’s demeanour and her statements to him in the course of his investigation and her statements to him in the course of investigation evidence clearly contradicted PW1’s evidence in court and this was evidence that she was not telling the truth in court[^306]. There was also evidence that when the Accused returned home that evening, PW1 was talking to a Myamnese maid from the kitchen balcony and she was heard saying “Someone knows already”[^307].
+
+134    The Defence also submitted that there was a gap in PW2’s investigation because PW1 had not disclosed to PW2 of the presence of the Myanmese maid. The Defence had alleged that the Myanmese maid had visited PW1 at the Accused’s residence and had colluded with PW1 to make the false allegations against the Accused in order to get out of his employ. As this fact was not disclosed to PW2 during investigations, PW2 had failed to conduct a proper investigation and record a statement from this unknown maid. Given that investigation is incomplete, there is certainly lacking or missing evidence to find that the Accused has committed the alleged offences and it would be dangerous to find the Accused to have committed the offences beyond a reasonable doubt[^308].
+
+## iii.    PW3’s testimony
+
+135    The Defence had submitted that PW3 was not a credible witness for the following reasons[^309]:
+
+> i.     When PW3 was asked as to what she was told by PW1 regarding the allegation against the Accused, PW3 testified that she was told that the Accused had touched PW1’s buttock. PW3 added that she heard PW1 telling her the Accused touched her twice, once at her buttock and once at her breast[^310]. During the trial PW1 testified that she told PW3 that the Accused had hugged her twice. That was all PW1 told PW3. However, in PW3’s testimony, she did not mention any hugging whatsoever. The Defence was of the view that PW3’s testimony was completely different from PW1’s evidence. Even during cross examinations, PW3 had testified that PW1 did not tell her that she was hugged by the Accused[^311]
+
+> ii.     PW3 further testified that PW1 told her that upon being touched, PW1 got frightened and shouted at the Accused and the Accused went out of the bathroom[^312]. When she was asked as to whether she told the Accused the reason why PW1 wanted to be sent back to the agency, PW3 testified that she did not. When asked why she did not tell the Accused the reason, she merely said she could not remember. The Defence was therefore of the view that PW3 was not a credible witness.
+
+> iii.     PW3 has also testified that when she spoke to PW1 through the Filipino maid’s handphone, PW1 appears to sound fearful. However when PW3 was shown the video of the 1sr OM incident which supposedly took place in Bedroom 2, PW3 testified that PW1’s demeanour after coming out of Bedroom 2 does not appear at all to be fearful[^313].PW3 was then shown the video where PW1 alleged that the Accused had touched her buttock while he was walking out of the residence[^314] . Thereafter two (2) other videos were shown to PW3. After watching the three (3) videos, PW3 was asked if PW1 appeared fearful in those videos. In response, PW3 said that PW1 did not appear to be fearful[^315]. PW3 was then shown the video where PW1 was heard singing in the toilet immediately after she had alleged that the Accused has hugged her and touched her breast. PW3 was then asked whether she would like to change her perception about PW1 sounding fearful in the telephone conversation with PW1. After much thought, PW3 said that it was difficult for her to say if PW1 sounded fearful when she spoke to her on the handphone_[^316]_.
+
+136    The Defence also submitted that PW3 had confirmed the existence of the Myanmese maid. PW3 was shown a video clip 21:09:38 where it captured PW1 voice, apparently talking to the Myanmar maid across the residence. PW3 confirmed that she heard PW1 talking to the another person in the Myanmar language and saying, ‘Somebody knows already’[^317]. The Defence was of the view that this was clear evidence that PW1 had been communicating and colluding with another unknown Myanmar maid.
+
+137    The Defence further submitted that the fact that PW1 was not happy working for the Accused and wanted to work for another employer. This could be seen from the fact that PW1 had requested PW3 to find her a new employer during her telephone conversation with PW3 after the Accused had asked PW1 to talk to PW3[^318]. During cross-examination, when asked what PW1 had told her during the telephone conversation, PW3 testified that PW1 wanted PW3 to find a new employer for her[^319]. The Defence was of the view that this was clear evidence that PW1 wanted to leave the Accused’s residence and to be placed with a new employer.
+
+138    The Defence also submitted that the fact that PW1 was homesick was evident from the telephone conversation between the Accused, PW1 and PW3[^320]. During the telephone conversation between the Accused and PW3, the Accused had asked PW3 to talk to PW1 and find out what was the problem with PW1 and why she wanted to go back to the agency. PW3 spoke to PW1 and she informed the Accused that PW1 was homesick. The Defence submitted that this is clear evidence that PW1 had informed PW3 that she was homesick and that is why she wanted to go back to the maid agency.
+
+139    Given the above, the Defence was of the view that the Prosecution had not made out their case against the Accused beyond reasonable doubt and the Defence urged me to acquit the Accused of the both charges.
+
+## J.   My Findings and Decision
+
+## a.    Elements of the offence
+
+140    Section 354 of the Penal Code (Cap 224, 2008 Rev Ed) stipulates:
+
+> (1)     Whoever assaults or uses criminal force to any person, intending to outrage or knowing it to be likely that he will thereby outrage the modesty of that person, shall be punished with imprisonment for a term which may extend to 2 years, or with fine, or with caning, or with any combination of such punishments.
+
+> (2)     Whoever commits an offence under subsection (1) against any person under 14 years of age shall be punished with imprisonment for a term which may extend to 5 years, or with fine, or with caning, or with any combination of such punishments.
+
+141    Section 73 of the Penal Code (Cap 224) further states that where an employer of a domestic maid or a member of the employer’s household is convicted of an offence of using criminal force to any domestic maid employed by the employer, the court may sentence the employer of the domestic maid or the member of his household as the case may be to one and a half times the amount of punishment to which he would otherwise have been liable for that offence.
+
+142    I agree with the Prosecution that they must prove the following in relation to the 2 charges:
+
+> i.     That at the material time and place as reflected in the charge, the Accused outraged the modesty of PW1 by making physical contact with her person as described in the charge;
+
+> ii.     In doing what he did, the Accused knew it to be likely that he would outrage the modesty of PW1; and
+
+> iii.     PW1, at all material times, did not consent to the Accused’s physical advances on her.
+
+## b.    The Law on Assessing Credibility of Victims of Sexual Offence
+
+143    In the present case, it is not disputed that both the alleged acts of outrage of modesty took place when only the Accused and PW1 were alone in the Accused’s residence. Both the incidents were also not captured on CCTV as both the incidents happened in a location which were not covered by the CCTV.
+
+144    In the case of a sexual offence, I am mindful of the inherent danger in convicting a person based on the sole evidence of the victim where there is no corroborative evidence. I understand that I must evaluate and scrutinise the evidence of the victim very carefully and thereafter decide if the testimony is so compelling to the extent that a conviction can be justified entirely on the victim’s testimony.
+
+145    The Court of Appeal in **_AOF v PP_** <span class="citation">\[2012\] 3 SLR 34</span> (“**AOF**”) had noted at \[111\] that:
+
+> “111  It is well-established that in a case where no other evidence is available, a complainant’s testimony can constitute proof beyond reasonable doubt (see s 136 of the Evidence Act (Cap 97, 1997 Rev Ed) (“EA”)) – but only when it is so “unusually convincing” as to overcome any doubts that might arise from the lack of corroboration (see generally the decision of this court in _PP v Mohammed Liton Mohammed Syeed Mallik_ <span class="citation">\[2008\] 1 SLR(R) 601</span> at \[37\]–\[44\] (“_Liton_”) and the Singapore High Court decision of _XP v PP_ <span class="citation">\[2008\] 4 SLR(R) 686</span> at \[27\]–\[36\] (“_XP_”)).
+
+> 112    The need for “fine-tooth comb” scrutiny in so far as allegations of sexual abuse are concerned is particularly acute, “given both the ease with which allegations of sexual assault may be fabricated and the concomitant difficulty of rebutting such allegations” (see the Singapore High Court decision of _Chng Yew Chin v PP_ <span class="citation">\[2006\] 4 SLR(R) 124</span> at \[33\], cited with approval in _Liton_ at \[37\]–\[38\]).
+
+> 113    In _XP_, V K Rajah JA observed (at \[31\]) that the requirement that the alleged victim’s evidence ought to be “unusually convincing”:
+
+>> _… does nothing, however, to change the ultimate rule that the Prosecution must prove its case beyond a reasonable doubt, but it does suggest how the evidential Gordian knot may be untied if proof is to be found solely from the complainant’s testimony against the Appellant. \[emphasis added\]_
+
+> 114    Apart from stating that its role is that of a cognitive aid, Rajah JA further elaborated on what “unusually convincing” entails (see _XP_ at \[29\]–\[35\]). Rajah JA’s pronouncements can be distilled into the following propositions:
+
+>> a.    First, subsequent repeated complaints by the complainant cannot, in and of themselves, constitute corroborative evidence so as to dispense with the requirement for “unusually convincing” testimony. As Yong Pung How CJ noted in the Singapore High Court decision of _Khoo Kwoon Hain v PP_ <span class="citation">\[1995\] 2 SLR(R) 591</span> (“_Khoo Kwoon Hain_”) at \[51\]:
+
+>>> If the complainant’s evidence is not ‘unusually convincing’, I cannot see how the fact that she repeated it several times can add much to its weight.
+
+>> b.    Secondly, the “unusually convincing” reminder should not be confined to categories of witnesses who are supposedly accomplices, young children or sexual offence complainants.
+
+>> c.    Thirdly, a conviction will only be set aside where a reasonable doubt exists and not simply because the judge did not remind himself of the “unusually convincing” standard.
+
+>> d.    Fourthly, an “unusually convincing” testimony does not overcome even materially and/or inherently contradictory evidence to prove guilt beyond a reasonable doubt. The phrase “unusually convincing” is not a term of art; it does not automatically entail a guilty verdict and surely cannot dispense with the need to consider the other evidence and the factual circumstances peculiar to each case. Nor does it dispense with having to assess the complainant’s testimony against that of the accused, where the case turns on one person’s word against the other’s.
+
+>> e.    Fifthly, even where there is corroboration, there may still not be enough evidence to convict.
+
+> 115    Moving from the level of scrutiny to the elements of what an unusually convincing testimony consists of, it is clear that a witness’s testimony may only be found to be “unusually _convincing_” by weighing the _demeanour_ of the witness alongside both the _internal and external consistencies_ found in the witness’ testimony. Given the inherent epistemic constraints of an appellate court as a finder of fact, this inquiry will _necessarily_ be focussed on the internal and external consistency of the witness’s testimony. However, this is _not_ to say that a witness’s credibility is _necessarily_ determined _solely_ in terms of his or her demeanour. As Rajah JA observed in _XP_ (\[111\] _supra_ at \[71\]–\[72\]):
+
+>> _I freely and readily acknowledge that a trial judge is usually much better placed than an appellate judge to assess a witness’s credibility, having observed the witness testifying and being cross-examined on the stand._ **_However, demeanour is not invariably determinative; contrary evidence by other witnesses must be given due weight, and if the witness fails to recall or satisfactorily explain material facts and assertions, his credible demeanour cannot overcome such deficiencies._** _As I explained in PP v Wang Ziyi Able <span class="citation">\[2008\] 2 SLR(R) 61</span> at \[92\]–\[96\], an appellate judge is as competent as any trial judge to draw necessary inferences of fact not supported by the primary or objective evidence on record from the circumstances of the case._
+
+>> _While an appellate court should be more restrained when dealing with the trial judge’s assessment of a witness’s credibility, there is a difference between an assessment of a witness’s credibility based on his demeanour, and one based on inferences drawn from the internal consistency in the content of the witness’s testimony or the external consistency between the content of the witness’s evidence and the extrinsic evidence. In the latter two situations, the trial judge’s advantage in having studied the witness is not critical because the appellate court has access to the same material and is accordingly in an equal position to assess the veracity of the witness’s evidence (see Jagatheesan s/o Krishnasamy v PP <span class="citation">\[2006\] 4 SLR(R) 45</span> (‘Jagatheesan’) at \[40\], citing PP v Choo Thiam Hock <span class="citation">\[1994\] 2 SLR(R) 702</span> at \[11\]). \[emphasis added in italics and bold italics\]”_
+
+146    It is clear from **AOF** that general legal principles relating to assessing the credibility of witnesses is still applicable. The approach in **AOF** is merely an application of the general principle that the credibility of a witness is to be assessed by the witness’s demeanour, the internal consistency, and the external consistency between the content of the witness’s evidence and other extrinsic evidence (see Farida Begam d/o Mohd Artham v PP <span class="citation">\[2001\] 3 SLR(R) 592</span> and Jagatheesan s/o Krishnasamy v PP <span class="citation">\[2006\] 4 SLR(R) 45</span>).
+
+147    In addition, the Courts must also be mindful that there could be lapses in human fallibility in observation, retention and recollection. As such, allowance must be given to discrepancies and inconsistencies in any witness’ testimony. In this regard, the Court of Appeal in **_Sandz Solutions Strategic and Others v Worldwide Assets Limited_** <span class="citation">\[2014\] SGCA 27</span> (“**Sandz Solutions Strategic**”) while noting that a trial judge should observe and assess a witness’s demeanour and behaviour on the witness stand, the Court of Appeal at \[46\] also cautioned that such observations should not be the sole basis on which the court determines the credibility of a witness and the veracity of his evidence. The Court of Appeal was of the view that a witness should not be judged to be less credible merely because of gaps in his memory, particularly where a long period of time has passed since the occurrence of the events in question. Ultimately, the trial judge has to consider the totality of the evidence in determining the veracity, reliability and credibility of a particular witness’s evidence.
+
+148    And in the case of **_Tang Kin Seng v PP_** <span class="citation">\[1996\] 3 SLR(R) 444</span> (“**Tang Kin Seng**”), the Court at \[39\] and \[44\] had noted:
+
+> _“In a trial for sexual offences, what is important is that the evidence is weighed carefully, always bearing in mind the relevant aspects of human nature and behaviour. It would be wrong to be bogged down by technicalities especially when it has no logical problem at hand…_
+
+> _In my view, the right approach is to analyse the evidence for the prosecution and for the defence, and decide whether the complainant's evidence is so reliable that a conviction based solely on it is not unsafe. If it is not, it is necessary to identify which aspect of it is not so convincing and for which supporting evidence is required or desired. In assessing the supporting evidence, the question then is whether this supporting evidence makes up for the weakness in the complainant's evidence. All these would, of course, have to be done in light of all the circumstances of each case and all the evidence, including the defence evidence, as well as accumulated knowledge of human behaviour and common sense.”_
+
+149    I also accept that not all victims of sexual offences will react the same way. Some will actively seek help whilst others may decide to clamp up and not tell anyone for a long time because they feel that what has happened to them is a shameful thing and they do not want others to know about it. Some victims may compartmentalise or rationalise their reaction. I agree with the Prosecution that just because a victim displays a calm and undisturbed disposition, that does not necessarily mean that no wrong was committed against that victim. We will have to look at the victim’s background and well as the surrounding circumstances to determine why the victim had behaved in such a manner before coming to any conclusion.
+
+150    It is with the above principles that I proceeded to assess the veracity, reliability and credibility of PW1.
+
+## c.    PW1 was Unusually Convincing
+
+151    In the present case, having considered all the evidence, I am of the view that PW1’s testimony is unusually convincing taking into account her demeanour and considering the internal and external consistencies found in her testimony.
+
+## i.   PW1’s Demeanour
+
+152    It is not disputed that PW1 is a happy go lucky person with a cheerful and chirpy personality. This is be seen from the way she conducted herself and her habit of singing to herself as evidenced from the CCTV recordings. PW1 would also talk to the Accused in a very casual manner. She could be seen answering him in a cheeky manner and saluting him when she was walking out of the bedroom after he had given her instructions to wash the bedsheets in the bedroom. PW1 would also make comments to the Accused and laugh at him when she sees him dressing up or putting on perfume before going out. PW1 also has a habit of making funny noises for no apparent reasons and she also likes to imitate the sounds that she has heard such as the sounds of doorbells.
+
+153    In the present case, PW1 had testified that when the Accused committed the 1st OM Act of putting his head on her shoulder on 28 November 2016 and telling her he was tired, she did not think he was doing anything wrong. In fact, PW1 had regarded the Accused as her elder and she thought that he was opening up to her by sharing his feeling with her. That was why she was not affected by what he did and she was not afraid of him even though she knew that it was not right for him to touch her as they are of opposite sex. As such, PW1 continued to behave as per her normal self and she was in her usual chirpy mood and singing away when she was leaving the grandfather’s bedroom after the 1st OM Act. The Defence had submitted that PW1’s behaviour at this point of time clearly showed that the 1st OM Act could not have taken place.
+
+154    As regards to PW1’s behaviour after the 1st OM Act, I note that act of placing one’s head on another person’s shoulder is not of a sexual nature as compared to say kissing or touching of private parts. PW1 comes from a rural region in Myamnar. This is her first overseas trip. She had never left home or have gone overseas to work before. PW1 is also working for an employer who is much older than her and old enough to be her father. Given this background, it is not unreasonable for PW1 to want to treat the Accused as her elder and to regard the 1st OM Act by the Accused as an act of opening up and reaching out to her. I can understand PW1’s reaction and her explanation as to why she was not affected by the 1st OM Act even though she knew it was wrong for a man to place his head on a woman’s shoulder without her permission. In this case, given PW1’s background, I would agree with the Prosecution that little weight should be given to PW1’s behaviour immediately after the 1st OM Act.
+
+155    The fact that PW1 is not affected by the 1st OM Act can also be seen from the CCTV recording where PW1 continued singing and even made funny noises at the Accused when he called her back shortly thereafter and “chided” her for not switching off the lights when she left the room[^321]. PW1’s good-naturedness remained the same when she said “bye-bye” to the Accused in a very happy manner when he left the house to go to work on 28 November 2016 and PW1 could be heard singing in the kitchen after the Accused had left the house[^322]. This clearly consistent with PW1’s evidence in court as well as her reasons for not being affected by the 1st OM Act.
+
+156    PW1’s happy nature and cheerful disposition remained the same the next day on 29 November 2016 and this can be seen from the video footage which showed her singing fact when she was washing the Master Bedroom toilet[^323] before the alleged 2nd OM Act.
+
+157    The 2nd OM Act took place at around 17:42 hours on 29 November 2016. The Accused left home at around 17:43:57 hours[^324] shortly after the 2nd OM Act. It is very clear from the CCTV footage at 17:59 hours (which is about 15 minutes after the 2nd OM Act) when PW1 was cleaning the living room that her demeanour had changed from her usual chirpy self to one who is looking very disturbed and troubled[^325].
+
+158    It is also clear that PW1 remained disturbed and troubled all the way till the time the Accused returned home at about 21:03 hours on 29 November 2016. The Accused had testified that when he returned home, he had found PW1 crying in the kitchen and PW1 had informed the Accused that she had wanted to go back to the maid agency. The Accused also noticed the change in PW1’s demeanour and he had mentioned the same to PW3 and PW4 when he spoke to them on the same night.
+
+159    The sudden change in PW1’s demeanour was also confirmed by PW3 and PW4. PW3 had given evidence that she had spoken to PW1 after the Filipino maid had contacted her and when she 1st spoke to PW1, PW1 sounded very frightened and was asking for help[^326]. PW4 had also given evidence that when she telephoned the Filipino maid and introduced herself as PW1’s maid agent, the Filipino maid informed her that she had received a note from PW1 asking for help and PW1 looked fearful and she was very scared when she first saw PW1. The Filipino maid also told PW4 that PW4 looked scared and she was crying[^327].
+
+160    It is also very telling that before the 2nd OM Act in the Master Bedroom toilet, PW1 had sought permission from the Accused to call home and the Accused had told her that he would allow her to do so when he returned home that evening. From the CCTV footage, it could be seen that PW1 was very excited to be able to call back home and that she was looking forward to calling back home when the Accused returned home that evening[^328] and she was asking him to hurry come home. As such, it is very strange that when the Accused returned home that evening, PW1 would reject his offer to telephone her family but instead wanted to telephone PW3 and wanted to return to the maid agency.
+
+## ii.   Internal consistencies in PW1’s testimony
+
+161    I note that PW1 was very calm when she was giving her evidence in Court and she was able to provide a coherent and descriptive account of the events. PW1 was articulate and able to express her feelings, emotions and relate the events well. And despite the strenuous and lengthy cross-examination by Defence Counsel, PW1 stood firm on her evidence and she was largely consistent in her accusations and allegations against the Accused.
+
+162    I agree with the Prosecution’s submission that PW1’s testimony is internally consistent in that:
+
+> i.     She had given a vivid and textured account of what had happened immediately after the Accused had molested her:
+
+>> a.       As for the 1st OM Act, PW1’s evidence is that when the Accused placed his head on her shoulder, she turned her body. I agree with the Prosecution that PW1’s reaction is consistent with that of a person who had been inappropriately touched and this shows that she is uncomfortable with what the Accused had done.
+
+>> b.       PW1 also testified that she did not feel anything when the Accused placed his head on her shoulder as she thought that the Accused was an elder. That was why she remained chirpy and continued to singing. This clearly show that PW1 has testified in a frank and honest manner and she is not making up evidence just to get the Accused into trouble.
+
+>> c.       PW1 had also given evidence that she was not afraid to be alone with the Accused in the house when his family went away but she only became afraid after he had put his head on her shoulder and touched her breast[^329]. After the 2nd OM Act, PW1 could be seen asking PW3 to come and take her away immediately.
+
+>> d.       As for the 2nd OM Act, before any CCTV footage was played to PW1, she had given evidence that she did not scream but had made a shocked sound “ah” when the Accused had hugged her from behind and had touched her breast. The CCTV footage which was subsequently played also captured the “ah” sound which PW1 said she had made after she was hugged by the Accused and he had touched her breast. This clearly support her testimony that she did not scream after she was molested by the Accused.
+
+>> e.       According to the CCTV footage and transcripts, PW1 had also told PW3 that the Accused had “touch her head and touched her backside. In the evening, hugged her and touched breast”[^330]. This is consistent with her story that the Accused had touched her buttock when he was leaving the house on 28 November 2016 and had hugged and pressed her breast on 29 November 2016.
+
+>> f.       PW1 had also given evidence that after the Accused had hugged her and touched her breast, her immediate reaction was to shift the Accused’s attention by pointing to the tennis courts nearly and telling the Accused that no one was playing tennis. PW1 also explained that the reason why she had to divert his attention was because if she had not done anything, the Accused could have thought that she did not mind what he had done and that may lead to other things. I agree with the Prosecution that PW1’s behaviour is consistent with that of a person who is put in a situation and wants to get out of the situation as safe as possible without aggravating the person who had put her in the situation[^331]. In this case, PW1 was trapped in a toilet together with someone who had just molested her. There was no one else in the house whom she can seek help from. As such, it is not unreasonable for her to assume that if she did not do anything, the Accused may think that she was open to his advances.
+
+>> g.       I also agree the Prosecution’s submission that PW1 did not embellish her evidence to suggest that the Accused was an unreasonable employer just because he did not pay her salary for 2 months or because he did not give her the opportunity to call home or because of her sleeping arrangements. In fact, during cross-examination, PW1 was forthright that none of these issues had any effect on her. She maintained consistently that it was only after the 2nd OM Act that she wanted to go back to the maid agency.
+
+> ii.     As for the 2 other occasions that the Accused had allegedly touched PW1 (ie when he touched her buttock when leaving the house on 28 November 2016 and when he brushed against her stomach when walking past her at the master bedroom toilet door on 29 November 2016), PW1 had given evidence that she did not pay much attention to the buttock incident and she did not notice the stomach brushing act until she was shown the CCTV footage by the Prosecution. PW1 was very truthful in her answer. If PW1 had wanted to go all out to frame the Accused in order to get out of his employ, she could have raised these as new complaints against the Accused when she was being interviewed by PW2 in the course of investigation so that more charges can be preferred against the Accused. Given that she did not do that, I would agree with the Prosecution that PW1’s conduct clearly shows that she is not someone who will embellish her evidence just so that a stronger case can be mounted against the Accused.
+
+> iii.     PW1 had maintained throughout the trial that she had sought help from a Filipino maid and the Filipino maid had turned up at the Accused’s residence after picking her up her note to ask for help. The Defence had suggested that from the CCTV footage, there was another person who had turned up at the Accused’s residence and they had suggested that this person was the Myanmese maid whom the Accused had found her talking to when he returned home on 29 November 2016. The Prosecution had submitted that PW1’s evidence is internally consistent in that despite intensive cross-examination, PW1 had consistently testified of having only spoken to the Filipino maid when she was at the front door on 29 November 2016. I have gone through the evidence and I agree with the Prosecution’s submissions on this point as contained in pages 14 to 16 of the Prosecution’s Closing Submissions and pages 5 to 6 of the Prosecution’s Reply to Defence Closing Submission.
+
+## iii.   External consistencies in PW1’s testimony
+
+163    PW1’s evidence that she was molested by the Accused is also corroborated by the following:
+
+> i.     PW1 had sought help from the Filipino maid who was staying at the opposite block by throwing a piece of paper containing PW3’s telephone number out of the kitchen area to the Filipino maid and asking her to help call PW3.
+
+> ii.     This fact is also confirmed by PW4 who gave evidence that she had spoken to the Filipino maid and the Filipino maid had informed her that she had received a note from PW1 asking for help and PW1 had looked very fearful and scared and she was crying when the Filipino maid went to look for PW1 at the Accused’s residence[^332].
+
+> iii.     When the Filipino maid went to the Accused’s residence to look for PW1 after picking up PW1’s note, PW1 borrowed the Filipino maid’s hand-phone and contacted PW3. When PW3 spoke to PW1, PW3 also noted that PW1 sounded frightened and asked her for help. PW1 then informed PW3 that the Accused had touched her and that he had touched her buttock and breast[^333]. PW1 also wanted PW3 to come immediately to take her away from the Accused’s house[^334].
+
+> iii.     PW1 also told PW3 that with regard to the 1st OM Act, that the Accused had hugged her the 1st night but she had kept her self-control and was cool. However, when the Accused went on to touch her breast the next day, she became scared as she was not sleeping in any room and she and the Accused were the only people in the house. PW1 also told PW3 that the Accused had touched her 2 times.
+
+> iv.     PW1 had also informed PW3 that when the Accused touched her breast, she was very frightened and she made a shocked sound at the Accused who then left the toilet. During cross-examination, PW3 also testified that PW1 had informed her that she was touched on her breast and buttock. PW1 also expressed to PW3 her concern of being left alone in the house with the Accused[^335].
+
+## iv.   Inconsistencies in PW1 evidence
+
+164    I accept that there were some discrepancies in PW1’s recollection of the events that had happened on 28 and 29 November 2016:
+
+> i.     In her evidence in chief, PW1 had testified that after the Accused had hugged her and touched her breast, she then asked him about no one playing tennis and she later said “bye bye” to him. However, in cross-examination, PW1 said that after the Accused had hugged and touched her breast, she proceeded to tell him “bye bye” and she then went on to ask him about tennis. The sequence of events is different.
+
+> ii.     PW1 had also given evidence during her evidence in chief that the Accused had left the Master Bedroom toilet immediately after he had said “bye bye” to her. However, the CCTV footage showed that the Accused did not leave the master bedroom toilet immediately after she had said “bye bye” to him.
+
+> iii.     PW1 had also testified during her evidence in chief that only the Accused had said “bye bye” to her and she did not say anything to the Accused. However, in her cross examination, after watching the CCTV footage, PW1 agreed that after the Accused had said “bye bye” to her, she had also said “bye bye” to the Accused before he had gone out of the Master bedroom toilet[^336].
+
+> iv.     In her evidence in chief, PW1 was shown 3 CCTV footages (19:17:47, 19:18:06 and 19:19:20) and she was asked who she was talking to in the 3 CCTV footages. PW1 had testified that she could not remember. In cross-examination, when asked by Defence Counsel, PW1’s initial answer was that she was talking to the Filipino maid. Later she said that she was talking to herself[^337].
+
+165    The Defence had submitted that the above discrepancies are material discrepancies and proof that PW1 is not telling the truth. However, I am of the view that these are minor and immaterial having regard to human fallibility in the retention and recollection of events which is to be expected given the passage of more than two and a half years since the offence. Taken as a whole, I find that PW1’s evidence is substantially consistent and, taking into account the evidence of the other witnesses, all these evidence would strongly corroborate PW1’s allegations against the Accused.
+
+166    The Defence had also raised the issue of PW1’s demeanour after the 2nd OM Act on 27 September 2016. PW1 had testified that she had become “scared” after the Accused had hugged her and touched her breast. However, the CCTV footage showed that PW1 had said “bye bye” to the Accused after the 2nd OM Act. The Defence is saying that this clearly showed that PW1 was not distressed. In fact the CCTV footage clearly showed PW1 singing after the Accused had exited the master bedroom toilet. The Defence has submitted that it is a material discrepancy in PW1’s evidence as no OM victim would behave in this manner this after being molested. On this point, taking into account PW1’s background and personality, I would agree with the Prosecution’s submission that victims of sexual offences can react in different manners. It is clear from the CCTV footages that PW1 has a habit of singing to herself. I am prepared to accept PW1’s explanation that singing to herself is a way of coping with stress and that was why she was singing to herself after she was molested by the Accused.
+
+167    In her evidence in chief, PW1 had testified that when she 1st spoke to PW3 from the Filipino maid’s hand-phone, she had told PW3 that “my employer touched me here and there … And then today he touched my breast”[^338]. PW1 then explained that she had informed PW3 that “first time he hugged me I meant … he put his head on my shoulder .. I told her that he also touched my breast”[^339]. In cross-examination, PW1 said that she told PW3 that the Accused had hugged her and he had hugged her two times. The first time he leaned on her and the 2nd time he hugged her and touched her breast.[^340]. In Exhibit P13, which is the English translation of the Myanmese conversation between PW1 and PW3 which was captured on the CCTV footage, the following conversation was also captured by the CCTV footage [^341]:
+
+> _PW1:_ _XXX is alone … Employer is touching me head and touching me backside (Myanmar phrase for touching or molest. In the evening, hugged XXX and touch breast. When XXX shouted (he) went away_
+
+> _PW3:_ _Really?_
+
+> _PW1:_ _Please come quickly_
+
+> _PW3:_ _Yes, yes, yes_
+
+> _PW1:_ _Please come and get me today_
+
+The Defence had submitted that PW1’s testimony on this point should not be believed as she had given different versions of her conversation with PW3 and this is clearly inconsistent with her story that the 1st OM Act was the placing of the Accused head on her shoulder and not a hug. On this point, I am of the view that PW1’s evidence is not materially inconsistent. While PW1 did tell PW3 that the Accused had hugged her twice, she explained that what she had meant by “hugging” in the 1st OM Act was that the placing of his head on her shoulder. The transcripts in Exhibit P13 also confirm PW1 had alleged that the Accused had molested her on 2 occasions, the first time he had “_touching me head and touching me backside (Myanmar phrase for touching or molest)”_ and on the 2nd occasion, he had hugged and touched her breast. Looking at the evidence as a whole, I am of the view that PW1’s conversation with PW3 clearly showed 2 allegations of molest by the Accused. As to why PW1 had told PW3 that the 1st OM Act was a hug, I am of the view that it is not a material discrepancy if you look at her evidence in totality. In this case, one must not forget that PW1 had just been hugged and touched in her breast by the Accused and she has been traumatised by the Accused’s 2nd OM Act. Moreover, it is evident from the conversation that PW1 was frightened of being alone in the house with the Accused as she was pleading with PW3 to get her out of the house immediately.
+
+## d.    Accused’s Evidence
+
+## i.   Material inconsistencies in the Accused’s evidence
+
+168    Having observed the Accused and hearing his evidence, I am not prepared to accept his story that he did not commit the 2 OM Acts.
+
+169    I note that there are several material inconsistencies between his testimony in court and his statements and reports given to the police:
+
+> i.      **The Accused’s First Information Report**
+
+> i.     The Accused had in his First Information Report[^342] to the police stated that he was informed by PW4 that PW1 had accused him of molesting her and attempting to rape her[^343]. In court, the Accused maintained that it was PW4 who had told him of the alleged attempted rape and molest and that was why he wrote the same in his First Information Report[^344]. However, when PW4 testified in court, she denied that she had told the Accused that PW1 had accused him of attempted rape[^345]. Despite numerous attempts by the Defence to suggest to PW4 that she had informed the Accused of the alleged rape, PW4 was very certain that she did not say rape as rape was a very serious thing and all she had told the Accused was that PW1 had accused him of molest and that he had touched her[^346].
+
+> ii.      **The buttock incident**
+
+> ii.     The Accused had also given evidence that he did not brush PW1’s buttocks when he was leaving the house on 28 November 2016. When confronted with the CCTV footage by the Prosecution, the Accused said that his hand was reaching for the front door as there was a spring connected to the front door which automatically closes the front door and it was **his habit** to hold the front door to prevent it from closing. However, when I looked at the all CCTV footages, I note that there were occasions when the Accused had opened the front door without reaching his hand to hold the door to prevent it from closing even when there was no one or door stopper to prevent the main door from automatically closing. One clear example is from the CCTV footage 21:12:00 DA where at 21:12:04, the Accused could be seen pulling opening the main door and immediately leaving the house without reaching his hand to hold the front door. In this footage, the Accused proceeded to open the main gate after opening the front door without reaching his hand to hold the front door. This CCTV evidence clearly contradicts the Accused’s position that it is his habit to reach out to hold the front door whenever he opens the front door.
+
+> iii.     During his examination in chief on the buttock incident, the Accused also said that there is no way he could have touched PW1’s buttocks because her back was up against the door and there was no way he could have touched her buttocks. However, during cross examination, after being shown the CCTV footage, the Accused agreed that when PW1 was leaning forward to push open the main gate when she was at the front door, her left buttock was no longer in contact with the front door and there was a space between her left buttock and the front door[^347].
+
+> iv.     The Accused also changed his story during cross-examination to him pushing the front door rather than holding onto the door when walking out of the flat[^348]. In his evidence in chief, the Accused had given evidence that it was his habit to reach out his hand to hold the main door to prevent it from closing.
+
+> iii.      **“Chu Pattern”**
+
+> v.     The Accused, in his evidence in chief, has said that he told PW4 that PW1 had “chu pattern”. However, during his cross-examination, the Accused had insisted that it was PW4 who had told him that PW1 was the one who had come up with a pattern[^349]. However, the CCTV footage[^350] and exhibit P12[^351] clearly show that it was the Accused who had informed PW4 that it was PW1 who had “chu pattern”. This was also confirmed by PW4 when she gave evidence in court[^352].
+
+> iv.      **The Accused’s story that PW1 had asked him “Sir, Sir working huh?” is internally inconsistent**
+
+> vi.     The Accused’s position is that when he was exiting the master bedroom toilet, PW1 had asked him “Sir sir working huh?”. PW1’s position is that she had never said those words to the Accused and she had asked the Accused if he was going out instead. The Accused is saying that PW1 had asked him that because she had seen him shaving earlier on.
+
+> vii.     Having considered all the evidence, I would agree with the Prosecution that it does not make sense for PW1 to ask the Accused if he was going to work because there is clear evidence to show that she was already aware of the fact that he was not working on that day because of earlier events[^353] which had taken place:
+
+>> a.       It is clear from the CCTV footage that PW1 was aware that the Accused was not going out to work because she had earlier asked him if he was going out to work and the Accused had confirmed the same. The CCTV footage had captured PW1 asking the Accused if he was going out and the Accused told her “later I go out”[^354]. The Accused also admitted that he had said the same to PW1 during cross-examination[^355].
+
+>> b.       PW1 had also asked the Accused if she could telephone home on that day and the Accused had informed when he would allow her to call home when he comes home in the evening. PW1 had also requested the Accused to “faster faster come back” so that she could call home.
+
+>> c.       PW1 had seen the Accused putting on perfume and she had asked him if he was working the next day. In the CCTV footage, PW1 could be seen asking the Accused “Tomorrow working, ah?”
+
+> viii.     Given the above, I would agree with the Prosecution that it would not make any sense for PW1 to ask the Accused if he was going out to work when she is already aware of that fact. Therefore, the Accused’s evidence that PW1 had asked him “Sir, Sir working huh?” is internally inconsistent. The Accused’s evidence is also inconsistent because PW1 was aware that the Accused had worked the night shift the night before and he would not be working the night shift again the next day.
+
+> ix.     In this case, I agree with the Prosecution that PW1’s evidence that she had asked the Accused if he was going out it is internally consistent and more believable.
+
+## ii.   On PW1 colluding with the other Myanmese maid
+
+170    The Defence’s case is that PW1 had colluded with a 3rd party, the Myanmese maid who lived on the 4th floor unit across from the Accused’s flat, to make false allegations against the Accused so that she can leave the Accused’s employ. The Defence also alleged that the Myanmese maid who had come to the flat between 1917 hrs and 1919 hrs (“**the material period**”)[^356] was the same maid that PW1 was found talking to when the Accused returned home on 29th Nov 2016[^357].
+
+171    The Defence had also suggested that PW1 had wanted to get out of the employment because:
+
+> i.     PW1 was not happy that she was not allowed to call home once a month as promised;
+
+> ii.     PW1 was unhappy about having to sleep in the living room with only a pillow and a blanket when her contracted stipulated that she should be sleeping with the children;
+
+> iii.     PW1 was not paid her salary for the 1st 2 months after starting work for the Accused; and
+
+> iv.     PW1 was unhappy with the Accused as he had scolded her twice after she had started working for him.
+
+172    It is not enough for the Accused to merely suggest, speculate or assert that PW1 had a motive to falsely implicate him. The Accused must adduce sufficient evidence of this motive so as to raise a reasonable doubt in the Prosecution’s case. Only then would the burden of proof shift to the Prosecution to prove that there was no such motive.
+
+173    Having gone through the evidence, I am in full agreement with the Prosecution that there is no evidence to support the Defence’s allegation that PW1 was not happy that she was not allowed to call home, or having to sleep in the living room, or not being paid her salary, or being scolded twice by the Accused. From the CCTV recording, there is nothing to suggest that PW1 was unhappy with the Accused and that she wanted to get him into trouble. In fact, the evidence showed the contrary, that PW1 was happy and she had gotten along well with the Accused all the way until the 2nd OM Act on 29 November 2016.
+
+174    On the point of PW1 colluding with the Myanmese maid, the Defence had submitted that there is evidence of collusion from the following:
+
+> i.     The CCTV footage at the material period captured PW1 talking in a language she was comfortable in. The Defence is saying that she was talking to the Myanmese maid.
+
+> ii.     There is evidence to show that PW1 had been communicating with the Myanmese maid from the kitchen and she was heard telling the Myanmese maid from the kitchen that “Someone already knows”.
+
+> iii.     PW1 had failed to inform PW2 of the involvement of the Myanmese maid resulting in PW2 failing to interview the Myanmese maid.
+
+175    The Defence is saying the above clearly support the Defence’s submission of collusion between PW1 and the Myanmese maid to get the Accused into trouble.
+
+176    In her Evidence in Chief, PW1 had testified that she could not remember who she was talking to at the material period. However, during cross-examination, PW1 said she was talking to herself[^358]. As regards to speaking to the Myanmese maid during the material period, PW1’s position was that she had never spoken to any Myanmese maid during the material period. PW1 maintained that she had only spoken to the Filipino maid and the Filipino maid had come to the house twice when the Accused was away. On the first occasion, the Filipino maid forgot to bring her phone and she went back to get her phone.
+
+177    I agree with the Prosecution that there is nothing in the evidence to show that PW1 was talking to any Myanmese maid during the material period. While I accept that the CCTV footage did show PW1 talking in a language that she was comfortable in, there is no evidence to contradict PW1’s evidence that she was talking to herself and to show that she was talking to someone else. The CCTV footage only captured PW1’s voice and no other person’s voice was captured in the CCTV footage.
+
+178    The Defence also pointed out that PW1 was talking to a Myanmese maid from the kitchen balcony when the Accused returned home on 29 November 2016 and she was heard telling the Myanmese maid that “Someone knows already”[^359]. The Defence is saying this is proof of collusion. I would humbly disagree with the Defence on this. I am of the view that this fact is neither here nor there and it does not point to the fact that there was a collusion between PW1 and the Myanmese maid.
+
+179    As to the Defence’s allegation that the Myanmese maid who came to the house during the material period was the same Myanmese maid who was working on the 4th floor opposite unit, there is again no evidence provided by the Defence to support this allegation. I am prepared to accept the Prosecution’s submission that the Accused was merely speculating that it was the same person in order to support his ‘collusion’ theory.
+
+180    The Defence had also submitted that PW1 wanted to go home because she was homesick and she had informed the Accused of this reason when he asked her why she wanted to go back to her maid agency. Although PW1 did tell the Accused this, the evidence clearly show that it was PW4 who had instructed PW3 to tell PW1 to use homesickness as an excuse to go back to the maid agency. And this is done in order to protect PW1 from having to tell the Accused the real reason why she wanted to leave his residence.
+
+181    Given the above, I am not satisfied that there is any evidence of collusion between PW1 and the Myanmese maid to get the Accused in trouble so that PW1 can leave the Accused’s employ. I am of the view that the burden has not shifted to the Prosecution to prove a lack of motive beyond reasonable doubt
+
+## e.    On the issue of the touching of the buttocks and brushing of PW1’s stomach
+
+182    The Prosecution’s position is that the Accused did commit these 2 acts against PW1 while the Accused is saying he did not do any of these acts.
+
+183    As for the act of touching PW1’s buttocks on 28 November 2016, as mentioned earlier, I note that the Accused’s initial position that it is not possible for him to touch PW1’ buttocks as her buttock was firmly pressed against the main door. However, when he was shown the CCTV footage, the Accused admitted that PW1’s buttocks were not pressed against the front door and that her left buttock was away from the front door at the time of the alleged incident.
+
+184    I also note that the Accused’s reason for reaching out his hand is to hold the door open because there was a spring mechanism which would cause the door to close automatically and it was the Accused’s habit to do so whenever he opens the front door. However, as shown from the CCTV footages, there is clear evidence that the Accused had on occasions opened the front door without using his hand to hold the door open. I also note that the Accused has changed his evidence during cross-examination to say that he was pushing the front door instead of holding the door. I find it strange that the Accused would want to reach out to the door when PW1 was already holding the door open with one side of her buttock. I also find it strange that the Accused’s hand was placed at an angle near PW1’s buttocks when all he wanted to do was to hold/push the door open. He could have picked any spot which is further away from PW1’s body but he did not.
+
+185    As for the incident where the Accused had allegedly brushed his hand against PW1 when she was standing next to the master bedroom toilet door when he was walking past her on 29 November 2016, the Prosecution is saying that the Accused had deliberately brushed his hand across when he was walking past her. The Accused’s position is that he did not touch PW1. In his evidence in court, the Accused had confirmed that the master bedroom toilet door, unlike the front door, does not have any spring mechanism which will cause it to close automatically. It is also clear from the CCTV footage that PW1 was holding the door open with her body[^360]. The Accused said that he had reached out his right hand to PW1’s left side of the body because he wanted to push the door open a bit more because PW1 was blocking his way[^361].
+
+186    If PW1 was blocking the Accused’s way, she would need to move from where she was standing in order for the Accused to walk past her. If the Accused was pushing the toilet door to create more space to enable him to walk past PW1, PW1 would still need to move herself into the extra space created by the further opening of the door so that the Accused can go past her. However, looking at the CCTV footage, neither of the above scenario took place. The CCTV footage merely showed the Accused raising his hand near PW1’s stomach area and walking past her without PW1 moving out of the way. In any event, if the Accused had wanted to create more space between himself and PW1, he could have easily said “excuse me” to PW1 or asked her to move aside so that he can move past her. This clearly did not happen.
+
+187    Given the above, I am not prepared to accept the Accused’s story that he did not touch PW1 on both these 2 occasions and I am of the view that he did touch PW1 on both these occasions.
+
+## f.    The Accused’s behaviour when alone with PW1
+
+188    The Accused is PW1’s employer and he is also of the opposite sex. As a male employer, it would not be appropriate for the Accused to take off his clothes and appear half-naked in front of his female employee. The Accused should also not place himself in a situation where he could be caught doing so by the female employee.
+
+189    In the present case, the Prosecution had submitted that the Accused’s behaviour at home on 28 and 29 November 2016 was that of a person who had no regard for the modesty of PW1. Although the Accused had testified that it would be embarrassing for PW1 to see him changing and that PW1 had been taught to knock on his door before entering the master bedroom, the evidence clearly showed that his behaviour is clearly inconsistent with his own testimony.
+
+190    The CCTV footage on 28 November 2016 clearly showed the Accused changing clothes in the Master Bedroom with the bedroom door fully opened while PW1 was in the living room[^362]. PW1 could have looked into the open bedroom from the living room and see the Accused changing. Another CCTV footage on 29 November 2016 showed the Accused removing his top and bottom in the Master Bedroom when PW1 was in the Master Bedroom toilet cleaning the toilet. The Accused was clearly prepared to take the chance to strip down to his underwear knowing that PW1 could open the toilet door at any moment and see him half naked in his underwear[^363].
+
+191    The Accused has given evidence that PW1 has been taught to knock on the bedroom door before entering the bedroom. But the CCTV evidence suggest otherwise. One clear example is the CCTV footage at 17:41:17 hours on 29 November 2016 which captured PW1 opening the toilet door of the master bedroom without knocking and seeing the Accused applying perfume onto himself when he was standing next to the cupboards. The CCTV footage clearly showed a surprised and amused PW1 laughing and commenting at the Accused’s action[^364].
+
+192    Having taken into account all the above evidence, I am prepared to accept the Prosecution’s submission that the Accused’s has a habit of touching PW1 here and there when they are left alone in the house.
+
+## g.    The closing of the master bedroom toilet door by the Accused moments just before the 2nd OM Act
+
+193    The CCTV footage at 17:42:46 hours on 29 November 2016 showed the Accused opening the toilet door of the Master Bedroom when PW1 was inside the toilet and then closing the door. PW1 was heard singing in the toilet when the Accused went into the toilet. Then there was 2 sounds – the first longer “ah” sound followed by a 2nd shorter “ei” sound. After this, we can heard PW1 say “bye bye sir” and followed another sound. The Accused can then be seen leaving the toilet[^365].
+
+194    From the CCTV footages, there was another earlier occasion on the same day when the Accused had to enter the toilet when PW1 was in the toilet. On this earlier occasion, the Accused did not close the toilet door behind him when he went into the toilet. The CCTV footage at 17:33:06 hour showed the Accused going into the toilet to throw his ice cream stick. When PW1 saw him coming into the toilet, she immediately stepped out of the toilet and the Accused then went into the toilet to throw his ice cream stick. On this occasion, the Accused did not proceed to close the toilet door after he went into the toilet.
+
+195    The Accused had testified that there was nothing wrong with him closing the toilet door. I not agree with the Accused on this point. The Accused’s act of closing the toilet door is clearly inappropriate given that he and PW1 were the only ones in the house at the material time. Moreover, they are of the opposite sex. As a responsible employer, one would not want to place oneself in any situation which may lead to unnecessary allegations against oneself, especially behind the closed door and confines of a small toilet. In this case, there is no reason for the Accused to close the toilet door behind him. As shown by the earlier CCTV footage, the Accused has ever gone into the master bedroom toilet on other occasions and had left the toilet door open. The Accused himself has not provided any good explanation as to why he had to close the toilet door behind him in this situation. In this case, I agree with the Prosecution that this act of closing the door clearly points to the guilty mind of the Accused in that he wanted to do something against PW1 inside the toilet.
+
+## h.    Other Issues raised by the Defence
+
+## i.   The long “ah” sound and the shorter “ei” sound made by PW1 in the toilet
+
+196    PW1 had made 2 sounds in the master bedroom toilet on 29 November 2016. The 1st sound was a long “ah” sound which was followed by a short “ei” sound. The sounds were captured by the CCTV footage when both the Accused and PW1 were in the Master Bedroom toilet with the toilet door closed.
+
+197    The Accused’s position is that PW1 made the long “ah” sound because she saw the Accused shaving in the toilet. The Accused’s story is that PW1 made this funny sound because she saw the Accused doing something unusual (ie shaving). PW1’s position is that she could not remember why she had made the sound.
+
+198    The Prosecution’s position is that PW1 made the long “ah” sound as a habit. The Prosecution submitted that this is consistent with the evidence presented which showed that PW1 is chirpy by nature and she has a habit of making noises for no reason at all.
+
+199    As for the 2nd shorter “ei” sound, PW1 has testified that the 2nd sound was made by her when the Accused hugged and squeezed her breast. The Defence version was that PW1 had made this 2nd “ei” sound when the Accused accidentally splashed water on PW1 when she was in the toilet.
+
+200    Having considered the evidence, I am inclined to accept PW1’s version of what had happened in the toilet. My reasons are as follows:
+
+> i.     The Accused’s story is that when he went into the toilet, PW1 was washing the bathtub. But as the Accused stepped into the toilet, PW1stopped washing the bathtub and moved towards the bathroom window. The Accused then proceeded to shave himself and PW1 made the long “ah” sound when she saw him shaving. After shaving, the Accused proceeded to wash his hands and he accidentally splashed water on PW1 and PW1 went on to make the 2nd “ei” sound.
+
+> ii.     PW1’s version is that she was leaning over the bathtub and washing the bathtub when the Accused came into the toilet. After the Accused stepped into the toilet, he proceeded to wash his hand and PW1 continued to wash the bathtub. The Accused then suddenly hugged her from behind and used his hand to press her breast and that was when she let out the 2nd “ei” sound. PW1 said she could not remember why she made the 1st longer “ah” sound. PW1 also said that after the Accused touched her, she moved towards the bathroom toilet window where she tried to divert his attention by talking about the tennis courts.
+
+> iii.     Looking at the evidence as a whole, I cannot understand why the Accused must use the master bedroom toilet to “shave” himself and disrupt PW1’s cleaning of the toilet when there are 2 other available toilets in the house.
+
+> iv.     I also cannot see any reason for PW1 to want to stop washing the bathtub and to move towards the toilet window just because she had seen the Accused shaving.
+
+> v.     I am of the view that PW1’s version is more credible and internally consistent given that 2nd OM Act had just taken place in the confined space of the toilet and there was no one else in the house. PW1 was clearly frightened by what had happened and it is only natural for her to want to divert attention from the Accused. Given the circumstances, it is not unreasonable for PW1 to move away from the Accused and to move towards the toilet window area and talk about the tennis courts in order to distract him.
+
+## ii.   Whether the Accused was shaving in the toilet
+
+201    I am also prepared to accept PW1’s evidence that the Accused was not shaving in the toilet at the material time for the same reasons given in paragraph 199 above.
+
+## iii.   PW2’s testimony
+
+202    The Defence had submitted that PW2’s evidence in court clearly supports the Accused’s evidence and is corroborative of the Accused’s evidence that he did not commit the alleged offences against PW1[^366].
+
+203    The Defence Counsel had cross-examined PW2 at length on PW1’s demeanour and her statements made to him in the course of his investigation. The Defence also submitted that PW2’s observation of PW1’s demeanour and her statements to him in the course of his investigation and her statements to him in the course of investigation evidence clearly contradicts PW1’s evidence in court and this is evidence that she is not telling the truth in court[^367]. The Defence also highlighted that when the Accused returned home that evening, PW1 was talking to a Myanmese maid from the kitchen balcony and she was heard saying “Someone knows already”.
+
+204    The Prosecution had submitted that section 259 of the Criminal Procedure Code was applicable to PW2 and that statements which were made by PW1 to PW2 during the course of investigation were inadmissible in evidence. As such, the Prosecution was of the view that the Defence cannot rely on these statements to show that PW1’s evidence was “externally inconsistent”. Moreover, PW2 was an investigator and not an expert witness. His opinion on whether the Accused had touched PW1’s buttock or otherwise, based on the CCTV footages, would carry little or no weight.
+
+205    I agree with the Prosecution on the application of section 259 of the Criminal Procedure Code to PW2 evidence. I also agree with the Prosecution’s submission that PW2’s statement cannot be used to prove that PW1’s evidence was externally inconsistent and that PW2’s opinion on the CCTV footages should carry little or no weight whatsoever.
+
+## iv.   PW3’s testimony
+
+206    The Defence had submitted that PW3 was not a credible witness in view of discrepancies in her testimony in court[^368]:
+
+> i.     PW3 had testified that she was told by PW1 that the Accused had touched her twice, once in the buttock and once at her breast. However, PW1’s evidence was that she told PW3 that the Accused had hugged her twice. PW3 also said during cross-examination that PW1 did not tell her that the Accused had hugged her.
+
+> ii.     PW3 had also given evidence during examination in chief that PW1 had sounded fearful when she spoke to PW1 through the Filipino’s maid hand-phone. However, after watching the CCTV footage, PW3 testified that PW1 did not appear to be fearful.
+
+207    While I acknowledge that there are some discrepancies in PW3’s evidence, I am of the view that these are immaterial discrepancies resulting from human fallibility in retention and recollection and they do not detract from the general veracity of PW3’s testimony which clearly corroborated PW1’s evidence on material issues. On the issue of PW3’s observation of PW1’s behaviour as recorded by the CCTV, I am agreeable with the Prosecution that PW3 is not an expert witness when it comes to human behaviour and her opinion on whether PW1 was fearful should carry little or no weight.
+
+## i.    Conclusion
+
+208    Having carefully observed PW1’s demeanour when she gave evidence, I believe that PW1 was telling the truth as I found her evidence to be unusually convincing and compelling. I am also of the view that the discrepancies that were highlighted by the Defence were minor and non-material in nature which could have arisen from imperfect recollections and not deliberate lies given the passage of more than two and a half years since the 2 OM Acts. As such, I agree with the Prosecution that these discrepancies (either by themselves or taken together) will not render the Accused’s conviction to be unsafe. I am also satisfied that PW1 had no reason to and did not frame the Accused.
+
+209    I have also considered PW1’s evidence and also compared it with all the other evidence that was presented by both Prosecution and Defence. I am of the view that PW1 had testified to the best of her memory and in a consistent manner. Her evidence of the events and alleged acts of molest was, in its totality, both internally consistent and externally consistent with her immediate behaviour and response.
+
+210    PW1’s testimony is also corroborated by her act of seeking help from the Filipino maid as well as her complaint to PW3 and PW4. PW3 and PW4 are independent witnesses and they have nothing to gain by coming to court to give evidence for the Prosecution. There is also no reason for them to lie and make up stories against the Accused in court.
+
+211    In this case, given the evidence before me, I find that the Prosecution has proven both the charges against the Accused beyond reasonable doubt and I accordingly convict the Accused of both the charges.
+
+## K.   Sentencing
+
+## a.    Prosecution Submission on Sentence **[^369]**
+
+212    The Prosecution had submitted that the appropriate sentence for this case is as follows:
+
+> a.     MAC 906075 of 2017 – High fine of not less than $5000
+
+> b.     MAC 906076 of 2017 - 12 months’ imprisonment with 3 strokes of cane.
+
+213    In terms of sentencing principles, the Prosecution had relied on the case of _Kunasekaran s/o Kalimuthu Somasundara v PP_ <span class="citation">\[2018\] 4 SLR 580</span> (“_Kunasekaran_”) where the high Court at \[47\] had affirmed the “two step sentencing bands” approach as a reliable methodology to adopt in the context of sentencing sexual offences under section 354(1). According to _Kunasekaran_, the analysis of section 354(1) offences must be based on three main categories of offence specific aggravating factors, namely the degree of sexual exploitation, the circumstances of the offence and the harm caused to the victim. Having undertaken this analysis, the starting point of the sentence should then be established by considering the full spectrum of possible sentences under section 354(1) based on the maximum imprisonment term of 2 years.
+
+214    In _Kunasekaran_, the High Court had proposed sentencing bands for a section 354(1) offence, as follows:
+
+> a.     Band 1: less than five (5) months’ imprisonment;
+
+> b.     Band 2: five (5) to fifteen (15) months’ imprisonment; and
+
+> c.     Band 3: fifteen (15) to twenty-four (24) months’ imprisonment.
+
+215    In light of the above, the maximum punishment that can be meted out for a section 354(1) offence read with section 73(1)(c) and section 73(2) of the Penal Code (Cap 224) is three years. Bearing in mind the uplift of 1.5 times, I would agree with the Prosecution that the applicable sentencing bands for a section 354(1) offence is as follows:
+
+> a.     Band 1: less than 7.5 months’ imprisonment;
+
+> b.     Band 2: 7.5 months’ to 22.5 months’ imprisonment; and
+
+> c.     Band 3: 22.5 months to 36 months’ imprisonment.
+
+216    The Prosecution had highlighted[^370] that Section 73 of the Penal Code was legislated by Parliament to recognise the fact that domestic maids are vulnerable victims by virtue of their position in life. In _Janardana Jayasankarr v PP_ <span class="citation">\[2016\] 4 SLR 1288</span> (“_Janardana”_), the learned CJ Menon highlighted the need to calibrate the applicable benchmarks of maid abuse cases upwards. The learned CJ made reference to the history and the background against which Parliament had enacted section 73(2) of the Penal Code (Cap 224, 2008 Rev Ed) at \[2\] and \[3\]:
+
+> _“Before going into the specifics of this case, I reiterated the observation of the Court of Appeal in ADF v PP <span class="citation">\[2010\] 1 SLR 874</span> (“ADF”) that the abuse of a domestic helper is a very serious offence. It attracted the attention of Parliament in 1998, resulting in amendments to the sentencing regime that were geared towards enhancing the gravity of the punishment to be imposed for such offences. Specifically, s 73(2) of the Penal Code was enacted and it provides that the court may sentence an employer or a member of the employer’s household who commits certain offences against a domestic helper to one and a half times the punishment that the offender would otherwise have been liable for if the victim had not been a domestic helper._
+
+> _The special provision enacted for the abuse of this class of victim stems from the recognition that domestic helpers are particularly vulnerable to abuse by their employers and their immediate family members…..This is so for several reasons, of which I will mention just three:_
+
+>> (_a_)     _First, domestic helpers are in a foreign land and will often not have the time or opportunity to develop familiarity or a support network._ **_Domestic helpers who have just arrived in Singapore or have only been working here for a few months, such as the victim in this case, are especially vulnerable_** _;_
+
+>> (_b_)     _Second, they are in an inherently unequal position of subordination in relation to their employers._
+
+>> (_c_)     **_Third, the abuse will usually take place in the privacy of the employer’s home and without the presence of any independent witnesses_** _. This not only makes the offence very difficult to detect, but also invariably increases the difficulty of prosecuting such offences because it will usually be a case of one’s word against that of the other. This, coupled with_ **_the fear of jeopardising their prospects of employment_** _as well as the general fear of the employer engendered by the situation they find themselves in, is likely to discourage victims from making a complaint._
+
+> _The upshot of this is that_ **_domestic helpers usually do not have a voice_** _and, in many senses, are_ **_dependent on the good faith of their employers_** _. It is critical that the law steps in to protect domestic helpers from being abused by their employers, who are the very people who should be taking care of them. Deterrence therefore takes centre stage where such abuse has taken place and offenders can expect a stiff sentence._
+
+_(Emphasis added)_
+
+217    The Prosecution also submitted that by enacting section 73(2) of the Penal Code, Parliament had intended a zero tolerance approach to all sorts of abuses against domestic helpers. This includes outrage of modesty offences which was specifically legislated and provided for in section 73(1)(c) of the Penal Code. A deterrent sentence is therefore warranted for maid abuse cases.
+
+218    In the present case, with regard to offence specific aggravating factors, the Prosecution submitted that this Court should first ascertain the gravity of the offence committed and place the offence within any of the three bands in order to establish the starting point. Thereafter, the Court should consider the offender specific factors that relate to the offender generally. The offender specific aggravating factors include the number of charges taken into consideration, the lack of remorse and relevant antecedents. The mitigating factors include a timeous plea of guilt or the presence of any mental disorders.
+
+219    The Prosecution also submitted that the following offence specific aggravating factors should apply to the two charges that the accused was convicted of, namely:
+
+> (a)      **Degree of Sexual Exploitation**
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="0"><colgroup><col width="50%"> <col width="50%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>MAC 906075 of 2017</b></p><p align="justify" class="Table-Para-1"><b>(placing head on shoulder)</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>MAC 906076 of 2017</b></p><p align="justify" class="Table-Para-1"><b>(hugging and using fingers to</b></p><p align="justify" class="Table-Para-1"><b>press the breast</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">No intrusion of private part</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Intrusion of victim’s private part (breast)</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">No skin to skin contact</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">No skin to skin contact</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Duration – a few seconds</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Duration – a few seconds</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Victim felt the weight of the accused’s head resting on her right shoulder</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Victim felt the accused</p><p align="justify" class="Table-Para-1">(a) hugging her waist and</p><p align="justify" class="Table-Para-1">(b) the fingers of his left hand pressing her right breast</p></td></tr></tbody></table>
+
+  
+  
+
+> On the facts, MAC 906076 of 2017 is clearly more aggravated as it involved physical contact with the victim’s private part (ie. her breast) over her clothes. PW1 stated that she felt the Accused’s fingers pressing her breast ie. the act committed by the Accused was intentional. The Accused also hugged PW1 when he carried out this act. Although MAC 906075 of 2017 may appear innocent, at first brush, weight should be given to the proximity of the Accused with PW1, when he carried out the act of resting his head on PW1’s right shoulder. The conduct of the Accused is unbecoming of any employer, in any setting. The Accused was taking advantage of his status as an employer when he carried out this act.
+
+> (b)      **Circumstances of the Offence**
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="0"><colgroup><col width="50%"> <col width="50%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>MAC 906075 of 2017</b></p><p align="justify" class="Table-Para-1"><b>(placing head on shoulder)</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>MAC 906076 of 2017</b></p><p align="justify" class="Table-Para-1"><b>(hugging and using fingers to</b></p><p align="justify" class="Table-Para-1"><b>press the breast)</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Abuse of trust</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Abuse of trust</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">&nbsp;</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Act was premeditated. Accused knew that the victim was inside the bathroom;</p><p align="justify" class="Table-Para-1">he entered and knowingly closed the door behind him.</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">&nbsp;</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Act was committed within a confined space, inside the bathroom.</p></td></tr></tbody></table>
+
+  
+  
+
+> The Accused not only abused his position as an employer, he took advantage of the situation knowing (a) that his family had left the house for a vacation, (b) that there were no CCTV cameras in Bedroom 2 and the Master bedroom bathroom, and (c) that PW1 had never been out of Myanmar before (ie. she came from a village). The Accused was so brazen that he was prepared to change his clothes, by stripping to his underwear, knowing that PW1 could have opened the bathroom door at any time and seen him half-naked. The Accused had little or no regard for PW1’s modesty.
+
+> (c)      **Harm caused to the Victim**
+
+> There is no evidence of physical or psychological harm caused to PW1. However, based on the CCTV footages, it is clear that PW1 was traumatised by the acts of the Accused. She was so fearful of the Accused that she insisted on being sent back to the maid agency that same day.
+
+220    In _Kunasekaran_ at \[45\], the High Court endorsed the guidelines established in _GBP v PP_ <span class="citation">\[2018\] 3 SLR 1048</span> (“_GBR_”) in relation to the application of the sentencing bands. Band 1 would generally apply to cases where there was only one offence specific factor present and would typically involve a fleeting touch or no skin-on-skin contact, and no intrusion into the victim’s private parts. Band 2 would apply to cases where there were two or more offence specific factors present. The lower end of the band involves cases whether the private parts of the victim are intruded, but there is no skin-on-skin contact. The higher end of the band involves cases where there is skin-on-skin contact with the victim’s private parts.
+
+221    Having regard to the offence specific factors applicable to this case, the Prosecution submitted that MAC 906075 0f 2017 should come under the lower end of Band 1. Given the nature of the OM Act in MAC 906075 of 2017, the Prosecution was of the view that a fine of not less than $5,000 would be appropriate for that case. As for MAC 906076 of 2017, the Prosecution was of the view that this case should fall under Band 2 (lower end) and the custodial threshold would have been crossed given that there was abuse of trust and there were two or more offence specific factors present:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="0"><colgroup><col width="50%"> <col width="50%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>MAC 906075 of 2017</b></p><p align="justify" class="Table-Para-1"><b>(placing head on shoulder)</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>MAC 906076 of 2017</b></p><p align="justify" class="Table-Para-1"><b>(hugging and using fingers to</b></p><p align="justify" class="Table-Para-1"><b>press the breast)</b></p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Band 1</p><p align="justify" class="Table-Para-1">(lower end)</p><p align="justify" class="Table-Para-1">Starting point: $5000</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Band 2</p><p align="justify" class="Table-Para-1">(lower end)</p><p align="justify" class="Table-Para-1">Starting point: 10 months</p></td></tr></tbody></table>
+
+  
+  
+
+## Offender Specific Factors
+
+222    With respect to the offender specific factors, the Prosecution had drawn my attention to the following:
+
+> (a)      **First time offender – not a valid mitigating factor**
+
+> The Accused in this case is a first time offender. The High Court in _Kunasekaran_ held at \[65\] that the fact that an accused is a first time offender is a **neutral factor** because it is not positive evidence of good character that could in turn be considered a valid mitigating factor. Further, the absence of antecedents is merely the absence of an aggravating factor and it is trite that the mere absence of aggravating factors cannot be construed as a mitigating factor, for which the Accused should be given credit for.
+
+> (b)      **Claimed trial – not entitled to any sentencing discount**
+
+> The fact that the Accused claimed trial is a **neutral factor**. Unlike a plea of guilt which may be regarded as a mitigating factor (especially because it spares the victim of the ordeal of having to testify), the Accused in this case failed to plead guilty at the first instance. As such, he was not entitled to any sentencing discount.
+
+> (c)      **Escalation of physical contacts**
+
+> At trial, CCTV evidence was adduced to show that the Accused had a habit of touching PW1, as he walked past her, on two occasions. Both these acts appeared innocent at first glance, but when taken in totality together with the charges faced by the Accused, they show a tendency to make physical contact. These physical contacts escalated to the Accused eventually pressing the victim’s breast, as he grew bolder. The Prosecution had submitted that the escalation of physical contacts is an **aggravating factor**.
+
+> (d)      **Lack of remorse**
+
+> The Accused’s conduct, at trial, showed a complete lack of remorse for his actions. The Accused not only sought to discredit PW1 by suggesting that she had conspired with another Myanmar maid, he also lied in his police report that PW1 had alleged rape. The Accused produced no evidence whatsoever to support these false allegations. They were bare assertions made to support his own case, at trial. The fact that the Accused did not display any semblance of remorse, in the conduct of his case, is an **aggravating factor**.
+
+223    In light of the offender specific aggravating factors present in this case, the Prosecution submitted that there should be an uplift of two months applied to the sentence imposed on the second charge (MAC 906076 of 2017). Accordingly, the Prosecution submitted that the appropriate sentence for MAC 906076 of 2017 is **12 months’ imprisonment**.
+
+224    I also note that the Prosecution had also tendered a table of sentencing precedents in support of their sentencing position.
+
+## Caning**[^371]**
+
+225    On the issue of caning, the Prosecution had pointed out that in both _GBR_ (at para \[31\]) and _Kunasekaran_ (at para \[50\]), the High Court reaffirmed the longstanding principle that caning would be imposed as a starting point where a victim’s private parts or sexual organs were intruded upon. Such acts constitute grave violations against the privacy and bodily integrity of a victim, and the starting point of caning thus appropriately reflects the severity of such acts and the need for a sufficient level of deterrence and retribution in such cases.
+
+226    As the present case involved an intrusion upon the victim’s breast, the starting point is that caning ought to be imposed.
+
+227    The Prosecution also highlighted the recent case of _GCO v Public Prosecutor_ <span class="citation">\[2019\] 3 SLR 1402</span> (“GCO”) at \[94\], where the High Court made reference to _Kunasekaran_ and gave further guidance on when caning would be appropriate, and stated as follows:
+
+> “Caning has typically been imposed on offenders in cases applying the _Kunasekaran_ framework where there was skin-to-skin contact, or the contact was prolonged, or there was an element of restraint applied to the victim, although these aggravating factors should not be taken to be exhaustive.”
+
+228    On the facts of MAC 906076 of 2017, the Prosecution submitted that caning is warranted for this case, for the following reasons:
+
+> (a)     The offence was committed within a confined space, inside the master bedroom toilet. PW1 was unable to leave the bathroom as the door was closed. At trial, PW1 testified that she moved towards the bathroom window to ‘divert’ the accused’s attention. She explained that she was in fact ‘ashamed’ but did not want to show that she felt anything about it. She testified that she was ‘shocked and scared’ when the incident happened[^372]. Anyone caught in a confined space would be afraid that the perpetrator might cause more harm.
+
+> (b)     The Accused hugged the victim with both arms from behind and restrained her, whilst committing the 2nd OM Act. Although the duration of the act was short (a few seconds) and there was no skin-on-skin contact, the manner in which the Accused carried out the 2nd OM Act is sufficiently aggravating to warrant caning.
+
+229    Based on the foregoing, the Prosecution had submitted for 3 strokes of the cane, for this case.
+
+##### b.    Accused’s mitigation plea and Defence’s sentencing position[^373]
+
+230    The Accused is 44 years of age and he has a clean record and was untraced.
+
+231    The Defence is also relying on the sentencing framework as set out in _Kunasekaran_ and the Defence is submitting for a term of imprisonment of 8 to 9 months for MAC 906076 of 2017 and a fine of $2000 for MAC 906075 of 2017[^374].
+
+232    On the issue of offence specific factors, the Defence had pointed out the following:
+
+> i.     On the degree of sexual exploitation, for the 2nd OM Act, there was no skin-to-skin contact and the act was not substantially sustained as it lasted only for a few seconds.
+
+> ii.     On the circumstances of the offences, the Defence was of the view that there was no abuse of trust as PW1’s demeanour did not show any distress as she was seen chirpy and singing a song when exiting the room. Therefore, PW1 could not have felt that there was an abuse of trust. The Defence also submitted that there was no evidence to suggest any high degree of planning which means that there was no premeditation on the part of the Accused.
+
+> iii.     On the harm caused to PW1, the Defence submitted that PW1 displayed no evidence of physical or psychological harm as evident from the CCTV footage.
+
+233    And based on the offence specific aggravating factors, the Defence was of the view that MAC 906076 of 2017 should fall in the lower end of Band 2 of the _Kunasekaran_ framework and the starting point should be 5 months’ imprisonment.
+
+234    As for offender specific factors, the Prosecution had submitted that the Accused’s act was bold and that the escalation of physical contact is an aggravating factor. However, the Defence was of the view that it was stated in _Kunasekaran_ that these offender specific factors relate to the “_offender’s particular personal circumstances and, by definition, cannot be the factors which have already been taken into account in the categorisation of the offence”._ The Defence was of the view that this aspect had been covered in the first step of the sentencing approach under the circumstances of the incident category and hence, should not be raised again to uplift the sentence. The Prosecution had also submitted that lack of remorse during the trial is considered an aggravating factor. The Defence submitted that the Accused was merely exercising his right to defend the charges brought against him and he is not expected to display any act of remorse as this would be in contradiction to his right to claim trial.
+
+235    As for the mitigating factors, the Defence had submitted that the fact that the Accused is a first-time offender is a neutral factors cited in _Kunasekaran._
+
+236    In view of the above factors, the Defence submitted that 5 to 6 months’ imprisonment would be an appropriate sentence for MAC 906076 of 2017. And taking into account section 73(1)(c) read with section 73(2) of the Penal Code, an uplifted sentence of 8 to 9 months’ imprisonment is sufficient for the purpose of punishment and deterrence.
+
+237    On the issue of caning, the Defence had pointed out that in _PP v Chow Yee Sze_, Steven Chong J had noted that caning was not meted out in every case where the touching of the victim’s breast was involved. The judge had asked if, caning is the norm for cases where the offence involved touching of the victim’s breast, and the prosecution had drawn the judge’s attention to several recent cases where caning was not ordered. In that case, the judge was of the view that a longer custodial sentence was sufficient and adequate punishment.
+
+238    The Defence also pointed out that in the case of _GCO v PP_, See Kee Oon J had set aside the sentence of caning imposed by the District Judge as he was of the view that caning is usually imposed on offenders where there was skin-to-skin contact, or where the contact was prolonged or where there is an element of restraint applied to the victim. See Kee Oon J had also noted that there were post-_Kunasekaran_ cases where caning have not been meted out even where private parts were intruded upon.
+
+239    On the issue of caning, the Defence had also referred me to the case of _PP v Thaw Zi Oo_ <span class="citation">\[2019\] SGMC 47</span> (“_Thaw Zi Oo”_)[^375] . In _Thaw Zi Oo_, the offender was charged under section 354(1) for kissing the victim on the lips and touching her crotch area over her jeans). The offender was convicted by the District Judge after trial and he was sentenced to 6 months’ imprisonment and no caning was imposed by the District Judge. The Defence had pointed out that even in _Thaw Zi Oo_, where the touching of the crotch is more aggravating as it is a more sensitive area than the breast, the courts have found it unnecessary to impose caning.
+
+240    Considering all the above, the Defence was of the view that caning should not be imposed in MAC 906076 of 2017 as the degree of sexual exploitation of PW1 was not severe, the circumstances were not severe and the harm suffered by PW1 was little to none.
+
+241    As for MAC 906075 of 2017, the Defence was of the view that a fine of $2000 would be sufficient given that there was no intrusion of any private parts or sexual organs of PW1. The Defence had also referred me to the case of _PP v Balakrishnan s/o Kuppusamy_ <span class="citation">\[2016\] SGDC 76</span> (“_Balakrishnan”_) in support of their submission of a fine for MAC 906075 of 2017. The Defence had pointed out that the District Judge in _Balakrishnan_ had convicted the offender of tapping the victim’s buttock after a trial and had imposed a fine of $5000 in default 4 weeks’ imprisonment on the offender. In _Balakrishnan_, the victim was a senior care associate/nursing aide who was employed by the offender and his family to take care of their ailing and elderly mother.
+
+## c.    My decision on the relevant sentence to be imposed
+
+242    In applying the two-step sentencing band approach to determining sentences for outrage of modesty cases as laid down in _Kunasekaran_, this court should first consider the presence of three types of offence-specific factor, namely:
+
+> (a)     The degree of sexual exploitation (including considerations of which part of the victim’s body was touched, how the accused touched the victim, and the duration of the outrage of modesty);
+
+> (b)     The circumstances of the offence (including (i) the presence of premeditation, (ii) the use of force or violence, (iii) the abuse of a position of trust, (iv) the use of deception, (v) the presence of other aggravating acts accompanying the outrage of modesty; and (vi) the exploitation of a vulnerable victim); and
+
+> (c)     The degree of harm caused to the victim.
+
+243    The gravity of the offence can then be discerned from the incidence of offence-specific factors and placed within one of the following bands, which provide the starting sentencing range as follows:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="16.6%"> <col width="54.24%"> <col width="29.16%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">&nbsp;</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Description</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Sentencing Range</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Band 1</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">No more than one offence-specific factor (typically fleeting touch, no skin-to-to-skin contact, and no intrusion into victim’s private parts).</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Less than five months’ imprisonment.</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Band 2</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Two or more offence-specific factors present. Lower end typically involves cases where private parts of victim are intruded, but there is no skin-on-skin contact. Higher end involves cases where there is skin-on-skin contact with private parts. Also includes cases involving use of deception.</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Five to 15 months’ imprisonment.</p><p align="justify" class="Table-Para-1">&nbsp;</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Band 3</b></p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Numerous offence-specific factors present, especially exploitation of vulnerable victim, serious abuse of trust, and/or use of violence or force on the victim.</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">15 to 24 months’ imprisonment.</p><p align="justify" class="Table-Para-1">&nbsp;</p></td></tr></tbody></table>
+
+  
+  
+
+244    Having determined the starting point in accordance with these sentencing ranges, this court should then calibrate the sentence in view of aggravating and mitigating factors that relate to the offender.
+
+245    I also note that for OM cases involving domestic maids, where the offender is the employer of the maid or a member of the employer’s household, section 73(2) of the Penal Code prescribes an enhanced punishment to one and a half times the amount of punishment to which the offender would otherwise have been liable for under that offence.
+
+## i.    Offence Specific Factor
+
+246    As regards to offence specific factors in relation to the present case, I note the following:
+
+> i.      For MAC 906075 of 2017, I accept that on the degree of sexual exploitation, there was no intrusion of private part as the Accused had merely placed his head on PW1’s shoulder. There was also no skin to skin contact and the duration of the act was only a few seconds. As for the circumstances of the offence, I would agree with the Prosecution that there is an abuse of trust as PW1 was a foreign domestic maid who had been employed by the Accused to work in his home. I agree with the Prosecution that the Accused had abused his position as employer and had taken advantage of PW1 when they were alone in the house when his family had gone overseas for a holiday. As an employer, it is the job of the Accused to protect PW1 and not to take advantage of her. And as for the harm caused to PW1, I accept that there is no evidence of physical or psychological harm caused to PW1 at the time the 1st OM Act was committed. As such, I am of the view that MAC 906075 of 2017 should fall under the lower end of the Band 1 sentencing range. And given the nature of the 1st OM Act, I am of the view that the custodial threshold has not been crossed and a fine would be an appropriate sentence.
+
+> ii.      For MAC 906076 of 2017, on the degree of sexual exploitation, I note that the Accused had hugged PW1 from behind and had used his fingers to press PW1’s breast. In this case although there was intrusion of the victim’s private parts, there was no skin to skin contact as the Accused had touched PW1’ breast over her clothes. I also note that the duration of the act was for a very short while. As for the circumstances of the offence, there is an abuse of trust given that this is a domestic maid and employer situation. The fact that the Accused had closed the door of the toilet and had proceeded to hug PW1 from behind and pressed her breast clearly show that his acts were intentional and pre-meditated and that he was planning to commit the acts without PW1 knowing. I also note the Prosecution’s point that the acts were committed within a confined space of the master bedroom toilet. As for the harm caused to PW1, it is clear that she was distressed and traumatised from what the Accused had done and her demeanour had changed totally less than 15 minutes after the acts were committed and she had to seek help of the Filipino maid by throwing her a note to ask for her help to contact PW3. And when PW1 managed to get hold of PW3, she had asked PW3 to her out of the Accused’s house immediately. Given these factors, I am of the view that MAC 9070765 of 2017 should come under the lower end of the Band 2 sentencing range.
+
+247    Taking into account the offence-specific factors as well as the Table of Sentencing Precedents submitted by both parties, and also taking into account section 73(2) of the Penal Code, I am of the view that appropriate starting point for both the charges under the _Kunasekaran_ sentencing framework should be as follows:-
+
+> i.     For MAC 906075 of 2017 - $4000 fine
+
+> ii.     For MAC 906076 of 2017 - 10 months’ imprisonment
+
+## ii.   Offender Specific Factors
+
+248    I agree with the Prosecution that there are no mitigating factors on the part of the Accused in this case. The fact that the Accused had a clean record is best regarded as a neutral factor, and his decision to claim trial would mean that he would not benefit from any sentencing discount.
+
+249    As for aggravating factors, I agree with the Prosecution on the following:
+
+> i.     The Accused’s conduct at trial, showed a complete lack of remorse for his action. While I accept that it is the Accused’s right to claim trial to the charges, it is also important to see how the Accused has conducted his defence. In the present case, the Accused was not merely denying the charge and asking the Prosecution to prove their case against him. What the Accused had sought to do in his Defence was to try to destroy PW1’s credibility by suggesting that she had colluded with another Myanmese maid to get him into trouble just because she is not happy to work for him. The Accused had also made false allegations against PW1 in his police report against her by suggesting that she had falsely accused him of attempted rape which is a much more serious offence.
+
+> ii.     I also agree with the Prosecution that there was escalation of physical contacts by the Accused on PW1 from the initial placing of his head on her shoulders to touching parts of her body casually till eventually touching her breast. These acts took place over a period of 2 days before the final act of hugging and pressing of the breast.
+
+250    The Accused’s conduct of changing and taking off his clothes without any care or consideration that PW1 may see him in a state of undressed also shows his brazen behaviour towards PW1 and how much regard he has for PW1’s feelings and modesty. This is clearly an aggravating factor.
+
+251    Having taken into account the above, I am of the view that the appropriate sentences for MAC 906075 of 2017 is $5,000 fine in default 5 weeks’ imprisonment and for MAC 906076 of 2017 is 11 months’ imprisonment.
+
+## iii.    Issue of Caning
+
+252    In _PP v Chow Yee Sze_ <span class="citation">\[2011\] 1 SLR 481</span>, Steven Chong J (at \[9\]) had noted that “the well–established sentencing benchmark is nine months’ imprisonment with caning as a starting point for molest or outrage of modesty under section 354 of the Penal Code where a victim’s private parts or sexual organs were intruded”. However, Steven Chong J (at \[39\]) after going through the sentencing precedents, also noted that caning was not meted out in every case where there was touching of a victim’s breast. And in that case, the learned Judge had noted that the offender was suffering from personality disorder and he decided to spare the offender from caning and instead imposed a longer custodial sentence.
+
+253    In the case of _GCO v PP_ <span class="citation">\[2019\] 3 SLR 1402</span>, the offender had pleaded guilty to a charge of outrage of modesty under section 354(1) of the Penal Code and a change of insulting the modesty of a woman under section 509 of the Penal Code and the District Judge had sentenced the offender to 8 months’ imprisonment and 3 strokes of the cane for the section 354(1) charge and 1 months’ imprisonment for the section 509 charge. On appeal to the High Court by the offender, See Kee Onn J had noted that the offender was suffering from voyeurism and fetishism but these mental conditions did not remove the offender’s mental ability or capacity to control his actions or refrain from committing criminal acts. On the issue of caning, See Kee Onn J (at \[94\]) decided to set aside the caning as he was of the view that:
+
+> “Caning has typically been imposed on offenders in cases applying the _Kunasekaran_ framework where there is skin-to-skin contact, or the contact was prolonged, or there was an element of restrained applied to the victim, although these aggravating factors should not be taken to be exhaustive. None of these three factors is present here. As for the District Judge’s point about sexual exploitation being particular intrusive, that has already been adequately accounted for in the substantial term of imprisonment imposed. There is nothing to suggest that the appellant sought deliberately to prolong the contact, or that he persisted after the second victim woke up. Nor is there any suggestion of abuse of trust, which featured in the Prosecution’s precedent of _Liew Hoo Ling v pp_ Magistrate’s Appeal No. 9155 of 2016, which is the most factually analogous to the present case. It is therefore appropriate that the sentence of caning be set aside”.
+
+254    In the present case, the Accused is not suffering from any form of mental disorder. However, I am of the view that there was escalation of physical contacts over a period of 2 days and that the Accused had abused his position as employer and had taken advantage of PW1 who was his foreign domestic maid when they were alone in the house. There was also some form of “restraint” given that the 2nd OM Act had taken place in the confines of the master bedroom toilet after the Accused had closed the toilet door behind him. As such, I am of the view that caning is warranted for MAC 906076 of 2017 and I am imposing 3 strokes of the cane in relation to this charge.
+
+255    In the premises, having regard to all the circumstances herein, I sentenced the Accused to the following:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr"><colgroup><col width="15.5%"> <col width="37.8%"> <col width="46.7%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>S/No.</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Charge No.</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Sentence</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">1.</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">MAC 906075-2017</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">$5000 fine in default 5 weeks’ imprisonment</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">2.</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">MAC 906076-2017</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">11 months’ imprisonment with 3 strokes of the cane</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">&nbsp;</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Total Sentence:</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">11 months’ imprisonment with 3 strokes of the cane and $5000 fine in default 5 weeks’ imprisonment</p></td></tr></tbody></table>
+
+  
+  
+
+256    The Accused has filed his Notice of Appeal against my decision. The Accused has also applied and has been granted a stay of execution of the sentence pending appeal. He is currently released on bail bond in the sum of $20,000.
+
+* * *
+
+[^1]: Exhibit P11
+
+[^2]: Exhibits P12 and P13
+
+[^3]: NE Day 9 15 April 2019 Page 1, NE Day 9 15 April 2019 Page 5
+
+[^4]: NE Day 9 15 April 2019 Page 27 and Exhibit P7
+
+[^5]: See Exhibit P7
+
+[^6]: NE Day 2 22 June 2018 Page 33 and Exhibit D17
+
+[^7]: See Exhibit P7
+
+[^8]: See Exhibit P8
+
+[^9]: NE Day 9 15 April 2019 Page 27, NE Day 4 10 October 2018 Page 21
+
+[^10]: See Exhibit P7
+
+[^11]: NE Day 9 15 April 2019 Page 28 and P7
+
+[^12]: NE Day 8 5 November 2018 Page 8
+
+[^13]: See Exhibit P7
+
+[^14]: NE Day 2 22 June 2018 Page 54
+
+[^15]: NE Day 6 30 October 2018 page 38
+
+[^16]: NE Day 9 15 April 2019 Page 31
+
+[^17]: NE Day 9 15 April 2019 Page 31, 40 to 41
+
+[^18]: See Exhibit P7
+
+[^19]: NE Day 1 21 June 2018 Page 15, NE Day 8 5 November 2018 Page 7
+
+[^20]: NE Day 9 15 April 2019 Page 34
+
+[^21]: NE Day 9 15 April 2019 Page 7 to 8, NE Day 1 21 June 2018 Page 32
+
+[^22]: NE Day 8 5 November 2019 Page 5
+
+[^23]: NE Day 8 5 November 2018 Pages 2 to 3
+
+[^24]: NE Day 8 5 November 2018 Page 8
+
+[^25]: NE Day 9 15 April 2019 Page 36
+
+[^26]: NE Day 8 5 November 2018 Pages 6 and 7, NE Day 9 15 April 2019 Page 34
+
+[^27]: NE Day 9 15 April 2019 Page 36
+
+[^28]: NE Day 8 5 November 2018 Page 14, NE Day 9 15 April 2019 Page 9 to 10
+
+[^29]: NE Day 9 15 April 2019 Page13 to 17, Exhibit D1
+
+[^30]: NE Day 9 15 April 2019 Page 19
+
+[^31]: Please refer to Exhibit D1 which shows the layout plan of Bedroom 2 and the Master Bedroom toilet
+
+[^32]: See Exhibit P11
+
+[^33]: See Exhibit P11 20:56:00 DA, 20:55:00 DA 28 November 2016
+
+[^34]: See Exhibit P11 Video 20:57:00 DA, 21:12:00 DA, 21:13:00 DA 28 November 2016, 17:32:01 MB, 17:41:29 MB 29 November 2016 and NE Day 9 15 April 2019 Page 36
+
+[^35]: See Exhibit P11 Video 17:59:17 LR 29 November 2016 and Exhibit P5 Image 30
+
+[^36]: See Exhibit P11 Video 21:03:46 LR 29 November 2016 and NE Day 9 15 April 2019 Page 46 and NE Day 10 16 April 2019 Page 73
+
+[^37]: NE Day 8 5 November 2018 Page 54 to 55
+
+[^38]: See Exhibit P11 Video 21:20:40 DA 29 November 2016
+
+[^39]: NE Day 9 15 April 2019 Page 61
+
+[^40]: NE Day 9 15 April 2019 Page 50, 52-53
+
+[^41]: NE Day 9 15 April 2019 Page 61
+
+[^42]: NE Day 9 15 April 2019 Page 61
+
+[^43]: NE Day 9 15 April 2019 Page 60
+
+[^44]: See Exhibit P1
+
+[^45]: See Exhibit P2 and P3
+
+[^46]: See Exhibit D1 for location of Bedroom 2
+
+[^47]:  See Prosecution’s Closing Submission Paragraph 23
+
+[^48]: See Exhibits P18 and P19 and Exhibit P11 Video 17:33:06 MB 29 November 2016 and Video 21:13:00 DA 28 November 2016
+
+[^49]: NE Day 2 22 June 2018 Page 90
+
+[^50]: See Exhibit P13
+
+[^51]: NE Day 1 21 June 2018 Page 23
+
+[^52]: See Exhibit P11 Videos 20:54:00 DA and 20:55:00 DA 28 November 2016
+
+[^53]: NE Day 2 22 June 2018 Page 71
+
+[^54]: NE Day1 21 June 2018 Page 29 and NE Day 2 22 June 2018 Page 70 - 71
+
+[^55]: NE Day 1 21 June 2018 Page 29
+
+[^56]: NE Day 2 22 June 2018 Page 30
+
+[^57]: See Exhibit P11 Videos 20:55:00 DA and 20:56:00 DA 28 November 2016
+
+[^58]: NE Day 2 22 June 2018 Page 74
+
+[^59]: NE Day 1 21 June 2018 Page 32
+
+[^60]: NE Day 7 31 October 2018 Page 47
+
+[^61]: See Exhibit P11 Video 17:42:02 MB 29 November 2016
+
+[^62]: NE Day 1 21 June 2018 Page 33
+
+[^63]: NE Day 1 21 June 2018 Page 33 and 63, NE Day 4 10 October 2018 Page 50
+
+[^64]: NE Day1 21 June 2018 Pages 65-66
+
+[^65]: NE Day 1 21 June 2018 Pages 34 and 66
+
+[^66]: See Exhibit P11 Video 17:42:02 MB
+
+[^67]: NE Day 1 21 June 2018 page 34 and page 66
+
+[^68]: NE Day 1 21 June 2018 Page 69
+
+[^69]: NE Day 4 10 October 2018 Page 80, NE Day 7 31 October 2018 Page 48
+
+[^70]: NE Day 1 21 June 2018 page 34
+
+[^71]: NE Day 1 21 June 2018 page 35
+
+[^72]: NE Day 1 21 June 2018 page 79
+
+[^73]: NE Day 1 21 June 2018 page 36 and page 79
+
+[^74]: NE Day 1 21 June 2018 page 36 and page 82
+
+[^75]: NE Day 1 21 June 2018 page 36 and 84
+
+[^76]: NE Day 1 21 June 2018 page 84
+
+[^77]: NE Day 1 21 June 2018 page 84
+
+[^78]: NE Day 1 21 June 2018 page 36
+
+[^79]: NE Day 1 21 June 2018 page 37 and page 88
+
+[^80]: NE Day 1 21 June 2018 page 93
+
+[^81]: NE Day 1 21 June 2018 page 43
+
+[^82]: NE Day 1 21 June 2018 page 84
+
+[^83]: NE Day 1 21 June 2018 page 93
+
+[^84]: NE Day 6 30 October 2018 page 5
+
+[^85]: NE Day 5 11 October 2018 page 5 to 8
+
+[^86]: NE Day 5 11 October 2018 page 13
+
+[^87]: NE Day 5 11 October 2018 page 10
+
+[^88]: NE Day 5 11 October 2018 page 12 and 38
+
+[^89]: NE Day 5 11 October 2018 page 12 and 16
+
+[^90]: NE Day 5 11 October 2018 page 12
+
+[^91]: NE day 5 11 October 2018 page 13
+
+[^92]: NE Day 5 11 October 2018 page 26
+
+[^93]: NE Day 5 11 October 2018 page 26
+
+[^94]: NE Day 5 11 October 2018 page 15
+
+[^95]: NE Day 5 11 October 2018 page 39
+
+[^96]: See Exhibit P11
+
+[^97]: NE Day 6 30 October 2018 page 12
+
+[^98]: NE Day 6 30 October 2018 page 12 and Exhibit P9
+
+[^99]: NE Day 6 30 October 2018 page 14 and 15
+
+[^100]: NE Day 6 30 October 2018 page 15
+
+[^101]: NE Day 6 30 October 2018 page 15
+
+[^102]: NE Day 6 30 October 2018 page 16, 20 and 21
+
+[^103]: NE Day 6 30 October 2018 page 17
+
+[^104]: NE Day 6 30 October 2018 page 18
+
+[^105]: NE Day 6 30 October 2018 page 19 and 20
+
+[^106]: NE Day 6 30 October 2018 page 26 to 27
+
+[^107]: NE Day 6 30 October 2018 page 32
+
+[^108]: NE Day 6 30 October 2018 page 34
+
+[^109]: NE Day 6 30 October 2018 page 37
+
+[^110]: Exhibit P1
+
+[^111]: Exhibit P3
+
+[^112]: Burnt into a DVD Exhibit P11
+
+[^113]: Exhibit P2
+
+[^114]: See page 4 to 7 of Defence Closing Submission
+
+[^115]: NE Day 8 page 16 to 22
+
+[^116]: NE Day 8 page 25 and paragraph 6(b) of Defence Reply to Prosecution’s Closing Submission
+
+[^117]: See paragraph 6(c) of Defence Reply to Prosecution’s Closing Submission
+
+[^118]: See Exhibit P18 and video 21:13:00 LR
+
+[^119]: NE Day 8 page 28 to 29
+
+[^120]: NE Day 8 page 29
+
+[^121]: See Exhibit P19 and video 17:33:06-MB
+
+[^122]: See NE Day 8 page 30
+
+[^123]: NE Day 8 page 32
+
+[^124]: NE Day 8 page 33
+
+[^125]: NE Day 8 page 34
+
+[^126]: NE Day 8 page 37
+
+[^127]: NE Day 8 page 37 to 38
+
+[^128]: NE Day 8 page 398
+
+[^129]: NE Day 8 page 40
+
+[^130]: NE Day 8 page 42
+
+[^131]: NE Day 8 page 40 to 41
+
+[^132]: NE Day 8 page 44 to 45
+
+[^133]: NE Day 8 page 45
+
+[^134]: See NE Day 8 page 45
+
+[^135]: NE Day 8 page 47
+
+[^136]: NE Day 8 page 48
+
+[^137]: NE Day 8 page 50
+
+[^138]: NE Day 8 page 55
+
+[^139]: NE Day 8 page 55
+
+[^140]: NE Day 8 page 56
+
+[^141]: NE Day 8 page 57
+
+[^142]: NE Day 8 page 58
+
+[^143]: See Exhibit P1 and NE day 8 page 59
+
+[^144]: See paragraph 24 to 61 of the Prosecution Closing Submission
+
+[^145]:  See paragraph 19 to 22 of Prosecution Closing Submission
+
+[^146]:  See paragraph 24 and 254 of Prosecution’s Closing Submission
+
+[^147]: CCTV footages between 1917hrs to 1919hrs (Exhibit P11, filename 19:17:47 LR to 19:19:20 LR).
+
+[^148]:  See paragraph 26 to 29 of Prosecution Closing Submission
+
+[^149]: See NEs – 21 Jun 18, page 29 at lines 9 to 13.
+
+[^150]: See NEs – 21 Jun 18, page 31 at lines 13 to 20.
+
+[^151]: See CCTV footages 2053H, 2054H and 2055H from Exhibit P11.
+
+[^152]: See NEs – 22 Jun 18, page 30 at lines 7 to 25.
+
+[^153]: See NEs – 22 Jun 18, page 29 at line 9
+
+[^154]: See NEs – 22 Jun 18 at page 70, lines 7 to 29
+
+[^155]: See NEs – 22 Jun 18 at page 72 at line 17 to page 74 at line 2
+
+[^156]:  See paragraph 30 to 33 of Prosecution Closing Submission
+
+[^157]: See NEs – 21 Jun 18, page 32 at lines 24 to 28
+
+[^158]: See NEs – 22 Jun 18, page 74 at line 3 to page 75 at line 20
+
+[^159]: See NEs – 22 Jun 18, page 86 at line 27 to page 87 at line 1
+
+[^160]:  See paragraph 34 to 36 of Prosecution Closing Submission
+
+[^161]: See NEs – 21 Jun 2018, page 33 at line 21 to page 34 at line 4.
+
+[^162]: See NEs – 21 Jun 2018, page 65 at line 27 to page 66 at line 14.
+
+[^163]: See NEs – 21 Jun 2018, page 69 at lines 6 to 12.
+
+[^164]: See NEs – 10 Oct 2018, page 52 at lines 14 to 17; see also page 53 at line 2 and line 15
+
+[^165]: See NEs – 10 Oct 2018, page 56 at line 29 to page 57 at line 2; see also page 59 at lines 13 to 15.
+
+[^166]:  See paragraph 37 to 38 of Prosecution Closing Submission
+
+[^167]: See NEs – 21 Jun 2018, page 66 at pines 14 to 16.
+
+[^168]: See NEs – 21 Jun 2018, page 66 at pines 14 to 16.
+
+[^169]: See NEs – 10 Oct 2018, page 81 at lines 8 to 11.
+
+[^170]: See NEs – 10 Oct 2018, page 79 at line 5; page 80 at lines 21 and 26
+
+[^171]: See paragraph 39 to 40 of Prosecution Closing Submission
+
+[^172]: PW2 testified that he gave Exhibit P11 to the translators and told them to review all the clips.
+
+[^173]: See NEs – 15 Apr 2019, page 103 at lines 27 to 32; see also page 104 at line 30 to page 105 at line 2.
+
+[^174]: See NEs – 10 Oct 2018, page 90 at line 27, line 29; page 91 at line 9; page 96 at line 7, line 9, line 27; and at page 97 at line 1.
+
+[^175]: See NEs – 10 Oct 2019, page 91 at lines 9 to 13. It is submitted that the first occasion was between 1917hrs and 1919hrs and the second occasion was between 1928hrs and 1937hrs
+
+[^176]: See NEs – 31 Oct 2018, page 15 at line 18.
+
+[^177]: See NEs – 31 Oct 2018, page 21 at line 31.
+
+[^178]: See NEs – 31 Oct 2018, page 101 at lines 11 to 18.
+
+[^179]: See paragraph 41 to 43 of Prosecution Closing Submission
+
+[^180]: See NEs – 22 Jun 2018, page 90 at lines 18 to 22.
+
+[^181]: See NEs – 10 Oct 2018, page 14 at line 8.
+
+[^182]: See NEs – 31 Oct 2018, page 52 at line 26 to page 54 at line 19.
+
+[^183]: See NEs – 21 Jun 2018, page 49 at lines 27 to 32
+
+[^184]: See paragraph 44 to 45 of Prosecution Closing Submission
+
+[^185]: See NEs – 11 Oct 2018, page 12 at lines 12 to 14.
+
+[^186]: See NEs – 11 Oct 2018, page 12 at line 24
+
+[^187]: See NEs – 11 Oct 2018, page 13 at line 5.
+
+[^188]: See NEs – 11 Oct 2018, page 16 at lines 9 to 16.
+
+[^189]: See NEs – 11 Oct 2018, page 52 at line 10.
+
+[^190]: See NEs – 11 Oct 2018, page 53 at line 27; see also page 62 at line 32
+
+[^191]: See NEs – 11 Oct 2018, page 95 at lines 24 to 31
+
+[^192]: See paragraph 46 of Prosecution Closing Submission
+
+[^193]: See paragraph 47 to 48 of Prosecution Closing Submission
+
+[^194]: See NEs – 11 Oct 2018, page 95 at lines 24 to 31
+
+[^195]: NEs – 30 Oct 2019, page 37 at lines 4 to 18
+
+[^196]: NEs – 30 Oct 2018, page 70 at line 10 to page 71 at line 29
+
+[^197]: NEs – 11 Oct 2018, page 51 at lines 30 to 32
+
+[^198]: See paragraph 49 to 52 of Prosecution Closing Submission
+
+[^199]: NEs – 5 Nov 2018, page 28 at lines 6 to 9.
+
+[^200]: NEs – 5 Nov 2018, page 28 at lines 16 to 20.
+
+[^201]: NEs – 5 Nov 2018, page 28 at lines 24 to 27; see also 16 Apr 2019, page 5 at lines 21 to 24.
+
+[^202]: See NEs – 16 Apr 2019, page 12 at line 4 to page 13 line 2.
+
+[^203]: See NEs – 16 Apr 2019, page 6 at lines 8 to 11.
+
+[^204]: See NEs – 5 Nov 2018, page 30 at lines 15 to 20.
+
+[^205]: See paragraph 53 to 55 of Prosecution Closing Submission
+
+[^206]: See NEs – 31 Oct 2018, page 16 at lines 5 to 15
+
+[^207]: See NEs – 31 Oct 2018, page 29 at line 23 to page 30 at line 14
+
+[^208]: See NEs – 15 Apr 2019, page 103 at lines 27 to 32; see also page 104 at line 30 to page 105 at line 2
+
+[^209]: See NEs 31 Oct 2018, page 25 at line 5 to page 26 at line 5
+
+[^210]: See NEs 15 Apr 2019, page 101 at lines 3 to 10
+
+[^211]: See NEs 31 Oct 2018, page 26 at lines 9 to12
+
+[^212]: See NEs 15 Apr 2019, page 100 at line 20 – the Accused admitted he had time to review all the CCTV footages before the start of trial.
+
+[^213]: See paragraph 57 of Prosecution Closing Submission
+
+[^214]: See NEs 15 Apr 2019, page 124 at lines 14 to 21
+
+[^215]: See NEs 15 Apr 2019, page 125 at line 8
+
+[^216]: See NE Day 9 15 April 2019 page 125
+
+[^217]: See NEs 15 Apr 2019, page 132 at line 16 to page 133 at line 6
+
+[^218]: See NEs 15 Apr 2019, page 126 at line 32 to page 127 at line 4
+
+[^219]: See NEs 15 Apr 2019, page 135 at line 22
+
+[^220]: See NEs 15 Apr 2019, page 136 at lines 6 to 9
+
+[^221]: See NEs 15 Apr 2019, page 138 at lines 14 to 23
+
+[^222]: See paragraph 58 of Prosecution Closing Submission
+
+[^223]: See NEs 16 Apr 2019, page 29 at line 10. See **Exhibit P11** (**CCTV 17:33:06 MB**).
+
+[^224]: See NEs 16 Apr 2019, page 48 at lines 26 to 31
+
+[^225]: See paragraph 59 of Prosecution Closing Submission
+
+[^226]: NEs – 16 Apr 2019, page 36 at line 18; page 38 at lines 13 to 15
+
+[^227]: NEs – 16 Apr 2019, page 62 at line 29
+
+[^228]: NEs – 16 Apr 2019, page 64
+
+[^229]: See paragraph 60 of Prosecution Closing Submission
+
+[^230]: NEs – 16 Apr 2019, page 33 at line 8
+
+[^231]: NEs – 16 Apr 2019, page 34 at line 26 to page 35 at line 2
+
+[^232]: NEs – 16 Apr 2019, page 41 at line 32 to page 42 at line 4
+
+[^233]: See paragraph 61 of Prosecution Closing Submission
+
+[^234]: NEs – 16 Apr 2019, page 85 at lines 23 to 28. Sherlin clarified that the expression meant ‘to pull a stunt’.
+
+[^235]: NEs – 16 Apr 2019, page 87 at lines 4 to 13.
+
+[^236]: See Exhibit P12 at page 1 of 11 (“30M00S – 21.30.18 DA”) – it was PW4 who told him that PW1 was showing a ‘pattern’
+
+[^237]:  See paragraphs 5 to 8 of Prosecution’s Reply to Defence Closing Submission
+
+[^238]: See NEs: 15 Apr 2019, page 36 at lines 20 to 22.
+
+[^239]: See NEs: 15 Apr 2019, page 39 at lines 13 to 14
+
+[^240]: See NEs: 15 Apr 2019, page 39 at lines 28 to 30.
+
+[^241]: See NEs: 15 Apr 2019, page 36 at line 31 to page 37 at line
+
+[^242]: See NEs: 15 Apr 2019, page 43 at lines 1 to 9; page 44 at lines 1 to 11; page 49 at lines 23 to 26
+
+[^243]: See NEs: 15 Apr 2019, page 46 at lines 19 to 21; see also 16 Apr 2019, page 73 at lines 22 to 2
+
+[^244]:  See paragraphs 16 to 19 of Prosecution’s Reply to Defence Closing Submission
+
+[^245]:  See paragraphs 20 to 42 of Prosecution’s Reply to Defence Closing Submission
+
+[^246]: See NEs: 10Oct18, page 81, lines
+
+[^247]: See NEs: 10 Oct 18, pages 25 to 30; refer to **CCTV 17:33:06 – MB**\]
+
+[^248]: See NEs: 10 Oct 18, page 29 at line 16 to page 30 at line 6
+
+[^249]: At this point, the Victim had already asked for permission to call home later \[see **CCTV 17:32:01- MB**\]
+
+[^250]: See \[**CCTV 17:33:06 – MB** from 17:33:15hrs to 17:33:19hrs\] the Accused is heard saying to the Victim, as he stepped out of the bathroom after throwing his ice cream stick - “_With friends, I go out_”
+
+[^251]: See \[**CCTV 17:41:29 – MB** at 17:41:26 hrs\]
+
+[^252]: See Defendant’s Closing Submissions at pararaphs \[90\] to \[93\]
+
+[^253]: See Defendant’s Closing Submission at paragraph \[97\] to \[101\]
+
+[^254]: See NEs: 10 Oct 2018, page 82 at line 31 to page 83 at line 10
+
+[^255]: See NEs: 15 Apr 19, page 39 at lines 13 to 14
+
+[^256]: See NEs: 10 Oct 18, page 84 at lines 13 to 17
+
+[^257]: See NEs: 10 Oct 18, page 75 at lines 7 to 30
+
+[^258]:  See paragraph 43 to 50 of Prosecution’s Reply to Defence Closing Submissions
+
+[^259]: See Exhibit P11, CCTV 17:43:59 – LR
+
+[^260]: See Exhibit P11, CCTV 21:03:46 – LR. 16
+
+[^261]: See NEs: 22 Jun 2018, page 74 at lines 3 to 14 18
+
+[^262]:  See paragraph 51 to 52 of the Prosecution’s Reply to Defence Closing Submissions
+
+[^263]: See Defence Closing Submission at paragraphs \[73\] to \[85\]
+
+[^264]: See Prosecution Closing Submission paragraph 41 to 43
+
+[^265]: See page 8 to 12 of Defence Closing Submission
+
+[^266]: See _Heng Aik Ren Thomas v. PP_ <span class="citation">\[1998\] 3 SLR(R) 142</span>, _Ang Kah Kee v. PP_ <span class="citation">\[2002\] 1 SLR(R) 555</span>, _Sakthivel Punithavathi v Public Prosecutor_ <span class="citation">\[2007\] 2 SLR(R) 983</span>
+
+[^267]: Reasonable doubt was defined by V K Rajah JA in **Jagatheesan s/o Krishnasamy v Public Prosecutor: ** <span class="citation">\[2006\] 4 SLR 45</span>. Also see _Mat v Public Prosecutor_ <span class="citation">\[1963\] MLJ 263</span>
+
+[^268]: See **Teo Keng Pong v Public Prosecutor:** **<span class="citation">\[1996\] 3 SLR 329</span>**
+
+[^269]: See _Kwan Peng Hong v Public Prosecutor_ \[2000\] 4 SLR 9
+
+[^270]:  See page 13 to 14 of Defence Closing Submission
+
+[^271]:  See page 14 to 19 of Defence Closing Submission
+
+[^272]:  See page 19 to 22 of Defence Closing Submission
+
+[^273]:  See page 22 to 23 of Defence Closing Submission
+
+[^274]: See page 23 to 25 of Defence Closing Submission
+
+[^275]: NE Day1 page 67 line 26 to 28
+
+[^276]: See page 28 of Defence Closing Submission and paragraph 9 to 11 of Defence Reply to Prosecution’s Closing Submission
+
+[^277]: See page 63 to 65 of Defence Closing Submission
+
+[^278]: See page 28 to 29 of Defence Closing Submission and page 2 to 3 of Defence Reply to Prosecution’s Closing Submission
+
+[^279]: See page 29 and 62 to 66 of Defence Closing Submission
+
+[^280]: See page 30, 33,34 of Defence’s
+
+[^281]: See page 32 to 33 of Defence Closing Submission
+
+[^282]: NE Day 1 page 82 line 25 to 31
+
+[^283]: See paragraph 42 to 43 of Defence Reply to Prosecution’s Closing Submission
+
+[^284]: NE Day 1 page 84 line 10 to 28
+
+[^285]: See page 46 to 48 of Defence Closing Submission
+
+[^286]: See page 46 of Defence Closing Submission and page 10 of Defence Reply to Prosecution’s Closing Submission
+
+[^287]: See page 47 of Defence Closing Submission
+
+[^288]: See page 48 to 53 of Defence Closing Submission and page 4 to 5 of Defence Reply to Prosecution’s Closing Submission
+
+[^289]: See Exhibit P1
+
+[^290]: See page 55 paragraph 80 of Defence Closing Submission
+
+[^291]: See NE Day 4, Page 16,Line 31 to 32 and NE Day 4, Page 17, Line 1 to 26 and paragraph 84 of Defence Closing Submission
+
+[^292]: See paragraph 86 to 89 page 58 to 59 of Defence Closing Submission
+
+[^293]: See paragraph 90 to 93 page 60 to 61 of Defence Closing Submission and paragraph 20 to 26 of Defence Reply to Prosecution’s Closing Submission
+
+[^294]: See paragraph 20 of Defence Reply to Prosecution’s Closing Submission
+
+[^295]: See paragraph 21 to 22 of Defence Reply to Prosecution’s Closing Submission
+
+[^296]: See paragraph 94 of Defence Closing Submission
+
+[^297]: See paragraph 95 to 96 of Defence Closing Submission
+
+[^298]: See paragraph 137 to 139 of Defence Closing Submission
+
+[^299]: See page 5 to 8 of Defence Reply to Prosecution’s Closing Submission
+
+[^300]: See page 80 of Defence Closing Submission
+
+[^301]: See page 81 of Defence Closing Submission
+
+[^302]: See page 90 of Defence Closing Submission
+
+[^303]: See paragraph 26 to 29
+
+[^304]: See paragraph 38 to 40 of Defence Reply to Prosecution’s Closing Submission
+
+[^305]: See page 91 to 94 paragraph 162 to 165 of Defence Closing Submission
+
+[^306]: See page 95 to 116 paragraph 166 to 194 of Defence Closing Submission and page 8 to 9 of Defence Reply to Prosecution’s Closing Submission
+
+[^307]: See paragraph 31 to 35 of Defence Reply to Prosecution’s Closing Submission
+
+[^308]: See page 103, 109 to 114 of Defence Closing Submission
+
+[^309]: See page 116 to 126 of Defence Closing Submission
+
+[^310]: See NE Day 5, Page 12, Line 25 to 32
+
+[^311]: NE Day 5, Page 51, Line 13 to 20
+
+[^312]: NE Day 5, Page 13, Line 1 to 12
+
+[^313]: NE Day 5, Page 58, Line 20 to 25
+
+[^314]: NE Day 5, Page 59, Line 29 to 31
+
+[^315]: NE Day 5, Page 60, Line 1 to 32 and NE Day 5, Page 61, Line 1 to 2
+
+[^316]: NE Day 5, Page 61, Line 3 to 32,NE Day 5, Page 62, Line 1 to 32, NE Day 5, Page 63, Line 1to 32 and NE Day 5, Page 64, Line 1 to 3
+
+[^317]: NE Day 5, Page 66, Line 9 to 32 and Page 67, Line 3 to 4
+
+[^318]: See page 121 of Defence Closing Submission
+
+[^319]: NE Day 5, Page 80,Line 3 to 6
+
+[^320]: See page 122 to 126 of Defence Closing Submission
+
+[^321]: See CCTV footages from 20:53:00 to 20:58:00
+
+[^322]: See CCTV footage from 21:11:00 to 21:14:00
+
+[^323]: See CCTV footage 17:32:01 MB
+
+[^324]: See CCTV footage 17:43:59 LR
+
+[^325]: See CCTV footage 17:59:17 LR
+
+[^326]: NE Day 5 page 15 and page 46
+
+[^327]: NE Day 6 page 14 and 15
+
+[^328]: See CCTV footage 17:32:01 MB
+
+[^329]: NE Day 2 page 59
+
+[^330]: See page 1 of transcript exhibit P13
+
+[^331]: See page 13 to 14 of Prosecution Closing Submission
+
+[^332]: NE Day 6 page 14 to 15
+
+[^333]: NE Day 5 page 12 and 52
+
+[^334]: NE Day 5 page 15
+
+[^335]: See paragraph 45 of Prosecution Closing Submission
+
+[^336]: NE Day 1 page 34
+
+[^337]: NE Day 4 page 96 to 97
+
+[^338]: NE Day 1 page 82
+
+[^339]: NE Day 1 page 84
+
+[^340]: NE Day 4 page 112 to 115
+
+[^341]: See page 1 of exhibit P13
+
+[^342]: This is exhibit P1
+
+[^343]: See exhibit P1
+
+[^344]: NE Day 8 page 56
+
+[^345]: NE Day 6 page 37
+
+[^346]: NE Day 6 page 70 and 76
+
+[^347]: NE Day 10 page 12 line 4 to page 13 line 2
+
+[^348]: NE Day 10 page 6 line 8 to 11
+
+[^349]: NE Day 10 page 85 to 87
+
+[^350]: See CCTV Footage 21:30:18 DA
+
+[^351]: See exhibit P12 page 1
+
+[^352]: NE Day 6 page 73
+
+[^353]: See CCTV footage 17:32:01MB, 17:33:06 MB, 17:41:29, NE 10 Oct 2018 page 29
+
+[^354]: See CCTV footage 17:33:06 MB
+
+[^355]: NE Day 10 page 29
+
+[^356]: See NEs – 31 Oct 2018, page 16 at lines 5 to 15
+
+[^357]: See NEs – 31 Oct 2018, page 29 at line 23 to page 30 at line 14
+
+[^358]: See paragraph 26 to 29
+
+[^359]: See paragraph 31 to 35 of Defence Reply to Prosecution’s Closing Submission
+
+[^360]: See CCTV footage 17:33:06 MB
+
+[^361]: NE Day 9 page 115 to 116
+
+[^362]: CCTV footage from 21:06:00 DA 21:09:00DA showed the Accused walking to the toilet and coming out of the toilet while dressed in shorts and wearing black socks. Later the Accused could be seen wearing pants and leaving the master bedroom.
+
+[^363]: CCTV footage 17:38:41 MB to 17:40:35 MB
+
+[^364]: CCTV footage 17:41:29 MB
+
+[^365]: See CCTV 17:42:02 MB
+
+[^366]: See page 91 to 94 paragraph 162 to 165 of Defence Closing Submission
+
+[^367]: See page 95 to 116 paragraph 166 to 194 of Defence Closing Submission and page 8 to 9 of Defence Reply to Prosecution’s Closing Submission
+
+[^368]: See page 116 to 126 of Defence Closing Submission
+
+[^369]:  See Prosecution’s Skeletal Submission on Sentence and Updated Skeletal Submission on Sentence dated 26 September 2019
+
+[^370]: See paragraphs 8 to 9 of Prosecution’s Updated Skeletal Submission on Sentence dated 26 September 2019
+
+[^371]: See paragraph 17 to 21 of Prosecution’s Updated Skeletal Submission on Sentence dated 26 September 2019
+
+[^372]: NE 10 Oct 2018 at page 79 to 80 (cross-examination of victim)
+
+[^373]: See Defence Skeletal Submission on Sentence
+
+[^374]: See Defence Further Skeletal Submission on Sentence dated 24 September 2019
+
+[^375]: See paragraph 16 to 24 of Defence’s Further Skeletal Submissions on Sentence dated 24 September 2019
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F23733-SSP.xml)

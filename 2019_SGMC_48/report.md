@@ -1,0 +1,451 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# DBS Vickers Securities (Singapore) Pte Ltd _v_ Zhou Yaxi  
+
+### \[2019\] SGMC 48
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Magistrate's Court Suit No. 20087 of 2017</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">28 August 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">Magistrates Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Lee Li Choon</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Ms Alcina Lynn Chew Aiping / Ms Chamei Yin (M/s Tan Kok Quan Partnership) for the Plaintiffs; Mr Zhou Yaxi (Defendant In Person)</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">DBS Vickers Securities (Singapore) Pte Ltd — Zhou Yaxi</td></tr></tbody></table>
+
+Sales & Purchase of Shares – Fraud and Deception
+
+28 August 2019
+
+### District Judge Lee Li Choon:
+
+## MC 20087/2017
+
+## Introduction
+
+1       In this suit, the Plaintiff, DBS Vickers Securities (Singapore) Pte Ltd, a wholly owned subsidiary of DBS Bank Ltd (“P”) is suing the Defendant, Mr Zhou Yaxi (“D”) for the sum of HK$27,622.68 that P claims is due and owing under D’s trading account (“Account”) with P. In turn, D alleged that there were unauthorised and erroneous transactions on the Account as well as fraud and deception and he counterclaims against P for the losses he says he has suffered. In his Defence and Counterclaim Amendment No. 3, he also asked for an order for the taking of an account of all profits made by P.
+
+## Background
+
+2       D holds an Individual Cash Trading Account No. 27/xxxx299 opened on 5 February 2016[^1] (i.e. the “Account”) with P. D commenced his first trade under the Account on 19 February 2016.[^2] The Account was opened through the submission of an application form and both parties are in agreement that the terms and conditions in the application form the terms of the agreement between them as regards the Account.[^3]
+
+3       The transactions carried out by D through this Account were performed through an online trading platform provided by P[^4]. It is not in dispute that D traded by himself and there was no dealer or remisier servicing the Account.[^5] Under this Account, daily and monthly statements setting out the details of the transactions carried out in the Account for the relevant periods are sent to account holders such as D.
+
+4       A detailed description of the trading process in the online trading platform has been given via the affidavit of evidence in chief of Ms Li Shu’an, Vice President, Equity Product Manager for the Consumer Banking Group of P[^6]. Briefly, orders made by D through the online trading platform provided by P are done through a 2 Factor Authentication log-in (user ID and password + device or one-time-pin through mobile phone). Before an order is confirmed, D would be able to view a summary of the order details on an “Order Preview” page to ensure that the order details are correct before clicking on the “Confirm Order” button. At that interface, he is able to “Amend” or “Cancel” the order as he wished. After placing his orders, he is able to monitor the status of his order on the “Order Status” page.
+
+5       Under the trading system provided by P, when a client makes a purchase through P, P must make full payment of the contract to the relevant counterparty on the date of settlement, regardless of whether the client makes payment to settle the trade or not. For trades on the Stock Exchange of Hong Kong (“SEHK”), P will settle trades with SEHK within 2 trading days after the trade date. The client is also required to make payment to P to settle the trade within 2 trading days after the trade date. However, the actual settlement date as reflected in the client’s account will depend on when the client actually settles the trade, whether by making payment of the contract value or by selling existing holdings or positions equivalent or more than the contract value and using the sale proceeds to pay. If the client does not settle his payment to P within 2 trading days after the trade date, then under Clause A5.2 of the terms and conditions, P is entitled to charge interest on the sum due to P until actual settlement is made by the client. As for interest on the sum due, it is charged at the rate of 6.25% per annum for the first 30 days and thereafter 8.25% per annum until full payment. As for settlement by P towards counterparties, P will generally settle trades on a “first in, first out” basis. Under Clause H8 of the terms and conditions, P is also entitled to force sell the client’s securities and other assets in the client’s account and apply the proceeds towards the amount owed to P by the client.
+
+6       For about one and a half years, D traded on the Account without issue. On 29 August 2017, D raised an issue with respect to the Account for the first time. That complaint was in relation to the cancellation of various contracts with the Stock Exchange of Hong Kong (“SEHK”) which had been entered into on 21 and 22 August 2017. Now, the cancellation of transactions on 21 and 22 August 2017 arose because there was a typhoon that struck Hong Kong on 23 August 2017 and trading on 23 August 2017 in the SEHK was suspended. Trading resumed on 24 August 2017. As a result of this, the transactions that D entered into on 21 and 22 August 2017 were cancelled and replaced with the amended settlement dates of 24 and 25 August 2017 respectively. Thus, the 13 transactions for shares listed on SEHK entered into by D on 21 August 2017 and the 14 transactions for shares listed on SEHK entered into by D on 22 August 2017 were cancelled and replaced by replacement contracts with amended settlement dates of 24 and 25 August 2017 respectively. By way of the daily statement for the Account for 23 August 2017, D was informed that the original contracts in relation to the transactions entered into on 21 August 2017 and 22 August 2017 would be cancelled and replaced with replacement contracts with amended settlement dates of 24 and 25 August 2017 respectively. Despite having received the daily statement on 23 August 2017, D did not raise any issue until 29 August 2017.
+
+7       Subsequent to 29 August 2017, D went on to lodge many more complaints pertaining to allegedly unauthorised or false transactions, wrong balances and errors in the Account. In fact, new complaints continued to be mounted, even right up to the hearing itself. I will briefly summarise the chronology of events in relation to D’s complaints and in relation to the Account as follows:
+
+> (a)     29 August 2017: For the first time since the opening of the Account, D complained about the Account in relation to the cancellation of contracts entered into on 21, 22 August 2017, alleging that there was a “wrongful calculation for e-statement stated numbers”[^7].
+
+> (b)     4 September 2017: In an email sent by D to P, D alleged he did not receive the daily statement for 31 August 2017 (this was the first time that he disputed receiving daily statements for the Account).[^8]
+
+> (c)     From 4 September 2017 to 14 September 2017: D sent a number of emails to P alleging that there were discrepancies regarding the settlement of trades in the Account. P’s employees investigated into the various issues raised but found no discrepancies with his Account. The details of the complaints and P’s responses through P’s employees are set out in the Affidavit of Evidence-in-Chief of Mdm Yeo Nguan Hiang (“Mdm Yeo”).[^9] These allegations are limited to transactions carried out in the Account from end August to September 2017.
+
+> (d)     29 August 2017 to 22 September 2017: Notwithstanding the complaints, D continued to trade actively in the Account. On 22 September 2017, D sent another two emails to P complaining about the Account and these two emails were copied to the Monetary Authority of Singapore (“MAS”)[^10].
+
+> (e)     22 September 2017: D’s Account was suspended by P. According to P, the suspension was done to “facilitate (P’s) investigations into (D’s) various allegations and to preserve the interests of (P) and (D)[^11].” P relies on Clause A1.1 for their powers to suspend the Account under the terms of agreement between the parties. After the suspension on 22 September 2017, D was no longer able to buy shares but he could still sell shares via the phone[^12].
+
+> (f)     28 September 2017 and 10 October 2017: As D failed to make payment of the sums due, P, pursuant to the terms of agreement between the parties, exercised its right to force sell, and force sold securities under the Account. After force-selling, P claimed that there is the balance sum of HK$27,622.68 owing under the Account[^13] and this is the amount claimed by P in this suit.
+
+8       Against the backdrop of complaints raised by D to P, around the same period, there were issues relating to insufficient cash balances in the Account and the Credit Department of P sent various emails to D to inform him to top up the balances in the Account in order to avoid a force sale by P on the following dates:
+
+> (a)     13 September 2017: D was informed that he needed to top up HK$94,351.93 for the trade “M&L HOLDINGS” that was due on 12 September 2017.
+
+> (b)     19 September 2017: D was informed that the Account required a deposit of HK$5,905.41 for losses from certain stocks that were carried out in the Account.
+
+> (c)     20 September 2017: D was informed that he needed to top up HK$24,610.00 for the trade “SUCCESS DRAGON” that was due on 19 September 2017.
+
+> (d)     21 September 2017: D was informed that he needed to top up HK$91,612.80 for the LARRY JEWELRY/SUCCESS DRAGON” trade that was due on 20 September 2017.
+
+> (e)     22 September 2017: D was informed that the Account required a deposit of HK$29,109.98 for losses from certain stocks that were carried out in the Account.
+
+9       As there were insufficient funds in the Account despite the emails reminding D to top up in cash, P exercised their right to force sell D’s securities and did force sell securities on 28 September 2017 (with settlement date on 3 October 2017) and 10 October 2017 (with settlement date on 12 October 2017). According to Ms Li Shu’an, as at 29 September 2017, the total amount due and owing under the Account was HK65,010.38. After P exercised its right to force sell the China Jicheng securities on 10 October 2017, the total amount due and owing under the Account was HK$27,622.68. Thus, as at 12 October 2017 (using the settlement date), the shortfall due and owing to P is HK$27,622.68[^14].
+
+10     In his Defence and Counterclaim Amendment No. 3, D has raised numerous allegations in respect of the Account. These allegations include allegations that the transactions were unauthorised or erroneous, that the discrepancies in figures show that the transactions were fraudulent or that there was fraud and deceit. D also claims that P was not entitled to force sell the securities in the Account. These numerous allegations in respect of the Account can be categorised as follows:
+
+> (i)     Unauthorised cancellation of contracts made on 21 August 2017 and 22 August 2017;
+
+> (ii)     That all trades in the Account, save for the trades as shown in Schedule 1 of the Defence and Counterclaim (Amendment No.3) were unauthorized
+
+> (iii)     That transactions which D had allegedly instructed P to carry out were not in fact carried out
+
+> (iv)     That cash balances stated in P’s statements of account are inconsistent
+
+> (v)     That transactions were not settled by P in accordance with the 2 trading days after the trade date as per the agreement and/or not on a first in first out basis as per parties’ agreement
+
+> (vi)     That share prices stated in the monthly statements exceed 3 decimal places;
+
+> (vii)     That there were discrepancies in share balances under “Security Movement” and “Securities Holding” in the monthly statements
+
+> (viii)    That D was prevented from accessing his daily statements online
+
+> (ix)     That D was prevented from topping up the cash in his Account
+
+> (x)     That the trades in the Account violated trading limits
+
+> (xi)     That the debit notifications were inconsistent with the transactions stated in the monthly statements and that trade confirmations were not sent timely
+
+> (xii)     That he did not receive the rebates due to him under P’s reduced rates and trade rebate promotion
+
+> (xiii)    That P was not entitled to suspend the Account on 22 September 2017
+
+> (xiv)     That P was not entitled to force sell the securities in the Account
+
+11     At the trial, it was evident that D is not fluent in English and required the services of an interpreter in Court. His emails and affidavits filed in court raising all sorts of allegations and complaints as regards discrepancies and errors in his Account were written in less than understandable English and were rather incomprehensible. Despite that, I note that P’s employees did carry out internal investigations into the allegations and did get back to D with respect thereto during the period 29 August to 29 September 2017.
+
+## My Decision
+
+12     At the outset, it is to be noted that the sum claimed by P to be due and owing under the Account – the amount of HK$27,622.68 is not a sum pertaining to any particular transaction but the shortfall of cash in the Account after taking into account the values of all transactions during the relevant periods and the settlement sums on the settlement dates. This was duly noted by me at the hearing itself[^15]. P’s case that D owes the amount HK$27,622.68 under the Account is also evidenced by the monthly statement for October 2017, which states that the “_Funds Balance as at 31 October 2017_” is “_\-27,622.68_”.[^16]
+
+13     The amount of HK$27,622.68 is the sum due and owing as at 12 October 2017 – after P had force sold the securities in the Account on 28 September 2017 (settled on 3 October 2017) and on 10 October 2017 (settled on 12 October 2017). In closing submissions, counsel for P tabulated the shortfall by setting out the debits and credits as shown in the “Funds Movement” table in the monthly statement for October 2017 below (the force sales by P are indicated in a lighter shade; the trades carried out by D are indicated in a darker shade).
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="30.22%"> <col width="44.94%"> <col width="24.84%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Date</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Description</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Debit/Credit (HK$)</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">30 Sep 2017</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Available Trust Brought Forward</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">-25,562.11</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">3 Oct 2017</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Payment Sell WLS HOLDINGS</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">10,679.17</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">3 Oct 2017</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Payment Sell WLS HOLDINGS</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">34,053.37</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">3 Oct 2017</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Receipt Buy KIRIN GROUP</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">-91,476.67</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">3 Oct 2017</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Payment Sell KIRIN GROUP</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">32,855.46</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">3 Oct 2017</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Payment Sell KIRIN GROUP</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">50,536.09</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">3 Oct 2017</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Receipt Buy LARRY JEWELRY</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">-109,129.11</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">3 Oct 2017</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Payment Sell LARRY JEWELRY</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">80,694.08</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">3 Oct 2017</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Receipt Buy WLS HOLDINGS</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">-47,660.66</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">3 Oct 2017</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">FX CONV FM SGD TO HKD @ 0.1757</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">22,632.84</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">12 Oct 2017</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Payment Sell CHINA JICHENG-TEMP</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">14,754.86</p></td></tr><tr><td align="left" class="r" colspan="2" rowspan="1" valign="top"><p align="right" class="Table-Para-1"><b><u>As at 12 Oct 2017</u></b></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b><u>-27,622.68</u></b></p></td></tr></tbody></table>
+
+  
+  
+
+14     As explained by Mdm Yeo during the trial, P had prepared a spreadsheet “_for goodwill and for easy reference_” to explain to D how the cash balances in the Account had been deducted to arrive at the final negative balance of HK$27,622.68 as at 12 October 2017.[^17] This spreadsheet was the “Claim Breakdown” referred to during the trial and which is found at Annex B of the affidavit of evidence in chief of Li Shu’an.[^18] As D had raised a dispute with the Account only from August 2017 onwards, the Claim Breakdown sets out the trades and transactions in the Account only from August 2017 onwards.
+
+15     At the trial, upon my direction, counsel for P brought the Court through the Claim Breakdown[^19] which form the basis for P’s claim that there was a shortfall of HK$27,622.68, by cross-referring various entries in the Claim Breakdown to the corresponding entries in the monthly statements for the Account (it is not in dispute that D was given these monthly statements). In closing submissions, counsel for P recapitulated by way of an example to show how the shortfall amount as at a particular date is derived at, using the example of the shortfall amount as at 1 September as follows:[^20]
+
+> (a)     The closing cash balance for 31 August 2017 (“_Closing 31 Aug 2017_”) stated in the Claim Breakdown was HK$19,186.88[^21] - this corresponds to the “_Funds Balance as at 31 August 2017_” of HK$19,186.88 stated in the monthly statement for August 2017,[^22] and the entry described as “_Available Trust Brought Forward_” dated 31 August 2017 under the “Funds Movement” table in the monthly statement for September 2017.[^23]
+
+> (b)     The next 8 lines after the stated “Closing 31 Aug 2017” balance in the Claim Breakdown[^24] set out the transactions that were settled on 1 September 2017. The first entry is for the sale of Mongol Mining shares on 28 July 2017 (transaction reference 900748) with a contract value of HK$58,740.98.[^25] This corresponds with the fifth entry in the monthly statement for September 2017 under the heading “Details for HKD” in the “Funds Movement” table.[^26] The other transactions which were settled on 1 September 2017 as stated in the Claim Breakdown similarly correspond to the various entries dated 1 September 2017 under the “Funds Movement” table.
+
+> (c)     Adding together the positive figures for the transactions settled on 1 September 2017 as stated in the Claim Breakdown, one would obtain a total of HK$235,249.93 – this figure is stated in the 12th column of the Claim Breakdown. Adding together the negative figures for the transactions settled on 1 September 2017, one would obtain a total of negative HK$245,754.85 – this figure is stated in the 13th column of the Claim Breakdown. In this way, the difference between the two figures gives rise to the shortfall amount.
+
+16     When brought through the Claim Breakdown at trial and by way of the example recapitulated in closing submissions, I am fully satisfied that P has properly explained and accounted for the shortfall amount they are claiming.
+
+17     D’s allegations that there were “_manifest errors_”[^27] in P’s computation of the sum of HK$27,622.68 is unsupported in evidence and totally unfounded. I will look at some of the alleged discrepancies D has brought up. For example, he referred to the following discrepancies in various documents issued by P and/or its solicitors, namely:
+
+> (a)     The letter of demand dated 11 October 2017 alleged that D owed P the sum of HK$27,622.68 as at 21 September 2017;
+
+> (b)     The statement of account enclosed with the letter from P’s solicitors dated 10 November 2017 allegedly stated that the sum of HK$27,622.68 was due only on 29 September 2017;
+
+> (c)     The Statement of Claim filed by P originally on 27 November 2017 alleged that D was indebted to P in the sum of HK$27,622.68 as at 22 September 2017;
+
+> (d)     The Claim Breakdown stated that the sum of HK$27,622.68 was due only on 12 October 2017.
+
+> (e)     The amended Statement of Claim (Amendment No. 1) dated 21 May 2018 alleged that D was indebted to P in the sum of HK$27,622.68 and that amount was only due as at 12 October 2017.
+
+18     I find that these allegations of “discrepancies” do not point to D not owing the amount as claimed. There might have been errors in the due dates of the “debt”. However, as at the dates of the letters of demand and the filing of the Statement of Claim, the fact is that the amount of shortfall remained at HK$27,622.68 and this is the amount that is consistently stated in all the letters of demand and Statement of Claim.
+
+19     D has not presented any coherent evidence, whether in his affidavits or in oral testimony at trial or in his closing submissions (I refer to all of these as there were fresh allegations raised at each juncture) to show that there was fraud committed on his Account. These allegations of D about “discrepancies” and “errors” are unsubstantiated and are therefore red herrings. There is simply no evidence to prove that the computation of HK$27,622.68 as at 12 October 2017 is erroneous.
+
+20     I am also satisfied with the explanation given by Li Shu’ An in his affidavit – that as at the letter of demand dated 11 October 2017, there was an outstanding sum due and owing under the Account and the stated losses had not been settled for 20 days (i.e. since 22 September 2017) and as at that date (i.e., 11 October 2017), the outstanding amount due in the Account was HK$27,622.68.[^28]
+
+21     On the whole, noting that the burden of proving P’s claim falls on P, and having been satisfied with the evidence presented by P, and having been satisfied that P’s Claim Breakdown which shows the shortfall amount of HK$27,622.68 matches the Monthly Statements generated from the online trading platform, I find that P has shown that there is a shortfall of HK$27,622.68 due as at 12 October 2017.
+
+22     At this point, it deserves mention that a finding of fraud is a serious matter and the evidence must be strong and cogent before such a finding is justified. The multiple allegations mounted by D are incoherent and there is not a shred of evidence to show that there was any errors or wrongdoing committed in the Account. However for the sake of due process, I will now examine D’s numerous allegations in respect of the Account in greater detail, each in turn.
+
+#### In relation to the alleged unauthorised cancellation of contracts made on 21 August 2017 and 22 August 2017
+
+23     In relation to the 27 alleged transactions made on 21 and 22 August 2017, D has denied making those transactions. He also alleged that P has no reason or basis to cancel the said transactions and to issue replacement contracts.
+
+24     I find his allegations on the 27 transactions contradictory. On the one hand, he claimed he did not make those transactions, on the other hand, he is quibbling about P’s cancellation of those transactions. If indeed, he did not make those 27 transactions, then P’s “cancellation of the 27 transactions” would actually revert him to the correct status. In reality, P’s cancellation of the transactions was in response to the closing of 23 August 2017 as a trading day and these “cancellations” were replaced with replacement contracts and were not in reality actual cancellations. It is also telling that in his complaint lodged with P on 29 August 2017, there was no mention by him that he did not make those 27 transactions or that those 27 transactions were not authorised by him. In fact, the first time this allegation surfaced was when Defence and Counterclaim Amendment No.3 was filed (it was also not mentioned in the two versions of the Defence and Counterclaim before).
+
+25     I therefore find that D’s allegations with regard to the transactions made on 21 and 22 August 2017 completely baseless.
+
+26     P has given their account of why the transactions had to be cancelled and why they had to issue replacement contracts – that it was because the typhoon in Hong Kong caused SEHK to close and they had to replace the contracts with the amended settlement dates in light of that.
+
+#### That all trades in the Account, save for Schedule 1 of the Defence and Counterclaim (Amendment No.3) were unauthorized
+
+27     In his Defence and Counterclaim Amendment No. 3, D alleged that all transactions for the period July to September 2017 in the Account other than those listed in Schedule 1 thereto are unauthorised transactions. He has not provided any evidence to show that these were unauthorised transactions. As explained above, his Account is operated through a secure online platform provided by P. He has provided no evidence and no basis for saying that these transactions were not done by him. Further, it is telling that this allegation only popped up in his 3rd version of his Defence and Counterclaim. More importantly, he is provided with daily and monthly statements and he did not surface any discrepancy throughout until the filing of the Defence and Counterclaim Amendment No. 3 on 5 October 2018, more than a year after the alleged “unauthorised” transactions.
+
+#### That transactions which D had allegedly instructed P to carry out were not in fact carried out
+
+28     D alleged in his Defence and Counterclaim No. 3 that he gave instructions on 19 February 2016 for the purchase of 3,800,000 shares in Jun Yang Limited (Stock Code 0397) at HKD 0.032 per share, and 1,200,000 shares in Jun Yang Limited at HKD 0.031 per share[^29]. He also alleged that he gave instructions for the sale of 4,800,000 shares in Jun Yang Limited at HKD 0.038 per share[^30]. However, based on the Audit Trail by P, D did not place any order for Jun Yang Limited shares on 19 February 2016. Similarly, based on the Audit Trail by P, D did not place any orders at all on 22 February 2016, whether for Jun Yang Limited shares or otherwise.[^31] In any event, the online trading platform provided by P would generate Daily Statements and Monthly Statements that would have been sent to D. If the transactions carried out were not reflected in the Daily Statements or Monthly Statements, D is required to notify P about D’s objections within 14 days of the date of the Statement. Otherwise, such Statements are deemed to be conclusive and binding on D pursuant to the terms and conditions as agreed by D[^32]. It is to be noted that D had not raised any objections within the said 14 days regarding the transactions on 19 and 22 February 2016 and that these only surfaced when the Defence and Counterclaim No. 3 was filed.
+
+#### That cash balances stated in P’s statements of account are inconsistent
+
+29     D has disputed “_the cash balances stated in the Plaintiffs’ statements of account_”,[^33] and has further alleged that the “_historical balance information of the Defendant’s Account show inconsistencies or differences for data recorded and/or displayed which should have remained the same_”.[^34] These are the particulars which have been pleaded – (i) the HKD cash balance as at 28 September 2017 displayed on the online trading platform was different when he viewed it on 9 October 2017 and 6 December 2017; and (ii) the HKD cash balance as at 1 August 2017 displayed on the online trading platform was different when he viewed it on 19 September 2017 and 6 December 2017.
+
+30     Li Shu’an has explained in his affidavit that:[^35]
+
+> _“the “Balances” page displays a current view of fund balances and holdings (including the estimated total value of unsettled buy contracts and unsettled sell contracts) of the client’s trading account. Such information is dynamic and constantly updated. It is not possible though to view the historical cash balances on the online trading platform”._
+
+31     In fact, in an email sent to D by Mr Voo Tung Heng, P’s Vice President, Platform Management for the Consumer Banking Group on 8 September 2017 at 10.29am, it was explained to D that, “_Beginning balance is dynamic and changes depending on your trades due dates as well as any fund deposit/conversion, dividends credited etc_.”[^36] D’s allegations about the inconsistencies in the figures in the Account are therefore misguided and stem from his lack of understanding as to how the numbers are to be read and tallied.
+
+32     In any event, the cash balances in the Account would have been made known to D as he received monthly statements for the Account showing funds movements for the relevant month and from the monthly statements, he would have seen whether the cash balances tally. If he had any objections, he ought to have raised them in good time (under the terms and conditions, objections regarding Statements are to be raised within 14 days of the Statements) but no objections was raised by him until the filing of his Defence and Counterclaim Amendment No.3. His allegations regarding the cash balances therefore appear to be nothing more than an afterthought.
+
+#### That transactions were not settled by P in accordance with the 2 trading days after the trade date as per the agreement and/or not on a first in first out basis as per parties’ agreement
+
+33     The process of settlement of trades as explained by Li Shu’an is as above. The process requires P to settle the trades with the counterparties first under the time frame of 2 trading days after the trade date. Although the client is also required to make payment to P under the same time frame, in the event that the client does not pay within the same time frame, it is P that suffers the loss. The actual settlement date as reflected in the client’s account will depend on the date when the client actually settles the trade, whether by making payment of the contract value or by selling existing holdings or positions equivalent or more than the contract value and using the sale proceeds. It is thus disingenuous for D to now allege that the failure to effect settlement on T+2 “_not only causes loss to D but also give rise to the inference of internal manipulation and/or ex post facto concoctions of, adjustments and/or amendments to the trades and/or monies attributed to and/or contained in D’s Account_”.[^37]
+
+34     As for P not settling trades on a first in first out basis, I am satisfied with the explanation given – that trades may not be settled on a first in first out basis if there are insufficient funds or shares in the account to settle the trades. More importantly, D has not shown that the process adopted by P is not in accordance with the terms of agreement between them or that it amounts to a fraudulent practice.
+
+#### That share prices stated in the monthly statements exceed 3 decimal places
+
+35     During the trial, Li Shu’an confirmed that the price at which the trade is executed with the SEHK is up to 3 decimal places. However, some of the share prices of the trades recorded in the monthly statements are stated in values which exceed 3 decimal places. This is because for trades with a similar action on the same counter which are carried out on the same day, P will amalgamate the contracts and state the average trade price in the monthly statements (which may be more than 3 decimal places):
+
+> _“if the contract is on the same action, example, you have 10 trades with a similar action of buy on the same counter, on the same day but at different price, we would calculate based on the average price of the 10 contracts…therefore, there is a display of a 4 decimal point in the… statement.”[^38]_
+
+36     In any event, this allegation is frivolous as it does not show how reflecting share prices in more than 3 decimal places amounted to “fraud” or was in any other way, improper. D has not also alleged that he has suffered losses as a result of this.
+
+#### That there were discrepancies in share balances under “Security Movement” and “Securities Holding” in the month statements
+
+37     D has alleged in his latest Defence and Counterclaim that the share balances recorded in the “Security Movement” table in the monthly statements for the Account do not match the share balances recorded in the “Securities Holding” table in the monthly statements. D has identified alleged discrepancies in the monthly statements for May 2017, July 2017 and August 2017 in relation to shares in “FE HLDGS INTL”, “MONGOL MINING”, “JIANGNAN GP” AND “KING FORCE GP”.
+
+38     I note that this allegation is new and was raised for the first time only with the filing of the Defence and Counterclaim (Amendment No. 3) on 5 October 2018.[^39] In his affidavit and at trial[^40], Li Shu’an has given a detailed explanation for these alleged discrepancies and I am satisfied with his explanation[^41]. Again, this allegation of D stems from his failure to grasp how to read the “Securities Holdings” table and the “Security Movement” table in the monthly Statements for the Account rather than a matter of discrepancies in figures reflected in the said two tables.
+
+#### That D was prevented from accessing his daily statements online
+
+39     D has not adduced any evidence to show that he was prevented from accessing his daily statements online. In contrast, P’s evidence given on oath shows that P’s’ IT department had investigated and found no technical issue that could give rise to D not having access to his daily statements[^42].
+
+40     In any event, this is a frivolous allegation which does not go to show anything. It is not disputed that pursuant to D’s complaint that his online viewing access to his daily statements from 13 August 2017 to 12 September 2017 had been blocked, email copies of his daily statements for 4 to 8 September and 11 to 13 September 2017 were sent to him by way of emails.[^43] D had not raised any issue with regard to the daily statements that were sent to him.
+
+#### That the trades in the Account violated trading limits
+
+41     This allegation is utterly nonsensical and without any merits whatsoever. Trading limits are determined by P for commercial risk reasons. In any event, D has not said anything about why this amounts to fraud. This allegation shows what D has done is really to thrown in everything but the kitchen sink (as described by counsel for P) without any basis whatsoever.
+
+#### That the debit notifications were inconsistent with the transactions stated in the monthly statements and that trade confirmations were not sent timely
+
+42     As explained by Li Shu’an in his affidavit, the amounts stated in the debit notifications are the additional amounts which D needed to deposit into the Account to avoid a force sale, and do not necessarily reflect the value of any particular trade.[^44] In any event, D has access to the online trading platform and he would have been able to view the status of the orders on the “Order Status” and/or “Order History” pages[^45] and raise his disputes or objections contemporaneously if there was any real discrepancies.
+
+#### That he did not receive the rebates due to him under P’s reduced rates and trade rebate promotion
+
+43     D referred to a “Trade Rebate Promotion” offered by P from 1 February 2017 to 31 December 2017 which entitled its clients (including D) to a rebate of S$5 per trade executed online. D’s allegation is that he only received the said rebate for some but not all of his trades (although he has not identified which trades he was allegedly not given a rebate for). D uses this to say that this supports his case that many transactions carried out in the Account were fictitious or not genuine.
+
+44     P explained in closing submissions that they have a “DBS Vickers Reduced Rates and Trade Rebate Promotion” from 1 February 2017 to 30 June 2017, and a “DBS Vickers Lower Rates and Trade Rebate Promotion” from 1 July 2017 to 31 December 2017. Eligible customers were entitled to, among other things, a rebate of S$5 per trade executed online.[^46] However, this was subject to the following terms and conditions:
+
+> (a)     “_Trades will automatically be amalgamated when the trades are of the same stock, currency, settlement mode and trade date as well as the same mode of trade_”;[^47]
+
+> (b)     “_DBS Vickers’ terms and conditions governing trading shall apply. Participation in this Promotion is deemed acceptance of the terms and conditions herein_”;[^48]
+
+> (c)     “_Trade rebate will be calculated quarterly and credited into clients’ trading accounts by the end of the following month after each quarter_”;[^49]
+
+> (d)     In addition, for the promotion which ran from 1 July 2017 to 31 December 2017, “_Clients are required to generate a minimum commission of SGD5 per trade to be eligible for the Promotion_”.[^50]
+
+45     Under both promotions, D received the following and these sums were credited to the SGD cash balance in the Account:[^51]
+
+> (a)     For trades carried out in February and March 2017: 64 qualifying trades x S$5 = S$320;
+
+> (b)     For trades carried out in April, May and June 2017: 140 qualifying trades x S$5 = S$700; and
+
+> (c)     For trades carried out in July, August and September 2017: 484 qualifying trades x S$5 = S$2,420;
+
+> (d)     For trades carried out in October, November and December 2017: 1 qualifying trade x S$5 = S$5.
+
+46     I am therefore satisfied that P had properly accounted for trade rebates that are due to D and there is no evidence whatsoever of any foul play by P against D.
+
+#### That P was not entitled to suspend the Account on 22 September 2017
+
+47     The Account was suspended by P on 22 September 2017. P says that while D was not able to buy shares through online trading platform, he was still able to sell his shares via phone.[^52] P says the suspension of the Account was so to facilitate P’s investigations into D’s various allegations, and to preserve the interests of both P and D.[^53] Indeed, notwithstanding the various issues which D had allegedly experienced with the online trading platform, and which he had complained about to P since 29 August 2017, he continued to trade actively in the Account. I can therefore appreciate the need for P to suspend the Account so as to be able to investigate into all the allegations with no new changes or updates during the investigations. Additionally, a perusal of the terms and conditions, for instance, Clauses A1.1, A9.2, read with A9.1(g) and H6.2 shows that P was entitled to suspend the Account, in particular, if P “_forms the view, in good faith, that it should take action in order to preserve its rights or interests under any Account or under its relationship with the Customer_”.[^54]
+
+#### That P was not entitled to force sell the securities in the Account
+
+48     D has disputed the force selling of securities in the Account on 28 September 2017 and 3 October 2017 by P. The details of these force sales are set out in the affidavit of Li Shu’an and they are as shown in the table below:[^55]
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="17.5164967006599%"> <col width="23.3353329334133%"> <col width="21.6156768646271%"> <col width="15.7168566286743%"> <col width="21.8156368726255%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Sell Date</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Settlement Date</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Description</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Quantity</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Amount (HK$)</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">28/09/2017</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">03/10/2017</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">WLS Holdings</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">600,000</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">10,679.17</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">28/09/2017</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">03/10/2017</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Larry Jewelry</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">200,000</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">80,694.08</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">28/09/2017</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">03/10/2017</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Kirin Group</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">1,500,000</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">32,855.46</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">10/10/2017</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">12/10/2017</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">China Jicheng</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">120,000</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">14,754.86</p></td></tr><tr><td align="left" class="r" colspan="4" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>TOTAL:</b></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>138,983.57</b></p></td></tr></tbody></table>
+
+  
+  
+
+49     I am satisfied that P has exercised its powers as allowed under the following terms and conditions of the agreement between the parties:
+
+> Clause A2.5:
+
+> _“The Customer understands that if it does not pay for any securities which it purchases by the due date of the purchase transaction, DBS Vickers has the right to force sell any or all of these securities. DBS Vickers may (without prejudice to its rights under this Agreement) but need not exercise this right on any day after the day on which the right to force sell first arose. DBS Vickers shall not be liable to the Customer for any Loss suffered by the Customer as a result of any fall in the market price of the securities between the time the right to force sell arose and the time it actually sells the securities.” [^56]_
+
+> Clause H8:
+
+> _“If by the settlement date shown on the contract note for any Order:_
+
+>> (_a_)     _DBS Vickers has not received any amount due to DBS Vickers in relation to such Order; or_
+
+>> (_b_)     _the Customer has not made good delivery of the securities to be sold pursuant to such Order, then:_
+
+>>> (_i_)     _the Customer will pay DBS Vickers such late settlement fee which DBS Vickers may charge for each day settlement is delayed and any other fees imposed by the relevant exchange;_
+
+>>> (_ii_)    _DBS Vickers may buy or sell any securities subject to such Order;_
+
+>>> (_iii_)    _DBS Vickers may cancel the Customer’s other outstanding Orders and close out the Customer’s other positions; and/or_
+
+>>> (_iv_)    _DBS Vickers may sell the Customer’s securities and other assets in the Customer’s Account or otherwise in DBS Vickers’ control or possession, and apply the proceeds and any cash, securities and other assets held by DBS Vickers on the Customer’s behalf to discharge the Customer’s obligations and recover DBS Vickers’ costs (including brokerage and expenses) in so acting.”_ [^57]
+
+50     Consequently, P has the power to and did exercise its right to force sell the securities in the Account because D had failed to deposit the additional amounts required or pay the amounts due and owing under the Account. This was notwithstanding the various debit notifications which had been sent to his email account as detailed in paragraph 8 above.[^58]
+
+51     Having examined all of D’s allegations, I find that there is simply no basis for any of his allegations. D has failed to substantiate his allegations and failed to show what losses he has suffered arising therefrom. Accordingly, D’s counterclaim has to be dismissed.
+
+52     P also says that D is precluded from alleging that there were unauthorised transactions or errors in the account. The fact is that all transactions carried out in the Account including P’s force sales were referable to D’s own security code and D was given daily and monthly Statements of all trades carried out in the Account. Under Clauses H2.1, H2.2, H2.6 and H9 in the terms and conditions of the agreement between the parties, D has also agreed that all Orders received through the online trading platform shown as from D’s security code are duly authorised by him and P shall not be liable for any loss in relying and acting upon such Orders and that he is bound by P’s records of all instructions and transactions and that they shall be taken as binding and conclusive[^59].
+
+#### P’s Claim Amount
+
+53     Pursuant to Clause A10.1 of the Terms and Conditions which provides that D irrevocably agrees and undertakes to indemnify and to hold P harmless from and against any and all loss which P may suffer or incur in connection with any transaction carried out in the Account[^60] , I hereby find that D is liable to pay P the principal sum of HK$27,622.68. Indeed, at the trial, D conceded that “_\[i\]f there was no fraud…then \[he\] should pay according to the contract that was stated for the investment losses_”.[^61] Other than red herrings and groundless and unsubstantiated allegations, D has not presented any evidence to show that fraud has been committed against the Account.
+
+54     As explained by Li Shu’an at the trial, as at 12 October 2017, the amount which was due and owing was HK$27,622.68. However, since the commencement of the Suit, the following sums were credited to the SGD cash balance in the Account:
+
+> (a)     The sum of S$2,420 was credited on 30 November 2017 (but only recorded in the monthly statement for December 2017);
+
+> (b)     The sum of S$5 was credited on 8 March 2018 (as recorded in the monthly statement for March 2018).
+
+These sums were the trade rebates that D received under P’s Lower Rates and Trade Rebate Promotion. During the trial, Li Shu’an explained that these sums were not set off against the sum of HK$27,622.68 in light of the present dispute, as P “_do\[es\] not move the account until both parties have agreed that this is the amount_”.[^62] However, counsel for P has informed that court that P is prepared to set-off the balance of S$2,425 currently in the Account against the sum of HK$27,622.68 owed by D to P.
+
+55     Pursuant to the Terms and Conditions, D is also liable to pay interest on the principal sum.
+
+> (a)     Clause A5.1:[^63]
+
+>> _“The Customer shall promptly pay all DBS Vickers’ fees, commissions and/or other charges at such rates and in such manner as DBS Vickers may impose and stipulate from time to time with respect to the execution, performance and/or settlement of any transaction or otherwise for the maintenance of any Account or the provision of any service or facility to the Customer or in connection with any Account.”_
+
+> (b)     Clause A5.2:[^64]
+
+>> _“DBS Vickers shall be entitled to charge interest on any sum or payment due to DBS Vickers from the Customer at such rate and calculated and/or compounded in such manner as DBS Vickers may impose and determine from time to time and to debit any Account in respect of the interest due.”_
+
+56     As set out in the affidavit of Li Shu’an, the contractual rate of interest payable to P on all outstanding losses incurred is 6.25% per annum for the first 30 days from the date of loss and thereafter 8.25% per annum till the date of full payment.[^65] This is not disputed by D[^66].
+
+57     I therefore allow P’s claim in the sum of HK$27,622.68 and contractual interest at 6.25% per annum for the first 30 days from the date of contra loss and thereafter at a rate of 8.25% per annum till the date of full payment.
+
+58     To avoid the need for further litigation on the issue of costs, I will exercise my discretion to fix costs and disbursements. Part IV of Appendix 2 of Order 59 of the Rules of Court provides that for Magistrates’ Court cases (excluding cases in Part I and Part V) where the sum awarded is less than S$20,000, the costs (excluding disbursements) to be allowed are S$3,000 to S$6,000.[^67] As for the counterclaim, D did not quantity the amount he is claiming in his counterclaim. However, in light of the number of allegations that D has made which warranted the filing of quite a substantial amount of evidence from P, I will use the scale of scale of S$5,000 to S$18,000 for claims within the range of $40,000 to $60,000 as a guide.
+
+59     I note that under Clause A10.1 of the terms and conditions, D had agreed to and undertaken to indemnify P against any loss, including “_legal costs on a full indemnity basis_” and that counsel for P has urged that the court award costs on an indemnity basis.
+
+60     I note also that though the amount of claim by P is small, and though the suit being a Magistrate’s Court’s suit is meant to go through a simplified process under Order 108 of the Rules of Court, the end result is that voluminous documents and affidavits had to be filed by P to respond to D’s numerous unmeritorious allegations. There was also a need for counsel for P to file substantial written closing submissions to address the court on each of the laundry list of allegations.
+
+61     Taking into account all of the above, while I am not persuaded to award costs on a full indemnity basis, I will award the highest end of both scales as highlighted in paragraph 58 above for both the claim and the counterclaim in favour of P. I therefore award costs of $24,000 to P. Counsel for P has also requested that the disbursements be fixed in the sum of $11,368.90 as shown in the breakdown that they have submitted in their closing submissions. I am satisfied that the sum is reasonable and will therefore fix disbursements at $11,368.90.
+
+## Conclusion
+
+62     I therefore order that the Defendant shall pay to the Plaintiff:
+
+> 1.     The sum of HKD 27,622.68
+
+> 2.     Contractual interest on the above sum at 6.25% per annum for the first 30 days from the date of loss and thereafter 8.25% per annum till the date of full payment.
+
+> 3.     The sum of $2,425 shall be set-off against the awarded sum in (i) and (ii) above.
+
+> 4.     Costs fixed at $24,000 and disbursements fixed at $11,368.90.
+
+* * *
+
+[^1]: Affidavit of Evidence in Chief of Li Shu’an (“AEIC of ILS”) (BA Tab 3) at \[13\].
+
+[^2]: AEIC of ILS (BA Tab 3) at Exhibit ILS-12 on page 804.
+
+[^3]: Statement of Claim (Amendment No. 1) dated 21 May 2018 (“SOC”) (BP Tab 2) at \[3\]-\[4\]; Defence and Counterclaim (“DCC”) (Amendment No. 3) at \[3\].
+
+[^4]: AEIC of ILS (BA Tab 3) at \[18\].
+
+[^5]: AEIC of ILS (BA Tab 3) at \[11\].
+
+[^6]: AEIC of ILS (BA Tab 3) at \[17\] – \[25\].
+
+[^7]: Affidavit of Evidence-in-Chief of Yeo Nguan Hiang filed on 10 December 2018 (“AEIC of JY”) (1BA Tab 2) at \[5\] and Exhibit JY-1
+
+[^8]: AEIC of JY (1BA Tab 2) at \[20\]-\[34\].
+
+[^9]: AEIC of JY (1BA Tab 2) at \[5\] to \[63\].
+
+[^10]: AEIC of JY (1BA Tab 2) at \[64\].
+
+[^11]: AEIC of JY (1BA Tab 2) at \[66\]
+
+[^12]: AEIC of JY (1BA Tab 2) at \[66\] to \[67\].
+
+[^13]: AEIC of ILS (BA Tab 3) at \[44(b)\].
+
+[^14]: AEIC of ILS (BA Tab 3) at \[44\]
+
+[^15]: Notes of Evidence, 1 July 2019 Pg 29 Line 26 to Pg 30 Line 12.
+
+[^16]: AEIC of ILS (BA Tab 3) at page 752-753
+
+[^17]: Notes of Evidence, 1 July 2019, Pg 114 Line 10-24.
+
+[^18]: AEIC of ILS (BA Tab 3) at Annex B pages 57-74
+
+[^19]: AEIC of ILS (BA Tab 3), Annex B, pages 57-74
+
+[^20]: Notes of Evidence, 1 July 2019, Pg 54 Line 31 to Pg 64: Line 2
+
+[^21]: AEIC of ILS (BA Tab 3) at Annex B, page 61.
+
+[^22]: AEIC of ILS (BA Tab 3) at page 719.
+
+[^23]: AEIC of ILS (BA Tab 3) at page 740.
+
+[^24]: AEIC of ILS (BA Tab 3) at Annex B, page 61.
+
+[^25]: AEIC of ILS (BA Tab 3) at Annex B, page 61.
+
+[^26]: AEIC of ILS (BA Tab 3) at page 740.
+
+[^27]: DCC (Amendment No. 3) (BP Tab 3) at \[5\].
+
+[^28]: AEIC of ILS (BA Tab 3) at \[41(c)\].
+
+[^29]: DCC (Amendment No. 3) at \[17 B(1)\].
+
+[^30]: DCC (Amendment No. 3) at \[17 B(2)\].
+
+[^31]: AEIC of ILS (BA Tab 3) at page 804.
+
+[^32]: See Clause A20.1, AEIC of ILS (BA Tab 3) at \[72\] – \[75\]
+
+[^33]: DCC (Amendment No. 3) at \[17A(5)\].
+
+[^34]: DCC (Amendment No. 3) at \[19 (16)\].
+
+[^35]: AEIC of ILS (BA Tab 3) at \[25(a)\].
+
+[^36]: AEIC of JY (1 BA Tab 2) at \[38\].
+
+[^37]: DCC (Amendment No. 3) at \[19 (9)\].
+
+[^38]: Notes of Evidence, 1 July 2019, Pg 66 Line 1-7.
+
+[^39]: AEIC of ILS (BA Tab 3) at \[82\].
+
+[^40]: AEIC of ILS (BA Tab 3) at \[79\] - \[82\], Notes of Evidence, 1 July 2019, Pg 77 Line 28 to Pg 79 Line 2.
+
+[^41]: See his explanation in his AEIC (AEIC of ILS (BA Tab 3)) at \[80\].
+
+[^42]: AEIC of JY (1BA Tab 2) at \[60\] – \[61\].
+
+[^43]: AEIC of JY (1BA Tab 2) at \[60\].
+
+[^44]: AEIC of ILS (BA Tab 3) at \[34\].
+
+[^45]: AEIC of ILS (BA Tab 3) at \[20\].
+
+[^46]: AEIC of ILS (BA Tab 3) at \[87\].
+
+[^47]: AEIC of ILS (BA Tab 3) at \[88(b)(i)\].
+
+[^48]: AEIC of ILS (BA Tab 3) at \[88(b)(ii)\].
+
+[^49]: AEIC of ILS (BA Tab 3) at \[88(b)(iii)\].
+
+[^50]: AEIC of ILS (BA Tab 3) at \[88(c)\].
+
+[^51]: AEIC of ILS (BA Tab 3) at \[88(d)\].
+
+[^52]: AEIC of JY (1BA Tab 2) at \[67\].
+
+[^53]: AEIC of JY (1BA Tab 2) at \[66\].
+
+[^54]: AEIC of ILS (BA Tab 3) at pg 41.
+
+[^55]: AEIC of ILS (BA Tab 3) at \[36\].
+
+[^56]: AEIC of ILS (BA Tab 3) at \[31\].
+
+[^57]:  AEIC of ILS (BA Tab 3) at \[32\].
+
+[^58]: AEIC of ILS (BA Tab 3) at \[33\] and \[36\].
+
+[^59]: AEIC of ILS (BA Tab 3) at Pgs 173-178
+
+[^60]: AEIC of ILS (BA Tab 3) at \[27\]; S/No. 9 of Annex A (pages 42 to 44) of AEIC of ILS (BA Tab 3).
+
+[^61]: Notes of Evidence, 1 July 2019 Pg 7 Line 24-30
+
+[^62]: Notes of Evidence, 1 July 2019, Pg 83 Line 13-14
+
+[^63]: S/No. 6 of Annex A (page 41) of AEIC of ILS (BA Tab 3).
+
+[^64]: S/No. 7 of Annex A (page 41) of AEIC of ILS (BA Tab 3).
+
+[^65]: AEIC of ILS (BA Tab 3) at \[30\].
+
+[^66]: SOC (Amendment No. 1) (BP Tab 2) at \[5\], read with DCC (Amendment No. 3) (BP Tab 3) at \[4\].
+
+[^67]: Part IV of Appendix 2 of Order 59 of the ROC (2PBA Tab 4).
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F23759-SSP.xml)

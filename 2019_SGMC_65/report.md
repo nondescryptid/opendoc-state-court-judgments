@@ -1,0 +1,276 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Yap Ah Lek  
+
+### \[2019\] SGMC 65
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">MAC 908904, 908906 to 908908, 908910 &amp; 908916 of 2018</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">23 October 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">Magistrates Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Adam Nakhoda</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Mr Maximilian Chew for the Prosecution; Mr Tan Jia Wei Justin for Mr Yap Ah Lek</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Yap Ah Lek</td></tr></tbody></table>
+
+\[LawNet Editorial Note: An appeal to this decision has been filed in MA 9223/2019/01.\]
+
+23 October 2019
+
+### District Judge Adam Nakhoda:
+
+Mr Yap Ah Lek (“Yap”) pleaded guilty to six charges of making a statement that was false in a material particular to the Controller of Work Passes when he falsely declared the salary that three of his company’s employees would receive. He made the false declarations in his capacity as Director of W & Y Furnitures Pte Ltd (“W&Y”). He also pleaded guilty to one offence of housing a foreign employee in unacceptable accommodation. I sentenced Mr Yap to 21 weeks’ imprisonment for the false declarations offences and to pay a fine of $6,000 for the unacceptable accommodation offence. Mr Yap being dissatisfied with the sentence imposed for the false declarations charges has appealed these sentences. He is on bail pending appeal.
+
+2       This decision will only deal with the reasoning for the sentence imposed for the false declaration offences.
+
+## PROCEEDED CHARGES
+
+3       The six charges under section 20(1)(d) read with section 20(1)(a) and punishable under section 22(1)(ii) of the Employment of Foreign Manpower Act (“EFMA”) are for offences of making a statement that was false in a material particular in the application for work passes for three of W&Y’s employees: Mr Ramakrishnan Gokul (“Mr Gokul”), Mr Yu Guangming (“Mr Yu”) and Mr Min Chan Non (“Mr Min”) (collectively “the employees”).
+
+4       The false statements took the form of a false declaration about the fixed monthly salary that W&Y would pay the employees. The details of the six section 22(1)(d) charges are essentially the same, the only differences are (i) the date of the false declaration; (ii) the employees respective occupations; and (iii) the declared salary. The charge involving Mr Gokul is reproduced below:
+
+> **_MAC 908904 of 2018_**
+
+> _You, are charged that, on 5 January 2016, one W & Y Furnitures Pte Ltd (“the Company”), a body corporate of which you were the director, in connection with an application for a work pass for one foreign employee Ramakrishnan Gokul to be employed by the Company as a Design Coordinator, did make a statement to the Controller of Work Passes which was false in a material particular, in a “Declaration Form” submitted to the Work Pass Division of the Ministry of Manpower, which offence wasa committed with your consent; to wit, you, in your capacity as director of the Company, made the decision for and on behalf of the Company, to declare the fixed monthly salary of the said foreign employee would be $2,600, when you knew this was false in a material particular, and you have thereby committed an offence under section 22(1)(d) read with section 20(1)(a) of the Employment of Foreign Manpower Act (Chapter 91A), punishable under section 22(1)(ii) of the same Act._
+
+## THE FACTS
+
+5       At the material time, Mr Yap was in charge of, amongst other things, the calculation and payment of salaries to W&Y’s employees. W&Y’s employment agency had told Mr Yap that W&Y only had quota for S-Pass holders. Mr Yap then made the decision to of apply for S-Pass holders. The S-Passes were applied for, and granted, for the employees as follows:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="7.88%"> <col width="9.82%"> <col width="16.82%"> <col width="15.28%"> <col width="10.38%"> <col width="11.92%"> <col width="9.4%"> <col width="18.5%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Chrg No.</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>MAC No.</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Foreign Employee</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Occupation</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Date of Receipt of form by MOM</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Declared Salary</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Actual Salary</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Period of Underpayment</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">1</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">908908</p></td><td align="left" class="br" rowspan="2" valign="top"><p align="justify" class="Table-Para-1">Ramakrishnan Gokul</p></td><td align="left" class="br" rowspan="2" valign="top"><p align="justify" class="Table-Para-1">Design Coordinator</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">15 Dec 17</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">$3,600</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">$1,000 to $1,600</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Jan 18 to Feb 18 (2 months)</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">2</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">908904</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">5 Jan 16</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">$2,600</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">$1,000 to $1,600</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Jan 16 to Dec 17 (24 months)</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">4</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">908906</p></td><td align="left" class="br" rowspan="2" valign="top"><p align="justify" class="Table-Para-1">Yu Guanming</p></td><td align="left" class="br" rowspan="2" valign="top"><p align="justify" class="Table-Para-1">Construction Technician</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">9 Jan 17</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">$3,600</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">$1,500 to $3,000</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Jan 17 to Dec 17 (12 months)</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">7</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">908910</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">9 Jan 14</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">$2,500</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">$1,500 to $2,500</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Jan 14 to Dec 14 (12 months)</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">13</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">908907</p></td><td align="left" class="br" rowspan="2" valign="top"><p align="justify" class="Table-Para-1">Min Chan Non</p></td><td align="left" class="br" rowspan="2" valign="top"><p align="justify" class="Table-Para-1">Furniture Designer</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">18 Apr 17</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">$3,600</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">$1,700 to $2,000</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">May 17 to Feb 18 (10 months)</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="center" class="Table-Para-1">14</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">908916</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">15 Mar 16</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">$3,000</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="center" class="Table-Para-1">$1,700 to $2,000</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Mar 16 to Apr 17 (14 months</p></td></tr></tbody></table>
+
+  
+  
+
+6       Mr Yap asked his son, Mr Yap Chin Chye, to make the S-Pass applications for the employees and Mr Yap provided the salary amounts his son inputted into the applications. Mr Yap signed the application forms stating that the employees would receive the declared salaries as stated above. This was a false statement.
+
+7       Mr Yap knew that the statement on the declared salaries was false because he never intended to pay the employees the declared salaries; rather he would pay them based on his assessment of their work. Mr Yap declared the higher salaries for the employees in order to ensure that MOM would approve the S-Pass applications. Mr Yap decided the employees actual salaries based on his assessment of their work performance. The actual salaries that the employees received is in the table above. Only Mr Yu, for the period between January to December 2014 and even then on an inconsistent basis, received his declared salary.
+
+8       MOM confirmed that a key criterion for the granting the S-Passes to the employees was the salary that W&Y declared they would be paid and that but for the false declaration the employees would not have been granted the S-Passes.
+
+9       The Prosecuting Officer, Mr Maximilian Chew (“Mr Chew”), provided a breakdown of the quantum of the underpayment of salary to the employees over the periods in the charges:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="7.58%"> <col width="18.44%"> <col width="21.16%"> <col width="12.14%"> <col width="19.22%"> <col width="21.46%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>S/No</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Name</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Period of underpayment</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Declared Salary</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Actual Salary</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Amount of underpayment</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">1</p></td><td align="left" class="br" rowspan="2" valign="top"><p align="center" class="Table-Para-1">Mr Gokul</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Jan 16 to Dec 17 (24 months)</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">$2,600</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">$1,000 to $1,600</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1">$24,000 to $38,400</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">&nbsp;</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Jan 18 to Feb 18 (2 months)</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">$3,600</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">$1,000 to $1,600</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1">$4,000 to $5,200</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">2</p></td><td align="left" class="br" rowspan="2" valign="top"><p align="center" class="Table-Para-1">Mr Yu</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Jan 14 to Dec 14 (12 months)</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">$2,500</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">$1,500 to $2,500</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1">$0 to $12,000</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">&nbsp;</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Jan 17 to Dec 17 (12 months)</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">$3,600</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">$1,500 to $3,000</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1">$7,200 to $25,200</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">3</p></td><td align="left" class="br" rowspan="2" valign="top"><p align="center" class="Table-Para-1">Mr Min</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Mar 16 to Apr 17 (14 months)</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">$3,000</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">$1,700 to $2,000</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1">$14,000 to $18,200</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">&nbsp;</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">May 17 to Feb 18 (10 months)</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">$3,600</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">$1,700 to $2,000</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1">$16,000 to $19,000</p></td></tr><tr><td align="left" class="r" colspan="5" rowspan="1" valign="top"><p align="right" class="Table-Para-1"><b>Estimated Total Underpayment</b></p></td><td align="left" class="" rowspan="1" valign="top"><p align="center" class="Table-Para-1">$65,200 to $118,000</p></td></tr></tbody></table>
+
+  
+  
+
+10     At the time that Mr Yap pleaded guilty, he had made partial restitution of $3,500 to Mr Gokul, $3,000 to Mr Yu and $3,000 to Mr Min.
+
+## CHARGES TAKEN INTO CONSIDERATION FOR SENTENCING
+
+11     Mr Yap admitted to and agreed to have 12 charges of making a false statement to the Controller of Work Passes, offences under section 22(1)(d) Employment of Foreign Manpower Act (“EFMA”), taken into consideration for the purposes of sentencing.
+
+12     In all twelve TIC charges, Mr Yap made false declarations, on behalf of W&Y, on the declared salary for Mr Yu and Mr Min in applications for S- Passes for these two employees. With respect to Mr Yu, there were eight additional charges under section 22(1)(d) and these false declarations had been consistently since 2009. With respect to Mr Min, there were four additional charges under section 22(1)(d) and these false declarations had been made consistently since 2010.
+
+## ANTECEDENTS
+
+13     Mr Yap was untraced.
+
+## PROSECUTION’S SUBMISSION
+
+14     Mr Chew submitted that Justice Aedit Abdullah had set out the sentencing principles and framework that the Courts should use for offences under section 22(1)(d) in his decision in _Chiew Kok Chai v Public Prosecutor [^1]_(“_Chiew Kok Chai_”). Mr Chew submitted that _Chiew Kok Chai_ established, at \[49\] that “_the predominant sentencing consideration of an offence under s 22(1)(d) is deterrence_” and that “_a custodial sentence would be the norm_” for such offences. A fine would only be appropriate where there were substantial mitigating factors present.
+
+15     Applying the sentencing framework in _Chiew Kok Chai_, Mr Chew submitted that there were four offence-specific factors present in this case:
+
+> a.      **Materiality of the falsehood**: It was submitted that but for Mr Yap’s false declaration of salaries the S-Passes would not have been granted and issued to the employees. The false declaration had clearly influenced the Controller of Work Passes in issuing the S-Passes to the employees.
+
+> b.      **The nature and extent of the deception**: Mr Chew submitted that the deception was conscious, planned and deliberate. He stated that Mr Yap had never intended to pay the employees the declared salaries and had instead intended to pay the employees based on his assessment of their performance. Mr Chew emphasised that the extent of the deception was long in the present case. Based on the proceeded charges, the period of deception for Mr Gokul was 26 months and for Mr Yu and Mr Min it was 24 months. When the TIC charges were taken into account the period of deception with respect to Mr Yu was approximately nine years and approximately eight years for Mr Min.
+
+> Mr Chew alluded to the difficulty in detection of the offences as he highlighted that the offences only became known when Mr Gokul made a walk-in complaint.
+
+> c.      **Consequence of the deception**: Mr Chew submitted W&Y made that significant savings through Mr Yap’s deception. He pointed out that in some months the discrepancy between the declared salaries and the actual salaries paid could be in excess of $2,000. On the proceeded charges alone, Mr Yap saved W&Y between $65,200 and $118,000.
+
+> Mr Chew also submitted that Mr Yap had abused the work pass framework “_for the nefarious purpose of saving on labour cost_”. He submitted that the deception had an impact on job and wage growth opportunities for Singaporeans. By failing to play by the rules, Mr Yap had disadvantaged honest employers who did.
+
+> d.      **Specific role played by Mr Yap**: Mr Chew submitted that Mr Yap had orchestrated the scheme and had enlisted his son’s help to make the false declarations.
+
+16     Mr Chew submitted that based on the above, the case fell within the mid-range of Band 1 of the sentencing framework and that the indicative starting sentence should be 13 weeks’ imprisonment per charge.
+
+17     With respect to the offender specific factors, Mr Chew submitted that there were 12 TIC charges. These 12 charges were similar in nature to the proceeded charges and they would warrant an enhancement to the sentence. With regard to the mitigating factors, Mr Chew acknowledged that Mr Yap had pleaded guilty and had cooperated with MOM and this was indicative of his remorse; that he was untraced; and that he had made partial restitution to the employees.
+
+18     However, Mr Chew also highlighted that the restitution in this case did not address the full cost savings that Mr Yap had obtained for W&Y. He urged the Court to find that the aggravating factor and the mitigating factors balanced each other out and that the final sentence should be 13 weeks’ imprisonment per charge and he sought a global sentence of 26 weeks’ imprisonment.
+
+## MITIGATION
+
+19     Mr Tan agreed that _Chiew Kok Chai_ should guide the Court in determining the appropriate sentence. Whilst he agreed that the case fell within Band 1 of the sentencing framework, he disagreed with the Prosecution’s characterisation of the offender-specific factors and submitted that insufficient weight was given to the mitigating factors.
+
+20     I noted that Mr Tan did not submit on the offence-specific factors and it would appear that he agreed with the Prosecution’s characterisation of these factors. He also did not propose an indicative starting sentence within Band 1 of the sentencing framework.
+
+21     For the offender-specific factors, Mr Tan emphasised that Mr Yap had accepted full responsibility for his actions and was genuinely remorseful as shown by his cooperation with MOM and his early guilty plea. Mr Tan emphasised that Mr Yap was a first time offender and that he was unlikely to re-offend.
+
+22     Mr Tan further submitted that the Prosecution had failed to give sufficient weight to the fact that Mr Yap had voluntarily made restitution of almost $10,000 to the employees and that this fact was especially significant given Mr Yap’s “_relative lack of resources_”.
+
+23     Mr Tan referred to _Chiew Kok Chai_ and pointed out that the accused in that case faced “_more charges and committed offences that were more aggravated than the present matter._” Referring to the Magistrate’s Court decision in _Public Prosecutor v Chiew Kok Chai__[^2]_, Mr Tan highlighted that the accused pleaded guilty to 18 charges and had a further 43 TIC’ed.
+
+24     Mr Tan submitted that the offences committed by the accused in _Chiew Kok Chai_ were significantly more aggravated than the offences committed by Mr Yap. With regard to the section 22(1)(d) offences, the accused in _Chiew Kok Chai_ had conspired with another person to use the work permit quota of one to their businesses to provide workers for another business. The later business was unable to employ foreign workers because its quota had been suspended due to levy defaults. Finally, Mr Tan submitted that the accused in _Chiew Kok Chai_ had defaulted on levy payments several times before he committed the section 22(1)(d) offences.
+
+25     In contrast, Mr Tan submitted that Mr Yap had not participated in any form of conspiracy to obtain foreign manpower for W&Y when W&Y did not have quota to engage foreign manpower. Mr Tan also submitted that the accused in _Chiew Kok Chai_ faced 61 charges, whereas Mr Yap faced a mere 18 charges. As the facts in _Chiew Kok Chai_ were more aggravated, Mr Tan submitted that Mr Yap’s sentence should not exceed six weeks’ imprisonment per charge.
+
+26     Mr Tan also referred to the case of _Public Prosecutor v Benny Liu[^3];_ in that case, the accused had altered a report from Dataflow that reflected that his employee’s educational qualifications were not genuine. The accused was sentenced to ten weeks’ imprisonment. Mr Tan submitted that the offence in _Benny Liu_ was more aggravated than the present offences because the accused in _Benny Liu_, when given the chance to admit to the initial falsification, had given a further false statement to an MOM investigator that he had not altered the Dataflow report. In comparison, Mr Yap had not forged documents to bolster the deception and, once the offences were discovered, had fully cooperated with MOM.
+
+27     Mr Tan submitted that a sentence of six weeks’ imprisonment per charge was appropriate with a global sentence of 12 weeks’ imprisonment.
+
+## DECISION
+
+## A.    Legislative Objectives
+
+28     Pursuant to the amendments to the EFMA, which came into force on 9 November 2012, the maximum fine and maximum imprisonment term for offences under section 22(1)(d) were increased to $20,000 and two years respectively. During the Second Reading of Amendment Bill, the Acting Minister for Manpower, Mr Tan Chua-Jin, stated:
+
+> _“_      _Employers in Singapore are by and large responsible, but there are some who seek to profit by circumventing our work pass framework._ **_As we further tighten the policies on the hiring and retention of foreign manpower, we can expect errant employers to try harder to get round the rules… For example, we have found that some declaring higher salaries than they are actually paying their foreign workers…_**
+
+> **_Singaporeans ultimately suffer when employers_** _fail to pay the true costs of hiring foreign manpower or_ **_hiring foreign manpower that they are not entitled to_** _._ **_Local workers will lose out in employment opportunities. Honest employers who play by the rules are also unfairly disadvantaged…_**
+
+> _Sir, the proposed amendments to the Employment of Foreign Manpower Act will enhance the Government’s ability to ensure the integrity of our work pass framework. Recognising that EFMA contraventions range widely from administrative infringements to 9criminal offences, these amendments will introduce a calibrated and appropriate response to different types of contraventions._ **_In totality, the changes will allow my Ministry to step up enforcement actions against errant employers_** _, errant foreign workers and syndicates more expeditiously and effectively_, **_thereby enhancing deterrence against EFMA contraventions, which ultimately hurts Singaporeans_**_._
+
+> **_To further enhance deterrence, we will increase maximum penalties for EFMA contraventions_** _…_
+
+> _Sir, as mentioned, this Bill is meant to go after errant employers, and most employers are fair and responsible. It ultimately bolsters our efforts in creating sustainable and inclusive growth in Singapore and ensuring that Singaporeans remain the core of our workforce._ **_It will do so by ensuring employers pay the true costs of hiring foreign workers and creating a level playing field for law-abiding employers…”_** \[**Emphasis mine**\]
+
+29     I found that Mr Yap was precisely the type of errant employee that the amendments to the EFMA were enacted to address. With the realisation that W&Y only had quota to employ foreign workers on an S-Pass and intending to hire foreign workers for W&Y, Mr Yap took the deliberate decision to overdeclare the employees’ salaries in order to obtain S-Passes for them. It was clear to me that he never intended to pay the employees the declared salaries. I found that Mr Yap’s offences had the effect of both depriving more deserving foreigners and/or Singaporeans of job opportunities; and, as a result, he gained a distinct advantage over other employers who play by the rules and pay foreigners that they hire the salaries that they have declared.
+
+30     Therefore, Mr Yap had avoided paying the true costs of hiring the employees and as a result, he enabled W&Y to make considerable savings whilst still obtaining the labour of the employees.
+
+31     It was clearly Parliament’s intention that the punishments meted out against errant employers, such as Mr Yap, should be sufficient to deter such behaviour. This was confirmed by Justice Abdullah in _Chiew Kok Chai_, where having analysed the Parliamentary debates relating to the amendments to the EMFA, he held at \[49\] that:
+
+> _“49_      _It follows from my analysis above that the predominant sentencing consideration for an offence under section 22(1)(d) is_ **_deterrence._** _In this regard, I endorse Chao JA’s statements in Lim Kopi at \[10\] and \[11\]: deterrence is necessary to prevent the very object of the EFMA from being flagrantly undermined. Any deception of public institutions which frustrates the aims of the EFMA should not be condoned.”_ **\[Emphasis mine\]**
+
+32     Justice Abdullah concluded that the objective of deterrence would, generally, not be achieved by the imposition of fines, he held at \[50 to 51\]:
+
+> _“50_      _To this end, the appellant argued that a fine would have sufficient deterrent effect. While it is true that fines may be sufficiently deterrent in some circumstances, it does not follow that what would be deterrent in one situation would similarly be so for another. Where there is a significant wider interest to be protected, and where economic benefits may give rise to incentives to breach the law, a_ fine would not generally be enough to deter would be offenders.
+
+> _51_      _In this case, breaching the work pass system would generally bring some economic or financial advantage to the errant employer, who profits from not paying the true costs of hiring foreign manpower._ **_Additionally, the societal interest to be protected, namely, the proper regulation of foreign manpower in Singapore’s labour market and the protection of local workers and honest employers, requires a heavy response outweighing any likely economic benefit from the breach. I also take the view, as observed in the GD at \[26\], that the payment of a financial penalty in the form of a fine may encourage potential offenders to treat contraventions to be mere business costs_** _._
+
+> _52_      _In these circumstances_, **_I conclude that a custodial sentence should be the norm for offences under s 22(1)(d) of the EFMA_**_. A fine would generally not be sufficient punishment unless substantiated mitigating factors are present_.” **\[Emphasis mine\]**
+
+33     As stated above, I found that Mr Yap had obtained an unfair advantage vis-à-vis other employers, had deprived better qualified foreigner and/or Singaporeans and obtained a considerable financial benefit for W&Y, and, as such, a custodial sentence was the appropriate sentence. The length of that sentence was to be determined in accordance with the principles laid down in _Chiew Kok Chai._
+
+## B.    Sentencing framework from **_Chiew Kok Chai v Public Prosecutor_** [^4]
+
+34     Justice Abdullah found that the length of a custodial sentence for section 22(1)(d) offences “_should be calibrated using the “two-step sentencing bands” approach_”[^5]. Justice Abdullah held, at \[67\], that at the first stage the Court should consider the following non-exhaustive offence-specific factors:
+
+> a.     The materiality of the false representation on the mind of the decision maker;
+
+> b.     The nature sophistication and extent of the deception;
+
+> c.     The consequences of the deception, which includes a consideration of the level of exploitation of the foreign workers, the use of public resources required to uncover and investigate the offence; whether better qualified applicants were deprived of a job opportunity and whether others were put at risk as a result of an unqualified foreigner performing the job;
+
+> d.     Whether there was a transnational element or the offence was syndicated;
+
+> e.     The specific role played by the accused and the number of people involved in the offence; and
+
+> f.     Whether the offender obtained gains (financial or otherwise) from the commission of the offence.
+
+35     Using these factors, the Courts would determine the gravity of the offence and thereafter place the offence in the appropriate sentencing band. Justice Abdullah, at \[63\], adopted the sentencing bands proposed by the Prosecution as follows:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="13.64%"> <col width="57.28%"> <col width="29.08%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Band</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Elaboration</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Sentencing range</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="right" class="Table-Para-1">1</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Lower end of the spectrum, involving one or very few offence-specific factors, or where offence-specific factors were not present to a significant degree</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Short custodial sentence of less than five months’ imprisonment</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="right" class="Table-Para-1">2</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Middle band of the spectrum, involving higher levels of seriousness or harm, comprising cases falling between Bands 1 and 3</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Five to 15 months’ imprisonment</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="right" class="Table-Para-1">3</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Higher end of the spectrum, involving numerous offence-specific factors, or were offence-specific factor were present to a significant degree</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">15 to 24 months’ imprisonment</p></td></tr></tbody></table>
+
+  
+  
+
+36     Having ascertained the appropriate sentencing band the Court would determine an indicative starting point for the sentence and then proceed to the second stage of the approach and consider offender-specific factors, namely, aggravating and mitigating factors, see \[68\] and \[75\] of _Chiew Kok Chai_.
+
+## C.    Application of the principles in _Chiew Kok Chai_ to the present case
+
+## I.    Offence-specific factors in the present case
+
+37     I found that there were six offence-specific factors applicable to this case:
+
+38      Materiality of the false representation on the mind of the decision-maker: I found that the false representations had an impact on MOM and its decision to issue the employees with S-Passes, in that but for the false declaration on the salaries to be paid to the employees, MOM would not have issued the S-Passes.
+
+39      The nature, sophistication and extent of the deception: I found that Mr Yap’s deception was conscious, planned and deliberate. Mr Yap had never intended to pay the employees their actual salary.
+
+40     I found that the extent of the deception, particularly in the case of Mr Yu and Mr Min, was very aggravated. With respect to the proceeded charges, the duration of the deception ranged from 24 months to 26 months. When the TIC charges are considered, it was apparent that Mr Yap’s deception had carried on for nine years with respect to Mr Yu, and eight years with respect to Mr Min. By any measure, this would be an exceedingly long period to maintain the deception. Throughout this time, W&Y had obtained the benefit of Mr Yu’s and Mr Min’s labour without having to pay the true costs of their labour. Even with regard to Mr Gokul, the deception had lasted for 26 months; I found that his was similarly a very long period of time. I treated the length of the deception both on the proceeded charges alone and when taking into account the TIC charges to be an aggravating factor.
+
+41     I found that the deception was not particularly sophisticated. There was no evidence that Mr Yap had paid the employees their declared salaries and then clawed back the overpayment. There was also no evidence that Mr Yap had created a false paper trail or fabricated documents to give the impression that the employees were being paid their declared salaries. Had these additional factors been present this would have increased Mr Yap’s culpability and possibly have pushed his offences into Band 2 of the framework.
+
+42      The consequences of the deception: The sheer length of time that the deception existed for was a testament to how difficult it was for these offences to be uncovered. The offences were only uncovered because Mr Gokul had made a walk-in complaint to MOM. As stated above, at \[33\], Mr Yap’s deception had the potential to deprive a better-qualified applicant of a job opportunity. I found that this was an aggravating factor.
+
+43     I also found that there was an element of exploitation of the employees in this case. The employees had no certainty as to their monthly salaries as their salaries depended on Mr Yap making subjective assessments of their performance on a month to month basis and paying them according to his assessment. A corollary of a work pass being granted based on a declared salary would be that the foreign employee is assured that he will be paid the declared salary throughout the duration of work pass. The foreign employee should not be at the subject to the whims and fancies of his employer such as was the situation in the present case. I found that this was an aggravating factor.
+
+44     Of the employees, only Mr Yu, for the work pass application for the period January to December 2014, managed to earn, during some months in that period, his declared salary of $2,500. Otherwise, the actual salaries paid to the employees fell well short of the sums that the employees should have earned.
+
+45     I found that this situation was more egregious than a situation where foreign employees are employed on the basis of the false declaration as to their salary but are nonetheless paid a definite salary, albeit less than the declared salary. At least for such foreign employees there is certainty as to the salary that they are going to earn. This certainty was absent as far as the employees in the present case were concerned
+
+46      The specific role played by Mr Yap: I agreed with Mr Chew’s submission that Mr Yap had orchestrated this scheme. In addition, Mr Yap had involved an ostensibly innocent party, his son, in the perpetration of his scheme, as he had instructed his son to make the applications and declare the salaries. The fact that Mr Yap had involved other persons in his scheme was an aggravating factor.
+
+47      Whether Mr Yap obtained any gains (financial or otherwise): I accepted that Mr Yap did not personally profit from the scheme. However, by paying the employees considerably less than their declared salaries, Mr Yap had allowed W&Y to make substantial savings. The Prosecution’s table would disclose that for the period covered by the charges W&Y made savings between $65,200 and $118,000. Mr Yap was a director of W&Y and, I found, he stood to indirectly gain from these offences as the savings would help W&Y to be viable and/or more competitive vis-à-vis other companies in a similar line.
+
+48      Mr Yap’s motive for the offences: Mr Yap was aware that W&Y only had quota to apply for S-Passes. He clearly felt the need to employ foreigners to meet W&Y’s workforce requirements but did not want to pay the salaries required for S-Passes. I found that he had deliberately sought to circumvent the work pass framework in order to employ the employees at a cheaper rate. This would increase Mr Yap’s culpability.
+
+49     I found that based on these offence-specific factors and the nature of the factors, the offences committed by Mr Yap fell within Band 1 of the sentencing framework.
+
+## II.    The indicative starting point for the sentences – comparison with case precedents
+
+50     Before determining the indicative starting point for the sentences in this case, I compared the present case with case precedents tendered by the Prosecution and the Defence:
+
+51      _Chiew Kok Chai_. The accused in _Chiew_, pleaded guilty to three charges under section 22(1)(d) with a further two charges taken into consideration. The accused had also pleaded guilty to a number of charges relating to failing to pay salaries and making deductions from employees’ salaries as a condition of employment.
+
+52     The accused and his co-conspirator, Tan Yock Jeen (“Tan”), jointly managed Wee Chong Construction (“Wee Chong”) and Wan Fu Builders Pte Ltd (“Wan Fu”). The accused was one of the directors of Wan Fu, whilst, Tan was the sole-proprietor of Wee Chong. As Wan Fu had defaulted in the payment of foreign worker levies, it no longer had any entitlement to foreign manpower quota. The accused and Tan accused conspired to use Wee Chong make apply for work permits for foreign workers. The applications were false because the accused and Tan had intended that Wan Fu and not Wee Chong would employ the foreign employees. The three workers (who were the subject of the proceeded charges) worked for Wan Fu for between five to six months.
+
+53     Justice Abdullah held at \[73\] that:
+
+> _“73_      _Regardless, the present case involved facts which warranted a stern response by the law: (a) Tan’s false representation to WPD was material; (b) the deception by Tan and the appellant was consciously and deliberately planned and difficult to detect; (c) the deception was maintained for five to six months for each foreign employee; and (d) Wan Fu gained an economic advantage through the deception, and was able to hire foreign employees at a lower cost as a result. It is further relevant that Wan Fu was specifically precluded from hiring foreign employees due to its previous episodes of levy defaults; the appellant and Tan’s deceptions were thus calculated specifically to circumvent the work pass framework to obtain foreign manpower they knew they were not entitled to. In these circumstances, the custodial threshold would have been crossed even on the prevailing sentencing precedents.”_
+
+54     Based on these factors, Justice Abdullah found that the indicative starting sentence was two months’ imprisonment.
+
+55     I found that the present case was more egregious than the offences in _Chiew Kok Chai._ Turning first to the similarities between the present case and _Chiew Kok Chai_ I found, in the present case Mr Yap’s offences were (i) material; (ii) they were consciously and deliberately planned and were difficult to detect; and (iii) W&Y had obtained an economic advantage.
+
+56     The extent of the offence, in the present case, was more aggravating than in _Chiew Kok Chai._ The deception was maintained, for the proceeded charges, for a period four times longer than the period in in _Chiew Kok Chai._ When one considers the TIC charges, the length of the deception concerning the S-Passes issued to Mr Yu and Mr Min dwarfs the length of deception in _Chiew Kok Chai._ I found that the extent of the deception in this case alone would justify a lengthier indicative starting sentence than the one in _Chiew Kok Chai._
+
+57     For the factor on the specific role played by the accused, I noted that the accused in _Chiew Kok Chai_ had engaged in a conspiracy with Tan to commit the offences and this was absent from the present case. However, Mr Yap had involved his son in the commission of the offences and, as stated above, his son was an innocent party. In _Chiew Kok Chai_, participation in the offence was confined to the two accused persons. As such, I found that the, with respect to this factor the degree of culpability between the accused in _Chiew Kok chai_ and Mr Yap was comparable.
+
+58     I also noted that whilst it was held by Justice Abdullah that Wan Fu gained an economic advantage, there was no quantification of this advantage. By comparison, in the present case there were quantifiable savings of between $65,200 to $118,000 made on behalf of W&Y.
+
+59     Mr Yap’s motive for applying for S-Passes was because he was aware that W&Y only had quota for S-Passes. Mr Yap, like the accused person in _Chiew Kok Chai_, had deliberately circumvented the work pass framework because W&Y had a disability with regard to employing foreigners, namely that it was limited to employing foreigners under an S-Pass. Therefore, Mr Yap took advantage of W&Y’s quota to employ foreigners on S-Passes and then not pay them the declared salary. The accused’s motive in _Chiew_ was to utilise Wee Chong’s work permit quota to circumvent Wan Fu’s disability, i.e. that it had been barred from hiring foreigners as a result earlier levy disputes. I found that the motives for making the false statements in the present case and _Chiew Kok Chai_ were comparable in terms of culpability.
+
+60     Based on the above, in particular the extent of the deception, I found that the present case was more aggravated than _Chiew Kok Chai._
+
+61     I disagreed with Mr Tan’s submission that the accused’s offences in _Chiew Kok Chai_ were more aggravated because he faced 61 charges and had pleaded guilty to 18 charges. The accused in _Chiew Kok Chai_ had pleaded guilty to three charges under section 22(1)(d) and agreed to two being TIC’ed. The remaining 56 charges were for offences of failing to pay salaries and making deductions from salaries as a condition of employment. I found that these 56 charges, were not relevant to the consideration of the sentence to be imposed for the section 22(1)(d) offences.
+
+62     Justice Abdullah, when considering the offender-specific factors, at \[75\], ascribed aggravating weight to “_the two similar charges taken into consideration for the purposes of sentencing_”. Justice Abdullah did not consider the other non-section 22(1)(d) charges as relevant in his determination of the appropriate sentence for the section 22(1)(d) charges.
+
+63     By contrast, Mr Yap pleaded guilty to six section 22(1)(d) offences and had 12 TIC’ed. Based solely on the number of proceeded and TIC charges, for offences under section 22(1)(d), Mr Yap’s case was more aggravated.
+
+64     I would add that I did not consider the TIC charges, at this stage of the sentencing framework, in determining the indicative starting sentence. I refer to the TIC charges here merely to show that when comparing the total number of charges between the present case and _Chiew Kok Chai_, it would appear that the present case is more aggravated
+
+65      _Public Prosecutor v Benny Liu_ _:_ I did not place any weight on the decision in _Benny Liu_ as that decision pre-dated the decision in _Chiew Kok Chai_ and did not apply the sentencing principles or framework laid down by Justice Abdullah.
+
+66     The Prosecution tendered a table of sentencing precedents for cases decided post-_Chiew Kok Chai_ and I considered the following cases:
+
+67      _PP v Javier Catherine Roy_ _[^6] :_ The accused had made a false declaration to obtain a work pass to work as a foreign domestic worker (“FDW”). She had no intention of working as an FDW and instead had worked for 21 months as a freelance waitress at Orchard Towers. In that time, she had earned about $42,000. The false declaration by the accused in _Javier_ had also allowed her to carry out an illegal act by working as a freelance waitress.
+
+68     I found that the culpability of the accused person in _Javier_ and Mr Yap’s culpability were similar as the duration of the offences in the present case was longer (and when the TIC charges were considered, far longer) and there was financial gain. I noted that the motive for making the false statement in _Javier_ was to allow her to work illegally and I found that this motive was more egregious that Mr Yap’s motive. The accused in _Javier_ was sentenced to 14 weeks’ imprisonment. I found that the sentences for the individual offences in the present case should be slightly lower than the sentence imposed in _Javier_.
+
+69      _PP v Ong Sin Yee_ _[^7] :_ The accused had made a false declaration, on behalf of her company, that a foreign employee would be paid $2,600 when the employee was in fact paid $1,400. As the duration of the deception in _Ong Sin Yee_ was far shorter, i.e. for only three months, than the present case, I found that the accused’s culpability in the present case was greater and, correspondingly, the length of the sentences for the charges in the present case should be longer.
+
+70     I found that the other precedents tendered by the Prosecution were not as instructive in determining the appropriate indicative starting sentence.
+
+71     Having considered the applicable offence-specific factors and the precedents above, I found that the indicative starting sentence in the present case for the majority of the offences should be just above the mid-point of Band 1. The mid-point would be approximately 11 weeks’ imprisonment and I set the indicative starting sentence at 12 weeks’ imprisonment. For two of the offences I set the indicative starting sentence differently:
+
+> a.     For MAC 908908 of 2018, as the period of deception was far shorter (i.e. two months) I set the indicative starting sentence at eight weeks’ imprisonment; and
+
+> b.     For MAC 908904 of 2018, as the period of deception was considerably longer than the other charges (i.e. 24 months) I set the indicative starting sentence at 14 weeks’ imprisonment.
+
+## III.    The offender-specific factors.
+
+72     The only aggravating factor was that the accused had admitted to an additional 12 charges being TIC’ed and this would result in an increase to the indicative starting sentence.
+
+73     In mitigation, I accepted Mr Tan’s submission that Mr Yap had pleaded guilty at the earliest possible instance and that he had fully cooperated with MOM’s investigation. I found that this was a clear indication that Mr Yap was remorseful. I also accepted that Mr Yap was a first time offender and that it was unlikely that he would re-offend. However, I found that these factors were not so exceptional that they would merit a large discount to the indicative starting sentence and, in view of the number of charges TIC’ed. I found that the net effect of these mitigating factors would have been to cancel out the increase to the sentence brought about by the TIC charges.
+
+74     I gave mitigating weight to the fact that Mr Yap had voluntarily paid almost $10,000 to the employees as restitution. However, I disagreed with Mr Tan’s suggestion that $10,000 was a significant sum in view of Mr Yap’s “_relative lack of resources_”. Mr Tan offered no explanation about Mr Yap’s or W&Y’s financial state. Therefore, I was unable to conclude one way or the other whether this sum was significant given Mr Yap’s financial resources.
+
+75     I disagreed with Mr Tan’s submission that the partial restitution should result in a significant discount to the indicative starting point. This was because the restitution represented a mere fraction of the amount that W&Y had underpaid the employees during the duration of the deception. I found that a discount of approximately one-fifth should be applied to the indicative starting sentence to take into account the fact that Mr Yap had made some restitution to the employees.
+
+76     Therefore, I imposed a sentence of 11 weeks’ imprisonment for MAC 908904 of 2018, six weeks imprisonment for MAC 908908 of 2018 and ten weeks’ imprisonment for the remaining charges. Taking into account the number of proceeded charges I decided to run MAC 908904 and MAC 908916 consecutively, Mr Yap was sentenced to a global sentence of 21 weeks’ imprisonment.
+
+* * *
+
+[^1]: <span class="citation">\[2019\] SGHC 169</span>
+
+[^2]: <span class="citation">\[2018\] SGMC 70</span>
+
+[^3]: <span class="citation">\[2018\] SGMC 31</span>
+
+[^4]:  For the section on the “Sentencing Framework from _Chiew Kok Chai v Public Prosecutor_, I have reproduced paragraphs 27 to 29 of my decision in _Public Prosecutor v L Kannan_ <span class="citation">\[2019\] SGMC 64</span>
+
+[^5]: At \[63\]
+
+[^6]:  SC-900683-2019
+
+[^7]:  SC-909403-2018
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F23755-SSP.xml)

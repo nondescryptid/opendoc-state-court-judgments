@@ -1,0 +1,139 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Simon Lim Beng Wee _v_ Ong Khek Chong and others  
+
+### \[2019\] SGDC 193
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">DC/DC Suit No. 3697 of 2017</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">23 October 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Loo Ngan Chor</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Mr Tham Wei Chern / Ms Charis Wang (M/s Fullerton Law Chambers LLC) - for the Plaintiff; Mr Daniel Chen / Ms Kelley Wong (M/s Lee &amp; Lee) - for the Defendants</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Simon Lim Beng Wee — Ong Khek Chong — Tan Eng Hua — Michael Tan Ah Huat — Lin Yi</td></tr></tbody></table>
+
+Defamation – Defamatory statements – Justification – Qualified Privilege – Malice
+
+23 October 2019
+
+### District Judge Loo Ngan Chor:
+
+1       These are the grounds of my decision to dismiss the Plaintiff’s claim in libel against the Defendants, issued for the purpose of the Plaintiff’s appeal against my said decision.
+
+2       The setting for the dispute before me was a strata-titled development known as WCEGA Plaza and Tower (“the complex”). The Plaintiff was the owner of Supersonic Maintenance Services Pte Ltd which owned several units in the complex. He was also briefly the chairman of the 7th Management Council (“the MC”) of the complex between 9th May 2017 and 26th October 2017.
+
+3       The first Defendant was another subsidiary proprietor (“SP”) in the complex. The fourth Defendant was the sole proprietor of an occupier in the complex. The second and third Defendants were respectively the director and representative of yet two other SPs.
+
+4       The claim was in libel for an undated open letter (“the letter”) sent by the Defendants to the SPs of the MCST. The Plaintiff placed the date of the letter at 10th October 2017 whereas the Defendants said that this letter was sent out on 6th October 2017. This slight difference in the dates made no difference to my consideration of the case.
+
+5       As characterised by the Plaintiff, a significant proportion of SPs in the MCST were in the motor trade. Issued with red parking labels, which permitted parking inside the individual units of these label-holders, the vehicles of these motor traders were indiscriminately parked outside of their units where they were not supposed to be parked including in the basement car parks, common areas and an SCDF service road, i.e., there had been indiscriminate parking by cars issued with red labels.[^1]The MC voted five-to-one to revoke the red labels.
+
+6       It did not appear to be disputed that the Defendants were not involved in the dispute over the red labels.
+
+7       Owing to the controversy over the red labels, the pleaded Defence was that 30 SPs started legal proceedings against the complex MCST in two separate applications to the Strata Titles Board.[^2]
+
+8       The Defendants were sufficiently in disagreement with the MC to be moved to write the letter of which the Plaintiff complained.
+
+9       A copy of the letter[^3], which occupied a page and a half of close-typed text, is annexed to these grounds at Annex A.
+
+10     I now extract verbatim the specific passages in the letter to which the Plaintiff targeted his complaint:
+
+> _…_
+
+> _We have serious concerns on how MCST is being run, which has resulted in the MCST being dragged into Court proceedings. We propose to elect a new Council which is firm and yet fair to all SPs, and which can resolve the Court proceedings amicably._
+
+> _…_
+
+> _6_.     _As you know, we face a shortage of car parking spaces. Current 7th Council has also revoked all additional red labels in Wcega Plaza, causing lots of inconvenience to the Plaza SPs._
+
+> _…_
+
+> _8_.     _30 motor trade SPs engaged lawyers to ask the Council to reconsider the decision. However, Council refused. The 30 SPs have had commenced legal proceedings against the MCST to reverse the decision. As far as we know, MCST has spent a five-figure sum on legal fees already, to defend its decision._
+
+> _…_
+
+> _10_.     _The proposed Council will resolve the dispute with the 30 SPs amicably, which will also improve the parking situation in the development. The MCST will not have to waste more money on legal costs, and will be able to spend that money on better things such as repairing lifts._
+
+> _…_
+
+> _12_.     _Out of 9 members of the 7th Council, 3 have resigned for undisclosed reasons since the dispute with the motor trades started, leaving just 6 members. Out of these, 4 are employees of Supersonic Maintenance Services P/L, including the Chairman, who is the boss of Supersonic. The 7th Council may not be in the best position to make decisions on behalf of all SPs._
+
+> _…_
+
+> _13_.     _7th Council has issued additional season parking labels to certain units without charges, and the MCST ignored Council member’s vehicles parking the SCDF service road and causing obstruction._
+
+11     The Plaintiff’s complaint was that the passages in the letter, set out in the foregoing paragraph, libelled him in the natural and ordinary meaning of the words, which was that[^4]:
+
+> i)     He abused his power as the Chairman of the MC, and acted unfairly and in breach of the bye-laws.
+
+> ii)     He allowed or caused the MCST to allow certain MC members to park along the SCDF service road when this was disallowed, whilst other SPs were punished for doing so.
+
+> iii)     He issued or caused to be issued additional season parking labels to certain units in the complex without charge.
+
+> iv)     He had been derelict as Chairman of the MC or pursued a personal agenda by failing to carry out necessary works for the MCST such as lift repairs, and instead wasted MCST money on legal disputes with motor trade SPs.
+
+12     The Defendants denied any or any such defamatory imputations. Alternatively, the Defendants assigned other (implicitly non-defamatory) meanings to the words, which meanings were true; these meanings were in the nature of what the words literally said, that is to say, without any defamatory imputations at all. Finally, the Defendants relied on qualified privilege.
+
+13     The Plaintiff’s Reply denied the literal meanings of the text to which the Defence referred or that these were true. The Plaintiff relied on express malice to defeat the Defendants’ defence of qualified privilege and pleaded reliance on s14 of the Defamation Act (Cap 75).
+
+14     In the interpretation of a document said to amount to a libel in its natural and ordinary meaning, the lens used is that of an ordinary reasonable reader using his general knowledge and common sense (“the objective understanding”). In the case before me, the lens is that of the SPs of the MCST. See _Review Publishing Co Ltd and anr_ v _Lee Hsien Loong and anr_ appeal <span class="citation">\[2010\] 1 SLR 52</span> at \[30\].
+
+15     In this connection, one point and one counter-point, both of principle, stood out amongst others.
+
+16     The point was that the objective understanding must be based on a reader who was not avid for scandal and, to that end, where words were capable of a defamatory meaning and a non-defamatory meaning, the non-defamatory meaning was to be preferred.
+
+17     The counter-point was that the objective understanding was that of a reader unschooled in the law, who was capable of loose reading and was prepared to read between the lines. This counter-point arose at all in this case because of the Plaintiff’s claim which required, in my view, my measure of whether any ordinary reasonable SP might, by a process of loose reading, read any alleged defamatory imputations into the letter. For these reasons, these two principles had to be balanced in the application here.
+
+18     Solely in deference to the Plaintiff, I had carefully and repeatedly read and sat back several times from reading the text of the letter. I did not think that the objective understanding, even where an SP were given to loose thinking would somehow derive an objective understanding that even approached the imputations complained of. See also \[26\] below.
+
+19     The objective understanding of the letter, particularly the passages complained of, was just what the letter said, as the Defendants maintained; I hasten to add that this was not a defence of justification in that a Defendant is required only to justify what is defamatory (and my finding was that the letter was not defamatory), and justification has to go to the sting of the defamation as opposed to its literal meaning. See also \[24\] to \[26\] below.
+
+20     I found myself in agreement with the Defendants that the letter was incapable of bearing the alleged defamatory imputations or any of them. It was a tremendous leap from the text to the complaint that the letter accused the Plaintiff of being personally engaged in the said wrongdoings.
+
+21     The alleged imputations said to be defamatory of the Plaintiff were not even imputations made of the MC, leave alone the Plaintiff. For example, I did not read any suggestion of a derelict MC or one that abused its powers. If this were so, and this being a letter that, in sum and in its parts, criticised the MC as a group of whom the Plaintiff was one, the Plaintiff quite simply had no basis to say that the letter singled him out personally as this suit entailed.
+
+22     That really was the end of the matter as far as I was concerned because the Plaintiff had not passed the threshold. For the sake of completeness, I deal with several other matters below.
+
+23     As an aside, in respect of paragraph 13 of the letter, it had to be read conjointly with paragraph 9 of the letter. In short, whilst strictly not the subject of the Plaintiff’s complaint, the point made by those paragraphs was that the MCST required a wider spread of SPs in its management council so as to properly represent the interests overall of the MCST.
+
+24     Subject to \[19\] above, I would briefly address two points.
+
+25     In regard to whether a five-figure sum was involved for the STB proceedings, I was clear that the Defendants were, or rather the letter was, objectively speaking, referring to both the STB proceedings (STB 55 and STB 96) which were related to the SPs’ unhappiness with the red label scheme and measures related to parking restrictions, and the MCST did incur a five-figure sum in legal fees for both these STB proceedings.
+
+26     Next, I was not able to make a finding concerning whether the MC had omitted to take enforcement action against vehicles parked on the SCDF **r**oad. Photographs of certain vehicles adduced by the Defendants were of specific moments and, as the Plaintiff argued, did not go to show that no enforcement at all was taken. That said, and in agreement with the Defendants, I found that the Plaintiff’s attempt to derive the imputations at \[11(i) and (ii)\] above from this demonstrated a reading of the letter that, with respect, erred by being avid for scandal.
+
+27     The Plaintiff’s reliance at trial on s14 of the Defamation Act (Cap 75) was, with respect, misconceived. S14 reads:
+
+> **Limitation of privilege at elections**
+
+> 14.    A defamatory statement published by or on behalf of a candidate in any election to the office of President or to Parliament or other elected or partially elected body shall not be deemed to be published on a privileged occasion on the ground that it is material to a question in issue in the election, whether or not the person by whom it is published is qualified to vote at the election.
+
+28     The Plaintiff’s argument was that the letter was written with the intent by the first to third Defendants to position themselves for an election into the next management council, and by the fourth Defendant as their supporter. By reliance on s53B of the Building Maintenance and Strata Management Act (Cap 30C), the Plaintiff said that since nominations for election into a management council could take place only during a general meeting or at the earliest 48 hours before, election campaigning had naturally to happen before the general meeting. These factors brought the letter, thus the Plaintiff’s argument went, within the meaning of s14 prohibiting reliance on qualified privilege where the sender-recipient’s correspondence of interest and or duty arose solely because of an election.
+
+29     With respect, I did not agree.
+
+30     First, as things panned out, there was no election and there was no candidate. Neither was there an election at the time when the letter was issued, it being only a call to support a requisition by the Defendants for an EOGM. These being the circumstances, in my humble view, s14 was not triggered.
+
+31     Moreover, s14 really only disallows reliance on qualified privilege when a libel concerns an issue which was of interest only in, or because of, an election, but not when there are other qualified privilege-related bases for articulating the issue. Thus, if in fact the EOGM eventually resulted in an election (which it did not given the Plaintiff’s resignation), whilst the issues in the letter would have been or become also issues in the election, they in fact started life as issues in the wider scheme of things that concerned the parties and the SPs within the MCST; they were not matters of interest only because there was an election afoot. See _Loh Siew Hock and others_ v _Lang Chin Ngau_ <span class="citation">\[2014\] SGHC 191</span> where at \[80\], Tan Siong Thye J said:
+
+> 80    Does s14 disallow the defendant from relying on the defence of qualified privilege as the statements were made in the course of the election of members of the 35th CYA Management Council? A close scrutiny of s 14 does not show that Parliament has totally precluded the defence of qualified privilege in an election situation. The crucial phrase of s 14 is as follows: “… shall not be deemed to be published on a privileged occasion on the ground that it is material to a question in issue in the election …”. This means that the defendant cannot found his qualified privilege defence on the sole event of an election. We can see that the courts have been reluctant to allow the defendants to seek refuge under qualified privilege as a defence for defamation in an election. I shall make reference to case law.
+
+32     Therefore, even if the letter were defamatory as the Plaintiff said, I agreed that the defence of qualified privilege clearly applied in that the Defendants had an interest in making, and the SPs to whom the letter was addressed had an interest to receive, the communications concerning the perceived ills of the MCST under the MC.
+
+33     The Plaintiff, in my view, was not able to prove express malice.
+
+34     A last point that I should briefly address was the Plaintiff’s submission that I should draw an adverse inference owing to the fact that the first and third Defendants failed to turn up for the trial, even as there were eight witnesses for the defence. I could not agree to draw any adverse inference for the simple reason that the Plaintiff failed _in limine_ in that I found no defamatory meaning. See _Power Solar System Co Ltd (In Liquidation)_ v _Suntech Power Investment Pte Ltd_ <span class="citation">\[2018\] SGHC 233</span> at \[46\].
+
+35     For the reasons set out above, I dismissed the Plaintiff’s claim.
+
+36     Taking into account that the Plaintiff wanted $50,000 in damages and $15,000 in aggravated damages had he succeeded, and that this was a District Court action occupying two days and a half, I fixed costs at $20,000 to be paid by the Plaintiff to the Defendants, along with reasonable disbursements to be agreed or, if parties could not agree, be referred to me for fixing.
+
+![]([2019] SGDC 0193_Image/[2019] SGDC 0193_image1.png)
+
+![]([2019] SGDC 0193_Image/[2019] SGDC 0193_image2.png)
+
+* * *
+
+[^1]: BA tab 1 p23-24
+
+[^2]: BP9 \[2(e)\]
+
+[^3]: 1AB392-393
+
+[^4]: BP5 SOC \[4\]
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F23756-SSP.xml)
