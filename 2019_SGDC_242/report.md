@@ -1,0 +1,257 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Aravinthan s/o Saravanan  
+
+### \[2019\] SGDC 242
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">DAC No. 938190 of 2018 &amp; Others</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">18 November 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">May Lucia Mesenas</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">DPP Andrew Low (Attorney-General's Chambers) for the public prosecutor; Accused in person.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Aravinthan s/o Saravanan</td></tr></tbody></table>
+
+\[LawNet Editorial Note: An appeal to this decision has been filed in MA 9258/2019/01.\]
+
+18 November 2019
+
+### District Judge May Lucia Mesenas:
+
+## Background
+
+The accused, male, 17 years old, pleaded guilty to four counts, of abetting by engaging in a conspiracy with seven others (known collectively as “the group”), to cheat unsuspecting victims, where in pursuance of the said conspiracy, one of the co-accused persons (from the group), would intentionally deceive the respective victims into believing that he or she would be paid back the money which the co-accused person borrowed from them, when the said co-accused person had no intention to do so. Such offences are punishable under section 420 read with section 109 of the Penal Code Cap 224 (“PC”). Seven similar charges under section 420 read with section 109 PC, one count under section 420 read with section 116 PC as well as one count of affray under section 267B PC were taken into consideration (“TIC”) for purposes of sentencing.
+
+2       On 15 May 2019, the accused pleaded guilty to the above charges (“first set of charges”). I had called for both the probation suitability (“Probation report”) and reformative training suitability reports (“RT report”). The accused was found suitable for probation and reformative training with the recommendation that he undergoes level 1 intensity of rehabilitation[^1].
+
+3       On 17 June 2019, when the accused was due to be sentenced, the prosecution applied for an adjournment to conduct further investigations into the accused’s involvement in relation to a rioting offence committed on 14 June 2019.
+
+4       On 27 September 2019, the accused pleaded guilty to two additional charges, namely, one count of rioting, which offence is punishable under section 147 PC and one count of causing hurt by doing a negligent act as to endanger the personal safety of others, under section 337(a) PC. Two other charges, namely, of using a non-compliant power-assisted bicycle (“PAB”) and riding an unregistered PAB on a road respectively, in contravention of the Road Traffic Act Cap 276 (“RTA”) were TIC (these four charges are collectively known as the “second set of charges”).
+
+5       On 17 October 2019, the accused was sentenced to reformative training for the minimum detention period of 12 months. He filed a Notice of Appeal against sentence on 24 October 2019 and is currently serving his sentence.
+
+## Charges
+
+6       For ease of reference, the accused was convicted on the following six charges:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="0"><colgroup><col width="20.0840168033607%"> <col width="21.6643328665733%"> <col width="32.246449289858%"> <col width="26.005201040208%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Charge no.</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Date of offence</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Offence</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Punishment</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC 938190/2018</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">30 May 2018</p></td><td align="left" class="br" rowspan="4" valign="top"><p align="justify" class="Table-Para-1">Abetment by conspiracy to commit cheating (s.420 r/w s.109 PC) – 4 counts</p></td><td align="left" class="b" rowspan="4" valign="top"><p align="justify" class="Table-Para-1">Maximum: 10 years and liable to a fine ($30,000)</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC 938755/2018</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">24 July 2018</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC 938757/2018</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">4 August 2018</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC 938761/2018</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">31 October 2018</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC 926775/2019</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">14 June 2019</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Rioting (s.147 PC)</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Maximum: 7 years and liable to caning</p><p align="justify" class="Table-Para-1">&nbsp;</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">MAC 909808/2019</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">7 April 2019</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Causing hurt by a negligent act as to endanger the personal safety of others (s. 337(a) PC)</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Maximum: 6 months or a fine ($2,500) or both</p></td></tr></tbody></table>
+
+  
+  
+
+The following eleven charges were TIC for purposes of sentencing:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="0"><colgroup><col width="20.48%"> <col width="22.1%"> <col width="31.54%"> <col width="25.88%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Charge No.</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Date of offence</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Offence</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Punishment</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC 938751/2018</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">11 April 2017</p></td><td align="left" class="br" rowspan="7" valign="top"><p align="justify" class="Table-Para-1">Abetment by conspiracy to commit cheating (s.420 r/w s.109 PC) – 7 counts</p></td><td align="left" class="b" rowspan="7" valign="top"><p align="justify" class="Table-Para-1">Maximum: 10 years and liable to a fine ($30,000)</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC 938753/2018</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">15 July 2018</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC 938754/2018</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">22 July 2018</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC 938756/2018</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">4 August 2018</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC 938758/2018</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">27 August 2018</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC 938759/2018</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">20 September 2018</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC 938760/2018</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">12 October 2018</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC 938752/2018</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">21 June 2018</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Abetment by conspiracy to commit attempted cheating (s.420 r/w s.116 PC) – 1 count</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Maximum: 5 years and liable to a fine ($30,000)</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">MAC 904842/2019</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">21 June 2018</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Affray (s.267B PC)</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Maximum: 1 year or fine ($5,000) or both</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">MAC 909825/2019</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">7 April 2019</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Using non-compliant PAB (s. 5(6) p/u s.5(7) RTA)</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Maximum: 3 months or fine ($5,000) or both</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">MAC 909826/2019</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">7 April 2019</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Riding an unregistered PAB on a road (s. 10(1) p/u s. 10(3) RTA)</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Maximum: 3 months or fine ($2,000) or both</p></td></tr></tbody></table>
+
+  
+  
+
+## Summary of Facts
+
+7       The accused admitted to the Statement of Facts pertaining to the above charges, without qualification. The salient points are as follows:
+
+> Conspiracy to cheat (s. 420 read with s. 109 PC)
+
+> (a)     The co-accused persons are namely, Daniel, Joel, Disilva, Shavin, Vinothini, Anbalaghi and Vishanth[^2]. Anbalaghi[^3] is also the accused’s older sister.
+
+> (b)     The accused became acquainted with Daniel in 2017, who introduced him to the cheating scam he had with Joel. They would borrow money from strangers on the pretext of a pitiful story which they would spin, with no intention to repay the monies they borrowed from the unsuspecting victims, who trusted Daniel and Joel as they provided them with their respective contact numbers. However, they would be uncontactable subsequently. They would spend the ill-gotten gains on food, alcohol and cigarettes.
+
+> (c)     The accused was initially reluctant to participate in the scam as he knew it was wrong. However, he relented as he wanted more money to spend on food and beer, and agreed to participate in the conspiracy with the seven co-accused persons named above.
+
+> (d)     The accused persons agreed to split up and cheat victims individually and split their profits. Daniel would instruct the co-accused persons what to say to the victims. The accused had estimated that proceeds from the cheating offences were used to purchase alcohol for about ten to fifteen drinking sessions, shared amongst the accused persons.
+
+> (e)     In the four proceeded charges, the accused abetted by engaging in a conspiracy to cheat with the group and in pursuance of that conspiracy, Daniel intentionally deceived the four victims on four different occasions into believing that he would repay any money that the victims would lend him, when he had no intention of doing so. He had lied to the various victims that he had either lost money or needed money for a taxi fare to visit a friend in hospital. On these four occasions (between May to October 2018), each of the four victims had lent Daniel cash ranging from $30 to $50.
+
+> Rioting (s.147 PC)
+
+> (d)     Investigations revealed that on 14 June 2019 at about 10pm plus, the accused joined five of the co-accused persons, namely, Shavin, Anbalaghi, Dave[^4], Vishanth and Kishesh[^5], for a drinking session at the void deck of Block 353 Canberra Drive.
+
+> (e)     At about 11pm, two of the co-accused persons, namely, Anbalaghi and Kishesh left the group to a nearby mart to purchase more drinks. However, they did not return after some time. The accused and his friends decided to pack up and leave as it was getting late. While the accused and the remaining three co-accused persons were walking along the sheltered walkway of the incident location, they spotted Anbalaghi and Kishesh. Thereafter, the accused and his friends started talking amongst themselves in the middle of the walkway.
+
+> (f)     At the same time, the victims, namely, A1 to A5[^6] (referred to as “Group A”), were also walking along the same walkway. As the accused and the co-accused persons were mingling in the middle of the walkway, Group A then walked round them in order to get past them.
+
+> (g)     In the midst of doing so, A1 tripped and fell onto the accused’s rear. The accused had presumed that it was a deliberate act, and reacted by hurling vulgarities at A1, who tried to explain himself but to no avail. This resulted in a verbal dispute between the accused and A1, who found himself surrounded by the five co-accused persons.
+
+> (h)     The dispute thereafter escalated into a fray, where the accused threw a punch at A1’s head, following which, Shavin, gave him a kick. A1’s friends, namely, A2, A3 and A4 went forward to help A1, but were instead, assaulted by the accused, Shavin and Vishanth. While A4 was on the ground, he was kicked by the accused, Vishanth and Kishesh.
+
+> (i)     A5 ran to A4 to shield him from further attacks from the assailants. Whilst doing so, Anbalaghi kicked A4’s head once. A5 was also kicked once on her stomach by Anbalaghi. The fight only ended when someone shouted “Police, police”. The accused and the co-accused persons immediately dispersed from the scene whereas Group A remained behind to wait for the arrival of the police.
+
+> (j)     A4 sought medical treatment for his injuries, which consisted of scratches, bruises on various parts of his body and a chipped right upper incisor.
+
+> Causing hurt by negligent act (s. 337(a) PC)
+
+> (k)     The victim is the accused’s friend, namely, Shavin (referred to in (a) above).
+
+> (l)     On 7 April 2019 at about 9.10am, at the signalised junction of Yishun Ring Road by Yishun Ave 2, the accused was riding his PAB with Shavin as his pillon rider, when he failed to have proper control of his PAB while making a turn from Yishun Ave 2 into Yishun Ring Road. This resulted in the accused mounting the centre road divider, causing Shavin to be thrown forward and hit onto the front right portion of a stationary lorry.
+
+> (m)     Shavin, who was intoxicated at the time, sustained fractures to the left orbital wall and floor, left zygomatic arch and anterior/lateral wall of the left maxillary sinus, superficial lacerations on his left neck and superficial wounds over the left shoulder and trapezius. He was hospitalised for one day and given seven days medical leave.
+
+> (n)     The accused admitted that the he fell asleep and lost control of his PAB.
+
+## Antecedents
+
+8       The accused is a first offender.
+
+## Pre-sentence Reports
+
+9       I had called for both the probation and RT reports , following which the accused was remanded for one week from 15 May to 22 May 2019 ( both dates inclusive) in prisons to assess his suitability for reformative training. This was for the first set of offences which the accused pleaded guilty to. The accused was found suitable for probation and also recommended to undergo level 1 intensity of rehabilitation should he be sentenced to reformative training (see the RT report dated 14 June 2019 (“first RT report”)).
+
+10     In light of the additional charges which the accused pleaded guilty to, Supplementary Probation and RT reports were called, especially since the second set of charges were committed while he was on court bail for the first set of charges. The accused was found not suitable for probation. In the Supplementary RT report[^7], the accused was recommended to undergo level 2 intensity of rehabilitation.
+
+## Prosecution’s Submissions
+
+11     In light of the accused being found not suitable for probation, the prosecution sought for a sentence of reformative training at level 2 intensity of rehabilitation to be imposed. This is in view of the following aggravating factors:
+
+> a)     The accused has been assessed to be of ‘very high’ risk of re-offending[^8];
+
+> b)     He had re-offended while on court bail;
+
+> c)     There was a need for the accused to be in a closed and structured environment to help him stay focused on receiving intervention and equipping him with the relevant skills to overcome his anger management and alcohol use[^9].
+
+## Mitigation
+
+12     The accused, in his written mitigation, expressed his regret and apologised for committing the offences. He vowed to change, if given the chance, to be a better person. He accepts full responsibility for his actions. He intends to continue his studies in the Institute of Technical Education (“ITE”) and enlist into National Service (“NS”) thereafter.
+
+13     In his oral mitigation, the accused had sought for a sentence of probation stating that he was also willing to reside in a hostel and continue his studies. The accused’s father had, in open court, also pleaded on the accused’s behalf, that the accused was prepared to reform himself by enlisting into NS after he completes his studies. He had also indicated that he would want the accused to have a career in the army even after the accused had fulfilled his NS obligations.
+
+## Decision of the court
+
+### Sentencing considerations in relation to a young offender
+
+14     The two-stage approach for sentencing youthful offenders is well established (see _PP v A Karthik_ <span class="citation">\[2018\] SGHC 202</span> (“_A Karthik_”) at \[64\], citing _PP v Koh Wen Jie Boaz_ <span class="citation">\[2016\] 1 SLR 334</span> (“_Boaz Koh_”) at \[28\]) where Sundaresh Menon CJ set out the approach as follows:
+
+> …At the first stage of the sentencing process, the task for the court is to identify and prioritise the primary sentencing considerations appropriate to the youth in question having regard to all the circumstances including those of the offence. This will then set the parameters for the second stage of the inquiry, which is to select the appropriate sentence that would best meet those sentencing considerations and the priority that the sentencing judge has placed upon the relevant ones.
+
+15     As a starting point, rehabilitation is generally the dominant sentencing consideration in determining the appropriate sentence for a young offender aged 21 years and below (see _PP v Lim Chee Yin Jordan_ <span class="citation">\[2018\] SGHC 46</span> (“_Jordan Lim_”) at \[30\] citing _PP v Mok Ping Wuen Maurice_ \[1998\] 3 SLR (R) 439 (“_Maurice Mok”_) at \[21\]).
+
+16     In _A Karthik’s_ case at \[65\] – \[67\], Menon CJ laid down the relevant sentencing approach to be undertaken. At the first stage, the court is thus concerned with the threshold question of whether rehabilitation retains its primacy in the sentencing matrix. While rehabilitation is presumptively the dominant consideration when sentencing youthful offenders, its primacy may be diminished by the circumstances of the case or even eclipsed by considerations such as deterrence or retribution. This tends to be the position where: (a) the offence is serious; (b) the harm caused is severe; (c) the offender is hardened and recalcitrant; and/or (d) the conditions which make rehabilitative sentencing options such as probation or reformative training viable do not exist (_Boaz Koh_ at \[30\]). In respect of the last factor, Chan Seng Onn J suggested in _Muhammad Zuhairie Adely bin Zulkifli v PP_ <span class="citation">\[2016\] 4 SLR 697</span> (“_Zuhairie_”) at \[25\] that whether or not the conditions which make rehabilitative sentencing options viable exist may also be affected by other considerations noted by Rajah JA in _PP v Mohamed Al Ansari bin Basri_ <span class="citation">\[2008\] 1 SLR 449</span> (“_Al Ansari_”) at \[67\], namely: (a) the nature of the rehabilitation best suited for the offender; (b) the availability of familial support for the offender’s rehabilitative efforts; and (c) any other special reasons or need for rehabilitation.
+
+17     This approach to the evaluation of whether there exist conditions which make rehabilitative sentencing options viable is broadly similar to the assessment undertaken by Chao JA in _Leon Russel Francis v PP_ <span class="citation">\[2014\] 4 SLR 651</span> (“_Leon Russel Francis_”) of _whether the individual offender’s capacity for rehabilitation is demonstrably high_ so as to outweigh the concerns that are traditionally understood as militating against probation (at \[14\], cited at _Praveen s/o Krishnan v PP_ <span class="citation">\[2018\] 3 SLR 1300</span> (“_Praveen Krishnan_” at \[29\]). The rehabilitative potential of a young offender has been described as “one of the key considerations” in the court’s endeavour to strike the right balance between deterrence and rehabilitation when sentencing such on offender: _Zuhairie_ at \[30\]. The factors relevant to the assessment in this regard include the following (_Leon Russel Francis_ at \[15\]; _Praveen Krishnan_ at \[30\]):
+
+> (a)     the strength of familial support and the degree of supervision provided by the offender’s family for his rehabilitation;
+
+> (b)     the frequency and intensity of the offender’s wrongful activities;
+
+> (c)     the genuineness of remorse demonstrated by the offender; and
+
+> (d)     the presence of risk factors such as negative peers or bad habits.
+
+18     At the second stage of the _Boaz Koh_ framework, the court must select the appropriate sentence in view of the primary sentencing considerations identified and prioritised at the first stage. Where rehabilitation is the dominant sentencing consideration, probation would be one of the typical options at the court’s disposal, given that probation places rehabilitation at the front and centre of the court’s deliberation: _Boaz Koh_ at \[35\]. In contrast, where there is a need for both deterrence and rehabilitation, reformative training may be the most suitable sentence, given that it offers the court a useful middle ground between sending the offender to prison and meeting the desire to rehabilitate a young offender: _Boaz Koh_ at \[38\] –\[39\] and _Al-Ansari_ at \[57\]-\[58\].
+
+19     With the above sentencing principles in mind, I now turn to the factual matrix of the present case.
+
+#### Seriousness of the offences
+
+20     The offences committed by the accused are serious as evident in the punishments prescribed for the offences of abetment by conspiracy to cheat and that of rioting under section 420 read with section 109 PC and section 147 PC respectively (see \[6\] above). Both these offences also carry mandatory imprisonment terms.
+
+#### Culpability of the accused
+
+21     The involvement of the accused in the cheating offences spanned over more than a year, namely, from sometime in April 2017 to October 2018. The accused and his accomplices would split into pairs and approach unsuspecting victims to borrow money which they never intended to repay. There was also evidently premeditation where the accused persons preyed upon the generosity and kindness of the victims who, believed the stories spun by the accomplices and wanted to help them. I note the total value of the amount cheated was $270. Whilst this may seem a relatively small sum, nonetheless, twelve victims were duped, into lending the accused persons money, which was eventually spent on cigarettes and alcohol.
+
+22     Furthermore, the accused, by his own admission, had even carried out the same ruse on his own, at least three times a week and even on a daily basis for almost one year in 2018, as he found it ‘fun’ and a convenient way to earn ‘easy money’[^10].
+
+23     The accused also committed violence related offences, that of rioting and affray (TIC charge), against the background of having consumed alcohol on both occasions. For the former offence, he punched the victim once on the head as he perceived that he was being provoked by the victim. He further admitted to the probation officer (“PO”) that he had even continued to punch the victim two to three times even after he was being pulled away by one of his accomplices, namely, Shavin, as he wanted to help his friends involved in the fight.
+
+24     As for the affray charge, the accused also admitted that he punched the opposing party, as he was angry with the latter for hitting his cousin and accomplice, Vishanth.
+
+25     By his own admission, the accused was also involved in at least three other instances where he had acted out in violence, namely, of kicking a schoolmate, as he felt provoked by the same schoolmate showing him vulgar signs at him, as well as physical altercations with his sister’s (Anbalaghi) boyfriend, Joel, in 2016 and March 2019 respectively. The latter two incidents were in response to Joel, being physically violent towards Anbalaghi.
+
+26     It is clear from above that the accused is unable to manage his anger, as he employs the use of violence and aggression as a means to resolve conflicts. Such acts of violence would in turn be exacerbated by his consumption of alcohol, where seemingly trivial incidents of perceived provocation, would result in the accused reacting in a most disproportionate manner, as was the case for the rioting incident. The accused had also admitted to the RT officer that in relation to the rioting offence, he attributed his offending behaviour to ‘not thinking clearly due to the influence of alcohol[^11]’.
+
+27     As for the charge of causing hurt by his negligent act, the accused had admitted in the SOF that he had fallen asleep and lost control of the PAB. He further informed the PO that he was speeding at 25km/hour to 30km/hour as it was ‘thrilling’[^12]. In this latter account to the PO, it clearly demonstrated the accused’s risk-taking behaviour in throwing all caution to the wind, by not only placing the safety of himself, but also others at risk. It was purely fortuitous that no other road users were hurt, as a result of the accused’s inconsiderate actions.
+
+#### Recalcitrant offender
+
+28     It was noteworthy that the accused was first charged in court on 17 November 2018 and remanded in the Jurong Police Division for purposes of police investigations, following which he was released on bail on 23 November 2018 for the first set of offences. The accused had further committed the second set of offences in April and June 2019 respectively, while he was on court bail for the first set of offences. I was mindful that the accused had committed the rioting offence on 14 June 2019, merely three days prior to the sentencing of the first set of offences.
+
+#### Availability of familial support
+
+29     Whilst the accused’s parents may have had marital conflicts over the accused’s misbehaviours in the past, they have nonetheless, expressed confidence in supervising the accused and that he will abide by the conditions of probation. They were willing to have the accused undergo electronic monitoring or reside in a hostel, as possible conditions under probation. Additionally, they were prepared to attend parenting programmes, and make alternative arrangements to their work commitments to attend such programmes on weekday evenings, if this increased the accused’s chances of being placed on probation[^13].
+
+30     Notwithstanding the assurances given by the accused’s parents as stated above, upon closer examination of the pre-sentence reports, however, revealed several concerns, which indicate a lack of effective familial supervision. First, the accused was not receptive to his parents’ effort in tightening their supervision over him. His mother attempted to impose a curfew of 7pm on him in 2015 but she eventually gave in to his late nights as her advice and pleas for him to return home earlier, fell on deaf ears. The father also attempted to advise him to be discerning with his choice of peers, study hard and to come home early but to no avail[^14]. The accused would also not reveal to his parents the activities that he would be engaged outside which included drinking alcohol with his friends.
+
+31     Despite multiple reminders from his parents to abide by the time curfew imposed as a condition of bail, the accused continued to return home past midnight. He would in fact sneak out of the house after 10pm, carousing with his similarly inclined friends, which resulted in the commission of the rioting offence[^15]. In fact, he had justified the need to breach the time curfew in order to spend more time with his peers drinking alcohol[^16]. It was evident that the accused’s priorities were to continue to associate with his negative peers and resume his unhealthy drinking habit, without the need to exercise any form of self-restraint or remain crime free.
+
+32     Second, the parents appear to be permissive in their parenting styles. Upon physical checks done on 21 September 2019 by the Volunteer Probation Officer (“VPO”), Ms Seah, the accused was found not to be at home at 9.07pm. The accused’s mother had initially informed the VPO that the accused was not at home but subsequently retracted when interviewed by the PO on 9 October 2019, that the accused was sleeping in his bedroom. Whilst there were no explanations elicited from the mother on the change in her version of events, I found such inconsistent versions given by the mother in respect of the accused’s whereabouts troubling, as to how she could have been mistaken (if the benefit of the doubt were to be given to her). I had concerns on whether she would be able to closely monitor the accused, and thereafter give a reliable account of the accused’s movements and activities to the PO, should the accused be sentenced to probation.
+
+33     Whilst the accused’s parents had agreed for the accused to attend the ELEVATE programme[^17] on 7 June 2019, they were nonetheless, unable to ensure that he attended all 12 sessions. In fact, the accused had failed to attend nine out of 12 sessions, of which there were no valid reasons to account for his absences. The parents claimed that they were unaware of the dates of the programme and had expected the accused to attend the same[^18].
+
+34     Another example of the parents’ ineffective parenting is their perception of issuing threats of punishment on the accused that he would be locked out of the house when he misbehaved. However, as such punishments were never carried out, which resulted in the accused’s persistent bad behaviour as he learned to ‘get his way’ by ‘apologising’ and ‘promising to change’ (which would eventually turn out to be empty promises).
+
+35     The accused’s parents had further asserted that the accused was more receptive to their advice and guidance since social investigations commenced in May 2019. However, this could not be further than the truth as his parents were unable to offer any concrete examples to support their observations[^19]. Furthermore, given that the accused had re-offended on 14 June 2019, coupled with the parents’ inability to ensure that the accused attended the ELEVATE programme as stated in \[33\] above, it was evident that the parents’ permissiveness as well as the accused’s own lackadaisical attitude towards any efforts made to improve himself, did not inspire confidence for rehabilitation to take place in the community.
+
+36     Third, is the concern, similarly shared by the PO, which is that of the father’s excessive alcohol consumption, to cope with the stress and depressive moods resulting from his children’s misbehaviours since 2016. He was reported to get ‘drunk frequently and often shouted to himself or punched the wall as a way of venting his frustrations’. He would also use inappropriate methods of disciplining the children for coming home late, by occasionally smashing objects or electronic devices belonging to the children. In fact, the accused’s mother had also informed the PO that the father was ‘drunk and emotionally dysregulated’ when the accused was remanded in prison as the accused was his favourite child[^20]. She also shared that the accused’s father used to be violent towards her and the children on multiple occasions although it was unclear if he was also intoxicated during those occasions as she declined to elaborate further on this.
+
+37     By his own admission, the accused’s father shared with the PO that he drank alcohol to cope with the stress of having to face the possibility of the accused’s incarceration. He had in fact turned up for the PO’s interview on 9 October 2019, half an hour late and intoxicated with alcohol. On the day that the accused was sentenced, the PO further confirmed that the accused’s father was reeking with alcohol, when he addressed the court. While the accused’s father claimed that he was able to control his alcohol use, I was, however, not confident that he would be able to positively influence the accused, especially since the accused had gotten into trouble as a result of his own copious consumption of alcohol to begin with. It would thus be imperative for the accused’s father to first seek help for his own alcohol use, which was evidently a maladaptive way of coping with his stresses and vicissitudes of life, before he can play an effective role in assisting to rehabilitate his own son.
+
+#### Lack of genuine remorse
+
+38     There was also a lack of genuine remorse on the part of the accused where he minimised his role in the cheating offences, stating that he was merely following and accompanying his friends, notwithstanding the fact that he had benefited from the crimes.
+
+#### Unhealthy habits
+
+39     I am also mindful of the accused’s alcohol consumption which is worrying and assessed to be a risk factor. He started consuming alcohol at the age of 13 and was taking alcohol thrice a week, with his friends, even prior to the commission of the current offences[^21]. Even after the rioting offence which was committed against the background of consuming alcohol, the accused continued to consume two bottles of whisky each time on a weekly basis from June to end-August 2019, and failed to stay away from his negative peers. The accused was aware that he would sometimes get drunk and lose control of himself, resulting in further trouble. However, he continued to drink alcohol as a means of coping with his stress and would even ‘crave’ for it as he missed the feeling of being intoxicated.
+
+#### Selection of the appropriate sentence
+
+40     In view of the multiple risk factors highlighted above, the seriousness of the offences, the accused’s blatant disregard of the law in choosing to re-offend while he was on court bail, as well as his ‘limited insight into his risk-taking behaviours which contributed to his offences’ (namely, the accused’s continued alcohol use and his lack of genuine willingness to seek help to curb this unhealthy habit)[^22], a sentence with a measure of deterrence within the overarching focus on rehabilitation would thus be necessary given the accused’s young age.
+
+41     Whilst the accused made much about wanting to continue his studies in ITE and that his attendance was regular, it was noteworthy that he was nonetheless reported to be turning up late in school since January 2019. He clearly lacked the motivation to sustain any positive changes despite the help being offered by the school, to prevent the accused dropping out from ITE. It was also observed by the school that he ‘showed limited motivation to do well in school and tended to complete the minimum required standards[^23]’. Additionally, the accused admitted to being ‘lazy’ and missed five of the sessions for the ELEVATE programme. He also felt that it was ‘pointless’ to attend since he perceived that he would be sentenced to RTC.
+
+42     I therefore found the accused to be lacking in genuine commitment when he made bold promises of furthering his studies to pursue Higher NITEC in the ITE, when he had failed to make any concerted effort to improve himself (by at least attending all sessions under the ELEVATE programme) even after he had committed the rioting offence in June 2019 and pending the disposition of the case.
+
+43     Given the concerns regarding the accused’s parents’ inability to effectively supervise the accused due to their permissiveness, inappropriate methods of discipline, as well as their ‘limited insight into the accused’s need for alcohol and violence-related intervention as they perceived that Aravinthan is able to control himself effectively’[^24], there was little cause for any optimism in the accused’s successful rehabilitation in the community, should he be sentenced to probation.
+
+44     Having regard to the above, as well as the fact that the accused has been assessed to be of ‘very high’ risk of re-offending, it only fortifies my decision that probation, even with a condition of hostel residence, whilst it provided some structure and discipline, would not be sufficiently deterrent in ensuring that the accused would not re-offend in future.
+
+45     I was not confident that the accused’s parents would be able to effectively supervise the accused when he is back home from the hostel on weekends, especially since the accused had consistently failed to abide by any rules or advice that they had rendered in the past. It would appear that his sister, Anbalaghi, who was an accomplice for some of the cheating offences, was also not amenable to their parents’ supervision (and for other reasons which are not privy to this court), she too, was sentenced to RTC. Additionally, his continued association with negative peers even after he was first charged in court was also a cause for concern. Furthermore, his blatant re-offending has to be curbed and a strong message sent to the accused and any like-minded youthful offenders that such behaviour would not be tolerated.
+
+46     I was therefore of the view that a sentence of reformative training with level 2 intensity of rehabilitation, would be the appropriate sentence as it would represent a right balance between the twin goals of rehabilitation and deterrence (see _Al Ansari_ as above). Further, this would also allow him to abstain from alcohol for a period of time, while he undergoes psychology-based correctional programmes to address his criminogenic needs, intensive family programmes and further his academic studies.
+
+_The accused was sentenced to undergo reformative training for a minimum of 12 months’ detention in a reformative training centre._
+
+* * *
+
+[^1]: RT report dated 14 June 2019
+
+[^2]: The co-accused persons are Daniel Raj s/o Barnabas Ravindran (“Daniel”), Joel Elliot Andrew (“Joel”), Disilva s/o Jesudoss (“Disilva”), Shavin Aaron s/o Jesudoss (“Shavin”), Vinothini s/o Karunanithi (“Vinothini”), Anbalaghi d/o Saravanan (“Anbalaghi”) and Vishanth s/o Githandra (“Vishanth”).
+
+[^3]: Anbalaghi, 19 years old, pleaded guilty to two counts of abetment by conspiracy to cheat under section 420 read with section 109 PC and one count of causing hurt under section 323 PC. Six other charges were TIC. She was sentenced to reformative training for the minimum period of detention of 6 months.
+
+[^4]: “Dave” is also known as Dave Darren s/o Savuryrajoo
+
+[^5]: “Kishesh” is also known as “Kishesh Kumar Kelvin s/o Kumasalan”.
+
+[^6]: Group A consisted of four male youths and one female youth, aged 16 years old.
+
+[^7]: Supplementary RT report dated 16 October 2019.
+
+[^8]: Probation report on page 2 – based on the Youth Level of Service/Case Management Inventory (“YLS-CMI”), the accused’s risk of re-offending was assessed to be high; in the Supplementary probation report at \[6.1\], the accused’s risk of re-offending was assessed to be ‘very high’.
+
+[^9]: Supplementary RT report at \[6.3\]
+
+[^10]: Probation report at \[9\]
+
+[^11]: Supplementary RT report on page 6
+
+[^12]: Supplementary probation report at \[2.2.1\]
+
+[^13]: Supplementary probation report at \[5.2\]
+
+[^14]: Probation report on page 4 at \[3\]
+
+[^15]: Supplementary RT report on page 4
+
+[^16]: Supplementary RT report on page 6
+
+[^17]: The ELEVATE programme is aimed to prevent youths from dropping out from the Institute of Technical Education (“ITE”) by providing financial remuneration, enhanced academic and social support – Supplementary probation report at \[3.1.2\].
+
+[^18]: Supplementary probation report at \[3.1.2\] and \[3.1.4\].
+
+[^19]: Supplementary probation report at \[5.1\]
+
+[^20]: Probation report – pages 4 and 5
+
+[^21]: Supplementary RT report – page 5
+
+[^22]: Supplementary probation report at \[6.1\]; at \[4.4\], it would appear that the accused was initially resistant to attending any substance use intervention programmes, asserting that he did not have an alcohol problem to begin with, and where he claimed that he was able to control his alcohol consumption by ‘distracting himself’ or getting his girlfriend to remind him about saving money instead of buying alcohol. He was subsequently only willing to receive counselling if he was given a chance to be placed on probation. It would seem to suggest that the accused was only willing to do so if that would ensure that he be placed on probation.
+
+[^23]: Supplementary probation report at \[3.1.1\]
+
+[^24]: Supplementary probation report at \[6.2\]
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F23813-SSP.xml)
