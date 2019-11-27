@@ -1,0 +1,271 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Chan Cheng  
+
+### \[2019\] SGDC 245
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">DAC 943332/16 &amp; Ors</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">19 November 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Shaiffudin Bin Saruwan</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">DPP James Chew for the Prosecution; Mr Ramesh Tiwary for the Accused</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Chan Cheng</td></tr></tbody></table>
+
+\[LawNet Editorial Note: An appeal to this decision has been filed in MA 9178/2019/01.\]
+
+19 November 2019
+
+### District Judge Shaiffudin Bin Saruwan:
+
+## INTRODUCTION
+
+The Accused claimed trial to five charges of outrage of modesty under s 354 of the Penal Code (Cap 224, Rev Ed 1985). These offences were alleged to have been committed at the Guillemard Camp, 1st Singapore Infantry Regiment, Old Airport Road. The five charges were -
+
+> (i)     Rubbing the private part of Victim 1 (“PW2”) on 29 Jun 99 between 12.00 am to 1.00 am (DAC 943332/16);
+
+> (ii)     Rubbing the private part of Victim 2 (“PW6”) on 29 Jun 99 sometime after 12.00 am (DAC 946262/16);
+
+> (iii)     Touching the private part of Victim 3 (“PW1”) on 29 Jun 99 at about 1.45 am (DAC 946263/16);
+
+> (iv)     Touching the private part of Victim 4 (‘PW4”) on 29 Jun 99 at about 6.00 to 7.00 am (DAC 946264/16); and
+
+> (v)     Touching the private part of Victim 5 (“PW3”) sometime on the night of 28 Jun 16 (DAC 946271/16).
+
+2       DPP James Chew appeared for the prosecution. Mr Ramesh Tiwary represented the Accused. At the end of the trial, I convicted the Accused on all charges. He consented to have the remaining seven similar charges taken into consideration for the purposes of sentencing. After hearing the respective parties’ submissions, I sentenced him to the following -
+
+> (i)     DAC 943332/16 – 10 months’ imprisonment.
+
+> (ii)     DAC 946262/16 – 10 months’ imprisonment.
+
+> (iii)     DAC 946263/16 – 14 months’ imprisonment.
+
+> (iv)     DAC 946264/16 – 14 months’ imprisonment.
+
+> (v)     DAC 946271/16 – 14 months’ imprisonment.
+
+I ordered the sentences in (i), (iii) and (iv) to run consecutively. Pursuant to s 325(2) of the Criminal Procedure Code (“CPC”), I also imposed an additional five months’ imprisonment in lieu of caning. The total aggregate sentence was therefore 43 months’ imprisonment.
+
+3       The Accused was dissatisfied with his conviction and sentence, and he has lodge an appeal against both.
+
+## THE TRIAL
+
+## The Case for the Prosecution
+
+### Background
+
+4       Between 28 to 30 Jun 99, Greenview Secondary School (‘the school”) conducted a 3-day camp for its 13 years old secondary one male students. The camp was held at the Guillemard Camp, 1st Singapore Infantry Regiment, at Old Airport Road. The camp was entitled “Youths Tomorrow Programme”. Its purpose was to equip the students with life skills. The camp commandant was teacher William Ho (PW11). He was the school’s head of discipline. A number of other teachers were also involved in the running of the camp. They were helped by some student leaders from the school’s secondary two cohort.
+
+5       The Accused was then a psychology lecturer at the National University of Singapore (NUS). The school had engaged him to prepare the programme content for the camp. He was present throughout the period of the camp, and had personally conducted some segments of its activities. He slept in one of the bunks together with the secondary one students.
+
+6       The bunks where the secondary one students slept comprised a rectangular shaped room with double-decker beds lined up in two rows along the two opposite walls of the bunk. There was only one doorway for entry and exit.
+
+### Facts relating to 1st Charge (DAC 943332/16)
+
+7       PW2 was a secondary one student at the school. He testified that just after midnight on the first night of the camp, he was sitting on his bed, which was the upper bed, and chatting with his friend, PW7. The bunk lights were still on at the time. The Accused had approached him and asked him if he could sleep. At the same time, the Accused began massaging his left thigh. PW2 was wearing shorts at the time. The Accused then moved his hand to PW2’s private part. When his private part was touched by the Accused, PW2 felt uneasy and used his right hand to swipe the Acused’s hand away a few seconds later. The Accused then left the bunk[^1].
+
+8       The incident was witnessed by PW7. He testified that after midnight of the first night of the camp, he was sitting on his own bed (also the upper bed) chatting with PW2. Whilst they were chatting, the Accused had approached PW2 and asked PW2 if he was okay and if he was in pain. After that, the Accused started to massage PW2’s thighs. Then his hands moved upwards to PW2’s private part. He saw the Accused rubbing PW2’s private part in a circular motion. After that, he saw the Accused walked away. PW7 said PW2 had looked shocked by what the Accused had done[^2].
+
+### Facts relating to 2nd Charge (DAC 946262/16)
+
+9       PW6 testified that after midnight on the first night of the camp, he was lying in his bed (the upper bed) and talking with his friend, PW8. The Accused approached his bed and asked him if he was feeling tired. PW6 replied that his legs were feeling a bit painful. The Accused started to massage his legs. PW6 was wearing shorts at the time. In the course of the massage, the Accused moved his hands up to PW6’s thighs, and then to his private part. PW6 said the Accused then touched his private part over his shorts[^3]. PW6 felt shocked by this. PW6 said after that, the Accused walked away.
+
+10     PW8 testified that he was lying down on his own bed when he saw the Accused putting his hand on PW6’s thigh in a gripping motion and then his hand moved onto PW6’s private part. He then saw the Accused’s hand moving in a circular motion when it was on PW6’s private part[^4].
+
+### Facts relating to 3rd Charge (DAC 946263/16)
+
+11     PW1 testified that at about 1.45 am on the first night of the camp, he was sitting on his bed (the upper bed) when he saw the Accused talking to his friend. When the Accused turned towards his direction, he lied down and pretended to sleep. He said the Accused then approached his bed and asked why he was not able to sleep. PW1 made up an excuse that he felt pain on his right leg. The Accused then told PW1 to go to the Accused’s bed and lie down on it. The Accused’s bed was on the left of PW1’s bed. The Accused then began to massage PW1’s right leg. In the course of the massage, he slid his hand up to PW1’s thigh near the groin area. The Accused then slid his hand over PW1’s private part. He did this once or twice. Then he put his hand into PW1’s shorts and over his private part. He repeated this action. When PW1 tried to get up, the Accused used his left hand to hold PW1’s shoulder’s down, and at the same time telling PW1 to relax. The Accused continued to massage PW1’s thigh area. After that, he told PW1 to return to his bed. Throughout this time, PW1 had felt embarrassed and scared[^5].
+
+### Facts relating to 4th Charge (DAC 946264/16)
+
+12     PW4 testified that after 6 am in the morning of the 29 Jun 99, he had taken his shower and was in his bunk. Whilst he was chatting with his friends, the Accused had approached them and asked if they had taken their showers. When they said yes, he asked them if they had applied powder on their body. PW4 replied that he did not use powder. The Accused then told PW4 to follow him to the Accused’s bed. At the bed, the Accused told PW4 to lift his shirt up. The Accused then poured some body powder onto the palm of his hand, and rubbed the powder onto both PW4’s armpits. He then told PW4 to pull his shorts forward. PW4 complied. The Accused again poured some powder on the palm of his hand, put that hand into PW4’s shorts, applied the powder on PW4’s penis, and caressed it for a few seconds. After that, he pulled his hand out. This series of acts had left PW4 so stunned that he did not know how to react[^6].
+
+### Facts relating to 11th (DAC 946271/16)
+
+13     PW3 testified that sometime on the first night of the camp, he and some of the boys were in the toilet during shower time. Two boys would shower in one shower cubicle at the same time. The Accused was present to supervise. When PW3 was showering in one cubicle with another boy, he called out to the Accused for help as he was unable to open his soap bottle. After the Accused had opened the bottle for him, he asked PW3 why he had worn his underwear. When PW3 replied that he was shy and was uncomfortable about being naked, the Accused instructed him to take it off. PW3 complied. The Accused then told him to lift up his hands. The Accused then used his hand and stroked PW3 from his armpit down to his chest, stomach and his private part. After touching PW3’s private part, the Accused then slid his hand back up to PW3’s chest. The Accused then told PW3 to apply soap to these areas of his body. He then left[^7].
+
+### How the offences were discovered
+
+14     Sometime past midnight on the second night of the camp, PW5, a secondary two student leader, had gone up to the boys’ bunk to look for the Accused and other student leaders to attend a debriefing session. In the bunk, PW5 saw the Accused sitting beside one of the boys who was lying down on the lower bed. PW5 saw the Accused touched the boy’s private part and moving his hand in a circular motion. PW5 was unsure of what to do. So he merely told the Accused about the debriefing session and left[^8].
+
+15     The next morning, PW5 informed PW11 about what he had seen. PW11 interviewed the boy. During the interview, the boy disclosed that the Accused had also touched some other boys. Another series of interviews followed. PW11 wrote down what the boys had told him. PW11 also instructed PW5 to write down what he had seen.
+
+16     PW11 then informed his vice-principal (“PW10”) about the allegations against the Accused. PW10 and the school’s operations manager subsequently arrived at the camp. PW10 spoke to PW11 and read the interview notes written by PW11. After consulting the School Inspector, PW10 and another teacher discreetly brought the boys to Geylang Police Station to lodge a police report.
+
+17     Police investigations then commenced. On 27 Nov 99, the Accused was placed under arrest and the charges served on him. He was released on bail and was informed to attend court on 29 Nov 99. He did not attend court. He absconded his bail, fleeing to Malaysia using his brother’s passport. He remained there until his extradition on 7 Dec 16.
+
+## The Case for the Defence
+
+18     The Accused denied all the allegations. He claimed that none of these incidents had occurred. According to him, the camp was modelled after the Boot Camp for young offenders. It has the same conceptual framework, which was to deliver a “short, sharp, shock” impact on the students. This was achieved through subjecting the students to tough military-like drills that was aimed at breaking the will and establish conformity to instil discipline and obedience.
+
+19     Mr Tiwary pointed out that the physically punishing tone of the camp had caused unhappiness and discontent among the students. In particular, on the first night, the Accused had personally conducted a rigorously punishing drill session that had stretched the students’ physical endurance to almost breaking point. Mr Tiwary also led evidence of an altercation between the Accused and a student named Jeb. This incident was reported and known by the school’s teachers who were present at the camp, and the school principal as well.
+
+20     In relation to the specific allegations of molest, the defence arguments could be divided into the following broad categories –
+
+> (a)     It was highly unlikely that the Accused had committed these acts of molest in full view of the other students given that the incidents of molests were alleged to have been committed in the bunk. It would have been foolhardy for the Accused to even attempt to do these acts.
+
+> (b)     Despite the presence of other students in the bunks, it was pertinent that none of these students had come forward to give evidence as to what they had seen.
+
+> (c)     The evidence of the victims and the other prosecution witnesses were replete with inconsistencies, both internally and externally such that their credibility were doubtful.
+
+21     Mr Tiwary argued that there is no burden placed on the defence to prove anything. The burden of proof rest ultimately on the prosecution to prove beyond reasonable doubt. In summation, he argued that the evidence adduced by the prosecution did not meet the standard required to convict the Accused on the charges.
+
+## ANALYSIS OF THE EVIDENCE
+
+## The General Approach In Assessing Credibility
+
+22     The general approach that the court has to take when assessing witnesses’ credibility in sexual offences was laid down in _Tang Kim Seng v PP_ \[1996\] 3 SLR(R). Former CJ Yong Pung How stated (at \[39\] and \[44\]) –
+
+> “In a trial for sexual offences, what is important is that the evidence is weighed carefully, always bearing in mind the relevant aspects of human nature and behaviour. It would be wrong to be bogged down by technicalities especially when it has no logical problem at hand…
+
+> In my view, **the right approach is to analyse the evidence for the prosecution and for the defence, and decide whether the complainant’s evidence is so reliable that a conviction based solely on it is not unsafe. If it is not, it is necessary to identify which aspect of it is not so convincing and for which supporting evidence is required or desired.** In assessing the supporting evidence, the question then is whether this supporting evidence makes up for the weakness in the complainant’s evidence. All these would, of course, have to be done in light of all the circumstances of each case and all the evidence, including the defence evidence, as well as accumulated knowledge of human behaviour and common sense.”
+
+> (Emphasis added)
+
+23     In a case where there was no independent eye witness to the act of molest, the law was clear that in such a case, there was no formal legal requirement for corroboration. It was not a strict rule that the court must remind itself of the danger of convicting based on the testimony of only the victim. But the court must remind itself that the testimony “_…must be unusually convincing in order to prove her case beyond a reasonable doubt without independent corroboration_”: _XP v PP_ <span class="citation">\[2008\] 4 SLR(R) 686</span> at \[27\]. In this context, the term “unusually convincing” was explained by the Court of Appeal in _PP v Mohammed Liton Muhammed Syeed Mallik_ <span class="citation">\[2008\] 1 SLR(R) 601</span> at \[39\] as –
+
+> “… In our view, therefore, the “extra something’ implied by the word “unusually” must refer to the need for the trial judge to be aware of the dangers of convicting solely on the complainant’s testimony as well as of the importance of convicting only on testimony that, **when weighed against the overall backdrop of the available facts and circumstances, contains that ring of truth which leaves the court satisfied that no reasonable doubt exists in favour of the accused**.”
+
+> (Emphasis added)
+
+24     In the present case, the offences were committed in 1999. Human fallibility in observation, retention and recollection comes into sharper focus. The question that I have to ask myself was whether the alleged discrepancies or inconsistencies in the witness’s testimony were sufficient to destroy credibility. If, after considering the discrepancies or inconsistencies, I found that they do not detract from the value of the testimony, it was proper for me to regard the discrepancies or inconsistencies as being trivial and non-material and I could disregard them. On the other hand, if I found that the discrepancies or inconsistencies related to a material point that would seriously affect the value of the testimony, then I have to weigh the evidence carefully in arriving at the truth.
+
+25     Parallel to this, I was mindful that a witness should not be found to be less credible merely because of gaps in his or her memory, particularly where a long period of time has passed since the occurrence of the events in question: _Sandz Solutions (Singapore) Pte Ltd and others v Strategic Worldwide Assets Ltd and others_ <span class="citation">\[2014\] 3 SLR 562</span> at \[56\].
+
+## The 1st charge (DAC 943332/16)
+
+26     Mr Tiwary highlighted what he regarded as significant inconsistencies in the evidence of PW2 and PW7 that cast serious doubts on their overall credibility. These were –
+
+> (i)     PW2 had said in court that the Accused had touched his private part, and he could not remember what exactly the Accused had done when his hand was on PW2’s private part. Significantly, the allegation in the charge was that the Accused had rubbed PW2’s private part.
+
+> (ii)     PW2 said the Accused had touched his private part for a few seconds. PW7 said it was less than 60 seconds.
+
+> (iii)     In examination-in-chief, PW2 said the incident happened at 12.45 am. In cross-examination, he said he could not be sure when it happened.
+
+27     I found the inconsistencies highlighted above not material. In fact, these discrepancies were understandable given the long passage of time. Although PW2 could not remember what the Accused had done when the Accused had touched his private part, he was sure that the Accused had touched it for a few seconds before he swiped the Accused’s hand away. This showed that the touch was not accidental, and was unsolicited and unwanted. The use of the word ‘rub’ in the charge was corroborated and supported by the evidence of PW7 who said he saw the Accused touched PW2’s private part and then moved his hand in a circular motion. That description was no different from the act of rubbing PW2’s private part. The discrepancy in the duration of the molestation was not significant or material. It merely underlined the fact that these two witnesses had not fabricated their evidence.
+
+28     The inconsistencies in relation to the time the incident had happened was also not significant to affect their credibility. What was clear from their evidence was that the incident had happened when they were in their respective bunks getting ready to sleep. Extrapolating from the camp programme (Exhibit P18C), it would put the time roughly between 12.00 midnight and 1.00 am. This timeframe was wholly consistent with the evidence adduced by PW2 and PW7.
+
+## The 2nd charge (DAC 946262/16)
+
+29     The same argument was made; that in court, PW6 had said that the Accused had only touched his private part, and that he could not remember specifically what the Accused had done when the Accused touched his private part. This was in stark contrast to the allegation put in the charge, that the Accused had rubbed his private part. Notwithstanding this purported inconsistency, it was pertinent to note that PW8 had clearly said that the Accused had touched PW6’s private part with his hand and then he moved his hand in a circular motion. Again, this was the same as the act of rubbing PW6’s private part.
+
+## The 3rd charge (DAC 946263/16)
+
+30     Mr Tiwary argued that PW1 was not telling the truth because it was inexplicable that no other student had come forward to testify when the act was committed in full view of the other students in the bunk, and it lasted some three to five minutes. I found this argument to be at best neutral. Although it would have been advantageous for the prosecution if there had been other students who had witnessed the incident and came forward to testify, but the fact that there were none did not mean that PW1 was not telling the truth. I have to weigh his evidence against the overall backdrop of the available facts and circumstances, and see if his evidence contained that ring of truth such that no reasonable doubt existed in favour of the accused. In this case, it was pertinent to note that PW1’s evidence in court was entirely consistent with the account that he gave to PW11 on the morning of 30 Jun 99. On weighing his evidence against the overall backdrop of the available facts and circumstances, I found that PW1’s evidence had that “ring of truth” and I was satisfied that no reasonable doubt existed in favour of the accused.
+
+## The 4th charge (DAC 946264/16)
+
+31     Mr Tiwary argued that PW4’s evidence was not credible because the students were not supposed to shower in the morning. However, there was no evidence suggesting that having a shower in the morning was prohibited. There was no evidence to show that it was impossible for PW4 to have showered in the morning. Further, the camp programme had merely described the activity between 6.30 to 7.00 am as “Wash and Groom”. It was plausible that PW4 had showered, then returned to the bunk, and got ready for the day’s activities. Pertinently, PW4’s evidence in court was also entirely consistent with his detailed account of the incident that he gave to PW11 on the morning of 30 Jun 99, and which PW11 had noted down. I was satisfied of PW4’s credibility and that his evidence had that “ring of truth” when weighed against the backdrop of the available facts and circumstances.
+
+## The 11th charge (DAC 946271/16)
+
+32     Mr Tiwary focused on the discrepancy between what PW3 had said in court regarding the act of molest and what was alleged in the charge. In court, PW3 had testified that the Accused had touched his private part[^9]. However the allegation complained of in the charge was that of rubbing PW3’s private part[^10]. That meant that PW3 must have used that word in his police statement. Admittedly, PW3 had used the word ‘touched’ instead of ‘rub’ or ‘rubbing’ in court. However, his use of the word ‘touch’ must be looked at contextually. In Court, PW3 had given a detailed description of the Accused’s action on his body. He testified that the Accused had stroked his body from his armpit down to the centre of his chest, and then all the way down to his private part. He also said that the Accused had done this in one continuous motion; that the Accused’s hand was always touching his body throughout the one continuous motion[^11]. In cross-examination, PW3 elaborated by saying that the Accused had used the palm of his hand to touch his body, and slide it from his armpit to his chest and down to his private part and then slide it back up again[^12]. In my opinion, this description of the Accused’s action of sliding the palm of his hand down from PW3’s chest to his private part and then sliding it back up to the chest again was tantamount to the act of rubbing the private part.
+
+## The Overall Credibility of the Prosecution Witnesses
+
+33     Looking at the evidence of the prosecution witnesses in their totality, I was satisfied that they were telling the truth. They gave their evidence in a forthright and convincing manner. Understandably, some of them showed some reticence when testifying given the nature of the offences and the circumstances in which they had been committed on them. Admittedly, there were discrepancies in some aspects of their evidence, for example in relation to timings. However, I was satisfied that these discrepancies were attributed to the long lapse of time between the offences and their testimonies, and not because they were fabricating evidence.
+
+34     Their evidence exhibited internal and external consistencies. The accounts given by PW2 and PW6 were corroborated by PW7 and PW8. Their stories were consistent in all the material particulars. They had not been discredited during cross-examination. The evidence of PW1 and PW 4 were also consistent with the contemporaneous accounts that they gave to their teacher PW11 on 30 Jun 99 (Exhibit P19).
+
+35     I did not find any credible evidence to suggest that the students were fabricating evidence or trying to frame the Accused. There was no reason or motive for them to want to do so. The Accused was a total stranger to them. There was no cogent evidence that they had harboured a grudge against him and therefore formulated a plan to accuse him of molest. As DPP Chew rightly pointed out, it was inconceivable for these students to have colluded to frame him up for molesting them because they bore a grudge against the Accused for ‘torturing’ them during the foot drill session.
+
+36     In fact, the very nature of their allegations and how they had come to light eliminated any possibility of a collusion. It was a significant point that the initial complaint had come from a third party ie PW5, and not from any one of them. The Accused’s perverted actions became unravelled when PW5 walked into a bunk one night looking for the Accused and chanced upon him molesting a student. It was PW5’s complaint to PW11 that started the investigation. PW5 testified in court and I was satisfied that he was a truthful witness. I did not find any cogent evidence of a motive or reason for him to fabricate evidence of what he saw.
+
+37     The Accused had made an oblique attempt at a motive for framing him up. His case was that there was a punishing drill session which he conducted on the first night. This was aimed as a punishment the participants. According to him, the students were physically spent after the drill session and had sought revenge on him. I agree with DPP Chew that this argument was illogical and untenable.
+
+## The Accused’s Credibility
+
+38     The Accused’s defence was a bare denial of all the allegations. His version of events was not borne out by the evidence. He asserted that he had conducted a rigorous and punishing foot drill session on the first night. This was critical to his defence because this laid the foundation for a motive for the students to frame him with the allegations of molest. The camp programme confirmed that a foot drill session was scheduled from 9.30 pm to 11.00 pm. But it was to be conducted by the Parade Commander, not the Accused. The Accused was scheduled to conduct a briefing for the teachers and helpers during this time period. I acknowledged that the Accused could have skipped the briefing and conducted the foot drill himself. However, significantly none of the prosecution witnesses remembered this session. I found this very telling because if the Accused was to be believed, the foot drill was a singular event because of its very rigorous and punishing nature that was designed to push the students to breaking point. Such a singular event, much like being molested, would have been etched in the students’ memory. I found that the fact that none of the witnesses had recalled the event suggested that it had not taken place.
+
+39     Another important facet of the Accused’s defence was that the molestations could not have been committed because at those times, the students were doing an activity called ‘Reflections’. The Accused claimed that during this activity, the students had gathered on the floor of the bunk where they would pen down their reflections for the day. As rightly pointed out by DPP Chew, the evidence did not support this. Firstly, none of the prosecution witnesses remembered such an activity where they had all gathered on the floor of the bunk and written their reflections. In fact, PW3 recalled that they were allowed to write down their reflections at their own time. His evidence seemed to be consistent with the camp programme, where the last activity for the day was described as ‘Reflection & Lights out’. This showed that ‘Reflections’ was not a formal or standalone activity as the Accused had claimed.
+
+40     The Accused denied that he had met or spoken to PW5 as described by PW5. As I had stated earlier, there was no evidence to suggest that PW5 was fabricating his evidence. I was satisfied that he was telling the truth. There was no evidence that he bore a grudge against the Accused. The only motive for him to fabricate his evidence was that he was part of the conspiracy that involved the prosecution witnesses to frame the Accused. I agreed with DPP Chew that the defence case theory was untenable and ludicrous.
+
+41     For the reasons in the preceding paragraphs, I was satisfied that the proceeded charges against the Accused have been proven beyond reasonable doubt. I therefore found him guilty and convicted him on all the proceeded charges.
+
+## THE SENTENCE
+
+42     The Accused was a first offender.
+
+43     The prescribed punishment for s 354 PC was “_imprisonment for a term which may extend to 2 years, or with fine, or with caning, or with any combination of such punishments_”. As these offences were committed in 1999, the prevailing sentencing benchmark was that as laid down in _Chandresh Patel v PP_ \[1995\] 1 CLAS News 323; MA 357/1993. The starting point for outrage of modesty where a victim’s private parts or sexual organs were intruded was nine months’ imprisonment with caning.
+
+## The Prosecution’s Sentencing Submission
+
+44     DPP Chew submitted that the sentencing framework ie the sentencing bands laid down in _Kunasekaran s/o Kalimuthu Somasundara v PP_ <span class="citation">\[2018\] 4 SLR 580</span> (“_Kunasekaran_”) could be used to provide an analytical framework in sentencing. This was for two reasons; one, the offence and maximum punishment were the same, and two, the principle of prospective overruling was not invoked in _Kunasekaran_.
+
+45     He then set out the sentencing bands in _Kunasekaran_ -
+
+> (i)      **Band 1 (less than five months’ imprisonment)**: This typically involved fleeting touches or no skin to skin contact, and no intrusion of the private parts.
+
+> (j)      **Band 2 (five to 15 months’ imprisonment)**: The lower end of this band involved cases where the private parts of the victim were intruded, but there was no skin to skin contact. The higher end of the band involved cases where there was skin to skin contact with the private parts.
+
+> (k)      **Band 3 (15 to 24 months’ imprisonment)**: This involved cases where there were exploitation of a particularly vulnerable victim, serious abuse of position of trust, and/or the use of violence or force on the victim.
+
+46     Applying the above bands, DPP Chew sought for at least 12 months’ imprisonment each for the charges DAC 943332/16 and DAC 946262/16, where there were no skin to skin contact, and at least 15 months’ imprisonment each for the charges DAC 946263/16, DAC 946264/16 and DAC 946271/16 where there were skin to skin contact. DPP Chew submitted that the sentences for the latter three charges should run consecutively, making the total sentence 45 months’ imprisonment.
+
+47     In asking for these sentences, DPP Chew highlighted the relevant offence-specific and offender-specific factors. The offence-specific factors included -
+
+> (i)     At 13 years old, the victims were young. The Accused had exploited their youthfulness, immaturity and vulnerability.
+
+> (ii)     As the Camp Commandant, the Accused was in charge of the camp programme. He had also slept in the same bunk as the victims. His acts of molest represented serious abuses of trust reposed on him by virtue of his position and authority he exercised over the victims.
+
+> (iii)     His use of various pretexts, _inter alia_, massaging tired or sore muscles and applying powder showed premeditation.
+
+48     The offender-specific factors were -
+
+> (i)     He absconded to Malaysia just before he was to appear in Court to be charged. He had used his brother’s passport to enter Malaysia, where he remained for 17 years.
+
+> (ii)     By claiming trial, he has not shown remorse for his actions.
+
+49     DPP Chew highlighted that under the _Chandresh Patel_ benchmark, caning was warranted because there were intrusions of private parts, the victims were young, and there was abuse of trust. Applying the rate of two to three strokes for each charge, the Accused would have received a total of 10 to 15 strokes. However, the Accused could not be caned because he was over 50 years old. DPP Chew submitted that imprisonment in lieu of caning should be imposed for three reasons. Firstly, the seriousness of the offences and the aggravating factors warranted the additional imprisonment to compensate for the lost deterrent effect that caning would have. Secondly, the Accused had escaped liability for caning because he had absconded since 1999. He should not enjoy the benefit of his illegal act. Lastly, the imprisonment sentence in lieu of caning was not of such length that the additional deterrent effect was marginal.
+
+50     In lieu of the 10-15 strokes that he should have received, DPP Chew submitted that the Court should impose five months’ imprisonment. This was in line with the guidelines set out in _Amin Bin Abdullah v PP_ <span class="citation">\[2017\] 5 SLR 904</span> (at \[89\]) (“_Amin Bin Abdullah_”) which stated that the indicative range for seven to 12 strokes was a term of three to six months’ imprisonment.
+
+## The Mitigation Plea
+
+51     Mr Tiwary disclosed that the Accused had received a doctorate in Philosophy in Experimental Psychology and Computer Science from Wilson College, Oxford. He was a dedicated student who had made it to the Dean’s list. At the time of the offences, he had been working. He enclosed a series of the Accused’s testimonials attesting to his character.
+
+52     Mr Tiwary emphasised his unblemished record up to 1999. His reputation has been irrevocably tarnished by the convictions. This alone was sufficient punishment for him. During the period as a fugitive in Malaysia, he had continued to work with the less privileged, the elderly and young children in need. He had also helped out financially in the programmes that he ran. In highlighting the Accused’s contributions towards society, Mr Tiwary was trying to show that the offences were out of sync with his general good character.
+
+53     For the reasons which he had set out, Mr Tiwary sought for four months’ imprisonment for the non skin-to-skin contact charges, and six months’ imprisonment for the skin-to-skin contact charges. He also submitted the aggregate total sentence should not be more than 10 months’ imprisonment. He argued that anything more than this was manifestly excessive.
+
+## The Reasons for the Sentences
+
+54     The primary sentencing considerations in this case were retribution and deterrence. Where the outrage of modesty involved the victim’s private parts or sexual organs, the starting point was nine months’ imprisonment with caning: _Chow Yee Sze v PP_ <span class="citation">\[2011\] 1 SLR 481</span>, following _Chandresh Patel_. The custodial starting point applied even if there was no use of force or coercion, and the touch was fleeting in nature. Case precedents showed that sentences of between six to nine months have been imposed in such cases: _Chow Yee Sze_ at \[10\] and \[11\]. In the present case, the acts of molest in the five charges were not fleeting touches. Therefore, the defence’s sentencing submission of four months’ imprisonment (for non-skin contact) and six months’ imprisonment (for skin to skin contact) were not in line with the case precedents.
+
+55     In this case, I applied the sentencing framework for s 354(1) outrage of modesty _simpliciter_ offences in _Kunasekaran_ as it provided a useful analytical framework in determining the appropriate sentences for the individual charges. I noted the following offence-specific factors present. The victims were 13 years old at the time of the offences which placed them into the category of vulnerable victims. The Accused had taken advantage of and exploited their vulnerability. As the Camp Commandant, the abuse of trust and authority reposed in him by the victims’ school and parents was particularly egregious. There was also premeditation. Therefore, I was of the view that the case fell into the Sentencing Band 2 category. In Band 2, the sentence ranged from five to 15 months’ imprisonment.
+
+56     Next, I considered the offender-specific aggravating factors. Seven similar charges were taken into consideration. He had not pleaded guilty, as such a sentencing discount could not be given. In his favour, the Accused had a clean record prior to these offences. His contribution in relation to his work with young people and troubled teens was noted.
+
+57     After considering the offence-specific and offender-specific factors above, for the two non-skin contact charges, I was of the view that they fell in the middle of the sentencing band 2. Therefore, the sentence should be 10 months’ imprisonment for each charge. For the three skin-to-skin contact charges, they fell in the upper end of the sentencing range. After considering the same offence-specific and offender-specific factors, I was of the view that the sentence should be 14 months’ imprisonment on each charge.
+
+58     In determining the total aggregate sentence, I noted that the Accused had committed 12 distinct offences involving 12 distinct victims, all of them vulnerable. To reflect the Accused’s high culpability and the need for general and specific deterrence I ordered three sentences to run consecutively. These are DAC 943322/16, DAC 946263/16 and DAC 946264/16, making the total aggregate sentence 38 months’ imprisonment.
+
+59     The egregious nature of the offences also warranted the imposition of caning. In my view one to two strokes of the cane for the two non-skin contact charges, and three to four strokes for the three skin-to-skin contact charges were warranted. Be that as it may, the Accused could not be caned. In such a situation, the starting point was that no imprisonment in lieu of caning should be ordered unless there were grounds to do so: _Amin Bin Abdullah_.
+
+60     In this case, I was of the view that there were compelling reasons for imposing imprisonment in lieu of caning. The Accused was now not liable for caning because he had fled to Malaysia in 1999. Not only had he absconded whilst on station bail, he had entered Malaysia under a false pretext ie by using his brother’s passport. He could not now enjoy the benefit accruing from his wrongful action. Second, the gravity of the offences warranted the enhanced sentence. The sentence of caning in cases of this nature was a critical component of general and specific deterrence, and retribution. Failure to impose imprisonment in lieu of caning in this case, in light of the egregious nature of the offences, would dilute the effects of the deterrence and retribution principles. Applying the guidelines set out in _Amin Bin Abdullah_ (at \[89\]), I therefore imposed an additional sentence of five month’s imprisonment in lieu of caning. This was on the basis that I would have ordered 11 to 16 strokes of the cane for the five charges (see \[28\]). The total aggregate imprisonment sentence that the Accused have to serve was therefore 43 months’ imprisonment.
+
+61     The Accused is currently on bail pending the appeal.
+
+* * *
+
+[^1]: NE, 16 Apr 18, page 58-63.
+
+[^2]: NE, 21 Aug 18, page 5-11.
+
+[^3]: NE, 20 Aug 18 (PM), page 5-7.
+
+[^4]: NE, 24 Aug 18, pages 4-10.
+
+[^5]: NE, 16 Apr 18, pages 9-15.
+
+[^6]: NE, 17 Apr 16, pages 52-59.
+
+[^7]: NE, 17 Apr 18, pages 7-12.
+
+[^8]: NE, 20 Aug 18, pages 7-10.
+
+[^9]: NE, 17 Apr 18, page 32 lines 20-25.
+
+[^10]: NE, 17 Apr 19, page 16, lines 18 to 21.
+
+[^11]: NE, 17 Apr 18, page 10 line 17 to page 11 line 23.
+
+[^12]: NE, 17 Apr 18, page 31 line 15 to page 32 line 11.
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F23822-SSP.xml)
