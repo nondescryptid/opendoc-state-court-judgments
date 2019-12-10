@@ -1,0 +1,141 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Ravindran s/o Thangavelu  
+
+### \[2019\] SGDC 260
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">DAC 919562/18 &amp; Ors</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">03 December 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Shaiffudin Bin Saruwan</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">DPP Dillon Kok for the Prosecution; Accused in person</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Ravindran s/o Thangavelu</td></tr></tbody></table>
+
+\[LawNet Editorial Note: An appeal to this decision has been filed in MA 9271/2019/01.\]
+
+3 December 2019
+
+### District Judge Shaiffudin Bin Saruwan:
+
+## INTRODUCTION
+
+The Accused had claimed trial to one charge of failing, without reasonable excuse, to provide a specimen of his urine within such time as required by SSSgt Mohamad Salihin Bin Ibnor (“SSSgt Salihin”), an officer attached to the Central Narcotics Bureau (“CNB”). This was an offence under s 31(2) of the Misuse of Drugs Act (Cap 185, 2008 Rev Ed) (“MDA”) and punishable under s 33A(1) of the same Act. The offence was alleged to have been committed on 6 Jun 18 at about 10.35 pm at the Central Police Divisional Headquarters (“A Division”).
+
+2       The following eight charges were stood down –
+
+> (i)     One count under s 353 read with s 511 of the Penal Code, Cap 224;
+
+> (ii)     One count under s 20 of the Miscellaneous Offences (Public Order and Nuisance) Act, Cap 184;
+
+> (iii)     One count under s 3(2) punishable under s 8(a) of the Protection from Harassment Act, Cap 256A; and
+
+> (iv)     Five counts under s 6(1)(a) punishable under s 8(d) of the Protection from Harassment Act, Cap 256A.
+
+3       The prosecution was conducted by DPP Dillon Kok. The Accused was unrepresented.
+
+## THE PROSECUTION’S CASE
+
+4       The Accused was arrested on 6 Jun 18 at about 10.10 pm on a suspicion of possessing and consumption a controlled drug. He was arrested at the vicinity of Lavender MRT station. He was brought back to A Division at the Police Cantonment Complex. While at the A Division lock-up area, at about 10.35 pm, SSSgt Salihin administered a warning in English to the Accused in relation to the requirement to provide a urine specimen for testing. After that, he was brought into the toilet for the urine procurement procedure. Inside the toilet, he refused to provide his urine specimen. He was then placed inside a padded cell. While he was in the padded cell, the Accused had urinated in his cell. After this incident, the Accused continuously refused to drink water and to provide his urine specimen. All these incidents were recorded in the lock-up diary (Exhibit P3).
+
+5       At about 4.35 am on 7 Jun 18, the Accused was sent for a medical examination. The examination was done by Dr Augustine Chai Yui-Ler (“Dr Chai”). The medical report (Exhibit P1) stated that the Accused had no complaint and denied that he had any kidney, bladder or prostate problems. He also denied any abdominal discomfort. Significantly, Dr Chai concluded that the Accused was fit for urine test and detention. In court, Dr Chai maintained his opinion that the Accused did not suffer from any condition that rendered him incapable of providing his urine sample, and that the Accused did not suffer any condition that would have prevented him from passing urine[^1].
+
+## THE DEFENCE
+
+6       The Accused’s defence for refusing to provide his urine specimen was that he had felt that he did not trust the authorities because he had been wrongly charged and convicted on a previous occasion. This defence was set out clearly in his police statements (Exhibits P4 and P5), and which he constantly repeated during the course of the trial[^2]. Ancillary to this defence, he also made reference to, albeit obliquely, the fact that he had a myriad of medical problems, namely diabetes, cholesterol and high blood pressure, and his high stress, all of which had rendered him unable to or incapable of provide his urine specimen[^3].
+
+## THE COURT’S FINDINGS
+
+7       The Accused’s argument that he was medically incapable to provide his urine specimen was effectively rebutted by the evidence of Dr Chai at \[5\] above, and the fact that the Accused had urinated when he was put in a padded cell in the lock-up, not long after he had refused to provide his urine specimen.
+
+8       His other argument that he had been a victim of injustice on a previous occasion which brought about his refusal to give his urine specimen also could not stand. This could not and did not amount to a reasonable excuse.
+
+9       The evidence adduced clearly showed the Accused’s intransigence and his brazen defiance of the authority of CNB when he intentionally refused to provide his urine specimen without any reasonable excuse.
+
+10     I therefore found him guilty and convicted him on the charge.
+
+## THE STOOD DOWN CHARGES
+
+11     After the conviction, the Accused decided to plead guilty to three of the eight stood down charges, namely –
+
+> (i)     DAC 940143/18 (s 353 read with s 511 of the Penal Code) (“attempted spitting offence”);
+
+> (ii)     MAC 910532/18 (s 6(1)(a) punishable under s 8(d) of the Protection from Harassment Act) (“POHA offence”); and
+
+> (iii)     MAC 911846/18 (s 20 of the Miscellaneous Offences (Public Order and Nuisance) Act (“disorderly behaviour offence”).
+
+He consented to have the remaining five stood down charges taken into consideration for the purposes of sentencing.
+
+## STATEMENT OF FACTS
+
+## Facts in relation to MAC 911846/18 (disorderly behaviour offence)
+
+12     On 14 Dec 17, at about 5.00 pm, one Fatimah Binte Ahmad Alhabshi (“Madam Fatimah”) was doing chores in her house at Blk 38 Chai Chee Avenue when she heard a loud, continuous knocking at her door. Madam Fatimah was the Accused’s neighbour. She opened the door. The Accused was standing outside her door. He had just been drinking several cans of beer. He started to shout at Madam Fatimah who closed the door immediately. The Accused continued to shout and knocked on her door. She called for police assistance.
+
+## Facts in relation to DAC 940143/18 (attempted spitting offence)
+
+13     Sgt Yeo Wen Ming Sam (“Sgt Yeo”) and Sgt Nur Iskandar Bin Ahmad Khusairi (“Sgt Iskandar”) arrived at the scene at about 5.51 pm. The Accused had already gone back to his flat. Sgt Yeo knocked on Madam Fatimah’s door. When she opened her door, the Accused also opened his door, came out of his unit topless, and walked towards Madam Fatimah’s unit. He stood along the common corridor. He was intoxicated and incoherent. Sgt Yeo advised him to return to his unit and he complied.
+
+14     When Madam Fatimah was being interviewed, the Accused came out from his unit and stood along the common corridor outside her unit. This time, he became rowdy and started to argue with Madam Fatimah. At one point, he went up to her doorstep and shouted at her through the metal gate. He refused Sgt Yeo’s advice that he returned to his unit. He directed vulgarities namely, “bloody idiot”, “fucking bastard” and “_puki mak_” (translated as “your mother’s vagina”) at Madam Fatimah. Sgt Iskandar told Madam Fatimah to close her door, while Sgt Yeo again advised the Accused to return to his unit. This time he complied.
+
+15     At about 5.57 pm, when Sgt Yeo was speaking to Madam Fatimah, the Accused again came out from his unit and started to argue with Madam Fatimah despite being repeatedly advised to return to his unit. He started to get aggressive and directed more vulgarities at Madam Fatimah. At some point, he went up to her doorstep and reached his hand into her unit.
+
+16     He was placed under arrest. Whilst in the police car, he spat at Sgt Yeo and Sgt Iskandar, and shouted vulgarities at them. The spittle did not hit either of them. Force was then used to restrain him.
+
+## Facts in relation to MAC 910533/18 (POHA offence)
+
+17     On 6 Jun 18, sometime after 8.00 pm, officers from the Transport Command (“TRACOM”) spotted the Accused lying on the stairs at the bus-stop at Lavender MRT station. His eyes were bloodshot and his gait was unsteady. He was found in possession of a bag containing a brown substance. He was placed under arrest on suspicion of being in possession of and consumption of controlled drugs.
+
+18     The TRACOM officers handed the Accused over to officers from Rochor Neighbourhood Police Centre, who then brought him back to A Division. At A Division, the Accused behaved in an aggressive manner and called the officers, Sgt Lee Zheng Biao (“Sgt Lee”) and Sgt Benedict Koh (“Sgt Koh”) “Chinese pigs” several times. He did not stop despite being warned by them to stop. When he was escorted for his medical examination, again he called both officers “Chinese pigs” and directed the vulgarity “your mother _chee by_” (translated as “cunt”) to both of them. He also said to Sgt Koh “you want to suck my cock” several times. Again, he did not stop despite being warned several times to stop.
+
+## THE ACCUSED’S ANTECEDENTS
+
+19     The Accused has the following antecedents –
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="12.74%"> <col width="45.44%"> <col width="41.82%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b><u>Date</u></b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b><u>Offence</u></b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b><u>Sentence</u></b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">22 Feb 86</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">s160 Penal Code (Affray)</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Fined $100</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">23 Jan 88</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">s147 Penal Code (Rioting)</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">3 years’ imprisonment and 6 strokes of the cane</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">31 Jul 89</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">s354 Penal Code (Outraging modesty)</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">$1000 i/d 2 months’ imprisonment</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">19 Apr 96</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">s8(a) MDA (Possession of cannabis)</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">$2000 i/d 2 months’ imprisonment</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">18 Jan 97</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">s8(b) MDA (Consumption of cannabinol derivatives)</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">3 months’ imprisonment</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">7 Aug 00</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">s294(a) Penal Code (Doing an obscene act in a public place)</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">2 weeks’ imprisonment</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">21 Mar 01</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">s8(b)(i) MDA (Consumption of cannabinol derivatives)</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">5 years’ imprisonment</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">4 Sep 04</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">s19 Miscellaneous Offences (PO&amp;N) Act (Soliciting in a public place)</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Fined $800</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">26 Aug 05</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">s13D(1)(a) Miscellaneous Offences (PO&amp;N) Act (Using insulting/abusive words to a public servant)</p><p align="justify" class="Table-Para-1">s20 Miscellaneous Offences (PO&amp;N) Act (Disorderly behaviour)</p><p align="justify" class="Table-Para-1">s294(a) Penal Code (Doing obscene act in public place)</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">$2000 i/d 2 months’ imprisonment</p><p align="justify" class="Table-Para-1">Fined $800 i/d 2 weeks’ imprisonment</p><p align="justify" class="Table-Para-1">3 months’ imprisonment</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">8 Aug 06</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">s8(b)(i) MDA (Consumption of cannabis)</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">7 years’ corrective training</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">19 Sep 14</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">s380 Penal Code (Theft in dwelling)</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">19 days’ imprisonment</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">7 Jul 17</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">s380 Penal Code (Theft in dwelling)</p><p align="justify" class="Table-Para-1">s20 Miscellaneous Offences (PO&amp;N) Act (Disorderly behaviour)</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">4 weeks’ imprisonment (consecutive)</p><p align="justify" class="Table-Para-1">1 week imprisonment (consecutive)</p></td></tr></tbody></table>
+
+  
+  
+
+20     The Accused had two Drug Rehabilitation Centre admission in 1994 and 1995. He had also been placed on drug supervision in 1994, 1995, 1996, 1999 and 2004.
+
+## SUBMISSIONS ON SENTENCE
+
+21     For the failure to provide urine specimen offence, the prescribed punishment was a mandatory minimum of five years’ imprisonment and caning. DPP Kok called for an uplift of six months to the mandatory minimum imprisonment because the Accused had claimed trial despite the absence of any reasonable defence. He did not however asked for imprisonment in lieu of the mandatory caning.
+
+22     For the POHA offence, DPP Kok asked for a sentence of four weeks’ imprisonment because the Accused’s behaviour towards the police officers was very egregious, and there were five similar charges taken into consideration.
+
+23     For the disorderly behaviour offence, DPP Kok asked for a sentence of two weeks’ imprisonment. This was on account of his similar previous conviction in 2017 when he was sentenced to one week’s imprisonment.
+
+24     For the attempted spitting offence, DPP Kok asked for a sentence of four weeks’ imprisonment. He highlighted that had the spittle hit any one of the officers, the Accused would have been looking at a sentence of at least eight weeks’ imprisonment.
+
+25     Lastly, DPP Kok submitted that at least three of the sentences should run consecutively. These should comprised sentences for the failure to provide urine specimen offence, the attempted spitting offence and the POHA offence.
+
+## THE MITIGATION PLEA
+
+26     The Accused devoted a major portion of his mitigation plea repeating his complaint about having been wrongly charged and convicted previously. Other than that, he sought for leniency. He also professed his regret for his wrongful acts, offered his apology and promised to change his ways.
+
+## THE SENTENCE
+
+27     In relation to the failure to provide a urine specimen offence, I agreed with the submissions of DPP Kok that the Accused had claimed trial despite having no reasonable defence. In the course of the trial, he persistently made the same argument despite having been told that it was not relevant to the trial. His conduct in refusing to provide his urine specimen, and in urinating instead in his cell demonstrated a brazen contempt for authority. He also demonstrated significant belligerence so much so it was found necessary to put him in a padded cell for his own safety. For all these reasons, I was of the opinion that an uplift from the mandatory minimum imprisonment term was warranted. As such, I sentenced him to five years and three months’ imprisonment. I did not impose any imprisonment in lieu of caning.
+
+28     In relation to the disorderly behaviour offence, he has a conviction for a similar offence in July 2017 where he was sentenced to one week’s imprisonment. That sentence had not deterred him because he re-offended less than six months later. Specific deterrence was the paramount consideration in sentencing him. I therefore sentenced him to two weeks’ imprisonment for this offence.
+
+29     In relation to the POHA offence, I noted that he had one conviction in 2005 for an offence of a similar nature, albeit under the Miscellaneous Offences (Public Order and Nuisance) Act, and was fined $2000. I also noted that four of the five charges taken into consideration were for similar types of conduct ie using abusive and/or insulting words to police officers. This amounted to an additional aggravating factor. His conduct was also particularly egregious, persistent and belligerent. Based on all these factors I was of the view that the custody threshold has been crossed. I therefore sentenced him to four weeks’ imprisonment.
+
+30     In relation to the attempted spitting offence, I noted that the case precedents showed that imprisonment sentences ranging from eight weeks to three months have been meted out for spitting at police officers. These cases, which were decided after the High Court decision in _PP v Yeo Ek Boon Jeffrey_ <span class="citation">\[2018\] 3 SLR 1080</span>, were as follows -
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="0"><colgroup><col width="49.96%"> <col width="50.04%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">PP v Ganesh s/o Valas Supamaniam</p><p align="justify" class="Table-Para-1">(DAC 938127/17 &amp; Ors)</p><p align="justify" class="Table-Para-1">- Spat saliva on pants and shoes -</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Three months’ imprisonment</p><p align="justify" class="Table-Para-1">(Accused has one similar antecedent)</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">PP v Vijay s/o Balakrishnan</p><p align="justify" class="Table-Para-1">(MAC 911220/17 &amp; Ors)</p><p align="justify" class="Table-Para-1">- Spat saliva on face and shoulder</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Two months’ imprisonment</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">PP v Woo Zhi Heng Samuel</p><p align="justify" class="Table-Para-1">(DAC 933754/17 &amp; Ors)</p><p align="justify" class="Table-Para-1">- Spat saliva on face</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Eight weeks’ imprisonment</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">PP Wong Hwee Ling Patricia</p><p align="justify" class="Table-Para-1">(DAC 915329/16 &amp; Ors)</p><p align="justify" class="Table-Para-1">- Spat saliva on face</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Three months’ imprisonment</p><p align="justify" class="Table-Para-1">(Appeal against sentence dismissed)</p></td></tr></tbody></table>
+
+  
+  
+
+31     This offence was a culmination of the Accused’s persistent belligerent conduct towards the two police officers. Had the Accused’s spittle landed on either of the intended targets, I would have imposed a sentence on the upper end of the range. However, as this was not the case, I agreed with DPP Kok’s submission that the appropriate sentence should be at least four weeks’ imprisonment. I therefore sentence him to four weeks’ imprisonment.
+
+32     I ordered the sentences imposed for the failure to provide urine sample offence (DAC 919562/18), the attempted spitting offence (DAC 940143/18) and the POHA offence (MAC 910532/18) to run consecutively. The total aggregate sentence was therefore five years, three months and eight weeks’ imprisonment.
+
+33     The Accused has appealed against the conviction and sentence. He is currently serving sentence.
+
+* * *
+
+[^1]: NE, 4 Nov 18, page 3 lines 23-29.
+
+[^2]: NE, 4 Nov 18, page 18 line 14 to page 22 line 4.
+
+[^3]: NE, 4 Nov 18, page 17 lines 26-30.
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F23867-SSP.xml)
