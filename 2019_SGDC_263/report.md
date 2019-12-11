@@ -1,0 +1,237 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Lukas Jasman  
+
+### \[2019\] SGDC 263
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">DAC 931492-2017 and Others</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">03 December 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Eddy Tham Tong Kong</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Deputy Public Prosecutor Sanjiv Vaswani for the Prosecution; Defence Counsel Anil Singh Sandhu s/o Kertar Singh (Kertar &amp; Sandhu LLC) for the Accused</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Lukas Jasman</td></tr></tbody></table>
+
+\[LawNet Editorial Note: An appeal to this decision has been filed in MA 9255/2019/01.\]
+
+3 December 2019
+
+### District Judge Eddy Tham Tong Kong:
+
+1       The Accused pleaded guilty before me to two charges, namely:
+
+> (a)      DAC 931492/2017
+
+>> “that you, on 1 September 2017, at about 10.45pm, at Changi Airport Terminal 1,Arrival Hall, did have in your possession, a Class A controlled drug listed in the First Schedule to the Misuse of Drugs Act (Cap 185, 2008 Rev Ed), to wit, four packets of crystalline substance which was analysed and found to contain not less than 1.26 grams of methamphetamine, without any authorization under the said Act or the regulations made thereunder and you have thereby committed an offence under s 8(a) punishable under s 33(1) of the said Act”; and
+
+> (b)      DAC 937490/2017
+
+>> “..that you, being a Permanent Resident of Singapore, on or before 1 September 2017, outside Singapore, did consume a specified drug listed in the Fourth Schedule to the Misuse of Drugs Act (Cap 185, 2008 Rev Ed), to wit, methamphetamine, without any authorization under the said Act or the regulations made thereunder and you have thereby committed an offence under s 8(b)(ii) read with s 8A of punishable under s 33(1) of the said Act.”
+
+2       One charge of possession utensils intended for use in connection with the consumption of a controlled drug under section 9 of the Misuse of Drugs Act, was taken into consideration.
+
+3       I sentenced the Accused to 6 months’ imprisonment on each charge with both sentences to run concurrently.
+
+4       The Accused being dissatisfied with the sentence has filed an appeal against it. He has been released on bail pending the hearing of this appeal.
+
+5       I now set out my grounds of decision for the sentence.
+
+#### The Statement of Facts
+
+6       The following has been admitted by the Accused without any qualification. The Accused is Lukas Jasman, a 38 year-old male Indonesia national and Singapore Permanent Resident since 2010. His date of birth is 5 January 1981. He would have been 36 years old at the material time of the offences.
+
+7       On 1 September 2017 at about 10.45 p.m., at Changi Airport Terminal 1, Arrival Hall, Singapore, the Accused was arrested by Central Narcotics Bureau (“CNB”) officers for drug offences. A search was conducted and the following exhibits were seized from the Accused:
+
+> (a)     3 packets containing crystalline substance (later marked “A6A”)
+
+> (b)     1 packet containing crystalline substance (later marked “A4A”)
+
+> (c)     2 tablets wrapped in red/silver foil (later marked “A3A”)
+
+> (d)     1 fragment of a tablet inside a blister pack (later marked “A2”)
+
+> (e)     1 glass tube, 2 modified apparatus, 1 improvised glass utensil and 1 lighter (later marked “A5”).
+
+8       On the same day, the Accused and the seized exhibits were brought to Central Police Divisional Headquarters for further investigations.
+
+#### Facts pertaining to the 1st charge (DAC-931492-2017): possession of methamphetamine
+
+9       On 5 September 2017, the exhibits marked ‘A4A’ and ‘A6A’, which were sealed in tamper-proof bags, were sent to the Health Sciences Authority (“HSA”) for analysis. On analysis the exhibits, it was found that:
+
+> (a)     the exhibit marked “A4A” was one packet containing not less than 0.58 gram of crystalline substance, which contained not less than 0.38 gram of methamphetamine; and
+
+> (b)     the exhibit marked “A6A” were three packets containing not less than 1.41 grams of crystalline substance, which contained not less than 0.88 gram of methamphetamine.
+
+10     Methamphetamine is a Class A Controlled Drug listed in the First Schedule to the Misuse of Drugs Act (“MDA”).
+
+11     The Accused admitted to ownership and possession of the exhibits marked “A4A” and “A6A”. The Accused knew that the exhibits marked “A4A” and “A6A” were four packets containing ‘ice’ (which is the street name for methamphetamine). The Accused bought the said ‘ice’ in Indonesia for his own consumption.
+
+12     The Accused was not authorized under the MDA or the Regulations made thereunder to be in possession of exhibit “A4A” and “A6A”. He has thereby committed an offence under s 8(a) of the MDA for being in possession of not less than 1.26g of methamphetamine, which is punishable under s 33(1) of the MDA.
+
+#### Facts pertaining to the 2nd charge (DAC-937490-2017): consumption of methamphetamine
+
+13     At the CNB office located at Bedok Police Divisional Headquarters, the Accused provided two bottles of his urine sample which were then sent to the HSA on 4 September 2017 for analysis.
+
+14     The HSA subsequently issued two certificates under s 16 of the MDA, stating that on analysis, the said urine sample in the two bottles was found to contain methamphetamine.
+
+15     Methamphetamine is a Specified Drug listed in the Fourth Schedule to the MDA.
+
+16     The Accused claims to have begun smoking ‘ice’ about a year before his arrest. The Accused had abused ‘ice’ by using the improvised glass utensil which were seized (marked A5, as mentioned in \[7(e)\] above). He admitted that he would smoke ‘ice’ roughly once every one or two weeks depending on his stress level at work. Just before his flight to Singapore on 1 September 2017, the Accused smoked ‘ice’ in a hotel in Thailand. The urine samples of the Accused (as mentioned in paragraph 13) were found to contain methamphetamine because the Accused had knowingly consumed ‘ice’.
+
+17     As a Permanent Resident of Singapore at the material time, the Accused was not authorized under the MDA or the Regulations made thereunder to consume methamphetamine outside Singapore. He has thereby committed an offence under s 8(b)(ii) of the MDA read with s 8A of the MDA, which is punishable under s 33(1) of the MDA.
+
+#### Antecedent records
+
+18     The Accused does not have any previous convictions.
+
+#### Prosecution’s submissions
+
+19     The Prosecution sought for the Accused to be sentenced to 9 months’ imprisonment on each charge with both sentences to run concurrently.
+
+20     They relied on the benchmark sentencing range for first time offenders for these offences, taking reference from the case of _Dinesh Singh Bhatia s/o Amarjeet Singh v PP_ <span class="citation">\[2005\] 3 SLR(R) 1</span> (“_Dinesh Singh Bhatia_”), which laid down the range of 6-18 months’ imprisonment.
+
+21     The Prosecution opposed the Defence’s submission for probation or a fine, arguing that there was nothing exceptional about the present case that warranted a departure from the usual sentencing tariff of a custodial sentence.
+
+22     The Prosecution asserted that the Accused’s psychiatric condition does not displace deterrence as the dominant sentencing consideration. They raised 2 points:
+
+> i.     the fact that the Accused qualifies for the criteria of Stimulant Use Disorder merely confirms him as a drug addict; and
+
+> ii.     there is no “causal link” between the Accused’s Attention Deficit Hyperactive Disorder (“ADHD”) and his use of illicit drugs. It was therefore submitted that the Accused had deliberately chosen to try illicit drugs in an attempt to help himself to alleviate his symptoms.
+
+23     The Prosecution also pointed out that the Accused was a regular consumer and was not a one-off abuser and any personal hardship he would suffer as a result of incarceration was unexceptional.
+
+24     Accordingly, Prosecution submitted that as the Accused was an adult offender of age 36 when he committed the offences and there was nothing exceptional about his personal circumstances, custodial sentence should be imposed.
+
+#### Mitigation
+
+25     The Defence highlighted the fact that the Accused, who was the Chief Operating Officer of a company owned by his family, went through a very stressful period when in 2014, the business experienced a severe downturn and the survival of the company was on the line. The Accused only experienced relief when one of the world’s largest agri-businesses, Olam International (“Olam”), a listed company on the Singapore Stock Exchange, agreed to collaborate with the company.
+
+26     Thereafter, the Accused continued working in the family business as one of its directors. As a recognition of his hard work, he was made a long-standing member and Vice-Chairman of the Cocoa Association of Asia. Presently, he is a Trading Director of Olam Cocoa Indonesia, operating from their Jalan Boon Lay office in Singapore.
+
+27     This stressful period in his work also coincided with another stressful event in his marital life. In 2012, he was shocked to discover evidence of his then wife with another man. After going through some months of internal struggle, he finally decided to divorce his wife. As a result of the divorce, the Accused became depressed and sought medical help.
+
+28     On 5 March 2014, the Accused saw Dr B L Lim of the Centre for Psychological Wellness at Gleneagles Medical Centre about his poor focus, disorganisation, restless and impulsivity. He was diagnosed with:
+
+> (a)     Adjustment Disorder with depressive features
+
+> (b)     Possibly Attention Deficit Hyperactivity Disorder (‘ADHD’);
+
+> and was prescribed with some medication.
+
+29     On 5 March 2016, the Accused saw Dr B L Lim again about his stress and anxiety and he was prescribed with further medication.
+
+30     On or before 19 January 2017, the Accused consulted Dr S Hermanto of PT Bumitangerang Mesindotama Clinic in Indonesia where he was diagnosed with:
+
+> (a)     Hypertension
+
+> (b)     Neurosis
+
+31     Dr Hermanto prescribed the Accused with Erimin 5mg, also known as nimetazepam, to be taken nightly.
+
+32     The Accused attended at Winslow Clinic early 2018 to assess:
+
+> (a)     whether the he was suffering from any mental health condition at the time of the alleged offences; and
+
+> (b)     whether the said mental conditions impacted the commission of the alleged offences.
+
+33     The Accused was diagnosed with:
+
+> (a)     Attention-Deficit Hyperactivity Disorder Combined Presentation of Moderate Severity;
+
+> (b)     Persistent Depressive Disorder (Dysthymia) Late Onset, with intermittent major depressive episode, with current episode of moderate severity
+
+34     It was assessed that ‘both the Persistent Depressive Disorder and the ADHD contributed to \[the Accused’s\] infrequent methamphetamine use and that:
+
+> (a)     the Accused’s intermittent methamphetamine use can be understood as a maladaptive form of coping with a lifelong mental health diagnosis of ADHD that was not being managed effectively; and
+
+> (b)     the Accused’s ability to cope with his ADHD symptoms was limited as he was suffering from Persistent Depressive Disorder with intermittent major depressive episodes since 2014 when he began seeking psychiatric support.
+
+35     The Defence also referred to an Institute of Mental Health (“IMH”) forensic report, dated 2 July 2019 (“the IMH Report”), prepared by Dr Guo Song, Senior Consultant of the Addiction Medicine Department, which stated the following at para \[21\] and \[22\]:
+
+> “ \[21\]    Mr. Lukas’s past drug history would fulfil the diagnostic criteria for Stimulant Use Disorder in mild to moderate level which is currently under remission. He was experiencing depressed mood due to his Adjustment Disorder at the material time. Based on his past history of treatment for his ADHD, his response to the medications for ADHD as well as the report of the tests on ADHD, he suffers from Adult Attention Deficit (ADD) which is likely the continuation of his ADHD from childhood. His drug habits suggest that the was mostly self-medicating with drugs such as ‘Ice’ and ‘Erimin’ to cope better from the stress arising out of increasing demands in his business from time to time and the symptoms of ADD. There are likely contributing factors linking his index offence to his psychiatric conditions and the drug use.
+
+> \[22\]  So far, he has been engaging well with his treatment and managed to achieve substantial improvement from his Adjustment Disorder and Adult ADHD symptoms. He has been regular with counselling for his Substance Use Disorder. He should continue with his ongoing treatment for his psychiatric conditions to prevent further relapses to drug use in the future.”
+
+36     The Defence submitted that where there is a causal link between the psychiatric condition and the drug offence, probation remains a viable option even for adult offenders. 2 cases were relied upon for this proposition.
+
+37     In _PP v Lee Han Fong Lyon_ \[2014\] SGHC (“_Lyon Lee_“), the High Court had upheld a sentence of 24-month probation order for a 25-year old drug offender with one (1) charge of consuming methamphetamine under MDA s 8(b)(ii), among other non-drug related offences. The Court had considered that it was a unique case of a young offender with no drug related antecedents and a supportive background. The Court agreed with the District Judge’s view that whilst the ADHD condition of the respondent did not single-handedly caused the offender to commit the offence, nonetheless the ADHD played a role in the psyche of the respondent, and was a factor in his criminality” and that “the ADHD was indeed a contributory factor”.
+
+38      _Lyon Lee_ was subsequently cited in the second case highlighted by Defence, namely, the decision of the learned Chief Justice Sundaresh Menon in _PP v Lim Cheng Ji Alvin_ <span class="citation">\[2017\] 5 SLR 671</span> (“_Alvin Lim_”), where the Court had held at \[7\] that:
+
+> “Precedents where probation, instead of a sentence of imprisonment, has been ordered for older drug offenders involved those who were suffering from psychiatric or other conditions that were in some way causally related to their offences. For example, in PP v _Lee Han Fong Lyon_ <span class="citation">\[2014\] SGHC 89</span>, the High Court upheld a sentence of probation for a 25-year-old drug offender, noting that the offender’s Attention Deficit Hyperactivity Disorder “was a factor in his criminality” (at \[6\]). This is not to say that probation will, as a matter of course, be ordered in such cases; rather, where an offender proves that he was suffering from a psychiatric or other condition that was in some way causally related to his drug offence, the court might consider it permissible, in the appropriate circumstances, to depart from the default position that a custodial term is warranted. In the present case, the Respondent did not claim to suffer from any psychiatric or physical condition.”
+
+39     The Defence asserted that the Accused has good rehabilitative prospects and thus urged the Court to call for a probation report. The Defence Counsel had highlighted the following excerpts from the medical reports of the Accused:
+
+> a.     Dr Winslow’s letter dated 26 October 2018:
+
+>> i.       The accused’s depressive disorder is currently in remission;
+
+>> ii.       There is marked improvements in the accused’s psychosocial and occupational functioning and resolution of his depressive symptoms;
+
+>> iii.       Since commencing treatment, Lukas has shown marked improvements in terms of his ability to concentrate, task organisation, and resisting the urge to act on his impulses;
+
+>> iv.       With continued psychosocial support and treatment, his long term prognosis for stability in terms of his mental health and abstinence from substances is good; and
+
+>> v.       The Accused has undergone random urine testing for methamphetamine and/or cannabis (the results have all turned out negative).
+
+> b.     The IMH Report:
+
+>> \[22\]   “So far, he has been engaging well with his treatment and managed to achieve substantial improvement from his Adjustment Disorder and Adult ADHD symptoms. He has been regular with counselling for his Substance Use Disorder. He should continue with his ongoing treatment for his psychiatric conditions to prevent further relapses to drug use in the future.”
+
+40     In the alternative, the Defence submitted that even if probation is not suitable, the Accused should be granted a non-custodial sentence for the following additional grounds:
+
+> i.     The Accused has a clean record and had kept on the straight and narrow path since investigations into these offences.
+
+> ii.     The Accused partook earnestly in investigations and rendered his full cooperation. He remained compliant with his bail conditions even when he travelled abroad for work.
+
+> iii.     Genuineness of remorse: The Accused is genuinely remorseful and his instructions to Defence Counsel throughout the course of this matter has been unequivocal in that he would be taking a certain course and he has in fact pleaded guilty. He had also demonstrated commitment to the treatment process by keeping to his medication and attending numerous individual psychotherapy sessions with treating psychologist Mr Cheoh Yen Han. He also underwent random urine testing on various dates (all of which have tested him to be negative for methamphetamine and even cannabis) as part of his treatment process.
+
+> iv.     Quantity of drugs was small at 1.26 grams.
+
+> v.     The Accused has strong familial support from his paternal grandmother and aunt. He lives with his grandmother and his aunt is a short distance away. Further, his parents and girlfriend, though based in Jakarta, Indonesia, make regular trips to Singapore to be with him. His girlfriend has also committed to moving to Singapore to be close to the Accused and guide him on his rehabilitative journey. The Accused also has the added motivation of caring for and nurturing his 10-year old daughter to deter him from re-offending.
+
+> vi.     Incarcerating the Accused would be of little or no purpose. Instead, the progress he has made to date within society would not be continued and replicated in an institutionalised environment.
+
+#### Principle of Sentencing
+
+41     The dominant sentencing principle when it comes to drug offences is clearly one of deterrence in view of the strong public policy reasons to combat the menace of drugs. In _Dinesh Singh Bhatia_, VK Rajah J made the following observation at \[59\]:
+
+> “The consumption of drugs is a grave menace and an anathema to the fabric and well-being of society and must be uncompromisingly stamped out. It must now be clearly and unfailingly understood that all drug offences involving the possession or consumption of Class A drugs inexorably attract custodial sentences, save in purely exceptional cases.”
+
+42     It has been laid down in this case that the appropriate sentencing spectrum for first time drug offenders for Class A controlled drugs would be from 6 months to 18 months of imprisonment (see \[39\]).
+
+43     In applying this spectrum, the High Court in arriving at a sentence of 8 months’ imprisonment had taken into account at \[56\] the following factors:
+
+> i.     that the appellant did not seek the drugs;
+
+> ii.     that the act of consumption was not planned but effected on the spur of the moment;
+
+> iii.     that the amount consumed was not substantial;
+
+> iv.     that there was no payment involved; and
+
+> v.     based on the evidence before the court, the consumption was a one-off episode.
+
+#### Applying the sentencing principles
+
+44     Applying these principles to the present case, I found that the grounds raised for rehabilitation were not so exceptional that they trump the need for deterrence to be still applied in sentencing the Accused.
+
+45     The Accused is a grown up man who is a highly functioning person holding a high and responsible position in his work. He had been seeking treatment for his anxiety and depression and in the process, had also received medication for his ADHD since 2014.
+
+46     Despite obtaining prescribed medication from several doctors, the Accused had made a conscious decision to resort to illegal drugs to enhance his performance at work. In a sense, his condition had contributed to the commission of the offences but this was clearly a deliberate act on his part to get a better effect on his performance. As noted by Dr Guo Song in the IMH Report at \[15\], “\[the Accused\] said that he was taking he prescribed medications by Dr Lim and sometimes he was combining them with ‘Ice’ as he felt that ‘Ice’ being a stimulant could boost his mood more positively and improve his performance in his business”.
+
+47     In _Lyon Lee_, the respondent was 24 years old at the time of the offence. The High Court also noted the finding of the District Judge that
+
+> “although the \[respondent\] was aware of the wrongfulness of the various acts he had committed \[the respondent\] could not realise the \[seriousness\] of his actions as he could not think much about the \[consequences\] of his wrongful acts.
+
+48     Quite clearly the respondent in _Lyon Lee_ was a much younger person and hence, understandably the High Court had placed more emphasis on the need for rehabilitation. The High Court set this out clearly at \[7\] that this was “a unique case of a young offender with no drug-related antecedents and a supportive background”. Hence, this fact, coupled with the effect of ADHD and good familial support as set out above, resulted in the High Court affirming the decision of the District Court in granting probation.
+
+49     In contrast, in the present case, the Accused who was 36 years old at the material time, was clearly aware of the consequences of his actions. There is nothing in any of the medical reports to suggest that his judgment and consciousness of the consequences of his actions would have been clouded by his medical conditions. He knew very well that consuming methamphetamine is illegal in Singapore – see \[9\] of the IMH Report.
+
+50     He was also not a one-off abuser of drugs. As set out in the Statement of Facts at \[16\] above, the Accused had been smoking ‘ice’ for about a year before his arrest, about once every one or two weeks depending on his stress level at work.
+
+51     The Accused had essentially resorted to taking ‘ice; as recommended by his friend, to help him have better focus in an attempt to cope with his medical conditions such as Attention Deficit Disorder and Persistent Depressive Disorder. Over time, his dependence on the drug had developed into what Dr Guo Song had described as qualifying for a diagnostic criteria of “Stimulant Use Disorder”. Quite obviously, such a condition would have contributed to his consuming of drugs in Thailand before entering Singapore. However, as submitted by prosecution, this is no different from someone who is basically a drug addict and I might add, had grown dependent on the stimulating effect of the illicit drugs he had been consuming.
+
+#### Conclusion
+
+52     Hence, considering all the factors, I found that there was nothing so exceptional about the personal circumstances of the Accused to warrant a departure from the clear sentencing principle of deterrence and the sentencing framework of a range of custodial sentence enunciated in _Dinesh Singh Bhatia_.
+
+53     Having said that, I do accept that the Accused, after his arrest, had taken concrete steps to cease the use of illicit drugs by going for treatment and subjecting himself to urine tests. I also note that the Accused had resorted to consuming of ‘Ice’ to boost his work performance due to his medical conditions and not out of social or recreational needs. Although he had little choice but to plead guilty given that he had been caught red-handed with the drugs and drug utensils as well as tested positive for the consumption of drugs, he had been forthcoming about his past use of the drugs.
+
+54     As such, I have calibrated the custodial sentence to the lowest end of the spectrum, 6 months’ imprisonment. I have also treated all 3 offences as having arisen from the same transaction and hence have ordered the sentences for the 2 proceeded charges to run concurrently.
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F23873-SSP.xml)
