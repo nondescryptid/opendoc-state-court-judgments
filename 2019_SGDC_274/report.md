@@ -1,0 +1,139 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Liew Lien Sin  
+
+### \[2019\] SGDC 274
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">DAC-922884-2019 &amp; Ors</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">09 December 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Toh Han Li</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">DPP Eugene Teh (Attorney-General's Chambers) for the Prosecution; Mr Kelvin Lim Phuan Foo (Kelvin Lim &amp; Partners) for the Accused</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Liew Lien Sin</td></tr></tbody></table>
+
+\[LawNet Editorial Note: An appeal to this decision has been filed in MA 9315/2019/01.\]
+
+9 December 2019
+
+### District Judge Toh Han Li:
+
+1       This is an appeal by the accused against sentence.
+
+## The charge
+
+2       The accused pleaded guilty to the following two charges:
+
+> _DAC 922884-2019_
+
+> You… are charged that you, on 8 August 2019, at about 7.04pm, at the level 3 carpark of No.615 Lorong 4 Toa Payoh, Storhub, Singapore, did commit theft of a motorcar bearing registration number GT 2050D, a silver Nissan Cabstar, valued at about S$30,000, in the possession of one Lim Wee Kian, and you have thereby committed an offence punishable under section 379A of the Penal Code (Cap 224, 2008 Rev Ed).
+
+> _MAC 908651-2019_
+
+> You…are charged that you, on 8 August 2019, at about 7.04pm, at the level 3 carpark of No.615 Lorong 4 Toa Payoh, Storhub, Singapore, did drive a motorcar bearing registration number GT 2050D, whilst there was not in force in relation to the use of the said motorcar policy of insurance in respect of Third Party Risk as complies with the requirements of the Motor Vehicles (Third Party Risks and Compensation) Act, Chapter 189, and you have thereby committed an offence under section 3(1) of the Motor Vehicles (Third Party Risks and Compensation) Act, Chapter 189, and punishable under section 3(2) of the same Act.
+
+## Statement of Facts
+
+3       The accused is a 57-year-old male Singaporean. At the material time, he was working as an odd job contractor.
+
+4       The complainant is Lim Wee Kian (“the complainant’). At the material time, he was the director of E-Cube Car Rental Pte Ltd located at 615 Lorong 4 Toa Payoh Level 7, Storhub Singapore (the ‘Company’).
+
+5       About one year prior to the incident on 8 August 2019, the accused started to rent various motorcars from the Company for his work purposes. Among the various motorcars rented to him, was one lorry bearing registration number GT 2050D, a silver Nissan Cabstar (valued at about $30,000), in the possession of the complainant Lim Wee Kian (the “Lorry”).
+
+6       Sometime around the end of 2018, the accused decided to make a duplicate key for the Lorry without the consent of the complainant or the Company.
+
+7       On 8 August 2019, at about 5pm, the accused was nearby the Company premises when he noticed the Lorry parked at the level 3 carpark of No. 615 Lorong 4 Toa Payoh, Storhub, Singapore.
+
+8       At about 7.04pm, the accused walked to the Lorry, used his duplicate key to open its door, and drove off with it. The accused had waited to do so till after 7pm, as he knew that the Company’s offices would be closed by then. He had thus intended to drive off with the Lorry, and to return it the next day, without notifying the Company.
+
+9       At all material times the accused was driving the Lorry, he had done so while there was not in force a valid policy of insurance or a security in respect of third-party risks in relation to his use of the said vehicle.
+
+10     At about 8.30pm that day, the complainant conducted a routine check on the Company’s rental vehicles and noticed that the Lorry was not in its parking lot. After checking with his staff, the complainant discovered that the Lorry was not scheduled for rental, and that its keys were still in the Company’s key press.
+
+11     The complainant then reviewed the Company’s CCTV records, and noticed the accused unlocking the door of the Lorry, and thereafter driving off with it. The complainant also recognised the accused, as the accused was a regular customer of the Company. The accused had also just rented and subsequently returned the said Lorry just a few days before.
+
+12     The complainant then checked the location of the Lorry via GPS, and tracked its last location to be at Blk 534 Bedok North Street 3.
+
+13     At 8.57pm, the complainant called the police informing the following: ‘_GT2050D Nissan Cabstar Silver was stolen at about 7pm. I retrieve the CCTV, this person had a key, possible duplicate. I have tracking and current location at 2056hrs Aljunied Ave 2 115. Please send someone to the location’_.
+
+14     Police forces were deployed to the Lorry’s location, and the accused was subsequently arrested at his home. One silver key with the ‘Nissan’ wording, and two silver keys ringed together with the ‘Toyota’ logo were seized during investigations. The accused had also admitted to stealing the Lorry.
+
+## Charges taken into consideration for sentencing (“TIC charges’)
+
+15     The accused admitted to two charges under s 379A Penal Code (“s 379A”) and two charges under s 3(1) read with s 3(2) of the Motor Vehicles (Third Party Risks and Compensation) Act (“s 3(1) MVA”) and consented to have them taken into consideration for sentencing. These charges pertain to the theft of two Toyota vehicles (each valued at $40,000) from the Company’s premises on 27 July 2019 and 3 August 2019 and driving the said vehicles without a valid insurance policy.
+
+## Antecedents
+
+16     The accused has unrelated antecedents for moneylending offences.
+
+## Prosecutions submission on sentence
+
+17     The prosecution asked the court to impose a sentence of at least 9 months’ imprisonment on the s 379A charge and 18 months’ disqualification from all classes of vehicles. The prosecution emphasised that the accused had duplicated the vehicle keys to the vehicles to enable him to steal them as an aggravating factor.
+
+18     On the s 3(1) MVA charge, the prosecution submitted for a fine of $800 and a disqualification of 12 months from all classes of vehicles.
+
+19     The prosecution submitted the following sentencing precedents:
+
+20     In _PP v Sanjeevi s/ o Narasimman_ DAC-9182282018 & Ors the accused, age 27, who was with the victim, had parked the company lorry (valued at about S$97,392.21). Both parties then returned to the office to rest. While the victim was resting, the accused took the key to the lorry from the victim’s chest pocket. He then drove off with the lorry to the worksite. The accused was then involved in an accident and the lorry sustained damage as a result. The lorry was recovered (in its damaged state) but was subsequently scrapped after the accident.
+
+21     On the s 379A charge the accused was sentenced to 10 months’ imprisonment and 18 months’ disqualification from the date of release.
+
+22     In _PP v Goh Chin Pang_ the victim parked his van (valued at about S$38,837) along a road before having a drink at a coffeeshop. He had left his engine running and his drive door ajar. The accused, age 29, chanced upon his car and decided to drive off with it. While driving off, he had also committed a rash act such as to endanger human life.
+
+23     The accused then abandoned the van, which was subsequently recovered in a damaged state (cost of repairs amounted to S$805.46). For the s 379A charge, the accused was sentenced to 11 months’ imprisonment and 24 months’ disqualification from the date of release. On the s 3(1) MVA charge he was fined $800 and given 12 months’ disqualification from the date of conviction.
+
+24     In _PP v Adam Bin Junaidi_ the accused, age 21, committed theft of motorcycles (valued at $2,500 and $3,000) at carparks. He would ride the motorcycles then leave them abandoned at a different locations. The motorcycles were eventually recovered. On the s.379A charge the accused was sentenced to 6 months’ imprisonment and 24 months’ disqualification from the date of release.
+
+## Mitigation plea
+
+25     The accused is married with two sons and a daughter. His wife is an operator working in a factory. He is a renovation contractor doing mainly sub-contracting works. He is an undischarged bankrupt. Defence counsel submitted the present case had been a frightening and traumatic experience for the accused and a source of great distress and mental anxiety for the family and has brought shame to his family.
+
+26     Defence counsel submitted that the accused was remorseful, had co-operated fully with the police in its investigation and taken the earliest opportunity to plead guilty to the charges, thereby saving precious time for the police and the courts. He pledged that he would not reoffend again.
+
+27     With regard to the circumstances surrounding the offences, defence counsel highlighted the following:
+
+> a)     The accused had been leasing vehicles on a few occasions from the Company for purpose of transporting his workers and equipment to the worksite. In respect of the s379A charges, he went to the Company to rent vehicles but was told by either the complainant or his staff that there were no vehicles available to lease to him.
+
+> b)     With regard to the three charges (one proceeded and two TIC), the accused was passing by the Company and chanced to see the vehicles in question. The Company had already closed for the day. Seeing that he needed the vehicles for purpose of transporting his workers to the work site, the accused took the said vehicles and drove off without thinking much about the consequences.
+
+> c)     The accused did not have the intention to permanently deprive the complainant’s company of the said vehicles. He was in urgent need of the vehicles to fetch his workers and equipment to carry out the renovation works. He had the intention just to use the vehicles for the work and then return the vehicles back to the complainant’s company. He also knew that the theft of the said vehicles would surely have been discovered and he could not hope to escape with impunity. The three vehicles concerned had been were returned to the Company intact.
+
+28     In court, defence counsel submitted that said that a jail term of 7 to 8 months “was about right” for the s 379A offence. He also said that a disqualification of 18 months from all classes of vehicles was “fair”.
+
+## My decision
+
+29     The punishment prescribed for an offence under s 379A is imprisonment which may extend to 7 years, and also shall be liable to a fine. The accused was liable to disqualification from driving all classes of vehicles, unless there are special reasons to order otherwise. Section s379A Penal Code was amended in 2008 and prior to that it carried a mandatory minimum term of one year’s imprisonment and mandatory minimum disqualification of three years unless there were special reasons to order otherwise.
+
+30     In the _Sentencing Practice in the Subordinate Courts (Third Edition)_, the learned authors state at pages 672-673:
+
+> Under the old law, for offender above 21 years of age who stole a vehicle for a joy ride, the minimum terms of imprisonment \[one year\] and disqualification \[three years\] were likely to be imposed. The sentence would be pushed upwards where there were multiple thefts involved, where the vehicles were of high value, there was a prior record (especially for property offences), where the vehicle was stolen for use in the commission of an offence, where it was stolen for the use of tis parts and where the offence(s) was sophisticated and well organised. **Under the new law, the courts are likely to take a more flexible approach and impose an imprisonment term of below one year for cases where the vehicle was taken for a joy ride and thereafter recovered. The disqualification order would also be well under the previous of three years. The factors the court would consider in determining whether the sentence should be pushed upwards would, however, be the same** \[emphasis mine\].
+
+31     For the s 3(1) MVA charge, the punishment is a fine not exceeding $1,000 or to imprisonment for a term not exceeding 3 months or to both, as well as disqualification for a period of 12 months from the date of the conviction, unless the court for special reasons thinks fit to order otherwise and without prejudice to the power of the court to order a longer period of disqualification.
+
+#### Aggravating factors
+
+32     I found the following to be aggravating factors in the present case:
+
+> a)     The accused’s offence was premediated as around the end of 2018, the accused decided to make duplicate keys for the vehicles without the consent of the complainant or the Company. In the case of the proceeded charge, the accused had waited till after 7 pm (when the Company office closed) in order to steal it.
+
+> b)     The two TIC charge comprised vehicles which were stolen by the accused from the Company on different dates, namely 27 July 2019 and 3 August 2019.
+
+> c)     The total value of the three vehicles stolen was substantial at $110,000 ($30,000 for the proceeded charge and $40 000 each for the two vehicles in the TIC charge).
+
+33     As his antecedents were for unrelated offences, I did not take them into consideration for sentencing purposes.
+
+#### Mitigating factors
+
+34     In terms of mitigating factors, I accepted that the accused’s plea of guilt entitled him to some discount. That said, although he said that he had cooperated with the police, I am not sure that he had much choice, given that he had been caught on CCTV stealing the vehicle. Further, the complainant had a location tracking system installed for the stolen vehicle which lead to the accused being arrested at home with the duplicate vehicle keys found in his possession.
+
+35     Next, defence counsel submitted that the theft of vehicles by the accused was to solve his transport problems without the intention to deprive the Company of the vehicles. The vehicles were also recovered intact.
+
+36     In my view, these were neutral factors. As highlighted above as an aggravating factor, he had duplicated the keys to three vehicles belonging to the Company which would have enabled him to easily steal the vehicles at will.
+
+#### The sentence
+
+37     As noted by the learned authors in _Sentencing Practice in the Subordinate Courts (Third Edition)_, the learned authors state at pages 672-673:
+
+> the courts are likely to take a more flexible approach **and impose an imprisonment term of below one year for cases where the vehicle was taken for a joy ride and thereafter recovered** \[emphasis mine\].
+
+38     Having regard to the 3 sentencing precedents cited by the prosecution, I note that the term of imprisonment ranged from 6 months to 11 months’ imprisonment on the s 379A charge. In _Adam Bin Junaidi’s_ case a term of 6 months’ imprisonment was imposed on a young offender, age 21 and the value of the vehicles (motorcycles) was in the region of $5,500. In the other two cases (_Sanjeevi_ and _Goh Chin Peng’s case)_ where terms of imprisonment of 11 and 10 month’s imprisonment were imposed, the value of the vehicle was $97,392.21 and $38,837 respectively and the vehicles were either scrapped or damaged.
+
+39     To my mind, the present case fell between _Adam Bin Junaidi’s_ case on the one hand and _Sanjeevi_ and _Goh Chin Peng’s_ case on the other. In the circumstances, I was of the view that for the s 379A Penal Code charge a jail term of 8 months’ imprisonment and 18 months’ disqualification from all classes of vehicles from the date of release was appropriate. A sentence of 7 to 8 months’ imprisonment was in fact what the defence counsel had termed “about right”. For the s 3(1) MVA charge, I imposed a fine of $800 (in default 1 week’s imprisonment) and 18 months’ disqualification from all classes of vehicles.
+
+40     The accused was granted a deferment of sentence and filed an appeal prior to serving sentence. He was granted a stay of execution pending appeal and is currently on bail bond of $5,000.
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F23887-SSP.xml)
