@@ -1,0 +1,115 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Tan Tiong Meng  
+
+### \[2019\] SGDC 261
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">DAC 913065/2019 &amp; Ors, Magistrate's Appeal No. 9285/2019/01</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">03 December 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">John Ng</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">DPP Victoria Ting for the Public Prosecutor; DC Suang Wijaya for the Offender.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Tan Tiong Meng</td></tr></tbody></table>
+
+\[LawNet Editorial Note: An appeal to this decision has been filed in MA 9285/2019/01 .\]
+
+3 December 2019
+
+### District Judge John Ng:
+
+The Offender, Tan Tiong Meng (male/50 years old), pleaded guilty to two charges of corruption and consented to three other charges being taken into consideration for sentencing. The two charges for offences under the Prevention of Corruption Act, Chapter 241 (“PCA”) proceeded with were:
+
+> **_DAC 913065/2019_**,
+
+> “You are charged that you, sometime in May 2015, in Singapore, did corruptly give to an agent in the employ of Biosensors Interventional Technologies Pte Ltd (“Biosensors”), _to wit_, one Seow Hock Siew, gratification of a sum of $160,000 as an inducement for doing an act in relation to his principal’s affairs, _to wit_, advancing the business interests of Ubiqpay with Biosensors, and you have thereby committed an offence punishable under Section 6(b) of the Prevention of Corruption Act, Chapter 241.”
+
+> **_DAC 913068/2019_**,
+
+> “You are charged that you, sometime in August 2015, in Singapore, did corruptly give to an agent in the employ of Biosensors Interventional Technologies Pte Ltd (“Biosensors”), _to wit_, one Seow Hock Siew, gratification of a sum of $135,000 as an inducement for doing an act in relation to his principal’s affairs, _to wit_, advancing the business interests of Ubiqpay with Biosensors, and you have thereby committed an offence punishable under Section 6(b) of the Prevention of Corruption Act, Chapter 241.”
+
+2       Offences under Section 6(b) PCA are punishable with a fine not exceeding $100,000 or to imprisonment for a term not exceeding 5 years or to both. After recording the Plea on the five charges – two proceeded with and three to be taken into consideration for sentencing (“TIC charges”) – I heard the respective submissions on sentence by the Prosecution and the plea of mitigation by the Defence Counsel before passing sentence.
+
+3       The Offender was sentenced to imprisonment of 48 weeks for the offence in **_DAC 913065/2019_** and 40 weeks for the offence in **_DAC 913068/2019_**. The two sentences of imprisonment were ordered to run concurrently. The Offender is dissatisfied with the total punishment of 48 weeks of imprisonment and has filed this appeal against Sentence.
+
+## Summary of Facts
+
+4       The Offender admitted to the Statement of Facts (incorporating both charges proceeded with) as follows:
+
+> (1)     The accused is Tan Tiong Meng, a 50-year-old male Singaporean. At the material time, he was the director of an IT company, Ubiqpay Pte Ltd (“Ubiqpay”) which specialises in providing system integration, IT software and hardware.
+
+> (2)     In the course of his business, the accused became acquainted with Seow Hock Siew (“Bernie”) and Chua Poh Meng (“Winson”), who held the positions of Director and Associate Director respectively in Biosensors Interventional Technologies Pte Ltd (“Biosensors”). Sometime in 2013, Bernie approached the accused and asked if he was interested in doing IT-related works for Biosensors. The accused agreed and carried out the works accordingly.
+
+> (3)     Thereafter, sometime in 2014, Bernie informed the accused that Biosensors had fired one of their approved vendors who were implementing a finance and logistics SAP system for Biosensors. Bernie told the accused that he was going to appoint another company, which he referred to as “Sculpt” to do the works. Bernie offered a proposal to the accused for Ubiqpay to submit a marked-up quote to Biosensors for the works, and then for Ubiqpay to engage Sculpt as a subcontractor.
+
+> (4)     Ubiqpay was not in the business of providing such a SAP system, nor was the accused familiar with such works. He however agreed with Bernie’s proposal. Bernie gave him Sculpt’s quote for him to copy the description therein and prepare a quote from Ubiqpay to Biosensors. Bernie also instructed the accused on the amount of mark-up for Ubiqpay’s quote and stated that he wanted a cut from the mark-up. The accused agreed as he was worried that he would not get future business from Biosensors if he had refused. The accused then submitted the marked-up quote to Biosensors and Biosensors awarded the works to Ubiqpay.
+
+> (5)     Periodically, the accused would issue invoices to Biosensors for payment. These invoices would all be issued to Winson, as per the instructions of Bernie. After Biosensors had released payments to Ubiqpay, the accused would inform Bernie on how much the profits were after payment to Sculpt. Bernie would then tell him how much he wanted. There was no fixed percentage relied on by Bernie to calculate the amount to be paid to him but it was always in the region of 80% of the marked-up amounts.
+
+> (6)     The accused would then transfer the money to another one of his companies, Kingston International Holdings Limited, and thereafter withdraw the monies and pay Bernie in cash. Between February and August 2015, the accused handed over a total of $460,000 to Bernie in cash. These payments include:
+
+>> (a)       a sum of $160,000 handed to Bernie in May 2015 (DAC-913065-2019); and
+
+>> (b)       a sum of $135,000 handed to Bernie in August 2015 (DAC-913068-2019).
+
+> (7)     By virtue of the foregoing, the accused has committed two counts of corruptly giving gratification to Bernie as an inducement for doing acts in relation to his principal’s affairs, _to wit_, advancing the business interests of Ubiqpay with Biosensors, which are offences punishable under section 6(b) of the Prevention of Corruption Act.
+
+## Criminal Antecedents
+
+5       The Offender did not have a criminal record.
+
+## Prosecution’s Submissions on Sentence
+
+6       The Prosecution submitted that a global imprisonment of at least 12 months would be appropriate. Several sentencing precedents were tabulated and tendered to support the oral submissions. In particular, the DPP referred to the District Court case of _Public Prosecutor v Chew Sheng_ (DAC 913072/2019 unreported case) (“_Chew Sheng’s case_”) wherein the offender in that case was sentenced to 11 months’ imprisonment for agreeing to and giving a gratification of $159,200 to Bernie Seow of Biosensors to advance the business interests of the offender’s company with Biosensors. Two other charges were taken into consideration for sentencing, with the total gratification amounting to $302,300 for all the three charges.
+
+7       The Prosecution submitted that there should be sentencing parity with the punishment for Chew Sheng as the corruption relates to the same agents of the company Biosensors. The DPP suggested an uplift of one month for the reason that the Offender in our case had retained 20% of the mark-up whilst Chew Sheng did not receive any portion of the kickbacks. The DPP classified this case under Category 2 in _PP v Syed Mostofa Romel_ <span class="citation">\[2015\] 3 SLR 1166</span>.
+
+## Mitigation
+
+8       The Defence Counsel submitted that a sentence of 8 months’ imprisonment per charge to run concurrently would suffice. The DC cited the following factors:
+
+> ·    His client had not initiated the scheme.
+
+> ·    His client gained relatively minimal profit.
+
+> ·    His client was cooperative in the investigations.
+
+> ·    Biosensors had not suffered any real loss.
+
+## Prosecution’s Skeletal Response
+
+9       The Prosecution submitted a skeletal response to the Mitigation as follows:
+
+> ·    While it was true that the Offender did not initiate the scheme, he was very much involved by preparing the marked-up invoices.
+
+> ·    It was inaccurate to say that the profit gained by the Offender was relatively minimal as he shared in 20% of the illegal profits. The company, of which he is the director and sole shareholder, benefitted by $115,000.
+
+> ·    It was also incorrect to say that there was no loss suffered by Biosensors. Biosensors could have saved $575,000 – the amount of the mark-up.
+
+## Reasons for the Sentence
+
+10     In calibrating the sentences, it is important to point out that at the end of the day, this Court has to arrive at an overall sentence which is commensurate with the gravity of the offences, the circumstances in which they were committed and bearing in mind the type of offender.
+
+#### High Court Case of PP v Tee Fook Boon Andrew
+
+11     In the High Court decision of _PP v Tee Fook Boon Andrew_ <span class="citation">\[2011\] SGHC 192</span> “_Tee’s case_” hearing an appeal against the sentence passed by a District Court, Justice Steven Chong noted the following approach to sentencing for Section 6(b) PCA offences in the case of _PP v Ang Seng Thor_ <span class="citation">\[2011\] SGHC 134</span> (“_Ang Seng Thor_”). When sentencing for such offences, it would be relevant to have regard to the following non-exhaustive list of factors:
+
+> (a)     The main sentencing considerations in corruption cases are deterrence and punishment.
+
+> (b)     The giver of the bribe is generally as culpable as the receiver.
+
+> (c)     The size of the bribe has a bearing on both the culpability of the offender and the harm occasioned by the offence.
+
+12     There are many similarities in _Tee’s case_ with our case. The basic scheme in _Tee’s case_ was for Tee to use his company AT35 Services (“AT35”), which was a scrap metal and waste disposal company, to take over the business of providing food supplies to IKANO. IKANO’s Food Services Manager, an accomplice in the scheme, would select AT35 as IKANO’s food supplier and be rewarded with one-third of all profits earned by AT35 from its business with IKANO. IKANO selected AT35 as its food supplier after the corrupt scheme was hatched.
+
+13     Likewise, in our case, the Offender was approached by the Director and Associate Director of Biosensors to use his company Ubiqpay to prepare quotations of works to be done by a subcontractor. Ubiqpay was not in the business of providing such works. Instead, the Offender would just prepare a quote from Ubiqpay to Biosensors based on the quote provided by the subcontractor. Such a quote would be marked-up with a higher price determined by the accomplice who is the Director of Biosensors. The Director would receive a cut from the mark-up. The Director would usually receive around 80% of the mark-up and the Offender’s company Ubiqpay would keep the remaining 20%. In total, the Offender handed over $460,000 to the Director across a period of six months from February to August 2015.
+
+#### Calibration of the Sentences
+
+14     The Prosecution calibrated the proposed sentence of at least 12 months’ imprisonment primarily on the Principle of Parity with the sentence of 11 months’ imprisonment that was imposed in _Chew Sheng’s case_. In that case, the total amount of gratification was lower and there were only two TIC charges.
+
+15     The Defence suggested a sentence of 8 months’ imprisonment. This figure was derived principally from an extrapolation of the sentences passed for lower amounts of gratification in the case of _PP v Lee Seng Kee_ <span class="citation">\[2018\] SGDC 230</span>.
+
+16     I was inclined to accept the calibration of the Prosecution based on the Parity Principle since _Chew Sheng’s case_ and the present case involved the same company of Biosensors and the same Director as an accomplice. I was also guided by the approach of the High Court and the calibration of using weeks for the length of the custodial sentences as in _Tee’s case_. Justice Steven Chong also referred to the starting point of six weeks’ imprisonment per charge in _Ang Seng Thor_.
+
+17     I calibrated the sentence for the charge involving gratification of $160,000 at 48 weeks of imprisonment and the one involving $135,000 at 40 weeks. There were three other charges taken into consideration for sentencing. These involved amounts of gratification of $100,000 in February 2015, $6,500 in May 2015 and $58,500 in June 2015. The calibration had taken into account that the sentences would be run concurrently. Due regard had also been given to the plea of guilty and the lack of criminal records.
+
+## Conclusion
+
+18     In conclusion, the dominant sentencing principles in this case are both General and Specific Deterrence. The Offender might face the same pressure and incentive in future to succumb to corruption again in the competitive business environment. The sentence passed serves to remind him of the penal consequence and had to be sufficient to deter others who might be in similar situations to compromise for profit or survival. The sentences imposed for the offences committed by the Offender in this case were calibrated to reflect his criminality for agreeing to participate in the corrupt scheme. The sentence has been stayed pending appeal and the Offender is on bail. The accomplices have been charged but their cases have yet to be dealt with.
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F23899-SSP.xml)
