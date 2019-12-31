@@ -1,0 +1,537 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Muhammad Fuad Kamroden  
+
+### \[2019\] SGDC 287
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">DAC-912428-2017 &amp; Ors</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">24 December 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Brenda Tan</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Mr Bjorn Tan (29 July 2019) and Mr Andrew Low (4 Sep, 12 Sep, 30 Sep, 31 Oct and 13 Nov 2019) (Deputy Public Prosecutors) for the Prosecution; Mr Robert Leslie Gregory (M/s L G Robert) for the Accused</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Muhammad Fuad Kamroden</td></tr></tbody></table>
+
+24 December 2019
+
+### District Judge Brenda Tan:
+
+## Introduction
+
+1       This is an appeal against sentence by the Accused, Mr Muhammad Fuad Kamroden. The Accused, a 35 year old male Singapore Citizen, faced six charges. He pleaded guilty on 29 July 2019 to four proceeded charges under the Penal Code (Cap 224, 2008 Rev Ed) (“PC”). Three of the charges were part of a series of road rage offences committed on three different occasions against three different victims. One count was for voluntarily causing grievous hurt under s 325 PC, the second count was for voluntarily causing hurt under s 323 PC and the third count was for using criminal force under s 352 PC. The fourth proceeded charge was also a violence related offence for using criminal force under s 352 PC against a fourth victim in a public area. The Accused also consented to the remaining two charges of intentionally causing distress or harassment under s 3(2) of the Protection from Harassment Act (Cap 256A, 2015 Rev Ed) (“POHA”) to be taken into consideration (“TIC”) for the purpose of sentencing.
+
+2       On 31 Oct 2019, I sentenced the Accused to a total of two years, three months and six weeks imprisonment. I also disqualified him from holding or obtaining all classes of driving licences for a period of one year with effect from his date of release from prison. The Accused commenced serving his sentence on the same day. On 11 November 2019, his CLAS assigned counsel, Mr Leslie Gregory Robert, lodged a Notice of Appeal on the Accused’s behalf against sentence. On 13 November 2019, counsel informed the court that his client did not wish to apply for bail pending his appeal. The Accused is presently serving his sentence.
+
+3       For easy reference, I tabulate below the sentences that I imposed in this case:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="0"><colgroup><col width="8.3%"> <col width="31.9%"> <col width="30.24%"> <col width="29.56%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">S/n.</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Charge no.</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Offence provision</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Sentence</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">1.</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC-912428-2017</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">S 325 PC</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">2 years and 3 months’ imprisonment;</p><p align="justify" class="Table-Para-1">Disqualified from holding or obtaining all classes of driving licences for a period of one year with effect from date of release;</p><p align="justify" class="Table-Para-1">(consecutive)</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">2.</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">MAC-904902-2019</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">S 323 PC</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">6 weeks’ imprisonment</p><p align="justify" class="Table-Para-1">(consecutive)</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">3.</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">MAC-906066-2018</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">S 352 PC</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">3 weeks’ imprisonment</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">4.</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">MAC-906989-2018</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">S 352 PC</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">1 month’s imprisonment</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">5.</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">MAC-906990-2018</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">S 3(2) POHA</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">TIC</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">6.</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">MAC-904901-2019</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">S 3(2) POHA</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">TIC</p></td></tr><tr><td align="left" class="" colspan="4" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Total: 2 years 3 months and 6 weeks imprisonment and disqualified from holding or obtaining all classes of driving licences for a period of one year with effect from date of release</p></td></tr></tbody></table>
+
+  
+  
+
+## The Charges
+
+4       The charges that the Accused pleaded guilty to read as follows:
+
+> _1) DAC-912428-2017 (exhibit C1D)_
+
+_1st CHARGE (AMENDED)_
+
+> You,
+
+_MUHAMMAD FUAD KAMRODEN_
+
+_MALE / 35 YEARS OLD_
+
+_DATE OF BIRTH: 9 MAY 1984_
+
+_SINGAPORE CITIZEN_
+
+> _are charged that you, on 12 August 2016, at about 8.20 pm, at car park 10 of the National University of Singapore located at 21 Lower Kent Ridge Road, Singapore, did voluntarily cause grievous hurt to one Pek Lian Hui, to wit, by punching him several times on his head, face and stomach, causing the said Pek Lian Hui to sustain the following injuries:_
+
+>> _a_)     _Marked swelling and tenderness over his face at the periorbital, zygomatic and maxillary area;_
+
+>> _b_)     _Multiple superficial facial abrasions; and_
+
+>> _c_)     _Facial fractures involving the anterior, medial and lateral walls of the_ left _maxillary sinus, left medial and lateral pterygoid plates, and medial wall of the right maxillary sinus._
+
+> _and you have thereby committed an offence punishable under section 325 of the Penal Code (Cap 224, 2008 Rev Ed)._
+
+> _2) MAC-906066-2018 (exhibit C2D)_
+
+_2ND CHARGE (AMENDED)_
+
+> _You_,
+
+_MUHAMMAD FUAD KAMRODEN_
+
+_MALE / 35 YEARS OLD_
+
+_DATE OF BIRTH: 9 MAY 1984_
+
+_SINGAPORE CITIZEN_
+
+> _are charged that you, on 2 December 2017, at or about 2.40 a.m., at the Clarke Quay taxi stand located along, River Valley Road, Singapore, did use criminal force to one Mohamed Iqbal S/O Mohamed Shariff, to wit, by pushing him on his left cheek, and you have thereby committed an offence punishable under Section 352 of the Penal Code (Cap 224, 2008 Rev Ed)._
+
+> _3) MAC-906989-2018 (exhibit C3D)_
+
+_3RD CHARGE (AMENDED)_
+
+> _You_,
+
+_MUHAMMAD FUAD KAMRODEN_
+
+_MALE / 35 YEARS OLD_
+
+_DATE OF BIRTH: 9 MAY 1984_
+
+_SINGAPORE CITIZEN_
+
+> _are charged that you, on 6th May 2018, at about 12.45 p.m., outside Golden Village cinema at Vivocity, 1 Harbourfront Walk, Singapore, did use criminal force on one Ye Zhaojin, to wit, by bumping your chest against him, pushing his shoulder, face, and left elbow, and you have thereby committed an offence punishable under Section 352 of the Penal Code (Cap 224, 2008 Rev Ed)._
+
+> _4) MAC-904902-2019 (exhibit C4B)_
+
+_6TH CHARGE (AMENDED)_
+
+> _You_,
+
+_MUHAMMAD FUAD KAMRODEN_
+
+_MALE / 35 YEARS OLD_
+
+_DATE OF BIRTH: 9 MAY 1984_
+
+_SINGAPORE CITIZEN_
+
+> _are charged that you, on 26 February 2019 at about 11.40am, in the vicinity of Selegie Road, Singapore, did voluntarily cause hurt to one Tio Seng Sing, to wit, by punching him once on his face, and causing him to suffer a contusion on his left cheek, and you have thereby committed an offence punishable under Section 323 of the Penal Code (Cap 224, 2008 Rev Ed)._
+
+5       The TIC charges read as follows:
+
+> _1) MAC- 906990-2018 (exhibit 5D)_
+
+_4th CHARGE (AMENDED)_
+
+> _You_,
+
+_MUHAMMAD FUAD KAMRODEN_
+
+_MALE / 35 YEARS OLD_
+
+_D.O.B.: 9 MAY 1984_
+
+_SINGAPORE CITIZEN_
+
+> _are charged that you, on the 6th day of May 2018, at about 12.50 p.m., outside Golden Village cinema at Vivocity, 1 Harbourfront Walk, Singapore, did, with intent to cause distress to one Chua Yeong Meng, make a threatening communication, to wit, by shouting at him to “watch out” a few times, thereby causing distress to the said Chua Yeong Meng, and you have thereby committed an offence punishable under section 3(2) of the Protection from Harassment Act (Cap 256A, 2015 Rev Ed)._
+
+> _2) MAC-904901-2019 (exhibit 6B)_
+
+_5th CHARGE (AMENDED)_
+
+> _You_,
+
+_MUHAMMAD FUAD KAMRODEN_
+
+_MALE / 35 YEARS OLD_
+
+_D.O.B.: 9 MAY 1984_
+
+_SINGAPORE CITIZEN_
+
+> _are charged that you, are charged that you, on 26 February 2019 at about 11.40am, in the vicinity of Selegie Road, Singapore, did, with intent to cause harassment to one Tio Seng Sing, to wit, by showing your middle finger to the said person, thereby causing harassment to the said person, and you have thereby committed an offence punishable under section 3(2) of the Protection from Harassment Act (Cap 256A, 2015 Rev Ed)._
+
+## Statement of Facts (“SOF”)
+
+6       The Accused admitted to the following Statement of Facts without qualification:
+
+> _1_.     _The accused is Muhammad Fuad Kamroden, a 35-year-old Singaporean male (D.O.B. 9 May 1984) bearing NRIC No. Sxxxxxxxx._
+
+> **_FACTS PERTAINING TO THE 1st CHARGE (s 325 Cap 224 vide DAC-912428-2017)_**
+
+> _2_.     _The first victim is Pek Lian Hui (“V1 Pek”), a 52-year-old male. At the material time, V1 Pek was driving the lorry bearing licence plate number GW9000L (“V1 Pek’s lorry”). He was working as a contractor._
+
+> _3_.     _At the material time, the accused was driving the car bearing licence plate number SGG3346M (“the accused’s car”)._
+
+> **_First information report_**
+
+> _4_.     _On 12 August 2016, at about 8.32pm, police received a call from V1 Pek with the text of message, “I got assaulted by someone and blood many many now.” The incident location was provided as the National University of Singapore, inside the open carpark, Singapore._
+
+> **_Facts_**
+
+> _5_.     _On 12 August 2016, at about 8.20pm, the accused and V1 Pek were driving their respective vehicles in car park 10 of the National University of Singapore located at 21 Lower Kent Ridge Road, Singapore. V1 Pek was driving his lorry in front of the accused’s car, looking for a vacant lot. The accused was of the view that V1 Pek was driving too slowly, blocking the road, and so the accused sounded his horn at V1 Pek. The accused then overtook V1 Pek’s lorry, and pointed his middle finger at V1 Pek as he passed. The accused then stopped his car in front of V1 Pek’s lorry. V1 Pek alighted, approached the accused’s car, and knocked on the window of the driver’s seat. The accused then exited his vehicle and a dispute ensued._
+
+> _6_.     _The accused subsequently punched V1 Pek several times on his face, head and stomach. V1 Pek managed to disengage himself from the assault to make a call to his brother to ask what he should do. Shortly after V1 Pek ended the phone call, the accused asked V1 Pek what he wanted. When V1 Pek stated that he would report the incident to the police, the accused resumed punching V1 Pek again, this time with punches landing on V1 Pek’s nose. A witness, who happened to be in the vicinity, as well as the accused’s mother, intervened to stop the accused. Only then did the accused leave the scene in his car._
+
+> _7_.     _The accused had perpetrated these acts of violence specifically as a result of the dispute with V1 Pek over their shared use of the road._
+
+> _8_.     _V1 Pek, who bled heavily from his injuries, then made a call to the police. Photographs of the scene, including of the blood stains of the road, were taken by the responding police officers. This is pictured as follows:_
+
+![]([2019] SGDC 0287_Image/[2019] SGDC 0287_image1.png)
+
+> _Fig 1.1: Photograph depicting bloodstains on the road from V1 Pek’s facial injuries_
+
+> _9_.     _V1 Pek was conveyed to the National University Hospital (“NUH”) on 12 August 2016 and was found to have sustained the following injuries (Medical report by Dr Yap Yan Lin dated 24 August 2016, Ref: D/20160812/0099):_
+
+>> _a_)     _Marked swelling and tenderness over his face at the periorbital, zygomatic and maxillary area;_
+
+>> _b_)     _Multiple superficial facial abrasions; and_
+
+>> _c_)     _Facial fractures involving the anterior, medial and lateral walls of the left maxillary sinus, left medial and lateral pterygoid plates, and medial wall of the right maxillary sinus._
+
+> _10_.     _V1 Pek underwent open reduction and internal fixation of the facial fractures on 16 August 2016. He was admitted to NUH for a period of 6 days (from 13 August 2016 to 18 August 2016). Operative findings found that the extent of the fractures were as follows:_
+
+>> _a_)     _Le Fort I bilateral maxillary fractures, on the right and left side._
+
+>> _b_)     _Right: minimally displaced._
+
+>> _c_)     _Left: slightly impacted._
+
+>> _d_)     _Horizontal fractures through bilateral nasomaxillary and zygomaticomaxillary buttresses._
+
+> _11_.     _The accused has thereby committed an offence punishable under s 325 of the Penal Code (Cap 224)._
+
+> **_FACTS PERTAINING TO THE 2nd CHARGE (s 352 Cap 224 vide MAC-906066-2018)_**
+
+> _12_.     _The second victim is Mohamed Iqbal s/o Mohamed Shariff (“V2 Iqbal”), a 46-year-old male. At the material time, V2 Iqbal was working as a taxi driver, and was the driver of a taxi car bearing license plate number SHB4734J._
+
+> _13_.     _At the material time, the accused was the driver of the car bearing licence plate number SGD4011M (“the accused’s Grab car”), and was working as a Grab driver._
+
+> **_First information report_**
+
+> _14_.     _On 2 December 2017, at about 2.49am, the police received a call from V2 Iqbal with the text of message, “Uber guy assaulted me on my face. I picked up a passenger and had drove off. I took a picture of his vehicle. I will go police station later. What actions is the police going to take?” The incident location was provided as Blk 177 River Valley Rd, Liang Court, Singapore 179030._
+
+> **_Facts_**
+
+> _15_.     _On 2 December 2017 , V2 Iqbal, at about 2.40 am, was at the Clarke Quay taxi stand located along River Valley Rd, queuing up to pick his passenger up. While queueing, V2 Iqbal was directed by a road marshall to move his taxi to the private car pickup point. However, as V2 Iqbal did so, the accused’s Grab car came from behind, to V2 Iqbal’s right, and the accused’s Grab car’s left side mirror collided with V2 Iqbal’s right side mirror._
+
+> _16_.     _The accused then lowered his car’s front passenger window, and shouted vulgarities at V2 Iqbal. The accused then drove his Grab car forwards, cutting into V2 Iqbal’s lane._
+
+> _17_.     _V2 Iqbal alighted from his car to check on his right side mirror and to speak to the accused. The accused also stopped his Grab car and walked towards the road marshall._
+
+> _18_.     _When the accused and V2 Iqbal arrived before the road marshall, the road marshal confirmed that V2 Iqbal had stopped his car at the right place. A dispute ensued between V2 Iqbal and the accused over their shared use of the road, during which the accused pointed his middle finger at V2 Iqbal and pushed his left cheek, causing V2 Iqbal to lose balance. As a result, V2 Iqbal felt pain on his left cheek._
+
+> _19_.     _The accused then walked off and drove away._
+
+> _20_.     _V2 Iqbal sought medical treatment at the National University Hospital’s Emergency Department on 2 December 2017, and was found to have suffered a facial contusion (Medical Report by Dr S Balakrishnan, dated 18 December 2017, Ref No E/20171202/0040). V2 Iqbal was discharged and given 3 days of medical leave from 2 – 4 December 2017._
+
+> _21_.     _The accused has thereby committed an offence punishable under s 352 of the Penal Code (Cap 224, 2008 Rev Ed). The accused committed this offence while he was released on bail._
+
+> **_FACTS PERTAINING TO THE 3rd CHARGE (s 352 Cap 224 vide MAC-906989-2018)_**
+
+> _22_.     _The third victim is Ye Zhaojin (“V3 Ye”), a 37-year-old male._
+
+> _23_.     _The witness is Chua Yeong Meng, a 42-year-old male. At the material time, he was an off-duty police officer._
+
+> **_First information report_**
+
+> _24_.     _On 6 May 2018, at about 12.51p.m., the police received a call with the text of message, “Can dispatch NPCO to the scene please? Dispute between a Chinese and a Malay guy here.” The incident location was given as Blk 1 Harbourfront Walk #01-51 near OSIM shop, Vivocity Singapore._
+
+> **_Facts_**
+
+> _25_.     _On 6 May 2018 at about 12.45 p.m., V3 Ye was at Golden Village at level 2 of Vivocity. While walking along a corridor, V3 Ye’s right shoulder accidentally bumped into the accused’s right shoulder, as the accused was walking in the opposite direction._
+
+> _26_.     _The accused became angry and shouted at V3 Ye, asking V3 Ye why he had pushed him. The accused behaved aggressively towards V3 Ye, bumping his chest against V3 Ye, as well as pushing the shoulder, face, and left elbow of V3 Ye._
+
+> _27_.     _At this moment, the witness saw the assault and came forward to intervene by telling the accused to stop what he was doing and identifying himself as a police officer. However, the accused ignored the witness and continued to be aggressive towards V3 Ye. The witness thus stood between the accused and V3 Ye, using his hand to stop the accused from coming any closer to V3 Ye, and asking the accused to step back. In response, the accused raised his voice at the witness, asking him to move away and saying that it was none of his business._
+
+> _28_.     _The Vivocity security officers subsequently brought the accused to the fire control centre of Vivocity to wait for the police’s arrival._
+
+> _29_.     _V3 Ye sought medical treatment at Singapore General Hospital on 6 May 2018 at 5.55pm. V2 Ye was found to have sustained an abrasion over the left elbow measuring 1cm x 4cm (Medical Report by Dr Amar Satyam dated 23 May 2018, Ref MR/07911/2018)._
+
+> _30_.     _The accused has thereby committed an offence punishable under s 352 of the Penal Code (Cap 224, 2008 Rev Ed). The accused committed this offence while he was released on bail._
+
+> **_FACTS PERTAINING TO THE 6th CHARGE (s 323 Cap 224 vide MAC-904902-2019)_**
+
+> _31_.     _The fourth victim is Tio Seng Sing (“V5 Tio”), a 71-year-old male. At the material time, V5 Tio was working as a taxi driver, and was the driver of a taxi car bearing license plate number SHD6014E._
+
+> _32_.     _At the material time, the accused was the driver of the motorcycle bearing licence plate number FBD7384B (“the accused’s motorcycle”)._
+
+> _33_.     _The witness is Ooi Chee Keong, a 36-year-old male. He was the passenger in V5 Tio’s taxi at the material time._
+
+> **_First information report_**
+
+> _34_.     _On 26 February 2019, at about 11.45am, the police received a call from the witness with the text of message, “Dispute between Taxi Driver and Motorcyclist. The Motorcyclist boxed the Taxi Driver and fell down. I am leaving because I am going to visit my daughter at KK Hospital.” The incident location was provided as Selegie Road by Bukit Timah Road, Singapore._
+
+> **_Facts_**
+
+> _35_.     _On 26 February 2019 at about 11.40 a.m., V5 Tio was driving his taxi along Selegie Road towards Bukit Timah Road when he stopped at a junction because the traffic light signal was red. V5 Tio’s taxi was the first vehicle in line at the junction. According to the witness who was seated in V5 Tio’s taxi, just before the traffic light signal turned green, V5 Tio started to inch his taxi forward when the accused’s motorcycle suddenly cut in front of V5 Tio’s taxi and stopped, forcing V5 Tio to break. V5 Tio then sounded his horn at the accused. Just as the light turned green, the accused pointed his middle finger at V5 Tio before riding off._
+
+> _36_.     _At the next junction, when the traffic light signal was red, V5 Tio alighted from his taxi and approached the accused. According to the witness, V5 Tio held onto the accused’s motorcycle by its seat and its front guard. The accused then punched V5 Tio in the face and causing him to fall to the ground. V5 Tio managed to recover and stood up. The accused then dismounted, lost his balance and his motorcycle fell on him. Both parties then waited at the scene for the police to arrive._
+
+> _37_.     _V5 Tio sought medical treatment at Toa Payoh Polyclinic on 26 February 2019, and was found to have suffered a contusion on his left cheek (Medical Report by Dr Khor Yee Han, dated 28 March 2019, Ref TPP/MR/2019/55)._
+
+> _38_.     _The accused had punched V5 Tio over their shared use of the road._
+
+> _39_.     _The accused has thereby committed an offence punishable under s 323 of the Penal Code (Cap 224, 2008 Rev Ed). The accused committed this offence while he was released on bail._
+
+## Antecedents
+
+7       The Accused admitted to the following antecedents.
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="0"><colgroup><col width="32.7%"> <col width="33.14%"> <col width="34.16%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Date of Sentence</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Offence</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Sentence</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">29 November 2000</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">1) DAC-45141-2000</p><p align="justify" class="Table-Para-1">S. 380 PC</p><p align="justify" class="Table-Para-1">Theft In Dwelling-House</p><p align="justify" class="Table-Para-1">2) DAC-45142-2000</p><p align="justify" class="Table-Para-1">S. 380 PC</p><p align="justify" class="Table-Para-1">Theft In Dwelling-House</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Probation 12 Months</p></td></tr><tr><td align="left" class="br" rowspan="2" valign="top"><p align="justify" class="Table-Para-1">19 May 2016</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">1) MCN-900173-2015</p><p align="justify" class="Table-Para-1">S. 323 PC</p><p align="justify" class="Table-Para-1">Voluntarily Causing Hurt</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">3 Weeks’ Imprisonment</p><p align="justify" class="Table-Para-1">Consecutive</p><p align="justify" class="Table-Para-1">(road rage)</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">2) DAC 941669-2015</p><p align="justify" class="Table-Para-1">S. 323 PC</p><p align="justify" class="Table-Para-1">Voluntarily Causing Hurt</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">4 weeks Imprisonment</p><p align="justify" class="Table-Para-1">Consecutive</p><p align="justify" class="Table-Para-1">(road rage)</p></td></tr></tbody></table>
+
+  
+  
+
+8       The Accused’s 2016 antecedents for voluntarily causing hurt under s 323 PC were road rage incidents for which he was sentenced to a total of 7 weeks’ imprisonment.
+
+9       The Prosecution provided details of these two previous road rage offences as follows:
+
+> _First incident (MCN-900173-2015)_
+
+> _On 12 October 2014, the accused was riding his motorcycle when he nearly collided with the car that the victim was in. The accused and victim then confronted each other and the accused head-butted the victim in the face while still wearing his helmet. He then proceeded to punch the victim’s body multiple times. As a result of this incident, the victim suffered abrasions and swelling on various parts of his face and chest and was given one day of outpatient medical leave._
+
+> _Second incident (DAC-941669-2015)_
+
+> _On 6 September 2015, the accused was driving a taxi when he nearly collided with the victim’s car. The accused and victim then confronted each other and during the confrontation, the accused was hit in the face with his mobile phone as the victim tried to prevent him from recording the incident. The accused then responded by fisting the victim multiple times in the face. As a result of the incident, the victim suffered various abrasion and a left patella inferior pole transverse fracture. He was given a total of 39 days of hospitalization leave._
+
+## Prosecution’s submissions on sentence
+
+10     The Prosecution initially submitted for a global sentence of at least 18 months’ and 6 weeks’ imprisonment[^1]. Subsequently, it revised its sentencing position in respect of the s 325 PC charge and sought a global sentence of at least 36 months’ and 6 weeks’ imprisonment as follows[^2]:
+
+<table align="center" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="11.2777444511098%"> <col width="12.9774045190962%"> <col width="17.8364327134573%"> <col width="21.0957808438312%"> <col width="18.9562087582484%"> <col width="17.8564287142572%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Case no.</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Offence</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Date/Time of incident</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Description</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Initial submission</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Revised submission</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC-912428-2017</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">S 325 PC</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">12 Aug 2016</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Road rage involving the first victim, Pek Lian Hui, resulting in multiple facial fractures.</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">At least</p><p align="center" class="Table-Para-1">16 months’ imprisonment</p><p align="center" class="Table-Para-1">(consecutive)</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1">At least 36 months’ imprisonment</p><p align="center" class="Table-Para-1">(consecutive)</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">MAC-906066-2018</p><p align="justify" class="Table-Para-1">&nbsp;</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">S 352 PC</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">2 Dec 2017</p><p align="justify" class="Table-Para-1">(<b>Reoffended while on Bail)</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Road rage involving the second victim, Mohamed Iqbal s/o Mohamed Shariff.</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">At least 1 month’s imprisonment</p><p align="center" class="Table-Para-1">(consecutive)</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1">At least 1 month’s imprisonment(concurrent)</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">MAC-906989-2018</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">S 352 PC</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">6 May 2018</p><p align="justify" class="Table-Para-1">(<b>Reoffended while on Bail)</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Chest bumped and pushed the third victim, Ye Zhao Jin, on shoulder and face thrice.</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">At least 1 month’s imprisonment</p><p align="center" class="Table-Para-1">(consecutive)</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1">At least 1 month’s imprisonment(concurrent)</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">MAC-904902-2019</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">S 323 PC</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">26 Feb 2019</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Road rage involving the [fourth] victim, Tio Seng Sing.</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">At least</p><p align="center" class="Table-Para-1">6 weeks’ imprisonment</p><p align="center" class="Table-Para-1">(consecutive)</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1">At least 6 weeks’ imprisonment (concurrent)</p></td></tr><tr><td align="left" class="" colspan="6" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1"><b>Initial recommended Global Sentence:</b></p><p align="justify" class="Table-Para-1">Sentences for <u>all four</u> proceeded charges to run <u>consecutively</u> for a total of at least <u>18 months and 6 weeks’ imprisonment.</u></p><p align="justify" class="Table-Para-1"><b>Revised Recommended Global Sentence</b>:</p><p align="justify" class="Table-Para-1">Sentences for <u>DAC-912428-2017 and MAC-904902-2019</u> to run <u>consecutively</u> for a total of at least <u>36 months and 6 weeks’ imprisonment</u>.</p></td></tr></tbody></table>
+
+  
+  
+
+11     The reason for the Prosecution’s revised sentencing position was that it had previously not brought the case of _PP v BDB_ (“BDB”) <span class="citation">\[2017\] SGCA 69</span> to the court’s attention. _BDB_ is a Court of Appeal decision which laid down sentencing guidelines when dealing with s 325 PC offences.
+
+### S 325 PC charge (1st charge - DAC-912428-2017)
+
+12     The Prosecution highlighted the following aggravating factors in respect of the s 325 PC road rage offence against the victim Pek Lian Hui, which resulted in multiple facial fractures:
+
+> 1)     The attack was vicious in nature, repeated punches to the face, head (a vulnerable part of the body) and stomach;
+
+> 2)     The Accused had attacked the victim again after the victim said that he would report the matter to the police. The High Court in _PP v Lim Yee Hua_ <span class="citation">\[2018\] 3 SLR 1106</span> _(“Lim Yee Hua”)_ at \[64\] held that this was a significant aggravating factor because such actions impeded the functioning of the police by obstructing the commencement of investigations processes;
+
+> 3)     There was a need for general deterrence as this was a case of road rage (see _Lim Yee Hua_ at \[29\]);
+
+> 4)     There was also a need for specific deterrence in light of the Accused’s similar antecedents.
+
+13     The Prosecution also took into account the following mitigating factors:
+
+> 1)     The Accused’s plea of guilt;
+
+> 2)     The Accused had effected compensation for the victim’s medical expenses although belatedly after he had entered his guilty plea and when the court enquired about it.
+
+14     After considering the sentencing guidelines in _BDB_, the precedent in _PP v Win Thu Ya_ <span class="citation">\[2018\] SGDC 204</span>, the aggravating and mitigating factors, the prosecution recommended that the sentence for the s 325 PC charge should be 36 months’ imprisonment.
+
+### S 323 PC charge (6th charge - MAC-904902-2019)
+
+15     In respect of the s 323 PC road rage offence against the victim Tio Seng Sing, the Prosecution relied on _Low Song Chye v PP and another appeal_ <span class="citation">\[2019\] SGHC 140</span> (“_Low Song Chye_”) to submit for a sentence of at least 6 weeks’ imprisonment. It argued that the custodial term had been crossed in this case and that a sentence above four weeks was warranted notwithstanding that the Accused had pleaded guilty and that the harm caused was low.
+
+16     The Prosecution pointed out the following aggravating factors:
+
+> 1)     The Accused had punched the victim in the face, a vulnerable part of the body;
+
+> 2)     The victim was an elderly person aged 71 years old and belonged to a recognised group of vulnerable victims (see BDB at \[34\]);
+
+> 3)     This case involved road rage which called for general deterrence ;
+
+> 4)     Specific deterrence was necessary in light of the Accused’s similar antecedents;
+
+> 5)     This was the third offence committed by the Accused while he was on bail;
+
+### S 352 PC charges (2nd charge - MAC-906066-2018 and 3rd charge - MAC-906989-2018)
+
+17     In seeking at least one month’s imprisonment term per charge for both the s 352 PC offences, the Prosecution cited the reported precedent in _PP v Huang Sze Thian Felix_ <span class="citation">\[2013\] SGDC 67</span> (“_Felix Huang_”) in support of its submissions. _Felix Huang_ was a case involving road rage. The first victim, a taxi driver, had flashed his headlights and sounded his horn at the accused who was driving at a slow speed in-front of the taxi. This caused the accused to stop his car suddenly. He alighted, approached the taxi and started to shout at the taxi driver, accusing him of cutting dangerously into his lane. The second victim, a passenger in the taxi, took a photograph of the accused confronting the taxi driver. The accused then flung the passenger door open, grabbed the second victim’s right arm and tried to pull her out of the taxi. The accused was sentenced to two weeks’ imprisonment for using criminal force under s 352 of the PC against the passenger. His offence of voluntarily causing hurt under s 323 PC for punching the taxi driver on his arm twice was taken into consideration. The accused had a previous conviction under s 323 PC for which he was fined $5000 on appeal.
+
+18     The Prosecution submitted that in the present case, the Accused was not only traced for similar offences, he had also in committing the two s 352 offences in question re-offended while on bail. Thus the Prosecution argued that a sentence in excess of the two weeks’ imprisonment imposed in _Felix Huang_’s case was warranted and that one month’s imprisonment per charge would be appropriate.
+
+19     The Prosecution also argued that since Accused was a recalcitrant offender who had re-offended multiple times while on bail, there was a need to send a strong message to him and other like-minded individuals that such violence could not be tolerated. It thus urged the court to run the s 325 PC charge and s 323 PC charge consecutively for a total of 36 months and six weeks’ imprisonment.
+
+## Mitigation
+
+20     The Defence sought a global sentence of nine months’ imprisonment and submitted as follows[^3]:
+
+> 1)     In respect of the s 325 PC charge, it was not the Accused who came out of his vehicle to confront the victim. The Accused was taking his mother to the hospital to visit his father who was warded and he was extremely stressed at that time. It was the victim who alighted from his vehicle and approached the Accused’s vehicle with his mother inside and banged on the car window causing the Accused to “snap”.
+
+> 2)     In respect of the s 352 PC charge in MAC-906066-2018 (2nd charge), the victim did not suffer any fractures, only a contusion. Again, the Accused did not confront the victim directly but went towards the road marshal where a verbal spat caused the Accused to lose his temper.
+
+> 3)     In respect of the s 352 charge in MAC-906066-2018 (3rd charge), the victim did not suffer any fractures, just an abrasion.
+
+> 4)     In respect of the s 323 charge, again, it was not the Accused who confronted the victim and there were no fractures.
+
+> 5)     The Accused recognised that he had a problem with anger and had sought help at Clarity Singapore Limited.
+
+> 6)     At the material time, he was working as an Uber driver and had obtained an extremely high rating of 4.94 out of 5 for his services. On one hand, he was a very good Uber driver and on the other hand, when confronted, he was quick to lose his temper
+
+> 7)     He had since resigned as an Uber driver to prevent further incidents from arising and had gone into the business of exporting motorcycles;
+
+> 8)     He had a history of depression and obsessive compulsive disorder.
+
+> 9)     He had tried to manage his condition and hope to be able to manage his anger issues better with further sessions;
+
+> 10)     The global sentence of nine months could be achieved by imposing about 7.5 months for the s 325 charge to run consecutively with one sentence of about four weeks and it would add up to about nine months;
+
+## Prescribed punishments
+
+21     The prescribed punishments for the offences in question were as follows:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="0"><colgroup><col width="49.06%"> <col width="50.94%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Offence</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Maximum penalty</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">S 325 PC</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Imprisonment which may extend to 10 years and shall also be liable to fine or to caning</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">S 323 PC</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Imprisonment which may extend to 2 years or with fine which may extend to $5000 or with both</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">S 352 PC</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Imprisonment which may extend to 3 months or with fine which may extend to $1,500, or with both</p></td></tr></tbody></table>
+
+  
+  
+
+## Sentencing considerations
+
+### Sentencing approach under S 325 PC
+
+22     The Court of Appeal in _BDB_ at \[55\] laid down a two-step sentencing approach for cases prosecuted under s 325 of the PC. It held that that the primary sentencing objective in such cases is likely to be deterrence and retribution may also be relevant as a sentencing consideration where heinous violence has been inflicted. The two-step process is as follows:
+
+> (_a_)     _First, because the seriousness of the injury caused underscores the inherent mischief targeted by s 325, it is a good indicator of the gravity of the offence and can guide the court in determining the indicative starting point for sentencing._
+
+> (_b_)     _Second, after the indicative starting point has been identified, the sentencing judge should consider the necessary adjustments upwards or downwards based on an assessment of the offender’s culpability and the presence of relevant aggravating and/or mitigating factors._
+
+### Sentencing framework under s 323 PC
+
+23     The High Court in _Low Song Chye_ at \[77\] laid down a sentencing bands framework for first time offenders who plead guilty to a charge under s 323 of the PC. The bands are as follows:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="12.6025205041008%"> <col width="55.2910582116423%"> <col width="32.1064212842568%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Band</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Hurt caused</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Indicative sentencing range</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">1</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Low harm: no visible injury or minor hurt such as bruises, scratches, minor lacerations or abrasions</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Fines or short custodial</p><p align="justify" class="Table-Para-1">term up to four weeks</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">2</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Moderate harm: hurt resulting in short hospitalisation or a substantial period of medical leave, simple fractures, or temporary or mild loss of a sensory function</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Between four weeks’ to six months’ imprisonment</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">3</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Serious harm: serious injuries which are permanent in nature and/or which necessitate significant surgical procedures</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Between six to 24 months’</p><p align="justify" class="Table-Para-1">Imprisonment</p></td></tr></tbody></table>
+
+  
+  
+
+24      _Low Song Chye_ also prescribed a two-step inquiry:
+
+> (_a_)     _First, the court should identify the sentencing band and where the particular case falls within the applicable indicative sentencing range by considering the hurt caused by the offence. This would allow the court to derive the appropriate indicative starting point._
+
+> (_b_)     _Next, the court should make the necessary adjustments to the indicative starting point sentence based on its assessment of the offender’s culpability as well as all other relevant factors. This may take the eventual sentence out of the applicable indicative sentencing range. The aggravating and mitigating factors identified in BDB at \[62\] to \[70\] and \[71\] to \[75\] respectively are relevant at this step._
+
+25     The High Court in _Low Song Chye_ clarified at \[81\] that there may be cases in which minor harm is caused but nonetheless the custodial threshold is crossed:
+
+> _…..the indicative ranges provided are merely starting points. There may be cases in which minor harm is caused, but where the custodial threshold is crossed such that a sentence up to or even in excess of four weeks’ imprisonment may be warranted. This may be due to, for example, a particular need for deterrence resulting from the offender’s antecedents, the need to protect a specific category of victim, or where there are factors indicating a high level of culpability, such as the use of a weapon, or a premeditated or group attack._
+
+### Sentencing considerations under s 352 PC
+
+26     The sentencing considerations for an offence under s 352 PC are similar to the ones for an offence under s 323 PC. In this regard, I was guided by the commentaries of the editors in the Practitioner’s Library – Sentencing Practice in the Subordinate Courts, 3rd Edition, LexisNexis 2013 at page 342:
+
+> _Some of the fact situations prosecuted under s 352 can fall under the offence of s 323. However, the typical situation where prosecutions under s 352 are brought are in cases of pushing. The considerations for sentencing would be similar to a s 323 offence. Each case appears to turn very much on its unique set of circumstances. Absent aggravating circumstances, a fine is the norm._
+
+## My decision
+
+### S 325 PC (1st charge)
+
+27     In sentencing the Accused to 2 years and 3 months’ imprisonment for the s 325 PC charge, I took into account the following.
+
+### Indicative Starting Point pursuant to the sentencing approach under BDB
+
+28     I was of the view that the indicative starting point in this case should be around two years’ imprisonment. I arrived at this indicative starting point after considering the starting points/sentences in the following cases.
+
+> 1)     In _BDB_, the Court of Appeal held at \[56\] that the indicative starting point should be around an imprisonment term of three years and six months where the grievous hurt takes the form of multiple fractures of the type and gravity described in the sixth charge which are fractures to the left elbow, left calf and right 8th to 11th ribs. These injuries were suffered by a helpless four year old child. The facts in BDB are more serious than the present case.
+
+> 2)     In _PP v Win Thu Ya_ <span class="citation">\[2018\] SGDC 204</span> (“_Win Thu Ya_”), a precedent cited by the Prosecution, the accused pleaded guilty to a charge under s 325 of the PC. He had punched the victim in the face causing the victim to suffer facial fractures. The learned District Judge held that the indicative starting point was around three years’ imprisonment. _Win Thu Ya_ did not pursue his appeal against sentence and the appeal lapsed. I agreed with the Prosecution that the injuries in _Win Thu Ya_’s case were similar to the fractures in the present case in that both cases involved multiple facial fractures but the injuries were not identical. In my view, the fractures in Win Thu Ya were worse than the fractures in the present case because they were concentrated not only on the nose but at the vulnerable left eye region too. Hence, I adjusted the indicative starting point downwards for the present case. The fractures in Win Thu Ya’s case were as follows:
+
+>> 1)       Left lamina papyracea fracture;
+
+>> 2)       Floor of the left orbit fracture involving the left infraorbital nerve canal;
+
+>> 3)       Depressed fracture of the left nasal bone; and
+
+>> 4)       Fracture of the perpendicular plate of the ethmoid bone;
+
+> 3)     The Prosecution also tendered a table consisting of four other sentencing precedents under s 325 of the PC which were decided after _BDB_. The sentences ranged from ten months’ to two years’ imprisonment. In _PP v Ong Weiwen, Denis_ and _PP v Tan Jun Jie_, which were unreported decisions involving nasal fractures, 15 months and 10 months’ imprisonment were imposed respectively. Nasal fractures were less severe injuries compared to the injuries in the present case. The other two precedents in the Prosecution’s table were more relevant as they involved facial fractures. One was the case of _PP v P Rajenthirun_ <span class="citation">\[2018\] SGDC 95</span>. _P Rajenthirun_ used a metal pole to hit the victim with whom he had a recent argument. He also kicked the victim while the victim was on the ground. The victim sustained a number of injuries including multiple fractures related to the right bony orbit/partially imaged maxillary sinus and was given 8 days’ medical leave. The victim there had declined to be hospitalised. The Prosecution did not submit on _BDB_ neither did the District Court use the _BDB_ sentencing approach. The learned District Judge in _P Rajenthirun_ imposed a sentence of two years’ imprisonment which was affirmed on appeal. Although the Accused in our case did not use any weapon, the injuries suffered by the victim Pek Lian Hui were more serious and the victim also had to undergo surgery. The last precedent cited by the Prosecution was the case of _PP v Pettijohn William Samuel_ where the accused was convicted after trial of punching the victim on the left side of his face which resulted in the victim falling to the ground and sustaining facial fractures amongst other injuries. The District Court imposed 20 months’ imprisonment but I note that this case is pending the accused’s appeal against conviction and sentence.
+
+> 4)     The Defence similarly tendered a table of precedents under s 325 of the PC post _BDB_ (see Defence Submissions on Sentence dated 29 Oct 2019). The sentences imposed in the six cases cited by the Defence ranged from 7 months to 24 months’ imprisonment. Counsel argued that based on his precedents, the indicative starting point should be six to eight months’ imprisonment[^4]. I was unable to agree with counsel’s indicative starting point because the precedents which counsel was relying on where sentences around that range were imposed involved less serious injuries. In _PP v Samson Tanuwidjaja \[2018\] SGDC_ 228, on appeal, the sentence was enhanced from six months to nine months’ imprisonment for a displaced fracture at the tip of the nasal bone. In _PP v Arumugam Selvaraj_ <span class="citation">\[2019\] SGDC 13</span>, on appeal the sentence was reduced from ten months’ imprisonment to seven months’ imprisonment for an undisplaced fracture of the middle finger. In _PP v Natarajan Baskaran and Venkatachalam Thirumurugan_ <span class="citation">\[2019\] SGDC 210</span> (there was no appeal), a sentence of eight months’ imprisonment was given for a dislocation of the left elbow joint. The injuries in the present case involving multiple facial injuries are far more serious. For completeness, I would also briefly mention the remaining three precedents cited by the Defence where the sentences imposed were above counsel’s indicative starting point. _PP v Wong Tuan Huat_ <span class="citation">\[2018\] SGDC 248</span> involved a nasal bone fracture and a sentence of 13 months’ imprisonment was imposed. _PP v Ng Shiuh Shao and Ng Shiuh Leong_ <span class="citation">\[2018\] SGDC 128</span> was a case involving an undisplaced fracture of the victim’s right wrist and the sentence of 24 months’ imprisonment was upheld on appeal. A sentence of 48 weeks’ imprisonment was imposed in _PP v Rengasamy Bari_ <span class="citation">\[2018\] SGDC 201</span> but the injuries did not relate to fractures. The victim there suffered permanent scars and disfigurement to the ear.
+
+29     Therefore, having regard to the injuries suffered by the victim Pek Lian Hui in the present case and the precedents above, I identified the appropriate indicative starting point to be around two years’ imprisonment.
+
+### Adjusting for the offender’s culpability – aggravating circumstances
+
+30     I agreed with the Prosecution that there were aggravating circumstances in this case. In this regard, I took into account the aggravating factors as submitted by the Prosecution (see \[12\] above). I also noted that the Accused had attacked the victim Pek Lian Hui twice relentlessly in the entire episode and that he only stopped his assault after his mother and a passer-by intervened.
+
+### Adjusting for mitigating factors
+
+31     I took into account the following mitigating factors:
+
+> 1)     The Accused had pleaded guilty;
+
+> 2)     He had made compensation of $2309.15 to the victim Pek Lian Hui;
+
+> 3)     He had also shown remorse by recognising his anger management issues and taking steps to deal with his problems.
+
+32     The Defence argued that it was pertinent to note that the Accused did not come out of his vehicle rather it was the victim Pek Lian Hui who had alighted from his vehicle and approached the Accused thereby triggering the Accused’s violent response. Counsel seemed to be suggesting that it was the victim who had provoked the Accused into anger. I did not agree. From the SOF (see \[6\] above), it was clear that the Accused was the aggressor. He sounded his horn at the victim whom he thought was road hogging, overtook the victim’s lorry and pointed his middle finger at the victim in the process. The Accused then stopped his vehicle in front of the victim’s lorry. That was when the victim got out of his lorry to speak to the Accused. In any event, the Court of Appeal made it clear in _BDB_ at \[98\] that “_it would generally be unable to contend that deterrence as a sentencing consideration has been displaced where an offence is committed out of anger, absent clear evidence that the offender was unable to stop himself from committing the act in question._” In our case, it was not the position of the Defence that the Accused was suffering from any underlying cause[^5] therefore the Accused was not entitled to claim that he was unable to control his anger.
+
+### Sentence imposed for the s 325 PC
+
+33     In my view, the aggravating factors outweighed the mitigating factors. After making the necessary adjustments upwards and downwards, I assessed the appropriate sentence to be 2 years and three months imprisonment.
+
+### Disqualification
+
+34     Section 42(2) of the Road Traffic Act, Cap 276 (2004 Rev Ed) (“RTA”) provides as follows:
+
+> **42.**—(2)    Where a person (referred to in this section as the offender), is convicted of an offence under section … 325 …. of the Penal Code (Cap. 224) and —
+
+>> (a)    at the time of the commission of the offence the offender was the driver or was in charge of a motor vehicle on a road or other public place;
+
+>> (b)    the person against whom the offence was committed was the driver of another vehicle on the road or public place, a passenger in that other vehicle or a pedestrian on the road or public place;
+
+>> (c)    the court convicting the offender of the offence is satisfied that the commission of the offence arose from or was connected with a dispute between the offender and that other person over the use of the road or public place; and;
+
+>> (d)    having regard to the circumstances under which the offence was committed and the behaviour of the offender, the court is of the opinion that it is undesirable for the offender to continue to be allowed to drive a motor vehicle,
+
+> the court may, in addition to imposing on the offender the punishment provided for such offence, make an order disqualifying him from holding or obtaining a driving licence for life or for such period as the court may think fit.
+
+35     I invited parties to submit on whether a disqualification order should be ordered pursuant to s 42(2) of the RTA. The Prosecution submitted for 12 months’ disqualification to be imposed while the Defence left the issue of disqualification to the court given that the Accused had stopped driving as part of his efforts to prevent further road rage incidents from arising.
+
+36     It was not in dispute that the conditions in s 42(2) of the RTA were fulfilled in this case. The Accused had committed the s 325 PC offence over the use of the road. This was not his first road rage offence. He was clearly a menace behind wheels. I therefore ordered that he be disqualified from holding and obtaining a driving licence for a period of one year to take effect from the date of his release from prison.
+
+### S 323 PC (6th charge)
+
+37     The Accused punched the victim Tio Seng Sing on his left cheek and caused him to suffer a facial contusion. Given the nature of the injury, this case would fall under band 1 of the sentencing table in _Low Song Chye_ where the indicative sentencing range is a fine or a short custodial term of up to four weeks. Notwithstanding that “low harm” was caused in this case, both parties agreed that the custodial threshold had been crossed. The Prosecution submitted that six weeks’ imprisonment would be appropriate in view of the aggravating circumstances while the Defence contended that four weeks’ imprisonment would suffice.
+
+38     I agreed with the aggravating factors as highlighted by the Prosecution (see \[16\] above). The facts clearly called for both general and specific deterrence. The Accused was a repeat road rage offender and he had previously received jail terms of three weeks and four weeks’ respectively for similar offences under s 323 of the PC in 2016. It was also aggravating that the current s 323 PC offence was the third offence which he committed while on bail. Furthermore, the Accused showed that he had no qualms hitting an elderly person in the face with enough force to cause the victim to fall to the ground. Although the harm was low, the Accused’s culpability was high.
+
+39     I also took into account the Accused’s plea of guilt and that he was working on his anger management issues. In this regard, the Defence submitted that it was not the Accused but the victim Tio Seng Sing who had initiated the confrontation that led to the commission of the offence. In my view, the Accused had a role in the incident. It would be noted from the SOF that after victim Tio Seng Sing horned at the Accused for cutting into his lane and forcing him to brake, the Accused had retaliated by pointing his middle finger at victim Tio. Subsequently when victim Tio approached the Accused and held onto the Accused’s motorcycle, the Accused readily resorted to violence. The Accused could have taken non-violent measures to resolve the conflict such as calling for the police.
+
+40     After adjusting the aggravating and mitigating factors, I was of the view that six weeks’ imprisonment was warranted for this charge.
+
+### S 352 PC (2nd and 3rd charges)
+
+41     A fine would have been the norm for a first offender under s 352 of the PC where there were no aggravating factors. The Prosecution submitted that at least one month’s imprisonment would be appropriate per charge. The Defence did not dispute that it should be a custodial sentence but urged the court to order the sentences to run concurrently[^6].
+
+42     For the s 352 PC offence in the 2nd charge, I noted the following aggravating factors:
+
+> 1)     The Accused had recent violent antecedents ie the two counts of road rage under s 323 of the PC where he was sentenced to a total of seven weeks’ imprisonment;
+
+> 2)     He committed the offence on 2 Dec 2017 while he was on bail for the s 325 PC charge;
+
+> 3)     He committed the offence in a road rage situation. Despite the road marshal’s confirmation that the victim Iqbal had stopped his car at the right place, the Accused pointed his middle finger at the victim after which he pushed the victim Iqbal on the left cheek with enough force to cause the victim to lose his balance. The victim suffered a facial contusion and was given 3 days’ medical leave.
+
+43     After taking into account the Accused’s plea of guilt and having regard to the precedent in _Felix Huang_ (see \[17\] above), I was of the view that an imprisonment term of 3 weeks’ imprisonment would be fair.
+
+44     In respect of the s 352 PC offence in the 3rd charge which was committed on 6 May 2018, I noted the following aggravating factors:
+
+> 1)     This was the second offence that the Accused committed while he was on bail for the s 325 PC offence (the first being the s 352 PC offence in the 2nd charge);
+
+> 2)     He committed this offence over a minor incident. The victim Ye Zhaojin’s right shoulder accidently bumped into the Accused’s right shoulder at Golden Village and the Accused reacted disproportionately by shouting at victim Ye, bumping his chest against the victim and also pushing the victim’s shoulder, face and left elbow.
+
+> 3)     The Accused was not deterred even when an off duty police officer interceded. The Accused ignored the off duty police officer and when the off duty police officer planted himself between the Accused and victim Ye, to stop the Accused from going near the victim, the Accused turned aggressive towards the off duty police officer, telling him to mind his own business. Vivocity’s security officers had to be activated to assist before the police arrived.
+
+45     I also took into account the mitigating factors that the Accused had pleaded guilty and that he had also effected compensation of $121 to victim Ye.
+
+46     In the circumstances, I was of the view that the second s 352 PC offence in the 3rd charge merited a higher sentence than the three weeks meted out for the first s 352 PC offence in the 2nd charge and I therefore imposed one month’s imprisonment accordingly.
+
+## Conclusion
+
+47     In summary, I sentenced the Accused as follows:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="0"><colgroup><col width="8.3%"> <col width="31.9%"> <col width="30.24%"> <col width="29.56%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">S/n.</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Charge no.</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Offence provision</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Sentence</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">1.</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC-912428-2017</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">S 325 PC</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">2 years and 3 months’ imprisonment;</p><p align="justify" class="Table-Para-1">Disqualified from holding or obtaining all classes of driving licences for a period of one year with effect from date of release;</p><p align="justify" class="Table-Para-1">(consecutive)</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">2.</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">MAC-904902-2019</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">S 323 PC</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">6 weeks’ imprisonment</p><p align="justify" class="Table-Para-1">(consecutive)</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">3.</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">MAC-906066-2018</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">S 352 PC</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">3 weeks’ imprisonment</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">4.</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">MAC-906989-2018</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">S 352 PC</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">1 month’s imprisonment</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">5.</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">MAC-904901-2019</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">S 3(2) POHA</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">TIC</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">6.</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">MAC-906990-2018</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">S 3(2) POHA</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">TIC</p></td></tr><tr><td align="left" class="" colspan="4" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Total: 2 years 3 months and 6 weeks imprisonment and disqualified from holding or obtaining all classes of driving licences for a period of one year with effect from date of release</p></td></tr></tbody></table>
+
+  
+  
+
+48     In the present case, the Prosecution had proceeded with four charges. Pursuant to s 307(1) Criminal Procedure Code, Cap 68, at least two of the imprisonment terms were required to run consecutively. As the Accused had committed the four proceeded charges over a span of about four years on four different occasions against four different victims, in order to reflect his overall culpability, I ordered the sentences for the s 325 PC charge and the s 323 PC charge to run consecutively. The total sentence is therefore 2 years, 3 months and 6 weeks’ imprisonment and disqualification from holding or obtaining a driving licence for all classes of vehicles for one year with effect from his release from prison.
+
+49     In conclusion, the Accused was a recalcitrant offender who failed to learn from his previous lesson where he was sentenced to a total of seven weeks’ imprisonment for causing hurt in two road rage incidents. He went on to commit a series of violence related offences on the roads as well as off the road where he demonstrated that he was quick to anger, slow to calm down and difficult to restrain. It was necessary to impose a sentence which would adequately deter him from using violence as a ready option whenever he was caught in a conflict and also to deter like minded individuals. All considered, the global sentence imposed in this case would achieve that objective.
+
+50     The Accused is currently serving his sentence because he declined to be bailed out pending his appeal.
+
+* * *
+
+[^1]: Prosecution’s sentencing submissions dated 7 July 2019
+
+[^2]: Prosecution’s Skeletal Submissions on Sentence dated 11 Sep 2019
+
+[^3]: Plea In Mitigation dated 6 July 2019, Submissions on Sentence dated 27 Sep 2019 and Submissions on Sentence dated 29 Oct 2019.
+
+[^4]: NE, day 4, page 6, lines 12 to 14.
+
+[^5]: NE, day 4, page 8, lines 8 to 23.
+
+[^6]: NE, day 1, page 20, lines 30 - 31
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F23970-SSP.xml)
