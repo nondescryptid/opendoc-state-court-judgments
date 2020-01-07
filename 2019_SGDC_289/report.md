@@ -1,0 +1,3635 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Jean-Luc Bohbot _v_ Fang Koh Look  
+
+### \[2019\] SGDC 289
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">District Court Suit No 3670 of 2017</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">24 December 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Prem Raj Prabakaran</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Roslina Baba and Anupriya A Daniel (M/s Legis Point LLC) for the plaintiff; Lim Khoon and Lim Charmaine Jillian Phipps (M/s Eldan Law LLP) for the defendant.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Jean-Luc Bohbot — Fang Koh Look</td></tr></tbody></table>
+
+24 December 2019
+
+### District Judge Prem Raj Prabakaran:
+
+## Introduction
+
+1       This suit involved a two-storey Good Class Bungalow, on a piece of land nearly 17,000ft2 in area.[^1] The bungalow and its amenities (collectively, “the Premises”) were built by SC King Albert Pte Ltd (“the Original Landlord”).[^2]
+
+2       Jean-Luc Bohbot (“the Tenant”) and his family were the first occupants of the Premises. He had leased the Premises from the Original Landlord for two years. The Original Landlord later extended the lease for two more years. Some 10 months into this second term, the Original Landlord sold the Premises to Fang Koh Look (“the Landlord”). This suit was between the Tenant and the Landlord only.
+
+### Tenant’s claim
+
+3       The Tenant claimed for the return of his security deposit of $84,000 (“the Security Deposit”), less a total of $40,887.70 in outstanding rent he admitted he owed the Landlord. The balance amounted to $43,112.30 (“the Balance Deposit”). The outstanding rent comprised two components:
+
+> (a)     the monthly rent of $28,000, for the period 22 March 2017 to 21 April 2017; and
+
+> (b)     double rent of $12,887.80 for the period 22 April 2017 to 28 April 2017 (because the Tenant failed to deliver up the Premises on 21 April 2017, as he was required to do so under the lease).
+
+4       The Tenant appeared to contend he was entitled to set-off the rent he owed against the Security Deposit. He admitted during the trial, however, that he knew he was not so entitled.[^3]
+
+### Landlord’s counterclaim
+
+5       The Landlord’s counterclaim fell in three categories – for:
+
+> (a)     the outstanding rent, amounting to $40,887.70;
+
+> (b)     the purported cost of repairing alleged damages to various aspects of the Premises and the Effects (defined in the lease to include the “Landlord’s fittings, fixtures, furniture and appliances”), amounting to $117,794.65; and
+
+> (c)     alleged “\[l\]oss of use pending the carrying out of all \[apparently\] necessary rectification works”, amounting to $112,262.27.
+
+6       In all, the counterclaim was for more than $186,000 (after accounting for the Security Deposit, which the Landlord sought to set-off, in full, against his claims).
+
+7       Both parties also adduced expert evidence (on the alleged damages and the purported cost of repairing these damages), which diverged sharply.
+
+### Judgment in brief
+
+8       I allowed the Landlord’s counterclaim for the outstanding rent the Tenant admitted he owed.
+
+9       I agreed with the Landlord that the Tenant had failed to deliver up the Premises and the Effects in the condition the Tenant was obliged to under the lease. I therefore dismissed the Tenant’s claim for the Balance Deposit. Under the lease, the Landlord was entitled to set off any loss or expense occasioned by the Tenant’s breach from the Security Deposit.
+
+10     However, I disagreed with the Landlord that the Tenant should be held liable for _all_ the damages alleged. The Landlord had asserted that the Tenant should be liable for _all_ the damages recorded by the Landlord’s expert. But, the Landlord failed to plead some of these damages. The damages that were recorded by the Landlord’s expert were also not detected within a reasonable time after the Tenant had yielded up the Premises. Rather, their existence was only belatedly recorded by the Landlord’s expert some five months after the Landlord had already occupied the Premises with his partner, his three children, two domestic workers, and two dogs. This was also nearly _six_ months after the Tenant had yielded up the Premises. The evidence led during the trial did not satisfy me, on a balance of probabilities, that these damages existed at the time the Tenant yielded up the Premises.
+
+11     Rather, I was of the view that the Tenant should only be held liable for the damages the Landlord’s representatives recorded during their “thorough inspection” of the Premises (and the Effects within) four days after the Tenant yielded up the Premises (referred to in these grounds as “the Actionable Damages”). Because the Tenant failed to prove, on a balance of probabilities, that the Actionable Damages were due to “fair wear and tear” (which were excepted under the lease), he was therefore liable for the cost of repairing the Actionable Damages. However, the Landlord failed to prove the cost of repairing these Actionable Damages. Given the absence of admissible evidence in this regard, I awarded the Landlord nominal damages of $100.
+
+12     I dismissed the Landlord’s claim for “\[l\]oss of use pending the carrying out of all \[apparently\] necessary rectification works”. This was a claim in special damages, which had to be specifically pleaded with full particulars. It was not done. In any event, the Landlord failed to adduce evidence of loss of use pending the conduct of repairs _vis-à-vis_ the Actionable Damages. The Landlord’s claim for loss of use was premised on the damages recorded by his expert (which the Landlord failed to prove existed at the time the Tenant yielded up the Premises and which comprised items that were not pleaded). It was also not apparent to me that the Landlord, his partner, his three children, two domestic workers, and two dogs all had to vacate the Premises for the Actionable Damages to be repaired. The Actionable Damages were far less severe in number, nature, and degree compared to the damages the Landlord alleged. In addition, the Landlord failed to adduce admissible evidence on the quantum of his loss of use (whether in relation to the damages he alleged or the Actionable Damages).
+
+13     In these circumstances, I entered judgment for the Landlord for:
+
+> (a)     $28,000, being the monthly rent that was due on 22 March 2017, with interest at 12% per annum from 22 March 2017 until the date of payment (as provided for under the lease);
+
+> (b)     $12,887.70, being the double rent for the period between 22 April 2017 and 28 April 2017, with interest at 12% per annum from 28 April 2017 until the date of payment (again, as provided for under the lease); and
+
+> (c)     $100, being the nominal damages in respect of the Tenant’s breach in failing to yield up the Premises (and the Effects within) in the condition the Tenant was obliged to under the lease, with interest at 5.33% per annum from the date of the writ until judgment.
+
+14     The Tenant had furnished the Security Deposit in the sum of $84,000. Factoring these amounts due to the Landlord, the Tenant was entitled to a return of part of the Security Deposit (assuming prompt payment by the Tenant of the sums due). No interest was payable on this sum to be returned to the Tenant, as the lease contemplated that the Security Deposit was to be returned to the Tenant “free of interest”. The Security Deposit was placed against the due performance and observation by the Tenant of his obligations under the lease, and was properly held by the Landlord. Judgment was hence entered for the Tenant in respect of this balance from the Security Deposit, without interest.
+
+15     I now explain my decisions fully in these grounds, having delivered judgment earlier.
+
+## Undisputed facts
+
+16     I start by setting out the undisputed facts.
+
+### Initial lease from 22 April 2013 to 21 April 2015
+
+17     By a lease dated 13 April 2013[^4] (“the Initial Lease”)[^5], the Tenant leased the Premises from the Original Landlord for two years: from 22 April 2013 to 21 April 2015.[^6] The Premises comprised (amongst others):
+
+> (a)     a two-storey bungalow, that had:
+
+>> (i)       on its first storey: a living room; a dining room; as well as a dry kitchen and a wet kitchen; and
+
+>> (ii)       on its second storey: four bedrooms (including the master bedroom, which had a walk-in wardrobe and an attached study).
+
+> (b)     on its first level:
+
+>> (i)       a car porch;
+
+>> (ii)       an “entrance forecourt”;
+
+>> (iii)       an “entrance foyer”;
+
+>> (iv)       a garden;
+
+>> (v)       a swimming pool; and
+
+>> (vi)       three outdoor areas with timber decking:
+
+>>> (A)       at the swimming pool (“the Pool Deck”);
+
+>>> (B)       under a pavilion (“the Pavilion Deck”); and
+
+>>> (C)       in front of the living room[^7] (“the Patio Deck”).
+
+18     The Tenant, his wife, their two sons, and a domestic helper were the first occupants of the Premises.[^8]
+
+19     The total rent payable was $30,000 per month.[^9] The security deposit was $90,000, being the amount equivalent to three months’ rent.[^10]
+
+20     Attached to the Initial Lease was a “Handing Over Inventory List” (“the Inventory of Effects”).[^11] The Tenant had signed on this list[^12] to “acknowledge receipt" of a number of items that had been handed over to him on 22 April 2013 (_ie_, the date the Initial Lease commenced). These items comprised keys, household appliances in the dry and wet kitchens, remote controls, and CCTV cameras. The date “22 April 2013” was also written on the Inventory of Effects.
+
+### Lease renewed from 22 April 2015 to 21 April 2017
+
+21     At the Tenant’s request, the Original Landlord renewed the tenancy for two more years – from 22 April 2015 to 21 April 2017. This renewal was effected by an “extension letter” dated 18 March 2015 (“the Extension Letter”).[^13] These grounds will refer to the Initial Lease and the Extension Letter, collectively, as the “Lease”. The total rent payable was reduced to $28,000 per month (“the monthly rent”).[^14] The monthly rent was payable on the 22nd day of each month.[^15]
+
+22     The reduction in the monthly rent meant that the security deposit was also reduced from $90,000 to $84,000 (“the Security Deposit”).[^16]
+
+23     The Extension Letter stated that “all other terms and conditions of the \[Initial Lease\] shall remain unchanged.”[^17]
+
+### Premises sold to Landlord in February 2016
+
+24     In February 2016, the Tenant was informed that the Original Landlord had sold the Premises to the Landlord. The Landlord had bought the Premises for $25,000,000[^18], with the intention of occupying it with his family after the Lease expired.[^19] The Landlord was aware that the Premises were subject to an existing tenancy when he bought the Premises.[^20] The sale and purchase of the Premises was completed on 22 February 2016.[^21]
+
+25     The Tenant was also notified that the Original Landlord had assigned absolutely to the Landlord all of its “rights, benefits…and covenants under the \[Lease\] (subsisting as at \[22 February 2016\]).[^22] The Tenant was further informed that the Security Deposit held by the Original Landlord[^23] “had been transferred to the \[Landlord\] and \[would\] be returned to \[the Tenant\] by the \[Landlord\] in accordance with and subject to the terms of the \[Lease\].”[^24]
+
+### Landlord informed of broken fridge handle on 5 April 2016
+
+26     On 5 April 2016, the Tenant’s wife informed the Landlord that the handle of the refrigerator in the wet kitchen had “broken” (“the broken fridge handle”). The Landlord instructed his representative to “arrange” for the handle to be repaired by the “fridge company”. The handle was passed to the Landlord’s representative.[^25]
+
+### Front façade damaged on 19 October 2016
+
+27     On 19 October 2016, the front façade of the Premises was damaged when a delivery truck reversed into the front foyer.[^26] The truck had been on the Premises to deliver groceries to the Tenant. This incident led to a deterioration in the initially cordial relationship between the Tenant and the Landlord.
+
+### Tenant’s requests for extension until 7 July 2017 rejected
+
+28     In letters dated 27 February 2017[^27] and 10 March 2017[^28], the Tenant requested an extension of the tenancy until 7 July 2017 on the same terms and conditions as the Lease.[^29] The Landlord rejected these requests in a reply dated 27 March 2017.[^30]
+
+### Tenant failed to pay monthly rent due on 22 March 2017
+
+29     The Tenant did not pay the Landlord the monthly rent for the period between 22 March 2017[^31] and 21 April 2017 (“the Monthly Rent”).[^32] He was aware that it was due on 22 March 2017. He refused to pay because he wanted to set-off the Monthly Rent against the Security Deposit.[^33] The Tenant knew he was not entitled to do so.[^34]
+
+### Tenant’s request for extension until 1 May 2017 rejected
+
+30     In a letter dated 6 April 2017, the Tenant requested an extension of the tenancy until 1 May 2017.[^35] The Landlord rejected this request in a reply dated 7 April 2017.[^36]
+
+31     The Landlord’s rejections of the Tenant’s requests for extensions of the tenancy[^37] meant that the Lease expired on 21 April 2017.[^38] The Tenant was aware that he had to vacate the Premises on 21 April 2017 when he signed the Extension Letter.[^39]
+
+### Joint inspection on 13 April 2017
+
+32     On 13 April 2017, a “joint inspection” was conducted at the Premises (“the Joint Inspection”). The Landlord had proposed this to inspect “the rectification works performed …to the front façade of the Premises”.[^40]
+
+33     The Tenant and his wife were present during the Joint Inspection. Ms Roslina Baba (“Ms Baba”), who represented the Tenant at trial, was also present. Apart from the Landlord’s solicitor, five other representatives of the Landlord attended:[^41]
+
+> (a)     Yap Shia Chun (“Yap”);
+
+> (b)     Rashidah binte Salamat (“Rashidah”);
+
+> (c)     Wang Ching Sian (“Wang”), a “technical director”;
+
+> (d)     “Faezun”, an “IT technician”; and
+
+> (e)     Lim Fei Ann (“Fei Ann”).
+
+34     Of these five representatives, Yap and Rashidah testified for the Landlord. The Landlord was not present during the Joint Inspection.[^42]
+
+35     During the Joint Inspection, the rectification works performed to the front façade of the Premises were inspected. In addition, Rashidah went through the items on a version of the Inventory of Effects (henceforth, “the Joint Inspection Inventory of Effects”).[^43] The Joint Inspection Inventory of Effects differed from the Inventory of Effects attached to the Initial Lease[^44] in only one aspect – it had an additional “Remarks” column. On the top right hand corner of the Joint Inspection Inventory of Effects, Rashidah had written the following words:[^45]
+
+> This list of items are \[_sic_\] just for checking against the checklist. To come back on final check on 21/4/2017.
+
+36     Neither the Tenant nor any of the Landlord’s representatives signed on the Joint Inspection Inventory of Effects.
+
+### Tenant failed to deliver vacant possession on 21 April 2017
+
+37     The Tenant failed to deliver vacant possession of the Premises to the Landlord when the Lease expired on 21 April 2017.[^46] He refused to hand over possession of the Premises to the Landlord’s representatives “to conduct the handover of the Premises”[^47] on 21 April 2017. Instead, Ms Baba informed the Landlord’s solicitors that the Landlord’s representatives should be present at the Premises on 28 April 2017 “for the handing over”.[^48]
+
+38     The Landlord’s representatives attempted to re-enter and re-possess the Premises on 21 April 2017 and 24 April 2017, but they were not successful.
+
+### Premises only vacated on 28 April 2017
+
+39     The Tenant and his family continued to occupy the Premises after 21 April 2017. They only vacated the Premises some time on 28 April 2017. The Tenant’s solicitors wrote to the Landlord’s solicitors later that same day, enclosing “3 remote controls and 7 keys to the Premises”.[^49]
+
+40     Because the Tenant and his family continued to occupy the Premises after the Lease expired on 21 April 2017, there was clear holding over of the Premises.
+
+41     In this regard, Clause 8(5) of the Lease on “Holding over” provided that:[^50]
+
+> …\[i\]f the Tenant continues to occupy the Premises beyond the expiration…of the Term or fails to deliver vacant possession thereof to the Landlord after the expiration…of the Term…the Tenant shall be deemed to be holding over as a monthly tenant **and shall pay to the Landlord for every month of such holding over double the amount of \[the monthly rent\]**.
+
+> \[emphasis added in bold\]
+
+42     The double rent for the period between 22 April 2017 and 28 April 2017 amounted to $12,887.70 (“the Double Rent”). The Tenant failed to pay this sum as well, because he wanted to set-off this sum against the Security Deposit.[^51] The Tenant knew he was not entitled to do so.[^52]
+
+### Inspection by Landlord’s representatives on 2 May 2017
+
+43     On 2 May 2017, Yap and Rashidah (_viz_., the Landlord’s representatives[^53]) conducted an “inspection” of the Premises.[^54]
+
+### Landlord occupied Premises on 31 May 2017
+
+44     On 31 May 2017, the Landlord moved into the Premises with his partner, three children, and two domestic helpers.[^55] He also had two dogs.[^56] Apart from the built-in furniture, the Premises were empty when the Landlord moved in.[^57]
+
+45     Before the Landlord moved into the Premises, he:
+
+> (a)     instructed Yap and Rashidah to conduct a “thorough inspection of the \[Premises\] for defects” (this was the inspection conducted on 2 May 2017[^58]).[^59]
+
+> (b)     had the Premises painted and cleaned.[^60]
+
+> (c)     had the living room “converted” into a gymnasium (though no renovation work was done). A rubber floor mat was laid, and the Landlord’s gym equipment was moved into the room.[^61]
+
+> (d)     had the dining room “converted” into a living room (though no renovation work was done).[^62]
+
+46     The Landlord had been living in a condominium in Singapore before he moved into the Premises.[^63] The unit at the condominium was a matrimonial asset that he no longer owned. His ex-wife, the owner of the unit, had told him to leave the unit after he took possession of the Premises.[^64]
+
+47     The Landlord inspected the Premises before they were painted and cleaned. He decided he could occupy the Premises after it was painted and cleaned.[^65]
+
+### Inspection by Landlord’s expert on 26 October 2017
+
+48     On 26 October 2017, the Landlord’s expert, Tong Kam Fei (“Tong”), inspected the Premises to prepare his report (“Tong’s Report”).[^66] This inspection was done after the Landlord had already occupied the Premises for nearly five months.[^67]
+
+49     Tong was a civil engineer by training, with a bachelor’s degree in civil and structural engineering.[^68] As of August 2018, he had been a building surveyor for 15 years. He was also a director and shareholder of a company that offered (amongst others) “building surveying of defects services, failure and failure analysis of buildings as well as the costing of the required rectification works”.[^69] The Landlord had appointed Tong to prepare an expert report “in relation to the \[damages\] existing \[o\]n the \[Premises\], the necessary rectification works to be carried out to make good the \[damages\] and the cost of the rectification works”.[^70]
+
+### Inspection by Tenant’s expert on 1 February 2018
+
+50     On 1 February 2018, the Tenant’s expert, Paul Crispin Casimir-Mrowczynski (“Casimir”) inspected the Premises to prepare his report.[^71] This inspection was done after the Landlord had already occupied the Premises for about eight months.[^72]
+
+51     Casimir was the Managing Director of a building surveying company. His duties included property management in relation to rectification projects; property inspections and associated remedial repair work; and inspection in relation to building defects. Casimir held a bachelor’s degree in building surveying.[^73] The Tenant had appointed Casimir for the same reasons the Landlord had appointed Tong.[^74]
+
+## The pleadings
+
+52     The pleadings in this case comprised:
+
+> (a)     the Tenant’s Statement of Claim;
+
+> (b)     the Landlord’s Defence and Counterclaim (Amendment No. 1); and
+
+> (c)     the Tenant’s Reply and Defence to Counterclaim.
+
+### Tenant’s Statement of Claim
+
+53     The Tenant did not dispute that he owed the Landlord the Monthly Rent[^75] and the Double Rent[^76], which amounted to $40,887.80 in total.[^77] His claim was for the return of the Security Deposit, less the Monthly Rent and the Double Rent. The balance amounted to $43,112.30 (_viz_., the Balance Deposit[^78]).
+
+54     The Tenant averred that the Joint Inspection was in the nature of a handover inspection “conducted prior to delivery of possession” (“the handover inspection”).[^79]
+
+55     According to the Tenant, “\[n\]o material issue was raised by the \[Landlord’s\] representatives”[^80] during this inspection. He therefore contended that:[^81]
+
+> \[a\]s at 28 April 2017, the Premises were yielded up in the **original state as at the start of the commencement of the \[Initial Lease –** **_ie_****, 22 April 2013**[^82]**\]** (fair wear and tear excepted), in accordance with Clause 4(15) of the \[Lease\].
+
+> \[emphasis added in bold\]
+
+56     Clause 4(15) of the Lease read as follows:
+
+> **4**.     **TENANT’S COVENANTS**
+
+> The Tenant covenants with the Landlord as follows: –
+
+>> …
+
+>> (**15**)    **Yielding Up of Premises**
+
+>> At the expiration or sooner determination of the Term (unless renewed pursuant to clause 7) to peaceably and quietly **_deliver up to the Landlord the Premises and the Effects in good tenantable repair and condition in the original state as at the commencement date of the Term of this Lease (fair wear and tear excepted)_** together with the keys to the Premises and to all doors therein and all items received by the Tenant on or before the commencement date of the Term and to remove from the Premises all letterings \[,\] internal partitions \[,\] fixtures and installations of the Tenant. All damage done to the Premises by such removal shall be made good by the Tenant. If the Tenant shall fail to deliver up the Premises to the Landlord in accordance with the Tenant’s covenants under this Agreement \[,\] the Landlord may carry out the repairs and other works to the Premises and may recover from the Tenant the costs of such repairs and works together with Rent **_and other amounts which the Landlord would have been entitled to receive from the Tenant had the period within which such repairs and works were effected by the Landlord been added to the Term provided that such period to be added by the Landlord shall not exceed fifteen (15) days._**
+
+> \[emphasis added in bold italics\]
+
+57     The Tenant averred that “he ha\[d\] fulfilled his obligation to yield up the Premises”[^83] in accordance with Clause 4(15) when his solicitors wrote to the Landlord’s solicitors on 28 April 2017 and enclosed the keys to the Premises.[^84] As such, the Landlord was:[^85]
+
+> …obliged under Clause 4(1)(b) of the Lease to refund the \[Balance Deposit\] to the \[Tenant\] “within one (1) month from the yielding up of the Premises” \[_ie_, by 28 May 2017\].
+
+58     Clause 4(1)(b) of the Lease read as follows:
+
+> **4**.     **TENANT’S COVENANTS**
+
+> The Tenant covenants with the Landlord as follows: –
+
+>> (1)     **Rent and Security Deposit**
+
+>> (a)    …
+
+>> (b)    To pay and maintain throughout the Term hereby created the Security Deposit being the amount equivalent to three (3) months’ Rent on or before the execution of the Agreement, as **_security for the due performance and observation by the Tenant of all the agreements \[,\] obligations \[,\] undertakings \[,\] and conditions on the part of the Tenant herein undertaken to be performed and observed\[.\] The Security Deposit shall not be deemed to be or be treated as payment of the Rent and shall be returned to the Tenant free of interest_** within one (1) month after the expiration or sooner determination of the Term or **_within one (1) month from the yielding up of the Premises properly reinstated in accordance with the provisions of this Agreement_**, whichever is the later, **_subject to any deductions for any breach or non-observance of the covenants and conditions on the part of the Tenant to be performed and observed herein_** PROVIDED ALWAYS that: –
+
+>>> (i)     **_if the Tenant shall commit a breach of any of the provisions of this Agreement \[,\] the Landlord shall_** (without prejudice to any other rights or remedies that the Landlord may have under this Agreement or general law) **_be entitled but not obliged to set-off the loss or expense to the Landlord occasioned by such breach from the Security Deposit._** In the event of the Landlord setting-off any such loss or expense, the Tenant shall on request by the Landlord deposit with the Landlord an amount equivalent to the sum set-off by the Landlord from the Security Deposit;
+
+>>> (ii)   upon a breach by the Tenant of a provision of this Agreement and the lawful termination thereof by the Landlord whether by re-entry into the Premises or otherwise \[,\] the Security Deposit may notwithstanding any other provision of this Agreement, be forfeited to the Landlord in its absolute discretion without prejudice to any other remedy which the Landlord may be entitled to in law and/or under the provisions of this Agreement.
+
+> \[emphasis added in bold italics\]
+
+59     The Tenant claimed he “was ready and willing to deliver possession of the Premises to the \[Landlord\]”[^86] on 28 April 2017. But, the Landlord “did not attend \[or\] send his representatives to the Premises for the handing over”.[^87]
+
+### Landlord’s Defence & Counterclaim
+
+60     The Landlord agreed that the Security Deposit was to be refunded “in accordance with and subject to the terms of the Lease”.[^88] But, he denied he was obliged to refund the Security Deposit to the Tenant under Clause 4(1)(b).[^89] To this end, he contended that the Tenant “had failed to yield up the Premises in accordance with the terms of the Lease”.[^90]
+
+61     The Landlord averred that the Tenant had failed to pay the:
+
+> (a)     Monthly Rent, “\[i\]n breach of Clause 3 of the Lease[^91]; and
+
+> (b)     Double Rent.[^92]
+
+62     The Landlord also averred that the Tenant had:
+
+> (a)     breached Clause 4(7) of the Lease, when he "failed to keep the Premises in good and tenantable repair, resulting in damage caused to the Premises, furniture, fixtures and fittings”[^93]; and
+
+> (b)     breached Clause 4(15) of the Lease, by:
+
+>> (i)       failing to yield up the Premises at the expiration of the Lease on 21 April 2017 and yielding possession only on 28 April 2017[^94]; and
+
+>> (ii)       “not yielding up the Premises in good and tenantable condition”.[^95]
+
+63     The Landlord denied that the Tenant had yielded up the Premises on 28 April 2017:[^96]
+
+> in the **original state as at the start of the commencement of the \[Initial Lease –** **_ie_****, 22 April 2013**[^97]**\]** (fair wear and tear excepted), in accordance with Clause 4(15) of the Lease.
+
+> \[emphasis added in bold\]
+
+64     The Landlord claimed that the “damage caused to the Premises, furniture, fixtures and fittings”[^98] comprised (collectively, “the Claimed Damages”):[^99]
+
+> (a)     damage “to the landscape of the Premises, including the carpet grass turf…and \[a\] planter box at the porch area”.
+
+> (b)     damage to the granite flooring located at the:
+
+>> (i)       “Car porch floor”.
+
+>> (ii)       “Entrance at car porch”.
+
+>> (iii)       “Entrance at forecourt”.
+
+>> (iv)       “Entrance foyer”.
+
+>> (v)       “Study room”.
+
+> (c)     damage to the timber flooring located at the:
+
+>> (i)       “Staircases”.
+
+>> (ii)       “Level 2 walkway and hall area”.
+
+>> (iii)       “Rooms 1/2/3/4 located at level 2”.
+
+>> (iv)       “Guestroom at level 1”.
+
+>> (v)       “Master bedroom and walk-in wardrobe.
+
+>> (vi)       Pool Deck.
+
+>> (vii)       Patio Deck.
+
+> (d)     the “\[m\]issing Miele fridge handle” (_ie_, the broken fridge handle).[^100]
+
+> (e)     damage “to ventilation vents/hood at the level 1 powder room, level 2 master bedroom and master room toilet”.
+
+65     The Landlord claimed he “had to carry out rectification works to repair the \[Claimed Damages\] and ha\[d\] suffered or will suffer loss, expense and damages.”[^101]
+
+66     The Landlord agreed “that a joint inspection of the Premises was conducted on 13 April 2017”.[^102] But, he denied that it was the handover inspection. Instead, the Landlord averred that:[^103]
+
+> (a)     the Joint Inspection was arranged to primarily inspect the rectification works to the front foyer and façade, as the insurer of the delivery truck had requested for his endorsement of the discharge receipt.
+
+> (b)     a joint inspection of the Premises for “defects” was only to be conducted upon expiry of the Lease and when the Tenant was ready to hand over the Premises to the Landlord.
+
+> (c)     during the Joint Inspection, the opportunity was taken to briefly go through the items on the Inventory of Effects. There was no inspection for “defects” at all.
+
+> (d)     the Tenant and the Landlord’s representatives had agreed that a full and formal hand over and inspection would be conducted when the Tenant was ready to hand over the Premises on the expiry of the Lease.
+
+67     The Landlord agreed that the Tenant’s solicitors had written to his solicitors on 28 April 2017 enclosing the keys to the Premises.[^104] But, he denied that the Tenant was ready and willing to deliver possession on 28 April 2017. He also denied that he did not attend or send his representatives to the Premises for the handing over.[^105]
+
+68     The Landlord therefore counterclaimed for the following:[^106]
+
+> (a)     the Monthly Rent;
+
+> (b)     the Double Rent;
+
+> (c)     the cost of rectifying the Claimed Damages;
+
+> (d)     “\[l\]oss of use pending the carrying out of all necessary rectification works”; and
+
+> (e)     interest on all sums found due at a rate of 12% per annum, pursuant to Clause 8(2) of the Lease, from the date the amounts were due to the date of payment.
+
+69     The Landlord sought to set-off against the Security Deposit “so much of the sums claimed by way of \[his\] counterclaim…as is sufficient to extinguish it.”[^107] He denied that he was obliged to refund the Balance Deposit to the Tenant by 28 May 2017 or was otherwise liable to do so.[^108]
+
+### Tenant’s Reply & Defence to Counterclaim
+
+70     The Tenant denied he had failed to yield up the Premises in accordance with the terms of the Lease (and to breaching Clauses 4(7) and 4(15)[^109]).[^110] He averred “the Premises \[were\] yielded up to the \[Landlord\] in good and tenantable repair and condition (fair wear and tear excepted).[^111] He denied there was any damage to the Premises as at 28 April 2017[^112] or that the Landlord had suffered any loss or damage.[^113]
+
+71     The Tenant then addressed each of the Claimed Damages.[^114]
+
+72     The Tenant denied there was damage to the landscape of the Premises.[^115] He also referred to Clause 5(5) of the Lease, which read as follows:
+
+> **5**.     **LANDLORD’S COVENANTS**
+
+> The Landlord hereby covenants with the Tenant as follows:
+
+>> …
+
+>> (5)     **Maintenance of garden and pool**
+
+>> **_The Landlord shall maintain the garden_** and the pool **_in the Premises once a week save except for the daily maintenance of the garden_** and pool **_that shall be carried out by the Tenant._**
+
+> \[emphasis added in bold italics\]
+
+73     The Tenant contended that “\[a\]s it was the \[Landlord’s\] obligation to maintain the garden, if there was damage to the turf and planter box as alleged (which \[was\] denied), \[he was\] not responsible for the same”.[^116]
+
+74     The Tenant denied there was damage to the granite flooring.[^117] In the alternative, he stated that “\[i\]f there were worn areas, those \[were\] due to fair wear and tear, which \[was\] excepted”.[^118]
+
+75     The Tenant also denied there was damage to the timber flooring.[^119] In the alternative, he averred that “such defects (if any) \[were\] due to fair wear and tear, which \[was\] excepted”.[^120]
+
+76     In relation to the missing “Miele fridge handle”[^121], the Tenant averred that:[^122]
+
+> \[the Landlord\] was informed that the fridge door handle was broken and had to be replaced in or around April 2016. The \[Landlord\] had instructed his staff to arrange for the handle to be repaired but nothing was done even though the fridge handle had been given to the \[Landlord’s\] representative.
+
+77     The Tenant denied there was damage to the “ventilation vents/hood”[^123]. According to the Tenant, “\[s\]uch vents and hood were in good working order when \[he\] vacated the Premises and delivered the keys to the \[Landlord’s\] then solicitors”.[^124]
+
+78     The Tenant further denied the Landlord’s account of the Joint Inspection.[^125] According to the Tenant:[^126]
+
+> \[o\]n 13 April 2017, the \[Landlord\] had sent 5 representatives to inspect the Premises, amongst whom was a person checking on the electrical appliances and the security system and an electrician. The \[Landlord’s\] representatives inspected the Premises, tested items which they saw fit, including opening drawers, switching on appliances, opening and closing doors, testing the security cameras and system. There was no further agreement to be carried out on the date of handing over. The \[Tenant\] had only agreed to hand over the keys officially to the \[Landlord\] on the date of handing over.
+
+## Key issues to be determined
+
+79     The following key issues fell to be determined:[^127]
+
+> (a)     Whether the Lease obliged the Landlord to return the Balance Deposit to the Tenant.
+
+> (b)     Whether the Tenant breached Clause 4(15) of the Lease by failing to deliver up the Premises and the Effects to the Landlord in “good tenantable repair and condition in the original state as at the commencement date of the Term of the \[Initial Lease\]” (_viz_., 22 April 2013)? This, in turn, raised the following issues:
+
+>> (i)       Whether it was the:
+
+>>> (A)       Landlord who bore the legal burden of proving that the Tenant had failed to comply with Clause 4(15); or
+
+>>> (B)       Tenant who bore the legal burden of proving that he had complied with Clause 4(15).
+
+>> (ii)       Whether the original state of the Premises and the Effects as at the commencement date of the term of the Initial Lease (_viz_., 22 April 2013) was relevant in this action.
+
+>> (iii)       Should breach of Clause 4(15) be assessed by referring to the:
+
+>>> (A)       Joint Inspection (on 13 April 2017);
+
+>>> (B)       inspection by Yap and Rashidah on 2 May 2017;
+
+>>> (C)       inspection by Tong on 26 October 2017; or
+
+>>> (D)       inspection by Casimir on 1 February 2018?
+
+>> (iv)       What was the nature and extent of the damage to the Premises and the Effects, if any, at the time the Tenant delivered up the Premises on 28 April 2017?
+
+> (c)     If the Tenant did indeed breach Clause 4(15), was the Tenant excepted from liability because the damage to the Premises and the Effects were due to “fair wear and tear” (which was excepted under the Lease)?
+
+> (d)     If the damage to the Premises and the Effects were not due to “fair wear and tear”, what was the cost of repairing such damage?
+
+> (e)     Could the Landlord claim against the Tenant for “loss of use pending the carrying out of all necessary rectification works”?
+
+## My decision
+
+80     These issues are now examined _seriatim_.
+
+81     The Tenant, his wife, and Casimir testified in support of the Tenant’s claim. The Landlord, Yap, Rashidah, and Tong testified in support of the Landlord’s case.
+
+82     Having seen the parties testify in court, I did not find the testimony of any one witness particularly candid or truthful. The witnesses for the Tenant (including the expert witness) were evasive. The witnesses called by the Landlord were no better. In particular, I found Yap defensive and evasive. It was clear he was plainly concerned with ensuring that his evidence advanced the case for the Landlord, whom he had worked for more than a decade. Tong was also prone to speculation. In addition, I had doubts as to whether the opinion evidence adduced from the expert witnesses was indeed on points of “scientific, technical or other specialised knowledge”.[^128]
+
+83     I was mindful of the dangers of relying excessively on the demeanour of the witnesses. Ultimately, it is the totality of the evidence (including contemporaneous documents/evidence and undisputed facts) that has to be considered in determining the credibility of a witness’s evidence.[^129] The credibility of witnesses is not always the appropriate touchstone for truth, and the court should always endeavour to rely on objective facts to determine where the balance of probabilities lie.[^130]
+
+### Landlord’s qualified obligation to return Balance Deposit
+
+84     This section examines whether the Lease obliged the Landlord to return the Balance Deposit to the Tenant.[^131]
+
+85     The Tenant contended that the Landlord was obliged to return the Balance Deposit to him by 28 May 2017, since the Premises were “handed over” on 28 April 2017.[^132] This, according to the Tenant, was the effect of Clause 4(1)(b) of the Lease. The Tenant noted that the Landlord had “refused to return the Balance Deposit to \[him\] on the grounds that \[he had\] allegedly breached the terms of the Lease and that the costs of rectifying the \[alleged damages\] exceed\[ed\] the quantum of the Balance Deposit.”[^133] But, the Tenant contended that he “did not breach any terms of the Lease as the Premises were handed over to the \[Landlord\] in good tenantable repair and condition (fair wear and tear excepted) in accordance with \[his\] obligation under the Lease…\[A\]s such, no rectification works \[were\] necessary to reinstate the Premises. Accordingly, pursuant to the Lease, the \[Landlord was\] liable to return \[him\] the full sum of the Balance Deposit”.[^134]
+
+86     The Original Landlord had informed the Tenant that the Security Deposit would only be returned to him “in accordance with and subject to the terms of the Lease.”[^135] The Tenant’s covenant in relation to the Security Deposit was set out in Clause 4(1)(b) of the Lease. This clause is reproduced below for easy reference:
+
+> **4**.     **TENANT’S COVENANTS**
+
+> The Tenant covenants with the Landlord as follows: –
+
+>> (1)     **Rent and Security Deposit**
+
+>> (a)    …
+
+>> (b)    To pay and maintain throughout the Term hereby created the Security Deposit being the amount equivalent to three (3) months’ Rent on or before the execution of the Agreement, as **_security for the due performance and observation by the Tenant of all the agreements \[,\] obligations \[,\] undertakings \[,\] and conditions on the part of the Tenant herein undertaken to be performed and observed\[.\] The Security Deposit shall not be deemed to be or be treated as payment of the Rent and shall be returned to the Tenant free of interest_** within one (1) month after the expiration or sooner determination of the Term or **_within one (1) month from the yielding up of the Premises properly reinstated in accordance with the provisions of this Agreement_**, whichever is the later, **_subject to any deductions for any breach or non-observance of the covenants and conditions on the part of the Tenant to be performed and observed herein_** PROVIDED ALWAYS that: –
+
+>>> (i)     **_if the Tenant shall commit a breach of any of the provisions of this Agreement \[,\] the Landlord shall_** (without prejudice to any other rights or remedies that the Landlord may have under this Agreement or general law) **_be entitled but not obliged to set-off the loss or expense to the Landlord occasioned by such breach from the Security Deposit._** In the event of the Landlord setting-off any such loss or expense, the Tenant shall on request by the Landlord deposit with the Landlord an amount equivalent to the sum set-off by the Landlord from the Security Deposit;
+
+>>> (ii)   upon a breach by the Tenant of a provision of this Agreement and the lawful termination thereof by the Landlord whether by re-entry into the Premises or otherwise \[,\] the Security Deposit may notwithstanding any other provision of this Agreement, be forfeited to the Landlord in its absolute discretion without prejudice to any other remedy which the Landlord may be entitled to in law and/or under the provisions of this Agreement.
+
+> \[emphasis added in bold italics\]
+
+87     The following propositions may be drawn from Clause 4(1)(b):
+
+> (a)     The Security Deposit was the Landlord’s security in respect of the Tenant’s due performance and observation of all of the Tenant’s agreements, obligations, undertakings, and conditions in the Lease.
+
+> (b)     The Landlord was obliged to return the Security Deposit to the Tenant “free of interest” within one month from the yielding up of the Premises:
+
+>> (i)       only if the Premises had been “properly reinstated in accordance with the provisions of the \[Lease\]”; and
+
+>> (ii)       “subject to any deductions for any breach or non-observance” of the covenants and conditions the Tenant had to perform and observe under the Lease.
+
+> (c)     If the Tenant breached any of the provisions in the Lease, the Landlord was (without prejudice to any other rights or remedies that the Landlord had under the Lease or general law) **entitled, but not obliged, to** set-off the loss or expense to the Landlord occasioned by such breach from the Security Deposit. This meant that the Landlord could, if he chose, reasonably deploy the Security Deposit for recouping losses or expenses arising from breaches by the Tenant with the balance (if any) to be refunded to the Tenant. If breaches occurred during the term of the Lease, the same applied but with an additional duty on the part of the Tenant, when requested by the Landlord, to top up the Security Deposit so that it was maintained at the sum of $84,000.[^136]
+
+> (d)     While Clause 4(1)(b) stated that the “Security Deposit shall not be deemed to be or be treated as payment of the Rent”, this prohibition only applied during the currency of the Lease. It was no bar to the Landlord deploying the Security Deposit for recouping any unpaid rent (such as the Monthly Rent and the Double Rent) after the term of the Lease. Indeed, such unpaid rent would amount to damages.[^137]
+
+88     The Tenant’s contention that he was entitled to set-off the Monthly Rent and the Double Rent from the Security Deposit[^138] was therefore wrong. He had averred that he “understood this to be common practice for residential tenancies in Singapore”[^139]. But, he adduced no evidence to this effect. In any event, it was the express terms of the Lease that governed the parties’ rights and obligations (and not any alleged “common practice”). Under Clause 4(1)(b), this right to set-off belonged to the Landlord – who was not obliged to exercise it.[^140] It was not a right for the Tenant to exercise unilaterally (indeed, if it was, the Security Deposit would then hardly amount to any form of “security”). Even if the Landlord exercised his right to set-off the Monthly Rent and the Double Rent from the Security Deposit, the Landlord was obliged to return the Balance Deposit to the Tenant:
+
+> (a)     only if the Premises had been “properly reinstated in accordance with the provisions of the \[Lease\]”; and
+
+> (b)     “subject to any deductions for any breach or non-observance” of the covenants and conditions the Tenant had to perform and observe under the Lease.
+
+89     Indeed, the Tenant admitted, during the trial, that he knew that he was not entitled to set off any rent due against the Security Deposit.[^141] Yet, he refused to pay the Monthly Rent and the Double Rent and sought to set these off against the Security Deposit. This refusal to pay the rent he owed was also in the face of multiple demands for payment by the Landlord’s solicitors.[^142] Coupled with his refusal to vacate the Premises on 21 April 2017, the date he knew he had to[^143], I was of the view that the Tenant showed a complete disregard for the terms of the Lease.
+
+90     Here, the Tenant had only vacated the Premises on 28 April 2017 – seven days after the Lease expired on 21 April 2017. In this vein, Clause 8(5) of the Lease provided that:[^144]
+
+> \[d\]uring the period of any such holding over \[,\] all other provisions of \[the Lease\] shall be and remain in force.
+
+91     These provisions would necessarily include Clause 4(1)(b). It would also include Clauses 4(7)(a), 4(11)(o), and 4(15). Clause 4(15) has already been set out above.[^145] Clauses 4(7)(a) and 4(11)(o) read as follows:
+
+> **4**.     **TENANT’S COVENANTS**
+
+> The Tenant covenants with the Landlord as follows: –
+
+>> …
+
+>> (7)     **Tenantable Repair**
+
+>> (a)     **_To keep in good and tenantable repair and condition the exterior and interior of the Premises including the flooring_** and interior plaster or other surface material or rendering on walls and ceilings, **_the gardens and grounds of the Premises and the Effects therein_** including doors \[,\] windows, partitions, locks, fastenings, electric cables, wires, sewerage, drain pipes, gas pipes, air-conditioning system, sanitary installations, and water heaters, any alterations and additions authorised by the Landlord **_and any other fixtures and fittings (fair wear and tear excepted)_** and forthwith to make good in a proper and workmanlike manner any damage to the Premises, gardens or grounds or to the Effects including the said doors \[,\] windows, partitions, locks, fastenings, electric cables, wires, sewerage, drain pipes, gas pipes, air-conditioning system, sanitary installations, and water heaters, any alterations and additions authorised by the Landlord or to the fixtures and fittings therein caused by the Tenant or a permitted occupier or resulting from the negligence, act or default of the Tenant, the Occupant or a permitted occupier. For the avoidance of doubt, the Tenant shall not be responsible or liable for any repairs to the Effects which are not in good working condition of which notice thereof have been given to the Landlord within one (1) month from the date of commencement of the Term.
+
+>> …
+
+>> (11)    **Covenants affecting use of the Premises**
+
+>> The Tenant hereby covenants with the Landlord as follows:
+
+>>> …
+
+>>> (o)     **_To take reasonable care of the Effects_** and not to remove any items thereof from the Premises.
+
+> …
+
+> \[emphasis added in bold italics\]
+
+### Whether Tenant breached Clause 4(15) of Lease
+
+92     This section examines whether the Tenant breached Clause 4(15) of the Lease.[^146] This clause obliged the Tenant to yield up the Premises and the Effects to the Landlord in “good tenantable repair and condition in the original state as at the commencement date of the Term of this Lease”. The clause is reproduced below for easy reference:
+
+> **4**.     **TENANT’S COVENANTS**
+
+> The Tenant covenants with the Landlord as follows: –
+
+>> …
+
+>> (**15**)    **Yielding Up of Premises**
+
+>> At the expiration or sooner determination of the Term (unless renewed pursuant to clause 7) to peaceably and quietly **_deliver up to the Landlord the Premises and the Effects in good tenantable repair and condition in the original state as at the commencement date of the Term of_** **_this Lease_** **_(fair wear and tear excepted)_** together with the keys to the Premises and to all doors therein and all items received by the Tenant on or before the commencement date of the Term and to remove from the Premises all letterings \[,\] internal partitions \[,\] fixtures and installations of the Tenant. All damage done to the Premises by such removal shall be made good by the Tenant. If the Tenant shall fail to deliver up the Premises to the Landlord in accordance with the Tenant’s covenants under this Agreement \[,\] the Landlord may carry out the repairs and other works to the Premises and may recover from the Tenant the costs of such repairs and works together with Rent **_and other amounts which the Landlord would have been entitled to receive from the Tenant had the period within which such repairs and works were effected by the Landlord been added to the Term provided that such period to be added by the Landlord shall not exceed fifteen (15) days._**
+
+> \[emphasis added in bold italics and by underlining\]
+
+93     The “commencement date of the Term of **this** Lease” referred to the commencement date of the Initial Lease (_viz_., 22 April 2013). This was because the word “Term” was defined as the “lease term granted by **this** Agreement and specified in paragraph 3 of Appendix A.”[^147] On this note:
+
+> (a)     the word “Agreement” was defined in the Lease as “**this** Lease Agreement” (_ie_, the Initial Lease); and
+
+> (b)     paragraph 3 of Appendix A stated that the “Term” of the Initial Lease was for “Two (2) years commencing from the 22nd day of April 2013 to and including the 21st day of April 2015.”[^148]
+
+94     The Tenant had therefore agreed to “deliver up to the Landlord the Premises and the Effects in good tenantable repair and condition in the original state \[as at 22 April 2013\] (fair wear and tear excepted)”. In other words, the Tenant was obliged to deliver up to the Landlord the Premises and the Effects in the state the Tenant had received them on 22 April 2013 from the Original Landlord, with an exception only for “fair wear and tear”. The Tenant was thus obliged to maintain the Premises and the Effects in the state in which he received them on 22 April 2013, though fair wear and tear was excepted.
+
+95     Here, the Tenant had pleaded that:[^149]
+
+> \[a\]s at 28 April 2017, the Premises were yielded up in the **original state as at the start of the commencement of the \[Initial Lease –** **_ie_****, 22 April 2013**[^150]**\]** (fair wear and tear excepted), in accordance with Clause 4(15) of the \[Lease\].
+
+> \[emphasis added in bold\]
+
+96     This was denied by the Landlord[^151], who pleaded that the Tenant should be “put to strict proof”.[^152]
+
+#### Landlord’s legal burden to prove Tenant breached Clause 4(15)
+
+97     The parties’ contentions raised a question about the incidence of the legal burden of proving breach of Clause 4(15). This was:
+
+> (a)     whether the Landlord bore the legal burden of proving that the Tenant had failed to yield up the Premises and the Effects to him in “good tenantable repair and condition in the original state as at the commencement date of the Term of the \[Initial Lease\]” (_viz_., 22 April 2013); or
+
+> (b)     whether the Tenant bore the legal burden of proving that he had yielded up the Premises and the Effects to the Landlord in “good tenantable repair and condition in the original state as at the commencement date of the Term of the \[Initial Lease\]” (_viz_., 22 April 2013).
+
+98     Neither party dealt with this issue expressly in their submissions.[^153] In my view, the Landlord bore the legal burden of proving that the Tenant breached Clause 4(15). He therefore had the legal burden of proving that the Tenant had failed to deliver up the Premises and the Effects in “good tenantable repair and condition in the original state as at the commencement date of the Term of the \[Initial Lease\]” (_viz_., 22 April 2013). It is the substance of the fact in issue, and not the form of the pleadings, that settles the incidence of the legal burden of proof. In this regard, Professor Pinsler has noted that the fact a party’s allegation is positive in form (as the Tenant’s was) does not necessarily mean that he bears the legal burden of proving that allegation:[^154]
+
+> **Burden of proof in civil cases**
+
+> …**_In civil cases, the occurrence of the burden of proof is primarily determined by the pleadings which reflect and formulate the pertinent issues of substantive law. The pleadings set out the material facts which include the facts establishing the legal elements of a claim or defence (the facts in issue)._** For example, the plaintiff pleads in his statement of claim the existence of a contract between him and the defendant. \[The plaintiff\] alleges that it was a term of the contract that the defendant was to carry out a certain task, that he failed to carry out this task and that the plaintiff suffered consequential damage. The defendant might or might not admit to any of these allegations. The allegations which he admits to will no longer be in dispute and, therefore, would not be in issue. **_The allegations which remain in issue (those which are denied or not admitted to) will be for the plaintiff to prove. If the defendant admits to the contract and the terms alleged but denies the breach and the damage, the facts in issue at the trial will be whether the term was breached and whether there was damage. These will be matters for the plaintiff to prove \[on a balance of probabilities\]._** If the defendant admits to non-compliance with the term but raises defences or exceptions to liability which are refuted by the plaintiff, these will be facts in issue which the defendant is required to prove \[on a balance of probabilities\]. **_\[T\]he parties will have to adduce sufficient evidence to discharge the legal burdens that they carry in respect of the facts they seek to prove_**…
+
+> While the legal burdens remain fixed on the parties who must prove those facts, the evidential burden to adduce evidence may shift from one party \[to the other\] according to the state of the evidence and the corresponding needs of one or other party in the course of proceedings. **_So, if the issue is whether there has been a breach, the plaintiff would have the legal burden to establish breach. The evidential burden would fall \[on the plaintiff\] initially to adduce evidence of breach on a balance of probabilities. If \[the plaintiff\] achieves this, for example, after the examination of a witness or adduction of other evidence, the evidential burden shifts to the defendant to try at least to equalise the probabilities._** Similarly, if the defendant has the legal burden to establish a defence, he would have to do so by adducing evidence showing the defence on a balance of probabilities at which time this evidential burden would shift to the plaintiff to try (at least) to equalise the probabilities.
+
+> **_As the legal burden in civil proceedings is primarily determined by the pleadings, the manner of drafting an allegation may affect its incidence. This is particularly the case when the grammatical form of the allegation is not consistent with its substance, as when an allegation is phrased negatively but substantively it amounts to a positive assertion. For example, a landlord claims against a tenant for non-repair of premises and he alleges this in his statement of claim. The tenant defends the claim by asserting that he did repair the premises. The question is whether the landlord must prove non-repair or whether the tenant must prove that he did repair the premises. The fact that the landlord’s allegation is negative in form and the tenant’s allegation is positive in form is not the determining factor. In substance, it is the landlord who is making the assertion of non-repair and therefore he must establish this.[^155] In other words, \[the landlord\] brings the suit on the basis of the \[tenant’s\] failure to repair the premises._**
+
+> \[emphasis added in bold italics\]
+
+99     This point was explained in detail in _Powell’s Principles and Practice of the Law of Evidence_. There, the authors observed that the fact in issue “must be proved by the party who alleges the affirmative in substance, and not merely the affirmative in form”:[^156]
+
+> The judge…can decide a case only by considering the truth and value of the several facts alleged and proved by the parties. And as the facts are unknown to \[the\] judge, each party must establish what he has alleged by evidence. The question at once arises, \[b\]y which party must any particular fact be proved? The responsibility of adducing such evidence as will establish any fact in issue is called the “Burden of Proof”.
+
+> The burden of proving a fact rests, as a rule, on the party who affirms the fact and not on the party who denies it. As a general rule, he who makes an assertion must prove it true. If no affirmative evidence is given, the opposite proposition, the negative of the issue, will be taken as established…
+
+> As a rule, the onus of proof lies upon the party who has in his pleading maintained the affirmative of the issue; for a negative is usually incapable of proof. The affirmative is generally, but not necessarily, maintained by the party who first raises the issue…
+
+> In all cases it is necessary to determine the question, \[o\]n whom does the burden of proof rest in…And on this preliminary question often depends another…namely, \[w\]hich party has the privilege, or incurs the duty, of beginning…As a general rule, in any legal proceeding the burden of proof lies on the plaintiff…; he therefore begins; it is his duty to establish the case against the defendant…and this he must do by calling proper evidence.
+
+> **In a civil case, the question on whom does the burden of proof rest depends upon the pleadings. At the beginning of the case the test is this: Which party would be unsuccessful if no evidence were given on either side?** [^157] **And if at any stage of the action a question arises as to the party on whom should rest the burden of proving any particular allegation, the test is, Which party would fail if the allegation in question were struck out of the pleading?** [^158]
+
+> **The issue must be proved by the party who alleges the affirmative in substance, and not merely the affirmative in form. The precise form of the pleading does not matter; the judge will look at the substance of the allegation…So in** **_Amos v Hughes_** [^159] **, where the plaintiff alleged that the defendant had not done certain work in a workmanlike manner, as the Court would not presume the work to have been done in an unworkmanlike manner, the plaintiff had to prove his allegation, as it was the affirmative in substance, although not so in form…Again, in an action for breach of a covenant to repair, if the \[landlord\] alleges that the premises were not kept in repair, and the \[tenant\] pleads that they were, the \[landlord\] must begin, and prove the non-repair.** [^160]
+
+> \[emphasis in bold\]
+
+100    A mechanical approach to the “affirmative” or “negative” test is therefore eschewed. The form of the words used in the pleadings is not determinative. _Soward v Leggatt_[^161] (“_Soward_’) is often cited in support of this proposition. There, a landlord claimed against his tenant under a repairing covenant in a lease. In his pleading, the landlord alleged that the tenant “did not repair” and “did not paint” the premises. To this, the tenant pleaded that he “did…well and sufficiently repair” and that he “did paint” the premises. It therefore appeared, at first blush, that the landlord was making denials and the tenant was making the positive assertions. At trial, the tenant’s counsel claimed that he had the legal burden of proof and therefore the right to open the case. Lord Abinger CB observed as follows:[^162]
+
+> Looking at these things according to common sense, **we should consider what is the substantive fact to be made out, and on whom it lies to make it out. It is not so much the form of the issue which ought to be considered, as the substance and effect of it. In many cases, a party, by a little difference in the drawing of his pleadings, might make \[his allegation\] either afﬁrmative or negative, as he pleased.** The \[landlord\] here says, ‘You did not repair’; he might have said, ‘You let the house become dilapidated.’ I shall endeavour by my own view to arrive at the substance of the issue, and I think in the present case that the \[landlord’s\] counsel should begin.
+
+> \[emphasis added in bold\]
+
+101    That the legal burden lies with the party asserting an affirmative proposition does not therefore mean that whenever a party’s assertion is capable of being described as a negative the burden will lie with the other party. The mere form of the pleading is not the test of who has the legal burden of proof – for otherwise, the matter would “quite as often \[be\] regulated by the dexterity of the pleader, as by the real nature of the controversy between the parties.”[^163] As such, despite the negative form of the landlord’s pleading in _Soward_, the legal burden of proof was on the landlord to prove breach by the tenant of the repairing covenant in the lease. The legal burden lay on the landlord because he was the asserter of the legal affirmative (_viz_., breach of the repairing covenant in the lease). The substance and effect of the landlord’s assertions were affirmative in nature, notwithstanding the linguistic formula used in the pleadings.
+
+102    Here, the Landlord’s counterclaim against the Tenant was for failing to:[^164]
+
+> …deliver up to the Landlord the Premises and the Effects in good tenantable repair and condition in the original state as at the commencement date of the Term of \[the\] Lease…
+
+103    The Tenant had averred otherwise.[^165] As in _Soward_, it therefore appeared that the Landlord was making a negative assertion and the Tenant was making the positive assertion. However, it was the Landlord who was asserting the legal affirmative (_viz_., breach of Clause 4(15)). It was the Landlord who would fail in his counterclaim:[^166]
+
+> (a)     if no evidence was adduced by either side as to the circumstances underlying a breach of Clause 4(15); and
+
+> (b)     if this allegation as to Clause 4(15) being breached was struck out of the pleadings.
+
+104    The Landlord therefore bore the legal burden of proving that the Tenant breached Clause 4(15). In other words, the Landlord bore the legal burden of proving that the Tenant had failed to deliver up the Premises and the Effects to him in “good tenantable repair and condition in the original state as at the commencement date of the Term of the \[Initial Lease\]” (_viz_., 22 April 2013). This also meant that the Landlord had the initial evidential burden in this regard.
+
+105    This interaction between the legal burden (which will never shift from the Landlord to the Tenant) and an evidential burden to produce evidence (which can shift between the parties) was explained in _Britestone Pte Ltd v Smith & Associates Far East, Ltd_:[^167]
+
+> _Legal and evidential burden of proof_
+
+> …
+
+> 58    The term “burden of proof” is more properly used with reference to the obligation to prove. There are in fact two kinds of burden in relation to the adduction of evidence. **The first, designated the legal burden of proof, is, properly speaking, a burden of proof, for it describes the obligation to persuade the trier of fact that, in view of the evidence, the fact in dispute exists. This obligation never shifts in respect of any fact, and only “shifts” in a manner of loose terminology when a legal presumption operates. The second is a burden of proof only loosely speaking, for it falls short of an obligation to prove that a particular fact exists. It is more accurately designated the evidential burden to produce evidence since, whenever it operates, the failure to adduce some evidence, whether in propounding or rebutting, will mean a failure to engage the question of the existence of a particular fact or to keep this question alive. As such, this burden can and will shift.**
+
+> 59    The court’s decision in every case will depend on whether the party concerned has satisfied the particular burden and standard of proof imposed on him. \[The legal burden of proof\] …means the burden to satisfy the court of the existence or non-existence of some fact…However, this is not to say that the evidential burden, which is the burden to adduce sufficient evidence to raise an issue for the consideration of the trier of fact, does not exist. It exists as the tactical onus to contradict, weaken or explain away the evidence that has been led; there is no distinction between such tactical onus and the evidential burden.
+
+> 60    To contextualise the above principles, **at the start of the plaintiff’s case, the legal burden of proving the existence of any relevant fact that the plaintiff must prove and the evidential burden of adducing some (not inherently incredible) evidence of the existence of such fact coincide. Upon adduction of that evidence, the evidential burden shifts to the defendant, as the case may be, to adduce some evidence in rebuttal. If no evidence in rebuttal is adduced, the court may conclude from the evidence of the plaintiff that the legal burden is also discharged and making a finding on the fact against the defendant. If, on the other hand, evidence in rebuttal is adduced, the evidential burden shifts back to the plaintiff. If, ultimately, the evidential burden comes to rest on the defendant, the legal burden of proof of that relevant fact would have been discharged by the plaintiff. The legal burden of proof – a permanent and enduring burden – does not shift. A party who has the legal burden of proof on any issue must discharge it throughout.** Sometimes, the legal burden is spoken of, inaccurately, as “shifting”; but what is truly meant is that another issue has been engaged, on which the opposite party bears the legal burden of proof.
+
+> \[emphasis added in bold\]
+
+#### Condition of Premises when Initial Lease commenced irrelevant
+
+106    The phrase “good tenantable repair and condition” in Clause 4(15) refers to the standard of repair and the condition of the Premises and Effects that the Tenant was obliged to deliver up to the Landlord. This standard was, however, qualified by the words that immediately follow – _viz_., “in the original state as at the commencement date of the Term of this Lease (fair wear and tear excepted)”. The parties were divided as to the relevance of this state in this action.
+
+107    The Tenant relied on _Lee Tat Realty Pte Ltd v Limco Products Manufacturing Pte Ltd_[^168] (“_Lee Tat_”) to argue that the “question of the original state of the Premises \[was\] crucial” in this case.[^169] There, the landlord had demised the premises (comprising a parcel of land and a building erected on it) to the tenant for three years. The landlord alleged that the tenant was the first occupier of the building, which (if true) meant that the building had remained unoccupied for a period of at least 5 years and 10 months before the tenant was given access. This fact of non-occupation alone would have exacted its toll on the building.[^170] No evidence was adduced by the landlord to indicate what maintenance was carried out on the building during this period of non-occupation. The tenant later sued the landlord for the refund of the security deposit on expiry of the tenancy. In response, the landlord asserted that it was entitled to forfeit the whole of the deposit (pursuant to a forfeiture clause in the tenancy agreement) because the tenant had not restored the premises to the condition as at the commencement of the tenancy.[^171] The High Court held that the forfeiture clause was not enforceable because it was a penalty clause. The landlord therefore had to prove its actual loss.[^172] The High Court held that the landlord failed to do so. This was because (among other reasons) the landlord had failed to prove, on a balance of probabilities, that the premises were in good condition when they were first rented out to the tenant (as the landlord had asserted). The relevant paragraphs in _Lee Tat_ read as follows:
+
+> 59    Clause 3(4) required \[the tenant\] “to maintain the demised premises in good order and condition”; cl 3(5) “to keep the demised premises including … in good and tenantable repair and condition”; cl 3(6) “to maintain in good order and condition all sanitary water electrical and other fittings …” **In the circumstances of this case, it seems to me clear that the parties intended that the \[tenant’s\] obligation was to maintain the building in the state in which the \[tenant\] received it.** This view is reinforced by cl 3(46) which provided that “at the expiration … of the term hereby created, \[the landlord\] may reinstate the demised premises to their original condition at the \[tenant’s\] cost and this cost may be deduct from the said deposit \[_sic_\].” Moreover, it is not \[the landlord’s\] case that \[the tenant\] should return the building in a better condition than it was when \[the tenant\] took possession of it. **\[The landlord’s\] letter of 12 November 1991 only required \[the tenant\] to restore the building to its original state.** This was reiterated in \[the landlord’s\] solicitors’ letter of 29 January 1992 (wrongly typed as 1991).
+
+> 60     **Under cl 3(6), fair wear and tear was excepted.** In _Hill and Redman’s Law of Landlord and Tenant_ (15th Ed) the learned authors stated (at para 140):
+
+>> If reasonable wear and tear are excepted, the tenant is not bound to make good dilapidations caused by the friction of the air, and by exposure and ordinary use … If the passage of time and operations of the elements has a more than deteriorating effect than usual owing to the original unsoundness of the premises, the tenant will not be liable for the resulting dilapidation … Covenants to keep in tenantable or good or habitable repair must be reasonably construed. The landlord is not to claim for slight defects.
+
+> 61     **Therefore, the question of the original state of the premises is crucial.** In so far as \[the only witness for the landlord\] sought to assert that when the premises were first rented out to \[the tenant\] they were in good condition, that assertion is not true. I can well imagine how a building would be like if it were unoccupied and exposed to the elements for 5 years 10 months (assuming it is true that \[the tenant\] was the first tenant though there is some evidence on the second floor to suggest that there could have been an earlier tenant) without maintenance. I find that \[the only witness for the landlord\] has a tendency to exaggerate and to tell only half the story. On the other hand, I find that…evidence of \[two of the tenant’s witnesses\] is probably nearer the truth. As stated before, \[the tenant\] was prepared to spend some money in sprucing it up, and did so.
+
+> …
+
+> 65    Furthermore, in this regard \[of the landlord not having proven its loss\], **there are three other factors which I have already mentioned and which ought to be borne in mind: (a) the poor state of the premises when \[the tenant\] took over; (b) the fact that \[the tenant\] did undertake works to restore the building to its original state; and (c) the more than three years of neglect after \[the tenant\] vacated the premises**….
+
+> \[emphasis added in bold\]
+
+108    In response, the Landlord argued that “the state and condition of the \[Premises\] at the time when the \[Tenant\] took possession…at the commencement of the \[Initial Lease was\] not relevant \[in\] this action”.[^173] According to the Landlord, this was because:[^174]
+
+> (a)     the Tenant had pleaded that:
+
+>> (i)       he had yielded up the Premises on 28 April 2017 in “the original state as at the start of the commencement of the \[Initial Lease\] (fair wear and tear excepted), in accordance with Clause 4(15)”.[^175]
+
+>> (ii)       the damages the Landlord alleged in his counterclaim:[^176]
+
+>>> (A)       did not exist at the time the Tenant yielded up the Premises to the Landlord on 28 April 2017; or
+
+>>> (B)       were due to fair wear and tear (which was excepted), if these damages existed at the time the Tenant yielded up the Premises to the Landlord on 28 April 2017.
+
+> (b)     the Tenant had not pleaded that these damages “were pre-existing and present at the time \[the Tenant\] took possession of the Premises from the Original Landlord” on 22 April 2013.
+
+109    The Landlord also sought to distinguish _Lee Tat_ in the following terms:[^177]
+
+> 4.    ...the \[building in _Lee Tat_\] was left unoccupied and exposed to the elements for a period of 5 years and 10 months before it was rented to the defendant tenant. His Honour Justice Chao Hick Tin also took into account the following factors that arose in the case:
+
+>> a)    The poor state of the premises when the tenant took over;
+
+>> b)    The tenant did undertake works to restore the building to its original state; and
+
+>> c)    The 3 years of neglect after the tenant vacated the premises.
+
+> 5.     **Hence, the state and condition of the property at the time the tenant took possession was clearly in issue and heavily disputed. In contrast, there is no dispute that when the \[Tenant\] took possession of the \[Premises\], the \[Premises\] was newly constructed and the \[Tenant\] and his family were the 1st occupiers of the \[Premises\] after it had been newly built. Further, there was no work undertaken by the \[Tenant\] at all to rectify any defect and the period of time between the handover date and the inspection by Alvin Yap and Rashidah and the inspection by Tong was a few days and about 5 months respectively.**
+
+> 6.    Hence, the state and condition of the \[Premises at the time the \[Tenant\] took possession when the tenancy commenced is irrelevant.
+
+> \[emphasis added in bold\]
+
+110    The Landlord did not adduce any evidence as to the original state of the Premises and the Effects that the Tenant received from the Original Landlord on 22 April 2013. Indeed, the Landlord’s testimony revealed that he did not know:[^178]
+
+> (a)     when the Temporary Occupation Permit was issued;
+
+> (b)     when the Premises were completed; and
+
+> (c)     how long the Premises had remained unoccupied before the Initial Lease commenced on 22 April 2013.
+
+111    The transcript of the notes of evidence during the Landlord’s cross-examination is illustrative. This is reproduced below (“TC” refers to the Tenant’s Counsel and “LC” refers to the Landlord’s Counsel):[^179]
+
+>   
+| 
+
+Q:
+
+ | 
+
+Yes. So by the time…the existing tenancy expired, the premises would have been occupied under the two tenancies for about 4 years?
+
+ |
+| 
+
+A:
+
+ | 
+
+Yes.
+
+ |
+| 
+
+**Q:**
+
+ | 
+
+**And were you aware when the \[Temporary Occupation Permit\] for the building was issued?**
+
+ |
+| 
+
+**A:**
+
+ | 
+
+**I have no idea.**
+
+ |
+| 
+
+**Q:**
+
+ | 
+
+**You don’t know when the building was completed?**
+
+ |
+| 
+
+**A:**
+
+ | 
+
+**I have no idea.**
+
+ |
+| 
+
+…
+
+ | 
+
+ |
+| 
+
+**Q:**
+
+ | 
+
+**But you did you know the age of the house at the time that you bought it?**
+
+ |
+| 
+
+**A:**
+
+ | 
+
+**I roughly have \[an\] approximate \[age\] of the house.**
+
+ |
+| 
+
+Q:
+
+ | 
+
+What is the approximate \[age\]…at the time \[?\]
+
+ |
+| 
+
+A:
+
+ | 
+
+**…I presume.** The first day, when the \[T\]enant moved in, that was…the very first… tenant who stayed there. From there on, you know…the house is probably 4 years…if you count, say, use 2017 May…the house is probably 4 years plus minus there.
+
+ |
+| 
+
+Q:
+
+ | 
+
+Plus minus?
+
+ |
+| 
+
+A:
+
+ | 
+
+Plus minus there. That means it can be maybe 1 month or 2 month **because I do not know…the \[Original Developer\] took how long to rent out.** I can only say maybe plus minus and then…few months before…the first tenant moved in.
+
+ |
+| 
+
+…
+
+ | 
+
+ |
+| 
+
+Court:
+
+ | 
+
+Alright. Now before that, any agreement…as to when this house TOPed?
+
+ |
+| 
+
+TC:
+
+ | 
+
+No, Your Honour.
+
+ |
+| 
+
+LC:
+
+ | 
+
+No, Your Honour…this was never…I mean, **to us, it wasn’t an issue**, and a reason, **so we’ve not ascertained the date of TOP.**
+
+ |
+| 
+
+Court:
+
+ | 
+
+Okay. Alright.
+
+ |
+| 
+
+TC:
+
+ | 
+
+**So you are saying that the age of the house is not certain? Okay.**
+
+ |
+| 
+
+\[emphasis added in bold\]
+
+ |
+
+  
+  
+
+112    In these circumstances, I did not agree with the Landlord that:[^180]
+
+> 5    …there is no dispute that when the \[Tenant\] took possession of the \[Premises\], the \[Premises were\] **newly constructed** and the \[Tenant\] and his family were the 1st occupiers of the \[Premises\] after it had been **newly built**…
+
+> \[emphasis added in bold\]
+
+113    The agreement between the parties extended only to the point that the Tenant and his family were the first occupiers of the Premises after it was built. There was no evidence, on record, that the Premises were “**newly** constructed” or “**newly** built”. In any event, the mere fact that the Premises were newly built said nothing about the state of the Premises and the Effects that the Tenant received from the Original Landlord on 22 April 2013. Even newly built properties may have damage (hence, the usual inclusion of a Defects Liability Period in any Sales and Purchase agreement).
+
+114    But, as the Landlord correctly pointed out[^181], it was not the Tenant’s pleaded position that the damages alleged by the Landlord “were pre-existing and present at the time \[the Tenant\] took possession of the Premises from the Original Landlord” on 22 April 2013.
+
+115    The Tenant’s pleaded position on the damages alleged by the Landlord[^182] is set out in the following table:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="28.28%"> <col width="30.46%"> <col width="41.26%"> </colgroup><tbody><tr><td align="left" class="b" colspan="3" rowspan="1" valign="top"><p class="Table-Heading-Center">Tenant’s pleaded position</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p class="Table-Heading-Center">Damages alleged</p></td><td align="left" class="br" rowspan="1" valign="top"><p class="Table-Heading-Center">Primary position</p></td><td align="left" class="b" rowspan="1" valign="top"><p class="Table-Heading-Center">Alternative position</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Damage to:</p><p align="justify" class="Table-Para-1">(a) grass turf; and</p><p align="justify" class="Table-Para-1">(b) planter box.</p></td><td align="left" class="br" rowspan="3" valign="top"><p align="justify" class="Table-Para-1">No damage when the Tenant vacated the Premises on 28 April 2017.</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Damage, if any, was:</p><p align="justify" class="Table-Para-1">(a) due to fair wear and tear (which was excepted); or</p><p align="justify" class="Table-Para-1">(b) Landlord’s responsibility under Clause 5(5).</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Damage to granite flooring</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Worn areas, if any, were due to fair wear and tear (which was excepted).</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Damage to timber flooring</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Damage, if any, was due to fair wear and tear (which was excepted).</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Damage to ventilation vents/hood</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">No damage. Vents/hood were all in good working order when the Tenant vacated the Premises 28 April 2017.</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">-</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Broken fridge handle</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Damage was due to fair wear and tear, which was excepted.</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Landlord was informed of damage.</p></td></tr></tbody></table>
+
+  
+  
+
+116    Save for the broken fridge handle, the Tenant’s primary position on the damages alleged was that they did not exist when he delivered up the Premises on 28 April 2017. These damages must necessarily also have been absent at the time the Initial Lease commenced on 22 April 2013. This was because it was not the Tenant’s positon that he carried out any repairs between 22 April 2013 and 28 April 2017 to repair any damage to the Premises or the Effects. As the Tenant pleaded in the Statement of Claim:[^183]
+
+> 10.    As at 28 April 2017, the Premises were yielded up in the original state as at the start of the commencement of the \[Initial\] Lease (fair wear and tear excepted), in accordance with Clause 4(15)…
+
+117    It was, therefore, the common positon of the Landlord and the Tenant that the damages alleged by the Landlord did not exist when the Initial Lease commenced on 22 April 2013. This was unlike the case in _Lee Tat_, where the state and condition of the building at the time the tenant took possession was a fact in issue between the parties.[^184] Bearing in mind the Tenant’s pleaded case, I agreed with the Landlord that “the state and condition of the \[Premises\] at the time when the \[Tenant\] took possession…at the commencement of the \[Initial Lease was\] not relevant \[in\] this action”.[^185] Given that the Tenant had not pleaded that the damages alleged by the Landlord were already present at the time he took possession of the Premises and the Effects from the Original Landlord on 22 April 2013, I rejected the Tenant’s submission that:[^186]
+
+> …\[t\]he existence of pre-existing \[damage\] is relevant to the issue of whether the defects pleaded by the \[Landlord\] in the Counterclaim \[were\] caused by the \[Tenant\], as the burden is on the \[Landlord\] to prove that any damage alleged was caused by the \[Tenant\]. The existence of pre-existing \[damage\], such as construction defects, is relevant insofar as it can show that the damage alleged by the \[Landlord\] could not have been caused by the \[Tenant\].
+
+118    In these circumstances, I agreed with the Landlord that the Tenant was “precluded from contending that the \[damages\] identified by \[Yap, Rashidah, and Tong\] were pre-existing \[damages\].[^187]
+
+#### Reference point for assessing alleged damages
+
+119    This section examines whether a breach of Clause 4(15), if any, should be assessed with reference to the:
+
+> (a)     Joint Inspection on 13 April 2017;
+
+> (b)     inspection by Yap and Rashidah on 2 May 2017;
+
+> (c)     inspection by Tong on 26 October 2017; or
+
+> (d)     inspection by Casimir on 1 February 2018.
+
+##### Joint inspection on 13 April 2017 not the handover inspection
+
+120    In the Statement of Claim, the Tenant averred that the Joint Inspection was in the nature of an “inspection of the Premises \[that was\] conducted before delivery of possession”[^188] to the Landlord (_ie_, the handover inspection). According to the Tenant, the Landlord’s representatives who “attended at the Premises to carry out the \[handover\] inspection”[^189] raised “\[n\]o material issue”[^190]. This pleaded position in the Statement of Claim differed, however, from the Tenant’s evidence in his affidavit.[^191] In his affidavit, the Tenant stated that the Landlord’s representatives had pointed out six “purported defects at the joint inspection” (instead of none as pleaded). The relevant paragraphs in the Tenant’s affidavit read as follows:[^192]
+
+> 12.    …The \[Landlord’s\] representatives pointed out the following purported defects at the joint inspection:
+
+>> (i)    Missing handle of the refrigerator
+
+>> (ii)   A part of the main gate being rusty
+
+>> (iii)   Difficulty with opening one wooden door to a storage area near the main gate
+
+>> (iv)   One switch in the swimming pool pump could not be switched on
+
+>> (v)    Parts of the wooden decking around the swimming pool not being in good condition
+
+>> (vi)   One camera of the CCTV was not showing on the monitor
+
+> 13.    Other than the above purported defects, the \[Landlord’s\] representatives did not point out any other defects to the Premises at the joint inspection…
+
+121    In his Defence and Counterclaim, the Landlord agreed “that a joint inspection of the Premises was conducted on 13 April 2017”[^193]. However, he denied that the Joint Inspection was the handover inspection. Instead, the Landlord averred that:[^194]
+
+> (a)     the Joint Inspection was arranged to primarily inspect the rectification works to the front foyer and façade, as the insurer of the delivery truck had requested for his endorsement of the discharge receipt.
+
+> (b)     a joint inspection of the Premises for “defects” (_viz_., the handover inspection) was only to be conducted upon expiry of the Lease and when the Tenant was ready to handover the Premises to the Landlord.
+
+> (c)     during the Joint Inspection, the opportunity was taken to briefly go through the items on the Joint Inspection Inventory of Effects. There was no inspection for “defects” at all.
+
+> (d)     the Tenant and the Landlord’s representatives had agreed that a full and formal handover and inspection would be conducted when the Tenant was ready to hand over the Premises on the expiry of the Lease.
+
+122    The Tenant denied the Landlord’s version in his Reply and Defence to Counterclaim. He contended that:[^195]
+
+> \[o\]n 13 April 2017, the \[Landlord\] had sent 5 representatives to inspect the Premises, amongst whom was a person checking on the electrical appliances and the security system and an electrician. The \[Landlord’s\] representatives inspected the Premises, tested items which they saw fit, including opening drawers, switching on appliances, opening and closing doors, testing the security cameras and system. There was no further agreement to be carried out on the date of handing over. The \[Tenant\] had only agreed to hand over the keys officially to the \[Landlord\] on the date of handing over.
+
+123    I found, on a balance of probabilities, that the Joint Inspection was not the handover inspection conducted by the Landlord to ascertain whether the Tenant had complied with Clause 4(15) – _ie_, to:
+
+> …deliver up to the Landlord the Premises and the Effects in good tenantable repair and condition in the original state as at the commencement date of the Term of this Lease (fair wear and tear excepted)…
+
+124    The Tenant bore the legal burden of proving, on a balance of probabilities, that the Joint Inspection was the handover inspection. However, he failed to do so for several reasons. First, no reasonable landlord would have agreed to the conduct of such an inspection on 13 April 2017 – eight days before the Lease was due to end on 21 April 2017. Damage could still result to the Premises and Effects in the intervening period. The utility of such an inspection, when the belongings of the Tenant and his family (including furniture) were still on the Premises, was also highly doubtful. As the Landlord submitted:[^196]
+
+> …\[s\]urely, the \[Landlord\] would not have agreed to this arrangement \[of a handing over inspection on 13 April 2017\] and accept the \[Premises\] from the \[Tenant\] without a further inspection on the day the Lease expired, bearing in mind that the \[Landlord\] had bought the \[Premises\] for S25,000,000.
+
+125     Second, the Joint Inspection Inventory of Effects referred only to:
+
+> (a)     the keys to various gates, doors, rooms, compartments, and boxes on the Premises;
+
+> (b)     household appliances in the dry and wet kitchens;
+
+> (c)     remote controls to an entrance gate and the air-conditioning system on the Premises; and
+
+> (d)     the CCTV cameras on the Premises.
+
+126    It did not refer to _other_ aspects of the Premises that the Tenant was obliged to “keep in good and tenantable repair and condition” under Clause 7(a). These included:[^197]
+
+> **…the exterior and interior of the Premises including the flooring** and interior plaster **or other surface material** or rendering on walls and ceilings, **the gardens and grounds of the Premises**…
+
+> \[emphasis added in bold\]
+
+127    Hence, the completion of the Joint Inspection Inventory of Effects only constituted, at its highest, an “inspection of the condition of part of the \[P\]remises” (as Yap testified[^198]). The Joint Inspection was, by no means, the handover inspection. Such an inspection would not have been possible on 13 April 2017, given that the belongings of the Tenant and his family (including furniture) were still very much on the Premises.
+
+128     Third, the Landlord’s position on the nature of the Joint Inspection was supported by correspondence between the parties’ counsels. Ms Baba had penned all the relevant correspondence for the Tenant. She was not only present at the Joint Inspection[^199], but she also represented the Tenant during the trial. Ms Baba first raised the Tenant’s position as to the nature of the Joint Inspection in an email to the Landlord’s solicitors on 3 May 2017. This was in the following terms:[^200]
+
+> …\[The Tenant\] has handed over the Premises to \[the Landlord\] on 28 April 2017 by delivering the keys to the Premises to your office on the said date. As such, \[the Tenant\] will not be attending any handing over. **\[The Landlord’s\] representatives had carried out a comprehensive inspection of the Premises prior to 28 April 2017 and no material issue was raised with \[the Tenant\] following the \[Joint Inspection\].**
+
+> \[emphasis added in bold\]
+
+129    The Tenant’s position was refuted by the Landlord’s solicitors in a reply dated 9 May 2017. The material parts of this reply read as follows:[^201]
+
+> 3.    \[The Tenant’s\] allegation that \[the Tenant\] has “handed over the Premises to \[the Landlord\] on 28 April 2017 by delivering the keys to the Premises to \[our\] office on the said date” is misconceived.
+
+> 4.    Pursuant to Clause 4(15) read with Clause 1(1)(a) and Appendix B (i.e. the Inventory of Effects) to the \[Lease\], \[the Tenant’s\] contractual obligation to yield up the Premises to \[the Landlord\] includes the delivery of the remote controls and keys to \[the Landlord\] and the delivery of the Effects described in the Inventory of Effects to \[the Landlord\].
+
+> …
+
+> **7**.     **To that end, our respective clients had, on 13 April 2017, conducted a preliminary inspection at the Premises in the presence of solicitors to go through the items listed on the Inventory of Effects and to note down any issues arising therefrom.**
+
+> **8**.     **Further, at the time of the aforesaid preliminary inspection on 13 April 2017, the Term had not yet expired. Hence, our respective clients had agreed to confirm and sign the Inventory of Effects at a subsequent handover of the Premises.**
+
+> 9.    In the circumstances, \[the Tenant’s\] allegation that he has already handed over the Premises to \[the Landlord\] on 28 April 2017 is misconceived.
+
+> **10**.     **Second, \[the Tenant’s\] allegation that “\[the Landlord’s\] representatives had carried out a comprehensive inspection of the Premises prior to 28 April 2017 and no material issue was raised with \[the Tenant\] following the inspection” is untrue.**
+
+> **11**.     **As stated above, the aforesaid inspection was conducted on a preliminary basis because the Term had not yet expired. Our respective clients had agreed to confirm and sign the Inventory of Effects at a subsequent handover of the Premises.**
+
+> 12.    Further, at the aforesaid preliminary inspection, our respective clients had noted down several outstanding issues in respect to the Inventory of Effects including, but not limited to, whether CCTV camera no. 3 was working.
+
+> …
+
+> \[emphasis added in bold\]
+
+130    Ms Baba replied to the Landlord’s solicitors on 19 May 2019, in the following terms:[^202]
+
+> 2.    With reference to paragraphs 2 to 9 of your said letter, the “Personal Effects” are in the Premises and upon delivery of the keys to the Premises, \[the Tenant\] has also delivered the Personal Effects to \[the Landlord\]. \[The Tenant\] was ready and willing to hand over the Premises to \[the Landlord\] on 28 April 2017 at 11:00am and \[the Landlord\] did not attend nor did he send his representatives to the Premises for the handing over. In view of the above, \[the Tenant\] repeats his position that the Premises and the Personal Effects have been delivered to \[the Landlord\] on 28 April 2017 when the keys and the remote controls to the main gate were delivered to your office.
+
+131    It is readily apparent that Ms Baba did not dispute, at all, the Landlord’s position on the nature of the Joint Inspection (_ie_, that it was not the handover inspection). There was also no attempt to correct the Landlord’s position.[^203] Instead, Ms Baba only replied to state that the Tenant had delivered the Premises and the Effects to the Landlord by delivering the keys to Premises (in which the Effects were).
+
+132    In any event, the mere delivery of the keys to the Premises (and the remote controls)[^204] to the Landlord was insufficient to satisfy Clause 4(15). This was because Clause 4(15) also obliged the Tenant to deliver up to the Landlord – on 28 April 2017 (the date the Tenant yielded up the Premises to the Landlord) – the Premises and the Effects “in good tenantable repair and condition in the original state as \[of 22 April 2013\] (fair wear and tear excepted)”. This would have necessitated a handing over inspection on 28 April 2017. Indeed, a review of the earlier correspondence between the parties showed that the Tenant was prepared to conduct a handing over of the Premises with the Landlord or his representatives in person.[^205] If all the Tenant needed to do to deliver up the Premises to the Landlord was to deliver the keys by courier to the Landlord’s solicitors, this begged the question as to why the Tenant was prepared to conduct an in-person handing over on 28 April 2017.
+
+133    The first correspondence from the Landlord’s solicitors to Ms Baba following the Joint Inspection was also instructive. This was an email sent on 20 April 2017. The material part was in the following terms:[^206]
+
+> Dear Ms \[Baba\],
+
+> 1.    We refer to our meeting at the Premises on 13 April 2017 and to your email dated 18 April 2017.
+
+> 2.    We are instructed that \[the Landlord\] does not wish to keep the curtains and the curtain railings installed by \[the Tenant\] in the Premises. **In this regard, we are instructed to request \[the Tenant\] to remove the same. In the event any damage is caused to the Premises, \[the Landlord\] reserves the right to deduct the cost of repairs from the Security Deposit**.
+
+> 3.    We are further instructed that \[the Landlord’s\] representatives will be at the Premises at 10.00am tomorrow morning **to conduct the handing over \[of\] the Premises.** Please inform \[the Tenant\] accordingly and ensure that \[the Tenant\] and/or his representative are present **to conduct the handing over.**
+
+> …
+
+> \[emphasis added in bold\]
+
+134    This showed that the Landlord contemplated a handing over inspection on 21 April 2017 (the date the Tenant was obliged to deliver up the Premises) to ascertain if any damage had been caused to the Premises.
+
+135     Fourth, if the Joint Inspection was indeed meant to be the handover inspection, it made little sense for Rashidah to indicate on the Joint Inspection Inventory of Effects that a “final check” was to be conducted on 21 April 2017.[^207] Indeed, if the Joint Inspection was the handover inspection, and no material issue was raised about the state and condition of the Premises and the Effects, one would have expected the Tenant to have readily signed on the Joint Inspection Inventory of Effects on 13 April 2017.
+
+136     Fifth, I noted that even as the Tenant claimed that the Joint Inspection involved a “detailed review of the house”, he was unsure if it was indeed a handing over inspection. This was evident in his cross-examination:[^208]
+
+> Q:Alright, Mr Bohbot, it is the evidence of \[Rashidah\]…who will be giving evidence later, that she had included this…handwritten note \[on the 13 April 2017 Inventory of Effects\] to reflect the agreement that there would be another handing over…on 21st April 2017. Do you agree to that?
+
+> A:No, I can only agree about what is written here, but I can only answer to what happened that day. **What was written here, I’m not an expert of…handing over and how many times.** There were 2 lawyers that day. There were 5 people and we spent a few hours going through all the house. So, the only thing I can say here is it was not only for the façade of the house. It was a detailed review of the house. **Do you want to call it handing over**, **_I don’t know_****. But to me, it’s what we** **_can_** **call a handing over because we went through everything in details**…
+
+> \[emphasis added in bold and in bold italics\]
+
+137    The Tenant submitted that that Landlord had:[^209]
+
+> …failed to offer any credible explanation as to why 5 representatives were present at the \[Joint Inspection\] and why every single room of the Premises was inspected during \[the Joint Inspection\] which took several hours, while a simple checking through of the inventory list would not have taken several hours…
+
+138    But, this submission ignored Rashidah’s evidence that each of the Landlord’s representatives had different roles on 13 April 2017. Faezun, the IT technician, was there to inspect the CCTV cameras. Yap and Wang were there to inspect the rectification works to the front façade of the Premises. Rashidah and Fei Ann were there to check on the items listed on the Joint Inspection Inventory of Effects.[^210] This was not a case where _all_ five representatives were involved in inspecting the Premises and the Effects for damage.[^211] That “every single room of the Premises was inspected” must also be placed in context. The Joint Inspection Inventory of Effects required the keys to these rooms to be checked. As Rashidah testified, she had to check whether the keys could go into the lock of each door.[^212] The other locations that were inspected (such as the living room, the kitchens, and the swimming pool) were also consistent with those stated on the Joint Inspection Inventory of Effects. The Joint Inspection may have taken “several hours”, but this length of time must be appreciated against the following facts:
+
+> (a)     the size of the Premises[^213];
+
+> (b)     the various locations referred to in the Joint Inspection Inventory of Effects;
+
+> (c)     the time taken to inspect the front façade of the Premises; and
+
+> (d)     Rashidah’s lack of familiarity with the Premises, given that this was her “first time…checking the house”.[^214]
+
+139    In these circumstances, I agreed with the Landlord that:[^215]
+
+> …on a balance of probabilities, no comprehensive inspection for \[damage\] was conducted at the \[Joint Inspection\]. Following from this, no joint inspection for \[damage\] was ever carried out between the parties as it is undisputed that on 28 April 2017, all the \[Tenant\] did was to get \[his solicitors\] to deliver 7 keys and 3 remote controls to \[the Landlord’s solicitors\] and \[unilaterally\] deemed this act to be the handing over of the \[Premises and the Effects to the Landlord\].
+
+##### Tong’s photographs were not a reliable reference
+
+140    The Tenant did not dispute that Yap and Rashidah inspected the Premises on 2 May 2017 (“the May Inspection”). This was a mere four days after the Tenant and his family vacated the Premises on 28 April 2017.[^216] It was also not disputed that Yap and Rashidah were the first persons to enter the Premises thereafter.[^217]
+
+141    In his affidavit, the Landlord deposed that the May Inspection was “a thorough inspection”[^218] of the Premises by Yap and Rashidah for damage. Yap had recorded the damages he observed during the May Inspection by taking photographs. These photographs were exhibited to his affidavit (“Yap’s photographs”). According to Rashidah, Yap “was the main person doing the recording”[^219] of damage during the May Inspection. Yap and Rashidah both testified[^220] that the counterclaim set out all of the damage they found during the May Inspection.[^221] When asked if she had seen further damage not reflected in the counterclaim, Rashidah replied in the negative.[^222]
+
+142    Yap had testified that he had been working with the Landlord for more than 10 years, and knew that his “standards \[were\] very high”.[^223] In cross-examination, he was asked how he conducted the May Inspection. He testified as follows:[^224]
+
+> Q:...you were instructed to conduct and according to \[the Landlord\] you conducted a thorough inspection of the \[Premises\] for defects?
+
+> A:Yes.
+
+> Q:You did. So, how did you conduct your inspection?
+
+> A:Walking and taking pictures.
+
+> Q:Okay. Now, you had informed the Court earlier that you know that \[the Landlord\] has very high standards. So, when you are doing the inspection, can you agree that you would have taken some care in making sure that you did a thorough inspection as instructed by \[the Landlord\]?
+
+> A:To the best of my abilities.
+
+143    The parties agreed that Yap’s photographs showed damages that must have existed at the time the Tenant delivered up the Premises on 28 April 2017.[^225] However, the Landlord further contended that the Tenant should also be attributed with the damages documented by Tong when Tong inspected the Premises on 26 October 2017. This inspection was done after the Landlord had already lived in the Premises for nearly five months. To this end, the Landlord submitted as follows:[^226]
+
+> 33.    It should be pointed \[out\] that **Yap is a lay person as far as the process of inspection and recording of \[damage is\] concerned**. Accordingly, he should not be faulted if the photographs taken by him may not really capture the location of the \[damage\]. **However, the \[damage\] that he and Rashidah observed and set out in their respective AEICs are in the main also captured and documented in Tong’s Report**.
+
+> 34.    Hence, the photographs taken by Yap and those by Tong should be taken and viewed together to give a complete and comprehensive picture of the \[damage\] that existed at the date of hand over. **Although Tong’s inspection was conducted in October 2017, the \[damage\] that he observed \[was damage\] that \[was\] consistent in terms of the nature of the defects and their location, with those observed by Yap and Rashidah and thus likely to be the same defects observed by Yap and Rashidah at the May Inspection**.
+
+> (emphasis added in bold)
+
+144    I disagreed with the Landlord that Yap’s photographs did “not really capture the location of \[all\] the \[damage\]” that existed on 28 April 2017 because Yap was a “lay person”. Yap had agreed that he had done a thorough inspection of the Premises, “\[t\]o the best of \[his\] abilities, as he knew that the Landlord had very high standards.[^227] Yap also testified that the Landlord had wanted to move in the day after the Tenant was supposed to vacate the Premises (_ie_, on 22 April 2017).[^228] The need for a thorough inspection during the May Inspection was hence apparent to Yap.
+
+145    Indeed, Yap had initially tried to downplay the thoroughness of the May Inspection – until he was confronted with the Landlord’s affidavit:[^229]
+
+> Q:…So, is it true if I say that you were instructed by \[the Landlord\] to conduct a thorough inspection of the \[Premises\]?
+
+> A:Instructed by \[the Landlord\] and also on our own initiative.
+
+> Q:Yes. **To conduct a thorough inspection of the \[Premises\]?**
+
+> A:To have a look through what is missing and what is damaged, **not a thorough inspection**.
+
+> **Q:** **Can I refer you to \[the Landlord’s affidavit where\] he stated that…following the \[Tenant\] vacating the \[Premises\], a thorough inspection of the \[Premises\] was then conducted by \[you\] and Rashidah for \[damage\]?**
+
+> **A:** **Yes.**
+
+> **Q:** **So, do you agree with this statement?**
+
+> **A:** **I agree with this statement.**
+
+> \[emphasis added in bold\]
+
+146    I had closely observed Yap as he testified, and it was clear that he had been caught out when confronted with the Landlord’s affidavit. Yap then said that he may not have been able to identify all of the damage he saw during the May Inspection because he was “not a technical person”:[^230]
+
+> Q:…So, immediately after \[the Tenant\] and his family had vacated \[the Premises\], you went to inspect the \[Premises\] for damage and the damage you discovered are set out in paragraph 28 of your affidavit?
+
+> A:Yes.
+
+> Q:So, do you confirm that this was all the damage that you saw at the time of your inspection?
+
+> A:To the best of my knowledge. **I am not a technical person. I may not identify some of the damages.**
+
+> \[emphasis added in bold\]
+
+147    I did not find Yap’s evidence believable. A review of the photographs in Tong’s Report showed that many were of damage that would have been readily visible to the naked eye of an average person conducting a “thorough inspection”. These photographs included:
+
+> (a)     staining and scratches on the timber flooring[^231];
+
+> (b)     scratches and chips to door frames[^232];
+
+> (c)     impact damage on a door[^233];
+
+> (d)     chips, cracks, scratches, marks, and stains to tiles[^234];
+
+> (e)     different tonalities of floor tiles[^235];
+
+> (f)     cracks and scratches on timber decking[^236];
+
+> (g)     wood rot[^237]; and
+
+> (h)     chips and cracks to planter boxes.[^238]
+
+148    Indeed, Tong also testified that he had not gone around “hunting for” damage (with any special equipment). Instead, he had simply identified the damage with his naked eye by standing at “normal height, above 1.5 metre\[s\]”:[^239]
+
+> Q:And actually, you can’t see the chip\[s\] \[to the granite tiles along the walkway to the gymnasium[^240]\] from here until you blow it up.
+
+> A:Uh, actually you can see because we follow the guideline, 1.5 metre. We don’t go around hunting for that. We actually stand at normal height, above 1.5 metre. And if we can spot the \[damage\]…we wouldn’t actually stoop down, kneel on the floor and look for that \[damage\].
+
+149    One does not need to be a “technical person” or have any technical expertise to identify damage in this way. All that Tong had done was to undertake a simple visual examination from a standing position, without the benefit of any special equipment. It was therefore difficult to understand why Yap had not taken any photographs of such obvious damage _if_ they had indeed existed at the time of his “thorough” May Inspection. The May Inspection was also by no means a rushed one, as Rashidah testified that they had gone “slowly” around the Premises to inspect it.[^241]
+
+150    I also did not agree with the Landlord that the damage Tong observed were:[^242]
+
+> …consistent, in terms of the nature of the \[damage\] and their location, with those observed by Yap and Rashidah and thus likely to be the same \[damage\] observed by Yap and Rashidah at the May Inspection.
+
+151    I agreed with the Tenant that “the photographs taken by \[Tong\] include\[d\] far more areas of alleged damage than the photographs taken by \[Yap\]”.[^243]
+
+152    In this regard, I agreed with the Tenant’s submissions that:
+
+> (a)    \[Yap’s\] photographs showed only 1 allegedly damaged planter box[^244] while \[Tong’s Report\] state\[d\] that there \[were\] 3 chipped \[and cracked\] planter boxes[^245];
+
+> (b)    \[Yap\] referred to the same photograph[^246] as evidence of damage to the granite flooring at (i) car porch floor, (ii) entrance at forecourt, and (\[iii\]) entrance foyer, while \[Tong\] took photographs of several areas of damage[^247], and included a photograph of a chip at the step leading to…one of the entrances of the Premises[^248] while no photograph of the alleged damage was taken by \[Yap\];
+
+> (c)    in respect of the alleged damage to the granite flooring at the study room, \[Yap\] referred to one photograph (where there is no evident damage to the granite tile)[^249] while \[Tong\] referred to a photograph of another area of the Premises[^250] - the granite tile along the walkway to the gym; \[and\]
+
+> (d)    \[Yap\] did not include any photographs of the damage to the staircases in his evidence[^251], while \[Tong’s Report\] included several photographs of some scratches of the staircase.[^252]
+
+153    Yap’s evidence that the damage he found during the May Inspection was the “same” as those found by Tong was therefore untenable.[^253]
+
+154    It also bears highlighting that Tong had taken his photographs on 26 October 2017. These photographs were therefore taken nearly five months after the Landlord had already moved into the Premises on 31 May 2017 – with his partner, his three children, two domestic helpers, two dogs[^254], furniture[^255], and household appliances.[^256] Before the Landlord moved in, the Premises had been painted and cleaned. The Landlord had also moved a significant amount of gym equipment into the Premises.[^257] The legal burden of proof was on the Landlord to show, on a balance of probabilities, that the damages shown in Tong’s photographs existed at the time the Tenant delivered up the Premises on 28 April 2017. This burden was certainly not discharged by the Landlord’s bare assertions that:[^258]
+
+> 38.    …\[because\] the \[Tenant\] has his family had lived in the Premises for 4 years, as opposed to the 3 months between the dates the \[Landlord\] moved in and Tong inspecting the \[Premises\]…the likelihood of the \[damage\] having been caused by the \[Tenant\] \[was\] certainly far higher.
+
+> 39.    …\[because\] it is highly improbable that wear and tear resulting in the type of \[damage\] as identified \[by Tong\] could manifest only after 3 months.
+
+155    Indeed, even Tong was not able to say with any certainty as to _when_ and _how_ the damage shown in his photographs occurred.[^259]
+
+156    In these circumstances, I agreed with the Tenant that Yap’s photographs[^260] were “the best record of the condition of the Premises after the \[Tenant\] vacated the Premises”.[^261]
+
+157    For completeness, it bears mention that four items of damage identified in Tong’s Report were not pleaded in the Landlord’s Defence and Counterclaim. These comprised damage to: the timber decking at the Pavilion Deck; homogenous tiles; marble; and door frames.[^262] It is settled law that the pleadings are the four corners of a civil suit. The court is bound by the facts and the particulars pleaded, and cannot make a finding or give a decision based on facts not pleaded[^263]. I would therefore have made no finding or decision in relation to these aspects of damage in any event.
+
+##### Casimir’s photographs were not a reliable reference
+
+158    Casimir’s photographs[^264] were taken on 1 February 2018. This was after the Landlord, his partner, three children, two domestic workers, and two dogs had lived on the Premises for about eight months. It was also about three months after Tong’s photographs were taken. These photographs were therefore of little (if any) relevance to determining the condition of the Premises and the Effects after the Tenant delivered up the Premises on 28 April 2017.
+
+##### Yap’s photographs were most reliable reference
+
+159    Yap’s photographs were thus the best evidence of the condition of the Premises and the Effects at the time the Tenant and his family delivered up the Premises on 28 April 2017. As such, any breach of Clause 4(15) should be assessed with reference to these photographs.
+
+#### Damage to Premises and Effects based on May Inspection
+
+160    The Landlord bore the legal burden of proving that the Tenant breached Clause 4(15). In other words, the Landlord bore the legal burden of proving that the Tenant failed to deliver up the Premises and the Effects to him in “good tenantable repair and condition in the original state as at the commencement date of the Term of the \[Initial Lease\]” (_viz_., 22 April 2013). This also meant that the Landlord had the initial evidential burden of producing evidence in this regard. The common position of the Landlord and the Tenant was that the damages alleged by the Landlord did not exist when the Initial Lease commenced on 22 April 2013.[^265] The Tenant had also not pleaded that these damages were already present when he took possession of the Premises and the Effects from the Original Landlord on 22 April 2013.[^266] In these circumstances, the Tenant would therefore have breached Clause 4(15) if the Landlord proved, on a balance of probabilities, that damages to the Premises and the Effects existed when the Tenant yielded up the Premises on 28 April 2017.
+
+161    This section assesses the damages to the Premises and the Effects that were purportedly uncovered during the May Inspection. It was for the Landlord to prove, on a balance of probabilities, that these damages existed during the May Inspection. This would also necessarily require the Landlord to prove the nature and the extent of the damage that existed at this time as well. There was no need to rely on any expert evidence in this regard. The admissibility of expert evidence is generally governed by s 47 of the Evidence Act.[^267] This section reads as follows:
+
+> **Opinions of experts**
+
+> **47.**—(1)    Subject to subsection (4), when the court is likely to derive assistance from an opinion **_upon a point of scientific, technical or other specialised knowledge_**, the opinions of experts upon that point are relevant facts.
+
+> (2)    An expert is a person with such scientific, technical or other specialised knowledge based on training, study or experience.
+
+> (3)    The opinion of an expert shall not be irrelevant merely because the opinion or part thereof relates to a matter of common knowledge.
+
+> (4)    An opinion which is otherwise relevant under subsection (1) shall not be relevant if the court is of the view that it would not be in the interests of justice to treat it as relevant.
+
+> \[emphasis added in bold italics\]
+
+162    The expert’s opinion must therefore be rendered on a “point of scientific, technical or other specialised knowledge”. Here, a key issue between the parties – whether there was in fact damage to the Premises and the Effects – was a factual dispute the court could resolve by assessing the direct evidence of Yap and Rashidah (who were present during the May Inspection) and by examining Yap’s photographs (which were taken during the May Inspection), and then deciding, in accordance with normal forensic techniques whether to accept such evidence. It was therefore not apparent that this issue required “scientific, technical or other specialised knowledge”.[^268] After all, neither Tong nor Casimir were present during the May Inspection. The photographs in their respective reports were also taken after the Landlord had occupied the Premises for many months. It was against this backdrop that I examined the evidence on the damage alleged by the Landlord in the Counterclaim – which Yap and Rashidah claimed they “discovered and documented”[^269] (in the form of Yap’s photographs) during the May Inspection.
+
+##### Brown patches in garden due to Tenant’s garden furniture
+
+163    Yap testified that he saw “dried-up grass” in the garden.[^270] Five of Yap’s photographs[^271] did indeed show brown patches[^272] on the right side of the garden. These patches appeared to cover about a fifth of the garden (which was rather sizeable). There appeared to be some grass growing at each patch, but each patch was otherwise barren (with soil showing).[^273]
+
+164    In cross-examination, the Tenant admitted that the garden was in this condition because he had placed garden furniture over the affected areas:[^274]
+
+> Q:…Now, can I ask you to turn to AB374 to 376 \[corresponding to Bundle of Photographs, Tab 2, pp 19-21\]?
+
+> A:The pictures, right?
+
+> Q:Yes, the photographs.
+
+> …
+
+> Q:Now…these are the photographs of the garden, yes?
+
+> A:Yes
+
+> Q:Yes, and you would see, Mr Bohbot, that there are patches of what we call dead grass, brown dead grass.
+
+> A:Yes.
+
+> Q:…Can you explain how these patches occurred or came about?
+
+> A:There was some…furniture put here in the garden and…the grass wouldn’t grow again. It was because some furniture \[was\] put there.
+
+> Q:Furniture. So, when you moved into the property, was there any garden…furniture?
+
+> A:No.
+
+> Q:No. So…you put garden…furniture there?
+
+> A:Yes.
+
+> Q:Yes, and at the end of the Tenancy, you removed them, you took them away with you?
+
+> A:Yes.
+
+> …
+
+> Q:The state \[of the\] grass, as we see \[in\] the photos…were a result of the decision to put garden furniture on it, yes?
+
+> A:Yes.
+
+> Q:Alright. So, if there \[was\] no garden furniture, you would not have seen these patches. Do you agree?
+
+> A:Yes.
+
+165    In re-examination, the Tenant testified that the furniture had been in the garden for some two years before he delivered up the Premises.[^275]
+
+166    In these circumstances, I was satisfied that the Landlord had proved, on a balance of probabilities, that damage to the garden existed at the time the Tenant delivered up the Premises on 28 April 2017. The damage – in the form of brown patches – was the direct result of the Tenant’s placement of garden furniture over the affected areas. That said, I bore in mind that Yap and Rashidah both testified that they did not see any other damage to the garden during the May Inspection.[^276]
+
+##### Hole in planter box
+
+167    Yap had taken a single photograph that showed a hole in the bottom left of a wooden planter box.[^277] In cross-examination, he described the damage to the planter box as a “pothole”.[^278] Rashidah had also pointed to this hole during her cross-examination.[^279] The Tenant did not dispute the existence and the nature of the damage to the planter box (_ie_, a hole). In these circumstances, I was satisfied that the Landlord had proved, on a balance of probabilities, that damage to a single planter box – in the form of a hole – existed at the time the Tenant delivered up the Premises on 28 April 2017. On this note, I also bore in mind that Yap had testified that he had not seen any other damage to the remaining planter boxes on the Premises.[^280]
+
+##### Damage to granite flooring
+
+168    In the Counterclaim, the Landlord had pleaded there was damage to the granite flooring of the Premises at five locations:
+
+> (a)     “Car porch floor”.
+
+> (b)     “Entrance at car porch”.
+
+> (c)     “Entrance at forecourt”.
+
+> (d)     “Entrance foyer”.
+
+> (e)     “Study room”.
+
+169    Yap had taken five photographs showing the alleged damage.[^281] In their respective affidavits, Yap and Rashidah had described the damage to the granite flooring as “including scratches and chipping”.[^282]
+
+Four chipped tiles on “car porch floor”
+
+170    Yap testified that four of his photographs[^283] showed the damage to the granite flooring at the “car porch floor”.[^284] According to Yap, the only damage he found to the “car porch floor” during the May Inspection was in the form of “chipped tiles” (no reference was made to any scratches on these tiles). In all, Yap’s photographs did indeed show four chipped tiles. Yap testified as follows during cross-examination:[^285]
+
+> Q:Now, at \[paragraph 28(b) in your affidavit\] …you’re saying that there is…damage…to the car porch floor?
+
+> A:Yes
+
+> Q:And \[these photographs\] are at page 33 to 36 \[of your affidavit, corresponding to Bundle of Photographs, Tab 2, pp 14 to 17\]?
+
+> A:Yes.
+
+> Q:Now, you have at page 33 \[of your affidavit, corresponding to Bundle of Photographs, Tab 2, p 14\] …you took this photograph, correct?
+
+> A:Yes.
+
+> Q:And so, you have pointed out or you have highlighted this. Is it the…chipped tile which is near the middle of the page?
+
+> A:Yes.
+
+> Q:And there is another chipped tile at page 34 \[of your affidavit, corresponding to Bundle of Photographs, Tab 2, p 15\]?
+
+> A:Yes.
+
+> Q:And page 35 \[of your affidavit, corresponding to Bundle of Photographs, Tab 2, p 16\]?
+
+> A:Yes.
+
+> Q:And \[page 36\] \[of your affidavit, corresponding to Bundle of Photographs, Tab 2, p 17\], there’s one more?
+
+> A:Yes.
+
+> Q:Okay. So your found four chipped tiles in the whole car porch?
+
+> A:During that time.
+
+> Q:Yes, we are talking about the time…that you did the \[May Inspection\].
+
+> …
+
+> **Q:** **…were these four chipped tiles the only damage that you found for the car porch?**
+
+> **A:** **Yes.**
+
+> **Q:** **And you did not discover any other \[damage\]?**
+
+> **A:** **No.**
+
+> \[emphasis added in bold\]
+
+171    The existence as well as the nature and extent of the damage to the granite flooring at the “car porch floor” (_ie_, chipped tiles) were not disputed by the Tenant. In these circumstances, I was satisfied that the Landlord had proved, on a balance of probabilities, that damage to the granite flooring at the “car porch floor” – in the form of four chipped tiles – existed at the time the Tenant delivered up the Premises on 28 April 2017. On this note, I also bore in mind that Yap had testified that he had not discovered any other damage to the granite flooring at the “car porch floor”.[^286]
+
+No evidence of damage at “entrance at car porch”
+
+172    In cross-examination, Yap was asked to identify his photographs that showed the damage to the granite flooring located at the “entrance at car porch”. He referred to one of the four photographs he had _earlier_ identified as showing the damage to the granite flooring at the “car porch floor”. He testified that this photograph showed the damage to the granite flooring at the “entrance at car porch”:
+
+> Q:Okay. So now…we’ve done that car porch floor. The next item is entrance at car porch. So, you have stated there’s damage to the granite flooring located at the entrance of the car porch. Could you…show us where is the damage? Because…I couldn’t find the photograph.
+
+> A:At the entrance, I would say it’s \[page\] 36 \[of my affidavit, corresponding to Bundle of Photographs, Tab 2, p 17\].
+
+> **Q:** **…It’s the same damage as the car porch?...Okay, this is one of the four items that we referred to just now?**
+
+> **A:** **Yes.**
+
+> **Q:** **Okay, So, is that the only damage for the entrance at car porch?**
+
+> **A:** **What I can see on that day.**
+
+> \[emphasis added in bold\]
+
+173    This photograph did not show any further damage, apart from the chipped tile Yap had earlier identified when testifying about the damage to the granite flooring at the “car porch floor”.[^287] Neither did Yap refer to any _other_ damage in the photograph. In these circumstances, I was of the view that the Landlord had failed to prove, on a balance of probabilities, that damage to the granite flooring at the “entrance at car porch” existed at the time the Tenant delivered up the Premises on 28 April 2017.[^288]
+
+No evidence of damage at “entrance at forecourt” & “entrance foyer”
+
+174    In cross-examination, Yap was asked to identify his photographs that showed the damage to the granite flooring located at the “entrance at forecourt”. He referred to one of the four photographs he had _earlier_ identified as showing the damage to the granite flooring at the “car porch floor”:[^289]
+
+> Q:Okay. Then can we go to the next item, the entrance at the forecourt?
+
+> A:Entrance to the forecourt, I assume the entrance…from the foyer leading to the private guest room. I would say that is \[page\] 35 \[of my affidavit, corresponding to Bundle of Photographs, Tab 2, p 16\].
+
+> **Q:** **\[Page\] 35 \[of your affidavit, corresponding to Bundle of Photographs, Tab 2, p 16\]?**
+
+> **A:** **Yes.**
+
+> Q:Okay. This one? This is indoor or outdoor?
+
+> **A:** **This was outdoor…So at the incursion here, you can see towards the end connecting both parts there is a dent or chip.**
+
+> \[emphasis added in bold\]
+
+175    At this point, the Landlord tendered the floor plan of the Premises.[^290] Referring to the floor plan, Yap then testified that this _same_ photograph showed the damage to the granite flooring at the “entrance at forecourt” _and_ the “entrance foyer”:[^291]
+
+> Q:\[So\] the damage…listed as car porch floor, which we have gone through, entrance at car porch, which we have gone through. So entrance at forecourt is where we are at now.
+
+> A:Uhuh.
+
+> Q:So you said that is the damage \[shown\] at page 35 \[of your affidavit, corresponding to Bundle of Photographs, Tab 2, p 16\]…
+
+> A:I have a look. Yes \[page\] 35 \[of my affidavit, corresponding to Bundle of Photographs, Tab 2, p 16\].
+
+> **Q:** **Okay. So that is \[the damage to the granite flooring at the “entrance at forecourt or at the “entrance foyer”\]?**
+
+> **A:** **\[Both\] actually…basically it’s the same area.**
+
+> Q:Yes, but where is the damage?...
+
+> A:It’s at the entrance foyer.
+
+> **Q:** **Where is the…photograph of the damage?**
+
+> **A:** **\[Page\] 35 \[of my affidavit, corresponding to Bundle of Photographs, Tab 2, p 16\] as I mentioned.**
+
+> Q:Okay. So, for \[the damage to the granite flooring at the “entrance at forecourt or at the “entrance foyer”\], the photograph is \[at page\] 35 \[of your affidavit, corresponding to Bundle of Photographs, Tab 2, p 16\]?
+
+> A:Yes.
+
+176    This photograph did not show any further damage, apart from the chipped tile Yap had earlier identified when testifying about the damage to the granite flooring at the “car porch floor”.[^292] Neither did Yap refer to any _other_ damage in the photograph. In these circumstances, I was of the view that the Landlord had failed to prove, on a balance of probabilities, that damage to the granite flooring at the “entrance at forecourt” and the “entrance foyer” existed at the time the Tenant delivered up the Premises on 28 April 2017.[^293]
+
+Damage at “study room” not proved
+
+177    In cross-examination, Yap was asked to identify his photographs that showed the damage to the granite flooring located at the “study room”. It was at this point that he referred to a new photograph (_ie_, a different photograph from the four photographs he had earlier identified as showing the damage to the granite flooring at the “car porch floor”):[^294]
+
+>   
+| 
+
+Q:
+
+ | 
+
+…Can you show the Court the picture of the damage to the study room?
+
+ |
+| 
+
+A:
+
+ | 
+
+\[Page\] 30 \[of my affidavit, corresponding to Bundle of Photographs, Tab 2, p 11\].
+
+ |
+| 
+
+\[Yap then testifies that the “stone part” shown in the top half of this photograph was the entrance to the study room and the wooden flooring shown in the bottom half of this photograph was the study room.\]
+
+ |
+| 
+
+Q:
+
+ | 
+
+Okay. So where is the…damage to the granite flooring? Is it at the entrance?
+
+ |
+| 
+
+A:
+
+ | 
+
+Yes, the last tile.
+
+ |
+| 
+
+Q:
+
+ | 
+
+The last tile?
+
+ |
+| 
+
+A:
+
+ | 
+
+Leading to the entrance.
+
+ |
+| 
+
+**Q:**
+
+ | 
+
+**Okay. So you found…was it chipping or scratching?**
+
+ |
+| 
+
+**A:**
+
+ | 
+
+**Chipping and it was raised a little…meaning it’s not even lah.**
+
+ |
+| 
+
+…
+
+ | 
+
+ |
+| 
+
+**A:**
+
+ | 
+
+I would say that…because we were there to look at the tiles. Towards the end of this tile, **we can see that there are some like chipping or there could be something brushing against it.** Henceforth, on the sides of it, you can see that there are \[_sic_\] some abrasion but we couldn’t quite capture the damages here.
+
+ |
+| 
+
+…
+
+ | 
+
+ |
+| 
+
+**Q:**
+
+ | 
+
+**Okay. So you can’t really identify the scratches or the chippings in the photograph?**
+
+ |
+| 
+
+**A:**
+
+ | 
+
+**The chippings are there, which is why we took the picture.**
+
+ |
+| 
+
+…
+
+ | 
+
+ |
+| 
+
+**Q:**
+
+ | 
+
+**Can you identify the scratches or chips in the photograph?**
+
+ |
+| 
+
+**A:**
+
+ | 
+
+**Looking at the photo now?**
+
+ |
+| 
+
+**Q:**
+
+ | 
+
+**Yes.**
+
+ |
+| 
+
+**A:**
+
+ | 
+
+**There are damages.**
+
+ |
+| 
+
+**Q:**
+
+ | 
+
+**Can you point them out in the photograph?**
+
+ |
+| 
+
+**A:**
+
+ | 
+
+**Yes.**
+
+ |
+| 
+
+**Q:**
+
+ | 
+
+**Where? At the side here?**
+
+ |
+| 
+
+**A:**
+
+ | 
+
+**Yes.**
+
+ |
+| 
+
+**Q:**
+
+ | 
+
+**Where the wood is?**
+
+ |
+| 
+
+**A:**
+
+ | 
+
+**Yes, here, at this portion.**
+
+ |
+| 
+
+**Q:**
+
+ | 
+
+**Okay.**
+
+ |
+| 
+
+Court:
+
+ | 
+
+So we take it as the edge…of the last tile.
+
+ |
+| 
+
+Baba:
+
+ | 
+
+Yes…can we say the bottom edge of the last tile?
+
+ |
+| 
+
+Court:
+
+ | 
+
+I suppose the…length of the last tile, okay.
+
+ |
+| 
+
+\[emphasis added in bold\]
+
+ |
+
+  
+  
+
+178    Although Yap insisted there were “damages” to the granite flooring, he struggled to identify the damage in the photograph during the trial. This was because this photograph did not show any apparent damage to the bottom edge of the last granite tile. To compound matters, Rashidah had also testified that none of Yap’s photographs showed the flooring in the study room.[^295] In these circumstances, I was of the view that the Landlord had failed to prove, on a balance of probabilities, that damage to the granite flooring at the “study room” existed at the time the Tenant a delivered up the Premises on 28 April 2017.[^296]
+
+##### Damage to timber flooring
+
+179    In the Counterclaim, the Landlord had pleaded that there was damage to the timber flooring of the Premises at the following locations:
+
+> (a)     “Staircases”.
+
+> (b)     “Level 2 walkway and hall area”.
+
+> (c)     “Rooms 1/2/3/4 located at level 2”.
+
+> (d)     “Guestroom at level 1”.
+
+> (e)     “Master bedroom and walk-in wardrobe.
+
+> (f)     Pool Deck.
+
+> (g)     Patio Deck.
+
+180    Yap had taken six photographs showing the alleged damages.[^297]
+
+Damage at “staircases” not proved
+
+181    In cross-examination, Yap was asked to identify his photographs that showed the damage to the timber flooring at the “staircases”. He testified that there was damage to the staircases and recalled that he did take “pictures” of the damage. However, no such photograph was exhibited to his affidavit. Yap’s testimony is set out:[^298]
+
+> Q:Okay, \[your affidavit\] says you discovered damage to the timber flooring located at these various locations. So, let’s go through them. The first one is staircases.
+
+> A:Yes.
+
+> Q:So, can you inform the Court where is the photograph for the scratches to the staircase?...I think the photographs of any wood \[are\] from page 25 \[of your affidavit, corresponding to Bundle of Photographs, Tab 2, p 6\] onwards.
+
+> A:Staircases would be the \[page\] 25 \[of my affidavit, corresponding to Bundle of Photographs, Tab 2, p 6\].
+
+> Q:This is not the steps.
+
+> A:Yah…I couldn’t see the pictures here.
+
+> Q:So, did you take photographs of the steps?
+
+> A:I recall we took pictures of that.
+
+> Q:But they are not in the…evidence…So, there are no pictures of the staircase or the scratches to the staircase?
+
+> A:Yes, from this.
+
+> Q:So, did you take pictures of the damage to the staircase?
+
+> A:There were damage to the staircase.
+
+> Q:But did you take a picture of them?
+
+> A:Yes, I have…I have taken…the picture.
+
+> Q:\[Then\] they have not been produced?
+
+> A:I don’t see it in this, uh, affidavit.
+
+> Q:\[O\]kay, so you said you took the pictures, but they are not here.
+
+> A:Yes.
+
+> **Q:** **So, there is no evidence of the damage to the staircase\[s\] in your affidavit?**
+
+> **A:** **Yes.**
+
+> \[emphasis added in bold\]
+
+182    No explanation was given as to why these photographs (if they were indeed taken) were not exhibited to Yap’s affidavit. In these circumstances, I was of the view that the Landlord had failed to prove, on a balance of probabilities, that damage to the timber flooring at the “staircases” existed at the time the Tenant delivered up the Premises on 28 April 2017.
+
+Scratches and marks at “level 2 walkway and hall area”
+
+183    In cross-examination, Yap identified one of his photographs[^299] as showing the damage to the timber flooring at the “level 2 walkway and hall area”.[^300] This photograph showed a number of scratches on the timber flooring as well as about three to four dark marks (of varying lengths) on the flooring.[^301] The Tenant did not dispute the existence of these scratches and marks.[^302] In these circumstances, I was satisfied that the Landlord had proved, on a balance of probabilities, that damage to the timber flooring at the “level 2 walkway and hall area” – in the form of a number of scratches and between three to four dark marks (of various lengths) – existed at the time the Tenant delivered up the Premises on 28 April 2017.
+
+Damage at “rooms 1/2/3/4 at level 2”
+
+184    Yap testified that he found damage to the timber flooring:
+
+> (a)     near the entrance of Bedroom 4 and inside Bedroom 4; and
+
+> (b)     in the “master study” attached to Bedroom 1.
+
+Marks near and in Bedroom 4
+
+185    In cross-examination, Yap identified three photographs[^303] as showing the damage to the timber flooring near the entrance of Bedroom 4 and inside Bedroom 4.[^304] In all, these photographs showed several dark marks (of various lengths) along the timber flooring.[^305] Yap described these marks as scratches, though he testified that he was not able to “catch the scratches” as they were of the “same colour as the timber flooring”:[^306]
+
+> Q:So you have marked \[page\] 26 \[of your affidavit, corresponding to Bundle of Photographs, Tab 2, p 26\] as being near the entrance of bedroom 4?
+
+> A:The bedroom 4, yes…It’s…as you can see, the scratch mark leading all the way inside \[Bedroom 4\].
+
+> Q:So, it is fair to say that 26, 27, and 28 \[of your affidavit, corresponding to Bundle of Photographs, Tab 2, pp 7-9\] is the same scratch, but you say that it’s a very long one?
+
+> A:Yah, and inside \[Bedroom 4\].
+
+> **Q:** **\[D\]o you recall whether you saw this as a mark or a scratch?**
+
+> **A:** **It’s a scratch…We couldn’t catch the scratches because it has the same colour as the timber flooring.**
+
+> **Q:** **No, no. For these photographs, you are taking the picture of…the black mark?**
+
+> **A:** **Yes.**
+
+> \[emphasis added in bold\]
+
+186    These three photographs showed only dark marks. No scratches could be seen. Yap had testified that he was not able to “catch the scratches” because they had been “the same colour as the timber flooring”. It was not at all clear what Yap meant, because he had managed to “catch the scratches” on the timber flooring at the “level 2 walkway and hall area”.[^307] In addition, if there had indeed been scratches running along the dark marks (which were by no means short), one would have expected Yap to have taken photographs closer to the flooring to document these scratches. Documenting the scratches in this manner would have been consistent with Yap’s “thorough inspection”.
+
+187    In these circumstances, I was satisfied that the Landlord had only proved, on a balance of probabilities, that damage to the timber flooring near the entrance of Bedroom 4 and inside Bedroom 4 – in the form of a number of dark marks (of various lengths) – existed at the time the Tenant yielded up the Premises on 28 April 2017.
+
+Scratch in master study of Bedroom 1
+
+188    In cross-examination, Yap identified one photograph[^308] as showing the damage to the timber flooring in the master study attached to Bedroom 1.[^309] However, he did not testify as to the nature or extent of the damage. That said, Yap’s photograph clearly showed a scratch running down the timber flooring (with the lower half of the photograph showing some depth to the scratch as well).[^310]
+
+189    I noted that Casimir had described the damage as “some sort of mark”, though he also testified that he could not say exactly what it was.[^311] However, I did not find Casimir’s evidence credible. In his report, Casimir had described the state of the timber flooring in Bedroom 2 on 1 February 2018 as follows:[^312]
+
+> The room, including the floor finish, was in good condition (See photograph No. 28B), **with the exception of very minor and acceptable floor** **_marking_** (See photograph Nos. 28A and 29A \[corresponding to Bundle of Photographs, Tab 4, pp 28 and 29\])
+
+> \[emphasis added in bold and bold italics\]
+
+190    In cross-examination, however, he effectively testified that one of these photographs with apparently “very minor and acceptable marking”[^313] showed a scratch (as opposed to a “marking”). He then tried to go back on this concession by saying that he had referred to the damage as a “marking” because “a scratch has to be like a cut”. Casimir’s testimony is set out:[^314]
+
+> Q:…Now, I move on to the 2nd bedroom, Mr Casimir. Again, you say you had inspected it. Again, you say the floor finish was in good condition, but you do provide a photograph or point us to a photograph to show a **scratch**.
+
+> A: **Perhaps 28A \[corresponding to Bundle of Photographs, Tab 4, p 155 (top photograph)\].**
+
+> Q:Yes, 28A.
+
+> A:Yes.
+
+> Q: **Yes. And again, Mr Casimir, this scratch mark is clearly visible from your photograph.**
+
+> A: **I agree.**
+
+> Q:Yes. And I would suggest to you, Mr Casimir, given that it’s clearly visible, it is not a minor and acceptable floor, well, in your words “marking”.
+
+> A:No. I disagree. It’s a very, very small **scratch** or mark.
+
+> …
+
+> Q:Would not a more accurate word for…this…be a scratch, at 28A?
+
+> A:Oh…a scratch has to be like a cut, this was not a cut. That’s why I refer to it as marking.
+
+> Q:So, you are telling us that this is a stain?
+
+> A:No, not.
+
+> Q:No. Yes, but…
+
+> A:Well, it’s not “No, yes”, it’s “No”.
+
+> Q:It is not a stain?
+
+> A:No. It’s some sort of mark.
+
+> Q:Well, Mr Casimir, Mr Tong here would again respectfully disagree with you and I would suggest to you that this is a scratch…clearly a scratch.
+
+> A:Well, I clearly and respectfully disagree with Mr Tong but I saw it for myself.
+
+> \[emphasis added in bold\]
+
+191    Indeed, an examination of this photograph[^315] showed a scratch – that was neither a “mark” nor one that was “very, very small”.
+
+192    Casimir also testified that other photographs[^316] – which clearly showed scratches – only showed “marking”.[^317]
+
+193    Having examined Yap’s photograph, I was satisfied that the Landlord had proved, on a balance of probabilities, that damage to the timber flooring in the master study that was attached to Bedroom 1 – in the form of a scratch – existed at the time the Tenant delivered up the Premises on 28 April 2017.
+
+Damage at “guestroom at level 1” not proved
+
+194    In cross-examination, Yap was asked to identify the damage to the timber flooring to the “guestroom at level 1”. He referred to the same photograph that he had earlier claimed showed the damage to the granite flooring located at the “study room”.[^318] The bottom half of this photograph showed timber flooring. According to Yap, he had seen scratches on the timber flooring.[^319] However, he struggled to point out these scratches when asked to do so. When it was then put to him that no scratches could be seen on the timber flooring, he testified that this was because the scratches had been of the same colour as the timber flooring. They were therefore “a bit difficult to capture”. This explanation was nowhere to be found in Yap’s affidavit.
+
+195    Yap agreed that his photograph was a close-up of the floor, but then claimed that he might not have captured the scratches because of the “camera angles” or the “resolution of the camera”[^320] (explanations that were also not found in his affidavit). Yap also denied that it would have been reasonable in these circumstances to retake his photographs so that they revealed the scratches:[^321]
+
+> Q:Mr Yap, the purpose of your inspection was to capture the \[damage\]. Isn’t that correct?
+
+> A:Yes.
+
+> Q:So, if you thought there were scratches and it didn’t come out in your photograph, would it not be reasonable to retake the photographs to make sure that you can see the \[damage\]?
+
+> A:I would say it is reasonable, because I am not an expert in taking photographs, and neither am I an expert at, uh, identifying from which angle you need to take the photo. So, as in layman terms, if I see there’s a damage, I’ll take it like this, similarly to what normal people would do.
+
+196    Yap’s photograph[^322] did not show any scratches on the flooring. He did later draw three lines on the photograph where he claimed he could see these scratches.[^323] Even then, I noted that he took some time to identify these supposed scratches and draw these lines.
+
+197    Yap’s evidence that he could now see these scratches was also not consistent with his earlier evidence that he was not able to capture the scratches (because the scratches had been the same colour as the timber flooring and because of “camera angles” or the “resolution of his camera”)[^324]. It was also inconsistent with his initial position that his photograph clearly showed scratches (which he struggled to identify).
+
+198    When pushed further to explain why even a close-up of the flooring (as was the photograph) was not able to reveal these scratches, Yap then blamed “camera angles” and the “resolution of the camera”. It was also difficult to understand his statement that he was not an expert at taking photographs and not an expert at identifying the angle from which the photograph should be taken to capture the damage. After all, his other photographs clearly captured the damage he intended to capture. If his initial photograph did not capture any damage although there was indeed such damage, it would have been a simple matter of retaking the photograph until the damage was captured. In any event, Yap did not even seem sure as to the location of this photograph. He had earlier claimed the timber flooring was that of the “study room”[^325], but now claimed that it was of the “guestroom at level 1”.
+
+199    In these circumstances, I was of the view that the Landlord had failed to prove, on a balance of probabilities, that damage to the timber flooring at the “guestroom at level 1 existed at the time the Tenant delivered up the Premises on 28 April 2017.[^326]
+
+Damage at “master bedroom and walk-in wardrobe” not proved
+
+200    In cross-examination, Yap was asked to identify his photographs that showed the damage to the timber flooring at the “master bedroom and walk-in wardrobe”. He testified that there was damage, but said that the photographs were not exhibited to his affidavit. Yap’s testimony is set out:[^327]
+
+> Q:Now go to the next item \[in your affidavit\]. Master bedroom and walk-in wardrobe. It has been listed in your affidavit but…\[i\]s there any photograph that will show the…damage to the timber flooring located at the master bedroom and the walk-in wardrobe?
+
+> **A:** **We don’t have the photographs here, but there were damages.**
+
+> \[emphasis added in bold\]
+
+201    No explanation was given as to why these photographs (if they were indeed taken) were not exhibited to Yap’s affidavit. In these circumstances, I was of the view that the Landlord had failed to prove, on a balance of probabilities, that damage to the timber flooring at the “master bedroom and walk-in wardrobe” existed at the time the Tenant delivered up the Premises on 28 April 2017.
+
+Nature and extent of damage to “swimming pool deck” unclear
+
+202    In cross-examination, Yap testified that he saw “scratches” and “marks” on the Pool Deck during the May Inspection. But, he also said he did not take any photograph of the damages he saw (no such photograph was therefore exhibited to his affidavit):[^328]
+
+> Q:At the time that you went to do your \[May Inspection\], where you took all the photographs, where…you say, “We discovered and documented the following damage in the property.” So you discovered and documented swimming pool deck?
+
+> **A:** …Where if you are saying about the damage I have record\[ed\] on that day \[during the May Inspection\], **it’s basically the scratches and the marks, which we don’t have the picture here.**
+
+> **Q:** **So, you don’t have a picture, you did not document the damage to the swimming pool deck?**
+
+> **A:** **We did not take the picture.**
+
+> \[emphasis added in bold\]
+
+203    That said, the Tenant’s wife had deposed in her affidavit that the Landlord’s representatives had, during the Joint Inspection, pointed out “\[p\]arts of the wooden decking around the swimming pool \[that were\] not…in good condition”.[^329] She confirmed this during her cross-examination as well:[^330]
+
+> Q:…You say that they pointed out the wooden decking around swimming pool…not being in good condition, yes?
+
+> A:Uh, yes.
+
+> **Q:** **Yes. And again, for this item…this is something that is easily seen…this damage. Do you agree?**
+
+> **A:** **Yes.**
+
+> \[emphasis added in bold\]
+
+204    I therefore accepted that _some_ damage to the Pool Deck existed at the time the Tenant delivered up the Premises on 28 April 2017. That said, the nature and extent of the damage was unclear. I noted Yap’s evidence that he saw “scratches” and “marks” during the May Inspection. But, Yap said nothing else about the nature of these “scratches” and “marks” he had seen during this inspection. In addition, Yap never explained why he failed to take any photographs of such damage during his “thorough” May Inspection. This was odd, given the Landlord’s position that the damage was already “easily seen” at the time of the Joint Inspection (which preceded the May Inspection by some three weeks).[^331] In the absence of any photograph by Yap, it was therefore difficult to reach a conclusion as to the nature and extent of the damage to the Pool Deck. As such, I was of the view that the Landlord had failed to prove, on a balance of probabilities, the nature and extent of the damage to the Pool Deck that existed when the Tenant delivered up the Premises.
+
+205    In cross-examination, Yap also referred to a “hole” in the Swimming Pool Deck that the Landlord had “repaired” _before_ the Tenant delivered up the Premises on 28 April 2017. Yap further testified that the Landlord had sent him photographs of this damage _before_ the Tenant and his family vacated the Premises. Yap thought that these photographs were in Tong’s Report. But, he also testified that he was not involved in the repairs to the Pool Deck. Yap’s evidence is set out:
+
+> Q:So, you just stated that there was damage to the swimming pool deck, but there is no evidence of what the damage is and there is no photograph of the damage?
+
+> **A:** The damage, we did show the damage. **I think it was in \[Tong’s Report\], but because that damage \[was\] quite substantial, I think it was replaced.**
+
+> **Q:** **Replaced?**
+
+> **A:** **It was replaced, because there \[was\] a hole in the swimming pool deck.**
+
+> **Q:** **Oh, so, this damage you’re referring to, the damage that was already repaired before Mr Bohbot moved out?**
+
+> **A:** **We repaired it, yah.**
+
+> **Q:** **Before Mr Bohbot moved out?**
+
+> **A:** **Yes.**
+
+> …
+
+> **Q:** **Mr Yap, my instructions are that this \[damage\] ha\[d\] not been repaired at the time Mr Bohbot left…do you disagree?**
+
+> **A:** **I was not involved in the repairs.**
+
+> **Q:** **Not involved in the repairs?...**
+
+> **A:** **Yes.**
+
+> **Q:** **\[Y\]ou didn’t take a photograph of the damage?**
+
+> **A:** **The photographs were sent by \[the Landlord\] to me that these were the damages.**
+
+> **Q:** **Yah. Wait, you mean before Mr Bohbot moved out, the photograph of damage was sent to you?**
+
+> **A:** **The pictures were sent to me…before Mr Bohbot moved out.**
+
+> \[emphasis added in bold\]
+
+206    Given Yap’s evidence that this “hole” in the Swimming Pool Deck had already been repaired _before_ the Tenant and his family vacated the Premises, it was therefore _not_ damage that Yap or Rahsidah “discovered and documented”[^332]_during_ the May Inspection. This aspect of damage to the Pool Deck was also _not_ pleaded in the Counterclaim. The relevant paragraphs in the Counterclaim are set out below:
+
+**DEFENCE AND COUNTERCLAIM**
+
+**(AMENDMENT NO. 1)**
+
+**DEFENCE**
+
+> …
+
+> 9.    In breach of Clauses 4(7) and 4(15) of the Lease, the \[Tenant\] failed to keep the Premises in good and tenantable repair, resulting in damage caused to the Premises, furniture, fixtures and fittings and the \[Tenant\] not yielding up the Premises in good and tenantable condition:
+
+**PARTICULARS**
+
+>> …
+
+>> _c_)     _Damage to the timber flooring located at:_
+
+>>> _…_
+
+>>> (_vi_)    _Swimming pool deck_; and
+
+>>> (vii)  Patio/back yard deck.
+
+>> …
+
+>> **_(collectively, the “Damage”)_**
+
+> 10.    By reason thereof, the \[Landlord\] **_has to carry out rectification works to repair the Damage_** and have suffered or will suffer loss, expense and damages.
+
+> …
+
+> 13.    In further breach of clause 4(15) of the Lease, the \[Tenant\] failed to yield up the Premises at the expiration of the Lease on 21 April 2017, and yielded possession only on 28 April 2017. The \[Landlord\] avers as follows:
+
+>> ...
+
+>> **h**)     **_Following the \[Tenant\] vacating the Premises_** **, a thorough inspection of the Premises was conducted by the \[Landlord\]** **_where the Damage was found_**.
+
+>> …
+
+> 14.    By reason of the aforesaid, the \[Tenant\] is liable to the \[Landlord\] for the rent for the period from 22 March to 21 April 2017 amounting to $28,000, double rent from 22 April 2017 to 28 April 2017 amounting to $14,728.80 as well as loss, expense and damages **_as a result of the Damage caused by the \[Tenant’s\] aforesaid breaches of the Lease_**.
+
+> …
+
+**COUNTERCLAIM**
+
+> 19.    By way of counterclaim, paragraphs 2 to 17 about are repeated.
+
+> 20.    By reason of the matters set out above, the \[Defendant\] has suffered loss, expense and damage.
+
+> \[emphasis added in bold italics\]
+
+207    These paragraphs in the Counterclaim showed that the Landlord’s pleaded claim was in respect of damage to the Pool Deck that was found _after_ the Tenant and his family had vacated the Premises. Yap’s evidence was, however, in respect of damage to the Pool Deck that was found and “repaired” _before_ the Tenant and his family vacated the Premises.[^333] Indeed, the Landlord also testified (contrary to his pleaded claim) that he was claiming in respect of repairs made to the Pool Deck (and the Patio Deck) _before_ the Tenant and his family vacated the Premises:[^334]
+
+> Q:Now, what about the sum of \[$\]9,780? This item is for the repair of the \[Swimming Pool Deck and the Patio Deck\] hat was carried out in 2016. Do you confirm this?
+
+> A:The 9,780 from the cost…can I know your question please?
+
+> Q:Yah, this item is actually for the cost of repairs to the \[Swimming Pool Deck and the Patio Deck\] which were carried out in 2016. Before the tenant moved out of the house.
+
+> A:Now, Your Honour, I repair and maintain my timber deck from time to time. I remember there \[were\] occasions that…I had to send down the contractor to repair the timbers, lah. So I believe this one is…one of the repairs arising from the damage of the timbers.
+
+> Q:Yes. So this was done before the tenant moved out?
+
+> A:I believe…so, Your Honour.
+
+> Q:It’s not one of the \[damages\] discovered after they moved out?
+
+> A:Yes, I believe so, Your Honour.
+
+208    To compound matters, the photographs in Tong’s Report that the Landlord’s counsel tried to refer Yap to during re-examination[^335] were stated in the parties’ “Bundle of Photographs” to have been taken by “the \[Landlord’s\] representatives” on “4 May 2017” – _ie_, not by Tong or his assistants, and after the Joint Inspection _and_ the May Inspection. In any event, no evidence was led by the Landlord to prove _who_ had taken these photographs; _when_ they had been taken; and if these photographs were indeed of the Pool Deck on the Premises.
+
+209    I noted that these photographs also appeared in Tong’s Report in the Agreed Bundle of Documents – where the scope of agreement, in respect of Tong’s Report, was confined to its authenticity only. But, Tong had also expressly stated in his report that these photographs were “provided by the \[Landlord\]”.[^336] He further testified that he never saw this damage to the Pool Deck when he inspected the Premises.[^337] In these circumstances, I was of the view that these photographs could not be admitted into evidence. This was because the Landlord had failed to prove their authenticity.[^338] Even after authenticity has been established, the Landlord still had to prove the truth of its contents, subject to established hearsay objections.[^339] Neither was, however, done.
+
+Damage to “patio/back yard deck” not proved
+
+210    In cross-examination, Yap was asked to identify his photographs that showed the damage to the timber flooring at the Patio Deck. He testified that the photographs were not exhibited to his affidavit.[^340] He also explained that some photographs were not exhibited to his affidavit because:
+
+> (a)     he was not an expert at taking photographs;
+
+> (b)     he had only taken photographs of damages he could see during the May Inspection; and
+
+> (c)     there were some damages he could not catch on the camera during the May Inspection and, as such, he did not take photographs of these damages but waited for Tong to do so.
+
+211    Yap also claimed that he had told the Landlord that “there \[were\] many damages and some of the damages \[could not\] be captured”.[^341]
+
+212    However, none of these assertions were found in his affidavit – which he had sworn more than eight months _after_ receiving Tong’s Report (and having learnt of the damage Tong had found).[^342]
+
+213    In any event, I found none of Yap’s explanations believable. As mentioned[^343], Tong’s own evidence was that all he had done to identify the damages documented in his report was to undertake a simple visual examination from a standing position, without the benefit of any special equipment. Many of the photographs in Tong’s Report also showed damages that would have been readily visible to the naked eye of an average person conducting a “thorough inspection”.[^344] Indeed, Tong’s photographs of the Patio Deck[^345] showed very obvious damages (like cracks and scratches) that Yap would have seen and been able to photograph without much difficulty (assuming they existed at the time of the May Inspection). It was not Tong’s evidence that his photographs were taken with any special photographic equipment.
+
+214    In these circumstances, I was of the view that the Landlord had failed to prove, on a balance of probabilities, that damage to the timber flooring of the “patio/back yard deck” existed at the time the Tenant delivered up the Premises on 28 April 2017.
+
+Damage to “ventilation vents/hood” not proved
+
+215    In cross-examination, Yap was asked to identify his photographs that showed the damage to the “ventilation vents/hood”. He testified that he had seen a vent “dented” or “flipped downwards in an awkward position”. Yap even went on to use his hands to describe the “damage” he had seen during the May Inspection.[^346] He insisted that he had taken photographs of the “damage”, but none were exhibited to his affidavit.[^347]
+
+216    No explanation was given as to why these photographs (if they were indeed taken) were not exhibited to Yap’s affidavit. I noted that even Tong’s Report did not contain any photographs of the alleged damage. In these circumstances, I was of the view that the Landlord had failed to prove, on a balance of probabilities, that damage to the “ventilation vents/hoods at the level 1 powder room, level 2 master bedroom and master room toilet” existed at the time the Tenant delivered up the Premises on 28 April 2017.
+
+Broken fridge handle
+
+217    One photograph was exhibited to Yap’s affidavit, showing the door of the fridge to which the broken fridge handle had been attached.[^348] It was not disputed that the Tenant’s wife had first informed the Landlord of the broken fridge handle on 5 April 2016.[^349] In these circumstances, I was satisfied that the Landlord had proved, on a balance of probabilities, that damage to the refrigerator in the wet kitchen – in the form of the broken fridge handle – existed at the time the Tenant delivered up the Premises on 28 April 2017.
+
+#### Tenant breached Clause 4(15)
+
+218    I was thus satisfied that the Landlord had proved, on a balance of probabilities, only certain aspects of the damage alleged in his Counterclaim (collectively, “the Actionable Damages”). In this regard, the Tenant was therefore in breach of Clause 4(15) – as he had failed to deliver up the Premises and the Effects to the Landlord on 28 April 2017 in “good tenantable repair and condition in the original state as at the commencement date of the Term of the \[Initial Lease\]” (_viz_., 22 April 2013). This was in light of:
+
+> (a)     the common positon of the Landlord and the Tenant that the Actionable Damages did not exist when the Initial Lease commenced on 22 April 2013.[^350]
+
+> (b)     the fact that the Tenant had not pleaded that:
+
+>> (i)       the Actionable Damages were already present when he took possession of the Premises and the Effects from the Original Landlord on 22 April 2013.[^351]
+
+>> (ii)       he had carried out any repairs between 22 April 2013 and 28 April 2017 to make good any damage to the Premises or the Effects to keep these in good and tenantable repair and condition.
+
+### Tenant not excused for breaching Clause 4(15) of Lease
+
+219    To avoid liability for breaching Clause 4(15), the Tenant must prove that each and every one of the Actionable Damages were due to “fair wear and tear”.
+
+#### Tenant’s legal burden to prove damages due to “fair wear and tear”
+
+220    The Tenant bore the legal burden of proving that the Actionable Damages were due to “fair wear and tear”.[^352] This therefore meant that the Tenant also had the evidential burden of adducing some (not inherently incredible) evidence that the Actionable Damages were due to “fair wear and tear”. Only on adduction of such evidence would the evidential burden shift to the Landlord to adduce some (not inherently incredible) evidence in rebuttal. If no such evidence in rebuttal is adduced by the Landlord, the court may then conclude from the Tenant’s evidence that the legal burden is also discharged – and make the finding that the Actionable Damages were due to “fair wear and tear”. If (not inherently incredible) evidence in rebuttal is adduced by the Landlord, the evidential burden will shift back to the Tenant. If, ultimately, the evidential burden comes to rest on the Landlord, the Tenant would have discharged his legal burden of proving that the Actionable Damages were due to “fair wear and tear”.
+
+#### Meaning of “fair wear and tear”
+
+221    In _Lee Tat_[^353], the High Court had referred to an earlier edition of _Hill and Redman’s Law of Landlord and Tenant_[^354] (“_Hill and Redman_”) on the meaning of “fair wear and tear”. The meaning of this phrase was discussed in the latest edition of _Hill and Redman_[^355] in the following terms:
+
+> (**h**)     **Exceptions for wear and tear**
+
+> **\[A3326\]** Covenants to repair sometimes exclude from their scope damages caused by ‘fair’ or ‘reasonable’ ‘wear and tear’. This means that the covenantor is bound to keep the premises in good repair and condition **_but is not liable for damage caused by the reasonable use of the premises and by the ordinary operation of natural forces_**.[^356]
+
+> The application of this exception has excluded a covenantor from liability for exterior painting and repointing.[^357] It has also been held to exclude liability for dry rot.[^358] The exception has been held to exclude a tenant’s liability for damage to the demised premises caused by the landlord’s failure to repair premises retained by him after notice[^359] but does not exclude liability for damage not contemplated by either party even if resulting from reasonable use of the premises.[^360]
+
+> \[emphasis added in bold italics\]
+
+222    Greater elaboration on the meaning of “fair wear and tear” appears in _Woodfall’s Law of Landlord and Tenant_:[^361]
+
+> **Exception of fair wear and tear**
+
+> The liability under a repairing covenant is sometimes limited by the exception of dilapidations caused by fair or reasonable wear or tear. This is most usually found in furnished lettings of residential accommodation. **_The exception excludes dilapidations caused by friction of air, by exposure, and by ordinary use._** So the painting of outside woodwork and repointing brickwork have been held to be excluded by the exception.[^362] So also has the repairing of a floor affected by dry-rot[^363], though a question arises whether this can be said to be the normal operation of natural causes, within the principle laid down in later cases. In a case where there was an exception of fair wear and tear the court laid down the principle that while the tenant was responsible for repairs necessary to maintain the premises in the same state as when he took them, yet if wind and weather had a greater effect on the premises, having regard to their character, than if the premises had been sound, the tenant was not bound so to repair as to meet the extra effects of the dilapidations so caused.[^364] Reasonable wear and tear does not include destruction by a catastrophe never contemplated by either party, even if it results from reasonable use of the premises.[^365] When the lessee has covenanted to repair the interior of premises, “reasonable wear and tear excepted”, he will not be liable for damages caused by the bursting of an outside water-pipe which the landlord, to whom it belonged, had failed to repair after notice.[^366]
+
+> **What comprised within fair wear and tear**
+
+> Tindal CJ stated the effect of a repairing covenant containing an exception of reasonable use and wear as follows: “What the natural operation of time flowing on effects, and all that the elements bring about in diminishing the value, constitute a loss, which, so far as it results from time and nature, falls upon the landlord. But the tenant is to take care that the premises do not suffer more than the operation of time and nature would effect; he is bound by seasonable applications of labour to keep the house as nearly as possible in the same condition as when it was demised.”[^367] More recently it was held that **_to bring dilapidations within an exception of reasonable wear and tear two things must be shown: first, that the dilapidations for which exemption is claimed were caused by normal human use or by the normal action of the elements, and, secondly, that they are reasonable in amount, having regard to the terms of the contract to repair and the other circumstances of the case._**[^368] Although the second branch of the above rule was later rejected by the Court of Appeal[^369], it has since been approved by the House of Lords.[^370]**_“Reasonable wear and tear means the reasonable use of the premises by the tenant and the ordinary operation of natural forces. The exception of want of repair due to wear and tear must be construed as limited to what is directly due to wear and tear, reasonable conduct on the part of the tenant being assumed_**…He is bound to do such repairs as may be required to prevent the consequences flowing originally from wear and tear from producing others which wear and tear would not directly produce.”[^371] If proof is given that the tenant is not keeping the premises in a fair and tenantable manner, and not keeping the interior clean and well repaired and decorated, then, at the very least, the tenant must establish that the matters complained of ought to be attributed to dilapidations or damage resulting from reasonable wear and tear and to nothing else.”[^372]
+
+> \[emphasis added in bold italics\]
+
+#### Assessment of expert evidence
+
+223    The issue of whether the Actionable Damages were due to “fair wear and tear” was one that necessarily involved a “point of scientific, technical or other specialised knowledge”.[^373] It would therefore be useful to review some of the principles applicable to the assessment of expert evidence.
+
+224    Where there is conflicting evidence between experts, it is the consistency and logic of the preferred evidence that is paramount. Generally speaking, the court should also scrutinise the credentials and relevant experience of the experts in their professed and acknowledged areas of expertise. Not all experts are of equal authority and/or reliability. That said, there is no precise pecking order or hierarchy relating to expert evidence. Experts may sometimes be abundantly eminent while lacking credibility in a particular matter.[^374]
+
+225    A court is not entitled to substitute its own views for those of an expert who is not contradicted. That said, a court must also not blindly and unquestioningly accept expert evidence on any matter merely because the evidence was not contradicted.[^375] An expert’s evidence must be sifted, weighed and evaluated in the context of the factual matrix and, in particular, the objective facts. An expert’s opinion “_should not fly in the face of proven extrinsic facts relevant to the matter_”. In reality, substantially the same rules apply to the evaluation of expert testimony as they would to other categories of witness testimony. Content credibility, evidence of partiality, coherence and a need to analyse the evidence in the context of established facts remain vital considerations; demeanour, however, more often than not recedes into the background as a yardstick.[^376]
+
+226    This rule of prudence is especially relevant where the expert is appointed by the party seeking to rely on his evidence and not by the court, as it is merely common sense that no party would call an expert to testify against its own case. As regards the particular substance of the expert evidence in question, the court should carefully consider the factual or other premises on which the expert based his opinion. The court should examine the correctness of the expert’s premises and reasoning process, as well as whether the expert is really purporting to address the issue or point on which his opinion has been sought.[^377] It is therefore a holistic assessment of the expert witnesses and their evidence.[^378]
+
+#### Whether damages due to “fair wear and tear”
+
+227    Whether the Tenant had discharged his legal burden in proving that the Actionable Damages were due to “fair wear and tear” is examined in this section.
+
+##### Brown patches in garden due to Tenant’s garden furniture
+
+228    I had found that the Landlord had proved, on a balance of probabilities, that damage to the garden turf existed at the time the Tenant delivered up the Premises on 28 April 2017. This damage – in the form of brown patches – was the direct result of the Tenant having placed garden furniture over the affected areas for some two years before he delivered up the Premises.[^379] In cross-examination, Casimir testified that these brown patches were due to “fair wear and wear”. His basis was that:
+
+> (a)     a garden was supposed to be used and such use included placing an outdoor garden set on the garden; and
+
+> (b)     the grass would grow again.
+
+229    Casimir’s evidence on the brown patches in the garden is set out below:[^380]
+
+> Q:So now, can you tell us what does AB374 (corresponding to Bundle of Photographs, Tab 2, p 19) show?
+
+> A:Well, it shows part of the garden area with those you say brown patches. Uh, I wouldn’t say it’s necessarily dead grass but there’s brown patches.
+
+> Q:Brown patches. And would you call these brown patches or how these brown patches came about as normal fair wear and tear?
+
+> A:Yes, because it looks as if there was probably some sort of garden furniture and table. And the \[photographs\], I assume \[they are\] actually the same location but just at a slightly different angle.
+
+> Q:Yes.
+
+> A:But it looks like there was an L-shaped seat or a straight sofa and probably a square-shaped table sitting on the grass.
+
+> Q:Alright, so you would call it fair wear and tear?
+
+> A:Yes, I would.
+
+> **Q:** **So…what you’re saying \[is\] that if I place \[a\] sofa set on the grass patch, and the grass turns to this condition, it’s termed fair wear and tear?**
+
+> **A:** **Yes, correct.**
+
+> **Q:** **Yes. Well, I’ll suggest to you, Mr Casimir, that this is not fair wear and tear. There is no need for anyone to put \[a\] sofa set on the grass patch. Right, and if you choose to put \[a\] sofa set…on the grass patch, then you would be obliged to maintain that when you removed the sofa set.**
+
+> **A:** **Well, I think firstly, presumably the purpose of a garden is to allow you to use it which reasonably include\[s\] putting something on it like…an outdoor garden set. \[O\]nce removed, the grass will grow again. I don’t believe that the grass is dead…it will grow again.**
+
+> Q:Well, I would suggest to you, Mr Casimir, that the grass is dead and that…is why it had to be replaced.
+
+> A:Well, I totally disagree with you.
+
+> \[emphasis added in bold\]
+
+230    Relying on Casimir’s evidence, the Tenant submitted that:[^381]
+
+> …the brown patches on the grass turf are a result of the \[Tenant’s\] reasonable use of the grass turf. It is common to place garden furniture in a garden and that it not unreasonable use. Where the garden furniture would leave marks on the grass, the grass would grow again. Even if that part of the grass turf has to be replaced, the \[Tenant\] submits that such “damage” to the grass turf constitute\[s\] fair wear and tear. As stated by \[Casimir\], the grass will grow again on the brown patches...
+
+231    The placement of garden furniture on a garden may well be a reasonable use of a garden. However, the brown patches – which were by no means insignificant notwithstanding the size of the garden – were hardly the result of “the ordinary operation of natural forces” or a dilapidation caused “by the normal action of the elements”. Neither were they brought about by the “natural operation of time flowing on effects, and all that the elements bring about”.[^382] The brown patches were due to deliberate human action – _viz_., the Tenant’s decision to put garden furniture over the garden for some two years, which thereby caused the deterioration of the grass under the furniture. The Tenant’s action was also inconsistent with Clause 4(7)(a) of the Lease, which obliged the Tenant to keep the gardens and grounds of the Premises in good and tenantable repair and condition through the lease.[^383]
+
+232    In this regard, I agreed with the Landlord that the Tenant’s position was:[^384]
+
+> …clearly wrong as it \[was\] akin to saying that if a tenant hangs a painting on a wall by banging a nail into the wall any damage caused to the wall will be fair wear and tear because it is reasonable to hang a painting on a wall. It is trite that such damage to the walls of a property has to be made good by a tenant by patching up the hole and re-painting the wall.
+
+233    The Tenant had countered that this analogy by the Landlord was not “logical”:[^385]
+
+> \[because\] a hole drilled into a wall cannot be reversed except by repair, whereas the areas of grass under the furniture which had browned will grow back over time after the furniture is removed. This was the expert opinion offered by Mr Casimir…
+
+234    However, this submission showed a misunderstanding of the meaning of “fair wear and tear”. The test for whether damage caused is due to “fair wear and tear” is not that the damage caused “cannot be reversed except by repair”. In any event, Casimir – who never physically examined the brown patches – had simply asserted, without basis, that he did not believe that the grass was dead and that it would grow again.[^386]
+
+235    In the alternative, the Tenant had submitted that even if the brown patches were not due to “fair wear and tear”, he was not responsible for them because of Clause 5(5) of the Lease. This clause reads as follows:
+
+> **5**.     **LANDLORD’S COVENANTS**
+
+> The Landlord hereby covenants with the Tenant as follows:
+
+> …
+
+> (5)     **Maintenance of garden and pool**
+
+> **_The Landlord shall maintain the garden_** and the pool **_in the Premises once a week save except for the daily maintenance of the garden_** and pool **_that shall be carried out by the Tenant._**
+
+> \[emphasis added in bold italics\]
+
+236    Relying on this clause, the Tenant submitted that:[^387]
+
+> …\[the Landlord was\] thus responsible for the weekly maintenance of the garden and during cross-examination, \[Yap\] stated that during the weekly maintenance, the gardener did not recommend that the grass be replaced. If the \[Tenant’s\] use of the garden and the placement of garden…furniture was damaging the grass turf, the gardener would have highlighted the same during the weekly maintenance…\[I\]t was \[also\] the \[Landlord’s\] obligation to maintain the garden and the \[Tenant\] is not responsible for any damage that resulted from the \[Landlord’s\] failure to maintain the garden.
+
+237    This was a problematic submission. First, no evidence was led by the Tenant to prove that the brown patches resulted from the Landlord’s failure to maintain the garden. In fact, the Tenant accepted that the brown patches were the direct result of him having placed garden furniture on the garden.[^388]Second, the brown patches were only discovered after the Tenant had removed the furniture. In my view, Clause 5(5) did not oblige the Landlord’s gardener to remove the Tenant’s garden furniture on a weekly basis and maintain the grass underneath. Indeed, this same clause obliged the Tenant to carry out “daily maintenance” of the garden. If anything, it was for the Tenant to ensure that the grass under his garden furniture was properly maintained. This reading was also consistent with Clause 4(7)(a) of the Lease, which obliged the Tenant to keep the gardens and grounds of the Premises in good and tenantable repair and condition throughout the Lease.[^389]
+
+238    In these circumstances, I was of the view that the Tenant had failed to prove, on a balance of probabilities, that the brown patches in the garden were due to “fair wear and tear”. Indeed, the Tenant failed to discharge even his initial evidential burden of adducing some (not inherently incredible) evidence that these brown patches were due to “fair wear and tear” (to merit any rebuttal evidence from the Landlord).[^390]
+
+##### Hole in planter box
+
+239    I had found that the Landlord had proved, on a balance of probabilities, that the damage to a single planter box – in the form of a hole – existed at the time the Tenant delivered up the Premises on 28 April 2017.[^391] The Tenant bore the legal burden of proving that this hole was due to “fair wear and tear”. He therefore also had the evidential burden of adducing some (not inherently incredible) evidence that this hole was due to “fair wear and tear”.[^392] No evidence was adduced from Casimir as to the cause of this hole. I was mindful, however, that Rashidah did testify that this hole was caused by water that was used to water the plants:[^393]
+
+> Q:Yes. But where is the planter box that is damaged? The only planter box picture that I can see from Mr Alvin Yap’s record is \[page\] 373 \[of the Agreed Bundle, corresponding to Bundle of Photographs, Tab 2, p 18\].
+
+> A:\[Page\] 373, correct.
+
+> Q:Yah. So can you show me what the damage is in the picture?
+
+> A:\[T\]his box is made of wood so it’s, uh, you know, when they water the plants, the wood becomes worn-out.
+
+> Q:Okay. Fair enough. So you are saying the damage is due to the worn-out parts?
+
+> A:Yes.
+
+240    The basis for Rashidah’s evidence was, however, unclear. She was, after all, a witness of fact. She was not an expert with any “scientific, technical or other specialised knowledge” (as to what caused this hole in the planter box). In addition, when she conducted the May Inspection with Yap, it was also her first time checking the Premises.[^394] It was therefore, unclear, as to how she knew that the hole in the planter box was caused by water used to water the plants in the planter box. In these circumstances, I was of the view that the Tenant had failed to prove, on a balance of probabilities, that the hole in the planter box was due to “fair wear and tear”.
+
+##### Four chipped granite tiles on “car porch floor”
+
+241    I had found that the Landlord had proved, on a balance of probabilities, that damage to the granite flooring at the “car porch floor” – in the form of four chipped tiles – existed at the time the Tenant delivered up the Premises on 28 April 2017.[^395] The Tenant bore the legal burden of proving that these chips to the granite tiles were due to “fair wear and tear”. He therefore also had the evidential burden of adducing some (not inherently incredible) evidence that these chips were due to “fair wear and tear”.[^396] No evidence was adduced from Casimir as to the cause of these chips. Indeed, Casimir’s position was that this area was “generally in good order” when he inspected the Premises on 1 February 2018.[^397] In his submissions, the Tenant simply asserted that:
+
+> …the chips in 4 floor tiles at the car porch constitute fair wear and tear as they are the result of the \[Tenant’s\] reasonable use of the car porch and are reasonable in amount, having regard to the \[Tenant’s\] use of the Premises for 4 years.[^398]
+
+242    No evidence was adduced as to how the Tenant (and his family) had used the car porch so as to lead to these chips in the tiles. That the number of chipped tiles were reasonable in amount (given the size of the car porch) is only half the test as to what constitutes “fair wear and tear”.[^399] More importantly, the Tenant had to prove (by adducing evidence) that these chips were the result of “the ordinary operation of natural forces” or caused “by the normal action of the elements”. He had to show that these chips were brought about by the “natural operation of time flowing on effects, and all that the elements bring about”.[^400] However, he failed to do so. Indeed, it was apparent that the Tenant had failed to appreciate his legal burden of proof when he submitted that it was for Tong to have:[^401]
+
+> …analyse\[d\] whether a chip in a tile at a car porch could have been caused by the reasonable use of the area – i.e. for example whether the chips can be caused by the daily driving of vehicles over the tiles at the car porch.
+
+243    In these circumstances, I was of the view that the Tenant had failed to prove, on a balance of probabilities, that the chips to the four tiles at the “car porch floor” were due to “fair wear and tear”.
+
+##### Scratches & marks on timber flowing at “level 2 walkway and hall area”
+
+244    I had found that the Landlord had proved, on a balance of probabilities, that damage to the timber flooring at the “level 2 walkway and hall area” – in the form of a number of scratches and between three to four dark marks – existed at the time the Tenant delivered up the Premises on 28 April 2017.[^402] The Tenant bore the legal burden of proving that these scratches and marks to the timber flooring were due to “fair wear and tear”. He therefore also had the evidential burden of adducing some (not inherently incredible) evidence that these scratches and marks were due to “fair wear and tear”.[^403] However, no such evidence was adduced. In his submissions, the Tenant had simply asserted that:[^404]
+
+> …the black mark(s) and scratches on the timber flooring in \[these photographs\] \[were\] due to wear and tear due to the \[Tenant’s\] normal use of the flooring on a daily basis.
+
+245    But, no evidence was adduced as to how the Tenant (and his family) had used the timber flooring so as to lead to these scratches and marks. Indeed, there were so many scratches that they could hardly be said to have been reasonable in amount. It was again apparent that the Tenant had failed to appreciate his legal burden of proof when he submitted that it was for Tong to have:[^405]
+
+> …analyse\[d\] whether shallow scratches to the timber flooring could have been caused by the reasonable use of the area.
+
+246    In these circumstances, I was of the view that the Tenant had failed to prove, on a balance of probabilities, that these scratches and marks to the timber flooring at the “level 2 walkway and hall area” were due to “fair wear and tear”.
+
+##### Marks on timber flooring near and in Bedroom 4
+
+247    I had found that the Landlord had proved, on a balance of probabilities that damage to the timber flooring near the entrance of Bedroom 4 and inside Bedroom 4 – in the form of a number of black marks – existed at the time the Tenant delivered up the Premises on 28 April 2017.[^406] The Tenant bore the legal burden of proving that these marks to the timber flooring were due to “fair wear and tear”. He therefore also had the evidential burden of adducing some (not inherently incredible) evidence that these marks were due to “fair wear and tear”.[^407] However, no such evidence was adduced. In his submissions, the Tenant had simply asserted that:[^408]
+
+> …the black mark(s)…on the timber flooring in \[these photographs\] are due to wear and tear due to the \[Tenant’s\] normal use of the flooring on a daily basis.
+
+248    But, no evidence was adduced as to how the Tenant (and his family) had used the timber flooring so as to lead to these marks. Indeed, given the number, lengths, and thickness of these marks, they could hardly be said to have been reasonable in amount. In these circumstances, I was of the view that the Tenant had failed to prove, on a balance of probabilities, that these marks to the timber flooring near the entrance of Bedroom 4 and inside Bedroom 4 were due to “fair wear and tear”.
+
+##### Scratch on timber flooring in master study of Bedroom 1
+
+249    I had found that the Landlord had proved on a balance of probabilities that damage to the timber flooring in the master study attached to Bedroom 1 – in the form of a scratch – existed at the time the Tenant delivered up the Premises on 28 April 2017.[^409] The Tenant bore the legal burden of proving that this scratch to the timber flooring was due to “fair wear and tear”. He therefore also had the evidential burden of adducing some (not inherently incredible) evidence that this scratch was due to “fair wear and tear”.[^410] But, no such evidence was adduced. In his submissions, the Tenant had simply asserted that the damage was “due to wear and tear due to the \[Tenant’s\] normal use of the flooring on a daily basis”.[^411]
+
+250    However, no evidence was adduced as to how the Tenant (and his family) had used the timber flooring so as to lead to this scratch. Indeed, given the length of this scratch, it could hardly be said to have been reasonable in amount. In these circumstances, I was of the view that the Tenant had failed to prove, on a balance of probabilities, that this scratch to the timber flooring in the master study attached to Bedroom 1 was due to “fair wear and tear”.
+
+##### Broken fridge handle
+
+251    I had found that the Landlord had proved, on a balance of probabilities, that damage to the refrigerator in the wet kitchen – in the form of the broken fridge handle – existed at the time the Tenant delivered up the Premises on 28 April 2017.[^412]
+
+252    On 5 April 2016, the Tenant’s wife had sent a text message to the Landlord in a WhatsApp chat group (used by the Tenant and the Landlord to correspond on matters related to the Premises). This message was in the following terms:
+
+> Dear Sir,
+
+> Sorry to disturb you again, don’t think that we come \[across\] problems every week but **there are new matters in the house**:
+
+> \-    the wet kitchen door: one hinge is loose and the screws are falling out, we cannot close the door properly anymore
+
+> \-     **a very small matter: the handle of the wet kitchen fridge fell down, there is one part broken.**
+
+> I send you the photos…
+
+> \[emphasis added in bold\]
+
+253    The Landlord replied “Ok”, and the Tenant’s wife then sent some photographs along.
+
+254    On 7 April 2016, the Landlord’s representative informed everybody in the chat group that the Landlord’s contractor “will look at the defects of the fridge handle” on 8 April 2016. In response to a photograph of the broken fridge handle sent in the chat group captioned “Fridge handle broken. Have to be replaced.”, the Landlord had stated:
+
+> Arrange. Get the brand and model. Snap a picture. And arrange the fridge company to repair.
+
+255    It was not disputed that the handle was later passed to one of the Landlord’s representatives.[^413]
+
+256    The Tenant had submitted that:[^414]
+
+> …At the time when \[his\] wife had informed the \[Landlord\] of the issue with the fridge handle, the \[Landlord\] did not ask the \[Tenant\] to pay for the costs of replacing the fridge handle and the \[Tenant’s\] wife had handed over the broken fridge handle to the \[Landlord’s\] representative **on the understanding that the \[Landlord\] would handle the matter and would not make any claim against the \[Tenant\] in respect of the fridge handle**.
+
+> \[emphasis added in bold\]
+
+257    No evidence was adduced by the Tenant as to this understanding between the Landlord and the Tenant’s wife. In any event, this “understanding” was never pleaded. In his Reply and Defence to Counterclaim, the Tenant had simply stated as follows:[^415]
+
+> The \[Landlord\] was informed that the fridge door handle was broken and had to be replaced in or around April 2016. The \[Landlord\] had instructed his staff to arrange for the handle to be repaired but nothing was done even though the fridge handle had been given to the \[Landlord’s\] representative.
+
+258    The Tenant bore the legal burden of proving that the handle to the fridge had broken off due to “fair wear and tear”. This therefore meant that the Tenant also had the evidential burden of adducing some (not inherently incredible) evidence that the handle had broken off due to “fair wear and tear”.[^416] However, no such evidence was adduced. Indeed, the Tenant had initially testified that he did not know if the damage was due to “fair wear and tear”. He then claimed that the handle had “immediately broken” because of a “defect from the equipment”. He also claimed that the handle had broken off during the time of the Original Landlord, before the Landlord had taken over. The Tenant’s testimony during cross-examination is set out:[^417]
+
+> Q:Now, I will…move on to the fridge handle, Mr Bohbot.
+
+> A:Yes.
+
+> Q:Now, the handle falling off. Are you telling us it’s normal wear and tear?
+
+> A:The refrigerator.
+
+> Q:Refrigerator handle?
+
+> A:Yes.
+
+> Q:\[T\]hat’s normal wear and tear?
+
+> A **I don’t know it was something**…it has nothing to do with the discussion when, uh, the new landlord to the house it was already it…it **actually even with the previous landlord it was a defect from the equipment. The \[handle\] was immediately broken**, so even with the previous landlord, so as it was on the guarantee was easy to replace but…those things are so small everybody, uh, people, uh, we don’t know we…it was left by that.
+
+> Q:So, I’ll just put it to you Mr Bohbot that the handle dropped off because of failure to take proper care of the equipment of the refrigerator, can agree or disagree?
+
+> A:No, I disagree and it happened before Mr Fang so, because even when he took over, we let him know that there was this, uh, handle.
+
+> \[emphasis added in bold\]
+
+259    The Tenant’s testimony that the handle had broken off during the time of the Original Landlord was not consistent with the parties’ correspondence. In her text message to the Landlord, the Tenant’s wife had referred to the broken fridge handle as a “new” matter that had arisen. There was no mention that the handle had broken off before the Landlord took over. The Landlord had also created the chat group on 26 March 2016[^418], and until 5 April 2016 the Tenant did not raise the broken fridge handle (although there was correspondence between the parties about repairs to a railing and timber decking).
+
+260    More importantly, the Tenant never explained his basis for saying that the fridge handle had broken off because of a “defect from the equipment”. I was aware that Yap had agreed with the Tenant’s counsel that the handle was “defective”[^419]. But, Yap had also testified that he was only informed of the broken fridge handle after the Tenant had delivered up the Premises on 28 April 2017 (_ie_, more than a year after the Tenant’s wife had first informed the Landlord of the broken fridge handle). Yap never saw the handle, and his basis for saying that the handle was “defective” was unclear. In any event, the Tenant and Yap were both testifying as witnesses of fact. They were not experts with any “scientific, technical or other specialised knowledge” (as to what caused the fridge handle to break).
+
+261    In these circumstances, I was of the view that the Tenant had failed to prove, on a balance of probabilities, that damage to the refrigerator in the wet kitchen – in the form of the broken fridge handle – was due to “fair wear and tear”.
+
+### Landlord failed to prove cost of repairing damage
+
+262    To avoid liability for breaching Clause 4(15), the Tenant had to prove that each and every one of the Actionable Damages were due to “fair wear and tear”. In my judgment, the Tenant failed to do this for _all_ of the Actionable Damages. He was therefore liable to the Landlord in damages for breaching Clause 4(15). “The measure of damages at common law for breach of \[a tenant’s\] covenant to repair \[differs\] according to whether the action \[is\] brought during the term or at its determination. The normal measure in the former case \[is\] the diminution in the value of the reversion; in the latter the costs of repairs \[plus occasionally damages for loss of use during repairs is\] the measure”.[^420] A clear statement of these rules appears in _Ebbetts v Conquest_[^421], where Rigby LJ observed that:
+
+> …\[t\]he authorities…clearly show that as a general rule there is a difference in the **assessment of damages in an action for breach of a covenant to yield up in repair brought after the determination of the term**, and in an action for breach of a covenant to keep in repair brought during the continuance of the term**. In the first case, an arbitrary rule is laid down upon grounds of convenience, that whether or not the lessor in fact loses by the want of repair, he shall be paid the amount which would be necessary to place the premises in good repair.** It may happen that a payment of that amount would not induce him to repair - it may be far more to his interest to let the building be pulled down; but these considerations are not taken into account, principally because they depend upon the arrangements which the lessor has made with other persons, with which the lessee has nothing at all to do, as to which in general he will have no information, and as to which at the time he enters into the bargain he can have none. In the second case the rule is that on a covenant to keep in repair you are to take the effect upon the value of the reversion, treating it as though it were carried into the market for sale under such circumstances that the purchaser might do whatever he liked with the property and turn it to the best advantage…
+
+> \[emphasis added in bold\]
+
+263    The general rule as to the measure of damages in an action brought at the determination of a tenancy was further discussed in _McGregor on Damages_:[^422]
+
+> …**Where the action is commenced after the expiration** or earlier determination **of the term the damages at common law are such a sum as will put the premises into the state of repair in which the tenant was bound to leave them.** The first clear judicial holding that this was the proper measure is that of Denham J in _Morgan v Hardy_, following by the Court of Appeal in the leading case of _Joyner v Weeks_. In this latter case the choice between the two measures of cost of repairs and diminution in the reversion’s value was directly before the court, and it was decided that the former represented the true measure: whether or not it exceeded the latter was a question that need not be explored…
+
+> **The cost of repairs is the short way of expressing the normal measure; more precisely it should be expressed, as by Wright J in** **_Joyner v Weeks_** **, as the cost of repairs with some allowance for loss of rent or occupation during repair** and with some deduction, where proper, by reason of substitution of new for old. **There is some authority for both limbs of this proposition. Thus in** **_Woods v Pope_****, and again in** **_Birch v Clifford_** **damages were allowed for the loss of the use of the premises during repair**; and in _Yates v Dunster_, a deduction was made from the cost of repairs of the amount by which the premises would, after repair, be more valuable than they had been before they fell into disrepair.
+
+> \[emphasis added in bold\]
+
+264    The Landlord bore the legal burden of proving his damage – here, the sums that would put the Premises and the Effects:
+
+> …in good tenantable repair and condition in the original state as at the commencement date of the Terms of \[the Initial Lease\] \[_viz_., 22 April 2013\] (fair wear and tear excepted)…
+
+265     _McGregor on Damages_ explains this requirement:[^423]
+
+> A claimant claiming damages must prove his or her case. To justify an award of substantial damages where loss is asserted the claimant must satisfy the court both as to (i) the fact of damage, that is an adverse consequence; and (ii) as to its amount. If the claimant satisfies the court on neither, the action will fail, or at the most the claimant will be awarded nominal damages where a right has been infringed. **If the fact of damage is shown but no evidence is given as to its amount so that it is virtually impossible to assess damages, this will generally permit only an award of nominal damages**; this situation is illustrated by the old cases of _Dixon v Deveridge_ and _Twyman v Knowles_.
+
+> \[emphasis added in bold\]
+
+266    A claimant cannot therefore “simply makes a claim for damages without placing before the court sufficient evidence of the loss it has suffered even if it is otherwise entitled in principle to recover damages”.[^424] “It is trite that damages must be proved, and that a claimant who only establishes the defendant’s liability but fails to prove his loss will be awarded either no or only nominal damages.”[^425]“\[U\]ntil damage is proved, there is no need to even discuss topics such as remoteness of damage and mitigation because they are potentially relevant only _after_ there is proof of damage to begin with.”[^426] 
+
+267    Here, the Landlord’s pleaded claim was for the cost of “rectification” of all of the damages he alleged.[^427] In this regard, the Landlord claimed a total of $98,075.[^428] This amount comprised the sum of:[^429]
+
+> (a)     $88,295, which was Tong’s estimation of the cost of repairing the damages he found during his inspection of the Premises; and
+
+> (b)     $9,780, which was (apparently) the sum the Landlord had spent to repair the Patio Deck and the Pool Deck.
+
+268    I leave aside the sum of $9,780 that the Landlord had (apparently) spent to repair the Patio Deck and the Pool Deck. This is in light of my finding that:
+
+> (a)     the nature and extent of the damage to the Pool Deck had not been proved[^430]; and
+
+> (b)     the damage to the Patio Deck had not been proved.[^431]
+
+269    The remaining sum of $88,295 was Tong’s estimation of the cost of repairing the damages he found during his inspection of the Premises. The breakdown of this sum was set out in a table at paragraph 5.1 of Tong’s Report. This table is reproduced below:[^432]
+
+![]([2019] SGDC 0289_Image/[2019] SGDC 0289_image1.png)
+
+270    The rates Tong used in costing the repairs were also set out in a table at paragraph 4 of Tong’s Report. This table is reproduced below as well:[^433]
+
+![]([2019] SGDC 0289_Image/[2019] SGDC 0289_image2.png)
+
+271    At paragraph 2.4 of his report, Tong explained how he arrived at these rates:[^434]
+
+> **2.4**      **Scope of Costing**
+
+> The costing of the repair was based on market practice and fair replacement cost. To work out the quantity of the repair, I had visited the site on 26 October 2017 and carried out site measurement\[s\].
+
+> **_The rates used in this report were given by two contractors whom \[my company\] has no interest in and their company and contact person are listed below._**
+
+> The cost of repair also takes into consideration and include the cost incurred to rectify the timber decking for the \[Pool Deck\] and the \[Patio Deck\]. The cost will be based on the invoice\[s\] submitted by the contractor and paid for by the \[Landlord\]. A copy of the invoice\[s\] \[are\] attached in the Appendix.
+
+<table align="center" cellpadding="0" cellspacing="0" class="Judg-3-tblr" frame="all" pgwide="1"><colgroup><col width="11.94%"> <col width="88.06%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">S/n</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Company and Contacts</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">1</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Unicoat Pte Ltd</b></p><p align="justify" class="Table-Para-1">Ms Linda Lim</p><p align="justify" class="Table-Para-1">…</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">2</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Zhan Ming Hong Engineering &amp; Trading Pte Ltd</b></p><p align="justify" class="Table-Para-1">Mr Kayson Ng</p><p align="justify" class="Table-Para-1">…</p></td></tr></tbody></table>
+
+  
+  
+
+> \[emphasis added in bold italics\]
+
+272    In his affidavit, Tong deposed as follows:[^435]
+
+> In paragraph 2.4 of my Report, I had referred to the costing of the necessary repair works and fair replacement costs, **and had indicated that I had based the costings on rates given by 2 contractor companies, namely Unicoat Pte Ltd and Zhan Ming Hong Engineering & Trading Pte Ltd**, which companies neither I \[nor my company\] has any interest in. A copy of the rates and quotation based on the rates from Unicoat Pte Ltd dated 26 October 2017 is exhibited…
+
+> \[emphasis added in bold\]
+
+273    It was unclear why the quotation from the second contractor (_viz_., “Zhan Ming Hong Engineering & Trading Pte Ltd”) was not exhibited to Tong’s affidavit. Neither was it in the Agreed Bundle. No evidence was led to explain its absence.
+
+274    In any event, a review of Tong’s Report showed that he had relied _wholly_ on _all_ of the rates quoted by one “Linda Lim” from Unicoat Pte Ltd[^436] (“Unicoat”) in arriving at his estimation of the cost of repairing the damages he found during his inspection. The quotation by “Linda Lim” from Unicoat appears on the following page.
+
+![]([2019] SGDC 0289_Image/[2019] SGDC 0289_image3.png)
+
+275    I leave aside the sums quoted in respect of damage to: the timber decking at the Pavilion Deck; homogenous tiles; marble; and door frames. These items of damage were not pleaded in the Counterclaim.[^437] The sums quoted amounted to $11,170. With respect to the remaining sum of $77,125, the Tenant submitted that:[^438]
+
+> …**the quotations added by the \[Landlord\] in support of the claim for costs of rectification of the \[Claimed Damages\] should be rendered inadmissible in evidence.** In _Lee Tat_…the \[court\] held that as the contractors who issued the invoices were not called to prove the invoices and be cross-examined as to the nature of works and supplied provided, the said invoices were inadmissible in evidence.
+
+> Similarly, the \[Landlord\] has not called any of the contractors as factual witnesses and the contractors were not cross-examined in respect of the respective quotations that have been adduced as evidence. **The said quotations should thus be rendered inadmissible in evidence.**
+
+> \[emphasis added in bold\]
+
+276    The Tenant had referred to “quotations” because the Agreed Bundle also contained a number of quotations from other contractors.
+
+277    The Landlord’s positon was that the Tenant had not challenged the rates used by Tong in costing the repairs[^439]. However, this submission ignored the fact that the legal burden lay on the Landlord to prove the amount of his damage or loss.[^440]
+
+278    In my judgment, there was no admissible evidence as to the rates that should be used to cost the damages alleged. For a document to be admissible as evidence of the truth of its contents, the maker of the document must generally be called as a witness to prove the document’s authenticity and to be cross-examined on its contents. Here, the quotations (including that from Unicoat, whose rates Tong had wholly relied on in costing the repairs) as well as the tax invoice from Miele[^441] (in relation to the replacement of a “fridge handle”) were in the Agreed Bundle – where the scope of agreement between the parties was confined to their authenticity only. However, agreement to include a document in an agreed bundle is an agreement only to dispense with formal proof of the document (_ie_, proof of the document by primary or permissible secondary evidence). It is not agreement as to the truth of the contents of the document.[^442] The _authenticity_ of documentary evidence is a separate and distinct issue from the _admissibility_ of such evidence. This much is clear from _Jet Holding Ltd and others v Cooper Cameron (Singapore) Pte Ltd and another and other appeals_[^443]. There, the Court of Appeal observed as follows:
+
+> 44    By way of preliminary observation, although it is true that a copious number of documents were involved in the present proceedings, it is equally true that any problems of authenticity could have been surmounted (as they often are in cases of this nature) by an agreed bundle of documents, although (unfortunately) this was not the case here. **However, it must be emphasised that whilst formal proof of the documents concerned is dispensed with by an agreed bundle of documents, the truth of their contents will still have to be proved in the absence of any agreement or admission to the contrary**…
+
+> …
+
+> 76    It is trite law that **even where there is an agreed bundle of documents, the truth of the contents of the Documents nevertheless remains at issue and is subject to**, **_inter alia_****, objections centring on the doctrine of hearsay.**
+
+> \[emphasis added in bold\]
+
+279    Here, the Landlord called neither “Linda Lim” from Unicoat nor any of the makers of the remaining quotations to prove the truth of their quotations. These contractors were therefore also not cross-examined as to (amongst others): the rates stated in their quotations; the materials they were to supply/use; and the nature of works to be done. There was also no attempt to invoke any of the potentially applicable exceptions to the rule against hearsay.
+
+280    It also bears mention that Tong’s estimation of the cost of repairs was in relation to the damage he found during his inspection of the Premises. The scope of this damage was greater than the Claimed Damages and the Actionable Damages (which were far less severe in number, nature, and degree compared to the damages the Landlord alleged).
+
+281    In these circumstances, I was of the view that the Landlord had failed to prove the amount of his damage or loss. As such, only nominal damages may be awarded. The fact of a loss was shown, but the necessary evidence as to its amount was not given. In this case, “the problem \[was\] simply one of proof, one not of absence of loss but of absence of evidence of the amount of loss”.[^444] I therefore awarded the Landlord nominal damages of $100.
+
+### Landlord’s counterclaim for loss of use disallowed
+
+282    The Landlord also claimed for loss of use “pending the carrying out of all necessary rectification works”[^445] In his affidavit, he deposed that he was claiming a total of $112,262.27 in this regard. This sum comprised the cost of:
+
+> (a)     alternative accommodation for one month in a 5-star hotel for his partner and him, his three children, and his two domestic helpers (in, respectively: a suite, two twin rooms, and a third twin room);
+
+> (b)     housing his two dogs (one large breed and one small breed) at a pet boarding facility for one month;
+
+> (c)     storing his “valuable pieces of antiques and furniture” at a storage facility for one month;
+
+> (d)     moving his “valuable pieces of antiques and furniture” from the Premises to the storage facility and back; and
+
+> (e)     meals for one month for him; his partner; his three children; and his two domestic helpers.
+
+283    In his affidavit, the Landlord also explained how he arrived at this sum:
+
+> **Loss of Use**
+
+> 56.    My family of 5, comprising of \[_sic_\] my partner, my 3 children (aged 16, 18 and 22 years old) and myself, together with our 2 domestic helpers moved back into the \[Premises\] sometime on or about 31 May 2017.
+
+> 57.    However, **_due to the extensive nature of the rectification works which is required to be carried out and with the works estimated to take one month to complete, we would have to move out of the \[Premises\] and lose the use of the \[Premises\] for the duration of the works_**.
+
+> 58.     **_As the \[Premises\] would then be akin to a construction site when the rectification works are being carried out, it would be unreasonable to expect me to live in it for the duration of the rectification works_**, especially when I had purchased the same at the costs \[_sic_\] of $25,000,000.
+
+> 59.    It would be reasonable for my family and I to want to live in a place that would be equivalent to the \[Premises\], with the same amenities and luxuries, during this one-month period. As it would be very difficult, if not impossible, to rent a same or similar \[Premises\] for a period \[of\] one month, the next equivalent would be to stay in a 5-star hotel.
+
+> 60.    My 2 domestic workers take care of all my daily needs, from getting my clothes ready, to serving me tea and food and generally waiting on me when I am home. I thus need them to stay with me at the hotel so that they can take care of my family members’ and my daily needs, such as laundry, ironing etc. It would certainly be cheaper than using the hotel’s laundry services.
+
+> 61.    I also have 2 dogs who need to be housed at a pet boarding facility for the duration of the rectification works as they cannot stay at the hotel.
+
+> 62.    I will also need to store my valuable pieces of antiques and furniture somewhere else for the one-month period, so… moving and storage fees have to be incurred.
+
+> 63.    I have obtained the following quotations for the above costs and expenses as follows:
+
+>> a.     Hotel accommodation \[for\] 7 persons for one month
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="14.04%"> <col width="40.6%"> <col width="45.36%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p class="Table-Heading-Center">S/No.</p></td><td align="left" class="br" rowspan="1" valign="top"><p class="Table-Heading-Center">Quotation</p></td><td align="left" class="b" rowspan="1" valign="top"><p class="Table-Heading-Center">Amount</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">1.</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><u>Shangri-la Singapore</u></p><p align="justify" class="Table-Para-1">…</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">…</p><p align="justify" class="Table-Para-1"><b>Total: $93,600/month</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">2.</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><u>St Regis Singapore</u></p><p align="justify" class="Table-Para-1">…</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">…</p><p align="justify" class="Table-Para-1">Total: $139,860/month</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">3.</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><u>The Ritz Charlton, Millennia</u> [<em>sic</em>]</p><p align="justify" class="Table-Para-1">…</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">…</p><p align="justify" class="Table-Para-1">&nbsp;</p><p align="justify" class="Table-Para-1">Total: $95,580/month</p></td></tr></tbody></table>
+
+  
+  
+
+>> …
+
+>> b.     Pet boarding charges for 2 dogs (1 large and 1 small breed) for one month
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="13.42%"> <col width="38.78%"> <col width="47.8%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p class="Table-Heading-Center">S/No.</p></td><td align="left" class="br" rowspan="1" valign="top"><p class="Table-Heading-Center">Quotation</p></td><td align="left" class="b" rowspan="1" valign="top"><p class="Table-Heading-Center">Amount</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">1.</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><u>Pet Boarding Centre</u></p><p align="justify" class="Table-Para-1">…</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">…</p><p align="justify" class="Table-Para-1">Total: $2,560/month</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">2.</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><u>The Pet Hotel</u></p><p align="justify" class="Table-Para-1">…</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">…</p><p align="justify" class="Table-Para-1"><b>Total: $1,720/month</b></p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">3.</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><u>Pet Movers</u></p><p align="justify" class="Table-Para-1">…</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">…</p><p align="justify" class="Table-Para-1">Total: $1,800/month</p></td></tr></tbody></table>
+
+  
+  
+
+>> …
+
+>> c.     Moving expenses
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="13.42%"> <col width="38.78%"> <col width="47.8%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p class="Table-Heading-Center">S/No.</p></td><td align="left" class="br" rowspan="1" valign="top"><p class="Table-Heading-Center">Quotation</p></td><td align="left" class="b" rowspan="1" valign="top"><p class="Table-Heading-Center">Amount</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">1.</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><u>Elite Movers</u></p><p align="justify" class="Table-Para-1">&nbsp;</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">…</p><p align="justify" class="Table-Para-1"><b>Total: $5.885</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">2.</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><u>Shalom Movers</u></p><p align="justify" class="Table-Para-1">&nbsp;</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">…</p><p align="justify" class="Table-Para-1"><b>Total: $10,496</b></p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">3.</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><u>Citimap Transport Services</u></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">…</p><p align="justify" class="Table-Para-1">Total: $12,800</p></td></tr></tbody></table>
+
+  
+  
+
+>> ...
+
+>> d.     Storage rental for one month
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="13.42%"> <col width="38.78%"> <col width="47.8%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p class="Table-Heading-Center">S/No.</p></td><td align="left" class="br" rowspan="1" valign="top"><p class="Table-Heading-Center">Quotation</p></td><td align="left" class="b" rowspan="1" valign="top"><p class="Table-Heading-Center">Amount</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">1.</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Extra Space Self Storage</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">…</p><p align="justify" class="Table-Para-1"><b>Total: $1,757.27</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">2.</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Lock + Store</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">…</p><p align="justify" class="Table-Para-1">Total: $2,233.17</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">3.</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Storehub…</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">…</p><p align="justify" class="Table-Para-1">Total: $1,898.89</p></td></tr></tbody></table>
+
+  
+  
+
+>> …
+
+> 64.    For our meals, as there will be no cooking allowed in the hotel, my family and I will have to eat out daily for the entire month. Based on an average of $50 per day each for my partner, my 3 children and myself, the total costs would be $7,500. For my maids, the costs would be $30 per day for each of them totalling $1,800. The total claim for meals would be $9,300.00.
+
+> 65.    In summary, based on the lowest quoted prices, the total of the above claims amount to the sum of $112,262.27, with the breakdown as follows:
+
+>   
+| 
+
+a.
+
+ | 
+
+Alternative accommodation at hotel
+
+ | 
+
+$93,600
+
+ |
+| 
+
+b.
+
+ | 
+
+Pet boarding
+
+ | 
+
+$1,720
+
+ |
+| 
+
+c.
+
+ | 
+
+Moving expenses
+
+ | 
+
+$5,885
+
+ |
+| 
+
+d.
+
+ | 
+
+Storage charges
+
+ | 
+
+$1,757.27
+
+ |
+| 
+
+e.
+
+ | 
+
+Meals
+
+ | 
+
+$9,300
+
+ |
+
+  
+  
+
+284    The Tenant filed a Notice of Objection in relation to these paragraphs in the Landlord’s affidavit. The Tenant contended that the Landlord was not entitled to claim for loss of use. He averred that the Landlord had failed to specifically plead the particulars of this claim, which was a claim in special damages.[^446] According to the Tenant:[^447]
+
+> 139    …The \[Landlord\] did not plead the special circumstances that would cause the purported loss \[of use\] in that (i) the said works would take one month to complete; (ii) he would be claiming expenses for hotel accommodation, pet boarding, moving, storage and meals; (iii) why the rectification works could not have been carried out prior to the \[Landlord\] and his family moving into the Premises.
+
+> …
+
+> 142    …The \[Landlord’s\] claim for expenses for hotel accommodation, pet boarding, moving, storage and meals are not presumed consequences of the damage to the Premises. The \[Landlord’s\] said claim arose on the “special circumstances of \[this\] particular case” and thus constitutes a claim for special damage, and must be explicitly pleaded. The special circumstances arise from the \[Landlord’s\] expectation to:
+
+>> (a)    “live in a place that would be equivalent to the \[Premises\]”, i.e. “to stay in a 5-star hotel”;
+
+>> (b)    have his 2 domestic workers stay with him at the hotel;
+
+>> (c)    house his 2 dogs at a pet boarding facility;
+
+>> (d)    store valuable pieces o\[f\] antiques and furniture at a separate venue\[.\]
+
+> 143.  Prior to the filling of the \[Landlord’s\] Affidavit of Evidence-in-Chief, the \[Tenant\] had no notice that such items would be claimed from him at trial and the \[Landlord’s\] claim for the above items are not a “presumed consequence” of “scratches, cracks and chipped edges” as observed by Mr Tong.
+
+> 144.  The \[Landlord\] ha\[d\] also not pleaded the circumstances that required him to move into the Premises before rectification works on the alleged damage were carried out and the circumstances he and his family \[were\] required to move out of the Premises for rectification works to the alleged damage to be done.
+
+> 145.  Accordingly, the \[Landlord’s\] claim for hotel accommodation, pet boarding, moving, storage and meals is a claim for special damages and he should not be allowed to bring a claim for the same as it was not expressly pleaded in the Defence and Counterclaim.
+
+285    The Landlord, in turn, submitted that the different heads of his claim for:[^448]
+
+> 66    …loss of use of the \[Premises\] flow\[ed\] from the direct consequence of having to carry out rectification works to make good the \[damages\] that existed during handover.
+
+> …
+
+> 69.    …loss of use of property \[was\] a foreseeable outcome of having to rectify defects and…the costs of (i) alternative accommodation for **_all_** the occupants of the property, including house keepers and pets; (ii) having to move to alternative accommodation; and (iii) storage of valuable items during the rectification period are the natural consequences of a loss of use claim.
+
+> \[emphasis in original\]
+
+286    The parties were therefore disputing whether the Landlord’s claim for loss of use was one in general damages or special damages. It would thus be useful to review the meanings of these terms.
+
+#### General damages & special damages
+
+287    General damages consist mainly of unliquidated or unascertained items of damage, such as pain and suffering as well as loss of future earnings caused by personal injuries. It is damage that the law presumes to be the natural or probable consequence of the defendant's act. This presumption arises by inference of law. As such, general damages need not be proved by evidence and may be averred generally. It is not necessary to quantify specific items of claim in respect of general damages.[^449]
+
+288    Special damages, on the other hand, is such a loss as the law will not presume to be the consequence of the defendant’s act, but such as depends in part, at least, on the special circumstances of the particular case. They comprise damages sustained which might not be reasonably regarded as a necessary and immediate consequence of the defendant’s wrongdoing. Special damages must therefore be expressly pleaded and put to strict proof, with the details such as figures given. The claimant must plead the special circumstances that give rise to the loss, to give necessary notice to the defendant. Otherwise, the defendant would have no notice that such items of damage would be claimed from him at the trial. Particulars must, hence, be given of special damages (but not of general damages).[^450] Special damages in the sense of a monetary loss which the claimant has sustained up to the date of trial must be pleaded and particularised, otherwise it cannot be recovered. A claimant can recover in an action only special damages that have been pleaded and proved.[^451]
+
+289    That said, where a claimant claims that he has suffered damage of a kind which is not the necessary and immediate consequence of the wrongful act, it is his duty to plead full particulars to show the nature and extent of the damages – irrespective of whether they are general or special damages – so as to fairly inform the defendant of the case he has to meet and to assist him in computing a payment into court.[^452]
+
+290     _McGregor on Damages_ set out four meanings of the terms “general damages” and “special damages”. In doing so, it drew a distinction between general and special damages _vis-à-vis_ liability and in pleadings – and observed that the meaning of general damages in pleadings tends to be narrower than its meaning in relation to liability:[^453]
+
+> In the cases, damage or damages are often said to be “general” or “special”, and these two terms are usually contrasted with each other. Yet the terms are used in a variety of different meanings, and if these meanings are not kept separate the indiscriminate use of the terms only spells confusion…
+
+> The first meaning of general and special damage concerns liability: it relates principally to contract, coinciding with the distinction between the well-known first and second rules in _Hadley v Baxendale_…It is best expressed by Lord Wright in _Monarch S.S. Co v Karlshamns Oljefabriker_, where he said:
+
+>> “The distinction there drawn \[in _Hadley v Baxendale_\] is between damages arising naturally (which means in the normal course of things) and cases where there were special and extraordinary circumstances beyond the reasonable prevision of the parties. In the latter event it is laid down that the special facts must be communicated by and between the parties. The distinction between these types is usually described in English law as that between general and special damages.”
+
+> In _Kpohraror v Woolwich Building Society_, where the action was for breach of contract in wrongfully dishonouring a cheque, the general law, which both parties accepted as governing the claim, was stated to be that “the plaintiff may recover general damages under the first head of the rule in _Hadley v Baxendale_ and special damages under the second head of the rule when the necessary facts are proved. And Lord Macnaghten said in _Stroms Bruks Atkie Bolag v Hutchison_: “in cases of contract special or exceptional damages cannot be claimed unless such damages were within the contemplation of both parties at the time of the contract.”…
+
+> …
+
+> The third meaning of general and special damage concerns pleading. The distinction here is put thus by Lord Dunedin in _The Susquehanna_:
+
+>> “If there be any special damage which is attributable to the wrongful act that special damage must be averred and proved, and, if proved, will be awarded. If the damage be general, then it must be averred that such damage has been suffered, but the quantification is a jury question.
+
+> And in _Stroms Bruks Atkie Bolag v Hutchison_, Lord Macnaghten, after stating that he thought the division into general and special damages was more appropriate in tort than contract, said:
+
+>> “’General damages’…are such as the law will presume to be the direct natural or probable consequence of the action complained of. ‘Special damages’, on the other hand, are such as the law will not infer from the nature of the act. They do not follow in ordinary course. They are exceptional in their character and, therefore, they must be claimed specially and proved strictly.”
+
+> …\[**G\]eneral damage in pleading tends to be narrower that its \[meaning in relation to liability\].** Thus, in a personal injury case…the loss of earning and the expenses incurred between injury and trial must be pleaded as special damage; yet they are ordinary foreseeable consequences…**The reason why…various items of damage have been held to be special for the purpose of pleading, although general for the purpose of liability, would seem to be that where damage has become crystallised and concrete since the wrong, the defendant could be surprised at the trial by the details of its amount, although it is of a type which he could expect as a consequence of the wrong. As Lord Donovan said in** **_Perestrello v United Paint Co_****, the obligation to particularise arises:**
+
+>> **“not because the nature of the loss is necessarily unusual, but because a plaintiff who has the advantage of being able to base his claim upon a precise calculation must give the defendant access to the facts which make such calculation possible.**
+
+> \[emphasis added in bold\]
+
+#### Landlord’s claim for loss of use was claim in special damages
+
+291    On these principles, I was of the view that the Landlord’s claim for loss of use was a claim in special damages – which had to be expressly pleaded and put to strict proof, with full particulars given. It bears mention that the Landlord’s pleaded claim was only for “\[l\]oss of use pending the carrying out of all necessary rectification works”. Nowhere in the Counterclaim was it pleaded that the loss of use would be of the entire Premises, for all of its occupants (including two dogs), and for a period of one month, because the Premises “would…be akin to a construction site when the rectification works \[estimated to take one month to complete were\] being carried out”. Neither did the Counterclaim state (or give any particulars that might have given the Tenant notice) that the Landlord’s claim for loss of use would extend to:
+
+> (a)     alternative accommodation in a five-star hotel for one month for seven adults (including his two domestic workers);
+
+> (b)     housing his two dogs of different breeds at a pet boarding facility for one month;
+
+> (c)     storing his “valuable pieces of antiques and furniture” at a storage facility for one month;
+
+> (d)     moving his “valuable pieces of antiques and furniture” from the Premises to the storage facility and back; and
+
+> (e)     meals for one month for him; his partner; his three children; and his two domestic helpers.
+
+292    These assertions – effectively the special circumstances relating to the nature and extent of the Landlord’s loss – appeared only in the Landlord’s affidavit[^454] (to which the Tenant had objected).[^455] In my view, the nature and extent of the Landlord’s alleged loss of use was simply not damage that could reasonably be regarded as a necessary and immediate consequence of the Tenant’s wrongdoing. Hence, irrespective of whether the Landlord’s claim for loss of use was a claim in general or special damages, the Landlord had clearly failed to plead particulars to show the nature and extent of his loss of use. There was nothing in the Landlord’s Counterclaim that would have fairly informed the Tenant of the case he had to meet and to assist the Tenant in computing a payment into court.[^456]
+
+293    The Landlord submitted that his “claim for the various heads of \[his\] loss of use was not capable of substantially exact calculation at the time of the pleadings and could not be until the evidence itself was adduced in Court”.[^457] It was not entirely clear what this meant. A review of the quotations the Landlord exhibited to his affidavit in support of the various heads of his claim for loss of use showed that these were dated between 23 February 2018 and 31 July 2018. If anything, the Landlord could have amended his Counterclaim – as he did do so on 25 September 2018, before the trial commenced on 5 October 2018 (to include the alleged damage to the Pool Deck and the Patio Deck) – to include the particulars relating to the various heads of his claim for loss of use. Why this was not done was, however, unclear.
+
+294    The Landlord also sought to rely[^458] on the decision of the High Court in _The “Shravan”_[^459], which cited a passage in _Hadley v Baxendale_[^460], to argue that:[^461]
+
+> 69.    It \[was\] clear that loss of use of property \[was\] a foreseeable outcome of having to rectify defects and…the costs of (i) alternative accommodation for **_all_** the occupants of the property, including house keepers and pets; (ii) having to move to alternative accommodation; and (iii) storage of valuable items during the rectification period are the natural consequences of a loss of use claim.
+
+295    But, this showed a failure to appreciate the distinction between general and special damages _vis-à-vis_ liability and in pleadings.[^462] The relevant paragraph in _The “Shravan”_ read as follows:
+
+> **Damages**
+
+> …
+
+> 63    The fifth point is that the costs incurred in chartering a vessel to convey the replacement ESSO cargo to the Caltex Terminal is too remote. The defendants argued that at the time of the issue of the B/L they had no knowledge of the onsale to Caltex; indeed no knowledge even of the sale by Metro to Hin Leong which was only concluded on 3 July 1996. This was a development which occurred subsequently. It could not have been within the knowledge of the defendants. Neither could it have been within the contemplation of the parties. There appears to be some merit in the point. The **_principle governing the measurement of damages_** was enunciated in _Hadley v Baxendale_ (1854) 9 Exch 341 by Alderson B as follows:
+
+>> **_Where two parties have made a contract which one of them has broken, the damages which the other party ought to receive in respect of such breach of contract should be such as may fairly and reasonably be considered as either arising naturally, ie according to the usual course of things, from such breach of contract itself_**, or such as may reasonably be supposed to have been in the contemplation of both parties, at the time they made the contract, as the probable result of the breach of it
+
+> \[emphasis added in bold italics\]
+
+296    A reading of this paragraph in _The “Shravan”_ will show that the High Court was discussing the meaning of general damages (and special damages) in the context of liability, and not pleadings. This is, however, different from the meaning of general damages in the context of pleadings – which is narrower.
+
+297    In these circumstances, I agreed with the Tenant that the Landlord’s claim for loss of use should be dismissed.[^463] “If special damage is not pleaded with sufficient specificity (that is, through the particular itemisation of claims), evidence of it may not be produced at the trial”.[^464] Indeed, this was a case where the Landlord’s claim for loss of use – a claim in special damages – was not pleaded with _any_ specificity.
+
+#### No evidence adduced of loss of use vis-à-vis Actionable Damages
+
+298    In any event, the Landlord did not adduce _any_ evidence of loss of use _vis-à-vis_ the Actionable Damages. His claim for loss of use was premised entirely on the damages recorded by Tong in his report.[^465] It was on this basis that Tong also deposed in his affidavit that “the rectification works would take about one month to complete”.[^466] Tong’s opinion then formed the basis of the Landlord’s evidence in his affidavit that:[^467]
+
+> 57.    …due to the **extensive nature of the rectification works which is required to be carried out and with the works estimated to take one month to complete**, we would have to move out of the \[Premises\] and lose the use of the \[Premises\] for the duration of the works.
+
+> (emphasis added in bold)
+
+299    Given the nature of the Actionable Damages, it was also not apparent that the Landlord and his entire family, his two domestic workers, as well as his two dogs had to vacate the Premises for the Actionable Damages to be repaired.
+
+#### Landlord failed to prove quantum of loss of use
+
+300    There was also no admissible evidence as to how any loss of use should be quantified. The quotations the Landlord referred to in his affidavit were part of the Agreed Bundle. But, the scope of agreement between the parties was confined only to the authenticity of these quotations (and not to the truth of the contents of these quotations). Here, the Landlord did not call any of the makers of the quotations to prove the truth of these quotations. There was also no attempt to invoke any of the potentially applicable exceptions to the rule against hearsay.
+
+## Judgment
+
+301    In the premises, I dismissed:
+
+> (a)     the Tenant’s claim for the Balance Deposit; and
+
+> (b)     the Landlord’s counterclaim for loss of use.
+
+302    However, I allowed the Landlord’s claim for:
+
+> (a)     the Monthly Rent, due on 22 March 2017; and
+
+> (b)     the Double Rent, due on 28 April 2017.
+
+303    I also awarded the Landlord nominal damages of $100, given the Tenant’s failure to deliver up the Premises and the Effects in the condition he agreed to under the Lease.
+
+304    The Landlord had also claimed:[^468]
+
+> **\[i\]nterest on all sums found due to the \[Landlord\]** at a rate of 12% per annum under Clause 8(2) of the Lease from the date the amounts are due to \[the\] date of payment \[of these sums\].
+
+> \[emphasis added in bold\]
+
+305    Clause 8(2) of the Lease read as follows:
+
+> **8**.     **PROVISOS**
+
+> …
+
+> (2)     **Interests on Arrears**
+
+>> Without prejudice to the other provisions of the \[Lease\], the Tenant shall pay to the Landlord on demand, interest at the rate of twelve per cent (12%) per annum as well after as before any judgment is obtained and calculated on a daily basis **_for the late payment of Rent or any part thereof or any other monies due under this \[Lease\], from the date the same is due_** up to the actual date of payment, if the said monies remain unpaid for more than fourteen (14) days **_after the same is due_** (whether formally demanded or not).
+
+> \[emphasis added in bold italics\]
+
+306    In my view, Clause 8(2) applied only to the Monthly Rent and the Double Rent. It did not apply to the nominal damages awarded. This was because Clause 8(2) _only_ obliged the Tenant to “pay to the Landlord…interest at the rate of \[12%\] per annum...for the late payment of \[r\]ent or any part thereof or any other monies **due under \[the Lease\]**”. Unlike the Monthly Rent and the Double Rent, the nominal damages awarded were not monies due under the Lease. In these circumstances, I entered judgment for the Landlord for:
+
+> (a)     $28,000, being the monthly rent that was due on 22 March 2017, with interest at 12% per annum from 22 March 2017 until the date of payment (as provided for under Clause 8(2) of the lease);
+
+> (b)     $12,887.70, being the double rent for the period between 22 April 2017 and 28 April 2017, with interest at 12% per annum from 28 April 2017 until the date of payment (again, as provided for under Clause 8(2) of the lease); and
+
+> (c)     $100, being the nominal damages awarded for the Tenant’s failure to deliver up the Premises and the Effects in the condition the Tenant was obliged to under the Lease, with interest at 5.33% per annum from the date of the writ until judgment.
+
+307    Factoring these amounts due to the Landlord, the Tenant was entitled to a return of part of the Security Deposit (assuming prompt payment by the Tenant of the sums due). No interest was payable on this sum to be returned because:
+
+> (a)     Clause 4(1)(b) of the Lease contemplated that the Security Deposit was to be returned to the Tenant “free of interest”; and
+
+> (b)     the Security Deposit was placed against the due performance and observation by the Tenant of his obligations under the Lease, and was properly held by the Landlord.
+
+308    Judgment was hence entered for the Tenant in respect of this balance from the Security Deposit (amounting to $30,432.51 as at the date of judgment on 1 November 2019). As I understand it, the Landlord has since paid this balance to the Tenant.
+
+## Costs
+
+309    After judgment was delivered, I had indicated to parties that I would hear them on costs if such costs were not agreed. On 21 November 2019, the parties informed the Court that they had agreed for each party to bear its own costs.
+
+* * *
+
+[^1]: \[41\] and \[44\], Tenant’s affidavit.
+
+[^2]: Day 3, p 79, lines 19-25.
+
+[^3]: Day 1, p 38, line 30 to p 39, line 2.
+
+[^4]: AB, p 30.
+
+[^5]: AB, pp 8-27.
+
+[^6]: AB, p 25 (see \[3\] therein).
+
+[^7]: The Landlord converted the living room into a gymnasium after the Tenant yielded up the Premises on 28 April 2017 and before the Landlord moved into the Premises on 31 May 2017: see \[0(c)\] below.
+
+[^8]: Day 1, p 5, lines 11-25.
+
+[^9]: This sum comprised rental of the Premises at $24,500 per month; and the hiring charges for the “Effects” at $5,500 per month.
+
+[^10]: See Clause 4(1)(b) of the Initial Lease (AB, p 11).
+
+[^11]: AB, p 28.
+
+[^12]: Day 1, p 28, line 30 to p 29, line 15 and p 67, lines 3-15.
+
+[^13]: AB, pp 29-31.
+
+[^14]: This sum comprised rental of the Premises at the reduced sum of $22,500 per month; and the hiring charges for the furniture, fixtures, fittings, and domestic appliances at $5,500 per month.
+
+[^15]: AB, p 30 appears to be a draft. The final version appears at p 44 of the Landlord’s affidavit.
+
+[^16]: AB, p 30.
+
+[^17]: AB, pp 29-30.
+
+[^18]: \[2\], Landlord’s affidavit.
+
+[^19]: \[4\], Landlord’s affidavit.
+
+[^20]: Day 3, p 113, lines 7-21.
+
+[^21]: AB, p 34 (see \[1\] therein).
+
+[^22]: AB, p 34 (see \[2\] therein).
+
+[^23]: See \[22\] above.
+
+[^24]: AB, p 34 (see \[3\] therein).
+
+[^25]: AB, pp 41-45. See also \[46\] of the Tenant’s affidavit and \[8\] of the Tenant’s wife’s affidavit.
+
+[^26]: In this regard, \[8\] the Landlord’s counterclaim had alleged that “the \[Tenant\] had failed to ensure that all persons who have come on to the Premises complied with the provisions of the \[Lease\], including keeping the exterior of the Premises in good and tenantable repair and condition.” Counsel for the Landlord confirmed, before the commencement of the trial, that the Landlord was not proceeding with this claim given “the lead professional engineer’s confirmation that \[there was\] no structural damage”: Day 1, p 1, line 31 to p 2, line 22.
+
+[^27]: AB, p 62.
+
+[^28]: AB, p 63.
+
+[^29]: AB, pp 62-63.
+
+[^30]: AB, pp 64-65.
+
+[^31]: See \[21\] above.
+
+[^32]: See also the letter dated 4 April 2017 from the Tenant’s counsel to the Landlord’s solicitors, where the fact that the monthly rent had not been paid was referred to: “\[The Tenant\] wishes to set off the rent for the period from 22 March 2017 to 21 April 2017 from the \[security deposit of $84,000\]”: AB, p 69.
+
+[^33]: Day 1, p 39, lines 9-28.
+
+[^34]: Day 1, p 38, line 30 to p 39, line 2.
+
+[^35]: AB, p 70.
+
+[^36]: AB, p 71.
+
+[^37]: See \[28\] and \[30\] above.
+
+[^38]: See \[21\] above.
+
+[^39]: Day 1, p 38, lines 8-12.
+
+[^40]: AB, p 64 (see \[6\] therein); p 66 (see \[5\] therein); and p 72 (see \[10\] therein).
+
+[^41]: Day 1, p 101, lines 13-18 as well as Day 2, p 6, line 27 to p 7, line 13.
+
+[^42]: Day 3, p 94, line 29 to p 95, line 18.
+
+[^43]: AB, p 36.
+
+[^44]: AB, p 28.
+
+[^45]: \[14\], Rashidah’s AEIC and \[15\], Yap’s AEIC.
+
+[^46]: See \[21\] above.
+
+[^47]: AB 74 (see \[3\] therein) and AB76 (see \[2\] therein).
+
+[^48]: AB, p 75.
+
+[^49]: AB, 84 (see \[4\]-\[5\] therein). See also \[9\], Statement of Claim and \[12\], Defence and Counterclaim (Amendment No. 1).
+
+[^50]: AB, p 21.
+
+[^51]: AB, p 95 (see \[4\] therein).
+
+[^52]: Day 1, p 38, line 30 to p 39, line 2.
+
+[^53]: See \[33\] above.
+
+[^54]: \[19\], Rashidah’s affidavit and \[27\], Yap’s affidavit.
+
+[^55]: \[56\], Landlord’s affidavit and Day 3, p 74, line 27 to p 75, line 4.
+
+[^56]: \[61\], Landlord’s affidavit and Day 3, p 81, lines 17-28.
+
+[^57]: Day 3, p 78, lines 22-24.
+
+[^58]: See \[43\] above.
+
+[^59]: Day 3, p 75, lines 5-27.
+
+[^60]: Day 3, p 77, lines 2-11; lines 31-32; and p 106, lines 23-25.
+
+[^61]: Day 3, p 77, lines 15-26.
+
+[^62]: Day 3, p 77, lines 27-30.
+
+[^63]: Day 3, p 106, line 23 to p 108, line 28.
+
+[^64]: Day 3, p 110, line 9 to p 111, line 8 as well as p 133, line 22 to p 134, line 10.
+
+[^65]: Day 3, p 77, lines 25-30.
+
+[^66]: Page 37, Tong’s affidavit.
+
+[^67]: 4 months and 26 days after the Landlord moved into the Premises on 31 May 2017.
+
+[^68]: Page 6, Tong’s affidavit.
+
+[^69]: \[1\], Tong’s affidavit.
+
+[^70]: \[6\], Tong’s affidavit.
+
+[^71]: \[5\], Casimir’s affidavit.
+
+[^72]: 8 months and 1 day after the Landlord moved into the Premises on 31 May 2017.
+
+[^73]: Pages 6-7. Casimir’s affidavit.
+
+[^74]: Page 23, Casimir’s affidavit. See also \[49\] above.
+
+[^75]: See \[29\] above.
+
+[^76]: See \[39\] above.
+
+[^77]: \[12\], Statement of Claim.
+
+[^78]: See \[3\] above.
+
+[^79]: \[8\], Statement of Claim.
+
+[^80]: \[8\], Statement of Claim.
+
+[^81]: \[10\], Statement of Claim.
+
+[^82]: This is the commencement date of the Initial Lease: see \[17\] above.
+
+[^83]: \[7\], Statement of Claim.
+
+[^84]: \[9\], Statement of Claim.
+
+[^85]: \[6\] and \[11\], Statement of Claim.
+
+[^86]: \[9\], Statement of Claim.
+
+[^87]: \[9\], Statement of Claim.
+
+[^88]: \[3\], Defence and Counterclaim (Amendment No. 1).
+
+[^89]: \[3\], Defence and Counterclaim (Amendment No. 1).
+
+[^90]: \[4\], Defence and Counterclaim (Amendment No. 1).
+
+[^91]: \[7\], Defence and Counterclaim (Amendment No. 1).
+
+[^92]: \[14\], Defence and Counterclaim (Amendment No. 1).
+
+[^93]: \[9\], Defence and Counterclaim (Amendment No. 1).
+
+[^94]: \[13\], Defence and Counterclaim (Amendment No. 1).
+
+[^95]: \[9\], Defence and Counterclaim (Amendment No. 1).
+
+[^96]: \[16\], Defence and Counterclaim (Amendment No. 1).
+
+[^97]: This is the commencement date of the Initial Lease: see \[17\] above.
+
+[^98]: \[9\], Defence and Counterclaim (Amendment No. 1).
+
+[^99]: \[9(a)\]-\[9(e)\], Defence and Counterclaim (Amendment No. 1).
+
+[^100]: See \[26\] above.
+
+[^101]: \[10\], Defence and Counterclaim (Amendment No. 1).
+
+[^102]: \[11\], Defence and Counterclaim (Amendment No. 1).
+
+[^103]: \[11\], Defence and Counterclaim (Amendment No. 1).
+
+[^104]: \[12\], Defence and Counterclaim (Amendment No. 1).
+
+[^105]: \[12\], Defence and Counterclaim (Amendment No. 1).
+
+[^106]: \[20\]-\[21\], Defence and Counterclaim (Amendment No. 1).
+
+[^107]: \[15\], Defence and Counterclaim (Amendment No. 1).
+
+[^108]: \[16\]-\[17\], Defence and Counterclaim (Amendment No. 1).
+
+[^109]: \[9\], Defence and Counterclaim (Amendment No. 1).
+
+[^110]: \[4\], Reply and Defence to Counterclaim.
+
+[^111]: \[9\], Reply and Defence to Counterclaim.
+
+[^112]: \[13\], Reply and Defence to Counterclaim.
+
+[^113]: \[17\], Reply and Defence to Counterclaim.
+
+[^114]: Save for the damages alleged to the Pool Deck and the Patio Deck, which were included by way of an amendment to the Defence and Counterclaim pursuant to an Order of Court dated 13 September 2018. The Tenant did not file an amended Reply and Defence to Counterclaim in response.
+
+[^115]: See \[64(a)\] above.
+
+[^116]: \[9(a)\], Reply and Defence to Counterclaim.
+
+[^117]: See \[64(b)\] above.
+
+[^118]: \[9(a)\], Reply and Defence to Counterclaim.
+
+[^119]: See \[64(c)\] above.
+
+[^120]: \[9(c)\], Reply and Defence to Counterclaim.
+
+[^121]: See \[64(d)\] above.
+
+[^122]: \[9(d)\], Reply and Defence to Counterclaim.
+
+[^123]: See \[64(e)\] above.
+
+[^124]: \[9(e)\], Reply and Defence to Counterclaim.
+
+[^125]: See \[66\] above.
+
+[^126]: \[11\], Reply and Defence to Counterclaim.
+
+[^127]: \[17\], Tenant’s Closing Submissions and \[17\], Landlord’s Closing Submissions.
+
+[^128]: Section 47 of the Evidence Act (Cap 97, 1997 Rev Ed).
+
+[^129]: Sandz Solutions (Singapore) Pte Ltd and others v Strategic Worldwide Assets Ltd and others <span class="citation">\[2014\] 3 SLR 562</span> at \[42\]-\[56\].
+
+[^130]: _BOM v BOK and another appeal_ <span class="citation">\[2019\] 1 SLR 349</span> at \[47\].
+
+[^131]: See \[79(a)\] above.
+
+[^132]: \[19\], Plaintiff’s Closing Submissions.
+
+[^133]: \[20\], Plaintiff’s Closing Submissions.
+
+[^134]: \[21\], Plaintiff’s Closing Submissions.
+
+[^135]: See \[25\] above.
+
+[^136]: _Leefon Corporation Pte Ltd v Officer Planner Pte Ltd_ <span class="citation">\[2014\] SGDC 357</span> at \[12\].
+
+[^137]: _Leefon Corporation Pte Ltd v Officer Planner Pte Ltd_ <span class="citation">\[2014\] SGDC 357</span> at \[12\].
+
+[^138]: See \[53\] above.
+
+[^139]: \[7\], Reply and Defence to Counterclaim.
+
+[^140]: See \[91(a)\] below.
+
+[^141]: Day 1, p 38, line 30 to p 39, line 2.
+
+[^142]: AB, pp 66-67, pp 71-73; pp 77-78; and pp 106-107.
+
+[^143]: Day 1, p 38, lines 8-10.
+
+[^144]: AB, p 21.
+
+[^145]: See \[56\] above.
+
+[^146]: See \[79(a)\] above.
+
+[^147]: AB, p 9.
+
+[^148]: AB, p 25.
+
+[^149]: \[10\], Statement of Claim.
+
+[^150]: This is the commencement date of the term of the Initial Lease: see \[17\] above.
+
+[^151]: See \[63\] above.
+
+[^152]: \[16\], Defence and Counterclaim (Amendment No. 1).
+
+[^153]: Though it appeared from the Landlord’s Bundle of Authorities (dated 2 October 2018) that the Landlord accepted that he had “the legal burden of proof to show the existence of defects at the \[Premises\] and the evidential burden of adducing evidence of the said defects”: see Landlord’s description in relation to _Britestone Pte Ltd v Smith & Associates Far East, Ltd_ <span class="citation">\[2007\] 4 SLR(R) 855</span>.
+
+[^154]: Jeffrey Pinsler, Evidence and the Litigation Process (LexisNexis, 6th Ed, 2017) at paras 12.040-12.042.
+
+[^155]: Citing _Soward v Leggatt_ (1836) 7 C & P 613.
+
+[^156]: William Blake Odgers and Walter Blake Odgers, _Powell’s Principles and Practice of the Law of Evidence_ (Butterworth & Co, 10th Ed, 1943) at pp 134-138.
+
+[^157]:  Citing _Amos v Hughes_ 1 M & Rob 464.
+
+[^158]:  Citing _Mills v Barber_ 1 M & W 427.
+
+[^159]:  1 M & Rob 464.
+
+[^160]:  Citing _Soward v Leggatt_ (1836) 7 C & P 613.
+
+[^161]: (1836) 7 C & P 613.
+
+[^162]: (1836) 7 C & P 613 at p 615.
+
+[^163]: _Amos v Hughes_ 1 M & Rob 464.
+
+[^164]: See also \[62\]-\[63\] above.
+
+[^165]: See \[54\], \[57\], and \[66\] above.
+
+[^166]: See \[99\] above.
+
+[^167]: <span class="citation">\[2007\] 4 SLR(R) 855</span> at \[57\]-\[60\].
+
+[^168]: <span class="citation">\[1998\] 2 SLR(R) 258</span>.
+
+[^169]: \[24\]-\[25\], Tenant’s Closing Submissions.
+
+[^170]: _Lee Tat_ at \[21\].
+
+[^171]: _Lee Tat_ at \[3\].
+
+[^172]: _Lee Tat_ at \[58\].
+
+[^173]: \[21\], Landlord’s Closing Submissions as well as \[3\] and \[6\], Landlord’s Reply Submissions.
+
+[^174]: \[18\]-\[20\], Landlord’s Closing Submissions.
+
+[^175]: See also \[10\], Statement of Claim.
+
+[^176]: See also \[4\], Tenant’s Reply Submissions.
+
+[^177]: \[4\]-\[6\], Landlord’s Reply Submissions.
+
+[^178]: Day 3, pp 114-116.
+
+[^179]: Day 3, pp 113-116.
+
+[^180]: See \[109\] above.
+
+[^181]: See \[108\] above.
+
+[^182]: Save for the damages alleged to the Pool Deck and the Patio Deck, which were included by way of an amendment to the Defence and Counterclaim pursuant to an Order of Court dated 13 September 2018. The Tenant did not file an amended Reply and Defence to Counterclaim in response.
+
+[^183]: AB, p 10.
+
+[^184]: _Lee Tat_ at \[19\]-\[25\] and \[58\]-\[61\].
+
+[^185]: \[21\], Landlord’s Closing Submissions as well as \[3\] and \[6\], Landlord’s Reply Submissions.
+
+[^186]: \[5\], Tenant’s Reply Submissions.
+
+[^187]: \[20\] and \[35\], Landlord’s Closing Submissions.
+
+[^188]: \[8\], Statement of Claim.
+
+[^189]: \[8\], Statement of Claim.
+
+[^190]: \[8\], Statement of Claim.
+
+[^191]: \[22\], Landlord’s Closing Submissions.
+
+[^192]: \[12\]-\[13\], Tenant’s affidavit.
+
+[^193]: \[11\], Defence and Counterclaim (Amendment No. 1).
+
+[^194]: \[11\], Defence and Counterclaim (Amendment No. 1).
+
+[^195]: \[11\], Reply and Defence to Counterclaim.
+
+[^196]: \[27\], Landlord’s Closing Submissions.
+
+[^197]: AB, p 13.
+
+[^198]: Day 2, p 17, lines 1-7.
+
+[^199]: See \[33\] above.
+
+[^200]: AB, p 87.
+
+[^201]: AB, pp 90-83.
+
+[^202]: AB, pp 95-96.
+
+[^203]: \[24\]-\[26\], Landlord’s Closing Submissions. See also Day 1, p 37, lines 11-13.
+
+[^204]: See \[39\] above.
+
+[^205]: AB, pp 75, 81-82 (see \[13\] therein).
+
+[^206]: AB, p 74.
+
+[^207]: \[28\], Landlord’s Closing Submissions.
+
+[^208]: Day 1, p 36, lines 3-18.
+
+[^209]: \[7\], Tenant’s Reply Submissions.
+
+[^210]: Day 1, p 98, line 25 to p 102, line 31.
+
+[^211]: \[8\]-\[11\], Landlord’s Reply Submissions.
+
+[^212]: Day 1, p 103, lines 2-30.
+
+[^213]: See \[1\] above.
+
+[^214]: Day 1, p 104, lines 14-18.
+
+[^215]: \[29\], Landlord’s Closing Submissions.
+
+[^216]: \[30\], Landlord’s Closing Submissions and \[8\], Tenant’s Reply Submissions.
+
+[^217]: Day 3, p 24, lines 11-14.
+
+[^218]: \[44\], Landlord’s affidavit.
+
+[^219]: Day 1, p 131, lines 8-13.
+
+[^220]: Day 1, p 128, lines 16-30 and Day 3, p 25, lines 4-10.
+
+[^221]: See \[64\] above.
+
+[^222]: Day 1, p 128, lines 20 to p 129, line 3.
+
+[^223]: Day 3, p 14, lines 7-8.
+
+[^224]: Day 3, p 26, lines 19-26.
+
+[^225]: \[32\], Landlord’s Closing Submissions; \[38\], Tenant’s Closing Submissions; and \[10\], Tenant’s Reply Submissions.
+
+[^226]: \[33\]-\[34\], Landlord’s Closing Submissions.
+
+[^227]: See \[142\] above.
+
+[^228]: Day 3, p 14, lines 6-9.
+
+[^229]: Day 3, p 23, lines 9-27.
+
+[^230]: Day 3, p 25, lines 4-14.
+
+[^231]: Bundle of Photographs, Tab 3, pp 35, 60, 61, 62, 68, 69, and 72.
+
+[^232]: Bundle of Photographs, Tab 3, pp 42, 56, and 111.
+
+[^233]: Bundle of Photographs, Tab 3, pp 65-66.
+
+[^234]: Bundle of Photographs, Tab 3, pp 45, 48, 75-80, 102, 112-113, 119-120, and 125-126.
+
+[^235]: Bundle of Photographs, Tab 3, p 51.
+
+[^236]: Bundle of Photographs, Tab 3, pp 88, 92-93, 115, and 116.
+
+[^237]: Bundle of Photographs, Tab 3, pp 105-106.
+
+[^238]: Bundle of Photographs, Tab 3, pp 121-124.
+
+[^239]: Day 2, p 100, lines 6-12.
+
+[^240]: AB, pp 223 and 224 (corresponding to Bundle of Photographs, Tab 3, pp 107-108).
+
+[^241]: Day 1, p 115, lines 17-21.
+
+[^242]: See \[143\] above.
+
+[^243]: \[13\], Tenant’s Closing Submissions.
+
+[^244]: Bundle of Photographs, Tab 2, p 18.
+
+[^245]: Bundle of Photographs, Tab 3, pp 121-124.
+
+[^246]: Bundle of Photographs, Tab 2, p 16.
+
+[^247]: Bundle of Photographs, Tab 3, at pp 28, 29, 124, 125, and 126.
+
+[^248]: Bundle of Photographs, Tab 3, at pp 28 and 29.
+
+[^249]: Bundle of Photographs, Tab 2, at p 11.
+
+[^250]: Bundle of Photographs, Tab 3, at pp 107 and 108.
+
+[^251]: Day 3, p 38, line 7 to p 39, line 13.
+
+[^252]: Bundle of Photographs, Tab 3, at pp 30-32.
+
+[^253]: Day 3, p 56, line 12 to p 57, line 20.
+
+[^254]: See \[44\] above.
+
+[^255]: Bundle of Photographs, Tab 3, pp 38, 43-45, 49-50, 57-60, 66-67, 70, 72, 78-79, 84-87, 89-90, 92, 101-103, 107-109, and 114-117.
+
+[^256]: See also Day 2, p 69.
+
+[^257]: Bundle of Photographs, Tab 3, pp 87, 88, 89, 90, 92, 93, 97, 108, 111, and 112.
+
+[^258]: \[38\]-\[39\], Landlord’s Closing Submissions.
+
+[^259]: Day 2, p 64, lines 13-23; p 81, lines 27-29; p 82, line 18 to p 83, line 22; p 84; lines 22-34; p 85, line 1 to p 86, line 11; p 87, lines 1-3; p 87, line 26 to p 88, line 3; p 95, lines 19-29; p 104, lines 11-28; p 105; lines 2-8; p 108, line 27 to p 109, line 5; p 122, lines 25-29; p 126, line 29 to p 127, line 6; p 128, lines 9-14; p 129, lines 1-3; p 140, lines 16-31; p 141, lines 12-13; p 150, lines 13-15; p 154, lines 3-12; and p 157, lines 5-14.
+
+[^260]: Bundle of Photographs, Tab 2.
+
+[^261]: \[38\], Tenant’s Closing Submissions as well as \[10\] and \[17\], Tenant’s Reply Submissions.
+
+[^262]: \[150\]-\[151\], Tenant’s Closing Submissions as well as \[14\] and \[28\]-\[29, Tenant’s Reply Submissions.
+
+[^263]: _Multi-Pak Singapore Pte Ltd (in receivership) v Intraco Ltd and others_ <span class="citation">\[1992\] 2 SLR(R) 382</span> at \[22\]-\[24\], decision affirmed by the Court of Appeal in _Multi-Pak Singapore Pte Ltd (in receivership) v Intraco Ltd and others_ <span class="citation">\[1993\] 1 SLR(R) 220</span>. See also _Ong Seow Pheng and others v Lotus Development Corp and another_ <span class="citation">\[1997\] 2 SLR(R) 113</span> and _Fornet Enterprise Co Ltd v Howell Universal Pte Ltd and others_ <span class="citation">\[2006\] 2 SLR(R) 349</span>, which reiterated the fundamental principle that a court cannot make a finding based on facts that have not been pleaded.
+
+[^264]: Bundle of Photographs, Tab 4.
+
+[^265]: See \[116\] above.
+
+[^266]: See \[117\] above.
+
+[^267]: (Cap 97, 1997 Rev Ed).
+
+[^268]: _Anita Damu @ Shazana Bt Abdullah_ <span class="citation">\[2019\] SGHC 233</span> at \[25\].
+
+[^269]: \[20\], Rashidah’s affidavit and \[28\], Yap’s affidavit.
+
+[^270]: Day 3, p 25, line 27 to p 26, line 29.
+
+[^271]: AB, pp 374-376 (corresponding to Bundle of Photographs, Tab 2, pp 19-20).
+
+[^272]: These comprised one L-shaped patch; one rectangular patch; and one apparently square patch. That these photographs showed “brown patches” was also Casimir’s evidence: Day 2, p 44, lines 6-9.
+
+[^273]: Day 3, p 26, lines 1-9.
+
+[^274]: Day 1, p 42, lines 14 to p 43, line 28.
+
+[^275]: Day 1, p 57, lines 12-15.
+
+[^276]: Day 1, p 118, lines 14-28 and Day 3, p 26, lines 4-15.
+
+[^277]: Bundle of Photographs, Tab 2, p 18.
+
+[^278]: Day 3, p 26, line 30 to p 27.
+
+[^279]: Day 1, p 119, lines 1-18.
+
+[^280]: Day 3, p 26, line 30 to p 27, line 32.
+
+[^281]: Bundle of Photographs, Tab 2, pp 11 and 14-17.
+
+[^282]: \[20(b)\], Rashidah’s affidavit and \[28(b)\], Yap’s affidavit.
+
+[^283]: Bundle of Photographs, Tab 2, pp 14-17.
+
+[^284]: It was apparent from Rashidah’s cross-examination that she did not know the locations these photographs corresponded to: Day 1, p 119, line 19 to p 121, line 5.
+
+[^285]: Day 3, p 28, line 1 to p 29, line 14.
+
+[^286]: See \[170\] above.
+
+[^287]: See \[170\] above.
+
+[^288]: \[81\], Tenant’s Closing Submissions.
+
+[^289]: Day 3, p 30, line 20 to p 31, line 8.
+
+[^290]: This was admitted and marked as “D1”. See Day 3, p 31, lines 10 to p 32, line 32.
+
+[^291]: Day 3, p 34, lines 13-27.
+
+[^292]: See \[170\] above.
+
+[^293]: \[86\], Tenant’s Closing Submissions.
+
+[^294]: Day 3, p 35, lines 1 to line 30; p 36, lines 8-13; and p 37, lines 1-32.
+
+[^295]: Day 1, p 124, lines 5-15.
+
+[^296]: \[93\], Tenant’s Closing Submissions.
+
+[^297]: Bundle of Photographs, Tab 2, pp 25-30.
+
+[^298]: Day 3, p 38, line 7 to p 39,line 13.
+
+[^299]: Bundle of Photographs, Tab 2, p 6 (corresponding to p 25 in Yap’s affidavit).
+
+[^300]: Day 3, p 39, line 14 to p 40, line 13. Yap had marked this with the number “25” on the 2nd storey plan (admitted and marked as “D1”).
+
+[^301]: Casimir described the damage shown in this photograph as “scratches and mark\[s\]”: Day 2, p 41, line 25 to p 42, line 3.
+
+[^302]: Indeed, the Tenant’s Counsel acknowledged that the photograph showed “scratches…and probably some markings”: Day 3, p 40, lines 8-11.
+
+[^303]: Bundle of Photographs, Tab 2, pp 7-9 (corresponding to pp 26-28 in Yap’s affidavit). Yap had marked the locations of the damage with the numbers “26”, “27”, and “28on the 2nd storey plan (admitted and marked as “D1”).
+
+[^304]: Day 3, p 40, line 28 to p 42, line 31.
+
+[^305]: Casimir described the damage shown in these photograph as some sort of “line\[s\] or mark\[s\]”: Day 2, p 43, lines 4-8.
+
+[^306]: Day 3, p 41, lines 2-15.
+
+[^307]: See \[183\] above. Yap had also managed to “catch the scratch” running down the timber flooring in the master study: see \[188\] below.
+
+[^308]: Bundle of Photographs, Tab 2, p 10 (corresponding to p 29 in Yap’s affidavit). Yap had marked the locations of the damage with the numbers “29” on the 2nd storey plan (admitted and marked as “D1”).
+
+[^309]: Day 3, p 43, lines 4 to 6.
+
+[^310]: Casimir described the damage shown in this photograph as “some sort of mark”: Day 2, p 43, lines 13-15.
+
+[^311]: Day 2, p 43, lines 13-15.
+
+[^312]: Page 30A, Casimir’s affidavit.
+
+[^313]: Photograph 28A (Bundle of Photographs, Tab 4, p 155 (top photograph)).
+
+[^314]: Day 2, p 21, lines 12-26 and p 22, lines 1-15.
+
+[^315]: Photograph 28A (Bundle of Photographs, Tab 4, p 155 (top photograph)).
+
+[^316]: Photograph 29A (Bundle of Photographs, Tab 4, p 156 (top photograph); Photograph 30B (Bundle of Photographs, Tab 4, p 157 (bottom photograph); Photograph 42B (Bundle of Photographs, Tab 4, p 169 (bottom photograph); and Photograph 43A (Bundle of Photographs, Tab 4, p 170 (top photograph).
+
+[^317]: Day 2, p 22, line 20 to p 23, line 16; p 23, line 32 to p 24, line 19; and p 29, lines 7-12.
+
+[^318]: See \[177\] above.
+
+[^319]: Day 3, p 44, lines 5-9.
+
+[^320]: Day 3, p 44, lines 14-23.
+
+[^321]: Dsy 3, p 44, line 30 to p 45, line 8.
+
+[^322]: Bundle of Photographs, Tab 2, p 11.
+
+[^323]: Day 3, p 45, line 16 to p 46, line 21.
+
+[^324]: See \[194\]-\[195\] above.
+
+[^325]: See \[177\] above.
+
+[^326]: \[93\], Tenant’s Closing Submissions.
+
+[^327]: Day 3, p 46, line 26 to p 47,line 2.
+
+[^328]: Day 3, p 48, lines 18-31.
+
+[^329]: \[9(iv)\], Tenant’s wife’s affidavit.
+
+[^330]: Day 1, p 74, line 28 to p 75, line 2.
+
+[^331]: See \[203\] above.
+
+[^332]: \[20\], Rashidah’s affidavit and \[28\], Yap’s affidavit.
+
+[^333]: See \[205\] above.
+
+[^334]: Day 3, p 132, line 28 to p 133, line 15.
+
+[^335]: This attempt to do so was objected to by the Tenant’s counsel: Day 3, p 68, line 30 to p 70, line 6.
+
+[^336]: AB, p 131.
+
+[^337]: Day 2, p 70, line 28 to p 71, line 11.
+
+[^338]: _Chong Khee Sang v Pang Ah Chee_ <span class="citation">\[1984\] 1 MLJ 377</span> at 381.
+
+[^339]: _Jet Holding Ltd v Cooper Cameron (Singapore) Pte Ltd_ <span class="citation">\[2006\] 3 SLR(R) 769</span> at \[76\]. See also _Singapore Tourism Board v Children’s Media Ltd and others_ <span class="citation">\[2008\] 3 SLR(R) 981</span> at \[74\]-\[80\].
+
+[^340]: Day 3, p 48, line 32 to p 49, line 24; and p 52, lines 14-18.
+
+[^341]: Day 3, p 50, lines 2-4.
+
+[^342]: Day 3, p 50, line 18 to p 51, line 21.
+
+[^343]: See \[147\]-\[149\] above.
+
+[^344]: See \[147\] above.
+
+[^345]: Bundle of Photographs, Tab 3, pp 88-93.
+
+[^346]: Day 3, p 54, line 23 to p 55, line 11.
+
+[^347]: Day 3, p 55, line 2 to p 56, line 11.
+
+[^348]: Bundle of Photographs, Tab 2, p 23 (corresponding to p 42 in Yap’s affidavit). A photograph of the broken handle appears at AB, p 45.
+
+[^349]: See \[26\] above.
+
+[^350]: See \[116\] above.
+
+[^351]: See \[117\] above.
+
+[^352]: See \[98\]-\[99\] above. See also _Westpac General Insurance v Cooper_ \[2006\] ACTSC 91, not disturbed on this point by _Cooper v Westpac General Insurance_ \[2007\] ACTCA 20.
+
+[^353]: See \[107\] above.
+
+[^354]: (LexisNexis, 15th ed).
+
+[^355]: Issue 116 (September 2018).
+
+[^356]: Citing _Haskell v Marlow_ <span class="citation">\[1928\] 2 KB 45</span> at 58-59, which was approved in _Regis Property Co Ltd v Dudley_ <span class="citation">\[1959\] AC 370</span>, HL.
+
+[^357]: Citing _Terrell v Murray_ (1901) 17 TLR 570.
+
+[^358]: Citing _Terrell v Murray_ (1901) 17 TLR 570.
+
+[^359]: Citing _Citron v Cohen_ (1920) 36 TLR 560 (burst pipe outside demise).
+
+[^360]: Citing _Manchester Bonded Warehouse Co v Carr_ <span class="citation">(1880) 5 CPD 507</span>.
+
+[^361]: (Kim Lewison gen ed) (Sweet & Maxwell, Looseleaf Ed 2019, Release 74) at paras. 13.046-13.047.
+
+[^362]: Citing _Terrell v Murray_ (1901) 17 TLR 570.
+
+[^363]: Citing _Terrell v Murray_ (1901) 17 TLR 570.
+
+[^364]: Citing _Miller v Burt_ \[1918\] 63 SJ 117.
+
+[^365]: Citing _Manchester Bonded Warehouse Co v Carr_ <span class="citation">(1880) 5 CPD 507</span>.
+
+[^366]: Citing _Citron v Cohen_ (1920) 36 TLR 360.
+
+[^367]: Citing _Gutteridge v Munyard_ \[1834\] 1 Moo & R 334.
+
+[^368]: Citing _Haskell v Marlow_ <span class="citation">\[1928\] 2 KB 45</span>.
+
+[^369]: Citing _Taylor v Webb_ <span class="citation">\[1937\] 2 KB 283</span> (in a case where an under-lessor had covenanted to repair the outside walls and roofs, fair wear and tear excepted, and a slate, cracked by age and wear and tear, was neglected, so that in time more and more water penetrated and ultimately a large part of the house fell into a serious state of disrepair; the whole of the disrepair was due to the elements, coupled with the absence of any steps by anybody to prevent further progress of the decay. It was held that the covenantor was under no duty to step in and arrest the wear and tear due to natural causes).
+
+[^370]: Citing _Regis Property Co v Dudley_ <span class="citation">\[1959\] AC 370</span>.
+
+[^371]: Citing _Haskell v Marlow_ <span class="citation">\[1928\] 2 KB 45</span>, which was approved by the House of Lords in _Regis Property Co v Dudley_ <span class="citation">\[1959\] AC 370</span>.
+
+[^372]: Citing _Brown v Davies_ <span class="citation">\[1958\] 1 QB 117</span>,
+
+[^373]: See \[161\]-\[162\] above.
+
+[^374]: _Sakthivel Punithavathi v PP_ <span class="citation">\[2007\] 2 SLR(R) 983</span> at \[75\].
+
+[^375]: _Saeng-Un Udom v PP_ <span class="citation">\[2001\] 2 SLR(R) 1</span> at \[26\]-\[27\]
+
+[^376]: _Sakthivel Punithavathi v PP_ <span class="citation">\[2007\] 2 SLR(R) 983</span> at \[76\].
+
+[^377]: _Poh Soon Kiat_ v _Desert Palace Inc (trading as Caesars Palace)_ <span class="citation">\[2010\] 1 SLR 1129</span> at \[23\].
+
+[^378]: _PP v Chong Hou En_ <span class="citation">\[2015\] 3 SLR 222</span> at \[62\].
+
+[^379]: See \[165\]-\[166\] above.
+
+[^380]: Day 2, p 44, line 6 to p 45, line 1.
+
+[^381]: \[67\], Tenant’s Closing Submissions.
+
+[^382]: See \[221\]-\[222\] above.
+
+[^383]: See \[91\] above.
+
+[^384]: Annex A, Landlord’s Closing Submissions.
+
+[^385]: Annex A, Tenant’s Reply Submissions (see p 1).
+
+[^386]: See \[229\] above.
+
+[^387]: \[65\]-\[66\], Tenant’s Closing Submissions.
+
+[^388]: See \[164\] above.
+
+[^389]: See \[91\] above.
+
+[^390]: See \[220\] above.
+
+[^391]: See \[167\] above.
+
+[^392]: See \[220\] above.
+
+[^393]: Day 1, p 119, lines 9-18.
+
+[^394]: See \[138(d)\] above.
+
+[^395]: See \[171\] above.
+
+[^396]: See \[220\] above.
+
+[^397]: Page 26, Casimir’s affidavit (under “Entrance Area”).
+
+[^398]: \[76\], Tenant’s Closing Submissions and Annex A, Tenant’s Reply Submissions (see p 2).
+
+[^399]: See \[222\] above.
+
+[^400]: See \[221\]-\[222\] above.
+
+[^401]: Annex A, Tenant’s Reply Submissions (see p 3).
+
+[^402]: See \[183\] above.
+
+[^403]: See \[220\] above.
+
+[^404]: \[102\], Tenant’s Closing Submissions.
+
+[^405]: Annex A, Tenant’s Reply Submissions (see p 6).
+
+[^406]: See \[187\] above.
+
+[^407]: See \[220\] above.
+
+[^408]: \[102\], Tenant’s Closing Submissions.
+
+[^409]: See \[193\] above.
+
+[^410]: See \[220\] above.
+
+[^411]: \[102\], Tenant’s Closing Submissions.
+
+[^412]: See \[217\] above.
+
+[^413]: AB, pp 41-45. See also \[46\] of the Tenant’s affidavit and \[8\] of the Tenant’s wife’s affidavit.
+
+[^414]: \[120\], Tenant’s Closing Submissions. See also Annex A, Tenant’s Reply Submissions (at p 7) where the Tenant stated as follows: “The \[Tenant’s wife\] informed the \[Landlord\] that the fridge handle was defective and the \[Landlord\] instructed his representatives to handle the matter. The \[Tenant’s\] wife handed the defective handle to the \[Landlord’s\] representative on the basis that the \[Landlord\] would handle it and not turn around and claim the replacement costs from the \[Tenant\]. The \[Landlord\] is not entitled to bring this claim against the \[Tenant\] when he agreed to handle the matter.”
+
+[^415]: \[9(h)\], Reply and Defence to Counterclaim.
+
+[^416]: See \[220\] above.
+
+[^417]: Day 1, p 49, line 8 to p 50, line 8.
+
+[^418]: AB, p 26.
+
+[^419]: Day 3, p 52, lines 19-22.
+
+[^420]: James Edelman, _McGregor on Damages_ (Sweet & Maxwell, 20th Ed, 2018) at para 28-045.
+
+[^421]: \[1895\] 2 Ch 377, affirmed in _Conquest v Ebbetts_ \[1896\] AC 940.
+
+[^422]: (Sweet & Maxwell, 20th Ed, 2018) at paras 28-055 to 28-056.
+
+[^423]: (Sweet & Maxwell, 20th Ed, 2018) at para 10-001.
+
+[^424]: Robertson Quay Investment Pte Ltd v Steen Consultants Pte Ltd \[2018\] 2 SLR(R) 623 at \[31\].
+
+[^425]: _Lee Tat Cheng v Maka GPS Technologies Pte Ltd_ <span class="citation">\[2018\] 1 SLR 856</span> at \[106\].
+
+[^426]: Robertson Quay Investment Pte Ltd v Steen Consultants Pte Ltd \[2018\] 2 SLR(R) 623 at \[31\].
+
+[^427]: \[20(d)\], Defence and Counterclaim (Amendment No. 1).
+
+[^428]: Excluding management costs of 15% of the costs of the repairs. According to Tong, management costs had to be factored in “as a consultant has to be appointed to oversee the works and ensure that it is being carried out properly”: \[11\], Tong’s affidavit.
+
+[^429]: AB, p 138.
+
+[^430]: See \[202\]-\[209\] above.
+
+[^431]: See \[210\]-\[214\] above.
+
+[^432]: AB, p 138.
+
+[^433]: AB, p 137.
+
+[^434]: AB, p 133.
+
+[^435]: \[9\], Tong’s affidavit.
+
+[^436]: AB, 323.
+
+[^437]: See \[157\] above.
+
+[^438]: \[152\]-\[153\], Tenant’s Closing Submissions.
+
+[^439]: \[58\], Landlord’s Closing Submissions.
+
+[^440]: See \[264\]-\[265\] above.
+
+[^441]: AB, p 355.
+
+[^442]: Management Corporation Strata Title Plan No 3556 (suing on behalf of itself and all subsidiary proprietors of Northstar @ AMK) v Orion-One Development Pte Ltd (in liquidation) and another <span class="citation">\[2019\] SGHC 70</span> at \[23\].
+
+[^443]: <span class="citation">\[2006\] 3 SLR(R) 769</span>.
+
+[^444]: James Edelman, _McGregor on Damages_ (Sweet & Maxwell, 20th Ed, 2018) at para 12-004.
+
+[^445]: See \[68(d)\] above.
+
+[^446]: \[18(b)(iv)(i)\], Plaintiff’s Closing Submissions.
+
+[^447]: \[139\] and \[142\]-\[145\], Tenant’s Closing Submissions.
+
+[^448]: \[66\] and \[69\], Landlord’s Closing Submissions.
+
+[^449]: Jeffrey Pinsler, _Singapore Court Practice 2017_ Vol I (LexisNexis, 2017) at para 18/7/3; _Singapore Civil Procedure 2019_ Vol I (Chua Lee Ming, gen ed) (Sweet & Maxwell, 2019) at paras 18/7/17; and _The “Shravan”_ <span class="citation">\[1999\] 2 SLR(R) 713</span> at \[77\].
+
+[^450]: Jeffrey Pinsler, _Singapore Court Practice 2017_ Vol I (LexisNexis, 2017) at para 18/7/3; _Singapore Civil Procedure 2019_ Vol I (Chua Lee Ming, gen ed) (Sweet & Maxwell, 2019) at paras 18/7/17, 18/12/13, 18/12/44, and 18/15/1; and _The “Shravan”_ <span class="citation">\[1999\] 2 SLR(R) 713</span> at \[77\].
+
+[^451]: _Ilkiw v Samuels_ <span class="citation">\[1963\] 1 W.L.R. 991</span>.
+
+[^452]: _Perestrello e Companhia Limitada v United Paint Co. Ltd_ <span class="citation">\[1969\] 1 WLR 570</span> at 579.
+
+[^453]: (Sweet & Maxwell, 20th Ed, 2018) at paras 3-001 to 3-002 as well as 3-006.
+
+[^454]: \[57\]-\[58\], Landlord’s Affidavit (see \[283\] above).
+
+[^455]: See \[284\] above.
+
+[^456]: See \[289\] above.
+
+[^457]: \[35\], Landlord’s Reply Submissions.
+
+[^458]: \[68\], Landlord’s Closing Submissions.
+
+[^459]: <span class="citation">\[1999\] 2 SLR(R) 713</span>.
+
+[^460]: (1854) 9 Exch 341.
+
+[^461]: \[69\], Landlord’s Reply Submissions.
+
+[^462]: See \[290\] above.
+
+[^463]: \[145\] and \[148\], Tenant’s Closing Submissions.
+
+[^464]: Jeffrey Pinsler, _Singapore Court Practice 2017_ Vol I (LexisNexis, 2017) at para 18/15/2.
+
+[^465]: See \[275\] above.
+
+[^466]: \[13\], Tong’s affidavit.
+
+[^467]: See \[283\] above.
+
+[^468]: \[21(c)\], Landlord’s Defence and Counterclaim (Amendment No. 1).
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F24016-SSP.xml)
