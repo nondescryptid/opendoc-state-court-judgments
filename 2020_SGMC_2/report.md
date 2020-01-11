@@ -1,0 +1,169 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Yeo Suan Tiak  
+
+### \[2020\] SGMC 2
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">MAC 910196-2019, Magistrate's Appeal No: 9331/2019/01</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">06 January 2020</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">Magistrates Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Salina Bte Ishak</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">DPP Kenneth Chin from the Attorney-General's Chambers for the Prosecution; Mr Yeo Suan Tik, the accused acting in person.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Yeo Suan Tiak</td></tr></tbody></table>
+
+\[LawNet Editorial Note: An appeal to this decision has been filed in MA 9331/2019/01 .\]
+
+6 January 2020
+
+### District Judge Salina Bte Ishak:
+
+## A.   Background
+
+#### The Charge
+
+1       The accused Mr Yeo Suan Tiak, a 55-year old male Singapore citizen had pleaded guilty on 18 December 2019 to a charge of causing grievous hurt to two persons by doing a negligent act so as to endanger human life by failing to keep a proper lookout ahead while driving his motor car along the East Coast Parkway that resulted in a head-to-rear collision with another motor car under s 338(b) Penal Code (Cap 224, 2008 Rev. Ed.) in **MAC 910196-2019.**
+
+2       I sentenced the accused to a fine of $4,000 in default 20 days imprisonment as well as disqualified him from holding or obtaining all classes of driving licences for a period of two years with effect from 18-December-2019 for the said charge.
+
+3       This is his appeal against his order of disqualification filed on 26 December 2019. The accused had paid his fine in full on 18 December 2019. The proceeded charge against him was as follows:
+
+> _Exhibit C1A –_ **_Charge (Amended)_**
+
+> “…that you, on 23 May 2019 at about 10.45am, along lane 2 of East Coast Parkway towards Marina Coastal Expressway, Singapore, did drive motor car bearing vehicle registration number SLD2227L and did cause grievous hurt to Wong Kuan Ah (Male / 73 years old) and Sng Nguan Cheng (Female / 66 years old), by doing an act so negligently as to endanger human life, _to wit_, by failing to keep a proper lookout ahead while driving, resulting in a head-to-rear collision with motor car bearing vehicle registration number SGG8376T, and you have thereby committed an offence punishable under Section 338(b) of the Penal Code (Cap 224, 2008 Rev Ed).”
+
+## B.   Statement of Facts
+
+4       The Statement of Facts (_Exhibit PS1_) prepared by the Prosecution which the accused had admitted to without qualification is as follows:
+
+> “1    The accused is Yeo Suan Tiak, male, Chinese, aged 55 (DOB: 3 November 1964), bearing NRIC No. XXX, a Singapore Citizen. At the time of the accident, the accused was working as a private hire car driver and he was the driver of motor car bearing vehicle registration number SLD2227L (“the Accused’s Vehicle”).
+
+> 2    The first victim is Andy Kuah, male, aged 51 years old (“A1”). At the time of the accident, the first victim was the driver of motor car bearing vehicle registration number SKW5796C (“A1’s Vehicle”).
+
+> 3    The second victim is Lim Chun Seng, male, aged 25 years old (“A2”). At the time of the accident, the second victim was the driver of motor car bearing vehicle registration number SKG6S (“A2’s Vehicle”).
+
+> 4    The third victim is Wong Kuan Ah , male, aged 73 years old (“A3”). At the time of the accident, the third victim was the driver of motor car bearing vehicle registration number SGG8376T (“A3’s Vehicle”).
+
+> 5    The fourth victim is Sng Nguan Cheng, female, aged 66 years old (“P1”). At the time of the accident, the fourth victim was the passenger in A3’s Vehicle.
+
+> **FACTS PERTAINING TO THE CHARGE (MAC-910196-2019)**
+
+> 6    On 23 May 2019 at about 10.45am, the accused was driving on lane 2 of East Coast Parkway towards Marina Coastal Expressway, Singapore. For about 30 seconds prior to the accident, the accused was driving straight, a safe distance behind A3. At the material time, A2 was driving in front of A3, and A1 was driving in front of A2. All four vehicles were travelling on lane 2 of East Coast Parkway towards Marina Coastal Expressway.
+
+> 7    As there were road works going on near Victoria Junior College, A1 slowed down when approaching the road works and stopped. Similarly, A2 and A3 slowed down and came to a stop. However, the accused did an act so negligently as to endanger human life by failing to keep a proper lookout ahead while driving. The accused could not stop in time and caused the Accused’s Vehicle to collide into the rear of V3’s Vehicle. As a result of the collision, V3’s Vehicle moved forward and collided into the rear of V2’s Vehicle, and V2’s Vehicle moved forward and collided into the rear of V1’s Vehicle.
+
+> 8    The accident was captured by the accused’s in-car camera.
+
+> 9    As a result of the accident, A3 and P1 were injured and were conveyed to Raffles Hospital by ambulance.
+
+> 10    A3 sustained the following injuries:
+
+>> (a)    Anterior chest contusion consistent with blunt force trauma from steering wheel;
+
+>> (b)    Left thumb sprain;
+
+>> (c)    Contusions on both knees;
+
+>> (d)    Left big toe avulsion fracture; and
+
+>> (e)    Fracture of upper incisor dental crowns.
+
+> 11    A3 was treated as an outpatient and given five days of medical leave.
+
+> 12    P1 sustained a fracture of the sternum. P1 was warded in Raffles Hospital for seven days and was given approximately two months of hospitalisation leave.
+
+> 13    As a result of the accident:
+
+>> (a)    The rear portion of A1’s Vehicle was scratched;
+
+>> (b)    The front portion of A2’s Vehicle sustained dents and scratches while the rear portion became dented and crumpled; and
+
+>> (c)    The front portion and rear portion of A3’s Vehicle and the front portion of the Accused’s Vehicle were severely damaged.
+
+> 14    At the time of accident, the weather was fine, road surface was dry, traffic flow was moderate and visibility was clear.
+
+> 15    By virtue of the foregoing, the accused has committed an offence of Causing Grievous Hurt by Negligent Act under Section 338(b) of the Penal Code (Cap 224, 2008 Rev Ed).
+
+## C.   Antecedents
+
+5       The Accused has no prior antecedents.
+
+## D.   Prosecution’s Address on Sentence
+
+6       In its written address on sentence, the Prosecution had relied on _Tang Ling Lee v Public Prosecutor[^1]_ at \[25\] – \[32\]:
+
+> “25    The suggested sentencing framework comprises three broad sentencing bands, within which the severity of an offence and hence the appropriate sentence to be imposed may be determined on the basis of **(a) the harm caused by the offence and (b) the culpability of the offender**. In the context of s 338(b) offences, the degree of harm caused would generally refer to the nature and degree of the grievous bodily injury caused to the victim(s). The degree of culpability would generally refer to the degree of relative blameworthiness disclosed by an offender’s actions, and is measured chiefly in relation to the extent and manner of the offender’s involvement in the criminal act (ie, the manner of driving).
+
+> 26    A key ingredient of a s 338(b) offence is that the negligent act must have endangered human life or personal safety. The fact that grievous bodily injury has been caused is itself indicative that the harm occasioned to the victim is not slight or minor. In this regard, the period of hospitalisation leave or medical leave would be a relevant consideration in so far as it represents a medical professional’s opinion as to the length of time required for treatment of the injuries and for the victim to resume his daily activities. Nevertheless, the period of hospitalisation or medical leave is a rough-and-ready proxy for the severity of the victim’s injuries at best, as the assessment of time required for treatment and subsequent recovery may vary from case to case and may also depend on an interplay of various other circumstances, including the opinion of the medical professional as well as the personal characteristics of the victim.
+
+> 27    In _PP v Aw Tai Hock_ <span class="citation">\[2017\] 5 SLR 1141</span>, the High Court stated (at \[37\]–\[40\]) that the factors that affect culpability for dangerous driving offences under s 64(1) of the Road Traffic Act (Cap 276, 2004 Rev Ed) would generally include:
+
+>> (a)    the manner of driving ie, how dangerous the driving was and the extent of danger to road users posed by the offender’s conduct;
+
+>> (b)    the circumstances of driving which might have increased the danger to road users during the incident; and
+
+>> (c)    the offender’s reasons for driving.
+
+> 28    … In relation to the manner of driving, some examples of situations where culpability would be increased include speeding, drink driving, sleepy driving, driving while under the influence of drugs, driving while using a mobile phone, flouting traffic rules, driving against the flow of traffic or off the road, involvement in a car chase or a racing competition, or exhibiting poor control of his vehicle. …
+
+> These circumstances in relation to the offender’s manner of driving are aggravating due to the increased danger to road users posed by such conduct.
+
+> 29    Second, the circumstances surrounding the incident should also be taken into account. This would include instances where the offender drives without a licence or while under disqualification. In _Suse Nathen_ (at \[28\]), it was considered that there may be increased risk where the offender drives: (a) during rush hours when the volume of traffic is heavy; (b) within a residential or school zone; (c) a heavy vehicle that is more difficult to control and requires a quicker reaction time; or (d) where he intends to travel a substantial distance to reach his destination. These circumstances may heighten the danger posed to road users.
+
+> …
+
+> 31    … the following presumptive sentencing ranges apply where the accused claims trial:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="19.02%"> <col width="34.6%"> <col width="46.38%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Category</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Circumstances</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Presumptive Sentencing Range</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">1</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Lesser harm and lower culpability</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Fines</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">2</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Greater harm and lower culpability</p><p align="justify" class="Table-Para-1">Or</p><p align="justify" class="Table-Para-1">Lesser harm and higher culpability</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">One to two weeks’ imprisonment</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">3</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Greater harm and higher culpability</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">More than two weeks’ imprisonment</p></td></tr></tbody></table>
+
+  
+  
+
+> 32    In sentencing an offender for a road traffic case under s 338(b) of the Penal Code, therefore, the court should undertake a two-step inquiry:
+
+>> (a)    First, the court should identify the sentencing band within which the offence in question falls, and also where the particular case falls within the applicable presumptive sentencing range, having regard to the twin considerations of harm and culpability, in order to derive the starting point sentence.
+
+>> (b)    Second, further adjustments should then be made to take into account the relevant mitigating and aggravating factors, which may take the eventual sentence out of the applicable presumptive sentencing range. Examples of relevant mitigating factors may include an offender’s timely plea of guilt, stopping to render assistance to the victim(s), a good driving record, and evidence of remorse. Relevant aggravating factors, on the other hand, may include efforts to avoid detection or apprehension and the existence of similar antecedents, which are indicative of persistent or prolonged bad driving.”
+
+7       In its oral address on sentence, the Prosecution had submitted for fine and disqualification which is to be left to the Court's discretion.
+
+8       It was further submitted that as the accused's culpability was on the lower end, as such the Prosecution was asking for a fine in the circumstances. In support of its sentencing position, the Prosecution had tendered the following table of sentencing precedents for offences under s 338(b) Penal Code.
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="8.78%"> <col width="19.28%"> <col width="26.62%"> <col width="22.26%"> <col width="23.06%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>S/N</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Case</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Facts</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Antecedents</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Sentence</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">1</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b><em>Public Prosecutor v Lai Kum Tai</em></b></p><p align="justify" class="Table-Para-1">MAC-900472- 2016</p><p align="justify" class="Table-Para-1">1 x s 338(b) PC &amp;</p><p align="justify" class="Table-Para-1">1 other</p><p align="justify" class="Table-Para-1">Pleaded guilty</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">The offender was driving about 1 car length behind the victim’s car in the same lane. Whilst driving, the offender was negligent in that he failed to keep a safety distance from the victim’s car and failed to keep a proper lookout when the victim’s car applied its brakes in response to traffic conditions. As a result, the offender failed to stop his car in time, resulting in a head-to-rear collision with the victim’s car. The collision caused the victim’s car to surge forward and collide into the rear of the witness’ car in front of the victim’s car.</p><p align="justify" class="Table-Para-1"><b>Injuries:</b></p><p align="justify" class="Table-Para-1">·The victim suffered a left acute subdural hematoma with diffuse brain swelling.</p><p align="justify" class="Table-Para-1">·The victim was warded for a total of 100 days and given hospitalisation</p><p align="justify" class="Table-Para-1">leave during this period of time.</p><p align="justify" class="Table-Para-1">·The victim had permanent deficits of a right sided hemiplegia with associated spasticity resulting in difficulties with walking as a result of his injuries.</p><p align="justify" class="Table-Para-1">·The victim was re-admitted for 26 days for further treatment.</p><p align="justify" class="Table-Para-1"><b>Damage:</b></p><p align="justify" class="Table-Para-1">·Front portion of offender’s car crumpled, dented and scratched.</p><p align="justify" class="Table-Para-1">·Rear portion of victim’s car crumpled and right rear tyre punctured.</p><p align="justify" class="Table-Para-1">·Front portion of victim’s car dented and scratched.</p><p align="justify" class="Table-Para-1">·Rear and right side portion of witness’ car dented and scratched.</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Offered composition for inconsiderate driving (1993, 2013, 2015), Careless driving (2013) and speeding (1994, 2004)</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Fine of $5,000 in default 5 weeks’ imprisonment and 3 years’ DQ</p><p align="justify" class="Table-Para-1"><em>(no appeal)</em></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">2</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b><em>Public Prosecutor v Rashidi Bin Hashim</em></b></p><p align="justify" class="Table-Para-1">MAC-900791-2016</p><p align="justify" class="Table-Para-1">1 x s 338(b) PC &amp; Others</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">The victim was riding a motorcycle, in front of the offender. At the material time, the offender was travelling at about 50km per hour, and was keeping only a 1m distance from the victim’s motorcycle. When the offender and the victim were approaching a junction, the victim moved to the left of the lane in order to turn left. The offender was unable to stop in time and his motorcycle collided into the victim’s motorcycle.</p><p align="justify" class="Table-Para-1">·The victim sustained the following injuries:</p><p align="justify" class="Table-Para-1">Traumatic brain injury including a comminuted left parietotemporal skull vault fracture extending to the left base of skull and floor of the left sphenoid sinus with undisplaced fracture involving roof of the left orbit</p><p align="justify" class="Table-Para-1">O Left facial nerve palsy</p><p align="justify" class="Table-Para-1">O Left clavicle fracture</p><p align="justify" class="Table-Para-1">O Left 4th rib fracture</p><p align="justify" class="Table-Para-1">O Left ulnar nerve neuropathy</p><p align="justify" class="Table-Para-1">·The victim was admitted for 28 days and given 59 days of hospitalisation leave.</p><p align="justify" class="Table-Para-1"><b>Damage:</b></p><p align="justify" class="Table-Para-1">·Left side and front of the offender’s motorcycle sustained dents and scratches and left wing mirror was broken.</p><p align="justify" class="Table-Para-1">·The victim’s motorcycle sustained dents and scratches on the left side.</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Untraced</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Fine of $5,000, in default 5 weeks’ imprisonment and 3 years’ DQ</p><p align="justify" class="Table-Para-1"><em>(no appeal)</em></p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">3</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b><em>Public Prosecutor v Tan Gek Koon</em></b></p><p align="justify" class="Table-Para-1">MAC-903720-2016</p><p align="justify" class="Table-Para-1">1 x s 338(b) PC &amp; 1 other</p><p align="justify" class="Table-Para-1">Pleaded guilty</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">At the material time, the offender was driving a SBS bus, behind a motor taxi. The victim flagged down the taxi and the driver of the taxi turned on the hazard lights, slowed down and eventually stopped to allow the victim to board. The offender failed to keep a proper lookout ahead, resulting in a head-to-rear collision with the motor taxi. The victim was in the midst of boarding the taxi at</p><p align="justify" class="Table-Para-1">the material time.</p><p align="justify" class="Table-Para-1"><b>Injuries:</b></p><p align="justify" class="Table-Para-1">·The victim sustained fracture of the lateral tibia plateau with depression and minimal displacement and depressed comminuted lateral tibial plateau fracture on left side of left knee.</p><p class="Judg-1"><a id="p1_"></a>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The victim was warded for 15 days.</p><p align="justify" class="Table-Para-1"><b>Damage:</b></p><p align="justify" class="Table-Para-1">·The offender’s bus’ front windscreen cracked and its front bumper was ripped off and crumpled.</p><p align="justify" class="Table-Para-1">·The taxi’s rear windscreen shattered and rear bumper crumpled</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Offered composition for careless driving</p><p align="justify" class="Table-Para-1">(2002)</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Fine of $4,000, in default 2 weeks’ imprisonment and 3 years’ DQ</p><p align="justify" class="Table-Para-1"><em>(no appeal)</em></p></td></tr></tbody></table>
+
+  
+  
+
+## E.   Mitigation
+
+9       In his oral plea in mitigation, the accused had submitted that as this was his first ‘sentence’, he used to be a law abiding citizen. He asked the Court to show some leniency in his disqualification. He further submitted that he really needed to continue working as a driver because he did not have much qualification.
+
+10     It was submitted that he had co-operated with authorities form the start and rendered assistance to the victim at the accident site. He was not driving more than the speed limit. He hoped that the Court would show him some leniency as he needed to support his wife and mother. The accused highlighted that he was a low income earner. There were road works and the cars had stopped in the middle lane.
+
+## F.   The Sentences
+
+#### Prescribed punishment under s 338(b) Penal Code
+
+11     The prescribed punishment for an offence of causing grievous hurt to any person by doing a negligent act so as to endanger human life or the personal safety of others under s 338(b) Penal Code is a term of imprisonment that may extend to two years or with a fine which may extend to $5,000 or to both. In the present case, it was accepted that the accused had caused grievous hurt to two victims in the manner as described at paragraphs 10 and 12 of the Statement of Facts.
+
+12     As the present case involves an offence in connection with the driving of a motor vehicle, s 42(1) Road Traffic Act (Cap 276, 2004 Rev. Ed.) was also applicable.
+
+> “**Disqualification for offences**
+
+> 42.-(1) A court before which a person is convicted of any offence in connection with the driving of a motor vehicle may, in any case except where otherwise expressly provided by this Act and shall, where so required by this Act, order him to be disqualified from holding or obtaining a driving licence for life or for such period as the court may think fit…”
+
+13     In the present case, in my consideration of the appropriate sentence to be imposed I had applied the sentencing framework for road traffic cases under s 338(b) Penal Code as set out by the High Court in _Tang Ling Lee v PP[^2]_. Essentially, I had to decide within which of the three broad sentencing bands as set out at paragraph 7 above that the present case fell within. To do so, I had to determine the _level of harm_ caused by the offence and _the culpability_ of the accused in the present case. I was further guided by the sentencing precedents tendered by the Prosecution as set out at paragraph 9 above although I was mindful that it lacked precedential value as there were no written grounds available for all three cases. Nevertheless, they were useful as a gauge of the sentences that were imposed for similar cases where as a result of the offender’s negligent failure to keep a proper lookout while driving on the road results in an accident where grievous hurt is caused.
+
+14     I noted that based on the facts before me, the Prosecution had submitted that the present case fell within Category 1 of the sentencing band in _Tang Ling Lee_. It was the Prosecution’s case that the accused's culpability was on the lower end and had submitted for a fine and disqualification which was to be left to the Court's discretion. I agreed with the Prosecution that the accused's culpability was on the lower end and that a fine and the appropriate disqualification order should be made.
+
+15     In the present case, I took into account that the accused was a first offender who had pleaded guilty at the earliest opportunity and had not wasted any of the resources of the Court and the Prosecution. I was also mindful although the accused’s culpability was at the lower end, the level of harm was such that he had caused grievous hurt to not just one victim but to two victims due to his negligent act. The accused had also been driving along an expressway where the speed limit for vehicles were 90 km/h and when driving at such speeds the likelihood of serious injuries as well as property damage is high when an accident occurs. Hence when driving at such speed it was important that drivers keep a proper lookout ahead and be mindful of the prevailing traffic conditions including the possibility of sudden stoppages. I further considered that the injuries suffered by the victims in the cases cited were more severe than those suffered by the two victims in the present case.
+
+16     Hence after a careful consideration of the facts before me as well as the accused’s plea in mitigation, after applying the sentencing framework in _Tang Ling Lee_, I was of the view a fine of $4,000 in default 20 days imprisonment as well as a disqualification from holding or obtaining all classes of driving licences for a period of two years was just appropriate.
+
+17     When determining the appropriate disqualification to impose, I considered the nature of the offence, the manner of driving as well as the degree of harm caused. The fact that the accused person requires the driving licence to earn a living or is supporting his wife and mother are not relevant mitigating factors in determining whether an order of disqualification should be imposed.
+
+18     In the present case, the offence committed was in no way a minor traffic offence where no serious injuries or property damage caused. This was also evident from the length of the disqualification period that were imposed in the sentencing precedents. Although the period of disqualification in the precedents cited were for 3 years for all classes of vehicles, I adjusted the disqualification period downwards to two years’ for all classes of vehicles in light of the less severe injuries suffered by the victims and his lower level of culpability.
+
+19     Dissatisfied with my decision, the accused had filed a Notice of Appeal against his _order of disqualification_ on 26 December 2019. The accused had paid his fine in full on 18 December 2019 and his two-year disqualification order is effective from _18 December 2019_ until _17 December 2021_.
+
+* * *
+
+[^1]: <span class="citation">\[2018\] 4 SLR 813</span>
+
+[^2]: <span class="citation">\[2018\] SGHC 18</span>.
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F24059-SSP.xml)
