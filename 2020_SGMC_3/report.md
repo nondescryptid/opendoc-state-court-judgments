@@ -1,0 +1,269 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Ng Chuan Seng  
+
+### \[2020\] SGMC 3
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">MAC 907517-2018 &amp; 5 Ors, Magistrate's Appeal No: 9333/2019/01</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">13 January 2020</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">Magistrates Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Salina Bte Ishak</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">DPP Thiagesh Sukumaran from the Attorney-General's Chambers) for the Prosecution; Mr Foo Ho Chew of M/S H C Law Practice for the accused.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Ng Chuan Seng</td></tr></tbody></table>
+
+\[LawNet Editorial Note: An appeal to this decision has been filed in MA 9333/2019/01.\]
+
+13 January 2020
+
+### District Judge Salina Bte Ishak:
+
+## A.   Background
+
+1       The accused, Mr Ng Chuan Seng, a 48-year old Singapore citizen had pleaded guilty on 29 July 2019 to _two charges_ of facilitating the participation by others in remote gambling in accordance with arrangements made by a principal under s 9(1)(d) Remote Gambling Act 2014 (No. 34 of 2014) in **MAC 907517-2018** and **MAC 907518-2018** and _one charge_ of gambling using remote communication and a remote gambling service that is not provided by an exempt operator under s 8(1) Remote Gambling Act 2014 (No. 34 of 2014) in **MAC 907521-2018**. Three other remaining charges, namely one charge under s 9(1)(c) Remote Gambling Act 2014 (No. 34 of 2014) and two other charges under s 9(1)(d) Remote Gambling Act 2014 (No. 34 of 2014) were taken into consideration with his consent for the purpose of sentencing.
+
+#### Sentences imposed
+
+2       The accused was only sentenced on 19 December 2019 as the Prosecution was awaiting the outcome of the appeal in _PP v Lau Jian Bang_ <span class="citation">\[2019\] SGHC 254</span> (MA 9332/2018/01) that dealt with sentencing issue for offences under s 8 Remote Gambling Act before addressing the Court on sentence. After a careful consideration of the Prosecution’s address on sentence as well as the accused’s plea in mitigation, I sentenced the accused as follows:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="7.84%"> <col width="27.72%"> <col width="22.92%"> <col width="22.14%"> <col width="19.38%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>S/N</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Charge</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Offence</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Sentence</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Consecutive</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">1</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">MAC-907517-2018</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Section 9(1)(d) Remote Gambling</p><p align="justify" class="Table-Para-1">Act 2014 (Act 34 of 2014)</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Four months' imprisonment</p><p align="justify" class="Table-Para-1">and fine of $30,000, in default</p><p align="justify" class="Table-Para-1">three weeks' imprisonment.</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Consecutive</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">2</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">MAC-907518-2018</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Section 9(1)(d) Remote Gambling</p><p align="justify" class="Table-Para-1">Act 2014 (Act 34 of 2014)</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Four months' imprisonment</p><p align="justify" class="Table-Para-1">and fine of $30,000, in default</p><p align="justify" class="Table-Para-1">three weeks' imprisonment.</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Consecutive</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">3</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">MAC-907521-2018</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Section 8(1) Remote Gambling</p><p align="justify" class="Table-Para-1">Act 2014 (Act 34 of 2014)</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Fine of $5,000, in default one week's imprisonment.</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">&nbsp;</p></td></tr></tbody></table>
+
+  
+  
+
+As I had ordered both his imprisonment terms to run consecutively, his global sentence was eight months’ imprisonment and a fine of $65,000 in default seven weeks’ imprisonment.
+
+#### Deferement of sentences
+
+3       The accused then applied for a deferment of his sentence to a date after the Chinese New Year. I allowed his application and granted a deferment of the imprisonment term as well as the fines to 28 January 2020 as he had indicated that he would not be paying the fines and would be serving the default sentences. This would have enabled him to pay the fine should he change his mind about doing so and to avoid the need for him to serve the default sentence. I further extended his agency bail until 28 January 2020.
+
+#### The Appeal
+
+4       The accused has since filed an appeal against his sentences on 30 December 2019 through his new Defence Counsel, Ms Jillian Anne D'Rozario of Jay Law Corporation. On 10 January 2020, in light of his notice of appeal, I fixed the bail pending the hearing of his appeal at $20,000 with one surety. I had also revoked my earlier order to defer the payment of the fine until 28 January 2020 in light of this appeal. I ordered the fine to be paid by 10 January 2020 or for the accused to serve the default sentence of seven weeks imprisonment if no payment was made.
+
+## B.   The Charges
+
+5       The three proceeded charges against him were as follows:
+
+> _Exhibit C1A_
+
+_1st Charge (Amended)_
+
+> “…that you, sometime December 2017, did facilitate participation by others in remote gambling, in accordance with arrangements made by a principal, one Ah Mark, to wit, you create and issued an account styled as ‘58yg3328’, on the website, http://www.apple38.com, which is a remote gambling service not provided by an exempt operator or a person otherwise exempt under Section 40 of the Remote Gambling Act 2014 (No. 34 of 2014), which allowed one or more individuals to gamble using remote communication, on soccer fixtures from 28th February 2018 to 14th March 2018 with a total bet value of SGD16958, and as a result, you facilitated one or more individuals to commit an offence under Section 8 of the said Act and you have thereby committed an offence punishable under Section 9(1)(d) of the said Act.”
+
+> _Exhibit C2_
+
+_2_ nd _Charge_
+
+> “…that you, sometime December 2017, did facilitate participation by others in remote gambling, in accordance with arrangements made by a principal, one Ah Mark, to wit, you create and issued an account styled as ‘58yg347’, on the website, http://www.apple38.com, which is a remote gambling service not provided by an exempt operator or a person otherwise exempt under Section 40 of the Remote Gambling Act 2014 (No. 34 of 2014), which allowed one or more individuals to gamble using remote communication, on soccer fixtures from 28th February 2018 to 14th March 2018 with a total bet value of SGD17401, and as a result, you facilitated one or more individuals to commit an offence under Section 8 of the said Act and you have thereby committed an offence punishable under Section 9(1)(d) of the said Act.”
+
+> _Exhibit C3_
+
+_5_ th _Charge_
+
+> are charged that you, between 2nd March 2018 to 11th March 2018, in Singapore, did gamble using remote communication, to wit, by using the account styled as ‘za4852’ to place bets with a total value of SGD37811.58 for horse racing for Singapore Kranji Race, by using a remote gambling service provided through http://www.skk268.com, when the said remote gambling service was not provided by an exempt operator or a person otherwise exempt under Section 40 of the Remote Gambling Act 2014 (No. 34 of 2014), and you have thereby committed an offence punishable under Section 8(1) of the said Act.
+
+## C   Statement of Facts
+
+6       The Statement of Facts (_Exhibit PS1_) prepared by the Prosecution which the accused had admitted to without qualification is as follows:
+
+> “1    The accused is Ng Chuan Seng (Male/47 years old), a Singapore citizen.
+
+> 2    The complainant is Pang Hung Chew Gerard, a Police officer attached to the Specialised Crimes Branch, Criminal Investigation Department.
+
+> **FIRST INFORMATION REPORT**
+
+> 3    On 14 March 2018 at around 16:02 hours, the complainant lodged a police report at Police Cantonment Complex to report that he has conducted a search and seizure at the accused’s place due to suspected Remote Gambling Act (“RGA”) offences committed by the accused.
+
+> **BACKGROUND FACTS**
+
+> 4    Sometime in 2017, the accused got to know a Malaysian male namely one “Ah Mark” who approached him to place bet on illegal horse races. The accused agreed. As time goes by, the said “Ah Mark” again introduced him to accept bets relating to illegal soccer matches for a commission of 10% of the total bet value accepted.
+
+> 5    Having been issued with a senior master agent account, sometime around December 2017 to January 2018, the accused in turn issued four accounts for the punters to place bets from the website www.apple38.com. The said website was a remote gambling service not provided by an exempt operator under section 40 of the RGA. “Ah Mark” also supplied the accused with the username “518yg” with a password for the account. The accused would use his Macbook Air to access the website.
+
+> 6    The punters would then be able to log into the website to place bets. As the senior master agent, the accused had access rights to every single transaction which his punters had effected. From time to time, he would meet up with his punters to settle their accounts. If the punters had lost more money than what they had won, they would hand the losses in cash to him.
+
+> 7    On 14th March 2018 at about 1.50 pm, a party of police officers from Criminal Investigation Department conducted an operation and raided Blk 30 Marsiling Road #14-311. Therein, the accused was arrested for offences under the provisions of the Remote Gambling Act. A search was conducted and the following items were recovered and seized:
+
+>> (i)    One Macbook Air laptop with cable and adaptor;
+
+>> (ii)   One Oppo White color phone with SIM card;
+
+>> (iii)   One Singtel” optical network terminal with cables and power adaptor; and
+
+>> (iv)   One “Singtel” wireless router with cables and power adaptor.
+
+> **FACTS RELATING TO MAC-907517-2018**
+
+> 8    Sometime between December 2017 to January 2018, the accused did manage remote gambling by others in accordance with arrangements made by a principal of the agent by issuing user id and password via website www.apple38.com with an account 58yg3328 to one person nicknamed “Shi Lai” and thereafter by accepting bets to forecast the following soccer fixtures held on 28th February 2016 to 14th March 2018:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="23.4%"> <col width="51.06%"> <col width="25.54%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">&nbsp;</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Events</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Amount of Bets S$</b></p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">28<sup>th</sup> February 2018 to 14th March 2018</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">UEFA Champions League</p><p align="justify" class="Table-Para-1">Japan J League</p><p align="justify" class="Table-Para-1">Colombia Cup</p><p align="justify" class="Table-Para-1">Uruguay Reserve League</p><p align="justify" class="Table-Para-1">AFC Champions League</p><p align="justify" class="Table-Para-1">Mexico Women Primera Division</p><p align="justify" class="Table-Para-1">Brazil Cearense</p><p align="justify" class="Table-Para-1">Holland Reserve League Mexico Cup</p><p align="justify" class="Table-Para-1">International Friendly Women</p><p align="justify" class="Table-Para-1">Jamaica Premier League</p><p align="justify" class="Table-Para-1">Brazil Paulista</p><p align="justify" class="Table-Para-1">Chile Scotiabank Primera Division</p><p align="justify" class="Table-Para-1">Egypt Premier League</p><p align="justify" class="Table-Para-1">English Premier League</p><p align="justify" class="Table-Para-1">Turkey Super League U21</p><p align="justify" class="Table-Para-1">South Australia State League 1</p><p align="justify" class="Table-Para-1">Concacaf Champions League</p><p align="justify" class="Table-Para-1">Brazil Carioca</p><p align="justify" class="Table-Para-1">Mexico Liga Premier Serie A</p><p align="justify" class="Table-Para-1">Tunisia Professional Ligue 1</p><p align="justify" class="Table-Para-1">Korea K League</p><p align="justify" class="Table-Para-1">Brazil Cup</p><p align="justify" class="Table-Para-1">Copa Libertadores</p><p align="justify" class="Table-Para-1">Hungary Cup</p><p align="justify" class="Table-Para-1">Indonesia Governor Cup</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">16958/-</p></td></tr></tbody></table>
+
+  
+  
+
+> 9    The total record of bets related to this charge amounted to $16,958. By virtue of the forgoing, the accused has committed an offence punishable under section 9(1)(d) of the RGA.
+
+> **FACTS RELATING TO MAC-907518-2018**
+
+> 10    Sometime between December 2017 to January 2018, the accused did manage remote gambling by others in accordance with arrangements made by a principal of the agent by issuing user id and password via website www.apple38.com with an account 58yg347 to one person nicknamed “Kwang 628” and thereafter by accepting bet.
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="23.4%"> <col width="51.06%"> <col width="25.54%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">&nbsp;</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Events</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Amount of Bets S$</b></p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">28th February 2018 to 14th March 2018</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">UEFA Champions League</p><p align="justify" class="Table-Para-1">Japan J League</p><p align="justify" class="Table-Para-1">Colombia Cup</p><p align="justify" class="Table-Para-1">Uruguay Reserve League</p><p align="justify" class="Table-Para-1">AFC Champions League</p><p align="justify" class="Table-Para-1">Mexico Women Primera</p><p align="justify" class="Table-Para-1">Division</p><p align="justify" class="Table-Para-1">Brazil Cearense</p><p align="justify" class="Table-Para-1">Holland reserve League</p><p align="justify" class="Table-Para-1">Mexico Cup</p><p align="justify" class="Table-Para-1">International Friendly Women</p><p align="justify" class="Table-Para-1">Jamaica Premier League</p><p align="justify" class="Table-Para-1">Brazil Paulista</p><p align="justify" class="Table-Para-1">Chile Scotiabank Primera</p><p align="justify" class="Table-Para-1">Division</p><p align="justify" class="Table-Para-1">Egypt Premier League</p><p align="justify" class="Table-Para-1">English Premier League</p><p align="justify" class="Table-Para-1">Turkey Super League U21</p><p align="justify" class="Table-Para-1">South Australia State League 1</p><p align="justify" class="Table-Para-1">Concacaf Champions League</p><p align="justify" class="Table-Para-1">Brazil Carioca</p><p align="justify" class="Table-Para-1">Mexico Liga Premier Serie A</p><p align="justify" class="Table-Para-1">Tunisia Professional Ligue 1</p><p align="justify" class="Table-Para-1">Korea K League</p><p align="justify" class="Table-Para-1">Brazil Cup</p><p align="justify" class="Table-Para-1">Copa Libertadores</p><p align="justify" class="Table-Para-1">Hungary Cup</p><p align="justify" class="Table-Para-1">Indonesia Governor Cup</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">17401/-</p></td></tr></tbody></table>
+
+  
+  
+
+> 11    The total record of bets related to this charge amounted to $17,401. By virtue of the forgoing, the accused has committed an offence punishable under section 9(1)(d) of the RGA.
+
+> **FACTS RELATING TO MAC-907521-2018**
+
+> 12    In between 2nd March 2018 to 11th March 2018, the accused did gamble remotely via website www.skk268.com with an account za4852 on horse racing for Singapore Kranji Race with forecast, win and place tickets ranging an average price from S$1.75 to S$4.50 per ticket as follows:
+
+>> (a)    400 Forecast Tickets with a total bet valued of S$751.58; and
+
+>> (b)    3800 Win Tickets & 5300 Place Tickets with a total bet valued of S$37,060.00.
+
+> 13    The total record of bets related to the accused amounted to $37,811.58. The accused obtained the website, along with its username and password from the same “Ah Mark’. The said website was a remote gambling service not provided by an exempt operator under section 40 of the RGA.
+
+> 14    By virtue of the forgoing, the accused has committed an offence under section 8(1) RGA.
+
+> 15    The accused has admitted to the above offences and is charged accordingly.
+
+## D.   Antecedents
+
+7       The Accused had the following antecedent:
+
+> 17.6.1991    One charge of theft in dwelling with common intention under s 380 r/w s 34 Penal Code (Cap 224). He was sentenced to one day’s imprisonment and a fine of $3,000 in Court 7.
+
+## E.   Prosecution’s Address on Sentence
+
+8       In its oral address on sentence, the Prosecution had highlighted that the accused had pleaded guilty to two s 9 Remote Gambling Act charges as well as one s 8 Remote Gambling Act charge. In support of its address on sentence, the Prosecution had uploaded sentencing precedents in relation to the s 9 Remote Gambling Act charges as well as the recent High Court decision in _PP v Lau Jian Bang (MA 9332/2018)_ in relation to offences under s 8 Remote Gambling Act.
+
+9       It was submitted that the accused person had pleaded guilty to charges involving the sum of $16,958 as well as $17,401 under s 9 Remote Gambling Act. It was further submitted that the precedents showed that facts involving these amounts would generally attract imprisonment sentence of about four months’ imprisonment as well as a fine of $30,000. The Prosecution sought sentences in this range for this particular case as well. The sentencing precedents relied on by the Prosecution are set out below:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="6.94138827765553%"> <col width="12.3824764952991%"> <col width="13.1426285257051%"> <col width="19.1438287657532%"> <col width="22.9645929185837%"> <col width="25.4250850170034%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>S/N</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Charge No</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Name</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Proceeded charges</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Brief Facts</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Sentence</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">1</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC 93043-2015</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Ho Yong Boon</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">1 x s 9 RGA</p><p align="justify" class="Table-Para-1">1 x 9 RGA and 1 x s 22,</p><p align="justify" class="Table-Para-1">184 taken into</p><p align="justify" class="Table-Para-1">consideration</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">The accused used his account on a remote gambling website to issue a betting account to an unknown individual. For this role, the accused would earn a commission of 30% of the punter’s losses. The bets placed on the said account issued by the accused totalled 41 bets, involving $18,556</p><p align="justify" class="Table-Para-1">in March 2015</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">4 months’ imprisonment and $30,000 fine (i/d 4 weeks’ imprisonment)</p><p align="justify" class="Table-Para-1">(no appeal)</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">2</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC 901014- 2016 and Ors</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Chiam Poh Tin</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">3 x s 9 RGA</p><p align="justify" class="Table-Para-1">4 x s 9 RGA taken into consideration</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">The accused had been acting as a facilitator in the unlawful remote gambling of other by collecting bets from her punters and entering them into an illegal online gambling website. She earned a commission of 8% of bets placed by punters Bets amounted to <b>$13,013.60, $14,031.10</b> and <b>$7,415</b> respectively</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">For bets involving <b>$13,013.60</b>: - 18 weeks’ imprisonment and $30,000 fine (in default 4 weeks’ imprisonment).</p><p align="justify" class="Table-Para-1">For bets involving <b>$14,031.10</b>: - 18 weeks’ imprisonmentand $30,000 fine (in default 4 weeks’ imprisonment)</p><p align="justify" class="Table-Para-1">For bets involving <b>$7415</b>: - 12 weeks’ imprisonment and $20,000 fine (in default 3 weeks’ imprisonment)</p><p align="justify" class="Table-Para-1">Global sentence: 30 weeks’ imprisonment and fine of $80,000</p><p align="justify" class="Table-Para-1">(no appeal)</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">3</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC 91646-2016</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Lee Zixi Keith</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">2 x 9 RGA2 x s 9 RGA taken into consideration</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">The accused had been acting as an agent by creating punter accounts for punter to enable them to place bets on an illegal remote gambling website. He had additionally also introduced another agent, ‘Arav’ to his upstream agent. As agent, the accused fought 60% of bets placed Bets amounted to $4,800 and $15,914</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">For bets involving $4800 - 2 months’ imprisonment For bets involving $15,914 - 4 months’ imprisonment and $40,000 fine (in default 4 weeks’ imprisonment)</p><p align="justify" class="Table-Para-1">Global sentence- 4 months’ imprisonment and $40,000 fine (in default 4 weeks’ imprisonment)</p><p align="justify" class="Table-Para-1">(no appeal)</p></td></tr></tbody></table>
+
+  
+  
+
+10     In relation to s 8 Remote Gambling Act, it was submitted that in the judgment for _Lau Jian Bang[^1]_, Justice Aedit Abdullah held at \[60\] that for first time offenders, fines are generally imposed. In the same paragraph, he further held that the starting point for s 8 Remote Gambling Act offences should be $1,000 and that it should be calibrated upwards in accordance with the amount of the bets involved. In the present case, the accused had placed bets amounting to $37,811.58 which was a fairly substantial amount. Accordingly, the Prosecution had sought the imposition of the maximum fine of $5,000.
+
+11     It was the Prosecution’s case that the imprisonment terms for the s 9 Remote Gambling Act charges should run consectively and as such the global sentence should be eight months imprisonment and a total fine of $65,000.
+
+## F.   Mitigation
+
+12     In his written plea in mitigation, his Defence Counsel had highlighted that the accused had faced _six charges_ namely:
+
+> (i)     four charges of facilitating the participation by others in remote gambling in accordance with arrangements made by a principal under s 9(1)(d) Remote Gambling Act 2014 (No. 34 of 2014) in _MAC 907517-2018_ to _MAC 907520-2018_;
+
+> (ii)     one charge of gambling using remote communication and a remote gambling service that is not provided by an exempt operator under s 8(1) Remote Gambling Act 2014 (No. 34 of 2014) in _MAC 907521-2018_ and
+
+> (iii)     one charge of collecting money staked by individuals in remote gambling related to illegal betting activities and distributing the said money to a principle under s 9(1)(c) Remote Gambling Act 2014 (No. 34 of 2014) in _MAC 907522-2018_;
+
+13     It was submitted that the accused regretted his actions and had pleaded guilty to the the charges in _MAC 907517-2018, MAC 907518-2018, MAC 907521-2018_ as well as _MAC 907522-2018_ and had given his consent for the others to be taken into consideration. I noted that this was despite the fact that the Prosecution had actually proceeded on three charges namely _MAC 907517-2018, MAC 907518-2018_ and _MAC 907521-2018_ instead of the four as cited in the written plea in mitigation dated 18 December 2019.
+
+14     It was highlighted that the accused had accepted the Statement of Facts without qualification.
+
+15     His Counsel beseeched to the Court to show leniency and compassion towards the accused and to consider imposing a global sentence of _not more than four months’ imprisonment_. It was submitted that the grounds that might persuade the Court towards such a decision was established below.
+
+#### Background
+
+16     The accused is a 46-year old Chinese Singaporean male.
+
+17     He is married with an elderly 71-year old mother who has been ill since 2016. His mother had been diagnosed with diabetes and had to have her kidney removed in March 2016. She has been on dialysis since then which has been a great financial burden on the family. In February 2018, it was submitted that at the time of the alleged offences, the accused’s mother also suffered a heart attack. He also has an elderly father who is 73 years of age. It was submitted that the monthly expenses for his parents amounts to $3,000.
+
+18     The accused is a sole breadwinner of his family supporting his family of four and their family lives in a 3-room HDB flat.
+
+19     The accused’s highest educational qualification is Secondary 2 and he had worked various jobs in his lifetime. At the time of the offences he was working as a delivery man on top of various odd jobs to support his family.
+
+#### Circumstances of the case
+
+20     It was submitted that the total amount of monies involved in all the charges proceeded on was $73,950.58 with the breakdown being:
+
+> a)     Two charges (MAC 907517-2018 to MAC 907518-2018): Total bet value of $35,039 for two illegal betting accounts created;
+
+> b)     One charge (MAC 907521-2018): Placed bets amounting to $37,811.58;
+
+> c)     One charge (MAC 907522-2018): Collected monies staked by others amounting to $1,100.
+
+## 1st and 2nd Charge - MAC 907517-2018 and MAC 907518-2018
+
+21     It was submitted that the accused was working odd jobs at the time to support his wife and elderly parents. His mother was also ill with diabetes and required dialysis after her kidney failed. Hence, the accused was under tremendous pressure to make ends meet. Wanting to earn extra income, the accused turned to gambling with some friends, for whom he set up accounts on the http:// www.apple38.com in order to collect bets from others. He would then receive a commission from the bets placed on these accounts, which totaled $35,039 for the charges proceeded on. It was submitted that he did this in order to supplement his monthly income.
+
+## 5th Charge – MAC 907521-2018
+
+22     In the month of March 2018, under the cloud of his mother’s ill health, the accused also placed bets himself on horse races at the Singapore Kranji Race on the website http:// www.skk268.com totaling $37,811.58.
+
+## 6th Charge
+
+23     It was submitted that the accused further collected $1,100 by acting as a runner for a principal during the month of March 2018. This was again to earn supplemental income.
+
+## Mitigating Grounds
+
+#### Plea of guilt
+
+24     It was submitted that the accused regretted his actions. He also wished to apologise to all affected parties. According to his Counsel, it was not at all his intention to fall afoul of the law and he had merely wished to earn an income in order to support his elderly mother. The accused pleaded with the Court to grant him a light sentence.
+
+#### Difficult Family Circumstances
+
+25     It was further submitted that the accused is looking after his elderly mother who is ill and was in deep financial difficulty due to her high medical expenses. It was the Defence’s case that he is the sole primary care-giver for his elderly mother and this mitigating factor has good basis in law as seen in _PP v Lee Bee Ngan Karen[^2]_ at \[72\] to \[73\]. Where an offender commits an offence due to circumstances that is not brought about by any fault of his own, such as illness or some other pressing personal circumstance not of his making, a different treatment by the Court may be necessary.
+
+## Sentencing Considerations
+
+## 1st and 2nd Charge - MAC 907517-2018 to MAC 907518-2018
+
+26     It was submitted that in the case of _PP v Low Jing Da[^3]_, the judge had imposed a sentence of 9 months’ imprisonment and a fine of $30,000 in default of 3 weeks’ imprisonment for the 1st charge and a sentence of 9 months imprisonment and a fine of $50,000 in default 5 weeks’ imprisonment for the 2nd charge[^4]. For each charge, the accused had recruited an agent, created an illegal betting account for them and trained them to collect bets from others.
+
+27     It was the Defence’s case that whilst the circumstances giving rise to the s 9(1)(d) charges (MAC 907517-2018 to MAC 907518-2018) proceeded on are similar, the factual matrix in the present case was less severe as the accused had been cooperative with investigations and had not set out to lie to the investigators. This is in contrast with _Low Jing Da_ where the accused had been uncooperative with the police by attempting to destroy the evidence. It was submitted that as a result, the district judge had imposed a harsher sentence on the accused in light of this aggravating factor which was absent in the present case. Accordingly, a sentence of three months’ imprisonment was sought.
+
+## 5th Charge – MAC 907521-2019
+
+28     It was submitted that in _PP v Wee Teck Chuan[^5]_, the judge had imposed a sentence of two months’ imprisonment for the single charge under s 8(1) Remote Gambling Act 2014 (No.34 of 2014). The accused had bet a grand total of $34,408 on soccer fixtures. It was further submitted that this was analogous to the accused’s case where he had placed bets amounting to $37,811.58 on horse races at the Singapore Kranji Race via website http:// www.skk268.com. Accordingly, it was the Defence’s case that a similar sentence of no more than two months’ imprisonment be imposed.
+
+## 6th Charge – MAC 907522-2018
+
+29     It was submitted that given the amount of money involved in the 6th charge was $1,100, a sentence of no more than one week’s imprisonment was sought.
+
+30     It was the Defence’s case that the accused was unable to pay any fine imposed as he is in deep financial difficulty owing to his mother’s ill health. Accordingly, it was submitted that a global sentence of _no more than five months_ was sought which also accounts for any fines that may be otherwise be imposed.
+
+31     In conclusion, it was submitted that the accused admitted that he had committed these offences and was extremely remorseful for his actions. He vowed that this would be his last ever brush with the law and he would turn over a new leaf upon release. He did not wish to contest the charges against him nor did he wish to waste the court’s valuable time and resources in this regard. In light of the abovementioned facts, his Counsel had pleaded with the Court for utmost leniency and compassion to be shown in sentencing the accused.
+
+## G.   The Sentences
+
+#### Prescribed punishment for an offence under s 8(1) Remote Gambling Act
+
+32     The prescribed punishment for an offence of unlawful remote gambling under s 8(1) Remote Gambling Act 2014 (No. 34 of 2014) is a fine not exceeding $5,000 or to imprisonment not exceeding six months or to both. In the present case, the accused had placed bets with a total value of S$37,811.58 for horse racing for Singapore Kranji Race by using a remote gambling service.
+
+33     In sentencing, I was guided by the recent High Court decision in _Lau Jian Bang v PP_ at \[60\] where in adopting a single starting point approach it was held that a fine of $1,000 should be the starting point for offences under s 8 Remote Gambling Act for first time offenders. The next step would involve adjusting the fine imposed to ensure that the sentence imposed would adequately serve the ends of general deterrence. In that case, as the amounts wagered were significant i.e. totalling $18,000 and $21,000 respectively on the proceeded charges, the maximum fine of $5,000 were imposed for each charge to reflect the seriousness of the accused’s offending conduct.
+
+34     The amounts wagered in the present case was significant as the accused had placed bets amounting to S$37,811.58 for horse racing by using a remote gambling service. This was the accused’s first offence under the Remote Gambling Act. Accordingly, I was of the view that the maximum fine of $5,000 in default one week’s imprisonment should similarly be imposed in respect of the charge in _MAC 907521-2018_.
+
+35     I next turn to the two charges under s 9(1)(d) Remote Gambling Act.
+
+#### Prescribed punishment for an offence under s 9(1)(d) Remote Gambling Act
+
+36     The prescribed punishment for an offence of facilitating the participation by others in remote gambling in accordance with arrangements made by a principal under s 9(1)(d) Remote Gambling Act 2014 (No. 34 of 2014) is a fine of not less than $20,000 and not more than $200,000 or to imprisonment for a term not exceeding five years or to both.
+
+37     In the present case, the accused had acted as a facilitator in the unlawful remote gambling. He had been issued with a senior master agent account sometime around December 2017 to January 2018 and he in turn issued four accounts for the punters to place bets from the website www.apple38.com. As the senior master agent, the accused could access every single transaction which his punters had effected. For accepting bets relating to illegal soccer matches, he received a commission of 10% of the total bet value accepted. From time to time, he would meet up with his punters to settle their accounts. If the punters had lost more money than what they had won, they would hand the losses in cash to him.
+
+38     I was mindful that in _Lau Jian Bang v PP_ at \[38\] the High Court had highlighted the following:
+
+> “38.  The priorities of the Remote Gambling Act I targeting those that are involved in organising and profiting from unlawful remote gambling service are also reflected in the relative severity of the stipulated punishments for the provision of unlawful remote gambling service under s 9 of the RGA. Such offences attract potential fines of between $20,000 and $200,000, together with an imprisonment term of up to five years. This stands in contrast with the offence of unlawful remote gambling under s 8 of the RGA, which attracts a fine of up to $5,000 or to a term of imprisonment not exceeding six months.”
+
+39     I was further guided by the sentencing precedents tendered by the Prosecution as set out at paragraph 9 above although I was mindful that it lacked precedential value as there were no written grounds available for all three cases. Nevertheless, they were useful as a gauge of the sentences that were imposed for similar cases.
+
+40     In my consideration of the appropriate sentences to be imposed, I took into account that the accused was a first offender for such offences who had pleaded guilty on the first day of a three-day trial that was fixed from 29 July 2019 to 31 July 2019. I also took into account the serious nature of the offences, the number of proceeded charges and the quantum of the bets placed for each of the proceeded charges as well as the fact that two other similar charges were taken into consideration. His assertion that he had committed the offences to earn an income in order to support his elderly mother and his difficult family circumstances could not be considered as a valid mitigating factors.
+
+41     After a careful consideration of the facts before me as well as the accused’s plea in mitigation, I agreed with the Prosecution’s submissions on sentence and imposed a sentence of _four months’ imprisonment as well as a fine of $30,000 in default three weeks’ imprisonment_ for each of the charges in _MAC 907517-2018_ and _MAC 907518-2018_. In my view, the sentences were just and appropriate to reflect the need for general deterrence as well as his level of culpability for the present case.
+
+42     I further ordered the sentences to run consecutively in view of the number of charges against him as well the fact that he had managed four accounts for the punters to place bets from. This is unlike _PP v Low Jing Da_ where the offender had faced only _two charges_ and the Prosecution had proceeded on both charges.
+
+43     Dissatisfied with my decision, the accused had filed a Notice of Appeal against his sentences on 30 December 2019. As at 13 January 2020, he is presently serving his sentences with effect from 10 January 2020 as his fines remained unpaid.
+
+* * *
+
+[^1]: <span class="citation">\[2019\] SGHC 254</span>.
+
+[^2]: The correct and complete citation should have been _PP v_ _Lim:_ _Bee Ngan Karen_ <span class="citation">\[2015\] 4 SLR 1120</span>.
+
+[^3]: The complete case citation is _PP v Low Jing Da:_ <span class="citation">\[2017\] SGDC 81</span>. The appeal against sentence was dismissed.
+
+[^4]: The court records indicate that the sentence for the 2nd charge was 9 months’ imprisonment and a fine of $20,000 in default two weeks’ imprisonment and not a fine of $50,000 in default five weeks’ imprisonment. As the sentences were ordered to run concurrently, the global sentence was nine months’ imprisonment and total fine of $50,000 in default five weeks’ imprisonment.
+
+[^5]: The complete citation should have been _PP v Wee Teck Chuan_ <span class="citation">\[2018\] SGDC 287</span>. The actual sentence imposed for the s 8(1) Remote Gambling Act charge in DAC 900440-2018 was two weeks’ imprisonment and not two months’ imprisonment as stated in the plea in mitigation.
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F24083-SSP.xml)

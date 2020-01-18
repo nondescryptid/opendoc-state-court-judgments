@@ -1,0 +1,388 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Mah Kiat Seng  
+
+### \[2020\] SGMC 4
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">MAC 912399/2017 and MAC 912400/2017, Magistrate's Appeal No. 9036/2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">13 January 2020</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">Magistrates Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Kenneth Yap</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">DPP Quek Jin Feng for the Public Prosecutor; Ms Dierdre Grace Morgan (Drew &amp; Napier LLC) for the Accused</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Mah Kiat Seng</td></tr></tbody></table>
+
+\[LawNet Editorial Note: An appeal to this decision has been filed in MA 9036/2019/01.\]
+
+13 January 2020
+
+### District Judge Kenneth Yap:
+
+The accused is an alumnus of the National University of Singapore (“NUS”). He claimed trial to two charges, one for criminal trespass into a seminar room at the NUS, and another for voluntarily causing hurt to a security guard who attempted to detain him. After hearing the evidence, I acquitted the accused of the charge of criminal trespass, but convicted him for causing hurt and sentenced him to the maximum fine of $5,000. The accused has appealed against both conviction and sentence.
+
+### Charges
+
+2       The charges tendered by the prosecution read as follows:
+
+> MAC 912399/2017
+
+> You … are charged that you on 30 November 2017, at or about 4.48pm, at room 3-3 of the Mochtar Riady Building, National University Singapore Business School, located at 15 Kent Ridge Drive, Singapore, did commit criminal trespass, to wit, by entering the said room in the possession of the Management of the National University of Singapore with intent, thereby to cause annoyance to the said management, and you have thereby committed an offence punishable under s 447 of the Penal Code.
+
+> MAC 912400/2017
+
+> You… are charged that you on 30 November 2017, at or about 5.15pm, in room 3-3 of the Mochtar Riady Building, National University Singapore Business School, located at 15 Kent Ridge Drive, Singapore, did voluntarily cause hurt to Suresh Saundrapandian, to wit, by punching the said Suresh Saundrapandian multiple times, and you have thereby committed an offence punishable under s 323 of the Penal Code (Cap 224,
+
+3       The maximum penalty for criminal trespass is imprisonment of up to three months and/or fine of up to $1,500. The maximum penalty for the charge of voluntarily causing hurt (“the VCH charge”) is imprisonment for up to two years, and/or a fine of up to $5,000.
+
+4       By way of addendum, I would highlight that the charge on criminal trespass was originally framed as being committed with the intention to cause annoyance to Suresh s/o Saundrapandian (PW6) (“Suresh”), who was the security officer allegedly assaulted by the accused. At the close of the prosecution’s case, I exercised my power under s 230(1))(g) of the Criminal Procedure Code to reframe the charge in broader terms as intending to cause annoyance to the management of the NUS. I was concerned at that point that it would be illogical for the accused to intend to annoy someone whom he had not yet met at the point of entry into the classroom, for it was not disputed that PW6 Suresh only arrived at the seminar room subsequent to the accused’s entry into the same. In any case, the point is moot as I eventually acquitted the accused despite this broader framing of the charge, and the prosecution has not filed appeal against the acquittal.
+
+### The Prosecution’s Case
+
+5       In gist, the prosecution’s case was that on 30 November 2017 at about 4.48 pm, the accused entered Classroom 3-3 at the third level of the Mochtar Riady Building (“MRB”) without permission. While in the classroom, the accused was alleged to have played loud music. Security officer Suresh (PW6), who was on duty at the material time, was informed of the complaint and proceeded to investigate. When PW6 engaged the accused within the classroom, the accused did not provide his identity, but instead packed his belongings and tried to leave. PW6 attempted to detain the accused, which led to a scuffle, during which the accused allegedly punched PW6 multiple times. During the scuffle, a cleaner, one Mahendran a/l Krishnan (PW2) (“Mahendran”), heard PW6 shouting and came to his assistance. The accused then ran away and left the MRB.
+
+6       In support of its case, the prosecution called a total of eight witnesses:
+
+> (a)     Rohaiyah binti Sarmin (PW1), a receptionist at the NUS Mochtar Riady Building (“MRB”);
+
+> (b)     Mahendran a/l Krishnan (PW2), a cleaner at MRB;
+
+> (c)     Tan Chee Kin (PW3), a facilities manager at MRB;
+
+> (d)     Azmi bin Salleh (PW4), a Senior Associate Director overseeing facilities management at MRB;
+
+> (e)     Dr Sun Wenxin (PW5), the doctor who had examined the accused;
+
+> (f)     Suresh s/o Saundrapandian (PW6), a security officer and the victim in relation to the VCH Charge;
+
+> (g)     Dr Christopher Brian Tambo (PW7), the doctor who had examined PW6; and
+
+> (h)     IO Muntazar bin Baharum (PW8) who was the Investigation Officer responsible for this case.
+
+7       It was undisputed that the MRB (in which Classroom 3-3 was situated) belonged to the NUS. It was also not in dispute that the accused, who was aged 43 at the material time of the alleged offences, was an alumnus of NUS.
+
+8       Rohaiyah binti Sarmin (PW1), a receptionist at the MRB, testified that sometime between 3 pm to 4 pm on 30 November 2017, a student approached her to complain about “an outsider turning up the volume in one of the seminar rooms”. The complainant said it was so loud that he could not concentrate. PW1 then called Tan Chee Kin (PW3), a facilities manager at the MRB, to inform him of the complaint and allowed the student to speak to PW3 directly. Upon speaking to the complainant, PW3 was told that that person had been playing loud Chinese Opera music from Youtube in Classroom 3-3, and that it had disturbed the complainant’s studies.
+
+9       PW6 gave evidence that as he approached Classroom 3-3, he could hear music coming from the classroom. As he entered the classroom, he observed the accused to be at the lecturer’s table and streaming music from Youtube. PW6 said that he approached the accused in the classroom, identified himself as a security officer to the accused, and asked the accused whether he was a professor/lecturer or a student[^1]. At that time, PW6 was wearing a white polo shirt with his tag which displayed his private security identification card, and the word “security” was on display on PW6’s sleeve[^2]. In response, the accused identified himself as a student but when PW6 requested for his identification card, the accused kept quiet, packed his things and attempted to leave the room[^3]. PW6 recounted that there was a student in the room at the time, but he had asked the student to leave the room as the accused was packing his belongings[^4]. The student was therefore not a witness to what would transpire.
+
+10     According to PW6, the accused tried to leave after packing his things. PW 6 tried to stop the accused from leaving by holding on to the latter’s bag, as well as holding on to the accused’s arm above his left elbow[^5]. In response, the accused turned around and punched him with the closed fist of his right hand[^6]. According to PW6, the accused then rained multiple punches on PW6 on his forehead, hands and left eye. PW6 recounted that he tried to ward off the blows by holding both his hands up with palms facing out. PW6 pushed the accused against the whiteboard as the punching continued[^7].
+
+11     According to PW6, the accused then ran to the entrance of the classroom and PW6 gave chase. To stop him from escaping, PW6 extended his arm to block the accused from leaving the room[^8], whereupon the accused continued to punch him[^9]. PW6 then saw PW2 along the corridor and called out to him for help. According to PW6, PW2 grabbed the accused, but the accused punched him again, after which the accused broke free and escaped by running down a staircase[^10]. As PW6 was holding on to the accused’s bag, he did not give chase, and instead called PW3, the facilities manager, as well as campus security. Later that evening, at around 10 pm, PW6 attended at the National University Hospital (“NUH”), where he was examined by PW7 Dr Christopher Brian Tambo.
+
+12     Under cross-examination, PW6 acknowledged that under his standard operating procedure as a security officer, he should not have sought to detain the accused[^11], and instead should have reported the matter to campus security[^12]. He explained that he had only sought to detain the accused because the latter had refused to identify himself, and when the accused started scuffling with him, he felt it was all the more important to obtain details of the accused’s identity to report him to management[^13].
+
+13     PW6’s evidence was corroborated by PW2, who was down the corridor outside Classroom 3-5 when he heard PW6 calling out to him for help[^14]. He observed that PW6 was being beaten up by the accused at the exit of Classroom 3-3. In response, PW2 ran forward and grabbed the accused from behind[^15]. He explained that he grabbed the accused because, from his observations, the accused was the aggressor[^16]. PW2 could tell from the accused’s body movements that the accused was still punching PW6 even as he held on to the accused’s hips from the back[^17]. The accused then pushed PW2’s hands off and ran away, making his way down a staircase.
+
+14     PW3, the facilities manager, testified that PW6 had called him up that evening to inform him that he had been beaten up and sought his advice[^18]. At about 6 pm, he met PW6 and noticed bruises on PW6’s forehead and “fingernail cuts” on PW6’s hands. He also noticed that PW6 seemed to be a state of shock, and that the front shirt pocket of his uniform had been torn off[^19].
+
+15     Dr Christopher Brian Tambo (PW7) testified that at about 10.47 pm on the night of the incident, he examined PW6 at the NUH. His medical report (admitted as P5), stated that PW6 was diagnosed with contusion of the forehead and abrasions on the right hand and left forearm. He confirmed that the injuries observed on PW6 were consistent with the account of the attack given to him by PW6[^20]. PW7 explained that although PW6 had described that he had been punched multiple times, some punches may not have been sufficient to cause bruises, or that bruises could sometimes only occur up to two days after an assault[^21].
+
+16     In summary, with respect to the VCH charge, the prosecution’s case rested on:
+
+> (i)     PW6’s account of the assault;
+
+> (ii)     The corroboration by a passing cleaner (PW2) that the accused was assaulting PW6;
+
+> (iii)     The observation by the facilities manager (PW3) that there were bruises on PW6’s forehead and fingernail cuts on his hands, as well as the fact that PW6’s shirt pocket had been torn off; and
+
+> (iv)     The account of PW7, who examined PW6 later that night, and had provided a medical report detailing a contusion on PW6’s forehead and abrasions on his right hand and left forearm.
+
+### The Defence’s Case
+
+17     The accused took the stand in his own defence. He did not call any other witnesses.
+
+18     The accused gave evidence that he had graduated from the NUS with a Bachelor of Arts and Social Sciences degree in 1999, and had obtained an Honours in 2000. In 2003, he graduated from the NUS with a Masters in Arts and Social Sciences. As an alumnus, he was permitted to enter certain restricted areas in the NUS campus which were not open to the general public, such as the NUS library and the NUS Shaw Alumni House[^22]. During the trial, he testified that he regarded himself as a member of the “NUS community”[^23], and visited NUS regularly to attend seminars and activities such as the Kent Ridge Alumni Day held at the NUS University Town[^24]. In fact, on the day of the offences, the accused was wearing an NUS polo T-shirt when he entered the MRB building[^25].
+
+19     According to the accused, he arrived at NUS around 4 pm by bus on the material date. He explained that he was visiting NUS to attend two seminars, one from 4 pm to 6 pm, and the other from 6.30 pm to 7.30 pm[^26]. He had also intended to visit the Alumni Lounge which he claimed was located in the MRB, as well as to visit the NUS Shaw Alumni House located beside the MRB.
+
+20     At around 4.10 pm to 4.20 pm, the accused recounted that he entered Room 3-3 in the MRB, which he found to be empty and unlocked. He did so in order to charge his power banks and read his newspapers[^27]. While PW6 had recounted that there was a student in the room at the time, the accused denied the existence of the student[^28]. The accused also denied playing any music from the lecturer’s terminal[^29], and refutes that PW6 had heard him playing any music from outside the room.
+
+21     When PW6 entered the room, the accused claimed that he did not know that PW6 was a security officer, as the latter was wearing a jacket over his polo shirt[^30]. However, the accused did construe that PW6 had some authority over the room and had the right to get him to leave. He thus packed up his belongings and wanted to leave the room[^31]. When PW6 saw that the accused was leaving the classroom, the accused claimed that PW6 “suddenly turned violent”, used his hands to grab the accused’s arm, and pushed the accused onto the whiteboard. The accused recounted that his head banged against the whiteboard, and that his bag and elbow had hit against the whiteboard as well[^32], with the accused’s body pressed against him as he hit the whiteboard[^33]. The accused then claimed that PW6 and him tussled over the bag, and PW6 then used the back of his hand to slap the accused’s face twice, causing the accused’s glasses to fall to the ground[^34]. It was undisputed that the accused’s glasses were among the items recovered at the scene. The defence noted that when cross-examined on this point, PW6 had testified that he could not remember how the accused’s glasses ended up on the floor[^35].
+
+22     The accused also testified that PW6 chased him to the outside of the classroom, and when the accused turned over to face him, PW6 used both of his hands to grab the accused’s shoulders and butted the accused’s head with his forehead[^36]. The accused claimed that he had never seen or heard PW2, and did not feel PW2 come into contact with him[^37]. The accused claimed that he then ran away in fear, without returning to reclaim his belongings or his spectacles.
+
+23     The day after the incident, the accused had consulted a doctor, one Dr Sun Wenxin, whose medical report (P2) was admitted. The second paragraph of the report is reproduced for convenient reference:
+
+> Patient refused physical examination thus only visual inspection was done. He had minor scratches over left index finger base and volar aspect; 2 cm scratches over left and right forearm respectively; tiny scratches over left and right elbow; 1 cm healed abrasion mark over right shoulder. Patient was able to move bilateral elbows and shoulders with full range of motion. No swelling or bleeding .was noted. He also had one small hematoma under the right eye, but bilateral eye movements were full and there were no conjunctival involvement.
+
+24     No medical leave was given by Dr Sun Wenxin, and the accused was prescribed with paracetamol tablets and ointment for topical use.
+
+### Closing Submissions by the Prosecution
+
+25     The prosecution in closing submitted that clear evidence had been given by PW6 of the assault, which was corroborated by his injuries as documented in the medical report, as well as the account of the cleaner PW2.
+
+26     The prosecution also highlighted four weaknesses in the accused’s case. First, the accused had claimed that he did not know PW6 was a security officer, and had in fact believed that PW6’s intent was to rob him of his belongings. It was pointed out by the prosecution that the assertion that PW6 was wearing a jacket over his uniform[^38], thereby obscuring his identity as a security officer, was never put to PW6, and that this was a mere afterthought which had arisen only in the accused’s testimony. In contrast, PW6 had given clear and incontrovertible evidence during his evidence in chief that he was not wearing a jacket on the incident in question as they were not allowed to wear jackets while on duty[^39]. PW6’s role as a security officer would therefore have been apparent from his uniform and his tag, which was clearly on display. Seen in this light, the accused’s claim that he thought that PW6 had gone to the classroom to assault and rob him[^40] would have been absurd, especially since they were within the premises of an educational institution and there were students around the premises.
+
+27     Second, the prosecution claimed that the accused’s act of running away rather than seeking help was likewise inconsistent with his belief that he was a victim of an assault and robbery. The accused had acknowledged that he did not seek help from other people in the MRB[^41]. In fact, he had run right past PW1, who was at the reception counter, without even looking at her[^42]. He also did not make a police report on the matter, and when he eventually contacted the Investigation Officer (PW8) on 1 December 2017, it was for the main purpose of obtaining the return of his personal properties[^43].
+
+28     Third, the prosecution pointed out that PW6 had a legal right to apprehend the accused under s 66(6)(a) of the Criminal Procedure Code (Cap 68, 2012 Rev Ed) (“CPC”), and the fact that he had acted beyond his Standard Operating Protocol (“SOP”) by seeking to apprehend the accused[^44] was wholly irrelevant to the VCH Charge. Under s 66(6)(a) of the CPC, where an offence is committed against a person’s property, and the name and residential address of the offender were unknown, the offender may be apprehended by any person acting in aid of the owner of the property. As PW6 had suspected that the accused had committed criminal trespass, he had a legal right to apprehend the accused, and the fact that he had acted against his SOP was at best an internal disciplinary matter. It would not, in the prosecution’s view, serve to raise a defence to the VCH Charge.
+
+29     Fourth, the prosecution submitted that little weight should be placed on the accused’s testimony due to the following material inconsistencies between the case put to PW6, and the evidence that the accused had given while on stand:
+
+> (a)     First, PW6 was cross-examined extensively about his testimony that there was another person in the classroom when he had first entered. He was also asked why he approached the accused and allowed the other person to leave[^45]. The accused however changed his position during his evidence-in-chief, stating that there was no one else in the classroom from the time he entered the classroom to PW6’s entry[^46].
+
+> (b)     Second, PW6 was also cross-examined at length on his testimony that there was a Bluetooth speaker among the accused’s properties, and it was even put to PW6 that his evidence concerning the presence of a Bluetooth speaker was a fabrication[^47]. PW6 maintained under cross-examination his observation of the Bluetooth speaker. Curiously, the accused subsequently confirmed in his evidence-in-chief without hesitation that he was in possession of a Bluetooth speaker that was in working condition[^48]. During cross-examination, he also confirmed PW6’s evidence that PW6 had seen the Bluetooth speaker[^49].
+
+> (c)     Third, although the accused maintained that he did not play music in the classroom, he let slip during one of his lengthy tirades that he did not know that the music he played would annoy PW6 as music was supposed to be soothing[^50]. This was picked up by the Court, and the prosecution noted that the accused made a desperate attempt to retract this concession[^51].
+
+30     For the above reasons, the prosecution urged the court to convict the accused as charged.
+
+### Closing Submissions by the Defence
+
+31     With regard to the s 323 charge, the defence’s case was that (i) the accused never rained multiple punches upon PW6, or in the alternative, should the court find that this did indeed occur, such punches were (ii) in exercise of his right to private defence under s 96 of the Penal Code, or caused so slight harm that he should be acquitted under s 95 of the Penal Code.
+
+#### Accused’s account to be believed over PW6’s testimony
+
+32     The defence’s primary case was that PW6’s evidence of the encounter was unreliable and exaggerated, and that the court should disbelieve his account and prefer the accused’s account that PW6 was the aggressor.
+
+33     First, the defence contended that PW6’s account of the assault, i.e. that he was punched numerous times on his face and on his left eye, was not borne out by the injuries that he had sustained. It was pointed out that the medical report (P5) stated that PW6 had sustained one bruise of about 2 cm diameter over his forehead and two cuts on his right hand dorsum and left forearm respectively. The injuries were also explained by the examining doctor (PW7) as being “relatively minor” and not requiring medical leave[^52]. It was further highlighted that IO Muntaza (PW 8) had testified that he did not recall seeing multiple bruises on PW6’s face or neck on the day of the incident[^53]. In addition, it was highlighted that there were discrepancies between PW6’s testimony and what was recorded in his medical report P5. In particular, PW6 had said that the medical report did not capture the fact that he had a blood clot in his eye (which according to him had cleared up two or three days later)[^54], and that the scratches on his cheeks were not recorded in the medical report because they were just light scratches[^55]. The defence argued that as PW6 could not provide a coherent explanation for the differences between the medical report and his account, his evidence on the stand was likely fabricated. It was also submitted that what injuries were reported were self-induced. In this vein, the accused had suggested on the stand that PW6 could have sustained his injury on his forehead when he had butted the accused’s head with his forehead[^56], or that PW6 could have hit his head against the wall when pushing the accused towards the wall[^57]. It was also suggested by the defence that the “4 cm linear abrasion” on PW6’s right-hand dorsum (in P5) was caused by PW6 using the back of his hand to hit the accused’s face and spectacles.
+
+#### Defences to the VCH Charge
+
+34     In the alternative, the defence submitted that the accused could avail himself of defences under s 95 and s 96 of the Penal Code, which are reproduced for convenient reference as follows:
+
+> **Act causing slight harm**
+
+> 95.    Nothing is an offence by reason that it causes, or that it is intended to cause, or that it is known to be likely to cause, any harm, if that harm is so slight that no person of ordinary sense and temper would complain of such harm.
+
+> **Nothing done in private defence is an offence**
+
+> 96.    Nothing is an offence which is done in the exercise of the right of private defence.
+
+35     Referring to the Court of Appeal case of _Tan Chor Jin v PP_ <span class="citation">\[2008\] 4 SLR(R) 306</span>, the defence noted that to establish a right of private defence in this case, the accused had to demonstrate on a balance of probabilities, inter alia, that (i) an offence affecting the human body had been committed against the accused, (ii) there was no time to seek the protection of public authorities, (iii) the accused reasonably apprehended danger due to an attempt or threat by the victim to commit an offence affecting the body (this being a subjective test), and (iv) the harm caused to the assailant was reasonably necessary in private defence.
+
+36     The defence argued that PW6’s act of grabbing the accused’s bag and arm from behind to prevent him from leaving, pushing the accused against the whiteboard, banging the accused’s head and elbow against the whiteboard[^58], and using his arm to block the entrance of the room to prevent the accused from leaving, gave rise to a reasonable apprehension of danger of bodily harm on the part of the accused. It was pointed out that the accused was so afraid that he had left his personal belongings behind in the room, including his wallet, cash and EZ-Link card. It was further highlighted that the accused’s apprehension of fear would have been heightened by the loss of his glasses, which fell to the ground during the scuffle, as he had had severe myopia of 950 degrees[^59]. This, it was posited, could have made the accused flail his arms in a panic, which could have explained some of the injuries on PW6.
+
+37     The defence also stressed that the test of reasonable apprehension of danger of bodily harm was referred to by the Court of Appeal in _Tan Chor Jin v PP_ as a “subjective test” \[at 46(d)\]. It was suggested that this Court should place itself in the position of the accused and assess how he would have reacted in the face of any particular apprehension of danger. On this note, the defence noted that PW6 was well-built and had a physical advantage over the accused, who had a skinny frame. The defence also alleged that PW6’s act of detaining the accused amounted to wrongful restraint under s 339 of the Penal Code, and was also a breach of PW6’s own Standard Operating Procedure. PW6 noted that when facing an uncooperative suspect, the proper procedure was to call the NUS management and give a full description of the person to management while following him or her at the same time[^60]. Instead, by taking actions into his own hands, PW6 had presented to the accused as an unwarranted aggressor. It was also pointed out by the defence that it was unnecessary for PW6 to chase the accused out of the room, as the accused’s bag (and therefore the means to identify the accused) had been left in the classroom during the struggle at the whiteboard[^61].
+
+38     To further substantiate the argument that the accused was under a reasonable apprehension of bodily harm, the defence pointed out that the relative severity of the accused’s injuries as compared to PW6 showed that PW6 was the clear aggressor. In this regard, the defence provided a summary of the injuries recorded in the medical report and described in the testimonies of both the accused and PW6, and noted that the accused had sustained a small hematoma under the right eye, in addition scratches over his finger, forearms, elbows, and an abrasion mark on his right shoulder, which was argued to be more extensive than that suffered by PW6:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="23.255348930214%"> <col width="33.8332333533293%"> <col width="42.9114177164567%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">&nbsp;</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>PW6</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Accused</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Injuries recorded in Medical Reports (P2 for the accused, P5 for PW6)</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Bruise of about 2 cm diameter over the forehead</p><p align="justify" class="Table-Para-1">4 cm linear abrasion on the right hand dorsum</p><p align="justify" class="Table-Para-1">2 cm linear abrasion on the left forearm</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Scratches over left index finger base and volar aspect</p><p align="justify" class="Table-Para-1">2 cm scratches over left and right forearm respectively</p><p align="justify" class="Table-Para-1">Tiny scratches over left and right elbow</p><p align="justify" class="Table-Para-1">1 cm healed abrasion mark over right shoulder</p><p align="justify" class="Table-Para-1">One small hematoma under the right eye</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Injuries alleged to have been sustained, but not recorded in the medical reports</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Blood clot in left eye the day after the incident</p><p align="justify" class="Table-Para-1">Light scratches on the cheeks</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Bruise to left inner elbow</p><p align="justify" class="Table-Para-1">Scratch to neck</p><p align="justify" class="Table-Para-1">Scratch to right inner elbow</p><p align="justify" class="Table-Para-1">Scratch to right tricep</p></td></tr></tbody></table>
+
+  
+  
+
+39     Finally, it was suggested that the fact that the accused had left his glasses, EZ-link card, power banks and newspapers behind in Room 3-3 indicated how fearful he was of PW6. According to the accused, he did not go back for his belongings because “(m)y life is more precious than my bag”[^62]. In fact, the accused’s apprehension of danger were so great that he only felt safe after he was taking the bus away from NUS[^63].
+
+40     In relation to the account by PW2 Mahendran’s evidence, the defence pointed out that PW2 did not actually see the accused punching PW6 outside the room, but had only seen the accused raising his hand as if to punch PW6, as well as having pushed PW6 and holding PW6’s hand[^64].
+
+41     Accordingly, the defence argued that any injury suffered by PW6 was reasonably necessary in private defence, and that the accused should therefore be acquitted under s 96 of the Penal Code.
+
+42     Finally, the defence also submitted that under s 95 of the Penal Code, there should be no offence where the harm is so slight that no person of ordinary sense and temper would complain of such harm (s 97 of the Penal Code). It was submitted that the bruise of 2 cm diameter on PW6’s forehead was slight, and that indeed Dr Tambo did not think the injury was serious enough to justify the grant of medical leave[^65], suggested that the accused should be acquitted under s 95 of the Penal Code.
+
+### My decision
+
+#### Criminal Trespass
+
+43     In relation to the criminal trespass charge, I was not satisfied beyond reasonable doubt as to the necessary _mens rea_ – i.e. that the accused had entered Room 3-3 or remained there with the intention to cause annoyance to the NUS Management. The room in question was not in an area with restricted access, and no identity checks were conducted on entrants[^66]. It was left unlocked daily from 7 am to at least 10 pm[^67], and could be entered from a publicly accessible corridor. It was also established that students could enter and use the room freely when no lessons were conducted. There was no explicit signage that prohibited entry to the public at large. I was therefore prepared to give the accused the benefit of the doubt that when he entered the room, he believed he had implicit permission to do so as an NUS alumnus. This impression may have been furthered by the fact that the MRB is directly linked to the NUS Shaw Alumni House (which the accused was entitled to enter as an alumnus) via a link-bridge at Level 4, which is just one floor above the third floor where Room 3-3 was located. Both PW3 and PW4 testified that NUS alumni members would regularly pass through the MRB in order to get to the NUS Shaw Alumni House and vice versa[^68]. As pointed out by the defence, where it is established that the accused possesses a reasonable belief that he has some legitimate grounds for being on the complainant’s premises, the court should generally not infer an intention to annoy (per Yong Pung How CJ in _Tee Teng Heng v PP_ <span class="citation">\[2000\] 3 SLR(R) 602</span> at \[15\], citing _Ong Eng Guan v PP_ <span class="citation">\[1956\] MLJ 44</span> with approval).
+
+44     While the prosecution invited the court to draw the inference of the accused’s guilty intent from his lie to PW6 and his defensive reaction after being questioned by PW6, I declined to do so as there was a plausible explanation for the accused’s behaviour. The accused had, prior to trial, been remanded to the Institute of Mental Health (IMH) for psychiatric assessment to ascertain his fitness to plead. Dr Jaydip Sarkar, in his medical report addressed to the court dated 15 Feb 2017, concluded that the accused was fit to plead and had been aware of his actions at the material time, but noted, at \[21(a)\] of his report, that the accused had “an unusual personality characterised by some features of autistic spectrum disorder (although not the full disorder), as well as obsessional and paranoid traits”. The paranoiac nature of the accused was also noted by IO Muntazar, in his report prepared for the application under s 247(3) of the Criminal Procedure Code, where he observed that the accused’s paranoia seemed to be heightened when the IOs were dealing with the accused, on account of the accused’s belief that it was not safe for him to interact with people, especially the police[^69].
+
+45     The “unusual personality” of the accused was plainly evident during court proceedings. He would interrupt witnesses and his own counsel frequently, despite being warned repeatedly by the Court against doing so. He was prone to making outbursts in court which bordered on contemptuous behaviour, and he would have been taken to task as such, were it not for a measure of latitude granted to him in view of the observations made in the IMH Report. Accordingly, I was prepared to accept that given the accused’s peculiar character traits, his defensive reaction towards PW6’s questions may have stemmed from his tendency towards paranoia, and was not indicative of any knowledge that he did not have permission to be in the seminar room in question. On this basis, I was satisfied that the prosecution had not proven that the accused had the requisite _mens rea_ for the offence of criminal trespass, and acquitted him accordingly.
+
+46     The final issue I considered in relation to the criminal trespass charge was whether the alleged act of playing loud music in Room 3-3 would be sufficient to raise an inference that the accused knew that such behaviour exceeded the bounds of his licence to enter the premises and had thereby intended to annoy the management of NUS by such action. While the accused had denied that there was any playing of music, I found it to be unlikely that the receptionist would have fabricated the complaint on music playing. PW6 was likewise clear that he had heard music from Room 3-3 as he was coming down the corridor, although he did acknowledge it was “not very loud” and was contained within the room[^70]. There was no conclusive proof that the accused had actually played the music from the computer terminal in the room, as he had also had his bluetooth speakers with him. On balance, I was not convinced beyond reasonable doubt that the accused was playing music to such a loud extent that one could reasonably infer that he intended to annoy the management of NUS.
+
+#### Voluntarily Causing Hurt
+
+47     I turn next to the VCH charge. I agreed with the prosecution that the combined effect of the evidence pointed overwhelmingly to a sustained assault by the accused against PW6. PW6 provided cogent and consistent testimony of the assault, which was corroborated by PW2. Although PW2 did not observe the assault, having grabbed the accused from behind, his clear impression was that the accused was the aggressor in the portion of the assault outside of the classroom. PW3’s observation of the injuries on PW6 and his torn shirt pocket, as well as PW7’s medical report on his injuries, further confirm the actions of the accused. There was no reason provided or suggested as to why all these witnesses would collaborate and lie in order to frame the accused.
+
+48     In contrast, the accused’s account was riddled with contradictions. He had claimed that he was alone in the class. That however does not explain how there came to be a complaint about noise that was raised through PW1 and PW3 in the first place. The accused’s position that there was no other person in the classroom was also never put to PW6, which was surprising given that this was a clearly material fact. Next, the accused flip-flopped on the question of whether he had a Bluetooth speaker in his possession, having readily admitted to having it with him, even though it was earlier put to PW6 that the speaker was a fabrication.
+
+49     More significantly, the accused’s version of the event was outlandish and beggared belief at points. His explanation that he believed that the accused had accosted him in order to rob him of his belongings made no sense. A robber would not likely have queried the accused as to who he was before robbing him. One also does not expect to be robbed in the relative safety of the classroom in university premises. I also did not agree with the accused that it was not evident that PW6 was a security officer, given that the latter was in uniform and there were suitable accoutrements to indicate his role. Finally, it made no sense for the accused to run helter skelter out of the building instead of reporting to the reception at the ground floor or indeed to anyone in an official capacity that he had just been beaten up and robbed of his belongings.
+
+50     The most troubling feature of the accused’s account is however that he claimed never to have seen PW2 Mahendran at all. Granted, the accused had explained that he was pre-occupied with the alleged assault by PW6. However, there is no reason to disbelieve PW2’s account that he had tried to intervene and had grabbed the accused from behind. The denial of PW2’s presence appears to merely be a bald attempt by the accused to negate the corroborative effect of the latter’s evidence. It simply did not square with the incontrovertible facts that day. There was absolutely no reason for PW2 to have imagined or fabricated his presence at the scene on that day. For these reasons, I was satisfied beyond reasonable doubt that the accused had punched PW6 multiple times.
+
+51     I turn next to the question of whether the accused’s actions were in exercise of his right to private defence. In this regard, it is crucial to note that PW6’s first physical move against the accused was to detain him, and certainly not to assault him. It was not disputed that PW6 had grabbed hold of the accused’s bag and his arm as the latter had tried to leave. However, I did not find that there would have been a reasonable apprehension of fear on the part of the accused at this point, whether by a subjective or objective test. The fact that PW6 had acted beyond his standard operating procedure was not strictly relevant, and in any case, was not a fact known to the accused at that point of time. What was relevant was that PW6’s attempt to detain the accused was legitimate under s 66(6)(a) of the CPC and did not constitute wrongful restraint. This being the case, there was, simply put, no reason for the accused to rain punches on PW6 when they were near the whiteboard in the classroom, when PW6’s only act was to seek to detain him.
+
+52     I also considered whether PW6’s subsequent actions were sufficient to nevertheless raise a defence of private defence on the part of the accused. In this regard, I did not find the relativity of injuries to be particularly helpful. Both had sustained injuries in the scuffle that started near the whiteboard. It is difficult to tell who was the aggressor in the event merely by reference to the outcome. However, the fact that PW6 called out for help to PW2, and that PW2 perceived the accused to continue his attacks even when he had grabbed the accused from behind, strongly suggests that the accused was the true aggressor in the scuffle. There was also no reason why PW6 would, quite out of the blue, launcd such a sustained attack against the accused simply because the latter refused to answer his questions to his satisfaction. Indeed, having assessed the demeanour and straightforward candour of PW6 as a witness, I was satisfied that PW6 had only applied physical force reflexively because the accused had attacked him and tried to run away.
+
+53     The argument of private defence was therefore a flawed one. Any apprehension of danger was in all likelihood borne out of the accused’s own paranoiac reaction to the events that had transpired that day. It was indeed most unfortunate and unnecessary that the episode had come to this conclusion. In any normal circumstance, an apology by the accused for playing his music too loud, and an offer to leave the premises immediately, would have been more than sufficient to diffuse the situation.
+
+54     For the reasons provided, I did not find that the accused had a right of private defence under s 96 of the Penal Code. As the injuries on PW6 were substantive and certainly not superficial, I did not find that s 95 could apply to to exonerate the accused. I accordingly convicted the accused of the VCH charge.
+
+### Antecedents
+
+55     The accused had two minor antecedents, both of which were not offences involving violent behaviour and therefore not directly relevant to sentencing. In 2010, he was convicted for refusing to submit to taking of photograph or fingerprint under s 13(2)(a) of the Registration of Criminals Act (Cap. 268), as well as refusing to provide a DNA sample under section 13E(5)(a) of the same Act. He was fined $500 for each charge.
+
+### Prosecution’s Submissions on Sentence
+
+56     The prosecution submitted that a short custodial term of two weeks’ imprisonment should be imposed for the s 323 offence.
+
+57     It was submitted by the learned DPP that the custodial threshold had been crossed as multiple punches had been thrown by the victim at vulnerable parts of the body, namely the head and face. It was also contended that the victim had not provoked the accused unnecessarily even though he had exceeded his standard operating protocol by seeking to detain the accused, and that the accused had exhibited unwarranted aggression by punching the victim multiple times when the latter was only trying to stop him from leaving.
+
+58     The prosecution further submitted that the assault was conducted in an educational institution, where there should be no place for violence or aggressive behaviour. It was also pointed out that it was aggravating that the accused had assaulted a person in authority, as the victim was wearing the uniform of a campus security officer.
+
+59     Finally, the prosecution highlighted the manner in which the accused had conducted his defence exhibited a complete lack of remorse. In particular, it was pointed out that the accused had repeatedly cast aspersions on the prosecution, alleging that the prosecution was mala fides and motivated by legal action that the accused had taken against the police. Numerous aspersions were also cast on prosecution witnesses, whom the accused said were fabricating evidence against him, without any reasonable basis.
+
+### Mitigation Plea
+
+60     In her written and oral submissions, learned counsel for the defence’s primary position was that an absolute discharge, or in the alternative, a twelve-month conditional discharge under s 8(1) of the Probation of Offenders Act, should be granted to the accused. Her secondary position was that a low fine of $300 should be imposed.
+
+61     Section 8(1) of the Probation of Offenders Act reads as follows:
+
+> 8-(1) Where a court by or before which a person is convicted of an offence (not being an offence the sentence for which is fixed by law) is of the opinion, having regard to the circumstances including the nature of the offence and the character of the offender, that it is inexpedient to inflict punishment and that a probation order is not appropriate, the court may make an order discharging him absolutely, or if the court thinks fit, discharging him subject to the condition that he commits no offence during such period, not exceeding 12 months from the date of the order as may be specified therein.
+
+62     In support of the submission for a discharge, the defence raised the following arguments:
+
+> (a)      **The personality traits of the accused:** The accused had been observed by Dr Jaydip Sarkar of the IMH as having “an unusual personality characterised by some features of autistic spectrum disorder … as well as obsessional and paranoid traits”. It was submitted that it was these character traits that led Mah to react in the way he did in apprehension of PW6’s actions.
+
+> (b)      **Lack of antecedents:** The accused did not have any similar antecedents.
+
+> (c)      **The context and nature of the offence:** The accused commission of the offence was in direct response to PW6 grabbing his bag and left arm, and pushing him against the whiteboard. He also left behind his belongings in an effort to escape the scene. Finally, the injuries caused on PW6 were minor. It was suggested that all these factors evinced a low degree of culpability on the part of the accused
+
+> (d)      **Remanded at IMH:** The accused had already spent two weeks in remand at the IMH from 4 to 18 December 2017. Accordingly, it would not be appropriate to add a short custodial sentence in addition to this period of remand.
+
+63     In the alternative, the defence argued that the custodial threshold had not been breached and a low fine should be imposed because there were no aggravating factors in this case; i.e. the injury was not serious, there was no group attack or attack with a lethal weapon, and there was no record of violence on the part of the accused.
+
+### The Sentence
+
+64     At the outset, I did not think this case to be an appropriate one for which a discharge, absolute or conditional, should be granted. A discharge is generally appropriate where there is no real purpose in punishing the offender, because the principles of deterrence, denunciation, retribution and protection are not applicable on the facts of the case. The accused is not a young offender, and by dint of his master’s degree, must be taken to be in possession of a certain level of intellectual maturity. While it was also true that he possessed certain paranoiac personality traits, Dr Jaydip Sarkar was clear that he “does not suffer from a diagnosable mental disorder nor is her personality disordered or intellectually disabled” (see para 21(a) of the IMH Report). The psychiatrist also noted, in para 21(b) of his report, that the accused was “aware of his actions at the material time and the wrongfulness of trespassing and assaulting others in a general manner”. There was therefore no causal link between the mental state of the accused and his offending behaviour. From my observation of the accused’s behaviour in court, it appeared that he was clear in his cognition of events and was in complete control of his behaviour. He simply lacked the usual self-restraint, moderation and good judgment incumbent in the average person to take proper measure of his own behaviour. In this regard, the accused’s response was also not an instinctive one. This was a sustained scuffled in which he had thrown multiple punches at the victim, some at vulnerable parts of the latter’s body. Were this court to release him on a discharge, it would be tantamount to giving a free pass to any accused person with an objectionable personality to commit minor offences with abandon. That cannot have been the intent of s 8(1) of the Probation of Offenders Act.
+
+65     The defence had also requested the court to take into account the fact that the accused was remanded for two weeks in IMH, and to either backdate or reduce any custodial sentence that may have been warranted. I did not agree with this submission. The power under s 247 of the CPC to remand the accused for psychiatric observation was to ascertain whether the accused was of unsound mind and therefore unfit to plead. While there is a general discretion to backdate a sentence or provide a sentencing discount to take into account any period spent in remand by an accused person (per _Mani Nedumaran v PP_ <span class="citation">\[1998\] 1 SLR 411</span> at \[9\]), I did not find that remand for the purposes of psychiatric observation to be penal in nature. It would not therefore be appropriate to provide a discount of any nature for the period spent in observation in IMH.
+
+66     I turned next to the arguments of the prosecution and whether there were aggravating factors that warranted a custodial sentence in this case. I noted that while the assault was conducted in an educational institution, there was no element of public disquiet or alarm as it was within a contained setting. Neither was any third party present except for PW2 Mahendran, the cleaner who chanced upon the encounter. There was therefore no affront to public safety or security.
+
+67     It would normally be an aggravating factor that the assault was made against a person of authority, namely to a campus security officer. However, I also noted that the facts were exceptional in this case. As a matter of common perception, one does not usually expect security officers to apply physical force to detain potential offenders (although it is within their legal right to do so if a situation under s 66(6)(a) of the CPC presented itself). It would be fair to say that the accused was surprised and caught off-guard by PW6’s action. While the proximate response should have been to reason and comply, I did not find that the circumstances of the encounter as a whole suggested that the assault was motivated by a desire to challenge the authority of a security officer.
+
+68     Instead, I noted that the accused’s overriding objective in the encounter was to run away rather than to inflict injury. Had he intended to inflict serious injury, the throwing of multiple punches would likely have resulted in a far more serious outcome on the part of the victim. I accordingly did not follow the prosecution’s characterisation of the act as being one of aggression on the part of the accused. It was simply a paranoiac and disproportionate response which unfortunately led to a scuffle which resulted to injuries on both parties.
+
+69     Ultimately, the question is, given the age of the accused (43 years at the time of the offence), and the incidence of his particular personality traits, whether imprisonment would be necessary to achieve specific deterrence, and if not, whether it was nevertheless still necessary to imprison him to send a broader message of general deterrence to the general public. In this case, the injuries suffered by PW6 was minor. While there were multiple punches thrown at a vulnerable part of the body, the force behind them cannot have been major, nor were they conceivably meant to injure, otherwise the victim would have been in a far worse state than that revealed by his medical examination.
+
+70     What the accused really does need is professional help to address his peculiar character traits. At the close of sentencing, I urged the accused to take heed of this incident and seek the appropriate treatment, be it psychiatric assessment or counselling, to mitigate his peculiar personality traits. In the course of the trial, I had given the accused a wide berth despite his numerous erratic and disruptive interruptions in court. It was plainly evident that his behaviour was not normal. Nevertheless, his was not a mental disorder that was causative of his actions that day, and he had to bear responsibility for his actions. Given the accused’s personal characteristics, I did not think it appropriate to sentence him to a custodial sentence, which I acknowledge would normally have been the outcome where multiple punches are thrown to the head, and where injuries are caused as a result. I accordingly sentenced the accused to the maximum fine of $5,000, in default of which, he would serve two weeks’ imprisonment.
+
+* * *
+
+[^1]: NE, Day 5, Page 28, Line 21 to Page 29, Line 2.
+
+[^2]: NE, Day 2, Page 26, Lines 6 to 31.
+
+[^3]: NE, Day 2, Page 33, Lines 10 to 23.
+
+[^4]: NE, Day 2, Page 46, Line 13, and Page 47, Line 30 to Page 48, Line 11.
+
+[^5]: NE, Day 2, p 84 Lines 7-10.
+
+[^6]: NE, Day 2, p 34, Lines 14-23.
+
+[^7]: NE, Day 2, p 34, Line 24 to p 35, Line 30.
+
+[^8]: NE, Day 3, Page 19, Lines 22 to 32.
+
+[^9]: NE, Day 2, Page 35, Lines 30 to 32.
+
+[^10]: NE, Day 2, Page 36, Lines 1 to 5.
+
+[^11]: NE, Day 3, Page 6, Lines 14 to 23.
+
+[^12]: NE, Day 3, Page 24, Line 24 to Page 25, Line 4.
+
+[^13]: NE, Day 3, Page 25, Lines 9 to 13.
+
+[^14]: NE, Day 1, Page 18, Line 29 to Page 19, Line 24.
+
+[^15]: NE, Day 1, Page 22, Lines 19 to 30.
+
+[^16]: NE, Day 1, Page 56, Line 32 to Page 57, Line 4.
+
+[^17]: NE, Day 1, Page 24, Line 21 to Page 26, Line 8; see also Page 45 Lines 1 to 6.
+
+[^18]: NE, Day 1, Page 56, Line 32 to Page 57, Line 4.
+
+[^19]: NE, Day 1, Page 56 Line 15 to Page 57, Line 9.
+
+[^20]: NE, Day 3, Page 32, Line 15 to Page 33, Line 15.
+
+[^21]: NE, Day 3, Page 33, Line 16 to Page 34, Line 15.
+
+[^22]: NE, Day 5, Page 14, Lines 6 to 8.
+
+[^23]: NE, Day 5, Page 15, Lines 23 to 26.
+
+[^24]: NE, Day 5, Page 8, Lines 26 to 28.
+
+[^25]: NE, Day 4, Pager 21, Lines 4 to 11; Exhibit D-8.
+
+[^26]: NE, Day 5, Page 9, Line 10 to Page 10, Line 6.
+
+[^27]: NE, Day 5, Page 13, Lines 5 to 14.
+
+[^28]: NE, Day 5, Page 52, Lines 16 to 17.
+
+[^29]: NE, Day 5, Pager 123, Line 12.
+
+[^30]: NE, Day 5, Page 79 Line 32 to Page 81, Line 16.
+
+[^31]: NE, Day 5, Page 18, Lines 13 to 24.
+
+[^32]: NE, Day 5, Page 21, Lines 10 to 29.
+
+[^33]: NE, Day 5, Page 23, Lines 9 to 15.
+
+[^34]: NE, Day 5, Page 24, Lines 2 to 8, and Page 25, Lines 1 to 3.
+
+[^35]: NE, Day 3, Page 13, Lines 4 to 7.
+
+[^36]: NE, Day 5, Page 25, Lines 17 to 24.
+
+[^37]: NE, Day 5, Page 53, Lines 3 to 21.
+
+[^38]: NE, Day 5, Page 20, Lines 9 to 12.
+
+[^39]: NE, Day 2, Page 26, Lines 7 to 16.
+
+[^40]: NE, Day 5, Page 93, Lines 15 to 17.
+
+[^41]: NE, Day 5, Page 103, Lines 16 to 31.
+
+[^42]: NE, Day 1, Page 4 Line 5 to Page 5, Line 21.
+
+[^43]: NE, Day 5, Page 112, Lines 21 to 27.
+
+[^44]: NE, Day 3, Page 6, Lines 14 to 23.
+
+[^45]: NE, Day 2, Page 60, Line 14 to Page 62, Line 12.
+
+[^46]: NE, Day 5, Page 17, Lines 29 to 31.
+
+[^47]: NE, Day 2, Page 72, Line 3 to Page 73, Line 7, and Page 76, Line 17 to Page 78, Line 8.
+
+[^48]: NE, Day 5, Page 19, Lines 2 to 23.
+
+[^49]: NE Day 5, Page 70, Lines 19 to 29.
+
+[^50]: NE, Day 5, Page 49, Lines 10 to 18.
+
+[^51]: 
+
+[^52]: NE, Day 3, Page 43, Line 2.
+
+[^53]: NE, Day 4, Page 25, Lines 2 to 23.
+
+[^54]: NE, Day 2, Page 44, Lines 6-10.
+
+[^55]: NE, Day 3, Page 13 Line 27 to Page 14, Line 2.
+
+[^56]: NE, Day 5, Page 25, Lines 21-24.
+
+[^57]: NE, Day 5, Page 48, Lines 21-24.
+
+[^58]: NE, Day 5, 26-29.
+
+[^59]: NE, Day 5, Page 51, Lines 11 to 13.
+
+[^60]: NE Day 2 Page 67 Lines 14 to 29, and Day 3, Page 53, Lines 2 to 6.
+
+[^61]: NE, Day 3, Page 216, Lines 7 to 19.
+
+[^62]: NE, Day 5, Page 45, Lines 10-13.
+
+[^63]: NE, Day 5, Page 51, Lines 10-13.
+
+[^64]: NE, Day 1, Page 25, Lines 11 to 22.
+
+[^65]: NE, Day 3, Page 42 Line 26 to Page 43 Line 2.
+
+[^66]: NE, Day 1, Page 66, Lines 13 to 16.
+
+[^67]: NE, Day 1, Page 68, Lines 16 to 22, and Day 1, Page 89, Lines 7 to 11.
+
+[^68]: NE, Day 1, Page 74, Line 2; and Day 1, Page 88, Line 16.
+
+[^69]: Exhibit D10.
+
+[^70]: NE, Day 2, Page 47, Lines 26 to 29.
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F24084-SSP.xml)

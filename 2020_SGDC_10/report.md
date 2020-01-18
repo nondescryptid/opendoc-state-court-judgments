@@ -1,0 +1,95 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Foo Kok Chuen, Kelvin  
+
+### \[2020\] SGDC 10
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">DAC 929450/18 &amp; Anor</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">13 January 2020</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Shaiffudin Bin Saruwan</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Mr Gurmit Singh for the Prosecution; Accused in person</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Foo Kok Chuen, Kelvin</td></tr></tbody></table>
+
+\[LawNet Editorial Note: An appeal to this decision has been filed in MA 9230/2019/01.\]
+
+13 January 2020
+
+### District Judge Shaiffudin Bin Saruwan:
+
+## INTRODUCTION
+
+The Accused had claimed trial to two charges -
+
+> (i)     One count of being concerned in dealing with duty unpaid cigarettes weighing 42.184 kg, on which excise duty of $20,325.20 was not paid, with intend to defraud the government of the excise duty thereof. The offence provision was s 128I(1)(b) punishable under s 128L(4) of the Customs Act, Cap 70 (“CA”)(“Custom offence”).
+
+> (ii)     One of count of being concerned in the same cigarettes on which the Goods and Services Tax (“GST”) of $1,489.74 was not paid, with intend to defraud the government of the tax thereof. The offence fell under s 26 and s 77 of the GST Act, Cap 117A, read with s 128I(1) and punishable under s 128L(4) of the CA (“GST offence”).
+
+2       The prosecution was conducted by Mr Gurmit Singh and Mr Lim Boon Yong from the Customs Department. The Accused was initially represented by Mr Wilson Foo Yu Kang. However, Mr Foo discharged himself before the second tranche. The Accused continued with the trial without legal representation.
+
+## THE UNDISPUTED FACTS
+
+3       The Accused was an Uber driver. On 11 Jul 18 at about 7.22 pm, he was observed by Customs officers driving his white Toyota Prius bearing registration numbers SLM 3140Z (“the Car”) and stopping in front of 10J East Coast Road (“No 10J”). His passenger, Ge Hengtao (“Ge”), alighted from the vehicle and entering the said unit. The Accused then parked the Car along the side of the road. He remained inside the Car. At about 7.35 pm, Ge was seen loading two big brown boxes which he took from No 10J into the Car’s boot. The Customs officers moved in. Both Ge and the Accused were detained.
+
+4       The two brown boxes were found to contain duty unpaid cigarettes. Duty unpaid cigarettes were also found in the rear passenger seat of the Car. A grand total of 235 cartons x 200 sticks and 30 packets x 20 sticks of assorted brands of duty unpaid cigarettes were recovered. In addition, one lot of red plastic bags, one lot of canvas bags and one lot of brown boxes were also recovered from the Car. The Car and all the exhibits were conveyed to the Customs Operations Command (“COC”) at 1 Bulim Road. A set of 10 photographs of the exhibits and the Car were taken at the scene and at COC (Exhibit P1-P10).
+
+## CASE FOR THE PROSECUTION
+
+5       The prosecution relied primarily on the evidence of Ge. At the material time, Ge was involved in selling duty unpaid cigarettes. He had engaged the Accused to drive him to No 10J to collect his supply of cigarettes, and to drive him around to deliver the said cigarettes to his customers. Ge had not informed the Accused about the duty unpaid cigarettes when he had engaged the Accused’s services for the first time. He had told the Accused that he was delivering some items to his friends He had only informed the Accused of this pertinent fact on a subsequent occasion, after they had gotten to know one another. He said the Accused had not refused the engagement when told the truth [^1]. He explained that his decision to come clean with the Accused subsequently was because he had wanted to establish a long-term relationship with the Accused in relation to having the Accused ferry him around to make his deliveries. This was to avoid the need to constantly having to seek his services through Uber or Grab[^2].
+
+6       According to Ge, the arrangements between them were as follow - the Accused would drive Ge around to deliver the cigarettes about three to four times a week for about five hours each time. Ge would sit on the rear passenger seat on these trips. He would pack the cigarette cartons into red plastic bags according to the respective orders. He would then wind down the car window and passed these red plastic bags to his customers. His customers would then pay him the money. Ge also said there was one occasion when he had sought the Accused’s help to pass a red plastic bag containing some cartons of duty unpaid cigarettes to a customer because he did not want the customer to see his face. He paid the Accused about $30 per hour for driving him around.
+
+7       The cigarettes seized were found to have been duty unpaid cigarettes. The total weight of the cigarettes was 42.184 kg. The excise duty that was unpaid was S$20,325.20 (at the rate of $0.427 per gram or part thereof per stick). The total GST unpaid was S$1,489.74 (7% of the total value of cigarettes which was S$21,281.96[^3].
+
+8       Ge had been dealt with in relation to his role in the offence. He pleaded guilty to two charges similar to those of the Accused. He was sentenced to ten months’ imprisonment for the corresponding Customs offence and two months’ imprisonment for the GST offence.
+
+## THE DEFENCE
+
+9       The Accused’s defence to the charges was that he had no knowledge that the items which Ge was dealing in were duty unpaid cigarettes. He accused Ge of falsely implicating him in the sale of the duty unpaid cigarettes. He claimed that he had been engaged by Ge for three purposes – (i) to pick him up from his workplace to visit his girlfriend, (ii) to visit his friends, and (iii) to deliver items to his friends. The Accused had no knowledge what these items were, and Ge had not told him that the items were duty unpaid cigarettes[^4].
+
+## THE COURT’S FINDINGS
+
+10     The Accused’s claim that he did not know that Ge was dealing in duty unpaid cigarettes was against the weight of the evidence.
+
+11     Firstly, I accepted Ge’s evidence that he had informed the Accused about the cigarettes. He informed the Accused about the cigarettes only after the first occasion the Accused had ferried him around[^5]. Ge’s reason for doing so was that he had wished to use the Accused as his regular driver to distribute the illegal cigarettes to his customers, and therefore avoid having to keep on getting his services via Uber/Grab. I found Ge’s evidence about telling the Accused about the cigarettes and his reason for doing so to be reasonable and cogent. The Accused had not protested or baulked when told about the duty unpaid cigarettes. Ge would have surmised from the Accused’s reaction that he was a suitable person to assist him in delivering the cigarettes to his customers on a long-term basis. The arrangement was also pragmatic, convenient and advantageous to both parties. Ge need not obtain the Accused’s services through Uber each time, and the Accused would have a regular source of income in ferrying him around.
+
+12     Secondly, there was one occasion where the Accused had assisted Ge to pass a plastic bag containing some cartons of cigarettes to a customer. The Accused did not deny that this had happened. However, he asserted that he was not able to see the contents of the plastic bag because it had happened at night, and the plastic bag was made of an opaque material. A demonstration was conducted in court whereby a carton of cigarettes was placed inside a sample of a similar plastic bag. This demonstration rebutted the Accused contention. It showed that the plastic bag was not opaque but translucent such that one could discern the carton of cigarettes inside it. Further, the shape of the carton of cigarettes was also easily discernible. Despite the fact that it had happened at night, I did not think that it was so dark that the Accused was not be able to see what was inside the red plastic bag when he passed it to Ge’s customer. Even if the Accused’s evidence that Ge had not told him about the duty unpaid cigarettes was accepted, he would have been made aware when he had helped Ge to pass the plastic bag of cigarettes to the customer.
+
+13     Ge testified that he had also packed the cigarette cartons into the red plastic bags at the rear passenger seat of the taxi before he passed them to his customers. It was inexplicable that the Accused failed to notice the cartons of cigarettes as they were handled by Ge in the course of the five hours or so when he drove Ge around.
+
+14     The Accused claimed that Ge had falsely implicated him because he was dissatisfied over his imprisonment for dealing with the illegal cigarettes. Ge had unequivocally denied this. I accepted his denial. There was no reason for Ge to be dissatisfied with the Accused over his sentence. There was no evidence that Ge had suspected the Accused of being responsible for his arrest. In fact, insofar as Ge was concerned, both he and the Accused were arrested on the same night for dealing in the duty unpaid cigarettes.
+
+15     Ge had given his testimony candidly and in a forthright manner. He had not embellished any fact. He had admitted that he had not supplied the Accused with duty unpaid cigarettes. He had admitted that the Accused had only smoked legal cigarettes, and not those which Ge had peddled in[^6]. Other than the one occasion, the Accused had not been involved in the delivery of the cigarettes to Ge’s customers. According to Ge, the Accused’s role was to drive him around to make his delivery of the cigarettes.
+
+16     I therefore found him guilty and convicted him on the two charges.
+
+17     The Accused was a first offender.
+
+## SENTENCING SUBMISSION
+
+18     Mr Gurmit Singh cited three cases[^7] to show that similar quantities of contraband cigarettes attracted sentences of five months’ imprisonment for the Customs offence and one month’s imprisonment for the GST offence. However, these were in relation to plead guilty cases. He reproduced Graph 3 from the decision of Chan Seng Onn J in _PP v Pang Shuo_ <span class="citation">\[2016\] 3 SLR 903</span> at \[49\] to show the sentencing trend for the Custom offence. Graph 3 showed two scenarios of offences. The line labelled Scenario 1 showed the benchmark sentences for the standard/archetypal offender with the following characteristics ie first-time offender, a paid worker with no management control or profit sharing, and pleads guilty at the earliest opportunity. The line labelled Scenario 2 showed the sentences in relation to a claim trial situation. Applying the sentencing pattern as traced by the line Scenario 2, Mr Singh sought for a sentence of at least eight months’ imprisonment for the Custom offence.
+
+## THE MITIGATION PLEA
+
+19     The Accused informed that his mother, who he was supporting, has cancer. He had also recently broken up his engagement with his girlfriend. This led to significant loss to his Central Provident Fund monies because he had to return their Housing and Development Board flat.
+
+## THE SENTENCE
+
+20     The cases cited by Mr Singh showed that for the Custom offence involving similar quantum of cigarettes as in the present case, the courts have consistently meted out sentences of five months’ imprisonment where the offenders have pleaded guilty. Therefore, in principle, I agreed with the prosecution’s submission that as the Accused had claimed trial, he could not be given the benefit of any sentencing discount. An uplift in the benchmark sentence was warranted. In determining quantum, I have considered the fact that the trial was not unduly protracted or prolonged. The Accused had conducted his defence expeditiously. Lastly, I noted that he was a first-time offender. I also noted that his role was passive in nature. His involvement was to only drive Ge to all his rendezvous with his customers, save for that one instance when he had passed the cigarettes to a customer.
+
+21     For these reasons, I was of the opinion that a sentence of six months’ imprisonment for the Custom offence and one month’s imprisonment for the GST offence were appropriate. The six months’ imprisonment for the Custom offence was consistent with the sentencing trend as traced in line Scenario 2. I ordered the two sentences to run concurrently, making the total aggregate sentence six months’ imprisonment, which in my view was appropriate considering the circumstances.
+
+22     The Accused has appealed against his conviction and sentence. He is currently on bail pending appeal.
+
+* * *
+
+[^1]: NE, 8 Feb 19, page 4 lines 25-31.
+
+[^2]: NE, 8 Feb 19, page 53 lines 7-12.
+
+[^3]: Exhibit P15.
+
+[^4]: NE, 8 Feb 91, page 25 lines 1-25.
+
+[^5]: NE, 8 Feb 19, page 4 line 25 to page 5 line 3.
+
+[^6]: NE, 8 Feb 19, page 26 lines 5- 26.
+
+[^7]: _PP v Lee Zhen Hong Kevin (Li Zhenhong)_(DAC 911913-4/18); _PP v Mohammad Shahrul Bin Saffarrin_ (DAC 912488-9/18); _PP v Lee Lian Soon_ (DAC 919070-1/18).
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F24081-SSP.xml)
