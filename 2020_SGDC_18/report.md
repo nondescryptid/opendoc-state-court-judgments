@@ -1,0 +1,129 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Yeo Wee Soon  
+
+### \[2020\] SGDC 18
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">DSC 900797-2018 and anor</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">29 January 2020</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Eddy Tham Tong Kong</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Prosecuting Officers Ms Wendy Tan and Yap Teck Chuan (Agri-Food and Veterinary Authority) for the Prosecution; Defence Counsel Ms Violet Netto and Charles Yeo (LF Violet Netto) for the Accused</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Yeo Wee Soon</td></tr></tbody></table>
+
+\[LawNet Editorial Note: An appeal to this decision has been filed in MA 9278/2019/01.\]
+
+29 January 2020
+
+### District Judge Eddy Tham Tong Kong:
+
+1       The Accused pleaded guilty before me to one charge, namely:
+
+> DSC 900797/2018
+
+> “that you, on 6 February 2018, at about 8 pm, at Blk 1 Delta Avenue, #05-39, Singapore 160001, did by unreasonably doing an act to an animal, one Male Poodle dog named “To-bi” causes unnecessary suffering to the said animal, to wit, you did “tap” it twice to discipline it and then “tap” it harder the third time when it bit your finger, and the said dog collapsed. You then proceeded to hit the dog’s head against the bathtub twice, and placing the said dog in ice water and showered it in cold water, thus causing unnecessary suffering to the said dog, resulting in its death, and you have thereby contravened Section 42(1)(d) of the Animals and Birds Act (Cap 7, 2002 Rev Ed), which contravention is an offence punishable under Section 42(4)(b)(i) of the said Act.”
+
+2       One charge of keeping the same dog without a licence issued by the Director-General, Agri-Food and Veterinary Services, in contravention of Rule 3(1) of the Animals and Birds (Dog Licensing & Control) Rules (Cap 7, R1), an offence punishable under Rule 16 of the aforesaid Rules, was taken into consideration.
+
+3       I sentenced the Accused to two community based sentences, namely, a community service order to perform 150 hours of community service within 12 months; and a Day Reporting Order, for the Accused to undergo day reporting for a period of 6 months and the additional conditions:
+
+> i.     to be placed on Electronic Monitoring Scheme;
+
+> ii.     to remain indoors from 10:00pm to 6:00am daily;
+
+> iii.     to continue with follow-up treatment for his mental health condition at NUH or a relevant mental health agency; and
+
+> iv.     to continue with follow-up treatment at the National Addictions Management Services (“NAMS”) for his alcohol dependency
+
+4       The Prosecution being dissatisfied with the sentence has filed an appeal against it. The community-based sentences have been stayed pending the outcome of this appeal.
+
+5       I now set out my grounds of decision for the sentence.
+
+#### The Statement of Facts
+
+6       The Accused is Yeo Wee Soon, Male/47 years old.
+
+7       Investigation revealed that the Accused had purchased “To-Bi” from an online platform about a week before 6 February 2018. On 6 February 2018, at about 8 pm, the Accused’s parents heard “To-Bi” wailing and also saw the Accused bringing a pail out of the house and returning without it. Thereafter they could not locate ‘To-Bi” and suspected something amiss and reported the matter to the police.
+
+8       Further investigation revealed that on 6 February 2018 at about 8 pm, “To-Bi”’s fur was smeared with faeces, and the Accused’s mother was unhappy about it. While the Accused was washing “To-Bi’, it struggled, and the Accused tapped it twice to discipline it and then tapped it harder the third time when it bit his finger, and the said dog collapsed. In an attempt to revive the dog, the Accused then hit the dog’s head against the bathtub twice and placed the said dog in ice water and showered it in cold water, after which the said dog was allegedly motionless. Thereafter the Accused placed “To-Bi” in a pail and dropped it into the river along Delta Avenue. The action was unreasonable and led to the unnecessary death of the dog.
+
+9       By virtue of the aforesaid, the Accused has committed an offence under Sec 42(1)(d) of the Animals and Birds Act, Cap 7.
+
+#### Antecedent records
+
+10     The Prosecution informed that the Accused does not have any previous convictions. However, in the suitability report for Day Reporting Order (“DRO”), it was stated at \[9\] that the Accused had been previously fined $2600 and disqualified from driving after being arrested in 2006 for driving whilst under the influence of alcohol.
+
+#### Prosecution’s submissions
+
+11     The Prosecution sought for the Accused to be sentenced to 2 weeks’ imprisonment.
+
+12     They tendered a list of precedent cases with their respective sentences but highlighted one case – _PP v Sun Hu_ (DAC 56995/2009), presumably because they felt the facts of that case bear the closest resemblance to the present case.
+
+13     In _Sun Hu_, the offender worked in a pet grooming saloon. Whilst he was grooming the fur of a dog, the dog tried to bite him. The offender who was using a clipper, hit the dog on the head with it, resulting in the dog dying from the injury caused. The offender was sentenced to 2 weeks’ imprisonment.
+
+14     The Prosecution thus submitted for a 2-week custodial sentence to reflect the seriousness of the offence.
+
+#### Mitigation
+
+15     The written mitigation by Defence Counsel (“DC”) initially asserted that the acts done by the Accused could not have caused “unnecessary suffering” to the poodle as he had merely tapped the poodle three times. However, in court, DC has asked for the relevant paragraphs containing such assertion to be expunged.
+
+16     The DC consequently focused on the fact that the acts of the Accused were not as serious as those set out in the precedents and argued therefore that the custodial threshold was not crossed.
+
+17     The DC highlighted a precedent cited in the Prosecution’s list, at serial no. 12 – _PP v Chiam Choon San_ (SC-910975-2016) where the offender was fined $8,000. In the summary provided, it was stated that the offender had subjected one dog to unnecessary suffering or pain by pulling the dog on a leash and hanging the said dog in the air for a few seconds. Upon the DC’s indication that the offender had executed an “air-drop” and kick as well, the Prosecution referred to the Statement of Facts (“SOF”) for the case.
+
+18     The SOF painted a much grimmer picture of the offenders’ acts. The offender’s acts was captured on a handphone video-recording by a witness. In the video footage, the offender was seen kicking a Siberian Husky to its body while it was sitting down. The offender also gave the Siberian Husky a punch with his left hand to the head area. The husky is then seen yelping and recoiling in pain. The offender then responded by pulling the Siberian husky up by its collar for around 3 seconds such that only its hind legs were on the floor, causing it to gasp for air. The offender then proceeded to kick the Siberian Husky a second time, with his right leg. On another occasion, the Siberian Husky has been chained and was standing on all fours. The offender kicked the Siberian Husky on the left side of its body with his right leg. The offender also admitted to the act of hitting the Siberian Husky on the head with a pole.
+
+#### Principle of Sentencing
+
+19     As pointed out by Prosecution, Parliament had increased the maximum punishment for such offences of unreasonable acts that cause unnecessary suffering to any animal from a maximum fine of $10,000 and/or imprisonment of 12 months to a maximum fine of $40,000 and/or imprisonment of 2 years, signifying the seriousness which it views such acts.
+
+20     It is therefore clear that the principle of sentencing would be one of deterrence, to ensure that no one treats animals in such a manner.
+
+21     However, it is also clear that the Court would have to look at the acts to see the degree of unreasonableness and also the level of suffering such acts have caused to the animal.
+
+22     In the present case, the SOF has described the acts of the Accused as tapping the dog in order to keep it under control when he was washing it up after its fur was smeared with faeces. The Accused then tapped harder the third time after the dog bit his finger. This third tap caused the dog to collapse. The Accused in his attempts to revive the dog then hit the dog’s head against the side of the bathtub twice. He then placed the dog in ice water and showered it in cold water, after which the dog became motionless. The Accused then placed the dog in a pail and discarded him into the river.
+
+23     The dog has been described as a 2 month-old puppy in the mitigation of the Accused. Clearly, the action of the Accused is unreasonable in tapping the head of a young puppy in trying to control it as well as in trying to revive it. His further attempt to revive it by putting it in ice water and showering it in cold water could also be said to be unreasonable and would have caused it to suffer unnecessarily. The better option would have been to send the puppy for immediate treatment.
+
+24     Nonetheless, I found that the actions of the Accused whilst unreasonable were not gratuitous acts of violence and malice towards the dog. He was in the process of cleaning up the faeces on its fur and his acts of tapping whilst inappropriate, were clearly not intended to inflict suffering. His subsequent acts of putting the dog into ice water and showering it with cold water were also part of his albeit ill-conceived attempts to revive the dog. They were not cold and calculated acts designed to torture the puppy.
+
+25     This is in contrast to the facts in _Chiam Choon San_, where the offender had clearly inflicted gratuitous acts of violence, repeatedly punching and kicking the dog, and even hanging up the dog by its leash causing it to gasp for air. The offender had also used a pole to hit the dog. The only saving grace in that case was that death did not result from the offender’s wanton acts of violence. Therefore in my view, the offender in _Chiam_’s case was clearly more culpable and yet he was only fined.
+
+26     I also found the offender in _Sun Hu_, more culpable in that the offender was working as a pet groomer and therefore would be expected to know how to manage a dog better. He had also used a metal object, a clipper, to hit the dog causing it to die from the injury sustained. In contrast, the Accused did not use any object to hit the puppy and had only recently purchased it.
+
+27     On the whole, I found that a heavy fine would have been sufficient punishment given the level of culpability on the part of the Accused and in the absence of any gratuitous acts of violence towards the animal.
+
+28     However, I noted that the Accused had been diagnosed to be suffering from obsessive compulsive disorder and alcohol use disorder. According to Dr Gangadharan Sathyadevan (“Dr Devan”), a consultant psychiatrist, the Accused has been seeing him since 2013. Dr Devan found that the Accused has long standing obsessive compulsion disorder and alcohol dependence, as well as chronic stress and anxiety related to conflict with his parents. Dr Devan was also of the view that it was “poor judgment on \[the Accused’s\] part to take on a puppy which probably did not have proper parenting and weaning”. Dr Devan further opined that patients “with mental illness do have impairment of judgment as in this case when Mr Yeo could have got an adult dog”[^1].
+
+29     In an Institute of Mental Health report by Dr Arnab Kumar Ghosh, the Accused had been similarly diagnosed to be suffering from obsessive compulsive disorder and alcohol use disorder. In addition, it was also disclosed that the Accused had been drinking on the morning of the incident to cope with physical pain[^2]. Nonetheless, he was of the view that there was no direct causal link between his obsessive compulsive disorder and alcohol use disorder and the alleged offence[^3].
+
+30     The physical pain referred to above is confirmed by medical memos from National University Hospital that the Accused had been suffering from chronic degenerative neck pain and this condition has impaired his ability to manage his activities of daily living on his own[^4].
+
+31     I was therefore of the view that there was room for a community-based sentence in the present case since the Accused has no related antecedent and a community-based sentence with supervisory and monitoring powers would go a long way in tackling the underlying issues the Accused was facing. This view was fortified to some extent by the finding of the appointed psychiatrist, Dr Guo Song in the Mandatory Treatment Order (“MTO”) Report, which stated that the Accused was suffering from alcohol use disorder “which was associated with the index offence in that he was under the influence of alcohol”.[^5]
+
+32     However, the Accused had displayed lack of motivation to be in treatment for his problems with alcohol abuse as he tried to attribute it to conflict with his parents and neck pain. Dr Guo also found that his parents are unlikely to be able to ensure his compliance with treatment due his disobedient behaviour. As such, Dr Guo found that the Accused was not suitable for a MTO.
+
+33     On the other hand, the Accused was found suitable to undergo a DRO and a Community Service Order (“CSO”).
+
+34     In the DRO Report, it was noted that the Accused had shown some resistance to counselling and all sorts of case management by Singapore Association for Mental Health (“SAMH”) and it was difficult to engage him due to his personality, mental illness and alcoholism[^6]. However, the Accused would call SAMH occasionally to discuss his problems. The DRO report identified his risk factors as his thinking supportive of crime, alcohol dependency, poor coping skills in dealing with stress and strained relationship with his parents.
+
+35     Nonetheless, the Accused has agreed to be electronically tagged, and be subjected to time restriction. He has also agreed to comply with all the conditions of DRO including attending counselling. In the CSO Report he has also expressed willingness to comply with conditions of community service and his desire to pay back to society for his mistake.
+
+36     Whilst I found that the Accused has displayed some difficulty in fully complying with past treatment and counselling, I found that he has attempted to do so for the last several years. He had been seeing Dr Devan since 2013. On balance, I found that his attempts are deserving of at least a chance to be placed on DRO and CSO. In particular, the DRO regime will require him to continue with mental health treatment as well as counselling with NAMS for his alcohol dependency.
+
+#### Conclusion
+
+37     While I accept that there was no direct causal link between the Accused’s mental condition and the offence, nonetheless, there were present factors which had impaired his judgment, which could be addressed by a sentence of DRO and CSO. In my view, looking at the culpability of the Accused, the custodial threshold had not been crossed. Accordingly, I found that there was no need to also impose a short detention order on top of the other community-based sentences. The Court mandated orders would be sufficient to ensure compliance. The Accused had been given a clear warning that should he take the chance given to him lightly by failing to comply with the conditions of the Orders, he would be re-called to Court to be re-sentenced. He has assured the Court that he is willing to comply with all the conditions and will do so.
+
+38     In addition, I have also ordered that the Accused be disqualified from owning any animal or any class of animals for a period not exceeding 12 months pursuant to section 43B(1)(b) of the Animals and Birds Act.
+
+* * *
+
+[^1]: Last paragraph of Dr Devan’s report dated 15 September 2018
+
+[^2]: IMH report by Dr Arnab Kumar Ghosh dated 25 February 2019 at \[8\]
+
+[^3]: IMH report by Dr Arnab at \[16\]
+
+[^4]: Medical memos from NUH attached to the Day Reporting Order report
+
+[^5]: Mandatory Treatment Order Report at \[15\]
+
+[^6]: DRO Report at \[3\]
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F24118-SSP.xml)
