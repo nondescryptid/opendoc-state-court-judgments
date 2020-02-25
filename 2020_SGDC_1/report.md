@@ -1,0 +1,193 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Li Ji _v_ Daisy Shamini Morgan  
+
+### \[2020\] SGDC 1
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">DC/DC Suit No. 1314 of 2016</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">30 January 2020</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Loo Ngan Chor</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Mr Shankar Alan s/o A Kulkarni [M/s Alan Shankar &amp; Lim LLC] - for the Plaintiff; Ms Kasturibai Manickam / Ms Jocinda Wong [M/s East Asia Law Corporation] - for the Defendant</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Li Ji — Daisy Shamini Morgan</td></tr></tbody></table>
+
+Contract – consideration – failure
+
+Contract – express terms – implied terms
+
+\[LawNet Editorial Note: An appeal to this decision has been filed in DCA 39/2019.\]
+
+30 January 2020
+
+### District Judge Loo Ngan Chor:
+
+1       These are the reasons for my decision allowing part of the Plaintiff’s claim and dismissing the counter-claim, which the Defendant has appealed.
+
+2       This dispute arose from a botched agreement dated 5th November 2015[^1] (“the agreement”) for the sale and purchase of two businesses.
+
+3       The Plaintiff’s pleaded case[^2] is that she desired to take over the two businesses of the Defendant[^3]. She pleaded that the agreement had the following terms:
+
+> a)     An express and or implied term that all licences, including the liquor licence and public entertainment licence, would be valid and effectively transferred to the Plaintiff upon completion of the sale[^4].
+
+> b)     An implied term that the Defendant would procure a fresh tenancy agreement in favour of the Plaintiff or the landlord’s approval for the Plaintiff to take over the existing tenancy agreement[^5].
+
+> c)     An express or implied term that the licences would only have six demerit points as at completion and “that there would be no circumstances existing prior to or at the completion date that would put the licence at risk of incurring additional demerit points.”[^6]
+
+4       The Plaintiff says that the Defendant breached the agreement in that the Defendant “was unable to complete the sale and purchase of the aforesaid companies on the scheduled completion date of 3 January 2016”[^7] because she did not “ensure that the liquor and or entertainment licence … was valid and effectively transferred for the purpose of running the businesses of the companies”[^8] and or that she did not obtain the landlord’s consent for the plaintiff to take over the existing tenancy or to procure a fresh lease relating to the premises in the Plaintiff’s favour[^9] and or that she did not “ensure that the liquor and or the entertainment licence” was not put at risk of incurring more than six demerit points owing to a stabbing incident on or around 19th December 2015[^10].
+
+5       The Plaintiff wants a refund of two sums totalling $123,000 paid to the Defendant “as consideration that has wholly failed.”[^11] She also wants further damages “in the sum of $115,000 being agreed damages under clause 3 of \[the agreement\].”
+
+6       The Defendant pleads[^12] that on 30th November 2015, she told the Plaintiff “that the transfer of the licence (EL) will be done if all payments in \[3\] made (_sic_) and that the existing EL can still be used until the Plaintiff is issued with a new EL”[^13]. On 15th December 2015, with a view “to do an early transfer out of good will upon the Plaintiff’s request”, parties went to the licensing department which took the position that owing to “the existing licence” having six demerit points and a pending case[^14], a transfer could only take place “after the conclusion of the pending case.”[^15] On 20th December 2015, when a stabbing incident took place at “Defendant’s premises”, the Plaintiff was aware of it and “still decided to go ahead with the agreement, though the Defendant gave the Plaintiff the option to withdraw the agreement.”[^16]
+
+7       In respect of \[3\] above concerning the terms of the agreement, the Defendant’s pleading:
+
+> a)     Denied the implied term concerning the licences, placing reliance instead on the express term. The Defendant pleaded that she had on 21st December 2015 offered the Plaintiff an opportunity to withdraw from the agreement and get a refund but the Plaintiff confirmed on 22nd December 2015 that she was “still keen in proceeding with the sales.”[^17]
+
+> b)     Denied the implied terms concerning the tenancy agreement and the licences being not at risk and placed reliance on what the terms expressly said.[^18]
+
+8       The Defendant pleaded that she had procured the renewal of the entertainment licence and that she could not “be held responsible for the inevitable sequence of events that occurred at the premises.” The Defendant pleaded that she “was unable to complete the formalities by the 3 January 2016 due to unforeseen circumstances but delivered a licence for the Plaintiff to operate the 2 businesses.”[^19] She pleaded that since the Plaintiff “was the withdrawing party and the Defendant being the ‘innocent party’, the Plaintiff” was liable for damages in the sum of $115,000.”[^20]
+
+9       The Plaintiff’s Reply and Defence to the Counter-claim[^21] pleaded that the entertainment licence was just “one of the licences in the sale of assets”, which included the liquor licence and the public entertainment licence.[^22] She pleaded that she did not wish to withdraw early as this could be a “default” under the agreement.[^23] She had not indicated that she would proceed with the purchase even if the licences were “not valid and or could not be transferred to her”[^24]. She preferred to wait out the agreement period “in the hope that the investigations could be concluded in time for completion to take place on 3 January 2016”[^25].
+
+10     Denying the Defendant’s pleaded allegation that the Plaintiff tried to bargain down the price, the Plaintiff pleaded that this happened on 18th January 2016, after the Defendant had repudiated the agreement by failing to complete timeously on 3rd January 2016 and attempted to complete the agreement with the renewed licence but without transferring same to the Plaintiff.[^26]
+
+11     I propose to first set out the main terms of the agreement[^27]. The agreement was not drafted by a lawyer. Instead it was drafted by an estate agent (Mr Sean Yu, PW2) engaged by the Defendant in marketing the companies. This fact however does not mean any relaxation of the principles of contractual interpretation at play.
+
+12     In the recital, it is stated that the parties agreed “to buy the 2 companies”. Immediately following the recital is a heading for clause 1, which says “sale of assets/equipments (_sic_) and licences”. Clause 1 states that “this sale will includes (_sic_) all the licences belonging to the abovementioned two companies” and all the equipment and assets at No. 3 Sentosa Gateway #01-11 S098544, excluding the DJ set. In reference to the tenancy agreement on which basis the club operated at the premises, clause 1 concluded by saying “including the tenancy agreement dated 16th November 2013 with THE ST. JAMES PTE LTD.” (capitalised in the original)
+
+13     Clause 2 provides for the consideration to be paid in three stages under the heading “stages of sale”. Having provided for two earlier payments which the Plaintiff made and which she seeks a refund of, clause 2c provides that “when the seller withdraws her name from the BIZFILE/ACRA, and handovers (_sic_) the above mentioned premises to the buyer. The buyer to pay a sum of SGD $100,000 to the seller. This stage will happen on the 3rd January 2016, known as the completion date.”
+
+14     Clause 3 states that “upon completion, the seller would have received a total sum of SGD $223,000. Both parties agreed that, any point of time after signing this agreement, before completion, if any party shall withdraw from this agreement, then the ‘innocent party’ reserves the right to claim a sum of SGD $115,000 from the ‘defaulting party’.”
+
+15     Clause 6, which is headed “Demerit Points/Performance Artists Pass” for clauses 6 and 7, states that “The Seller confirms that the licence that she is selling has only 6 demerit points. If the licence incurs more than 6 points at completion date, then the buyer reserves the right to terminate this agreement, and the seller to refund all monies paid in accordance to this agreement as deposit.”
+
+16     The WhatsApp messages[^28] passing between the Defendant and PW2 contain important clues (but not necessarily answers) to some issues debated in the case. In her messages to PW2 on 5th November 2015 at 5:26:07pm, the Defendant said “3rd January I hand over at 6pm Licence transfer is online can be done at that time too” and awhile later, responding to PW2’s question concerning 3rd January being a Sunday, the defendant said “All licence transfer all online can do anytime no issues”[^29].
+
+17     When pending issues put the licences at risk in mid-December 2015, the Defendant sent several messages on 16th December 2015 to PW2 saying that the Plaintiff should “make a decision fast” (in reference to whether the Plaintiff would proceed with the purchase owing to her (the Plaintiff’s) concerns about the licences), that “whatever additional summon (_sic_) we will drag n fight” and, in response to PW2’s messages that the Plaintiff was unaware “that there were already pending cases”, that the Defendant herself did not know[^30].
+
+18     Several messages passing between them on 21st and 22nd December 2015 concerned an idea PW2 described as “win win”, to seek the landlord’s agreement to enter into a fresh agreement with the Plaintiff in charge and so that the Plaintiff could obtain fresh licences on a clean slate, and the Defendant getting back the tenancy deposit[^31], to which the Defendant concluded by saying that the landlord did not agree.
+
+19     The day after the scheduled completion, to PW2’s question about when the Defendant “could refund” the Plaintiff her payments, the Defendant replied that she was “not in sg Nevertheless can we wait for a month to see if the police gets bk to us with anything” and, on 7th January 2016, she said “can u ask her wait till end of this month see if police come. Bk with anything If nothing then sale can still proceed”[^32].
+
+20     There were yet other WhatsApp messages afterwards but I do not propose to go into them all.
+
+21     I would like to remind ourselves of the trite principles which apply concerning the question of when it would be right to imply a term, as a matter of fact, into the contract. Chua Lee Ming J in _Ram Niranjan_ v _Navin Jatia and others_ <span class="citation">\[2019\] SGHC 138</span> said:
+
+> 114.  The Court of Appeal in _Sembcorp Marine Ltd v PPL Holdings Pte Ltd_ <span class="citation">\[2013\] 4 SLR 193</span> set out a three-step process for the implication of contractual terms (at \[101\]). The first step is to ascertain how the gap in the contract arises. Implication will be considered only if the court discerns that the gap arose because the parties did not contemplate the gap. At the second step, the court considers whether it is necessary in the business or commercial sense to imply a term in order to give the contract efficacy. Finally, the court considers whether the specific term to be implied is one which the parties, having regard to the need for business efficacy, would have responded “Oh, of course!” had the proposed term been put to them at the time of the contract. If it is not possible to find such a clear response, then the proposed term will not be implied. The exercise of implying contractual terms in fact is best understood as an exercise in giving effect to the parties’ _presumed_ (and not _actual_) intentions (at \[93\]).
+
+22     Clause 1 expressly provides that the sale of the businesses “includes all the licenses belonging to the abovementioned two companies”. While several licences were concerned in the businesses, there are two in particular which this case involves, the liquor licence[^33] and the public entertainment licence[^34]. Both of these licences were in the name of an individual called Leong See Shie, Brander. While the licenses were expressly the subject of the sale, clause 1 does not say how this sale would happen. Specifically, did these licences have to be transferred to the name of the Plaintiff? With regard to the public entertainment licence, the Public Entertainments and Meetings Rules (those effective 5th December 2019), do provide at rule 4(1) that a licensee shall not permit a licence to be used by any other person and at rule 4(2) that a licence is not transferable without the approval of the licensing officer. These being the three factual parameters – the licence being in Brander’s name, that it may not be used by the Plaintiff without a transfer to her (r4(1)) and that a transfer to the Plaintiff requires approval by the licensing officer (r4(2)) – I find that it is an implied term of fact that the Defendant had to apply for the public entertainment licence to be transferred to the Plaintiff by the scheduled completion date. I find that the Defendant recognised this fact when in her WhatsApp message referred to at \[16\] above, she stated that this could be done online on 3rd January 2016 (even thought it was a Sunday). This implication satisfies, in my view, the three-step test in that this was a gap in the agreement, implying it was a matter of commercial sense to render the agreement efficacious and would have been met by an “of course” had the parties had been asked about it at the time they entered into the agreement.
+
+23     I have taken note that the Plaintiff may have explored the possibility of having Brander continue to hold the licences. However, this was not a matter of contractual obligation on her part as opposed to the Plaintiff’s desire to move forward with the purchase, if at all possible. In this connection, I add one more thing. Brander testified that she was by occupation a nurse and worked for the businesses two to three times a week, being paid $100 for each session. On the other hand, she alleged that the Plaintiff offered her a monthly retainer of $2,000 just to hold the licences for the businesses when the Plaintiff took over. I found this allegation of a retainer improbable given the sheer disproportion between the alleged retainer and what she was being paid by the Defendant.
+
+24     The fact of the matter was that the Defendant was not in Singapore on 3rd January 2016. She did not make an application on line at any time to transfer the licence to the Plaintiff. And, as a matter of fact, owing to the pending case and the 19th December 2015 stabbing incident, a transfer of the licence was not allowed by the licensing office. As her WhatsApp message at \[19\] above showed, the Defendant hoped that another month would give time for the police to complete their investigations and lead to a decision that no further action would be taken that might compromise the licence. Indeed, \[16\] of her Defence, referred to at \[8\] above, is an implicit admission that she could not complete but this because of “unforeseen circumstances”. Her statement to the contrary – that she “was able to complete the formalities by 3 January 2016. The Plaintiff has agreed to buy over the nightclub business, albeit the fact that the EL has yet to be transferred to her name due to the pending case, and that Brander’s EL can be kept for the Plaintiff to continue the business.”[^35] - is contradicted by her WhatsApp message, which for this reason I reject.
+
+25     The above finding actually is an end of the matter. For completeness, I deal with the other two implied terms asserted by the Plaintiff.
+
+26     In respect of the tenancy agreement, this was expressly an item included in the sale. The question is whether it is an implied term that the Defendant was to procure a fresh tenancy agreement or the landlord’s approval for the Plaintiff to take over Asokaa. This requires me to look at the relevant tenancy document, which is the context _apropos_ interpreting clause 1 of the agreement. The sub-lease held by Asokaa[^36] provides at clause 4.5 for “\[s\]ubletting and assignment” to require the approval of the landlord and superior landlord. In the last sentence of clause 4.5[^37], it is provided that corporate amalgamation and reconstruction (which are undefined in the sub-lease) would be deemed an assignment. The situation here entailed a sale of _inter alia_ the share capital of Asokaa to the Plaintiff. I find that clause 4.5 does not require approval in respect of divesting the share capital (which, without more, is neither an amalgamation nor reconstruction). This being the case, there is no basis to suggest that there should be this further implied term which the Plaintiff argues for.
+
+27     The issue of the demerit points requires one to look at whether clause 6 of the agreement implies, as a factual issue, a term as the Plaintiff seeks. Although the Defendant does seem to have accepted in her WhatsApp messages that the licences were _at risk of_ further demerit points and implicitly that this came within her duty, I am not prepared to accept that this term can properly be implied into clause 6. Its express terms (at \[15\] above) are too clear – _i.e._, demerit points incurred as “at completion date” brook of no extended meaning that there be no risk of further demerit points post-completion. In this connection, it may be useful to remind ourselves of the main principles in contractual interpretation – in _Nanyang Medical Investments Pte Ltd_ v _Leslie Kuek Bak Kim_ <span class="citation">\[2018\] SGHC 263</span>, Mavis Chionh JC had this say:
+
+> 78.    The CA in _Yap Son On_ went on to lay down the following guiding principles (at \[37\] to \[39\]):
+
+>> 37    … Among the powerful insights that the modern contextual approach provides, as stated by Lord Hoffmann in _Investors Compensation Scheme Ltd v West Bromwich Building Society_ <span class="citation">\[1998\] 1 WLR 896</span> (“_ICS_”), is that the meaning of a word should not be confused with the meaning that would be conveyed by the use of that word in a document. The former, as he said, was “a matter of dictionaries and grammars”; the latter is the proper domain of contractual interpretation, which is about discerning the meaning that the expressions in the document would convey to a reasonable person with the relevant background knowledge …
+
+>> 38    However (and this is where we come back to the importance of the text), in ascertaining the meaning that the words of a contract would convey to a reasonable person with the relevant background knowledge, the words used by the parties occupy primacy of place. In _Arnold v Britton_ <span class="citation">\[2015\] 2 WLR 1593</span>, Lord Neuberger of Abbotsbury PSC (with whom Lord Sumption and Lord Hughes JJSC) agreed) explained the reason for this as follows (at \[17\]):
+
+>>> … The exercise of interpreting a provision involves identifying what the parties meant through the eyes of a reasonable reader, and _save perhaps in a very unusual case, that meaning is most obviously to be gleaned from the language of the provision_. Unlike commercial common sense and the surrounding circumstances, the parties have control over the language they use in a contract. And, again save perhaps in a very unusual case, the parties must have been specifically focussing on the issue covered by the provision when agreeing the wording of that provision. \[emphasis added\]
+
+>> 39    The verbal expressions in a contract are the vehicle through which meaning if conveyed. As we recently observed in _Lucky Realty Co Pte Ltd v HSBC Trustee (Singapore) Ltd_ <span class="citation">\[2016\] 1 SLR 1069</span> at \[2\], “absent the text, the contract cannot be constructed out of context alone” …
+
+> 79.    In considering the primacy of the contractual text and the interaction between text and context, the CA in _Y.E.S. F&B Group Pte Ltd v Soup Restaurant Singapore Pte Ltd (formerly known as Soup Restaurant (Causeway Point) Pte Ltd)_ \[2015\] 2 SLR 1187 (“_Y.E.S. F&B_”) noted that whilst there might often be more than one immutable meaning to words, and _a fortiori_, to phrases, it was “not inconceivable that the _text_ itself might be _plain and unambiguous inasmuch as it admitted of one clear meaning_” \[emphasis added\]. This would also mean that there is a “_coincidence_ between both text and context inasmuch as there is nothing untoward in the context which militates against what is the plain language of the text itself” \[emphasis in original\]: _Y.E.S. F&B_ at \[31\].
+
+28     I move on to deal with the question of the so-called agreed damages (which essentially is liquidated damages, although I will keep to the description clause 3 has used).
+
+29     As _Nanyang Medical Investments_ points out, the first port of call in contractual interpretation is the text. In this instance, the text is the only reference point as parties did not choose to plead to and engage in how the context affected the meaning of the text.
+
+30     In my view, clause 3 is reasonably clear even as it is not felicitously worded. It provides that _if a party withdraws from the contract prior to the scheduled completion_, she has to pay the _innocent party_ agreed damages of $115,000. This indubitably speaks to the trigger for paying agreed damages.
+
+31     Clause 3 becomes infelicitous only when one recalls that a party to a contract gets damages where the other party has wrongfully acted in breach of it. The distinction drawn by clause 3 for this purpose is linguistically not between the withdrawing party and the other party but between the withdrawing party and the innocent party. This is the same distinction that is drawn in clause 8 concerning disclosing the terms of the contract, where the disclosing party is made liable to, again, “the innocent parties (_sic_)”. The parties not having canvassed this before me, I would not second-guess why the line is drawn in this way (_i.e._, without regard to factual breach), save to say that it is the definitional stop for “breach” which the parties agreed to – if you withdraw from the agreement before the scheduled completion, you would be in breach and have to pay agreed damages.
+
+32     The Plaintiff’s claim for agreed damages is premised solely on the Defendant’s alleged breach of the agreement. If the Defendant did in fact breach the agreement, she would be liable in general damages. But the Plaintiff’s claim being for “the sum of $115,000 being agreed damages” can find basis, if any, only in clause 3. But, clause 3 simply has not been triggered; the Defendant did not withdraw from the agreement at all. Hence, I dismissed the Plaintiff’s claim for agreed damages, against which there is no appeal.
+
+33     I deal with the Defendant’s counter-claim for agreed damages. The premise of the Defendant’s counter-claim is precisely in the definitional stop: “As since the Plaintiff was the withdrawing party and the Defendant being the ‘innocent party’, the Plaintiff is the liable party for the damages in the sum of $115,000.00 payable to the Defendant.”[^38]
+
+34     In this regard, again the trigger in clause 3 simply did not happen - the Plaintiff did not withdraw from the contract _pending completion_. The Defendant characterised the Plaintiff as being indecisive but the Plaintiff was entitled to wait out to the scheduled completion date precisely because the definitional stop would otherwise have made her liable in agreed damages.
+
+35     For the reasons above, and because there has been a total failure of consideration, my decision was that the Defendant shall pay the Plaintiff $123,000 with interest thereon at 5.33% from the date of the writ.
+
+36     I also ordered the Defendant to pay the Plaintiff costs fixed at $24,000 along with reasonable disbursements to be agreed or referred to me to fix.
+
+* * *
+
+[^1]: AB5-7
+
+[^2]: BP7-12
+
+[^3]: \[2\] SOC
+
+[^4]: \[5\] SOC
+
+[^5]: \[6\] SOC
+
+[^6]: \[7\] SOC
+
+[^7]: \[10\] SOC
+
+[^8]: \[9(a)\] SOC
+
+[^9]: \[9(b)\] SOC
+
+[^10]: \[9(c)\] SOC
+
+[^11]: \[12\] SOC
+
+[^12]: BP14-20
+
+[^13]: \[5a\] DnC/C
+
+[^14]: \[5d\] DnC/C
+
+[^15]: \[5e\] DnC/C
+
+[^16]: \[5g\] DnC/C
+
+[^17]: \[9\] DnC/C
+
+[^18]: \[10\] DnC/C
+
+[^19]: \[16\] DnC/C
+
+[^20]: \[17\] DnC/C
+
+[^21]: BP31-45
+
+[^22]: \[5(a)\]R&DCC
+
+[^23]: \[8\]R&DCC
+
+[^24]: \[9\]R&DCC
+
+[^25]: Ditto
+
+[^26]: \[15\]R&DCC, particularly (b) and (e)
+
+[^27]: AB5-7
+
+[^28]: AB8-49
+
+[^29]: AB20-21
+
+[^30]: AB37
+
+[^31]: AB38-40
+
+[^32]: AB40
+
+[^33]: AB110-116
+
+[^34]: AB105-106
+
+[^35]: \[25\] D’s AEIC, BA tab 2
+
+[^36]: AB116
+
+[^37]: AB120
+
+[^38]: \[17\]DnCC
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F24164-SSP.xml)
