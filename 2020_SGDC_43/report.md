@@ -1,0 +1,93 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Guo Haoran  
+
+### \[2020\] SGDC 43
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">DAC 933115-6/2019, MA-9044-2020-01</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">26 February 2020</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Hamidah Bte Ibrahim</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">SPO Lam Peng Choy, Attorney-General's Chambers for the prosecution; Mr Michael Chang (M/s Leong Kum Kwok Law Practice LLC) for the accused.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Guo Haoran</td></tr></tbody></table>
+
+\[LawNet Editorial Note: An appeal to this decision has been filed in MA 9044/2020/01.\]
+
+26 February 2020
+
+### District Judge Hamidah Bte Ibrahim:
+
+## Introduction
+
+The accused person, a 32-year-old female China national pleaded guilty to 2 charges of theft as a servant under Section 381 of the Penal Code, Chapter 224. The offences were committed at the IWC Schaffhausen ION Boutique located at 2 Orchard Turn, #02-06, Singapore, where she was employed as a Senior Sales Representative and had stolen the items in the possession of the retail manager. The brief particulars of the charges are as follows:
+
+> i)     DAC-933115-2019 – In early June 2019, she did commit theft of one IWC Portofino Automatic brown leather watch valued at S$16,650; and one IWC Portugieser Annual Calendar black leather watch valued at S$44,900, with a total value of S$61,550;
+
+> ii)     DAC-933116-2019 - Between 12 and 24 of September 2019, she did commit theft of one IWC black Portugieser Chronograph watch valued at S$11,200.
+
+2       The accused was sentenced to serve a total of 8 months’ imprisonment. She is now appealing against the sentence.
+
+## Statement of Facts (SOF)
+
+3       The material portions of the SOF of the proceeded charges which the accused admitted without any qualification are as follows:
+
+4       The accused was employed as a Senior Sales Representative of Richemont Luxury (Singapore) Pte Ltd for the past 4½ years and was deployed at the IWC Schaffhausen ION Boutique located at 2 Orchard Turn, #02-06, Singapore (“the IWC Boutique”). During her employment, amongst other duties, her role was to conduct stock checks on the physical watches in the IWC Boutique.
+
+#### Facts pertaining to the 1st Charge (DAC-933115-2019)
+
+5       The complainant is Png Siew Hoon, a 37-year-old Singaporean and the Retail Manager of the IWC Boutique and the accused’s employer.
+
+#### First Information Report
+
+6       On 11 July 2019, at about 5.59 p.m., the complainant lodged an electronic police report, reporting that there were two watches found missing during a monthly stock take. The location was given as the IWC Boutique. Investigations revealed that during a monthly stock check at the IWC Boutique on 11 July 2019, the complainant found two watches with the warranty cards tagged to them missing. These two watches were originally kept in a safe in the IWC Boutique. She then lodged a police report.
+
+7       Investigations revealed that in early June 2019, the IWC Boutique was undergoing renovations and the collection of watches were brought in and out of the IWC Boutique in batches.
+
+8       Investigations revealed that while being employed as a servant, the accused formed the dishonest intention of stealing watches from the IWC Boutique for her own personal gain. On a day in early June 2019, the accused was tasked to conduct a stock check on the watches in the IWC Boutique. She was given the access code to the safe in the IWC Boutique. She opened the safe and took out all the watches to check against the stock list. While she was conducting the stock check, she discovered that two watches were not listed in the stock list.
+
+9       After accounting for all the watches to tally against the stock list, the accused formed the dishonest intention of taking the two watches. After concealing the two watches with some papers, she managed to remove them and subsequently hid the watches in the Changing Room. After her duty, the accused put the two watches in her bag and left for home.
+
+10     The two watches stolen by the accused were as follows:
+
+> i.     One “IWC Portofino Automatic” brown leather watch with yellow face, bearing serial number 5622343, valued at S$16,650; and
+
+> ii.     One “IWC Portugieser Annual Calendar” black leather watch with yellow face, bearing serial number 6018683, valued at S$44,900,
+
+with a total value of S$61,550, in the possession of the complainant.
+
+11     When she arrived home, the accused initially hid the aforesaid two watches in her bedroom. Subsequently, in early October 2019, she concealed the two watches in a flowerpot by placing them in a plastic bag, and covering the bag in soil and plants.
+
+#### Facts pertaining to the 2nd Charge (DAC-933116-2019)
+
+12     The witness is Wong Yew Teck, a 33-year-old male Malaysian. At the material time, the witness was a Senior Sales Associate at the IWC Boutique.
+
+#### First Information Report
+
+13     On 7 October 2019, at about 11.16 p.m., the complainant lodged another electronic police report, stating that she suspected that her staff could have stolen the company watches. The incident location was given as the IWC Boutique.
+
+14     Investigations further revealed that on 12 September 2019, the accused was tasked to conduct a stock check of the physical watches at the IWC Boutique. While being employed as a servant, the accused again formed the dishonest intention of stealing watches from the IWC Boutique. While tallying the stocks, the accused found a watch which was not listed in the stock list. The accused removed the watch and hid it in her stocking. After work, the accused changed into her clothing, took out the watch from her stocking and put it in her bag before leaving for home. The stolen watch was one “IWC Portugieser Chronograph” black watch, bearing serial number: 36993896, valued at S$11,200.
+
+15     Investigations further revealed that on 24 September 2019, the complainant discovered the loss of the watch. An internal investigation was conducted within the company. All the six staff in the IWC Boutique, including the accused, were interviewed. The complainant announced to the IWC Boutique staff that if the person who had stolen the watches would own up, the issue could be settled within the company. As of 4 October 2019, none of the staff came forward to admit to the theft.
+
+16     Investigations further revealed that on 3 October 2019, to avoid detection, the accused brought the stolen watch to the IWC Boutique and placed it in a basket in the Changing Room. The witness subsequently found the unattended watch at the Changing Room, and reported it to the complainant. The complainant suspected that the said watch was stolen by a staff, and she therefore lodged the police report. Investigations also revealed that the accused at or around this time, also decided to conceal the two watches (which she had previously stolen) in a flowerpot.
+
+#### Arrest of the accused
+
+17     On 10 October 2019, the accused and another staff were called to the Orchard Police Neighbourhood Centre (“NPC”), to assist in investigations. Thereat, the accused denied stealing the watches. Her flat was searched but the two watches were not recovered.
+
+18     The following day, on 11 October 2019, the accused admitted stealing the watches. At about 4.05 p.m., police officers conducted a second search at her residence. Thereafter, the accused pointed to the officers the flowerpot where she had hidden the two stolen watches, which were recovered therein. By dishonestly removing the aforesaid three watches out of the possession of the complainant without her consent, the accused has thereby committed two offences of theft as a servant under Section 381 of the Penal Code.
+
+## The Sentence
+
+19     The prescribed punishment for the offence of theft as a servant under Section 381 of the Penal Code, Cap 224 is mandatory imprisonment for a term which may extend to 7 years, and the offender shall also be liable to a fine. This accused has been convicted of 2 counts of theft as a servant and she had actually stolen 3 high-end watches from her employer.
+
+20     The prosecution, in their address on sentence, relying on a table of precedents, submitted for 9 months’ imprisonment for the 1st charge involving two watches valued at S$61,550 and 6 months’ imprisonment for the 2nd charge, where the watch is valued at S$11,200. Counsel for the accused in their written plea in mitigation highlighted the fact that the accused is a first-time offender and submitted for 5 months’ imprisonment in total. However, they did not submit any sentencing precedent to support their submission. The accused was also described as remorseful, cooperative, has a young one-year-old child in China and had pleaded guilty in a timely manner.
+
+21     In determining the appropriate sentence, it is undisputed that intrinsic in the offence of theft as a servant is the fact that there has been a serious breach of trust. The value of the items that was stolen is also a significant factor which has a bearing on the length of the imprisonment term which ought to be imposed. In this case, the total value of the items is a sum of almost $73,000, which is a fairly large amount by any standard. The accused in her capacity as a senior sales representative of her employer, having worked there for four and a half years, would have appreciated the value of the three watches which she had stolen from them. While her counsel stressed that the accused was remorseful, from the SOF, I note that when given an opportunity to own up to the offences in September 2019 during an internal investigation by her employer, the accused did not come clean.
+
+22     In fact, the accused took further steps to avoid detection by placing the third stolen watch in a basket in the Changing Room. When the police were called in on 10th October 2019, the accused initially denied stealing the watches. This does not sit well with her claim that she was cooperative and remorseful. I find the fact that the three watches were recovered is not to her credit, as by then, when the police came to her residence, she knew it was futile to deny her involvement in the thefts.
+
+23     It must be emphasised that general deterrence is the primary sentencing principle in the context of employees stealing valuable items belonging to their employers and a deterrent sentence is called for to remind the employees of their duty in safeguarding valuable items belonging to the employer and not to help themselves by taking advantage of a lapse in the administration at her employer’s establishment, which was so in the present case, when the stolen watches were not listed in the stock list.
+
+24     Turning to the precedents submitted by the prosecution, I agree with their submission that a sentence of 9 months’ imprisonment would be appropriate and fair considering that sentences higher than 9 months’ have been imposed in cases where the value of the items was less than $73,000. Nevertheless, exercising some leniency towards the accused, I decided that a slightly lower sentence of 8 months’ imprisonment would be more than adequate.
+
+25     All considered, taking into account all the relevant factors, the accused was sentenced to 8 months’ imprisonment for DAC-933115-2019 and 5 months’ imprisonment for DAC-933116-2019. Both imprisonment terms were ordered to run concurrently, making it a total of 8 months’ imprisonment.
+
+26     The accused is now serving her sentence.
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F24203-SSP.xml)

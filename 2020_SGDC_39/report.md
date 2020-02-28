@@ -1,0 +1,1225 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Tang Keng Lai & Loo Yew Teck  
+
+### \[2020\] SGDC 39
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">DAC 932689/2014 &amp; ors</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">17 February 2020</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Kamala Ponnampalam</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">DPPs Nicholas Khoo &amp; Suhas Malhotra (Attorney-General's Chambers) for the Prosecution; Mr Ang Sin Teck (Messrs Brlinda Ang &amp; Partners) for 1st Accused, Tang Keng Lai; Mr Sng Kheng Huat (Messrs Sng &amp; Co) for 2nd Accused, Loo Yew Teck).</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Tang Keng Lai — Loo Yew Tek</td></tr></tbody></table>
+
+\[LawNet Editorial Note: An appeal to this decision has been filed in MA 9339/2018/01-02 and MA 9340/2018/01.\]
+
+17 February 2020
+
+### District Judge Kamala Ponnampalam:
+
+1       The two accused persons, Tang Keng Lai (“Tang”) and Loo Yew Teck @ Tavis (“Loo”) were jointly tried for a total of 16 charges under Section 471 punishable under Section 465 read with Section 109 of the Penal Code (Cap. 224, 2008 Rev Ed) for abetting by engaging in a conspiracy to fraudulently use as genuine, forged documents during an audit of the Singapore Prison Service (“Prisons”) conducted by the Auditor-General’s Office (“AGO”). Both accused persons claimed trial to all 16 charges. At the close of the trial, I found both accused persons guilty and convicted them on all 16 charges. Tang was sentenced to four months’ imprisonment per charge with two of the sentences to run consecutively, making a total of eight months’ imprisonment. Loo was sentenced to seven months’ imprisonment per charge with two of the sentences to run consecutively, making a total of 14 months’ imprisonment. They have both filed appeals against the guilty verdict and the sentences imposed. The Prosecution has appealed against the sentence imposed on Loo. Both Tang and Loo were granted a stay on the execution of their sentences and are currently on bail pending the hearing of their appeal.
+
+2       My grounds for convicting Tang and Loo, and for the sentences imposed, are set out below.
+
+## TRIAL
+
+#### Charge
+
+3       The 16 charges which Tang and Loo claimed trial to, were largely similar, varying only in regards to the particulars contained in each charge. The charge reproduced below is representative of all the charges preferred against the two accused persons.
+
+> You \[...\] are charged that you, sometime from August 2011 to March 2012, in Singapore, did abet by engaging in a conspiracy with Tang Keng Lai, Chew Tee Seng, Neo Chee Soon, Gandam Gajendran, and Alec Nicholas Chan Kah Choy, to do a certain thing, namely to fraudulently use as genuine a forged document knowing the same to be forged, and in pursuance of that conspiracy and in order to the doing of that thing, an act took place sometime from August 2011 to March 2012, in Singapore, to wit, Neo Chee Soon submitted a forged quotation of $8,346.00 dated 18 August 2010 purportedly issued by Thong Huat Brothers (Pte) Ltd in financial year 2010, for the purpose of an audit of Singapore Prison Service by the Auditor-General’s Office (“AGO”), and in consequence of the abetment, the said forged quotation was used during the said AGO audit as a genuine document, and you have thereby committed an offence under Section 471 punishable under Section 465 read with Section 109 of the Penal Code (Cap. 224, 2008 Rev Ed).
+
+#### Background Facts
+
+4       The first accused person, Tang Keng Lai, is a 41-year old Singapore citizen, who at the time of the offence, was employed as a Prison Officer. He resigned from the Singapore Prison Service during police investigations and is presently working as a taxi driver.
+
+5       The second accused person, Loo Yew Tek, is a 48-year old Singapore citizen. At the time of the commission of the offences, he was the Senior Project Manager with Thong Huat Brothers (Pte) Ltd (“Thong Huat”). He was also the Director of Innova Development Pte Ltd and Frontbuild Engineering Pte Ltd.
+
+6       In the financial year 2010/2011, Thong Huat was awarded all the projects undertaken by Prisons under an Additions and Alterations Term Contract (“Term Contract”) between the Ministry of Home Affairs and Thong Huat. One project was for renovating the auditorium at Prisons Cluster B (“Auditorium project”) and another was for relocating the Prison Link Centre from Toa Payoh to Geylang Bahru (“Geylang Bahru project”). Under this Term Contract, a list of the commonly needed goods and services were set out in the schedule to the contract titled, Fixed Schedule of Rates items. The prices for this list of goods and services were based on the fixed rates stated in the contract. There was no requirement to call for quotations or tenders for these items. For the items not listed in this schedule but within the scope of the Term Contract, Thong Huat as the main contractor, was required to call for three quotations from potential subcontractors, and thereafter to submit them for selection and approval by Prisons. These items are known as Star Rate items.
+
+7       All the works awarded under the Term Contract were managed by CPG Facilities Management Pte Ltd (“CPGFM”) on behalf of Prisons, as part of CPGFM’s contract with MHA. As the building manager, CPGFM was tasked to ensure that proper procurement processes were adopted. CPGFM received a fee of 4.5% on the value of the works done.
+
+8       Thong Huat was required to submit quotations for the Star Rate items valued at more than $3,000 to CPGFM. CPGFM would typically recommend to Prisons, the lowest quotation which met all the requirements. The key officers from CPGFM who were involved in assessing the quotations and compiling the supporting documents for the quotations were Gandam Gajendran (“Gajendran”), Alec Nichols Chan Kah Choy (“Alec”) and Muhammad Hafizuddin Bin Hairudin (“Hafiz”). The recommendations were submitted to Tang for verification before he forwarded the same to his superiors for approval.
+
+9       Once a Star Rate item of work under the Term Contract is completed, Thong Huat would issue a Bill of Quantities (“BQ”) to CPGFM and Prisons for verification against the work done. Thong Huat would also issue an invoice for the work done. The electronic invoice will be generated in the electronic financial system and then routed to Tang, the certifying officer, for checking. If it was found to be in order, Tang would accept the invoice for payment. Thong Huat was required to submit the following documents in support of their invoice for work done.
+
+> a.     The subcontractor’s quotations;
+
+> b.     A prescribed declaration form by Thong Huat which specifies the price which Thong Huat paid for each Star Rate item. This is known as the Form D9; and
+
+> c.     Documentary evidence of the amount paid by Thong Huat to the subcontractor. This is known as the D9 invoice and only needs to be submitted upon request by CPGFM and Prisons.
+
+10     Tang would check the electronic invoice against the above documents. For works involving Star Rate items, Thong Huat was entitled to be reimbursed at the Star Rate items’ cost price plus a 5% mark-up.
+
+11     In July 2011, AGO commenced an audit of the procurement processes for the two projects. AGO requested from Prisons, the supporting documents for certain procurements made for works carried out under the Term Contract. When AGO specifically asked for the supporting documents for the Star Rate items, CPGFM informed Prisons that they did not have a complete set of the requisite documents. CPGFM only had Thong Huat’s BQs and Thong Huat’s invoices. They did not have the subcontractors’ quotations, the Form D9 or the D9 invoices. When CPGFM asked Thong Huat for the requisite documents, Thong Huat replied that they did not have the necessary documents either. A meeting was then called for, involving the Prisons officers and personnel from both CPGFM and Thong Huat.
+
+#### Undisputed Facts
+
+12     The following key facts were undisputed by parties.
+
+13     In the Financial Year 2011/2012, AGO carried out an audit of the Prisons in relation to projects undertaken by the Prisons for the financial year 2010/2011. Specifically, AGO requested for the Star Rate items’ quotations and the Forms D9 for the Auditorium project and the Geylang Bahru project. Following the request from AGO, Prisons and CPGFM discovered that they did not have all the requisite documents. Most of the quotations and the Forms D9 for the Star Rate items were missing.
+
+14     On 28 July 2011, Loo called for a meeting to discuss the missing documents. He sent an email to Gajendran in response to Ganjendran’s request for the missing invoices and Forms D9. In this email, Loo stated that ‘recently we (sic) had encountered some unfortunate severe incidents which would like to share with you’. The email was copied to Hafiz, Alec and Bob Neo Chee Soon (“Bob”), the project manager at Thong Huat who was overseeing the Prisons projects under the Term Contract. The email thread was later forwarded to Chew Tee Seng (“Chew”), the Deputy Superintendent of Prison, who was then a manager at the Infrastructure Development Branch (“IDB”) at Prisons headquarters. Chew had expressed an interest in attending the meeting and indicated that Tang will be present too. Thereafter, Bob arranged for the meeting to be held on 3 August 2011 at 10.00 am at the Prisons premises.
+
+15     The meeting was attended by Loo, Chew, Bob and others. The matters discussed at the meeting are in dispute. What is agreed on by parties is that following the meeting, between August 2011 and March 2012, Bob prepared three quotations for each Star Rate item. The quotation in Thong Huat’s name contained the lowest amount and the remaining two higher quotations were in the names of other companies. All the quotations were backdated to a date in 2010 when the projects were ongoing. The backdated quotations were submitted by Bob to Prisons and they were received by Tang. Thereafter, the backdated quotations were submitted to AGO.
+
+#### The Prosecution’s Case
+
+16     The thrust of the Prosecution’s case as summarised in their Closing Submissions, is that Thong Huat was unable to submit to AGO any of the Forms D9 or quotations and invoices from the subcontractors for the Star Rate items for the two projects, as Thong Huat had charged Prisons a far higher price for the Star Rate items than what it had paid to its subcontractors. The amount that Thong Huat had charged Prisons was in excess of the 5% mark-up that it was entitled to. Thong Huat had previously prepared forged Forms D9, subcontractor quotations and invoices that contained inflated prices to support the higher amounts that Thong Huat charged Prisons.
+
+17     Following AGO’s request, Prisons realised that that they did not have a complete set of three quotations for each star rate item which was procured for the Auditorium and Geylang Bahru projects. They also realised that most of the Forms D9 had not been submitted to them. CPGFM did not have these documents either. This problem was the result of both Prisons and CPGFM not having insisted that Thong Huat submits all the necessary documents before proceeding to certify that payment could be made to Thong Huat.
+
+18     The Prosecution has set out the procurement process under the Term Contract in their Closing Submissions which I reproduce below.
+
+> a)     Fixed schedule of rate items: These were items whose prices had been pre-determined and specified in the Term Contract. As Thong Huat had won the bid for the Term Contract by offering a 57.2% ‘discount’ off the price for fixed schedule of rate items, Thong Huat was only entitled to charge Prisons the discounted price for such items.
+
+> b)     Star rate items: Any item not found in the fixed schedule of rates items amounted to a Star Rate item. Thong Huat had to call for three quotations for each Star Rate item, and the price of the item would be fixed at the lowest quote. For such items, Thong Huat could only charge the price it paid to the subcontractor who supplied the item, _plus a mark-up of 5%_. To guard against overcharging by Thong Huat, Thong Huat was required to declare the price it paid to its subcontractor in a document called Form D9. The Form D9 as well as the corresponding subcontractor’s invoice, had to be submitted to Prisons.
+
+19     When AGO called for the documents, Prisons and CPGFM looked to Bob for the outstanding documents. That was when Loo stepped in and called for the meeting.
+
+20     During the meeting on 3 August 2011, Loo informed those present that the documents contained in the files were forged and could not be submitted to AGO for audit, lest the forgery is discovered by AGO. Loo then came up with a plan to avoid submitting to AGO the previously forged documents. He proposed to replace all the previous documents with fresh documents. The plan was as follows:
+
+> a)     Three quotations would be provided for every Star Rate item – one in Thong Huat’s name and two in the name of other companies;
+
+> b)     Of these three quotations, Thong Huat’s quotation would bear the lowest price;
+
+> c)     The price stated in Thong Huat’s quotation would correspond with the price the Prisons had previously paid Thong Huat for the Star Rate item; and
+
+> d)     The quotations would also be backdated to the period when the projects were ongoing.
+
+21     Loo wanted to create the impression that Thong Huat had provided the Star Rate items as it had quoted the lowest price. Hence there was no other subcontractor involved, thus obviating the need for a Form D9 declaration of the price which Thong Huat paid to the subcontractor. CPGFM would then endorse Thong Huat’s quotation to make it look like approval had been given to Thong Huat to supply the Star Rate items for the two projects.
+
+22     Those present at the meeting on 3 August 2011 were Loo, Bob, Chew and Tang. Everyone present at this meeting agreed to Loo’s pan. Subsequently, there was a second meeting attended by Bob, Chew, Tang, Gajendran, Alec and Hafiz. The plan was communicated to them as well, and everyone agreed to the plan.
+
+23     After the first meeting, Loo instructed Bob to prepare the backdated quotations and Bob complied. For each star rate item, Bob prepared Thong Huat’s backdated quotation by drawing up a quotation on Thong Huat’s letterhead and falsely stating that it was created in 2010. As it was impossible for him to obtain backdated quotations from the other companies, because no company would have agreed to give a backdated quotation for a project that was already completed, Bob fabricated the remaining two quotations by placing genuine letterheads of other companies onto backdated quotations which he had created.
+
+24     Bob then submitted the fabricated quotations to Prisons. Tang assisted to collect and compile the quotations and then to forward them to the CPGFM project managers, Alec and Hafiz, to endorse on the fabricated Thong Huat quotations. All the fabricated backdated quotations were thereafter submitted to AGO and presenting them as genuine documents.
+
+25     The Prosecution argued that the conspirators through their actions hoped obtain the following advantages:
+
+> a)     To avoid AGO making an adverse finding against Prisons for having made payments before ensuring that all the documentation was in order;
+
+> b)     To avoid AGO discovering that Thong Huat had overcharged Prisons; and
+
+> c)     To avoid AGO discovering that Thong Huat had previously submitted forged documents when the projects were ongoing.
+
+#### The 1st Accused Person’s Case
+
+26     The 1st Accused Person, Tang’s case simply put, is that there was no conspiracy amongst the persons named in the charges. It was submitted that there was no agreement amongst the co-conspirators to fraudulently use forged documents as genuine with the knowledge that the documents used were forged. Bob alone, without the knowledge of the rest, carried out the forgery. Therefore, the submission of the forged documents to AGO was not an act done as a consequence of a conspiracy or an agreement amongst the conspirators. It was disputed that Tang was present at the meeting held on 3 August 2011 when the plan was hatched. It was further submitted that Tang did not have the necessary intention to be a party to an agreement to commit an unlawful act. It was argued that when Tang collated the documents and presented them to the CPGFM managers for endorsement, he was not aware that the documents were forged. He was merely carrying out his duty.
+
+#### The 2nd Accused Person’s case
+
+27     The crux of the 2nd Accused Person, Loo’s case, is that he had no involvement at all in the conspiracy. It was Loo’s position that Bob had gone ahead to forge the documents without his knowledge. Loo had at no time suggested that forged documents be created to replace the previous set of documents and that the forged documents be submitted to AGO. If such a plan was hatched at a meeting, Loo was not present at such a meeting. Loo’s position was that when he had instructed Bob to get back-dated quotations, it was to get quotations for a sensing of the value of the items as at the time when the project was ongoing. This was akin to obtaining a valuation for a piece of property. It never occurred to him that such ‘backdating’ would by definition be tantamount to forgery under the law. Loo also denied overcharging Prisons and argued that this was not possible as there was a checking mechanism in place. CPGFM and Bob would have to conduct a site measurements of the works carried out before payment to Thong Huat could be approved. Loo stated that he had to charge Prisons a higher price because of the additional equipment that was provided such as scaffolding, scissor lift, lorry crane and other machinery. There was no overcharging.
+
+#### The Applicable Law
+
+28     The key element in the principal offence under s 471 of the Penal Code, Cap 224, for using as genuine a forged document, is knowledge. It could be actual or imputed knowledge that the documents used were forged. I reproduce below the relevant provisions.
+
+> **Using as genuine a forged document or forged electronic record**
+
+> **471**.    Whoever fraudulently or dishonestly uses as genuine any document or electronic record which he knows or has reason to believe to be a forged document or forged electronic record, shall be punished in the same manner as if he had forged such document or electronic record.
+
+29     The accused persons must therefore:
+
+> a)     fraudulently or dishonestly use as genuine a forged document or electronic record; and
+
+> b)     know or have reason to believe that the document is forged.
+
+30     The mental element specified in the present charges is ‘fraudulently’. The term ‘fraudulently’ is defined in s 25 of the Penal Code, Cap 224, as to do a thing with intent to defraud. The Prosecution has referred to two Court of Appeal cases of _PP v Li Weiming and others[^1]_ and _Chew Eng Han v PP[^2]_ for the interpretation of the phrase, ‘intent to defraud’. In _PP v Li Weiming and others_, the CA held that a person has an intent to defraud if he practices a deception with the aim of, either causing an injury, loss or detriment, or obtaining an advantage. This definition of intent to defraud was applied by the Court of Appeal in the more recent case of _Chew Eng Han v PP_ where the Court of Appeal stated that to have an intent to defraud, the offender “must have intended, through his deception, to cause injury or create an advantage”.
+
+31     The charges in the present case, further state that the accused persons engaged in a conspiracy with the others named in the charges to abet the commission of the offences. Abetment by conspiracy is defined in s 107(b) of the Penal Code, Cap 224 as follows:
+
+> **Abetment of the doing of a thing**
+
+> **107**.    A person abets the doing of a thing who –
+
+>> …
+
+>> (b)    engages with one or more other person or persons in any conspiracy for the doing of that thing, if an act or illegal omission takes place in pursuance of that conspiracy, and in order to the doing of that thing.
+
+32     The Prosecution and the Defence were in agreement that the essence of conspiracy is agreement between two or more persons to do some illegal act. It is essential that there is a “meeting of minds” so that all are aware of the general purpose of the plot.
+
+33     The Defence Counsels have cited the High Court decision in _Lee Yuen Hong v Public Prosecutor[^3]_ which succinctly sets out the elements of an offence under s 107 of the Penal Code, Cap 224, which the Prosecution must prove beyond reasonable doubt.
+
+> (a)     the person abetting must engage, with one or more other persons in a conspiracy;
+
+> (b)     the conspiracy must be for the doing of the thing abetted; and
+
+> (c)     an act or an illegal omission must take place in pursuance of the conspiracy in order to the doing of that thing.
+
+34     In the subsequent case of _Hwa Lai Heng Ricky v Public Prosecutor[^4]_, Yong Pung How CJ elaborated on the element of agreement. He said,
+
+> _Agreement is the basic element in conspiracy..._
+
+> _The idea of an agreement entails a meeting of minds, and there is no need for a physical meeting of the persons involved so long as they reach a mutual understanding of what is to be done. There must be an agreement between the alleged conspirators to do the act._
+
+35     In the Court of Appeal decision of _Public Prosecutor v Yeo Choon Poh[^5]_, the court discussed what constitutes evidence of a conspiracy. It held,
+
+> _One method of proving a conspiracy would be to show that the words and actions of the parties indicated their concert in the pursuit of a common object or design, giving rise to the inference that their actions must have been coordinated by arrangement beforehand. These actions and words do not of themselves constitute the conspiracy but rather constitute evidence of the conspiracy._
+
+> _… the question that a trial court must ask itself at the end of the trial is whether in respect of each alleged conspirator the court is satisfied on the evidence as a whole that he must have conspired with one or more of the others_.
+
+36     In _Nomura Taiji and others v PP [^6]_ the High Court cited the observations made by the Court of Appeal in _Public Prosecutor v Yeo Choon Poh_ that in most cases, the actual agreement would take place in private such that direct evidence of it would rarely be available. The High Court added,
+
+> _Moreover, there is no requirement in law that the alleged conspirators should remain in each other’s company throughout or at all. A conspiracy may be proved by oral or circumstantial evidence, as well as the conduct of the accused both before and after the alleged commission of the crime – Vinit Sopon v PP <span class="citation">\[1994\] 1 SLR(R) 1071</span>._
+
+37     The Prosecution further submitted that it was only necessary to prove that the act committed pursuant to the conspiracy was illegal and there was no requirement to prove that the conspirators knew that what they had agreed to was unlawful. The Prosecution referred to _Nomura Taiji and others v PP_ where the High Court cited the remarks made by the House of Lords in _Churchill v Walton [^7]_,
+
+> _I would say that mens rea is only an essential ingredient in conspiracy insofar as there must be an intention to be a party to an agreement to do an unlawful act; that knowledge of the law on the part of the accused is immaterial, and that knowledge of the facts is only material insofar as such knowledge throws a light on what was agreed._
+
+> _In cases of this kind, it is desirable to avoid the use of the phrase ‘mens rea’, which is capable of different meanings, and to concentrate on the terms or effect of the agreement made by the alleged conspirators. The question is ‘What did they agree to do?’ If what they agreed to do was, on the facts known to them, an unlawful act, they are guilty of conspiracy and cannot excuse themselves by saying that, owing to their ignorance of the law, they did not realise that such an act was a crime. If, on the facts known to them, what they agreed to do was lawful, they are not rendered artificially guilty by the existence of other facts, not known to them, giving a different and criminal quality to the act agreed on._
+
+38     I turn now to address the factual issues in this case.
+
+#### Issues before the Court
+
+39     It was agreed that the documents submitted to AGO for purposes of the audit were created by Bob after the audit had commenced in 2011, and were backdated to 2010.
+
+40     Ms Elaine Ng Tze Ing, the Senior Assistant Director in AGO, testified that when AGO carried out its audit for the two projects, supporting documents such as quotations, BQs and invoices were submitted to AGO.[^8] AGO observed signs of falsifications in the quotations for the Star Rate items such as slanted letterheads indicating that it was possibly a cut and paste job. There were spelling and grammatical errors in the quotations too. AGO suggested to Prisons that the matter should be investigated.[^9]
+
+41     Subsequent witnesses including Bob testified that once AGO commenced their audit, the decision was made to submit to AGO three quotations, with Thong Huat’s quotation as the lowest, together with two other quotations from other contractors. As it was impossible to obtain quotations from contractors for completed works, Bob created the quotations from the other contractors as well as invoices and some D9 forms. These documents created by Bob, were later submitted to AGO.[^10]
+
+42     It was not disputed either that submitting forged documents to be used as genuine, was unlawful.
+
+43     The legal definition of a _“forged document”_ can be found in s 470 of the Penal Code, Cap 224, which states that a false document made wholly or in part by forgery would be considered a forged document.
+
+44     “_Forgery_” is defined in s 463 of the Penal Code, Cap 224, as making a false document to support any claim, or with intent to commit fraud, or that fraud may be committed.
+
+45     In s 464 of the Penal Code, Cap 224, a person is said to make a “_false document_” if he dishonestly or fraudulently makes, a document or part of a document with the intention of causing it to be believed that such document was made at a time at which he knows that it was not made. It follows then that when such a forged document is fraudulently used as genuine, it would constitute an offence under s 471 of the Penal Code, Cap 224.
+
+46     The two factual issues which remain to be determined are:
+
+> i.      _Whether there was an agreement between the accused persons and their co-conspirators to submit to AGO backdated quotations with Thong Huat’s quotation being the lowest of the three quotation; and_
+
+> ii.      _Whether the accused persons agreed to this plan with the intent to defraud._
+
+47     As stated in _Public Prosecutor v Yeo Choon Poh_, in most cases, direct evidence of an agreement would rarely be available. The court will have to look at the circumstantial evidence as well as the conduct of the participants prior to, and after the commission of the offence. In the present case, the evidence led at this trial did not disclose an express agreement between the accused persons and their co-conspirators to submit forged documents to AGO with the intent to cause injury or gain an advantage. I therefore examined the conduct of the involved persons before and after the creation of the forged documents as well as the surrounding circumstances to determine the factual issues in dispute.
+
+#### (a)   Email exchange between Loo and Chew
+
+48     On 28 July 2011, Gajendran from CPGFM sent an email to Bob asking for the Forms D9 for the Star Rate items used for the two Prisons projects. Gajendran stated that they had previously spoken about the matter and that the documents were now urgently required for submission to the Prisons finance department. Loo, who must have obtained the email from Bob, replied to the email that same afternoon and copied his reply to Bob, Hafiz and Alec. He requested to meet to discuss the submission of the D9 Forms as they _recently had encountered some unfortunate severe incidents which he would like to share_.[^11]
+
+49     This email was brought to the attention of Chew who responded the following day. On 29 July 2011, Chew replied that they can meet to discuss and that Tang and he were keen to hear from Loo. Chew added that one ‘Sri’ could be invited to the meeting as well for his _recent … other experience_. Chew assured that he knew that the matter was _confidential_ and that Prisons _will keep it and will not spread_. Loo responded that he would ask Bob to set up the meeting. Bob sent out an email to Loo, Chew and Gajendran informing that the meeting was scheduled for 3 August 2011 at 10.00 am at the Prisons premises.
+
+50     Chew replied to Loo, Bob and Gajendran stating that the deadline for submission of documents to AGO was past and AGO had noted that the Forms D9 were missing. Chew also made the following remarks in his email reply.
+
+> _Like I say, if the lacking Form D9 after end of discussion is required, CPGFM and SPS will be put in the position that we never ensure check properly before we accept invoice. Then like I say, your company will be smart to run away with the blame but CPG and SPS will get the blame. In this situation, like I say, we really cannot continue any more with company related to you all._
+
+> _Hence if you can accept that for the particular case for CLB Auditorium if form D9 is required you all then can quickly prepare and if it is not too late for AGO to accept, then our relationship can still be salvaged.[^12]_
+
+51     It is evident from the email exchange that Loo, Chew, Gajendran, Bob and Tang too, (who was mentioned by Chew in the email) were aware that AGO was asking for Forms D9 for the two Prisons projects and that those documents were not in the possession of Prisons or CPGFM. Otherwise, the documents would have been submitted to AGO without more.
+
+52     It is also plain from the email thread that all of them were worried about the consequences of not being able to submit the requisite Forms D9 to AGO. Chew from Prisons was concerned that Prisons and CPGFM would be _blamed_ for not carrying out the requisite checks before giving approval for payment. Tang, who was the certifying officer for the two projects, would naturally be implicated. Loo had expressed similar concerns, referring to a prior _unfortunate severe incident_ and wanted the opportunity to explain. He stood at risk of losing further business from Prisons as Chew had stated that he did not wish to _continue any more with a company related_ to Loo if the matter was not resolved. There was certainly an impetus for Chew, Loo, Bob, Tang and the others to find a solution to the problem of the missing documents sought by AGO.
+
+53     Following this email exchange, there was an agreement to meet to discuss the problem. Chew had suggested in the email that _if it_ is _not too late for AGO to accept_, to _quickly prepare_ the Forms D9. It would appear that even before the meeting scheduled for 3 August 2011 took place, there was a proposal to prepare documents for AGO, to conceal the fact that these documents were not previously given to CPGFM and Prisons by Thong Huat.
+
+#### (b)   The first meeting on 3 August 2011
+
+54     There were two meetings held to discuss AGO’s request for Forms D9. The first meeting was held on or about 3 August 2011. There was some uncertainty as to the exact date of this meeting. Loo thinks that it was on 3 August 2011. Bob is not certain of the date but recalls that it was at the start of August 2011, a few days after the email exchange. Chew thinks that it was in the middle of August 2011.[^13] The Defence argued that these inconsistencies suggest that the Prosecution witnesses, Bob and Chew, are unreliable and their evidence must be treated with caution. I found that these were trivial discrepancies, likely a result of their differing ability to observe and recall, and that these discrepancies did not detract from the veracity of the accounts. The courts have always accepted that human fallibility in observation, retention and recollection is a common occurrence even amongst honest and disinterested witnesses. If the discrepancies do not detract from the value of the testimony, the court will regard them as trivial and ignore them.[^14]
+
+55     It was undisputed that Chew, Loo and Bob were present at the first meeting. What remained to be determined was whether Tang was present as well. Tang’s defence was that he did not attend this meeting. Tang testified that he was present at a meeting where Chew had asked Bob and Gajendran to produce documents[^15] but he had never attended a meeting where Loo was present and AGO’s audit for the Prisons projects was discussed.[^16] Bob testified that Tang was not only present but had actively participated in the meeting. Bob stated that during the meeting, Tang had gone down to the office at level 1 to retrieve a file containing documents for Loo to inspect.[^17] It was only after Loo had gone through this file, that Loo proposed submitting backdated quotations. Loo recalled that there was another _Chinese guy_ present at the meeting,[^18] and Chew could not remember if anyone other than Bob and Loo was present.[^19]
+
+56     The Defence again contended that these were material discrepancies in Bob and Chew’s accounts. I accepted Prosecution’s submissions that there was no discrepancy between Bob’s and Chew’s accounts. Chew simply could not remember. Chew did not contradict Bob and say that Tang was absent from the meeting. He could not recall one way or another. Bob on the other hand, resolutely stated that Tang was present at the first meeting. I accepted his testimony and found no reason to disbelief him.
+
+57     Bob and Chew unanimously agreed that at the meeting, it was decided that backdated quotations would be submitted to AGO. Chew’s testimony during his evidence-in-chief was as follows.
+
+>   
+| 
+
+_Q._
+
+ | 
+
+_Did Tavis tell you why they could not submit their D9 invoice?_
+
+ |
+| 
+
+_A._
+
+ | 
+
+_I recall he said he could not submit D9 invoice because the actual invoice from the subcontractors did not -- did not tally with the form D9 declaration_.
+
+ |
+| 
+
+_Q._
+
+ | 
+
+_The D9 declaration is a declaration by Thong Huat of how much they paid the subcontractor. That's what you told the court earlier; correct?_
+
+ |
+| 
+
+_A._
+
+ | 
+
+_Yes._
+
+ |
+| 
+
+_Q._
+
+ | 
+
+_Now you are telling the court that Tavis told you that he could not submit the D9 invoice because the actual invoice from the subcontractor did not tally with the D9 form declaration?_
+
+ |
+| 
+
+_A._
+
+ | 
+
+_Yes._
+
+ |
+| 
+
+_Q._
+
+ | 
+
+_Why is the D9 form -- sorry. Why can the D9 form not tally with the D9 invoice?_
+
+ |
+| 
+
+_A._
+
+ | 
+
+_My understanding was that the D9 invoice was at a different amount, not the same as was declared in the D9 form._
+
+ |
+| 
+
+_Q_
+
+ | 
+
+_Different, how? More or less than what was declared?_
+
+ |
+| 
+
+_A._
+
+ | 
+
+_My understanding was the D9 invoice should be less than the amount reflected in the D9 form.[^20]_
+
+ |
+| 
+
+…
+
+ |
+| 
+
+_DPP MR MALHOTRA:_
+
+ | 
+
+_Mr Chew, before the break, I am just going to read out the answer that you gave to the court. You said that the D9 form was meant to be a declaration when Thong Huat made payment to a subcontractor and if the lowest star rate quotation was from Thong Huat, there would not be a need for payment to a subcontractor and, therefore, there would not be a need for a D9 form?_
+
+ |
+| 
+
+_A._
+
+ | 
+
+_Yes._
+
+ |
+| 
+
+_Q._
+
+ | 
+
+_Was this reasoning discussed during the meeting that you had with Tavis and Bob in the middle of August 2011?_
+
+ |
+| 
+
+_A._
+
+ | 
+
+_Yes, we discussed._
+
+ |
+| 
+
+_Q._
+
+ | 
+
+_And who told you this that if the lowest quotation was from Thong Huat, there would not be a need for a D9 form?_
+
+ |
+| 
+
+_A._
+
+ | 
+
+_Mr Tavis[^21]_
+
+ |
+| 
+
+_…_
+
+ |
+| 
+
+_Q._
+
+ | 
+
+_After Tavis explained this to you, what else was discussed at the meeting?_
+
+ |
+| 
+
+_A._
+
+ | 
+
+_So we discussed that Bob would go and prepare the necessary documents._
+
+ |
+| 
+
+_Q._
+
+ | 
+
+_What documents would Bob go and prepare?_
+
+ |
+| 
+
+_A._
+
+ | 
+
+_The star rate quotations._
+
+ |
+| 
+
+_Q._
+
+ | 
+
+_How many star rate quotations?_
+
+ |
+| 
+
+_A._
+
+ | 
+
+_So it was three star rate quotations, Thong Huat and the other two, if they were already available it would be used. If not available, Bob would source for it._
+
+ |
+| 
+
+_Q._
+
+ | 
+
+_Three star rate quotations, one from Thong Huat and the other two if they were already available, they would be used, if not, Bob would source for them?_
+
+ |
+| 
+
+_A._
+
+ | 
+
+_Yes._
+
+ |
+| 
+
+_Q._
+
+ | 
+
+_Amongst these three quotations, whose quotation was to be the lowest?_
+
+ |
+| 
+
+_A._
+
+ | 
+
+_Thong Huat Brothers._
+
+ |
+| 
+
+_Q._
+
+ | 
+
+_What would be the date on these quotations?_
+
+ |
+| 
+
+_A._
+
+ | 
+
+_It would be before the final payment date[^22]_
+
+ |
+
+  
+  
+
+58     During his re-examination, Chew provided further clarification.
+
+> _Q_.     _In your discussions with Tang Keng Lai, was there a discussion about backdating quotations?_
+
+> _A_.     _Yes_
+
+> _Q_.     _What was the discussion?_
+
+> _A_.     _The discussion was as per the understanding from the meeting that the quotations that Bob were to obtain shall bear -- shall bear backdated dates, so that the backdated date for -- to be during the implementation of the projects._
+
+> _Q_.     _By obtaining quotations from Bob that were backdated to during the dates of the implementation of the projects and then submitting these documents to AGO, what was the impression that you were trying to give to AGO?_
+
+> _A_.     _It was to show the proper sequence where quotation was gotten before payment of the projects.[^23]_
+
+59     During Chew’s cross-examination, the Defence asked Chew if there was an agreement amongst those present at the meeting to submit _forged_ quotations. Chew denied that there was any such agreement. During re-examination, Chew clarified that his understanding of a forged document is that the document created is not from the owner of the document. He was shown the invoices tendered in court and Chew stated his belief that the documents were produced by the organization named in the invoice. He confirmed once again that the agreement was that the documents would bear a backdated date.[^24]
+
+60     Bob’s testimony was similar. During his evidence-in-chief, Bob gave clear evidence that everyone present at the meeting knew that the quotations were to be backdated. The suggestion to submit backdated quotations came from Loo and everyone agreed to his plan.
+
+> Q.    After Tavis' suggestion had been made to the group, what was the understanding of the group? Would it be that they disagreed or agreed?
+
+> _A_.     _Agreed._
+
+> _Q_.     _Did anyone in the group at the meeting voice any disagreements to the plan?_
+
+> _A_.     _No._
+
+> _Q_.     _Did anyone go and tell Tavis, "No, let's not do this, this is wrong"?_
+
+> _A_.     _No.[^25]_
+
+61     Bob explained that the purpose was to make it appear as if the documents were submitted during the progress of the projects.
+
+62     Bob further testified that after Loo had gone through the invoices contained in the file retrieved by Tang, Loo informed those present at the meeting that the documents need to be re-submitted. Loo had realised three things. First, that the quotations contained in the file did not match the price paid by Prisons. Prisons had paid Thong Huat a higher price than what was shown in the quotations. Next, Loo realised that Thong Huat’s quotations in the file were not the lowest and thus Forms D9 would have to be submitted. The Forms D9 in the file did not tally with the lowest quotations. Finally, Loo was also reminded that the file contained forged documents prepared by one of Thong Huat’s quantity surveyors, Isis. It would appear that even with the forged documents previously prepared by Isis, there were discrepancies. Loo’s solution was to submit backdated quotations with Thong Huat’s quotation being the lowest quotation. This would obviate the need for Forms D9 and would regularise the discrepancies between the price paid by Prisons and the price stated in the lowest quotation. Bob’s testimony was as follows.
+
+> _Q_.     _After the documents were taken from level 1 to level 2 by Tang Keng Lai, who were they given to?_
+
+> _A_.     _The document was given to me and Tavis for us to check what are the documents._
+
+> _Q_.     _When Tavis was checking the documents, what did he say?_
+
+> _A_.     _While checking the documents, he said that these document must not be submitted and must be taken back and resubmit again._
+
+> _Q_.     _What is the reason it cannot be submitted?_
+
+> _A_.     _The document found was -- was not a original lowest quote and D9 forms for the projects._
+
+> _Q_.     _They were not the original lowest quote. What were they in fact?_
+
+> _A_.     _They were the forged documents submitted by QS called Isis.[^26]_
+
+> …
+
+> _Q_.     _Let's go back to the forged documents in the folder. In relation to the amount stated on these forged documents, as compared to the real, original documents, is the price the same, lower or higher?_
+
+> _A_.     _The price is higher.[^27]_
+
+> …
+
+> _Q_.     _What was the reason for submitting forged documents with the higher price for the purpose of claiming for works done under this term contract?_
+
+> _A_.     _You are asking, what is the purpose of submitting higher?_
+
+> Q.    Yes.
+
+> _A_.     _The purpose of submitting higher will be to charge more.[^28]_
+
+> _…_
+
+> _Q_.     _After Tavis had already looked at the documents in the folder and he had stated that they must not be submitted, what was told to the group next?_
+
+> _A_.     _He told that the documents cannot be submitted and need to take back and resubmitted again._
+
+> _Q_.     _When the documents are resubmitted, what is the plan?_
+
+> _A_.     _Tavis has suggested the lowest quote all be changed to Thong Huat Brothers (Pte) Ltd and together we submit it and two and three quotes._
+
+> _Q_.     _The two and three quotes, you are referring to other subcontractor quotations?_
+
+> _A_.     _Yes, your Honour._
+
+> _Q_.     _What would be the dates stated on all these quotes?_
+
+> _A_.     _The date stated will be backdated to the day when the project was going on and complete._
+
+> _Q_.     _Why is there a need to backdate the quotes?_
+
+> _A_.     _To backdate the quote is to put that the document was submitted during the process of the work._
+
+> _Q_.     _In relation to the amount stated, the lowest amount stated on the Thong Huat quotation, where would that figure come from?_
+
+> _A_.     _The lowest quote quotation is the same as the one that we quoted during the initial quotation.[^29]_
+
+> …
+
+> _Q_.     _To be clear, essentially, the lowest Thong Huat quotation would match the price which Prisons paid Thong Huat previously, after the works were done._
+
+> _A_.     _Yes, your Honour._
+
+> _Q_.     _Prisons and CPG were originally asking Thong Huat for forms, so how would this suggestion by Tavis get around the request for D9 forms?_
+
+> _A_.     _If the lowest quote was done by Thong Huat and the main contractor was Thong Huat, so there is no need to issue invoice within the same company, so D9 form was not required.[^30]_
+
+63     During cross-examination, Bob had similarly agreed with the Defence Counsels that, at the meeting, there was no agreement to submit forged documents. In re-examination, Bob explained that _to (his) understanding, the backdated was not a forged document_.[^31] He did not consider backdating to be a forged document. He stated that when he spoke of forged documents, he was referring to the documents previously forged by Isis.[^32]
+
+64     Loo’s counsel submitted that Bob and Chew ought to be treated as accomplices who may be presumed to be unworthy of credit.[^33] He relied on the Court of Appeal decision in _Chai Chien Wei Kelvin v Public Prosecutor[^34]_ where the court cautioned that _the accomplice is an interested party who would have reasons of his own to exaggerate the culpability of or implicate the accused, while reducing the magnitude or importance of his own involvement in the matter. Whether or not the court should believe the evidence of the accomplice would depend on all the circumstances of the case and the evidence must be tested against the objective facts as well as the inherent probabilities and improbabilities._
+
+65     Having reviewed the evidence of both Bob and Chew, I agreed with the Prosecution that both witnesses have candidly testified to their involvement and made no attempt to downplay their culpability or to exaggerate that of the accused persons. Chew stated quite frankly that he could not recall if Tang attended the first meeting. Bob readily admitted that he had created the quotations without the knowledge or the assistance of the other conspirators. There was no attempt by either of them to minimise their involvement or to exaggerate that of the accused persons. They had both pleaded guilty for their involvement and served their sentences. There was nothing to suggest that they stood to benefit by falsely implicating the accused persons. I found Bob and Chew to be reliable witnesses and their evidence was consistent as a whole, and saw no reason to view their testimonies with suspicion.
+
+#### (c)   The second meeting
+
+66     The second meeting was held soon after the first. It was attended by Bob, Chew, Tang and CPGFM’s employees, Gajendran, Alec and Hafiz. Loo’s plan to submit backdated quotations was discussed and everyone present agreed to it. Specifically, the testimonies of the CPGFM’s employees were as follows.
+
+67     Gajendran testified that he sent the email to Bob on 28 July 2011 requesting for the documents for the Prisons projects including the Forms D9. He also called Bob to remind him to send in the documents quickly. Bob informed him that they did not have the Forms D9. Gajendran next called Loo. Loo told him that _they (were) unable to submit the form D9s because they (had) also submitted similar form D9s in some other projects which had caused them some problems. So that they are unable to submit the form D9s for all the jobs done at (Prisons)_.[^35] Following that telephone conversation, Loo sent an email requesting for the first meeting. Gajendran does not recall attending the first meeting.[^36]
+
+68     Gajendran testified that there was a second meeting when he and his colleagues, Stefan Lazarus, Hafiz and Alec were present. At this meeting, Chew informed them of Loo’s plan to submit backdated quotations. Gajendran’s evidence during examination-in-chief was as follows.
+
+> _Q_.     _Okay. So then what did SPS come back and tell you?_
+
+> _A_.     _So SPS Mr Chew Tee Seng told us that the contractors are unable to submit form D9s so they will be submitting three quotations, out of which Thong Huat Brothers' quotation will be the lowest and once this is the lowest then there is no required for form D9s, so it will only be three quotations._
+
+> _Q_.     _Before I follow up on your answer, how are the three quotations supposed to be dated?_
+
+> _A_.     _The actual procedure is the three quotations should come before the commencement of work, but for these jobs the quotations were back-dated before commencement of date and without submitted._
+
+> _Q_.     _So who came up with this plan to submit three quotations, three back-dated quotations with Thong Huat being the lowest?_
+
+> _A_.     _I believe it should be -- came from Tavis from Thong Huat Brothers, and through SPS. So SPS Mr Chew Tee Seng told us this is the procedure, this is the way how to -- how they will be submitting the three quotations.[^37]_
+
+69     During cross-examination, Gajendran reiterated that everyone present at the second meeting agreed to submit backdated quotations which he believed would be genuine quotations.
+
+> _Q_.     _Yes. Now, do you agree to submit a false quotation?_
+
+> _A_.     _I don't know. I mean, we all agree -- we don't know actually what quotation they asked -- what quotation they are going to submit._
+
+> _Q_.     _You don't know what quotation to ask?_
+
+> _A_.     _To us, quotation should be a genuine one._
+
+> _Q_.     _If it turns out that this quotation is not true, it will be false and it will be back-dated as well. Do you agree to that as well?_
+
+> _A_.     _It will be back-dated._
+
+> _Q_.     _Yes, you agree then?_
+
+> _A_.     _Yes.[^38]_
+
+70     Hafiz similarly testified that there was a second meeting held to discuss the submission of the supporting documents requested by AGO. Hafiz stated that he was present at this meeting together with Bob, Chew and Tang. He could not recall if Gajendran was present.[^39] Hafiz confirmed that at the end of the meeting everyone present including Tang agreed that Bob would get three quotations for the Star Rate items with Thong Huat’s quotation being the lowest. The dates on all the quotations would be backdated to before payment.[^40]
+
+71     During re-examination, Hafiz clarified that the discussion at the second meeting was to obtain the three quotations and after they were received from Thong Huat, the plan was to replace the ones which they had with the new ones. The new ones would be backdated to give the impression that the paperwork was in order and that they were following procedures.[^41]
+
+72     Alec testified that Bob, Chew, Tang, Gajendran and he attended the second meeting where it was decided that Thong Huat would get three quotes dated to before the works commenced. This was to show that pricing was established before the works began.[^42]
+
+#### (d)   Bob created backdated invoices
+
+73     Once everyone agreed to the plan, Bob brought back the documents and replaced the lowest quote with Thong Huat’s quotation. He also removed the Forms D9. Bob said that while Loo had instructed him to obtain quotations from the subcontractors, it was impossible to get the quotations as the works had already been done. So Bob forged the other two subcontractors quotations. The forged quotations were backdated as part of the plan agreed to at the first meeting. Thereafter, Bob submitted the documents to Prisons for audit by AGO. In Court, Bob identified all the exhibits which were forged by him. These were tendered by the Prosecution in support of the 16 proceeded charges.
+
+74     Alec testified that a few days after the second meeting he was called to the office at Prisons to endorse the quotations for the Star Rate items. He arrived at the office and saw Bob, Chew, Tang and Gajendran sorting through the documents. After the documents were sorted, Alec checked the documents, selected the lowest quotation and signed on it to affirm that it was the lowest quotation submitted. The lowest quotations were all from Thong Huat. Alec confirmed that he signed on about 15 to 20 quotations and this was done after the AGO audit had commenced.[^43]
+
+75     Hafiz too testified that after Bob had submitted the invoices to him, he signed on them to certify that the job had been done satisfactorily and that the invoices could be submitted for payment. He said that he had signed the documents because Chew had asked him to.[^44] Hafiz stated that he signed the invoices despite his reservations about the authenticity of the documents. Hafiz explained that he had deferred to Chew’s seniority in this matter.
+
+> _Q_.     _Mr Hafiz, after the meeting, when you were receiving these quotations from Bob Neo, three quotations with Thong Huat being the lowest, what was your impression about the authenticity of these quotations?_
+
+> _A_.     _I felt that the quotations are not genuine. So it's actually -- I feel like it is not right. I did highlight to my boss, Mr Gajendran before._
+
+> _Q_.     _What made you think that the quotations were not genuine?_
+
+> _A_.     _First, it was back-dated, and for a contractor to quote something which is back-dated, obviously there is no job, so they shouldn't -- I mean, it shouldn't be a quote which is back-dated for so long. So there is no job in hand anyway._
+
+> _Q_.     _Any other reasons why you thought that the quotations may not be genuine?_
+
+> _A_.     _No.[^45]_
+
+Hafiz’s astute observations demonstrate that anyone involved in processing the invoices for the Prisons project, would have recognised that there was something amiss about backdated invoices and would have viewed them with suspicion. Tang on the other hand testified that the backdated invoices did not appear suspicious or even unusual to him. I disbelieved Tang in this regard.
+
+#### (e)   Tang and Loo’s statements to CAD
+
+76     A total of five statements recorded from Tang and Loo in the course of CAD’s investigations were admitted in evidence; two were from Tang and three were from Loo. Additionally, cautioned statements under s 23(1) of the Criminal Procedure Code, Cap 68, (“CPC”) were recorded for each of the proceeded charges from Tang and Loo. Their responses to all the charges were similar. Consequently, only one cautioned statement from each accused person was tendered in Court. All seven statements were admitted in evidence tendered through the Investigation Officer, Tay Pei Fong and through the accused person, without challenge to their voluntariness.[^46]
+
+77     The statements were recorded over a span of about three years. Tang’s first statement was recorded on 23 October 2012 and his second statement was recorded on 2 September 2014. Loo’s first statement was recorded on 30 July 2013, the second statement on 10 July 2014 and his third statement was recorded on 24 September 2014. The statements under s 22(3) CPC were recorded on 6 January 2015 for both Tang and Loo.
+
+#### (f)   Tang’s statements to CAD
+
+78     In his first statement, Tang confirmed that he had approved payments to Thong Huat for the Prisons projects. Tang explained that for Star Rate items, the term contractor, Thong Huat, has to source for three quotes for the items, and the final work done must be at the lowest of the three quotes. Tang added that his task was to ensure that the price that Prisons is charged is not higher than the lowest quote. Tang stated that he was informed by Chew that the date on the quotations can be any date before final payment is made and ought to be submitted before the final invoice for payment. Tang added that he was told by Chew that Forms D9 were not required for payment approval. According to Tang, he would as far as possible, ensure that all three quotations had been submitted before certifying payment, but there were occasions when he approved payment without the three quotations.
+
+79     Tang went on to say in his first statement that during the AGO audit, he had submitted the supporting documents including the three quotations for the Prisons projects but AGO had misplaced the documents. When they denied misplacing the documents, Tang was replaced as the liaison officer for the AGO audit. Tang recounted that thereafter, he was instructed by Chew to replace the lowest quote for each Star Rate item with Thong Huat’s quotations as the lowest quote. Chew instructed him to remove from the files all the lowest quotes issued by the various subcontractors and replace them with Thong Huat’s quotes. Tang claimed that Chew told him to throw away the subcontractors’ lowest quotes and remove the Forms D9, if any.
+
+80     Tang elaborated that when the audit by AGO commenced sometime between July and September 2011, Chew called for a meeting which was attended by Gajendran, Bob, Tang and possibly others. At this meeting, Bob informed that his boss will not furnish the Forms D9 and the subcontractors’ quotations. It was then suggested that if Thong Huat’s quotations were to be the lowest, then the Forms D9 need not be submitted. Tang stated that subsequently, Bob furnished him with the quotations, and Tang brought the documents over to Alec for endorsement before placing them inside the project files. The files were then submitted to AGO by either Chew or Tang. Tang stated that he had asked Chew if what they did was tantamount to falsification of documents. Chew assured him that the quotations were not formal documents and so it was okay. Tang added that he did not observe if the quotations were backdated.
+
+81     Tang explained in his second statement which was recorded about two years later, that he did not detect the discrepancies between the lowest quotations and the prices which Thong Huat charged Prisons for the Star Rate items in FY 2009/10 because he did not pay attention to the details.
+
+82     In his cautioned statements recorded about three months later, Tang stated that he was merely compiling the documents. He was not aware that Thong Huat had forged the quotations and other documents. He was merely correcting procedural errors as instructed by Chew. He had even asked Chew if it was proper to make the changes and Chew had assured him that there was nothing ‘incriminating’ about changing the quotations. Tang stated that at that point in time he was distracted by his marital problems.
+
+#### (g)   Loo’s statements to CAD
+
+83     Loo stated in his first statement that during the AGO audit, he had a meeting at Prisons with Chew, Bob and _another Chinese guy_. The purpose was to explain why Thong Huat was unable to submit the Forms D9 for the star rate items relating to the audited projects. According to Loo, there is no need to submit the Forms D9 for the supply and installation works because the main contractor, Thong Huat, will still somehow be involved in the works. Forms D9 are only issued for pure purchases.
+
+84     Loo further stated that he had instructed Bob Neo to prepare the outstanding quotations required by the auditors with Thong Huat’s quotation being the lowest. His reasoning was that the Star Rate items featured in Thong Huat’s BQs ought to be considered as Thong Huat’s quotations. Loo stated that he told Bob to contact the sub-contractors for backdated quotations. If they were unwilling to issue backdated quotations, current dated quotations will do as well, since the purpose was just to compare the market prices for the star rate items. If the current dated supporting quotations were found to be lower, Loo stated that he was willing to do a refund to Prisons. Loo asserted that he was not aware that documents previously submitted in FY10 were forged. He said that he only learnt of this after the Police Coast Guard (“PCG”) case. When asked if the decision to feature Thong Huat’s quotation as the lowest quotation was meant to avoid the need to submit the Forms D9 and the subcontractors’ quotations for the star rate items, Loo replied that in his view, the work need not be awarded to the subcontractor with the lowest quotation. The three quotations were just meant to verify the market price. What was important was that Thong Huat charges Prisons the lowest price. Loo reiterated that his understanding was that Forms D9 and the subcontractors’ quotations need not be submitted for any supply and installation works. Thong Huat only had to source for two higher quotations and CPGFM will verify if the price is fair. Loo conceded in his statement that the prices which Thong Huat’s subsidiary company, Innova, paid to the subcontractors were usually lower than the prices Prisons paid Thong Huat for the star rate items. Loo denied that this was the reason why he was reluctant to submit the Forms D9 and the quotations. During the course of the audit, Loo stated that he was vaguely aware that previously submitted quotations from subcontractors were replaced with Thong Huat’s as the lowest. As far as he was concerned, the price stated in Thong Huat's BQs was effectively a quotation and he left it to Bob and Chew to prepare the formal Thong Huat's quotations if required.
+
+85     In his second statement, Loo explained that for the bigger Prisons projects, his project managers would submit to him the estimated BQs before the commencement of works and the final BQs after the completion of works. Loo would check for missing items such as specialized equipment which were used and alert his project managers if the items had not been included in the final BQ. Loo stated that he would also check the final BQ to see if there was a difference between the final billing amount as compared to the initial estimate. For the Prisons contract, he had to ensure that Thong Huat did not exceed the provisional sum allocated for the contract. Loo would also check the final BQ to see if the categorisation of the items into Star Rate and Schedule of Rate was correctly done. Loo said that he was generally familiar with the Star Rate items and would advise his project managers on whether the prices listed were close to market rates. Loo agreed that the Star Rate prices indicated in the final Bill of Quantities was usually higher than the cost price. His explanation was as follows.
+
+>   
+| 
+
+_Question 44:_
+
+ | 
+
+_Why didn't you indicate the cost on the final BQs to CPG/Prisons as per the terms of the A&A term contract?_
+
+ |
+| 
+
+_Answer:_
+
+ | 
+
+_As mentioned in my earlier statement, the price we charged prisons would be higher than our cost price. We need to cover for the discounts which we gave them for SOR items. We would change if CPG spotted these markups or would refund even if CPG found out only after payments.[^47]_
+
+ |
+
+  
+  
+
+86     Loo thereafter went on to explain in his second statement, the invoicing and payment processes between Thong Huat, its subsidiary companies Innova and Frontbuild, and the subcontractors.
+
+87     In his third statement, Loo was asked to provide clarifications to his earlier answers. He was asked to explain why he had stated that Thong Huat’s final BQs for Star Rate items should be taken as quotations for the Star Rate items. Loo responded as follows.
+
+> _All along, I understand that my project managers will submit Thong Huat invoices and final BQs upon completion of the projects. Only when CPGFM/Prisons request for the 3 quotes then my managers will indicate the prices in Thong Huat’s final BQ as a quote and then follow up with another 2 higher sub-contractors’ quotes. Sometimes, CPGFM may request for a separate lowest quote and then my managers will prepare a Thong Huat lowest quote._
+
+> _Like I mentioned in my last statement, my understanding is　that the prices in the final BQs are just meant to establish the prices. It does not mean that the sub-contractor who submitted the lowest of the 3 quotes will be the company to undertake the star rate work. To me, if CPGFM/Prisons is ok with the price in the lowest quote, I will source for my own sub-contractors and just charge that price during billing. It will be my profit if I can eventually get the work done at lesser than the prices.[^48]_
+
+88     Loo was asked how the final BQ, submitted after works are completed, could be considered as ‘quotations’ similar to the other quotations from subcontractors, which CPGFM and Prisons was supposed to select from before the works were completed. Loo answered that in practice, the three quotations are only submitted after the project is completed. Before the commencement of the works, CPGFM and Prisons will just look at Thong Huat’s estimated Bill of Quantities and approve the projects without ascertaining which are the subcontractors carrying out the Star Rate works. Loo added that CPGFM and Prisons will be notified that Thong Huat’s Bill of Quantities formed one of the three quotes only if they asked. When it was pointed out to Loo that in some of the cases, the project managers had provided three quotes from three different subcontractors, Loo replied that he had left it up to the project managers to provide whatever documents they deemed appropriate.
+
+89     Loo agreed that under the term contract for the Prisons projects, Thong Huat was required to submit Forms D9 as well as supporting subcontractors’ invoices for the Star Rate items. When asked to clarify why the company issuing the lowest quote was not required to provide the supporting invoice to accompany the Form D9, Loo stated that such a requirement only applied to proprietary or specialist items which Thong Huat was unable to provide. For such items, Thong Huat will only earn 5% above the cost price. For Star Rate items which Thong Huat was capable of undertaking, Loo said that no Forms D9 or D9 invoices will be provided. Thong Huat will do whatever it can to bring down the costs and keep the difference as profit. However, during the AGO audit, he discovered that his project managers had been furnishing Forms D9 and D9 invoices as and when CPGFM and Prisons requested for the documents. Loo further clarified that when he used the phrase ‘pure purchases’ in his first statement, he was referring to the proprietary or specialist items.
+
+90     It was pointed out to Loo that according to the term contract, Forms D9 had to be submitted for all Star Rate items, be it specialist or non-specialist item. Loo disagreed and had this to say.
+
+> _To my understanding, I will sub-categorise the star items into 2 categories. One are those items that are proprietory or specialist and these are the items that will earn 5% for attendance and profit. For the other star rate items that are outside of SOR yet my company can undertake, my position is that we will do the work at the prices CPGFM/Prisons agree. But how I manage to bring the costs down to earn profits is up to me.[^49]_
+
+91     It was again pointed out to Loo that by the terms of the contract, for all items under the Star Rate column, Thong Huat was only allowed to charge cost plus a 5% mark-up. Loo emphatically disagreed.
+
+92     Loo was then asked to clarify what he meant when at the meeting, he asked Bob to prepare Thong Huat quotations as being the lowest; did he intend for Bob to replace the earlier D9 quotations which had been submitted. Loo confirmed that this was his intent because if CPGFM and Prisons had previously accepted Thong Huat’s prices contained in the BQ, then it was up to Thong Huat to decide which subcontractors to engage.
+
+93     Loo’s cautioned statement was recorded on 6 January 2015. Here, Loo denied that he was guilty of the charges. Loo asserted that he had not instructed his project manager or quantity surveyor to falsify the invoices, quotations or any other documents. He agreed that he had attended the meeting with CPGFM and Bob to discuss the Star Rate issue. During this meeting, CPGFM requested from Loo, the Forms D9 and the corresponding three quotations for purposes of AGO’s audit. Loo explained that only three quotations should be submitted to CPGFM for approval and not the Forms D9 with D9 invoices. According to Loo, CPGFM would have to review the quotations and give their comments. For those Star Rate items for which Bob had not submitted the three quotations, Loo instructed Bob to resubmit the three quotations to CPGFM for approval. Loo added that it was up to CPGFM whether or not to accept the three quotations.
+
+#### (h)   Tang’s testimony
+
+94     Tang testified in English and he began his evidence-in-chief with background details about himself and his job scope. He then went on to explain the payment process. Tang stated that when the contractor had completed the job and asked for payment, one of the officers from CPGFM would collate the BQs and the three quotations. It was Tang’s duty to ensure that of the three quotations, the lowest quotation matched the price of the Star Rate item. The CPGFM officer will then endorse on the front of the BQ and Tang will approve the payment. Chew had taught him this process.[^50]
+
+95     Tang repeated that he needs three quotations for every Star Rate item. Tang added that when any of the documents were missing, he would inform the officers from CPGFM and either the contractor or the CPGFM officers would forward the missing document to Tang. Tang said that towards the closing of the financial year, it would be busy. He would inform the CPGFM officer to follow-up on the missing documents, but if they do not come in on time, Tang said that he would approve the payment first without the requisite documents. He would subsequently follow-up with CPGFM officer but there were instances when he had forgotten to follow-up.[^51]
+
+96     Tang said that he would generally assume that the amount stated was correct since the user at the Prisons cluster where the job was done, and the CPGFM officer had both endorsed on the documents submitted. This occurred quite frequently for the big projects with many Star Rate items. Tang added that in any event, there was not much that he could do if the amount was not correct as the job had been completed. He could only flag out the case to Chew after payment was made.[^52]
+
+97     During his evidence-in-chief, Tang repeated that for the audit by AGO, he was initially the liaison person from the Prisons IDB. However, there was some disagreement over lost quotations that Tang had submitted to AGO and Tang was removed as the liaison officer. Chew took over from Tang. Tang was informed by Chew that there were missing documents that AGO was asking about. Specifically, AGO had requested for the Forms D9. Tang stated that Chew had never told him that Forms D9 had to be submitted before payment could be approved. In fact, prior to the AGO audit, he did not know what a Form D9 was. Chew had also informed him that the Works Instruction to the contractor to carry out works was missing.[^53]
+
+98     Tang stated that Chew called for a meeting which was attended by Bob, Gajendran, Chew and himself. Chew asked for the missing documents but Bob said that they were unable to produce them. Someone then made the suggestion to use Thong Huat Brothers' quotation as the lowest quotation as Thong Huat was also a contractor doing the works. This removed the need to produce the Forms D9 requested by AGO. Tang said that for the Star Rate items, there would usually be a Thong Huat quotation. As for the other two quotations, if there were two quotations already in the file, they were to remain in the file. If the two other quotations were missing, Bob had to produce them.[^54]
+
+99     After the meeting, about one to two weeks later, Bob passed the quotations to Tang, Chew, Hafiz or Alec, depending on whose project it was. Tang said that when he received the documents, he got the documents endorsed by the CPGFM officer. Chew then submitted the documents to AGO. Tang stated that when Bob handed the documents to him, he had no reason to believe that they were not genuine. When he sent them to the CPGFM officers to endorse, he believed that they were genuine. Bob did not inform him that the documents were forged. Tang claimed that he did not take note that they were backdated.[^55]
+
+100    Tang said that even after the meeting, he was not aware that there was an agreement to submit forged documents. Tang asserted that if he had known that the documents were forged, he would have reported the matter. He was told by Chew that they were merely correcting a wrong procedure previously taught to him by Chew. Tang was emphatic that he had not entered into a conspiracy with anyone to submit forged documents.[^56]
+
+101    Tang also said that he does not recall attending a meeting relating to the AGO audit where Loo was present.[^57]
+
+102    Tang was next referred to his statements recorded in the course of CAD’s investigations. Tang claimed that several of the words and phrases did not originate from him. One example was the use of the phrase ‘creation of documents’ and another was the term ‘general plan’. These were terms used by the recording officer and did not come from him. [^58] He said that there was no plan to submit forged documents. Neither was there a plan to replace quotations. Tang simply wanted to regularise the procedure.[^59]
+
+103    Tang stated that he accepted Chew’s explanation that quotations were not formal documents and replacing the lowest quotations with Thong Huat’s quotations would not amount to falsification of documents. He found Chew’s explanations plausible because to his mind, quotations were like receipts and not formal documents. Tang added that Chew was his supervisor and he simply complied with his directions.[^60]
+
+104    Tang was next cross-examined by Loo’s Defence Counsel. Tang confirmed that Chew had informed him when he first joined that Forms D9 were not required. Tang agreed with Loo’s Defence Counsel that it was illogical to speak of awarding the job to the contractor with the lowest quotation because there was only one quotation submitted before the work commenced. Tang said that at that time, he did have some reservations, but he did as he was told because Chew was his supervisor and it would have been an act of insubordination not to comply.[^61]
+
+105    The DPP began his cross-examination by having Tang confirm what Tang believed to be the correct procedure. Tang said that his job was to ensure that all the supporting documents were in order before payment was made. He was taught by Chew that for Star Rate items, the term contractor must submit three quotations for each item and the price that the term contractor was allowed to charge was the lowest of the three quotations. Tang stated that he was not aware when the three quotations had to be submitted but he had to check for the three quotations before he approved final payment.
+
+106    Tang explained that towards the close of the financial year, it was especially busy because there was pressure to meet the utilisation rate for their funds or risk being penalised. Tang agreed that he did not conform to the correct procedure when he approved payment before all three quotations had been submitted. Tang said that during the audit, AGO had asked for supporting documents which Tang understood to be the three quotations. Later on, Chew informed him that Forms D9 had to be submitted as well. Tang’s position was that prior to the AGO audit, Chew had not taught him about the Forms D9. In fact, when Tang first joined, Chew had told him that Forms D9 were not required.[^62]
+
+107    Tang agreed with the DPP that for purposes of the AGO’s audit, two sets of documents were missing. These were the three quotations and the Forms D9.
+
+108    It was next pointed out to Tang that when Bob gave his evidence in Court, Tang’s Defence Counsel had asked him questions which suggested that Tang was present at the first meeting attended by Loo and the rest. The DPP read out the from transcript the following exchange between Tang’s counsel and Bob.
+
+> _Q:_      _What did he (Tang) say during the meeting?_
+
+> _A: He didn't say anything._
+
+> _Q:_      _He didn't say anything? Because all he said was he was asked by Mr Chew to attend the meeting because he was Mr Chew's subordinate; right?_
+
+> _A:_      _Yes._
+
+> _Q:_      _Then Mr Chew directed him (Tang) to go down to level 1 to get the necessary documents?_
+
+> _A:_      _Yes._
+
+> _Q:_      _When the documents were brought and the suggestion that you say was made by Tavis Loo was made, he also didn't say anything to it?_
+
+> _A:_      _Yes._
+
+109    The DPP pointed out that this line of cross-examination indicated that Tang’s position then was that he was present at the meeting. In fact, it was not put to Bob or Chew by Tang’s counsel that Tang was not present at the first meeting. Tang had to agree.[^63] It was further pointed out to Tang that during his evidence-in-chief, he had merely stated that he does not recall attending a meeting where Loo was present. He did not deny outright that he did not attend that meeting. Tang’s response was to emphatically deny that he was present at such a meeting.[^64]
+
+110    Tang stated that during the meeting which he attended, there was no plan to replace the existing quotations with new quotations. It was only agreed that the lowest quotation would be replaced with Thong Huat’s quotation. Tang confirmed that this meant that Forms D9 need not be submitted. Tang repeated that his intention was to regularise the procedure; to correct a procedure that had been done wrongly. However, Tang denied that he was trying to cover up the fact that they had used the wrong procedure or to give AGO the impression that correct procedures had previously been followed.
+
+111    Tang said that he would have chased for the three quotations even if there had been no audit by AGO because the documents should have been obtained before payment was certified. It was his job.[^65] When Tang was asked whether it was also his job to replace the lowest quotation with Thong Huat’s quotation, Tang conceded that it was not part of his duties; he was not taught to do this prior to the audit.[^66] Tang was asked if he had reported Chew for telling him to do this. Tang claimed that he did not report because he was not certain if this was something wrong.[^67] Tang confirmed that after he received the quotations from Bob, he brought them to Alec or one of the other CPGFM officers for endorsement.
+
+112    When the DPP put it to Tang that he had agreed to the plan for Bob to get three quotations of which Tong Huat’s would be the lowest, Tang replied that while he was aware of such a plan he did not actually agree to the plan. He simply complied with Chew’s directions. Tang said that he had no option but to do as instructed by Loo. He said that as long as it was not clearly wrong or illegal, he cannot refuse.
+
+113    The DPP next referred Tang to Chew’s testimony where Chew had said that he had informed Tang that the new quotations prepared by Bob had to be backdated. Chew had also said that Tang had expressed some reservation about backdating quotations and asked if it was wrong to do so. Tang stated that he cannot recall if Chew had told him about backdating the quotations. Tang said that he did not have the time to check the dates and did not bother with the dates. He only checked the amounts to make sure that they were correct. The dates were not important to him. The DPP pointed out that if that was the case, the old quotations previously submitted would have sufficed. Tang’s response was that he could not object to Chew’s request to replace the quotations with Thong Huat’s quotation. The DPP pointed out that it would make sense for the quotations to be backdated because they were supposed to be there before payment was made. So if it was Tang’s intention to regularise procedure, then the quotations ought to be backdated. Tang agreed but repeated his earlier reply that he did not take note of the dates.[^68]
+
+114    The DPP next asked Tang if it was correct to say that if the procedure was regularised Tang would have avoided blame. Tang initially agreed. Almost immediately, he changed his position and said that it was Chew who would be blamed because he was the one who had taught Tang the procedure. Tang disagreed that he would gain an advantage if no report about the wrong procedure was made, because an adverse report would affect his career. He said that he had no qualms about leaving his job with Prisons.[^69]
+
+115    Tang was next re-examined by his counsel. Tang explained that he holds the belief that he had not failed in his duty as a certifying officer because he was merely following his supervisor, Chew’s instructions when he approved payment without obtaining all three quotations. Tang explained that in any event, even if there was no AGO audit, he would have to get the three quotations. As for the Forms D9, he does not know why Chew initially said they were not required and later _changed his words_.[^70]
+
+116    Tang went on to state that when Chew said that Thong Huat’s quotation had to be the lowest quotation, Tang thought that it was _okay_ because Thong Huat was the appointed contractor, and it couldn't be wrong. Although previously there were other company quotations given as the lowest quotation, Thong Huat should be able to put up a lowest quote to match the company, because ultimately the work was done by Thong Huat. Tang stated that it sounded reasonable to him.[^71]
+
+117    Tang also provided an explanation for why he was not aware that the quotations were backdated even when he agreed with the DPP that it made sense for them to be backdated. Tang argued that while it made sense for the quotations to be backdated, it was equally possible to submit current dated quotations to AGO and then to explain that they had discovered the mistake and taken steps to rectify. Since Prisons had chosen to correct the error on their own accord, they should not be faulted for the lapse.[^72]
+
+#### (i)   Loo’s testimony
+
+118    Loo elected to testify in his defence, speaking in English. During his evidence-in-chief, he began by stating that under the term contract with Prisons, there were two broad categories of works. The first was the Fixed Schedule of Rates and the next was the Star Rate items. According to Loo, under the Star Rate items, there were a further two sub-categories – normal or standard Star Rate items and specialist (labour and materials) Star Rate items. He referred to clause 6.2 of the term contract which reads,
+
+> _Where the rate of any item of Work (specialist labour or material) is not available in the Fixed Schedule of Rates, the Contractor shall call quotations and submit claims for these Works._
+
+119    Loo testified that for such specialist (labour and materials) Star Rate items, the contractor must call for quotations. He referred to clause 6.3 which reads,
+
+> _For such 'star-rate' items, the Contractor shall be reimbursed for such items at full cost plus five (5) percent mark-up for profit and attendance, based on invoice price after all trade, cash and quantity discounts and before GST addition for items or parts purchased locally, or freight-on-board (F.O.B) invoice price (excluding GST) for items or parts intended from overseas. No claims for loss of expenses, extra overheads etc shall be entertained by the SO.[^73]_
+
+120    Loo said that one such example of a specialist Star Rate item was bulletproof glass. Bulletproof glass must be imported from the US and cannot be obtained locally. For such an item, Thong Huat was entitled to be reimbursed at cost plus five per cent as mark-up. In such a scenario, Thong Huat had done nothing and so it was entitled to earn only a five percent mark-up.
+
+121    For the standard Star Rate items, Loo pointed to clause 47.1 of the term contract which reads,
+
+> _The Contractor shall, if so requested by the SO, visit and inspect the addition and alteration works in any Government or Government controlled properties, liaise with the occupants and the SO and prepare an itemised estimate for such work requests using the Fixed Schedule of Rates with the agreed percentage adjustment as the basis. If no rates can be obtained from the Fixed Schedule of Rates, he shall provide an estimated rate which shall be agreed upon by the SO._
+
+122    Loo stated that the normal or standard Star Rate items were dealt with under this clause. The contractor Thong Huat provided an estimated rate using the Fixed Schedule of Rates to the Superintending Officer, (SO) which is CPGFM. CPGFM was supposed to evaluate the estimates. If the rates could not be obtained from the Fixed Schedule of Rates, then Thong Huat provided an estimated rate which will be agreed upon by CPGFM.[^74] Loo added that all the work for the Prisons projects was carried out under this clause where Thong Huat had submitted a cost estimate based on the Fixed Schedule of Rates whenever the rate could be found. If nothing was found in the Fixed Schedule of Rates, Thong Huat would simply furnish an estimated rate to CPGFM. CPGFM would then issue a work instruction to Thong Huat to direct them to proceed with the works. After completion of works, Thong Huat would prepare the final Bill of Quantities and submit to CPGFM.
+
+123    Loo’s evidence was that CPGFM would then conduct a joint sub-measurement at the site with Thong Huat’s QS or project managers and check if the items tally with the final Bill of Quantities. If there was any overcharging on account of less materials being used, CPGFM will request for a revised final Bill of Quantities for their approval. Thereafter, payment would be made.
+
+124    Loo repeated that under clause 47.1 of the term contract, there was no requirement for Thong Huat to furnish quotations before work commences for normal or standard Star Rate items. When CPGFM requests for quotations, it was only for the purpose of price comparison before payment was made. Thong Huat would facilitate the price comparison by asking the subcontractors to visit the site and prepare two or three quotations.
+
+125    Loo’s testimony was that Forms D9 and D9 invoices were only required when a contractor was engaged for specialist Star Rate items and Thong Huat was only entitled to mark-up its cost by five percent.[^75]
+
+126    Loo testified that he recalls attending a meeting at Prisons HQ on 3 August 2011 with Bob, Chew and a Chinese guy.[^76] At the meeting, he clarified with Chew that there was no need to submit Forms D9 for the audit by AGO because Forms D9 were only required for specialist Star Rate items. Loo disagreed with Chew’s testimony and denied that he had told them that Thong Huat could not submit the D9 invoices because they did not tally with the declarations in the Forms D9.
+
+127    Loo said that it was also at this meeting that he had first discovered when he went through the files, that forged documents had been submitted for the Prisons project. He immediately warned that forged documents must not be submitted for AGO’s audit and recounted previous CAD investigations relating to the PCG project. Bob had also informed him during the meeting that there were missing documents in the file. Loo said that he had instructed Bob to take back the files and to prepare the missing documents. Loo stated that everyone present at the meeting agreed to this proposal. Loo denied that there any agreement to forge Forms D9 to get around AGO’s demands.
+
+128    Loo similarly disagreed with Bob’s evidence that for star Rate items, Thong Huat had to submit three quotations from the subcontractors to CPGFM who will then select and approve the lowest quotation. Loo again cited clause 47.1 of the term contract and said that Thong Huat only had to provide a cost estimate to CPGFM. He added that Thong Huat was the term contractor and it made no sense to appoint yet another contractor.
+
+129    During his evidence-in-chief, Loo initially denied that when he had instructed Bob to resubmit the documents, he had proposed that the lowest quote be changed to Thong Huat’s quotation, which would be resubmitted together with another two or three quotations. Loo was emphatic that he had never made such a suggestion. Loo’s Defence Counsel then refreshed his memory with his first statement to the CAD officer. It was pointed out to Loo that he had stated that he _told Bob Neo to prepare the outstanding quotations required by the auditors with Thong Huat being the lowest quotations_. Loo then agreed that he had given the instruction to Bob to submit Thong Huat’s quotation as the lowest. His explanation was that payment had already been made and so Thong Huat’s quotation _had to be the lowest quotation_. He added that he had asked Bob to obtain genuine quotations from the subcontractors for the other quotations.[^77]
+
+130    Loo was again referred to his statement and asked if it was correct that he had instructed Bob to obtain backdated quotations from the subcontractors. Loo affirmed that his statement was accurate and provided the following clarification.
+
+> _So for subcontractor, backdated quotation, so I ask Bob, try to call the subcontractor, backdate it to the date that Thong Huat had done that star rate item. So the purpose is to -- for sensing of the value of that in time. This is for backdated. If the subcontractor is unwilling to backdate it at the time to assess the value, so if they can put the current date._
+
+> _So if we can obtain the genuine quotation, the quotation is higher, then Thong Huat's still would be the lowest quotation because the subcontractor quoted higher than the Thong Huat quotation. So Thong Huat entitled to lowest quotation. If the subcontractor quoted is lower than the Thong Huat Brothers, so we have to pay or refund the difference.[^78]_
+
+131    Loo stated that Bob had acted on his own when he proceeded to forge the quotations and did not inform him about his intentions. Loo stated that he had always intended for genuine quotations to be submitted to AGO.
+
+132    Loo’s Defence Counsel referred to several invoices and asked Loo to explain why the amount billed to CPGFM was significantly higher than what was shown in the subcontractors’ invoices. Loo responded that the difference was to cover Thong Huat’s costs in carrying out the works. Loo said,
+
+> _Why there is a difference? Because main contractor, or Thong Huat Brothers, we need to supply, for example, scaffolding, genset, generator set for temporary electrical supply; scaffolding, you need to work more than 3 metres high. This scaffolding, in fact, we had to erected by the term contractor. Usually, Conwell Enterprise, they are a small firm. They don't have the qualified erector to erect scaffolding. Then clearing of rubbish, they don't include this. So all these items basically they add up quite substantial. So you cannot just tell Thong Huat Brothers had inflated the price. And also it's not true. We only get entitled 45,000 of additional 5 per cent of this 45,000. So basically this is my explanation.[^79]_
+
+133    Loo concluded his evidence-in-chief by asserting that he never had any agreement or conspiracy with the persons named in the charges to use forged documents for the AGO audit.
+
+134    Loo was next cross-examined by Tang’s Defence Counsel. Loo was asked if Tang was present at the meeting on 3 August 2011 and Loo had this to say.
+
+> _Q_.     _And I want to ask you about Mr Tang Keng Lai, my client. Was he at this meeting?_
+
+> _A_.     _I sorry to say that I remember one other Chinese guy, I don't know who is the Chinese guy. So long the Chinese guy, he can be possible Alec, Tang or any Chinese guy. I cannot say that whether who attended the meeting, you see? Because I don't know them at all.[^80]_
+
+135    Loo stated that at the conclusion of the meeting, everyone agreed that the missing documents such as Star Rate quotations and cost estimates must be resubmitted and they have to be genuine.
+
+136    Loo was next cross-examined by the Deputy Public Prosecutor. Loo once again confirmed his position that there were two types of Star Rate items. For the normal or standard Star Rate item, Tong Huat was only required to submit a cost estimate or a Thong Huat quotation before the commencement of works. This understanding was based on clause 6.2 and clause 47.1 of the term contract. After the completion of works, Thong Huat was required to submit two other quotations. The submission of the two quotations after the completion of works was purely for price comparison. Forms D9 and D9 invoices were only required for the specialist Star Rate items.
+
+137    Loo further confirmed that it was only at the meeting at the Prisons HQ that he discovered that forged documents had been submitted for the Prisons projects. He could not recall if he had been told by Bob that the documents were forged or if he had discovered on his own. Loo explained that his understanding of a forged document is one which is false in that it was not prepared or issued by the party stated in the document. Loo stated that after he discovered the forged documents, he instructed Bob to insert Thong Huat’s initial quotation and to call Thong Huat’s regular contractors to submit genuine supporting quotations. He told those present that there was no need to submit the Forms D9. He also told Bob that Thong Huat’s quotation had to be the lowest.
+
+138    Loo however disagreed that he had instructed Bob to obtain backdated quotations. According to Loo, his instructions were to obtain the value of the Star Rate item as at the date when the works were being carried out for price comparison. He disagreed with the DPP that this was tantamount to backdating the quotation.[^81]
+
+139    Loo next answered questions relating to the prices billed to CPGFM. He stated that when the term contractor Thong Huat engaged one of its regular contractors to carry out the works, the term contractor needed to support the subcontractor by providing certain equipment such as scaffolding, boom lift and scissor-lift. Thong Huat would include the cost of providing such equipment in the final Bill of Quantities to CPGFM. Loo said that a five percent mark-up would not be sufficient to cover such costs.
+
+140    The DPP next took Loo through the provisions of the term contract for the Prisons projects. The DPP first referred to the section titled ‘Preliminaries for the Whole Project’ and to the item 90 which bore the header ‘Star Rates’. The DPP pointed out that nowhere in item 90 was it stated that that there was a sub-category of specialist Star Rate items. Loo agreed. Similarly, the DPP pointed out that the word ‘specialist’ does not appear anywhere in clause 47 and Loo had to agree. The DPP stated that in fact, the word ‘specialist’ was not defined anywhere in the term contract and Loo agreed. The DPP concluded that therefore according to clause 6.3, only a five percent mark-up could be charged by Thong Huat for Star Rate items. Loo however insisted that the five percent mark-up only applied to specialist Star Rate items referred to as ‘special labour and material’ under clause 6.2. He said that his definition of specialist items was something that was rare or uncommon and could only be provided by one or two companies.[^82]
+
+141    The DPP then brought Loo through the ‘Manpower, Educational & Sub-Contractor List’ annexed to the term contract. The list made reference to carpet specialist, signboard specialist and glass door specialist and named a company for each type of specialist. Loo had to agree that the term ‘specialist’ had been used in the term contract in reference to regular companies which provided ordinary labour and materials. They were not niche companies supplying rare and uncommon items like bulletproof glass. Loo conceded that his definition and use of the term ‘specialist’ was not supported by the provisions in the contract.[^83]
+
+142    The DPP proceeded to question Loo on clause 47.1. The DPP pointed out that the title for clause 47.1 was ‘Submission of quotation and finalisation of works orders’. It did not speak of payment for Star Rate items. The title for clause 6.2 on the other hand was, ‘Payment of works order’ and it stated that the contractor shall call for quotations and submit claims for the works. To reinforce this point, the DPP referred to the section titled ‘Services rendered by Contractor's Qualified Persons’. At clause 3.2 (c) of this section, it reads,
+
+> _The basic services to be provided by the Contractor's Qualified Persons are as follows:_
+
+>> _c_)     _Liaise with the Contractor for commencement of works. Where necessary, call and recommend 'star-rate' quotations for items which are not found from the Schedule of Rates._
+
+143    The DPP also referred to clause ‘o’ of this section which reads,
+
+> _Administrate the Contractor's works such as calling 'star-rate' quotations for items not found from the Fixed Schedule of Rates, check, vet and submit with recommendation for the SO's approval 'star-rate' quotations submitted by contractors, vet guarantees and warranties, finalise the Works Orders amount, etc._
+
+Based on the three clauses - clause 6.2, clause 3.2 (c) and clause (o) – the DPP pointed out that the provisions did not create two sub-categories for Star Rate items called normal or standard Star Rate items and specialist Star Rate items. Loo agreed.[^84]
+
+144    The DPP then put it to Loo that looking at Item 90 in the Preliminaries to the whole project, Loo’s position that Forms D9 are only required for specialist Star Rate items is not supported. Loo replied that he was not sure. The DPP further put it to Loo that Loo’s assertions that quotations are only needed for price comparisons is not supported by the contract. Loo replied that he did not check the contract. When the DPP put to Loo that his position that he can charge higher than the prescribed five percent mark-up is not supported by the terms of the contract, Loo disagreed. Loo was then asked if at the meeting on 3 August 2011, he had informed those present that Thong Huat was entitled to charge a higher mark-up than five percent pursuant to clause 47.2, and Loo admitted that this was not discussed.[^85]
+
+145    Loo was next confronted with his statements recorded in the course of CAD investigations. Loo confirmed that he provided all the statements voluntarily without any threat, inducement or promise. Loo had stated in his second statement that the price which Thong Huat charged Prisons was higher than the cost price because Thong Huat had to cover the 57.2 percent discount which they had given on the Schedule of Rates items. Loo had stated that if CPGFM spotted the mark-ups, Thong Huat would give a refund even after payments were made. Loo confirmed that this portion was correct. Loo explained that because 57.2 percent discount was the market figure which he had to give in order to be awarded the contract, he had to cover some of the discounts given for the fixed schedule of rate items through the billing for the Star Rate items. This was how they tried to maximise their profit.
+
+146    The DPP pointed out to Loo that this assertion contradicted his earlier testimony that if CPGFM discovered a lower quotation, Thong Huat would respond that it was entitled to charge the higher mark-up pursuant to clause 47.1 of the term contract. Loo responded that there were two different scenarios. The first was when Thong Huat as main contractor had incurred costs in supporting the subcontractor by providing equipment such as scaffolding, etc. In this scenario, Thong Huat does not have to provide a refund. The second scenario is where Thong Huat has furnished an invoice specifying a particular amount, and then CPGFM does a random audit, makes a check on the market rate and discovers that the market rate is lower than Thong Huat’s rate. In the second scenario, Thong Huat would give the refund.
+
+147    The DPP further pointed out that Loo’s responses in his second statement was at variance with his testimony in Court. He had stated in his statement that if CPGFM discovered the mark-ups for the additional equipment provided, Thong Huat would give a refund. In court, Loo had said that he would just refer to clause 47.1. Loo responded that there was no difference between what he stated in his statement and what he had testified in Court.
+
+148    The DPP next referred Loo to clause 5.3 of the term contract which reads as follows.
+
+> _The Contractor shall include in his tender offer all expenses and costs of whatsoever nature (whether specified in the Particular Specifications or not) which may be required to provide the Services as no claim for extra shall be entertained by the Employer._
+
+149    The DPP asked Loo if he still maintained that Thong Huat was entitled to claim for equipment such as scaffolding etc. Loo responded that this provision applied only to a Qualified Person. When the DPP referred Loo to the wording in clause 6.3 which read that _no claim for loss of expenses, extra overheads etc shall be entertained by the SO_, Loo claimed that clause 6.3 only applied to specialist Star Rate items.[^86]
+
+150    The DPP next referred to Loo’s first statement. He pointed out that in that statement there was no reference to specialist Star Rate items. He added that it did not appear in the second statement either. Loo had to agree and said that the reference appears in his third statement.
+
+151    During cross-examination, Loo disputed key areas of Bob’s and Chew’s testimonies and in particular, to those parts which referred to the approval process by CPGFM for Star Rate items and those parts which concerned the categorisation of the Star Rate items. Loo however conceded that the Prosecution witnesses Bob, Chew, Hafiz and Alex would have no motive to falsify their evidence in order to frame him up because they bore no grudge against him.
+
+152    Finally, The DPP highlighted various inconsistencies between Loo’s statements and his evidence in Court. In his CAD statement, Loo had stated the final Bills of Quantities would be sent to him by Bob to check and to ensure that they kept within the provisional budget. He even identified his handwriting on a few of the documents. In his evidence-in-chief however, Loo stated that Bob would not send the final Bills of Quantities to him. Loo agreed that there was a difference in his evidence. Next, Loo had stated in his statement that he only became aware of forged documents submitted by Isis to CPGFM after the AGO audit. In Court, Loo testified that he was informed at the meeting that the documents were forged. Loo again agreed that there was a difference. He suggested that it could be that his answers were not correctly recorded in his statement.
+
+153    During re-examination by his Defence Counsel, Loo clarified that it was not necessary to backdate the quotations because it was possible to insert the current date but the value of the work could be given as at six months earlier, when the work was being carried out by Thong Huat.
+
+#### Assessment of Tang’s defence
+
+154    It is evident from Tang’s statements and his testimony in Court that he was aware of the plan to replace existing quotations from subcontractors and to insert Tong Huat’s quotations as the lowest, but he did not voice any objections. In fact, Tang was instrumental in executing the plan. He had compiled the forged quotations and had the documents endorsed by the CPGFM officers before submitting them to AGO.
+
+155    Tang’s defence briefly was that he was simply following Chew’s directions and believed that they were merely correcting procedural errors highlighted during the audit process. He was not aware that their actions were wrong or unlawful and believed that the quotations submitted by Bob were genuine. He had not observed that the quotations were backdated. Tang’s claims that his participation was entirely innocent and not motivated by self-gain was not supported. His testimony alone was rife with internal and external inconsistencies as well as gaps in reasoning that cast grave doubts on Tang’s credibility.
+
+156    Tang stated that the correct procedure as taught to him by Chew was to obtain three quotations for Star Rate items before approving the payment. The quotations must pre-date payment approval date. Tang’s job was to check that the price stated corresponded with the lowest quotation obtained. Chew had told him that Forms D9 were not required.
+
+157    Tang readily admitted that there were instances when he had not obtained all three quotations before certifying payment. This lapse was identified during the audit process. Tang agreed that the two sets of missing documents which had to be obtained for the AGO audit were the three quotations and the Forms D9. This was the impetus for the plan for Bob to obtain quotations and to insert Thong Huat’s quotation as the lowest. The understanding was that if the term contractor, Thong Huat, produced the lowest quotation, there was no need to submit a Form D9 to declare the price paid by Thong Huat to the subcontractor.
+
+158    There was much debate about whether Tang was present at the meeting when Loo proposed this plan. During Prosecution’s case, questions were put to the Prosecution witnesses that suggested that Tang was present at the first meeting when Loo had mooted the idea. Specifically, Bob was asked about what Tang had said and done at this first meeting, but it was not put to Bob that Tang did not attend the first meeting. Bob had categorically stated that Tang was present at the meeting. It was not put to Chew either that Tang was absent from the first meeting. Tang himself said that he could not remember attending a meeting relating to the AGO audit where Loo was present. That was during his evidence-in-chief. However, during cross-examination, he decided to distance himself from the discussions at the first meeting and vehemently denied that he was there. Tang nonetheless agreed that he was present at the second meeting when Chew had explained the plan to Bob, Alec, Hafiz and Tang. Tang did not dispute that he was well aware of the plan before it was carried out.
+
+159    Based on the evidence led, it is very likely that Tang had attended the first meeting. There was no reason for Bob to state otherwise. Tang himself was ambivalent until he was pressed during cross-examination. In any event, it does not assist Tang to insist that he was not there. The fact remains that he was present at the second meeting when he was briefed on the plan before it was carried out.
+
+160    Tang’s position was that although he was made aware of the plan, he did not actively agree to it. He was simply following orders from his superior, Chew, when he acted on the plan. Tang admitted that he was involved in receiving the ‘new’ quotations from Bob, and replacing the existing quotations with Thong Huat’s quotations as the lowest. He also admitted taking the ‘new’ quotations to the CPGFM officers for endorsement before the submitting the documents to AGO. In his first statement, Tang admitted to removing and destroying the other subcontractors’ lowest quotations but during cross-examination he disagreed that he had done so. Tang did not explain the discrepancy. According to Tang, all of this was carried out under direct instruction from Chew. He dared not disobey lest he be cited for insubordination.
+
+161    Tang raised the ‘insubordination’ defence for the first time during cross-examination by Loo’s Defence Counsel. He may have alluded to it in his cautioned statement when he stated that he was correcting procedural errors as instructed by Chew. It is unclear from this passing mention in his statement if he meant that he was wary of being perceived as ‘insubordinate’. He made no mention of this in his evidence-in-chief but it was his stock response during cross-examination to every suggestion by the DPP that he was in agreement with the plan to obtain quotations and to replace the lowest quotations with Thong Huat’s quotations.
+
+162    During re-examination, the ‘insubordination’ defence morphed somewhat. It was now Tang’s position that it was not wrong to replace the lowest quotation with Thong Huat’s quotation because Thong Huat was the appointed contractor and even if the other companies had submitted the lowest quotation, it is reasonable that Thong Huat should be allowed to match that lowest quotation because the work was being done by Thong Huat. This reasoning is both baffling and illogical. Tang claimed that he held this belief even as early as the day when Chew informed him of the plan. Tang did not explain why he had not mentioned this earlier but waited until re-examination to raise it.
+
+163    If indeed Tang had thought that it was _okay_ to replace the lowest quotation with Thong Huat’s quotation, then why did he feel compelled to ask Chew if any of what they were doing amounted to falsification of documents. On the one hand, Tang was saying that when the plan was told to him, he became suspicious and sought clarification from Chew. On the other hand, Tang claimed that he thought that the plan was perfectly reasonable and _okay._ Tang was clearly not being truthful.
+
+164    Tang’s constant refrain during cross-examination was that they were simply correcting procedural errors and there was nothing sinister about the plan. According to Tang, the procedural errors had been caused by the wrong instructions given by Chew about the Forms D9 and by Chew’s directions to Tang to approve payment before all quotations were submitted. Yet, Tang had also conceded in his second statement that he did not detect discrepancies between the lowest quotations and the prices which Thong Huat charged Prisons for the Star Rate items in FY 2009/10 because he did not pay attention to the details. He was distracted by his marital problems. The discrepancies between the quotation and the price charged were more than procedural lapses. They were serious errors in the amounts approved for payment by Tang. He had failed to check that the price charged to Prisons was supported by the lowest quotation. The plan to replace the documents would certainly conceal Tang’s mistakes.
+
+165    Tang’s characterisation of the issue of the missing quotations as a mere administrative lapse was incorrect as well. It ignores the fact that it was incumbent on Tang to follow-up with CPGFM to obtain the complete set of documents. Tang had failed to do that. He admitted that he had forgotten. Tang had clearly been derelict in his duty. He had failed to observe a robust approval process.
+
+166    Tang had demonstrated the same cavalier attitude when he remarked during his evidence-in-chief that he would generally assume that the amount charged by Thong Huat was correct since the user at the Prisons cluster where the job was done, and the CPGFM officer had both endorsed on the documents submitted. Tang added that there was not much that he could do if the amount was incorrect as the job had been completed. He could only flag out the case to Chew after payment was made. Again Tang’s reasoning was flawed and incomprehensible. Tang’s primary duty as the certifying officer at Prisons was to ensure that payment was for the correct amount. When he works on the assumption that others before him had checked the amounts and blindly approves payment, Tang fails to carry out his most basic duty of ensuring that Prisons was not overcharged. Therefore, the issue of missing documents was not simply a procedural error but it was indicative of serious flaws in the approval process arising from Tang’s inattentiveness.
+
+167    Likewise, the plan to create quotations and to insert them in the files was not just an innocuous exercise in correcting procedural errors by plugging the gaps in the document files. It was an attempt to circumvent the audit process in order to cover up past errors by Tang and the others. They had agreed to manipulate the process by creating a Thong Huat quotation to replace the lowest quotation and producing other quotations to insert in place of the missing quotations. Tang’s active involvement in executing the plan demonstrated his agreement and commitment to the plan. This was consistent with the evidence of the Prosecution witnesses who had all testified that everyone had agreed to the plan. I therefore rejected Tang’s defence that he had not independently agreed to the plan but was only complying with orders from Chew.
+
+168    Tang’s position from the start was that he had not observed that the quotations were backdated. This was evidently an attempt to bolster his claim that he believed the quotations produced by Bob to be genuine. Tang readily agreed with the DPP that for the plan to be effectual, the quotations would have to be backdated. A current dated quotation would immediately reveal that the quotation was obtained after payment was made. Despite this belief, Tang maintained that he had not taken note if the quotations produced by Bob were backdated although he had processed them. Tang did not offer any explanation.
+
+169    During re-examination, Tang came up with a completely new story. He said that in his view, it was not necessary to backdate the quotations. It would be quite all right to insert the current date and then to explain to AGO that Prisons had uncovered an error and had decided to correct it. He believed that the department would be forgiven for the lapse. Tang did not explain the sudden change in his position. This was yet another example of Tang’s evolving defence which led me to disbelieve him.
+
+170    Tang had disputed the DPP’s suggestions that he stood to benefit from the plan. The DPP had asserted that if the plan was successfully executed, Tang’s errors and lapses would be concealed and he, together with the rest, would avoid an adverse report during the audit. Tang’s response was that he was not concerned about an adverse report or any consequential effect on his career. He claimed that if he was dismissed, he could always secure alternative employment. This response was in direct contrast to his earlier reply that he had dutifully complied with Chew’s directions despite his reservations about replacing quotations and whether that would amount to falsifying documents. He complied because he was fearful of being insubordinate. Yet, he was not afraid of being found out for not having performed the most basic checks to ensure that the price which he approved corresponded with the lowest quotation. It is inconceivable that one who was worried about being cited for insubordination would be unconcerned about being found to be derelict in his duties. I disbelieved Tang and rejected his defence that he was merely following orders.
+
+171    The following is evident from Tang’s statements and testimony. Tang was aware of the plan; his subsequent conduct and involvement indicated his agreement to the plan; his admission that he had not conducted thorough checks reveals his concern that he may be implicated in AGO’s audit and he stood to gain an advantage if the plan was successfully executed.
+
+#### Assessment of Loo’s defence
+
+172    I have similarly reproduced Loo’s evidence to demonstrate the many inconsistencies and flaws in his defence. For a start, several of Loo’s explanations were perplexing if not outright fanciful. According to Loo, there was no requirement to obtain independent subcontractors’ quotations for the Star Rate items. Only Thong Huat’s BQs or cost estimates were provided to CPGFM for the Star Rate items. The prices in the BQs would be approved by Loo based on his sensing of what the market price for the item was. Thereafter, the BQ would be submitted to CPGFM to comment and to accept the prices quoted by Loo. Once CPGFM agrees to the price, Loo would source for his own subcontractors at the lowest price and pocket the difference as his profit. If CPGFM uncovered that there were mark-ups, Loo would effect a refund. If CPGFM requests for actual quotations, Thong Huat would source for two higher quotations and submit Thong Huat’s BQs as the lowest quotation.
+
+173    This process as explained by Loo suggests that the entire pricing process for the Star Rate items was manipulated to reflect Thong Huat’s quotations as the lowest. The pricing for the Star Rate items was solely dependent on Loo’s sensing of what the market prices should be. There was no independent verification of the prices. Loo’s evidence was not only incredible but it was unsupported by the provisions of the term contract. As pointed out during cross-examination, clause 3.2(c) and clause (o) under the section Services rendered by Contractor's Qualified Persons and at clause 6.2, it was specifically stated that the term contractor shall obtain and provide quotations for Star Rate items. Loo’s process of first giving a cost estimate and then submitting quotations upon request, was not found anywhere in the term contract. It also made no sense for Thong Huat to furnish quotations after the job had been approved and completed.
+
+174    The refund process described by Loo was equally arbitrary. Loo stated that Thong Huat would give a refund if CPGFM discovered a lower quotation. Such a system would have been problematic too. There would be concerns about the integrity of the subcontractor providing the lower quotations to CPGFM as the subcontractor would not be bound by the prices quoted, since he was not expected to carry out the job at the quoted price. The job was already completed. The subcontractors could quote a lower price with impunity. Such a method would clearly give rise to disputes. I found Loo’s evidence unbelievable.
+
+175    It was repeatedly shown during cross-examination that the process described by Loo was inconsistent with the framework prescribed in the term contract. There was no mention in the term contract of two categories of Star Rate items. The only use of the term ‘specialist’ in the term contract was in reference to particular categories of work such as carpet specialist or signboard specialist. They were never used in the way that Loo had described, as providing rare or uncommon labour and materials.
+
+176    It was also clearly stated in the term contract that Thong Huat was only allowed to charge five percent above the cost price for the Star Rate items. This was specified in clause 6.3. In fact, clause 6.3 specifically disallowed any _claim for loss of expenses, extra overheads etc._ Similarly, clause 5.3 which laid out the conditions for tender stated that the term contractor _shall include in his tender offer all expenses and costs of whatsoever nature (whether specified in the Particular Specifications or not) which may be required to provide the Services as no claim for extra shall be entertained._ Loo’s claim that Thong Huat was entitled to charge higher mark-up than the prescribed five percent to cover equipment provided or to recover the 57.2 percent discount given for the schedule of rates items, is without basis.
+
+177    Similarly Loo’s assertion that that subcontractors’ quotations and Forms D9 were only required to be submitted for ‘specialist’ Star Rate items was proven to be untrue. There was no sub-category of ‘specialist’ Star Rate items contained in the term contract. Clause 3.2 stated that for Star Rate items not found in the schedule of rates, quotations must be obtained at the commencement of works. Clause 6.2 also stated that the contractor shall call for quotations for Star Rate items. This was repeated in clause ‘o’ to the section titled ‘Scope of services and duties of contractor’s Qualified Persons’. Clause ‘o’ referred to _calling (for) 'star-rate' quotations for items not found from the Fixed Schedule of Rates._ It is plain that the term contract had intended that the contractor Thong Huat should call for quotations for Star Rate items which were not found in the schedule of rates.
+
+178    It was pointed out to Loo during cross-examination that the documents seized from Thong Huat revealed that his project managers had obtained three quotations from three different subcontractors. This practice was inconsistent with Loo’s claim that that subcontractors’ quotations were not required for Star Rate items. Loo proffered a weak explanation that he had left the documentation to his project managers. He gave no reasons why he did not instruct his managers on what he claimed was the correct procedure.
+
+179    Loo admitted in his statements and during his evidence-in-chief that at the meeting to discuss the AGO audit, he had instructed Bob to obtain backdated quotations from the subcontractors. It is puzzling why he had given such instructions despite his averments that Forms D9 and D9 invoices need not be submitted for the standard Star Rate items. According to Loo, subcontractors’ quotations were only submitted if CPGFM asks for them for purposes of ‘price comparison’ before payment is made. Since the payment was approved and monies were paid without any request for subcontractors’ quotation, Loo could have simply told Prisons that it was no longer necessary to submit subcontractors’ invoices or Forms D9. Loo did not do so. Instead, he proposed this plan to replace the quotations in the file with Thong Huat’s quotations as the lowest and to obtain two other backdated quotations from the subcontractors. There is a clear gap in the reasoning that strongly suggests that Loo’s evidence is likely an elaborate story created to cover-up his scheme to overcharge and earn significant profits not authorised or contemplated by the term contract.
+
+180    During his evidence-in-chief, after some initial confusion, Loo confirmed that he had instructed Bob to obtain backdated quotations from the subcontractors. Loo explained that the purpose was _for sensing of the value of that in time._ During cross-examination however, Loo denied that he had instructed Bob to obtain backdated quotations. According to Loo, his instructions to Bob were to obtain the value of the Star Rate items as at the date when the works were being carried out for price comparison. He disagreed with the DPP that this was tantamount to backdating the quotations. Loo’s convoluted explanations in his attempts to distance himself from the agreement to submit backdated quotations were baffling. The fact of the matter is that Loo had not directed Bob to obtain current quotations for a prospective job. Loo wanted retrospective quotations for a completed job. Essentially, they were backdated quotations.
+
+181    Loo had not put forth a consistent defence to the charges. His defence appeared to evolve over time. In his first statement recorded in July 2013, Loo said that there was no need to submit the Forms D9 and D9 invoices for the Star Rate items because the main contractor, Thong Huat, will still somehow be involved in the works. Thong Huat’s BQs ought to be considered as the lowest quotation. In his third statement recorded more than a year later in September 2014, Loo offered a different explanation for why the Forms D9 and D9 invoices were not required. He raised the defence of ‘specialist’ Star Rate items. That was first time he spoke of the two categories of Star Rate items. This defence was not mentioned in his previous two statements.
+
+182    During his evidence-in-chief, Loo expanded on this new defence that there were two categories of State Rate items. He cited provisions from the term contract in support his new theory. Again, it was the first time that Loo made these references. In a similar vein, Loo initially stated in his second statement that the prices charged for the Star Rate items were higher than Thong Huat’s cost price because Thong Huat had to cover for the discounts given for the schedule of rate items. He had said that Thong Huat would change the final BQs or give a refund if CPGFM spotted the mark-ups. In his evidence-in-chief, Loo stated that Thong Huat had to cover the cost incurred in providing equipment such as scaffolding and generator. It was unclear from Loo’s statements and testimony if any refund would be given when CPGFM uncovered these mark-ups. Throughout the course of investigations and the trial, Loo was not consistent in his responses and explanations. His ever-changing evidence cast doubts on his credibility suggesting that Loo had fabricated his defence.
+
+183    Loo’s evidence was shown to be both internally and externally inconsistent. Loo had stated in his statements that he told Bob to prepare and submit the quotations required by the auditors with Thong Huat being the lowest quotations. In Court during his evidence-in-chief, Loo initially emphatically denied giving Bob such instructions. Loo’s Defence Counsel referred Loo to his statements and immediately Loo conceded that he had indeed given those instructions to Bob. It was telling how quick Loo was to retract his denial when he was shown his statements. It is as if he was unable to recall the correct version anymore.
+
+184    Loo’s evidence was also inconsistent with the objective documentary evidence presented during the trial. It was shown that three genuine subcontractors quotations were submitted by Thong Huat to CPGFM for many of the works done under the term contract. Loo could provide no explanation except to suggest that his project managers were on a frolic of their own when they obtained such documents for submission. Loo claimed that he left the documentation up to his project managers. However, he had clearly stated in his second statement that the cost estimates and the final BQs were sent to him for vetting before they were submitted to CPGFM. Why he was not aware of the supporting invoices was not explained.
+
+185    Loo’s account of the costing process for the Prisons project was markedly different from that described by all the other witnesses. Bob, Chew, Tang, Hafiz and Alec unanimously agreed that Thong Huat had to obtain three quotations for Star Rate items. Loo agreed that these witnesses bore no grudge against him and had no reason to give false evidence that might implicate Loo or discredit his defence. Loo was unable to provide any satisfactory explanation why he alone claimed that there was no requirement for subcontractors’ quotation.
+
+186    Overall, Loo’s testimony was fraught with inconsistencies. There were both internal as well as external inconsistencies which cast grave doubts on his credibility. His ever-vacillating defence did not assist either. Loo’s reasons and explanations were often illogical and did not accord with common sense. I found him to be an unreliable witness and disbelieved his evidence.
+
+#### Verdict
+
+187    At the close of the trial, I found that the Prosecution had adduced sufficient evidence to prove every ingredient of the charge beyond reasonable doubt. I was satisfied that based on the witness accounts, the documents adduced, and the statements of the accused persons, there was ample evidence of a conspiracy between Tang, Loo and their co-conspirators. They had agreed to replace the quotations previously submitted, with backdated quotations where Thong Huat’s quotations would appear as the lowest. I accepted the evidence led from the Prosecution witnesses that everyone had agreed to the plan proposed by Loo. Specifically, I disbelieved Tang’s defence that he was simply complying with orders given and did not actively agree to the plan. His prior conduct and his subsequent participation in carrying out the plan showed otherwise.
+
+188    It was strenuously argued by the Defence that all the Prosecution witnesses other than Bob, had testified that they were unaware that the documents were forged. I accepted the Prosecution’s submission that it sufficed that evidence was led to show that there was an agreement to submit backdated quotations. I agreed with the submission that the backdated quotations accompanied with an intention to commit fraud, when used as genuine, would constitute an offence under s 471 of the Penal Code.
+
+189    There was ample evidence of an intent to defraud as defined by the High Court. It is an intent to create an advantage or to cause injury through a deception. Tang, Loo and their co-conspirators stood to gain a distinct advantage from this plan. Loo had manipulated the payment process for financial gain and Tang had been remiss in performing his duties. Their motivation to carry out the plan was clearly to evade discovery. The backdated quotations were intended to deceive AGO into thinking that the correct processes had been observed and that Prisons had not been overcharged. I therefore concluded that when the backdated quotations were submitted to AGO to be used as genuine, it was done with the intention to commit fraud.
+
+190    At the conclusion of the trial, I was satisfied that Prosecution had proven its case beyond reasonable doubt and found both Tang Kheng Lai and Loo Yew Teck guilty, and convicted them on all the 16 proceeded charges.
+
+## SENTENCE
+
+#### Prosecution’s submissions on sentence
+
+191    The Prosecution submitted that Tang and Loo’s roles in perpetrating the deception was deserving of a stiff custodial sentence which will send out a clear message of deterrence to like-minded members of the general public. The Prosecution argued for a custodial sentence of 8 to 10 months’ imprisonment for Tang and 18 to 20 months’ imprisonment for Loo. They cited the following factors in support:
+
+> (i)     The actions of the accused persons and their co-conspirators were carefully planned and highly premeditated;
+
+> (ii)     The accused persons perpetuated fraud against a public institution;
+
+> (iii)     The amount involved in the present case is large and the accused persons caused tangible harm to Prisons;
+
+> (iv)     The accused persons’ actions, in covering up the improper use of public funds, had the effect of engendering public disquiet;
+
+> (v)     The accused persons played indispensable roles in the conspiracy;
+
+> (vi)     The accused persons were motivated by self-interest and greed; and
+
+> (vii)     An aggravating factor specific to Tang was the egregious abuse of his position and the trust reposed in him.
+
+192    It was the Prosecution’s position that the totality of the accused persons’ actions show that the offences were not committed on the spur of the moment, but were premeditated and carefully planned over a period of time. Loo had leveraged on his previous dealings with AGO on the other projects to devise a plan to circumvent AGO’s persistence in trying to obtain all the documents. Tang had personally executed the plan proposed by Loo. The sum result was that they managed to submit 16 forged documents to defraud AGO.
+
+193    The Prosecution submitted that the offences committed by the accused persons specifically targeted a public institution, the AGO, with the intent to defraud AGO and frustrate its audit of the Prisons. This factor alone justifies a lengthy custodial sentence.
+
+194    The Prosecution also argued that there was monetary loss caused by the accused persons’ actions. While it was conceded that the exact amount of loss could not be ascertained, the amount was likely large. This assessment was based on the amounts stated in the forged Thong Huat quotations. Prisons had paid Thong Huat $358,920.80 for works carried out, and in one instance, Thong Huat had overcharged Prisons with a price of more than 425% of the original price. There was clear evidence of significant, tangible loss caused to Prisons, which merits a heavier sentence.
+
+195    The Prosecution further pointed out that improper use of public funds immediately triggers unease and would offend the sensibilities of the general public. A deterrent sentence is therefore necessary and appropriate to quell the resulting public disquiet.
+
+196    The Prosecution submitted that Loo was one of the prime movers of the conspiracy and was involved from its inception. In fact, the idea and the details of the plan to submit forged documents to AGO was Loo’s brainchild. He had also dragged others into the plan. Loo therefore bears a higher culpability.
+
+197    It was Prosecution’s position that Tang had also played an indispensable role in the conspiracy and was a heavily involved participant in Loo’s plan. Tang’s culpability is heightened by the fact that he personally destroyed the lowest quotations previously submitted. This destruction had a direct impact on AGO’s inability to ascertain the exact amount that Prisons was overcharged.
+
+198    Loo was motivated by greed and wanted to prevent AGO from discovering that Thong Huat had overcharged Prisons while the projects were ongoing. He had admitted in his CAD statement that Thong Huat had overcharged because it needed to make up for the 57.2% discount that Thong Huat was giving for the Fixed Schedule of Rate items
+
+199    Similarly, Tang did not want AGO to find out about the lapses in the manner in which he approved payments for the Prisons projects. AGO would likely have made a finding against Tang personally, for not doing his duty as the certifying officer, and for improperly disbursing public funds before proper documentation had been collected. In attempting to hoodwink AGO during their audit, Tang’s criminal acts went against the very thing he had been employed to do – to ensure that proper procedures are followed in the payment out of government moneys. By doing so, Tang demonstrated a blatant disregard for his responsibilities and his actions amounted to an egregious abuse of his position and the trust reposed in him.
+
+200    The Prosecution cited four case precedents and it was observed that even where no monetary loss was caused by the forgery offences committed against the public institutions, imprisonment terms meted out by the Courts ranged from six weeks to ten months for each charge.
+
+201    In the present case, the co-conspirators who had pleaded guilty, were convicted and sentenced as follows:
+
+> a)     Chew Tee Seng - pleaded guilty and was convicted on 20 charges and sentenced to a total of 10 months’ imprisonment (5 months’ imprisonment per charge) for his role in the conspiracy; and
+
+> b)     Bob Neo Chee Soon - pleaded guilty and was convicted on 20 charges and sentenced to a total of 6 months’ imprisonment (3 months’ imprisonment per charge) for his role in the conspiracy.
+
+202    The Prosecution argued that a strong message must be sent whenever fraud is committed on a government department, and much more so when it involves the improper use of public moneys. It is in the public interest that criminal conduct such as that of the accused persons’ be deterred through strong and appropriate sanctions. Taking into account the aggravating factors and Tang and Loo’s roles in the conspiracy, the Prosecution urges the Court to impose a global sentence of 18 to 20 months’ imprisonment on Loo and 8 to 10 months’ imprisonment on Tang.
+
+#### Mitigation plea and Defence’s submissions on sentence
+
+203    Tang’s Defence Counsel submitted that a fine would be the appropriate sentence for Tang. He argued that Tang’s role in the transactions were minimal and the harm occasioned by Tang’s acts was almost non-existent. It was also argued that while the acts complained of were indeed committed, there was no victim as such. Tang had not profited or benefitted from the plan. There was no elaborate or devious scheme planned by those involved and Tang was not made aware that the documents were forged. The nature of the forgery too was amateurish and it was quickly detected by AGO. Given these circumstances, Tang’s Defence Counsel argued that a custodial sentence would be wholly inappropriate.
+
+204    It was stated by way of mitigation that at the time when the offences were committed, Tang was facing challenges in his personal life. He was undergoing an acrimonious divorce and was treated for depression. He was also compelled to leave his job at the Prisons and then became a taxi driver.
+
+205    Loo’s Defence Counsel briefly set out Loo’s family background before addressing on sentence. It was submitted that there was no surreptitious planning or deviousness involved in the execution of the plan. Loo had simply responded to the pressure to submit documents for AGO’s audit. These were administrative lapses occasioned by poor oversight by CPGFM and Prisons. Loo had proposed the plan on the spur of the moment without much thought or sophisticated planning. Loo’s Defence Counsel pointed out that the forged documents showed obvious signs of falsification. With such obvious falsification, AGO could not possibly have been misled. In any event, Loo played no part in forging the documents. The forged documents were not intended to conceal any offence but simply to show that the protocol of calling for quotations had been adhered to. There was no concealment of any illicit payment.
+
+206    Loo’s counsel highlighted that Loo was a first offender, his character impeccable, and that he had been rendering services to the government agencies for a few years. It was argued that a substantial fine should suffice. Loo’s Defence Counsel cited the case involving the PCG contracts where the two accused persons were charged with more serious offences under Section 477A of the Penal Code, Chapter 224. The offenders were sentenced to three years and two years respectively.
+
+#### Sentencing considerations
+
+207    The offence under section 471 read with section 465 of the Penal Code (Cap 224, 2008 Rev Ed) is punishable with imprisonment for a term which may extend to 4 years, or with fine, or with both. I was in agreement with the Prosecution, that given the gravity of the offences, a custodial sentence was warranted. In assessing the length of the term of imprisonment, I bore in mind the following circumstances which I found to be specifically aggravating.
+
+208    The deception was deliberate, collectively discussed and planned, and swiftly executed making use of their ready access to documents contained in the files. Past documents were destroyed by Tang to conceal previous lapses. Newly created Thong Huat invoices were inserted into the files and prepared for submission to AGO. These falsehoods impacted not one, but two public institutions, Prisons and AGO, and they could conceivably erode the public trust and confidence reposed in our institutions to safeguard public funds and to use the funds wisely.
+
+209    Tang and Loo had also brazenly manipulated the claims approval processes to their advantage. There was blatant profiteering by Loo who had inflated Thong Huat’s claims for jobs done. Tang who had failed to carry out the most basic checks to ensure that the amounts approved for payment tallied with the lowest quotation, committed acts to conceal his errors in a clear abuse of his position as a trusted employee of Prisons.
+
+210    I therefore agreed with the Prosecution that there were numerous aggravating factors present in this case with no mitigating factor of note. The need for a custodial sentence of significant length was clearly indicated. I considered the sentences imposed on the two co-conspirators, Bob and Chew. Both of them pleaded guilty to similar charges. Bob was sentenced to three months imprisonment per charge resulting in a total sentence of six months imprisonment. Chew was sentenced to five months per charge leading to a total of 10 months’ imprisonment. Tang and Loo had claimed trial to the charges and could not avail themselves of the usual discounts given to a guilty plea.
+
+211    The sentencing precedents cited by the Prosecution were of limited assistance. The sentences imposed ranged from six weeks to ten months imprisonment for each charge. The factual matrix in those cases were quite different with no element of conspiracy. Three of them were somewhat dated being sentences imposed in 1999 and 2005. It is unclear if they were still representative of current sentencing trends. The most recent precedent was _Lin Lifen v PP[^87]_, decided in 2015. The accused had pleaded guilty to a charge under s 471 r/w s 465 of the Penal Code for submitting a forged degree certificate to obtain a permit to work in Singapore. The accused was sentenced to eight weeks’ imprisonment. In the present case, the Prosecution sought a global sentence of 18 to 20 months’ imprisonment for Loo and 8 to 10 months’ imprisonment for Tang.
+
+212    After giving due consideration to the facts of this case, and in particular to the principle of parity of sentences amongst offenders involved in the same crime, I was satisfied that the following sentence would adequately address all sentencing concerns highlighted in this case. Specifically, I held the view that the length of the sentence imposed was sufficiently long to act as a deterrent to like-minded offenders without being a crushing sentence. Tang was sentenced to four months’ imprisonment per charge with two of the sentences to run consecutively, making a total of eight months’ imprisonment. Loo was sentenced to seven months’ imprisonment per charge with two of the sentences to run consecutively, making a total of 14 months’ imprisonment. On the facts of this case, the sentences were neither manifestly excessive nor inadequate.
+
+* * *
+
+[^1]: <span class="citation">\[2014\] 2 SLR 393</span>
+
+[^2]: <span class="citation">\[2017\] 2 SLR 1130</span>
+
+[^3]: \[2000\] 1 SLR (R) 604
+
+[^4]: <span class="citation">\[2005\] SGHC 195</span>
+
+[^5]: \[1993\] 3 SLR (R) 302
+
+[^6]: \[1998\] 1 SLR (R) 259
+
+[^7]: \[1967\] 1 All ER 497
+
+[^8]: PS4 Conditioned Statement of PW2 Elaine Ng Tze Ing
+
+[^9]: NE 2 Aug 2017 p 44 line 1-14
+
+[^10]: NE 23 August 2017 p 73-74
+
+[^11]: Exhibit D3, emails dated 28 – 29 July 2011
+
+[^12]: Exhibit D3, emails dated 28 – 29 July 2011
+
+[^13]: NE 20 March 2018 p 57 line 8 (Loo’s EIC); NE 23 August 2017 p 17 line 1 (Bob’s EIC); NE 3 August 2017 p 52 line 18 (Chew’s EIC).
+
+[^14]: _Chean Siong Guat v PP_ <span class="citation">\[1969\] 2 MLJ 63</span>
+
+[^15]: NE 30 January 2018 p 60 line 1-6
+
+[^16]: NE 30 January 2018 p 80 (Tang’s EIC).
+
+[^17]: NE 23 August 2017 p 18 (Bob’s EIC)
+
+[^18]: NE 20 March 2018 p 57 line 12-14 (Loo’s EIC)
+
+[^19]: NE 3 August 2017 p 53 line 5-7 (Chew’s EIC).
+
+[^20]: NE 3 August 2017 p 56
+
+[^21]: NE 3 August 2017 p 59-60
+
+[^22]: NE 3 August 2017 p 62
+
+[^23]: NE 22 August 2017 p 72 line 1-12
+
+[^24]: NE 22 August 2017 p 70-72
+
+[^25]: NE 23 August 2017 p 22 line 3-12
+
+[^26]: NE 23 August 2017 p 18-19 line 15-25; 1-4
+
+[^27]: NE 23 August 2017 p 19 line 16-20
+
+[^28]: NE 23 August 2017 p 20 line 4-10
+
+[^29]: NE 23 August 2017 p 20-21 line 11-25; 1-11
+
+[^30]: NE 23 August 2017 p21-22 line 17-25; 1-2
+
+[^31]: NE 24 August 2017 p69 line 7-9
+
+[^32]: NE 24 August 2017 p68 line 7-8
+
+[^33]: Illustration (b) to s 116 of the Evidence Act (Cap 97) cited
+
+[^34]: \[19991\] 1 SLR 25
+
+[^35]: NE 15 January 2018 p 12 line 2-7
+
+[^36]: NE 15 January 2018 p 13 line 5-9
+
+[^37]: NE 15 January 2018 p 14 line 2-22
+
+[^38]: NE 15 January 2018 p 42 line 10-21
+
+[^39]: NE 16 January 2018 p 32 line 6-15
+
+[^40]: NE 16 January 2018 p 19 line 2-19; p 22 line 4-25
+
+[^41]: NE 16 January 2018 p 97-99
+
+[^42]: NE 29 January 2018 p 12-13
+
+[^43]: NE 29 January 2018 p 13-17
+
+[^44]: NE 16 January 2018 p 50 -51 line 22-25; line 1-11
+
+[^45]: NE 16 January 2018 p 24 line 4-21
+
+[^46]: Exhibits P39
+
+[^47]: Exhibit P42, Statement dd 10 July 2014
+
+[^48]: Exhibit P41Statement dd 24 September 2014
+
+[^49]: Exhibit P41Statement dd 24 September 2014 at p 18
+
+[^50]: NE 30 January 2018 p43-44 line 21-25; 2-10
+
+[^51]: NE 30 January 2018 p 45 line 15-25; p 58 line 11-15
+
+[^52]: NE 30 January 2018 p 47 line 8-25
+
+[^53]: NE 30 January 2018 p 56 line 19-25
+
+[^54]: NE 30 January 2018 p 60 line 9-18
+
+[^55]: NE 30 January 2018 p 82 line 5-18
+
+[^56]: NE 30 January 2018 p 89 line 24-25; p 90 1-7
+
+[^57]: NE 30 January 2018 p 79 line 17-25; p 80 line1-6
+
+[^58]: NE 30 January 2018 p 94 line 4-17
+
+[^59]: NE 30 January 2018 p 99 line 12-25
+
+[^60]: NE 30 January 2018 p 102 line 8-25; p 115 line 1-15
+
+[^61]: NE 30 January 2018 p 130 line 4-19
+
+[^62]: NE 19 March 2018 p 23 line 1-21
+
+[^63]: NE 19 March 2018 p 38-50
+
+[^64]: NE 19 March 2018 p 54-55
+
+[^65]: NE 19 March 2018 p 85 line 12-20
+
+[^66]: NE 19 March 2018 p 87
+
+[^67]: NE 19 March 2018 p 94 line 2-11
+
+[^68]: NE 19 March 2018 p 107 line 5-23
+
+[^69]: NE 19 March 2018 p 114-115
+
+[^70]: NE 19 March 2018 p 136-137
+
+[^71]: NE 19 March 2018 p 137 line 1-11
+
+[^72]: NE 20 March 2018 p 15 line 3-15
+
+[^73]: NE 20 March 2018 p 36-37
+
+[^74]: NE 20 March 2018 p 38-40
+
+[^75]: NE 20 March 2018 p 54
+
+[^76]: NE 20 March 2018 p 57 line 11-14
+
+[^77]: NE 20 March 2018 p 75-76
+
+[^78]: NE 20 March 2018 p 77-78
+
+[^79]: NE 20 March 2018 p 87-88
+
+[^80]: NE 20 March 2018 p 104 line 6-13
+
+[^81]: NE 21 March 2018 p 32 line 1-11
+
+[^82]: NE 21 March 2018 p 37-39
+
+[^83]: NE 21 March 2018 p 41-42
+
+[^84]: NE 21 March 2018 p 47-49
+
+[^85]: NE 21 March 2018 p 60 line 1-11
+
+[^86]: NE 21 March 2018 p 85-88
+
+[^87]: <span class="citation">\[2015\] SGHC 273</span>
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F24201-SSP.xml)
