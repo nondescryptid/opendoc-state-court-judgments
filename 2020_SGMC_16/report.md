@@ -1,0 +1,216 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Lim Jia Jun  
+
+### \[2020\] SGMC 16
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">MCN 901769-2019 and ors, MCN 901837-2018 and ors</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">26 March 2020</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">Magistrates Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Eddy Tham Tong Kong</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Deputy Public Prosecutor Melina Chew for the Prosecution; Defence Counsel Sim Bing Wen (Drew &amp; Napier LLC) for the Accused</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Lim Jia Jun</td></tr></tbody></table>
+
+\[LawNet Editorial Note: An appeal to this decision has been filed in MA 9003-2020-01 and MA 9004-2020-01 .\]
+
+26 March 2020
+
+### District Judge Eddy Tham Tong Kong:
+
+The Accused pleaded guilty before me on two occasions, the first being on 28 September in 2018 (“the first conviction”) and the second on 27 November 2019 (“the second conviction”).
+
+#### The first conviction
+
+2       In the first conviction, the Accused pleaded guilty to three charges of insulting the modesty of a woman by intruding into her privacy with the use of a mobile phone to record an up-skirt video, an offence under section 509 of the Penal Code. 8 other similar charges were taken into consideration for the purpose of sentencing.
+
+3       On 8 November 2018, I had placed the Accused on 21 months’ probation with one of the conditions being that the Accused was to be prohibited from using any mobile devices with camera function, unless assessed by a psychologist to be suitable to do so.
+
+4       However in breach of this condition, the Accused had not only continued to use such a mobile phone but had proceeded to commit fresh offences of insulting the modesty of a woman on 29 November 2018.
+
+5       After he was convicted and sentenced for the fresh offences committed in the second conviction, his probation was revoked and I sentenced the Accused to 3 weeks’ imprisonment on each charge, with 2 sentences to run consecutively, giving a total of 6 weeks’ imprisonment. I further ordered this 6-week sentence to run upon the expiry of the imprisonment term I imposed for the second conviction.
+
+#### The second conviction
+
+6       In the second conviction, the Accused pleaded guilty before me to 6 charges of insulting the modesty of a woman by intruding into her privacy with the use of a mobile phone to record an up-skirt video, an offence under section 509 of the Penal Code. 13 other similar charges were taken into consideration for the purpose of sentencing.
+
+7       I sentenced the Accused to 5 weeks’ imprisonment for each charge with 2 imprisonment terms to run consecutively, totalling 10 weeks’ imprisonment. Altogether, the Accused had to serve a global sentence of 16 weeks’ imprisonment in respect of both convictions.
+
+8       The Accused, being dissatisfied with the sentences imposed for each conviction, has filed an appeal against both sentences. The sentences have been stayed pending the outcome of the appeals and the Accused is currently on bail.
+
+9       I now set out my grounds of decision for the sentences.
+
+#### The Statement of Facts in relation to the first conviction
+
+10     The Accused is Lim Jia Jun. He is now 22 years old (Date of birth: 27 November 1997). At the material time of the offences, he was 19 years old and a Full-Time National Serviceman.
+
+11     On 2 September 2017 at about 5.36pm, the complainant, a SMRT train captain who had just ended his trip at Jurong East MRT Station located at 10 Jurong East Street 12, Singapore, alighted from the train. As he was walking down the stairs to the concourse area, he noticed the Accused standing behind a female (“Victim 1”) on an up-riding escalator with his mobile phone placed on his knee, which he had rested one step behind Victim 1 on the escalator. Upon reaching the escalator landing, the complainant then observed the Accused placing his mobile phone to his ear as if he was on a call.
+
+12     The complainant approached the Accused and Victim 1, and he told Victim 1 what had happened. Victim 1 appeared shocked and she walked away without saying anything. Hence, her details were not established. The complainant then asked the Accused to show him his mobile phone. The Accused handed it over and the complainant found that the mobile phone was in “locked” mode. The Accused then became defensive and he asked for his mobile phone back. The Accused initially refused to unlock his phone. When the Accused finally unlocked his mobile phone, the complainant found that it was in recording mode, and there were several upskirt videos in the mobile phone.
+
+13     Investigations revealed that the Accused had taken the following upskirt videos of three females on 2 September 2017 at Jurong East MRT Station:
+
+> a.     At about 3.53pm, the accused took a 18-second upskirt video of Victim 2
+
+> b.     At about 4.36pm, the accused took a 17-second upskirt video of Victim 3
+
+> c.     At about 5.36pm: the accused took a 19-second upskirt video of Victim 1
+
+14     The identities of the three victims were not established. In all three videos, the Accused managed to capture recordings of the victims’ panties. By doing so, the Accused did intend to insult the modesty of the victims by intruding upon their privacy.
+
+15     The Accused admitted to the commission of the offences. He initially stated that he was feeling stressed over National Service and financial issues, and he decided to go to Jurong East MRT Station to take upskirt videos because he thought he would be able to get a thrill out of it. He stated that he would follow an unknown female target by standing one step behind them when they were going up the escalator towards the train platform at Jurong East MRT Station. Before stepping onto the escalator, he would turn on the recording application. The Accused would then hold his mobile phone under the skirt of his target and record an up-skirt video. When he reached the top of the escalator, he would pretend to talk on the mobile phone and walk past the target so that he could capture her face.
+
+16     During his interview with the IMH psychiatrist on 24 November 2017, the Accused admitted that he had lied to the police about being depressed at the material time when he committed the offences.
+
+17     By virtue of the above, the Accused had intruded into the privacy of the victims by using his mobile phone to take videos of the victims, with intent to insult their modesty. He has committed three counts under s 509 of the Penal Code (Cap 224).
+
+#### Order of probation given for 1st conviction
+
+18     After the Accused had pleaded guilty to these three offences and was duly convicted, a probation suitability report was called for. The Accused was assessed to be suitable to undergo probation and the Prosecution did not object to probation being ordered as _per_ the recommendation of the Probation Officer.
+
+19     The Accused was thus placed on probation on 8 November 2018 on the following terms:
+
+> (i)     21 months split probation (3 months intensive and 18 months supervised);
+
+> (ii)     To remain indoors from 10:00PM till 6:00AM unless otherwise varied by the Probation Services Branch, in accordance with the guidelines approved by the Court;
+
+> (iii)     To perform 120 hours of community service;
+
+> (iv)     To attend offence-specific treatment programme;
+
+> (v)     To be prohibited from using mobile devices with camera function, unless assessed by a psychologist to be suitable to do so; and
+
+> (vi)     Bond in the sum of $5,000 to ensure defendant's good behaviour during the period of probation to be executed by the mother.
+
+20     The Accused was 19 years old at the time of committing the offences and was 20 years old at the time of sentencing. He also had no previous convictions. The overriding principle of sentencing for the Accused being below 21 years old was clearly one of rehabilitation.
+
+21     However, shortly after being placed on probation, he re-offended.
+
+#### Statement of Facts in relation to the second conviction
+
+22     In the second conviction, the Statement of Facts as admitted without qualification by the Accused is as follows:
+
+23     On 29 November 2018, at about 2.15 pm, the complainant, one Mr Koh, was shopping in a DAISO outlet located at Chinatown Point, No. 133 New Bridge Road #B2-01, Singapore. He observed the Accused holding a mobile phone while squatting behind an unknown woman wearing a knee-length skirt.
+
+24     The Accused by this time had turned 21. He was still a full-time National Serviceman with the Singapore Armed Forces.
+
+25     The complainant saw that the woman was browsing the items on the shelf. He then saw the Accused stand up quickly and walk away.
+
+26     The Accused’s behaviour led the complainant to suspect that the Accused had taken an up-skirt photo of the said woman. The complainant informed a DAISO staff member of what he saw, and the latter quickly approached the said woman and the Accused. The said woman confronted the Accused and asked to see his mobile phone. The Accused complied and handed over his mobile phone. The said woman did not find anything incriminating in the Accused’s mobile phone, and thereafter left the DAISO outlet.
+
+27     The Accused then approached the complainant to ask what was going on. The complainant stated that he saw the Accused taking an up-skirt photograph. The Accused then challenged the complainant’s claims whereupon the complainant called for the police at about 2.35 pm, stating “I detained one guy for up-skirt, require police here”.
+
+28     The Accused initially denied to the police that he had taken any up-skirt photographs. His mobile phone was seized as a case exhibit. Upon forensic examination, 19 up-skirt videos were extracted from the Accused’s mobile phone.
+
+29     Investigations revealed that on 29 November 2018 from 12.09 pm to 2.15 pm, the Accused took a total of 19 up-skirt videos with his handphone. The identities of all his victims are unknown. These up-skirt videos were taken at or in the vicinity of Chinatown Point, which include the following:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="0"><colgroup><col width="23.82%"> <col width="27.62%"> <col width="22.9%"> <col width="25.66%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>CHARGE</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>LOCATION &amp; TIME</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>VIDEO LENGTH</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>IMAGES CAPTURED</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">1st Charge</p><p align="justify" class="Table-Para-1">(MCN-901769-2019)</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Chinatown MRT station / 12.09 pm</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">34 seconds</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Victim’s inner thighs and panties</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">2nd Charge</p><p align="justify" class="Table-Para-1">(MCN-901770-2019)</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Watsons outlet, Chinatown Point, #B1-28/29 /</p><p align="justify" class="Table-Para-1">12.11 pm</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">2 minutes, 48</p><p align="justify" class="Table-Para-1">seconds</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Victim’s inner thighs and panties</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">6th Charge</p><p align="justify" class="Table-Para-1">(MCN-901774-2019)</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAISO outlet, Chinatown Point, #B2-01 /</p><p align="justify" class="Table-Para-1">12.46 pm</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">4 minutes, 8</p><p align="justify" class="Table-Para-1">seconds</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Victim’s inner thighs</p><p align="justify" class="Table-Para-1">and panties</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">9th Charge</p><p align="justify" class="Table-Para-1">(MCN-901777-2019)</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAISO outlet, Chinatown Point, #B2-01 /</p><p align="justify" class="Table-Para-1">12.56 pm</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">5 minutes, 31</p><p align="justify" class="Table-Para-1">seconds</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Victim’s inner thighs</p><p align="justify" class="Table-Para-1">and panties</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">12th Charge</p><p align="justify" class="Table-Para-1">(MCN-901780-2019)</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">NTUC Fairprice, Chinatown Point, #B1-01 / 1.09 pm</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">5 minutes, 8</p><p align="justify" class="Table-Para-1">seconds</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Victim’s inner thighs</p><p align="justify" class="Table-Para-1">and panties</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">15th Charge</p><p align="justify" class="Table-Para-1">(MCN-901783-2019)</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Chinatown Point /</p><p align="justify" class="Table-Para-1">1.38 pm</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">34 seconds</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Victim’s inner thighs</p><p align="justify" class="Table-Para-1">and panties</p></td></tr></tbody></table>
+
+  
+  
+
+30     The Accused admitted to taking all of the abovementioned videos. He admitted to browsing voyeuristic forums, and stated that he wanted to experience the thrill of engaging in the act of taking up-skirt images himself. He targeted women who were wearing skirts or dresses, so long as they were not too old for his liking.
+
+31     The Accused used a mobile application named “Background Video Recorder” to take the said up-skirt videos. The said application stored all of the videos recorded in the application itself and not in the mobile phone’s media folder. The said application also allowed the user to change the display icon, which the Accused did in order to conceal the said application’s true function. This was the reason why the woman referred to in paragraph \[26\] above was not able to find any incriminating images when she searched the Accused’s mobile phone.
+
+32     By virtue of the foregoing, the Accused did intrude upon the privacy of the abovementioned victims with the intention to insult their modesty, and had thereby committed six (6) offences under Section 509 of the Penal Code.
+
+#### Prosecution’s submissions
+
+33     The Prosecution sought for the Accused to be sentenced to imprisonment, for both the fresh offences as well as for the breach of probation.
+
+34     The Prosecution relied on the following factors as to why deterrence is the dominant principle of sentencing and hence imprisonment is more appropriate than another round of probation:
+
+> i.     the Accused spurned the rehabilitative opportunity that had been afforded to him by reoffending and committing the same exact offences, with significant escalation in his criminality, a mere three weeks after he had been sentenced by the Court to undergo probation;
+
+> ii.     the Accused had used a mobile device with a camera function without being assessed suitable to do so by a psychologist in breach of one of the conditions of probation. The Accused, by ever so quickly reneging on his expression of contrition and promise to the Court that he would not reoffend, has clearly demonstrated his lack of sincerity and intention of being rehabilitated;
+
+> iii.     the use of technology, namely “Background Video Recorder” application allowing the Accused to conceal its true function. This emboldened the Accused to brazenly deny and challenge accusations of having taken up-skirt videos and even confidently allow one of the victims to check through his phone, knowing that she was unlikely to find the up-skirt video;
+
+> iv.     the facts demonstrate an extremely worrying escalation of criminality. In a short span of two hours, 19 women became the subject of the Accused’s up-skirt recording before he was finally confronted and apprehended by the complainant;
+
+> v.     the Accused’s _modus operandi_ was also far more sophisticated, indicating a high degree of planning and premeditation. He downloaded the “Background Video Recorder” application specifically to indulge his voyeuristic tendencies with the benefit of a well-designed guise, as the Accused was able to change the icon of the application to pass it off as something innocuous; and
+
+> vi.     the Accused did not show genuine remorse as he did not admit to his crime for 6 months and only confessed after being confronted with forensic evidence. This was so despite him having already started on a psychotherapy programme.
+
+35     The Prosecution submitted for imprisonment of 6 weeks per charge for the second conviction with two sentences to run consecutively and for imprisonment of 4 weeks per charge for the first conviction with two sentences to run consecutively for a global sentence of 20 weeks’ imprisonment.
+
+#### Mitigation
+
+36     The Defence Counsel (“DC”) submitted that the dominant sentencing consideration is still rehabilitation given that the Accused is a young offender.
+
+37     The DC further submitted that this presumption is not rebutted by the re-offending of the Accused as he had not started any psychotherapy sessions yet at the time of re-offence. The DC highlighted that this factor was noted by the Probation Officer in the Progress Report at \[5.1\] that there may not have been enough time for rehabilitative efforts to be effective yet since the Accused only commenced the Positive Psychotherapy Group programme designed to address his risk of sexual recidivism in January 2019, after the dates of his re-offending.
+
+38     The DC then emphasized that the Accused had completed successfully the full psychotherapy programme and that he has remained crime-free since. The DC also highlighted the substantial progress shown by the Accused in the last one year and 2 months indicating his desire to reform by taking on various jobs in the banking and finance sector. The DC emphasised that this factor of good progress was considered to be a vital factor in the case of _Chan Kum Hong Randy v Public Prosecutor_ <span class="citation">\[2008\] 2 SLR(R) 1019</span>.
+
+39     The DC argued that the Probation Officer’s recommendation for probation should be given careful consideration, relying on the case of _A Karthik v Public Prosecutor_ <span class="citation">\[2018\] 5 SLR 1289</span> (“_A Karthik_”) where at \[78\], it was stated that the Court should be slow to depart from the Probation Officer’s recommendation.
+
+40     Finally, DC also asked for one of the conditions of probation, the e-tagging to be substituted with other conditions such as more community hours as the Accused was concerned that it might jeopardise his career prospects in the banking and finance sector. It will also remind him of what he had done, stigmatize him and slow down his rehabilitation progress. Alternatively, the DC asked for e-tagging condition to be postponed until the end of his current contract in April 2020.
+
+#### Principle of sentencing
+
+41     Although the Accused has turned 22 at the time of sentencing for the 2nd conviction, he was aged 19 and 21 at the material time of the commission of the two sets of offences. He would thus still be considered as a young person and rehabilitation is a relevant consideration for sentencing.
+
+42     In _A Karthik_, Menon CJ reiterated the primacy of rehabilitation as a sentencing consideration for youthful offenders, and elaborated on the rationale for such a principle in the following terms (at \[37\]):
+
+> “In my judgment, there are at least two primary reasons justifying the view that youthful offenders should ordinarily be sentenced on the basis of rehabilitation being the dominant sentencing consideration:
+
+>> (a)    First, there is the retrospective rationale, which seeks to justify giving a young offender a second chance by excusing his actions on the grounds of his youthful folly and inexperience. This rationale rests on the offender’s age at the time of the offence, insofar as it emphasises his relative lack of maturity and his state of mind when he was committing the offence.
+
+>> (b)    Second, there is the prospective rationale, which seeks to justify rehabilitation as the preferred tool to discourage future offending on the grounds that:
+
+>>> (i)    young offenders would be more receptive towards a sentencing regime aimed at altering their values and guiding them on the right path;
+
+>>> (ii)   society would stand to benefit considerably from the rehabilitation of young offenders, who have many potentially productive and constructive years ahead of them; and
+
+>>> (iii)   young offenders appear to suffer disproportionately when exposed to the typical punitive options, such as imprisonment, as compared to adult offenders. These considerations rest on the offender’s age at the time of sentencing, insofar as they emphasise his mentality and outlook at the time when he is facing the consequences of his earlier criminal conduct.”
+
+43     In _A Karthik_, the presumptive sentencing approach for young offenders was still found to be applicable as the offender had just turned 22 and was only 17 at the time of the offending. I therefore found that this presumptive approach of rehabilitation being the dominant sentencing consideration applicable in our present case.
+
+44     The issue is thus whether such presumption has been displaced by the aggravating factors in the present case and the fact that the Accused had reoffended shortly after being placed on probation.
+
+45     In _Public Prosecutor v Koh Wen Jie Boaz_ \[2016\] 1 SLR 3341, Menon CJ has laid the applicable principles when dealing with a youthful offender who has reoffended whilst on probation, with the following list of non-exhaustive factors in determining whether to order a second sentence of probation (see \[57\]):
+
+> “(a)  Whether the latest offence in question is serious;
+
+> (b)    Whether the offender’s pattern of offending, seen as a whole, significantly displaces the focus of rehabilitation or at least mandates that greater emphasis be placed on deterrence within an overarching emphasis on rehabilitation;
+
+> (c)    Whether there is evidence of genuine remorse and a genuine commitment to repent and turn over a new leaf;
+
+> (d)    Whether there is cause for assurance that the risk factors which caused the last attempt at probation to fail have been effectively addressed; and
+
+> (e)    Whether there are any countervailing considerations such as the public interest in prevention or deterrence that militate against a fresh order of probation.
+
+46     Applying these factors, I found that firstly these voyeuristic offences in question, although not as serious as some other sexual offences such as outrage of modesty, should nonetheless be considered as serious in the light of the ease of commission of such offences evidenced by the numerous cases dealt with by our courts. General deterrence is called for and custodial sentences are the norm for adult offenders to deter such behaviour. In many instances, such recordings are kept and used for perverse enjoyment privately as well shared with others spawning more of such thrill seekers.
+
+47     Going onto the second factor for consideration, I found this to be the most significant. The Accused had escalated in his perverse offending behaviour. Specific deterrence is clearly relevant given that the Accused had shown no remorse in that he blatantly kept a handphone with recording device on him in defiance of the probation condition with the intent of committing fresh offences.
+
+48     This time round, he not only committed more offences (19 charges versus 11 charges from the first conviction), the Accused had the guile to download the application “Background Video Recorder” in order to conceal his criminal acts. Instead of remorse and learning to change his behaviour, he learned instead how he could continue to prey on unsuspecting victims to feed his perverse pleasure without being caught like what had happened on the previous occasion.
+
+49     Armed with this technology, the Accused was emboldened to not only re-offend repeatedly but brazenly deny and challenge any accusation. In the end, it was his own brazenness that led to his downfall. He foolishly confronted the complainant over his accusation when there was no need to do so as the victim had left after failing to find any incriminating evidence on his handphone.
+
+50     This brazen and unrepentant attitude of the Accused inevitably led me to conclude that the Accused did not have any genuine remorse or intent to turn over a new leaf, at least, not at the time when he was sentenced during the 1st conviction. He embarked on his plan to commit further offences almost immediately after he was placed on probation given that there was only a short 3-week span. The Accused had kept an additional handphone on him secretly and did not give it up.
+
+51     The DC asserted that the Accused should be given another chance because he did not have an opportunity to undergo psychotherapy sessions when he committed the second set of offences. He claimed that his remorse is genuine this time as he has now completed the full psychotherapy course and had remained crime-free while being meaningfully engaged with different jobs in the private sector.
+
+52     However, the genuineness of his remorse is called into question by the fact pointed out by Prosecution that he had denied committing any offence during the course of police investigations for 6 months and only came clean when he was confronted with incriminating forensic evidence of the contents of his handphone. He was intending to hold out in the hope that the application was sufficient to conceal his wrong-doing and thus escape the consequences of his re-offending. There was no genuine remorse over what he did.
+
+53     As for the fourth factor as to whether the risk factor which had caused the breach of probation had been addressed, one can say that the Accused having completed the psychotherapy sessions would therefore had these issues addressed and thereby would be unlikely to re-offend. However, I found that on the facts of this case, this factor should not be given much weight.
+
+54     When the Accused was sentenced to probation, he was already 20 years old and was about to turn 21 and he had in fact turned 21 when he committed the second set of offences. He was on the cusp of adulthood. The argument of youthful folly and inexperience does not carry much conviction in his case. He clearly knew the seriousness of the offences he had committed when he was placed on probation. Yet he chose to re-offend and re-offend he did, this time better prepared to boot.
+
+55     Furthermore, he started the psychotherapy sessions in January 2019 but he had continued to deny his re-offending until May 2019 and even then only upon incriminating evidence being presented to him. It was thus in all likelihood, the Accused was not going to own up and bear the consequences of his wrongdoing even with the benefit of such psychotherapy sessions.
+
+56     As for the last factor, in my view, based on the circumstances of the Accused having planned to re-offend so soon after his probation in such a brazen and unrepentant manner, public interest would clearly militate towards deterrence being the dominant sentencing principle. The offences committed were not done impulsively, on the spur of moment. There was a high degree of planning and clear deliberation with a higher degree of sophistication.
+
+57     Finally, on the DC’s point that the recommendation of the Probation Officer on prospects of rehabilitation should not be ignored, I agree with Prosecution’s submission that clearly the Probation Officer’s recommendation cannot be determinative of the matter. The sentencing principle applicable in each case must be judiciously decided taking into account all the relevant factors as has been done above. At stake in this case is not about whether the Accused’s prospect of rehabilitation is good or whether this has been accurately assessed by the Probation Officer. Instead it is about whether the presumptive rehabilitative approach has been displaced by the greater need for deterrence.
+
+#### The Sentences
+
+58     The Prosecution tendered a table of sentencing precedents showing sentences of between 4 weeks to 10 weeks of imprisonment for similar upskirt video offences. As typical of such offending, each of the offenders faced numerous charges. The global sentences imposed ranged from 12 weeks to 21 weeks’ of imprisonment.
+
+59     The Prosecution in submitting for imprisonment terms of 4 weeks per charge for the first set of offences and 6 weeks per charge for the second set of offences giving a global sentence of 20 weeks’ imprisonment would be in line with the sentencing precedents, based on the number of offences as well as the fact that there should be an uplift in the sentences of imprisonment for the second conviction.
+
+60     However, taking into account the relative youthfulness of the Accused, the fact that he had undergone a substantial period of rehabilitation and his plea of guilt, I had calibrated the sentences downwards to 3 weeks’ imprisonment per charge for the first set of offences and 5 weeks’ imprisonment per charge for the second set of offences, to arrive at a global sentence of 16 weeks’ imprisonment.
+
+#### Conclusion
+
+61     Having spurned the rehabilitative opportunity that had been previously accorded by this Court by re-offending a mere three weeks after he had been sentenced to undergo probation, the Accused must now face the full consequences of his actions. For the reasons given above, deterrence and prevention must take precedence over that of rehabilitation. Probation is no longer the appropriate sentence and imprisonment is necessary.
+
+62     Whilst the Accused was eligible for a community-based sentence which can include a short detention order, I am of the view that in consideration of the public interest to deter such offences and the need for specific deterrence in the instant case, it would not be appropriate to consider him for such a sentence.
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F24319-SSP.xml)
