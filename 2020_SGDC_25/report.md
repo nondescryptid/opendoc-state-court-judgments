@@ -1,0 +1,530 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Krishnamoorthy Kumar _v_ Nam Hong Builders Pte Ltd  
+
+### \[2020\] SGDC 25
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Suit No. 1116 of 2018</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">30 March 2020</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Dorothy F M Ling</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Ms Belinder Kaur Nijar / Ms Rachael Lam (M/s Hoh Law Corporation) for the Plaintiff; Mr Michael Eu Hai Meng (M/s United Legal Alliance LLC) for the Defendant.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Krishnamoorthy Kumar — Nam Hong Builders Pte Ltd</td></tr></tbody></table>
+
+Tort – Negligence – Contributory negligence
+
+\[LawNet Editorial Note: An appeal to this decision has been filed in HC/DCA 4 of 2020.\]
+
+30 March 2020
+
+### District Judge Dorothy F M Ling:
+
+## BACKGROUND[^1]
+
+1       This case concerns an industrial accident which occurred at the Fullerton Hotel on 28 June 2017 when the Plaintiff was cutting timber skirting in one of the guest rooms in the hotel.
+
+2       At the end of the hearing on the issue of liability, I found against the Defendant but held the Plaintiff to have been contributorily negligent to the extent of 20%. I therefore entered interlocutory judgment for the Defendant to satisfy payment to the Plaintiff at 80% of his damages to be assessed, and with costs and interests reserved to the Registrar hearing the assessment of damages.
+
+3       The Defendant being dissatisfied with the outcome, has lodged an appeal against my decision.
+
+4       I give the reasons for my decision.
+
+## BRIEF FACTS
+
+5       This case concerns an industrial accident that occurred on 28 June 2017, at about 2pm at Fullerton Hotel.
+
+6       At that time, the Defendant was the main contractor for the renovation project that was being carried out there. The Plaintiff, a 49-year old Indian national, was a construction worker in the Defendant’s employment.
+
+7       The accident occurred when the Plaintiff was in the process of cutting a timber skirting in one of the guest rooms at level 5 of the Fullerton Hotel.
+
+### The Plaintiff’s Case
+
+8       It was the Plaintiff’s case that he “was instructed to cut timber skirting board… on the ground using a Makita angle grinder which was equipped with a wood-cutting blade but had no flexible guard or auxiliary handhold.”[^2] While doing so “with the grinder in his right hand and holding the timber skirting board stationary with his left hand, the grinder suddenly slipped”.[^3] The Plaintiff sustained injuries to his left index and middle fingers.
+
+9       The Plaintiff therefore claimed against the Defendant for the injuries he sustained thereby.
+
+10     In the course of the proceedings, the Plaintiff demonstrated to this Court how he was cutting the timber skirting at an angle when the accident happened.
+
+### The Defendant’s Case
+
+11     It was the Defendant’s case that the Plaintiff himself, “instead of retrieving the timber cutting machine from the Defendant’s store…, … retrieved a Makita angle cutter and a timber cutting blade; … removed the cutting blade that was fixed to the Makita angle cutter and replaced it with a timber cutting blade (“the Modified Makita Cutter”).”[^4] The Defendant also averred[^5] that there was no breach on their part and that it was wholly a breach on the Plaintiff’s part.
+
+12     In the alternative, the Defendant argued that the Plaintiff’s injuries were contributed to by the Plaintiff himself to the extent of 70%.
+
+## ISSUES
+
+13     The broad issues before this Court were–
+
+> (a)     Whether the accident was caused by the breach of duty and/or negligence of the Defendant as alleged by the Plaintiff;
+
+> (b)     Whether the accident was caused or contributed to by the negligence of the Plaintiff; and
+
+> (c)     The apportionment of liability, if relevant.
+
+## THE LAW
+
+14     The burden of proof was of course on the Plaintiff to prove his case on a balance of probabilities. In a workplace accident case such as the present matter, it was incumbent upon the Plaintiff to show that:
+
+> (a)     the Defendant owed the Plaintiff a duty of care;
+
+> (b)     that this duty had been breached;
+
+> (c)     the Plaintiff suffered loss; and
+
+> (d)     the Plaintiff’s loss was caused by the Defendant’s breach of duty.
+
+(See: _Miah Rasel_ v _5 Ways Engineering Services Pte Ltd_ <span class="citation">\[2017\] SGHC 235</span> at 26.)
+
+15     The Defendant being the Plaintiff’s employer, its duty to the Plaintiff would be “the provision of a competent staff of men, adequate material, and a proper system and effective supervision”. (See: _Wilsons & Clyde Coal Company Limited_ v _English_ <span class="citation">\[1938\] AC 57</span> at 78, and referred to in the local decision of _Chua Ah Beng_ v _C & P Holdings Pte Ltd_ <span class="citation">\[2001\] SGHC 88</span> at 30.)
+
+16     The Plaintiff having sustained the injuries in the course of his carrying out his work for the Defendant and as the Defendant’s employee, there would have been a duty owed to the Plaintiff. It was also clear that the Plaintiff had suffered a ‘loss’ in that he had sustained injuries. What were still at large were whether the Defendant’s duty to the Plaintiff was breached, which breach had resulted in the loss suffered by the Plaintiff.
+
+17     Justice Kan Ting Chiu would have felt sympathetic towards the plaintiff when he presided over the case of _Chua Ah Beng_. The plaintiff there suffered spinal injuries when he fell from the platform of a crane during a routine inspection of the crane’s engine. The learned Judge had said, “Everyone would sympathise with him (the plaintiff) over the accident”.[^6] However, Justice Kan had then immediately referred to Lord Thankerton’s reminder in _Glasgow Corporation_ v _Muir_ <span class="citation">\[1943\] AC 448</span> at 454–455:[^7]
+
+> The court must be careful to place itself in the position of the person charged with the duty and to consider what he or she should have reasonably anticipated as a natural and probable consequence of neglect, _and not to give undue weight to the fact that a distressing accident has happened_ … (My emphasis.)
+
+18     Guided by the wisdom of the cases above-cited, in evaluating the evidence that came before me in the present case, I took care to do the same. I then went on to examine the issues in the light of the law.
+
+## MY DECISION
+
+### ISSUE 1: Whether the accident was caused by the Defendant’s breach of duty and/or negligence.
+
+19     In his Statement of Claim,[^8] the Plaintiff enumerated the Defendant’s particulars of negligence and/or breach. It was a total of 26 particulars. However, it would not be inaccurate to say that they centred on the questionable tool and system of work and would include[^9] –
+
+> (a)     the failure “to provide a suitable tool for the assigned task…”, including the failure to provide “an angle grinder with an auxiliary handle” or a flexible guard, a “clamping device”, a “workbench for clamping down and cutting the timber skirting board”; and
+
+> (b)     the failure to ensure that there was a safe system of work which would include carrying out a proper risk assessment of the work and ensuring that there was proper and effective supervision of the work.
+
+20     Once again, it is trite law that the burden of proof lies on the Plaintiff to prove his case on a balance of probabilities.
+
+#### Failure to provide suitable tools
+
+21     Central to this issue of whether the Defendant breached their duty of providing a suitable tool for the purpose of cutting a timber skirting at an angle, was who went to retrieve the tool from the store.
+
+22     It was the Plaintiff’s case that his colleague, Palanisamy Gunabalan (DW2), was the one who went to retrieve the tool from the store. Palanisamy, however, testified that it was the Plaintiff who went to the store to retrieve the tool for himself. It was also the Defendant’s case that only ‘senior workers’ such as the Plaintiff would be allowed to access the store for tools. This was denied by the Plaintiff.
+
+23     The ‘tool’ referred to at this point, would be the Makita angle grinder (or cutter) and separately, the timber cutting blade.
+
+24     I must state for the record that when the Plaintiff was examined-in-chief on his affidavit, he informed the Court that he would like to amend his affidavit from “It was Vincent who drew this grinder from the store…” to “It was ~Vincent~ Palanisamy Gunabalan who drew this grinder from the store…”.[^10] Clearly, whoever retrieved the tool from the store, it was the Plaintiff’s case that it was not the Plaintiff himself.
+
+25     Given the evidence as it was, I should admit that it is unclear who exactly went and collected the tool from the store. Of course, the burden rests on the Plaintiff to show that it was not him and he was unable to show that. The Plaintiff amending his Statement of Claim as aforementioned[^11] cast suspicion on the Plaintiff’s version of the matter. However, I did not see consider this as fatal to the Plaintiff’s case.
+
+26     What was a pivotal fact to me in this case, was the oral testimony of Thangaraj Senthilkumar (DW1):[^12]
+
+>   
+| 
+
+PC:
+
+ | 
+
+… Now, it is the Defendant’s case that there was a timber cutting machine at The Fullerton Hotel, where the accident occurred. Do you agree?
+
+ |
+| 
+
+DW1:
+
+ | 
+
+Yes, I agree because I did work using that machine.
+
+ |
+| 
+
+PC:
+
+ | 
+
+Okay. How many of---I---okay first, can you confirm that this is the machine that you used to work on that day?
+
+ |
+| 
+
+DW1:
+
+ | 
+
+Yes, this is the machine that can cut at 45 degrees.
+
+ |
+| 
+
+PC:
+
+ | 
+
+But is this the machine that you used on that day?
+
+ |
+| 
+
+DW1:
+
+ | 
+
+Yes, the machine I used on that day is as seen, it’s PBD 20.
+
+ |
+| 
+
+PC:
+
+ | 
+
+How many such machines do the Defendants have?
+
+ |
+| 
+
+DW1:
+
+ | 
+
+I wouldn’t know how many machines of this type that the company has because I’m not the storekeeper. Only the storekeeper will know. **But on that day---but on that day, this machine was not in my storage so we borrowed it from the hotel. On that day, only the hotel had this machine so we borrowed it from them to do the work.**
+
+ |
+| 
+
+ | 
+
+… …
+
+ |
+| 
+
+PC:
+
+ | 
+
+**So when you say you borrowed the machine from the hotel, was it because the Defendants didn’t have this timber cutting machine at the worksite at Fullerton Hotel?** That is why you needed to borrow it.
+
+ |
+| 
+
+DW1:
+
+ | 
+
+**Yes, the company did not have this machine at that particular worksite on that day.** Which is why we had to borrow from the hotel itself.
+
+ |
+
+  
+  
+
+(My emphases.)
+
+27     It was not disputed that on the fateful day of the accident, the works to be done to the timber skirting of the room was urgent. As the Plaintiff had met with the accident and was therefore unable to complete the job, Senthilkumar took over to complete it. The above excerpt explained how the job got completed in the end.
+
+28     It was clear from Senthilkumar’s evidence that there was no such appropriate timber cutting tool in the Store. He was in fact so candid and forthright about it that I was not persuaded on a balance of probabilities but beyond a reasonable doubt, that there was no timber cutting machine in the Defendant’s store.[^13] Senthilkumar said so, at least 4 times when he was on the witness stand, and in 4 different ways.[^14]
+
+29     Quite clearly from the excerpt produced above, the Plaintiff or whoever went to the store to retrieve the appropriate tool to cut the timber skirting that day, was not able to get the appropriate tool. The evidence before me was that the work was urgent. The worker who retrieved the tool therefore got ‘creative’. Since the skirting had to be cut at an angle, the worker retrieved a Makita angle cutter or grinder (“for grinding concrete or metal surfaces, not timber cutting”[^15]) and then used the blade of a timber cutter and affixed it onto the angle cutter (“Modified Makita Cutter”).
+
+30     Further evidence that came forth was that the job that the Plaintiff had undertaken was _ad hoc_ and was supposed to have been done by carpenters, except that they had were no longer on site. They left, having omitted the installing of a timber skirting:[^16]
+
+>   
+| 
+
+DW1:
+
+ | 
+
+...At that point of time, the carpenter---carpenter subcontractor was not present because all the work in the hotel was---on---on the worksite was already completed. What was left was the cleaning so the subcon---con---carpenter was not present, was not there.
+
+ |
+| 
+
+ | 
+
+… …
+
+ |
+| 
+
+ | 
+
+We were doing the finishing works. It was only for that part where the skirting was not completed. So that was the only work that needed to be done but then the sub-con wasn’t there. Which is why the equipment was borrowed from the hotel and I completed it.
+
+ |
+
+  
+  
+
+31     Quite clearly from the above, the Plaintiff was instructed to undertake a task for which the Defendant was not equipped to tackle. There was no appropriate tool. Even if the Defendants themselves did not own the appropriate tool, they did not make one available to the Plaintiff. With the further instruction that the work was urgent, the Defendants had placed the Plaintiff at risk to finish the task.
+
+32     There was also the Plaintiff’s complaint that the Makita cutter or grinder that the Plaintiff was ‘forced’ to use under the circumstances did not come with an auxiliary handle. The Defendants also did not provide clamping device to clamp down the timber skirting. The Defendants also did not provide a table or workbench for the Plaintiff to carry out his task. In having to cut the timber skirting, the Plaintiff ended up doing that “on top of _(sic)_ the floor”[^17] “in the bathroom \[of the guest room\] and beneath the skirting board there was a plank or a wooden piece to support it”.[^18]
+
+33     Even if the clamps were not crucial as Palanisamy Gunabalan (DW2) was assisting the Plaintiff at that point in time; even if the table was not crucial since Senthilkumar could later get the timber cut without the use of table; these did little or nothing to mitigate the breach of the employer-Defendants in not providing the proper tool to its worker.
+
+#### Failure to provide a safe system; Toolbox meeting
+
+34     On the issue of whether there were toolbox meetings, I would again draw reference from Senthilkumar’s evidence.
+
+35     While I accept Plaintiff Counsel’s argument that there were no papers evidencing the meetings, what was more telling for me was what Senthilkumar testified when he was on the stand. He had said –[^19]
+
+> So every morning, at a toolbox meeting,… the manager and supervisor will inform me of the work that is to be carried out on that day. Then, I will proceed to the worksite, meet the workers and inform them of the work that they are supposed to do.
+
+36     From his responses, it was also clear that the focus of the meetings were on the work for the day. Only when asked specifically did he mention about safety matters –[^20]
+
+>   
+| 
+
+PC:
+
+ | 
+
+Was there a toolbox meeting conducted on the 20th of June?
+
+ |
+| 
+
+DW1:
+
+ | 
+
+Everyday, there will be a toolbox meeting to discuss on what work needs to be done and to do the necessary arrangements.
+
+ |
+| 
+
+PC:
+
+ | 
+
+Are safety issues also addressed at the toolbox meeting?
+
+ |
+| 
+
+DW1:
+
+ | 
+
+They would just tell us to work safely, in a safe manner.
+
+ |
+
+  
+  
+
+37     When quizzed on what safety procedures were breached when the Plaintiff used the Makita grinder for the particular job which he was doing, Senthilkumar, as the foreman[^21] or assistant manager of the Defendant-company,[^22] was evasive and appeared ignorant: [^23]
+
+>   
+| 
+
+PC:
+
+ | 
+
+**Can you inform the Court what safety procedures were breached?** Because I do not see any safe work procedures that have come from the Defendants. What safety procedures were breached?
+
+ |
+| 
+
+DW1:
+
+ | 
+
+First of all, this equipment should have not been used at all.
+
+ |
+| 
+
+PC:
+
+ | 
+
+**My question is with regards the safe work procedures. Your evidence is that safety procedures were breached. I want to know, where are these safety work procedures that you are talking about?**
+
+ |
+| 
+
+DW1:
+
+ | 
+
+The safe work procedures or the safety procedures are with me. For an example, if I’m doing a particular activity, the machine that should be used for that activity should be used. If you use another machine or an equipment that’s not intended for that purpose then it will definitely breach.
+
+ |
+| 
+
+PC:
+
+ | 
+
+Mr. Senthilkumar, **you are not answering my question, you are being evasive. Just answer. You don’t have the safety work procedures, am I correct?**
+
+ |
+| 
+
+DW1:
+
+ | 
+
+I do have it. How am I supposed to work without it?
+
+ |
+| 
+
+PC:
+
+ | 
+
+I put it to you that the Defendants did not have any safe work procedures in relation to cutting timber, by---by using the appropriate equipment which would have been the timber cutter and not the Makita grinder. There are no such safe work procedures. You can agree or disagree.
+
+ |
+| 
+
+DW1:
+
+ | 
+
+I disagree to what you say. …
+
+ |
+
+  
+  
+
+As foreman and assistant manager of the works, DW1 failed miserably in demonstrating that he knew what these safety procedures were.
+
+38     Also, although Senthilkumar, only after extensive cross-examination on safety procedures offered the information of “a paper where we sign on it”[^24] have not produced such documentary evidence. He even said “but I do not know what else or what other instructions are written on it”.[^25]
+
+39     I should also add that even if the Defendant, as a company, might have safety procedures in place, but if its supervisors or foreman – for example, Site Manager Vincent – did not comply with the safety protocols, it is clear that the company would be vicariously liable for any breach by its agents. It is incumbent upon companies to also ensure that their managers and workers comply with the practices they have put in place. It is not enough to pay lip service.
+
+40     On the issue therefore, of whether the accident was caused by the Defendant’s breach of duty and/or negligence as alleged by the Plaintiff in the Statement of Claim, this answer must surely be answered in the affirmative.
+
+### ISSUES 2 & 3: Whether the accident was caused or contributed to by the Plaintiff’s negligence; apportionment
+
+41     The Plaintiff was an experienced worker. He had worked in the Defendant company “for about 11 years” and in timber cutting.[^26] He had also undergone various safety courses in 2001, 2004, 2007, 2011, and 2014. The Plaintiff was in fact certified as a building constructions safety supervisor even if he was never employed as one.
+
+42     Having worked in the same Defendant-company all these years, it would not be unreasonable to presume that the company would be well aware of the Plaintiff’s level of competence, particularly over a piece of work that the Plaintiff was familiar with. I was therefore unable to appreciate the Plaintiff’s concern that there should be close supervision over the Plaintiff and that that was missing. In fact, given his seniority in the field, it could reasonably be expected of the Plaintiff to take ownership or take charge of his own safety.
+
+43     So, whilst the Defendant might have failed to provide or make available the appropriate tool for the job, the Plaintiff could not be totally absolved from any responsibility when “he ought reasonably to have foreseen that if he did not act as a reasonable prudent man, he might hurt himself”. See: _Parno_ v _SC Marine Pte Ltd_ \[1999\] 4 SLR579 (CA) at \[59\].
+
+44     It was admitted by the Plaintiff when he was in the witness box that it was he himself who changed the blade of the Makita grinder to a timber cutting blade. In other words, no one but the Plaintiff himself had removed the Makita grinder with a blade which was suitable for stones and pipings and tiles, and substituted and affixed it with wood-cutting blades.[^27]
+
+45     It was also Senthilkumar’s (DW1) testimony that when given an inappropriate tool to use, the Plaintiff could and should have raised an issue about this.[^28] The Plaintiff could also sound his supervisor out as it was in evidence that his co-worker and supervisor were nearby.
+
+46     Gunabalan (DW2) had also deposed in his affidavit that he had “explained to \[the Plaintiff\] that the Modified Makita Cutter was improper and/or unsafe for the said task and a Makita angle grinder was typically only used for grinding concrete or metal, not timber which is of a softer material.”[^29] I am not placing weight on this as I seriously doubt that there was such a conversation. DW2’s Accident / Witness Statement of Accident[^30] and what appears to be accident investigation report[^31] are also doubtful as the Court was convinced that DW2 is not at all conversant in the English language[^32] despite what the attestations in the documents stated, that it was read to him in English and he understood them.[^33]
+
+47     That should, however, not affect my finding on this issue.
+
+48     In his evidence, the Plaintiff himself also admitted that he was careless, but had also mentioned that he was working under pressure:[^34]
+
+>   
+| 
+
+DC:
+
+ | 
+
+So, are you agreeing that you did not exercise care and attention?
+
+ |
+| 
+
+PW1:
+
+ | 
+
+Yes, but as I had mentioned, it’s because I was not given the time that this incident had occurred.
+
+ |
+
+  
+  
+
+Does working under pressure therefore justify his disregard for personal safety?
+
+49     There was nothing in evidence that the Plaintiff had raised any concern when presented with the inappropriate tool to do the job. When Senthilkumar later completed the work that day after the Plaintiff had met with the accident, and Senthilkumar did so by borrowing the timber cutter from the engineering department of the hotel, it showed that there were ways that the Plaintiff could have got the job done, without putting himself at risk.
+
+50     When the Plaintiff was shown a picture of the actual tool that he used that day,[^35] the Plaintiff “inform\[ed\] that this equipment that \[was\] shown in the photograph \[could\] be used to cut the wood as well. However, on that day, it was used in place of the other equipment which was not available”.[^36]
+
+51     So, even though inappropriate, the Plaintiff had admitted that the less than perfect tool for the job could have done the job. In fact, the Plaintiff himself admitted, “I have used the Makita grinder before at other sites…”[^37] even if those other occasions he did so, to cut straight and not at an angle. The Plaintiff was clearly one who was willing to compromise safety for convenience. 28 June 2017 was the day the Plaintiff was taught a lesson. The Court should ensure that this lesson is learnt well and remembered.
+
+52     However, it was also the Plaintiff’s testimony that the changing of the blade was in compliance with the site manager’s instructions. That would be Vincent. Vincent did not take to the witness stand to confirm or dispel the truth of this evidence. Given the urgency of the task that the Plaintiff had to do that day, I do not find that unbelievable. I agree with Plaintiff Counsel that it would be for the Defendant to call upon Vincent to explain this, one way or the other. But Vincent was not called to testify. This would affect my finding on the issue of apportionment of liability.
+
+53     Flowing from the above, I recognised the Defendant to be the more culpable for subjecting the Plaintiff to such a situation: the urgency of the work, the inappropriate tool and expecting him to serve up the work on time, even if that meant using an angle cutter for cutting at an angle, but nevertheless remained an inappropriate tool for the material that it was working on.
+
+54     I therefore attribute a percentage of liability on the Plaintiff himself for the injuries he suffered, which he could have had a chance to avert if he had made the requests of his employer, or taken steps to guard his own safety.
+
+## IN CONCLUSION
+
+55     Taking all the above into consideration, I reiterate that I found the Defendant to be the more culpable for the injuries that the Plaintiff suffered, and the Plaintiff contributorily negligent to the extent of 20% of the same.
+
+56     Costs to be reserved to the Registrar hearing the assessment of damages.
+
+* * *
+
+[^1]: References to the documents are as follows:NE1 – Notes of Evidence of 8 July 2019; andNE2 – Notes of Evidence of 9 July 2019.
+
+[^2]: Statement of Claim (Amendment No. 1), at para 6.
+
+[^3]: Statement of Claim (Amendment No. 1), at para 7.
+
+[^4]: Defence (Amendment No. 1), at para 2(3) and (4).
+
+[^5]: Defence (Amendment No. 1), at paras 3 and 4.
+
+[^6]: _Ibid._, at 38.
+
+[^7]: Ibid., also at 38.
+
+[^8]: _Ibid._, Amendment No. 1.
+
+[^9]: _Ibid._, at para 8.
+
+[^10]: BA4 at para 15.
+
+[^11]: _Supra._, at paragraph immediately above.
+
+[^12]: NE2, at p31, line 2-29.
+
+[^13]: NE2, p31, line 11-17, 23-29; NE2, p33, line 27-32; NE2, p34, line 20-21; NE2, and p35, line 15-21.
+
+[^14]: _Ibid._.
+
+[^15]: Affidavit of Thangaraj Senthilkumar at BA31, at para 9(1).
+
+[^16]: NE2, p34, line 5-9.
+
+[^17]: NE1, p75, line 8.
+
+[^18]: NE1, p75, line 4-6.
+
+[^19]: NE2, p5, at line 18-23.
+
+[^20]: NE2, p7, line 3-7.
+
+[^21]: NE2, at p53, line 6. Referred to as such by DW2.
+
+[^22]: NE1, at p36, line 8. Referred to as such by PW1.
+
+[^23]: NE2, p11, line 8_ff_.
+
+[^24]: NE2, p8, line 29-31.
+
+[^25]: _Ibid._.
+
+[^26]: NE1, p28, line 27 and p37 line 30-31.
+
+[^27]: NE1, p51, line 23.
+
+[^28]: NE2, p19, line 30-32.
+
+[^29]: Gunabalan’s affidavit at BA13, para 6.
+
+[^30]: BA13.
+
+[^31]: BA14-17.
+
+[^32]: NE2, p51, line 31 to p67, line 32.
+
+[^33]: _Ibid._, at BA17
+
+[^34]: NE1, p82, line 9-12.
+
+[^35]: PBD40 and 41.
+
+[^36]: NE1, p50 line 14-17.
+
+[^37]: NE1, p82, line 31.
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F24342-SSP.xml)
