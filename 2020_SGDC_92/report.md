@@ -1,0 +1,109 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Mohammad Faizal bin Sabtu  
+
+### \[2020\] SGDC 92
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">DAC-937077-2017 &amp; Ors</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">09 April 2020</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">John Ng</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">DPPs Desmond Chong and Jaime Pang for the Prosecution; Accused in-person.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Mohammad Faizal bin Sabtu</td></tr></tbody></table>
+
+\[LawNet Editorial Note: An appeal to this decision has been filed in MA 9055/2020/01.\]
+
+9 April 2020
+
+### District Judge John Ng:
+
+The Accused is Mohammad Faizal Bin Sabtu, a 36-year-old Singaporean. He was tried on one charge of consuming Morphine, a Specified Drug, on or before 24 September 2017, an offence under Section 8(b)(ii) punishable under Section 33A(2) of the Misuse of Drugs Act (Cap 185, 2008 Rev Ed)(“MDA”). This is commonly referred to as a Long Term 2 (“LT2”) offence. He had previously been convicted on 13 September 2012 of a Long Term 1 (“LT1”) offence of consumption of Morphine under s33A(1) of the MDA and was sentenced to 5 years’ imprisonment and 3 strokes of the cane. An LT2 offence is punishable with a mandatory minimum of 7 years’ imprisonment and 6 strokes.
+
+2       At the conclusion of the trial, I found the Accused guilty and convicted him on the LT2 charge. The Accused then pleaded guilty to four other charges: three charges for the unauthorized possession of controlled drugs – Methamphetamine and Diamorphine (on two occasions) and one charge for Theft. Eight more remaining charges were taken into consideration for the purpose of sentence. I sentenced the Accused to a global term of 8 years and 10 months’ imprisonment and 6 strokes of the cane.
+
+3       The Accused was sentenced on 20 February 2020 and his sentence of imprisonment was backdated to take effect from 6 November 2017. The Accused, being dissatisfied with his conviction and sentence, has filed this appeal. He did not apply for bail pending appeal and is currently serving his sentence.
+
+## The Prosecution’s case
+
+4       On the day of 23 September 2017, the Accused was arrested on suspicion of consumption of a controlled drug. The Accused was brought to Jurong Police Divisional Headquarters and subsequently subjected to an Instant Urine Test which gave rise to a positive result for Opiate.
+
+#### The procurement of the Urine Samples
+
+5       At the police station, CNB SSgt Mohamad Hilmi Bin Salim (SSgt Hilmi), was assigned to procure the urine samples of the Accused. The Accused selected 3 bottles, one with a red cap and 2 with blue caps. In the toilet, the Accused urinated into the red-capped bottle. From this bottle, the Accused poured the contents into the 2 blue-capped bottles with some remaining in the red-capped bottle. The Instant Urine Test was conducted on the urine from the red-capped bottle and the result was positive for Opiate. The two blue-capped bottles of urine samples were then labelled and sealed in the Accused’s presence. He signed on the sticker labels, which had his particulars and he deposited the 2 blue-capped bottles into two separate compartments of a locked metal container. They were sent to the HSA for analysis.
+
+#### Analysis of the urine samples
+
+6       The HSA issued two certificates by two analysts, namely Ms Maggie Tiong Su Su and Ms Bellene Chung, stating that each of the said urine samples contained Morphine, a Specified Drug listed in the Fourth Schedule to the MDA.
+
+7       The Prosecution is relying on the presumption in Section 22 of the MDA. Section 22 provides as follows:
+
+> **“Presumption relating to urine test**
+
+> 22.    If any controlled drug is found in the urine of a person as a result of both urine tests conducted under section 31(4)(b), _he shall be presumed, until the contrary is proved, to have consumed that controlled drug_ in contravention of section 8(b).”
+
+## The Defence
+
+8       The Accused denied taking controlled drugs and testified that he did not know how his urine had Morphine. Throughout the trial, he suggested that the detection of the Morphine in his urine _could_ have been due to:
+
+> ·    Contamination of his urine specimen
+
+> ·    Cough mixture medication he had consumed
+
+9       The Prosecution, in anticipation of the lines of defence, had called the various doctors of clinics the Accused had visited and obtained medication, so that the Accused had the opportunity to question them.
+
+## The Decision
+
+10     This is a case where the two HSA certificates under section 16 of the MDA indicated that Morphine, a Specified Drug, was found in the urine samples of the Accused, which he provided on the 24 of September 2017. His urine samples had been procured in accordance with the procedures laid out in the Regulations and the analysis of the urine samples were carried out in compliance with Section 31(4) (b) of the MDA. By virtue of the two HSA certificates, the presumption under Section 22 of the MDA is invoked that the Accused had consumed the said drug knowingly.
+
+11     I applied the legal process laid out in the case of _Mohammad Ashik bin Aris v PP_ <span class="citation">\[2011\] 4 SLR 802</span> where the Court of Appeal held that both the _actus reus_ and _mens rea_ of Section 8(b) of the MDA were presumed by section 22 of the MDA. The burden then shifted to the Accused to rebut this presumption on a balance of probabilities.
+
+12     The issues for determination were whether the urine samples were procured in accordance with the Regulations, whether there was contamination and whether the Accused had rebutted the presumption under s22 MDA. The Accused claimed that the medication he had consumed _could_ have caused his urine samples to test Positive for Morphine.
+
+#### Proper procurement and no contamination
+
+13     Based on the evidence of SSgt Hilmi (PW5), the urine samples were procured in accordance with the Regulations. I found no reason to doubt his clear evidence given under oath. The allegations of the Accused that the urine procurement process was improper were specifically refuted by the witness. There was nothing in the cross-examination of PW5 which showed that he had lied, or even that he had any reason to lie, and had failed to carry out his duties as required of him under the Regulations. I was satisfied that the witness was honest and he had taken the requisite steps to ensure the integrity of the process. Therefore the urine samples were obtained in accordance with the Regulations.
+
+14     I was also satisfied that there was no room to entertain the allegation that the urine samples could have been contaminated. Again, there was nothing in the evidence given by SSgt Hilmi of the procurement process to show that there was any lapse in the selection of new empty bottles with red and blue caps. The whole sequence of events – from the Accused urinating into the bottles and the sealing and the depositing of the bottles into the locked metal containers – did not allow for the possibility of contamination.
+
+15     There was an allegation by the Accused that SSgt Hilmi gave him a cigarette to smoke and that it could have been spiked with Morphine. This allegation was refuted by the witness and I found that there was no basis for the allegation. The allegation was a preposterous attempt by the Accused to discredit the witness. Firstly, it was rather curious that SSgt Hilmi would offer a suspect a cigarette to smoke and secondly, it was ludicrous to suggest that the witness would spike that cigarette. The Accused did not provide any reason, let alone a plausible reason, for the witness to do such an act.
+
+#### On the medication defence
+
+16     Once the presumption in s22 MDA is triggered, the burden is on the Accused to prove on a balance of probabilities that he did not consume that controlled drug found in his urine. It is not sufficient in this case for the Accused to rebut the presumption by suggesting that his urine _could_ have been due to the medication that he had consumed.
+
+17     The medication defence raised by the Accused started with him saying that he had consumed painkillers after his motorcycle accident 3 days before the arrest. He claimed that the medication came from Toa Payoh Polyclinic and SGH. The witnesses from the polyclinic and SGH testified that the Accused did not visit the clinic or the hospital as he had claimed. The Accused also claimed that he had taken medication from TTSH on the day of his arrest when he was sent to TTSH for examination. The TTSH witness testified that the medication prescribed to the Accused did not contain any opioids.
+
+18     Subsequently, when the analyst from HSA Bellene Chung testified that some cough mixtures could give rise to positive Morphine results in urine samples, the Accused latched on to that and claimed to remember that he had consumed those cough medication.
+
+19     Of the cough mixtures that could give rise to Morphine in a person’s urine, the Phenexpect CD was prescribed for the Accused by Thai Shen Family Clinic on 28 December 2015 and Cophadyl-E was given by Unihealth 24-Hr Clinic on 11 July 2016. The Accused was given other cough medication between 11 July 2016 and his arrest on 23 September 2017 but these were shown to be devoid of substances that could give rise to Morphine in the urine. Therefore, I agree with the Prosecution that it is simply unbelievable for the Accused to have kept the Cophadyl-E and Phenexpect CD from end 2015 and mid 2016, and choose to consume them just before his arrest in September 2017, resulting in the Morphine found in his urine samples on 24 September 2017.
+
+20     I agree with the detailed submissions of the DPP that these were afterthoughts. The DPP was able to show that the Accused was making up his claims in the course of the trial. I agree with the DPP’s submissions that the Accused lacked credibility.
+
+21     More importantly, it is insufficient to rebut the presumption by just claiming that he had consumed cough mixtures. These claims of the Accused were mere assertions without evidential basis of the actual consumption. As the Analyst Bellene Chung stated very clearly, she needed to know how much was taken of the medication and when it was taken before one can say whether the Morphine detected in his urine came from the medication. The Accused could not say how much of the medication he had taken and more importantly, when they were taken, as to give rise to the results in the HSA certificates.
+
+22     The DPP has also rightly pointed out that the Accused had not mentioned in his statements to CNB about his consuming cough mixtures being a possible source of Morphine in his urine. It is strictly not necessary to refer to the statements given by the Accused and nothing more needed to be said about the statements beyond that I accept the detailed submissions put up by the DPP as to how his statements undermined his medication defence. The DPP rightly observed that the Accused was making up his claims as he went along during the trial and that the Accused had fabricated his cough medication defence after he heard HSA Analyst Bellene’s testimony in Court on 30 January 2019.
+
+23     Under these circumstances, I find that the Accused had failed on a balance of probabilities to rebut the presumption that he had consumed the Morphine knowingly. The Accused’s urine samples at the material time, contained Morphine, a Specified Drug. He was not authorised under the MDA or the Regulations thereunder to consume the said Specified Drug. Therefore, I was satisfied that the Prosecution had proven its case beyond a reasonable doubt against the Accused and I found him guilty and convicted him on the LT2 charge.
+
+## The Sentence
+
+24     After the conviction of the LT2 charge, the Accused accepted the offer of the Prosecution and pleaded guilty to four other charges: three charges for the unauthorized possession of controlled drugs – Methamphetamine and Diamorphine (on two occasions) and one charge for Theft. Eight more remaining charges were taken into consideration for the purpose of sentence. I sentenced the Accused to a global term of 8 years and 10 months’ imprisonment and 6 strokes of the cane. The individual sentences are:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="0"><colgroup><col width="25.38%"> <col width="24.86%"> <col width="24.54%"> <col width="25.22%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Charge numbers</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Offence</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Sentence</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>To run</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC 937077/2017</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">LT2</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">7 years 6 months and 6 strokes</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Consecutive</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC 903214/2018</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Possession</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">1 year 3 months</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Consecutive</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">MAC 901961/2018</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Theft</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">1 month</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Consecutive</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC 934876/2017</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Possession</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">1 year</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Concurrent</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC 934877/2017</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Possession</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">1 year</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Concurrent</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">&nbsp;</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Total Sentence</b></p></td><td align="left" class="" colspan="2" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>8 years 10 months and 6 strokes</b></p></td></tr></tbody></table>
+
+  
+  
+
+25     The relevant antecedents of the Accused were:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="0"><colgroup><col width="19.6%"> <col width="39.76%"> <col width="40.64%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Date</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Offence</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Sentence</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">12/9/2003</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Theft in Dwelling-House</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">1 month</p></td></tr><tr><td align="left" class="br" rowspan="2" valign="top"><p align="justify" class="Table-Para-1">29/9/2003</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Theft in Dwelling-House</p><p align="justify" class="Table-Para-1">(2 counts with 2 TIC)</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">2 months each (concurrent)</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Armed with offensive instrument</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">6 months (consecutive to one Theft sentence)</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">6/6/2007</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Criminal Breach of Trust</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">6 weeks</p></td></tr><tr><td align="left" class="br" rowspan="2" valign="top"><p align="justify" class="Table-Para-1">13/9/2012</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Failing to report for urine tests (4 counts with 5 TIC)</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">6 months (concurrent)</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">LT1</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">5 years and 3 strokes (consecutive to one sentence for Failing to report for urine test.)</p></td></tr></tbody></table>
+
+  
+  
+
+26     The mandatory minimum punishment for LT2 is 7 years and 6 strokes. As the Accused was unremorseful and had claimed trial in which he made false allegations against the police officers, I passed a sentence 7 years and 6 months’ imprisonment for the LT2 offence and the mandatory minimum 6 strokes of the cane. The Accused had concocted his defence to suit the evidence of the Prosecution witnesses and also prolonged the trial with his questioning of the many doctors called to give evidence against his medication defence.
+
+27     The sentence of 1 year and 3 months for his possession of controlled drugs offence is to take into account that it was committed whilst he was on bail and also his two other drug possession offences which were ordered to run concurrently. Effectively, he was being given only 15 months for 3 distinct offences of drug possession. The one month’s jail for the Theft offence was on the lenient side as he had two occasions of previous convictions for Thefts for which he was incarcerated for two months on the second occasion. I had taken into account the low value of the property involved, which was 14.93 litres of petrol worth $31.20, in calibrating the sentence for specific deterrence.
+
+28     The total sentence had also taken into consideration the remaining 8 various offences of thefts, criminal misappropriation, failure to report for urine test, possession of controlled drugs and drug utensils. The most significant of the TIC charges was the offence in DAC 939613/2017 of failing to provide a specimen of his urine for urine test, committed on 4 November 2017. This offence would have attracted a mandatory minimum punishment of 7 years and 6 strokes.
+
+29     The order for the running of the different sentences was to take into account the different protected interests of each of the sentences for consumption (LT1), possession of drugs and property offence of Theft.
+
+30     The Accused is currently serving his sentence of 8 years and 10 months’ imprisonment with 6 strokes, which was backdated to the 23 November 2018, as he had been in remand since that date.
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F24378-SSP.xml)
