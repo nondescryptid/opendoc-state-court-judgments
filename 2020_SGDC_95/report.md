@@ -1,0 +1,655 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Raj Kumar s/o Brisa Besnath  
+
+### \[2020\] SGDC 95
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">DAC 900295-2018</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">14 April 2020</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Ong Chin Rhu</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">DPP Stacey Anne Fernandez (Attorney-General's Chambers) for the Prosecution; Mr S Radakrishnan (BR Law Corporation) for the Defence.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Raj Kumar s/o Brisa Besnath</td></tr></tbody></table>
+
+\[LawNet Editorial Note: An appeal to this decision has been filed in MA 9011/2020/01.\]
+
+14 April 2020
+
+### District Judge Ong Chin Rhu:
+
+## BACKGROUND
+
+The Accused, Mr Raj Kumar s/o Brisa Besnath, _claimed trial_ to a single charge under section 406 of the Penal Code (Cap 224, 2008 Rev Ed) for committing criminal breach of trust (“CBT”) of cash amounting to $81,000. At the conclusion of the trial, I found the Accused guilty and convicted him of the offence. I sentenced him to a term of 13 months’ imprisonment.
+
+2       On the day he was sentenced, the Accused applied for and was granted deferment of sentence for two weeks. During this period of deferment, he filed an appeal against both _conviction_ and _sentence_. Subsequently, the Defence applied for and was granted a stay on the execution of the imprisonment term. The Accused is currently _on bail_ pending the hearing of the appeal.
+
+3       I had provided brief oral grounds at the conclusion of the trial to explain my key findings and decision to convict the Accused.[^1] As the Accused has now filed an appeal against both conviction and sentence, I shall set out in full the grounds of my decision.
+
+## UNDISPUTED FACTS AND THE ISSUES OF FACT AT TRIAL
+
+4       The following background facts and circumstances surrounding the offence were largely undisputed at trial:
+
+> (a)     Sometime in 2012, the Accused became acquainted with an online persona known as “Maria Lloyd” (“Maria”). During the course of their online communications, the Accused agreed to receive $89,000 in Singapore for Maria. The money was to be subsequently brought over by the Accused to Maria in Malaysia. The Accused was informed by Maria that someone would call him and pass him the money. About two days later, the Accused received a phone call from a lady who told him that she would be passing the money to him. The identity of this lady was later established to be one Melody Choong (“Melody”).
+
+> (b)     Separately, on 8 March 2013, one Sie Ming Jeong (“Sie”) received $83,578.50 into his bank account purportedly from another online persona known as “Maureen Othman” (“Maureen”). On Maureen’s instructions, Sie withdrew $82,000 in cash to be passed to Melody.
+
+> (c)     On the other hand, Melody acted on the instructions of yet another online persona known as “Jacques” (“Jacques”) who had arranged for her to meet Sie. Jacques told Melody that she would be “calling on behalf of Maureen Othman” to collect an amount of $82,000 from Sie. Based on her conversations with Jacques, Melody understood that Jacques would find someone to bring the money to Malaysia.
+
+> (d)     Sie and Melody met on 8 March 2013 at Mount Elizabeth Hospital where Sie was working at. In a visitor’s lounge room within the hospital, he passed to Melody an envelope containing cash amounting to $82,000, in thousand-dollar notes. Melody counted the money and put the money back in the envelope and into her bag before leaving Mount Elizabeth Hospital.
+
+> (e)     The next day, on 9 March 2013, the Accused and Melody arranged to meet near the taxi stand at the NEX shopping mall in Serangoon. There, the Accused received an envelope from Melody. He did not open the envelope to check its contents before he left and headed back to his lorry.
+
+> (f)     Following this, the Accused did not send any money to Malaysia on behalf of Maria. When contacted by Melody on 10 March 2013, the Accused informed her that he had a problem at the checkpoint and was going “on bail” soon.
+
+5       The main issue of fact at trial centred on the contents of the envelope that the Accused had received from Melody. The Prosecution’s case, in a nutshell, was that after the Accused received $81,000 cash in the envelope from Melody, he had failed to deliver the money as instructed by Maria and had instead pocketed the money. The Accused’s contention, on the other hand, was that he never received a single cent because the envelope only contained pieces of white paper in dollar-note size.
+
+## THE CASE FOR THE PROSECUTION
+
+6       The Prosecution called three witnesses to prove its case against the Accused. The respective evidence of the Prosecution’s witnesses is summarised below.
+
+### PW1 – Sie Ming Jeong (“Sie”)
+
+7       Sie was a private nurse who was working in Mount Elizabeth Hospital in 2013. Sie was acquainted with Maureen online and they communicated almost daily through WhatsApp.[^2] However, he had never met Maureen before.[^3] During the course of their communication, Maureen requested for Sie’s help to receive funds to pay some people in Singapore.[^4] As they had communicated regularly over many months, Sie agreed to help her, and gave Maureen his bank account number.[^5]
+
+8       Subsequently, Maureen informed Sie that an amount had been transferred into his bank account.[^6] He checked and saw an amount of $83,578.50 being credited into his account.[^7] Sie then proceeded to make a withdrawal of $82,000 in thousand-dollar notes over the counter at the bank.[^8] Sie’s bank account statement showing both the inward telegraphic transfer of $83,578.50 and withdrawal of $82,000 on 8 March 2018 was admitted and marked as Exhibit P2.
+
+9       Sie was instructed to pass the amount of $82,000 to Melody.[^9] As Maureen had given Melody’s contact number to Sie, he proceeded to arrange to meet Melody to pass the cash to her.[^10] Both Sie and Melody had never met each other before this.[^11] They met on 8 March 2013 for the first time at approximately 4pm outside Lucky Plaza.[^12] As informed by Maureen, Sie had to make sure that he was meeting the right person. After verifying Melody’s identity through the code “111”, he brought her to a visitors’ lounge room in Mount Elizabeth Hospital.[^13]
+
+10     In the visitors’ lounge room, Sie passed Melody an envelope containing cash of $82,000 in thousand-dollar denomination. He testified that Melody had counted the money and confirmed it was the right amount of $82,000 before leaving.[^14] Following the meeting, Sie did not communicate with, nor meet Melody on any other occasion.[^15]
+
+11     Subsequently, Maureen tried to get Sie to accept more monetary transactions but Sie refused and closed all his bank accounts so as not to have any more dealings with her.[^16] On 24 March 2013, Sie lodged a police report concerning the incident (Exhibit P1).
+
+### PW2 – Melody Choong (“Melody”)
+
+12     Melody had befriended Jacques online and they had been communicating with each other mainly through Yahoo Messenger.[^17] A Yahoo chat log containing the Yahoo messages sent between Melody and Jacques from the period September 2012 to December 2013, comprising 319 pages, was admitted as Exhibit P5. In their messages, Melody referred to Jacques as “Boss”. She explained that she was working for Jacques by receiving money from one person and passing the money to another person.[^18]
+
+13     On 8 March 2013, through a series of Yahoo messages, Jacques arranged for Melody to meet Sie to collect a sum of money, which was to be subsequently brought to Malaysia. In order to facilitate the meeting with Sie, Jacques provided Melody with Sie’s name, mobile phone number, and the code “111” for Sie to verify that she was the right person. Melody was also informed that she would be “calling on behalf of Maureen Othman”, and when she contacted Sie, she was to collect $82,000 from Sie.[^19] Melody had never met nor communicated with “Maureen Othman” before.[^20]
+
+14     Melody met Sie in the afternoon of 8 March 2013.[^21] She could not remember the exact location within Mount Elizabeth Hospital where she met Sie except that it was in a private room.[^22] Sie asked if she needed to count the money, to which she replied “Yes, of course, to count the money_._”[^23] Melody proceeded to count the money, which were all in thousand-dollar notes, amounting to $82,000.[^24] After counting the money, she put the money back into the envelope and into her bag.[^25]
+
+15     From the $82,000 she received, Jacques told Melody to take out $1,000 of which $500 was to be remitted to Jacques and the other $500 was to be kept by Melody.[^26]
+
+16     The next day, Melody arranged to meet the Accused to hand over the money. The 3-page screenshots of Melody’s mobile phone records of her communication with the Accused were admitted and marked as Exhibit P4. Based on records from Melody’s mobile phone, she had sent a text message to the Accused on 9 March 2013 at 6.27pm, asking “_Halo r u on way now,m leaving ppark as i hv finished wat i ned to do.m going back soon_”. Melody explained that the Accused was originally supposed to meet her at People’s Park.[^27] The Accused replied about 4 minutes later, saying “_the traffic at CTE IS heavy And slow so can I meet you later some Where else can._”
+
+17     Melody eventually met the Accused behind the taxi stand at NEX shopping mall.[^28] When the Accused arrived, she knew it was the Accused as he had given her his lorry licence plate number.[^29] After the Accused came down from the lorry, Melody asked him “Are you Raj_?_” and he replied “Yah, yah_._”[^30] She proceeded to hand him the $81,000 in the envelope and asked him “Do you need to count?” to which he replied, “No need.” The Accused then left.[^31]
+
+18     Melody explained that she was sure that the envelope she passed to Raj contained $81,000 because the money was inside the envelope which Sie had handed to her, and after taking out $1,000, she just folded the envelope and placed it back in her bag.[^32]
+
+19     On 9 March 2013 at 14:35:38 (UTC) (i.e. 10.35 pm) Melody sent Jacques a message in Yahoo saying “_so hv u got the money or 2morrow_” to which Jacques replied “_Tomorrow morning by 9am_”.[^33] Melody testified that these messages were sent after she had passed the money to the Accused.[^34]
+
+20     On 10 March 2013 at 8.49pm, Melody sent a text message to the Accused asking for his whereabouts.[^35] Melody explained that she had sent the message as Jacques had asked her where the Accused was.[^36] The Accused replied at 9.14pm, saying “_Sir, I have a problem in check point And coming on bail soon when my Friend bail me out I call you can._”[^37]
+
+21     Melody understood this to mean that the Accused was stuck at or faced some problem at the checkpoint, and she communicated with Jacques on this over several exchanges.[^38] The relevant extracts from the Yahoo chat log in Exhibit P5 are reproduced below:
+
+> (a)     On 11 March 2013 at 13:10:38 (UTC) (i.e. 9.10pm), Melody asked Jacques “…_Hv Raj settledthe problem in chkpt??_” and Jacques replied at 14:44:03 (UTC) “_I have talk to Mr Rag now… I told him to find away to bribe the police and they will free him with the money_”[^39];
+
+> (b)     On 13 March 2013 at 14:32:20 (UTC) (i.e. 10.32pm), Melody was told by Jacques that “_Mr Raj said he as talk to one of the officer and the officer as promise to help him get the money out latest by friday and he as promise to give the office some money once the money is out...”_ Melody responded “_so i presume they’ve teared out the envelope n seen the money lo…”[^40];_
+
+> (c)     On 25 April 2013 at 15:32:55 (UTC) (i.e. 11.32pm), Jacques messaged Melody “_Yes less i forget… You wont believe Mr Rag havent get the money out…_” and at 15:33:10 (UTC) “_And its more than a month now…._”. Melody replied at 15:34:59 (UTC) saying “_Its all linked to tis n i guess raj must hv mention my name_”. Jacques replied at 15:35:22 (UTC) stating “_When he call you tell him just what I told you that I will send you all the document to prove that the fund’s are legit…_” and at 15:36:39 (UTC) “_Nope Raj never mention your name cos he didnt tell me that there is any problem…. What he told me was that the Custom havent release the money yet…._”. Jacques added at 15:38:28 (UTC) “_But right now I dont believe Raj any more … My partners in Malaysia said that Raj might have collect the money and keep telling me the money is still with the officer”[^41]_
+
+22     Melody explained that she referred to the envelope in her message to Jacques on 13 March 2013 because she thought there would usually be a search conducted at the checkpoint, and she thought the police must have torn up the envelope which she had passed to the Accused, and seen the money inside.[^42]
+
+23     In 2016, Melody was prosecuted on 8 charges for various offences under the Penal Code and the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act (Cap 65A, 2000 Rev Ed) (“CDSA”). On 24 June 2016, she pleaded guilty to two charges and consented to six charges being taken into consideration for the purpose of sentencing. Out of the six charges taken into consideration, there were two which were related to the present case:
+
+> (a)     One charge under s 411(1) of the Penal Code for dishonestly receiving stolen property of a sum of SGD 82,000 having reason to believe the property to be stolen property; and
+
+> (b)     One charge under s 47(1)(b) of the CDSA for transferring a sum of SGD 81,000, which property in whole directly represented her benefits from criminal conduct, namely dishonestly receiving stolen property, to the Accused.
+
+24     She was sentenced to a total of 6 months’ imprisonment, and had since finished serving her sentence. The certificate under s 45A of the Evidence Act together with copies of the charges and Statement of Facts were admitted as Exhibit P6.
+
+25     When asked why she was so sure she had passed $81,000 cash to the Accused at NEX, Melody answered “_Of course, I am very sure. Why will I take the money? I’ve already served my sentence and why should I go all over all these sort of thing again? Right, I’ve already made myself very clear and I have really learnt a lesson.”[^43]_
+
+### PW3 – Chew Tee Hee
+
+26     DSP Chew Tee Hee (“DSP Chew”) was the investigation officer for the case against Melody.[^44] Through his investigations, DSP Chew established that Melody had handed tainted funds to the Accused. Melody provided a handphone number to DSP Chew, but he found that the subscriber was a female Indian, and not the person described by Melody. As such, DSP Chew only managed to contact the Accused sometime in late 2014 or early 2015.[^45]
+
+27     DSP Chew recorded the statement of the Accused under s 22 of the Criminal Procedure Code (“CPC”) on 22 January 2015 at 9.45am (“the Long Statement”). The Long Statement was admitted into evidence as Exhibit P8.
+
+28     According to DSP Chew, the Accused had given the Long Statement voluntarily.[^46] There was no threat, inducement or promise offered to the Accused before or during the recording of the statement.[^47] DSP Chew also gave evidence that he had accurately recorded whatever the Accused wished to say.[^48] The salient portions of the Accused’s statement may be summarised as follows:
+
+> (a)     Sometime in 2012, the Accused received an e-mail from Maria and they became friends online. One day, the Accused received an e-mail from Maria, and was informed that Maria was in Malaysia. She needed the Accused’s help to receive $89,000 and to bring it to her in Malaysia.
+
+> (b)     Maria subsequently told the Accused that her money was in Singapore, and that someone would call the Accused to collect the money. The Accused agreed, and told Maria to let him know when it was ready to be collected. Maria told the Accused that once he collected the money in Singapore, he would have to hand the money over to a “black man” in Malaysia.
+
+> (c)     The Accused received a call from a male subject from a Malaysian mobile line. The male subject asked the Accused about the money and the Accused told him that he had not yet collected any money. A while later, the male subject called again and was shouting on the phone claiming that the money was transferred into the Accused’s account. The Accused quarrelled with the male subject on the phone and challenged the male subject to meet him in Singapore.
+
+> (d)     The Accused then received an e-mail from Maria saying that a lady would call him and pass him the money. The Accused assumed it was $89,000 as it was the amount which Maria had previously indicated.
+
+> (e)     About 2 days later, when the Accused was at Serangoon Road, he received a phone call from a lady who told him that Maria had asked her to pass the money to the Accused. She asked the Accused to meet her at Chinatown Point. However, the Accused was busy with his work and he told her that he was unable to make it. On the same day at about 7pm, the Accused called the lady and told her that he was on the way to Hougang and wanted to arrange a place to meet her. The lady then arranged to meet at Serangoon Central MRT Station.
+
+> (f)     When the Accused met the lady at Serangoon Central, she made a call to the Accused’s mobile number to confirm that he was the correct person. Thereafter, she handed the Accused a yellow plastic bag containing a brown envelope and told him that the envelope contained $81,000. The Accused did not ask her anything, and did not open the envelope. He left and went back to his lorry.
+
+> (g)     The Accused then sent his supervisor home in the lorry, and proceeded to Thomson. Along the way, the Accused decided to check the envelope. He opened the envelope and realised that it contained only a stack of white paper in dollar-note size. At that time, the Accused thought that someone was “trying to be funny” with him.
+
+> (h)     On the same day at about 10.30pm, the Accused received a call from the same male subject who asked him whether he received the money. The Accused replied that he did receive the envelope and the money was inside. The male subject told the Accused to bring the money to Malaysia but the Accused told him that he was unable to do so.
+
+> (i)     The Accused e-mailed Maria to tell her that he received the envelope, but was unable to accede to the request to bring the money to Malaysia. Maria requested for the Accused to try to send the money to Malaysia. The Accused then decided to “play along with Maria” and told her that he could bring the money to Malaysia, when in fact he did not receive any money in the envelope. He told Maria that he would be in Malaysia the next day at 10am. However, the Accused did not communicate with them for about 2 days.
+
+> (j)     Maria kept emailing the Accused about the money and the male subject kept calling and sending him text messages about the same. The Accused then e-mailed Maria informing her that he was caught by Singapore Customs when he tried to bring the money out of Singapore. He also told Maria that the money was confiscated by Singapore Customs and he would be charged in court.
+
+> (k)     Maria and the male subject continued to email, call and message the Accused about the money and the Accused continued to play along with them.
+
+> (l)     The Accused understood that after he received the money from the lady, he was to send it to someone in Malaysia and the money was to be sent to Maria. The Accused also agreed that Maria had entrusted him with the money that he was to receive from the lady.
+
+29     In the course of investigations, the Accused had provided his email address and password to DSP Chew. DSP Chew extracted the email correspondence between the Accused and one “Maria Lloyd” by forwarding them from the Accused’s email account to his email account.[^49] These email messages, spanning the period 27 November 2012 to 21 June 2013, were collectively marked and admitted as Exhibit P7. The relevant email content are set out below:
+
+> (a)     On 12 April 2013, Maria asked the Accused “_why did you ignored me since all this while???_”
+
+> (b)     On 14 April 2013, the Accused replied Maria stating that he was “_very busy here with my work and the about the money also_”. The Accused also told Maria that “_\[t\]he officer here have not give me the court date yet. I go and see him in the office one week 2time. He told me he will look in it ASAP and i told him i need the money ASAP for my Co to pay my think. Dear I think this case will take some time…”._
+
+> (c)     On 26 April 2013, the Accused informed Maria that “_the officer have give me the court date on may 31 2013 it.s on Friday_”.
+
+> (d)     On 8 May 2013, the Accused e-mail Maria saying that “_I also having problem here but you do not worry…_” and that he would “_steal the problem soon_”[^50].
+
+> (e)     On 24 May 2013, the Accused e-mailed Maria telling her that she should “_not worry about the problem_” and that he would “_take care about it’s_”. The Accused received a reply from Maria saying that she believed he would be able to “_get the money out on the court date_”.
+
+> (f)     On 21 June 2013, the Accused received an e-mail from Maria stating that she had not heard from him, and that day was the “_21_st_that \[he\] promised to release the money_”. Maria also mentioned that she told the Accused to deduct $6,000, give the Accused’s lawyer $4,000, take the remaining $2,000 for himself, and give the rest to another person.
+
+30     In the course of his investigations, DSP Chew was unable to identify or contact Maria.[^51] During cross-examination, DSP Chew testified that he had recorded another statement from the Accused on 15 July 2015 at 2.06pm. The Accused had stated that he remitted a sum of $1,005.21 to Maria through one “William Aston” in London in October 2012. This was for Maria to travel to Singapore, but she never came[^52].
+
+## CLOSE OF THE PROSECUTION’S CASE
+
+### The original charge
+
+31     The original charge proceeded against the Accused at the commencement of the trial was as follows:
+
+> You \[…\] are charged that you on or about 9 March 2013, in Singapore, being entrusted with property, _to wit_, cash of SGD 81,000, did commit criminal breach of trust, by dishonestly misappropriating the said property, and you have thereby committed an offence punishable under section 406 of the Penal Code (Cap 224, 2008 Rev Ed).
+
+### Submission of no case to answer
+
+32     At the close of the Prosecution’s case, the Defence invited the Court to dismiss the case on the ground that there was no case to answer. The Defence took the position that the original charge against the Accused was defective due to the material omission of the identity of the owner of the property in question.[^53] Thus, there was no entrustment, and the Prosecution had failed to make out a _prima facie_ case.
+
+33     In response, the Prosecution applied to the Court under section 128(1) of the CPC to alter the original charge by inserting the words “by one ‘Maria Lloyd’”,[^54] and urged the Court to call upon the Accused to give his defence on the amended charge.
+
+34     Before deciding whether to proceed with the amendment of the charge, I called for further submissions to address a legal issue which arose in the course of parties’ submissions – whether the person entrusting the property under section 405 of the Penal Code must be the proper legal owner of the property. Parties subsequently tendered further submissions on this issue.[^55] At this point, I do not propose to go into the details of the legal submissions at the close of the Prosecution’s case as the same points were canvassed at the end of the trial. I will therefore deal with them later in these grounds.
+
+### The amended charge
+
+35     After considering the further submissions by both parties, I allowed the Prosecution’s application to alter the original charge in the Prosecution’s proposed terms as follows:
+
+> You \[…\] are charged that you on or about 9 March 2013, in Singapore, being entrusted with property **by one ‘Maria Lloyd’**, _to wit_, cash of SGD 81,000, did commit criminal breach of trust, by dishonestly misappropriating the said property, and you have thereby committed an offence punishable under section 406 of the Penal Code (Cap 224, 2008 Rev Ed). (“The Amended Charge”)
+
+36     Pursuant to section 131 of the CPC, the Defence made an application to recall DSP Chew for further cross-examination with reference to the Amended Charge. I allowed the application.
+
+### PW3 – Chew Tee Hee (recalled)
+
+37     During further cross-examination, DSP Chew testified that as far as the police was concerned, Maria was a “phantom” and the people behind the transactions were probably a group of overseas scammers.[^56]
+
+### Defence called on amended charge
+
+38     At the close of the Prosecution’s case, I found that the Prosecution had made out a _prima facie_ case against the Accused on the Amended Charge. Accordingly, I called upon the Accused to enter his defence. The Accused elected to testify, and he was the sole witness for the Defence.
+
+## THE CASE FOR THE DEFENCE
+
+39     The Accused got to know Maria online while he was searching for a girlfriend. He started communicating with her in late 2012. He was told that she was from Australia. The Accused and Maria communicated by email. He became interested in Maria and she told him likewise. Maria asked for money from the Accused so that she could come to Singapore to meet him. The Accused sent her $1,200 using his Western Union card (Exhibit D2). However, Maria did not come to Singapore but instead asked him for another $2,000. The Accused did not send Maria any more money but they continued with their communications.[^57]
+
+40     Subsequently, Maria asked for the Accused’s account number and told him that she would send money to his account and thereafter meet him in Singapore. Although no money was sent to the Accused’s account, the Accused still liked Maria and continued to exchange emails with her.[^58]
+
+41     On the date of the offence, the Accused received a call from a lady (Melody) who was calling him from OG. She wanted to meet the Accused and pass him $81,000. The Accused told her that he was busy and was unable to meet her. He asked if she was able to bank the money into his account. This was because at that time, the Accused understood that he was to receive money in his account and was to bring the money to meet Maria in Malaysia. The lady told the Accused that she had to pass the money to him personally. The lady and the Accused subsequently arranged to meet up at the NEX MRT station.[^59]
+
+42     When the Accused arrived, he parked his lorry at the double yellow lines. The lady called his number to confirm that he was the correct person. The lady then passed him a yellow plastic bag with a brown envelope. The Accused did not open the envelope. The lady also did not ask him to count the money and told him that the envelope was sealed.[^60] After passing the money to him, the lady simply went off.[^61] The Accused testified that he decided not to count the money as it was a public place and he was in a hurry to return to his lorry which was parked at a double yellow line and there was an LTA officer waiting for him.[^62]
+
+43     The Accused drove off to drop his supervisor off at Yishun. Then, he made his way to a 7-Eleven at Thomson to buy a drink. When he parked his vehicle, he opened the envelope and he saw only white paper inside.[^63] He thought that it was a scam and somebody could be playing a trick on him:[^64]
+
+> “I then realised that is something scam and somebody is playing a trick on this thing. Because why? If there is really a money, she can bank in to my account than passing to me when I also not free to collect the money. Why they can’t bank in because they have my full details with them. I don’t have any details about them at all, except a email address. And they can bank in…the money to the account, uh, then why they are giving to me cash for nothing, uh, making a little bit trouble because I don’t have any evidence about them. After I saw the envelope, it’s all paper there. I realised this is scam. That might be, uh, some problem might be coming up.”
+
+44     The Accused then threw the plastic bag and envelope away and went off.[^65] After this event, the Accused continued to communicate with Maria. He admitted to giving Maria the impression that he did receive the money and was going to send it to Malaysia. He did this because he wanted to “_make up a story to make them come find for me_” and to “_give them a problem_”. The Accused reasoned that if he had really received the money, people would have come to find him; but nobody looked for him.[^66]
+
+45     The Accused’s statement recorded on 3 January 2018 under section 23 of the CPC (“the Cautioned Statement”) was admitted and marked as Exhibit D1. In the Cautioned Statement, the Accused stated “_I did not take the money. I did receive an envelope but inside there is no money. That is all._”
+
+46     During cross-examination, the Accused confirmed that he still trusted Maria when she told him that her money was in Singapore and he agreed to collect the money on her behalf.[^67] The Accused also agreed that the money he was collecting on Maria’s behalf was to be dealt with in accordance with her instructions. He understood that Maria wanted the money to be handed to someone in Malaysia once he had collected it.[^68]
+
+47     However, the Accused explained that once he received the envelope with the paper inside, he knew it was a scam and no longer trusted Maria and had no intention for her to come meet him in Singapore.[^69]
+
+48     The Accused testified that in his email to Maria on 26 April 2013, he had given Maria the false impression that he had a Court proceeding in relation to the money he was supposed to collect for her.[^70] In his subsequent email to Maria dated 8 May 2013, the Accused made up stories to give Maria the false impression that the money was still being held by an officer.[^71] The Accused testified that he made up the false story to just “pass \[his\] time” along with Maria and her associates. He agreed that there was no real reason for the false story.[^72] The Accused also agreed that he had lied to Melody in his text message to her on 10 March 2013 when he told her that he had a problem at the checkpoint after collecting the envelope from her.[^73] He had done this to make her believe that he was going to hand the money to someone in Malaysia.[^74]
+
+## ANALYSIS OF THE EVIDENCE AND THE COURT’S FINDINGS
+
+49     The main issue of fact at trial was whether the envelope received by the Accused contained $81,000. The case essentially turned on whether to accept the evidence of Melody or the Accused. Having carefully considered all the evidence placed before me, I was of the view that Melody was a truthful and forthright witness who was able to provide a clear and consistent account as to the material facts in issue. Conversely, I rejected the Accused’s account that he received a stash of dollar-note sized paper in the envelope. As such, I found that the Accused was indeed entrusted with $81,000 and had dishonestly misappropriated the same.
+
+50     I set out the analyses for my findings below.
+
+### The Accused was entrusted with $81,000
+
+#### Melody had received $82,000 from Sie
+
+51     At the start of the trial, Sie had given credible testimony in court that he withdrew cash of $82,000 (as corroborated by his bank statement in Exhibit P2) and handed over the cash in an envelope to Melody. His testimony was not challenged by the Defence. I accepted that in this respect, Melody’s evidence cohered with Sie’s testimony and that on 8 March 2013, Melody did collect a sum of $82,000 from Sie.
+
+#### The Accused had received $81,000 from Melody
+
+52     I pause here to note that the Defence, in their closing submissions, had highlighted that Melody was the only witness who could give direct evidence as to whether she had given $81,000 to the Accused.[^75] The Defence further raised the point that Melody was an accomplice in this episode, and as a result of her “previous record and propensity for crime”, her evidence required corroboration.[^76]
+
+53     Preliminarily, it was relevant to note that even though Melody was convicted and sentenced on 24 June 2016 for her role in offences related to this incident,[^77] there was no evidence to show that she had any other previous convictions or that she had a propensity for crime. In fact, Melody gave unchallenged evidence that she did not have other previous convictions aside from those in Exhibit P6.[^78]
+
+54     More importantly section 135(1) of the Evidence Act provides:
+
+> **135\. – (1**)    An accomplice shall be a competent witness against an accused person.
+
+> (2)    Any rule of law or practice whereby at a trial it is obligatory for the court to warn itself about convicting the accused on the uncorroborated testimony of an accomplice is hereby abrogated.
+
+55     Crucially, I was of the view that Melody had given a candid and consistent account of the events that took place at the material time, pertaining to her receipt of the money and handing over the envelope containing $81,000 to the Accused. Further, Melody’s simple and straightforward evidence was corroborated by:
+
+> (a)     the text messages she exchanged with the Accused, including that on 10 March 2013 wherein she asked for the Accused’s whereabouts, to which the Accused replied that he was facing a problem in the check point and waiting to be bailed out (Exhibit P4);
+
+> (b)     the Yahoo messages she exchanged with Jacques, including those in which she expressed concern about whether Jacques had received the money from the Accused (Exhibit P5); and
+
+> (c)     the Accused’s own e-mails to Maria indicating that he did receive the money but had a problem with the authorities and was facing a court date (Exhibit P7).
+
+56     On the other hand, the Accused’s main defence that he was given an envelope filled with blank pieces of paper in dollar-sized notes ran counter to the contemporaneous communications that he had with both Maria and Melody where he never denied receiving the money. To the contrary, the Accused himself had consciously and consistently given the impression to Maria and Melody that he received the money but had been facing issues; this could be seen from Exhibits P4, P5, P7 and P8.
+
+57     Admittedly, there were certain details that Melody could not seem to recall. For instance, the Defence pointed out that Melody could not remember which handbag she had kept the money in.[^79] Melody also could not recall what she was doing at People’s Park as indicated in her text message to the Accused on 9 March 2013, or where else she had gone to that day before meeting the Accused.[^80] Having studied her evidence carefully and taking into account human fallibility in observation, retention and recollection following the passage of time (the incident was about 6 years ago), I was of the view that the discrepancies in her evidence were not material and did not vitiate her overall credibility. In this connection, it was important to note that the Accused himself recalled in his Long Statement that he was originally supposed to meet Melody at Chinatown Point (which was near People’s Park).
+
+58     The Defence further pointed out that Melody could not recall whether she had worked continuously until she met the Accused;[^81] neither could she remember whether she had gone to the restroom when she was working at NEX.[^82] If the concern here was whether the money which Melody received from Sie was _still_ inside the envelope by the time Melody met the Accused, I did not find Melody’s imperfection in recollection to be fatal. Based on the evidence led during the trial, there was no indication that there was anyone else who might have known that Melody was keeping $81,000 inside her handbag. Even if Melody had visited the restroom while she was at work, I would find it highly improbable that the money could be replaced by someone else with blank pieces of paper in dollar-note size during the brief period while she was away in the washroom, without her knowing or anyone noticing.
+
+59     Lastly, the Defence highlighted that Melody had come from a poor financial background and at the material time, she was holding a few part-time jobs to make ends meet.[^83] In my assessment, Melody struck me to be a simple and straightforward individual. I found her to be a forthcoming witness who had displayed no tendency to embellish her evidence or to testify on areas which she could not recall. I further took into account the fact that having pleaded guilty to the charges against her and served her sentence, there was little (if any) reason for Melody to lie or exaggerate her evidence, much less to falsely implicate an innocent man. As Melody and the Accused had not known each other prior to the incident, I could not discern any conceivable motive for Melody to fabricate a false account and incriminate him. Indeed, if one were to compare the financial standing of Melody with that of the Accused, it did not appear that the Accused was in a much better position at the material time. The Accused had revealed in Court that he owed about $100,000 to banks in 2013 and they had made a bankruptcy application against him.[^84]
+
+60     Taken in totality, I accepted that Melody had remained unshaken in providing a credible and consistent account of the material facts, starting from the receipt of the money from Sie, to the passing of the envelope to the Accused. The version of events provided by Melody was not only internally consistent but also externally corroborated by the objective documentary evidence.
+
+#### The Accused was entrusted with $81,000
+
+61     Having made the factual finding that the Accused did receive $81,000 from Melody, I next considered whether this amounted to entrustment of the said sum by Maria.
+
+62     Although the Accused’s gave his Long Statement (Exhibit P8) voluntarily to DSP Chew, the Defence took issue with the way it was recorded. In particular, the Defence pointed to Question 12, where the Accused had answered “_yes_” in relation to the question of whether he agreed that Maria had entrusted him with the money that he was to receive from Melody. The Defence argued that when DSP Chew recorded the Long Statement from the Accused, he did not explain the meaning of the word “entrusted” to the Accused.[^85] The Accused had a poor command of the English language and did not understand the meaning of the word “entrusted”.[^86]
+
+63     I note that the accuracy of the contents of the Long Statement was largely undisputed at trial. In fact, the Accused affirmed much of the details therein in the course of his testimony in Court. In my view, this went to show that the Accused and DSP Chew did not experience any real difficulties communicating with each other in English during the recording of the statement. As such, when Question 12 was posed to the Accused, it was entirely reasonable for DSP Chew to assume that the Accused had understood what the word “entrusted” meant if, according to the Accused, DSP Chew “_read through me the questions and \[the Accused\] just give the answer_”.[^87] If the Accused was unsure of the meaning of any particular word, he could have asked; but he did not.[^88] In Court, the Accused elected to testify in English. Based on his testimony on the witness stand, I found that he was able to understand and respond to the majority of questions intelligibly and without much difficulty. I therefore disagreed with the Defence’s characterisation of the Accused’s competency in the English language as being so poor to the point that he was unable to comprehend the meaning of the word “entrusted”.
+
+64     Based on the e-mails exchanged between the Accused and Maria in Exhibit P7, it was clear that Maria had trusted the Accused to handle the money according to her instructions. The Accused repeatedly affirmed in Court that he understood that the money he was to receive from Melody belonged to Maria[^89] and that he was to take the money to Malaysia as per her instructions.[^90] Therefore, even if the Accused did not understand the meaning of “entrusted”, the manner and circumstances in which he came to be in receipt of the money from Maria was sufficient for the element of entrustment to be factually made out.
+
+65     The phrase “being in any manner entrusted with property” in section 405 Penal Code encompassed a broad view of entrustment, which was wide enough to cover property which was entrusted indirectly to the Accused: _Aisyah bt Mohd Rose v PP_ <span class="citation">\[2016\] 1 MLJ 840</span> at \[37\]. Accordingly, I found that the Accused was entrusted with $81,000 by Maria when he received the sum of money through Melody.
+
+### The Accused dishonestly misappropriated $81,000
+
+66     According to the Accused, after receiving the envelope which allegedly only contained white paper, he felt that he was the victim of a scam. Yet, he proceeded to keep up with an elaborate impression given to Maria and Melody that he was caught at the customs checkpoint, the money was confiscated and that he had to be bailed out. The Accused rationalised that he had wanted to make up a story so that the people behind the ruse would look for him.
+
+67     I found the version of events provided by the Accused to be illogical, if not incredible. To begin with, it did not make much sense that the Accused would jump to the conclusion that he was being scammed by his love interest, whom he had testified to have trusted all along up until the time he had agreed to collect the money on her behalf.[^91] Logically, if the Accused had really received blank pieces of paper in the envelope, the first suspicion would be that Melody, who was a complete stranger to the Accused, was the culprit who had taken the money meant for Maria.
+
+68     Further, if the Accused had genuinely thought that he had been tricked and wanted to expose the perpetrators, the most direct and efficacious way would be to tell them he had discovered the ploy and challenge them to come and look for him. Plainly, there would have been no need for the Accused to make up any story in order for those who have supposedly set him up to go after him. After all, if they had indeed arranged to pass him blank pieces of paper, they would have known that he was lying to them. Further, the Accused also testified that these people had his details such as his home address, unit number, bank account number and even his IC number.[^92]
+
+69     In addition, according to the Long Statement of the Accused (Exhibit P8), there was a previous related incident where he had an altercation with a male subject over the phone. The male subject was shouting on the phone and suggesting that the Accused had received a sum of money in his account which the Accused denied. Because of this, they quarrelled on the phone and the Accused even challenged the male subject to meet him in Singapore. The anger and indignation displayed by the Accused in that incident would be consistent with the genuine response of someone who had just been wronged or framed to have received money when in fact he did not. Yet, when it came to the receipt of the supposed blank pieces of paper in an envelope, the Accused chose to lie to the same male subject that he did receive the money.
+
+70     The Accused kept up his elaborate charade for several months, lying to Melody and Maria that he was facing issues at the customs checkpoint, that the money was seized by the authorities, and that he had to be bailed out and attend court for the matter. The Accused even went to the extent of providing a court date to bolster his lies, while repeatedly assuring Maria that there was no need to worry and that he would settle the problem. Evidently, in doing so, the Accused was putting up a smokescreen in order to “legitimise” his failure to hand over the money as instructed by Maria.
+
+71     I agreed with the Prosecution that Accused had concocted these false stories in order to deflect attention away from him pocketing the money.[^93] Indeed, the picture painted by the Accused would have given him the perfect excuse not to hand over the money that was entrusted to him.
+
+72     In summary, I had grave doubts as to the credibility of the Accused’s version of events. In my view, there was no reasonable doubt that the envelope which Melody had passed to the Accused on 9 March 2013 did contain $81,000. As the Accused has completely failed to account for the money he had received, the compelling inference was that he had dishonestly misappropriated the same.
+
+## THE ISSUES OF LAW
+
+73     I now turn to the issues of law.
+
+74     Section 405 of the Penal Code states:
+
+> “Whoever, being in any manner entrusted with property, or with any dominion over property, dishonestly misappropriates or converts to his own use that property, or dishonestly uses or disposes of that property in violation of any direction of law prescribing the mode in which such trust is to be discharged, or of any legal contract, express or implied, which he has made touching the discharge of such trust, or wilfully suffers any other person to do so, commits “criminal breach of trust”.
+
+75     The main issues in contention primarily arose from arguments raised by the Defence in relation to the charge. They can be broadly categorised into 2 legal questions, namely:
+
+> (a)     Whether the person who entrusted the property must have legal ownership of the property; and
+
+> (b)     Whether the actual identity of the person who entrusted the property must be ascertained.
+
+### Whether the person who entrusted the property must have legal ownership of the property
+
+76     In my view, entrustment was not necessarily a term of law. In its most general sense, all “entrustment” imported was a handing over of the possession of property for some purpose. According to _Ratanlal & Dhirajlal’s Law of Crimes: A Commentary on the Indian Penal Code, 1860_ (26th Rev Edition, New Delhi: Barat Law House 2009, Volume 2) (“_Ratanlal & Dhirajlal_”) at pg 2284, it was immaterial whether any proprietary right was conferred, so long as the ownership or beneficial interest in the property was in some person other than the accused, and the latter held it on account of some person or in some way for his benefit:
+
+> ““Entrusted” is not necessarily a term of law. It may have different implications in different contexts. _In its most general significance all it imports is a handing over the possession for some purpose which may not imply the conferring of any proprietary right at all._ The ownership or beneficial interest in the property in respect of which criminal breach of trust is alleged to have been committed, must be in some person other than the accused and the latter must hold it on account of some person or in some way for his benefit.” (Emphasis added in italics)
+
+77     The position taken by the Defence was that the party entrusting the property to an accused in a charge of CBT under section 405 of the Penal Code must be the legal owner of the property. Since Maria was a “scammer” and a “phantom”, she had no right to, and could not entrust the money to the Accused.[^94] In contrast, the Prosecution argued that there was no requirement that the property entrusted must be property owned by the person from whom it was misappropriated.[^95]
+
+78     The Defence cited _Ratanlal & Dhirajlal_ at pg 2284 which explained that entrustment carried with it the implication that the person handing over any property “continues to be its owner”. [^96] The Defence also cited _Ratanlal & Dhirajlal_ at pg 2285 – 2286 which described entrustment as the creation of a relationship where the owner of the property who transferred possession of the property to the accused still remained the legal owner of the property.[^97]
+
+79     In my view, what these quotes meant when read in the proper context, was that if the person who transferred possession of the property to an accused were the legal owner, he would _remain_ the legal owner following the entrustment. This was unsurprising, given that entrustment might well entail only the transfer of possession of the property without the conferment of any proprietary right. The texts quoted plainly did not suggest or indicate that there was a prerequisite of legal ownership of a property before the property could be entrusted.
+
+80     The Defence also argued that the only right that a thief had to the property which he stole was a bare naked possessory right. As such, the thief would have “no right to manage or transfer”, and also no “right to entrust” the property to a third party.[^98] In support of their position, the Defence cited various provisions under the Penal Code and CDSA to show that, _inter alia_, a thief would not have the right of use or the right to manage or transfer stolen property.[^99] For instance, the Defence cited the following provisions:
+
+> (a)     section 413 of the Penal Code on habitually dealing in stolen property;
+
+> (b)     section 414 of the Penal Code on assisting in concealment or disposal of stolen property;
+
+> (c)     sections 421 – 424 of the Penal Code on dishonest or fraudulent disposition of property in relation to creditors; and
+
+> (d)     sections 46, 47 and 47AA of the CDSA on acquiring, possessing, using, concealing or transferring benefits from drug dealing or other criminal conduct.
+
+81     In my view, these provisions merely provided for the criminal sanctions that would arise as a result of the manner in which certain properties were being handled or dealt with. They did not prescribe any rights or the lack thereof with regard to the said properties. More importantly, they did not refer to a “right to entrust”, or require that such a right existed, before property could be entrusted within the meaning of s 405 of the Penal Code.
+
+82     To better understand the distinction between the concept of ownership and possession, an appropriate starting point would be the High Court case of _Wong Seng Kwan v PP_ <span class="citation">\[2012\] 3 SLR 12</span>, a case cited by the Defence.[^100] As set out in \[25\] of the decision, ownership might be described as the highest possible right in a thing that existed, and the person with the best possible right to a thing could be said to be the owner. On the other hand, possession of a thing was the outward expression of ownership. Thus, as a matter of principle, it was possible for a person to have possession of a property and subsequently transfer this possessory right to another person, even if the former person was not the true owner of the property. Since entrustment did not require any conferment of proprietary right, there was no need for the person entrusting the property to be the owner of the property.
+
+83     Further, the plain wording of section 405 of the Penal Code clearly did not require that property which was the subject matter of a CBT offence had to be entrusted to the accused by the owner of the property. This was observed in _Ratanlal & Dhirajlal_ at pg 2286:
+
+> “_This section does not contemplate that the property in respect of which an offence of criminal breach of trust may be committed must be property which belonged to the complainants. Provided there is entrustment of property, it matters little whether the complainant on whose behalf the property is entrusted is the owner thereof or not._ The section does not provide that the entrustment of property should be by some one or the amount received must be the property of the person on whose behalf it is received.” (Emphasis in italics)
+
+84     Apart from secondary materials from textbooks, there were also local authorities that had directly dealt with this point. I accepted the submission by the Prosecution that the High Court case of _Pittis Stavros v PP_ <span class="citation">\[2015\] 3 SLR 181</span> (“_Pittis Stavros_”) had squarely held that there was _no requirement_ for the property in question to be owned by the person from whom it was misappropriated, so long as the person entrusting the property had _some_ right to the property (at \[41\] – \[42\]):
+
+> “41 The appellant’s next contention in this regard is that V8 Pool could not possibly have entrusted him with dominion over the MFO because V8 Pool did not have any dominion over the MFO to begin with. At the time the MFO was being transferred to the Vessel, V8 Pool had yet to pay for it and hence did not own it, meaning that the MFO was not V8 Pool’s “property”.
+
+> 42 I do not accept this contention. _A person does not have to be the owner of property in order to have a right to take possession of it. There is no requirement in the provisions of the Penal Code that the property in question must be owned by the person from whom it is misappropriated. So long as that person has some sort of right to the property, which right he then delegates to or confers upon someone else, there has in my opinion been an entrustment of dominion over the property by the first person to the second._ This is precisely what happened in the present case.”
+
+> (Emphasis in italics)
+
+85     In _Pittis Stavros_, See Kee Oon JC (as he then was) (“See JC”) agreed with the submission of the DPP in that case that questions of title and ownership might often be the subject of private arrangements which were not necessarily privy to the accused. Accordingly, issues relating to ownership of property should have little bearing on the criminal liability of the accused (at \[43\]):
+
+> “As the deputy public prosecutor Mr Sanjiv Vaswani pointed out in oral submissions, questions of title and ownership may often be the subject of private arrangements that are outside the knowledge of the accused. He put forward the following illustration: suppose an employee is given a work laptop by his employer and he misappropriates it or converts it to his own use. It may well be that, unknown to the employee, the employer is not in fact the owner of the laptop because it was purchased on credit terms and title would pass only upon full payment. I find that Mr Vaswani’s illustration is a helpful and compelling one; it is not easy to see why the mere fact that the employer does not own the laptop should make any difference to the employee’s criminal liability.”
+
+86     Further, at \[44\], See JC also noted the example where an employee withdrew money from his employer’s bank account and used the money as his own. Even though the money in the bank account, strictly speaking, belonged to the bank rather than the employer, it could not be for that reason alone that the employee did not commit CBT:
+
+> “I might add that, if there were a requirement of ownership as the appellant suggests, it would not be possible to commit CBT in respect of bank accounts, as where, for instance, an employee wrongfully withdraws money from his employer’s bank account and uses that money as his own. This is because the moneys in the account are owned by the bank and not the employer. In my view, it cannot be that for this reason alone the employee would not have committed CBT.”
+
+87     Related to the issue of ownership of the property entrusted was the issue of legality of the transaction which formed the basis of the entrustment. In this regard, the scope of entrustment has been held to be broad enough to cover cases where the accused received the property in the course of an illegal transaction. In the case of _R v Tan Ah Seng_ <span class="citation">\[1935\] MLJ 273</span>, the respondent was found guilty of CBT for dishonestly misappropriating $40 for the purpose of renting a house to be used by some prostitutes. Williams J delivering the judgment held that the plain wording of section 405 of the Penal Code was clearly wide enough to include the scenario where money was entrusted in furtherance of a criminal purpose:
+
+> “… for the decision of the present appeal we are content to rely on the plain wording of section 405 of the Penal Code…which is _clearly wide enough to cover the present case; and we see no reason by refining the plain meaning of these words to allow a man to escape punishment for one crime because he has conspired with the complainant to commit another_.” (Emphasis in italics)
+
+88     Based on the foregoing, I agreed with the Prosecution that there was no requirement that the property entrusted must be property owned by the person from whom it was misappropriated. So long as the person entrusting the property had _some_ right (including a bare possessory right) which he conferred on another person, the element of entrustment could be satisfied. Moreover, in our case, even if the money transferred to the Accused were stolen or illegal, the Accused could nevertheless be entrusted with the said money within the meaning of s 405 of the Penal Code.
+
+### Whether the actual identity of the person who entrusted the property must be ascertained
+
+89     On a plain reading of section 405 of the Penal Code, the phrase “being in any _manner_ entrusted with property” suggested that the focus of the element of entrustment was on the _manner_ and circumstances in which the Accused had come to be entrusted with the property. The section did not provide that the person entrusting the property need to be identified or specified in the charge, or that the actual identity of that person was a necessary element of the offence. A sample charge for the offence of CBT was provided in _Ratanlal & Dhirajlal_ at pg 2317:
+
+> “That you, on or about the \_\_\_ day of \_\_\_ , … , being entrusted with certain property, to wit \_\_\_ , committed criminal breach of trust and that you thereby committed an offence punishable under section 406 of the Indian Penal Code … .”
+
+90     The Defence took the position that for the loss to the owner or the gain to the Accused to be wrongful, it must be known to the Accused that the property belonged to someone else. Thus, the identification of the party whose beneficial rights were being infringed upon was therefore implicitly required in the _mens rea_ element of a CBT offence.[^101] Even after the charge was altered at the close of the Prosecution’s case, the Defence maintained that the Amended Charge was defective, arguing that the element of entrustment could not be established without the identification of Maria and the Prosecution had therefore failed to establish a fundamental element of the offence.[^102]
+
+91     In support of this view, the Defence cited the Supreme Court of India case of _Common Cause vs. Union of India_ (1999) 6 S.C.C. 667, which held that the entrustment of property “creates a trust which is only an obligation annexed to the ownership of the property and arises out of a confidence reposed and accepted by the owner”.[^103] Respectfully, I disagreed with the Defence’s argument that the case had interpreted entrustment as “requiring property to be given by the true owner to the accused for a specific purpose”.[^104] Further, I could not see how the case provided any meaningful support for the proposition that the meaning of entrustment within section 405 of the Penal Code required the actual identification of the true owner of the property.
+
+92     In order for the element of entrustment to be made out, what was essential was that the ownership or beneficial interest in the property alleged to have been entrusted must be in _some person other than the accused_. This principle was set out in the Indian case of _Som Nath Puri v State of Rajasthan_ 1972 AIR (SC) 1490 at \[7\]:
+
+> “Section 405 merely provides, whoever being in any manner entrusted with property or with any dominion over the property, as the first ingredient of the criminal breach of trust. The words “in any manner” in the context are significant. _The section does not provide that the entrustment of property should be by some one or the amount received must be the property of the person on whose behalf it is received. As long as the accused is given possession of property for a specific purpose or to deal with it in a particular manner, the ownership being in some person other than the accused, he can be said to be entrusted with that property to be applied in accordance with the terms of entrustment and for the benefit of the owner._ The expression “entrusted” in Section 409 is used in a wide sense and includes all cases in which property is voluntarily handed over for a specific purpose and is dishonestly disposed of contrary to the terms on which possession has been handed over…” (Emphasis in italics)
+
+93     To further illustrate the point, suppose a fundraiser created an online crowd-funding campaign to raise funds for a certain purpose or cause (e.g. medical or legal fees). The funds might be collected on the online crowd-funding platform itself, or through a special bank account set up specifically for the funds to be held. Over time, various sums of monies might be collected online or transferred into the special bank account by anonymous donors who were unidentified or chose not to be identified. However, one would agree that even if these donors could not be identified, there was nevertheless an entrustment of monies to the fundraiser. There was no rational basis to find that entrustment could not be made out simply because the donors chose to remain anonymous, or that no records of the donors’ particulars were kept. Monies were given and collected for a specific cause or purpose as stated by the fundraiser, and if they were to be subsequently dishonestly misappropriated, that would, in my view, constitute an offence of CBT.
+
+94     Returning to _Pittis Stavros_, the High Court noted that the charge had to be amended for accuracy to reflect that the property in question might not have belonged to the party who had entrusted the property. See JC held at \[45\] that the details of the owner of the property from the charge could simply be deleted from the charge:
+
+> “… _I note that the charge formulated against the appellant states that the MFO was property “belonging to V8 Pool Inc”. For the reasons given by the appellant I am not sure that statement is accurate. However, I do not think that this is fatal to the Prosecution’s case; it can be rectified simply by deleting the words “belonging to V8 Pool Inc”._ (Emphasis in italics)
+
+95     Based on these remarks, I was fortified in my view that it was immaterial for the charge to state the true identity of the owner of, or the person who entrusted the property to the Accused; neither would the absence of such a detail render the charge invalid or defective in any way. Therefore, I rejected the Defence’s contention that the element of entrustment could not be established without the actual identification of “Maria Lloyd”.
+
+## CONCLUSION
+
+96     Having carefully scrutinised the totality of the evidence, I rejected the Accused’s defence and was satisfied that the Prosecution had proven the charge against the Accused case beyond a reasonable doubt. Hence, I found the Accused guilty and convicted him on the Amended Charge.
+
+## THE SENTENCE
+
+97     The prescribed punishment for an offence under section 406 of the Penal Code is imprisonment for a term which may extend to 7 years, or a fine, or both.
+
+### Antecedents
+
+98     The Accused is untraced.
+
+### Prosecution’s submissions on sentence
+
+99     The Prosecution tendered written submissions on sentence together with a table of sentencing precedents and supplemented this with oral submissions in Court. In gist, the Prosecution raised three key aggravating factors in the present case:[^105]
+
+> (a)     the significant amount of $81,000 which was dishonestly misappropriated and which the Accused gained in full;
+
+> (b)     the premeditation involved as the Accused had assured both Melody and Maria through emails and messages that the money was not with him; and
+
+> (c)     the Accused ran a fanciful defence that he received an envelope filled with blank pieces of paper from Melody.
+
+100    On the other hand, there were no mitigating factors because:[^106]
+
+> (a)     the Accused did not make restitution;
+
+> (b)     this was not an impulsive action; and
+
+> (c)     the Accused was not remorseful from the point of investigations, and also in the conduct of his defence.
+
+101    The Prosecution highlighted the case of _PP v Lim Sim Hong_ (DAC-915705-2015 & Ors) (“_Lim Sim Hong_”) which was factually similar to the present case.[^107]_Lim Sim Hong_ involved an offender who was sentenced to 11 months’ imprisonment on a charge of dishonestly misappropriating $109,160 entrusted to him by an online persona “Laura Smith” whom he had befriended on the internet. There were two other charges taken into consideration. The Prosecution submitted that a unique distinguishing factor between this case and that in _Lim Sim Hong_ was that most of the monies were recovered in the latter. The other distinguishing factor was that the offender in that case had pleaded guilty.
+
+102    The Prosecution submitted that since the Accused did not disgorge his gains nor plead guilty to the offence, he could not be afforded a discount which would otherwise be accorded to offenders who showed their remorse. His failure to make any restitution warranted a significant uplift from the 11 months’ imprisonment term imposed in _Lim Sim Hong_.[^108] Thus, the Prosecution submitted that the Accused should be sentenced to 14 – 15 months’ imprisonment.
+
+### Mitigation plea
+
+103    The Defence tendered a written mitigation plea to highlight several personal attributes of the Accused in urging this Court to exercise leniency in sentencing him. According to the Defence, the Accused was:
+
+> (a)     a first offender;
+
+> (b)     a filial son and caring brother who was supporting his mother and eldest sister financially;
+
+> (c)     a dedicated and responsible father to his 3 children with his ex-wife, and a dutiful husband to his current wife;
+
+> (d)     actively working to improve himself to be a productive member of society;
+
+> (e)     a trustworthy and upright person who had no propensity to offend;
+
+> (f)     a pious man who had taken part in charitable duties in temples; and
+
+> (g)     an employee who was valued by his superiors and recognised for his exceptional work performance.
+
+104    In Court, the Defence submitted that the sentence of 14 to 15 months’ imprisonment proposed by the Prosecution was excessive. The Defence pointed out that the offender in _Lim Sim Hong_ faced a total of three charges. It was also highlighted that in the case of _PP v Koh Mui Hoong_ (DAC500714-2013 and Ors) (“_Koh Mui Hoong_”) listed as a precedent by the Prosecution, the offender was sentenced to one year’s imprisonment for each of the two CBT charges involving $90,000 and $115,000 respectively.
+
+105    The Defence declined to submit on what they thought would be an appropriate sentence in this case and left the decision on sentence to the Court.
+
+### Sentence imposed
+
+106    As highlighted by the Prosecution in their address on sentence, the relevant sentencing principles for CBT offences were discussed in the Malaysian case of _PP v Mohammad Abdullah Ang Swee Kang_ <span class="citation">\[1987\] 2 MLJ 368</span>. The two factors identified were the retributive factor in order to show the court’s disapproval or abhorrence on behalf of the community of this type of criminal conduct, and the deterrent factor so as to discourage likely offenders.
+
+107    For CBT offences, the value of the property misappropriated would be a significant factor. All other things being equal, the larger the amount misappropriated, the greater the culpability of the offender and the more severe the sentence: _Wong Kai Chuen Philip v PP_ <span class="citation">\[1990\] 2 SLR(R) 361</span> at \[18\]; _Pittis Stavros_ at \[66\]. The Prosecution had indicated that based on the table of sentencing precedents they had provided, for CBT offences involving value between $90,000 and $120,000 and where there were at least one mitigating factor of either restitution or a plea of guilt, the resultant sentence would be an imprisonment term of between 11 months to 1 year.[^109]
+
+108    The facts of _Lim Sim Hong_ warranted a closer examination due to its similarity to the present case. In _Lim Sim Hong_, the offender had received $109,160 into his bank account from one “Laura Smith”, purportedly to purchase property space in Singapore to set up an art gallery. The offender was subsequently called up for investigations by the CAD, where he lied and told the CAD that he had spent the entire amount of $109,160. However, CAD subsequently raided the offender’s house and seized a sum of $85,500. Investigations subsequently revealed that Laura had obtained the sum of money through a bank fraud in the United States, and the money was fraudulently transferred to the offender. Apart from the $85,500 seized from the offender, the offender had made restitution of a sum of $10,209.75 during the course of police investigations, and made further restitution of $4,000 after he was charged. The total amount recovered was therefore $99,709.75. The offender was sentenced to 11 months’ imprisonment.
+
+109    Another relevant case in the table of sentencing precedents submitted by the Prosecution was the case of _Koh Mui Hoong_, where the offender had pleaded guilty to several charges, two of which involved misappropriating monies entrusted to her under s 406 of the Penal Code. The offender was entrusted with $90,000 and the $115,000 and had converted the sums to her own use. No restitution was made. She was sentenced to one year’s imprisonment for each charge.
+
+110    In the present case, the Accused had claimed trial and made no restitution for the sum of $81,000 that was misappropriated. In response to the Prosecution’s argument that the accused ran a fanciful defence at trial, I recognised that the Accused had the right to claim trial and should not be penalised just for doing so. Even though his defence was essentially one of bare denial which I eventually found to be untrue, his conduct at trial was not so egregious as to amount to an aggravating factor or warrant a significant uplift.
+
+111    Nonetheless, his decision to claim trial, taken together with the fact that no restitution was made, clearly showed that he was not at all remorseful for his actions. I took this into consideration as a relevant factor which militated against the Accused. Compared to the cases of _Lim Sim Hong_ and _Koh Mui Hoong_ where the offenders had pleaded guilty, the Accused’s sentence should be slightly higher than the 11 months’ imprisonment imposed in _Lim Sim Hong_ and one year’s imprisonment imposed in _Koh Mui Hoong_.
+
+112    On the other hand, I could not agree with the Prosecution that there was premeditation involved when the Accused repeatedly assured Maria and Melody that the money was not with him. Even though there was a certain degree of prevarication by the Accused in order to cover up his misappropriation, there was no evidence that the Accused had intended to pocket the money for himself right from the beginning. As most of the lies were conveyed after the Accused had received the money from Melody, I did not think that there were sufficient grounds to conclude that the Accused had premeditated the CBT.
+
+113    Lastly, I took into account the fact that the Accused was a first-time offender charged with only a single offence. I also accorded due weight to the fact that the various testimonials submitted by the Defence have generally depicted the Accused as being of good character.
+
+114    Having considered all the facts and circumstances of the case, I was of the view that a just and appropriate sentence would be an imprisonment term of _13 months_.
+
+* * *
+
+[^1]: Transcript Day 7, Page 1 Line 9 – Page 7 Line 2.
+
+[^2]: Transcript Day 1, Page 5 Line 27 – Line 30.
+
+[^3]: Transcript Day 1, Page 7 Line 20 – Line 22.
+
+[^4]: Transcript Day 1, Page 5 Line 31 – Page 6 Line 4.
+
+[^5]: Transcript Day 1, Page 6 Line 4 – Line 8.
+
+[^6]: Transcript Day 1, Page 6 Line 8 – Line 15.
+
+[^7]: Transcript Day 1, Page 6 Line 16 – Line 21 and Page 11 Line 13 – Line 18.
+
+[^8]: Transcript Day 1, Page 6 Line 25 – Page 7 Line 1.
+
+[^9]: Transcript Day 1, Page 6 Line 22 – Line 24.
+
+[^10]: Transcript Day 1, Page 7 Line 27 – Line 30.
+
+[^11]: Transcript Day 1, Page 7 Line 6 – Line 9.
+
+[^12]: Transcript Day 1, Page 7 Line 31 – Page 8 Line 2.
+
+[^13]: Transcript Day 1, Page 8 Line 3 – Line 23.
+
+[^14]: Transcript Day 1, Page 8 Line 23 – Line 26.
+
+[^15]: Transcript Day 1, Page 9 Line 2 – Line 4.
+
+[^16]: Transcript Day 1, Page 9 Line 17 – Line 21.
+
+[^17]: Transcript Day 1, Page 23 Line 28 – Page 24 Line 9.
+
+[^18]: Transcript Day 1, Page 32 Line 22 – Line 24.
+
+[^19]: Transcript Day 1, Page 34 Line 17 – Page 37 Line 2. Exhibit P5, pages 254 to 256.
+
+[^20]: Transcript Day 1, Page 37 Line 11 – Line 15.
+
+[^21]: Transcript Day 1, Page 50 Line 12 -- Line 19.
+
+[^22]: Transcript Day 1, Page 48 Line 32 – Page 49 Line 4. Exhibit P5, page 257.
+
+[^23]: Transcript Day 1, Page 49 Line 5 – Line 8.
+
+[^24]: Transcript Day 1, Page 49 Line 9 – Line 12.
+
+[^25]: Transcript Day 1, Page 49 Line 13 – Line 20.
+
+[^26]: Transcript Day 1, Page 33 Line 30 – Page 34 Line 12 and Page 60 Line 21 – Line 26.
+
+[^27]: Transcript Day 1, Page 58 Line 31 – Line 32.
+
+[^28]: Transcript Day 1, Page 59 Line 20 – Line 28.
+
+[^29]: Transcript Day 1, Page 59 Line 23 – Line 24.
+
+[^30]: Transcript Day 1, Page 60 Line 11 – Line 13.
+
+[^31]: Transcript Day 1, Page 60 Line 13 – Line 20.
+
+[^32]: Transcript Day 1, Page 60 Line 27 – Page 61 Line 18.
+
+[^33]: Exhibit P5, page 269.
+
+[^34]: Transcript Day 1, Page 57 Line 32 – Page 58 Line 13.
+
+[^35]: Exhibit P4.
+
+[^36]: Transcript Day 1, Page 62 Line 24 – Line 25.
+
+[^37]: Exhibit P4.
+
+[^38]: Transcript Day 1, Page 63 Line 5 – Line 25.
+
+[^39]: Exhibit P5 pages 276 and 278.
+
+[^40]: Exhibit P5 page 280.
+
+[^41]: Exhibit P5, page 291.
+
+[^42]: Transcript Day 1, Page 66 Line 24 – Page 67 Line 8.
+
+[^43]: Transcript Day 1, Page 73 Line 16 – Line 19.
+
+[^44]: At the material time, DSP Chew was holding the rank of ASP.
+
+[^45]: Transcript Day 2, Page 49 Line 3 – Line 32.
+
+[^46]: Transcript Day 2, Page 57 Line 1 – Line 2.
+
+[^47]: Transcript Day 2, Page 56 Line 29 – Line 32.
+
+[^48]: Transcript Day 2, Page 55 Line 1 – Line 5.
+
+[^49]: Transcript Day 2, Page 50 Line 31 – Page 52 Line 26.
+
+[^50]: The Accused testified that this was a typographical error and he meant to say that he would “settle” the problem. Transcript Day 5, Page 48 Line 6 – 16.
+
+[^51]: Transcript Day 2, Page 58 Line 4 – Line 7.
+
+[^52]: Transcript Day 2, Page 70 Line 18 – Line 29.
+
+[^53]: The Defence submitted for no case to answer in their written submissions dated 1 Feb 2019 (“No Case to Answer Submissions”).
+
+[^54]: The Prosecution made written submissions dated 1 March 2019 at the close of the Prosecution’s case (“Close of Prosecution’s Case Submissions”).
+
+[^55]: The Prosecution tendered further submissions dated 22 May 2019 (“Prosecution’s Further Submissions”) and the Defence tendered further submissions dated 21 May 2019 (“Defence’s Further Submissions”).
+
+[^56]: Transcript Day 5, Page 2 Line 7 – Line 28.
+
+[^57]: Transcript Day 5, Page 11 Line 1 – Page 15 Line 28.
+
+[^58]: Transcript Day 5, Page 15 Line 32 – Page 18 Line 10.
+
+[^59]: Transcript Day 5, Page 18 Line 25 – Page 20 Line 12.
+
+[^60]: Transcript Day 5, Page 20 Line 12 – Page 21 Line 19.
+
+[^61]: Transcript Day 5, Page 21 Line 20 – Line 21.
+
+[^62]: Transcript Day 5, Page 21 Line 22 – Line 28.
+
+[^63]: Transcript Day 5, Page 22 Line 3 – Page 23 Line 5.
+
+[^64]: Transcript Day 5, Page 23 Line 14 – Line 25.
+
+[^65]: Transcript Day 5, Page 23 Line 28 – Line 29.
+
+[^66]: Transcript Day 5, Page 24 Line 1 – Page 27 Line 11.
+
+[^67]: Transcript Day 5, Page 34 Line 21 – Line 27.
+
+[^68]: Transcript Day 5, Page 37 Line 14 – Line 31 and Transcript Day 5, Page 55 Line 2 – Line 9.
+
+[^69]: Transcript Day 5, Page 41 Line 12 – Line 19 and Transcript Day 5, Page 62 Line 1 – Line 6.
+
+[^70]: Transcript Day 5, Page 47 Line 18 – Line 30.
+
+[^71]: Transcript Day 5, Page 48 Line 6 – Page 49 Line 27.
+
+[^72]: Transcript Day 5, Page 50 Line 25 – Line 30.
+
+[^73]: Transcript Day 5, Page 56 Line 20 – Page 57 Line 2.
+
+[^74]: Transcript Day 5 Page 57 Line 15 – Line 19.
+
+[^75]: Defence’s closing submissions dated 11 October 2019 (“Defence’s Closing Submissions”) at \[27(j)\].
+
+[^76]: Defence’s Closing Submissions at \[27(a)\].
+
+[^77]: Exhibit P6.
+
+[^78]: Transcript Day 2, Page 13 Line 24 – Page 14 Line 21.
+
+[^79]: Defence’s Closing Submissions at \[27(d)\].
+
+[^80]: Defence’s Closing Submissions at \[27(f)\].
+
+[^81]: Defence’s Closing Submissions at \[27(g)\].
+
+[^82]: Defence’s Closing Submissions at \[27(e) and (g)\].
+
+[^83]: Defence’s Closing Submissions at \[27(b)\].
+
+[^84]: Transcript Day 5, Page 30 Line 8 – Line 32.
+
+[^85]: Defence’s Closing Submissions at \[28(f)\].
+
+[^86]: Defence’s Closing Submissions at \[28(f)\] and \[33\].
+
+[^87]: Transcript Day 5, Page 28 Line 8 – Line 15.
+
+[^88]: Transcript Day 5, Page 28 Line 8 – Line 15.
+
+[^89]: Transcript Day 5, Page 19 Line 1 – Line 2; Transcript Day 5, Page 55 Line 2 to Line 5.
+
+[^90]: Transcript Day 5, Page 19 Line 3 – Line 6; Transcript Day 5, Page 55 Line 6 to Line 9.
+
+[^91]: Transcript Day 5, Page 32 Line 8 – Page 34 Line 27.
+
+[^92]: Transcript Day 5, Page 24 Line 13 – Line 18.
+
+[^93]: Prosecution’s closing submissions dated 16 October 2019 (“Prosecution’s Closing Submissions”) at \[63\].
+
+[^94]: Defence’s Further Submissions at \[1\] – \[2\] and Defence’s Closing Submissions at \[37\].
+
+[^95]: Prosecution’s Further Submissions at \[3\] and Prosecution’s Closing Submissions at \[15\] to \[28\].
+
+[^96]: Defence’s Closing Submissions at \[20\].
+
+[^97]: Defence’s Closing Submissions at \[21\].
+
+[^98]: Defence’s Further Submissions at \[5\], \[12\] and \[21\].
+
+[^99]: Defence’s Further Submissions at \[21\].
+
+[^100]: Defence’slosing Submissions at \[7.3\] and \[11\].
+
+[^101]: No Case to Answer Submissions at \[20\].
+
+[^102]: Defence’s Closing Submissions at \[36\].
+
+[^103]: _Common Cause vs. Union of India_ (1999) 6 S.C.C. 667 at \[168\].
+
+[^104]: Defence’s Further Submissions at \[25\] – \[26\].
+
+[^105]: Prosecution’s Address on Sentence at \[4\].
+
+[^106]: Prosecution’s Address on Sentence at \[5\].
+
+[^107]: Prosecution’s Address on Sentence at \[7\].
+
+[^108]: Prosecution’s Address on Sentence at \[8\].
+
+[^109]: Prosecution’s Address on Sentence at \[6\].
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F24383-SSP.xml)
