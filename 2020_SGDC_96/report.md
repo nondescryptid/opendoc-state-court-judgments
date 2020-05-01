@@ -1,0 +1,229 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Pham Van Ban  
+
+### \[2020\] SGDC 96
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">DAC-922859-2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">23 April 2020</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Luke Tan</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Deputy Public Prosecutor Ms Stephanie Chew/Mr Ben Tan for the Public Prosecution; Defence Counsel Mr Kalidass Murugaiyan/Ashvin Hariharan/Chua Hock Lu for the accused</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Pham Van Ban</td></tr></tbody></table>
+
+\[LawNet Editorial Note: An appeal to this decision has been filed in MA 9173/2020/01.\]
+
+23 April 2020
+
+### District Judge Luke Tan:
+
+## (1)   Introduction
+
+1       The accused, Pham Van Ban, is a 48-year-old male Vietnamese national. He pleaded guilty to a charge of abetment to dishonestly receive stolen property (DRSP) under section 411 (1) read with section 108B and 109 of the Penal Code. The property involved was 1164.7 metric tons of gasoil valued at USD 500,960.76.
+
+2       The charge reads:
+
+> You…are charged that you, on or before the 22nd of June 2017, in Singapore and in Vietnam, did abet the commission of an offence of dishonestly receiving stolen property by engaging in a conspiracy with Nguyen Quoc Tuan, Nguyen Dinh Duong and others to dishonestly receive stolen property, and in pursuance of that conspiracy and in order to the doing of that thing, an act took place on 22nd June 2017 at or about 3.20am at wharf 6 located at Shell, Pulau Bukom, Singapore, _to wit_, about 1164.7 metric tons of gasoil valued at USD 500,960.76 which you knew to be stolen property, was transferred from Shell, Pulau Bukom to the vessel Petrolimex 10 at Pulau Bukom, Singapore, which act abetted was committed in consequence of the abetment, and you have hereby committed an offence punishable under Section 411(1) r/w Section 108B and Section 109 of the Penal Code, Chapter 224 (Chapter 224, 2008 Rev Ed).”
+
+3       In court, the accused, who was represented by Mr Kalidass, submitted for a sentence of no more than 18 months’ imprisonment. The Prosecution, represented by DPP Stephanie Chew, argued for a sentence of at least 23 months’ imprisonment.
+
+4       After reviewing the facts and the arguments of parties, including the punishments meted out to offenders in similar cases, I imposed a sentence of 20 months’ imprisonment in the present case. The accused, being dissatisfied, has filed an appeal against sentence. I now give the reasons for my decision.
+
+## (2)   The Statement of Facts (SOF)
+
+5       The accused admitted to the contents of the Statement of Facts (SOF) without qualification. The SOF is reproduced below.
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="100%"> </colgroup><tbody><tr><td align="left" class="" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><u>STATEMENT OF FACTS</u></p><p align="center" class="Table-Para-1"><em>(incorporating one proceeded charge)</em></p><p align="justify" class="Table-Para-1">1. The accused is Pham Van Ban (Male/48 years old/Vietnamese National) bearing FIN Number: XXX.</p><p align="justify" class="Table-Para-1">2. At the material time, he was employed by Vietnam Petroleum Transport Joint Stock Company (“<b>VIPCO</b>”), which office is located at 43 Quang Trung Street, 10<sup>th</sup> floor, Hong Bang District, Hai Phong City, Vietnam. VIPCO is in the oil business, specifically oil tanking and transporting oil. It is a subsidiary of Petrolimex, the Vietnam National Petroleum Group, which is headquartered in Hanoi, Vietnam. VIPCO owns several vessels which it leases to Petrolimex (that is, Petrolimex is the hirer of VIPCO’s vessels).</p><p align="justify" class="Table-Para-1">3. The named co-conspirators in the charge against the accused are:</p><p align="justify" class="Table-Para-1">a. Nguyen Quoc Tuan (“<b>Tuan</b>”, also known as Colin), a former SGS surveyor, who remains at large; <em>and</em></p><p align="justify" class="Table-Para-1">b. Nguyen Dinh Duong (“<b>Duong</b>”), the General Director of Petrolimex PG Tanker, who remains at large.</p><p align="justify" class="Table-Para-1">4. The complainant is Lee Tien Huat, a Police Officer currently attached to the Criminal Investigation Department.</p><p align="justify" class="Table-Para-1"><b>FIRST INFORMATION REPORT</b></p><p align="justify" class="Table-Para-1">5. On 1 August 2017, a representative of Shell Eastern Petroleum Private Limited (“<b>Shell</b>”) lodged a police report at the Police Coast Guard Brani Base informing that Shell had suffered unidentified loss of fuel amounting to about $2.98 million in April 2017. Pursuant to this, the Police commenced investigations into the suspected misappropriation of gasoil from Shell at Pulau Bukom.</p><p align="justify" class="Table-Para-1">6. Shell operates the Pulau Bukom Manufacturing Site, which is its largest petrochemical production and export centre in the Asia Pacific region. Bukom is the largest whollyowned Shell refinery globally in terms of crude distillation capacity (500,000 barrels per day). 90 per cent of Bukom’s products are exported to countries in the Asia Pacific region and beyond. It is one of the most important Shell production sites in the world.</p><p align="justify" class="Table-Para-1"><b>BACKGROUND FACTS</b></p><p align="justify" class="Table-Para-1">7. The accused joined VIPCO approximately 3 years ago, sometime in 2016. He is paid a monthly salary of 50 million Vietnamese Dong (approximately SGD3000). The accused was initially assigned as Captain of Petrolimex 16, another vessel owned by VIPCO. Eventually, he was assigned to Petrolimex 10 as its Captain sometime in April 2017. The accused’s primary role as a Captain was to ensure the safety of Petrolimex 10 and the goods it carried. He was also in charge of all the crew members on board Petrolimex 10.</p><p align="justify" class="Table-Para-1">8. The accused’s immediate supervisor is one Du, who was the Head of the Operations Department of Petrolimex PG Tanker. In turn, Du reported to Duong, the General Director of Petrolimex PG Tanker.</p><p align="justify" class="Table-Para-1">9. When the accused first joined VIPCO sometime in 2016, he was informed by other crew members that Tuan could arrange for their vessels to receive “extra cargo” from Shell at Pulau Bukom so that the crew members can earn extra money. According to the accused, this was an “open secret” in VIPCO. The accused further understood this to mean that Tuan could arrange for the vessel to receive stolen gasoil at Shell, Pulau Bukom.</p><p align="justify" class="Table-Para-1"><b>FACTS RELATING TO THE CHARGE (DAC-922859-2019)</b></p><p align="justify" class="Table-Para-1">10. A few days prior to Petrolimex 10’s arrival in Singapore on 19 June 2017, the accused received a call from Duong while still in Vietnam. Duong informed him on this phone call that Petrolimex 10 would be berthing at Shell, Pulau Bukom, and that other company vessels had missed the opportunity. Duong also asked the accused in this call “to try to do it”. The accused understood this to mean that Petrolimex 10 would be receiving stolen gasoil at Shell, Pulau Bukom.</p><p align="justify" class="Table-Para-1">11. Subsequent to the accused’s phone conversation with Duong, he received a phone call from Tuan while still in Vietnam. The accused informed Tuan over the phone that VIPCO had appointed him to steer his vessel for loading at Shell, Pulau Bukom for his next trip. Tuan arranged for the accused to meet with him in a café in Ho Chi Minh.</p><p align="justify" class="Table-Para-1">12. During the meet up in Ho Chi Minh, Tuan informed the accused that he would arrange for some people at Shell, Pulau Bukom to load stolen gasoil into Petrolimex 10 when the accused berthed his vessel at Shell, Pulau Bukom. Tuan also informed the accused that the buyer for this stolen gasoil would subsequently meet up with the accused to hand the accused the cash to pay for the stolen gasoil. The buyer would require the accused to discharge the stolen gasoil to a smaller vessel in the Outer Port Limit in the Vung Tau island of Vietnam after the accused returned.</p><p align="justify" class="Table-Para-1">13. Before Tuan left the meeting, he asked the accused to wait for the buyer who would hand over the money to fund the purchase of the stolen gasoil from Shell, Pulau Bukom. Minutes later, an unidentified male individual approached the accused and handed him a sealed bag of cash containing USD140,000. The unidentified male individual informed the accused that he would need to pay the Shell, Pulau Bukom staff an estimated USD 120,000 for the stolen gasoil. The remaining money would be commission for the accused and his crew on board. He also informed the accused that there was a VHF (i.e. very high frequency radio) number channel in Vietnam that the accused needed to contact to discharge the stolen gasoil after receiving it at Shell, Pulau Bukom.</p><p align="justify" class="Table-Para-1">14. Thereafter, sometime prior to Petrolimex 10’s arrival at Shell, Pulau Bukom, the accused instructed his Chief Officer to plan for empty tanks. According to the accused, 2 of the slop tanks on Petrolimex 10 were subsequently used to store the stolen gasoil.</p><p align="justify" class="Table-Para-1">15. On 16 June 2017, Petrolimex 10 arrived in Singapore waters and remained on anchorage waiting for instructions to move to Shell at Pulau Bukom for the loading of gasoil. On 20 June 2017, Petrolimex 10 received instructions to dock at wharf 6 at Shell, Pulau Bukom.</p><p align="justify" class="Table-Para-1">16. On 20 June 2017 at approximately 0555am, the loading of legitimately purchased gasoil onto Petrolimex 10 commenced. On 22 June 2017, while the loading was in progress, 2 of the Shell employees came up to the vessel and told the accused to inform the Shell control room any time after midnight via VHF that there was a problem with the vessel monitor and to stop the loading. This would be the signal for the 2 Shell employees to know when to commence loading of the stolen gasoil into Petrolimex 10.</p><p align="justify" class="Table-Para-1">17. At approximately 0310am on the same night, the accused made a request to Shell to suspend the loading and also instructed the Chief Officer to turn the valve to prepare to direct the stolen gasoil to the 2 Slop tanks. After the legitimate loading stopped, within minutes, the loading for the stolen gasoil commenced. During the loading of the stolen gasoil, the accused instructed the Chief Officer to monitor the loading in the Cargo Control Room while he went back to his cabin. When the loading of stolen gasoil stopped, the Chief Officer reported the volume received to the accused.</p><p align="justify" class="Table-Para-1">18. After the loading of both the stolen gasoil and legitimately purchased gasoil had completed, 3 Shell employees came on board Petrolimex 10. The accused brought them to his cabin gave them USD 120,000 in cash from the money Tuan had handed to him in Vietnam. The USD 120,000 was divided equally into 10 envelopes as requested by the Shell employees. The 3 Shell employees left after collecting the money. According to the accused, out of the USD 20,000, he kept USD 8000 for himself and handed the rest to the Chief Officer to share with the 19 crew members on board Petrolimex 10. The accused told the Chief Officer that the payment was to be made in accordance with their ranks (i.e. higher ranking crew would receive more money). The accused did not tell the crew members the source of the money.</p><p align="justify" class="Table-Para-1">19. On 22 June 2017 at approximately 1100pm, Petrolimex 10 left Shell with the stolen gasoil loaded onto the vessel. The transfer of stolen gasoil into the Slop tanks was not authorised by or consented to by Shell.</p><p align="justify" class="Table-Para-1">20. At all material times, the accused knew that the gasoil received from Shell Bukom into the Slop tanks was stolen property. In furtherance of abetment by conspiracy of the transfer of the 1164.7 metric tonnes of gasoil with a total value of USD 500,960.76 (approximately SGD 696,361.77) from Shell Bukom to Petrolimex, the accused has committed an offence punishable under Section 411 read with Section 108B and Section 109 of the Penal Code.</p><p align="justify" class="Table-Para-1">21. When Petrolimex 10 was in Vietnam waters, the accused contacted the buyer as instructed by Tuan via the VHF channel to arrange a meeting point. According to the accused, all of stolen gasoil was discharged to an unknown vessel in Vietnam water. The accused did not receive any payment from the said vessel.</p><p align="justify" class="Table-Para-1">22. The accused was arrested when he subsequently entered Singapore on 8 August 2019 as Captain of Petrolimex 06, another vessel owned by VIPCO. The accused has not made any restitution to Shell for his offence.</p></td></tr></tbody></table>
+
+  
+  
+
+## (3)   Prescribed Punishment and Antecedent Record
+
+6       For a charge of this nature, an offender “shall be punished with imprisonment for a term which may extend to 5 years, or with fine, or with both.”
+
+7       The accused is a first offender.
+
+## (4)   Prosecution’s Submissions on Sentence
+
+8       The Prosecution sought a sentence of at least 23 month’s imprisonment, arguing that this sentence is appropriate because of multiple aggravating factors including “…the brazen and highly-syndicated nature of the scheme…” which the DPP submitted meant that “…general deterrence is the overriding sentencing consideration”.[^1]
+
+9       The Prosecution also proposed a sentencing matrix for such offences, similar to the sentencing frameworks for other property related offences such as for cheating at play under section 172A(2) Casino Control Act \[_Logachev Vladislav v Public Prosecutor_ <span class="citation">\[2018\] SGHC 12</span>\], and for acquiring, possessing, transferring etc. the benefits of criminal conduct under s 44(1)(_a_) of the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act (“CDSA”) \[_Huang Ying-Chun v Public Prosecutor_ <span class="citation">\[2019\] 3 SLR 606</span>\]. The framework proposed by the Prosecution for s 411 offences was as follows: [^2]
+
+> (1)      Step 1: The first step is to consider the offence-specific factors and identify (a) the level of harm caused by the offence; and (b) the level of the offender’s culpability as set out in the table below.
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="47.52%"> <col width="52.48%"> </colgroup><tbody><tr><td align="left" class="r" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><u>Factors going towards harm</u></p><p align="justify" class="Table-Para-1">(1) The amount involved:</p><p align="justify" class="Table-Para-1">(a) &gt;$0 to $250,000: Low</p><p align="justify" class="Table-Para-1">(b) $250,000 to $500,000: Medium</p><p align="justify" class="Table-Para-1">(c) &gt;$500,000: High</p><p align="justify" class="Table-Para-1">(2) Involvement of a syndicate</p><p align="justify" class="Table-Para-1">(3) Involvement of a transnational element</p><p align="justify" class="Table-Para-1">(4) The seriousness of the predicate offence</p><p align="justify" class="Table-Para-1">(5) Harm done to confidence in public administration</p></td><td align="left" class="" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><u>Factors going towards culpability</u></p><p align="justify" class="Table-Para-1">(1) The degree of planning and premeditation</p><p align="justify" class="Table-Para-1">(2) The level of sophistication</p><p align="justify" class="Table-Para-1">(3) The duration of offending</p><p align="justify" class="Table-Para-1">(4) The offender’s role</p><p align="justify" class="Table-Para-1">(5) Abuse of position and breach of trust</p><p align="justify" class="Table-Para-1">(6) The mental state of the offender</p></td></tr></tbody></table>
+
+  
+  
+
+> (2)      Step 2: Identify the applicable indicative sentencing range. This step involves identifying the indicative sentencing range in the sentencing matrix for each individual charge against the offender, based on the matrix below, which applies to a first-time offender who claims trial.
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="21.004200840168%"> <col width="16.0232046409282%"> <col width="21.1442288457692%"> <col width="21.1442288457692%"> <col width="20.6841368273655%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">&nbsp;</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">&nbsp;</p></td><td align="left" class="b" colspan="2" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Culpability</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">&nbsp;</p></td></tr><tr><td align="left" class="br" rowspan="4" valign="top"><p align="justify" class="Table-Para-1">Harm</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">&nbsp;</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Low</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Medium</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">High</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Low</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">To be based on relevant sentencing precedents</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">From 10 months to 20 months</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">From 20 months to 30 months</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Medium</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">From 10 months to 20 months</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">From 20 months to 30 months</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">From 30 months to 40 months</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Serious</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">From 20 months to 30 months</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">From 30 months to 40 months</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">At least 40 months</p></td></tr></tbody></table>
+
+  
+  
+
+> (3)      Step 3: Identify the appropriate starting point within the indicative sentencing range. This is done based on the offence-specific factors.
+
+> (4)      Step 4: Make adjustments to the starting point to account for offender-specific aggravating and mitigating factors as indicated below.
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="49.28%"> <col width="50.72%"> </colgroup><tbody><tr><td align="left" class="b" colspan="2" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Offender-Specific Factors</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Aggravating Factors</p><p align="justify" class="Table-Para-1">(1) Offences taken into consideration for sentencing purposes</p><p align="justify" class="Table-Para-1">(2) Relevant antecedents</p><p align="justify" class="Table-Para-1">(3) Evident lack of remorse</p></td><td align="left" class="" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Mitigating Factors</p><p align="justify" class="Table-Para-1">(1) A guilty plea</p><p align="justify" class="Table-Para-1">(2) Voluntary restitution</p><p align="justify" class="Table-Para-1">(3) Cooperation with the authorities</p></td></tr></tbody></table>
+
+  
+  
+
+> (5)      Step 5: Make further adjustments to take into account the totality principle. For an offender who has been convicted on multiple charges, the final step is to consider the need to make appropriate adjustments to take into account the totality principle, bearing in mind the operation of s 307(1) of the Criminal Procedure Code which mandates for at least two of the sentences to run consecutively.
+
+10     Applying the proposed framework, the Prosecution submitted as follows:
+
+> (1)     Step 1: Assessing Harm and Culpability
+
+>> (i)        Harm is High
+
+>> The DPP argued that this was because of the following factors: the value of the gasoil was substantial being in excess of USD500,000, the underlying predicate offence (misappropriation of the gasoil from Shell Bukom) was a serious one involving a high degree of breach of trust, there was premeditation involved, the criminal enterprise was a sophisticated one with transnational elements, and finally, the offence has the potential to bring Singapore’s reputation as a bunkering hub into disrepute, bearing in mind the fact that Singapore is the world’s leading bunkering port and that the maritime industry is a crucial pillar of our economy.
+
+>> (ii)        Culpability Is Medium:
+
+>>> (A)       The accused actively participated and engaged in the conspiracy in Vietnam. He also admitted that the practice of receiving stolen gasoil from Shell, Pulau Bukom, was an open secret in the company. Despite this knowledge, he had made no attempt to withdraw from participating in the criminal syndicate.
+
+>>> (B)       The accused was also the Captain on board Petrolimex 10 at the material time. He was thus the first-in-command of the vessel and charged with its overall responsibility. He cannot be characterised as a low-level employee.
+
+>>> (C)       Further, the accused was paid a substantial sum for his involvement in this offence – by his own account, he retained at least USD8,000 of the USD20,000 handed to him. The accused has also not made any restitution for his offence.
+
+>>> (D)       Nevertheless, because there were other co-conspirators who had financed the offence and from whom the accused took directions, the Prosecution submitted that the correct characterisation of the accused’s culpability was “medium”.
+
+> (2)     Step 2: Identify the applicable indicative sentencing range. Based on the Prosecution’s suggested matrix, the indicative sentencing range for a high harm / medium culpability offence was 30 to 40 months’ imprisonment (for a first-time offender who claims trial).
+
+> (3)     Step 3: Identify the appropriate starting point within the indicative sentencing range: The Prosecution submitted that the appropriate starting point was 35 to 38 months’ imprisonment in light of the multiple offence-specific aggravating factors going towards the accused’s culpability, which warranted a starting indicative sentence at the moderate to upper end of the sentencing range.
+
+> (4)     Step 4: Make adjustments to the starting point to account for offender-specific factors. Due consideration should be given to the accused’s cooperation with investigations, and his timeous plea of guilt. However, the Prosecution argued that the fact the accused was arrested after re-entering Singapore reduced the mitigating weight of his plea of guilt, especially as there was overwhelming evidence of his guilt.
+
+> (5)     Step 5: Make further adjustments to take into account the totality principle. As noted in _Mohamed Shouffee bin Adam v PP_ <span class="citation">\[2014\] 2 SLR 998</span>, the totality principle is concerned with proportionality in punishment and requires a sentencing court to review the cumulative sentence and consider whether it is just and appropriate. However, for the present case, the accused only faced one charge.
+
+11     The Prosecution also informed the court that arising out of this series of investigations, three other offenders had already pleaded guilty. These were offenders who were the captain and crew on board other vessels that were similarly involved in receiving stolen gasoil from Shell, Pulau Bukom.[^3] The details of these offenders are as follows:
+
+> (1)      _Dang Van Hanh_: A Chief Officer on board Prime South, a vessel owned by Prime Shipping Corporation. The offender there pleaded guilty and was sentenced on 11 July 2019 to 2 proceeded charges under s.411 r/w s.109 Penal Code, with 2 similar charges taken into consideration for sentencing. In all, the offender had intentionally aided the commission of the dishonest receipt of stolen gasoil involving about 5,592.63 metric tonnes of gasoil valued at about USD 2,587,791.34, and was sentenced to a global term of 30 months’ imprisonment. The DPP stated that in arriving at the sentencing position for the offender, the Prosecution had expressly taken into account his relatively lower culpability (even vis-à-vis the present accused), his limited personal benefit, and the relatively few charges.
+
+> (2)      _Doan Xuan Than_: A Captain on board, _inter alia_, MT Gaea, a vessel owned by Prime Shipping Corporation. The offender had pleaded guilty to 5 proceeded charges, and consented to having 5 similar charges taken into consideration for sentencing, all of which were charges under s.411 r/w s.108B and s.109 Penal Code. He was sentenced on 19 December 2019. His offences involved gasoil valued at about USD5,745,536.38, in total and he was sentenced to a global sentence of 66 months’ imprisonment. The individual sentences imposed per charge ranged from 20 to 30 months’ imprisonment, for gasoil valued at approximately USD608,000 plus to approximately USD1.1 million plus (see further \[16\] below).
+
+> (3)      _Nguyen Duc Quang_: A Captain of Prime South, a vessel owned by Prime Shipping Corporation. The offender had pleaded guilty to 6 proceeded charges under s.411 r/w s.108B and s.109 Penal Code and was sentenced to a global sentence of 70 months’ imprisonment. The individual sentences imposed per charge ranged from 14 to 32 months’ imprisonment, for gasoil valued at approximately USD216,000 plus to USD961,000 plus.
+
+12     The Prosecution thus argued that based on the culpability of the accused and the circumstances of the present case, a sentence of at least 23 months’ imprisonment would be just and proportionate, and would correctly reflect the gravity of his offence.
+
+## (5)   Mitigation Plea
+
+13     The Defence initially tendered a written mitigation seeking a sentence of 15 months’ imprisonment for the accused. In court, after discussing the antecedents cited by the Prosecution, Mr Kalidass submitted that a sentence of not more than 18 months’ imprisonment would be fair.[^4] The main points put forward by the Defence have been summarised below.
+
+14     As regards the culpability and harm factors, the Defence argued that:
+
+> (1)     The accused was not the main mastermind, nor was he involved in planning the offences. Instead, he was a mere pawn, and was merely following the orders of his accomplices, Duong (Nguyen Dinh Duong) and Tuan (Nguyen Quoc Tuan). Hence, his culpability was low.
+
+> (2)     The accused only committed one offence involving 1164.7 metric tons of gasoil valued at USD 500,960.76.
+
+15     As regards mitigating factors, the Defence submitted that:
+
+> (1)     The accused was genuinely remorseful, and had cooperated with the authorities. He also pleaded guilty early, hence saving the resources and time of the court and the Prosecution.
+
+> (2)     The accused was a first offender, with a low risk of re-offending. He had spent almost 8 months in remand, and hopes to serve his sentence and return home to his family and lead a crime-free life.
+
+> (3)     The accused was the main breadwinner, and his family has fallen on hard times since his arrest. He has two children, aged just 14 and 11 years old respectively and, until his arrest, he cared for his sick and aged mother aged 81 years old.
+
+16     The Defence also highlighted the sentence imposed in _Doan Xuan Than_, which was one of the three cases cited by the Prosecution. For the offender in that case, based on charges similar to the charges in the present case, the following sentences had been imposed:
+
+> (1)     20 months' imprisonment for DAC-901795-2018, involving USD608,039.28;
+
+> (2)     30 months' imprisonment for DAC-902254-2018, involving USD1,133,926.35;
+
+> (3)     22 months' imprisonment for DAC-926575-2018, involving USD651,029.84;
+
+> (4)     24 months' imprisonment for DAC-926578-2018, involving USD703,648.77; and
+
+> (5)     26 months' imprisonment for DAC-926579-2018, involving USD790,902.06.
+
+17     Counsel argued that the facts of _Doan Xuan Than_ were more aggravating than the facts in the present case as:
+
+> (1)     The offender there had 5 proceeded charges, and 5 similar charges taken into consideration for sentencing, while the accused here faces only 1 charge;
+
+> (2)     The offences there were committed over a prolonged period, while the accused’s offending here was one-off;
+
+> (3)     The total value of gasoil involved there (for all the charges) was USD5,745,536.38, while the value for the gasoil in the present case was less than 10% of this value, at USD 500,960.76.
+
+18     Further, the Defence pointed out that in respect of _Doan Xuan Than_, for the charge in DAC-901795-2018 (involving USD608,039.28 of gasoil), the offender was sentenced to 20 months' imprisonment. Thus, using that charge as a reference, the suitable punishment for Pham should be less than 20 months' imprisonment as his charge involved a lower degree of harm caused due to the lower value of the gasoil involved (over USD100,000, which was approximately 17.6% lower in quantum).
+
+19     Thus, given the far lower values involved and the greatly varying difference in culpability, Mr Kalidass argued for a sentence of not more than 18 months’ imprisonment.
+
+## (6)   The Court’s decision
+
+### (a)   Framework and Sentencing Matrix to be applied
+
+20     The accused had pleaded guilty to a single charge of DRSP. As far as sentence was concerned, I agreed with the Prosecution that a sentencing framework could be adopted and applied in the present case, similar to the framework used in other cases involving property related offences such as cheating at play, and acquiring, possessing, transferring etc. the benefits of criminal conduct (see \[9\] above).
+
+21     As for the actual sentencing framework to adopt, I note that the Prosecution’s proposed 5-step approach, was similar to the framework used in _Huang Ying-Chun_ at \[98\], which was itself adapted from the framework in _Logachev Vladislav.[^5]_ In both of those cases, the fifth step of their respective frameworks involved making adjustments to the final sentence to take into account the totality principle. This was so as to ensure proportionality and to prevent the imposition of a crushing sentence.
+
+22     I further note that the framework proposed by the Prosecution for use in the present case, was apparently also applied in the other DRSP cases referred to by the Prosecution. This included the case of _Nguyen Duc Quang_, which was also a case that the Defence had referred to, and relied on, in coming up with its proposed sentence (of not more than 18 months’ imprisonment), albeit this proposed sentence was different from the sentence proposed by the Prosecution (of at least 23 months’ imprisonment).
+
+23     Thus, the dispute between parties in the present case was apparently not over what should be the appropriate sentencing framework to be adopted, but rather over how the framework should be applied, in particular what weightage that should be given to the relevant sentencing factors, and hence what should be the final sentence to impose after going through the various steps in the proposed framework.
+
+24     In line with the above observations, I agreed that the framework proposed by the Prosecution can and should be applied in the present case. That said, I would add that the culpability assessing factors suggested by the Prosecution for DRSP offences in general, and particularly those involving foreigners, should also include the last three factors set out in _Huang Ying-Chun_ at \[98\], namely: (1) whether the commission of offence was the offender’s sole purpose for being in Singapore; (2) the offender’s knowledge of the underlying predicate offence; and (3) the prospect of a large reward. This was because the above three factors, which were considered in _Huang Ying-Chun_ in the context of a CDSA offence, may equally be applicable for a DRSP offence in light of the general similarities of DRSP and CDSA offences, and the possible relevance of such factors to DRSP offences, particularly those involving foreign offenders who committed offences in Singapore.
+
+25     Accordingly, I adopted the same table of offender and offence specific factors that was set on in _Huang Ying-Chun_ at \[98\], and considered whether those factors exist in the present case and, if so, how they may influence the final sentence to be imposed. I have reproduced the _Huang Ying-Chun_ table below for easy reference.
+
+![]([2020] SGDC 0096_Image/[2020] SGDC 0096_image1.png)
+
+26     Separately, for the reasons set out in \[22\] and \[23\] above, I would also adopt the sentencing matrix proposed by the Prosecution for DRSP offences involving a first-time offender who has claimed trial. This is reproduced below.
+
+![]([2020] SGDC 0096_Image/[2020] SGDC 0096_image2.png)
+
+### (b)   The appropriate sentence to be imposed
+
+27     I now set out how I derived the appropriate sentence using the framework and sentencing matrix discussed above.
+
+#### (i)   Steps 1 - 3: Identifying the level of harm and culpability, the applicable starting range and appropriate starting point
+
+28     As regards the question of harm, I agreed with the Prosecution that the harm could be assessed as serious, not only because of the value of property involved (over USD500,000) but also because of the potential for such offences to cause grave damage to Singapore’s reputation and status as a bunkering hub.
+
+29     As for the accused’s culpability, I accepted the factors highlighted by the Prosecution which went towards assessment of his culpability, including factors like the sophisticated and premediated nature of the offence, the accused’s position as a captain and first-in-command of the vessel involved, the fact that the accused was driven by a profit motive and that he had in fact benefitted substantially from the offence without making any restitution, and his prior knowledge of previous similar malpractices. In fact, while I accepted that the accused was not the top person in the entire syndicate, I was of the view that he had clearly played a critical role in the success of the illegal venture. All in all, I saw no reason to disagree that the accused should be assessed to be of medium culpability.
+
+30     Thereafter, in the context of the sentencing matrix for an offence of serious harm/moderate culpability, and particularly in light of the number and effect of the sentencing factors identified above, I also accepted the Prosecution’s argument that an indicative starting sentence at the moderate to upper end of the proposed sentencing range i.e. 35 to 38 months’ imprisonment, should apply.
+
+#### (ii)   Steps 4 - 5: Offender-specific factors and the totality principle
+
+31     As regards step 4 of the framework, the Prosecution acknowledged the presence of some of the mitigating factors highlighted by the Defence, including the accused’s cooperation with investigations, and his plea of guilt, although the DPP also argued that these considerations were moderated by the fact that the accused was arrested after re-entering Singapore, and also because there was overwhelming evidence of his guilt.
+
+32     In this regard, I agreed that the above offender-specific factors in the accused’s favour were relevant, as was the fact that he had not made restitution even as he had retained USD8,000 of the USD20,000 handed to him. However, as far as his personal circumstances were concerned, I did not find them to be sufficiently remarkable as to be of any mitigating value.
+
+33     As for Step 5 of the framework i.e. considering the issue of totality of sentence, it was clear that the totality principle does not apply here as the accused only faced one charge. Nonetheless, the totality principle was significant in a different way i.e. in assessing the weight to be placed on the sentences imposed in the other cases cited by the parties. Specifically, the Prosecution had argued that the totality principle was applied in the three similar cases referred to by the Prosecution, as the offenders in those cases had all faced multiple charges. The Prosecution thus argued that because of the totality principle that applied there, that the sentence imposed for the individual charges were moderated downwards in those cases.
+
+34     As regards the DPP’s argument, I accepted that in general, the circumstances of each case must be carefully scrutinised when it is cited as a precedent. In this regard, despite clear similarities in the facts of those cases as compared with the present case, there were also distinctions that made a significant difference when one considers how useful their sentences were as guides. In this regard, I agreed with the Prosecution that the possible ‘moderating effect’ of the totality principle on the sentences for the individual charges in those cases, has particularly to be borne in mind.
+
+#### (iii)   Arriving at the final sentence
+
+35     Looking specifically at the respective parties’ sentencing positions, I did not agree with the Defence’s proposed sentence of not more than 18 months’ imprisonment (let alone the Defence’s initial proposal of 15 months’ imprisonment). In coming to this decision, I was of the view that the sentencing framework and applicable sentencing factors discussed above, clearly pointed to an imprisonment term higher than that of 18 months.
+
+36     Further, as for counsel’s reliance on the sentence in _Doan Xuan Than_, I was of the view that while the court in _Doan Xuan Than_ had imposed 20 months’ imprisonment for DAC-901795-2018 (which involved a higher sum of USD608,039.28), the court there may well have been influenced by the totality principle in deciding on this sentence, since consideration of the totality of sentence was the final step in the same 5-step sentencing framework that was put forward. [^6] In that regard, I would reiterate that the offender in _Doan Xuan Than_ was convicted (and sentenced) for 5 similar charges, albeit I recognised that his individual and aggregate sentence may also have been influenced by the 5 other charges taken into consideration for sentencing, before these sentences were subjected to the consideration of the totality principle.[^7]
+
+37     In addition, as pointed out by the Prosecution, the offender in _Doan Xuan Than_ was only a chief officer, who had to take directions from the captain who was in command of the vessel. In the case of the present accused, he himself was the captain of the vessel, and hence the one in command. This was yet another material difference that I had to consider. Accordingly, I was of the view that a sentence of not more than 18 months’ imprisonment, as proposed by the Defence, was clearly inappropriate and inadequate.
+
+38     Turning to the Prosecution’s proposed sentence of at least 23 months’ imprisonment, this term was at least 3 months more than the 20 months’ imprisonment term imposed in _Doan Xuan Than_ for DAC-901795-2018, a charge which involved a higher sum of USD608,039.28, even taking into account the discussion above concerning the totality principle. The Prosecution’s proposed sentence of 23 months’ imprisonment was also at least one month higher than the 22 months' imprisonment imposed in the same case for DAC-926575-2018, which was a charge that involved an even higher sum of USD651,029.84. As such, with respect, just as I did not agree with the sentence proposed by the Defence, I also did not agree with the Prosecution’s suggested sentence of at least 23 months’ imprisonment.
+
+39     Instead, in deciding on the appropriate sentence for the present case, aside froom considering the sentencing factors above, as well as the case of _Doan Xuan Than_, I also considered as particularly useful the third case cited by the Prosecution, namely _Nguyen Duc Quang._[^8] There, the offender, also a captain, faced similar charges as the accused in the present case. His individual sentences per charge ranged from 14 to 32 months’ imprisonment, where the gasoil involved was valued from approximately USD216,000 to USD961,000. As the totality principle would similarly have applied in that case, I accepted that the sentence for the charge involving property of USD216,000 may have been higher than 14 months’ imprisonment, if it had been the only charge that the offender had faced.
+
+40     Thereafter, taking into account all the above considerations, including the sentences imposed for the two charges in _Doan Xuan Than_ referred to in \[16\] (i.e. DAC-901795-2018: USD608,039.28) and DAC-926575-2018: USD651,029.84), and the sentence in _Nguyen Duc Quang_ (for the charge involving USD216,000 – see \[39\]), I was of the view that a sentence of 20 months’ imprisonment for the accused in the present case would be fair and proportionate. As the accused has been in remand for close to 8 months on the date of his sentencing, I also backdated his sentence to the date of commencement of his remand term i.e. 10 August 2019.
+
+41     The accused, being dissatisfied, has appealed against the sentence imposed. As he has not sought a stay of execution for his sentence, the accused is currently serving his imprisonment sentence.
+
+* * *
+
+[^1]: Prosecution’s Skeletal Sentencing Submissions at \[5\]
+
+[^2]: Prosecution’s Skeletal Sentencing Submissions at \[11\]
+
+[^3]: Notes of Evidence dated 30 March 2020 at p 9
+
+[^4]: Notes of Evidence dated 30 March 2020 at p 20
+
+[^5]: With some additional sentencing considerations considered important for the CDSA offence in _Huang Ying-Chun_
+
+[^6]: The same sentencing framework was put forward by the Prosecution in the cases relied on by them as precedents. See Notes of Evidence dated 30 March 2020 at p 16
+
+[^7]: The Prosecution had in fact sought a sentence of 22 months’ imprisonment for DAC-901795-2018. See Notes of Evidence dated 30 March 2020 at p 14
+
+[^8]: It was also the cases of _Doan Xuan Than_ and _Nguyen Duc Quang_ that the Defence focused on in their oral arguments. See Notes of Evidence dated 30 March 2020 at p 17
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F24441-SSP.xml)
