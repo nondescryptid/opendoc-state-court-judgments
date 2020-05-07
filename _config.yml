@@ -17,6 +17,10 @@ styling_options:
   opendoc_logo_path: /assets/images/logo-full.png
   feedback_url: null
 document_order:
+  - 2020_SGDC_108
+  - 2020_SGDC_106
+  - 2020_SGDC_110
+  - 2020_SGDC_103
   - 2020_SGDC_94
   - 2020_SGDC_96
   - 2020_SGMC_13
