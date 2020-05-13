@@ -1,0 +1,1530 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Jason John Lopez  
+
+### \[2020\] SGDC 112
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">DAC-934848-2017, MA-9079-2020-01</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">27 April 2020</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Mathew Joseph</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">DPP Amanda Sum (Attorney-General's Chambers) for the Prosecution; Counsel Ms Diana Foo (Tan See Swan &amp; Co.) and Mr Hassan Esa Almenoar (R. Ramason &amp; Almenoar) for the Defence</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Jason John Lopez</td></tr></tbody></table>
+
+\[LawNet Editorial Note: An appeal to this decision has been filed in MA 9079/2020/01.\]
+
+27 April 2020
+
+### District Judge Mathew Joseph:
+
+## Introduction
+
+1       The accused Jason John Lopez had claimed trial to a single charge under section 31 (2) of the Misuse of Drugs Act for failing to give his urine specimen for a urine test without reasonable excuse.
+
+2       At the conclusion of the trial, the accused was found guilty and convicted of the proceeded charge against him. He was sentenced to 8 years and 6 months imprisonment with 6 strokes of the cane with effect from the date of his remand, 23 September 2017.
+
+3       The accused has now appealed against his conviction and the sentence imposed on him. He is presently serving his sentence.
+
+4       I set out below my grounds of decision with regard to his conviction and the sentence imposed.
+
+## THE PROCEEDED CHARGE
+
+5       The single charge that was proceeded against the accused was as follows -
+
+> _DAC-934848-2017_
+
+> _You_,
+
+> _are charged that you, on 22 September 2017 at or about 4.00 p.m., in Singapore, did without reasonable excuse, fail to provide a specimen of your urine for urine test as required by an officer of the Singapore Police Force, Central Police Division Headquarters, namely Senior Station Inspector Osman Bin Md Zin, and you have thereby committed an offence under Section 31(2) of the Misuse of Drugs Act (Cap 185, 2008 Rev Ed) (“MDA”)_
+
+> _and further_
+
+> _that you, on 12 November 2007, had been convicted in the District Court, No. 17 vide DAC37870/2007, for an offence of consumption of a specified drug, to wit, morphine, under Section 8(b)(ii) of the MDA and were punished under Section 33A(1) of the MDA with 5 years’ and 6 months’ imprisonment and 3 strokes of cane, which conviction and punishment has not been set aside to date, and you are thereby liable to enhanced punishment under Section 33A(2) of the MDA._
+
+## Preliminary Matters
+
+## (i)   Accused unrepresented for most of trial
+
+6       For almost the entire trial, the accused had been unrepresented. For the first 4 days, he was unrepresented. On the fifth day of the trial on 19 August 2019, Counsel Mr Skandarajah appeared to act for the accused. This was at the stage of the ancillary hearing when the accused was supposed to make his oral submissions on the involuntariness of his long statement P5i. Counsel proceeded then to make oral submissions on why P5i should not be admissible in evidence. After hearing submissions form both Counsel and the DPP, I ruled that the statement was made voluntarily by the accused. Accordingly, the long statement P5 was admitted into evidence. At a later part of this judgment, I will give reasons as to why the long statement was admitted into evidence.
+
+7       Thereafter, Counsel Mr Skandarajah continued to act for the accused and conducted the cross-examination of PW7 SSGT Muhammas Izree.
+
+8       The accused had represented himself from Day 1 – Day 4 of the trial.
+
+## (ii)   Discharge of Counsel Mr Skandarajah.
+
+9       In an unusual turn of events, at the end of the very first day on which Counsel Mr Skandarajah had appeared for the accused, the accused sought to discharge his own counsel.[^1] The court advised him to consider carefully the implications of his proposed course of action. However, the accused was adamant. In any case, I adjourned the trial to the next day for resumed hearing and for the accused to re-consider his decision. However, the next day the accused did not turn up in court as he had reported sick while in remand in Changi Prison. He was given 2 days of MC. Accordingly, the 2 hearing days earlier fixed for 20 – 21 August 2019 had to be vacated to the next tranche of hearing dates. At PTC on 9 September 2019, the accused discharged his Counsel Mr Skandarajah. When the trial resumed for further hearing on 29 October 2019, the accused was again unrepresented and he proceeded to conduct his own defence.
+
+## (iii)   Multiple further submissions by new Defence counsel after timeline for submissions had closed
+
+10     After the trial resumed on 29 October 2019, the court again urged the accused to engage new counsel so that he would not be disadvantaged in conducting his own defence. However, the accused chose not to do so. At the end of the trial on 14 November 2019, the court set down timelines for closing submissions by both the DPP and the accused. As the accused was unrepresented, I gave him a slightly longer period than the usual timelines for closing submissions and replies. The timelines were for closing submissions to be submitted by 30 December 2019, with replies to be exchanged by 23 Jan 2020.
+
+11     On 26 December 2019, new Counsel Ms Diana Foo appeared in court and asked for an extension of the earlier timelines as the firm had just been briefed. I allowed the application in the interests of justice, being especially mindful that the accused had conducted his defence largely unrepresented. The trial then resumed again on 5 March 2020 in accordance with the new timelines and with new Defence Counsel Mr Hassan Almenoar and Ms Diana Foo acting for the accused. I will deal with the submissions of new Counsel and their attempts to introduce additional new evidence in a later part of this judgment.
+
+## The Prosecution’s Case
+
+#### Overview
+
+12     The Prosecution gave an overview of the case in the following terms. [^2]
+
+13     The accused was arrested at Mustafa Centre on 22 September 2017 after Police officers observed him to be walking with an unsteady gait, and deliberately avoiding eye contact with them. The officers conducted a search on the accused and found 10 packets of pills in packaging labelled “Erimin-5” in his left pocket. These pills were subsequently analysed at the Health Sciences Authority (“HSA”) and found to contain Etizolam, _a non-controlled substance_.
+
+14     Pursuant to his arrest, the accused was escorted to the ‘A’ Division police lockup. Here, Senior Station Inspector 2 Osman bin Mohamad Zin (“SSI Osman”) requested the accused to provide a sample of his urine for drug testing. The accused was also issued multiple warnings that failure to comply with the request was an offence under s 31(2) of the MDA. The accused was also offered water every half an hour, along with the further issuance of warnings. In each case, he drank at most a few sips each time.
+
+15     The accused was provided the opportunity to give his urine sample up until 9.45 pm on 22 September 2017. Despite having been given a full 12 hours from his first warning from SSI Osman at 9.50 am, the accused failed to provide his urine sample. He was then served the charge under s 31 (2) of the MDA by W/SSSgt Nurliyana Mohd Idros (“SSSgt Nurliyana”) at 9.45 pm on the same day.
+
+16     It is undisputed that the accused did not ultimately provide a sample of his urine as he was required to do.
+
+### Prosecution evidence
+
+17     The Prosecution called the following 8 witnesses[^3] to prove its case during the trial:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="16.7033406681336%"> <col width="25.3050610122024%"> <col width="57.9915983196639%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>PW</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Witness</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Role</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>PW1</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">SSgt Joseph Justin Selvam</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Investigation officer</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>PW2</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">W/Sgt2 Nor’Aisah binte Mohd Perdaus (“Sgt Nor’Aisah”)</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Arresting officer and maker of arrest report</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>PW3</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">R/Sgt Muhammad Firdaus bin Mohd Saleh (“Sgt Firdaus”)</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Arresting officer</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>PW4</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">SSI2 Osman bin Md Zin</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Lead escort in charge of ‘A’ Division lockup on 22 September 2017, and who administered the warnings to the accused in lockup</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>PW5</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">SSGT Ng Boon Kiat</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Escorting officer – Escorted accused to the toilet to collect his urine sample, but was unsuccessful as accused did not eventually provide his urine</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>PW6</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Dr Lim Hong Giat Raymond (“Dr Lim”)</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Examining doctor who assessed the accused in lockup</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>PW7</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">SSGT Muhammad Izree bin Ahmad</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Statement recorder – Recorded the accused’s long statement under s 22 of the Criminal Procedure Code</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>PW8</b></p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">W/SSSGT Nurliyana Mohd Idros</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Previous investigation officer – Served the charge and notice of warning to the accused and recorded his cautioned statement under s 23 of the CPC</p></td></tr></tbody></table>
+
+  
+  
+
+18     A further two witnesses gave evidence for the Prosecution in the two ancillary hearings that took place in the course of trial:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="18.82%"> <col width="33.74%"> <col width="47.44%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>PW</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Witness</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Role</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>1TPW2</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">SSSGT Johnson Leong Tuck Ming (“SSSgt Jonhson”)</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Statement recorder – Recorded additional portion to the accused’s long statement under s&nbsp;22 of the CPC</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>2TPW1</b></p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">SCCPL Muhammad Hudzaifah bin Mazlan</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Maker of station diary entry no. 32 as appears in exhibit D4</p></td></tr></tbody></table>
+
+  
+  
+
+19     The following (documentary) exhibits were also admitted into evidence in the course of trial:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="18.8162367526495%"> <col width="37.9524095180964%"> <col width="43.2313537292542%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Exhibit</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Document</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Description</b></p></td></tr><tr><td align="left" class="b" colspan="3" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Prosecution exhibits</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>P1</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Police report (A/20170922/2025) dated 22 September 2017 at 9.41 am (“Arrest report”)</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Arrest report documenting the arrest of the accused at Mustafa Centre</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>P2</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Police station diary entries (redacted), running to entry no. 31</p><p align="justify" class="Table-Para-1">(“Station diary”)</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Documents the accused’s movement in lockup and the issuance of warnings to the accused to provide a sample of his urine within 4 hours of the first warning</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>P3</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Medical report dated 23 November 2018 by Dr Lin Hanjie (“Medical Report”)</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Documents Dr Raymond Lim’s assessment of the accused as fit to provide a urine sample, based on his medical examination of the accused in lockup</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>P4</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">NP306 medical form dated 22 September 2017 (“NP306”)</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Contains Dr Raymond Lim’s medical notes from his assessment of the accused in lockup</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>P5</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Accused’s long statement under s 22 of the CPC (“long statement”)</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Accused’s statement recorded by SSgt Muhammad Izree bin Ahmad and SSSgt Johnson Leong Tuck Ming commencing on 22 September 2017 at 5.10 pm</p></td></tr><tr><td align="left" class="b" colspan="3" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Defence exhibits</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>D1</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Page 34 (un-redacted) of police station diary</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Page 34 of the police station diary that was served on the accused in the Prosecution’s Supplementary Bundle (“PSB”) as part of the Criminal Case Disclosure Conference (“CCDC”) process</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>D2</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Prosecution’s Summary of Facts</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Prosecution’s Summary of Facts that was served on the accused in the Case for the Prosecution (CFP) during CCDC</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>D3</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Charge, Notice of Warning, and accused’s statement recorded under s 23 of the CPC</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Accused’s cautioned statement recorded by SSSGT Nurliyana on 22 September 2017 at 9.45 pm</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>D4</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Police station diary entries (un-redacted), running to entry no. 32</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Full copy of the police station diary entries that was served on the accused in the PSB</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>D5</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">First three pages of the PSB</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Cover letter and cover page of the PSB served on the accused on 23 August 2018</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>D6</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Medical report from Ng Teng Fong General Hospital (“NTFGH”) dated 6 November 2017</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Documents the accused’s diagnoses and treatment in relation to his admission to NTFGH from 28 April 2017 to 5 May 2017, with subsequent outpatient follow-up on 11 May 2017 and 18 May 2017</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>D7</b></p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">HSA certificate bearing Lab. No. ID-1732-01959-001</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Certificate under s 16 of the MDA certifying that the 100 tablets recovered in the accused’s possession during his arrest was found to contain Etizolam</p></td></tr></tbody></table>
+
+  
+  
+
+### Arrest of Accused
+
+20     The Prosecution also relied on the evidence of the following key witnesses. PW2 SGT Nor’Aisah and PW3 SGT Firdaus had both testified that they had first observed the accused at level 1 of Mustafa Centre at about 8.24 am, behaving “suspiciously”.[^4] The accused was walking in an unsteady gait and avoided eye contact with the officers.[^5] They then approached the accused and requested his personal details. Both officers gave evidence that the accused was responsive and coherent in his responses.[^6] The accused had informed PW2 SGT Nor’Aisah that he did not understand Malay. The accused was able to converse with her in English, although he had slurred speech.[^7] The accused informed the officers that he was “Jeremy Andrew Lopez”, and provided the officers, from his own memory, the corresponding NRIC number and address, including postal code, belonging to Jeremy Andrew Lopez.[^8] It is undisputed that Jeremy Andrew Lopez was in fact the accused’s brother.[^9]
+
+21     The officers conducted a search of the accused and found 10 packets of pills wrapped up in newspaper in the accused’s left pocket.[^10] At the time, the officers believed these pills to be “Erimin-5” (street name for nimetazepam), because the pills were contained in packaging labelled “Erimin-5”.[^11] The accused was then placed under arrest and escorted back to the ‘A’ Division police lockup.
+
+22     The seized pills were subsequently sent to the Illicit Drugs Laboratory of the HSA for analysis on 25 September 2017, and were found to comprise 100 tablets containing Etizolam.[^12]
+
+### Events in Lock-up
+
+23     The occurrences and interactions with the accused by the Police Officers in the Lock-up, are crucial pieces of evidence given the charge against the accused. This evidence will be listed out in some detail below from the testimony of the key Prosecution witnesses, in particular the testimony of SSI Osman.
+
+24     PW4 SSI Osman was the Lead Escort in charge of the internal escort team on duty at the ‘A’ Division lockup on 22 September 2017.
+
+25     SSI Osman had testified and explained the nature of the entries numbered 19 - 27 and 29 - 31 of the Station Diary \[Exhibit P2\]. In particular, SSI Osman had explained that Entry number 19 documented the _first caution_ that he had administered to the accused at 9.50 am. The purpose was to warn the accused that he was required to provide his urine within 4 hours, and that failure to comply would constitute an offence.[^13] SSI Osman had also invited the accused to acknowledge the warning by appending his signature on the corresponding entry number 19 in the Station Diary. The accused did not do so as he was unresponsive. SSI Osman did however observe the accused to be moving his head and body in a manner which, in his view, did not suggest that he was in any pain or discomfort,[^14] nor that there were any “signs of medical attention”.[^15]
+
+26     SSI Osman also testified that he had documented his observations of the accused with the words “_breathing but unresponsive_”.[^16] During cross-examination, SSI Osman explained that the phrase “breathing but unresponsive” did no_t_ mean that the accused was unconscious – instead, this phrase was used to document that the accused was breathing and conscious, but that he did not verbally respond yes or no to SSI Osman.[^17]
+
+27     SSI Osman had also testified that the Central Narcotics Bureau (“CNB”) protocol as of 22 September 2017 was to administer warnings to the subject every half an hour,[^18] alongside which the subject was also to be offered one cup full of water to drink.[^19] In line with this protocol, SSI Osman issued the next warning to the accused at 10.20 am, and offered him one cup full of water to drink.[^20] The accused again did not respond to SSI’s warning or append his signature on the station diary, and he also did not drink any of the water offered to him.[^21]
+
+28     SSI Osman further testified that this was similarly the case when he issued the next 3 warnings to the accused at 10.50 am, 11.20 am, and 11.50 am.[^22] SSI Osman also explained that the phrase “PIC is unable to sign and drink” which appeared in the corresponding station diary entries number 19-23 simply meant that the accused did not respond to instructions, possibly because he was half asleep.[^23]
+
+29     SSI Osman also testified that he had administered the sixth warning to the accused at 12.20 pm.[^24] SSI Osman testified that this time, the accused was awake and appended his signature on entry number 24 of the station diary, on the same line as his NRIC number.[^25] The accused was offered one cup of water and asked to finish the whole cup, but he only took three sips from it.[^26] SSI Osman did not observe anything unusual about the accused’s behaviour or demeanour, and the latter did not raise any requests or complaints.[^27]
+
+30     SSI Osman administered the next warnings to the accused at 12.50 pm and 1.20 pm.[^28] The accused appended his signature on entries number 25 and 26 of the Station Diary to acknowledge the warnings, and drank 2 sips of water, leaving behind around 90% of the water in the cup not drunk on each occasion.[^29]
+
+31     At 1.50 pm, a “final warning” was issued to the accused at the expiry of the 4-hour period running from the first warning at 9.50 am.[^30] The accused acknowledged the warning on entry number 27 of the Station Diary. He did not drink any water but indicated he wished to give his urine.[^31]
+
+32     PW5 SSGT Ng Boon Kiat also testified that he had escorted the accused to the toilet to collect his urine sample as documented at 1.55 pm.[^32] However, the urine procurement was unsuccessful, which SSgt Ng explained to mean that the accused did not give his urine.[^33] SSGT Ng did not observe the accused to be in any pain or discomfort during this time.[^34] The accused was returned to the holding area after the unsuccessful attempt to procure his urine.[^35]
+
+33     SSI Osman continued to administer to the accused warnings at half-hourly intervals, at 3.00 pm, 3.30 pm, and at 4 pm.[^36] The accused drank 2 sips of water each time, again leaving behind around 90% of the water in the cup. SSI Osman explained that he had continued to administer the warnings to the accused notwithstanding that the 4-hour period from the first warning at 9.50 am had lapsed, on his supervisor’s instructions.[^37] He was instructed to stop the issuance of warnings at 4.00 pm, when CNB officially took over the case.[^38]
+
+### Medical evidence
+
+34     The Prosecution had also led evidence from PW6 Dr Raymond Lim, who had assessed the accused for his fitness to give urine and for detention. Dr Lim testified that he had personally examined the accused in lockup,[^39] and that he had subsequently prepared a medical report \[Exhibit P3\] documenting his findings with regard to the accused’s condition. Dr Lim confirmed that he had been requested by the lockup officers to specifically examine the accused to ascertain his fitness to pass urine and to provide a sample of the same for testing.[^40]
+
+35     Dr Lim explained that there were three components to the medical examination – (1) subjective; (2) objective; and (3) assessment/plan.[^41] In the subjective part of the assessment, the accused had provided Dr Lim his medical history of intravenous drug abuse and right lower limb pseudo aneurysm.[^42] The accused did not inform Dr Lim of any difficulties with hydration or passing urine, even when specifically asked about his ability to pass urine.[^43] The accused also made no mention of any unconsciousness or any other kind of discomfort. Dr Lim also testified that the accused had confirmed that he was not in pain or discomfort.[^44]
+
+36     Dr Lim also testified that the accused scored a full 15 out of 15 on the Glasgow Coma Scale (GCS).[^45] This would mean that the eyes of the accused were open, he was able to speak, and he was _compos mentis_ – _i.e._ of sound mind.[^46] Dr Lim had observed further that the accused was “alert” and “comfortable”.[^47] The accused was able to have a meaningful conversation with logical replies, and was able to obey commands.[^48] He was responsive, coherent, and lucid, with nothing out of the ordinary in terms of his demeanour and behaviour during the assessment.[^49]
+
+37     Dr Lim also found the accused’s stomach to be soft and not tender, with no palpable bladder.[^50] Dr Lim explained that he would be able to feel a patient’s bladder when it fills to a capacity of about 300ml – in this case, the fact that the accused’s bladder could not be felt indicated that his bladder was not yet at 300ml capacity.[^51] Dr Lim testified that this coupled with his observation that the accused’s tongue was dry, had suggested dehydration.[^52] Dr Lim therefore prescribed a hydration plan of one cup of water every five minutes for the accused.[^53] Dr Lim confirmed that the accused did not have any medical issues with consuming water.[^54]
+
+38     Dr Lim’s conclusion was that the accused did not experience any medical issues which would have impeded him from giving a urine sample, and that he was fit for detention.[^55] He further explained that the threshold for referral in a lockup facility is very low, such that he would not have hesitated to refer the accused to a hospital should he have raised any indication at all that he had a problem passing urine.[^56]
+
+### Statements of accused
+
+### Ancillary hearing
+
+##### (i)    Long statement under section 22 of the CPC
+
+39     Statements had been recorded from the accused. After the accused was assessed fit for detention and to give a sample of his urine, PW7 SSGT Muhammad Izree had recorded a long statement from the accused under section 22 of the CPC at about 5.10 pm the same day \[Exhibit P5\]. This statement was a little later, supplemented with a further paragraph, recorded by SSSGT Johnson Leong at about 6.55 pm.[^57] The accused had objected to the admissibility of this Statement. An ancillary hearing was therefore conducted to determine the admissibility of this statement.[^58]
+
+40     During the ancillary hearing, the Prosecution led evidence from SSGT Izree and SSSGT Johnson on the circumstances surrounding the recording of the accused’s statement under section 22 of the CPC. Both officers testified that the accused was fully conscious at the time of the statement recording, and that he was able to answer “as per normal”.[^59] He was lucid, awake, and alert.[^60] He was cooperative and had willingly signed on the statement to acknowledge it upon being invited to do so.[^61]
+
+41     Both Police officers had also testified that the accused still had the opportunity to give his urine sample during the statement recording (_i.e._ between 5.10 pm to around 6.55 pm). Further, they also testified that if the accused had indicated that he wished to give his urine sample at any time, the officers would have escorted him to procure his urine sample for testing.[^62]
+
+42     SSSGT Izree further testified that although the accused was escorted to the statement recording in a wheelchair, SSGT Izree nevertheless considered him to be “fit and fine to give his statement” because having weak legs had no bearing on his mental faculties, which was the focus when assessing if an accused is fit for statement recording.[^63] SSGT Izree testified that he was satisfied that the accused was mentally lucid and in a right state of mind to give his statement on the basis of Dr Lim’s earlier medical examination of the accused, and also because of his own assessment of the accused as being responsive and articulate.[^64]
+
+43     SSSGT Johnson also testified that the accused had informed him that he did not have any medical history that caused him to have difficulty giving urine, and also that he had only drank a bit of the water that he was offered because of “tiredness”.[^65] The accused had also told SSGT Izree at the start of the statement recording that he had tried to urine but could not.[^66]
+
+### Court’s ruling on admissibility
+
+44     After hearing oral submissions from Counsel who had just come on board to act for the accused and the DPP, I ruled that the long statement of the accused was made voluntarily and admitted P5 into evidence.
+
+### Background to ancillary hearing
+
+45     It would be apposite to give some background to the actual ancillary hearing. The accused at this stage was unrepresented. He therefore give his EIC without Counsel present. The court had to constantly remind the accused that the sole issue was the voluntariness of his long statement. However, the accused seemed more eager to give evidence pertaining to his innocence of the charge against him, instead of focusing on the voluntariness issue. He had to be reminded several times not to go into issues which were more properly to be dealt with during the main trial. At the same time, I did give considerable latitude to the accused as he was unrepresented. Be that as it may, distilling the many irrelevant pieces of his testimony, it would appear that the accused’s main assertion was that he was hallucinating as he was intoxicated having consumed the Etizolam tablets just prior to his arrest at Mustafa Cetre.[^67] The accused further stated that he was in a wheel-chair in the interview room and he was weak and could not walk. At this point, the accused was not entirely clear in his testimony but appeared to suggest that he was weak and does not know what had happened during the statement recording process.[^68] This was essentially the purport of the evidence given in EIC by the accused himself when he was unrepresented.
+
+46     At this stage, to give parties time to prepare their oral submissions on the admissibility of the long statement P5i, the court explained the procedure and timelines for submissions to the accused, being mindful that he was unrepresented. [^69] As there were no more hearing days, the case was then adjourned for PTC and for the court to hear oral submissions by the DPP and the accused on the admissibility of P5i during the next tranche of hearing dates.
+
+47     There was then a new development. On 19 August 2019, Counsel Mr Skandarajah came on board to act for the accused. Counsel also clarified that instead of the accused, he would be making the oral submissions requested by the court at the conclusion of the earlier ancillary hearing. Counsel then asked for a stand down till the afternoon as he had just been briefed recently. This was granted by the court.
+
+48     At the resumed hearing, Counsel proceeded to repeat essentially what the accused had said during his EIC. At the same time, Counsel had submitted on matters pertaining to the contents and accuracy of P5. He was then reminded by the court that the sole issue in an ancillary hearing was the voluntariness of the statement. The accuracy and weight of the statement would be determined after all the evidence was before the court.[^70]With this clarification, Counsel then proceeded to submit that the accused was suffering from the effects of having consumed Etizolam. Counsel was then reminded by the court that there was no such evidence tendered to the court during the ancillary hearing. Counsel acknowledged this lack of evidence.[^71] Counsel then submitted that there were discrepancies in the statement “_although they were not threats, inducement or promise._”[^72] Counsel then submitted that the statement was recorded when the accused was not fully in control of his mind. The court at this point had to remind Counsel that the determination of voluntariness had to be evaluated on the basis of the entirety of the evidence tendered during the ancillary hearing.[^73]
+
+### Reasons for ruling
+
+49     After hearing the submissions of DPP and Counsel, I ruled that the accused’s long statement P5 was made voluntarily and therefore admitted it into evidence. My reasons are as follows.
+
+50     I found the two Prosecution witnesses who gave evidence during the ancillary hearing SSGT Izree and SSGT Johnson Leong, to be credible and consistent in their evidence. In particular, SSGT Izree was forthright and candid in his answers. His account of the recording of the long statement of the accused did not indicate anything improper on his part. Here, I note that the accused significantly had himself stated that there was no threat, inducement or promise made by SSGT Izree, SSGT Johnson Leong or anyone else.[^74]
+
+51     As stated above, I have considered the evidence of the Prosecution witnesses in the ancillary hearing. Both SSGT Izree and SSGT Johnson Leong consistently testified that there were no signs of delirium on the accused at any point during the recording process. Further, the accused had not given any credible explanation, reason or motive as to why these Prosecution witnesses who have never seen the accused before would want to implicate him in any way. Further, these same witnesses had also testified that not only was there no evidence of delirium observed on the accused, but the accused himself had not reported any such medical condition. Here, I observe also that from the evidence of SSGT Izree and SSGT Johnson, the converse was actually true. Indeed, from the accused’s own testimony, the accused had actually been more concerned about his other ailments, like the pain and weaknesses in his legs but had entirely omitted during the recording to make any mention of his hallucinations or feeling faint. This was odd.
+
+52     Further, the accused in his EIC during the ancillary hearing had unhesitatingly stated that the signatures appended on his statement are his and were in fact made by him. He had also acknowledged that certain paragraphs and portions of the statement were made by him.[^75] In my judgment, it is clear that the accused when he later claimed that other parts of the statement are not in fact his and suggesting that these parts were fabricated by SSGT Izree, was clearly engaging in self-serving testimony to discredit SSGT Izree.
+
+53     I had also carefully observed the accused when he gave his evidence during the ancillary hearing. It was my clear impression and I readily came to the firm conclusion that the accused was, during the time when he was giving his evidence, quite inconsistent in the answers he gave in his evidence. Indeed, I found at times that he was being quite evasive and was engaging in a selective remembering of events. He also did not strike me as being credible in giving his evidence during the ancillary hearing.
+
+54     In this regard, I had observed with care the accused while he was giving his evidence. He was prone to embellishing his evidence and feigning ignorance or confusion when it suited his purpose, which was to engage in obfuscation. I give now an example[^76] of the accused’s clear and persistent preference to be evasive and shifting in his answers in this particular exchange below during the ancillary hearing upon being cross-examined by the DPP–
+
+>   
+| 
+
+Court:
+
+ | 
+
+_Witness, I think you need to answer the question._
+
+ |
+| 
+
+_A_
+
+ | 
+
+**_Sorry, the question is again what?_**
+
+ |
+| 
+
+_Q_
+
+ | 
+
+_Yes. The question is that---sorry, my question was that, apart from telling the doctor you had pain in your groin, you didn’t tell him that you were unresponsive or that you were hallucinating in the lock-up, correct?_
+
+ |
+| 
+
+_A_
+
+ | 
+
+_Uh, no, Your Honour._ **_The---uh, actually SSI Osman should have informed him because I myself was not in a proper state of mind_** _._
+
+ |
+| 
+
+_Q_
+
+ | 
+
+_And you also didn’t tell the doctor you had any problems with giving urine, correct?_
+
+ |
+| 
+
+_A_
+
+ | 
+
+**_Uh, he never asked me anything about that._**
+
+ |
+| 
+
+_Q_
+
+ | 
+
+_Okay. At this point in time, you knew that you were supposed to be giving a sample of your urine to the officers, correct?_
+
+ |
+| 
+
+_A_
+
+ | 
+
+**_Say again?_**
+
+ |
+| 
+
+_Q_
+
+ | 
+
+_At this point in time you knew that you were required to provide a sample of your urine to the officers?_
+
+ |
+| 
+
+_A_
+
+ | 
+
+_Uh, yes, Your Honour._
+
+ |
+| 
+
+_Q_
+
+ | 
+
+_And you knew that Dr. Raymond Lim was there to assess your fitness to pass urine?_
+
+ |
+| 
+
+_A_
+
+ | 
+
+**_No. Actually, Your Honour, I thought he was there to help me but he didn’t help me at all._**
+
+ |
+| 
+
+_Q_
+
+ | 
+
+_In any event, given that you knew that you would likely face a charge if you did not give a urine sample,_ _wouldn’t you agree that you would have told the doctor if you had any issues with giving urine?_
+
+ |
+| 
+
+_A_
+
+ | 
+
+**_I told---uh, Your Honour, I told the doctor to help me with regards of my pain._** _The urine issue wasn’t brought up. For me, at that point of time, a matter of standing up also was a problem_, **_Your Honour. I couldn’t even stand up and I couldn’t control the pain in my leg and my head_**, _the---the---the thoughts in my head won’t stop, Your Honour. So, when he come and asked me this thing, I never concentrate on the urine. I concentrate on my pain and my head, the things that is going on in my head, the images, to stop the thing. That’s all only. I never concentrate on the urine part.”_
+
+ |
+
+  
+  
+
+55     In a further exchange with the DPP, the accused again showed his evasive nature with inconsistent answers that veered from the illogical to the incredulous. I reproduce the exchange below –
+
+> Q     _So, my question really is, would you agree that you being able to tell the doctor all these things---_
+
+> _A_      _Mmm._
+
+> _Q_      _that was wrong with you,_ _all these things sounds like a person who was perfectly lucid and of sound mind at that time?_
+
+> _A_      **_Uh, yes, Your Honour. It may sound that way but it’s not the case because when I was hallucinating earlier on my previous case, I wa---I managed to get certain facts correct and certain facts wrong. It’s not a 100% thing when you hallucinate. It’s---you---uh, you know sometimes you know where you are but you don’t know certain things._** _Right. You---you can---I can hear your voice now, Your Honour. But at the same time, I can hear other voices as well. It’s not a---it’s not a complete lucid thing._ **_This hallucination is very complicated, Your Honour._**
+
+56     It is abundantly clear from the two exchanges above that the accused was only concerned with his other ailments. He did not mention to Dr Lim that he was hallucinating. It is significant to note that as testified by both SSGT Izree and the accused himself, Dr Lim had actually examined the accused some 3 hours earlier at about 2.00pm. As such, to claim during the ancillary hearing that he was hallucinating a mere 3 hours later during the statement recording and was not in the proper frame of mind to give his statement, is clearly a desperate afterthought with the sole purpose of seeking to impugn his own statement. I therefore rejected this self-serving assertion by the accused that he was hallucinating or “intoxicated” at the time his long statement was recorded because of the effects of him having consumed Etizolam prior to his arrest at Mustafa Centre earlier in the morning of 22 September 2017.
+
+57     As such, having considered both the testimony of the Prosecution witnesses and also the accused’s assertions during his testimony, I was satisfied that the statement P5i made by the accused, was made without any threat, inducement or promise meted out to him or was in any other way made involuntarily. I therefore find that the statement was made voluntarily and proceeded to admit it into evidence as P5.
+
+### Resumption of Main Trial
+
+#### (ii)   Cautioned statement under s 23 of the CPC
+
+58     On resumption of the main trial, PW8 SSSGT Nurliyana was called as a Prosecution witness. She testified that she eventually served the charge on the accused and recorded his cautioned statement under s 23 of the CPC at about 9.45 pm on 22 September 2017 \[Exhibit D3\]. By this time, it was nearing 12 hours from the time the accused was first requested to provide his urine within a 4-hour window by SSI Osman. SSGT Nurliyana testified that prior to serving the charge on the accused, she informed him that he could still give his urine sample if he wished to, and the accused was aware that he continued to have the opportunity to give his urine at this point in time.[^77] SSGT Nurliyana confirmed that if the accused had done so, she would have collected his urine and she would not have charged him for the offence under section 31(2) of the MDA.[^78]
+
+59     SSGT Nurliyana also testified that the accused did not provide his urine even by this time. She then proceeded to serve the charge on the accused at 9.45 pm. In his cautioned statement, the accused stated “_I cannot give urine because I really do not have the urge to urine. I really do not know why I cannot urine but maybe I had went for an operation for my vein burst at my pelvis area around March/April 217 at Ng Teng Fong Hospital. I did not purposely not provide my urine to the officers._”[^79] The accused made no mention whatsoever of being under the influence of Etizolam or of him being under any form of unconsciousness.
+
+## The Defence Case
+
+60     I have noted earlier that the accused was unrepresented for a major part of the trial. Under these circumstances, the defence of the accused to the charge of failing to give his urine for a urine test without reasonable excuse was not easy to understand or follow. Accordingly, I had in the exercise of my discretion, given the accused considerable latitude to freely express himself. In essence, it would appear that the accused’s defence to the charge was as follows:
+
+> a.     the accused claimed that he had been charged “unfairly” as he was charged prematurely and was not given the full amount of time to give his urine.[^80]
+
+> b.     the accused also claimed that he had been physically unable to provide a specimen of his urine despite having tried his best to do so.[^81]
+
+61     As regards his claim at paragraph (a) above, the accused claimed that he had been unconscious in the lockup and had only regained consciousness at about 12.20 pm, when he was first able to acknowledge SSI Osman’s warning to him.[^82] According to the accused, the “timing should not be started when unconscious.” The accused also claimed that SSI Osman should have only started the warnings at 12.20 pm, when he was awake.[^83] The accused also argued that he ought to have been allowed six hours to provide his urine instead of four.[^84] In support of his assertion, the accused cited the experience of fellow inmates in prison who had been given 6 hours,[^85] and also referred to the top entry on p 34 of the station diary \[Exhibit D1\].
+
+62     Concerning his claim at paragraph (b) above, the accused stated that he had been unable to give his urine because he was dehydrated. He claimed that the officers did not give him one cup of water every half an hour as directed by the doctor. He also stated that he remembered the officers having only given him three cups of water.[^86] As a result, _“…. tank was empty because ….. didn’t drink any water, and….. dehydrated”_.[^87]
+
+63     As for the accused’s long statement that was ruled to be admissible in evidence, he still claimed that the statement had not been recorded from him voluntarily, and that the information stated was not accurate.[^88] The accused claimed that he had slipped in and out of consciousness during the statement recording process.[^89] The accused also testified and did confirm that he had, in the brief windows of consciousness he had experienced, provided some of the information recorded in his statement, without any threat, inducement or promise to him.[^90] The accused further confirmed that he had signed on the statement when requested to do so by SSGT Izree.[^91]
+
+## Submissions by Prosecution
+
+64     The Prosecution submitted that on the basis of the oral evidence from the lockup officers as well as the contemporaneous documentation in the station diary entries, it was clear that _SSI Osman_ had required the accused to provide a specimen of his urine _within four hours of 9.50am_. It was further submitted that the accused did not dispute these elements of the charge. The sole question before the court is whether the accused had a “reasonable excuse” for his failure to comply with SSI Osman’s direction. It was submitted that the accused’s response is that he did have a reasonable excuse because he had been physically unable to give a urine sample in the “unfairly” limited amount of time he was given before he was charged for the offence.
+
+65     It was also submitted that the accused’s defence was nothing more than a bare assertion and must be rejected. The Prosecution also submitted that it had proved beyond a reasonable doubt that, contrary to the claims of the accused, the accused was in fact fit and able to provide a urine sample in the window of time he had been afforded. The accused therefore had no reasonable excuse for failing to do so.[^92]
+
+## Submissions of Defence
+
+#### Multiple submissions to introduce new evidence
+
+66     As stated earlier at paragraph \[60\] above, the defence of the accused when he was unrepresented was essentially that he was charged unfairly, as he was not given sufficient time to pass urine and also that he was physically unable to pass urine as he was unconscious.
+
+67     As mentioned in an earlier part of this judgment at paragraphs \[10\] to \[11\], the accused had engaged new Counsel to come on board after the end of the trial and after the court had already set down timelines for closing submissions by parties. The trial had concluded on 14 November 2019. The court had set timelines for closing submissions to be filed and exchanged by 30 December 2019. Replies were to be filed by 23 January 2020. However, on 26 December 2019, new Counsel comprising Mr Hassan Almenoar and Ms Diana Foo came on board to represent the accused. Counsel then asked for an adjournment as they had just been briefed. The court gave an adjournment for closing submissions to be filed by 23 January 2020 and replies to be exchanged by 6 February 2020. The case was fixed for oral submissions and verdict on 20 February 2020. Subsequently, the case was adjourned for verdict on 5 March 2020.
+
+68     The first set of submissions by Counsel Mr Hassan Almenoar was dated 23 Jan 2020. In this Closing submissions,[^93] it was essentially argued that the taking of the accused’s urine specimen was unfair as it should be determined on a case-by-case basis and not on a fixed protocol. Also, the accused was suffering from the effects of the Etizolam he had consumed earlier and therefore was “unconscious” and intoxicated most of the time when he was asked to give his urine specimen. He was also dehydrated and therefore unable to provide his urine specimen. In the Reply submissions [^94] Counsel also submitted that PW6 Dr Lim’s treatment plan to give the accused a cup of water every 5 minutes was not followed.[^95] Counsel also submitted that the first 5 warnings given to the accused were invalid and that his 6 hour clock which started at 12.20 pm, ended prematurely at 4.00pm.[^96]
+
+68     On 5 March 2020, the case was fixed for the court to deliver its verdict. Counsel however applied to admit a Further Reply [^97] and also to tender new evidence before the court. The Prosecution objected on the basis that the trial had already concluded and there was no leave granted by the court to admit the new evidence. Further, it was also submitted that this was a backdoor attempt to introduce new evidence after the trial had concluded. The new evidence to be admitted was also available during the trial and should not therefore be admitted.[^98]
+
+69     At the outset, I should state that Counsel did _not_ obtain leave of the court to file further submissions. Further, to have the submissions actually placed before the court was improper. To Counsel’s credit, when this was pointed out by the court, Counsel immediately withdrew his Further Reply and the application to admit additional new evidence. I therefore ruled against the application to admit fresh evidence. [^99] As such, I need say no more on this matter. However, I should state in passing that the additional new evidence sought to be admitted by Counsel related to 2 letters that were in the possession of the accused during the trial.
+
+70     It would be apposite here to observe that that the requirement of non-availability of the new evidence as enunciated in _Ladd v Marshall_ and adopted in criminal appeals by the High Court in _Soh Meiyun v Public Prosecutor <span class="citation">\[2014\] 3 SLR 299</span>_ and also endorsed by the Court of Appeal recently in a winding-up matter in the case of _Anan Group (Singapore) Pte Ltd v VTB Bank (Public Joint Stock Co) <span class="citation">\[2019\] SGCA 41</span>_, was expressed by the CA to be “less paramount’ than the other two conditions of relevance and reliability. Instead, the issue of the admissibility of the fresh evidence ought to be considered _contextually_ in criminal proceedings. Taking such a contextual approach, I would have in any case declined to admit the 2 letters into evidence, as this would have entailed recalling the accused to admit the 2 letters (even assuming they were relevant and reliable) and thereby re-opening a trial that had already concluded. This would have been a wholly improper process and not in the interests of justice.
+
+71     In another unusual development, Counsel submitted a Further Closing Submission on 12 March 2020.[^100] In this submission, it was stated that the accused was suffering from the double negative effects of the Etizolam pills and his dehydration which affected his physical and mental condition the day of his arrest. As such, the fact that he only took sips of water when offered a Styrofoam cup of water should not be held against him.[^101] Counsel also attached Medical literature taken off the Internet in support of his submissions. I will deal with this Further Closing Submission in a later part of this judgment.
+
+72     For completeness, I should add that the DPP had also objected to this Further Closing Submission. At this stage, Counsel explained that the accused was unrepresented during much of his trial and therefore felt constrained to put forward the best possible case in his defence even at this late stage. I informed the DPP that there was some force in Counsel’s argument. I thus informed the DPP that I was minded to let Counsel make his further closing submissions in the exercise of my discretion. However, no _new evi_dence would be allowed to be admitted for the same reasons given by the court at the earlier hearing on 5 March 2020 as indicated at paragraphs \[68\] to \[70\] above. The DPP then stated that she would abide by the court’s ruling on further submissions and would not be objecting to this further closing submission by Counsel. I thanked the DPP for her position and assured her that I would let her make her oral submissions in reply as a matter of procedural fairness.
+
+## Findings and reasons for Court’s decision
+
+#### A.    The offence under s 31(2) of the MDA
+
+73     The accused was charged under section 31 of the MDA and which states:
+
+> **31\. – (1**)    Any officer of the Bureau, immigration officer or police officer not below the rank of sergeant may, if he reasonably suspects any person to have committed an offence under section 8(_b_), require that person to provide a specimen of his urine for tests to be conducted under this section.
+
+> (2)    A person who fails, without reasonable excuse, to provide a specimen of his urine within such time as may be required by any of the officers referred to in subsection (1) shall be guilty of an offence.
+
+### Sole legal issue for the court
+
+74     It is undisputed that the accused had failed to provide his urine specimen for testing within the time given to him by the officers to provide his urine specimen.
+
+75     It follows therefore that the sole legal issue before this court was whether the accused had any _reasonable excuse_ for failing to provide his urine specimen for testing within the time given to him by the officers to provide his urine specimen.
+
+76     The accused had denied the charge the charge against him. He had called no other defence witnesses. It was therefore a case of the testimony of the Prosecution witnesses against the words of the accused. Under these circumstances, it is incumbent on the Court to evaluate whether the Prosecution witnesses’ evidence is more credible than that of the accused. The Court also has to look for internal and external consistencies and inconsistencies in their respective evidence. Here, I do not propose to go into the entire evidence given by all the Prosecution witnesses. Nor do I propose to deal with all the arguments raised by the Defence – but only the key areas of evidence.
+
+### B.   Background issues before the Court
+
+77     Let me therefore deal with the sole legal issue for the court by examining this legal issue in the context of the following 8 evidential areas of this case.
+
+> (i)     The accused had failed to provide his urine specimen within the time required;
+
+> (ii)     The accused had not provided his urine specimen for a urine test at the time he was charged ;
+
+> (iii)     The accused was conscious when he was given the first warning;
+
+> (iv)     Credibility of the witnesses;
+
+> (v)     The accused’s statements made to the Police;
+
+> (vi)     The medical condition of the accused;
+
+> (vii)     Whether the accused had a reasonable excuse in not giving his urine specimen.
+
+> (viii)    The overall credibility of the accused
+
+78     Let me deal with the first of these 7 evidential areas.
+
+#### (i)   The accused had failed to provide his urine specimen within the time required
+
+79     The legal provision is abundantly clear. Section 31(2) of the MDA provides that a person must give his urine sample “within such time as required by any of the officers referred to in subsection (1)”. What is also clear is that the provision does not mandate a specific amount of time that a suspect must be given to provide a urine sample. In the present case, it is undisputed that SSI Osman had given the accused four hours from the first warning at 9.50 am. The accused therefore had to provide his urine specimen by 1.50 pm. The accused however argues that SSI Osman was wrong to have (i) given him four hours; and (ii) started the time running at 9.50 am. Counsel had also submitted that the first 5 warnings given to the accused were invalid and that his 6 hour clock which started at 12.20 pm, ended prematurely at 4.00pm.[^102]
+
+80     With respect, I am unable to follow this argument. SSI Osman had given clear evidence that the protocol as of 22 September 2017 was to administer warnings to the subject every half an hour. At the same time, the subject was also to be offered one cup full of water to drink. In line with this protocol, SSI Osman issued the next warning to the accused at 10.20 am, and offered him one cup full of water to drink. The accused again did not respond to SSI Osaman’s warning or append his signature on the station diary, and he also did not drink any of the water offered to him.
+
+81     Here, I should address the accused’s defence that he was unconscious at this time when SSI Osman gave these warnings. In this regard, I give below the answers provided by SSI Osman during his re-examination by the DPP. In particular, SSI Osman was asked specifically to explain how the accused could have been both “unresponsive” but moving at the same time. The relevant parts of the NE transcript are reproduced below:
+
+> (NEs Day 3 at page 6, line 20 to page 7, line 15)
+
+> _“Q_      _Alright. Moving on. You also mentioned in your Examination-in-Chief that the subject was verbally unresponsive when you administered him the warnings to give his urine. Do you remember that?_
+
+> _A_      _Yes, Your Honour._
+
+> _Q_      _Apart from being verbally unresponsive, did the subject have any other kind of non-verbal response or reaction to the warnings?_
+
+> _A_      _I cannot recall, Your Honour._
+
+> _Q_      _You did mention that you were able to tell that the subject was conscious because he was moving. Do you recall that?_
+
+> _A_      _Yes, Your Honour._
+
+> _Q_      _Specifically, that his head and body had motion?_
+
+> _A_      _Correct, Your Honour._
+
+> _Q_      _But yet in the station diary it’s recorded that the subject was unresponsive in the earlier parts, that is from 9:50am all the way until 11:50am._ _So can you just explain to us how the subject can be both unresponsive but moving at the same time?_
+
+> _A_      **_Unresponsive meaning he does not---does not utter through verbal command, Your Honour._**
+
+> _Q_      _And moving meaning that he has physical motion?_
+
+> _A_      **_Yes, Your Hon_** _our._
+
+> _Q_      _So to recap, when you use the phrase “Breathing but unresponsive” in the station diary entry, what exactly would this mean?_
+
+> _A_      **_He is breathing. Likelihood that he may be semi-sleeping, Your Honour.”_**
+
+82     Further, SSI Osman went on to clarify that this was similarly the case when he issued the next 3 warnings to the accused at 10.50 am, 11.20 am, and 11.50 am. SSI Osman also explained that the phrase “PIC is unable to sign and drink” which appeared in the corresponding station diary entries number 19-23 simply meant that the accused did not respond to instructions, possibly because he was half asleep.
+
+83     In light of the above explanation, I find that the accused may not have been totally awake, but he was certainly not unconscious in the sense that he was unaware of and unable to respond to his environment, especially the warnings given by SSI Osman and the cup of water offered to the accused.
+
+84     Be that as it may, this argument of the accused is spurious and wholly unmeritorious. Even if the court were to accept that the warnings given by SSI Osman from 9.50am to 12.20pm, were not “valid” because he was unconscious during this period ( which is not the case as the court has found at paragraph 82 above), the undisputed and glaring fact is that almost 12 hours later when PW8 SSSGT Nurliyana eventually served the charge on the accused and recorded his cautioned statement at about 9.45 pm on 22 September 2017 \[ see Exhibit D3 \] , the accused had still _not_ provided his urine specimen for a urine test to be conducted. By this time, it was nearing a full 12 hours from the time the accused was first requested to provide his urine within a 4-hour window by SSI Osman at 9.50am.
+
+85     Furthermore, the accused was by no means disadvantaged in any way in his not being legally represented. He is extremely articulate and well capable of understanding a question posed to him and equally capable of fudging his answer or engaging in extreme obfuscation when he knows that he is in a tight spot. He displayed this mental deftness when he had put to SSI Osman in cross-examination, that he could have provided his urine by 6.20 pm, and even by 4.20 pm, _if he had been allowed the full six or four hours_ from the first “valid” warning at 12.20 pm to provide his urine.[^103] At its best, such an assertion was both deceptive and duplicitous. At worst, the accused had displayed an overwhelming lack of logic and common sense, as he had made the fatal mistake of failing to recognize that he had not even provided his urine sample by either 4.20 pm or 6.20 pm and did not do so even by 9.45 pm.
+
+86     Indeed, the accused had already displayed his tendency and preference to confuse others or give the appearance of being confused himself, when he had first testified during the ancillary hearing – see paragraphs \[54\] to \[56\] above. As such, I find unhesitatingly that the accused had not even provided his urine sample by either 4.20 pm or 6.20 pm and did not do so even by 9.45 pm on the day when he was charged for failing to give his urine specimen. I therefore reject both the accused’s own argument raised in his cross-examination of SSI Osman and also his Counsel’s similar argument in closing submissions that “_If the accused were given the full 6 hours to give his urine for drug testing, nothing would have prevented him from doing so_.” [^104] and the further argument that “_He is facing this charge only because his allocated time for him to procure his urine for drug testing ended prematurely by 2 hours and 20 mins_….”.[^105] Nothing could be further from the true state of the facts as at 9.45pm on 22 September 2017. Accordingly, I find that the accused had failed to provide his urine specimen within the prescribed time of 4 hours (or even 6 hours) required and even as late as some 12 hours later.
+
+#### (ii)   The accused had not provided his urine specimen for a urine test even at the time he was charged
+
+87     I turn next to the cautioned statement of the accused, recorded by PW8 SSGT Nurlyana. She had testified that she had served the Charge on the accused and had recorded his cautioned Statement at about 9.45PM on 22 Sept 2017 (Exhibit D3). By now, it was almost 12 hours since the accused had been requested by SSI Osman to provide his urine within the 4 hour window from 9.50AM to 12.20PM. What is significant from SSGT Nurlyana’s evidence is that she had informed the accused before serving the Charge on him, that he could still provide his urine specimen at that time if he had so wanted. However, the accused did not avail himself of this opportunity. Further, the accused also made no mention whatsoever of being under the influence of Etizolam or of him being under any form of unconsciousness. SSGT Nurlyana had also confirmed in her testimony that if the accused had indicated he wanted to give his urine then, his urine would have been collected and she would not have charged him at all. Why did the accused not do so? He has given no credible explanation apart from indulging in word play, being evasive in his answers and disregarding the evidence against him. Indeed, one would think after almost 12 hours, he would have grabbed this last opportunity to provide his urine specimen to avoid being charged. This was especially so if, as he had testified, he had not consumed any controlled drugs but had only consumed Etizolam prior to being arrested. But for reasons known only to himself, the accused did not want to provide his urine specimen. In assessing his overall behaviour and all the surrounding circumstances, I am of the view that the accused was clearly without a reasonable excuse in not providing his urine specimen even at this eleventh hour.
+
+#### (iii)   The accused was conscious when he was given the first warning
+
+88     At paragraphs \[80\] to \[82\], I have already set out the evidence as regards the accused’s allegation that he was unconscious at the time the first warning was given by SSI Osman. SSI Osman had clarified that the accused may have been “semi-sleeping.” I have also noted earlier that SSI Osman had further clarified that this was similarly the case when he issued the next 3 warnings to the accused at 10.50 am, 11.20 am, and 11.50 am. SSI Osman also explained that the phrase “PIC is unable to sign and drink” which appeared in the corresponding station diary entries number 19-23 simply meant that the accused did not respond to instructions, possibly because he was half asleep.
+
+#### (iv)   Credibility of the witnesses
+
+89     I found both SSI Osman, SSI Johnson Leong and SSGT Nurlyana to be frank and consistent in their evidence. They had no motive to frame the accused. Further, their evidence was given in a consistent and candid manner. This was not the case with the accused. He was an unconvincing witness, prone to exaggeration and given to embellishing his evidence at every available opportunity. I have already given an example of the accused’s poor performance as a credible witness at paragraphs \[54\] to \[56\] when he testified during the ancillary hearing. I will give further example of his shifting testimony and evasiveness in a later part of this judgment. In the round, the accused was simply not a credible witness.
+
+#### (v)   The accused’s statements made to the Police
+
+90     I turn next to the accused’s long statement \[P5\] recorded under section 22 of the CPC, which was admitted into evidence after an ancillary hearing. I note at paragraph 5 of the long statement, the accused had stated that he was aware that SSSI Osman was offering him water to drink and inviting him to give his urine. However, the accused instead of giving his urine replied “ _I told them wait first and I sleep._” He was then told to sign on the book but refused to do so. Here, I find that the accused’s own statement corroborated the evidence of SSI Osman that he had given the accused a cup of water to drink but that the accused had refused to drink. At the same time, to ask SSI Osman to wait because he was tired and wanted to sleep is a strange reason for refusing to drink a cup of water. _A for_tiori, especially since the accused is now claiming during the trial, that he was severely dehydrated while in the lockup. To claim dehydration and yet not want to drink water that is offered, is in my judgment, illogical, inconsistent and unreasonable behaviour. It also undermines the credibility of the evidence of the accused and the reliability of his testimony in court. Therefore, I find that even at this point, the accused had no reasonable excuse for his refusal to drink the cup of water offered by SSSI Osman.
+
+90     Further, at paragraph 6 of the long statement, the accused stated that he wanted to give his urine but he felt pressure when he was brought to the lock up. He claimed that he had tried but he “just cannot urine”. At the same time, the accused then went on to admit at paragraphs 7 and 8 that he had consumed “Erimin” tablets and “chase\[d\] Panas” (street name for heroin/diamorphine) on the morning of 22 September 2017, just prior to his arrest. This is a significant admission made by the accused, just after he had claimed that he wanted to give urine but at the same time, feeling “pressure” when he was brought to the lockup. This again is illogical. If the accused had truly wanted give his urine, any pressure at the same time to not give his urine must be self-induced for reasons best known to himself. However, the reason for this strange reluctance was given away by the accused himself at paragraph 7 of his long statement.
+
+#### (vi)   The medical condition of the accused
+
+91     PW6 Dr Raymond Lim’s evidence is vital. It was also largely unchallenged by the accused. In essence, Dr Lim testified that he had personally examined the accused in the Lockup. He also testified that he had been asked by the lockup officers to examine the accused and ascertain his fitness to pass urine and to provide a sample of his urine for testing. This is important to note. Dr Lim further testified that the accused during his medical examination did not inform him that he had any difficulties with hydration or passing urine. This was even though Dr Lim had specifically asked the accused about his ability to pass urine. Further, the accused also made no mention of any unconsciousness or any other kind of discomfort. In fact, the accused had actually confirmed that he was not in pain or discomfort. At this juncture, I note also that the accused had scored a _full_ 15 out of 15 on the Glasgow Coma Scale (GCS). This means that his eyes were open, he was able to speak and he was compos mentis and of sound mind. Dr Lim further testified that the accused was lucid, responsive and coherent.
+
+92     To be clear, Dr Lim did notice that his tongue was dry and indicative of dehydration. Therefore a hydration plan of one cup of water every 5 minutes was prescribed for the accused. At the same time, Dr Lim confirmed that the accused did not have any medical issues which would prevent him from consuming water.
+
+93     I note also that Dr Lim was clear in stating that in the lockup, if there was any indication of a medical problem, the accused would be referred to the Hospital without question. Strangely and contrary to his testimony in court, the accused _did not_ tell Dr Lim that he had a problem passing urine.
+
+#### (vii)   Whether the accused had a reasonable excuse in not giving his urine specimen
+
+94     I proceed here to examine the accused’s reasons for not giving his urine specimen. In particular, a careful scrutiny will be given to these avowed reasons to examine if these reasons could be said to constitute a _reasonable excuse_ for the accused not providing his urine specimen.
+
+95     As stated earlier at paragraph \[60\] above, the accused’s early defence before Counsel came on board was as follows –
+
+> a.     the accused claimed that he had been charged “unfairly” as he was charged prematurely and was not given the full amount of time to give his urine.
+
+> b.     the accused also claimed that he had been physically unable to provide a specimen of his urine despite having tried his best to do so.
+
+96     The defence of the accused as above was elaborated and further set out at paragraphs \[61\] to \[62\].
+
+97     I now proceed to examine the accused’s defence and the veracity of his assertions and also the later written submissions put up by Counsel who had come on board after the trial had concluded. Concerning the assertions of the accused at paragraph 95 (a) and (b) above, I have already dealt with the veracity of these claims in paragraphs \[78\] to \[93\] above.
+
+98     I deal now with Counsel’s Further Closing Submissions.[^106] As stated at paragraph \[71\] above, Counsel had submitted that the accused was suffering from the double negative effects of the Etizolam pills and his dehydration which affected his physical and mental condition on the day of his arrest.[^107] Further, the fact that he only took sips of water when offered a Styrofoam cup of water should not be held against him. Counsel had also attached Medical literature taken off the Internet and sought to admit this in support of his submissions. Counsel also sought to make submissions on the effect of dehydration on the ability to pass urine.
+
+99     I have already considered this so called dehydration defence at paragraph \[91\] above. I note that Dr Lim had also stated that the accused during his medical examination did not inform him that he had any difficulties with hydration or passing urine. This was even though Dr Lim had specifically asked the accused about his ability to pass urine. Further, the accused had also made no mention of any unconsciousness or any other kind of discomfort.
+
+100    As regards the Medical literature taken off the Internet and sought to be admitted as evidence in support of his submissions, I had informed Counsel that such medical literature could not be properly admitted as evidence. Such Internet medical information had no weight unless it had been properly admitted by a defence medical expert. This was also the case with Counsel’s attempt to make a medical diagnosis and speculate on the effect of dehydration on the accused’s ability to pass urine. I therefore rejected this submission by Counsel.
+
+101    Counsel had also submitted that there was no evidence that Dr Lim’s instructions to re-hydrate the accused with a cup of water every 5 minutes was carried out by the CNB officers.[^108] The Prosecution had also conceded this point during oral submissions.[^109] At the same time, I note that this was not put to the Prosecution witnesses by the accused during cross-examination that Dr Lim’s instructions that the accused be given a cup of water had not been followed. This is the basis of the rule in _Browne v Dunn_ that as a matter of procedural fairness, that if a witness gives testimony that is inconsistent with what the opposing party wants to lead as evidence, the opposing party must raise the contention with that witness while he is on the stand during cross-examination. This was not done by the accused during the trial. As such, Counsel is unable to rely on any contrary evidence at this stage of closing submissions.
+
+102    Be that as it may, the evidence clearly shows that the accused was given the warnings and offered several cups of water during the course of the 12 hour period from 9.50am to 9.45 pm when he was finally charged for not providing his urine specimen. In particular, the evidence shows that the accused was offered cups of water at 3.00pm. 3.30pm and 4.00pm. This period was directly after he had been examined by PW6 Dr Raymond Lim. Further, Dr Lim had also testified that during his medical examination, the accused did not inform him that he had any difficulties with hydration or passing urine. This was even though Dr Lim had specifically asked the accused about his ability to pass urine. There was also undisputed evidence as indicated in the Station Diary Exhibit P2. Exhibit P2 disclosed that at 3.00pm, the accused was administered a warning and he also took 2 sips of water. Again at 3.30pm, the accused was administered another warning and he also took 2 sips of water. Again at 4.00pm, the accused was administered another warning and he also again took 2 sips of water. These warnings and the taking of a total of 6 sips of water clearly indicated that the accused was able to consume water, but chose to only take sips instead of drinking half the cup or the entire cup. I find that this strange action of the accused was not consistent with the behaviour of a person who was either dehydrated or had claimed that he had remained willing at all times to provide his urine specimen. Counsel’s argument is therefore without merit as the accused’s own actions when he was given cups of water to drink, showed that he was determined to only take sips of water each time. I find the irresistible inference under these circumstances, is that the accused deliberately chose not to hydrate himself. This was solely because he would then not be able to have the urge to pass motion and thereby have to relieve himself by passing his urine which would then be collected by the officers. I therefore reject Counsel’s argument that the accused was not able to provide his urine specimen only because Dr Lim’s instructions to give the accused a cup of water every 5 minutes to hydrate the accused was not carried out.
+
+103    To be fair to Counsel, I should now mention that there was one further argument made by Counsel which was expressed in a more nuanced manner. Counsel had submitted that just because Dr Lim had assessed the accused to be able to pass urine did not mean that he was _able_ to do so. This was because the combined “double negative effects” of Etizolam pills taken earlier by the accused and dehydration on his physical and mental condition on the day of his arrest, was such that the fact that he only took “sips” when offered a Styrofoam cup full of water should not be held against him.[^110] I find this to be a disingenuous argument. First, I had earlier at paragraph \[102\] above found that the irresistible inference under the circumstances in which the accused refused to drink a full cup of water, demonstrably showed that the accused deliberately chose not to hydrate himself. Second, there was no admitted medical or expert evidence before the court on the medical effects of Etizolam and dehydration. This was the additional new evidence sought to be introduced by Counsel by recalling the accused to admit the medical literature into evidence before the court. This attempt to introduce the medical literature into evidence was therefore rejected by the court for similar reasons as that given with regard to the earlier application by Counsel to admit new evidence at paragraphs \[68\] – \[70\] above.
+
+#### (viii)   The credibility of the accused
+
+104    This was a critical area for the accused to explain all his cumulative actions in the lockup prior to being finally charged for not providing his urine specimen. It was especially important for the accused as his defence to the charge, to be able to establish that he had a _reasonable excuse_ for not providing his urine specimen for a urine test when required to do so by the officers.
+
+105    Earlier when dealing with the accused’s testimony during the ancillary hearing to determine the voluntariness of the accused’s long statement, I had occasion to observe the accused’s demeanour and assess his credibility as a witness and to test the veracity of his account during the ancillary hearing – see paragraphs \[53\] – \[55\].
+
+106    It was therefore disappointing to note that when the main trial had resumed, the accused continued with his customary obfuscation throughout much of his cross-examination by the DPP. I provide below some examples to bring out this aspect of his testimony into sharp focus so as to assess his overall credibility as a witness. One example is his evidence when he was questioned about his medical examination by PW6 Dr Raymond Lim -
+
+> _Q_      _Okay. So, according to you, you were lying there unconscious, unable to move, et cetera, but yet, the first thing you thought to tell the doctor about is all this history about your intravenous drug abuse and right lower limb aneurysm, and you did not mention the fact that you were unconscious._
+
+> _A_      _The---When I was there, the lock-up saw---the---the---the doctor saw my condition, Your Honour._ **_He should have known and the lock-up staff should have told---told the doctor everything, Your Honour._**
+
+> _Q_      _You knew this guy was a doctor, correct?_
+
+> _A_      **_No, at first, I don’t even know_** _. Then after that, when I saw the medical report, when I saw this thing, when I was in prison, and then when I recall---recall back---recall back after, uh, months of being inside the prison, uh, that is the part when the thing click everything._ **_At first, I don’t even---I---I can’t even, uh, get the picture of who he is also. And I picture an older guy, not---not---not this guy, Your Honour._**
+
+> _Q_      _Okay. My question was, at that point of the medical assessment---_
+
+> _A_      _Uh---_
+
+> _Q_      _you knew he was the doctor._
+
+> _A_      **_Uh, I’m not so sure, Your Honour. I---I---yah_** _._
+
+> _Q_      _I put it to you---_
+
+> _A_      _But I didn’t---_
+
+> _Q_      _that you must have known he was the doctor, if not, you wouldn’t have told him all your history about your---your medical issues like your right---right lower limbs pseudoaneurysm._
+
+> _A_      **_Yah, Your Honour, the DPP has a point, Your Honour. It’s also true, but I also say, uh, that thing is what, I’m not so sure, Your Honour._**
+
+> _Q_      _And I put it to you that yet, despite the fact you knew he was a doctor, you did not mention anything about being unconscious in the lock-up._
+
+> _A_      **_Uh, Your Honour, uh, SSI Osman is the senior station inspector, he is the one who supposed to inform the doctor of my condition_** _. Instead, he never do anything, he---he only informed the doctor at 12 plus to come and see whether I was fit for urine and fit for detention---_
+
+> _Q_      _Okay---_
+
+> _A_      _with no---_
+
+> _Q_      _Mr. Lopez,---_
+
+> _A_      _interest at all for my condition, no interest at all for my welfare, right or not? And when I thought, ah, that everything will be taken off---taken care of me, uh, nobody take care of me inside the police station. And now, it seems that I must tell the doctor? They saw me when I was unconscious from 9:50 to 12:20, nobody helped me, nobody did anything for me._ **_And now, the DPP is saying I must inform? They treat me like an animal inside the lock-up. You know, handcuffed to the wall when I’m unconscious. Nobody helped me, but now, I must inform?_**
+
+> _Q_      _Okay, Mr. Lopez, I’m not asking you whether SSI Osman informed or whether you are supposed to inform. My question is just simply, did you or did you not inform the doctor?_
+
+> _A_      **_It’s the job of the SSI, station senior inspector to inform---_**
+
+> _Q_      _Ma---_
+
+> _A_      _the doctor of the PIC’s condition._ **_It’s the job of the senior station inspector of the PIC’s security and welfare. It’s not my job, it’s his job, and he neglected his job._**
+
+> _Q_      _Okay, Mr. Lopez, I just ask you one last time, did you or did you not inform the doctor about being unconscious in the lock-up?_
+
+> _A_      **_It’s SSI Osman’s job to inform the doctor._**
+
+> _Q_      _Okay._
+
+> _A_      **_He did not take care of my welfare when I was in the custody, he did not inform---even inform the doctor that I was unconscious. What he did was, he called a doctor to check whether I was fit for statement---eh, fit for---fit for, uh, urine and fit for detention. That’s all. Nobody did---nobody cared for me when I was in the lock-up as they are saying here and pretending while in the ste---in the stand._**
+
+> _Q_      _Okay. That was not my question, but I’ll move on. Did you inform the doctor that you had any issues with passing urine?_
+
+> _A_      **_I---I can’t remember, Your Honou_** _r._
+
+> _Q_      _You can’t remember?_
+
+> _A_      **_I can’t remember._**
+
+107    The above answers by the accused are remarkable for being illogical, petulant, descending into outright defiance and then desperately grabbing at the ultimate non-answer of _“I can’t remember.”_
+
+108    I move on to a second example of the accused’s outright evasiveness in giving his testimony –
+
+>   
+| 
+
+Q
+
+ | 
+
+_Okay, so the first time you passed urine after you were charged for this offence---_
+
+ |
+| 
+
+_A_
+
+ | 
+
+_Hmm._
+
+ |
+| 
+
+_Q_
+
+ | 
+
+_did you---did you ask any CNB officer to collect your urine?_
+
+ |
+| 
+
+_A_
+
+ | 
+
+**_I don’t remember when I passed urine, Your Honour. How can I ask a CNB officer to---to collect my urine?_**
+
+ |
+| 
+
+_Q_
+
+ | 
+
+_So previously, during the course of this trial,_ _you had suggested that you knew that you haven’t taken any controlled substances and therefore, you would have tried your best to cooperate with the authorities for them to take a sample of your urine so that they can prove that you didn’t consume drugs._
+
+ |
+| 
+
+_A_
+
+ | 
+
+_…….._
+
+ |
+| 
+
+_A_
+
+ | 
+
+**_that is why I’m saying now with my mindset now, Your Honour._**
+
+ |
+| 
+
+_Q_
+
+ | 
+
+_That’s right._
+
+ |
+| 
+
+_A_
+
+ | 
+
+_And b---and I based what on the 1---1:50, the Sergeant Ng Boon Kiat took my urine sample and that I tried, even though the circumstances were so bad for me._ **_I’m basing now on what I read and my mindset, now, Your Honour. Not on what the day when I’m thinking. I can’t remember properly what I think that day._**
+
+ |
+| 
+
+_Q_
+
+ | 
+
+_Okay,_ _so Mr. Lopez, you confirm that, that is essentially what you’re saying now?_
+
+ |
+| 
+
+_A_
+
+ | 
+
+**_No, can you repeat everything? I won’t confirm until you repeat._**
+
+ |
+| 
+
+_Q_
+
+ | 
+
+_Okay, basically, that you have been suggesting in the course of this trial---_
+
+ |
+| 
+
+_A_
+
+ | 
+
+_Hmm._
+
+ |
+| 
+
+_Q_
+
+ | 
+
+_that your urine would have tested negative for controlled substances because you didn’t take any controlled substances. And because you knew that, you would have wanted to cooperate with the---_
+
+ |
+| 
+
+_Sum:_
+
+ | 
+
+_a lot of things has been led at this trial._
+
+ |
+| 
+
+_Q_
+
+ | 
+
+_Okay, so, you have suggested that your urine would have tested negative---_
+
+ |
+| 
+
+_A_
+
+ | 
+
+Huh?
+
+ |
+| 
+
+_Q_
+
+ | 
+
+_if it had been procured, a urine sample and tested. I would have been negative. That’s what you’ve been suggesting._
+
+ |
+| 
+
+_A_
+
+ | 
+
+**_Ah, yes, Your Honour._**
+
+ |
+| 
+
+_Q_
+
+ | 
+
+_And you have suggested that because you knew it was negative, you would have been keen to cooperate with them and give them a urine sample so that they can test and they will see that it’s negative._
+
+ |
+| 
+
+_A_
+
+ | 
+
+**_Um, Your Honour, from what I---my---my mindset now, I would have---I would have given. But that day because I was incapacitated and cannot walk, I needed a wheelchair, ah, that’s why it’s very hard for me and I was dehydrated._**
+
+ |
+| 
+
+_Q_
+
+ | 
+
+_Okay, so I put it to you, Mr. Lopez, if it is---if that was the case, then the first time you had eventually managed to pass urine after 9:45pm on 22nd September, you would have gotten a CNB officer to collect your urine for testing._
+
+ |
+| 
+
+_A_
+
+ | 
+
+**_What? I never said I---I’ll give a urine sample, that I---I was able urine at 9:45, Your Honour. I said, after that, maybe from prison onwards to here, to this day, here. I never talked about 9:45. I don’t understand what’s she’s saying. She’s twisting my words, Your Honour._**
+
+ |
+| 
+
+_Q_
+
+ | 
+
+_Yes, I’m asking you, Mr. Lopez, about after 9:45._
+
+ |
+| 
+
+_A_
+
+ | 
+
+**_No, you’re not asking me. You just implied by using a different way to try to get me, implicate me in something._**
+
+ |
+| 
+
+_Q_
+
+ | 
+
+_You agreed you would have passed urine 9:45pm on 22nd September 2017?_
+
+ |
+| 
+
+_A_
+
+ | 
+
+**_anytime after but I can’t re---I said I cannot remember on the day, anything_** _\---_
+
+ |
+| 
+
+_Q_
+
+ | 
+
+_That’s right._
+
+ |
+| 
+
+_A_
+
+ | 
+
+_whether---_
+
+ |
+| 
+
+_Q_
+
+ | 
+
+_Yes._
+
+ |
+| 
+
+_A_
+
+ | 
+
+**_I can give or not. But you are implying that after 25, I---I was still in custody and then I can give a urine sample. You are implying that. I said, I can’t remember. Earlier on, already I told you I can’t remember._**
+
+ |
+| 
+
+_Q_
+
+ | 
+
+_Okay, without implying anything, my question is simply---_
+
+ |
+| 
+
+_A_
+
+ | 
+
+_Hmm._
+
+ |
+| 
+
+_Q_
+
+ | 
+
+_after 20---after 22nd September 2017, 9:45pm, did you pass urine?_
+
+ |
+| 
+
+_A_
+
+ | 
+
+**_I can’t---that’s from my answer earlier, I can’t remember, Your Honour. I already gave this answe_** _r._
+
+ |
+| 
+
+_Q_
+
+ | 
+
+_Okay, in any event, after 22nd September 2017, 9:45pm, you did not at any point in time asked any CNB officer to collect a urine sample. Will you agree?_
+
+ |
+| 
+
+_A_
+
+ | 
+
+**_Uh, Your Honour, I---I---I disagree, Your Honour, because I also can’t remember what happened that day and also, uh, I don’t need to ask anybody to con---collect my urine sample because why, you know, I was already charged at 4:00. Offence already took place at 4:00. The charge form already write. The---the statement already taken. The CNB is not so generous as they claim, Your Honour. I’ve been charged means I’m charged, that’s all. There is no more taking---collecting of urine sample. It’s all a myth. They won’t come and take. 6 hour finished, you are charged. That’s it, Your Honour. Uh. They---_**
+
+ |
+| 
+
+_Court:_
+
+ | 
+
+_Mr. Lopez,---_
+
+ |
+| 
+
+_Q_
+
+ | 
+
+_is simply---_
+
+ |
+| 
+
+_Court:_
+
+ | 
+
+_try and---_
+
+ |
+| 
+
+_Q_
+
+ | 
+
+_did you---_
+
+ |
+| 
+
+_Court:_
+
+ | 
+
+_answer the---_
+
+ |
+| 
+
+_Q_
+
+ | 
+
+_or did---_
+
+ |
+| 
+
+_Court:_
+
+ | 
+
+_question._
+
+ |
+| 
+
+_Q_
+
+ | 
+
+_you not ask for anyone to collect a sample of your urine?_
+
+ |
+| 
+
+_A_
+
+ | 
+
+_Uh---uh, Your Honour, uh, there is---_
+
+ |
+| 
+
+**_Court:_**
+
+ | 
+
+**_Please answer the question, Mr. Lopez._**
+
+ |
+| 
+
+_Witness:_
+
+ | 
+
+_I can’t remember, Your Honour._
+
+ |
+| 
+
+**_Court:_**
+
+ | 
+
+**_No, the question is, did you ask anyone---_**
+
+ |
+| 
+
+_Q_
+
+ | 
+
+_To collect---_
+
+ |
+| 
+
+**_Court:_**
+
+ | 
+
+**_CNB to come and collect your urine after 9:45pm on 22nd of September?_**
+
+ |
+| 
+
+_Witness:_
+
+ | 
+
+**_I don’t even remember if I, uh, wanted to urine after 9:45. How can I ask a CNB officer to collect my urine when I don’t remember when I even wanted to urine, Your Honour?_**
+
+ |
+| 
+
+_Court:_
+
+ | 
+
+**_So, you’re saying you can’t remember whether you wanted to urine_** _?_
+
+ |
+| 
+
+_Witness:_
+
+ | 
+
+**_Yes._**
+
+ |
+| 
+
+_Court:_
+
+ | 
+
+_That’s---_
+
+ |
+| 
+
+_Witness:_
+
+ | 
+
+_And---_
+
+ |
+| 
+
+_Court:_
+
+ | 
+
+_what you---_
+
+ |
+| 
+
+_Witness:_
+
+ | 
+
+_that---_
+
+ |
+| 
+
+_Court:_
+
+ | 
+
+_just said._
+
+ |
+| 
+
+_Witness:_
+
+ | 
+
+_Ah._
+
+ |
+| 
+
+_Court:_
+
+ | 
+
+_Alright, next question---_
+
+ |
+| 
+
+_Q_
+
+ | 
+
+_Okay---_
+
+ |
+| 
+
+_Court:_
+
+ | 
+
+_Prosecution._
+
+ |
+| 
+
+_Q_
+
+ | 
+
+_and I put it---okay, this is my final question. And I put it to you, Mr. Lopez, that you did not ask any CNB officer to collect your urine after 9:45pm on 22nd September 2017._
+
+ |
+| 
+
+_A_
+
+ | 
+
+**_I---I don’t understand what’s going on, ah. I---_**
+
+ |
+| 
+
+_Sum:_
+
+ | 
+
+_Your Honour, I have no further questions._
+
+ |
+| 
+
+_A_
+
+ | 
+
+_Wait, can you let me answer that first, or not?_
+
+ |
+| 
+
+_Q_
+
+ | 
+
+_Oh, yes, sure._
+
+ |
+| 
+
+_A_
+
+ | 
+
+_Can I answer---ask the question again?_
+
+ |
+| 
+
+_Q_
+
+ | 
+
+_I put it to you that you had not asked any CNB officer to collect your urine after 22nd September 2017 at 9:45pm._
+
+ |
+| 
+
+_A_
+
+ | 
+
+**_Uh, Your Honour, I disagree with what she says and also the thing is, I disagree because I can’t remember and also there will be no need to ask a CNB officer to collect my urine sample after 9:45 on the day of my arrest, as I was already charged at 4:00pm. And it state---as stated in the charge form, as stated in the station diary where it states the last warning was given at 4:00, as stated everywhere in the documents, Your Honour. So there was no need to provide a urine sample after 4:00. The statement was taken, the charge form was issued and that’s it. I was given 6 hours and the case is over, Your Honour. The---the CNB is not as generous as they claim to be inside here. 6 hours, that’s it. After that, you cannot provide a urine sample. If can provide a urine sample, why will you take my statement? Why did they charge---do the charge form? It doesn’t make any sense. Everybody in prison is charged after 6 hours, Your Honour. There are many people in prison after 6 hours, there is no extension of the time, there is no, nothing, Your Honour. So, there is no need for me to ask a person to come and provide my---uh, collect my urine after 9:45, because I already was charged, Your Honour. What is the point of asking to collect my urine?_**
+
+ |
+| 
+
+_Sum:_
+
+ | 
+
+_No further questions, Your Honour._
+
+ |
+| 
+
+_Court:_
+
+ | 
+
+_No more questions, Prosecution?_
+
+ |
+| 
+
+_Sum:_
+
+ | 
+
+_That is all._
+
+ |
+
+  
+  
+
+109    This second exchange was again another vivid example of the dismal and poor showing of the accused as a credible witness. It was quite clear that the accused was determined not to give a direct answer to a simple question, but was determined instead to confuse, to confound and to be completely incoherent. I note that in the exchange above, the court even had to remind the accused no less than 3 times to answer the question.
+
+110    In view of the above two exchanges and considering also the entire testimony of the accused, I find therefore that the accused was a wholly unreliable witness, prone to being evasive in almost every answer that he gave and also deliberately giving answers that were completely devoid of any shred of truth in them.
+
+111    In the final analysis of all the evidence before me, I am satisfied that the Prosecution witnesses were credible and consistent and had given a coherent picture of the events at the lockup prior to the accused being asked to provided his urine specimen. I was therefore satisfied that a conviction based on their evidence could not be said to be unsafe. In sum, the defence story has failed to raise any reasonable doubt in my mind as to the guilt of the Accused. In conclusion, I find that the Prosecution has proved its case beyond a reasonable doubt.
+
+112    The accused is accordingly found guilty and convicted of the single proceeded section 31(2) MDA Charge against him.
+
+## Antecedents
+
+113    The accused was previously convicted on 5 June 2012 for an offence of consumption of morphine, and was sentenced to 7 years and 6 months’ imprisonment and 6 strokes of the cane.
+
+## Submissions by Prosecution
+
+114    The Prosecution had submitted for a sentence of 9 years imprisonment and 6 strokes of the cane.
+
+115    The Prosecution noted that the prescribed punishment under s 33A(2) of the MDA ranges from a minimum of 7 years’ imprisonment and 6 strokes of the cane, to a maximum of 13 years’ imprisonment and 12 strokes of the cane. It was submitted that this was the _second_ time that the accused has been convicted on an offence attracting punishment under s 33A (2) of the MDA. The accused was previously convicted on 5 June 2012 on an offence of consumption of morphine, and was sentenced to 7 years and 6 months’ imprisonment and 6 strokes of the cane. This sentence was clearly insufficient to deter the accused from reoffending. The Prosecution also noted that the accused went on to commit the present offence less than a year upon his release from prison on 3 December 2016. It was further submitted that the principle of escalation would therefore apply to justify a longer imprisonment term imposed on the accused for the present offence, to specifically deter him from committing further offences under the MDA: see _Sim Yeow Kee v PP and another appeal_ <span class="citation">\[2016\] SGHC 209</span> at \[99(a)\].[^111]
+
+116    The Prosecution further submitted that the accused had in the course of the year-long proceedings demonstrated a complete and utter lack of remorse for his actions, levelling unfounded allegations against the Prosecution and its witnesses at various points during the trial.[^112] These allegations were without basis and the accused eventually retracted them at the request of the Prosecution.[^113] It was also noted that the accused had made allegations against his own counsel, despite being cautioned by the Court.[^114] It was submitted that these were all examples of the accused’s conduct in court that displayed a complete lack of remorse on his part.
+
+## Mitigation
+
+117    Counsel submitted that the accused had been in remand for more than 2 years since 23 September 2017. He also had health issues, including a back operation for a slipped disc. He also had elderly parents and wished to see them after his imprisonment. It was submitted that this was the first time he had claimed trial. For his previous convictions, he had pleaded guilty. It was also submitted that his offence did not harm anyone nor harm society. Counsel also submitted that the Etizolam pills he had consumed on the day of his arrest were not controlled drugs.[^115] Counsel accordingly submitted for the “lowest sentence possible” of 7 years and 6 months imprisonment and not to impose a crushing sentence.
+
+## Sentence
+
+118    The accused is a second time LT-2 offender. I note in this regard, that in _Cheang Geok Lin v PP \[2018\] 4 SLR 54_8, Sundaresh Menon CJ had observed that the sentencing norm for second LT-2 offences lay in the region of about 8 years’ imprisonment (_i.e._ a year above the mandatory minimum). This would be the case of the sentencing norm where the offender had pleaded guilty to the proceeded charge.
+
+119    I should state at the outset that I was not minded, as suggested by the Prosecution, to view the accused’s conduct during the trial as evincing a total lack of remorse and therefore constituting an aggravating factor. As I have stated at several parts in this judgment, I was mindful that the accused was unrepresented for most of the trial. At the same time, I am aware that the accused had discharged his own Counsel, although I had cautioned him against taking such a drastic step that could possibly affect his case, especially if he could not engage a new counsel. Under these circumstances, I was prepared to grant the accused considerable latitude, and did in fact overlook most of his conduct in court.
+
+120    As such, I did not consider that there were any aggravating factors present to further increase his overall sentence. At the same time, there were no exceptional mitigating factors operating in the accused’s favour either. However, it was disconcerting that the accused was a second time LT-2 offender. Moreover, he had also re-offended within a year of his release from imprisonment for his last conviction. I should state that the accused clearly was not entitled to the usual sentencing discount given to offenders who had pleaded guilty at the outset. I was of the view therefore that an uplift of 6 months imprisonment from the usual sentencing norm as stated in _Cheang Geok Lin v PP_ was warranted on these facts.
+
+121    All considered, I was of the view that a fair and proportionate sentence would be 8 years and 6 months imprisonment and 6 strokes of the cane for the proceeded charge. I was of the view that this was not a crushing sentence and was also in keeping with his record and future prospects.
+
+122    The accused was accordingly sentenced to 8 years and 6 months imprisonment and 6 strokes of the cane for the proceeded charge. I ordered the sentence to be backdated to 23 September 2017, the date of the commencement of the remand period of the accused.
+
+123    The accused has appealed against his conviction and sentence. He is presently serving sentence.
+
+* * *
+
+[^1]: NE Day 5, Page 30 line 10 – Page 33 line 23
+
+[^2]: Prosecution Closing Submissions dated 23 Jan 2020 (“PCS”) paras 1 – 4.
+
+[^3]: PCS paras 9 – 12.
+
+[^4]: Arrest report \[Exhibit P1\] at page 1; NE, Day 1 at pages 12 and 47.
+
+[^5]: NE Day 1 at pages 12-13 and 38-39.
+
+[^6]: NE Day 1 at pages 13-14 and 47.
+
+[^7]: NE Day 1 at page 14, lines 10-25.
+
+[^8]: Arrest report at page 2; NEs Day 1 at pages 14-16.
+
+[^9]: NE Day 8 at pages 119-120.
+
+[^10]: Arrest report.
+
+[^11]: NE Day 1 at pages 26 and 39.
+
+[^12]: HSA certificate Exhibit D7.
+
+[^13]: NE Day 1 at pages 55, lines 11-29.
+
+[^14]: NE Day 1 at page 57, lines 1-19 and 21-32.
+
+[^15]: NE Day 1 at page 81, lines 24 to page 82, line 14, and Day 3 at pages 11-13.
+
+[^16]: Station diary at entries no. 19-23.
+
+[^17]: NE Day 1 at page 82, line 11 to page 85, line 4.
+
+[^18]: NE Day 1 at page 60, lines 14-17.
+
+[^19]: NE Day 1 at page 61, lines 3-12.
+
+[^20]: Station diary at entry number 20; NE Day 1 at page 60, lines 28-32 and page 61, lines 1 -12.
+
+[^21]: Station diary at entry number 20; NE Day 1 at page 61, line 23 to page 62, line 7.
+
+[^22]: Station diary at entries number 21-23; NEs Day 1 at page 62.
+
+[^23]: NE Day 3 at page 11, line 10 to page 12, line 10.
+
+[^24]: Station diary at entry number 24; NE Day 1 at page 63.
+
+[^25]: Station diary at entry number 24; NE Day 1 at page 63.
+
+[^26]: Station diary at entry number 24; NE Day 1 at page 63.
+
+[^27]: NE Day 1 at page 64, lines 6-8.
+
+[^28]: Station diary at entries number 25-26; NEs Day 1 at page 65-66.
+
+[^29]: NE Day 1 at page 71, lines 10-17.
+
+[^30]: Station diary at entry number 27; NE Day 1 at page 66-67.
+
+[^31]: Station diary at entry number 27; NE Day 1 at page 66-67.
+
+[^32]: Station diary at entry number 28; NE Day 3 at pages 19-20.
+
+[^33]: NE Day 3 at page 21, lines 5-11.
+
+[^34]: NE Day 3 at page 22, line 28 to page 23, line 29.
+
+[^35]: NE Day 3 at page 21, lines 13-18.
+
+[^36]: Station diary at entries no. 29-31.
+
+[^37]: NE Day 1 at page 69, lines 7-20.
+
+[^38]: NE Day 1 at page 71, lines 18-30.
+
+[^39]: NE Day 3 at page 40, line 24 to page 41, line 8.
+
+[^40]: NP306 \[Exhibit P4\] at page 1; NEs Day 3 at page 41.
+
+[^41]: NP306 at page 2; NE Day 3 at pages 43-49.
+
+[^42]: Medical report at page 1; NE Day 3 at page 42.
+
+[^43]: Medical report at page 1; NE Day 3 at page 48, line 29 to page 49, line 2.
+
+[^44]: Medical report at page 2; NE Day 3 at page 48.
+
+[^45]: NP306 at page 2; NE Day 3 at page 45.
+
+[^46]: NE Day 3 at pages 44-45.
+
+[^47]: NE Day 3 at page 45, line 14.
+
+[^48]: NE Day 3 at page 49, lines 14-20.
+
+[^49]: NE Day 3 at pages 49-50.
+
+[^50]: NE Day 3 at page 45.
+
+[^51]: NE Day 3 page 45, lines 21-32 and page 51.
+
+[^52]: NE Day 3 at page 95.
+
+[^53]: NE Day 3 at page 45.
+
+[^54]: NE Day 3 at page 53.
+
+[^55]: Medical report at page 2; NE Day 3 at page 53, lines 26-29.
+
+[^56]: NE Day 3 at page 96.
+
+[^57]: NEs Day 3 at page 110; Accused’s long statement at page 3.
+
+[^58]: NE Day 3 at pages 102-104.
+
+[^59]: NE Day 3 at page 107 and Day 4 at page 47.
+
+[^60]: NE Day 3 at page 106.
+
+[^61]: NE Day 3 at page 111.
+
+[^62]: NE Day 4 at pages 42-43 and 51-52, and Day 8 at pages 34-36.
+
+[^63]: NE Day 4 at pages 10-12.
+
+[^64]: NE Day 4 at pages 10-12.
+
+[^65]: Long statement at page 3; NEs Day 4 at page 48.
+
+[^66]: NEs Day 3 at page 107.
+
+[^67]: NE Day 4 Page 74 lines 11 - 16
+
+[^68]: NE Day 4 Page 79 lines 18 - 32
+
+[^69]: Ne Day 4 Pages 123 – 126 line 19
+
+[^70]: NE Day 5 Page 13 lines 1 - 24
+
+[^71]: NE Day 5 Page 13 lines 25 – Page 14 line 10
+
+[^72]: NE Day 5 Page 14 lines 11 - 14
+
+[^73]: NE Day 5 Page 14 lines 16 - 22
+
+[^74]: NE Day 3 Page 103 lines 12 - 32
+
+[^75]: NE Day 4, Page 65 lines
+
+[^76]: NE Day 4, Page 85 Line 17 – Page 86 Line 7
+
+[^77]: NEs Day 8 at page 62.
+
+[^78]: NEs Day 8 at page 63.
+
+[^79]: Cautioned statement.
+
+[^80]: NE Day 8 at page 89.
+
+[^81]: NE Day 8 at page 93.
+
+[^82]: Station diary at entry no. 24.
+
+[^83]: NE Day 8 at page 88.
+
+[^84]: NE Day 8 at pages 138-139 and 194-199.
+
+[^85]: NE Day 8 at page 196.
+
+[^86]: NEs Day 8 at page 96-97.
+
+[^87]: NEs Day 8 at page 156.
+
+[^88]: NEs Day 4 at page 93.
+
+[^89]: _NEs Day 4 at page 93._
+
+[^90]: NEs Day 4 at page 93, lines 17-32 and page 94, lines 1-4.
+
+[^91]: NEs Day 4 at page 101, line 20 to page 102, line 8.
+
+[^92]: PCS paragraphs 46-48
+
+[^93]: Defence Closing Submissions dated 23 Jan 2020
+
+[^94]: Defence Reply Submissions dated 6 Feb 2020,
+
+[^95]: Defence Reply Submissions dated 6 Feb 2020, page 6
+
+[^96]: Defence Reply Submissions dated 6 Feb 2020, page 7
+
+[^97]: Defence Further Reply Submissions dated 4 March 2020
+
+[^98]: NE Day 9, Page 2 line 10 to Page 4 line 32
+
+[^99]: NE Day 9, Page 6 line 27 to Page 8 line 32
+
+[^100]: NE Day 10, Page 1 line 26
+
+[^101]: Defence Further Closing Submissions dated 12 March 2020 at paragraph 9.
+
+[^102]: Defence Reply Submissions dated 6Feb 2020, Page 7
+
+[^103]: NEs Day 1 at pages 107-112.
+
+[^104]: Defence Reply submissions dated 6 Feb 2020, page 8 (last line at bottom of page 8)
+
+[^105]: Defence Reply submissions dated 6 Feb 2020 (at top of page 9)
+
+[^106]: Defence Further Closing Submissions dated 12 March 2020
+
+[^107]: Defence Further Closing Submissions dated 12 March 2020 at paragraph 9.
+
+[^108]: Defence Further Closing Submissions dated 12 March 2020 at paragraph 19.
+
+[^109]: NE Day 9, Page 19 lines 1 - 23
+
+[^110]: Defence Further Closing Submissions dated 12 March 2020 at paragraph 9.
+
+[^111]: Prosecution Sentencing Submissions dated 19 March 2020 at paragraph 2.
+
+[^112]: See Ne, Day 4 page 19; Day 2 pages 5 – 8; Day 2 page 12.
+
+[^113]: NE Day 7 pages 55 – 56.
+
+[^114]: NE Day 5 pages 30 – 32.
+
+[^115]: Mitigation Plead dated 26 March 2020 at paragraphs 3-5 and 10-12.
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F24468-SSP.xml)
