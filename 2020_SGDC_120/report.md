@@ -1,0 +1,431 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Tan Kian Fu  
+
+### \[2020\] SGDC 120
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">District Summons Case No 900219 of 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">11 May 2020</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Adam Nakhoda</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Mr Prakash Otharam (Health Sciences Authority) for the Public Prosecutor; Mr Chia Foon Yeow (Loo &amp; Partners LLP) for the Accused.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Tan Kian Fu</td></tr></tbody></table>
+
+Criminal Procedure And Sentencing – Sentencing – Poisons Act, Cap 234, 1999 Rev Ed
+
+\[LawNet Editorial Note: An appeal to this decision has been filed in MA 9078/2020/01.\]
+
+11 May 2020
+
+### District Judge Adam Nakhoda:
+
+## Introduction
+
+1       The Accused imported into Singapore, without a license, 192 tablets containing tadalafil, which is a poison listed in the Schedule to the Poisons Act (Cap 234, 1999 Rev Ed). Tadalafil, normally sold under the brand name Cialis, is the active ingredient in a medication used to treat benign prostatic hyperplasia (a non-cancerous enlargement of the prostate), pulmonary arterial hypertension and erectile dysfunction. It is most commonly associated as a treatment for the later condition.
+
+2       Drugs such as tadalafil and other phosphodiesterase type-5 (PDE-5) inhibitors, such as sildenafil, are also used as illicit sexual enhancement drugs rather than solely for the medical use of addressing erectile dysfunction. A doctor is unlikely to prescribe the medicine to a patient if that doctor assessed that the patient did not suffer from erectile dysfunction. In such situations, some users will turn to illicit sources to obtain the drug. In other situations, users may want to avoid paying the price for the prescription drugs. This has all led to a market for products containing PDE-5 inhibitors. Users wishing to purchase these products would purchase them from street peddlers or from dubious Internet sites.
+
+3       PDE-5 inhibitors are potent medicines that may result in severe adverse effects even in users who consume the medicines following a medical consultation and prescription. Unregulated and unprescribed sexual enhancement drugs, such as those in the present case, amplify the dangers posed by PDE-5 inhibitors.
+
+4       The Prosecution sought a custodial sentence of between one and two weeks’ imprisonment. The Defence submitted that a fine not exceeding $6,000 would be appropriate. I sentenced the Accused to one weeks’ imprisonment. The Accused being dissatisfied with the sentence has appealed. He is presently on bail pending the hearing of the appeal. I now set out my reasons.
+
+## Charge
+
+5       The Accused pleaded guilty to one charge under s 5 punishable under s 16(1) of the Poisons Act. The charge is as follows:
+
+> You, TAN KIAN FU, are charged that you, on 24 July 2018 at or about 9.25 a.m., at 21 Woodlands Crossing, motorcycle lane of Woodlands Checkpoint, Singapore, did import, without a licence from a licensing officer, 16 boxes of Candy B+ Complex, with each box containing 12 orange round tablets which were analysed and found to contain **Tadalafil**, a poison listed in the Schedule under the Poisons Act (Cap 234, 1999 Rev Ed), and you have thereby committed an offence under section 5 p/u section 16(1) of the Poisons Act (Cap 234, 1999 Red Ed).
+
+## Facts
+
+6       The Accused is Tan Kian Fu, a 28-year-old male Malaysian. He was riding his motorcycle from Johor Baharu to Singapore, via Woodlands Checkpoint, when Customs officers stopped him and inspected his motorcycle. The officers found that the Accused possessed 16 boxes of Candy B+ Complex. The Accused had hidden the boxes underneath his motorcycle’s seat, in its box and in his pouch.
+
+7       The Accused had a pre-existing business relationship with a Malaysian man known as “Kapo” or “Max” (“Max”) to supply boxes of Candy B+ to a recipient in Singapore. The Accused earned $10 for every successful delivery. The Accused knew that the boxes of Candy B+ were for subsequent distribution and, on Max’s advice, he hid the boxes around his motorcycle and on his person.
+
+8       On 29 November 2018, the Investigating Officer sent the seized boxes to the Health Sciences Authority (“HSA") for analysis. The analysis showed that the tablets contained tadalafil.
+
+## Issue to be determined
+
+9       The only issue to be determined was whether the custodial threshold had been crossed.
+
+## Sentencing
+
+### Prescribed Penalties
+
+10     Offences under s 5 are punishable under s 16(1) of the Poisons Act with a fine not exceeding $10,000 or to imprisonment for a term not exceeding two years or to both.
+
+### Antecedents
+
+11     The Accused had no antecedents.
+
+### Prosecution’s Submissions on Sentence
+
+12     In addition to written submissions urging the court to impose a custodial sentence, the Prosecution also tendered a table of sentencing precedents supporting their contention. The Prosecutions’ submissions were premised on the following:
+
+> (a)     A deterrent sentence was necessary to curb the increasing trend of importation and supply of sexual enhancement medicines;
+
+> (b)     Tadalafil was a prescription-only medicine known to pose serious health concerns when consumed without medical supervision;
+
+> (c)     A custodial sentence was merited in the present case because the Accused committed the offence for a profit motive; and
+
+> (d)     A custodial sentence was consistent with recent sentencing trends.
+
+#### Trend in importation and supply of sexual enhancement medicines
+
+13     The Prosecution referred to _Tan Gek Young v Public Prosecutor and another appeal_ <span class="citation">\[2017\] 5 SLR 820</span> (“_Tan Gek Young_”) as authority for the proposition that deterrence was the primary sentencing consideration for offences falling under the Poisons Act as the unlicensed importation of poisons had the potential to harm public health.
+
+14     Between 2017 and 2019 there had been a steady increase in the number of investigated cases involving the illegal advertisement, supply and importation of sexual enhancement medicines. I have reproduced the Prosecutions’ table evidencing this trend[^1]:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="48.5302939412118%"> <col width="17.1565686862627%"> <col width="17.1565686862627%"> <col width="17.1565686862627%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Year</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>2017</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>2018</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>2019 (Oct)</b></p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Total no. of investigation papers opened involving the illegal advertisement, supply and import of sexual enhancement medicines</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="right" class="Table-Para-1">496</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="right" class="Table-Para-1">750</p></td><td align="left" class="" rowspan="1" valign="top"><p align="right" class="Table-Para-1">764</p></td></tr></tbody></table>
+
+  
+  
+
+15     The Prosecution submitted that the figures indicated a growing trend in the circulation of illicit sexual enhancement medicines.
+
+#### Health concerns posed by the consumption of unprescribed tadalafil
+
+16     HSA had not evaluated the tablets in question for their quality, safety or their efficacy, thus, there was no assurance regarding the safety of the dosage or the purity of the tadalafil in the tablets. The Prosecution submitted that the unlicensed importation and subsequent supply of illicit sexual enhancement drugs gave rise to the potential for serious harm to the public.
+
+17     Tadalafil is a prescription-only medicine and, as such, a doctor would only prescribe the drug after an evaluation of its suitability to treat a patient’s condition and consideration of the appropriate dosage. HSA's drug information sheet for tadalafil[^2] revealed that adverse effects, both common and serious, could follow even from consumption of the recommended dosage, let alone from consumption above the recommended dosage. Serious adverse effects included heart attack and sudden cardiac death.
+
+18     The Prosecution attached a HSA update on use of an illicit product “Power 1 Walnut”[^3]. HSA analysed Power 1 Walnut and found that it contained sildenafil and glibenclamide (a medication prescribed to manage diabetes[^4]). Like tadalafil, sildenafil, normally sold under the brand name Viagra, is a treatment for erectile dysfunction[^5]. In the update, HSA strongly advised the public against purchasing Power 1 Walnut and “other illegal products touted for sexual enhancement” from makeshift stalls, peddlers and dubious internet sites[^6]. The Prosecution also attached media articles that highlighted the dangers of consuming illicit sex drugs[^7].
+
+19     In the present case, the boxes containing the Candy B+ Complex tablets provided a description of the ingredients contained in the tablets, however, the description gave no indication that tadalafil was an active ingredient or the quantity of tadalafil found in each tablet[^8]. The text on the box regarding “Direction of use” stated that the tablets were a “dietary supplement”. The only health warning on the boxes was a recommendation against consumption by persons under 18. The Prosecution submitted that the concealment of the presence of tadalafil in the tablets was an aggravating factor.
+
+#### Sentencing precedents
+
+20     The Prosecution revealed that there were no precedents involving the importation of tablets containing tadalafil, however, they invited the court to have regard to precedents involving the importation and/or possession for sale of products containing sildenafil.
+
+#### Offences involving importation are more aggravated than offences involving possession
+
+21     S 5 of the Poisons Act proscribed unlicensed dealing in poisons along the entire supply chain and all contraventions are punishable under s 16(1). The Prosecution conceded that there was no legislative distinction made between the different types of unlicensed dealing. This was in contrast to offences under the Misuse of Drugs Act (Cap 185) (“MDA”) which prescribed more severe sentences for importation of controlled drugs as compared to trafficking in the same controlled drugs.
+
+22     The Prosecution referred to Chan Sek Keong CJ’s decision in _Adnan bin Kadir v Public Prosecutor_ <span class="citation">\[2013\] 1 SLR 276</span>, where at \[53\] he held that importation of drugs was more serious than trafficking because importation increased the illicit supply of controlled drugs in Singapore, thereby potentially increasing the harm to residents. The Prosecution submitted that the considerations in _Adnan bin Kadir_ applied equally to the importation of sexual enhancement medicines.
+
+### Mitigation & Defence’s Submissions on Sentence
+
+23     The Defence sought a fine in the region of $6,000. In support of their position the Defence tendered a “Plea in Mitigation” dated 10 September 2019 and a “Defence’s Submissions” dated 10 March 2020.
+
+#### Facts of the case
+
+24     The Accused had accepted the Statement of Facts without qualification and, in oral submissions[^9], the Defence admitted that the Accused “knew that he was importing sexual enhancement drugs” but he was unaware that unlicensed importation was an offence. The Defence claimed that Max had asked the Accused to bring the tablets into Singapore as Max wished to avoid paying taxes on the tablets[^10].
+
+#### Factors in Tan Gek Young v PP
+
+25     The Defence premised its submission that a non-custodial sentence was warranted with reference to the list of factors considered by Chao Hick Tin JA in _Tan Gek Young_, namely:
+
+> (a)      The quantity of the poison involved. The Defence submitted that the quantity of tablets containing the poison imported, 192, whilst not trifling was not substantial or excessive especially in comparison to the quantities in the precedent cases the Defence tendered.
+
+> (b)      The role of the offender. The Defence submitted that the Accused acted “merely as a conduit” to bring the tablets into Singapore. There was no evidence that the Accused was part of a syndicate and the act in question was a one-off act by the Accused.
+
+> (c)      Whether the Accused committed the offence whilst under investigation. The Accused was not under investigation at the time he committed the offence.
+
+> (d)      The amount of profits realised. The Defence conceded that there was a profit motive, in that the Accused was paid $10 for each delivery he made. However, the Accused had not profited as the Customs officers seized the tablets before the Accused could pass them to his contact in Singapore.
+
+> (e)      Antecedents. The Accused had no antecedents.
+
+> (f)      The number of TIC charges. There were no charges taken into consideration for sentencing.
+
+> (g)      Need for deterrence. The Defence acknowledged that per _Tan Gek Young_ deterrence was the primary sentencing consideration for offences under the Poisons Act. However, the Defence highlighted that Chao JA found, at \[69\], that whist deterrence was the primary sentencing consideration, proportionality and fairness were critical considerations and that a custodial sentence was unnecessary if the quantity of poison supplied or sold was small and/or it was a one-off transaction. In such cases, a fine would be sufficiently deterrent especially if the Accused suffered shame or embarrassment because of the prosecution.
+
+> (h)     The Defence submitted that the Accused fit the criteria at paragraph (g) above, in that the quantity of tablets involved was small, he was a one-off offender, and that because of the prosecution he had not returned to Malaysia for several months. The Accused also faced the prospect of having his work permit revoked. These factors gave rise to a low risk of re-offending and a custodial sentence would be disproportionate to the offence committed.
+
+#### Other mitigating factors
+
+26     The Defence submitted that the court should consider the following mitigating factors:
+
+> (a)     The Accused had worked in Singapore since 2013 with a clean record of employment. His employer had provided him with a glowing reference and sought leniency in the sentence imposed[^11].
+
+> (b)     The Accused was remorseful and tendered his apologies for committing the offence.
+
+> (c)     The Accused had committed the offence out of ignorance, see paragraph 24 above.
+
+> (d)     The Accused’s primary purpose for entering Singapore was not to import the tablets, rather to return to work, as he was a legitimate work permit holder.
+
+27     The Defence disagreed with the Prosecution’s submission that the reasoning in _Adnan bin Kadir_ was applicable to offences under the Poisons Act. The Defence argued that Chan CJ had confined his ruling to offences under the MDA and had not proposed a general sentencing principle.
+
+### Precedents
+
+#### Prosecution’s precedents
+
+28     The Prosecution relied on three unreported precedents. In the first, _PP v Jin Huankai_ (SC-912895-2016) _[^12]_, the Accused pleaded guilty to eight charges, of which, one charge, under s 5 of the Poisons Act, was for selling 152 tablets containing sildenafil. The court took two further charges under s 5 into consideration for sentencing (“TIC charges”).
+
+29     Jin Huankai (“Jin”) had approached one Miao Xue Dong (“Miao”) and asked Miao if he wanted to earn extra money by selling tablets. Miao agreed and, on 29 May 2016, Jin sold Miao a bag of 152 tablets containing sildenafil. TranComm officers detained Miao near Aljunied MRT station. The two TIC charges related to other poisons Jin sold to Miao on 29 May 2016.
+
+30     Jin also pleaded guilty to seven charges for offences under s 15(1) and punishable under s 15(2) of the Health Products Act (Cap 122D), with a further 14 charges under the Health Products Act taken into consideration for sentencing. The Accused committed some of the offences under the Health Products Act whilst under investigation for the earlier offences under the Health Products Act and Poisons Act. The court sentenced Jin to six weeks’ imprisonment for the offence under s 5 of the Poisons Act.
+
+31     In the second precedent, _PP v Miao Xue Dong_ (SC-910420-1017), the Accused pleaded guilty to four charges under s 5 of the Poisons Act. A further eight charges under s 5 were taken into consideration for sentencing. On 29 May 2016, TransComm officers detained Miao near Aljunied MRT Station. Miao possessed a bag with an assortment of sexual enhancement drugs. The contents of this bag formed the subject matter of the first two charges under s 5 of the Poisons Act.
+
+32     Of the four charges, three were for possession for the purposes of sale of sexual enhancement drugs. For the first charge (DSC-900836-2017), Miao possessed 152 tablets containing sildenafil and the court sentenced him to four weeks’ imprisonment; for the third charge (DSC-900839-2020), he possessed 408 tablets containing sildenafil and the court sentenced him to eight weeks’ imprisonment, for the fourth charge (DSC-900846-2017), he possessed 12 capsules containing tadalafil and the court sentence him to two weeks’ imprisonment. Miao committed the offences in the third and fourth charges whilst he was under investigation for the offences in the first and second charges.
+
+33     The final precedent the Prosecution relied on was _PP v Xu Chuyan_ (SC-900601-2019). The Accused pleaded guilty to eight charges under s 15(1) of the Health Products Act. A further eight charges under s 15(1) of the Health Products Act were taken into consideration for sentencing. Of the eight proceeded charges, six were for possessing for the purposes of supply various quantities of Cialis and Viagra tablets, as follows:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="15.5368926214757%"> <col width="28.1543691261748%"> <col width="28.1543691261748%"> <col width="28.1543691261748%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Charge</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Product</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Quantity</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Sentence</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">5th</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Cialis Tadalafil 500mg</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="right" class="Table-Para-1">40 tablets</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="right" class="Table-Para-1">3 weeks’</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">7th</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Pfizer Viagra 100mg</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="right" class="Table-Para-1">62 tablets</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="right" class="Table-Para-1">3 weeks’</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">12th</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Viagra 100 (sildenafil citrate) 100 mg</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="right" class="Table-Para-1">90 tablets</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="right" class="Table-Para-1">4 weeks’</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">13th</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Cialis Tadalafil 100mg</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="right" class="Table-Para-1">80 tablets</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="right" class="Table-Para-1">4 weeks’</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">14th</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Cialis Tadalafil 500mg</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="right" class="Table-Para-1">220 tablets</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="right" class="Table-Para-1">6 weeks’</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">16th</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Pfizer Viagra 100mg</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="right" class="Table-Para-1">120 tablets</p></td><td align="left" class="" rowspan="1" valign="top"><p align="right" class="Table-Para-1">4 weeks’</p></td></tr></tbody></table>
+
+  
+  
+
+34     The Prosecution submitted that in terms of the quantity of tablets possessed the present case was more egregious than _Jin Huankai_ and _Miao Xuedong_. The Prosecution also submitted that as the present Accused imported the tablets his offence was more aggravated than the Accused in _Jin Huankai_ and _Miao Xuedong_, as both Accused in those cases possessed the tablets for the purposes of sale.
+
+35     The Prosecution failed to elaborate, in either its written or oral submissions, on the relevance of _Xu Chuyan_ to the present case_._
+
+36     The Defence took issue with the Prosecution’s precedents. First, as all the precedents were unreported decisions, the Defence argued that the court should be slow in placing reliance on them. With regard to _Xu Chuyan_, the Defence pointed out that the offences did not involve the Poisons Act. Also in _Xu Chuyan_, the Accused was aware of the illegality of her conduct, as six months prior to the offences, she operated a makeshift stall in Geylang peddling unregistered sexual enhancement therapeutic products and, as such, in that case, a custodial sentence was appropriate.
+
+37     Second, the Defence argued that the tablets that the Accused in _Jin Huankai_ and _Miao Xue Dong_ sold contained multiple active ingredients, in comparison to the present case where there was only one active ingredient in the tablets. Third, the Accused in _Jin Huankai_ and _Miao Xue Dong_ had committed multiple offences over a span of time and that they had committed further offences whilst being investigated for an initial set of offences.
+
+#### Defence precedents
+
+38     In addition, to placing reliance on _Tan Gek Young_, the Defence referred to a number of reported decisions to support their submission that the courts had imposed fines for s 5 Poisons Act offences.
+
+39     In _PP v Peh Ah Pang @ Peh Ya Xiang_ <span class="citation">\[2008\] SGDC 95</span>, a District Court convicted the Accused, after trial, on two charges, under s 5 of the Poisons Act, of possessing for sale two poisons, prednisolone acetate and lignocaine. The Accused was a trained Traditional Chinese Medicine (“TCM”) practitioner.
+
+40     In his decision, the District Judge accepted that general practitioners used the two poisons to treat pain and inflammation and he found that the quantities of the poisons involved were not exceedingly large. The Accused possessed twelve 10 ml vials of prednisolone acetate suspension and nine 50 ml vials of a liquid containing lignocaine. The District Judge accepted that the Accused had an unblemished record as a TCM practitioner prior to the offences. The District Judge fined the Accused $2,000 per charge. The Prosecution **did not** submit on sentence and there was no indication that the District Judge had reference to documentation or evidence on the deleterious effects of using unprescribed prednisolone acetate and lignocaine.
+
+41     In _PP v Asniarti_ <span class="citation">\[2010\] SGDC 54</span>, the Accused pleaded guilty to one charge, under s 5 of the Poisons Act, of importing 4,473 tablets of dextromethorphan (a cough suppressant). When the Accused was at the ferry terminal in Batam, an unknown person approached her and asked her to carry a pack of tablets on her return journey to Singapore. The Accused hid the packet of tablets in the pocket of her jeans she had packed in her bag. The Accused neither received nor was she promised any payment for bringing the tablets to Singapore.
+
+42     The District Judge accepted that abuse of the tablets could result in respiratory problems, confusion and excitation and that the number of tablets imported was high. However, against this the District Judge held that the Accused’s culpability was relatively low as she was on a legitimate trip to Singapore and, as such, she had not travelled to Singapore with the specific purpose of importing the tablets. There was no profit motive and the District Judge held that the Accused had no specific knowledge that the tablets contained poison. The District Judge, at \[11\], distinguished between an offender who acted with full knowledge that the tablets that she was importing contained a poison and one that did not. He held that as the former offender’s contravention was wilful that offender would be more culpable.
+
+43     The Defence, in the present case, submitted that, first, the number of tablets imported by the Accused were far fewer than the Accused in _Asniarti_, and, second, that the other mitigating factors in _Asniarti_ were equally applicable to the present Accused.
+
+44     In _PP v Xu Linting_ <span class="citation">\[2016\] SGDC 45</span>, the Accused pleaded guilty to one charge, under s 5 of the Poisons Act, of aiding one “Jin Liang” to import 2,915 units containing sildenafil. A further charge of possession of sildenafil for the purpose of sale was taken into consideration for sentencing. The Accused agreed to help Jin Liang, as they were primary school friends. The District Judge held, at \[9\], that the Statement of Facts suggested that the Accused had imported the units “as a (free) favour to Jin Liang”. The Accused knew that the units were sexual enhancement drugs.
+
+45     The District Judge held, at \[11\] that had the Accused received or been promised a reward he would have sentenced her to imprisonment. He held, at \[17\], that in the absence of a profit motive, and considering the fact that the Accused did not know that selling sexual enhancement drugs was illegal or that the units contained a poison, and that the Accused was young, naïve and reasonably new to Singapore, a high fine would meet the need for deterrence. The District Judge imposed an $8,000 fine.
+
+46     I found that the remaining three precedents tendered by the Defence, where the courts had imposed lengthy custodial sentences, were not as relevant to the present case as all three cases were far more aggravated than the present case. Details of these cases are set out at paragraphs \[13\] to \[16\] of the Plea in Mitigation.
+
+47     The Prosecution, in the present case, distinguished _Peh Ah Pang_ and _Asniarti_ as these case involved different poisons. However, the Prosecution did not elaborate on the qualitative differences between tadalafil and the poisons in _Peh Ah_ Pang or _Asniarti_, Therefore, I did not place weight on this Prosecution submission. If the Prosecution intended to rely on this argument then it was incumbent on them to show the qualitative differences between the poisons in terms of adverse effects.
+
+48     The Prosecution distinguished _Xu Linting_, on the basis that the Accused in the present case committed the offence for profit and he was older than the Accused in _Xu Linting_.
+
+### Decision on Sentence
+
+#### Deterrence is the primary sentencing consideration for offences under the Poisons Act
+
+49     The relevant legislative provisions of the Poisons Act are as follows:
+
+> **5**.    No person shall without a licence from a licensing officer import, possess for sale, sell or offer for sale any poison.
+
+> **…**
+
+> **16\. —(1**)    Any person who acts in contravention of any of the provisions of this Act shall, except in so far as his act comes within one of the exemptions made by section 7 and 8, be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both.
+
+50     In 1980, Parliament enhanced the punishment prescribed for offences under s 5 of the Poisons Act from a maximum fine of $1,000 or six months’ imprisonment or both to a maximum fine of $5,000 or two years’ imprisonment or both. The objectives of the enhancement were articulated by the then Minister of Health Dr Toh Chin Chye during the second reading of the Poisons (Amendment) Bill (Bill 14 of 1980) (_Singapore Parliamentary Debates, Official Report_ (17 March 1980), vol 39 at col 1031):
+
+> The Poisons (Amendment) Bill enhances penalties for offences under the Act and brings them in line with the provisions under the Medicines Act, that is, a fine not exceeding $5,000 or imprisonment for a term not exceeding two years, or both. We hope that this Amendment will deter unscrupulous and illegal trading of poisons.
+
+51     The punishment for offences under s 5 was further enhanced in 1987 and the reasons for this enhancement were articulated by the then Acting Minister for Heath Yeo Cheow Tong during the second reading of the Poisons (Amendment) Bill (Bill 21 of 1987) (_Singapore Parliamentary Debates, Official Report_ (28 July 1987), vol 49 at col 1405 to 1407):
+
+> Another limitation of the Poisons Act is in the penalties presently prescribed. The present penalties are inadequate for the gravity of the offences that are being committed. It is therefore proposed to increase the maximum fine from $5,000 to $10,000 with the same jail term of a maximum of two years.
+
+> …
+
+> Sir, with the passing of this Bill, the Poisons Act will be brought up to date and the inadequacies rectified. The increase in the maximum penalties will serve as a greater deterrent against the illegal sale of poisons and ensure better compliance with the Act.
+
+52     I found that the increase in severity of the punishments for offences under s 5 of the Poisons Act demonstrated Parliament’s intention to deter the unlicensed importation and sale of poisons.
+
+53     Chao JA, in _Tan Gek Young_, had regard to Parliament’s intent when he held at \[43\] that:
+
+> Deterrence is indubitably the primary sentencing consideration for the offences under the Poisons Act. This is so for two reasons. First, in enhancing the prescribed maximum sentences for the offences under the Poisons Act, Parliament must have had deterrence in mind. The two enhancements – in 1980 and 1987 – were each accompanied by statements by the respective Minister about the need to deter the illicit supply of poisons. … As far as the Poisons Act is concerned, there can be no doubt that sentencing must be informed by deterrence.
+
+54     Therefore, it was clear from the legislative history and Chao JA’s decision in _Tan Gek Young_ that general deterrence was the primary sentencing consideration in the present case.
+
+55     I found that the need for deterrence was especially true where the poisons in question, such as tadalafil, were used as sexual enhancement drugs. The Prosecution submitted statistics that demonstrated an increase in the number of investigation papers opened by HSA into cases involving advertisement, supply and importation of sexual enhancement drugs, see table at paragraph 14 above. The table clearly showed that there was an increasing trend of such cases from 2017 to 2019.
+
+56     It would have been preferable if the Prosecution had provided more granularity to the figures, for instance the number of importation cases and the number of cases that led to a prosecution. A similar issue arose in _Tan Gek Young_, the Prosecution had produced statistics before the judge at first instance that showed a rise in the number of cases involving the illicit sale and distribution of codeine cough preparations. In addressing the appellant’s contention that the numbers produced by the Prosecution referred to investigations and not convictions, Chao JA observed, at \[47\] and \[49\]:
+
+> Second, Tan argues that even if there has been an increase in the number of investigations, not all investigations resulted in convictions or even prosecutions. …Figures showing prosecutions would certainly be stronger evidence of the prevalence of an offence. But I think it would be fair to assume that the HAS would not launch investigations for no good reason. Hence, I think the increased number of investigations may be indicative of the offence becoming more prevalent.
+
+> …
+
+> I agree that as a general rule, a judge who makes reference to the prevalence of an offence should have some evidence to support such a view (_Yong Foo Kee v PP_ {1992\] 1 MLJ 304). In my judgment, the available evidence is sufficient to support the DJ’s conclusion that the illicit supply of codeine preparations is a prevalent problem which needs to be met with deterrent sentences.
+
+57     Similarly, I accepted that the Prosecution’s statistics provided sufficient evidence to demonstrate that the advertisement, supply and importation of illicit sexual enhancement drugs was a prevalent problem and, coupled with the very real potential for harm, see paragraphs 62 to 71 below, I found that in the present case there was a clear need for a deterrent sentence.
+
+#### Sentencing guidelines laid down in Tan Gek Young v PP
+
+58     The Accused in _Tan Gek Young_ was a medical doctor who, over 15 months, sold more than 2,300 litres of cough preparations for non-medical purposes. He pleaded guilty to 12 charges under s 6(1)(a) and two charges under s 6(3)(b) o the Poisons Act. Like offences under s 5, offences under s 6 are punishable under s 16 of the Poisons Act. Chao JA suggested factors that would be germane to determining the appropriate sentence for the offences in question in that case.
+
+59     Chao JA further stated, at \[67\], that there was no reason why the guidelines could not apply to other offences that target the illicit sale of codeine cough preparations. This would include offences under s 5 of the Poisons Act and I found that the guidelines were just as relevant to offences under s 5 involving other poisons, such as tadalafil. The guidelines are as follows:
+
+> (a)      Step 1: whether the custodial threshold was crossed. Chao JA held, at \[69\], that the court had to consider the quantity of tablets supplied in its determination of whether the custodial threshold was crossed. He cautioned against a court invariably imposing a custodial sentence as this would preclude the imposition of a fine. A custodial sentence was unnecessary:
+
+>> (i)       If the quantity of codeine cough preparations supplied or sold was small; and/or
+
+>> (ii)       If the sale or supply was a one-off transaction that arose out of a moment’s weakness or was a technical breach arising out of an oversight. The shame associated with prosecution for one off-offenders would in itself provide some form of deterrence.
+
+> (b)      Step 2: sentence-specific aggravating and mitigating factors. Chao JA held, at \[72\] to \[74\], that once it was determined that the custodial threshold had been crossed then the court ought to consider the sentence-specific aggravating factors and the cumulative aggravating factors. Chao JA set out a non-exhaustive list of sentence-specific aggravating factors as follows:
+
+>> (i)       The quantity of codeine cough preparations involved.
+
+>> (ii)       The role of the offender.
+
+>> (iii)       Whether the offence was committed while the offender was under investigation.
+
+>> (iv)       The amount of profit made.
+
+>> (v)       The presence of relevant antecedents.
+
+>> (vi)       The number of TIC charges.
+
+> (c)     After considering the sentence-specific aggravating factors, the court would consider the mitigating factors.
+
+60     Step 3 was for the court to consider whether to impose a fine in addition to a custodial sentence and then, at step 4, to have regard to the cumulative aggravating factors to determine how many sentences to run consecutively. I have not addressed these two steps in my analysis as; first, it was clear that the Accused had not made any profits such that there was a need to disgorge him of those profits and, second, because he pleaded guilty to a single charge.
+
+#### Application of Tan Gek Young v PP guidelines to the present case
+
+##### (1)   Step 1 - was the custodial threshold crossed?
+
+61     I found that the custodial threshold was crossed. I have already established at paragraphs 54 and 57 above that general deterrence was the primary sentencing consideration and, as such, the sentence should have a strong deterrent effect. However, before addressing Chao JA’s guideline from _Tan Gek Young_ on whether the custodial threshold was crossed, I considered the potential for harm that could arise from the offence as I found that the potential for harm would also have a bearing on whether I should impose a custodial sentence.
+
+(A)   The potential for harm
+
+62     In _Neo Ah Luan v PP_ <span class="citation">\[2018\] 5 SLR 1153</span> Sundaresh Menon CJ held at \[67\]:
+
+> … Significantly, other recent decisions setting out sentencing guidelines for offences affecting public health and safety have also place weight on potential for harm, and not just actual harm (see for instance, GS Engineering (\[58\] supra) at \[77(c)\] and _PP v Koh Thiam Huat_ <span class="citation">\[2017\] 4 SLR 1099</span> at \[41\]). This is not surprising if one consider that the very purpose of imposing criminal penalties for such offences is to minimise the _risks_ to society by discouraging irresponsible behaviour that endangers the public health and safety, even if no actual harm is caused by the a particular instance of offending behaviour. Seen in this light, the incidence of actual harm might be seen as a further aggravating factor. However, I emphasise that it would only be appropriate to have regard to potential harm if there was a _sufficient likelihood_ of the harm arising and this in turn should be assessed in the light of the gravity of the harm risked (_GS Engineering_ at \[77(c)\]). Not every remote possibility of harm arising should be taken into account in determining the appropriate sentence.
+
+63     The tablets in question, Candy B+ Complex, as they contained tadalafil, were undoubtedly for a sexual enhancement purpose. HSA produces updates on products found overseas that contain potent ingredients. In its update for July to August 2019, it listed Candy B+ Complex as a product that the public should avoid purchasing if abroad. This update informed the public that tadalafil (like other medicines containing PDE-5 inhibitors) could cause serious side effects, including strokes, heart attacks, loss of vision and hearing or priapism (which if not treated could lead to permanent impotence), see https://hsa.gov.sg/announcements/safety-alert/hsa-updates-on-products-found-overseas-that-contain-potent-ingredients-(july-august-2019).
+
+64     I was unable to locate a HSA update that predated the date of the current offence that warned the public against purchasing or consuming Candy B+ Complex. However, the HSA update for May to June 2018 (update no. 6/2018), included products that contained tadalafil, see https://www.hsa.gov.sg/docs/default-source/announcements-csg/hsa-updates/hsaupdates\_foreign-alert-\_2018\_may\_june-final.pdf . Therefore, HSA treated products containing tadalafil as a cause for concern before 24 July 2018 (the date of the present offence).
+
+65     HSA’s drug information sheet, see paragraph 17 above, noted that patients had died after consuming tadalafil. Tadalafil is a prescription only drug and a doctor needs to assess the drugs suitability for an individual patient before prescribing the drug, taking into account the health of the patient. The doctor would also determine the appropriate dosage that the patient should consume.
+
+66     Consumption of unprescribed tadalafil would have an effect on public health and safety. As such, as stated by CJ Menon in _Neo Ah Luan_, the very purpose of imposing criminal penalties for such acts concerned with the unprescribed supply of tadalafil was to discourage offenders from committing these offences in order to protect public health and safety.
+
+67     In the present case, the Candy B+ Complex boxes containing the tablets had no indication that the tablets contained tadalafil. In fact, the ingredients listed on the boxes gave the impression that the tablets did not contain poisons and instead contained only vitamins, natural plant ingredients (maca, tribulus and goji are all plant-based products) and other non-active ingredients.
+
+68     Customers, who bought the tablets, even if they were aware that the tablets were sexual enhancement drugs, would have no idea that the tablets were effective because they contained tadalafil. Persons with underlying conditions that made them especially susceptible to the adverse effects of tadalafil may consume the pills with the mistaken belief that they were not consuming tadalafil.
+
+69     There was also no indication on the boxes that the tablets were sexual enhancement drugs. The description on the boxes was that the tablets were “dietary supplements”. Customers who may be wary of consuming illicit sexual enhancement drugs because of the presence of potent medicines may not exercise such caution when consuming Candy B+ Complex because the description or ingredient list printed on the boxes did not inform them that the tablets contained tadalafil.
+
+70     Finally, as stated in paragraph 16 above, HSA had not evaluated the Candy B+ Complex tablets in terms of their quality, safety or efficacy. Simply put there was no assurance that the dosage of tadalafil in each tablet was safe or that the tablets were manufactured in a sterile environment in accordance with industry standards.
+
+71     I found that the consumption of the Candy B+ Complex tablets would clearly endanger public health and safety. The potential for harm that could arise, in terms of adverse effect from the consumption of unprescribed tadalafil, was very real. I found that the there was a sufficient likelihood that the adverse effects could arise as the consumption of the tablets would be without the benefit of a medical doctor’s assessment and prescription. Specifically with reference to the Candy B+ Complex tablets in the present case, I found that the potential for harm was greater because there was no indication that tadalafil was an active ingredient in the tablets.
+
+72     Based on these factors, I found that there was a high potential for harm arising out of this offence and this finding fortified my decision that the custodial threshold was crossed.
+
+(B)   Application of step 1 in _Tan Gek Young v PP_
+
+73     I was alive to the fact that the quantity of Candy B+ Complex tablets that the Accused imported was far lower than the quantity of poisons involved in _Asniarti_ and _Xu Linting_. Based on the quantity of poisons alone the present case was less aggravated than _Asniarti_ and _Xu Linting._ However, the quantity of poisons involved was only one factor that I considered in determining whether to impose a custodial sentence.
+
+74     I also found that, the quantity in the present case was not miniscule or insignificant and was similar to the quantity of tablets containing sildenafil found in at least one charge in _Jin Huankai_ and _Miao Xue Dong_ respectively, see paragraphs 28 to 32 above and the court, in those cases, had imposed custodial sentences for those charges. Therefore, there were precedents where the court had imposed custodial sentences where the quantity of poisons was similar to the quantity in the present case.
+
+75     The next factor to consider was whether the offence in the present case was a one-off transaction. The Accused admitted that he had “a pre-existing business relationship” with Max to supply “the exhibits \[_ie._ Candy B+ Complex\]” in Singapore. The agreement was that the Accused would earn $10 from each successful delivery of Candy B+ Complex to a recipient in Singapore. The Prosecution accepted, and there was no evidence to the contrary, that the occasion on 24 July 2018 was the first occasion that the Accused had tried to do this.
+
+76     However, and with respect, I disagreed with the Defence contention that this was a one-off transaction. The circumstances in the present case were different to the circumstances in _Asniarti_ and _Xu Linting._ In _Asniarti_, the unknown person had asked the Accused to bring the tablets to Singapore. There was no evidence that this was or would be part of an ongoing arrangement between the Accused and the unknown person. The unknown person had not given or offered the Accused any reward for her help. It would appear that the Accused had imported the tablets as a favour to the unknown person.
+
+77     In _Xu Linting_, Jin Liang, the Accused’s primary school friend, had asked the Accused to aid him in importing the poisons into Singapore. Jin Liang did not give nor promise the Accused any reward for her help. It would appear that the Accused had aided in the import of the poisons as a favour to her friend. Again, there was no evidence that this was or would be part of an ongoing arrangement.
+
+78     This was in stark contrast to the present case. The Accused was not importing the Candy B+ Complex out of the kindness of his heart; instead, this was a business arrangement between Max and the Accused. Max and the Accused had a planned course of action where the Accused would be paid $10 for each successful delivery. I found that Max and the Accused intended to continue with this business arrangement and it only ended because Customs officers discovered the Accused importing the tablets into Singapore on 24 July 2018.
+
+79     The next factor to consider was whether the Accused committed the offence out of a “moment’s weakness or folly”. As stated at paragraph 78 above, the Accused was importing the tablets in accordance with a business arrangement he had concluded with Max. Max and the Accused were not friends and there was no evidence that the Accused was a naïve individual that Max managed to talk into importing the tablets. I found that the Accused had embarked on a deliberate course of action and it was for financial gain. Again, this stands in contrast to the reasons why the Accused in _Asniarti_ and _Xue Linting_ agreed to commit the offences.
+
+80     I also disagreed that the Accused’s claim of ignorance should lower his culpability and in fact, I found that the Accused was not ignorant that he was committing an illegal or at best illicit act. First, the Accused was aware that he was bringing sexual enhancement drugs into Singapore. Max had not asked the accused, for instance, to import a benign consumable. It should have been obvious to the Accused, from the nature of the tablets that they were suspect.
+
+81     Second, the Accused had also been told by Max that the tablets had to be brought into Singapore surreptitiously because Max wanted to avoid taxes that would be payable if the tablets were imported into Singapore officially. This rational, _i.e._ to avoid paying taxes would be an illegality in itself. The fact that Max asked the accused to assist him in the commission of an illegal act should also have placed the Accused on alert as to the nature of the tablets.
+
+82     Third, the Accused had agreed to import the tablets into Singapore for financial gain, albeit very low financial gain rather than as a favour to Max. Fourth, the Accused had followed Max’s advice to hide the tablets. I found that from the combination of the above four factors it should have been plainly obvious to the Accused that his act of brining the tablets into Singapore was illegal or illicit.
+
+83     I noted that the Accused in _Xu Linting_, like the present case, was aware that the units she was aiding her friend to import were sexual enhancement drugs. However, I found the present Accused’s culpability was higher than the Accused in _Xu Linting_ because the present Accused had committed the offence with a profit motive in mind, unlike the Accused in _Xu Linting._ The District Judge, in _Xu Linting_, had commented that he would have imposed a custodial sentence if the Accused had committed the offence for financial reward. I found that the fact that the Accused in _Xu Linting_ was only 20 years old at the time of her offence also distinguished that case from the present case. The District Judge, in _Xu Linting_, had considered the Accused’s youth when deciding on the appropriate sentence. The present Accused was 28 years old at the material time. By no stretch of the imagination was he a youthful offender.
+
+84     In addition and as pointed out by the Defence ignorance of the law, _i.e._ that the Accused was unaware that importing the tablets without a licence was an offence, was not a defence.
+
+85     However, on the issue of the Accused’s ignorance, I gave no weight to the Prosecution’s submissions[^13], that the accused hid the tablets in a box “(covered by a raincoat)” or that he “remained silent” when asked about the exhibits at Woodlands Checkpoint. These two facts were not part of the Statement of Facts and, as such, it would be prejudicial for me to consider them.
+
+86     I agreed with the Defence that the Accused, like the Accused in _Asniarti_ and _Xu Linting_, had not made the trip to Singapore for the specific purpose of importing the tablets. Therefore, the Accused’s culpability was lower than the culpability of an offender who travelled to Singapore with the specific purpose of importing poisons. However, I found that this factor alone was insufficient to lower the Accused’s culpability to such a degree that I should consider imposing a non-custodial sentence.
+
+87     In view of the findings in paragraphs 62 to 86 above, I found that the shame or embarrassment that the Accused might feel because of the prosecution would not provide the necessary deterrence. The effect that the prosecution and conviction would have on the Accused and his work opportunities in Singapore did not weigh heavily on my decision on whether the custodial threshold had been crossed.
+
+(C)   Comparison with case precedents
+
+88     Even though the quantity of poisons imported by the Accused was smaller than the quantity involved in _Asniarti_ and _Xu Linting_, I found that for the reasons at paragraph 73 to 86 above the Accused’s culpability was greater than the culpability of the Accused in _Asniarti_ and _Xu Linting_.
+
+89      _Peh Ah Pang_ was not instructive in my determination of whether the custodial threshold had been crossed in the present case. First, the Prosecution had not submitted on sentence in that case and there was no elaboration in the decision on the adverse effects of using the poisons in question. Therefore, it was difficult to determine the potential for harm posed by the poisons. This was in contrast to the present case where I had assessed the potential for harm from the consumption of the tablets as high, see paragraph 72 above. Second, in _Peh Ah Pang_, the quantity of poison that the Accused possessed for the purposes of sale was, in my opinion, far less than the quantity of tablets imported by the Accused in the present case.
+
+(D)   Summary
+
+90     I found that the custodial threshold had been crossed, first, because of the high potential for harm arising out of the importation of tablets containing tadalafil, and second, as the Accused’s level of culpability was higher than the Accused in either _Asniarti_ or _Xu Linting._
+
+##### (2)   Step 2 - length of the custodial sentence
+
+91     I now turn to the appropriate length of sentence. I considered the non-exhaustive list of aggravating factors under step 2 in _Tan Gek Young._
+
+92      The quantity of poison imported. As I found at paragraph 73 above the quantity of tablets imported by the Accused, whilst not insignificant, was not large. Chao JA held, at \[73\] of _Tan Gek Young_, that the quantity of poisons is a proxy for the degree of harm that the offence could cause. Thus, a greater quantity of poison should generally translate into a more severe sentence. At paragraph 46 above, I stated that I did not place considerable weight on the Defence precedents that resulted in custodial sentences because the facts in those cases were far more aggravating. However, the cases were relevant to demonstrate that the courts consider the quantity of poisons, amongst other factors, in determining the length of the custodial sentence.
+
+93     I was mindful of the fact that the unreported precedents tendered by the Prosecution should be treated with caution, as they did not provide a detailed analysis of the basis for the sentences beyond the quantity and type of poisons involved, the dates of the offence and the number of charges the Accused faced. However, I found that there was some utility to these precedents as, based on the information available in the Prosecution’s table[^14], it was apparent to me that the quantity of sexual enhancement drugs had a bearing on the sentence for the s 5 Poisons Act charges.
+
+94     This was especially apparent in _Miao Xue Dong_ where the court sentenced the Accused to four weeks’ imprisonment for possession of 152 tablets containing sildenafil (DSC-900836-2017), three weeks’ imprisonment for possession of 62 capsules containing levonogestrel (DSC-900838-2017) and eight weeks’ imprisonment for possession of 408 tablets containing sildenafil (DSC-900839-2017). Although the sentence in DSC-900839-2017 was, in all likelihood, aggravated because the Accused committed it whilst he was under investigation, it was still apparent to me that the quantity of poisons bore a correlation to the sentence imposed.
+
+95     The quantity of sexual enhancement drugs in the s 5 Poisons Act charge that the Accused in _Jin Huankai_ pleaded guilty to and in DSC-900836-2017 that the Accused in _Miao Xue Dong_ pleaded guilty to was similar to the quantity in the present case. For these charges, the court sentenced the Accused in _Jin Huankai_ and _Miao Xue Dong_ to six weeks’ and four weeks’ imprisonment respectively. Based on the table provided by the Prosecution[^15], I found that the facts in those two cases were more egregious than the facts in the present case. Therefore, I found that whilst the quantity of poisons was similar the length of the custodial sentence in the present case ought to be shorter than the sentences for the relevant charges in _Jin Huankai_ and _Mao Xue Dong_.
+
+96     The Defence argued that the Accused was less culpable than the Accused in _Jin Huankai_ and _Miao Xue Dong_ because some of the tablets that formed the subject matter of the charges contained multiple poisons, whereas the Candy B+ Complex that the accused imported contained only tadalafil. I gave no weight to this submission. In _Jin Huankai_, one set of four pills contained both sildenafil and diclofenac. The proceeded s 5 Poisons Act charge stated that the Accused had imported 152 pills/tablets containing sildenafil. The sildenafil content in the set of four pills containing both sildenafil and diclofenac was included as part of the 152 pills/tablets in the proceeded s 5 charge. The Prosecution charged the Accused with a separate charge for possession of four pills containing diclofenac and this charge was taken into consideration for sentencing. A similar situation arose in _Miao Xue Dong_.
+
+97     Therefore, the Prosecution proffered a charge for each active ingredient in the pills/tablets that the respective Accused possessed without license. If the Prosecution proceeded with these charges then the court would have sentenced the Accused on that charge. If the Prosecution applied for the charge to be taken into consideration for sentencing, as it did in these two cases, then the court would have considered the charge in deciding the appropriate sentence for the proceeded charges. Because the different poisons gave rise to separate charges for each poison, I found that the fact that some of the pills had more than one active ingredient should not have had a bearing on the culpability of the Accused in _Jin Huankai_ and _Miao Xue Dong_.
+
+98      The Accused’s role. I accepted the Defence submission that the Accused was merely a conduit to bring the tablets to Singapore. He was not involved in the manufacture or acquisition of the tablets and he did not profit from the actual sale of the poisons. This was not to say that the Accused played a peripheral role. The Accused was a vital cog in the scheme of supplying the tablets to consumers in Singapore. Nonetheless, I found that the Accused’s role would not be an aggravating factor that would warrant an uplift to the sentence.
+
+99      Whether the offence was committed whilst the Accused was under investigation. I accepted that the Accused did not commit this offence whilst under investigation and, as such, there was no uplift to the sentence for this factor.
+
+100     The amount of profit made. The Accused had committed the offence for a financial gain. It was irrelevant that the Accused had not received payment for the delivery. However, I accepted that the gain the Accused would have derived from the offence was low and, as such, I did not apply an uplift to the sentence as a result.
+
+101     The presence of relevant antecedents. I accepted that the Accused had no previous convictions and, as such, there was no uplift to the sentence for this factor.
+
+102    As stated at paragraph 75 to 78 above, I did not accept that this was a one-off transaction by the Accused. I had considered this factor in my assessment of whether the custodial threshold had been crossed.
+
+103     The number of charges taken into consideration. There were no TIC charges in the present case and, as such, there was no uplift to the sentence for this factor.
+
+104    Based on the analysis above and the lack of factors that would warrant an uplift to the sentence, I found that a short custodial sentence of up to two weeks imprisonment would be appropriate.
+
+105    I then considered the mitigating factors. I accepted that the Accused had cooperated with HSA in the investigation and that he pleaded guilty at the earliest possible opportunity, which was a sign of his genuine remorse. I also took into account the fact that the Accused was untraced and had an otherwise blemish free history of employment in Singapore. I accepted that it was unlikely that the accused would re-offend. Based on these mitigating factors I found that I should apply a discount to the sentence.
+
+106    I did not accept the Accused’s claim of ignorance as a mitigating factor. I have dealt with the issue of the Accused’s ignorance in my assessment of whether the custodial threshold was crossed, see paragraph 79 to 84 above. In summary, I disagreed that the Accused was ignorant of the fact that his act of bringing the tablets from Malaysia to Singapore was illegal.
+
+107    With regard to the submission that the Accused’s trip to Singapore was not for the specific purpose of importing the tablets, I have dealt with this submission at paragraph 86 above. As I had already considered the fact that the Accused had not travelled to Singapore with the specific purpose in determining his level of culpability I found that it would be double counting this factor were I to consider it further in mitigation.
+
+108    I ascribed little mitigating weight to the submission that as a result of HSA retaining his passport, the Accused had not seen his parents in Malaysia for several months. Having perused the case file, I noted that after the Prosecution charged the Accused in court, he made several applications to leave Singapore to return to Malaysia. The court approved all of the Accused’s applications and the Prosecution did not raise any objections. Therefore, I did not agree that the accused had suffered any hardship because he had not seen his parents.
+
+109    I also ascribed little mitigating weight to the Accused’s contention that his permit to work in Singapore would be jeopardised because of this conviction. I found that there was nothing exceptional in the hardship he may suffer and, in any case, personal hardship of this nature is a concomitant consequence of a criminal conviction.
+
+110    Having considered the mitigating factors at paragraph 105 above, I applied a discount to the short custodial sentence I had assessed appropriate at paragraph 104 above.
+
+#### Prosecution’s submission on the principle in Adnan bin Kadir
+
+111    The Prosecution invited the court to apply the reasoning in _Adnan bin Kadir_ that under the MDA importation was a more serious offence than trafficking. The MDA prescribes separate punishments for offence of trafficking and offences of importation. For instance, the maximum sentence of imprisonment for trafficking in a controlled drug (that is not a specified drug) is 20 years; in contrast, the maximum for importing a similar drug is 30 years imprisonment.
+
+112    Under the Poisons Act, all activities listed under s 5 are punishable under s 16(1). There is no differentiation between the acts of importing, selling or possessing for the purposes of sale. Parliament when amending the Poisons Act did not differentiate between the offences. As such, I found that there was no basis for a finding that importation of poisons should attract harsher sentences than sale or possession for the purposes of sale.
+
+## Conclusion
+
+113    In summary, I found that general deterrence was the primary sentencing consideration. The custodial threshold had been crossed, first, because of the high potential for harm occasioned by the consumption of tadalafil and, in particular, the Candy B+ Complex tablets. Second, because the offence was not a one-off transaction. Third, because the offence was not occasioned by the Accused’s folly or ignorance. Fourth, that the shame or embarrassment that would follow from the prosecution was insufficient to meet the needs of general deterrence. I found that the Accused’s culpability was higher than the culpability of the Accused in _Asniarti_ or _Xue Linting_.
+
+114    Having considered the factors as step 2 of the guidelines in _Tan Gek Young_ and the mitigating factors, I sentenced the Accused to one weeks’ imprisonment. I found that a sentence of one weeks’ imprisonment was not disproportionate to the offence the Accused had committed and was not a crushing sentence.
+
+115    Finally, I would express my gratitude to the Prosecution and Defence for their well-reasoned arguments, both written and oral, and the invaluable assistance that they rendered to me.
+
+* * *
+
+[^1]: Paragraph 8, Prosecution’s Submission on Sentence
+
+[^2]: Page 72, Prosecution’s Bundle of Authorities
+
+[^3]: Page 73, Prosecution’s Bundle of Authorities
+
+[^4]: SingHealth, at https//www.singhealth.com.sg/patient-care/medicine/glibenclamide
+
+[^5]: SingHealth, at https//www.singhealth.com.sg/patient-care/medicine/sildenafil
+
+[^6]: Paragraph 3, page 1 of HSA updates on first fatality associated with use of Power 1 Walnut
+
+[^7]: Page 77 to 83, Prosecution’s Bundle of Authorities
+
+[^8]: Page 84, Prosecution’s Bundle of Authorities
+
+[^9]: NE, 12 March 2020
+
+[^10]: Plea in Mitigation at \[22\] to \[23\]
+
+[^11]: Plea in Mitigation, page 49
+
+[^12]: Pages 85 to 132, Prosecution’s Bundle of Authorities
+
+[^13]: Paragraph 34, Prosecution’s Submissions on Sentence
+
+[^14]: Page 9 to 10, Prosecution’s Submissions on Sentence
+
+[^15]: Paragraph 24, Prosecution’s Submission on Sentence
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F24523-SSP.xml)
