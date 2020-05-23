@@ -1,0 +1,453 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Jayden Foods Pte Ltd _v_ De Cheng Xin Xing Trading Ltd  
+
+### \[2020\] SGDC 109
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">District Court Suit No 1764 of 2017, District Court Appeal No 2 of 2020</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">27 April 2020</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Koh Jiaying</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Lee Mun Hooi (M/s Lee Mun Hooi &amp; Co) for the plaintiff; Goh Teck Wee (Goh JP &amp; Wong LLC) for the defendant.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Jayden Foods Pte Ltd — De Cheng Xin Xing Trading Pte Ltd</td></tr></tbody></table>
+
+Contract – Contractual terms – Agency
+
+27 April 2020
+
+### District Judge Koh Jiaying:
+
+## Introduction
+
+1       The plaintiff brought the present action against the defendant for outstanding payment for food products sold by the plaintiff to the defendant. The defendant did not dispute the plaintiff’s claim but alleged that it sold food products to the plaintiff, for which payment was outstanding. The defendant made a counterclaim for the outstanding payment and sought to set-off the counterclaim against the plaintiff’s claim.
+
+2       After hearing the evidence and considering the parties’ submissions, I allowed the plaintiff’s claim and dismissed the counterclaim. The defendant has filed an appeal against my decision. I set out the grounds for my decision below.
+
+## Parties
+
+3       The plaintiff is a company incorporated in Singapore, engaged in the principal business of food processing and meat products.[^1] The plaintiff’s sole director is Tan Kim In, also known as Steve Tan.[^2]
+
+4       The defendant is a company incorporated in Singapore, carrying on business as a wholesaler and retailer of various types of food products and as a food services provider. The defendant also sells its brand of food products such as cooking oil, chinese cooking wine, canned abalone, chinese herbs and spices, dried anchovies, dried shrimps and fish maw, under the “Imperial” trademark.[^3] The defendant’s Managing Director is one Goh Yiu Ngee, also known as Andrew Goh.[^4]
+
+## The parties’ claims and witnesses
+
+### The plaintiff’s claim
+
+5       The plaintiff’s claim is for the sum of $84,337.70, being the outstanding payment for various kinds of meat and seafood products sold by the plaintiff to the defendant from October 2015 to February 2016.[^5]
+
+6       The defendant confirmed it did not dispute the plaintiff’s claim of $84,337.70. However, its position was that it was not liable to pay the same as it intended to set-off such amount of its counterclaim as was sufficient to diminish or extinguish the plaintiff’s claim.[^6]
+
+### The defendant’s counterclaim
+
+7       The defendant averred that there was “sale and delivery of various kinds of seafood comprising, _inter alia_, abalone, scallop, shellfish, shark-fin \[_sic_\], birds \[_sic_\] nest and ingredients for cooking to the plaintiff, which amounted to the total sum of $166,620.98 from December 2015 to February 2016”.[^7] The invoices for these seafood products (“the Goods”) were set out in paragraph 4 of the Defence and Counterclaim. The defendant pleaded that the Goods were ordered by the plaintiff’s Ong Pow Chong (“Ong”) and after a “contra” of $84,337.70, the balance sum of $82,283.28 was due from the plaintiff.[^8]
+
+8       The plaintiff had, in its Reply and Defence to Counterclaim, put the defendant to strict proof that it authorised Ong to order the Goods and further averred that it did not receive any of the Goods. Its position was also that “each sales \[_sic_\] of the plaintiffs \[_sic_\] to the defendants \[_sic_\] were separate and distinct sales”.[^9]
+
+### The witnesses
+
+9       Steve Tan was the plaintiff’s sole witness during the trial. The defendant called the following witnesses:
+
+> (a)     Andrew Goh;
+
+> (b)     Ong;
+
+> (c)     Oswin Pang, a store personnel previously employed by the plaintiff[^10];
+
+> (d)     Teo Beng Soon, a shop owner who had been purchasing goods from both the plaintiff and defendant[^11];
+
+> (e)     Lam Heng Chong, the defendant’s customer[^12];
+
+> (f)     Wan Wai Kea, who was at the plaintiff’s store in or about January 2016[^13]; and
+
+> (g)     Koh Pee Cheng, who made a purchase of goods from the plaintiff in February 2016 on behalf of his company[^14].
+
+## Issues to be determined
+
+10     The issues to be determined are as follows:
+
+> (a)     Whether Ong had the authority to order and purchase goods on behalf of the plaintiff;
+
+> (b)     If Ong had such authority, whether he had ordered the Goods on behalf of the plaintiff;
+
+> (c)     If so, whether the plaintiff received the Goods; and
+
+> (d)     If the Goods were so ordered and received by the plaintiff, whether there was an agreement between the plaintiff and defendant to set-off the defendant’s sales against the defendant’s purchases[^15].
+
+## Whether Ong had the authority to order and purchase goods on behalf of the plaintiff
+
+11     There is no document or undisputed evidence showing that Ong had express actual authority to purchase goods on behalf of the plaintiff. The defendant submitted that Ong had actual authority to purchase goods from the defendant on behalf of the plaintiff. This was based on:
+
+> (a)     the evidence given by Ong, Oswin Pang and Wan Wai Kea (“Wan”); and
+
+> (b)     Steve Tan’s concession that he had no evidence or basis for his allegation that he had never authorised Ong to order goods on behalf of the plaintiff[^16].
+
+12     The plaintiff submitted that:
+
+> (a)     The defendant made a bare assertion that Ong was the plaintiff’s representative authorised to order goods from the defendant.
+
+> (b)     Ong tried to fortify his alleged authority by stating that he was the equal partner/owner of the plaintiff, but the evidence on this issue was contradictory.[^17]
+
+> (c)     There was no evidence that the plaintiff had represented to the defendant or to the world at large that Ong was their agent.
+
+> (d)     The plaintiff was aware or had the knowledge that Ong was holding out to the defendant that he had the plaintiff’s authority to purchase the defendant’s goods.
+
+> (e)     The plaintiff had in any circumstances acquiesced to the alleged purchases carried out by Ong.[^18]
+
+13     Andrew Goh’s evidence in his affidavit of evidence-in-chief (“AEIC”) was that sometime in or around October 2015, the defendant began to buy food products from the plaintiff and in or around December 2015, the plaintiff began to buy food products from the defendant. The plaintiff’s purchases were made by their authorised representative, Ong and because the plaintiff and defendant were buying products from each other, Ong and he agreed that they would set-off their sales against their purchases.[^19] For the period between December 2015 and February 2016, the plaintiff purchased food products from the defendant amounting to a sum of $166,620.98.[^20] Sometime on or about 3 June 2016, the defendant received, via fax, a letter from the plaintiff to their clients dated 1 May 2016 announcing the resignation of Ong and stating that the plaintiff had nothing to do with Ong in or after 1 May 2016.[^21] By way of a letter dated 9 June 2016 from the defendant’s previous solicitors to the plaintiff, the defendant demanded repayment of the outstanding debt of $82,238.28 (after having set-off the defendant’s purchases from the plaintiff’s).[^22] Subsequently, the plaintiff’s Steve Tan called Andrew Goh. During the call, Steve Tan did not dispute the debt of $82,283.28 or Ong’s authority to purchase the Goods from the defendant. However, Steve Tan claimed that Ong had cheated the plaintiff in respect of the Goods and informed that the plaintiff had filed a police report against Ong for cheating. Steve Tan requested the defendant not to sue for payment pending the outcome of a police investigation into Ong’s activities and Andrew Goh agreed to withhold legal action against the plaintiff temporarily “because of what Mr \[Steve\] Tan had said”.[^23]
+
+14     Andrew Goh’s evidence during cross-examination in this regard was:
+
+> (a)     Only Ong dealt with the defendant and Steve Tan did not liaise with the defendant in respect of the goods ordered by Ong[^24].
+
+> (b)     He did not call the plaintiff or write any letters to the plaintiff to seek confirmation from the plaintiff that Ong was authorised to buy or sell goods to the defendant.[^25]
+
+> (c)     Ong did not tell him that Ong had the authority to place orders for the purchase and delivery of goods. The defendant owed the plaintiff money first, and if Ong had the authority not to collect this sum from the defendant, Ong had “a bit of substantial authority to do that”.[^26]
+
+> (d)     When Steve Tan called him, Steve Tan told him that the plaintiff owed the defendant $82,283.28 and that Ong had authority to purchase the Goods[^27].
+
+He further explained during re-examination that “on a couple of instances in \[his\] shop”, Ong met some other company bosses and dealt directly with them, by talking to them and giving them orders on the spot. Andrew Goh also stated that he was very sure that Ong had the authority to buy as well since he had the authority to sell, and could allow Andrew Goh “to not \[_sic_\] purchase and not give money on the spot”, which indicated substantial authority.[^28]
+
+15     Ong’s evidence in his AEIC was that in or around June 2015, Steve Tan approached him to join Steve Tan in starting the plaintiff’s business as Steve Tan wanted to leverage on Ong’s business contacts. Steve Tan and Ong agreed to run the plaintiff’s business jointly and under their agreement, Ong would take charge of the sales department and manage the sales and purchases of products and goods for the business, with Steve Tan taking charge of the finance and accounts of the plaintiff. As the person in charge of the sales department, Ong had the authority to place orders for the purchase and delivery of goods to the plaintiff from various suppliers, including the defendant. In the case of the defendant, as it was also a customer of the plaintiff, Ong agreed with Andrew Goh that they would “set-off or contra \[their\] sales and purchases to each other”.[^29] Ong further stated that the plaintiff had paid other suppliers from whom he had also ordered goods for the plaintiff between December 2015 and February 2016. Ong’s position was that Steve Tan had lodged a police report against him for cheating the plaintiff and the fact that the police confirmed that they would not be taking any action against him was clear proof that the plaintiff’s allegations were baseless and that Ong had full authority to act on behalf of the plaintiff.[^30]
+
+16     During cross-examination, Ong’s evidence was as follows:
+
+> (a)     He had agreed with Steve Tan that they would run the business together, in equal shares, but there was nothing in writing. He would be giving these shares to his child.[^31]
+
+> (b)     At the time of the order of the Goods from the defendant, he was a bankrupt. However, he had authority to place orders for the purchase and delivery of goods because the plaintiff had agreed that he had the authority to buy and sell.[^32]
+
+> (c)     He disagreed with the contents of the notice sent by the plaintiff dated 1 May 2016, in particular that he had resigned from the plaintiff, instead of being kicked out, but could not say anything as he did not receive any appointment letter from the plaintiff.[^33]
+
+> (d)     He had told Andrew Goh that he was the “authorised person” to place orders for the plaintiff.[^34]
+
+> (e)     There was no limit to the amount that he could buy or sell.[^35]
+
+17     Oswin Pang’s evidence in his AEIC and supplementary AEIC was that during his employment as a store personnel in charge of the plaintiff’s store from about June 2015 to about mid-January 2016, he received goods from various suppliers, which were ordered by Ong. He recalled receiving goods and abalone gift boxes bearing the “Imperial” trademark. All the goods that he had received were always purchased by Ong. Further, he knew the plaintiff’s Steve Tan and Ong to each be in charge of the aspect of the business they were good at, with Ong going out, sourcing for and buying goods and stocks and sourcing for potential customers and Steve Tan being the one who handled monetary matters, including bookkeeping and any transactions from walk-in customers. His belief was that Steve Tan and Ong were at all material times equals in running the business.[^36]
+
+18     During cross-examination, Oswin Pang’s evidence in this regard was as follows:
+
+> (a)     Both Steve Tan and Ong told him that they ran the business in equal partnership[^37] and that they were partners when he joined the plaintiff.[^38] He agreed with plaintiff’s counsel that his statement that Steve Tan and Ong were equal partners did not hold true in light of the ACRA search which did not show Ong as “a subscriber of the company”.[^39]
+
+> (b)     He knew that Steve Tan handled monetary matters as Steve Tan had told him so and would sit outside his store “doing the DO \[Delivery Order\] writing, count money…stack of money, then after put in \[Steve Tan’s\] bag”.[^40]
+
+19     Oswin Pang clarified during re-examination that his evidence that Steve Tan and Ong were running the business as an equal partnership meant that Ong ran the “outside” of the business while Steve ran the “inside…the store” and that each did their share of their duties.[^41]
+
+20     In respect of Oswin Pang’s evidence, Ong initially testified during cross-examination that he had never told Oswin that Steve was in charge of monetary matters and he was in charge of sales, but “they \[were\] able to see”.[^42] Ong then clarified during re-examination that he could not remember whether he had in fact told Oswin Pang this in the presence of Steve Tan but thought that he did “because many people knew that \[Ong\] was one of the bosses”.[^43]
+
+21     Wan’s evidence during cross-examination was that he knew Ong as his company sold sea cucumber to the plaintiff through Ong, who purchased and arranged the orders somewhere in October 2015 to January 2016.[^44] Given that this information was not set out in his AEIC, nor were there any supporting documents exhibited in his AEIC, Wan’s evidence in this regard was of extremely limited assistance.
+
+22     Steve Tan’s evidence in his AEIC was that Ong was engaged by the plaintiff as its salesperson and Ong’s scope of work was to sell and deliver goods to the plaintiff’s customers. Ong was never authorised to order goods on the plaintiff’s behalf. It was the plaintiff’s practice that any purchase of goods had to be approved by Steve Tan and only Steve Tan had the authority to order goods on the plaintiff’s behalf. There was no agreement between Steve Tan and Ong that Ong would take charge of the Sales Department and manage the sales and purchases of products and good for the plaintiff. [^45] The plaintiff was shocked when it received the letter of 9 June 2016 from the defendant’s previous solicitors and he had called Andrew Goh to enquire about the matters. Andrew Goh had told him that the Goods were ordered by Ong. Steve Tan was extremely surprised and had told Andrew Goh that the plaintiff did not authorise Ong to order the Goods nor did Ong have the authority to order goods without the plaintiff’s consent. He then told Andrew Goh that the plaintiff suspected that “Ong had been cheating on the plaintiffs \[_sic_\]” but did not tell the defendant to hold back its claim pending the outcome of the police investigation.[^46] The plaintiff sent a letter of notification to the plaintiff’s customers dated 1 May 2016 informing them that Ong had resigned from the plaintiff and “warned them not to engage on \[_sic_\] any transactions on behalf of the plaintiffs \[_sic_\]”[^47].
+
+23     Steve Tan’s evidence during cross-examination in this regard was:
+
+> (a)     He had employed Ong from around June or July 2015 to 1 May 2016[^48]. Ong was a salesman and his job was outbound.[^49]
+
+> (b)     He is a director of the plaintiff and is in charge of mostly purchases, operations, part of sales, checking accounts and stocktaking.[^50]
+
+> (c)     From October 2015 to June 2016, the plaintiff had 3 salesmen, namely himself, Ong and a Kenny Chai Ching Huat, and he was the only person in charge of purchases.[^51]
+
+> (d)     There was more than one storeman, one of whom was Oswin Pang.[^52]
+
+> (e)     Ong’s role was to conduct sales and some delivery[^53]. Ong and Kenny transacted the sales but he would sign the invoices.[^54]
+
+> (f)     The plaintiff did not print name cards for Ong as Ong had said there was “no need” for that, but this was not because he was recognised by the market as an owner of the company.[^55] However, he expected people that Ong dealt with to accept that he was representing the plaintiff as a sales representative when Ong did not have a name card. He agreed with defendant’s counsel that it “can be considered” that the reason for this expectation was because Ong had been in this industry for more than 20 years, was well known and very experienced.[^56]
+
+> (g)     He could not remember if he had given others authority to make purchases from October 2015 to June 2016.[^57]
+
+> (h)     Many suppliers, close to a hundred, had been sent the letter dated 1 May 2016 by the plaintiff. The plaintiff had to inform of a salesperson’s resignation or there would be “some problem when there is…collection of money”.[^58]
+
+> (i)     Ong’s job scope included the collection of some cash and some cheques.[^59]
+
+> (j)     He had asked Ong to collect payment from the defendant but Ong had told him that the defendant was very busy due to warehouse sales for the Chinese New Year. When he had asked Ong to collect payment after Chinese New Year, Ong told him that “the boss of De Cheng had some family issues” and he was unable to collect full payment.[^60] However, he agreed that the first time he had demanded for payment from the defendant was more than one and a half years after the first invoice.[^61]
+
+24     As highlighted by defendant’s counsel, Steve Tan also conceded that there was no evidence showing that he never authorised Ong to order goods and that Ong’s lack of authority was his bare allegation.[^62]
+
+25     The law on agency is trite. Actual authority is a legal relationship between principal and agent created by a consensual agreement to which they alone are parties. Its scope is to be ascertained by applying ordinary principles of construction of contracts, including any proper implications from the express words used, the usages of the trade or the course of business between the parties: see _Freeman & Lockyer (A firm) v Buckhurst Park Properties (Mangal) Ltd and another_ <span class="citation">\[1964\] 2 WLR 618</span> (“_Freeman_”) at p 635.[^63]
+
+26     Apparent authority is a legal relationship between the principal and the contractor created by a representation, made by the principal to the contractor, intended to be and in fact acted upon by the contractor, that the agent has authority to enter on behalf of the principal into a contract of a kind within the scope of the “apparent” authority, so as to render the principal liable to perform any obligations imposed upon him by such contract: see _Freeman_ at p 636.[^64]
+
+27     As highlighted above, actual authority can be implied, based on usages of the trade or the course of business between the parties. I am of the view that the plaintiff had impliedly granted authority to Ong to purchase goods on behalf of the plaintiff for the following reasons:
+
+> (a)     The plaintiff bought and sold goods. It is not disputed that apart from Ong’s authority to sell goods to other parties, Ong could also collect cash and cheques on behalf of the plaintiff. In my view, the latter is indicative of the plaintiff granting Ong considerable authority. Steve Tan’s evidence was that Ong’s role was to conduct sales and some delivery but no name card was printed for Ong as Ong said there was no need for that. However, Steve Tan agreed that he expected people in the industry dealing with Ong to accept that Ong represented the plaintiff as a sales representative because Ong had been in this industry for more than 20 years and was well known. Given the context where the plaintiff also bought goods and Ong being extremely experienced and well known in the industry, Ong’s lack of a name card or any letter to external parties specifying that Ong only had authority to sell goods (and not purchase goods) indicates that Ong also had authority to purchase goods on behalf of the plaintiff.
+
+> (b)     Steve Tan had given evidence that many suppliers were sent the letter dated 1 May 2016 informing of Ong’s resignation. In my view, if Ong’s role was clearly limited to selling goods and collecting money, the letter need only be sent to the plaintiff’s customers (who purchased from the plaintiff) and not to the plaintiff’s suppliers. I further note that the letter had not specified Ong’s role in the plaintiff and the sentence “Jayden Foods Pte Ltd has nothing to do with any of Mr Ong Pow Chong (Ah Tiong) \[_sic_\] activities that he may indulge in after May 1st, 2016” indicates that Ong had a greater role in the plaintiff. This would be consistent with the indication in the above sub-paragraph that Ong had authority to purchase goods on behalf of the plaintiff.
+
+> (c)     Andrew Goh gave evidence that the defendant owed money to the plaintiff for goods purchased from the plaintiff, prior to the plaintiff purchasing goods from the defendant, and that Ong had substantial authority not to collect the money owed to the plaintiff. Steve Tan’s evidence was that from October 2015 to February 2016, the defendant had purchased goods from the plaintiff amounting to $84,337.70. As it is not disputed that the plaintiff had provided the defendant with the goods and Steve Tan’s evidence was that his job scope included operations and stocktaking, it was likely that Steve Tan would have been aware of the defendant’s purchases. However, there was no evidence of any demand of this sum owed by the defendant and Steve Tan conceded that the first demand made to the defendant was one and a half years after the first invoice issued to the defendant.[^65] Although Steve Tan had given evidence during cross-examination that he had instructed Ong to demand payment to no avail, I place limited weight on his evidence in this regard as this was not stated in his AEIC. In my view, this minimally indicates that Ong had substantial authority to hold collection of monies owed to the plaintiff in abeyance, which is consistent with the indication that Ong had authority beyond selling goods and collecting money on behalf of the plaintiff.
+
+28     In view of my finding that on a balance of probabilities, Ong had actual implied authority to purchase goods on behalf of the plaintiff, it is unnecessary for me to consider the issue of Ong’s apparent authority and the plaintiff’s submission that this issue was not specifically pleaded[^66].
+
+## Whether Ong had ordered the Goods on behalf of the plaintiff
+
+29     The defendant’s submission was that there was incontrovertible evidence that the plaintiff had ordered and purchased the defendant’s goods through Ong. In this regard, the defendant relied on the evidence given by Lam Heng Chong (“Lam”), Oswin Pang and that of the individuals who saw the “Imperial” brand goods being sold in the plaintiff’s store.[^67]
+
+30     Lam’s evidence in his AEIC was that he was the defendant’s customer, and had seen Ong buy goods from the defendant’s store located at the Victoria Wholesale Centre in or about December 2015 to February 2016.[^68] While he claimed during cross-examination that he had seen a bill being made out to the plaintiff when Ong was close by, this was not mentioned in his AEIC. More importantly, he did not know the type of goods Ong was buying[^69]. Lam’s evidence therefore does not assist in any way to determine whether Ong had ordered the specific Goods on behalf of the plaintiff.
+
+31     Andrew Goh’s evidence in his AEIC was that the plaintiff’s purchases was made by their authorised representative, Ong.[^70] Ong’s evidence in his AEIC was that he ordered the Goods from the defendant on behalf of the plaintiff.[^71] During cross-examination, he confirmed that he signed all the invoices issued by the defendant to the plaintiff, save for Tax Invoice C No. 83426, which the plaintiff’s staff signed as the receiver[^72]. These invoices issued by the defendant state that the goods were sold to the plaintiff.[^73]
+
+32     Ong’s evidence was that he conducted some personal trades as he had been selling abalone before he joined the plaintiff in June 2015[^74]. While the documents showed that some of these personal trades had taken place during his employment with the plaintiff[^75], there is no evidence that the Goods were ordered by Ong in his personal capacity and not on behalf of the plaintiff. I therefore find that Ong had ordered the Goods from the defendant on behalf of the plaintiff.
+
+## Whether the plaintiff received the Goods
+
+33     The plaintiff submitted that it was clear that the defendant alleged that the Goods were delivered to the plaintiff’s premises and that the dates on the “Receiver Signature” column of the defendant’s invoices were the dates of acknowledgment of the delivery of the Goods[^76]. In this regard, the plaintiff’s position is that Ong and Andrew Goh had given contradictory evidence.[^77]
+
+34     The defendant submitted that there was also incontrovertible evidence that the Goods had been delivered to the plaintiff or picked up by Ong or the plaintiff’s other staff. In particular, it relied on the fact that the “Imperial” brand logo belongs solely to the defendant, the evidence of Oswin Pang, Teo Beng Soon, Wan and Koh Pee Cheng.[^78]
+
+35     While the defendant did not plead specifically how and when the plaintiff received the Goods, I note that there was reference to the “sale and delivery of various kinds of seafood…” in paragraph 4 of the Defence and Counterclaim (as set out in the letter of 9 June 2016 from the defendant’s previous solicitors, Sng & Co, to the plaintiff)[^79]. This is consistent with Andew Goh’s evidence in his AEIC that “these goods were delivered to the Plaintiffs’ premises and the deliveries were acknowledged by the Plaintiffs on the Defendants’ invoices”[^80], as well as Ong’s evidence in his AEIC that the goods “were duly delivered to the Plaintiffs’ store at Block 27 Defu Lane 10 #01-174/176 Singapore 539028” and that he also recalled “signing the Defendants’ invoices to acknowledge the sale and delivery of the goods by the Defendants to the Plaintiffs’ premises”[^81]. Ong further stated in his AEIC that save for the defendant’s tax invoice dated 10 December 2015, all the other defendant’s tax invoices had been signed by him.[^82] The consistent position taken in the defendant’s pleaded case, the evidence of Andrew Goh and Ong in their AEICs was that the Goods had been delivered to the plaintiff’s premises.
+
+36     However, the evidence that emerged on this issue during cross-examination was vastly different. Ong’s evidence was that:
+
+> (a)     Some of the Goods were delivered by the defendant to the plaintiff’s factory while the other Goods were collected personally. When the Goods were collected personally, some were collected by him and some were collected by the plaintiff’s staff when they were making deliveries to the defendant.[^83]
+
+> (b)     Steve Tan would be the one who checked and told him that the goods were collected or received when the Goods were delivered to the plaintiff’s factory.[^84]
+
+> (c)     There were written records of the Goods being collected, either written pieces of blank paper signed by Andrew Goh or Whatsapp messages.[^85]
+
+37     However, the defendant did not put forward any evidence of these written records of the collection of the Goods. There was also no explanation on how Ong would know when some of the Goods were collected by the plaintiff’s staff.
+
+38     Andrew Goh agreed with plaintiff’s counsel that the receiver’s signature on the bottom left corner would be the “signature to acknowledge receive \[_sic_\] of goods”.[^86] However, in respect of Invoice No. C83434[^87], he also gave evidence that he “wrote down on the left hand side, the quantity and the description, but not the pricing” as the plaintiff was considered a wholesaler and had wanted more competitive prices. The prices were therefore not filled in when the goods were received by the plaintiff on 1 January 2016, but only after that and Ong had thereafter signed the invoice on 4 March 2016.[^88] Andrew Goh explained that the acknowledgment by Ong on the bottom left hand side of Invoice No. C83434 would be the acknowledgment by the plaintiff of the deliveries referred to in paragraph 5 of his AEIC.[^89] He further testified that the defendant had warehousing records showing that the goods set out in the said invoice were taken away from their warehouse[^90]. However, no such evidence was put forward during the trial.
+
+39     There was no explanation from either Ong or Andrew Goh why the prices of the Goods could be determined later, two months later in the case of Invoice No. C83434, when these goods were collected earlier for the purpose of being sold by the plaintiff at a certain price. For example, Ong’s evidence on Invoice No. C83434 was that the goods therein were delivered to the customers immediately.[^91] The value of the goods set out in the said invoice was not low, with the total sum invoiced being $32,539.55. It would seem incredulous that Ong was, on behalf of the plaintiff, able to determine the selling price of the goods to the plaintiff’s customer when the defendant had not determined and confirmed the purchase price of the goods at that point.
+
+40     Oswin Pang had also given evidence on the issue of whether the plaintiff received the Goods. He stated in his AEIC that during his employment with the plaintiff as a store personnel from June 2015 to mid-January 2016, he received goods from various suppliers which were ordered by Ong, including goods and abalone gift boxes bearing the “Imperial” trademark.[^92] During cross-examination, Oswin Pang gave inconsistent evidence on the issue of whether the Goods were delivered or collected, as set out below:
+
+> (a)     There were delivery orders from the supplier when they delivered goods to the store and that applied for the defendant’s goods.[^93]
+
+> (b)     For “De Cheng side”, Ong would “go and collect” and bring Oswin Pang to do so as well.[^94]
+
+> (c)     Sometimes the defendant had delivery men who went to his store and when he received the goods, the delivery men would “go up to 2nd level to find…Steve \[Tan\]”.[^95]
+
+> (d)     He agreed with plaintiff’s counsel that all the goods in the invoices set out in the defendant’s Statement of Account dated 29 February 2016[^96], save for that in the invoice no. C834444, were acknowledged after he left the plaintiff and he would not know which of these goods were delivered.[^97]
+
+> (e)     He recalled receiving the goods for invoice no. C83426[^98]. He had opened the box as it was new stock (which he would do if he saw new boxes which he had never seen before), and Steve Tan had instructed him to bring it up to the second floor.[^99]
+
+I am therefore unable to rely on Oswin Pang’s evidence on this issue.
+
+41     Teo Beng Soon’s evidence in his AEIC was that he was a shop owner who had been purchasing goods from the plaintiff and defendant. When Teo Beng Soon (“Teo”) visited the plaintiff’s store at Blk 27 Defu Lane 10 #01-174/176 Singapore 539208 (“Defu Store”) in or about January 2016, he saw abalone gift boxes bearing the “Imperial” trademark, which he understood to be the defendant’s brand and trademark.[^100] Despite Teo stating that he had been purchasing goods from the plaintiff, he was unable to state the name of the plaintiff accurately during re-examination.[^101] When asked during cross-examination whether he would be able to tell the Court how the abalones of “Imperial” brand ended up at the plaintiff’s store, Teo’s evidence was that Andrew Goh had told him that the “people at Defu Lane” collected some abalones but refused to make payment[^102] and Teo had told Andrew Goh that he “certainly saw abalones at Defu Lane”. Teo did not call anyone in the plaintiff company to check whether it had purchased the “Imperial” brand abalones.[^103] It was clear from his evidence that Teo had no personal knowledge as to how abalone gift boxes bearing the “Imperial” trademark had ended up in the plaintiff’s Defu Store.
+
+42     Wan’s evidence in his AEIC was that in or about January 2016, the plaintiff’s representatives marketed some products to him at the plaintiff’s Defu Store. Wan was shown “Imperial” brand and “Dolphin” brand canned abalone, among other things, and saw “Imperial” brand abalone gift boxes.[^104] He testified that the “plaintiffs’ representatives” referred to in his AEIC were Ong and Steve Tan, and that he did not buy any of the products shown to him as the price was “not right”.[^105]
+
+43     Koh Pee Cheng’s evidence in his AEIC was that on or about 3 February 2016, he “purchased on behalf of Koh Slotted Angles Engineering Pte Ltd, amongst other things, 36 cans of Imperial brand abalone” from the plaintiff at its Defu Store and the plaintiff’s director, Steve Tan, signed off on the tax invoice for this purchase.[^106] During cross-examination, Koh Pee Cheng (“Koh”) agreed that he would not know the origin of the goods purchased from the plaintiff[^107].
+
+44     For completeness, I should mention that the material aspects of the evidence given by Lam have been set out above at paragraph 30 and it is clear that it does not assist the determination of the issue of whether the plaintiff received the Goods.
+
+45     As no evidence has been put forward by the defendant that it was the sole source of products bearing the “Imperial” trademark and that it would be impossible for the plaintiff to obtain any such products unless these were purchased from the defendant, it is clear that the evidence of Teo, Lam, Koh and Wan does not assist to determine whether the plaintiff received the Goods.
+
+46     For the above reasons, I am of the view that the evidence put forward by the defendant in respect of whether the Goods were received by the plaintiff is internally inconsistent and inherently improbable. Accordingly, I find that the defendant has not discharged its burden of proof in respect of the issue of whether the plaintiff received the Goods. In view of this finding, it would not be necessary for the Court to determine whether there was an agreement between the parties to set-off the defendant’s sales against the defendant’s purchases.
+
+## Conclusion
+
+47     For the above reasons, I dismissed the defendant’s counterclaim and entered judgment for the plaintiff for the sum of $84,337.70, with interest on the sum of $84,337.70 at 5.33% per annum from 25 February 2016[^108] to the date of judgment, with costs of both the claim and counterclaim.
+
+* * *
+
+[^1]: Statement of Claim (“SOC”), para 1
+
+[^2]: Bundle of Affidavits of Evidence-in-Chief (“BA”) p 1, para 1 and p 10; Transcripts (21 August 2019) p 24 line 32 to p 25 line 1
+
+[^3]: SOC, para 2; Defence and Counterclaim (“DCC”), para 1; BA p 60, para 3
+
+[^4]: BA p 60, para 1
+
+[^5]: SOC, para 3
+
+[^6]: DCC, para 7; Transcripts (20 August 2019) p 93 lines 18 to 25
+
+[^7]: DCC, para 4
+
+[^8]: DCC, paras 4 and 5
+
+[^9]: Reply and Defence to Counterclaim (“R&DC”), paras 5, 6 and 8
+
+[^10]: BA p 120, para 3
+
+[^11]: BA p 119, para 3
+
+[^12]: BA p 123, para 3
+
+[^13]: BA p 124, para 3
+
+[^14]: BA p 129, para 4
+
+[^15]: BA p 61, para 4
+
+[^16]: Defendant’s Closing Submissions dated 8 October 2019, para 15
+
+[^17]: Plaintiff’s Closing Submissions dated 8 October 2019, paras 15, 22 to 29
+
+[^18]: Plaintiff’s Reply Closing Submissions dated 15 October 2019, para 10
+
+[^19]: BA p 61, para 4
+
+[^20]: BA p 61, para 5
+
+[^21]: BA p 61, para 6 and p 87
+
+[^22]: BA p 61, para 7
+
+[^23]: BA p 62, para 8
+
+[^24]: Transcripts (20 August 2019) p 93 line 28 to p 94 line 6; p94 lines 7 to 24
+
+[^25]: Transcripts (20 August 2019) p 132 lines 1 to 19
+
+[^26]: Transcripts (20 August 2019) p 132 line 28 to p 133 line 14
+
+[^27]: Transcripts (20 August 2019) p 148 lines 1 to 19
+
+[^28]: Transcripts (20 August 2019) p 184 lines 13 to 24
+
+[^29]: BA pp 93 to 94, paras 3 to 4
+
+[^30]: BA p 95, paras 8 and 9
+
+[^31]: Transcripts (19 August 2019) p 103 line 22 to p 104 line 8
+
+[^32]: Transcripts (19 August 2019) p 134 lines 2 to 12
+
+[^33]: Transcripts (19 August 2019) p 149 line 26 to p 151 line 26; Defendant’s Bundle of Documents (“DB”) p 43
+
+[^34]: Transcripts (19 August 2019) p 160 lines 15 to 18
+
+[^35]: Transcripts (19 August 2019) p 160 line 31 to p 161 line 6
+
+[^36]: BA pp 120 to 121, paras 3 to 4; BA pp 126 to 127, paras 3 to 5
+
+[^37]: Transcripts (19 August 2019) p 40 lines 6 to 30
+
+[^38]: Transcripts (19 August 2019) p 46 lines 3 to 4
+
+[^39]: Transcripts (19 August 2019) p 69 line 18 to p 71 line 16
+
+[^40]: Transcripts (19 August 2019) p 43 lines 4 to 31; p 44 lines 16 to 25
+
+[^41]: Transcripts (19 August 2019) p 74 line 15 to p 75 line 3
+
+[^42]: Transcripts (19 August 2019) p 100 lines 17 to 20
+
+[^43]: Transcripts (20 August 2019) p 56 lines 1 to 8
+
+[^44]: Transcripts (17 June 2019) p 114 line 21 to p 115 line 30
+
+[^45]: BA pp 4 to 5, paras 20 to 23
+
+[^46]: BA p 5, paras 24 to 26
+
+[^47]: BA pp 5 to 6, para 27 and BA 59
+
+[^48]: Transcripts (21 August 2019) p 17 lines 19 to 24
+
+[^49]: Transcripts (21 August 2019) p 16 lines 27 to 31
+
+[^50]: Transcripts (21 August 2019) p 25 lines 2 to 14
+
+[^51]: Transcripts (21 August 2019) p 27 lines 2 to 30
+
+[^52]: Transcripts (21 August 2019) p 28 lines 10 to 20
+
+[^53]: Transcripts (21 August 2019) p 28 lines 21 to 23
+
+[^54]: Transcripts (21 August 2019) p 30 line 17 to p 31 line 7
+
+[^55]: Transcripts (21 August 2019) p 31 lines 10 to 17
+
+[^56]: Transcripts (21 August 2019) p 41 lines 16 to 28
+
+[^57]: Transcripts (21 August 2019) p 43 lines 20 to 29
+
+[^58]: Transcripts (21 August 2019) p 46 line 16 to p 47 line 12
+
+[^59]: Transcripts (21 August 2019) p 47 lines 13 to 22
+
+[^60]: Transcripts (21 August 2019) p 82 line 2 to p 84 line 28
+
+[^61]: Transcripts (21 August 2019) p 86 lines 9 to 14
+
+[^62]: Transcripts (21 August 2019) p 42 lines 6 to 18
+
+[^63]: Defendant’s Closing Submissions dated 8 October 2019, p 53 (Tab A)
+
+[^64]: _Ibid_, at p 54
+
+[^65]: See Plaintiff’s Bundle of Documents dated 10 June 2019 (“PB”), p 40. The date of the first invoice issued to the Defendant is 30 October 2015.
+
+[^66]: Plaintiff’s Closing Submissions dated 8 October 2019, paras 39 to 45
+
+[^67]: Defendant’s Closing Submissions dated 8 October 2019, paras 42 to 46
+
+[^68]: BA 123, para 3
+
+[^69]: Transcripts (17 June 2019) p 88 lines 4 to 25
+
+[^70]: BA p 61, para 4
+
+[^71]: BA p 94, para 5
+
+[^72]: Transcripts (20 August 2019) p 34 line 7 to p 35 line 29; Transcripts (20 August 2019) p 35 line 25 to p 36 line 11; Defendant’s Supplemental Bundle of Documents (SDB), p 3
+
+[^73]: SDB pp 1 to 10, 13 to 16, 21 to 22, 27 to 28, 41 to 42, 45 to 48, 51 to 52, 60
+
+[^74]: Transcripts (20 August 2019) p 24 line 21 to p 25 line 18
+
+[^75]: Transcripts (20 August 2019) p 26 line 30 to p 27 line 15, p 29 line 16 to p 30 line 21, Plaintiff’s Supplemental Bundle of Documents (“SPB”) pp 16, 18, 20, 45
+
+[^76]: Plaintiff’s Closing Submissions dated 8 October 2019, paras 48 to 49
+
+[^77]: Plaintiff’s Closing Submissions dated 8 October 2019, paras 53 to 61
+
+[^78]: Defendant’s Closing Submissions dated 8 October 2019, paras 44 to 46
+
+[^79]: Bundle of Pleadings p 5
+
+[^80]: BA p 61, para 5
+
+[^81]: BA p 94, para 5
+
+[^82]: BA p 95, para 6
+
+[^83]: Transcripts (20 August 2019) p 10 lines 1 to 16, p 35 line 23 to p 36 line 10; p 42 lines 8 to 14; p 65 lines 12 to 25
+
+[^84]: Transcripts (20 August 2019) p 36 lines 19 to 31
+
+[^85]: Transcripts (20 August 2019) p 42 line 21 to p 43 line 13
+
+[^86]: Transcripts (20 August 2019) p 117 line 25 to p 118 line 22
+
+[^87]: DB p 7
+
+[^88]: Transcripts (20 August 2019) p 118 line 13 to p120 line 8
+
+[^89]: Transcripts (20 August 2019) p 161 lines 12 to 25; BA 61
+
+[^90]: Transcripts (20 August 2019) p 121 lines 9 to 31
+
+[^91]: Transcripts (20 August 2019) p 10 line 25 to p 13 line 3
+
+[^92]: BA 120 to 121, paras 3 to 4
+
+[^93]: Transcripts (19 August 2019) p 26 lines 18 to 25
+
+[^94]: Transcripts (19 August 2019) p 26 line 27 to p 27 line 1
+
+[^95]: Transcripts (19 August 2019) p 27 lines 4 to 18
+
+[^96]: DB 42
+
+[^97]: Transcripts (19 August 2019) p 36 line 17 to p 37 line 1
+
+[^98]: DB2/SDB 3 and SDB 4
+
+[^99]: Transcripts (19 August 2019) p 79 lines 10 to 29
+
+[^100]: BA 119, paras 3 and 4
+
+[^101]: Transcripts (17 June 2019) p 67 lines 7 to 13, p 69 line 26 to p 71 line 12.
+
+[^102]: Transcripts (17 June 2019) p 54 lines 11 to 19.
+
+[^103]: Transcripts (17 June 2019) p 55 lines 27 to 32
+
+[^104]: BA 125, para 3
+
+[^105]: Transcripts (17 June 2019) p 116 line 24 to p 119 line 1
+
+[^106]: BA 129, para 4
+
+[^107]: Transcripts (17 June 2019) p 107 lines 4 to 20
+
+[^108]: Date of the plaintiff’s Statement of Account setting out the invoices forming basis of plaintiff’s claim at PB40
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F24536-SSP.xml)
