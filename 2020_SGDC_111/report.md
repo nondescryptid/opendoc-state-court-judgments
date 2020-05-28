@@ -1,0 +1,597 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Govinda S/O Aramvally Gopalan _v_ Teoh Chooi Sian  
+
+### \[2020\] SGDC 111
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">DC Suit No. 594 of 2017</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">30 April 2020</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Tan May Tee</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Mr R S Bajwa (Bajwa &amp; Co) for the Plaintiff; Ms Megan Chia and Ms Jacqueline Gwee (Tan Rajah &amp; Cheah) for the Defendant.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Govinda S/O Aramvally Gopalan — Teoh Chooi Sian</td></tr></tbody></table>
+
+Tort – Defamation – Justification
+
+Tort – Defamation – Qualified privilege – Malice
+
+30 April 2020
+
+### District Judge Tan May Tee:
+
+## Introduction
+
+1       The Plaintiff is an advocate and solicitor who has been in practice for close to fifty years. The Defendant is a homemaker. She had previously worked as an auditor more than thirty years ago but had given up her profession to take care of her children.
+
+2       Both the Plaintiff and Defendant are residents of the condominium development called Casa Merah and, as subsidiary proprietors, are members of The Management Corporation Strata Title No. 3534 (“MCST”) pursuant to the Building Maintenance and Strata Management Act (Cap. 30C) (“BMSMA”). At the material time, they were both serving on the 6th Management Council (“MC”) of the MCST. This would refer to the management council of the MCST established after its 6th Annual General Meeting (“AGM”) on 16 April 2016.
+
+3       The Plaintiff had served from the 4th MC in the capacity of Honorary Secretary while the Defendant began serving as a council member after being elected at the 6th AGM. According to the Defendant, she had decided to step forward for election as she found the maintenance and security of the Casa Merah grounds to be on the decline and she hoped to do her part to improve the estate by participating in the MC[^1].
+
+4       The Plaintiff’s claim in this action is that the Defendant had defamed him in an email dated 25 October 2016 (“the Email”) which she had sent to fourteen recipients including the Plaintiff. The recipients were members of the MC and the representatives of the condominium’s managing agent, Melana International Pte Ltd. (“Melana”). The subject of the Email is stated as “6th MC MINUTES”. The full text of the Email pleaded as the “Defamatory Allegations” in paragraph 5 of the Statement of Claim is set out below:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="100%"> </colgroup><tbody><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>Dear All</em>,</p><p align="justify" class="Table-Para-1"><em>I absolutely agree with Dennis’ and Roger’s comments and disappointment. The way the minutes have been minuted almost every month – with so many discrepancies, about turns and additions taken in from ‘elsewhere’ – are tiring out the council members. Integrity is at issue here. If council members do not pay attention to these details in the minutes and point out these errors, something can become a “council decision” out of the blue when it was in fact never agreed upon by members during the meeting.</em></p><p align="justify" class="Table-Para-1"><em>One good example was the extended mandate. How can one assume that the 6<sup>th</sup> council will give the extended mandate without knowing head or tail about the kf case? I would never agree to give the extended mandate given the past unsatisfactory conduct of the honorable Secretary and MA, who were not forthcoming to my previous requests for information and viewing of contracts etc.</em></p><p align="justify" class="Table-Para-1"><em>I therefore object to the MoM. By definition, minutes are meant to be a written record of the actual happenings during the meeting. Any additional facts included are fabrications that cannot be allowed.</em></p><p align="justify" class="Table-Para-1"><em>If the Secretary and Chairlady are not up to the task of ensuring that the minutes are accurate, I suggest that they retire and let more suitable people take up this responsibility.</em></p><p align="justify" class="Table-Para-1"><em>Regards</em>,</p><p align="justify" class="Table-Para-1"><em>Teoh</em></p></td></tr></tbody></table>
+
+  
+  
+
+## Background to the dispute
+
+5       In 2015, the MCST was embroiled in a litigation with its former managing agent, Knight Frank Estate Management Pte Ltd (“Knight Frank”). Knight Frank had tendered its resignation in 2014 and sued the MCST in the District Court for outstanding payments under its managing agent agreement with the MCST. In turn, the MCST had counterclaimed damages against Knight Frank for various breaches of its contractual obligations. The MCST was represented by Central Chambers Law Corporation, and the Plaintiff had been authorised by the 5th MC to liaise with them for the conduct of the litigation (“KF suit”). He had also been given a signed mandate by the 5th MC to settle the suit. The Plaintiff had deemed the settlement mandate to be a confidential matter which could not be disclosed to the Defendant.
+
+6       At the MCST’s AGM in April 2016, the Defendant had asked questions regarding the KF suit as the budget to fund the litigation had to be approved by the subsidiary proprietors. She was not given the information she sought. According to the Plaintiff, he had been cautioned that the Defendant was a close friend of Knight Frank’s staff and he was concerned that the confidentiality of the settlement mandate might be compromised[^2].
+
+7       After the 6th AGM, the interactions between the parties _qua_ members of the 6th MC continued on a hostile note, as demonstrated in the following email exchanges which were also copied to the other MC members as well as the managing agent:
+
+> (a)      _Defendant’s email dated 16 May 2016 to Melana on the topic “Renewal of security contract”[^3]_
+
+>> (i)       In this email thread, the Defendant had sent an email to Rickey Choo, Melana’s representative who was also the Condominium Manager, requesting _inter alia_ for information on how the security contract to April Security and Investigation Pte Ltd had been awarded, details of the tender process, if any, and whether staffing of the security guards had been presented to the council for discussion. She had also asked the managing agent to prepare a schedule of all the term contractors with details such as the names of the contractors, dates of the contracts, the contract sums, the identity and number of staff provided for in each contract, where they were deployed and their working hours.
+
+>> (ii)       The Plaintiff, who was also on the Security Sub-committee, took upon himself to reply to the Defendant’s email. The excerpt reproduced below from his email sent on 19 May 2016 is indicative of his general disposition towards the Defendant:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="100%"> </colgroup><tbody><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Dear Teoh,</p><p align="justify" class="Table-Para-1">Allow me to reply to this email in my capacity as Hon Sec/Security Sub-Comm in the same order as they appear:</p><p align="justify" class="Table-Para-1">….</p><p align="justify" class="Table-Para-1">4. There were no change of the security staffing for 2012, 2013 and 2014. The contract we used was the same contract that Knight Frank used from 2011.. There was no change of use of Casa Merah. It still remained as a condo and not changed to Service Apartments, etc with the same facilities from TOP until now. Council members all know this and can see for themselves. So what is the need to discuss staffing issues again with them!</p><p align="justify" class="Table-Para-1">As to the request for all the other information, most of it can be found in the explanatory notes of the last AGM documents from 39-41. If you want more information please state your reasons for these documents before I direct the MA to provide them. If all members start asking for old documents without reasons the MA will be attending to this at the expense of their work. If you have specific information of any wrong doing by the MA or Council members please say so. Finally for your information, we have extended the April contract until March next year, we can still terminate the contract by giving them only a months notice without any compensation.</p><p align="justify" class="Table-Para-1">Thanks and regards</p><p align="justify" class="Table-Para-1">Gopalan</p></td></tr></tbody></table>
+
+  
+  
+
+>> (iii)       The Defendant then responded to the Plaintiff’s email on 21 May 2016, stating _inter alia_,
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="100%"> </colgroup><tbody><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">I also like to highlight to you as an Honourable Secretary that when council members requested for any information it does not equate to suspicion of any wrong doings.</p><p align="justify" class="Table-Para-1">In your email dated 19/5/2016 5.19pm, you denied me the schedule that I asked Rickey to prepare unless I gave you the reasons. You also directed me to obtain the information from the notes to the accounts. This is equivalent to asking a director in a company to refer to the accounts in the annual report which is prepared on a historical basis to manage the affairs of a company.</p><p align="justify" class="Table-Para-1">I as council member, requires all the information that was stated in my emails to Rickey in order to discharge my duties diligently under s 61 (1) BMSMA.</p></td></tr></tbody></table>
+
+  
+  
+
+> (b)      _Email exchange on the subject “Requisition of Schedule from Managing Agent”_
+
+>> (i)       The email exchanges continued on the subject “Requisition of Schedule from Managing Agent” in which the Plaintiff had emailed the Defendant on 24 May 2016 at 11.27am as follows:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="100%"> </colgroup><tbody><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">As to your email, my reply is as follows:</p><p align="justify" class="Table-Para-1">Para 2</p><p align="justify" class="Table-Para-1">Since you wish to be a Member of the Sub-Committee, I will ask Rickey to provide you with the same.</p><p align="justify" class="Table-Para-1">Para 3</p><p align="justify" class="Table-Para-1">Most Councils of MCST appoint Managing Agents to handle the Administrative as well as the day running of the MCST. Casa Merah is no different. We have delegated this Secretarial duties to Melana (Rickey). His job is to circulate the Minutes and Agenda to Council Members in time. Rickey was unable to do that at the last Council meeting and hence this was not discussed. Besides there was insufficient time to raise this under ‘any other business’. Since you have offered to participate in the tender process in the future with your free time as a retiree, I recall welcoming your offer and look forward to your participation.</p><p align="justify" class="Table-Para-1">Para 4</p><p align="justify" class="Table-Para-1">In your case, I have reason to believe that the information/documents you are seeking pertains to issues in an on-going Civil Suit in Court. I stand by my previous answer as I fear this information may be relayed to Knight Frank to the detriment of the MCST. I am duty bound to protect the interest of the MCST above all.</p><p align="justify" class="Table-Para-1">Para 5</p><p align="justify" class="Table-Para-1">See paragraphs above. Directors of Companies are governed by The Companies Act. Council members are governed by the BMSMA. So I don’t see how you can rely on the Companies Act to support your point.</p><p align="justify" class="Table-Para-1">Para 6</p><p align="justify" class="Table-Para-1">You only became a member of the Council on 16/4/16. It follows that you can only be expected to act honestly and diligently after your appointment and not any time before. So no worries on that score. As far as I can recall, all the contracts were approved and signed by Office bearers/Members of the 5<sup>th</sup> Council.</p></td></tr></tbody></table>
+
+  
+  
+
+>> (ii)       The Defendant responded the same day at 10.21pm. The relevant portion is excerpted below:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="100%"> </colgroup><tbody><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Para 2</p><p align="justify" class="Table-Para-1">Rickey being the MA has no authority to include me in the sub committee. All appointment should/ must go through the proper process in the council meeting.</p><p align="justify" class="Table-Para-1">…</p><p align="justify" class="Table-Para-1">Para 4</p><p align="justify" class="Table-Para-1">As an educated person, you should know better than to make baseless accusations. The information that I am asking for is related to contracts that are currently being performed. If you have proof of any ties that I have to Knight Frank, please produce it. If not, REFRAIN from making this accusation again.</p><p align="justify" class="Table-Para-1">Para 5</p><p align="justify" class="Table-Para-1">Council members in a Management Corporation are analogous to directors in a corporation.</p><p align="justify" class="Table-Para-1">I also bring your attention to page 23 of the 6<sup>th</sup> Annual Report, the paragraph headed ‘Council Members Responsibility for Financial Statements.’ It is stated that the Members of the Council are responsible for ENSURING that the financial statements give a true and fair view.</p><p align="justify" class="Table-Para-1">If only office bearers can have access to all documents and information, then this paragraph should be amended in the next Annual Report to state that the accuracy of the financial statements is the responsibility of the office bearers ONLY.</p><p align="justify" class="Table-Para-1">Para 6</p><p align="justify" class="Table-Para-1">Term contracts are ongoing arrangements. Council members do not and should not discharge their duties on important issues like term contracts which comprised approximately two thirds of our operating expenses (1.2 million/1.8 million) based on recollection. They do so by perusing and asking for relevant documents and information.</p></td></tr></tbody></table>
+
+  
+  
+
+>> (iii)       The Plaintiff issued a quick rebuttal to the Defendant the very next morning, on 25 May 2016 at 10.38am, stating,
+
+>>> _“Dear Mdm Teoh_
+
+>>> _Please see my reply (in red) to your email below.”_
+
+> Reproduced below are the parts that show how the level of acrimony between them had further escalated. The Plaintiff’s responses (which were in red in his original email) are italicised.
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="100%"> </colgroup><tbody><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Para 4</p><p align="justify" class="Table-Para-1">As an educated person, you should know better than to make baseless accusations. The information that I am asking for is related to contracts that are currently being performed. If you have proof of any ties that I have to Knight Frank, please produce it. If not, REFRAIN from making this accusation again.</p><p align="justify" class="Table-Para-1"><em>My position in the MCST is akin to In-House Legal Counsel for the MCST and to zealously protect the MCST’s interest in the course of the civil suit in particular, to confidential information. My concern is that this information may be relayed to KF. Hence I premised my statement with the remarks “reason to believe” with the emphasis to protect the MCST’s interest during the civil suit. Hence you will note all sensitive information about the case is excluded from the Minutes that is displayed on the Notice Board. This is the same stand the 1<sup>st</sup>, 2<sup>nd</sup> &amp; 3<sup>rd</sup> Council (under KF) took whilst negotiating the Defect Settlement Claim in 2011 against the Developers that was eventually settled in October 2013. If you still insist that I have made baseless accusations against you, you should sue me quickly or put this matter to rest once and for all.</em></p><p align="justify" class="Table-Para-1">Para 5</p><p align="justify" class="Table-Para-1">Council members in a Management Corporation are analogous to directors in a corporation.</p><p align="justify" class="Table-Para-1">I also bring your attention to page 23 of the 6<sup>th</sup> Annual Report, the paragraph headed ‘Council Members Responsibility for Financial Statements.’ It is stated that the Members of the Council are responsible for ENSURING that the financial statements give a true and fair view.</p><p align="justify" class="Table-Para-1">If only office bearers can have access to all documents and information, then this paragraph should be amended in the next Annual Report to state that the accuracy of the financial statements is the responsibility of the office bearers ONLY.</p><p align="justify" class="Table-Para-1"><em>Not only are you singing a different tune, you have ignored my preceding paragraphs. Please file a Private Motion at the next AGM. And if it is adopted, (heaven forbid), I don’t know if anyone will want to become Office Bearers.</em></p><p align="justify" class="Table-Para-1"></p><p align="justify" class="Table-Para-1">Para 6</p><p align="justify" class="Table-Para-1">Term contracts are ongoing arrangements. Council members do not and should not discharge their duties on important issues like term contracts which comprised approximately two thirds of our operating expenses (1.2 million/1.8 million) based on recollection. They do so by perusing and asking for relevant documents and information.</p><p align="justify" class="Table-Para-1"><em>Please read email again.</em></p><p align="justify" class="Table-Para-1"><em>In conclusion, no need to get personal. We are all educated people. That’s why we want to serve in Council even though (unlike PAP grassroots) we don’t receive any PBM or BBM or overseas trips, only 1 miserable mineral water at Council Meetings.</em></p></td></tr></tbody></table>
+
+  
+  
+
+#### Disputes over minutes of MC meetings
+
+8       There was considerable discord over the contents of the minutes of the MC meetings, and in particular that of the 5th MC meeting. These minutes were prepared in draft by the managing agent after the MC meeting, vetted by the Plaintiff as Honorary Secretary and circulated to all MC members before being adopted and accepted at the next MC meeting.
+
+9       The draft minutes of the 5th MC meeting (“the 5th MC Meeting Minutes”) held on 14 September 2016 were first circulated by the managing agent by his email[^4] dated 10 October 2016 sent 4.10pm. It started with a narrative[^5] traversing over four paragraphs pertaining to the conduct of one MC member (“Tan”) who was accused of having sent defamatory phone messages to the chairperson (referred to in the various emails and minutes as “Chairlady”), and the MC’s proposed action with the conclusion minuted as follows:
+
+> Council proposed that the errant member be given an option either to resign from the Council or make a written apology to all concerned relating to the frivolous attacks and not to repeat such act henceforth….. After a short consideration, the said member accepted Council’s proposal for a written apology to be submitted by 28th September 2016 to all concerned.
+
+10     The KF suit was reported at paragraph 2.3 of the 5th MC Meeting Minutes[^6] as follows:
+
+> LEGAL PROCEEDINGS – KF Legal case
+
+> MA reported that the trial has been scheduled for 26th September 2016 for 2 days. Both the Hon. Secretary and MA were given the extended mandate by the Management Council to represent MCST for the trial together with Central Chambers Law Corporation as our solicitors and to settle (if possible).
+
+11     As disclosed in the Agreed Bundle of Documents (“ABD”)[^7], the draft Minutes received comments from several MC members, namely Dennis Tan[^8], Roger Hu[^9], Derek Kang[^10] and the Defendant[^11] pointing out various inaccuracies. Comments on the phone messages incident and the extended mandate for the KF suit were made by Roger Hu and the Defendant (see excerpts of their emails below):
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="20.56%"> <col width="20.56%"> <col width="58.88%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Date</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Sender</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Relevant excerpts</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">10 Oct 2016 at 8.05pm</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Defendant</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">2.3 In addition, please state which council, whether 4<sup>th</sup> or 5<sup>th</sup> council has given the extended mandate to the Secretary and MA for the kf case?</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">10 Oct 2016 at 9.18pm</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Roger Hu</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Clarification</p><p align="justify" class="Table-Para-1">I do remember it is mentioned that trial was scheduled for 26 Sep. But I don’t remember the meeting has discussed the issue and reached a conclusion of “extended mandate” on the meeting.</p><p align="justify" class="Table-Para-1">And what is “mandate” and “extended mandate”?</p><p align="justify" class="Table-Para-1">I do not agree of such a long description of message incident, esp. it has been set for EOGM to decide the case. Council shall upkeep objectivity and patience as much as we should.</p><p align="justify" class="Table-Para-1">I shall comment more as I read on.</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">10 Oct 2016 at 10.01pm</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Defendant</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">The matter regarding “Tan” was agreed before meeting commenced to exclude that discussion in the recordings and the minutes of the meeting. Please report only the matters that are of relevant interest to the sp especially on the maintenance of the estate.</p><p align="justify" class="Table-Para-1">I agree with Roger that since the eogm will be held soon there should not be any mention of this matter in the minutes.</p></td></tr></tbody></table>
+
+  
+  
+
+12     Following the comments received, the Minutes were then amended, reviewed by the Plaintiff as Secretary and re-sent by the managing agent on 17 October 2016 at 5.29pm. By this time, the trial of the KF suit had concluded. The KF suit was settled on confidential terms recorded on the day of trial on 26 September 2016. On the trial date, the Defendant was present in the court room and had spoken with Mr Ronnie Tan of Central Chambers Law Corporation. Several emails on the KF suit were exchanged amongst the MC members from 26 September to 30 September 2016[^12] under the subject headers of “_Knight Frank v MCST 3534_” and “_DC/DC 2341/2015 –Full and final settlement_”. The outcome of the trial had also been reported at the 6th MC meeting held on 12th October 2016.
+
+13     The Defendant and one other MC member, Amy Chan, registered their objections with regard to paragraph 2.3 in the amended 5th MC Meeting Minutes on the KF suit. The objections were, however, overruled by the Plaintiff, see the excerpts[^13] below:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="20.56%"> <col width="20.56%"> <col width="58.88%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Date</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Sender</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Contents of email</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">17 Oct 2016 at 11.33pm</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Defendant</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">I would like to affirm my stand that minutes should only record what transpired in the meeting. I have already voiced my objection on 12/10/16 during the last council meeting on 2.3 kf case, second sentence on the ‘extended mandate’ which was not brought up in the meeting dated 14/9/16.</p><p align="justify" class="Table-Para-1">Please remove the second sentence. If you insist, please state in the minutes my reason for the objection.</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">18 Oct 2016 at 8.45am</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Amy Chan</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">I support Ms Teoh’s objection to the “extended mandate” based on the reason that it wasn’t mentioned during the meeting on 14/9/16.</p><p align="justify" class="Table-Para-1">Please include my name in the minutes that I raise this objection.</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">18 Oct 2016 at 9.44am</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Plaintiff</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">As Secretary, I am directing you that the minutes stands for circulation under s56(g) of the BMSM Act. I have explained this at the last meeting to Roger and it was accepted. This member has a penchant for wasting time just like when she asked the Chairlady the meaning of “misconduct” and the Chairlady quite rightly ignored her.</p><p align="justify" class="Table-Para-1">There has to be finality in the council’s administrative/secretarial matters so that it’s work is not bogged down unnecessarily. The member is free to raise it under any other matter at the next meeting if she wants.</p></td></tr></tbody></table>
+
+  
+  
+
+14     The minutes of the 6th MC meeting (“6th MC Meeting Minutes”) held on 12 October 2016[^14] were circulated by the managing agent[^15] on 25 October 2016 at 9.02am. The portions which are relevant in providing context to the dispute between the parties are set out below:
+
+> AMENDMENT TO MINUTES OF THE 5th MANAGEMENT COUNCIL MEETING
+
+> 1.1    The minutes of the 5th Management Council Meeting was not accepted as there are some major changes to be made to correct the agreed recording of the minutes. Most importantly the transcript on one Council member misconduct against another member needed to be rewritten.
+
+> …
+
+> 1.4    The Hon. Secretary informed Council members that the first draft of the minutes will be vetted by him and forwarded to the Chairlady for comments. It will then be approved for circulation to all Council members.
+
+> …
+
+> 1.6    Council reiterated to MA that the minutes of the preceding meeting must be forwarded to members well in advance, so that Council members can comment or raise points. MA acknowledged and assured Council that henceforth the minutes will be submitted to the Secretary within one week after the conclusion of the meeting.
+
+> …
+
+> 1.9    With regards to the KF legal case, Ms Teoh disputed on the recording of the extended mandate to Hon. Secretary in representing MCST at the trial. The Hon. Secretary explained that the mandate was given by the 4th Management Council, carried forward to the 5th Management Council and currently to the 6th Management Council. Mr Roger Hu confessed that he was confused with the definition of the extended mandate, he thought it was for an extended authority for an increased sum given to the Hon. Secretary for the KF case. The Hon. Secretary assured him that was not the case but a mere extension of the previous mandate which Mr Roger Hu then understood and accepted.
+
+> …
+
+> 2.3    LEGAL PROCEEDINGS – KF Legal case
+
+>> MA reported the KF trial was held on 26th September 2016 and was attended by both the Hon. Secretary and Condo Manager. After the trial the Hon. Secretary gave an outline of the court proceedings to all Council members through the email enclosing the self-explanatory Order of Court – The matters was amicably settled out of court with the consent of the majority of the Council members.
+
+> 2.3.1 The Hon. Secretary reiterated that as part of the settlement terms, the Honorable Court ordered as per the Order that both parties to the suit as well as their agents, servants and associates shall not repeat any of the allegations made in the action to any other persons. The terms of the settlement shall remain strictly private and confidential.
+
+15     An amended version of the 6th MC Meeting Minutes[^16] had to be sent out just over an hour later at 10.19am as the attendee list was incorrect[^17] as pointed out by Amy Chan, the member who was absent. This inaccuracy was also pointed out by Dennis Tan who was the first MC member to provide comments on the Minutes as seen in his email[^18] sent on 25 October 2016 at 3.36pm. The relevant portions of his email are set out below:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="100%"> </colgroup><tbody><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Rickey – my comments</p><p align="justify" class="Table-Para-1">Absent</p><p align="justify" class="Table-Para-1">– Amy was not present</p><p align="justify" class="Table-Para-1">Present</p><p align="justify" class="Table-Para-1">– There is another gentleman who attended the meeting but not recorded in the meeting.</p><p align="justify" class="Table-Para-1">BBQ $100 forfeiture issue – it was mentioned in the meeting by .. that he is still waiting for the investigation …. but the recording in the minutes is totally different. …. The recording needs to be accurate as the minutes will be displayed on the notice board.</p><p align="justify" class="Table-Para-1">1.6 Max of 2 weeks to the members on the minutes delivery was not stated.</p><p align="justify" class="Table-Para-1">1.9 Roger – do you agree with word “confessed”, I remember you said that you do not understand the extended mandate. Why have such words in our minutes, what is the purpose? Can we change it to just “said”, “informed”</p><p align="justify" class="Table-Para-1">…</p><p align="justify" class="Table-Para-1">2.5.10 payment date was discussed in the meeting but not stated in the minutes….</p></td></tr></tbody></table>
+
+  
+  
+
+16     Roger Hu then sent his response[^19] at 8.58pm, as follows:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="100%"> </colgroup><tbody><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Dear MA and all:</p><p align="justify" class="Table-Para-1">I am disappointed with the MOM and disapprove it. I can only agree with all the obvious mistakes and discrepancies Amy and Dennis has pointed out.</p><p align="justify" class="Table-Para-1">Personally, I felt offended. But to counter attack an offence is not always graceful. The mistake shall be dealt with in a systematic approach. In case any of you is still wondering why I feel so, go grab a dictionary or search online.</p><p align="justify" class="Table-Para-1">Within a short span of less than 2 months, we have received 3 MOM's over 2 council meetings in a row. Sorry to say all of them are not recorded properly; grossly inaccurately.</p><p align="justify" class="Table-Para-1">The 1st MOM wrongly include the elaboration of a dispute which the council has agreed not to include. It was followed with an agreement on amendments after one whole hour long heated debate.</p><p align="justify" class="Table-Para-1">Then comes the amended MOM. Unless the MA has accidentally deleted, misplaced, or damaged the recorded clip, I request them to replay the clip to verify a fact. In Sep meeting, I requested Gopalan to conclude the wording of re-phrasing the said dispute before meeting ended. Gopalan agreed and council discussed and agreed. But the elaboration appears on the amended MOM has changed beyond recognition on this point.</p><p align="justify" class="Table-Para-1">Now we have this minutes of meeting.</p><p align="justify" class="Table-Para-1">It shows one thing: that the process of writing and approval of MOM has broken down and needs to be fixed or the person doing this job is overloaded.</p><p align="justify" class="Table-Para-1">Judging from all the irregularities observed in recent MOM's, it self-explained that this duty of vetting and approval of MOM has become too demanding for our respected Hon. Secretary.</p><p align="justify" class="Table-Para-1">I humbly request council to show our respect and humanity to our senior citizen and we all shall contribute more to lessen his burden.</p><p align="justify" class="Table-Para-1">Let's discuss this in the next council meeting.</p><p align="justify" class="Table-Para-1">Regards,</p><p align="justify" class="Table-Para-1">Roger</p></td></tr></tbody></table>
+
+  
+  
+
+17     The Defendant responded to Roger Hu’s email by sending the Email at 9.27pm[^20] which is reproduced again below for easy reference:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="100%"> </colgroup><tbody><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Dear All,</p><p align="justify" class="Table-Para-1">I absolutely agree with Dennis’ and Roger’s comments and disappointment. The way the minutes have been minuted almost every month – with so many discrepancies, about turns and additions taken in from ‘elsewhere’ – are tiring out the council members. Integrity is at issue here. If council members do not pay attention to these details in the minutes and point out these errors, something can become a “council decision” out of the blue when it was in fact never agreed upon by members during the meeting.</p><p align="justify" class="Table-Para-1">One good example was the extended mandate. How can one assume that the 6th council will give the extended mandate without knowing head or tail about the kf case? I would never agree to give the extended mandate given the past unsatisfactory conduct of the honorable Secretary and MA, who were not forthcoming to my previous requests for information and viewing of contracts etc.</p><p align="justify" class="Table-Para-1">I therefore object to the MoM. By definition, minutes are meant to be a written record of the actual happenings during the meeting. Any additional facts included are fabrications that cannot be allowed.</p><p align="justify" class="Table-Para-1">If the Secretary and Chairlady are not up to the task of ensuring that the minutes are accurate, I suggest that they retire and let more suitable people take up this responsibility.</p><p align="justify" class="Table-Para-1">Regards,</p><p align="justify" class="Table-Para-1">Teoh</p></td></tr></tbody></table>
+
+  
+  
+
+18     Roger Hu replied thus at 9.30pm[^21]:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="100%"> </colgroup><tbody><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Dear Ms Teoh,</p><p align="justify" class="Table-Para-1">I don’t think we request Chairlady to review the MOM. Correct me if I am wrong.</p><p align="justify" class="Table-Para-1">Rgds</p><p align="justify" class="Table-Para-1">Roger</p></td></tr></tbody></table>
+
+  
+  
+
+> The short reply from the Defendant which was sent at 9.33pm[^22] was, “_The chairlady vets the mom_ too.”
+
+19     The Plaintiff took umbrage with the Email and sent the Defendant the following response the next day, 26 October 2016 at 9.53am[^23]:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="100%"> </colgroup><tbody><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Dear Miss Teoh,</p><p align="justify" class="Table-Para-1">I refer to your email below.</p><p align="justify" class="Table-Para-1">In your emails, you used the words “Integrity is at issue here.” Please explain exactly what you mean by those words which obviously referred to me as I am the Hon. Secretary. I give you an opportunity to give me the particulars of how I have not shown “integrity” in the Minutes of the Council Meeting which is recorded by the MA and send to me much later for vetting.</p><p align="justify" class="Table-Para-1">Secondly, you mentioned “the past unsatisfactory conduct of the Honourable Secretary.” Please give me full particulars of my past unsatisfactory conduct.</p><p align="justify" class="Table-Para-1">Thirdly, you mentioned “fabrications”. Please give me full particulars of the fabrications alleged.</p><p align="justify" class="Table-Para-1">It is common knowledge by the council members that given the history of emails exchanged between ourselves, you have written this email with malice.</p><p align="justify" class="Table-Para-1">I shall be pleased if you could let me have these particulars by 4 pm today.</p><p align="justify" class="Table-Para-1">Regards</p><p align="justify" class="Table-Para-1">Gopalan</p></td></tr></tbody></table>
+
+  
+  
+
+20     The Chairlady, Alice Ng, weighed in with her response addressed to the Defendant[^24] and copied to the same recipients. While the language of her rather lengthy email was difficult to digest, it was apparent that she had formed the view that defamatory statements had been made casting grave aspersions on the integrity and honesty of the Honorary Secretary, and she was admonishing the Defendant to “immediately retract, withdraw and sincerely apologise for the offending remarks.” She also sought to call an emergency meeting on Thursday 27 October 2016 for MC members to resolve the issue. However, the meeting did not materialise as several MC members thought it best to let parties “cool down and reflect” and also because the majority of the MC members were unavailable[^25]. Further, an Extraordinary General Meeting of the MCST (“EOGM”) was due to be held on 5 November 2016 to remove Tan as a Council member[^26].
+
+21     There were further disagreements among the MC members on the handling of the 5th MC Meeting Minutes and the 6th MC Meeting Minutes which the managing agent had posted on the condominium notice board before they had been approved and adopted, as shown by the email trails in the Agreed Bundle. Both sets of Minutes were eventually accepted and adopted in the 7th MC meeting held in March 2017[^27].
+
+#### Letter of demand
+
+22     The Defendant did not respond to the Plaintiff’s email of 26 October 2016. She was subsequently issued a letter of demand[^28] by the Plaintiff’s firm, Lim & Gopalan, dated 12 January 2017. This suit was then commenced on 6 March 2017.
+
+## Plaintiff’s claim
+
+23     In his Statement of Claim, the Plaintiff pleaded[^29] that the words of the Email, in their natural and ordinary meanings, meant and/or were understood to mean that he:
+
+> (a)     is not a man of integrity as he intentionally misrepresented to the recipients that he had a mandate for the KF suit;
+
+> (b)     is untrustworthy;
+
+> (c)     is a person of bad character for acting falsely and irresponsibly;
+
+> (d)     is guilty of previous unsatisfactory conduct;
+
+> (e)     has an ulterior motive for denying the Defendant’s request for information and viewing of contracts;
+
+> (f)     systematically fabricated the minutes of Council Meetings by his failure to record verbatim what was said during the Council Meetings;
+
+> (g)     is unsuitable to be the Honorary Secretary of the MCST and has to resign from the post.
+
+24     The Plaintiff pleaded further that by virtue of the defamatory allegations in the Email, he had been embarrassed, humiliated and had suffered serious damage to his reputation and standing in the MC.
+
+25     In his claim for damages, including aggravated damages, the Plaintiff pleaded reliance on the following matters, namely:
+
+> (a)     the tone and language used by the Defendant in the Email; and
+
+> (b)     that the defamatory allegations in the Email were made maliciously, knowing that they were false, or recklessly, not caring whether they were true or false, as particularised below:
+
+>> (i)       the defamatory allegations were made in relation to the KF suit which mandate was already given by the members of the 6th MC, including the Defendant, on 4 May 2016 as the suit was still pending after the term of the 5th MC;
+
+>> (ii)       despite being present at the meeting on 4 May 2016 and in receipt of the circulated Minutes, the Defendant made the defamatory allegations imputing wrongdoing or improper conduct to the Plaintiff, knowing it was false or reckless, not caring whether they were true or false;
+
+>> (iii)       the 6th MC members agreed to the confidential nature of the KF suit and therefore minimised discussion on the details and amount of the proposed out-of-court settlement sum as the same will then have to be displayed on the Notice Board of the Condominium to the 6th MC’s detriment; and
+
+>> (iv)       for the Defendant to say that the Plaintiff had misrepresented facts that he had the mandate/authority is a particularly serious allegation which impinged on the very core of the Plaintiff’s legal practice.
+
+## The Defence
+
+26     The Defendant denied that her Email was defamatory. In particular, she denied that the words "_Integrity is at issue here_" in the E-mail referred to, or were understood to refer, or were capable of referring to the Plaintiff or that he is not a "_man of integrity_".
+
+27     The Defendant pleaded that the E-mail did not refer at all to the question of whether the Plaintiff had the mandate for the KF suit. The issue raised by the Defendant in the E-mail was that the MC did not discuss the issue of the "extended mandate" at the 14 September 2016 Meeting and as such, she did not agree with the inclusion of this matter in the minutes of that meeting.
+
+#### Natural and ordinary meaning
+
+28     Further, the Email read in the context of the e-mails preceding it and/or the matters set out therein, meant and/or were understood to mean that[^30]:
+
+> (a)     There were numerous errors in the minutes of the 6th MC's meetings.
+
+> (b)     Matters which were not discussed at the meetings had been included in the minutes.
+
+> (c)     The Defendant was in agreement with her fellow MC members, Roger Hu and Dennis Tan, on the minutes of MC meetings that had been circulated and that the MC members had had to expend much time and effort debating over obvious mistakes and discrepancies in the recording of the events of the MC meetings.
+
+> (d)     The minutes must be an accurate account of the discussions at the meeting, otherwise the integrity of the entire MC would be in question.
+
+> (e)     An example of such inaccuracy would be the inclusion of the agreement to give the "extended mandate" for the KF case in the minutes of the 14 September 2016 meeting. There was no such decision to give such an "extended mandate" to the Plaintiff at the 14 September 2016 meeting.
+
+> (f)     Matters which were not discussed at a meeting itself should not be included in the minutes as minutes are meant to be a record of what had actually happened during a meeting.
+
+> (g)     Anything that was not discussed, but recorded as having been discussed at the meeting, is therefore false and should not be allowed in the minutes.
+
+> (h)     The Plaintiff did not make available information and/or documents when requested by the Defendant, as described below:
+
+>> (1)       On 16 May 2016, by way of an e-mail sent at 16:35hrs, the Defendant had requested for information from the representative of the Managing Agent, Melana International Pte Ltd (the "MA"), for information on the current term contractors (e.g. security, landscaping and cleaning) engaged by the MA.
+
+>> (2)       On 19 May 2016, the Plaintiff responded on behalf of the MA saying that the contractors hired by the MA were the same as those used by KF and there was no use to discuss the matters raised by the Defendant.
+
+>> (3)       When the Defendant reiterated her request on the basis that the information was required for the MC to discharge its duties, the Plaintiff refused the Defendant's request citing that he had reason to believe that this was confidential information related to the ongoing litigation and he was concerned that if disclosed, it may be relayed to KF. This was unsatisfactory to the Defendant.
+
+> (i)     If the Plaintiff, as the Honorary Secretary entrusted with the duties under s 56 of the BMSMA "_to attend to matters of an administrative or secretarial nature in connection with the exercise, by the Management Corporation or the council of its functions_", was unable to ensure that the minutes record the actual happenings at the meeting, then the Defendant suggested that other persons should take up the position/role.
+
+#### Justification
+
+29     Even if the Email were to be found defamatory, the Defendant raised _inter alia_ the following matters to support a defence of justification[^31]:
+
+> (a)     The "extended mandate" as recorded in the draft minutes was not discussed at the 14 September 2016 meeting.
+
+> (b)     As the draft minutes included matters that were not in fact discussed, the minutes were therefore not accurate and not a truthful record of what had happened at the meeting.
+
+> (c)     The Plaintiff had refused to provide information to the Defendant when requested.
+
+#### Qualified Privilege
+
+30     A further defence of qualified privilege was also raised[^32] based on the following:
+
+> (a)     The Plaintiff and the Defendant were members of the 6th MC.
+
+> (b)     The recipients of the Email were either members of the 6th MC or representatives of the MA engaged by the MC.
+
+> (c)     The recipients were also parties present at and/or who were entitled to be present at the 14 September 2016 meeting.
+
+> (d)     The Plaintiff was also an office bearer of the 6th MC, holding the designation of Honorary Secretary of the 6th MC.
+
+> (e)     As the Honorary Secretary of the 6th MC, the Plaintiff's duties were defined under s 56 of the BMSMA which would include the duty to vet the minutes of the meetings.
+
+> (f)     In the circumstances, the Defendant had a legitimate duty and/or interest to communicate the defamatory allegations to the recipients, who had a legitimate interest to receive and/or be informed of: (i) the Plaintiff’s treatment of the Defendant's request for information; and (ii) the recording of minutes and the inaccuracy in the minutes.
+
+> (h)     The Defendant and the recipients of the Email therefore had a common and corresponding interest in the subject matter of the Email.
+
+## Issues
+
+31     Based on the pleadings of the parties, the issues I had to decide were:
+
+> (a)     whether the statements in the Email in their natural and ordinary meaning were defamatory of the Plaintiff;
+
+> (b)     if the statements in the Email were defamatory of the Plaintiff, whether they were true in substance and in fact;
+
+> (c)     if the statements in the Email were defamatory of the Plaintiff, whether they were communicated on an occasion of qualified privilege;
+
+> (d)     if the statements in the E-mail were communicated on an occasion of qualified privilege, whether the defence of qualified privilege is defeated by malice; and
+
+> (e)     if the Defendant is liable in defamation, what is the appropriate award of damages that ought to be made to the Plaintiff.
+
+### Whether the statements in the Email in their natural and ordinary meaning were defamatory of the Plaintiff
+
+32     It is settled law that a statement is defamatory if it tends to:-
+
+> (a)     lower the claimant in the estimation of right-thinking members of society (or ordinary reasonable persons) generally; or
+
+> (b)     cause him to be shunned or avoided; or
+
+> (c)     expose him to hatred, contempt, or ridicule.[^33]
+
+Further, a statement is defamatory of a claimant only if an ordinary and reasonable third party would reasonably understand it to refer to the claimant.
+
+33     The Plaintiff had pleaded that the statements in the Email[^34] in their natural and ordinary meanings were defamatory of the Plaintiff. As reiterated by the Court of Appeal in _Chan Cheng Wah Bernard v Koh Sin Chong Freddie_ <span class="citation">\[2012\] 1 SLR 506</span> (“_Chan Cheng Wah”_) at \[18\], the general principles applicable to the construction of words based on their natural and ordinary meanings are as follows:
+
+> (a)     the natural and ordinary meaning of a word is that which is conveyed to an ordinary reasonable person;
+
+> (b)     as the test is objective, the meaning which the defendant intended to convey is irrelevant;
+
+> (c)     the ordinary reasonable reader is not avid for scandal but can read between the lines and draw inferences;
+
+> (d)     where there are a number of possible interpretations, some of which may be non-defamatory, such a reader will not seize on only the defamatory one;
+
+> (e)     the ordinary reasonable reader is treated as having read the publication as a whole in determining its meaning, thus “the bane and the antidote must be taken together”; and
+
+> (f)     the ordinary reasonable reader will take note of the circumstances and manner of the publication.
+
+34     Further at \[19\] of _Chan Cheng Wah_, the Court of Appeal had agreed with the High Court’s ruling that the _class of reader_ is relevant in determining the scope of possible meanings the publication may bear. In that case, where the defamatory statements were contained in the minutes of the Singapore Swimming Club’s Management Committee meetings and which were published principally to the Club members, the “ordinary reasonable person” would be, as held by the High Court Judge, “the ordinary reasonable and interested Club member possessing general knowledge of the affairs of the Club”.
+
+35     In the context of the present case, I agree that the appropriate characterisation of the “ordinary reasonable reader” of the Email would be “the ordinary reasonable and interested MC member” as described by counsel for the Defendant in her Closing Submissions. This should be the case given that the Email was part of a chain of emails circulated to members of the 6th MC and representatives of Melana, the condominium’s managing agent. Such a class of person or reader would have:
+
+> (a)     the knowledge of the proceedings and affairs of the 6th MC from the time it was constituted on 16 April 2016 up until the publication of the Email;
+
+> (b)     the knowledge of the emails exchanged amongst all the MC members as well as the representatives of Melana in the course of the term of the 6th MC; and
+
+> (c)     the knowledge of the KF suit and the Plaintiff’s role in the suit.
+
+36     The class of reader of the Email would be someone familiar with the contents of the emails exchanged amongst all MC members, including those sent by the Defendant and the Plaintiff mentioned in \[7\] as well as the emails which had been exchanged in respect of the minutes of the MC meetings referred to in \[11\], \[13\], \[15\] and \[16\] above. This class of reader would also have background knowledge of the conclusion of the KF suit in a settlement as reported in the 6th MC Meeting Minutes and the emails which had been circulated amongst the MC members under the subject headers of “_Knight Frank v MCST 3534_” and “_DC/DC 2341/2015 –Full and final settlement_” as mentioned in \[12\] above.
+
+37     The task of the Court is to determine, objectively, the natural and ordinary meaning of the words in the Email as they would convey to the ordinary reasonable and interested MC member in the context of the circumstances and the manner of its publication. Reading the Email comprising four paragraphs in its entirety, I was of the view that the following are particularly relevant matters to be taken into account:
+
+> (a)     the Email was sent under the subject header “6th MC MINUTES”;
+
+> (b)     its opening sentence made an express reference to the emails sent by two other MC members, Dennis Tan and Roger Hu, whose comments were directed primarily to the unsatisfactory manner in which the 6th MC Meeting Minutes (“Minutes”) were drafted;
+
+> (c)     the comments made by MC members (such as Dennis Tan, Derek Kang, Roger Hu) on the inaccuracies found in the Minutes;
+
+> (d)     the disappointment and disapproval expressed by Roger Hu in his email sent just half an hour before the Email, his statement that judging from the irregularities observed in the recent minutes of meetings, it was evident that the duty of vetting and approval of the minutes had become too demanding for the Secretary; and
+
+> (e)     the Defendant’s repeated and categorical assertions made in her previous emails on 10 October 2016 and 17 October 2016 as well as at the MC meeting on 12 October 2016 that the 6th MC did not at the meeting on 14 September 2016 discuss giving any extended mandate to the Plaintiff and the MA for the KF suit.
+
+38     With the context as set out above, I find that the natural and ordinary meaning of the Email, as would be conveyed to the ordinary reasonable and interested MC member, is as follows:
+
+> (a)     The Defendant agreed with the comments made by her fellow MC members, Dennis Tan and Roger Hu. The minutes of the MC meetings contained many errors and discrepancies. Integrity of the MC members would be in issue if they failed to point out errors in the minutes which could result in matters being recorded as MC decisions when no such decision had been made at the meeting.
+
+> (b)     The inclusion of the extended mandate to the Plaintiff for the KF suit was one good example of an error. The Defendant would not have agreed to give the Plaintiff such a mandate as she had found his past conduct in dealing with her requests for documents and information to be unsatisfactory.
+
+> (c)     As the minutes are meant to be a record of what had actually happened at the meeting, any matters recorded as having been discussed when they were not are falsehoods which cannot be allowed.
+
+> (d)     The Plaintiff was unsuitable to be the Secretary and should retire since he was incapable of handling the responsibility of ensuring that the minutes were accurate.
+
+39     Based on my determination of the natural and ordinary meanings of the Email, the imputation made by the Defendant was that the Plaintiff was incapable of performing the role and responsibility required of the Secretary of the MC. Such an imputation is defamatory as it would induce in the mind of the ordinary reasonable MC member a low opinion of the Plaintiff who was known to all in the MC as a senior lawyer.
+
+40     At \[14\] of the Plaintiff’s Closing Submissions (reproduced as-is below), the Plaintiff had submitted that:
+
+> “On a _plain and literal_ reading of the Defamatory Allegations, the meaning conveyed to the Members/MA is clear. The Plaintiff did not have any mandate. He fabricated the September MOM to give himself the extended mandate to represent the 6th MC for the KF Suit, that was to be heard a forth night (_sic._) away on 26 September 2016. This meaning becomes perfectly clear when read in conjunction with the example of the “extended mandate” she cited. By accentuating on the example; on how something that was not decided by the 6th Council could become a Council’s decision; “out of the blue”; any ambiguity as to what she meant by “extended mandate” would have become clear. She then concluded by adding that the extended mandate was a fabrication as the 6th MC did not even discuss the extended mandate at all at the meeting. These false assertions affected the Plaintiff’s integrity in that it imputed that he had deceived the Members by his fabrication of the extended mandate in the MOM. This imputation becomes even more compelling when she added that his previous unsatisfactory conduct coupled with fabrications in the September MOM consequentially made him unsuitable to be Hon Sec and has to retire.”
+
+41     On the assumption that counsel for the Plaintiff had used the phrase “plain and literal reading” as referring to the natural and ordinary meaning, I was unable to accept the Plaintiff’s submission stated above. In my view, the ordinary reasonable MC member would presumably also have read in particular the comments made by Roger Hu in his email sent immediately before the Defendant’s Email. The crux of both emails was the inaccuracies encountered in the minutes of MC meetings, and not the existence, or otherwise, of the mandate given to the Plaintiff for the KF suit.
+
+42     The Plaintiff had chafed at the use of the word “fabrication”. Again, this has to be read in the context of the paragraph in which it appeared where it was meant as an indictment against the wrongful inclusion into the written record of matters which had not transpired in the meetings. To construe it to mean that the Plaintiff had fabricated the September minutes to give himself the extended mandate to represent the 6th MC was, in my view, simply not sustainable, and could only be derived by an overly cynical and suspicious mind avid for scandal.
+
+43     In similar vein, the remark made on the issue of “integrity” in the Email was not directed at the character of the Plaintiff. It was a warning sounded out to the Council to ensure that a true and honest record of their collective decision-making was maintained.
+
+44     Accordingly, the defamatory sting in the Email was not that the Plaintiff had fabricated the extended mandate for the KF suit thus impinging on his integrity as submitted by the Plaintiff. Rather, the focus of the Email was on the fabrication contained in the Minutes of the extended mandate having been given at the 5th MC Meeting when no discussion of the mandate had taken place at that meeting. In my assessment, the imputation made in the Email touched on the Plaintiff’s competence and suitability to continue holding office as Secretary of the MC. The Email, read in its natural and ordinary meaning, could not be taken to impute that the Plaintiff was not a man of integrity for having intentionally misrepresented to the recipients that he had a mandate for the KF suit as pleaded in the Statement of Claim. Neither could it be taken to impute that he was a person of bad character for acting falsely and irresponsibly.
+
+45     The defamatory imputation concerning the Plaintiff’s competence and suitability to hold office as Secretary is clearly of a significantly lesser degree than what the Plaintiff has sought to claim in his pleaded case. Objectively considered, there was no imputation in the Email of dishonesty on the part of the Plaintiff which would have impinged on his standing as a member of the legal profession.
+
+### If the statements in the Email were defamatory of the Plaintiff, whether the defamatory statements were true in substance and in fact
+
+46     Based on my determination of the natural and ordinary meaning of the statements in the Email as stated in \[38\], in order to succeed in her defence of justification, the Defendant would have to prove that the minutes of meetings contained inaccuracies and falsely included matters which had not been discussed at the meetings. Specifically, the giving of the extended mandate for the KF suit at the 5th MC Meeting on 14 September 2016 would be one such matter which was included in error as pleaded in her Defence[^35]. The Defendant had sought to rely on an audio recording of the meeting to prove that the extended mandate as recorded in the Minutes was not discussed at the 5th MC meeting. The recording was, however, not adduced in evidence due to procedural objections by the Plaintiff. The Plaintiff himself had referred to another recording which was made by the MA but this was also not produced to the Court.
+
+47     Without the audio recording and the testimonies of other MC members, the Court has to rely on the oral and documentary evidence of the parties to come to a finding as to whether the subject of the extended mandate was covered in the 5th MC Meeting.
+
+48     It bears repeating that paragraph 2.3 of the Minutes of the 5th MC Meeting had stated thus: “_MA reported that the trial has been scheduled for 26th September 2016 for 2 days._ _Both the Hon. Secretary and MA were given the extended mandate by the Management Council to represent MCST for the trial together with Central Chambers Law Corporation as our solicitors and to settle (if possible)__.”_
+
+49     The plain and literal meaning of the second sentence as underlined above must be that in the MC’s discussion of the KF suit at its meeting on 14 September 2016, the MC had given an extended mandate to the Plaintiff and the MA to represent the MCST for the trial scheduled for 26th September 2016 together with its lawyers, and if possible, to settle it. As recounted at \[9\] above, the Minutes of this meeting were circulated on 10 October 2016 at 4.10pm. Roger Hu responded on the same day and remarked that he did not remember that the meeting had discussed the issue and had reached a conclusion of an “extended mandate”. The Defendant herself had sent an email on 10 October 2016 to request an additional statement as to whether the 4th or the 5th MC had given the mandate to the Secretary and the MA for the KF suit.
+
+50     Amy Chan in her email sent after the amended Minutes were circulated raised the same objection – the extended mandate was not mentioned at the 14 September meeting. When the Defendant maintained her stand that the extended mandate was not brought up at the 14 September 2016 meeting and asked for the second sentence in paragraph 2.3 of the Minutes to be removed, it was roundly rejected by the Plaintiff with a direction given to the MA for the minutes to stand as drawn. The Plaintiff’s direction to the MA was accompanied by a derisory remark directed against the Defendant as someone with a penchant for wasting time.
+
+51     When the discrepancy was discussed at the 6th MC meeting on 12 October 2016, it was then captured in the Minutes of that meeting as follows:
+
+> With regards to the KF legal case, Ms Teoh disputed on the recording of the extended mandate to Hon. Secretary in representing MCST at the trial. The Hon. Secretary explained that the mandate was given by the 4th Management Council, carried forward to the 5th Management Council and currently to the 6th Management Council. Mr Roger Hu said he was the one who raised the question on the extended mandate. Roger was confused with the definition of the extended mandate, he thought it was for an extended authority for an increased sum given to the Hon. Secretary for the KF case. The Hon. Secretary assured him that was not the case but a mere extension of the previous mandate which Mr Roger Hu then understood and accepted.
+
+52     It is clear from the above extract of the Minutes of the 6th MC Meeting that the Defendant was not questioning the mandate already given to the Plaintiff to represent the MCST. Her disagreement was with the recording of the extended mandate having been given at the 5th MC Meeting on 14 September 2016. By virtue of the fact that the Plaintiff had to give an explanation that the mandate had been carried forward from the previous management councils to the current Management Council, it can reasonably be inferred that there had been no discussion whatsoever at the 5th MC Meeting of an extended mandate given to the Plaintiff to represent the MCST at the trial. The emails sent by Roger Hu, Amy Chan and the Defendant querying the inclusion of this item in the Minutes all serve to corroborate this inference.
+
+53     While neither Roger Hu nor Amy Chan had been called to testify at the trial, I note that the parties had agreed on the authenticity as well as the content of all the documents in the Agreed Bundle. Roger Hu’s emails, in particular, displayed much candour, and his email sent almost contemporaneously upon receipt of the draft Minutes stating that he did not remember that the meeting had discussed the extended mandate should be accorded significant weight.
+
+54     While I note that the minutes of the 5th MC Meeting had been adopted and accepted at the 7th MC meeting on 10 March 2017 without further dispute from the Defendant or any other MC member, I do not agree that this is conclusive of its accuracy _vis-à-vis_ the discussion item on the KF suit at the 14 September 2016 meeting. The Defendant’s explanation that she saw no point in further disputing the minutes after having done so on at least two previous occasions was, in my view, a credible one given that she had been served the writ of summons in this suit just two days before the meeting.
+
+55     Accordingly, I find that the giving of an extended mandate to the Plaintiff and the MA was not discussed at the 5th MC Meeting on 14 September 2016.
+
+56     Following from the explanation given by the Plaintiff at the 6th MC Meeting, it would then have been appropriate if an amendment to paragraph 2.3 of the 5th MC Meeting Minutes had been proposed to read, “_MA reported that the trial has been scheduled for 26th September 2016 for 2 days._ _Both the Hon. Secretary and MA will represent MCST for the trial together with Central Chambers Law Corporation as our solicitors and to settle (if possible) as per the mandate previously given by the 4th and 5th Management Council__._”
+
+57     The insistence by the Plaintiff for the Minutes to stand as drawn served to escalate the animosity between the parties.
+
+58     At the 6th MC Meeting, the Plaintiff had also explained that the process of preparing the Minutes was for the first draft to be vetted by him, forwarded to the chairperson for comments before being approved for circulation to all Council members. This would fall within his scope of duty as provided for in s 56 BMSMA. The task of vetting of the minutes would entail checking carefully to make sure that the matters raised by those present at the meeting and any decisions taken thereon were accurately documented. It was obvious from the various emails of the MC members that they had issues with the accuracy of the minutes circulated to them as well as the suitability of the language used. A good example is the email[^36] sent by Frank Chang the day after the Defendant’s Email was sent, in which he had expressed it as follows:
+
+> “… the key issue is one of accuracy, not how it is written, i.e. verbatim or otherwise. I agree … that the minutes is to record what .. transpired during the meeting e.g. info/views shared, queries made and answers given, requests made and decisions taken. Therefore there should not be records of any deduction or implication made after the meeting. The lengthy narration of Mdm Tan’s case and the extended mandate were good examples of what should not be in the minutes.
+
+> My one other comment is that minutes should be written in a neutral tone and manner, without the use of judgmental or undesirable adjectives or expression….”
+
+59     The fact that there were numerous inaccuracies pointed out by various MC members[^37] (which touched on various matters besides the extended mandate) was sufficient to justify the Defendant’s defamatory statement that the Plaintiff was not up to the task of ensuring that the circulated minutes were accurate. The same sentiment had been expressed by Roger Hu in his email to the effect that the duty of vetting and approval of the minutes had become “too demanding” for the Plaintiff as the Secretary.
+
+60     With regard to the allegation of the Plaintiff’s prior unsatisfactory conduct, the Defendant had raised this as a basis for her refusal to give any extended mandate to the Plaintiff for the KF suit had there been such a discussion on the topic at the 5th MC Meeting. She explained in cross-examination that the Plaintiff’s emails with language challenging her to sue him had intimidated her. See excerpt[^38] below:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="100%"> </colgroup><tbody><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Q Okay. So to put it in simple terms or rather, can I ask you, why would you not give the extended mandate?</p><p align="justify" class="Table-Para-1">A If I was specifically asked to give him my mandate, I will not---I will not give him, because from my past experience with him, …. when I asked the MA for contracts, even like my 1st email, you can see from my 1st email, when I asked MA to list down the---all the term contracts, the expiry date, et cetera, et cetera, I got intimidating email from him, asking me to sue him quickly.</p><p align="justify" class="Table-Para-1">….</p><p align="justify" class="Table-Para-1">So, based on this, how can I trust somebody to---to represent me? To give him my mandate, in other words, right. To give him the mandate means, he must explain things to me, for me to make decision, so that I will be comfortable when it comes to making decision. But if he do not give me the information, how am I going to make the good decision for the MCST? That is the sole reason why I asked to look at contracts, to look at terms of agreement. ….</p><p align="justify" class="Table-Para-1">….</p><p align="justify" class="Table-Para-1">Q Alright. Now, all this thing that you said, he was intimidating, et cetera,</p><p align="justify" class="Table-Para-1">…, tells me that you were very upset, angry with him. You agree?</p><p align="justify" class="Table-Para-1">A No. I feel fear, I fear. Because when I received his …---intimidating email, actually, my heart beat very fast. I’ve been a housewife for almost 3 decades, right, and I wanted to---to quit the council many times, but my fellow council members encourage me to carry on because we have got very few volunteers in the estate.</p><p align="justify" class="Table-Para-1">A … ---whenever I received his email with the intimidation words like, “sue me”, words like, um, “akin to legal counsel of the MCST”, “I’m an officer of the Court” [inaudible], I mean, all this, it makes me quite fearful of actually writing also sometimes.</p><p align="justify" class="Table-Para-1">Q Alright. So, why was it necessary for you to tell all the MC members that you never agree to give the extended mandate?</p><p align="justify" class="Table-Para-1">A Because this is also one way to express, uh, to---or to prove that the extended mandate was not discussed in the meeting. Because I know very well, if the extended mandate was discussed and I---I---I was asked specifically to give him the mandate, I will say no.</p></td></tr></tbody></table>
+
+  
+  
+
+61     The difficulties encountered by the Defendant when she sought information from the MA on the MCST’s term contracts are evident from the exchange of emails outlined in \[7\] above. While the Plaintiff had repeatedly asserted his suspicion of the Defendant’s motives for seeking information which might have allegedly compromised the MCST’s position in the KF suit, no reliable evidence has been adduced to the Court to support the assertion which appeared to be solely based on hearsay.[^39] It was, in any case, denied by the Defendant[^40]. The antagonism displayed in the Plaintiff’s email responses[^41] towards a fellow council member whose declared intention for the information and documents was for the purpose of discharging her duty was, in my view, uncalled-for and unacceptable given that they were sent in his capacity as Honorary Secretary of the MC.
+
+62     The sting of the defamatory Email is on the competence and suitability of the Plaintiff for the role of Secretary of the MC. From the inaccuracies in the minutes and the conduct of the Plaintiff as outlined above, I find that the defence of justification has been made out.
+
+### If the statements in the Email were defamatory of the Plaintiff, whether the defamatory statements in the Email were communicated on an occasion of qualified privilege
+
+63     In _Lim Eng Hock Peter v Lin Jian Wei and another and another appeal_ <span class="citation">\[2010\] 4 SLR 331</span> (“_Lim Eng Hock Peter_”), the Court of Appeal at \[34\] endorsed the legal principles of the defence of qualified privilege as summarised in _Halsbury’s Laws of Singapore_ vol 18 (LexisNexis, 2004 Reissue) at paragraph 240.155 as follows:
+
+> The defence of qualified privilege attaches to the occasion on which the words are published, rather than to the words themselves. It would be contrary to the purposes for which qualified privilege exists if the law applied an objective test of relevance to every part of the defamatory matter, as a precondition to the existence of the privilege. Words wholly unconnected with and irrelevant to the occasion may not be privileged; but generally, irrelevant and unnecessary words having some relation to the occasion will be within the privilege but will constitute evidence of express malice.
+
+64     A succinct statement of the occasions of privilege in the following passage from _Gatley on Libel & Slander_ (Sweet & Maxwell, 12th Ed, 2013) at para 14.9, was relied on by the High Court in _Gao Shuchao v Tan Kok Quan & Ors_ <span class="citation">\[2018\] SGHC 115</span> (“_Gao Shuchao_”) at \[35\]:
+
+> “… the tendency of the courts has been to regard most privileged occasions under the common law as very broadly classifiable into two categories: first, where the maker of the statement has a duty (whether legal, social or moral) to make the statement and the recipient has a corresponding interest to receive it; or, secondly, where the maker of the statement is acting in pursuance of an interest of his and the recipient has such a corresponding interest or duty in relation to the statement, or where he is acting in a matter in which he has a common interest with the recipient.”
+
+65     The Defendant submitted that she had a legitimate duty and/or interest to communicate the defamatory allegations to the fourteen recipients of the Email who had a common and corresponding interest in the subject-matter of the Email. The evidence relied on by the Defendant is incontrovertible:
+
+> (a)     The Defendant’s Email was in the chain of communications which occurred in the usual course of business of the MC members and the representatives of Melana.
+
+> (b)     There were no recipients in the circulation list that should not have been included. The Email had been published to the same people who were routinely on the list.
+
+> (c)     The context of the discussion concerned the proceedings in MC meetings, and specifically the recording of the minutes of the 5th and 6th MC meetings.
+
+66     I agree with the Defendant’s submission that the Defendant, as a member of the MC, had a duty to raise the issue of the accuracy of the minutes. The other members of the MC as well as the representatives of Melana had a corresponding interest in knowing if the minutes had been accurately prepared.
+
+67     Accordingly, I find that the Email was published on an occasion of qualified privilege.
+
+### Whether the defence of qualified privilege is defeated by malice
+
+68     The defence of qualified privilege may be defeated by malice. As outlined by the High Court in _Gao Shuchao_ at \[37\] and \[38\],
+
+> “37    … Malice can be found in two instances: (a) where it can be shown that the defendant had knowledge of falsity or was reckless as to the truth of the defamatory statement; or (b) where although the defendant may have a genuine or honest belief in the truth of the defamatory statement, he had the dominant intention of injuring the plaintiff or some other improper motive (_Lim Eng Hock Peter_ at \[38\]; _Golden Season Pte Ltd and others v Kairos Singapore Holdings Pte Ltd and another_ <span class="citation">\[2015\] 2 SLR 751</span> at \[92\]).
+
+> 38    The inquiry as to the statement-maker’s state of mind under instance (a) is a subjective rather than an objective exercise and the threshold to be met is high (_Ezion Holdings Ltd v Credit Suisse AG_ <span class="citation">\[2017\] SGHC 137</span> (“_Ezion_”) at \[25\]). The high threshold has been explained by Lord Diplock in _Horrocks v Lowe_ <span class="citation">\[1975\] AC 135</span> at 150 (“_Horrocks v Lowe_”), as approved in _Maidstone Pte Ltd v Takenaka Corp_ <span class="citation">\[1992\] 1 SLR(R) 752</span> (“_Maidstone_”) at \[48\]:
+
+>> … In ordinary life it is rare indeed for people to form their beliefs by a process of logical deduction from facts ascertained by a rigorous search for all available evidence and a judicious assessment of its probative value. In greater or in less degree according to their temperaments, their training, their intelligence, they are swayed by prejudice, rely on intuition instead of reasoning, leap to conclusions on inadequate evidence and fail to recognise the cogency of material which might cast doubt on the validity of the conclusions they reach. But despite the imperfection of the mental process by which the belief is arrived at it may still be ‘honest’, that is, a positive belief that the conclusions that they have reached are true. The law demands no more.”
+
+Further, at \[39\], \[40\] and \[43\] of _Gao Shuchao_, the High Court explained that:
+
+> (a)     There is no malice where the defendant is merely careless, impulsive or irrational in believing the statement to be true. It has to be proven that the defendant knew that the defamatory statement was false or was “reckless to the point of wilful blindness” for malice to be found.
+
+> (b)     The high threshold for finding malice is in line with the rationale underpinning the privilege, _ie_, that the defendant has a moral, social or legal duty to disclose the information and the recipient has an interest in receiving it. A defendant should not be penalised for making an honest mistake, where he published statements that he genuinely believed to be true.
+
+> (c)     Evidence of a defendant’s conduct and action prior to the publication of a defamatory statement, at the time of the publication and after the publication including the entire surrounding circumstances, must be viewed in totality in determining whether there was malice.
+
+69     The burden is on the Plaintiff to prove malice. In the Plaintiff’s Reply, he pleaded the following matters as particulars of malice on the part of the Defendant:
+
+> (a)     The Defendant had been antagonistic towards the Plaintiff as he did not provide her with confidential and sensitive information relating to the KF suit.
+
+> (b)     Her antagonism was displayed by the tone of her emails to the Plaintiff, such as the email sent on 24 May 2016 where she sarcastically refers to the Plaintiff as an "_educated person who should know better than to make baseless allegations_".
+
+> (c)     Her antagonism had further been displayed by her aggressive and rude attitude during Council meetings targeting the Plaintiff and making the Council meetings unpleasant for the Plaintiff.
+
+> (d)     The Defendant became more hostile towards the Plaintiff after the EOGM on 5 November 2016 of MCST which removed Tan, who was one of her close friends, from the Council ostensibly because the Plaintiff had spoken at the EOGM supporting the motion.
+
+> (e)     The Defendant had lodged a complaint on 1 November 2016 to the Law Society against the Plaintiff for alleged professional misconduct in relation to matters relating to the MCST despite knowing that the allegations were false.
+
+70     An antagonistic tone, rudeness and even a refusal to apologise, without more, is insufficient to prove malice (see _Gao Shuchao_ at \[44\], \[53\]). The conduct of the defendant would have to be viewed in context.
+
+71     In so far as the antagonism displayed towards the Plaintiff on account of his refusal to disclose information on the KF suit is concerned, no evidence of this has been adduced beyond the Plaintiff’s assertions in his affidavit of evidence-in-chief (“AEIC”)[^42]. The Defendant had asked questions on the KF suit at the 6th AGM as a subsidiary proprietor entitled to vote on the resolutions to approve the budget which had to be set aside to fund the litigation. As an elected member of the MC after the 6th AGM, she would have been entitled to information on the KF suit, including confidential information. The Plaintiff’s unrelenting stance that he would not disclose the settlement mandate to her even after her express declaration to the entire Council at the first MC meeting that she had no connection with Knight Frank was quite inexplicable. The confidentiality and privilege attached to the mandate was after all owed to the entire Council of which the Defendant had by then become a member, as conceded by the Plaintiff in cross-examination[^43].
+
+72     It seemed to me that the Plaintiff had continued to take a prejudiced and sinister view of the Defendant’s interest in the KF suit. He was particularly upset at her attendance in court on the day of trial of the KF suit and regarded this act of the Defendant as overriding the Council’s mandate given solely to him to handle the case. The Defendant had explained in her AEIC[^44] that she had attended court on the trial day to observe the court proceedings which she understood are open to members of the public and that it was Mr Ronnie Tan who had of his own volition spoken to her and informed her of the then ongoing settlement discussions between the parties. She had followed up on the discussion with an email to Ronnie Tan later on the same day which was copied to all MC members. From a reading of the emails[^45] I find no reason to doubt the Defendant’s account, which was also not challenged in cross-examination.
+
+73     As to the allegation of sarcastic remarks made by the Defendant in her emails to the Plaintiff, an examination of the email exchanges (which were copied to all the fourteen recipients) shows that the Plaintiff had been equally, if not more, guilty of the same. In fact, as can be seen in the email excerpts outlined in \[7\] above, it was the Plaintiff who was antagonistic to the Defendant from the beginning. Specifically, in relation to the Defendant’s email of 24 May 2016 which the Plaintiff singled out in his Reply, the Plaintiff’s responses can be described as being unnecessarily hostile and even bordering on the offensive, see below:
+
+> (a)    “_If you still insist that I have made baseless accusations against you, you should sue me quickly or put this matter to rest once and for all.”;_
+
+> (b)    “_Please file a Private Motion at the next AGM. And if it is adopted, (heaven forbid), I don’t know if anyone will want to become Office Bearers.”_
+
+> (c)    “_In conclusion, no need to get personal. We are all educated people. That’s why we want to serve in Council even though (unlike PAP grassroots) we don’t receive any PBM or BBM or overseas trips, only 1 miserable mineral water at Council Meetings._
+
+74     With regard to the complaint that the Defendant made to the Law Society of Singapore, she had explained how she had felt intimidated by the Plaintiff’s emails and conduct. The Plaintiff had asserted that his role in the MC was “akin to in-house counsel”, and issued warnings to her as an “officer of the court”. She, therefore, held the belief that the Plaintiff was misusing his status as a lawyer when she lodged the complaint which was eventually dismissed by the Law Society’s Review Committee.
+
+75     The Defendant’s complaint to the Law Society is the subject of another libel action brought by the Plaintiff in DC Suit 3479/2017 and will be dealt with in that suit. In so far as this present action is concerned, the complaint made to the Law Society of misconduct by the Plaintiff _per se_ would not be sufficient to prove malice on the part of the Defendant to defeat the defence of qualified privilege. The Defendant had believed that she was within her rights to make the complaint to the Law Society based on what she as a lay person had read on the Law Society’s website. As the inquiry as to her state of mind is a subjective exercise, there is no basis for the Court to come to any conclusion that her belief was in any way unreasonable or dishonest.
+
+76     In the circumstances, I find that the Plaintiff has failed to prove malice on the part of the Defendant.
+
+### If the Defendant is liable in defamation, what is the appropriate award of damages that ought to be made to the Plaintiff?
+
+77     Since I have found that the Defendant has succeeded in her defences of justification and qualified privilege, this issue need not be dealt with.
+
+## Conclusion
+
+78     The Plaintiff has failed to show that the Email sent by the Defendant carries the defamatory meanings that he pleaded. He had chosen to read the Email as containing an allegation that he had fabricated an extended mandate to himself with regard to the KF suit in order to deceive the recipients. This was clearly not the issue raised by the Defendant in her Email. When read in its proper context, the Email touched on the inaccuracies found in the minutes of the MC meetings. As the responsibility of vetting the minutes was clearly within the purview of the Plaintiff as the Honorary Secretary of the MC, his competence and suitability to continue occupying that office was called into question.
+
+79     While the Defendant’s Email carried a defamatory imputation, the pleaded defences of justification and qualified privilege prevailed. In the result, the Plaintiff’s claim fails and is accordingly dismissed with costs.
+
+80     I shall hear parties on costs.
+
+* * *
+
+[^1]: Defendant’s AEIC at \[6\].
+
+[^2]: Plaintiff’s AEIC at \[11\]
+
+[^3]: ABD-32, 34
+
+[^4]: ABD-109
+
+[^5]: ABD-110, 111
+
+[^6]: ABD-112
+
+[^7]: Both parties had agreed on the authenticity and content of the documents in the Agreed Bundle at the start of the trial.
+
+[^8]: ABD-117
+
+[^9]: ABD-118
+
+[^10]: ABD-121
+
+[^11]: ABD-118, 119
+
+[^12]: ABD-98 to 103
+
+[^13]: ABD-144 to 146
+
+[^14]: ABD-152 to 164
+
+[^15]: ABD-151
+
+[^16]: ABD-171 to 183
+
+[^17]: ABD-168, 169
+
+[^18]: ABD-184
+
+[^19]: ABD-186
+
+[^20]: See ABD-187
+
+[^21]: ABD-188
+
+[^22]: ABD-189
+
+[^23]: ABD-190
+
+[^24]: ABD-191
+
+[^25]: ABD-202, 203, 220
+
+[^26]: ABD-345 to 354
+
+[^27]: ABD-331
+
+[^28]: ABD-375 to 380
+
+[^29]: At paragraph 8 of the Statement of Claim.
+
+[^30]: Paragraph 11 of Defence
+
+[^31]: Paragraph 12 of Defence
+
+[^32]: Paragraph 14 of Defence
+
+[^33]: Gary Chan, _The Law of Torts in Singapore_ (Academy Publishing, 2016, 2nd Ed) at para 12.015.
+
+[^34]: The entire email sent by the Defendant was collectively referred to as the “Defamatory Allegations” in paragraph 5 of the Statement of Claim.
+
+[^35]: Paragraph 12(1) of Defence.
+
+[^36]: ABD-203.
+
+[^37]: See eg. Derek Kang’s email at ABD-121
+
+[^38]: Transcript at pages 130 to 132
+
+[^39]: Transcript at pages 15 to 19
+
+[^40]: Defendant’s AEIC at \[46\]
+
+[^41]: See in particular the email time-stamped 25 May 2016 at 10.38am at ABD-43 to 45.
+
+[^42]: Plaintiff’s AEIC at \[11\], \[26\] and \[42(a)\]
+
+[^43]: Transcript at page 23.
+
+[^44]: Defendant’s AEIC at \[86\] to \[95\].
+
+[^45]: ABD-99
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F24546-SSP.xml)

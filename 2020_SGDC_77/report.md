@@ -1,0 +1,291 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Ferdous Sheikh _v_ Dyna-Mac Engineering Services Pte Ltd  
+
+### \[2020\] SGDC 77
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">DC Suit No 1512 of 2018</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">31 March 2020</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Tan May Tee</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Mr Han Hean Juan and Ms Joleen Wong (Hoh Law Corporation) for the Plaintiff; Mr Gabriel Low (RWong Law Corporation) for the Defendant.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Ferdous Sheikh — Dyna-Mac Engineering Services Pte Ltd</td></tr></tbody></table>
+
+Tort – Negligence – Duty of care
+
+Tort – Negligence – Contributory negligence
+
+31 March 2020
+
+### District Judge Tan May Tee:
+
+## Introduction
+
+1       The Plaintiff is a Bangladeshi national. At the material time, he was employed as a labourer by the Defendant under a work permit issued by the Ministry of Manpower pursuant to the Employment of Foreign Manpower Act (Cap 91A). The Defendant is in the business of engineering, fabrication and construction of offshore FPSO (floating production storage offloading) and FSO (floating storage offloading) topside modules as well as onshore plants and other sub-sea products for the oil and gas industries. Its premises are located at 31 Gul Road, Singapore 629358 (the “Workplace”).
+
+2       On 16 June 2017, the Plaintiff was injured in an accident at the Workplace. He was standing in a small space between a faulty forklift and a working forklift trying to jumpstart the battery of the faulty forklift. After switching on the ignition of the faulty forklift, it moved forward and the Plaintiff’s right leg was crushed between the two forklifts.
+
+3       The Plaintiff was conveyed to hospital where he was found to have sustained a minimally displaced closed right ankle fracture and a right thigh crush injury. In this suit, the Plaintiff claims damages from the Defendant for his injuries.
+
+## Background facts
+
+4       At the time of the accident, the Plaintiff had been under the Defendant’s employment for over 10 years, having started working with them since 2007. His contract of employment[^1] described him as a general worker and the scope of his duties included housekeeping, toilet cleaning and helping the mechanical foreman[^2]. For about 6 years prior to the accident, he had assisted his supervisor in the maintenance of forklifts. He did not have any formal training pertaining to the operation of forklifts and neither did he have a licence to operate forklifts.
+
+5       On the day of the accident, the Plaintiff had attended a toolbox meeting[^3] which lasted from 7.45 a.m. to 8.00 a.m. He was then assigned by the Defendant’s Maintenance Supervisor, Venugopal Jayakrishnan (“DW-1”) to carry out troubleshooting and maintenance work on the faulty forklift with the assistance of a co-worker, one Subra Maniyan Kamatchi Sundaram (“DW-2”).
+
+6       The Plaintiff had ascertained that the faulty forklift had a flat battery. He then proceeded to the store to retrieve a working forklift which he then drove and parked next to the faulty forklift. He positioned the working forklift adjacent to and slightly behind the faulty forklift. He then stood between the two forklifts which, according to the Plaintiff[^4], were about 200 mm to 250 mm apart. With his left hand holding one end of the cable attached to the battery of the faulty forklift, he used his right hand to turn on the ignition switch of the forklift. When the engine of the faulty forklift started, the forklift rolled forward causing the Plaintiff’s right leg to be crushed between the two vehicles.
+
+## The parties’ contentions
+
+7       The Defendant’s contention is that the accident was caused solely or contributed to by the negligence of the Plaintiff. It asserts that the Plaintiff with his many years of experience in doing maintenance work on forklifts, was fully cognisant of the safe work procedures and safety precautions that had to be taken before doing maintenance work on forklifts. Specifically, there were three steps that had to be taken, namely: (1) ensure that the gear of the forklift was set to neutral, (2) ensure that the handbrake of the forklift was engaged, and (3) wooden wedges termed as wheel chokes were placed at the wheels of the forklift to prevent movement. The Plaintiff’s negligence in failing to take any of these steps on the day of the accident was the cause of the accident[^5].
+
+8       The Defendant had also disputed[^6] the Plaintiff’s account that DW-1 had instructed him to jumpstart the faulty forklift with the flat battery. The Defendant’s version was that DW-1 had instructed the Plaintiff and DW-2 to conduct troubleshooting and maintenance works on the forklift. DW-1 had also instructed them to place wooden wedges at the wheels of the forklift, engage the handbrake and put the gearbox in neutral before the commencement of any works. It was the Plaintiff who had decided to use a functioning forklift and cables to jumpstart the battery of the faulty forklift.
+
+9       The Plaintiff contended that the accident was caused by the Defendant’s breaches of its statutory duty of care as an employer in failing to[^7]_inter alia_ ensure that the Plaintiff had adequate instruction, information, training and supervision necessary for him to perform his work in breach of s 12(3)(e) of the Workplace Safety and Health Act (Cap 354A, 2009 Rev Ed) (“the WSHA”).
+
+10     It was also contended that the accident was caused by the Defendant’s breaches of its common law duty of care[^8] in _inter alia_:
+
+> (a)     failing to provide or maintain a safe system of work at the Workplace and to instruct its employees, servants/agents to follow that system;
+
+> (b)     failing to ensure that the Plaintiff was sufficiently trained and/or qualified to operate the forklift;
+
+> (c)     requiring the Plaintiff to carry out a task that he was not trained for; and
+
+> (d)     failing to ensure that safe work procedures were implemented before the Plaintiff and his co-workers were instructed to carry out the work that resulted in the Plaintiff’s injury.
+
+## Issues for determination
+
+11     From the statement of the parties’ contentions broadly outlined above, the issues which were presented for my determination were as follows:
+
+> (a)     what instructions had been given by DW-1 to the Plaintiff; and specifically whether he had instructed the Plaintiff to retrieve a working forklift to jumpstart the faulty forklift;
+
+> (b)     whether the Plaintiff had the necessary instruction and training to carry out the task of jumpstarting the forklift;
+
+> (c)     whether the Defendant had breached its duty of care to the Plaintiff as his employer to provide a safe system of work for the maintenance of forklifts that the Plaintiff was required to carry out at the Workplace; and
+
+> (d)     if the Defendant is found to have breached its duty of care resulting in the Plaintiff’s injuries, whether there was any contributory negligence on the part of the Plaintiff and if so, the extent to which the Defendant’s liability should be reduced.
+
+## Applicable law
+
+12     While the Plaintiff had pleaded various breaches of statutory duty on the part of the Defendant[^9] under the WSHA, it is settled law that there is no basis for any such claim _per se_. As succinctly stated by the High Court in _Miah Rasel v 5 Ways Engineering Services Pte Ltd_ <span class="citation">\[2018\] 3 SLR 480</span> at \[12\], s 60 of the WSHA “_makes it clear that the WSHA is not to be construed as conferring a right of action in any civil proceedings in respect of any contravention, whether by act or omission_.”
+
+13     Accordingly, I will be dealing only with the alleged breaches of duty on the part of the Defendant under the common law tort of negligence. The Defendant has not disputed that as an employer, it owed a duty of care to the Plaintiff. The issue was whether the duty had been breached in the circumstances of this case.
+
+14     In determining whether the Defendant is to be held negligent, I am guided by the four-fold test neatly articulated by George Wei JC (as he then was) in _Chen Qiangshi v Hong Fey CDY Construction Pte Ltd_ <span class="citation">\[2014\] SGHC 177</span> (“_Chen Qiangshi_”) at \[125\], which is: (a) the defendant must have owed the claimant a duty of care; (b) the defendant’s conduct must have breached the duty of care by falling below the requisite standard of care; (c) the claimant must have suffered loss; and (d) the defendant’s breach of duty must have been a cause of the claimant’s loss. Breaches of the WSHA and its accompanying regulations (“WSH Framework”) are relevant in deciding whether the employer has been negligent since the employer’s common law duty of care intersects with and is shaped by its statutory duties. The WSH Framework is applicable in ascertaining the appropriate standard of care applicable.
+
+### Issue 1: What instructions had been given by DW-1 to the Plaintiff and whether DW-1 had instructed the Plaintiff to retrieve a working forklift to jumpstart the faulty forklift
+
+15     This issue concerns the events that led to the accident. The Plaintiff was his only witness at the trial, while three witnesses testified for the Defendant, namely the supervisor (DW-1), the co-worker (DW-2), and one Chakma Palash, the safety supervisor (DW-3), who was involved in the investigation into the cause of the accident.
+
+16     The Plaintiff had maintained in his affidavit of evidence-in-chief (“AEIC”) and during cross-examination that DW-1 had instructed him to jumpstart the faulty forklift by using a working forklift. This was, however, denied by DW-1 whose position was that he had only assigned the Plaintiff to carry out troubleshooting and maintenance work for the faulty forklift. As for the co-worker, DW-2, his evidence was not particularly helpful on this point. While it appeared that he initially agreed with Plaintiff’s counsel that DW-1 had told the Plaintiff to jumpstart the faulty forklift, on being asked to confirm this in cross-examination, he conveniently said that he could not remember[^10].
+
+17     With conflicting oral evidence from both sides on this aspect, I examined the documentary and circumstantial evidence to ascertain the more probable version. In this regard, I looked at the accounts of the accident recorded by DW-3 which were more or less contemporaneous with the event. Notably, the record made by DW-3 of the Plaintiff’s account[^11] of the accident did not mention any instruction to jumpstart the faulty forklift with another forklift. DW-3’s record was in a Question and Answer format. To the question, “_What job was assigned you on the day of accident?”_, the Plaintiff had answered thus: “_Follow up task from previous day. Repair and servicing of the forklift due to engine can’t start_.”
+
+18     Similar statements had been recorded from DW-1 and DW-2. In DW-1’s statement, the relevant question and answer recorded were as follows:
+
+>   
+| 
+
+_“Question:_
+
+ | 
+
+_What job was assigned to the IP[^12] (Ferdous) & Co-worker on the incident day (16.06.17)?_
+
+ |
+| 
+
+_Answer:_
+
+ | 
+
+_To do troubleshooting and maintenance works.”_
+
+ |
+
+  
+  
+
+In DW-2’s statement, the answers recorded were more definitive, see below:
+
+>   
+| 
+
+_“Question:_
+
+ | 
+
+_What is the task and job instruction given you by your supervisor?_
+
+ |
+| 
+
+_Answer:_
+
+ | 
+
+_My supervisor Jaya Krishnan was (sic) instructed to help IP (Ferdous) for forklift maintenance works._
+
+ |
+| 
+
+_Question:_
+
+ | 
+
+_How did the incident happen?_
+
+ |
+| 
+
+_Answer:_
+
+ | 
+
+_On 16.06.17 at about 0815hrs, my supervisor (Jaya Krishnan) assigned me and IP to do troubleshooting work of the forklift (DM 353)[^13]. The forklift was system break down which was place behind 31 store area. After troubleshooting, IP (Ferdous) found out that the battery of the forklift had drained out and therefore he planned to jumpstart by using another forklift (DM 358) which was serviced earlier. IP parked forklift (DM 358) beside of forklift (DM 353). After connecting the jump start wire, IP stood in between the 2 forklifts to turn on the engine of the forklift (DM 353). When the engine of forklift (DM 353) was turned on, it moved forward unexpectedly and as a result IP’s right leg was caught in between the two forklifts….”_
+
+ |
+
+  
+  
+
+19     From the contemporaneous written statements given by the persons involved, it seemed to me that the more probable version must be that of the Defendant. Accordingly, I find that the instruction given to the Plaintiff by his supervisor was to do troubleshooting of the faulty forklift, and it was the Plaintiff who had decided to jumpstart the battery of the forklift with that of a working forklift.
+
+20     While my factual finding is that the Plaintiff was not expressly instructed by DW-1 to jumpstart the faulty forklift with a working forklift, it would appear from DW-1’s testimony that he had pretty much left it to the Plaintiff how he intended to carry out the troubleshooting of the faulty forklift. No further instructions were deemed necessary as this was regarded as “ordinary” or “small” work by the supervisor. The instructions were given in the morning at or after the brief toolbox meeting to the Plaintiff who was essentially thereafter left to his own devices as to how the work was to be carried out. I will come back to this aspect later in the judgment.
+
+### Issue 2: Whether the Plaintiff had the necessary instruction and training to carry out the task of jumpstarting the forklift as part of the maintenance work on forklifts
+
+21     The Defendant contended that the Plaintiff was competent in maintaining and servicing forklifts, having encountered faulty batteries in forklifts as frequently as once or twice a month in the past 6 years. The Plaintiff was also held out to be more experienced in the maintenance of forklifts than his supervisor, DW-1, and had even participated in giving a demonstration of safe practices in the maintenance of forklifts at the Workplace a few days before the accident.
+
+22     As to the need for formal training or a licence, it was the Defendant’s case that only those workers that were engaged to drive forklifts would need to attend a forklift operator course and obtain a licence. The Plaintiff’s scope of work in servicing and maintenance of forklifts did not require him to have a such a licence. In any case, it was irrelevant whether the Plaintiff had a forklift operator licence since the accident did not occur while the Plaintiff was driving a forklift.
+
+23     The Defendant further highlighted that the Plaintiff had been properly trained as to the safety precautions that had to be taken before commencing forklift maintenance. The Plaintiff was well aware of, and had admitted that he knew he needed to take, the safety precautions before commencing maintenance work. The maintenance work was routine and simple, and the amount of supervision given to the Plaintiff on 16 June 2017 was reasonably sufficient. The Plaintiff had further unequivocally admitted in cross-examination that if any one of the three safety precautions had been implemented, the forklift would not have moved.
+
+24     It was the Defendant’s case that the Plaintiff had become overconfident due to his wealth of experience, and, as such, chose not to implement the safety precautions that he was aware of before commencing maintenance work on the forklift. Accordingly, it was submitted that the Defendant was not negligent when it tasked the Plaintiff to service the faulty forklift on 16 July 2017.
+
+25     On the other hand, the Plaintiff contended as follows:
+
+> (a)     based on his contract of employment, he was employed by the Defendant merely as a general worker;
+
+> (b)     with regard to maintenance of forklifts, the WSH Council’s Workplace Safety and Health Guidelines for the Safe Operation of Forklift Trucks (“WSH Guidelines”) stipulate that “_Forklift trucks may only be serviced and maintained by competent and authorised_ personnel”. The relevant code of practice, the Singapore Standard 573:2012 Code of Practice for the Safe Use of Powered Counterbalance Forklifts (“the Code of Practice”) provides that “_Only competent and authorised personnel shall be permitted to maintain, repair, adjust and inspect forklifts_”. The Code of Practice defines a competent person as a person who, “_through formal training_” and work experience, possesses the practical and theoretical knowledge of forklifts to enable the safe operation of counterbalanced forklifts. Hence, only persons who had undergone the requisite training, eg. through the Workforce Development Agency’s Forklift Operator Course would be permitted to carry out maintenance work on forklifts, including the jumpstarting work that the Plaintiff did on the material day;
+
+> (c)     the Plaintiff had not at any time attended any Forklift Operator Course;
+
+> (d)     the Defendant did not provide the Plaintiff with any formal or in-house training and even it had, the training was woefully inadequate;
+
+> (e)     the Defendant’s own investigation report had classified the root cause of the accident as “_Lack of initial training_” which was elaborated to mean the Plaintiff “_had not undergone operator training, and he started the forklift during jump start_”.
+
+26     The WSH Guidelines and the Code of Practice set out the industry norms relating to the work of maintenance, servicing, repair, adjustment and inspection of forklifts. They stipulate that such work ought to be carried out only by competent and authorised personnel. Granted that the Plaintiff might have been performing maintenance work in the past six years before the accident, he had been doing so, as he testified, in his capacity as a helper to the mechanical supervisor or mechanical foreman. There is no evidence that he had received any formal training to qualify him as a “_competent_” personnel as contemplated by the Code of Practice to carry out the servicing and maintenance of forklifts on his own. The task assigned to him on the day of the accident was to do troubleshooting and maintenance works on the faulty forklift which included charging or changing of the forklift battery. Such works clearly fell within the purview of the WSH Guidelines - section 7.3.2 of the Guidelines stipulates that “_Charging or changing of forklift battery should only be carried out by competent personnel_.” While it was clear that the Defendant had authorised him to do the maintenance works, no evidence was presented to the Court as to the Plaintiff’s competence to carry out the work other than the fact that he had carried out such work in the past without mishaps. For these reasons, I would tend to agree with the Plaintiff that the Defendant was in breach of the Guidelines and Code of Practice.
+
+27     The evidence adduced from the Defendant’s own documents showed that while the Plaintiff might have learnt through his years of service with the Defendant on how to troubleshoot faulty forklifts, how to operate them including how to jumpstart their dead batteries, there were still aspects of the forklifts that he was ignorant of, such as the different features of the older (i.e. the faulty forklift). This had been tacitly recognised in the Defendant’s own Investigation Report, wherein it was stated[^14] that “_IP (_meaning “Injured Person”_) assumed that the gear was set to neutral as he mentioned that the engine cannot be started if the gear is in engaged position_. _However, for Forklift A which was an older version, it does not have such safety features._”
+
+28     Further, the Defendant’s Investigation Report into the accident identified the “root cause” of the accident to be lack of initial training. The explanation provided was that the Plaintiff “… _had not undergone forklift operator training and he started the forklift during jumpstart.”_ According to the Report, the company’s Agreed Action Plan, as far as preventive action was concerned, was for the supervisor to brief their workers to be more vigilant and significantly, that any person operating the forklifts must have undergone the forklift operator course.
+
+29     While I was minded to agree with the Plaintiff that the Defendant was in breach of its duty of care in failing to ensure that the Plaintiff had the necessary (formal) training required by the WSH Guidelines and Code of Practice, I was unable to find that this breach had resulted in the accident and was causative of the Plaintiff’s injuries. This is because the Plaintiff was aware of the three safety precautions of putting the forklift gear to neutral, applying the handbrake, and putting the wheel chokes before commencing forklift maintenance, as he had admitted under cross-examination[^15]. He had also quite candidly admitted that he had not taken these safety precautions because he was over confident and wanted to do the repairs in a shortcut method.
+
+### Issue 3: Whether the Defendant was negligent as an employer in having breached its duty of care to the Plaintiff to provide a safe system of work at the Workplace
+
+30     It is well established that the employer’s duty of care to his employee is _“to provide a competent staff of men; adequate material; and a proper system and effective supervision_”. See _Parno v SC Marine Pte Ltd_ <span class="citation">\[1999\] 3 SLR(R) 377</span> (“_Parno_”) at \[45\]. With regard to the employer’s duty to provide a proper system of work, the Court of Appeal in _Parno_ at \[46\] had further explained that:
+
+> “The employer must devise a suitable system and instruct his men in what they must do: see _Pape v Cumbria County Council_ \[1992\] 3 All ER 211. In devising a safe system, the employer should be aware that workmen are often careless for their own safety: see _General Cleaning Contractors Ltd v Christmas_ <span class="citation">\[1953\] AC 180</span> at 189– 190 per Lord Reid. The employer must also take reasonable care to ensure that his system is complied with, but he is not obliged “to stand over workmen of age and experience at every moment they are working…to see that they do what they are supposed to do”: see _Woods v Durable Suits Ltd_ \[1953\] 2 All ER 391 at 395C <span class="citation">\[1953\] 1 WLR 857</span> at 862 per Singleton LJ.”
+
+31     Further elucidation of the extent of the employer’s duty to provide a safe system of work was given by V K Rajah JA (as he then was) in _Zheng Yu Shan v Lian Beng Construction (1988) Pte Ltd_ <span class="citation">\[2009\] 2 SLR(R) 587</span> (“_Zheng Yu Shan_”) where the learned Judge held that an employer must “take the employee’s carelessness in relation to safety into account when devising a safe system of work”, per Rajah JA at \[38\]. Having devised such a system, the employer must also take reasonable care to see that the system is complied with. In _Lu Bang Song v Teambuild Construction Pte Ltd and Another_ <span class="citation">\[2009\] SGHC 49</span> (“_Lu Bang Song”_) at \[21\], Chao Hick Tin JA further clarified that the employer’s duty is crystallised into two facets: the existence of the system itself, and the supervision required in ensuring compliance with the system.
+
+32     It was the Defendant’s case that it had discharged its duty to provide the Plaintiff with a safe system of work as it had conducted a risk assessment, briefed the Plaintiff on the risk assessment and reminded the Plaintiff of the safety precautions to take when servicing and maintaining forklifts. The Plaintiff had also admitted that he was briefed and reminded at a toolbox meeting prior to the commencement of his work on 16 July 2017 on the safety precautions that he had to take before commencing forklift maintenance.
+
+33     The Plaintiff, however, submitted that the Plaintiff had been a victim of a systematic and persistent failure on the Defendant’s part to provide a safe system of work and effective supervision. The evidence pointing to the Defendant’s failure to provide a safe system of work was as follows:
+
+> (a)     The Defendant’s supervisor, DW-1, had failed to give the Plaintiff proper instruction on the task to be carried out.
+
+> (b)     The Defendant had failed to ensure that DW-1, the supervisor, was present at the material time when the jumpstart operation was being carried out.
+
+> (c)     DW-1 had failed to conduct any checks on the Plaintiff during the entire operation. Had he done so, he could have stopped any incorrect and unsafe work practices observed, or even inform the Plaintiff that jumpstarting the faulty forklift was not necessary.
+
+> (d)     The Defendant had failed to provide competent workmen. The Defendant had a duty to ensure that the appointed supervisor was fully appreciative of the risks and dangers in the work involved. As DW-1 was not formally trained, whether on jumpstarting forklifts or changing the forklift’s battery, he was not fully aware of nor could he appreciate the dangers involved with working with forklifts and the consequences of not complying with the safety precautions.
+
+#### My decision
+
+34     As I mentioned at \[20\] above, it appeared from the evidence adduced, that the Plaintiff was left entirely to his own devices as to how he was to carry out the troubleshooting work assigned to him on the day of the accident. After determining that the faulty forklift had a flat battery, he had decided to jumpstart it using a working forklift. He then proceeded to the store to retrieve a working forklift which he drove and parked adjacent to the faulty forklift even though he had no operator’s licence to do so. From the tenor of the evidence, it seemed to me that the Plaintiff had done this many times before without any supervision.
+
+35     While the Defendant had a Step-by-Step Jump Starting Guideline[^16], the evidence adduced from DW-1 was that the Plaintiff was unaware of the same. DW-1, the supervisor, had testified that this was a standard operating protocol (“SOP”) which had been in place even before he joined the Defendant’s employment in 2011. The document, however, had not been shown to the Plaintiff at any time.[^17] Notably, the SOP at Step 2 had an express warning to the effect that “_jump starting a forklift battery can be potentially dangerous – both to the vehicle and to yourself_.” At Step 3, the SOP provided that a jump start forklift was to be requested from the supervisor if a spare battery was not available. Step 4 required the workman to bring the jumpstart forklift close to and at least one metre apart and in parallel to the dead forklift so that the jumper cables reached.
+
+36     From the Plaintiff’s own account in his AEIC and in cross-examination, he had failed to comply with Steps 3 and 4. In cross-examination, he confirmed that there were good and charged batteries around to be used, and he could very well have just changed the dead battery with a new one. He could also have used a fully charged battery for the jumpstart process instead of using a forklift. To my mind, these indicate a lack of systemic controls in the Defendant’s work processes. No checks were in place to ensure that a jumpstart forklift was only to be used when good batteries were not available.
+
+37     The Plaintiff had also not parked the jumpstart forklift parallel to and at least one metre apart from the faulty (or dead forklift, as referred to in the SOP). According to his AEIC, he had parked it adjacent to the dead forklift at an angle and the two forklifts were a mere 200 mm to 250 mm apart (although this was likely to be a gross underestimate since it would not have been possible for the Plaintiff to stand between the forklifts if they were indeed so close).
+
+38     What was troubling for me was that the Plaintiff, being a general worker by occupation, and not a “professional mechanic”[^18] was expected to carry out a mechanic’s duties totally unsupervised. DW-1, as the Plaintiff’s supervisor, did not give any direction or supervision and did not follow him to check on the condition of the faulty forklift. DW-1 did not check on the Plaintiff to remind or ensure that the three safety precautions (put gear in neutral, engage handbrake, and place wheelchokes) were carried out either by the Plaintiff or his co-worker. The Defendant had contended that these measures had been spoken of at the toolbox meeting on the same morning which the Plaintiff categorically disputed[^19]. While the Defendant’s documentation of the toolbox meeting indicates that the topic of “Safe use of forklift” had been the subject of discussion, given that the meeting lasted a mere 15 minutes (from 7.45 a.m. to 8.00 a.m.), any safety discussions, if at all, were more likely than not to have been a perfunctory affair.
+
+39     DW-1 agreed that if he had been present to supervise the work of the Plaintiff that day, the accident would not have happened.[^20] It is my finding that this lack of supervision on the part of DW-1 is a clear breach of the employer’s duty to provide a safe or proper system of work to the standard articulated by the High Court in _Zheng Yu Shan_ and _Lu Bang Song_ which places an obligation on the employer to take into account the carelessness of their employees and hence, the need to provide supervision. DW-1’s failure to provide supervision for the jumpstart work required of the Plaintiff on the material day was a direct and/or contributing factor to the accident which caused the Plaintiff’s injuries.
+
+40     With regard to the Defendant’s liability, I note the observation of the Court of Appeal observed in _Chandran a/l Subbiah v Dockers Marine Pte Ltd_ <span class="citation">\[2010\] 1 SLR 786</span>, that an employer may be liable for a worksite accident in a primary or secondary manner (at \[13\]). The primary mode concerns duties that the employer owes directly to its employees, such as the employer’s non-delegable duty to take care of the safety of its employees while the secondary mode is concerned with duties that one employee owes to another for which the employer would be made vicariously liable.
+
+41     Based on my finding in \[39\], I hold the Defendant to be vicariously liable for the breach of duty on the part of its supervisor, DW-1. The Defendant is liable in negligence in failing to provide the Plaintiff with a safe and proper system of work in relation to the forklift maintenance work that he was tasked to carry out on 16 June 2017 at the Workplace.
+
+### Issue 4: Whether there was contributory negligence on the part of the Plaintiff
+
+42     The Defendant had alleged that the accident leading to the Plaintiff’s injuries was caused and/or contributed to by the Plaintiff’s own negligence.
+
+43     The Court of Appeal in _Parno_ explained the principle of contributory negligence at \[59\] by reference to the observation of Lord Denning MR in _Froom v Butcher_ <span class="citation">\[1976\] QB 286</span> at 291, as follows:
+
+> _Negligence depends on a breach of duty, whereas contributory negligence does not. Negligence is a man’s carelessness in breach of duty to others. Contributory negligence is a man’s carelessness in looking after his own safety. He is guilty of contributory negligence if he ought reasonably to have foreseen that, if he did not act as a reasonable prudent man, he might hurt himself._
+
+44     It is also relevant to note s 3(1) of the Contributory Negligence and Personal Injuries Act (Cap 54, 2002 Rev Ed) which provides as follows:
+
+> **Apportionment of liability in case of contributory negligence**
+
+> **3.**—(1)    Where any person suffers damage as the result partly of his own fault and partly of the fault of any other person or persons, a claim in respect of that damage shall not be defeated by reason of the fault of the person suffering the damage, but the damages recoverable in respect thereof shall be reduced to such extent as the court thinks just and equitable having regard to the claimant’s share in the responsibility for the damage.
+
+45     While I have found the Defendant negligent in failing to provide a safe and proper system of work, the evidence adduced also points to contributory negligence on the part of the Plaintiff. He knew that he needed to take the necessary safety precautions before commencing the jumpstart process, but he failed to do so. He candidly admitted that he had been over confident and wanted to take shortcuts.
+
+46     By failing to implement the three safety measures to secure the faulty forklift from movement, he had carried out the work in an improper and unsafe manner. As an experienced worker, he had failed to act as a reasonably prudent man ought to have. Accordingly, I have to find that the Plaintiff’s conduct was a contributory cause of the accident and his resultant injuries.
+
+47     It is well accepted that where contributory negligence is alleged against an employee, the law tends, on balance, to lean in favour of the employee who had suffered damage due to the employer’s negligence. Where the employer’s negligence related to the failure to ensure that there was a safe system of work, the fact that an employee took a risk or made an error of judgment does not inevitably support a finding of substantial contributory negligence (or at all)[^21]. As the Court of Appeal had observed in _Parno_ at \[64\], “the primary responsibility for ensuring safety rests with the employer”.
+
+48     Considering the fact that the Plaintiff was an experienced worker who was admittedly cognisant of the risks involved, I am of the view that it would be fair and reasonable to apportion liability in this case at 60:40 in the Plaintiff’s favour.
+
+## Conclusion
+
+49     I find the Defendant liable in negligence for the Plaintiff’s injuries. I also find that the Plaintiff was contributorily negligent up to 40%. The Defendant will bear 60% liability for the damages that the Plaintiff has suffered as a consequence of the accident.
+
+50     Accordingly, I enter interlocutory judgment for the Plaintiff at 60% of the damages to be assessed by the Registrar. Costs and interest will be reserved to the Registrar hearing the assessment.
+
+* * *
+
+[^1]: DBD-1
+
+[^2]: Transcript of 24 October 2019 at page 6
+
+[^3]: DBD-11, 12
+
+[^4]: Plaintiff’s AEIC at \[8\].
+
+[^5]: As pleaded in paragraphs 3, 4 and 5 of Defence
+
+[^6]: As pleaded in paragraph 2 of Defence
+
+[^7]: As pleaded in Statement of Claim paragraph 7(d)
+
+[^8]: As pleaded in Statement of Claim paragraph 7(f), (g), (h), (i), (j) and (k).
+
+[^9]: As pleaded in Statement of Claim paragraph 7(a) to (d)
+
+[^10]: Transcript of 25 October 2019 at page 20 lines 2 to 19
+
+[^11]: See DBD-19
+
+[^12]: Referring to “Injured Person”
+
+[^13]: This was noted to be a typographical error. It is not disputed that the faulty forklift was DM-358 and the working forklift DM-353.
+
+[^14]: DBD-48
+
+[^15]: Transcript 24 October 2019 at pages 29, 30
+
+[^16]: DBD-40
+
+[^17]: Transcript of 24 October 2019 at pages 82, 83
+
+[^18]: Transcript of 24 October 2019 at page 7
+
+[^19]: Transcript of 24 October 2019 at pages 13 and 14
+
+[^20]: Transcript of 24 October 2019 at pages 89 and 90
+
+[^21]: See Gary Chan, _The Law of Torts in Singapore_ (Academy Publishing, 2011) at para 7.079
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F24545-SSP.xml)
