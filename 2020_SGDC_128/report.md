@@ -1,0 +1,465 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Tan Wai Luen  
+
+### \[2020\] SGDC 128
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">District Arrest Case No. 914553 of 2018, Magistrate's Appeals No 9066 of 2020</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">26 May 2020</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Ong Chin Rhu</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Deputy Public Prosecutor Kavita Uthrapathy (Attorney-General's Chambers) for the Prosecution; Accused in person</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Tan Wai Luen</td></tr></tbody></table>
+
+Criminal Law – Offences
+
+\[LawNet Editorial Note: An appeal to this decision has been filed in MA 9066/2020/01.\]
+
+26 May 2020
+
+### District Judge Ong Chin Rhu:
+
+1       The Accused, Mr Tan Wai Luen, _claimed trial_ to a charge under section 376(2)(a) punishable under section 376(3) of the Penal Code (Cap 224, Revised Edition 2008), for sexually penetrating the victim’s vagina with his finger without her consent.
+
+2       The Accused was initially represented by counsel at the start of the trial. However, after the victim had completed her evidence and shortly before the commencement of the second tranche of the trial, counsel had applied to discharge himself from further acting for the Accused. The application was fixed for mention in Open Court. Having heard both counsel as well as the Accused, who stated that he had no objection, I granted the application for discharge. The Accused was therefore unrepresented for the remainder of the trial.
+
+3       At the conclusion of the trial, I found the Accused guilty and convicted him on the charge. I sentenced the Accused to a term of 7 years and 4 months’ imprisonment and 4 strokes of the cane. The Accused being dissatisfied with his _conviction and sentence_ has filed an appeal. He is _on bail_ pending the hearing of his appeal.
+
+4       I had provided brief oral grounds at the conclusion of the trial to explain some of my findings and my decision to convict the Accused. These were captured in the Transcripts for 22 January 2020 at pages 1 to 4. I had further provided brief oral grounds for my sentencing decision and these may be found in the Transcripts for 6 March 2020 at pages 1 to 7. I shall elaborate on my reasons for conviction and sentence in these grounds.
+
+## The charge and background facts
+
+5       The details of the charge against the Accused were as follows:
+
+> You \[...\] are charged that you, on the 1st day of October 2016, sometime between 3pm and 4.47pm, at ‘Encore Muay Thai’ gym located at 452A Joo Chiat Road, Singapore, did sexually penetrate with your finger the vagina of \[the victim\], a female then aged 33 years old \[DOB of the victim\] without her consent, and you have thereby committed an offence under Section 376(2)(a), punishable under Section 376(3) of the Penal Code, Chapter 224, Revised Edition 2008.[^1]
+
+6       The background facts and circumstances surrounding the alleged offence were largely undisputed at trial. In summary, the victim attended a Muay Thai trial session at Encore Muay Thai (“the Gym”) conducted by the Accused on the date of the alleged offence. The Gym was located at the second level of a shop-house at 452A Joo Chiat Road (as seen in Exhibits P1-1 to P1-9). The victim and the Accused did not know each other before that day. After the class concluded and the rest of the students had left, the Accused offered the victim a Thai massage. The Accused was not trained in Thai massage and Thai massage was not a service offered at the Gym. The Accused did proceed to perform a massage for the victim on the massage bed at the Gym (as seen in Exhibits P1-5 to P1-7) and had used a bottle of Ginvera olive oil (as seen in Exhibits P2-1 to P2-3) in the process.
+
+7       The key issue in dispute between parties was whether the Accused had inserted his finger into the victim’s vagina in the course of the massage.
+
+## The case for the Prosecution
+
+8       The Prosecution called four witnesses to prove their case against the Accused. Their evidence is summarised below.
+
+### Evidence of the victim
+
+9       The victim testified that she was divorced with 2 young children.[^2] At the time of the offence, she was working as a customer service officer.[^3] She first came to know of the Gym from an online link, and subsequently signed up via email for a free trial Muay Thai class and body analysis on 1 October 2016 at 12 pm.[^4]
+
+10     On 1 October 2016, it was raining heavily and the victim was stuck at a bus stop on her way to the Gym. As such, she sent a text message to notify the staff at the Gym that she would be late.[^5] At 12.15 pm, when the victim arrived at the Gym, the Accused introduced himself to the victim as “Ivan” and said that he was the instructor at the Gym for that day.[^6]
+
+11     The victim proceeded to change out of her black t-shirt and jeans into her exercise attire in the toilet.[^7] The Accused conducted a body analysis on the victim by measuring the victim’s weight, fat level and identifying her problem areas. Sometime during the body analysis, three Chinese ladies who were attending the same Muay Thai class as the victim came into the Gym.[^8]
+
+12     The class started about 12.30 pm to 12.45 pm, with two or three breaks of about five to ten minutes each.[^9] The victim went downstairs for two of these breaks to smoke, and saw the Accused also smoking downstairs on both occasions. During these breaks, the Accused asked the victim where she worked and shared that he was the founder of the Gym, while the victim asked him how old he was. The Accused also shared that he was divorced with two sons and that his ex-wife was Thai. The class eventually ended between 2.30 pm to 3.00 pm.[^10]
+
+13     After the class, the victim changed out of her exercise attire and into her black t-shirt and jeans. When the victim came out of the toilet, the Accused was seated at the dining table (seen in Exhibit P1-5) with a cup of ‘kopi-o.’ The Accused explained that the ‘kopi-o’ would help her break down the fats faster, after the exercise. From this point onwards, the victim did not see the three Chinese ladies who attended the class with her, and surmised that they had left the Gym.[^11]
+
+14     At the dining table, the Accused tried to sell a package to the victim to join the Gym and showed her a price list. The victim told the Accused “no” because although she was interested in martial arts, she was still trying to find out what was the best for her. However, as the victim saw Thai massage listed in the price list, she asked the Accused, “So you have a thai massage here?” The Accused said “yes” and indicated that he was the only one trained to perform Thai massage.[^12] The Accused told the victim that since she was already at the Gym for the free trial, he would add in the free Thai massage as well. The victim accepted the offer because it was free.[^13] She explained she agreed to have the Accused massage her because she trusted him[^14], and thought he was trained and would know the places to avoid on a woman’s body.[^15]
+
+15     As instructed by the Accused, the victim proceeded to the massage area behind the curtain (Exhibit P1-5) and drew the curtain before removing all her clothes except her panties. She then lay face-down on the massage table (Exhibit P1-5) with her face positioned in a hole in the massage table (Exhibit P1-6). She was wearing only her panties and had covered her back with a towel which was on the massage table.[^16] The victim then told the Accused “I’m okay.” When the Accused came into the massage area, the victim turned around to ensure that it was him. The Accused then switched off the lights in the area.[^17] Although it was quite dim, the victim was able to see because there was some sunlight streaming in.[^18] Before beginning the massage, the Accused also shifted the massage table by slanting it so that he could move along both sides of the table.[^19]
+
+16     The massage started at about 3.15 pm to 3.20 pm. The Accused rubbed his hands with oil from a bottle of Ginvera olive oil (Exhibit P2-1) and shifted the towel over the victim’s body to the top of her back.[^20] He then massaged the victim’s calf, then her thigh, her back, her calf again and then her inner thigh.[^21]
+
+17     The victim gave evidence that when the Accused first massaged her inner thigh area near the vagina, she felt very uncomfortable and shifted her body to indicate this to the Accused. The Accused responded by moving back to massaging the victim’s calf. During cross-examination, the victim testified that at this point, the towel was covering her buttocks.[^22]
+
+18     However, soon thereafter, the Accused moved his hands up to the victim’s thigh area, quickly into the inner thigh, inserted a finger under the victim’s panties and into her vagina.[^23] The victim testified that she was not sure how many fingers he inserted but she felt the texture of a fingernail being put into her vagina.[^24] The victim also explained that she was certain the Accused had inserted a finger into her vagina as she had experienced the same during her marriage to her ex-husband.[^25] She estimated that the Accused had inserted his finger up to the first joint from the finger-tip, to a depth of about 2.5cm into her vagina.[^26] The victim immediately turned around and shouted “_oi_” at the Accused. He then removed his finger while showing the victim a straight face. The victim explained that she shouted at the Accused as he had done a “very wrong thing” but the Accused acted as if he did not do anything wrong and did not say anything to her. At that moment, the victim felt angry, upset and violated because he had broken the trust she placed in him when she agreed to the massage.[^27]
+
+19     Thereafter, the Accused continued with the massage. He asked the victim to flip over to the front, and massaged her shoulders and legs for the next 10 to 15 minutes. The victim stated that she carried on with the massage because she was naked and the Accused was a Muay Thai instructor, and that anything could have happened if she resisted. She observed that there were only two of them in the Gym, and if she were to get up and leave, she would still need to clothe herself as she was naked. She was concerned that during the period in between, the Accused could take advantage of her or would hit or rape her.[^28]
+
+20     The victim estimated that the whole massage lasted one to one-and-a-half hours. After the Accused finished the massage and walked out of the massage area, the victim quickly changed into her black t-shirt and jeans, took her bag and left the Gym.[^29] When she went downstairs to exit the Gym, she realised that the main door to shop-house where the Gym was located (Exhibit P1-1) was locked from the inside.[^30] She unlocked the door and left the Gym. The victim suspected that the Accused was the one who locked the door even though she did not witness him doing so. This was because he was the only staff present and the door was locked from the inside.[^31] During cross-examination, the victim explained that she assumed that the Accused had locked the door when she went to change in the toilet after the Muay Thai session.[^32]
+
+21     The victim gave evidence that she did not confront the Accused before leaving the Gym because she was rushing home to tend to her son with special needs who was sick that day.[^33] Further, she was scared to do so as she and the Accused were the only two persons in the Gym. However, she intended to lodge a police report after attending to her sick son.[^34] The victim testified that she did not inform anyone about what happened to her because it was a very personal matter, and she did not wish to be judged by others.[^35] That night, the victim felt angry with herself for letting a stranger do this to her. She was also very confused at that point and could not accept what had happened.[^36]
+
+22     The next day (2 October 2016), while the victim was at work, she sent a series of text messages (Exhibit P4) to a staff of the Gym known to her as “Vivian” (PW3, Chan Li Ping, Vivian). The victim explained that she was concerned that the Accused could have previously done to others what he did to her, or would do the same in the future to someone else.[^37] The victim informed Vivian that she had a free trial class with the Accused the day before and he gave her a Thai massage and fingered her. During cross-examination, the victim explained that she was typing the text message while she was at work and in the midst of serving a customer. Therefore she sent the message without re-reading what she had typed. The victim added that she did not wait for lunch time to send the message because the incident was disturbing her mind and she wanted to get it over and done with. [^38]
+
+23     After Vivian asked the victim to tell her over text message what happened, the victim responded with the following message[^39]:
+
+> “After the class.. he made me kopi o n then he offered thai massage… So i agreed to it.. N during the massage when im lying on my front he actually fingered me. I shouted n him… N he jus continued the massage without an apology… He said only he can do the thai massage.. As the rest do not know how… I do not know if this ever happen but it is really tarnishing the company image…”
+
+24     The victim called Vivian later that day and told Vivian that what she had stated in her messages to Vivian was true. Vivian informed the victim that she would talk to the Accused about the matter. After this conversation, the victim did not contact Vivian or anyone from the Gym again.[^40] The victim said that she was about to make a police report after work on 2 October 2016, but before she ended work that day, she received a phone call from Bedok Police Station informing her that Vivian had reported the matter.[^41]
+
+25     The victim said that after the day of the incident, she never saw the Accused again. She shared that this incident had caused her to be more afraid when a male person came close to her or approached her. She shared that especially when taking a very-packed train, she would be very uncomfortable when a male person stood too close to her.[^42]
+
+26     During cross-examination by the Accused’s previous counsel, the Defence had put it to the victim that every time the Accused did a massage, if he were going to massage the groin or buttock area, he would ask for the client’s permission. The victim disagreed that the Accused had asked her for such permission.[^43] The Defence also suggested several times to the victim that the sexual penetration may have been an “accident” or “mistake” because the victim’s skin was slippery and oily due to the sweat from the exercise and the use of olive oil during the massage.[^44] According to the Defence, the fact that the Accused had given a straight face when the victim said “oi”[^45], and the fact that the Accused immediately stopped massaging the vagina area suggested that the sexual penetration was accidental.[^46] The victim disagreed that it could be an accident. She highlighted that as she was wearing panties, it was not possible for the Accused’s finger to accidentally go underneath her panties.[^47] Further, if the penetration was genuinely an accidental, the Accused would have apologised instead of keeping a straight face.[^48]
+
+27     During cross-examination, the victim explained that her son had a fever the day before and she had brought him to see the doctor. The next day (1 October 2016), the victim proceeded with the trial class because her son appeared to be much better at the time she was leaving home. However, whilst the victim was at the Gym, she received a text message from her sister (who, together with her mother, was helping to care for her son) commenting that the victim had taken five hours. Sensing that something was not right, the victim took a bus home and found that her son was having a high fever. According to the victim, her son’s high fever lasted through the night. The next morning, the victim made sure his was better before she left for work.[^49]
+
+### Evidence of the examining doctor
+
+28     Dr Angsumita Pramanick (PW2, “Dr Pramanick”) was a Senior Staff Registrar from the Department of Obstetrics & Gynaecology of KK Women’s and Children’s Hospital.[^50] She examined the victim on 2 October 2016, following a referral from the police for evaluation for genital injuries following an alleged sexual assault.[^51] The medical report prepared by Dr Pramanick was admitted as Exhibit P5.
+
+29     Dr Pramanick testified that she did not find any fresh tears or injuries to the hymen.[^52] However, Dr Pramanick added that various studies had found that even in cases involving non-consensual genital penetration, there was evidence of fresh injuries in only about 25 to 40 percent of the cases. She also stated that whether there would be fresh tears would depend on factors such as whether the person was previously sexually active and whether multiple penetrants were used, as well as the force used. She stated that if it was a one-finger penetration in someone who had been sexually active before, it was possible that there might not be any visible injury.[^53]
+
+### Evidence of the witness
+
+30     Ms Chan Li Ping, Vivian (PW3, “Vivian”) was one of the founders of the Gym and a fitness instructor at the Gym at the material time. She testified that the Gym was started by five partners, including her and the Accused, and it officially opened in September 2016.[^54] According to Vivian, the Gym advertised on Facebook, including giving out free trials.[^55] Potential students who signed up for free trials via Facebook and later visited the Gym would be approached by the Gym’s coaches who would try to sign these potential students up for memberships.[^56]
+
+31     On 1 October 2016, only the Accused was on duty at the Gym as it was his turn to coach.[^57] Vivian testified that she did not know the victim personally and had never met the victim in person.[^58]
+
+32     On 2 October 2016, Vivian was holding the Gym’s mobile phone because it was her turn to coach.[^59] When she was on the way to the Gym with another partner, she received a text message from the victim at 11.33 am. This was followed by an exchange of text messages with the victim as set out in Exhibit P4. Vivian was very shocked. As she wanted to keep the evidence, she requested the victim to send a text message to her describing what happened and how it happened. Thereafter, Vivian asked the victim to call her as she wanted to hear what the victim had to say in person. The victim called Vivian at about 1.30 pm that day and told Vivian specifically that the Accused had fingered her and had given her a Thai massage. The victim also told her that she felt it was not good for the company and hoped that she could do something about it. According to Vivian, the victim sounded very firm and was not panicky at all. Vivian informed the victim that she could call the police if she wanted to. Vivian also said that she would clarify with the Accused.[^60]
+
+33     Vivian testified that she wanted to clarify with the Accused whether the incident actually happened, and whether the victim indeed came to the Gym for a trial. Vivian’s main concern was the Gym as she did not know the victim and the victim’s intentions.[^61] This telephone conversation Vivian had with the victim was the last time Vivian spoke to the victim. As far as Vivian was aware, the victim did not contact anyone at the Gym after that.[^62]
+
+34     When Vivian arrived at the Gym, the Accused was there. Vivian showed the Accused the text messages she exchanged with the victim and asked if the Accused committed the acts. The Accused repeatedly denied massaging the victim or fingering her. He told Vivian that all he did was to conduct the trial, and that after the class, the victim left together with the others who attended the class.[^63]
+
+35     On the same day at 2.07 pm, Vivian called the police and lodged a report (Exhibit P3).[^64] She explained that she decided to make the report because she did not know the intentions of the victim, and whether the victim was going to spread the allegation. She was also concerned that the Gym’s image was at stake and, because there was no CCTV within the Gym, she wanted the police to investigate if the Accused had done the acts as alleged.[^65] During cross-examination, Vivian agreed that she and the Accused had discussed calling the police and the Accused, together with the other partners of the Gym, had emphasised that they should call the police as they did not know if the victim had any ulterior motives.[^66]
+
+36     Vivian testified that the Accused was not trained in Thai massage and that it was not part of his job scope at the Gym to provide Thai massages.[^67] In fact, Vivian indicated that at no point of time during the Gym’s operation were Thai massages offered, although the Gym did offer pain relief therapy. Even so, Vivian (who had a degree in exercise and sports science) was the only person qualified to perform pain relief therapy.[^68] Vivian said that the Accused had left the Gym sometime in November 2016 and they had no contact thereafter.[^69]
+
+37     Vivian gave evidence that the shop-house where the Gym was located comprised three storeys with one unit at each level. At the material time, the third floor was unoccupied while the ground floor unit was occupied by an ice-cream shop. The main white door seen in Exhibit P1-1 was used only by the members and staff of the Gym. This was because the ice-cream shop had their own main door. The door in Exhibit P1-1 would be unlocked if the Gym was operating, and would be locked when the Accused stayed and slept in the Gym.[^70]
+
+### Evidence of the investigation officer
+
+38     Inspector Chan Zhi Yao, the investigation officer in this case (PW4, “Insp Chan”) testified that the Accused was arrested on 3 October 2016 (Exhibit P6). During the course of investigations, Vivian had provided Insp Chan via WhatsApp with the screenshots of the text messages exchanged between her and the victim (Exhibit P4).[^71]
+
+## The case for the Defence
+
+39     At the close of the Prosecution’s case, I found that the Prosecution had made out a prima facie case against the Accused on the proceeded charge and called upon the Accused to give evidence in his own defence. The Accused elected to testify, and he was the sole witness for the Defence.
+
+40     The Accused testified that the Gym was founded by him and his ex-girlfriend in 2016 together with three other partners, after he left the services of another fitness gym. All the classes were “invented” by the Accused together with two of the partners to help people who wanted to lose weight.[^72]
+
+41     On 1 October 2016, the Accused was the instructor for the class which the victim attended together with three other female students. As the victim was running late, the Accused told the other students to wait for the victim’s arrival. When the victim arrived, the training started at about 12.30 pm to 12.45 pm.[^73]
+
+42     About 25 minutes after the class started, the Accused gave the students and the victim a break for about five minutes. During this break, the Accused went down to the open area outside the ice-cream shop on the first floor to smoke. The victim also came down to smoke. The victim then started a conversation with him – asking about the founding of the Gym, and asking what the massage bed she saw in the Gym was for. The Accused responded that the bed was mainly used for sports therapy and “myofascial” performed by Vivian. The victim asked if the massage bed was for massages and told the Accused that she thought that Muay Thai training came with Thai massage. In response, the Accused said “Huh? No, lah.” However, the Accused testified that in order to hit business targets, he was willing to do anything to catch hold of sales and satisfy clients’ needs. Therefore, he told the victim that he could try to provide her with a Thai massage. The Accused also told the victim that he was not well-trained to provide such massages and had no licence to do so. Following this, the victim and the Accused proceeded back upstairs to continue with the training.[^74]
+
+43     After the training, the victim asked the Accused if there was any way to cut down fats. The Accused responded that the only method he adopted was to drink ‘kopi-o kosong’, and offered to prepare a cup for the victim if she wanted. The victim agreed and he prepared the drink for her. By this time, the victim had changed into her jeans and t-shirt, and the other students who attended the class had left the Gym at about 2.45 pm to 2.50 pm. The Accused showed the victim a catalogue and spoke to her about signing up for a package at the Gym. The Accused also asked the victim if she wanted to have a Thai massage.[^75]
+
+44     The Accused admitted that he did massage the victim.[^76] Before the massage, he brought the victim to the massage area (Exhibit P1-6) and asked her to remove her clothes except for her panties, and lie face-down on the massage table. He drew the curtains, waited outside for the victim to change, and asked the victim to use the towel in the massage area to cover her body. When the victim indicated that she was ready, the Accused proceeded inside the curtain area and adjusted the towel to cover the victim properly.[^77]
+
+45     The Accused used the oil from a bottle of Ginvera olive oil (Exhibit P2-1) for the massage.[^78] The Accused started massaging the victim’s shoulders and moved down to her legs. The Accused then stepped out of the massage area and closed the curtain to allow the victim to turn over. When she was done, the Accused carried on with the massage starting from her front shoulders, knee caps, knee area and down to her thighs and calves. According to the Accused, the entire massage lasted about 45 to 50 minutes.[^79]
+
+46     The Accused stated that he did not massage the inner thigh area of the victim at all as it was a sensitive area for females. He did not massage her legs beyond the lower half of her thighs. Further, the victim was wearing her panties, with a towel covering her during the massage.[^80] During cross-examination, the Accused explained that since he had stopped at the lower half of the victim’s thigh area, it was therefore “impossible” for him to have gone into her inner thigh and accidentally touched her vagina. In addition the victim did not say “oi” to him at all.[^81]
+
+47     After the massage, the victim changed into her clothes and the Accused asked her if she wanted to sign up for lessons. The victim responded saying she would think about it. The victim left the Gym at about 5 pm and the Accused proceeded with his normal routine in the Gym, including reply to and confirming free trials at the Gym on Facebook.[^82]
+
+48     The Accused admitted that he had lied to Vivian on 2 October 2016 that he did not give the victim a massage.[^83] The Accused also admitted that he was not trained in providing Thai massages and that Vivian was the only person in the Gym who was qualified to perform sports therapy massages. The Accused agreed that the massage bed was used for treatments conducted by Vivian only and that Thai massages were never offered at the Gym at any point of time. The Accused also agreed that he had no business or reason whatsoever to be offering the victim a Thai massage on that day since he was not trained and it was not a service offered at the Gym. However, the Accused explained that he did so because he was very eager for sales.[^84]
+
+49     The Accused testified that he had also told the police in his statement (Exhibit P7) that he did not offer or provide the victim a massage. This was because he did not understand _“_the seriousness of this case_”_. Subsequently, his lawyer told him “the seriousness of the case” so he decided to tell the Court that he did massage the victim and that he had lied in his police statement. [^85] During cross-examination, the Accused agreed that he had given the statement in Exhibit P7 at the police station, after his arrest on 3 October 2016.[^86] When the Court sought clarification, the Accused testified that he had denied giving a massage because he thought that he was in deep trouble and he was scared that he would lose his company. Subsequently, the Accused clarified that he had lied to the police because he did not know that giving a false statement was “serious trouble”.[^87]
+
+50     In relation to the main door seen in Exhibit P1-1, the Accused testified that he did not lock the door at the material time. However, he agreed that he would generally lock the main door when he did not want to be disturbed and to prevent people from coming in. The Accused also agreed that he offered the victim a massage at the material time because he was not expecting any more clients to come in as there were no more classes for the rest of the day.[^88]
+
+51     The Accused also agreed with the Prosecution that there was no further contact between him and the victim after 1 October 2016. He also could not think of any reason why she would falsely accuse him of fingering her.[^89]
+
+## Analysis of the evidence and the Court’s findings
+
+52     Section 376(2)(a) of the Penal Code provides:
+
+> “(2)  Any person (A) who –
+
+>> (a)    sexually penetrates, with a part of A’s body (other than A’s penis) or anything else, the vagina or anus, as the case may be, of another person (B);
+
+> …
+
+> shall be guilty of an offence if B did not consent to the penetration.”
+
+53     As it was never disputed that the victim did not give any consent to the Accused to sexually penetrate her, the main issue at trial was whether the Accused had in fact sexually penetrated the victim by inserted his finger into the victim’s vagina in the midst of massaging the victim.
+
+### The victim’s evidence was unusually convincing
+
+54     In assessing the evidence, I was acutely mindful that the victim’s evidence should be “unusually convincing” or compelling in order to prove the Prosecution’s case beyond a reasonable doubt (_Public Prosecutor v Mohammed Liton Mohammed Syeed Mallik_ <span class="citation">\[2008\] 1 SLR(R) 601</span> at \[38\]; _Haliffie bin Mamat v Public Prosecutor and other appeals_ <span class="citation">\[2016\] 5 SLR 636</span> at \[28\]). In evaluating the victim’s credibility, I considered her demeanour; the internal consistency (or lack thereof) in the content of her evidence; and the external consistency (or lack thereof) between the content of her evidence and extrinsic evidence (e.g. evidence of other witnesses, documentary evidence) (_AOF v Public Prosecutor_ <span class="citation">\[2012\] 3 SLR 34</span> at \[115\]).
+
+55     Having carefully reviewed the evidence in its entirety, I found as a fact that the Accused did insert his finger into the victim’s vagina in the course of massaging her.
+
+56     I considered that the victim testified in a forthright and candid manner, and gave a coherent, detailed, and credible account of what the Accused had done. Her evidence remained unshaken during cross-examination by the Accused’s then counsel. Further, the victim’s testimony was consistent with the overall backdrop of the available facts and circumstances, including, but not limited to, her text messages (Exhibit P4) and telephone conversation with Vivian – a partner of the Gym who had never met the victim. In particular, on 2 October 2016, the day after the incident, the victim provided a detailed account of the incident to Vivian:
+
+> (a)     The victim informed Vivian via text messages that after the victim’s free trial class with the Accused, the Accused made her kopi-o and offered her a Thai massage. The Accused said that only he could do the massage. The victim agreed. During the message, when the victim was lying on her front, the Accused “fingered” her and the victim shouted at him in response. The Accused continued the massage without an apology.[^90]
+
+> (b)     During the telephone conversation between the victim and Vivian, Vivian observed that the victim had stated firmly and specifically that the Accused had given her a Thai massage and fingered her_._
+
+57     During cross-examination, the Defence questioned the victim at length over her use of the phrase “_N i think_” in one of her text messages to Vivian as follows:
+
+> “I had my free trial class yesterday with ivan… N i think… he gave me a thai massage n he actually fingered me… Which is very wrong… I am very unhappy with that… Why did he have to do that…”
+
+The Defence alleged that the victim was actually not sure about what happened on the day of the incident and, in particular, whether the Accused had actually inserted his finger into her vagina.[^91] The victim disagreed that she was unsure and explained that she was typing the message in the course of her work while serving a customer and had not re-read the message before sending it out. In my view, the victim’s text message should not be taken out of context or read in isolation. When taken together with the victim’s subsequent text message (just a couple of messages later) in response to Vivian’s request to tell her what had happened, as well as the victim’s phone conversation with Vivian, it was clear that the victim was not at all unsure of what the Accused had done to her the day before.
+
+58     Having scrutinised the victim’s evidence with great care, I found that her evidence was unusually convincing, and did contain the ring of truth. The fact that the victim did not stop the massage to get up and leave immediately after the act of penetration, did not, in my view, detract from her credibility. Her explanation that she was fearful of leaving abruptly as she was naked except for her panties and was afraid that the Accused might overpower her and do more harm, was, in my view, reasonable. Likewise, I found her explanation for not making a police report immediately after or within the same day of the incident, to be clear and cogent. As a single mother, it was certainly not unreasonable for her to focus on caring for her sick child whose fever had spiked that evening. The victim had also shared that she was experiencing a mixed bag of emotions in the wake of the incident, from not wanting to be judged by others to anger with herself, and had difficulty accepting what had happened to her.
+
+59     At the end of the day, there was really no set formula for how victims of sexual assault would or should react or respond. I found that the victim’s conduct during and soon after the incident to be reasonable and within the realm of human responses to be expected for a victim of such offences.
+
+60     In fact, if the Accused’s version were to be believed, it would be baffling for the victim, after leaving her free trial Muay Thai class and complimentary Thai massage session, where the Accused claimed that he had been nothing but professional and eager-to-please, to decide to conjure up a very serious allegation against him and proceed to share the fictitious details with Vivian (a complete stranger to her) in the middle of her next work day.
+
+### The Accused’s version lacked credibility
+
+61     On the other hand, I found that the Accused lacked credibility and his version contrived. Firstly, his testimony contradicted the case put to the victim by his previous counsel in various aspects. For example, during the Prosecution’s case, counsel had repeatedly put to the victim that the Accused could have accidentally touched the victim’s vagina.[^92] This position was later disavowed by the Accused who claimed that it was impossible for him to have accidentally done that as he had not even gone near the victim’s inner thigh during the massage. In addition, while the Accused claimed that the victim had never said “oi” to him during the massage, this was never put to the victim. More crucially, it was also never put to the victim that the Accused had not massaged the victim at her inner thigh area.
+
+62     It was perhaps even more telling that, when the Accused was first confronted with the victim’s allegations, he had consistently lied to hide the fact that he had given the victim a massage. Having lied to Vivian on 2 October 2016, the Accused proceeded to lie to the police after his arrest on 3 October 2016.[^93] I found the Accused’s explanations for lying to the police contradictory and plainly unconvincing. In my view, the Accused was trying to tailor his account when asked to explain his lies. While he initially stated that he lied because he did not know “the seriousness of this case”, he later contradicted himself and said he thought he was in “deep trouble” and that was why he denied. When queried further, he gave a third version that he lied because he did not know that giving a false statement was “serious trouble”.
+
+## Conviction
+
+63     Having carefully scrutinised the totality of the evidence, I was satisfied that the Prosecution had proven the proceeded charge against the Accused beyond a reasonable doubt. As such I found the Accused guilty and convicted him of the same.
+
+## Sentence
+
+### Prescribed punishment
+
+64     Section 376(3) of the Penal Code provides for an imprisonment term which may extend to 20 years, as well as fine or caning.
+
+### Antecedents
+
+65     The Accused was untraced.
+
+### Prosecution’s submissions on sentence
+
+66     The Prosecution presented written submissions and sought an imprisonment term of 8 years in addition to 4 strokes of the cane. The Prosecution submitted that the present case fell within the middle to upper range of Band 1 in the sentencing framework set out in _Pram Nair v Public Prosecutor_ <span class="citation">\[2017\] 2 SLR 1015</span> (“_Pram Nair”_) in relation to the offence of sexual assault by digital penetration.
+
+67     In particular, the Prosecution noted two offence-specific aggravating factors in this case. Firstly it was submitted that there was premeditation, albeit to a limited extent. The Accused offered the victim a Thai massage even though he was not specifically trained to do so, and seized the opportunity to lock the main door to the shop-house whilst the victim was changing, to prevent anyone from entering. Secondly, the Accused had abused the victim’s trust. The Accused was the victim’s instructor for the Muay Thai class. She allowed the Accused to massage her as she trusted that the Accused was qualified to perform Thai massages. However, the Prosecution recognised that the abuse of trust was present in lesser intensity than the element of premeditation given that it was the first time that the victim was meeting the Accused.
+
+68     The Prosecution submitted that there were no offender-specific mitigating factors. While the act of claiming trial was not an aggravating factor, the usual discount in sentence for a plea of guilt could not be accorded to the Accused who showed no remorse in opting to put the victim through the trauma of testifying and reliving her ordeal in Court. Further, the Prosecution submitted that the Accused’s lack of antecedents was only a neutral factor and held no mitigating value.
+
+69     The Prosecution also cited _Pram Nair_ as a sentencing precedent. The Prosecution submitted that unlike _Pram Nair_ where the only aggravating factor was the vulnerability of the victim by virtue of her intoxicated state, there were at least two aggravating factors in the present case. Therefore it would not be appropriate to reduce the sentence from the middle to upper range of Band 1. Thus, the Prosecution concluded that the sentence of 8 years’ imprisonment and 4 strokes of the cane was appropriate and warranted.
+
+### Mitigation
+
+70     The Accused expressed remorse and stated that he was a single parent of three children. He was the sole breadwinner in his family as his father had been retrenched. The Accused shared that one of his sons suffered from a psychological problem due to the Accused’s divorce and from being neglected by his mother. The Accused was the only parent his son could look to. As such, the Accused pleaded for a lighter sentence.
+
+### Sentencing considerations
+
+71     I agreed with the Prosecution that, as a starting point, the offence in the present case would fall within Band 1 of the framework in _Pram Nair_ which set out a range of starting sentence between 7 to 10 years’ imprisonment, and 4 strokes of the cane.[^94] However, in relying on _Pram Nair_ as a sentencing precedent, I was of the view that the present case should be accorded a lower indicative sentence as compared to that in _Pram Nair_, so as to more precisely reflect the overall difference in the levels of culpability and harm in these two cases. In this regard, I was guided by the principle that, in determining the seriousness of the offence, it was not just the _number_ of aggravating factors that was relevant, but also the _intensity_ of these aggravating factors (_Pram Nair_ at \[119\]; _Public Prosecutor v See Li Quan Mendel_ <span class="citation">\[2019\] SGHC 255</span> at \[48\]). I should also add that in calibrating sentence in this case, I was acutely mindful of the need to ensure that the resultant sentence would commensurate with the seriousness of the offence based on the specific facts and circumstances of the present case.
+
+#### Offence-specific aggravating factor
+
+72     In assessing harm and culpability, I noted that this case involved, in my view, only one offence-specific aggravating factor – a limited degree of abuse of trust. I did not find that the offence in this case was premeditated to the extent to be regarded as aggravating factor. Further, I considered that, in the context of digital penetration cases, the duration of offending was relatively short and the extent of offending was relatively low.
+
+73     Firstly, in relation to abuse of trust, I agreed with the Prosecution that the Accused had indeed abused the trust of the victim, albeit to a limited extent. During examination-in-chief, the victim testified that the Accused had held himself out as _“_the only one trained to do the Thai massage” in the Gym[^95], and that she had accepted the Accused’s offer to massage her because she _“_trust\[ed\]” the Accused[^96] and had no reason to disbelieve him.[^97] I noted however, that there was no prior relationship between the Accused and the victim – it was the victim’s first time meeting the Accused, and they did not know one another prior to the day of the offence.
+
+74     Secondly, in relation to premeditation, the victim testified that it was her, and not the Accused, who first raised the topic of massages at the Gym.[^98] According to the victim, after her trial class at the Gym, the Accused tried to sell her a package for Muay Thai classes. In doing so, the Accused had shown the victim a price list. It was at this point that the victim, with reference to the price list, enquired with the Accused if the Gym offered Thai massages. The Accused then responded in the positive, stating that he was the only trained person in the Gym to conduct such massages and offered the victim a massage.
+
+75     I was mindful that the evidence indicated that Accused had locked the main door of the Gym. I recognised that the taking of deliberate steps towards isolation of a victim might be illustrative of planning and premeditation: _Ng Kean Meng Terence v Public Prosecutor_ <span class="citation">\[2017\] 2 SLR 449</span> at \[44(c)\]; _Pram Nair_ at \[134\].
+
+76     However, there was, to my mind, a distinction between premeditation which the law regarded as aggravating an offence, and which involved a significant degree of planning and orchestration, and an offender merely seizing an opportunity which arose. The latter would not amount to premeditation: _Pram Nair_ at \[133\] to \[138\].
+
+77     Taking the victim’s evidence and the law in this regard together, I was unable to agree that the Accused acted out of a course of high degree of deliberation and planning. The Accused had instead seized and acted upon an opportunity which arose after the victim saw the price list of the Gym and asked the Accused about Thai massages.
+
+78     Thirdly, I considered that the period of offending was, according to the victim, a “few seconds” [^99] as opposed to a sustained duration. She testified that the penetration was “just a in and out thing.” [^100] Further, I considered that the extent of the Accused’s offending, in the context of digital penetration cases, was relatively low. As the victim testified, the Accused had inserted his finger into the victim’s vagina approximately 2.5 cm in depth, up to the first joint from the tip of the finger, before the victim shouted at him, whereupon the Accused removed his finger.[^101]
+
+#### No offender-specific aggravating or mitigating factors
+
+79     At the second stage of applying the _Pram Nair_ framework, I agreed with the Prosecution that there were no offender-specific aggravating or mitigating factors. The Accused’s lack of antecedents was not a mitigating factor and was neutral in the sentencing process. In addition, the fact that the Accused’s family would suffer hardship due to his imprisonment would usually not be taken into account for the purpose of sentence: _Lai Oei Mui Jenny v Public Prosecutor_ <span class="citation">\[1993\] 2 SLR(R) 406</span> at \[11\] and \[12\]. Further, as the Accused had claimed trial, the sentencing discount, which could be accorded to a plea of guilt motivated by genuine remorse, would not apply.
+
+#### Harm and culpability vis a vis Pram Nair
+
+80     In _Pram Nair_, the Court of Appeal categorised the sexual penetration charge as falling within the middle to upper range of Band 1, given the presence of one offence-specific aggravating factor – the offender’s exploitation of the vulnerability of the victim, who was intoxicated: at \[172\]. The Court of Appeal found that the appropriate sentence would be 8 years and 6 months’ imprisonment and 4 strokes of the cane, before taking into account the offender’s remand period.
+
+81     However, even though _Pram Nair_ and the present case both fell within _Band 1_, the facts and circumstances of _Pram Nair_ were starkly different from this case.
+
+> (a)     In _Pram Nair_, the offence took place in circumstances where the victim was intoxicated to the point where she was verging on unconsciousness, and appeared to have little control over even basic motor movements: at \[89\]. The Court of Appeal found the victim’s severe intoxication very aggravating, at \[130\]:
+
+>> _“_If it is an aggravating factor to exploit, for one’s own sexual gratification, a victim who is “neither unconscious nor wholly without control of her faculties”, it must be more aggravating to exploit a victim who is nearly unconscious and is without control of her faculties – as \[V\] was. The offender would have greater control over a near-comatose victim.”
+
+> (b)     Further, I observed that the victim in _Pram Nair_ testified that she was crying, told the offender “no”, and tried to push him away though she was too weak and drunk, but the offender persisted with his actions: at \[23\].
+
+82     In comparison, the Accused in this case had committed the one sexual act over what must have been a much shorter duration, and had stopped his offending once the victim shouted at him. In my view, the overall harm and culpability involved in this case was clearly lower than that in _Pram Nair_.
+
+#### Harm and culpability in Band 1 cases post-Pram Nair
+
+83     Besides using _Pram Nair_ as a sentencing precedent, I also had regard to other Band 1 cases post-_Pram Nair_. In my view, the following cases post-_Pram Nair_ which have been classified as Band 1, involved a greater extent of harm and culpability than the present case.
+
+84     In _Public Prosecutor v Ridhaudin Ridhwan bin Bakri and others_ <span class="citation">\[2019\] SGHC 191</span> (“_Ridhaudin”_), one of the accused persons, Ridhwan, was convicted of a charge under section 376(2)(a) of the Penal Code (for digital-anal penetration) and was sentenced to 8 years’ imprisonment and 4 strokes of the cane. The High Court observed that Ridhwan’s actions fell in the middle to upper range of Band 1 in the _Pram Nair_ framework having regard to one offence-specific aggravating factor – the victim’s vulnerability: at \[28\] and \[72\]. The facts of _Ridhaudin_ were in fact analogous to those of _Pram Nair_: at \[27\]. The accused met the victim at a party and bought her some drinks without specifically intending for her to get drunk. When the victim became inebriated, the accused took advantage of the opportunity to sexually assault her. For the reasons similar to those set out earlier in this grounds (at \[81\] and \[82\]), the facts and circumstances surrounding _Ridhaudin_ were very different from the present case.
+
+85     In the case highlighted by Prosecution during their oral submissions, _Public Prosecutor v Wee Teong Boo_ <span class="citation">\[2019\] SGHC 198</span> (“_Wee Teong Boo_”), the accused doctor was convicted of a s 376(2)(a) offence for sexually penetrating the victim’s vagina with his fingers during a purported medical examination at the accused’s clinic. Having considered the accused’s abuse of position and breach of trust placed in him as a doctor (the victim was noted to have consulted him on 22 previous occasions before the offence took place), Chua Lee Ming J considered that the appropriate indicative sentence fell within Band 1 of the _Pram Nair_ framework, with an indicative starting point of 8 years’ imprisonment and 4 strokes of the cane: at \[176\] and \[177\]. In view of the offender-specific aggravating factors cited by the prosecution in that case, namely, that the accused had shown a lack of remorse and had accused another doctor of embellishing her evidence and also maligned the police during cross-examination, the accused was sentenced to 9 years’ imprisonment and 4 strokes of the cane: at \[178\].
+
+86     I was of the view that the _extent_ of abuse of trust involved in _Wee Teong Boo_, in the context of a doctor-patient relationship, was much greater than the present case. Further, the accused in _Wee Teong Boo_ appeared to have penetrated the victim’s vagina with his _fingers_ as opposed to a finger, for a comparatively longer period of time. Finally, the High Court had agreed with the prosecution that there were offender-specific aggravating factors in that case, which was absent in the present case.
+
+### Sentence imposed
+
+87     Having carefully considered the Prosecution’s submissions on sentence, the Accused’s mitigation plea, and analysing the law in this regard, I was of the opinion that 7 years and 4 months’ imprisonment in addition to 4 strokes of the cane would be proportionate to the Accused’s culpability in the current case and sufficient for the purpose of deterrence. The Accused was therefore sentenced accordingly.
+
+* * *
+
+[^1]: The Accused was tried in the District Court based on an application by the Public Prosecutor dated April 2018 and the Accused’s consent dated 17 April 2018, pursuant to section 9(3)(c) of the Criminal Procedure Code.
+
+[^2]: NE, Day 2, Pages 6 to 8.
+
+[^3]: NE, Day 1, Page 28.
+
+[^4]: NE, Day 1, Pages 31 to 32.
+
+[^5]: NE, Day 1, Page 35; Exhibit P4.
+
+[^6]: NE, Day 1, Pages 38 and 39.
+
+[^7]: NE, Day 1, Page 39.
+
+[^8]: NE, Day 1, Page 40.
+
+[^9]: NE, Day 1, Page 39.
+
+[^10]: NE, Day 1, Page 42.
+
+[^11]: NE, Day 1, Pages 39 and 43 to 44.
+
+[^12]: NE, Day 1, Page 44.
+
+[^13]: NE, Day 1, Page 45.
+
+[^14]: NE, Day 1, Page 63.
+
+[^15]: NE, Day 1, Page 45.
+
+[^16]: NE, Day 1, Pages 46 and 48 to 49.
+
+[^17]: NE, Day 1, Page 46.
+
+[^18]: NE, Day 1, Page 51.
+
+[^19]: NE, Day 1, Page 55.
+
+[^20]: NE, Day 1, Pages 52 to 53 and 57 to 58.
+
+[^21]: NE, Day 1, Page 52.
+
+[^22]: NE, Day 1, Pages 52, 54 and 56; Day 2, Page 63.
+
+[^23]: NE, Day 1, Pages 52 and 58 to 59; Day 2, Pages 2 and 64 to 66.
+
+[^24]: NE, Day 1, Pages 59 to 60; Day 2, Page 2.
+
+[^25]: NE, Day 1, Page 60.
+
+[^26]: NE, Day 1, Page 62.
+
+[^27]: NE, Day 1, Pages 61 to 63.
+
+[^28]: NE, Day 1, Pages 64 to 65; Day 2, Pages 55 and 57 to 58.
+
+[^29]: NE, Day 1, Page 65.
+
+[^30]: NE, Day 1, Pages 65 and 67.
+
+[^31]: NE, Day 1, Page 68 to 69.
+
+[^32]: NE, Day 2, Pages 15 to 16.
+
+[^33]: NE, Day 1, Page 66; Day 2, Pages 30 to 31.
+
+[^34]: NE, Day 1, Pages 66 and 70.
+
+[^35]: NE, Day 1, Page 70.
+
+[^36]: NE, Day 1, Page 71.
+
+[^37]: NE, Day 1, Page 71 to 72.
+
+[^38]: NE, Day 2, Pages 39 to 41 and 46 to 47.
+
+[^39]: NE, Day 1, Page 72 to 74; Exhibit P4.
+
+[^40]: NE, Day 1, Page 76.
+
+[^41]: NE, Day 1, Pages 76 and 77.
+
+[^42]: NE, Day 1, Page 77.
+
+[^43]: NE, Day 2, Page 24.
+
+[^44]: NE, Day 2, Pages 25, 47, 50, 60 and 70 to 73.
+
+[^45]: NE, Day 2, Page 24 and 25.
+
+[^46]: NE, Day 2, Page 28.
+
+[^47]: NE, Day 2, Page 25.
+
+[^48]: NE, Day 2, Page 47 and 48.
+
+[^49]: NE, Day 2, Pages 28 to 32 and 34 to 36.
+
+[^50]: Exhibit P5.
+
+[^51]: NE, Day 3, Pages 4 and 7.
+
+[^52]: NE, Day 3, Page 10; Exhibit P5.
+
+[^53]: NE, Day 3, Pages 10 to 11.
+
+[^54]: NE, Day 3, Pages 18 to 19.
+
+[^55]: NE, Day 3, Page 20 and 21.
+
+[^56]: NE, Day 3, Page 21.
+
+[^57]: NE, Day 3, Page 23.
+
+[^58]: NE, Day 3, Page 29.
+
+[^59]: NE, Day 3, Page 26.
+
+[^60]: NE, Day 3, Pages 27 to 31.
+
+[^61]: NE, Day 3, Pages 31 to 32.
+
+[^62]: NE, Day 3, Page 32.
+
+[^63]: NE, Day 3, Pages 32 to 33.
+
+[^64]: NE, Day 3, Pages 21 to 22.
+
+[^65]: NE, Day 3, Pages 33 and 39.
+
+[^66]: NE, Day 3, Pages 38 to 40.
+
+[^67]: NE, Day 3, Page 34.
+
+[^68]: NE, Day 3, Pages 34 to 35.
+
+[^69]: NE, Day 3, Pages 35 to 36.
+
+[^70]: NE, Day 3, Page 36 to 38.
+
+[^71]: NE, Day 4, Pages 2 to 4.
+
+[^72]: NE, Day 4, Pages 11 to 12.
+
+[^73]: NE, Day 4, Pages 12 to 13 and 24.
+
+[^74]: NE, Day 4, Pages 13 to 16.
+
+[^75]: NE, Day 4, Pages 16 and 24 to 25.
+
+[^76]: NE, Day 4, Page 17.
+
+[^77]: NE, Day 4, Pages 26 to 27.
+
+[^78]: NE, Day 4, Page 27.
+
+[^79]: NE, Day 4, Page 17.
+
+[^80]: NE, Day 4, Pages 18 to 19.
+
+[^81]: NE, Day 4, Pages 29 to 30.
+
+[^82]: NE, Day 4, Pages 17 and 30 to 31.
+
+[^83]: NE, Day 4, Pages 31 and 34.
+
+[^84]: NE, Day 4, Pages 31 to 34.
+
+[^85]: NE, Day 4, Page 19.
+
+[^86]: NE, Day 4, Pages 38 to 39.
+
+[^87]: NE, Day 4, Pages 46 to 49.
+
+[^88]: NE, Day 4, Pages 41 and 42.
+
+[^89]: NE, Day 4, Page 44.
+
+[^90]: Exhibit P4.
+
+[^91]: NE, Day 2, Pages 36 to 47.
+
+[^92]: NE, Day 2, Pages 25, 47, 50 and 70 to 73.
+
+[^93]: Exhibit P7 at \[10\] to \[12\].
+
+[^94]: _Pram Nair_ at \[159\].
+
+[^95]: NE, Day 1, Page 44.
+
+[^96]: NE, Day 1, Page 63.
+
+[^97]: NE, Day 1, Page 45.
+
+[^98]: NE, Day 1, Page 44.
+
+[^99]: NE, Day 1, Page 62.
+
+[^100]: NE, Day 1, Page 61.
+
+[^101]: NE, Day 1, Page 62.
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F24591-SSP.xml)
