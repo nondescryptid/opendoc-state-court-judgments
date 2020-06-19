@@ -1,0 +1,165 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Hock Tong Bee Pte Ltd _v_ Quek Hock Tiong and another  
+
+### \[2020\] SGDC 81
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">District Court Suit No 2197 of 2018, District Court Appeal No 10 of 2020</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">21 May 2020</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Lynette Yap</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Ronald Wong Jian Jie (M/s Covenant Chambers LLC) for the plaintiff; Tan Wen Cheng Adrian (M/s August Law Corporation) for the defendants</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Hock Tong Bee Pte Ltd — Quek Hock Tiong — Ow Fook Keong</td></tr></tbody></table>
+
+Tort – Conversion
+
+\[LawNet Editorial Note: An appeal to this decision has been filed in DCA 10 of 2020.\]
+
+21 May 2020
+
+### District Judge Lynette Yap:
+
+## Introduction
+
+1       The plaintiff is in the business of selling wines. From 2011 to 2013, one Luciana Lim (“Luciana”), who was then a relationship manager under the employment of the plaintiff, dishonestly converted to her own use a total of 14,698 bottles of the plaintiff’s wines. Luciana was convicted by the District Court for criminal breach of trust as a servant under section 408 of the Penal Code (Cap. 224).
+
+2       Luciana sold 300 bottles of the misappropriated wines to the defendants on the false pretext that they had been purchased by her on staff discount. It was not in dispute that the defendants made payment for these wines directly to Luciana by cheque or bank transfer[^1] and invoices and receipts bearing the plaintiff’s business name had not been issued to the defendants for the purchase of these wines[^2]. After Luciana surrendered herself to the police, the police exercised powers of seizure under section 35 of the Criminal Procedure Code and the defendants surrendered 20 bottles of the wines to the police.
+
+3       The plaintiff brought this claim against the defendants in the tort of conversion for the remaining 280 bottles of the misappropriated wines. The plaintiff relied on Luciana’s admission of her modus operandi as well as contemporaneous records of her notebook, sales confirmation orders and communications with the plaintiff, to show that the defendants had purchased and received all 300 bottles of the misappropriated wines.
+
+4       The defendants admitted purchasing 110 bottles of misappropriated wines from Luciana (including the 20 bottles surrendered to the police) but claimed that they had only received some of these bottles of wine from Luciana[^3].
+
+## Issues to be determined
+
+5       This was a bifurcated trial and the issue before the court was that of liability only. At the commencement of the trial, the defendants’ counsel confirmed that the defendants were no longer proceeding with their counterclaim[^4]. He further confirmed the defence was based on section 21(1) of the Sale of Goods Act, in that “the owner of the goods is by his conduct precluded from denying the seller’s authority to sell”. Both counsels confirmed that the agreed issues for the court’s determination in the trial were:
+
+> (a)     whether the plaintiff had created the impression that Luciana had more authority than she possessed; and
+
+> (b)     which were the wines received by the defendants.
+
+## My decision
+
+6       Having considered the evidence before the court and the submissions of the parties, I found for the plaintiff and ordered that interlocutory judgment be entered against the defendants, with damages to be assessed. The defendants have appealed against my decision and I now set out the full grounds of my decision.
+
+### The nemo dat quod non habet principle
+
+7       It was not in dispute that the 300 bottles of wine in question belonged to the plaintiff, and that Luciana had misappropriated them and had no title to them. A buyer cannot acquire better title than the seller based on the _nemo dat quod non habet_ principle that no one can give what he does not have. This principle is stated in s 21(1) of the Sale of Goods Act (Cap 393):
+
+> Subject to this Act, where goods are sold by a person who is not their owner, and who does not sell them under the authority or with the consent of the owner, the buyer acquires no better title to the goods than the seller had, unless the owner of the goods is by his conduct precluded from denying the seller’s authority to sell.
+
+8       In an action for conversion, there need not be any knowledge on the part of the person sued that the goods belong to someone else. In _Caterpillar Far East Lt v CEL Tractors Pte Ltd \[1995\] 1 SLR (R) 605_ at \[4\], the Court of Appeal found that, on the basis of the _nemo dat_ principle, the defendant had not acquired any title to the goods, and the defendant was liable for conversion although it had paid for goods converted from the plaintiff by the plaintiff’s employees. This was despite the finding of the High Court below that on the facts, the defendant had purchased the goods in good faith and without notice of any defect in the title of the goods. The Court of Appeal held at \[28\] and \[31\] that the exception to the _nemo dat_ principle of a _bona fide_ purchaser for value without notice is not applicable in Singapore.
+
+9       The High Court also held in _BZW-Pacific Union Pte Ltd v Citibank NA_ \[1997\] 2 SLR (R) 280 at \[13\] to \[15\] that on the basis of the _nemo dat_ principle, even _bona fide_ purchasers for value without notice of theft do not obtain good title to the property unless the person who sold the property had apparent (i.e. implied or ostensible) authority to deal with the property, the true owner thereby being estopped from asserting his claim.
+
+### The bona fide purchasers argument
+
+10     The defendants pleaded in their Defence that they were _bona fide_ purchasers for value without notice[^5]. Applying the principles above, the defendants could not receive good title even if they were _bona fide_ purchasers for value without notice. In any event, while the defendants had initially canvassed that they were _bona fide_ purchasers for value without notice, they abandoned this defence in their closing submissions. Under the circumstances, it is unnecessary to examine in detail the defendants’ factual assertions in this respect.
+
+### The issue of apparent authority
+
+11     At the beginning of the trial, the question of whether the plaintiff had created the impression that Luciana had more authority than she possessed was listed as an issue for the court to determine. However, the defendants eventually failed to make any submissions on this issue in their closing submissions. In any event, in the course of the trial, the defendants admitted that they believed they were buying the wines from Luciana directly and not from the plaintiff[^6].
+
+### Was the plaintiff estopped from pursuing the claim
+
+12     The defendants’ main contention in their closing submissions was that the plaintiff had breached its duty to verify that the orders placed and/or the invoices generated by Luciana were accurate, and that the plaintiff was therefore estopped from pursuing the claim against the defendants[^7].
+
+13     The defendants did not cite any authorities to support this contention. On the contrary, it is settled law that neglect of what would be prudent conduct on the part of the owner to prevent loss is not sufficient to constitute estoppel. In _EG Tan & Co (Pte) v Lim & Tan (Pte)_ and another \[1985-1986\] SLR(R) 1081, at \[32\], the High Court cited the House of Lords decision in _Farquharson Brothers & Co v C King & Co_ \[1902\] A. C. 325 at 335-336, where Lord Macnaghten stated that “the right of the true owner is not prejudiced or affected by his carelessness in losing the chattel, however gross it may have been.”
+
+14     The High Court also stated in _BZW-Pacific Union Pte Ltd v Citibank NA_ \[1997\] 2 SLR (R) 280 at \[13\], that “negligence in dealing with one’s own property did not give rise to an estoppel and that consequently the doctrine of estoppel by conduct in the circumstances was inapplicable”.
+
+15     It was also observed by Chan Seng Onn J in _Cavenagh Investment Pte Ltd v Kaushik Rajiv_ <span class="citation">\[2013\] SGHC 45</span> at \[38\] that “(the defendant’s) reliance on the defence of contributory negligence presupposes that the plaintiff owes him a duty of care, which I am generally doubtful of given the many common law pronouncements that property owners owe no general duty to look after their own property.”
+
+16     Under the circumstances, it is clear that the law does not support the defendants’ argument for estoppel and it is unnecessary to examine the defendants’ allegations in this respect.
+
+17     As the defendants have not established any exception to the _nemo dat_ rule, they are liable for conversion for the wines that they received.
+
+### The argument that the plaintiff would still have suffered the loss
+
+18     While this issue was not raised in the trial, the defendants contended in their closing submissions that even if the defendants had not accepted delivery of the wines from Luciana, the plaintiff would still have suffered the loss because Luciana would still have misappropriated these 300 bottles of wines and Luciana would not have paid the plaintiff for the wines. They quoted only one case, the Court of Appeal case of “The Cherry” \[2003\] 1 SLR (R) 471 in support of this proposition.
+
+19     I did not see how this assisted the defendants. The Court of Appeal in “The Cherry” at \[67\] clearly stated that the burden lay on the defendants to prove their assertion that the loss would have occurred in any event and the Court of Appeal found that the defendants had not been able to establish that the loss would have occurred anyway. In our present case, the defendants had the burden of showing that even if they had not accepted delivery of the 300 bottles of misappropriated wine from Luciana, the plaintiff would still have suffered the loss of these bottles of wine. The defendants led no evidence at all to show that Luciana would still have misappropriated the 300 bottles of wine, even if she had not had the defendants as willing and available buyers for those bottles. In the premises, I find that defendants failed to discharge their burden of proof that the plaintiff would have suffered the loss of these bottles of wine even without the defendants’ actions.
+
+20     I will also highlight that the Court of Appeal stressed that conversion is a strict liability tort and stated in “The Cherry” at \[69\] as follows:
+
+> “…in the case of conversion, its principal purpose is to protect the ownership of goods by imposing a strict liability on persons who misappropriate the goods of others. Consistent with this principle, every person through whose hands goods pass in a series of conversion, is himself guilty of conversion and liable to the owner for the loss caused by his misappropriation of the goods because each such person wrongfully excludes the owner from possession of his goods. Further it is irrelevant that in the absence of the defendant’s conversion, someone else would have wrongfully converted the goods.”
+
+### Did the defendants receive the wines claimed by the plaintiff?
+
+21     The defendants did not dispute that they had purchased 110 bottles of misappropriated wines from Luciana and they had received some of them[^8]. The plaintiff’s claim is for 300 bottles of misappropriated wines (sans the 20 bottles which were seized by the police). The plaintiff primarily relied on Luciana’s notebook entries and the sales confirmation forms as evidence that the defendants had purchased and received all 300 bottles of the misappropriated wines.
+
+22     Luciana described in detail how she misappropriated and sold the wines to the defendants in her Affidavit of Evidence-in-Chief (“AEIC”)[^9]. Each time a buyer agreed to buy stolen wines from her, she would create a fake customer account (using names, addresses and contact numbers from old name cards or from the internet) and submit a sales confirmation forms by e-mail to the plaintiff’s finance department. The names of the wines and the quantity of wines stated on the sales confirmation form would accurately record what the buyer of the stolen wine ordered from her, but the buyer’s name, contact details, address and payment mode in the sales confirmation form would not be genuine.
+
+23     On the stand, Luciana explained that she would record each delivery of stolen wines in her notebook. The time-frame between her notebook entries and her e-mail of the sales confirmation form to the plaintiff’s finance department was within two days[^10]. She was very confident of the accuracy of the records she had made in her notebook as the entries were meant for her to keep track of the deliveries she had made, to prevent the buyers from claiming that they had not received the wines from her[^11].
+
+24     The 1st defendant told Luciana to communicate with him through the 2nd defendant[^12]. Luciana would contact the 2nd defendant about the wines she was selling[^13], telling him the name of the wines and the selling price, which would be generally about 15% to 20% of the plaintiff’s retail price or in some cases, substantially lower. For example, a bottle of Lafite Rothschild 2009 would usually be sold at a retail price of $2,063 per bottle or $24,756 per case of 12 bottles. She would sell this to the defendants for about $400 to $800 per case of 12 bottles[^14]. For high-end fine wines, she would also inform the 2nd defendant of the rating of the wines based on the “Robert Parkers Wine Advocate” 100-point scale and ask him to check it out for himself[^15]. Luciana stated that the 2nd defendant would not agree to buy the high-end fine wines on the same day she offered to sell and he would need at least a day to compare her price with the average market price. He would then contact her to further negotiate for an even larger discount before agreeing to the purchase[^16]. Luciana would arrange for the misappropriated wines to be delivered or deliver the stolen wines personally to the 2nd defendant’s home in Toa Payoh or other locations specified by the defendants[^17].
+
+25     Luciana explained that she referred specifically to the defendants in her notebook using the phrase: “Toa Payoh”[^18]. She also stated that the 2nd defendant was her only buyer of stolen wines who lived in Toa Payoh[^19]. When it was suggested that “Toa Payoh” could refer to persons other than the defendants, her evidence was that these could only refer to the defendants since she had no reason to record false information in her own notebook since she used her notebook to record delivery of the misappropriated wines[^20]. Luciana also explained that she did not include other wines which the defendants had ordered from her but which she had not delivered in her notebook as her notebook was specifically a record of delivered wines[^21].
+
+26     Luciana annexed in her AEIC copies of her notebook pages which referred to the stolen wines she had sold to and delivered to the defendants, as well as copies of the sales confirmation forms she had sent to the plaintiff[^22]. The names and quantities of the wines in the sales confirmation forms matched the corresponding details in Luciana’s notebook entries.
+
+27     Luciana explained that her notebook only recorded sales made from around the end of 2012. She stated that she had sold other misappropriated wines to the defendants but these were not recorded in her notebook[^23]. The plaintiff has not brought a claim for these wines which were not recorded in Luciana’s notebook.
+
+28     On a balance of probabilities, I accept that taken in totality, Luciana’s testimony, the entries in Luciana’s notebook and the sales confirmation forms supported the plaintiff’s claim.
+
+29     This is especially since the defendants had in essence, no evidence to refute this. While they admitted they received some of the misappropriated wines[^24], their position is that they consumed some of them[^25], “can no longer recollect when and which of the purchases were made jointly or individually”[^26], they have no recollection of the dates of purchase and dates of delivery or payment[^27] and “given the lapse in time of seven years, \[they\] can no longer identify” which were the misappropriated wines they purchased from Luciana Lim and which were wines they purchased legitimately from the plaintiff[^28].
+
+30     I will also add that I accept the plaintiff’s submissions that the defendants’ failure to recall the date of purchase, dates of payment, dates of delivery and price paid for the stolen wines is curious since the defendants were able to remember the names, prices and the vintage of the 54 bottles of wines that were originally in their counterclaim.
+
+## Conclusion
+
+31     For the reasons I have explained, I was satisfied that the plaintiff had proven its case and accordingly entered interlocutory judgment for the plaintiff against the defendants, with damages to be assessed.
+
+* * *
+
+[^1]: Defence (Amendment No. 2) (“Defence (2)”) at para 9
+
+[^2]: Defence (2) at para 10
+
+[^3]: Defence (2) at para 12
+
+[^4]: Notes of Evidence (“NE”), 2 September 2019, 3/21-24
+
+[^5]: Defence (2) at paras 16-17
+
+[^6]: NE, 8 January 2020, 68/15-22; 87/15-32; 116/25-31; 130/31-131/2
+
+[^7]: Defendants’ Closing Submissions at para 56
+
+[^8]: Defence (2) at para 12
+
+[^9]: Luciana’s AEIC at pp 9-11
+
+[^10]: NE, 2 September 2019, 114/21-115/12
+
+[^11]: Luciana’s AEIC at p 23, para 79; NE, 2 September 2019, 115/13-25
+
+[^12]: Luciana’s AEIC at p 17, para 54
+
+[^13]: Luciana’s AEIC at p 17, paras 55-56
+
+[^14]: Luciana’s AEIC at p19, para 65
+
+[^15]: Luciana’s AEIC at p 20, para 68
+
+[^16]: Luciana’s AEIC at p 20, para 69
+
+[^17]: Luciana’s AEIC at p 21, para 72
+
+[^18]: NE, 2 September 2020, 116/20-24
+
+[^19]: NE, 2 September 2019, 84/13-26; 116/7-24
+
+[^20]: NE, 2 September 2019, 115/13-25
+
+[^21]: Luciana’s AEIC at p 39, para 117
+
+[^22]: Luciana’s AEIC at pp 24-39
+
+[^23]: Luciana’s AEIC at p 23, para 80
+
+[^24]: 1st defendant’s AEIC at p 12, para 43; 2nd defendant’s AEIC at p 13, para 44
+
+[^25]: NE, 8 January 2020, 91/5-9; 143/2-144/2
+
+[^26]: Defence (2) at para 7
+
+[^27]: Further and Better Particulars of Defence at paras 1b, 2b, 3d, 4b, 5a
+
+[^28]: 1stdefendant’s AEIC at p 9, para 33
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F24660-SSP.xml)
