@@ -1,0 +1,296 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Lam Aik Kiang  
+
+### \[2020\] SGDC 131
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">District Arrest Case No. 935644-646/2017, Magistrate's Appeal No. 9167/2019/01</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">15 June 2020</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Ng Cheng Thiam</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">DPP Lee Ti-Ting [From 13 August 2018 to 10 September 2018], DPP Thiam Jia Min [From 21 February 2019 to 19 July 2019] (Attorney-General's Chambers) for the Prosecution; Lam Aik Kiang (Accused in person)</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Lam Aik Kiang</td></tr></tbody></table>
+
+Criminal Law – Offences – Criminal Breach of Trust
+
+Criminal Law – Offences – Forgery
+
+Criminal Procedure and Sentencing – Sentencing – Criminal Breach of Trust
+
+Criminal Procedure and Sentencing – Sentencing – Forgery
+
+\[LawNet Editorial Note: An appeal to this decision has been filed in MA 9167/2019/01\]
+
+15 June 2020
+
+### District Judge Ng Cheng Thiam:
+
+## Introduction
+
+1       The accused, Lam Aik Kiang (“the Accused”), a male Chinese, was 59 years old at the time of his conviction and sentence. He is also known as Tommy Lam. He was declared bankrupt on 14 March 2003 and has remained an undischarged bankrupt even up to the time of sentencing.
+
+2       The Accused was engaged by Tapa Ranjan Saha (“Tapa”) to purchase and import a second-hand damaged but repaired McLaren MP4 12C car (“the Car”). The Accused forged two sale and purchase agreements to facilitate the sale and importation of the Car. The first forged sale and purchase agreement was dated 25 September 2013. As at 26 September 2013, Tapa issued three cheques amounting to $240,000 and the Accused received the money. On 7 December 2013, Tapa issued another cheque for $56,000. In December 2013, the Accused came up with another forged sale and purchase agreement which was backdated to 25 September 2013. The Accused took the entire sum of $296,000 but used the money for purposes not related to the procurement the Car. The Accused has committed criminal breach of trust by dishonestly misappropriating the entire amount of $296,000 without fulfilling his side of the transaction.
+
+3       The aforementioned forged sale and purchase agreements were purportedly issued by Starcrest Enterprise (“_Starcrest_”), a sole proprietorship owned by Syed Abidullah s/o Assudulla Syed Erufanulla (“Abidullah”). Abidullah has testified that he did not give his consent to the Accused to use _Starcrest_, or to use _Starcrest’s_ letterhead, to enter into any sale and purchase of the Car.
+
+4       The Accused was charged with two counts of forgery under section 465 of the Penal Code (Cap 224, Rev Ed 2008) (“PC”) (“the Forgery Charges) and one count of Criminal Breach of Trust under s 406 of the PC (“the CBT Charge). The Accused claimed trial to these three charges. The Accused defended himself at the trial.
+
+5       At the conclusion of the trial, I was satisfied that the Prosecution has proved its case beyond a reasonable doubt on the three charges. Accordingly, I found the Accused guilty and convicted him. After hearing the Prosecution’s address on sentence and the Accused’s mitigation plea, I imposed the following sentences:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="29.6659331866373%"> <col width="25.9651930386077%"> <col width="22.2044408881776%"> <col width="22.1644328865773%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Charge</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Offence</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Sentence</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Remarks</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC 935644/2017</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Section 465 of the PC (Forgery)</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">2 months’ imprisonment</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Consecutive</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC 935645/2017</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Section 465 of the PC (Forgery)</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">2 months’ imprisonment</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Concurrent</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC 935646/2017</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Section 406 of the PC (CBT)</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">26 months’ imprisonment</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Consecutive</p></td></tr><tr><td align="left" class="r" colspan="2" rowspan="1" valign="top"><p align="right" class="Table-Para-1">Total Sentence</p></td><td align="left" class="" colspan="2" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">28 months’ imprisonment</p></td></tr></tbody></table>
+
+  
+  
+
+6       The Accused was dissatisfied with the conviction and the sentences. He has filed an appeal against his conviction and the sentences. The Accused is currently on bail pending appeal.
+
+## Background of the Accused and his relationship with Tapa and Abidullah
+
+7       The Accused is an experienced businessman and car dealer, having been in the car industry since 1986. In 2013, the Accused was a sales director at Sports Car World Pte Ltd (“SCW”) which was wholly owned by one Rajesh Bothra (“Rajesh”). At SCW, the Accused was in charge of the buying, selling, and importation of both old and new cars. These cars were mainly luxury cars such as Bentleys and Porsches. The Accused would also assist customers who purchased cars from SCW to obtain financing and insurance coverage.
+
+8       Tapa came to know the Accused sometime in mid-2012 when he went to the premises of SCW at Concorde Shopping Centre to check out a SCW’s advertisement regarding a Porsche. The Accused told Tapa that he owned SCW and all the cars in the premises. Subsequently, in May 2013, Tapa engaged the services of the Accused to sell his Ferrari. The Accused managed to sell Tapa’s Ferrari to Rajesh for $241,000. This was considered a very good price for a used Ferrari and Tapa was very satisfied with the outcome. Henceforth, Tapa and the Accused formed a close friendship.
+
+9       Abidullah is the sole proprietor of _Starcrest_, which deals mainly with the trading of marine spare parts for ships. He runs the business alone. He also has another company called Computer System Integrators Pte Ltd that supplies hardware peripherals. Abidullah and the Accused were colleagues in the 19080s when they were working at Changi Cargo Complex. They shared a close friendship since then and even lived together for two to three years when they were in Australia.
+
+## The CBT Charge
+
+### Chronology of Events supported by Documentary Exhibits
+
+10     In July 2013, at the office of SCW, the Accused showed Tapa some email correspondence on his laptop between himself and a company from the United Kingdom (“the UK company”) that was based in London. The hardcopy version of the email was adduced as Exhibit P31 (comprising of nine pages). The UK company used the email account “Mayfair Exports” or “Mayfair Prestige Exports” (see Exhibit P31).
+
+11     According to Tapa, from the aforementioned email correspondence, the Accused referred Tapa to a damaged second hand McLaren MP4 12C. The Accused informed Tapa that he could procure one for him at a reasonable price. Using Exhibit P31 as his reference, Tapa testified that he was only shown pages 1 – 6 of Exhibit P31. Pages 1 – 5 of Exhibit P31 showed the emails and Page 6 showed the front of a damaged second hand McLaren MP4 12C. Tapa testified that pages 7 – 9 of Exhibit P31 were not shown to him. Pages 7 – 9 showed the extent of the damages incurred by the Car. Pages 7 – 9 were not shown because presumably Tapa would not have agreed to purchase the Car if he had known the extent of the damages.
+
+12     Based on key information obtained from the emails in Exhibit P31 such as “Maximum repair cost £10,000” and “2012 model with all parts £85,000 cif”, _etc._, the Accused worked out the selling price to be $580,000 after adding in Additional Registration Fee (“ARF”) and Goods and Services Tax (“GST”).
+
+13     Tapa found this to be a very reasonable price as a brand new car of the same model would have cost around $900,000. However, Tapa did not commit himself to any deal then.
+
+14     In August 2013, the Accused reminded Tapa of the damaged McLaren MP4 12C car. Tapa decided to lock the deal and made a payment of $10,000 via crossed cheque payable to the Accused. (See photocopy of the cheque in Exhibit P16.)
+
+15     In September 2013, Tapa’s Ferrari was sold to Rajesh through the services of the Accused. Tapa now has the funds to look for a replacement car and he eyed a McLaren MP4 12C. On 25 September 2013, Tapa agreed to the purchase and import of the Car (_i.e._ a damaged but repaired McLaren MP4 12C). Exhibit P17, the sale and purchase agreement for the Car, was signed by the Accused and Tapa. The agreed all-costs-inclusive price was $580,000. It was specifically stated on Exhibit P17 that the transaction would be “Void if exceed $580,000” and the transaction was for “Import/Damaged/Repaired”. The down payment required was $240,000.
+
+16     As Tapa had already given the Accused $10,000, he issued two more cheques for $130,000 and $100,000 respectively. (See photocopy of the cheques in Exhibit P18). For the latter, it was a cash cheque. Tapa was told by the Accused that he needed to withdraw the money immediately so that the Accused could transfer the money to the UK company to ensure that repair work to the Car could proceed and Tapa would be able to get his Car expeditiously.
+
+17     Tapa was initially confused as to why Exhibit P17 reflected the letterhead of _Starcrest_, when he has been told by the Accused that the Accused owned SCW. The Accused explained to Tapa that _Starcrest_ was another company owned by him and that _Starcrest_ specialised in importing high-end super car such as a McLaren MP4 12C. The Accused also explained that SCW did not specialise in such import.
+
+18     A few days before 7 December 2013, Tapa enquired about the status of his purchase and wanted a look at the Car. The Accused printed an A4 picture of a red colour McLaren MP4 12C (see first attachment to Exhibit P23) from his email account. Tapa was told by the Accused to make the final payment of $56,000 where $50,000 would go towards applying for the Certificate of Entitlement (“COE”) and $6,000 was for the paper work and administrative charges relating to the purchase. The Accused informed Tapa that this final payment was required in December 2013 as the Car would be arriving in January 2014.
+
+19     Convinced by the pictures of the Car shown to him by the Accused, on 7 December 2013 Tapa issued another cheque for $56,000. (See photocopy of the cheque in Exhibit P19.)
+
+20     In order to purchase the Car, Tapa needed to obtain a bank loan for $290,000. The need to procure a bank loan was the reason behind the making of a second sale and purchase agreement. On 26 December 2013, Tapa and the Accused signed another sale and purchase agreement (Exhibit P20) in relation to the same deal for the Car. Exhibit P20 is a three-page document. Page 1 of Exhibit is the sales agreement itself and was almost similar to Exhibit P17. Although Exhibit P20 was signed on 26 December 2013, the document was backdated to 25 September 2013. On Page 1 of Exhibit P20, the “_Price Agreed_” was now stated on Exhibit P20 as _“$580,000 + On Road Cost_” with the total sum being $1,135.934.10. According to Tapa, the Accused has advised that by inflating the selling price of the car, it would make it easier for Tapa to obtain the desired loan of $290,000. On Page 1 of Exhibit P20, the proposed delivery date of the Car was stated as “_Jan 2014_”. The inclusion of the delivery date reinforced the information given by the Accused to Tapa regarding the delivery date of the Car. (See \[18\] above.)
+
+21     Page 2 of Exhibit P20 gave a breakdown of the various cost and charges that resulted in the inflated price of $1,135,934.10. Tapa was told by the Accused not to bother about the “on-road-cost” as its purpose was solely for the Accused to assist Tapa in obtaining the desired loan amount of $290,000.
+
+22     Page 2 of Exhibit P20 was prepared by Pea Siew Fang (“Pea”). Pea was an employee of SCW. According to Pea, Page 2 of Exhibit P20 was prepared by her based solely on the Accused’s instructions. The Accused has provided her with the figures to the main components in the purchase of a car such as (i) purchase price of $580,000; (ii) COE value of $73,010; and (iii) ARF value of $398,000. Pea had prepared Page 2 without any reference to any other document. Pea testified that based on her experience working at SCW, the customer and SCW would first agree on a price for the car before any sales agreement is signed, and the price would be inclusive of all costs such as ARF, COE, road tax, save for insurance costs. Referring to Exhibit P17, Pea’s testimony was that the format was identical to the sales agreements of SCW except for the company letterhead. According to Pea, the “_Price Agreed_” section shown on Exhibit P17 should similarly be the all-costs-included price of the car.
+
+23     Page 3 of Exhibit P20 was written by the Accused. The loan amount was stated as $290,000 payable in 59 monthly instalments of $3,000 with a last payment of $153,444. The total sum added up to $330,444 which presumably included the interests payable on the loan. Page 3 of Exhibit P20 also contained a line “_TOTAL PURCHASE PRIZE : $1,135,934.10”_. As explained earlier (see \[20 – 21\] above), this was the inflated price for the purposes of obtaining a loan.
+
+24     On 20 January 2014, Tapa was told by the Accused that the Car has arrived in Singapore but it was detained by Singapore Customs owing to issues relating to the payment of duty and taxes on the Car. The Accused told Tapa that he could view the Car but could not take possession. However, the Accused kept delaying and postponing the viewing.
+
+25     In February 2014, the Accused advised Tapa to set up a sports car dealership company so that he could use the company to apply for a blanket insurance of $2,005 a year that would include all the cars registered to the company. This was a special kind of insurance available to car dealers. Tapa was told by the Accused that he would only need to pay the annual fee regardless of the number of sports cars he drives. The Accused got Pea to assist Tapa to set up Fast & Furious Super Cars Pte Ltd (“Fast & Furious”) (see Exhibits P25, 26 and P27; and Exhibit D2). The registration fee for setting up Fast & Furious was $318.30.
+
+26     Tapa lost his patience after waiting several months for the promised delivery of the Car. On 14 May 2014, Tapa issued a letter (see Exhibit P21) addressed to _Starcrest_ and the Accused giving them an ultimatum to deliver the Car by 31 May 2014.
+
+27     On 31 May 2014, Tapa was informed by the Accused that he would not be able to deliver the Car to him or to refund any money to him. Tapa was further told by the Accused that he could do whatever he wanted to.
+
+28     On 25 June 2014, Tapa lodged a Police report against the Accused. In the police report, summarising briefly, Tapa alleged that he had been cheated of $296,000 by the Accused.
+
+29     On 31 August 2014, Tapa sent an email (see Exhibit P24) to Singapore Customs to enquire of the Car, in particular, whether the Car was being detained by them as claimed by the Accused.
+
+30     On 2 September 2014, Singapore Customs asked Tapa for the engine/chassis number so that it could conduct further verification. Tapa replied on the same day that he did not have the information. On 4 September 2014, Singapore Customs informed Tapa that based on their records, no application has been made to Singapore Customs to import a used McLaren MP4 12C car into Singapore. Subsequently, Tapa proceeded to strike off Fast & Furious as there was no longer any purpose for the company.
+
+31     The Investigating Officer of this case, Hidayattollah Khomeini Bin Salleh (“IO Hidaya”) has checked with Singapore Customs. Like Tapa, IO Hidaya was similarly informed by Singapore Customs that was no record of an application to bring into Singapore a McLaren MP4 12C car.
+
+32     The Accused admitted in cross-examination that he did not reach any agreement to purchase the Car from the UK company. The Accused also admitted that he did not import the Car into Singapore.
+
+### The Accused’s Defence to the CBT Charge
+
+33     The Accused’s main defence was that he did not dishonestly misappropriate the sum of $296,000 that he was entrusted with. He claimed that he had duly applied $240,000 towards the purposes under the sale and purchase agreements. The balance $56,000 was used to set up Fast & Furious, where Tapa had plans to import a minimum of four sports cars a year and re-sell them under Fast & Furious.
+
+34     The Accused’s defence for the non-delivery of the Car is that the contractual price was $1,135,934.10 and that Tapa has not made full payment. The Accused also argued in the alternative that the purchase price of the car, excluding other costs and charges, was $580,000. The Accused claimed that Tapa has only made part payment of $240,000, and there was a shortfall of $340,000.
+
+### Court’s Assessment and Findings on the CBT Charge
+
+35     There were three issues for this Court’s determination in respect of the CBT charge. The issues are:
+
+> (a)     What was the contractual price for the purchase and importation of the Car?
+
+> (b)     What was the total amount of money entrusted to the Accused by Tapa for the purchase and importation of the Car?
+
+> (c)     Did the Accused dishonestly misappropriate the entire sum of money entrusted to him by Tapa for the purchase and importation of the Car?
+
+#### What was the Contractual Price for the purchase and importation of the Car
+
+36     Tapa testified that the agreed selling price of the Car was $580,000. The Accused claimed that it was $580,000 plus on-road-cost and the total sum comes up to $1,135,934.10.
+
+37     I accepted the evidence of Tapa and disbelieved the Accused. My reasons are as follows:
+
+> (a)     Tapa was aware that the price of brand new McLaren MP4 12C car was around $900,000. It would not be logical for him to pay more for a damaged but repaired car of the same make and model when it is cheaper to buy a brand new one.
+
+> (b)     IO Hidaya has made a check online for the cost of a second-hand McLaren MP4 12C car as of August 2018. The check revealed that the price ranged from $390,000 to $699,000 (see Exhibit P30). While this was information obtained in 2018, this Court has inferred that the price range of a second-hand McLaren MP4 12C car in 2013 would not vary more than 10 to 15 percent from the 2018 figures. I found this piece of evidence supportive of Tapa’s evidence on the agreed selling price of the Car.
+
+> (c)     When the Accused failed to deliver the Car in May 2013, Tapa served on him a letter “Re : Final Request for Delivery of Vehicle” (Exhibit P21). The Accused signed to acknowledge receipt of the letter. In the letter, the “total contract value agreed” was stated as $580,000 and that any selling price above $580,000 would have the effect of nullifying the agreement. The Accused did not raise any dispute or challenge the content of the said letter.
+
+> (d)     When Exhibit P17 was signed by the Accused and Tapa, it was a simple one-page document. The “Price Agreed” was $580,000 and nothing more. Tapa’s account on the selling price was corroborated by Pea’s testimony (see \[22\] above).
+
+#### What was the total sum of money that was entrusted to the Accused
+
+38     It was not in dispute that the Accused was entrusted with $240,000 comprising of three cheques for $10,000.00 (see Exhibit P16), $130,000 (see Exhibit P18) and $100,000 (see Exhibit P18). It was also not in dispute that the payment of $240,000 was for procuring the Car for Tapa.
+
+39     The area of dispute centres around the cheque for $56,000 (see Exhibit P19) which the Accused has claimed was for setting up Fast & Furious. To recap the evidence, Tapa’s testimony was that he was told by the Accused to make the final payment of $56,000 for which $50,000 would go towards applying for the Certificate of Entitlement (“COE”) and $6,000 was for the paper work and administrative charges relating to the purchase of the Car. The cheque for $56,000 was issued on 7 December 2013.
+
+40     The Accused claimed that the said sum of $56,000 was meant for setting up Fast & Furious. I did not believe the Accused.
+
+> (a)     This was a bare assertion by the Accused without any supporting evidence, documentary or otherwise. I have observed that Fast & Furious was incorporated on 7 February 2014 (see Exhibit P25). No reason was given by the Accused why it took almost two months from the time of the receipt of the cheque to the incorporation of Fast & Furious.
+
+> (b)     The Accused further claimed that Tapa had intended for him to play a substantial role in Fast & Furious. Yet, the Accused’s name does not appear in the ACRA screening of Fast & Furious (see Exhibit P25) whether as a director, shareholder, or otherwise.
+
+> (c)     The Prosecution has submitted that there was no reason for Tapa to set up a car dealership company in February 2014 when the Accused has failed to import even a single car at that point in time. I agreed with the Prosecution. Tapa had already paid out $296,000 in January 2014 and did not get the Car delivered to him. It would not be logical for Tapa to put in more money. I believed Tapa’s testimony that the setting of Fast & Furious was meant to reduce the insurance expenses based on the advice he was given by the Accused (see \[25\] above).
+
+> (d)     The Prosecution adduced the Accused’s investigation statement (Exhibit P32) to impeach the credit of the Accused on this issue. In his investigation statement, the Accused admitted to taking $296,000 from Tapa (see Q1/A1 in Exhibit P32). This admission of receiving the total sum would therefore include the cheque for $56,000. In his investigation statement, the Accused stated that the “_money is being paid to dealer and people who have organized the work. The dealer is based in London. The money is paid via Hong Kong and none of the money is given to any one in Singapore_.” (See Q2/A2 of Exhibit P32). Nothing was said in the Accused’s investigation statement that any part of the $296,000 was used to set up Fast & Furious. The Accused conceded that the above account given in his investigation statement was materially different from his court’s testimony. The Accused explained that he had missed making the point that the $56,000 was for setting up Fast & Furious in his investigation statement by “_overlooking the numbers_”. The Accused’s explanation was contradictory to his investigation statement (Exhibit P32). Firstly, in Exhibit P32 at \[5\], the Accused has referred to the setting of Fast & Furious. Secondly, the Accused stated that a “_4_th_cheque came in when the company was registered_.” The evidence is clear that there was no “_4_th_cheque_” at the time of the incorporation of Fast & Furious in February 2014. Even if this Court were to consider the cheque for $56,000 as the fourth cheque (on a chronological basis), the said cheque was issued on 7 December 2013, and not 7 February 2014 (_i.e._ the date Fast & Furious was incorporated). I did not accept the Accused’s explanation. I found the Accused’s credit on this issue impeached.
+
+41     Having reviewed the relevant evidence on this issue, I found that the cheque for $56,000 paid by Tapa to the Accused formed part of the purchase price for the purchase and importation of the Car. I further found that the Accused knew of this when he accepted the cheque.
+
+42     I therefore found that Tapa entrusted a sum of $296,000 to the Accused for the purchase and importation of the Car.
+
+43     I also found that Tapa would finance the balance payment of $284,000 through a loan (the desired amount being $290,000), which ultimately did not materialise because the Accused has failed to import the Car into Singapore. The Accused has concocted a series of lies in his attempt to hide the non-delivery of the Car and to shift the blame to Tapa.
+
+#### Whether the Accused has dishonestly misappropriated the sum of money entrusted to him
+
+44     Apart from the Accused’s bare assertion that he has used the $296,000 for its intended purpose, he did not adduce any evidence, documentary or otherwise, to account for the expenditure incurred to fulfil his obligation to have the Car repaired and then imported into Singapore. The Accused claimed that the money was used for work done, to find the means and the people to ship the Car to Singapore, to do the relevant declarations, _etc_. However, as the Prosecution has rightly pointed out, the Accused has not provided (i) a breakdown of his expenditure, and (ii) objective evidence to prove that payments were in fact applied to such stated purposes.
+
+45     In September 2013, the Accused has already received $230,000 from Tapa. This was substantially more than the “Maximum repair cost £10,000” as stated in the email adduced as Exhibit P31. The Accused has admitted that despite the fact that he has received a substantial amount of money by Tapa, there ultimately had not been any agreement to buy the vehicle from the UK company for Tapa. The Accused explained that there was a shortfall in payment by Tapa and he was waiting for Tapa to pay up. Even so, the Court has asked the Accused why did he not hold on to the money and not spend it until the payment on the shortfall was made. The Accused explained that that was not the way he conducted his business, and that the entire sum of $296,000 was his retainer fee. This latter explanation is contradictory to his earlier account that the money was spent for their stated purposes in relation to the purchase and importation of the Car. Moreover, it was highly irregular and suspicious that the Accused could have spent up to $296,000 to find means to bring the Car when he had not even secured the car from the UK company. I did not accept the Accused’s evidence as truth of the matter.
+
+46     Even assuming that Tapa has failed to pay up the shortfall of $284,000 (derived by deducting $296,000 from $580,000), then by May 2014, when Tapa served his letter “Re : Final Request for Delivery of Vehicle” (Exhibit P21), it was clear that his intention was to terminate the agreements, referring to Exhibits P17 and P20. At the bottom of Exhibits P17 and P20, there is a contractual clause that states “\[a\]ny cancellation by whatever reason, the company shall reserve the rights to claim 10% of the selling price from the purchaser.” This would mean that if Tapa backs out of the agreement, he would be penalised 10% of $580,000 which amounted to $58,000. The position taken by the Accused was that he could retain $113,593 (_i.e._ 10% of $1,135,934.10). The selling price of the car cannot logically include road tax, price of COE, import duties, _etc._, which are taxes and fees payable to the relevant government agencies or departments. The Accused agreed with the proposition, but he maintained that he was entitled to retain 10% of $1,135,934.10. The Accused further testified that he would not refund any money to Tapa because “_he wanted him to go ahead with the car_”. In my evaluation of the evidence, it was clear that the Accused has taken the entire sum $296,000 that was entrusted to him and he did not take any action to procure the Car for Tapa.
+
+47     In _Tan Tze Chye v Public Prosecutor_ \[1997\] 1 SLR (R) 876 at \[37\], the High Court that to “misappropriate” means to “to set apart or assign to the wrong person or wrong use”. In the present case, no evidence was adduced to show that the sum of $296,000 or any part thereof was used in connection with the Accused’s obligation under the purchase and importation agreements. It led this Court to draw the irresistible inference that the Accused has misappropriated the said sum of money.
+
+48     In _Er Joo Nguang v Public Prosecutor_ \[2000\] 1 SLR (R) 756 at \[39\], the High Court held that “_an accused person’s dishonest intention … had to be inferred from \[his\] conduct and … surrounding circumstances.”_ Having reviewed and evaluated the evidence, I found the Accused to have acted with deceit and dishonest in the entire transaction and has thereby dishonestly misappropriated the entire sum of $296,000 that Tapa has entrusted to him.
+
+## The Forgery Charges
+
+### Background Facts and Undisputed Facts
+
+49     In May 2008, the Accused, Abidullah and one Ronnie Chang, who is the Accused’s uncle entered into a Joint Venture Agreement (“JVA”) to deal in ladies’ shoes and motorised bicycles. The details of the JVA was captured in an email dated 20 May 2008 sent by the Accused (see Exhibit P2). Abidullah and Ronnie Chang each contributed $10,000 and the Accused contributed $20,000. There was an agreement to use _Starcrest_ as the trading vehicle of the JVA. Abidullah opened an OCBC bank account under the name of _Starcrest_ for the operations of the JVA. Abidullah gave the Accused the ATM card to the OCBC bank account. He also passed pre-signed cheques under this account to the Accused. Even though Abidullah received the bank statements, he did not look at them regularly.
+
+50     The OCBC bank account has two sub-accounts – a USD account and a SGD account. Abidullah closed the USD account on 29 January 2010. The SGD account, which was used by the Accused, was closed by Abidullah on 27 October 2014.
+
+51     The JVA was a failure. Its only trades were in 3,000 pairs of ladies’ shoes and 69 units of motorised bicycles.
+
+52     According to Abidullah, there were no other business activities other than the aforementioned trades in ladies’ shoes and motorised bicycles. The Accused however claimed that there was a sale of a Bentley and the transaction was reflected in the monthly statement for August 2012 of the OCBC bank account. Abidullah testified that he was not aware of, consulted on, and never consented to any transaction involving the sale and purchase of cars under the JVA. As the alleged Bentley transaction occurred in August 2012, it was not a material issue to the Forgery Charges. Even assuming that trading in cars was permitted under the JVA, it was clear to the Court that the Accused has kept all the details of the transaction with Tapa known only to himself and kept the money for himself.
+
+53     In relation to the Forgery Charges, there was no dispute of facts that:
+
+> (a)     the two sale and purchase agreements (_i.e._ Exhibits P17 and P20) were signed by the Accused and Tapa;
+
+> (b)     Exhibit P17 was created by the Accused and the content therein was filled up by him; and
+
+> (c)     The first and third pages of Exhibit P20 was created by the Accused, and the contents were filled up by him.
+
+### Issues in relation to the Forgery Charges
+
+54     The main issue to the Forgery Charge was whether Abidullah has either allowed or given his consent to the Accused to use _Starcrest_ letterhead for the sale and purchase agreements of the Car between the Accused and Tapa in September 2013 (_i.e._ Exhibits P17 and P20).
+
+55     The secondary issue was whether the Accused executed the sale and purchase agreements with Tapa with a fraudulent intent to deceive Tapa into believing that the sale and purchase agreements were executed with the authority of _Starcrest_.
+
+### Court’s Assessment and Findings on the Forgery Charges
+
+56     Abidullah testified that he had on one occasion given his consent to the Accused to use _Starcrest’s_ letterhead. Abidullah has given his consent by an email correspondence with the Accused dated 16 December 2010 (Exhibit P14). Abidullah allowed the Accused to use _Starcrest’s_ letterhead to sort out a Customs issue relating to a FedEx shipment of a mobile phone to the Accused’s friend, whom Abidullah believed was the Accused’s mistress, who was residing in China. There was an airway bill (Exhibit P13) supporting Abidullah’s contention.
+
+57     Abidullah testified that he agreed to help the Accused on account of their close friendship. However, he maintained that the consent was only confined to this particular incident and cannot be understood to mean that he had given a blanket consent to the Accused to use _Starcrest’s_ letterhead to enter into any personal contracts or business purpose at a later time. Most importantly, to Abidullah, _Starcrest_ is his sole business entity in which the Accused was not, and has never been his business partner, and in which the Accused had no stake.
+
+58     The Accused did not deny that he has used _Starcrest’s_ letterhead and added a sale and purchase agreement for a car based on a template obtained from SCW. The result of the modification made would appear to a customer that the sale and purchase agreement came from _Starcrest._ Nonetheless, the Accused alleged that he has the consent of Abidullah.
+
+59     It was clear to the Court that the two sale and purchase agreements of the Car (_i.e._ Exhibits P17 and P20) were not executed by, or with, the authority of _Starcrest_.
+
+> (a)      _Starcrest_ did not have sales agreement in the format of Exhibit P17 and P20. The Prosecution adduced Exhibits P11 and P12 in support of Abidullah’s testimony. Exhibit P11 showed the official letterhead and company stamp of Starcrest. Exhibit P12 is a template of an invoice from _Starcrest_. Abidullah testified that the _Starcrest_ letterhead would always contain the (i) address, (ii) telephone and fax numbers, and (iii) logo. All three details were missing in Exhibits P17 and P20.
+
+> (b)     Regarding _Starcrest’s_ company stamp, capital letters were used to spell “STARCREST ENTERPRISE”. In comparison, the company stamp used in Exhibit P20 had “Starcrest Enterprise” in lower-case letters, and “Enterprise” was misspelt as “Euterprise”.
+
+> (c)     The second page to Exhibit P20 contained a breakdown of various costs and taxes in relation to the purchase of the Car. This document was prepared by Pea acting on the instructions and information given to her by the Accused. Pea, like the Accused, was an employee of SCW. Pea was not an employee of Abidullah or _Starcrest_.
+
+60     In my assessment, the Accused was making use of both _Starcrest_ and SCW to facilitate the sale and purchase of the Car to Tapa.
+
+61     I therefore found that Abidullah did not allow or give his consent to the Accused to use _Starcrest’s_ letterhead for the sale and purchase agreements of the Car between the Accused and Tapa.
+
+62     Given that the Accused has used _Starcrest’s_ letterhead without obtaining the prior approval or consent of Abidullah, it would logically follow that the Accused had the intention of deceiving Tapa into believing that the sale and purchase agreements were executed with the authority of Starcrest. In fact, the Accused has very much admitted to it as he knew that Tapa could potentially be able to sue _Starcrest_ for the non-delivery of the Car under the two agreements.
+
+63     I also found the Accused harboured a clear intent to defraud Tapa. The four cheques (copies of which were reproduced in Exhibits P16, P18 and P19) were all made payable to the Accused, as either crossed cheques or cash cheques. None of the cheques was made payable to either _Starcrest_ or SCW. It was clear that the scheme was for the money to go into the Accused’s account, and solely for the Accused’s benefit. The Accused pocketed the money and purportedly left the liability for non-delivery of the Car to _Starcrest._ The Accused sought to explain that it did not cross his mind that he was opening _Starcrest_ to potential liability. I did not believe the Accused. I agree with the Prosecution’s submission that _“\[t\]he accused was an experienced businessman of more than 30 years who would have entered into multiple sales agreements and contracts, and thus must be aware of the general liabilities under a contract. He cannot now feign ignorance on the issue of liability.”_
+
+## Conviction
+
+64     I found that the Prosecution’s witnesses have given evidence which is consistent and credible. They were forthright and unwavering in their testimony even under cross-examination. I also found their evidence to be internally consistent. I also found their evidence, especially in ration to material issues, corroborated by documentary evidence. In my assessment, I accorded full weight to their testimonies.
+
+65     On the other hand, I did not find the Accused to be a credible witness. His testimony was peppered with bare assertions and wholly unsupported by any documentary evidence. I found the account given by the Accused to be incredible and illogical. He has also contradicted himself numerous times. In my assessment, I rejected the evidence of the Accused.
+
+66     Having reviewed the evidence, and having considered and assessed the credibility of the Prosecution’s witnesses and that of the Accused, I found the Accused guilty on all three charges and convicted him accordingly.
+
+## Sentence
+
+### The Accused’s Plea-in-Mitigation
+
+67     In mitigation, the Accused urged the Court to take into account his health condition. The Accused is a handicap as one of his leg has been amputated. He is also a sickly person for he suffers from cancer. Besides his cancer treatment, he has to attend dialysis sessions three times a week. He informed the Court that he is a Hepatitis B dialysis patient.
+
+68     The Accused left the terms of the sentences to the Court stating that he has been brought up to believe that the law is fair.
+
+### The Prosecution’s Submissions
+
+69     In its written submissions, the Prosecution sought an aggregate sentence of 32 – 34 months’ imprisonment comprising:
+
+> (i)     2 months’ imprisonment on each count of the Forgery Charges;
+
+> (ii)     30 – 32 months’ imprisonment for the CBT Charge; and
+
+> (iii)     The term of imprisonment for the CBT Charge to run consecutively with the term of imprisonment for one count of the Forgery Charges. The term of imprisonment for the remaining forgery charge to run concurrently with the CBT Charge. Thus, making an aggregate sentence of 32 – 34 months’ imprisonment.
+
+70     The Prosecution submitted that the sentencing principles of specific and general deterrence are applicable in this case because the offences committed by the Accused were premeditated: _Public Prosecutor v Law Aik Meng_ <span class="citation">\[2007\] 2 SLR(R) 814</span> at \[21\] – \[29\].
+
+71     The Prosecution highlighted the following aggravating factors:
+
+> (i)     A substantial amount of $296,000.00 was involved in the CBT Charge in which not a single cent was recovered. The Accused also did not contribute any sum towards restitution. In an offence like criminal breach of trust, where all other things are equal, the larger the amount misappropriated the greater the culpability of the offender and the more severe the sentence of the court: _Wong Kai Chuen Philip v Public Prosecutor_ \[1990\] 2 SLR (R) 361 (“_Philip Wong_”) at \[18\].
+
+> (ii)     The Accused has abused the trust reposed in him by Tapa and Abidullah. An abuse of one’s position of trust and friendship should be taken seriously: _Cheong Siat Fong v Public Prosecutor_ <span class="citation">\[2005\] SGHC 176</span> at \[23\] citing Andrew Ashworth_, Sentencing and Penal Policy_ (Weidenfeld and Nicolson, 1983) at page 94. The Accused and Abidullah has shared a close friendship since the 19080s. Tapa trusted the Accused’s work abilities following the successful sale of Tapa’s Ferrari by the Accused at a good price and they have since formed a good relationship, often coming together to have lunch.
+
+> (iii)     The offences were committed with planning and premeditation. The Accused created the forged sale and purchase agreements using a softcopy of a letterhead that Abidullah had previously allowed him to use. He also created a company stamp albeit wrongly spelt as “Starcrest Euterprise” to go with the forged sale and purchase agreements. The Accused induced Tapa into the transaction for the Car at the initial stage by showing him photos of a damaged McLaren MP4 12C car (see pages 1 – 6 of Exhibit P31) and later another photograph (1st attachment to Exhibit P23) purporting to be the repaired and refurbished McLaren MP4 12C car.
+
+> (iv)     The Accused did not display any sense of remorse. The Accused has failed to account for the money he has taken from Tapa. In fact, the Court has observed that even at sentencing, the Accused still harboured the notion “_how an incomplete deal becomes a CBT deal_” (see Day 9 of the Notes of Evidence at Page 6 Line 9).
+
+72     The Prosecution recognised that the Forgery Charges were committed in order to facilitate the CBT Charge. Hence, to avoid double counting of the same aggravating factor for two different charges, the Prosecution, very fairly, submitted that the loss caused to Tapa arising from the CBT Charge should not be a factor for consideration for the Forgery Charges.
+
+73     For the Forgery Charges, the Prosecution tendered a table comprising three case precedents where the sentence meted for a forgery offence under s 465 PC was one month’s imprisonment where little loss or no loss has been occasioned by the criminal act. In these three case precedents, the respective offenders pleaded guilty. The Prosecution submitted that the term of imprisonment should be calibrated higher because the Accused has claimed trial and as such, the usual sentencing discount would not be applicable. Furthermore, the Accused put effort into forging blank sale and purchase agreement to cloak the transaction with a false sense of security that it emanated from _Starcrest_. The Prosecution thus sought a two months’ imprisonment term on each forgery charge.
+
+74     In respect of the CBT Charge, the Prosecution tendered a table comprising eight case precedents, in which the sentences meted out for CBT offences under s 406 PC ranged from 15 weeks’ imprisonment (for CBT involving $26,624.25) to three years’ imprisonment (for CBT involving $289,884.00).
+
+75     In particular, the Prosecution highlighted the case of _Public Prosecutor v Manat Seksan (DAC 905332/2014, unreported)_ (“_Manat_”) where the offender has dishonestly misappropriated six gold bars worth $325,633.25. The offender was convicted after a trial and sentenced to 28 months’ imprisonment. Four of the gold bars were recovered. When compared against the present case, the amount involved was higher (_i.e._ $296,000.00) and there was no recovery nor restitution for the loss. The Prosecutor thus sought a sentence of 32 – 24 months’ imprisonment for the CBT Charge.
+
+76     Lastly, the Accused has a dated 1981 antecedent for being absent from duty without leave for which he was punished with a $90 fine which was paid. The Prosecution did not attach any weight to the said antecedent in its sentencing submission.
+
+### The Court’s Sentencing Decision
+
+77     In my assessment, I agreed entirely with the Prosecution’s sentencing submissions, except for the calibration of the term of imprisonment for the CBT Charge. In the circumstances, the sentence for each count of the Forgery Charges was two months’ imprisonment.
+
+78     In respect of the CBT Charge, the Prosecution relied on _Manat_ to calibrate the appropriate sentence. However, I have observed that the Prosecution’s calibration appeared to be inconsistent with the following two case precedents that were also cited by them:
+
+> (a)     In _Public Prosecutor v Azahar bin Salleh (DAC 933723/2015, unreported)_ (“_Azahar_”), the offender was the franchisee of a minimart. The franchise agreement required him to share the profits with the franchisor and also to record all sales transactions and to hand over the sale proceeds to the franchisor on a daily basis. From June 2014 to 2 October 2014, the offender dishonestly misappropriated a total of $318,791.91. The offender failed to keep a proper record of daily sales transactions, and did not hand over the entire daily sales proceeds to the franchisor. The offender pleaded guilty to one count of CBT under s 406 of the PC. No restitution was made as the offender was adjudged a bankrupt. The offender was given a 24 months’ imprisonment sentence.Applying _Philip_ Wong (see \[71(i)\] above\] then considering the amount of loss alone, it would appear at first blush that the sentence for the CBT Charge in the present case, calibrated against _Azahar’s_ case, should be lower than 24 months’ imprisonment.
+
+> (b)     In _Public Prosecutor v Soh Wei Siang (DAC 47766/2013 & others, unreported) (_“_Soh Wei Siang_”), the offender dishonestly misappropriated four vehicles. The offender pleaded guilty to two counts of CBT under s 465 PC, involving $228,000 and $155,000 respectively. Two other similar charges were taken into consideration for sentencing. The total value of the four vehicles amounted to $631,000.00. The vehicles were not recovered and no restitution was made by the offender. The offender was sentenced to 20 months’ imprisonment on each proceeded charge. Both sentences of imprisonment were ordered to run consecutively. The total sentence was thus 40 months’ imprisonment. The sentence imposed in _Soh Wei Siang_ for each count evidently did not reflect the correlation between the level of culpability and the amount of loss caused by the offending act.
+
+79     Sentencing precedents without grounds or explanations should bear little weight, if any, because they are unreasoned. A sentencing court should approach such sentencing precedents with caution: _Janardana Jayasankarr v PP_ <span class="citation">\[2016\] 4 SLR 1288</span> at \[13(b)\]. That said, I have observed that the sentencing range that this court could glean from the sentencing precedents are consistent with the general principle in _Philip Wong_ that the severity of sentence should be commensurate with the amount of loss caused_._
+
+80     In my assessment, starting point for sentencing in this case for the CBT Charge was in the region of 24 – 30 months’ imprisonment. This is a case where:
+
+> (a)     the Accused has successfully perpetrated an audacious heist,
+
+> (b)     where a large amount was dishonestly misappropriated,
+
+> (c)     in that process, abused the trust reposed in him by his close friends;
+
+> (d)     the Accused was the only person who benefitted from the criminal acts; and
+
+> (e)     he has not made any restitution.
+
+81     After taking into account the Accused’s health situation, I imposed a sentence of 26 months’ imprisonment for the CBT Charge.
+
+82     Having arrived that the individual sentence for each charge, I then applied section 307(1) of the Criminal Procedure Code (Cap 68, 2012 Rev Ed) in ordering consecutive sentencing for DAC 935644/2017 and DAC 935646/2017 (see \[5\] above).
+
+83     I was mindful that my decision on the total sentence must not fall foul of the sentencing principles (_ie_ the one-transaction rule and the totality principle) laid down by CJ Menon in _Mohamed Shouffee bin Adam v Public Prosecutor_ <span class="citation">\[2014\] 2 SLR 998</span> at \[25\].
+
+## Conclusion
+
+84     It is my judgment that the total sentence of 28 months’ imprisonment was on the whole proportionate to the Accused’s culpability, the total amount dishonestly misappropriated and the number of charges.
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F24665-SSP.xml)
