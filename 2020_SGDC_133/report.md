@@ -1,0 +1,653 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Wong Lai Kuen _v_ Lim Kheng Hee and another  
+
+### \[2020\] SGDC 133
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">District Court Suit No 1955 of 2019, Registrar's Appeal No DC/RA 2 of 2020</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">08 June 2020</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Tan May Tee</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Mr Christopher Yeo (Legal Solutions LLC) for the plaintiff; The defendants in person.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Wong Lai Kuen — Lim Kheng Hee — Mun Siew Hai</td></tr></tbody></table>
+
+Civil procedure – Striking out pleading
+
+8 June 2020
+
+### District Judge Tan May Tee:
+
+## Introduction
+
+1       This is the defendants’ appeal from the decision of a deputy registrar (“DR”) given on 19 December 2019 dismissing their application in DC/SUM 3552/2019 to strike out the plaintiff’s case and for judgment to be entered on their counterclaim with costs.
+
+### Notice of appeal
+
+2       The defendants are unrepresented. The notice of appeal which they filed stated that their appeal was against the DR’s “Oral Grounds of Decision” (“Oral GD”). I note from the DR’s notes of the proceedings (“NE”)[^1] that he had provided the parties a copy of his Oral GD which was a nine-page document comprising 44 paragraphs. The defendants had intended to include in their notice of appeal[^2] their dissatisfaction with each of the DR’s 44 paragraphs in his nine-page Oral GD but they were circumscribed by the “limited writing space (about 2000 letters, not words)” in the form of the notice of appeal as informed to them by the CrimsonLogic service bureau. This is, of course, a misapprehension of what is required by the notice in Form 112 of the Rules of Court (Cap 322, R 5). As stated in the form, after indicating the appellate level that he is appealing to, an appellant is only required to specify the name of the judicial officer or judge whose decision he is appealing against, the date on which the decision was made and the orders made which he is seeking to reverse on appeal. The arguments and submissions that an appellant wishes to canvass against the decision on appeal should be properly furnished by way of written submissions to be filed in accordance with the State Courts Practice Directions PD 27.
+
+3       In the present case, the notice of appeal should only have stated that the appeal was against the decision of the Deputy Registrar Sheik Umar bin Mohamed Bagushair given on 19 December 2019 dismissing the defendants’ application in DC/SUM 3552/2019 with costs. Instead, the notice of appeal set out in abundant detail over 11 paragraphs a lengthy narrative of the defendants’ disagreement with the Oral GD with the first paragraph broken down into a further 10 sub-paragraphs. No separate written submissions for the appeal had been filed by either party prior to the hearing as required by the State Courts PD 27.
+
+### Nature of hearing
+
+4       The defendants had a misconception as to how their appeal would be dealt with. They had operated on the assumption that the appeal did not concern the plaintiff since they were effectively challenging the DR’s Oral GD, and the hearing would therefore be a matter between them and the judge hearing the appeal. They were surprised when informed that their correspondence with the court on the appeal hearing date had to be copied to the plaintiff’s solicitors.
+
+5       I first heard the parties’ arguments on the appeal on the afternoon of 25 February 2020. The hearing could not be concluded at the sitting on 25 February 2020 as the defendants had a lot more to say than what could be accommodated within the court’s hearing hours.
+
+6       In order for the court to consider their case comprehensively, directions were given for parties to file their written submissions. Those directions have been complied with. The defendants filed their written submissions of 75 pages on 9 March 2020, counsel for the plaintiff filed his (limited to 10 pages as directed) on 18 March 2020 followed by the defendants’ reply submissions comprising 36 pages on 1 April 2020.
+
+### Scope of judgment
+
+7       It is well established that an appeal to the judge in chambers is in the nature of a rehearing of the original application – the judge is entitled to exercise his/her discretion unfettered by that of the registrar although due weight should be given to the latter’s decision. Arguments not raised before the deputy registrar may properly be considered by the judge in chambers on appeal (per Court of Appeal in _Tan Boon Heng v Lau Pang Cheng David_ <span class="citation">\[2013\] 4 SLR 718</span> at \[22\]).
+
+8       Accordingly, for the purposes of this judgment, in addition to the DR’s Oral GD, I have considered the following documents:
+
+> (a)     DC/SUM 3552 (“SUM 3552”), the affidavits of Mun Siew Hai filed on 11 September 2019 (“Mun’s 1st Affidavit”) and 18 October 2019 (“Mun’s 2nd Affidavit”), and the affidavit of Wong Lai Kuen filed on 4 October 2019 (“Plaintiff’s Affidavit”);
+
+> (b)     the plaintiff’s written submissions (“PWS”) filed on 13 November 2019 and the bundle of authorities;
+
+> (c)     the defendants’ written submissions (“DWS”) filed on 13 November 2019 and the bundle of authorities;
+
+> (d)     the notice of appeal in DC/RA 2/2020;
+
+> (e)     the defendants’ further written submissions filed on 9 March 2020 for DC/RA 2/2020 (“DFWS”);
+
+> (f)     the plaintiff’s reply submissions filed on 18 March 2020 for DC/RA 2/2020 (“PRS”);
+
+> (g)     the defendants’ reply submissions filed on 1 April 2020 for DC/RA 2/2020 (“DFRS”);
+
+> (h)     the statement of claim filed on 12 July 2019;
+
+> (i)     the defence and counterclaim filed on 6 August 2019;
+
+> (j)     the reply and defence to counterclaim filed on 23 August 2019;
+
+> (k)     the affidavit of Wong Lai Kuen filed on 2 January 2018 in MC/OSS 2/2018 (“Plaintiff’s OS Affidavit”);
+
+> (l)     the affidavit of Mun Siew Hai filed on 2 May 2018 in MC/OSS 2/2018 (“Defendants’ OS Affidavit”) including the video recording[^3] tendered by the defendants by way of correspondence to the court dated 2 April 2020;
+
+> (m)     the affidavit of Wong Lai Kuen filed on 3 May 2019 in DC/OSS 82/2019 (“Plaintiff’s 1st OSS 82 Affidavit”);
+
+> (n)     the affidavit of Mun Siew Hai filed on 6 June 2019 in DC/OSS 82/2019 (“Defendants’ OSS 82 Affidavit”); and
+
+> (o)     the affidavit of Wong Lai Kuen filed on 18 June 2019 in DC/OSS 82/2019 (“Plaintiff’s 2nd OSS 82 Affidavit”).
+
+9       As a substantial part of the defendants’ arguments relates to the underlying merits of the plaintiff’s case, this judgment will first set out the factual background and the procedural history. It will then deal with the striking out application made in SUM 3552 and the issues raised therein with the corresponding references to the Oral GD where appropriate. The conclusion of the judgment will set out my decision on the defendants’ appeal and the further orders.
+
+## Background to the dispute
+
+10     The plaintiff is the subsidiary proprietor of 27 Foch Road #12-01 Hoa Nam Building Singapore 209264 (“Unit #12-01”). The defendants are the subsidiary proprietors of the unit situated directly above Unit #12-01, namely Unit #13-01. Hoa Nam Building is apparently a freehold mixed development comprising commercial as well as residential units at the upper levels. It was completed _circa_ 1983[^4].
+
+11     The dispute concerns damage to the plaintiff’s property from water seepage and/or leakage allegedly emanating from the defendants’ unit directly above.
+
+### Plaintiff’s case
+
+12     The history of the dispute goes back to 27 January 2016 or thereabouts when the plaintiff discovered a dark-coloured patch believed to be a water stain on the bathroom ceiling in Unit #12-01. In March 2016, the condition worsened – water stains had spread from the ceiling to the walls of the bathroom and similar stains had also appeared on the ceiling and walls of one of the bedrooms[^5]. The plaintiff then engaged contractors to ascertain the source of the problem and they informed her that it was due to water leakage from Unit #13-01.
+
+13     The plaintiff had also contacted the management corporation of the development, The Management Corporation Strata Title Plan No. 901 (“the MCST”), for assistance. The MCST sent a letter to the defendants dated 29 March 2016[^6] advising a joint investigation to be carried out by the two units. The MCST’s letter also informed the defendants of the duties and responsibilities of a subsidiary proprietor as set out in the Building and Construction Authority (“BCA”)’s publication, “Strata Living in Singapore – A General Guide” wherein it is stated,
+
+> If there is an inter-floor leak, you and your neighbour are required to jointly carry out an investigation to establish the cause of the leak and proceed with the repair works. You should also both resolve the cost of repair. In cases like this, it is presumed that the leak has originated from the upper floor unit unless the owner can prove otherwise. Therefore, the owner of the upper floor unit cannot claim that the leak has not originated from a defect in his unit. He has to jointly investigate the cause with his lower-floor neighbour and proceed with any repairs required.
+
+The MCST’s letter concluded with an advisory to the defendants to “(k)indly carry out as required as the water leakage is causing damage to the unit below.”
+
+14     The plaintiff thereafter sought assistance to mediate the matter at the Ministry of Law’s Community Mediation Centre (“CMC”). A settlement agreement was recorded on 25 June 2016[^7] (“CMC Settlement Agreement”) requiring the parties to appoint their own contractors and address the defects within their own units at their own cost. It appears, however, that the settlement terms were not performed or complied with.
+
+15     The leakage exacerbated in August 2016 and the MCST sent a further letter dated 31 August 2016 to the defendants. The MCST’s letter[^8] notified the defendants _inter alia_ that:
+
+> “We are informed by the occupier of the unit below, #12-01, that the water seepage has now getting worse. It has also found now that the water leaking has also occurred from the floor slab of your kitchen.
+
+> By this letter, you are kindly advised to rectify the water seepage without any further delay.
+
+> If no action is taken by you, we shall advise the owner of the unit below to take out necessary legal action to seek order from the STB or Court of Law to compel you to rectify the water leaking.”
+
+16     The plaintiff followed through by filing an application with the Strata Titles Board (“STB”) in October 2016 in STB 85 of 2016. However, she withdrew her application after a mediation session on 20 January 2017 on the understanding that she would comply with the terms of the CMC Settlement Agreement by engaging a registered building surveyor or professional engineer to determine the cause of the leakage and to recommend the necessary works that had to be done to Unit #12-01 to stop the leakage. In the event it was found that the leakage emanated from the defendants’ unit, the plaintiff would do the necessary to enforce the CMC Settlement Agreement. These terms were set out in the STB’s letter to both parties dated 23 January 2017[^9].
+
+17     The plaintiff then proceeded to engage a building surveyor, Mr Chin Cheong of Building Appraisal Pte Ltd (“Mr Chin”), who conducted an inspection of both Unit #12-01 and Unit #13-01 on 18 July 2017. The surveyor issued his report in September 2017 which concluded _inter alia_ as follows[^10]:
+
+> 7.1    Based on our inspection and observation, we are of the view that the water seepage problems affected the Kitchen, Toilet and Yard within Unit #12-01(a) was due to the defective /failure of waterproofing membrane and poor condition of the corroded waste pipes serving Unit #13-01(a).
+
+> 7.2    We recommend carrying out the waterproofing work on the wet areas of Unit #13-01 at the soonest to stop further damages and the unhygienic condition to the below unit which is Unit #12-01(a). The water seepage from the water closet of the Toilet near the Yard area serving Unit #13-01 is leaking badly to the lower Unit #12-01 due to failed waterproofing membrane and corroded waste pipe. The water seepage and active droplets from the corroded waste pipe and WC not only foul smelling but also unhygienic therefore it must be repaired immediately without delay.
+
+> 7.3    The corroded waste pipes exclusively serving the Unit #13-01(a) located in the Kitchen, Toilet and Yard of Unit #12-01(a) should be replaced by the (defendants).
+
+> 7.4    Common waste pipe with pitted holes should be repaired by the MCST.
+
+> 7.5    After the completion of the waterproofing work and replacement of the waste pipes, the remedial work at Unit #12-01(a) can commence.
+
+18     Based on the surveyor’s findings that the water seepage problem plaguing Unit #12-01 had emanated from the defective waterproofing membrane and the corroded waste pipes which serve Unit #13-01 exclusively, the plaintiff took the position that the defendants had to carry out the required rectification works at their own cost in accordance with the CMC Settlement Agreement[^11]. It was also the surveyor’s recommendation that apart from the common waste pipe with pitted holes which should be repaired by the MCST, all remedial works to the waterproofing membrane and the corroded waste pipes serving Unit #13-01 exclusively should be carried out by the defendants.
+
+19     The surveyor’s report issued on 18 September 2017 was sent by the plaintiff’s then solicitors, Mahmood Gaznavi & Partners, to the defendants requiring them to carry out the necessary remedial works to the waste pipes and waterproofing membrane[^12]. The plaintiff’s solicitors had also required the MCST to carry out repairs to the common waste pipe with pitted holes in Unit #12-01, which, according to correspondence exhibited, was complied with by the MCST around 1 November 2017[^13].
+
+20     In October 2017, Mr Chin carried out a further inspection of Unit #12-01. He issued a supplementary report on 20 November 2017 stating that the water seepage in the affected areas reflected in his first report had deteriorated, causing further decay and damage[^14]. On 13 February 2019, another inspection of Unit #12-01 was done. Mr Chin issued his third report on 26 March 2019 which set out his observation of further deterioration in the condition of the Unit #12-01[^15]. He gave his opinion that:
+
+> “… the water-proofing membrane of the unit #13-01 have failed, and this caused water to seep into the joints or cracks on the existing floor slab and leach out onto the ceiling soffit, walls, beams and also at the joints between the ceiling soffit and walls of the unit below, which is #12-01. Therefore, the sewerage pipes or common waste pipes did not have any effect or contributed to the water seepage in the subject property.”
+
+21     As the defendants had refused to do any of the rectification works requested, the plaintiff sought the court’s intervention by these proceedings.
+
+### Defendants’ case
+
+22     The defendants are a husband and wife. While both of them are named as parties in these proceedings, the communications with the plaintiff and her advisers have primarily been conducted by the second defendant, the wife. She is also the party who has deposed to all the affidavits in these proceedings.
+
+23     According to the second defendant, when she was first notified in January 2016 of the plaintiff’s complaint by the MCST’s maintenance officer, a Mr Leong Kum Yew (“Leong”) by way of a photograph attached to his telephone message, she had gone to Unit #12-01 to view the water stain in the plaintiff’s bathroom accompanied by Leong and a security guard[^16]. She was informed by Leong that the plaintiff had engaged “specialists” to check and they had confirmed that the water seepage had come from the defendants’ unit. She then requested Leong to inform the plaintiff to furnish her with the details of the “specialists” and any quotations for repairs they might have given which Leong agreed to do.
+
+24     Nothing was heard from Leong or the plaintiff until March 2016 when more photographs of Unit #12-01 were sent to the second defendant. There was some direct communication between the plaintiff and the second defendant wherein they each requested the other to obtain contractors’ quotations for rectification works. Eventually, the defendants received the letter issued by the MCST to the defendants dated 29 March 2016[^17] formally informing them of the complaint of inter-floor leaks from Unit #13-01 to Unit #12-01.
+
+25     The second defendant arranged for her contractor, Omni Construction Pte Ltd (“Omni”), to carry out an inspection of Unit #12-01 on 7 April 2016. Upon conclusion of the inspection, Omni informed her that there was no sign of leakage emanating from Unit #13-01 and the water stains in Unit #12-01 was likely due to non-maintenance of pipes which had become rusty over the years and leakage in the concealed piping within the plaintiff’s property. She then wrote a lengthy email to the MCST to inform them of Omni’s findings and state her objections to their letter dated 29 March 2016 informing the defendants to take action on the inter-floor leaks from Unit #13-01 to Unit #12-01[^18].
+
+26     When the matter was brought to the CMC, the defendants had raised the poor condition of the MCST’s common downpipes as the probable cause of the damage to the plaintiff’s property. As the parties were unable to cooperate on a possible joint action against the MCST, the agreement reached at the CMC was for each party to “ … _appoint their own contractors to address any defects, … and issues, if any within their own premises at their own respective costs_.” [^19]
+
+27     Thereafter, when the defendants received no further communication from the plaintiff they assumed that the plaintiff had followed what was agreed in the CMC Settlement Agreement. However, at the end of August 2016, the second defendant was notified by the MCST’s Leong of further leakage – this time from the “floor trap pipe” in the kitchen and also the common toilet of Unit #12-01. The second defendant went down to Leong’s office and informed him of the CMC Settlement Agreement. It is the defendants’ case that the MCST did not send them the letter dated 31 August 2016 referred to in \[15\] above.[^20]
+
+28     On or about 22 September 2016, the second defendant received more photographs from Leong showing leaks from the ceilings of the kitchen and yard area near the common water downpipes in Unit #12-01. She immediately went to see Leong and took him to Unit #13-01 to show him that there was no sign of leakage in her kitchen and yard[^21].
+
+29     In October 2016, the defendants received the plaintiff’s application to the STB. At the mediation session conducted by the STB, the defendants highlighted the issue of the common pipes. Eventually, the plaintiff withdrew her application on the terms as mentioned at \[16\] above and set out in STB’s letter dated 23 January 2017[^22].
+
+30     From January 2017 to 7 June 2017, as the defendants did not hear from the plaintiff, they were led to believe that she had resolved the issues on her own in accordance with the CMC Settlement Agreement. However, they received a letter of demand from the plaintiff’s former solicitors on 8 June 2017 with numerous photographs attached. The communications between the plaintiff’s solicitors and the defendants led to arrangements being made for the plaintiff’s surveyor to conduct an inspection of the two units on 18 July 2017[^23].
+
+31     According to the second defendant, the joint inspection did not go smoothly. The surveyor had proceeded without her, and she was initially denied entry into Unit #12-01 by the plaintiff. There was also an altercation between the second defendant and the plaintiff as well as the plaintiff’s son who were unhappy with the second defendant taking various photographs in their unit, in particular in the kitchen area. The incident resulted in the second defendant filing a police report.[^24]
+
+32     When the surveyor’s report was completed and sent to the defendants _vide_ the plaintiff’s solicitors’ letter of 19 September 2017, the defendants disputed the findings in the report in their email of 22 September 2017. They highlighted the condition of the “rusty worn-out ageing and deteriorating common cast iron downpipes” which they believe to be the cause of the water seepage in Unit #12-01 and enclosed four photographs they had taken of the same[^25].
+
+33     According to the defendants, the water seepage causing damage to the plaintiff’s property is not due to any failure of the waterproofing membrane in their property as stated in Mr Chin’s report. Instead, it is caused by water discharge from the severely corroded and worn-out state of the common cast iron downpipes (“common pipes”) situated within the plaintiff’s unit as well as in the inter-floor concrete slab between their two units. Their analysis accompanied by a hand-drawn diagram (without the help of any expert) exhibited in the second defendant’s affidavit filed on 2 May 2018 is as follows[^26]:
+
+> (a)     The common pipes comprise a common water downpipe and a common air-vent pipe which run straight down from the top floor through every unit directly below including Unit #13-01 and Unit #12-01.
+
+> (b)     The common pipes in Unit #12-01, unlike Unit #13-01, have been boxed up in the plaintiff’s kitchen cabinet for some 30 years and, being inaccessible, have not been maintained at all. When seen from the top of the kitchen cabinet, they were severely corroded with pitted holes along almost their entire lengths.
+
+> (c)     Heavy usage of the common water downpipe, especially in the evenings when most occupants in the upper floors are home after work, will result in more discharge of water into the inter-floor concrete slab through the corroded points in the downpipe section located within the slab.
+
+> (d)     The waste water flowing _inside_ the inter-floor concrete slab, _below_ the waterproof membrane in Unit #13-01 causes water bubbles to form at the ceiling of Unit #12-01 as the ceiling is porous and has no polyurethane grouting done to prevent water seepage.
+
+> (e)     Consequently, no matter how good the waterproofing membrane (which is at most a few centimetres thick) in Unit #13-01 is, it plays no part in preventing the water coming out of the corroded common water downpipe section located _within_ the inter-floor cement slab (which is at least two feet thick). This is the cause of the water seepage which has resulted in the damage to the ceiling of Unit #12-01.
+
+34     The defendants believe that the water seepage issue in Unit #12-01 can only be resolved by changing the corroded common water downpipe with pitted holes in the plaintiff’s unit and in the inter-floor cement slab between the floor of Unit #13-01 and the ceiling of Unit #12-01. As this is common property, the onus is on the MCST to maintain them and there is no evidence that the MCST had carried out the rectifications.
+
+35     The defendants had repeatedly emphasised at the hearing before me that the leakage could not possibly have emanated from Unit #13-01. This was because despite the unit being unoccupied for about eight months (with zero water usage as evidenced by their utility bills) the plaintiff was still complaining of leakage from her kitchen ceiling. Various steps had also been taken, such as sealing the floor traps in the kitchen and yard, changing the concealed water inlet pipes in the kitchen to exposed pipes, and disconnecting the discharge pipe from the kitchen sink, to completely eradicate any possibility of water discharge or seepage into the plaintiff’s unit.[^27]
+
+36     Because of their firm belief in the correctness of their hypothesis of the cause of the water leakage outlined in \[33\], and the measures they had taken within Unit #13-01, the defendants say that the plaintiff’s claim is totally unmeritorious and ask for its dismissal. They are particularly unhappy with the plaintiff’s delays in taking the remedial steps that had been agreed on at the CMC and STB. They dispute the findings of the plaintiff’s surveyor and question the methods he employed in his inspection. They allege that the plaintiff’ is being opportunistic as shown by the quotation obtained from her contractor, Tab Gallery Pte Ltd, for rectification works amounting to $44,130 which would allow her to overhaul her 30-year old property at their expense.
+
+## Procedural history
+
+### MC/OSS 2/2018
+
+37     The plaintiff had commenced action by way of an originating summons (“OS”) filed in the Magistrate’s Court in MC/OSS 2/2018. In the OS, she sought _inter alia_ an order for the defendants to carry out the rectification works recommended in Mr Chin’s report. The defendants appointed solicitors, Aequitas LLC, to act for them and a substantive affidavit was filed by the second defendant to oppose the OS. The parties were then referred to the State Courts’ Centre for Dispute Resolution for mediation and also neutral evaluation but no resolution could be reached. By April 2019, the parties had decided that the dispute had to move forward. The defendants had during this time also changed lawyers to Infinitus Law Corporation.
+
+### DC/OSS 82/2019 – conversion of OS to Writ action
+
+38     As recounted in the Oral GD, due to the substantial factual disputes disclosed in the affidavits filed by both sides, the plaintiff applied to transfer the matter to the District Court and to convert the OS to a writ action in the district court. A writ action in the Magistrate’s Court (“MC”) was not appropriate as the issues to be determined rendered the proceedings unamenable to the simplified process in O 108 of the Rules of Court (Cap 322, R 5) which regulates MC suits.
+
+39     The transfer application was made in DC/OSS 82/2019 pursuant to s 54A of the State Courts Act (Cap 321). It was contested by the defendants. The second defendant filed an affidavit to oppose the conversion to a writ action. Just before the hearing of DC/OSS 82/2019, the defendants filed their Notice of Intention to Act in Person.
+
+40     Both defendants attended in person at the hearing on 21 June 2019 before a district judge[^28], (“the DJ”). It appears from the record of the hearing that it was the second defendant who made the arguments before her – they did not oppose the transfer of the case to the district court but objected to the matter being converted to a writ as they argued that it was a straightforward case. The arguments made included the defendants’ disagreement with the surveyor’s finding that the waterproofing in their unit was the cause of the water leakage, and their allegation that the plaintiff had committed perjury by her statement that the MCST had repaired the common pipes in her property.
+
+41     The plaintiff’s application was allowed. The certified transcript of the DJ’s notes of evidence (“21 June NE”) where her decision was pronounced stated as follows:
+
+> Ct:    There is clearly a substantial dispute of fact here. The Defendants have put forth a certain position, and the Plaintiff have put forth another. This is clearly a matter which has to be settled in a trial. I am satisfied that the appropriate course of action is to convert this to a writ.
+
+> Directions for the filing:
+
+> Writ and Statement of Claim to be filed by Plaintiff by 12 July 2019 at 4pm, and serve once approved.
+
+> Defence and Counterclaim to be filed and served by Defendants, 3 weeks from date of service.
+
+> Reply to be filed 3 weeks after service of Defence.
+
+42     Pursuant to the DJ’s order of 21 June 2019, the parties were notified that MC/OSS 2/2018 had been transferred to the district court and thereafter converted to DC Suit 1955/2019.
+
+## Summons 3552
+
+43     In accordance with the DJ’s filing directions, the plaintiff filed her Statement of Claim on 12 July 2019. The record shows that the defendants filed their Defence and Counterclaim comprising 73 pages (including three photographs) on 6 August 2019 while the plaintiff filed her Reply and Defence to Counterclaim on 23 August 2019.
+
+44     On 11 September 2019, the defendants filed a summons (DC/SUM 3552/2019) seeking the following orders:
+
+> “1.    That the **CASE BE STRUCK OUT** and **JUDGMENT** on our (Defendants’) **COUNTERCLAIM** on the grounds of the Rules of Court O. 18 r.3, O. 18 r. 20, O. 19 r. 8 and Rules 2 to 7, Order 18 rule 19(1).
+
+> 2.    All costs (including documents processing of this application) related to this application/case to be paid by the Plaintiff, Mdm Wong Lai Kuen.
+
+> 3.    Such further and/or other relief as this Honourable Court deems fit.”
+
+45     As succinctly stated in the learned DR’s Oral GD at \[3\], the defendants’ striking out application is premised on broadly two grounds, namely (1) that the plaintiff filed her Reply and Defence to Counterclaim late; and (2) that the plaintiff’s claim has no merit and she has abused the court process for her personal gain. These were also the two issues which were articulated by the DR. I will deal with them similarly in this judgment though they are rephrased with a slight difference as follows:
+
+> (a)     whether the plaintiff’s claim ought to be struck out upon her failure to file and serve her Reply and Defence to Counterclaim within the time stipulated in O 18 r 3 of the Rules of Court;
+
+> (b)     whether the plaintiff’s claim ought to be struck out pursuant to O 18 r 19(1) of the Rules of Court; and
+
+> (c)     if the plaintiff’s claim is struck out, whether judgment ought to be entered on the defendants’ counterclaim.
+
+## Whether the plaintiff’s claim ought to be struck out upon her failure to file and serve her Reply and Defence to Counterclaim within the time stipulated in O 18 r 3
+
+### Was the plaintiff late in filing/service of her Reply and Defence to Counterclaim?
+
+46     In her supporting affidavit, the second defendant claimed that the plaintiff’s Reply and Defence to Counterclaim which was served on them at 6.07pm on 23 August 2019 was served three days late[^29]. This was because they had served their Defence and Counterclaim on the plaintiff’s solicitors on 6 August 2019. By reference to O 18 r 3, the last day for the plaintiff to serve her Reply and Defence to Counterclaim was 20 August 2019, being 14 days after the service of their Defence and Counterclaim. For ease of reference, O 18 r 3(4) states:
+
+> (4)  A reply to any defence must be served by the plaintiff before the expiration of 14 days after the service on him of that defence, and a defence to counterclaim must be served by the plaintiff before the expiration of 14 days after the service on him of the counterclaim to which it relates.  
+
+47     The defendants’ case is simply that since the plaintiff had failed to comply with O 18 r 3 in serving her Reply and Defence to Counterclaim within the stipulated time, they are entitled to enter judgment on their counterclaim[^30]. They rely specifically on O 19 r 8 read with O 19 rr 2 to 7 which allow a defendant to enter judgment on his counterclaim in a situation where the plaintiff being the party against whom the counterclaim is made fails to serve a defence to counterclaim. They had also quoted O 18 r 20 which provides for when pleadings in an action are deemed to be closed, which according to their computation would be on 20 August 2019.
+
+48     I note that the learned DR had dealt with this issue comprehensively at \[7\] to \[16\] of the Oral GD. I am in entire agreement with his findings and analysis therein. In essence, the DR found that the plaintiff was _not_ late in filing, and service, of her Reply and Defence to Counterclaim. This was because the Reply and Defence to Counterclaim which the plaintiff had filed on 23 August 2019 and served by email to the defendants also on 23 August 2019 was in compliance with the directions given by the DJ on 21 June 2019.
+
+49     As can be seen from the 21 June NE, each party was in fact given three weeks to file and serve their respective pleadings instead of the 14 days provided for in the Rules of Court. As the defendants were served the Statement of Claim on 16 July 2019, they had three weeks therefrom to file and serve their Defence and Counterclaim which they did on the last day of the three weeks, on 6 August 2019. The plaintiff would then have until 27 August 2019 to file and serve her Reply and Defence to Counterclaim. As her solicitors had filed and served the Reply and Defence to Counterclaim on 23 August 2019, this was well within the timeline given by the DJ in her order of 21 June 2019.
+
+50     The defendants have, however, insisted that the DJ did _not_ give the last direction for the plaintiff to file and serve her Reply and Defence to Counterclaim. They claim that they did not hear anything said about a Reply and Defence to Counterclaim[^31]. Since they did not hear such a direction, they therefore insist that O 18 r 3 should apply[^32]. While disputing that the DJ had given the plaintiff three weeks to file her Reply and Defence to Counterclaim, they then point to her NE which expressly state, “Reply to be filed 3 weeks after service of Defence”. As no mention was made by the DJ of the Defence to Counterclaim, they argue that the timeline stipulated in O 18 r 3 should apply such that the plaintiff had to serve her Defence to Counterclaim within 14 days from 6 August 2019. Further, since O 18 r 3(3) requires a defence to counterclaim to be filed in the same document as the reply, the same 14-day “default” timeline has to apply to the plaintiff’s Reply and Defence to Counterclaim. The plaintiff’s Reply and Defence to Counterclaim which was filed and served on 23 August 2019 was accordingly late and in breach of O 18 r 3(4).
+
+51     It appears that after reading the plaintiff’s affidavit of 4 October 2019, the defendants, in Mun’s 2nd Affidavit, have shifted their position as to the date of service of the plaintiff’s Reply and Defence to Counterclaim. The later affidavit now asserts that the Reply and Defence to Counterclaim was served on 28 August 2019 and not 23 August 2019 as stated previously. The later date means that the delay is not three days but eight days after the expiry of the 14 days under O 18 r 3(4).
+
+52     The defendants also query why there appears to be three different versions of the directions given by the DJ on 21 June 2019 as stated by the plaintiff in her solicitors’ letters and in her affidavit of 4 October 2019, with a fourth version as per the 21 June NE. They reiterate that they did not hear several of the words which appear therein and emphasise in their appeal submissions that they stand by the first and only version of the directions which has no mention of a reply and defence to counterclaim[^33].
+
+#### Official record
+
+53     As I had informed the defendants at the hearing of the appeal on 25 February 2020, the authoritative record of what had actually transpired at the court hearing would be the official court record as confirmed by the certified transcript. This is with reference to O 38A rr 1-2 which state as follows:
+
+> (1)    An official record shall be made of every hearing and the official record of hearing shall consist of the following:
+
+>> …
+
+>> (_b_)    in a hearing where an audio recording system is not used, the notes of hearing recorded in such manner as the Registrar or the Court may determine.
+
+> (2)    Any party may apply for a certified transcript of the official record of hearing on payment of such fees as the Registrar may determine.
+
+54     At the hearing on 25 February 2020, I had in fact looked into the record of DC/OSS 82/2019 and read out to the parties the notes recorded by the DJ at the hearing on 21 June 2019. The directions the DJ gave are as recited at \[11\] of the plaintiff’s affidavit filed on 4 October 2019, with the full text of the 21 June NE annexed to that affidavit as exhibit “WLK-1”.
+
+55     Hence, whether or not the defendants had heard the three filing directions given on 21 June 2019 is immaterial. In order to determine what directions had been given to the parties which they are required to comply, the court would rely on the official record as confirmed in the transcript which had been duly certified by the DJ herself as a true copy.
+
+56     Given that the order made in DC/OSS 82/2019 was for _inter alia_ the conversion of the originating summons to a writ action after its transfer to the district court, the directions which followed were for both parties to file and serve their respective pleadings. This would be expected since the order which was made, although not expressly stated, was obviously made pursuant to O 28 r 8 which states that:
+
+> Where, in the case of a cause or matter begun by originating summons, it appears to the Court at any stage of the proceedings that the proceedings should for any reason be continued as if the cause or matter had been begun by writ, it may order the proceedings to continue as if the cause or matter had been so begun and may, in particular, order that pleadings shall be delivered or that any affidavits shall stand as pleadings, with or without liberty to any of the parties to add thereto or to apply for particulars thereof.
+
+57     In this case, the DJ had ordered that pleadings be delivered and she had allowed the parties three weeks each, with the time to start running for each party from the date the other party’s pleading was served on them. Given that the court would always ensure that the process is fair to both sides, it would be odd, in my view, for the DJ to give three weeks for the first two sets of pleadings but have intended that the 14-day timeline be imposed for the last set being the reply and defence to counterclaim. As to the omission of the defence to counterclaim, this to me, is clearly inadvertent. Since the defendants had informed the judge that they wanted to counterclaim and a specific direction was given for the defence and counterclaim to be filed and served by the defendants, it would follow as a matter of course that the plaintiff would be entitled to file, in response thereto, a reply and defence to counterclaim. As pointed out by the DR at \[12\] of the Oral GD, the court’s direction must be construed as referring to _both_ the reply _and_ defence to counterclaim since O 18 r 3(3) stipulates that a reply and defence to counterclaim must be included in the same document.
+
+58     Further, an order for conversion of the OS to a writ action as provided in O 28 r 8 is effectively for the proceedings to continue “as if the cause or matter had been begun by writ”. Hence, the word “writ” mentioned in the 21 June NE was unnecessary. The proceedings already commenced would now be treated as a writ action with proper pleadings to be filed setting out the parties’ respective cases.
+
+#### Last day for plaintiff to serve her reply and defence to counterclaim
+
+59     It is not disputed that the defendants had served their Defence and Counterclaim on 6 August 2019, the last day for them to do so pursuant to the DJ’s direction _ie_ 21 days from 16 July 2019. The court record shows that it was filed at 6.01pm on 6 August 2019. This would necessarily mean that the defendants could only have served their Defence and Counterclaim _after_ 6.01pm on 6 August 2019. While a document served before midnight on any particular day is deemed to have been served on that day (see O 62 r 6A), for the purposes of computing time, O. 62 r 8(1) provides as follows:
+
+> 8.–(1)    Where the service of any document is effected under these Rules on a working day before 4 p.m., it shall, for the purpose of computing any period of time after service of that document, be deemed to have been served on that working day, and, in any other case, on the working day next following.
+
+60     Hence, applying O. 62 r 8(1), the Defence and Counterclaim is deemed to have been served on 7 August 2019. Since the plaintiff had three weeks to file and serve her Reply and Defence to Counterclaim, the last day for her to do so would be 28 August 2019 before 4pm. According to the court record, the plaintiff’s solicitors had filed the Reply and Defence to Counterclaim at 5.21pm on 23 August 2019. It is not disputed that they had sent it by email on the same day to the defendants. The second defendant had also in her first affidavit stated that service was effected on 23 August 2019[^34] although she subsequently recanted this position when informed of the DJ’s directions. The emails exhibited shows that the plaintiff’s solicitors had sent, and the second defendant had received, the Reply and Defence to Counterclaim at 6.07pm on 23 August 2019. By virtue of O. 62 r 8(1), it is deemed to have been served on 24 August 2019 subject to a finding of fact that the parties had agreed to ordinary service of documents by email. The DR had found sufficient evidence of such an agreement (see Oral GD at \[15\]) and I agree with him. The evidence can be found in Mun’s 2nd Affidavit at Tab-2 of Exhibit “MSH-1” where the following emails are exhibited:
+
+> (a)     Email dated 16 July 2019 time-stamped 9.45am from Christopher Yeo where he had stated:
+
+>> “As requested, we have arranged for our process server to make a trip down this morning and he should arrive before 1pm. Please note that personal service is not required for all documents, and in fact, most documents do not need personal service.
+
+>> Moving forward, we suggest that we exchange communications with you through email as that means to be a viable mode of communication exchange as between us. We will still send the hardcopies by ordinary post. If you have a fax number, please let us know as we can also send communication by fax.”
+
+> (b)     Email dated 23 July 2019 time-stamped 12.16 from the defendants where they stated:
+
+>> “1.    We refer to your email dated 16 Jul 2019 at 9.45 am and please be informed that we do not have a fax number.
+
+>> 2.    …
+
+>> 3.    Therefore we will file and serve our Defence and Counterclaim by 6 August 2019, this date is also stated in your email dated 15 July 2019 at 10.32 am. …”
+
+> (c)     Email dated 23 July 2019 at 1.33pm from Christopher Yeo where he had stated at paragraph 2:
+
+>> “2.    We note that you do not have a fax number. Moving forward, we will communicate with you by email and post.
+
+>> 3.    As was directed by the Learned District Judge, Ms Ong Luan Tze on 21 June 2019, and as mentioned in our letter dated 15 July 2019 (which you received on 16 July 2019), you are required to file your Defence and Counterclaim within 3 weeks, i.e., by 6 August 2019.”
+
+> (d)     Email dated 6 August 2019 time-stamped at 00.47 from the defendants where they stated at paragraph 3:
+
+>> “Please refer to your latest email dated 23 July 2019 at 1.33pm, paragraph 3 “…you are required to file your Defence and Counterclaim within 3 weeks, i.e., by 6 August 2019.” We will file the document by 6 Aug 2019 and likewise, will serve on you after the Court approve it.”
+
+61     It will be seen from the above email exchange that the defendants did not disagree with Mr Yeo’s proposal to use email as the viable mode of communication between them. They have also not disputed that they had served their Defence and Counterclaim on the plaintiff’s solicitors by email on 6 August 2019 after the same was filed. It appears now to be disingenuous on their part to say that they did not agree to service of the Reply and Defence to Counterclaim by email, which they received on 23 August 2019 at 6.07pm[^35].
+
+62     Even if I were wrong in my finding that the defendants had agreed to service of the Reply and Defence to Counterclaim by email, they did in any event receive the hard copy on 28 August 2019[^36]. The service of the Reply and Defence to Counterclaim by post on 28 August 2019 was still within time, being 21 days from 7 August 2019 as I have explained at \[60\].
+
+63     The plaintiff was accordingly not late in the filing or service of her Reply and Defence to Counterclaim. There was no breach of the DJ’s order made on 21 June 2019. Neither has there been a breach of O 18 r 3.
+
+### No basis to strike out plaintiff’s case for breach of O 18 rr 3, 20
+
+64     The defendants argued vehemently that the Rules of Court have to be strictly complied with – the plaintiff’s failure to abide by the Rules gave them the right to have the plaintiff’s case struck out. This is what they stated[^37]:
+
+> xiii.  In any event, under O.18, r.20 the pleadings have closed at the expiration of 14 days, and this is the main grounds along with O.18,r.3 and O.19, r.8 and Rules 2 to 7 for striking out under the Rules of Court. 
+
+> xiv.  In all circumstances, the Defendants maintain our stance that the indisputably late serving of the Reply and Defence  to Counterclaim (failure to abide by O.18, r.3) AFTER the pleadings in an action are closed (failure to abide by O.18, r.20) have allowed us the right to apply Rules of Court O19,r.8 and Rules 2 to 7 to exit this tedious 4year-long legal suit which arose by no fault of ours. We have nonetheless done everything that we could, but the Plaintiff is uncooperative and just wants to maximize her alleged claims by abusing the Court process.
+
+> xv.    The Deputy Registrar is of the opinion that the indisputably late serving by 1 day (actually 8 days from 20 August 2019, refer to Defendants’ Affidavit dated 18 Oct 2019 paragraph 1 to 50 especially paragraph 50 d) by the Plaintiff does not make a difference to the case. We beg to differ. To the Plaintiff and the court, it may not make a difference, but to the Defendants, this unfairly disadvantages our position in the proceedings of the case.
+
+> xvi.  By allowing the Plaintiff’s side to bend the Court rules at the expense of the Defendants, this compromises the fair proceedings in the case. This is not justifiable.
+
+> xvii. Furthermore, we wish to stress and highlight that whether 8 days late, 1 day late or 1 minute late due to failure to abide by the Rules of Court, late is late and Rules of Court are Rules of Court. This is a MATTER OF LAW, NOT A MATTER OF CHOICE. 
+
+65     They took issue with the DR’s reasoning at \[16\] of his Oral GD that a one-day delay cannot possibly lead to a striking out of the plaintiff’s entire claim. Such a result, as highlighted by the DR, would be a wholly disproportionate outcome to a breach of timelines, especially when the delay was one day. Contrary to the defendants’ stance, the DR’s position is entirely in line with the law. This position is clearly articulated in the Rules themselves in O 2 r 1, as well as in caselaw.
+
+66     One good example is the Court of Appeal’s decision in _The Tokai Maru_ <span class="citation">\[1998\] 2 SLR(R) 646</span>. The Court, in allowing a defendant an extension of time to file its affidavit of evidence-in-chief and restoring the defence that had been struck out by the High Court under O 18 r 19, made the following observations at \[22\] to \[23\] with regard to how a court ought to deal with procedural defaults. They are a particularly apt response to the defendant’s arguments, and I reproduce them for their full effect below:
+
+> 22    Our attention was also drawn to the following passage from Bowden LJ’s judgment in _Cropper v Smith_ (1884) 26 Ch D 700 at 710:
+
+>> Now, I think it is a well established principle that the object of the courts is to decide the rights of the parties, and not to punish them for mistakes they make in the conduct of their cases by deciding otherwise than in accordance with their rights. Speaking for myself, and in conformity with what I have heard laid down by the other division of the Court of Appeal and by myself as a member of it, I know of no kind of error or mistake which, if not fraudulent or intended to overreach, the court ought not to correct, if it can be done without injustice to the other party. **_Courts do not exist for the sake of discipline, but for the sake of deciding matters in controversy._**
+
+>> 23    We note that the instant case involves an application to extend time coupled with an application to strike out the defence, whereas _Costellow_ involved an application to extend time coupled with an application to strike out the action. Nonetheless, we are of the view that similar principles should apply in both cases, and these principles are as follows:
+
+>> (a)    Both the appellants’ application for extension of time and the respondents’ application to strike out the appellants’ defence are inextricably linked in that the appellants’ defence would naturally be struck out if the application to extend time is refused. Both applications should therefore be considered together in determining what justice requires, and the case is best viewed in the round.
+
+>> (b)     **_The rules of civil procedure guide the courts and litigants towards the just resolution of the case and should of course be adhered to. Nonetheless, a litigant should not be deprived of his opportunity to dispute the plaintiff’s claims and have a determination of the issues on the merits as a punishment for a breach of these rules unless the other party has been made to suffer prejudice which cannot be compensated for by an appropriate order as to costs._**
+
+>> (c)    Save in special cases or exceptional circumstances, it can rarely be appropriate then, on an overall assessment of what justice requires, to deny a defendant an extension of time where the denial would have the effect of depriving him of his defence because of a procedural default which, even if unjustified, has caused the plaintiff no prejudice for which he cannot be compensated by an award of costs.
+
+(emphasis in **bold italics** added **)**
+
+67     It is abundantly clear that the defendants’ striking out application in response to a minor breach (if at all this was true) of a day or even three days’ delay in service of the plaintiff’s Reply and Defence to Counterclaim is a wholly disproportionate response. Even if the 14-day timeline in O 18 r 3 had applied in this case (which is not the finding of the court), the defendants have not shown in what way they have suffered prejudice by the short delay. Accordingly, the DR was correct in refusing the defendants’ application.
+
+68     In addition to the above, I should also state that the defendants’ reliance on O 18 r 20 as a ground to strike out the plaintiff’s claim is misplaced. The provision to determine when pleadings are closed is because the operation of other rules to progress the action is dependent on this event. As explained by the learned editors of _Singapore Civil Procedure_, _vol 1_ (Hon Justice Chua Lee Ming ed) (10th ed, 2020) at para 18/20/1, the significance of this rule lies in its intention to bring all issues in dispute to a close, and to fix the date by reference to which the summons for directions must be issued. Contrary to the defendants’ submissions, it does not mean that no further documents can be filed in the suit after this date.
+
+## Whether there are any grounds to strike out the claim under O 18 r 19(1)
+
+69     For this part of the defendants’ application, the learned DR had first stated the various limbs of O 18 r 19(1) and set out the principles of law applicable to a striking out (see Oral GD at \[17\] and \[18\]) before dealing with their extremely detailed and involved arguments. The DR had also observed that the defendants did not link their arguments to the specific limbs of O 18 r 19(1) which legal practitioners would recognise to be a reference to the Court of Appeal’s exhortation in _The Bunga Melati 5_ <span class="citation">\[2012\] 4 SLR 546</span> (“_Bunga Melati_”) at \[30\]:
+
+>> In our view, it would be a good practice for an applicant of a striking out order to precisely correlate the arguments it advances to the _exact limb_ under O 18 r 19(1) of the ROC which it seeks to rely on. Such a practice will assist the courts to better understand the thrust of the applicant’s arguments and assess them. While there is some similarity and overlap amongst the four limbs of O 18 r 19(1) of the ROC, each limb, conceptually speaking, serves a specific purpose apropos the court’s power to summarily dismiss a party’s claim.  
+
+70     Inexplicably, even on these incontrovertible aspects in the Oral GD, the defendants have demurred[^38].
+
+71     The DR’s approach was clearly a sensible one as it serves to guide one’s deliberations in considering the validity of the arguments raised. I would adopt the same approach by first setting out the applicable law and the relevant authorities which this court is bound to follow. I will then deal with the defendants’ application under each limb in O 18 r 19(1) to examine if a striking out is warranted.
+
+### The law on striking out
+
+72     The starting point is O 18 r 19(1) itself:
+
+> **19.—(1**)    The Court may at any stage of the proceedings order to be struck out or amended any pleading or the endorsement of any writ in the action, or anything in any pleading or in the endorsement, on the ground that —
+
+>> (_a_)    it discloses no reasonable cause of action or defence, as the case may be;
+
+>> (_b_)    it is scandalous, frivolous or vexatious;
+
+>> (_c_)    it may prejudice, embarrass or delay the fair trial of the action; or
+
+>> (_d_)    it is otherwise an abuse of the process of the Court,
+
+> and may order the action to be stayed or dismissed or judgment to be entered accordingly, as the case may be.
+
+> (2)    No evidence shall be admissible on an application under paragraph (1)(_a_).
+
+73     It is well established that the threshold for striking out is a high one. In _Gabriel Peter & Partners v Wee Chong Jin <span class="citation">\[1997\] 3 SLR(R) 649</span>_ (“_Gabriel Peter”)_, the Court of Appeal opined at \[18\]:
+
+> In general, **it is only in plain and obvious cases that the power of striking out should be invoked**. This was the view taken by Lindley MR in _Hubbuck & Sons, Limited v Wilkinson, Heywood & Clark, Limited_ <span class="citation">\[1899\] 1 QB 86</span> at 91. It should not be exercised by a minute and protracted examination of the documents and facts of the case in order to see if the plaintiff really has a cause of action. The practice of the courts has been that, where an application for striking out involves a lengthy and serious argument, the court should decline to proceed with the argument unless, not only does it have doubts as to the soundness of the pleading but, in addition, it is satisfied that striking out will obviate the necessity for a trial or reduce the burden of preparing for a trial.
+
+(emphasis in **bold** italics added)
+
+#### O 18 r 19(1)(a) – “no reasonable cause of action”
+
+74     With regard to limb (a) of O 18 r 19(1), the Court of Appeal in _Gabriel Peter_ had explained at \[21\] as follows:
+
+> The guiding principle in determining what a "reasonable cause of action” is under 0 18 r 19(l)(a) was succinctly pronounced by Lord Pearson in _Drummond-Jackson v British Medical Association_ \[1970\] I All ER 1094. _A reasonable cause of action, according to his lordship, connotes a cause of action which has some chance of success when only the allegations in the pleading are considered. As long as the statement of claim discloses some cause of action, or raises some question fit to be decided at the trial, _the mere fact that the case is weak and is not likely to succeed is no ground for striking it out. 
+
+(emphasis in italics added)
+
+#### O 18 r 19(1) (b) – “scandalous, frivolous or vexatious”
+
+75     With regard to limb (b) – “scandalous, frivolous or vexatious” – this was explained succinctly by the Court of Appeal in _Bunga Melati_ after its survey of the local caselaw then available_._ To provide greater clarity, the Court devised an analytical formulation of the test based on the instructive analysis of a House of Lords case, _Three Rivers District Council v Governor and Company of the Bank of England_ \[2001\] UKHL 16 _(“Three Rivers District”)_ on the general approach that a court should adopt in a striking out application. The crucial part of the judgment is set out below:
+
+> _When is an action plainly or obviously unsustainable_
+
+> _…_
+
+> 37    In our view, Lord Hope’s concise analysis at \[95\] of _Three Rivers District_ is particularly instructive:
+
+>> I would approach that further question in this way. The method by which issues of fact are tried in our courts is well settled. After the normal processes of discovery and interrogatories have been completed, the parties are allowed to lead their evidence so that the trial judge can determine where the truth lies in the light of that evidence. To that rule there are some well-recognised exceptions. For example, it may be clear as a matter of law at the outset that even if a party were to succeed in proving all the facts that he offers to prove he will not be entitled to the remedy that he seeks. In that event a trial of the facts would be a waste of time and money, and it is proper that the action should be taken out of court as soon as possible. In other cases it may be possible to say with confidence before trial that the factual basis for the claim is fanciful because it is entirely without substance. It may be clear beyond question that the statement of facts is contradicted by all the documents or other material on which it is based. The simpler the case the easier it is likely to be to take that view and resort to what is properly called summary judgment. But more complex cases are unlikely to be capable of being resolved in that way without conducting a mini-trial on the documents without discovery and without oral evidence. As Lord Woolf said in \[_Swain v Hillman_ \[2001\] 1 All ER 91 at 95\] that is not the object of the rule. It is designed to deal with cases that are not fit for trial at all.
+
+> 38    An analytical understanding of Lord Hope’s holding would reveal the two grounds upon which, in his view, a party’s claim may be struck out by the court: First, on the _legal ground_ that it is “clear as a matter of law at the outset that even if a party were to succeed in proving all the facts that he offers to prove he will not be entitled to the remedy that he seeks”; and second, on the _factual ground_ that “the factual basis for the claim is fanciful because it is entirely without substance”.
+
+> 39    In our view, this analytical, fact-law distinction can similarly be applied to O 18 r 19(1)(_b_) of the ROC or the inherent jurisdiction of the court to strike out unsustainable actions. Such a distinction helps to _more clearly elucidate _what a court means when it holds that an action is “plainly or obviously” unsustainable. Applying this conceptual prism, a “plainly or obviously” unsustainable action would be one which is either:
+
+>> (a)     _legally unsustainable_: if “it may be clear as a matter of law at the outset that even if a party were to succeed in proving all the facts that he offers to prove he will not be entitled to the remedy that he seeks”; or
+
+>> (b)     _factually unsustainable:_ if it is “possible to say with confidence before trial that the factual basis for the claim is fanciful because it is entirely without substance, \[for example, if it is\] clear beyond question that the statement of facts is contradicted by all the documents or other material on which it is based”.
+
+#### O 18 r 19(1)(c) – “prejudice, embarrass or delay the fair trial of the action”
+
+76     As to O 18 r 19(1)(c), this limb touches on compliance with the rules of pleading. The High Court in _Ezion Holdings Ltd v Credit Suisse AG_ <span class="citation">\[2018\] 3 SLR 356</span> gave an example of how a pleading (in that case, of malice in libel proceedings) could be struck out as being defective for not adhering to the rules of pleading. The High Court observed at \[28\] that it is uncontroversial that a pleading may be struck out on the ground that it “may prejudice, embarrass or delay the fair trial of the action”. Such “\[p\]rejudice or embarrassment may result when a party fails, in a fundamental sense, to comply with the rules of pleading or other rules with the consequence that the other party is put at a disadvantage in his ability to respond”, citing Jeffrey Pinsler SC’s seminal work, _Singapore Court Practice 2017_, vol 1 (LexisNexis, 2017) at p 810.
+
+#### O 18 r 19(1)(d) – “abuse of process of the Court”
+
+77     Finally, with regard to limb (d) of O 18 r 19(1), the High Court in _Chee Siok Chin v Minister for Home Affairs_ <span class="citation">\[2006\] 1 SLR(R) 582</span> (“_Chee Siok Chin_“) held at \[34\] that:
+
+> The instances of abuse of process can therefore be systematically classified into four categories, _viz_:
+
+>> (a)    proceedings which involve a deception on the court, or are fictitious or constitute a mere sham;
+
+>> (b)    proceedings where the process of the court is not being fairly or honestly used but is employed for some ulterior or improper purpose or in an improper way;
+
+>> (c)    proceedings which are manifestly groundless or without foundation or which serve no useful purpose;
+
+>> (d)    multiple or successive proceedings which cause or are likely to cause improper vexation or oppression.
+
+### O 18 r 19(1)(a): Does the statement of claim disclose a reasonable cause of action?
+
+78     Whether or not a reasonable cause of action is disclosed is to be determined solely upon a consideration of the plaintiff’s Statement of Claim. No affidavit evidence is admissible as stipulated on O 18 r 19(2). Looking at the averments in the Statement of Claim, it would appear that relevant facts and matters have been pleaded to constitute a cause of action for _inter alia_ breach of statutory duty. The Statement of Claim raises the question of whether the damage to the plaintiff’s property was caused by the defective waterproofing in the defendants’ property, and it presents serious issues which will have to decided at a trial.
+
+79     The defendants’ copious submissions on the allegedly questionable evidentiary aspects of the plaintiff’s case do not address the crucial issue of whether a cause of action has been disclosed on the face of the statement of claim. The specific reference in Mun’s 1st Affidavit to O 18 r 19(1)(a) at \[32\] displays an obvious misconception of what a reasonable cause of action entails in law; see below:
+
+> “Hence, instead of working with the MCST to address the defects which are clearly **visible and confirmed** according to her surveyor’s recommendations, the Plaintiff had instead initiated an action against the Defendants for the alleged not visible, not tested and not proven defects in order to fulfil her personal gain. **There is clearly no reasonable cause of action and under Order 18, Rule 19(1)(a) of the Rules of Court, we humbly pray for the case to be struck out.”**
+
+(emphasis in **bold** in original)
+
+80     The defendants’ lengthy Defence and Counterclaim which proffers an alternative theory for the damage to the plaintiff’s property, in and of itself, shows that the case presented by the plaintiff raises serious questions to be decided by the court. Clearly, this is far from being a plain and obvious case for striking out.
+
+81     The defendants’ application for striking out under O 18 r 19(1)(a) is accordingly dismissed.
+
+### O 18 r 19(1)(b): Is the plaintiff’s claim frivolous or vexatious?
+
+82     The DR had provided a succinct analysis of the case from \[20\] to \[29\] of his Oral GD. At \[22\] and \[29\], he had stated his conclusion that based on the materials before the court, there is some basis for the plaintiff’s claim and as such, there are no grounds to strike out the claim on the basis that it is legally or factually unsustainable. I fully agree and endorse his conclusion.
+
+83     At \[20\] of his Oral GD, the DR had noted that the defendants spent a significant amount of time arguing that the plaintiff had no case because it was “_plain, obvious and straight-forward_” that the water damage in the Unit #12-01 was not caused by any defective waterproofing in Unit #13-01. He dwelt at some length on the defendants’ case theory that the damage caused to Unit #12-01 was due to the water discharge from the severely corroded common downpipes situated within Unit #12-01 and in the inter-floor concrete slab between the two units and the evidence they had in support.
+
+84     Contrary to the defendants’ submissions, it is clear that the DR had considered in detail the points that the defendants sought to put across. In particular, he had considered the defendants’ criticisms of the plaintiff’s expert’s reports, their forceful assertion of their “_indisputable evidence_” in the form of “zero” utility bills for Unit #13-01, and the plaintiff’s failure to ensure that the common downpipes were repaired by the MCST, and suing the MCST instead of them. I deal with each of these points below.
+
+#### The defendants’ assertions on the cause of water damage and their criticisms of the plaintiff’s expert’s reports
+
+85     The DR had at \[23\] to \[26\] of his Oral GD expressed his reservations on the defendants’ theory regarding the cause of the water damage. He had pointed out to the defendants that such evidence should properly come from an expert which the defendants do not accept. The DR had also pointed out that the defendant’s criticisms of Mr Chin’s reports would not lead to a wholesale rejection of the reports at this stage of the proceedings. This is because there is no countervailing expert evidence from the defendants, the evidence from Mr Chin would have to be tested in cross-examination and further, Mr Chin has yet to file a formal report in accordance with the requirements of O 40A.
+
+86     I fully agree with the DR’s views. The defendants’ case theory as expressed at \[64\] to \[66\] of Mun’s OS Affidavit appears to be matters within the realm of expert testimony. It touches on the properties and behaviour of building materials under specific conditions – evidence of such matters has to come from persons with the relevant technical expertise. It might be that the defendants themselves possess such expertise but they have not stated so anywhere in their affidavits. Instead, the indication given by them is that these are matters of common sense which lay persons can testify to. While the defendants have the prerogative in how they wish to present their case, ultimately the court would have to determine the admissibility of such evidence in accordance with the provisions of the Evidence Act (Cap 97).
+
+87     As to the concerns that the defendants have expressed on the methodology employed by Mr Chin and his conclusions which they allege are unsupported, such challenges can be made at the trial with relevant countervailing evidence so that the court can properly assess and make its findings on an objective and reasoned basis. The striking out application is not the proper forum for the outright dismissal of the plaintiff’s expert’s reports.
+
+88     As they stand, the three reports provide adequate _prima facie_ evidence in support of the plaintiff’s case. Hence, the DR’s conclusion that the plaintiff’s case is not one that is factually unsustainable is well-founded.
+
+#### The defendants’ “indisputable evidence” of zero water usage
+
+89     The DR had, at \[27\] to \[29\] of the Oral GD, dealt with the defendants’ repeated argument that the fault could not lie with their alleged defective waterproofing since there was no water usage in Unit #13-01 (“PUB water bills showing $0/=”) for several months as follows:
+
+> **_The Defendants’ evidence showing no water usage in #13-01 is insufficient to establish that #13-01 played no part in causing the water damage to #12-01_**
+
+> 27.    The Defendants relied heavily on the fact that during the periods where there was no water usage for #13-01, the Plaintiff nevertheless complained of active water seepage during the period. The Defendants consider that as “a matter of common sense” this must mean the water damage was not caused by the Defendants. I am unable to agree. Firstly, the Defendants’ water bills show that there was no water usage after around July 2018. However, the Plaintiff’s complaints of water damage began in January 2016. It is unclear if there was similarly no water usage in #13-01 in the period leading up to January 2016, and in the period after when the water damage got progressively worse.
+
+> 28.    Secondly, the Plaintiff’s expert Mr. Chin had noted in his report dated 26 March 2019 that he did not observe any active water seepage during his inspection in February 2019. He considered that this was because #13-01 had been unoccupied for about 10 months, since approximately April 2018. In other words, there is some evidence that the cessation of water use in #13-01 had halted the water seepage. If so then this would provide some support for the Plaintiff’s assertion that defective water proofing in #13-01 caused the water damage in #12-01.
+
+> 29.    Ultimately, the issue of the cause(s) of the water damage to #12-01 is something for the experts to opine on. The materials relied upon by the Defendants do not conclusively and determinatively show that #13-01 played no part in causing the water damage to #12-01. On the contrary, based on the materials before the Court, there is some basis for the Plaintiff’s claim and as such there are no grounds to strike out the Plaintiff’s claim on the basis that it is legally or factually unsustainable.
+
+90     In my view, the DR’s analysis shows that he had carefully examined what the defendants regarded as “_indisputable evidence_” in support of their case together with the findings of the plaintiff’s expert. As he had sought to explain, the defendants’ evidence is far from being conclusive since the evidence of zero water usage applies to the period after around July 2018 whereas the plaintiff’s complaints had surfaced much earlier in January 2016. Further, the report from the plaintiff’s expert in March 2019 showed no active water seepage during his inspection in February 2019. This would lend support to the plaintiff’s case that the defective waterproofing in Unit #13-01 was the effective cause of the damage to her property since the cessation of water seepage had corresponded with the period after water usage was halted in Unit #13-01.
+
+91     Having examined the various affidavits filed by the defendants, I am in entire agreement with the DR’s views. In further support of an alternative view to the defendants’, I note that the utility bills of Unit #13-01 which they tendered showed cessation of water usage from about June 2018 onwards[^39]. The earliest utility bill exhibited was for the month of May 2018 which in fact recorded consistent water use from December 2017 to May 2018. Active water seepage was noted in the first and second survey reports of Mr Chin’s site visits on 18 July 2017 and 19 October 2017. However, at Mr Chin’s third visit to Unit #12-01 on 13 February 2019, he observed no active water leakage. It was noted that Unit #13-01 had been vacant since about April 2018 as informed by the MCST[^40]. There appears to be credible evidence, at least from the defendants’ own utility bills, that water leakage ceased at or around the same time when there was no water usage from their unit.
+
+92     I would also add that from my perusal of the affidavits, there appears to be discrepancies as to the defendants’ “_indisputable evidence_” in the form of their zero utility bills. As I have outlined above, the first zero utility bill shown to the court was after June 2018[^41]_viz_ for the month of July 2018. I noted, however, that the second defendant had affirmed in her affidavit of 2 May 2018 at \[76\] as follows:
+
+> 76.    The above explanation is further bolstered by the fact that despite the Defendants’ Lot not being occupied for about 8 months and the fact that the water utility bills was zero, the Plaintiff was still complaining to the MCST that her kitchen ceiling was leaking and insisting that such leakage was allegedly from our kitchen. It is evident that the Plaintiff’s allegation is plainly untenably (_sic._)
+
+93     If the above paragraph is true _ie_ that the unit was not occupied for the eight months before the affidavit was affirmed (which by my reckoning would be from about September 2017 to April 2018), it begs the question why the defendants were only able to exhibit the bills from May 2018 onwards and not earlier. The above paragraph also appears to contradict what the second defendant stated in her affidavit affirmed on 6 June 2019 at paragraph 25(e) and (f) namely:
+
+> (e)    The whole unit has been vacant since May 2018. There is no one using the unit.
+
+> (f)    Our PUB bills have been zero since July 2018 and yet the Applicant’s unit is still allegedly experiencing leakage…
+
+94     From the above extracts of the defendants’ separate affidavits filed at different times, it is reasonably obvious that the facts are not all that clear and the defendants’ own evidence appears to support the plaintiff’s case. If Unit #13-01 was vacant only from May 2018, that explains why no signs of active leakage was observed by Mr Chin on 13 February 2019. Since Unit #13-01 was occupied prior to May 2018 (presumably covering the period from July 2017 to April 2018), that would also explain why there _were_ signs of active water seepage/leakage observed by Mr Chin when he visited Unit #12-01 on 18 July 2017 and 19 October 2017.
+
+95     Looking at the defendants’ evidence juxtaposed with the three reports prepared by Mr Chin, I am more than convinced that the plaintiff’s case has far surpassed the test of factual sustainability in _Bunga Melati._ In the face of the evidence adduced thus far, it would be patently wrong, and irresponsible, for this court to say that the factual basis for the plaintiff’s claim is fanciful and entirely without substance such that the claim ought to be struck out at this stage.
+
+#### The plaintiff’s failure to ensure that common downpipes were repaired by the MCST, and not suing the MCST
+
+96     Premised on their theory that the root cause of the damage to Unit #12-01 is the defective common downpipes and not their waterproofing, the defendants alleged that the plaintiff failed to ensure that the MCST carried out the rectification works as recommended by her surveyor. The plaintiff on her part had furnished evidence of rectification works done by the MCST to the common pipes situated within her unit on 1 November 2017. The defendants say this is incomplete as the rectification works did not include the sections within their property in Unit #13-01 as well as the inter-floor slab. They further allege that instead of making the MCST as the defendant, the plaintiff started the proceedings against them and “caused damages” to them[^42].
+
+97     As pointed by the DR, the defendants’ argument was premised on them being right that Unit #13-01 played no part in causing the water damage in #12-01. Clearly, the cause of the damage is an issue to be decided at trial where the court will be able to review all the evidence and arguments. As to the plaintiff’s failure to sue the MCST, that is the prerogative of the plaintiff. If at trial, the defendants are able to disprove the plaintiff’s case, they would be entitled to seek the appropriate costs orders.
+
+98     The DR’s conclusion at \[22\] and \[29\] of his Oral GD that there is some basis for the plaintiff’s claim and as such there are no grounds to strike out the claim on the basis that it is legally or factually unsustainable is absolutely correct. The defendants’ application for striking out under O 18 r 19(1)(b) has to be dismissed.
+
+### O 18 r 19(1)(c): Is there anything in the plaintiff’s pleading that would prejudice, embarrass or delay the fair trial of the action?
+
+99     The defendants’ reference to this limb as a basis to strike out the plaintiff’s claim can be found in paragraphs 21 to 23 of Mun’s 1st Affidavit wherein she recounted the length of time taken by the plaintiff from the first complaint made in January 2016 to the proceedings at the CMC, the STB, the joint inspection and survey report before the service of the OS on them in January 2018. The assertion made is that the successive delays by the plaintiff has resulted in unfairness to the defendants as the condition of the plaintiff’s property has deteriorated since the first complaint in January 2016. She further alleges that the plaintiff is exploiting new issues to drag the case further instead of working with the MCST to have the corroded pipes repaired. The surveyor’s last report given to them in March 2019 was done 38 months after the plaintiff’s first complaint and 15 months after MC/OSS 2/2018 was served on them. All these matters have delayed the fair trial of the action.
+
+100    These allegations were dealt with by the DR at \[39\] to \[41\] of the Oral GD. As he noted, the defendants’ argument flowed from their premise that the water damage in Unit #12-01 was not caused by Unit #13-01. Considering how the matter has proceeded and reviewing the case file, the DR did not consider that there has been delay by the plaintiff. The plaintiff has her expert reports that point to the water damage being caused by the defective waterproofing in Unit #13-01. She commenced these proceedings in order to vindicate her position and has taken the necessary steps to move the matter along. Further, if the defendants consider that the matter is moving too slowly, they are at liberty to seek short timelines for future steps and an early trial date.
+
+101    While my perusal of the case file leads me to concur with the DR, I should first point out that the reasons cited by the defendants in relation to the alleged delay by the plaintiff in prosecuting her case are not recognised in law as circumstances falling within O 18 r 19(1)(c) to warrant a striking out under this limb. As stated in \[76\] above, this particular limb deals with pleadings which are non-compliant with the rules. The plaintiff’s statement of claim as framed discloses a proper cause of action against the defendants.
+
+102    As to the allegation of delay, the plaintiff’s claim has been made within the limitation period and she is entitled to proceed as allowed by law. The onus is on her to prove her claim with the necessary evidence and the defendants are entitled to challenge all aspects of causation as the law allows.
+
+103    The defendants’ application for striking out under O 18 r 19(1)(c) is misconceived and has to be dismissed.
+
+### O 18 r 19(1)(d): Is the plaintiff’s claim an abuse of process of the court?
+
+104    The defendants’ arguments under this limb of abusing the court process appear to centre on the following complaints:
+
+> (a)     that the plaintiff is mounting a frivolous and inflated claim;
+
+> (b)     that the plaintiff had committed breaches of the CMC Settlement Agreement and the STB agreement; and
+
+> (c)     that the plaintiff had committed fraud and perjury.
+
+#### Frivolous and inflated claim
+
+105    The DR had dealt with this argument at \[32\] and \[33\] of his Oral GD. In essence, the defendants’ case is that the plaintiff was using these proceedings as a vehicle to make them pay for an overhaul of large parts of her 30-year old property. They complain that the plaintiff had failed to take steps to minimise the water damage by her failure to cooperate with them or act in a reasonable way once there was water damage.
+
+106    The DR found insufficient evidence before him to conclude that the plaintiff was abusing the court process on this basis. I would go further to say that this does not qualify as abuse of court process within the categories outlined by the High Court in _Chee Siok Chin._ The plaintiff has shown that she has a valid _prima facie_ case against the defendants based on the three expert reports. If she succeeds on the issue of liability, the onus is still on the plaintiff to prove her damages. As correctly pointed out by the DR, she will have to prove that each of her claims is linked to the defendants’ breach. If any part of the claim cannot be so linked (for example, if water damage in a particular area was caused by defective common pipes that are the MCST’s responsibility) then that part of claim will not be allowed. The defendants are entitled to challenge the plaintiff’s claims at trial and if they succeed, there would be costs consequences.
+
+107    Ultimately, it is a question of proof that the plaintiff has to discharge to the satisfaction of the court before her claims can be allowed.
+
+#### The plaintiff had committed breaches of the CMC Settlement Agreement and the STB agreement
+
+108    The defendants’ allegations that the plaintiff has breached the settlement agreements are on two aspects:
+
+> (a)     she failed to appoint contractors to address the defects and issues within her premises at her own cost; and
+
+> (b)     she failed to treat them with respect, citing two incidents on 5 December 2016 and 18 July 2017 respectively.
+
+109    I would first observe that these allegations do not qualify as abuse of court process within the categories outlined by the High Court in _Chee Siok Chin._ Secondly, I note that the plaintiff did proceed to engage a building surveyor to determine the cause of the leakage in accordance with the agreement reached at the STB. It is disingenuous of the defendants to complain of abuse of process simply because they now disagree with the findings of the surveyor.
+
+110    Pertaining to the allegation of the “vexatious incidents” on 5 December 2016 and 18 July 2017, the defendants refer to the police report filed by the second defendant on 2 August 2017 and the video recording which they made of the 18 July 2017 incident. While the plaintiff has objected to the admission of the video evidence, I should state that I have reviewed the video (as requested by the defendants in their letter to the court dated 2 April 2020) which shows clearly an acrimonious incident between the parties. I also note that the defendants to their credit did not react to escalate the volatile situation. However, I have to agree with the DR that these unpleasant incidents do not in any way affect the merits of the plaintiff’s claim, and do not provide a basis in law for striking out her claim.
+
+#### The plaintiff had committed fraud and perjury
+
+111    The DR dealt with this allegation at \[37\] and \[38\] of his Oral GD. The defendants had complained that the plaintiff had acted dishonestly when she stated that the MCST had confirmed that it had repaired the common pipe, when in fact only part of the common pipe within her unit was repaired. As pointed out[^43], the plaintiff had argued that she did not lie, but she was merely repeating the MCST’s own confirmation that it had repaired the common pipe.
+
+112    Since the plaintiff had exhibited the documents[^44] from the MCST in her affidavit to substantiate her claim, it is inexplicable how the plaintiff can be said to have committed perjury. In any case, the fact that the plaintiff might have stated an untruth is no basis for striking out her claim as abuse of court process within the categories outlined by the High Court in _Chee Siok Chin._
+
+### Conclusion on O 18 r 19(1) application
+
+113    Based on my analysis set out in the foregoing paragraphs, there is no basis for the defendant’s application for striking out the plaintiff’s claim. The DR’s decision to dismiss the application is affirmed.
+
+114    From the defendants’ arguments in the appeal before me on 25 February 2020 as well as in their written submissions, it is clear that the defendants fail to appreciate that the striking out application is not the forum at which the court can determine which party’s case ought to prevail. The alternative case they have put across on the cause of the water seepage into Unit #12-01 coupled with the seemingly convincing evidence they have in support cannot be simply accepted without them being subject to cross-examination by the opposing party. Similarly, they would have the right to challenge the plaintiff and her expert witness in cross-examination. It is only through the rigours of the trial process that the court can make the proper findings of fact and adjudicate on the parties’ rights and liabilities. As the defendants had correctly stated in their submissions, “… _the court has to be fair and consider both sides_.”[^45] The defendants’ insistence that the court should now take their side and strike out the plaintiff’s case at this stage of the proceedings is contrary to justice.
+
+### If the plaintiff’s claim were struck out, is there any basis to enter judgment on the counterclaim?
+
+115    In SUM 3552, the defendants had also prayed for judgment to be entered on their counterclaim. With the dismissal of SUM 3552, it follows that there is no basis for judgment to be entered on the counterclaim.
+
+116    I should point out further that even if the court were to allow the striking out, it is doubtful that judgment could be entered in the defendants’ favour on their counterclaim. It is difficult to discern from their 73-page Defence and Counterclaim what is/are the causes of action that would entitle the defendants to claim _inter alia_ loss of rental income amounting to $64,500 and compensation for alleged humiliation, harassment and mental torment.
+
+## Conclusion
+
+117    The defendants’ appeal in DC/RA 2/2020 against the DR’s decision dismissing their application in SUM 3552 to strike out the plaintiff’s case and enter judgment on their counterclaim is hereby dismissed. In summary, the reasons are as follows:
+
+> (a)     The plaintiff was not late in the service of her Reply and Defence to Counterclaim as her solicitors had complied with the timelines given by the judge on 21 June 2019 for delivery of pleadings in DC/OSS 82/2019.
+
+> (b)     The 14-day timeline in O 18 r 3(4) did not apply in this case as it had been varied by the judge’s order on 21 June 2019.
+
+> (c)     Even if the 14-day timeline had applied and the plaintiff had been late by three days or eight days in the service of her Reply and Defence to Counterclaim, there is no prejudice occasioned to the defendants which cannot be compensated by costs. Striking out her claim would be a disproportionate response to such a breach which, on the facts, is not established.
+
+> (d)     The defendants’ application to strike out the claim premised on O 18 r 19(1) was misconceived. The plaintiff’s claim discloses a valid cause of action. The documents disclosed by the plaintiff in the form of the expert reports show that the claim is factually sustainable. The allegations made by the defendants also do not support a case of abuse of process that would warrant the claim to be struck out.
+
+### Costs and further directions
+
+118    As costs follow the event, the defendants will have to pay costs to the plaintiff for their unsuccessful application and the appeal. I note that the DR had ordered that costs of the hearing before him be taxed. I will vary that order and deal with the costs of the hearing at first instance as well as the appeal together, pursuant to O 59 r 4(2) which provides as follows:
+
+> In the case of an appeal, the costs of the proceedings giving rise to the appeal, as well as the costs of the appeal and of the proceedings connected with it, may be dealt with by the Court hearing the appeal;…  
+
+119    Parties are to file, and serve by way of email, their submissions on costs limited to ten pages each, within 14 days from the date of this judgment. The determination of costs will be on a date to be notified to parties in due course.
+
+120    The plaintiff’s application for directions in DC/SUM 3543/2019 which was vacated pending the disposal of this appeal is to be restored for hearing. The Civil Registry will notify parties of the hearing date.
+
+* * *
+
+[^1]: NE, 19 December 2019 p 3
+
+[^2]: Notice of Appeal para 2
+
+[^3]: DVD-R with description “DC/DC 1955/2019 – Incident on Inspection Day (18 July 2017) - #12-07 Hoa Nam Building.
+
+[^4]: Para 2.1 of Report on Inter-floor water seepage at Unit #12-01 27 Foch Road Hoa Nam Building Singapore 209264 by Building Appraisal Pte Ltd (July 2017) found at “WLK-2” in p 32 of Plaintiff’s Affidavit.
+
+[^5]: Paras 5–7 of Plaintiff’s OS Affidavit; also para 11a–c of statement of claim.
+
+[^6]: Para 10 of Plaintiff’s OS Affidavit, and Exhibit “WLK-3” at p 36.
+
+[^7]: Para 11 of Plaintiff’s OS Affidavit and Exhibit “WLK-4” at p 38
+
+[^8]: Para 13 of Plaintiff’s OS Affidavit and Exhibit “WLK-5” at p 40
+
+[^9]: Paras 14–17 of Plaintiff’s OS Affidavit and Exhibit “WLK-6” at p 42
+
+[^10]: Plaintiff’s Affidavit at p 41
+
+[^11]: Para 23 of Plaintiff’s OS Affidavit
+
+[^12]: Para 25 of Plaintiff’s OS Affidavit and exhibit “WLK-8”
+
+[^13]: Para 35 of Plaintiff’s OS Affidavit and exhibit “WLK-12”; Para 31 of Plaintiff’s Affidavit
+
+[^14]: Para 27 of Plaintiff’s OS Affidavit and exhibit “WLK-9”
+
+[^15]: Para 33 of Plaintiff’s Affidavit and exhibit “WLK-2, Tab 3”
+
+[^16]: Paras 9–10 of Defendant’s OS Affidavit
+
+[^17]: Para 10 of Plaintiff’s OS Affidavit and Exhibit “WLK-3”; and para 16 of Defendant’s OS Affidavit.
+
+[^18]: Paras 20–23 of Defendant’s OS Affidavit
+
+[^19]: Paras 24–28 of Defendant’s OS Affidavit
+
+[^20]: Paras 30–33 of Defendant’s OS Affidavit
+
+[^21]: Para 34 of Defendant’s OS Affidavit
+
+[^22]: Paras 42–44 of Defendant’s OS Affidavit
+
+[^23]: Paras 46–47, 50–51 of Defendant’s OS Affidavit
+
+[^24]: Para 51b of Defendant’s OS Affidavit; and also pp 439–440.
+
+[^25]: Paras 54–55 and pp 317–323 of Defendant’s OS Affidavit
+
+[^26]: Paras 60–66 and pp 435–436 of Defendant’s OS Affidavit
+
+[^27]: Paras 76–78 of Defendant’s OS Affidavit
+
+[^28]: District Judge Ong Luan Tze
+
+[^29]: Para 7 of Mun’s 1st Affidavit
+
+[^30]: Paras 10–13 of Mun’s 1st Affidavit
+
+[^31]: Para 6 of Mun’s 2nd Affidavit
+
+[^32]: Paras 44–50 of Mun’s 2nd Affidavit
+
+[^33]: DFWS p 6 para vii
+
+[^34]: Para 10 of Mun’s 1st Affidavit
+
+[^35]: Mun’s 2nd Affidavit, Exhibit “MSH-1” Tab-4
+
+[^36]: Mun’s 2nd Affidavit, Exhibit “MSH-1” Tab-5”
+
+[^37]: DFWS pp 27-28
+
+[^38]: DFWS p 52 para C.a. (Point 17, 18, 19)
+
+[^39]: Mun’s Affidavit filed in DC/OSS 82/2019 at p 21
+
+[^40]: Para 5.6 of Mr Chin’s report dated 26 March 2019 at p 103 of Plaintiff’s Affidavit.
+
+[^41]: Defendants’ OSS 82 Affidavit at p 22 to 44
+
+[^42]: Para 21 of Mun’s 1st Affidavit
+
+[^43]: Paras 42 – 45 of the Plaintiff’s Affidavit
+
+[^44]: Plaintiff’s 1st OSS 82 Affidavit at pp 80 – 82
+
+[^45]: DFWS at p 57
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F24685-SSP.xml)
