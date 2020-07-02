@@ -1,0 +1,135 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Younis Adnan Mohammed  
+
+### \[2020\] SGDC 143
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">District Arrest Case No. 927647 of 2019 &amp; 3 Others, Magistrate's Appeal No. 9430 of 2020</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">24 June 2020</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Kaur Jasvender</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Lim Ying Min (Attorney-General's Chambers) for the Public Prosecutor; Wong Shoou-Huang Jonathan (Tembusu Law LLC) for the Accused.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Younis Adnan Mohammed</td></tr></tbody></table>
+
+Sentencing – Forgery of bank transfer receipt – Alteration of amount – Section 465 Penal Code (Cap 224, 2008, Rev Ed)
+
+Sentencing – Giving false information to investigation officer to avoid prosecution – Section 182 Penal Code (Cap 224, 2008 Rev Ed)
+
+\[LawNet Editorial Note: An appeal to this decision has been filed in MA 9430/2020/01.\]
+
+24 June 2020
+
+### District Judge Kaur Jasvender:
+
+1       The accused is a British national. He was working here as an Equity Investment Specialist. He was diagnosed with Pathological Gambling and Major Depressive Disorder at the time of the offences. He pleaded guilty to the following two charges:
+
+> _DAC-927647-2019_
+
+> are charged that you, on or around 8 March 2019 at 2 Marina Boulevard, #03-06 The Sail, Singapore, did make a false document, to wit, a screen shot with reference number MB10617346872G39 showing that payment of a sum of S$50,000 had been submitted from DBS Multiplier Account XXX to OANDA ASIA PACFIC XXX by editing the amount on the said screen shot from S$50 to S$50,000 (Annex A), with the intent to commit fraud, and you have thereby committed an offence punishable under Section 465 of the Penal Code, Chapter 224 (2008 Revised Edition).
+
+> _MAC-909943-2019_
+
+> are charged that you, on the 1st day of April 2019 at about 2.26 pm, at Police Cantonment Complex, located at No. 391 New Bridge Road, Singapore, did give information to a public servant, namely, Senior Investigation Officer Dinesh Vishnu (‘the officer”), which information you knew to be false, intending to cause the said officer to omit investigating into your commission of criminal offences, which the said officer ought not to omit if the true state of facts were known to the officer, and you have thereby committed an offence punishable under Section 182 of the Penal Code, Chapter 224.
+
+2       Another similar charge under s 465 and a charge under s 417 Penal Code which arose out of the same transaction were taken into consideration (‘TIC’) for the purpose of sentence.
+
+3       The accused was sentenced to 14 weeks’ imprisonment on the s 465 charge and to two weeks’ imprisonment on the s 182 charge. Both sentences were ordered to run consecutively. The prosecution which sought a global sentence of six months and three weeks’ imprisonment has now brought this appeal against the 16-week sentence.
+
+## Summary of Facts
+
+4       The accused was a high value client of OANDA Asia Pacific Pte Ltd (“OANDA”). OANDA offers their clients a platform to conduct online trading and provides prefunding to high value clients.
+
+5       On 18 January 2019, the accused opened a CFD trading account with OANDA to perform online trading. On 28 February 2019, he signed a prefunding agreement with a monetary limit of $200,000 per transfer.
+
+#### Facts relating to the s 465 charge
+
+6       On or around 8 March 2019, the accused did not have sufficient funds in his trading account to keep his trading funds alive and avoid a margin call. Thus, he requested for a prefunding of $50,000 from OANDA. The accused was aware that he did not have sufficient funds in his bank account to transfer $50,000 to OANDA. He first made a bank transfer of $50 at 12.04pm on 8 March 2019, from his DBS account to ONADA’s bank account.
+
+7       He took a screenshot of the bank transfer, which showed that payment of $50 had been submitted (“the screenshot”). Thereafter, the accused used the software “Paint” to edit the screenshot in order to reflect that a payment of $50,000 was submitted (“the forged screenshot”). The accused sent the forged screenshot which purported to be generated by DBS Bank Ltd to OANDA via e-mail on 8 March 2019 at 12.26pm. Upon receiving the forged screenshot, OANDA proceeded to deposit $50,000 into the accused’s trading account.
+
+8       As OANDA only received $50 from the accused and did not receive the $50,000 that the accused claimed to have transferred, OANDA lodged a police report on 27 March 2019. On 12 April 2019, the accused made full restitution.
+
+#### Facts pertaining to the s 182 charge
+
+9       On 1 April 2019 at about 2.26 pm, at Police Cantonment Complex, the accused provided his first statement to Senior Investigation Officer, Dinesh Vishnu (“SIO Dinesh”) in the course of investigations. The accused informed SIO Dinesh that he did not have a trading account with OANDA. The accused further alleged that his brother-in-law had impersonated him to open a trading account with OANDA and conducted online trading. The accused knew that such information was false and had intended to cause SIO Dinesh to cease investigating him for the criminal offences.
+
+10     The accused maintained the lie in his second statement on 8 April 2019 to SIO Dinesh. In his third statement which was recorded on 15 May 2019, he admitted to the offences.
+
+## Prosecution’s Submissions on Sentence
+
+#### Section 465 charge
+
+11     The prosecution sought a sentence of six months’ imprisonment for the s 465 charge. It was submitted that general deterrence ought to be the primary sentencing objective for deception committed against financial institutions. It was said that such offences are easy to commit but difficult to detect.
+
+12     The following aggravating factors were highlighted. First, the forgery ‘misused the name of DBS Bank’. It was said that ‘\[t\]his bolstered the standing of the forged documents, and were relied upon by OANDA as accurately representing the banking transactions or records contained therein.” It was submitted that the ‘forgery of such documents threatens the ability to rely on these documents and may lead to increased checks on each and every financial transaction executed.’ Second, the action of the accused was premeditated and deliberate. Third, when OANDA chased for the monies, the accused forged his bank account payment history details to show that $50,000 had been transferred to continue the deception. This was the subject-matter of the TIC charge.
+
+13     The four precedents cited in support of the submission for an imprisonment term of six months’ are summarised below.
+
+> (a)      _PP v Chin Kar Kin Clara (SC-908061-2015)_
+
+> Offender was an accountant and was entrusted with the company’s cheque book. Her job scope involved preparing the company’s cheques. She pleaded guilty to one charge under s 379 and one charge under s 465 Penal Code. One charge under s 379 and two charges under s 465 were TICed. With regard to the s 465 charges, she forged the signature of the co-owner of the company on cheques on three occasions. She covered her tracks by creating fictitious entries in the accounts. The total amount involved in relation to the forgery charges was $14,908.82. She made full restitution. She was sentenced to three months’ imprisonment on the s 465 charge which was ordered to run concurrently with the theft charge.
+
+> (b)      _PP v Leong Sia Chin (SC-901577-2018)_
+
+> Offender pleaded guilty to one charge under s 465 and consented to TIC one s 465 charge, one s 403 charge and one s 182 charge. He found a cheque book of the complainant company at a staircase of the building where the company was located. The cheque book contained pre-signed cheques. He filled in his name and the amount of $8,000 on one of the cheques. He banked in the cheque and withdrew the $8,000. The total amount involved for all charges was $13,500. He made full restitution. He was sentenced to three months’ imprisonment.
+
+> (c)      _PP v Tan Hui Peng_ <span class="citation">\[2015\] SGDC 302</span>
+
+> Offender pleaded guilty to five s 465 charges and TICed 10 similar charges. She was an office manager of a foreign law firm. She committed forgeries by making out to herself pre-signed blank cheques entrusted to her and encashing them. The offences occurred over 10 months. The charges proceeded with involved a total of $27,890.47 and the total amount involved for all charges was $37,385.54. Full restitution was made. She was sentenced to a global term of 24 weeks’ imprisonment.
+
+> (d)      _PP v Lew Kim Cheng (SC-904286-2015)_
+
+> The offender pleaded guilty to one charge under s 465 and TICed another similar charge. She was employed by the company as a personal assistant and administrative manager in charge of the company’s accounts. She appended her name instead of the company’s supplier as payee on two cheques and deposited them into her account. The amount for the proceeded charge was $20,986.07 and for the TIC charge it was $20,190.37. She made full restitution. She was sentenced to four months’ imprisonment.
+
+#### Section 182 charge
+
+14     The prosecution sought a sentence of three weeks’ imprisonment. Reference was make to the case of _Koh Yong Chiah v PP_ <span class="citation">\[2017\] 3 SLR 447</span>, and it was submitted that the case fell within the second category of an accused giving false information to the authorities to shield himself from investigation or prosecution. The range of sentences based on precedents for this category is two weeks’ to six months’ imprisonment.
+
+15     It was submitted that the custodial threshold is crossed because there was significant wastage of investigative resources as a result of the false information provided. It was said that the accused had maintained his lie for more than three weeks. In the meantime, the police had asked OANDA to provide all the IP addresses for each login to the OANDA App to ascertain if the login was done from Singapore or London; the police had to retrieve and listen to the audio recordings of the conversations kept by OANDA pertaining to the opening of the trading account and post-offence; the police had to check with DBS on the IP addresses for each login to the bank App; and approached ICA to conduct a screening based on nationality and age group to establish the identities of people who could have been the accused’s brother-in-law.
+
+## Mitigation
+
+16     The accused is a British national. He is aged 31 years old. He has a Bachelor of Science Honours degree from the University of Bath. He also has the Chartered Financial Analyst and Chartered Market Technician certifications. He is married with two children. His wife is a homemaker. His second child was born on 10 February 2019 in the United Kingdom and he has yet to see her. He is the sole breadwinner of his family and also supports his parents and two younger sisters.
+
+17     His wife and son returned to the United Kingdom after the cancellation of their dependants’ passes. The accused will have to return upon serving his sentence. His wife suffered from depression as a result of the proceedings against the accused. As the accused has been unable to find any source of income since the termination of his employment, his family also has to fend for themselves.
+
+18     The accused had worked in London and Boston before he came to Singapore in 2017. He was working here as an Equity Investment Specialist. His work performance ‘exceeded expectations’. It was submitted that the accused’s excellent academic and employment records evinced his consistent good character and the fact that his offending was completely out of character. It was submitted that the conviction will result in the accused being unable to work in the financial industry as he will be barred by financial authorities and striped of his financial qualifications which he painstakingly took a decade of work and experience to accumulate.
+
+19     The accused has a long history of gambling addiction which started in 2012. His parents had to re-mortgage their house to help him pay off his debts. In 2014, he sought help. This led to a temporary ceasing of his gambling habit. In 2015, he started again. His wife then placed him on a counselling programme in the USA. This again led to a temporary stop in his gambling activities. In 2017, he moved to Singapore. As he had stopped attending counselling, he relapsed to gambling in 2019.
+
+20     In February 2019, before he committed the offences, the accused had sought help for his gambling addiction. He was diagnosed to be suffering from a severe gambling disorder and major depressive disorder at the time of the offending. He has been undergoing counselling at IMH and he was stated to be highly motivated in his recovery.
+
+21     The accused has no antecedents. It was said that he is remorseful and regrets committing the offences.
+
+22     As regards the s 465 charge, it was submitted that OANDA had full oversight and control of the funds (the funds remained in OANDA’s platform and were not disbursed to the accused) and it could have closed out the open bets at any time. In addition, all withdrawals were suspended until the accused’s funds were received. It was submitted that the offending was amateurish and impossible to succeed. At the end of the day, there was no loss to OANDA as the accused settled all the losses. Learned counsel submitted for a fine of $8,000, or alternatively one week’s imprisonment.
+
+23     As regards the s 182 offence, it was said that the accused panicked in his stressed state of mind during police questioning and foolishly sought to distance himself. However, the accused did not provide any particulars of his fictitious brother-in-law. It was highlighted that the accused did voluntarily provide his bank statements, correspondence from OANDA, surrendered his phone and attended all police interviews on time. After his second statement to the police, the accused sought to retract his lie on 15 April 2019. The accused apologised to the investigation officer for fabricating a false story. Learned counsel submitted for a fine up to $4,000, or alternatively an imprisonment term of up to one week.
+
+## Decision on Sentence
+
+### Section 465
+
+24     The offence under s 465 is punishable with an imprisonment term of up to four years or fine or both.
+
+25     I accepted the prosecution’s submission that the relevant sentencing purpose was general deterrence and that the custodial threshold was crossed. The issue was the length of the imprisonment term. This turned on an assessment of the offence seriousness which is determined by the culpability in committing the offence and the harm that the offence caused or was likely to cause.
+
+26     In the week of 1 to 7 March 2019, the accused incurred substantial losses and was facing the prospect of a margin call. To avoid it, he required a pre-funding agreement to the sum of $50,000. This required him to settle the pre-funded amount within three business days of the agreement. However, he did not have the funds to do so. This led to him doctoring the payment screenshot of $50 by adding 3 zeroes, making it look like he had sent $50,000.
+
+27     In assessing harm, I noted the amount of the pre-funding arrangement was $50,000. However, this is not a typical case where the harm could be equated to the pre-funded amount as the accused was not allowed to withdraw that sum. The accused’s objective was to continue trading in the hope that he would be able to reduce his trading losses so that he would have more funds in his trading account. Under the pre-funding agreement, the credit deposited would first be applied to margin shortfalls and withdrawals were suspended until funds were received. The harm to OANDA would thus eventuate in the event of a forced sale and if the accused was unable to pay the trading losses. The harm could thus have been greater or lesser than the pre-funded sum. As events turned out, the trading losses stood at $42,472.87 when the account was closed. Whilst this was the actual harm that eventuated, at the end of the day, the accused made good the loss within a relatively short period. On 12 April 2019, he made full restitution. There was therefore no loss to OANDA.
+
+28     As regards culpability, I considered the nature of the document. It was a screenshot of a bank transfer which was altered to deceive the trading firm. There was of course some deliberation involved in the offence but I noted that there was no elaborate or detailed planning. There was also no sophistication involved in the offences. The accused had used a basic application on his handphone to make the alteration. Whilst OANDA was deceived, this was not a stunt which the accused could get away with. It was only a matter of time before OANDA would find out the exact amount that was transferred to its account. It was thus not an offence which was difficult to detect as the prosecution had claimed. As to be expected, the accused was chased shortly for payment. It is not clear from the facts when OANDA started chasing the accused. However, it is clear that it was quite soon after as the accused had by 14 March 2019 foolishly sent another screenshot, again showing that he had sent them $50,000.
+
+29     The accused had Pathological Gambling and Major Depressive Disorder at the time of the offending. However, it was determined by the IMH psychiatrist that the accused did not suffer from any significant impairment or compromise in his judgment and decision-making ability during the commission of the offences. Accordingly, his gambling and depressive disorders were not mitigating factors. Notwithstanding, his gambling disorder was the backdrop to the offending. In this regard, it is noteworthy that the accused was concerned about his gambling and had in the previous month before he committed the offences sought help for his gambling addiction. In addition, the medical memo dated 27 April 2020 from Dr Mak Chia Meng Charles states that the accused has ‘remained abstinent from gambling and continues to be highly motivated in his recovery’. He is also remorseful and had pleaded guilty.
+
+30     I found the sentencing precedents cited by the prosecution on the use of forged documents to be of limited value as the nature of the forged documents and the intent in using the documents differed vastly. The four cases involved forgery of cheques and in three of the cases there was an abuse of position by the employees. In contrast, the two precedents cited by learned defence counsel which related to obtaining credit were apposite. In _Public Prosecutor v Lim Kwei Luan_ <span class="citation">\[2019\] SGDC 269</span>, the offender who was a director of a company forged five monthly statements of his company’s bank account by inflating the figures with the intent to cause the bank to disburse a loan of $250,000. The case involved ‘significant planning and preparation as five bank statements had been forged using the company’s laptop and software’. The forgery was detected by the bank and the loan was therefore not disbursed. He pleaded guilty and was sentenced to two weeks’ imprisonment. The offender’s appeal against his sentence has yet to be heard. The prosecution sought to distinguish the case solely on the ground that there was no loss to the bank as the loan was not extended. In _Public Prosecutor v Teo Eng Hui_ <span class="citation">\[2005\] SGDC 141</span>, the offender was a personal banker. A customer requested for a housing loan of $880,000 but the bank only agreed to offer $616,000 to the customer. The offender altered the bank’s letter of offer from $616,000 to $880,000 and the loan tenure from 10 to 14 years. He also misled the branch manager to sign the forged document. The second charge related to forging a document authorising the withdrawal of $1,000 from the bank account of a customer of the bank he was working for at the time. He filled in the particulars of the customer and appended the signature. He intended to make use of the withdrawal to pay off his own credit card bills and left the form in his drawer. The forged document was found on the same day. He also had two other forgery charges which were TICed. He was sentenced to six weeks’ imprisonment on the first charge and two weeks’ imprisonment on the second. Both sentences were ordered to run concurrently. The prosecution attempted to distinguish the case on the ground that the maximum punishment then was two years’ imprisonment.
+
+31     In my view, the culpability of the offenders in these two cases is higher than that of the accused. In comparison, it is apparent that the sentence of 14 weeks’ which the accused received cannot be manifestly inadequate. In my view, a term of 14 weeks was just and proportionate.
+
+### Section 182
+
+32     The offence provides for an imprisonment term of up to one year or a fine up to $5,000 or both.
+
+33     This case falls under the category of giving false information to the authorities to shield oneself from investigation or prosecution. In _Koh Yong Chiah_, it was held that the sentence meted out varies, depending on (a) the complexity of the deceptive scheme employed on the public servant (_e.g._, whether other people were asked to corroborate the lie, whether it was planned and premeditated, _et cetera_), (b) the seriousness of the offence the offender sought to cover up, and (c) the extent to which public resources were wasted because of the false information.
+
+34     I accepted the prosecution’s submission that the custodial threshold was crossed. The issue was the length of the imprisonment term. I noted that the offence which the accused was seeking to avoid prosecution is serious. However, there was no complex deceptive scheme to escape prosecution. He had foolishly sort to deflect investigations by denying that the trading account with OANDA was his and claimed that it was opened by his brother-in-law. He did not provide any particulars despite being repeatedly asked by the police. In fact, he has no brother-in-law. He repeated the lie eight days later in his second statement on 8th April 2019. I noted that the investigation officer had undertaken queries with OANDA, the bank and ICA. Against that, the accused had made full restitution by 12 April 2019. On 15th April 2019, he sought to retract the lie through his counsel.
+
+35     As such, the accused had not persisted in maintaining his lie for a prolonged period. I also noted that he had expressed remorse by apologising to the investigation officer and pleaded guilty. In the balance, I determined that a term of two weeks’ imprisonment was just and proportionate.
+
+36     Both sentences were ordered to run consecutively. The total sentence was therefore 16 weeks’ imprisonment.
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F24696-SSP.xml)
