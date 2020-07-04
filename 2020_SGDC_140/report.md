@@ -1,0 +1,501 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Kong Swee Eng  
+
+### \[2020\] SGDC 140
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">District Arrest Case No. 931919 of 2016 &amp; Ors (9), Magistrate's Appeal No. 9418 of 2020 - 01)</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">24 June 2020</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Mathew Joseph</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Deputy Public Prosecutors Jasmin Kaur and Tay Jingxi (Attorney-General's Chambers) for the Prosecution; Mr Michael Khoo SC and Ms Josephine Low (Michael Khoo &amp; Partners) and Mr Nakoorsha Bin Abdul Kadir (Nakoorsha Law Corporation) for the Defence</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Kong Swee Eng</td></tr></tbody></table>
+
+Criminal Law – Prevention of Corruption Act
+
+\[LawNet Editorial Note: An appeal to this decision has been filed in MA 9418/202/01.\]
+
+24 June 2020
+
+### District Judge Mathew Joseph:
+
+## Introduction
+
+1       The accused, Ms Kong Swee Eng, also known as Rina Kong (“the Accused”) had been tried on ten proceeded charges under section 6(b) of the Prevention of Corruption Act (Cap 241, 1993 Rev Ed) (“PCA”), for corruptly giving gratification to an agent employed by Jurong Shipyard Pte Ltd (“JSPL”) as an inducement to do acts in relation to his principal’s affairs, _to wit_, to advance the Accused’s business interests with JSPL.
+
+2       At the conclusion of the trial, the Accused was found not guilty and was acquitted of all charges against her.
+
+3       The Prosecution has filed an appeal against the acquittal of the Accused. I shall now set out my grounds of decision.
+
+## Background
+
+4       The Accused was a Director of Rainbow Offshore Pte Ltd (“Rainbow”), a company in the business of ship-repair and supplier of related equipment. Rainbow’s main business purpose was to sell various steel materials like piping, valves, hydraulic equipment and related equipment to Jurong Shipyard Pte Ltd (“JSPL”). In essence, the Accused was the face of Rainbow to JSPL. Furthermore, it was undisputed that JSPL was Rainbow’s sole and only customer at the material time. I will return to this unique business relationship between JSPL and Rainbow in a later part of this decision.
+
+## The Charges
+
+5       The ten proceeded charges against the Accused were as follows -
+
+> _“DAC-931919-2016_
+
+> _You, are charged that you, on or about 11 April 2008, in Singapore, did corruptly give gratification to an agent, Chee Kim Kwang, the general manager of the procurement department of Jurong Shipyard Pte Ltd (“JSPL”), to wit, the opportunity to invest in Golden Oriental Pte Ltd’s shares, as an inducement to do acts in relation to his principal’s affairs, to wit, to advance your business interests with JSPL, and you have thereby committed an offence punishable under Section 6(b) of the Prevention of Corruption Act (Cap 241, 1993 Rev Ed).”_
+
+> _“DAC-931920-2016_
+
+> _You, are charged that you, on or about 11 April 2008, in Singapore, did corruptly give gratification to an agent, Tan Kim Kian, a procurement manager of Jurong Shipyard Pte Ltd (“JSPL”), to wit, the opportunity to invest in Golden Oriental Pte Ltd’s shares, as an inducement to do acts in relation to his principal’s affairs, to wit, to advance your business interests with JSPL, and you have thereby committed an offence punishable under Section 6(b) of the Prevention of Corruption Act (Cap 241, 1993 Rev Ed).”_
+
+> _“DAC-931921-2016_
+
+> _You, are charged that you, sometime in December 2011, in Singapore, did corruptly give gratification to an agent, Koay Chin Hock @ Adam Abdullah Koay (“Koay”), a deputy general manager of the procurement department of Jurong Shipyard Pte Ltd (“JSPL”), to wit, a holiday to Japan, including return air tickets and accommodation, for Koay, his wife, Huda binte Mohamed Sanusi, and his daughter Nawal Adam Koay, as an inducement to do acts in relation to his principal’s affairs, to wit, to advance your business interests with JSPL, and you have thereby committed an offence punishable under Section 6(b) of the Prevention of Corruption Act (Cap 241, 1993 Rev Ed).”_
+
+> _“DAC-931922-2016_
+
+> _You, are charged that you, sometime in October 2011, in Singapore, did corruptly give gratification to agents, to wit, Chan Chee Yong (“Chan”), an assistant section manager in the procurement department of Jurong Shipyard Pte Ltd (“JSPL”), and Ng Poh Lin (“Ng”), a procurement officer in JSPL, to wit, a holiday to Korea, including a return air ticket for Ng and accommodation in Korea for both Chan and Ng, as an inducement to do acts in relation to their principal’s affairs, to wit, to advance your business interests with JSPL, and you have thereby committed an offence punishable under Section 6(b) of the Prevention of Corruption Act (Cap 241, 1993 Rev Ed).”_
+
+> _“DAC-931923-2016_
+
+> _You, are charged that you, sometime in April 2013, in Singapore, did corruptly give gratification to agents, to wit, Chan Chee Yong, an assistant section manager in the procurement department of Jurong Shipyard Pte Ltd (“JSPL”), and Ng Poh Lin, a procurement officer in JSPL, to wit, a holiday to Korea, including return air tickets and accommodation, as an inducement to do acts in relation to their principal’s affairs, to wit, to advance your business interests with JSPL, and you have thereby committed an offence punishable under Section 6(b) of the Prevention of Corruption Act (Cap 241, 1993 Rev Ed).”_
+
+> _“DAC-931924-2016_
+
+> _You, are charged that you, on or about 12 May 2013, in Singapore, did corruptly give gratification to agents, to wit, Chan Chee Yong, an assistant section manager in the procurement department of Jurong Shipyard Pte Ltd (“JSPL”), and Ng Poh Lin, a procurement officer in JSPL, to wit, two Singapore Airlines return tickets to Europe worth a total of S$3,349, as an inducement to do acts in relation to their principal’s affairs, to wit, to advance your business interests with JSPL, and you have thereby committed an offence punishable under Section 6(b) of the Prevention of Corruption Act (Cap 241, 1993 Rev Ed).”_
+
+> _“DAC-931925-2016_
+
+> _You, are charged that you, in 2013, in Singapore, did corruptly give gratification to agents, to wit, Chan Chee Yong (“Chan”), an assistant section manager in the procurement department of Jurong Shipyard Pte Ltd (“JSPL”), and Ng Poh Lin (“Ng”), a procurement officer in JSPL, to wit, the rental of a flat located at Block 22, Ghim Moh Link, #XXX, Singapore at S$500/- per month, which Chan and Ng rented for a total of six months, as an inducement to do acts in relation to their principal’s affairs, to wit, to advance your business interests with JSPL, and you have thereby committed an offence punishable under Section 6(b) of the Prevention of Corruption Act (Cap 241, 1993 Rev Ed).”_
+
+> _“DAC-931926-2016_
+
+> _You, are charged that you, on or about 28 March 2013, in Singapore, did corruptly give gratification to an agent, Chan Chee Yong (“Chan”), an assistant section manager in the procurement department of Jurong Shipyard Pte Ltd (“JSPL”), to wit, a Mercedes Benz (vehicle registration no. SJU7907J) rented for two days at a cost of S$663.40/-, for use as the bridal car at Chan’s wedding, as an inducement to do acts in relation to his principal’s affairs, to wit, to advance your business interests with JSPL, and you have thereby committed an offence punishable under Section 6(b) of the Prevention of Corruption Act (Cap 241, 1993 Rev Ed).”_
+
+> _“DAC-931928-2016_
+
+> _You, are charged that you, on or about 28 March 2013, in Singapore, did corruptly give gratification to an agent, Chan Chee Yong, an assistant section manager in the procurement department of Jurong Shipyard Pte Ltd (“JSPL”), to wit, a 3-litre bottle of Cordon Bleu worth S$1,180 and a bottle of Macallan liquor, as an inducement to do acts in relation to his principal’s affairs, to wit, to advance your business interests with JSPL, and you have thereby committed an offence punishable under Section 6(b) of the Prevention of Corruption Act (Cap 241, 1993 Rev Ed).”_
+
+> _“DAC-931929-2016_
+
+> _You, are charged that you, on or about March 2013, in Singapore, did corruptly give gratification to an agent, Lau Kien Huat, an engineer employed by Jurong Shipyard Pte Ltd (“JSPL”), to wit, the position of project manager in DMH Marine Solutions Pte Ltd, as an inducement to do acts in relation to his principal’s affairs, to wit, to advance your business interests with JSPL, and you have thereby committed an offence punishable under Section 6(b) of the Prevention of Corruption Act (Cap 241, 1993 Rev Ed).”_
+
+6       In brief, all the charges essentially involved the Accused allegedly showering some six JSPL employees with gifts, favours and investment opportunities to advance her significant business interests with JSPL. The Prosecution contended that these were corrupt gratifications given by the Accused as an inducement so as to advance her business interests with JSPL.
+
+## Preliminary Observations
+
+7       Ordinarily this case would have been all about whether the Accused had actually given a gratification to the JSPL employees as an inducement or reward. Further, there would also be the key issues of: (a) whether there was a corrupt element in the transaction; and (b) whether the Accused had given the gratification with a guilty knowledge.
+
+8       It is apposite here to re-state the sacrosanct principle that the Prosecution must prove the guilt of the accused _beyond a reasonable doubt._ This is a cornerstone of our criminal law. It follows from this principle that the criterion of proof of guilt beyond a reasonable doubt necessarily precludes the trial judge from filling in any gaps in the Prosecution’s case based on mere conjecture or supposition.
+
+9       As will be discussed shortly, the legal burden of proof on the Prosecution to prove its case and the evidential burden of proof on the Accused in relation to her defence to all the ten charges (all of which require as essential ingredients, an objectively corrupt element and guilty knowledge to be imputed to the Accused) will intersect and collide in an intriguing manner on the peculiar facts of this case.
+
+10     At the same time, there is one unique and highly significant feature of this case, which both impacts and infects this entire case. The shadow of one Mr Wong Weng Sun (“Wong”) a person who almost became a witness, but who finally was never called by either the Prosecution or the Defence, will loom large in this case. Indeed, this was foreshadowed by the prescient words of the Prosecution during the oral submissions on 17 March 2020, when the learned Deputy Public Prosecutor stated: “_So we decided not to call him because it was simply not necessary but when the defence started, then it became clear that Wong Weng Sun is a primary character in this whole play._”
+
+11     In the light of Wong being “_a primary character in this whole play_”, I will generally focus on Wong for purposes of this decision - specifically on the failure in producing him as a witness, by either the Prosecution or the Defence.
+
+12     As in all cases, the Prosecution and the Defence had different versions of the circumstances surrounding the ten charges faced by the Accused. There was a divergence also on the inferences to be drawn from the objective facts that were proved in court of the acts that took place involving the Accused and the JSPL employees. The testimony of the Prosecution witnesses had to be considered against the words of the Accused and the Defence witnesses. The Court is required therefore to assess whether the Prosecution witnesses’ evidence is more credible than that of the Accused. The Court also has to look for internal and external consistencies and inconsistencies. The Court also makes reasonable inferences from objective and contemporaneous evidence before the Court. I will not dwell on the law in this area, as both the Prosecution and Defence had made extensive written submissions on the issue of credibility of a witness and the veracity of their testimony given in Court.
+
+13     Ultimately, the trial judge also has to consider the totality of the evidence in determining the veracity, reliability and credibility of a particular witness’s evidence.
+
+14     In the light of my general observations above on all the witnesses from both sides who had given evidence before the Court, this Court therefore also had to keep a sharp focus on _objective contemporaneous evidence_. I also had to be mindful in these circumstances, that the legal burden is always on the Prosecution to prove its case beyond a reasonable doubt. This embodies the presumption of innocence. As such, this legal burden never shifts to the Defence. This was succinctly enunciated by the Court of Appeal in the very recent case of _PP v GCK and another matter_ <span class="citation">\[2020\] 1 SLR 486</span> (“_GCK”_)_._
+
+15     Let me turn now to the key aspects of the evidence in this case.
+
+## Defence of Special Relationship Between JSPL and Rainbow
+
+### Background
+
+16     A significant part of the Defence’s submissions was centred on the existence of a special relationship between JSPL and Rainbow, a company which the Accused was a director of. The three material planks of the defence of special relationship is as follows:
+
+> (a)     As part of the special relationship, Wong, JSPL’s Managing/ Executive Director and since 2009 President and CEO of Sembcorp Marine Group (“Sembcorp Marine”), gave direct instructions to the Accused.[^1]
+
+> (b)     The special relationship meant that Rainbow would secure jobs from JSPL, so long as Wong instructed that these jobs be awarded to Rainbow, without Rainbow having to compete for jobs.[^2]
+
+> (c)     As a result of the special arrangement, there was no need for the Accused to bribe anyone in JSPL to advance her business interests.[^3]
+
+> (collectively, the “Special Relationship Defence”)
+
+17     It is abundantly clear that the Defence’s reliance on the Special Relationship Defence goes towards whether the following elements under s 6(b) of the PCA could be established, in respect of all the proceeded charges:
+
+> (a)     Whether there was an objectively corrupt element in the transactions; and
+
+> (b)     Whether the Accused gave the gratification with a guilty knowledge.
+
+18     It is trite that in ascertaining whether there was an objectively corrupt element in the transaction, the Court ascertains the Accused’s intention behind the transaction at the material time, having regard to parties’ evidence and the surrounding circumstances – including the _relationship of the parties involved_: _PP v Low Tiong Choon_ <span class="citation">\[1998\] 2 SLR(R) 119</span> at \[29\]. It is against this background that the Court then determines whether the Accused’s intention was objectively corrupt. Further, the question whether the Accused had guilty knowledge is essentially whether the _Accused_ knew or realised that what she did was corrupt by the ordinary and objective standard: _PP v Chan Wing Seng v PP_ <span class="citation">\[1997\] 1 SLR(R) 721</span> at \[23\].
+
+19     As will be illustrated below, the Special Relationship Defence was inextricably linked to the key issue of whether Wong, who was not called as a witness to testify at trial, should have been called to testify. It was undisputed that Wong was a material witness whose evidence could have confirmed or conversely, contradicted the Special Relationship Defence in material respects: _Muhammad Nabill bin Mohd Fuad v PP_ <span class="citation">\[2020\] SGCA 25</span> (“_Nabill_”) at \[4\]. It will be shown that simply by operation of the burden of proof, Wong should have been called as a witness. As such, I had to consider the following issues:
+
+> (a)     Whether the Defence or the Prosecution bore the evidential burden of proof in respect of the Special Relationship Defence;
+
+> (b)     Whether the evidential burden in (a) was discharged and had shifted to the other party.
+
+> (c)     If the evidential burden in (b) was not discharged, whether there was any effect on the Prosecution’s legal burden of proof.
+
+### Evidential burden of proof in relation to the “special relationship” between Rainbow and JSPL
+
+#### Law on evidential burden of proof
+
+20     In _GCK_, the Court of Appeal established that the evidential burden is the burden to adduce _sufficient evidence_ to raise an issue for the consideration of the trier of fact: at \[132\]. Sufficient evidence refers to _“the production of evidence to engage each of the…premises to the issue \[in question\]”_: _PP v BPK_ <span class="citation">\[2018\] SGHC 34</span> (_“BPK_”) at \[146\]. The evidential burden can shift to the opposing party once it has been discharged by the proponent: _GCK_ at \[132\]; _Nabill_ at \[69\].
+
+#### Whether the Prosecution or the Defence bore the evidential burden of proof, and whether sufficient evidence had been adduced
+
+21     At the close of the Prosecution’s case, I found that there was some evidence not inherently incredible which proved each and every element of the proceeded charges beyond a reasonable doubt. Accordingly, at that point, the _Defence_ bore the evidential burden of proof to adduce “_sufficient evidence”_ to raise an issue for the Court’s consideration.
+
+22     I observed that the defence of the alleged special relationship between JSPL and Rainbow first arose during examination-in-chief of the Accused on 21 November 2018. The Accused testified as follows:
+
+> (a)     There was a _“special relationship”_ where Wong would give instructions to the Accused including to bid for certain orders.[^4] This would be followed by Wong instructing his staff to send the Accused an email. So long as the Accused followed these instructions, Wong would ensure that Rainbow would receive orders from JSPL.[^5]
+
+> (b)     Rainbow gave up supplying to all its existing customers, and supplied only to JSPL as its sole customer.[^6]
+
+23     Further, on 24 June 2019, the Defence’s reliance on the Special Relationship Defence was made crystal clear when the Prosecution cross-examined the Accused. The Accused’s testimony was as follows:
+
+> (a)     There was a _“special arrangement”_ between Rainbow and JSPL where Wong would give instructions to the Accused.[^7]
+
+> (b)     Under this arrangement, Rainbow would secure jobs from JSPL without Rainbow having to compete for jobs so long as the Accused followed Wong’s instructions.[^8]
+
+> (c)     Because of the special arrangement, there was no need for her to bribe anyone in JSPL.[^9]
+
+24     Therefore, the burden fell on the Defence to produce sufficient evidence to engage all aspects of the Special Relationship Defence. In my judgment, the Defence had done so. I will proceed to explain.
+
+25     Firstly, I considered that on 22 November 2018, one day after the Special Relationship Defence was first raised, the Defence had adduced objective evidence in the form of an email from Wong (XXX) addressed to the Accused (r.offshore@pacific.net.sg) dated 26 July 2003, timed 12:19 AM (Exhibit D30). The email in Exhibit D30 objectively illustrated Wong:
+
+> (a)     Requesting for Rainbow to supply certain materials, _even before_ the _“official document for Request for Qoutation_ \[sic\]” was formally sent to the Accused by Mr Tan Kim Kian (“KK Tan”), then JSPL’s Project Manager[^10] and head of procurement[^11];
+
+> (b)     Providing the Accused with _“advance information for “Top Up Qty””_ in the form of requisition orders which set out the _quantity_ of materials for Rainbow to supply;
+
+> (c)     Instructing the Accused to respond directly to the Request for Quotation which was to come _after_ Wong’s email; and
+
+> (d)     Sending an email not from his JSPL email account, but from his _personal_ Singnet email account.
+
+26     These were somewhat unusual features inherent in this email Exhibit D30. Clearly, it involved Wong extending “_advance information_” to the Accused. Its contents demonstrably pertained to specific information internal to JSPL. The Accused was also asked by Wong to reply to KK Tan in the “_official document_” - the Request for Quotation. Furthermore, the fact that the email was sent from Wong’s private email address as opposed to his official JSPL email account, were all matters which on any reasonable consideration, objectively called for an explanation by Wong. However, there was no explanation by Wong as he had not been called to testify as a rebuttal witness by the Prosecution.
+
+27     Further, I noted that the Accused had also testified that Rainbow had gone on to actually supply the relevant materials in accordance with Wong’s instructions.[^12] In my judgment, Exhibit D30 corroborated the Special Relationship Defence.
+
+28     I had also borne in mind that the Prosecution did not cross-examine the Accused on Exhibit D30. This is a significant omission as will become clearer in a later part of this decision.
+
+29     Secondly, I considered three ancillary points that taken together also add credence to the Special Relationship Defence:
+
+> (a)     The Defence led evidence during examination-in-chief to show that there was a particular incident where Rainbow was asked to supply JSPL with a product, super duplex stainless steel pipes and fittings (“_UNS 32760_”).[^13]After Rainbow had placed the order for US $500,000 worth of UNS 32760, JSPL wanted to be supplied instead with UNS 32750. To this day, the supply of UNS 32760 is still stored in Rainbow’s warehouse because according to the Accused, Wong informed the Accused that the supply could be utilised in respect of future projects.[^14] According to the Defence, if there was no special relationship between JSPL and Rainbow, there was no reason why a supplier would agree to take back materials worth US $500,000 (and accordingly incur losses of US $500,000) just because the owner did not accept, if it was not for Wong’s request and promise that JSPL would use the materials at some future date, but which he never did.[^15] In support of its submission, the Defence tendered photographs of UNS 32760 in Rainbow’s warehouse (Exhibit D66). In my judgment, it would not have made any commercial sense for Rainbow to: (i) have agreed to incur significant losses of _US $500,000_ if not for Wong’s assurance to the Accused that JSPL would utilise the supply at some point in time; and (ii) not to have attempted to sell its supply to other companies (as appeared to be the case) to mitigate losses, unless there was a special relationship between JSPL and Rainbow which precluded her from doing so. This is also consistent with the Accused’s testimony that Rainbow only supplied to _one customer_, i.e. JSPL.
+
+> (b)     The Accused had testified that DMH (a company which the Accused was involved in setting up) had incurred losses of approximately _$1 million_ in respect of certain projects undertaken by DMH in 2013. Nevertheless, DMH had undertaken these projects because Wong had instructed the Accused to help JSPL to break the monopoly held by another company, Emerson.[^16] During cross-examination, the Prosecution sought to show that if Rainbow or DMH was incurring losses, the Accused could simply inform either Wong or KK Tan that she was making losses, and to ask to pull out of the special relationship.[^17] The Prosecution put it to the Accused that it was _“entirely illogical and makes very bad business sense”_ for the Accused to continue with the special relationship despite suffering more losses than profits in the later years, simply because Wong informed her to.[^18] In my judgment, it would not make any commercial sense for the Accused to continue to suffer losses and not inform Wong that she wanted out, in circumstances where it was undisputed that JSPL was Rainbow’s only customer, _unless_ there was in fact a special relationship which precluded the Accused from maximising profits by engaging in business with other companies.
+
+> (c)     Further, on 23 July 2019, during re-examination of the Accused, the Defence tendered in evidence Exhibit D75. This exhibit read with the Accused’s testimony[^19] illustrated that the Accused told JSPL’s Ms Ng Poh Lin (“Ng”) on 5 June 2013 that she had “_inform\[ed\] Mr Wong_” to promote a JSPL employee, Mr Chan Chee Yong (“Derek”), then Assistant Section Manager of JSPL’s procurement department.[^20] What Exhibit D75 illustrates is that even as at 5 June 2013, there were communications between Wong and the Accused, on matters _internal_ to JSPL which the Accused should not ordinarily be involved in.[^21] In my judgment, this would seem to suggest that, in the absence of an explanation by Wong, the special relationship between JSPL and Rainbow as evidenced in the email Exhibit D30 of 26 July 2003 continued to subsist even some 10 years later as at June 2013. Here again as with Exhibit D30, I observed that the Prosecution did not cross-examine the Accused on Exhibit D75.
+
+30     In view of the above, I found that the Defence had adduced sufficient evidence of the Special Relationship Defence.
+
+#### Whether the Prosecution had discharged its evidential burden of proof to rebut the Special Relationship Defence
+
+31     Since the Defence had adduced sufficient evidence to engage the Special Relationship Defence, _the evidential burden shifted to the Prosecution._ The Court of Appeal in _GCK_ established that regardless of the incidence of the evidential burden of proof, when a particular fact or defence raised by the accused person has properly come into issue, the Prosecution must rebut that fact or defence so as to meet its legal burden of proving the charges beyond a reasonable doubt: _GCK_ at \[133\]. Accordingly, the Prosecution must rebut the Special Relationship Defence in order to prove all the proceeded charges beyond a reasonable doubt. In my judgment, the Prosecution did not discharge its evidential burden of proof to rebut the Special Relationship Defence.
+
+32     In essence, the Prosecution did not cross-examine the Accused on Exhibit D30 to rebut the Special Relationship Defence. Instead, the Prosecution adduced various _other_ evidence to persuade the Court that there was no special relationship between JSPL and Rainbow. With respect, I am of the view that this misses the point entirely. I had earlier made a finding that Exhibit D30 provided objective contemporaneous evidence which appeared to corroborate the Accused’s position at trial (i.e. the reliance on the Special Relationship Defence), as opposed to the suggestion that there could have been no special relationship based on, _inter alia_, the Accused’s failure to specify this defence in her statements to CPIB. Accordingly, it fell upon the Prosecution to specifically rebut Exhibit D30.
+
+33     For completeness however, I will proceed to address the Prosecution’s arguments in turn, to ascertain whether the Special Relationship Defence had been contradicted by other evidence tendered before the Court.
+
+34     Firstly, during cross-examination, the Prosecution questioned the Accused on why she did not mention the existence of the special relationship between JSPL and Rainbow in her statements to CPIB, including those reflected in Exhibits P155, P156 and P158.[^22] According to the Prosecution, the Accused’s evidence at trial and her statements to CPIB were materially inconsistent.[^23] The Prosecution put to the Accused that if she had no reason to bribe anyone in JSPL because of the special relationship, she would have included it in her statements to CPIB.[^24] In response, the Accused testified that she felt that she had brought harm to the persons from JSPL who were interviewed by CPIB.[^25] She testified that she was in a state where she was contemplating whether to reveal Wong’s name because she did not want to harm anyone else.[^26] The Accused even went so far as to say that she was _“very sure that Mr Wong will admit about this collaboration that \[they\] had”_[^27]_._
+
+35     I pause here to observe that at this point (i.e. 24 June 2019), the Prosecution had already indicated to the Court earlier on 5 April 2019, that if the Defence did not call Wong, _the Prosecution would be applying to recall him as a rebuttal witness_.[^28] This is significant. Further, in my view, if the Accused was indeed concocting a lie about the special relationship between JSPL and Rainbow, there was simply no reason for her to testify that Wong would admit to the special relationship, _knowing full well_ that there was the near inevitable certainty that Wong would be called by the Prosecution as a rebuttal witness.
+
+36     Subsequently during re-examination, the Accused continued to maintain her position. She quite candidly stated that she did not deny that she had indicated in her statement to the CPIB on 3 June 2014 (Exhibit P158) that Rainbow did not have “_any direct dealings with \[Wong\] as he is the chairman of Sembcorp Marine_”_._[^29] However, she explained that she made this statement after she had heard from JSPL’s senior project managers who were called up for CPIB questioning. Since the Accused felt that she had “_caused a lot of trouble for a lot of people_,” she testified that she did _“not want to implicate Mr Wong”_ and _“just wanted to protect him._[^30]_”_
+
+37     In my judgment, the Accused’s explanations for the alleged inconsistency in her CPIB statements and her position at trial is both cogent and compelling. It is certainly not unconvincing or incredible. Let me proceed to explain. The special relationship alleged by the Accused was a high level one which directly involved Wong, the Managing/ Executive Director of JSPL and since 2009, President and CEO of Sembcorp Marine. If there was indeed a special relationship between JSPL and Rainbow, it was certainly not unreasonable for the Accused to be concerned over the possible reputational risks that could arise as a result of involving Wong in this case. This was especially so because the Accused considered Wong her _“benefactor”_ and her _“teacher”_.[^31]
+
+38     Secondly, the Prosecution had adduced four emails sent by the Accused in 2010 to Mr Adam Koay[^32] (“Koay”) (Exhibits P151 to P154) where the Accused had asked Koay if Rainbow could submit quotes to JSPL. According to the Prosecution, if Rainbow only acted on Wong’s instructions in bidding for jobs with JSPL, there was no need for the Accused to ask to be invited to quote. The Prosecution submitted that these emails illustrate that Rainbow engaged in normal competitive bidding process with JSPL, even when Rainbow was not invited to quote.[^33] However, I make the following observations to provide proper context. The Defence’s case was that because of the special relationship between JSPL and Rainbow, as long as Wong instructed for jobs to be awarded to Rainbow, Rainbow would be awarded these jobs. However, this did not mean that Rainbow was _precluded_ from requesting to be invited to quote – it simply meant that if Rainbow did so in respect of a particular job, and if Wong had not instructed accordingly, that particular job would not be awarded to Rainbow. In fact, this was consistent with the Accused’s testimony that in relation to Exhibits P151 to P154: (a) Wong had never instructed her to participate in those orders[^34]; and (b) Rainbow and DMH did not receive orders in respect of the products in Exhibits P151 to P154.[^35]
+
+39     Thirdly, the Prosecution had tendered conversations between the Accused and Koay[^36] (Exhibits P103 and P104) and between the Accused and Ng[^37] (Exhibit P130) concerning Prosafe projects awarded to DMH, requesting for Koay’s and Ng’s help. According to the Prosecution, there was no need for the Accused to have sent such messages if there was indeed a special relationship between JSPL and Rainbow.[^38] However, I did not find that either of these exhibits materially contradicted the Special Relationship Defence. I address each exhibit in turn.
+
+40     The Prosecution submitted that Exhibit P103 showed the Accused seeking Koay’s help to allow her to increase DMH’s prices to JSPL for certain items DMH intended to supply JSPL.[^39] However, Koay had testified that such communications to increase or decrease prices were all part of negotiations between the JSPL and the vendors.[^40] In my judgment, Exhibit P103 was not inconsistent with the Special Relationship Defence. I found that the Accused’s messages to Koay was not a request for any favours in relation to Rainbow’s business transactions with JSPL – the messages were merely part of negotiations between JSPL and Rainbow.
+
+41     The Prosecution submitted that Exhibit P104 showed the Accused seeking Koay’s help to allow her to split a particular Prosafe order – i.e. for DMH to supply valves and systems, and for Emerson Singapore to supply only actuators.[^41] The Prosecution referred to the Accused’s CPIB statement (Exhibit P157) where she indicated that she sent Koay the messages because she was _“scared \[she would\] lose the entire order_.”[^42] The Prosecution put to the Accused that she did not actually have the order which was the subject matter of Exhibit P104, and requested for Koay to split the order between DMH and Emerson because she was scared to lose the entire order.[^43] However, the Accused had testified that she already had the order, and it was _Wong_ who wanted her to undertake the project[^44]so as to break the monopoly held by Emerson.[^45] Wong had instructed for DMH to place a bid because he found Emerson’s prices too high.[^46]
+
+42     I considered carefully the Accused’s responses. In particular I noted Wong’s instructions to her. I was of the view that the Accused’s testimony was corroborated by Koay’s testimony that JSPL’s management had been “_quite unhappy_” with Emerson because they appeared to be monopolising the particular type of orders.[^47] As Emerson’s prices were becoming increasingly expensive, JSPL’s procurement department sourced for alternative suppliers “_to create competition_.”[^48] The solution to split the order, and for Emerson to supply the actuators only, arose because Emerson did not lower their prices to JSPL’s expectations.[^49] Accordingly, the contract was awarded to DMH as DMH’s quotes were “_more competitive_” than Emerson’s.[^50]
+
+43     Here, I also noted Koay’s testimony. I observed that Koay understood the message in Exhibit P104 to be the Accused _“trying to seek help from \[JSPL\] to resolve the problem.”_[^51] However, this appeared to be because Koay was of the position that the Accused knew nothing of JSPL’s plan for Emerson to supply only the actuators.[^52] In my judgment, it could not be a complete coincidence that what the Accused purportedly requested Koay to assist with (i.e. splitting the order), was precisely a matter that: (a) JSPL’s management had been unhappy about; and (b) Koay had discussed with JSPL’s management about. Here again, it begs the question as to whether there was indeed a special relationship between JSPL and Rainbow, such that Wong had informed the Accused of the decision for Emerson to supply only actuators and for DMH to supply the valves and system, and subsequently had instructed the Accused to do the order – i.e. consistent with the Accused’s testimony. I found that in this specific context, only Wong and no one else, could have confirmed or contradicted the Accused’s testimony. Wong’s testimony was unfortunately not placed before the Court.
+
+44     The Prosecution had also submitted that Exhibit P105 showed the Accused seeking Koay’s help to accept the price that the Accused would eventually offer. Further, the Prosecution sought to show that the Accused was requesting for Koay’s help, even though he was not the buyer – Ng was the buyer, while Koay was Ng’s manager. However, Koay had testified that such messages were simply _“the process of \[JSPL’s\] negotiations with DMH”_ – Ng as the buyer was trying to get the Accused to lower her price. Further, Koay testified that it was “_quite common_” for suppliers to communicate directly with a buyer’s manager instead of negotiating with the buyer.[^53]
+
+45     The Prosecution further submitted that the Accused sought confidential information from Ng – i.e. the price which Emerson, DMH’s competitor, for two Prosafe projects offered to JSPL (Exhibit P130).[^54] However, Ng had testified that the prices disclosed to vendors may not be the true prices offered by competitors (and accordingly, would not constitute confidential information) but was merely part of negotiations between JSPL and its vendors to get a particular vendor to lower the price further.[^55]
+
+46     Accordingly, I found that without Wong giving his testimony in relation to the Exhibits P103, P104 and P130, it could not be said that such communications were improper and that it was targeted at advancing Rainbow’s business interests with JSPL.
+
+47     Having considered this _other_ evidence cumulatively and in its proper context, I did not find that the Prosecution had adduced any evidence which was sufficient to impugn or contradict the Special Relationship Defence of the Accused.
+
+### Calling Wong to testify as a Prosecution witness or rebuttal witness
+
+#### Law on calling a material witness
+
+48     Menon CJ in _Nabill_ had established that there is no legal duty on the Prosecution to call any witness, including a material witness: _Nabill_ at \[58\]. However, in appropriate circumstances, the failure to call a material witness might mean that the Prosecution has failed to discharge its evidential burden to rebut the defence advanced by an accused person: _Nabill_ at \[67\]. In addition, the Court may _in certain circumstances_ be entitled to draw an adverse inference pursuant to s 116, illustration (g) of the Evidence Act, that the evidence of a material witness who could have been but was not called by the Prosecution would have been unfavourable to the Prosecution: _Nabill_ at \[67\].
+
+49      _Nabill_ involved a situation where an accused person had advanced a specific defence which identified specific material witnesses, and the Prosecution, despite having access to these witnesses, had chosen not to call them: at \[70\]. Menon CJ held that in _that specific situation_, the Prosecution ought to call the material witnesses if it is necessary to do so in order to discharge its evidential burden. However, there are two situations where the Prosecution need not call such material witnesses: (a) if the Prosecution is satisfied that it can rely on other evidence to discharge its evidential burden – evidence which would _“directly contradict”_ the accused person’s defence; or (b) if the accused person’s defence is patently and inherently incredible to begin with. For completeness, I considered these two issues.
+
+#### Whether Prosecution can rely on other evidence to discharge its evidential burden
+
+50     The key question here was whether the Prosecution can rely on other evidence before the Court to discharge its evidential burden. In this regard, I had earlier made a finding at \[47\] that there was no such other evidence before the Court, which could be relied on by the Prosecution to discharge its evidential burden to rebut the Special Relationship Defence.
+
+#### Whether Accused’s Special Relationship Defence is patently and inherently incredible
+
+51     The Prosecution submitted that the Special Relationship Defence was patently and inherently incredible. The Prosecution identified the following _“critical gaps”_[^56]:
+
+> (a)     There was no documentary evidence to prove the existence of the special relationship. It was mind-boggling for the Accused, an experienced businesswoman, to agree to a purely verbal arrangement with no contractual documents to protect herself and Rainbow should the arrangement turn sour.
+
+> (b)     The Accused failed to mention the existence of this special relationship in all her investigation and cautioned statements. This has been addressed earlier at \[34\] to \[37\].
+
+> (c)     The Defence did not ask Mr Michael Huan (“Huan”) questions specifically about the special relationship. This was despite the Accused’s testimony that Huan was one of the four people who allegedly know about the existence of this special relationship.
+
+> (d)     The Accused’s testimony on the special relationship is materially contradicted by objective evidence – her WhatsApp messages to Koay pleading for his help and her four emails asking Koay if Rainbow could quote for certain projects with JSPL. This has been addressed earlier at \[38\] to \[46\].
+
+> (e)     It is commercially inefficient and unbelievable for the entire procurement department in JSPL to be kept in the dark about the special relationship.
+
+52     In my view, the Special Relationship Defence was not patently and inherently incredible. I did not find the submission in \[51(c)\] directly relevant, having considered that the Special Relationship Defence only arose during the Accused’s testimony: see \[56\] below. I address the Prosecution’s submissions at \[51(a)\] and \[51(e)\] as follows.
+
+53     Firstly, it was argued that the alleged special relationship between the Accused and JSPL being a non-written agreement despite the Accused being an experienced businessperson, made the defence incredible. I noted however that the Accused had testified that the reality was that Rainbow had received orders from JSPL since 2003[^57] and parties had performed their respective obligations under the special relationship even though there was no written agreement.[^58] The Accused had also testified that it was Wong who told her to keep the special relationship confidential and to be known only to himself, the Accused and two other persons.[^59]
+
+54     Secondly, the argument that the existence of the special relationship was only made known to the Accused, Wong and two other persons (and not to the entire Procurement Department of JSPL) did not likewise make the defence incredible. The Special Relationship Defence was precisely that because of the special relationship, the Accused received instructions directly from Wong – i.e. the top of the triangle himself. Further, the Accused as well as Cheo Kok Heng[^60], the Chief Special Investigator with the CPIB, had both testified that when it came to awarding contracts to suppliers, _Wong_ was the final layer of approval for every purchase order, and that if he did not approve, the purchase order would not go through. Against this backdrop, I saw no good or compelling reason why the entire Procurement Department of JSPL had to be told of or even know of the existence of the special relationship.
+
+55     I should further add here, that the Prosecution’s submission, with respect, fails to appreciate the significance of the two key personalities who were involved in this special relationship – Wong and the Accused. Both were not low-level employees. Both were the top bosses at the apex of their respective companies. If the allegations were true, this was essentially a high level special relationship involving the Accused and Wong, who was the Managing Director/ Executive Director of JSPL and later President and CEO of Sembcorp Marine. Furthermore, the word “special”, which was used by the Accused herself[^61], connotes that the arrangement (unlike ordinary arrangements) was meant to be confidential and not disclosed to all and sundry, especially junior employees of both companies. As mentioned at \[37\] there were potential reputational risks involved as JSPL was a leading Singapore shipyard with an international reputation. JSPL was also a subsidiary of publicly-listed Sembcorp Marine. If the special relationship was inadvertently disclosed, there was an inherent risk that vendors could possibly view the special relationship as being in conflict with principles of fair competition amongst suppliers. This would be undesirable for both Rainbow and JSPL. It was also for this reason that I did not find it incredible that there was no written agreement detailing the special relationship.
+
+#### Whether the Prosecution should have called Wong as a Prosecution witness
+
+56     In my view, the Special Relationship Defence had properly crystallised only during the _Accused’s_ testimony and not during the Prosecution’s case when Huan was cross-examined by the Defence. While I am mindful that the Defence had questioned Huan on certain aspects of the Special Relationship Defence, the Defence did not expressly question Huan on whether a “special relationship” existed between Rainbow and JSPL. Accordingly, there was no issue of the Prosecution calling Wong as a Prosecution witness during the Prosecution’s case.
+
+#### Whether the Prosecution should have called Wong as a rebuttal witness
+
+57     In view of the above, I found that the Special Relationship Defence was not patently and inherently incredible. I also found that the Prosecution was unable to rely on other evidence to discharge its evidential burden. Accordingly, I proceed now to consider the issue of whether the Prosecution should have called Wong as a _rebuttal_ witness to discharge its evidential burden to rebut the Special Relationship Defence.
+
+58     Firstly, I found that it was crucial for the Prosecution to have called Wong to testify. The Prosecution could have relied on Wong’s evidence to directly challenge the Special Relationship Defence: _Nabill_ at \[107\]. In particular, the Prosecution could have relied on Wong’s testimony to challenge and contradict the _objective contemporaneous_ evidence relied upon by the Defence in support of the Special Relationship Defence – in particular, Exhibit D30. The Prosecution however failed to call Wong.
+
+59     It is also necessary to appreciate that Exhibit D30 was an email where there were _only_ two parties involved – Wong and the Accused. The Prosecution’s failure to call Wong as a rebuttal witness to rebut Exhibit D30 is therefore significant and pivotal. Without Wong’s testimony, the Court only had the benefit of the Accused’s testimony – i.e. that the email was sent by Wong because of the special relationship between JSPL and Rainbow. For present purposes, I should stress that there was also no reason for this Court to disbelieve the Accused’s defence of the Special Relationship between JSPL and Rainbow. Put in perspective, there was simply no contrary evidence before the Court as to why Wong had sent the Accused the email in Exhibit D30.
+
+60     Secondly, I address the Prosecution’s submission that it did not call Wong as a rebuttal witness in view of the Defence’s objection, relating to the rule in _PP v Bridges Christopher_ <span class="citation">\[1997\] 3 SLR(R) 467</span> at \[51\] (“_Christopher Bridges”_). By way of background, the Defence had during the trial, indicated that they would object to Wong being called as a rebuttal witness, unless they were informed of the areas of rebuttal by the Prosecution.[^62] The Defence cited the decision of _Christopher Bridges_, where it was established that the calling of a rebuttal witness would only be allowed in the case of a matter arising _ex improviso_ – one which the plaintiff could not have reasonably foreseen, or in other words, where the plaintiff has been misled or taken by surprise or in answer to the defendant’s evidence in support of an issue the proof of which lay upon the defendant.
+
+61     As established in _PP v BNO_ <span class="citation">\[2018\] SGHC 243</span> at \[60\], the statutory basis for the admission of rebuttal evidence is s 230(1)(t) of the Criminal Procedure Code (Cap 68, 2012 Rev Ed) (“CPC”). Section 230(1)(t) of the CPC gives the Prosecution the _right_ to call a witness for the purpose of rebuttal, and is intended to allow the calling of rebuttal evidence based on the longstanding practice in the courts: Jennifer Marie and Mohamed Faizal Mohamed Abdul Kadir, _The Criminal Procedure Code of Singapore: Annotations and Commentary_ (Academy Publishing, 2012) (“_CPC Commentary”_) at \[12.060\] and \[12.061\]. See Kee Oon J highlighted that the admission of rebuttal evidence is a matter for the Court’s discretion, and the threshold for allowing rebuttal evidence is set out conclusively in _Christopher Bridges_ at \[51\].
+
+62     I was of the view that the calling of Wong as a rebuttal witness would not fall foul of the rule in _Christopher Bridges_. I had earlier made my finding that the Special Relationship Defence only arose during the _Accused’s_ testimony and not during the Prosecution’s case. I further found that the Special Relationship Defence was a matter arising _ex improviso_ – i.e. one which the Prosecution could not have foreseen. This was therefore a situation where Wong’s rebuttal evidence could directly challenge the Defence’s evidence on the Special Relationship Defence. The plain wording of s 230(1)(t) of the CPC suggests the Prosecution’s _“right”_ to call a rebuttal witness. Further, s 230(1)(t) appears to affirm the Court’s _discretion_ whether to allow a party to recall a witness at the end of the Defence’s case: _BPK_ at \[119\]. Here, for the avoidance of doubt, I should also make clear that _if_ the Prosecution during the trial, had made an application to the Court to call Wong as a rebuttal witness, I would have allowed the application. The Prosecution chose not to do so.
+
+63     In view of the above, I found that the Prosecution had not discharged its evidential burden to rebut the Special Relationship Defence.
+
+### Disclosure of Wong’s statements
+
+64     Next, I address the separate issue of the Prosecution’s disclosure of Wong’s statements. Menon CJ in _Nabill_ had established that the Prosecution has a duty to disclose a material witness’s statements to the Defence: at \[39\]. Menon CJ also set out the timelines at which the Prosecution ought to satisfy its additional disclosure obligations.
+
+65     In fairness, it should be borne in mind that unlike _Nabill_, the present case did not involve _non-disclosure_ of statements. It was the _timing_ of the disclosure by the Prosecution of Wong’s three statements, which calls for some enhanced scrutiny. In this regard, Menon CJ in _Nabill_ had explained in detail as to the specific time when the statement of a material witness should be disclosed to the Defence. In particular, it was emphasised at \[50\] that –
+
+> “Like the Kadar obligations, **the Prosecution’s additional disclosure obligations constitute a continuing obligation** which only ends when the proceedings against the accused person (including any appeal) have been completely disposed of. Thus, **if the relevance of a particular material witness’s evidence only becomes apparent after the accused person has testified at the trial, then that witness’s statement should be disclosed to the Defence at that juncture**…..”
+
+(Emphasis added)
+
+#### Timing of disclosure of Wong’s statements
+
+66     In the present case, it was undisputed that all three of Wong’s statements recorded on 2 October 2014, 14 May 2019 and 11 November 2019 had been disclosed by the Prosecution to the Defence on 11 November 2019.[^63]
+
+67     In my judgment, the Prosecution ought to have made disclosure to the Defence as follows:
+
+> (a)     Wong’s first statement dated 2 October 2014 should have been disclosed on or around 21 November 2018. The relevance of Wong’s evidence only became apparent on 21 November 2018, when the Accused testified on her defence of special relationship between JSPL and Rainbow, and not during the Prosecution’s case when the Prosecution’s witness Huan testified. I also found that the admission of Exhibit D30 on 22 November 2018 further made the relevance of Wong’s testimony even more obvious.
+
+> (b)     Wong’s second statement dated 14 May 2019 should have been disclosed on or around 14 May 2019.
+
+> (c)     Wong’s third statement dated 11 November 2019 was properly disclosed on 11 November 2019.
+
+68     As such, I disagreed with the Prosecution’s submission that it had given disclosure of the statements at the _“earliest possible opportunity_” since it had served on the Defence all three of Wong’s statements on the _same day_ that his last statement was recorded. In my judgment, there was no need for the Prosecution to have waited until the final statement of Wong was recorded by the CPIB, before disclosing all three statements to the Defence:
+
+> (a)     As at 21 November 2018, when it became apparent that Wong’s evidence was relevant, the Prosecution ought to have disclosed Wong’s first statement dated 2 October 2014 to the Defence. However, the Prosecution did not do so and only gave disclosure on 11 November 2019, seven days before the Defence closed its case on 18 November 2019.
+
+> (b)     It is also pertinent to note that Wong’s second statement was dated 14 May 2019 – i.e. the statement would have been recorded _after_ the Accused had given her evidence-in-chief, but _before_ cross-examination by the Prosecution. This begs the question of whether it was more than obvious to the Prosecution that Wong’s evidence was crucially relevant, such that a decision was made to record a further statement. The irresistible inference here is that this must be so. In any event, once this statement was recorded on 14 May 2019, it should have been disclosed to the Defence on or around 14 May 2019.
+
+> (c)     Similarly, the Prosecution did not give disclosure of Wong’s first and second statements on or around 24 June 2019. This was the date on which the Prosecution commenced cross-examination of the Accused on the Special Relationship Defence. This is significant. By cross-examining the Accused, it would have provided _confirmation_ that the Accused was relying on the special relationship defence to show that there was no reason for her to bribe JSPL’s employees. Accordingly, at that point, it should have been more than apparent to the Prosecution that Wong’s evidence was relevant.
+
+> (d)     Even by the time the Accused was released as a witness on 24 July 2019, the first and second statements of Wong were still not disclosed to the Defence.
+
+> (e)     It was not until almost 4 months later on 11 November 2019 that all three of Wong’s statements were disclosed to the Defence.
+
+69     As such, I found no good reason for the Prosecution’s delay in giving disclosure of Wong’s first and second statements. In essence, from the commencement of the trial right up to the point of disclosure (which was _after_ the Accused was released as a witness), the Defence did not have access to Wong’s statements which was necessary to allow the Defence to make an informed choice in deciding whether to call Wong as a Defence witness in support of its case. The Defence was left in a situation where it may have chosen _not_ to call Wong as a Defence witness because of the dangers arising from not being aware of what Wong had previously said in his statements to the CPIB. These were precisely the same considerations that Menon CJ had identified in setting out the scope of the additional disclosure obligations: _Nabill_ at \[43\] to \[48\].
+
+#### Consequences of late disclosure under additional disclosure obligations
+
+70     As with late disclosure under the _Kadar_ principles, late disclosure under the additional disclosure obligations could render a conviction unsafe if it was a _material irregularity_: _Kadar_ at \[120\]. Menon CJ had stated in _Nabill_ at \[48\] as follows –
+
+> “48    Further, it bears emphasis that **where there is any doubt** over whether a particular statement is subject to disclosure, whether under the Kadar or the additional disclosure obligations, **the Prosecution ought to err on the side of disclosure. This is because the consequences of non-disclosure could be severe.** As we stated in Kadar (\[19\] supra) at \[120\]:
+
+> … \[T\]here is no reason why **a failure by the Prosecution to discharge its duty of disclosure in a timely manner** should not cause a conviction to be overturned **if such an irregularity can be considered to be a material irregularity that occasions a failure of justice, or, put in another way, renders the conviction unsafe …”**
+
+(Emphasis added)
+
+71     Notwithstanding the above, I should make clear at this juncture that it was _not_ necessary for the court to reach a finding on the consequences of late disclosure on the Prosecution’s legal burden to prove its case beyond a reasonable doubt, including whether there was any material irregularity. Here, I was particularly mindful that the Prosecution’s additional disclosure obligations were first established in _Nabill_, a judgment delivered on 31 March 2020. Prior to 31 March 2020, additional disclosure obligations did _not_ form part of the Prosecution’s disclosure obligations. In the present case, the Prosecution made its decision on whether and when it should disclose Wong’s statements to the Defence many months before the _Nabill_ judgment was delivered (at the latest, when Wong’s statements were disclosed on 11 November 2019). As at that point, the Prosecution could not be said to be bound by any additional disclosure obligations.
+
+72     In any event, it was not necessary for the Court to reach a finding on this issue in the light of the conclusion the Court will be making in a later part of this decision relating to the Prosecution not calling Wong as a rebuttal witness: see \[78\] to \[86\].
+
+73     In these circumstances, it was therefore not necessary for the court to make a finding on this disclosure issue.
+
+### Whether the Court should draw any adverse inference
+
+74     I observe in passing that the Defence had also submitted that the failure of the Prosecution to call Wong to testify on the Special Relationship Defence should result in an adverse inference being drawn against the Prosecution under s 116, Illustration (g) of the Evidence Act (Cap. 97) (“EA”).[^64]
+
+75     I noted however, that Menon CJ in _Nabill_ had highlighted that if the Prosecution fails to call the material witness in circumstances where the _Prosecution_ bears the evidential burden to rebut the accused person’s specific claim, it may simply be found that the Prosecution has failed to discharge its evidential burden: at \[79\]. There may be no need for the Court to go further and draw an adverse inference as to what the missing evidence might have revealed: also at \[79\]. I was also mindful that drawing an adverse inference must depend on the circumstances of each case: _Nabill_ at \[73\].
+
+76     In any case, for similar reasons as mentioned at \[72\] above, it was also _not_ necessary for the Court to reach a finding on whether an adverse inference should be drawn under s 116, Illustration (g) of the EA in determining whether the Prosecution has discharged its legal burden to prove its case beyond reasonable doubt. Accordingly, I decline to make a finding on this issue.
+
+77     For completeness, I also briefly address the Prosecution’s submissions that the Court should draw an adverse inference against the _Accused_ for failing to call Wong to testify as a Defence witness.[^65] The Prosecution had submitted that the Defence made a conscious and informed decision not to call Wong, because it had the benefit of Wong’s statements but refused to call Wong as a Defence witness.[^66] In my judgment, the crux of the matter is simply that it was the _Prosecution_, not the Defence, who ought to have called Wong to testify as a rebuttal witness. As the Prosecution chose not to do so, there is simply no basis for an adverse inference to be drawn against the Defence in these circumstances.
+
+### Whether charges proved beyond reasonable doubt
+
+#### Law on proving beyond a reasonable doubt
+
+78     Having considered the Prosecution’s failure to discharge the evidential burden, it is fundamental to consider the interplay between the evidential burden and the Prosecution’s legal burden to prove its case beyond reasonable doubt. The Court of Appeal in _GCK_ had established that a reasonable doubt may arise upon an assessment of the totality of the evidence: at \[135\]. This involves a holistic assessment of both the Prosecution’s and the Defence’s cases, and the interactions between the two: _GCK_ at \[135\]. Crucially, the Court of Appeal highlighted that the Defence can bring the Prosecution’s case below the requisite threshold by pointing to such evidence that is capable of generating a reasonable doubt: _GCK_ at \[145\].
+
+#### Prosecution has not proved all proceeded charges beyond a reasonable doubt
+
+79     Based on the earlier discussion at \[25\] to \[30\], the Defence had clearly pointed to evidence which _corroborated_ the Special Relationship Defence – in particular, Exhibits D30 and D75. These were the only objective contemporaneous evidence before the Court on the Special Relationship Defence. The Prosecution had failed to rebut this evidence. The Prosecution had also failed to call Wong – a material witness who could have confirmed or contradicted the Special Relationship Defence.
+
+80     Against this backdrop, the succinct statement by the Court of Appeal in _Nabill_ at \[52\] is instructive –
+
+> “52……. **_it is open to the Prosecution to challenge that defence by_**_, for instance_, **_taking further statements from the relevant material witnesses and calling them as rebuttal witnesses to contradict any new contentions that the accused person might put forth. If the Prosecution fails to do so, it may well be that the accused person is simply speaking the truth_**, _rather than tailoring his defence. It should be emphasised that_ **_there is no principle of law that the evidence of an accused person must be treated as inherently incredible or being of suspect value merely because it advances his defence and is, in that sense, self-serving. If the presumption of innocence means anything at all, it must mean that an accused person who testifies to exonerate himself may be telling the truth._****_The assessment of whether or not he is doing so must, in the final analysis, depend on the totality of the evidence_**_…”_
+
+81     To be clear, there is no reason to disbelieve the Accused’s defence. In my view, the Defence’s evidence on the Special Relationship Defence has created a reasonable doubt on all the proceeded charges as to :
+
+> (a)     whether there was an objectively corrupt element; and
+
+> (b)     whether the Accused possessed a guilty knowledge.
+
+82     In view of the above, the Court is constrained to find that there existed a special relationship between JSPL and Rainbow, given that the Court only has the benefit of evidence which corroborated the Special Relationship Defence and no contrary evidence which rebutted the Special Relationship Defence. In my judgment, under such circumstances, there was clearly no advantage gained or hoped to be gained by the Accused in respect of all the transactions underlying the ten proceeded charges. Furthermore, there was no purpose in bribing JSPL’s employees because the Accused would in any case receive orders from JSPL, if she followed Wong’s instructions. The Accused also did not have to compete for the orders.
+
+83     Therefore, in relation to all ten proceeded charges, it could not be said that the Accused possessed corrupt intention in the transactions, by the standard of a reasonable man, or knew or realised that what she did was corrupt by the ordinary and objective standard. This would mean that the various acts of the Accused in giving the investment opportunities, holidays, airline tickets, rental flat, rental car, liquor bottles and a job position could not be said to be gratifications given with a corrupt intent. It followed therefore that it could not also be said that the Accused corruptly gave gratification to the agents employed by JSPL as an inducement _to advance her business interests with JSPL_ – a fundamental aspect of all ten proceeded charges_._
+
+84     As mentioned at the start of this decision, the Court of Appeal in _GCK_ had elaborated on the meaning of proof beyond a reasonable doubt. Further, it was emphasised that the legal burden is always on the Prosecution to prove its case beyond a reasonable doubt. It would be useful to bear in mind this hallowed principle which the Court of Appeal elaborated on at \[145\] –
+
+> “145.  _Conversely, what the Defence needs to do to bring the Prosecution’s case below the requisite threshold is to point to such evidence that is capable of generating a reasonable doubt: see _Pinsler _at para 12.009._ **_If the Prosecution fails to rebut such evidence, it will necessarily fail in its overall burden of proving the charge against the accused person beyond a reasonable doubt_**_. We would add that such evidence need not necessarily be raised (in the sense of being asserted, or being made the subject of submissions by the Defence in order for it to give rise to a reasonable doubt._ **_What matters is that a reasonable doubt arises (in whatever form) from the state of the evidence at the close of the trial.”_**
+
+(Emphasis added)
+
+85     I am therefore of the considered view, that a conviction based on the totality of the evidence before the Court and the _unrebutted_ Special Relationship Defence of the Accused, would be wholly unsafe. In the round, the Defence’s account of the relevant evidence and the state of the evidence at the close of trial, has raised a reasonable doubt in my mind as to the guilt of the Accused.
+
+86     Accordingly, I am satisfied that the Prosecution has failed to prove its case against the Accused beyond reasonable doubt.
+
+## Conclusion
+
+87     I hereby acquit the Accused. The Accused is given a discharge amounting to an acquittal of all the ten proceeded charges against her.
+
+* * *
+
+[^1]: Notes of Evidence (“NE”), 21 November 2018, Page 67, 24 June 2019, Page 5
+
+[^2]: NE, 22 November 2018, Page 6, 24 June 2019, Pages 5 and 6
+
+[^3]: NE, 24 June 2019, Page 6
+
+[^4]: NE, 21 November 2018, Pages 67 and 77
+
+[^5]: NE, 21 November 2018, Page 67; 22 November 2018, Page 6
+
+[^6]: NE, 21 November 2018, Page 60
+
+[^7]: NE, 24 June 2019, Pages 5 and 6
+
+[^8]: NE, 24 June 2019, Pages 5, 6, 72 to 75
+
+[^9]: NE, 24 June 2019, Page 64
+
+[^10]: Exhibit P71
+
+[^11]: NE, 23 July 2019, Page 7
+
+[^12]: NE, 23 July 2019, Page 10
+
+[^13]: NE, 22 November 2018, Page 22
+
+[^14]: NE, 22 November 2018, Pages 23 to 25; 5 April 2019, Page 4
+
+[^15]: Defence’s Closing Submissions dated 10 February 2020 (“DCS”) at \[67\]
+
+[^16]: NE, 17 January 2019, Page 56
+
+[^17]: NE, 24 June 2019, Page 10
+
+[^18]: NE, 24 June 2019, Page 11
+
+[^19]: NE, 23 July 2019, Pages 97 to 101
+
+[^20]: Exhibit P73
+
+[^21]: NE, 23 July 2019, Pages 100 and 101
+
+[^22]: NE, 24 June 2019, Pages 62 to 66, 69 to 70, 25 June 2019, Pages 17 and 18
+
+[^23]: Prosecution’s Closing Submissions dated 10 February 2020 (“PCS”) at \[131\]
+
+[^24]: NE, 24 June 2019, Page 94
+
+[^25]: NE, 24 June 2019, Page 93
+
+[^26]: NE, 24 June 2019, Page 93
+
+[^27]: NE, 24 June 2019, Pages 93 and 94
+
+[^28]: NE, 5 April 2019, Page 125
+
+[^29]: NE, 23 July 2019, Pages 3 and 4
+
+[^30]: NE, 23 July 2019, Pages 4 and 5
+
+[^31]: NE, 23 July 2019, Page 5
+
+[^32]: Koay was Senior Manager of JSPL’s purchasing department as at the date of Exhibits P151 and P152. He was Assistant General Manager of JSPL’s purchasing department as at the date of Exhibits P153 and P154 (Exhibit P72).
+
+[^33]: PCS at \[134\]
+
+[^34]: NE, 24 June 2019, Pages 17, 18 and 19
+
+[^35]: NE, 24 June 2019, Page 20
+
+[^36]: Koay was Deputy General Manager of JSPL’s procurement department as at the date of Exhibits P103 and P104 (Exhibit P72).
+
+[^37]: Ng was an Executive of JSPL’s procurement department as at the date of the correspondence in Exhibit P130 (Exhibit P74).
+
+[^38]: NE, 24 June 2019, Pages 81 and 87
+
+[^39]: PCS at \[92\]
+
+[^40]: NE, 6 September 2017, Pages 104 to 106
+
+[^41]: PCS at \[92\]
+
+[^42]: NE, 24 June 2019, Page 91
+
+[^43]: NE, 24 June 2019, Pages 86 and 87
+
+[^44]: NE, 24 June 2019, Pages 87, 91 to 93
+
+[^45]: NE, 24 June 2019, Page 78
+
+[^46]: NE, 24 June 2019, Page 78
+
+[^47]: NE, 5 September 2017, Page 106
+
+[^48]: NE, 6 September 2017, Page 87
+
+[^49]: NE, 6 September 2017, Pages 86 to 90
+
+[^50]: NE, 6 September 2017, Page 89
+
+[^51]: NE, 5 September 2017, Page 106
+
+[^52]: NE, 5 September 2017, Page 107
+
+[^53]: NE, 6 September 2017, Pages 1 to 4
+
+[^54]: PCS at \[56\]
+
+[^55]: NE, 31 October 2017, Page 72
+
+[^56]: Prosecution’s Written Submissions on _Nabill_’s case dated 20 April 2020 at \[28\]
+
+[^57]: NE, 24 June 2019, Page 7
+
+[^58]: NE, 24 June 2019, Pages 7 and 8
+
+[^59]: NE, 22 November 2018, Page 7
+
+[^60]: NE, 9 October 2018, Pages 110 and 111
+
+[^61]: NE, 21 November 2018, Page 67
+
+[^62]: NE, 18 November 2019, Page 8
+
+[^63]: Prosecution’s Reply Submissions on _Nabill’s_ Case dated 27 April 2020 (“PNRS”) at \[24\]; Defence’s Supplemental Submissions dated 20 April 2020 (“DNS”) at \[62\]
+
+[^64]: DCS at \[75\]
+
+[^65]: PCS at \[137\]
+
+[^66]: PCS at \[138\]
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F24705-SSP.xml)
