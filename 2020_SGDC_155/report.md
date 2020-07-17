@@ -1,0 +1,290 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Yeong Mun Wai  
+
+### \[2020\] SGDC 155
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">DAC 930009 of 2019 and 1 Other</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">08 July 2020</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Koo Zhi Xuan</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Nicholas Yeo (Singapore Customs) for the Prosecution; Ong Meng Hwa William (Alpha Law LLC) for the Accused.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Yeong Mun Wai</td></tr></tbody></table>
+
+Criminal Procedure and Sentencing – Sentencing – Offences under Customs Act
+
+Criminal Procedure and Sentencing – Sentencing – Principles – Parity
+
+Criminal Procedure and Sentencing – Sentencing – Benchmark sentences
+
+8 July 2020 - Judgment reserved.
+
+### District Judge Koo Zhi Xuan:
+
+1       In the sentencing of offenders involved in the smuggling of duty unpaid cigarettes under the Customs Act (Cap 70, 2004 Rev Ed) (“Customs Act”), the sentencing benchmarks laid down by the High Court (“the Benchmarks”) in _Yap Ah Lai v PP_ <span class="citation">\[2014\] 3 SLR 180</span> at \[46\] (“_Yap Ah Lai_”) and _PP v Pang Shuo_ <span class="citation">\[2016\] 3 SLR 903</span> at \[49\] (“_Pang Shuo_”) have provided much clarity and consistency in this area of law. It is now well established that the primary factor in the sentencing of such offenders is the quantity or weight of the cigarettes dealt with. But in a case involving co-offenders who are involved in the same criminal enterprise (and therefore the same quantity of cigarettes), how should each of their sentences be calibrated, to reflect their respective criminal culpability vis-à-vis each other? To what extent are the Benchmarks applicable, if an offender is to be sentenced not for the principal offence under the Customs Act (_eg_, storing or delivering duty unpaid cigarettes), but for _abetting_ the co-offender who had committed the principal offence? These are some of the issues considered in this judgment.
+
+## Facts
+
+2       On 7 April 2020, the Accused pleaded guilty to the following charge:
+
+> you, sometime in May 2019, in Singapore, did abet an offence by intentionally aiding one Liew Cheng Long, Shawn by allowing Liew Cheng Long, Shawn to store duty unpaid cigarettes at no 63 Kaki Bukit Place #01-01, Millennium Centre, Singapore, and by the doing of that thing, an act took place, namely, on 14 June 2019, at about 12.04 pm, Liew Cheng Long, Shawn did store uncustomed goods, to wit, 1,285 cartons x 200 sticks, 40 cartons x 160 sticks, 307 packets x 20 sticks and 6 packets x 16 sticks of assorted brands of duty unpaid cigarettes, weighing 249.682 kilogrammes, on which excise duty of $117,908.36 was not paid, which act was committed as a consequence of your abetment, and you have thereby committed an offence under Section 128I(1)(a)(ii) of the Customs Act (Cap 70) read with Section 140 of the same Act, punishable under section 128L(4) of the same Act.
+
+3       The Accused also admitted to a related charge in relation to the Goods and Services Tax Act for the same amount of duty unpaid cigarettes, and consented to have it taken into consideration for the purposes of sentencing.
+
+### Statement of Facts
+
+4       The Accused admitted to the following statement of facts (“Accused’s SOF”) without qualification:
+
+> The accused is Yeong Mun Wai …
+
+> 2    The co-accused is Liew Cheng Long, Shawn (“B1”) … (dealt with separately).
+
+> 3    On 22 October 2019, \[the Accused\] was arrested at about 10.45am at Customs Operations Command, Singapore, for abetting an offence by intentionally aiding B1 to store uncustomed goods i.e. duty unpaid cigarettes.
+
+> **Facts pertaining to the 1st charge (DAC-930009-2019)**
+
+> 4    On 14 June 2019, from about 7am, Customs officers (the “Officers”) conducted an operation in the vicinity of #01-01, 63 Kaki Bukit Place, Millennium Centre, Singapore, (the “Unit”) to arrest persons concerned in illicit activities involving duty unpaid cigarettes. At about 10.50am, the officers saw a Singapore registered car bearing plate number SDD6575A (the “Car”) driven by B1 and arriving at the Unit. After parking the Car in the compound of Millennium Centre, B1 alighted at about 11am and entered the Unit empty-handed. B1 remained in the Unit until about 12.04pm, when the Officers saw him leaving the Unit with two canvas bags and loading them onto the Car. Suspecting the canvas bags to contain duty unpaid cigarettes, the Officers identified themselves to B1 and conducted a check on the bags. In B1’s presence, the Officers found 81 cartons x 200 sticks and 26 cartons x 160 sticks of duty unpaid cigarettes of assorted brands wrapped in brown wrappers in both canvas bags. B1 admitted knowledge of the cigarettes found and was arrested. The said cigarettes, Car, canvas bags and brown wrappers were seized as case exhibits.
+
+> 5    On the same day, at about 12.06pm, the Officers conducted a search of the Unit. In B1’s presence, the Officers found 1,204 cartons x 200 sticks, 14 cartons x 160 sticks, 307 packets x 20 sticks and 6 packets x 16 sticks of duty unpaid cigarettes of assorted brands contained in brown boxes, green gunny sacks, black trash bags and a cupboard in the Unit. The said cigarettes, brown boxes, gunny sacks and black trash bags were similarly seized as case exhibits.
+
+> 6    Investigation revealed that \[the Accused\] was the legal tenant of the Unit at the material time of the abovesaid offences and had rented the Unit for his business since 2015. On or about May 2019, B1 approached \[the Accused\] to rent part of the Unit from him to store duty unpaid cigarettes, including the total quantity seized on 14 June 2019 (i.e. 1,285 cartons x 200 sticks, 40 cartons x 160 sticks, 307 packets x 20 sticks and 6 packets x 16 sticks of assorted brands of duty unpaid cigarettes) and \[the Accused\] agreed to the same verbally. \[The Accused\] agreed to sublet part of the Unit to B1 with the knowledge that B1 would be using the Unit to store and repack duty unpaid cigarettes before delivering them to buyers of such cigarettes. In return, B1 promised to pay \[the Accused\] a monthly rental sum of $1,500. In addition, \[the Accused\] also rented his van to B1 for $50 per use for B1 to transport duty unpaid cigarettes from B1’s suppliers to the Unit for storage.
+
+> 7    \[The Accused\] knew that the excise duty leviable on the seized cigarettes were unpaid at the material time the offences were committed.
+
+> 8    The excise duty leviable on the seized cigarettes in the 1st charge, weighing 249.682 kilogrammes, is $117,908.36.
+
+### Antecedents
+
+5       The Accused has no similar antecedent. He was convicted and sentenced to probation for 18 months for an offence under section 380 of the Penal Code (theft in dwelling house) in 1988.
+
+### The proceedings of the co-accused
+
+6       In its written submissions, the Prosecution annexed the statement of facts which _the co-accused_, B1, had admitted to without qualification (“B1’s SOF”), in a separate and earlier proceedings. I set out the relevant portions of B1’s SOF below:
+
+> The accused is \[B1\].
+
+> 2    On 14th June 2019, at about 12.05pm, \[B1\] was arrested at #01-01, 63 Kaki Bukit Place, Millennium Centre, Singapore, for storing uncustomed goods i.e. duty unpaid cigarettes.
+
+> **Facts pertaining to the 1st charge (DAC-917392-2019)**
+
+> 3    \[The contents of this paragraph are similar to paragraph 4 of the Accused’s SOF\].
+
+> 4    \[The contents of this paragraph are similar to paragraph 5 of the Accused’s SOF\].
+
+> 5    Investigation revealed that, since April 2019, \[B1\] was engaged by a Chinese male known to him as “Xiao Yu” to collect, store, repack and deliver duty unpaid cigarettes to Xiao Yu’s customers. Xiao Yu would instruct \[B1\] to collect duty unpaid cigarettes from different suppliers at various locations and, thereafter, directed \[B1\] to rent a warehouse to store such cigarettes pending delivery to Xiao Yu’s customers. To perform his role, \[B1\] rented the Car and Unit, and Xiao Yu would pay \[B1\] for the monthly rental of the Unit. After collecting duty unpaid cigarettes from Xiao Yu’s suppliers, \[B1\] would transport them to the Unit for storage using the Car and track the stock of duty unpaid cigarettes therein. \[B1\] would also report to Xiao Yu regularly on the supply of such cigarettes remaining in the Unit. Upon receiving Xiao Yu’s instructions on the date, time and location of delivery of duty unpaid cigarettes to Xiao Yu’s customers, \[B1\] would then retrieve such cigarettes from the Unit and deliver them using the Car. \[B1\] would be paid a cash sum of $0.50 to $1.00 for every carton of duty unpaid cigarettes delivered.
+
+> 6    On 14th June 2019, at about 10am, \[B1\] received instructions from Xiao Yu to retrieve and repack duty unpaid cigarettes from the Unit for delivery to Xiao Yu’s customers. As such, \[B1\] arrived at the Unit in the Car at about 10.50am to pack such cigarettes into two canvas bags and left at about 12.04pm when he was arrested by the Officers. At the time of arrest, \[B1\] also admitted that the cash sum of $768.90 found in his possession were payment by Xiao Yu’s customers for duty unpaid cigarettes previously delivered by \[B1\]. As such, the sum of $768.90 was similarly seized as case exhibits.
+
+> 7    \[B1\] knew that the excise duty leviable on the seized cigarettes was unpaid at the material time the offence was committed.
+
+> 8    The excise duty leviable on the seized cigarettes weighing a total of 249.682 kilogrammes in the 1st charge is $117,908.36.
+
+7       B1 pleaded guilty on 19 September 2019 for an offence under section 128I(1)(a)(ii) of the Customs Act, namely, storing duty unpaid cigarettes in the Unit. The Prosecution sought an imprisonment term of 19 months for B1, and the District Judge who took B1’s plea sentenced him to 19 months’ imprisonment accordingly.
+
+## Parties’ Initial Submissions on Sentence
+
+8       In the present case, the Prosecution submitted that the Accused should be sentenced similarly to at least 19 months’ imprisonment, citing the parity principle. The Prosecution also submitted that a 19 months’ imprisonment sentence falls within the “benchmark sentence” for the weight of cigarettes involved (_ie_, 249.682kg).[^1]
+
+9       In response, the Defence submitted in its Mitigation Plea that the Court should “distinguish the sentence of the \[B1\] from \[that to be imposed on\] the Accused. \[B1\] was a paid worker hired by the syndicate. Here the Accused has merely allowed the main offender the use of his storage space”.[^2]
+
+## Queries of the Court
+
+10     At the hearing on 7 April 2020, I drew parties’ attention to \[61\] of _Pang Shuo_ and raised queries on how the parity principle should be applied in the present case. At \[61\] of _Pang Shuo_, the High Court had analysed the sentence it was imposing on the accused (“the Respondent”) in relation to that which was imposed on the co-accused in that case, as follows:
+
+> … the parity principle applies as between the Respondent and the co-accused as they are generally equally placed in terms of criminal culpability and the harm caused by their acts. In mitigation, the same personal mitigation factors were also cited … Thus, there ought not to be a glaring disparity in the sentences passed on the Respondent as compared to that imposed on the co-accused. The proper application of the parity principle is important in maintaining public confidence in the integrity of the administration of justice: see Chan Sek Keong CJ’s observations in _PP v UI_ <span class="citation">\[2008\] 4 SLR(R) 500</span> (“_UI_”) at \[19\]. Although I accept that the Respondent’s role was slightly greater than the co-accused as he had also collected and delivered in addition to unloading the duty unpaid tobacco …., his slightly higher culpability would be offset by the further discount attributed to his youthfulness. The Respondent was a year younger than the co-accused at the time of the offence.
+
+11     Having heard parties briefly, I directed that they file further submissions on the following two issues:
+
+> (a)     Can the Accused be said to be "equally placed in terms of criminal culpability" as B1, such that he should suffer the same term of imprisonment as B1 (_ie_, 19 months) (“**Issue 1**”)?
+
+> (b)     If not, if the Accused bears a lesser culpability compared with B1, what is a fair and appropriate sentence (“**Issue 2**”)?
+
+12     The Prosecution and Defence filed further submissions on the two issues above, ahead of the hearing on 10 June 2020.
+
+## Parties’ Further Submissions on Sentence
+
+### Prosecution’s Submissions
+
+13     On Issue 1, the Prosecution maintained that the Accused is equally placed in terms of criminal culpability as B1, and a sentence of 19 months’ imprisonment should therefore be imposed on the Accused in light of the parity principle.[^3] The Prosecution made the following arguments in support of its position:
+
+> (a)     The Accused’s involvement had gone beyond the facts of the charge.[^4] Besides renting part of the Unit to B1, he had also rented his van as well for the purposes of transporting cigarettes. This is an aggravating factor.
+
+> (b)     The Accused cannot be said to be uninvolved in the syndicate behind the smuggling of the said cigarettes.[^5] This is because the Accused had received $1,500 from B1 to sublet part of the Unit for a month to him to store and repack the cigarettes. This sum of $1,500 is significant, and the monies had come from the syndicate. Being paid with monies from the syndicate for providing the storage space and the van to B1 amount to “being involved with syndicated activities, and this in itself constitutes an aggravating factor”.[^6]
+
+> (c)     The Accused’s act was instrumental in the success of the syndicated offence.[^7] If the Accused had not agreed to sublet part of the Unit to B1, B1 would not have had a location to store the said cigarettes, which was a substantial amount (_ie_, 249.682kg).
+
+> (d)     Ultimately, while the Accused’s culpability “may not be exactly the same as \[B1’s\], it is similar enough that the principle of parity should apply”.[^8]
+
+14     On Issue 2, the Prosecution submitted that even if this Court finds that the Accused is less culpable than B1, the Accused should be sentenced to not less than 18 months’ imprisonment. The Prosecution relied on the Benchmarks; and various unreported decisions showing that the median sentence imposed on offenders involved in duty unpaid cigarettes ranging from 225kg to 265kg is 18 months.[^9]
+
+### Defence’s Submissions
+
+15     On Issue 1, the Defence submitted that the Accused is not as equally culpable as B1 was. Relying on \[61\] of _Pang Shuo_ (see above at \[10\]), the Defence submitted that a different sentence would be warranted to co-offenders involved in the same criminal enterprise under the Customs Act if there was some difference in their level of culpability.[^10] The Defence then highlighted the following differences in culpability between B1 and the Accused in the present case:
+
+> (a)     B1 was a “paid worker for the syndicate”, having taken instructions from one “Xiao Yu” (see B1’s SOF at \[5\], which has been reproduced above at \[6\]). On the other hand, the Accused was neither a paid worker nor a member of the syndicate. The Accused has “no links whatsoever with any syndicate” and there was no evidence that the Accused knew that the monies came from the syndicate.[^11]
+
+> (b)     While B1 had engaged in a range of activities in carrying out the offence (_eg_, storage, repacking, delivering and transporting the cigarettes), the Accused was only involved in the storage of the cigarettes.[^12]
+
+16     On Issue 2, the Defence submitted that as the Accused is much less culpable than B1, the Court is entitled to go below the sentencing benchmark laid down in _Yap Ah Lai_ for offenders dealing with cigarettes between 201kg to 300kg (_ie_, 18 to 24 months). The Defence highlighted that such benchmarks are but guidelines; and it remains the task of the Court to arrive at a sentence which “best reflects the lower ‘overall criminality’” of the Accused. The Defence finally submitted that a discount of 7 months would be appropriate and the Accused should be sentenced to 12 months’ imprisonment.[^13]
+
+## Decision of the Court
+
+### Issue 1: Is the Accused equally placed in terms of criminal culpability as B1?
+
+#### The applicability of the parity principle
+
+17     The crux of the matter in Issue 1 is the applicability of the parity principle to the facts of this case. The parity principle in the sentencing of co-offenders has been described by the High Court in _Chong Han Rui v PP_ <span class="citation">\[2016\] SGHC 25</span> (“_Chong Han Rui_”) at \[1\] as seeking to achieve the following goal: “those of similar culpability should receive similar sentences, while those of greater culpability should generally be more severely punished”. This principle rests on the need to preserve public confidence in the administration of justice; by ensuring that sentencing is carried out with “due regard to the element of basic fairness” such that “co-offenders in a common criminal enterprise are \[not\] sentenced in an unduly disparate manner” (_Chong Han Rui_ at \[47\]).
+
+18     The notion of “basic fairness” helpfully explains why, under the parity principle, sentences imposed on co-offenders should _not_ be similar if “there was a _relevant difference_ in \[the co-offenders’\] _responsibility_ for the offence” (_Chong Han Rui_ at \[49\], citing _PP v Ng Sae Kiat and other appeals_ <span class="citation">\[2015\] 5 SLR 167</span> at \[74\]). A co-offender who had a more culpable role in a criminal enterprise should rightly be dealt with more severely than a co-offender who played a lesser role: see _PP v Aw Tai Hock_ <span class="citation">\[2017\] 5 SLR 1141</span> at \[74\]. This has also been termed “the relativity principle”, which “operates in a similar way to the parity principle” (_Chua Siew Peng v PP and another appeal_ <span class="citation">\[2017\] 4 SLR 1247</span> at \[71\]). For convenience, I shall refer only to the “parity principle” in this judgment.
+
+19     The parity principle is equally applicable to the sentencing of offenders involved in the smuggling of duty unpaid cigarettes in contravention of the Customs Act. This was not disputed by parties, and is in fact the necessary import of \[61\] of _Pang Shuo_, which I reproduce here again as follows:
+
+> … the parity principle applies as between the Respondent and the co-accused as they are generally equally placed in terms of criminal culpability and the harm caused by their acts. In mitigation, the same personal mitigation factors were also cited … Thus, there ought not to be a glaring disparity in the sentences passed on the Respondent as compared to that imposed on the co-accused. The proper application of the parity principle is important in maintaining public confidence in the integrity of the administration of justice: see Chan Sek Keong CJ’s observations in _PP v UI_ <span class="citation">\[2008\] 4 SLR(R) 500</span> (“_UI_”) at \[19\]. Although I accept that the Respondent’s role was slightly greater than the co-accused as he had also collected and delivered in addition to unloading the duty unpaid tobacco …., his slightly higher culpability would be offset by the further discount attributed to his youthfulness. The Respondent was a year younger than the co-accused at the time of the offence.
+
+20     I agree with the Defence that the High Court’s reasoning in \[61\] of _Pang Shuo_ allows for different sentences to be imposed on co-offenders involved in the same criminal enterprise and the same amount of cigarettes, _if_ their respective level of culpability was indeed different. In _Pang Shuo_, the High Court had recognized that the Respondent had a “slightly higher culpability”, as his overall role in the common criminal enterprise was “slightly greater” than the co-accused, even though the same weight of cigarettes was involved. However, as the Respondent was a year younger than the co-accused, the High Court was of the view that the Respondent’s _otherwise higher culpability_ would be “offset” by his youthfulness. The High Court thus imposed the same punishment on the Respondent which was earlier imposed on the co-accused.
+
+21     In the present case, the central thrust of the Prosecution’s submission is that the parity principle warrants the Accused to be sentenced to 19 months’ imprisonment, as B1 had received the same. It is therefore necessary for me to closely examine whether the Accused was indeed “equally placed in terms of criminal culpability” as B1, and this is the issue which I shall now turn.
+
+#### Differences in the level of culpability between the Accused and B1
+
+22     The examination of whether the Accused is “equally placed in terms of criminal culpability” compared with B1 is essentially a _comparative_ one. As I highlighted to parties during oral submissions, the focus of this analysis should not merely be on how culpable or blameworthy the Accused was, but _whether and in what precise manner was the Accused more, equally, or less culpable than B1, considering their respective roles in the common criminal enterprise_. This comparative element appears to be somewhat lacking in the Prosecution’s written submissions. While much ink was spilt on how blameworthy or aggravating the Accused’s conduct was, (for example, that the Accused’s involvement had gone beyond the facts in the charge, and his act was instrumental to the success of the syndicated offence), I did not find this analysis particularly helpful insofar as these factors were not juxtaposed against B1’s precise roles and overall culpability.
+
+23     Having carefully considered the respective statements of facts, I find the Accused to be less culpable than B1. This is because, compared with the Accused, B1 was _much more involved with the syndicate_, and had performed _more roles_ in the common criminal enterprise. In my view, these critical differences do not square with the Prosecution’s submission that the Accused is equally placed in terms of criminal culpability with B1. I shall now elaborate on these differences.
+
+##### (1)   B1’s greater involvement with the syndicate
+
+24     An offender who is more involved with a syndicate is generally more culpable than a co-accused who is not. This is based on the understanding that (Kow Keng Siong, _Sentencing Principles in Singapore_ (Academy Publishing, 2nd Ed, 2019) at para 16.026):
+
+> \[the extent\] of \[an\] offender’s involvement in a syndicated crime is a relevant sentencing consideration. Syndicates involve individuals playing many different roles in the chain of operations. It would be illogical to treat all of these players as equally culpable.
+
+25     In relation to offences under the Customs Act, the High Court has also recognised that the fact that “an offender commits the offence _as part of a syndicate_ is an _established aggravating factor_” (see _Yap Ah Lai_ at \[31\], emphasis added).
+
+26     From B1’s SOF (see above at \[6\]), it is reasonable to infer that B1 was involved with the syndicate in question:
+
+> (a)     B1 was engaged by Xiao Yu to collect, store, repack and deliver duty unpaid cigarettes to Xiao Yu’s customers; and was paid a cash sum for every carton of the delivery of these cigarettes.
+
+> (b)     B1 followed Xiao Yu’s instructions to collect the cigarettes from different suppliers at various locations and rented a warehouse to store the cigarettes pending delivery to Xiao Yu’s customers.
+
+> (c)     Xiao Yu paid B1 for the monthly rental of the warehouse.
+
+> (d)     B1 would also report to Xiao Yu regularly on the supply of the cigarettes remaining in the warehouse.
+
+> (e)     Upon receiving Xiao Yu’s instructions on the date, time and location of delivery of the cigarettes to Xiao Yu’s customers, B1 would then retrieve the cigarettes from the warehouse and deliver them accordingly.
+
+> (f)     B1 handled and kept in his possession some payments which were made by Xiao Yu’s customers.
+
+27     B1’s admission as to how he was involved in the commission of the offence is consistent with the usual factual matrix which evidences the offender’s involvement with a cigarette-smuggling syndicate: see _Yap Ah Lai_ at \[6\] and _Pang Shuo_ at \[4\].
+
+28     In contrast, when I turn to the Accused’s SOF (see above at \[4\]), I struggle to see how there was any “involvement with the syndicate” _on the part of the Accused_, contrary to the Prosecution’s submissions.[^14] The salient portions of the Accused’s SOF are found in paragraph 6, which discloses merely the following:
+
+> (a)     B1 had approached the Accused to rent part of the Unit from him to store duty unpaid cigarettes.
+
+> (b)     The Accused agreed, with the knowledge that B1 would be using the Unit to store and repack duty unpaid cigarettes, before delivering them to buyers.
+
+> (c)     In return, B1 promised to pay the Accused a monthly rental sum of $1,500.
+
+> (d)     The Accused also rented his van to B1 for $50 per use for B1 to transport duty unpaid cigarette’s from B1’s suppliers to the Unit for storage.
+
+29     Based on these facts, the Prosecution submitted that the Accused cannot be said to be uninvolved with the syndicate because: (a) he had received a significant amount ($1,500) from B1 to store the cigarettes; and (b) he had stored the cigarettes for a period of at least one month. I am not persuaded by the Prosecution’s submissions on this point. The Prosecution did not deny or contest the Defence’s disclosure during submissions that B1 and the Accused were friends. Nothing in the Accused’s SOF suggests that the Accused was aware of any of the following: (a) the _modus operandi_ of the syndicated operation; (b) whether B1 was acting alone or based on someone else’s instructions, or (c) where the remuneration the Accused would receive was ultimately sourced to. How can the fact that the Accused had allowed B1, a friend, to store duty unpaid cigarettes for a period of one month in his warehouse, in exchange for a $1,500 remuneration _from B1_, lead one to the legally aggravating conclusion that the Accused was _involved with a syndicate_? The Accused’s SOF simply does not contain sufficient details for me to comfortably make such an inference.
+
+30     At this juncture, I find it apposite to refer to the High Court’s decision in _K Saravanan Kuppusamy v PP_ <span class="citation">\[2016\] 5 SLR 88</span> (“_K Saravanan_”). This was a case involving an offence of importing diamorphine into Singapore under the Misuse of Drugs Act (Cap 185, 2008 Rev Ed). The District Court had held that an element of syndication, an aggravating factor, could be inferred from the appellant’s statement of facts. On appeal, the High Court disagreed and made the following comments (at \[27\] - \[28\]):
+
+> 27    It is true that some flexibility in respect of standard of proof and evidentiary sources is typically accorded to both the Prosecution and the defence in the sentencing process: _PP v Aniza bte Essa_ <span class="citation">\[2009\] 3 SLR(R) 327</span> at \[60\]–\[62\]. However, the degree of flexibility that is to be accorded must ultimately depend on the materiality of the fact in question and the possible prejudice that could be caused to the position either of the Prosecution or the Defence by taking a particular fact into account … **\[It\] may be unfairly prejudicial to the offender if the Prosecution were to raise a fact undisclosed in the SOF or ask the court to draw an inference from the facts at the stage of sentencing, which the accused was not aware of when he entered his plea. Where a material factor that either aggravates or mitigates the offence is to be put forward by either the Prosecution or the Defence, then it is incumbent on them to either have it agreed, or to prove it**. Such proof can be by way of evidence adduced at a Newton hearing (see _Ng Chun Hian v PP_ <span class="citation">\[2014\] 2 SLR 783</span> at \[24\]); or on the basis of submissions without adducing further evidence for this purpose (see _R v Robert John Newton_ (1982) 4 Cr App R (S) 388, cited in _PP v Soh Song Soon_ <span class="citation">\[2010\] 1 SLR 857</span> at \[3\]). But where the latter course is taken, **the burden will be on the Prosecution to persuade the court that the aggravating facts it wishes to rely on are supported by the SOF. In this regard, the court would have to be satisfied beyond a reasonable doubt that the relevant inferences should be drawn**: see, for example, _PP v Liew Kim Choo_ <span class="citation">\[1997\] 2 SLR(R) 716</span> at \[64\]. **And where the inference sought by the Prosecution is not an irresistible one, the doubt will be resolved in favour of the accused.**
+
+> 28    With this in mind and having perused the SOF in this case, I was satisfied that it could not reasonably be inferred that the Appellant was a member of a syndicate. … \[In\] view of the fact that syndication is a seriously aggravating factor and that there was insufficient basis to support such a finding, I did not think it safe or fair to count it against the Appellant for the purpose of sentencing. **This did not mean that the Appellant was not** **_in fact_** **part of a syndicate; it only meant that evidence of his participation in a syndicated drug network was absent and therefore could not be used to aggravate his culpability so as to enhance his sentence.**
+
+> \[emphasis in bold added\]
+
+31     Given the lack of details in the Accused’s SOF describing what the Accused knew when he agreed to rent part of the Unit and his van to B1, I am of the view that the inference sought by the Prosecution (_ie_, that the Accused was involved in the syndicate) is certainly “not an irresistible one”. It is telling that in the Prosecution’s written submissions, the Prosecution had to refer to _B1’s SOF_ to advance the argument that the Accused’s remuneration had originated “from the syndicate”.[^15] I find this to be “unfairly prejudicial” to the Accused in light of the comments of the High Court in _K Saravanan_. When the Accused pleaded guilty before me, what he had admitted to was the Accused’s SOF, _not_ B1’s SOF. It is thus impermissible for the Prosecution to rely on a fact admitted by B1, which has not been similarly disclosed in the Accused’s SOF, to establish a crucial aggravating factor to the Accused’s detriment during sentencing submissions.
+
+32     Given that B1 was clearly involved with the syndicate, while the fact of the Accused’s involvement with the syndicate has not been established, it follows that B1 was more involved with the syndicate compared to the Accused. Even if I am mistaken in rejecting the Prosecution’s submission that the Accused was “not uninvolved” with the syndicate because he had received remuneration which is ultimately sourced to the syndicate, it still remains clear from the facts disclosed that B1 was _more_ involved with the syndicate. B1 was essentially the hands and legs of the syndicated operation. He was receiving and carrying out instructions from Xiao Yu, performing all of the necessary steps at every stage of the operation (which included approaching the Accused to rent part of the Unit), and was also in possession of some of the illegal proceeds of the syndicated operation. The Accused, on the other hand, was literally one step removed from the syndicate, insofar as his only point of contact was with B1 and the extent of his knowledge of the entire operation was not disclosed in the Accused’s SOF. In my view, B1’s greater involvement with the syndicate when compared with the Accused reflects a difference in their respective level of criminal culpability.
+
+##### (2)   B1 had performed more roles in the criminal enterprise
+
+33     Besides being more involved with the syndicate, I am also of the view that B1 is more culpable because he had performed more roles in the criminal enterprise compared with the Accused. This is an application of the analysis in \[61\] of _Pang Shuo_, where the High Court reasoned that a co-offender who had played a greater role by performing more physical acts in the commission of the offence can be deemed to have a “slightly higher culpability” compared with his fellow co-offender, all things being equal.
+
+34     In the present case, B1 was in contact with Xiao Yu, and would ultimately be linked up with both Xiao Yu’s suppliers and the buyers of the cigarettes. His roles included physically collecting the cigarettes from the suppliers; transporting, storing and repacking them in the Unit; and delivering the cigarettes to the eventual buyers. In contrast, the Accused’s roles were that of renting part of the Unit and his van to B1, with the knowledge that these properties of his would be used by B1 to transport, store and repack duty unpaid cigarettes. Even if the roles played by the Accused could be said to be instrumental in the success of the syndicated operation as submitted by the Prosecution, I find that B1 had nonetheless performed _more roles_ than the Accused, all of which were far more crucial to the success of the syndicated operation.
+
+35     For the foregoing reasons, I am of the view that the Accused is _less culpable_ than B1. I therefore disagree with the Prosecution that the parity principle warrants the Accused to be sentenced to the same term of imprisonment which was imposed on B1. On the contrary, imposing the same sentence on the Accused would, in my view, run afoul of the maxim that “those of greater culpability should generally be more severely punished” (_Chong Han Rui_ at \[1\]).
+
+### Issue 2: If the Accused is less culpable, what is a fair and appropriate sentence?
+
+36     In my view, the sentence to be imposed on the Accused would have to be one which is _appropriately calibrated downwards_ from that imposed on B1. Before embarking on this approach, I have also considered and am satisfied that the 19 months’ imprisonment sentence imposed on B1 is not “unduly lenient”: _PP v Ramlee and another action_ <span class="citation">\[1998\] 3 SLR(R) 95</span> at \[11\]. Firstly, it was the Prosecution who had submitted for 19 months’ imprisonment to be imposed on B1. Secondly, the sentence of 19 months imposed on B1 fell within the benchmark set out in _Pang Shuo_. Therefore, B1’s sentence constitutes a valid reference or starting point to arrive at the correct sentence to be imposed on the Accused. How low, then, should the Accused’s sentence be, compared to B1’s?
+
+#### The Prosecution’s reliance on the Benchmarks
+
+37     According to the Prosecution, even if the Accused is less culpable than B1, he should be sentenced to _not_ less than 18 months. This is primarily because the benchmark laid down in _Yap Ah Lai_ at \[46\] for the weight of cigarettes involved here (249.682kg, which is between 201kg to 300kg) has been held to be between 18 to 24 months’ imprisonment.[^16] The Prosecution submitted that there is “no reason in this case to deviate” from the Benchmarks, given that the “median sentence for similar Customs offences around 249.682kg of duty unpaid cigarettes is 18 months”.[^17] Insofar as the Prosecution is submitting that it would be an improper “deviation” from the Benchmarks if a sentence below 18 months is imposed on the Accused, I disagree for the following reasons below.
+
+38     Fundamentally, the issue I have with the Prosecution’s position is that the Accused does not appear to fit the description of the “standard or archetypal offender” in which the Benchmarks (including the _Yap Ah Lai_ benchmark) were established primarily as a guide for (see _Pang Shuo_ at \[29\]). It has been clarified in _Pang Shuo_ that the “standard/archetypal offender” who pleads guilty is one who has “perform\[ed\] a **physical role** in the cigarette smuggling operation **as a paid worker** but with no management control or profit share in the syndicate” (at \[46(b)\], emphasis added). In coming up with the sentencing benchmarks, the precedents which the High Court had considered in _Yap Ah Lai_ mostly involve “evidently straightforward importation cases \[where\] the offenders had hidden duty unpaid cigarettes in various modified compartments of a vehicle and attempted to smuggle them into Singapore” (_Yap Ah Lai_ at \[47\]). The Respondent in _Pang Shuo_ was also described as a “standard/archetypal offender” because he was a “first-time offender playing a relatively typical role in the smuggling operation as a paid worker to collect, deliver, and unload duty unpaid cigarettes transported in a truck” (_Pang Shuo_ at \[57\]). Put simply, the Benchmarks appear to target offenders who are _physically involved_ in the smuggling operation of duty unpaid cigarettes as _paid workers_ of the syndicate.
+
+39     While this description of a “standard/archetypal offender” fits the profile of an offender like B1 quite easily, the same cannot be said of the Accused. The Accused had abetted B1’s offence by knowingly providing the _means_ or _tools_ for B1 to commit the offence, but there was nothing in the Accused’s SOF to suggest that he was physically involved or present in the actual smuggling operation, or even aware of its details. Given my earlier finding that the fact of his involvement with the syndicate has not been properly established, it would also not be accurate to label the Accused as a “paid worker of the syndicate”.
+
+40     In order to have a sense of how abettors like the Accused have been dealt with since the Benchmarks were established, I requested for parties to tender any precedent in the last 5 years they are aware of which involve the sentencing of co-offenders who had _abetted_ the commission of offences under the Customs Act. While the Defence tendered none, the Prosecution tendered two sets of such precedents, and I set out their salient facts as follows:[^18]
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="11.44%"> <col width="28.56%"> <col width="60%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">&nbsp;</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Case Name</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Salient Facts</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">1</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>PP v Selva Kumar s/o Subramaniam</em> (“Selva”); <em>PP v Toh Chih Wen (Zhuo Qiwen)</em> (“Toh”); and <em>PP v Lim Chee Siang (Lin Zixiang)</em> (“Lim”)</p><p align="justify" class="Table-Para-1">All three cases (collectively, “<em>Selva, Toh and Lim</em>”) are unreported decisions.</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">All 3 accused persons were charged with abetment by engaging in a conspiracy to commit the offence of loading duty unpaid cigarettes weighing around 260kg, under section 128H of the Customs Act.</p><p align="justify" class="Table-Para-1">They were all added into a group chat, in which instructions would be given by the mastermind of the syndicate.</p><p align="justify" class="Table-Para-1">Selva rented a vehicle and acted as a driver for the cigarettes – he was sentenced to 19 months’ imprisonment.</p><p align="justify" class="Table-Para-1">Toh acted as a lookout – he was sentenced to 20 months’ imprisonment.</p><p align="justify" class="Table-Para-1">Lim acted as a lookout, and also gave instructions to Selva and Toh to move in or out after confirming that enforcement officers were not present – he was sentenced to 20 months’ imprisonment.</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">2</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>PP v Noor Hazlan bin Selamat and Mohamad Khair bin Jonid</em> <a class="pagecontent" href="javascript:viewPageContent('/Judgment/23859-SSP.xml')">[2019] SGDC 247</a> (“<em>Hazlan and Khair</em>”)</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Noor Hazlan bin Selamat (“Hazlan”) and Mohamad Khair bin Jonid (“Khair”) were charged with abetment by engaging in a conspiracy to deal with duty unpaid cigarettes weighing 2,126.164kg, under section 128I(1)(b) of the Customs Act.</p><p align="justify" class="Table-Para-1">Both accused persons first met up with the mastermind to source for a warehouse for the purpose of storing duty unpaid cigarettes. Khair then rented the selected warehouse by entering into the tenancy agreement. Hazlan went down to the warehouse thereafter to unload mattresses into the unit, having informed Khair that it was meant to be a “test run” to ensure their method works.</p><p align="justify" class="Table-Para-1">The mastermind had promised Hazlan $5,000 to be shared between Khair and Hazlan for every successful shipment of duty unpaid cigarettes delivered to the unit.</p><p align="justify" class="Table-Para-1">Both accused persons were repeat offenders and were thus subject to the enhanced punishment under section 128L(5A) of the Customs Act. They were each sentenced to 42 months’ imprisonment and a court fine of $34 million dollars (in default 28 months’ imprisonment).</p></td></tr></tbody></table>
+
+  
+  
+
+41     I observe the following in these precedents tendered:
+
+> (a)     In _Selva, Toh and Lim_, all of the accused persons would fall squarely within the definition of the “standard/archetypal offender” set out in _Pang Shuo_ – each of them had “\[performed\] a physical role in the cigarette smuggling operation as a paid worker \[of\] the syndicate”. As such, it is unsurprising that the sentences they had received all fell within the Benchmarks.
+
+> (b)     As for _Hazlan and Khair_, the District Judge had made the following finding at \[16\] of his Grounds of Decision, in determining the appropriate sentences to be imposed:
+
+>> The roles of \[Hazlan and Khair\] were not that of minions. They played very active roles in the commission of the offences. I am in agreement with the submissions of the Prosecution that their culpabilities in the present case were high. They were not mere workers carrying out loading and unloading, unaware of the details of the operation. They were active participants in the conspiracy, from being involved in the discussion on renting the premises to the carrying out of the plans for the storage of the contraband cigarettes. A trial run was even orchestrated using mattresses and conducted to test out the viability of the intended illegal operations.
+
+42     These precedents reveal that the culpability of accused persons charged with abetment under the Customs Act can vary considerably. Some offenders charged with abetment would be standard/archetypal offenders; while others (_eg_, _Hazlan and Khair_) could be even more culpable. But some, like the Accused in the present case, may _not_ be standard/archetypal offenders at all. It is noteworthy that in _Selva, Toh and Lim_, all of the accused persons were involved in the physical execution of the smuggling operation; and were in direct contact with the mastermind of the syndicate to receive and carry out his instructions. The Accused in the present case does not share any of these characteristics.
+
+43     In my view, no strong reason has been provided to me as to why the imprisonment sentence to be imposed on the Accused _cannot_ fall below 18 months, if doing so properly reflects his lower culpability compared to B1. A sentence below 18 months is not so much a “deviation” from the Benchmarks, but a possible consequence from my findings above that: (a) the Accused is _not_ a “standard/archetypal offender” which the Benchmarks are primarily targeted at; and (b) the Accused bears a much lower culpability compared to B1, who is a “standard/archetypal offender”. In considering how the Benchmarks are to be applied, it is after all my duty to “ensure that an unstinting focus on \[them\] does not lead to unlike cases being treated alike” (_Yap Ah Lai_ at \[11(c)\]). The Benchmarks are not to be treated as “binding or fossilised judicial rules, inducing a mechanical application” (_Dinesh Singh Bhatia s/o Amarjeet Singh v PP_ <span class="citation">\[2005\] 3 SLR(R) 1</span> at \[24\]); as doing so can end up hampering the fundamental duty of the Court to achieve “individualised justice” (_Pang Shou_ at \[31(f)\]) for each and every offender to be sentenced.
+
+44     As for the sentencing precedents which the Prosecution tendered to establish the “median” sentence of 18 months, I do not find them helpful. These were all unreported decisions, and the “limited value” of such decisions (_Yap Ah Lai_ at \[11(d)\]) becomes all the more apparent when no accompanying submission was made on whether these cases involve “standard/archetypal offenders” or not, or how the culpability of the accused persons in those cases measure up to that of the Accused in the present case.
+
+#### Calibrating the sentence to be imposed based on the Accused’s relative culpability
+
+45     In determining how far the Accused’s sentence should be calibrated downwards from B1’s sentence, I turn once again to _Pang Shuo_ for guidance. At \[56\] of _Pang Shuo_, it can be observed that the discount which the Respondent received for his youthfulness would have been 10% more than his co-accused, given their difference in age. As this differential was held by the High Court to have been “offset” by the Respondent’s slightly higher culpability, given that he had performed more roles in the criminal enterprise compared with the co-accused, it stands to reason that had the Respondent’s age been exactly the same as that of the co-accused, the Respondent might have been given a sentence that is around 10% more than the co-accused, all other things being equal.
+
+46     In the present case, the Accused did not only play lesser roles compared to B1. Crucially, it has also not been established that the Accused was involved with the syndicate and/or aware of the details of the syndicated operation. As such, I am of the view that the differential between his sentence compared to B1’s should be higher than the 10% that was considered appropriate in _Pang Shuo_. In my view, an appropriate sentence for the Accused in this case would be **15 months’ imprisonment** – which is 4 months less compared to B1’s sentence, and constitutes a discount of slightly more than 20%.
+
+47     A 15 months’ imprisonment sentence is considerably low enough compared to what was _sought for_ and imposed on B1, to reflect the much lower criminal culpability of the Accused. Unlike B1, the Accused’s involvement with the syndicate has not been established, and the roles he played do pale in quantity and significance when compared with B1 who was effectively the hands and legs of the syndicated operation (see above at \[32\] and \[34\]). In these circumstances, I do not think that the one month discount sought by the Prosecution would properly reflect these differences in culpability.
+
+48     On the other hand, I do not agree with the Defence’s submission that an imprisonment term of 12 months would suffice. The Defence was unable to point to any relevant benchmark or precedent to support this particular submission. In my view, a 12 months’ imprisonment sentence would be manifestly inadequate. The fact remains that the Accused had knowingly allowed his properties to be used by B1 for the purposes of committing the principal offence, _in exchange for monetary gain._ He therefore has to bear significant responsibility for having aided the storing of _249.682kg_ of duty unpaid cigarettes. I have also considered that the sentence imposed on the Accused must be high enough to serve the purpose of general deterrence. In as much as offenders like the Accused who are further removed from the syndicate may be less culpable than those who run the syndicated operation on the ground, this needs to be balanced with the countervailing factor that detecting and disrupting a syndicated operation is likely to be made more difficult, if the operation is supported by “abettors” whose _actus reus_ (_eg_, renting part of a warehouse to a friend) would not ordinarily raise suspicion. The sentence imposed must therefore send a clear message to would-be offenders like the Accused that such greed never pays; and that those who choose to knowingly aid principal offenders under the Customs Act must be prepared to be held significantly responsible for the criminal wrongdoing which they abet. In my view, a 15 months’ imprisonment sentence will adequately serve these twin purposes of retribution and general deterrence.
+
+## Conclusion
+
+49     For the foregoing reasons, I sentence the Accused to 15 months’ imprisonment, with effect from 8 July 2020.
+
+* * *
+
+[^1]: See Prosecution’s submissions titled “Sentencing Precedents” filed on 27 October 2019.
+
+[^2]: Defence’s Mitigation Plea dated 3 April 2020 at \[10\].
+
+[^3]: Prosecution’s further submissions dated 18 May 2020 (“PFS”) at \[7\].
+
+[^4]: PFS at \[8\] – \[13\].
+
+[^5]: PFS at \[14\] – \[25\].
+
+[^6]: PFS at \[25\].
+
+[^7]: PFS at \[26\] – \[32\].
+
+[^8]: Prosecution’s Reply Submissions dated 22 May 2020 (“PRS”) at \[22\].
+
+[^9]: PFS at \[49\] – \[57\].
+
+[^10]: Defence’s Further Submissions dated 19 May 2020 (“DFS”) at \[2\] – \[12\].
+
+[^11]: DFS at \[13\] and \[27\]; and Defence’s Reply Submissions dated 26 May 2020 at \[9\].
+
+[^12]: DFS at \[13\].
+
+[^13]: DFS at \[25\] – \[27\].
+
+[^14]: PFS at \[21\].
+
+[^15]: PFS at \[16\].
+
+[^16]: PFS at \[54\].
+
+[^17]: PRS at \[33\].
+
+[^18]: See the Prosecution’s submissions titled “Sentencing Precedents for Customs Offences involving cases of abetment” filed on 19 June 2020.
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F24742-SSP.xml)
