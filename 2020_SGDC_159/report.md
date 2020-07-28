@@ -1,0 +1,261 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Loh Sook Cheng _v_ Management Corporation Strata Title Plan No 508  
+
+### \[2020\] SGDC 159
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Originating Summons No 159 of 2019, HC/RAS 13/2020</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">13 July 2020</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Sheik Umar Bin Mohamed Bagushair</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Toh Kok Seng and Christopher Khew Wei Luen (Lee &amp; Lee) for the Plaintiff; Subir Singh Grewal and Kang Hui Lin, Jasmin (Aequitas Law LLP) for the Defendant.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Loh Sook Cheng — The Management Corporation Strata Title Plan No. 508</td></tr></tbody></table>
+
+Land – Strata Titles – Common property – Whether the renovation works conferred on the subsidiary proprietor exclusive use and enjoyment or special privileges in respect of common property – Whether the MCST unreasonably refused to consent to the renovation works
+
+13 July 2020
+
+### District Judge Sheik Umar Bin Mohamed Bagushair:
+
+1       The Plaintiff is the subsidiary proprietor of 59 Upper East Coast Road Singapore 455217 (“Property”). The Property is part of a mixed residential and commercial development (“Development”) at Upper East Coast Road managed by the Defendant. The Development is quite old – the Defendant was constituted in 1980. The Development is also small, consisting of four shop units and four residential units. The Property is a shop unit.
+
+2       The Plaintiff commenced this OS against the Defendant seeking:
+
+> (a)     to compel the Defendant to approve renovation works at the Property;
+
+> (b)     disclosure of the Development’s by-laws, renovation guidelines and particulars of the Development’s licensed electrical worker (“LEW”); and
+
+> (c)     damages to be assessed.
+
+3       The Defendant sought a dismissal of the OS and counterclaimed for:
+
+> (a)     the disclosure of documents in respect of certain rectification works done to the Property (which for convenience I will refer to as the “rectification works”);
+
+> (b)     alternative to the disclosure order, the Plaintiff be compelled to appoint a professional engineer (“PE”) to determine the precise nature of the rectification works; and
+
+> (c)     the Plaintiff to bear the cost of the Defendant appointing a PE to advise the Defendant on the rectification works.
+
+4       Numerous affidavits were filed and several hearings were conducted. Written submissions and reply written submissions were exchanged. On 26 May 2020, I issued oral grounds, and granted the OS in part and dismissed all of the Defendant’s counterclaims. The orders I made are set out at \[74\]. The grounds of decision set out below broadly replicate my oral grounds.
+
+## Disclosure order against the Defendant
+
+5       The Plaintiff is no longer pursuing the disclosure order in light of the Defendant’s admissions that it has not passed any additional by-laws and the only applicable by-laws are those prescribed by statute, that it does not have any renovation guidelines, and that it does not employ an LEW. I therefore grant no order on this prayer.
+
+## Order for approval of the Works
+
+6       The OS originally sought approval of a wide range of works, including works inside the Property and in the common property. However, when it became clear that the Defendant did not regulate the works inside the Property, the Plaintiff narrowed the scope of the OS to the following works which involved the common property:
+
+> (a)     The installation of two air-conditioning compressors outside the rear exterior wall of the Property as set out in the plan drawing marked “19412-MGT-AC01” annexed to the letter from PK Project Consultants dated 17 January 2020 (“Air-Conditioning Works”);
+
+> (b)     An upgrade to the Property’s electrical supply to a capacity of 60A single-phase as set out in the letter from Lim Engineering Associates dated 14 January 2020, and subject to the conditions therein (“Electric Supply Upgrade Works”);
+
+> (c)     Ancillary plumbing works for the installation of fire hose reels, in particular the connection of the fire hose reel inside the Property to the existing water meter outside the rear wall of the Property, and changing the piping size of the existing water meter, in compliance with SCDF and other regulatory requirements (“Plumbing Works”);
+
+> (collectively, the “Works”).
+
+7       The Plaintiff says that by unreasonably refusing to consent to the Works, the Defendant was in breach of Section 29(1) of the Building Maintenance and Strata Management Act (“BMSMA”), which provides that the Defendant is under a duty to control, manage and administer the common property for the benefit of all subsidiary proprietors. The Plaintiff argued that she is entitled to relief for the breaches of the BMSMA, pursuant to Section 88(3) of BMSMA.
+
+8       The Defendant in response made two broad points. First, the Works had the effect of conferring on the Plaintiff exclusive use and enjoyment or special privileges in respect of common property, which required a valid resolution to be passed, pursuant to Section 33 of BMSMA. In essence, the Defendant was saying that it could not consent to the Works, even if it wanted to, without a valid resolution in place. Second, the Works may affect the external façade of the Development or the structural integrity of the building the Property is located in. Under Section 37(4) of BMSMA, such works required the Defendant’s authorisation but the Defendant could not presently authorise the Works as it did not have all the necessary information regarding the Works.
+
+### Preliminary issue on jurisdiction
+
+9       Before proceeding to the merits, there was a preliminary issue that initially troubled me. This was whether I had the jurisdiction to make the orders being sought. This point was not raised by either party, but I thought it relevant given that the Plaintiff referred to Section 111 of BMSMA (amongst other provisions) as providing support for the Court to grant the reliefs sought. Under Section 111 of BMSMA, a subsidiary proprietor could apply to the Strata Titles Board (“STB”) for relief where the MCST had unreasonably refused to consent to his proposal to effect alterations to the common property or to the subsidiary proprietor’s lot. The question then becomes whether the Plaintiff’s request for relief should more appropriately be put before the STB.
+
+10     However, on further reflection, it is clear to me that the Court’s jurisdiction has not been ousted. Section 123 of the BMSMA makes that fairly clear. Furthermore, as Chan Seng Onn J explained in _Fu Loong Lithographer Pte Ltd and ors v Mok Wai Hoe and anor_ <span class="citation">\[2014\] 1 SLR 218</span> at \[24\] to \[26\], in the absence of a provision expressly ousting the Court’s jurisdiction or granting STB exclusive jurisdiction over such disputes, the position will simply be that a plaintiff has two possible forums to choose from. In some situations, it may be preferable to seek relief from STB given the wider powers they possessed, as explained by District Judge Loo Ngan Chor in _Tan Su We, Hazel v Management Corporation Strata Title Plan No 1645_ <span class="citation">\[2014\] SGDC 276</span> at \[11\]. But the bottom line is that I had the jurisdiction to make the orders sought.
+
+### Decision
+
+11     I am unable to agree with the Defendant’s objections to the Works based on Sections 33 or 37(4) of BMSMA.
+
+#### Section 37(4) of BMSMA
+
+12     I will first consider the objection based on Section 37(4) of BMSMA. The difficulty I had with this objection is that Sections 37(3) and (4) of BMSMA were not intended to regulate improvements to common property but to a subsidiary proprietor’s lot: _Sit Kwong Lam v Management Corporation Strata Title Plan No 2645_ <span class="citation">\[2017\] SGHC 57</span> at \[138\] (“_Sit Kwong Lam (HC)_”). However, the Works are being done to the common property. The Defendant’s objection based on Section 33 of BMSMA is also premised on the Works being done to the common property.
+
+13     It appears that the Plaintiff had also proceeded on the assumption that Section 37(4) of BMSMA was applicable. This could initially be justified when the scope of the OS covered renovation works inside the Property and to the common property. However, once the scope of the OS was narrowed to the Works that involved only the common property, Section 37(4) no longer became applicable.
+
+14     Hence, I must reject the Defendant’s objection to the Works based on Section 37(4) of BMSMA. The provision is simply not applicable since the Works involve the common property.
+
+#### Section 33 of BMSMA
+
+15     This leaves only the objection based on Section 33 of BMSMA. In my view, Section 33 of BMSMA does not prohibit the Defendant from approving the Works, for four reasons.
+
+##### Some of the Works involve common property with implied easements in favour of the Plaintiff
+
+16     First, I accept the Plaintiff’s argument that in so far as the Electric Supply Upgrade Works and Plumbing Works involves work to be done to existing power cables and water pipes running through the common property, those existing cables and pipes are subject to implied easements, as a result of Section 18 of the Land Titles (Strata) Act (“LTSA”). Section 20 of LTSA states that “\[a\]ll ancillary rights and obligations reasonably necessary to make easements effective shall be implied whenever easements are created or implied by and under this Act.” Since the Plaintiff has the benefit of implied easements, I consider that they are entitled to to effect works on the existing cables and pipes, even if they are located in the common property. It would be incongruous to hold (as the Defendant seeks to argue) that such works involve the exclusive use of common property that cannot be permitted unless the necessary resolution is procured under Section 33 of BMSMA.
+
+##### The Works do not confer on the Plaintiff “exclusive use and enjoyment” or “special privileges in respect” of common property
+
+17     Second, I consider that the Works in any event do not confer on the Plaintiff _exclusive_ use and enjoyment or special privileges in respect of the common property that requires authorisation under Section 33 of BMSMA. Section 33 of BMSMA uses the phrase “exclusive use and enjoyment of…or special privileges in respect of... the whole or any part of the common property”. This suggests that a particular subsidiary proprietor must have use and enjoyment of the common property _to the exclusion_ of other subsidiary proprietors. When I consider the scope and nature of the Works, I am unable to find that they involve the _exclusive_ use and enjoyment of common property:
+
+> (a)     The Air-Conditioning Works involve the installation of two compressors outside the rear exterior wall of the Property. They will be top-hung from the existing reinforced concrete ceiling, above the ground level. Whilst certain very limited areas of the common property may be covered or obscured by the compressors, it does not follow that other subsidiary proprietors are excluded from using or enjoying those areas. In this respect, I adopt the broad meaning of “use” and “enjoy” applied in _Sit Kwong Lam v Management Corporation Strata Title Plan No. 2645_ <span class="citation">\[2018\] 1 SLR 790</span> (“_Sit Kwong Lam (CA)_”). In that case, the Court of Appeal had to interpret the definition of “common property” under BMSMA. The definition included property “used or capable of being used or enjoyed by occupiers of 2 or more lots of proposed lots”. The Court of Appeal at \[57\] to \[60\] held that this phrase had to be read broadly. Any area or installation that could affect the appearance of a building in a strata development, or that was part and parcel of the fabric of the building, could, _by its mere presence_, be “enjoyed” by some or even all subsidiary proprietors of the development. There was no need for the area or installation to be physically accessible by the subsidiary proprietors (or any of them) in order to be “enjoyed” by the said proprietors. Adopting such a broad meaning of “use” and “enjoy” would mean that even if parts of the common property were rendered inaccessible because of the compressors, other subsidiary proprietors could still “use” or “enjoy” those areas. Consequently, I find that even if the Air-Conditioning Works conferred on the Plaintiff use and enjoyment of the common property, it did not confer _exclusive_ use and enjoyment, as other subsidiary proprietors were not excluded from using or enjoying the common property.
+
+> (b)     The Electric Supply Upgrade Works involves the digging up of roads and parts of the common property, and the laying of additional cables underground and along the common property. However, the permanent structures to be installed on the common property will be minor. For example, the extra cabling may run along the walls of the common property, perhaps even occupying the same cable ducts containing existing cables. But even if the extra cabling required the erection of additional cable ducts, I cannot imagine that it would take up large parts of the common property. In any event, adopting the broad definitions of “use” and “enjoy” in _Sit Kwong Lam (CA)_, I consider that those areas of the common property occupied by the extra cabling could still be used and enjoyed by other subsidiary proprietors.
+
+> (c)     The Plumbing Works are minor works. They involve connecting the hose reel inside the Property to the existing water meter outside the Property, and changing the piping size of the existing water meter. It is clear from the photos that any permanent structures to be erected on the common property would be very small. In any event, the areas surrounding the water meter or the piping connecting the water meter can still be used and enjoyed by other subsidiary proprietors (again, adopting the broad definitions of “use” and “enjoy” in _Sit Kwong Lam (CA)_).
+
+##### Section 33 of BMSMA does not prohibit every instance where exclusive use and enjoyment or special privileges in respect of common property is conferred
+
+18     Third, even if I was wrong to say that the Works did not confer on the Plaintiff _exclusive_ use and enjoyment or special privileges in respect of the common property, it does not follow that the Works are therefore prohibited unless the necessary resolution had been obtained under Section 33 of BMSMA. In that respect, I gratefully adopt the following passage from the decision of District Judge Lim Wen Juin in _Management Corporation Strata Title Plan No 3436 v Tay Beng Huat_ <span class="citation">\[2019\] SGDC 208</span> at \[12\], who rejected the MCST’s argument that the placing of a shoe cabinet outside the subsidiary proprietor’s lot and on the common property was in breach of BMSMA unless the necessary resolution was obtained under Section 33:
+
+> I should mention that the MC rather belatedly contended that the Cabinet was in breach of s 33 of the Act. This provides that a management corporation may make by-laws conferring on particular subsidiary proprietors “exclusive use” of or “special privileges” in respect of common property. The MC argued that placing the Cabinet in the common corridor amounted to “exclusive use” of that part of the corridor and that unless the MC had made a by-law conferring on the respondents the right to put the Cabinet there they could not lawfully do so. But I do not think this logic is sound. It appears to me that s 33 is an empowering provision that enables management corporations to give specified subsidiary proprietors special rights over common property, and I think it would be quite contrary to the character of s 33 to read it as a restrictive provision that renders unlawful anything that might be considered “exclusive use” so long as the management corporation has not expressly permitted it. According to the MC it would be “exclusive use” to put even one flower pot in the common corridor. If any such use, however trivial, could be challenged on no other basis than that it had not received the blessing of the MC under s 33 of the Act, it seems to me that this would render unnecessary and otiose the fine balance between the potentially competing rights of subsidiary proprietors in respect of the common property that the by-laws in the Second Schedule endeavour to achieve. In the absence of authority supporting the MC’s view of s 33 – I was not shown any – I cannot agree with the MC’s position on this point.
+
+19     Similarly, the Defendant was not able to produce any authority for the proposition that _any_ exclusive use and enjoyment of the common property, however minor or trivial, was not permitted unless authorized by the necessary resolution under Section 33 of BMSMA.
+
+##### Even if the Works conferred on the Plaintiff exclusive use and enjoyment or special privileges in respect of common property, it was not fair to disallow the Works in the circumstances
+
+20     The issue that follows is this: In what circumstances is the exclusive use and enjoyment of common property permissible if it is not otherwise authorized by the necessary resolution under Section 33 of BMSMA? In my view, a party in the Plaintiff’s position who has come to Court to seek approval of works involving the common property should be in no worse a position than a subsidiary proprietor who had proceeded to undertake the same works without authorisation and for which the MCST is seeking a mandatory injunction. In the latter situation, the Court does not always grant the injunction and it’s approach is to consider all the circumstances and balance the benefits and burdens in order to produce a fair result: _Choo Kok Lin and anor v Management Corporation Strata Title Plan No. 2045_ <span class="citation">\[2005\] 4 SLR(R) 175</span> at \[55\] to \[56\] (“_Choo Kok Lin_”).
+
+21     I consider that the Works should be allowed, for several reasons. The first is that the Plaintiff has produced the necessary documentation in respect of the Works. The necessary approvals and certifications from professionals have been obtained. I address this in greater detail at \[34\] to \[50\].
+
+22     The second reason is that the Works are fairly minor in nature. They would involve the erection of small permanent structures on the common property. It cannot be said that the Works would in any way impose a burden on either the Defendant or other subsidiary proprietors. Neither would it interfere with the use of the common property by other subsidiary proprietors.
+
+23     The third reason, which I consider to be the most important reason, is that other subsidiary proprietors have undertaken works similar to the Works, but they have not had to obtain the necessary resolution under Section 33 of BMSMA, and as such imposing this requirement on the Plaintiff would not be fair. I note from the photos produced that many of the subsidiary proprietors have air-conditioning compressors installed at various parts of the common property. The Defendant has confirmed that no additional by-laws have been passed and the only applicable by-laws are those prescribed by statute. Consequently, none of the compressors already installed are backed by the necessary resolutions under Section 33 of BMSMA. I also observe from the photos that there is piping and cable ducts running outside of the units of several subsidiary proprietors and in the common property. No doubt some of these would be for the benefit of one or more subsidiary proprietors. However, no resolutions under Section 33 of BMSMA have been passed in relation to these permanent structures found on the common property. The long and short of it is that the Defendant seeks to impose on the Plaintiff requirements that the Defendant had never previously requested of other subsidiary proprietors.
+
+24     In my view, the situation here is similar to _Choo Kok Lin_. In that case, the subsidiary proprietor had undertaken works that the MCST objected to. The MCST sought a mandatory injunction against the subsidiary proprietor to remove those works. One of the works was the installation of air-conditioning compressors in the external wall of the air well areas, which was common property. The installation of the compressors was in breach of the development’s by-laws. Despite the breach, Judith Prakash J refused to grant a mandatory injunction because, amongst other things, the works were fairly minor and the compressors erected by other subsidiary proprietors would have remained even with the grant of the injunction. Consequently, Prakash J did not think it would be fair to grant a mandatory injunction to remove the subsidiary proprietor’s compressors.
+
+25     The Defendant relied on three cases to support its position that the Works would confer on the Plaintiff exclusive use and enjoyment or special privileges in respect of the common property. The first is _Mark Wheeler v The Management Corporation Strata Title Plan No 751 and anor_ <span class="citation">\[2003\] SGSTB 5</span> (“_Mark Wheeler_”). The subsidiary proprietor had applied to the STB for an order that the MCST consent to his installation of a retractable canopy at the balcony of the front entrance of his unit. The STB held that the installation of the canopy amounted to an exclusive use of the common property and the necessary resolution had to be obtained. It therefore dismissed the application. I consider that _Mark Wheeler_ can be distinguished on at least two grounds. First, the Works here involve the erection of minor structures, unlike the case in _Mark Wheeler_ where the canopy covered the whole balcony. Second, in _Mark Wheeler_, there was no evidence that the MCST had allowed other subsidiary proprietors to erect similar canopies.
+
+26     The next case relied on by the Defendant is _Sit Kwong Lam (HC)_. The subsidiary proprietor had erected an air-conditioning ventilation unit on a wall that formed part of the common property. He applied to STB for a declaration that he had not breached any by-laws. The STB dismissed his application. Amongst other things, the STB found that the erection of the ventilation unit was an exclusive use of common property that required the necessary resolution under Section 33 of BMSMA. Kannan Ramesh J agreed with the STB’s analysis, and at \[105\] accepted that “the installation of an air-conditioning unit on a wall of the common property…\[was\] an example of exclusive use”. I believe that _Sit Kwong Lam (HC)_ can be distinguished on the basis that there was no issue of the MCST there having allowed other subsidiary proprietors to install, without the necessary resolution under Section 33 of BMSMA, similar ventilation units on common property.
+
+27     The last case relied upon by the Defendant is _Wu Chiu Lin v Management Corporation Strata Title Plan No 2874_ \[2018\] 4 SLR 969 (“_Wu Chiu Lin_”). There, the subsidiary proprietors had applied to STB for an order that the MCST consent to their proposal to erect coverings over their trellises installed above private enclosed spaces or balconies. The STB dismissed the application, holding that the trellises were common property and the erection of the coverings would constitute exclusive use pursuant to Section 33 of BMSMA. Chan Seng Onn J made it clear at \[82\] that the necessary resolution under Section 33 of BMSMA had to be passed “as long as the use and enjoyment or special privilege \[over the common property\] being conferred is exclusive in nature (ie, to the exclusion of others), irrespective of whether the usage or enjoyment interferes unreasonably with that by others similarly entitled to such usage or enjoyment.” I consider that _Wu Chiu Lin_ can be distinguished on two grounds. First, the works there would have resulted in large permanent structures on the common property, covering essentially the whole private enclosed space or balcony. In contrast, the permanent structures arising from the Works were small. Second, the MCST in _Wu Chiu Lin_ had not allowed subsidiary proprietors to erect the coverings (except for those who could rely on the exception under paragraph 5(3) of the Second Schedule of the Building Maintenance (Strata Management) Regulations 2005). In other words, the MCST treated all subsidiary proprietors equally. That is not the case here, where, as I have explained, the Defendant has allowed other subsidiary proprietors to install air-conditioning compressors, piping and cables in the common property without the necessary resolution under Section 33 of BMSMA, but has not given the Plaintiff the same benefit.
+
+28     I have therefore distinguished the three cases relied on by the Defendant, namely, _Mark Wheeler_, _Sit Kwong Lam (HC)_ and _Wu Chiu Lin_, on the basis that the works there resulted in large permanent structures on the common property, unlike the case here where the structures were minor. Furthermore, in all three cases, there was no issue of other subsidiary proprietors being allowed to keep their unauthorized structures. That is not the case here – as I explained above, there is evidence that other subsidiary proprietors have erected air-conditioning compressors in the common property, or installed pipes and cables in the common property. No resolutions have been passed to bless those unauthorised works on the common property. In these circumstances, it would be unfair to impose the requirement under Section 33 of BMSMA on the Plaintiff.
+
+#### Whether the Defendant unreasonably refused to consent to the Works
+
+29     Even though I have held that Sections 33 and 37(4) of BMSMA do not prohibit the Works, it does not mean that the Works should be approved. It simply means that the Defendant would need to consider the Plaintiff’s request for Works on the merits and decide whether to consent to them. In this case, the Defendant’s primary position is that it could not consent to the Works even if it wanted to because of Sections 33 or 37(4) of BMSMA. I have held that those provisions do not apply. However, the Defendant still refuses to consent to the Works even if Sections 33 or 37(4) of BMSMA are not impediments, though the reasons for that are not entirely clear. As best as I can tell, the Defendant’s position in response to whether they had acted reasonably in not approving the Works (apart from the objection based on Sections 33 and 37(4) of BMSMA) is that it acted reasonably at all times by seeking further information and documentation, and that in any event further information and documentation is still required.
+
+30     Under Section 111(a) of BMSMA, the STB could order the MCST to consent to a subsidiary proprietor’s proposal to effect alterations to the common property, if the MCST had unreasonably refused to do so. The Plaintiff argued that although Section 111 of BMSMA refers to orders that can be made by the STB, it nevertheless is indicative of a statutory intention that MCSTs must not unreasonably withhold their consent to proposals made by subsidiary proprietors to effect alterations to the common property. I agree with this proposition.
+
+31     As to what constituted unreasonable refusal on the MCST’s part, the Plaintiff referred me to _Lee Tay Ting Jane v Management Corporation Strata Title Plan No 3414_ <span class="citation">\[2015\] SGSTB 5</span> (“_Lee Tay Ting Jane_”) and urged that I adopt the principles there. In _Lee Tay Ting Jane_, the subsidiary proprietor applied to the STB after the MCST refused to consent to her proposal to upgrade the electrical supply to her units. The STB considered that an MCST holds the common property property on trust for the subsidiary proprietors collectively and therefore the MCST’s duty in respect of the common property is akin to a trustee making a decision in relation to trust property (_Lee Tay Ting Jane_ at \[46\]). Drawing on cases involving a trustee’s exercise of discretion in relation to trust property, the STB set out the following principles in relation to an MCST’s decision making process in relation to common property (at \[48 to \[52\]):
+
+> (a)     The Court’s supervision will be confined to the “honesty, integrity, and fairness with which the deliberation has been conducted, and will not be extended to the accuracy of the conclusion arrived at.”
+
+> (b)     It would not be correct to say that the MCST’s decision can only be challenged if it was tainted with prejudice, malice or indifference. The MCST is also under a duty to take into account relevant considerations and ignore irrelevant considerations.
+
+> (c)     The MCST has to take into account both the interest of the subsidiary proprietor making the application, and the other subsidiary proprietors.
+
+32     I have some doubt as to whether an MSCT exercising its powers over the common property is analogous to a trustee exercising its powers over trust property. Nevertheless, I agree that, at the very least, an MCST exercising its powers in respect of common property is under a duty to take into account relevant considerations and ignore irrelevant considerations. In _Lee Tay Ting Jane_, the STB found that the MCST had wrongfully refused to consent to the proposal to upgrade the electricity because it had failed to take into account a relevant consideration (that there was spare capacity) and had taken on board an irrelevant consideration (the fear that the subsidiary proprietor would rent her unit to a pizza delivery).
+
+33     I should point out that the Defendant did not make any submissions on how an MCST should exercise its powers in respect of common property or respond to the Plaintiff’s legal arguments on this issue. This is likely because its primary position was that it could not even approve the Works even if it wanted to, because of Sections 33 and 37(4) of BMSMA.
+
+##### The Air-Conditioning Works
+
+34     The Air-Conditioning Works involve the installation of two compressors outside the rear exterior wall of the Property. They will be top-hung from the existing reinforced concrete ceiling, above the ground level.
+
+35     Initially, the Plaintiff had intended to install the compressors at the parapet wall on the Property’s mezzanine level. The Defendant took issue with the location because of the possible noise and heat and suggested instead the present proposed location, which was outside the rear exterior wall of the Property. The Plaintiff agreed to the Defendant’s proposal.
+
+36     Once the location of the compressors was no longer at issue, the Plaintiff sought to resolve two other issues that the Defendant had raised. The first was whether the reinforced concrete ceiling could hold the compressors. The Plaintiff obtained a certification from a professional engineer (“PE”) supporting the installation of the compressors at the proposed location. The Plaintiff subsequently obtained a further, more specific, confirmation from the PE that the reinforced concrete ceiling where the two compressors were to be affixed was structurally capable of taking the weight of those compressors.
+
+37     The second issue was the height clearance between the floor and the compressors. The Defendant asserted that the height clearance had to be 2.3 metres, but the Plaintiff could only ensure a height clearance of between 2.2 to 2.3 metres. The Plaintiff obtained confirmation from BCA that there was no minimum height clearance for the installation of compressors under the relevant building control regulations.
+
+38     The Defendant in its sixth and final affidavit asserts that the Plaintiff has failed to provide relevant plans and drawings showing the dimensions of the proposed compressors and the proposed distance between the top of the compressors and the ceiling. The Defendant had never previously requested this, but in any event, as the Plaintiff correctly pointed out, relevant plans and drawings had already been provided.
+
+39     In my view, all of the Defendant’s issues raised in respect of the Air-Conditioning Works have been adequately addressed by the Plaintiff. The Defendant has no other grounds for objecting to the works, but remains opposed to them, without good reason. In my view, the Defendant had failed to take into account relevant considerations in deciding whether to consent to the Air-Conditioning Works. In so far as the Defendant’s only remaining objection was premised on Sections 33 and 37(4) of BMSMA, this was wrong and amounted to taking into account an irrelevant consideration. The Defendant has therefore acted unreasonably and I order that the Defendant consent to the Air-Conditioning Works.
+
+40     I should mention that the Air-Conditioning Works cannot proceed without the Electric Supply Upgrade Works, to which I now turn.
+
+##### The Electric Supply Upgrade Works
+
+41     The Electric Supply Upgrade Works involves an upgrade to the Property’s electrical supply to a capacity of 60A single-phase. The Electric Supply Upgrade Works involves the digging up of roads and parts of the common property, and the laying of additional cables underground and along the common property.
+
+42     In support of these works, the Plaintiff has produced a proposal from a professional electrical engineer (“PEE”). I consider the proposal from the PEE to be reasonable. At all times, the upgrade works would comply with all necessary regulations. The works would have no impact on the electric supply of the other subsidiary proprietors.
+
+43     The Defendant argued that the Plaintiff has not produced a detailed plan to show the extent of the proposed works. The Plaintiff says that she has not been able to do so because the Defendant had refused to engage with her in discussions over these works. Furthermore, the normal practice is for the Plaintiff’s LEW to discuss with the Defendant’s LEW and thereafter prepare a plan. But the Defendant does not have an LEW. As such, the Plaintiff’s LEW would have to liaise directly with Singapore Power (“SP”) on the upgrade and produce a plan. But this can only be done after the Defendant has consented to the works, which it has not done.
+
+44     I accept the Plaintiff’s position that she cannot at this stage prepare a detailed plan for the Defendant. The Plaintiff had nonetheless set out in the sixth and final affidavit filed on her behalf the steps that will likely be taken in respect of these works. I consider this to be adequate for the Defendant for now. No doubt, once the Plaintiff’s LEW and PEE liaises directly with SP on the works, more detail can be provided on the scope of the works.
+
+45     The Defendant did not raise any other objection to these works (save for the objections based on Sections 33 and 37(4) of BMSMA, which I have already held to be inapplicable). Yet, the Defendant has refused to consent to these works. The Defendant has failed to take into account relevant considerations in deciding whether to consent to the Electric Supply Upgrade Works. In so far as the Defendant’s only remaining objection was premised on Sections 33 and 37(4) of BMSMA, this was wrong and amounted to taking into account an irrelevant consideration. The Defendant has therefore acted unreasonably and I order that the Defendant consent to the Electric Supply Upgrade Works.
+
+46     The Plaintiff has also confirmed that the tenant of the Property will bear all the relevant costs of the Electric Supply Upgrade Works, including any making good or reinstatement works given that roads and parts of the common property may have to be dug up. The tenant is not a party to these proceedings and any order I make will not bind them. Therefore, the order I will make will impose on the Plaintiff responsibility for the costs of these works. The Plaintiff can make the necessary arrangements to ensure that she is properly indemnified by her tenant.
+
+##### The Plumbing Works
+
+47     The Plumbing Works involve connecting the hose reel inside the Property to the existing water meter outside the Property, and changing the piping size of the existing water meter.
+
+48     The Defendant objected to these works because it considered that the works can be installed in the Property, as opposed to the common property. The Defendant also challenged some of the certifications and documents produced by the Plaintiff to support these works.
+
+49     Having reviewed the various documents and confirmations produced by the Plaintiff, I consider that she has adequately established that the works are necessary and reasonable. Amongst other things, the Plaintiff has engaged a licensed plumber (“LP”) to carry out the works and the LP has confirmed that the works are required by the authorities.
+
+50     The Defendant had failed to take into account relevant considerations in deciding whether to consent to the Plumbing Works. In so far as the Defendant’s only remaining objection was premised on Sections 33 and 37(4) of BMSMA, this was wrong and amounted to taking into account an irrelevant consideration. The Defendant has therefore acted unreasonably and I order that the Defendant consent to the Plumbing Works.
+
+## Damages
+
+51     The Plaintiff sought damages against the Defendant arising out of the Defendant’s refusal to consent to the Works and the delay in completing the Works. The Plaintiff says that the Defendant had breached Sections 29(1) and/or 37(4) of BMSMA and Section 88(1)(b) of BMSMA allowed her to claim for damages against the Defendant for breaches of those provisions.
+
+52     The damages arose because the Property was tenanted out and rent would have been payable from 21 October 2019 had all the renovation works, including the Works, been completed by then. However, the renovation works were not completed and, to the best of my understanding, is not yet complete pending the resolution of this OS. As such, the Plaintiff argued that it had lost out on rental on account of the delay in the completion of the Works, and is entitled to damages, to be assessed.
+
+53     I have considered this issue carefully but I am unable to agree that in these circumstances, it would be just to award damages to the Plaintiff. I say this for the following reasons.
+
+54     First, Section 88(1) of BMSMA provides that the relief that can be obtained against an MCST who has breached Part V of BMSMA could be either an order to restrain the breach or to recover damages. In other words, unlike, say, a breach of contract or tort which ordinarily entitles the innocent party to damages as of right, the subsidiary proprietor is not entitled to damages as of right.
+
+55     Second, Section 111 of BMSMA suggests that where an MCST has unreasonably refused to consent to works relating to common property, the sole relief should be an order that the MCST consent to those works. However, I put this as no more than a suggestion, because Section 111 of BMSMA applies to STBs, and Section 123 of BMSMA in any event makes it clear that other reliefs are not excluded.
+
+56     Third, I think that an award of damages should not be readily granted in a situation where the MCST has made a decision regarding the common property. Whilst I have held that the Defendant was wrong to have refused consent to the Works, ultimately, the Defendant, being responsible for the common property, was acting cautiously. I do not think the Defendant’s objections based on Section 33 of BMSMA were so far-fetched that no reasonable MCST would have taken that position. In circumstances where an MCST is being asked to make a decision on common property, and that decision was wrongly made, I think a Court should be slow in penalizing the MCST with damages.
+
+57     Fourth, although the Defendant’s behavior can be criticised and could at times even be said to be unreasonable, I am unable to conclude that on the whole it is just that they be ordered to pay damages. I take into account the fact the OS as filed could not be said to have been complete or comprehensive. As I have mentioned earlier, the scope of the renovation works changed during the course of these proceedings. Some of the works, such as the Plumbing Works, were not expressly stated as being part of the original scope of the renovation works. Both the Air-Conditioning Works and Electric Supply Upgrade Works also changed in scope during these proceedings. No doubt some of that arose because of further discussions between parties (such as the change in the location of the compressors). Other times it arose because the Defendant did not want to engage the Plaintiff and there was effectively a deadlock (resulting in the change in the scope of the Electric Supply Upgrade Works). Considering the matter as a whole, I do not think all the delay can be attributed solely to the Defendant and as such it would not be just to hold them liable for damages for that delay.
+
+58     I therefore dismissed the Plaintiff’s prayer for damages.
+
+## Defendant’s counterclaim for a disclosure order
+
+59     The basis of the Defendant’s counterclaim for a disclosure order is as follows. Sometime in 2017, the then tenant-occupiers of the Property, Otterswim Asia Pte Ltd (“Otterswim”) carried out renovation works and caused damage to a beam in the Property. As a result of the damage, on 15 December 2017, BCA served on the Plaintiff a closure order on the Property (the “Closure Order”). The Closure Order directed that the Plaintiff take certain measures such as appointing a PE, undertaking rectification works and submitting the following documents:
+
+> (a)     The PE’s investigation report and proposal for approval by the Commissioner of Building Control;
+
+> (b)     The PE’s structural plans and design calculations for approval by the Commissioner of Building Control;
+
+> (c)     The PE’s certification that the rectification works had been carried out and completed under his supervision and the building is safe and sound upon completion of the rectification works
+
+> (collectively, the “Closure Order Documents”).
+
+60     Otterswim carried out the rectification works. After the rectification works were completed, BCA issued two letters to the Plaintiff on 19 July 2018. The letters recorded that the rectification works were completed, that the requirements of the Closure Order had been complied with, that BCA considered the matter closed, and that the Closure Order was lifted with effect from 19 July 2018. The letters also referred to a “Professional Engineer’s Certification dated 19 July 2018” (“PE Opinion”). The professional engineer who provided the opinion was Mr Kee Kam Oon of PK Project Consultants. On 2 August 2018, BCA issued a certificate of statutory completion stating that the rectification works had been completed and that occupation of the Property was permitted. That certificate referred to an approved plan “E3126-00906-2018-ST01” (“Plan”).
+
+61     The Defendant sought disclosure of the Closure Order Documents that the Plaintiff was supposed to submit to BCA pursuant to the Closure Order, which includes the PE Opinion, and the Plan.
+
+62     The Plaintiff’s position is that it has provided to the Defendant all the documents submitted by the PE to BCA, and that there are no other documents to disclose. In addition, the Plaintiff has obtained two further documents from the PE, which have also been disclosed to the Defendant as well. The first is a certification that the damaged beam had been restored to its original condition and that the building was structurally safe and sound. The second document sets out the rectification works that were done to the damaged beam.
+
+63     I had some doubt as to whether I had the power to order disclosure of the documents being sought by the Defendant. The Defendant made no submissions on the legal basis of the disclosure order being sought, and in particular whether any provision in the BMSMA was being relied upon. The Plaintiff did not dispute that the Defendant was entitled to the documents, though it seemed to me that the Plaintiff approached the matter pragmatically, trying to address as best as she can any of the Defendant’s concerns so that the Defendant can consent to the Works.
+
+64     Whilst Section 47 of BMSMA imposes an obligation on an MCST to disclose a wide category of documents when requested by a subsidiary proprietor, there was no equivalent provision in BMSMA that imposed a similar obligation on a subsidiary proprietor. I am unable to find anything in the BMSMA that imposes a duty on a subsidiary proprietor to produce the documents requested by the Defendant, or which gives an MCST the power to seek such documents from a subsidiary proprietor.
+
+65     Although the Defendant did not argue that the disclosure order should be made pursuant to the Rules of Court, I considered whether this was possible. Whilst Order 24 allows discovery even for proceedings commenced via originating summons, I do not think the documents sought could be ordered pursuant to Order 24. This was because the documents were not sought because they were relevant to some issue raised in the OS; rather the documents were sought as a final relief.
+
+66     Consequently, I do not think I have the power to order the Plaintiff to disclose the Closure Order Documents, the PE Opinion and the Plan.
+
+67     Even if I was wrong on this, I would have granted no order on the disclosure requested by the Defendant. This was because the Plaintiff had produced all the documents it had in its possession. The Plaintiff initially sought documents from BCA but BCA declined to disclose the documents. The Plaintiff then tried seeking the documents from Otterswim who appeared willing to assist but ultimately did not produce the documents. Finally, the Plaintiff obtained the documents from the PE. Although the PE’s contractual relationship was with Otterswim rather than the Plaintiff, he disclosed the documents submitted to BCA. The PE confirmed that no other documents had been submitted to BCA, apart from what was submitted to BCA. Those documents have been disclosed in these proceedings by the Plaintiff. It would appear that even though the Closure Order Documents were much wider in scope, BCA was prepared to accept something less than what had been prescribed in the Closure Order.
+
+68     The Defendant says that it is required to ensure that the rectification works had been endorsed by the relevant authorities and had complied with the relevant statutory regulations. In light of the documents already disclosed by the Plaintiff, BCA’s satisfaction over the rectification works and the lifting of the Closure Order, and the further certification and documents produced by the PE, there is more than adequate assurance that the rectification works had been done properly and in compliance with the relevant regulations.
+
+69     In the Defendant’s sixth and final affidavit, it asks, for the first time, for particulars of the works that had caused the damage to the beam. No explanation was provided as to why this information was being asked at such a late stage, or how this information was relevant.
+
+70     I therefore dismissed this counterclaim.
+
+## Defendant’s other counterclaims
+
+71     The Defendant also sought, as an alternative to the disclosure order, that the Plaintiff be ordered to appoint a PE to determine the exact rectification works done to the damaged beam in the Property (including conducting tests on the structural strength or load bearing capacity of the beam), and render a report to the Defendant. Further, the Defendant seeks an order that the Plaintiff bear the Defendant’s cost of appointing a PE to advise them on the types of tests required to determine the structural strength, integrity or load bearing capacity of the beam both before and after the rectification works.
+
+72     The Defendant’s written submissions do not address these two reliefs in any great detail. The Defendant did not explain whether the Plaintiff was in breach of any duty, whether under BMSMA or common law, and if so, whether that breach entitled the Defendant to seek these reliefs. I have considered the provisions of BMSMA and am unable to find any legal basis for the Defendant to seek these reliefs from the Plaintiff. I therefore find that the Defendant has failed to establish the legal basis for these reliefs.
+
+73     Consequently, I dismissed these counterclaims.
+
+## Conclusion and Orders
+
+74     I therefore granted the OS in part and dismissed the Defendant’s counterclaims. I made the following orders:
+
+> (1)     The Defendant (whether by themselves or their servants or agents) is to take all steps to allow the following works to be undertaken by the Plaintiff and/or any other party authorised by the Plaintiff (including but not limited to granting consent to the works and communicating the said consent to third parties when requested to by the Plaintiff):
+
+>> (a)       The installation of two air-conditioning compressors outside the rear exterior wall of 59 Upper East Coast Road Singapore 455217 (“Property”) as set out in the plan drawing marked “19412-MGT-AC01” annexed to the letter from PK Project Consultants dated 17 January 2020 (Ref: 59UES/KW/2020/001) (“Air-Conditioning Works”);
+
+>> (b)       An upgrade to the Property’s electrical supply to a capacity of 60A single-phase as set out in the letter from Lim Engineering Associates dated 14 January 2020 (Ref: MS/BC/20-01) (or as varied and/or directed by the regulatory authorities), and subject to the conditions therein (“Electric Supply Upgrade Works”);
+
+>> (c)       Ancillary plumbing works for the installation of fire hose reels, in particular the connection of the fire hose reel inside the Property to the existing water meter outside the rear wall of the Property, and changing the piping size of the existing water meter (or as otherwise varied and/or directed by the regulatory authorities), in compliance with SCDF and other regulatory requirements (“Plumbing Works”).
+
+>> (collectively, the “Works”)
+
+> (2)     The Plaintiff is to bear the cost of the Works (including but not limited to making good any parts of the common property affected by the Works).
+
+> (3)     No order on prayer 2 of the OS (which sought disclosure against the Defendant).
+
+> (4)     Prayer 3 of the OS (seeking damages against the Defendant) is dismissed.
+
+> (5)     All of the Defendant’s counterclaims are dismissed.
+
+75     After issuing my oral grounds to parties, I requested for brief written submissions on costs. After reviewing the parties’ cost submissions, I fixed costs at $7,500 (all in) to be paid by the Defendant to the Plaintiff.
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F24770-SSP.xml)
