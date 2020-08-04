@@ -1,0 +1,580 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Aida Tay Ai Lin  
+
+### \[2020\] SGDC 157
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">District Arrest Case DAC-900944-2020 &amp; ORS, Magistrate's Appeals 9433 of 2020</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">23 July 2020</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Marvin Bay</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Tan Yen Seow (Attorney-General's Chambers) for the Public Prosecutor; Raphael Louis (Ray Louis Law Corporation) for the Accused.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Aida Tay Ai Lin</td></tr></tbody></table>
+
+Criminal Law – Offences – Forgery - When custodial threshold is crossed
+
+Criminal Law – Offences – Obstructing, preventing, perverting or defeating course of justice - When custodial threshold is crossed
+
+\[LawNet Editorial Note: An appeal to this decision has been filed in MA 9433/2020/01.\]
+
+23 July 2020
+
+### District Judge Marvin Bay:
+
+## Introduction
+
+1       This case concerns a prosecution by the State against the accused; Ms Aida Tay Ai Ling, a Singaporean, aged 47, who was charged with multiple counts of forgery and perversion of the course of justice for her destruction of materials and instruments to perpetrate her crimes after her forgeries were uncovered. Ms Tan, who worked as a freelance writer, had been an avid customer of Amore Fitness Pte Ltd (“_Amore Fitness_”), a fitness gym and spa company. Ms Tay was, to say the least, an enthusiastic user of _Amore Fitness’_ facilities, often taking multiple group sessions a day, and she had considered the gym to be an integral part of her life. From her account, she was determined to maintain her gym membership at all costs. When Ms Tay encountered straightened financial circumstances which she allegedly feared would affect her continuance of her membership, Ms Tay had taken to forging medical certificates, in a bid to lengthen the term of her Amore Fitness membership, to facilitate a setting-off for days she did not attend at the gym for her then extant term, on the ostensible basis that she was medically indisposed. Ms Tay faced 17 charges involving these MC forgeries. As an example of the charges she faced, one of the proceeded charges; DAC-900944-2020[^2], is framed in the following terms:
+
+> (_Ms Tay is_) charged that (_she_), on or about the 6th day of September 2019, in Singapore, did forge a certain document, _to wit_, a medical certificate from Town Clinic bearing serial number 90202 dated 28 August 2019 in the name of one Dr. Christine Khoo Yiok Bin, by engaging a printing shop to produce the fake medical certificate, affixing a fake stamp bearing the name of the said Dr. Christine Khoo Yiok Bin, and issuing the fake medical certificate in favour of (_herself_), with the intention of causing it to be believed that (_she was_) on medical leave from 29 August 2019 to 4 September 2019, and intending that the document be used for the purpose of extending (_her)_ membership by seven days, and (_she had_) thereby committed an offence punishable under section 465 of the Penal Code (Cap. 224, 2008 Rev. Ed.).
+
+2       The offence of forgery _simpliciter_, committed contrary to section 465 of the Penal Code, carries an imprisonment term of up to four years, or a fine, with the imposition of _both_ punishments also mandated within a single sentence.
+
+3       When Ms Tay’s activities were eventually uncovered by her flagrant alteration of one of her forged MCs, she had taken to destroying the evidence of her crime, which included the disposal of a booklet of fabricated medical certificates of _Town Clinic_, (which was a real medical practice) and a falsified stamp bearing the name of an **_actual_** medical doctor; Dr Christine Khoo. This was the basis of one of the proceeded charges (DAC-900946-2020) for her bid to pervert the course of justice, which was framed as follows:
+
+> (_Ms Tay is_) charged that (_she_), on or about the 27th day of September 2019, in Singapore, did intentionally pervert the course of justice, _to wit_, by destroying fake Town Clinic medical certificate booklets and a fake stamp bearing the name of Dr. Christine Khoo Yiok Bin, and (_she had_) thereby committed an offence punishable under section 204A of the Penal Code (Cap. 224, 2008 Rev. Ed.).
+
+4       For an offence under 204A of the Penal Code, which proscribes the intentional obstruction, prevention, perversion of, or commission of acts calculated to defeat, the course of justice; a maximum term of imprisonment of up to seven years is prescribed. with a fine also being a possible option. Both modalities of punishment are also imposable in a single sentence.
+
+## BACKGROUND FACTS
+
+### Admitted facts in the Statement of Facts and consent to TIC 15 other charges
+
+5       The accused agreed to render pleas of guilt to two proceed charges under section 365 of the Penal Code, and a single charge under section 204A of the said Code. Upon Ms Tay’s admission of the contents presented in the Statement of Facts, she signalled that she was also agreeable to the taking into consideration of no fewer than **_fifteen_** other charges for similar forgery offences. The following is a _precis_ of the facts admitted by Ms Tay in the Statement of Facts[^3].
+
+6       As mentioned in the introduction, Ms Tay, was aged 47, and worked as a freelance writer, and had been a long-term customer of _Amore Fitness_. Her offences were brought to light upon the complaint of Ms Chong Sin Yee, who had worked as an Area Manager for _Amore Fitness_.
+
+### Amore Fitness’ policy of membership extensions upon production of MCs
+
+7        _Amore Fitness_ allowed their extant customers a _pari passu_ extension of their fitness membership terms upon a computation of days missed as a result of their being on medical leave or travelling. To qualify for an extension, _Amore Fitness_ stipulated that the customer’s period of absence must be three days or more. A customer could apply for an extension by uploading supporting documents, such as a medical certificate or a travel itinerary on a mobile application managed by _Amore Fitness_[^4].
+
+### The accused’s modus operandi for the forgeries
+
+8       At a point of time in 2016, Ms Tay’s _Amore Fitness_ membership had come due for renewal. Ms Tay had “_found Amore’s membership fees to be expensive, she engaged a printing shop to produce ten fake MC booklets from Town Clinic_”.[^5] To lend authenticity to her fabricated MCs, Ms Tay had “also procured a fake stamp bearing the name of “Dr Christine Khoo Yiok Bin’”.[^6] Ms Tay had then, on no fewer than seventeen occasions from 22 April 2016 and 24 September 2019, forged 17 MCs purportedly from _Town Clinic_ in favour of herself by affixing the fabricated stamp on the falsified MCs and manually signing the certificates with the forged signature of Dr Christine Khoo. By this means, she was able, via the 17 counterfeit MC, to obtain a cumulative duration of medical leave of 98 days. I now turn to the facts pertaining the specific proceeded charges.
+
+### Facts Pertaining to DAC-900944-2020 (The 16th Charge)
+
+9       In relation to this charge, contrary to section 465 of the Penal Code, Ms Tay had, on or about 6 September 2019, using the _modus operandi_ described above, forged an MC from Town Clinic bearing serial number 90202 dated 28 August 2019 in the name of Dr Christine Khoo Yiok Bin. Ms Tay’s admitted intent was to cause _Amore Fitness_ to believe that she had been validly on medical leave from 29 August 2019 to 4 September 2019. This had been done for the express purpose of facilitating the extension of her membership by seven days.
+
+### Facts Pertaining to DAC-900945-2020 (The 17th Charge)
+
+10     For the second proceeded section 465 Penal Code charge, Ms Tay had on, or about, 25 September 2019, forged an MC from Town Clinic bearing serial number 90304 dated 21 September 2019, again using Dr Christine Khoo Yiok Bin as the purported signatory. The intent was the same; which was to cause _Amore Fitness_ to believe that she was validly on medical leave from 21 September 2019 to 24 September 2019, with the leave period stipulated in the forged MC to be applied to her scheme of extending her membership by the four days stated.
+
+### Discovery of the forgeries
+
+11     Ms Tay’s scheme unravelled on 25 September 2019, when _Amore Fitness’_ Area Manager Ms Chong Sin Yee’s suspicions were aroused when she saw that the serial numbers of Ms Tay’s MCs did not run sequentially, and the number “8” in the date of MC No. 90202 appeared to be written over another number. Ms Chong had called Town Clinic to verify the authenticity of the MCs that the accused had proffered, and was told by the clinical assistant that the handwritten MCs were a revealing anachronism of Ms Tay’s duplicity as Town Clinic “_had stopped issuing handwritten MCs for several years_”.[^7]
+
+### Confirmation of Forgeries
+
+12     On 26 September 2019, Dr Christine Khoo herself had called _Amore Fitness’_ Ms Chong to confirm that the suspect medical certificates had not been issued by her. Dr Christine Khoo had later informed the police that Ms Tay’s last actual visit made to Town Clinic had been on 14 November 2016.
+
+### Termination of Amore Fitness membership
+
+13     Ms Chong had lodged a police report, and _Amore Fitness_ had then taken steps to terminate Ms Tay’s fitness membership on the basis that she was been found to have perpetrated an act of fraud. The communication was in the following terms:
+
+> PRWATE AND CONFIDENTIAL
+
+> 26 SEPTEMBER 2019
+
+> **Aida Tay Ai Ling** (_Identification)_
+
+> (_Membership Number_)
+
+> (_Business address_)
+
+> Dear Aida Tay Al Ling,
+
+> **Termination of Membership**
+
+> The following issue has been brought to the management's attention:
+
+>> **1**)     **Found to have committed an act of fraud or dishonesty**
+
+>> The Centre hereby terminates your membership as there is a breach of contract under Terms and Conditions Clause 5 - General Centre Rules. Centre reserves the right to revoke or suspend this membership for moral turpitude or fraud. As there is a breach of clause 5 - under Terms and Conditions in your contract, the company may terminate the membership without prior notice.
+
+>> **_You are now subject to possible criminal prosecutions under Section 463 of the Penal Code in the criminal law of Singapore for the forgery of documents that you have submitted for your fitness membership package extensions with Amore Fitness Pte Ltd between the periods from 2015 to 2019._**
+
+> For the above reasons, you are not allowed to enter all Amore clubs with immediate effect.
+
+> Yours faithfully
+
+> Amore Fitness Pte Ltd
+
+> \[Emphasis added\]
+
+14     What is notable about the communication is the prompting that Ms Tay was “_subject to possible criminal prosecution_” for her acts of document forgery, which from Ms Tay’s admissions in the Statement of Facts, precipitated her actions leading to the next proceeded charge. In all, _Amore Fitness_ assessed that Ms Tay’s forged MCs had caused it to suffer a loss of $498. There is no dispute that Ms Tay has effected a full restitution to _Amore Fitness_ for their stated losses.
+
+### Facts Pertaining to DAC-900946-2020 (The 18th Charge)
+
+15     From the admitted facts in the Statement of Facts, Ms Tay had _“_learnt that forgery was a criminal offence when she read _Amore Fitness’_ email dated 26 September 2019_.”_**_[^8]_**_At the next day; 27 September 2019, Ms Tay had “_intentionally perverted the course of justice by destroying the fake Town Clinic medical certificate booklets and the fake stamp bearing the name of Dr Christine Khoo Yiok Bin”_, for which she was charged under section 204A of the Penal Code._
+
+## PROSECUTION’S SENTENCING POSITION
+
+16     The Prosecution had sought custodial sentences for all three proceeded charges:
+
+> (a)     For DAC-900944-2020 (section 465 PC): A term of at least one week’s imprisonment.
+
+> (b)     For DAC-900945-2020 (section 465 PC): A term of at least one week’s imprisonment.
+
+> (c)     DAC-900946-2020 (section 204A PC): A term of least two weeks’ imprisonment.
+
+17     The prosecution had recommended a global sentence of **_least three weeks’_** imprisonment, which would be achieved by running the sentences for the one of the forgery charges and the section 204A charge consecutively. This, the prosecution reasoned, was appropriate as the combination would be seen to address distinct legally protected interests, which should per _Public Prosecutor v Raveen Balakrishnan_ <span class="citation">\[2018\] SGHC 148</span>, at \[39\] and \[42\] (“_Raveen Balakrishnan”_), attract their own discrete consequences.
+
+## ISSUES TO BE DETERMINED
+
+18     As Ms Tay had tendered a guilty plea and had not made any qualifying remarks or statements upon her admission of the Statement of Fact, or within the contents of her mitigation plea, the only presenting issue would be that of the nature and extent of the sentence meted by the sentencing court. Essentially, the central dispute would be whether Ms Tay’s offending was of a level, which justified a **_custodial_** penalty, with defence counsel making an impassioned plea that a **_non-custodial_** penalty be meted against Ms Tay, or alternatively that she was a suitable candidate for **_probation_**. Counsel conceded that community sentencing options would not be applicable. Whether the prosecution’s recommendation for a global term of imprisonment of three weeks could be regarded as a fair and condign punishment would also be an issue in contention. Counsel emphasized that there were certain aspects of Ms Lai’s personal circumstances which he held out to be different from the norm of this cases of this nature.
+
+## SALIENT POINTS IN MITIGATION PLEA
+
+### Personal circumstances and triggering factors leading to offence
+
+19     Counsel indicated that Ms Tay had a tumultuous childhood and personal life, including her parents’ divorce, and her own divorce at age 30. She had then been in an unsuccessful relationship with a Turkish man, whom she had accompanied to Turkey to look after his father who had contracted dementia. She had continued this relationship after the demise of his father, but the two had finally parted ways nine years later after their incompatibility had become all too evident. The time she had invested in the relationship had thwarted her plans to start a family[^9]. Ms Tay’s professional life had been similarly stymied by her difficult relationship with her supervisor, after she had been induced to leave her previous field of corporate communications which she had been engaged for 15 years, to work in freelance writing
+
+### History with Amore Fitness
+
+20     Ms Tay had initially joined _Amore Fitness_ when she was in her twenties. She had then left and the returned to _Amore Fitness_ in her late-thirties, and had been maintained her latter date membership for some nine years, she had renewed her membership in tranche terms of 12-months’, 24-months’ and 30- months’ membership. Ms Tay’s final package was for a 30-month term for which a fee of $3 200 was charged. This package was due to expire on 12 October 2019. The memberships cost some $1500 a year, excluding GST. The actual price was contingent on promotional offers as well as the duration of the membership package. In all Ms Tay had spent some $13 500 in membership fees in all her years in _Amore Fitness_.
+
+21     Ms Tay primarily joined _Amore Fitness’_ Zumba and dance classes, and made extra efforts to attend classes whenever he could. Counsel described her zeal to border to the point of obsession stating ‘_Given that her package had allowed unlimited access to the class and facilities… Over the past few years_, (Ms Tay) _has made it a habit to go for the classes, to the point of being obsessive as she tries to attend the dance fitness class daily’_[^10] Counsel elaborates on the extent of Ms Tay’s obsession with these classes[^11] :
+
+> **_For the past few years of her life, Amore had become a critical part of her life._** (Ms Tay) **_saw (Amore Fitness) as an escape outlet from the problems that she was facing in life. For periods where she could not attend classes in (Amore Fitness), she had started to feel withdrawn, isolated and mildly depressed. Thus was to the extent of allowing her daily schedule to centre around_** (Amore Fitness’) **_class schedule_**, on average (Ms Tay) would attend approximately 15-18 classes a week. This averages around 2-3 classes a day. **_As such_** (Amore Fitness) **_was extremely important for her mental well-being as it was the only platform for her to connect with her community of friends. Over the years_**, (Ms Tay) **_had cut off contact with her friends outside of_** (Amore Fitness} **_due to the many issues that she was facing._** As such (Amore Fitness) was where she felt secure and at home. \[Emphasis added\]
+
+22     Counsel elaborated on the interconnection between Ms Tay’s personal struggles and the role her _Amore Fitness_ membership promoted her emotional and mental health, and alleviated her depressive state of mind[^12]:
+
+> Much of (Ms Tay’s life gas been fraught with difficulties; whether it is related to her family, her personal relationships or her career. Inevitably, this has led to her feeling depressed and at time she would suffer from panic attacks. This has been going on for the past few years. Her confidence level had taken a dive and (Ms Tay) started to lose her sense of self-worth after going through the various ordeals in her life.
+
+> Between her career and her personal relationships. (Ms Tay) had been feeling like a failure since a few years ago. At that point of time, she decided to focus her energy on attending classes at (Amore Fitness). She felt that by doing so, she could momentarily forget her problems in her life. Through the lessons in (Amore Fitness), (Ms Tay) has built a community of friends. **_On days when she is unable to attend the classes, she found herself feeling isolated and depressed. Admittedly, this had gotten to a point when_** (Ms Tay) **_was obsessed with going for her classes_**.
+
+> \[Emphasis added\]
+
+23     In the _sequelae_ after her arrest, Ms Tay had on 23 October 2019, indeed sought help at Singhealth Polyclinic’s Health Wellness Clinic, where she had, after receiving a provisional diagnosis of depression with anxiety features, been referred to an SGH Psychiatrist. Ms Tay also saw Dr Ung Eng Khean of Adam Road Medical Centre, who diagnosed her to be suffering from persistent depressive disorder and panic disorder[^13]. Ms Tay has also received a diagnosis of hypertension.
+
+24     While I am mindful that the case of _Lai Oei Mui Jenny_ v _Public Prosecutor_ <span class="citation">\[1993\] 2 SLR(R) 406</span>; <span class="citation">\[1993\] SGHC 157</span>, makes the point that personal hardships are, save truly exceptional circumstances, not effective mitigation for criminal conduct, I would note that counsel was trying to make a slightly different point that Ms Tay had developed a pathological dependence to her membership at _Amore Fitness_ to fulfil her psychological and emotional needs, which had, in turn, induced her to commit the acts of forgery.
+
+### Motivation and modus operandi
+
+25     As mentioned above, _Amore Fitness_ had a policy allowing members to extend the expiry of their fitness package upon the production of medical certificates for a period of at least three days and travel documents if member travelled out of Singapore. Ms Tay had procured ten booklets of falsified medical certificates from a print shop, for a full print run of fabricated 100 MCs from a print shop. Ms Tay had been familiar with Town Clinic as she had attended there, and had used the actual MCs from Town Clinic as a template. Ms Tay had nominated “Dr Christine Khoo Yiok Bin” as the signatory of these falsified documents, as Dr Khoo had been the doctor she had most often seen at Town Clinic for her actual medical consultations. Ms Tay’s motivations are expressed in the following terms[^14]:
+
+> On occasions where (Ms Tay) could not attend the classes for a few days due to reasons such as mild injury or sickness, (Mdm Tay) **_started to feel as though she was letting her membership package go to waste._** Furthermore, since working as a freelance writer, she felt as though she might not be able to renew her membership package given her financial situation and as such, wanted her membership to last as long as possible.
+
+> Therefore, in an attempt to extend her membership shelf life, (Ms Tay) decided to prink fake medical certificate (MC) booklets. **_Although she had considered going to the doctor whenever she was unwell, she saw the doctor’s consultation fees as an additional expense_**, and believed that she was able to recover on her own with sufficient rest. **_Moreover, at that point of time, she strongly believed that doctors would only issue MCs which last around 1 to 2 days and as such, would make it difficult to get a membership extension._** To (Ms Tay) the MCs were simply for the purpose of extending her membership and she would only draw up these MCs when she was physically unfit to exercise.
+
+## ANALYSIS
+
+### Medical certificate forgeries were calculated, rather than impulsive, acts
+
+26     The passage set out above does, in my view, show that while Ms Tay might have been deeply attached to her _Amore Fitness_ membership, she was hardly driven to her criminal acts by any unthinking impulse. Rather there was an element of cold calculation in her manner of perpetrating the offence. Ms Tay, by her own candid admission, was loth to _“_**_let her membership package go to waste”_** for the days she professed to be unable to attend the fitness sessions. Ms Tay indicated that “_Ever since the booklets were printed_, (Ms Tay) _would use the fake MCs whenever she sustain_ (sic) _minor injuries or need to rest due to minor illness._ **_This almost became mechanical_**”[^15] \[Emphasis added\].
+
+27     I would note that while her ostensible reason was to recover for days she was unwell, there would be no means of objectively verifying if the MCs indeed covered days where she had indeed been physically ill or recuperating from illness, or whether her intent had been to defer the run out date of the contract had been for some **_other_** reason such as a lack of motivation to attend, or indeed simply not being free on the days stipulated in the medical certificates.
+
+### Considerations for the forgery offences
+
+28     Ms Tay’s Section 465 of the Penal Code, provides, for the offence of forgery _simpliciter_, a term of imprisonment of up to four years. As expected, this section would encompass an extremely broad _genera_ of a range of acts of forgery. Fines are imposed where the acts can be assessed to be at the lowest end of the spectrum, where the nature and extent of criminality and harm have been assessed to be less significant. It should be clear that the “**_amount_**” involved, or more specifically, the nature and value of the property or consideration the victim parted with as a result of the forger; which would be, within the present context, the value of the days the membership was fraudulently extended by, while an important consideration, would not be by any means, the **_sole_**, or even the **_primary_** determinant for type or extent of sentence that ought to be imposed. Other salient considerations would include whether there was any issue of public interest requiring protection, the nature and significance of the forged document, and also the ultimate objective aimed to be achieved by forgery.
+
+29     The learned DPP had made a valid point that while the value represented by days of extended membership was relatively small, a perspective view of the cumulative effect of Ms Tay’s continued and sustained offending should be taken. In this regard, the DPP states[^16]:
+
+> 3    The amount involved in each forgery charge is small, and _prima facie_ might have warranted only a fine. **_However, when the amounts reflected in all the charges, both proceeded with and taken into consideration, are aggregated, it will readily be seen that the value of the services that the victim company had parted with was more than negligible._** Furthermore, there are several aggravating factors which drive the case across the custodial threshold. \[Emphasis added\]
+
+30     Turning now to the factors, the prosecution has made a valid point that Ms Tay’s offences were not a one-off incident; but that there had been no fewer than **_seventeen_** separate forgeries. I accepted too that this was also **_not_** merely a poorly-thought-through spree of impulsive serial offending, but that the offences had been committed, as can be seen from the table above, in spaced intervals spanning a period which exceeded **three** years, from April 2016 to discovery in Late-September 2019, which showed a sustained persistency in the accused’s pattern of criminality.
+
+### Instances of forged MCs
+
+31     To facilitate a more considered and cogent analysis, the instances of Ms Tay’s forgeries is set out in the schedule below. The italicized entries in **_bold_** font signify the two proceeded charges.
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="10.3579284143171%"> <col width="46.9306138772246%"> <col width="42.7114577084583%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Year</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Instance/ duration of forged MC</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Duration</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">2016</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">(1) 22-14 April</p><p align="justify" class="Table-Para-1">(2) 22-14 September</p><p align="justify" class="Table-Para-1">(3) 14-16 November</p><p align="justify" class="Table-Para-1"><em>Accumulated MC for</em> 2016</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">3 days</p><p align="justify" class="Table-Para-1">3 days</p><p align="justify" class="Table-Para-1">4 days</p><p align="justify" class="Table-Para-1">10 days <em>in total</em></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">2017</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">(4) 21 January-17 February</p><p align="justify" class="Table-Para-1">(5) 28-30 May</p><p align="justify" class="Table-Para-1">(6) 13-26 August</p><p align="justify" class="Table-Para-1"><em>Accumulated MC for</em> 2017</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">18 days</p><p align="justify" class="Table-Para-1">3 days</p><p align="justify" class="Table-Para-1">14 days</p><p align="justify" class="Table-Para-1">35 days <em>in total</em></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">2018</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">(7) 26 January-4 February</p><p align="justify" class="Table-Para-1">(8) 13-17 April</p><p align="justify" class="Table-Para-1">(9) 27-29 September</p><p align="justify" class="Table-Para-1">(10) 24-39 October</p><p align="justify" class="Table-Para-1">(11) 6-8 December</p><p align="justify" class="Table-Para-1">(12) 20-22 December</p><p align="justify" class="Table-Para-1"><em>Accumulated MCs for</em> 2018</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">10 days</p><p align="justify" class="Table-Para-1">5 days</p><p align="justify" class="Table-Para-1">3 days</p><p align="justify" class="Table-Para-1">7 days</p><p align="justify" class="Table-Para-1">3 days</p><p align="justify" class="Table-Para-1">3 days</p><p align="justify" class="Table-Para-1">31 <em>days in total</em></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">2019</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">(13) 27-29 April</p><p align="justify" class="Table-Para-1">(14) 14=18 June</p><p align="justify" class="Table-Para-1">(15) 22-14 July</p><p align="justify" class="Table-Para-1">(16) <b><em>29 August -4 September<span class="FootnoteRef"><a href="#Ftn_17" id="Ftn_17_1"><sup>[note: 17]</sup></a></span></em></b></p><p align="justify" class="Table-Para-1">(17) <b><em>21-24 September<span class="FootnoteRef"><a href="#Ftn_18" id="Ftn_18_1"><sup>[note: 18]</sup></a></span></em></b></p><p align="justify" class="Table-Para-1"><em>Accumulated MCs for</em> 2019</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">3 days</p><p align="justify" class="Table-Para-1">5 days</p><p align="justify" class="Table-Para-1">3 days</p><p align="justify" class="Table-Para-1">7 days</p><p align="justify" class="Table-Para-1">4 days</p><p align="justify" class="Table-Para-1">22 days <em>in total</em></p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">&nbsp;</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>Total MC days for</em> 17 <em>charges</em></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">98 days</p></td></tr></tbody></table>
+
+  
+  
+
+32     Another fairly obvious point alluded to by the prosecution was the fact that there had been “a significant degree of **_premeditation_** and **_sophistication_** in the offences”, and that Ms Tay had gone to “_great lengths in forging the MCs by asking a printing shop to produce booklets of fake medical certificates and making a stamp bearing the doctor’s name and credentials_”[^19]. To this aspect, I would also note that Ms Tay, while expending just 17 MCs had commissioned a full print run of 100 MCs, which portended the likelihood of her continued intent to offend on this scale if she had not been caught. The learned DPP had also suggested to the accused being driven by profit[^20] This motive of desire for gain being a **_differentiating_** factor from a situation where the forgeries had been committed absent such a venal intent. The accused had expended considerable **_costs_** and effort to perpetrate her scheme, including the stamp bearing the doctor’s name and medical credentials. Given this, along with the admitted print run of ten booklets of ten MCs, and also Ms Tay’s candid sentiment bemoaning the notional “loss” that she would face when she could attend her sessions at _Amore Fitness_ feeling ‘_as though she was letting her membership package go to waste’_, Ms Tay seemed determined to gain benefits justify the considerable cost outlay, and perpetuate her scheme to inveigle these wrongful gains for the long term.
+
+### Analysing preceding section 365 Penal Code cases with parallel factual matrices
+
+33     The DPP preferred two unreported cases[^21] to afford a sense of the tariffs imposed for cases with close parallels in their factual matrices with the instant case. I should, as a caveat, state that I am mindful of the honourable Chief Justice Sundaresh Menon’s observation in _Public Prosecutor v Siow Kai Yuan Terrene_ \[2020\] SGHC at \[86\] that “_unreported cases carry little if any precedential value because they are unreasoned_”. Within these limitations, the cases do afford valuable insights to the run of sentences in similar case situations concerning the same offence type. In setting out these cases, I should add that the descriptions of the cases differ from case summaries in the DPP’s sentencing submission as I have separately summarised and paraphrased the accounts after reading the Statements of Fact and other relevant documents of these, with a view to better highlighting areas I found more salient.
+
+34     For the case of _Public Prosecutor_ v _Clarence Tan Wee Yet_ **_(_**SC-905587-2018). The accused had pleaded guilty and been sentenced on 11 January 2019 on multiple forgery _simpliciter_ counts. The accused in this case, had been a facilities manager of _Storhub_ Management Pte Ltd, a subsidiary of _CapitaLand Ltd_, charged with the responsibility for oversight of the maintenance of nine buildings, and this had entailed his direct purchase of electrical fittings, by his own funds, for the replacement of faulty parts. The accused there had been allowed to recover his own monies expended these purchases by the submission of the sales invoices from these procurements, along with a reimbursement form, which were presented to his company’s finance department.
+
+35     Mr Clarence Tan had, over a six-month period spanning July-December 2015, submitted 17 forged invoices to support reimbursement claims of “phantom” (or fictitious) purchases of hardware parts amounting to **$11,053.10**. The accused also faced a separate set of charges for his fabrication of quotations provided to bolster the chances of a company he had operated behind his employer’s back, _GC Tech Pte Ltd_, and which had been registered in his girlfriend’s name, for contracts his employer had offered, these forged quotations naturally proposed sums which were less competitive than that stated by his secret company. In this case, the accused, who had antecedents for unrelated offences, had made full restitution
+
+36     The accused received a global sentence of six weeks’ imprisonment. The individual sentences are as follows. There was no appeal against the imposed sentences.
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="6.16%"> <col width="43.72%"> <col width="25.12%"> <col width="25%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">&nbsp;</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Amount involved</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Sentence</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Whether consecutive</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">1</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">$642</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">One week’s imprisonment</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Concurrent</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">2</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>$695.50</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>One week’s imprisonment</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b><em>Consecutive</em></b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">3</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">$1070</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Two week’s imprisonment</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Concurrent</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">4</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>$642</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>One week’s imprisonment</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b><em>Consecutive</em></b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">5</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b><em>Fraudulent quotation</em></b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Four week’s imprisonment</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b><em>Consecutive</em></b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">&nbsp;</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">14 other s465 PC charges</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">TIC</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">&nbsp;</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">&nbsp;</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Global sentence</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Six weeks’ imprisonment</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">&nbsp;</p></td></tr></tbody></table>
+
+  
+  
+
+37     The facts of the other case presented in the Prosecution’s Address on Sentencing; _Public Prosecutor_ v _Muhammad Faiz Bin Hamdan_ (SC-900747-2018) allowed for even closer parallels, as the forgeries had involved medical certificates. The accused who had pleaded guilty to eight charges, and been sentenced on 27 July 2018. Mr Muhammad Faiz had worked as a shipping operations supervisor at PSA and had forged a number of medical certificates over a 21-month period from October 2015 to June 2017. These MCs had purported to cover his absences during three key periods: (a) when the accused was employed at PSA; (b) when he was on reservist training at the Police Coast Guard; and (c) after he had tendered his notice of resignation at PSA and was serving his one-month notice period.
+
+38     The accused in that case had used somewhat different _modus operandi_ to perpetrate his acts of MC forgery, using a computer application programme _‘Paint’_ to edit and alter a scanned copy of a genuine medical certificate. The accused explain his motives to be for his desire to take a break from work, and medically excuse himself from reservist training as well as from work after his resignation from PSA.
+
+39     A degree of differentiation was applied in sentencing, pegged to the purpose the MCs purported to cover and the point of time the fraudulent documents were presented. The accused there was sentenced to five days’ imprisonment for each forged MC he submitted to PSA **_before_** he resigned. He was sentenced to eight weeks’ imprisonment for forged MC submitted to PCG to escape his reservist duties. Finally, the accused was sentenced to two weeks’ imprisonment for each forged MC he submitted to PSA **_after_** he resigned. The higher tariff was predicated on the basis of the accused continuing to traffic in such forgeries were committed even **_after_** investigations had already commenced in respect of his earlier forgeries had begun, and the blatant continuation of the activity after the accused had been, at that juncture, released on police bail. Mr Muhammad Faiz, who was untraced and consented to a further ten stood down charges being taken into consideration, had received a global **_ten-week_** term comprising consecutive sentences of two and eight weeks. There was no appeal against sentence in this case.
+
+40     What is quite evident is that the criminal acts in the cases above have been assessed to cross the custodial threshold, with the former case involving a set of private sector transactions (where culpability is generally assessed to be **_lower_** than the forgery of documents and certificates purporting to be from state institutions, regulatory bodies or statutory boards), and the latter involving medical certificates, where the notional “monetary value” of the certificates would, like Ms Tay’s case, be fairly low, which would indicate the basis for the custodial term to be premised on factors other than on monetary level. I will delve into these factors later in these grounds.
+
+### Analysis of preceding section 204A Penal Code cases
+
+41     As a recapitulation, section 204A of the Penal Code provides that:
+
+> Whoever intentionally **_obstructs, prevents, perverts or defeats_** the course of justice shall be punished with imprisonment for a term which may extend to 7 years, or with fine, or with both.
+
+> {Emphasis added\]
+
+### Cases involving concealment of another person’s criminal acts
+
+42     It is recognised that there are two broad categories of section 204A offenders. They are firstly: where offenders seek to obstruct the course of justice by eradicating evidence of their own wrongdoing or that of others, and secondly: offenders who ask others to assume criminal responsibility voluntarily. The salient cases would of course, belong to the former category. Within this, there would be two sub-categories, one where the offender faces justice for concealing the acts of another, and the other where he seeks to erase evidence of his own transgression.
+
+43     In analysing the section 204A Penal Code charge Ms Tay faced, the case of _Seah Hock Thiam v Public Prosecutor_ <span class="citation">\[2013\] SGHC 136</span> stood as appellate authority for cases of this nature, both in in relation to giving guidance of whether there was any basis for practical differentiation between the four terms to “_obstruct, prevent, pervert or defeat_” the course of justice in s 204A PC, as well as the appropriate approach to take for effective deterrent sentencing, by having regard to the seriousness of the predicate offence as a reference point in deriving a suitable penalty for the latter crime.
+
+44     In _Seah Hock Thiam_, the accused had been found, after a trial, to be complicit in abetting a bid by two individuals; Ong Pang Aik and Ho Ah Huat, to avoid liability in the form of fines and demerit points, after the two men had committed traffic offences by parking their sports care in an illegal manner. This had been facilitated by having two other individuals; Salami bin Badrus and Rosniwati bte Jumari (who were engaged by one Mohamad Azmi) to assume the criminal liability in the place of Mr Ho and Mr Ong. The accused had claimed trial to two charges of abetting by instigating Mr Azmi to engage Ms Salami and Ms Rosniwati to assume this criminal liability.
+
+45     Choo Han Teck J indicated that there was no substantively significant difference between the four terms to “_obstruct, prevent, pervert or defeat_” the course of justice, provided in section 204 A of the Penal Code, stating at \[6\] that.
+
+> The words “obstructs, prevents, perverts or defeats” of s 204A convey the legislative intention of casting slightly different shades of the same meaning. Each word is sufficient to constitute an offence under s 204A although this offence is popularly referred to by lawyers as the offence of “perverting the course of justice”…
+
+46     In an aspect which was far more cogent to the present case, Choo J indicated that it would only be appropriate to **_index_** the sentence for the section 204A offence to the **_seriousness_** of the predicate charge upon which the offender had sought to thwart the course of justice.
+
+47     In this regard, Choo J noted that the district court, in imposing a six week imprisonment sentence, had apparently taken guidance from sentences imposed in another traffic case: _Public Prosecutor_ v _Leung Man Kwang_ \[2009\] SCDC 458 and _Public Prosecutor v Tay Su Ann Evangeline_ <span class="citation">\[2011\] SGDC 57</span> (Ms Evangeline Tay being the 19-year-old offender in the predicate offence and Mr Leung having assumed responsibility for her offence), and failed to apprehend the distinction that the predicate charge there had involved a far more serious charge of driving without a licence and failing to stop at a red light where the offender had deservedly received a three-month imprisonment sentence there, while the predicate offence in _Seah Hock Thian_ had merely involved far less serious parking offence. The High Court observed at \[8\]:
+
+> 8    …Both cases concerned a third party assuming liability for traffic violations resulting in the culprit escaping punishment. The only material difference was that in the present case, the traffic offences in question were illegal parking by a public road. The offences here were less serious than the offences committed by Leung’s principal, Tay. In Tay’s case, driving without a licence and beating a red light at a traffic junction were serious offences with the former potentially attracting a custodial sentence. **_Thus, in determining the extent of wrongdoing, the nature of the principal’s offence is relevant. The more serious it is, the more serious the act of perverting the course of justice will be in relation to it._** In the present case, the summonses in respect of the offences of Ong and Ho carried three demerit points and a fine of $120 each.
+
+> 9    …(I)n view of the fact that the offences committed by Ong and Ho were parking offences, I am of the view that it would be too harsh to place them at the same level of culpability as people who had committed much more serious traffic offences. In this case, I am of the view that six weeks’ imprisonment is excessive…
+
+> {Emphasis added\]
+
+48     As can be seen from the passage above, Choo J had, with this consideration in mind, reduced the **_six_**\-week imprisonment sentence meted at the first instance to a sentence of **_one_** week’s imprisonment. The High Court had, nevertheless, (at \[9\] in the Grounds) indicated that a custodial sentence was merited in situations where “_a fine would be of little deterrence_”.
+
+49     Applying the above principle to the present case, to underscore the gravity accorded to forgery offences (which is of course, the predicate offence in the instant case), it is noteworthy that forgery _simpliciter_ carries a maximum sentence of seven years’ imprisonment. Beyond the realm of generic forgery, certain specific forms of forgery carry even heavier penalties.
+
+50     Another case demonstrating the **_correlation_** between the predicate and consequent (section 204A) offences is that of _Public Prosecutor v Suhaila__Binte Suradi_ **_(_**SC-904897-2018). In this case, where the accused; Suhaila Binte Suradi was sentenced on 25 February 2019, Ms Suhaila’s husband had been involved in a front to rear collision with a motorcycle. The accused communicated her plan to assume responsibility for her husband as driver of the vehicle. Ms Suhaila’s husband was complicit in her scheme when she lied to traffic police personnel attending the scene (and in subsequent statements to the assigned investigation officer) that she was the driver. The husband thus evaded a breathalyser test on the assumption that he had merely been a passenger.
+
+51     The deception only unravelled when their accounts were discrepant with those obtained from other scene witnesses. While Ms Suhaila’s husband received a two-month imprisonment sentence for an offence under section 338(_a_) of the Penal Code, two-week imprisonment sentence was meted out against Ms Suhaila (who had no antecedents) for an offence under s 204A r/w 109 PC. As no appeal was filed here, there was no means to delve any deeper into the reasons for the nature and extent of the custodial term imposed,
+
+### Cases involving concealment of the offender’s own criminal acts
+
+52     Cases where offenders have perverted the course of justice to protect **_their own_** perceived interests would have, in my view, greater saliency to the instant case, given that these involve similar “**_self-preservation_**” based motivations, and would thus allow better parallels to draw relevant analogies and comparisons with the present case. The following three cases afford a sense of the range of sentences that are imposed in such cases.
+
+53     In the case of _Public Prosecutor_ v _Li Na_ <span class="citation">\[2015\] SGDC 260</span> (MA 9142 of 2015), the accused had pleaded guilty to multiple counts under section Sec 204A of the Penal Code. These offences had been committed after her detention at Changi Airport on suspicion of her having imported counterfeit goods to be sold in Singapore. Upon her detainment, she had, upon fears of a follow through raid on her shop by authorities, surreptitiously contacted her husband and a shop assistant, and sought to ‘sanitise’ her business premises by having the two remove extant counterfeit goods from her shop.
+
+54     Both confederates executed Ms Li’s instructions and stored incriminating goods in the boot of her husband’s car, which he proceeded to drive to and leave in a hotel carpark, thus thwarting the discovery and seizure of the said items. Along with the section 204 charge for which Mr Li, received a sentence of **_two weeks’_** imprisonment, another 12 charges under the Trade Marks Act (Cap 332, Rev Ed 2005) and Copyright Act (Cap 63, Rev Ed 2006) were proceeded with. In all, Ms Li received a global sentence of six months and two weeks’ imprisonment. Her appeal against sentence was dismissed by Chao Hick Tin JA.
+
+55     In _Public Prosecutor_ v _Pereira Henry Romeo_ (SC-903226-2016), the accused who had been arrested was arrested on suspicion of having committed drug-related offences, had contrived squeeze a wet ball of tissue paper he had concealed around his crotch to dilute his urine sample after having been required to furnish a urine specimen for the purpose of testing. Mr Pereira, who had drug antecedents, and was liable for an enhanced sentence as a long-term level 2 (LT2) repeat offender if found guilty for the consumption of a specified drug, was, on 16 January 2017, sentenced to a **_two-week_** term of imprisonment or the section 204A Penal Code charge. No appeal against sentence was filed in this case.
+
+56     In _Public Prosecutor_ v _Adighazali Bin Suhaimi_ (SC-906942-2018), a full-time national serviceman: SCDF Corporal Kok Yuen Chin, had sustained fatal injuries following a push into a 12-metre-deep pump well at Tuas View Fire Station from a hazing ritual commemorating Cpl Kok’s impending ORD date, which had taken a catastrophic turn. The accused; an SCDF Staff Sergeant, had recorded footage with his mobile phone, starting with the deceased serviceman standing at the edge of the well and ceased recording just after an implicated serviceman; SCDF Staff Sergeant Muhammad Nur Fatwa Bin Mahmood Fatwa (“SSG Fatwa”) had pushed the deceased into the well. The accused had told SSG Fatwa that he had taken a video of the event, and been repeatedly advised.by SSG Fatwa to delete the video footage.
+
+57     The accused there; SSG Adighazali, had complied and deleted the video from his mobile phone to erase evidence of his and SSG Fatwa’s participation in the mishap, knowing that the video was evidence relevant to the criminal investigations into Cpl Kok’s death. The accused received a sentence of **_one month’s_** imprisonment, while SSG received **_four weeks’_** imprisonment for the section 204A Penal Code charge, and **_12 months’_** imprisonment for the predicate offence of causing death by a rash act, contrary to section 304A (a) of the Code. No appeal was filed in this case.
+
+### Assessment of culpability for section 204A Penal Code offences where actual harm is limited
+
+58     For the mirror charge against the accomplice in _Public Prosecutor v. Muhammad Nur Fatwa Bin Mahmood_ (SC-906994-2018), the accused had received a sentence of **_four weeks_** for the section 204A Penal Code charge, the sentence had been imposed notwithstanding that “(T)_the accused demonstrated remorse by confessing to the IO immediately, and_ **_that the deletion of the video ultimately would not have thwarted investigations due to the existence of the CCTV footage._**”
+
+59     In that case, the existence of a CCTV system, which had recorded the events at the pump well, had thwarted the officers’ bid to obscure the circumstances behind Corporal Kok’s mishap by making the mobile phone footage unavailable. Incidentally, the deleted recording had also been salvable, with officers of the Technology Crime and Forensic Branch (TCFB), a unit of the Police Force, being able to restore the discarded footage that SSG Adighazali had recorded. The point would be that the provision does not just address **_actua_**_l_ **_harm_** caused by the act of obstructing or perverting the course of justice, given that this **_harm_** would lie in obscuring or concealing the predicate offence causing the offence to remain undetected.
+
+60     An offender who is **_completely successful_** in accomplishing the act of covering his tracks of the former offence would, by logical extension, have escaped liability from **_both_** the justice obstruction or perversion offence, as well as the predicate offence. It must therefore be the case that **_culpability_** plays a preeminent role in sentencing. The relevance of this point lies in the fact that Ms Tay’s destruction of the unused certificate booklets and the fabricated name stamp for Dr Christine Khoo similarly did not, in actuality, prevent the uncovering of her acts, given that the investigation would have had access to the seventeen forged MCs that Ms Tay had tendered to _Amore Fitness_ over the three years of her offending, along with Dr Christine Khoo’s conformation that these were not from her. The discarded items would only afford further insight as to **_how_** the forgeries were perpetrated, and possibly (from the number of MC booklets printed, with 73 unused MCs remaining), the projected or potential **_scale_** of Ms Tay’s intended course of offending, had she been allowed to continue.
+
+61     Counsel alluded to this when he states in a segment entitled “_Whether and how the offender stood to gain from obstruction justice”_ in his Plea-in-Mitigation[^22]:
+
+> We wish to highlight that there was nothing (Ms Tay) would have gained from her destroying of the booklet and stamp. **_The possibility of justice being perverted was low as she had offered full assistance to the authorities during the investigation_** and did not withhold any further information required from her. **_We wish to reiterate that she had destroyed the booklet and stamps in a moment of disgust and anger_**… \[Emphasis added\]
+
+### Unlikely motive of “disgust and anger” for destroying the items used for forgery
+
+62     To be clear, I could not agree with counsel’s over-charitable characterisation of Ms Tay’s motive of having destroyed the booklets of unused MCs and stamp “_in a moment of disgust and anger_”. If anything, this appeared to more likely predicated by her desire to **_avoid_** the criminal consequences of her actions. This is, in my view, discernible from the timing of the destruction of the items on 27 September 2019, which closely follows _Amore Fitness’_ sternly-worded letter, dated 26 September 2019, that Ms Tay had been terminated with cause upon their establishing that she had committed offences of forgery, which had contravened membership conditions proscribing ‘_acts of moral turpitude and fraud’_.
+
+63      _Amore Fitness_ also warned that Ms Tay’s actions had accordingly been reported to the police. To recap, _Amore Fitness’_ letter warns “_You are now subject to possible criminal prosecutions under Section 463 of the Penal Code in the criminal law of Singapore for the forgery of documents that you have submitted for your fitness membership package extensions with Amore Fitness Pte Ltd between the periods from 2015 to 2019_.” The close chronology spanning the two events also suggested an impulsive act to ease evidence, without realising that the act would be futile, considering the trail of other accumulated evidence that was already in the hands of the police investigation officer.
+
+64     Ms Tay’s letter to _Amore Fitness_ on 30 October 2019 is significant for both what she **_does_** say, and also what the accused **_eschews_** from mentioning. The entire handwritten letter[^23] is reproduced in full to allow a more complete and cogent discussion:
+
+> 30 October 2019
+
+> Amore Fitness Pte Ltd
+
+> (_address_)
+
+> Dear Amore management
+
+> I am writing unreservedly to the management of Amore Fitness for producing fake medical certificates for the purpose of extending my membership package.
+
+> I can’t quite remember when I first joined Amore Fitness. As far as I remember, I have been a member for the past 9 years or so. During these years I have enjoyed the dance fitness classes tremendously. This has prompted me to be loyal to Amore, and (_sic_) continuously renewed my fitness package all this time.
+
+> **_About 3 years ago, I started producing fake medical certificates for the purpose of extending my membership package, whatever my motivation may be, there is no acceptable reason or excuse for doing so. I apologise unreservedly to the management for this dishonest act, and I can only ask for your forgiveness._**
+
+> I have been told by the Ang Mo Kio police that the total number of membership days extended as a result of the MCs is about 88. I understand that the cost of a 3-month fitness package (unlimited access to all clubs) is about $448. I would like to offer Amore fitness a compensation value of $500, and I hope you can accept.
+
+> **_Amore Fitness has been like a second home to me, and it is with deep sadness and regret that I can no longer enjoy the myriad_** (sic) **_of classes offered. However, I recognise that this is a price I need to pay for my dishonest and unreasonable act._**
+
+> I sincerely wish Amore Fitness all the best in your future endeavours. May you continue to bring more smile and laughter to all your members.
+
+> Your Sincerely
+
+> (_signed_)
+
+> Aida Tay Ai Ling
+
+> \[Emphasis added\]
+
+65     While the letter, written just over a month after the discovery of the accused’s offences, is persuasively written with a flair and style, which is entirely in keeping with Ms Tay’s vocations as a former corporate communications professional and (to the present) a freelance writer[^24], the considerable expository detail of her motivations and actions set out above curiously **_omits any reference_** of her disposing of the booklets of unused MC and doctor’s stamp.
+
+66     The omission would be surprising given that Ms Tay appeared keen (from the highlighted text) to detail the magnitude of her contrition and regret, which would be made all the more evident if she had added that she had destroyed the booklets of unused MCs and counterfeit doctor’s stamp as offending articles in a fit of “_disgust and anger_” described in her mitigation plea, if that was indeed what had happened. Indeed, Ms Tay’s letter, made after police investigations had commenced, with her effusive and fulsome praise of _Amore Fitness’_ suite of services, fond reminiscences of her nine years as a “_loyal_” client who had “_continuously renewed_ (her) _fitness package all the time_”, tendering of $500 to compensate for the additional 98 days gained by her fabricated MCs and warm wishes for their “_future endeavours_”, while deftly avoiding any incriminating reference to destroying the remaining MCs and the doctor’s stamp, seemed more to be a calculated attempt at damage control in getting into the good graces of the victim-company, than an expression of genuine contrition.
+
+### Co-operation and early plea of limited value in view of overwhelming evidence against accused
+
+67     Counsel has emphasized Ms Tay’s co-operation[^25] and relatively early plea of guilt as factors meriting leniency. These should, in my view be placed in their proper context and accorded limited mitigatory weight in view of the case that had been built by the prosecution, and that the prosecution could have brought if she had indeed claimed trial or otherwise prevaricated in making her decision in tendering a plea of guilt. The prosecution already had critical documentary evidence against her in the form of the seventeen MCs tendered to _Amore Fitness_, along with an entirely reasonable expectation of the fitness establishment’s full co-operation if her case had proceeded to trial, as _Amore Fitness_ had, after all, made the initial police report against Ms Tay in September 2019.
+
+68     Hence even where the actual stamp and surplus MCs had been destroyed by Ms Tay, the accused would have been hard put to protest her innocence against seventeen incriminating examples of her **_work-product_** from the destroyed items. The only remaining component for the prosecution to prove would be the statement and testimonial evidence of _Amore Fitness_ staff that Ms Tay had indeed presented the MCs and been given the membership extension days as a direct set-off of the days she was purportedly medically unfit. As alluded above, _Amore Fitness’_ co-operation, judging from their antecedent conduct in reporting Ms Tay, would have been quite assured.
+
+69     Flowing from this, it is well established that purported “co-operation” when discovery of the criminal activity is inevitable has limited mitigatory value. In _Wong Kai Chuen Phillip_ v _Public Prosecutor_ \[1990\] 2 SLR (R) 61; <span class="citation">\[1990\] SGHC 79</span>, Chan Sek Keong J (as he then was), cautioned against giving undue weight to mitigation pleas evincing co-operation with authorities as proof of remorse where the accused really had no other viable option. That case involved a lawyer who had criminally misappropriated some $1.84 million from the client’s account of his firm. At \[13\], Chan J observed:
+
+> 13    Although the appellant surrendered himself to the CAD, it is significant to note that this event occurred at a time when **_he really had no other choice._** He had no choice because the Council of the Law Society had taken over the clients’ account of his firm and it was only a question of time before his misdeeds came to light… {Emphasis added\]
+
+### Community based sentencing is not an option in this case
+
+70     Counsel had in his mitigation plea put considerable effort to advocate community based sentencing[^26] options for Ms Tay, and had also indicated her to be an ideal candidate for treatment under a Mandatory Treatment Order (MTO)[^27] in view of the pathology detailed earlier in these grounds, as well as her perceived receptivity to such therapeutic interventions. Counsel’s detailed and earnest submissions in this regard were unfortunately, in colloquial terms; a “**_non-starter_**” as the offences against the accused had maximum sentences well in excess of the three-year limit provided by section 337(1)(i) of the Criminal Procedure Code (Cap 68 2012 Rev Ed). This would mean that no community-based sentence can be imposed in this instance. Counsel had conceded this to be so, in the course of the PG mention[^28]. Even though the MTO scheme had a higher maximum sentence allowance to permit offenders facing charges for crimes carrying maximum sentences of up to seven years to be sentenced to a mandatory course of treatment, the **_specific_** Penal Code offences Ms Tay has been charged with were not prescribed offences where an MTO was mandated.
+
+### Proposal for probation in mitigation plea
+
+71     Counsel had also urged the court to consider probation for Ms Tay. Defence counsel stated that Ms Tay was an exceptional case where she was, in his view, unlikely to reoffend, and that there was “_potential for her to rehabilitate_”[^29]. Counsel also argued that Ms Tay deserved a second chance, and that the court “_would not be sending a wrong message by giving her probation_”[^30]. While counsel went into considerable detail to burnish Ms Tay’s qualities as conducive to a rehabilitative sentencing option, and concomitantly downplay her acts as insufficient to disqualify her for probation, in both his written Plea-in-Mitigation and oral address in court, probation was, in my judgment, a difficult proposition to sustain for a number of reasons.
+
+72     Foremost among these would be that granting probation to Ms Tay would brazenly run **_against the grain_** of a well-established _corpus_ of settled law, with the case of _Public Prosecutor_ v _Lim Chee Yin Jordon_ <span class="citation">\[2018\] SGHC 46</span> (“_Jordon Lim_”), restating the primacy of rehabilitation as the foundational basis of probation, with the rehabilitation of **_young_** offenders in particular, being the principal _raison d’etre_ for such sentences. While the door for probation was not entirely closed to **_adult_** offenders, they were not afforded the presumptive benefit of rehabilitation (which is applicable to youthful offenders) as a prime directive for their sentences. For adult offenders deterrent and retributive bases occupy places of far greater saliency. In _Jordon Lim_, See Kee Oon J held:
+
+> 35    …(E)ven where rehabilitation is relevant as a sentencing principle, it is likely to be trumped by the need for deterrence in cases where the offence concerned is serious…Generally, therefore, probation would not be considered where the offence is a serious one.
+
+73     In _Jordon Lim_, the offender had, at age 23 years and four months when the offence occurred, passed the threshold where he was no longer deemed a youthful offender. Without the aforementioned presumption, it would have been incumbent on Mr Lim to “_demonstrate an extremely strong propensity for reform or show exceptional circumstances in order to justify_ (granting probation)”[^31]. In addition, as the offence of vehicle theft was a serious one, the accused also had to displace the presumption that he ought to receive a sentence where deterrence was the dominant sentencing consideration. On the facts, Mr Lim had stolen and crashed a lorry while in a state of voluntary intoxication. He, like Ms Tay in the instant case, had asserted himself to be suffering from a mental condition, in his case, depression. See J reversed the District Court’s order of probation, and imposed, in its stead, a term of four months’ imprisonment and a driving disqualification for a duration of 18 months.
+
+### Age and experience as contraindications for probation
+
+74     A simple juxtaposition of _Jordon Lim’s_ situation with the instant case would show just how **_untenable_** the notion of probation would be for Ms Tay. _Jordon Lim’s_ bid for probation ultimately failed upon the Appellate Court’s pronunciation of the pertinent considerations for probation to be applicable to criminal offenders. A major consideration is the **_age_** of the offender, with a presumption of “rehabilitabilty” applicable to persons who had committed their offences as callow and naïve adolescents, prone to make the mistakes of youth, and deserving of an opportunity to learn from their transgressions, and make the better choices that the rehabilitative process would afford. _Jordon Lim_, at age 23, had **_failed_** to make the cut. Ms Tay, at age 47, was effectively twice the age of _Jordan Lim_, and had thus accumulated another quarter-century of life experience, which ought to have helped her avoid making the choices which steered her toward the path of criminality she took.
+
+75     Ms Tay’s letters show her to be an effective communicator, and she has held supervisory positions in the field of corporate communications until 2012. Now a freelance writer, her ability to analyse, reflect and persuade have not diminished, as is evident from her three-page[^32]_apologia_ to her family doctor; Dr Catherine Khoo, for using her name and clinic in the forgeries, and ten-page letter[^33] to the court where she took considerable effort to explain her stressors, state of angst, and inner motivations, while also seeking “_forgiveness_” in the penultimate passages. Simply put, Ms Tay was intellectually, cognitively, and experientially in a position to have known better.
+
+### Contraindication for probation if the offence is serious
+
+76     The High Court in _Jordon Lim_ made it clear that even in situations where rehabilitation was relevant as a sentencing principle, it was likely to be trumped by the need for deterrence where the offence was serious. The existence of a **_mental condition_** that was **_causally_** linked to the offence might displace the need for deterrence and bring rehabilitation back to the fore[^34]. The point of whether Ms Tay had a mental condition and whether that mental condition was relevant to her commission of the offences she was charge for, will be addressed later in these grounds. For the former point, it was plain that the offences against Ms Tay were serious, as evidenced by their severe maximum penalties, which as can be seen by the foregoing discussion, put Ms Tay beyond the avail of the community-based sentencing regime.
+
+### The accused’s prolonged serial offending is a severely aggravating factor
+
+77     There is also considerable difference in the manner of offending in the respective cases of _Jordon Lim_ and Ms Tay. _Jordon Lim_ involved a **_singular_** impetuous act of stealing a truck for a joy ride. The fact that the accused was too inebriated to drive safely, or execute tight turn, cascaded a sequence of events which led to the truck turning over and severe property damage being caused. Ms Tay’s offending on the other hand, while less dramatic, **_extended_** over a three-year period, stretching (counting the TIC charges) a full 17 separate acts of forgery, and an eighteenth act of destroying the instruments and materials used in the earlier seventeen counts, to pervert the course of justice.
+
+### Specific deterrence for persistent repeat offending to point of habitualization
+
+78     In analysing the proper manner to approach the sentencing of offenders whose criminal activities had remained undetected for a long time, the following passage from the oft quoted case of _PP v Fernando Payagala Waduge Malitha Kumar_ <span class="citation">\[2007\] 2 SLR(R) 334</span> is instructive. VK Rajah J (as he then was) states at \[43\] of the Judgment:
+
+> 43     **_The length of time a particular scam or offence has gone undetected would be yet another relevant consideration in sentencing._** In _PP v Rohaazman bin Ali_ (\[26\] _supra_), the fact that the scam went undetected for 20 months was a consideration the trial judge felt he could not overlook. This was the case even though he found that the scam was unsophisticated and the _modus operandi_ simple. **_The relevance of this is as a sentencing consideration may also be tied to the recalcitrance of the offender._** In the case of a hardened offender, he would have repeatedly committed a pattern of offences without any sign or acknowledgment of contrition or remorse. **_The longer the period of time over which the offences have been committed, the more irrefutable it is that the offender manifests the qualities of a habitual offender._** Specific deterrence is incontrovertibly an important sentencing consideration in such cases. \[Emphasis added\]
+
+79     Hence the brazen conduct of an “uncaught” offender who continues persistently on his course of conduct to the point of habitualization until his deeds are finally discovered, may justify a sentence which emphasizes **_specific_** deterrence. In such circumstances, any consideration of rehabilitation would, figuratively speaking, take a back-seat, against the dictates of deterrence. Probation would be proscribed unless the accused could be proven to be suffering from a relevant mental condition or disorder which rendered him unresponsive to deterrent sentencing. See J explained the rationale in _Jordan Lim[^35]_
+
+> 39    Similarly, specific deterrence may be of limited application in cases involving mentally-disordered offenders (see _Lim Ghim Peow_ at \[36\]). In _Lim Ghim Peow_, the court explained (at \[36\]) that where the offender’s mental disorder has seriously inhibited his ability to make proper choices or appreciate the nature and quality of his actions, it is unlikely that specific deterrence will fulfil its aim of instilling in him the fear of re-offending. **_Conversely, specific deterrence may remain relevant in instances where the offence is premeditated or where there is a conscious choice to commit the offence_**. \[Emphasis added\]
+
+### Analytical framework for sentencing persons with an extant mental disorder at time of offence
+
+80     In the case referenced; _Lim Gin Peow_ v _Public Prosecutor_ <span class="citation">\[2014\] 4 SLR 1287</span>; <span class="citation">\[2014\] SGCA 52</span> (“_Lim Gin Peow_”), the offender who was had fatally immolated his romantic interest when she refused to reconcile with him, had been diagnosed with major depression. The Court of Appeal there had clarified on the relationship between an extant mental disorder, and the proper approach to deriving an appropriate sentence, holding that while the existence of a mental disorder on the part of the offender was always a relevant factor in the sentencing process, the manner and extent of its relevance depended on the circumstances of each case, in particular the nature and severity of the mental disorder.
+
+81     It was accepted that the existence of a mental disorder often gave rise to contradictory sentencing objectives[^36]. For such offenders, the element of **_general deterrence_** could be given considerably less weight, particularly if the mental disorder suffered at the time of the offence was **_causally_** related to the offence[^37]. Notwithstanding this, the element of general deterrence could still be accorded full weight in some circumstances, such as **_where the mental disorder was not serious or causally related_** to the commission of the offence, **_and the offence was a serious one_**[^38]**_._** Similarly, as stated, **_specific deterrence_** could remain relevant where the offence was premeditated or where the offender exercised a conscious choice to commit the offence, notwithstanding his mental disorder[^39]
+
+### Whether the accused suffered from a relevant mental condition
+
+82     The _Lim Gim Peow_ framework was amplified by the Court of Appeal in _PP v ASR_ <span class="citation">\[2019\] 1 SLR 941</span> (“_ASR_”) stating that where there is a causal link between the impairment of the mind and the commission of the offences, this might lighten an offender’s culpability and attract mitigating weight[^40]. Where such a causal link affects an offender’s understanding of the gravity of his offending conduct, it would correspondingly reduce the weight placed on general and specific deterrence [^41].
+
+83     In my judgment, neither scenarios were in play here. Ms Tay had been initially diagnosed with depression with anxiety features, which had then been refined to persistent depressive disorder and panic disorder. Notwithstanding these, she demonstrated that she maintained a clear insight to the **_rationalisation_** process which was fuelling her inner motivation to precipitate her actions, as can be seen in her the following passage, within the handwritten ten-page latter which she had presumably instructed counsel to annex in her mitigation plea. Ms Tay says[^42]:
+
+> Matters got derailed when I allowed my emotional turmoil and escalating anxieties cloud my judgement, leading me to the offences I committed. I took advantage of Amore’s policy to allow membership packages to be extended, if members can produce MCs of 3 days or more…**_In the course of devising this scheme, I made excuses for myself, telling myself that this is acceptable since I have already paid so much in membership fees throughout these 9 years or so, that a few extra weeks or months of extended membership shouldn’t matter that much_**. \[Emphasis added\]
+
+## SENTENCING CONSIDERATIONS
+
+### Pre-meditation and greed as factors going towards offender’s culpability
+
+84     Based on her own account, after Ms Tay’s rationalisation that she ought to be entitled claim a self-declared discount on account of her long membership in _Amore Fitness_, she had gone on and “_devised this scheme_”. The facts show very considerable aforethought in commissioning ten _Town Clinic_ MC booklets, along with the doctor’s stamp. On the significance of premeditation as a sentencing consideration, In _Logachev Vladislav_ v _Public Prosecutor_ <span class="citation">\[2018\] 4 SLR 609</span> (“Logachev Vladislav”), Menon CJ had held at \[56\]:
+
+> 56    I now turn to the offence-specific factors that go towards the offender’s culpability. **_All other things being equal, an offence committed with planning and premeditation will be more aggravated than one which is committed opportunistically or on impulse_**… **_The presence of planning and premeditation evinces a considered commitment towards law-breaking and therefore reflects greater criminality_**… {Emphasis added\]
+
+85     Addressing specifically the treatment of **_forgery_** cases where the crime was meticulously premeditated (as was the case here), the facts and holding of Aedit Abdullah DJ (as he then was) in _Public Prosecutor_ v _Ho Wei Chuan_ <span class="citation">\[2005\] SGDC 121</span>, are especially on point with the instant case. There, the accused, who had forged a HDB season parking label causing a loss of $88, was sentenced to six weeks’ imprisonment. At \[10\] of the Grounds:
+
+> 10     **_There were to my mind a number of factors which showed that a fine was not an appropriate punishment._**  Firstly, what was significant about the commission of the offence by the Appellant was that the forgery was not a simple alteration of a letter or two in a handwritten note.  **_The Appellant had taken some pains to commit his crime._** He had scanned in the image of a used parking label, altered the validity period and the vehicle registration number, and then printed out the fake label using a colour printer.     This showed that the criminal act was not impulsive or committed on the spur of the moment.   **_It clearly required thought, planning and premeditation_**; this was an aggravating feature:  _Public Prosecutor v Tan Fook Sum_ <span class="citation">\[1999\] SGHC 80</span>. \[Emphasis added\]
+
+### Difficulties in uncovering sophisticated or well-planned frauds
+
+86     In this connection, sophisticated and thoroughly planned schemes take more time and resources to unravel. Unsophisticated MC fraudsters commonly perpetrate their forgeries by **_manually_** altering the dates, diagnoses, or other details of actual medical certificates or clinical memoranda with the amateurish execution leaving tell-tale artefacts leading to ease of discovery, and consequent _denouement_. This would be different from the situation with Ms Tay’s fraudulent acts. The fact that the MCs were printed in a standard format with a doctor’s stamp lent a strong air of authenticity. Sixteen of her MCs were unquestioned, with the seventeenth (_shown below_) only being flagged because when _Amore Fitness’_ Area Manager Ms Chong Sin Yee’s suspicions were aroused when she saw that the serial numbers of Ms Tay’s MCs did not run sequentially, and the number “8” in the date of MC. 90202 appeared to be written over another number.
+
+87     Except for these slip-ups by Ms Tay, and the gumption of Ms Chong in taking the initiative to call _Town Clinic_ to authenticate the MC, it is possible that Ms Tay might never have been brought to book. It bears repeating that the accused in a precedent case; _Public Prosecutor_ v _Muhammad Faiz Bin Hamdan_ (SC-900747-2018) received custodial terms of five days’ to two weeks’ imprisonment for his relatively sophisticatedly MC executed forgeries, where he had used a computer application programme _‘Paint’_ to edit and alter a scanned copy of a genuine medical certificate.
+
+![]([2020] SGDC 0157_Image/[2020] SGDC 0157_image1.png)
+
+### A case of miscalculation rather than impairment from mental illness
+
+88     The notion of Ms Tay suffering from a mental condition, which is already at odds with her demonstrated executive ability to devise and put into operation of a scheme requiring several discrete steps of preparation and perpetration, is rendered even more implausible by the following admission in her letter to the court, where she states[^43]:
+
+> …**_I erroneously figured that in the worst case scenario, my membership would be terminated and Amore may demand a compensation_**,..I readily admit that it was sheer ignorance naiveté, sense of desperation and petty greed on my part that motivated my actions.
+
+> _and_
+
+> Admittedly, I was in denial, **_I did not believe Amore Fitness would take police action against a paying member_**…
+
+> \[Emphasis added\]
+
+89     Counsel, in an apparent bid to show that Ms Tay’s offending had been precipitated by her state of compromised psychological health had in referencing that her offending just to gain a paltry advantage of an additional three months’ membership, which amounted to just $498 in monetized value, protested that Ms Tay had not been “_motivated by greed_”. Urging “_common sense_” to look at Ms Tay’s offending, he declared that it was “_almost illogical_” that “_anyone_ (would) _do this_”.[^44] The answer is, of course, that that the acts do not seem as irrational when one considers that offenders generally do not **_expect_** to be questioned or caught. Ms Tay had obviously placed a gamble that her meticulously planned scheme, with convincingly crafted simulations of medical certificates, was resistant to discovery. Even when discovered, as the above passage shows, Ms Tay expected to be afforded an opportunity by _Amore Fitness_, as one of their “_paying members_” to pay her way out of trouble.
+
+90     Other parts of Ms Tay’s letter, which have not been reproduced (to avoid undue prolixity in these Grounds) register her apparent surprise on finding herself charged for offences under the Penal Code. Ultimately, the impression is that Ms Tay, in hoping to reap an unjust gain from _Amore Fitness_ made an ill-considered wager in tendering the forged MCs, betting firstly that _Amore Fitness_ would not take the matter to the police even if she were discovered. Her second misplaced expectation was that she would not face the forgery and justice obstruction charges that she did, as she had perceived her transgressions to be too trivial to merit such a degree of prosecutorial action. Given this context, it is patent that there is no causal link between her diagnosed conditions and her offences to merit a rehabilitation-based sentence, or indeed any reduction in the assessment of her culpability. Indeed, the DPP makes an apt observation in noting Ms Tay’s calculated, venal motive for forging the MCs as an aggravating ground, stating[^45]:
+
+> The accused **profited** from the commission of the offences as she continued to enjoy membership privileges while not having to pay for new packages. The law has always recognised that motive affects the degree of an offender’s culpability for sentencing purposes, and persons who act out of pure self-interest and greed will rarely be treated with much sympathy (_Zhao Zhipeng v PP_ <span class="citation">\[2008\] 4 SLR(R) 879</span> at \[37\]). \[Emphasis in the original\]
+
+### General deterrence to protect the ‘sanctity’ of MCs
+
+91     Counsel has made repeated emphasis on that the value of a three-month fitness package in _Amore Fitness_ (which was a rough time equivalent of the 98 days of medical leave allowed by the 17 forged MCs) would cost just $498, Following from this, Ms Tay’s restitution would be an effective overpayment of $2 from _Amore Fitness_ projected loss. The argument is however premised on a **_fallacy_**, drawing an equivalency **_only_** on the projected economic loss that _Amore Fitness_ would have suffered, without looking at the wider implications of Ms Tay’s manner of offending by her serial use of falsified MCs, and the ripple effect on the wider public interest were MC fraud allowed to run rampant, upon an expectation that perpetrators would be lightly punished.
+
+92     This point was addressed in the case of _Gan Chai Bee Anne v PP_ \[2019\] 4SLR 838; <span class="citation">\[2019\] SGHC 42</span> (“_Gan Chai Bee_”) where Menon CJ held that in sentencing for financial and property offences, as a general principle, the tariff of a sentence could be pegged to the economic value involved in the offence, nevertheless it should be understood that economic value was an accurate proxy for only economic harm suffered by the victim and did not apply to “_other forms of intangible harm such as harm suffered by society at large_ **_if the offence had the effect of infringing a public interest_**”{Emphasis added\].
+
+### Public interest to avoid knock-on effect on businesses and doctors from verification costs
+
+93     The public interest at stake would be the often-unquestioned trust in medical certificates and associated clinical memoranda. MC forgeries ought to be taken especially seriously given that once an MC is produced, the recipient commonly presumes that the illness or health condition stated in the certificate truly exists, and is unlikely to question that the person should be granted the excuse or indulgence requested.
+
+94     Along with the principle of **_specific_** deterrence discussed above, it would also be appropriate to address the need for **_general_** deterrence in this case. Rampant MC fraud would erode this trust reposed that that medical certificates are documents that faithfully and truly record actual presenting conditions. Hence, others must be dissuaded from following in the footsteps of Ms Tay and her ilk, by the imposition of suitable penal sanctions when such forgeries or similar frauds are detected. An erosion of trust would translate to a push for more verifications where recipients would feel an apprehended need to call clinics or hospitals to verify the MC received. Besides eroding societal trust, such authentication exercises would increase business costs, and worse, eat into the time for doctors and medical staff who would be constrained to attend to these inquiries, possibly at the expense of their patients and clinical duties.
+
+### Sentencing in a case where accused faces multiple proceeded charges where individual charges viewed in isolation, might indicate a fine
+
+95     Defence counsel had asked for Ms Tay to be sentenced to a fine, with bases which included the low notional value of the gain she had received, in monetary terms, from each of the MCs calculated in terms of days of extension of her membership. _Gan Chai Bee’s_ case, which has already been mentioned above, provides valuable guidance on the manner of approaching sentencing in cases involving multiple offences that could be considered to form “_a single course of criminal conduct_”. In _Gan Chai Bee_, the accused has colluded with an associate to submit 154 inflated invoices, which contained impermissible expenses which the associate have nevertheless sought to claim.
+
+96     The High Court in _Gan Chai Bee_ had underscored the importance of rigorously and sequentially following two distinct steps of sentencing analysis for cases of that nature. The first step being for the court to determine the appropriate sentence for **_each_** charge, and the second involving the court’s determination of the **_overall_** sentence to be imposed.[^46] This second step concerned not only the issue of how the sentences ought to be run, but also whether the totality of the offender’s conduct justified an adjustment in the individual sentences decided at the first step. In _Gan Chai Bee_, the precedents showed that it would have been difficult at the **_first_** step to justify a custodial sentence for each of the appellant’s charges because the amount of unauthorised claim involved in each charge was small, and the unauthorised claim was intended to accrue to the associate’s rather than the accused’s benefit. In that case, Menon CJ was of the view that most of the charges the appellant faced, taken individually, would likely have merited only a **_fine_**. Whether the **_custodial threshold_** had been crossed in this case was therefore a matter that had to be decided at the second step[^47]. Ultimately, notwithstanding this aspect of the individual charges, the High Court imposed a global term of five weeks’ imprisonment.
+
+97     What is significant is the very marked **_parallels_** between _Gan Chi Bee_ and the instant case, not least by Menon CJ’s characterisation of the accused’s manner of offending that was, upon a global holistic assessment, deserving of a custodial term despite the individual charges themselves meriting a fine if viewed in isolation. The striking similarities with the instant case would be quite patent from the following passage of _Gan Chai Bee_ (at \[74\] - \[75\]):
+
+> 74    Having regard to the totality of the appellant’s offending conduct, I consider that the custodial threshold is crossed. **_This is not because of the value involved in the offences, but because of the premeditation and planning with which the appellant participated in the dishonest scheme, and because of the sustained and deliberate manner in which she committed the offences which revealed a mind consciously habitualised to crime._** All of this demonstrates that the appellant participated in a calculated course of criminal conduct designed to siphon moneys from the victim. **_It spells the need for a sentence that will deter her specifically from reoffending in the future and deter others from engaging in similar conduct_**. It also evinces a high degree of culpability on her part… On account of this, she deserves a suitably harsh sentence which signals society’s disapproval of her criminal conduct.
+
+> 75     **_In my judgment, these deterrent and retributive aims can be satisfactorily met only with a sentence of imprisonment. The totality of her criminal conduct justifies increases in the individual sentences for her charges from what would, taken alone, have been fines, to short custodial sentences._**
+
+> \[Emphasis added\]
+
+### Fines would have been inappropriate for the MC forgery offences following the custodial sentence imposed in Gan Chai Bee v PP and also because of the sheer number of TIC charges
+
+98     It should be noted that the pertinent issues in _Gan Chai Bee_ mirror those here, concerning issues of premeditation and planning, as well as the serial counts pointing to habitualised offending necessitating specific deterrence, as well as considerations of general deterrence” to _deter others from engaging in similar conduct_”.
+
+99     The need to factor in the 15 TIC charges for forgery in sentencing would impose a very considerable hurdle to Ms Tay’s bid for a non-custodial sentence. In the _ex-tempore_ Judgment in _S Elamparithi v Public Prosecutor_ (MA 9238/209), See Kee Oon J had emphasized that a sentencing court must carefully consider the interplay between proceeded and TIC charges, to allow a more holistic determination of the accused’s overall culpability, with a view to imposing an appropriately befitting punishment. In that case, the proceeded charge was one of voluntarily causing hurt where the accused has inflicted three slaps to a person, who had offered a degree of provocation. While the proceeded charge itself, on a “_stand-alone_” basis, would have entail a **_non-custodial_** sentence, the presence of a TIC charge, also under section 323 of the Penal Code, where the accused had punched another person on a different date would show a “_worrying pattern of criminality_” which **_“_**_elevate_**_s_** (the accused person’s) _culpability and engages the need for specific deterrence where the custodial threshold is crossed_”.[^48]
+
+100    Given this reappraisal of culpability, the High Court determined that Mr Elamparithi should receive a ten-day term of imprisonment. Hence whether the situation involved additional **_proceeded_** charges (as in _Gan Chai Bee_) or **_TIC_** charges (as in _Elamparithi_), the number and nature of charges involved in the case, were effective in triggering a basis for reconsideration, and in changing what **_might_** have been a non-custodial term (or terms) were the charge (or charges) in question viewed in isolation, to an eventual imprisonment sentence, when the offending was analysed in its entirety on a holistic basis.
+
+### Why a fine would have sent the wrong message
+
+101    Ms Tay’s offending did not arise from one or two **_transient_** episodes of lapsed judgment, but from an oft repeated tactic which she resorted to on no fewer than 17 times over some three years. It would not serve the ends of justice for Ms Tay to receive fines where the prosecution has been able to show that custodial sentences have invariably been imposed for forgery cases involving generally equivalent levels of culpability and harm, with _Muhammad Faiz_ being a particularly relevant case for juxtaposition with the instant case, even if his offending involved just eight MC forgeries over **_21_** months, as opposed to Ms Tay’s 17 MCs over the **_41_** month period from April 2016 to September 2019. I note that counsel, who demonstrated considerable assiduousness in his preparation of his voluminous mitigation plea (which ran a full 372 pages. counting the annexures), could not find **_any_** cases where a non-custodial sentence had been given for MC forgery. The sting of deterrence would be severely adulterated if those with the wherewithal to pay are allowed to escape the appropriate consequences of their criminal conduct by paying a fine. To allow this would be to countenance a culture where offenders might expect that, when caught, their criminal acts, whatever the count of charges, can always be resolved by pecuniary penalties.
+
+102    Given these considerations, it would have been difficult to countenance a fine being adequate for the proceeded forgery offences, Ms Tay’s offending had reached a scale that could be described to be virtually on a habitual basis. The only effective and rational response to this must be to impose custodial terms, to exact an appropriate measure of both specific deterrence for Ms Tay to eschew from her insidious _modus operandi_, and general deterrence for those who might be similarly tempted to obtain business advantages by illicit and unlawful means to give pause.
+
+### Sentences for the section 204A charge must be indexed with the contextual matrix and sentences imposed for the forgery charges
+
+103    While Ms Tay’s destruction of the falsified MC booklets and fabricated doctor’s stamp involved just a “one-off” event, and the acts had not significantly inhibited investigative action leading to her being brought to book, the **_potential_** consequences were grave, and similar considerations of specific and general deterrence are applicable. The analyses in _Gan Chai Bee_ and _Elamparithi_ would also militate towards the inevitability of a custodial term as being the only rational and reasonable response for the section 204A charge when the offending is holistically considered in the context of suppressing evidence of her MC frauds.
+
+### Offender specific mitigating points
+
+104    The other aspects of Ms Tay’s mitigation have been dealt with above. The three truly salient mitigatory points are firstly, Ms Tay having no criminal antecedents; secondly, her decision to plead guilty at a fairly early stage, and finally, her restitution of the projected loss of $498 to _Amore Fitness_. The background circumstances of Ms Tay’s restitution have, of course, already been described and analysed in the preceding discussion in these Grounds, and thus need not be re-iterated.
+
+## DECISION ON SENTENCE
+
+### Sentences imposed
+
+105    Upon a careful consideration of the foregoing, I imposed the following sentences:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="6.16%"> <col width="25.3%"> <col width="37.96%"> <col width="30.58%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">&nbsp;</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Charge</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Offence</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Sentence</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>1</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC-900944-2020</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Section 465 Penal Code</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">One (1) week's imprisonment. Concurrent</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>2</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC-900945-2020</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Section 465 Penal Code</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>One (1) week's imprisonment. Consecutive</b></p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>3</b></p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC-900946-2020</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Section 204A Penal Code</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Two (2) weeks' imprisonment. Consecutive</b></p></td></tr></tbody></table>
+
+  
+  
+
+### Proportionality and Totality principles applied
+
+106    Section 307 of the Criminal Procedure Code provides that where a person is sentenced to imprisonment for three or more distinct offences, at least two sentences for these offences must be ordered to run consecutively. As the terms in DAC 900945-2020 and DAC 900946-2020 had been ordered to run consecutively, Ms Tay would serve an aggregate term of **_three weeks’_** imprisonment. In deriving the global sentence, I was mindful of the need to observe the Totality Principleas articulated by Menon CJ in _Logachev Vladislav_ where his Honour states at \[84\]:
+
+> As to the content of the totality principle, this comprises two limbs. The first examines whether the aggregate sentence is substantially above the normal level of sentences for the most serious of the individual offences committed, while the second considers **_whether the effect of the aggregate sentence on the offender is crushing and not in keeping with his past record and his future prospects_** (see _Mohamed Shouffee bin Adam v PP_ <span class="citation">\[2014\] 2 SLR 998</span> (“_Shouffee_”) at \[54\] and \[57\] respectively). It has been said that the totality principle is one of limitation and is a manifestation of the requirement of proportionality that runs through the gamut of sentencing decisions (see _Shouffee_ at \[47\]). \[Emphasis added\]
+
+107    In this regard, I had ordered one of the section 465 Penal Code charges (DAC 900945-2020) to run consecutively with the section 204A Penal Code charge (DAC 900946-2020), as the offences of forgery and perversion of the course of justice involved the infringement of distinctly separate legally protected interests, and the offences, already starkly different in nature, were separated in time and place of commission. The short custodial terms imposed were entirely in keeping with sentences imposed in precedent cases with analogous facts, and would not offend against the first limb of the Totality principle. In relation to the second limb, I was satisfied that the imposed global sentence would not be a crushing sentence and would be congruent with Ms Tay’s past record (or lack thereof) and her future prospects.
+
+108    I was satisfied that there was no need to recalibrate the global sentence to maintain proportionality. The High Court in _Raveen Balakrishnan_ had (at \[77\] of the Judgment) enjoined a sentencing court to be on guard to note “_an aggregation resulting in a longer sentence is going to carry a compounding effect that bears more than a linear relation to the cumulative and overall criminality of the case_”. I was of the view that there had been no compounding effect disproportionate to Ms Tay’s criminality in respect of the consecutive sentences imposed in the instant case. This was so as the custodial terms ordered to run consecutively resulted in a still relatively short global sentence of three weeks’ imprisonment. Indeed, any titration of the three-week global sentence would **_not_** have made any real difference given that section 50H of the Prisons Act (Cap 247 Rev Ed 2000) read with section 50(1)(a) of the Act provide for a one third remission of sentence for the imposed sentences **_exceed_** fourteen days. Conversely, no remission is given for imprisonment sentences of fourteen days or below. In practical terms therefore, Ms Tay’s three-week sentence would translate to an actual service of fourteen days’ imprisonment.
+
+### Bail granted
+
+109    Upon her sentencing on 12 June 2020, Ms Tay was allowed a deferment to attend to personal matters until 15 June 2020. She subsequently indicated that she intended to file an appeal against sentence through a new set of solicitors. On 15 June 2020, Ms Tay attended with her newly appointed counsel to confirm her intentions. Her application for bail pending the conclusion of this appeal was granted, and the accused remains on bail.
+
+* * *
+
+[^2]: Exhibit C1B.
+
+[^3]: Exhibit PS-1.
+
+[^4]: At \[3\] of PS-1.
+
+[^5]: At \[4\] of PS-1
+
+[^6]: At \[4\] of PS-1
+
+[^7]: At \[7\] of PS-1.
+
+[^8]: Statement of Facts PS-1 at \[10\]
+
+[^9]: Exhibit D1; Plea-in-Mitigation at \[11\] and \[12\].
+
+[^10]: In Exhibit D1 at \[15\]
+
+[^11]: In Exhibit D1 at \[16\]
+
+[^12]: In Exhibit D1 at \[25\]-\[26\]
+
+[^13]: Please see Exhibit D1 at pages 239-241.
+
+[^14]: In Exhibit D1 at \[19\]-\[20\]
+
+[^15]: Exhibit D1 at \[21\].
+
+[^16]: Please see _Prosecution’s Address on Sentence_ at \[3\]
+
+[^17]: Exhibit C1B Charge DAC 900944-2020
+
+[^18]: Exhibit C2B Charge DAC 900945-2020
+
+[^19]: _Prosecution’s Address on Sentence_ at 3\[b\].
+
+[^20]: _Prosecution’s Address on Sentence_ at 3\[c\].
+
+[^21]: _Prosecution’s Address on Sentence_ at Page 4-5
+
+[^22]: At \[80\] in Page 21 of Plea in Mitigation
+
+[^23]: In Plea in Mitigation at Page 61.
+
+[^24]: As detailed in \[8\]-\[10\] of Plea in Mitigation.
+
+[^25]: Plea-in-Mitigation at \[46\]-\[47\]
+
+[^26]: At \[90\]-\[98\] of the Plea-in-Mitigation.
+
+[^27]: At \[99\]-\[108\] of the Plea-in-Mitigation.
+
+[^28]: Notes of Evidence, 12 June 2020, Page 10, lines 3-7.
+
+[^29]: Notes of Evidence, 12 June 2020, Page 10, lines 14-18.
+
+[^30]: Notes of Evidence, 12 June 2020, Page 10, lines 23-25.
+
+[^31]: At \[41\]-\[42\] of the Judgment.
+
+[^32]: At Plea-in-Mitigation, Pages 63-65.
+
+[^33]: At Plea-in-Mitigation, Pages 66-75.
+
+[^34]: As elucidated at \[35\] md \[37\] of the Judgment.
+
+[^35]: At \[39\] of the Judgment.
+
+[^36]: At \[25\] of the Grounds of Decision.
+
+[^37]: At \[26\]-\[27\] of the Grounds of Decision.
+
+[^38]: At \[28\]-\[27\] of the Grounds of Decision.
+
+[^39]: At \[35\]-\[36\] of the Grounds of Decision.
+
+[^40]: At \[71\]–\[72\] of the Grounds of Decision.
+
+[^41]: At \[115\] of the Grounds of Decision.
+
+[^42]: At Plea-in-Mitigation, Pages 69-70.
+
+[^43]: Plea-in-Mitigation, at Pages 70 and 71 respectively.
+
+[^44]: In Notes of Evidence, 12 June 2020, Page 1, lines 8-11.
+
+[^45]: In Address on Sentence by Prosecution, at Page 2, \[3} (c).
+
+[^46]: In 19\]-\[21\] of the Judgment.
+
+[^47]: In \[35\]-\[39\] of the Judgment
+
+[^48]: At \[15\] of the _ex tempore_ Judgment.
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F24804-SSP.xml)
