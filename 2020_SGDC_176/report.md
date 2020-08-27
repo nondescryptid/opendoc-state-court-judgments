@@ -1,0 +1,506 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Tuan Kong Beo (Teochew) Temple _v_ Tian Kong Buddhist Temple  
+
+### \[2020\] SGDC 176
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">District Court Suit No 308 of 2018</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">12 August 2020</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Tan May Tee</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Ms Devi Haridas (Belinda Ang Tang &amp; Partners) for the plaintiff; Mr Lim Chee San (TanLim Partnership) for the defendant.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Tuan Kong Beo (Teochew) Temple — Tian Kong Buddhist Temple</td></tr></tbody></table>
+
+Contract – Breach – Specific performance
+
+Agency – Apparent/ostensible authority
+
+12 August 2020
+
+### District Judge Tan May Tee:
+
+## Introduction
+
+1       This is a dispute between two Chinese temple groups over the use of the premises situated at 51 Bedok North Avenue 4, Singapore 469695 (“the Premises”). The disagreement had started in 2016. The plaintiff filed the present suit in 2018 after it was physically prevented by the defendant from holding the annual birthday celebration of its deity at the Premises.
+
+## Background
+
+### Pre-1985 to construction of the temple at the Premises
+
+2       The plaintiff and the defendant are both registered societies[^1]. They have their roots in Pulau Tekong where they, together with three other temples namely Tien Chow Foo Temple, Swee Fah Sirh Temple and Wan Fook Kong Temple, had carried out their separate religious activities on Pulau Tekong before the residents there were resettled on the main island of Singapore in the early 1980s[^2].
+
+3       The members of the plaintiff worship a deity known as “Tuan Pek Kong”. The highlight of the plaintiff’s activities is the annual celebration of the birthday of Tuan Pek Kong which is held on or around the 15th day of the 12th month of the lunar calendar (“the Celebration”). It is an elaborate event during which opera performances (“Chinese wayang”) are staged and a celebratory dinner is held, attended not just by members of the plaintiff and its well-wishers but also invited dignitaries and community leaders.
+
+4       Before the resettlement, the annual Celebration of the plaintiff’s deity in Pulau Tekong would last four days or more. It was a carnival event of sorts which attracted not just the villagers of Pulau Tekong but also those living in the Changi coastal area as well as Johor, Malaysia. There were Teochew opera performances in the afternoons and evenings, and hawkers from Changi village would set up stalls selling a variety of food items not usually available on the island as well as games stalls.[^3] After the move to the mainland Singapore, the annual celebration was scaled down to two days, and limited to prayers, Teochew opera performances and a dinner.[^4]
+
+5       In the resettlement programme sometime in 1985, the temples were paid compensation in the total sum of $37,954.28 and were allocated a piece of land by the Housing and Development Board (“HDB”) at 51 Bedok North Avenue 4 to accommodate the activities of all five temples within the same premises. According to the plaintiff, this was to enable the residents of Pulau Tekong to continue the worship of their respective deities after the resettlement to mainland Singapore.[^5]
+
+6       The defendant took charge of all administrative matters on behalf of the five temples in dealing with the HDB and in the construction of a new temple building on the Premises. In exchange, the plaintiff had contributed its share of the resettlement compensation paid by HDB as well as monies donated by its devotees to the funds that would be used by the defendant for the construction of the new temple building and its operations.[^6]
+
+7       When the temples were first relocated to the Premises, a temporary wooden structure was erected to house the different deities pending the construction of a new temple building. Due to space constraints, the plaintiff initially conducted its activities at a factory premises owned by one of its members. An urn representing the plaintiff’s symbol of worship was housed in the member’s factory premises where prayers and celebrations were also carried out. Upon the expiry of the lease of the factory premises, the plaintiff brought its urn to the Premises and housed it in the temporary wooden structure[^7].
+
+8       The construction of the new temple building was completed in 1992. The plaintiff moved its deity ceremoniously into the new building accompanied by musicians playing Teochew music. A ceremony was held at the Premises during which the ashes of the original urns from the five temples of Pulau Tekong were assimilated into two large urns placed in the new building. This process was to symbolise that the deities of the five temples had been invited and installed in the new joint temple. The two large urns were engraved with the inscriptions of the five temples[^8]. A donation board installed in the temple building also carried an inscription of the origin of the Tian Kong Buddhist Temple and the names of the four temples of Pulau Tekong, including the plaintiff, that had donated their relocation compensation to the defendant for the construction of the temple[^9].
+
+9       Eventually, the activities of the three other temples, Tien Chow Foo Temple, Swee Fah Sirh Temple and Wan Fook Kong Temple, were subsumed by the defendant. This was apparently due to their original committee members having passed away. This left the plaintiff and the defendant as the two groups that continued their religious activities on the Premises.[^10]
+
+10     The Premises comprise the temple building, a carpark and a lawn area around the temple buiding.[^11] Since 1992 after the construction of the building was completed, the plaintiff had held its annual Celebration at the Premises.
+
+11     There was no formal lease issued by the HDB for the Premises back in 1985. It appears from the documents adduced that the temple site was supposed to be leased to the five component temples but HDB was subsequently informed by the defendant that its members were the same as the members of the three other temples, Tien Chow Foo Temple, Swee Fah Sirh Temple and Wan Fook Kong Temple. HDB had required the five component temples to jointly form a new temple body for the lease to be issued but as they had failed to satisfy the pre-condition in HDB’s offer letter, the issuance of the lease did not materialise.[^12]
+
+### The 2011 Agreement
+
+12     The plaintiff and defendant began negotiations in 2007 with the view to securing the issuance of the lease from HDB[^13]. Both parties were represented by solicitors. The plaintiff was represented by Hin, Rai & Tan while the defendant’s solicitors were Hoh Law Corporation. The object of the negotiations was the formation of a new temple body called “Pulau Tekong Joint Temple” and arrangements for the parties’ management and usage of the joint temple premises which culminated in an agreement dated 4 July 2011[^14] (“the 2011 Agreement” or “the Agreement”).
+
+13     In the 2011 Agreement, the defendant identified as “Party A” was described as also representing Tien Chow Foo Temple, Swee Fah Sirh Temple and Wan Fook Kong Temple while the plaintiff was identified as “Party B”. The preamble in the Agreement recited that the parties agree to register an association under “Pulau Tekong Joint Temple” and to jointly own and operate the joint temple subject to the terms set out in the Agreement.
+
+14     The material terms of the Agreement are as follows:
+
+> 1)    Party A shall be entitled to 80% and Party B shall be entitled to 20% of the entitlement, legal interest and benefit of the temple land and building. The HDB’s lease in respect of the land and building shall be held by Five Trustees, Three Trustees shall be appointed by Party A and Two Trustee (_sic_) shall be appointed by Party B to hold the HDB’s lease or its subsequent renewal of the lease by HDB, in trust of their respective temples under Party A and Party B.
+
+> 2)    ...
+
+> 3)    …
+
+> 4)    …
+
+> 5)    …
+
+> 6)    Party B shall make use of the temple building, namely:-
+
+>> a)    Mid-year get-together dinner (yearly);
+
+>> b)    Year End get-together dinner and Chinese Wayang (yearly);
+
+>> c)    Room for committee meeting (quarterly);
+
+>> d)    Conduct of AGM and or EGM in the temple hall; and
+
+>> e)    Use of utilities room and toilet facilities.
+
+> 7)    Party B shall place the monument of their deity God “Tuan Pek Kong” permanently at the fourth position on the right hand side facing the main entrance of the temple as per the attached sketch plan…
+
+> 8)    …
+
+> 9)    Party B’s members and worshippers are allowed to pray and worship freely to the god of “Tuan Pek Kong” at the temple building permanently.
+
+> 10)    Party B is permitted to conduct and carry out all religious events, activities and affairs pertaining to and in respect of the God “Tuan Pek Kong” which includes inter alia the annual celebration of the birth of the God “Tuan Pek Kong” on the 15th day of December (Lunar Calendar) annually.
+
+> 11)    Party A to assist, endorse and sign all necessary documents required for the procurement of the necessary and relevant permits for Party B’s members and worshippers of the deity God “Tuan Pek Kong” to hold mid-year get-together dinners and to stage “Wayang” in celebration of the birthday of the deity God “Tuan Pek Kong” to be held at or beside the temple building grounds. In the event that a Singing Opera is staged instead of a “Wayang”, to permit Party B and its members to hold the celebration of the birthday of the deity God “Tuan Pek Kong” within the temple area.
+
+15     The Agreement was signed by one Chin Tiam Soy for and on behalf of the defendant, and by Ng Kim Joo for and on behalf of the plaintiff. It is not disputed that Chin Tiam Soy (“Chin”) was, at the date of the Agreement, the chairman of the defendant while Ng Kim Joo was the chairman of the plaintiff. Both signatures were witnessed by the parties’ respective solicitors.
+
+### Formation of Pulau Tekong Joint Temple
+
+16     In performance of the Agreement, an association called the “Pulau Tekong Joint Temple” was formed. It was registered on 3 September 2012 under the Societies Act (Cap 311)[^15] with its place of business at the Premises.
+
+17     It is significant to note that, in compliance with the 2011 Agreement, the constitution[^16] of the Pulau Tekong Joint Temple contained the following articles:
+
+> 8.    The membership of the Association shall comprise of 2 main parties: Party A shall comprise members of Tian Kong Buddhist Temple and Party B shall comprise members of Tuan Kong Beo (Teochew) Temple.
+
+> …
+
+**TRUSTEES**
+
+> 26.    If the Association at any time acquires any immoveable property, such property shall be vested in trustees subject to a declaration of trust.
+
+> 27.    The Trustees of the Association shall:
+
+>> (a)    Be five (5) in number, with 3 members nominated by the members of the Tian Kong Buddhist Temple and 2 members nominated by the members of Tuan Kong Beo (Teochew) Temple.
+
+> …
+
+### HDB’s lease of the Premises
+
+18     HDB issued the lease of the Premises for a term of 30 years from 1 May 2015[^17]. The lessees named in the lease were Ng Boon Fea, Koh Yok Khoon, Chin, Tang Tai Seng and Chin Gim Leong each of whom was described as Trustee, and the beneficiary named in the lease was Pulau Tekong Joint Temple. The manner of holding of the estate was stated to be as joint tenants.
+
+19     The number of trustees appointed by each party to hold the lease appear to be in compliance with clause 1 of the 2011 Agreement. Ng Boon Fea and Koh Yok Khoon, being committee members of the plaintiff, were the two trustees appointed by the plaintiff to hold the HDB lease on its behalf. The remaining three trustees, Chin, Tang Tai Seng and Chin Gim Leong are committee members of the defendant.
+
+## The defendant’s actions in breach of the 2011 Agreement
+
+20     The plaintiff had been conducting its yearly celebrations on the Premises without incident since 1992 after its deity had been installed in the temple building after the construction of the temple building was completed. In 2015, the temple premises underwent renovations. In conjunction with the plaintiff’s 80th anniversary that year which was celebrated on a large scale, it held its mid-year celebration, which is the other major event on the plaintiff’s calendar, in a rented hall.
+
+21     From January 2016, however, the defendant resorted to actions which prevented the plaintiff from holding the annual Celebration of its deity in the same manner as before. The actions of the defendant led to the Celebration being scaled down in 2016 and 2017, and moved to a location outside of the Premises altogether in 2018 and 2019.
+
+### The defendant’s actions in 2016[^18]
+
+22     In November 2015, the plaintiff was initially assured by Chin that the renovation works would be completed in time for the Celebration scheduled to take place on 24 and 25 January 2016. However, on or about 10 January 2016, Chin informed the plaintiff’s Vice-Chairman, Lea Guan Chong[^19] (“Lea”), that the renovation works would not be completed in time and there would be no venue for the plaintiff’s Celebration.
+
+23     Chin suggested a location within the Premises beside the incense burners which are used to burn joss papers. However, this suggestion was rejected by the plaintiff due to safety reasons. It would have been dangerous to hold the Celebration at the suggested location as the burning of joss papers would have to occur right next to the wooden stage to be set up, and furthermore, the stage would be surrounded by wooden scaffoldings and construction materials lying around it.
+
+24     It was then agreed that the construction materials would be shifted from their original location within the car park to make more space for the plaintiff to set up the tentage for prayers in front of the temple urns, its dinner event and the stage for the Teochew opera performance. Chin gave the plaintiff the handphone number of the defendant’s contractor to arrange the relocation of the construction materials. However, when contacted, the contractor informed the plaintiff that they could not proceed with the move because the defendant’s chairman (i.e. Chin) had instructed them not to do so.
+
+25     One week later, Chin informed the plaintiff that he could not instruct the contractor to move the construction materials as the car park was going to be renovated in a few days’ time. The plaintiff then scaled down the Celebration. It was agreed between Chin and Lea that the Celebration would be held at a specific area in the car park that was not obstructed by any construction material or any ongoing construction. Prayers were to be offered to Tuan Pek Kong in front of the temple urns; the Teochew opera performance and dinner at the Premises would be cancelled. In lieu of the Teochew opera, the troupe would stage a singing performance.
+
+26     The plaintiff went ahead and arranged for its tentage building contractor to set up the tentage at the specific area on the morning of 23 January 2016 for the scaled down celebrations. However, on the morning of 23 January 2016, Chin parked his car in the area where he had agreed the tentage could be set up and refused to allow the plaintiff’s tentage contractors to carry out their works.
+
+27     Lea then went to the Premises and informed Chin that he could not change his mind at the last minute. Lea then requested Chin to move his car away and not obstruct the setting up of the tentage. Chin who was accompanied by one Tan Teck Han (“Tan”), the defendant’s then treasurer, refused to do so on the basis that the car key was not with them at the time. Lea instructed the tentage building contractor to commence setting up the tentage, in spite of Chin’s car being there.
+
+28     It was only in the evening that Chin’s car was driven away from the spot where the plaintiff’s contractor was setting up the tentage. Lea immediately asked the tentage contractor to set up the wooden platform, which was to serve as a stage, which they did. The structure was completed that same evening. When Chin and Tan came back, they parked their car in another location in the Premises.
+
+29     The 2016 Celebration proceeded the following day as scheduled, albeit on a smaller scale than in the previous years.
+
+### The defendant’s actions in 2017[^20]
+
+30     The plaintiff’s 2017 birthday celebrations of Tuan Pek Kong were set to take place on 12 and 13 January 2017.
+
+31     The plaintiff had arranged for its contractor to set up the staging for the Teochew opera performance on or about 10 January 2017. The tentage was already put up by then in the car park area. The plaintiff’s general secretary, Heng Sher Chin (“Heng”) and Lea were at the Premises to await the arrival of the contractor’s workers. Chin appeared and told them that the tentage was too large and that, as a result, he could not park his car in its usual spot. Lea replied that there should not be any problem parking in his usual car park lot as he had just parked his car there without any difficulty. Chin said nothing in reply, and a casual conversation ensued. Lea was then informed by another committee member that the staging contractor would only arrive after 1.00 pm so he and Heng then left the Premises to have lunch.
+
+32     When Lea returned to the Premises after lunch, he saw that Chin's car, which had been parked in another location under the tentage, had been moved to the empty spot where the stage was to be set up. The supervisor of the staging contractor’s workers informed Lea that when their lorry arrived, someone had immediately moved the car to the stage area and left.
+
+33     Lea went inside the temple building and asked a worker to go upstairs to inform Chin to remove his car. Chin, however, shut himself up in a room on the upper floor of the Premises and refused to answer any calls to come out and move his car. It was only after Lea told Chin through the closed door that he would pry open the door that Chin responded, opened the door and followed Lea to his car with a bunch of keys. Tan suddenly appeared on the scene. There was a heated quarrel when Lea scolded Tan for obstructing the stage construction since Chin claimed that he was unaware of what had happened. Tan then assaulted Lea, pushing and kicking him. Lea immediately called the police.
+
+34     Under the watch of the police, Chin’s car was moved out of the space meant for the stage for the opera. The plaintiff’s contractor identified Tan as the person who had driven Chin's car into the space as soon as he had arrived earlier.
+
+35     The plaintiff instructed its solicitors to write to the defendant to place on record its wrongful acts, and to record the plaintiff's position that it should be allowed to carry out its activities under the 2011 Agreement without any provocation or wrongful actions by the defendant. The defendant had replied through its solicitors denying the plaintiff’s allegations and reserving its rights to respond and to make the necessary claims against the plaintiff. However, there was no further correspondence from the defendant or its solicitors thereafter.
+
+### The defendant’s actions in 2018[^21]
+
+36     On 6 January 2018, a management committee meeting of the Pulau Tekong Joint Temple was convened. Heng, a committee member of the Joint Temple, informed the meeting that the birthday celebration of Tuan Pek Kong in the year 2018 would be held on 31 January 2018 and I February 2018 (the "2018 Celebration"), and that the construction of the tentage would commence on or about 27 January 2018 followed by the construction of the stage on 29 January 2018. At the meeting, Chin announced unilaterally, among other things, that he would allow the plaintiff to carry on with the 2018 Celebration but that he would not allow any other activities organised by the Plaintiff. Lea reminded Chin of the 2011 Agreement which had settled all matters. However, Chin stated that the defendant would not abide by the 2011 Agreement and that he had received legal advice that the defendant need not abide by the Constitution of the Joint Temple.
+
+37     Contrary to what was represented at the 6 January 2018 meeting, Chin called Heng on his mobile phone the next day and said that he would not allow the 2018 Celebration and all related activities to take place on the Premises, and quickly disconnected the line. Heng immediately informed Lea about the abrupt phone call from Chin and stated that he expected trouble from Chin again.
+
+38     The plaintiff instructed its solicitors on 11 January 2018 to put the defendant on notice not to obstruct the 2018 Celebration.
+
+39     The defendant, through its solicitors, issued a reply on 17 January 2018 stating that the 2011 Agreement was unenforceable; and that no resolution had been passed during the Joint Temple’s management committee meeting of 6 January 2018 to approve the plaintiff’s intended celebration at the Premises.
+
+40     The plaintiff responded through its solicitors on 25 January 2018 to issue a further warning to the defendant not to interfere in the preparations for, and in the forthcoming 2018 Celebration. Further correspondence ensued between the solicitors with no assurance from the defendant that it would abide by the 2011 Agreement.
+
+41     On 27 January 2018, the plaintiff's contractor arrived at about 9.00am at the Premises to put up the tentage. However, Chin prevented the contractors from doing so. Chin called the police and showed them his solicitors’ letter purportedly to support his case that the plaintiff could not set up the tentage. Heng showed the police the 2011 Agreement, the Joint Temple’s minutes and Lea's letter, in his capacity as the General Secretary of the Pulau Tekong Joint Temple, confirming that the Premises belong to the Joint Temple and that its management committee had approved the event. As the documents appeared to support the plaintiff’s position, the police advised Chin not to interfere with the plaintiff's activities and left.
+
+42     As soon as the police left, Chin and Tan locked up the main gate of the Premises to hinder the contractor from bringing in further materials for the construction of the tentage. Chin also refused to allow the contractor to tap electricity power from the temple building such that the contractor was unable to complete the work of adding the lighting fixtures and fans to the tent.
+
+43     On 29 January 2018, Chin was reported to have moved his car into the area where the stage was going to be constructed. Despite the plaintiff's solicitors’ urgent letter to the defendant's solicitors to request that Chin’s car be removed by 12.30pm, there was no response. Chin did not move his car. The plaintiff filed the writ in this suit on 29 January 2018.
+
+44     On the same night, the plaintiff's contractor informed Lea that Chin had engaged contractors to dismantle the tentage which had already been constructed. The plaintif’s contractor, one Chua Hua Kheng, called the police. By the time Heng and Lea arrived at the Premises at about 10.00pm, the plaintiff’s tentage was almost completely dismantled. Chin and Tan were on site monitoring the tearing down of the plaintiff's tentage.
+
+45     On 30 January 2018, the plaintiff's contractor reconstructed the tentage that had been dismantled by the defendant’s contractor the previous night. However, it was dismantled yet again by the defendant's contractor later that same evening.
+
+46     On 31 January 2018, the first day of the 2018 Celebration, the plaintiff's contractor rebuilt the tentage yet again at about 9.30am. As a result, the 2018 Celebration commenced with prayers only at 10.30am which was later than in previous years. At about 11.30am, Chin approached Lea and told him that he had been advised that the defendant should not supply the plaintiff with electricity and water. The plaintiff then arranged for a generator to supply electricity for the lighting fixtures and fans inside the tentage. At around 2.30 pm, two police officers arrived and informed Heng and other members of the plaintiff who were present on the Premises that they had received a complaint of a generator dangerously placed outside the Premises. Chin who was present at the tentage informed the plaintiff’s members that he was the one who had summoned the police.
+
+47     Due to the repeated acts of disruption by the defendant, the plaintiff was forced to make alternative plans for the 2018 Celebration. The second day of the 2018 Celebration was abandoned. The dinner, traditionally held under the tentage pitched in the car park in the Premises, was instead held at a neighbouring venue in San Qing Gong temple. The opera performance, originally scheduled for both days of the 2018 Celebration, was abridged to a singing performance, and performed on only one day.
+
+### The defendant’s actions in 2019[^22]
+
+48     Ahead of the plaintiff’s 2019 annual birthday celebration of its deity scheduled on 20 January 2019, the defendant applied for an injunction in this suit to stop the plaintiff' from holding its celebration at the Premises, purportedly “to avoid any violence or tragedy which may result from the dispute between the parties”. The application was dismissed by the court on 11 January 2019.
+
+49     On the morning of 15 January 2019, the defendant closed the Premises, without any prior notice to the plaintiff, and placed a notice at the gate which stated that the closure would last from 16 January to 22 January 2019.
+
+50     As the gates were locked electronically, the plaintiff's members were unable to access the Premises. The plaintiff instructed its solicitors to write to the defendant’s solicitors to open the Premises by 12.00pm on Friday 18 January 2019. This was not acceded to. The defendant’s solicitors responded with a statement that there was no court order requiring the defendant to allow the plaintiff by informing to carry out its celebration on their client’s premises.
+
+51     The plaintiff was thus prevented from holding the birthday celebrations of its deity at the Premises altogether on 20 January 2019. Instead, the members held the celebrations at the Tekong Seafood Restaurant at 6 Changi Village Road, Singapore.
+
+## The plaintiff’s case
+
+52     In its statement of claim, as amended on 4 May 2018, the plaintiff pleaded the defendant’s acts of disruption of its annual Celebration in 2016, 2017 and in particular, the repeated acts of obstruction in 2018 by the dismantling of the tentage erected by the plaintiff’s contractor. It is the plaintiff’s case that the defendant had not only threatened but did proceed to obstruct the plaintiff’s 2018 Celebration in breach of the 2011 Agreement which had been re-affirmed by the Pulau Tekong Joint Temple’s management committee on 6 January 2018.
+
+53     By reason of the defendant’s actions in January 2018, the plaintiff claims to have suffered loss and damages particularised as follows:
+
+> (a)     the repeated reconstruction of the tentage, lighting fixtures, as well as the cost of damaged hanging fans and a generator quantified at a total of $7,560 based on the contractor’s two invoices;
+
+> (b)     payment of $1,350 to the Teochew opera troupe for the second day of performance , and loss of the Teochew opera performance on the first day quantified at $900; and
+
+> (c)     damages to be assessed for embarassment and loss of reputation for being unable to hold the 2018 Celebration on its own Premises.
+
+54     In addition to damages, the plaintiff prayed for:
+
+> (a)     an order that the defendant shall comply with the terms of the 2011 Agreement, in particular clauses 6(b), 10 and 11;
+
+> (b)     an order that the defendant shall not obstruct, or cause to be obstructed, in any manner whatsoever, the preparations for and the conduct of the annual birthday celebrations of its deity; and
+
+> (c)     costs on an indemnity basis.
+
+## The defendant’s case
+
+55     The defendant’s pleaded case was essentially a bare denial, and putting the plaintiff to strict proof of all the averments in the statement of claim
+
+56     In regard to the 2011 Agreement, it was pleaded that the Agreement had not been approved by the trustees or board members of the defendant. Neither had the defendant been authorised to represent the other three organisations named therein, _ie_ Tien Chow Foo Temple, Swee Fah Sirh Temple and Wan Fook Kong Temple, for the purpose of entering into the 2011 Agreement.
+
+57     It was further pleaded that due to the fact that the Pulau Tekong Joint Temple, which is not a registered charity unlike the defendant, did not have the funds to pay for the renewal of the lease of the Premises in or about September 2016, the 2011 Agreement was invalid and the parties had agreed that the 2011 Agreement is invalid.
+
+## Issues
+
+58     Based on the respective pleadings of the parties, the issues which the court has to decide are:
+
+> (a)     whether the defendant is bound by the 2011 Agreement which was signed on its behalf by its chairman, Chin, at the material time;
+
+> (b)     whether the parties had agreed in 2016 that the 2011 Agreement was invalid due to the fact that the Pulau Tekong Joint Temple had no funds to pay for the renewal of the lease of the Premises in September 2016;
+
+> (c)     if the 2011 Agreement is valid, and having regard to the acts of the defendant in breach thereof, whether the plaintiff is entitled to specfic performance of the terms of the Agreement; and
+
+> (d)     whether the plaintiff has suffered loss and damage on account of the acts of the defendant in breach of the 2011 Agreement, and if so, the quantum of such damages proven by the plaintiff.
+
+### Whether the defendant is bound by the 2011 Agreement
+
+59     The defendant’s case is that it is not bound by the 2011 Agreement notwithstanding that the Agreement had been signed by Chin as its chairman and witnessed by its solicitor, one Chai Moon Wei, then of Hoh Law Corporation. Chin, who had testified at the trial, affirmed in his affidavit of evidence-in-chief (“AEIC”) that the defendant’s trustees or board members were very displeased with him for not seeking their consent before signing the 2011 Agreement, and for not disclosing the same until the dispute arose between the parties.
+
+60     In an earlier affidavit which Chin had signed on 23 November 2018[^23] in support of the defendant’s application for an injunction, Chin had averred that he had made the “mistake” of signing the 2011 Agreement without the consent and approval of the defendant’s trustees or board members.
+
+61     The plaintiff relies on the doctrine of apparent or ostensible authority and submits that the defendant is estopped from claiming that Chin had acted in excess of his authority.
+
+#### The law on apparent (or ostensible) authority
+
+62     The law on apparent or ostensible authority is derived from the leading case of _Freeman & Lockyer v Buckhurst Park Properties (Mangal) Ltd_ <span class="citation">\[1964\] 2 QB 480</span>. A succinct statement of the doctrine of apparent or ostensible authority can be found in _Bowstead & Reynolds on Agency_, (Sweet & Maxwell, 19th Edition) at Article 72 which states thus:
+
+> Where a person, by words or conduct, represents or permits it to be represented that another person has authority to act on his behalf, he is bound by the acts of that other person with respect to anyone dealing with him as an agent on the faith of any such representation, to the same extent as if such other person had the authority that he was represented to have, even though he had no such actual authority.
+
+63     In _The Law of Agency, Second Edition_, (Academy Publishing, 2017) by Tan Cheng Han SC, at para 05.020 the learned author had explained the concept of the representation (or manifestation) as to the agent’s authority in the following terms:
+
+> A key element in establishing the existence of apparent authority is the existence of a representation or some other manifestation from the principal to the third party that the agent had authority to enter into the contract that the third party seeks to enforce against the principal. Such representation or manifestation broadly takes two forms. The first is more specific and includes an oral or written representation, a course of conduct, or allowing the agent to act in a certain manner. The second is somewhat more general and indirect, namely, putting the agent in a particular position that normally carries a certain authority.
+
+#### My findings
+
+64     From the evidence adduced, I agree with the plaintiff that the defendant is bound by the 2011 Agreement that was signed by Chin on behalf of the defendant by virtue of the doctrine of apparent or ostensible authority. The defendant is estopped from denying the validity of the contract as it had, by its course of conduct, represented that Chin had the necessary authority to enter into the 2011 Agreement.
+
+65     The following facts in regard to the conduct of the defendant are established from the unchallenged evidence of the plaintiff’s witnesses, in particular that of Lea Guan Chong and Ng Kim Joo, as well as from the evidence of Chin:
+
+> (a)     The negotiations for the issuance of the lease to the Premises had commenced in 2007 at the invitation of the defendant[^24].
+
+> (b)     The parties had thereafter entered into discussions that had lasted a few years for the formation of the joint entity comprising the plaintiff of the one part and the defendant, for itself and the other three temples, of the other part. Both parties were represented by their own set of solicitors – the plaintiff was represented by the firm of Hin, Rai & Tan while the defendant was represented by Hoh Law Corporation.
+
+> (c)     In the negotiations leading up to the 2011 Agreement and the formation of the Pulau Tekong Joint Temple, the plaintiff, through its solicitors’ letter dated 10 February 2011[^25], had proposed in significant detail, the terms of the parties’ agreement. These terms included the proportion and manner of holding of the legal interest in the Premises, the number of trustees to be appointed by each party, the use of the Premises by the plaintiff, the specific location in the temple building at which the plaintiff’s deity would be sited, payment of the annual contribution to the defendant, etc.
+
+> (d)     The terms of the plaintiff’s solicitors’ letter of 10 February 2011 were accepted in full by way of the defendant’s solicitors’ letter dated 15 February 2011[^26].
+
+> (e)     The acceptance of the terms of the plaintiff’s solicitors’ letter of 10 February 2011, by way of Hoh Law Corporation’s letter dated 15 February 2011, was done on the defendant’s behalf. It is noted that the contents of Hoh Law Corporation’s letter state expressly as follows:
+
+>> We refer to your letter dated 10 February 2011, upon which we have taken our client’s instructions.
+
+>> We are instructed that **_our clients are agreeable_** to all the points raised in your said letter.
+
+(emphasis in **_bold italics_** added)
+
+> (f)     The terms set out in the letter of 10 February 2011 from the plaintiff’s solicitors and accepted by the defendant were subsequently formalised in the 2011 Agreement.
+
+> (g)     The 2011 Agreement was signed by Chin in the presence of the defendant’s appointed solicitor.
+
+66     It bears emphasis that Chin had affirmed his affidavit of 23 November 2018 in his capacity as the defendant’s then executive chairman. In that capacity, he had referred to the letter from Hoh Law Corporation of 15 February 2011 as having being sent by the “defendant’s previous solicitors”. Hence, it was in the capacity as the defendant’s “previous solicitors” that Hoh Law Corporation had accepted the terms of Hin, Rai & Tan’s letter of 10 February 2011 in its totality.
+
+67     While Chin had claimed that it was never the intention of the defendant that “_such agreement would be permanent and forever binding_” on the defendant, it cannot be denied that the defendant was at all material times legally represented in the negotiation and subsequent execution of the 2011 Agreement. The 2011 Agreement and the letter of 10 February 2011 from the plaintiff’s solicitors, the terms of which had been accepted without any qualification whatsoever, had expressly provided for the plaintiff’s use of the Premises for the worship of its deity “permanently”.
+
+68     The defendant’s dealings through its solicitors in negotiating the terms of the 2011 Agreement and Chin’s signing of the Agreement before the solicitor in charge, amounts in my view to a manifestation or representation by conduct that Chin had the authority to enter into the Agreement. It is my finding that the defendant is bound by, and the plaintiff is clearly entitled to the benefit of, the 2011 Agreement.
+
+69     The formation of the Pulau Tekong Joint Temple, as well as the terms of the constitution of the Pulau Tekong Joint Temple including type of membership, the number of committee members from each party, the number of trustees from each party, was the result of the parties’ agreement first signified by the defendant’s acceptance of the terms of the letter of 10 February 2011 and subsequently encapsulated in the 2011 Agreement.
+
+70     The lease of the Premises issued in 2016 was executed by three trustees appointed by the defendant and two trustees appointed by the plaintiff. This was in exact conformity with the terms as agreed and accepted in the exchange of letters dated 10 February 2011 and 15 February 2011 between the parties’ appointed solicitors and reflected in clause 1 of the 2011 Agreement. The logical inference is that the defendant’s trustees knew or ought to have known of the terms of the 2011 Agreement and had acquiesced in them when they executed the lease in the presence of their solicitor.
+
+71     As to the defendant’s assertion that its trustees were unaware of the 2011 Agreement, no evidence was led by the defendant as to the identity of its trustees or board members from whom Chin had not sought consent before signing the Agreement. It was revealed at the trial that the two trustees named in the lease, Tang Tai Seng and Chin Gim Leong, are in fact Chin’s brother and son[^27]. Assuming that they were also trustees of the defendant in 2011, as admitted by Chin, since they are his family members, it is difficult to believe that they would not have been apprised of the terms of the 2011 Agreement.
+
+72     The evidence given by the defendant’s other witness, Tan Teck Han, who was recently appointed as the chairman was bereft of any detail. No evidence was adduced as to who the defendant’s trustees or board members or management committee were, or how the affairs of the defendant were conducted.
+
+### Whether the parties had agreed in 2016 that the 2011 Agreement was invalid
+
+73     Chin had in his AEIC alleged that he had agreed with the plaintiff’s Lea Guan Chong sometime in September 2016 that the Agreement was invalid. The Agreement was terminated and Lea had agreed to its termination as the plaintiff had no funds to pay for its share for the renewal of the lease[^28]. This alleged agreement, according to particulars furnished by the defendant, was made over the phone between Chin and Lea in or before September 2016.[^29]
+
+74     Chin’s allegation was vehemently denied by Lea during cross-examination[^30]. Chin’s bare assertion, without more, is clearly insufficient to prove the defendant’s case that the 2011 Agreement had been terminated or rendered invalid by the agreement of the parties.
+
+75     Given that Chin was, at all material times the chairman of the defendant as well as the Pulau Tekong Joint Temple, if indeed the plaintiff’s rights and entitlement to the Premises had been terminated by agreement between the parties, there would surely have been some record of this important agreement in the minutes of meetings of either of these two registered societies. No documentary evidence whatsoever has been produced to the court in this regard. The logical conclusion is that there was no such agreement made between Chin and Lea, and this allegation has to be a mere fabrication by Chin in an attempt by the defendant to get out of what it now regards to be a bad bargain.
+
+76     According to Chin’s AEIC, the defendant had paid $600,000 on its own to renew the lease of the Premise with HDB in or about September 2016. If the 2011 Agreement had been terminated in or before September 2016 as alleged, it begs the question why the defendant’s three trustees had proceeded to sign the HDB lease and had allowed the plaintiff’s two appointed trustees to do the same and to hold the leasehold estate for 30 years as joint tenants for the Pulau Tekong Joint Temple as the beneficicary.
+
+77     If indeed the plaintiff’s rights and entitlement to the Premises had been terminated by agreement between the parties, there would have been no reason for the defendant to have proceeded with the issuance of the lease to the Pulau Tekong Joint Temple. In this regard, it bears emphasising that the parties, in particular the defendant, was legally represented in all matters pertaining to the issuance of the lease.
+
+78     The defendant’s unhappiness with the plaintiff’s use of the Premises appears to stem from the fact that the plaintiff’s monetary contribution is a maximum of $1,000 to the Pulau Tekong Joint Temple’s funds whereas the defendant has paid $600,000 of their monies to HDB. Regardless of the unequal amounts, the plaintiff had supplied consideration for the 2011 Agreement to render it as a valid and binding contract. Further, if there were such an agreement made in or before September 2016 to terminate the 2011 Agreement as Chin alleges, it does not appear to me to be supported by any consideration.
+
+79     Accordingly, I find that the defendant has failed to prove any agreement between the parties in 2016 to terminate the 2011 Agreement or to agree that the 2011 Agreement was rendered invalid.
+
+### Whether the plaintiff should be granted an order of specific performance of the terms of the 2011 Agreement
+
+80     The defendant has submitted that even if the court were to find that the 2011 Agreement is valid, no specific performance or a mandatory injunction ought to be granted as damages would be an adequate remedy for its breaches. This is because the only requirement by the plaintiff is for the Celebration to be held at the place where the plaintiff’s deity is located. As the deity is symbolised by an urn which could be easily moved, the Celebration could be moved elsewhere instead of being held on the Premises.
+
+81     The defendant’s submission that the plaintiff’s deity could be easily relocated was premised on the following extracts from the evidence of two of the plaintiff’s witnesses:
+
+> (a)     From the cross-examination of Heng Sher Chin (PW2)[^31]:
+
+>> Q    Okay. Do you agree that the temple urns which purportedly symbolised Tuan Pek Gong, your deity, can be moved to another suitable temple premises?
+
+>> A    Yes.
+
+> (b)     From the cross-examination of Goh Kim Chuan (PW5)[^32]:
+
+>> Q    Okay. Mr. Goh, how did the Plaintiff move its deity, Tuan Pek Kong into the building at 51 Bedok North Avenue 4, Singapore?
+
+>> A    According to what I can---I can remember, when we have---when it was first resettled, the---the deity was moved to a factory in Kaki Bukit. In the ’90s, then only it was moved to the temple, but it was not completed yet, it was placed in a temporary premises.
+
+>> Q    So, Mr. Goh, can your deity be moved elsewhere as well?
+
+>> A    I’m not sure about that because I’m a principal in---in a school…
+
+82     The plaintiff submitted that it was just and equitable for specific performance to be ordered as the arrangements under the 2011 Agreement were not new to either party and had been practised by the parties without any issue since 1992.
+
+83     As to the concern raised by the defendant that the plaintiff’s members, unlike the defendant, are not vegetarians, it was submitted that the parties had co-existed on the Premises for the past 26 years. The plaintiff would abide by the condition that it would not use the inside of the temple building to make offerings of a non-vegetarian nature to its deity. It would also adopt the conditions that had been discussed by the parties at the management committee meeting of the Pulau Tekong Joint Temple on 6 January 2018. These conditions related _inter alia_ to the setting up of the tentage, the reservation of car park lots for use by the defendant, a donation of a sum of money to the defendant to subsidise the utility fees, and the cleaning up of the kitchen and the Premises after the celebration.
+
+#### Damages not an adequate remedy for the plaintiff
+
+84     The evidence of the defendant’s acts of obstruction and disruption of the annual birthday celebration of its deity as outlined in \[25\] to \[47\] above was not challenged by the defendant. Such deliberate acts on the part of the defendant in January 2018 in particular – repeated dismantling of the tentage set up by the plaintiff’s contractor, and closing the gate to refuse entry to the Premises – effectively prevented the plaintiff from conducting and carrying out its religious activities and celebration as it was entitled to do under clauses 6, 9 and 10 of the 2011 Agreement.
+
+85     It is not disputed that a monument of the plaintiff’s deity as well as the temple urns have been located within the temple building at the Premises since 1992. It is also not disputed that the plaintiff’s members and devotees have conducted their worship of its deity at the Premises, and held the annual Celebration of the deity there since the 1990s. The birthday celebration of the plaintiff’s deity is also the most important event on its calendar.
+
+86     As a component member of the Pulau Tekong Joint Temple with two trustees representing the plaintiff holding the lease on trust for the Joint Temple and holding 20% of the rights and entitlement to the temple land and premises under the 2011 Agreement, the plaintiff is well within its rights to insist that the terms of the Agreement be complied with and that it continues to use the Premises until the expiry of the lease. It is undisputed that the Premises were granted by HDB to the single entity comprising the temples relocated from Pulau Tekong in the resettlement progarmme which is now represented by the Pulau Tekong Joint Temple.
+
+87     Damages would not be adequate compensation as the plaintiff is prevented from performing its religious acts of worhip at the location where its deity has been ensconced since 1992. Further, the defendant’s submission suggesting that the symbols of the plaintiff’s deity could be easily moved to another location was, in my view, a mischaracterisation of the plaintiff’s beliefs and practices. The symbolism aspect of the urn in Taoist practices had been explained by Lea Guan Chong during cross-examination[^33].
+
+88     From the evidence given by the plaintiff’s various committee members of their religious practices and worship of its deity since their childhood days in Pulau Tekong, the subsequent resettlement of its temple onto mainland Singapore and the annual Celebration that had been conducted at the Premises from 1992, I agree that damages would not be an adequate remedy for the defendant’s breaches of the 2011 Agreement.
+
+89     The plaintiff is entitled to continue worshipping its deity and holding the Celebration and other religious activities on the Premises in accordance with the terms of the 2011 Agreement. An order of specific performance would be the just and equitable remedy in the circumstances of this case subject to the terms being appropriately worded.
+
+### Whether the plaintiff has suffered loss and damage on account of the acts of the defendant in breach of the 2011 Agreement
+
+90     In its statement of claim, the plaintiff had claimed $9,810 comprising the following sums as loss and damages:
+
+>   
+| 
+
+a.
+
+ | 
+
+the repeated reconstruction of the tentage, lighting fixtures, as well as the cost of damaged hanging fans and a generator –
+
+i Invoice No. 5011 dated 31 January 2018 from Chua Chin Lee Chairs & Tables
+
+ii. Invoice No. 5023 from Chua Chin Lee Chairs & Tables
+
+ | 
+
+$4,440.00
+
+$3,120.00
+
+ |
+| 
+
+b.
+
+ | 
+
+Payment to the Teochew Opera Troupe for the second day as per the original engagement of two days
+
+ | 
+
+$1,350.00
+
+ |
+| 
+
+c.
+
+ | 
+
+Loss of Teochew Opera performance on the first day
+
+ | 
+
+$ 900.00
+
+ |
+| 
+
+ | 
+
+Total
+
+ | 
+
+$9,810.00
+
+ |
+
+  
+  
+
+91     The defendant’s acts of disruption in 2018 in dismantling the tentage erected by the plaintiff’s contractor twice had caused the plaintiff to incur wasted cost. The two invoices claimed by its contractor, Chua Chin Lee Chairs & Tables, were exhibited in the AEIC of Chua Hua Kheng (PW8). Both invoices have been paid by the plaintiff. Given the shortness of time that the contractor had to re-construct the tentage after the defendant had dismantled them, I did not regard the sums claimed in Invoice No. 5011 to be unreasonable. As for the damaged fans, the sum of $440 for a total of four fans would be allowed as well as there is no basis to disbelieve the witness who had been engaged as the plaintiff’s contractor for more than 20 years. In respect of Invoice No. 5023 for the sum of $3,120, this was objected to by counsel for the defendant as it is written in Chinese with no official translation furnished to the court. The objection is upheld as it is a breach of O 92 r 1 of the Rules of Court. The document without a proper translation cannot be received in evidence. In the circumstances, I find that the plaintiff has only proven its claim for the sum of $4,440 in Invoice No. 5011.
+
+92     With regard to the payment made for the Teochew opera troupe and the loss of one performance, no documentary evidence was adduced to support the claim. This claim is accordingly not proven and disallowed.
+
+93     The plaintiff had also claimed damages for embarrassment and loss of reputation as it had to explain, presumably to its guests, members and devotees the reasons for not holding the 2018 Celebration at the Premises. However, no submission been made by the plaintiff as to how such damages, if at all, could be awarded or assessed. The claim for this head of damages is dismissed as such a non-pecuniary loss is not compensable.
+
+## Conclusion and orders
+
+94     In summary, I find as follows:
+
+> (a)     The defendant is bound by the terms of the 2011 Agreement that was signed by its then chairman, Chin Tiam Soy, on its behalf.
+
+> (b)     There was no agreement made between the parties in 2016 to render the 2011 Agreement invalid or to terminate the 2011 Agreement.
+
+> (c)     The defendant had breached the 2011 Agreement by its various acts of obstruction and disruption of the plaintiff’s Celebration in 2018.
+
+> (d)     The breaches committed by the defendant had caused loss to the plaintiff for which the damages that have been proven amount to $4,440.
+
+> (e)     As damages would not be an adequate remedy, the plaintiff is entitled to specific performance of the terms of the Agreement.
+
+95     Having regard to the findings made by the court, the terms of the 2011 Agreement and the reliefs prayed for in the statement of claim, the plaintiff is granted judgment as follows:
+
+> (a)     An order that the defendant shall not obstruct, or cause to be obstructed, in any manner whatsoever, the preparations for and the conduct of, the plaintiff’s religious activities in respect of its deity including the Celebration in accordance with clauses 6(b) and 10 of the 2011 Agreement.
+
+> (b)     Damages in the sum of $4,440.
+
+> (c)     Interest on the damages awarded at the usual rate from the date of its Statement of Claim (Amendment No. 1) to the date of this Judgment; and
+
+> (d)     Costs.
+
+96     I shall hear parties on costs on a date to be fixed.
+
+* * *
+
+[^1]: Statement of Claim (Amendment No. 1) para 1 at Plaintiff’s Set-down Bundle (“BP”) at page 13 (“BP-13”)
+
+[^2]: Para 5 of Lea Guan Chong’s affidavit of evidence-in-chief (“AEIC”) in Plaintiff’s Bundle of Affidavits (“PBA”) at PBA p 84
+
+[^3]: Paras 12-13 of Ng Kim Joo’s AEIC at PBA p 3; paras 8-9 of Heng Sher Chin’s AEIC at PBA p 32
+
+[^4]: Para 14 of Ng Kim Joo’s AEIC at PBA pp 4-5; para 10 of Heng Sher Chin’s AEIC at PBA p 32
+
+[^5]: Paras 14-16 of Lea Guan Chong’s AEIC at PBA pp 87-88
+
+[^6]: Paras 20-21 of Lea Guan Chong’s AEIC at PBA pp 89-90
+
+[^7]: Paras 19, 22 of Lea Guan Chong’s AEIC at PBA pp 89-90
+
+[^8]: Paras 23, 25 of Lea Guan Chong’s AEIC at PBA p 91
+
+[^9]: Para 16 of Lea Guan Chong’s AEIC at PBA 88, and photograph of donation board at Agreed Bundle of Documents (“ABD”) at page 243 (“ABD-243”)
+
+[^10]: Para 17 of Lea Guan Chong’s AEIC at PBA 88
+
+[^11]: Para 24 of Lea Guan Chong’s AEIC at PBA p 91
+
+[^12]: ABD-54,55; Paras 31-32 of Lea Guan Chong’s AEIC at PBA pp 93-96
+
+[^13]: Para 19 of Ng Kim Joo’s AEIC at PBA-6 and exhibit at PBA-29
+
+[^14]: ABD-144
+
+[^15]: ABD p 63
+
+[^16]: ABD pp 76, 78
+
+[^17]: ABD pp 151 to 161
+
+[^18]: Paras 38 to 46 of Lea Guan Chong’s AEIC at PBA pp 97-100
+
+[^19]: Lea Guan Chong served as the plaintiff’s treasurer from 2012 to 2016, and vice-chairman from July 2016 to-date.
+
+[^20]: Paras 51 to 74 of Lea Guan Chong’s AEIC at PBA pp 101-106
+
+[^21]: Paras 80 to 104 of Lea Guan Chong’s AEIC at PBA pp 107-114
+
+[^22]: Paras 56 to 60 of Heng Sher Chin’s AEIC at PBA pp 44-46; paras 110 to 113 of Lea Guan Chong’s AEIC at PBA 116-117
+
+[^23]: Para 3c of affidavit marked as “P2”
+
+[^24]: Paras 19–20 of Ng Kim Joo’s AEIC at PBA pp 6–7
+
+[^25]: ABD pp 19–20
+
+[^26]: ABD p 22
+
+[^27]: Transcript of 13 February 2020 at pages 64, 65
+
+[^28]: Para 8 of Chin Tiam Soy’s AEIC at DBA-4
+
+[^29]: BP-34
+
+[^30]: Transcript of 25 November 2019 at page 56 lines 6-10
+
+[^31]: Transcript of 25 November 2019 page 68 lines 27 to 30
+
+[^32]: Transcript of 13 February 2020 page 20 lines 2 to 6
+
+[^33]: Transcript of 25 November 2019 at page 36 lines 14 to 21
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F24893-SSP.xml)
