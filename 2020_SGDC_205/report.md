@@ -1,0 +1,443 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Amanshah Bin Omar  
+
+### \[2020\] SGDC 205
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">District Arrest Case No No 912157 of 2020 and others, Magistrate's Appeal No 9790 of 2020</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">04 September 2020</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Salina Bte Ishak</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Cheng Yuxi (Attorney-General's Chambers) for the Public Prosecutor; Accused in person.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Amanshah Bin Omar</td></tr></tbody></table>
+
+Criminal Law – Offences – Theft in dwelling – Statutory Offences – Misuse of Drugs Act – Prisons Act – Sentencing
+
+\[LawNet Editorial Note: An appeal to this decision has been filed in MA 9790/2020/01.\]
+
+4 September 2020
+
+### District Judge Salina Bte Ishak:
+
+## Introduction
+
+1       Ex-offenders in Singapore are generally released from prison at the two-thirds mark of their sentences subject to certain conditions under the Conditional Remission System (“CRS”). S 50H of the Prisons Act (Cap 247, 2000 Rev Ed) provides that a prisoner shall upon his admission to prison be entitled to have his sentence remitted in accordance with and subject to the provisions of the Act. The objective of the CRS is to deter ex-offenders from re-offending by subjecting them to conditions upon their early release and reintegration into the community. The accused in the present case, Mr Amanshah Bin Omar, a 41 year-old Singapore citizen was one such ex-offender.
+
+#### Remission order
+
+2       On 6 December 2019, pursuant to s 50I of the Prisons Act (Cap 247, 2000 Rev Ed), after the accused had served the required portion of his sentence imposed on 22 September 2015, the Commissioner of Prisons had ordered that the remaining portion of his sentence to be suspended from 6 December 2019 to 20 May 2022. While he was on the remission order, he was expected to comply with the basic condition in accordance to s 50S of the Prisons Act. Concurrently, he was further subjected to the mandatory aftercare conditions in accordance to ss 50U and 50V(3) of the Prisons Act from 6 December 2019 to 5 December 2021 as well as other conditions set out in the said order.
+
+#### Consequences of a breach of the remission order
+
+3       In particular, any breach of the basic condition which results in a conviction for an offence where he is sentenced to imprisonment, corrective training, reformative training or preventive detention renders him liable to an enhanced sentence which should not exceed the remaining duration of his remission order at the date the offence was committed, in addition to any punishment given for such an offence.
+
+4       A serious breach of a mandatory aftercare condition renders him liable to an imprisonment term which should not exceed the remaining duration of his remission order at the date the offence was committed, or for any term or for life if the duration of the remission order is for life. These conditions were made known to him on 6 December 2019 prior to his early release and he had acknowledged that the contents of the order had been fully explained to him in English and was fully understood by him.
+
+#### Breaches of conditions of the remission order
+
+5       On 11 January 2020, despite being aware of the various conditions of the remission order, the accused breached the basic condition of this order when he reoffended by committing a property offence. Subsequently, on 18 February 2020 and 28 February 2020, the accused further breached both the mandatory aftercare condition as well as the basic condition of his remission order when he committed drug-related offences. As a consequences of these breaches of the conditions of the remission order, seven charges were preferred against him.
+
+## The Charges
+
+6       The accused was first charged in court on 29 February 2020. On 13 August 2020, he elected to plead guilty to the following four proceeded charges:
+
+> (a)    1st Charge – MAC 902152-2020
+
+> are charged that you, on 18 Feb 2020, in Singapore, while being subjected to a remission order from 6 Dec 2019 to 20 May 2022 (both dates inclusive), made by the Commissioner of Prisons under Division 2 of Part VB of the Prisons Act (Cap. 247, 2000 Rev. Ed.), which remission order is subject to mandatory aftercare conditions under section 50V(3) of the said Act, did commit a serious breach of a mandatory aftercare condition of your remission order under regulation 151H(1)(a) of the Prisons Regulations (Cap. 247, Rg. 2), to wit, by failing to remain indoors at your place of residence at such time as specified in your remission order in accordance with section 50V(3)(c) of the said Act, for a cumulative period of 24 hours, and you have thereby committed an offence punishable under section 50Y(1)(a) of the said Act.
+
+> You shall therefore be liable to be punished with a sentence of imprisonment not exceeding the remaining duration of the remission order of 823 days from 18 Feb 2020 to 20 May 2022 for that offence.
+
+> (b)    2nd Charge – DAC 912157 - 2020
+
+> are charged that you, on 11 January 2020, at about 12pm, at Blk 37 Greenwich Drive, Singapore, a place used for the custody of property, did commit theft of the following:
+
+>> a)    Two sets of “MIPP” socks of unknown value
+
+> which was in the possession of your company, 3G Logistics Pte Ltd, and you have thereby comitted an offence punishable under Section 380 of the Penal Code (Cap 224, 2008 Rev Ed).
+
+> And further, that you, from 6 December 2019 to 20 May 2022, were subject to a remission order made by the Commissioner of Prisons under Division 2 or 3 of Part VB of the Prisons Act (Cap. 247, Rev. Ed. 2014) which remission order is subject to the basic condition under section 50S(1) of the Prisons Act and while the remission order is in effect you, on 11 January 2020, committed the aforesaid offence and upon conviction and the imposition of a sentence reflected under section 50S(1)(b) of the Prisons Act, shall be deemed to have breached the basic condition of your remission order, and you are thereby liable to be punished under section 50T(1)(a) of the Prisons Act with an enhanced sentence of imprisonment for a term not exceeding the remaining duration of the remission order of 861 Days from 11 January 2020 to 20 May 2022 for that offence.
+
+> (c)    3rd Charge – DAC 912234-2020
+
+> are charged that you, on or before 28 February 2020, in Singapore, did consume a specified drug listed in the Fourth Schedule to the Misuse of Drugs Act (Cap 185, 2008 Rev Ed), _to wit_, Morphine, without authorisation under the Misuse of Drugs Act (Cap 185, 2008 Rev Ed) or the Regulations made thereunder, and you have thereby committed an offence under Section 8(b)(ii) of the said Act,
+
+> and further, that you, before the commission of the said offence, were on 11 July 2008 in Court 10 of the District Court, vide DAC27007/2008, convicted of an offence for consumption of a specified drug, to wit, Nimetazepam, under Sec 8(b)(ii) of the Misuse of Drugs Act (Chapter 185, 2008 Rev. Ed) and punished under sec 33A(1) of the said Act with 5 years’ imprisonment and 3 strokes of the cane, which conviction and punishment have not been set aside to date, and you shall now be punished under s 33A(2) of the Misuse of Drugs Act (Cap 185, 2008 Rev Ed).
+
+> And further, that you, from 06 December 2019 to 20 May 2022, were subject to a remission order made by the Commissioner of Prisons under Division 2 or 3 of Part VB of the Prisons Act (Cap. 247, Rev. Ed. 2014) which remission order is subject to the basic condition under section 50S(1) of the Prisons Act and while the remission order is in effect you, on 28 February 2020, committed the aforesaid offence and upon conviction and the imposition of a sentence reflected under section 50S(1)(b) of the Prisons Act, shall be deemed to have breached the basic condition of your remission order, and you are thereby liable to be punished under section 50T(1)(a) of the Prisons Act with an enhanced sentence of imprisonment for a term not exceeding the remaining duration of the remission order of 813 Days from 28 February 2020 to 20 May 2022 for that offence.
+
+> (d)    5th Charge – DAC 912236-2020
+
+> are charged that you, on 28 February 2020 at or about 09:25pm, at 30 Bedok North Road Bedok Police Divisional Headquarters did have in your possession a Class A controlled drug listed in the First Schedule of the Misuse of Drugs Act (Cap 185, 2008 Rev Ed), _to wit_, one straw containing not less than 0.43 grams of granular/powdery substance which was analysed and found to contain not less than 0.01 gram of diamorphine, without any authorisation under the said Act or the Regulations made thereunder and you have thereby committed an offence under Section 8(a) of the Misuse of Drugs Act (Cap 185, 2008 Rev.Ed)
+
+> that you, before the commission of the said offence, were on 22 September 2015 in Court 12 of the District Court, vide DAC0900978/2015, convicted of an offence for consumption of a specified drug, to wit, Diamorphine, under Sec 8(a) of the Misuse of Drugs Act (Cap 185, 2008 Rev. Ed) and punished under sec 33(1) of the said Act with 12 months imprisonment, which conviction and punishment have not been set aside to date, and you shall now be punished under s 33(1) of the Misuse of Drugs Act (Cap 185, 2008 Rev Ed)
+
+> And further, that you, from 06 December 2019 to 20 May 2022, were subject to a remission order made by the Commissioner of Prisons under Division 2 or 3 of Part VB of the Prisons Act (Cap. 247, Rev. Ed. 2014) which remission order is subject to the basic condition under section 50S(1) of the Prisons Act and while the remission order is in effect you, on 28 February 2020, committed the aforesaid offence and upon conviction and the imposition of a sentence reflected under section 50S(1)(b) of the Prisons Act, shall be deemed to have breached the basic condition of your remission order, and you are thereby liable to be punished under section 50T(1)(a) of the Prisons Act with an enhanced sentence of imprisonment for a term not exceeding the remaining duration of the remission order of 813 Days from 28 February 2020 to 20 May 2022 for that offence.
+
+7       The accused also consented to have following three remaining charges namely:
+
+> (a)     one charge under s 8(b)(ii) punishable s 33A(2) of the Misuse of Drugs Act (Cap 185, Rev Ed 2008)(“MDA”) and further punishable under s 50T(1)(a) of the Prisons Act (Cap 247, Rev Ed 2000);
+
+> (b)     one charge under s 8(a) punishable under s 33(1) MDA and further punishable s 50T(1)(a) of the Prisons Act;
+
+> (c)     one charge under s 9 punishable under s 33(1) MDA and further punishable s 50T(1)(a) of the Prisons Act.
+
+8       As the accused had admitted to the Statement of Facts without any qualification and in view of his previous related antecedents, I had sentenced him as follows:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="7.78%"> <col width="24.26%"> <col width="27.64%"> <col width="21.12%"> <col width="19.2%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>S/N</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Charge No.</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Offence</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Sentence</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Consecutive</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">1</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC-912157-2020</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">s 380 Penal Code (Cap 224, Rev Ed 2008) p/u s 50T(1)(a) Prisons Act (Cap 247, Rev Ed 2000)</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Enhanced sentence of two hundred and fifty-four days' imprisonment</p><p align="justify" class="Table-Para-1">One month's imprisonment</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Concurrent</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">2</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC-912234-2020</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">s 8(b)(ii) Misuse of Drugs Act (Cap 185, Rev Ed 2008) p/u Section 33A(2) Misuse of Drugs Act (Cap 185, Rev Ed 2008) p/u s 50T(1)(a) Prisons Act (Cap 247, Rev Ed 2000)</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Enhanced sentence of three hundred and sixty-eight days' imprisonment</p><p align="justify" class="Table-Para-1">Seven years' and six months' imprisonment and six strokes of the cane.</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Consecutive</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">3</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC-912236-2020</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">s 8(a) Misuse of Drugs Act (Cap 185, Rev Ed 2008) p/u s 33(1) Misuse of Drugs Act (Cap 185, Rev Ed 2008) p/u s 50T(1)(a) Prisons Act (Cap 247, Rev Ed 2000)</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Enhanced sentence of two hundred and thirty-nine days' imprisonment</p><p align="justify" class="Table-Para-1">Two years' imprisonment</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Concurrent</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">4</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">MAC-902152-2020</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">s 50V(3)(c) Prisons Act (Cap 247, Rev Ed 2000) p/u s 50Y(1)(a) Prisons Act (Cap 247, Rev Ed 2000)</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Two hundred and seventy-five days' imprisonment</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Consecutive</p></td></tr></tbody></table>
+
+  
+  
+
+9       Pursuant to s 307(1) of the Criminal Procedure Code (Cap 68, Rev Ed 2012), I ordered the sentences for two charges, namely DAC-912234-2020 and MAC-902152-2020 to run consecutively. The sentences for the remaining two charges namely DAC-912157-2020 and DAC-912236-2020 were ordered to run concurrently. His global sentence was an enhanced sentence of eight hundred sixty-one days’ imprisonment in addition to seven years’ six months’ two hundred seventy-five days’ imprisonment as well as six strokes of the cane. I further ordered that his sentence was to commence from 29 February 2020, the date he was first produced in court for the present charges.
+
+10     On 24 August 2020, he filed a notice of appeal against his sentences. The accused is presently serving his sentence and his earliest date of release is on 11 April 2028.
+
+11     Having set out the background for the present case, I now provide the reasons for my decision.
+
+## Statement of Facts
+
+12     The accused had admitted the following facts:
+
+> 1.    The accused is Amanshah Bin Omar, a 41-year-old male Singaporean (Date of Birth: 12 August 1979).
+
+> Facts relating to the 1st charge (MAC-902152-2020) – serious breach of mandatory aftercare conditions
+
+> 2.    At the time of this offence, the accused was residing at Selarang Halfway House (“SHWH”) located at 1825 Upper Changi Road North, Singapore 506780.
+
+> 3.    The complainant is Goh Kim Pok. He is the Operations Manager of SHWH. He manages supervisees who are emplaced on the Mandatory Aftercare Scheme (“MAS”) and residing in SHWH.
+
+> _Emplacement on the MAS and the relevant conditions_
+
+> 4.    The accused was released from prison on 6 December 2019 after serving sentences for theft-in-dwelling and drug consumption offences. He was subjected to a remission order under s 50I of the Prisons Act (Cap 247, 2000 Rev Ed) (“PA”) from 6 December 2019 to 20 May 2022 (both dates inclusive) (“Remission Order”), made by the Commissioner of Prisons under Division 2 of Part VB of the PA. In addition, he was concurrently placed on the MAS from 6 December 2019 to 5 December 2021 (both dates inclusive) and subjected to mandatory aftercare conditions under s 50V(3) of the PA.
+
+> 5.    The mandatory aftercare conditions which were set out in the Remission Order and which the accused was required to comply with included, inter alia, the following:
+
+>> A.1    You must, unless admitted to hospital, reside in a halfway house at 1825 Upper Changi Road North, Singapore 506780, for the period as required by the Commissioner of Prisons.
+
+>> B.1    You must remain indoors between 2200 hours and 0600 hours every day of the week at the said halfway house or specified place or your place of residence the day of the week and timing of which may be adjusted from time to time by your supervision officer(s) or by the Manager of the halfway house as the case may be.
+
+> 6.    The Remission Order also specified that a failure to remain indoors, when required to do so under the Remission Order or at the time and day specified by supervision officer(s) or Manager of the halfway house for a cumulative period of 24 hours would constitute a serious breach of a mandatory aftercare condition.
+
+> 7.    The accused had signed on the Remission Order on 6 December 2019, acknowledging that the contents of the said Remission Order had been fully explained to and understood by him.
+
+> _Serious breach of Mandatory Aftercare Condition_
+
+> 8.    On 19 February 2020 at about 11.56 a.m., the complainant lodged a Police report vide G/20200219/7022 stating that the accused had committed a serious breach of a mandatory aftercare condition by failing to remain indoors at SHWH for a cumulative period of more than 24 hours.
+
+> 9.    On 16 February 2020, the accused failed to return to SHWH by 10.00pm after his one-off home leave expired. The following table shows are the correspondence and attempts made by duty staff of SHWH to locate the accused:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="29.36%"> <col width="70.64%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Date and Time</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Occurrences</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">17 February</p><p align="justify" class="Table-Para-1">2020 at 12.50am</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Duty staff of SHWH called the accused’s mobile phone to inform the accused of his time off had expired but he did not answer the call. Text messages were sent to the accused via SMS and WhatsApp informing the accused to update his location and return to SHWH immediately as his time off had expired.</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">7 February 2020 at 6.04am</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Duty staff of SHWH called the accused’s mobile phone to inform the accused of his time-off had expired but he did not answer the call. Text messages were sent to the accused via SMS and WhatsApp informing the accused to update his location and return to SHWH immediately as his time off had expired.</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">17 February 2020 at 9.25am</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Duty staff of SHWH called the accused’s mobile phone to inform the accused of his time-off had expired but he failed to answer the calls. Text messageswere sent to the accused via SMS and WhatsApp informing the accused to update his location and return to SHWH immediately.</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">17 February 2020 at 5.13pm</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Duty staff of SHWH called the accused’s mobile phone but the accused failed to answer the call. Time off rescindment messages were sent to the accused via SMS and WhatsApp informing the accused that he would not have any more approved time-off from 11.59pm on 17 February 2020 and he was to return to SHWH immediately.</p></td></tr></tbody></table>
+
+  
+  
+
+> 10.    As the accused has failed to remain indoors during the stipulated timing and had wilfully remained out of his place of residence for a cumulative period of 24 hours, a report was therefore lodged by the complainant against the accused on 19 February 2020 (as stated in paragraph 8) and a Police Gazette was also issued for his arrest.
+
+> 11.    On 28 February 2020 at 9.25 p.m., the accused was arrested by Police at Bedok Police Divisional Headquarters, vide the Police Gazette, when he surrendered himself for drug related offences (see below).
+
+> 12.    In sum, the accused had breach curfew by a total of 279 hours and 25 minutes. The breakdown is as follows:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="33.16%"> <col width="42.34%"> <col width="24.5%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Details of Time Off</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Curfew Breach Duration</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Remarks</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">16 February 2020</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>2hrs</b></p><p align="justify" class="Table-Para-1">10.00pm to 12.00am</p><p align="justify" class="Table-Para-1">(Note: one-off home leave</p><p align="justify" class="Table-Para-1">expired at 10.00pm)</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">&nbsp;</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">17 February 2020</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>16hrs</b></p><p align="justify" class="Table-Para-1">12.00am to 4.00pm</p><p align="justify" class="Table-Para-1">(Note: 4.00pm to 12.00am is excluded as the accused was granted 8hrs pre-Approved Time Off)</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Time Off rescindment messages were sent to the accused at 5.13pm.</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">18 February 2020 to 27 February 2020</p><p align="justify" class="Table-Para-1">No Approved Time Off</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>240hrs</b></p><p align="justify" class="Table-Para-1">12.00am to 12.00am</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Failure to remain indoors at his place of residence for a cumulative period of 24 hours was reached on 18 February 2020</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">28 February 2020</p><p align="justify" class="Table-Para-1">No Approved Time Off</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>21hrs 25mins</b></p><p align="justify" class="Table-Para-1">12.00am to 9.25pm</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">The accused was arrested at 9.25pm</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Total hours breached</p></td><td align="left" class="" colspan="2" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>279hrs 25mins</b></p></td></tr></tbody></table>
+
+  
+  
+
+> 13.    By virtue of the foregoing, the accused has committed a serious breach of a mandatory aftercare condition of his remission order under Regulation 151H(1)(a) of the Prisons Regulations (Cap 247, Rg 2, 2002 Rev Ed), by failing to remain indoors at his place of residence for a cumulative period of 24 hours in accordance with section 50V(3)(c) of the PA, and the accused has thereby committed an offence punishable under section 50Y(1)(a) of the PA.
+
+> 14.    The accused is thereby liable to be punished with a sentence of imprisonment not exceeding the remaining duration of his remission order of 823 days from 18 February 2020 to 20 May 2022, pursuant to section 50Y(1)(a) of the PA.
+
+> Facts relating to the 2nd charge (DAC-912157-2020) – theft in dwelling
+
+> 15.    On 11 January 2020 at about 6.17 p.m., the police received a phone call on its 999 hotline reporting “Detained three non violent males for theft”. One of the males referred to is the accused.
+
+> 16.    At the time of this offence, the accused was working as a warehouse assistant at 3G Logistics Pte Ltd, deployed at Greenwich SingPost Logistics Hub at Blk 37 Greenwich Drive, Singapore. The accused’s job scope was to sort the packages and parcels received, and place them into a conveyor belt.
+
+> 17.    Earlier that day, at about 12 p.m., while the accused was at work, he carried a parcel off the conveyor belt. He then placed the parcel below a machine, and squatted front of the parcel. He then opened the parcel, dishonestly took two sets of MIPP socks of unknown value from the parcel and placed them into his bag, without the consent of the company. He was subsequently confronted by the security supervisor as he left work for the day. The items were found in his bag and recovered.
+
+> 18.    By virtue of the foregoing, the accused has committed one count of an offence of theft in dwelling under s 380 of the Penal Code.
+
+> 19.    Further, the accused, from 6 December 2019 to 20 May 2022, was subjected to a remission order made by the Commissioner of Prisons under Division 2 or 3 of Part VB of the PA, which remission order is subject to the basic condition under section 50S(1) of the PA, and while the remission order is in effect the accused, on 11 January 2020, committed the aforesaid offence and upon conviction and the imposition of a sentence reflected under section 50S(1)(b) of the Prisons Act, shall be deemed to have breached the basic condition of his remission order, and he is thereby liable to be punished under section 50T(1)(a) of the PA with an enhanced sentence of imprisonment for a term not exceeding the remaining duration of the remission order of 861 days from 11 January 2020 to 20 May 2022 for that offence.
+
+> Facts relating to the 3rd charge (DAC-912234-2020) – consumption of a specified drug (morphine) (LT2)
+
+> 20.    On 28 February 2020, the accused surrendered himself at Bedok Police Division Headquarters and was subsequently arrested. A search was conducted on the accused and the following was recovered, among other things:
+
+>> \-    01 straw containing granular/powdery substance (later marked ‘A’)
+
+> 21.    On the same day, the accused provided two bottles of urine samples which were sealed and marked as “P-SG-20-00280-1 AMANSHAH BIN OMAR” and “P-SG-20-00280-2 AMANSHAH BIN OMAR” respectively in his presence and sent to the Health Sciences Authority (“HSA”) on 2 March 2020 for analysis.
+
+> 22.    On 4 March 2020, analysts of the HSA issued certificates under Section 16 of the Misuse of Drugs Act (Cap. 185, 2008 Rev Ed) (“MDA”), bearing Lab No. AT-2033-01630-001-01 and AT-2033-01630-002-01 respectively.
+
+> 23.    Zhang HuiFen Hannah, an analyst with the Analytical Toxicology Laboratory of the HSA, having conducted the analysis in relation to the urine sample marked as “P-SG-20-00280-1 AMANSHAH BIN OMAR” issued the Certificate bearing Lab No. AT-2033-01630-001-01, stating that upon analysis, the said urine sample was found to contain Morphine.
+
+> 24.    Chang Hian Twan, an analyst with the Analytical Toxicology Laboratory of the HSA, having conducted the analysis in relation to the urine sample marked as “P-SG-20-00280-2 AMANSHAH BIN OMAR” issued the Certificate bearing Lab No. AT-2033-01630-002-01, stating that upon analysis, the said urine sample was found to contain Morphine.
+
+> 25.    Morphine is a Specified Drug listed in the Fourth Schedule to the MDA.
+
+> 26.    The accused admitted that he had abused ‘panas’ prior to his arrest. ‘Panas’ is the street name for heroin. The accused abused ‘panas’ using the chasing method. He poured some ‘panas’ onto an aluminium foil and heated the base of it. He then inhaled the fumes using a rolled up paper.
+
+> 27.    The accused is not authorised under the MDA or the Regulations made thereunder to consume Morphine, and he has thereby committed an offence under s 8(b)(ii) of the MDA.
+
+> 28.    Further, prior to the commission of the said offence, the accused was, on 11 July 2008 in Court 10 of the District Court, vide DAC27007/2008, convicted of an offence for consumption of a specified drug, to wit, Nimetazepam, under s 8(b)(ii) of the MDA and punished under s 33A(1) of the MDA with 5 years’ imprisonment and 3 strokes of the cane, which conviction and punishment have not been set aside to date, and he is now liable to be punished under s 33A(2) of the MDA.
+
+> 29.    And further, the accused, from 6 December 2019 to 20 May 2022, was subject to a remission order made by the Commissioner of Prisons under Division 2 or 3 of Part VB of the PA, which remission order is subject to the basic condition under section 50S(1) of the PA, and while the remission order is in effect the accused, on 28 February 2020, committed the aforesaid offence and upon conviction and the imposition of a sentence reflected under section 50S(1)(b) of the PA, shall be deemed to have breached the basic condition of his remission order, and is thereby liable to be punished under section 50T(1)(a) of the PA with an enhanced sentence of imprisonment for a term not exceeding the remaining duration of the remission order of 813 days from 28 February 2020 to 20 May 2022 for that offence.
+
+> Facts relating to the 5 th charge (DAC-912236-2020) – Enhanced possession of a controlled drug (diamorphine)
+
+> 30.    On 2 March 2020, the exhibit marked as “A” and sealed ‘CENTRAL NARCOTICS BUREAU’ was sent to the HSA for analysis.
+
+> 31.    On 30 March 2020, Eyo Zhi Wei, an Analyst at the Illicit Drugs Laboratory of the HAS issued a Certificate under Section 16 of the MDA, bearing Lab No. ID-2032-00414-001 stating the exhibit marked “A” was found to be 1 straw containing not less than 0.43 gram of granular/powdery substance which was analysed and found to contain not less than 0.01 gram of diamorphine.
+
+> 32.    Diamorphine is a Class A Controlled Drug listed in the First Schedule to the MDA.
+
+> 33.    The accused admitted that the exhibit marked “A” (referred by him as “panas”) belonged to him and was for his own consumption. He bought the ‘panas’ for $20 from a male Malay pusher known to him as ‘Hafiz’ operating in the vicinity of Bedok North. The identity of ‘Hafiz’ cannot be established.
+
+> 34.    The accused was not authorised under the MDA or the Regulations made thereunder to have in his possession diamorphine, and he has thereby committed an offence under Section 8(a) of the MDA.
+
+> 35.    Further, prior to the commission of the said offence, the accused was, on 22 September 2015 in Court 12 of the District Court, vide DAC0900978/2015, convicted of an offence for possession of a specified drug, to wit, Diamorphine, under s 8(a) of the MDA and punished under s 33(1) of the MDA with 12 months’ imprisonment, which conviction and punishment have not been set aside to date, and he shall now be punished with enhanced punishment under s 33(1) of the MDA.
+
+> 36.    And further, the accused, from 6 December 2019 to 20 May 2022, was subjected to a remission order made by the Commissioner of Prisons under Division 2 or 3 of Part VB of the PA, which remission order is subject to the basic condition under section 50S(1) of the PA, and while the remission order is in effect the accused, on 28 February 2020, committed the aforesaid offence and upon conviction and the imposition of a sentence reflected under section 50S(1)(b) of the Prisons Act, shall be deemed to have breached the basic condition of his remission order, and he is thereby liable to be punished under section 50T(1)(a) of the PA with an enhanced sentence of imprisonment for a term not exceeding the remaining duration of the remission order of 813 days from 28 February 2020 to 20 May 2022 for that offence.
+
+## Antecedents
+
+13     The accused has the following related antecedents:
+
+> (a)     30.04.2004 – One charge of drug consumption under s 8(b)(i) MDA. He was sentenced to 18 months’ imprisonment;
+
+> (b)     18.12.2005 – One charge of enhanced drug consumption under s 8(b)(i) and punishable under s 33(4) MDA. He was sentenced to three years’ imprisonment;
+
+> (c)     11.07.2008 – One charge of repeat consumption of a specified drug under s 8(b)(ii) and punishable under s 33A(1) Misuse of Drugs Act (“MDA”)(“LT1”). He was sentenced to five years’ imprisonment and three strokes of the cane;
+
+> (d)     29.04.2013 – Two charges of failing to turn up for urine test under Rg 15(3)(f) Misuse of Drugs (Approved Institutions and Treatment and Rehabilitation) Regulations (“MDR”). He was sentenced to two months’ imprisonment per charge with both charges ordered to run consecutively;
+
+> (e)     22.09.2015 – one charge of repeat consumption of a specified drug under s 8(b)(ii) and punishable under s 33A(2) MDA (“LT2”), one charge of unauthorised drug possession under s 8(a) punishable under s 33(1) MDA and one charge of theft in dwelling under s 380 of the Penal Code. One charge repeat consumption of a specified drug under s 8(b)(ii) and punishable under s 33A(2) MDA (“LT2”), one charge of unauthorised drug possession under s 8(a) punishable under s 33(1) MDA and one charge of possession of drug taking utensils under s 9 MDA were taken into consideration. He was sentenced to seven years’ four months’ imprisonment for the LT2 charge, 12 months’ imprisonment for the unauthorised drug possession charge and two weeks’ imprisonment for the theft in dwelling charge. Both sentences were for the LT2 charge and the theft in dwelling charge were ordered to run consecutively with the remaining unauthorised drug possession charge ordered to run concurrently.
+
+## Prosecution’s Submissions on Sentence
+
+14     The Prosecution had highlighted that the accused was released from prison on 6 December 2019, after serving sentences for theft-in-dwelling and drug consumption (“LT2”) offences. He was subjected to a remission order made under s 50I of the Prisons Act (Cap 247, 2000 Rev Ed) (“PA”) from 6 December 2019 to 20 May 2022 (both dates inclusive). In addition, he was concurrently placed on the Mandatory Aftercare Scheme (“MAS”) from 6 December 2019 to 5 December 2021 (both dates inclusive) and subjected to mandatory aftercare conditions under s 50V(3) of the Prisons Act.
+
+15     While on the remission order and emplaced on the MAS, the accused committed various offences, which were the subject of the present proceedings.
+
+16     It was submitted that a summary of the Prosecution’s sentencing positions for these offences were as follows:
+
+> (a)     1st charge in MAC-902152-2020 – 275 days’ imprisonment;
+
+> (b)     2nd charge in DAC-912157-2020 – Enhanced sentence of 254 days’ and one month’s imprisonment. It was submitted that this represents an uplift from the accused’s sentence for his previous offence under s 380 read with s 34 of the Penal Code in 2015, for which the accused was sentenced to two weeks’ imprisonment for stealing items worth $469.90 from Mustafa Shopping Centre.;
+
+> (c)     3rd charge in DAC-912234-2020 – Enhanced sentence of 368 days and seven years’ six months’ imprisonment and six strokes of the cane. This is a slight uplift from the sentence meted out for the accused’s previous LT2 offence in 2015, seven years’ four months’ imprisonment and six strokes of the cane;
+
+> (d)     5th charge in DAC-912236-2020 – Enhanced sentence of 239 days and the mandatory minimum imprisonment term of two years.
+
+17     It was further submitted that the sentences for the first charge and third charge in MAC-902152-2020 and DAC-912234-2020 should be ordered to run consecutively for a global sentence of seven years’ six months’ and 1,136 days’ imprisonment, and 6 strokes of the cane (about ten years’, seven months’ and 11 days’ imprisonment and 6 strokes of the cane).
+
+## Enhanced punishment under s 50T of the Prisons Act
+
+18     It was submitted that the accused was liable for enhanced punishment under s 50T of the Prisons Act for the second charge, the third charge and the fifth charge. With respect to the calculation of enhanced sentences, the Prosecution had relied on the sentencing framework proposed below:
+
+> _First Stage: Factors under s 50T(3)(a) – (c) Prisons Act (offence-specific factors)_
+
+> It was submitted that the factors under s 50T(3)(a) to (c) of the Prisons Act may be analysed as follows:
+
+![]([2020] SGDC 0205_Image/[2020] SGDC 0205_image1.png)
+
+#### Second Stage: Indicative starting sentence (sentencing bands approach)
+
+19     It was submitted that the second stage was to determine the indicative starting sentence. It was submitted that the “sentencing bands” approach was appropriate for calibrating the sentence for offences under s 50T of the Prisons Act as this approach called for a holistic assessment of the seriousness of the offence by reference to all the offence-specific factors in calibrating the sentence (_Ng Kean Meng v PP_ <span class="citation">\[2017\] 2 SLR 449</span> at \[37\]). The Prosecution proposed the following sentencing bands:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="10.0779844031194%"> <col width="36.6526694661068%"> <col width="53.2693461307739%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Band</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Sentencing range</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Elaboration</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">1</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>1 day to 1/3 of maximum</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Based on the above checklist, if the offender’s <em>overall culpability</em> may be considered “<em>low</em>”, the sentence may fall within this band.</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">2</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>1/3 to 2/3 of maximum</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Based on the above checklist, if the offender’s <em>overall culpability</em> may be considered “<em>moderate</em>”, the sentence may fall within this band.</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">3</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>2/3 to maximum</b></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Based on the above checklist, if the offender’s <em>overall culpability</em> may be considered “<em>high</em>”, the sentence may fall within this band.</p></td></tr></tbody></table>
+
+  
+  
+
+#### Third Stage: Section 50T(3)(d) Prisons Act (offender-specific factors)
+
+20     Finally, it was submitted the offender-specific factors be considered under the umbrella of “all other relevant circumstances” factor in s 50T(3)(d) of the Prisons Act. This would include the accused’s plea of guilt and cooperation with the authorities.
+
+## Application of the framework
+
+#### S 380 Penal Code charge
+
+21     In respect of the theft in dwelling charge, it was highlighted his previous offence was one count of theft in dwelling under s 380 read with s 34 of the Penal Code involving $469.90 of products stolen from Mustafa Shopping Centre. The accused had reoffended about one month after his release (6 December 2019 to 11 January 2020). In light of the above, the Prosecution had assessed his overall culpability to be within Band 3 (high culpability).
+
+22     It was submitted that the starting sentence should lie at the lower end of Band 3 (high culpability). Accordingly, the indicative starting point would be 2/3 of the maximum imprisonment term of 861 days, _i.e._ 574 days.
+
+23     It was further submitted that the accused has pleaded guilty. Thus, the indicative starting point should be calibrated downwards by a third, _ie_ 383 days (being 2/3 of the indicative starting point of 574 days). This downward calibration takes into account the mitigating weight of the accused’s plea of guilt.
+
+#### Repeat LT2 consumption charge
+
+24     In respect of the LT2 charge, it was highlighted that the mandatory minimum sentence is seven years’ imprisonment and six strokes of the cane. His previous offence was LT2 consumption of the same specified drug _ie_ morphine. It was highlighted that the accused had reoffended less than three months after his release (6 December 2019 to 28 February 2020). The Prosecution had assessed the accused’s overall culpability lies within Band 3 (high culpability).
+
+25     As the accused’s overall culpability was high, it was submitted that the indicative starting point would be around the maximum of 813 days. Having regard to all other relevant circumstances, the Prosecution had sought a sentence of 542 days, being 2/3 of the indicative starting point of 813 days. This downward calibration takes into account the mitigating weight of the accused’s surrender and plea of guilt.
+
+#### Enhanced drug possession charge
+
+26     In respect of the enhanced drug possession charge, it was highlighted that the prescribed punishment is a mandatory minimum period of two years’ imprisonment and his previous drug-related offence was LT2 consumption a similar specified drug _ie_ morphine. The accused had reoffended less than three months after his release (6 December 2019 to 28 February 2020). The Prosecution had assessed the accused’s overall culpability lies between Band 2 (moderate culpability) and Band 3 (high culpability).
+
+27     As the accused’s overall culpability lies at the high end of Band 2 to the low end of Band 3 (medium-high culpability), accordingly, the indicative starting point would be around the 2/3 of the maximum, 542 days.
+
+28     Having regard to all other relevant circumstances, the Prosecution had sought a sentence of 361 days, being 2/3 of the indicative starting point of 542 days. It was submitted that this downward calibration takes into account the mitigating weight of the accused’s surrender and plea of guilt.
+
+#### Calibration of aggregate enhanced sentences under s 50T(2)(b) Prisons Act
+
+29     It was submitted that under s 50T(2)(_b_) of the Prisons Act, the aggregate length of all the enhanced sentences imposed under s 50T(1) cannot exceed the remaining duration of the remission order, as determined based on the date of the _earliest offence_ committed, i.e. 11 January 2020 (861 days) for the s 380 PC offence. However, the above proposed sentences, in aggregate (383+542+361), would exceed this remaining duration of 861 days, and thus the need for the sentences to be decreased proportionately.
+
+30     It was further submitted that the suggested enhanced sentences should be decreased to the following proposed sentences:
+
+> (a)     DAC-912157-2020 – 254 days;
+
+> (b)     DAC-912234-2020 – 368 days;
+
+> (c)     DAC-912236-2020 – 239 days.
+
+It was the Prosecution’s case that the total enhanced sentence should therefore be 861 days. This enhanced sentence would run consecutively with all other terms of imprisonment: s 50T(5) of the Prisons Act.
+
+#### Serious breach of mandatory aftercare conditions
+
+31     It was highlighted that the accused had failed to remain indoors for a total of 279 hours and 25 minutes. It was submitted that a sentence of 275 days (of a total possible of 823 days) should be imposed on the charge. In support of its submissions, the Prosecution had relied on a three-stage sentencing framework which was largely similar to the one proposed above for s 50T of the Prisons Act.
+
+## Application of the framework
+
+#### First Stage: Factors under Section 50Y(2)(a) – (c) Prisons Act (offence-specific factors)
+
+![]([2020] SGDC 0205_Image/[2020] SGDC 0205_image2.png)
+
+32     It was highlighted that the accused had breached curfew by a total of 279 hours and 25 minutes, after which he surrendered to Bedok Divisional Headquarters on his own volition. It was submitted that he had committed the breach about two months after his release (6 December 2019 to 18 February 2020). In addition, the accused had committed the breach despite repeated reminders for him to return. The Prosecution had assessed the accused’s overall culpability as lying within Band 3.
+
+#### Second Stage: Indicative starting sentence (sentencing bands approach)
+
+33     The Prosecution had similarly proposed the sentencing bands as set out at \[20\] above. It was submitted that applying the above, as all three offender-specific factors reveal that the accused’s culpability was on the lower end of Band 3, the indicative starting point would be 549 days (being 2/3 of the maximum 823 days).
+
+#### Third Stage: Section 50Y(2)(d) Prisons Act (offender-specific factors)
+
+34     The Prosecution has highlighted that the accused had pleaded guilty and that he faced significant enhanced sentences under s 50T of the Prisons Act. It was submitted that although there is no provision which prohibited the aggregate sentence for ss 50T and 50Y from exceeding the remaining duration of the remission order, it was noted that the enhanced sentence under Section 50T of the Prisons Act must run consecutively to the sentence under Section 50Y of the Prisons Act: s 50T(5) read with s 50Y(5) of the Prisons Act.
+
+35     As the Prosecution was cognisant of the totality principle and the need to ensure that the sentence was not crushing, it was submitted that the sentence should be reduced downwards by half to 275 days.
+
+#### Global sentence
+
+36     The Prosecution thus sought a global sentence of 7 years’ 6 months’ and 1,136 days’ imprisonment and 6 strokes of the cane as set out above at \[16\].
+
+## Mitigation
+
+37     In his oral plea in mitigation, the accused stated that he was foolish in committing the offences but had sincerely hoped that with his submissions, the court would have a better understanding on why he committed the offences.
+
+38     According to the accused, before his arrest he was suffering from depression, as he had to cope with the loss his beloved sister who had passed away which resulted in him relapsing. Nevertheless, no matter what his reasons were, the reasons were never meritable for him to be committing offences.
+
+39     The accused submitted that he was sincerely remorseful for his actions. The lessons he had learned for the past few months being in remand had made him open his eyes and made him realise deeper of the mistake which has deeply affected both his parents and his children. He truly regretted what he did and he was ashamed for his actions.
+
+40     The accused hoped that he could be given a chance to amend his mistakes towards his family and be a better father towards his children. He further hoped that his humble plea would be granted and the minimum sentence possible be imposed.
+
+## Sentence
+
+#### Prescribed Penalties
+
+41     The prescribed punishment for an offence of theft in dwelling under s 380 of the Penal Code is a term of imprisonment which may extend to seven years, and the offender shall also be liable to fine.
+
+42     The prescribed punishment for an offence of an LT2 repeat drug consumption under s 8(b)(ii) and punishable under s 33A(2) MDA is imprisonment for a term not less than seven years and not more than 13 years and not less than six strokes and not more than 12 strokes of the cane.
+
+43     The prescribed punishment for an offence of drug possession under s 8(a) and punishable under s 33(1) MDA is imprisonment for a maximum term of 10 years or $20,000 or both. The minimum sentence for a second or subsequent offender is two years’ imprisonment.
+
+44     The prescribed punishment for a serious breach of a mandatory aftercare condition under s 50Y(1)(a) is to an imprisonment term not exceeding the remaining duration of the remission order at the time of the commission of the offence, or for any term or for life if the duration of the remission term is for life.
+
+## The Court’s Decision on Sentence
+
+45     The accused was released from prison on 6 December 2019, after serving sentences for theft-in-dwelling and drug consumption (“LT2”) offences. He was subjected to a remission order pursuant to s 50I of the Prisons Act from 6 December 2019 to 20 May 2022 and concurrently placed on the MAS from 6 December 2019 to 5 December 2021 and subjected to mandatory aftercare conditions under s 50V(3) of the Prisons Act. While on the remission order and emplaced on the MAS, the accused had committed various offences as stated above.
+
+46     In the present case, apart from imposing the individual sentences for the proceeded charges, I also had to determine whether enhanced sentences should be imposed for the second charge, third charge and the fifth charge pursuant to s 50T(1) of the Prisons Act which provides as follows:
+
+> (1)    When a person commits an offence in breach of the basic condition of his remission order made under Division 2 or 3, the court may, in addition to imposing any sentence on the person for that offence, impose an enhanced sentence for that offence as follows:
+
+>> (a)    Imprisonment for a term not exceeding the remaining duration of the remission order, as determined based on the date of the commission of the offence; or
+
+>> (b)    imprisonment for any term or for life, if the duration of the remission order is for the person’s natural life.
+
+47     In determining whether I should imposed enhanced sentences, I had to consider the factors as set out in s 50T(3) of the Prisons Act namely:
+
+> (a)     the gravity of the present offence;
+
+> (b)     whether the offence is similar to the offence for which the accused was originally sentenced and placed on remission;
+
+> (c)     the length of time the accused had remained crime-free after being released under the remission order; and
+
+> (d)     all other relevant circumstances.
+
+## Individual Sentences
+
+#### S 380 Penal Code charge
+
+48     In respect of the second charge in DAC-912157-2020, I was mindful that the accused had reoffended about one month after his release from prison and committed theft in dwelling of two sets of MIPP socks while in the course of his employment as a warehouse assistant. The socks were recovered from his bag when he was confronted by the security supervisor as he left work for the day.
+
+49     While I took into account his early plea of guilt, the items were recovered and the value of the items were unknown, I was of the view an uplift in sentence from his previous sentence was necessary as a form of both general and specific deterrence. I was of the view that there were no exceptional circumstances in the present case that warranted the imposition of the minimum sentence possible as requested by the accused _ie_ one day’s imprisonment.
+
+50     Hence, I agreed with the Prosecution that a sentence one month’s imprisonment was appropriate in the circumstances as it represented an uplift from the accused’s earlier sentence of two weeks’ imprisonment for his previous similar offence under s 380 read with s 34 of the Penal Code in September 2015.
+
+#### Enhanced sentence
+
+51     I next considered as to whether an enhanced sentence should be imposed pursuant to s 50T(1) of the Prisons Act for this charge. Applying the factors as set out above at \[47\], I agreed with the Prosecution that an enhanced sentence should be imposed. In the present case, the accused had committed an aggravated form of theft, he had committed an offence which was similar to the one he was placed in remission for and that he had committed the present offence within one month of his release from prison.
+
+52     Applying the Prosecution’s suggested three-stage sentencing framework, I further agreed with the Prosecution’s submissions that the accused’s overall level of culpability was high and that the indicative starting point should be at the lower end of Band 3 (high culpability) and that the indicative starting point would be 2/3 of the maximum imprisonment term of 861 days, _i.e._ 574 days. Having regard to all other relevant circumstances, I agreed that the indicative starting point should be calibrated downwards by a third, _ie_ 383 days (being 2/3 of the indicative starting point of 574 days). This downward calibration takes into account the mitigating weight of the accused’s plea of guilt.
+
+#### Repeat LT2 consumption charge
+
+53     In respect of the charge in DAC-912234-2020, I was mindful that he had reoffended less than three months after his release on 6 December 2019. The mandatory minimum sentence for an LT2 consumption charge is seven years’ imprisonment and six strokes of the cane. His previous offence was LT2 consumption of the same specified drug _ie_ morphine where he was sentenced on 22 September 2015 to seven years’ four months’ imprisonment and six strokes of the cane.
+
+54     While I took into account his early plea of guilt, the accused had reoffended less than three months after his release from prison and had consumed the same specified drug as he had done previously. In addition, I was mindful in the present case, another charge for LT2 drug consumption involving another type of drug namely, methamphetamine in DAC 912235-2020 was taken into consideration for sentence. I was of the view an uplift in sentence from his previous sentence was necessary as a form of both general and specific deterrence. I was also of the view that there were no exceptional circumstances in the present case that warranted the imposition of the minimum sentence possible as requested by the accused _ie_. seven years’ imprisonment and six strokes of the cane.
+
+55     Hence, I agreed with the Prosecution that a sentence of seven years’ six months’ imprisonment and six strokes of the cane was appropriate in the circumstances as it represented an uplift from the accused’s previous sentence of seven years’ four months’ imprisonment and six strokes of the cane for his similar LT2 consumption charge in September 2015.
+
+#### Enhanced sentence
+
+56     I next considered as to whether an enhanced sentence should be imposed for this charge. Applying the factors as set out above at \[47\], I agreed with the Prosecution that an enhanced sentence should be imposed. In the present case, the accused had committed a LT2 consumption charge which is a serious offence, this was his second conviction for an LT2 offence which was similar to the LT2 consumption charge he was placed in remission for and that he had committed the present offence within less than three months of his release from prison.
+
+57     Applying the Prosecution’s suggested three-stage sentencing framework, I further agreed with the Prosecution’s submissions that the accused’s overall level of culpability was high and that the indicative starting point would be around the maximum of 813 days. Having regard to all other relevant circumstances, I agreed that an enhanced sentence of 542 days, being 2/3 of the indicative starting point of 813 days should be imposed. This downward calibration takes into account the mitigating weight of the accused’s surrender and plea of guilt.
+
+#### Enhanced drug possession
+
+58     In respect of the charge in DAC-912236-2020, I was mindful that he had reoffended less than three months after his release on 6 December 2019. He was found in possession of one straw containing not less than 0.43 gram of granular/powdery substance which was analysed and found to contain not less than 0.01 gram of diamorphine a Class A Controlled Drug listed in the First Schedule to the MDA. The drug belonged to him and it was for his own consumption. He had a similar previous conviction for drug possession of the same drug _ie_ morphine where he was sentenced on 22 September 2015 to twelve months’ imprisonment. In addition, I was mindful in the present case, another charge for enhanced drug possession involving another type of drug namely, methamphetamine in DAC 912237-2020 was taken into consideration for sentence.
+
+59     In prescribed punishment for enhanced drug possession charge is a mandatory minimum period of two years’ imprisonment. While the accused had pleaded guilty, I noted that he had a similar previous conviction for drug possession for a same drug _ie_ morphine and that had reoffended less than three months after his release. Nevertheless, in view of the amount of drug involved, I agreed with the Prosecution that the minimum prescribed sentence of two years’ imprisonment should be imposed as I was of the view that it was adequate as a form of specific and general deterrence.
+
+#### Enhanced sentence
+
+60     I next considered as to whether an enhanced sentence should be imposed for this charge. Applying the factors as set out above at \[47\], I agreed with the Prosecution that an enhanced sentence should be imposed. In the present case, the accused had committed an enhanced possession which is a serious offence, this was his second conviction for unauthorised possession of drugs which was similar to the unauthorised possession of drug charge he was placed in remission for and that he had committed the present offence within less than three months of his release from prison.
+
+61     Applying the Prosecution’s suggested three-stage sentencing framework, I further agreed with the Prosecution’s submissions that the accused’s overall culpability lies at the high end of Band 2 to the low end of Band 3 (medium-high culpability) and the indicative starting point would be around the 2/3 of the maximum, 542 days. Having regard to all other relevant circumstances, I agreed with the Prosecution that an enhanced sentence of 361 days, being 2/3 of the indicative starting point of 542 days should be imposed. This downward calibration takes into account the mitigating weight of the accused’s surrender and plea of guilt.
+
+#### Calibration of aggregate enhanced sentences under s 50T(2)(b) Prisons Act
+
+62     After having determined the above, I was mindful that under s 50T(2)(_b_) of the Prisons Act, the aggregate length of all the enhanced sentences imposed under s 50T(1) cannot exceed the remaining duration of the remission order, as determined based on the date of the _earliest offence_ committed, i.e. 11 January 2020 (861 days) for the s 380 PC offence. As the sum of the above proposed sentences would exceed this remaining duration of 861 days, I had to calibrate the sentences downward proportionately.
+
+63     I agreed with the Prosecution’s proposed adjustments and adjusted the individual enhanced sentences as follows:
+
+> (a)     DAC-912157-2020 – 254 days;
+
+> (b)     DAC-912234-2020 – 368 days;
+
+> (c)     DAC-912236-2020 – 239 days.
+
+The total enhanced sentence was therefore the maximum imprisonment term of 861 days which would run consecutively with all other terms of imprisonment pursuant to s 50T(5) of the Prisons Act.
+
+#### Serious breach of mandatory aftercare conditions
+
+64     In respect of the first charge in MAC-902152-2020, the accused had committed a serious breach of his MAS when failed to remain indoors at Selarang Halfway House for a cumulative period of more than 24 hours. He had been placed on the MAS from 6 December 2019 to 5 December 2021 and subjected to mandatory aftercare conditions under s 50V(3) of the Prisons Act.
+
+65     I was mindful that the accused had breached curfew by a total of 279 hours and 25 minutes, after which he surrendered to Bedok Divisional Headquarters on his own volition. He had committed the breach about two months after his release on 6 December 2019. In addition, the accused had committed the serious breach by failing to return despite being given repeated reminders by the duty staff to return to halfway house.
+
+66     In determining the punishment to be imposed for the serious breach of the MAS, I had to consider the factors as set out in s 50Y(2) of the Prisons Act namely:
+
+> (a)     the gravity of the serious beach;
+
+> (b)     the length of time the offender had not committed any breach of a mandatory aftercare condition after being released under the remission order;
+
+> (c)     whether the serious breach evidences a lack of commitment by the offender to his rehabilitation and reintegration into society time; and
+
+> (d)     all other relevant circumstances.
+
+67     Applying the Prosecution’s suggested three-stage sentencing framework, I agreed with the Prosecution that the accused’s overall culpability was at Band 3 (high culpability). In the present case, as the offender-specific factors indicated that his culpability was on the lower end of Band 3, I agreed with the Prosecution that the indicative starting point would be 549 days (being 2/3 of the maximum 823 days).
+
+68     Nevertheless, I agreed with the Prosecution that a downward calibration was necessary to take into account the mitigating weight of his accused’s surrender and plea of guilt. In addition, as the accused faced significant enhanced sentences in respect of the second charge, third charge and the fifth charge and the aggregate sentences for ss 50T and 50Y of the Prisons Act must run consecutively, having regard to the totality principle, I adjusted the sentence downwards by half to 275 days. Hence, in respect of MAC-902152-2020, I imposed a sentence of 275 days’ imprisonment.
+
+## Global sentence
+
+69     After having decided on the individual sentences for the four proceeded charges, the next step was to decide on the global sentence. Pursuant to s 307(1) of the Criminal Procedure Code (Cap 68, Rev Ed 2012), I ordered the sentences of two charges, namely DAC-912234-2020 and MAC-902152-2020 to run consecutively. The sentences for the remaining two charges namely DAC-912157-2020 and DAC-912236-2020 were ordered to run concurrently. His global sentence was an enhanced sentence of eight hundred sixty-one days’ imprisonment in addition to seven years’ six months’ two hundred seventy-five days’ imprisonment as well as six strokes of the cane.
+
+70     In determining the global sentence, I had carefully considered the overall criminality of the accused’s conduct. It is clear that his previous lengthy imprisonment terms for his drug-related as well as property offence had not sufficiently deterred him from reoffending. He had already been sentenced to a global sentence of seven years’ four months’ and two weeks’ imprisonment in September 2015 and hence it was unrealistic for him to expect the court to consider imposing minimum sentences for all of the proceeded charges.
+
+71     I was mindful that the various conditions in the remission order were made known to him on 6 December 2019 prior to his early release and he had acknowledged that he understood the contents of the order. Yet, he chose to squander the rehabilitation opportunity afforded to him to enable him to reintegrate back to society evidencing his lack of commitment to his rehabilitation and reintegration into society. Under these circumstances and in light of his high culpability, the imposition of the maximum imprisonment term for the remaining duration of his remission order (based on the date of the earliest offence committed) for his enhanced sentences was necessary. In my view, the sentences imposed could not be considered as manifestly excessive in light of the circumstances of the present case.
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F24934-SSP.xml)
