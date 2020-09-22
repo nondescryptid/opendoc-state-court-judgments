@@ -1,0 +1,230 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Cheok Zhenghao Selwyn  
+
+### \[2020\] SGDC 210
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">District Arrest Case No. 918877 of 2018 and others</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">14 September 2020</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">John Ng</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Shana Poon and Melina Chew (Attorney-General's Chambers) for the Public Prosecutor; Peter Keith Fernando (Leo Fernando LLC) for the Accused.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Cheok Zhenghao Selwyn</td></tr></tbody></table>
+
+Criminal Law – Misuse of Drugs Act – Drug Trafficking
+
+Criminal Procedure and Sentencing – Sentencing
+
+\[LawNet Editorial Note: An appeal to this decision has been filed in MA 9690/2020/01.\]
+
+14 September 2020
+
+### District Judge John Ng:
+
+## Introduction
+
+1       The Accused is Cheok Zhenghao, Selwyn. He was convicted after a trial on five charges for offences under the Misuse of Drugs Act (Cap 185, 2008 Rev Ed) (“MDA”). After the convictions on these five charges, the Accused pleaded guilty to another five charges under the MDA. He also admitted to another four charges under the MDA and consented to them being taken into consideration for sentence. The Accused was sentenced to a total of 6 years and 11 months of imprisonment and the mandatory global minimum of 7 strokes of the cane. The Accused filed an appeal against the convictions and the sentences. A stay on the execution of the sentences has been granted and the Accused is out on bail pending the appeal.
+
+## Charges and Sentences
+
+2       A summary of the sentences is given below:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="28.84%"> <col width="32.8%"> <col width="15.12%"> <col width="23.24%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Charges</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Offences</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Trial/PG</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Sentences</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC 918877/2018</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Possession for the purpose of trafficking Class A drug – 8.44 grams of Methamphetamine</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Trial</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Imprisonment</p><p align="justify" class="Table-Para-1">5 years and</p><p align="justify" class="Table-Para-1">3 months (<b>consecutive</b>) and 5 strokes of the cane</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC 934709/2018</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Possession for the purpose of trafficking Class C drug – 470 tablets containing Nimetazepam</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Trial</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Imprisonment</p><p align="justify" class="Table-Para-1">2 years and</p><p align="justify" class="Table-Para-1">6 months (concurrent) and 2 strokes of the cane</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC 934699/2018</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Possession of Class A drug – 15.91 grams of Cannabis</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Trial</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Imprisonment</p><p align="justify" class="Table-Para-1">1 year and</p><p align="justify" class="Table-Para-1">9 months (concurrent)</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC 934703/2018</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Possession of Class A drug – 5.35 grams of MDMA</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Trial</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Imprisonment 10 months (concurrent)</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC 934705/2018</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Possession of Class A drug – 9.31 grams of Ketamine</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Trial</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Imprisonment 10 months (<b>consecutive</b>)</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC 928969/2018</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Consumption of Methamphetamine</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">PG</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Imprisonment 10 months (<b>consecutive</b>)</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC 934701/2018</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Possession of Class A drug – 0.55 grams of Cannabis</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">PG</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Imprisonment</p><p align="justify" class="Table-Para-1">8 months (concurrent)</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC 934704/2018</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Possession of Class A drug – 0.02 grams of MDMA</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">PG</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Imprisonment</p><p align="justify" class="Table-Para-1">6 months (concurrent)</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC 934706/2018</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Possession of Class A drug – 0.52 grams of Ketamine</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">PG</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Imprisonment</p><p align="justify" class="Table-Para-1">6 months (concurrent)</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC 934707/2018</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Possession of Class A drug – 0.44 grams of Methamphetamine</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">PG</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Imprisonment</p><p align="justify" class="Table-Para-1">6 months (concurrent)</p></td></tr></tbody></table>
+
+  
+  
+
+## Prosecution’s Case for the Trial
+
+3       The Accused is a 31-year-old male Chinese Singaporean. He was 29 years old at the time of his arrest. In the early afternoon of 30 May 2018, officers from the Central Narcotics Bureau (“CNB”) arrested Soh Kok Huang, Owen (“Owen”) near the Potong Pasir Community Club (“PPCC”). A short time later, the CNB officers arrested the Accused in front of the NTUC supermarket of the PPCC.
+
+4       During the arrest of the Accused, eight pieces of SGD$50 notes amounting to SGD$400 and one car remote controller (“car remote”) were found in the possession of the Accused. The car remote belonged to Owen and both the Accused and Owen were brought to a red Toyota car at a nearby carpark. The car remote was used to unlock the red Toyota car bearing the registration number SJH 7615U. Owen had driven this car to PPCC to meet the Accused.
+
+5       The following were found inside the red Toyota car:
+
+> (a)     From the front passenger seat: one blue sling bag belonging to the Accused.
+
+> (b)     Inside the blue sling bag:
+
+>> (i)       one NTUC plastic bag containing tablets of drugs in slabs and packets,
+
+>> (ii)       one red plastic bag containing one white plastic bag which had 1 packet of crystalline substance and 1 packet of vegetable matter (both packets were found inside the white plastic bag),
+
+>> (iii)       2 packets of crystalline substance,
+
+>> (iv)       1 digital weighing scale,
+
+>> (v)       1 ziplock bag with ’60 cents’ marking containing 13 packets of crystalline substance,
+
+>> (vi)       1 black pouch.
+
+6       The CNB Officers involved in the arrests of Owen and the Accused testified of where the various drugs were found within the blue sling bag. In the blue sling bag were found two separate plastic bags – one NTUC plastic bag and one red plastic bag. Inside the NTUC plastic bag were found:
+
+> (a)     47 slabs of ‘Erimin 5’ containing 10 tablets per slab. These were analysed and found to be Nimetazepam, a Class C Controlled Drug listed in the First Schedule to the MDA.
+
+> (b)     1 packet containing 4 green tablets and 1 packet containing 5 green tablets. These 9 green tablets were analysed and found to contain not less than 1.01 grams of MDMA. MDMA is a Class A Controlled Drug listed in the First Schedule to the MDA.
+
+> (c)     2 packets containing 10 orange tablets each, 1 packet containing 15 orange tablets with loose fragments and 1 packet containing 2 orange tablets with loose fragments. The total of 37 orange tablets were analysed and found to contain not less than 4.34 grams of MDMA.
+
+> (d)     2 slabs of ‘Erimin 5’ wrapped in tissue paper containing 10 tablets per slab. The ‘Erimin 5’ tablets were analysed and found to be Nimetazepam.
+
+7       Inside the red plastic bag were found one white coloured plastic bag containing:
+
+> (a)     1 packet of crystalline substance wrapped with tissue paper. The crystalline substance was analysed and found to contain not less than 1.70 grams of Methamphetamine.
+
+> (b)     1 packet of vegetable matter wrapped with clear plastic. The vegetable matter was analysed and found to be cannabis.
+
+8       Inside the black pouch were found one packet of crystalline substance, three stained smoking utensils, one lighter and two cut straws. The crystalline substance was analysed and found to contain not less than 2.97 grams of Methamphetamine.
+
+9       Owen testified that he was arrested by CNB officers near the PPCC. He had driven his car there and met the Accused in the vicinity of PPCC. The purpose of meeting the Accused was to collect the drugs he had ordered from him. Owen had contacted the Accused earlier to buy one packet of Methamphetamine and five slabs of Erimin. Owen testified that one packet of Methamphetamine was about five grams and one slab of Erimin has 10 tablets. He paid the Accused SGD$400 in cash after meeting him but before he was arrested by the CNB officers. Owen testified that the SGD$400 came from a loan of SGD$1000 which he had taken from a licensed moneylender Avis Credit on that same day of his arrest. Proof of this loan is evidenced by Exhibit P45.
+
+10     When Owen met the Accused, he gave him SGD$400 and a plastic bag for the Accused to put the drugs that Owen had ordered from him before Owen went to the toilet. Owen also passed the car remote to the Accused so that he could wait in the car for Owen. Owen had agreed to give the Accused a ride to his next destination. Owen was arrested near the toilet.
+
+11     Owen testified that the Accused was his drug supplier. Owen were referred to several of his phone messages with the Accused which were related to drug transactions between him and the Accused. Owen explained the meanings of the different terms used between them in the phone messages, such as “fish” (referring to Methamphetamine, also commonly known as “ice”), “chicken” (referring to Ketamine), “red wine” (referring to “Erimin 5” which is Nimetazepam), etc.
+
+12     The Defence Counsel questioned Owen on the following:
+
+> (a)     Phone messages in P46 between Owen and the Accused. It was put to Owen that he could not remember the locations of the various transactions he claimed to have had with the Accused.
+
+> (b)     Put to Owen that he had passed the NTUC plastic bag to the Accused. Owen said that he could not be certain of that. Owen was only able to testify that he had passed an empty plastic bag to the Accused. Owen cannot identify any of the plastic bags shown in the photo exhibits as the plastic bag he had passed to the Accused. Owen is nevertheless certain that he had passed the Accused an empty plastic bag.
+
+> (c)     Put to Owen that he was lying when he said that he had passed $400 to the Accused. Owen maintained that he did.
+
+> (d)     Put to Owen that he was meeting the Accused to sell 2 sets of “ice” to the Accused for $400. Owen disagreed.
+
+> (e)     Put to Owen that he had handed 2 sachets of “ice” to the Accused at Potong Pasir on that day. Owen disagreed.
+
+> (f)     Put to Owen that he had handed over the NTUC white plastic bag containing the assortment of drugs to the Accused and that the red plastic bag was found inside the NTUC plastic bag.
+
+> (g)     Put to Owen that the cannabis found in the white plastic bag (with the words “Thank you. Good Price Centre”) inside the red plastic bag belonged to Owen.
+
+> (h)     Put to Owen that the 13 packets of Ketamine inside the NTUC plastic bag belonged to him.
+
+## Defence’s case for the Trial
+
+13     The Accused is a 31-year-old male Chinese Singaporean. He was 29 years old at the time of his arrest for the commission of these offences. The gist of the Defence was that the Accused was only a purchaser of drugs and Owen was the supplier. The Accused was only found in the possession of the drugs (identified in the 5 charges for the trial) due to Owen asking him to hold on to them as Owen needed to use the toilet.
+
+14     The Accused’s version of what had transpired was as follows. He had contacted Owen on 30 May 2018 to replenish his supply of “ice”. He ordered 2 sets of “ice” on that day. They arranged to meet near the community club. The Accused knew that the 2 sets of “ice” would cost $400 and he had prepared and set aside the money. When the Accused met Owen near PPCC, Owen passed him the 2 sets of “ice” and the Accused put them in the front compartment of the blue sling bag he was carrying. After he had placed the drugs in the sling bag, he asked Owen if Owen could give him a lift to Joo Seng and Owen agreed. Owen then said that he needed to use the toilet and handed the car remote and an NTUC plastic bag to the Accused. The Accused “just stuffed it inside” his sling bag. The NTUC plastic bag was not empty but Owen did not tell him what was inside the plastic bag.
+
+15     The Accused did not pay the $400 to Owen because before he could pay him, Owen said that he was going to the toilet and that he will meet the Accused in his car. The Accused went to the Owen’s car and waited for Owen inside the car. After a while of waiting for Owen, the Accused decided to buy a drink from the NTUC supermarket. He left his blue sling bag in the car, locked the car and proceeded to the NTUC supermarket to get a drink. Before he reached the supermarket, he was arrested by the CNB Officers.
+
+16     The Accused knew Owen as “Alex” a few months prior to the arrest. The Accused was only addicted to “ice” and had contacted and obtained “ice” from Owen a few times before the arrest on 30 May 2018.
+
+## Findings for the Trial
+
+17     The findings of a trial court must necessarily depend on the issues raised in that trial. The findings of a trial court must invariably be appreciated in context. The context depends very much on how the evidence was adduced and how the respective cases were put to the witnesses.
+
+18     In the present proceedings, the key issue placed before the Court was whether the Accused was the drug trafficker or whether Owen was the drug trafficker. There is no dispute that the Accused and Owen had met on that day at PPCC for a drug transaction involving one party selling drugs to the other. The question is: **_Who was the buyer and who was the seller?_**
+
+19     The preponderance of the evidence points to the Accused being the supplier and Owen was the purchaser. I will cover all the essential evidence which led the Court to this conclusion.
+
+#### Owen’s testimony on the source of $400 is supported by extrinsic evidence
+
+20     Cash of $400 was found on the Accused and both the Prosecution and the Defence share the common position that this amount of money was for the drug transaction between the Accused and Owen.
+
+21     Owen testified that he had paid the Accused SGD$400 in cash of $50 notes after meeting him but before he was arrested by the CNB officers. Owen testified that the SGD$400 came from a loan of SGD$1000 which he had taken from a licensed moneylender Avis Credit on that same day of his arrest. Proof of this loan is evidenced by Exhibit P45. When Owen was arrested, the SGD$500 balance in cash of $50 notes were found on him. This is because when the loan was disbursed, Owen was given a sum of $900 in cash of $50 notes by the moneylender in view of the deduction of $100 processing fee.
+
+#### Owen’s testimony of his relationship with the Accused
+
+22     Owen testified that he had obtained drugs from the Accused on previous occasions. Although Owen could not remember the details of these previous occasions, Owen’s testimony of his relationship with the Accused are backed up by the messages tendered as evidence. The significance of these phone messages lies in the fact that they showed Owen was asking about drugs and the Accused’s replies unequivocally showed that he was a supplier of drugs.
+
+23     In the following table is shown an exchange of messages reflecting the nature of the transactions happening between the Accused and Owen:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="14.4371125774845%"> <col width="16.6966606678664%"> <col width="16.6966606678664%"> <col width="52.1695660867826%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Sent by</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Received by</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Date</b></p><p align="justify" class="Table-Para-1"><b>Time</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Message</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Accused</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Owen</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">11Apr18 13:52:25</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">You total need is 1 fish and 10 chicken?</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Owen</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Accused</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">11Apr18 13:53:13</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">If can.</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Owen</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Accused</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">11Apr18 13:54:14</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Cannot take fish fish</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Owen</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Accused</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">11Apr18 14:13:43</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Bro how?</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Accused</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Owen</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">11Apr18 14:14:12</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">The 10c I all put together okay?</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Owen</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Accused</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">11Apr18 14:26:05</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Ok</p></td></tr></tbody></table>
+
+  
+  
+
+(%3)       Another series of exchanges show likewise the relationship of buyer and seller:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="14.6029205841168%"> <col width="16.8633726745349%"> <col width="16.8633726745349%"> <col width="51.6703340668134%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Accused</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Owen</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">15May18 16:08:30</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">What you need?</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Owen</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Accused</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">15May18 16:09:04</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Wine</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Owen</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Accused</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">15May18 16:17:24</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">How?</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Accused</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Owen</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">15May18 16:18:25</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">How many?</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Owen</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Accused</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">15May18 16:18:55</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">1 box</p></td></tr></tbody></table>
+
+  
+  
+
+#### Owen’s evidence is credible
+
+24     I agree with the Prosecution’s submissions that Owen is a credible witness from the internal and external consistency of his evidence. As pointed out by the DPP, Owen was not evasive and readily admitted his involvement with drugs. More importantly, Owen’s version of how he obtained the monies to buy the drugs from the Accused is substantiated by the documentary evidence of the loan he had taken on the same day from the licensed moneylender and the amounts of cash of $500 in $50 notes found on him and the cash of $400 in $50 notes found in the possession of the Accused. This $400 in $50 notes were found on the Accused separately from the rest of the Accused’s monies which he had with him.
+
+25     Owen’s testimony on his relationship with the Accused is amply substantiated by the multiple phone messages he had exchanged with the Accused over the course of a few months. As pointed out by the DPP, the messages objectively showed Owen asking for “fish”, “chicken” and “wine” and no messages could be found between them in which the roles of buyer and seller were reversed.
+
+#### Chain of evidence
+
+26     Evidence of the arrests of Owen and the Accused and the seizure of the drug exhibits were clearly presented through the CNB Officers. Their testimonies were consistent and showed that the drugs were handled properly through careful marking and systematic labelling.
+
+27     I have no trouble in accepting their collective evidence on the chain of evidence. Based on their testimonies, I am satisfied that the red plastic bag was separate from the NTUC plastic bag and not found inside the NTUC plastic bag as claimed by the Accused. In the light of the evidence of the CNB officers, I reject the claim by the Accused that the red bag was found from inside the NTUC plastic bag.
+
+#### Accused lacks credibility and his evidence did not cast any reasonable doubt on the Prosecution’s case against him
+
+28     As rightly pointed out by the DPP, the Accused’s position on the cash of $400 in $50 notes found on him changed from the time he gave his police statements to the time he testified in court. In his statement P52 to the police on 31 May 2018, the Accused claimed that Owen had passed him the $400 cash and he did not know why Owen had done so. In his statement P56 to the police on 15 August 2018, the Accused did not know the exact amount that Owen had passed him as he did not count the money Owen had given to him. In his statement P51 to the police on 20 September 2018, he said that he had passed Owen the $400 cash and Owen handed the money back to him before going to the toilet.
+
+29     The responses of the Accused to the questions posed by the DPP during the Cross-examination touching on all the incriminating evidence against him showed that the Accused was not a credible witness. In particular, he was simply unable to deny the incontrovertible series of phone messages he had with Owen and other parties which showed that he was supplying drugs. He was confronted with numerous incriminating messages for which he could proffer no explanation for the content of these messages that pointed to his involvement in drug trafficking. Most of his replies to these questions were answers such as “I can’t remember” or “I can’t recall” which were simply untenable. He did not even attempt to contradict Owen’s evidence that the terms used such as “fish”, “chicken” and “wine” were codes or covert references to controlled drugs of Methamphetamine, Ketamine and Nimetazepam. The reason was because he could not as the evidence spoke for itself.
+
+30     Tellingly, there was no Re-examination.
+
+31     Based on the overwhelming evidence adduced in the course of this trial, I am satisfied that the Prosecution had proven that the Accused was the trafficker and Owen was the buyer.
+
+32     With the establishing of the fact that the Accused was the seller of drugs to Owen, the Court has now to be satisfied that every element of the five charges against the Accused has been proved beyond a reasonable doubt.
+
+#### DAC 918877/2018 Possession of Methamphetamine for Trafficking
+
+33     This charge relates to the total amount of 8.44 grams of Methamphetamine found in the blue sling bag. The charge (DAC 918877/2018) states:
+
+> “You, on 30 May 2018 at or about 2.15 p.m., at 6 Potong Pasir Avenue 2, Potong Pasir Community Club, Singapore, did traffic in a Class ‘A’ Controlled Drug listed in the First Schedule to the Misuse of Drugs Act (Cap 185, 2008 Rev Ed)(“MDA”), _to wit_, by having in your possession for the purpose of trafficking, three (03) packets containing a total of not less than 12.51 grams of crystalline substance, which was analysed and found to contain no less than 8.44 grams of Methamphetamine, without authorization under the said Act or Regulations made thereunder, and you have thereby committed an offence under Section 5(1)(a) read with Section 5(2) and punishable under Section 33(1) of the MDA.”
+
+34     Owen testified that he ordered one packet of Methamphetamine (which he had not taken possession of) whilst the Accused claimed that the two packets found in his blue sling bag were bought from Owen. For the reasons explained earlier, the Court accepted Owen’s evidence that he was the buyer and not the seller and rejected the Accused’s claim that Owen had sold him the two packets. Since the two packets of Methamphetamine (marked as Exhibits B1C and B1C2) were brought to the location by the Accused for the transaction with Owen, and it is not the position of the Accused that he was in possession of the two packets for his personal consumption, the inference is that they were in the possession of the Accused for the purpose of trafficking.
+
+35     Since the Accused fabricated the lie that the two packets of Methamphetamine were bought from Owen, it is not for the Court to say that the two packets of Methamphetamine belonged to the Accused for his own consumption. That is not a position he had taken in his Defence.
+
+36     It must be noted that the Court is not making a finding that the two packets of Methamphetamine were meant to be sold to Owen, since Owen’s evidence is that he had only ordered one packet. The Court had to be mindful that the charge in DAC 918877/2018 does not state that the three packets of Methamphetamine were for sale to Owen.
+
+37     What then do we make of the Methamphetamine marked as B1B1B1? Again, we had to consider that the Accused had vehemently denied that the Methamphetamine marked as B1B1B1 belonged to him and claimed that it was in the red bag. I have made the finding that the red bag was not found inside the NTUC plastic bag. The red bag was found separately in the blue sling bag belonging to the Accused. In a similar vein as for the two packets of Methamphetamine mentioned earlier, the inference to be drawn from his denial is that the Methamphetamine was for the purpose of trafficking in the context of the circumstances of this case _i.e._ the Accused had brought along the Methamphetamine to the location for a transaction of trafficking. The Accused, by denying that the Methamphetamine belonged to him, left no room for the Court to say that the Methamphetamine marked as B1B1B1 was for his consumption. It bears repeating that the charge in DAC 918877/2018 does not state that the three packets of Methamphetamine were for sale to Owen. Furthermore, there is no discernible way for the Court to demarcate which one of the three packets – B1C, B1C2 and B1B1B1 – were meant for delivery to Owen.
+
+#### DAC 934709/2018 Possession of Nimetazepam for Trafficking
+
+38     This charge relates to the slabs of Erimin 5 or Nimetazepam found in the NTUC plastic bag. Owen testified that he had ordered 5 slabs of Erimin. The charge does not state that all the Erimin slabs were for sale to Owen. What is adduced in evidence and found as a fact by the Court is that the Accused was the drug supplier to Owen and had brought along many slabs of Erimin 5. Also, the Accused had denied that the various slabs of Erimin 5 tablets belonged to him. Significantly, the Accused had also admitted that he was only addicted to Methamphetamine. In the circumstances of this case, when the Accused was meeting Owen for a sale of Erimin 5 to him, the only conclusion to be drawn is that the Accused was in possession of the Nimetazepam for the purpose of trafficking.
+
+#### The remaining 3 charges of Possession of MDMA, Ketamine and Cannabis
+
+39     Unlike the charges involving Methamphetamine and Nimetazepam, the Prosecution could not adduce any evidence which provided a basis to say that the possession of the drugs of MDMA, Ketamine and Cannabis were for the purpose of trafficking. Once it was proved that these drugs were in the possession of the Accused and when his claim that they belonged to Owen were rejected, the three offences as charged were established accordingly.
+
+## Admission by the Accused to the remaining charges
+
+40     After the conviction of the 5 charges in the trial, the Accused pleaded guilty to 5 other charges and admitted without qualification to the Statement of Facts pertaining to those charges. He had also admitted and consented to have 4 remaining charges to be taken into consideration in the sentence to be passed for the 10 convicted charges.
+
+## Antecedent
+
+41     The Accused did not have any criminal record.
+
+## Submissions on sentence
+
+### Prosecution’s submissions
+
+42     The Prosecution submitted that the dominant sentencing principle in this case is deterrence. Nevertheless, the DPP did not press for a deterrent sentence and put forth the following factors for the court’s consideration of the appropriate sentence:
+
+> (a)     Although this is the Accused’s first conviction, the evidence showed that the Accused’s involvement in drug trafficking was not a one-off but went on for some time. The Accused had even roped in his girlfriend to be involved in the packing of the drugs.
+
+> (b)     The Accused had claimed trial despite the strong evidence against him. The Accused is clearly unremorseful.
+
+### Mitigation plea
+
+43     The defence counsel sought a total imprisonment term of not more than 6 years and 7 months and caning of 5 strokes. It must be pointed out that it would be an error to impose only 5 strokes of the cane as the two drug trafficking offences are punishable with mandatory minimum of 5 strokes and 2 strokes respectively for the Class A and Class C drugs. The defence counsel had put up a comprehensive written mitigation and there is no need to repeat the points raised in it.
+
+## Sentence
+
+### The Trafficking Offences
+
+44     The starting point for the sentencing of a drug trafficking offender is the case of _Vasentha d/o Joseph v PP_ <span class="citation">\[2015\] 5 SLR 122</span> for a first offender. It is primarily based on the quantity of the drugs involved. I found no reason to disagree with the proposed imprisonment of 5 years and 3 months by the defence counsel for the trafficking offence of 8.44 grams of Methamphetamine. As for the trafficking of the Nimetazepam, I imposed a sentence of 2 years, 6 months and the mandatory minimum of 2 strokes of the cane. This is based on the quantity of the drugs and the imprisonment term was ordered to run concurrently in view of the one-transaction rule.
+
+### The Other Drug Offences
+
+45     I was in general agreement with the DPP’s submissions of 10 months of imprisonment for the remaining 8 charges of one offence of drug consumption of Methamphetamine (a Class A drug under the MDA) and 7 offences of drug possession of various controlled drugs but only as a starting point. In the case of _Dinesh Singh Bhatia s/o Amarjeet Singh v PP_ <span class="citation">\[2005\] 3 SLR(R) 1</span>, the High Court provided that the range of sentencing a first offender for consumption of controlled drugs is from 6 months to 18 months of imprisonment. The lowest end of this range (_i.e._ 6-8 months) is meant for the casual or one-off user of drugs. The Accused is this case does not fall within that category. Be his own admission, he had been abusing “ice” or Methamphetamine for some time and is addicted to it. An imprisonment term of 10 months is the appropriate sentence for his consumption offence, bearing in mind the offences of possession of utensils to be taken into consideration.
+
+46     As for the seven drug possession offences of various drugs, I have imposed sentences ranging between 6 months to 21 months, according to the type and amounts of drugs involved. In any event, I had only ordered one of these drug possession sentences – the sentence of 10 months’ imprisonment – to run consecutively to the sentences for trafficking Methamphetamine and the consumption offence.
+
+### The Global Sentence
+
+47     In calibrating the total sentence to be imposed, I had complied with the mandatory requirement to run at least two sentences consecutively and considered the totality principle in sentencing. I had also ordered the running of the sentences according to the guidelines provided by the High Court in the case of _PP v Raveen Balakrishnan_ <span class="citation">\[2018\] 5 SLR 799</span>.
+
+48     There are 3 distinct types of drug offences involved in this case – drug trafficking, drug consumption and drug possession. For the drug possession offences, the assortment of drugs included Methamphetamine, cannabis, MDMA and ketamine. I decided against running the sentence of 21 months’ imprisonment for the cannabis possession consecutively as that would possibly lead to a crushing overall sentence for the Accused as a first offender. Therefore, I chose to run only the 10-month sentence for the possession of Ketamine consecutively to the consumption and trafficking sentences for Methamphetamine. As for the sentence of caning, the mandatory global minimum number of 7 strokes for the two trafficking offences should be sufficient punishment for the Accused to be caned for the first time.
+
+## Conclusion
+
+49     The total sentence of six years and eleven months of imprisonment and seven strokes of the cane is on the low side but should adequately address the sentencing objectives as presented by the facts and circumstances of this case. I err on the side of leniency in the hope that the salutary effects of the global sentence of imprisonment at the lower end and the accompanying mandatory minimum strokes of caning would not be lost on him. This is despite the inescapable fact that his involvement with drugs were rather substantial and included involving his girlfriend.
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F24978-SSP.xml)
