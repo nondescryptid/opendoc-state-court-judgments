@@ -1,0 +1,442 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Lee Cheng Yan  
+
+### \[2020\] SGDC 216
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">District Arrest Case No. 942000 of 2017 &amp; 9 Ors; Magistrate's Appeal 9756-2020-01</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">14 September 2020</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Ng Peng Hong</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Senthilkumaran Sabapathy &amp; Timotheus Koh (Attorney-General's Chamber) for the prosecution; Selvarajan Balamurugan (K&amp;L Gates Straits Law LLC) for the accused.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Lee Cheng Yan</td></tr></tbody></table>
+
+Criminal Law and Sentencing – Offences – Offences against Public Servant and Public Justice – Statutory Offences – Road Traffic Act
+
+Criminal Procedure – Sentencing
+
+\[LawNet Editorial Note: An appeal to this decision has been filed in MA 9756/2020/01.\]
+
+14 September 2020
+
+### District Judge Ng Peng Hong:
+
+## Introduction
+
+1       The Accused claimed trial to the following charges:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="23.46%"> <col width="76.54%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Charge no</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Details</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">DAC-942000-2017</p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">that you, on 17 November 2017 at about 9.18pm, along Bedok Reservoir Road near lamp post 130, Singapore, did voluntarily cause grievous hurt to Police Staff Sergeant Khairulanwar Bin Abd Kahar (“SSgt Khairul”), a public servant in the discharge of his duty as such public servant, to wit, by suddenly reversing your motor vehicle before accelerating quickly forward with SSgt Khairul hanging on the driver-side door and driving a distance of about 124m before shaking Ssgt Khairul off the vehicle, and causing SSgt Khairul to be unable to follow his ordinary pursuits for a span of more than 20 days, and you have thereby committed an offence punishable under s 333 of the Penal Code (Cap 224, 2008 Rev Ed).</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">DAC-942662-2017</p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">that you, on 17 November 2017 at about 9.18pm, along Bedok Reservoir Road near lamp post 130, Singapore, did drive a motor car bearing registration no. SLT6451U, when you were disqualified by the State Courts, Singapore, from holding or obtaining a driving licence for a period of nine months with effect from 4 July 2017 until 3 April 2018, and you have thereby committed an offence punishable under s 43(4) of the Road Traffic Act (Cap 276, 2004 Rev Ed) (“the RTA”).</p><p align="justify" class="Table-Para-1">And further that you, before the commission of the said offence, have on two previous occasion been convicted of the offence listed in s 67A(1) RTA as follows:</p><p align="justify" class="Table-Para-1">a) On 8 August 2001, in the District Court No. 21 <em>vide</em> DAC 27294/2001, you were convicted of an offence under s 64(1) of the Road Traffic Act (Cap 276, 1997 Rev Ed) (“the 1997 RTA”) and sentenced to $2,000 fine and disqualification from holding or obtaining all classes of driving licenses for a period of 18 months; and</p><p align="justify" class="Table-Para-1">b) On 29 November 2001, in the District Court No. 21 <em>vide</em> DAC 44384/2011, convicted of an offence under s 43(4) of the 1997 RTA and punished with 2 months’ imprisonment and disqualification from holding or obtaining all classes of driving licences for a period of 10 years, which the convictions and sentences have not been set aside, and you are liable for enhanced punishment under s 67A(1) of the RTA.</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">DAC-946705-2017</p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">that you, on 17 November 2017 at about 9.18pm, along Bedok Reservoir Road near lamp post 130, Singapore, did drive a motor car bearing registration no. SLT6451U, whilst there was not in force in relation to the user of the said vehicle, such a policy of insurance or such a security in respect of third-party risks as complies with the requirements of the Motor Vehicles (Third-Party Risks &amp; Compensation) Act (Cap 189, 2000 Rev Ed), and you have thereby contravened Section 3(1) of the Act, which contravention is punishable under Section 3(2) and Section 3(3) of the Act.</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">DAC-946706-2017</p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">that you, on 17 November 2017 at about 9.18pm, along Bedok Reservoir Road near lamp post 130, Singapore, being a driver of a motor car bearing registration no. SLT6451U, did fail to wear a body-restraining seat belt or lap belt and you have thereby contravened Rule 4(1) of the Road Traffic (Motor Vehicles, Wearing of Seat Belts) Rule 2011 (GN No 688/2011) which contravention is an offence punishable under Rule 10 of the said Rules.</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">DAC-946707-2017</p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">that you, on 17 November 2017 at about 9.18pm, along Bedok Reservoir Road near lamp post 130, Singapore, being a driver of a motor car bearing registration no. SLT6451U, did fail to stop when ordered by a police officer in uniform, and you have thereby committed an offence under s 127(5) of the Road Traffic Act (Cap 276, 2004 Rev Ed) and punishable under s 131(2) of the said Act.</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">DAC-946708-2017</p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">that you, on 17 November 2017 at about 9.18pm, along Bedok Reservoir Road near lamp post 130, Singapore, being a driver of a motor car bearing registration no. SLT6451U which was involved in a traffic accident, did fail to stop after the accident to provide your particulars, and you have contravened s 84(1) and thereby committed an offence under s 84(7) which is punishable under s 131(2) of the Road Traffic Act (Cap 276, 2004 Rev Ed).</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">DAC-946709-2017</p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">that you, on 17 November 2017 at about 9.18pm, along Bedok Reservoir Road near lamp post 130, Singapore, being a driver of a motor car bearing registration no. SLT6451U which was involved in a traffic accident, did fail to render such assistance as was reasonable in your power to render, and you have contravened s 84(3) and thereby committed and offence under s 84(7) which is punishable under 84(8) and 84(9) of the Road Traffic Act (Cap 276, 2004 Rev Ed).</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">DAC-946710-2017</p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">that you, on 17 November 2017 at about 9.18pm, along Bedok Reservoir Road near lamp post 130, Singapore, being a driver of a motor car bearing registration no. SLT6451U which was involved in a traffic accident, did remove the said vehicle without the authority of a police officer, and you have contravened s 84(4) and thereby committed an offence under s 84(7) which is punishable s 131(2) of the Road Traffic Act (Cap 276, 2004 Rev Ed).</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">MAC-913387-2017</p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">that you, on 17 November 2017 at about 9.18pm, did drive a motor car bearing registration no. SLT6451U, in a manner so rash as to endanger human life, to wit, by failing to conform to the traffic red light signal along the junction of Bedok Reservoir Road and Eunos Link; overtaking vehicles without any signal, travelling against the flow of traffic and encroaching into the path of a cyclist on the opposite direction along Haig Road towards Geylang Road; overtaking vehicles without any signal, going against the flow of traffic and failing to conform to the traffic red light signal and thus causing an unknown motor car that was turning left into Haig Road to brake and give way in order to avoid a collision at the junction of Haig Road and Geyland Road, and you have thereby committed an offence punishable under s 279 of the Penal Code (Cap 224, 2008 Rev Ed).</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">MAC-913388-2017</p></td><td align="left" class="" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">that you, on 17 November 2017 between 9.40pm and 11.00pm, in Singapore, did intentionally obstruct the course of justice in relation to offences you had committed on 17 November 2017, at about 9.18 along Bedok Reservoir Road near lamp post 130, to wit, by abandoning your motor car bearing registration no. SLT6451U along Willow Avenue, Singapore, and thereafter throwing a white T-shirt down the rubbish chute of the unit of Blk 66 Kallang Bahru Unit #XXX, Singapore, and you have thereby committed an offence punishable under s 204A of the Penal Code (Cap 224, 2008 Rev Ed).</p></td></tr></tbody></table>
+
+  
+  
+
+2       At the conclusion of the trial, the Accused was found guilty and convicted of the said charges. The Accused is appealing against the conviction and sentence.
+
+## The Defence
+
+3       The case for the Defence was that the Prosecution witnesses had wrongly identified the Accused as the driver of the Maserati car bearing registration number SLT6451U (“the car”). The Accused claimed that he was not the driver at the material time. He alleged that at the material time, he had lent his car to his friend known as “Kelvin”. He was unable to provide the full particulars of “Kelvin”.
+
+## Undisputed Facts
+
+4       On 17 November 2017, the Accused was the registered owner of the car bearing registration number SLT6451U, a white Maserati as at 9 November 2017. See exhibit P11. The Accused’s address was block 142, Potong Pasir Avenue 3 #XXX, Singapore 350142 (“unit”).
+
+5       The Accused was disqualified from driving all classes of vehicles for 9 months from 4 July 2017 to 3 April 2018. See exhibit P10.
+
+6       It was also not in dispute that the Accused was arrested at the premises of one Jeff Chan Sheng Wei (PW5).
+
+7       The defence did not challenge exhibit P20 consisting of the compilation of 8 video clips which showed the chronology of events on the night of 17 November 2017.
+
+## Case for the Prosecution
+
+8       The Prosecution called 11 witnesses.
+
+#### Evidence of Tay Boon Chong
+
+9       PW1 Tay Boon Chong (“PW1”) testified that on 17 November 2017, he was driving along Bedok Reservoir Road and saw the Traffic Police officer (PW2) spoke to the car’s driver. The lighting condition along the road was not dark. He could see clearly. He noted the car’s window was wound down. This was consistent with the video footage played in court. He saw the driver was wearing a white shirt. However, PW1 could not recognise the driver.
+
+10     PW1’s vehicle had an in-vehicle camera. The relevant recording from this camera was surrendered to the relevant authority. See exhibits P23, P24 and P25. The SD card was admitted and marked as exhibit P34.
+
+11     PW1 also testified that he saw PW2 grabbing onto the car’s window and was dragged for a distance by the car.
+
+#### Evidence of SSGT Khairulanwar Bin Abdul Kahar
+
+12     PW2 SSGT Khairulanwar Bin Abdul Kahar (“PW2”) was the traffic police officer who had stopped the driver of the car on that day for not wearing a seat belt while driving along Bedok Reservoir Road. PW2 was riding a police motorcycle. He saw the driver of the car was wearing a white coloured T-shirt. Both the windows of the car were down.
+
+13     PW2 signalled to the driver to stop his car. PW2 dismounted from his motorcycle which was parked in front of the car and approached the driver. From a stationary position, the driver reversed his car, then drove forward towards PW2, and hit onto him causing his left arm to get into the window. At the same time, the driver of the car accelerated at a fast speed and swerved causing PW2’s hand to be caught by the car’s seat belt. PW2 shouted at the driver to stop. But the driver proceeded to drive and drag PW2 along for about 100m before he fell onto the road. The driver did not stop but sped off.
+
+14     PW2 candidly admitted that he was unable to identify the driver due to the state of trauma he was in and that the event happened too fast.
+
+15     PW2 was admitted to hospital and was given medical leave for 21 days. He sustained injuries and experienced pain. As a result, he was downgraded in his job.
+
+#### Evidence of Yan Jun Feng
+
+16     On 17 November 2017, PW3 Yan Jun Feng (“PW3”) was travelling along Bedok Reservoir Road as a pillion rider on a motorcycle ridden by Bryan Ong (PW4). He saw PW2 and the car. When the traffic light turned green, the driver of the car sped off. He captured the incident in video mode with his mobile phone. The video footage was screened in court. See exhibits P26 and P27.
+
+17     PW3 called for the Police and at the same time, he followed the runaway car. He also continued using his mobile phone to record how and where the car was travelling along the various roads. The video footage showed the driver of the car failed to conform to the traffic red light signal at the junction of Bedok Reservoir Road and Eunos Link, overtaking vehicles without signal, travelling against the flow of traffic; encroaching onto the path of a cyclist on the opposite direction along Haig Road towards Geylang Road and causing an unknown motor car that was turning left into Haig Road to brake and give way in order to avoid a collision at the junction of Haig Road and Geylang Road.
+
+18     PW3 and PW4 were able to catch up with the car when it stopped due to the traffic at the junction of Aljunied Road and Macpherson Road. The traffic light was showing red. At this point, PW3 and PW4 came by the side of the car and knocked at the right-side window to indicate to the driver to stop. The window was wind up at that time. The driver of the car turned to look at PW3. The driver looked shocked. PW3 remembered that the driver was wearing a white polo T-shirt that day. He was shown photograph 2 in exhibit P14B – a white Adidas round neck T shirt (collar-less) with some red colours and PW3 said that he remembered it was a white collared T-shirt. The lighting condition was not dark.
+
+19     PW3 testified that the driver of the car was the Accused sitting in the dock. He was sure the driver was the Accused as this was the 4th time that he had seen him. The first time PW3 saw the Accused was on 17 November 2017 at Macpherson Road. The 2nd time was via the news. PW3 saw the Accused again at the police identification parade and the 4th time was in court during the trial
+
+20     PW3 also said that they followed the car until the Accused drove into Wan Tho Avenue where they lost sight of the car.
+
+21     During cross-examination, PW3 admitted that on the next day after the incident, he read about the case in the social media. He confirmed that he could see through the medium tinted window of the car at close range. He saw the driver/Accused for about 3-5 seconds. It was a “momentary look”. See Day 2 Transcript at lines 1-2 at page 35. At the same time, PW3 was also communicating with the police on his phone and was mindful of the traffic ahead.
+
+22     PW3 confirmed that before the identification parade he had seen the Accused’s face on the newspaper.
+
+23     I found PW3 was forthright in giving evidence. I found him to be a truthful witness. He admitted he had seen the pictures in the newspaper and social medial before the identification parade. He truthfully agreed that the picture he saw over the social media was helpful to him in identifying the Accused during the identification parade. He explained that the more times one saw the person, the more he will recognise the person. He was consistent in his testimony that he looked at the Accused within a metre range through a half-tinted window glass. When asked by counsel, he confidently disagreed with the question put by counsel that the Accused was not the driver of the car. I found no reason for PW3 to lie in court. His evidence was also consistent with PW4’s evidence.
+
+### Evidence of Bryan Ong Yongjian
+
+24     PW4 Bryan Ong Yongjian (“PW4”) was the rider of the motorcycle FBK6034G with PW3 as his pillion rider. His evidence corroborated PW3’s testimony.
+
+25     PW4 testified that when the car stopped, he rode his motorcycle beside it. Then PW3 dismounted from the bike, went over to the car, and knocked at the driver’s side door. When the traffic light turned green, PW3 and PW4 continued to pursue the car until Wan Tho Avenue where they lost sight of the car.
+
+26     PW4 agreed that he was focusing on the car and traffic condition. He merely took a glance at the driver when they were at Macpherson Road. PW4 confirmed that now he was unable to identify the driver of the car.
+
+#### Evidence of Chan Sheng Wei
+
+27     PW5 Chan Sheng Wei (“PW5”) also known as Jeff resided at block 66 Kallang Bahru unit #XXX on 17 November 2017. He was the hirer of a BMW car bearing registration number SKZ6148B (“BMW car”).
+
+28     PW5 was the Accused’s friend. He also knew the Accused as Alex Lee. He had been to the Accused’s house at block 142 Potong Pasir Avenue 3 unit #XXX before 17 November 2017.
+
+29     On 17 November 2017, PW5’s cell phone number was XXX.
+
+30     On 17 November 2017 at about 3pm, the Accused called PW5 to borrow his laptop. However, the laptop was on loan to his friend Larry Teo (“PW11”). PW5 told him to get it from his friend Larry Teo.
+
+31     On the same day at 9:47pm, Accused called him again. See exhibit P17. The Accused asked to go over to PW5’s place and sounded very nervous. The call lasted about 18 seconds.
+
+32     At about 10pm, 17 November 2017, the Accused arrived at PW5’s residence. His friend Jason (“PW6”) drove the Accused to PW5’s place. At PW5’s place, the Accused told him about the incident regarding the traffic police incident and running away from the scene. PW5 noted that the Accused was very nervous. He was wearing a white T-shirt and a boxer trouser. PW5 advised the Accused to surrender.
+
+33     The Police camera (POLCAM) installed at the area where the Accused’s unit was, recorded the image of the Accused. The POLCAM footage (exhibit P21) was screened in court. At timestamp 20:48:11 on the video clip, PW5 confirmed that the person shown was the Accused. PW5 also confirmed that the clothes worn by the Accused on 17 November 2017 were the same as when he came over to his place at Kallang Bahru – a white T-shirt and a boxer trouser. He also confirmed the location shown on the video footage was outside the Accused’s house at block 142, Potong Pasir Avenue 3.
+
+34     At about 11pm, PW5 drove the Accused in his BWM car to the Accused’s house. The Accused sat at the front passenger seat. When they were near the car park to the Accused’s house, PW5 noticed the presence of the Police. The Accused dare not proceed to go home and requested PW5 to drive him back to the latter’s house at Kallang Bahru. During the car’s ride, the Accused was noted to be talking to someone over the phone.
+
+35     On returning to PW5’s home, the Accused borrowed a new T-shirt and threw away the white T-shirt (identified as exhibit P30) that he wore, into the rubbish chute.
+
+36     On 18 November 2017 at about 1-2am, the Police came to PW5’s house. PW5 was shown the T-shirt (exhibit P30) recovered by the Police from the rubbish chute. PW5 confirmed it was the T-shirt previously wore and thrown away by the Accused.
+
+37     On 21 November 2017, PW5 was called to the police station for statement. The Police inspected his BWM car and found the Accused’s ignition key to his Maserati car. See exhibits P2 and P32. The said key was found in the front passenger seat’s side pocket of PW5’s BWM car. See photographs 4 and 5 of exhibit P14A. PW5 testified that the ignition key was left behind in the BWM car by the Accused when they were on the way to the Accused’s house that day (17 November 2017).
+
+38     During cross-examination, PW5 confirmed that he and Larry Teo were close friends. PW5 had known the Accused for a few years. But they were not as close as he had with Larry.
+
+39     PW5 candidly admitted that he was not happy with the Accused only after the Police impounded his BWM car. For this, he hated the Accused. PW5 was also upset. He agreed he was still not in good terms with the Accused.
+
+40     PW5 disagreed that the Accused had told him that on 17 November 2017, his friend one Kelvin drove his car. PW5 asserted that the Accused never said that. In fact, he did not know of this Kelvin and the Accused had not mentioned this Kelvin to him before. Despite repeatedly confronted that the Accused never said to him that he was the driver of the car involved in the incident, PW5 consistently answered that the Accused was the driver of the car involved in the said incident.
+
+41     PW5 testified that on 17 November 2017, at about 8-9pm, he and Larry Teo had a telephone conversation confirming that the laptop had been taken by the Accused.
+
+42     PW5 said that when the Police arrived at his flat both the Accused and Jason were present.
+
+#### Evidence of Ong Yong Sin
+
+43     PW6 Ong Yong Sin (“PW6”) also known as Jason was a friend of the Accused since 2006 or 2007. His name was also spelt as Wang YongXing. They were close friends. PW6 was even named as the only driver for the car in the insurance policy for the car. See exhibit P12. The Accused was the policyholder.
+
+44     On 17 November 2017, PW6’s cell phone number was XXX. On that day at about 9-10pm, the Accused called PW6 using the mobile app, WhatsApp. He asked PW6 to pick him up near Upper Serangoon Road. PW6 agreed .PW6 confirmed that exhibit P19 showed the pickup area that day. On arrival, the Accused was there alone. The Accused appeared normal. PW6 cannot remember what the attire of the Accused was. After picking up the Accused, they went somewhere near Geylang Bahru where the Accused alighted. There, PW6 did not see anyone else. PW6 then proceeded to meet his girlfriend. After that, he returned to the same location near the NTUC Fairprice to look for the Accused at Jeffery’s house. That was the first time PW6 went to Jeffery’s house. When he was at the house, the Police came.
+
+45     During cross-examination, PW6 said that he knew one Jeff Chan Sheng Wei. He confirmed that he did not stay at Jeff Chan’s place all the time. He said that when he went to the flat, he requested a cigarette to smoke. After that, he went off to meet his girlfriend. He also said that the Accused was calm when he saw him.
+
+46     During re-examination, PW clarified that he went to Jeff Chan’s house twice. The first time was when he dropped off the Accused, he also went up to Jeff Chan’s house where he took a cigarette from him and was there for about 5 minutes. Thereafter he left to meet his girlfriend at Seletar.
+
+#### Evidence of Ho Hwee Meng Jeffery
+
+47     PW7 Ho Hwee Meng Jeffery (“PW7”) was a friend of the Accused. PW7’s cell phone number was XXX.
+
+48     PW7 testified that on 17 November 2017 at about 11 plus pm, the Accused called him. PW7 was given his statement to refresh his memory. After that, PW7 was able to give a more detailed evidence. Accused told him that he went to pick up a laptop and while he was on his way home, a traffic police officer stopped him. He decided to abscond from the Police, as he was not in possession of a driving licence. The Accused drove all the way to Wan Tho area where he parked his car and left on foot.
+
+49     During cross-examination, PW7 disagreed that the Accused called him on 17 November 2017 to inform him that his friend drove his car and the Accused wanted his advice. PW7 also said that he could not have mistaken as to what the Accused had told him during the phone conversation.
+
+#### Evidence of Lee Rui Lin
+
+50     PW8 Lee Rui Lin (“PW8”) was a forensic scientist with the HSA. See exhibit P7. Based on the video footage that was provided to her and having taken measurement of the scene along Bedok Reservoir Road, PW8 “estimated the average speed of the car bearing licence plate SLT6451U to be 79km/h to 84 km/h as it travelled along Bedok Reservoir Road towards Eunos Link.” See exhibit P8.
+
+#### Evidence of Saleha Binte Mohamed Sani
+
+51     PW9 Saleha Binte Mohamed Sani (“PW9”) was a traffic police officer. She was holding the rank of Station Inspector on 17 November 2017. PW9 was the maker of the seizure report dated 21 November 2017. See exhibit P2.
+
+52     PW9 explained that exhibit P31 was a sketch plan of the accident scene with annotations such as where the Accused took the laptop, where he was stopped and where the incident took place. The measurements stated in P31 were based on the measurements taken on site. In particular, it stated the distance of 123.9m for which the victim was dragged by the car.
+
+53     Exhibit P21, the POLCAM video footage, showed the Accused going down the staircase landing on 17 November 2017 at 8:47pm from his unit. Exhibit P22 was a CCTV gantry camera record of the exit of the car park of block 142 Potong Pasir. The footage showed the Accused’s car exiting the car park at about 8:52pm on 17 November 2017.
+
+54     Exhibit P28 was a record of the CCTV footage obtained from a unit along Willow Avenue where the car was found abandoned. The footage captured the Accused exiting from the car after parking his vehicle and running away from the scene. PW9 explained that the timestamp on P28 was not accurate in that there was a time lapse. In any event, she confirmed P28 was reliable.
+
+55     A combination of the video clips showing from the time the Accused walked out of his house followed by the car exiting the carpark, the accident scene, the chase and finally to where the car was abandoned, was screened in court. See exhibit P20. It was a combination of the appropriate parts from the original video clips.
+
+56     Exhibit P30, was a white T-shirt recovered by the Police on the day the Accused was arrested on 18 November 2017 at about 1am plus, from the rubbish chute at block 66 Kallang Bahru, the block where Jeff Chan Sheng Wei (PW5) resided.
+
+57     Exhibit P33, a laptop, was recovered by the Police from the Accused’s car abandoned along Willow Avenue on 18 November 2017 at about 1:30am. P33 belonged to PW5 Jeff Chan.
+
+58     Exhibits P29, P30, P32 and P33 were obtained by PW9 during the course of investigation.
+
+59     PW9 also testified that during investigation, the Accused told her that one “Kelvin” had driven the car. Only this name was given without any surname. The Accused also provided her with a handphone number. When the police tried calling this number, they found that this number was not in use. The Accused was asked to produce this Kelvin. However, he was unable to do so. The Accused merely described this Kelvin as a male Chinese, 1.8m tall and slim built. Without much information, the Police was unable to follow up.
+
+60     PW9 confirmed that the window of the car was tinted.
+
+61     PW9 confirmed that Yan Junfeng (PW3) described the driver as a male Chinese and that he can identify the Accused as the driver. He did not describe the Accused as an old man to her. But in exhibit D1 which was an incident report produced by the Police operation room as reported by Yan Junfeng, it stated that the driver was a Chinese old man. PW9 explained that this was an inaccurate report. She clarified that the words “Driver is a Chinese old man” were written by Chan Jason from the Police operations room. PW9 has also verified with Yan Junfeng that he did not mention any old man.
+
+#### Evidence of Darshana Chandrakumara
+
+62     PW10 Dr Darshana Chandrakumara (“PW10”) was a doctor attached to the Changi General Hospital (‘CGH”). PW10 was referred to a medical report from CGH prepared by Dr Flor Johannierose Afiado dated 28 December 2017 (exhibit P3). He was also referred to the medical report prepared by him dated 28 August 2019 (exhibit P4). Both these reports were in respect of the injuries suffered by PW2.
+
+63     PW10 confirmed that Dr Flor has left CGH.
+
+64     PW2 was last seen at CGH on 28 August 2019. PW10 confirmed that as at August 2019, PW2 was still suffering from lower back pain sustained in 2017.
+
+65     Exhibit P5 were the medical certificates issued by CGH, certifying the number of hospitalisation leave issued to PW2. The total hospitalisation leave was 21 days.
+
+66     PW10 confirmed that the injuries suffered by PW2 were consistent with PW2’s left arm being stuck at the right-side window of the car when the car suddenly accelerated and caused him to be dragged by the car for several metres before he was freed.
+
+#### Evidence of Teo Hong Hock Larry
+
+67     PW11 Teo Hong Hock Larry (“PW11”) was a close friend of PW5 Jeff Chan Sheng Wei. He confirmed the laptop (exhibit P33) was borrowed from PW5 a few months before 17 November 2017. He took it from PW5 Jeff Chan’s place.
+
+68     On 17 November 2017 at about 7pm plus, PW5 called PW11 to pass the laptop to Alex who was identified to be the Accused. PW11 had met the Accused before during a few drinking sessions but did not really know him. PW11 arranged to meet the Accused to hand over the laptop at the roadside of block 609 Bedok Reservoir Road where PW11 stayed. At about 9 pm, PW11 passed the laptop to the Accused who was wearing a white T-shirt top and a brownish boxer short standing next to the white Maserati car along Bedok Reservoir Road. It was the same road where the incident involving PW2 and the car had happened except that it took place further down the road. He noted that there was no one in the car (identified to be the car as shown at exhibit P14 (A), photo 9). After collecting the laptop, the Accused then drove off towards the direction of Eunos Link.
+
+69     During the cross-examination, PW11 confirmed that after he had borrowed the laptop, it had not been returned to PW5. He insisted that on that day, only the Accused was present and there was no one else in the car. PW11 was very sure that he passed the laptop to the Accused on 17 November 2017. He was also insistent that he saw the Accused, after collecting the laptop, walked towards the car and drove off. He confirmed that PW5 had hatred for the Accused from the time he was called by the police for statements. PW11 himself was also upset with the Accused because of this case which wasted his time. To a certain extent, he also had hatred for the Accused. He clarified that he was not angry with the Accused when he passed the laptop to him. PW11 confirmed he saw the Accused’s picture over the social media and newspaper.
+
+## The Evidence of the Accused
+
+70     After the standard allocution was given, the Accused elected to give evidence on oath. He did not call any other witness. His defence was that he was not the driver of the car on that day.
+
+71     The Accused resided at block 142 Potong Pasir.
+
+72     The Accused claimed that on 17 November 2017 about 7pm, his friend Kelvin called to borrow the car from him. About 7 plus, the Accused went down to pass the key to Kelvin. After passing the key to Kelvin, the Accused went to the nearby coffee shop for dinner. He was alone having his dinner for about 1 hour. Thereafter he proceeded to PW5’s house by taxi. Before that, he was on the phone with Jason Ong Yong Sin (PW6).
+
+73     When the Accused was at the lift lobby of PW5’s house at block 66 Geylang Bahru, he claimed that he met PW6. They went to PW5’s house together.
+
+74     The Accused alleged that he reached PW5’s place around 9 plus. After about 10 minutes, PW6 left to pick up his girlfriend.
+
+75     While at PW5’s flat, the Accused claimed that at around 11pm, he received a call from his friend Ken who informed him that there was a video in the internet concerning his white Maserati being involved in a hit and run accident. The Accused then used his phone to search for the video clip and showed it to PW5 who advised him to go to the police. The Accused was worried as he claimed that Kelvin who had borrowed his car was also wearing a white T-shirt. PW5 then gave him a T-shirt to change to avoid any misunderstanding. The Accused did so and threw away his old T-shirt into the rubbish bin.
+
+76     The Accused also said he received a call from Jeffrey Ho Hwee Meng (PW7) and the Accused told him about what he saw on the internet and PW7 advised him to go to the Police. Thereafter, PW6 returned to PW5’s flat.
+
+77     The Accused also claimed that PW5’s mother called him and informed him that the Police was looking for him.
+
+78     The Accused claimed that PW6, PW5 and him were at PW5’s flat. He claimed that PW6 came with him.
+
+79     The Accused claimed that he had left his cell phone and laptop that he borrowed from PW5 in the car before lending it to Kelvin. He claimed that this might be the reason why the police went to PW5’s mother’s house to look for PW5.
+
+80     The Accused confirmed that Police did arrive at PW5’s flat.
+
+## Credibility of Accused
+
+81     I found the Accused to be an unreliable and not credit worthy witness. Accordingly, I did not believe his defence that he was not the driver at the material time. These were my reasons.
+
+82     The Accused claimed that on 17 November 2017, he lent his car to Kelvin whom he had met about 4-5 months ago. But he could not provide the last name of Kelvin or the address to the investigation officer despite the ample time he had before the trial. The Accused merely provided the name Kelvin and a handphone number to the Police. The phone number turned out to be “not in use”. He was not sure that the hand phone number provided was correct. He conceded that he did not know Kelvin very well. Despite this, the Accused nevertheless agreed to lend the car, which he had bought for $175,000 a few days ago, to Kelvin. His version was clearly not credible.
+
+83     I found it incredulous to believe the Accused when he said that he bought the car without seeing it or test-drove it. It was unbelievable bearing in mind the fact that the price of the car was $175,000.
+
+84     When asked “whose idea was it to throw away the T-shirt”, the Accused replied, “ I don’t remember”. See Day 5 Transcript at page 87 lines 20-23. Later he agreed that it was PW5 who offered him the T-shirt to change. The learned DPP then referred him to his police statement (P35) as follows:
+
+> “So let’s look at your statement again. It’s the same one. Let’s look at A17 and Q17. So the question was about why Ah ‘Fatt’---and Ah’ Fatt’ here refers to Jeff Chan, yes? Gave you advice to change your clothes. And then your response was that “I was the one who wanted a change of T-shirt as it was similar to the T-shirt ‘Kelvin’ was wearing. I was worried when my old friend called me around 1:00am to tell me about the accident, and told me to view it online.” And then it goes on to say, “He told me it was my new car, then I remembered it was quite similar to what ‘Kelvin’ was wearing when he borrowed the car from me. I was scared and worried, so I changed.” See Day 5 Transcript at page 88.
+
+85     In my view, the Accused’s evidence in court on whose idea it was to change his T-shirt was clearly inconsistent with his police statement, exhibit P35. See also Day 5 Transcript at page 62, lines 5-15 where the Accused said it was PW5 who asked him to change his T-shirt.
+
+86     Another inconsistency was the time which the Accused said to have left his house. He said it was about 7pm plus. However, the footage found in exhibit P20 showed that he was leaving the house at about 8:45pm.
+
+87     The Accused’s claim that he arrived at PW5’s place around 9pm was also inconsistent with the incoming call received by PW5 from the Accused. The time recorded in PW5’s phone call log was 9:47pm when the Accused asked to go to PW5’s house. See exhibit P17.
+
+88     I also found the Accused to be evasive in giving evidence. When shown exhibit P20 showing the Maserati car leaving the car park, he was asked whether it was his car. He said “maybe”. The CCTV footage (POLCAM) showed the Accused leaving the house at 8:45pm. At 8:52pm the car was seen leaving the car park. It was about 4-5minutes after he had left the house. He had also alleged that his friend Kelvin had borrowed his car at about 7pm plus. He explained that the time sequence he gave to the police was a mere rough estimation. See Day 5 Transcript at page 93, Lines 7-13. In my view, the Accused was clearly lying.
+
+89     When asked by the Police why his car key was found in PW5’s car, the Accused said he did not know how it ended up there. It might be a spare key of the Maserati. See exhibit P36, Q7A7. This was inconsistent with the Accused’s evidence that that he could have dropped the key while taking the laptop. I found the Accused was clearing making up evidence. He was clearly not a reliable witness.
+
+## My Findings
+
+90     I found that on 17 November 2017 at about 9:18pm, the Accused was driving the Maserati car bearing registration number SLT6451U along Bedok Reservoir Road. The Accused was identified by PW3 to be the driver. PW3’s testimony was also consistent with the video footage that was tendered in court. It captured the time when the Accused left his house to the time when the car was found abandoned along Willow Avenue. See exhibit P20. There was also other corroborative evidence indicating that the Accused was the owner of the car.
+
+91     The attire the Accused wore that day also fortified my finding. The Prosecution witnesses were able to identify that the colour of the Accused’s clothing was a white T-shirt. There was also the evidence of PW5 that he gave his T-shirt for the Accused to change and that the Accused threw his own T-shirt into the rubbish chute. The T-shirt was recovered by the police. See exhibit P30. The T-shirt matched the testimonies of the various prosecution witnesses, in particular PW5 and PW11. There was also no reason for the Accused to change his clothing if he was not the driver.
+
+92     I accepted the evidence of PW11 that the Accused came to his house at about 9-9:15pm to collect a laptop on 17 November 2017. PW11 had previously met the Accused in a social setting before this incident. Therefore, there was no possibility of any mistaken identification.
+
+93     PW11 met the Accused along Bedok Reservoir Road. This road was just a short distance from where the Accused was stopped by PW2. See exhibit P31, a sketch plan of the scene. There was also no dispute that the laptop (exhibit P33) was found in the Maserati car. PW11 identified the laptop to be the one that he had borrowed from PW5. This was another cogent evidence that the Accused was the driver of the car on that day. With respect, I rejected the submission that PW11 was untruthful and unreliable. I found the material aspect of PW11’s evidence was consistent with the other evidence adduced by the Prosecution. I also rejected the submission that PW11 colluded with PW5. I found no reasonable basis for this. If there were any collusion, PW11 would have no hesitation to testify that he saw the Accused driving away the car. However, he was candid to admit that he only heard the engine sound and that there was no one else in the car when he met the Accused. I found PW11 to be a truthful witness.
+
+94     The Accused agreed with the DPP that the video footage showing the victim being dragged by the driver of the Maserati car was shocking and despicable. The Accused agreed that P23 showed PW2 standing next to the driver’s door with the car window wound down.
+
+95     Having seen the video footage (P23) and heard the evidence, I found that when the victim (PW2) was near to the driver’s car door, the car reversed, swerved to the right and accelerated forward, and the victim’s left elbow guard was caught by the car. The victim was dragged along with the car and was shouting at the driver to stop. Nevertheless, the driver did not stop, and the victim was dragged for a substantial distance (about 124m) before he fell off the car and onto the road. Despite this, the driver continued to drive off.
+
+96     Based on exhibit P27, I found that the driver of the car drove in a rash manner by driving against the flow of traffic, failing to conform to the traffic red light, causing a black vehicle to brake to avoid a collision. I have no doubt at all that the Accused was the driver.
+
+97     It was not in dispute that in November 2017 when the Accused bought the car, he was under a court ordered driving disqualification for 9 months from 4 July 2017 to 3 April 2018. That being the case, it would probably account for the reason why the Accused was running away from PW2. It was also consistent with the testimony of PW5 that the Accused said that the was running away from the accident scene.
+
+98     I also found that after the car was abandoned along Willow Avenue, the person that came out of the car was the Accused. This was fortified by the clothing he was wearing that day – a white T-shirt and boxer as testified by the prosecution witnesses. Moreover, the place where the car was found was near where Yan Jung Feng (PW3) said they lost sight of the car after tailing it for a distance. It was near where Jason Ong Yong San (PW6) said he picked up the Accused that night and brought him to PW5’s house. The timing the Accused called PW5 was recorded to be at 9:47pm, which was consistent with the time sequence as presented in evidence by the Prosecution.
+
+99     I accepted PW5’s evidence that the Accused was at his place at around 10 plus. I found PW5 to be an honest and credible witness. He candidly admitted he hated the Accused because of the inconvenience caused to him. The police impounded his BMW car because of this case. Before that, they were friends. He admitted he was trying to help the Accused that night by offering him his T-shirt and driving him back but had to turn back because of the presence of the Police. I rejected the allegation that PW5was not telling the truth. In fact, his evidence was consistent with the evidence given by the other the Prosecution witnesses, in particular, PW11.
+
+100    PW5 testified that that Accused admitted that he was involved in the incident concerning PW2. This was consistent with the evidence given by Jeffery Ho Hwee Meng (PW7) who testified that the Accused mentioned that the traffic police had stopped him, but he drove away before abandoning the car near Wan Tho area. I found there was no good reason for PW7 to lie in court. The fact that PW7 had to refresh his memory with the aid of his statement to the police did not render his evidence to be unreliable as submitted by the defence. On the contrary, as his statement was made on 20 November 2017 and by referring to it, his evidence will be more credible and reliable as his statement was made soon after the event. In any event, section 161 Evidence Act allowed him to refresh his memory by reference to his previous statement.
+
+101    I believed the evidence of PW5 that he drove the Accused back to his home in PW5’s car with the Accused sitting in the front passenger seat. However, because of the presence of the police near the Accused’s house, PW5 drove back. After the police had found the car’s key in PW5’s car, the Accused admitted to PW5 that he had left the car key in the front passenger seat. When this version was stated to the Accused in court, the Accused did not answer but was noted to be clearing his throat. See Day 5 Transcript at page 103, lines 1-11.
+
+102    The inconsistences in the Prosecution’s case against the Accused were minor and did not detract from the conclusion that he was the driver of the car.
+
+## Submissions by the Defence
+
+103    Counsel submitted that the elements of the charge under section 333 Penal Code were not made out. The elements were (a) voluntarily causing (b) grievous hurt (c) public servant and (d) in the discharge of his duty as such public servant.
+
+104    To prove the element of voluntarily causing hurt, counsel contended that the Prosecution “must show that an accused person had either intended or had known that his actions were likely to cause some other form of grievous hurt”. It was submitted that PW2 had lunged at the car. Counsel added that the Accused in this case could not have intended or known that his action would cause grievous hurt to PW2. See \[17\] of the written submissions. With due respect, I disagreed.
+
+105    I rejected the contention that PW2 had lunged at the car. PW2 also disagreed that he had lunged on the car when cross-examined by the Defence. There was no reason for me to doubt PW2’s evidence that he did not lunge forward towards the car. In any event, his evidence was also corroborated by the video footage.
+
+106    I was of the view that between the timestamp 0:01:32 to 0:01:33 of exhibit P20, the car can be seen swerving towards PW2. Thereafter the relevant footage in P20 showed that PW2’s left arm was inside the car through the driver’s side window and thereafter PW2 was dragged for a distance before he had a violent fall resulting in the injuries he sustained. See exhibit P3 for the details of the injuries. The injuries were consistent with the history given by PW2 to the doctor. It was not disputed that PW2 was issued with medical leave from 18 November 2017 to 8 December 2017. See exhibit P5. PW10 also testified that as at August 2019, PW2 was still suffering from lower back pain.
+
+107    It was not disputed that PW2 was wearing his uniform at the material and was stopping the Accused for not wearing a seat belt.
+
+108    I found that the Accused intended or knew that his action was likely to cause grievous hurt to PW2. The Accused knew of the presence of PW2 next to his car when he swerved his car into him. This was supported by the video footage in P20. Next, the Accused clearly knew that PW2 was being dragged along by the car as PW2 was at the side of his car and was shouting at him to stop. Despite these, the Accused persisted to drive on at high speed estimated to be between 79-84 km/h for a considerable distance of about 124m. In these circumstances, I found that the Accused clearly knew that his action was likely to cause grievous hurt to PW2. The Accused himself had also conceded that in such a scenario, the driver would know that the victim would suffer serious injuries from the fall. See Day 5 Transcript at page 72, lines 9-25.
+
+109    In the circumstances together with my finding that the Accused was the driver of the Maserati car bearing registration number SLT6451U, I found the Prosecution has proven beyond any reasonable doubt the charge under section 333 Penal Code (DAC942000/2017).
+
+110    Counsel also submitted that the identification evidence given by PW3 was unreliable. In support of the contention, counsel relied on the FIR (exhibit D1) which stated that the driver to be a Chinese old man. With respect, I rejected the contention by counsel. PW9 has explained that the entry in D1 was recorded by one Jason Chan from the police operation room. PW9 clarified that PW3 did not mention that the driver was an old man. See Day 4 Transcript at page 39 lines 1-14. In any event, as highlighted by the Prosecution, there were other significant pieces of evidence that corroborated PW3’s evidence that the Accused was the driver of the car. These were summarized in the Prosecution’s written submissions and I can do no better than to reproduce the same below
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="9.34186837367474%"> <col width="46.7293458691738%"> <col width="43.9287857571514%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>S/N</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Material Fact</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Evidence</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">1.</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Accused drove the Maserati on 17 Nov 2017 to meet PW11 at about 9 to 915pm along Bedok Reservoir Road to collect PW5’s laptop from PW11.</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Supported by PW5, PW11, Exhibits P21 and P22 and the fact that the laptop (Exhibit P33) was found by the police in the Maserati when the Maserati was seized.</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">2.</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">The Maserati was involved in the dragging of PW2 along Bedok Reservoir Road shortly after the accused met PW11.</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Supported by PW1, PW2, and Exhibit P23.</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">3.</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">The Maserati did not stop after the incident with PW2 and was also involved in rash driving</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Supported by PW3, PW4, and Exhibit P27.</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">4.</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">The Maserati was abandoned near Wan Tho Avenue by a man wearing a white shirt.</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Supported by PW3, PW4, PW9 and Exhibit P28.</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">5.</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">PW6 picked the accused up near where the Maserati was abandoned.</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Supported by PW6 and PW5</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">6.</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">The Driver of the Maserati was wearing a white shirt.</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">PW1 and PW2.</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">7.</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">The accused was seen to also have been wearing a white shirt.</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Exhibit P21, the evidence of PW5, and Exhibit P30 recovered by the police from the rubbish chute of PW5’s flat.</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">8.</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">The accused told PW5 and PW7 that he was involved in an incident with a Traffic Police officer and he fled from the scene.</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">PW5 and PW7 and Exhibit P28.</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">9.</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">The key to Maserati was found in PW5’s car.</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Consistent with PW5’s testimony that the accused rode in his car after the incident.</p></td></tr></tbody></table>
+
+  
+  
+
+111    As to the error in the time stamp of exhibit P28, PW9 explained that the timestamp from P28 was not accurate in that there was a time lapse. In any event, she confirmed P28 was reliable. The scenario captured in P28 was also consistent with the testimony of PW3 that they lost sight of the car around Wan Tho Avenue, which was very close to where the car was abandoned. Moreover, the Accused was picked up by PW6 near the area. See exhibit P19.
+
+## The other charges
+
+112    Having found the Accused to be the driver of the car, and based on the evidence adduced in court, including the video footage, I was satisfied beyond reasonable doubt that the Accused was guilty of the other 9 charges. The Defence had not raised any reasonable doubt to these other 9 charges. These 9 charges were driving whilst under disqualification (DAC942662/2017), driving without insurance (DAC946705/2017), rash driving (MAC913387/2017), failure to wear seat belt (DAC946706/2017), failure to stop when ordered by police in uniform (DAC946707/2017), failure to stop and provide particulars (DAC946708/2017), failure to render assistance (DAC946709/2017), removing vehicle after accident (DAC946710/2017) and obstructing the course of justice (MAC913388/2017). I will only elaborate on the charges in DAC942662/2017, MAC913388/2017 and DAC946705/2017 as the Defence did not seriously challenge the other charges.
+
+113    In respect of DAC942662/2017, I had regard to the case of _Muhammad Saiful bin Ismail v PP_ <span class="citation">\[2014\] 2 SLR 1028</span> at \[23\] and \[25\], where the High Court held that section 43(4) of the Road Traffic Act (‘RTA’) created a singly strict liability offence of driving under disqualification. To make out the offence, it was necessary to prove only that the accused had driven under disqualification. Thus, to prove the RTA charge, the prosecution was required to prove beyond reasonable doubt that (a) the accused was subject to disqualification from driving at the material time, and (b) the accused had driven at the material time. As the RTA Charge carried enhanced punishment under section 67A of the Road Traffic Act of triple the punishment prescribed by section 43(4), the prosecution was also required to prove that the accused had committed two prior specified offences under the RTA. Accordingly, the Prosecution tendered exhibit P10 to prove the Accused’s previous driving disqualification and conviction. The Accused also did not dispute his previous driving disqualification and conviction. I also found, as stated above, that the Accused was driving the Maserati at the material time. He had driven the vehicle while there was a valid disqualification order made against him. I was therefore satisfied beyond reasonable doubt that the Accused was guilty and convicted him of this charge.
+
+114    In respect of the charge numbered as MAC913388/2017, it was not in dispute that the Accused did throw away his T-shirt into the rubbish chute at PW5’s place. It was clear that he did this to avoid detection by the authorities. I also had found that he had abandoned his car along Willow Avenue. This was done clearly to avoid being apprehended. In the circumstances. I found the Accused guilty and convicted him of the charge.
+
+115    Given that the Accused was under disqualification from driving all classes of motor vehicles at the material time, it follows that the Accused had been driving whilst there was no valid insurance policy against third party risks in respect of his use of the vehicle. Thus, the charge numbered as DAC946705/2017 was made out beyond a reasonable doubt. Accordingly, I found the Accused guilty and convicted him on the said charge.
+
+116    In the circumstances, the Accused was found guilty and convicted on all the 10 charges.
+
+## Antecedents
+
+117    The Accused was traced for a series of related offences. A summary of his key antecedents was set out in the Prosecution’s written submissions and is reproduced below:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="9.84%"> <col width="23.24%"> <col width="38%"> <col width="28.92%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>S/No.</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Date</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Offence</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Sentence</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">1</p></td><td align="left" class="br" rowspan="5" valign="top"><p align="justify" class="Table-Para-1">08/08/2001</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">3 counts x Permitting an under aged person to drive a motor vehicle under s 62(5) RTA</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">$500 fine per charge</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">2</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>4 counts x Permitting the use of a motor vehicle without insurance under s 3(1) MVA</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>$500 fine per charge and</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">3</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Dangerous driving under s 64(1) RTA</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>$2,000 fine and 18 months’ DQAC</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">4</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Driving without licence under s 35(1) RTA</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">$500 fine</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">5</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Speeding under s 63(4) RTA</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">$500 fine</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">6</p></td><td align="left" class="br" rowspan="4" valign="top"><p align="justify" class="Table-Para-1">29/11/2001</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Driving whilst under disqualification under s 43(4) RTA</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>2 months’ imprisonment and 10 years’ DQAC</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">7</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Permitting the use of a motor vehicle without insurance under s 3(1) MVA</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>$1,000 fine and 60 months’ DQAC</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">8</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Taking a motor vehicle without owner’s consent under s 96(1) RTA</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">$500 fine</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">9</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Permitting an under aged person to drive a motor vehicle under s 62(5) RTA</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">$500 fine</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">10</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">15/10/2014</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">2 counts x Illegal modification of exhaust system under s 5(6) RTA</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">$600 fine per charge</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">11</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">13/07/2015</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">3 counts x Illegal modification of exhaust system under s 5(6) RTA</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">$700 fine per charge</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">12</p></td><td align="left" class="br" rowspan="3" valign="top"><p align="justify" class="Table-Para-1">04/07/2017</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Causing hurt by a negligent act under s 337(b) Penal Code</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>$2,500 fine and 9 months’ DQAC</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">13</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Driving without due care and attention under s 65(a) RTA</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>$1,000 fine</b></p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">14</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">2 count x Illegal modification of exhaust system under s 5(7) RTA</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">$5,000 fine per charge and detention of vehicle for 3 months’ under s 5(7A) RTA</p></td></tr></tbody></table>
+
+  
+  
+
+118    The antecedents show that the Accused was convicted of a series of traffic offences including reckless or dangerous driving and speeding. In July 2017, the Accused was convicted of an offence under section 337(b) Penal Code for causing hurt by negligent driving and was fined $2,500 and given a 9-month period of driving disqualification.
+
+## Mitigation
+
+119    Counsel has submitted a written mitigation. Among other things, counsel highlighted the Accused’s personal background including the challenges faced by the Accused in respect of his brother, his parents and his own family. With respect, I was of the view that these were not exceptional and were of little or no mitigating value.
+
+120    The Accused was said to have been diagnosed with adjustment disorder with anxious and depressed mood, gambling disorder and alcohol use disorder. There was no indication that such conditions had any causal link to his offending behaviour. Accordingly, I did not consider it as a mitigating factor.
+
+121    Counsel highlighted that the Accused’s well-being and reputation had been affected by the extensive news and social media coverage of the case. With respect, this by itself did not warrant any discount in sentencing.
+
+122    It was also submitted that the Accused had suffered financial loss because of the seizure of the Accused’s Maserati. I was of the view that this was a consequence of the Accused’s offending behaviour and I gave little consideration in assessing the sentence.
+
+123    Counsel also reminded the court that the Accused should not be penalised for exercising his right to claim trial.
+
+## Submissions on sentence
+
+124    The Prosecution submitted for a global imprisonment term of 4 years 9 months and disqualification from driving all classes of vehicles (DQAC) for life.
+
+125    The Defence on the other hand, submitted for a global custodial sentence of not more than 24 months’ imprisonment, a high fine and an appropriate but not excessive period of DQAC.
+
+## Decision on Sentence
+
+126    I will first proceed to examine the general sentencing factors.
+
+127    Given the circumstances of the case, the gravity of the offences and the Accused’s antecedents, I was of the view that the main sentencing considerations must be one of retribution and deterrence (general and specific). “Sentencing serves the purpose of enforcing and maintaining the values of our community as expressed in the criminal law. It was necessary therefore that the sentences reflected the abhorrence which right-minded members of the public would have for the \[Accused’s\] conduct.” See _Public Prosecutor v Azlin binte Arujunah and Ridzuan bin Mega Abdul Rahman_ <span class="citation">\[2020\] SGHC 168</span> at \[177\]. In the present case, it was for the protection of a traffic police officer in the discharge of his duty and to prevent any undesirable consequences to the society at large in particular to prevent errant drivers on the roads and to minimise any danger to road users.
+
+128    The Accused was not a first-time offender. I noted that he had a series of traffic related antecedents. The most recent conviction was in 2017 when the Accused was given a fine and a DQAC for a period of 9 months.
+
+129    I accepted the Prosecution’s submission that the Accused has demonstrated no remorse. “The accused here demonstrated a complete lack of remorse by putting forward an unmeritorious defence despite the overwhelming evidence against him. In the words of the High Court in _Trade Facilities Pte Ltd v PP_ <span class="citation">\[1995\] 2 SLR(R) 7</span> at \[116\], the accused has ‘all but spun an entire fairy tale in court’, and this is a relevant consideration when sentencing him.” See \[14\] of the Prosecution’s submissions. I have already found that there were overwhelming evidence, both in terms of the oral evidence and documentary evidence, supporting the charges against the Accused. The Accused, on the other hand, relied on a fictitious defence and an afterthought.
+
+### Section 333 Penal Code offence
+
+130    In respect of the offence of voluntarily causing grievous hurt to public servant under section 333 Penal Code, I agreed with the Prosecution that the sentencing framework laid down in _PP v Yeo Ek Boon Jeffrey and another matter_ <span class="citation">\[2018\] 3 SLR 1080</span> _(“Jeffrey Yeo”)_ can be adapted for application in the present case. I accepted the Prosecution’s adapted framework set out in the written submissions at \[10\]. I was mindful that _Jeffrey Yeo’s case_ involved a section 332 Penal Code offence which prescribes a maximum imprisonment term of up to 7 years, or with fine or with caning or with any such combination of punishments. In the present case, the offence carries an imprisonment term up to 15 years and also liable to fine or caning. Nevertheless, the principles underlying the sentencing regime should be equally applicable to section 333 Penal Code cases as in both instances it involved causing hurt to public servants. See _PP v GCA_ <span class="citation">\[2019\] SGDC 28</span> at \[22\] (“_GCA_”). I am also aware that sentencing frameworks or benchmarks act as mere guiding principles and not to be applied rigidly. Ultimately, the facts and circumstances of each case were of paramount importance in determining the appropriate sentence. See _Dinesh Singh Bhati s/o Amarjeet Singh v PP_ <span class="citation">\[2005\] SGHC 63</span> at \[24\].
+
+131    I was of the view that the present case fell into the category of lesser harm and higher culpability. I noted that the victim was given 21 days of hospitalisation leave. Because of the injury he suffered, he continued to feel pain on his lower back when he carried heavy loads. I also noted that he can longer perform all his police duties and causing him to be downgraded.
+
+132    In determining the level of culpability, I considered the fact that the Accused had driven his car for a considerable distance of about 124m at a high speed of between 79 to 84 km/h and dragged the victim along despite being asked to stop.
+
+133    The fact that the victim was dragged by the Maserati due to the victim’s jacket being caught in the seat and seat belt area did not lessen the Accused’s culpability. I found that he Accused was aware that the victim was being dragged but he chose not to stop.
+
+134    Next, I agreed with the Prosecution that the “gravity of the offence is also enhanced by the high level of potential harm.” I noted that the incident happened along a major road with light to moderate traffic. It was fortuitous that no harm was caused to other road users or more serious injury sustained by the victim.
+
+135    I have considered the sentencing precedents cited by the parties. I found the case of _GCA_ to be most relevant. In that case, the offender pleaded guilty to kicking the victim’s hand and caused him to suffer a soft tissue injury of his right thumb. The victim was given 21 days’ medical leave. The offender had some psychiatric condition causally linked to the offences committed. The offender was sentenced to 30 months’ imprisonment. On appeal, the sentence was reduced to 24 months’ imprisonment.
+
+136    The present case was more egregious. Here, the Accused did not plead guilty and there was no evidence of any remorse shown by the Accused. As highlighted by the Prosecution, the victim here was assessed to be unfit for certain police duties and had been plagued by pain long after the incident. The cause of the injury was due to the Accused using his car to drag the victim for some distance at a high speed along a major road.
+
+137    The Accused in the present case had a high level of culpability by deliberately manoeuvring his vehicle around the victim’s motorcycle and sped off knowing that the victim was caught on his vehicle. It was a calculated act to evade police arrest.
+
+138    The incident occurred in full view of the public along a major public road. Hence, it was more reprehensible. See _PP v Ong Chee Heng_ <span class="citation">\[2017\] 5 SLR 876</span> at \[45\].
+
+139    In the circumstances, I sentenced the Accused to 4 years’ imprisonment for the offence under section 333 of the Penal Code.
+
+140    The Defence referred to the case of _Public Prosecutor v Hayzal bin Mohamad Riduan_ <span class="citation">\[2019\] SGDC 122</span> where the offender was sentenced to 18 months’ imprisonment. I was of the view that this case, which involved pushing, punching and kicking, was clearly different from the facts of the present case where the Accused deliberately drove his car at high speed along a major road and dragged the victim along for a considerable distance.
+
+### Driving whilst under disqualification under section 43(4) RTA
+
+141    For the offence of driving whilst under disqualification, the Prosecution submitted for at least three months’ imprisonment and DQAC for life. I agreed. The DQAC for life was necessary for public protection and particularly for road users.
+
+142    Section 67A(1)(a) of the Road Traffic Act confers on the court the power to impose on repeat offenders a punishment in excess of the prescribed punishment for the offence under section 43(4) of the Road Traffic Act. The court is empowered to impose a punishment not exceeding three times the prescribed punishment for the offence (subject to a maximum of 10 years’ imprisonment) if satisfied, by reason of his previous convictions or his antecedents, that it is expedient for the protection of the public or with the view to the prevention of any further such offence.
+
+143    The Defence highlighted that the Accused committed the said section 43(4) offence when he was almost halfway through his 9 months’ disqualification order. Counsel also referred to the High Court case of _Fam Shey Yee v Public Prosecutor_ <span class="citation">\[2012\] 3 SLR 927</span> (“_Fam Shey Yee_”) in support of his contention that the usual sentencing tariff imposed for offences under section 43(4) of the RTA was 4-8 weeks’ imprisonment. However, unlike the present case, Fam Shey Yee’s case was not a case of a repeat offender liable for enhanced punishment. The case _of Public Prosecutor v Muhamad Syafiq bin Ab Aziz_ <span class="citation">\[2019\] SGDC 24</span> relied on by the Defence was also distinguishable in that in the present case, the Accused had previously been given a custodial sentence of 2 months’ imprisonment. Thereafter, the Accused continued to re-offend in a series of traffic related offences.
+
+144    I was of the view that the sentence the Accused received in the past did not seem to have deterred him from re-offending. The Accused was a persistent offender. The principle of escalation, as articulated in _PP v Low Ji Qing_ <span class="citation">\[2019\] 5 SLR 769</span> was clearly applicable. The Accused had shown a complete contempt for court-imposed prohibitions on driving. His criminal history and the facts of this case reflected the danger that he posed on the road and he should be banned from being in control of any vehicle for life. In this respect, I agreed with the Prosecution that the Accused was “clearly a menace on the roads”.
+
+145    The Accused’s criminal record showed that the Accused had his first conviction for traffic related offences in August 2001 when he was given a series of driving disqualification orders for varied periods, the longest of which was for 30 months. In November 2001, he was convicted for driving whist under a disqualification order and was sentenced to two months’ imprisonment and received an order of DQAC for 10 years. In July 2017, the Accused was convicted for various road traffic offences, including negligently causing hurt while driving a Maserati. He was fined $2,500 and given an order of DQAC for 9 months. The current offence was committed in November 2017, barely a few months after he was dealt with by the court in July 2017. Clearly, the Accused had chosen deliberately and persistently to disregard the court order on his driving disqualification.
+
+146    Accordingly, it was essential to calibrate a sentence that would adequately meet the need for specific deterrence, as the Accused has demonstrated disregard for the law and court orders and was a persistent offender. A long period of imprisonment and a lifetime period of disqualification would send a clear signal to the Accused not to ignore court orders again. It was also necessary, in the interests of general deterrence, to signal that the repeated disregard of disqualification orders meant for the protection of the public will not be treated lightly. The period of disqualification was ordered to take effect immediately.
+
+147    The Defence submitted for a sentence of “less than 3 months’ imprisonment” and highlighted that the usual tariff for disqualification was twice the previous disqualification order. With respect, considering the gravity of the offence committed and the fact that the Accused was previously sentenced to 2 months’ imprisonment and given a 10-year DQAC, a sentence of 3 months’ imprisonment and life-time DQAC was appropriate and proportionate. The life time DQAC was to give effect to the protective principle in view of his antecedents which reflected a significant danger that he posed on the roads and the circumstances of the case.
+
+### Rash driving under section 279 Penal Code
+
+148    For the offence under section 279 Penal Code, counsel submitted for a 2 months’ imprisonment. With respect, I disagreed, and the Accused was sentenced to 3 months’ imprisonment in view of his level of culpability. The offending behaviour was captured in the video footage. The footage showed clearly that the Accused drove his vehicle in a rash manner as to endanger human life by failing to conform to the traffic red light signal, overtaking without signal, driving against the flow of traffic, causing a black car to take evasive action to avoid collusion and almost collided into a cyclist. The distance covered by the Accused was long. It stretched from Bedok Reservoir Road to the junction of Haig Road and Geylang Road.
+
+149    The circumstances of the present case showed that the Accused’s manner of driving posed a significant danger to other road users in his attempt to evade apprehension. A sentence of 3 months’ imprisonment was therefore appropriate, and it was not far from the precedents cited by the parties.
+
+### Obstruction of justice under section 204A Penal Code
+
+150    In respect of the offence under section 204A Penal Code, the Accused was sentenced to 4 months’ imprisonment.
+
+151    In view of the circumstances and the nature of the offence, a general deterrence and retributive sentence were warranted.
+
+152    In _PP v Subramaniam Gopalan_ <span class="citation">\[2017\] SGDC 54</span> at \[32\] (“Subramaniam Gopalan”), the court held that custodial sentence ranging between six to seven months’ imprisonment was the norm for section 204A Penal Code offences that involved destruction of evidence.
+
+153    In determining the appropriate sentence, I took guidance from the case of _Yang Suan Piau Steven v PP_ <span class="citation">\[2013\] 1 SLR 809</span> _(“Steven Yang”)_. I noted that _Steven Yang’s case_ was in relation to the provision of false information to a customs officer which was an offence under section 129 (1)(c) of the Customs Act. But the case did make reference to cases relating to perverting the course of justice.
+
+154    I noted the underlying offences, which the Accused was trying to evade, were serious crimes, the most serious of which rendered the Accused liable to be punished with imprisonment term up to 15 years. The circumstances of the case also raised serious public policy consideration as it involved causing grievous hurt to a public servant. I also noted that police resources were expended to retrieve the T-shirt, which was thrown away, and the CCTV footage that captured the Accused abandoning his motor car along Willow Avenue. I accepted the Defence’s contention that the conduct was not persistent and there was no prolonged deception or wilful repeated contempt for law enforcement officers by lying to them. I also agreed that the offence was not premeditated.
+
+155    Given the gravity of the predicate offences to which the Accused tried to evade, his attempts to thwart police investigations and the Defence’s contention at \[154\] above, I was of the view that a jail term of 4 months was appropriate.
+
+### Other offences
+
+156    In respect of the offence under section 3(1) of the Motor Vehicles (Third Party Risks and Compensation) Act (“MVA”), the Accused had five prior convictions. His recent conviction under section 3(1) of the MVA was in 2001, when he was sentenced to the maximum fine of $1,000 and given 60 months’ DQAC. In my view, it was not appropriate as contended by the Defence for a fine to be imposed. In the circumstances, I sentenced the Accused to a jail term of 1 week and a 5-year DQAC order. The period of disqualification was to take effect from the date of conviction, pursuant to section 3(3) of the MVA.
+
+157    For the offences of failing to wear a seat belt (DAC946706/2017), failure to stop as ordered (DAC946707/2017), failure to stop after accident to provide particulars (DAC946708/2017) and render assistance (DAC946709/2017), and moving vehicle without authorisation (DAC946710/2017), I agreed that a fine would be appropriate. Accordingly, the Accused was sentenced to pay a fine of $500 for DAC946706/2017 and $800 for each of the other 4 offences (DAC946707-10/2017).
+
+## Consecutive Sentencing
+
+158    The Defence conceded that the “one transaction rule” is not an absolute rule.
+
+159    The sentences for the offences under section 333 of the Penal Code, section 43(4) RTA, and section 204A of the Penal Code were ordered to run consecutively as these offences involved different legally protected interests. See Mohamed _Shouffee bin Adam v PP_ <span class="citation">\[2014\] 2 SLR 998</span> (“_Shouffee_”) at \[31\]. I was of the view that ordering these sentences to run consecutively will give sufficient weight to the need for specific deterrence. The global sentence will therefore be an imprisonment term of 4 years 7 months and disqualification from driving all classes of vehicles for life. In addition, the Accused was also ordered to pay a fine of $3,700.
+
+160    In my view, the global sentence did not infringe the totality principle, as the aggregate sentence was necessary to reflect the gravity of the offences as well as the overall criminality of the Accused. It was not crushing or disproportionate.
+
+## Conclusion
+
+161    In summary the Accused was sentenced as follows:
+
+> 1)     DAC 942000/2017 - 4 years’ imprisonment;
+
+> 2)     DAC 942662/2017 - 3 months’ imprisonment and DQAC for life with effect from date of sentence;
+
+> 3)     DAC 946705/2017 - 1 week’s imprisonment and DQAC for 5 years from date of conviction;
+
+> 4)     DAC 946706/2017 - $500 in default 1 day’s imprisonment;
+
+> 5)     DAC 946707/2017 - $800 in default 2 days’ imprisonment;
+
+> 6)     DAC 946708/2017 - $800 in default 2 days’ imprisonment;
+
+> 7)     DAC 946709/2017 - $800 in default 2 days’ imprisonment;
+
+> 8)     DAC 946710/2017 - $800 in default 2 days’ imprisonment;
+
+> 9)     MAC 913387/2017 - 3 months’ imprisonment;
+
+> 10)     MAC 913388/2017 - 4 months’ imprisonment.
+
+162    The Accused is presently on bail pending appeal.
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F24993-SSP.xml)
