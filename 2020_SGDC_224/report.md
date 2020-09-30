@@ -1,0 +1,143 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Chee Kum Fai  
+
+### \[2020\] SGDC 224
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">District Arrest Case No. 943092 of 2018 &amp; Anor, Magistrate's Appeal No. 9692/2020/01</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">23 September 2020</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Eddy Tham Tong Kong</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Deputy Public Prosecutor Chong Kee En (Attorney-General's Chambers) for the Public Prosecutor; Defence Counsel K Jayakumar Naidu (M/s Jay Law Corporation) for the Accused</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Chee Kum Fai</td></tr></tbody></table>
+
+Criminal Procedure and Sentencing – Sentencing – Offender pleaded guilty to criminal breach of trust under section 406 of the Penal Code – Similar Antecedent
+
+\[LawNet Editorial Note: An appeal to this decision has been filed in MA 9692/2020/01.\]
+
+23 September 2020
+
+### District Judge Eddy Tham Tong Kong:
+
+## Introduction
+
+1       This is an appeal against sentence by the Accused. The Accused had claimed trial to two charges framed under section 408 of the Penal Code for criminal breach of trust as a servant. However, on the first day of trial, the Prosecution decided to reduce the charges to under section 406 of the Penal Code and to proceed on one charge provided the Accused pleads guilty.
+
+2       The Accused accepted the offer and pleaded guilty to one charge under section 406 of the Penal Code for criminal breach of trust with the remaining charge under section 406 of the Penal Code taken into consideration for the purpose of sentencing.
+
+3       I sentenced the Accused to 6 months’ imprisonment. Being dissatisfied with the sentence, the Accused had filed a notice of appeal against the sentence. The Accused applied for a stay of the sentence and I granted it. He is currently released on bail pending the hearing of the appeal.
+
+4       I now set out the grounds of my decision.
+
+## The charges
+
+5       The Accused pleaded guilty to the following charge:
+
+> _1st Charge - DAC 943092/2018_
+
+> “that you, between November 2014 to March 2015, in Singapore, being entrusted with property, _to wit_, the sum of S$19,920 belonging to De Curtains & Furnishing Pte Ltd(“De Curtains”), located at Kallang Pudding Rd, Singapore, which was given to you in your capacity as the Sales Manager of De Curtains, did commit criminal breach of trust by dishonestly misappropriating the said property, and you have thereby committed an offence punishable under section 406 of the Penal Code (Cap 224, 2008 Rev Ed).)”;
+
+6       The charge taken into consideration was similar in nature. The Accused was charged that he, between 14 January 2017 and 23 January 2017, whilst in his capacity as a Sales Executive of another company dealing with curtains, Meridian Curtains & Furnishing (“Meridian”), had committed criminal breach of trust of a sum of $6,020.
+
+## The Statement of Facts
+
+7       The Accused, Mr Chee Kum Fai is a 47-year-old Singaporean male. Between 2014 to 2015, the Accused was employed as a sales manager by De Curtains & Furnishings Pte Ltd (“De Curtains”).
+
+8       The complainant is Mr Low Boon Heng (“Mr Low”), the then-owner of De Curtains.
+
+## Facts relating to the 1st Charge (DAC-943092-2018)
+
+9       On 3 June 2015, Mr Low lodged a report at Nanyang Neighbourhood Police Centre. He reported that the Accused had not retuned S$19,920, which the Accused had collected from customers, to De Curtains from the period of December 2014 to March 2015.
+
+10     As part of the Accused’s employment at De Curtains as a sales manager, he was entrusted with monies which were paid by customers of De Curtains. The Accused was aware that once he collected these monies, he was supposed to hand them over to the administrative staff of De Curtains, or to bank them into the bank account of De Curtains.
+
+11     Between November 2014 to March 2015, the Accused collected cash payments originating from 40 customers amounting to S$19,920. He was entrusted with the said cash in his capacity as sales manager of De Curtains.
+
+12     However, instead of handing over the monies to the administrative staff of De Curtains or depositing it into the bank account, the Accused dishonestly misappropriated the entire sum of S$19,920. To date, the Accused has not made any restitution. In order to make up the sums to the customers who had been cheated, Mr Low completed the orders without receiving the monies. Due to the financial blow and loss of reputation arising from the incidents, Mr Low had to close De Curtains down a few months later.
+
+13     Sometime between July 2015 to March 2016, as investigations were ongoing, the Accused became uncontactable even though he was told to produce documents to the Investigation Officer. A Police Gazette was issued for his arrest and he was eventually apprehended at a road block stop on 10 March 2016.
+
+14     By virtue of the foregoing, the Accused has thereby committed criminal breach of trust by dishonestly misappropriating S$19,920, which was entrusted to him in his capacity as a sales manager employed by De Curtains, which is an offence under section 406 of the Penal Code (Cap 224, 2008 Rev Ed).
+
+## Antecedents
+
+15     The Accused has previous convictions. On 21 December 2009, he was convicted of an offence of criminal breach of trust under section 406 of the Penal Code and was sentenced to 4 months’ imprisonment.
+
+16     In 2017, he was convicted of a dissimilar offence of drink driving under section 67(1)(b) of the Road Traffic Act and was sentenced to a fine of $1300 and disqualified from driving for all classes of vehicles for a period of 12 months.
+
+## Prosecution’s submission on sentence
+
+17     The Prosecution did not submit on any length of sentence. Instead they highlighted the fact that the Accused had a similar antecedent in 2009. The Prosecution tendered the statement of facts for that case which disclosed that in 2006 whilst in his capacity as an employee of a company, he had collected a sum of $41,040 from various customers and committed criminal breach of trust of the said sum. He was sentenced to 4 months’ imprisonment for that offence.
+
+18     The Prosecution also highlighted that whilst the Accused had made full restitution of the sum of $6,020 to Meridian for the charge taken into consideration, he did not make any restitution to the victim in the proceeded charge. Further, the offence resulted in the victim suffering financial losses as well as a loss to his reputation which then led to the closing down of his business.
+
+## Mitigation
+
+### Personal circumstances
+
+19     In the written Mitigation plea, the Defence Counsel stated that the Accused is a father of a 20-year old son who is serving National Service. The Accused is the sole bread winner of the family and also helped to look after a disabled brother who is single and living alone.
+
+### Testimonial from Meridian
+
+20     The Defence Counsel highlighted that the Accused was a good worker in his next job with Meridian after he left the victim’s company. His current employer had written a letter emphasising the importance of the Accused to him in running the business as the manager in charge of 25 employees.
+
+### Submission on sentence based on precedent cases
+
+21     The Defence Counsel submitted for a sentence of 3 months’ imprisonment, based on 2 precedent cases.
+
+22     In _PP v Abdul Rashid bin Kassim_ <span class="citation">\[2006\] SGDC 179</span>, the offender had claimed trial for misappropriating a sum of $14,700 and was sentenced to 3 months’ imprisonment. No restitution was made by the offender. In contrast, the Accused in the present case had pleaded guilty and had made partial restitution.
+
+23     In _PP v Tan Hui Feng_ <span class="citation">\[2009\] SGDC 129</span>, the Defence Counsel highlighted that for an amount of $20,518.70, the Court sentenced the offender to 2 months’ imprisonment for an offence committed before her previous conviction and 6 months’ imprisonment for the offences committed after her previous conviction.
+
+24     The Defence Counsel highlighted the factors in _Tan Hui Feng_ that were more serious when compared to the present case:
+
+> i.     The offender faced more charges, a total of 9, with 3 proceeded upon whilst the Accused faced 2 charges, with one proceeded upon;
+
+> ii.     The offender’s previous conviction comprised 3 charges of criminal breach of trust whilst the Accused’s previous conviction consisted of just one charge;
+
+> iii.     The potential harm caused was greater in that the victims would not have been protected during the relevant period. The offender was an insurance agent who had misappropriated the premiums paid by the victims; and
+
+> iv.     The period of offending was much longer spanning 9 years whilst the Accused had committed the offence over a period of 3 months.
+
+## The Court’s Decision on Sentence
+
+### Sentencing Principle for criminal breach of trust
+
+25     The sentencing principle for criminal breach of trust would be that of general deterrence. In such cases, the starting point in terms of the severity of punishment would be the amount of monies misappropriated. As set out in the case of _Wong Kai Chuen Philip v PP_ <span class="citation">\[1990\] 2 SLR(R) 361</span>, “it is a matter of common sense that, all other things being equal, the larger the amount dishonestly misappropriated, the greater the culpability of the offender and the more severe the sentence of the court”.
+
+26     In this case, the amount is certainly a substantial amount, $19.920. The significance of this sum to the victim is evidenced by the admitted fact that the victim, after suffering this financial loss and having the reputation of the company adversely impacted, had to close down his business a few months later.
+
+27     I further note that the Accused made no restitution to the victim.
+
+28     Moreover, the Accused did not show any remorse for dishonest acts by repeating a similar offence in his new company, Meridian, in January 2017, less than 2 years after committing the offence in the proceeded charge, despite knowing he was under investigations for the earlier offence.
+
+29     The Accused also did not cooperate with the police after commencement of police investigations. When he was asked to produce documents to the police to assist with investigations, he promptly became uncontactable until he was arrested at a police road block.
+
+30     The other important factor would be that of the amount of trust reposed in the offender. The Accused was not just a mere employee, but was holding the position of a sales manager where he was entrusted with the collection of monies from the customers of his employer.
+
+31     In terms of duration of the offence, I accept that it was not for a very long period, 3 months. However, this factor is overridden by the fact that he had reoffended in his new company less than 2 years later.
+
+32     Specific deterrence would have to be given significant weight in the present case not just because of his reoffending in the charge taken into consideration but the fact of his previous conviction for a similar offence in 2009, which is about 6 years before his present offence. The Accused had served a sentence of 4 months’ imprisonment for misappropriating a larger amount of $41,040. Even though the amount misappropriated in the current offences is slightly more than half the amount, it shows that the Accused had clearly not learned from his previous incarceration and a longer sentence of imprisonment is warranted. Furthermore, the Accused had made restitution of $19000 for the previous conviction, thus in terms of the harm caused, it is about the same amount when compared to the present case: $22,000 versus $19,920.
+
+33     As for the mitigation, the most significant factor would be the amount of restitution made which would go towards alleviating the harm caused to the victim in respect of the charge taken into consideration and the plea of guilt.
+
+34     I did not attach much weight to the testimonial given by his employer Meridian even though he had committed the offence taken into consideration against them. At most, it shows that he has been found to be much valued for his contribution to the company and the company had forgiven his wrongdoing, presumably also because he has made full restitution. His good performance at work did not negate the fact that he had committed this dishonest act of criminal breach of trust for the 3rd time.
+
+35     As for the personal circumstances, he was not undergoing any extreme hardship. His son was already in National Service and hence would be receiving some allowance from serving the country. The only significant other mentioned whom he was supporting was a disabled brother who was living alone. These factors alone clearly do not carry much mitigatory weight.
+
+## The sentence
+
+36     The closest case in terms of amounts misappropriated cited by Defence would be the case of _Tan Hui Feng_ where a sum of about $20,000 was misappropriated. However, while there were aggravating features present in that case such as the fact that the victim was not protected by insurance during the relevant period, nonetheless no actual harm was caused as the offender had made full restitution. The offender similarly had previous conviction for criminal breach of trust but the previous offence was for a much smaller amount where she was sentenced to fines. Hence the sentence meted out to the offender which was a global sentence of 8 months’ imprisonment represented a very significant uplift compared with her previous sentence of a fine.
+
+37     In contrast, significant harm was caused to the victim in the present case. The victim had to close his business and no restitution was made by the Accused.
+
+38     In my view, had the Accused been a first offender, he would be looking at imprisonment in the length of at least 4 months’ imprisonment. I have taken reference of the starting point of 4 months from another case cited in the Sentencing Practice in the Subordinate Courts 3rd Ed. Vol 1 at page 782, PP v Yaw Kee Shen MA 49/2012/01 <span class="citation">\[2012\] SGDC 72</span>. There, the offender who was the condominium manager had in the course of his employment misappropriated in total $23,939. He made full restitution. He pleaded guilty to one charge with another charge taken into consideration. He has no previous convictions. His appeal against sentence of 4 months’ imprisonment was dismissed by the High Court.
+
+39     I also considered a case tendered by the Defence Counsel, _PP v Osi Maria Elenora Protacio_ <span class="citation">\[2016\] SGHC 78</span>. The offender was a receptionist at a dental clinic. Her job scope included collecting payments from customers and depositing the funds into the bank account. She pleaded guilty to one charge of under s 406 of the Penal Code for dishonest misappropriation of S$14,089.95 and another charge under the same provision for misappropriating a sum of $12,534.30 was taken into consideration for the purposes of sentencing. In total, a sum of $26,624.25 was misappropriated. Full restitution was made by the appellant. The offender clearly occupied a lower position of trust compared to the Accused. The total amount misappropriated is very close to the present case. Despite full restitution made, the High Court enhanced the sentence to 15 weeks’ imprisonment, which is very close to 4 months’ imprisonment.
+
+40     Taking into account the charge taken into consideration involving a misappropriated sum of $6,020, making the total sum misappropriated sum of about $26,000, I would give a slight uplift to the starting point of 4 months and impose imprisonment of four months and 2 weeks.
+
+41     However, given his previous conviction and sentence of 4 months, I have given a further uplift to the sentence, resulting in a sentence of 6 months’ imprisonment.
+
+## Conclusion
+
+42     Having looked at several cases with similar amounts misappropriated and taking into account the fact that the Accused had a similar previous conviction as well as the fact that the Accused had further committed the offence taken into consideration whilst being investigated for the proceeded charge, I found that there clearly ought to be an uplift in the sentence of imprisonment imposed for his previous conviction. Specific deterrence would be the dominant sentencing consideration applicable in this case.
+
+43     Accordingly, I had imposed a sentence of 6 months’ imprisonment.
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F25050-SSP.xml)
