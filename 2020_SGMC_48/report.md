@@ -1,0 +1,329 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Willet Ong Tat Kee  
+
+### \[2020\] SGMC 48
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Magistrate Arrest Case No MAC-901369-2018 and 4 Others, Magistrate's Appeal No 9437/2020/01</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">19 October 2020</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">Magistrates Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Kessler Soh</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Ms Goh Yi Ling and Mark Yeo (Attorney-General's Chambers) for the Public Prosecutor; T.M. Sinnadurai (Regent Law LLC) for the Accused.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Willet Ong Tat Kee</td></tr></tbody></table>
+
+Criminal Law – Offences – Penal Code – Outrage of modesty
+
+\[LawNet Editorial Note: An appeal to this decision has been filed in 9437/2020/01.\]
+
+19 October 2020
+
+### District Judge Kessler Soh:
+
+## Introduction
+
+1       Mr Willet Ong Tat Kee, aged 67 years, was a massage therapist. One of his patients was a 32-year-old woman (the “**victim**”). She sought treatment from the defendant for a back pain that she had been suffering for many years. She went to his home for treatment on four occasions between July and 30 November 2016. On each occasion, he gave her a full body massage. He applied a method of treatment that he claimed to have researched and developed, known as “Willet’s Zone Point Therapy” (“**ZPT**”). According to him, this treatment involved the massaging of the entire body, including the breast area and groin area. On the first three occasions that the victim sought treatment from him, in the course of the massage, he pressed on her nipples and pubic bone. On the fourth occasion, he pressed her nipples and _urethra_. The victim felt upset and angry, and she subsequently lodged a police report against him.
+
+2       Following investigations by the police, the defendant was charged with four counts of outraging the modesty of the victim. He claimed trial to the charges. At the conclusion of the trial he was found guilty and convicted on the four charges. He subsequently pleaded guilty to a charge of using his home as a massage establishment without a licence. On 18 June 2020, he was sentenced to a total of 22 months’ imprisonment and a fine of $1,000. He filed the present appeal against his conviction and sentence the same day. The execution of the sentence has been stayed, and the defendant is on bail pending the appeal.
+
+3       The grounds of my decision are set out below.
+
+## Trial
+
+### Charges
+
+4       At the trial, the defendant faced four charges under s 354(1) of the Penal Code (Cap 224, 2008 Rev Ed) (“**Penal Code**”). The charges were similarly worded, with different particulars relating to the date of the offence and the manner of the defendant’s intrusion on the victim’s modesty:
+
+> You \[...\] are charged that you, _\[date\]_, at \[address of defendant’s home in Singapore\], did use criminal force to one \[name of victim\] (Female / 32 years old), _to wit_, by _\[manner of intrusion\]_, intending to outrage the modesty of the said \[victim\], and you have thereby committed an offence punishable under section 354(1) of the Penal Code (Cap 224, 2008 Rev Ed).
+
+5       The particulars of each charge were as follows:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="28.68%"> <col width="34.82%"> <col width="36.5%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Charge</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>[date]</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>[manner of intrusion]</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">MAC-901369-2018 (1st&nbsp;charge)</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">sometime in July 2016</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">pressing her nipples<span class="FootnoteRef"><a href="#Ftn_1" id="Ftn_1_1"><sup>[note: 1]</sup></a></span> and pubic bone area</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">MAC-901370-2018 (2nd charge)</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">sometime in between late July 2016 and 30&nbsp;November 2016</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">pressing her nipples and pubic bone area</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">MAC-901371-2018 (3rd charge)</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">sometime in between late July 2016 and 30&nbsp;November 2016</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">pressing her nipples and pubic bone area</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">MAC-901372-2018 (4th charge)</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">on 30 November 2016, at or around 12:20&nbsp;PM</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">pressing her nipples, pubic bone area and urethra</p></td></tr></tbody></table>
+
+  
+  
+
+6       Section 354(1) of the Penal Code provides:
+
+> Whoever assaults or uses criminal force to any person, intending to outrage or knowing it to be likely that he will thereby outrage the modesty of that person, shall be punished with imprisonment for a term which may extend to 2 years, or with fine, or with caning, or with any combination of such punishments.
+
+### Prosecution’s case
+
+#### Evidence of victim
+
+7       The main witness for the prosecution was the victim (PW1). She testified that she had been suffering from back pain for more than ten years. She went for X-rays and sought massage treatment such as “_tuina_” (traditional Chinese massage), to no avail. She came to know about the defendant through a master in the temple that she attended. The temple master gave her the defendant’s contact number and told her that the defendant could “save” her. She decided to contact the defendant for treatment. She went to the defendant’s home (a five-room HDB flat at Eunos) for treatment on four occasions.[^2] It was undisputed that the four occasions were between July 2016 to 30 November 2016.
+
+8       On the first occasion in July 2016, when the victim went to the defendant’s home, he met her at the living room. He shook her hand, pressed on her fingernails, and asked her if she felt pain. She said she did. He then invited her into the treatment room. He asked her to change out of her clothes and to wear a white tube-top and floral “pants” (or shorts) that he provided. He also told her that there was no need to wear a bra or underwear (panties). After she had changed, she lay down on the treatment bed, and he started the treatment. At a certain point, he pulled down the tube-top and used two of his fingers to press on her nipple for a few seconds. As he did so, he explained to her that it was necessary for him to do that because that could prevent breast cancer. He pressed on both of her nipples. Later in the massage, he pulled her pants down to her hips, exposing her “lower body”. He pressed on her lower body and her pubic bone[^3] for a few seconds. As he did so, he told her that he had to do that because that would prevent cervical cancer.[^4]
+
+9       After the session ended, she paid him and left the premises. She was confused after the session, and wondered why the treatment was carried out “like that”.[^5] Nonetheless, she decided to seek treatment from the defendant again as she continued to suffer from the same back pain.
+
+10     On the second occasion, the treatment session was similar to the first. The defendant asked her to change into a tube-top and floral pants, and the treatment was “the same” as the first time. When he pressed at her breast area, he pulled down her tube-top and used two fingers to press on her nipples. As he massaged her whole body, he also pulled down her pants and pressed “that area” (the pubic bone area). [^6] After the massage ended, she paid him for the treatment, and left the premises.
+
+11     On the third occasion, the treatment was “the same” as the first two occasions. She changed into the tube-top and pants and lay down on the treatment bed. During the massage, when he reached her breast, he pulled down the tube-top and used two fingers to press on her nipples. He also pulled down her pants and pressed on her “lower body” (the pubic bone area). During this third session, he also told her that after having sex with her husband, she should “not go to the toilet and wash up immediately” as that would “cause the wind to enter”. The victim did not know why the defendant told her this, but she informed her husband about what the defendant had said.[^7]
+
+12     The fourth occasion was on 30 November 2016, in the afternoon. she went to see the defendant again because her back continued to ache. The fourth occasion was like the first three occasions. She went into the treatment room, changed into the tube-top and floral pants, and lay down on the treatment bed. He started to massage her body, and after that it was “the same”. When he reached her breast, he pulled down (her tube-top); and when he reached her lower body, he pulled down her pants. But on this fourth occasion, there was “a bit of difference”: after pulling down her pants, he lightly pressed and rubbed “the part where \[…\] females urinate” (i.e., the urethra). He rubbed that area “longer than the 1st, 2nd and 3rd time”, but “not more than 1½ minutes”.[^8]
+
+13     The victim indicated where the defendant had touched her lower body with the aid of a diagram (Exh P2). The area where the defendant had touched her on the first three occasions on the pubic bone was marked “1st, 2nd, 3rd time”; the area he touched her on the fourth occasion was marked “4th Time” with an asterisk.
+
+14     After this fourth session, the victim felt angry with the defendant. She felt that touching her urethra had nothing to do with treating her back pain. Immediately after leaving the defendant’s home, the victim called her husband and told him what had happened. She considered for one or two days whether to report the matter, as it might make the whole thing “very embarrassing”. She eventually decided to lodge a police report.[^9] She made the police report on 2 December 2016 at 12.30 am (Exh P3).
+
+15     She subsequently attended a medical examination at the KK Women’s and Children’s Hospital on 14 March 2017. A medical report dated 20 June 2017 prepared by the examining consultant, Dr Julian Kang (PW4, “**Dr Kang**”), was tendered in evidence (Exh P4).
+
+#### Corroboration by victim’s husband
+
+16     The victim’s husband (PW3) testified that his wife had been suffering from backache for more than ten years. He was present when their temple master recommended that she go to the defendant for treatment. He was aware that she sought treatment from the defendant on four occasions, although he did not accompany her to the treatment sessions.[^10]
+
+17     After each treatment, she would call him to talk about it. He was unable to recall in detail what she had told him after each session, but there were two occasions that he had a “deep impression” of. The first was that she told him that the defendant had mentioned that after they had sex, they should not shower immediately as there would be “wind”. The second was that after the last time when she sought treatment from the defendant, she called him immediately and cried, telling him that during the treatment the defendant had touched her at “the part where she urinate”. She also told him that “every time \[the defendant\] would massage her groin area, every time it would only be once but on that day, he massaged twice in total”. After hearing about what the defendant had done to her, the victim’s husband felt angry and wanted to confront the defendant immediately. However, she refused to give him the defendant’s address. He subsequently followed her to lodge the police report.[^11]
+
+#### Evidence of TCM expert
+
+18     The prosecution led expert evidence from a practitioner of Traditional Chinese Medicine (“**TCM**”), Dr Lau Kah Yong (PW2, “**Dr Lau**”). Dr Lau had been a TCM practitioner since 1990. He was, among other things, an Executive Committee Member of the Singapore Chinese Physician Association, and an examiner at the Traditional Chinese Medicine Practitioners Board.[^12]
+
+19     Dr Lau explained the theory behind traditional Chinese massages. He explained about meridians running throughout the human body as well as acupuncture points.[^13] He testified, among other things, that in the course of treatment, TCM practitioners would try not to use sensitive areas such as the nipples and pubic area. Treating other points along the relevant meridian would be equally effective as “whole meridians \[have\] the same effect”. Further, under the ethical guidelines for TCM practitioners, if there was a need to use sensitive areas, there must be a third party present, and the consent from the patient must be obtained.[^14]
+
+### Defence
+
+20     After the close of the prosecution’s case, the defendant was called upon to enter his defence. He elected to testify. He also called two other witnesses to testify in his defence.
+
+21     The crux of the defence was that the defendant had no intention of outraging the victim’s modesty. He was merely performing zone point therapy to alleviate her back pain. ZPT had been developed by him and was practised only by him in Singapore. Massage using ZPT was not the same as TCM massages (_tuina_). During the therapy he would massage the victim’s entire body, including the groin area, pubic bone area, breast area and buttocks. When massaging the groin area, he would clench his fist with his thumb sticking out, and use the four finger joints below the knuckles to press the body to massage. The same method was used to massage the breast area. (As for the buttocks, he used his lower arm or elbow to massage.) It was not disputed that during the massage, the pubic bone and breast area were pressed; however, the defendant denied that he used two fingers to press the victim’s nipples, pubic bone and urethra.[^15]
+
+#### Evidence of defendant
+
+22     The defendant testified that he had been involved in _tuina_ for about 40 years. He developed his own ZPT, which was “close to” TCM theory. According to the defendant, TCM had “not been fully developed” in many areas, so he spent many years researching on these, and found various other interconnected points in the body. His treatment typically involved an initial examination in which he would press on the patient’s fingernails to diagnose the problems or “blockages” in the patient’s body. After the diagnosis, he would then massage the patient. He would massage using the finger joints below his knuckles. His thumb would stick out as he clenched his fists to massage. Sometimes he would use his thumb as well to massage.[^16]
+
+23     The defendant described how he massaged his patient (the victim) to alleviate her body pain. He started massaging from her toes. He then moved up to her calves and then to her thighs. He massaged the front part of the thigh first, and then the inner part of the thigh. He also massaged the groin area and pubic bone area. He pulled up the trunk of her shorts upwards towards her abdomen area so that his fist could gain access to her groin area. With his fist clenched, he used his finger joints below his knuckles to perform the massage. He massaged the groin area for about two to three seconds. While massaging the groin area with his fist, his thumb would be sticking out and could be near the patient’s private parts. In his 40 years of practice, there were occasions where his thumb would accidentally hit his patient’s private part during the massage. However, he did not think he had made any contact with the private parts of the victim when he was treating her.[^17]
+
+24     The defendant also massaged the victim’s breast and nipple area as it was “interconnected” to the problem at her lower back. He started with the sides of the breast. After completing the sides, he moved to the top of the breast area. He pulled down and lifted up the tube-top slightly without exposing the breasts, and massaged in a circular motion downwards, pushing the tube-top downwards as he massaged. Subsequently, he pulled up the tube-top and lifted up the bra to massage the breast area from the bottom. He used the joints of his fingers below his knuckles to massage the breast area, with his thumb sticking out. He would try to avoid touching the nipples of his patients while massaging them, but there had been occasions that his thumb had come into contact with the nipples unintentionally. He denied pressing the victim’s nipples with two fingers.[^18]
+
+25     The defendant denied having the intention to outrage the modesty of the victim during the four treatment sessions.
+
+#### Evidence of defendant’s other patients
+
+26     Two other witnesses were called to testify for the defence. They had been treated by the defendant before. The gist of their testimony was that the defendant’s ZPT treatment was an effective and legitimate treatment. The two witnesses were:
+
+> (a)     Mr A \[redacted\] (DW2); and
+
+> (b)     Ms B \[redacted\] (DW3).
+
+27     Mr A testified that he came to Singapore in 2009 to work as a yoga instructor. He suffered from severe back pain, and his boss recommended that he go see “Uncle Willet”. Since 2009 he had sought treatment from the defendant 25 to 30 times. He described how the defendant massaged his entire body, which included the chest area and groin area. When massaging the chest area, the defendant used his finger joints and massaged everywhere over the chest area, and over the nipples as well. The defendant also massaged the groin (pubic bone) area and the inner thighs. The defendant did touch (but not press) his private part one or two times over his underwear.[^19]
+
+28     Ms B testified that she first came to know about the defendant through Mr A. She was having problems with her neck. Mr A, who was her yoga instructor, recommended the defendant to her as a massage therapist. She would typically seek treatment from the defendant for her neck or other specific problems; she would also regularly go for massage “tune-ups”. The defendant performed full body head-to-toe massage. On the first occasion that she attended for treatment, she changed into a tube and shorts provided by the defendant, and she was wearing her bra and panties. On subsequent occasions, however, she removed her bra and panties. The massage treatment started from her feet and then moved up to the shin and thighs, and then to the groin area. The defendant used his finger joints below his knuckles to massage her groin area, including the inner thigh and pubic bone area. To gain access to the groin area, he would move the waistband (of her shorts) down to her waist; alternatively, he pulled the trunk of the shorts up to her abdomen to gain access. During the massage, there was accidental knocking and brushing of the private part. [^20]
+
+29     Ms B also testified that in the course of the treatment, the defendant massaged her whole chest including her breasts. He moved the tube or tank top that she was wearing to gain access to her breast area. He would either pull down or pull up the tube or tank top, depending on which part he wanted to gain access to. In doing so, her breasts were exposed, and there were times when she was basically topless in front of him. He massaged the entire breast area. In the course of doing so, there was accidental brushing of her nipples. Ms B added that some people’s sensibilities might be offended by the kind of treatment the defendant was performing, but in her opinion, “Uncle Willet” was a legitimate therapist. [^21]
+
+### Issues to be determined
+
+30     It was not in dispute that the victim did go to the defendant’s home for massage treatments on four occasions between July 2016 and 30 November 2016, the last occasion being on 30 November 2016.
+
+31     The issue to be determined at the trial was whether, in the course of the massage, the defendant had pressed the victim’s nipples, pubic bone area and urethra _intentionally_ (rather than accidentally), intending to outrage her modesty. This issue turned, ultimately, on whether the victim’s evidence that the defendant had done so was unusually convincing.
+
+### Decision
+
+#### Victim’s testimony was unusually convincing
+
+32     The defence challenged the credibility of the victim’s testimony. It was submitted that she did not see how the defendant was performing the massage, whether he was using his finger joints or his fingers.[^22] How could she have known that the defendant used his _two fingers_ to touch her nipples, pubic bone and urethra? It was merely her assumption. The defence highlighted that the medical report prepared by Dr Kang, who examined her, merely stated that: “On each occasion, when massaging the breast area, the tube was removed by the massage therapist.”[^23] The medical report made no mention of the victim’s nipples being pressed by the defendant.
+
+33     The prosecution submitted that the victim was a credible witness. She had no motive to implicate the defendant falsely. There was no evidence of such motive. She gave a clear account of the defendant’s actions during the four occasions she went to his home for treatment. Her evidence was clear, coherent, internally consistent and “unusually convincing”: _PP v Mohammed Liton Mohammed Syeed Mallik_ <span class="citation">\[2008\] 1 SLR(R) 601</span> at \[37\]-\[39\]. Her evidence was also materially corroborated by other evidence.
+
+34     Having considered the evidence of the victim and the totality of the evidence, I agreed with the submission of the prosecution.
+
+35     Among the key factual issues at the trial was the attire of the victim, and whether her private parts were exposed during the massage. The victim’s evidence was that the defendant asked her to change into a tube-top and pants (or shorts) and told her that there was no need to wear a bra or underwear (above, at \[8\]). The defendant appeared to dispute the attire that the victim was wearing, and also appeared to deny that she was wearing no underwear (discussed later, at \[42\]-\[43\]). The victim’s evidence in this regard, however, was indirectly corroborated by the evidence of Ms B. Ms B testified that she (Ms B) had changed into shorts and a tube-top before the defendant performed the full body massage on her and, after the first session, she did not wear bra and panties for the subsequent treatment sessions. Ms B also testified that as the defendant massaged her breast area, her breasts would be exposed and she would be “basically topless in front of \[him\]” [^24] (above, at \[28\]-\[29\]). As for how the defendant gained access to massage the groin area, Ms B’s account was that the defendant would pull down her shorts, completely exposing her groin area.[^25] From Ms B’s evidence, it was clear that the defendant did provide tube-tops to his female patients, and it was conceivable that their breasts and groin area were fully exposed by him during the treatment sessions. Ms B’s account thus lent credence to the victim’s testimony that she was provided a tube-top and pants (or shorts) to change into for each massage session, that she was not wearing any bra or panties underneath, and that the defendant pulled down her tube-top and exposed her breasts while massaging her, and that he pulled down her pants and exposed her entire lower body while massaging her groin area.
+
+36     I found the victim’s testimony that the defendant had intentionally pressed her nipples, pubic bone area and urethra with his fingers to be credible. Although she was lying down and could not see how he had massaged her, she could feel the clear difference in pressure applied when the defendant massaged the other parts of her body with his finger joints, and when he pressed her sensitive and private parts with his fingers. The force applied when her private parts were pressed was much less. On a scale of one to ten (with one being very light and ten being very forceful), the victim described the defendant pressing her nipples and pubic bone area as “1, not much force”. When he was pressing other parts of her body, it was “8, because it was really very painful”; if he had used his finger joints to press down on her pubic bone area, it would have been very painful.[^26]
+
+37     As for the victim’s medical report (Exh P4), which mentioned about the victim’s breast area being massaged with no mention of her nipples being pressed, I did not find it to be materially inconsistent with the victim’s testimony. As Dr Kang (PW4) explained, the patient’s history set out in the medical report was a paraphrasing of what the patient said; for the purposes of the medical examination, he did not see the need to clarify with her when she told him that she had been massaged at the breast area.[^27] The prosecution submitted that the medical report in fact substantially corroborated the victim’s account of her treatment sessions. The relevant portions of the medical report, in its fuller context, stated as follows:
+
+> \[…\] During all her visits, she changed into a ‘tube’ attire to cover her chest/breasts and shorts before the massage was commenced. On each occasion, when massaging the breast area, the tube was removed by the massage therapist. Pants were also removed by the massage therapist just before the massage over the pubic bone area (on the first 3 occasions/ visits). On the 4th visit, the massage therapist went on to remove her pants but instead of using pressure/massaging over the pubic bone, this time he allegedly used finger(s) to reach just above the vagina \[…\] clitoris area and rubbed about 2 times with his bare fingers. \[…\][^28]
+
+38     I found that the medical report did not undermine the credibility of the victim’s testimony as suggested by the defence. On the contrary, as submitted by the prosecution, it substantially corroborated the victim’s account of her treatment sessions: that she had worn a tube-top and shorts or pants during the treatment; that the defendant had “removed” the tube-top and shorts during the massage; and he had massaged her private parts on each occasion.
+
+39     There was also a credible explanation as to why she returned to seek treatment from the defendant despite having felt her modesty outraged on the first, second and third occasions. She testified to feeling confused about why the treatment was carried out in such a manner (above, at \[9\]). Yet she decided to go back to the defendant again for treatment as she continued to suffer from the same back pain, and the defendant was someone who had been recommended by her temple master. On the fourth occasion, on 30 November 2016, she felt angry that the defendant had pressed and rubbed her urethra. Immediately after leaving the defendant’s home, she called her husband and told him what had happened, and she subsequently made a police report two days later. The victim’s evidence in this regard was corroborated by the evidence of her husband (above, at \[17\]), whose evidence I found to be truthful and credible. The victim’s testimony about how she felt violated was thus corroborated by her subsequent conduct, and there was a reasonable explanation as to why she continued to return to the defendant for treatment despite her unease after the first session.
+
+40     Having thus considered the entirety of the victim’s testimony, I found her to be a truthful witness, and her evidence to be credible. There was no plausible reason or motive for her to implicate the defendant falsely. Her testimony was clear, coherent, internally consistent and unusually convincing, and corroborated by the testimony of other witnesses.
+
+#### Defendant’s evidence was not truthful
+
+41     On the other hand, I found the evidence of the defendant to be not truthful and evasive at times.
+
+42     When the defendant was asked about the victim’s attire at the treatment sessions, he gave varying responses. During evidence-in-chief, he initially said that he had forgotten whether she wore her own clothes or clothes that he provided, as there were “too many people”.[^29] He was later shown a photograph of a blue spaghetti strap top and black pants, and he said that he provided “the same” clothing to the victim to wear (on the first occasion).[^30] Under cross-examination, he agreed with the prosecutor that he provided the victim with a tube-top and shorts to wear, before saying that he was actually referring to the clothing that he had been shown earlier.[^31] His varying responses were inconsistent with his initial evidence that he had _forgotten_ whether the victim wore her own clothes or those that he provided.
+
+43     The defendant was also inconsistent when asked about whether the victim wore underwear during the treatment sessions. During examination-in-chief, he said that his patients would _usually_ wear underwear.[^32] However, when it was put to him that he had told the victim there was no need to wear a bra and underwear during the massage, he asserted that, “It’s not possible. Everybody would wear the underwear”.[^33] When reminded of his earlier testimony, he qualified and said that some regular customers “would not wear because they understand that it’s easier to conduct the massage”.[^34] His evidence continued to be muddled during re-examination. In response to his counsel’s question, the defendant first said that _most_ of his female patients wore bra and panties during the massage; and then he said that _all_ of them wore panties and bra during the massage; before settling with, “Some of the long-term customers will not wear bras, but they would still have underwear”.[^35] At this point it is pertinent to note that the defendant’s evidence was contradicted by Ms B, one of his regular customers, who testified that after her first visit, she removed her bra and _panties_ on subsequent occasions.[^36]
+
+44     When asked about how he would massage a female patient’s breast and groin areas, the defendant said that if the patient was wearing a bra, he would pull up the corner of the bra about one inch and put his hand below the bra to massage the breast.[^37] This was starkly different from the account given by Ms B. Ms B said that the defendant would “move the tube top down, out of the way. So basically you—you are exposed”; even when Ms B was wearing a bra on the first occasion, the defendant moved the bra out of the way such that her breasts were exposed.[^38] As for how he gained access to the groin area to massage, the defendant said that he only lifted up the trunk of the pants or shorts in order to massage that area. Again, this was markedly different from Ms B’s account that the defendant would pull down her shorts, completely exposing her groin area.[^39]
+
+45     The defendant’s testimony was thus internally inconsistent – even evasive. His testimony was also contradicted by a defence witness (Ms B). I found his testimony to be untruthful and lacking in credibility.
+
+#### Defendant touched the victim inappropriately
+
+46     The defendant sought to justify his massaging of the victim’s breast and pubic area with reference to his “Zone Point Therapy” (ZPT). He claimed that this was a method of treatment that he himself had developed after years of research, and that ZPT was not the same as the TCM practice of _tuina_ and was in fact superior to TCM. Having heard evidence about ZPT, however, I found it to be strikingly similar to _tuina_. For example, the defendant acknowledged that what he referred to as “zone points” were in fact the “acupoints” (also known as meridian points) used in TCM, and ZPT also had the concept of “meridians” similar to TCM.[^40] That the defendant’s ZPT was strikingly similar to _tuina_ was unsurprising considering his background. According to the defendant, he had been attending TCM courses in a bid to be registered as a TCM practitioner; he would “try to keep to \[TCM\] methods”; he was, however, ineligible to be registered as a TCM practitioner because he did not have the requisite educational qualifications.[^41] Hence, despite the defendant’s claims that ZPT was a treatment method uniquely developed by him, it was for all intents and purposes similar to TCM’s _tuina_.
+
+47     The prosecution’s expert witness, Dr Lau, testified that TCM practitioners would try not to use meridian points at sensitive areas to treat patients, and treating other (non-sensitive) points along the relevant meridian would be equally effective (above, at \[19\]). Accordingly, as was submitted by the prosecution, there were a number of interconnected points on the body that the defendant could press to treat the victim’s back pain. He need not press _every_ interconnected point for the treatment to be effective. He could have treated the victim’s back problem by pressing _other parts_ of her body without touching her breast or pubic area. There was no necessity for the defendant to press on those sensitive parts of the victim _at all_. I agreed with the submission of the prosecution and found the defendant’s claim that his ZPT required him to massage the entire body, including the breast and pubic area, in order to treat the victim’s back pain, to be incredible and illogical.
+
+48     Even if it was accepted for a moment that the defendant’s so-called ZPT required him to massage the entire body of the female patient in order to treat a back pain, it was telling that the defendant did not arrange for a female chaperone to be present. Under the _Ethical Code and Ethical Guidelines for TCM Practitioners_ (January 2006) (the “**Ethical Guidelines**”) it is stated that:
+
+> Patients shall be treated with courtesy, consideration, compassion and respect. They shall also be offered the right to privacy and dignity**.** _It is recommended that a female chaperone be present where a male TCM practitioner examines a female patient. This will protect both the patient’s right to privacy and dignity, as well as the TCM practitioner from complaints of molestation or other allegations of outrage of modesty_.[^42]
+
+> (Emphasis added)
+
+49     Although the defendant was not a registered TCM practitioner, he had attended TCM courses during which he was informed about TCM best practices and guidelines. He was aware of the guidelines that applied when performing _tuina_, and he had tried to comply with these guidelines.[^43] He must have been aware of the recommendation under the Ethical Guidelines that a female chaperone be present. Under re-examination by his counsel, he acknowledged that, “If possible I would arrange for one. It’s better this way”.[^44] Yet he made no arrangements for a chaperone to be present during his treatment of the victim. The lack of a chaperone gave the opportunity for him to touch the victim inappropriately.
+
+50     There was a suggestion by the defence that in the course of massaging the victim, the defendant may have touched her nipples and pubic bone area accidentally. I did not accept that it could have been an accidental touching. The clear and credible evidence of the victim was that the defendant pressed her nipples and pubic bone area on the first three occasions, and on the fourth occasion, he pressed her nipples and her urethra. The force that was felt by her when he touched those areas was much less than when he was massaging the other parts of her body (above, at \[36\]). He did so under the pretext of helping her prevent breast cancer and cervical cancer (above, at \[8\]). Such a manner of touching could hardly have been accidental.
+
+#### Verdict
+
+51     Having evaluated the evidence, I found that the defendant had touched the victim inappropriately on all four occasions while massaging her. He fully exposed her breasts and lower body in the course of the massage, without the presence of a female chaperone, and pressed her nipples, pubic bone and urethra during the various sessions. The irresistible conclusion was that he had done so intending to outrage her modesty. Accordingly, I found that the prosecution had proven the four charges against the defendant beyond a reasonable doubt. The defendant was found guilty and convicted on all four charges.
+
+52     That said, an amendment ought to have been made to the fourth charge. For the fourth occasion, while the victim testified that it was “the same” as the first three occasions, she emphasised that there was “a bit of difference” in that the defendant did not press on the pubic bone but the urethra.[^45] In light of the victim’s testimony, the reference in the fourth charge to the defendant pressing on the victim’s “pubic bone area” ought to have been omitted from that charge.
+
+## Plea of guilt
+
+53     Following his conviction on the four charges at the trial, the defendant pleaded guilty to a fifth charge. The charge was for carrying on an establishment for massage at his home without a valid licence, an offence under the Massage Establishments Act (Cap 173, 2013 Rev Ed) (“**MEA**”):
+
+> MAC-901373-2018 (5th charge)
+
+> You \[...\] are charged that you, on 30 November 2016, at or about 12:20PM, at a unit located at \[address of the defendant’s home\] did carry on an establishment for massage at the said premises in respect of which you did not hold a valid licence, and when the said premises was not exempted under section 10 of the Massage Establishments Act (Cap 173) and section 11 of the Massage Establishments Act read with paragraph 2 of the Massage Establishments (Exemption) Order 2004 from requiring a licence to carry on the said establishment for massage, and you have thereby committed an offence punishable under section 9(a) of the Massage Establishments Act.
+
+54     Section 9(a) of the MEA provides:
+
+> Any person who carries on an establishment for massage in respect of which he does not hold a valid licence shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 and to a further fine not exceeding $50 for every day during which the offence continues after conviction.
+
+55     The salient facts in respect of this charge were as follows. Investigations revealed that the defendant was practicing at his home a massage therapy known as “Willet Zone Point Therapy”. This was a massage therapy akin to the TCM massage therapy known as “_tuina_”. The defendant would perform these therapy sessions on patients for profit. On 30 November 2016, at or about 12.20 pm, the victim attended at his home for a massage treatment. He personally performed a full body massage on the victim. This was the fourth occasion on which he had performed the massage treatment on the victim at his home since she started visiting him sometime in July 2016. The defendant did not possess a valid licence to carry on an establishment for massage at his home, and the premises was not exempted from requiring a licence to carry on an establishment for massage.
+
+## Sentencing
+
+56     The defendant had no antecedents.
+
+### Prosecution’s submissions on sentence
+
+57     The prosecution sought a total sentence of at least 24 months’ imprisonment and a $1,000 fine.[^46] The breakdown was as follows:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="30.02%"> <col width="30.8%"> <col width="39.18%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Charge</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Description</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Sentence</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">MAC-901369-2018</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">s 354(1) Penal Code</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">10 months’ imprisonment with one stroke of the cane. (Consecutive)</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">MAC-901370-2018</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">s 354(1) Penal Code</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">10 months’ imprisonment with one stroke of the cane.</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">MAC-901371-2018</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">s 354(1) Penal Code</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">10 months’ imprisonment with one stroke of the cane.</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">MAC-901372-2018</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">s 354(1) Penal Code</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">12 months’ imprisonment with three strokes of the cane. (Consecutive)</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">MAC-901373-2018</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">s 9(a) MEA</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">$1,000 fine</p></td></tr><tr><td align="left" class="" colspan="3" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Global sentence: <b>24 months’ imprisonment with $1,000 fine</b></p><p align="justify" class="Table-Para-1">(22 months’ imprisonment + two months’ imprisonment in lieu of caning + $1,000 fine)</p></td></tr></tbody></table>
+
+  
+  
+
+58     For the offences under s 354(1) of the Penal Code, the prosecution relied on the “two-step sentencing bands” approach set out by the High Court in _Kunasekaran s/o Kalimuthu Somasundara v PP_ <span class="citation">\[2018\] SGHC 9</span> (“**_Kunasekaran_**”). It was submitted that the present case fell within Band 2 of the _Kunasekaran_ sentencing framework as there were several offence-specific factors. First, there was skin-to-skin contact with the victim’s private parts. Second, there was a use of deception: the defendant touched the victim’s nipples and pubic bone under the pretext of preventing breast cancer and cervical cancer. He knowingly preyed on her gullibility to continue touching her, to the extent that he rubbed her urethra on the fourth occasion. Third, there was an abuse of trust. The victim trusted him as a massage therapist who had been recommended to her by her temple master. She allowed him to touch her inappropriately on all four occasions under the misled belief that he was seeking to treat her back pains.
+
+59     The sentencing range for Band 2 was from five to 15 months’ imprisonment. The prosecution submitted that the present offences would fall within the upper end of Band 2. An indicative sentencing range of at least 10 months’ imprisonment was suggested for the first three charges. For the fourth charge, as the defendant further intruded into the victim’s modesty by rubbing her urethra for a prolonged period, it was submitted that this was more aggravated than the first three charges, and a starting point of at least 12 months’ imprisonment would be appropriate.
+
+60     It was further submitted by the prosecution that the imposition of caning was the starting point where the outrage of modesty involved the intrusion of a victim’s private parts. In the present case, at least one stroke of the cane would ordinarily be warranted for each of the first three charges, and at least three strokes would be warranted for the fourth charge given the greater level of intrusion involved. As the defendant could not be caned (because he was above the age of 50 years), it was submitted that two months’ imprisonment in lieu of six strokes of the cane should be imposed to give effect to the need for general deterrence – to replace the deterrent effect that was lost due to the defendant’s exemption from caning.
+
+61     The prosecution also highlighted the defendant’s clear lack of remorse. He had claimed trial to the offences, showing completely no remorse for his offending behaviour. He subjected the victim to intense cross-examination, forcing her to relive the traumatic events that she had previously experienced.
+
+62     The prosecution cited several sentencing precedents for offences under s 354(1) of the Penal Code, the brief facts of which are set out below:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="27.34%"> <col width="42.84%"> <col width="29.82%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Case</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Brief Facts</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Sentence</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>Kunasekaran</em></p><p align="justify" class="Table-Para-1">(Claimed trial)</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">The offender was convicted of one charge under s 354(1) for molesting a 14-year-old victim on a bus. The victim felt the offender touch her groin area (over her school skirt) with his fingers. The touch lasted less than one minute and stopped when the victim alighted from the bus.</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Eight months’ imprisonment.</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>PP v Goh Eng Chin</em></p><p align="justify" class="Table-Para-1"><a class="pagecontent" href="javascript:viewPageContent('/Judgment/21640-SSP.xml')">[2018] SGMC 17</a></p><p align="justify" class="Table-Para-1">(Claimed trial)</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">The offender was convicted of four charges under s 354(1) (and one other charge). He committed the offences against his tenant, a 24-year-old student, over the course of three days. The 2nd charge involved touching the victim’s thigh, hugging her, and using his head to touch her pubic region (over clothes). The other outrage of modesty charges involved the offender rubbing his groin against the victim’s buttocks and touching her buttocks with his hands.</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">2nd charge: 11&nbsp;months’ imprisonment and three strokes of the cane.</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>PP v GCD</em></p><p align="justify" class="Table-Para-1"><a class="pagecontent" href="javascript:viewPageContent('/Judgment/23186-SSP.xml')">[2019] SGMC 23</a></p><p align="justify" class="Table-Para-1">(Claimed trial)</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">The offender was convicted of four charges under s 354(1). He was a music teacher and committed the offences against his 16-year-old student. The 3rd charge involved placing his hand into the victim’s shirt and bra, and touching her left breast by moving his hand left and right several times.</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">3rd charge: 15&nbsp;months’ imprisonment and one stroke of the cane</p></td></tr></tbody></table>
+
+  
+  
+
+63     As for the charge under the MEA, the prosecution sought the maximum fine of $1,000. It was submitted, among other things, that the defendant had been frequently using his home as an establishment for massage, even dedicating a room with a massage bed to perform such massages.
+
+### Mitigation plea
+
+64     Counsel for the defendant gave a brief oral mitigation plea. He said that the defendant was 67 years old and married with two children, both of whom were married. In 2015 the defendant suffered a severe back nerve problem that caused him to be paralysed for almost a year. It was during that time that he ceased all his massage shops and started to perform massages at his home. The defendant had no antecedents. Counsel urged the court to impose a minimum sentence. (No response was made to the prosecution’s submissions on the sentence.)
+
+### Sentences imposed
+
+65     I agreed in large part with the prosecution’s cogent sentencing submissions. Applying the _Kunasekaran_ sentencing framework, the defendant’s offences fell within the upper end of the Band 2 sentencing range. The sentences of 10 months’ imprisonment sought by the prosecution for the first three charges, and 12 months’ imprisonment for the fourth charge, were in line with the sentencing precedents. I also agreed that the sentences for the first and fourth charges ought to run consecutively, giving a total sentence of 22 months’ imprisonment, which would be proportionate to the overall culpability of the defendant and the distress he had caused to the victim. I did not consider it necessary, however, to impose an additional sentence of imprisonment in lieu of caning. The defendant was advanced in age and, in my judgment, the total term of imprisonment to be imposed would be a sufficiently retributive and deterrent punishment without any additional punishment in lieu of caning.
+
+66     As for the offence under the MEA, I accepted the submission of the prosecution that the maximum fine of $1,000 ought to be imposed. The defendant had used his home as an establishment for massage for a period, during which he had performed massage on the victim on four occasions (as well as other patients) for profit.
+
+67     Accordingly, the sentences imposed were as follows:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="30.02%"> <col width="30.8%"> <col width="39.18%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Charge</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Description</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Sentence</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">MAC-901369-2018</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">s 354(1) Penal Code</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>10 months’ imprisonment</em>. (Consecutive)</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">MAC-901370-2018</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">s 354(1) Penal Code</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">10 months’ imprisonment.</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">MAC-901371-2018</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">s 354(1) Penal Code</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">10 months’ imprisonment.</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">MAC-901372-2018</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">s 354(1) Penal Code</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>12 months’ imprisonment</em>. (Consecutive)</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">MAC-901373-2018</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">s 9(a) MEA</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">$1,000 fine (in default one week’s imprisonment).</p></td></tr><tr><td align="left" class="" colspan="3" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Total sentence: 22 months’ imprisonment and fine of $1,000 (in default one week’s imprisonment).</p></td></tr></tbody></table>
+
+  
+  
+
+68     The execution of the sentence has been stayed and the defendant is on bail pending the appeal.
+
+* * *
+
+[^1]: At the start of the trial on 15 May 2019, the four charges referred to the pressing of the victim’s “nipples, _breasts_ and pubic bone”. On 16 May 2019, following the testimony of the victim, the charges were amended by the prosecution to remove the reference to “breasts”.
+
+[^2]: Transcript, 15 May 2019, 2/28 (p 2 line 28)–3/4 (p 3 line 4), 3/12-20, 4/30–5/14, 6/28–7/4, 16/20-25.
+
+[^3]: Exh P1, marked in red on the left diagram.
+
+[^4]: Transcript, 15 May 2019, 8/23–9/22, 10/25-30, 12/3-7, 13/12-21, 14/2-17.
+
+[^5]: Transcript, 15 May 2019, 15/28-32.
+
+[^6]: Transcript, 15 May 2019, 17/24-30, 18/9-30.
+
+[^7]: Transcript, 15 May 2019, 20/3-24, 21/2-6, 19-24.
+
+[^8]: Transcript, 15 May 2019, 21/27–22/23, 23/1–24/14; 16 May 2019, 12/11-19.
+
+[^9]: Transcript, 15 May 2019, 24/18-32, 26/24-26, 27/7-27.
+
+[^10]: Transcript, 17 May 2019, 2/8-15, 3/9–4/28.
+
+[^11]: Transcript, 17 May 2019, 4/29–5/30, 6/17-7/27.
+
+[^12]: Exh P5. Transcript, 16 May 2019, 18/13–20/23.
+
+[^13]: Transcript, 16 May 2019, 20/25–25/20.
+
+[^14]: Transcript, 16 May 2019, 30/10-15, 32/27-30, 41/25–42/2.
+
+[^15]: Defence’s Closing Submissions (DS1) at \[10\], \[11b\].
+
+[^16]: Transcript, 7 January 2020, 15/6–16/26, 17/23-32, 20/2-30, 23/2-26.
+
+[^17]: Transcript, 7 January 2020, 44/32–47/22, 48/4-9, 51/12-25, 53/3–54/13, 55/5–56/15.
+
+[^18]: Transcript, 7 January 2020, 56/21-32, 57/26–58/2, 58/23-32, 60/9-26; 8 January 2020, 2/31–4/2, 5/3-19, 7/14-17.
+
+[^19]: Transcript, 8 January 2020, 39/5–40/2, 45/1–46/21, 48/1-12, 49/14–50/28, 63/22-25.
+
+[^20]: Transcript, 8 January 2020, 74/23–75/8, 75/26–76/20, 76/30–77/9, 82/19–86/23, 97/11–98/1.
+
+[^21]: Transcript, 8 January 2020, 87/17–89/18, 91/8-13.
+
+[^22]: Transcript, 15 May 2019, 55/14-20, 59/15-20.
+
+[^23]: Exh P4, fourth paragraph, lines 5-6.
+
+[^24]: Transcript, 8 January 2020, 77/4-9, 88/22-27.
+
+[^25]: Transcript, 8 January 2020, 104/27–105/10.
+
+[^26]: Transcript, 15 May 2019, 11/29-12/2, p 15/2-11, 18/25–19/9, 56/28–57/7.
+
+[^27]: Transcript, 7 January 2020, 6/27–7/3, 11/26–12/13.
+
+[^28]: Exh P4, fourth paragraph.
+
+[^29]: Transcript, 7 January 2020, 40/32–41/8, 44/29-31.
+
+[^30]: Exh D2, Tab 10. Transcript, 7 January 2020, 52/13-30.
+
+[^31]: Transcript, 7 January 2020, 89/23-29, 90/15-27.
+
+[^32]: For example, Transcript, 7 January 2020, 59/5-6.
+
+[^33]: Transcript, 7 January 2020, 88/8-11.
+
+[^34]: Transcript, 7 January 2020, 88/12-14, 89/5-18.
+
+[^35]: Transcript, 8 January 2020, 32/2-23.
+
+[^36]: Transcript, 8 January 2020, 97/11-25.
+
+[^37]: Transcript, 7 January 2020, 59/7-29.
+
+[^38]: Transcript, 8 January 2020, 87/29-32, 88/6-24.
+
+[^39]: Transcript, 8 January 2020, 104/23–105/10.
+
+[^40]: Transcript, 7 January 2020, 17/29-32, 84/3-14.
+
+[^41]: Transcript, 7 January 2020, 84/18–85/7, 86/5-15.
+
+[^42]: Exh P8, \[4.2.1\].
+
+[^43]: Transcript, 7 January 2020, 87/4-15.
+
+[^44]: Transcript, 8 January 2020, 34/17-21.
+
+[^45]: Transcript, 15 May 2019, 23/1-6.
+
+[^46]: Prosecution’s Skeletal Submissions on Sentence (PS3).
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F25153-SSP.xml)
