@@ -1,0 +1,211 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Tay Ken-Yang (Zheng Jingyang) _v_ Siow Choon Meng  
+
+### \[2020\] SGDC 201
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">DC/District Court Suit No 2804 of 2016 (DC/AD 211/2017)</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">14 September 2020</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Chua Wei Yuan</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Joan Lim Pheck Hoon (Legal Options LLC) for the plaintiff; and Foo Yuk Lin (Foo Kwok LLC) for the defendant.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Tay Ken-Yang (Zheng Jingyang) — Siow Choon Meng</td></tr></tbody></table>
+
+Damages – Assessment
+
+Pre-judgment interest
+
+14 September 2020
+
+### Deputy Registrar Chua Wei Yuan:
+
+1       This is an assessment of damages in a negligence claim involving a collision between the defendant’s (“D”) car and the plaintiff’s (“P”) car on 25 October 2015.
+
+2       P sued D and interlocutory judgment was entered for 80% of damages to be assessed.
+
+3       Parties have settled the heads of damages concerning personal injuries. What falls for my decision are those concerning property damage. In this regard, P submits that damages should be assessed as follows:
+
+> (a)     $70,834, being the repair costs of P’s car plus goods and services tax thereon (“GST”);
+
+> (b)     $800, being the cost of renting a replacement car for 8 days; and
+
+> (c)     $1,120, for the loss of use of P’s car for 14 days.
+
+4       Although this is an action where victim and tortfeasor are named as P and D, respectively, the reality is more complicated. As appears to be frequently the practice in accidents of this kind, P entered an arrangement with the repairer, under which the repairer would repair P’s car and arrange a replacement car for P for the duration of the repairs. These services would be provided on credit, that is, the invoices would be payable only when the court assesses damages. As I understand it, the repairer, essentially, would be reimbursed from the portion of damages that pertains to the damage to and loss of use of P’s car. However, P in fact was told that he would not have to pay anything for the repairs or the car. This, in substance, means that the repairer was essentially waiving 20% off the invoices (since P had judgment for only 80% of the damages assessed), and any further difference between the discounted invoice and the damages eventually recovered. The various problems in claims of this kind are not so different from those summarised by Lord Mustill in _Giles v Thompson_ \[1993\] WLR 908 (“_Giles_”) at 911E–914H.
+
+## My decision
+
+### Diminution in value (or repair costs)
+
+#### The applicable measure of damages
+
+5       There is no real dispute that P, as the victim of a tort, is entitled to compensatory damages as would put him back in a position as if the tort had not occurred. The real dispute, in this case, is what exactly this principle entails.
+
+6       In my view, when property is damaged by negligence, the true loss suffered by the plaintiff—and, hence, the proper measure of damages—is the diminution in the property’s value (_Coles v Hetherton_ <span class="citation">\[2015\] 1 WLR 160</span> (CA, Eng) (“_Coles_”) at \[27\] and \[44\] per Aikens LJ). Conceptually speaking, the cost of repairs is but _evidence_ of the loss (_Coles_ at \[28\]). Often, it is the best evidence. For completeness, however, one of the most frequent reasons it is _not_ the best evidence of diminution in value is that the cost of repairs exceed the market value of a replacement. In such a case, it does _not_ represent the diminution in value of the property (_Coles_ at \[32\]); instead, the property should be treated as a constructive total loss, and a plaintiff may recover only its market value (_Darbishire v Warran_ <span class="citation">\[1963\] 1 WLR 1067</span> (CA) (“_Darbishire_”)).
+
+7       At this juncture, I put to rest P’s argument that the repair costs should be claimable regardless, because it was reasonable for P to have repaired his car rather than to have scrapped it, given that he had an outstanding sum on his hire-purchase agreement larger than the car’s scrap value. In support of this, P cites _Masterfox Connections Pte Ltd v N & I Transportation and another_ <span class="citation">\[2008\] SGMC 5</span>. That case involved a similar situation, where the car’s scrap value was lower than both the repair costs and the outstanding sum on the hire-purchase agreement. The court found that repairs were economically unviable, and awarded the net scrap value of the car _plus_ the amount required to pay off the hire-purchase. In my view, however, the result at best obscures the true principle. P would have been required to pay off the hire-purchase in any event, whether the car is scrapped or not. His loss is therefore not the outstanding hire-purchase sum (_ie_, capital) but the loss of use of money (_ie_, interest) arising from the accelerated payment of the hire-purchase instalments. I was not impressed with this argument because it was a point that arose tangentially in oral evidence; the hire-purchase agreement itself was not in evidence for me to assess whether P’s only reasonable option was to repair the car. There was little in evidence for me to say that P was so impecunious or illiquid or uncreditworthy that he was reasonably unable to accelerate payment of the hire-purchase instalments. More fundamentally, however, this point is moot because, based on my views below, I find the reasonable repair cost to be less than the car’s net market value.
+
+8       I turn to the two questions on which the diminution in value turns, _ie_, the market value of a replacement car, and the reasonable costs of repair.
+
+#### Market value of replacement
+
+9       In our context, the market value of a replacement would be the fair value of a replacement, net of the scrap value of the damaged property.
+
+10     There is no evidence of the market value of a replacement as such; the next best available evidence is the fact that P sold his (repaired) car to a third party for $70,000 in mid-Feb 2016 (_ie_, less than 4 months after the accident). Since P takes the position this is at market value, I have no reason to think it is below market value.
+
+11     In this case, the damaged car would have earned P a total COE and PARF rebate of $22,848.
+
+12     For the purpose of computation, the market value of a replacement (or the economic repair limit) would be not more than the difference between the sale price and the total rebate, _ie_, $47,152. In fact, the true value of the car was lower, because the car had been sold along with some items of value that P added himself (_eg_, in-car camera) and which were not damaged in the accident. For completeness, I also note that P when selling the car did not volunteer the fact that the car had recently been in an accident; I therefore do not regard it as likely that the sale price of the car had been reduced on this basis.
+
+#### Reasonable cost of repair
+
+13     The next inquiry—the costs of repair—is less straightforward than it appears, because a plaintiff is limited to the _reasonable_ costs of repair. In _Coles_, the court was presented with a situation where an insurer indemnified an insured by repairing a vehicle and paying for those repairs. The court held that the reasonableness of the repair charge is to be judged by reference to what a person in P’s position could obtain on the open market, that is, the notional sum P would have had to pay, by way of a reasonable cost of repair, if P had gone into the open market and organised to have those repairs done (_Coles_ at \[42\] and \[44\]). In principle, whether the insurer or a repairer organised those repairs does not make a difference to what D should have to pay.
+
+##### (1)   The correct basis of charging
+
+14     According to the surveyor and repairer, there are two applicable bases of charging. The first is the “lump sum basis”, where the repairer adds the agent’s price of new car parts that need replacing and the price of labour, and applies a discount to them. The second is the “cost-plus basis”, where the repairer adds the cost of those parts and applies a mark-up to them. The former basis is used where the repairer is repairing damage caused by third parties, while the latter basis, which invariably results in a lower repair bill, is used where the repairer is repairing damage caused by the driver himself (“own-damage claims” or “OD claims”, as is popularly called).
+
+15     It is not entirely clear how this bifurcated practice arose. According to the surveyor, this is because workshops have an agreement with insurance companies to charge on the cost-plus (_ie_, cheaper) basis in exchange for receiving more jobs from the insurance companies.
+
+16     However, it misses the point to ask if it is reasonable for the repairer to charge on a lump sum or cost-plus basis. That is a commercial decision which is each repairer’s prerogative to make. The cause of action belongs to P, and reasonableness is assessed from P’s perspective. The principle, ultimately, is that P can recover only what he would reasonably have had to pay if he organised the repairs on the open market. This in turn begs the question: what would P reasonably have had to pay if he organised his own repairs? He might have approached any workshop (who, if the repairer is correct, would charge on a lump sum basis), or he might have organised repairs through his insurer (whereupon the workshop would have charged on a cost-plus basis). It is the reasonableness of this choice that I must assess.
+
+17     In my judgment, P’s choices not to organise repairs through his own insurer, and to approach this particular repairer, were almost arbitrary as far as the evidence went. P submits that it was not unreasonable for him to have entered a commercial arrangement, given that he was injured and had to arrange for repairs while seeking medical treatment. P also submits that making a claim through his own insurer suggested that he was at fault. However, these are inferences with limited basis in the evidence led. At any rate, making a claim against one’s own insurer does not mean that one was at fault. The only reasons that could be gleaned from P’s evidence were that he liked the car very much and had a large amount outstanding on his hire-purchase. However, these at best are reasons for repairing his car as opposed to scrapping it, but it does not explain why P chose this particular repairer as opposed to approaching his insurer. If P had any other legitimate reason for choosing this particular repairer, it was not in evidence.
+
+18     It might be argued that the decision to approach any particular workshop is undertaken hurriedly, in circumstances less than ideal to any plaintiff, and that the court accordingly should not sit in an armchair and weigh this choice using golden scales and with the benefit of hindsight. However, this is a case where the quoted cost of repairs were so high and obviously disproportionate—being higher than the price for which P sold his car shortly after—that no reasonable plaintiff would have proceeded with such repairs without some other reason sufficient to override this consideration. To the extent that P could have reasonably had repairs done for a lower cost, the repair cost does not reflect the true diminution in value in P’s car and is therefore not recoverable.
+
+19     P has a few other arguments in favour of the lump sum basis which did not persuade me otherwise.
+
+> (a)     First, P submits that the market practice was to use the lump sum basis instead of the cost-plus basis for vehicles over 3 years old, such as P’s car. I find this incorrect. The age of the vehicle makes a difference not between the cost-plus basis and the lump sum basis, but between the lump sum basis (in the sense of whether a discount is applied to the parts on account of the possibility of some reconditioned parts being used), and part-by-part basis (where no discount is applied, but where only new parts are used).
+
+> (b)     Next, P submits that Mr Thanapal, D’s expert, had recommended repair costs on a lump sum basis as well. I pay this no regard because D’s affidavit was not admitted into evidence, since he was not called and his attendance was not formally dispensed with. It would be unfair to D to decide this case as if his affidavit were in evidence.
+
+> (c)     Third, P submits that the court should not say that the cost on a lump sum basis is unreasonable because there was no other figure calculated on a lump sum basis or cost-plus basis that this could be compared with. This misses the point that the dispute between the lump sum and cost-plus bases does not depend on a comparison of different costing estimates on a lump sum basis. Further, P cannot entitle himself to a lump sum basis cost on the basis that the cost-plus basis cost is speculative; any speculation is a result of P’s failure to lead the necessary evidence and is properly treated as an issue of whether P has discharged his burden of proving what his loss is. In any event, the repairer himself gave an estimate of what a cost-plus basis costing would have been.
+
+20     I now turn to what the reasonable repair costs would have been, on a cost-plus basis.
+
+##### (2)   The reasonable repair costs on a cost-plus basis
+
+21     The defendant submitted that the repair costs on a cost-plus basis should be $32,450 before GST, being the sum of $4,500 for labour and $25,000 for the cost of spare parts, marked up by 10%. While the $4,500 labour cost was the repairer’s own estimate, the $25,000 was an estimate based on an interpolation of various “markers”. However, I was not persuaded that these were reliable.
+
+> (a)     First, D submitted that the cost of new parts should not exceed the car’s open market value (“OMV”) of $31,992, which is the price paid or payable when a vehicle is imported, inclusive of freight, insurance and other charges incidental to sale and delivery of the car to Singapore. However, it may well be that car parts cost more when sold individually (as opposed to collectively, when they are assembled as a car).
+
+> (b)     Second, D submitted that the repairer sourced parts from Malaysia, where cars of similar make and model to P’s car made in 2012–2014 and advertised for sale in December 2019 were MYR56,888 or about SGD19,000. I take no cognisance of this principally because this is clearly evidence from the bar. Moreover, P’s car was sold in February 2016, not December 2019. There is also no evidence on what the applicable exchange rate is.
+
+> (c)     Third, D submitted that the diminution in value is two-thirds of the net market value of the car, _ie_, 2/3 × ($60,000 – $22,848) = $24,768. However, I have found above that the net market value of the car is actually $47,152 (and not, as D submits, $37,152). More importantly, it is unclear how the two-thirds ratio is derived; I find it too arbitrary.
+
+22     In my judgment, the best evidence as to what the repair bill would have been, if calculated on a cost-plus basis, is the repairer’s oral testimony. The repairer testified that the repairs would have cost $36,500, or in any event somewhere in the region of $30,000–40,000. Specifically, labour would have cost $4,500, while the gearbox would have cost $12,000; the airbag $7,000–8,000, the other spare parts some $10,000-plus (which would include a mirror costing $1,000–2,000, and a bumper costing $2,000-plus). According to him, this cost would then be marked up by 20% to arrive at the repair bill. The surveyor, on the other hand, said that the mark-up was 5–10%. Thus, on a cost-plus and GST-inclusive basis, the repair cost might well be $46,866 (being $36,500 × (1 + 20%) × (1 + 7%)), but could be anything from $33,705 (being $30,000 × (1 + 5%) × (1 + 7%)) to $51,360 (being $40,000 × (1 + 20%) × (1 + 7%)).
+
+23     But, even so, there are also a number of things that collectively diminish the reliability of the repairer’s evidence.
+
+24      **First**, it appears that the repairer has every financial incentive to inflate the repair bill and, in this regard, his evidence is self-serving.
+
+25      **Second**, the repairer was not forthcoming as a witness. When counsel broached the cost of the car parts he purchased, he initially went on the defensive and did not disclose the price,[^1] saying “I know how much, but I don’t need to say”. When asked about his profit margin, he was again reluctant to answer some questions.[^2]
+
+26      **Third**, the repairer’s testimony was not properly supported by any documentary evidence. He did not tender any invoices to show that the cost of the car parts was as he had claimed—not even the significant items or groups of items which he singled out in arriving at his estimate, such as the gearbox or airbag. Neither can I consider the surveyor’s report or evidence to support the repairer. The surveyor’s report is, at best, good only in defending the repair cost _on a lump sum basis_. It does not justify the repairer’s estimate of what the bill would have been on a cost-plus basis, on the ground that the surveyor effectively conceded that, first, he did not know the exact price of the parts because the stockists would reveal the cost only to sincere buyers and not through casual enquiries like his; and second, he normally would not inquire into whether the repairer received any sort of discount on the cost of the car parts because that would be their profit margin. Yet, it is precisely that inquiry that is relevant when assessing what the repair bill would have been on a cost-plus basis. (Parenthetically, this also indicates to me that the surveyor’s estimate of a repairer’s mark-up is not necessarily accurate.)
+
+27      **Fourth**, the calculations showed the repairer’s estimates to have been biased upwards.
+
+28     The _first_ indication relates to the cost of the gearbox. According to the repairer, the gearbox cost $12,000, that is, it should be priced at $14,400 on a cost-plus basis. However, the gearbox was priced at $16,000 in the survey report. After applying the 20% discount that the repairer applied in computing the price of these parts, the cost would be $12,800. In fact, this price was, along with “special nett items” and labour, further discounted by almost 15% to arrive at the final lump sum cost. If so, the gearbox would have accounted for $10,880 of the final bill. The difference between $12,800 or $10,880 and $14,400 is not small—it is an over-estimation by 12.5% or 32.3% (or more, considering that the lump sum basis repair cost would be _more than_ (rather than _equal to_) the cost-plus basis repair cost).
+
+29     The _next_ indication relates to the cost of an airbag. According to the repairer, the cost of an airbag was $7,000–$8,000, that is, it would be priced at $8,400–$9,600 on a cost-plus basis. The surveyor explained that items marked “activated” on his report related to the airbag. However, the 5 items so marked—the front passenger airbag, front driver airbag, SRS unit, airbag impact sensor, and ECU unit assembly—total $8,376.80. The price of these parts would be $6,701.44 if a 20% discount is applied, or some $5,700 if a further 15% discount is applied. In other words, the cost-plus basis over-estimates the cost by no less than 25.3% or 47.3%. Even if I added the cost of the dashboard (which was marked “torn”, presumably because the airbag had been activated), which was $952.30 before the applicable discounts, the over-estimation is still 12.5% or 32.3% — a margin of over-estimation similar to that of the gearbox.
+
+30     The _final_ indication relates to the total cost. According to the repairer, the cost of repairs would be $46,866, which is 99.4% of—or only $286 shy of—the economic repair limit of $47,152. This does not even take into account the other items that P had installed in the car. This fact surprised me, for the damage—as shown by the surveyor’s pictures and survey report—were generally localised at the front and undercarriage of the car.
+
+31      **Fifth**, there was even some suggestion that the repairer did not permit the defendant’s surveyor to either dismantle the vehicle, or inspect the dismantled parts of the vehicle. This might well have hindered the defendant’s ability to assess the extent of damage as accurately as the plaintiff’s surveyor could. While the repairer’s argument essentially was that the pre-action protocols did not require P (in this sense, the workshop) to offer the defendant this opportunity, the fact remains that where he gives P’s and D’s surveyors unequal opportunity to inspect the vehicle, P takes the risk that the court may not find P’s survey report as reliable. To be fair, I do not make too much of this point, as D did not lead evidence to articulate the prejudice it faced in assessing the damage to the car.
+
+32     For the reasons above, I am not fully prepared to accept $30,000 as a reasonable estimate of the cost of car parts, or 20% as the general mark-up on these parts. I reject the repairer’s pinpoint estimate on the basis that I find it biased upwards in the region of 12–32%. The assessment left me with many doubts in view of the (limited) available evidence before me, and my doubts must be resolved in the defendant’s favour. In my judgment, the reasonable cost of repairs, after mark-up and GST, on a cost-plus basis, would have been in the region of **$36,000**. This is a round sum that corrects the repairer’s pinpoint estimate of $46,866 for an upward bias of about 30%.
+
+### Loss of use (including the cost of renting a replacement car)
+
+33     P in substance claims $1,920 for loss of use. This comprises:
+
+> (a)     $800, being the cost of renting another car for 8 days; and
+
+> (b)     $1,120, being the loss of use of P’s car for a further 14 days.
+
+34     D submits that P should only be compensated $100 (being the cost of renting a car for 1 day), on the basis that P did not require a car.
+
+35     The surveyor assessed that repairs would require 20 working days. I see no reason to disagree with this assessment and, by extension, the period for which P claims a loss of use of his car.
+
+36     However, I find that P had little occasion to rent a replacement car. The rental car was issued to P for an 8-day period commencing on the day of the accident. P deposed that he tried driving the rental car on the first day but the anxiety was too much for him to bear. He was, in fact, diagnosed with post-traumatic stress disorder, and he let his father drive him. P nonetheless argues that he should be compensated for the cost of a replacement car because he had incurred the liability for rental before it became clear that he had difficulty driving. However, in cross-examination, he conceded that he had minimum use of the car in the days following the accident, but that he did not attempt to return the car because the rental invoice was not paid by P but by the repairer as part of its service. In the circumstances, I find that the rental of a replacement car was not reasonable. In its place, P is entitled to general damages for loss of use.
+
+37     However, as I held in _Ley Choon Constructions and Engineering Pte Ltd v Tan Koon Huee Adrian_ <span class="citation">\[2017\] SGMC 56</span> at \[84\]–\[87\], substantial damages for loss of use are not a necessary consequence of being put out of use of one’s car. Neither are the benchmarks in Appendix F of the Practice Directions a substitute for evidence of the inconvenience which P has suffered. Given the circumstances above, I do not find it appropriate to award loss of use based on the benchmarks. Based on the inconvenience to P as disclosed on the evidence, I think that P’s loss of use of his car can be reasonably valued at an average of $30 per day.
+
+38     Accordingly, I assess damages for loss of use at 22 days × $30/day = **$660**.
+
+### Pre-judgment interest on losses arising from property damage
+
+39     For the losses arising from property damage, P seeks the usual interest whereas D denies that any interest should be paid.
+
+40     In the circumstances of this case, I award no pre-judgment interest.
+
+41     In _Koh Tiam Ting v Soon Li Heng Civil Engineering Pte Ltd_ <span class="citation">\[2020\] SGDC 172</span>, which was published while my judgment was in draft form, DJ Vince Gui addressed a similar issue at \[31\] _et seq_. That case also involved a repairer of a vehicle damaged in an accident not requiring the plaintiff to pay for the costs of repair and of hiring a replacement vehicle, on the understanding that it would be able to claim the same against the defendant in the plaintiff’s name. DJ Gui examined a number of authorities, including _Giles_, which D cited in support of his position. While he did not express a firm view on whether the award of pre-judgment interest was meant to be restitutionary in the sense of preventing (or reversing) the unjust enrichment of the defendant, he ultimately concluded that the reasoning in _Giles_ and _Harbutt’s “Plasticine” Ltd v Wayne Tank and Pump Co Ltd_ <span class="citation">\[1970\] 1 QB 447</span>—which could not be meaningfully distinguished—militated against the award of pre-judgment interest, as it was not the _plaintiff_ (but the _repairer_, if at all) who suffered any loss of opportunity to use the money pending the disposal of the action. I broadly agree with his views.
+
+42     In _Giles_, the plaintiff had hired a car from a firm specialising in hiring cars to persons whose own cars could not be driven due to an accident for which they were not at fault, for the duration of the repairs. The agreement had provided that the firm could pursue a claim against the defendant in the plaintiff’s name. The question thus arose whether the plaintiff was entitled to interest on those car hire charges. Interest was not awarded in _Giles_ because the plaintiff, under the terms of her vehicle hire contract, was not obligated to pay her hiring charges and liabilities until judgment was given, such that “\[in\] both practical and equal terms the financial position of the motorist was wholly unaffected by the defendant’s failure to make immediate payment”, and “\[in\] reality she was not ‘kept out of’ any money of her own whilst the claim was being assessed and litigated” (_Giles_ at 925D–925F).
+
+43     The court thought that the position was less certain had the agreement given the firm a direct right against the proceeds of the claim, for its position would begin to bear a superficial resemblance to that of a subrogated insurer. In those cases, if the insured was obligated to account to the insurer any interest recovered atop the capital sum, the court nonetheless had the discretion to award interest to avoid a windfall to the third party and hardship to the insurer (_Giles_ at 925G–925H). While it did not explore the question fully, the court thought that the firm did not have an interest in the insured’s cause of action and its fruits in the way that an insurer would (_Giles_ at 925H–926A).
+
+44     The principles enunciated in _Giles_ were accepted in _Burdis v Livsey_ <span class="citation">\[2003\] 1 QB 36</span> (“_Burdis_”), which D also cited. This decision involved five conjoined appeals arising from two trials, and held that the recoverability of interest turned on whether there was subrogation to the plaintiff’s rights (at \[158\]–\[159\] and \[161\]).
+
+45     The Court of Appeal upheld the judge’s award of interest in one of those trials (involving four joined matters) on the basis they were subrogated claims (at \[158\]–\[159\]). However, the lower court’s decision on those four cases, reported as _Clark v Ardington_ \[2002\] 1 Lloyd’s Rep IR 138, should be seen in context. In each of those cases, the claimant, who had been involved in a road accident, entered, with a firm (“H1”), an agreement for the hire of replacement cars, and credit hire and credit repair agreements, under which H1 paid the hire and repair charges and sought to recover them from the defendants. Upon the period of credit expiring, each claimant would be liable to pay H1 any charges not already recovered by H1 from the defendants. Under various insurance agreements, insurers agreed to indemnify the claimants in respect of any outstanding liability to H1 at the end of the credit period. Under an agreement between H1 and the repairers, H1’s subsidiary (“H2”) paid 90% of the invoiced costs of repair in full satisfaction of the repair charges. When the credit periods expired, the charges remained unrecovered, and the claimants claimed under the insurance policies. Another subsidiary of H1 (“H3”) paid H1 and H2 in respect of the unrecovered charges, although the payments to H2 were in respect of 100% of the invoiced repair costs. In practice, H3 did not claim repayment of the sums it paid out from the insurers. The actions were eventually brought by H1, in the claimants’ names.
+
+46     Although the lower court allowed the claim for interest, this was on the basis that H3 had been standing out of its money once it paid out to the repairers and became subrogated to the claimants’ claims. Even so, Judge Harris QC noted at \[157\] the artificiality of the arrangement. His judgment reads:
+
+> 153.  The Claimants themselves have paid nothing (or in two cases £10 for an insurance policy) and have never been out of pocket. However, the \[H1\] insurance arrangements - in practice \[H3\] - has paid the independent garages for the car repairs, and other \[companies in H1’s group\] in respect of the hire provision.
+
+> 154.  In _Cousins v D & C Carriers_ \[1971\] 1 All ER 55 CA Widgery LJ said at 58:
+
+>> In matters of discretion such as the award of interest, I think it right that the Court should look at the reality of the matter and should take note of the right of the parties under any relevant insurance cover if this is necessary in order to do justice.
+
+> and at 59:
+
+>> The exercise of its discretion will depend on whether the interest remains in the Plaintiffs pocket or can be claimed by the insurers.
+
+> He concluded at 59, that:
+
+>> Interest could have been claimed by the insurers as against the Plaintiff, and therefore that it was recoverable.
+
+> Davies LJ in the same case, said at 60:
+
+>> The only substantial argument put forward by the Defendants was that, since the insurers only take by subrogation such rights as the Plaintiffs themselves enjoyed and the Plaintiffs having been paid out had no right to claim interest, therefore the insurers could not claim interest for the period after the date of payment to the assured: but that proposition cuts at the root of the whole principle of subrogation. If it were right, it would prevent the insurers, after indemnifying the assured, from recovering the amount of the cost from the wrongdoer who had caused it, which they admittedly can. The truth of the matter is that the insurers after indemnifying the assured have the right to sue the wrongdoer in the name of the assured in order to recover the amount of the loss, there goes with that right the ancillary right to ask the Court in its discretion to award interest.
+
+> Karminski LJ at 61 said the insurers:
+
+>> Should recover interest for the period during which they have been kept out of their money.
+
+> 155.  In _Giles v Thompson_ <span class="citation">\[1994\] AC 142</span> at 168 Lord Mustill said this of the award of interest "The exercise of the right should correspond with reality". In that case there was no liability to pay the hire charges until judgment was given.
+
+> 156.  It seems to me that in reality **from the time Helphire’s arrangements** **paid out to the repairers****, Helphire has been standing out of its money**. It brings these claims by subrogation and should be entitled, on the principles set out in _Cousins_, to claim and be awarded interest on the sums it has paid (which was not in the case of the repairs the full price but the factored price).
+
+> 157.  The position is slightly less clear as far as the car hire is concerned because there the payments seem to have been made from one company in the Helphire group to another. But if it is accepted (as I have) that **despite the artificiality of what was being done, nonetheless** **true payments were being made by \[H3\]**, then there is no reason why the same principle should not apply.
+
+> 158.  There is of course no doubt that as far as the Defendants are concerned, if the Claimants had paid for the car repairs and hire themselves they would clearly be entitled to interest. I see no reason in principle or in commonsense why the Defendants should be relieved of that liability because the Claimants have arranged the repairs and hire via Helphire.
+
+> 159.  Accordingly, I find the position analogous to that in _Cousins_, and would award interest, in the cases where the Claimants succeed, from the dates upon which the payments in respect of repair and hire were made.
+
+> \[emphasis added in bold and underline\]
+
+47     In this case, there is little for me to find that the repairer (and, possibly, the car rental firm) is subrogated to P’s claim. The facts resemble _Giles_ in the sense that they are operating what is essentially the businesses of offering repairs and arranging rental cars on credit, respectively. The invoices are addressed to P. On the face of the documents—unlike four of the five appeals in _Burdis_—this was not a case where the claimant was relieved of _legal_ liability to the repairer, on the basis the repairer had been paid by another party. Although P testified that he signed “some form which allows them \[_ie_, the workshop\] to handle everything”, these papers are not before me. For this reason, I am not prepared to find that this was a situation where the repairer or car rental firm had a direct right against the proceeds of the claim, that is, the situation where the court in _Giles_ at 925G–926A thought (_obiter_) it might have the discretion to award interest.
+
+48     In the invoices, there is also no mention of P having to pay interest to the repairers. I therefore do not consider that P will eventually be out of pocket for the interest.
+
+49     In sum, the facts do not in my view justify my discretion being exercised to award pre-judgment interest.
+
+## Conclusion
+
+50     I assess damages at $113,160, as follows:
+
+> (a)     (by consent) $46,500, being general damages for personal injuries, inclusive of interest;
+
+> (b)     (by consent) $30,000, being special damages arising out of personal injuries, inclusive of interest;
+
+> (c)     $36,000, being the diminution in value in P’s car; and
+
+> (d)     $660, being the loss of use of P’s car.
+
+51     Final judgment is entered, on an 80% basis, for $90,528.
+
+52     I will hear parties on costs.
+
+* * *
+
+[^1]: 4NE12A–12E.
+
+[^2]: 4NE13E.
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F25155-SSP.xml)
