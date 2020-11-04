@@ -1,0 +1,127 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Aallianz Pte Ltd _v_ Tian Kong Buddhist Temple  
+
+### \[2020\] SGDC 246
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">District Court Suit No 1693 of 2016, District Court Appeal DCA 25 of 2020</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">27 October 2020</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Ronald Gwee</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Daniel Soo and Satinder Pal Singh (M/S Selvam LLC) for the plaintiff; Lim Chee San (M/S Tanlim Partnership) for the defendant.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Aallianz Pte Ltd — Tian Kong Buddhist Temple</td></tr></tbody></table>
+
+Building and Construction Law – Building and construction contracts – Lump sum contract
+
+Building and Construction Law – Damages
+
+\[LawNet Editorial Note: An appeal to this decision has been filed in DCA 25/2020 .\]
+
+27 October 2020
+
+### District Judge Ronald Gwee:
+
+1       The plaintiff is in the building and construction business. The defendant is a registered society.
+
+2       The defendant operated a Buddhist Temple at 51 Bedok North Avenue 4 (the “Temple”).
+
+3       By a written contract dated 6 August 2015 (the “Contract”), the defendant appointed the Plaintiff as the main contractor for the “proposed repair and redecoration” to the Temple.
+
+4       The plaintiff pleaded that the Contract was for the “initial sum of S$689,680 (excluding GST)”. It was further pleaded that during the course of the Contract, the plaintiff undertook certain variation works, under the instructions of the defendant or the defendant’s consultant, Automated Engineering Pte Ltd (“AEPT”).
+
+5       The plaintiff further pleaded that the “Contract was not based on any standard form and had been prepared on an ad-hoc basis” by the defendant or AEPT.
+
+6       The plaintiff averred that the Contract was “silent on the manner” in which the plaintiff “was required to carry out any variation works” and for the plaintiff to be “granted an extension of time” by the defendant and/or AEPT “on account of any delay causing event including but not limited to any acts of prevention and instructions to carry out variation works”.
+
+7       The original completion date of the Contract was 5 February 2016. The plaintiff pleaded that on or around 2 February 2016, the defendant proceeded to “unilaterally and wrongfully terminate the (plaintiff’s) employment under the Contract”. Thus, the plaintiff further pleaded, the defendant was in breach of the Contract, as the defendant then denied the plaintiff access to the worksite at the Temple.
+
+8       The plaintiff commenced adjudication proceedings against the defendant under the Building and Construction Industry (Security of Payment) Act, for sums then due to the plaintiff., for works done pursuant to the Contract.
+
+9       The plaintiff was successful in obtaining an adjudication determination in its favour for the sum of S$140,650. The defendant subsequently sought to set aside this adjudication determination but were unsuccessful. The plaintiff has been paid this sum of S$140,650.
+
+10     As required by the terms of the Contract, the plaintiff had earlier furnished a performance bond (the “PB”) issued by Tokio Marine Insurance Singapore Ltd (“Tokio Marine”) in favour of the defendant.
+
+11     On or around 13 July 2016, the defendant made a call on the PB and received the sum of S$34,484 from Tokio Marine. Based on their assertion that the defendant had breached the Contract, the plaintiff alleged that the defendant’s call on the PB had been wrongful.
+
+12     The plaintiff commenced this action claiming damages against the defendant under three heads of claimed damage.
+
+13     Pursuant to the plaintiff’s assertion that the call on the PB had been wrongful on the defendant’s part, the plaintiff claimed the said sum of S$34,484 “by way of restitution or account being the money received by the (defendant) from the call on the (PB)”.
+
+14     The plaintiff asserted that they had to “incur additional costs for the storage and transportation of goods and materials that the (defendant) had paid for but (had) refused to take possession and control of” and had quantified these “additional costs” in the total sum of S$3,125.07.
+
+15     The plaintiff’s largest claim was for the alleged “loss of profit” suffered by the plaintiff, consequent upon the defendant’s alleged breach of the Contract. These profits would have been earned by the plaintiff had the defendant allowed the plaintiff to continue performing their (plaintiff’s) obligations under the Contract The plaintiff relied on the quantification by their expert Ms Low Yoke Mun (“Ms Low”) in setting out their claim for loss of profits in the sum of S$94,924.68.
+
+16     The defendant in their pleadings deny being in breach of the Contract. The defendant averred that they “had no choice but to terminate the (Contract)”.
+
+17     The defendant pleaded that as at 2 February 2016, being “very near to the (Contract) completion date of 5 February 2016”, the plaintiff “had completed only about 47% of the works”. The defendant averred that several reminders had been sent to the plaintiff to “catch up with the very substantial delay in the completion of their works”.
+
+18     The defendant had felt themselves justified in terminating the Contract on account of their perception that the plaintiff was unable to complete the Contract on time.
+
+19     The defendant filed a Defence and Counterclaim. The defendant averred that the plaintiff was not entitled to any of the plaintiff’s pleaded claims.
+
+20     In its Counterclaim, the defendant claimed three heads of damages. The defendant claimed that the plaintiff had “over-claimed” and had been “over-paid pertaining to its Payment Claim No. 7” to the tune of S$93,800.
+
+21     The defendant further claimed the sum of S$54,202.75 being the “estimated” costs of rectification works necessitated by the plaintiff’s defective roof works.
+
+22     The defendant further claimed to be entitled to liquidated damages under the Contract, at the rate of S$300 per day “for each day of delay in completion of the works”, or for damages in this regard to be assessed by the Court.
+
+23     In its Reply and Defence to Counterclaim, the plaintiff denied that it had only completed 47% of the works as alleged by the defendant. The plaintiff averred that they had completed 61.73% of the work and would have been able to fully complete all outstanding works but for the “premature and wrongful termination on the part of the (defendant)”.
+
+24     The plaintiff averred that the earlier agreed completion date as set out in the Contract “ceased to apply on the grounds of the various acts of prevention and the ordering of variation works on the part of the (defendant) and/or AEPT”.
+
+25     The plaintiff thus alleged that these “acts of prevention” and variation works sought by the defendant and/or AEPT led to delays in the completion of the works required to be carried out under the Contract. Hence, the plaintiff argued, “the time of completion under the Contract had been set at large”. This had the result of “rendering the liquidated damages clause as well as the completion date under the Contract unenforceable and void”.
+
+26     The plaintiff asserted that all works done by them under the Contract had been carried out in a proper workmanlike manner and “were executed properly in accordance with the terms and conditions of the Contract”.
+
+27     Upon a consideration of all the evidence at trial and the respective parties’ closing submissions, I found in favour of the plaintiff. Briefly, I found that the defendant had not been entitled to “terminate” the Contract when they did, and were therefore in breach of the Contract in essentially not allowing the plaintiff to carry on the works to fruition. The defendant had wrongfully prevented the plaintiff from obtaining the full benefit of completion of the Contract.
+
+28     I had dismissed the defendant’s Counterclaim for overpayment, alleged costs for rectification and liquidated damages or damages for delay to be assessed (save for one minor item: overpayment for a “kitchen table marble top”, for which the plaintiff did not deny, in the sum of S$500). The defendant’s Counterclaim practically failed in toto (save for the said sum of S$500).
+
+29     I allowed the plaintiff’s claims for S$3,125.07 being the transportation and storage costs, and for S$34,484 pursuant to the defendant’s wrongful call on the PB. There should be interest on these two sums at the rate of 5.33 % per annum from date of Writ to date of Judgment.
+
+30     I was of the view that the plaintiff was entitled to claim a loss of profits, pursuant to the defendant’s breach. For this head of damages, the plaintiff had claimed the sum of S$94,924.68. I directed parties to submit further on the quantum for this head of damage (having ruled that the plaintiff was entitled to claim a loss of profits).
+
+31     The defendant was content on relying on that part of their closing submissions that had dealt with the plaintiff’s claim for loss of profits and did not tender any fresh arguments to counter the plaintiff’s stand. The defendant simply referred to the material portions of their earlier closing submissions with the summarised contention that the plaintiff had “not proven that it has suffered a loss of profit”.
+
+32     The plaintiff however, tendered further, substantial, submissions on the point. Upon a careful consideration of the plaintiff’s earlier submissions on the point, buttressed by these further submissions, and the defendant’s earlier submissions on this point, I found that the plaintiff was entitled to claim the said sum of $94,924.68. There would be interest on this sum as well, at 5.33% per annum from date of Writ to date of Judgment.
+
+33     The plaintiff having succeeded in all its claims against the defendant, was entitled to costs of the action. As the Counterclaim had almost totally been dismissed (save for the said sum of S$500 which will be set off against the plaintiff’s claims), I found that the plaintiff was entitled to the costs in relation to the Counterclaim as well. The costs for the Claim and the Counterclaim were to be agreed or taxed.
+
+34     The defendant appealed.
+
+35     I agreed with the plaintiff’s contention that whilst the Contract “provided for all works to be completed by 5 February 2016”, it did not stipulate that time was of the essence, and “did not provide the (defendant) a right to terminate the Contract for delay”. The plaintiff pointed out that the Contract provided for “Liquidated Damages” at the rate of S$300 per day.
+
+36     I further agreed with the plaintiff, and a consideration of the evidence showed, that the various variation orders and acts of prevention on the part of the defendant had caused the plaintiff to “(fall) behind schedule in completing the works”. On 2 February 2016, three days before the previously agreed completion date of 5 February 2016, the defendant “terminated” the Contract and “refused to allow the (plaintiff) to complete the remaining works”.
+
+37     The plaintiff contended that they would not have been in breach of the Contract as the acts of prevention by the defendant and the several variation orders had “rendered time under the Contract to be set at large”. I agreed with this contention. The plaintiff cited _Lim Chin San Contractors Pte Ltd v LW Infrastructure Pte Ltd_ <span class="citation">\[2011\] 4 SLR 455</span> for the proposition that where an employer’s conduct causes a delay in the completion of the works, time would be set at large.
+
+38     The plaintiff proved, on a balance of probabilities, that the several acts of prevention on the part of the defendant did indeed cause substantial delay. This situation was added to by the various variation works sought by the defendant. It was the plaintiff’s contention that the Affidavits of Evidence-in-chief of the defendant’s witnesses did not deny these alleged acts of prevention. On the part of the plaintiff’s evidence, whilst it was conceded that the plaintiff’s witness Ng Wai Keong (“Ng”) had not personally witnessed these acts of prevention, it was the plaintiff’s evidence that Ng had written to the defendant, through AEPT, placing “these incidents on record”, and that the defendant “had not denied that these acts had indeed taken place”. Upon a consideration of all the evidence, the plaintiff’s contention on this point had to be preferred and accepted.
+
+39     The plaintiff thus contended that, as the parties “did not negotiate for an extension of time, and the Contract did not provide for a mandatory mechanism for time to be extended upon a variation order, or an act of prevention”, therefore “time had been set at large and the (plaintiff) had to complete the works in a reasonable time”. I agreed with this contention.
+
+40     I accepted the plaintiff’s evidence that the works could have been completed in about 58 days, which the plaintiff claimed was the approximate period of delay “attributable to the (defendant’s) acts of prevention”.
+
+41     As time had been set at large, the defendant was obliged to permit the plaintiff to complete the works. It would have been prudent for the parties to have considered, at the point in time as the earlier agreed completion date of 5 February 2016 neared, that there was a need to agree that the works could not completed in time and to discuss an extension. On hindsight, what would have been helpful for the parties to resolve any differences they may have concerning the causes for the delay, was perhaps a neutral party assisting the plaintiff and defendant as a mediator. The position between the parties at that time, was that the delay had been caused by acts of prevention by the defendant coupled with variation orders to the original scope of works. Time had been set at large.
+
+42     The defendant was not entitled to “terminate” the Contract as they did. By preventing the plaintiff from completing the works, the defendant was the party in breach of the Contract. The plaintiff claimed to have lost S$94,924.68 as lost profits due to the defendant’s breach. On this point, the plaintiff relied on the evidence of Ms Low. We shall return to this point later.
+
+43     The plaintiff claimed to be entitled to the sum of S$34,484 in relation to the defendant’s call on the PB. I agreed with the plaintiff’s contention that there had been no default on the part of the plaintiff to justify a call on the PB by the defendant. I found in favour of the plaintiff on this point.
+
+44     The plaintiff further claimed to be entitled to the sum of S$3,125.07 being the transportation and storage costs for items the defendant failed to take delivery of. The defendant had instructed the plaintiff to retrieve these materials from the worksite, although the defendant had paid for these materials. Had the defendant properly performed the Contract, the plaintiff would have been allowed to continue their works at site. Hence, the defendant was not entitled to refuse to take possession of these materials, and the plaintiff was entitled to this head of claim.
+
+45     Having found that the defendant was not entitled to “terminate” the Contract as they did, their claim for damages for delay would fail. The plaintiff ought to have been allowed to carry on their obligations under the Contract, with a freshly agreed completion date (necessitated by the defendant’s acts of prevention and the variation orders) negotiated and agreed upon.
+
+46     I also agreed that the defendant failed to prove that there had been an overpayment (save for the S$500 alluded to, earlier) of S$93,800, as pleaded. At trial, the defendant could only refer to the evidence of their expert Ms Yeo Gek Khim (“Ms Yeo”). Ms Yeo’s evidence showed that the defendant could only maintain their claim of overpayment at the sum of S$55,814. Ms Yeo had made reference to alleged overpayments with respect to perimeter fencing, roof tiles and floor tiles and kitchen table marble top. With respect to the kitchen table marble top, as previously indicated, this was the only item that I found there had been an overpayment, and thus the plaintiff would have to account for this one item.
+
+47     With regard to the other items, I accepted the plaintiff’s evidence on these points. I accepted that the plaintiff had delivered the perimeter fencing onsite, and had claimed S$15,000 for the materials but had not claimed for the installation as installation had not been done. As for the roof tiles and the floor tiles, the burden was on the defendant (having mounted this claim in their Counterclaim) to prove this issue on a balance of probabilities. I accepted the plaintiff’s contention that Ms Yeo was not able to convincingly press that the work on the roof and floor tiles had only been 77% and 56% complete. Upon a consideration of all the evidence, I found that the defendant had not proven its claim of overpayment (save for the S$500 alluded to, earlier).
+
+48     Similarly, I rejected the defendant’s claim for alleged defects. I agreed with the plaintiff that the defendant simply failed to prove that there had been defects in the plaintiff’s works. The most telling point was that the defendant was relying, as far as documentary evidence was concerned, on quotations, the scope of which may not have coincided with the scope of works earlier agreed between the plaintiff and the defendant. There were no receipts evidencing any payments made to rectify these alleged defects. This claim too, would fail.
+
+49     Thus we return to the issue of the plaintiff’s claim for loss of profits. In its further submissions on the issue of loss of profits, the plaintiff contended that Ms Low’s (plaintiff’s expert) methodology ought to be preferred to that of Ms Yeo’s (defendant’s expert). I was persuaded by the arguments raised by plaintiff’s Counsel in their submissions, and did not agree with the approach urged upon the Court by the defendant’s Counsel in their closing submissions.
+
+50     The simple formula set out by the plaintiff was for the Court to first consider the remaining contract sum and then deduct from that, the remaining, expected costs, to derive the expected profits for that part of the Contract that the defendant had wrongfully prevented the plaintiff from performing.
+
+51     I was persuaded by the plaintiff’s argument that in such a scenario, the defendant would not be entitled to deduct from what was due to the plaintiff, liquidated damages. As stated earlier, time had been set at large, and there would have been a need (had the defendant not wrongfully terminated the Contract) for a fresh completion date to be ascertained and agreed upon. Liquidated damages would therefore not come into play in such a scenario (unless, of course, the plaintiff then subsequently falls short of the renewed date through no fault of the defendant in such a hypothetical situation).
+
+52     In this reckoning, there had been a divergence in the approaches of the plaintiff and the defendant in coming to the estimated required costs to complete the remaining works. In particular there had been a difference in computing the labour costs. In the final analysis, I had agreed with the contention of the plaintiff in their approach on the matter. Although the plaintiff had terminated their own sub-contract with their labour sub-contractor, I noted the plaintiff’s point that the plaintiff had “taken over” the sub-contractor’s workers who continued with the works under the “direct supervision” of the plaintiff.
+
+53     Comparing the approaches of the plaintiff and the defendant, and upon a careful consideration of the respective merits of the contrasting approaches, I had no hesitation in accepting the plaintiff’s approach as the more appropriate. As the plaintiff, in urging the Court to accept their approach, characterised their report as being the “more cogent, logical and substantiated” of the two contrasting theories. The plaintiff’s contention had been more reasoned, and had been supported by clear logic, in coming to fair estimates of some of the important parameters to be considered, such as the degree of work already done by the plaintiff and the balance to be done, the required expenses to complete all the balance works, of which the balance labour costs was the most crucial in the final analysis.
+
+54     All considered, the plaintiff was entitled to judgment in terms as claimed, interest as aforesaid, and costs. The Counterclaim (save for the said S$500) was dismissed with costs, similarly, to the plaintiff.
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F25212-SSP.xml)
