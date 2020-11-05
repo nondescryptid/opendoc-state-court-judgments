@@ -1,0 +1,161 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Zecha Adam Cornell Lauw Roberts _v_ CSI Sports Network Pte Ltd  
+
+### \[2020\] SGDC 243
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Suit No 186 of 2020 (District Summons No 727 of 2020)</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">30 October 2020</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Hairul Hakkim</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Edmond Pereira and Jessica Cheung Shu Jia (Edmond Pereira Law Corporation) for the plaintiff/respondent; Lim Ker Sheon and Zeng Hanyi (Characterist LLC) for the defendant/applicant.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Zecha Adam Cornell Lauw Roberts — CSI Sports Network Pte Ltd</td></tr></tbody></table>
+
+Conflict of Laws – Choice of jurisdiction – Multi-jurisdictional – Exclusive or non-exclusive – Strong cause
+
+Contract Law – Contractual terms – Express terms
+
+30 October 2020
+
+### Deputy Registrar Hairul Hakkim:
+
+## Introduction
+
+1       This was an application by the defendant to stay the proceedings in DC/DC 186/2020 (“the Suit”) on the primary ground that the Suit was brought in breach of an agreed jurisdiction clause.
+
+2       After I ordered the matter to be stayed, the plaintiff appealed against my decision. I now give my written grounds of decision.
+
+## Relevant facts and procedural history
+
+3       The plaintiff and defendant were parties to a contract of service dated 27 September 2013 (“the Agreement”) under which the defendant had engaged the plaintiff as an exclusive full-time consultant with the title “Managing Director, Asia Pacific”. Subsequently, certain disputes arose between the parties. The details of the precise disputes are however not germane to the issues at hand.
+
+4       Before me, the parties agreed that the governing contract for these disputes was the Agreement, which contained the following choice of law and jurisdiction clause (“the Jurisdiction Clause”):
+
+> V.    Jurisdiction
+
+> This Agreement shall be governed by, and construed in accordance with, the laws of (1) the State of New York without regard to conflicts of law principles if an action is initiated in New York; or (2) England if an action is initiated in England, or (3) Singapore if an action is initiated in Singapore. Any disputes under this Agreement shall be brought in the (1) state courts and/or federal courts located in New York county, New York, and the Parties hereby consent to the exclusive personal jurisdiction and venue of these courts, if an action is filed in New York; or (2) courts of England if an action is filed by either party in England or (3) courts of Singapore if an action is filed by either party in Singapore.
+
+5       It was also not in dispute that on 20 December 2019, the defendant had commenced a suit against the plaintiff in the Supreme Court of the State of New York, County of New York (“the New York Action”). In the New York Action, the defendant alleges breaches of the plaintiff’s obligations under the Agreement and claims among other things, that:
+
+> (a)     the plaintiff granted, without the defendant’s knowledge or consent, a significant discount on fees and other discounts owed to the defendant by one of its Indonesian client; and
+
+> (b)     in breach of the plaintiff’s obligation to work exclusively full-time with the Defendant, the plaintiff had worked on other projects during the contractual term of his engagement with the defendant without seeking the defendant’s approval.
+
+6       On 17 January 2020, the plaintiff filed the present proceedings in the Suit against the defendant, claiming, among other things, unpaid remuneration and commission.
+
+## Parties’ argument
+
+7       The defendant argued that the Suit should be stayed on account of either the Jurisdiction Clause and/or grounds of _forum non conveniens_.
+
+8       The plaintiff argued that the Jurisdiction Clause was unenforceable and in any event, the Jurisdiction Clause was not exclusive and did not apply on the facts of the case to bar the Suit. In the alternative, the plaintiff contended that it was able to demonstrate strong cause to depart from the Jurisdiction Clause. The plaintiff also argued that Singapore was the more appropriate forum for the trial of the Suit.
+
+## The issues
+
+9       Based on the parties’ submissions, the following issues arose for my consideration:
+
+> (a)     first, whether the Jurisdiction Clause was enforceable;
+
+> (b)     second, if the answer to the first issue was in the affirmative, whether strong cause could be shown to refuse a stay; and
+
+> (c)     third, whether the Suit should be stayed on the grounds of _forum non conveniens_.
+
+## Application to the facts
+
+### Whether the Jurisdiction Clause was enforceable
+
+10     In deciding whether the Jurisdiction Clause was enforceable, this issue is to be determined according to the governing law of the Agreement (see _The “Jian He”_ \[1999\] 3 SLR(R) 4324 (“_Jian He_”) at \[10\]). While it was not clear before me what was the governing law of the Agreement, in the absence of any affidavit evidence before me to show that the laws under either New York or English law or any other jurisdiction for that matter was different from Singapore law, I approached the issue on the basis of Singapore law only (see also _Jian He_ at \[10\]).
+
+11     Here, I am guided by the Court of Appeal’s recent decision in _Shanghai Turbo Enterprises Ltd v Liu Ming_ <span class="citation">\[2019\] 1 SLR 779</span> (“_Shanghai Turbo_”) where the clause in question read as follows:
+
+> Governing law
+
+> This Agreement shall be governed by the laws of Singapore/or People’s Republic of China and each of the parties hereto submits to the non-exclusive jurisdiction of the Courts of Singapore/or People’s Republic of China.
+
+12     In summary, the Court of Appeal in _Shanghai Turbo_ held that the first part of the clause (_ie_, the choice of law) was invalid but could be _severed_ from the second part of the clause (_ie_, the choice of forum) as the choice of forum was not _parasitic_ on the choice of law (at \[55\] and \[64\]). I reproduce below the material parts of the Court of Appeal’s reasoning in _Shanghai Turbo_ (at \[64\]):
+
+> … Clause 17 of the Service Agreement related to both the choice of law and the choice of jurisdiction. But the two were **not expressed to be interdependent**, unlike the clause in _The Iran Vojdan_, where Iranian / German / English law was expressly paired with the Iranian / German / English courts respectively. This was a decisive factor in Bingham J’s decision. Indeed, he intimated that **he would have upheld the clause** **_if_** **the choice of law options and the choice of jurisdiction options had been “expressed in the clause as separate options”**. Bingham J also said at 385 col 2 that it is:
+
+>> … the duty of the Court to give a sensible meaning so far as possible to what the parties have agreed and not readily to reject the text of an agreement between the parties as unintelligible.
+
+> We agreed. It was possible to give cl 17 a **sensible meaning by excising its first half** (the words “This Agreement shall be governed by the laws of Singapore/or People’s Republic of China and”). Like the clause in _The Frank Pais_, the two parts of cl 17 did not “hang together”. They were connected only by the word “and”. The Judge thought this showed that the two parts of the clause were “intimately linked” (GD at \[46\]). We respectfully disagree. The word “and” was merely conjunctive; it did not convey any interdependence or contingency. **Nothing in cl 17 made the choice of jurisdiction parasitic upon the choice of law such that the former must fall with the latter**. The parties might well have subjectively intended to pair the jurisdiction with the governing law, such that Singapore courts would apply Singapore law while Chinese courts would apply Chinese law. But that was not apparent from the wording of the clause. As Colman J said of the clause in _Sonatrach_ (at \[39\]):
+
+>> … Although the applicability of a body of substantive law matching that of the selected forum is obviously a commercially and legally convenient objective, it is in this contract in no sense a pre-condition of forum selection.
+
+> \[emphasis in original in italics; emphasis added in bold\]
+
+13     The observations made by the Court of Appeal in _Shanghai Turbo_ applied _a fortiori_ (_ie_, with even greater force) in the present case given that the two parts of the Jurisdiction Clause in the Agreement are not even connected in any way (unlike the conjunctive “and” in _Shanghai Turbo_) and appeared here in two distinct sentences. As such, it was clear to me that the Jurisdiction Clause was clearly valid. In my judgment, adopting the contrary view would have violated the salutary principle that clauses should be interpreted in a manner which makes them lawful and effective (see _Shanghai Turbo_ at \[66\]).
+
+14     Now turning to the question of whether the Jurisdiction Clause applied in the present case, I reproduce below for ease of reference the salient terms of the Jurisdiction Clause:
+
+> … Any disputes under this Agreement shall be brought in the (1) state courts and/or federal courts located in New York county, New York, and the Parties hereby consent to the _exclusive personal jurisdiction_ and venue of these courts, if an action is **_filed_** in New York; or (2) courts of England if an action is filed by either party in England or (3) courts of Singapore if an action is filed by either party in Singapore. \[emphasis added in italics and bold italics\]
+
+15     Here, it was not disputed that the New York Action was indeed filed before the Suit. It therefore followed, based on the plain meaning of the Jurisdiction Clause, that the New York courts have the exclusive jurisdiction to hear the disputes between the parties. The disputes in both the New York Action and the Suit are also inter-connected because the New York Action is likely to be a complete defence to the plaintiff’s claims in the Suit – it would clearly not be expedient or in the interests of justice for these disputes to be heard in different jurisdictions.
+
+16     Additionally, the plaintiff argued that the Jurisdiction Clause did not apply to bar the Suit because the defendant did not serve the papers in respect of the New York Action on the plaintiff. Implicit in this argument was the suggestion that the term “filed” in the Jurisdiction Clause refers also to the additional requirement of service on the other party. I respectfully disagreed with this submission for two reasons.
+
+17     First, the plaintiff’s interpretation was directly contrary to the plain and ordinary meaning of the term “filed” and would in fact require the addition of the word “served” in the same clause. The Court of Appeal has repeatedly emphasised that the starting point in contractual interpretation is always the text of the contract to be construed (see _Y.E.S. F&B Group Pte Ltd v Soup Restaurant Singapore Pte Ltd_ <span class="citation">\[2015\] 5 SLR 1187</span> at \[32\]). Even though the court is entitled to depart from the plain and ordinary meaning, “the meaning imputed by the court \[must still\] be one which ‘the words are reasonably adequate to convey’” (see _Yap Son On v Ding Pei Zhen_ <span class="citation">\[2017\] 1 SLR 219</span> at \[31\], citing _Citicorp Investment Bank (Singapore) Ltd v Wee Ah Kee_ <span class="citation">\[1997\] 2 SLR(R) 1</span> at \[63\]). Here, short of an application in rectification to insert the word “served” into the clause (which may not be even possible in Singapore – see Goh Yihan, “Clarifying Rectification in Singapore” <span class="citation">(2015) 27 SAcLJ 403</span> at paras 33 to 35), in my judgment, “filed” could not reasonably be interpreted to also convey the meaning of “service”.
+
+18     Second, it was telling that the plaintiff himself did not adopt his own proposed interpretation when the present Suit against the defendant was commenced in Singapore (see paragraph 16 of the Statement of Claim):
+
+> As the \[p\]laintiff has **filed** an action in Singapore, any disputes under this \[Agreement\] should be brought in the Singapore Courts, and the Singapore Courts shall have exclusive jurisdiction to hear all such disputes. \[emphasis added\]
+
+### Whether strong cause was shown
+
+19     I turn now to the issue of whether a stay should nonetheless have been refused. The starting point here is that a stay of proceedings would ordinarily be ordered where a party sues in breach of an exclusive jurisdiction agreement unless “strong cause” for refusing a stay is shown (see _Vinmar Overseas (Singapore) Pte Ltd v PTT International Trading Pte Ltd_ <span class="citation">\[2018\] 2 SLR 1271</span> (“_Vinmar_”) at \[71\] and \[112\]).
+
+20     The factors that the court considers in the “strong cause” test are as follows (see _Vinmar_ at \[71\] and _Shanghai Turbo_ at \[94\], citing _Amerco Timbers Pte Ltd v Chatsworth Timber Corp Pte Ltd_ <span class="citation">\[1977–1978\] SLR(R) 112</span> at \[11\]):
+
+> (a)     in what country the evidence on the issues of fact is situated or more readily available, and the effect of that on the relative convenience and expense of trial as between the Singapore and foreign courts;
+
+> (b)     whether the law of the foreign court applies and, if so, whether it differs from Singapore law in any material respect;
+
+> (c)     with what country either party is connected and, if so, how closely;
+
+> (d)     whether the defendant genuinely desires trial in the foreign country, or is only seeking procedural advantages, including the inquiry of whether the applicant is acting abusively in applying for a stay of proceedings; and
+
+> (e)     whether the plaintiff would be prejudiced by having to sue in the foreign court because the plaintiff would:
+
+>> (i)       be deprived of security for its claim;
+
+>> (ii)       be unable to enforce any judgment obtained;
+
+>> (iii)       be faced with a time bar not applicable here; or
+
+>> (iv)       for political, racial, religious or other reasons be unlikely to get a fair trial.
+
+21     One point of preliminary contention between the parties was who bore the burden of proving “strong cause”. The plaintiff argued that the burden was on the defendant because the Jurisdiction Clause is a non-exclusive jurisdiction clause, relying on _Shanghai Turbo_. I respectfully disagreed. The burden was on the applicant-defendant in _Shanghai Turbo_ because he was seeking to not be bound by the contractual agreement to submit non-exclusively to Singapore as one of the named jurisdictions. This much is clear from the following passages in _Shanghai Turbo_:
+
+> 86    It follows that any challenge to the exercise of jurisdiction – for example an application to set aside a court order granting the _plaintiff_ leave to serve out of jurisdiction, or to stay those proceedings in favour of proceedings elsewhere – amounts to an attempt to be released from the non-exclusive jurisdiction clause. This is so even if the _defendant_ applies to stay the proceedings in favour of proceedings in another jurisdiction _also_ stated in the clause. … The defendant would have to show strong cause to justify such a result.
+
+> 88    Therefore, much depends on whether in the case before the Singapore court, Singapore is the forum named in the non-exclusive jurisdiction clause:
+
+>> (a)    If it is, then the _defendant_ must show strong cause why he should not be bound to his contractual agreement to submit. …
+
+22     On the present facts however, the language of the Jurisdiction Clause was different: the parties had agreed to submit to the _exclusive_ jurisdiction of the courts where the action is filed. This meant that for instance, if an action is filed in New York, the parties are taken to have agreed to the exclusive jurisdiction of the New York courts.
+
+23     The mere fact that there are three distinct jurisdictions stated in the Jurisdiction Clause does not mean that the parties did _not_ intend for their disputes to be only heard in the court where the action was first filed (see Yeo Tiong Min, “The contractual basis of the enforcement of exclusive and non-exclusive choice of court agreements” <span class="citation">(2005) 17 SAcLJ 306</span> at para 20). In my judgment, the contrary interpretation would be an affront to the parties’ intentions, clearly expressed in their preference for the use of the term “exclusive” in the Jurisdiction Clause as opposed to the term “non-exclusive” as in _Shanghai Turbo_ (see \[11\] above).
+
+24     It therefore followed that the burden was on the plaintiff to show “strong cause” as it was the plaintiff that was seeking to renege from his contractual obligation to submit to the exclusive jurisdiction of New York courts.
+
+25     In attempting to demonstrate “strong cause”, the plaintiff relied on the following grounds:
+
+> (a)     the defendant is a company incorporated in Singapore with a local registered office and the plaintiff is a Singapore Permanent Resident and has been ordinarily resident in Singapore for many years;
+
+> (b)     the scope of the plaintiff’s duties and responsibilities under the Agreement are confined only to Asia-Pacific countries, including Singapore and he also performed his obligations from Singapore;
+
+> (c)     the defendant does not genuinely desire trial in New York but is only seeking procedural and tactical advantages;
+
+> (d)     it would cause great inconvenience to the plaintiff to make the claim in New York and he would have to incur significant costs to conduct the proceedings in New York from Singapore; and
+
+> (e)     the governing law of the Agreement is Singapore since the contract for service largely related to work done in Southeast-Asian countries.
+
+26     I was however not convinced that “strong cause” was demonstrated by the plaintiff. In this connection, it has been emphasised by the Court of Appeal that factors (a) and (c) (see \[20\] above) would have “little weight if they were foreseeable at the time when the parties made the jurisdiction agreement” (_Shanghai Turbo_ at \[96\], citing _Vinmar_ at \[72\] and \[112\]). Therefore, the arguments on personal connections, additional expense and inconvenience, which clearly fell short of any suggestion of “denial of justice” (see _Vinmar_ at \[134\]) had little to no weight.
+
+27     As for the governing law of the Agreement, I repeat my point above at \[10\] that no affidavit evidence on foreign law was tendered by either parties to show whether there were any material differences in the applicable laws. There was also no suggestion of any abuse of process here, bearing in mind the Court of Appeal’s observation in _Vinmar_ that the “threshold for abusive conduct is very high” (at \[131\]).
+
+28     I accordingly found that the plaintiff was unable to show the existence of any strong cause to prevent the stay of proceeding in this case.
+
+29     Given my determination above, it was not necessary for me to consider the alternative ground for staying the action on grounds of _forum non conveniens_.
+
+## Conclusion
+
+30     For the foregoing reasons, I granted the stay in favour of the defendant.
+
+31     After hearing the parties on costs, I also fixed the costs of the application in the sum of $3,500 (inclusive of reasonable disbursements) to be paid by the plaintiff to the defendant.
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F25221-SSP.xml)
