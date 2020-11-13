@@ -1,0 +1,178 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Tung See Wah  
+
+### \[2020\] SGMC 52
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Magistrate Arrest Case No. 904494 of 2020 &amp; Ors, Magistrate's Appeal No. 9848 of 2020</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">05 November 2020</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">Magistrates Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">May Lucia Mesenas</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Rashvinpal Kaur Dhaliwal (Attorney-General's Chambers) for the Public Prosecutor; Accused in person.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Tung See Wah</td></tr></tbody></table>
+
+Criminal Procedure and Sentencing – Sentencing
+
+\[LawNet Editorial Note: An appeal to this decision has been filed in MA 9848/2020/01.\]
+
+5 November 2020
+
+### District Judge May Lucia Mesenas:
+
+## Introduction
+
+1       The accused pleaded guilty to three charges, namely, one count of criminal intimidation for threatening his wife by pointing a knife at her and shouting that he would stab her and chop off her head, an offence punishable under the second limb of section 506 of the Penal Code (Cap 224, 2008 Rev Ed)(“Penal Code”); one count of breaching the personal protection order (“PPO”), as a result of committing the above offence, under section 65(8) of the Women’s Charter, Cap 353 (“Women’s Charter”) and one count of voluntarily causing hurt to his wife by grabbing her chest area and slapping her on her left cheek, which offence is punishable under section 323 of the Penal Code.
+
+2       Two other charges, namely, for breaching the PPO, by voluntarily causing hurt to the said victim (as per the proceeded charge above) and threatening to throw the victim down from the building, thereby causing her alarm, under section 3(1)(a) of the Protection from Harassment Act, (Cap 256A, 2015 Rev Ed), were taken into consideration (“TIC”) for purposes of sentencing. These two offences were committed on the same occasion as the voluntarily causing hurt charge.
+
+3       The accused was sentenced to serve a global sentence of 18 months’ imprisonment. The sentence of imprisonment was backdated to the first day of his remand, namely, 16 June 2020. He is currently serving his sentence. The accused has since filed an appeal against the sentence.
+
+## Summary of Facts
+
+4       The accused is Tung See Wah, a 64-year-old male Singaporean, residing at Block 225 Lorong 8 Toa Payoh, #XXX, Singapore (“the flat”), together with the victim, Lee Lee Cheng, 61 years old, who is the accused’s wife, at the material time.
+
+### Facts relating to the criminal intimidation and breach of PPO charges (MACs 904494-5/2020)
+
+5       On 14 June 2020 at about 10.04 p.m., the victim lodged a police report at Toa Payoh Neighbourhood Police Centre (“NPC”), informing that the accused had threatened to stab her with a knife.
+
+6       Earlier on 14 June 2020 at about 8.00 p.m., the victim was in her bedroom while the accused was smoking in the living room of the flat. A dispute arose between the victim and the accused over the latter’s smoking which caused cigarette smoke to fill the flat.
+
+7       During the dispute, the victim noted that the accused was getting agitated and more aggressive, following which she cautioned him to refrain from any physical violence as she had a valid PPO against him. Upon hearing this, the accused became angrier. He went into the kitchen, and retrieved a knife measuring 27 cm in length, with a 15 cm blade. He then pointed the knife towards the victim, threatened to stab her, and shouted “wait I chop off your bloody head”. The victim, fearing for her safety, kept silent until the accused calmed down and put the knife back into the kitchen.
+
+8       On 7 September 1998, a PPO which prohibits the accused from displaying family violence against the victim was issued. It was in force at the time the above offence was committed and continues to be so.
+
+### Facts relating to the voluntarily causing hurt charge (MAC-904496-2020)
+
+9       On 16 November 2019 at or about 5.53 p.m., the victim lodged a police report at the Toa Payoh Neighbourhood Police Centre (“NPC”), informing that the accused had assaulted her in the flat.
+
+10     On the same day at about 8.00 a.m., the accused and the victim had a verbal dispute in the bedroom of the flat. In the course of the dispute, the accused grabbed the victim on the chest area, and slapped her once on her left cheek using his right hand. As a result, the victim sustained some bleeding on her upper lip, and felt pain in her chest.
+
+11     The accused was initially given a 12-month conditional warning in respect of this charge (as well as the two TIC charges). However, he breached the conditional warning by committing the offences of criminal intimidation and breaching the PPO as highlighted above.
+
+## Antecedents
+
+12     The accused’s previous convictions are set out in the table below for ease of reference:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="30%"> <col width="36%"> <col width="34%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Date of sentence</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Offence</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Sentence</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">30 November 1995</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Voluntarily causing hurt by dangerous weapon/means - Section 324 Penal Code (PC)</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Fine $1000 i/d 3 months’ imprisonment</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">22 August 1989</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Voluntarily causing hurt by dangerous weapon/means - Section 324 PC</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">3 years’ imprisonment</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">2 November 1999</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Breach of PPO –Section 65(8) Women’s Charter (WC)</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">5 months’ imprisonment</p></td></tr><tr><td align="left" class="br" rowspan="2" valign="top"><p align="justify" class="Table-Para-1">29 October 2001</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Breach of PPO - Section 65(8) WC</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">12 months’ imprisonment</p><p align="justify" class="Table-Para-1">(Consecutive)</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Criminal Intimidation – section 506 PC</p><p align="justify" class="Table-Para-1">(TIC: Affray – section 160 PC)</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">12 months’ imprisonment</p><p align="justify" class="Table-Para-1">(Consecutive)</p><p align="justify" class="Table-Para-1"><b>Total: 24 months’ imprisonment</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">14 May 2003</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Breach of PPO - Section 65(8) WC</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">12 months’ imprisonment</p></td></tr><tr><td align="left" class="br" rowspan="2" valign="top"><p align="justify" class="Table-Para-1">24 May 2004</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Breach of PPO - Section 65(8) WC</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Corrective Training – 5 years</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Vandalism – section 3 Vandalism Act</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Corrective Training – 5 years with 3 strokes of the cane</p><p align="justify" class="Table-Para-1"><b>Total: Corrective Training – 5 years with 3 strokes of the cane</b></p><p align="justify" class="Table-Para-1">&nbsp;</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">29 June 2010</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Breach of PPO - Section 65(8) WC</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">9 months’ imprisonment</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">8 June 2011</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Breach of PPO - Section 65(8) WC</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">6 months’ imprisonment</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">14 December 2012</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Breach of PPO - Section 65(8) WC – 2 counts</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">6 months’ imprisonment per charge (Concurrent)</p><p align="justify" class="Table-Para-1">Total: 6 months’ imprisonment</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">29 January 2014</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Breach of PPO - Section 65(8) WC – 2 counts; (TIC: 2 counts under section 65(8) WC)</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">12 months’ imprisonment and 8 months’ respectively (Concurrent)</p><p align="justify" class="Table-Para-1"><b>Total: 12 months’ imprisonment</b></p></td></tr><tr><td align="left" class="br" rowspan="2" valign="top"><p align="justify" class="Table-Para-1">3 October 2016</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Breach of PPO - Section 65(8) WC – 2 counts;</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">9 months’ imprisonment per charge</p><p align="justify" class="Table-Para-1">(Consecutive)</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Rash act – section 336(a) PC</p><p align="justify" class="Table-Para-1">(TIC: 2 counts under section 65(8) WC)</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">2 weeks’ imprisonment</p><p align="justify" class="Table-Para-1">(Concurrent)</p><p align="justify" class="Table-Para-1"><b>Total: 18 months’ imprisonment</b></p></td></tr></tbody></table>
+
+  
+  
+
+13     On 7 November 1995, the accused was also placed on record as being a member of an unlawful society by the Registrar of Societies.
+
+## Submissions on sentence
+
+### Prosecution’s submissions
+
+14     The Prosecution submitted that the dominant sentencing principles in this case are prevention and protection, especially in favour of the accused’s wife. The DPP put forth the following in support of the above:
+
+> (a)     The accused is heavily traced for similar offences with a litany of similar convictions;
+
+> (b)     There is a high risk of re-offending with low rehabilitative potential; and
+
+> (c)     The accused was not in a state of relapse for his schizoaffective disorder at the material time and given that there was no contributory link between his mental condition and the commission of the offences, little mitigatory weight ought to be given to his mental condition.
+
+15     The Prosecution sought a global sentence of 18 months’ imprisonment with the following sentences to be imposed on the respective offences, and the sentences for both the offences of criminal intimidation and voluntarily causing hurt to run consecutively:
+
+> (a)     Criminal intimidation under Section 506 of the Penal Code (second limb) - 15 months’ imprisonment;
+
+> (b)     Breach of PPO under Section 65(8) Women’s Charter – 12 months’ imprisonment; and
+
+> (c)     Voluntarily causing hurt under Section 323 of the Penal Code – three months’ imprisonment.
+
+16     The DPP cited the relevant sentencing case precedents to support her proposed sentence for the court’s consideration. In particular, she highlighted the case of _PP v Koh Ah Chwee_ <span class="citation">\[2016\] SGDC 77</span> (“_Koh Ah Chwee_”), where the offender, who did not have violence related antecedents, pleaded guilty to seven charges, which included two counts of criminal intimidation punishable under section 506 of the Penal Code (second limb) and one count punishable under the first limb. He was sentenced to 18 months’ imprisonment for one count of criminal intimidation (second limb), involving his wife. Six other charges were taken into consideration for purposes of sentencing, which included five charges for criminal intimidation (and for which two of these charges involved his wife), and one charge under section 6(1) of the Corrosive and Explosive Substances and Offensive Weapons Act (Cap 65, 2013 Rev Ed). A sentence of 15 months’ imprisonment was sought for the present case in view of the fewer charges for criminal intimidation faced by the accused.
+
+17     As for the offence of breaching the PPO, the prosecution submitted for 12 months’ imprisonment, in view of the following factors:
+
+> (a)     Stiff sentences should be imposed in deserving cases of family violence as the wilful contravention of a PPO has been regarded by the courts as a ‘serious offence’ (see _Wong Leong Chin v PP_ \[2000\] 3 SLR (R) 560 (“_Wong Leong Chin_”));
+
+> (b)     The accused is heavily traced for similar offences and for which lengthy imprisonment terms have failed to deter him from re-offending;
+
+> (c)     The victim is the accused’s wife and 61 years old at the material time, and for which abuse within the confines of a familial relationship is an abuse of the bonds of trust between family members which has been regarded as an aggravating factor (see _PP v Luan Yuanxin_ \[2002\] 2 SLR 98 (“_Luan Yuanxin_”)).
+
+18     In support of the three-month imprisonment term for the offence of voluntarily causing hurt, the prosecution highlighted the case of L_ow Song Chye v PP and anor_ <span class="citation">\[2019\] SGHC 140</span> (“_Low Song Chye_”), where the High Court laid down the sentencing framework for first time offenders facing a similar charge and who pleaded guilty to the same.
+
+19     In the present case, the prosecution submitted that the injuries sustained by the victim were fairly minor, and for which the indicating sentencing range would fall under Band 1 of the sentencing framework, consisting of a fine or custodial sentence of up to four weeks. However, in view of the accused’s previous violence related convictions and the vulnerability of the victim, it was submitted that a sentence of three months’ imprisonment would be appropriate.
+
+### Mitigation plea
+
+20     The accused, who was unrepresented, did not give his plea of mitigation. It was only after I had enquired of his living arrangements upon his release from prison, did the accused claim that he would be staying with his son and his 102-year old mother (who was wheel-chair bound) instead.
+
+## Sentence
+
+### The governing sentencing principles
+
+21     All the offences were committed within the context of family violence against his wife. The courts have consistently taken a strict approach in sentencing offenders who wilfully contravene a PPO. This is also supported by the fact that second or subsequent conviction would be liable to attract a harsher sentence than the first conviction as may be seen from the provision under section 65(8) of the Women’s Charter itself. The case of _Wong Leong Chin_ (_supra_) is instructive, where the High Court held at \[47\] and \[49\]:
+
+> ..Apart from the possible act of assaulting or causing hurt to a spouse, wilful contravention of such a protection order also amounts to a wilful breach of an order of court. In cases of wilful contravention of protection orders by causing hurt, the facts and circumstances constituting the offence may vary considerably and each case has to be looked at on the basis of its own particular facts. The seriousness of the injuries suffered by the victim is a factor to be considered in sentencing the offender. …
+
+> …**Public policy also requires that vulnerable members of the family such as wives** and children **should be protected from violence. A deterrent sentence in the form of imprisonment should be imposed in deserving cases of family violence** \[Emphasis mine\].
+
+22     The seriousness of the offences is further reflected in the punishments prescribed below where threats of violence and physical violence have been committed against the victim:
+
+> (a)     Section 506 of the Penal Code (second limb) – imprisonment of up to 10 years or fine or both;
+
+> (b)     Section 65(8) of the Women’s Charter – enhanced punishment of either a fine up to $5,000 or imprisonment of up to 12 months or to both; and
+
+> (c)     Section 323 of the Penal Code – fine of up to $5,000 or imprisonment of up to two years or with both.
+
+23     In consideration of the sentences to be imposed for the current case, the sentencing principles of deterrence, both general and specific, especially in view of the accused’s numerous convictions for similar violence related offences as well as multiple offences for breaching the PPO (see \[12\] above), would be called into play. I further agreed with the prosecution on the added need for prevention and protection of the public, especially so for the victim in the present case, given that she has been the victim for all previous breaches of the PPO, where violence had been inflicted upon her.
+
+### The appropriate sentence
+
+24     I took into account the fact that the accused had pleaded guilty to the charges and had saved valuable time and resources. The accused stated that he would not be living with the victim upon his release from prisons, suggesting that family violence may less likely be committed against his wife in future. However, this can only be seen with the passage of time upon his eventual release from prisons as his criminal history suggests otherwise. There were no attempts on the accused to mitigate, which would warrant any further credit to be given in his favour.
+
+#### Criminal intimidation charge
+
+25     The aggravated form of criminal intimidation (namely, punishment under the second limb) attracts a much harsher punishment which is distinguishable from the charge of criminal intimidation _simpliciter_, where the punishment prescribed is imprisonment of up to two years, or with fine or with both. The accused had held a knife with a 15-cm blade and pointed it at the victim, threatened to stab her and chop off her head. As noted in the case of _Luan Yuanxin_ at \[9\]:
+
+> Such a threat when made in all seriousness by someone who is not clearly incapable of carrying out the threat is something that should never be taken lightly. This is particularly so when a weapon is used by the accused as part of the threat since the presence of a weapon serves not only to make the threat more menacing, but also goes towards proving the maker’s intent to cause alarm to his victim.
+
+26     The custody threshold had clearly been crossed in view of the aggravating factors, namely, where a dangerous weapon such as a knife was used when the accused threatened to chop off the victim’s head and the fact that the threat was directed at his elderly wife, who was 61 years old, a vulnerable victim, and alone at home with the accused at the material time. The threat was clearly intended to cause death or grievous hurt, which did in fact cause the victim to fear for her safety, and lodge the police report thereafter.
+
+27     In the table of sentencing precedents tendered before me for offences of criminal intimidation (punishable under the second limb), where threats accompanied with the use of weapons (such as a parang, hammer, knife) were made in the familial context, the sentences range between eight to 18 months’ imprisonment.
+
+28     In the case of _Koh Ah Chwee_ (supra), I was mindful that the offender had unrelated antecedents as well as the fact that there were also five other charges for criminal intimidation which were taken into consideration for purposes of sentencing. In the current case, the accused faced a single charge of criminal intimidation. I agreed with the prosecution that a sentence of 18 months’ imprisonment imposed on _Koh_ for the aggravated form of criminal intimidation charge (involving _Koh’s_ wife), ought to be calibrated downwards, in determining the appropriate sentence to be imposed on the current accused.
+
+29     In the case of _PP v Chan Hoo Keong_ <span class="citation">\[2007\] SGDC 187</span> (“_Chan Hoo Keong_”), the offender was convicted after trial on one charge of criminal intimidation, for pointing a knife at the victim, his sister, and threatening to kill her, with intent to cause her alarm. Their parents intervened and stood between the victim and the accused. The victim then proceeded to make a call to the police. However, before she could do so, the offender used his hand to grab hold of her neck. With the help of her parents, the victim managed to free herself and ran to the room where she locked herself in there. The offender had previous convictions for causing hurt against a public servant (section 332 of the Penal Code) as well as breaching the PPO involving his family members, which included the victim (section 65(8) of the Women’s Charter). He was sentenced to three months’ and four months’ imprisonment respectively, giving rise to a total sentence of seven months’ imprisonment. For the charge of criminal intimidation, the accused was sentenced to 12 months’ imprisonment and his appeal against conviction and sentence was dismissed by the High Court.
+
+30     Turing to the current case, I took into account the circumstances leading to the commission of the offence, which was sparked off by an argument between the accused and the victim over the accused smoking in the flat. The accused’s outburst of threatening the victim with a weapon, was clearly disproportionate to the dispute that the couple had, especially when the victim reminded the accused of the PPO which she had in force when she noticed that the accused was getting increasingly agitated and aggressive. Whilst I note that the police report was made about two hours after the incident, nonetheless, the victim had evidently feared for her safety at the material time, as the accused was prone to resorting to family violence in view of his multiple previous convictions for breaching the PPO.
+
+31     I am mindful that the offender in the case of _Chan Hoo Keong_ had claimed trial to the charge of criminal intimidation and had two similar previous convictions for breaching the PPO, whereas the current accused had instead pleaded guilty to the charges. That said, it was most troubling to note that the current accused had far more previous similar convictions for violence related offences (namely, for criminal intimidation as well as voluntarily causing hurt by dangerous means/weapon), as compared to _Chan Hoo Keong_. Whilst arguably dated, the accused’s past criminal history, nonetheless, patently revealed that he was not averse to resorting to violence. Given the presence of more aggravating factors in the current case as compared to _Chan Hoo Keong_, on balance, a sentence higher than 12 months’ imprisonment, which was imposed in _Chan Hoo Keong_, would be justified.
+
+32     In the case of _PP v Raimi Bin Hassan_ <span class="citation">\[2017\] SGDC 278</span> (“_Raimi_”), the accused pleaded guilty to three charges, including one count of criminal intimidation, by threatening to cause death to his mother. During an emotional outburst, the accused took a parang, pointed it at the victim, and threatened her as well as her children. The victim called her daughter, who in turn, called for the police. The accused was sentenced to eight months’ imprisonment for the charge of criminal intimidation and the prosecution’s appeal against sentence was dismissed. The accused had one violence related conviction for one count under section 324 of the Penal Code where he received a six-month imprisonment term. One charge under section 323 and another under section 506 of the Penal Code were taken into consideration for purposes of sentencing (see \[12\] of _Raimi’s_ case).
+
+33     The current case can be distinguished from _Raimi_’s case, in that the mitigating factors (which included the fact that the incident was triggered by a misunderstanding), were conspicuously absent here. There was nothing before me, which was mitigatory, that I could take into account, such that a shorter imprisonment term than the period submitted by the prosecution, ought to be considered.
+
+34     Given the circumstances surrounding the commission of the offence and in light of the sentencing precedents highlighted above, I was of the view that a sentence of 15 months’ imprisonment was thus appropriate.
+
+#### Breach of PPO charge
+
+35     The courts have consistently taken a strict approach in sentencing of matters concerning family violence, especially where there has been a wilful contravention of a PPO (see \[21\] above). This case is no different especially in view of the accused’s litany of similar convictions dating back to the 1990s. As highlighted above at \[12\], the accused had previously been convicted for breaching the PPO on nine occasions, where the maximum sentence of 12 months’ imprisonment had been imposed on no less than three occasions, namely in 2001, 2003 and 2014 respectively. Even a sentence of Corrective Training of five years in 2004, for a similar offence, which was intended for his ‘reformation and the prevention of crime that he should receive training of a corrective character[^1]’, had failed to deter the accused from repeated wilful contraventions of the PPO.
+
+36     The High Court case of _PP v Low Ji Qing_ <span class="citation">\[2019\] 5 SLR 769</span> (“_Low Ji Qing_”) at \[59\] –\[60\], which held as follows is instructive:
+
+> The cumulative increase in sentences reflect the fact that prior sentences (specifically, the severity of those sentences) have failed to stop an accused from criminality. Consideration is therefore given to whether a longer term of imprisonment might be called to deter the accused person from committing a possible further offence: see _PP v Ng Bee Ling Lana_ \[1992\] 1SLR (R) 448 (“_Lana Ng_”) at \[13\].
+
+37     In light of the above, as well as the accused’s litany of previous similar convictions, I was minded to apply the principle of escalation to reflect the need for specific deterrence. As the accused had an additional charge for breaching the PPO taken into consideration for purposes of sentencing, I thus determined that a 12-month imprisonment term --- an uplift from the nine-month imprisonment term which the accused received in 2016 --- would be appropriate.
+
+#### Voluntarily causing hurt charge
+
+38     Taking guidance from the High Court case of _Low Song Chye_ (_supra_) in sentencing cases of voluntarily causing hurt, the indicative starting points are based on the seriousness of the injury caused to the victim. I agreed with the prosecution that the starting point would fall under Band 1 of the sentencing framework. Whilst I am mindful that the victim did not seek medical attention, I note that she sustained some bleeding on her upper lip, suggesting that the one slap delivered by the accused would have been accompanied with substantial force. There would be no doubt that the victim would have suffered pain as a result of this as well as the accused grabbing her chest.
+
+39     Furthermore, the custody threshold was clearly crossed in view of the aggravating factors which, included hurt being inflicted on vulnerable parts of the victim, namely, her face and chest, the accused’s relevant antecedents for violence related offences and the fact that the victim is elderly, falling into a specific category of persons to be protected.
+
+40     In my judgement, such aggravating factors as highlighted above warranted a greater need for deterrence and an uplift in excess of four weeks’ imprisonment (see \[81\] of _Low Song Chye_). A sentence of three months’ imprisonment was thus justified, to reflect the court’s disapprobation that repeated acts of family violence would not be tolerated.
+
+## Conclusion
+
+41     In the latest report from the Institute of Mental Health (“IMH”), the accused was assessed to have ‘schizoaffective disorder’. However, the IMH psychiatrist opined that he was not in a relapsed state at or around the material time, when the offences were committed (see IMH report dated 25 September 2020). As such, I placed little weight on this as there was nothing before me that would suggest that the accused’s culpability was reduced by virtue of his mental disorder. In fact, the accused was further diagnosed to have an anti-social personality disorder, which I did not think would warrant a discount in sentencing but in fact, merely explains his persistent re-offending.
+
+42     It has come to my attention in the course of writing these Grounds of Decision that the charge of criminal intimidation was classified as a Magistrate’s Arrest Case (“MAC”), even though the prosecution was proceeding under the second limb of section 506 of the Penal Code. As the punishment prescribed under the second limb of section 506 of the Penal Code includes an imprisonment of up to 10 years, a Magistrate’s Court does not have jurisdiction to try this charge. That said, I note, however, that the accused was fully aware of the punishment prescribed when he pleaded guilty to this charge. In any event, the sentence of 15 months’ imprisonment for the criminal intimidation charge was within the sentencing power of a Magistrate’s Court[^2].
+
+43     Bearing in mind the one-transaction rule and the totality principle, I found it fitting to order two of the sentences to run consecutively, which would adequately address the accused’s blatant disregard of the law in choosing to repeatedly re-offend and his overall culpability. Indeed, there is a need to send a message to the accused that he ought not to give vent to his anger and frustrations so easily, specifically, towards his spouse, whenever a dispute arose between them. This was especially stark given that the accused had re-offended, within about seven months, after the commission of the voluntarily cause hurt charge, which was in flagrant breach of the 12-month conditional warning given for the former offence, by committing the criminal intimidation charge.
+
+44     Accordingly, the imprisonment terms for the criminal intimidation charge and the voluntarily causing hurt charge (for which both these offences were committed on separate occasions), were ordered to run consecutively, giving an aggregate sentence of 18 months’ imprisonment, which was just and appropriate. Consistent with the approach taken by the High Court in _PP v Raveen Balakrishnan_ <span class="citation">\[2018\] 5 SLR 799</span> (“_Raveen_”), I did not think that an adjustment of the individual sentences was warranted having regard to the fact that the aggregate sentence was not crushing to the accused given his record and prospects (see \[108\] of _Raveen_). In the main, the overall sentence was imposed to reflect the need for the prevention of crime and protection of the public.
+
+* * *
+
+[^1]: Section 304(1) Criminal Procedure Code (Cap 68, Rev Ed 2012)
+
+[^2]: See section 303(3)(a) of the Criminal Procedure Code (Cap 68, Rev Ed 2012) where a Magistrate’s Court may pass an imprisonment term not exceeding 3 years.
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F25251-SSP.xml)
