@@ -1,0 +1,125 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Winnie Chow Gee Sing _v_ Sheng Seng Construction Pte Ltd and another  
+
+### \[2020\] SGDC 259
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">District Court Suit No 1250 of 2019 (Summons No 258 of 2020), District Court/Registrar's Appeal No 58 of 2020, High Court/Registrar's Appeal No 27 of 2020</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">10 November 2020</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Lim Wee Ming</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Mr Naresh Mahtani (Eldan Law LLP) for the plaintiff; Mr Justin Tan (Harry Elias Partnership) for the second defendant</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Winnie Chow Gee Sing — Sheng Seng Construction Pte Ltd — Huang Dui Mou</td></tr></tbody></table>
+
+Civil Procedure – Striking out
+
+Building and Construction Law – Building and construction related contracts – Guarantees and bonds
+
+\[LawNet Editorial Note: An appeal to this decision has been filed in RA 27/2020.\]
+
+10 November 2020
+
+### District Judge Lim Wee Ming:
+
+## Introduction
+
+1       This was an appeal by the second defendant against the deputy registrar’s decision, dismissing the second defendant’s application to strike out the plaintiff’s claim on a guarantee furnished by the second defendant. The application was made under O 18 r 19 of the Rules of Court (Cap 322, 2014 Rev Ed).
+
+2       I dismissed the second defendant’s appeal. The second defendant has appealed against my decision.
+
+## Facts
+
+3       The plaintiff engaged the first defendant for the construction of a three- storey house at Lorong H Telok Kurau (“the Project”), under a letter of award dated 30 April 2013 (“the Letter of Award”). The agreement between the plaintiff and the first defendant (“the Construction Contract”), is contained in the Letter of Award, the tender drawings and specifications, the first defendant’s quotation dated 24 April 2013 and the Singapore Institute of Architects Articles and Conditions of Building Contract (Lump Sum Contract, 9th Edition).
+
+4       The second defendant was at the material time, the managing director and shareholder of the first defendant. Pursuant to clause 8 of the Letter of Award, the second defendant provided the plaintiff with a guarantee dated 30 April 2013 (“the Guarantee”), wherein the second defendant guaranteed to the plaintiff the first defendant’s performance of its obligations and liabilities under the Construction Contract.
+
+5       The key provisions of the Guarantee[^1] that are in contention are as follows:
+
+> (a)     Clause 1 which provides:
+
+>> \[The second defendant\] HEREBY IRREVOCABLY AND UNCONDITIONALLY GUARANTEE _the due completion of \[the Project\] by \[the first defendant\] for \[the plaintiff\] (the “Transaction”)_ and due and punctual payment to \[the plaintiff\] on demand, as principal debtor and not merely as surety, all monies (whether principal, interest, overdue interest or other monies), and the performance of all, obligations and liabilities, whether present or future, actual or contingent, primary or collateral which are now or may at any time hereafter be or become from time to time due, payable or owing to \[the plaintiff\] by \[the first defendant\] in Singapore _under the Transaction_ or in respect of which \[the first defendant\] may be or become liable to \[the plaintiff\] together with interest on any such monies at the rate which is the prime lending rate of DBS Bank (DBS) calculated on a daily basis …
+
+>> (emphasis added in italics, emphasis in capital are original)
+
+> (b)     Clause 2(a) which provides:
+
+>> \[the second defendant\] hereby irrevocably and unconditionally undertakes to indemnify \[the plaintiff\] up to a sum of Singapore Dollars: One Million and Forty-Nine Thousand Dollars (S$1,049,000.00) (100% of the total value of the \[Construction Contract\]) against all losses, damages, liabilities, claims, costs and expenses whatsoever which \[the plaintiff\] may sustain or incur as a result of or _arising from the Transaction_ as well as all legal costs as between solicitors and clients and all other costs and disbursements incurred, on a full indemnity basis, for or in connection with demanding and enforcing payment or performance of all Guaranteed Obligations or otherwise howsoever in enforcing this Guarantee and/or any of the covenants, agreements, undertakings, stipulations, terms, conditions or provisions of the Guarantee
+
+>> (emphasis added in italics)
+
+6       The architect for the Project, issued a Completion Certificate dated 16 October 2014 for the Project, stating that the works were completed on 25 September 2014. Thereafter, the Temporary Occupation Permit, Maintenance Certificate and Certificate of Statutory Completion were also issued. However, the plaintiff’s position is that the first defendant had failed to rectify the outstanding defects at the Project.
+
+7       In a letter dated 17 November 2014 from the plaintiff to the first defendant, the plaintiff provided a list of works to be completed and a list of defects, further to a joint inspection carried out on 15 November 2014. This letter was signed by the second defendant as the managing director of the first defendant, stating “Acknowledged and agreed”.[^2]
+
+8       In a subsequent letter dated 6 January 2015 from the plaintiff to the first defendant, the plaintiff complained that the defects were not rectified in full and set out a list of works that remained to be completed. This letter was supported by the architect and signed by the second defendant as the managing director of the first defendant, stating “Acknowledged and agreed”.[^3]
+
+9       Further defects were subsequently discovered and D+J Consultants Pte Ltd (“D+J”) were engaged in January 2017 to conduct a site inspection to record the defects and determine the costs of rectification. D+J produced a report dated 8 May 2017, listing out the defects and the cost of rectification.[^4] Some of the defects recorded included:
+
+> (a)     cracks on the walls of the swimming pool area,
+
+> (b)     waterproofing issues at the main entrance door,
+
+> (c)     cracks and defective painting at the landscape area,
+
+> (d)     cracks and defective painting at the external boundary wall,
+
+> (e)     stagnant water at the balcony area,
+
+> (f)     cracks at the courtyard,
+
+> (g)     water seepage at the skylight,
+
+> (h)     incomplete bathroom work,
+
+> (i)     water seepage at the balcony, and
+
+> (j)     water seepage from roof covering.
+
+10     In March 2019, Vision Building Forensics Pte Ltd was instructed to call for a tender for the rectification of the defects.[^5] The plaintiff claims that the lowest quote for the rectification works was $248,300.[^6]
+
+## The application to strike out
+
+11     The plaintiff’s claim against the first defendant is for breach of the Construction Contract in failing to rectify the outstanding defects. The plaintiff’s claim against the second defendant is under the Guarantee.
+
+12     The second defendant is seeking to strike out the plaintiff’s claim on the basis that the Guarantee is discharged once the Project has been completed, as clause 1 of the Guarantee defines the “Transaction” as “the due completion of \[the Project\] by \[the first defendant\] for \[the plaintiff\]”. The second defendant’s application was filed on 17 January 2020, just a few weeks before affidavits of evidence-in-chief were due to be exchanged on 11 February 2020.
+
+13     The plaintiff relies on clause 2(a) of the Guarantee, which provides for the second defendant to indemnify the plaintiff “against all losses, damages, liabilities, claims, costs and expenses whatsoever which \[the plaintiff\] may sustain or incur as a result of or _arising from_ the Transaction” (emphasis added). Essentially, the plaintiff’s position is that the words “arising from” is sufficiently broad to cover the defects claimed by the plaintiff.
+
+## Decision
+
+14     In _Gabriel Peter & Partners v Wee Chong Jin_ (“_Gabriel Peter_”) \[1997\] 3 SLR (R) 649 at \[18\], the Court of Appeal held:
+
+> In general, it is only in plain and obvious cases that the power of striking out should be invoked. … It should not be exercised by a minute and protracted examination of the documents and facts of the case in order to see if the plaintiff really has a cause of action. The practice of the courts has been that, where an application for striking out involves a lengthy and serious argument, the court should decline to proceed with the argument unless, not only does it have doubts as to the soundness of the pleading but, in addition, it is satisfied that striking out will obviate the necessity for a trial or reduce the burden of preparing for a trial.
+
+15     The Court of Appeal further stated at \[21\]:
+
+> A reasonable cause of action … connotes a cause of action which has some chance of success when only the allegations in the pleading are considered. As long as the statement of claim discloses some cause of action, or raises some question fit to be decided at the trial, the mere fact that the case is weak and is not likely to succeed is no ground for striking it out.
+
+16     The second defendant has raised the argument that the Completion Certificate issued by the architect is not disputed and accordingly, the Guarantee is therefore discharged. However, in a letter dated 15 September 2017 from the plaintiff’s solicitors to the architect, the architect was informed that the Completion Certificate dated 16 October 2014 had been wrongly issued without a schedule of outstanding works.[^7] Although the plaintiff’s dispute with the architect was resolved under a settlement agreement dated 5 April 2018, the architect was required to pay a settlement sum of $55,000.[^8]
+
+17     The plaintiff further takes the position that the words “arising from the Transaction” in clause 2(a) of the Guarantee, has a wider meaning than “under the Transaction” in clause 1 of the Guarantee.
+
+18     In _Re Rasmchanyana Sulistyo_ \[2005\] 1 SLR (R) 483 at \[41\], the phrase “arising out of or in connection with \[the\] Agreement” was held to have a wide and generous meaning, encompassing matters that have both a direct and indirect nexus with the agreement. In _The Indriani_ \[1996\] 1 SLR (R) 5, the Court of Appeal held that the phrase “arising out of” should be interpreted widely to mean “connected with” (at \[14\]).
+
+19     In the light of the aforesaid authorities, I am of the view that at the very least, the plaintiff has an arguable case that should proceed to trial, that the words “arising from the Transaction” have a broad meaning that allows the plaintiff to claim an indemnity for losses which may arise from the completion of the Project, including the defects claimed by the plaintiff.
+
+20     I further note that there is a long list of defects claimed by the plaintiff, running from pages 15 to 75 of the statement of claim. In _Gabriel Peter_ at \[18\], the Court of Appeal held that “the power of striking out … should not be exercised by a minute and protracted examination of the documents and facts of the case in order to see if the plaintiff really has a cause of action.” It would not be possible, at this stage of the proceedings without examining the witnesses, to go through each and every one of the defects claimed by the plaintiff, to ascertain whether they arise from the completion of the Project.
+
+21     Furthermore, the list of defects would need to be dealt with in any event, at the trial of the plaintiff’s claim against the first defendant. The second defendant was the managing director and shareholder of the first defendant, at the material time. From the affidavits that were filed for this application, it would appear that the second defendant dealt with the plaintiff in the course of the Project and would have to give evidence at the trial in relation to the plaintiff’s claim against the first defendant, even if the claim against the second defendant was struck out. Accordingly, striking out the claim against the second defendant would not significantly reduce the burden of preparing for trial.
+
+22     In the premises, the appeal was dismissed, with costs.
+
+* * *
+
+[^1]: Plaintiff’s affidavit of 20 March 2020 at 366-367.
+
+[^2]: Plaintiff’s affidavit of 20 March 2020 at \[55\], 392-393.
+
+[^3]: Plaintiff’s affidavit of 20 March 2020 at 394-397.
+
+[^4]: Plaintiff’s affidavit of 20 March 2020 at \[106\] – \[109\] and 631 – 642.
+
+[^5]: Plaintiff’s affidavit of 20 March 2020 at \[142\].
+
+[^6]: Plaintiff’s statement of claim at \[15(i)\] and affidavit of 20 March 2020 at \[147\].
+
+[^7]: Plaintiff’s affidavit of 20 March 2020 at 1148 – 1154 at \[7(a)(iii)\].
+
+[^8]: Plaintiff’s affidavit of 20 March 2020 at 409 – 411.
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F25261-SSP.xml)
