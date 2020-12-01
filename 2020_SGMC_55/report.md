@@ -1,0 +1,295 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Hew Soo Fun, Cheryl  
+
+### \[2020\] SGMC 55
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Magistrates Arrest Case No 902017 of 2019, Magistrate's Appeal No 9866/2020/01</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">24 November 2020</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">Magistrates Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Luke Tan</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Mr Edwin Soh for the Public Prosecutor; Mr Michael Moey/Ms Glenda Lim (M/s Moey &amp; Yuen) for the accused</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Hew Soo Fun, Cheryl</td></tr></tbody></table>
+
+Criminal Law and Sentencing – Penal Code – Voluntary Causing Hurt – Public Transport Worker
+
+24 November 2020
+
+### District Judge Luke Tan:
+
+## Introduction
+
+1       A New Year’s Eve party on 31 December 2017 took a turn for the worse for Ms Hew Soo Fun, Cheryl (“the accused”) when, after consuming alcohol and becoming inebriated, she allegedly committed a rash act against the Grab car driver who was hired to drive her home. In addition, it was alleged that the accused had thereafter voluntarily caused hurt to the same victim, Mr Dayalan (“the victim”), following which she also used criminal force against him.
+
+2       For her actions, the Prosecution tendered three charges against her for offences under the Penal Code (Chapter 224, 2008 Rev Ed) as follows:
+
+> (i)     First Charge \[MAC 92016-2019\] under section 336(a) for committing a rash act;
+
+> (ii)     Second Charge \[MAC 92017-2019\] under section 323 for voluntarily causing hurt; and
+
+> (iii)     Third Charge \[MAC 92018-2019\] under section 352 for using criminal force.
+
+3       The three charges read:
+
+> (i)     First Charge \[MAC 92016-2019\]
+
+>> “You are charged that you, on the 1st day of January 2018, at or about 3.45am, on board a Grab car SLJ3107L, driving along East Coast Parkway (“ECP”), Singapore, did commit an act so rashly as to endanger the personal safety of others, _to wit_, by pulling the shirt of the said car’s driver Dayalan S/O Srinivasa Naidu while he was driving, knowing by such action you risked causing an accident, and you have thereby committed an offence punishable under Section 336(a) of the Penal Code, Chapter 224.”
+
+> (ii)     Second Charge \[MAC 92017-2019\]:
+
+>> “You are charged that you, on the 1st day of January 2018, at around 3.59am, at the ESSO Petrol Kiosk located at No. 396 Telok Blangah Road, Singapore, did voluntarily cause hurt to Dayalan S/O Srinivasa Naidu (“Dayalan”), _to wit_, by hitting the right upper back and right arm of Dayalan several times with your hands, which caused bodily pain to Dayalan, and you have thereby committed an offence punishable under Section 323 of the Penal Code, Chapter 224.”
+
+> (iii)     Third Charge \[MAC 92018-2019\]
+
+>> “You…are charged that you, on the 1st day of January 2018, at or about 4.00am, at the ESSO Petrol Kiosk located at No. 396 Telok Blangah Road, Singapore, did use criminal force on Dayalan S/O Srinivasa Naidu (“Dayalan”), _to wit_, by repeatedly pulling the shirt of Dayalan without Dayalan’s consent, otherwise than on grave and sudden provocation given by Dayalan, and you have thereby committed an offence punishable under Section 352 of the Penal Code, Chapter 224
+
+4       Before me, the accused, a first offender, pleaded guilty to the second and third charges (“proceeded charges”) and consented to have the first charge taken into consideration for the purpose of sentencing (“TIC charge”).
+
+5       The Prosecution sought a 2-week imprisonment sentence for the s 323 charge for voluntarily causing hurt, and a $1,500 fine for the s 352 charge of using criminal force. The Defence argued that in respect of the offences, a conditional discharge, a heavy fine, or a short detention order of not more than 7 days should be imposed instead.
+
+6       Having considered the particulars of the charges, the facts admitted to by the accused, the submissions of the parties, and the authorities and precedent cases that were referred to, I sentenced the accused to 10 days’ imprisonment for the second charge under s 323, and a $1,000 fine for the third charge under s 352.
+
+7       Thereafter, counsel indicated that the accused was filing an appeal against the custodial sentence that I had imposed for the second charge and sought a stay of execution for this sentence. I granted both the stay of execution as well as bail pending appeal.
+
+8       As for the $1,000 fine that I had imposed for the third charge, this was not inconsistent with counsel’s submission (in the alternative) for a fine to be imposed. It was also lower than the $1,500 fine sought by the Prosecution, which was itself based on sentences imposed in two precedent cases. It was thus unsurprising that counsel confirmed that the accused was not filing an appeal against the fine imposed.[^1] The accused paid the $1,000 fine on the same day.
+
+9       As the appeal is only in respect of the sentence of 10 days’ imprisonment imposed for the s 323 charge, for the purposes of my Grounds of Decision, I will focus solely on my reasons for imposing this sentence.
+
+## Statement of Facts
+
+10     The accused admitted to the Statement of Facts (SOF) without qualification. I have reproduced the SOF, with some parts underlined and highlighted in bold for emphasis.
+
+**Statement of Facts**
+
+> 1.    The accused is Hew Soo Fun, Cheryl (date of birth: 28 April 1979).
+
+> 2.    The victim is Dayalan s/o Srinivasa Naidu (“Dayalan”). At the material time, Dayalan was working as a private hire driver for Grab.
+
+> **_Facts relating to the 2nd Charge (MAC-902017-2019)_**
+
+> 3.    On 31 December 2017, at around 7pm, the accused attended a New Years’ Eve party at her friend’s place at 102 Haig Road. **The accused consumed champagne and became inebriated**.
+
+> 4.    At around 3.30am on 1 January 2018, the accused’s friend, Grace Chong, booked a Grab car to drive the accused home. Dayalan picked up the accused from 102 Haig Road and proceeded to drive to the accused’s residence at 16 Morse Road. Dayalan was driving a Honda Vezel SLJ3107L.
+
+> 5.    While Dayalan was driving, the accused became agitated in her inebriated state. The accused said that Dayalan was driving the wrong way and started shouting at Dayalan.
+
+> 6.     **As the accused was behaving aggressively, Dayalan decided to drive to a petrol kiosk near the accused’s residence to seek assistance.**
+
+> 7.    At around 3.50am on 1 January 2018, Dayalan stopped his car at an ESSO petrol kiosk at Telok Blangah road. Dayalan alighted from his vehicle and tried to look for assistance. The accused alighted as well.
+
+> 8.    Subsequently, at around 3.59am, Dayalan walked towards the convenience store at the petrol kiosk. **The accused followed closely behind Dayalan. The accused then started hitting Dayalan multiple times on his right upper back and his right arm with her hands. CCTV footage from the petrol kiosk captured this incident.**
+
+> 9.    The accused’s hits caused Dayalan bodily pain. The accused knew that by hitting Dayalan, she was likely to cause hurt to Dayalan. In the premises, the accused voluntarily caused hurt to Dayalan, and has thereby committed an offence under section 323 of the Penal Code (Cap. 224, Rev. Ed. 2008).
+
+> **_Facts relating to the 3rd Charge (MAC-902018-2019)_**
+
+> 10.    When Dayalan entered the convenience store at the petrol kiosk, the accused continued to follow him. **The accused then intentionally pulled Dayalan’s shirt repeatedly while inside the store, causing Dayalan to move towards her. The repeated pulling lasted around 30 seconds. CCTV footage in the convenience store captured this incident**.
+
+> 11.    Dayalan did not consent to this pulling. Further, the accused knew that pulling Dayalan’s shirt repeatedly without his consent was likely to cause Dayalan annoyance. In the premises, the accused used criminal force on Dayalan otherwise than on grave and sudden provocation, and the accused has committed an offence under section 352 of the Penal Code (Cap. 224, Rev. Ed. 2008).
+
+> **_Additional information_**
+
+> 12.    A medical report dated 12 March 2018 from Singapore General Hospital stated that Dayalan suffered from mild erythema over the right trapezius and focal mild tenderness of the right upper arm from the incident.
+
+> 13.    Another medical report dated 20 March 2018 from Raffles Medical stated that Dayalan was noted to have mild pain in the right supraspinatus muscle bulk (i.e. the right upper back) on movement.
+
+## Sentencing Approach and Submissions
+
+### Prosecution’s submissions for the s 323 charge
+
+11     As regards the sentence sought, DPP Edwin Soh (“DPP Soh”) highlighted several aggravating factors and also the applicable sentencing considerations set out by the High Court in _Wong Hoi Len v PP_ <span class="citation">\[2009\] 1 SLR(R) 115</span> (“_Wong Hoi Len_”)[^2]. The DPP submitted as follows:
+
+> (i)     Hurt was caused to a public transport worker, and a deterrent custodial sentence should be imposed to protect such workers (citing _Wong Hoi Len_ at \[11\]). DPP Soh emphasised that “…public transport workers are more vulnerable to criminal violence as they’re constantly exposed to the frontline service and defend for themselves against unruly passengers. So, criminal acts targeting public transport worker should be nailed in the bud to deterrent sentencing of offenders.”[^3] Where such victims are involved, the starting benchmark for a simple assault should be a custodial sentence of around four weeks.
+
+> (ii)     The offences committed by the accused against the victim were sustained, with multiple hits by the accused on the victim’s back and right arm. The accused then followed the victim into a convenience store, where she continued to pull his shirt for 30 seconds.
+
+> (iii)     Further, the accused’s state of intoxication was an aggravating consideration (citing _Wong Hoi Len_ at \[44\]).
+
+12     The Prosecution also tendered a table of sentencing precedents for s 323 offences involving victims who were public transport workers. These were all cases decided after _Wong Hoi Len_. The precedent cases showed that imprisonment terms of 3 to 6 weeks had been meted out in cases involving simple assaults that resulted in minor to no injuries to the victims. An outline of the main features of these cases is set out below:
+
+> (i)      _PP v Jan Ber Mangilin Terrones_ <span class="citation">\[2018\] SGMC 76</span>: The victim, a 54-year-old Grab car driver, was driving the intoxicated offender on 30 April 2018 at 8.44pm, when the latter rashly grabbed the victim’s shoulder, while the latter was driving. The offender subsequently demanded that the victim stop the car, and he punched the victim on his head multiple times. The victim then stopped the car and called the police. For this case, the victim suffered no injuries but felt slight pain at his left temple area. The offender, who was a first offender, pleaded guilty at the earliest opportunity, offered to compensate victim, and he also apologised in court. He was sentenced to 6 weeks’ imprisonment for the s 323 charge. The sentence was upheld on appeal.
+
+> (ii)      _PP v Chan Siew Yin_ <span class="citation">\[2018\] SGMC 27</span>: The victim was a 65-year-old taxi driver, who picked the accused up on 15 July 2017 at 8pm. Along the way, the latter complained that the victim was driving too slowly. When the victim reached his destination, the offender said that he was not happy with how the victim had driven and demanded that the victim step out of the taxi. The latter did so and a scuffle ensued. The offender’s wife separated them. The victim then approached the offender and postured for a fight. Following this, the offender punched the victim once on the face, causing him to sustain a laceration. He was also given 3 days medical leave. The offender, who was untraced, co-operated with the authorities, and pleaded guilty. He also compensated the victim a sum of $1,000. He was sentenced to 4 weeks’ imprisonment for the s 323 charge. The sentence was upheld on appeal.
+
+> (iii)      _PP v Tan Yi Wei_ <span class="citation">\[2012\] SGDC 419</span>: The victim, a taxi driver, picked the offender up from Orchard Towers. The latter was intoxicated at that time. When the taxi reached the offender’s destination, the offender told the victim to return to Orchard Towers. The victim asked for the fare first, and the offender became angry. He kicked the victim’s left arm from behind and hit the victim once on the face. No injuries were sustained by the victim. The offender, who had unrelated traffic antecedents, pleaded guilty, and offered compensation but this was declined. He was sentenced to 6 weeks’ imprisonment for the s 323 charge. The sentence was reduced to 3 weeks’ imprisonment on appeal.
+
+> (iv)      _PP v Huang Jia_ (MAC901134-2017 & Anor): At around 9.40pm on 10 July 2016, the victim, a taxi driver, picked up the offender who was intoxicated. While driving, the offender used her hands to smack the victim several times on the rear of his head and the left side of his face. After stopping the vehicle, the offender smacked him on his head once more. The victim suffered minor injuries. The offender, who was untraced, pleaded guilty. She was sentenced to 3 weeks’ imprisonment for the s 323 Penal Code charge. There was no appeal.
+
+13     In light of the above considerations, the Prosecution argued that a 2-week imprisonment sentence that it was seeking, could not be considered manifestly excessive.
+
+### Mitigation Plea
+
+14     The accused’s counsel, Mr Michael Moey (“Mr Moey”) essentially argued that the victim had ignored the accused’s instructions to him when he was driving her in the car, and that she had thereafter “said a few choice words to him”[^4]. Following this, the victim had driven to the nearest petrol station, where the current offences took place.
+
+15     Counsel also highlighted that the accused could be seen on camera to be hitting the victim’s right upper back with an open palm, and that she was “only about half the size of the \[victim\]”.[^5] Mr Moey further alluded to the victim’s injuries as being very minor, and argued that the accused had demonstrated remorse when she made an offer of $5,000 to the victim as “compensation” an offer which the victim allegedly refused. The accused had also written a letter of apology (dated 28 September 2020) to the victim.
+
+16     As for the accused’s personal characteristics, Mr Moey pointed to her clean record and to her being a “community minded person” who helps out in various charities. He also argued that there had been a delay in prosecution, as the accused was charged only about one year after the incident.
+
+17     On the relevant precedents and sentencing options, Mr Moey argued that the case of _Wong Hoi Len_ did not apply here because there was a “break in the causal link” between the victim's role as a public transport worker, and the time when the accused slapped his back. Counsel cited the case of _PP v Lim Liang Huat_ <span class="citation">\[2011\] SGDC 150</span> ("_Lim Liang Huat_”), which he argued supported this position. In this regard, counsel argued that this break was due to the 10 minute difference from the time the victim stepped out of his car, and the time the incident occurred. Thus, there was “…no nexus with the journey or the \[victim's\] role as a public transport worker and hence _Wong Hoi L_en does not apply.” [^6] Instead, counsel argued that “…the \[victim\] was no longer a public transport worker once he stepped out of his car”, and that the incident between the victim and the accused “…became one between 2 individuals once he stepped out of his car”.[^7]
+
+18     Mr Moey argued that in the alternative, in line with the decision of _PP v AOB_ <span class="citation">\[2011\] 2 SLR 793</span> (“_AOB_”), custodial sentences were not generally imposed for a section 323 offence when (a) the offender's actions are not pre-meditated; (b) the victim's injuries are minor; and (c) the altercation lasted for only a short time. Further, Mr Moey highlighted that applying the approach set out in _Low Song Chye v PP_ <span class="citation">\[2019\] 5 SLR 526</span> (“_Low Song Chye_”) for section 323 offences, this offence fell into the Band 1 (most minor) category which would result in fines or a short custodial sentence of up to 4 weeks.
+
+19     As regards the sentencing options, counsel argued for the following:
+
+> (i)     A conditional discharge as provided under section 8 of the Probation of Offenders Act (Cap. 252, 1985 Rev Ed). This was in light of the accused’s character, contributions to society and clean record. Counsel cited _Kalaiarasi d/o Marimuthu Innasimuåu_ v PP <span class="citation">\[2012\] SGHC 58</span> (“_Kalaiarasi”)_ in support of his submission.
+
+> (ii)     A fine, citing the unreported decision in _Babir Singh_, (Magistrate's Appeal 300 of 2009) (“_Babir Singh_”) where a taxi-driver, who carried an umbrella and went after the offender who did not pay his fare, was hurt with the tip of the umbrella during a struggle between them. On appeal, the offender’s sentence was reduced from six weeks' imprisonment to a fine of $2,000.
+
+> (iii)     A short detention order (SDO) of no more than 7 days. Counsel argued that the accused “…is an individual who possesses the necessary' characteristics and support for immediate re-integration into society. \[The accused\] has shown remorse for her actions that were out of character and she wishes to move on from her first mistake of committing a crime. She has had a meaningful and successful career and received many praises for her contributions at work and outside of work. She also has a stable social environment at home and at work, and is unlikely to repeat the same mistake.”[^8] In support of his submissions for a SDO, amongst other things, counsel cited the district court decisions of _Public Prosecutor v Muhammad Haikal Bin Zoraimi_ <span class="citation">\[2017\] SGMC 15</span> (“_Muhammad Haikal_”), and also _Public Prosecutor v Joachim Gabriel_ <span class="citation">\[2015\] SGMC 4</span> (“_Joachim Gabriel_”).
+
+20     Finally, Mr Moey argued that this was a “a very minor matter that has been blown out of proportion”,[^9] and urged the court to show mercy.
+
+## The Court’s decision on Sentence
+
+21     It was clear that both parties’ submissions centred very much on the decision in _Wong Hoi Len_, in particular whether the principles, sentencing considerations, and benchmark sentence (for assault on a public transport worker) there applied to the current case. It is to _Wong Hoi Len_ that I now turn.
+
+### The decision in Wong Hoi Len
+
+22      _Wong Hoi Len_ involved an offender who pleaded guilty to one charge under s 323 for voluntarily causing hurt to a victim who was a taxi driver.
+
+23     In essence, the offender there had soiled the taxi, and the victim then stopped his vehicle, alighted and severely reprimanded the offender. The latter responded by angrily pushing the victim to the ground, and then rained several blows with his fists on the victim’s forehead and face. The victim subsequently passed away. The victim’s autopsy found a catalogue of injuries on the victim’s body. As for the offender, he was found to have only a superficial scratch over his left cheek. An analysis of the offender’s blood sample taken some 12 hours after the incident also revealed 5mg of ethanol per 100ml of blood. The offender was initially sentenced to one month’s imprisonment by the district judge, and he filed an appeal against the sentence. His appeal was dismissed, and his sentence was instead enhanced to three months’ imprisonment.
+
+24     In arriving at the enhanced sentence, the High Court set out useful guidelines for sentencing offenders who commit s 323 offences against public transport workers. I have distilled the relevant aspects of the decision below.
+
+#### Custodial sentence as a starting benchmark
+
+25     In _Wong Hoi Len_, V K Rajah JA (as he then was) remarked at \[11\] that the “…reported increase in criminal acts targeting persons working in the field of public transport is worrying”. His Honour also noted that “(t)he Legislatures in some countries have provided, for the purposes of sentencing, that a court must take into account as an aggravating factor the fact that the victim is a public transport worker” (at \[12\]), and that “(e)ven in the absence of direct legislative intervention, the courts in some jurisdictions have consistently imposed deterrent sentences in cases where the victim is a transport worker” (at \[14\]).
+
+26     VK Rajah JA made it clear that:
+
+> \[18\]  …**_The courts must send a clear message that all acts of criminal violence against public transport workers will not be tolerated_**. These workers provide the larger community with an invaluable and essential service, and they have every right to work in a safe and secure environment.” (at \[18\])
+
+> “\[20\] …As such, in cases **_where_** an accused person with no antecedent pleads guilty to a charge under s 323 of the Penal Code and **_the recipient of violence is a public transport worker, I am of the view that the starting benchmark for a simple assault should be a custodial sentence of around four weeks_**.
+
+\[emphasis added\]
+
+#### Other sentencing considerations
+
+27     Aside from setting out the starting benchmark for violence against public transport workers to be a custodial sentence of around four weeks, the High Court in _Wong Hoi Len_, also discussed factors that may affect sentence.
+
+28     As regards mitigating factors, these include the following (see \[22\]):
+
+> (i)      **_Whether the offender has any antecedents_**. In _Wong Hoi Len_, the Court noted that that “…until the present transgression, \[the offender\] been a law-abiding citizen.”
+
+> (ii)     Whether there was **_any voluntary and unconditional offer to compensate_**, even if the offer was not accepted.
+
+> (iii)      **_Whether there was a plea of guilt_**, **_which must be a convincing testament of genuine remorse_** (see _Angliss Singapore Pte Ltd v PP_ <span class="citation">\[2006\] 4 SLR(R) 653</span> at \[74\]). However, this may not be the case if the offender was caught red-handed (citing Wong _Kai Chuen Philip v PP_ <span class="citation">\[1990\] 2 SLR(R) 361</span> at \[13\] – \[14\]).
+
+29     As for aggravating factors, these include the following (see \[25\] – \[26\]):
+
+> (i)     Where “…**_the assault occurred at night_**, a time **_when \[the public transport workers\] are most vulnerable_**”
+
+> (ii)      **_The manner in which the assault was carried out_**. In this case, the victim was 1.70m and weighing 83kg, and “was by no means a puny man.” The court noted that the if the victim had retaliated, the offender would have suffered far greater injuries than “a mere superficial scratch on his face”. In contrast, from the injuries inflicted on the victim, the Court described this as “…a **_relentless and entirely one-sided pummelling of the victim_**…”
+
+> (iii)     Further, “…that the \[offender\] was somewhat inebriated during the incident does not, from any objective point of view, diminish his culpability for the incident. **_Those who drink, unless they can invoke the defence of intoxication as narrowly defined in the Penal Code, must assume the full consequences of any legal transgressions. Indeed…intoxication should ordinarily be considered as an aggravating feature_**.”
+
+### Imprisonment should be imposed in line with Wong Hoi Len
+
+30     As indicated earlier, the Prosecution submitted that in light of the similarities between _Wong Hoi Len_ and the present case, the sentencing considerations there were applicable to the present case. In contrast, the Defence attempted to distinguish _Wong Hoi Len_ arguing that it had no relevance since the victim had stepped out of his car for about 10 minutes before he was assaulted, and that hence, the victim. could not be regarded as “…a public transport worker once he stepped out of his car”. According to Mr Moey, this was precisely why the court in _Lim Liang Huat_ declined to apply a custodial sentence, notwithstanding the decision in _Wong Hoi Len_. Instead, in _Lim Liang Huat_, the offender, who had caused hurt to a taxi-driver after the two of them engaged in a scuffle outside of the taxi, had been sentenced to a fine of $4,000.
+
+31     However, with due respect to the Defence, it was clear to me that the facts of the present case largely mirrored the situation in _Wong Hoi Len_, rather than the situation in _Lim Liang Huat._ In this regard, as in _Wong Hoi Len_, I noted that for the present case:
+
+> (i)     The victim was also a public transport worker (\[2\] of the SOF)
+
+> (ii)     The accused here was inebriated when she entered the public transport vehicle driven by the victim (\[3\] of the SOF).
+
+> (iii)     A dispute had arisen when the victim was driving the accused to her destination in connection with the hire. At that time, the accused displayed clear aggression by shouting at the victim, and also pulled at his shirt ( see \[5\] of the SOF and the details of the TIC charge).
+
+> (iv)     As the accused was behaving aggressively, the victim had driven to a petrol kiosk to seek assistance. There, the victim had alighted, and the accused alighted as well. The accused then followed closely behind the victim, when he walked towards a convenience store at the petrol kiosk (\[6\] – \[8\] of the SOF).
+
+> (v)     The accused then started hitting the victim multiple times on his right upper back and his right arm with her hands. This caused pain to the victim (\[6\] – \[8\] of the SOF).
+
+> (vi)     When the victim entered the convenience store at the petrol kiosk, the accused continued to follow him, and intentionally pulled the victim’s shirt repeatedly while inside the store. This caused the victim to move towards her. The repeated pulling lasted for around 30 seconds (\[10\] of the SOF).
+
+> (vii)     According to the Defence, the accused had pulled the victim’s shirt because she wanted to bring him to the station manager or cashier to make a complaint against him, and that “(t)his was a continuation of what happened earlier where she had slapped his back…”((\[65\] – \[66\] of the plea in mitigation).
+
+32     It was thus clear that in the present case, the assault on the victim occurred in connection with the accused’s unhappiness at the service provided by the victim to her, in his capacity as a public transport worker. Her aggression essentially started in his Grab vehicle, when she shouted at him and pulled his shirt, and continued when she followed him after he had alighted at the petrol kiosk to seek assistance because of her aggression. The accused had then hit the victim with her hands causing him to suffer pain. Subsequently, when the victim entered the convenience store, she continued taking action against him, by again pulling his shirt, this time for around 30 seconds, ostensibly because she wanted to complain against him.
+
+33     Simply put, there was no “break in causation” and no other reason for her one-sided assault on the victim, as the entire episode – consisting of the accused’s numerous acts of aggression starting from inside the Grab vehicle, continuing at the petrol kiosk, and even resuming inside the convenience store at the petrol kiosk - were all plainly due to her unhappiness with the victim in connection with his provision of the public transport service to her.
+
+34     While counsel tried to suggest, on his reading of _Lim Liang Huat_, that the benchmark custodial sentence in _Wong Hoi Len_, does not apply here, ostensibly as a driver could not be regarded as “…a public transport worker once he stepped out of his car”, with respect, and as correctly pointed out by DPP Soh, the court in _Lim Liang Huat_ had never stated such a proposition.[^10]
+
+35     Instead, the reason why the learned district judge in _Lim Liang Huat_ declined to impose the benchmark custodial sentence was because the Court there recognised that based on the specific facts of that case, the taxi-driver victim had played a pivotal role in the altercation that eventually occurred, and that this was something that the victim could have avoided. This is clear from the words of the learned district judge at \[11\]:
+
+> This Court was in agreement with the defence that **_the taxi-driver also contributed to the assault on him_** on that day**_._** The taxi driver should not have responded to the accused’s challenge. **_By coming out of his taxi in response to the challenge he (i.e. taxi driver) aggravated the situation_**. **_The taxi driver could easily have called for assistance_** from the condo security guard or the police. **_This was not a situation where the taxi-driver was left to fend for himself when confronted with a difficult passenger_**...The altercation between the accused and the taxi driver only took place after the taxi driver got out of his taxi...
+
+\[emphasis added\]
+
+36     Further, at \[12\], the learned district judge added that “**_The taxi driver should not have behaved aggressively in this case_**”. After considering the facts and circumstances of that case, the Court imposed a fine of $4,000 instead of a custodial sentence.
+
+37     Indeed, in the subsequent case of _Public Prosecutor v Sudev Raja Naran _<span class="citation">\[2013\] SGDC 216</span> (“_Sudev Raja_”), another case involving an assault on a public transport worker by a passenger, the learned district judge imposed a custodial sentence after considering _Wong Hoi Len_, and other cases, including the case of _Lim Liang Huat_. The district judge specifically distinguished _Lim Liang Huat_, and declined to impose a similar sentence of a fine, noting that the factual matrix in _Lim Liang Huat_ was quite different as “…the altercation between the offender and the taxi driver in that case only took place after the taxi driver had aggravated the situation by coming out of his taxi in response to the offender’s challenge” (see \[115\] of _Sudev Raja_).
+
+38     In the present case, as set out in the SOF which the accused admitted to without qualification, the victim came out of his taxi at the petrol station to seek assistance. Thus, instead of aggravating the situation by confronting the accused as happened in the case in _Lim Liang Huat_ (and apparently also in _Babir Singh_), the victim here was actually and actively trying to seek assistance from others at the petrol kiosk, precisely because of the accused’s earlier aggression and actions against him when he was driving her in his vehicle. Notably, it was the accused who followed the victim out of his vehicle, and assaulted him.
+
+39     Further, despite the victim being significantly bigger in size than the accused, with the Defence describing the accused as being “about half the size of the \[victim\]”, there was no evidence that the accused responded against her actions, or retaliated against her in any manner. Instead, the accused even continued her aggression after the assault by pursuing him into the convenience store, where she committed the final offence of using criminal force against him.
+
+40     I would further add that contrary to the Defence’s claim that a victim could not be regarded as “…a public transport worker once he stepped out of his car”, both in _Chan Siew Yin_, as well as in the seminal case of _Wong Hoi Len_, the offenders struck the victims when the latter had already exited the public transport vehicle. Notably, the offenders in both those cases received imprisonment sentences.
+
+41     In short, this was a clear case where a public transport worker was assaulted by a passenger in connection with the performance of his duty, and there was thus no reason why the custodial benchmark set out by the High Court in _Wong Hoi Len_ should not apply. I would add that the four decisions cited by the Prosecution, which were all relatively recent cases involving assaults of public transport workers (see \[12\] above), all ended with the offenders being sentenced to between 3 – 6 weeks of imprisonment. It was notable that the Defence in the present case made no attempt to address the custodial sentences given in any of the four cases set out in the Prosecution’s precedent table, even though the sentences in all four cases were in line with the benchmark custodial sentence laid down in _Wong Hoi Len_.
+
+42     In fact, I would add that aside from the cases cited by the Prosecution, even in _Sudev Raja_ referred to above, a case provided by the Defence, the sentence imposed by the Court there was also that of (3 weeks’) imprisonment.
+
+43     For completeness, I would add that neither a fine nor a conditional discharge was a suitable sentence, in light of the clear need for an appropriate punishment, in terms of a deterrent custodial sentence, to be imposed to protect our public transport workers from assaults by the very passengers whom they serve, and whom they were exposed to in the course of the service that such victims provide.
+
+44     Further, such proposed alternative sentences of a fine or a conditional discharge were clearly inconsistent with the benchmark 4-week custodial sentence laid down by the High Court in _Wong Hoi Len_. They were also incongruent with the 3 – 6 week imprisonment sentences which were imposed in the various similar cases cited by the Prosecution, and even the punishment meted out in _Sudev Raja_, a case brought up by the Defence, where the assault on the taxi driver resulted in 3 weeks’ imprisonment being imposed.
+
+45     As for imposing a SDO instead of imprisonment, I was of the view that a SDO was clearly also not an appropriate punishment to impose for the same reasons set out in \[43\] and \[44\] above, and also as I agreed with the Prosecution that rehabilitation is not the primary consideration in light of the facts of the case and the circumstances of the accused. [^11]
+
+46     As for the two district court decisions that counsel cited in his arguments for the imposition of a SDO, namely the cases of _Muhammad Haikal_, and _Joachim Gabriel_, I noted was that in both these cases, the appellate courts had overturned the respective district judges’ decisions to impose the SDO sentences. Instead, on appeal, the High Court in both the above cases substituted the SDO with imprisonment sentences.
+
+47     Specifically, for _Muhammad Haikal_, Steven Chong JA had substituted the 14-day SDO with a three-week imprisonment sentence in MA 9109/2017/01, while for _Joachim Gabriel_, See Kee Oon J had substituted the 14-day SDO with a four-week imprisonment sentence. Indeed, in the subsequent case of _Public Prosecutor v Teo Chang Heng_ <span class="citation">\[2018\] 3 SLR 1163</span>, when discussing his earlier decision in _Joachim Gabriel_, Justice See had made it clear that a SDO was generally not an appropriate sentence in the context of assaults on public transport workers. At \[9\] of his judgment, his Honour had stated as follows:
+
+> In _PP v Joachim Gabriel Lai Zhen_ Magistrate’s Appeal No 20 of 2015, I had made it clear that **_in the context of such assaults on public transport workers, the benchmark sentence of imprisonment should not be readily displaced unless it was truly an exceptional case._** Hence I had allowed the Prosecution’s appeal against a 14day SDO and substituted it with a four-week imprisonment term.
+
+\[emphasis added\]
+
+48     In short, in line with the decision of the High Court in _Wong Hoi Len_, and consistent with the 3 – 6 week imprisonment sentences imposed in the various cases cited by the Prosecution and the Defence, it was clear that there was no reason not to impose the benchmark sentence of imprisonment in the present case.
+
+### Final Sentence
+
+49     Having established that an imprisonment sentence should be imposed, and taking into account the starting benchmark of a custodial sentence of around four weeks imprisonment for “…an accused person with no antecedent \[who\] pleads guilty to a charge under s 323 of the Penal Code \[where\] the recipient of violence is a public transport worker” (see \[20\] of _Wong Hoi Len_), I next had to consider the sentencing factors and precedents to determine the final sentence.
+
+50     In this regard, the aggravating factors in the present case, similar to those that applied in _Wong Hoi Len_, were that the assault had occurred at night, that it was an entirely one-sided and sustained offence, and that thee accused was inebriated at the time of the offence. Moreover, the accused had a TIC charge involving an offence directed at the same victim.
+
+51     As for the mitigating factors put forward by the Defence, I agreed with the Prosecution that contrary to the claims of the Defence, there was little evidence of remorse shown by the accused.
+
+> (i)     For one, she had initially claimed trial, and changed her mind only after the CCTV footages were shown to her. [^12]
+
+> (ii)     Further, contrary to Mr Moey’s submission that an offer of compensation had been made to the victim, the Prosecution informed me that what was actually put forward by the accused was a sum of money to compound the second and third charges, for which the accused would have received a discharge amounting to an acquittal for each charge. [^13] This was certainly not the same as an offer of compensation to the victim, which may have evidenced remorse on the accused’s part.
+
+> (iii)     Finally even the letter of apology tendered by the accused did not appear to be entirely sincere, as the letter (dated 28 September 2020) was written only after almost 3 years from the date of the assault (which occurred on 1 January 2018), and it was prepared barely 5 weeks before the accused appeared in Court on 3 November 2020 to plead guilty. [^14]
+
+52     However, what were perhaps more relevant as mitigating factors were features such as the accused’s plea of guilt and her clean record which suggested that the assault was out of character for the accused. This was a position fortified by the character references produced in her mitigation, which generally presented the accused in a good light. Further, the hurt caused to the victim was minor, being described in the SOF as bodily pain which the victim suffered as a result of the assault. In addition, while not strictly mitigating, I noted that no weapon was used by the accused, nor was the attack on the victim directed by her at a vulnerable part of the victim’s body. Finally, I considered the fact that the accused was charged only about a year after the date of the commission of her offences.
+
+53     Thus, while the sentences in the precedent cases all trended towards sentences of 3 weeks’ imprisonment or more, I was of the view that the mitigating factors discussed, even taken together with the aggravating features of the case, were such that I could exercise considerable leniency towards the accused, even to the extent of imposing a sentence shorter than the already low 2 weeks’ imprisonment sentence sought by the Prosecution.
+
+54     All things considered, I was of the view that a sentence of 10 days’ imprisonment for the s 323 offence would be fair and proportionate, and be in line with the relevant sentencing principles, and also broadly consistent with the sentencing precedents. For completeness such a sentence would also be within the sentencing range set out by the High Court in _Low Song Chye_ for Band 1 s 323 offences.
+
+55     The accused, being dissatisfied, has filed an appeal against her sentence for voluntarily causing hurt. She is on bail pending the hearing of the appeal.
+
+* * *
+
+[^1]: Notes of Evidence (NE), 3 November 2020, 27/25-28/10
+
+[^2]: Prosecution’s Address on Sentence at \[4\]
+
+[^3]: NE, 3 November 2020, 12/4-9
+
+[^4]: Plea in Mitigation at \[9\] - \[10\]
+
+[^5]: Plea in Mitigation at \[13\]
+
+[^6]: Plea in Mitigation at \[35\] –\[39\]
+
+[^7]: Plea in Mitigation at \[44\]
+
+[^8]: Plea in Mitigation at \[86\]
+
+[^9]: Plea in Mitigation at \[90\] – \[91\]
+
+[^10]: NE, 3 November 2020, 22/19-29
+
+[^11]: NE, 3 November 2020, 23/15-24
+
+[^12]: NE, 3 November 2020, 24/5-10
+
+[^13]: NE, 3 November 2020, 24/10-15
+
+[^14]: NE, 3 November 2020, 24/15-21
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F25326-SSP.xml)
