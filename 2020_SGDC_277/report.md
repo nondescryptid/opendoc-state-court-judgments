@@ -1,0 +1,2311 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Tan Hwee Ngo  
+
+### \[2020\] SGDC 277
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">District Arrest Case No 918286 of 2017 and 168 others, Magistrate's Appeals No 9808 of 2020/01</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">03 December 2020</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Terence Tay</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Thiam Jia Min (Attorney-General's Chambers) for the Public Prosecutor; Prior to 13 January 2020: T.M. Sinnadurai (Regent Law LLC) for the Accused; 13 January 2020 onwards: Sudeep Kumar (SK Kumar Law Practice LLP).</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Tan Hwee Ngo</td></tr></tbody></table>
+
+Criminal Law – Offences – Cheating – Cheating vulnerable victim
+
+Criminal Procedure and Sentencing – Sentencing
+
+\[LawNet Editorial Note: An appeal to this decision has been filed in MA 9808/2020/01.\]
+
+3 December 2020
+
+### District Judge Terence Tay:
+
+## Introduction
+
+1       Trials of cheating offences that involve very elderly protagonists tend to pose immense evidential challenges to both the Prosecution and the Defence. This is especially so where there are multiple charges that involve relatively small sums of money over an extended period of time and taking place many years ago. It is not unexpected that documentary records may no longer be available and memories of the witnesses diminished.
+
+2       The present case is on point.
+
+3       The accused person (“**Accused**”) was a 69-year-old[^1] Singaporean lady who claimed trial to:
+
+> (a)     one charge of cheating by dishonestly inducing the elderly victim (“**Victim**”) to withdraw his CPF savings; and
+
+> (b)     168 charges of cheating by dishonestly inducing the Victim to deliver a sum of $500 every month to one Mdm Boo Sok Hiang (“**Mdm Boo**”), who passed away on 21 April 2016 before the trial started.
+
+4       The offences started as far back as 1999 when the accused person was about 49 years of age. Despite her age at trial, the accused person came across as mentally alert and astute.
+
+5       In contrast, the Victim was a 75-year-old[^2] Singaporean male who suffered from mild intellectual disability and whose domains of intellectual functioning were in the extremely low to borderline range.
+
+6       Notwithstanding the challenges in the present case, there was no compromise to the Prosecution’s burden to prove the charges beyond reasonable doubt.
+
+7       The Accused was convicted of all 169 charges at the end of the trial and sentenced to a global term of 27 months’ imprisonment. The Accused had appealed against her conviction and sentence and is presently on bail pending appeal.
+
+## Charges and the Statement of Agreed Facts
+
+8       The charges against the accused person may be grouped into three categories:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="21.28%"> <col width="50.82%"> <col width="27.9%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="center" class="Table-Para-1"><b>Charge Number(s)</b></p></td><td align="left" class="br" rowspan="1" valign="middle"><p align="center" class="Table-Para-1"><b>Particulars</b></p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="center" class="Table-Para-1"><b>Prescribed Punishment</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">MAC-904775-2020</p></td><td align="left" class="br" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">Sometime in or around June 1999 in Singapore, did cheat one Tan Soy Kiang by deceiving him into believing that payments were needed for Mr Lee Kuan Yew, a fact which she knew to be false, and by such deception, dishonestly induced Tan to withdraw a sum of $53,131.64 from his Central Provident Fund (“<b>CPF</b>”) savings account, which he would not have done had he not been so deceived, which is an offence punishable under section 417 of the Penal Code (Cap 224, Rev Ed 1985) (“<b>1985 PC</b>”)</p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">Imprisonment up to 1 year or fine or both.</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">DAC-918286-2017</p><p align="center" class="Table-Para-1">to</p><p align="center" class="Table-Para-1">DAC-918382-2017</p><p align="center" class="Table-Para-1">(97 charges)</p></td><td align="left" class="br" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">Every month, from January 2000 to January 2008, did cheat Tan by deceiving him into believing that payments were needed for Mr Lee Kuan Yew, a fact which she knew to be false, and by such manner of deception, she dishonestly induced Tan to deliver to Boo a sum of money amounting to not less than $500, which is an offence punishable under section 420 of the 1985 PC.</p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">Imprisonment up to 7 years and liable to fine.</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">DAC-918383-2017</p><p align="center" class="Table-Para-1">to</p><p align="center" class="Table-Para-1">DAC-918453-2017</p><p align="center" class="Table-Para-1">(71 charges)</p></td><td align="left" class="r" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">Every month, from February 2008 to December 2013, did cheat Tan by deceiving him into believing that payments were needed for Mr Lee Kuan Yew, a fact which she knew to be false, and by such manner of deception, she dishonestly induced Tan to deliver to Boo a sum of money amounting to not less than $500, which is an offence punishable under section 420 of the Penal Code (Cap 224, Rev Ed 2008) (“<b>2008 PC</b>”).</p></td><td align="left" class="" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">Imprisonment up to 10 years and liable to fine.</p></td></tr></tbody></table>
+
+  
+  
+
+9       The Statement of Agreed Facts (the “**SOAF**”) admitted by the Prosecution and the Defence under section 267 of the Criminal Procedure Code (Cap 68, Rev Ed 2012) read as follows:
+
+> 1    The accused is Tan Hwee Ngo (“the accused”), a 69 year-old female Singaporean bearing NRIC Number XXX.
+
+> 2    Sometime before 1999, the accused was introduced to Tan Soy Kiang (“TSK”) through their mutual friend, Boo Sok Hiang (“Boo”). Boo has passed away on 21st April 2016 (TAB 1).
+
+> 3    TSK has a niece named Lim Puay San Pamela (“Pamela”). Pamela is married to one Ong Khiaw Wei Andy (“Andy”).
+
+> 4    On 3 February 2014 at about 5.37pm, Pamela lodged a police report at Boon Teck Neighbourhood Police Post, stating that TSK had been giving all his income to an unknown female subject **(TAB 2)**. TSK and Andy accompanied Pamela to lodge this report.
+
+> 5    On 5 February 2014, Pamela, Andy, TSK, Boo, and the accused met at MOS Burger, HDB Hub, Singapore, to discuss some matters. Pamela recorded portions of this meeting on her mobile phone, which has been reduced into two video clips contained in a CD-Rom **(TAB 3)**. A transcription of the said two video clips **(TAB 4)** has been created by Mdm Tan See Hua, a Chinese interpreter with the Criminal Investigation Department of the Singapore Police Force (“SPF”).
+
+> 6    During the meeting on 5 February 2014, the accused, Boo, and TSK also signed on a document dated 5th February 2014 **(TAB 5)**.
+
+> 7    On 11 May 1999, TSK visited the CPF Service Centre and filled out an application form to withdraw the entirety of his CPF Savings (Ordinary Account), amounting to $53,131.64. This sum was accordingly withdrawn from his CPF Savings (Ordinary Account) on 16 June 1999. On 21 December 2016, the CPF Board has provided the SPF with a record of withdrawals from TSK’s CPF Savings (Ordinary Account) from the period of January 1999 to December 2008 **(TAB 7)**.
+
+## The witnesses and exhibits at trial
+
+10     The following witnesses testified at the trial:
+
+> (a)     The Prosecution’s witnesses:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="55.82%"> <col width="44.18%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="center" class="Table-Para-1"><b>Witness</b></p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="center" class="Table-Para-1"><b>Role</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">Manoj Kalwani (“<b>IO</b>”)<span class="FootnoteRef"><a href="#Ftn_3" id="Ftn_3_1"><sup>[note: 3]</sup></a></span></p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">The investigation officer.</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">Goh Thiam Choon Christopher (“<b>Interpreter</b>”)</p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">The interpreter for Boo’s investigation statements.</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">Goh Soon Khim Esther (“<b>IO Esther</b>”)</p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">Recorder of Accused’s investigation statement dated 5 February 2015.</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">Lim Puay San Pamela (“<b>Ms Pamela</b>”)</p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">Complainant and Tan’s niece.</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">Ong Khiaw Wei Andy (“<b>Mr Andy</b>”)</p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">Pamela’s husband.</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">Ng Gewen Godwin (“<b>Mr Godwin</b>”)</p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">Reporter from The New Paper.</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">Wong Chee Fatt (“<b>Mr Wong</b>”)</p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">Reporter from Lianhe WanBao.</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">Koe Ting Min (“<b>Ms Koe</b>”)</p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">Reporter from Lianhe Wanbao</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">Tan Mui Huay @ Ann (“<b>Ms Ann</b>”)</p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">Tan’s former employer.</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">Lim Woh Him @ Henry (“<b>Mr Henry</b>”)</p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">Tan’s former employer.</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">Christina Chew Chooi Yoong (“<b>Ms Christina</b>”)</p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">Tan’s former employer.</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">Tan Siew Lan (“<b>Ms Tan</b>”)</p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">Tan’s former employer.</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">Syed Mohamed Shariff Bin Syed Abdul Rahman Aljunied (“<b>Mr Shariff</b>”)</p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">Tan’s former employer.</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">Tan Cheng Huat @ Simon (“<b>Mr Simon</b>”)</p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">Tan’s former employer.</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">Tan Soy Kiang (“<b>Mr Tan</b>” or the “<b>Victim</b>”)</p></td><td align="left" class="" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">The victim</p></td></tr></tbody></table>
+
+  
+  
+
+> (b)     The Defence’s witnesses:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="55.82%"> <col width="44.18%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="center" class="Table-Para-1"><b>Witness</b></p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="center" class="Table-Para-1"><b>Role</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">The Accused</p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">The accused person.</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">Yeo Eng Theng @ Robin (“<b>Mr Robin</b>”)</p></td><td align="left" class="" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">The accused person’s son.</p></td></tr></tbody></table>
+
+  
+  
+
+11     The following exhibits were tendered and admitted at the trial:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="68.48%"> <col width="14.34%"> <col width="17.18%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="center" class="Table-Para-1"><b>Exhibit</b></p></td><td align="left" class="br" rowspan="1" valign="middle"><p align="center" class="Table-Para-1"><b>Marking</b></p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="center" class="Table-Para-1"><b>Tendered By</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">Extract from the Register of Deaths for Mdm Boo</p></td><td align="left" class="br" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">P1</p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">Prosecution</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">First Information Report dated 3 February 2014</p></td><td align="left" class="br" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">P2</p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">Prosecution</p></td></tr><tr><td align="left" class="br" rowspan="2" valign="middle"><p align="justify" class="Table-Para-1">CD-ROM containing two video-recordings of meeting at MOS Burger at HDB Hub that are individually marked (the “<b>MOS Burger Recording(s)</b>”)</p></td><td align="left" class="br" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">P3A</p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">Prosecution</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">P3B</p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">Prosecution</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">Transcript of MOS Burger Recording(s) (the “<b>MOS Burger Transcript</b>”)</p></td><td align="left" class="br" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">P4</p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">Prosecution</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">Legend for MOS Burger Transcript</p></td><td align="left" class="br" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">P4A</p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">Prosecution</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">Agreement dated 5 February 2014 signed by the Accused, Mdm Boo and the Victim (the “<b>Agreement</b>”)</p></td><td align="left" class="br" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">P5</p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">Prosecution</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">Letter from the CPF Board to DSP Anwar Ngasiman dated 7 December 2016</p></td><td align="left" class="br" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">P6A</p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">Prosecution</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">Letter from the CPF Board to DSP Anwar Ngasiman dated 21 December 2016</p></td><td align="left" class="br" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">P6B</p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">Prosecution</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">One photograph of a person with the label “B1”</p></td><td align="left" class="br" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">P7</p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">Prosecution</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">Five photographs of five different persons with the labels “W1” to “W5”</p></td><td align="left" class="br" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">P8</p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">Prosecution</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">Investigation Statement dated 5 February 2015 of Mdm Boo (“<b>Boo’s 1<sup>st</sup> Statement</b>”)</p></td><td align="left" class="br" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">P9</p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">Prosecution</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">Investigated Statement dated 12 January 2016 of Mdm Boo (“<b>Boo’s 2<sup>nd</sup> Statement</b>”)</p></td><td align="left" class="br" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">P10</p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">Prosecution</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">Documentary record of the Accused’s custody on 5 February 2015</p></td><td align="left" class="br" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">P11</p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">Prosecution</p></td></tr><tr><td align="left" class="br" rowspan="6" valign="middle"><p align="justify" class="Table-Para-1">CD-ROM containing six video-recordings of a meeting at the void-deck of a block HDB flats that are individually marked <b>(“HDB Recording(s)</b>”)</p></td><td align="left" class="br" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">P12A</p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">Prosecution</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">P12B</p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">Prosecution</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">P12C</p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">Prosecution</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">P12D</p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">Prosecution</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">P12E</p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">Prosecution</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">P12F</p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">Prosecution</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">Transcript of HDB Recording(s) (“<b>HDB Transcript</b>”)</p></td><td align="left" class="br" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">P13</p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">Prosecution</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">Application form for withdrawal of CPF dated 11 May 1999 signed by the Victim</p></td><td align="left" class="br" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">P14</p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">Prosecution</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">IMH report of the Victim dated 18 May 2015 (“<b>First IMH Report</b>”)</p></td><td align="left" class="br" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">P15</p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">Prosecution</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">IMH report of the Victim dated 13 August 2015 (“<b>Second IMH Report</b>”)</p></td><td align="left" class="br" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">P16</p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">Prosecution</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">News report from The New Paper dated 10 February 2015 by Mr Godwin (“<b>TNP News Report</b>”)</p></td><td align="left" class="br" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">P17</p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">Prosecution</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">Interview notes of Mr Godwin (“<b>Godwin’s Notes</b>”)</p></td><td align="left" class="br" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">P18</p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">Prosecution</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">Print edition of the TNP News Report</p></td><td align="left" class="br" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">P19</p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">Prosecution</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">News report from Lianhe Wanbao dated 9 February 2015 by Mr Wong (“<b>LHWB News Report</b>”)</p></td><td align="left" class="br" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">P20</p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">Prosecution</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">English translation of LHWB News Report (“<b>LHWB Translation</b>”)</p></td><td align="left" class="br" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">P20T</p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">Prosecution</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">Interview notes of Ms Koe (“<b>Koe’s Notes</b>”)</p></td><td align="left" class="br" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">P21</p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">Prosecution</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">Investigation statement dated 5 February 2015 of the Accused (“<b>Accused’s 1<sup>st</sup> Statement</b>”)</p></td><td align="left" class="br" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">P22</p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">Prosecution</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">Investigation statement dated 14 January 2016 of the Accused (“<b>Accused’s 2<sup>nd</sup> Statement</b>”)</p></td><td align="left" class="br" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">P23</p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">Prosecution</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">Email dated 11 February 2015 by the IO to Mr Robin</p></td><td align="left" class="br" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">D9</p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">Defence</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">Email dated 16 October 2015 by Mr Robin to &lt;spf_cid_coc@spf.gov.sg&gt;</p></td><td align="left" class="r" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">D10</p></td><td align="left" class="" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">Defence</p></td></tr></tbody></table>
+
+  
+  
+
+12     As the Defence objected to the Accused’s 1st Statement which was recorded by IO Esther on 5 February 2015 on the ground of involuntariness, an ancillary hearing was held to determine the issue (“**Ancillary Hearing**”).
+
+## Ancillary Hearing
+
+13     At the beginning of the Ancillary Hearing, the Defence challenged the voluntariness of the Accused’s 1st Statement on the grounds of threat and oppression:[^4]
+
+>   
+| 
+
+Thiam:
+
+ | 
+
+… I do understand from my learned friend from our discussions that the Defence does intend to challenge the voluntariness of this particular statement that we are seeking to admit through IO Esther Goh. So, could I just confirm this and also confirm what are the allegations of TIP or---or---oppression that the Defence---basically just to state the Defence’s position in Court. …
+
+ |
+| 
+
+Sinnadurai:
+
+ | 
+
+Yes, Your Honour. Your Honour, the accused’s position is that, she was arrested sometime in the morning of 5th of February 2015 about 11:00am from Bugis. And she was brought to the---at that time of---I will not say it’s an arrest, he \[sic\] was approached by CNB---I mean, officers from the police to request her to be brought to the police station. And at that time of requesting her to come with them, she was intimidated by the officers showing the handcuff to her. And then she was brought in a police car to Tanglin Police Division, and that was about 11:00---11:00-¬plus on the day. She is a patient with several medical ailments. And she did not bring her medication on that day because it was a surprise visit by the police officers. And upon being detained in the police station, she requested the police---I mean, not the police officers in charge but the---the officer was lock---walking around the corridor, uniform officer for warm water because she needs to take warm water. She cannot take cold water but she---it was refused. And subsequently, she was given food which she could not eat because she has to take her medication. So, from then onwards till she was interviewed at about 8:10, she neither have any drink or food at that time. Or her medication---she did not take her medication, she is a hypertension patient. And she was having anxiety at that time. And sh---she requested the recording officer to be allowed to take her medication. But it was then the officers say, “You sign the statement, then you can go and take your medication”. At the time, our client’s position is that, the recording officer asked certain questions and she denied to certain an---to the questions the po---po---the officer posed. But when she finally got hold of the statement, it was a totally a different answer that was in the statement. This were the allegations made by---and also at that time of recording the statement, Esther, the recording officer, flashed handcuffs to the accused and told her to sign the statement or else she cannot take the medication. “Or if you want to take the medication, you sign and you can---you leave”, these were the allegations, Sir.
+
+ |
+
+  
+  
+
+14     However, in the course of the oral testimony of the Accused, further allegations arose that ostensibly touched on elements of inducement and promise.
+
+15     In the circumstances, even though the Prosecution had initially called Ms Esther Tan, the recorder of the Accused’s 1st Statement, (“**IO Esther**”) and Station Inspector Peh Wenbin, who had escorted the Accused to Tanglin Police Division on 5 February 2015, (“**IO Peh**”) for the Prosecution’s case, the Prosecution eventually also called IO Manoj and recalled IO Esther as rebuttal witnesses to address additional allegations raised by the Defence in the course of the Ancillary Hearing.
+
+16     The Accused and Mr Robin testified for the Defence.
+
+17     The following documents were adduced during the Ancillary Hearing:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="68.4663067386523%"> <col width="14.3571285742851%"> <col width="17.1765646870626%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1"><b>Exhibit</b></p></td><td align="left" class="br" rowspan="1" valign="middle"><p align="center" class="Table-Para-1"><b>Marking</b></p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="center" class="Table-Para-1"><b>Tendered By</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">Case for the Defence dated 10 May 2018 (<b>“CFD”</b>)</p></td><td align="left" class="br" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">P24V</p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">Prosecution</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">Medical memorandum from PJ Clinic dated 12 February 2015</p></td><td align="left" class="br" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">D1V</p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">Defence</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">Medical memorandum from PJ Clinic dated 31 March 2015</p></td><td align="left" class="br" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">D2V</p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">Defence</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">Medical memorandum from PJ Clinic dated 28 December 2018</p></td><td align="left" class="br" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">D3V</p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">Defence</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">One photograph of the Accused’s medication, including Beatorva</p></td><td align="left" class="br" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">D4V</p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">Defence</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">One photograph of the Accused’s medication, including Vincomo</p></td><td align="left" class="br" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">D5V</p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">Defence</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">Email dated 30 March 2015 by Robin to the Singapore Police Force Feedback Unit</p></td><td align="left" class="br" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">D6V</p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">Defence</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">Email dated 15 March 2015 by Robin to the IO</p></td><td align="left" class="r" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">D7V</p></td><td align="left" class="" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">Defence</p></td></tr></tbody></table>
+
+  
+  
+
+### Nature of the allegations
+
+18     The following were the Accused’s allegations, as summarised by the Prosecution in the Prosecution’s Submissions for the Ancillary Hearing dated 28 January 2020 at \[8\]-\[9\]:
+
+> 8    The Defence also particularised the allegations thus:
+
+>> (a)    The accused was approached by police officers at the Bugis area on 5 February 2015 at about 11am. The officers showed the accused a pair of handcuffs and requested that she come with them to Tanglin Police Division. The accused felt intimidated.
+
+>> (b)    The accused arrived at Tanglin Police Division sometime after 11am on the same day. She was detained. At some point, she asked a uniformed officer walking along the corridors for some warm water (as she could not take cold water) but was refused. Subsequently, the accused was also given food which she could not eat as she had not taken her medications, which she did not have with her.
+
+>> (c)    She had not taken her medication, and was suffering from anxiety at the point SIO Esther recorded P22I – **_oppression_**. The accused requested that she be allowed to take her medication, but SIO Esther told her, “You sign the statement, then you can go and take your medication” – **_inducement_** / **_promise_**. SIO Esther also flashed handcuffs to the accused and told her to sign the statement, or else she would not be allowed to go home to take her medication - **_threat_**.
+
+>> (d)    The accused “denied to certain questions” posed by SIO Esther, but “when she finally got hold of the statement, it was a totally different answer that was in the statement”.
+
+> 9    Although the Defence confirmed that this was the extent of the allegations, _further_ allegations were raised in the course of the ancillary hearing:
+
+>> (a)    Prior to getting into the police car at the Bugis area, the accused receive two calls from someone purporting to be “Ah Hiang’s grandson”. Ah Hiang’s grandson scolded vulgarities at the accused, and even threated her over the phone. He asked her to come out of the McDonald’s outlet at Bugis to meet him.
+
+>> (b)    At the Bugis area, a female officer got out of the police car and used her phone to take some photographs of the accused, before telling her to get into the police car. The accused was puzzled as to why her photographs were being taken when she had not anything wrong.
+
+>> (c)    En route to Tanglin Police Division, in the police car, the accused attempted to use her personal phone to make a call to her family, but one of the officers told her that she was not allowed to use her phone.
+
+>> (d)    When the accused arrived at Tanglin Police Division, her bag containing her phone and various cards, and umbrella (henceforth her “belongings”) were taken away from her, and she was brought to an interview room on Level 3. Subsequently, during the Defence’s Examination-in-Chief of the accused, the accused did a volte-face and stated that she had her belongings with her throughout the time she was in the interview room, but did not use the phone. She further claimed, only when the Prosecution cross-examined her, that she was not allowed to use her phone during the time she was in Tanglin Police Division.
+
+>> (e)    The accused claimed that during the time she was left alone in the interview room, she began to feel bodily discomfort of a moderate severity, i.e. discomfort which was not too mild, and not too severe. At some point, she wandered out and asked a “junior” police officer for permission to go home to retrieve her medication, but the officer told her that he was too junior to make such a decision.
+
+>> (f)    The accused informed SIO Major Kalwani (“SIO Manoj”) that she wishes to speak in Teochew, but this was not communicated to SIO Esther, who proceeded to record the accused’s statement in Mandarin. Since the accused conversed in Teochew, she was unable to understand SIO Esther’s questions during the recording of \[the Accused’s 1st Statement\].
+
+>> (g)    SIO Esther Goh did not read back the statement, \[the Accused’s 1st Statement\], to the accused.
+
+>> (h)    Sometime after 5 February 2015, before 14 January 2016, the accused was informed by her son, \[Robin\], that she had to go down to Tanglin Police Division to _change her statement_, \[the Accused’s 1st Statement\]. The accused did so. On this occasion, SIO Esther recorded _another_ statement from the accused (the “phantom statement”). During the recording of the phantom statement, SIO Esther told the accused that this \[second\] statement was “very good” for the accused, as it would state that she did not cheat “Ah Tan” of the money, but htat she merely borrowed money from him. SIO Esther also assured the accused that so long as she repaid “Ah Tan” the money, she would “be okay”. Finally, SIO Esther also told the accused that \[the Accused’s 1st Statement\] would no longer exist or be in use.
+
+### The Prosecution’s evidence
+
+19     According to IO Peh, he was directed to deal with a complaint of a case of cheating on a day in February 2015, which was subsequently established to be 5 February 2015.[^5] At about 2:00-3:00 pm in the afternoon, he met and spoke with the Victim, who “seem a little, uh, mentally challenged then”, and the Victim’s relative, a “Chinese lady” to gather a little more information on the complaint.[^6] From the brief conversation, IO Peh understood that the Victim had been paying a lot of money to two ladies who had claimed that the Victim owed money to Mr Lee Kuan Yew (“**Mr Lee**”).[^7]
+
+20     IO Peh managed to obtain the telephone number of one of the ladies, who was subsequently identified as Mdm Boo, and arranged for her to be brought to Tanglin Police Division for an interview.[^8]
+
+21     During the interview with Mdm Boo, IO Peh learned that she had collected money from the Victim pursuant to a business joint-venture that Mdm Boo had entered into with another lady.[^9]
+
+22     Mdm Boo provided IO Peh with the telephone number of the said other lady, who was subsequently identified as the Accused. IO Peh used Boo’s cellular telephone to call the Accused, identified himself as an investigation officer from Tanglin Police Division who was “looking into a case of scam”, and requested to meet the Accused.[^10]
+
+23     As the Accused had informed IO Peh that she was at Bugis, IO Peh arranged to meet the Accused outside the McDonald’s fast-food restaurant at Bugis Street (“**McDonald’s Bugis**”) which was near Queen Street and behind the Fu Lu Shou Building.[^11] IO Peh also mentioned that he would be driving a police car as the Accused mentioned that she did not believe that IO Peh was a police officer.[^12]
+
+24     IO Peh and two of his colleagues, Mr Lin Yuehong and Ms Lam Limin, arrived at McDonald’s Bugis sometime between 5:00 pm and 6:00 pm and waited for the Accused under the electronic road pricing gantry.[^13] Neither Mr Lin Yuehong nor Ms Lam Limin carried their service revolver or handcuffs as they were not on duty.[^14] IO Peh called the Accused again to inform her that he had arrived and was driving a police car. Subsequently, the Accused walked up to IO Peh whereupon IO Peh identified himself as a police officer and asked the Accused to follow him to Tanglin Police Division to assist with investigations. The Accused complied without issue.[^15]
+
+25     At Tanglin Police Division, the IO Peh brought the Accused to an interview room at the third floor where he asked her about her relationship with Mdm Boo and the Victim. IO Peh testified that the Accused told him that Mdm Boo, the Victim and her were “doing some business” which “young people like you won’t know”.[^16] IO Peh left the interview room after about 15 minutes and referred the Accused to the Commercial Crime Squad (“**CCS**”) at about 6:00 pm.[^17]
+
+26     During examination-in-chief, IO Peh also testified that he did not produce or use his handcuffs at any point in time when he was with the Accused and that he had offered Chinese New Year snacks to Mdm Boo and the Accused when they were at Tanglin Police Division.[^18]
+
+27     Sometime between 7:00 pm and 8:00 pm on 5 February 2020, the Accused was referred to IO Esther as both of them were female and spoke Mandarin. Subsequently, one “IO Zulkifli” placed the Accused under arrest and IO Esther was asked to interview the Accused in relation to the Accused’s alleged involvement in a cheating case. At that point in time, the Accused was neither restrained or handcuffed.[^19]
+
+28     At 8:10 pm, IO Esther started recording the Accused’s 1st Statement at her office at the CCS (contrary to what was erroneously recorded as “Tanglin Police Division HQ interview room 1” on the Accused’s 1st Statement). The recording ended at 9:25 pm and the Accused signed on the statement at 9:35 pm after it was read back to her.[^20]
+
+29     According to IO Esther, she had sought confirmation that the Accused looked fine and did not appear unwell before and during the recording of the Accused’s 1st Statement. Throughout the recording of the statement in Mandarin, the Accused appeared to be able to understand IO Esther’s questions and did not appear tired or unwell. IO Esther also confirmed that she did not apply any form of threat, inducement or promise to procure the Accused’s 1st Statement.[^21]
+
+### The Defence’s evidence
+
+30     The Accused testified that she had gone to a temple at Waterloo Street for prayer at about 11:00 am on 5 February 2015 with a friend, one Mr Chou Kim Huat (“**Mr Chou**”). After praying, the Accused wanted to have some food at a McDonald’s fast-food restaurant (the “**McDonald’s Restaurant**”) and proceeded to the restaurant with Mr Chou when the time was still about 11:00 am. At about 11:30 am, she received a telephone call.[^22]
+
+31     Without providing further details on the telephone call, the Accused went on to give a different account of what she did after her prayers, _ie._ that she “went outside… to take a look at those bags and clothes outside the temple”. While outside the temple, the Accused received a telephone call from a male Chinese (the “**Unknown Caller**”) who identified himself as Mdm Boo’s grandson (“**1st Telephone Call**”).[^23] During that short telephone conversation, the Accused asked the caller “how could you be the---the son---the grandson of \[Mdm Boo\]” and the caller scolded her, “old lady, don’t be nasty with me”.[^24]
+
+32     The Accused did not state the outcome of the 1st Telephone Call but testified that she then proceeded into the McDonald’s Restaurant where Mr Chou was already waiting for her.[^25] The Accused proceeded to order a drink for herself and, at that juncture, received another telephone call (“**2nd Telephone Call**”) from the Unknown Caller. The Unknown Caller again identified himself as Mdm Boo’s grandson and asked her what she was wearing on that day. The Accused asked the Unknown Caller why he had asked the question but the Unknown Caller did not answer her question. The Unknown Caller then told the Accused that he would arrive in about 10 minutes’ time.
+
+33     After the 2nd Telephone Call, the Accused told Mr Chou that the Unknown Caller had identified himself as Mdm Boo’s grandson and had asked the Accused to follow him.[^26] About 20 minutes after the 2nd Telephone Call, the Accused received yet another telephone call from the Unknown Caller (“**3rd Telephone Call**”) asking her to meet him outside the McDonald’s Restaurant at a police car. The Accused walked out of the McDonald’s Restaurant and saw a police car. As the Accused was walking towards the police car, a lady came out of the police car and used “a phone to---to take a photograph of me” (“**Unknown Photographer**”).[^27] The Accused knew that the Unknown Photographer was taking her photographs because the Accused could hear the “tik---tik” sound.[^28] The Accused was puzzled as to “why this person kept taking photographs of me as I did not---I’ve not done anything wrong” and “told her I didn’t do anything wrong.”[^29] The Accused boarded the police car and she saw Mdm Boo inside. The Accused called out to Mdm Boo but Mdm Boo did not respond.[^30] According to the Accused, throughout this time, there was no one else outside the police car except for the Unknown Photographer.
+
+34     At this point of the examination-in-chief, Accused repeated many times that she did not see any other police officer outside the police car besides the Photographer:[^31]
+
+>   
+| 
+
+Q
+
+ | 
+
+Okay. Now, did you---I mean, you said that you saw a woman, alright, a lady whoever who was taking a picture of you or you thought she was taking a pic---did you see anyone else outside the police car?
+
+ |
+| 
+
+…
+
+ | 
+
+ |
+| 
+
+A
+
+ | 
+
+Outside, no.
+
+ |
+| 
+
+…
+
+ | 
+
+ |
+| 
+
+Q
+
+ | 
+
+So, when you’re walking out of the McDonalds toward the police car, the only person you saw was a woman. Is that your evidence?
+
+ |
+| 
+
+A
+
+ | 
+
+Yes.
+
+ |
+| 
+
+Q
+
+ | 
+
+No other person was standing outside the police car?
+
+ |
+| 
+
+A
+
+ | 
+
+Yes…
+
+ |
+
+  
+  
+
+35     Subsequently, the Defence Counsel directed the Accused’s attention back to the events immediately following the 3rd Telephone Call:[^32]
+
+>   
+| 
+
+Q
+
+ | 
+
+Let me more specific. Just now, you just said, that person told you---you talk about, you saw and you realised that this person is not Ah Hiang’s grandson. Who is this person?
+
+ |
+| 
+
+A
+
+ | 
+
+Because he show---he show me the---the---the handcuffs. So, I---I---I knew that he was a police officer.
+
+ |
+| 
+
+Q
+
+ | 
+
+Okay. Mdm. Tan, okay, this person show you the handcuff. Correct?
+
+ |
+| 
+
+ | 
+
+Yes, yes---
+
+ |
+| 
+
+…
+
+ | 
+
+ |
+| 
+
+Q
+
+ | 
+
+Now, the problem is, you did not tell about this person earlier. Can you explain to the Court, how did you came to know this person on that day?
+
+ |
+| 
+
+A
+
+ | 
+
+He---he called me up and asked me to come out from the McDonald restaurant.
+
+ |
+| 
+
+Q
+
+ | 
+
+Okay. Now, you start all over again from the McDonalds restaurant, right? Now, okay, fine. Earlier---listen carefully, Mdm. Tan. Earlier you testified someone called, a male Chinese called you and told you to come out from the McDonalds and walk straight towards a police car.
+
+ |
+| 
+
+A
+
+ | 
+
+Yes.
+
+ |
+| 
+
+Q
+
+ | 
+
+And this person claimed to be Ah Hiang’s grandson.
+
+ |
+
+  
+  
+
+36     Following this, the Accused told the court that the Unknown Caller was actually a male police officer.[^33] According to the Accused, the Caller walked towards her and showed her his handcuffs as she was walking to the police car. However, the Accused did not explain how she came to realise that the Unknown Caller was actually a male police officer and not someone else. The Accused also did not describe how the Unknown Caller showed her his handcuffs or what he did with the handcuffs.
+
+37     The Accused testified that she felt puzzled and nothing more when the Unknown Caller showed her his handcuffs:[^34]
+
+>   
+| 
+
+A
+
+ | 
+
+Yes, I was puzzled as to why this person show me the handcuff.
+
+ |
+| 
+
+Q
+
+ | 
+
+Now, since you were puzzled, did you ask this person “why are you showing the handcuff”?
+
+ |
+| 
+
+A
+
+ | 
+
+Yes. I asked him why he show me the handcuff.
+
+ |
+| 
+
+Q
+
+ | 
+
+Then what did the person say?
+
+ |
+| 
+
+A
+
+ | 
+
+“Do---don’t talk---don’t talk too much. Just follow me as I walk”.
+
+ |
+| 
+
+Q
+
+ | 
+
+Whilst you’re walking, what did the---where did the police officer ask you to walk to?
+
+ |
+| 
+
+A
+
+ | 
+
+Asked me to go---walk straight towards the---the---there’s a police car over there---there was a police over there.
+
+ |
+| 
+
+Q
+
+ | 
+
+Okay. When you were walking towards the police car, what were your feelings?
+
+ |
+| 
+
+A
+
+ | 
+
+I was wondering---I was wondering why I had to walk towards the police car. I was wondering why I had to walk towards the police car.
+
+ |
+| 
+
+Q
+
+ | 
+
+You’re merely wondering why.
+
+ |
+| 
+
+A
+
+ | 
+
+He didn’t---he didn’t tell me much and just asked me to follow his instruction.
+
+ |
+| 
+
+Q
+
+ | 
+
+So, you were only puzzled and wondering why. Is that all you feel?
+
+ |
+
+  
+  
+
+38     The Accused further testified that her handbag and umbrella were with her when she was in the police car?:[^35]
+
+>   
+| 
+
+Q
+
+ | 
+
+Right. Now, where was your bag and your umbrella you brought on that day?
+
+ |
+| 
+
+A
+
+ | 
+
+It was kept by the police o---officers. I---I don’t know how to se---describe it.
+
+ |
+| 
+
+Q
+
+ | 
+
+Okay. Mdm. Tan, again. I’ll ask you. Listen to the questions carefully. Now, after you entered into the police car---after you entered into the police car, where was your bag and your umbrella?
+
+ |
+| 
+
+A
+
+ | 
+
+I was holding---holding the---the---the---my bag and they were---they were---these 2 items were with---with me. The bags and the umbrella were---were with me.
+
+ |
+
+  
+  
+
+39     The Accused arrived at Tanglin Police Division in the evening at about 4:00 pm.[^36] When the Accused arrived at Tanglin Police Division, she was brought to a room at the third storey. She still had her handbag and umbrella with her. About 20 minutes’ later, a male police officer entered the room to ask her questions and left after 30 minutes’ thereafter.[^37] During the time that the Accused was in the room, she experienced stomach discomfort and bloatedness. She also burped and felt giddy and pain in her shoulder.[^38] During examination-in-chief, the Accused rated her level of discomfort as neither too severe nor too mild and “somewhere between” a scale of 1 to 10.[^39]
+
+40     The Accused stepped out of the room and saw a police officer outside. She asked him in “a bit of Mandarin” as he “could not understand Teochew” whether she could go home to take her medication. The said police officer said that he was junior and could not make any decision.[^40]
+
+41     The Accused also testified that she was offered rice to eat but she had no appetite as she had not taken her medication. She was concerned that she might vomit if she consumed food before taking her medication.[^41] The Accused also asked for warm water as she could not consume cold water otherwise she would burp.[^42]
+
+42     At some point in time, the Accused was brought downstairs to the basement where she was taken through some procedures like “recording of statements” and what was ostensibly fingerprint procurement. At the basement, the Accused’s cellular telephone was purportedly taken away.[^43]
+
+43     When IO Esther was recording the Accused’s 1st Statement, the Accused continued to experience discomfort and told IO Esther about it. The Accused particularised her discomfort as “follows:[^44]
+
+>   
+| 
+
+Q
+
+ | 
+
+What kind of discomfort did you tell you was---you were going through?
+
+ |
+| 
+
+A
+
+ | 
+
+I was a bit giddy and then a severe pain in the leg and I asked the police officer Esther if I could go home to take the medication. They---they asked me to sign the document, after signing the document, I’ll be allowed to go home.
+
+ |
+
+  
+  
+
+44     IO Esther purportedly ignored the Accused, made disparaging comments about the Accused being from the pioneer generation and showed the Accused her handcuffs:[^45]
+
+>   
+| 
+
+A
+
+ | 
+
+Yes. Asked me to walk away, also show me the---the handcuff. I said I’m len---I’m an elderly person, I’m---I’m belongs to the pioneer generations. She said, outside there are so many people belongs to the pioneer generation.
+
+ |
+| 
+
+…
+
+ | 
+
+ |
+| 
+
+A
+
+ | 
+
+She’s---she was holding handcuff in---in her hand and show it to---show---show to me. I asked---asked her why she showed me the handcuff, I said I---I said I’m an elderly person, don’t make me fright---don’t make me frighten. I also belong to the pioneer generation. Then she passed the remarks said, “Outside there were so many people belongs to the pioneer generation”.
+
+ |
+
+  
+  
+
+45     In fact, the Accused repeatedly volunteered the information that she had told IO Esther that she was from the pioneer generation and that IO Esther had disparaged her. The Accused did so on some occasions even when she was not asked the question:
+
+>   
+| 
+
+NE Day 8 Pages 37-38 (Examination-in-chief during the Ancillary Hearing)
+
+ |
+| 
+
+Q
+
+ | 
+
+Okay. What did Esther say?
+
+ |
+| 
+
+A
+
+ | 
+
+Asked me to---to walk---to---to walk away, walk a bit away, shouted I mean shouted at me, she---I said, “You---you---you---you shouted at me, I am an elderly person”, I have feel---I felt frightened. Repeating what she say, “I belong to the pioneer generation”, she said “outside, there are so many people belong to pioneer generation”.
+
+ |
+| 
+
+NE Day 9 Page 18 (Examination-in-chief during the Ancillary Hearing)
+
+ |
+| 
+
+A
+
+ | 
+
+Yah, I also told her about the---the stomach pain, a bit of giddiness, my legs are weak and numb---a bit numb.
+
+ |
+| 
+
+Q
+
+ | 
+
+And her response was to ignore you at this point, is it?
+
+ |
+| 
+
+A
+
+ | 
+
+Yes, did not---she just ignore me. I wanted to approach her to speak to her. Asked me to a---keep a---keep aw---to be away from her. I say---I told her that I’m---I’m belongs to the pioneer---a pioneer generation. She said there were so many people belong to the pioneer ge---generation and she also---she also show me the---the handcuff.
+
+ |
+| 
+
+NE Day 9 Page 81 (Cross-examination during the Ancillary Hearing)
+
+ |
+| 
+
+Q
+
+ | 
+
+And it’s also your evidence that she then ignored you completely.
+
+ |
+| 
+
+A
+
+ | 
+
+Yes. And furthermore asked me to walk a---walk away---walk further away from---from her. She say what---there are so many---I said that I’m---I belong to the pioneer generation. He said there were so many pio---pioneer generations. It’s too ma---so many people belong to the pioneer generations. On hearing that he---that remark he---she was unhappy.
+
+ |
+| 
+
+NE Day 9 Page 96 (Cross-examination during the Ancillary Hearing)
+
+ |
+| 
+
+Q
+
+ | 
+
+I put to you finally, Mdm. Tan, that you voluntarily gave and signed this statement, P22i \[_ie._ the Accused’s 1st Statement\].
+
+ |
+| 
+
+A
+
+ | 
+
+He \[sic\]---honestly, your---if---if Esther had not done that thing, certainly I will agree, but she did not---what---she---she produced the---she took up the---show me the---the hand---hand---handcuff. She---she say that---wa---she said, “There’s so many people belong to the pioneer sa---generation on the---on the street.” They---she even asked me to---to---to go away. “Don’t---don’t be too near to me”. But---but if it’s far away from her, how to---how to commi---how to talk to her?
+
+ |
+
+  
+  
+
+46     The Accused also elaborated on how IO Esther purportedly failed to respect her as an elderly person:[^46]
+
+>   
+| 
+
+Q
+
+ | 
+
+So Mdm. Tan, agree with me if something did in fact happen to you, IO Esther would be in very big trouble?
+
+ |
+| 
+
+A
+
+ | 
+
+Certainly. How---how could she ignore my---my request? I already told him that---told her that I---I was unwell.
+
+ |
+| 
+
+Q
+
+ | 
+
+So if her bosses found out that she did, then she will be in very big trouble, correct?
+
+ |
+| 
+
+A
+
+ | 
+
+You thought as---you are the elderly person. There are so many elder peo---elderly people on the street.
+
+ |
+
+  
+  
+
+47     The Accused did not particularise how she felt about IO Esther disparaging her as being of the pioneer generation but testified that she was frightened when she saw IO Esther’s handcuffs,[^47]
+
+48     During the recording of the Accused’s 1st Statement, the Accused put up with her discomfort and responded to IO Esther’s questions. IO Esther kept alleging that the Accused had cheated the Victim of his money but the Accused persistently denied the allegations.[^48]
+
+49     After the Accused’s 1st Statement was recorded, IO Esther did not read the statement back to the Accused and IO Esther did not provide her with a Teochew interpreter even though the Accused “told her that I---I was not so proficient in---sorry Mandarin and I wanted to speak to in Teochew”.[^49]
+
+50     The Accused was eventually released on bail after midnight later that day.[^50]
+
+51     In relation to her health condition, the Accused testified that she suffered from hypertension, high cholesterol, gastric wind, “a bit head---headache” and “legs are weak” and had been taking medication for high blood pressure and high cholesterol for many years.[^51] However, the Accused did not have any of her medication with her on 5 February 2015 when she went to the temple to pray and when she was brought to Tanglin Police Division.
+
+52     The Accused produced D1V, D2V and D3V which stated that she suffered from various medical conditions and was treated with the relevant medication:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="8.29834033193362%"> <col width="52.0295940811838%"> <col width="39.6720655868826%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="center" class="Table-Para-1"><b>Exhibit</b></p></td><td align="left" class="br" rowspan="1" valign="middle"><p align="center" class="Table-Para-1"><b>Medical Condition</b></p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="center" class="Table-Para-1"><b>Medication</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">D1V</p></td><td align="left" class="br" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">Hypertension; hypercholesterolemia; anxiety; insomnia; knee arthritis.</p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">NIL</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">D2V</p></td><td align="left" class="br" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">Hypertension; hypercholesterolemia; insomnia; knee arthritis</p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">Nifetex-TR: Torvalipin; Lorazepam; Diclofenac</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">D3V</p></td><td align="left" class="r" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">Hypertension, hypercholesterolemia; chronic anxiety; stomach bloatedness</p></td><td align="left" class="" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">Nifetex-TR; Atorvastatin; Lorazepam; Macgel; Polysilic</p></td></tr></tbody></table>
+
+  
+  
+
+53     The Accused also produced D4V and D5V that showed the various types of medication that she had:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="16.14%"> <col width="83.86%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="center" class="Table-Para-1"><b>Exhibit</b></p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="center" class="Table-Para-1"><b>Medication</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">D4V</p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">Beatorva; Nifetex-TR; Polysilic; Macgel (Antacid); Lorazepam</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">D5V</p></td><td align="left" class="" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">Vincomo Plus; Meteospasmyl; Panaco (Fever/Pain); Domperdone; FluVOXAM; Fedac</p></td></tr></tbody></table>
+
+  
+  
+
+54     However, aside from the Accused’s own evidence that she had taken medication for high blood pressure every morning and high cholesterol every evening for many years, there was no evidence that all the other medication had to be taken for any particular acute or severe medical condition rather than when necessary.[^52] For instance:
+
+> (a)     Beatorva: The Accused testified that she would take it for “occasional body---body a---aches, and sometimes, occasional fever as well for this---“;[^53] and
+
+> (b)     Macgel: The Accused testified that “\[s\]ometimes, I feel bloated and when I---I taken food, I feel like vomiting and them, I’m bloated---bloated.”[^54]
+
+55     In fact, in relation to Domperdone, which was purportedly a medication for bowel wind and a bloated stomach, the Accused testified that she started suffering from this condition only after her visit to Tanglin Police Division in 2015.[^55]
+
+56     Mr Robin’s evidence in relation to the events at Bugis Street leading to the recording of the Accused’s 1st Statement was similar to the Accused’s evidence although his testimony was delivered with a liberal dose of angst and indignance. It was not disputed that Mr Robin was not present throughout the material time and he only attended at Tanglin Police Division close to the end of the day on 5 February 2015 to process the Accused’s bail. According to Mr Robin, the Accused looked haggard and weak, and was in shock, when he saw her at Tanglin Police Division. In Mr Robin’s own words, “She---she was in shock, so I was angry. I was angry.”[^56] Mr Robin was also displeased with the waiting time of almost two hours before he could bail out the Accused.[^57] According to Mr Robin, after he brought the Accused home, the Accused only found the energy at 8:00 am to 9:00 am the next day to tell him what happened the day before.
+
+### Assessment of the evidence at the Ancillary Hearing
+
+57     I was mindful that neither IO Esther nor IO Peh were the investigation officers in charge of this case. Even though the case was assigned to IO Peh initially, he handed it over to the CCS shortly after he had brought the Accused to Tanglin Police Division. Given their established careers with the Singapore Police Force, there was no conceivable reason for either or both of them to have gone out of the way to procure an admission by the Accused by improper means.
+
+58     Furthermore, notwithstanding the bizarre assertions by the Accused that IO Peh had initially identified himself as Mdm Boo’s grandson and had shown his handcuffs to the Accused in a public place, assertions that were denied by IO Peh, there was also no evidence IO Peh’s actions sapped the Accused’s will or otherwise led to any involuntariness in her making of the Accused’s 1st Statement a few hours later.
+
+59     As a whole, I found the Accused’s evidence during the Ancillary Hearing to be devoid of internal consistency and coherence. Her allegations of threat, inducement, promise or oppression were also ill-defined and lacking in depth and granularity.
+
+60     For instance, throughout her testimony, the Accused flip-flopped numerous times and was extremely vague as to whether Mr Chou was next to her when she received the received the telephone calls from the Unknown Caller. Furthermore, given the Accused’s evidence that she had told Mr Chou on at least one occasion that Mdm Boo’s grandson had called her, the absence of Mr Chou as a witness for the Defence was particularly glaring.
+
+61     I also found the Accused’s account of the events at Tanglin Police Division to be surreal and unbelievable, beginning with the junior police officer who purportedly turned down the Accused’s request to go home to take her medication and culminating with the recurring theme of handcuffs being shown to the Accused. It was also inexplicable why the Accused felt curious when she saw IO Peh’s handcuffs but frightened when she saw IO Esther’s handcuffs. There was no explanation why she would be frightened by the sight of IO Esther’s handcuffs and why this would thereby lead her to make the Accused’s 1st Statement involuntarily.
+
+62     Additionally, even if IO Esther had refused to let the Accused take her medication, the Accused had testified that her level of discomfort was ‘not too mild, and not too severe”.[^58]
+
+63     In _Yeo See How v Public Prosecutor_,_[^59]_ the Court of Appeal held at \[39\]:
+
+> 39    We now turn to consider the aspect of oppression. The appellant adopted three main lines of attack. First, it was contended that there was oppression in that while giving the statement the appellant was feeling cold, he was not given medicine for his gastric pain, and he was hungry. There was no evidence that his gastric problems were at the time serious. It would seem that there was just some minor discomfort – in other words that the appellant was not in any severe pain. …
+
+> 40    As noted by the Court of Appeal in _Panya Martmontree v PP <span class="citation">\[1995\] 2 SLR(R) 806</span>_ there is no necessity, contrary to what may have been thought in various cases, including _PP v Law Say Seck_ \[1971\[ 1 MLJ 199, for interrogators to remove all discomfort. Some discomfort has to be expected – the issue is whether such discomfort is of such a great extent that it causes the making of an involuntary statement. Since the discomfort here was clearly not great, we did not see any doubt was raised that the statement was involuntary.
+
+64     Therefore, even if the Accused did experience some discomfort when she was making her statement, in the absence of anything more, I was not satisfied that she had made her statement involuntarily.
+
+65     Additionally, aside from the medication for hypertension and high-cholesterol, most of the medication shown in D4V and D5V were to be taken only when necessary. There was a dearth of medical evidence of any acute or severe health condition that afflicted the Accused when the Accused’s 1st Statement was recorded.
+
+66     I paid short shift to the Accused’s allegation that she did not understand the contents of the Accused’s 1st Statement, which was recorded in Mandarin. Notwithstanding the Accused’s claim that she was proficient in Teochew and could only understand a little Mandarin, it transpired in the course of the trial that the Accused was actually more comfortable communicating in Mandarin. Although the Accused started the Ancillary Hearing with a Teochew interpreter, she started speaking in Mandarin in the midst of giving evidence and eventually asked for Mandarin instead of Teochew interpretation.
+
+67     Finally, when the Accused was given the opportunity to make changes to the Accused’s 1st Statement when IO Manoj recorded the Accused’s 2nd Statement, the Accused failed to mention that she was subject to any form of threat, inducement, promise or oppression.
+
+68     In conclusion, I was not persuaded that the Accused had given the Accused’s 1st Statement while labouring under any form of operative threat, inducement, promise or oppression. I was satisfied beyond reasonable doubt that the Accused’s 1st Statement was voluntarily recorded and I admitted it into evidence for the main trial
+
+## The Prosecution’s Case
+
+### The victim’s evidence
+
+69     As the maxim _last but not least_ goes, the Victim’s evidence weighed heavily in the Prosecution’s case even though the Victim was the last witness for the Prosecution.
+
+70     However, in considering the Victim’s evidence, I was mindful of the comments by Dr San San Thinn, Associate Consultant of the Department of Geriatric Psychiatry, Institute of Mental Health, (“**Dr Thinn**”) in P15 (dated 18 May 2015) and P16 (dated 13 August 2015):
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="14.38%"> <col width="85.62%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">P15</p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">…</p><p align="justify" class="Table-Para-1"><b><u>Investigations:</u></b></p><p align="justify" class="Table-Para-1">An IQ assessment was done by our senior clinical psychologist Ms Chermain Wong on 8 May 2015 by using Wechsler Adult Intelligence Scale-IV (WAIS-IV). Mr Tan’s current cognitive profile indicates that his domains of intellectual functioning are in the extremely low to borderline range. Assessment of his adaptive behaviours further confirms that in terms of his conceptual, social and overall adaptive skills, Mr. Tan is currently performing at an extremely low level. Mr. Tan’s current presentation is consistent with <b>Mild Intellectual Disability</b>.</p><p align="justify" class="Table-Para-1">…</p><p align="justify" class="Table-Para-1">(Emphasis added.)</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">P16</p></td><td align="left" class="" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">…</p><p align="justify" class="Table-Para-1"><b>(a) In the event the case goes to court or trial, will Mr. Tan be able to understand the nature of the court proceedings?</b></p><p align="justify" class="Table-Para-1">Yes. He is able to understand the nature of the court proceedings. In view of his mild intellectual disability, he will need assistance in court proceedings. He needs interpreter in Chinese dialect.</p><p align="justify" class="Table-Para-1"><b>(b) In light of his mild intellectual disability as indicate (</b> <b><em>sic</em></b> <b>) in the report, will he specifically be able to take the witness stand and provide evidence under oath or affirmation?</b></p><p align="justify" class="Table-Para-1">In view of his mild intellectual disability, the questions posted to Mr. Tan should be kept short and simple. He also needs to be given some time to answer those questions.</p><p align="justify" class="Table-Para-1">I am of the opinion that mild intellectual disability made him vulnerable to exploitation.</p><p align="justify" class="Table-Para-1">…</p><p align="justify" class="Table-Para-1">(Emphasis added.)</p></td></tr></tbody></table>
+
+  
+  
+
+71     Based on my observation of the Victim’s demeanour and hearing his responses at the beginning of his examination-in-chief by the Prosecution, I was satisfied that the Victim fully appreciated the seriousness and importance of the court proceedings and the obligation to tell the truth under affirmation. I was also satisfied that he was able to comprehend the court proceedings with the assistance of a Teochew interpreter speaking simply.
+
+72     The Victim had been working as a petrol pump attendant at various Esso petrol stations for many years. In 1992, he was working at the Esso petrol station at Lorong 2 Toa Payoh. As a petrol pump attendant, he drew a monthly salary of between $700 and $1,300 over the years. The Victim had a second job as a cleaner at a factory where he was in charge of throwing rubbish.
+
+73     The Victim was acquainted with Mdm Boo (whom the Victim referred to as “_Ah Hiang_”) about 30 years’ ago when they attended Teochew operas. Sometime before May 1999, Boo introduced the Accused to the Victim.
+
+74     On 11 May 1999, the Victim completed the CPF Application Form to withdraw all the monies in his account with the Central Provident Fund Board amounting to $53,131.64 (“**CPF Monies**”) when he turned 55 years’ old on 16 June 1999 and for the CPF Monies to be credited directly into his personal POSBank account bearing bearing XXX (“**POSBank Account**”).
+
+75     The Victim decided to withdraw the CPF Monies because the Accused said that she needed money for Mr Lee:[^60]
+
+>   
+| 
+
+Q
+
+ | 
+
+So, Mr. Tan, you have justified that you went to the CPF Service Centre to withdraw your CPF savings. Who was this money for?
+
+ |
+| 
+
+A
+
+ | 
+
+Called Mdm. Tan, to give to Mdm. Tan. (_sic_)
+
+ |
+| 
+
+Q
+
+ | 
+
+And why did Mdm. Tan need money?
+
+ |
+| 
+
+A
+
+ | 
+
+Mdm. Tan said she needed money for Lee Kuan Yew.
+
+ |
+| 
+
+Q
+
+ | 
+
+Did she say why she needed money for Lee Kuan Yew?
+
+ |
+| 
+
+A
+
+ | 
+
+So, Lee Kuan Yew did things and Mdm. Tan said the money was needed for Lee Kuan Yew.
+
+ |
+| 
+
+Q
+
+ | 
+
+So, who---who would be the one who passed Mdm. Tan the money?
+
+ |
+| 
+
+A
+
+ | 
+
+Ah Hiang was the one who handed the money to Mdm. Tan.
+
+ |
+| 
+
+Q
+
+ | 
+
+And, Mr. Tan, if you knew that Mdm. Tan didn’t actually need to pay or give money to Lee Kuan Yew, would you have withdrawn your CPF savings?
+
+ |
+| 
+
+A
+
+ | 
+
+No need to.
+
+ |
+
+  
+  
+
+76     After the CPF Monies were credited into the POSBank Account, the Victim handed the ATM card to his POSBank Account and personal identification number (“**PIN**”) to Mdm Boo so that she could withdraw the CPF Monies as and when required and pass the them to the Accused.[^61] The Victim had asked Mdm Boo to make the withdrawals as he was busy with work.
+
+77     According to the Victim, he would not have withdrawn the CPF Monies if he had known that the Accused did not actually need to pay or give money to Mr Lee.[^62]
+
+78     The Victim also testified that he received his salary every month by way of cash or cash cheque.[^63] Since 1992, Mdm Boo would take all of the Victim’s monthly salary, except for $30, (“Monthly Payments”) and pass the money to the Accused. According to the Victim, the Accused told him that the Monthly Payments were for Mr Lee:[^64]
+
+>   
+| 
+
+Q
+
+ | 
+
+Now, you mentioned you passed your salary to Ah Hiang who then passed it to Mdm. Tan, but who was the money ultimately for?
+
+ |
+| 
+
+A
+
+ | 
+
+She said Lee Kuan Yew.
+
+ |
+| 
+
+Q
+
+ | 
+
+Who said?
+
+ |
+| 
+
+A
+
+ | 
+
+Mdm. Tan. Mdm. Tan
+
+ |
+| 
+
+Q
+
+ | 
+
+So Mdm. Tan told you that the money was for Lee Kuan Yew, is that right?
+
+ |
+| 
+
+A
+
+ | 
+
+Yes.
+
+ |
+| 
+
+Q
+
+ | 
+
+So again, did she say why the money was for Lee Kuan Yew? Why Lee Kuan Yew need the money?
+
+ |
+| 
+
+A
+
+ | 
+
+No.
+
+ |
+| 
+
+Q
+
+ | 
+
+So this arrangement of you passing the bulk of your salary to Ah Hiang to then pass to Mdm. Tan, did it happen every month?
+
+ |
+| 
+
+A
+
+ | 
+
+Yes, every month.
+
+ |
+
+  
+  
+
+79     The Victim could not give the exact date that he started making the Monthly Payments to the Accused through Mdm Boo but recalled that they started before he withdrew the CPF Monies and as far back as 1991.[^65]
+
+80     The Victim also could not give the exact amount of the Monthly Payments. However, based on the Victim’s evidence that he earned a monthly salary of more than $700 and that the Victim handed over all his monthly salary, except for $30, to Mdm Boo every month, the Victim agreed that he would have paid Mdm Boo at least $500 every month for her to pass to the Accused.[^66] Given that the Victim received his monthly salary in different modes, _ie._ cash, cash cheque or direct credit into the POSBank Account, he also made the Monthly Payments in different ways, _ie._ cash, cheque or by way of withdrawal using the ATM card.[^67]
+
+81     According to the Victim, he would not have made the Monthly Payments if he had known that the Accused did not actually have to pay Mr Lee.[^68]
+
+82     The Victim also testified that even though he did not regularly check the cash balance in the POSBank Account, he saw the account balance in 2019 and realised that there was only over $5,000 left in the POSBank Account,[^69] nothing close to the over $53,000 of the CPF Monies that were credited into the POSBank Account in 1999.
+
+### The Accused’s 1st Statement
+
+83     The Victim’s testimony in court was materially corroborated by the Accused’s 1st Statement, which was admitted into evidence after the Ancillary Hearing, in a number of areas:
+
+>     …
+
+> Q3)    How do you know \[the victim\]?
+
+> A4)    I know him through my friend \[Boo\]. I know him for about for about 20 years.
+
+> Q4)    Did \[the victim\] hand over money to you?
+
+> A4)    Yes, but he handed over the money to me through \[Boo\]. He only handed over to me 2 to 3 times.
+
+> Q5)    Why did \[the victim\] hand over money to \[Boo\]?
+
+> A5)    Whenever I need money, I will lie to \[Boo\] like, I need to pay Mr Lee Kwan Yew (_sic_) who is the Prime Minister or do business. Then I will tell \[Boo\] to go to \[the victim\] to ask for money. \[The victim\] is aware I am the one wants the money.
+
+> Q6)    How often did you tell \[Boo\] to collect money from \[the victim\]?
+
+> A6)    After few years I know \[the victim\], almost every month I will tell \[Boo\] to go collect money from \[the victim\] using the same excuse.
+
+> Q7)    Do you contact \[the victim\] before \[Boo\] go and collect money from \[Boo\] (_sic_)?
+
+> A7)    No, I just tell \[Boo\] to collect from \[the victim\]. But \[the victim\] know I am the one who needed the money.
+
+> Q8)    After \[Boo\] handed over money to you, did you hand over to Mr Lee Kwan Yew (_sic_)?
+
+> A8)    No, I lied to her, nothing to do with Mr Lee Kwan Yew (_sic_).
+
+> Q9)    Did you invest into business?
+
+> A9)    No, I gambled away the money.
+
+>     …
+
+> Q11)  How much did \[the victim\] handed over to you through \[Boo\] in total?
+
+> A11)  About $30,000 over 10 over years.
+
+> Q12)  Did you return any money to \[the victim\]?
+
+> A12)  Yes. Last year, \[the victim\] relative came to me and talked to me. I met them and in the end, I agreed to return him $500 every month.
+
+> Q13)  How do you pay back to \[the victim\]?
+
+> A13)  \[The victim\] relative give me an OCBC account and every month I deposit $500 into the cash.
+
+>     …
+
+> Q15)  Why did you lied to \[Boo\] to take money from \[the victim\]?
+
+> A15)  Because I need money to gamble.
+
+> Q16)  Do you have the intention to cheat \[the victim\]?
+
+> A16)  Yes, I just want money to gamble. At that point in time, I cannot stop my gambling habit. So, I just lied to \[the victim\] that I needed money to give Mr Lee Kwan Yew (_sic_) or invest into business.
+
+> Q17)  Do you know it is an offence to cheat?
+
+> A17)  I know but I needed money to feed my gambling habit.
+
+### Boo’s 1st Statement and Boo’s 2nd Statement
+
+84     Boo’s 1st Statement materially corroborated the Victim’s evidence and provided more details and a very useful background to the Accused’s fraudulent scheme executed in concert with Mdm Boo:
+
+>     …
+
+> Q7)    Did you collect money monthly from \[the victim\]?
+
+> A7)    I was informed by \[the Accused\] that Yeo Hiap Seng has been eating our money. I recalled giving \[the Accused\] a one time payment of $390/- many years ago. Ah Ngo told me that after I have made this payment, Yeo Hiap Seng will give $500/- either monthly or yearly to a old folks home where my aunt is staying. As many years had passed, I cannot recall the exact details. Subsequently, \[the Accused\] told me that Yeo Hiap Seng did not keep to the promise and many others had fallen prey to the scam. I was then informed by \[the Accused\] again that because many others have fallen victim to the scam, Lee Kwan Yew bought over the company. \[The Accused\] then told me that there is a scheme set up by Lee Kwan Yew whereby I have to give money to Lee Kwan Yew and thereafter, Lee Kwan Yew will give me back the money that Yeo Hiap Seng has failed to pay me. I, myself had handed over money to \[the Accused\]. This thing started about 7 to 8 years ago. I did not keep track of the money that I have handed over to \[the Accused\], sometimes it is $190/-, sometimes it is $390/-. I would give her the funds whenever she told me she received the invoice and I must pay up. Otherwise there would be interest charge.
+
+>     As for \[the victim\], I was just conveying a message on behalf of \[the Accused\] to him. \[The victim\] expressed interest that he wanted to be in the scheme hence every time that \[the Accused\] ask me to make payment for the Lee Kuan Yew scheme, I will tell \[the victim\] who will wait till his pay day before he hand over the money to me. I will then hand over the money to \[the Accused\]. I was leaving in despair. I did not get any money from \[the Accused\] at all. I also do not dare to tell my daughter. The salary that I collect every month, I have given everything to \[the Accused\]. It was only 2 to 3 months ago where I stopped paying to \[the Accused\] as she told me I no need to pay her anymore. \[The victim\] stopped 1 year ago when his nephew advised him to stop and his niece took charge of his money.
+
+> Q8)    Why does \[the victim\] want to pass money to \[the Accused\]?
+
+> A8)    \[The Accused\] told me that there is a Lee Kway Yeow (_sic_) scheme. I had taken whatever money that \[the victim\] had handed over to me to \[the Accused\].
+
+>     …
+
+> Q10)  Can you tell me since when you have been taking money from \[the victim\] to pass to \[the Accused\]?
+
+> A10)  I have collected money from \[the Accused\] on numerous occasions. I cannot recall. I have handed over all the money that \[the victim\] has handed over to me to \[the Accused\]. This has been going on for the past 7 to 8 years, at least once to three times a week.
+
+> Q11)  Can you explain to me how the money is passed to you by \[the victim\]?
+
+> A11)  Sometimes, I will meet \[the victim\] at my house. We will sit at the coffeeshop and chit chat. At the same time, he will hand over the money to me. \[The victim\] will normally call me first and say that the money is ready for collection and asked me to hand over the money to \[the Accused\]. I will call \[the Accused\] and then she will arrange to either meet me at Queen Street or my house to collect the money from me. Mostly it will be in Queen Street.
+
+>     …
+
+> Q15)  Do you have anything else to say to your statement?
+
+> A15)  I am very good friend with \[the victim\]. We used to go out together. I was taken in by \[the Accused\]’s lies. That led me to hand over my money to her. I was also led to introduce \[the victim\] to the scheme because I wanted him to benefit from the scheme. If I know that this scheme was non existence, I would not have roped \[the victim\] in. I also do not want the Police to ask Lee Kuan Yew about this.
+
+85     Boo’s 2nd Statement provided more details of how the scheme was executed:
+
+>     …
+
+> Q1)    Kindly go through \[Boo’s 1st Statement\]. Do you wish to amend any facts?
+
+> A1)    …
+
+>     For answer number 11, I would meet \[the victim\] mostly at Esso Petrol Kiosk when he would call me to come and collect the money. So I would go down to his work place. If he is off and wanted to hand over the money to me, \[the victim\] would bring it to under my void deck where I would meet him. I did not collect the money from him at any coffeeshop. I would then handover the money to \[the Accused\] at Queen Street Mcdonalds as suggested by her. If not Queen Street, she would come to my void deck of my block to collect. That is all for my amendments.
+
+>     …
+
+> Q2)    When did \[the Accused\] first tell you about this scheme?
+
+> A2)    I cannot remember, very long ago. I am already 71 years old this year. I think maybe more than 10 to 15 years ago.
+
+> Q3)    When did you finally realise that there was no such scheme in the first place and you were being cheated?
+
+> A4)    1 week after I was interviewed by the Police in February 2015.
+
+> Q4)    How did you realise that you were cheated?
+
+> A4)    1 day after I was interviewed by the Police, I went to visit \[the Accused\] at her void deck and asked her how come now the Police and Press is involved but why the Security officer of Mr Lee Hsien Loong did not come out to make a statement to clarify on this because \[the Accused\] told me that she was always handing over the money to the Security officer. The security officer is the one who call \[the Accused\] when the payment is due. \[The Accused\] told me that she was unable to get through to the Security officer. I then realised that it is a scam.
+
+>     …
+
+> Q7)    To your knowledge, was \[the victim\] also making payment for this scheme?
+
+> A7)    Yes, he was making payment for this scheme as well after \[the Accused\] had mentioned to him about this scheme also.
+
+> Q8)    When \[the Accused\] finally stopped collecting money from you for this scheme as she mentioned to you that you need not pay anymore, did you question her why was \[the victim\] still making payment for this scheme?
+
+> A8)    I did ask \[the Accused\] about this and \[the Accused\]’s respond (_sic_) to me was that I already had made the full amount for the scheme and there were occasions whereby \[the victim\] failed to pay, as such he still had to make payment.
+
+> Q9)    Since when did you collect money from \[the victim\] and then handover to \[the Accused\] in relation to this scheme?
+
+>     A9) I cannot remember since when.
+
+> Q10)  Why did you agree to this arrangement of collecting money from \[the victim\] and then handing over to \[the Accused\] instead of \[the Accused\] collecting directly from \[the victim\]?
+
+> A10)  Because \[the victim\] was working and \[the Accused\] was also working then, so \[the Accused\] asked me to help to collect. This arrangement was going on for a long time. I did not suspect anything then as I was also making payment for this scheme.
+
+>     …
+
+### The TNP News Report and Mr Godwin’s evidence
+
+86     The TNP News Report, which was written by Mr Godwin, stateed that the Accused had admitted to cheating \[the victim\] but claimed that the total amount involved was only $30,000.
+
+87     The material aspects of the TNP News Report were as follows:
+
+>     One of the two women accused of conning a cleaner of $400,000 over 15 years has admitted to cheating him.
+
+>     But Madam Tan Hwee Ngo, 65, insisted that she took only $30,000 from Mr Tan Soy Kiang, a 70-year-old who thought he was servicing a debt that he owed the Government. …
+
+>     She told The New Paper in her flat at Indus Road yesterday: “Yes, I did cheat Mr Tan and I know it was wrong.”
+
+>     Speaking candidly of her love for mah-jong, which saddled her with debt, Madam Tan said in Mandarin: “I used to play mah-jong a lot when I was younger.”
+
+>     “I played so much that I owed more than $10,000.”
+
+>     Driven by her debt, she started cheating Mr Tan together with her friend, Madam Boo Sok Hiang, 69, more than 10 years ago.
+
+>     Her long-time friend, Madam Boo, had introduced her to Mr Tan, whom the latter had known for many years.
+
+>     Madam Tan said: “I was the one who came up with the scheme to take his money, but Madam Boo was in on it.”
+
+88     The TNP News Report was dated 10 February 2015 and Mr Godwin had visited the Accused at her flat a day earlier, _ie._ 9 February 2015, to interview her:[^70]
+
+>   
+| 
+
+Q
+
+ | 
+
+So Mr. Ng, and as detailed a manner as possible, could you describe this interview process, for example who went with you, where with---where the interview was held?
+
+ |
+| 
+
+A
+
+ | 
+
+Yah. So, um, after I got the address from my editor, I headed down to Mdm. Tan’s address with my photographer, yah. So I went up to her flat, and I remember knocking on the door, and waiting for someone to come to the door, but no one did. Um, so after a while, I turned around and I was about to leave when I crossed paths with Mdm. Tan. So she was just returning back to her flat and that’s when I went up to her and I identified myself as a journalist from The New Paper, and---yah. So basically I told her, you know, what---what I was there for, I wanted to get her side of the story, and I remember she was quite hostile and frosty at first. So she---she didn’t let me into her flat. She actually shut the gate on me. So I was speaking to her through the gate, yah. So she was in her in---she was inside her home and I was standing outside, and---yah. So basically it took quite a bit of coaxing and a bit of, mmm, persuading her before she finally opened up and started to---to share her side of the story, yah.
+
+ |
+| 
+
+Q
+
+ | 
+
+So throughout this time you were speaking to Mdm. Tan, Mr. Ng, you remained outside the house and you were speaking to her through the gate?
+
+ |
+| 
+
+A
+
+ | 
+
+Yah, I was---yah.
+
+ |
+| 
+
+Q
+
+ | 
+
+And was Mdm. Tan then standing on the other side of the gate?
+
+ |
+| 
+
+A
+
+ | 
+
+Yah, she was.
+
+ |
+| 
+
+Q
+
+ | 
+
+Other than Mdm. Tan, was there anyone else in the house at the time?
+
+ |
+| 
+
+A
+
+ | 
+
+Uh, yes, I remember her husband was also at home.
+
+ |
+| 
+
+Q
+
+ | 
+
+Now you mentioned at first she appeared rather hostile and after a lot of speaking to her, she finally decided to open up. So what were some things that you said to her to get her to open up?
+
+ |
+| 
+
+A
+
+ | 
+
+Um, basically I---you know, I was speaking to about how, you know, the news is already out there, and that, you know, the public already knew Mr. Tan’s niece’s side of the story, so now was her chance to, you know, tell th---tell---tell her side of the story, yah. So basically I was using quite a bit of Ms. Lim’s \[_ie._ Pamela’s\] words against Mdm. Tan, so I was telling her, “You know, Ms. Lim claimed that, you know, you---you scammed Mr. Tan, is that true? Ms. Lim claimed that you scammed him of 400K, is that true? And Ms. Lim claimed that, you know, you didn’t make consistent payments, is that true?” Yah.
+
+ |
+| 
+
+Q
+
+ | 
+
+And then she began to open up to some of these questions?
+
+ |
+| 
+
+A
+
+ | 
+
+Yah, after quite a while and she---she began to speak to me and tell me more about her, yah, more about it.
+
+ |
+| 
+
+…
+
+ | 
+
+ |
+| 
+
+Q
+
+ | 
+
+And Mr. Ng, you also mentioned that when you first saw Mdm. Tan coming back from outside, towards the house, you first identified yourself as a journalist, explained what you were doing there. So from the time you introduced yourself to later when you began to ask her certain questions, what language did you speak in, to Mdm. Tan?
+
+ |
+| 
+
+A
+
+ | 
+
+Um, throughout the entire conversation, I was speaking to her in Mandarin, yah.
+
+ |
+| 
+
+Q
+
+ | 
+
+And in what language was she replying you in?
+
+ |
+| 
+
+A
+
+ | 
+
+She replied me in Mandarin as well.
+
+ |
+
+  
+  
+
+89     A photographer from The New Paper who had accompanied Mr Godwin also took a photograph of the Accused just as she was returning to her flat (with part of Mr Godwin visible behind the Accused):
+
+![]([2020] SGDC 0277_Image/[2020] SGDC 0277_image1.png)
+
+90     Mr Godwin testified that the TNP News Report was prepared based on what the Accused told him during the interview, brief notes of which were recorded contemporaneously in Godwin’s Notes, as follows:
+
+> \-     _admits cheating for MJ debts, over 10k_
+
+>> _met C \[ie. the Victim\] thru AX \[ie. Mdm Boo\]_
+
+> \-     _she came up w the scheme_
+
+> \-     _hasn’t been working for 10 year_
+
+> \-     _def not 400k, but 30k_
+
+> \-     _admit that she knows this is wrong_
+
+### The LHWB News Report and Ms Koe’s evidence
+
+91     The LHWB News Report was prepared by Mr Wong with input by Ms Koe and two other colleagues. To obtain information on the case, Ms Koe had visited the Accused to interview the Accused and her family. The Accused, her husband, Mr Robin and a few other reporters were present at the same time.
+
+92     According to Ms Koe, even though she and the other reporters directed many questions at both the Accused and Mr Robin, Mr Robin appeared defensive and appeared eager to speak on the Accused’s behalf.[^71]
+
+93     The English translations of the material parts of the LHWB News Report were as follows:
+
+>     A 65-year-old female dishwasher admitted to cheating a hunchbacked old man previously to settle her gambling debts; after her debts were cleared, she continued taking money from the old man out of greed; but emphasized that she did not take $400,000, and only owes him $30,000.
+
+>     …
+
+>     Our reporter(s) visited the homes of both women, 65-year-old woman named \*A E (dishwasher) \[_ie._ the Accused\] and a 69-year-old woman named \*A Xiang (cleaner) \[_ie._ Mdm Boo\], both of them have been friends for more than 30 years.
+
+>     …
+
+>     Accompanied by her husband and son, when interviewed by our reporter(s) at her home this morning, she admitted that due to her gambling debts more than 10 years ago, she thought of using the government investment plan as a pretext to take money from \*A Xiang.
+
+>     Thereafter, she pointed out that \*A Xiang also approached \*A Chen \[_ie._ the Victim\] to join the plan, claimed that she has told \*A Xiang subsequently that this so-called government plan was a lie fabricated by her.
+
+>     Half a year later, after she cleared her gambling debts, she said that \*A Xiang continued to take money from \*A Chen and passed the money to her.
+
+>     She admitted that she did not reject (the money), lamenting that “It was all because of greed!”
+
+>     …
+
+94     Ms Koe had some difficulty explaining Koe’s Notes which were taken in what appeared to be a combination of shorthand and abbreviations. However, Ms Koe recalled that Mr Robin had admitted that the Accused was at fault and it all arose from her gambling habit.[^72]
+
+### The evidence of the victim’s former employers
+
+95     Mr Henry, Ms Christina, Ms Tan, Mr Shariff and Mr Simon, the Victim’s former employers from 2002 to 2012, did not have personal knowledge of the specific interaction between the Victim on the one hand, and Mdm Boo and the Accused on the other hand. However, during the time that the Victim worked with them, his monthly salary clearly placed him in a position to make the Monthly Payments of at least $500 a month.
+
+96     Ms Ann had been the Victim’s employer since 19 December 2012 and testified that the Victim’s salary was more than $1,000 throughout the period of his employment. Like the other former employers of the Victim, Ms Ann did not have direct knowledge of the specific interaction between the Victim on the one hand, and Mdm Boo and the Accused on the other hand.
+
+97     However, sometime between June and August 2013, after Ms Ann heard from the Victim’s colleagues that the Victim would hand over his monthly salary to two ladies, Ms Ann decided to hold on to the Victim’s salary and pay him only when he asked for it. On one occasion in August 2013, the Victim got really upset. He banged the cabinet and demanded that Ms Ann paid him his salary.[^73] Ms Ann acceded to the Victim’s demand but asked him to call the person whom he was paying the money to. The following was what transpired between Ms Ann and the person whom the Victim called:[^74]
+
+>   
+| 
+
+A
+
+ | 
+
+Yah, I have to pay him because it’s his money. So---but I make him call the woman. So I---I said, “Okay, in that case, you call the woman.” So, I put the---the office phone on speaker. So he---he call and then, uh, one woman pick up the phone and then he say, uh, “Ah Hiang, ah.” So I heard, oh, the name is Ah Hiang. Then after that, he said, uh, he has no money, “Then my manager, uh, not going to give me money.” Then after that, that woman say, um, “If you don’t bring money, you will die.”
+
+ |
+| 
+
+…
+
+ | 
+
+ |
+| 
+
+A
+
+ | 
+
+So after that, I take over the phone and talk to the woman.
+
+ |
+| 
+
+…
+
+ | 
+
+ |
+| 
+
+A
+
+ | 
+
+… I ask---I ask her, “Who are you? Why are you asking him for money?” She said, “Oh, no, lah, no lah, just friend.” No, no, that was after that. On the speaker phone, uh, when Tan was talking to her, I heard this.
+
+ |
+| 
+
+…
+
+ | 
+
+ |
+| 
+
+A
+
+ | 
+
+So, I ask her, “Who are you? Why are you asking him for money? You cheating his money?” Then he \[sic\] said, “Oh, no, lah, no, lah, we are friend.” Then she---she quickly hang up the phone.
+
+ |
+
+  
+  
+
+98     While Ms Ann could not identify the lady on the telephone call, the Victim had testified that he knew Mdm Boo as “_Ah Hiang_”.[^75] Additionally, Mdm Boo had told Pamela that her name was “_Ah Hiang_”.[^76]
+
+### The confrontation at the void-deck of a block of HDB flats and the HDB Recording(s)
+
+99     On 4 February 2014, as arranged between Ms Pamela and Ms Ann, Ms Ann informed Ms Pamela that she was going to give the Victim his salary. As such Ms Pamela and Mr Andy rushed down to the Esso petrol station where the Victim was working (the “**Esso Station**”) and persuaded the Victim to allow them to follow him to meet Mdm Boo.[^77]
+
+100    The Victim led Ms Pamela and Mr Andy to the void-deck of an HDB flat behind the Esso Station (the “**Void-deck**”) where they saw Mdm Boo waiting for the Victim.[^78] In the ensuing confrontation with Mdm Boo, which was video-recorded in the HDB Recording(s), Mdm Boo admitted to taking money from the Victim and paying the money to another lady:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="22.22%"> <col width="77.78%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="center" class="Table-Para-1"><b>HDB Recording(s) (HDB Transcript)</b></p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="center" class="Table-Para-1"><b>Extract</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">P12A</p><p align="center" class="Table-Para-1">(P13 Page 1)</p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">[Ms Pamela]:</p><p align="justify" class="Table-Para-1">Did you, did you collect money from him to give to that person for the past 10 years, yes or no.</p><p align="justify" class="Table-Para-1">[Mdm Boo]:</p><p align="justify" class="Table-Para-1">Did collect money…</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">P12C</p><p align="center" class="Table-Para-1">(P13 Pages 7-8)</p></td><td align="left" class="" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">[Mr Andy]:</p><p align="justify" class="Table-Para-1">Who did you give the money to, tell me</p><p align="justify" class="Table-Para-1">[Mdm Boo]:</p><p align="justify" class="Table-Para-1">I told you that I returned it to government, for operation</p><p align="justify" class="Table-Para-1">[Mr Andy]:</p><p align="justify" class="Table-Para-1">No, now you are taking money, money, who did you give it to</p><p align="justify" class="Table-Para-1">[Mdm Boo]:</p><p align="justify" class="Table-Para-1">Give to this woman to give him/her</p><p align="justify" class="Table-Para-1">…</p><p align="justify" class="Table-Para-1">[Mr Andy]:</p><p align="justify" class="Table-Para-1">So this woman cheated all your money</p><p align="justify" class="Table-Para-1">[Mdm Boo]:</p><p align="justify" class="Table-Para-1">Not cheated, cannot say it this way</p><p align="justify" class="Table-Para-1">[Mr Andy]:</p><p align="justify" class="Table-Para-1">He/she said, he/she said, he/she said return money to the government, he/she said to do business</p><p align="justify" class="Table-Para-1">[Mdm Boo]:</p><p align="justify" class="Table-Para-1">Yes, he/she … to do business</p></td></tr></tbody></table>
+
+  
+  
+
+### The confrontation at MOS Burger and the MOS Burger Recording(s)
+
+101    On 5 February 2014, the day after Ms Pamela and Mr Andy confronted Mdm Boo at the Void-deck, Mdm Boo arranged for a meeting with the Accused at the MOS Burger fast-food restaurant (the “**MOS Burger Restaurant**”) at the HDB Hub. The purpose of the meeting was for Ms Pamela to find out more about the “other woman” whom Mdm Boo had been passing the Victim’s money to and to put a stop to the Monthly Payments.
+
+102    The Accused, Mdm Boo, the Victim, Ms Pamela and Mr Andy were present at the meeting which was video-recorded. During the meeting, the Accused admitted to taking money from the Victim and Mdm Boo pointed out the Accused as the person whom Mdm Boo had been handing the Victim’s money to:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="31.48%"> <col width="68.52%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="center" class="Table-Para-1"><b>MOS Burger Recording(s)</b></p><p align="center" class="Table-Para-1"><b>(MOS Burger Transcript)</b></p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="center" class="Table-Para-1"><b>Extract</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">P3A</p><p align="center" class="Table-Para-1">(P4 Pages 3-4)</p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">[Ms Pamela]:</p><p align="justify" class="Table-Para-1">Why is it that the two of you take $1,000 plus from him/her every month</p><p align="justify" class="Table-Para-1">[Accused]:</p><p align="justify" class="Table-Para-1">I told you that I borrowed money from him in the past to do business, then after doing the business, it failed and the person ran away, so borrowed some from him recently, I told you</p><p align="justify" class="Table-Para-1">[Mr Andy]:</p><p align="justify" class="Table-Para-1">How much in total, how much in total</p><p align="justify" class="Table-Para-1">[Accused]:</p><p align="justify" class="Table-Para-1">8,000 in total …</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">P3A</p><p align="center" class="Table-Para-1">(P4 Pages 8-12)</p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">[Mr Andy]:</p><p align="justify" class="Table-Para-1">Who did you give the money to</p><p align="justify" class="Table-Para-1">[Victim]:</p><p align="justify" class="Table-Para-1">Give to her, give to her… I handed to her (gesturing to Boo)</p><p align="justify" class="Table-Para-1">[Mr Andy]:</p><p align="justify" class="Table-Para-1">Okay, [Mdm Boo], are you taking money from home every month</p><p align="justify" class="Table-Para-1">[Mdm Boo]:</p><p align="justify" class="Table-Para-1">Yes</p><p align="justify" class="Table-Para-1">[Mr Andy]:</p><p align="justify" class="Table-Para-1">Then where did the money go?</p><p align="justify" class="Table-Para-1">[Mdm Boo]:</p><p align="justify" class="Table-Para-1">… give back to her (gesturing to the Accused)</p><p align="justify" class="Table-Para-1">[Mr Andy]:</p><p align="justify" class="Table-Para-1">Now the money is given to you</p><p align="justify" class="Table-Para-1">[Accused]:</p><p align="justify" class="Table-Para-1">I told you the money was given to me, but I told you, it is not such a big amount, sometimes he brings it to his friend(s), he does not have just the two of us as friends, he has many friends…</p><p align="justify" class="Table-Para-1">…</p><p align="justify" class="Table-Para-1">[Ms Pamela]:</p><p align="justify" class="Table-Para-1">Did you take the money or not… you took the money, right, what malign you</p><p align="justify" class="Table-Para-1">[Accused]:</p><p align="justify" class="Table-Para-1">I already said that I did, I said that I did…</p><p align="justify" class="Table-Para-1">…</p><p align="justify" class="Table-Para-1">[Mr Andy]:</p><p align="justify" class="Table-Para-1">How much do you take each month, tell me, how much each month, estimate</p><p align="justify" class="Table-Para-1">[Mdm Boo]:</p><p align="justify" class="Table-Para-1">Around 700, 800</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">P3A</p><p align="center" class="Table-Para-1">(P4 Page 13)</p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">[Ms Pamela]:</p><p align="justify" class="Table-Para-1">How much of his CPF money did you take?</p><p align="justify" class="Table-Para-1">[Accused]:</p><p align="justify" class="Table-Para-1">… 4,000, then every month, 200, 300, like that</p><p align="justify" class="Table-Para-1">[Ms Pamela]:</p><p align="justify" class="Table-Para-1">200, 300</p><p align="justify" class="Table-Para-1">[Accused]:</p><p align="justify" class="Table-Para-1">And 4,000 more</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">P3A</p><p align="center" class="Table-Para-1">(P4 Pages 14-16)</p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">[Mdm Boo]:</p><p align="justify" class="Table-Para-1">I never took his money… I don’t need to return money…</p><p align="justify" class="Table-Para-1">[Mr Andy]:</p><p align="justify" class="Table-Para-1">I am asking you, who did you take the money to</p><p align="justify" class="Table-Para-1">[Mdm Boo]:</p><p align="justify" class="Table-Para-1">Gave it to her (gesturing to the Accused)</p><p align="justify" class="Table-Para-1">[Mr Andy]:</p><p align="justify" class="Table-Para-1">[Accused], is it, now she is saying you took all the money</p><p align="justify" class="Table-Para-1">[Accused]:</p><p align="justify" class="Table-Para-1">I took, I told you…</p><p align="justify" class="Table-Para-1">[Mr Andy]:</p><p align="justify" class="Table-Para-1">So it was you</p><p align="justify" class="Table-Para-1">[Accused]:</p><p align="justify" class="Table-Para-1">Ah</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">P3A</p><p align="center" class="Table-Para-1">(P4 Page 18)</p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">[Mr Andy]:</p><p align="justify" class="Table-Para-1">… [Mdm Boo] brought the money to you, she said that she gave you all of the money, that means she isfine, that means you are not, right</p><p align="justify" class="Table-Para-1">[Accused]:</p><p align="justify" class="Table-Para-1">I am in trouble</p><p align="justify" class="Table-Para-1">[Mr Andy]:</p><p align="justify" class="Table-Para-1">You told her, yes, you told her …</p><p align="justify" class="Table-Para-1">[Accused]:</p><p align="justify" class="Table-Para-1">I told you, yes, I am in trouble, but I do not have so much, what do you have to say</p><p align="justify" class="Table-Para-1">[Mr Andy]:</p><p align="justify" class="Table-Para-1">You said that you will give $500 each month, right</p><p align="justify" class="Table-Para-1">[Accused]:</p><p align="justify" class="Table-Para-1">Of course, I admitted to this, yes</p><p align="justify" class="Table-Para-1">[Mr Andy]:</p><p align="justify" class="Table-Para-1">So you will pay back, right, okay</p><p align="justify" class="Table-Para-1">[Accused]:</p><p align="justify" class="Table-Para-1">Every month on the 5<sup>th</sup>, I will pay back</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">P3A</p><p align="center" class="Table-Para-1">(P4 Page 22)</p></td><td align="left" class="" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">[Accused]:</p><p align="justify" class="Table-Para-1">I told [the Victim] that I was doing business and it failed … I am not cheating his money, I am not cheating his money</p></td></tr></tbody></table>
+
+  
+  
+
+103    At the end of the meeting, the Accused agreed to put in writing her agreement to repay $500 to the Victim every month:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="33.34%"> <col width="66.66%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>MOS Burger Recording(s)</b></p><p align="center" class="Table-Para-1"><b>(MOS Burger Transcript)</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Extract</b></p></td></tr><tr><td align="left" class="r" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">P3B</p><p align="center" class="Table-Para-1">(P4 Pages 24-25)</p></td><td align="left" class="" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">[Mr Andy]:</p><p align="justify" class="Table-Para-1">[The Accused], listen to me, this paper will just state that you owe him money, have to give him $500 every month, it is not considered 100,000 plus, told you that you will give for 60 weeks, 60 months will do, all right</p><p align="justify" class="Table-Para-1">…</p><p align="justify" class="Table-Para-1">[Accused]:</p><p align="justify" class="Table-Para-1">So each time 500, 500… good</p></td></tr></tbody></table>
+
+  
+  
+
+104    Consequently, the Accused, Mdm Boo and the Victim signed the Agreement which stated the following:
+
+>     We, \[the Accused\] and \[Boo\], admit that we have been borrowing money from \[the victim\] for the past 15 years. He has been lending us $2000 every month. We have also taken his CPF money of $53,000. We agree to pay him $500 every month, 5th day of every month. In addition, we want to state that \[the victim\] has not owed us or anyone any money.
+
+## The Defence’s Case
+
+105    The Defence’s case comprised a litany of bare denials and assertions by the Accused which were repeated in many respects by Mr Robin, who was the only other witness for the Defence.
+
+### The Accused’s evidence
+
+106    Aside from mounting a fanciful challenge to the voluntariness of the Accused’s 1st Statement, which was admitted at the end of the Ancillary Hearing, the thrust of the Accused’s case was that Mdm Boo had lent money to the Accused for the Accused’s gambling debts (which the Accused had repaid) and that the Accused had no knowledge that Mdm Boo had taken the Victim’s money.[^79] The Accused denied cheating the Victim by falsely representing to him that money was needed for Mr Lee and taking the Victim’s money.[^80]
+
+107    In relation to the meeting at the MOS Burger Restaurant, the Accused explained that she admitted to taking the Victim’s money and agreed to repay $6,000 to the Victim because Mdm Boo had told her to do so. The Accused also testified that she had signed the Agreement because Mdm Boo had “poked her leg” and asked her to do so.[^81]
+
+108    Finally, the Accused vehemently denied speaking with Mr Godwin and denied that Mr Robin had told Ms Koe that the Accused had the intention to cheat the Victim.
+
+### Mr Robin’s evidence
+
+109    Mr Robin’s evidence comprised hearsay primarily as he had no personal knowledge of the material facts and much of his evidence was based on what the Accused told him. In fact, Mr Robin did not even know about the Victim until the Accused was brought to Tanglin Police Division.[^82]
+
+110    Mr Robin testified that after the Accused told him that she was threatened with handcuffs and was not allowed to take her medicine or drink water, he had called the IO to complain. However, the IO had refused to look into these matters and had told Mr Robin, “This didn’t happen”.[^83] Mr Robin also complained to the IO that the newspapers had published “fake news” about the case involving the Accused and the IO had questioned him as to why the newspapers could not report the news.[^84]
+
+111    As Mr Robin was dissatisfied with the inaction of the IO, Mr Robin visited the Neighbourhood Police Post at Delta Avenue (the “**NPP**”) to make a report and to request for the IO to be changed. The police officer at the NPP also provided Mr Robin with details of the Singapore Police Force Feedback Unit (the “**SPF Feedback Unit**”) web address and the hotline telephone number. Subsequently, Mr Robin sent many emails to the SPF Feedback Unit to complain about the IO and the “fake news”, one of which was exhibited as D10. However, there is no reference to the purported threats against the Accused or that the Accused was not allowed to take her medication or drink water when the Accused 1st Statement was recorded.
+
+112    Mr Robin also repeated his evidence during the Ancillary Hearing that, pursuant to his complaints to the SPF Feedback Unit, IO Esther recorded a further statement from the Accused (the “**Further Statement**”), besides the Accused’s 1st Statement and the Accused’s 2nd Statement, in which the Accused had recanted on her earlier admissions in the Accused’s 1st Statement.
+
+113    During cross-examination, Mr Robin testified that his knowledge of the charges against the Accused came from the Accused only and he believed her:[^85]
+
+>   
+| 
+
+Q
+
+ | 
+
+And prior to 6th February 2015, you didn’t know anything about this case, correct?
+
+ |
+| 
+
+A
+
+ | 
+
+Yes.
+
+ |
+| 
+
+Q
+
+ | 
+
+So, all this information that you have, and told the Court that you have gathered, regarding this case, involving your mother, Ah Hiang, Mr. Tan Soy Kiang. All this was recounted to you by your mother, correct?
+
+ |
+| 
+
+A
+
+ | 
+
+Yes.
+
+ |
+| 
+
+Q
+
+ | 
+
+So, all this information that you have, and told the Court that you have gathered, regarding this case, involving your mother, Ah Hiang, Mr. Tan Soy Kiang. All this was recounted to you by your mother, correct?
+
+ |
+| 
+
+A
+
+ | 
+
+Yes, and through the newspaper as well. I read the newspapers.
+
+ |
+| 
+
+Q
+
+ | 
+
+So, after your mother told you her side of the story, that is how she did not cheat Mr. Tan Soy Kiang and how she only borrowed money from Ah Hiang, you believed her, correct?
+
+ |
+| 
+
+A
+
+ | 
+
+Yes, I believed her.
+
+ |
+| 
+
+Q
+
+ | 
+
+Because if your mother told you she do not cheat somebody, you will definitely believe her, correct?
+
+ |
+| 
+
+A
+
+ | 
+
+Yes, and I do give her money. I don’t think she will cheat other people.
+
+ |
+
+  
+  
+
+114    Finally, Mr Robin testified that he had granted an interview to reporters from Lianhe Zaobao and Shin Min Daily News but denied saying to Ms Koe that the Accused had the intention to cheat and that the Accused had a gambling habit which caused her to go into a debt.[^86] On the contrary, Mr Robin claimed that he had told the reporters that the “police bullied my mother \[_ie._ the Accused\], and how my mother was threatened at MOS Burger” which was not reported.[^87]
+
+## Assessment of the Evidence
+
+115    As mentioned at the outset, there were inherent evidential challenges in the present case as it involved 169 charges of cheating that took place many years ago and over many years. These challenges were compounded by two other unique features:
+
+> (a)     Mdm Boo, who featured prominently in all the charges, passed on prior to the commencement of trial and her evidence had to be adduced by way of statements only.
+
+> (b)     The Victim was very advanced in age and was diagnosed by Dr Thinn to be afflicted with mild intellectual disability.
+
+116    Nevertheless, the Victim’s evidence was clear, coherent and unequivocal in relation to the following:
+
+> (a)     The Victim had known Mdm Boo for many years and Mdm Boo had introduced the Accused to him;
+
+> (b)     A long time ago and prior to the withdrawal of the CPF Monies in 1999, the Accused had told the Victim that money had to be paid to Mr Lee, although the exact reason was not clear from the evidence;
+
+> (c)     Labouring under such deception, the Victim withdrew the CPF Monies and credited the CPF Monies into the POSBank Account;
+
+> (d)     Prior to the withdrawal of the CPF Monies, the Victim also started paying not less than $500 to Mdm Boo every month with the understanding that the money would be handed over to the Accused;
+
+> (e)     The Victim gave Mdm Boo full access to the POSBank Account by providing Mdm Boo with the ATM card and PIN for the POSBank Account and asked Mdm Boo to withdraw the CPF Monies for the Accused as and when required;
+
+> (f)     The Victim would not have withdrawn the CPF Monies or paid not less than $500 to Mdm Boo every month if he had known that it was not true that the Accused had to pay money to Mr Lee; and
+
+> (g)     The Victim last checked the POSBank Account in 2019 and there was cash balance of only about $5,000.
+
+117    Crucially, the Victim’s evidence was corroborated in material aspects by:
+
+> (a)     the evidence of a number of independent witnesses, including Ms Ann, Mr Godwin and Ms Koe;
+
+> (b)     Boo’s 1st Statement and Boo’s 2nd Statement;
+
+> (c)     the Accused’s 1st Statement;
+
+> (d)     the HDB Recording(s) of the confrontation with Mdm Boo at the Void-deck; and
+
+> (e)     the MOS Burger Recording(s) of the confrontation with the Accused and Mdm Boo at the MOS Burger Restaurant.
+
+118    Even though the court did not have the benefit of hearing Mdm Boo’s evidence in person, Boo’s 1st Statement and Boo’s 2nd Statement were recorded in plain and simple fashion which left little room for ambiguity. Based on the evidence of the IO and the Interpreter on the recording process, I was also satisfied that the statements correctly reflected Mdm Boo’s words and were reliable.
+
+119    Even though the period over which the offences took place and the amounts of money involved as stated in Boo’s 1st Statement, Boo’s 2nd Statement and the Accused’s 1st Statement did not entirely cohere with the Prosecution’s evidence, these differences did not detract from the overall tenet of the evidence that the false representation had been made to the Victim, that the Monthly Payments had started even before the Victim withdrew the CPF Monies in 1999 and that the Monthly Payments were made to Mdm Boo who would then hand over the money to the Accused. The tendency by Mdm Boo and the Accused to downplay the seriousness of the offences and their respective roles also cannot be totally dismissed.
+
+120    In contrast, I found the Accused to be a disingenuous witness whose testimony lacked consistency and coherence. While I accorded her due respect as a person from the pioneer generation, I noted that she was unabashed at using her age as both a sword and a shield to levy unfounded allegations at the police officers on the one hand, and to draw attention to her purported haplessness due to her age on the other hand.[^88]
+
+121    The Accused’s bare denials that she had the intention to cheat the Victim and that she took the Victim’s money flew in the face of her multiple admissions in the Accused’s 1st Statement, the MOS Burger Recording(s) and what the Accused told Mr Godwin. The Accused’s explanations for these were nothing more than a second tier of bare denials, _ie._ that:
+
+> (a)     she did not give the Accused’s 1st Statement voluntarily and had given the Further Statement which was exculpatory;
+
+> (b)     the Accused had merely complied with Mdm Boo’s instructions for her to lie to Ms Pamela and Mr Andy that it was the Accused who had taken the Victim’s money; and
+
+> (c)     The Accused did not meet and speak with Mr Godwin at all (even though the photographer who accompanied Mr Godwin had taken a photograph of the Accused with Mr Godwin in the background).
+
+122    When the Accused was asked to explain why she had agreed to lie during the meeting at the MOS Burger Restaurant that it was the Accused and not Mdm Boo who borrowed money from the Victim, the Accused could not offer any logical or coherent reason. On the contrary, it was clear from the MOS Burger Recording(s) that the scope of the conversation went beyond the issue of a loan and touched on other areas of the charges against the Accused and the Accused had given her responses without form of prompting or hesitation. For instance:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="31.48%"> <col width="68.52%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="center" class="Table-Para-1"><b>MOS Burger Recording(s)</b></p><p align="center" class="Table-Para-1"><b>(MOS Burger Transcript)</b></p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="center" class="Table-Para-1"><b>Extract</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">P3A</p><p align="center" class="Table-Para-1">(P4 Page 3)</p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">[Accused]:</p><p align="center" class="Table-Para-1">I told you that I borrowed money from him in the past to do business, then after doing the business, it failed and the person ran away, so borrowed some from him recently, I told you</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">P3</p><p align="center" class="Table-Para-1">(P4 Page 13)</p></td><td align="left" class="" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">[Ms Pamela]:</p><p align="center" class="Table-Para-1">How much of his CPF money did you take</p><p align="center" class="Table-Para-1">&nbsp;</p><p align="center" class="Table-Para-1">[Accused]:</p><p align="center" class="Table-Para-1">…4,000, then every month, 200, 300, like that</p></td></tr></tbody></table>
+
+  
+  
+
+123    I also found the Accused to be a highly evasive witness, lacking in candour and prone to embellishing her evidence with afterthoughts. She was also disruptive when giving evidence and frequently disrupted the Prosecution’s cross-examination with irrelevant responses, for instance:[^89]
+
+>   
+| 
+
+Q
+
+ | 
+
+So, you must have first heard Ah Hiang say something about Lee Kuan Yew for you to have that response, correct?
+
+ |
+| 
+
+A
+
+ | 
+
+Sometimes---I said, “Hiang, please don’t say a---anything that is a nonsense.”
+
+ |
+| 
+
+Q
+
+ | 
+
+So, what did Ah Hiang say to you about Lee Kuan Yew?
+
+ |
+| 
+
+A
+
+ | 
+
+She just said---I said, “No. Don’t talk nonsense.”
+
+ |
+| 
+
+Q
+
+ | 
+
+She just said what?
+
+ |
+| 
+
+A
+
+ | 
+
+She said, “To hand over to Old Lee.” I said, “What Old Lee? What Lee Kuan Yew?” This is what I said. There’s no---
+
+ |
+| 
+
+…
+
+ | 
+
+ |
+| 
+
+A
+
+ | 
+
+such thing.
+
+ |
+| 
+
+Court:
+
+ | 
+
+… I have to interrupt this because the Prosecution is asking a---it’s quite a straightforward question. And, of course, because Ah Hiang is not around. She’s just asking that Ah Hiang said. She just has to---the witness just has to answer that question. For 3 times, she had launched into an explanation of what she told Ah Hiang, but I don’t hear that as the question by the Prosecution. You will have the opportunity to explain either through your counsel or if you asked the DPP.
+
+ |
+| 
+
+Q
+
+ | 
+
+So, Mdm. Tan, you said something about Ah Hiang saying that to---something about handing over to Lee Kuan Yew. So, can you tell the Court exactly, based on what you recall, Ah Hiang told you regarding Lee Kuan Yew?
+
+ |
+| 
+
+A
+
+ | 
+
+No. She said, “Money---the money, just hand over to Lee Kuan Yew.” And I said to her, “No. Don’t talk nonsense.” I told her, “Don’t talk nonsense.” That’s all.
+
+ |
+
+  
+  
+
+124    At times, the Accused would refuse to directly answer the Prosecution’s questions:[^90]
+
+>   
+| 
+
+Q
+
+ | 
+
+Now, question 12, answer 12?
+
+ |
+| 
+
+A
+
+ | 
+
+$500 at the MOS Burger. Yes. Yes. The $500 every month to pay him
+
+ |
+| 
+
+Q
+
+ | 
+
+So, you agree question 12 and answer 12 was recorded accurately, correct?
+
+ |
+| 
+
+A
+
+ | 
+
+At MOS Burger, $500. Lim Puay San’s husband said to pay him $500 until $30,000.
+
+ |
+| 
+
+Q
+
+ | 
+
+So, you agree with answer 12, correct?
+
+ |
+| 
+
+A
+
+ | 
+
+Yes. That’s---
+
+ |
+| 
+
+Q
+
+ | 
+
+Agree--- or disagree, Mdm. Tan?
+
+ |
+| 
+
+A
+
+ | 
+
+I told him I didn’t owe that much, that 30,000, no. What I borrowed from Ah Hiang was $6,000.
+
+ |
+| 
+
+Q
+
+ | 
+
+Mdm. Tan, I ask one more time. Do you agree with the answer at A12?
+
+ |
+| 
+
+Thiam:
+
+ | 
+
+Miss Interpreter, maybe you could repeat A12 to her.
+
+ |
+| 
+
+ | 
+
+I know. I paid already, $500.
+
+ |
+| 
+
+ | 
+
+You know. So, it’s accurate, correct?
+
+ |
+| 
+
+…
+
+ | 
+
+ |
+| 
+
+A
+
+ | 
+
+I know. To return him $500.
+
+ |
+| 
+
+Court:
+
+ | 
+
+Before anyone continues, this would not be transcribed because it will not have gone into the microphone. But I just want to place on record and Counsel, you are at liberty to object if you disagree with my observation. Okay? Even though it has not been interpreted and therefore it would have been captured. In relation to the question asked by the DPP on question 12 and answer 12 of P22, the---the witness, also the accused person, has been talking incessantly with the interpreter but she does not appear to be answering the question because the interpreter has appeared to have difficulties extracting an answer from her. In contrast, the witness has been just speaking into the microphone and, you know, appearing to the argumentative with the interpreter. That is my observation in Court.
+
+ |
+| 
+
+Sudeep:
+
+ | 
+
+Your Honour, the question was not very clear, Your Honour.
+
+ |
+| 
+
+Court:
+
+ | 
+
+Which part of it was not very clear, Mr. Sudeep?
+
+ |
+| 
+
+Sudeep:
+
+ | 
+
+No, Your Honour. It’s just saying that, “Do you agree with this particular statement?”
+
+ |
+
+  
+  
+
+125    As far as Mr Robin was concerned, he did not come across as a reliable witness. By Mr Robin’s own admission, his knowledge of the material facts were based on what the Accused told him and he unquestionably believed her version of the facts without reference to other objective evidence and the testimonies of independent witnesses. Mr Robin was visibly upset with the police investigations and the court proceedings against the Accused and repeatedly voiced his belief in the Accused’s version of the facts even when clear evidence to the contrary was presented to him or when he had no personal knowledge of the facts.
+
+126    Finally, it was telling that potential witnesses or objective evidence that could have corroborated the various assertions by the Accused and/or Robin did not feature at trial. For instance, evn though:
+
+> (a)     Mr Chou was purportedly with the Accused on 5 February 2015 when IO Peh (or purportedly Mdm Boo’s grandson) called the Accused and when IO Peh fetched the Accused from McDonald’s Bugis, Mr Chou was not called as a witness; and
+
+> (b)     Mr Robin had testified that he had filed a police report over the way that the Accused’s 1st Statement was recorded, which was also the Accused’s evidence,[^91] the Defence did not produce the said police report.
+
+127    Furthermore, despite making a big deal about the Accused’s health condition when the Accused’s 1st Statement was recorded, there was no medical evidence detailing the seriousness of the Accused’s health condition at the material time, aside from three doctor’s memorandum stating certain chronic conditions that the Accused suffered from and the relevant medication, and photographs of various medication at the Accused’s disposal. Notably, aside from the medication for hypertension and high cholesterol, all the other medication were to be taken only when necessary.
+
+128    All considered, I was satisfied that the Prosecution’s evidence, though lacking in preponderance, was held together with a fine but defined thread that ran through every evidential node and joined together the element of the charges against the Accused. I found that the Defence had failed to introduce reasonable doubt in the Prosecution’s case. Accordingly, I found the Accused guilty and I convicted her of all 169 charges.
+
+129    In reaching this verdict, it also behoved me to clarify my findings:
+
+> (a)     In relation to the charge in MAC-904775-2020, pertaining to the Victim’s withdrawal of the CPF Monies, the evidence of the extent to which the Accused benefited from the CPF Monies was not conclusive, and I made no finding that any part of the CPF Monies found its way into the Accused’s coffers eventually.
+
+> (b)     In relation to all the other charges, pertaining to the Monthly Payments, notwithstanding my finding that the Victim handed over at least $500 to Mdm Boo every month, it did not flow from this finding that Mdm Boo did not retain any proportion of the Monthly Payments and that all $500 was paid by Mdm Boo to the Accused. Given that the Accused had stated in the Accused’s 1st Statement that she had pocketed only $30,000 of the Monthly Payments, this was the extent to which I found that the Accused had personally benefited from the Monthly Payments.
+
+## Sentence
+
+130    The Accused had no antecedents.
+
+### The Prosecution’s submissions
+
+131    The Prosecution sought a global sentence of 30 months’ imprisonment to deter the Accused and other like-minded individual from exploiting vulnerable victims based on the following individual sentences:
+
+> (a)     For the charge in MAC-904775-2017: At least 10 months’ imprisonment (sentence to run consecutively); _and_
+
+> (b)     For each of the charges in DAC-918286-2017 to DAC-918453-2017: At least four (4) months’ imprisonment (with five sentences to run consecutively).
+
+132    The Prosecution pointed out the following aggravating factors in its submissions:
+
+> (a)     The Accused engaged in planned and deliberate offences over an extended period of more than 14 years;
+
+> (b)     The Accused caused substantial loss to the victim and made negligible restitution of between $2,500 and $5,000;
+
+> (c)     The Accused was motivated by greed and personally benefitted from the offences;
+
+> (d)     The offences were committed against a vulnerable and simple-minded victim;
+
+> (e)     The Accused exploited the trust arising from Boo’s friendship with the victim; and
+
+> (f)     The Accused’s demonstrable lack of remorse.
+
+133    The Prosecution submitted that there were no meaningful mitigating factors in the present case and that the Accused should not be accorded any credit for her lack of criminal antecedents due to the number of charges against her which concerned offences committed over a period of 14 years.
+
+134    The Prosecution also took pains to point out that, notwithstanding the Accused’s purported chronic health conditions and the Accused’s advanced age, there were insufficient grounds for the exercise of judicial mercy.
+
+135    There was also nothing to suggest that incarceration would have a disproportionate impact on the Accused. The principle of proportionality was set out in _Chew Soo Chun v Public Prosecutor[^92]_at \[41\]:
+
+>     Ill health may cause a custodial sentence to have such an impact on the offender that it is out of proportion to the gravity of the offence. And where it does so, it may be raised as a mitigating factor in order to reduce the length of the custodial sentence so that the sentence in fact imposed will fall within the ambit of proportionality.
+
+136    The High Court further cautioned at \[40\] that “there is no broader discretionary approach to adjusting a sentence based on the offender’s ill health”. In particular, the High Court emphasized that it would “be insufficient for an offender to merely show that he is ill”, especially if the prison has the ability to address the health conditions or the consequences of the incarceration is normal and inevitable.
+
+137    In this regard, the Prosecution had sought e-mail confirmation from the Singapore Prison Service (the “**SPS**”) that they would not have issues managing the Accused’s health condition and advanced age. The response from the SPS was reassuring that incarceration would not have any disproportionate impact on the Accused notwithstanding her health condition and advanced age:[^93]
+
+>     Singapore Prisons Service has had experience dealing with inmates with a variety of medical conditions and elderlies with mobility issues.
+
+>     Singapore Prison Service has adequate system of healthcare and lodging facilities in place to manage the Accused should the accused be admitted to prison and to ensure that the accused’s health would not be adversely affectedas a result of the incarceration.
+
+>     All prison inmates are given the appropriate level of medical care and treatment as may be required, including referral to a restructured hospital for treatment and management of serious medical conditions.
+
+138    Next, the Prosecution tendered the following sentencing precedents:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="17.8235647129426%"> <col width="18.2636527305461%"> <col width="45.6491298259652%"> <col width="18.2636527305461%"> </colgroup><tbody><tr><td align="left" class="b" colspan="4" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Section 417</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Case Name</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Charge(s)</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Brief Facts</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Sentence</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>Public Prosecutor v Chin Hin On</em> <a class="pagecontent" href="javascript:viewPageContent('/Judgment/51900-M.xml')">[2006] SGDC 276</a>; MA 212/06/01</p><p align="justify" class="Table-Para-1">Pleaded guilty; untraced</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">1 x section 417 of the 1985 PC involving $50,000</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">The accused pleaded guilty to one charge under section 417 of the 1985 PC by deceiving the victim into believing that he had arranged for her money to be invested in an investment product on her behalf and thereby causing the victim to hand over $50,000 to him. The District Judge found that the accused, as a personal financial consultant working with a bank, had taken advantage of a vulnerable victim who was an elderly woman working as a car park attendant. The accused had breached the trust given to him by his employers. The offence committed would affect public confidence in investing in the bank on financial products offered. The amount involved was substantial. Full restitution was made. The judge took into account that full restitution was made, and the accused committed the offence to help his father pay off loan shark debts.</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">4 months’ imprisonment (upheld on appeal)</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>Rupchand Bhojwani Sunil v Public Prosecutor</em></p><p align="justify" class="Table-Para-1"><a class="pagecontent" href="javascript:viewPageContent('/SLR/[2004] 1 SLR(R) 0596.xml')">[2004] 1 SLR(R) 596</a></p><p align="justify" class="Table-Para-1">Pleaded guilty; untraced</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">1 x section 417 of the 1985 PC involving $73,428.60</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">The accused downloaded the website of Power &amp; Motion Control Pte Ltd (“<b>PMC</b>”) onto his own website, EconSingapore. The victim, a managing director of an Iranian company, placed an order for Vickers Cartridge Kits through the website of PMC. Unknown to PMC and the victim, the appellant was able to access this order form. He used the particulars from the order form to correspond with the victim, falsely representing that his company, the fictitious Universal Computers, was an agent of the sole distributor of Vickers products in Singapore.</p><p align="justify" class="Table-Para-1">The accused agreed to supply Vickers Cartridge Kits to the victim for a sum of US$42,000 (equivalent to S$73,428.60).</p><p align="justify" class="Table-Para-1">The victim then transferred US$42,000 to the appellant’s Standard Chartered Foreign Currency Account <em>via</em> telegraphic transfer. The appellant did not deliver the Vickers Cartridge Kits and was charged for cheating the victim. He pleaded guilty to the charge. Full restitution was made.</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">6 months’ imprisonment (reduced from 12 months’ imprisonment on appeal)</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>Idya Nurhazlyn Binte Ahmad Khir v Public Prosecutor</em></p><p align="justify" class="Table-Para-1"><a class="pagecontent" href="javascript:viewPageContent('/SLR/[2014] 1 SLR 0756.xml')">[2014] 1 SLR 756</a></p><p align="justify" class="Table-Para-1">Pleaded guilty; untraced</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">2 x section 417 of the 2008 PC involving $1,800 and $10,509, and other charges (including charges taken into account for the purpose of sentencing)</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Idya Nurhazlyn (“<b>Idya</b>”) pleaded guilty and was convicted on two charges of cheating under section 417 of the 2008 PC and other charges. Two other charges under section 417 of the 2008 Penal Code and other charges were taken into consideration for the purpose of sentencing.</p><p align="justify" class="Table-Para-1">Sometime in January 2011, Idya told her relatives that she was able to purchase electronics from a supplier and offered to place orders for them. An aunty duly placed an order and transferred $1,800 to Idya’s bank account in accordance with her instructions. Idya never delivered the promised items.</p><p align="justify" class="Table-Para-1">In early June 2011, after investigations in respect of the events in January 2011 had commenced, Idya ordered $10,509 worth of electronic products from ITIS Pte Ltd. She issued a cheque for $10,509 in exchange for the products. The cheque was dishonoured when presented. Investigations revealed that Idya knew that the cheque would be dishonoured as it was drawn on a bank account that had insufficient funds. Full restitution was made.</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">3 months’ imprisonment for the charge involving the dishonoured cheque for $10,509</p><p align="justify" class="Table-Para-1">1 month’s imprisonment for the charge involving $1,800 (reduced from 2 months’ imprisonment on appeal)</p><p align="justify" class="Table-Para-1"></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>Public Prosecutor v Chen Chen Chang</em></p><p align="justify" class="Table-Para-1">DAC-928515-2018 and others</p><p align="justify" class="Table-Para-1">Pleaded guilty; untraced</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">6 x section 417 of the 2008 PC involving $5,000, $7,500, $8,600, $8,500, $15,000 &amp; $21,427.50, and 17 x section 417 of the 2008 PC taken into consideration for the purpose of sentencing with a total of $138,102.50 involved</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">At the material time, the accused was employed as a Manager who helmed the operations of a company in Singapore. He dishonestly paid commissions to himself from the company’s bank account on 24 occasions over a period of three years.</p><p align="justify" class="Table-Para-1">The accused would use cheques issued from the company’s account to pay commission to persons who had introduced business to the company when in fact the accused himself had helped to clinch the business deals, and he was not entitled to pay out such commission to himself. He falsely represented to the administrative clerk of the company on numerous occasions that he needed a cheque to pay the commissions to purported payees.</p><p align="justify" class="Table-Para-1">The total amount cheated was $138,102.50. Full restitution was made.</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Between 2 and 5 months’ imprisonment for each charge with three sentences ordered to run consecutively giving rise to a global sentence of 12 months’ imprisonment</p></td></tr><tr><td align="left" class="b" colspan="4" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Section 420</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>Public Prosecutor v Azmi bin Zanal</em></p><p align="justify" class="Table-Para-1">Pleaded guilty; traced for unlicensed money-lending offences</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">9 x section 420 of the 2008 PC involving sums of $140 to $520 and other charges, with 23 x section 420 of the 2008 PC taken into consideration for the purpose of sentencing with a total of $4,285 involved</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">The accused cheated over 20 victims online by representing that he had ZoukOut tickets and hotel stays for sale. He would thus induce them to transfer moneys to him. The accused made restitution of $100.</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">2 months’ imprisonment for each charge with 3 sentences to run consecutively</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>Public Prosecutor v Sangita d/o Balasubramaniam</em></p><p align="justify" class="Table-Para-1">Pleaded guilty; traced for theft</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">3 x section 420 of the 2008 PC and others, with 7 x section 420 of the 2008 PC taken into consideration for the purpose of sentencing</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">In relation to 2 x section 420 of the 2008 PC involving a rental scam, the accused had posted advertisements on websites offering rooms for rent. She did not have the authority to rent out the unit.</p><p align="justify" class="Table-Para-1">The proceeded charges involved her cheating two victims into delivering to her $800 and $1,800 respectively.</p><p align="justify" class="Table-Para-1">Full restitution of $800 was made to the first victim.</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">2 months’ imprisonment for the charge involving $800</p><p align="justify" class="Table-Para-1">3 months’ imprisonment for the charge involving $1,800.</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>Public Prosecutor v Goh Hwee Lay</em></p><p align="justify" class="Table-Para-1"><em>DAC 500304/2013 &amp; others</em></p><p align="justify" class="Table-Para-1"><em>Pleaded guilty; untraced</em></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Proceeded:</p><p align="justify" class="Table-Para-1">3 x section 420 of the 2008 PC involving $10,400, $25,000 and</p><p align="justify" class="Table-Para-1">$21,000, with other charges taken into consideration for the purpose of sentencing involving a total amount of $86,150</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">The offender deceived victims into believing that she had an investment opportunity involving Apple products (iPads or iPhones) below retail price for which there was a potential buyer willing to purchase the products at a higher price. For two of the proceeded charges, the victims were her friends from Church.</p><p align="justify" class="Table-Para-1">Restitution was minimal: $2,886.50 out of $56,400 in relation to the proceeded charges; $12,245.50 out of $86,150 with regards to all eight charges.</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">8 months’ imprisonment for the charge involving $10,400</p><p align="justify" class="Table-Para-1">12 months’ imprisonment for each of the charges involving $21,000 and $25,000</p><p align="justify" class="Table-Para-1">Global sentence of</p><p align="justify" class="Table-Para-1">20 months’ imprisonment</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>Goh Siew Buay v Public Prosecutor</em></p><p align="justify" class="Table-Para-1">MA 54/99/01</p><p align="justify" class="Table-Para-1">Claim Trial; untraced</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">3 x section 420 PC involving a total of</p><p align="justify" class="Table-Para-1">$200,000</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">The accused cheated the victim on three occasions by deceiving the victim into believing that he was running a profitable business dealing with sales of jewellery which could give a profit return of between 15-25% of the capital invested within ten days.</p><p align="justify" class="Table-Para-1">The victim was dishonestly induced to deliver $100,000, $60,000 and $40,000 to the accused. The accused in fact had no such business.</p><p align="justify" class="Table-Para-1">No restitution was made.</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">18 months’ imprisonment for the charge involving $100,000</p><p align="justify" class="Table-Para-1">12 months’ imprisonment for the charge involving $60,000</p><p align="justify" class="Table-Para-1">10 months’ imprisonment for the charge involving $40,000</p><p align="justify" class="Table-Para-1">Global sentence of</p><p align="justify" class="Table-Para-1">24 months’ imprisonment</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>Public Prosecutor v Ku Yann Peng</em></p><p align="justify" class="Table-Para-1"><a class="pagecontent" href="javascript:viewPageContent('/Judgment/49949-M.xml')">[2006] SGDC 19</a></p><p align="justify" class="Table-Para-1">MA 11/06/01</p><p align="justify" class="Table-Para-1">Pleaded guilty; untraced</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">3 x section 420 read with s.109 of the 1985 PC, with 20 x section 420 read with section 109 of the 1985 PC taken into consideration for the purpose of sentencing, involving a total amount of $174,346</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">The accused, a manager of Techkit Pte Ltd, supplied computers to the victim company. He pleaded guilty to three charges for engaging in a conspiracy with two others to submit false invoices from his company to the victim company for alleged sales of computers and provision of website design services which never took place at all and consented to 20 other similar charges being taken into consideration for the purposes of sentencing. Towards this end, the accused issued false invoices to the victim company to induce the latter to pay Techkit a total amount of $174,346, even though no computers were actually supplied by Techkit. The accused paid 90% of money to the co-conspirator working for the victim company and retained 10% which he shared with the other co-conspirator.</p><p align="justify" class="Table-Para-1">The District Judge held that the accused was involved in meticulously planned scheme to cheat the victim company.</p><p align="justify" class="Table-Para-1">Restitution of $25,000 was made to the victim.</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">12 months’ imprisonment per charge, two to run consecutively</p><p align="justify" class="Table-Para-1">Global sentence:</p><p align="justify" class="Table-Para-1">24 months’ imprisonment</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>Public Prosecutor v Toh Hock Hu</em></p><p align="justify" class="Table-Para-1"><em>Pleaded guilty; untraced</em></p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Proceeded:</p><p align="justify" class="Table-Para-1">40 x section 420 of the 2008 PC, with 336 x section 420 of the 2008 PC taken into consideration for the purpose of sentencing, involving a total amount of $389,565</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">The 68-year-old accused had used Mr Lee Kuan Yew’s name in order to cheat an elderly 80-year-old victim of about $389,565 over a period of 7 years. Essentially, the accused represented that she was recovering $30 billion in inheritance that has been withheld by the late Mr Lee. The victim was promised $2 billion if he assisted to defray the accused’s litigation expenses in a High Court civil suit.</p><p align="justify" class="Table-Para-1">As part of the ruse, the accused had also made mention of her staying with Lee Family.</p><p align="justify" class="Table-Para-1">No monies were recovered, and no restitution was made.</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">3 months’ imprisonment for each of the charges involving $2,000 to $2,999,</p><p align="justify" class="Table-Para-1">4 months’ imprisonment for each of the charges involving $3,000 to $3,999</p><p align="justify" class="Table-Para-1">5 months’ imprisonment for each of the charges involving $4,000 to $5,000.</p><p align="justify" class="Table-Para-1">Global sentence:</p><p align="justify" class="Table-Para-1">54 months’ imprisonment</p></td></tr></tbody></table>
+
+  
+  
+
+### The Defence’s submissions
+
+139    The Defence sought “the minimum” sentence or not more than one week’s imprisonment for the charge under section 417 of the 1985 PC as there was no loss to the victim since “it’s a lateral transfer” and there are “overlaps of the same facts in relation to the s420, PC charges.”
+
+140    In relation to the charges under section 420 of the 1985 PC and 2008 PC, the Defence submitted that there was no evidence that the Accused “benefited this entire sum” of at least $500 over 168 months totalling $84,000. The Defence took the position that the Accused only took about $30,000, as stated in the Accused’s 1st Statement.
+
+141    In the Defence’s Sentencing Submissions, the Defence Counsel referred to _Gan Chai Bee Anne v Public Prosecutor_[^94] (“**_Gan’s_** **Case**”) which purportedly dealt with “a near equivalent section in the Prevention of Corruption Act…. To ss 417 & 420, PC” and submitted that “if a 2 weeks jail term is imposed for a sum of S$3,600/- as well as 2 weeks for S$391.77 it follows that taken alone for the charge involving S$391.77 it should be a fine such that a reading of the \[Chief Justice’s\] judgment at \[34\] and \[35\] of the said case, for the sum of S$500/- the custodial threshold may not have been breached but be that as it may, given the no. of charges here and because there was no full restitution a short custodial sentence per charge may be warranted; …”
+
+142    The Defence Counsel further submitted that “on the concurrent-ness or consecutiveness, the rule of thumb is, only 2 of the sentences run consecutively and the rest concurrently even going by **_Shoufee’s_** case; …” The Defence Counsel continued:
+
+>     … in \[_Shouffee’s_ case\] it was articulated that if the Protected Interest is identical it follows that there will be little or no incentive to order more than 2 of the sentences to run consecutively so that overall the sentence for the s420, PC, charge should not be governed by the fact of how many of these sentences are to run consecutively and even if the Court is not with us, at the most only 3 to 5 of the sentences be ordered to run consecutively, such that it will be between 3 to 5 weeks bearing in mind the illustration to the former s 71(1), former Penal Code (1985 Edition) where administrating 100 strokes one after another actually attracted only one sentence because the interest that’s protected is the same.
+
+143    In conclusion, the Defence sought a sentence of not more than one day’s imprisonment for the charge in MAC-904775-2017 and not more than one week’s imprisonment for the remaining charges, with two sentences to run consecutively.
+
+### The court’s decision
+
+144    The _Sentencing Practice in the Subordinate Courts_ (Third edition, LexisNexis, 2013) (the “**Sentencing Practice**”) set out at 834 the sentencing considerations for the offence of cheating:
+
+>     A charge under s 417 is less serious than one under s 420. As stated in _Chua Kian Kok v PP_ \[1999\] 2 SLR 542, ‘Looking at s 415, s 417 and s 420 as a whole, and in particular the comparative gravity of sentences in s 417 and s 420, it is clear that the draftsman was endeavouring to create a more serious offence of cheating in s 420. The intention was to penalise, in particular, cheating by dishonest inducement of delivery of property more severely than the other forms of cheating encapsulated in s 415.’ In _Knight v PP_ \[1992\] 1 SLR 720, it was stated that the dishonest inducement of delivery of property is a more serious form of cheating than that defined in limb two of s 415.
+
+>     The sentencing considerations are **the amount of money involved; the nature of the criminal enterprise; the period over which the criminal enterprise was carried on; the quality and degree of trust reposed in the offender**, including the offender’s position in the employer’s organization; the impact of the offence upon the offender’s fellow employees and the public; where relevant, the impact upon the public confidence in the employer; the effect of the offence upon the public; the effect of the sentence upon the offender; the history and personal circumstances of the offender and any matters of mitigation personal to him; see _Nicholas William Leeson v PP_ (MA 391/95/01).
+
+>      **Certain classes of victims are regarded by the courts as requiring protection and the offences are thus viewed more seriously. For example, the elderly, foreign workers and students are classes of victims who are particularly vulnerable to confidence tricksters, eg those who perpetrate rental scams, and are particularly in need of the protection of the courts.** Fraudulent use of credit cards, fraudulent obtaining or use of a passport and other official documents, fraudulent obtaining of government funds and deception of financial institutions are the other categories of cases which are regarded more seriously. Those who abuse their positions of trust and authority, eg insurance agents and bank relationship managers, are also dealt with more severely.
+
+>     (Emphasis added.)
+
+145    The following is an enumeration of the sentencing factors found at 837-838 of the Sentencing Practice:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="50.28%"> <col width="49.72%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Seriousness Indicators (+)</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Seriousness Indicators (-)</b></p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">1. High value of property</p><p align="justify" class="Table-Para-1">2. Multiple victims or multiple items involved</p><p align="justify" class="Table-Para-1">3. Committed over a lengthy period</p><p align="justify" class="Table-Para-1">4. Deliberate deception rather than omission</p><p align="justify" class="Table-Para-1">5. Carefully organized operation</p><p align="justify" class="Table-Para-1">6. Syndicated</p><p align="justify" class="Table-Para-1">7. Abuse of position/trust</p><p align="justify" class="Table-Para-1">8. Vulnerable victim</p><p align="justify" class="Table-Para-1">9. Government funds</p><p align="justify" class="Table-Para-1">10. Credit card fraud</p><p align="justify" class="Table-Para-1">11. Passport or other official documents involved</p><p align="justify" class="Table-Para-1">12. Effect on victims particularly disastrous (eg victim cheated of life savings, victim is financial institution whose reputation and standing are adversely affected by the offence)</p><p align="justify" class="Table-Para-1">13. Similar antecedents</p><p align="justify" class="Table-Para-1"><em>This list is not exhaustive</em></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">1. Low value of property</p><p align="justify" class="Table-Para-1">2. No personal gain</p><p align="justify" class="Table-Para-1">3. One-off offence committed on impulse</p></td></tr></tbody></table>
+
+  
+  
+
+146    Mindful of the sentencing considerations set out in the Sentencing Practice, I turned to consider the sentencing precedents submitted by the Prosecution.
+
+147    In _Idya Nurhazlyn Binte Ahmad Khir v Public Prosecutor_,[^95] Menon CJ held at \[47\] that, for an offence under section 417 of the Penal Code, “a custodial sentence would generally be appropriate as long as the offence in question causes a victim to part with property that has more than negligible value”.
+
+148     _Public Prosecutor v Chin Hin On_ [^96] and _Rupchand Bhojwani v Public Prosecutor_[^97] provided very useful reference points of between 4 and 6 months’ imprisonment where the amount involved in offences under section 417 of the Penal Code was about $50,000 to $73,000. The offenders in both cases had pleaded guilty and had made full restitution, both of which were well-documented and important mitigating factors that were missing in the present case.
+
+149    In relation to the remaining charges other than MAC-904775-2017, I accepted the Prosecution’s submission that there was no need for the sentences in the sentencing precedents under the 1985 PC to be scaled up for charges under the 2008 PC. It was more important to carefully consider and weigh the facts of each case.
+
+150    In this respect, for the charges under section 420 of the Penal Code, I found _Public Prosecutor v Azmi bin Zanal_ (“**_Azmi bin Zanal’s_** **Case**”) to be a good reference point where the amount involved was $140-$520 _per_ charge. In _Azmi bin Zanal’s_ Case, the court had imposed a sentence of 2 months’ imprisonment _per_ charge.
+
+151    I also took guidance from _Public Prosecutor v Goh Hwee Lay_ (“**_Goh Hwee Lay’s_** **Case**”) where the court imposed a global sentence of 20 months’ imprisonment for multiple offences of cheating under section 420 of the 2008 PC involving a total amount of $86,150.
+
+152    In _Azmi bin Zanal_’ Case and _Goh Hwee Lay’s_ Case, the offenders had no or unrelated antecedents, pleaded guilty and had made partial or minimal restitution.
+
+153    Turning to the Defence’s submissions, I was not persuaded that _Gan’s_ Case was a relevant sentencing precedent for the charge under section 417 of the Penal Code as _Gan’s_ Case involved charges under section 6(c) of the Prevention of Corruption Act (Cap 241, Rev Ed 1993). Be it sentencing principles or analogy, the Defence Counsel offered no explanation as to the relevance of _Gan’s_ Case given that the offence of cheating and the offence of corruption were prescribed under different legislation and sought to protect different interests.
+
+154    However, I agreed with the Defence that there was no evidence that the Accused had benefited, in part or in full, from the Victim’s withdrawal of the CPF Monies.
+
+155    I failed to appreciate the Defence Counsel’s basis in asking for one week’s imprisonment to be imposed for each of the charges under section 420 of the Penal Code. Even though there was evidence that the Accused had pocketed only $30,000, full extent of the loss suffered by the Victim was not less than $84,000.
+
+156    I also did not agree with the Defence’s submission that _Mohamed Shouffee bin Adam v Public Prosecutor[^98]_ (“**_Shouffee’s_** **Case**”) stood for the proposition that only 2 sentences of imprisonment were to run consecutively if the multiple charges involve the same “protected interest”. I felt that this over-simplification of the _ratio_ in _Shouffee’s_ Case failed to give sufficient credit to the detailed and incisive analysis of the principles relating to concurrent and consecutive sentences in that case.
+
+157    In this respect, I found Sundaresh Menon CJ’s reference to _Shouffee’s_ Case in _Public Prosecutor v Raveen Balakrishnan[^99]_ (“**_Raveen’s_** **Case**”) to be rather instructive.
+
+158    In _Raveen’s_ Case, Menon CJ reiterated at \[52\]-\[54\] and \[65\]-\[67\] the general rule that sentences forming part of a single transaction should run concurrently and sentences for unrelated offences should run consecutively, subject to the totality principle, and that the rule may be departed from in appropriate circumstances and where there is the need to give effect to any statutory provision that abridged the operation of the general rule.
+
+159    Menon CJ further pointed out at \[20\]-\[21\]:
+
+> 20    … But as a matter of logic, the totality principle is equally capable of having a boosting effect on individual sentences where they would otherwise result in a manifestly inadequate overall sentence. This is because the totality principle requires not only that the overall sentence not be excessive but also that it not be inadequate. … _Shouffee’s_ Case itself contemplates that the principle is capable of boosting individual sentences for it is stated there that the sentencing judge may consider running more than two sentences consecutively if the accused is shown to be a persistent and habitual offender, where there are extraordinary cumulative aggravating factors or where there is a particular public interest… .
+
+> 21    The scope of the totality principle is an important reason why the distinction should be observed between the first step of looking at the appropriate sentence for the individual offences and the second step of deciding the overall sentence. … In a case like the present, where multiple offences indicate a single course of criminal conduct, it will be tempting not to observe that space, and instead to determine the individual sentence for each offence based on an overall impression of the case. …
+
+160    Turning back to the present case, I found that there were a number of aggravating factors which warranted some deviation from the sentencing precedents cited by the Prosecution, in particular:
+
+> (a)     The vulnerability of the Victim due to his age and mild intellectual disability;
+
+> (b)     The trust which the Victim had in Mdm Boo and the Accused;
+
+> (c)     The loss suffered by the Victim;
+
+> (d)     The poor financial condition of the Victim who made ends meet by taking up two jobs; and
+
+> (e)     The course of criminal conduct over 14 years.
+
+161    Nonetheless, given the advanced age of the Accused and the unique facts of the case, especially the particular vulnerability of this Victim and his friendship with Mdm Boo and the Accused, specific deterrence would arguably be a less dominant consideration than general deterrence. Likeminded individuals who prey on vulnerable Victims should expect the law to come down hard on them if they were caught.
+
+162    All things considered, I decided that the following sentences were appropriate and would meet the justice of this case:
+
+> (a)     MAC-904775-2017: six months’ imprisonment.
+
+> (b)     Remaining charges: three months’ imprisonment.
+
+163    I further ordered the sentences for MAC-904775-2017 and for seven of the remaining charges (which spanned 13 years) to run consecutively so that the global sentence would be 27 months’ imprisonment. The said seven charges were:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="37.6%"> <col width="62.4%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="center" class="Table-Para-1"><b>Charge</b></p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="center" class="Table-Para-1"><b>Date of Offence</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">DAC-918286-2017</p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">January 2000</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">DAC-918310-2017</p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">January 2002</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">DAC-918334-2017</p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">January 2004</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">DAC-918358-2017</p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">January 2006</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">DAC-918382-2017</p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">January 2008</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">DAC-918406-2017</p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">January 2010</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">DAC-918434-2017</p></td><td align="left" class="" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">May 2012</p></td></tr></tbody></table>
+
+  
+  
+
+164    Given the facts of this case, the overall criminality of the Accused and the egregious features of this case, I further considered that the global sentence of 27 months’ imprisonment would not offend the totality principle.
+
+165    Finally, I made short shrift of my deliberation on any possible compensation order as the impecuniosity of the Accused was clear from the circumstances of this case and it would not be meaningful for me to order any fiscally significant compensation order.
+
+* * *
+
+[^1]: As at 9 January 2019.
+
+[^2]: As a 9 January 2019.
+
+[^3]: Testified at the main trial and at the ancillary hearing.
+
+[^4]: NE Day 2 Pages 1-2.
+
+[^5]: NE Day 2 Page 5.
+
+[^6]: NE Day 7 Pages 99-100.
+
+[^7]: NE Day 7 Pages 101-102.
+
+[^8]: NE Day 7 Page 102.
+
+[^9]: NE Day 7 Pages 103-104.
+
+[^10]: NE Day 7 Page 104.
+
+[^11]: NE Day 7 Page 115.
+
+[^12]: NE Day 7 Page 104.
+
+[^13]: NE Day 7 Page 105.
+
+[^14]: NE Day 7 Page 114.
+
+[^15]: NE Day 7 Page 105.
+
+[^16]: NE Day 7 Page 108.
+
+[^17]: NE Day 7 Page 110.
+
+[^18]: NE Day 7 Page 112.
+
+[^19]: NE Day 2 Page 6.
+
+[^20]: NE Day 2 Pages 8-9.
+
+[^21]: NE Day 2 Pages 9-12.
+
+[^22]: NE Day 7 Page 131.
+
+[^23]: NE Day 8 Page 2.
+
+[^24]: NE Day 8 Page 2.
+
+[^25]: NE Day 8 Page 3.
+
+[^26]: NE Day 8 Page 5.
+
+[^27]: NE Day 8 Pages 6-7.
+
+[^28]: NE Day 8 Page 9.
+
+[^29]: NE Day 8 Pages 9-10.
+
+[^30]: NE Day 8 Pages 10-11.
+
+[^31]: NE Day 8 Page 11.
+
+[^32]: NE Day 8 Page 13.
+
+[^33]: NE Day 8 Page 13.
+
+[^34]: Ne Day 8 Pages 15-16.
+
+[^35]: NE Day 8 Page 18.
+
+[^36]: NE Day 8 Page 41.
+
+[^37]: NE Day 8 Page 19.
+
+[^38]: NE Day 8 Page 23.
+
+[^39]: NE Day 8 Pages 31-32.
+
+[^40]: NE Day 8 Page 24.
+
+[^41]: NE Day 8 Pages 24-25.
+
+[^42]: NE Day 8 Page 26.
+
+[^43]: NE Day 8 Page 21-22.
+
+[^44]: NE Day 8 Page 36.
+
+[^45]: NE Day 8 Page 37.
+
+[^46]: NE Day 9 Page 82.
+
+[^47]: NE Day 8 Pages 37-38.
+
+[^48]: NE Day 8 Pages 52-53.
+
+[^49]: NE Day 8 Page 53.
+
+[^50]: NE Day 8 Page 57.
+
+[^51]: NE Day 7 Page 132-133.
+
+[^52]: NE Day 7 Pages 133-142.
+
+[^53]: NE Day 6 Page 137.
+
+[^54]: NE Day 7 Page 140.
+
+[^55]: NE Day 7 Page 161.
+
+[^56]: NE Day 10 Page 22.
+
+[^57]: NE Day 10 Page 23.
+
+[^58]: NE Day 8 Pages 31-32.
+
+[^59]: <span class="citation">\[1996\] 2 SLR(R) 277</span>; <span class="citation">\[1996\] SGCA 39</span>.
+
+[^60]: NE Day 11 Page 8.
+
+[^61]: NE Day 11 Page 8.
+
+[^62]: NE Day 11 Page 8.
+
+[^63]: NE Day 11 Page 9.
+
+[^64]: NE Day 11 Page 10.
+
+[^65]: NE Day 11 Page 10-11.
+
+[^66]: NE Day 11 Page 11.
+
+[^67]: NE Day 11 Page 12.
+
+[^68]: NE Day 11 Page 12.
+
+[^69]: NE Day 12 Pages 33-34.
+
+[^70]: NE Day 4 Pages 120-121.
+
+[^71]: NE Day 5 Page 73.
+
+[^72]: NE Day 5 Pages 83-85 and Pages 85-88.
+
+[^73]: NE Day 2 Pages 48-49.
+
+[^74]: NE Day 2 Pages 50-51.
+
+[^75]: NE Day 11 Page 5.
+
+[^76]: HDB Transcript Page 3.
+
+[^77]: NE Day 3 Pages 17-18.
+
+[^78]: NE Day 3 Page 18.
+
+[^79]: NE Day 15 Pages 61-62.
+
+[^80]: NE Day 15 Page 40.
+
+[^81]: NE Day 16 Page 6.
+
+[^82]: NE Day 17 Page 7.
+
+[^83]: NE Day 17 Page 14.
+
+[^84]: NE Day 17 Pages 15-16.
+
+[^85]: NE Day 17 Page 30.
+
+[^86]: NE Day 17 Page 37.
+
+[^87]: NE Day 17 Page 34.
+
+[^88]: For instance, see NE Day 7 Pages 144-145; NE Day 9 Pages 39-40; NE Day 15 Page 32; NE Day 15 Page 22.
+
+[^89]: NE Day 15 Page 54.
+
+[^90]: NE Day 15 Pages 64-66.
+
+[^91]: NE Day 9 Page 103.
+
+[^92]: <span class="citation">\[2016\] 2 SLR 78</span>; <span class="citation">\[2016\] SGHC 6</span>.
+
+[^93]: Prosecution’s Submissions on Sentence, Bundle of Authorities, Tab 11.
+
+[^94]: \[2019\] 4 SLR 828; <span class="citation">\[2019\] SGHC 42</span>.
+
+[^95]: <span class="citation">\[2014\] 1 SLR 756</span>; <span class="citation">\[2013\] SGHC 238</span>.
+
+[^96]:  <span class="citation">\[2006\] SGDC 276</span>.
+
+[^97]: <span class="citation">\[2004\] 1 SLR(R) 596</span>.
+
+[^98]: <span class="citation">\[2014\] 2 SLR 998</span>.
+
+[^99]: <span class="citation">\[2018\] 5 SLR 799</span>; <span class="citation">\[2018\] SGHC 148</span>.
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F25355-SSP.xml)
