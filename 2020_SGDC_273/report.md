@@ -1,0 +1,598 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Pang Chan Hong  
+
+### \[2020\] SGDC 273
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">DAC 908463/2019, Magistrate's Appeal 9792/2020/01, Magistrate's Appeal 9792/2020/02</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">04 December 2020</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Carol Ling Feng Yong</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Lim Shin Hui (Attorney-General's Chambers) for the Prosecution; Diana Ngiam/Sujesh Anandan (Quahe Woo &amp; Palmer LLC) for the Accused</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Pang Chan Hong</td></tr></tbody></table>
+
+Criminal Law – Outrage of Modesty
+
+Criminal Procedure and Sentencing – Sentence
+
+\[LawNet Editorial Note: An appeal to this decision has been filed in MA 9792/2020/01-02.\]
+
+4 December 2020
+
+### District Judge Carol Ling Feng Yong:
+
+## Introduction
+
+1       The Accused was a Traditional Chinese Medicine (“TCM”) practitioner at a TCM clinic located in Serangoon North. He claimed trial to the following charge:
+
+>     You, are charged that you, on 24 July 2018, sometime between 9.00 pm and 9.45pm, at the massage room of Yida Traditional Chinese Medicine Clinic located at Block 152 Serangoon North Avenue 1 #01-334, Singapore, did use criminal force to one XXX (male / then 12 years old / date of birth: 2 October 2005), knowing it to be likely that you would thereby outrage the modesty of the said victim by such criminal force, _to wit_, by touching the penis and testicles of the said victim and kissing the said victim on the lips, and you have thereby committed an offence punishable under s 354(2) of the Penal Code (Cap 224, 2008 Rev Ed).
+
+2       At the conclusion of the trial, I found the Accused guilty and convicted him on the charge. He was sentenced to 18 months’ imprisonment.
+
+3       The Accused appealed against both his conviction and sentence. The Prosecution, being dissatisfied with the sentence imposed, has also filed an appeal. The Accused is currently on bail.
+
+## Agreed Facts
+
+4       These following facts were agreed upon between the Prosecution and the Defence pursuant to Section 267(1) of the Criminal Procedure Code (Cap 68, 2012 Rev Ed) ("CPC").
+
+5       These facts are:
+
+> (a)     The Accused is one Pang Chan Hong, a 57-year-old male Singaporean, holder of NRIC No. XXX (D.O.B. 18 September 1962). At the material time, the Accused was a Traditional Chinese Medicine practitioner at Yida Traditional Chinese Medicine Clinic located at Block 152 Serangoon North Avenue 1 #01-334, Singapore ("the Clinic").
+
+> (b)     The complainant is one XXX, a 14-year-old male Singaporean (D.O.B. 2 October 2005). In July 2018, the complainant was 12 years old. On 24 July 2018, the complainant had visited the Clinic with his mother, Noorulain Binte Sheik Mohideen.
+
+> (c)     On 25 July 2018 at 12.53 p.m., the victim lodged a police report at Serangoon North Neighbourhood Police Post.
+
+> (d)     On 31 July 2018 at 4 p.m. at Ang Mo Kio Police Divisional Headquarters, the Accused was arrested by Investigation Officer Joyce Lua Mui Chin ("IO Lua"). Lua subsequently lodged an arrest report in relation to the Accused's arrest.
+
+> (e)     IO Lua subsequently also recorded the two statements from the Accused under s 22 and s 23 of the CPC and also acted as the interpreter during the recording of these statements. The statements were given voluntarily by the Accused to IO Lua. No threat, inducement, or promise was made to the Accused before or during the recording of each of the statements.
+
+6       These documents were admitted into evidence by agreement:
+
+> (a)     This police report bearing Report No. F/20180725/2068 lodged by the Complainant - Exhibit P1;
+
+> (b)     The arrest report bearing Report No. F/20180731/2169, lodged by IO Lua – Exhibit P2;
+
+> (c)     One statement recorded under section 22 CPC by 10 Lua on 10 October 2018 at 6:10 p.m. – Exhibit P3;
+
+> (d)     One statement recorded under section 23 CPC by 10 Lua on 4 March 2019 at about 4.40 p.m. – Exhibit P4; and
+
+> (e)     A set of eight photographs of the clinic taken by IO Lua – Exhibit P5.
+
+## The Prosecution’s Evidence
+
+7       Other than the facts agreed between the Prosecution and the Defence and the evidence contained in the exhibits, the Prosecution’s evidence rested mainly in the testimonies of PW1 the Complainant, PW2 Mdm Noorulain Binte Sheik Mohideen (the Complainant’s mother, hereafter referred to as “Mdm Noorulain”) and PW3 IO Joyce Lua. The material portions of the evidence of these Prosecution witnesses were described succinctly by the Prosecution in her closing submissions[^1]. Portions of it are reproduced below.
+
+### PW1 The Complainant
+
+8       At the material time, the Complainant was 12 years old. He had visited the Clinic a few times prior to 24 July 2018. On all the previous occasions, he was either with his mother (PW2 Mdm Noorulain), or his sister. On the day in question, before heading to the Clinic, the Complainant testified that he was with his mother at home. Mdm Noorulain then told the Complainant that she wanted to go for a massage for her leg, and the Complainant decided to follow her as he was also feeling pain at his back and his hand[^2].
+
+9       The Complainant and Mdm Noorulain reached the clinic around 8.45 p.m. The Complainant wore a shirt and elastic-band shorts[^3]. He was not wearing underwear[^4]. The Complainant and Mdm Noorulain waited for the Accused to finish treating another patient before they entered the massage room and met with the Accused. Mdm Noorulain then proceeded to speak to the Accused. Thereafter, the Accused told Mdm Noorulain to lie down on one of the massage beds in the treatment room. She laid down on the bed which was closer to the door of the treatment room[^5] (“massage bed 1”).
+
+10     The Accused proceeded with the treatment for Mdm Noorulain, which involved massaging her leg and doing acupuncture for her. When the Accused commenced the acupuncture treatment for Mdm Noorulain, she was facing away from the other massage bed in the room[^6].
+
+11     After inserting the acupuncture needles into Mdm Noorulain’s leg, the Accused offered to massage the Complainant’s back and hand. The Complainant had informed Accused earlier that his middle back was painful and his right wrist was also feeling pain[^7]. The Accused told the Complainant to lie down on the other massage bed[^8] (“massage bed 2”). The Complainant laid down on massage bed with his back facing the ceiling, and the Accused then started the Complainant’s treatment.
+
+12     The Complainant testified that after the Accused had massaged his back for a few minutes, the Accused told him to sit down on the bed. Thereafter, the Accused told the Complainant to lie down, this time with his face facing the ceiling. The Accused started touching the Complainant around his stomach area and to his private part. It was at this point that the Accused touched his “_private area as in \[his\] penis and \[his\] testicles and for a few seconds”_. The Accused then told the Complainant to sit down on the bed again and the Accused kissed him on the lips[^9].
+
+13     The Complainant elaborated that in order for the Accused to reach his penis and testicles, the Accused pulled down his shorts down to the “_private area level_” and then touched for a few seconds. The Accused used his hand to “_touch \[his penis\]and somewhat grab it_” for about five to ten seconds[^10]. About two seconds later, the Accused touched the Complainant’s testicles for about five seconds and “_somewhat grab it also_”[^11]. Thereafter, the Accused pulled the Complainant’s shorts up, and told the Complainant to sit at the head of massage bed. The Accused then kissed the Complainant on the lips once or twice.[^12] After kissing the Complainant, the Accused then went back to Mdm Noorulain and removed the acupuncture needles from her leg.
+
+14     The Complainant testified that when the Accused was touching his private parts, his body “_went to shock_”. He did not know what was going on and he did not know what to do. He did not make any sound and his whole mind was “_blank_”. He was very frightened and scared.[^13] When the Accused kissed him, the Complainant testified that his body was still in shock. He was “_very frightened_” and “_very scared_”. Even though he went to his mother, he still could not say anything because he “_really was in shock_” and did not know what to say[^14].
+
+15     After the Accused had removed the needles from his mother, the Complainant added that his mother noticed how he looked and asked him if he was okay. The Complainant did not know what to say so he just said “_yes_”[^15]. The Complainant did not tell his mother what had happened while the two of them were still at the Clinic. However, after the Complainant and Mdm Noorulain left the Clinic and while they were on the way back home, the Complainant informed Mdm Noorulain that the Accused had touched him and also kissed him.[^16] The Complainant testified that his mother was “_shocked and she got very angry_”. He could not remember if she did anything after she got angry[^17]. Mdm Noorulain brought the Complainant home to sleep, and the next day she brought him to file a police report. The Complainant never went back to the Clinic after this incident[^18].
+
+### PW2 Noorulain Binte Sheik Mohideen
+
+16     Mdm Noorulain testified that on 24 July 2018, the Complainant and her were at home when she told the Complainant that she wanted to go to the Clinic because her right leg was painful. The Complainant informed her that he wished to go along as his “_back is pain again_”[^19]. Both of them then headed to the Clinic and waited for the Accused to attend to them. When it was their turn, the Complainant and Mdm Noorulain headed into the massage room to see the Accused. Mdm Noorulain testified that she then spoke to the Accused and told him about the pain in her right leg; she also mentioned that the Complainant was having back pain. The Accused told her that he wanted to perform acupuncture on her. Mdm Noorulain then laid down on massage bed 1, sideways, facing to her left and away from massage bed 2[^20]. The Accused began putting needles into her leg. Mdm Noorulain testified that after the Accused had done that, he turned to the Complainant and asked him what his problem was. Mdm Noorulain then left it to the Accused to handle her son who went to the other bed.
+
+17     Subsequently when the Accused returned to remove the needles from Mdm Noorulain’s leg and the Complainant came over as well, she noticed that the Complainant looked devastated and fearful.Mdm Noorulain was shocked to see the Complainant’s face in such a state and asked what happened to him, but the Complainant did not tell her anything[^21]. She had never seen her son’s face in that state before[^22]. Subsequently, Mdm Noorulain and the Complainant left the Clinic. As the Complainant still appeared to be in shock, Mdm Noorulain again asked the Complainant what had happened. The Complainant then asked Mdm Noorulain why “_the uncle_” had kissed him on his lips. Mdm Noorulain told the Complainant that this was a very serious matter and asked him to “_tell \[her\] properly what happened_”[^23].
+
+18     The Complainant repeated that “_the uncle_” had kissed him on his lips twice and also told Mdm Noorulain that the Accused had touched his private parts. Upon hearing this, Mdm Noorulain testified that she became very angry. She trusted this Accused whom she had known as a TCM doctor and did not expect him to hurt her son[^24]. Mdm Noorulain immediately called the Accused up on her handphone. She “_blast him off on the phone”[^25]_, used the “f-word” on him and told the Accused he should not have done that. In her testimony, Mdm Noorulain stated that that over the phone, the Accused initially denied doing so but when she responded that her son would not lie - there was no need for him to do so and that she was going to make a police report, the Accused began to apologise to her. She was very angry[^26].
+
+19     The next day, Mdm Noorulain brought the Complainant to the police station to make a police report.
+
+### PW 3 Joyce Lua Mui Chin
+
+20     PW3 Joyce Lua was the Investigating Officer (“IO”) of this case. IO Lua testified that Exhibit P3 was recorded by her on 10 October 2018, after the Accused had gone for a polygraph examination. She had been informed that the Accused had something to tell her, and she thus proceeded to invite him to give a statement.
+
+21     She testified that the Accused had no complaints in the course of the recording of the statement in Exhibit P3. At the end of the statement recording process, she read over the statement to the Accused in Mandarin and confirmed that he did not have any changes to make to the statement thereafter. Likewise, for Exhibit P4, commonly referred to as the “cautioned statement”, IO Lua testified that she prepared the charge sheet, explained the charge and the notice of warning to the Accused, before recording a statement from the Accused.
+
+### Statements of the Accused
+
+22     In the police statement (Exhibit P3), the Accused admitted to lowering the shorts of the Complainant down to massage his thighs. He stated that in the course of massaging near the groin of the Complainant, he touched Complainant’s penis. The Accused also admitted to kissing the Complainant on his lips twice but he had done so as he regarded the Complainant as his son. In the statement, the Accused stated that he knew that what he had done was wrong, even if it was done in the course of a massage and even if the Complainant had consented.
+
+23     In the statement recorded under section 23 of the CPC (Exhibit P4), the Accused stated: _“I admitted to what I had done, I had_ (sic) _the Judge can give me a lighter sentence as I will need my job to support my family. I will not do it again”._
+
+## The Accused’s Evidence
+
+24     The Accused denied touching the Complainant’s penis and testicles and kissing him on his lips. As far as the Accused was concerned, he was just treating him[^27].
+
+25     In his testimony on the stand, the Accused stated that that Complainant came to his clinic that evening in a long sleeve top and long pants. He described in detail the consultation he had with the Complainant and his mother before proceeding to describe the acupuncture treatment which he went on to administer on Mdm Noorulain. After he had attended to Mdm Noorulain, the Accused began treatment for the Complainant.
+
+26     The Accused gave an elaborate step-by-step account of how he had massaged the Complainant that day. With the Complainant in a prone position, he massaged the Complainant’s back, all the way to his hips, to his thighs and to his calf area, including pressing on the spine to the tailbone, listening for the sound and checking periodically with the Complainant if the strength used was “_okay_”. After completing the spine treatment, the Complainant was instructed to lie down facing up. The Accused went to where the Complainant’s head was and seated himself on a small stool. He testified that as he was holding the head of the Complainant, turning the Complainant’s head towards the wall and about to adjust the bone, he sensed that the Complainant was experiencing discomfort and hence, he let go both his hands in order not to cause injury to the Complainant.
+
+27     At this time, the Accused described that his own head was on the left side of the Complainant’s face, near the Complainant’s neck. As he let go of the Complainant’ head, the Complainant turned his head towards the direction of his mother and came into contact with the Accused’s face. The Accused moved his head away immediately. He told the Complainant “_to relax_” and subsequently managed to complete the treatment[^28]. The Accused continued to furnish in detail the treatment “_tuina_” which he administered on each leg of the Complainant, from the hip to the thigh, inner thigh, outer thigh, knee and calf. In the course of the treatment, the Accused testified that he would be in conversation with the Complainant, checking that he was okay. According to the Accused, Mdm Noorulain was also in conversation with the Complainant[^29].
+
+28     The entire treatment for the Complainant took about 15 minutes. After the treatment was complete, the Accused told the Complainant to get down from the bed and told him to wait whilst he removed the needles from Mdm Noorulain. The Accused went on to describe in detail what transpired between himself and Mdm Noorulain, including the dispensation of medication and payment for his services after treatment was over. The Complainant and his mother left the clinic thereafter.
+
+29     The Accused confirmed in his evidence that he subsequently received a call from an angry Mdm Noorulain. She asked the Accused if he had kissed her son, to which the Accused replied “_no_”. She also asked if he had touched her son “_below there_” and even though not fully understanding Mdm Noorulain, the Accused responded that he is “_a doctor, \[ his\] hands will have to be in contact with \[her\] son in order to do the treatment_”. According to the Accused, Mdm Noorulain did not listen to him and kept on speaking loudly. The Accused went on to describe the contents of the phone call, adding that the call ended with Mdm Noorulain informing him that she was going to make a police report[^30].
+
+30     In respect of his police statement Exhibit P3, the Accused claimed that there were many inaccuracies in the statements. Apart from inaccuracies, he further testified that he was not asked certain questions which appeared in the statement and he also did not give the answers thereto. In particular, the Accused denied kissing the Complainant or giving any details to how, where and what happened in relation to any kissing. The Accused also claimed that the IO had misunderstood what he had said to her in relation to the treatment process. The statement was never read back to him[^31]. As for the cautioned statement Exhibit P4, the Accused denied saying what was written in the statement and asserted that the handwritten words were not read back to him[^32].
+
+## The Applicable Legal Principles
+
+31     The general approach to be taken in cases involving sexual offences was laid down in _Tang Kin Seng v PP_ <span class="citation">\[1996\] 3 SLR(R) 444</span> where the former Chief Justice Yong Pung How stated at \[39\] and \[44\]:
+
+>      _“… in a trial for sexual offences, what is important is that the evidence is weighed carefully, always bearing in mind the relevant aspects of human nature and behaviour. It would be wrong to be bogged down by technicalities, especially when it has no logical bearing to the problem at hand…_
+
+>      _In my view, the right approach is to analyse the evidence for the Prosecution and for the Defence and decide whether the complainant's evidence is so reliable that a conviction based solely on it is not unsafe. If it is not, it is necessary to identify which aspect of it is not so convincing and for which supporting evidence is required or desired. In assessing the supporting evidence, the question then is whether this supporting evidence makes up for the weakness in the complainant's evidence. All these would, of course, have to be done in the light of all the circumstances of each case and all the evidence, including the defence evidence, as well as accumulated knowledge of human behaviour and common sense.”_
+
+32     In the latter case of _AOF v Public Prosecutor_ <span class="citation">\[2012\] 3 SLR 34</span> from \[111\], the Court of Appeal stated the following:
+
+>      _It is well-established that in a case where no other evidence is available, a complainant’s testimony can constitute proof beyond reasonable doubt (see s 136 of the Evidence Act (Cap 97, 1997 Rev Ed) (“EA”)) – but only when it is so “unusually convincing” as to overcome any doubts that might arise from the lack of corroboration (see generally the decision of this court in PP v Mohammed Liton Mohammed Syeed Mallik <span class="citation">\[2008\] 1 SLR(R) 601</span> at \[37\]–\[44\] (“Liton”) and the Singapore High Court decision of XP v PP <span class="citation">\[2008\] 4 SLR(R) 686</span> at \[27\]–\[36\] (“XP”))._
+
+>      _The need for “fine-tooth comb” scrutiny in so far as allegations of sexual abuse are concerned is particularly acute, “given both the ease with which allegations of sexual assault may be fabricated and the concomitant difficulty of rebutting such allegations” (see the Singapore High Court decision of Chng Yew Chin v PP <span class="citation">\[2006\] 4 SLR(R) 124</span> at \[33\], cited with approval in Liton at \[37\]–\[38\])._
+
+>      _In XP, V K Rajah JA observed (at \[31\]) that the requirement that the alleged victim’s evidence ought to be “unusually convincing”..… does nothing, however, to change the ultimate rule that the Prosecution must prove its case beyond a reasonable doubt, but it does suggest how the evidential Gordian knot may be untied if proof is to be found solely from the complainant’s testimony against the Appellant. \[emphasis added\]._
+
+>      _Apart from stating that its role is that of a cognitive aid, Rajah JA further elaborated on what “unusually convincing” entails (see XP at \[29\]–\[35\]). Rajah JA’s pronouncements can be distilled into the following propositions:_
+
+>> (_a_)     _First, subsequent repeated complaints by the complainant cannot, in and of themselves, constitute corroborative evidence so as to dispense with the requirement for “unusually convincing” testimony. As Yong Pung How CJ noted in the Singapore High Court decision of Khoo Kwoon Hain v PP <span class="citation">\[1995\] 2 SLR(R) 591</span> (“Khoo Kwoon Hain”) at \[51\]: If the complainant’s evidence is not ‘unusually convincing’, I cannot see how the fact that she repeated it several times can add much to its weight._
+
+>> (_b_)     _Secondly, the “unusually convincing” reminder should not be confined to categories of witnesses who are supposedly accomplices, young children or sexual offence complainants._
+
+>> (_c_)     _Thirdly, a conviction will only be set aside where a reasonable doubt exists and not simply because the judge did not remind himself of the “unusually convincing” standard._
+
+>> (_d_)     _Fourthly, an “unusually convincing” testimony does not overcome even materially and/or inherently contradictory evidence to prove guilt beyond a reasonable doubt. The phrase “unusually convincing” is not a term of art; it does not automatically entail a guilty verdict and surely cannot dispense with the need to consider the other evidence and the factual circumstances peculiar to each case. Nor does it dispense with having to assess the complainant’s testimony against that of the accused, where the case turns on one person’s word against the other’s._
+
+>> (_e_)     _Fifthly, even where there is corroboration, there may still not be enough evidence to convict._
+
+>      _Moving from the level of scrutiny to the elements of what an unusually convincing testimony consists of, it is clear that a witness’s testimony may only be found to be “unusually convincing” by weighing the demeanour of the witness alongside both the internal and external consistencies found in the witness’ testimony._
+
+33     I was mindful of the principles enunciated. Lest it became a concept too daunting, the court in the case of _Teo Keng Pong v PP_ <span class="citation">\[1996\] SGHC 183</span> at \[73\] was quick to remind:
+
+>      _“I would add that there is nothing magical about the words “unusually convincing”. They are but another way of saying that the witness’s testimony was so convincing that the Prosecution’s case was proven beyond reasonable doubt, solely on the basis of that evidence”._
+
+34     Reiterated in the case of _Public Prosecutor v GCK_ \[2020\] SGHA 2, the Court of Appeal stated at \[90\]:
+
+>      _Put simply, the “unusually convincing” standard entails that the witness’s testimony alone is sufficient to prove the Prosecution’s case beyond a reasonable doubt: see Teo Keng Pong v Public Prosecutor <span class="citation">\[1996\] 2 SLR(R) 890</span> at \[73\]._
+
+## Inconsistencies in the Complainant’s evidence
+
+35     The Defence submitted that the Complainant gave different accounts of the treatment which he had received from the Accused that day. The Defence highlighted the following:
+
+> (a)     The Complainant’s initial account was that the Complainant was massaged on his back and then his wrist, before the Accused asked the Complainant to lie down on his back. According to the Complainant, the Accused then touched the Complainant’s stomach area, to his private area (i.e. his penis and testicles)[^33]. However, subsequently in cross-examination, when asked if the Accused had massaged his stomach or touched his stomach as he said, the Complainant stated “_I don’t know; I don’t remember_”[^34].When asked to describe the touching of his stomach area, the Complainant said he could not remember.
+
+> (b)     In Examination-in-chief, the Complainant initially described that treatment was only to his back and right wrist but when cross-examined, the Complainant accepted that there was cracking of his neck and massaging of his right leg.
+
+> (c)     The Complainant initially stated that the touching of his penis was after the massaging of his right leg[^35] but after a few questions, the Complainant appeared to be unsure if the touching of his private part happened before or after the massage on the right thigh[^36].
+
+> (d)     In respect of when the kissing had taken place, the Complainant’s initial evidence was that it happened immediately after the touching of his private parts. However, when asked whether the Accused had attended to his mother after touching his private parts but before the kissing, the Complainant replied “_not that I can remember_"[^37] but later stated that it did happen in that manner[^38].
+
+36     The Defence also highlighted that the Complainant’s testimony in court differed materially from his statement to the police (Exhibit D2) – a document which was furnished to the Defence by the Prosecution and admitted as evidence in the course of the trial. This was a statement of the Complainant recorded on 25 July 2018.
+
+37     In the Complainant’s police statement Exhibit D2, the Complainant stated that after about five minutes of massaging his back, the Accused told him to lie facing up. After the Complainant did so, the Accused kissed him on the lips. In the statement, the Complainant described that the Accused then went over to his mother. After checking on her, the Accused came back to the Complainant. He then pulled up his (the Complainant’s) shorts, put his right hand into the shorts and then touched and fondled with the Complainant’s private parts. Defence submitted that the Complainant’s explanations for differences in his court testimony and the police statement were “_convenient excuses_” and that he was a “_plainly unreliable witness_”[^39] on which a conviction can be based on.
+
+38     The Defence stressed that the unreliability of the Complainant’s evidence was further shown when seen in light of the Statement of Facts (“SOF” - Exhibit D3) and charge (as contained in Exhibit P4) which were drafted based on the Complainant’s version to the IO. The Defence contended the following[^40]:-
+
+> (a)     There was no mention of touching or fondling of the Complainant’s testicles in the SOF;
+
+> (b)     The account which the Complainant gave in court that the Accused had grabbed his penis and testicles was also absent;
+
+> (c)     The SOF differed from the Complainant’s version in court in respect of when the Accused kissed the Complainant.
+
+## Why the Court accepted the Complainant’s evidence
+
+39     The Prosecution’s case rested mainly on the Complainant’s testimony. From the outset, I recognized that the Complainant’s testimony had its weaknesses. As highlighted by the Defence, I noted some inconsistencies in the Complainant’s evidence in respect of the nature and sequence of treatment he received that day in question. As for the offending acts themselves, I was not oblivious to the differences between the Complainant’s court testimony and his police statement. For ease of reference, I have set out the main differences in the table below:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="51.16%"> <col width="48.84%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Testimony in Court</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Police Statement</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Pulled down shorts</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Pulled up shorts and put his hands into his shorts</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Touched penis and testicles</p><p align="justify" class="Table-Para-1">“somewhat grabbed”; kissed 1-2 times</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Touched/fondled penis and balls with his hand</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Touching of private parts and then kissing</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Kissing, and then touching of his private parts</p></td></tr></tbody></table>
+
+  
+  
+
+40     Notwithstanding the above, I accepted the Complainant’s evidence.
+
+### Complainant was a credible witness
+
+41     Despite the inconsistencies in the Complainant’s evidence highlighted by the Defence, upon observing the Complainant on the stand and assessing his evidence, I found the Complainant to be a credible witness. His answers to inquiring questions posed to him during cross-examination were forthright and candid. They were not calculated. I did not find the Complainant to be evasive; he answered questions as directly as he could. Even to suggestions that appeared adverse to his testimony which were put to him by the Defence, the Complainant did not shy from agreeing with those suggestions when he appeared unsure.
+
+#### Inconsistencies between his court testimony and police statement
+
+42     The Complainant acknowledged that there were parts of his police statement which differed from his oral testimony in court. In respect of the inconsistencies between his oral testimony and his police statement which the Complainant was confronted with during cross-examination, the Complainant candidly acknowledged the differences. He agreed that he could have been “_confused_”, that he had “_said something wrong_” [^41] and “_pretty messed up_”[^42] when he gave the police statement. The Complainant stated that since the day it happened, “_\[his mind\] has been confused and very blank_”. He was “_completely in shocked (sic) and frightened_”[^43].
+
+43 However, the Complainant testified that he had become “_less confused of what actually happened_”[^44]. He did not agree with the Defence that his memory would have been clearest on 25 July 2019 as compared to the present. The Complainant explained: _“… even though it happened_ 1 _years ago…I would still manage to remember what happened--- slightly remember what happened but comparing to the next day of---after it happened, my mind would be clearly frightened and I will---I would forget everything happened because I will just want…I would just want him to get justice and I must have said something wrong, I must have said the way of everything wrong_”[^45].
+
+44     Lack of eloquence aside, I did not find the Complainant’s explanations for differences between his court testimony and his police statement to be contrived. He was not scrambling to attempt to reconcile the discrepancies. When confronted, it seemed that the Complainant was also searching within himself as to why he had given the account to the police the way he had given when it was now clear to him that the Accused had touched his penis, testicles before the kissing took place[^46]. In his answers, the Complainant sought to explain why he may have given a different account to the police.
+
+45     In assessing his evidence and the explanations given, I bore in mind that the Complainant was only 12 years old at the time of the offence, and 14 years old at the time he testified in court. This is not raised as a way to excuse what may appear to be deficiencies in the Complainant’s testimony. Rather, it is a reminder that the evidence given and explanations offered were expressions of the mind of a young boy and should not be benchmarked against any standard. The Complainant may not be the most adept in expressing how he felt at the material time and what was going through his mind from the time he gave his statements to the police until the trial but I did not find him to be evasive in his answers.
+
+46     Despite some differences in his account between his court testimony and his police statement, what was also important was that core aspects of the evidence emanating from the Complainant remained steadfast from the time of the offence until the trial. This is an area which I will deal with in greater detail subsequently.
+
+#### Inconsistencies in the nature and sequence of treatment received
+
+47     In respect of inconsistencies in the nature and sequence of treatment he received in the massage room, it was clear that when the Complainant was relating the incident in court during the evidence-in-chief, he was describing what happened to him in the massage room in broad strokes. He remembered the key events of the incident and described them as he remembered them. In cross-examination, the Defence began taking the Complainant through the details – almost in a step-by-step fashion as to what happened each part of the way, what the Accused did with him and did with his mother in the treatment room, what the Accused told him to do, et cetera. The Defence submitted that the “_devil is in the detail_”[^47]. Whilst that may be true, and even expected, in certain situations, I was of the view that this was not the standard to be expected of the Complainant in this instance.
+
+48     The Complainant was giving evidence of what happened to him almost one and a half years back. The offending acts had also taken place in the context of a TCM treatment at the Clinic which the Complainant did not routinely go for. This was not a regular activity that the Complainant was used to such that he should be expected to remember exactly what the Accused did during the TCM treatment that day. The Complainant simply followed the instructions of the Accused in the treatment room; he did as he was told – sit up, lie down et cetera. What the Complainant did remember clearly were the significant events which happened in the treatment room i.e. the Accused touching his private parts and kissing him on his kips.
+
+49     The fact that the Complainant remembers mainly the significant events in which he was directly affected, can also be seen in how he was not even able to remember that his mother had called up the Accused immediately after he had informed his mother about what the Accused had done to him in the treatment room[^48]. The fact that such a call was made to the Accused at that time was undisputed. This would be an event one might ordinarily expect a witness in the Complainant’s position to remember but he did not recall this at all. In this connection, if the Complainant had fabricated an account of what the Accused did to him in the treatment room, then he would have taken pains to recount in his testimony the call made by his mother to the Accused immediately after he had reported it to her. However, the Complainant did not remember this and made no mention of this call in his testimony.
+
+#### Other inconsistencies
+
+50     Certain inconsistencies in the Complainant’s testimony also related to peripheral matters. In their closing submissions, the Defence highlighted these inconsistencies in the Complainant’s evidence[^49]:
+
+> (a)     Initially during cross-examination, the Complainant said that he could not remember if he had worn an underwear at the time of the incident. Upon further cross-examination, the Complainant stated that he was not wearing an underwear;
+
+> (b)     The victim had stated that he had gone to see the Accused for pain in his middle back and right wrist. However, in the white medical card Exhibit D1, the notes on the medical card reflected the symptoms to be “_lower back (or back of waist), both legs and neck_”. There was no objective record of the Complainant’s right wrist pain. Defence submitted that the ailments the Complainant had gone to the Clinic for and the consequent treatment he claimed to have received affected his credibility as to how the inappropriate acts occurred[^50].
+
+51     In respect of these two aspects of the Complainant’s evidence, I was not particularly troubled by them. First, it is not unusual for a person to not be able to remember some things but only to have the memory jolted subsequently. It was not a case whereby the Complainant had initially insisted he was not wearing an underwear and later changed his evidence. When he was asked to explain why he “_suddenly remembered_”, the Complainant testified that he “_was thinking about it_” and was now sure that he was not wearing any underwear[^51].
+
+52     In respect of the ailments for which he had consulted the Accused for, it bears noting that from the start of his examination-in-chief, the Complainant had testified that he felt pain on his back and hand, which was why he decided to follow Mdm Noorulain to the Clinic. It was also PW2 Mdm Noorulain’s evidence that she had only informed the Accused about the Complainant’s pain in the back, not the leg[^52]. Further, at the Clinic, it was Mdm Noorulain who was the one relating his ailments to the Accused; the Complainant himself did not do so. This was not a conversation the Complainant was directly involved in, which again, may account for him not being able to remember details relating to the consultation between his mother and the Accused. He mainly remembered his mother telling the Accused that he was “_having pain_"[^53].
+
+53     Further, even though the Complainant remembered seeing the Accused write something down on a white medical card as he (the Accused) was listening to Mdm Noorulain, he would not likely have known what the Accused was writing since the writing on Exhibit D1 was in Chinese characters; neither would Mdm Noorulain. She remembered portions of her consultation with the Accused where she mentioned that the Complainant lacked nutrition and could not grow tall; there was discussion about the Complainant’s height and weight. If these were recorded by the Accused, neither the Complainant nor Mdm Noorulain would know how the Accused would capture these complaints on the medical card and how it would be reflected on the medical card. They would not know the purpose for and/or intent of what the Accused was writing in the medical card. There was also no way either of them could have verified the accuracy of record of what was related to the Accused during the consultation. The Accused also did not explain what he was writing on the said medical card to the victim or Mdm Noorulain at any point. In my view, there was little or no value in challenging the evidence of the Complainant and Mdm Noorulain based on entries in the white medical card.
+
+54     As Prosecution submitted, it bears noting that the Accused had no coherent explanation for what he would write down on the card and what he would not, thus calling into question the reliability and accuracy of the said medical card, for example, while the accused claimed that he had asked the victim about his bowel movements on all three occasions the Complainant visited him, it was only on the day of the incident which the Accused chose to make a record of this[^54]. No explanation was given for this selective recording. In essence, Exhibit D1 was a document whose contents and interpretation thereof may be argued to be within the sole knowledge of the Accused. This was “_information for doctor_”[^55]. I placed little weight on the entries in Exhibit D1 and did not consider it as affecting the credibility of the Complainant.
+
+### The core of the Complainant’s evidence was unshaken
+
+55     What stood out for me in respect of the Complainant’s evidence was that the core of his evidence relating to the fact that his private parts were intruded upon by the Accused and that the Accused had kissed him, remained constant throughout. Be it his complaint to his mother shortly after the visit to the Accused’s clinic, the police statement or his testimony in court, the Complainant steadfastly maintained that the Accused had touched his penis and testicles and kissed him on the lips. These facts spoken of by the Complainant did not change with time or setting.
+
+56     Whilst the Complainant may have been confused about the sequence and even the nature of the touch at the time of the giving of his police statement, he was never confused that he was touched inappropriately and kissed by the Accused on the day in question. There was never a doubt expressed by the Complainant in his police statement or testimony in court, in his evidence-in chief or in cross-examination, that the Accused had committed the offending acts on him. Even though the Complainant was unclear about certain details surrounding the acts, he was certain that he had not misunderstood the situation; he was certain that any contact was not accidental.
+
+57     Prosecution submitted that a conviction can still be sustained even where such discrepancies only cast doubt on the penumbra and not the core of the relevant witnesses. They highlighted the case of _Micheal Anak Garing v Public Prosecutor and another_ \[2017\] SGCA where a Prosecution witness, HAL, was found to have inconsistencies between his oral testimony and investigative statements pertaining to specific areas, for example, the deceased being hit by a brick, what the deceased was doing prior to the attack. The Court of Appeal held that notwithstanding the discrepancies, HAL remained consistent on the core issue of _who_ had used the _parang_ to inflict the fatal injuries – the doubts were only casted on the _penumbra_ of the evidence[^56].
+
+58     In this case, I agreed with the Prosecution that when the testimony of the Complainant is considered holistically, the main inconsistencies highlighted by the Defence did not detract from the core of the Complainant’s evidence:-
+
+> (a)     The inconsistency pertained to the sequence of events, and not whether or not the offending acts occurred – the core of the Complainant’s testimony, i.e. that the Accused had touched his penis and testicles and kissed him on the lips, was as mentioned, consistent throughout his testimony.
+
+> (b)     The inconsistency related to the manner in which the Complainant had described how the Accused pulled his shorts – it was not a dispute over whether or not the Accused had touched his private parts which were under his shorts[^57].
+
+### The Complainant’s evidence was corroborated
+
+59     Importantly, I found the core of the Complainant’s testimony to be corroborated by other evidence adduced in the Prosecution’s case.
+
+#### Mdm Noorulain’s evidence
+
+60     Mdm Noorulain’s account of the events at the TCM Clinic corroborated the Complainant’s version of events.
+
+61     As pointed out by the Prosecution[^58], Mdm Noorulain testified that she had gone to the Clinic with the Complainant on 24 July 2018. She confirmed that she was the one who related the Complainant and her ailments to the Accused. Mdm Noorulain testified that acupuncture was administered on her right leg before the Complainant’s treatment started. She was lying on massage bed 1, with her left side in contact with the bed[^59].
+
+62     The Complainant similarly testified that when the Accused was doing acupuncture on his mother, his mother was facing her left side. In reference to Exhibit P5-4, the mother was facing the left side of the photograph. He stated clearly that she was not facing the air-conditioning unit as can be seen in Exhibit P5-7[^60]. This was confirmed by Mdm Noorulain. Even though she was in the same treatment room as the Complainant, Mdm Noorulain explained that she was lying down sideways on her left side during the acupuncture treatment. She was in pain during the time that the acupuncture needles were in the side of the leg. During this time, she was not able to see the Complainant who was on the other massage bed. There was more than ample opportunity for the Accused to commit the offending acts on the Complainant.
+
+#### The “devastated” look on the Complainant’s face
+
+63     The Complainant was clearly distressed by what had happened to him during treatment and he showed it. His “_devastated_” look and a face which she had never seen before[^61] was not something which was missed by Mdm Noorulain after the treatment was over. Upon seeing her son in that state, Mdm Noorulain did ask the Complainant what had happened but the Complainant did not say anything during the time when they were still at the Clinic[^62]. He just kept quiet.
+
+64     Defence submitted that Mdm Noorulain had embellished her account since it belies logic how Mdm Noorulain would still have the frame of mind to negotiate the price of the treatment and medicine with the Accused[^63]. I did not agree with the Defence. The fact that Mdm Noorulain chose to proceed to discuss the cost of consultation with the Accused did not detract from the fact of what she had observed. Given that she was in consultation with the Accused, her TCM doctor after the treatment, it would not have been an appropriate for her to have a personal conversation with the Complainant at that point in time. Mdm Noorulain also explained that she simply thought that he was in pain but did not imagine something worse might have happened to him[^64].
+
+#### The prompt complaint made to Mdm Noorulain
+
+65     This was the first reasonable opportunity the Complainant had to inform a third party of what had taken place in the consultation room and he did so. There was no undue delay in his complaint. The Complainant had mentioned nothing of what had happened to him to his mother when he was still at the TCM clinic, in the presence of the Accused. In subsequently relating to his mother what happened, the Complainant did not give much details but importantly, mentioned that he had been kissed and his private parts had been touched, even if there was a slight discrepancy in respect of how the private parts were described. Again, the Complainant was consistent in this aspect of his evidence.
+
+#### The reaction of Mdm Noorulain
+
+66     Mdm Noorulain made a call to the Accused immediately upon hearing from the Complainant about what happened in the examination room. Her response to the information from the Complainant was swift and decisive. The fact that such a call was made to the Accused by the Complainant’s mother was not disputed, even though some of the contents of the telephone conversation were. The Complainant’s mother testified that in the course of the call, the Accused kept on apologizing to her.
+
+#### The making of the police report
+
+67     The police report was also made promptly the very next day, on 25 July 2018. This report was made at the first reasonable opportunity after Mdm Noorulain had taken urgent leave and called up the Complainant’s school to inform them that the Complainant would not be going to school that day[^65].
+
+68     Corroboration which consisted only of a subsequent complaint by the complainant provided that the statement implicated the offender and was made at the first reasonable opportunity after the commission of the offence, has been regarded as sufficient corroboration[^66].
+
+#### The Accused’s police statements
+
+69     Putting aside the alleged inaccuracies and additions to the Accused’s police statement in Exhibit P3 (the statement will be dealt with in greater detail subsequently), it was undisputed that the Accused’s statement was voluntarily given. The Accused’s statement contained clear admissions that he had touched the Complainant’s penis and testicles and kissed the Complainant on his lips.
+
+#### The spontaneity of events authenticated the Complainant’s account
+
+70     Defence submitted that there is “_an inherent danger in deciding that a complainant is telling the truth because the complainant repeats the allegation to a third party_”[^67]. I agree with that submission. A complainant cannot be regarded as telling the truth simply because he had repeated it several times to different people. The strength of a complainant’s evidence is also not to be determined based on the number of times he has repeated the allegations.
+
+71     I should make it clear that in this case, it was not the fact of the Complainant having repeated his allegations to his mother and to the police which strengthened his evidence. It was the spontaneity of the series of events which followed the commission of the offending acts described by the Complainant, which authenticated the Complainant’s account.
+
+72     From what happened to the Complainant in the consultation room, subsequently related to Mdm Noorulain after both the Complainant and her left the Accused’s clinic and were on the way home, to how Mdm Noorulain immediately called up the Accused to confront him, leading to the eventual lodgment of a police report the very next day, were events which naturally followed one after the other. The spontaneity and swiftness in which the events took place dispelled any reasonable suggestion that the events were contrived.
+
+73     In the case of _Tang Kin Seng v PP_, which concerned an act of molest which took place in a lift against an Indonesian maid, the Court held that the complainant’s distress and her almost-immediate complaint to her employer indicated that what she said was true. The court bore in mind that only about 30 minutes had elapsed from the alleged incident in the lift to when the Complainant next related the incident to her employer. The Court went on to hold that concoction was very improbable and remote given the circumstances; that the victim fabricated the events in order not to embarrass her employer was also not likely given the very short period of time between the incident and the complaint[^68].
+
+74     Similarly in this case, given the spontaneity of the events which occurred on the day in question, it would be plainly untenable to suggest that the Complainant could have fabricated the sexual allegations against the Accused upon stepping out of the clinic and could even foresee the trajectory such a false complaint would take in order for it to be taken seriously. I agree with the Prosecution that it was far-fetched to accept that the Complainant, who was only 12 years old at the material time, would think up such a plan to falsely implicate the Accused; in the words of the Prosecution, to hatch a “_nefarious plan to implicate the Accused for a serious sexual offence when there was no dispute between them_”[^69].
+
+#### No motive to falsely implicate the Accused
+
+75     An analysis of facts, surrounding circumstances and the evidence of the Complainant show that there is no possibility that the Complainant was fabricating evidence against the Accused for any hidden reason. As the Prosecution put it, the Accused had failed to adduce any evidence to suggest a motive for the Complainant to make the false allegation such that it would raise a reasonable doubt on the truthfulness on the Complainant’s evidence[^70].
+
+76     The evidence before me was that the Complainant and his mother had consulted the Accused at his clinic several times prior to 24 July 2018. The Complainant had been treated by the Accused before with no complaints of his behaviour. Both Mdm Noorulain and the Complainant were repeat patients of the Accused. However, the medical card of the clinic (Exhibit D1) showed that 24 July 2018 – the day on which the complainant was molested by the Accused, was tellingly, the last date he attended at the clinic. There were no other visits to the Accused’s clinic after the incident. I agreed with the Prosecution that there was no reason for the Complainant to feign distress and for both mother and son to stage a series of events to incriminate the Accused[^71].
+
+### Contents of Exhibits P4 and D3 did not affect the strength of the Complainant’s evidence
+
+77     Apart from the inconsistencies dealt with in the foregoing paragraphs, the Defence sought to cast doubt on the Complainant’s evidence by comparing it to two documents prepared by IO Lua, namely, the charge contained in the cautioned statement (Exhibit P4) and the Statement of Facts (Exhibit D3) which IO Lua drafted in preparation for charging the Accused in court.
+
+78     In dealing with these differences between the Complainant’s evidence and these exhibits, the learned Deputy Public Prosecutor reminded the Court that the two documents were prepared and drafted by IO Lua and should be viewed through these lens. I agreed. The Complainant was not responsible for how the charge and the SOF came to be in the form they were in.
+
+79     Despite the fact that IO Lua alone was responsible for drafting the charge contained in Exhibit D4, she was not specifically asked why she had prepared the charge contained in Exhibit D4 the way she did nor was she given a chance to explain how the specific charge, with the choice of words, in Exhibit D4 came to be. As for the draft SOF, the IO explained that what appeared in the SOF was different from the Complainant’s statement and apologised for typographical errors and for leaving certain facts out[^72]. Fundamentally, these documents were drafted by the IO, not the Complainant and must be viewed in that perspective.
+
+80     As pointed out by the Prosecution, while the Defence has alleged that these two documents show that the Complainant did not mention the touching of his testicles until his testimony in court, a perusal of the victim’s initial statement (Exhibit D2) showed that the victim did mention the touching of his testicles from the outset. At paragraph 5 of Exhibit D2, it was recorded: “_After few seconds of fondling my pens (sic) and balls…”._ In the context of the statement, there can be no other interpretation of the word “_balls_”. In fact, IO Lua herself clarified in re-examination that her investigations did reveal that the Complainant’s testicles had been touched, in addition to his penis[^73]. The lack of mention of “_testicles_” in the charge in Exhibit P4 as well as the SOF appeared to be the sole doing of the IO; she was not asked to explain why she had drafted the charge and the SOF the way she did.
+
+81     In considering the use of a witness’ previous statement in court, the observation in _Muthusamy v PP_ <span class="citation">\[1948\] MLJ 57</span> was that the “_both the statement and the evidence are usually narratives reduced from question and answer. The witness is not responsible for the actual expression used in either, and all the less so where he does not speak English_”. In this case where it concerns a charge contained in the cautioned statement (Exhibit P4) and an SOF (Exhibit D2), it is without doubt that these documents were prepared by IO Lua in the course of or at the end of investigations in preparation for charging the accused in court. I agree with the Prosecution that the content in the exhibits did not cast doubt on the weight of the victim’s first-hand testimony, especially since the victim himself was called to give evidence in the course of trial[^74].
+
+## Rejection of the Accused’s evidence
+
+### Accused’s testimony was contradicted by his own statements
+
+82     In contrast, the Accused’s denial in court of him touching the Complainant’s penis and testicles and how there may be a misunderstanding when his face came into contact with the Complainant’s face during the neck treatment was unsupported by his own police statements (Exhibit P3)
+
+83     As submitted by the Prosecution[^75], when the Accused came on to the stand, he unequivocally testified that he had not touched the Complainant’s penis and/or testicles, and that he had not kissed the Complainant on his lips. However, this stood in stark contradiction to his own police statements (Exhibit P3) wherein he had admitted touching the Complainant’s penis and also admitted kissing the Complainant on his lips. The Accused admitted that he was the one who wanted to give the statement and it was given voluntarily but asserted that the contents were inaccurately recorded by the IO.
+
+84     PW3 IO Lua was cross-examined extensively on the recording of the Accused’s statement. The Defence challenged the IO’s choice of words employed in the statement (since the Accused had chosen to speak in Mandarin) and highlighted various typographical errors in the statement, suggesting that the Accused’s statement was inaccurately recorded and/or was not read over to the Accused before he signed it. When the Accused was on the stand, he denied that he was asked certain questions by the IO and also denied giving many answers as seen recorded in the statement[^76]. The natural inference to be drawn from the Accused’s claims in respect of the statement must be that the IO had made up most of the statement and hence, falsely implicated him in the offence.
+
+85     I did not accept the Accused’s position viz-a-viz his police statement (Exhibit P3) The statement of the Accused was a mixed statement i.e. it contained exculpatory portions. Apart from admissions, the Accused had offered reasons why he had touched the Complainant inappropriately and kissed him on his lips. If the IO wanted to implicate the Accused in the offence, one will reasonably expect the IO to ensure that the contents in the Accused’s statement were entirely consistent with the Complainant’s statement; there would have been no need for her to include exculpatory material in the statement, such as explanations which went towards justifying the acts committed on the Complainant. There would also not be a need for such a long and detailed statement. Further, there was no conceivable reason why the IO would need to make up the statement against the Accused. It bears noting that it was the Accused himself who had come forward to give the statement; it was unsolicited by the IO.
+
+86     Even if I was prepared to accept that PW3 IO Lua was an over-enthusiastic, over-zealous and maybe even careless IO, looking at the way the statement turned out, I was not able to accept the position that the IO must have made up large portions of content in the police statement. The numerous typographical errors and bad grammar in the statement did not mean that the contents in the statement could not have come from the Accused. Similarly, even if the IO had failed to translate the contents of the statement back to the Accused before he signed it, that did not mean that the contents of the statement did not come from the Accused. Considering the substance of the statement, I accepted IO Lua’s evidence that the contents came from the Accused person himself.
+
+87     The contents of the statement were coherent and logical. A perusal of the statement revealed a good reason why the Accused had come forward to give a further statement, with him offering details of what had happened in the treatment room and what was going through his mind at the time when he committed the offending acts on the Complainant. The description of events were coupled with clear admissions of guilt and expressions of contrition in the statement, padded with explanations as why the Accused did what he did. There was a great amount of content in the statement which cannot be attributable to the IO and could only have come from the Accused.
+
+88     The same admissions of guilt and expression of contrition were maintained by the Accused in his cautioned statement (Exhibit P4), recorded about five months later. There was no denial of the incident or any expression of innocence recorded. The Accused testified that he had been given a copy of his cautioned statement (Exhibit P4) on 4 March 2018 and he knew that the statement constituted a very important document[^77]. However, there was no evidence that the Accused did anything to attempt to correct the handwritten words which he claimed he did not say to the IO but which appeared in his cautioned statement. When cross-examined, the Accused claimed that he had gone to look for the IO to raise his concerns but he could not find her. Notably, this was never put to the IO when she was on the stand.
+
+89     I accepted the evidence of IO Lua and I was satisfied that the contents in the Accused’s statement (Exhibit P3) and his cautioned statement (Exhibit P4) emanated from the Accused. They sufficiently corroborated the Complainant’s evidence in respect of the events which happened in the treatment room.
+
+### Accused was not a credible witness
+
+90     Upon assessing the Accused’s evidence and the giving of his evidence, I did not find him to be a credible witness. In the course of his evidence-in-chief, I observed the Accused to be over-eager as a witness, excessive in his testimony, offering evidence which were not asked of him. In describing the events which happened in the treatment room, the Accused was extremely elaborate, right down to giving minute details, such as how he did not ask Mdm Noorulain to roll up her long black points, the exact positions as to where he had placed the needles on her knee, how he went about massaging the Complainant and doing the “_tuina_” for him. The Accused gave a step-by-step account of what took place in the treatment room that day, even to the point of relating the pieces of conversation he had with the Complainant at various points of the treatment he was administering[^78]. In his account, the Accused denied molesting the Complainant.
+
+91     Listening to the Accused giving his testimony felt as if he was recounting the events which happened in the treatment room from a prepared script. There was a certain veneer of earnestness which smacked of calculation in the Accused’s testimony; it appeared contrived. It was incredible how the Accused was able to remember and describe the consultation and treatment of Mdm Noorulain and the Complainant on 24 June 2018 in such great detail, if in fact nothing significant had taken place that day.
+
+92     I also agree with the Prosecution that the Accused was needlessly evasive to straightforward questions in the course of cross-examination, examples highlighted by the Prosecution[^79]. The Accused also appeared keen to simply tell his version of the events or repeat portions of his evidence-in-chief even when it was irrelevant to the questions asked of him[^80]. I did not find the Accused to be a candid and forthright in his answers.
+
+93     In reference to his police statement (Exhibit P3) and cautioned statement in Exhibit P4, it was convenient for the Accused to simply assert that the incriminating portions of the statement and the handwritten words in the cautioned statement did not come from him and to claim that the statements were not read back to him. Both the statements carried the Accused’s signature and it was IO Lua’s evidence that she had duly read over and interpreted the statement to him before he signed it.
+
+## Prosecution’s case proved beyond a reasonable doubt
+
+94     Having scrutinised the totality of the Complainant’s evidence, I was satisfied as to the truth and reliability of the Complainant’s account in respect of the Accused touching his penis and testicles, and kissing him on his lips. Where the core of the Complainant’s evidence was concerned, the Complainant was unusually convincing and I found him to be internally and externally consistent. In any case, there was adequate supporting evidence to make up for any weaknesses in the Complainant’s evidence. Having examined his evidence against the overall backdrop of available facts and circumstances, I was of the view that there was a “_ring of truth_” which left me satisfied that no reasonable doubt existed in favour of the Accused[^81].
+
+95     On the totality of the evidence, I found that the Accused did touch the Complainant’s penis and testicles and also kissed him on the lips in the course of treating the Complainant that day. I rejected the Accused’s contention in court that he had not molested the Complainant. In his statement where he clearly admitted to touching the Complainant’s private parts and kissing him on his lips, I did not accept the explanation that was offered in the statement. The Accused was a TCM doctor and the Complainant was a young patient who had come to him for treatment. The Accused had no basis for touching him inappropriately at his private parts and for kissing him on his lips. Other than the Accused’s own assertion, there was also no evidence to suggest that any such touching or kissing of the Complainant was accidental in nature. By touching the Complainant’s penis and testicles and kissing him on his lips, I find that the Accused did know that he was likely outrage the modesty of the Complainant.
+
+96     I was satisfied that the Prosecution had established the case against the Accused on the charge beyond a reasonable doubt. I thus found the Accused guilty and convicted him accordingly.
+
+## Antecedents
+
+97     The Accused was untraced.
+
+## Prosecution’s address on sentence
+
+98     Prosecution urged the Court to impose at least 2 years imprisonment and 6 weeks’ imprisonment in lieu of 3 strokes of the cane. Using the framework set out in _GBR v Public Prosecutor_ <span class="citation">\[2018\] 3 SLR 1048</span> (“_GBR_”), the Prosecution submitted that the present case fell within the middle to upper range of Band 2 of the framework. There was non-fleeting skin-to-skin contact with the Complainant’s private parts. The Prosecution highlighted that there was an abuse of the position of trust in this case - the Accused was a TCM practitioner and the Complainant had consulted the Accused in that capacity on the day in question. There was also a degree of premeditation in that the Accused capitalised on the fact that the Complainant’s mother was facing away from the Complainant would not be able to see the acts of the Accused. Bearing in mind that the Complainant was 12 years old at the time of the offence, the Prosecution submitted that the younger the victim, the more serious the offence should be. The Accused had also claimed trial and hence, he would not be entitled to any sentencing discount[^82].
+
+99     As the Accused was above 50 years old and could not be caned, Prosecution sought 2 weeks’ imprisonment in lieu of 3 strokes of the cane. The learned DPP submitted that a sentence of imprisonment in lieu of caning was appropriate considering the case involved skin-to-skin contact with the Complainant’s private parts. A sufficiently deterrent and retributive sentence was warranted in this case[^83]. A table of precedents was also submitted, which gave a flavour of the range of sentences imposed in similar cases.
+
+## Defence’s mitigation and position on sentence
+
+100    Learned Counsel agreed with the Prosecution that the present case fell within Band 2 of the sentencing framework in _GBR_ but took the position that it should be in the lower range of Band 2. It was submitted that there were only two offence-specific factors in this case: One, skin-to-skin contact; two, there was an abuse of position of trust, highlighting that the contact, even though skin-to-skin, was brief[^84]. Learned counsel disagreed that there was premeditation and argued that the Complainant’s age in his case was not “_materially younger_” than the threshold set out in the Penal Code. Discussing the cases, the Defence argued that the Accused was less culpable than the offenders in GBR, _Public Prosecutor v Teo Boon Kang_ <span class="citation">\[2018\] SGDC 263</span>[^85].
+
+101    The range in Band 2 was 1 to 3 years imprisonment with 2 years’ imprisonment being the middle in the range. Based on their characterisation of the case that it should fall within the lower range of Band 2, the Defence sought a term of not more than 16 months imprisonment. Learned counsel submitted that offender-specific factors would require the court to calibrate the Accused’s sentence downwards. In this regard, the fact that the Accused claimed trial was a neutral factor; the trial was conducted in a fair and expeditious manner. This was also the Accused’s first brush with the law, he had positive character references as well[^86].
+
+102    Defence argued against the imposition of an imprisonment term in lieu of caning, stating that there were no strong grounds to do so. There was no particular need for a deterrent and retributive sentence having regard to the single charge he was convicted on and the type of individual the Accused was[^87].
+
+## Reasons for the sentence
+
+### Case fell within Band 2 of the GBR framework
+
+103    I was in agreement with both Prosecution and Defence that the facts of the case brought it within Band 2 of the framework in GBR. There were clearly, at least two offence-specific factors:
+
+> (a)     There was direct skin contact with the Complainant’s private parts. The contact was brief but not fleeting;
+
+> (b)     The Accused was in a position of trust viz-a-viz the Complainant. He was the TCM doctor whom the Complainant had come to consult for his pain in his back and wrist.
+
+#### No premeditation involved
+
+104    Considering the facts and circumstances of the case, I agreed with the Defence that there was no premeditation involved. The Complainant and his mother were walk-in patients of the Accused that evening; no prior appointment had been made. The Accused would not have anticipated their coming or have been able to make any preparation for the commission of the offence. There was also no evidence to support the Prosecution’s contention that the Accused had deliberately positioned Mdm Noorulain to face away from the Complainant so that the Accused could commit the offending acts on the Complainant.
+
+#### Age of the Complainant
+
+105    The court in _GBR_ at \[29\] astutely noted that section 354(2) of the Penal Code “_is itself a provision that deals with outrage of modesty of a child below the age of 14_”. The court went on to say:
+
+>      _“However, as pointed out by Aedit AbdullahJC in BLV (\[25\] supra) at \[132\], although the enhanced framework represents a general position that offences against minors should be dealt with more severely than those against non-minors, the framework did not intend to treat all offences committed against minors equally. The aggravating factor of young age would, in relation to enhanced offences, apply if the victim concerned was materially younger than the stipulated age ceiling, and in a graduated manner depending on how much younger the victim was. I agree with this approach: if the offence were, for example, perpetrated against a toddler, this would be more aggravated than that against an older child for the reason that the toddler would be defenceless and unable to extricate himself or herself from the situation. I would add that if the victim presents further vulnerabilities, such as if he or she were suffering from any mental or physical infirmities, this would further aggravate the offence. Concerns of general deterrence weigh heavily in favour of the imposition of a more severe sentence to deter would-be offenders from preying on such victims.”_
+
+106    The Complainant in this case was 12 years old at the time of the offence, where the stipulated age ceiling of an offence under section 354(2) of the Penal Code was 14 years old. Whilst he may be considered young, I did not consider the age of the Complainant to be an aggravating factor in this case.
+
+107    The Prosecution’s position that the case fell within the middle to upper range of Band 2 took into account additional aggravating factors of premeditation and the age of the Complainant, both of which I did not accept. Given the offence-specific factors present in this case and the absence of aggravating factors relied on by the Prosecution, I was of the view that the case fell in the lower end of Band 2.
+
+### The appropriate sentence
+
+108    According to the _GBR_ framework, the indicative sentence for Band 2 was 1 to 3 years’ imprisonment. A case placed in the lower end of this range would indicate a sentence of between 1 to 2 years’ imprisonment. The table of precedents placed before me by the Prosecution, involving cases where the offence under section 354(2) of the Penal Code fell within Band 2 showed a sentence of about 2 years’ imprisonment, a sentence that the Prosecution was seeking.
+
+109    However, there was a distinction in the facts and the level of culpability between the Accused and the offenders in the precedent cases which learned counsel highlighted[^88]. For one, I agreed with the Defence that the Accused was less culpable than the offender in _GBR_[^89]. In _GBR_, the offender had fondled his niece’s breasts for about five minutes, removed her shorts and panties before touching and licking her vagina area for another five minutes. There was prolonged skin-to-skin contact and a clear abuse of trust by the offender. A certain degree of premeditation was present as the offender had brought the victim to his home on the pretext that it would be more conducive for her to study there. The offender had similarly claimed trial to the charge. The offender in _GBR_ was originally sentenced to 21 months’ imprisonment and 4 strokes of the cane. On appeal, his imprisonment term was enhanced to 25 months, with the number of strokes to remain. I found the facts in _GBR_ to be more aggravated than the facts in this present case.
+
+110    In the case of _Public Prosecutor v Hairi bin Ibrahim_, cited in the Prosecution’s table, the offender faced various charges for sexual offences committed on his biological daughter and stepdaughter over nine years. In respect of the offence under section 354(2) Penal Code offence, he had approached the sleeping victim (his own daughter) and groped her thigh. He then removed her pants, panties and flipped her top, touched her breasts and thigh. Thereafter, he licked her breasts all the way down to her vagina. The offender was sentenced to 2 years’ imprisonment on that particular charge, amidst other charges. I similarly considered the facts relating to the section 354(2) offence in _Hairi_ more serious than the current case.
+
+111    Considering the overall facts and circumstances of this case, including the culpability of the Accused, I was of the view that the Accused was deserving of a sentence lower than 2 years’ imprisonment which the Prosecution was seeking. The Accused was untraced; he was a first offender. I did not accord him any sentencing discount since he did not plead guilty to the charge. However, I considered his election to claim trial a neutral factor. As highlighted by the Defence, the Accused had simply exercised his right to claim trial and the proceedings were conducted in a fair and expeditious manner.
+
+112    Having said that, a sentence of 16 months’ imprisonment as submitted by the Defence would be slightly inadequate, bearing in mind that there was skin-to-skin contact with the Complainant’s private parts and the Accused had also kissed the Complainant on his lips. I was of the view that a sentence of 18 months’ imprisonment would be fair and appropriate in the circumstances of this case.
+
+### Why no imprisonment was imposed in lieu of caning
+
+113    In _GBR_, it was stated that within Band 2, “_caning will nearly always be imposed, and the suggested starting point would be at least three strokes of the cane_”[^90]. In this case, in addition to his imprisonment term, the Accused should have received 3 strokes of the cane. However, the Accused was above 50 years old and was not liable to be caned.
+
+114    I declined to impose imprisonment in lieu of caning. As stated in the case of _Amin bin Abdullah v Public Prosecutor_ <span class="citation">\[2017\] 5 SLR 904</span> at \[53\]:
+
+>     “... _the correct starting point is that an offender’s term of imprisonment should not be enhanced, unless there are grounds in justifying so”._
+
+115    As further succinctly summarised in the headnotes of _Amin_:
+
+>      _The following factors might warrant an enhancement of the sentence of an exempted offender: (a) the need to compensate for the deterrent effect of caning that was lost by reason of the exemption; (b) the need to compensate for the retributive effect of caning that was lost by reason of the exemption; and (c) the need to maintain parity among co-offenders. The court would generally find it helpful to first identify the principal sentencing objective(s) that underlay the imposition of caning for the offence in question. The court should consider whether the objective(s) in question would be furthered by the imposition of an additional term of imprisonment in lieu of caning._
+
+116    Both deterrence and retribution formed part of the sentencing objectives in this case. Whilst there was a need for general deterrence, there was not a need for specific deterrence in respect of this particular Accused. Prior to this offence, the Accused was a first offender. The testimonials from patients of the Accused over the years, exhibited in the Accused’s mitigation, were positive of the Accused’s generally good character. I did not consider an additional term of imprisonment necessary to replace any lost deterrent effect or retributive effect of caning in this case. In my view, both the prosecution of the Accused and the imprisonment term he now would have to suffer constituted sufficient punishment for an individual such as the Accused.
+
+* * *
+
+[^1]: Prosecution’s Closing Submissions, \[8\] - \[17\]
+
+[^2]: NE, 20 January 2020, 5/9-13
+
+[^3]: NE, 20 January 2020. 6/1-18
+
+[^4]: NE, 20 January 2020, 42/15-22
+
+[^5]: Exhibit 5-4 – the bed with the patterned cushion
+
+[^6]: NE, 20 January 8/11-23
+
+[^7]: NE, 20 January 2020, 8/24-9/4
+
+[^8]: Exhibit P5-4 – the massage bed with the beige towel
+
+[^9]: NE, 20 January 2020, 9/23-31
+
+[^10]: NE, 20 January 2020, 10/21-31
+
+[^11]: NE, 20 January 2020, 11/1-15
+
+[^12]: NE, 20 January 2020, 12/3-31
+
+[^13]: NE, 20 January 2020, 13/11-27
+
+[^14]: NE, 20 January 2020, 13/20-27
+
+[^15]: NE, 20 January 2020, 14/2-13
+
+[^16]: NE, 20 January 2020, 14/19-31
+
+[^17]: NE, 20 January 2020, 15/2-5
+
+[^18]: NE, 20 January 2020, 15/19-25
+
+[^19]: NE, 21 January 2020, 4/6-11
+
+[^20]: NE, 21 January 2020, 6/17-7/18
+
+[^21]: NE, 21 January 2020, 8/15-22
+
+[^22]: NE, 21 January 2020, 9/11-13
+
+[^23]: NE, 21 January 2020, 11/9-16
+
+[^24]: NE, 21 January 2020, 11/26-32
+
+[^25]: NE, 21 January 2020, 12/1-5
+
+[^26]: NE, 21 January 2020, 17/17-29
+
+[^27]: NE, 22 January 2020, 83/21
+
+[^28]: NE, 22 January 2020, 64/10-66/11
+
+[^29]: NE, 22 January 2020, 66/16-67/12
+
+[^30]: NE, 22 January 2020, 69/22-70/14
+
+[^31]: NE, 22 January 2020, 71/11-78/23
+
+[^32]: NE, 22 January 2020, 83/5-16
+
+[^33]: NE 20 January 2020, 9/23-31
+
+[^34]: NE, 20 January 2020, 66/1-4
+
+[^35]: NE, 20 January 2020, 87/4-15
+
+[^36]: NE, 20 January 2020, 8716-20, 88/17-20
+
+[^37]: NE, 20 January 2020, 76/12-27
+
+[^38]: NE, 20 January 2020, 102/14-23
+
+[^39]: Defence’s Closing Submissions, \[41\]-\[42\]
+
+[^40]: Defence’s Closing Submissions, \[45\]
+
+[^41]: NE, 20 January 2020, 57/17-19
+
+[^42]: NE, 20 January 2020, 106/6-30
+
+[^43]: NE, 20 January 2020, 104/26-105/1
+
+[^44]: NE, 20 January 2020, 105/14-18
+
+[^45]: NE, 20 January 2020, 105/25-106/6
+
+[^46]: NE, 20 January 2020, 116/14-17
+
+[^47]: Defence’s Closing Submissions, \[41\]
+
+[^48]: NE, 20 January 2020, 15/2-5
+
+[^49]: Defence’s Closing Submissions, \[23\] to \[46\]
+
+[^50]: Defence’s Closing Submissions, \[26\]
+
+[^51]: NE, 20 January 2020, 42/6-22
+
+[^52]: NE, 21 January 2020, 23/18-20; 25/12-14
+
+[^53]: NE, 20 January 2020, 28/15-19
+
+[^54]: NE, 23 January 2020, 29/25-32
+
+[^55]: NE, 23 January 2020, 30/4-7
+
+[^56]: Prosecution’s Closing Submissions, \[37\]
+
+[^57]: Prosecution’s Closing Submissions, \[38\]
+
+[^58]: Prosecution’s Closing Submissions, \[42\]
+
+[^59]: NE, 21 January 2020, 7/15-8/3
+
+[^60]: Prosecution’s Reply Submissions, \[10\]
+
+[^61]: NE, 21 January 2020, 9/9-13
+
+[^62]: NE, 21 January 2020, 8/15-9/13
+
+[^63]: Defence’s Closing Submissions, at \[50\]
+
+[^64]: NE, 21 January 2020, 42/1–43/4
+
+[^65]: NE, 21 January 2020, 12/13-25
+
+[^66]: _Public Prosecutor v Mardai_ <span class="citation">\[1950\] MLJ 33</span> at \[33\], mentioned in the case of _AOF v PP_ 2012\] 3 SLR at \[173\]
+
+[^67]: Defence’s Closing Submissions, \[49\]
+
+[^68]: _Tang Kin Seng v Public Prosecutor_, \[102-\[106\]
+
+[^69]: Prosecution’s Closing Submissions, \[56\]
+
+[^70]: Prosecution’s Closing Submissions, \[47\]
+
+[^71]: Prosecution’s Closing Submission, \[48\]
+
+[^72]: NE, 21 January 2020, 76/1-77/5
+
+[^73]: NE, 22 January 2020,45/17-31
+
+[^74]: Prosecution’s Reply Submissions, \[9\]
+
+[^75]: Prosecution’s Closing Submissions, \[51\]
+
+[^76]: NE, 22 January 2020, 75/6-77/25
+
+[^77]: NE, 22 January 2020, 25/8-16
+
+[^78]: NE, 22 January 2020, 64/1-69/20
+
+[^79]: Prosecution’s Closing Submissions, \[55\]
+
+[^80]: NE, 23 January 2020, 2/20-32; 4/8-22; 5/25-32; 10/4-18; 11/4-15;
+
+[^81]: _PP v Mohammed Liton Mohammed Syeed Mallik_ <span class="citation">\[2007\] SGCA 48</span>, \[39\]
+
+[^82]: Prosecution’s submissions on sentence; NE, 26 August 2020, 1/28 – 3/30
+
+[^83]: Prosecution’s submissions on sentence
+
+[^84]: Defence’s Sentencing Submissions, \[5\]-\[6\]; NE, 26 August 2020, 5/19-27
+
+[^85]: Defence’s Sentencing Submissions, \[9\]–18\]
+
+[^86]: Defence’s Sentencing Submissions, \[20\]-\[25\]
+
+[^87]: Defence’s Sentencing Submissions. \[26\]-\[27\]
+
+[^88]: NE, 26 August 2020, 6/26-8/3
+
+[^89]: Defence’s Sentencing Submissions, \[9\] to \[13\]
+
+[^90]: _GBR v Public Prosecutor_, \[33\]
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F25385-SSP.xml)

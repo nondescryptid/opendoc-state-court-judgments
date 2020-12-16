@@ -1,0 +1,2001 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Mohd Hisham Bin Mohd Salleh  
+
+### \[2020\] SGDC 267
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">District Arrest Case No 926447 of 2016 and another, Magistrate's Appeals No MA-9816-2020-01 and MA-9816-2020-02</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">03 December 2020</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Marvin Bay</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Chan Yi Cheng (Attorney-General's Chambers) for the Public Prosecutor; Accused in person</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Mohd Hisham Bin Mohd Salleh</td></tr></tbody></table>
+
+Criminal Law – Statutory Offences – Misuse of Drugs Act
+
+Criminal Procedure and Sentencing – Mandatory minimum sentences – Sentencing where offences involve separate legally protected interests
+
+Criminal Procedure and Sentencing – Mandatory minimum sentences – Whether backdating a previous ‘broken’ remand period can result in a disproportionately light sentence where a concurrent sentence is also imposed
+
+3 December 2020
+
+### District Judge Marvin Bay:
+
+## Introduction
+
+1       This set of appeals against conviction and sentence filed by Mr Mohd Hisham Bin Mohd Salleh (“Mr Hisham”), a Singaporean aged 45, who claimed trial to two drug-related charges, has a convoluted procedural history. Mr Hisham had been convicted and sentenced on both charges on 11 February 2020, and had, after two successive extensions, been admitted to prison to commence the service of his sentence on 3 March 2020. Mr Hisham had represented himself for most of the trial for the present offences, after his erstwhile counsel Mr Ismail Hamid applied to be discharged at the beginning of the second tranche; being the **_third_** day of hearing, on the basis that Mr Hamid had not renewed his practicing certificate as he was leaving legal practice[^2]. It was fortuitous that, at that juncture, the evidence of six prosecution witnesses (PW3 to PW 8) had been completed. This crucially included the testimonial evidence of two doctors covering Mr Hisham’s observed condition and reported symptoms where he had asserted that certain ailments had inhibited or affected his ability to provide a urine sample, when required by a duly authorised person. After ten days of trial, and a further two days expended for submissions (allowance being given on account that he was acting in person), Mr Hisham was convicted on both charges, and sentenced to a global imprisonment term of three years and five months.
+
+2       During subsequent PTC hearings for his three stood down charges, Mr Hisham; who already commenced serving his sentence, had indicated his wish to appeal, and obtained leave to appeal his conviction and sentencing out of time, with his subsequently engaged counsel filing the separate notices of appeal against conviction and sentence on 15 September 2020. It is understood that Mr Hisham’s appeal against sentence is predicated, at least in part, on a period of remand, which he contends, should have been taken into consideration when the sentence was imposed.
+
+3       Mr Hisham’s new counsel had applied for bail pending appeal, and bail in the sum of $60 000 (with a non-monetary component of $30 000) had been granted on 1 October 2020, but Mr Hisham had not been bailed out. I had convened a bail review on 9 October 2020 and revised bail downwards to $55 000 (with a non-monetary component of $27 500). Despite this Mr Hisham’s sureties have not taken any further ostensible steps to secure his release on bail.
+
+### The charges
+
+4       Mr Hisham faced two charges. The first; **DAC 926447/2016**[^3], is framed in the following terms:
+
+>     (_Mr Hisham is_) charged that you, on the 3 May 2016, at Bedok Police Division HQ CNB Office, did fail to provide a specimen of your urine to a police officer within such time as required by the said police officer, without any reasonable excuse, and (_he has_) thereby committed an offence under Section 31(2) of the Misuse of Drugs Act which is punishable under Section 33(1),
+
+>     and further, that (_he_), before the commission of the said offence, (_was_) on 27 August 2009 in Subordinate Court No. 10, _vide_ DAC43104/2009, convicted of an offence for consumption of a specified drug, _to wit_, Methamphetamine under Section 8(b)(ii) of the Misuse of Drugs Act (Cap 185, 2008 Rev Ed) and sentenced to 12 months’ imprisonment, which conviction and punishment have not been set aside to date and (_he is_) thereby liable to be punished under Section 33(4) of the Misuse of Drugs Act (Cap 185, 2008 Rev Ed).
+
+5       The second charge; **DAC 926449/2016[^4]** was framed as follows:
+
+>     (_Mr Hisham is_) charged that (_he_), on or about 02 May 2016 at 4.30pm at Blk 115 Bedok Reservoir Road, in Singapore, did have in (_his_) possession a Class A Controlled Drug listed in the First Schedule to the Misuse of Drugs Act (Cap 185, 2008 Rev Ed), to wit, 01 packet containing not less than 0.27 gram of crystalline substance which was pulverized and homogenized into a powdery form and it was analysed and found to contain not less than 0.18 gram of Methamphetamine, without any authorization under the Misuse of Drugs Act (Cap 185, 2008 Rev Ed) or the Regulation made thereunder, and (_he has_) hereby committed an offence under Section 8(a) which is punishable under Section 33(1) of the said Act
+
+>     And further,
+
+>     that (_he_), before the commission of the said offence, had been convicted on 27 August 2009 in the Subordinate Court 10, vide DAC _43104/2009_, convicted of an offence of possession of a controlled drug under Section 8(a) of the Misuse of Drugs Act (Cap 185, 2008 Rev Ed) and sentenced to 08 months imprisonment, which conviction has not been set aside to date, and (_he is_) thereby liable for enhanced punishment under Sec 33(1) of the Misuse of Drugs Act (Cap 185,2008 Rev Ed).
+
+6       To elaborate, charge **DAC 926447/2016**, concerned the accused failing to provide a specimen of urine for urine test without reasonable excuse on 3 May 2016 at Bedok Police Divisional Headquarters, contrary to s 31(2) of the Misuse of Drugs Act (Cap 185, 2008 Rev Ed) (''MDA'') and punishable under s 33(4) of the said Act, while **DAC 926449/2016** alleged Mr Hisham’s unlawful; possession one packet of crystalline substance analysed to contain not less than 0.18g of methamphetamine, contrary to section 8(a) of the MDA.. It should be noted that Mr Hisham faced **_mandatory_** minimum sentences for **_both_** proceeded charges, and that the two charges, although flowing from a sequence of events on 2 to 3 May 2016, did involve **_separate and distinct legally protected interests_**. The differing nature of the two proceeded charges is quite evident despite their relative proximity in time of commission of the respective offences; given that the second charge concerned possession of a quantity of _methamphetamine_, a specified drug, while the first charge was in relation to Mr Hisham subsequent conduct after having been arrested, for failing to provide a urine sample when lawfully required to do so. The implications of the separate interests will be dealt with in greater details in the part of the grounds addressing the **_concurrent_** running of the two sentences in the global sentence that was eventually imposed, within the context of these considerations.
+
+### Parties and witnesses
+
+7       As indicated above, Mr Hisham was self-represented from the third day of trial. DPP Chan Yi Cheng presented the State’s case against the accused. The case entailed the calling of no fewer than 14 prosecution witnesses, who were:
+
+> (a)      **PW1** Chia Xue Wei Sarah _(HSA Analyst certifying finding of methamphetamine_)[^5]
+
+> (b)      **PW2** Phua Yong Han (_HSA Analyst certifying DNA result_)[^6]
+
+> (c)      **PW3** W/SGT Yasmin Binte Mohd Idris (_SPF, Bedok Div_)[^7]
+
+> (d)      **PW4** Snr SSG Ahmad Faizal bin Ahmad (_SPF, Bedok Div)_[^8]
+
+> (e)      **PW5** Dr Lim Fang Jin (_Examining Doctor_)[^9]
+
+> (f)      **PW6** Dr Pravin Thiruchelvam (_Doctor certifying Medical Report_) [^10]
+
+> (g)      **PW7** SGT Tan Wee Ming (_SPF Bedok Div_)[^11]
+
+> (h)      **PW8** W/SGT Zafirah Adilah (_SPF Bedok Div_)[^12]
+
+> (i)      **PW9** Ng Shilen (_HSA DNA Analyst_)[^13]
+
+> (j)      **PW10** Haifaa Bte Mohamed Anwar (_CNB Forensic Response Team_)[^14]
+
+> (k)      **PW11** W/SGT Poh Angie (_SPF, Investigation Division_)
+
+> (l)      **PW12** Muhammad Thobraani bin Mohd Soom (_SPF Investigation Division, Statement recorder_)[^15]
+
+> (m)      **PW 13** HTS 15 Gayathre Kalimuthu Mogan (_DNA processing technician_)[^16]
+
+> (n)      **PW 14** Low Zuhui (_Investigation Officer, Statement recorder_) [^17]
+
+8       The defence case involved the following witnesses:
+
+> (a)      **DW1** Mohd Hisham Bin Mohd Salleh _(Accused person)[^18]_
+
+> (b)      **DW2** Siti Hajar Binte Sami’an ( _Accused person’s fiancé_)[^19]
+
+> (c)      **PW3** Dr Kang Jun Hui Larry (Doctor attending to accused in lock-up)[^20]
+
+## PROSECUTION’S CASE
+
+### Brief facts of prosecution’s case involving the two proceeded charges
+
+9       This is a brief _precis_ to sketch an outline to afford a grasp of the salient events of this case, which will, of course, be fleshed out in greater detail in the main body if these grounds. To recapitulate **DAC 926447/2016**, involved the accused’ failing to provide a specimen of urine for urine test without reasonable excuse on 3 May 2016 at Bedok Police Divisional Headquarters, while **DAC 926449/2016** involved the accused’s alleged possession of _methamphetamine_. There are two discrete events that circumscribe this brace of proceeded charges, with the first sequence starting from the discovery of the bag containing the _methamphetamine_ filled _sachet_, and the second _tranche_ of significant events occurring after the accused had been placed in custody for the purpose of obtaining his urine sample upon suspicion that he had consumed drugs. The run of the prosecution witnesses at trial was **_reversed_** to the chronological sequence of events; with PW3 to PW 6 offering their testimonies to the events connected to the unsuccessful attempts to procure a urine sample, and the latter witnesses PW7 to PW 14 giving oral evidence connected with Mr Hisham’s drug possession charge. This flip seemed to be predicated on accommodating the time required for an _voir dire_ ancillary hearing to address Mr Hisham’s anticipated challenge to ‘_positive_’ statements he had given to the investigation officer.
+
+### Discovery of accused’s son with black backpack, later found to contain drugs
+
+10     In chronological sequence, the prosecution’s case starts with the discovery of Mr Hisham’s son; Mohamad Henry Shah bin Mohd Hisham (“Master Shah”) on 2 May 2016, at 3.30 p.m. This was when PW7 Police Sgt Tan Wee Ming (“Officer Tan”); an officer with Bedok Police Division and his team had been patrolling the void deck of Block 115 Bedok Reservoir Road. The patrol detail had found the young boy asleep on a bench at the block, and with a black backpack in his possession. Sgt Tan had approached the boy in repose as he had been concerned that he might be a missing person.[^21]
+
+11     Master Shah had informed Sgt Tan that he was waiting for his father; Mr Hisham, as well as his stepmother and two brothers. He had also revealed that Mr Hisham was selling keychains at a nearby block. Officer Tan opened the black in the presence of the Master Shah, and the officers had found a used syringe, one small black pouch containing three resealable sachets (two sachets contained traces of white crystalline substance and one sachet containing a white crystalline substance, which officers suspected to be drugs, along with one cut red straw with residue. The officers also noted the presence of clothing and toiletries in the backpack.
+
+12     Officer Tan had thereafter conducted a vertical policing procedure to comb the premises of Blk 115 for the presence of Master Shah’s parents and had found Mr Hisham with his other son at level six of the block selling key chains. Mr Hisham was thereafter brought back down to the void deck for questioning, and at 4.30 p.m., formally as placed under arrest for suspected drug offences.
+
+### Items found in backpack
+
+13     The backpack and the items within were listed and marked using the CNB’s usual nomenclatural conventions:
+
+> (a)     one black _Thule_ backpack (marked "A”);
+
+> (b)     one black small pouch (marked “A1”);
+
+> (c)     one red cut and used straw (marked “AIA");
+
+> (d)     one empty packet (marked "A1B");
+
+> (e)     one empty packet (marked "AlC");
+
+> (f)     one packet of crystalline substance (marked "A1D); and
+
+> (g)     one used syringe (marked "A1E").
+
+### HSA drug and DNA analysis
+
+14     HSA analyst Chia Xue Wei Sarah tendered a report[^22] analysing the 0.27grammes of crystalline substance from the sachet packet recovered from the backpack and found the said crystalline substance to contain not less than 0.18 grammes of _methamphetamine_. A blood specimen obtained from Mr Hisham was processed to generate a DNA profile. The DNA profile derived **_matched_** DNA traces found at the packet containing the crystalline substances (A1D); and the used syringe (A1E).
+
+## PROSECUTION’S CASE IN RELATION TO FAILURE TO PROVIDE URINE SPECIMEN: DAC 926447/2016
+
+### Accused’s disposition during procurement regime for urine sample
+
+15     In respect of the first charge; **DAC 926447/2016**, involving Mr Hisham’s failing to provide a specimen for urine test without reasonable excuse, it is not disputed that the accused never provided any urine for analysis. The law places the **_onus_** on Mr Hisham to demonstrate that he has a reasonable excuse in respect of his failure to provide a urine specimen. The prosecution’s case detailed the events on 3 May 2016 at Bedok Police Divisional Headquarters upon Mr Hisham being given a direction by PW4 Snr SSgt Ahmad Faizal bin Ahmad (“Officer Faizal”) to provide a specimen.
+
+16     On 3 May 2016, at 12.30 a.m., Mr Hisham was placed in lock-up for observation. Officer Faizal administered a warning informing Mr Hisham that his failure to provide a urine sample would be an offence, and placed Mr Hisham on a six-hour observation regime, which commenced at about 12.30 a.m. on 3 May 2016 until about 6.30 a.m. on the same day. Throughout this period of observation, Mr Hisham was offered a cup of water every half hour. Throughout the six-hour observation period, Mr Hisham drank only one cup of water. It was Officer Faizal's testimony that a series of warnings were given to Mr Hisham from 12.30am to 6.30am on 3 May 2016. As indicated, despite Mr Hisham being asked to drink water at regular intervals of 30 minutes, he only partook of a **_single_** drink at 2.30am. Thereafter, the prosecution witnesses testified that Mr Hisham affected being asleep from 3.00am to 6.30am, and resisted continual efforts by Officer Faizal to wake him. Consequently, no water was proffered to Mr Hisham during this period. As a quick observation, this episode of prolonged somnolence was surprising in the context of Mr Hisham’s account where he had claimed to be in pain at the time.
+
+17     The preponderance of evidence in this aspect of the case concerned Mr Hisham’s claim at trial, to be suffering from various maladies that caused him to be unable to urinate. Notably Officer Faizal's evidence was that, throughout his observation, Mr Hisham only complained of having a non-specific liver problem, and did not make any other complaints. Specifically, when administered a warning in respect of his failure to provide the urine specimen, Mr Hisham did not then, or subsequently, explain to Officer Faizal that he could not urinate. The oral testimonies in this regard, as well as the accounts of doctors who either saw Mr Hisham or examined his clinical case notes, will be dealt with in detail in the next part.
+
+### Timeline of significant events
+
+18     The following timeline of events would be useful to keep track of significant events
+
+> (i)      **2 May 2016 at 4.30pm**\- Mr Hisham is arrested following the discovery of suspected drugs in a backpack in the possession of his son, who is found alone and sleeping at a void deck[^23].
+
+> (ii)      **2 May 2016 at 5.06 pm-** Mr Hisham is sent to Changi General Hospital’s (CGH) Accident and Emergency Department where he is seen by Dr Ong Lin Min and complains of small joint pains and aches of both hands. No deformities found, discharged with _Paracetamol_, _diclofenac_, and _omeprazole_.[^24]
+
+> (iii)      **2 May 2016 at 8.47pm-** Mr Hisham returns to CGH to see Dr Ong Lai Min upon complaints of lower limb tenderness, no evidence of deep vein thrombosis, is given _ketorolac_ and discharged back to custody of police**.[^25]**
+
+> (iv)      **3 May 2016 from 12.30 am to 6.30 am-** An unsuccessful six-hour attempt to procure a urine specimen.[^26] Is undertaken. Accused only complains of non-specific “liver problem”.
+
+> (v)      **3 May at 10.40 am**\- Mr Hisham is seen by lock-up doctor; Dr Larry Kang, where patient complains of “_severe lower limb pain due to varicose veins and being unable to pass urine due to pain_”.[^27] Dr Kang decides to refer the accused to CGH.
+
+> (vi)      **3 May at 12.50 pm**\- Mr Hisham attends for the **_third_** time at CGH, where to determine if there is any basis for the inability “_to obtain urine specimen_”, he is seen by Dr Lim Fang Jin, who concludes that the accused is not in Acute Urinary Retention and that there was no indication for the installation of an indwelling catheter. [^28]
+
+> (vii)      **3 May 2016 5.35 to 7.30 pm**; First long statement[^29] is recorded from Mr Hisham. Statement is not challenged.
+
+> (viii)     **3 May 2016 to 10 July 2016**\- After being released on station bail Mr Hisham defaults required attendances before investigation officer, and a warrant for his arrest is issued.
+
+> (viii)     **10 July 2016 at 2.18 pm**\- Mr Hisham attends at Tan Tock Seng Hospital with complaints of “_low back pain_” and a “_left flank lump_”. He is diagnosed by Dr Franklin Magbitang to have Urinary Tract Infection, causing Acute Urinary Retention. He is catheterised.
+
+> (ix)      **11 July 2016 between 3.16 pm to 3.21 pm**\- Upon his arrest, Mr Hisham states in a Cautioned Statement[^30] in relation to the possession charge that “_I admitted and I am feeling remorseful_”. Statement is challenged.
+
+> (x)      **11 July 2016 between 3.25 pm to 3.48 pm**\- Mr Hisham also gives a Further Statement[^31] with inculpatory admissions to the possession charge. Statement is challenged.
+
+> (xi)      **4 August 2016**\- At a medical appointment, Mr Hisham asks a TTSH doctor; Dr Neo Wen Yang to “_certify that he is unable to pass urine when he has back pain”.[^32]_ Doctor declines.
+
+> (xii)      **3 August 2017**\- Mr Hisham contracts another bout of Urinary Tract Infection.[^33]
+
+## TESTIMONIAL ACCOUNTS OF PROSECUTION WITNESSES
+
+### PW4’s detailed account of accused’s observed behaviour during urine procurement period
+
+19     I will now set out the testimony of PW4; Officer Ahmad Faizal, who had been tasked with the administration of the procurement of a specimen of Mr Hisham’s urine for testing. Officer Faizal stated that he had been the “_Lock-up officer_” at the material time, and that his duty had been to monitor the intake of medication, and meals of persons-in-custody (“PIC”). He was also responsible for their safety and would call his supervisor in the event of any medical exigency. The supervising officer (or “PICSO”) would in turn call for medical assistance from the lock-up doctor.[^34] Upon admission of persons suspected of drug consumption, Officer Faizal would first ascertain if the remanded person had given his urine sample. He would inform him of the stipulated time to provide his sample, as well as warn of the consequences of not furnishing his urine specimen.[^35]
+
+### Station Diary records
+
+20     Officer Faizal would make annotations of all developments in the process of the urine collection in the Station Diary. The annotations were made contemporaneously within 2-3 minutes of the conclusion of each event[^36], and he was assisted by another officer; W/SGT Nor Azlin. He had provided a certified copy of the Station Diary which detailed, in handwritten annotations, his interactions with Mr Hisham which had commenced at 12.30 am on 3 May 2016[^37] The breaks in the serial number are for entries made in respect of other persons in custody:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="7.44148829765953%"> <col width="12.2824564912983%"> <col width="21.4242848569714%"> <col width="58.8517703540708%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">&nbsp;</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Time</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">&nbsp;</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Station Diary annotation as “Occurrence”</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">01.</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">0030</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Warning</p><p align="justify" class="Table-Para-1">Witnessed</p><p align="justify" class="Table-Para-1">By W/SGT</p><p align="justify" class="Table-Para-1">Nurazlin</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">I (PW4’s rank and number) Ahmad Faizal have on 3/5/2016 at 0030 hrs directed that the accused Mohd Hisham to provide 3x samples of his urine to provide the samples so requested. <b><em>I have explained to the defendant that under sec 31(2) Cap 185, it is an offence for him not to provide to me the samples so requested</em></b> p/u sec 33(a) of the same act, I have explained to him the warning administered in English language and invited him to sign below.</p><p align="justify" class="Table-Para-1">[<em>signed</em> Mohd Hisham]</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">02.</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">0100</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">states</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">PIC refuse to drink as he is having a liver problem. He is seen lying down.</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">06.</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">0130</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">states</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">PIC refuse to drink as he is having a liver problem. He is seen lying down.</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">07.</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">0200</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">states</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">PIC refuse to drink as he is having a liver problem. He is seen lying down.</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">08.</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">0230</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">states</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b><em>PIC Mohd Hisham was served with a cup of water and he drank it. No complaints.</em></b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">09</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">0300</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">states</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Went to PIC: Mohd Hisham’s cell to serve water however after several time(<em>sic</em>) trying to wake PIC up, he seems to be in deep sleep.</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">10</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">0330</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">states</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Went to PIC: Mohd Hisham’s cell to serve water however after several time(<em>sic</em>) trying to wake PIC up, he seems to be in deep sleep.</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">11</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">0400</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">states</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Went to PIC: Mohd Hisham’s cell to serve water however after several time(<em>sic</em>) trying to wake PIC up, he seems to be in deep sleep.</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">12</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">0430</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">states</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Went to PIC: Mohd Hisham’s cell to serve water however after several time<em>(sic</em>) trying to wake PIC up, no response from him.</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">13.</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">0500</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">states</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Went to PIC: Mohd Hisham’s cell to serve water however after several time(<em>sic</em>) trying to wake PIC up, no response from him.</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">14.</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">0530</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">states</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Went to PIC: Mohd Hisham’s cell to serve water however after several time(<em>sic</em>) trying to wake PIC up, no response from him.</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">15</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">0600</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">states</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Went to PIC: Mohd Hisham’s cell to serve water however after several time(<em>sic</em>) trying to wake PIC up, no response from him</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">16</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">0630</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Administered</p><p align="justify" class="Table-Para-1">By (PW4’s</p><p align="justify" class="Table-Para-1">signature)</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Went to PIC: Mohd Hisham’s cell to serve water however after several time(<em>sic</em>) trying to wake PIC up, no response from him. After a while PIC woke up and ask if he <del>wish to</del> can urine <b><em>however PIC infd he cannot urine.</em></b></p><p align="justify" class="Table-Para-1"><b><em>[signed]</em></b></p></td></tr></tbody></table>
+
+  
+  
+
+> \[Emphasis added\]
+
+21     What is notable from the foregoing is that Mr Hisham **_did_** sign to acknowledge the warnings at the beginning and end of the reports at 12.30 am and 6.30 am respectively. During the entire observation period, Mr Hisham “_only complain that his liver is pain_”[^38] and **_never_** articulated any other pre-existing ailments, presenting medical conditions, general health issues, or areas of discomfort. Also noteworthy was Officer Faizal’s testimony that the accused had already been to Changi General Hospital (‘CGH”) even **_before_** the urine procurement procedure commenced at 12.30 am on 3 May 2016. Officer Faizal indicated that CGH “_is usually where we will send the accused for medical check-up_”[^39]. While he could not be certain how long Mr Hisham had been in CGH, Officer Faizal recalled that Mr Hisham had entered the lock-up not long before 12.00 midnight on 3 May 2016. Officer Faizal had given “(Mr Hisham) _allowance for him to give me the urine before I execute the warning_”[^40] On then counsel’s question whether Mr Hisham had been wheelchair bound, the witness recalled Mr Hisham being able to walk at the lock-up. No medication had been administered to Mr Hisham.
+
+### Cross-examination of PW4
+
+22     Officer Faizal indicated that the Mr Hisham had been fully awake at 1.00 am when he explicitly signalled his refusal to drink, on account of his asserted “liver problem’. Officer Faizal had remained outside the cell, at the door, at each half-hour instance when he had proffered a drink, never entering to directly approach the accused.[^41]
+
+### Surrounding circumstances when accused took the sole drink at 2.30 am
+
+23     Officer Faizal stated that Mr Hisham had generally remained in a lying position in his cell when he approached to proffer a drink, and had only stirred from his recumbent position at 2.30 am when he had slowly got up, approached Officer Faizal and taken the water served by PW4. Mr Hisham had taken the water from a small door at the cell, which could be opened for the conveyance of food or drink[^42]. Mr Hisham drank in front of Officer Faizal and showed him when the cup was empty.
+
+24     Mr Hisham’s erstwhile counsel; Mr Ismail Hamid, put it to Officer Faizal that just the accused had agreed to take the drink. Mr Faizal had indeed entered the cell and found Mr Hisham lying down. Mr Hisham had then complained “_that he was_ **_having back problem_**, **_he had swelling on_** _(_his_)_ **_feet_**_, and liver problem. That was why he could not drink_… _so that is why he could not urinate._”[^43] Officer Faizal denied having ever encountered such a scene, nor having received the communication stated. He also categorically denied counsel’s next put that Mr Hisham had imposed a condition that officer Faizal was to explicitly list his ailments on a piece of paper before he (Mr Hisham) would agree to take a drink[^44]:
+
+>   
+| 
+
+Counsel:
+
+ | 
+
+And following that, he wants you to state on the piece of paper his complaint (that he) cannot give urine because he’s he was in pain. If you write that, then only then he would drink.
+
+ |
+| 
+
+PW4:
+
+ | 
+
+None of that I remember.
+
+ |
+
+  
+  
+
+### PW4’s evidence that accused’s unresponsiveness was an act
+
+25     At re-examination, Officer Faizal confirmed that he had never physically entered the cell at any time to approach the accused. To obtain Mr Hisham’s signature at serial 16 (at 6.30 am), he had remained outside and merely asked the accused to go to the small door at the cell gate and sign the Station Diary through the aperture[^45].
+
+26     Responding to the learned DPP’s questions, Officer Faizal stated that Mr Hisham had lain on the floor in a supine position from after midnight to the time he had risen to take the drink from Officer Faizal at 2.30 am. The witness also clarified that the accused’s unresponsiveness seemed to be a conscious affectation, and that Mr Hisham was **_aware_** when PW4 made his half-hourly calls to serve water. This was because he could discern bodily movements from Mr Hisham when he affected being unresponsive and was thus sure that he was awake at the time. Officer Faizal, in an abundance of caution had made efforts to **_shout[^46]_** to rouse Mr Hisham and could detect bodily movements but formed the impression that Mr Hisham “_don’t want to respond to me to come towards me to drink the water_”. Officer Faizal added “_Only when I shout and make noise, then he will start to do some movement. Then after that, he totally just ignored me like that._”[^47] Officer Faizal attested to having use considerable effort to ensure that Mr Hisham was rousable whatever his actual state of consciousness might have been. He recalled shouting and making noises for a full three to five minutes, with the noisemaking including knocking on a board with his hand and exclaiming repeatedly “_Hisham wake up_”, “_Drink water_” and “_You need to give me urine. Can you pee or not?_” The witness has also recalled enlisting AETOS officers to assist him on several of the instances that night in these measures alert the accused[^48].
+
+27     Officer Faizal was invited to demonstrate these actions in court, and I am satisfied that these measures would be objectively adequate to alert any individual who was not rendered unconscious by intoxication or heavy sedation (both conditions should certainly not apply to Mr Hisham at the material time). Despite these raucous entreaties, Mr Hisham had moved his body but never given any acknowledging vocal response.
+
+28     Responding to a question by then defence counsel to explain his annotation of the accused being “_in deep sleep_’ in three entries (serial number 9 to 11) covering the period of 3.00 am to 4.00 am, Officer Faizal stated that he had poorly expressed himself, and the chosen words were not an apt description of the actual circumstances, conceding rather that “_okay, maybe my…wrong to put “deep sleep”. Maybe I should put ‘_**_sleeping but refuse to respond’_**_”[^49]._\[Emphasis added\]. He added that he was working with a limited six-hour timeframe. Officer Faizal indicated that there was a six-hour observation timeframe, after which the police would report that the accused had failed to provide a urine sample. When water and tea were proffered for breakfast **_after_** the cessation of the six-hour observation period, Mr Hisham was seen by the witness to seen to drink the water but refuse the tea.[^50] The officer stated that Mr Hisham had not made any complaint of medical maladies in relation to his ability to urinate, save that he claimed to be suffering from “_liver pain_” during the first hour of the observation period.[^51]
+
+## MEDICAL EVIDENCE
+
+29     Medical evidence takes a pre-eminent role in this case. Given that Mr Hisham has asserted a medical basis to justify his failure to produce a urine sample. It would be nnecessary to closely evaluate the evidence in this regard to reach a conclusion on whether Mr Hisham could have been suffering either a chronic clinical condition or acute medical affliction as to afford a defensible basis that such a condition would reasonably render him unable to comply with the demands made to provide a sample.
+
+### All three doctors who saw accused in his period of remand are independent witnesses
+
+30     In relation to the medical evidence. The prosecution called two doctors to give evidence on treatment Mr Hisham received at Changi General Hospital (CGH) during his remand period of 2-3 May 2016 namely PW5; Dr Lim Fang Jin, and PW6; Pravin Thiruchelvam. Mr Hisham had insisted that a third doctor; Dr Larry Kang Jui Hui, who ministered to lock-up patient, would be able to offer valuable insights to his complaints and the relationship that his ailments had to his inability to provide a sample. Dr Kang was eventually called as the third and final witness for the defence, I would propose to deal with the evidence of **_all three_** doctors called as witnesses in this section to allow an appropriate juxtaposition of their observations of Mr Hisham’s reported medical complaints. I would regard all three doctors to be independent witnesses as none would have any basis to have any partisan affinity to either prosecution or defence. A fourth doctor, Dr Ong Lin Min, of GCH, was no longer available for testimonial evidence by the time of the hearing.
+
+### Evidence of PW 5 Lim Fang Jin
+
+31     Dr Lim Fang Jin was a medical doctor of three years standing. He had been a house officer at the Singapore General Hospital (SGH), at its Gastroenterology department, and the National University Hospital (NUH) before his stint at Changi General Hospital (CGH). Dr Lim was no longer with CGH at the time of his testimony, as he was serving out his National Service duties at Stagmont Camp as a Medical Officer. He had attended to Mr Hisham at CGH’s Accident and Emergency Department on 3 May 2016 at or about 12.50pm, when the accused was brought to the hospital by police officers, after undergoing the urine procurement procedure described above, and not yielding a sample. The purpose of the consultation was to ascertain if Mr Hisham was fit to provide urine. During the examination, Mr Hisham complained to Dr Lim that he suffered “_leg pain_” and shared his multiple medical conditions including rheumatoid arthritis, varicose veins, and fatty liver with Dr Lim[^52].
+
+### Absence of medical conditions that could have inhibited urination
+
+32     Dr Lim noted that Mr Hisham did **_not_** seem to have any stomach pain, **_nor_** had complained of “_any burning sensation when he passed urine_”[^53]. Dr Lim observed that Mr Hisham had not presented with any condition which might portend any possible medical condition that could have affected Mr Hisham's ability to urinate[^54]:
+
+>   
+| 
+
+DPP:
+
+ | 
+
+From your examination, **_is there any indication as to possible medical conditions affecting his ability to urinate_**?
+
+ |
+| 
+
+Dr Lim:
+
+ | 
+
+**_There were not._** Examination was quite normal aside from the varicose veins.
+
+ |
+| 
+
+DPP:
+
+ | 
+
+In other words, did you observe any medical condition that he suffered from … through your examination that stopped him from passing urine?
+
+ |
+| 
+
+Dr Lim:
+
+ | 
+
+**_I did not._**
+
+ |
+
+  
+  
+
+### Dr Lim’s explanation for opinion that Mr Hisham did not suffer from Acute Urinary Retention
+
+33     Dr Lim was asked to explain a passage in a medical report from CGH which had referenced his examination and apparent diagnosis that Mr Hisham did not suffer from Acute Urinary Retention. The report had been authored by Dr Pravin Thiruchelvam, as Dr Lim had already left CGH for his National Service duties at the time of the investigation officer’s request for the report. The relevant passage[^55] read:
+
+>     On the 3 May 2016 at 1250 hours, (_Mr Hisham_) was brought in by police again for to obtain urine specimen. **_He was attended to by Dr Lim Fang Jin. In view that patient was not in Acute Urinary Retention, there was no indication for indwelling catheter._** He was discharged back to custody of police
+
+34     Dr Lim was again referenced in s subsequent medical report which sought to clarify the about report. The subsequent report stated:
+
+>     Based on the notes documented by the attending doctor **_Dr Lim Fang Jin, we are in the opinion that he is able to pass his urine normally._** But in view of that patient was not in Acute Urinary Retention, there was no indication for indwelling catheter.
+
+35     A physical examination convinced Dr Lim that Mr Hisham, save the presence of varicose veins, appeared otherwise normal. Most significantly, he noted that Mr Hisham's bladder was also **_not_** distended, which indicated that he was **_not_** experiencing an episode of Acute Urinary Retention when he saw the accused. Dr Lim explained that when a patient suffered from a retention of urine, the individual would be expected to complain of complain of pain, inability to pass urine and a swelling in the abdomen. One of the common causes of acute retention of urine is a Urinary Tract Infection which can also present with fever and was commonly associated with pain on passing urine. Dr Lin established that Mr Hisham did **_not_** have any of these symptoms.
+
+### How a physical examination showed that the accused’s bladder was normal and not distended
+
+36     Dr Lim explained the physical examination process, where he had taken considerable pains to assess Mr Hisham’s bladder before concluding that the organ was not distended. He defined a distension to involve an enlargement. For an organ to be distended, the examiner would “_expect to feel a mass in the abdomen_”[^56]. The abdomen might be painful on touch, and when he “percussed” on the abdomen, he would expect a distinctive sound. Dr Lim helpfully explained to “percuss”, would be for the examining doctor to tap on his finger with the other finger on the patient’s abdomen. This was a method adopted from the practice of winemakers percussing barrels to “_roughly distinguish the level of water level inside the barrel without opening it_”.[^57] Dr Lim indicated that percussing on a normal abdomen would yield “_a more hollow sound_”, while direct tapping on a distended bladder would reveal a “_a more dull sound_”. He concluded that: “**_In this case_**, (Mr Hisham’s) **_examination findings were that of no masses found. The abdomen was soft and non-tender and the percussion note was resonant_****.**”[^58] This would give him a sound basis to conclude that Mr Hisham was **_not_** in Acute Urinary Retention.
+
+### Why catheterisation to drain the bladder was not medically indicated
+
+37     Dr Lim's medical opinion was that Mr Hisham did not need an indwelling catheter to be installed given the absence of signs of Acute Urinary Retention. Dr Lim then referenced the part of Dr Pravin’s medical report which had stated _“_**_In view that patient was not in Acute Urinary Retention, there was no indication for indwelling catheter.“_** Dr Lim explained a catheter to essentially be a tube, and in medical parlance, _“indwelling_” referred to the placement of the tube inside the urethra which is the part of the penis that brings urine out of the bladder from the bladder to the tip of the penis. Hence, an indwelling catheter was a tube passed from outside the tip of the penis into the bladder to allow the artificial drainage of urine from the bladder, _via_ the installed tube. Dr Lim explained his opinion of there being “_no indication for indwelling catheter_” to mean that there would be **_no clinical purpose or medically defensible basis_** for a catheter to be inserted[^59]:
+
+> A (Dr Lim)     **_For medical reasons, whenever we think about doing a procedure, we have to be clear whether there’s an indication. The reason behind that is there is a risk to every procedure, so if we do that procedure and that adverse event happens, we must be able to justify why we did the procedure._** So, given that putting in an indwelling catheter has inherent risk, we have to have an indication to do it. Otherwise, if something happens some adverse event happens during this procedure, we cannot defend our position as doctors. **_So, in this case, because there was no indication, we would not proceed to do the indwelling catheter insertion._**
+
+>     …
+
+>     (A) catheter is inserted to drain the bladder, and this should only be done if the bladder requires draining… in other words, if he’s in urinary retention. **_If he is not in urinary retention, then the catheter does not need to be inserted._**
+
+>     \[Emphasis added\]
+
+38     Dr Lim indicated that the he had been unable to find any clinical basis for Mr Hisham being unable to pass urine as his identified medical conditions “_would not inherently affect his ability to pass urine_”[^60], and that the accused’s feeling of being unable to pass urine could be explained would be if “_he had not been drinking water_”.[^61]
+
+### Further elaboration by PW5 from questions by the court
+
+39     Counsel eschewed any significant cross-examination. As the court required some clarifications, I had posed to Dr Lim queries in certain salient areas. Dr Lim categorically confirmed Mr Hisham’s rheumatoid arthritis, the presence of varicose veins and his fatty liver did not predispose to chronic or acute urine retention. Mr Hisham’s prescribed medications of _paracetamol_, _diclofenac_ and _omeprazole_ also did not ordinarily cause urinary retention.[^62] When Dr Lim had laid his hands to percuss Mr Lim, he discerned the presence of an ‘_insignificant amount of urine_’ which he defined to be any volume below 300 millilitres.
+
+40     Dr Lim also explained that the catheter was only useful in specific situations when people were in retention of urine from a blockage somewhere along the urethra which was situated at the exit of the bladder. The catheter tube itself worked to unblock the urethra by allowing a one-way passage to ease “_a constriction somewhere along the way_”. Simply stated the indwelling catheter was an artificial tube which was passed through the construction, allowing an aperture big enough for urine to flow out. He explained that once the passage created by the catheter established a connection between the bladder and the urine bag, the obstruction “_pressure will do the rest and bring the urine out of the bladder_”. Generally, these obstructions would involve a “kidney” stone formed from crystallised urea or as a result of prostatic enlargement squeezing the urethra shut, which did not occur in Mr Hisham’s case. Dr Lim added that a person suffering from the condition would seem very uncomfortable on examination and on examination and would say they were in pain, but the accused “_did not have these symptoms or signs_”.[^63]
+
+41     Dr Lim was also certain that Mr Hisham did **_not_** have Urinary Tract Infection (UTI), as he had noted the accused’s “_vitals, including the blood pressure, respiratory rate, heart rate and SpO2_ (i.e. oxygen saturation) _reading were all normal_”[^64], where a patient with Urinary Tract Infection would likely register a fever and suffer from hypotension (or low blood pressure). The doctor also informed the court that Mr Hisham’s regular medications; paracetamol, diclofenac and omeprazole, did not cause sedation or otherwise induce an inability by a sleeping person to wake up.[^65] He added that Mr Hisham had been brought in in a wheelchair, which was not atypical as suspected detainees were conveyed by wheelchairs in a hospital setting, as they would be unsteady when cuffed.
+
+### Evidence of PW6 Pravin Thiruchelvam
+
+42     Another CGH doctor who saw Mr Hisham at the time of his remand; Dr Ong Lin Min, was no longer available for testimonial evidence at the time of the trial. Dr Ong’s case notes were set out in a report by PW6; Dr Pravin Thiruchelvam, who had also reviewed PW 5; Dr Lim’s medical notes. While he had never examined Mr Hisham; Dr Pravin shared the same view (after studying the sets of notes), expressing his professional opinion was that there was no medical condition that might have inhibited or compromised normal bladder function. There was therefore absolutely no medical evidence that Mr Hisham might be physiologically unable to pass urine. Dr Pravin also excluded any symptoms of a drug-induced cause that might have caused Mr Hisham to not be able to urinate. He thus prepared the two reports which have briefly been referenced above in Dr Lim’s testimony.
+
+43     Mr Pravin’s first report[^66]; states
+
+>     MEDICAL REPORT ON MOHD HISHAM BIN MOHD SALLEH
+
+>     (identification number)
+
+>     The above mentioned was seen by Dr Ong Lin Min at Accident and Emergency department on 2/5/2016 at 1706 hours. He was brought in by police after he was arrested for selling key chains with his kids at the void deck. He complained of bilateral small joint pains and aches of the hands for a few months.
+
+>     On examination, he was conscious, alert. There were no deformities over bilateral hands. No active synovitis. He was discharge with paracetamol, diclofenac and omeprazole.
+
+>     He was seen again on the same day at 2047 hours for right lower limb tenderness. There was no evidence of deep vein thrombosis. He was given ketorolac and pain was better after. He was discharged back to custody of police.
+
+>     On the 3 May 2016 at 1250 hours, he was brought in by police again for to obtain urine specimen. **_He was attended to by Dr Lim Fang Jin. In view that patient was not in Acute Urinary Retention, there was no indication for indwelling catheter._** He was discharged back to custody of police
+
+>     DR PRAVIN THIRUCHELVAM
+
+>     CLINICAL ASSOCIATE
+
+>     (medical registration number)
+
+>     Accident & Emergency Department
+
+44     Mr Pravin subsequently clarified the report to categorically state the medical opinion that Mr Hisham should have had no problem passing urine normally. The report[^67], who was referenced in Dr Lim’s evidence is now set out in full:
+
+>     24 May 2016
+
+>     CHAIRMAN MEDICAL BOARD
+
+>     Changi General Hospital
+
+>     Singapore 529889
+
+>     CLARIFICATION ON MEDICAL REPORT
+
+>     MOHD HISHAM BIN MOHD SALLEH
+
+>     (identification number)
+
+>      _2/5/2016_
+
+>     Based on the notes documented by the attending doctor **_Dr Lim Fang Jin, we are in the opinion that he is able to pass his urine normally._** But in view of that patient was not in Acute Urinary Retention, there was no indication for indwelling catheter.
+
+>     DR PRAVIN THIRUCHELV
+
+>     CLINICAL ASSOCIATE
+
+>     182830
+
+>     Accident & Emergency Department
+
+### Evidence on causes of urine retention in bladder
+
+45     Dr Pravin, a doctor of 11 years’ standing and on a permanent posting at CGH, confirmed that Mr Hisham had been seen no fewer than three times in 2-3 May 2016. He had first complained of small joint pain and hand aches on both arms soon after his arrest at 5.06 pm, then at 8.47 pm, four hours **_prior_** to his urine procurement exercise, he had sought attention at CGH for lower limb tenderness. In the former two instances, he had been seen by Dr Ong. The accused had finally been brought at 12.50 pm to Dr Lim after he failed to yield a urine specimen. He indicated that there were three known causes which might cause a person to be unable to give a urine specimen. The first would be from obstructive causes, the secondly, from back or spinal problems and the third from a drug-induced cause.
+
+46     In relation to the physiological causes such as back issues and spinal problems and obstructive causes, Dr Pravin, on perusal of medical records created by Dr Lim, could not find any indication of Mr Hisham having any complaints which would indicate such a diagnosis.[^68] On drug induced causes of urine retention, Dr Parvin was cautious to state that a “_very tiny percentage_” of patients might experience difficulties in urinating after using ketorolac and diclofenac. He emphasized that this group was “_extremely small_”. Dr Pravin ruled it unlikely that Mr Hisham would be in this category as Dr Lim Fang Jin, at the consultation had found that “_there was no palpable bladder, which means he was not in Acute Urinary Retention at that point of time.” A person who was truly unable to urinate would “probably_ (have) _a palpable bladder._” [^69] Dr Pravin proceeded to explain that a palpable bladder meant a bladder that was so distended that could be felt by manual palpitation by a doctor’s physical examination, and a patient in that condition would be in a severely distraught state:
+
+> Q    And that a palpable bladder is an indication of the patient being unable to urinate. That’s what I understand from you.
+
+> A    Patient being in Acute Urinary Retention.
+
+>     ….
+
+>      **_So palpable bladder would be where the patient is in distress and he’s got a bladder which is huge, and he cannot urinate. Then you put in a urinary catheter, you drain the bladder._** Okay. You leave the catheter on and you give him a specialist clinic appointment. **_So_** (Mr Hisham) **_was not in that condition._**
+
+>     \[Emphasis added\]
+
+### Whether the accused’s accident in 2008 could have led to Acute Urinary Retention
+
+47     At cross-examination, counsel raised a hypothetical situation premised on the reference to Mr Hisham reportedly having had an episode of Acute Urinary Retention in 2012, and where he had sought to make a connection with “_a very bad accident_’ that the accused had suffered in 2008, when he had been “_hit by a car which caused him to be flung from the front of the car to the back of the car_” and thus incurring a bad back injury[^70], counsel wondered if this might have caused the indicated episode of acute urine retention four years later in 2012.
+
+48     Dr Pravin expressed his view that making a connection would be difficult without a specific MRI diagnosis of a spinal problem, which might have mandated surgical intervention. This was complicated by his not having the consultation and treatment notes for 2008 and 2012. He was clear, however that a spinal injury that would cause urinary retention would be extremely severe, and would cause a host of conditions along with urine retention, depending on the part of the spinal cord that had been contused or resected. An injury on the lower spine would not just cause difficulty in urinating, but also in maintaining a penile erection, and even in passing motion. Mr Hisham would thus be expected to have such “_persistent and recurrent_” problems that should have been documented between 2008 and 2012, and which might persist to the time of the hearing[^71]. The absence of documentation of any such problems made it unlikely that Mr Hisham’s back injuries led to his asserted urine retention.
+
+### Dr Pravin’s opinion of accused’s apparent episode of Acute Urinary Retention in 2012
+
+49     At re-examination, Dr Pravin was asked to give his views on a defence’s exhibit[^72], which was a TTSH memorandum which referenced Mr Hisham’s attendance at CGH and stated, “_Previously in 2012_, (Mr Hisham) _had ARU during admission to CGH after back contusion_”. (“ARU” of course being an abbreviation for “Acute Urinary Retention”). Dr Pravin noted that the memorandum did not state that Mr Hisham suffered from a Urinary Tract Infection in that instance. On whether this reference of Mr Hisham suffering from Acute Urinary Retention in 2012 would make it **_more_** likely that he would suffer the Acute Urinary Retention again on 2-3 May 2016, Dr Pravin was unable to comment on any increased probability the accused having the condition four years later but was explicit in again reiterating that “_the point is, on the visit of the 3rd of May, there was no indication that_ (Mr Hisham) _was in Acute Urinary Retention._” [^73]
+
+50     Dr Parvin also found the association made between Mr Hisham’s reported back pain following the 2008 vehicular accident tenuous. He added that “_there was no such indications that he was in any back pain to suggest that_”[^74] when seen on 3 May 2016, and there was therefore no suggestion of any continuing and persisting condition arising from the 2008 accident. Dr Pravin also clarified that the absence of a manually palpable bladder meant that the amount of urine in Mr Hisham’s bladder was “_probably very minimal_”.[^75]
+
+### Why no catheterization was performed
+
+51     The absence of a palpable bladder was the principal reason why no ultrasound was performed and why doctors had concluded that there was no indication for catheterization. This was elaborated on by Dr Pravin who described what he expected to find in typical cases, including those involving prostate hypertrophy in older persons, which could cause obstruction in the bladder. He would note such usual cases to be persons presenting with “_very huge_” palpable bladder who would be in “_lot of distress_”, allowing doctors immediate insight that a catheter would be needed to relieve that obstruction[^76].Given that there was no distention on 3 May 2016 suggesting that urine was being retained in the bladder, there was no need for an in dwelling catheter, which would not have helped in the absence of a non-palpable bladder. Where Mr Hisham had not present with a palpable bladder, Dr Pravin asserted that it was not standard medical practice to perform an ultrasound to detect traces of urine in such circumstances.
+
+### The accused had no known renal or other medical conditions which would inhibit his urine production
+
+52     All for urine production, Dr Pravin agreed that a major factor for urine production would be the ingestion of water. He also noted that did not demonstrate any signs of acute renal failure, or any condition which would inhibit urine production. Dr Pravin stated that Mr Hisham, despite having a significant medical history, had never suffered acute chronic renal failure, as there had never been any record of the accused ever having received dialysis or similar treatment. Dr Lim Fang Jin’s notes had not described any sign of dehydration or the characteristic toxic appearance suggestive of kidney failure. There was thus no reason to suspect that Mr Hisham had any condition which affected his ability to produce urine.
+
+### Accused also suffered a subsequent episode of Acute Urinary Retention following Urinary Tract Infection two months later
+
+53     In addition to the episode of acute retention of urine (ARU) which was indicated in TTSH case-notes in 2012, Mr Hisham would later proffer medical memoranda to show that he had a medical history which included episodes of Acute Urinary Retention, including an episode in 10 July 2016, slightly more than _two_ months after his remand for urine procurement in 2-3 May 2016. I accept that Mr Hisham has shown instances where he appears to have had episodes of Acute Urinary Retention in 2012 and July 2016. There is a significant difference in the latter episode though because Mr Hisham **_did suffer from a Urinary Tract Infection_** (as proven by a urinalysis test) in the later episode_._ This would be starkly different from the situation on 2-3 May 2016, where Dr Lim had excluded the possibility of his having UTI after examining him, and Dr Larry Kang had similarly noted an absence of any abnormal symptoms. I will expound on this further in these grounds when I cover the defence case in detail.
+
+### Evidence of DW3 Kang Jun Hui Larry
+
+54     Dr Kang Jun Hui Larry (“Dr Kang”) was the third doctor called to give his evidence, albeit that he was called by Mr Hisham as his third defence witness. Dr Kang was a doctor of ten years standing and practiced with _Healthway Medical Group_. Mr Hisham had been referred to Dr Kang after the fruitless urine procurement exercise and had been asked to examine the accused to determine if Mr Hisham indeed had a medical condition which precluded his giving a urine sample. Dr Kang recalled questioning the accused and in the course of history taking, directly queried of he could pass urine. Mr Hisham had then claimed to have “_difficulty passing urine because of pain caused by_ (his) _varicose veins_”.[^77]
+
+### Observations upon physical examination
+
+55     In his examination-in-chief, Dr Kang indicated that he had performed a physical examination to verify that Mr Hisham’s vital signs, which included his heart rate and blood pressure, was normal. Significantly, Dr Kang noted that the accused’s abdomen appeared “_to be soft, meaning there is no pain and no discomfort in the tummy_”[^78]. Dr Kang also noted that Mr Hisham had no palpable bladder, which meant that the bladder was not full. In an abundance of caution, Dr Kang, who was uncertain about the relationship of the pain caused by the accused’s varicose veins and his inability to produce urine, deemed it best to refer Mr Hisham to CGH. He did recall mentioning to Mr Hisham the possibility that he might need a catheter to be installed to extract urine. But made it clear that the assessment on whether the procedure was truly indicated, would be a judgment call on the part of the A & E doctor, who had access to specialists in urology and equipment to detect the presence of urine in the bladder. Dr Kang was also alive to the possibility that a patient might be deliberately withholding his urine stating that “**_you can control your urine. If you refuse to give a sample, it is possible for you to hold your urine back_**.”[^79]
+
+Dr Kang had penned a brief report[^80] stating his observations:
+
+>     Date of report: 08/10/2019
+
+>     Dear Officer
+
+>     Re: Request for Medical Report
+
+>     Name : Mohd Hisham Bin Mohd Salleh
+
+>     The above mentioned was attended to by Dr Larry Kang on 03/05/2016 at 10.40 am.
+
+>     HISTORY FROM POLICE:
+
+>     On 2/5/16 @ 1630hrs PIC was arrested for consumption of drug. During custody PIC was unable to provide his urine sample for testing. DO CNB G directed for medical check-up. Fitness to provide urine. Kindly examine PIC. PIC claimed to have Hep C/Liver problem/Blood cancer and varicose vein.
+
+>     HISTORY FROM PATIENT:
+
+>     There was a significant past medical history of varicose veins, Hep C, fatty liver and rheumatoid arthritis. **_The patient complained of severe lower limb pain due to varicose veins and was unable to pass urine due to pain._**
+
+>      **_On examination, the patient was well with stable vital signs._**
+
+>      **_The patient's abdomen was noted to be soft, non-tender with no palpable bladder_**
+
+>      **_The rest of the physical examination was unremarkable._**
+
+>     OUTCOME
+
+>     The patient was referred to the A&E in view of his pain as well as inability to pass urine.
+
+>     The medical examination was concluded on 03/05/2016.
+
+>     Thank you.
+
+>     Healthway Medical Group Pte Ltd
+
+>     Date examined by HMG Doctor: 03/05/2016
+
+>     Examination Doctor: Dr Larry Kang
+
+>     Reporting Doctor: Dr Kang Jun Hui Larry
+
+>     \[Emphasis added\]
+
+### Cross-examination of DW3
+
+56     Referring to his annotations from the “Outcome” section of the form, Dr Kang had referred the accused to the A&E because of Mr Hisham’s twin claims of lower limb pain from varicose veins as well as the inability to pass urine. Dr Kang noted unusual absence of abdominal pain in that Mr Hisham’s “_tummy … doesn’t seem to be in any pain in any sort based on the examination of his tummy_” but he conceded that “_as pain is subjective_” he could not rule out that Mr Hisham was really in pain. As lock-up facilities were limited, he felt a referral to GCH’s A & E department would be appropriate to assess “_whether or not_ (Mr Hisham) had _any urine trapped in the bladder and whether (_he needed_) any further treatment for his pain.[^81]_ Dr Kang nevertheless was clear that his physical examination of the abdomen had not found any palpable bladder, allowing him to conclude that was not in Acute Urinary Retention, which would generally be characterised by the presence of a large amount of urine in the bladder.[^82]
+
+### Synthesis of police and medical witness evidence in prosecution’s case
+
+57     All three doctors, two of whom actually examined Mr Hisham just after his failure to produce urine on 3 May 2016, were clear that Mr Hisham did **_not_** have a palpable bladder, as characterised by a distension that could be felt as a result of the build-up and retention of urine in the bladder. Dr Kang, who had been called by Mr Hisham himself did not note the abdominal pain associated with urine retention and stated that all reported pain emanated from his lower limb varicose veins (which was medically unrelated to bladder function. Dr Kang was clear that a patient could wilfully withhold urine as the bladder muscles were voluntary. Dr Pravin was clear that Mr Hisham did not have any kidney dysfunction which would compromise his ability to **_produce_** urine, but noted that Mr Hisham’s non palpable bladder would suggest that he only had a **_minimal_** amount of urine in his bladder.
+
+58     It is also apt to consider the nexus between the events in the urine procurement process and the subsequent medical examinations by _Healthway Medical’s_ Dr Kang and CGH’s Dr Lim, which exclude the possibility of any medical cause for his failure to produce a urine sample. There would be an obvious correlation between Mr Hisham’s obvious and repeated disregard to Officer Faizal’s calls to drink the water proffered save for the single instance at 2.45 am would have., in the natural course, led to his having just a **_minimal_** amount of urine in his bladder, which was found non-palpable by two doctors in separate examinations.
+
+59     My impression from an extrapolation of the two sets of testimonial and documentary evidence from the lock up officers and three doctors was that Mr Hisham engaged in a **_deliberate campaign_** of non-cooperation during most of the six-hour urine procurement period, which included affecting “sleep”, and maintaining his apparent non-rousable state despite the prolonged efforts by lock up officers to stir him from his simulated stupor. Purposefully restraining from drinking to maintain only a small amount of urine in his bladder would certainly have made it easier for Mr Hisham to **_consciously control_** and manipulate the voluntary muscles of his bladder sphincter and restrain his urinary urge for the entire duration of the six-hour urine collection period.
+
+## PROSECUTION’S CASE IN RELATION TO THE POSSESSION CHARGE
+
+### Evidence of PW 7; Tan Wee Ming
+
+60     Turning now to the possession charge, the prosecution called PW7, Police Sergeant Tan Wee Ming (“Officer Tan“), who was attached to an Emergency Response Team in Bedok Division, and who in the late afternoon of 2 May 2016, found came across the accused’s son sleeping on a bench at the void deck, with his head resting[^83] on a black backpack. Officer Tan had made a check on him and subsequently also proceed to inspect the backpack Master Henry had been lying on. As Officer Tan thought that the son to be a missing person, he had looked into the backpack to check on the belongings with a view to ascertaining Master Henry’s identity. Within the black backpack, he had found. personal belongings, and probing the inner pouch, at a deeper part of the backpack, found an open and apparent used syringe. He had also found a small black pouch. Within the pouch, he had found three re-sealable sachets and one red straw. Having naturally found the contents suspicious, and upon showing the items and querying Master Henry, he was told[^84]:
+
+>     I ask him… whether he know what is this item and he’s … not sure what is the item is. Then I ask him, “This bag belong to who?” **_And he told me that this backpack is_** (_sic_) **_belong to the father._**
+
+61     After disavowing any knowledge of the items and informing Officer Tan that the bag belonged to his father, Master Henry had also revealed that Mr Hisham could be found at a nearby block where he was peddling keychains. Officer Tan had called for backup and been joined by W/SSgt Zarifah (“Officer Zarifah”), who had then taken custody of Master Henry, freeing Officer Tan, and his partner, to look for Mr Hisham.
+
+62     After Officer Tan and his partner initiated a ‘vertical policing’ search pattern by combing a block from the highest floor, they found Mr Hisham at the sixth floor, sitting on a wheelchair with another son, who was Master Henry’s twin. Officer Tan had asked Mr Hisham and the other son to go down to the void deck, where Mr Hisham’s wife Siti Hajah binte Sam’ian (“Ms Siti”) had met them with another of Mr Hisham’s sons, a younger sibling of the twins. Officer Tan had then separately posed questions about the contents of the bag to the accused and Ms Siti. Officer Tan indicated that Mr Hisham had indicated his ignorance of the nature of the contents of the bag after he had donned a glove and shown him the items therein, in PW7’s words “_He say he’s not aware of the item all the item_”[^85]. . In response to a ‘put’ question by counsel on an aspect which would form the principal thrust of the accused’s defence, Officer Tan responded emphatically[^86]
+
+> Q    And my instructions are that, when you asked him about the bag (counsel conferring) when you asked him about the backpack, he did tell you that he borrowed it from someone, at that time, downstairs?
+
+> A    No.
+
+> Q    “No.” I put it to you that he did tell you that he borrowed the bag from someone at the void deck.
+
+> A    No.
+
+63     The six items shown in this arrest report were seized with the accused, Ms Siti and Master Henry mentioned in the arrest report as the persons of interest. Officer Tan had handed the backpack to another Officer Zarifah, and escorted Mohd Hisham with your partner to CGH. No further searches were conducted on the accused, who did not say anything else.
+
+### Evidence of PW8 Zarifah Adilah Binte Zainol
+
+64     Officer Zarifah broadly corroborated Officer Tan’s account stating that on 2 May 2016, she had been called Officer Tan Wee Ming, to assist in an arrest case, and would need to hand over seized items. The events had been recorded in an arrest report filed at 5.28 pm on 2 May 2020[^87]. At the scene, Officer Zarifah saw Master Henry sitting at the bench at the void deck of Block 115, Bedok Reservoir Road, with Officer Tan and his partner in front of the boy. Sgt Tan had then informed her he had found items inside the bag and needed her assistance to take care of the boy. She recalled that these included a used syringe and other items which were suspected to contain controlled drugs and affirmed that Officer Tan had indeed shown her the objects of his discovery. Officer Tan had explained to Officer Zarifah that she was needed to “_take care of the custody of the son”_ as the son had been waiting for his father, who was suspected of having committed drug-related offences.[^88]
+
+65     Officer Tan returned with the accused, and another son, some 10 to 15 minutes later. Officer Zarifah noted Mr Hisham was on a wheelchair and holding to a “_handful_” of keychains. Officer Zarifah recalled Officer Tan showing the backpack and the items therein. These were the six items indicated in her arrest report. She did recall Officer Tan taking the items one by one from the pack, but could not recall the order of their presentation, as she had been focusing on looking after Master Henry. Officer Zarifa was, nevertheless aware of the nature of the items in the black punch as Officer Tan had shown her the items at the point of time of her arrival at the scene. Officer Zarifa did not have direct communication with the accused. Officer Zarifa did however speak to Master Henry who had repeated what he had earlier told Officer Tan to her; that the backpack belonged to his father[^89]. She recalled that only items stated in her report had been seized, and certain personal belongings in the bag had not been retained[^90]. Officer Zarifah had avoided directly handling the items while conveying the backpack to the station, where she had followed standard procedure in sealing the items in polymer bags. Officer Zarifa also recalled that despite her inclusion in the arrest report, Ms Siti never faced drug possession charges.
+
+### DNA Evidence
+
+66     DNA evidence played a significant role in the prosecution’s case. A blood specimen was obtained from Mr. Hisham for the purpose of generating a DNA profile for comparison. Mr Hisham’s DNA profile (with HSA reference S142367) was found to match exhibits A1D and A1E taken from the black backpack. which were respectively the packet containing a crystalline substance and a used syringe.
+
+### Evidence of PW8 Ng Shilen
+
+67     Ms Ng Shilen was an analyst with the DNA profiling laboratory at the Health Sciences Authority. She had tendered a seven-page report where the most significant findings were that swabs taken from the packet of crystalline substance (AID-SW) and the used syringe (A1E-SW) did reveal a DNA profile which conformed to the DNA profile sequenced from Mr Hisham’s blood sample. Her report made it clear that the possibility that the profile could belong to another person was infinitesimally remote[^91]:
+
+>     A mixed DNA profile was obtained from “AID-SW”, “S142367” can be included as a major contributor. The probability of another person selected from the Chinese, Malay or Indian population is estimated to be 1 in 23 trillion (2.3 X 1013) or 1 in 11 trillion (1.1 X 1013) or 1 in 40 trillion (4.0 X 1013) respectively. Additionally, there is a minor component that cannot be interpreted.
+
+>     A mixed DNA profile was obtained from “AIE-SA”, “S142367” can be included as a major contributor. The probability of another person selected from the Chinese, Malay or Indian population is estimated to be 1 in 100 quadrillion (1.0 X 1017) 1 in 56 quadrillion (5.6 X 1016), or 1 in 320 quadrillion (3.2 X 1017), respectively. Additionally, there is a minor component that cannot be interpreted.
+
+### Evidence of PW10 Haifaa Bte Mohamed Anwar, PW11 Poh Angie and PW 13 Gayathre Kalimuthu Mogan
+
+68     PW10 Haifaa Bte Mohamed Anwar (“Officer Haifaa”), an officer of CNB’s Forensic Response Team and PW11 W/SGT Poh Angie (“Officer Poh”) from SPF’s Investigation Division and PW13 HTS 15 Gayathre Kalimuthu Mogan (“Officer Gayathre”) were principally formal or procedural witnesses. Officer Haifaa had been the blood sample collector who had taken a sample of blood from Mr Hisham and had transferred this to an FTA card selected from a group of five by the accused. She had taken the usual steps to ensure the correct identification of the sample, including the use of barcoded stickers, and the sealing of the enclosing envelop before depositing the sample in a specially designed metal box.[^92] The procedure had been to obviate the risk of contamination.
+
+69     Officer Poh deposed on her taking into custody, safekeeping and appropriate conveyance of the six seized exhibits, stressing that save for the occasions that they were processed for analysis, the items were always maintained in their sealed polymer bags[^93]. Officer Poh also indicated that she had filed a report itemising the exhibits[^94].In the aftermath of his arrest Officer Poh had very brief interactions with Mr Hisham and “_vaguely_” recalled his sitting on a wheelchair, but did not recall his asserting that the backpack was borrowed.[^95]
+
+70     Officer Gayathre had performed the swabbing and packing of seized exhibits which included the resealable sachets where traces of crystalline substance had been found. She did not handle the crystalline substance itself, as her task had not been to assess suspected drugs, but pack the sachets to be conveyed to HSA for analysis, to see if DNA could be recovered from the sachets themselves.[^96] Officer Gayathre recalled swabbing the red cut straw, the sachet containing white crystalline substance, and the used syringe. The three exhibits that she packed were the two resealable sachets containing traces of white crystalline substance, packed into two different bags, and the small black pouch, for DNA analysis.[^97]
+
+71     There was no substantial challenge that the three witnesses had been essentially performing tasks they had been experienced at, and well trained in, and that all three had adhered to the established protocols of their respective work processes.
+
+STATEMENTS OF ACCUSED PERSON
+
+### Evidence of PW12 Mohammad Thorbani
+
+72     Mr Hisham gave three sets of statements in the course of investigations. These comprised a Long Statement given on 3 May 2016 at 5.35 pm[^98], a Further Statement given on 11 July 2016[^99], and two Cautioned Statements[^100] also made on the same day. In relation to the possession charge, the statements Mr Hisham gave between the two dates of 3 May 2016 and 11 July 2016 are starkly different, with the first being totally exculpatory, and the second being the converse. At trial, the accused seemed happy to associate himself with the former (i.e. the Long Statement), but mounted considerable resistance against the latter (the Further Statement), necessitating an _voir dire_ ancillary hearing to be held to determine the admissibility of the statement. After the ancillary hearing, I ruled that there was no issue of any threat inducement or promise having had been offered, or any other aspect of the recording process which would have raised doubts on the voluntariness of the statement.
+
+### The accused’s Long Statement recorded on 3 May 2016
+
+73     It would be apposite to set out **_both_** sets of statements for a proper juxtaposition. I will set out the points made in the ancillary proceedings after setting out the statement which was eventually admitted. Officer Thorbani recorded the following first five paragraphs of Mr Hisham’s long statement, which concern the possession charge (paragraphs \[6\]-\[12\] are in relation to events concerning the urine procurement process, and will be covered in these grounds). Officer Thorbani noted that Mr Hisham was on a wheelchair but did not recall him volunteering any information on the medical condition which had necessitated the use of the mobility aid. The Long Statement recorded by Officer Thorbani states[^101]:
+
+>     I am the above-mentioned person. I understand both Malay and English language. I chose my statement to be recorded in English Language as I am comfortable speaking in English. I am currently feeling fine and healthy and I have no issue to give my statement. I am known as "Hisham" among my friends and family as well. I am a divorcee with 5 children age from 3 years old, 5 years old, 12 years old twins and the eldest son 16 years old respectively. Whenever I am not around, my 1st ex-wife, "Suraya" will be able to take care of the twins and my eldest son, my 5 years old son will be taken care by 2nd ex-wife, "Nora" and my youngest son will be taken care by my girlfriend, "Siti Haj'ar" (Recorder's note: "Siti Hajar" is also the co-accused Siti Hajar Binte Sami'an (_identification particulars_). I am currently not working as I am deemed unfit to work by Doctor. I am currently staying at the above residential address. The house belongs to the parents of "Siti Hajar". I stay there with "Siti Hajar", her parents, her 2 siblings, her bed-ridden grandmother and her 2 biological children. I do have any drug records or police records. I am LT1-liable.
+
+> 2    On Monday (02/05/2016), Monday at about 1pm in the afternoon, I was from 'Boss Hotel' at Lavender area. My girlfriend, "Siti Hajar" which I usually call "Hajar", my 12 years old twins, my 3 years old son and myself were checking out from the hotel. We then took taxi and proceeded to Blk 115 Bedok Reservoir. My family and I went there to sell keychains and luggage tags around the neighbourhood
+
+> 3    Upon arrival, me and one of my twin sons, "Hazry" went up to the block and start selling key chains and luggage tags while my other family members waited downstairs. While doing so, 2 police officers went up the block and look for us. When they spotted us, they told us to follow them to the void deck. When we reached downstairs, one of the officers showed me a black bag pack. I recognised the black bag pack as it is the bag that we used to keep our clothing. They then showed me the content of the bag and they found the following items which were then seized;
+
+>> a)    Inside 1 black bag pack:
+
+>>> i)    1 small packet containing Ice
+
+>>> ii)    2 small packets containing traces of Ice
+
+>>> iii)   1 cut straw
+
+>>> iv)    1 black pouch
+
+>>> v)    1 syringe
+
+> 4    After further search, no other incriminating items were found. **_The police officers then asked us who does the items belongs to but I informed them I do not know who it belongs to. It is not mine. However, I did inform the police that the bag belongs to me._** The police officers also asked all my family members that waited for me at the void deck at that point of time about the items that were found in the bag. I was then placed under arrest together with "Hajar" and one of my twin son, "Henry" (Recorder's note: "Henry" is the co-accused known as Mohamed Henry Shah Bin Mohd Hisham, (_identification number_).
+
+> 5    I was then brought to Changi General Hospital (CGH) as the officers wanted to verify my medical conditions with the hospital. After some verification done, I was brought back to Bedok Division lock-up.
+
+>      _(The statement continues with_ \[6\] to \[7\] _which are unconnected with the possession charge_)
+
+> 8    I was then showed again the seized items mentioned above. I want to say that the items are not mine. **_However, the black bag pack is mine and it belongs to my family as well because all of us used the bag to keep our clothing._** I want to say that I do not know why or how the items are in the bag. I believe the items do not belong to either of my family members, my twin son, "Hazry", my 3 years old son, "Haqqi Ul Haq" especially my twin son, "Henry" and my girlfriend "Hajar". To what I know of, "Henry" does not know anything about drugs. "Hajar" also does not know or do any drug activities. All the clothing was packed at my 1 SI ex-wife's house located at (address) on Sunday night, (1/5/2016). However, I cannot remember the unit number. I and my twin children were the ones who packed the bag with our clothing into it. My children and I did not pack anything else in the bag except our clothing, toiletries, house keys and perfumes.
+
+> 9    From Kampung Bahru, I asked my children to carry the bag and "Henry" carried the black bag pack that I was shown earlier. The 5 of us then went to have a staycation at a local hotel. "Henry" carried the bag all the way until we reach 'Boss Hotel' at lavender Once we got ourselves a room, we checked into the room at stayed there for 1 night.
+
+> 10    The next day (2/5/2016), the 5 of us check out and as usual, my twin sons, my girlfriend and I packed our clothing, toiletries, house keys and perfumes into the black bag pack. Nothing else was packed bag into the bag except for the items that were brought from Kampung Bahru and to the Hotel. We then proceed to Blk 115 Bedok Reservoir from the Hotel by taxi. "Henry" was also the one who carried the same black bag pack all the way from 'Boss Hotel' to Bedok Reservoir.
+
+>     \[Emphasis added\]
+
+## THE VOIR DIRE
+
+### The accused’s arrest and circumstances leading to the recording of the Further Statement
+
+74     The ancillary hearing was primarily premised on Mr Hisham’ challenge against two documents; a Further Statement and a Cautioned Statement both recorded by Police Staff Sergeant Low Zuhui (“Officer Low”) on 11 July 2016. Officer Low had been assigned the case by Officer Angie Poh, and he had noted that the two resealable sachets containing traces of white crystalline substance are virtually empty and thus assessed that there was too little substance for analysis by the Illicit Drugs Lab of HSA. He had thought it more practicable to apply for these to be swabbed for DNA.to trace for persons who had prior physical contact with the sachet. Officer Low had found Mr Hisham to be elusive, and he felt constrained to place the accused under a Police Gazette as a wanted person after Mr Hisham. While on police bail, had defaulted from attending at the premises at Police Cantonment Complex when Officer Low had requested his attendance.
+
+### The Further Statement recorded by PW 14 Low Zuhui
+
+75     The accused had finally been arrested and been brought to Officer Low on 11 July 2016, when the following statement[^102] was recorded, where Mr Hisham had confessed to not just possessing the _methamphetamine_, but also having consumed a quantity before his arrest. The accused had also disclosed that he had not made any admission in his previous statement “_because I thought I could get away from it_”, This was in the context of Officer Low revealing the DNA analysis results to Mr Hisham. This Further Statement is set out:
+
+>     Further statement of Mohd Hisham Bin Mohd Salleh (identification number) recorded by SSGT Low Zuhui on 11 July 2016 at 1525 hrs at Police Cantonment Complex lock-up. Statement recorded in English.
+
+> 12    The previous statement consisted of 4 pages and 11 paragraphs read over to me in English. I affirm that the statement is mine. I am now told that my DNA was found on the packet of Ice which was recovered from the black haversack that ‘Henry’ was carrying.
+
+> 13     **_I wish to admit that the packet of Ice is mine. I had gotten it from a friend of mine for free. My friend is known as ‘Aim’. ‘Aim’ gave me the packet of Ice sometime in mid-April 2016._** He gave me the packet of Ice because he knew that I was feeling stressful. Immediately after ‘Aim’ gave me the packet of Ice, I went home at (address). I then smoke ‘Ice’ alone in the toilet using chasing the dragon method just like chasing Heroin.
+
+> 14    I poured the Ice on the aluminium foil and burned. I then used a piece of rolling paper to chase the smoke. I felt regretted abt chasing Ice. I then kept in the bag. I then forgot to throw the Ice away.
+
+> 15     **_I did not admit to the officer in the previous because I thought I could get away from it._** I did not provide urine sample is because I am in pain, it is difficult for me to urine.
+
+> 16    Since I came out of prison in June 2014, this is the first time I had relapsed on Ice. I hope that I can be out on bail to look after my son.
+
+>     \[Signed\]
+
+\[Signed\]
+
+Concluded
+
+@1548 hours
+
+>     The above statement was read back to me in English. I affirm that the statement is correct, and I do not wish to make any changes.
+
+SSgt Low Zuhui
+
+>     \[Emphasis added\]
+
+76     Mr Hisham had minutes earlier (at 3.19 pm on 11 July 2016) also made a grossly inculpatory declaration in his Cautioned Statement[^103] for the _methamphetamine_ possession charge. The handwritten portion of statement expresses the following:
+
+>      **_I admitted and I am feeling remorseful_**
+
+>     \[signed\]
+
+>     The above statement was read to me in English, I affirm it is my statement and I do not wish to make any changes.
+
+>     \[Emphasis added\]
+
+77     Mr Hisham’s account of events centring on the recording of the Further Statement in the course of the ancillary hearing was unfortunately rather rambling, expansive, and unfocused, which seemed largely a result of his being self-represented. A full description of the respective testimonies of the two involved parties; Mr Hisham and Officer Low, would add unnecessary prolixity to these grounds, As it would be only necessary to set out the areas where the accused had asserted instances of oppression, or where potential threats inducements of promises had been offered or given by the recorder of the statement, I have used Mr Hisham’s written submission as a proxy of his testimony on areas salient to the ancillary hearing. While Mr Hisham had generated a voluminous amount of transcript in the Ancillary Hearing, his rambling, and often disconnected, testimony could be characterised to be variations to the themes encapsulated in his written address.
+
+### The accused’s allegations in relation to the circumstances surrounding the recording of the statements
+
+78     Mr Hisham tendered a handwritten submission which summed up his bases for challenging the statement. In his submission[^104] as far as I could decipher from his somewhat erratic cursive handwriting, the accused states (the text is uncorrected except for annotations posted against the more significant spelling, grammatical and syntactical errors):
+
+> ·    I informed IO that I can’t sit too long due to my back pain before statement taken.
+
+> ·    I was shown by the IO the HSA result. But part of it was covered. He just pointed out my ID number and point out that it matches the result from the HSA.
+
+> ·    I still stand to the thing is not mind(sic). I even told him that my dirty clothing was in the bag. Maybe that is why my DNA is there.
+
+> ·    He was frustrated with me cause I say its(_sic_) not mine. I then ask him about the status of my son and wife but he didn’t wish to tell me about the matter.
+
+> ·    I was also told that even if I don’t admit at that moment CNB will still charged(_sic_) me base(_sic_) on the HSA result, **_I had told him find_**(sic) **_as I will get legal help_**.
+
+> ·    Then he started saying if you don’t want to admit, it’s up to you, I will just submit my report and carry on charging you and also the others. Since you don’t want to admit and Siti Hajar and your son also say they don’t know. Then I just let the court settle.
+
+> ·    I told him that my wife and son have no related records and personally I believe that the thing can’t be theirs. I carry on pleading with him not to put them through this. He responded me saying “You don’t admit it and they also don’t admit, so I just send all the evidence and reports and let the courts handle lah. He carry on saying that “I never see anyone like you before. You willing to put your wife and son to prison to cover yourself”. I said that its him that charged them and put them through this. **_I said that my son is still young so I don’t think he will be in trouble as a suspect. But my wife had not been charged before or even being a suspect in any case. Why must the IO want to charge her._**
+
+> ·    He said “Who say your son not suspect? The bag is with him what, I also don’t wish for them to go face this but you don’t want to admit it is your thing.” He then say “Hisham you be gentle(sic) and just admit what’s yours. You know that no matter what you can’t run. So just admit I will chop chop settle all this. Then whatever sentence you get you get you come out don’t this anymore lah”. I told him I had kicked this habit and if the thing really mine I would already admit and never want my wife and son to be in trouble. But the actual fact us the thing is not mine how to admit.
+
+> ·    I decide to admit to not want my wife and son to go to the process of being charges. **_Although I am very sure that they are innocent and will eventually drop the charges._** But the thought of my wife and sin to have to go through the process.
+
+>     \[Emphasis added\]
+
+79     As can be seen from Mr Hisham’s admissions, the allegations in relation to his opposition to the admission of the statements run in three broad areas:
+
+> (a)      **Oppressive conditions;** as the accused was experiencing an episode of back pain during the time the statement was recorded. Despite his telling Officer Low about this and requesting that painkillers be given during the recording of the statement, Officer Low had rejected his request.
+
+> (b)      **Threats made**; as Officer Low had allegedly threatened to charge his wife and son if he persisted in his refusal to admit to the drug possession charge.
+
+> (c)      **Deceptions perpetrated**; where Mr Hisham claimed to have been misled when he was shown the HSA DNA analysis report, in the sense that he was not made aware that the DNA of another person, an unknown female, had also been found.
+
+### Specific assertions by the accused were vague
+
+80     It was difficult to commit the accused to specific **_details_** as to the alleged threats that had been made, despite various attempts to invite him to clarify. Mr Hisham’s manner of giving evidence had a tentative quality, where he would obliquely drift off without giving a specific answer to the question. An example is the example below where the learned DPP, at cross-examination, valiantly tries to understand what Mr Hisham meant by to communicate by the threat that his son and wife (actually _fiancé_ ) would be “**_in trouble_**” Mr Hisham stated that this would be the ‘threat’ to “charge everybody” and he then digressed to the difficulties of making bail without indicating if this was part of the ‘threat’ uttered by the officer: [^105]
+
+>   
+| 
+
+DPP:
+
+ | 
+
+Firstly, (Officer Low) said that **_your son and wife will be in trouble_**. But any point of time, did he tell you what trouble means?
+
+ |
+| 
+
+Accused:
+
+ | 
+
+As I say, he said, **_he will charge everybody_**. **_Let them_**\---no, let the---**_then go to Court_**. Whether you know, they get bail or what then that’s up to us whether we manage to bail or not. Because I know we can. Yah, as I say, putting my wife through that and my son through that is something I fear.
+
+ |
+
+  
+  
+
+81     The learned DPP has helped considerably by putting together a taxonomy of the assertions raised by the accused in the course of the Ancillary Hearing in his own set of Submissions of Prosecution[^106], which I will reproduce below:
+
+> (a)    During the cross-examination of IO Low, Hisham claimed that IO Low had stated” I will put you son and wife and charge them and let them go through everything and what type of father you are to put your son and wife in the situation”:
+
+> (b)    During Hisham’s evidence-in-chief Hisham claimed that IO Low made several claims:
+
+>> (i)    First Hisham claimed that IO Low told him “your son and wife **_will be in trouble_**”, and that he understood IO Low to be using his son and wife to make him admit;
+
+>> (ii)   He later claimed that IO Low told him “why must you drag this, if it belongs to you it belongs to you, why must you **_drag your wife and kid into this type of thing_**. Just admit finish already what”;
+
+>> (iii)   Hisham also claimed that IO Low said “if you don’t want to admit, I will **_charge everybody and let the judge decide_**”. Hisham clarified that the threat was targeted at “everybody”, but he understood it to mean his wife and son.
+
+>> (iv)   Finally, Hisham admitted that there were no physical threats, and it was his own thoughts about what kind of father and husband he will be if he had allowed his wife and son to go through the investigations.
+
+> (c)    During Hisham’s cross-examination, he returned to the claim that IO Low had in fact threatened to charge his wife and son if he did not admit. At various points, He also revert to his claim that the threat was targeted at charging “everybody”, instead of his wife and son.
+
+>     (Emphasis in the original\]
+
+## Account of recorder of statement Officer Low Zu Hui
+
+82     Given the allegation mounted, it would be apposite to refer to the evidence of the only other protagonist in the episode where the Further Statement and Cautioned Statements were recorded; Officer Low Zu Hui.
+
+### Accused did not complain of any pain or ailment before or during the statement recording period
+
+83     Officer Low indicated that Mr Hisham had first undergone a medical examination was to ascertain that he would be fit to enter the lockup as a detainee. He had been told that Mr Hisham was found to be medically fit for detention and had been told that “_all the vital signs are fine_”[^107]. More significantly, Mr Hisham had not complained to Officer Low that he was suffering any form of discomfort. Officer Low did not recall the accused complaining to him of any discomfort that might have suffered. Mr Hisham had merely mentioned that he had seen the doctor, and, um, he did not mention being in discomfort before or during the time the statement was recorded[^108]. Officer Low stated that he would also, as a matter of protocol, will check with the accused person on whether is fit and comfortable enough to actually commence the statement recording. Further at any point of time thereafter, if the person in custody felt unwell, or simply chose not to carry on, he would have not proceeded with the statement taking. Officer Low added that it would the usual procedure to activate the in-house doctor to go to the lock-up and to check on any patient who claimed to be unwell. Officer Low emphasized that during the whole statement recording period, there had not been any point where Mr Hisham has expressed any distress or discomfort[^109], and there was thus no incident necessitating the intervention of the lock-up doctor. The witness categorically denied Mr Hisham’s claim that he had made complaints of back pain and that the accused’s request to take pain killers had been denied.[^110]
+
+### Accused was given a given a complete explanation on how the DNA match between the exhibits and a reference sample he provided was determined
+
+84     Regarding the DNA report, Officer Low clarified that Mr Hisham had been shown, and been allowed to read, a physical copy of the report but was not allowed to retain a copy. The two had gone through the report together, but it was the accused who had first raised queries and asked Officer Low to about the interpretation of certain numerical sequences in tables in the report. Officer Low conceded that he was not an expert and hence “_was not able to give a very specific answer at that point of time_” [^111] save that these were generated by the DNA lab. He had merely compared the DNA report with another document which had generated a separate DNA profile from a sample provided by Mr Hisham, and explained the co-relation between the assigned identity number in that report and corresponding reference where that could be found in the DNA report, to explain a finding of a DNA trace which was consistent with the profile generated by Mr Hisham’s DNA sample. [^112]
+
+### Position that no “threats” were uttered against family members
+
+85     Officer Low was also adamant that Mr Hisham’s allegations on his use of pressure tactics in relation to threats to charge Mr Hisham’s then fiancé and Master Henry and “_let then go through everything_”, berating the accused “_what type of father you are to put your son and your wife in that situation_” were all baseless. He recalled that in Statement A, the accused after being read the charge and the warning, had spontaneously signalled that he “_admitted_” at the third page of Statement A, and also that he was “_feeling remorseful_”.
+
+86     Officer Low added that Mr Hisham was given an opportunity to an opportunity to amend or add on to this cautioned statement and was given ample time to in fact consider what he wanted to say. Mr Hisham eventually did not make any changes, and willingly signed the statement with an indorsement that there was nothing that he wished to add. During the statement recording process, Officer Low was satisfied that Mr Hisham was able to follow the whole recording process, and did not seem to have any difficulty in understanding any of the questions or statements the investigation officer had made to him. He had observed the accused’s demeanour and noted that he was “_very clear. He is very sober, he is able to understand and follow me…word by word_ (on) _the charge_.” [^113]
+
+87     Officer Low categorically denied hanging the spectre of the charging of Mr Hisham’s “wife” and son as a basis to threaten him to make the admission, Officer Low added that the decision had already been made not to proceed against Mr Hisham’s wife and son by then. This was because both had no drugs detected in their respective urine specimens. They had both also given statements, which had convinced the investigation that there was no basis to take any further against them, as there was no reason to believe that either had been involved in illegal activities surrounding the discovery of the drugs.[^114]
+
+88     Officer Low displayed candour in stating that Mr Hisham did in fact ask about his son’s case, asking “_questions about what happened in my son’s case_”. He had been professional in eschewing comment, merely telling the accused that the two were different cases, and that the investigation he was conduction was exclusively on Mr Hisham’s case. He had enjoined the accused to “_just stay focused and concentrate on_” his own case[^115]
+
+89     Officer Low was clear that there had been no conversation between him and the accused which would have led him to believe that his son and wife would be implicated in drug activities. He had never made any reference to the two, and it had been Mr Hisham who had broached the subject of his son’s case. The witness also recalled that the accused had later inquired about his wife as well and had asked if charges would be brought against them, but he had refrained from volunteering any information about either, and steadfastly redirected him to focus on his own case, and limit discussion to just his case.
+
+### Accuracy of recording
+
+90     PW14 stated that no interpreters had been used in the recording of the two statements where only he and the accused had been in the room. This was because Mr Hisham had indicated that he preferred to use English, and the accused had stated his highest attained educational level to be as an “A-level student’[^116]. Officer Low stated that if the accused had requested interpreter assistance before embarking on the statement recording, he would have called a Malay officer or an official interpreter to step in.
+
+## DECISION ON VOIR DIRE
+
+### The accused’s vacillation and wavering make his testimony unconvincing
+
+91     To state my impression of Mr Hisham’s evidence in the simplest terms, it was difficult to take as earnest the accused’s claim that he had been browbeaten into making a confession by “_threats_” from Officer Low if he could not even **_describe_** the threats in a coherent or consistent manner throughout his very lengthy testimonial evidence. These discrepant claims were aptly catalogued by the learned DPP when he described the following variations:
+
+> 10    It is clear from the above that Hisham’s claims had not been consistent throughout the evidence. **_Hisham’s allegations vacillate between a specific threat to charge his wife and son, to one where IO Low claimed to want to charge everybody and let the judge decide, and finally to one where IO Low purportedly made Hisham feel guilty about his duties as a father and husband. These are separate and distinct claims, and it is unclear when and how these threats were made_**. In fact, it is also clear from the proceedings that, at various stages of his evidence, Hisham had mixed his own inferences and thoughts with what he alleged IO Low to have said. This lack of clarity works against the cogency and credibility of Hisham’s claims.
+
+>     \[Emphasis added\]
+
+### Accused failed to make any exculpatory comments favouring his wife and child in challenged Statements A and B
+
+92     The accused’s narrative that his concern for the well-being of his wife and child were front-and-centre in his unwilling admission of guilt is rendered dubious by his inexplicable failure to make any **_exculpatory_** references to her or his child’s benefit in either of his statements made on 11 July 2016. It would be quite expected, if he were so motivated, to tell the investigation that he was the sole person connected with _methamphetamine_ sachets and drug paraphernalia found, and that none of his family members were complicit in, or cognisant of his drug-related activities.
+
+93     The accused was unable to explain why he had never subsequently raised the alleged pressure tactics by Officer Low at any point, after it had become clear that his wife and son would not be charged. At cross-examination, while agreeing with the learned DPP that “_a threat in this manner is quite serious_”, the accused purported that he had refrained from making a complaint because he did not trust the police sufficiently to look into his grievance against a CNB officer, and that there was no “_concrete evidence_” that this had indeed occurred as he had not been subject to any “_physical abuse_” at the session.[^117] Mr Hisham also conceded to failing to raise this with a police investigation officer when he was subsequently investigated for a separate matter[^118], nor had he mentioned this when he was produced in court.
+
+### The accused’s account in Statement B was too detailed to be one made under coercive pressure
+
+94     Looking closely at Statement B, it appeared implausible that this richly detailed statement was made up ‘_on-the-fly_’ by Mr Hisham in the afternoon of 11 July 2026. Along with the outright admission that the packet of _methamphetamine_ found was his, Mr Hisham had also provided a narrative which included the _provenance_ of the specified drug, the name of his supplier (his friend “_Aim_”), the date of acquisition (mid-April 2016), contextual transaction details (the _methamphetamine_ was provided _gratis_ as “_Aim_” was sympathetic about Mr Hisham’s “_stressful_’ state of mind), place of consumption of drug (home, in the toilet), mode of administration, and forgetful retention of the remainder in the black backpack, leading to its recovery. What is plainly remarkable is the revelation of such a copious quantity of extraneous background information, which actually included Mr Hisham’s prior **_consumption_** of _methamphetamine_, when the parameters of the investigation would be circumscribed around the **_possession_** of the _methamphetamine_ actually found, which was ostensibly the residual quantity of the original purchase. It appeared unlikely to me that one would **_unburden_** himself in such a generously effusive manner as to offer extraneous details of his prior **_consumption_** of a portion of drugs found (thus incriminating himself by founding the basis for another separate offence) when placed in an alleged state of coercion. These disclosures, rather, seem a paradox from the conventional expectation that a person under claimed duress would volunteer as **_little_** information as possible to his putative oppressor.
+
+### The accused’s admissions on the methamphetamine possession charge were likely predicated on his seeing the HSA DNA analysis
+
+95     It is notable that Mr Hisham’s statements both reflect his admission on the _methamphetamine_ possession charge only, and that the accused had continued to contest the other charge in relation to his failure to provide a urine sample. This situation would make sense if Mr Hisham had indeed been deeply affected by the finding of what appeared to be his DNA on the empty sachet and the syringe found in the pouch taken from the black backpack, and had, at least momentarily, on 11 July 2016, found it better to **_‘come clean’_** on the circumstances behind discovery of the syringe and the sachets, including one which contained a small quantity of _methamphetamine_, which formed the basis of the possession charge. He would have likely made the detailed confession upon a perception that further resistance on **_this_** charge would be **_futile_**, given the seemingly insurmountable forensic findings.
+
+96     As for the other charge, the circumstances show that Mr Hisham’s must have believed that his options were still **_open_** to claim a medical exigency, given the recency of his bout of Urinary Tract Infection in July 2016, which caused Acute Urinary Retention, and which he could, in turn, to claim that he had been afflicted by a similar episode of Acute Urinary Retention, while in custody on 2-3 May 2016, rendering him unable to provide a urine specimen.
+
+### The paradox of the accused’s claimed ignorance of an aspect of the DNA report against his motive to protect his wife
+
+97     The scenario set out in the discussion above, would be the only plausible setting for his backtracking on the admissions made in the Further Statement and the Cautioned Statement. Mr Hisham claimed to have been misled when he was shown the HSA DNA analysis report, in the sense that Officer Low had allegedly taken steps to obfuscate the fact that that the DNA of another person, an unknown female, had also been found on the pouch containing the sachets and syringe. Mr Hisham’s claim in this respect would prove to be a **_double- edged sword_**, as his claim that Officer Low had prevented him from seeing a section of the HSA DNA report which had specified that an unknown female’s DNA profile was also found on the pouch, would necessarily mean that he was **_totally ignorant of a key piece of evidence that might have implicated his wife_**, being the only female with him at the time the black backpack (which contained the pouch) had been seized from Master Henry, his son.
+
+98     In essence, Mr Hisham’s claimed ignorance of the reference to an unknown female’s DNA in the HSA report ironically **_tears against his very case of voluntarily allowing himself to be implicated into writing the inculpatory statements to protect his wife_**. This is so since, absent this detail of the female DNA found on the pouch, the accused would have no basis for concern that his wife was even **_linked_** to the _methamphetamine_ found. There would concomitantly be no foundation for any apprehension that she would face police or CNB action. For completeness, I should add Officer Low’s explanation that **_no_** reference DNA sample of the wife was ever taken from her, as she was no longer considered a suspect after her statement was taken, and her urine sample yielded a negative result[^119]. The DNA traced on the pouch had thus remained that of an unknown female. Simply stated, Mr Hisham’s evidence lacked **_internal consistency_** in this regard.
+
+### PW14 provided coherent and considered evidence
+
+99     While Mr Hisham seemed prone to give outlandish responses that beggared credibility akin to those detailed above, I found Officer Low to be a witness who gave calm, considered and well-framed answers. IO Low, by his self-possessed demeanour and coherent court testimony, struck me as a conscientious and restrained officer, who seemed clear of the need to maintain professional boundaries, and demonstrated this by resolutely eschewing any reference to the status of investigations against the accused’s wife and child, despite Mr Hisham’s repeated solicitations for details.
+
+**_No basis to found oppression in this case_**
+
+100    Upon a close analysis of the surrounding circumstances, I am satisfied that Officer Low’s account to be likely a closer approximation to the actual conditions at the time he had recorded Mr Hisham’s statements. Mr Hisham’s allegation that he was not allowed to take painkillers seems to be an incongruous departure from the situation that he had experienced in 2-3 May 2026, where his own account was that he had been liberally allowed to take painkiller medications[^120] at several intervals, which appeared to have been the standard protocol. It seemed unlikely that the CNB would have so starkly departed from this procedure and maltreated Mr Hisham because he had absconded from bail. Officer Low had made it plain that the converse applied, and that if Hisham had made any such complaints, he would have paused the statement recording exercise, and ascertained if the accused needed to be medicated, or consult the doctor administering the lock-up facility.
+
+101    I found it highly implausible that PW14 would risk compromising the recording process knowing that Mr Hisham, who was a demonstrably a vocal and assertive person, could well have complained of misconduct on the officer’s part. As stated above, there was of course never any complaint by Mr Hisham up to the point of his challenge of the statements at trial of any such misconduct. I thus accept IO Low’s evidence that Mr Hisham did not complain about any pain during the recording of his statements. It is of course possible that Mr Hisham did experience some pain on 11 July 2016, having recently undergone some medical travails, but I am satisfied that he did not articulate this to any party, including Officer Low. His not calling attention to any pain he may have been experiencing would suggest that any pain he might be suffering was well within his tolerance threshold.
+
+102    Even taking Mr Hisham’s allegations (which I rejected) to be true, his claimed travails do not amount to oppression. To recapitulate, Mr Hisham’s account actually has Officer Low inquiring if he was “_okay or not_” Mr Hisham’s account was that he did mention that he was “_okay_’, but did “_highlight to him that I couldn’t sit too long._” He had asked for Panadol or a similar painkiller. Officer Low had allegedly told him “_never mind_” and “_you can_ **_tahan_** _or not a bit_”, and had reminded him, in apparent consolation, that he had just had a meal stating “_just now you got eat_”[^121]. “_Tahan_” in this context is, of course, the colloquial word for “endure”. Mr Hisham understood that he was being asked to endure for a while, and that Officer Loh had promised to expedite the recording stating “_You see can you endure the pain for a while because I do chop chop and you can go to the lock-up and get your medication_.”, ‘_Chop chop_’ here being the slang vernacular for speedy or prompt. It is notable that by his own account, Mr Hisham still could summon the will and gumption to protest: “_Sir pain you know, how long you want to wait?_”[^122].
+
+### Authorities on oppression as a basis for vitiating voluntariness in statements
+
+103    The doctrine of oppression has been codified in the form of Explanation 1 to section 258 of the Criminal Procedure Code (Cap 68, 2012 Rev Ed), which proscribes the admission of statements made where the free will of the maker of the statement had been sapped, by acts of a person of authority which would tend to sap such free will.
+
+104    Even in his best case, the case law in this area does not support Mr Hisham’s claim that he suffered oppression. In _Yeo See How v PP_ <span class="citation">\[1996\] 2 SLR(R) 277</span> (“_Yeo See How_”); the accused had sought to challenge a statement by, inter alia, alleging oppressive conditions at the time, claiming that he had been cold and hungry, and suffering from gastric pains. Chao Hick Tin J (as he then was), delivering the grounds of judgment of the Court of Appeal, rejected the appellant’s claim, holding at \[40\] of the judgment:
+
+> 40    As noted by the Court of Appeal in _Panya Martmontree_ v _PP_ <span class="citation">\[1995\] 2 SLR(R) 806</span> **_there is no necessity_**, contrary to what may have been thought in various cases, including PP v Law Say Seck <span class="citation">\[1971\] 1 MLJ 199</span>, **_for interrogators to remove all discomfort. Some discomfort has to be expected – the issue is whether such discomfort is of such a great extent that it causes the making of an involuntary statement_**. Since the discomfort here was clearly not great, we did not see any doubt was raised that the statement was involuntary.
+
+>     \[Emphasis added\]
+
+105    Essentially Yeo See How stands for the proposition that oppression is not made out merely because an accused person experienced some form of minor discomfort. There was no necessity for interrogators to remove all discomfort, provided what discomfort there was did not render the statement involuntary. I would note that the statements did not take an unduly long time to record. P16 (the Cautioned Statement), which substantively comprised a single handwritten line with Mr Hisham’s succinct concession that he _“admitted and am feeling remorseful”_, was recorded in three minutes from 3.16 pm to 3.19pm. Thereafter the four paragraphs of P17 (the Further Statement) were recoded between 3.25pm and 3.48pm. The entire process thus took some 32 minutes.
+
+106    The subsequent case of PP _v Tharema Vejayan s/o Govindasamy_ <span class="citation">\[2009\] SGHC 144</span> (“_Tharema_”), reinforces the position that minor discomfort is, in itself, insufficient to constitute oppression. There, the accused, who had cervical spondylosis, and declined analgesics, had claimed that his statement had been involuntary, principally on account of his neck pain. Tay Yong Kwang J (as he then was), held at \[71\] of the judgment:
+
+> 71    On the evidence, I rejected the accused’s allegations that his statements were not voluntary because he was weak-willed or upset during the recording of the various statements as a result of feeling cold the night before or of lack of sleep or as a result of his neck pain.
+
+### Whether any threat, inducement or promise featured in the procurement of the statements
+
+107    An apt starting point for this area discussion would be to note the provisions of section 258(3) of the Criminal Procedure Code, which stipulates that the court shall refuse to admit an accused’s statement if the making of the statement appears to the court to have been caused by **_any inducement, threat or promise_**, which had **_reference to the charge_** against the accused, **_proceeding from a person in authority_**, and **_sufficient to give the accused grounds_** for supposing that by making the statement he would gain any advantage or avoid any evil of a temporal nature in reference to the proceedings against him. (The distinct elements are highlighted in italics).
+
+108    In _Tharema_, then Justice Tay referenced _Public Prosecutor v Lim Thian Lai _which had set out a summation of essential principles and the burden of proof:
+
+> 48    The test of voluntariness is both an objective and subjective determination. This was succinctly summarised in _Public Prosecutor v Lim Thian Lai_ <span class="citation">\[2005\] SGHC 122</span> at \[32\]:
+
+>> It is also settled law that the test of voluntariness comprises elements of both objectivity and subjectivity. An actual threat, inducement or promise must be found to factually exist. Having established that, the facts must be carefully scrutinised to determine whether the threat, inducement or promise operated on the mind of the accused during the material period, inspiring either the hope of escape (whether partial or full) or fear of punishment in relation to the actual or prospective charge; see _Chai Chien Wei Kelvin v PP_ \[1999\] 1 SLR 25; _Sharom bin Ahmad v PP_ \[2000\] 3 SLR 565. In the final analysis, the court will review all the circumstances of the case in determining whether there were any reasonable grounds for the accused to assume that he would receive any benefit or avoid any punishment: see _Tan Boon Tat v PP_ \[1992\] 2 SLR 1. If a threat or inducement is indeed found to have been made, then the prosecution must prove beyond any reasonable doubt that the original threat or inducement had effectively dissipated when the statement(s) in question were made: see _Lim Sing Hiaw v PP_ \[1965\] 1 MLJ 85. It is not incumbent on the prosecution, however, to prove that there is no lurking shadow of doubt or minute vestiges of fear in the mind of the accused before a statement is recorded: _Panya Martmontree_ at 349 and see s 24 of the Evidence Act (Cap 97, 1997 Rev Ed).
+
+109    As can be seen above, the test of voluntariness is binary in nature with objective and subjective aspects. In the instant case I am satisfied that Officer Low had **_not_** given any inducement or promise, nor levied any threat against the accused. Officer Low was, if anything, extremely careful and circumspect in his dealings with the accused, to the point of his persistent refusal to discuss any issue relating to the accused’s wife and child during the time the statement was recorded, declining Mr Hisham’s repeated entreaties to update on what was being done in their respective cases. Officer Low had continued nudging him to just focus on his own case at hand. This was the **_only_** factual aspect of the session that both parties were in agreement with.
+
+110    Rather perversely, the accused had sought to turn the tables on Officer Low’s cautious position to characterise his actions to be a **_deliberate_** withholding of information on his wife and child to impose **_pressure_** to confess through maintaining an aura of uncertainty. The formulation of section 258(3) CPC envisages an **_active_** threat, inducement or promise, and a **_passive_** withholding of information that was requested by the accused, would not apply to vitiate the admissibility of the statement given.
+
+111    Given my view that Officer Low’s version was the one which represented an accurate and reliable rendition of what had actually occurred in the afternoon of 11 July 2016, I will then, for the sake of completeness, primarily consider the **_distaff_** side on a “_what if_ “ basis, on the whether Mr Hisham would have indeed .yielded to the claimed statements, in the expectation of gaining any advantage or avoiding any negative outcome with regard to the proceedings against him
+
+### An exhortation to ‘tell the truth’ does not, of itself, constitute a threat or inducement
+
+112    I will first look at the nature and tone of the asserted threats. Putting aside the identified inconstancies mentioned above and unpacking the various statements attributed to Officer Low. The first would be to examine the statement “_why must you drag this_, **_if it belongs to you it belongs to you_**_, why must you drag your wife and kid into this type of thing._ **_Just admit finish already_**”
+
+113    The law is trite that a mere exhortation to tell the truth does **_not_**_, per se_, constitute any threat, inducement or promise; _per_ Yong Pung How CJ (delivering the grounds of judgment of the Court of Appeal) in _Osman bin Din v Public Prosecutor_ <span class="citation">\[1995\] 1 SLR(R) 419</span>; <span class="citation">\[1995\] SGCA 25</span> at \[33\]. This case overruled the earlier decision of _Lim Kim Tjok_ v _Public Prosecutor_ \[1977-1978\] SLR(R) 403; <span class="citation">\[1978\] SGHC 63</span>). It was, nevertheless, held to be incumbent on the court to consider the context upon which the words was uttered, and also to juxtapose against the conditions the accused faced, as well as other words uttered at the time to assess if the call to “_tell the truth_” could have any effect on the accused’s willingness to give the statement: _Public Prosecutor_ v _Ramasamy a/l Sebastian_ <span class="citation">\[1990\] 2 SLR(R) 197</span>; <span class="citation">\[1990\] SGHC 68</span> \[13\]-\[19\].
+
+114    An analysis along these lines would show Officer Low’s words to seem to be nothing more than **_moral suasion_** to simply state the truth “_if_” indeed the sachet “_belong_(ed) to” Mr Hisham. The “_dragging_” of his wife and child seemed to be allusion to the attendant consequences of continued prevarication on Mr Hisham’s part, and did not seem to be a threat, especially where Officer Low had not specified any action to cause the wife or son to be “_dragged_” or otherwise involved in the matter.
+
+### Claimed ‘threat’ to charge accused’s wife and child
+
+115    Another alleged statement, however, does contend that Officer Low warned that he might take a precise course of action against the accused’s wife and child. At the cross-examination of PW14, Mr Hisham had challenged Officer Low to have stated ”_I will put your son and your wife and charge them and let them go through everything and what type of father you are to put your son and your wife in that situation_”[^123]. Mr Hisham offered another variation during his own re-examination: “_Come on, what type of father you are? … If you … don’t want to admit know, you bring all your family through… this type of problem_.”[^124]. The alleged statement (for which there were several variants in the course of the proceedings) of charging either “_everyone_” or Mr Hisham’s “_son and wife_” seem to come closest to being regarded as threats. Mr Hisham’s indication was that the complete “threat” was “_just charge everybody and_ **_let the Court decide_**_.”[^125]_ A contextual reading would be that the officer was allegedly warning that Mr Hisham’s wife and son would continue to face investigative and judicial processes to establish factual guilt and legal liability because his failure to admit would leave the issue of responsibility or culpability (among a possible pool of suspects) uncertain.
+
+### Admitting to committing an offence carrying a mandatory minimum two-year jail term would have been a grossly disproportionate gesture to spare his wife and child temporal trauma of arrest and possible remand
+
+116    It was Mr Hisham’s claim that the possibility of his wife and son having to face possible arrest, and having to be bailed out after being charged, had compelled him to make the admissions. In his own words, Mr Hisham had made the admission so that “_I will actually save my family from getting into trouble and going the process of going to remand and bail and all that_”[^126].
+
+117    Even if Officer Low’s alleged communication could be construed to be a threat, Mr Hisham would still face the question whether the content of that communication by Officer Low would have given him grounds for supposing that by making the statement he would “_gain any advantage or avoid any evil of a temporal nature in reference to the proceedings against him_”. As would be evident from its phrasing, this inquiry would be considered from a **_subjective_** perspective.
+
+118    Given what was known of Mr Hisham and the background circumstances of the matter, I doubted that that the statements even if uttered by Officer Low, would have significantly affected Mr Hisham or caused him to yield where he otherwise would not. I will now explain. At the point of the ancillary hearing, I would. of course, not have been aware of the sheer scale of Mr Hisham’s criminal history as his antecedents would only be revealed once and if he were convicted. I would, nevertheless, have been cognizant that Mr Hisham faced a mandatory minimum sentence of two years’ imprisonment as a repeat offender. More importantly, Mr Hisham **_himself_** was aware of the penalty he faced, as the two-year mandatory minimum sentence was indicated at the foot of the charge, which was set out at the very first page of the Cautioned Statement[^127].
+
+119    Given this, Mr Hisham’s account beggared rationality on a **_cost_**\-against-**_benefit_** analysis. It appeared unlikely, to say the least, that Mr Hisham, knowing the consequences, would undertake the grossly **_disproportionate_** gesture of admitting to committing an offence carrying a mandatory minimum two-year jail term in a claimed bid to spare his wife and child the very temporal trauma of arrest and possible remand. They would have been held before bail was made, or an administrative bond (in Master Henry’s case) was executed. These travails while doubtlessly stressful, would likely be for a duration measured in **_hours_**. This would be relatively insignificant against the penalty of at least two **_years’_** imprisonment that the accused was apparently willing to parlay, in giving a definitive statement acknowledging drug possession (not to mention the thorough back history he had also supplied detailing his consumption).
+
+120    Mr Hisham’s claim seems all the more improbable when viewed against the backdrop of circumstances leading to the discovery of the drugs that the accused stood charged with. To recapitulate, Mr Hisham’s son; Master Henry, had been found, sleeping at a void deck, on the black backpack containing the _methamphetamine_, in a situation where the attending officer, Officer Tan Wee Ming had suspected the child to be a missing person. It later transpired that Master Henry had been left to his own devices at the void deck while the accused sold key chains at the sixth floor of a neighbouring block. The above is set out not to critique Mr Hisham’s parenting style, but to illustrate the obvious disconnect between this witnessed situation, and the scenario that Mr Hisham sought to paint of his being willing to suffer two years’ incarceration rather than have his wife and child face the stresses of possible arrest, and what would, at worst, as alluded above likely be a brief, and dependent on the expedition of administrative processes such as station bail to be completed.
+
+121    Further, the accused would have known in the ensuing two months between the time of discovery of the crystalline substance, subsequently found to be _methamphetamine_, on 2 May 2016 to the time of his re-arrest on 11 July 2016, that **_neither_** his wife nor child had been arrested in connection with the found drugs. In anything, this inactivity after two months would have given a reasonable basis for belief that the two were no longer regarded as suspects. On the other hand, Mr Hisham, would by his own account, been aware only of the DNA report showing traces conforming to a DNA sample he provided on the empty sachet pack and syringe. Hence **_the only clear suspect_** on 11 July 2016 would be Mr Hisham himself. The fact of the accused’s clear implication by the DNA evidence meant that Officer Low would have scant **_motive_** to resort to threatening Mr Hisham’s wife and son to procure a confession, since the forensic evidence would have been **_sufficient_** for charges to have been preferred against Mr Hisham alone, **_regardless_** of his admission.
+
+122    I reiterate again that I make the above observation on the basis that the court is enjoined to consider the situation in an ancillary hearing holistically, considering both objective and subjective bases, for careful scrutiny to determine whether the threat, inducement or promise operated on the mind of the accused during the material period. The accused’s susceptibility to an uttered statement is thus both an objective consideration of the alleged statement itself against the circumstances, as well as an assessment of the subjective effect of the claimed statement on a person of Mr Hisham’s known qualities, such as his experience, personality and other salient traits.
+
+123    The burden is invariably on the prosecution to establish proof beyond a reasonable doubt that an accused’s statement was voluntarily made. In its assessment, the court has globally analyse all circumstances, in particular whether the accused had raised reasonable doubt of any aspect which would give cause to impugn the voluntariness of a statement and render it inadmissible In _Zailani bin Ahmad v Public Prosecutor_ <span class="citation">\[2005\] 1 SLR 356</span> (“_Zailani bin Ahmad_”), the Court of Appeal held:
+
+> 42     **_In our opinion, the entire trial within a trial is to be regarded as a composite whole. In exercising his functions as judge and jury, the trial judge should take a global approach and arrive at his conclusion as to whether the Prosecution had indeed proved its case beyond reasonable doubt_** and not ask himself the question of whether the accused had raised any doubt in the Prosecution’s case.
+
+> 43    In our view, the only requirement, if any, on the Defence is to raise an issue and bring to light the alleged offending conduct of the recording officers as well as the circumstances under which the statement was given, and if the circumstances outlined appeared to give rise to an inference or a nagging suspicion that the statement was tainted by any of the vitiating factors, then the statement must be held to be inadmissible.
+
+>     \[Emphasis added\]
+
+124    All considered, I accepted Officer Low’s account, and believed that he had conducted the recording with a scrupulous level of propriety and rectitude, and also that he had **_never_** uttered the claimed words in the course of the recording session. Even taking Mr Hisham’s “_best-case_” for a moment, on the premise that the claimed statements had been uttered, I would not have found Mr Hisham’s will suborned merely from the words uttered, on the bases stated above. I would also not have found any aspect of the session to have justified a finding that the two challenged statements were involuntarily given by the accused. I thus **_admitted_** the two statements; Exhibit A as P16 and Exhibit B as P17 The Prosecution applied, and was granted their application, for testimonial evidence in the ancillary hearing to be useable at the main trial[^128] and closed its case[^129] after the completion of the evidence of PW 14. After hearing the accused’s submission of no case, I was of the view that a _prima facie_ case, at least, had been established, and called for Mr Hisham to offer his defence case.
+
+## DEFENCE CASE
+
+### Evidence of DW 1 Mohd Hisham Bin Salleh
+
+125    Mr Hisham elected to give evidence in his own defence after the allocution was administered. It would not add much to set out the accused’s evidence extensively, as a considerable part of Mr Hisham’s positions have been described, analysed and juxtaposed in the preceding passages in these grounds when during his (and then-counsel Ismail Hamid’s) examination of witnesses and particularly when the defence case was ‘put’ to the successive prosecution witnesses. I will thus only set out novel areas that came out in the course of Mr Hisham’s testimony.
+
+126    Mr Hisham’s EIC testimony[^130] tended to be disjointed and asynchronous in his description of events on the two key time periods of 2-3 May 2016 and 11 July 2016, to the point of serious risk of confusion and possible conflation of key events. I indicated my concern that the “_scattershot_” nature of his EIC could inhibit his ability to mount a coherent defence[^131]. Mr Hisham was thus invited to set out his account in writing as an _aide memoire_ to assist in his narration of the aspects of the key events which he sought to highlight. Putting out a handwritten compendium on the issues raised of his evidence, the accused stated[^132]:
+
+>     The Station Diary that was brought as evidence by the police officers were(sic) incomplete.
+
+>      **_Regarding Dr Lee_**(sic) **_Fang Jin’s memo stating that I can urine normally. And no reason to put in any tube. I have a doctor report from Tan Tock Seng Hospital. Dr Franklin Magbitang saying that on 10/7/16 14.18 hr, I came in with a complaints of low back pain and painful lump over the back which was similar to the complaints I gave during Dr Lee_**(sic) **_Fang Jin’s session. He also state that I was conscious, coherent and with stable signs. The bladder scan revealed 272 ml of urine. Urine in/out catheterisation done and urinalysis revealed infection._**
+
+>      **_I just want to state that Dr Lee_**(sic) **_Fang Jin_** (d)**_idn’t assess me properly and was merely referring to the records of my past sicknesses._**
+
+>      **_He_** _(Note: this is apparently a reference to Dr Magbitang)_ **_did scan my bladder and there was substantial urine I produced and yet I can’t urine. Maybe if he_** _(Note; this is apparently a reference to Dr Lim)_ **_do more checks, he would have found the cause of why I can’t urine._**
+
+>     Tan Wee Ming claims on how he show the evidence.
+
+>     I was brought to hospital to do the clarification of my document.
+
+>      Ahmad Faizal
+
+>     Not true-Claims that every remandee will have to walk pass him when he’s on duty.
+
+>     He also strangely claims that saw me walking. I was also walking to the gate. I was on a wheelchair whenever he came to serve me. I did drink accept(_sic_) for the lst cup. I even took my medication during that. I believe there is a certain book that might have recorded all this. Here were no info given to IO of my medication.
+
+127    As was the case during Mr Hisham’s oral testimony, the various aspects that he sought to highlight in his defence case were rather jumbled, with references to the entries to the Station Diary during the urine collection period set out at the **_beginning_** of his summary, and his reference to the connected witness; PW4; Officer Faizal Ahmad, being set out at the **_tail end_** of the document. Mr Hisham had chronologically mixed his written account by giving a rendition of his interactions with PW 5; Dr Lim Fang Jin on 3 May 2016, and then referencing his arrest in the afternoon of 2 May 2016 and interactions with PW 7; Officer Tan Wee Ming, before returning to reference Officer Faizal at the foot of his document.
+
+128    For ease of reference, I have chronologically reformatted and paraphrased Mr Hisham’s statement to sequentially set out the areas that he had sought to raise in D5, which was generally in sync with his subsequent oral EIC testimony[^133]:
+
+>      **_Arrest and identification of backpack contents_**
+
+> (i)    The accused disputed that Officer Tan had properly shown him the contents of the bag. (_The accused had subsequently amplified his claim on this point with oral EIC testimony that Officer Tan had simply brandished a sachet (which contained the methamphetamine) from an empty backpack in a peremptory manner, rather than the item-by-item unveiling described by the witness_)[^134]
+
+>      **_Station Diary entries, mobility and drinking during urine collection regime_**
+
+> (ii)  The accused disputed Officer Faizal’s assertion that the officer had seen him walking as he had been on a wheelchair.
+
+> (iii)  The accused asserted that the Station Diary was incomplete, and did not reflect episodes where he had drunk water. He had repeatedly drunk proffered drinks, notably when he had to wash down medication.
+
+>      **_Examination at hospital_**
+
+> (iv)  The accused contended that Dr Lim Fang Jin’s opinion that the accused could urinate normally was flawed, as was his reason not to install an indwelling catheter. Dr Lim had failed to assess the accused properly and was “_merely referring to the records of_ (his) _past sicknesses_”.
+
+> (v)    The accused had obtained a report from Tan Tock Seng Hospital, when he had been attended to by Dr Franklin Magbitang on 10 July 2016 at 2.18 pm. Dr Magbitang had investigated his complaints of lower back pain and a painful lump over the back “_which_ (were) _similar to the complaints_” the accused had given to Dr Lim on 3 May 2016. The report had noted that he had been “_conscious, coherent and with stable signs_” and that a “_bladder scan revealed 272 ml of urine_”. The accused noted that a catheterisation had been performed, and a urinalysis revealed that he had contracted a Urinary Tract Infection.
+
+### Court’s observation on the aspects of defence case highlighted in Exhibit D5
+
+129    In respect of the areas of Mr Hisham’s defence case summarised in Exhibit D5, and chronologically re-categorised as set out above, I would find points (i), (ii) and (iii) to be rather **_peripheral_** issues which were somewhat only tangentially relevant to the case that he had to answer after the prosecution had completed its slate of 14 witnesses, of whom 11 gave live oral testimonies. This tangential quality of the accused’s rebuttals was particularly in relation to his contention that PW4 had somehow missed or misrepresented periods when Mr Hisham had been seated on a wheelchair. I accept that he had recent surgery and was in pain around his lower limbs and varicose veins, but this hardly meant that he was in a state of permanent incapacitation, or was **_totally_** non-ambulatory without his wheelchair.
+
+130    Further, in relation to the identified areas of Mr Hisham’s arrest and the Station Diary entries, the prosecution had produced witnesses PW 7; Officer Tan, and PW 4, Officer Faizal, with the latter supporting his testimony with contemporaneously recorded entries of the Station Diary. Officer Tan’s testimonial evidence had been accompanied by that of PW 8, Officer Zafirah Adilah (albeit that she had been more focused on keeping an eye on Master Henry than noting the interactions between Officer Tan and Mr Hisham). On their own, Officers Faizal and Tan had come across as convincing and earnest witnesses of fact, and the then-defence counsel; Mr Ismail Hamid was unable to make any inroads into their testimonies despite determined cross-examination. On the other hand; other than making the bare claims indicated above against PW4 and PW 7, Mr Hisham had not substantiated his testimonial evidence on these areas, which would thus remain as little more than uncorroborated assertions.
+
+131    While point (i), (ii) and (iii) might, for the reasons stated, offer little traction to his defence case, I was of the view that points (vi) and (v), where Mr Hisham had made the point that he did suffer an **_actual_** episode of urinary retention on 10 July 2016, and thus believed himself to have been suffering the same symptoms in 2-3 May 2016 deserved a more thorough inquiry.
+
+### Medical memoranda showing accused’s subsequent episode of Acute Urinary Retention following Urinary Tract Infection
+
+132    In what appeared to be a central pillar of his defence against the first charge of failure to provide a urine sample, the accused produced a set of medical memoranda. Mr Hisham had referenced this memorandum from Tan Tock Seng Hospital (TTSH)[^135]:
+
+>     MEDICAL REPORT ON: MOHD HISHAM BIN MOHD SALLEH
+
+>     (_identification number)_
+
+>     DATE/TIME SEEN: 10/07/2016 at 14:18 hrs by Dr Franklin Magbitang
+
+>     Diagnosis Low Bck Pain/Left Flank Lump/Urinary Tract Infection (UTI)
+
+>     The above patient was seen at the Emergency Department of Tan Tock Seng Hospital by myself on 10/07/2016 at 14:18 hrs. **_He complained of low back pain and a painful lump over the back. He also complained of being unable to void urine._**
+
+>     On examination, he was conscious, coherent and with stable vital signs. There was tenderness over left flank area on palpitation with small lump measuring 1 x 1 cm. **_The bladder scan revealed 272 ml urine._**
+
+>      **_Urine in/out catheterization done and urinalysis revealed infection._**
+
+>     X-rays of chest, pelvic and lumbrosocral(_sic_) and was reported to have no fracture.
+
+>     He was observed in the Emergency Department for a period of time with symptomatic medication and was subsequently discharged back to the Police Officer with analgesia and antibiotic(_sic_). An appointment with the General Surgery Specialist Clinic and Physiotherapy Clinic was given for follow up.
+
+>     Thank you
+
+>     Your Faithfully
+
+>     Franklin Magbitang
+
+>     EMERGENCY DEPARTMENT
+
+>     TAN TOCK SENG HOSPITAL
+
+>     \[Emphasis added\]
+
+133    At a medical review on 4 August 2016 while he was in remand, Mr Hisham had apparently requested a report to be given of his attendance on 10 July 2016. The attending doctor had crafted a memorandum on the terms[^136]:
+
+>     To Prison Doctor
+
+>     From NEO WEN YANG
+
+>     (_medical registration number_)
+
+>     Date 04 -Aug-2016
+
+>     Subject Title Memo
+
+>     Dear colleague,
+
+>     Patient claims that he is unable to pass urine/give urine sample when he has back pain. **_Previously in 2012 he had ARU during admission to CGH after back contusion_**. He requests that I be able to certify that he is unable to pass urine when he has back pain but I did not assess him during his last injury. I would suggest getting the CGH doctors to see him for that issue since he had that problem during his admission to CGH and there might be some follow up for him there.
+
+>     Kindly assist. Thank you!
+
+>     Regards
+
+>     Dr Neo Wen Yang
+
+>     Medical Officer
+
+>     GS
+
+>     (For Mr Chua Wei Chong)
+
+134    Mr Hisham was able to show yet another later instance where he suffered from Acute Urinary Retention following an episode of Urinary Tract Infection in early August 2017. That episode began with a referral from L & G Medical Group Pte Ltd (“L & G Medical”), which read [^137]:
+
+>     3 August 2017
+
+>     Dear A & E Colleague.
+
+>     MOHD MISHAM BIN MOHD SALLEH (identification number)
+
+>     Please see the above patient for acute retention of urine.
+
+>      **_Comes in with fever x 2 days_** with increased urinary frequency. Minimal PU noted.
+
+>     Had an IDC inserted last week @TTSH ED, Removed two days ago. Due to blood in IDC.
+
+>     Examination:
+
+>     T 38.5 HR 115 BP 138/79
+
+>     Well Non-Toxic . But looks uncomfortable
+
+>     Abdo: soft; non-tender; **_percussable_** (sic) **_bladder noted_**
+
+>     Renal Punch Equivoical x 2
+
+>     Dipstick WBC2+. RBC 4 +, Nitrites Negative.
+
+>     Imp:
+
+>      **_UTI secondary to ARU_**
+
+>     Kindly review and manage
+
+>     Thank you!
+
+>     Regards
+
+>     Dr Lai Yuen Hw(illegible)
+
+>     \[Emphasis added\]
+
+135    Mr Hisham presented the following memorandum to show that he was then seen at TTSH[^138]
+
+>     Specialty Urology
+
+>     From TAN ZHE WEI LEON
+
+>     (_medical registration number_)
+
+>     Date 06 -Aug-2017
+
+>     Subject Title Memo
+
+>     Dear Sir/ madam
+
+>     Please note that Mr MOHD HISHAM BIN MOIHD SALLEH has been admitted to TTSH from 4/8/17 to 6/8/17 for **_Urinary Tract Infection with Acute Urinary Retention as well as haematuria._**
+
+>     He was given appropriate treatment and discharged stable and well on 6/8/17.
+
+>     Thank you
+
+>     Best Regards
+
+>     Dr Leon Tan
+
+>     House Officer
+
+>     {Emphasis added\]
+
+136    While the TTSH memorandum from the August 2017 episode is sparse on details, the referral memorandum from L & G Medical shows Mr Hisham to have, upon examination, having both **_elevated_** temperature and pulse readings of 38.5 degrees and 115 heartbeats per minute. The accused also had what Dr Lai described as a “pecussable bladder”. This seems to be a typographical error, a **_percussible_** bladder; rather, is a synonymous term for a palpable bladder. There were therefore vital distinctions to be drawn between Mr Hisham’s presenting conditions, in terms of his medical complaints and observable clinical signs, on 2-3 May 2016, and those on 10 July 2016 and 3-4 August 2017. I will elaborate below.
+
+### A juxtaposition of medical reports and memoranda of accused’s condition on 3 May 2016 and those arising from subsequent attendances show differing symptoms
+
+137    There are several observations that can be made from a juxtaposition of these reports and memoranda arising from his attendances in TTSH on 10 July 2016 and 4 August 2016, and the reports made upon his attendances on 2-3 May 2016. [^139] In my judgment, there is a significant degree of difference in the presenting symptoms between the presentation of these symptoms as reported in the defence exhibits, and the accused’s condition, as discerned from the testimonial and documented evidence of PW5; Dr Lim, PW 6 Dr Pravin, and indeed DW3; Dr Larry Kang, who was Mr Hisham’s third and final witness.
+
+### Acute Urinary Retention in 2012 was a one-off event from physical trauma and apparently unconnected to claimed inability to urinate in May 2016
+
+138    Addressing first the reference to Mr Hisham having Acute Urinary Retention in 2012, this arising from a singular reference[^140] that “_Previously in 2012 he had ARU during admission to CGH after back contusion”_ to be in the context of a traumatic incident, where Mr Hisham had suffered a back contusion, with no further description on the severity of the injury or the background circumstances to his incurring this injury. Dr Pravin had opined that it was unlikely that Mr Hisham suffered any spinal injury which could have caused Acute Urinary Retention four years later in May 2016. This was because such a spinal injury would have caused **_chronic_** (as opposed to **_acute_**) urinary retention, and would have certainly left a trail of medical records of such episodes of urinary retention (and documented treatments such a catheterisation) between 2012 and May 2016. None are known to exist, at least from CGH and public/restructured hospital archives (which would be accessible from the NEHR database).
+
+### The accused exhibited different symptoms when he suffered Acute Urinary Retention following Urinary Tract Infection in July 2016 from the alleged symptoms episode on 2-3 May 2016
+
+139    The medical reports and memoranda do show that Mr Hisham did suffer Acute Urinary Retention in the afternoon of 10 July 2016. In this instance, he had, according to Dr Franklin Magbitang, the accused had, along with his inability to void his bladder, “_complained of low back pain and a painful lump over the back_”. Dr Magbitang had investigated further and noted “_tenderness over left flank area_” with his palpitation finding a small one-centimetre lump at the site. Dr Magbitang had ordered a bladder scan which had revealed 272 ml of urine. Most significantly, after catheterization, a urinalysis revealed that Mr Hisham was indeed suffering from **_Urinary Tract Infection_**.
+
+140    In stark contrast, PW 5: Dr Lim Fang Jin, had, in his examination of Mr Hisham on 3 May 2016, noted that he did not seem to have any stomach, or other trunk, pain, nor had complained of any known medical condition which could have affected Mr Hisham's ability to urinate[^141]. Mr Hisham had only complained of pain of the lower limbs from his **_varicose veins_**. The only other disclosed conditions were of fatty liver and rheumatoid arthritis. Oddly enough, while Mr Hisham had reportedly complained of liver pain to PW4; Officer Faizal, during the urine procurement period[^142], he did not mention this to Dr Lim. Rather paradoxically, Officer Faizal had **_not_** recalled Mr Hisham mentioning any pain on his lower limb because of ‘_swelling on_ (his) _feet_” or from a “_back problem_”[^143], when this was put to the officer by then-counsel, Mr Ismail Hamid.
+
+### Dr Lim had specifically excluded the possibility of Urinary Tract Infection on 3 May 2016
+
+141    Dr Lim’s physical examination had only revealed the accused’s varicose veins. Dr Lim has also categorically **_excluded_** the possibility that Mr Hisham had Urinary Tract Infection as the patient would complain of abdominal pain caused by bladder distension, along with their report of inability to pass urine, and they might also present with a fever. The lack of distension of Mr Hisham's bladder had convinced Dr Lim that the accused was not experiencing an episode of Acute Urinary Retention[^144]. Dr Lim, who was mindful that patient with Urinary Tract Infection could sometimes have **_normal_** vital signs, even they typically presented with fever and hypotension[^145], was **_categorical_** that he did **_not_** observe any symptoms of Urinary Tract Infection on Mr Hisham during the medical examination[^146].
+
+142    Dr Lim’s colleague and senior; Dr Pravin Thiruchelvam, had concurred with Dr Lim’s professional opinion that Mr Hisham had **_not_** been in Acute Urinary Retention, when seen on 3 May 2016, and that had this been no indication for indwelling catheter. Both doctors were of the view that the accused was able to pass urine normally. When asked if Mr Hisham presented with symptoms of Urinary Tract Infection, Dr Pravin’s response was also categorical[^147]:
+
+> Q    From your review of the medical notes of the accused in this case, did he demonstrate any symptoms of (_urinary tract_) infection?
+
+> A    No, he had none.
+
+Dr Pravin’s own professional opinion was that there were “(n)_o medical conditions that he presented there that can cause him not to urinate_”. [^148]
+
+143    Mr Hisham’s own witness; Dr Larry Kang, had noted that Mr Hisham had only mentioned pain from his **_varicose veins_****[^149]** and noted that there was no guarding or rigidity of his abdominal area, which would have signalled “_pain or discomfort_” in that region[^150]. Like Dr Lim, he had also found no palpable bladder to suggest any bladder obstruction which could have resulted in Acute Urinary Retention. Ultimately the doctors who had examined Mr Hisham from CGH and _Healthway Medical_ had **_not_** noted any sign that Mr Hisham had been suffering from Urinary Tract Infection on 3 May 2016. This was thus a fundamentally different situation from 10 July 2016, where the accused was proven by both symptomatic observation and empirical evidence from a urinalysis test to be suffering from Urinary Tract Infection, as a precursor condition to his Acute Urinary Retention.
+
+### Accused’s unchallenged long statement does not describe any symptom resembling Urinary Tract Infection, or any condition likely to lead to urinary retention
+
+144    The portion of Mr Hisham’s long statement in relation to the urine testing regime revealed that Mr Hisham had been **_unaware_** that he would be subject to a urine test until after his second trip to CGH on 2 May 2016. It is thus telling that his initial complaints were unrelated to any Acute Urinary Retention, difficulty in urination, or indeed any problem related to his urogenital system. He had thus made his first reference to “_liver problems_” to Officer Faizal, where his previous complaints at CGH had been of “s_mall joint pains and aches of both hands_” and “_lower limb tenderness_”, which, of course, bore no known **_medical relationship_** to either Urinary Tract Infection or Acute Urinary Retention.
+
+145    In his Long Statement recorded just hours after his return from his third visit to CGH, Mr Hisham persists in his odd claim that _“I think that I cannot give my urine whenever I feel pain in my veins and joints.”_ Mr Hisham also alleged that he had been beset with this malady since mid-2015, but never exhibited any medical reports from that period, or explain how this phenomenon was connected with the “_various medical conditions_” he claimed to suffer. Mr Hisham also claimed to urinate just once a day but concedes the obvious that “_drinking water_” would assist in helping with his urination process. Mr Hisham refers to pain in the stomach area for the first time in his Long Statement. This, however, is not congruent with Dr Lim Fang Jin’s observation that upon palpation, he had found Mr Hisham’s abdomen to be soft, rather than guarded and painful if he had a genuine distended bladder from obstruction caused by Acute Retention of Urine. The relevant parts of the accused’s statement are set out below [^151]:
+
+> 7     **_Upon arriving at Bedok Division lockup this second time, I was informed that the officer will conduct a urine test on me_**. I agree to give my urine sample. I was given warning and time to drink water every half an hour for 6 hours. At some point of time, I inform the police officer that I cannot drink too much of water because **_I got liver problems and I will feel a bit breathless if I drink too much_**. However, I was still unable to give my urine. I was then brought to CGH again for the third time to check why I was not able to give my urine and about my pain. During the check-up, Doctor informed me that I can use a tube to urine and I agreed. After the third time seeing the doctor at CGH, I was then brought back to CNB office straight for investigation.
+
+>     …
+
+> 11    I was then asked the following questions and my answers are as follows:
+
+> Q1.     **_Can you provide your urine sample and why?_**
+
+> A1.     **_No. It is because I have medical conditions such as liver problems, rheumatism (joint problems) and lower limbs veins problems._**
+
+> Q2.    For all the problems that you have mentioned, where do you go to seek for treatment for the problems?
+
+> A2.    For the liver problems, I went to Tan Took Seng Hospital (TTSH). For the joint and vein problems, I went to National University Hospital (NUH).
+
+> Q3.    Is it painful if you try to urine? Where?
+
+> A3.    Yes. I feel pain at the stomach area.
+
+> Q4.     **_Why do you think you cannot give your urine sample?_**
+
+> A4.     **_I think that I cannot give my urine whenever I feel pain in my veins and joints._**
+
+> Q5.     **_How long has it been like this?_**
+
+> A5.     **_It has been like this since the mid of last year 2015 when I fall ill with various medical condition._**
+
+> Q6.     **_Since you fall ill with various medications, how many times can you urine per day in general?_**
+
+> A6.     **_Once._**
+
+> Q7.     **_What helps you to urine in general?_**
+
+> A7.     **_Drinking water and when I do not feel any pain._**
+
+> Q8.    How many hours after drinking water are you able to urine in general?
+
+> A8.    I am not sure.
+
+>     \[Emphasis added\]
+
+### The accused did not seek medical attention after his release on bail
+
+146    It is a peculiar aspect of this case Mr Hisham did not see a doctor after he was released on bail after 3 May 2016 despite his complaints which included the distressing condition of urinary retention. Indeed, Mr Hisham became uncontactable shortly after he was released on bail and could not be found at his stated place of residence, triggering an arrest warrant. There thus remains a substantial blank between 3 May 2016 and his attendance at TTSH on July 10 2016 with actual symptoms of Acute Retention of Urine following Urinary Tract Infection. This was a point the learned DPP latched onto at cross-examination. It was the accused’s surprising contention that his claimed urinary retention problems continued unabated [^152] for a full two months:
+
+> DPP:  You were released at the very least on 4th May 2016. You are telling me that you had waited 2 to 3 months later, to go to Tan Tock Seng to seek medical treatment?
+
+> A    Yes, actually, yes.
+
+> Q    So this---during these 2 to 3 months, you did not urinate at all?
+
+> A     **_Not regularly like normal person._**
+
+147    In relation to this two-month period where he was missing, it was Mr Hisham’s evidence that he had been facing relational problems and was trying to save his marriage. He acknowledged that he had been required to report to the investigation officer as a condition of his personal bond, but indicated that he felt the need to resolve these problems first [^153]. The accused also did not have any plausible explanation for his failure to seek medical attention either to ease his symptoms or satisfy the investigation of the legitimacy of his claimed symptoms. Mr Hisham indicated that he had made a **_conscious choice_** to avoid the investigation officer[^154](editing for hesitation and pauses done):
+
+> Q    Okay. So now, let’s talk about the time frame after 3rd of May 2016. So you were released on personal bond. You know that you may have a medical condition that prevented you from urinating.
+
+> A    Yes.
+
+> Q    You know that you are facing a potential investigation against you for not providing urine specimen, correct?
+
+> A    Yes.
+
+> Q     **_Did you feel the need to maybe go and see a doctor, then go and tell your IO that, “Yes, there is this medical condition”?_**
+
+> A     **_Yes._** Okay, but at that point of time, I was in the situation where, okay, my marriage was falling apart, I was in a wheelchair. I was not even staying at home…
+
+>     …
+
+> Q    Yes. And for a period of about 2 months plus, **_you did not contact the IO, despite knowing that you need to go back to the IO, to report to him._** Am I correct?
+
+> A     **_Yes_**.
+
+> Q     **_You were on a personal bond. You know that you are facing potential investigations. You chose not to go back to the IO._**
+
+> A     **_Yah_**, (I)n this situation …I have so many problems, (at) that time.
+
+148    Mr Hisham’s own responses show that that he was fully cognisant that he had an obligation to make himself available for investigations, and also that it was incumbent on him to establish a reasonable basis why he failed to yield a urine sample when required in the night of 2-3 May 2016. The only rational recourse would have been to show that he had indeed sought treatment immediately after his release on station bail, and by so doing, create a trial of contemporaneous medical evidence to support his case of having a valid excuse. The fact that he did not do this, and instead sought to intentionally evade the investigation officer must cast significant doubt on his ability to mount an effective answer to the first charge. Mr Hisham claimed to be wheelchair bound in all this time. That he had not been found until his attendance at TTSH on 10 August 2016 does suggest a determined effort on his part to stay out of sight, and reach, of authorities.
+
+### Evidence of DW2 Siti Hajar Binte Sami’an
+
+149    Ms Siti Hajar Binte Sami’an (‘Ms Siti Hajar”) was the second witness for the defence. She had been Mr Hisham’s fiancé at the material time and had married him by the time she offered her testimony as DW2. In the afternoon of 2 May 2016, she had been in a party of five, which included Mr Hisham, her, Master Henry and two other children. When Officer Tan had performed the police check on the accused, Ms Siti Hajar recalled that she had just emerged from a minimart, which was situated across the block, with her youngest son. Ms Siti Hajar had been ignorant that the contents of the backpack contained the sachet of methamphetamine or other drug-related paraphernalia[^155].
+
+150    Ms Siti Hajar’s testimony was significant in two areas. The first area would be in relation to the ownership of the black backpack and the parties who had been involved in packing or unpacking from the bag. The second aspect would be her knowledge of Mr Hisham’s activities and state of health after their release on bail on 3 May 2016 up to his arrest on 10 August 2016. In relation to the first part, Ms Siti Hajar recalled she had just returned from a stay at _Hotel Boss_ Hotel. The bag which had contained the family members’ clothes had been packed before they arrived at the hotel. Considering that she was the only other adult of the group, and the caregiver of three children, Ms Siti Hajar affected an odd incuriosity about the back pack, and claimed not to know where the clothes had been packed, and also that she herself had never opened the bag to check its contents[^156] before arriving at the hotel. She allowed that the bag might have opened “_when we took out some clothes_” [^157], but she had no knowledge of any illicit items in the bag.
+
+151    On the critical question on the _provenance_ of the black backpack, Ms Siti Hajar gave a response which differed from an earlier police statement[^158], where she had stated the backpack to belong to Mr Hisham. Her tentative tone in her testimonial evidence quite evident from the following excerpt[^159]:
+
+>   
+| 
+
+Witness:
+
+ | 
+
+Okay. **_Personally, the bag is not ours to begin with. I---it was borrowed, uh_**. Because he wa---and me were staying separately at that point of time. So, when we meet---so, **_I think it was borrowed, uh, but I do not know whose is it_**. So--
+
+ |
+| 
+
+Court:
+
+ | 
+
+Who borrowed it?
+
+ |
+| 
+
+Witness:
+
+ | 
+
+I think he (Mr. Hisham) … borrowed, lah.
+
+ |
+| 
+
+\[Emphasis added\]
+
+ |
+
+  
+  
+
+152    In a similar vein, Ms Siti Hajar indicated that she was unaware as to who had packed the bag prior to their exiting _Hotel Boss_, which differed from her earlier statement. In court, she had stated[^160]:
+
+>   
+| 
+
+DPP:
+
+ | 
+
+Do you remember who was the last person who packed the bag before you left the hotel?
+
+ |
+| 
+
+A
+
+ | 
+
+Not sure, uh.
+
+ |
+| 
+
+Q
+
+ | 
+
+You’re not---
+
+ |
+| 
+
+A
+
+ | 
+
+Don’t know.
+
+ |
+| 
+
+Q
+
+ | 
+
+sure now?
+
+ |
+| 
+
+A
+
+ | 
+
+Yah, I’m not sure. Cannot remember. I think I also did put the clothes inside but, yah, **_I cannot remember who was the last one, uh. I mean, basically, I did put, the kids maybe also put the---their clothes inside_**, so we just actually dumped the clothes inside, lah.
+
+ |
+| 
+
+Q
+
+ | 
+
+Do you recall who was the last person who had actually placed items inside?
+
+ |
+| 
+
+A
+
+ | 
+
+**_Cannot recall._**
+
+ |
+| 
+
+Q
+
+ | 
+
+At any point of time, you said you might have dumped some clothes into the bag. Did you, at that point of time, check what is inside the bag?
+
+ |
+| 
+
+A
+
+ | 
+
+No.
+
+ |
+| 
+
+\[Emphasis added\]
+
+ |
+
+  
+  
+
+### Gross discrepancies between DW2’s court testimony and her recorded statement
+
+153    These two areas appeared discrepant with Ms Siti Hajar’s previous statement; namely, the Further Statement of Siti Hajar Binte Sami’an, which was recorded on 24 May 2016. Ms Siti Hajar’s entire Further Statement is reproduced to set out to allow an appreciation of the context, while the statements in question ate highlighted in \[17\]-\[18\], “_Abang”_ is Master Henry while “_Adik_” is his twin brother:
+
+>     Further Statement of Siti Fajar Binte Sami'an,
+
+>     Recorded at Police Cantonment Complex Interview Room on 24 May 2016 at 1505hrs
+
+>     The previous statement which consisted of 03 pages and 13 paragraphs recorded on 02 May 2016 was read over to me in English and I affirmed that the statement is correct and mine. I am told by an I0 to report to Police Cantonment Complex, CNB HQ for a short interview.
+
+> 14.    Today (24 May 2016) at about 1500hrs, I reported to CNB HQ for interview. I am asked by the 10 on why is there a need to stay at the Boss Hotel. I wish to inform that it was an impromptu event. On 01 May 2016 (Sunday) in the night time, 'Hisham' called me and told me that he wanted to have a stay over at Boss Hotel. He did not tell me the reason that he wanted to stay over at the hotel but we will occasionally stay over at one of the hotels. The reason that we stay over at the hotel is because 'Hisham' wanted to spend some time with our 3 years old son. 'Hisham ' is the one who decided to stay over at Boss Hotel. He told me to bring our son along while he brought 'Abang' and 'Adik. 'Adik' is referring to 'Abang' twin brother.
+
+> 15.    At the Boss Hotel, we were chilling in the hotel room. I did not see 'Hisham' doing anything which arouse my suspicion.
+
+> 16.    'Abang' is the one who was carrying the haversack to Boss Hotel. From what I had observed 'Abang' is the only one who was carrying the haversack. The haversack which 'Abang' is carrying contained clothes that belonged to 'Hisham', 'Abang' and 'Adik'. 'Adik' had his own haversack which contains mainly the key chains which 'Hisham' had been selling.
+
+> 17.    I did not physically check on the haversacks which 'Abang' and 'Adik' were carrying. On the day when we are supposed to check out, we happened to be late and **_'Hisham' is the one who pack 'Abang' haversack in a hurry_** . 1 did not see if 'Hisham' had packed any illegal items into 'Abang' haversack as it was in a hurry.
+
+> 18.     **_I believed that the haversacks which 'Abang' and 'Adik' were carrying belonged to 'Hisham' because I had seen 'Hisham' using them when we went out._** I am not sure where 'Hisham' is staying but he had been in contact with me because he wants to see our son.
+
+\[Passages in bold italic font underlined by DPP and highlighted as being discrepant with DW2’s oral evidence\].
+
+### Preference for recorded statement over subsequent testimony
+
+154    The learned DPP had flagged the parts in Ms Siti Fajar’s evidence where there were clear differences, and had made an application[^161], under section 147(3) of the Evidence Act (Cap 97, 2007 Rev Ed) , to examine her on the contradictory passages, with a view to the replacement of her testimony with the underlined passages of the version in her statement. After the examination process, I had reserved[^162] my ruling but was unfortunately remiss in not stating my ruling on the application before I convicted Mr Hisham. I will nevertheless, for completeness in analysis, state my preference for Ms Fajar’s version in P20, and the reasons why her earlier statement ought be preferred. .
+
+155    To recapitulate, in her statement, Ms Siti Fajar had indicated that Mr Hisham was “_the one who pack_(ed) the back pack found with Master Henry “_in a hurry_”[^163] .She had also indicated that her belief that the backpack (referred to as a “_haversack_” in the statement) “_belonged to_ (the accused) _because I had seen_ (Mr Hisham) _using them when we went out_”. The statement was of course recorded much earlier in time, just three weeks after the arrest. Her recollection in October 2019 in relation to proceedings against a man she had married in the intervening period, was tenuous and guarded, as would be all too evident from the reproduced passages.
+
+156    The absolute clarity and certitude of Ms Siti Hajar’s pronouncements in P20 that Mr Hisham was the apparent owner as she had seen him use the backpack before, as well as her witnessing him packing “_in a hurry_” prior to checking out of _Hotel Boss_, had been replaced in court by an uncertainty which was, in my judgment, a patently calculated attempt to obfuscate. Objectively, Ms Siti Fajar’s earlier version made more sense, it would not be logical to go through the trouble to borrow a backpack for just an **_overnight_** staycation in a local hotel. Incidentally, Mr Hisham had never called any putative “owner’ of the backpack to the witness stand to assert ownership of the item, in support of the accused’s claim that the backpack had been borrowed from that person.
+
+157    Ms Siti Hajah’s court testimony of her inability to “_remember who was the last one_” to pack the backpack, and abruptly positing her impression that she, Mr Hisham and the children “_just actually dumped the clothes inside_” appeared to be a specious attempt to inveigle some doubt in this aspect of the case. Ms Siti Hajah’s previous statement was a seemingly clear recollection that_“_(Mr Hisham) _is the one who pack_ (Master Henry’s) _haversack in a hurry_“. Ms Siti Hajar’s recall then had been so clear and complete that she could recall Mr Hisham’s expedited efforts were because they had been running late against the posted check-out time of _Hotel Boss_. Ms Siti Hajar’s sustained observation of the packing activities, prior to check-out, was obvious in her volunteering that “_1 did not see if_ (the accused) _had packed any illegal items into_ (Master Henry’s) _haversack as it was in a hurry_.” From the foregoing, I formed the view that Ms Siti Hajar’s statements, taken three weeks after their arrest, are more reliable than her significantly later court testimony, which was rendered some three years and five months after the material time.
+
+## DW2’S TESTIMONY ON ACCUSED’S MEDICAL HISTORY AND CIRCUMSTANCES AFTER THEIR RELEASE ON BAIL
+
+### DW2 was generally unaware of accused’s problems with urinary retention up to May 2016
+
+158    Another curious aspect of Ms Siti Hajar’s testimony was her inability to offer any cogent evidence of Mr Hisham’s “_urination pattern_” when asked by the learned DPP. When asked about the frequency of his urination, she demurred that she did not keep track, adding that he might also be bathing when he went to the toilet.[^164] In relation to Mr Hisham’s urinary retention problems, Ms Siti Hajar claimed that Mr Hisham had suffered previous episodes before 2016, but was extremely vague when pressed for details. While I would generally prefer not to reproduce large tracts of transcript, I believe the following passage from her testimony would be quite revelatory of the quality of Ms Siti Hajah’s evidence[^165]:
+
+> DPP : …You said earlier that you know that Hisham suffered from some urinary issues prior to 2016. That is what you told the Judge as well earlier on.
+
+>     But are you aware which year it was?
+
+> A     **_Earlier on, lah, but I cannot remember_**.
+
+> Q    (A)re you aware what the nature of this …urinary issues are? Is it an infection? Is it a---
+
+> A    Uh, that’s a infection.
+
+> Q    It’s a infection?
+
+> A    Yah.
+
+> Q    During those times where he had these issues, did he complain to you about his ability to urinate?
+
+> A     **_Um, previously, I think, yes, uh._**
+
+> Q    Did he tell you that---did he tell you if they had any continued impact on his urination?
+
+> A     **_Mmm, not sure_**.
+
+> Q    So, there were bouts of this infection, you say **_about 2 times prior to 2016_**. Am I correct? So, after the infections subside, after he is healed, he---are you aware if he can urine---urinate properly?
+
+> A     **_I should think so, lah_**.
+
+> Q    Did he complain to you after the infection that he cannot urinate properly?
+
+> A     **_Mmm, no, no._**
+
+> Q    So, you---you can’t really recall when these infections were? Am I correct? So, it can be any time before 2016?
+
+> A    Yah.
+
+>     …
+
+> Q    …(E)ach time after he is healed of the infection, he doesn’t complain about his urination anymore, correct?
+
+> A     **_Cannot remember. I cannot remember_**.
+
+> Q    Cannot remember?
+
+> A    Uh.
+
+> Q     **_Okay. And just to be absolutely sure, on the 2nd of May 2016, do you know if he suffered from any urinary conditions_**?
+
+> A     **_Not sure. Don’t know._**
+
+> Q     **_Did he tell you that he was suffering from any urinary condition?_**
+
+> A     **_No._**
+
+>     \[Emphasis added\]
+
+159    It is telling that despite Mr Hisham’s account of persistent problems with urine retention before May 2016, Ms Siti Hajar did not have anything but the vaguest impression of his travails, giving the surprisingly tentative and non-committal response of “_Um, previously, I think, yes, uh_” to DPP’s question of whether Mr Hisham had complained of his inability to urinate prior to 2016. Even more telling is the Ms Siti’s revelation that Mr Hisham **_did not_** tell her that he was suffering from “_any urinary conditions_” on during their overnight stay at Hotel Boss on 2 May 2016, prior to their arrest. It bears consideration that Mr Hisham and Ms Siti Hajar had been in a six-year relationship at the material time, and had resided together for a considerable period, she had nevertheless little knowledge of his alleged problems with urinary retention, a fact which Mr Hisham conceded.[^166]
+
+### The accused remained in contact with DW2 while he was at large
+
+160    Ms Siti Hajar indicated that Mr Hisham had remained in contact in the period he had absconded from bail. She was not aware where Mr Hisham resided after he had left their household.[^167] Mr Hisham has also not revealed his whereabouts to her. The couple had nevertheless maintained a line of communication in relation to issues connected with their youngest child.
+
+161    DW3; Dr Larry Kang’s evidence has already been covered earlier in these grounds.[^168]
+
+## ANALYSIS
+
+162    As I will be delving into issues of evaluating the evidence offered by Mr Hisham and his spouse as against the witnesses and documentary evidence arrayed in the prosecution’s case, it would be apposite to reference the oft-cited case of _Farida Begam d/o Mohd Artham_ v _Public Prosecutor_ \[2001\] SGHC; 333 \[2001\] 3 SLR(R) where the High Court divided the taxonomy for the assessment of a witness’ credibility in three domains (at \[9\] of the judgment):
+
+>     9 A judge can make a finding on the credibility of a witness based on some or all of the following:
+
+>> (a)    His **_demeanour_**.
+
+>> (b)    The **_internal consistency_** (or lack thereof) in the content of his evidence.
+
+>> (c)    The **_external consistency_** (or lack thereof) between the content of his evidence and extrinsic evidence (for example, the evidence of other witnesses, documentary evidence or exhibits).
+
+>     \[Emphasis added\]
+
+## Accused’s written submissions
+
+163    Mr Hisham presented a set of written submission, which were an apt summation of his case: The accused’s handwritten submission[^169] set out verbatim and uncorrected (save for annotations against spelling, grammatical or syntactical errors), stated as follows:
+
+>     Your Honour I am referring to the charge of Failing to give urine. I would to state that there are 4 doctors that came up to the witness stand but only 2 doctors that examine me. The other 2 was(_sic_) giving their professional opinion out of the hospital doctor that checked me. Where else the lock up doctor had refer me to the hospital for the pain that I am feeling and not for Acute Urinary Retention. The hospital fail(_sic_) to do a proper check on the pain that had cause(_sic_) me to have difficulty in urine. The lock up doctor did explain in court of there is a possibility for a person to not urinating(sic) when they are in pain.
+
+>      **_The prosecutor failed to proof_**(sic) **_that I purposely do not want to give my urine sample. The fact is I did try to co-operate and also did agree to put a catheter if it’s the only way to give my urine sample._** My difficulty in urinating may not be because of any urine infection but it could be due to my pain as what the lock up doctor had explain in court.
+
+>     Possession charge:
+
+>> Your Honour regarding my Possession charge I would like to point out that the reason of my DNA being on the evidence is because that my dirty clothing was inside the borrowed bag. **_There were also multiple DNA on the evidence that had been presented_**. I would not put my son in trouble if the evidence was mind(_sic_) and would have hold(sic) the bag myself. There were a bt(_sic_) of confusion in the process as I was only shown the empty back pack with the small black pouch that had drugs. I had not seen I before. The officer had ransack(_sic_) the bag without my present(_sic_). I am not consuming any drug nor am I involve(sic) in any drug activity at that point of time. I was on a wheelchair and had yet to recover from my operation. If the drug my(_sic_) mine.it will be in my possession and not being put for my son to after. As I would never put my son in such situation. The prosecution put upon the charge on me base(_sic_) on the DNA result, which I believe that the doctor that checked the evidence for DNA had explain(sic) that the DNA found on the evidence may also come from wet dirty clothing that was put in the bag. The prosecution fail to proof (sic) that the evidence found was mine Even though my DNA was found on the evidence.
+
+>     \[Emphasis added\]
+
+## Consideration of points raised in accused’s submissions
+
+164    To directly address the points raised by Mr Hisham, with regard to his position that he would have given a urine sample if he had been catheterised, the accused appeared to have completely misunderstood lock-up physician, Dr Larry Kang’s evidence. Dr Kang’s had been crystal clear that his preliminary opinion was that Mr Hisham, was “_not in Acute Urinary Retention, meaning a large amount of urine in the bladder_”. As his limited resources at the lock-up were not adequate to yield a “_100% fool proof_” diagnosis” from just “_a simple physical examination of the bladder_” he had dispatched Mr Hisham to hospital where more advanced facilities and medical resources were available.[^170] In the course of his dialogue with Mr Hisham, Dr Kang had referenced the possibility of Mr Hisham being fitted with an indwelling catheter, but importantly **_this was in the context of a subsequent finding of an actual obstruction impeding the flow of urine from the bladder being uncovered at the hospital_**. This was, of course was not the case when he was examined by CGH’s Dr Lim. Dr Lim had categorically indicated that there was no medical indication for a catheter, as his physical examination had not detected any distension indicating any retention of urine in the bladder. The catheterization process was to facilitate the flow of urine through a mechanical obstruction of the urinary tract. No such obstruction was discerned by Dr Lim.
+
+165    Mr Hisham had sought to argue that that the DNA traces found, which had matched his profile had there been a possibility that the DNA on his clothing items had transferred to the pouch and the items therein. There was a degree of conflation about the presence of “_multiple DNA_” on the items found in the backpack. The DNA of an unknown female had been found on the pouch. Mr Hisham’s DNA had been found on a sachet packet and a syringe **_within_** the pouch. PW8. Ms Ng Shilen, an analyst from the Health Sciences Authority’s DNA Profiling Laboratory was asked by the learned DPP of the possibility of contamination by DNA transfer of the pouch and the items therein from being mixed with soiled clothing items. She had given this unequivocal response (hesitations in transcript have been edited for readability)[^171]
+
+> DPP:  And just going back to the… dirty clothing and the possibilities. Are you aware if there is a possibility of the DNA being deposited on … these exhibits in this case by a(_sic_) dirty clothing?
+
+> PW8:  No, Your Honour.
+
+166    PW8, Ms Ng had explained that a critical mass of at least 40 well-preserved cells (which would each yield about 6 picograms of DNA) was needed to accumulate the ballpark quantity of 250 picogrammes required to obtain a profile[^172]. Cells on exposed surfaces would suffer degradation, which would lead to their being unable to yield interpretable DNA. Hence, the transfer of DNA from clothing to pouch would be already improbable, _a fortiori_ the transfer of the accused’s DNA to the items **_within_** the pouch.
+
+### The accused’s case suffers from a deficit of internal and external consistency
+
+167    Turning now to the first proceeded charge[^173]: The relevant law in relation to the obtaining of urine samples from individuals suspected of drug consumption for the purpose of testing the said samples is set out in section 31 of the Misuse of Drugs Act (Cap 185, 2008, Rev Ed)
+
+>     31.— (1) Any officer of the Bureau, immigration officer or police officer not below the rank of sergeant may, if **_he reasonably suspects_** any person to have committed an offence under section 8(b), require that person to provide a specimen of his urine for urine tests to be conducted under this section.
+
+>     …
+
+> (2)    A person who fails, without **_reasonable excuse_**, to provide a specimen of his urine within such time as may be required by any of the officers referred to in subsection (1)…shall be guilty of an offence.
+
+>     \[Emphasis added\]
+
+168    There is no question of probable cause for reasonable suspicion, considering the discovery of suspected narcotic substances and drug-taking paraphernalia in the black backpack. Mr Hisham does not dispute that he was properly warned by Officer Faizal. His principal claim is that he suffered from a medical condition that somehow prevented him from urinating, and thus unable to yield a urine sample. The external consistency is eroded by Ms Siti Fajar **_never_** hearing any complaint on his part about urinary difficulties during their stay at Hotel Boss on the night of 1-2 May 2016.
+
+### Accused exhibited distinct symptoms of urinary tract infection in July 2016 and 2017 which were absent during the material time
+
+169    While Mr Hisham has not called any doctors other than Dr Larry Kang (whose evidence cohered with that of the Dr Lim (PW5) and Dr Pravin (PW6)), he did adduce documents which showed that he had indeed suffered from an actual episode on 10 July 2016. Here again, his case floundered in the sense that the symptoms of that episode in no way resembled those he described on 2-3 May 2016. On 10 July 2016, he had complained of lower back pain and a painful lump on his back had been found. Doctors had found a basis for catheterization and a quantity of 272 millilitres of urine had been drained from his bladder by the installed catheter. He was formally diagnosed with Urinary Tract Infection, which had in turn triggered the episode of Acute Retention of Urine.
+
+170    The same diagnosis was arrived in his episode on 3 August 2017, where the accused exhibited classical signs of Urinary Tract Infection, again causing Acute Retention of Urine. In this instance, Mr Hisham was documented in a medical referral[^174] to exhibit typical symptoms of Urinary Tract Infection, with a grossly elevated temperature of 38.5 degrees Celsius, a tachycardic heart rate of 115 beats per minute and a hypertensive systolic blood pressure of 138/79. He was also reported to have had a fever for two days. These were certainly symptoms which were absent on 2-3 May 2016, according to Dr Lim and the accused’s own witness; Dr Larry Kang. The most important difference, in my view, was also the fact that Mr Hisham had a **_percussible bladder_** in 2017, whereas noting was discerned by palpation by Dr Lim and Dr Kang on in May 2016.
+
+171    In relation to episodes before May 2020, the only documented reference is a single occasion in 2012, where he had suffered urinary retention after enduring the traumatic injury of a back contusion. DW2; Ms Siti Fajar, however, could **_only recall no more than two episodes_** of Mr Hisham having difficulty passing urine from the time of their association in 2010 to May 2016[^175].
+
+172    Hence the only deducible conclusions that could be drawn is that from the accused’s medical history are:
+
+> (a)     Mr Hisham might suffer Acute Retention of Urine if he suffered a **_traumatic back injury_** (where Exhibit D2 records an instance in 2012)
+
+> (b)     Mr Hisham might suffer Acute Retention of Urine if he contracted **_Urinary Tract Infection_** (where Exhibits D3 and D4 record instances on 10 July 2016 and 3 May 2017)
+
+It should however be quite evident that **_neither_** triggering conditions (a) or (b) were present on 2-3 May 2016.
+
+### The accused did not flag his inability to pass urine before he knew his urine would be tested and gave a melange of different medical conditions to doctors and lock up officers
+
+173    Mr Hisham had already logged two visits to CGH when he was told in the late evening of 2 May 2016 that he would have to provide a urine specimen. It is notable then that his complaints at CGH were of bilateral small joint pain of his hands and right lower limb tenderness, neither of which had any relationship with either Urinary Tract Infection or Acute Retention of Urine. Rather bafflingly he had later told Officer Faizal that he could not drink as he had a back problem, swelling of his feet and also a “_liver problem_”. He then goes on to complain of his varicose veins to Dr Larry Kang, causing an inability to urinate, and complained to Dr Lim Fang Jin that he suffered “leg pain” and disclosed multiple medical conditions including rheumatoid arthritis, varicose veins, and fatty liver.
+
+### The accused’s inability to pass urine was self-induced by his obdurate refusal to drink water
+
+174    Officer Faizal’s testimony[^176] described a six-hour bid to have the accused provide a urine sample from 12.30 to 6.30 am on 3 May 2016.The Station Diary shows no fewer than 13 attempts to persuade Mr Hisham drink water to provide a urine sample. Mr Hisham took a single drink at 2.30 am and then affected a stuporous state where he could not be awakened despite efforts by the officer, and other persons he had enlisted, to create a cacophony of noise to rouse Mr Hisham. In terms of internal consistency, it seemed improbable that Mr Hisham would somehow be induced to an unrousable state of repose if he had also been suffering from severe pain from his varicose veins ( as told to Dr Lim and Dr Kang) or liver (as told to Officer Faizal). Given his extremely low intake of water, it would be all but inevitable that Mr Hisham would fail to produce urine. The circumstances strongly suggest that this was a deliberate effort by Mr Hisham to suppress urine production in a bid to defeat attempts to procure a sample.
+
+### Failure to seek medical attention after release is inconsistent with litany of health complaints
+
+175    This impression was bolstered by the accused’s conduct when he failed to show evidence of making **_any_** effort to obtain attention from any clinic or hospital for his asserted medical complaints **_after_** his release on station bail on 3 or 4 May 2016. This incongruity has to be contrasted with his logging no fewer than four consultations (three at GCH and one at the lock-up) on 2-3 May 2016.
+
+176    Additionally, an impression of evasiveness would be the inevitable consequence of Mr Hisham’s decision to stay at large for more than two months, in breach of a condition of station bail, and necessitating a warrant to be issued for his arrest. Mr Hisham’s failure to seek medical attention and his intentional absence would obviate any possibility of understanding the accused’s medical conditions, and the ability to assess if these claimed conditions persisted in the immediate period. What is known is that Mr Hisham did contract Urinary Tract Infection on or around 10 July 2016, but, other than claim an inability to pass urine, exhibited **_no symptoms_** of that disease (as those described above at \[169\]) on 2-3 May 2016.
+
+177    Given the above, I held in my _ex tempore_ grounds that that[^177]:
+
+>     From the foregoing, Mr Hisham has failed to adduce any cogent evidence to show that he was suffering from any condition that prevented him from urinating when required by the police officer. This being particularly so as the medical reports and memorandums admitted by Mr Hisham are irrelevant in establishing Mr Hisham's ability to urinate on 3 May 2016.
+
+178    As can be seen from the analysis above, Exhibits D1-D4 involved distinctly different events separated by considerable periods of time, where entirely dissimilar symptoms were observed. There was thus no evidence to rebut Dr Lim’s and Dr Pravin’s considered medical opinion that there was only a minimal amount of urine in his bladder; which was unsurprising given Mr Hisham’s low fluid intake, and that Mr Hisham was not in Acute Urinary Retention, and there was thus no indication for an indwelling catheter to be installed.
+
+179    All considered therefore, I was satisfied that Mr Hisham had **_no_** reasonable excuse to fail to yield a urine specimen after being instructed by competent authority to produce such a specimen.
+
+### Prosecution’s case for the possession charge supported by DNA evidence and ‘positive’ statements
+
+180    The prosecution’s case for the possession charge is supported by DNA analysis of seized exhibits as well as a set of admissions made by the accused after his arrest on 11 July 2016. To recapitulate, Mr Hisham's DNA had been found on a drug sachet, along with a syringe. The sachet containing _methamphetamine_ had been in the same pouch. The pouch had kept been within a black _Thule_ backpack that Mr Hisham had initially admitted being his in his unchallenged Long Statement[^178]. Mr Hisham had vehemently contested two other statements. The process of the _voir dire_ ancillary hearing has been set out in considerable detail[^179] earlier in these grounds. Suffice to say, I found the statements to have been voluntarily made. The statements has an especially granular quality of detail.
+
+181    To recapitulate, Mr Hisham had acknowledged the finding of DNA traces conforming to Mr Hisham’s profile on a sachet. The accused had explicitly expressed his “_wish to admit that the packet of Ice_” to be his, and he had gone on to describe his manner of acquisition of the methamphetamine. Mr Hisham had told of how “_Aim_’, a friend had given him the packet of Ice “_sometime in mid-April 2016_” on account of finding the accused in a “_stressful_” (which I interpret to be “troubled”) state of mind. . Mr Hisham had gone on to extraneous detail on his manner of administration of the drug in his home toilet using the “_chasing the dragon method just like chasing Heroin_” Mr Hisham had claimed to feel regret in the aftermath, and had secreted the remnants in the bag, and somehow “_forgot to throw the Ice away_”.Mr Hisham goes further to justify his previous reluctance to come clean “_because I thought that I can get away_” with the crime. Mr Hisham goes on to attempt to mitigate his offending by stating that this was his first relapse since his release from prison in June 2014. The accused’s Cautioned Statement is an equally unequivocal " _I admitted and I am feeling remorseful_”. [^180]
+
+### Conviction
+
+182    All considered therefore, I found that the prosecution had proven its case beyond reasonable doubt, and I convicted Mr Hisham on the two proceeded charges.
+
+## SENTENCE
+
+### Introduction
+
+183    For DAC-926447-2016, which was the first charge for failure to provide a urine sample contrary to section 31(2) MDA and punishable under section 33(1), I imposed a term of three years' and five months' imprisonment. For DAC-926449-2016, which was the possession charge under section 8(a) MDA, I imposed a term of two years' and six months' imprisonment. I ordered the sentences to run concurrently, with no backdating. The final sentence of three years' and five months' imprisonment would run from the date of his admission to prison (At the date of his sentencing on 11 February 2020, Mr Hisham had asked for an extension of time to 25 February 2020 to settle familial matters and finally commenced to serve his sentence on 3 March 2020 after a second extension was given.
+
+184    My understanding from a perusal of PTC notes was that Mr Hisham, who had been **_previously remanded_** for a period of **_six months and 21 days_** between 12 July 2016 and 1 February 2017 before being released on bail, is dissatisfied with his sentence as he has taken the view that this period, which constituted a “broken remand” (i.e. a term of remand which was interrupted by a subsequent release on bail) **_should_** be taken into consideration in the form of a backdating to the remand period, while excluding the period he had been released on bail.
+
+185    While mindful of the provisions of section 318(5)(b) of the Criminal Procedure Code which calls upon a sentencing court to consider, _inter alia_, “_the length of the period (if any) during which the offender was remanded in custody in relation to the offence_”, I would hold the view that such a backdating of Mr Hisham’s ‘broken’ remand period, where he had already received concurrent sentences would result in a **_disproportionately light_** sentence. This was in the context of a **_concurrent_** sentence has already been given even though the offences were, by their nature, **_distinct_** and **_unrelated_** offences, and also from a consideration of offender-specific factors, in particular, Mr Hisham’s criminal record and pattern of escalation in his manner of offending.
+
+### Antecedents
+
+186    Mr Hisham admitted[^181] to his long criminal history comprising a varied list of crimes, taking up no fewer than **37** entries in his CRO 60 records. The accused’s antecedents began in 1993 with his desertion from the Vigilante Corp, a genre of crime he would repeat no fewer than **_nine times_** between 1993 and 2002. Mr Hisham criminality took a dark turn resulting to his being sentenced to five years and 12 strokes for robbery with hurt in 2004, His first brush with drug-related crime would come shortly after his release from prison, as he was sentenced in 2009 to a global term of 20 months imprisonment for methamphetamine possession and consumption. Upon his release, he committed another brace of offences, this time involving theft and arrest resistance. Mr Hisham returned to violent crime when he was sentenced term of 15 months and three strokes of the cane for causing grievous hurt with a dangerous weapon in 2014. The accused also committed six counts of failure to report for urine testing between 2012 and 2014. For a thorough analysis, Mr Hisham’s parlous criminal record is set out below (drug related offences have been highlighted):
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="7.98%"> <col width="25.22%"> <col width="32.56%"> <col width="34.24%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">&nbsp;</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Date</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Nature of Offence</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Sentence imposed</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">1</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">5 Nov 1993</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Desertion s14(1)</p><p align="justify" class="Table-Para-1">VCA (Cap 343)</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Six months’ imprisonment</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">2</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">5 Nov 1993</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Breaches under s 24(1) VCA</p><p align="justify" class="Table-Para-1">(Cap 343)</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">TIC</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">3</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">5 Nov 1993</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Breaches under s 24(1) VCA</p><p align="justify" class="Table-Para-1">(Cap 343)</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">TIC</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">4</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">5 Nov 1993</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Breaches under s 24(1) VCA</p><p align="justify" class="Table-Para-1">(Cap 343))</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">TIC</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">5</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">20 April 1994</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Desertion s14(1)</p><p align="justify" class="Table-Para-1">VCA (Cap 343)</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Eight months’ imprisonment</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">6</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">20 April 1994</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Breaches under s 24(1) VCA</p><p align="justify" class="Table-Para-1">(Cap 343)</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">TIC</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">7</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">9 Jan 1995</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Breaches under s 24(1) VCA</p><p align="justify" class="Table-Para-1">(Cap 343)</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">TIC</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">8</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">9 Jan 1995</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Breaches under s 24(1) VCA</p><p align="justify" class="Table-Para-1">(Cap 343)</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">TIC</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">9</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">6 Nov 1995</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Desertion s14(1)</p><p align="justify" class="Table-Para-1">VCA (Cap 343))</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">12 months’ imprisonment</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">10</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">18 Dec 1995</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Breaches under s 24(1) VCA</p><p align="justify" class="Table-Para-1">(Cap 343</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Three months’ imprisonment</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">11</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">18 Dec 1995</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Breaches under s 24(1) VCA</p><p align="justify" class="Table-Para-1">(Cap 343</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Three months’ imprisonment (consec)</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">12</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">11 Jan 1996</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Breaches under s 24(1) VCA</p><p align="justify" class="Table-Para-1">(Cap 343</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Three months’ imprisonment</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">13</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">2 Sept 1997</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Breaches under s 24(1) VCA</p><p align="justify" class="Table-Para-1">(Cap 343</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Three months’ imprisonment (consec)</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">14</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">2 Sept 1997</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Breaches under s 24(1) VCA</p><p align="justify" class="Table-Para-1">(Cap 343</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Three months’ imprisonment</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">15</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">2 Sept 1997</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Breaches under s 24(1) VCA</p><p align="justify" class="Table-Para-1">(Cap 343</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Three months’ imprisonment</p><p align="justify" class="Table-Para-1">(consec)</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">16</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">2 Sept 1997</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Desertion s14(1)</p><p align="justify" class="Table-Para-1">VCA (Cap 343)</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">12 months’ imprisonment</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">17</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">30 November 1998</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Breaches under s 24(1) VCA</p><p align="justify" class="Table-Para-1">(Cap 343</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Three months’ imprisonment</p><p align="justify" class="Table-Para-1">(consec)</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">18</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">30 November 1998</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Breaches under s 24(1) VCA</p><p align="justify" class="Table-Para-1">(Cap 343</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Three months’ imprisonment</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">19</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">30 November 1998</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Desertion s14(1)</p><p align="justify" class="Table-Para-1">VCA (Cap 343))</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">12 months’ imprisonment</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">20</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">4 Aug 2000</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Desertion s14(1)</p><p align="justify" class="Table-Para-1">VCA (Cap 343))</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">nine months’ imprisonment (consecutive)</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">21</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">13 Sept 2000</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Desertion s14(1)</p><p align="justify" class="Table-Para-1">VCA (Cap 343))</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">12 months’ imprisonment</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">22</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">6 June 2002</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Desertion s14(1)</p><p align="justify" class="Table-Para-1">VCA (Cap 343)</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">12 months’ imprisonment</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">23</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">19 March 2004</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Robbery with hurt</p><p align="justify" class="Table-Para-1">s394 Penal Code</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Five years imprisonment and 12 strokes</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">24</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">19 March 2004</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Robbery with hurt</p><p align="justify" class="Table-Para-1">s394 Penal Code</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">TIC</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">25</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">19 March 2004</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Robbery with hurt</p><p align="justify" class="Table-Para-1">s 394 Penal Code</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">TIC</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">26</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>27 Aug 2009</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Consumption of methamphetamine</b></p><p align="justify" class="Table-Para-1"><b>S 8(b)(ii) MDA</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>12 months’ imprisonment</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">27</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>27 Aug 2009</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Possession of drug utensils</b></p><p align="justify" class="Table-Para-1"><b>S 9 MDA</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Seven months’ imprisonment (concurrent)</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">28</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>27 Aug 2009</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Possession of Methamphetamine</b></p><p align="justify" class="Table-Para-1"><b>S 8(a) MDA</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Eight months’ imprisonment (consecutive)</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">29</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">16 June 2011</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Resisting arrest s224 Penal Code</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">TIC</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">30</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">16 June 2011</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Theft in dwelling s 380 Penal Code</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Two months’ imprisonment</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">31</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>23 Oct 2012</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Failure to report for urine test</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>TIC</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">32</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>23 Oct 2012</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Failure to report for urine test</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>six months</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">33</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>23 Oct 2012</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Failure to report for urine test</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>six months (concurrent)</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">34</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">7 July 2014</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Causing grievous hurt by dangerous weapon or means</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">15 months imprisonment with three strokes of the cane</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">35</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>7 July 2014</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Failure to report for urine test</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Six months’ imprisonment</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">36</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>7 July 2014</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Failure to report for urine test</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>TIC</b></p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">37</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>7 July 2014</b></p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Failure to report for urine test</b></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>TIC</b></p></td></tr></tbody></table>
+
+  
+  
+
+187    Mr Hisham had also been placed at a drug rehabilitation centre in 30 June 2009 for morphine abuse (presumably dealt with within the same tranche of drug offences in serial numbers 26-28 above), and had been placed under drug supervision on 20 June 2011.
+
+### The accused’s persistency of offending requires specific deterrence
+
+188    Looking at Mr Hisham’s extensive list of antecedents, I realised that the court would not be looking at the whole picture if it were to only have regard to his drug antecedents. A rather more troubling feature of his antecedents is the fact of the accused’s _pattern of repeat_ offending within the _same genre_ of offences, despite receiving ever incrementally higher sentences. Scrutinizing his record, it appeared that the **_only_** thing that would stop Mr Hisham’s re-offending in a particular category of crime would be his finding and embarking on a **_new_** criminal genre. Between 1998 to 2002, Mr Hisham committed _four_ successive acts of desertion despite being given sentences of 12 months’ imprisonment, nine months’ imprisonment, and then two sentences of 12 months’ imprisonment on 15 September 2000 and 6 June 2002.
+
+189    Mr Hisham’s conduct could not be simply accounted as offences committed in the callowness of youth, as Mr Hisham went on to commit his _next genre_ of offences involving violence and the use of force including robbery with hurt, in 2004. He seemed **_undeterred_** by the sentence of five years’ imprisonment with 12 strokes of the cane, to _again_ resist arrest in 2011 and commit yet again another violent offence of causing grievous hurt by dangerous weapon or means, for which he received a 15-month sentence with three strokes of the cane. Mr Hisham came into his third criminal genre of drug offences in 2009, when he pleaded guilty to (_inter alia_) charges of possession and consumption of _methamphetamine_. He had again persisted in his scoff-law ways by failing to report for urine test on a total of six occasions in 2012 and 2014. Mr Hisham re-offended with the present offences in (counting remission) under a year-and-a-half after his release from prison.
+
+### Prosecution’s sentencing submission
+
+190    The learned DPP noted that Mr Hisham faced two charges with enhanced penalties as a repeat offender. The court, he argued, should still calibrate sentences upwards to reflect the accused’s person’s lack of remorse. He accordingly asked for an uplift of six months above the respective mandatory minimum sentences. He had remarked that the accused had taken the court through a “_very long drawn out trial_”[^182] in relation to both the admissibility and the voluntariness of the statement and secondly, all the circumstances surrounding the offence, The process had entailed the testimonies of three doctors and a total of 14 witnesses.
+
+191    There was, in my view, considerable validity in this observation, Mr Hisham had insisted on a trial despite knowing the strong forensic and documentary evidence he was facing in terms of the DNA profiling evidence, and his explicit admissions on 11 July 2016. While he most certainly had a right to claim trial, he had squandered the time and opportunity accorded when he mounted a defence comprising just bare assertions and specious claims, rather than any presentation of substantive evidence. Mr Hisham had also cast unwarranted aspersions against two officers: Officers Faizal and Low. In the latter case, he had asserted grossly unprofessional conduct, claiming of the officer’s threats to implicate his wife and a then 11-year-old child with a drug offence. The falsity of these claims was obvious as CNB had taken no further action against the mother and child, after initial investigations (which took just **_two weeks_** to conclude) and urine samples taken showed their non-involvement in drug consumption or other drug-related activities. Mr Hisham would have been well aware of this early conclusion (as he had been in contact with his family despite leaving the household) but nevertheless persisted to impugn the integrity and professionalism of Officer Low, casting him as a purveyor of base and underhand tactics at an statement recording session which had occurred some two months after his arrest, and six weeks **_after_** the cessation of investigations against his wife and child.
+
+192    The DPP’s characterisation of lack of remorse on the part of the accused seemed apt. Mr Hisham had also sought to thwart the investigation by going missing soon his release on station bail. An uplift of the sentences in these premises would not be unfair. These, along with Mr Hisham’s parlous criminal record, would be the primary bases for the eventual sentences of three years and five months for the section 31 MDA charge, and two years and six months for the _methamphetamine_ possession charge, that I had decided to impose.
+
+### Mitigation
+
+193    Mr Hisham did not tender any significant mitigation in his brief oral address.[^183] His focus appeared geared to being given some time to make arrangements for his daughter who had unfortunately suffered from _Tetralogy of Fallot_, a congenital birth defect of the heart. After some prompting, Mr Hisham mentioned that he was the sole breadwinner in a household with nine persons, which included two elderly fathers-in-law. He indicated that he would seek help from his siblings, and needed time to make agreements for the well-being of his children
+
+### The general rule of consecutive sentences for unrelated offences
+
+194    I will now explain why allowing the sentences to run consecutively for Mr Hisham’s case must be regarded as an exceptional measure. In _Public Prosecutor v Raveen Balakrishnan_ <span class="citation">\[2018\] 5 SLR 799</span>, the Honourable Menon CJ held at \[41\]:
+
+> 41    In my judgment, _as a general rule_, a multiple offender who has committed unrelated offences should be separately punished for each offence, and this should be achieved by an order that the individual sentences run consecutively… \[Emphasis in the original\]
+
+195    It is quite patent that the two proceeded charges involve distinct and unrelated offences. To explain the principle of a transaction in relation to criminal acts by the same offender, the High Court in _Mohamed Shouffee bin Adam_ v _PP_ <span class="citation">\[2014\] SGHC 34</span> (_Mohamed Shouffee_) cited D A Thomas’ _Principles of Sentencing_ (Heinemann, 2nd Ed, 1979) where at page p 53, the author states:
+
+>     The essence of the one-transaction rule appears to be that **_consecutive sentences are inappropriate when all the offences taken together constitute a single invasion of the same legally protected interest._** The principle applies where two or more offences arise from the same facts — as when the same series of blows constitutes assault occasioning actual bodily harm and wilful ill treatment of a child, or malicious wounding and indecent assault — **_but the fact that the two offences are committed simultaneously or close together in time does not necessarily mean that they amount to a single transaction_**. …
+
+>     \[Emphasis added\]
+
+196    Mr Hisham’s offending for the two proceeded charges do not involve a ‘_single invasion of the same legally protected interest’[^184]_ referred to in _Mohamed Shouffee._ given that his possession of _methamphetamine_ is quite **_distinct_** from his conduct in failing to give a urine sample without reasonable excuse. This is so even if it was entirely conceivable that his actions to defeat the collection process were predicated by a desire to hide his prior consumption of the same drug, which unconsumed portion had been found in the sachet enclosed by the pouch. Hence the latter crime involves the **_possession_** of a specified drug, while _gravamen_ of the former would be a form of **_obstruction_** of the course of justice by offenders in not providing a urine sample, generally in the offender’s reposed hope of avoiding detection of his consumption of illicit drugs.
+
+197    In _Raveen Balakrishnan_, Menon CJ explains the bases for consecutive sentencing for unrelated offences at \[42\]-\[43\]:
+
+> 42    First, this should be so as a matter of first principle. **_Since the offences are unrelated, each offence committed by a multiple offender should attract its own distinct consequence. There is no reason in principle why a second or subsequent offence should attract less or possibly no distinct consequence just by reason of the fact that it is one of a number of separate offences for which the offender is being sentenced_**. All else being equal, a multiple offender bears greater culpability and will have caused greater harm than an offender who has committed only a single offence…
+
+> 43    Secondly, in many situations, concurrent sentences for unrelated offences would not adequately serve, and in fact may undermine, the sentencing considerations that underlie the individual sentences comprising the aggregate term. **_For one thing, the imposition of concurrent sentences for unrelated offences would afford an offender who has already committed an offence less or no real incentive to refrain from committing a further offence, in so far as such a sentencing position would result in the offender not having to bear any real consequence for the further offending._** This creates a distorted incentive that detracts from the deterrent value of the individual sentences notionally imposed….
+
+>     \[Emphasis added\]
+
+### Reasons why the accused’s case was treated exceptionally, given the general rule for consecutive sentences to be imposed
+
+198    I had considered the principles against the salient considerations of this case. Chief among the considerations would be the fact that Mr Hisham, as a repeat drug offender faced **_two_** sentences with **_minimum mandatory terms_**, with the mandatory minimum term for the section 31 MDA offence (being pegged at the same level as a repeat consumption charge) carrying a **_mandatory minimum_** term of **_three_** years’ imprisonment, and the methamphetamine possession charge carrying a mandatory minimum of **_two_** years’ imprisonment. There was also good basis for an uplift from the mandatory minimum sentences for the reasons stated above. The cumulative addition of a sentence of three years and five months and another of two years and six months would eventuate in a global sentence of five years’ and 11 months’ imprisonment.
+
+199    On the particular facts, Mr Hisham, by virtue of having claimed trial and given a ‘_medical disability_’ defence against the section 31 MDA charge, had been precluded from explaining any **_connection_** between the _methamphetamine_ found in the black backpack with the two proceeded offences. This is because any explanation on his part would have become, implicitly or explicitly, an **_admission_** to **_both_** offences (for example; explaining that he had actually consumed a portion of the sachet of drugs found in the back pack, and that he balked at giving a urine sample because he had feared the finding of _methamphetamine_ metabolites in his urine if he had provided a specimen).. From a circumstantial point of view, I am nevertheless unable to exclude the possibility of there being such a factual connection, even if this would still render both offences as distinct and separate criminal acts. Another factor to consider would be the fairly **_small_** amount of _methamphetamine_ found, which was assayed to be 0.18 grams. This quantity would have attracted an imprisonment term within an imprisonment range of 8-12 months for an adult offender as a first-time offence. Mr Hisham was, unfortunately a second time offender, and thus liable to the two-year mandatory minimum.
+
+200    My sense was that running the two consecutive terms resulting in a term of almost six years imprisonment would be rather harsh. Even if I were to consecutively impose just the mandatory minimum sentences on account of considerations of totality and proportionality, Mr Hisham would have received a **_five-year_** term of imprisonment, for which he could expect to serve an approximate term of **_four years, five months and one week_** if I had backdated to allow the period of remand of six months and 21 days, which was from 12 July 2016 to 1 February 2017.
+
+201    After considerable reflection, I was of the view that the facts of Mr Hisham's case might call for a departure from the general rule in _Raveen Balakrishnan_ for consecutive sentencing for unrelated offences. I gave Mr Hisham a brief explanation of the basis of my sentencing considerations[^185]. It is axiomatic that an appropriate sentence must always be proportionate to the “_inherent gravity”_ of an accused person’s overall criminality. As held by Chao Hick Tin JA in _Hang Tuah bin Jumaat_ <span class="citation">\[2016\] 2 SLR 527</span> (at \[33\]):
+
+>     … (T)he court ultimately has a primary duty to determine the appropriate sentence which would best ensure that the ends of justice are met. ... **_One factor that the court should consider is whether the totality of the sentence served is proportionate to the inherent gravity of all the offences committed by the accused._** Hence, while the individual sentence for a particular offence may be perfectly appropriate, the cumulative effect of the sentences may well result in a total term of imprisonment that is disproportionate to the overall criminality of the accused …
+
+### Why backdating of the broken remand period would be inappropriate in this case
+
+(%3)       I was therefore formed the view that Mr Hisham should receive concurrent sentences for the two charges, with the **_global term_** of three years and five months’ imprisonment to commence from the date of his entry into custody after an extension of time was granted to settle personal affairs. The reason for not backdating his “_broken remand_” period is to ensure that the sentence is one that is just and proportionate, and responds to Mr Hisham’s essential need for specific deterrence, given his history of flagrant recidivism and tendency to re-offend shortly after release. Adding the “broken remand” of six months and 21 days to the imposed global sentence of three years and five months imprisonment would compute to a notional total term just one week short of **_four years_**. Had the sentence merely been one of three years and five months, with a ‘relation back’ of remand of six months and 21 days, Mr Hisham would have a notional remainder of just over 34 months’ imprisonment to serve. With the one-third remission allowed under section 50H of the Prisons Act (Cap 247 Rev Ed 2000) read with section 50(1)(a) of the Act, Mr Hisham would have been eligible for release after serving an additional **_22 months and 25 days_**.
+
+### Distinguishing Public Prosecutor V Sivanantha a/l Danabala
+
+202    Upon my survey in this area, my impression is that the merits of decided cases where the accused persons received a ‘relation back’ of sentence for a period of broken remand are starkly different from the present case. In the case of _Public Prosecutor v Sivanantha a/l Danabala_ <span class="citation">\[2015\] SGHC 154</span> (“_Sivanantha_”), the accused had been remanded (the first remand period) for a period of 19 months, starting from the date of arrest until the date before his acquittal following a trial. The Prosecution’s appeal against the acquittal was allowed. Thereafter, the accused re-entered remand and was subject to a second remand period from the date the appeal had been allowed until the date of his sentence, as the High Court adjourned sentencing, to afford time for counsel time to take instructions and prepare the plea-in-mitigation.
+
+203    While it would have been generally open for a court to simply ‘factor-in’ a prior broken remand period as a direction reduction to a term of imprisonment, this adjustment was not possible in _Sivanantha_ as the offence he had been convicted on carried a mandatory minimum of five years’ imprisonment. The exceptional circumstances thus required the accused’s sentence to be backdated to the date of arrest, in order to include **_both_** the first and second remand periods, with period after the offender’s acquittal to the date the appeal, where he had not been detained, to naturally be excluded[^186]. _Sivanantha’s_ case thus avoided a patent injustice by the taking into consideration of the 19-month remand term in the accused’s five-year sentence. As indicated above, the converse would be applicable here, as the ends of justice would require that Mr Hisham’s prior remand not be considered to **_counterbalance_** the relatively light sentence he would receive on concurrent sentencing.
+
+### Distinguishing PP v Lim Choon Hoo Darius
+
+204    In the case of _Public Prosecutor v Lim Choon Hoo Darius (“Darius Lim”)[^187]_, the accused had been remanded for more than 7 months (17 May 2018 to 27 December 2018) from the date he was first charged until he was released on bail (“first remand bail”). The accused subsequently, voluntarily returned to remand on 21 March 2018. He pleaded guilty to two charges 27 days later, on 16 April 2019 and was convicted and sentenced to three years’ and six months’ imprisonment for each charge. Each charge carried a mandatory minimum of two years’ imprisonment. Both sentences were ordered to run concurrently.
+
+205    A District Court, at first instance, had backdated the total imprisonment term to commence from 21 March 2018, which was the start of the second remand period. The court further directed the Director of Prisons to take into account the first remand period when computing the sentence. The formulation was assessed to inadvertently be contrary to Prison’s Act’s provisions with regard to sentence remission. Upon a petition for a criminal revision; CR 14 /2019, the High Court corrected the formulation of the sentence to set the commencement date back to the accused’s first remand of 17 May 2018, excluding the period of bail and taking into consideration the two periods of remand the accused had served.
+
+206    The aspect of _Darius Lim_ which is of relevance to this case would be fact that the accused there received **_concurrent_** sentences and there was a ‘relation back’ of his two periods of **_remand_** in computing the commencement date of sentencing. There are, notwithstanding this, critical differences between the factual matrices of the two cases. The first would be that _Darius Lim’s_ case involved two drug possession charges for _methamphetamine[^188]_ and _diamorphine[^189]_ where **_both_** species of narcotic substances were uncovered in a **_single_** episode of arrest on the night of 9 May 2018. There was hence no question that his offences had occurred in a **_single_** transaction. In addition, there were **_no_** other charges to take into consideration, as a discharge amounting to an acquittal had been granted for a third charge for the consumption of _morphine_, a specified drug.
+
+207    Unlike Mr Hisham, _Darius Lim_ did not just plead guilty, but had less prolific antecedents which only involved drug and property related offences. To recapitulate, I had sentenced Mr Hisham for offences that were distinct and different, and made an exception to the _general rule_ was that separate offences involving different legally protected interests, should have been punished separately by consecutive sentences. He had thus already received a significant reduction by the imposition of concurrent (rather than consecutive) sentences, and his “broken remand” period had not been factored in. The latter measure would ensure that his final sentence would be commensurable with his gravity of his offending and the offender specific qualities applicable in his case.
+
+208    While I would by no means lightly begrudge Mr Hisham his service of that substantial period of remand, it is incumbent on the court to take a holistic view of all salient aspects of the case before it. In this respect, I would just quote from this essential observation by See Kee Oon J held in _S Elamparithi v Public Prosecutor_ (unreported oral judgment, MA 9238/2019) at \[20\] that, “(S)_entencing is not a scientific exercise demanding mathematical precision; it is a matter of judicial discretion to be approached with a judicious measure of pragmatism and common sense, having regard to the offender-specific and offence-specific factors_.”
+
+### Accused’s conduct at trial is an additional differentiating factor for sentencing
+
+209    To sum up the discussion on sentencing considerations, the accused having exercised his right of trial, would not be eligible for any discount in sentence afforded to individuals who have demonstrated remorse by a timely plea of guilt. Mr Hisham’s lack of remorse also featured conspicuously in the manner he conducted himself in the fortnight of hearing days logged in the transcript. He had required the prosecution to produce most of its slate of 14 witnesses, including two doctors for the prosecution’s case, and a third at his behest.
+
+210    Mr Hisham had then failed to make any serious attempt to rebut the medical evidence of the three doctors’ testimonies that he was not in Acute Urinary Retention on 2-3 May 2016, merely producing memoranda showing that he had episodes of Acute Urinary Retention following bouts of Urinary Tract Infection on 10 August 2016 and early May 2017, and entirely disregarding the point that he showed no symptoms of Urinary Tract Infection on 2-3 May 2016 when he had been examined by Dr Kang and Dr Lim. The accused had run a defence which was brazenly untrue as Ms Siti Hajar had not heard him complain of any difficulty in urination when they had been together at _Hotel Boss_ on the night of 1-2 May 2016. Ms Siti Hajar had also indicated that Mr Hisham had suffered no more than two episodes of Acute Urinary Retention from her association with him in 2010 to their arrest in May 2016, thus negating any notion of his suffering from a chronic condition after a one off episode in 2012, after he had injured his back. After his release, Mr Hisham had absconded rather than seek clinical confirmation of his asserted condition to substantiate his claim.
+
+211    Mr Hisham had also extravagantly cast specious aspersions against two public officers, asserting that PW4; Officer Faizal had omitted making entries in the Station Diary of occurrences which would favour his case, and that his admissions in the Further Statement and Cautioned Statement had been obtained by PW14; Officer Low through coercive means including threats of criminal proceedings against Ms Siti Hajar and Master Henry.
+
+### Elaboration on specific deterrence as a factor in sentencing
+
+212    In the area of specific deterrence, it was important to recall that Mr Hisham’s history includes instances of serial offending despite substantial sentences. To recap from his documented antecedents[^190], Mr Hisham had 37 entries in his CRO 60 record. There were nine instances of desertion from the Vigilante Corps between 1993 and 2002. Despite Mr Hisham being sentenced to five years and 12 strokes for robbery with hurt in 2004, he had re-committed violence-related offences by resisting arrested in 2011, and then caused grievous hurt with a dangerous weapon in 2014, and given a term of 15 months and three strokes of the cane in that instance. Mr Hisham had transitioned from desertion and crimes associated with violence, to drug-related offences in 2009, where he had received a global term of 20 months imprisonment for _methamphetamine_ possession and consumption. He had also failed to report for urine testing on six occasions between 2012 and 2014. Mr Hisham’s dalliance with _methamphetamine_ in the instant case shows his inability to wean himself off the lure of drugs.
+
+213    In my judgment, the sentence of three years and six months, **_without_** taking into account his prior remand of six months and 21 days, is not just a condign and just punishment, but also affords a necessary _time-out_ for Mr Hisham to reset his course from his present path of frequent and persistent criminality.
+
+214    In denying him a relation back of the remand period, it should be made clear that s 318 (4) of the Criminal Procedure Code requires that the court must consider “_all circumstances of the case_” before deciding on the appropriate commencement date of the sentence. The bases, as explained above, should serve to demonstrate that there was good cause to take this measure to render a sentence that is both just and effective, to serve the ends of deterrence from re-offending.
+
+### Sentences imposed
+
+215    Accordingly, I imposed the following sentences:
+
+> DAC-926447-2016: section 31(2) MDA:
+
+> **_Three (3) years' and five (5) months' imprisonment._**
+
+> DAC-926449-2016 s 8(a) MDA p/u s 33(1) of the said Act :
+
+> **_Two (2) years' and six (6) months' imprisonment._**
+
+> Sentences in DAC-926447-2016 and DAC-926449-2016 to run **_concurrently_**, and the global sentence to commence from 25 February 2020.
+
+216    Upon Mr Hisham’s application, his sentence was further deferred to 3 March 2020.
+
+### Present status of accused
+
+217    After Mr Hisham’s new set of counsel had obtained leave to appeal, I had convened a session for bail pending appeal on 1 October 2020, and set bail at $30 000 (comprising $15 000 in cash and $15 000 in non-cash security) for this set of proceedings. Upon learning that Mr Hisham’s sureties had some difficulty in raising the cash component, I had convened a bail review session on 9 October 2020. There, counsel had indicated that in the affirmative when I had wished to ascertain that Mr Hisham’s bailors had no issue with the non-monetary bail previously ordered, and would have “_no difficulty furnishing $25,000 in cash overall_”[^191]for monetary bail for the two sets of proceedings which comprised the present appeal as well as pending proceedings that he had planned to contest (comprising one charge of s 5(1)(a) MDA p/u s33(4B)(a) of the Act, a charge of s 380 PC and a third charge under s 411PC). I had accordingly reduced monetary bail to two sets of $12 500 in ‘cash bail’, while maintaining non-monetary bail at $15 000.
+
+218    Much to my surprise, Mr Hisham has **_not_** been bailed out[^192], as of the date of the completion of these grounds. I should add that I am prepared to revisit and review the issue of bail pending appeal if any further titration on bail quantum is required on account of any pecuniary, or other, difficulties Mr Hisham’s prospective bailor(s) may be facing.
+
+219    The accused remains in custody.
+
+* * *
+
+[^2]: Notes of Evidence 3 May 2018, Page 1, line 21 to Page 16, line 25.
+
+[^3]: Admitted as C1A.
+
+[^4]: Exhibit C2A.
+
+[^5]: _Testimony dispensed._ Report marked Exhibit P1.
+
+[^6]: _Testimony dispensed._ Report marked Exhibit P2
+
+[^7]: Notes of Evidence, 10 January 2018, Pages 6-13
+
+[^8]: Notes of Evidence, 10 January 2018, Pages 14-54
+
+[^9]: Notes of Evidence, 10 January 2018, Pages 55-80
+
+[^10]: Notes of Evidence, 11 January 2018, Pages 2-50
+
+[^11]: Notes of Evidence, 11 January 2018, Pages 51-85
+
+[^12]: Notes of Evidence, 11 January 2018, Pages 86-115
+
+[^13]: Notes of Evidence, 3 May 2018, Pages 17-34
+
+[^14]: Notes of Evidence, 3 May 2018, Pages 34-41
+
+[^15]: Notes of Evidence, 4 May 2018, Pages 1-18
+
+[^16]: Notes of Evidence, 4 May 2018, Pages 18-34
+
+[^17]: Notes of Evidence, 4 May 2018, Pages 39-107
+
+[^18]: Notes of Evidence 13 February 2019, Page 45 to 15 February 2019, Page 122.,
+
+[^19]: Notes of Evidence 8 October 2019, Pages 2-76.
+
+[^20]: Notes of Evidence, 8 October 2019, Pages 77-110.
+
+[^21]: Notes of Evidence, 11 January 2018, Page 53, lines 19-23.
+
+[^22]: Exhibit P1.
+
+[^23]: Exhibit P7.
+
+[^24]: Exhibit P5 at \[1\].
+
+[^25]: Exhibit P5 at \[2\]
+
+[^26]: Exhibit P4.
+
+[^27]: Exhibit P21.
+
+[^28]: Exhibit P5 at \[4\].
+
+[^29]: Exhibit P 19
+
+[^30]: Exhibit P16.
+
+[^31]: Exhibit P17
+
+[^32]: Exhibit D2.
+
+[^33]: Exhibit D4.
+
+[^34]: Notes of Evidence 10 January 2018. Page 15, lines 3-16.
+
+[^35]: Notes of Evidence 10 January 2018. Page 16, lines 1-10
+
+[^36]: Notes of Evidence 10 January 2018. Page 40, line 29.
+
+[^37]: Exhibit P4.
+
+[^38]: Notes of Evidence 10 January 2018 at Page 18, line 31.
+
+[^39]: Notes of Evidence 10 January 2018 at Page 25, lines 29-31.
+
+[^40]: Notes of Evidence 10 January 2018 at Page 27, lines 3-4
+
+[^41]: Notes of Evidence 10 January 2018 at Page 35, lines 6-9
+
+[^42]: Notes of Evidence 10 January 2018 at Page 36, line 19
+
+[^43]: Notes of Evidence 10 January 2018 at Page 37, lines 11-15.
+
+[^44]: Notes of Evidence 10 January 2018 at Page 37, lines 22-25.
+
+[^45]: Notes of Evidence 10 January 2018 at Page 42, line 10.
+
+[^46]: Notes of Evidence 10 January 2018 at Page 46, lines 27-30.
+
+[^47]: Notes of Evidence 10 January 2018 at Page 48, lines 30-32.
+
+[^48]: Notes of Evidence 10 January 2018 at Page 49, line 1 to Page 51, line 23.
+
+[^49]: Notes of Evidence 10 January 2018 at Page 53, lines 26-27.
+
+[^50]: Notes of Evidence 10 January 2018 at Page 22, lines 22-25.
+
+[^51]: Notes of Evidence 10 January 2018 at Page 23, lines 14-23.
+
+[^52]: Notes of Evidence 10 January 2018 at Page 58, line 8 to Page 59, line 10.
+
+[^53]: Notes of Evidence 10 January 2018 at Page 59, lines 16-17.
+
+[^54]: Notes of Evidence 10 January 2018 at Page 59, lines 23-29.
+
+[^55]: This is a fragment from the report dated 10 May 2016 and admitted as Exhibit P5.
+
+[^56]: Notes of Evidence 10 January 2018 at Page 60, lines 19-20.
+
+[^57]: Notes of Evidence 10 January 2018 at Page 60, lines 25-29.
+
+[^58]: Notes of Evidence 10 January 2018 at Page 60, line 31 to Page 61, line 2.
+
+[^59]: Notes of Evidence 10 January 2018 at Page 62 line 21 to Page 63, line 3.
+
+[^60]: Notes of Evidence 10 January 2018 at Page 65 lines 4-5.
+
+[^61]: Notes of Evidence 10 January 2018 at Page 64 lines 6-7.
+
+[^62]: Notes of Evidence 10 January 2018 at Page 67 lines 3-15.
+
+[^63]: Notes of Evidence 10 January 2018 at Page 69 lines 6-10
+
+[^64]: Notes of Evidence 10 January 2018 at Page 69 lines 20-21
+
+[^65]: Notes of Evidence 10 January 2018 at Page 70 line 13.
+
+[^66]: Exhibit P5
+
+[^67]: Exhibit P6.
+
+[^68]: Notes of Evidence 11 January 2018 at Page 9 lines 6-17.
+
+[^69]: Notes of Evidence 11 January 2018 at Page 11 lines 5-10.
+
+[^70]: Notes of Evidence 11 January 2018 at Page 17 line 25 to Page 18, line 6.
+
+[^71]: Notes of Evidence 11 January 2018 at Page 18 line 19 to Page 20, line 6.
+
+[^72]: Exhibit D2
+
+[^73]: Notes of Evidence 11 January 2018 at Page 33 lines 21-23.
+
+[^74]: Notes of Evidence 11 January 2018 at Page 33 lines 31-32.
+
+[^75]: Notes of Evidence 11 January 2018 at Page 35 line 20
+
+[^76]: Notes of Evidence 11 January 2018 at Page 42 lines 27-32.
+
+[^77]: Notes of Evidence 8 October 2019 at Page 81 lines 27-31.
+
+[^78]: Notes of Evidence 8 October 2019 at Page 82 lines 11-13.
+
+[^79]: Notes of Evidence 8 October 2019 at Page 83 lines 14-15.
+
+[^80]: Exhibit P21.
+
+[^81]: Notes of Evidence 8 October 2019 at Page 90 lines 18-28.
+
+[^82]: Notes of Evidence 8 October 2019 at Page 90 line 29 to Page 91, line 3.
+
+[^83]: Notes of Evidence 11 January 2018. at Page 63 lines 28-32
+
+[^84]: Notes of Evidence 11 January 2018. at Page 52 lines 11-13.
+
+[^85]: Notes of Evidence 11 January 2018. at Page 59 line 5.
+
+[^86]: Notes of Evidence 11 January 2018. at Page 65 lines 13-19.
+
+[^87]: Admitted as Exhibit P7.
+
+[^88]: Notes of Evidence 11 January 2018. at Page 88 lines 17-18.
+
+[^89]: Notes of Evidence 11 January 2018. at Page 112, lines 3-23.
+
+[^90]: Notes of Evidence 11 January 2018. at Page 91 line 1 to Page 92 line 31.
+
+[^91]: Exhibit P8, at Page 6 “Conclusion”.
+
+[^92]: Notes of Evidence 3 May 2018. at Page 36 line 3 to Page 38 line 30.
+
+[^93]: Notes of Evidence 3 May 2018. at Page 45 line 6 to Page 46 line 27.
+
+[^94]: Admitted as Exhibit P3.
+
+[^95]: Notes of Evidence 3 May 2018. at Page 55 line 6 to Page 46 line 27.
+
+[^96]: Notes of Evidence 4 May 2018. at Page 26 line 3 to Page 28 line 23.
+
+[^97]: Notes of Evidence 4 May 2018. at Page 32 lines 11-17.
+
+[^98]: Exhibit P19 First Long Statement from Mohd Hisham.
+
+[^99]: Exhibit P17 Further Statement from Mohd Hisham.
+
+[^100]: Exhibit P18 First Cautioned Statement from Mohd Hisham and Exhibit P16 Second Cautioned Statement from Mohd Hisham.
+
+[^101]: Exhibit P 18 \[1} to \[5\]
+
+[^102]: Marked B for the _voir dire_ Ancillary Hearing, and later admitted and marked P17.
+
+[^103]: Marked A for the Ancillary Hearing, and later admitted and marked P16.
+
+[^104]: Exhibit E admitted on 14 February 2019.
+
+[^105]: Notes of Evidence 13 February 2019, Page 63, line 9-13
+
+[^106]: Exhibit C, admitted on 14 February 2019.
+
+[^107]: Notes of Evidence, 13 February 2019, Page 3, line 27.
+
+[^108]: Notes of Evidence, 13 February 2019, Page 3, line 28 to Page 4 , line 3. .
+
+[^109]: Notes of Evidence, 4 May 2018, Page 67, lines 19-21.
+
+[^110]: Notes of Evidence, 4 May 2018, Page 88, lines 22-31
+
+[^111]: Notes of Evidence, 13 February 2019, Page 5, lines 24-25.
+
+[^112]: Notes of Evidence, 13 February 2019, Page 6, lines 1-12.
+
+[^113]: Notes of Evidence, 4 May 2018, Page 66, line 24 to Page 67, line 18.
+
+[^114]: Notes of Evidence, 13 February 2019, Page 7, lines 20-31
+
+[^115]: Notes of Evidence, 4 May 2018, Page 67, lines 24-32.
+
+[^116]: Notes of Evidence, 13 February 2019, Page 10, line 22.
+
+[^117]: Notes of Evidence, 13 February 2019, Page 77, line 22 to Page 78, line 20.
+
+[^118]: Notes of Evidence, 13 February 2019, Page 78, line 32 to Page 79, line 23.
+
+[^119]: Notes of Evidence 13 February 2019, Page 7, lines 20-28.
+
+[^120]: Nots of Evidence, 15 February 2019, Page 23, lines 11-31
+
+[^121]: Note of Evidence, 13 February 2019, Page 92, lines 5-17.
+
+[^122]: Note of Evidence, 13 February 2019, Page 92, lines 18-27.
+
+[^123]: Notes of Evidence, 4 May 2018, Page 4, lines 6-9.
+
+[^124]: Notes of Evidence, 7 October 2019, Page 4, lines 4-8. (_hesitations and repetitions edited_)
+
+[^125]: Notes of Evidence, 4 May 2018, Page 104, lines 15-16.
+
+[^126]: Notes of Evidence, 4 May 2018, Page 88, lines 14-16.
+
+[^127]: Exhibit B at ancillary hearing, later Exhibit P17.
+
+[^128]: Notes of Evidence, 14 February 2019, Page 16, at lines 24-30
+
+[^129]: Notes of Evidence, 14 February 2019, Page 58, at line 20.
+
+[^130]: Notes of Evidence, 15 February 2019, Page 5 line 29 to Page 19 at line 32.
+
+[^131]: Notes of Evidence, 15 February 2019, Page 19 at lines 28-31.
+
+[^132]: Exhibit D5.
+
+[^133]: Notes of Evidence, 15 February 2019, Page 20 line 26 to Page 33 at line 18.
+
+[^134]: Notes of Evidence, 15 February 2019, Page 20 line 28 to Page 21 at line 4
+
+[^135]: Exhibit D3.
+
+[^136]: Admitted as Exhibit D2.
+
+[^137]: Admitted as Exhibit D4.
+
+[^138]: Exhibit D1.
+
+[^139]: As covered and analyzed in \[29\]-\[56\] of these Grounds of Decision.
+
+[^140]: In Exhibit D2.
+
+[^141]: Notes of Evidence 10 January 2018 at Page 59, lines 23-29.
+
+[^142]: Notes of Evidence 10 October 2018 at Page 18, lines 31.
+
+[^143]: Notes of Evidence 10 January 2018 at Page 37, lines 17-20.
+
+[^144]: Notes of Evidence 10 January 2018 at Page 60, line 13.
+
+[^145]: Notes of Evidence 10 January 2018 at Page 69, line 6-30.
+
+[^146]: Notes of Evidence 10 January 2018 at Page 60, line 13
+
+[^147]: Notes of Evidence 11 January 2018 at Page 14, lines 10-12.
+
+[^148]: Notes of Evidence 11 January 2018 at Page 14, lines 25-26.
+
+[^149]: Notes of Evidence 8 October 2019 at Page 81, lines 27-31
+
+[^150]: Notes of Evidence 8 October 2019 at Page 89, lines 6-9.
+
+[^151]: Exhibit P19 at \[7\] and \[11\].
+
+[^152]: Notes of Evidence, 7 October 2019, Page 10, lines 10-16.
+
+[^153]: Notes of Evidence 7 October 2019, Page 16 line 8, to Page 21, line 2.
+
+[^154]: Notes of Evidence, 7 October 2019, Page 11, line 8 to Page 12, line 9.
+
+[^155]: Notes of Evidence, 8 October 2019, Page 10, lines 5-7.
+
+[^156]: Notes of Evidence, 8 October 2019, Page 21, lines 12-20.
+
+[^157]: Notes of Evidence, 8 October 2019, Page 21, line 29 to Page 22, line 9.
+
+[^158]: Exhibit P20; Further Statement of Siti Hajar Binte Sami’an dated 24 May 2016.
+
+[^159]: Notes of Evidence, 8 October 2019, Page 9, lines 12-20.
+
+[^160]: Notes of Evidence, 8 October 2019, Page 22, lines 14-31.
+
+[^161]: Notes of Evidence, 8 October 2019, Page 39, lines 15-30.
+
+[^162]: Notes of Evidence, 8 October 2019, Page 46, line 17-Page 47, line 1.
+
+[^163]: Underlined passage at \[17\].
+
+[^164]: Notes of Evidence, 8 October 2019, Page 49, lines 21-32.
+
+[^165]: Notes of Evidence, 8 October 2019, Page 65, lines 17- Page 67, line 7.
+
+[^166]: Notes of Evidence, 8 October 2019, Page 69, lines 14-17.
+
+[^167]: Notes of Evidence, 8 October 2019, Page 35, line 7.
+
+[^168]: At \[54\]-\[56\] above.
+
+[^169]: Exhibit G, admitted on 11 February 2020
+
+[^170]: Notes of Evidence 8 October 2019, Page 91, lines 1-6.
+
+[^171]: Notes of Evidence, 3 May 2018, Page 31, lines 18-22.
+
+[^172]: Notes of Evidence, 3 May 2018, Page 29, lines 17-21.
+
+[^173]: DAC-926447-2016.
+
+[^174]: Exhibit D4.
+
+[^175]: Please see \[157\] above.
+
+[^176]: Please see \[19\]-\[28\] of these grounds.
+
+[^177]: Notes of Evidence, 11 February 2020, at Page 35, lines 24-30.
+
+[^178]: Exhibit P19 at \[4\] and \[8\]
+
+[^179]: Please see \[71\]-\[123\] of these grounds.
+
+[^180]: Exhibit P16
+
+[^181]: Notes of Evidence 4 August 2020, Page 8, line 25.
+
+[^182]: Notes of Evidence 11 February 2020, Page 44, line 30.
+
+[^183]: Notes of Evidence 11 February 2020, Page 46, line 6 to Page 47, line 24.
+
+[^184]: At \[30\] of the Judgment.
+
+[^185]: Notes of Evidence, 11 February 2020, Page 51, line 32 to Page 53, line 7.
+
+[^186]: At \[44\] of the Judgment.
+
+[^187]: SC 904674-2018.
+
+[^188]: DAC 920381-2018
+
+[^189]: DAC 920380-2018
+
+[^190]: At \[186\]
+
+[^191]: Notes of Evidence, 9 October 2020, Page 2, lines 19-20.
+
+[^192]: As noted at \[3\] of these grounds.
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F25383-SSP.xml)

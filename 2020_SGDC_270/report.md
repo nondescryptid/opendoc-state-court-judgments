@@ -1,0 +1,838 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Damen Chiam  
+
+### \[2020\] SGDC 270
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">District Arrest Case No 924714 of 2016, Magistrate's Appeal No. 9871/2020/01</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">08 December 2020</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Luke Tan</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Mr Kong Kuek Foo, Mr Mark Yeo and Ms Lydia Goh for the Public Prosecutor; Mr. Gino Hardial Singh (until 5 April 2019) and Mr Manickavasagam s/o R M Karuppiah Pillai (from 6 May 2019) for the accused</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Damen Chiam</td></tr></tbody></table>
+
+Criminal Law – Statutory offences – Rioting with deadly weapon
+
+\[LawNet Editorial Note: An appeal to this decision has been filed in MA 9871/2020/01.\]
+
+8 December 2020
+
+### District Judge Luke Tan:
+
+## Introduction
+
+1       The accused, Damen Chiam, a 41-year-old male New Zealand national. He was charged with rioting armed with deadly weapons, and offence he allegedly committed with eight accomplices against five victims.
+
+2       The charge against the accused reads:
+
+>     “You…are charged that you, on 23 June 2016, at about 4.00 p.m., at 33 Jalan Rama Rama, #XXX, De Royale, Singapore, together with Yin Tei Yin Tei, Yeo Zhi Xiang, Wong Yong Yi, Mohammad Firdaus Bin Abdullah, Dzulhisyam Bin Mohamed Jaffar, Muhammad Zaid Bin Abdul Rahim, Sim Yew Sheng, and Sng Jian Wen, Thomas, were members of an unlawful assembly whose common object was to cause hurt to Ang Yong Hong Kelvin, Ong Han Wee Charlie, Wang Wei, Mu Ting and Lin Ming, and in the prosecution of the common object of the said assembly, committed the offence of rioting armed with deadly weapons, _to wit_, some of you were armed with knives, and a metal rod, which used as a weapon of offence is likely to cause death, and you have thereby by virtue of section 149 of the Penal Code, Chapter 224, committed an offence punishable under section 148 of the Penal Code, Chapter 224.”
+
+3       Initially, the Prosecution applied for a joint trial of the accused with one of his alleged accomplices, Wong Yong Yi (“Yong Yi”). Both the accused and Yong Yi were represented by counsel. These were (initially) Mr Gino Hardial Singh for the accused, and Mr Sankar for Yong Yi. Both counsels indicated that they had no objections to the Prosecution’s application for a joint trial.
+
+4       On the fourth day of the joint trial (6 August 2018), Yong Yi did not turn up, and DPP Kong Kuek Foo (DPP Kong) informed the Court that there was a police gazette issued against Yong Yi as he was wanted by the CNB (Central Narcotics Bureau)[^1]. As his counsel was not able to contact Yong Yi, a warrant of arrest was issued against him. Mr Shankar eventually discharged himself from acting for Yong Yi, and the trial was adjourned pending his arrest.
+
+5       On 1 April 2019, the DPP informed the Court that Yong Yi had been uncontactable since 6th August 2018. The Prosecution then applied to sever the joint trial and to proceed against the accused alone, so as to not delay the matter further and thus avoid the possibility of prejudicing the accused in his defence.
+
+6       Thereafter, following evidence from further Prosecution witnesses, and while still in the midst of the Prosecution’s case, Mr Manickavasagam (“Mr Manicka”) took over from Mr Singh as counsel for the accused on the tenth day of the proceedings.
+
+7       At the end of the Prosecution’s case, as there was sufficient evidence to make out each and every element of the charge, I called on the accused to enter his defence. The accused testified and also called most of his alleged accomplices to testify. However, even though Yong Yi, who had started the joint trial with the accused, had been arrested by that time, and Yong Yi was available to the Defence (as was Yong Yi’s statements before the end of the trial), the Defence declined to call Yong Yi as a witness.
+
+8       After examining the notes of evidence (NE), the exhibits, and the submissions from the Prosecution and the Defence, I was of the view that there was sufficient evidence to prove the case against the accused beyond a reasonable doubt on the charge, and I convicted him accordingly. Thereafter, following sentencing submissions from the Prosecution and a brief oral mitigation plea, and after considering that the accused had previously been remanded for one week for investigations, I imposed an imprisonment sentence of 31 months and 3 weeks, and 6 strokes of the cane.
+
+9       The accused, being dissatisfied, has filed an appeal against his conviction and sentence. He is currently on bail pending the hearing of the appeal. I now give the reasons for my decision.
+
+## Agreed Facts
+
+10     For the purposes of the trial, the parties had set out the following undisputed facts in a statement of agreed with four accompanying annexures (“the ASOF”). I have underlined and set out in bold some of the more pertinent aspects of the agreed facts for emphasis.
+
+> (a)     On 23 June 2016, at about 4.04 p.m., Lee Siok Hwa Rebekah called the Police and informed that "there is some domestic violence. 1 heard noise and throwing of stuff, I also saw blood stain on the balcony but I cannot see the people". The incident location was given as 33 Jalan Rama Rama #XXX De Royale S(329112).
+
+> (b)     Investigations revealed that at the material time, the accused and Yin Tei, were business partners, and Yin Tei was staying at an apartment ("the apartment") located at 33 Jalan Rama Rama #XXX, Singapore, which the accused had rented online through Airbnb, for the period from 21 to 23 June 2016. On 23 June 2016, at about 2.00 p.m., Yin Tei called the accused and informed that there was a group of male subjects (later identified as the victims) who had entered the apartment and demanded that he move out. The accused then purportedly called the landlord, claiming that he had extended the tenancy until 24 June 2016. Soon thereafter, Yin Tei called the accused again, and alleged that he was assaulted by the said male subjects.
+
+> (c)      Call logs of 23 June 2016, between 2.41 p.m. and 4.04 p.m., from the accused's handphone, show a number of calls between the accused and Yong Yi, and between the accused and Firdaus. The WhatsApp messages of 23 June 2016, extracted from the accused's handphone reveal conversation threads between the accused and Firdaus (Annex A), the accused and Dzulhisyam (see Annex B); the accused and one Kelvin Lim (see Annex C); and the accused and Yong Yi (see Annex D).
+
+> (d)      CCTV footage of the main entrance and 1st floor lift lobby at 33 Jalan Rama Rama (“De Royale”) shows that between 3.41 p.m. and 3.51 p.m., the accused, Firdaus, Dzulhisyam, Yong Yi, Zaid, and Yeo Zhi Xiang arrived at De Royale, and proceeded to the 1stfloor lift lobby. Thereat, they waited for Thomas and Yew Sheng to arrive, At about 3.52 p.m., Thomas and Yew Sheng arrived at the main entrance, and were led by the accused to the 1st floor lift lobby. Thereafter, at about 3.54 p.m., the 8 of them entered the lift together, and proceeded to level 4.
+
+> (e)      Between 3.54 p.m. and 3.57 p.m., 8 men comprising of the accused, Yong Yi, Zhi Xiang and the 5 accomplices gathered outside the apartment. At this point, Yin Tei was inside the apartment. The 8 men then entered the apartment.
+
+> (f)     Multiple blood stains were subsequently found at the incident location. Some of the blood stains on a shower head holder that was seized as a case exhibit were traced to Yong Yi. Not all the blood stains on the shower head holder were analysed.
+
+> (g)     The victims subsequently sought medical attention at Tan Tock Seng Hospital. All the victims were found with some form of injury as detailed in the statement of agreed facts, including:
+
+>> i       For Kelvin Ang: swelling and tenderness over the left forearm, tenderness over the right distal radius, and tenderness over the left 5th metacarpal.
+
+>> ii       For Charlie: a 3 cm bruise over the right flank, and bruising and abrasion over the left index finger.
+
+>> iii       For Wang Wei: abrasions over the right side of his head, and over the right wrist as well as tenderness over left lower anterior chest wall (6th to 7th rib), and minor abrasion over the occipital region.
+
+>> iv       For Mu Ting: superficial abrasions over the angle of the right eye, a superficial abrasion over the right side of the neck, and abrasions over the left side of the neck.
+
+>> v       For Lin Ming: A deep laceration in his left hand, and abrasion in his right hand. He was advised for wound debridement and tendon repair but he opted to be managed conservatively.
+
+> (h)     The contents of their medical reports were not in dispute.
+
+## Summary of the Prosecution’s Evidence
+
+11     The Prosecution called twenty witnesses, including the victims, police officers and paramedics, and witnesses from De Royale. I have summarised the pertinent aspects of the witnesses’ evidence below.
+
+### Reporting the riot: Evidence of witnesses from De Royale
+
+12     PW1 Lee Siok Hwa Rebekah (“Rebekah”), made a First Information Report (FIR -P1) on 23rd June 2016 at about 4.04pm stating that “There is some domestic violence. I heard noise and throwing of stuff. I also saw blood stain on the balcony but I cannot see the people.” The incident location given was 33 Jalan Rama Rama #XXX De Royale, Singapore 329112 (“the apartment”). Rebekah lives above that apartment.
+
+13     PW3 Yeo Leng Hong (“Yeo”) is the security supervisor at Royale. He testified that a Mr. Ong (i.e. “Charlie”) and Mr. Ang i.e. Kelvin Ang (who were two of the victims) wanted to enter De Royale about 3.20 pm on 23 June 2016. They exchanged passes and also made an entry in the renovation contractor record book. Subsequently at 3.53 pm, the accused, whom Yeo described as a sub-tenant with a resident access card, brought Sim Yew Sheng and Sng Jian Wen to purportedly help him move house. Yeo followed them to the apartment.
+
+14     About 10 seconds after the group entered the apartment, Yeo heard the sound of breaking glass and someone throwing furniture. Yeo felt that there was a fight in the apartment and he went to press the lift button. He subsequently saw the accused come out alone, followed by another person about 3 seconds later. The latter’s forehead had slight bleeding. Yeo then took the lift downstairs, went to the management office, and was instructed by the management to call the police. Subsequently, Damen came down to the management office and informed Yeo that his friend was still in the apartment.
+
+15     The accused did not appear injured and he requested Yeo to go upstairs to the apartment and identify himself as a security guard. Yeo went up and knocked on the door of the apartment but someone inside shouted that they would only open the door when the police arrive. Subsequently the police came and Yeo brought them to apartment, and handed the matter over to them.
+
+### Evidence of the riot: the victims’ testimonies
+
+#### PW8 Ong Han Wee Charlie (“Charlie”)
+
+16     PW8 Ong Han Wee Charlie (“Charlie”) is the manager of a moving company. On 23rd June 2016, he went to De Royale at 1522 hours, as he had been instructed by his then boss, Lin Ming, to go there with Kelvin Ang and Wang Wei to move the sofa and the Christmas tree. Wang Wei was Lin Ming’s friend, who had gone to the apartment to meet Lin Ming.
+
+17     When they reached the apartment sometime in the afternoon, Lin Ming opened the door, and they were told to move the damaged sofa and Christmas tree. However, they could not do so as they had been told by the security guard to apply for a permit before they could do this. At that time, aside from the four of them, Mu Ting was also present. In addition, Charlie was informed by Lin Ming that there was a tenant, who was from Hong Kong, in one of the rooms in the apartment. However, Charlie did not see him when he entered the apartment. Lin Ming also said that the tenant had damaged the sofa. Charlie said that he saw that the sofa had a hole which had been caused by a cigarette.
+
+18     Charlie said that subsequently, a group of about eight to ten people came to the apartment. Mu Ting did not allow them to enter, but the accused, who was part of the group, had said “Don’t care. Just all go in.”[^2]. Yong Yi, who was wearing a cap and carrying a black bag, was present. Charlie said that the tenant came out of his room when the group of people arrived.
+
+19     After they entered the apartment, Mu Ting spoke to the accused and pointed out to him a big hole on the sofa caused by a cigarette. Charlie denied that the accused had then asked where his bags were. As Mu Ting was talking to the accused, the latter punched Mu Ting on the face. The accused then shouted at his group in Hokkien “all the---the---the brothers to---to attack”.[^3] Based on what the accused said, Charlie thought that they were from the secret society gang “369”.
+
+20     Yong Yi, who was wearing a cap, then pulled out a “metal rod” (i.e. the shower head holder) from a bag that he had brought, and used it to try to hit Mu Ting’s head. Charlie said that his boss, Lin Ming then used one of his hands to ward off the attack, and this resulted in him suffering deep cuts on his hand.[^4] Charlie said that a big built Malay person (identified as Zaid) from the accused’s group threw a vase at Kelvin Ang which hit the latter’s hand. The vase broke and pieces of it fell onto the floor. Glasses were also thrown by another male Malay (identified as Firdaus) at Charlie and Kelvin Ang.
+
+21     After the fight ended, the accused’s group exited the apartment leaving only Charlie’s group in the apartment, together with Yong Yi, and the tenant (Yin Tei), who had run back to the room when the fight started. Mu Ting closed the main door after the accused’s group left the apartment. Lin Ming then called the police, and told his group not to let Yong Yi or Yin Tei leave the apartment because they were waiting for the police.
+
+22     Charlie testified that Yong Yi kept asking them to open the door to let him leave, but they did not do so. Instead Mu Ting stood guard at the door. Shortly after this, the police arrived. They looked around the apartment and noted the black bag (shown in photograph P3-5). Charlie’s group also informed the police that a group of people had come to the apartment and hit them. Charlie further said that Yong Yi had brought the bag. Paramedics subsequently came to the apartment and dressed the wounds of those who were injured. Charlie said that everyone in the apartment was subsequently placed under arrest and brought back to the police station for investigation.
+
+23     Charlie testified that he himself suffered a deep cut on his left index fingers and bruises on his lower back, and his injuries and treatment were detailed in a medical report dated 8th August 2016 (P17) from Tan Tock Seng Hospital (TTSH). As for Lin Ming, Charlie said that he had to undergo surgery arising from the incident.
+
+24     When questioned by counsel, Charlie denied that he or Kelvin Ang had beaten Yin Tei up and caused his injuries. However, he was not aware if Yin Tei was assaulted prior to the arrival of Kelvin Ang and himself to the apartment. He also denied that his group had slashed Yong Yi in the face but said that Yong Yi could have been injured as a result of a vase thrown by the other group during the incident.
+
+#### PW9 Mu Ting (“Mu Ting”)
+
+25     PW9 Mu Ting (“Mu Ting”) testified that in June 2016 he worked for Lin Ming’s company and that he was in charge of the cleaning. Mu Ting left the company sometime between August and September 2016.
+
+26     On 23rd June 2016, he went with Lin Ming to the apartment in the afternoon to check on its condition and to clean it. When he reached there, the apartment was very disorderly with broken glass, cigarette buds, syringes, trash bags and rubbish. He also said that cutlery was scattered all over the table, and he gathered them and put in the container as shown in photograph P3-113. Mu Ting also cleaned up the broken glass and other rubbish.
+
+27     Mu Ting said that while he was inspecting the apartment, he did not find any weapons or dangerous items. As for knives in the washing machine (shown in photograph P3-109), Mu Ting did not know how they ended up there, and that he did not inspect the washing machine when he was there.
+
+28     Mu Ting said that the sofa was damaged with a burnt mark in the centre of the sofa (as depicted in photograph P3-7), and he informed Lin Ming about this damage. At that time, there was a tenant (Yin Tei) in the apartment who mentioned that he was from Hong Kong. Mu Ting asked the tenant about the broken glass on the floor and the burnt mark on the sofa but the tenant said that he wasn’t sure. Subsequently, Lin Ming engaged the tenant but Mu Ting does not know what happened between them. After that, the tenant came and handed his phone to Mu Ting. A man, on the other end of the line, told Mu Ting that he was in Cambodia and also said something in English which Mu Ting did not understand. Mu Ting then handed the phone back to the tenant, who returned to his room, while Mu Ting carried on cleaning the place.
+
+29     Subsequently, Mu Ting was joined by Kelvin Ang, Charlie and Wang Wei at the apartment. Mu Ting said that Kelvin Ang and Charlie were also employees of the company, while Wang Wei and Lin Ming addressed each other as brother. Later, a group numbering at least five people arrived at the 4th floor lift lobby. Someone from inside the apartment opened the door and the group of people came forward and pushed their way into the apartment.
+
+30     Mu Ting then asked the accused, who was the one physically nearest to him, who had caused damage to the sofa. When he did so, the accused hit Mu Ting on his face with his hand. The accused also shouted something at that point in time, but Mu Ting could not understand what he was saying. Mu Ting wanted to retaliate but the accused ran to the passageway, with Mu Ting chasing after him and struggling with him, before the accused ran back to the living room.
+
+31     Mu Ting stopped chasing the accused when he saw that there were bloodstains and broken pieces on the living room floor. He also saw Lin Ming and another person (later identified as Yong Yi) lying on the floor, with Lin Ming pinning the other person, who had blood on his face, to the floor.
+
+32     While still on the floor, Lin Ming passed Mu Ting, who was standing behind him, a metal pole (shown in photograph P3-12), and shouted to him to keep it. This metal pole was actually a shower head holder and Mu Ting did not know how Lin Ming had acquired this. Mu Ting then threw it to the balcony.
+
+33     Mu Ting described the situation in the living room as very chaotic at that time. He also said that Wang Wei and Kelvin Ang were quarrelling with the group of people who had entered the apartment earlier, while Charlie and Lin Ming were bleeding, as both of them had hand injuries.
+
+34     Lin Ming then spoke in Mandarin and told the group of people that he would be reporting to the police, while Mu Ting said the same thing in English. Both Mu Ting and Wang Wei shouted “Call police, call police”,[^5] while Charlie called the police. Mu Ting testified that the group of people then moved backwards and exited the apartment after this.
+
+35     Yong Yi, who was previously on the floor with Lin Ming, was standing up at that time, and remained in the apartment. As there was blood on his face, they passed him a towel and told him to wash his face in the washroom. He asked them to let him go but they stopped him from leaving and informed him that they had called for the police.
+
+36     Subsequently, a person who identified himself as the security guard knocked on the door but they did not open the door for him. Mu Ting only opened the door when the police arrived. The paramedics also came and tendered to the injuries. Mu Ting testified that they told the police what had happened in the apartment.
+
+37     Eventually, Mu Ting was arrested. He was found with a butter knife with a 10 cm blade and this was seized by the police who found it in his pocket. Mu Ting said that he had found this butter knife earlier below the bar counter in the apartment and had inserted it into his pants pocket as he had to perform other tasks at that time. Mu Ting said that he subsequently forgot about the knife and omitted to put it together with the other cutlery that he placed in the metal container. Mu Ting also said that he did not think that the knife was sharp.
+
+38     Mu Ting denied the suggestion from the accused’s counsel that he was trying to arm himself with the knife against the accused, or that it was because the knife was sticking out of his pants pocket that the accused had pushed him on his face when they were in the apartment together.
+
+39     Subsequently, Mu Ting was examined at the hospital and found to have 1cm superficial abrasions over the angle of the right eye, a 1cm superficial abrasion over the right side of the neck, and 2cm abrasions over the left side of the neck (see P18). He believes that the abrasions on his right eye were caused by being hit by the accused at the apartment, while his injury on his neck could have been due to bodily contact during the time that he was chasing the accused, and had grabbed the accused at the passageway. The latter had struggled, swung his hands and had hit Mu Ting above his chest and his face.
+
+40     When questioned by counsel, Mu Ting said that he did not know what caused the tenant (Ying Tei) to have a bloody face as shown in photograph D5. He also denied having caused the latter’s injury either by himself, or together with Lin Ming. Mu Ting further denied that the accused had asked Mu Ting about his luggage.[^6]
+
+#### PW10 Lin Ming (“Lin Ming”)
+
+41     PW10 Lin Ming (“Lin Ming”) testified that in June 2016, he ran a cleaning and moving company called “My Family Services Private Limited” (“My Family”). He had rented the apartment at De Royale and sub-leased it out on the Airbnb platform. One of his employees, DW3 Dong Liang, and a female staff, Lin Shanshan, handled the renting out of the apartment.
+
+42     On 23rd June 2016, he went with Mu Ting, his employee, to the apartment to inspect it and to check if there was any damage. He had brought Mu Ting there as the latter was in charge of cleanliness. Lin Ming also said that he had received information from Lin Shanshan, who had gone to the apartment earlier to collect the rental, that that there was damage caused inside the apartment and that the customer did not pay rent. Therefore, Lin Ming had gone down to collect the money and to inspect the damage. To counsel’s question, Lin Ming denied that he was annoyed when he went down.
+
+43     When they reached the apartment, a Chinese man (Yin Tei) opened the door, and Lin Ming said that they wanted to inspect the room. Lin Ming also asked him why he did not pay for staying there. There was an argument between them before the tenant allowed Lin Ming and Mu Ting to enter and to inspect the rooms. Lin Ming said that they found a lot of damage in the apartment. In particular, there was a burnt mark on the sofa caused by a cigarette (seen in photographs P3-60 and P3-92). When they discovered this, they ask the tenant for compensation and Yin Tei said that he had to make a call.
+
+44     Lin Ming said that he carried on with the inspection of the other rooms and did not know what subsequently transpired between Mu Ting and the tenant. However, he heard the tenant speaking to someone else over the phone, in a language other than Mandarin. In any event, after Lin Ming had completed the inspection of the rooms, the tenant asked them to wait for a while as there would be someone coming. Yin Tei then returned to his room.
+
+45     Lin Ming said that his friend, Wang Wei, subsequently came to look for him as they had an appointment to go for dinner. Lin Ming also called Charlie and Kelvin Ang, who were his employees at My Family, to come over to the apartment to remove the things that were damaged. Wang Wei arrived first and was chit-chatting with Lin Ming when Charlie and Kelvin Ang came. Ling Min then asked Wang Wei to go down from the apartment to receive them as they had to park the lorry and also did not know which apartment to go to.
+
+46     Subsequently, Wang Wei, Charlie and Kelvin Ang came up to the apartment. Not long after they started inspecting the rooms, a group numbering more than 5 or 6 people, came up. They knocked on the door, and when the door was opened, the group charged in. The accused, who was a member of the group, approached Mu Ting to talk about the matter of compensation. The accused then became very angry and punched Mu Ting once. Mu Ting wanted to hit him back but the accused ran forward to the passageway (shown in photograph P3-18).
+
+47     At that time, the people standing behind the accused were shouting very loudly. Lin Ming then saw Yong Yi take a pole from a bag (shown in photograph P3-5) that he had brought to the apartment earlier and had placed on the table. Yong Yi also took a knife from the bag and passed it to a tall Chinese man with tattoos on his leg (shown in page 9 and 12 of P10 and identified as DW7 Yeo Zhi Xiang).
+
+48     Yong Yi then lifted the pole (identified as a shower head holder) and wanted to hit the back of Mu Ting’s head with it. When Lin Ming saw this, he blocked the pole using his left hand. The pole came into contact with his hand and caused him to bleed and suffer a fracture on his last finger. Lin Ming then tried to grab the pole. He managed to do so but both he and Yong Yi fell onto the ground. Lin Ming said that after he fell down, someone from behind him threw glasses at him, and this caused his right hand to bleed.
+
+49     Lin Ming then told Yong Yi not to move as he wanted to call the police. He then handed the pole to Mu Ting and asked him to keep it. Lin Ming said that he called the police and asked Charlie to talk to them as Lin Ming could not speak English. He said that the group of people started to move out one by one until only Yong Yi and Yin Tei, who was in the room, were left behind. As Lin Ming saw that his hands were injured, and that Yong Yi was also injured, he told Wang Wei or Mu Ting to get towels to wrap both their wounds. Lin Ming said that he does not know what caused Yong Yi’s injuries. He said that throughout the entire incident, he did not speak to the accused.
+
+50     Lin Ming then went to the room where Yin Tei was, and asked him why he had got so many people to come over, and that as this was not a very big matter. Lin Ming said that Yin Tei was not injured at that time.
+
+51     Lin Ming then scolded Yin Tei and took an alarm clock from the bedside table and threw it at Yin Tei. This hit Yin Tei on the upper part of the body, although Lin Ming was not sure if it landed on Yong Yi’s face or head. Lin Ming said that he did this as he was angry when he realised that his “hand was broken” and he blamed this on Yin Tei. Lin Ming also kicked Yin Tei on his upper body and Yin Tei retaliated by kicking Lin Ming in return.[^7]
+
+52     Lin Ming then left the room and went to the living room. The police arrived one or two minutes later followed by the paramedics. He was subsequently sent to the police station with Wang Wei, Mu Ting, Kelvin Ang and Charlie. On that same night, Lin Ming also went to the TTSH and Changi Hospital. Lin Ming said that he suffered a permanent injury as the bone at the base of his left little finger is “dented”.[^8] According to the medical report dated 19 August 2016 (P19), Lin Ming was found to have suffered a deep laceration in his left hand, and abrasion in his right hand.
+
+53     When shown the photograph of the knife at photograph D10, Lin Ming said that this is a knife for slicing bread or butter. It was found in the apartment itself and was part of a knife and fork set purchased from Ikea. He said that that this knife was kept in the kitchen of the apartment for tenants to use.[^9] Lin Ming also said that he had asked his employees including Mu Ting, Charlie and Kelvin Ang to keep them, as he was worried that there might be danger when phone calls were made by Yin Tei. Lin Ming said that when he spoke to Yin Tei, the feeling that Yin Tei gave to him from his tone of voice “was already not very good”. Lin Ming said that that he didn’t want to have any dispute.[^10]
+
+54     To counsel’s question, Lin Ming denied that he was angry at the tenant when he entered the apartment, and that he had assaulted the tenant shortly after he entered. Lin Ming further denied that he had used the alarm clock to hit Yin Tei at 3.13 pm (before the accused’s group arrived). Lin Ming also said that he did not think that the clock was working or that it had batteries in it at that time.
+
+#### PW12 Ang Yong Hong Kelvin Ang (“Kelvin Ang”)
+
+55     In June 2016, PW12 Ang Yong Hong Kelvin (“Kelvin Ang”) was a furniture mover working for “My Family Services”. On 23rd June 2016, he went with his colleague, Charlie, to De Royale, to clear a sofa and a Christmas tree, as instructed by their boss, Lin Ming. The sofa was to be removed because it had a burnt mark. They reached the location at about 3.20 pm.
+
+56     When they reached De Royale, Wang Wei came down to bring them up to the apartment where they met Lin Ming and Mu Ting. Lin Ming asked them to wait before moving the items as he was waiting for a person to come down to take a look at the small round burnt mark on the sofa.
+
+57     At that time, present in a room, was a Hongkonger who Kelvin Ang believed was staying at the apartment. The Hongkonger came out of the room and told to them to wait for his friends who were coming. Kelvin Ang said that this person did not have any visible wounds on him at that time. The entire group then waited.
+
+58     After half an hour, a group of at least 6 people arrived outside the apartment and Mu Ting opened the door. The group, which included the accused and Yong Yi, who was wearing a black cap and black attire, then charged in. There were also others, some of who were “big built”. By this time, the Hongkonger was back in his own room.
+
+59     Kelvin Ang testified that when Mu Ting brought the accused to look at the cigarette mark at the sofa, the accused hit Mu Ting using his bare hands. The accused also shouted something in Hokkien about “a Secret Society thing like brother”[^11] and called to the rest of his group to take action. One of them, a Malay person who was “very big and tall”, took a vase and threw it at Kelvin Ang, and this hit Kelvin Ang on his right hand. The vase then dropped on the floor and broke. The remains of the vase could be seen at photograph P3-87.
+
+60     After being hit, Kelvin Ang reacted by holding a chair (seen in photograph P3-88) to protect himself. He also used it to scare members of the accused’s group by pointing the chair’s legs at them. They reacted by slowly moving out of the apartment. The accused was amongst those who left.
+
+61     Only one member of the group, Yong Yi, remained. He was held back by Lin Ming near the balcony, to prevent him from running away. Kelvin Ang said that Yong Yi was the one who had earlier held the black bag from which he had taken something out to hit people. Kelvin Ang said that Lin Ming pinned Yong Yi down because the latter had held a weapon.
+
+62     Kelvin Ang also said that he did not see anyone from his group take out a knife or a pole and charge at the accused, and he disagreed with counsel’s suggestion that Lin Ming had threatened to stab Yong Yi and had held a knife at his throat. He further disagreed that this was what caused the members of the accused’s group to move out of the apartment. Kelvin Ang subsequently heard Yong Yi shout “Since you all asked me to come here, why did you leave me alone?” Yong Yi also asked them to let him go, and said that he could not be arrested. However, they called for the police, and waited for the police in the apartment.[^12] Mu Ting also brought Yong Yi to the toilet to wash his wounds.
+
+63     After the police arrived, they took statements, brought them for medical examinations, before bringing them to the police station lock up. Kelvin Ang subsequently received medical treatment at TTSH. According to the medical report dated 5 August 2016 (P24), he was found to have suffered swelling and tenderness over the left forearm, tenderness over the right distal radius, and tenderness over the left 5th metacarpal.
+
+### Attending at the scene post-riot: police officers and paramedics’ evidence
+
+64     PW14 Sgt Erwin Sutrisno Bin Nadimoh (“Sgt Erwin”) and PW15 Sgt Rachel Li Ting Ting (“Sgt Rachel”) testified that they were among three police officers who reached the scene, within 15 minutes of receiving information from their operations room. When they arrived, there were two men outside the door, one of whom was the accused. The police officers then asked them what had happened then, and one of them said that their friend was inside the apartment.
+
+65     The police officers then knocked on the door and gained access to the apartment where they met a group of Chinese men. They also saw that the place in a mess with glass fragments and blood on the floor, and things thrown around.
+
+66     The police officers started interviewing the group of men and were told that there was a room rental issue, and the tenant had called his friends to beat them up. They then searched the house and found the tenant (Yin Tei) in his room. The latter was bleeding on his head, and claimed that he was beaten up by the group while he was sleeping. Subsequently, the tenant had called up his friend, the accused, to the apartment to help him. Sgt Erwin called for two ambulances as there were two injured people there.
+
+67     PW2 Senior Station Inspector Teo Kong Beng (“SSI Teo”), who was the former investigation officer for this case, testified that on the incident date, he had received a call from the operations room about a fight at the apartment, and arrived there at about 5 to 6 pm. The uniformed officers were already present. He saw two groups of people, with members of each group alleging that they were assaulted by those from the other group. One group was at the ground floor while the other group was inside the apartment. SSI Teo also saw one or two injured people. He described the scene as serious, as there was blood scattered around and weapons found. He said that more than one person was conveyed to the hospital, including one who went on his own to seek medical treatment. The latter left without informing the police.
+
+68     SSI Teo, subsequently arrested all of them for rioting and he also recovered exhibits including a watermelon knife 60 cm long with blade cover (P4), a watermelon knife 50 cm long with blade cover (P5), one shower head holder 51 cm long (P6), and one bag (P7). P4 and P5 were recovered from the bag, and P6 was lying on the apartment floor. Bloodstains were found on P6, but not on P4 or P5. SSI Teo said that he was not aware that there were butter knives hidden in a washing machine in the apartment when he was there.
+
+69     PW4 Goh See Kiat (“SI Goh”) and PW5 Andrew Kumaresan S/O Ramaiah (“SI Andrew”) are police photographers who went to the apartment on 23 June 2016 and 29 June 2016 respectively to take photographs of the scene. As regards the washing machine in the apartment, SI Goh said that when he took the photographs on 23 June 2016, he was not aware nor did he see knives in the washing machine.
+
+70     PW16 Puvanasvary d/o Rajasingam (“Puva”), PW17 Chan Kwan Wai Timothy (“Chan”), PW18 Muhammad Fadhail Bin Mohd Fitras (“Fitras”) were paramedics who attended to the people at the apartment. Puva conveyed Yong Yi, who had a serious injury on his face, to the hospital while Chan attended to the tenant, Yin Tei. Fitras testified that the persons he attended to (Kelvin Ang, Charlie and Wang Wei) had only minor injuries and were not required to be conveyed to the hospital. They also did not wish to go.
+
+### The seized exhibits and other aspects of investigations
+
+71     PW6 James Ong Chee Keong (“James”) is a CID officer who does extraction of information from computers, mobile phones and CCTV. He had examined the accused’s phone and had extracted information including WhatsApp and WeChat messages. He testified that he had used a Cellebrite Touch forensic toolkit for data extraction and if the messages on the phone had not been deleted, they would have been extracted by the toolkit.
+
+72     PW11 Nur Fadhilah Bte Rasip (“Fadhilah”) is a senior forensic examiner with the Singapore Police Force (SPF). She testified that she had examined a handphone (Samsung Note 3 marked WYY01 – P27) bearing international mobile equipment identity, IMEI number, 353115060129201, which belonged to Yong Yi. As a result of her examination, she had extracted a list of 666 WhatsApp messages (P23) from the handphone.
+
+73     PW13 Station Inspector Khor Teck Ming (“SI Khor”) testified that he was the investigation officer for this case. He confirmed the contents of WhatsApp messages (Annex A in the ASOF) exchanged between the accused and Firdaus (‘Muhammad Firdaus Bin Abdullah’) which were extracted from the accused’s handphone. He explained that the person referred to as “Billy” in the messages, was Yin Tei from Hong Kong.
+
+74     SI Khor also confirmed the contents of WhatsApp messages (Annex B in the ASOF) exchanged between the accused and one ‘Dzulhisyam Bin Muhamad Jaffar’ which were extracted from the accused’s handphone. He explained that the person referred to as “Nick” in the messages was \`Firdaus’.
+
+75     In addition, SI Khor confirmed the contents of WhatsApp messages (Annex C in the ASOF) exchanged between the accused and one Kelvin Lim (\`Lim Boon Yew Kelvin’) which were extracted from the accused’s handphone. He explained that the person referred to as “Smerff” in the messages was Yong Yi. SI Khor said that 14th line of annex C makes reference to a document or file ending with the file name ‘Opus’. This contains a message in Hokkien, wherein Kelvin Lim had asked the accused to call \`Smerff’ (i.e. Yong Yi) to bring things out[^13]A transcript of this conversation, translated by PW7 Tan See Hua, a certified Hokkien interpreter, was admitted as P16. The translation read “…bring thing to…if not, get _knuckle duster_ from _smurf_, cunt, stab the person’s face.”
+
+76     SI Khor also confirmed that a mobile phone (P27) was seized from Yong Yi. From P27, WhatsApp messages between Yong Yi and Kelvin Lim were extracted (see P23). Amongst other things, Yong Yi had communicated with Kelvin Lim on 23rd of June in the evening and during their conversation, they had mentioned about the incident at the apartment. SI Khor explained some of the extracted messages as follows:
+
+> (a)     At serial number 40, in a message from Yong Yi to Kelvin Lim, Yong Yi had stated “I got give one guy, jialat also.” SI Khor said that he understands this message to mean “beat the guy badly”.
+
+> (b)     At serial number 87, the text of the message from Yong Yi is “Knn ang mo kia dunno call so many people for fuck”. Ang mo kia was established to be the accused.
+
+> (c)     At serial number 101, Yong Yi had mentioned to Kelvin Lim: “I also got bring knife. I ask them, come over take. All don’t dare to take.”
+
+> (d)     At serial number 107, there was a message from Kelvin Lim to Yong Yi stating that he had left a voice message in the accused’s phone stating: “I tell him bring thing go up give”.
+
+> (e)     At serial number 127, Yong Yi had mentioned to Kelvin Lim that: “Ang mo kia talk I ask them come take knife from my bag all kei siao never hear.”
+
+> (f)     At serial number 131 from Yong Yi to Kelvin Lim, he had stated: “Ang mo kia give all stand there see. I straight give they all give me back then I see ang mo kia and everyone run out of the house.” SI Khor said that he understood the word “give” to mean to hit or beat the person.
+
+> (g)     At serial number 233 and 234, the message from Yong Yi to Kelvin Lim was: “Damien also never think, la. Anyhow call people.”
+
+> (h)     At serial numbers 236 and 237 from Yong Yi to Kelvin Ang, he had stated: “Then haven’t ready he see his people many he go start punch people. In the end his people run.”
+
+> (i)     At serial number 241, Kelvin Lim had texted Yong Yi stating: “Bro, think for time being, I cannot go back.” SI Khor believed that Kelvin Lim was saying that he was not in Singapore at that time. And Yong Yi had replied at serial number 243: “Stay overseas first”.
+
+> (j)     At serial number 247, which was a message for Kelvin Ang, Yong Yi had mentioned: “Cb Damen phone still got my Voice message I still ask him bring think go out” SI Khor understood this to refer to weapon. SI Khor said that in P16 (transcript of Kelvin Lim’s message to the accused recorded in the accused’s handphone), there was a similar reference to “bring thing”.
+
+77     SI Khor also said that the CCTV footage (page 16 of P10) showed that the persons in the accused’s group took the same lift up to the apartment. As to whether ‘Billy’ was hammered before 2.43 pm i.e. before the accused’s group arrived, SI Khor was not able to confirm this, although he did establish that “Billy” was hit with a clock by Lin Ming after the accused’s group had left.
+
+78     SI Khor also stated that a black coloured table clock (P29- shown lying on the floor in photograph P3-117) was seized on 29th June at about 9 pm from the scene. The battery cover was detached from the clock at that time. SI Khor did not find any battery in the clock, nor did he find any batteries on the floor of the room. SI Khor said that the clock’s plastic casing was damaged and the clock hands were loose, in that they did not stay in a fix position, and the clock was not functioning. Thus, while the clock’s hour and minute hands were pointing at the 3 hour and 13 minute mark respectively when found, SI Khor could not be sure that the clock was actually stopped working at that time.
+
+79     In addition, SI Khor stated that at Annex A, the accused had made references to ‘china man’. SI Khor confirmed that three of the people involved, namely, Lin Ming, Mu Ting, and Wang Wei, are Chinese Nationals.
+
+## Summary of the Defence’s Evidence
+
+80     At the end of the Prosecution’s case, as there was some evidence which was not inherently incredible and which satisfied each and every element of the charge, I called on the accused to give his defence. The accused elected to take the stand and he also called several witnesses to give evidence.
+
+### The accused’s account of the incident
+
+81     The accused testified that on the date of incident, at about 1 pm, he received a call from “Billy” (Yin Tei), who informed him a few China men were at the apartment. They were aggressive and told him that the rental was not paid and that he had to get out of the apartment. The accused said that he had moved into the apartment with Yin Tei, a few days earlier when the latter came to Singapore. After receiving the call, the accused called the Airbnb agent of the apartment, DW3 Dong Liang @Elvis, and informed the latter that he would be sending extra money to rent the apartment for a few more days. The accused then informed Yin Tei of this and told him that everything was settled. However, the accused said that he did not have a chance to send over the money.
+
+82     Subsequently, the accused received a call from his friend, Kelvin Lim, who was in Cambodia at that time. Kelvin Lim informed the accused that Yin Tei was looking for him and that Yin Tei had been beaten up very badly. The accused then called Yin Tei who told him that the China men did not agree that the matter had been settled. Instead, they had beaten him up.
+
+83     The accused then told Yin Tei to pass the phone to the Chinese nationals, and he spoke to someone who claimed to be the owner of the apartment. The latter asked the accused why the sofa was damaged and insisted that the accused go down to the apartment to pay. When the accused asked why Yin Tei had been beaten up, the caller claimed that Yin Tei had fallen down and hurt himself. He also said that they were not going to let Yin Tei leave until payment was settled. The accused then told them to wait as he was going to the apartment.[^14]
+
+84     The accused said that he did not call the police at that time, as he was illegal renting the apartment through Airbnb, although he admitted that he should have done so. Instead, the accused made calls to two of his friends, Syam and Firdaus (“Nick”) as he knew there were people in the house and he did not want to go there alone. The accused said that he was concerned that he would be beaten up like Ying Tei. Subsequently, the accused stated that the other reason why he brought the two persons along was also to help with the removal of luggage in the apartment.[^15]
+
+85     According to the accused, Kelvin Lim had also called Yong Yi earlier when he was not able to contact the accused to go the apartment. The accused said that he had sent Yong Yi the address of the apartment, but when the accused reached the apartment, he realised that there were way more people than he had intended to help him. The accused said that he wanted to tell Yong Yi that he was not needed and he sent him a message accordingly. However, Yong Yi replied that he was already on his way so the accused left the matter as it was.
+
+86     The accused also said that when he arrived at De Royale, he met Zhi Xiang who said that Yong Yi had told him to come down. All in all, about eight of them, including the accused, Firdaus and Syam, had arrived at De Royale. The accused said that he then informed the security guard, Yeo, that they needed to move their things out. The accused also said that he informed Yeo that he wanted to bring Sim Yew Sheng and Sng Jian Wen, Thomas to help carry luggage.[^16]This was even though the accused also claimed that he had not contacted either of them to come over, nor did he even know them beforehand.[^17]
+
+87     The accused said that they then all went up to the apartment where they saw two of the Chinese Nationals standing outside the door. The accused went into the apartment while the rest of his group were at the door poking their heads in to see what was happening. He said that he saw Yin Tei sitting on the sofa at that time and that he looked badly beaten, with swollen eyes, a cut on his face and there was also dried blood all over his face.[^18]
+
+88     The accused then asked the Chinese national (Mu Ting) who he had spoken to over the phone earlier, and who was standing next to Yin Tei at that time, why Yin Tei looked like that. Mu Ting, in turn, asked about the damage to the sofa. The accused replied to Mu Ting that even if the sofa was damaged, he should not have beaten up his friend (Yin Tei). Mu Ting claimed that Yin Tei had fallen down by himself.
+
+89     Thereafter, instead of attending to Ying Tei, who was supposedly badly injured, the accused asked to see his luggage as he claimed that he had money in his luggage, and that the luggage was not locked. The accused said that he walked into the room to check on his luggage and Mu Ting followed him. The accused then asked about his money ($5,000) in the luggage but Mu Ting claimed that he did not know about this. The accused said that as he was talking to Mu Ting, he noticed that the latter had a knife in his pocket as the handle of the knife was protruding out. The accused believed that “(t)hey intend to do something with the knife. Intend to attack me or probably whoever that came up.”[^19]The accused said that when he came out of the room, he pushed Mu Ting’s face with an open palm but did not punch Mu Ting, as he wanted to move in front of Mu Ting so that the latter would not take out the knife to attack him.
+
+90     The accused said that at that time, there was already a commotion going on with the Chinese nationals attacking whoever they could, while the rest of his group started running and leaving the premises except for Yong Yi and Zhi Xiang. The accused claimed that Yong Yi was on the floor and someone (he believes it was Lin Ming) was holding a knife (a butter knife like D10) against his throat. The accused said that at that time, Yong Yi’s face was already bleeding.[^20] The accused asked them to release Yong Yi and they said that they would kill him if he did not leave, so Zhi Xiang dragged the accused and said that they had better leave. The accused and Zhi Xiang then left, and the main door closed automatically after they left.
+
+91     Subsequently, he and Zhi Xiang found the security guard, Yeo, and sought his help. Yeo then followed him up. By then, the rest of his group had already left.
+
+92     The security guard knocked on the door but the Chinese nationals ignored him and refused to open the door. Subsequently, the lift door opened and policemen came out and knocked on the door. The Chinese nationals then opened the door and the policemen entered the apartment while the accused waited outside with Yeo.
+
+93     The accused also said that he later found out that the $5,000 in his luggage had been kept by Yin Tei, who was worried that it would be taken by the Chinese nationals. The money was returned to the accused subsequently.
+
+94     The accused did not dispute that as a result of the incident in the apartment, Kelvin Ang, Charlie, Wang Wei, Mu Ting, and Lin Ming suffered injuries, although he insisted that those were light injuries. He also claimed that he was not aware that Yong Yi had brought weapons to the apartment, nor was he aware of the voice message sent by Kelvin to his phone asking him to bring a knuckle duster. The message was allegedly sent when the accused was in the shower. He also said that no knuckle duster was brought to the apartment.[^21]
+
+95     Finally, the accused denied that he had brought the seven other people to the apartment to beat up the victims. He further claimed that other than Firdaus, Syam, and Yong Yi who was an acquittance, he did not know the rest of the group of people named in the charge, and that he had only met them for the first time at the apartment on the date of the incident.[^22]
+
+### The accomplices’ accounts of the incident
+
+#### DW2 Muhammad Zaid Bin Abdul Rahim (“Zaid”)
+
+96     On 23 June 2016, Zaid went to the apartment in the afternoon. He said that he was there because he had received a call from the accused to pick up luggage for “shifting”. At that time, he was doing “side line” work for house moving, and had posted his phone number on Gumtree and Facebook. Zaid said that he would usually do this job alone. There would usually only be a few pieces of luggage to pick up and he would charge a flat fee for his work.
+
+97     Zaid said that he did not know the accused at that time, and had never met him, but that the accused had promised to pay him double his fees as the accused said that it was urgent. Zaid did not know how many pieces of luggage he was supposed to carry, and he also did not ask. He said that so long as he could fit the luggage in his van, he would move them.
+
+98     About 2 hours after the call, Zaid went to the apartment. The accused saw him at the guard house and then brought him up to the apartment. At that time, there were a few other people there whom Zaid said that he did not know. He also said that he did not know how many people went to the apartment.
+
+99     When he reached the apartment, Zaid claimed that he was told to wait outside while the accused went in. He waited for about 5 minutes but after he heard people arguing, he just left the place. Zaid denied that he had actually entered the apartment and was not able to say how many of the others followed the accused into the apartment. He also said that he did not know if anyone else waited with him outside the apartment.
+
+100    Zaid denied throwing a vase at Kelvin Ang, or that it had hit Kelvin Ang’s right hand. Zaid insisted that he did not know about the actions of the rest of the accused’s group that had taken place in the apartment. When the DPP confronted him with the CCTV footage which showed Dzulhisyam, Firdaus, Thomas, Yew Sheng, and then the accused leaving De Royale, before Zaid himself left at 4:02:08 pm, Zaid was not able to explain the discrepancy but insisted that he was the first person to leave the scene. Zaid further said that he did not inform the accused that he was leaving as the latter was inside the apartment. Zaid said that he left the place as he had other jobs to do.
+
+101    On cross-examination, he agreed with the DPP that he was at the lift lobby (P10 S/N: 15 and 16) at 15:54:49 and 15:54:53 with seven others including the accused, even though he said that he did not know them. Zaid said that he did not clarify with the accused about what was happening. He also said that he was not surprised to see a big group gathered at the lift lobby because usually when people move house, there would be family members present, so he did not ask the accused about the group there. Zaid however, conceded that the big group of people consisted of both Chinese and Malay males. He further agreed that if there were only a few pieces of luggage to move, then there would logically be no need to bring so many people to the apartment.
+
+#### DW4 Mohammad Firdaus Bin Abdullah (“Firdaus”)
+
+102    Firdaus is a bartender. He testified that the accused is an acquaintance, who had called him on the early morning of 23 June 2016 as the accused wanted him to help shift and move luggage, even though Firdaus was not in the moving business. The accused had asked to meet him at the moving location itself.
+
+103    During cross-examination, Firdaus changed his evidence and said that the accused did not actually call him in the morning, but that he had sent messages to Firdaus instead, and that these were exchanged between them from 2.34 to 3.32 pm (as per Annex A of the ASOF) on 23 June 2016
+
+104    The first message from the accused was to ask if Firdaus was around and the accused also said that it was urgent. Subsequently, the accused sent him a message “billy kana hammer” which Firdaus understood to mean that Billy (Yin Tei) had been assaulted. There were subsequent messages at 2:43 pm from the accused to tell him to “get ready quick”, “billy kana hammer” by “china man”.
+
+105    Firdaus said that he did not really know the “Billy” mentioned in the message although he admitted that he had seen this “Billy” weeks before the incident. Even after receiving further messages from the accused, where the latter had stated that “Sham also otw”, “thks bro”, “very urgent sorry”, “he kana in the apartment by 2 China man”, “now, I ask him go room n lock the door” and “im on the way back from my own house,” while Firdaus understood were messages to show that Billy had been assaulted, Firdaus continued to insist there was no intention on his part to go and beat anyone up at the apartment.
+
+106    During cross-examination, Firdaus also initially stated that the messages were the only form of communication between the accused and himself, before changing his evidence and claiming that they also had a voice conversation. When confronted by the DPP with contrary evidence from the accused’s call logs, Firdaus again changed his evidence and agreed that he did not have any phone conversation with the accused from 2.34 pm and 3.32 pm.[^23]
+
+107    Firdaus subsequently admitted during cross-examination that the accused did not tell him that they were going there to move things, but said that “the only thing that came into my mind was to help him move”.[^24] In any event, after their exchange of messages, Firdaus took a taxi to De Royale.
+
+108    When he reached the destination, Firdaus met the accused and Syam. Firdaus said that he did not ask the accused about what had happened to “Billy” when he saw the accused. He also said that there were other people at the lobby, although he only knew Syam and the accused. Firdaus does not remember how many people were there, nor did he ask who they were or clarify this with the accused. Firdaus claimed that he assumed everyone was there to help shift things, and that there may have been a lot of things to move.
+
+109    Subsequently, all of them, including the accused, entered the lift and exited at the 4th floor.Firdaus said that when the lift door opened, he went to the door of the apartment but did not enter because there were a lot of people both inside and outside the apartment. He said that everyone who went up with him entered the apartment except for him, even though he was supposed to help with the luggage. Firdaus claimed that he did not go in because he assumed that the rest would just go inside and grab the luggage and would be out. He also said that the people inside were speaking in Chinese, and he could not see what they were doing as the door of the apartment closed after the people went in. Firdaus said that he just stood outside the apartment for about a few minutes, and heard people talking loudly inside, before he proceeded down the stairs as he wanted to smoke. He went off without telling anyone that he was leaving and without knowing what had happened in the apartment.[^25]
+
+110    Subsequently, he saw Syam and they then spent about 15 to 20 minutes talking, while waiting for the accused to call him. Firdaus said that Syam had told him that he was also there to help carry the luggage, but Firdaus did not ask Syam about what had happened in the apartment earlier. Instead, Firdaus said that they discussed about their work in the F & B industry. Firdaus said that he also did not approach the accused to ask what had happened in the apartment.
+
+111    Subsequently left the place alone. Firdaus denied that he took glasses and threw them at the occupants in the apartment. Instead, he insisted that he did not know what occurred in the apartment because he wasn’t there to see it. Further, he claimed that until the police recorded his statement, he did not find out from Syam or from the accused about what had happened in the apartment. He also does not know what happened to the luggage or to Billy, and did not ask the accused why he didn’t need to move the luggage anymore.
+
+#### DW5 Yew Sheng (“Yew Sheng”)
+
+112    Yew Sheng testified that he had gone to the apartment as Thomas, his ITD classmate, had asked him to go there to help move house. However, Thomas did not mention how many pieces of luggage that they were supposed to collect. Yew Sheng had met the accused and Thomas at the condominium. He said that that was the first time that he had met or spoken to the accused.
+
+113    Thereafter, they walked to the lift lobby where there were other people present, and then took the lift up together, before the accused led the entire group of people into the apartment. Yew Sheng insisted that he was only at the door of the apartment looking for things to sell. However, he did not approach anyone about any item.
+
+114    Yew Sheng claimed that he was still looking at the things and did not know what the accused, Yong Yi or the other people inside the apartment were doing. However, he subsequently admitted that he heard quarrelling behind him although he did not know who was quarrelling with whom. He also did not respond but just continued looking at things. When the commotion became louder, he turned to look for Thomas.
+
+115    Yew Sheng said that he left the apartment when he could not find Thomas, and he went down the stairs. When he left, the accused was still quarrelling.[^26]He said that he was there in the apartment for below 10 minutes.
+
+116    Yew Sheng said that he then tried to call Thomas but the latter did not pick up the phone. However, when Yew Sheng reached the security counter, he saw Thomas who told him that they didn’t need to shift anymore. Instead, Thomas said something like they could leave and “Don’t care.”[^27] Yew Sheng then took his NRIC and left. He claimed that he did not talk to the accused throughout and up to today, does not know who the accused is. Yew Sheng also said that he did not know that the victims had suffered injuries.
+
+#### DW6 Dzulhisyam Bin Mohamad Jaffar (“Syam”)
+
+117    Syam testified that on 23 June 2016, he was at home when he was contacted by the accused to go to De Royale to help move some luggage. Syam then took a taxi to the location and met the accused outside the main gate of De Royale. There, the accused informed him that his friend was locked in the house and that some people didn’t let him come out.
+
+118    Syam asked the accused why he didn’t call the police and the accused replied that the place was rented out as an Airbnb unit, and this was illegal in Singapore. Syam said that the accused told him that they would just go up, try to take out the luggage and leave. Syam said that he had a feeling that something was going to happen. Subsequently a few other people came. Except for the accused and another person, “Nigga” or “Nick” (i.e. Firdaus), Syam did not know the others.
+
+119    Syam said that they then entered the lift and went up to the apartment with the security guard. The latter asked what he was doing there, and Syam replied that he was going to move some things out.
+
+120    When the lift door opened, Syam said that he saw two China men. Then, except for himself and the security guard who stood outside the apartment, the rest of the group, including the two China men, entered the house. Syam said that he stayed outside because he had a feeling that something was wrong. When the door closed, he left immediately and was not able to see what happened inside, although he heard “some noises”. Both he and the security guard left. The security guard went to the security post while Syam immediately left for home.[^28] Syam said that he subsequently did not clarify with the accused about what had happened. In fact, he did not communicate with the accused thereafter “…. because I don’t want to get involved with any fights or anything, that’s why I just broke off the communication.”[^29]
+
+121    When the Prosecution showed Syam the messages that he had exchanged with the accused on 23 June 2016, Syam confirmed that he only went to the apartment in the afternoon. However, he claimed that he could not remember how the accused had told him to help him move luggage and whether this was done via text message, although he acknowledged that nowhere in his messages exchanged with the accused was the word “luggage” mentioned.
+
+122    Syam also acknowledged that the accused had messaged him to say that “follow me helo billy”, and that less than a minute later, the message sent was “billy kana hammer”. Syam confirmed that he understood the phrase “billy kana hammer” to mean that “Billy had been assaulted”. Thus, Firdaus admitted that as at 2:43pm on the 23rd of June 2016, he knew that the accused’s friend, Billy, had been assaulted. The accused had further informed him that this was done by “china man”. After receiving these messages, Firdaus had agreed to meet the accused, and had left his home to do this within 10 to 20 minutes. At about 2.58 pm, Syam had responded to the accused that he was on the way. The accused had also messaged Syam to tell him to “fast ya bro or china man run”. In addition, the accused had also informed Syam that Nick was on the way.
+
+123    Further, when confronted with call logs from the accused’s phone (P15), Syam acknowledged that there was no record of any phone calls being exchanged between the accused and him. He agreed with the Prosecution that if he was going to help the accused move luggage, there was no need for the accused to have told him that the China men might run from the apartment. Further, Syam agreed that it would have been easier to help the accused move the luggage if the China men had run away.
+
+124    Syam said that he did not ask the accused how many pieces of luggage needed to be move. He further said that when he saw so many people had come to the apartment even though he knew that only Nick was coming, he felt that something was not right. He, however, insisted that the accused had asked him to go there to move luggage, and denied that the accused had asked for help to take revenge and cause hurt to the Chinamen who had assaulted Billy.
+
+125    Also, contrary to the position of the accused at \[10\] of the ASOF that eight persons in his group, including Syam had entered the apartment, Syam insisted that he had remained outside the apartment throughout. He also denied that he had participated in the violence that had occurred in the apartment.
+
+#### DW7 Yeo Zhi Xiang (“Zhi Xiang”)
+
+126    Zhi Xiang testified that in the afternoon on 23 June 2016, he was at Sentosa when he was asked by Yong Yi, who was his godbrother, to go to De Royale to help him move house. There he met Yong Yi and the accused, whom he had not seen before. The accused was with a few Malay guys.
+
+127    Yong Yi had then told him to go up, and the entire group went into the lift which opened at the 4th level. Zhi Xiang said that the China people tried to hold them back and stop them from going into the apartment, but their group of about 5 or 6 of them pushed the door and entered the apartment. Zhi Xiang said that Yong Yi and the accused, followed by the Malay guys and he entered.
+
+128    After they entered the apartment, Zhi Xiang said that he saw the accused talk to a China person, while Yong Yi took a “golf stick” out. Yong Yi then spoke to the China people and then used the “golf stick” to hit a China guy on the head as they had some argument.
+
+129    Yeo described the situation as very chaotic, and that he could not remember much. However, within a few seconds, he saw one of the China guys take a kitchen knife, although he does not remember what he did with the knife. Instead, as a fight was about to happen, Zhi Xiang said that he took a chair to defend himself and to prevent others from coming towards him.
+
+130    Subsequently, two Singaporean guys, who were the “China people’s friends”, one of whom was Kelvin Ang and another was a fat guy, came to talk to him and told him that they also don’t want to fight. Zhi Xiang said that he also heard Yong Yi shout in Hokkien saying something like, “enough, enough”, and then kneel down on the floor, with a China guy taking the knife and putting it on his neck. Yong Yi’s face was covered with blood.[^30]
+
+131    Yeo said that the Malay guys then took a vase and glass tabletop and threw them on the floor, in between them and the China guys, to prevent the latter from attacking them. The Malay guys then ran out of the flat, leaving Yong Yi, the accused and Zhi Xiang inside the flat. The China people then asked them to get out of the house. While they requested that Yong Yi be released and also said that they would just go and not make a police report, the China people refused to release Yong Yi. They just asked the accused and Zhi Xiang to go out first and then they would talk.
+
+132    After the accused and Zhi Xiang left the apartment, the occupants refused to release Yong Yi. Zhi Xiang and the accused then went to look for the security guard. The latter went up to the apartment, knocked on the door, and asked the occupants to release Yong Yi but they refused. The security guard then called the police. The occupants opened the door when the police arrived.
+
+133    Zhi Xiang said that Yong Yi was later conveyed away in an ambulance, while the accused and Zhi Xiang remained at the flat to provide their statements. Subsequently, as a lot of weapons were found inside the apartment, they were all arrested.
+
+134    When he was questioned by the Prosecution, Zhi Xiang confirmed that he had pleaded guilty on 30 January 2018 to several charges, including a reduced charge under section 143 of the Penal Code, which states that during this incident on 23 June 2016, Zhi Xiang and one of the accomplices had each taken a watermelon knife, before the group started attacking the victims. Consistent with this charge, Zhi Xiang had also admitted to a Statement of Facts (SOF - P32), detailing his role in the incident.
+
+135    However, Zhi Xiang explained that as regards the contents of the SOF, he initially did not agree with its contents but had nonetheless admitted to it without qualification. This included the part in the SOF which stated that the common object of the group was to voluntarily cause hurt to the victims. Zhi Xiang insisted that that he was not involved in the attack, but that Yong Yi was.
+
+136    As for the accused, Zhi Xiang said that he did not see the accused being involved. In fact, while Zhi Xiang had agreed that the SOF was read to him, and that he had agreed to it during his own plead guilty mention, including to the parts where it was stated that the accused had slapped one of the victims (Mu Ting) hard, and also that he (Zhi Xiang) had joined the group being aware that it had a common object of voluntarily causing hurt to the victims, Zhi Xiang claimed that he had originally told his lawyer that he didn’t agree to these matters. Zhi Xiang said that he had pointed out to his lawyer and the interpreter that there was something wrong with the SOF.
+
+137    Zhi Xiang also said other aspects of the SOF that he disagreed with was about a watermelon knife having been taken out. He also said that at the time of the incident, he only knew Yong Yi. Further, aside from the SOF, Zhi Xiang said that he similarly disagreed with the part of the charge which mentioned his taking the knife.
+
+138    However, Zhi Xiang claimed that his lawyer had informed him if he wanted to be sentenced on that date, he had to plead guilty. Otherwise, his case would be postponed for a month, and he may receive a heavier sentence. Zhi Xiang said that he then pleaded guilty out of convenience,[^31]as he had been in remand for more than 9 months in prison and another 3 weeks in the station, and he did not want to drag the case anymore. Instead, he just wanted to be sentenced and to know his release date.
+
+139    Zhi Xiang also claimed that his lawyer had told him about a possible delay of one month if he disputed the charge, and that this was a big difference to him allegedly because he would be subject to being moved to another housing apartment to attend the mention, and would be handcuffed for the journey to court for the subsequent mention. Zhi Xiang also said that he didn’t want to prolong his case as his parents only want him to know his release date.[^32] He further said that he didn’t tell his lawyer about all these complaints. In addition, he said that he did not have a chance to be bailed out, and for a first timer like him, it was a very stressful experience for him.
+
+140    Nevertheless, Zhi Xiang agreed that when he pleaded guilty, the charge was read out to him and that he fully understood and agreed to the charge. [^33] Zhi Xiang said that as a result of his plea of guilt, he received a sentence of 48 months’ imprisonment, even though he said that the starting offer made to him, according to his lawyer, was 36 months’ imprisonment.
+
+### Evidence of the rental agent who liaised with the accused
+
+141    DW3 Dong Liang (“Dong Liang”) worked for Lin Ming to rent out the apartment to the accused. He met the accused when the latter checked into the apartment, and had liaised with the accused when he stayed there. The accused had booked the apartment from 21-23 June 2016. While the accused was supposed to check out on 23 June 2016, he had asked for an extension as he wanted to move out only on 24 June 2016. Dong Liang had informed his manager Li Ming and the latter’s girlfriend about this.
+
+142    On 22 June 2016, Dong Liang had asked the accused for payment but the accused did not pay. Later, another group wanted to book the apartment on 23 June 2016. Since the accused did not make payment for the one-day extension, Lin Ming said that they had to move out by 23 June 2016. Dong Liang thus informed the accused that his boss had another booking and hence the accused could not extend his booking. He also said that he would ask his superior to call the accused to explain what had happened. Dong Liang had subsequently spoken to Lin Ming who said that he would go to the apartment and explain.
+
+143    Dong Liang said that the accused subsequently sent messages to him. One of the messages, sent at 2.44 pm, was that “Chinamen beat up my guest”. Dong Liang called the accused to calm the accused down, and the latter told him that his guest was beaten up “by your guys”. Dong Liang replied that he didn’t know anything about this. The accused then said that he was going down right now to beat them up.[^34]
+
+144    Dong Liang said that after the incident in the apartment, sometime around end July 2016, he was sacked after Lin Ming told him business was not good and that they were not making any money. This happened after Lin Ming was released from the police station.
+
+## The Law and elements not in dispute
+
+145    In _Mohamed Abdullah s/o Abdul Razak v PP_ <span class="citation">\[2000\] 1 SLR(R) 922</span> _(“Abdullah”)_, Yong Pung How CJ had set out the elements that have to be proven to make out the charge of rioting armed with a dangerous weapon. At \[18\], Yong CJ held that the Prosecution has to show:
+
+> (a)     There was an assembly of five or more persons;
+
+> (b)     The accused was a member of that assembly;
+
+> (c)     The common object of that assembly was to cause hurt to the victims; and
+
+> (d)     One or more members of that unlawful assembly was armed with a deadly weapon.
+
+146    In the present case, the Prosecution had also made reference to section 149 of the Penal Code in the charge. This provision reads:
+
+>     If an offence is committed by any member of an unlawful assembly in prosecution of the common object of that assembly, or such as the members of that assembly knew to be likely to be committed in prosecution of that object, every person who, at the time of the committing of that offence, is a member of the same assembly is guilty of that offence.
+
+147    In _Md Anverdeen Basheer Ahmed and Others v Public Prosecutor_ <span class="citation">\[2004\] SGHC 233</span> (“_Md Anverdeen_”), at \[16\], Yong CJ had stated that:
+
+>     By virtue of s 149 of the PC, an appellant would be liable under s 148 of the PC if it could be shown that one or more members of the unlawful assembly was armed with a deadly weapon: _Mohamed Abdullah s/o Abdul Razak v PP_ \[2000\] 2 SLR 789. As s 149 of the PC was listed in the charge against the appellants, it was only necessary to show that one or more members of the unlawful assembly was armed with a deadly weapon for the charges against the appellants to be made out. 
+
+## Outline of the Prosecution’s Case
+
+148    The crux of the Prosecution’s case, as could be seen from the Prosecution’s Submissions at the close of the trial, was essentially that:
+
+> (a)     The accused had rented the apartment unit from 21 to 23 June 2016, during which Yin Tei (“Billy”), was staying there. On the day of the incident, at about 2 p.m., the accused had received two phone calls from Yin Tei: firstly to inform him that a group of male subjects (“the victims”) had demanded that he move out, and subsequently, Yin Tei had called the accused again to allege that he had been assaulted.
+
+> (b)     The accused had then spoke to Dong Liang over the telephone, during which he told Dong Liang that he is going to the unit to beat up Lin Ming and/or the persons who had allegedly assaulted Yin Tei.
+
+149    The accused was then actively involved in calling down and/or bringing his accomplices to De Royale:
+
+> (a)     Between 2.34 p.m. and 3.32 p.m., he separately messaged two of the accomplices, Firdaus and Syam, essentially informing them that “billy kana hammer by china man”, and asking them to “get ready quick”, and follow him to help billy. The accused also urged Syam to go there quickly “or china man run”.
+
+> (b)     At or about the same time, between 2.39 p.m. and 2.52 p.m., the accused messaged Kelvin Lim and asked him about contacting Yong Yi. Kelvin Lim then sent a voice message in Hokkien and English to the accused stating “…bring thing to…if not get _knuckleduster_ from _smurf_, cunt, stab the person’s face”. The accused heard the voice message.
+
+> (c)     At about 2.49 p.m., the accused text-messaged Yong Yi, during which he gave the latter the address of the apartment unit. In his replies to the accused, Yong Yi said, amongst other things, that he is coming, and “_Don’t let them go. Pretend talk to them._”[^35]
+
+> (d)     At about 3.52 p.m., the accused appeared at the security guard house at De Royale with two accomplices Yew Sheng and Thomas. He told the security guard that he wanted to bring them to the apartment “to help carry luggage”. The accused also called Zaid, another accomplice, supposedly to help “pick up luggage”.
+
+> (e)     Between 3.54 p.m. and 3.57 p.m., the accused and his accomplices gathered at the lift lobby on the first floor of De Royale. Yong Yi was carrying a black bag containing, amongst other things, clothing and weapons in particular, two watermelon knives, and one shower head holder. The eight of them subsequently took the lift to level four and entered the apartment unit together.
+
+150    Inside the apartment, the accused hit Mu Ting, and Yong Yi took out the shower head holder, and used it to hit one of the victims. Some of the accomplices, in particular, the “Malay guys” threw glass objects in the direction of the victims. The victims also gave evidence of the assaults by the accused, Yong Yi, and the Malay accomplices. As a result of the incident, the five victims suffered the injuries detailed in the ASOF at \[12\].
+
+## Outline of the Defence’s Case
+
+151    The crux of the Defence’s case, as could be gleaned from the Defence’s Written Submissions and Defence’s Reply to Prosecution’s Submissions, can be summarised as follows:
+
+> (a)     The elements of the offence were not made out as
+
+>> (i)       there was no unlawful assembly;
+
+>> (ii)       there was no common object to cause hurt; and
+
+>> (iii)       the accused did not use violence to cause hurt to the persons named in the charge as victims.
+
+152    The position of the Defence was essentially that the accused had gone to the apartment to rescue Yin Tei who had been badly beaten by Lin Ming and his group, who were the real culprits. The Defence even argued that there had been a plan by the victims to assault the accused and his group, and that the victims were armed with knives, which were found in the washing machine. Mu Ting was also carrying a knife which he used on Yong Yi.
+
+153    In contrast, members of the accused’s group came to the apartment for different purposes and were sent by different people and most of them did not know one another. They also did not enter the apartment forcefully, but did so in an “orderly manner” to rescue Yin Tei. Thus, the Prosecution’s case that the accused bought eight men to the apartment and to beat up the victims pursuant to a common object to cause hurt was thus not supported by the evidence.
+
+154    The accused had arranged for two “Malay boys” to escort him to the apartment (presumably Firdaus and Syam), who they had given evidence that they went to the apartment to clear luggage. It was Kelvin Ang, who was in Cambodia, who had called Yong Yi and a few others, while the accused had told Yong Yi that he was not needed and that there were too many people there.
+
+155    There was no clear evidence that the accused had punched Mu Ting. Instead, the accused was scared and only pushed away Mu Ting after he realised that the latter had a knife which was tucked behind his pants. The accused was scared, and ran around the apartment desperately trying to escape them.
+
+156    The accused also had no knowledge about Yong Yi having and taking out the knives. The Defence also argued that “Lin Min and group then arrest Wong Yong Yee and put a knife on his throat.”[^36] After seeing the alleged victims so well prepared and realising that they have knives and weapons, the accused’s group retreated in fear. Yong Yi subsequently even complained to Kelvin Lim that “Damen’s men had no guts as no one got involved”. [^37]
+
+## My Findings: Elements of charge were made out
+
+157    As regards the first two elements of the offence, as explained by Yong CJ in _Abdullah_ (see\[ 145\]) above namely that: (a) there was an assembly of five or more persons; and (b) the accused was a member of that assembly, these elements were not in dispute. Essentially, these elements were part of the agreed facts (see the ASOF referred to at \[10\] above). Specifically, it was agreed by both parties that:
+
+> (a)     After Yin Tei had called the accused about a dispute he had with the victims, the accused had exchanged telephone calls and messages with Firdaus, Dzulhisyam, Kelvin Ang and Yong Yi. Among other things, these messages set out the discussions between the accused with Firdaus and Syam, during which the accused had informed them that “Billy” (i.e. Yin Tei) had been assaulted by “china man”. The accused had then urged them to meet him urgently at De Royale.
+
+> (b)     The accused subsequently met seven of the persons named in the charge at De Royale, and all eight of them gathered at the lift lobby, took the lift together and got off at the 4th level. They then entered the apartment where the final accomplice, Yin Tei, was located.
+
+158    Thus, the only remaining issues to decide were essentially:
+
+> (a)     Whether there was a common object to cause to cause hurt to the victims; and
+
+> (b)     Whether one or more members of that unlawful assembly was armed with a deadly weapon. Related to this issue, was the ancillary question of whether the accused knew that one or more members would be armed with a deadly weapon.
+
+### There was a common object to cause hurt to the victims
+
+159    On this first issue, I was of the view that based on the agreed facts and attached annexures, the evidence of both the Prosecution and Defence witnesses, as well as the numerous documentary evidence and exhibits tendered, there was clearly overwhelming evidence that there was a common object to cause hurt to the victims. I elaborate below.
+
+#### Accused was responsible for gathering his accomplices at De Royale
+
+160    To recap, Lin Ming had rented the apartment at De Royale and then sub-leased it through the Airbnb platform. For the period from 21-23 June 2016, the accused had booked the apartment through Dong Liang, and the accused and Yin Tei had stayed at the apartment. While the accused had apparently wanted to extend the rental to 24 June 2016, no payment was made for this.
+
+161    Lin Ming and Mu Ting had subsequently gone down to the apartment on 23 June 2016 to clean up the apartment and also to check on damage that Lin Ming had been told of. At the apartment, Lin Ming had apparently argued with Yin Tei, and wanted him to compensate for a burnt mark that was found on a sofa. From the ASOF, it was clear that Yin Tei had made repeated calls to the accused: first to say that he was told by a group of male subjects to move out; and subsequently to say that he had been assaulted by the same male subjects.
+
+162    Arising from Yin Tei’s messages, the accused became upset. The evidence of Dong Liang, a defence witness, was that the accused first sent a message to Dong Liang at 2.44 pm stating that “Chinamen beat up my guest”, and when Dong Liang called to calm him down, the accused’s response was that he was going down right now to beat them (the “china man”) up.
+
+163    Subsequently, the accused sought help to inflict violence on those he felt had assaulted Yin Tei. In this regard, he accused sent messages to Firdaus and Syam, asking them to meet him urgently at the apartment because “Billy” (i.e. Yin Tei) had been assaulted by “china man”. The accused also asked Syam to come quickly “or china man run”. He even offered to pay for Syam’s taxi fare there. Both Firdaus and Syam, who were repeatedly hurried by the accused, agreed to meet him at De Royale. Extracts of the relevant messages exchanged between the accused and each of them, which were all included in the annexures to the ASOF, are reproduced below.
+
+164    Some of the messages between the accused and Firdaus (from Annex A of the ASOF) are as follows:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="24.9776852127343%"> <col width="25.0074382624219%"> <col width="25.0074382624219%"> <col width="25.0074382624219%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>From</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>To</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Message</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Timing</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Damen</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Firdaus</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>urgent</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1">23/6/2016</p><p align="center" class="Table-Para-1">2:40:54 PM</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Damen</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Firdaus</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>very urgent</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1">23/6/2016</p><p align="center" class="Table-Para-1">2:41:00 PM</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Damen</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Firdaus</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>billy kana hammer</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1">23/6/2016</p><p align="center" class="Table-Para-1">2:41:10 PM</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Damen</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Firdaus</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>get ready quick</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1">23/6/2016</p><p align="center" class="Table-Para-1">2:43:26 PM</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Damen</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Firdaus</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">at his apartment</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1">23/6/2016</p><p align="center" class="Table-Para-1">2:43:26 PM</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Damen</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Firdaus</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>by china man</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1">23/6/2016</p><p align="center" class="Table-Para-1">2:43:26 PM</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Damen</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Firdaus</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>billy kana hammer</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1">23/6/2016</p><p align="center" class="Table-Para-1">2:43:26 PM</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Damen</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Firdaus</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>follow me helo billy</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1">23/6/2016</p><p align="center" class="Table-Para-1">2:43:26 PM</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Damen</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Firdaus</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>get ready quick</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1">23/6/2016</p><p align="center" class="Table-Para-1">2:43:26 PM</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Damen</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Firdaus</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>urgent</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1">23/6/2016</p><p align="center" class="Table-Para-1">2:51:28 PM</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Damen</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Firdaus</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">wear short also can</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1">23/6/2016</p><p align="center" class="Table-Para-1">2:51:32 PM</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Damen</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Firdaus</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">balestier</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1">23/6/2016</p><p align="center" class="Table-Para-1">2:51:50 PM</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Damen</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Firdaus</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">i meet u below</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1">23/6/2016</p><p align="center" class="Table-Para-1">2:51:52 PM</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Damen</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Firdaus</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">sham also otw</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1">23/6/2016</p><p align="center" class="Table-Para-1">2:51:55 PM</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Damen</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Firdaus</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>very urgent sorry</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1">23/6/2016</p><p align="center" class="Table-Para-1">2:52:59 PM</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Damen</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Firdaus</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>he kana in the apartment by 2 china man</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1">23/6/2016</p><p align="center" class="Table-Para-1">2:53:09 PM</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Damen</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Firdaus</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">now i ask him go room n lock the door</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1">23/6/2016</p><p align="center" class="Table-Para-1">2:53:21 PM</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Firdaus</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Damen</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>ok I otw liao</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1">23/6/2016</p><p align="center" class="Table-Para-1">2:59:22 PM</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Damen</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Firdaus</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">thks bro</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1">23/6/2016</p><p align="center" class="Table-Para-1">3:00:50 PM</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Damen</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Firdaus</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="center" class="Table-Para-1">i wait below</p></td><td align="left" class="" rowspan="1" valign="top"><p align="center" class="Table-Para-1">23/6/2016</p><p align="center" class="Table-Para-1">3:00:53 PM</p></td></tr></tbody></table>
+
+  
+  
+
+165    As for the messages exchanged between the accused and Dzulhisyam (Syam), some of them (from Annex A of the ASOF) are as follows:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="20.76%"> <col width="22.64%"> <col width="32.06%"> <col width="24.54%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>From</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>To</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Message</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Timing</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Damen</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Dzulhisyam</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>get ready quick</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1">23/6/2016</p><p align="center" class="Table-Para-1">2:42:23 PM</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Damen</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Dzulhisyam</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>follow me helo billy</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1">23/6/2016</p><p align="center" class="Table-Para-1">2:42:27 PM</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Damen</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Dzulhisyam</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>billy kana hammer</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1">23/6/2016</p><p align="center" class="Table-Para-1">2:43:02 PM</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Damen</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Dzulhisyam</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>by china man</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1">23/6/2016</p><p align="center" class="Table-Para-1">2:43:05 PM</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Damen</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Dzulhisyam</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">at his apartment</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1">23/6/2016</p><p align="center" class="Table-Para-1">2:43:15 PM</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Damen</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Dzulhisyam</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">i otw tgere</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1">23/6/2016</p><p align="center" class="Table-Para-1">2:45:07 PM</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Damen</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Dzulhisyam</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">i meet u at lobby</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1">23/6/2016</p><p align="center" class="Table-Para-1">2:45:32 PM</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Damen</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Dzulhisyam</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>take cab</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1">23/6/2016</p><p align="center" class="Table-Para-1">2:46:12 PM</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Damen</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Dzulhisyam</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>i pay for u below</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1">23/6/2016</p><p align="center" class="Table-Para-1">2:46:22 PM</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Damen</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Dzulhisyam</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>fast ya bro</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1">23/6/2016</p><p align="center" class="Table-Para-1">2:46:41 PM</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Damen</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Dzulhisyam</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>or china man run</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1">23/6/2016</p><p align="center" class="Table-Para-1">2:46:45 PM</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Damen</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Dzulhisyam</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">otw?</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1">23/6/2016</p><p align="center" class="Table-Para-1">2:57:42 PM</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Damen</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Dzulhisyam</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Nick also otw</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1">23/6/2016</p><p align="center" class="Table-Para-1">3:01:37 PM</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Damen</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Dzulhisyam</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>u in cab?</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1">23/6/2016</p><p align="center" class="Table-Para-1">3:02:00 PM</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Dzulhisyam</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Damen</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Yup 10mins</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1">23/6/2016</p><p align="center" class="Table-Para-1">3:02:58 PM</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Damen</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Dzulhisyam</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="center" class="Table-Para-1">i ask him go room lock door</p></td><td align="left" class="" rowspan="1" valign="top"><p align="center" class="Table-Para-1">23/6/2016</p><p align="center" class="Table-Para-1">3:03:48 PM</p></td></tr></tbody></table>
+
+  
+  
+
+166    Between 2.39 p.m. and 2.52 p.m., the accused also text-messaged one Lim Boon Yi Kelvin (“Kelvin Lim”), who was in Cambodia. At around 2:51:01 pm, the accused asked Kelvin Lim if the latter had called “smerff” (i.e. Yong Yi). Kelvin Lim confirmed that he had done so. There was also a voice message sent by Kelvin Lim to the accused during this time (ASOF at Annex C at 2:51:31 PM) saved as file name PTT-201606230WA0021.opus, stating “…bring thing to…if not get _knuckle duster_ from _smurf_, cunt, stab the person’s face”.[^38]
+
+167    Around the same time, the accused also exchanged messages with Yong Yi. The exchanges between them showed that the accused was also planning to meet Yong Yi at the apartment. Further, Yong Yi specifically told the accused not to let them (the “china man”) go. Yong Yi even asked the accused to pretend to talk to them, and further informed the accused that he was waiting for “one of his boys”. Subsequently, the accused told Yong Yi that they are all there. Yong Yi then told the accused not to identify Yong Yi by his nickname but to address him as “Andros” instead.
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="21.1%"> <col width="22.54%"> <col width="31.94%"> <col width="24.42%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>From</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>To</b></p></td><td align="left" class="br" rowspan="1" valign="bottom"><p align="center" class="Table-Para-1"><b>Message</b></p></td><td align="left" class="b" rowspan="1" valign="bottom"><p align="center" class="Table-Para-1"><b>Time</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Damen</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Yong Yi</p></td><td align="left" class="br" rowspan="1" valign="bottom"><p align="center" class="Table-Para-1">Bro</p></td><td align="left" class="b" rowspan="1" valign="bottom"><p align="center" class="Table-Para-1">23/6/2016</p><p align="center" class="Table-Para-1">2:49:36PM</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Damen</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Yong Yi</p></td><td align="left" class="br" rowspan="1" valign="bottom"><p align="center" class="Table-Para-1"><b>Kelvin call u rite</b></p></td><td align="left" class="b" rowspan="1" valign="bottom"><p align="center" class="Table-Para-1">23/6/2016</p><p align="center" class="Table-Para-1">2:49:44PM</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Yong Yi</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Damen</p></td><td align="left" class="br" rowspan="1" valign="bottom"><p align="center" class="Table-Para-1">I shower and come now bro</p></td><td align="left" class="b" rowspan="1" valign="bottom"><p align="center" class="Table-Para-1">23/6/2016</p><p align="center" class="Table-Para-1">2:51:05PM</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Damen</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Yong Yi</p></td><td align="left" class="br" rowspan="1" valign="bottom"><p align="center" class="Table-Para-1">Ok bro.</p></td><td align="left" class="b" rowspan="1" valign="bottom"><p align="center" class="Table-Para-1">23/6/2016</p><p align="center" class="Table-Para-1">OPM</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Yong Yi</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Damen</p></td><td align="left" class="br" rowspan="1" valign="bottom"><p align="center" class="Table-Para-1"><b>Don't let them go. Pretend talk to them</b></p></td><td align="left" class="b" rowspan="1" valign="bottom"><p align="center" class="Table-Para-1">23/6/2016</p><p align="center" class="Table-Para-1">2:51:13PM</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Damen</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Yong Yi</p></td><td align="left" class="br" rowspan="1" valign="bottom"><p align="center" class="Table-Para-1">U have address</p></td><td align="left" class="b" rowspan="1" valign="bottom"><p align="center" class="Table-Para-1">23/6/2016</p><p align="center" class="Table-Para-1">2:52:20PM</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Damen</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Yong Yi</p></td><td align="left" class="br" rowspan="1" valign="bottom"><p align="center" class="Table-Para-1">When u in cab let me know</p></td><td align="left" class="b" rowspan="1" valign="bottom"><p align="center" class="Table-Para-1">23/6/2016</p><p align="center" class="Table-Para-1">3:05:44PM</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Damen</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Yong Yi</p></td><td align="left" class="br" rowspan="1" valign="bottom"><p align="center" class="Table-Para-1">I waiting below</p></td><td align="left" class="b" rowspan="1" valign="bottom"><p align="center" class="Table-Para-1">23/6/2016</p><p align="center" class="Table-Para-1">3:05:51PM</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Yong Yi</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Damen</p></td><td align="left" class="br" rowspan="1" valign="bottom"><p align="center" class="Table-Para-1">Ok. Now wearing clothes. Leaving home soon</p></td><td align="left" class="b" rowspan="1" valign="bottom"><p align="center" class="Table-Para-1">23/6/2016</p><p align="center" class="Table-Para-1">3:10:40Pm</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Damen</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Yong Yi</p></td><td align="left" class="br" rowspan="1" valign="bottom"><p align="center" class="Table-Para-1">Ok</p></td><td align="left" class="b" rowspan="1" valign="bottom"><p align="center" class="Table-Para-1">23/6/2016</p><p align="center" class="Table-Para-1">3:10:52PM</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Damen</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Yong Yi</p></td><td align="left" class="br" rowspan="1" valign="bottom"><p align="center" class="Table-Para-1">Bro</p></td><td align="left" class="b" rowspan="1" valign="bottom"><p align="center" class="Table-Para-1">23/6/2016</p><p align="center" class="Table-Para-1">3:11:01PM</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Damen</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Yong Yi</p></td><td align="left" class="br" rowspan="1" valign="bottom"><p align="center" class="Table-Para-1">I think no need</p></td><td align="left" class="b" rowspan="1" valign="bottom"><p align="center" class="Table-Para-1">23/6/2016</p><p align="center" class="Table-Para-1">3:11:07PM</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Yong Yi</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Damen</p></td><td align="left" class="br" rowspan="1" valign="bottom"><p align="center" class="Table-Para-1">I'm coming now bro</p></td><td align="left" class="b" rowspan="1" valign="bottom"><p align="center" class="Table-Para-1">23/6/2016</p><p align="center" class="Table-Para-1">3:11:15PM</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Damen</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Yong Yi</p></td><td align="left" class="br" rowspan="1" valign="bottom"><p align="center" class="Table-Para-1">I go up 1<sup>st</sup></p></td><td align="left" class="b" rowspan="1" valign="bottom"><p align="center" class="Table-Para-1">23/6/2016</p><p align="center" class="Table-Para-1">3:11:15PM</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Damen</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Yong Yi</p></td><td align="left" class="br" rowspan="1" valign="bottom"><p align="center" class="Table-Para-1">Okok</p></td><td align="left" class="b" rowspan="1" valign="bottom"><p align="center" class="Table-Para-1">23/6/2016</p><p align="center" class="Table-Para-1">3:11:19PM</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Yong Yi</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Damen</p></td><td align="left" class="br" rowspan="1" valign="bottom"><p align="center" class="Table-Para-1">They still there?</p></td><td align="left" class="b" rowspan="1" valign="bottom"><p align="center" class="Table-Para-1">23/6/2016</p><p align="center" class="Table-Para-1">3:29:06PM</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Yong Yi</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Damen</p></td><td align="left" class="br" rowspan="1" valign="bottom"><p align="center" class="Table-Para-1">I reach downstairs.</p><p align="center" class="Table-Para-1"><b>Waiting for one of my boys.</b></p></td><td align="left" class="b" rowspan="1" valign="bottom"><p align="center" class="Table-Para-1">23/6/2016</p><p align="center" class="Table-Para-1">3:30:27PM</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Damen</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Yong Yi</p></td><td align="left" class="br" rowspan="1" valign="bottom"><p align="center" class="Table-Para-1">I'm gere</p></td><td align="left" class="b" rowspan="1" valign="bottom"><p align="center" class="Table-Para-1">23/6/2016</p><p align="center" class="Table-Para-1">3:30:33PM</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Damen</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Yong Yi</p></td><td align="left" class="br" rowspan="1" valign="bottom"><p align="center" class="Table-Para-1">All here</p></td><td align="left" class="b" rowspan="1" valign="bottom"><p align="center" class="Table-Para-1">23/6/2016</p><p align="center" class="Table-Para-1">3:52:49PM</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Damen</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Yong Yi</p></td><td align="left" class="br" rowspan="1" valign="bottom"><p align="center" class="Table-Para-1">Where u</p></td><td align="left" class="b" rowspan="1" valign="bottom"><p align="center" class="Table-Para-1">23/6/2016</p><p align="center" class="Table-Para-1">3:52:52PM</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Yong Yi</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Damen</p></td><td align="left" class="br" rowspan="1" valign="bottom"><p align="center" class="Table-Para-1"><b>Don't say my name smerff</b></p></td><td align="left" class="b" rowspan="1" valign="bottom"><p align="center" class="Table-Para-1">23/6/2016</p><p align="center" class="Table-Para-1">4:35:01PM</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Yong Yi</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Damen</p></td><td align="left" class="r" rowspan="1" valign="bottom"><p align="center" class="Table-Para-1"><b>Say Andros</b></p></td><td align="left" class="" rowspan="1" valign="bottom"><p align="center" class="Table-Para-1">23/6/2016</p><p align="center" class="Table-Para-1">4:35:08PM</p></td></tr></tbody></table>
+
+  
+  
+
+168    Further, as set out in the ASOF, between 3.41 p.m. and 3.51 p.m., the accused, Firdaus, Dzulhisyam, Yong Yi, Zaid, and Yeo Zhi Xiang all arrived at De Royale, and proceeded to the 1st floor lift lobby. The evidence from the other accomplices, also showed that they were called to meet at De Royale by the accused or by Yong Yi. Specifically:
+
+> (a)     Zaid was that the accused had asked him to meet up at De Royale on the date in question (although he claimed that this was to “move luggage”).
+
+> (b)     Zhi Xiang said that it was Yong Yi who asked him to go there.
+
+169    As stated in the ASOF, the accused’s group then waited for Thomas and Yew Sheng, to arrive., Thomas and Yew Sheng subsequently reached the main entrance, and were led by the accused to the 1st floor lift lobby. This was also confirmed by the evidence of the security guard, Yeo, who said that the accused told him that _he_ wanted to bring the Thomas and Yew Sheng to the apartment “to help carry luggage”. This evidence strongly suggested that it was the accused had arranged for both Thomas and Yew Shen to be there, or knew that they would be coming to join the group.
+
+170    Thus, it was clear the accused was the primary person either responsible for gathering all the other accomplices (except for Yin Tei who was already at the apartment) to meet at De Royale, or at least knew that they would be going to be there. Subsequently, as stated in the ASOF, between 3.54 p.m. and 3.57 p.m., the 8 men comprising of the accused, Yong Yi, Zhi Xiang and the 5 accomplices gathered outside the apartment. At this point, Yin Tei was inside the apartment. The 8 men then entered the apartment.
+
+#### The group went to confront and cause hurt to the victims at the apartment
+
+171    As stated earlier, the accused had deliberately arranged and met with his accomplices at De Royale, and then went up to the apartment with them. It was obvious that the accused wanted to exact revenge against the victims through violence, for what he perceived to have been an assault on Yin Tei. This could be seen from the numerous exchanges he had with Dong Liang, Firdaus, Syam and Yong Yi, and the evidence of the Defence witnesses. To recap:
+
+> (a)     The accused had been told by Yin Tei that the latter had been assaulted by a number of China men. The accused had then contacted Dong Liang and told him that he (the accused) wanted to go beat the China men up.
+
+> (b)     To do this, the accused had directly, or through Yong Yi/Kelvin Lim, arranged for his accomplices to meet him at De Royale before proceeding to the apartment. He had sent messages to Firdaus, Syam and Yong Yi urging them repeatedly to meet him urgently there as otherwise “china man run” (as per his message to Syam). The accused also kept repeatedly asking them for their location, saying that “wear short also ok”, and even telling Syam that he would pay for the latter’s taxi fare to De Royale. In the message exchanges between the accused and Yong Yi, the latter made clear that they should not let the “china man” go.
+
+> (c)     Having met the rest of his accomplices at De Royale, they all gathered at the 1st floor lobby, and took the lift together to the 4th floor. Thereafter, as testified to by Charlie, the accused then led his accomplices to the apartment, and barged in despite members of the victim’s group trying to prevent them from entering.
+
+172    While it was obvious that the main persons involved in the plan to assault the victims were the accused and Yong Yi, as well as Kelvin Lim, who communicated with Yin Tei, Yong Yi and the accused, and that they all played pivotal roles in gathering the group at De Royale, the remaining accomplices would equally have been aware that the common object of the unlawful assembly was to inflict injury on the victims. At the latest, they would have known this by the time they gathered at De Royale, and then collectively barged into the apartment unit even when some of the victims tried to stop them.
+
+173    In this regard, I was guided by the words of Yong Pung How CJ in _Lim Thiam Hor and another v PP_ <span class="citation">\[1996\] 1 SLR(R) 758</span> at \[18\]:
+
+>     …a person present at the assembly can be said to be a member of the assembly even if no overt act is proved against him. Provided the circumstances are such as to justify an inference that he associated himself with the offending members, it may be inferred that he is a member of such an assembly.
+
+174    I would further add that when the accused led his seven accomplices into the apartment, the final accomplice, Yin Tei, who had started the whole ball rolling, was already waiting for them to confront the victims. Yin Tei promptly came out of the room when the accused’s group arrived at the apartment.
+
+#### Accused’s group assaulted the victims in prosecution of the common object
+
+175    As stated in his WhatsApp messages sent to the accused on 23 June 2016, Yong Yi had suggested that when they confront the victims, the accused should not let the victims go, but should pretend to talk to them (see message at 2:51:13 where Yong Yi had suggested to the accused “Don't let them go. Pretend talk to them”). The accused had also made it clear to Syam in a separate WhatsApp message that they should quickly go to the department “or china man run” (see message at 2:46:45 by the accused to Syam).
+
+176    Thus, once the accused and his group entered the apartment, as per the plan between the accused and Yong Yi for the accused to “Pretend talk to them”, the accused ostensibly started to discuss with Mu Ting about the damage to the sofa. It was while Mu Ting was explaining the situation to the accused, that the latter punched Mu Ting on his face. This was seen by Charlie and Lin Ming. Thereafter, apparently again as part of a co-ordinated plan, the accused then shouted at his group in Hokkien “all the---the---the brothers to---to attack”.
+
+177    At this point, Yong Yi took the shower head holder (“metal rod”) and a knife from out of his bag. He passed the knife to Zhi Xiang and then attempted to use the shower head holder to hit Mu Ting on the head. Lin Ming used one of his hands to ward off the attack, and this resulted in deep cuts to his hand.
+
+178    Incidentally, the WhatsApp messages (from Yong Yi to Kelvin Lim), that were extracted from Yong Yi's handphone (see P23 at s/n 236 and 238), stated that it was the accused who started punching people (because he “see his people many”). When Yong Yi saw this, Yong Yi followed suit and attacked the victims (“I see he give I also sure give already. Cannot don’t give”).
+
+179    Further, Kelvin Ang, who was one of the victims, stated that one of the Malay accomplices, who was “big and tall” threw a vase at him and this hit his hand, and caused him further injuries. Separately, Charlie testified that Firdaus threw several glasses at the victims, and one of them hit Charlie on the lower back. Yong Yi may also have been injured in the course of the riot.
+
+180    However, things apparently did not go to plan for the accused and his accomplices. Kelvin Ang said that after he was hit, he reacted by holding a chair to protect himself and used it to scare members of the accused’s group, by pointing the legs of the chair at them. The accused and his accomplices exited the apartment, with only Yong Yi, and Yin Tei, the tenant, left behind.
+
+181    Lin Ming admitted that he and Yin Tei subsequently got into a fight of their own, during which Lin Ming threw an alarm clock at Yin Tei and they also kicked each other. Subsequently, the police and paramedics arrive.
+
+182    All in all, based on the evidence of the victims, which were internally consistent and consistent with material parts of the ASOF, as well as the various messages and exhibits tendered, most of which came from the accused or his witnesses, it was clear that the accused had led a group of more than five men to the apartment, and that he himself had actively initiated and participated in the assault on the victims. Arising from the resulting riot, all the victims suffered injuries, the details of which were set out in the ASOF.
+
+### At least one member was armed with a deadly weapon and the accused had prior knowledge
+
+183    As regards this element of the charge, it was not in dispute that Yong Yi, who was identified as wearing a black cap, had brought with him to the apartment a black bag containing the following deadly weapons, namely a watermelon knife which was 60 cm long with blade cover (P4), a watermelon knife which was 50 cm long with blade cover (P5), and one shower head holder/metal rod which was 51 cm in length (P6). Both the bag and the weapons were subsequently recovered by the police from the scene after the riot.
+
+184    During the riot, Yong Yi was seen by Charlie and Lin Ming to have taken out the shower head holder (“the metal pole”) from the bag, which he promptly tried to use against Mu Ting. When Lin Ming used one of his hands to ward off the attack, the latter suffered deep cuts and bleeding on his hand.
+
+185    Yong Yi was also seen by Lin Ming to have taken a knife from the bag and handed it to Zhi Xiang, who was identified as a tall Chinese man with tattoos on his leg. I noted that Lin Ming’s evidence was corroborated by Zhi Xiang himself in the Statement of Facts (SOF – P32) which Zhi Xiang had accepted without qualification to when he pleaded guilty at his court mention on 30 January 2018. In the SOF, Zhi Xiang had admitted to taking a watermelon knife, and also that his group had attacked the victims.
+
+186    While Zhi Xiang subsequently sought to retract his previous admission, claiming that he pleaded guilty and made the admission earlier essentially “out of convenience”, and also because he wanted to get the case behind him, I had doubts about the genuineness and veracity of his recantation.
+
+> (a)     For one, I noted that Zhi Xiang did not account for why he had this sudden and unexplained change of heart, more than two years after he had pleaded guilty, and then give a different account after being called as the accused’s witness.
+
+> (b)     Further, I observed that Zhi Xiang was represented by counsel at his plead guilty mention, and that he had been told of the consequences of his plea before he admitted to his SOF. In those circumstances, Zhi Xiang would hardly have admitted to such facts that were so obviously adverse to him – namely that he was armed with a dangerous knife during an unlawful assembly - if that account was not true.
+
+> (c)     Moreover, there was no evidence – from any of the Prosecution or Defence witnesses – that corroborated Zhi Xiang’s belated recantation - as opposed to the earlier version that he admitted to in court in his SOF, which was a version consistent with Lin Ming’s evidence.
+
+> (d)     I further noted that Zhi Xiang may have been dissatisfied about the sentence imposed after his earlier plea of guilt, since Zhi Xiang himself admitted that he received a significantly higher sentence (48 months’ imprisonment), than what was apparently suggested to him earlier by his lawyer (36 months’ imprisonment).
+
+> (e)     All in all, contrary to his belated, unexplained and contrary account before me, I accepted the evidence that Zhi Xiang was indeed armed with one of the knives that Yong Yi had deliberately brought to the apartment for the confrontation.
+
+187    I would also add that there was an important additional piece of evidence which was found in the accused’s phone that was consistent with the inference that there had been a pre-conceived plan involving the accused and his accomplices to cause hurt to the victims using weapons to so. This was the voice message in Hokkien and English sent by Kelvin Lim to the accused on 23 June 2016 itself wherein Kelvin Lim had advised the accused to “…bring thing to…if not get _knuckle duster_ from _smurf_, cunt, stab the person’s face” (see P16).
+
+> (a)     I agreed with the Prosecution that in this message that was sent by Kelvin Lim, who was the person liaising with the accused, Yong Yi and Yin Tei before the riot, Kelvin Lim was clearly agitating the accused to take revenge through the use of weapons against the victims who had allegedly assaulted Yin Tei. The accused’s actions, afterwards, were consistent with his acting on this suggestion from Kelvin Lim.
+
+> (b)     I would add that this message sent by Kelvin Lim to the accused, was also consistent with subsequent messages that Kelvin Lim exchanged with Yong Yi on 24 June 2016 (after the incident) namely the messages at s/n 105, 107 and 247 of P23, in which Kevin Lim stated that he had sent a voice message to Damen asking him to “bring thing go up”. The “thing” here clearly referred to a weapon because in his same voice message to the accused, Kelvin Lim had stated that the accused could, in the alternative to bringing a “thing”, get a knuckleduster from Smurf i.e. Yong Yi instead.
+
+> (c)     While the accused (conveniently) tried to claim that he was not aware of the voice message sent by Kelvin Lim to his phone asking him to bring a “thing” or “get knuckle duster”, this was hardly believable since this message in the accused’s phone, was sent to him at a time when the accused was actively using the same phone to send messages and to make phone calls with his various accomplices, before the riot took place. In other words, the accused would clearly have been aware of this message before he met Yong Yi (and the rest of his accomplices) and before he barged into the apartment with them.
+
+188    Thus, all in all, violence against the victims, to be inflicted with weapons carried by Yong Yi to the apartment, was an object of the unlawful assembly. This was something known and intended by the accused when he led the group up to the apartment to confront the victims for their alleged earlier assault on Yin Tei. In short, there was overwhelming evidence that the accused and his accomplices were members of an unlawful assembly whose common object was to cause hurt to the victims, and in the prosecution of that common object they had committed the offence of rioting armed with deadly weapons.
+
+### Other reasons why I disbelieved the Defence
+
+189    While I have already expressed my views on the major pieces of evidence put forward by the Prosecution and the Defence, which related directly to the elements of the charge, and I have also explained why I believed the evidence put forward by the Prosecution rather than the claims of the Defence on these major issues, there were other issues raised by the Defence which I will deal with below. In essence, these related to other claims made by the accused that were ultimately contradicted by the ASOF, or by other evidence (including Defence evidence), or were assertions that were incredible and unbelievable.
+
+#### The unsupported and incredible claim that their purpose was to move luggage
+
+190    While the Defence claimed that the accused’s group had gathered at the apartment for an innocuous purpose, namely to help assist with house moving and with moving luggage, I agreed with the Prosecution that this claim flew in the face of the objective evidence, and simply did not withstand scrutiny.
+
+> (a)     First, in none of the numerous WhatsApp messages that were exchanged by the accused with Firdaus, Syam, Kelvin Lim or Yong Yi before the incident, was there any mention about meeting to move luggage or things from the house. Instead, the focus of the discussions was on the assault on Yin Tei by the “china man”, and the urgent need for them to gather at the apartment quickly to prevent the “china man” from running.
+
+> (b)     Further, there was no evidence of any voice message or telephone conversation to show that the accused had told them that they were going to the apartment to move things. In this regard, both Firdaus and Syam confirmed during cross-examination that they did not have any telephone conversation with the accused on that day.
+
+> (c)     In fact, the accused was clearly expecting a confrontation with the victims, as he had told Dong Liang that he was going to the apartment to beat up the persons who assaulted Yin Tei. As stated earlier, in court, the accused even admitted to bringing at least two persons (i.e. Firdaus and Syam) along to “provide protection” as there were “a lot of people in the house”.
+
+> (d)     In any event, the claim about the purpose of the group gathering at the apartment to move luggage also fell apart when the evidence of the Defence witnesses were more closely examined. Specifically:
+
+>> (i)       As regards Firdaus, when pressed for details about his alleged involvement in moving luggage from the apartment, Firdaus admitted that he didn’t ask how may pieces of luggage needed to be moved, whether he needed a lorry or vehicle to move the luggage, or whether there would be others helping with the luggage. He also agreed that there was nothing in the messages sent from the accused to him which showed that the accused had asked him to help Billy move his luggage. In fact, even after he went up to the 4th floor of De Royale, Firdaus claimed that he just stood outside the apartment and did not enter even though he was supposed to help move the luggage. He also left after 5 minutes without moving any luggage, and never found out from the accused or Syam about what had happened in the apartment. Further, he did not know what had happened to the luggage or to Billy, nor did not ask the accused why he didn’t need to move the luggage anymore. Thus, his evidence about meeting to move luggage was clearly ludicrous and incredible.
+
+>> (ii)       As for Syam, who made a similar claim, his evidence was equally doubtful and also could not withstand scrutiny. For one, like Firdaus, Syam was unable to explain how the accused had asked for his help to move luggage, when there was nothing in the accused’s messages sent to him that mentioned this, nor was there any record of telephone conversations made by the accused to him. Further, Syam displayed an amazing lack of interest in finding out what the job involved, as he did not ask the accused about how many pieces of luggage needed to be move, nor was he interested in finding out why so many people needed to be involved in moving luggage. Again, like Firdaus, Syam also claimed to have stayed outside the apartment, instead of going in to take the luggage and move it. Not only did this contradict Firdaus’ evidence that it was Firdaus alone who stayed outside the apartment and who did not go in, both Syam and Firdaus’ evidence contradicted agreed facts that the Defence had earlier consented to in the ASOF, when the Defence accepted that all the members of the accused’s group had entered the apartment together. I would add that both Syam and Firdaus’ claim also contradicted the evidence of another Defence witness, Zhi Xiang, that the Malay guys entered the apartment and threw the vase and glass top on the floor. Needless to say, Syam’s evidence that he was present at the apartment to move luggage simply could not be believed.
+
+>> (iii)       As for Zaid, his evidence that he had been called to move luggage also contradicted that of the accused who said that he only called Firdaus and Syam. In addition, Zaid’s evidence was similarly that he had stayed outside the apartment and never went in, even though he was engaged (and supposed to be paid) to move the luggage. Further, this claim was contradictory with the evidence of Firdaus and Syam, both of whom insisted that each of them alone had stayed outside the apartment, and this claim was similarly inconsistent with the agreed facts. Further, it is unbelievable that Zaid, who claimed to work as a part time house mover, would not know how many pieces of luggage needed to be moved, why so many people allegedly had to be involved in moving, and also why he finally did not have to move any luggage from the apartment. Finally, it was inexplicable that he just left the location without even informing the accused, the person who had called him down for the job, and who was supposed to have paid him double for moving luggage on an urgent basis. Like Firdaus and Syam, Zaid was clearly trying hard to dissociate himself from the role he played in the riot, and his evidence came across as completely unbelievable.
+
+>> (iv)       Finally, Yew Sheng’s claim about moving luggage, was equally ludicrous. While he (unlike the previous three defence witnesses) admitted that he had entered the apartment, like the others, he claimed to have left abruptly without any explanation to the accused, and ultimately without moving any luggage at all.
+
+191    Clearly, all the accomplices, like the accused, were at the apartment for a far more sinister purpose than moving luggage, and they had an interest to play down their involvement. In fact, as set out above, all the evidence pointed to them being there, after they had been instigated and asked to gather, directly or indirectly, by the accused, in order to inflict violence on the victims.
+
+#### No justification for the riot even if Yin Tei had been assaulted
+
+192    The overwhelming evidence pointed to object of the unlawful assembly being to inflict violence on the victims, whom the accused, Yong Yi and the other accomplices believed had assaulted Yin Tei.
+
+193    However, the claim that Yin Tei had been assaulted, prior to the riot, was disputed by the victims, and there was no objective evidence that they had in fact attacked him before the accused’s group arrived. While there was a clock (P29) recovered from the scene, with the clock’s hour and minute hands pointing at the 3 hour and 13 minute marks respectively, SI Khor was not able to confirm if the clock was even working since the battery cover was detached from the clock, the plastic casing was damaged, the hour hand and second hand were loose, and the clock had no battery at that time. Nor were batteries found on the floor of the room.
+
+194    Further, while Lin Ming had admitted that he had thrown the clock at Yin Tei, this was done only after the riot had already ended, and only because he was angry with Yin Tei for his role in starting the riot. I had no reason to disbelieve Lin Ming, since the latter was clearly more interested in seeking compensation for the damaged sofa from the accused before that, and would have no reason to assault Yin Tei, prior to the accused’s arrival.
+
+195    I would add that even though the accused claimed that when he entered the apartment, he saw Yin Tei with swollen eyes, and a cut and dried blood on his face, instead of attending to Ying Tei, who was supposedly badly injured at that time, the accused said that he actually asked to see his luggage as he claimed that he had money in his luggage which was not locked.
+
+196    Nevertheless, the accused’s alleged interest in his money, instead of Yin Tei’s injuries and well-being, was also not borne out by the evidence. In particular, in his numerous messages that he had sent to Firdaus, Syam, and Yong Yi just before the riot, the accused had discussed exclusively about Yin Tei having been assaulted (“Billy kana hammer”), and no mention was made about his concern that his money may be stolen by the victims. More importantly, this belatedly claim about the accused’s concern for his money, went against his own evidence that he had gone to the apartment (with help from Firdaus and Syam) to rescue Yin Tei who had been assaulted by the victims.
+
+197    In any event, even if Yin Tei had been assaulted before the accused brought his group to the apartment, this was certainly no justification for them to come to the apartment, especially not when carrying dangerous weapons, to cause hurt to the “china man” or to prevent the “china man” from running.
+
+198    Instead, the accused should have either sought the help of the police, or at least inform the security guard, Yeo, and sought his assistance to “rescue” Yin Tei from the apartment. Alternatively, if Yin Tei was really so injured as he claimed, the accused should at least have called for an ambulance for him. These were all things that the accused clearly could and should have done.[^39] Instead, the accused gathered a large number of men, one of whom he knew carried deadly weapons, and then led them to the apartment. He did all these because he clearly had a more sinister purpose of causing hurt to the victims.
+
+#### No evidence of knives being used against the accused’s group
+
+199    The Defence tried to allege that rather than the members of the accused’s group being armed, it was the victims who were armed with knives instead.
+
+200    However, even though Mu Ting was found by a police officer with a butter knife in his pocket, there was no evidence to show that this butter knife had been used on anyone in the accused’s group – whether on Yin Tei before or after the accused’s group had arrived, or on Yong Yi during the riot. There was also no evidence – even by the accused’s own account – that Mu Ting had drawn the butter knife or had used it to threaten or to attack the accused.
+
+201    Instead, Mu Ting’s evidence was that he had found the butter knife below the bar counter and that he had forgotten about. In this regard, I noted that this butter knife was found by the police where Mu Ting said he put it – i.e. in his pants pocket. In any event, I observed that the knife does appear to be a butter knife, relatively harmless especially compared to what Yong Yi brought to the apartment when he arrived with the accused’s group. This butter knife clearly played no part – whether in prompting the occurrence of the riot, nor in justifying the actions of the accused or his accomplices in the commission of the offence. Neither was the butter knife shown to have featured in any of the injuries that resulted to the victims, or to anyone in the accused’s group.
+
+202    In any event, while the accused alluded to the presence of Mu Ting’s knife as being the reason why he allegedly (only) pushed Mu Ting on the face, I noted that the Defence’s position on this matter, and the accused’s evidence on his ‘reaction’ to Mu Ting, were wildly contradictory. In this regard, as pointed out by the Prosecution,[^40] the claims by the Defence ranged from stating:
+
+> (a)     That the accused never punching Mu Ting on the face (as was put to Charlie);[^41]
+
+> (b)     That the accused hit Mu Ting because the latter was trying to use a knife (as was put to SI Khor);[^42] or
+
+> (c)     That the accused pre-emptively “pushed” Mu Ting on the face because he saw a knife handle protruding out of Mu Ting’s pocket (as stated by the accused during his evidence-in-chief).[^43]
+
+203    The shifting position of the Defence, certainly bolstered the Prosecution’s argument that the accused was making up the evidence as the case went along, and also called into question his credibility in general.
+
+204    Further, while the accused also asserted that Lin Ming had placed a knife (apparently a different knife) against Yong Yi’s throat, this claim was not consistent with the evidence of any of the victims. In addition, as pointed out by the Prosecution, it was never put to Lin Ming, and the accused himself was also inconsistent about whether it was Mu Ting, or Lin Ming, who allegedly put a knife to Yong Yi’s throat.[^44]
+
+205    In fact, I would add that Mr Manicka, the later counsel for the accused, appeared to pitch the Defence’s case as one where the victims were the actual aggressors who even had a plan to assault the accused and his group with knives found in the washing machine and scattered in the fridge. However, with respect, there was no evidence – from any of the witnesses – that any of the victims had pulled out weapons from the washing machine or from the fridge to use on the accused or his accomplices.
+
+206    All in all, the attempts by the accused to paint the victims as the real aggressors were either directly rebutted or were certainly not supported by the evidence. Clearly, the accused’s account could not be believed.
+
+### The evidence clearly establishes the guilt of the accused
+
+207    In summary, after a careful consideration of the evidence put forward by the Prosecution and by the Defence, I was satisfied that the Prosecution had established the charge against the accused beyond a reasonable doubt and I convicted him accordingly.
+
+## Sentencing Phase
+
+208    In respect of a charge under s 148 of the Penal Code, the prescribed punishment is a term of imprisonment of up to 10 years and caning. The accused does not have any relevant antecedents.
+
+### Prosecution’s submissions on sentence
+
+209    The Prosecution submitted for a sentence of at least 32 months’ imprisonment and six strokes of the cane. This sentence was largely based on the sentence imposed in _PP v Nirmal Singh_ <span class="citation">\[2018\] SGDC 293</span> (“_Nirmal Singh”)_.
+
+210    In _Nirmal Singh_, the offender (who was untraced) was involved in a fight between two opposing groups along a public road, and he was charged for an offence under s 148 r/w s 149 of the Penal Code. Members of the groups were armed with belts, wooden planks and poles, with the offender himself armed with a belt. During the fight, a member of the opposing group was hit on the head and sustained scalp laceration and abrasion. The offender initially claimed trial to the charge, but he pleaded guilty before the trial commenced. He was sentenced to 31 months’ imprisonment (after reducing the final sentence by one month to take into account the remand period) and six strokes of the cane. On appeal by the offender, the sentence was upheld by the High Court.
+
+211    The Prosecution argued that the present case has broadly the same aggravating features that applied in _Nirmal Singh_, for which the sentence would have been 32 months’ imprisonment (but for the reduction of one month’s imprisonment for the remand period) and six strokes of the cane, namely that
+
+> (a)     The victims were attacked by a large group of men;
+
+> (b)     There was planning and premeditation involved, and the accused played a key role in calling down and/or bringing the accomplices to the incident location;
+
+> (c)     The offence involved a high degree of violence with injuries caused to all five victims, including particularly serious injuries to one of them, Lin Ming, who suffered a deep laceration in his left hand and who was advised to undergo wound debridement and tendon repair;
+
+> (d)     Deadly weapons were used; and
+
+> (e)     Public disquiet was caused as the rioting took place in a residential setting.
+
+212    The Prosecution also argued that “…the law does not view conduct that are animated by a desire to seek revenge favourably”, even if the accused had felt that his friend Yin Tei was victimised. In this regard, Chan Sek Keong CJ (as he then was) had stated in _PP v Tan Khoon Shan Terrance_ <span class="citation">\[2012\] 4 SLR 1121</span> at \[13\] that:
+
+> \[13\]  The desire in a person to avenge a wrong is a human failing that society must not encourage, as it would lead him to take the law into his own hands. It can lead to **vigilante justice and is inimical to the maintenance of law and order**, as such, **it must be suppressed for the greater good.**
+
+\[emphasis added\]
+
+213    Thus, in light of the above factors, and even considering that the accused does not have antecedents for violence, the fact that he did not wield a weapon, and the fact that he had punched one of the victims (Mu Ting) only once, an appropriate sentence would be at least 32 months’ imprisonment and six strokes of the cane.
+
+### Mitigation Plea
+
+214    Mr Manicka gave a short oral mitigation plea. Essentially, he highlighted that the accused does not have any similar previous convictions, that he supports his daughter (16 years old), his son (12 years old), and his mother suffers from cancer. He is also the sole breadwinner of the family, and is self-employed. Counsel did not respond to the Prosecution’s proposed sentence, or to the cases relied on by the Prosecution for sentencing.
+
+## Court’s Decision on Sentence
+
+215    In _Nirmal Singh_, the Prosecution tendered a table of sentencing precedents for offenders who had been convicted of similar offences of rioting with deadly weapons under s 148 read with s 149 of the Penal Code. As summarised at \[10\] of _Nirmal Singh_, the cases showed that sentencing range for such offences was 3 to 5 years’ imprisonment and 6 to 12 strokes of the cane. As for cases put up by the Defence in _Nirmal Singh_, they showed that sentences ranging from 24 months to 4 years’ imprisonment, and caning of between 3 to 6 strokes of the cane have been imposed (see \[18\] of _Nirmal Singh_).
+
+216    After analysing the facts and circumstances of the cases presented, the Court in _Nirmal Singh_ concluded at \[23\] that:
+
+>     Based on the precedents, **the sentence for a majority of the offenders was about 36 months’ imprisonment and 6 strokes of the cane.** That said, in _Perumal Naidu_, and also in _Md Anverdeen Basheer Ahmed_, **some offenders even received a sentence of 8 years’ preventive detention and 6 strokes of the cane**. A perusal of these cases revealed important factors which would have been relevant to the determination of the eventual sentences imposed. Such factors included the size of the group involved in the riot, the types of weapons carried by its members including by the offender himself, the nature and extent of injuries caused to the victim(s), the role played by the offender in the incident, the location where the rioting took place including whether it occurred in a public and crowded area, the antecedent record of the offender etc.
+
+\[emphasis added\]
+
+217    In _Nirmal Singh_, the Court took into account various factors in deciding on the final sentence of 31 months’ imprisonment and six strokes of the cane. These are summarised below:
+
+> (a)     For cases of rioting where dangerous weapons were involved (under s 148 of the Penal Code), the courts have taken a tough stance and imposed stiff punishments on the offenders. Where hurt is caused to victims, not only have heavy imprisonment sentences been given, caning would almost inevitably result.
+
+> (b)     In such cases of mob violence, rather than just look at the act of any one individual of the group, one should consider the collective effect and violence of the group as a whole. If nothing else, each member of the group could, through his own participation and involvement, have emboldened and spurred on the rest of the group, significantly magnifying the damage that could have been caused. Further, even though the offender only used a “makeshift weapon” i.e. a belt, he could not dissociate or distance himself from the actions of his fellow rioters, nor could he be excused from the injuries that were caused to victims.
+
+> (c)     Further, the offender’s role was not inconsequential as he was activity participating in the violence perpetuated by the group.
+
+> (d)     The rioting with weapons took place in full sight of members of the public, likely causing public disruption, panic and fear, as well as possible collateral injuries to others.
+
+> (e)     The effect of the offender’s plea of guilt was limited as this occurred only on the first day of his trial, and there was clear evidence in the form of video footage that he had participated in the riot.
+
+> (f)     The principle of parity did not apply in that particular case, as his accomplices were prosecuted for different offences, although the roles of the co-accused persons would still be considered.
+
+> (g)     The offender had indicated, through his counsel, that he would testify against the other offenders. This offer, in the Court’s view, demonstrated his remorse and willingness to co-operate.
+
+> (h)     The offender has no previous convictions.
+
+> (i)     The period of about one month that the offender had spent in remand before he was released on bail would also be considered in arriving at the final imprisonment sentence of 31 months. This final custodial term, and the sentence of 6 strokes of the cane, was consistent with the sentences in the precedent cases.
+
+218    The offender’s appeal against his sentence (MA 9308/2018/01) was subsequently dismissed by Chua Lee Ming J on 11 March 2019.
+
+219    Looking at the present case, it was clear that many of the sentencing factors, and precedents that applied in _Nirmal Singh_, were similarly applicable here. Specifically, I noted that:
+
+> (a)      Dangerous weapons were used. In this case, dangerous weapons, in the form of a two watermelon knives (one of which was 60 cm long (P4), and another was 50 cm long (P5)), and one shower head holder/metal rod, which was 51 cm in length (P6), were brought to the apartment. While only the shower head holder appears to have been used, projectiles in the form of a vase and glasses, taken from the apartment itself, were also thrown by the accused’s group members at the victims in the course of the riot. Glass, broken items and blood stains were seen all over the floor of the living room and at the balcony following the riot.
+
+> (b)      Size of the accused’s group: The accused’s group consisted of a total of nine people including himself, and they confronted a group of five victims.
+
+> (c)      Injuries caused: All five of the victims were injured as a result of the riot. These injuries were summarised in the ASOF (see \[10(g)\] above). The most serious injury was suffered by Lin Ming (who was hit by the shower head holder by Yong Yi) in the form of a deep laceration in his left hand, and abrasion in his right hand. He was advised to undergo wound debridement and tendon repair. As for Mu Ting, who was punched by the accused and who struggled with him, he suffered superficial abrasions over the angle of the right eye, a superficial abrasion over the right side of the neck, and abrasions over the left side of the neck.
+
+220    As for aggravating features that were present here but were less obvious, or were absent in _Nirmal Singh’s_ case, I noted that:
+
+> (a)      There was clear planning and premeditation involved and the victims were ambushed. In this regard, unlike in _Nirmal Singh_ where both groups were actively fighting with weapons, it was clear that the accused came with a plan which had been worked out with Yong Yi beforehand, and the latter brought the weapons thereafter. This was to ambush the victims, who were unarmed or unprepared at that stage.
+
+> (b)      The accused played a prominent and pro-active role in the riot. The accused was primarily responsible for gathering members of his group at De Royale, and then leading them up to the 4th floor, before barging into the apartment. Once in the apartment, on the pretext of talking to Mu Ting about the sofa, he punched Mu Ting and then shouted for his accomplices to get involved in the attack. Yong Yi then took out the weapons, including the shower head holder, which was used to cause Lin Ming’s injuries. The accused’s accomplices, following the accused’s words of incitement, also threw a vase and glasses during the riot. Thus, not only did the accused play a critical role in gathering the accomplices and starting the riot, he also caused injuries to one of the victims named in the charge. In contrast, in _Nirmal Singh_, even though injuries were caused to members of the other group, who actually started the riot and/or caused the injuries was not totally clear, and it was not established that the offender there had himself caused any injury or damage. In any event, there was certainly no evidence that the offender there played as critical a role as the accused in the present case.
+
+> (c)      The offence took place in a residential setting: While the riot in _Nirmal Singh_ took place on a public road, unlike the riot in the present case which occurred in an apartment, I agreed with the Prosecution that public disquiet was still a prominent feature here. In this regard, the presence of a large group of men, including one carrying a bag of weapons, getting into a lift and then barging into an apartment in a residential building, following which the riot took place, was certainly a frightening occurrence for those around the area. Further, the security supervisor, Yeo, who was outside the apartment, heard the sound of breaking glass and someone throwing furniture. Rebekah, a neighbour who lives above the apartment, was also so alarmed by the commotion that she made a police report, stating that she heard noise and the throwing of stuff, and also saw blood stains on the balcony of the apartment. Clearly the riot caused much fear, shock and apprehension to those living and working around De Royale.
+
+> (d)      There was no evidence of remorse: Unlike the accused in _Nirmal Singh_, who pleaded guilty and who also offered to testify against his accomplices, the accused here showed so obvious sign of remorse, nor offered any assistance to the authorities. While entitled to claim trial, he would clearly not be entitled to any sentencing discount that may otherwise have been due had he displayed repentance or contrition.
+
+221    While counsel essentially highlighted the personal circumstances of the accused in his very brief mitigation plea, with respect, I did not find anything put forward that would justify a lower sentence for the accused. In this regard, I would highlight that in _Lai Oei Mui Jenny v PP_ 1993\] 2 SLR(R) 406, in response to an argument that imprisonment of the offender would cause hardship to the family, Yong Pung How CJ had remarked at \[11\] that “…this is in my opinion not an argument which should normally be taken into account for the purposes of sentence. Most of the time, imprisoning the main or sole breadwinner of a family unavoidably causes hardship to his family.”
+
+222    Perhaps the only thing that could be said to be in the accused’s favour was the fact that he does not have any similar antecedents.
+
+223    All in all, in line with the precedent cases referred to in _Nirmal Singh_ as well as the considerations identified in _Nirmal Singh_ that were applicable to the present case, together with the other sentencing factors identified above, I was of the view that a sentence of 32 months’ imprisonment and six strokes of the cane, sought by the Prosecution, would be a fair and proportionate sentence.
+
+224    Further, after enquiring from counsel, I noted that the accused had previously been remanded for one week in connection with this case. Thus, in line with the decision in _Nirmal Singh_, I also discounted the sentence by this period of remand, resulting in a final sentence of 31 months and 3 weeks’ imprisonment and six strokes of the cane.
+
+225    The accused being dissatisfied has filed an appeal against his conviction and sentence. He is on bail pending the hearing of the appeal.
+
+* * *
+
+[^1]: Notes of Evidence (NE), 6 August 2018, 5/4-25
+
+[^2]: NE, 8 February 2018, 92/30-31
+
+[^3]: NE, 1 April 2019, 6/4-7/22
+
+[^4]: NE, 1 April 2019, 9/3-15
+
+[^5]: NE, 2 April 2019, 36/9-17
+
+[^6]: NE, 3 April 2019, 37/5-7
+
+[^7]: NE, 4 April 2019, 35/24-37/7
+
+[^8]: NE, 4 April 2019, 45/17-24
+
+[^9]: NE, 4 April 2019, 46/28-48/12
+
+[^10]: NE, 5 April 2019, 4/26-29
+
+[^11]: NE, 6 May 2019, 57/16-19
+
+[^12]: NE, 5 April 2019, 59/2-14
+
+[^13]: NE, 6 May 2019, 77/2-78/4
+
+[^14]: NE, 9 May 2019, 37/18-21
+
+[^15]: NE, 28 January 2020, 37/32-38/10
+
+[^16]: NE, 28 January 2020, 2/11-14
+
+[^17]: NE, 28 January 2020, 3/27-4/8
+
+[^18]: NE, 9 May 2019, 74/21-28
+
+[^19]: NE, 9 May 2019, 56/23-24
+
+[^20]: NE, 9 May 2019, 65/5-66/5
+
+[^21]: NE, 28 January 2020, 30/20-33/13
+
+[^22]: NE, 28 January 2020, 35/1-10
+
+[^23]: NE, 3 March 2020, 142/17-143/18
+
+[^24]: NE, 3 March 2020, 116/14-30
+
+[^25]: NE, 3 March 2020, 135/2-136/21
+
+[^26]: NE, 3 March 2020, 179/19-23
+
+[^27]: NE, 3 March 2020, 181/19-20
+
+[^28]: NE, 16 July 2020, 13/24-14/4
+
+[^29]: NE, 16 July 2020, 29/14-17
+
+[^30]: NE, 16 July 2020, 40/7-10
+
+[^31]: NE, 16 July 2020, 66/26-67/3, 77/21-27
+
+[^32]: NE, 16 July 2020, 86/18-27
+
+[^33]: NE, 16 July 2020, 69/2-10
+
+[^34]: NE, 3 March 2020, 65/6-8
+
+[^35]: ASOF at Annex D (2:51:13 PM to 2:52:29 pm).
+
+[^36]: Defence’s Reply to Prosecution’s Submissions at \[19\]
+
+[^37]: Defence’s Reply to Prosecution’s Submissions at \[21\]
+
+[^38]: See P16
+
+[^39]: NE, 9 May 2019, 83/27-85/5
+
+[^40]: Prosecution’s Submissions at the Close of Trial at \[35\]-\[36\]
+
+[^41]: NE, 1 April 2019, 57/8-9
+
+[^42]: NE, 7 May 2019, 22/30-32
+
+[^43]: NE, 9 May 2019, 56/3-58/7
+
+[^44]: Prosecution’s Submissions at the Close of Trial at \[33\]
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F25384-SSP.xml)
