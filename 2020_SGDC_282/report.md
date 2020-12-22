@@ -1,0 +1,180 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Wong Jing Ho, Samuel  
+
+### \[2020\] SGDC 282
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">District Arrest Case No 920663 of 2020 &amp; Anor, Magistrate's Appeal No 9882/2020/01</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">09 December 2020</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Luke Tan</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Ms Zoe Tan for Singapore Customs; The accused in person</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Wong Jing Ho, Samuel</td></tr></tbody></table>
+
+Criminal Law and Sentencing – Sentencing – Customs Act
+
+\[LawNet Editorial Note: An appeal to this decision has been filed in MA 9882/2020/01 .\]
+
+9 December 2020
+
+### District Judge Luke Tan:
+
+## Introduction
+
+1       The accused, Wong Jing Ho, Samuel is a 32-year-old male Singaporean. He was caught dealing with twelve cartons of duty unpaid cigarettes. For his actions, he faced the following two charges:
+
+> (a)     DAC 920663/2020 \[“excise duty charge”\]
+
+>> You….are charged that you, on the 10th day of October 2020, at about 7.07p.m., in the vicinity of Block 122 Bukit Batok Central, Singapore, were concerned in dealing with uncustomed goods, to wit, 12 cartons x 200 sticks of Texas 5 brand duty unpaid cigarettes, weighing 2.180 kilogrammes, on which excise duty of $1,024.80 was not paid, with intent to defraud the Government of the excise duty thereon, and you have thereby, committed an offence under section 128I(1)(b) of the Customs Act (Cap 70) punishable under section 128L(4) of the same Act.
+
+> (b)     DAC 920664/2020 \[“GST charge”\]
+
+>> You…. are charged that you, on the 10th day of October 2020, at about 7.07p.m., in the vicinity of Block 122 Bukit Batok Central, Singapore, were concerned in dealing with uncustomed goods, to wit, 12 cartons x 200 cartons of Texas 5 brand of duty unpaid cigarettes, weighing 2.180 kilogrammes, valued at $1,185.36 on which the Goods and Services Tax of $82.98 was not paid, with intent to defraud the Government of the tax thereon, and you have thereby, by virtue of sections 26 and 77 of the Goods and Services Tax Act (Cap 117A), paragraph 3 of the Goods and Services Tax (Application of Legislation Relating to Customs and Excise Duties) Order (Cap 117A, Order 4) and paragraph 2 of the Goods and Services Tax (Application of Customs Act) (Provisions on Trials, Proceedings, Offences and Penalties) Order (Cap 117A, Order 5), committed an offence under section 128I(1)(b) of the Customs Act (Cap 70) punishable under section 128L(4) of the same Act.
+
+2       Before me, the accused, pleaded guilty to both charges. Having considered the facts of the case, the sentencing submissions and the mitigation plea, as well as the relevant case law and sentencing precedents, I imposed a 9-week imprisonment sentence for the excise duty charge, and a 1-week imprisonment for the GST charge. Both sentences were ordered to run concurrently for a global sentence of 9 weeks’ imprisonment. The accused being dissatisfied, has filed an appeal against the sentence.
+
+3       I now give my detailed grounds of decision.
+
+## Statement of Facts
+
+4       The accused admitted to the Statement of Facts (SOF) without qualification. I have reproduced the contents of the SOF below, with some parts highlighted in bold italics for emphasis.
+
+STATEMENT OF FACTS
+
+>     The accused is Wong Jing Ho, Samuel, NRIC No: SXXXXXXX, 32 years old (DOB: 11/08/1988), Male, Singaporean (“B2”).
+
+>      Facts pertaining to the 1st and 2nd charges (DAC-920663-2020 & DAC-9206642020)
+
+> 2    On 10th October 2020, from about 3.23 p.m., Customs officers (“the officers”) conducted an operation in the vicinity of Block 122 Bukit Batok Central, Singapore to look out for activities involving duty unpaid cigarettes. On the same day, at about 7.07 p.m., officers sighted one Chan Choon Kuin (“B1” – _dealt with separately_) handing over a visibly filled red plastic bag over to the accused at the said location. At this juncture, suspecting that duty unpaid cigarettes were involved, officers moved in and declared office to the accused and B1. Upon seeing the officers, the accused attempted to flee whilst still carrying the said red plastic bag. Officers gave chase and managed to detain the accused. At the same time, officers also detained B1. Upon checking the red plastic bag in the presence of the accused, officers found a total of 12 cartons x 200 sticks of Texas 5 brand of duty unpaid cigarettes (“C1”) in the red plastic bag. The accused admitted knowledge and ownership of the duty unpaid cigarettes found, and further admitted that he had just received C1 from B1. C1 and the red plastic bag were seized as case exhibits accordingly.
+
+>      Investigations Findings
+
+> 3    Investigations revealed that since October 2019, the accused had been purchasing duty unpaid cigarettes from one “yaozhenxi521YS” via the “WeChat” mobile application. The duty unpaid cigarettes were sold by “yaozhenxi521YS” at either $39 to $50 per carton of duty unpaid cigarettes depending on the brand; or at a bulk order price of $39 per carton, with a minimum order of 10 cartons of duty unpaid cigarettes. After completing his first purchase with “yaozhenxi521YS”, **_the accused started consolidating duty unpaid cigarettes orders from 3 of his friends and had also set up a “WhatsApp” group chat named as “Stock Up” with all 4 of them in it to facilitate communication on their duty unpaid cigarettes orders_**. **_The accused would first inform his friends of the duty unpaid cigarettes variants via the group chat and would charge them $50 per carton of duty unpaid cigarettes_**. The accused’s friends would then inform him of the quantity and variant of duty unpaid cigarettes they wish to purchase and pay the accused the amount due. **_The accused would then consolidate their orders together with his own order and then place the consolidated order with “yaozhenxi521YS” via the “WeChat”_** mobile application. “yaozhenxi521YS” would then arrange for the order to be delivered to the accused by unknown persons. After receiving the duty unpaid cigarettes, **_the accused would inform his friends to proceed to his residence to collect the cigarettes_**.
+
+> 4    On the afternoon of 9th October 2020, the accused ordered C1 from “yaozhenxi521YS”. C1 was a consolidated order comprising the accused’s own order of duty unpaid cigarettes together with his friends’ orders of duty unpaid cigarettes. On 10th October 2020, at about 6.00 p.m., the accused received a phone call, informing him that his order of duty unpaid cigarettes would be delivered to him at Block 122 Bukit Batok Central, Singapore at about 7.00 p.m. At about 7.07 p.m., the accused met up with the delivery man, later established to be B1, and collected C1 kept in a red plastic bag from B1. The accused handed a cash amount of SGD$468 to B1. As the accused was walking off carrying C1 with him, officers moved in and detained both the accused and B1; and found the said duty unpaid cigarettes.
+
+>      Excise duty and Goods and Services Tax (“GST”) leviable
+
+> 5    The accused knew that the excise duty and the GST leviable on the seized cigarettes, that is C1, were unpaid at the material time the offence was committed.
+
+> 6    The excise duty leviable on the seized cigarettes, that is C1, weighing a total of 2.180 kilogrammes, in the 1st charge is $1,024.80. The GST leviable on the same cigarettes in the 2nd charge, valued at $1,185.36 is $82.98.
+
+> 7    By virtue of the foregoing, the accused was thus concerned in dealing with uncustomed goods (duty unpaid cigarettes), and the accused stands charged accordingly.
+
+## Prescribed Punishment
+
+5       In respect of the excise duty charge and the GST charge, both involving the 2.018 kg of tobacco product, the prescribed punishment for these offences is set out in section 128L(4) of the Customs Act. Specifically, for each charge, the prescribed punishment is:
+
+> (a)     A fine of:
+
+>> (i)       not less than 15 times the amount of the excise duty, excise duty or tax the payment of which would have been evaded by the commission of the offence, subject to a minimum of $1,000; and
+
+>> (ii)       not more than 20 times the amount of the excise duty, excise duty or tax the payment of which would have been so evaded or $10,000, whichever is the greater amount;
+
+> (b)     Imprisonment for a term not exceeding 3 years; or
+
+> (c)     Both.
+
+6       Specifically, as regards the excise duty charge, as the excise duty evaded is $1,024.80, this means that the specific punishment for this charge is:
+
+> (a)     A fine ranging from $15,372.00 to $20,496.00 (i.e. 15 to 20 times the amount of excise duty);
+
+> (b)     Imprisonment for a term not exceeding 3 years; or
+
+> (c)     Both.
+
+7       As regards the GST charge, since the GST sum involved is $82.98, this means that the specific punishment for this charge is:
+
+> (a)     A fine ranging from $1,244.70 to $10,000 (i.e. 15 times the amount of tax to the upper limit set out in s 128(L)(4)(a)(ii) Customs Act);
+
+> (b)     Imprisonment for a term not exceeding 3 years; or
+
+> (c)     Both.
+
+## Antecedents
+
+8       The accused does not have any similar antecedents.
+
+## Submissions on Sentence and the Mitigation Plea
+
+### Prosecution’s submissions
+
+9       The Prosecution tendered written submissions on sentence, as well as a table of sentencing precedents. The table included details of the sentence imposed on Chan Choon Kuin, who was identified as B1 in the SOF. B1 was the person who delivered the cigarettes to the accused, and who was arrested together with him.
+
+10     The Prosecution sought a 9-week imprisonment sentence for the excise duty charge and a 1-week imprisonment for the GST charge, with the sentences to run concurrently for a global sentence of 9 weeks’ imprisonment.
+
+11     In support of the sentencing position, Ms Zoe Tan, the Customs Senior Prosecution Officer, argued that in light of the quantity of cigarettes involved in the present case (2.180 kg), according to the sentencing framework set out by the High Court at \[49\] of _Public Prosecutor v Pang Shuo_ <span class="citation">\[2016\] 3 SLR 903</span> (_“Pang Shuo_”), the accused should receive a sentence of about 2 months’ imprisonment in relation to the excise duty charge, which was the sentence imposed on B1. However, due to the accused’s greater culpability as compared to B1, there should be a slight uplift in his sentence compared to that of B1 and the accused should be sentenced to 9 weeks’ imprisonment instead.
+
+12     As stated above, the Prosecution also tendered a table of sentencing precedents setting out the sentences imposed on offenders in similar cases, as well as the sentence imposed on B1. A summary of these cases is set out below:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="9.34%"> <col width="13.08%"> <col width="18.7%"> <col width="20.56%"> <col width="20.56%"> <col width="17.76%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>S/N</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Date</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Accused</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Details of duty unpaid cigarettes</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Sentence</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Remarks</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">1</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">2/10/2020</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Sardar Anamul</p><p align="justify" class="Table-Para-1">(23 years old)</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Weight:</p><p align="justify" class="Table-Para-1">2.041 kg</p><p align="justify" class="Table-Para-1">Duty: $939.40</p><p align="justify" class="Table-Para-1">GST: $76.06</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Excise duty offence: 9 weeks</p><p align="justify" class="Table-Para-1">GST offence: 1 week</p><p align="justify" class="Table-Para-1">(concurrent)</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Acted on his own.</p><p align="justify" class="Table-Para-1">Cigarettes resold for profit.</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">2</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">10/10/2018</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Zhu Yanqing</p><p align="justify" class="Table-Para-1">(30 years old)</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Weight:</p><p align="justify" class="Table-Para-1">2.081 kg</p><p align="justify" class="Table-Para-1">Duty: $1,024.80</p><p align="justify" class="Table-Para-1">GST: $75.11</p><p align="justify" class="Table-Para-1">[offender had other charges as well]</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Excise duty offence: 9 weeks</p><p align="justify" class="Table-Para-1">GST offence: 1 week</p><p align="justify" class="Table-Para-1">(concurrent)</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Acted on his own.</p><p align="justify" class="Table-Para-1">Cigarettes resold for profit.</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">3</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">9/11/2018</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Chan Choon Kuin (B1)</p><p align="justify" class="Table-Para-1">(36 years old)</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Weight: 2.180 kg</p><p align="justify" class="Table-Para-1">Duty: $1,024.80</p><p align="justify" class="Table-Para-1">GST: $82.98</p><p align="justify" class="Table-Para-1">[offender had other charges as well]</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Excise duty offence: 2 months</p><p align="justify" class="Table-Para-1">GST Offence: 2 weeks</p><p align="justify" class="Table-Para-1">(concurrent)</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Paid worker.</p><p align="justify" class="Table-Para-1">Cigarettes delivered to</p><p align="justify" class="Table-Para-1">accused</p></td></tr></tbody></table>
+
+  
+  
+
+13     In the present case, the Prosecution argued that its proposed sentence was justified in light of the following considerations:
+
+> (a)     As set out in the High Court decision in _Pang Shuo_, the general sentencing factors for customs offences involving duty unpaid cigarettes include: (a) the quantity of tobacco product involved; (b) the repetition of the offence; (c) whether the offender acted on his own or was involved in a syndicated operation; and (d) the extent of the offender’s role.
+
+> (b)     The present case involves 2.180 kg of duty unpaid cigarettes, which is a quantity where the starting point for the sentence would be at least 2 months’ imprisonment. This was according to the guidelines in _Pang Shuo_ for a first-time offender who is not a youthful offender, who is a paid worker, and who pleaded guilty at the earliest opportunity. As the quantity of duty unpaid cigarettes involved in the present case has just crossed the 2 kg threshold, the degree of harm caused was correspondingly low.
+
+> (c)     However, the accused’s culpability here was at a moderate level as he had acted on his own to purchase and resell duty unpaid cigarettes for profit, and he was not simply a paid worker. For this case, the accused had consolidated the orders for duty unpaid cigarettes from his friends together with his own order, and had even set up a “WhatsApp” group to facilitate communication on their duty unpaid cigarettes orders. He had evidently done this to gain monetary benefits for himself.
+
+> (d)     Finally, the Prosecution emphasised that the sentencing objectives of customs offences are retribution and deterrence (citing _Chia Kah Boon v PP_ <span class="citation">\[1999\] 2 SLR(R) 1163</span> at \[14\]-\[15\]).
+
+### Mitigation
+
+14     The accused stated that he was a first time offender, and that he did not commit the offences for his own benefit. Instead, he has two elderly persons at home who are ill, and they need him to take care of them. Further, the accused argued that he did not earn hundreds of dollars from his offences, but only tens of dollars. In addition, he highlighted that he had cooperated with the Custom officers and had pleaded guilty. He also pleaded for leniency.
+
+## Court’s decision on Sentence
+
+### The relevant High Court Decisions
+
+15     In _Yap Ah Lai v PP_ <span class="citation">\[2014\] SGHC 70</span> (“_Yap Ah Lai”)_ at \[27\], the learned Chief Justice Sundaresh Menon made it clear that in relation to customs offences involving cigarette smuggling, the quantity of duty unpaid cigarettes involved would be the primary factor in sentencing. At \[46\], Menon CJ set out a graduated scheme that cross references the quantity of tobacco with the duration of the imprisonment term that can be expected to be imposed as a starting point. This is reproduced below.
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="49.54%"> <col width="50.46%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Quantity of Tobacco Products (kg)</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Sentencing Range (months)</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">2 – 50</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1">3-6</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">51-100</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1">6-12</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">101 – 200</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1">12 – 18</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">201 – 300</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1">18 – 24</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">301 – 400</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1">24 – 30</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="center" class="Table-Para-1">&gt; 400</p></td><td align="left" class="" rowspan="1" valign="top"><p align="center" class="Table-Para-1">30 – 36</p></td></tr></tbody></table>
+
+  
+  
+
+16     In _Pang Shuo_, Chan Seng Onn J had occasion to consider sentencing guidelines for cases involving offenders who deal with duty unpaid cigarettes. After reviewing _Yap Ah Lai_, Chan J put forward guidelines for section 128L(4) offences in the form of a graph that applies in two likely scenarios.
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="48.22%"> <col width="51.78%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Scenario 1: Standard/Archetypal Case</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Scenario 2</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">First time offender who is not a youthful offender</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">First time offender who is not a youthful offender</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Performing a physical role in a cigarette smuggling operation as a paid worker but with no management control or profit share in the syndicate.</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Performing a physical role in a cigarette smuggling operation as a paid worker but with no management control or profit share in the syndicate.</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Pleads guilty at the earliest opportunity</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Claims trial and shows no remorse</p></td></tr></tbody></table>
+
+  
+  
+
+17     The graph set out at \[49\] of _Pang Shuo_ is reproduced below.
+
+![]([2020] SGDC 0282_Image/[2020] SGDC 0282_image1.png)
+
+### Sentence imposed
+
+18     In the present case, as the accused’s case largely fell within the circumstances set out in scenario 1 of _Pang Shuo_, applying the sentencing framework set out above, as a starting point, the punishment that should be imposed would be a custodial sentence of about 2 months’ imprisonment. This was in fact the sentence received by B1 (see table of precedents at \[12\] above).
+
+19     However, I agreed with the Prosecution that accused displayed a higher level of culpability than B1. This was because he had played a distinctly more involved and significant role than B1 in his dealings with the duty unpaid cigarettes, and was not merely a paid worker. Indeed, as detailed in the SOF, the investigation findings revealed that:
+
+> (a)     The accused would consolidate duty unpaid cigarettes orders from his friends, and that he had even set up a “WhatsApp” group chat with them to facilitate communication on their orders for the duty unpaid cigarettes.
+
+> (b)     Further, after the accused had informed them of the variants of duty unpaid cigarettes via the group chat, they would inform him of the quantity and variant of duty unpaid cigarettes that they wished to purchase, and pay the accused the amount due. The accused would then consolidate their orders together with his own order and then place the consolidated order with his seller (“yaozhenxi521YS”) via the “WeChat” mobile application. Subsequently, after receiving the duty unpaid cigarettes, the accused would inform his friends to proceed to his residence to collect the cigarettes.
+
+> (c)     In respect of the present offences, the accused had again consolidated the orders for duty unpaid cigarettes and then made the orders to “yaozhenxi521YS”, who had informed him of the delivery details. The accused thereafter met up with B1 who delivered the duty unpaid cigarettes to him.
+
+> (d)     It also appears from the difference in the amounts that he paid for the cigarettes, and the amount that that he charged his friends for them, that he also profited from his enterprise. This was aside from just getting ‘cheaper’ cigarettes through his endeavours. Indeed, the accused admitted as much in his mitigation plea, when he claimed to have (only) earned tens of dollars.
+
+20     Clearly, the role played by the accused was more elaborate than that of B1, and his sentence should reflect this increase in involvement and culpability. In short, the overall sentence that he should receive for the excise duty charge should be higher than the two-month imprisonment sentence imposed on B1.
+
+21     As for the factors put forward in mitigation, namely the fact that the accused had pleaded guilty and that he was a first offender, these factors have already been factored into the sentencing framework. In any event, I also noted that the accused had essentially been caught red-handed, and that he had initially tried to flee from the Customs officers. As for his personal circumstances, I was of the view that they were not “exceptional or extreme”, such that much reliance, if any, should be placed on them (see _Michael Frank Hartung v Public Prosecutor_ <span class="citation">\[2020\] SGHC 250</span> at \[75\] citing _Lai Oei Mui Jenny v Public Prosecutor_ <span class="citation">\[1993\] 2 SLR(R) 406</span> at \[10\] and \[12\]).
+
+22     Finally, in deciding on the appropriate sentence to impose, I also considered the cases set out in the Prosecution’s table of sentencing precedents, notably the sentences imposed on the offenders identified at serial number 1 (Sardar Anamul), and at serial number 2 (Zhu Yanqing). In this regard, I noted that the offenders in those cases, like the accused in the present case, had, in the commission of the offences, essentially acted on their own and had also resold cigarettes for profit. Both of those offenders had been sentenced to 9 weeks’ and 1 week’s imprisonment for the excise duty offence and the GST offence respectively. These were the same sentences that the Prosecution was urging me to impose on the accused in respect of his commission of essentially the same offences.
+
+23     To summarise, in light of the above considerations, namely:
+
+> (a)     the sentencing framework set out in _Pang Shuo;_,
+
+> (b)     the relevant sentencing factors in this case, including the need for a deterrent sentence (see _Chia Kah Boon v PP_ <span class="citation">\[1999\] 2 SLR(R) 1163</span> referred to at \[13(d)\] above); and
+
+> (c)     the sentences received by the other offenders, and by B1, as set out in the Prosecution’s sentencing table,
+
+I was of the view that the sentences proposed by the Prosecution of 9 weeks’ and 1 week’s imprisonment respectively for the excise duty charge (DAC 920663/2020) and GST charge (DAC 920664/2020) were fair and proportionate. Thus, these were the sentences that I imposed on the accused.
+
+24     Further, as the offences were committed in the same transaction, the imprisonment sentences were ordered to run concurrently. The accused, being dissatisfied, has filed an appeal against his sentence.
+
+25     He is on bail pending the hearing of the appeal.
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F25397-SSP.xml)
