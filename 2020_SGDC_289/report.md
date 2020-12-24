@@ -1,0 +1,228 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ M Raveendran  
+
+### \[2020\] SGDC 289
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">DAC 915589-90 of 2019, Magistrate's Appeal No 9883-2020-01</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">17 December 2020</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Toh Yung Cheong</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Theong Li Han (Deputy Public Prosecutor) for the Prosecution; Edmon Pereira (Edmond Pereira Law Corporation) for the Accused</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — M Raveendran</td></tr></tbody></table>
+
+Criminal Procedure and Sentencing – Sentencing
+
+\[LawNet Editorial Note: An appeal to this decision has been filed in MA 9883/2020/01.\]
+
+17 December 2020
+
+### District Judge Toh Yung Cheong:
+
+## Introduction
+
+1       In the early hours of 9 September 2018, at or about 12.35am, the accused lost control of his car along Thomson Road. His car mounted the centre divider of the dual carriageway and collided with the guard railing. The accused was found to have 91 microgrammes of alcohol per 100ml of breath and charged with drink driving.
+
+2       Subsequently, the accused pleaded guilty to the following charge of drink driving under s.67(1)(b) of the Road Traffic Act:
+
+>     DAC 915589/2019
+
+>     You, on the 9th day of September 2018, at about 12.35 am, along Thomson Road towards the direction of Upper Thomson Road, Singapore, when driving motor car SLU7891X, did have so much alcohol in your body that the proportion of it in your breath, to wit, not less than **91 microgrammes of alcohol in 100 millilitres of breath**, exceeded the prescribed limit of 35 microgrammes of alcohol in 100 millilitres of breath and you have thereby committed an offence punishable under Section 67(1)(b) of the Road Traffic Act, Chapter 276.
+
+3       A second charge under s.65(a) of the Road Traffic Act was taken into consideration for the purpose of sentencing. After considering the facts and submissions from the Prosecution and the Defence, I sentenced the accused to one weeks’ imprisonment and imposed a disqualification order for 24 months’.
+
+4       As the accused has appealed against the sentence imposed, I will now set out the reasons for my decision.
+
+## Facts
+
+5       Investigations revealed that on 8 September 2018 at about 8.00 pm, the accused was having dinner with his friends at Newton Food Centre. The accused started drinking beer at about 8.00 pm and only stopped drinking at about 12.00 am on 9 September 2018. In total, the accused drank about five to six glasses of beer. The accused nonetheless decided to drive home.
+
+6       At or about 12.35am, the accused was driving along Thomson Road in the direction of Upper Thomson Road. When he was near the vicinity of lamp post number 74 (which was near the Thomson Lane junction), he veered right. He lost control of his car which resulted in the car mounting the centre divider and colliding into twelve portions of the centre guard railing.
+
+7       Inspector Kristen Alexis Frost, an officer attached to Tanglin Police Division, was on patrol duty that night when he came across the accused. Inspector Frost interviewed the accused and observed that he reeked strongly of alcohol. A breathalyser test was administered to him on the spot and it displayed a “fail’ result. The accused was placed under arrest and escorted to Tanglin Police Division Headquarters for a Breath Analysing Device (BAD) test to be administered.
+
+8       At Tanglin Police Division Headquarters, Staff Sergeant Muhammad Shazwan conducted the BAD test on the accused. The test showed that the proportion of alcohol in the accused’s breath was 91µg of alcohol in every 100 millilitres of breath. The prescribed limit is 35µg of alcohol per 100 millilitres of breath.
+
+## Prescribed Punishment
+
+9       The prescribed punishment for a first offender is a fine of not less than $1,000/= and not more than $5,000/= or to imprisonment for a term not exceeding 6 months. In addition, the offender shall be disqualified (unless the court for special reasons thinks fit to order otherwise) from holding or obtaining a driving licence for a period of not less than 12 months.
+
+## Previous Convictions / Antecedents
+
+10     The accused did not have any previous convictions. The DPP informed the Court that the accused had a number of traffic offences that had been compounded. However, these offences were unrelated and were not a factor in my decision on sentence.
+
+## Prosecution Submissions
+
+11     The prosecution submitted that a short custodial sentence and a disqualification order of 24 months’ should be imposed as the accused’s culpability was “at least medium” because his alcohol level was high and he demonstrated some elements of dangerous driving when he lost control and collided into the divider.
+
+## Mitigation Plea Factors raised by the Defence
+
+12     The accused’s lawyer submitted a written plea in mitigation that highlighted the following points:
+
+> (a)     The accused was married with 3 children.
+
+> (b)     He is in poor health and on medication for diabetes and cholesterol and has antral gastritis. He also underwent surgery a year ago.
+
+> (c)     He was a regular with the Singapore Armed Forces (“SAF”) and attained the rank of 1st Warrant Officer in 2014. A number of testimonials and certificates relating to his service in the SAF were attached to the plea in mitigation.
+
+> (d)     Due to the present case, he is at risk of losing his emolument of about $150,000 in bonus and gratuity payments if a custodial sentence is imposed.
+
+> (e)     He contributed to society in various ways including:
+
+>> (i)       Serving as a Town Councillor of Tanjong Pagar Town Council from 2006 to 2010. He also received the Public Service Medal in 2008.
+
+>> (ii)       Serving as a member of the Radin Mas Citizens’ Consultative Committee from 2011 to 2019.
+
+> (f)     On the night in question, the accused consumed 5 to 6 glasses of beer but this was over 4 hours and after food. Therefore, it did not strike him that he was over the limit.
+
+> (g)     While driving along Thomson Road, a motorist had “abruptly” overtaken him by swerving into the filter lane. As a matter of driving reflex and in order to avoid a collision, our client swerved towards the right. As a consequence of his “defensive manoeuvre”, the vehicle mounted the centre divider.
+
+> (h)     The accused remained at the scene after which a Police patrol car arrived.
+
+> (i)     Only slight damage was caused. In addition, the accused paid the Land Transport Authority $1,438.50 for the damage caused to the road dividers.
+
+13     In light of the above factors, the defence urged the court to impose a fine of $4,000 and a 24 month disqualification order.
+
+## Sentencing Approach
+
+14     In determining the appropriate sentence, I took note of the two-step approach outlined by the Court of Appeal in _Ng Kean Meng Terence v PP_ <span class="citation">\[2017\] 2 SLR 449</span> and considered the following:
+
+> (a)     The High Court cases of _Edwin s/o Suse Nathan v PP_ <span class="citation">\[2013\] 4 SLR 1139</span> and _Stansilas Fabian Kester v PP_ <span class="citation">\[2017\] 5 SLR 755</span> which set out the indicative sentencing ranges for drink-driving offences.
+
+> (b)     The harm caused and the offender’s culpability, in order to determine which sentencing band the present case falls into.
+
+> (c)     Identifying where within that range the present offence falls in order to derive an “indicative starting point.”
+
+> (d)     Whether there were any offender-specific factors which would justify an uplift or reduction to the sentence.
+
+### High Court cases
+
+15     In _Stansilas Fabian Kester v PP_ \[2017\] SLR 755, Chief Justice Sundaresh Menon stated that the general sentencing approach for drink-driving cases would be to consider the degree of the harm caused, and the culpability of the offender.[^1]
+
+16     The Chief Justice then set out the indicative sentencing ranges which were calibrated according to the degree of harm caused and the offender’s culpability. For ease of reference, the indicative sentencing ranges found at \[78\] are summarised in the table below:
+
+![]([2020] SGDC 0289_Image/[2020] SGDC 0289_image1.png)
+
+### Harm and Culpability
+
+17     In this section, I explain why I found this to be a case involving slight harm and medium culpability.
+
+#### Harm
+
+18     The accused collided into the centre divider of a dual carriageway. As a result of the collision, 12 portions of centre guard railings were damaged and cost $1,438.50 to repair. Both the prosecution and defence agreed that the damaged caused fell under the ‘slight harm’ category in _Stansilas._
+
+19     I agreed with this submission and noted that the damage to the railings falls within the description of “slight harm” in _Stansilas_ at \[75\]:
+
+>     Slight or moderate property damage and/or slight physical injury characterised by no hospitalisation or medical leave
+
+#### Culpability
+
+20     For ease of reference, the guidance in _Stansilas_ on culpability[^2] is set out below:
+
+> Culpability
+
+> (a)     Low – low alcohol level _and_ no evidence of dangerous driving behaviour;
+
+> (b)     Medium – moderate to high alcohol level _or_ dangerous driving beahviour; and
+
+> (c)     High – high alcohol level _and_ dangerous driving behaviour
+
+21     The prosecution submitted that the accused’s culpability was medium and the defence appeared to agree that the accused’s culpability was “moderate”.[^3]
+
+22     The accused’s alcohol level was 91µg of alcohol in every 100 ml of breath. I was of the view that this was a high alcohol level. In coming to this conclusion, I noted that the High Court in _Edwin s/o Suse Nathan_ <span class="citation">\[2013\] 4 SLR 1139</span> at \[22\] set out four broad bands according to the level of alcohol and that the present case would fall within the highest band which is for an alcohol level greater than or equal to 90µg per 100 ml of breath. The defence mitigation plea also appeared to concede that this was a high level of alcohol.[^4]
+
+23     As for the nature of the driving, I noted that the facts merely stated that the accused “veered right”[^5] and “lost control.”[^6] This would not in itself be sufficient to conclude that the accused had driven dangerously even though the loss of control would have posed a risk to any road user who was nearby. While the DPP may have used the term “dangerous driving” in her oral submissions on sentence, she was likely to have been referring to the danger posed to any road users nearby when the accused lost control of his vehicle, as opposed to an explicit submission that the accused was also guilty of the offence of dangerous driving. This is reinforced by the fact that the second charge which was taken into consideration was one of driving without due car and attention.
+
+24     Therefore, I found that the present case fell within the slight damage and medium culpability category in the framework set out in Stansilas. There were no exceptional offence specific factors that would take the present case out of this category. In the circumstances, the indicative sentence for this category would be imprisonment of up to 1 month.
+
+### Determining an indicative starting point
+
+25     Having determined that this was a case of slight damage and medium culpability, I proceeded to consider where within the range the present case falls in order to determine an indicative starting point. In making this assessment, I referred to the sentences in _Stansilas_ as well as cases that were decided after it:
+
+> (a)     In _Stansilas Fabian Kester v PP_ <span class="citation">\[2017\] 5 SLR 755</span>, the offender had a breath alcohol level of 43µg per 100ml. His vehicle brushed against a female pedestrian and collided into a motorcyclist who was flung off his motorcycle. The Chief Justice observed at \[114\] that the case involved moderate harm and medium culpability and that the starting point sentence in that case would be 2 weeks’ imprisonment. The Chief Justice held that mitigating value should be attributed to the offender’s payment of a “reasonably substantial” compensation amount and noted that “the impression one gets is that the appellant was sincerely attempting to make it up to the victims.” His sentence was reduced to 1 weeks’ imprisonment on appeal.
+
+> (b)     In _PP v Vilashini d/o Nallan Rajanderan_ <span class="citation">\[2018\] SGDC 142</span>, a case cited by the defence, the offender pleaded guilty to a charge of drink driving and a charge of giving false information to a public servant. The offender had a breath alcohol level of 53µg per 100ml. The offender went on a joyride after drinking about one bottle of liquor and caused a chain collision involving seven vehicles in a car park. The accused was sentenced to 1 weeks’ imprisonment on the drink-driving charge and fined $4,000 for the charge of giving false evidence to a public servant. There was no appeal against sentence.
+
+> (c)     In _PP v Solomon Seah_ <span class="citation">\[2018\] SGDC 106</span>, the offender pleaded guilty to a charge of drink driving under s.67(1)(b) RTA and one charge for driving without due care and attention under s.65(a) RTA. The offender went to a pub in Orchard Road and consumed 3 glasses of whiskey mixed with green tea. The offender had a breath alcohol level of 59µg per 100ml. He fell asleep at the wheel and his car crashed into a traffic light. causing damage estimated to be about $1,071.26. The accused paid for the damage. In respect of the drink driving charge, the accused was sentenced to 3 days’ imprisonment and a disqualification period of 19 months’. An appeal against sentence was filed by the accused but it was subsequently withdrawn.
+
+26     I accepted that the damage or harm caused in _Stansilas and Vilashini_ was more serious than the slight damage caused in the present case. In the case of _Solomon Seah_ the value of the damage ($1,071.26) caused was slightly less than the damage caused in the present case ($1,438.50).
+
+27     However, one distinguishing factor in this case is the accused’s significantly higher breath alcohol level of 91µg per 100ml. As the Chief Justice noted in _Stansilas_ at \[53\], the higher the offender’s alcohol level, the higher the extent of his disregard for the law and for the well-being of others. The accused’s alcohol level also falls into the highest of the 4 bands set out in _Edwin s/o Suse Nathen v PP_:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="44.04%"> <col width="55.96%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Level of alcohol</p><p align="justify" class="Table-Para-1">(µg per 100ml of breath)</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Offender / level of alcohol</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">35 - 54</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>Stansilas</em>: 43</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">55 - 69</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>Vilashni</em>: 53</p><p align="justify" class="Table-Para-1"><em>Solomon Seah</em>: 59</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">70 – 89</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">-</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">≥90</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>M Raveendran</em> (the accused): 91</p></td></tr></tbody></table>
+
+  
+  
+
+28     Finally, I bore in mind the observation in _Stansilas_ that the starting point sentence for _that_ case, which was in the moderate harm and medium culpability category, was 2 weeks’ imprisonment.
+
+29     After considering these factors, I consider the appropriate starting point sentence for the present case involving slight harm and medium culpability to be 1 weeks’ imprisonment.
+
+## Offender specific factors
+
+30     Having determined the indicative starting point sentence, I considered the aggravating and mitigating factors which were personal to the offender in order to calibrate the appropriate sentence for the accused: _Ng Kean Meng Terence v PP_ <span class="citation">\[2017\] 2 SLR 449</span> at \[39(b)\].
+
+31     In this part of my decision, I consider the following three factors:
+
+> (a)     The claim that the accused veered right in order to avoid an accident with a motorist that had cut into his lane.
+
+> (b)     The accused’s service with the Singapore Armed Forces as well as his volunteer work
+
+> (c)     Measures that may be taken by the SAF as a consequence of his conviction
+
+> (d)     The accused’s remorse and plea of guilt.
+
+### Claim that the accused veered right in order to avoid an accident
+
+32     The defence claimed that a fellow motorist had abruptly overtaken his vehicle by “swerving into the filter lane.” The accused swerved to the right “as a matter of driving reflex” and “in order to avoid a collision.”[^7] The prosecution’s position was that there was no evidence available to confirm that such an incident took place.
+
+33     As there was no video recording of the incident available, it was not possible for the Court to conclude whether a sober driver would have been able to react to this encroachment in a manner that would not have caused any damage, for example, by simply remaining in his lane and applying the brakes. It was equally not possible for the Court to conclude from the facts that the accused was driving dangerously.
+
+34     The assertion that accused had swerved to the right to avoid a collision was therefore at best an assertion that the accused was _not_ driving dangerously. Under the _Stansilas_ framework, if the accused had been driving dangerously his culpability would have been considered to be “high” given that his alcohol level was also “high.” Therefore, the Court, in considering the accused’s culpability to be “medium” had already taken into the fact that there was no evidence that the accused was driving dangerously.
+
+35     While the Court did not find the accused to be driving dangerously, the fact that the accused lost control of his vehicle was nevertheless something that the Court could consider, as a driver who loses control of his vehicle would pose a threat to the safety to any road users who were nearby.
+
+### Accused’s service with the SAF and volunteer work
+
+36     Next, I considered the mitigating value of the accused’s service with the Singapore Armed Forces and his volunteer work. I have summarised his contributions in an earlier part of this judgment and do not propose to repeat them here.
+
+37     In _Stansilas_, the offender was a Major with the Singapore Armed Forces and the High Court considered the mitigating value of his public service and contributions. The Chief Justice held at \[102\] that the fact that an offender made past contributions to society might be a relevant mitigating factor insofar as it is indicative of his capacity to reform and it tempers the concern over the specific deterrence of the offender. Nevertheless, the Chief Justice held at \[113\] that:
+
+>     \[W\]hile the appellant may have an unblemished record of service in the SAF on account of which there may be no call for specific deterrence, I place no real weight on this because of the pressing need for general deterrence in this case.
+
+38     In the case of _Goh Kah Heng (alias Shi Ming Yi) v PP_ <span class="citation">\[2010\] 4 SLR 258</span>[^8], the offender was convicted of a number of offences including criminal breach of trust in relation to a sum of $50,000 from Ren Ci Hospital and Medicare Centre (“Ren Ci”). Justice Tay Yong Kwang (as he then was) recognised that the offender’s contributions to Ren Ci (i.e. the organisation that was the victim of the offence) were exceptional enough to affect the sentence.
+
+39     Raymond Yeung, the co-accused in the above case, was Shi’s personal assistant and he was on the Ren Ci payroll from December 2004. He was convicted in a joint trial with the first offender. In his mitigation, he submitted testimonials which described his good character and the good work he had done at Ren Ci[^9]. Justice Tay, in dismissing Raymond Yeung’s appeal, stated at \[99\] that Yeung’s contributions to Ren Ci and to society “paled in comparison with SMY’s.” The contrast between Shi and Yeung shows the exceptional nature of Shi’s case and why it is of limited applicability to the present case.
+
+### Measures taken that may be taken by the SAF
+
+40     While the accused stands to forfeit a substantial amount of his bonus and gratuity payments if a custodial sentence is imposed, the Courts have usually not regarded this as a mitigating factor. In _Stansilas_, the High Court considered this issue at \[103\]-\[111\] and held that the financial consequences that the offender may face such as the withholding of his performance bonuses and merit increments were not relevant mitigating factors.
+
+41     In conclusion, I found that the accused’s record of public service and contributions, as well as the measures the SAF might take, were not factors that would justify a reduction in the sentence in the present case.
+
+## Plea of guilt and remorse
+
+42     I took into account the accused’s plea of guilt and the fact that he had paid LTA $1,438.50 for the damage caused to the railings. This suggested that the accused was remorseful for his actions. However, I did not find this factor to be so exceptional as to justify a reduction in the sentence from the indicative starting point. In making this finding I bore in mind that as part of the sentencing exercise, I had looked at a number of sentencing precedents which also involved offenders who had pleaded guilty and had expressed remorse for their actions.
+
+## Sentence imposed
+
+43     After careful consideration, I was of the view that the offender-specific factors raised by the defence were not sufficient to justify a reduction of the sentence. I sentenced the accused to 1 weeks’ imprisonment and imposed a disqualification order of 24 months’ for all classes of vehicles to take effect from the date of his release from prison.
+
+44     At the time of preparing this judgment, the accused is on bail pending the hearing of the appeal.
+
+* * *
+
+[^1]: _Stansilas Fabian Kester v PP_ \[2017\] SLR 755 at \[74\]-\[80\].
+
+[^2]: _Stansilas Fabian Kester v PP_ \[2017\] SLR 755 at \[75\]
+
+[^3]: Mitigation plea at \[48\]
+
+[^4]: Mitigation plea at \[46\]
+
+[^5]: Statement of facts at \[3\]
+
+[^6]: Statement of facts at \[6\]
+
+[^7]: Mitigation plea at \[21\].
+
+[^8]: Considered in _Stansilas_ at \[80\]
+
+[^9]: _PP v Goh Kah Heng alias Shi Ming Yi and another_ <span class="citation">\[2009\] SGDC 500</span> at \[22\]
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F25408-SSP.xml)
