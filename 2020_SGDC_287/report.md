@@ -1,0 +1,618 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Muhammad Syahmi Bin Mohd Johan  
+
+### \[2020\] SGDC 287
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">District Court Case No. DAC-912823-2020 &amp; 6 Ors, Magistrate's Appeals No. MA-9860-2020-01</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">17 December 2020</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Lorraine Ho</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Eugene Chua (Attorney-General's Chambers) for the Public Prosecutor; Mohammad Hasif Bin Abdul aziz (Abdul Rahman Law Corporation) for the Accused</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Muhammad Syahmi Bin Mohd Johan</td></tr></tbody></table>
+
+Criminal Procedure and Sentencing – Sentencing
+
+Road Traffic – Offences – Driving whilst under a disqualification order
+
+Road Traffic – Offences – Affixing a plate to a vehicle for which it was not issued
+
+\[LawNet Editorial Note: An appeal to this decision has been filed in MA 9860/2020/01.\]
+
+17 December 2020
+
+### District Judge Lorraine Ho:
+
+## Introduction
+
+1       The accused, a 21-year-old Singaporean male, had pleaded guilty before me on 9 October 2019 for driving without a licence and using a vehicle without insurance coverage. I convicted and sentenced him to a fine of $600 for each offence and disqualified him from holding or obtaining all classes of driving licences (“DQAC”) for the mandatory minimum period of 12 months on the same day. At that time, he was 19 years old.
+
+2       Unfortunately, slightly more than 3 months later, he reoffended on 13 January 2020. This time, he not only committed more offences, they were more egregious. On 15 July 2020, the accused, then 20 years of age, was charged with the following seven offences:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr"><colgroup><col width="28.8457691538308%"> <col width="40.9681936387278%"> <col width="30.1860372074415%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Charge No.</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Offence</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Prosecution’s Plead Guilty (PG) Offer</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC-912823-2020</p><p align="justify" class="Table-Para-1">1<sup>st</sup> Charge</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">S 43(4)(a) Road Traffic Act (Cap 276, Rev Ed 2004) (“RTA”)</p><p align="justify" class="Table-Para-1">[Driving whilst under a DQ order]</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Proceed</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC-912825-2020</p><p align="justify" class="Table-Para-1">3<sup>rd</sup> Charge</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">S 129(2)(e) p/u S 129(2)(iii) RTA</p><p align="justify" class="Table-Para-1">[Affixing to a vehicle an unissued plate]</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Proceed</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC-912827-2020</p><p align="justify" class="Table-Para-1">5<sup>th</sup> Charge</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">S 127(5) p/u S 131(2)(a) RTA</p><p align="justify" class="Table-Para-1">[Failing to stop a vehicle when required by a police officer in uniform]</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Proceed</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC-912829-2020</p><p align="justify" class="Table-Para-1">7<sup>th</sup> Charge</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">S 120(4) p/u S 131(2)(a) RTA</p><p align="justify" class="Table-Para-1">[Failing to conform to red light signal]</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Process</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC-912824-2020</p><p align="justify" class="Table-Para-1">2<sup>nd</sup> Charge</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">S 3(1)(a) Motor Vehicles (Third-Party Risks and Compensation) Act (Cap 189, Rev Ed 2000) p/u Section 3(2) Motor Vehicles (Third-Party Risks and Compensation) Act (Cap 189, Rev Ed 2000) p/u Section 3(3) Motor Vehicles (Third-Party Risks and Compensation) Act (Cap 189, Rev Ed 2000) (“MVA”)</p><p align="justify" class="Table-Para-1">[Using a vehicle without insurance coverage]</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Taken Into Consideration (TIC)</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC-912826-2020</p><p align="justify" class="Table-Para-1">4<sup>th</sup> Charge</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">S 74(3) p/u S 131(2)(a) RTA</p><p align="justify" class="Table-Para-1">[Using unapproved protective helmet]</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">TIC</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC-912828-2020</p><p align="justify" class="Table-Para-1">6<sup>th</sup> Charge</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">S 12(1)(a) p/u S 131(2)(a) RTA</p><p align="justify" class="Table-Para-1">[Using vehicle without valid road tax]</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">TIC</p></td></tr></tbody></table>
+
+  
+  
+
+3       On 31 August 2020, the accused accepted the Prosecution’s offer and pleaded guilty before me to the four proceeded charges with the remaining three charges being taken into consideration for the purpose of sentencing.
+
+4       Thereafter on 16 October 2020, the accused, who was still then 20 years old, was sentenced as follows:
+
+<table align="right" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="0"><colgroup><col width="28.44%"> <col width="19%"> <col width="52.56%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Charge No.</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Offence</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Sentence</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC-912823-2020</p><p align="justify" class="Table-Para-1">1<sup>st</sup> Charge</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">S 43(4) RTA</p></td><td align="left" class="b" rowspan="4" valign="top"><p align="justify" class="Table-Para-1">To undergo reformative training for a minimum of 6 months detention in a reformative training centre with effect from 30 October 2020.</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC-912825-2020</p><p align="justify" class="Table-Para-1">3<sup>rd</sup> Charge</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">S 129(2)(e) p/u S 129(2)(iii) RTA</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC-912827-2020</p><p align="justify" class="Table-Para-1">5<sup>th</sup> Charge</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">S 127(5) p/u S 131(2)(a) RTA</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC-912829-2020</p><p align="justify" class="Table-Para-1">7<sup>th</sup> Charge</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">S 120(4) p/u S 131(2)(a) RTA</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC-912823-2020</p><p align="justify" class="Table-Para-1">1<sup>st</sup> Charge</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">S 43(4) RTA</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Disqualified from holding or obtaining all classes of driving licences for a period of 25 months with effect from 16 October 2020</p></td></tr><tr><td align="left" class="r" colspan="2" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b><u>Total Sentence</u></b></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">To undergo reformative training for a minimum of 6 months detention in a reformative training centre with effect from 30 October 2020.</p><p align="justify" class="Table-Para-1">Disqualified from holding or obtaining all classes of driving licences for a period of 25 months with effect from 16 October 2020.</p></td></tr></tbody></table>
+
+  
+  
+
+5       On 28 October 2020, the accused filed a Notice of Appeal because he was dissatisfied with the sentence imposed on him.
+
+6       On 30 October 2020, I granted a stay of execution on both the reformative training and the disqualification order pending the appeal with bail extended.
+
+## Background facts
+
+### The Charges
+
+7       The four proceeded charges read as follows:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="29.96%"> <col width="70.04%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Charge No.</b></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Description of the Charge</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC-912823-2020</p><p align="justify" class="Table-Para-1">1<sup>st</sup> Charge</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">You, are charged that on the 13th January 2020, at about 3.50 pm., along Choa Chu Kang Grove, Singapore, did ride motor cycle JPL5935 when you were disqualified from holding or obtaining all classes of driving licences for a period of twelve (12) months from 09 October 2019 to 08 October 2020 by virtue of a conviction in State Court No. 21, Singapore on 9 October 2019, and you have thereby committed an offence punishable under Section 43(4)(a), of the Road Traffic Act (Chapter 276 Revised Edition).</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC-912825-2020</p><p align="justify" class="Table-Para-1">3<sup>rd</sup> Charge</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">You are charged that on or before 13 January 2020, in Singapore, did affix to a motor vehicle, to wit, a motorcycle bearing registration number JPL5935, a plate required to be carried on the said vehicle, for which it was not issued, to wit, a plate bearing registration number FX2356M, in contravention of Section 129(2)(e) of the Road Traffic Act, Chapter 276 and you have thereby committed an offence punishable under Section 129(2)(iii) of the said Act.</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC-912827-2020</p><p align="justify" class="Table-Para-1">5<sup>th</sup> Charge</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">You are charged that on 13th January 2020, at about 3.50 pm., along Choa Chu Kang Grove, Singapore, whilst riding motor cycle JPL5935, did fail to stop your vehicle when ordered to do so by a police officer in uniform, and you have thereby committed an offence under Section 127(5) of the Road Traffic Act, Chapter 276, and punishable under Section 131(2)(a) of the same Act.</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC-912829-2020</p><p align="justify" class="Table-Para-1">7<sup>th</sup> Charge</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">You are charged that on the 13th January 2020, at about 3.50 pm, along Choa Chu Kang Grove, Singapore, whilst riding motorcycle JPL5935, did fail to conform to the traffic red light signal and you have thereby committed an offence under Section 120(4) of the Road Traffic Act, Chapter 276 and punishable under Section 131(2)(a) of the same Act.</p></td></tr></tbody></table>
+
+  
+  
+
+### Statement of facts
+
+8       The accused admitted to the Statement of Facts (“SOF”) dated 22 August 2020 without qualification. A concise, succinct and edited version of the SOF depicting the offences of the four proceeded charges reads as follows:
+
+>     …
+
+> 4    On 9 October 2019, the accused was convicted and sentenced in State Court No. 21 before the learned District Judge Lorraine Ho to a fine of $1,200 (in default six (6) days’ imprisonment) and disqualified from holding or obtaining all classes of driving licences for a period of twelve (12) months with effect from 9 October 2019….
+
+> 5    At the material time, the accused was the rider of motorcycle, ‘JPL5935’, bearing a number plate bearing registration number ‘FX2356M’ for which it was not issued.
+
+> 6    On 13 January 2020, at about 3.50 p.m., the First Complainant was travelling along Choa Chua Kang Grove towards Bricklane Road near ITE West on the left of 2 lanes. The First Complainant spotted the accused in motorcycle ‘FX2356M’ ahead of him on the same lane, stationary. Upon nearing the accused, the First Complainant saw that the accused was wearing a helmet fitted with an unapproved visor. With his blinker and siren on, the First Complainant instructed the accused to stop. Upon seeing the First Complainant, the accused did not stop and in fact rode off. The accused picked up speed.
+
+> 7    The accused was travelling on the extreme right of 2 lanes along Choa Chu Kang Grove towards Bricklane Road. As he was entering the roadblock point which was setup, the Second Complainant who was the “stopper” at the road block point made eye contact and signalled for the accused to stop. The Second Complainant also blew his whistle. Despite seeing the signals from the Second Complainant, who was a police officer in uniform, the accused failed to stop his vehicle when ordered to do so. Instead, the accused proceeded to evade the road block, causing the Second Complainant to jump to the right to avoid a collision with the accused’s motorcycle.
+
+> 8    After evading the road block, the accused was still travelling on the same lane along Choa Chua Kang Grove towards Bricklane Road. As the accused was entering the signalised traffic junction of Choa Chu Kang Avenue 7, the traffic light signalled red for the accused to stop. However, the accused failed to conform to the traffic red light signal and proceeded to enter the junction on motorcycle JPL5935.
+
+> 9    The accused was eventually stopped along Choa Chu Kang Grove slip road into Brickland Road towards Bukit Batok Road.
+
+> 10    At all material times, the accused was aware that he was under disqualification, as highlighted at paragraph 4 above, and was not supposed to be riding any vehicle.
+
+>     ….
+
+> 12    On 13 January 2020, LTA officers who came to the scene to assist in vehicle screening confirmed that chassis number is invalid. Further vehicle chassis screenings confirmed that the vehicle which the accused was riding at the material time is a Malaysian registered motorcycle, bearing vehicle number ‘JPL5935’.
+
+> 13    Sometime in or before November 2019, the accused asked his friend who he knew as ‘Sin’ to source for a motorcycle for him. His friend ‘Sin’ gave him the contact number for an unknown Malaysian mechanic. The said mechanic told the accused that the cost of the motorcycle was S$1,000. The accused and the said mechanic arranged a date for the handover of the motorcycle and payment of S$1,000.
+
+> 14    On the day in question, the accused met the said mechanic. The said mechanic rode the said motorcycle, bearing a number plate ‘JPL5935’ to him. On handing over S$1,000 to the said mechanic, the said mechanic handed the ignition key to him.
+
+> 15    The accused rode the motorcycle back home. At home, he immediately removed both the front and rear Malaysian vehicle number plates. The accused replaced the rear vehicle number plate with a new number plate which he had made bearing registration number ‘TLH369’. At this time, there was no front number plate.
+
+> 16    Sometime in December 2019, the accused decided to duplicate a friend’s vehicle number plate with registration number FX2356M, as his friend who he knew as ‘Shanks’ was also riding a similar Kawasaki KR motorcycle. The accused proceeded to affix to motor vehicle JLP5935, a plate for which it was not issued, i.e, a plate bearing registration number FX2356M.
+
+>     …
+
+## Antecedents
+
+9       As mentioned earlier, despite his youth, he was traced for two previous traffic convictions as follows:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="15.48%"> <col width="54.76%"> <col width="29.76%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Date</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Offence</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Sentence</p></td></tr><tr><td align="left" class="br" rowspan="2" valign="top"><p align="justify" class="Table-Para-1">9 October 2019</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">S 35(1) r/w S 35(3) p/u S 131(2)(a) RTA</p><p align="justify" class="Table-Para-1">[Driving without a licence]</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">$600</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">S 3(1) p/u S 3(2) and S 3(3) MVA</p><p align="justify" class="Table-Para-1">[Driving without insurance coverage]</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">$600 and DQAC 12 months with effect from 9 October 2019</p></td></tr></tbody></table>
+
+  
+  
+
+10     The accused confirmed his antecedents to be correct.
+
+## Submissions on calling for probation and/or reformative training suitability reports
+
+11     As the accused was still a minor at both the time of committing and being convicted for the said offences, the Prosecution sought for a reformative training report to be called to determine the accused’s suitability for reformative training. The Prosecution objected to a probation report being called in view of following:
+
+> (a)     the nature and seriousness of the offences committed were egregious and in which at least the first and third charges would ordinarily involve a rather lengthy custodial sentence for an adult offender;
+
+> (b)     the accused was traced;
+
+> (c)     the accused had committed the offences very soon after the previous disqualification (“DQ”) order was imposed on him. He was therefore in blatant disregard of the law; and
+
+> (d)     the accused had committed the offences whilst he was serving his full-time national service (“NS”).
+
+12     In support of its oral submissions, the Prosecution relied on the High Court’s decision of _PP v Mohammad Al-Ansari bin Basri_ <span class="citation">\[2007\] SGHC 187</span> (_“Al-Ansari”)_ for the proposition that it would be more appropriate for the accused to undergo reformative training in this case, as this would better balance between the need for rehabilitation and deterrence.
+
+13     On the other hand, the Defence requested this court to call for a probation suitability report. In its written mitigation, the Defence urged the court to consider probation for the accused because the accused:
+
+> (a)     was still a young man below the age of 21 years old at the time when he committed the offences;
+
+> (b)     had fully cooperated with the police during investigations after his arrest; and
+
+> (c)     has pleaded guilty at the earliest available opportunity as a genuine sign of remorse, contriteness and regret (citing \[53\] and \[77\] of _Angliss Singapore Pte Ltd v PP_ <span class="citation">\[2006\] SGHC 155</span> (_“Angliss”)_ and \[27\] of _Mohamad Iskandar bin Basri v PP_ <span class="citation">\[2006\] SGHC 158</span> (_“Iskandar”)_ .
+
+14     The Defence reiterated that give the above mitigating factors, there is value to rehabilitate the accused. Given his age, the predominant sentencing policy in the present case should in any case be rehabilitation. Hence, a probation suitability report should be called to assess the accused’s suitability for probation. The accused’s family is also supportive of the accused undergoing probation. His father is his bailor and is willing to supervise him during the entire duration of probation. In fact, the accused’s father has attended every court session with him.
+
+15     In the alternative, the Defence urged the court to call for both the probation and reformative training suitability reports before coming to its decision on sentence. Like the Prosecution, the Defence cited _Al-Ansari_ at \[67\] for the relevant factors which a court should consider in determining the balance to be struck between the dominant consideration of rehabilitation and the need for deterrence on the facts and circumstances of each case. They are:
+
+> (a)     Seriousness of the offence;
+
+> (b)     Culpability of the offender;
+
+> (c)     Existence of antecedents;
+
+> (d)     Nature of the rehabilitation best suited for the offender;
+
+> (e)     Availability of familial support in the rehabilitative efforts; and
+
+> (f)     Any other special reasons or need for rehabilitation.
+
+16     Even though the accused was traced, the Defence submitted that the seriousness of the accused’s offences and his culpability were not as great as what was submitted by the Prosecution such as to tip the scales towards reformative training.
+
+17     Having heard the submissions from both the Prosecution and Defence, I agreed with the Defence to call for both the probation and reformative training suitability reports before coming to my decision on sentence. Accordingly, the accused was remanded for one week for Prisons to assess the accused’s suitability for reformative training.
+
+18     The reformation training report from Prisons was dated 2 October 2020 (“RT report”). The accused was found suitable for reformation training and it was recommended that he undergoes a level 1 intensity of rehabilitation over a 6-month period. The recommended criminogenic needs which required intervention were in the domains for education/employment, leisure and attitude/orientation.
+
+19     The probation report by the probation and community service officers was filed on 14 October 2020 (“PB report”). The accused was also found suitable for probation. The recommended length and intensity were an 18-month split probation of 3 months intensive and 15 months supervised probation. The other recommended conditions were (a) curfew between 10pm to 6am; (b) 80 hours of community service; (c) prohibition from driving or obtaining driving licences for all classes of motor vehicles during the period of probation; and (d) parents to be bonded to ensure his good behaviour.
+
+20     On 16 October 2020, parties returned before this court for further submissions on sentence.
+
+## Prosecution’s submissions on sentence
+
+21     The Prosecution maintained its position on sentence and urged the court to impose reformative training on the accused as per the recommendations stated in the RT report.
+
+22     In its oral submissions, the Prosecution reiterated its points submitted earlier and relied on the factors stated in _Al-Ansari_ in determining the need to balance rehabilitation and the seriousness of the offences.
+
+23     The Prosecution highlighted that the PB report raised certain details that were a cause for concern. The accused exhibited risky behaviour by minimising the severity of the consequences for his current offences. He had the distorted belief that the penalty for reoffending was a fine and had a lack of consideration for the potential harm that he could have inflicted on others. As such, when his previous motorcycle was impounded, he decided to, on the recommendation of a friend, buy a motorcycle from a technician in Malaysia and affix a duplicate Singapore licence plate on it in order to ride in Singapore without any road tax or insurance coverage.
+
+24     Despite having been caught for the current offences, the accused continued to exhibit defiant behaviour. After his arrest, he had disciplinary issues and committed multiple infringements during NS between March 2020 to June 2020. They were as follows:
+
+> (a)     Smoking at an undesignated area in public whilst in uniform. He was charged and fined $50 on 26 March 2020;
+
+> (b)     Lying to his superior in order to skip a duty on 13 March 2020;
+
+> (c)     Being non-compliant with his lawful duty on 2 April 2020; and
+
+> (d)     Being found with an in-camp photograph on his mobile phone on 10 June 2020.
+
+For (b), (c) and (d), he was charged and punished with 28 days of leave stoppage with effect from 19 August 2020.
+
+25     As such, the Prosecution emphasized that the probation officers have raised the accused’s tendency to reoffend, his risk-taking attitudes, poor consequential thinking and blatant disregard for the law as one of the five risk factors stated.
+
+26     The RT report also indicated that the accused presented himself with attitude or orientation favourable to crime. When he was asked about his past and current offences, the accused justified owning and riding a motorcycle without licence as well as obtaining a vehicle illegally to impress and identify with his antisocial peers. The accused explained that he had evaded the Traffic Police to avoid being arrested as he was hopeful that he could avoid the consequences of committing the offences. Moreover, he did not ‘feel the pinch’ from being ordered a fine for his previous offences.
+
+27     In view of the following, Prosecution submitted that the accused’s attitudes and behavioural patterns were worrying. Reformative training would therefore be a better regime for him holistically.
+
+## Mitigation
+
+28     The Defence tendered further written submissions and requested the court to sentence the accused to probation as per the recommendations stated in the PB report.
+
+29     At this juncture, I must highlight that initially, defence counsel thought that the duration of the reformative training at level 1 was like the previous minimum duration of 18 months. Hence, he submitted that this would be too harsh as compared to undergoing probation for the same duration. He drew my attention again to _Boaz Koh_ of the long “minimum incarceration period of 18 months that is not a feature of probation” (at \[38\]).
+
+30     When I pointed out to defence counsel that since the amendments made to s 305 of the Criminal Procedure Code (Cap 68) (“CPC”) via the Criminal Justice Reform Act 2018 (“CJRA”) on 31 October 2018, the minimum period for a sentence of reformative training is now 6 months, defence counsel maintained his position that the revised duration of 6 months is still too long and draconian given the circumstances.
+
+31     The Defence cited the case of _PP v Mok Ping Wuen Maurice_ \[1998\] 3 SLR (R) 439, where it was held by Yong Pung How CJ at \[21\]:
+
+>     Rehabilitation is the dominant consideration where the offender is 21 years and below. Young offenders are in their formative years and chances of reforming them into law-abiding adults are better. The corrupt influence of a prison environment and the bad effects of labelling and stigmatisation may not be desirable for young offenders. Compassion is often shown to young offenders on the assumption that the young “don’t know any better” and they may not have had enough experience to realise the full consequences of their actions on themselves and on others. Teens may also be slightly less responsible than older offenders, being more impressionable, more easily led and less controlled in their behaviour. However, there is no doubt that some young people can be calculating in their offences. Hence the court will need to assess the facts in every case.
+
+32     In sentencing a young offender, defence counsel submitted on the two-step approach as first enunciated at \[77\] – \[78\] of _Al-Ansari_:
+
+> \[77\]  Accordingly, in dealing with sentencing young offenders involved in serious offences, I propose the following analytical framework. First, the court must ask itself whether rehabilitation can remain a predominant consideration. If the offence was particularly heinous or the offender has a long history of offending, then reform and rehabilitation may not even be possible or relevant, notwithstanding the youth of the offender. In this case, the statutorily prescribed punishment (in most cases a term of imprisonment) will be appropriate.
+
+> \[78\]  However, if the principle of rehabilitation is considered to be relevant as a dominant consideration, the next question is how to give effect to this. In this respect, with young offenders, the courts may generally choose between probation and reformative training. _The courts have to realise that each represents a different fulcrum in the balance between rehabilitation and deterrence. In seeking to achieve the proper balance, the courts could consider the factors I enumerated above, but must, above all, pay heed to the conceptual basis for rehabilitation and deterrence_. \[emphasis added\]
+
+33     This two-stage analytic framework was endorsed in the case of _PP v Koh Wen Jie Boaz_ <span class="citation">\[2016\] 1 SLR 334</span> (_“Boaz Koh”)_. At \[28\] Sundaresh Menon CJ elaborated:
+
+>     \[A\]t the first stage of the sentencing process, the task for the court is to identify and prioritise the primary sentencing considerations appropriate to the youth in question having regard to all the circumstances including those of the offence. This will then set the parameters for the second stage of the inquiry, which is to select the appropriate sentence that would best meet those sentencing considerations and the priority that the sentencing judge has placed upon the relevant ones.
+
+34     In applying the two-stage analytical framework, for the first stage, the Defence argued that the offences committed by the accused were not considered as “serious’ offences unlike sexual crimes or crimes involving violence, robbery, rioting or drug offences: See _Praveen s/o Krishnan v PP_ <span class="citation">\[2017\] SGHC 324</span> (“_Praveen”_) at \[28\].
+
+35     In _Praveen_, the accused pleaded guilty to one charge for the consumption of a specified drug and one charge for the possession of a controlled drug for the purposes of trafficking. A third charge of possession of a controlled drug for the purposes of trafficking was taken into consideration. The court in _Praveen_ imposed probation with conditions on the accused.
+
+36     In _Al-Ansari_, the accused pleaded guilty to one charge under s 392 read with s 34 of the Penal Code (Cap 224. 1985 Rev Ed) (“PC”). Another charge of internationally using criminal force on the victim under s 352 of the PC was taken into consideration. The accused was sentenced to reformative training.
+
+37     Finally, in _Boaz Koh_, the accused pleaded guilty to one charge of vandalism, one of theft and three charges of criminal trespass. Further, the accused had committed these offences while he was under a probation order. He was sentenced to reformative training.
+
+38     The Defence highlighted that the accused in the present case was not as culpable as the accused in the abovementioned cases as what he had committed were essentially road traffic related offences.
+
+39     The Defence further argued that in assessing whether rehabilitation should remain the predominant and primary sentencing principle, the court should consider at this stage whether the accused’s “capacity for rehabilitation is demonstrably high that it outweighs the public policy concerns that are traditionally understood as militating against probation”. For this, the Defence referred me to the factors stated in _Leon Russel Francis v PP_ <span class="citation">\[2014\] 4 SLR 651</span> (“_Leon_”) at \[15\] for consideration:
+
+> (a)    the strength of familial support and the degree of supervision provided by the offender’s family for his or her rehabilitation;
+
+> (b)    the frequency and intensity of the offender’s drug-related activities;
+
+> (c)    the genuineness of remorse demonstrated by the offender; and
+
+> (d)    the presence of risk factors such as negative peers or bad habits.
+
+40     Applying the factors stated above, Defence submitted that accused here has demonstrated a high level of capacity for rehabilitation. This was because:
+
+> (a)      The strength of the accused’s familial support and degree of supervision provided by his family for his rehabilitation is good. Besides agreeing to be bonded for his good behaviour, the accused’s parents have informed the probation officer that they are keen to improve their parenting skills and have indicated their continued support for the accused’s rehabilitation. The accused was also receptive towards his parents’ tightened supervision on him and their support as well as guidance since his arrest by the police in January 2020;
+
+> (b)      The accused has demonstrated genuineness of remorse. He has expressed willingness to receive intervention to address his offending behaviour. He has since adhered with the daily time restrictions imposed by the court and have showed positive changes both at home and in the execution of his NS duties; and
+
+> (c)     He has taken pro-active steps to dissociate himself from his negative peers even though there were presence of risk factors such as his susceptibility to negative peer influence.
+
+41     As for the frequency and intensity of the accused’s offences, defence counsel conceded that the accused’s antecedents did pose an issue in terms of the accused’s recalcitrant behaviour. This included risk factors like displaying risk-taking attitudes, disregard for the law and impulsivity. Yet, on the balance, the Defence submitted that the predominant sentencing consideration here should still be rehabilitation. Any form of deterrence can still be addressed with conditions to be imposed as suggested by the PB report.
+
+42     For the second stage, the court would have to assess which of the two sentencing options before the court, i.e. probation or reformative training, is the more appropriate sentence for the accused that would best give effect to the need for rehabilitation. The Defence highlighted _Parveen_ at \[31\] – \[35\] on the factors which the court should take into account when comparing probation and reformative training.
+
+43     Additionally, the Defence reiterated the relevant factors stated at \[67\] of _Al-Ansari_ (as mentioned earlier above) as a balance between rehabilitative aims and the need for deterrence.
+
+44     Coming back to the accused’s circumstances, defence counsel emphasized that probation is the nature of rehabilitation best suited for the accused. The accused hopes to resume his aborted education after he completes his NS in April 2021.
+
+45     The only aggravating factor here is the accused’s similar antecedents with the present offences. In October 2019, being unrepresented, he was not offered probation and he simply paid the fines as part of the sentence imposed.
+
+46     Even as the accused is traced, the Defence said that this would not have been so aggravating a factor such as to tip the scales in favour of reformative training. Instead, it urged the court to order probation with conditions, like in _Praveen_. In _Praveen_, the accused was imposed a 36-month split probation (18 months intensive and 18 months supervised) with additional conditions that included a 12-month stay at Hope House, a 6-month e-tagging, time restrictions, regular urine test regime, targeted drug intervention programme, 240 hours of community service and a progress accountability court review.
+
+47     The Defence was of the view that an additional condition of hostel residence imposed for a specified duration would be sufficient to strike a good balance between rehabilitation and deterrence. This is so if it is deemed necessary to temporarily remove the offender from an undesirable social environment or to tightly monitor him by placing him in a structured and supervised environment. Here, there is a greater chance for an offender to reintegrate into society more readily as he can be allowed to continue with participating in his productive daily activities. Moreover, the accused’s overall criminality is lesser than the accused in _Praveen_.
+
+48     Further, the Defence pointed out that the probation officer, in coming to her recommendation of a three-month intensive period of probation, would have clearly considered the risk factors and taken into account the risk of the accused reoffending or the “societal need” to deter the accused from reoffending.
+
+49     Finally, the accused requested to address the court personally. He informed me that he was very remorseful in committing the offences and promised me never to run afoul of the law again. In fact, he informed me that the clang of the prison gates during the one week which he was remanded for the preparation of the RT report was sufficient enough to deter him from ever reoffending. He cried and said, if given a second chance, he would turn over a new leaf.
+
+## Decision on sentence
+
+### General principles for sentencing youthful offenders
+
+50     As the accused was under the age of 21 years old at the time of the offence and the time of sentencing, he is considered a youthful offender. Therefore, I agree with the Prosecution and Defence that rehabilitation must be the presumptive dominant or primary consideration when sentencing youthful offenders like the accused.
+
+51     In _A Karthik v PP_ <span class="citation">\[2018\] SGHC 202</span> (_“Karthik”_), Sundaresh Menon CJ explained the twin rationales underlying the presumptive primacy of rehabilitation in relation to youthful offenders at \[37\]:
+
+> (a)    First, there is the _retrospective_ rationale, which seeks to justify giving a young offender a second chance by excusing his actions on the grounds of his youthful folly and inexperience. This rationale rests on the offender’s age _at the time of the offence_, in so far as it emphasises his relative lack of maturity and his state of mind when he was committing the offence.
+
+> (b)    Second, there is the _prospective_ rationale, which seeks to justify rehabilitation as the preferred tool to discourage future offending on the grounds that: (i) young offenders would be more receptive towards a sentencing regime aimed at altering their values and guiding them on the right path; (ii) society would stand to benefit considerably from the rehabilitation of young offenders, who have many potentially productive and constructive years ahead of them; and (iii) young offenders appear to suffer disproportionately when exposed to the typical punitive options, such as imprisonment, as compared to adult offenders. These considerations rest on the offender’s age _at the time of sentencing_, in so far as they emphasise his mentality and outlook at the time when he is facing the consequences of his earlier criminal conduct. \[emphasis in original\]
+
+52     I am further in agreement with both parties that in determining the appropriate sentence for a youthful offender, the established two-stage analytical framework as set out in _Al-Ansari_ (at \[77\]-\[78\]) and later again in _Boaz Koh_ (at \[33\]) is applicable. Also known as the _Boaz Koh_ framework, this was once again reiterated in _Karthik_ at \[65\] - \[67\]:
+
+> \[65\]  At the _first stage_, the court is concerned with the threshold question of whether rehabilitation retains its primacy in the sentencing matrix. While rehabilitation is presumptively the dominant consideration when sentencing youthful offenders, its primacy may be diminished by the circumstances of the case or even eclipsed by considerations such as deterrence or retribution. This tends to be the position where: (a) the offence is serious; (b) the harm caused is severe; (c) the offender is hardened and recalcitrant; and/or (d) the conditions which make rehabilitative sentencing options such as probation or reformative training viable do not exist (_Boaz Koh_ at \[30\]). In respect of the last factor, Chan Seng Onn J suggested in _Muhammad Zuhairie Adely bin Zulkifli v PP_ <span class="citation">\[2016\] 4 SLR 697</span> (“_Zuhairie_”) at \[25\] that whether or not the conditions which make rehabilitative sentencing options viable exist may also be affected by the other considerations noted by Rajah JA in _Al-Ansari_ at \[67\], namely: (a) the nature of the rehabilitation best suited for the offender; (b) the availability of familial support for the offender’s rehabilitative efforts; and (c) any other special reasons or need for rehabilitation.
+
+> \[66\]  This approach to the evaluation of whether there exist conditions which make rehabilitative sentencing options viable is broadly similar to the assessment undertaken by Chao JA in _Leon Russel Francis v PP_ <span class="citation">\[2014\] 4 SLR 651</span> (“_Leon Russel Francis_”) of _whether the individual offender’s capacity for rehabilitation is demonstrably high_ so as to outweigh the concerns that are traditionally understood as militating against probation (at \[14\], cited in _Praveen s/o Krishnan v PP_ <span class="citation">\[2018\] 3 SLR 1300</span> (“_Praveen Krishnan_”) at \[29\]). The rehabilitative potential of a young offender has been described as “one of the key considerations” in the court’s endeavour to strike the right balance between deterrence and rehabilitation when sentencing such an offender: _Zuhairie_ at \[30\]. The factors relevant to the assessment in this regard include the following (_Leon Russel Francis_ at \[15\]; _Praveen Krishnan_ at \[30\]):
+
+>> (a)    the strength of familial support and the degree of supervision provided by the offender’s family for his rehabilitation;
+
+>> (b)    the frequency and intensity of the offender’s wrongful activities;
+
+>> (c)    the genuineness of remorse demonstrated by the offender; and
+
+>> (d)    the presence of risk factors such as negative peers or bad habits.
+
+> \[67\]  At the _second stage_ of the _Boaz Koh_ framework, the court must select the appropriate sentence in view of the primary sentencing considerations identified and prioritised at the first stage. Where rehabilitation is the dominant sentencing consideration, _probation would be one of the typical options at the court’s disposal, given that probation places rehabilitation at the front and centre of the court’s deliberation_: _Boaz Koh_ at \[35\]; see also \[33\] above. In contrast, _where there is a need for both deterrence and rehabilitation, reformative training may be the most suitable sentence, given that it offers the court a useful middle ground between sending the offender to prison and meeting the desire to rehabilitate a young offender_: _Boaz Koh_ at \[38\]–\[39\] and _Al-Ansari_ at \[57\]–\[58\]. \[emphasis added\]
+
+53     With the general principles in mind, I now apply them to the facts of the present case.
+
+### Application of the principles
+
+54     In respect of the first stage, the court is concerned with the threshold question of whether rehabilitation remains the presumptive dominant consideration when dealing with the accused as a youthful offender.
+
+55     At this stage, I am in agreement with both the Prosecution and Defence that rehabilitation remains the primary consideration here in the sentencing of the accused. There is, in my view, value in rehabilitating him.
+
+56     This is so even though the offences committed by the accused here were serious. In fact, the offences were more serious than the earlier set of offences he committed about 10 months earlier on 8 March 2019. They included:
+
+> (a)     Blatant disregard of a court order by riding whilst under a DQ order;
+
+> (b)     Violating traffic rules and affecting public road safety e.g. beating the red light, using unapproved protective helmet, using a vehicle without road tax and insurance coverage (where he is a repeat offender);
+
+> (c)     Intentionally deterring police enforcement work by failing to stop when required by police officers in uniform to do so; and
+
+> (d)     Committing an act of deception to avoid being detected for committing traffic offences by affixing a duplicate Singapore motorcycle plate no. on a Malaysian registered motorcycle.
+
+57     Thus, this suggested some form of recalcitrant behaviour on the part of the accused and the need for deterrence. Thankfully, no actual harm was caused to anyone or to any property.
+
+58     At the same time, there is evidence from both the PB report and the RT report that the accused’s capacity for rehabilitation is demonstrably high based on the factors as stated in _Leon_ as follows:
+
+> (a)      Strength of familiar support and degree of supervision provided by offender’s family for his rehabilitation: The accused was assessed to have strong family support from his parents, the accused being an only child. The accused has a warm relationship with them. His parents have heightened supervision on him after his arrest in January 2020 and his father has allocated more time to spend with him. He is receptive and has complied with his parents’ expectations under supervision;
+
+> (b)      Frequency and intensity of the offender’s wrongful activities: Whilst the accused continued to have disciplinary issues during his NS even after his arrest in January 2020 for the current offences, he has since July 2020 stayed out of trouble and remained crime-free after he was charged in court. His overall conduct and work attitude in NS have also improved under closer and stricter guidance;
+
+> (c)      Genuineness of remorse demonstrated by the offender: The accused has expressed genuine remorse for his actions and willingness to receive intervention for his behaviour. Since February 2020, he has taken steps to stop associating himself from the negative influences that he had previously exposed himself to, particularly his group of friends who are motorcycling enthusiasts; and
+
+> (d)      Presence of risk factors such as negative peers or bad habits: As for the presence of risk factors as regards the accused, both reports have highlighted a few. I will come back to them later. On a positive note, he has no alcohol or drug abuse problems. He has given up going out late in the night with his negative peers and complied with the time curfew imposed on him. He now spends more time with his parents at home. He has started dating since June 2020 and his girlfriend appears to have a positive influence on him.
+
+59     Therefore, to my mind, even though the offences committed by the accused were serious in nature and he is not a first offender, rehabilitation should remain the dominant sentencing consideration for the accused given his age. The need for deterrence here has not displaced the rehabilitative potential of the accused such as to warrant an imprisonment sentence being imposed or make rehabilitative sentencing options unviable.
+
+60     I now come to the second stage of the _Boaz Koh_ framework where the court must select the appropriate sentence in view that rehabilitation should remain the dominant sentencing consideration for the accused here.
+
+### Sentencing options: Probation vs Reformative Training
+
+61     It is at the second stage that the Prosecution and Defence defer in their opinions as to the appropriate sentence to impose on the accused. The Prosecution argued that there is a need for both deterrence and rehabilitation here. Hence, reformative training would offer the court a balanced middle ground between sending the offender to prison and meeting the desire to rehabilitate a youthful offender.
+
+62     The Defence argued that probation of 18 months should still be the primary option that the court should consider as it places rehabilitation as the key focus of the court’s deliberation. In spite of the recommendation in the RT report that the accused is recommended to undergo level 1 intensity of rehabilitation over a 6-month period as domains like education/employment, leisure and attitude/orientation require intervention, the Defence argued that this was still too long and draconian a sentence for him.
+
+#### Raison d'être of a probation order
+
+63     In my earlier decision of _PP v Syahril Anwar bin Mohamed Mohali_ <span class="citation">\[2019\] SGDC 216</span> (_“Syahril”_), which involved a 19-year-old offender who pleaded guilty to driving whilst under a DQ order (s 43(4) RTA) and without insurance coverage (s 3(1) MVA) as well as taking vehicle without the owner’s consent (s 96(1) RTA), I discussed on the aim of making a probation order by beginning with s 5(1) of the Probation of Offenders Act (Cap 252, 1985 Rev Ed) (“the POA”). It reads as follows:
+
+>      **Probation**
+
+> **5.**—(1)    Where a court by or before which a person is convicted of an offence (not being an offence the sentence for which is fixed by law) is of the opinion that having regard to the circumstances, including the nature of the offence and the character of the offender, it is expedient to do so, the court may, instead of sentencing him, make a probation order, that is to say, an order requiring him to be under the supervision of a probation officer or a volunteer probation officer for a period to be specified in the order of not less than 6 months nor more than 3 years:
+
+>> Provided that where a person is convicted of an offence for which a specified minimum sentence or mandatory minimum sentence of imprisonment or fine or caning is prescribed by law, the court may make a probation order if the person —
+
+>>> (_a_)    has attained the age of 16 years but has not attained the age of 21 years at the time of his conviction; and
+
+>>> (_b_)    has not been previously convicted of such offence referred to in this proviso, and for this purpose section 11(1) shall not apply to any such previous conviction.
+
+64     The rehabilitative purpose of probation orders was expounded in _Al-Ansari_ at \[41\]-\[42\]:
+
+> \[41\]  It has been observed by Eric Stockdale & Keith Devlin in _Sentencing_ (Waterlow Publishers, 1987) (“_Sentencing_”) at p 208 that probation is primarily reformative in the sense that its aim is the reintegration of the offender in the community. It in turn seeks to provide support for the individual so as to assist him in avoiding the commission of further crime. Thus, as probation helps the offender to become more responsible for his own actions, it in turn advances the greater public interest by helping to protect society as a whole.
+
+> \[42\]  The above observations are similarly true in Singapore. In the local context, close to two decades ago, J K Canagarayar penned a compelling article (“Probation in Singapore” (1988) 30 Mal L R 104) (“_Probation in Singapore_”) in which he painstakingly traced the origins of the POA (\[37\] _supra_) and deduced that, in the main, the legislative intent behind the Act is to promote the rehabilitation of young first-time offenders. …
+
+>     \[T\]he debates in the Legislative Council indicated that the policy makers were also hoping to use probation “to prevent a class of chronic law-breakers from springing” (see Colony of Singapore, _Legislative Assembly Debates, Official Report_ (15 February 1949) (Mr T P F McNiece, Secretary for Social Welfare) at p B92).
+
+65     At \[43\] of _Al-Ansari_, it was also mentioned that Canagarayar had stated at 106 of his article, _Probation in Singapore_, that the type or nature of the offence rather than the characteristics of the offender has played a major role in deciding whether to place offenders on probation.
+
+66     In _Parveen_, Steve Chong JA weighed in on the benefits of probation at \[32\]:
+
+>     \[F\]irst, it does not stand as a criminal conviction on record: see s 11(1) of the Probation of Offenders Act (Cap 252, 1985 Rev Ed) (“the POA”). Second, young offenders are more likely to be in school, higher institutions of learning or at early stages of their employment. Placing them on probation allows them to continue with their education or employment which will give them the opportunity to turn over a new leaf and become a responsible member of society: see _Singapore Parliamentary Debates, Official Report_ (10 November 1993) vol 61 at cols 931–932 (Mr Yeo Cheow Tong, Minister for Community Development) (“Parliamentary Debates”). Although the need for deterrence is also a pertinent sentencing consideration where the young offender has committed serious offences, there is nothing in the case law or the statutes that indicates that the possibility of probation should be ruled out altogether: see _Lim Pei Ni Charissa v PP_ <span class="citation">\[2006\] 4 SLR(R) 31</span> at \[16\]. In this regard, probation can and has been granted even where the accused has committed serious crimes, such as drug trafficking.
+
+67     In _Kartik_, it was highlighted by Sundaresh Menon CJ at \[20\] the role of the probation officer in coming up with the PB report:
+
+>     \[T\]he probation officer undertakes a detailed assessment of the offender’s circumstances before making a recommendation as to whether or not probation is appropriate. While the court is not bound by such a recommendation, it should not lightly exclude such detailed assessment as is generally contained in a probation pre-sentencing report (see further \[78\]–\[79\] below).
+
+68     At the same time, it is equally important to note the limited deterrent effect of probation orders as the key role of probation is rehabilitation and not deterrence. In _Al-Ansari_, VK Rajah JA opined at \[55\]-\[56\]:
+
+> \[55\]  \[I\]n my view, _in so far as it is suggested that such inherent discipline translates into some form of deterrence, more specific than general, and such deterrent effect would be penumbral at best._ The key principle at play in probation would primarily be rehabilitation and not deterrence. …
+
+> 56    \[T\]hey do exert some form of deterrence, but such deterrence, generally speaking, must be regarded as being relatively modest in nature. In this regard, I note that there are three grades and periods of probation, _viz_, administrative probation (six months to one year), supervised probation (one to two years) and intensive probation (two to three years). For the case of intensive probation, in addition to the conditions which may be imposed for administrative probation and supervised probation, the court may order the offender to reside for a specified period in an approved institution or home or hostel, and to be electronically tagged. I must acknowledge that intensive probation involving such a period of stay may have some level of deterrence for some young offenders. \[emphasis added\]
+
+#### The nature of reformative training
+
+69     I now come to the nature of reformative training. This sentencing option is governed by s 305 of the CPC, which has seen amendments being made to it on 31 October 2018 via the CJRA. Particularly, s 305(1), (3), (4)-(8) reads:
+
+>      **Reformative training**
+
+> **305**—(1)    Where a person is convicted by a court of an offence _punishable with imprisonment_ and that person is, on the day of his conviction —
+
+>> (a)    of or above the age of 16 years but below the age of 21 years; or
+
+>> (b)    of or above the age of 14 years but below the age of 16 years and has, before that conviction, been dealt with by a court in connection with another offence and had, for that offence, been ordered to be sent to a juvenile rehabilitation centre established under section 64 of the Children and Young Persons Act (Cap. 38), the court may impose a sentence of reformative training in lieu of any other sentence if it is satisfied, having regard to _his character, previous conduct and the circumstances of the offence_, that to reform him and to prevent crime he should undergo a period of training in a reformative training centre.
+
+>     …
+
+> (3)    Before imposing any sentence of reformative training, the court must call for and consider any report submitted by the Commissioner of Prisons, or any person authorised by the Commissioner of Prisons to submit the report on his behalf, on the _offender’s physical and mental condition, the offender’s suitability for the sentence, and the nature of the rehabilitation_ that is recommended for the offender; and if the court has not received such a report, it must remand the offender in custody for a period or periods, not exceeding one month in the case of any single period, to enable the report to be submitted.
+
+> (4)    The court must give a copy of any report submitted by the Commissioner of Prisons to the offender or his advocate and to the Public Prosecutor.
+
+> (5)    A person sentenced to reformative training must be detained in accordance with the regulations made under section 428.
+
+> (6)    A sentence of reformative training must specify, as the minimum period of detention, such of the following periods as the court may determine to be the most appropriate for the rehabilitation of the offender:
+
+>> (a)     _6 months_ beginning on the date the sentence takes effect;
+
+>> (b)    12 months beginning on the date the sentence takes effect.
+
+> (7)    A sentence of reformative training (including any period of supervision under the sentence) must not extend beyond 54 months after the date the sentence takes effect.
+
+> (8)    The period of detention under a sentence of reformative training must not extend beyond —
+
+>> (a)    54 months after the date the sentence takes effect, in any case that may be prescribed; or
+
+>> (b)    36 months after the date the sentence takes effect, in any other case. \[emphasis added\]
+
+70     A pertinent point to note is that unlike probation, for the court to impose a sentence of reformative training, the offender must be convicted of an offence punishable with imprisonment.
+
+71     Another point to note is that since the legislative amendments made to the reformative training regime in October 2018, the minimum period of detention has been changed from 18 months to 6 months or 12 months depending on the intensity of rehabilitation an offender requires. In the second reading speech by Ms Indranee Rajah, Senior Minister of State for Law and Finance (as she then was), on Criminal Justice Reform Bill and Evidence (Amendment) Bill on 19 March 2018, she highlighted the reasons for the changes made to reformative training at \[71\]-\[77\]:
+
+>      _Introducing changes to reformative training_
+
+> \[71\]  Besides community sentences, the Bills also make major changes to another sentencing option that is focused on rehabilitation – the reformative training (“RT”) regime.
+
+> \[72\]  The RT regime is specifically geared towards the rehabilitation of young offenders.
+
+> ·    It emphasises both _discipline and rehabilitation_ in a structured environment, where officers provide supervision and guidance to the RT trainees.
+
+> ·    The trainees will go through programmes that will help them take charge of their rehabilitation. They will need to soberly reflect on their offences, on _how to stay crime-free, and on how to strengthen their relationships with their family_.
+
+>     \[73\] The RT regime has been an important and effective one, but we are always striving to see how we can improve.
+
+> ·    Over the years of running the reformative training regime, the Singapore Prison Service (“SPS”) has gained a deeper understanding of evidence-based rehabilitation.
+
+> ·    The proposed changes reflect this deeper understanding, allowing SPS to take on a risk and performance-based approach in determining the intensity of intervention in RTC for the trainee.
+
+> \[74\]  A key feature of the proposed changes is that the minimum detention period for reformative _training will be reduced from 18 months, to 6 or 12 months_, depending on the intensity of the rehabilitation the offender requires.
+
+> ·    This will be based on the time required for programming to mitigate the risks and address the needs of the RT trainees, according to their profiles.
+
+> ·    The amendments hence allow for a _more nuanced assessment_ of the intensity of rehabilitation required, depending on each individual’s likely response to RT, and level of motivation to change.
+
+> \[75\]  Currently, trainees are already grouped by risk profile and rehabilitation needs, where they undergo rehabilitation in an environment that minimises contamination.
+
+> ·    The new minimum detention periods mean that for some of the trainees, they can be released from detention and placed on supervision as early as the 6-month mark to begin their reintegration into the community.
+
+>     \[76\] Currently, trainees are _already provided with opportunities for education and skills training while in detention_.
+
+> ·    The new minimum detention periods mean that disruption, if any, to education will be further reduced. For some of the trainees, they can pursue their educational goals on supervision in the community as early as the 6-month mark.
+
+> \[77\]  But despite the changes, it is important to emphasise that the purposes of RT have not changed – _it achieves the sentencing objectives of rehabilitation and deterrence_.
+
+> ·    It offers the courts an option to _rehabilitate the offender in a structured environment while achieving deterrence._
+
+> ·    RT will continue to be the preferred option for cases where the _need for rehabilitation corresponds with the need for heightened deterrence_
+
+>> o    It should _ordinarily be imposed on repeat offenders_ or for serious offences like drug trafficking.
+
+>> o    Each case should, however, be treated on its own facts and there may be exceptions where RT is unsuitable due to the characteristics of the offender or the heinous nature of the offence committed. \[emphasis added\]
+
+72     In essence, reformative training provides the option of rehabilitating the offender in a structured environment and concurrently achieve the need for heightened deterrence. Each case should be determined on its own facts but should ordinarily be imposed on repeat offenders or for serious offences. The shorter minimum detention periods now allow offenders to have an earlier reintegration into the community. Yet, the minimum detention periods cater to the needs of the trainees. Depending on the intensity of the rehabilitation required, the rehabilitation programmes are designed to keep them crime-free. They also provide trainees with opportunities for education and skills training while in detention.
+
+73     As held at \[57\] - \[58\] of _Al-Ansari_, while reformative training is rehabilitative in nature due to the structured reformative programme designed to make the offender a law-abiding citizen when he is reintegrated into society, in an absolute sense, it does have a deterrent effect given that the training regime is run by Prisons. Nevertheless, this sentencing option provide the courts with a middle ground that generally encapsulate the dual principles of rehabilitation and deterrence in relation to young offenders.
+
+### The most appropriate sentence to impose
+
+74     Indeed, both probation and reformative training play different pivotal roles in striking a balance between rehabilitation and deterrence. In determining the appropriate sentence, the courts should seek to achieve the proper balance between rehabilitative aims with the need for deterrence.
+
+#### Sentencing precedents
+
+75     Like in _Syahril_, I referred to sentencing precedents and the usual benchmark sentences for the offences committed by the accused. This will determine the likely sentence the accused would have received had he been an adult offender.
+
+76     For the failing to stop a vehicle when required by a police officer in uniform to do so (5th charge) and beating of the red light (7th charge) offences, the accused would have been imposed fines ranging from $600 to $800 per offence for a first offender.
+
+77     The driving whilst under a DQ order was the most serious offence the accused was facing, as this would ordinarily attract a custodial sentence. It is also a strict liability offence.
+
+78     In _PP v Soyed Foysal Ahamed Pavel_ <span class="citation">\[2018\] SGDC 131</span>, the legislative intent for enhancing the punishment under s43(4) of the RTA for driving whilst under disqualification via the Road Traffic (Amendment) Act 1993 (Act 3 of 1993) was discussed at para \[24\]:
+
+>     As the Minister for Home Affairs, Professor S. Jayakumar, explained in moving the second reading of the Road Traffic (Amendment) Bill 1992 (Bill 37 of 1992), which proposed this enhanced punishment \[Singapore Parliamentary Debates, Official Report (18 January 1993) vol. 60 at col 426-428\]:
+
+>> … There have been a number of cases ... where motorists who are disqualified by the courts from driving for committing a serious offence, have deliberately ignored the court’s prohibition and continued to drive. ...
+
+>> According to the Traffic Police, there are more \[of\] such offenders, but it is not easy to catch them. The Traffic Police can detect them only when they are stopped for some traffic offence or when they are involved in an accident.
+
+>> I hope Members will agree that such a driver is really a menace to all other road users. He is, in fact, a lethal, unguided missile. Moreover, when he causes an accident, the victims will not legally be covered by insurance. ...
+
+79     In _Chng Wei Meng v PP_ \[2002\] 2 SLR (R) 581, it was held by Yong Pung How CJ (at para \[19\]):
+
+>     In my opinion, there were several factors, which strongly suggested that Parliament intended liability to be strict. Firstly, is the absence of any statutory defences for s 43(4) of the Act. Secondly, as is the case for the majority of strict liability offences, the offence of driving under disqualification is not a truly “criminal” offence but one that is regulatory in nature. Thirdly, s 43(4) is clearly concerned with the protection and safety of the public as it prohibits persons without valid or subsisting licences from driving on our public roads and highways and endangering human lives. Further, the reality of the situation is often that a person who drives while disqualified will also not be in possession of a valid third-party insurance policy as required by s 3 of the Motor Vehicles (Third-Party Risks and Compensation) Act. Consequently, it was clear to me that the protection of public interest and the need to avoid the tremendous damage and injustice that can arise when members of the public are injured by such irresponsible drivers, mandates the reading of s 43(4) as a strict liability offence. Fourthly, I found it significant that active promotion of the observance of s 43(4) is very much dependent upon personal compliance by the individual since the traffic police are often unable, save in cases where the offender has been stopped for some other offences or on the off-chance when random checks are being conducted, to identify and stop disqualified persons from driving on the roads. Applying the reasoning of this court in _MV Balakrishnan_ (\[9\] _supra_) when construing s 35 of the Traffic Offences Act – a similar offence that deals with driving a class of motor vehicle without the requisite driving licence – the prohibited act is not one which the public can easily protect by its own vigilance. Conversely, it is no great hardship for a person who intends to drive to determine whether or not he is in fact qualified (or disqualified) to do so.
+
+80     In the circumstances, Yong Pung How CJ held (at para \[43\]) that a motorist who chose to drive whilst under a DQ order must expect a term of imprisonment and not merely a fine. This was because the motorist chose to drive in blatant disregard of the law and the authority of the courts. He can and should expect to face the full impact of the law upon him and receive enhanced custodial sentence.
+
+81     As for the usual benchmark sentence for the driving whilst under a DQ order offence, since the amendment of the RTA on 1 November 2019, the Prosecution submitted that the punishment for s 43(4) of the RTA has been enhanced for first and repeat offenders. The new 43(4) states:
+
+> (4)    If any person who is disqualified as mentioned in subsection (3) drives on a road a motor vehicle or, if the disqualification is limited to the driving of a motor vehicle of a particular class or description, the person drives on a road a motor vehicle of that class or description, the person shall be guilty of an offence and shall be liable on conviction as follows:
+
+>> (a)     _to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both_;
+
+>> (b)    where the person is a repeat offender, to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 6 years or to both. \[emphasis added\]
+
+82     Prior to the 2019 amendments, the maximum prescribed punishment for both a first and repeat offender was a fine not exceeding $10,000 or an imprisonment term not exceeding 3 years or both.
+
+83     In _Fam Shey Yee v PP_ <span class="citation">\[2012\] SGHC 134</span>, which was decided under the old s 43(4) RTA, it was held by the High Court at \[12\]:
+
+>     It is also not disputed that the sentence of six weeks’ imprisonment meted out in the present case falls within the usual tariff of _four to eight weeks’ imprisonment_: see, _eg_, _Public Prosecutor v Tan Chen Chey_ <span class="citation">\[2009\] SGDC 485</span>; _Public Prosecutor v Choo Puay Lan_ <span class="citation">\[2010\] SGDC 64</span>; _Public Prosecutor v Muhammad Fazil bin Azman_ <span class="citation">\[2010\] SGDC 168</span>; _Public Prosecutor v Lian Chee Yeow Michael_ <span class="citation">\[2011\] SGDC 190</span>; and _Public Prosecutor v Tan Thiam Soon_ <span class="citation">\[2011\] SGDC 228</span>. \[emphasis added\]
+
+84     Therefore, with the amendments, the Prosecution submitted that the starting point sentence for a first offender like the accused in the present case would now be double that of the previous sentence of 4 weeks’ imprisonment if the accused had not been a youthful offender. That is to say that in view of the recent 2019 amendments, in order to utilise the full range of sentences prescribed by Parliament (See _Poh Boon Kiat v PP_ <span class="citation">\[2014\] 4 SLR 892</span> at \[60\]), the new starting point sentence for a first offender is now 8 weeks’ imprisonment.
+
+85     Thus far, there has been no reported decision for the new s 43(4)(a) of the RTA provision.
+
+86     I have conducted a search on the Sentencing Information and Research Repository (SIR) for cases decided under the new s 43(4)(a) of the RTA for first offenders. There were 24 cases between 1 November 2019 to 7 September 2020. All were PG cases. There were no other types of sentence imposed except a sentence of imprisonment and the median sentence was indeed 8 weeks’ imprisonment as submitted by the Prosecution. A table of the sentences imposed on the accused for these 24 cases[^1] are:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="20.6%"> <col width="10.92%"> <col width="11.18%"> <col width="11.02%"> <col width="10.92%"> <col width="11.18%"> <col width="13.06%"> <col width="11.12%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Imprisonment term</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">4 weeks</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">1 month</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">6 weeks</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">7 weeks</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>8 weeks</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>2 months</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">16 weeks</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">No. of cases</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">4</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">1</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">3</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">3</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>9</b></p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>3</b></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">1</p></td></tr></tbody></table>
+
+  
+  
+
+87     As can be seen from the table, majority of the cases (i.e. 12 cases) fell within the range of 8 weeks to 2 months’ imprisonment period (as highlighted).
+
+88     The range for the DQ period is more varied as this typically depends on the DQ period of the previous sentence where the DQ order was imposed. Generally, the DQ order imposed for driving under DQ will at least be double that of the last sentence and a period of not less than 18 months. The median DQ period for the 24 cases is 3 years.
+
+89     As for the offence of affixing to a vehicle an unissued plate under s 129(2)(e) of the RTA punishable under s 192(2)(iii), it reads as follows:
+
+>     (2) If any person —
+
+>> …
+
+>> (e)    transfers or affixes to any vehicle or trailer for which it was not issued any licence, identification mark, plate or document which is required under this Act to be carried on a vehicle or trailer;
+
+>> …
+
+>> he shall, _unless he establishes to the satisfaction of the court that he acted without intent to deceive_, be guilty of an offence and shall be liable on conviction to be punished as follows:
+
+>>> …
+
+>>> (iii)   in any other case, with a fine not exceeding $5,000 or with imprisonment for a term not exceeding 12 months or with both. \[emphasis added\]
+
+90     The Prosecution submitted that as the nature of this offence is such that there is an intention by the offender to deceive the authorities in order to facilitate the commission of other offences and avoid detection, this offence would ordinarily warrant a custodial sentence for an adult offender. Here, the accused had duplicated a Singapore motorcycle plate no. of his friend’s motorcycle to affix on his own Malaysian registered motorcycle before using it. His motorcycle was of a similar brand and model as his friend’s motorcycle. This was to avoid paying for the relevant taxes chargeable and insurance on his Malaysian registered motorcycle.
+
+91     The Prosecution’s position is in line with the decision of the High Court in _Chong Jiajun Eugene v PP_ <span class="citation">\[2015\] SGHC 285</span> (_“Eugene Chong”)_ where it was held at \[22\]:
+
+>     It would in fact be very likely that, in other cases, false number plates affixed in order to facilitate the commission of other offences. I would emphasise that a custodial term is still warranted in such cases. Imprisonment of two weeks upwards should be expected even if they may be relatively minor offences such as evasion of ERP, and _I would venture to suggest that a longer term in the range of four weeks would be appropriate where there is non-payment of road tax and/or insurance._ There will also be aggravated offences for which more substantial sentences of imprisonment would be warranted, such as where false number plates are used on stolen cars or to facilitate the commission of more serious offences like drug trafficking, robbery, immigration or customs offences, to name just a few. In such cases, the intent to evade detection is manifestly clear and the starting point for the sentencing court would be to consider a sentence of three months’ imprisonment upwards. \[emphasis added\]
+
+92     On the facts here, an adult offender would likely face a custodial sentence of 4 weeks’ imprisonment as stated in _Eugene Chong_.
+
+93     In a subsequent case of _PP v Lee Kim Yen_ <span class="citation">\[2017\] SGDC 156</span> (_Lee Kim Yen_”), _Eugene Chong_ was followed. There, the accused was charged and convicted for (besides 6 other charges) affixing a false vehicle plate on Singapore registered motorcar. The accused claimed trial and at the trial, it was found that she had affixed the false vehicle plate to evade detection of the finance company so that the latter would not be able to track the vehicle down and re-possess it for her non-payment of the instalments. She also committed traffic violations with the false vehicle plate and drove the motorcar without road tax and insurance. Prior to these set of offences, she was untraced. The District Court held at \[66\]:
+
+>     In keeping with the guidelines and framework of _Chong Jiajun Eugene v Public Prosecutor_ \[2016\] 1 SLR3654, which I find to be wholly applicable to this present case (notwithstanding that the charges concerned were different but with an identical gravamen), I shared the Prosecution’s view that an imprisonment term of _not less than 4 weeks_ was necessary. Prosecution also submitted precedents which showed that an imprisonment term of 4 weeks have consistently been imposed by the courts where false licence plates were used on unlicensed or uninsured vehicles. \[emphasis added\]
+
+94     The accused in _Lee Kim Yen_ was eventually sentenced to 5 weeks’ imprisonment for the s 129(2)(e) of the RTA offence.
+
+95     All in all, had the accused been an adult offender, he would have received a global sentence of about 12 weeks’ imprisonment (for both his driving whilst under a DQ order and affixing an unissued plate to a vehicle). This would satisfy the requirement under s 305 of the CPC for reformative training where the offences of the accused convicted by a court is punishable with imprisonment. It is further to be noted that this potential sentence is about half the duration of a level 1 intensity for the reformative training rehabilitation programme.
+
+#### Reasons for imposing reformative training over probation
+
+96     As indicated to defence counsel, I had previously granted probation to a youthful offender for driving whilst under a DQ order under the old s 43(4) of the RTA. In _PP v Mohamed Rahmathulla Bin Mohamed Salaudeen_ (SC-99458-2018) (_“Rahmathulla”)_, the accused was convicted for 2 charges of driving whilst under a DQ order and without insurance coverage. The earlier DQ order imposed was for driving without insurance coverage. Split probation for 15 months, 3 months intensive and 12 months supervised was ordered. In fact, while he was on probation, Rahmathulla reoffended on 2 July 2019 for dangerous driving and had to appear before the court again.
+
+97     As can be seen in _Syahril_, I had even ordered a short detention order for the accused when there was a complete lack of familial support. He was charged and convicted for driving whilst under a DQ order and insurance coverage as well as taking vehicle’s without owner’s consent. His family members not only refused to stand bail for him, they objected to him undergoing probation.
+
+98     As for the new s 43(4)(a) of the RTA, in _PP v Aravin S/O Jayakumar_ (SC-905208-2020) (“_Aravin”_), the accused was convicted for 2 charges of abetting to drive whilst under a DQ order and without insurance coverage. He was untraced. Supervised probation for 15 months was ordered.
+
+99     Furthermore, I have considered the mitigating factors raised by the Defence including the accused’s contriteness by pleading guilty at the earliest available opportunity and his full cooperation rendered to the police after his arrest.
+
+100    What tipped the balance towards reformative training for the accused here?
+
+101    First, the level of deterrence required for the accused based on the nature and seriousness of his offences as well as his culpability must be heightened.
+
+102    As clearly enunciated in _Chng Wei Meng_, driving under a DQ is a serious offence as the accused has blatantly disregarded the court’s prohibition for him to drive and continued to do so. Besides causing a real danger to other road users, the public is unprotected by insurance coverage due to such an act of irresponsible driving should an accident occur. Moreover, it is difficult for the police to detect the commission of such an offence unless random checks are being conducted or an offender is stopped for some other offences.
+
+103    Consequently, there is a need to protect public safety and interest to avoid harm. Defence counsel’s submissions that traffic offences are not serious offences were certainly misconceived.
+
+104    In the recent amendments to the RTA, the prescribed punishment for both first and repeat offenders for s 43(4) of the RTA has been enhanced. This evinced the intention of Parliament that driving whilst under a DQ order is an offence that is not only grave but one that warrants a greater general and specific deterrence. Hence, an accused who commits this offence after 1 November 2019 is now faced with the prospects of a longer custodial sentence as compared to the past.
+
+105    The accused’s culpability is high because the DQ order was imposed on him only on 9 October 2019. The following month in November 2019, he already proceeded to ride whilst under a DQ order when he rode the Malaysian registered motorcycle that he bought back home. In the accused’s mind, the DQ order was inconsequential and he could continue riding as he wished. He flagrantly disregarded the court order.
+
+106    This was not all, in order to avoid detection, he duplicated the Singapore registered plate no. “FX2356M” belonging to his friend’s motorcycle, which was of a similar make and model, and affixed it on his own Malaysian registered motorcycle bearing the plate no. “JPL5935” before using it on the public roads. There was no valid road tax and insurance coverage for keeping and using the said Malaysian registered motorcycle. This was a deliberate and premeditated act done with an intent to deceive the authorities.
+
+107    Therefore, the accused act of deception could be said to be twofold: he not only rode when he was specifically banned from doing so, he rode an unregistered and uninsured vehicle with a fake vehicle registration no. plate affixed on it to avoid being discovered.
+
+108    Regrettably or otherwise, it had to take the sharp eyes of a traffic police officer to notice that the accused was wearing a helmet fitted with an unapproved visor when the accused was riding his Malaysian registered motorcycle with the fake Singapore registration no. plate affixed on it along Choa Chua Kang Grove towards Bricklane Road near to ITE West on 13 January 2020.
+
+109    When asked to stop by the traffic police officer in uniform, the accused not only did not cooperate and stop but sped up and rode off. The traffic police officer had to give chase with his blinkers and siren on.
+
+110    The accused then arrived at a roadblock along Choa Chua Kang Grove. He was instructed to stop again by another traffic police officer in uniform by way of signalling and blowing the whistle at him. Once again, the accused refused to do so by evading the roadblock. He rode away quickly. This resulted in that traffic police officer having to jump away to avoid a collision with the accused’s motorcycle. It was fortuitous that nobody was injured.
+
+111    After a dramatic escape from the roadblock, the accused continued to ride dangerously and beat the red light at the traffic light junction between Choa Chua Kang Grove and Choa Chu Kang Avenue 7. The traffic police officers had to give chase for a distance of about 1.5km before he was eventually stopped and arrested along Choa Chu Kang Grove slip road leading into Brickland Road.
+
+112    If not for the arrest of the accused by the traffic police officers, the accused might have remained a real, defiant and elusive menace on the roads. Overall, when compared to the accused in _Rahmathulla, Syahril_ and _Aravin_, I am of the view that the accused’s culpability here is greater.
+
+113    Second, the risk factors as stated in both the PB report and the RT report cannot be ignored.
+
+114    In terms of the accused’s attitude/orientation, he exhibited attitudes favourable to crimes.
+
+115    He informed the correctional rehabilitation specialist that he felt that owning and riding a motorcycle without licence as well as obtaining the vehicle illegally was a way to impress his negative peers, which consisted a group of motorcycling enthusiasts. The accused explained that he had evaded the traffic police as he was hopeful that he could avoid the consequences. He also did not ‘feel the pinch’ from being ordered a fine for his previous offences (page 6 of RT report).
+
+116    The probation officer also noted that the accused minimised the severity of the consequences of his current offences as he believed that the penalty for reoffending was only a fine (page 12 of PB report). As such, the probation officer assessed that this highlighted his distorted beliefs and lack of consideration for others and the potential harm he could have inflicted. Despite his earlier arrest for a similar offence and being imposed a fine and DQ order, he reoffence whilst prohibited from driving reflected his risk-taking attitudes, poor consequential thinking, impulsivity, poor self-control and blatant disregard for the law (page 2 of the PB report).
+
+117    The accused remained impulsive and perhaps defiant of the authorities even after his arrest in January 2020. The probation officer highlighted his multiple infringements in NS between March 2020 to June 2020 (page 9 of the PB report). The infringements were similarly stated by the correctional rehabilitation specialist (page 5 of the RT report).
+
+118    The accused appeared to only have turned for the better when he was first charged in court for the current set of offences on 15 July 2020. Then, as part of the court bail conditions, I imposed a curfew between 10pm to 6am on him. The probation officer reported that the accused ceased his late-night outings since then and took pro-active steps to dissociate himself from his negative peers, who had increased his exposure and involvement in unlawful activities (page 2 of the PB report). In August 2020, he was also punished by the military with 28 days of stoppage leave for his NS infringements (page 9 of PB report).
+
+119    This probably explained why the correctional rehabilitation specialist recommended that the accused requires intervention in the domains for education/employment, leisure and attitude/orientation (page 7 of the RT report).
+
+120    Having deliberated carefully on the assessment in both the PB report and RT report and considered the accused’s contumacy to the law and authorities, prior, during and post his arrest for the present offences, I believe that a more structured environment will better assist the accused in his rehabilitation process and address the concerns, particularly his attitudes favourable to crime, in aiding the accused to avoid recidivating.
+
+121    Concomitantly, the level 1 intensity of the rehabilitation programme targets a trainee’s motivation to change to be crime-free, in his relationship with his family as well as in his employment and education.
+
+122    Probation may be too light touch an approach given the nature of the offences and level of deterrence required. Defence counsel’s suggestion of a probation with an additional condition of a duration of hostel residence to be imposed is to me, untenable. He is still serving NS and is expected to be in camp for a large part of the day daily. More importantly, if the regimented army life was unable to instil discipline in him, I doubt very much that a hostel life will assist here. In any case, this was not a condition recommended by the probation officer.
+
+123    When I sentenced the accused on 16 October 2020, I had also taken into consideration that he would complete his NS obligations in April 2021. Given that the RT level 1 intensity rehabilitation programme will be delivered over a 6-month period, there will be no or minimal disruption to the accused and he would be able to reintegrate into the society at about the same time as he would have completed his NS obligations. The accused will then be able to resume his previously abandoned education and hopefully complete his diploma studies in business management.
+
+124    I now come to a final point raised by the Defence. Defence counsel mentioned that if the accused had been offered and sentenced to probation for his earlier set of offences for driving without a valid licence and insurance coverage, he would not have been charged for driving whilst under a DQ order but driving without a valid licence besides being in breach of the probation conditions. This is because the disqualification from driving would have been part of the probation conditions instead of a DQ order of the court.
+
+125    First, under the old s 35(1) of the RTA prior to 1 November 2019 (where the accused was charged and convicted for), the typical fine amount imposed for this charge is about $600 to $800 for a first offender. This is similar for the driving without insurance coverage charge save that there is an additional mandatory minimum period DQAC of 12 months to be imposed.
+
+126    Given that the fine amounts for both these 2 offences are not large, youthful offenders and their parents or guardians would typically agree to pay the fines imposed should the accused plead guilty.
+
+127    Presently, even under the new s 35(1) of the RTA where the prescribed punishment has been increased and the fine amount for a first offender for this offence has increased to a starting point tariff of $1,500, youthful offenders and their parents or guardians do commonly still opt to pay the fines imposed rather than for probation should the accused plead guilty. This is so even when the latter option may be presented to them for consideration.
+
+128    Next, even if the accused had been offered, found suitable and sentenced to probation for his earlier set of offences, this might not have materially affect the accused here. I say this because besides being in breach of the probation conditions, he would still be liable for a potential custodial sentence for the offence of affixing the forged vehicle registration plate on his Malaysian registered motorcycle.
+
+129    Third, and more pertinently, given that the accused would have committed the current set of offences while on probation, even though there is no bar from granting a second probation order where appropriate, the courts are likely to be slower in granting one. This is because reoffending while on probation reflects a lack of remorse on the part of an accused and may even suggest that the earlier assessment of the accused’s suitability has been misplaced. Clearly with this, there will be a heightened need for deterrence as can be seen e.g. in _Boaz Koh_.
+
+130    Moreover, as pointed out earlier, the accused grew bolder and more audacious in the subsequent offences that he committed, thus increasing his criminality and a corollary heightened need for deterrence. Depending on the reassessment of the accused, a second probation in this “what if” situation might still not have been the best rehabilitative option for him.
+
+131    It might have been a mere slap on the wrist to the accused when a fine was imposed on him previously. Sadly, fear finally struck into his heart when he was remanded for one week for the preparation of the RT report. All things considered, it remains my view that the level 1 intensity reformative training is the most appropriate sentence to retrain, reform and rehabilitate him.
+
+132    Finally, I come to the 25 months’ DQAC order imposed on the accused as part of the s 43(4) RTA charge. The period imposed was slightly more than double the last DQ order of 12 months for his previous convictions. In doing so, I did take into account the fact that he had reoffended soon after the first DQ order was imposed.
+
+## Conclusion
+
+133    To summarise, the accused was accordingly sentenced as follows:
+
+<table align="right" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="0"><colgroup><col width="28.44%"> <col width="19%"> <col width="52.56%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Charge No.</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Offence</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Sentence</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC-912823-2020</p><p align="justify" class="Table-Para-1">1<sup>st</sup> Charge</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">S 43(4) RTA</p></td><td align="left" class="b" rowspan="4" valign="top"><p align="justify" class="Table-Para-1">To undergo reformative training for a minimum of 6 months detention in a reformative training centre with effect from 30 October 2020.</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC-912825-2020</p><p align="justify" class="Table-Para-1">3<sup>rd</sup> Charge</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">S 129(2)(e) p/u S 129(2)(iii) RTA</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC-912827-2020</p><p align="justify" class="Table-Para-1">5<sup>th</sup> Charge</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">S 127(5) p/u S 131(2)(a) RTA</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC-912829-2020</p><p align="justify" class="Table-Para-1">7<sup>th</sup> Charge</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">S 120(4) p/u S 131(2)(a) RTA</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC-912823-2020</p><p align="justify" class="Table-Para-1">1<sup>st</sup> Charge</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">S 43(4) RTA</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Disqualified from holding or obtaining all classes of driving licences for a period of 25 months with effect from 16 October 2020</p></td></tr><tr><td align="left" class="r" colspan="2" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b><u>Total Sentence</u></b></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">To undergo reformative training for a minimum of <b>6 months detention in a reformative training centre</b> with effect from 30 October 2020.</p><p align="justify" class="Table-Para-1"><b>Disqualified from holding or obtaining all classes of driving licences for a period of 25 months</b> with effect from 16 October 2020.</p></td></tr></tbody></table>
+
+  
+  
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Annexure
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="8.10973167801362%"> <col width="12.7553063676412%"> <col width="11.6139367240689%"> <col width="53.4641569883861%"> <col width="14.0568682418903%"> <col> </colgroup><tbody><tr><td align="left" class="b" colspan="6" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Section 43(4)(a) Road Traffic Act (Cap 276, Rev Ed 2004)</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>S/No</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Charge No.</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Case No.</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Sentence</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Category</b></p></td><td align="left" class="b" rowspan="1" valign="top">&nbsp;</td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">1</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC-903107-2020</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">SC-901154-2020</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Four (4) weeks' imprisonment. Disqualified from holding or obtaining all classes of driving licences for a period of thirty-six (36) months with effect from date of release.</p></td><td align="left" class="br" rowspan="4" valign="middle"><p align="justify" class="Table-Para-1">2 - 4 Weeks' Imprisonment</p></td><td align="left" class="b" rowspan="1" valign="top">&nbsp;</td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">2</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC-907541-2020</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">SC-902878-2020</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Four (4) weeks' imprisonment. Disqualified from holding or obtaining all classes of driving licences for a period of thirty (30) months with effect from date of release.</p></td><td align="left" class="b" rowspan="1" valign="top">&nbsp;</td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">3</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC-932298-2019</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">SC-910501-2019</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Four (4) weeks' imprisonment. Disqualified from holding or obtaining all classes of driving licences for a period of thirty-six (36) months with effect from date of release.</p></td><td align="left" class="b" rowspan="1" valign="top">&nbsp;</td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">4</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC-935599-2019</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">SC-911490-2019</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Four (4) weeks' imprisonment. Disqualified from holding or obtaining all classes of driving licences for a period of thirty-six (36) months with effect from date of release.</p></td><td align="left" class="b" rowspan="1" valign="top">&nbsp;</td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">5</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC-903654-2020</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">SC-901434-2020</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Six (6) weeks' imprisonment. Disqualified from holding or obtaining all classes of driving licences for a period of thirty-six (36) months with effect from date of release, and prohibited under section 47F RTA from driving any motor vehicle in Singapore for a period of thirty-six (36) months with effect from date of release.</p></td><td align="left" class="br" rowspan="4" valign="middle"><p align="justify" class="Table-Para-1">4 - 6 Weeks' Imprisonment</p></td><td align="left" class="b" rowspan="1" valign="top">&nbsp;</td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">6</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC-910104-2020</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">SC-902091-2020</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Six (6) weeks' imprisonment. Disqualified from holding or obtaining all classes of driving licences for a period of four (4) years with effect from date of release, and prohibited under section 47F RTA from driving any motor vehicle in Singapore for a period of four (4) years with effect from date of release.</p></td><td align="left" class="b" rowspan="1" valign="top">&nbsp;</td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">7</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC-907065-2020</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">SC-902687-2020</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">One (1) month's imprisonment. Disqualified from holding or obtaining all classes of driving licences for a period of thirty-six (36) months with effect from date of release.</p></td><td align="left" class="b" rowspan="1" valign="top">&nbsp;</td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">8</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC-900511-2020</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">SC-908001-2019</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Six (6) weeks' imprisonment. Disqualified from holding or obtaining all classes of driving licences for a period of six (6) years with effect from date of release.</p></td><td align="left" class="b" rowspan="1" valign="top">&nbsp;</td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">9</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC-900100-2020</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">SC-900044-2020</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Eight (8) weeks' imprisonment. Disqualified from holding or obtaining all classes of driving licences for a period of two (2) years with effect from date of release.</p></td><td align="left" class="br" rowspan="12" valign="middle"><p align="justify" class="Table-Para-1">6 - 8 Weeks' Imprisonment</p></td><td align="left" class="b" rowspan="1" valign="top">&nbsp;</td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">10</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC-902540-2020</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">SC-900985-2020</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Eight (8) weeks' imprisonment. Disqualified from holding or obtaining all classes of driving licences for a period of forty-five (45) months with effect from date of release.</p></td><td align="left" class="b" rowspan="1" valign="top">&nbsp;</td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">11</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC-905176-2020</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">SC-901921-2020</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Seven (7) weeks' imprisonment. Disqualified from holding or obtaining all classes of driving licences for a period of thirty (30) months with effect from date of release.</p></td><td align="left" class="b" rowspan="1" valign="top">&nbsp;</td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">12</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC-905695-2020</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">SC-902139-2020</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Seven (7) weeks' imprisonment. Disqualified from holding or obtaining all classes of driving licences for a period of four (4) years with effect from date of release.</p></td><td align="left" class="b" rowspan="1" valign="top">&nbsp;</td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">13</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC-906642-2020</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">SC-902534-2020</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Eight (8) weeks' imprisonment. Disqualified from holding or obtaining all classes of driving licences for a period of thirty-six (36) months with effect from date of release</p></td><td align="left" class="b" rowspan="1" valign="top">&nbsp;</td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">14</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC-906930-2020</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">SC-902641-2020</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Eight (8) weeks' imprisonment. Disqualified from holding or obtaining all classes of driving licences for a period of twenty-four (24) months with effect from date of release.</p></td><td align="left" class="b" rowspan="1" valign="top">&nbsp;</td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">15</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC-910378-2020</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">SC-904065-2020</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Eight (8) weeks' imprisonment. Disqualified from holding or obtaining all classes of driving licences for a period of thirty-six (36) months with effect from date of release.</p></td><td align="left" class="b" rowspan="1" valign="top">&nbsp;</td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">16</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC-910472-2020</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">SC-904098-2020</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Eight (8) weeks' imprisonment. Disqualified from holding or obtaining all classes of driving licences for a period of twenty-four (24) months with effect from date of release.</p></td><td align="left" class="b" rowspan="1" valign="top">&nbsp;</td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">17</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC-912229-2020</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">SC-904662-2020</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Eight (8) weeks' imprisonment. Disqualified from holding or obtaining all classes of driving licences for a period of thirty-three (33) months with effect from date of release, and prohibited under section 47F RTA from driving any motor vehicle in Singapore for a period of thirty-three (33) months with effect from date of release.</p></td><td align="left" class="b" rowspan="1" valign="top">&nbsp;</td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">18</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC-912677-2020</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">SC-904829-2020</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Eight (8) weeks' imprisonment. Disqualified from holding or obtaining all classes of driving licences for a period of twenty-four (24) months with effect from date of release, and prohibited under section 47F RTA from driving any motor vehicle in Singapore for a period of twenty-four (24) months with effect from date of release.</p></td><td align="left" class="b" rowspan="1" valign="top">&nbsp;</td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">19</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC-914788-2020</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">SC-905459-2020</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Eight (8) weeks' imprisonment. Disqualified from holding or obtaining all classes of driving licences for a period of twenty-four (24) months with effect from date of release.</p></td><td align="left" class="b" rowspan="1" valign="top">&nbsp;</td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">20</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC-900713-2020</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">SC-911091-2019</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Seven (7) weeks' imprisonment. Disqualified from holding or obtaining all classes of driving licences for a period of forty-eight (48) months with effect from date of release.</p></td><td align="left" class="b" rowspan="1" valign="top">&nbsp;</td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">21</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC-905710-2020</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">SC-902145-2020</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Two (2) months' imprisonment. Disqualified from holding or obtaining all classes of driving licences for a period of thirty-six (36) months with effect from date of release, and prohibited under section 47F RTA from driving any motor vehicle in Singapore for a period of thirty-six (36) months with effect from date of release.</p></td><td align="left" class="br" rowspan="3" valign="middle"><p align="justify" class="Table-Para-1">8 - 10 Weeks' Imprisonment</p></td><td align="left" class="b" rowspan="1" valign="top">&nbsp;</td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">22</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC-906698-2020</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">SC-902548-2020</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Two (2) months' imprisonment. Disqualified from holding or obtaining all classes of driving licences for a period of forty-eight (48) months with effect from date of release, and prohibited under section 47F RTA from driving any motor vehicle in Singapore for a period of forty-eight (48) months with effect from date of release.</p></td><td align="left" class="b" rowspan="1" valign="top">&nbsp;</td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">23</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC-912667-2020</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">SC-911341-2019</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Two (2) months' imprisonment. Disqualified from holding or obtaining all classes of driving licences for a period of thirty-two (32) months with effect from date of release.</p></td><td align="left" class="b" rowspan="1" valign="top">&nbsp;</td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">24</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC-934911-2019</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">SC-911367-2019</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Sixteen (16) weeks' imprisonment. Disqualified from holding or obtaining all classes of driving licences for a period of sixteen (16) years with effect from date of release.</p></td><td align="left" class="r" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">14 - 16 Weeks' Imprisonment</p></td><td align="left" class="" rowspan="1" valign="top">&nbsp;</td></tr></tbody></table>
+
+  
+  
+
+* * *
+
+[^1]: See Annexure for brief details of these cases from SIR
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F25424-SSP.xml)
