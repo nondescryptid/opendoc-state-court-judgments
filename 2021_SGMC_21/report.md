@@ -1,0 +1,191 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# GDG _v_ GDI  
+
+### \[2021\] SGMC 21
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Magistrate's Court Suit No 17981 of 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">06 April 2021</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">Magistrates Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Wong Peck</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Chiok Beng Piow and Margaret Lee Hui Zhen (AM Legal LLC) for the plaintiff; Peggy Sarah Yee May Kuen, Audrey Liaw Shu Juan and Rachel Chua Ru En ( PY Legal LLC) for the defendant.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">GDG (a minor suing by his lawful mother and litigation representative, GDH) — GDI</td></tr></tbody></table>
+
+TRUSTS – express trusts – certainties
+
+TRUSTS – resulting trusts – presumed resulting trusts
+
+LIMITATION OF ACTIONS – particular causes of action – trust property
+
+6 April 2021
+
+### District Judge Wong Peck:
+
+## Introduction
+
+1       The plaintiff is a minor who is suing the defendant through his litigation representative, his mother. In this decision, I shall refer to the mother as “the plaintiff” and the named plaintiff in the suit as “the son”. This is a civil simplified trial on whether the plaintiff has proven her case, on a balance of probabilities, that there has been a trust (be it express or presumed resulting trust) created in the son’s favour for the sum of $25,000 such that the defendant as the trustee, has the legal obligation to discharge his duties of a trustee. According to the plaintiff, such duties include rendering a true and full account of this amount of money, preserving the assets of the trust and managing the trust money with proper care.
+
+2       In the course of the trial, three witnesses gave evidence. They were the plaintiff, the defendant and the plaintiff’s colleague. All three of them are practising lawyers. Having heard the evidence during the trial and read the written submissions tendered by parties, I found that the plaintiff’s claim was time-barred, and I dismissed the plaintiff’s claim. The grounds for my decision are set out below.
+
+## Facts
+
+### The parties
+
+3       Both the plaintiff and the defendant are former colleagues at a Singapore law firm. When the law firm was first established in 2004 by the plaintiff, the defendant and two other lawyers, the plaintiff and the defendant were close friends and colleagues. When the plaintiff gave birth to her firstborn son in 2004, the defendant’s wife was conferred the honour of being a godparent to the plaintiff’s firstborn son. On 14 September 2005, the plaintiff gave birth to her second son who is the named plaintiff in this present suit. The defendant was given the honour of becoming the godfather to the son[^1] and he remains as the godfather despite the now frosty relationship between the parties.
+
+4       Sometime in 2006-2007, the defendant introduced the plaintiff to online trading of stocks and shares in the Singapore Stock Exchange. During that time, both parties would have discussions about stocks and shares from time to time in the office. The defendant also traded in the stocks and shares of the New York Stock Exchange (US market).
+
+5       In June 2012, the plaintiff gave the defendant a sum of $25,000 (“the investment sum”) to invest in the US stock market. It was undisputed that on 2 June 2012, the defendant purchased some Apple shares in the US stock market. These shares were bought in the name of the defendant using his trading account. It was also undisputed that the plaintiff voluntarily gave the defendant a cheque for the investment sum on 5 June 2012[^2].
+
+6       On 29 October 2013[^3], the plaintiff emailed the defendant asking about the status of the investment sum to which the defendant replied that the money was in US equities. However, the defendant had re-invested the money in an ETF (exchange traded fund) and was not making money yet[^4]. The plaintiff then informed the defendant that the investment sum was for the son’s college fund and to make it work. This was followed the second email thread on 9 February 2015[^5] in which the plaintiff asked how the investment sum was faring. The defendant replied that the investment was up USD $35,000 in 2014 but due to the then bear market, the investment sum was worth USD $21,330.74. He also asked her for the appropriate action to take. She replied that she would leave it to the defendant to manage.
+
+7       The third email thread was on 5 July 2016[^6] when she enquired about the status of the investment sum again. She referred to the defendant as the guardian of the son’s college funds. However, her reference was to Apple stocks doing well. This was despite the defendant having informed her in the first email thread of 29 October 2013 that the money was no longer in Apple stocks.
+
+8       The fourth email thread was sent by the plaintiff on 12 July 2016[^7] to remind the defendant to monitor the son’s shares carefully. There was also reference to another sum of $100,000 she had given to the defendant for an Australian investment. This Australian investment was the plaintiff’s personal investment which was not profitable, and she wanted her money back. On 21 December 2018, the plaintiff and the defendant reached a private settlement on their dispute relating to this Australian investment. By 2019, the friendship between the parties was already poor. At the end of May 2019, the defendant moved out of his office situated next to the plaintiff’s office to a different floor.
+
+9       The plaintiff emailed the defendant twice on 15 and 31 July 2019[^8] seeking information on the status of the investment sum to which she did not receive any reply. So on 2 October 2019, a letter of demand was issued to the defendant.[^9] In this letter of demand, the plaintiff stated that the parties had an agreement pursuant to which the defendant had received the investment sum of $25,000 on 5 June 2012 on an express trust and that the defendant was therefore liable to account for the said sum in terms of providing information relating to the investment sum and the accounting of any profit or loss related to this investment sum.
+
+## The parties’ cases
+
+### The plaintiff’s version
+
+10     The plaintiff claimed that there was an oral agreement made between parties in June 2012 for the creation of an express trust for the trust property to be invested by the defendant for the benefit of the son. On that basis, she had handed the investment sum in the form of a cheque for $25,000 to the defendant to invest on behalf of the son who could then use the money as his college fund. She had trusted the defendant to invest because she thought that the defendant as the godfather to her son and a savvy investor could at the very least preserve the investment sum, if not, multiply the money.
+
+11     She also claimed that in her emails to the defendant, she had referred to the investment sum as an investment for the son as well as naming the defendant as the guardian of the son’s college funds. Therefore, there was no doubt that the investment sum was held on trust for the son. Should the express trust fail, the Court should find that there was a presumed resulting trust.[^10]
+
+### The defendant’s version
+
+12     The defendant denied that there was any trust created at all. All dealings were between the plaintiff and the defendant. Neither was there any agreement oral or otherwise for the creation of any trust. The investment was made out of the deep friendship they had and that they were law firm partners. The defendant is a lawyer and not a professional investor in stocks and shares. As no trust was created, he owed no duties as a trustee to the plaintiff and the son.[^11]
+
+13     Even if there was any agreement, the defendant also pleaded the defence of time bar [^12] in that more than 6 years had passed and the action was time barred by virtue of section 6(1) and (2) of the Limitation Act (Cap 163, Rev Ed 1996). Finally, the defendant also pleaded that the doctrine of laches would be applicable here[^13]. As there had been substantial lapse of time, it would be practically unjust to give any remedy because the plaintiff had by her conduct and neglect placed the defendant in a situation where it would be unconscionable to seek an account of the investment sum.
+
+## Issues to be determined
+
+14     In the present suit, the issues for determination are:
+
+> Issue 1:    Whether there was an express trust or presumed resulting trust created in favour of the son such that the defendant had the legal obligation to perform his duties as a trustee?
+
+> Issue 2:    Was the action time barred?
+
+> Issue 3:    If there was a trust and the plaintiff’s action was not time-barred, whether the defendant had breached his trustee’s duties and failed to account for the investment sum.
+
+## Issue 1- whether there was an express trust or presumed resulting trust created in favour of the son
+
+15     I shall first deal with the issue as to whether there was an express trust created in favour of the son. According to para 2 of the plaintiff’s letter of demand dated 2 October 2019[^14], the plaintiff alleged that the defendant held the money on an express trust.
+
+16     I found that there was no express trust created in favour of the son in 2012. According to the plaintiff, she made an oral agreement in June 2012 with the defendant that she was entrusting a sum of $25,000 to the defendant for him to invest this sum for the benefit of the son; in particular, for the son’s college funds. On that basis, she paid the defendant the investment sum on 5 June 2012. It was undisputed that this money was paid to the defendant as per the defendant’s admission at para 11 of the Defence.
+
+17     According to the defendant, the arrangement was for the plaintiff to “piggyback” on his share trades was a “causal arrangement with no conditions”. I found support for this assertion that it was a “piggyback” arrangement as on 2 June 2012, the defendant bought Apple shares in the defendant’s name and using the defendant’s own funds as the cheque of $25,000 was made only on 5 June 2012.
+
+18     It was undisputed that the onus was on the plaintiff to prove that there was indeed a trust created. As the agreement was oral, the Court had to infer from the conduct and dealings of parties such as the text messages between parties to ascertain the existence of an express trust. This was because the text messages were contemporaneous evidence that would shed light on the issue. I noted that the defendant was a lawyer and not a professional shares or stocks trader. As stated earlier, I found that the intention was not for a trust to be created but for the plaintiff to “piggyback” on the defendant’s share trades. It was particularly important to examine the contemporaneous evidence of the conduct and dealings of parties at the point when the trust was first allegedly created in June 2012.
+
+19     In this regard, the plaintiff’s witness candidly admitted that he “tried to keep out” of the frosty relations between the defendant and the plaintiff in December 2019 and that he had no personal knowledge of the Apple shares nor the alleged trust agreement. Hence, I turned to the evidence of the plaintiff and the defendant to make my findings.
+
+### Alleged oral agreement of trust in June 2012
+
+20     I found that the plaintiff had not proven that there was an oral agreement of trust. In para 13 of her AEIC[^15], her evidence was that the trust was created when she gave the Defendant the sum of $25,000 to invest in Apple Inc shares. Let us now examine the events surrounding this alleged creation of trust in June 2012.
+
+### Purchase of Apple shares on 2 Jun 2012
+
+21     Although the investment sum was given to the defendant on 5 June 2012, the defendant had bought Apple shares 3 days earlier on 2 June 2012 using these moneys. I should point out there were variations in the number of Apple shares bought and price at which these shares were purchased. At para 28 of the defendant’s AEIC[^16], he stated that he bought 30 shares of Apple at US $565 per share and this translated to US $16,950. In the defendant’s account dated 23 March 2020[^17], he stated that he bought around 50 Apple shares at USD 487.99 per share amounting to US $24,486.78. But this variation would not had made a difference in my decision. After purchasing the Apply shares, the defendant informed the plaintiff of this purchase. As rightly pointed out by the defendant[^18], the plaintiff’s reply had made no mention of a trust made by the Plaintiff[^19].
+
+### Cheque dated 5 June 2012 for the investment sum
+
+22     Even in the payment of the investment sum, there was no reference made to a trust. The plaintiff agreed in court[^20] that there was no such reference made. It was also clear that no conditions were made either as pointed out by the defendant in his opening statement.
+
+### Subsequent email exchanges between parties
+
+23     The first reference that the money was for the son occurred in the email thread of 29 October 2013, more than a year after the alleged creation of trust in June 2012. In the plaintiff’s emails sent on that day at 10.27am and 10.33am, she stated that the $25,000 was for the son and the purpose was for the son’s college fund. Further reference to the son was made on 9 February 2015 with email header entitled “the son investment”[^21] . On 5 July 2016, reference was made to “the son’s $25,000” [^22]. There was another reference to the son’s Apple stocks made on 12 July 2016 by the plaintiff [^23].
+
+24     The case law on creation of an express trust is trite. Although an express trust is usually in writing, such a trust can be created orally. In this situation where the agreement to create a trust is oral, the Court must infer from the conduct and dealings of parties whether an express trust has been created. As enunciated by the Court of Appeal in _Guy Neale and others v Nine Squares Pty Ltd_ <span class="citation">\[2014\] SGCA 64</span> at \[52\], an express trust must fulfil three certainties- certainty of intention, certainty of subject matter (property subjected to the trust) and certainty of object (beneficiary).
+
+25     To my mind, based on the dealings between parties as outlined earlier, the plaintiff had failed to establish certainty of intention at the allegedly creation of trust in June 2012 which was the date of creation of the trust as pleaded by the plaintiff in para 3 of the Statement of Claim. There was no mention of a trust nor any terms and conditions of such trust at all. Hence, I found that no express trust had been created in June 2012.
+
+26     I shall next deal with whether there was a presumed resulting trust. The plaintiff had submitted [^24] that by operation of law, a presumed resulting trust was created in favour of the son. As I have ruled that the plaintiff’s claim that there was an express trust created had failed, the question was whether there was a presumed resulting trust.
+
+27     Here, I found that there was a presumption of a resulting trust in that the defendant had acknowledged that the $25,000 was not a gift and he was allowing the plaintiff to “piggyback” on his trades by using this money to invest in the defendant’s name. At \[129\] of the High Court decision of _Lim Ah Leh v Heng Fock Lin_ <span class="citation">\[2018\] SGHC 156</span> (“_Lim Ah Leh_”), a resulting trust arises whenever the intention of a transferor to benefit a transferee is vitiated or absent. Here, the plaintiff made a voluntary payment to the defendant which was vested in the defendant alone. Here, it was common ground that the plaintiff paid the money to the defendant voluntarily, not intending to make a gift to the defendant of the money.
+
+## Issue 2: Was the action time barred?
+
+28     This defence had been pleaded in para 22 of the Defence. Para 22 of the Defence clearly stated that the defendant was relying on the time bar afforded by the Limitation Act and the defendant had pleaded the material facts such as the alleged oral agreement between the plaintiff and the defendant was made more than 6 years ago.
+
+29     Ordinarily, section 6(2) of the Limitation Act applies such that any action for an account shall not be brought for any matter which arose more than 6 years before the commencement of the action. However, section 22(1)(b) of the Limitation Act provides for an exception to this rule for trust property. A beneficiary such as the son can seek to recover from the trustee trust property or proceeds thereof in the possession of the trustee or previously received by the trustee and converted to his use.
+
+30     The defendant had exhibited an account of the status of the investment sum[^25]. In this account of the investment dated 23 March 2020, he stated that as at 20 March 2020, the value of the investment was USD 6,427.
+
+31     The present suit was filed on 10 December 2019. The cheque for the investment sum was dated 5 June 2012. This would mean the time bar kicked in from 4 June 2018 onwards unless I rule that the time bar did not apply by virtue of section 22(1)(b) of the Act.
+
+32     In _Lim Ah Leh_, the High Court had enunciated that for section 22(1)(b) of the Act to apply, the plaintiff bears the burden of proof that the defendant is still in possession of the trust money. However, the plaintiff must adduce evidence to show any of the trust money is still in the defendant’s possession when the plaintiff commenced action. The Court of Appeal also upheld the High Court decision on appeal.
+
+33     In the present suit, prior to the commencement of the suit on 10 December 2019, the plaintiff emailed the defendant twice on 15 and 31 July 2019 seeking information on the investment sum[^26]. At para 38 of her AEIC, the plaintiff conceded that she did not receive a response from the defendant. This was further confirmed by her statement in para 47 of her AEIC[^27] that she still did not have knowledge of the status of the alleged trust monies. The plaintiff’s AEIC was sworn on 19 August 2020. This meant that as at 19 August 2020, the plaintiff still had no knowledge of the status of the investment sum. At para 25 of the plaintiff’s AEIC[^28], the plaintiff admitted that her last email to the defendant asking about the status of the investment sum was on 12 July 2016. This meant that she did not pursue the Defendant for any account of the investment sum from the defendant from 12 July 2016 until her 2 emails of 15 and 31 July 2019. This was a 3 years gap for which she could have sought an account but did not do so as she had assumed that the defendant would inform her of any loss or profit and when was a good time to liquidate the investment. It was also apparent that she did not ascertain if there was any alleged trust money still in the defendant’s possession when she commenced the action on 10 December 2019.
+
+34     This led me to the conclusion that the plaintiff had not satisfied the test laid down in _Lim Ah Leh_ in that she had not adduced any evidence to show any of the trust money was still in the defendant’s possession when she commenced the action on 10 December 2019. Therefore, I found that section 22 (1)(b) of the Limitation Act did not apply and the plaintiff’s action was time-barred under section 6(2) of the Limitation Act.
+
+## Issue 3: Whether the defendant had breached his trustee’s duties and failed to account for the investment sum
+
+35     Given the finding that the plaintiff’s action was time-barred, there was no necessity to deal with this secondary issue relating to the alleged breach of trustee’s duties.
+
+### Doctrine of laches
+
+36     Along the same vein, as the plaintiff’s claim was time barred, there was no necessity to dwell on this defence.
+
+## Conclusion
+
+37     For these reasons, I dismissed the plaintiff’s claim. The plaintiff’s counsel submitted that I should award costs on an indemnity basis as the trial could have been avoided if parties had settled and without prejudice offers to settle were made, save as to costs.
+
+38      After hearing parties’ submissions on costs, I declined to award costs on indemnity basis and fixed costs of the trial at $9,000 plus disbursements to be paid by the plaintiff to the defendant as the claim had been dismissed.
+
+* * *
+
+[^1]: PBD p1
+
+[^2]: BA p18
+
+[^3]: BA p20
+
+[^4]: BA p19
+
+[^5]: BA p 21
+
+[^6]: BA p 23
+
+[^7]: BA p 25
+
+[^8]: BA p 26-27
+
+[^9]: BA p 28
+
+[^10]: Plaintiff’s Closing Submissions dated 12 March 2021, para 17
+
+[^11]: Defendant’s Closing Submissions filed on 12 March 2021, para 3
+
+[^12]: Defendant’s Closing Submissions filed on 12 March 2021, para 33
+
+[^13]: Defendant’s Closing Submissions filed on 12 March 2021, para 59
+
+[^14]: BA p 28
+
+[^15]: BA p 5
+
+[^16]: BA p 37
+
+[^17]: BA p127
+
+[^18]: Defendant’s Closing Submissions filed on 12 March 2021, para 39
+
+[^19]: BA p 104
+
+[^20]: Transcript (9 February 2021) p16, lines10-15
+
+[^21]: BA p 7
+
+[^22]: BA p 8
+
+[^23]: BA p 10
+
+[^24]: Plaintiff’s Closing Submissions dated 12 March 2021, para 17-18 and 28
+
+[^25]: BA p 127
+
+[^26]: BA p 12
+
+[^27]: BA p 14
+
+[^28]: BA p 10
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F25828-SSP.xml)

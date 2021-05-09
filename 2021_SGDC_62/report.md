@@ -1,0 +1,243 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Ko King Lik Benson  
+
+### \[2021\] SGDC 62
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">District Arrest Case No. 906930 of 2018 &amp; 5 Ors, Magistrate's Appeal No. MA-9899-2020-01</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">29 March 2021</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Shaiffudin Bin Saruwan</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">DSP Toby Wong for the Prosecution; The Accused in person</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Ko King Lik Benson</td></tr></tbody></table>
+
+Criminal law – statutory offences – Immigration Act – s 57(1)(k)
+
+\[LawNet Editorial Note: An appeal to this decision has been filed in MA 9899/2020/01.\]
+
+29 March 2021
+
+### District Judge Shaiffudin Bin Saruwan:
+
+## Introduction
+
+1       The Accused is Ko King Lik Benson. On 25 May 2014, he had registered his marriage to an Indonesian national, Dian Evasari Wijaya (“Dian”). Subsequent to that marriage, he had gone with Dian to the Immigration and Checkpoint Authority (“ICA”) on five occasions to make applications for Visit Pass (“VP”), Long Term Visit Pass (“LTVP”) and Permanent Residence (“PR”) for Dian. In all these applications, Dian was the applicant. The Accused had acted as her sponsor.
+
+2       As the sponsor in these applications, the Accused had to, _inter alia_, declare all his marriages, including customary marriages, in the application forms. However, he had omitted to declare his marriage to a Hong Kong resident named Yuk Yee Ling (“Yuk”). Despite the omissions, he had signed the forms which included the declaration that the statements that he had made in the forms were true and correct. Therefore, the Accused had made false statements to ICA.
+
+3       He claimed trial to the five charges. He was not represented by counsel.
+
+## The charges
+
+4       The five charges were for offences under s 57(1)(k) punishable under s 57(1)(vi) of the Immigration Act (Cap 133)(“IA”). The details were as follow –
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="25.14%"> <col width="44.28%"> <col width="30.58%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Date</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Application for</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Exhibit marking</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">26 Sep 14</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">VP for Dian (Form 14)</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1">P22</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">10 Oct 14</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">VP for Dian (Form 14)</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1">P23</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">12 Feb 15</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">PR for Dian (Form 4)</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1">P15</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">16 Mar 15</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">LTVP for Dian (Form 14B)</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1">P17</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="center" class="Table-Para-1">7 May 15</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="center" class="Table-Para-1">LTVP for Dian (Form 14B)</p></td><td align="left" class="" rowspan="1" valign="top"><p align="center" class="Table-Para-1">P19</p></td></tr></tbody></table>
+
+  
+  
+
+## The trial
+
+### The prosecution’s case
+
+5       The prosecution’s case in relation to the five charges were –
+
+> (a)     On 16 March 2015 and 7 May 2015, the Accused had gone to the Visitor Services Centre (“VSC”) at ICA to submit two application forms for LTVP (“Form 14B”). Dian was the applicant and he was her sponsor. In “Part 1(B): Marital Status and History” of the application forms, he had declared his previous local marriages with Cheong Oi Yeng (“Cheong”) and Alicia Lim Lee Hwee (“Alicia Lim”). The prosecution contended that he had knowingly omitted to declare his marriage to Yuk. At the relevant time, his marriage with Yuk was still subsisting as the decree nisi absolute had not been obtained. Despite the omissions, the accused person had signed the application forms. In doing so, he had declared that the statements that he had made in the two application forms were true and correct. He knew that the declarations were false.
+
+> (b)     On 26 September 2014 and 10 October 2014, the Accused had gone to the VSC to submit two applications for LTVP (“Form 14”). Dian was the applicant and he was her sponsor. In “Part II Sponsor” of the forms, found at the annex of the Form 14, he had to declare all his marriages, including customary marriages. The Accused had only declared his previous local marriages with Cheong and Alicia Lim on the Form 14 dated 26 September 2014. In the Form 14 dated 10 October 2014, he had entered “NA” or “not applicable”. He had knowingly omitted to declare his marriage to Yuk in both these forms. Despite the omissions, he had signed the two forms. In doing so, he had declared that the statements that he had made in the two Form 14 were true and correct. He knew that the declarations were false.
+
+> (c)     On 12 February 2015, the Accused and Dian had gone to the Permanent Residence Services Centre (“PRSC”) at ICA to apply for permanent residence for Dian. Dian was the applicant and he had acted as her sponsor. In the application form (“Form 4”) at “Part F – Sponsor’s Particulars”, the Accused was asked to declare all his marriages, including customary marriages. He had only declared his two previous local marriages to Cheong and Alicia Lim. He had knowingly not declared his marriage to Yuk. Despite this omission, he had signed the form. In doing so, he had declared that the statement that he had made in the Form 4 was true and correct. He knew that this declaration was false.
+
+6       The offences were discovered when the Accused made a citizenship application for his son from his marriage to Dian in August 2015. In the course of processing the citizenship application, ICA discovered that the Accused had previously sponsored similar citizenship applications in 2010 and 2014 for his two children from his marriage to Yuk. In these applications, the Accused had made two statutory declarations stating that as of 19 Oct 10 and 24 Feb 14, Yuk was his one and only wife[^1]. This information was relayed to the staff at PRSC.
+
+7       ASP Teo Geok Cheng (“ASP Teo”) was the senior processing officer at the PRSC at the time. She was the approving officer in relation to Dian’s PR application. After she was alerted to the information regarding the Accused’s marriage to Yuk, she had retrieved the PR application form (P15) and found that the Accused had not declared his marriage to Yuk in the said form. She then referred the matter to the Enforcement Command of ICA for further investigation. Consequently, the omissions in all the other application forms in P17, P19, P22 and P23 were revealed.
+
+8       ASP Teo described the process how a PR application was submitted at the PRSC. She said that when the application form was submitted at the PRSC counter, the officer at the counter would check to confirm that the form was correctly filled up and signed. The officer would also verify the duplicate copies of all the relevant documents attached against the original documents. She also said that the applicant and sponsor would append their signatures at the counter. Subsequently, the forms would be handed over to a procession officer like herself for approval or rejection. In the course of processing the application, she would also conduct her own checks using the ICA systems.
+
+9       ASP Teo confirmed that when the Accused had appended his signature on the application form, he was making the declaration that everything stated in the form were true[^2]. She also testified that the phrase “all other marriages (including customary marriages)” at Part F of P15 referred to marriages contracted in Singapore or overseas, including such marriages which were not formally registered[^3].
+
+10     The prosecution’s case was that the Accused had been wilfully blind to what the phrase “all marriages” and “all other marriages” in the respective forms had meant. He had not made any effort to ascertain or verify with the staff at ICA what the phrases had meant.
+
+### The defence’s case
+
+11     The Accused’s defence, as it could be gleaned from his examination-in-chief, were as follow –
+
+> (a)     He did not intentionally omit to declare his marriage to Yuk. He added that he did not stand to benefit from not declaring that marriage in the application forms;
+
+> (b)     The Accused had not filled up the application forms himself. The entries were made by Dian and he had relied on Dian to ensure that the information was true and correct;
+
+> (c)     Dian had been given the impression by the ICA staff that only local marriages should be declared in conformity with his marriage record with the Registry of Marriages;
+
+> (d)     The phrases “all marriages” and “all other marriages” in the application forms were only referring to local marriages. There was nothing in the phrases that suggested that they included marriages contracted overseas. He made references to other parts of the same application forms where it was expressly stated that the information that were required to be declared were either ‘local’ or ‘overseas’.
+
+### The issues to be determined
+
+12     The issues to be determined were as follow –
+
+> (a)     The Accused knew or has reason to believe that he had to declare both his local and overseas marriages; and
+
+> (b)     Did the Accused make the five false statements in the application forms.
+
+### Analysis of the evidence
+
+13     It would be useful to set out the relevant phrases in the five application forms that the prosecution alleged the Accused had failed to comply with –
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="38.1%"> <col width="61.9%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Form 14B (16 Mar 15)</p><p align="center" class="Table-Para-1">(Exhibit P17)</p></td><td align="left" class="b" rowspan="2" valign="top"><p align="center" class="Table-Para-1">“please declare all marriages (including customary marriages)”</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Form 14B (7 May 15)</p><p align="center" class="Table-Para-1">(Exhibit P19)</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Form 4 (12 Feb 15) (Exhibit P15)</p></td><td align="left" class="b" rowspan="3" valign="top"><p align="center" class="Table-Para-1">“Particulars of Sponsor’s All <u>Other</u> Marriages (Including Customary Marriages)”</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Form 14 (26 Sep 14) (Exhibit P22)</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Form 14 (10 Oct 14) (Exhibit P23)</p></td></tr></tbody></table>
+
+  
+  
+
+14     The following facts were not in dispute –
+
+> (a)     The five application forms were filled up by Dian who used the Accused’s SingPass with his consent to access the forms in the ICA website. Upon the completion of the forms, a date was then scheduled for Dian and the Accused to attend at VSC and PRSC.
+
+> (b)     On the appointment date, the printed forms with supporting documents were then submitted at the VSC and PRSC counters. At the point of submissions of the forms, both Dian and the Accused signed the declarations that the contents in the forms were true and correct.
+
+> (c)     The forms and the supporting documents were checked by the officers at the counter.
+
+> (d)     At the time when the Accused signed the five application forms, he knew that he was previously married to Yuk, and that the marriage was solemnised in Hong Kong on 14 February 2010 (Exhibit P11). He also knew that divorce proceedings were then underway in Hong Kong. The marriage was only dissolved by a decree nisi absolute on 30 July 2018.
+
+> (e)     At the time when he signed the declarations in the five application forms, his marriage to Yuk was not declared in the said forms.
+
+> (f)     By signing on the application forms, the Accused had declared that the statements made by Dian and him in the said application forms were true (vide Form 4), were true and correct (vide Form 14B) and, were true and correct to the best of his knowledge, and that he had not wilfully suppressed any material fact (vide Form 14).
+
+> (g)     The Accused was present on each occasion when Dian submitted the five applications at the VSC and PRSC at ICA[^4]. Dian had handed the forms to the Accused and had asked him to check before he signed the forms[^5]. After the Accused had signed the forms, she submitted them to the staff at the VSC and PRSC.
+
+#### The Accused knew or has reason to believe that he had to declare both his local and overseas marriages
+
+15     The Accused claimed that the phrases ”all marriages” and “all other marriages” in the application forms were either not specific and/or were not self-explanatory, in that, there was nothing in these phrases that suggested they included overseas marriages as well. As such, he had interpreted the phrases to mean local marriages only and had therefore complied with the requirement when he had declared his two previous local marriages.
+
+16     The prosecution witnesses all gave consistent evidence in that the phrases “all marriages” and “all other marriages” in the application forms referred to marriages contracted both locally and overseas, and such marriages included those which were registered and those which were not registered. These prosecution witnesses comprised the officers and staff at the Citizenship Unit, PRSC and VSC, as well as some temporary staff who were deployed at the e-Lobby at the ICA building during the material time. The evidence adduced also showed that if the applicant or sponsor had any doubt or query in relation to the application forms, there were avenues in which they could make enquires to address these doubt or query. These were via email, or personal queries with the officers and staff who manned the various counters and the e-Lobby at ICA. They could also ask the officers who manned the counters at the point of submission of the forms.
+
+17     I was of the view that on a plain reading of the phrases “all marriages” and “all other marriages”, the meaning was clear and unambiguous. In other words, they were self-explanatory. They referred to all marriages contracted in Singapore and overseas. I agreed with the prosecution’s submission that the phrases encompassed the widest definition possible, that is, they included both local and overseas marriages, whether they were registered or unregistered. I failed to see how the Accused could had come to the conclusion that these phrases were limited to only local marriages. His contentions that the word “all” was not universally understood and was not specific, were untenable. His effort at trying to draw an analogy with other sections of the forms that contained the specific words “Singapore”, and “any other country”, was quite off the mark and misconceived.
+
+18     Even taking the Accused’s case at its highest, that the phrases were ambiguous and unspecific, the onus was on him to make inquiries with the ICA officers and staff as to their precise meaning before signing the declarations. The evidence showed that there were ample opportunities for the Accused to do this in order to dispel any lingering doubt that he had because of the ambiguous and unspecific nature of the phrases. However, he did not do this despite being present with Dian at the VSC and PRSC on all the five occasions when the forms were submitted. In court, when pressed on this point, he audaciously shifted the blame on ICA saying that nobody from ICA had checked whether the information was true or not, that the applications had been approved, and that ICA was now pushing the blame on him[^6].
+
+19     Therefore, at the very least, I agreed with the prosecution that the Accused was at least wilfully blind to the meaning of the phrases in question. The concept of wilful blindness as knowledge was recently articulated by the Court of Appeal in _Adili Chubuike Ejike v PP_ <span class="citation">\[2019\] SGCA 38</span>. The Court of Appeal set out the elements of wilful blindness as follows –
+
+> (a)     The Accused must have had a clear, grounded and targeted suspicion of the fact to which he was said to have been wilfully blind;
+
+> (b)     There must have been a reasonable means of inquiry available to the Accused, which, if taken, would have led him to the discovery of the truth; and
+
+> (c)     The Accused must have deliberately refused to pursue the reasonable means if inquiry available so as to avoid such negative legal consequences as might arise in connection with his knowing that fact.
+
+20     The Accused had doubts about the ambit of the phrases. He had also claimed that they were non-specific. It would logically follow that he would have a clear, grounded and targeted suspicion of the fact to which he had been wilfully blind. In this case, he would have a clear, grounded and targeted suspicion that the phrases could also refer to marriages contracted locally and overseas. He could have easily ascertained the exact meaning of the phrases by making inquiries. There were reasonable means of inquiry available to him to do so. These have been laid out in \[16\] above. However, he did not avail himself of these reasonable means of inquiry.
+
+21     On an assessment of the evidence as a whole, I found that a reasonable inference could be made that the Accused had deliberately not made the inquiries because he knew or had reason to believe that if he had declared his marriage to Yuk in the said forms, the applications would have been rejected. This was because the Accused would not have been able to produce proof that the said marriage had been dissolved, as the decree nisi absolute was only obtained in July 2018. Therefore, he was wilfully blind to the fact that the phrases referred to local and overseas marriages.
+
+#### Did the Accused make the false statements in the five application forms?
+
+22     The Accused ran the argument that for convenience I would refer to as the “Dian defence”. There were two parts to this defence. Th first part was the argument that all the information in the five application forms, including the information required to be entered by the sponsor, had been filled up by Dian. After she had completed filling up the forms, she had handed the finished forms to him to append his signatures as her sponsor. The second part was that Dian had been misled into believing by the staff at the VSC that she was only required to declare the Accused’s marriage records as reflected in the Registry of Marriages (“ROM”) search document. This misrepresentation was made in relation to the application for LTVP dated 26 Sep 14 (P22). To be clear, the ROM search document only showed the Accused’s marriages to Cheong and Alicia Lim.
+
+23     In relation to the first part of the Dian defence, I agreed entirely with the prosecution that the onus was on the individual applicant and sponsor to ensure that the information contained in the application forms were true and correct before they append their signatures and submitted them to ICA. Even if Dian had entered all the information in these application forms, it was incumbent on the Accused to check and verify that the information were true and correct. This was especially so in relation to the information which the sponsor was required to enter. When he signed the forms, he had in essence declared that the information for which he made the declaration was true and correct. In my view, this position was consistent with the way the application forms were structured. The information required from the applicant and sponsor were clearly demarcated and separated, and the applicant and sponsor had to make their own individual declarations that the information entered in their respective sections were true and correct. All these showed that the applicant and sponsor were responsible for entering the information required in their respective parts, and ensure that the information were true and correct, and thereafter make the declaration that the information was true and correct. Therefore, his argument that Dian, and not he, had filled up the application forms was irrelevant.
+
+24     On the second part of the Dian defence, I found that there were significant inconsistencies in the accounts given by the Accused and Dian relating to the circumstances in which Dian had been purportedly misled into believing that she was only required to declare the Accused’s local marriages.
+
+25     Firstly, the Accused own testimony on this point was internally inconsistent. In the early part of his cross-examination, his position was that the misleading advice was offered in relation to the application for a LTVP dated 16 Mar 15 (P17). He said an unknown intern at the ICA e-Lobby had pointed out Dian’s mistake in not declaring the Accused’s previous local marriages in the earlier applications. The Accused further said that the intern had advised Dian to find out if the Accused was legally divorced in Singapore, and that for her own protection, it was advisable that she checked with ROM before she made the application[^7]. However, later on in the same cross-examination, he suddenly changed his evidence and asserted that the unknown intern had given the advice to Dian in relation to the application form for LTVP dated 26 Sep 14 (P22). He was not able to give any cogent reason for the significant shift in his evidence[^8].
+
+26     Secondly, the two versions of his oral evidence were wholly inconsistent with his own statements made to ICA. These comprised the five caution statements recorded on 23 Feb 18[^9], and the long statement recorded on 18 Apr 16[^10]. In the five caution statements, the Accused had stated that “\[t\]he ICA auto kiosk and ICA officers guiding me to fill the form only told me to fill out my local marriages as specify (_sic_) in the ROM printout”. In his long statement, he had stated that Dian had “…presumed that the 2 local marriages with Cheong Oi Yeng and Alicia Lim Lee Hwee were the only recognised marriages registered in Singapore and required to be filled up on the form”. Nowhere in these statements did the Accused the versions that he had conjured in his oral testimony in court.
+
+27     Significantly, Dian’s oral testimony on this point was wholly different from that of the Accused. Dian said that she was told by a female officer at the VSC counter that she had declared the part relating to the Accused’s marriages in P22 wrongly. When she filled up P22, she had entered “N.A.” in that part of the form. She said that when she submitted P22 at the VSC counter, the female staff had told her that she was required to include the Accused’s previous local marriages in P22. This was because Dian had attached the ROM printout with P22. The printout contained the two local marriages which the Accused had previously contracted. Importantly, although Dian knew about the Accused’s marriage to Yuk in Hong Kong, she did not ask the VSC officer whether she should declare this marriage in P22. Dian also said that she had not told the Accused that the VSC officer had told her to make the amendments to P22[^11].
+
+28     There was one other aspect of the version offered by the Accused in his oral testimony that I found to be wholly unsatisfactory. According to the Accused, Dian had acted on the advice, used his SingPass to obtain the ROM printout and thereafter filled in the relevant declarations in accordance to the information in it. However, Dian’s evidence on this point was entirely different. She said that she already had the ROM printout before she and the Accused had registered their marriage in Indonesia. This was because the Singapore Embassy required the ROM printout before it would issue a recommendation to the Indonesian marriage registry that the Accused was eligible to marry her. It seemed that, contrary to what the Accused had wanted the court to believe, when Dian filled up P22, she was already in possession of the ROM printout. This was significant because this meant that she would have already known that the Accused had been married and divorced twice previously. This effectively demolished the Accused’s version that he gave in court about the advice rendered by the unknown intern and Dian acting on that advice.
+
+29     The version the Accused had offered in his caution statements were also rejected because this version was wholly inconsistent with Dian’s evidence that she had filled up the entries in the five application forms herself. After she had done that, she had handed the completed forms to the Accused for his signatures. The Accused did not challenge this part of Dian’s evidence. In fact, he had in essence confirmed it when he admitted that he had signed the forms without checking the accuracy of what Dian had entered. It followed therefore that the Accused’s story in his caution statements about being told by ICA officers to declare only his local marriages were completely untrue. This was because his case in court was that the forms had been filled up by Dian, and not him.
+
+30     In light of these obvious and glaring inconsistencies in the Accused’s evidence, the only conclusion that I could arrive at was that the Accused was not a credible witness. In my mind, Dian’s narration of the circumstances that had led to P22 was the closest to the truth. However, as I had stated earlier, Dian’s knowledge at the time was irrelevant. It was incumbent on the Accused to conduct his own checks to satisfy himself as to the accuracy of the information contained in the forms before he signed on the declarations.
+
+31     I was therefore satisfied that the prosecution has proven its case against the Accused on all five charges beyond reasonable doubt. I duly convicted him on the five charges.
+
+### The stood down charge
+
+32     After the conviction on the five charges, the Accused admitted and consented to have the stood down charge taken into consideration for the purpose of sentencing. The charge was for an offence under Article 124(1) of the Constitution of the Republic of Singapore and punishable under Paragraph 10(1)(a) of the Third Schedule of the same Constitution. The Accused had made a false statement in a Singapore Citizenship application form for his son to induce the Minister to grant a Singapore Citizenship to his son. The false statement was in relation to his declaration that he had only two previous marriages. He had omitted to declare his marriages to Yuk and to one Aye Thet Mon.
+
+## Antecedents
+
+33     On 20 October 1995, the accused person was convicted on six charges under s 128(1)(c) of the Customs Act, Cap 70. These were for falsifying documents which is required under the Act or documents used in the transaction of any business or matter relating to customs. He was fined $1,000 on each of the six charges.
+
+34     On the same day, he was also convicted on a charge under s 130(1)(f) of the Customs Act, Cap 70, and read with s 26 and s 77 of the Goods and Services Act, Cap 117A. The offence was for being concerned in a fraudulent evasion or attempt at fraudulent evasion of a customs duty. He was fined $1,000.
+
+## The sentence
+
+### The prescribed punishment
+
+35     The prescribed punishment for an offence under s 57(1)(k) punishable under s 57(1)(vi) IA was a fine not exceeding $4,000 or to imprisonment not exceeding 12 months or to both.
+
+### Submissions on sentence
+
+36     DSP Toby Wong sought for a sentence of at least six weeks’ imprisonment on each of the proceeded charges. He submitted that three sentences should run consecutively, making the total aggregate sentence 24 weeks’ imprisonment. The basis for the sentencing submissions were set out in the paragraphs below.
+
+37     DSP Wong applied the sentencing considerations set out in _Abu Syeed Chowdhury v PP_ <span class="citation">\[2002\] SGHC 14</span> (“_Abu Syeed Chowdhury_”). The High Court (at \[26\] of the judgment) had stated that where a false representation or statement was made under the various limbs of s 57(1) IA, a custodial sentence should be the applicable norm. Fines should only be imposed under exceptional circumstances. In determining the sentence, the High Court set out the four considerations that the sentencing court should take into account –
+
+> (a)     The materiality of the false representation in the mind of the decision maker;
+
+> (b)     The nature and extent of the deception;
+
+> (c)     The consequences of the deception; and
+
+> (d)     The personal mitigating factors that applied to the offender.
+
+#### Materiality of the false representation or statement
+
+38     The declarations were material considerations in the decision-making process of whether to approve or reject the applications. If it was known to ICA that the accused person had not declared his marriage to Yuk in the five applications, they would have rejected the applications, and relayed the matter to either the Investigation Branch of ICA or the police for investigation for possible offences of making false statements.
+
+#### Nature and extent of the deception
+
+39     The deception perpetrated by the accused person in the five applications spanned over a period of about seven months. There was an element of conscious defiance shown by the accused person in refusing to make any attempt to verify with the staff at ICA regarding the meaning of the phrase all marriages, despite being of the view that the phrase was “unspecific”. The accused person had ample opportunity to verify but he did not. In fact, his answers to his caution statements and his conduct at trial showed that he arrived at his own views of the phrase and refused to contemplate that he could have been or was wrong.
+
+#### Consequences of deception
+
+40     DSP Wong pointed out that as a result of the deception, the various applications were approved and Dian was granted VP and LTVP, as well as PR status.
+
+#### Personal mitigating factors
+
+41     DSP Wong did not make any submission on this. However, he highlighted that as the accused person had not pleaded guilty to the charges, therefore he was not entitled to a reduction in the sentences.
+
+#### General aggravating factors
+
+42     Following from the above, DSP Wong submitted that the accused person had in fact not expressed remorse or contrition. The absence of remorse could be gleaned from his conduct during the trial where he had cast aspersions on the integrity of the prosecution witnesses. He made baseless allegations that all the prosecution’s witnesses had been tampered with, were coached on what to say in court and had concealed evidence. These aspersions were thrown not just at the fulltime ICA officers and staff, but also at its temporary staff who at the time of the trial, were no longer working at ICA.
+
+### The mitigation plea
+
+43     The Accused delivered a short oral mitigation. He highlighted that if he was sentenced to imprisonment, it would mean the end of his career. This was because it would be very difficult to find a new job given his age. Significantly, he maintained that he had not committed the offences knowingly. He insisted that he had relied on the ICA officer’s correction of Dian’s first application for a VP. He maintained that this was a small matter and had been ‘overblown’.
+
+### The sentence
+
+44     The applicable sentencing consideration in this case are the four factors set out in _Abu Syeed Chowdhury v PP \[2002\] 1 SLR 182 (at \[27\] to \[31\])_. In relation to the first consideration of materiality, the evidence adduced showed that the declarations involving the Accused’s marriages were material to the VSC and PRSC consideration whether to grant the LTVP and PR to Dian. This was because, under the law in Singapore, the Accused as sponsor could only have one legal marriage in force. If VSC and PRSC had been aware of the Accused’s omission, the applications would have been rejected and the matter referred to the relevant authority for investigation.
+
+45     On the nature and extent of the deception, it was clear from the evidence that the Accused had refused to make any attempt to confirm with ICA on the exact meaning of the phrases, despite holding the view that the phrases “ all marriages” and “all other marriages” were unspecific. The Accused had ample opportunities to clarify this with the staff at the VSC and PRSC. He did not. Instead he held on to the definition that best suited his purpose. In this there was an element of defiance.
+
+46     The deception had resulted in Dian’s applications for LTVP and PR being granted. The applications were granted on the basis that the VSC and PRSC had believed that the Accused had truthfully declared all the details of his marriages at the time the applications were made. In that regard, the consequences of the Accused’s offences were serious.
+
+47     I did not find any personal mitigating factor in favour of the Accused. He had not just claimed trial, but his conduct at trial was reprehensible. He had used the trial platform to throw spurious allegations of impropriety against the ICA staff, and in particular, the Investigation Officer Teh Meng Li. It was also noted that the offences were uncovered not because the Accused had owned up to them. In fact, even after he was found guilty of the offences, he continued to maintain that the whole thing was a minor issue and had been overblown by ICA.
+
+48     In addition, the Accused had previous antecedents involving offences of a similar nature. He had falsified Customs documents. This showed a propensity for dishonesty. He had no qualms about making false statements to government departments. This constituted an additional aggravating factor.
+
+49     I agreed with the prosecution’s submission that the sentencing starting point should be three to four weeks’ imprisonment. This was taking guidance from the cases cited by the prosecution namely, _PP v Chee Eng Seng Michael_ (DAC 912720/14 & Ors) and _PP v Peh Bok Chye_ (DAC 941566/17 & Anor). However, I agreed with the prosecution that an uplift was warranted given that the Accused had claimed trial, the reprehensible manner in which he had conducted the trial, and the fact that his antecedents involved offences of a similar nature. In my view an uplift of two weeks for each individual charge was appropriate and warranted.
+
+## Conclusion
+
+50     I therefore imposed a sentence of six weeks’ imprisonment for each of the proceeded charge. Having regard to the totality principle, I was of the view that two of the five sentences should run consecutively, making the total aggregate sentence 12 weeks’ imprisonment.
+
+51     The accused person has lodged an appeal against conviction and sentence. He is currently on bail pending appeal.
+
+* * *
+
+[^1]: Exhibits P8 and P10.
+
+[^2]: NE Day 1, page 69 lines 3-10.
+
+[^3]: NE Day 1, page 69 line 29 to page 70 line 1.
+
+[^4]: NE, Day 5, page 39 lines 31-32, page 40 lines 1-2 and page 41 lines 19-21.
+
+[^5]: NE, Day 4, page 41 line 30 to page 42 line 2; Day 5, page 29 lines 25-32, page 30 lines 1-28 and page 36 lines 2-10.
+
+[^6]: NE Day 4 page 170 lines 12-26.
+
+[^7]: NE Day 4 page 107 line 32 to page 108 line 11.
+
+[^8]: NE Day 4 page 160 lines 12-33; page 161 line 1 to page 162 line 3.
+
+[^9]: Exhibits P30 to P34.
+
+[^10]: Exhibit D1.
+
+[^11]: NE Day 5 pages 45 to 54.
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F25820-SSP.xml)

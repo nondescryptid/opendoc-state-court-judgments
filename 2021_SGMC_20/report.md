@@ -1,0 +1,268 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Kwan Soo Chin  
+
+### \[2021\] SGMC 20
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Magistrate's Arrest Case No. 910264 of 2018, Magistrate's Appeal 9007-2021-01</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">05 April 2021</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">Magistrates Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Ng Peng Hong</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Lim Yu Hui (Attorney-General's Chamber) for the Prosecution; Peter Ong Lip Cheng (Peter Ong Law Corporation) for the Accused.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Kwan Soo Chin</td></tr></tbody></table>
+
+Criminal Law – Offences – Causing grievous hurt by negligent act which endangered personal safety – Criminal Procedure and Sentencing – Sentencing
+
+\[LawNet Editorial Note: An appeal to this decision has been filed in MA 9007/2021/01.\]
+
+5 April 2021
+
+### District Judge Ng Peng Hong:
+
+## Introduction
+
+1       The Accused claimed trial to an offence punishable under section 338(b) of the Penal Code (Chapter 224, 2008 Rev. Ed) ("Penal Code"). She was convicted and sentenced to pay a fine of $4,000, in default 10 days' imprisonment. The fine has been paid.
+
+2       The Accused is appealing against her conviction and sentence.
+
+3       The charge against the Accused is as follows:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="23.46%"> <col width="76.54%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Charge no</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Details</b></p></td></tr><tr><td align="left" class="r" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">MAC-910264-2018</p></td><td align="left" class="" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">that you, on 14 January 2018, at or about 3pm, along Bishan Place, Singapore, being the front seat passenger in motor car bearing registration number SLU 2950S, did cause grievous hurt to Tan Boon Heng, who was the rider of motorcycle bearing registration number FBL 7855S, by doing an act so negligently as to endanger the personal safety of others, to wit, by failing to keep a proper lookout when opening the front passenger car door and causing it to hit the said Tan Boon Heng, who was riding on the left of the said motor car, which resulted in him sustaining a fracture to the middle phalanx of the right little finger, and you have thereby committed an offence punishable under Section 338(b) of the Penal Code (Cap 224, 2008 Rev Edition).</p></td></tr></tbody></table>
+
+  
+  
+
+## Undisputed Facts
+
+4       It was not disputed that Tan Boon Heng (the “**_Victim_**”) was the rider of motorcycle bearing registration number FBL 7855S (the “**_motorcycle_**”). The Accused was the front seat passenger in a motor car SLU 2950 S (the “**_car_**”) driven by Chong Piang Teng (DW2). DW2 was a colleague of the Accused.
+
+5       On the material day and time, both the vehicles were travelling along Bishan Place, a single lane 2-way road with the said motor car in front. It was a straight road.
+
+6       At the pedestrian crossing, DW2 stopped his car and the Accused opened the front passenger door. This resulted in a collision with the Victim who was riding his motorcycle passing by the car at the nearside. The Victim suffered an injury to his right little finger. He was given hospitalization leave from 14 January 2018 to 27 January 2018. See exhibit P5.
+
+7       It was not in dispute that the Accused or the driver (DW2) did not lodge any police report immediately after the accident. The Accused subsequently gave a police statement on 27 July 2018. See exhibit P11. DW2 gave his statement to the police on 20 June 2018 (exhibit P12). On the same day, DW2 lodged a police report after being advised by the police. His police report was marked as exhibit P13.
+
+8       It was also not disputed that on the day of the accident, the Accused offered to pay the Victim’s medical expenses.
+
+## The Issues in Dispute
+
+9       The main issues in dispute were (1) whether the car door was already open before the motorcyclist collided onto it and (2) whether the Accused had exercised proper look out when opening the door.
+
+## Case for the Prosecution
+
+10     The Prosecution called 6 witnesses. 2 of them were medical doctors who had attended to the Victim. The Prosecution’s case rested mainly on the evidence of the Victim and the medical doctors.
+
+11     On 14 January 2018, the Victim (PW1) was riding his motorcycle behind the car on a single lane road. The Accused was the front seat passenger in the car.
+
+12     The car had stopped at the pedestrian crossing when the traffic light was red. The car was positioned towards the right of the lane and the Victim rode to the left side of the vehicle. His speed was reduced to less than 10 km/h when he saw the red light.
+
+13     Just as the Victim was riding on the left side of the car, the Accused opened the front left passenger door.[^1] The edge of the door of the car hit the small finger of the Victim’s right hand and he fell together with the motorcycle to the left.[^2] He felt pain in his finger.
+
+14     The Accused alighted and apologized to the Victim and also gave him her handphone number so that he could contact her and send her the medical bill.[^3]
+
+15     After visiting a clinic, the Victim was asked to go to the hospital where he was diagnosed to have a fracture of the middle phalanx of the right little finger. See exhibit P5. He was given hospitalization leave from 14 January 2018 to 27 January 2018 as stated in P5.
+
+16     On 17 January 2018, the Victim made a police report after the Accused failed to pay for his medical expenses.
+
+17     Dr Darren Koh Zhi Sheng (PW2) saw the Victim at Changi General Hospital (“**CGH**”) on 23 January 2018. His clinical note on the Victim was exhibited as P10 which PW2 confirmed was consistent with exhibit P5 which was a medical report based on the review of the Victim’s medical record. The Victim was diagnosed to have a fracture of the phalanx of the right 5th finger (the “**finger**”).
+
+18     PW2 testified that the injury suffered by the Victim was consistent with the history given by the Victim that he passed by the car slowly and was hit by the opening door. PW2 opined that the finger was likely pressed against the motorcycle’s handlebar and the edge of the door of the car and that the motorcycle’s speed would be about 10 km/h or less.
+
+19     PW2 confirmed that exhibit P9 was consistent with what he saw that day.
+
+20     Dr David Chua (PW3) was a Senior Consultant at CGH, Orthopedic Department. He saw the Victim on 23 January 2018. He testified that the Victim’s injury was due to a traffic accident and was consistent with the history given by the Victim. The Victim’s finger was crushed. It was a direct injury to the finger suggesting it was directly compressed by 2 hard surfaces. X-ray showed broken bones in many places indicating probably the Victim’s finger was on the brake lever and hit by the edge of car door and not the broad surface of the door. No other finger was injured.
+
+21     PW3 was confident that the Victim’s finger must be on the brake lever due to the fact that the middle phalanx of the finger was impacted. PW3 opined that based on the injury, the speed would probably be less than 10 km per hour. This was supported by the fact that there was no break in the skin. It also explained why the Victim did not suffer a more severe form of injury. During cross-examination, PW3 opined that based on the injury it was likely that the Victim was trying to brake when hit.
+
+22     The injury suffered by the Victim caused a deformity to his finger.
+
+23     The Prosecution also tendered a set of photographs of the scene and the motorcycle taken on 10 March 2019. See exhibit P3. Photographs of the car were taken on 9 May 2019. See exhibit P4.
+
+24     Senior Station Inspector Ms Kasmawati Binte Samian (PW5) testified that she referred the case to IO Rahim (PW6) due to the injury suffered by the Victim. She confirmed that the Victim made a police report on 17 January 2018. PW5 had also contacted the Accused and advised her to make a report as the Victim was given a MC for 14 days. Based on PW5’s evidence I found that the Accused was not fully co-operative. For example, she refused to give the driver’s telephone number.
+
+25     After PW5 had given evidence, the Prosecution offered DW2 as a witness to the Defence.
+
+26     SSGT Abdul Rahim Salim (PW6) was the investigation officer who took the statements of DW2 on 20 June 2018 and the Accused on 27 July 2018. Before these dates, no report had been lodged by the Accused and DW2.
+
+27     Exhibit P6 was prepared by PW6 on 10 March 2019. P6 was a sketch plan of the road scene along Bishan Place.
+
+28     Based on P6, P7 and P8, PW6 confirmed that the width of the road can accommodate both the car and motorcycle side by side. He also confirmed it was not an offence to ride between the road kerb and the car.
+
+29     During cross-examination, PW6 testified that the driver was not co-operative because he was not forthcoming for his statement to be taken in that he changed a few appointments at the last minute. He only came on 20 June 2018 to give his statement.
+
+## Case For Defence
+
+30     The Accused was a front seat passenger in the car. She claimed that while in the car, she was searching for the charging cable of her phone. The driver told her she can open the door when the car stopped. The car stopped at the pedestrian crossing when the light was red. He told her to be careful. The Accused alleged that she turned behind and saw no one next to her. She opened the car door halfway and started to search for the charging cable and then there was a bang and she saw a motor bike rider (Victim) next to her. The Victim then let go and fell. The Accused alighted and attended to the Victim.
+
+31     The Accused also testified that after the accident, the Victim went to the toilet. When he returned, he complained that his finger was painful. She advised him to see the doctor and offered to pay for the medical fees. The next day, she received a SMS from the Victim asking for $120 for the medical fees. The Victim also needed a medical follow-up. The Accused refused to pay. She felt that the Victim was “taking advantage” of her and was trying to “extort” from her; as such she decided not to pay for his medical expenses.[^4]
+
+32     On another occasion, she alleged that the Victim told her that he was given a MC for 14 days and asked her to pay for the 14 days as his boss did not accept the MC. The Accused felt that the Victim was taking advantage of her and asked him to make a police report. She refused to pay as she claimed that she was not at fault as it was the Victim who had banged into the door of the car.
+
+33     The Accused admitted that the Police had contacted her to make a report. She claimed that she had tried to lodge the report via e-service which she needed to fill the details but it was late and she did not proceed further. Later she was told by the police to go to the police HQ to lodge the report. On 27 July 2018 her statement was taken. The Accused alleged that the statement was done in a rush.
+
+34     The Accused confirmed that exhibit D2 was her cautioned statement.
+
+35     The Defence also screened in court a video which was not taken on the day of the accident. See exhibit D4. It was to show the purported road and traffic condition of the scene. I allowed it into evidence for a limited purpose of showing the scene. I was of the view that it was irrelevant for other purposes as it was not filmed on the day of the accident. It was taken some time in end October 2018.[^5] Moreover, I did not think it had much probative value as it was impossible to capture the same traffic and pedestrian conditions as on the day in question. Accordingly, D5I, D6I and D7I were not admitted into evidence. In any event, D4 had already been admitted for the limited purpose as stated above.
+
+36     The Accused called DW2, the driver to give evidence in her defence. His evidence was substantially the same as the Accused. DW2 confirmed that on 14 January 2018 the Accused was the only passenger. That day, he stopped before the traffic light as it was red. The road was a single lane and he stopped nearer to the pavement side. Before he stopped his car, he did not see the motorcycle. The first time he saw it was after the door was open and the motorcycle came. It appeared after the door was open. It was about 3 seconds after the door opened that the motorcycle hit into the car door. The motorcycle overtook from the left.
+
+## Main Issue
+
+37     The main issue in this case was whether the Accused had exercised proper look out before she opened the passenger’s car door. The Accused claimed that the door was already open before the motorcycle collided into it.
+
+## Submissions by the Parties
+
+38     Prosecution submitted that the Accused’s testimony should not be believed because of the “inconsistencies and illogicality. It is also blatantly obvious that DW2’s evidence was tailored to aid the Defence’s case given the striking similarities in their testimonies. On the other hand, PW1’s evidence should be accepted in full as it is not only internally consistent in material aspects, but also amply corroborated by the extrinsic evidence.” See \[16\] and \[17\] of the Prosecution’s submissions.
+
+39     The Defence’s case was that the car was in a stationary position when the car door was open. It was contended that the Victim suddenly moved forward from behind, swerved and his little finger hit the edge of the door. See Defence’s submission at \[26\].
+
+40     Counsel submitted that there was no serious or material inconsistencies in the evidence of the Accused. He also claimed that the Defence’s preparation of its case was prejudiced by the Prosecution not revealing that it did not intend to call DW2 as the prosecution witness until just before the testimony of PW6.
+
+41     Counsel also submitted for an adverse inference be drawn against the Prosecution for the failure to produce the police report made by the Victim and his 14-day medical leave certificate.
+
+## Credibility of Defence Witnesses
+
+42     I found the Accused and her witness (DW2) to be unreliable witnesses not worthy of any credit.
+
+43     I agreed with the Prosecution that both of them had discussed and prepared the case together before coming to court. This was clear from the Accused’s own admission that she and DW2 went back to the scene to film the scene and the traffic condition. In fact, the video of the scene was taken well after both the Accused and the driver had given their respective statements including D2. I was also of the view that the Accused had clearly lied when questioned whether she talked to DW2 about the incident when they were filming she answered, “cannot remember”.
+
+44     Next, I found the Accused’s evidence in court was inconsistent with her statement exhibited as P11. In court, the Accused stated that the rider came from behind and that she had left the door opened for a few seconds before the accident. However, she admitted this was not stated in P11. Her explanation was that she was in a rush when giving her statement. I rejected her explanation. In my view, this was a material fact in support of her case. It is unbelievable that in a rush she would not state this important fact in P11 especially when she was specifically asked whether she had anything else to say. It was also not stated in D2 at all that the door of the car was open for a few seconds before the accident.
+
+45     There were other inconsistencies in the Accused’s oral evidence and her statements to the Police. For example, there was no mention about the Victim extorting from the Accused in P11 or D2. The allegation that the collision was into the inside of the car door was also not stated in D2.
+
+46     I also found the Accused to be un-cooperative and not forthcoming in giving evidence. For example, she refused to give the driver’s telephone number to PW5. She also denied she had apologized to the Victim[^6] but admitted she did say sorry to him. See Transcripts, Day 4 at page 84. It was also contrary to her text message to the Victim. See exhibit D1. Not only had she apologized to the Victim but she also accepted responsibility. However, she claimed that “both of us are part of the element of an accident.”[^7] See also the Transcripts, Day 4 page 42, Lines 28-31, when the Accused was asked whether she agreed that the rider was not travelling at a very fast speed. Her response was not forthright. Another example was when PW5 contacted her and told her to lodge a police report. She did not do so immediately. In the circumstances, I had no hesitation in finding the Accused to be evasive and not candid.
+
+47     In D2, the Accused stated that the speed of the motorbike was “quite fast”. However, this was inconsistent with the evidence of the doctors who opined, based on the injury sustained, that the speed was likely to be about 10 km/h.
+
+48     In court, the Accused testified that she opened the car door and used her right hand to hold on to the door while searching for the charging cable purportedly dropped beneath the car seat as she heard a “trop” sound.[^8] I found this to be unbelievable for 3 reasons. Firstly, how can the charging cable be fallen underneath the car seat. Next, it was highly unlikely for the Accused to hold on to the door with her right hand while searching for the charging cable beneath her seat. I cannot imagine how anyone can do that in such a position. Finally, this was not stated in her cautioned statement, D2. Clearly the Accused had lied to embellish her case.
+
+49     The material evidence the Accused gave in court was also not stated in her cautioned statement (D2) or in P11, in particular, it was not stated that the door was open for about 3 seconds before the motorcycle collided into it. D2 also did not state that the Accused looked behind and saw no one.
+
+50     In the circumstances, I disbelieved the evidence of the Accused that she had opened the door of the car for about 3 seconds before the collision happened.
+
+51     In assessing the credibility of DW2, I considered the fact that he was not an independent witness. I noted DW2 and the Accused were colleagues and had travelled together. They had known each other more than 7 years. His evidence was also tainted by the fact that they did the filming of the scene together soon after the Accused was given copy of the charge and a notice in writing pursuant to section 23 Criminal Procedure Code. I also agreed with the Prosecution that there were substantial similarities in the evidence of DW2 and the Accused which indicated that they must have rehearsed their respective evidence before coming to court. The similarities were highlighted in the Prosecution’s submissions. Both of them said the rider was standing and fell slowly to the left. I found it unbelievable that both of them can remember the door was open for about 3 seconds before the collision. I also agreed with the Prosecution’s submission at \[63\] that these details were not in DW2’s statements (P12 and P13). I also found that DW2 was evasive when asked which part of the car was hit based on exhibit P4.
+
+52     One to two days after the accident, DW2 had been informed by the Accused that the Victim was injured. Despite this, DW2 did not make a police report immediately. He claimed that he did not report immediately as there was no damage to both vehicles and there was no insurance claim. But after his police statement he lodged a police report.
+
+53     I noted the evidence given by DW2 in court contradicted his police statement on material facts. See exhibit P12. In P12, DW2 did not state that he had informed the Accused that he would stop the car for her to search for the charging cable. With respect, I did not agree that the details were not provided because he was not asked detailed question but was told to give a summary. On the contrary, I found that he was accorded the opportunity to add anything in his statement as well as anything that PW6 did not ask. See Q15 and Q16 of P12.
+
+54     In Court, DW2 claimed that he had stopped the car nearer to the left side but this was not stated in P12. DW2 also did not state in P12 that he saw the Accused turned left to check as he alleged in court. In Court he said that he looked at the side mirror, but this was not in P12. It was also not in P12 that there was a lapse of 3 seconds before the collision as he alleged in court. His explanation for the lack in details in P12 was that the IO did not ask for the details. I found this to be a lame excuse. After all he is an educated man and should know the importance of giving a full statement to the police. He was also asked in Q16 of P12 whether he had anything else to add and he answered “No”. Clearly, he was given the opportunity to give more details but he chose not to provide the details.
+
+55     I also found it unbelievable that DW2’s memory 5 months after accident of the incident and when he gave evidence in court was the same as alleged by him. As highlighted by the prosecution, this only demonstrated DW2’s eagerness in trying to corroborate the Accused’s account.[^9]
+
+56     DW2 claimed that his statement was not read to him. He just looked through and signed. When asked whether P12 was correct, he was evasive and merely said he looked through and no details provided so he signed. Finally, he admitted P12 was correct.[^10] In my view, DW2 was not a candid witness.
+
+57     In court, DW2 said he did not see how the accident happened yet he stated in P13 that the rider tried to squeeze through. In P12 he also did not state the rider squeezed through. He stated, “Suddenly, I heard a ‘thud’ sound, the next moment, I glance to my left and saw a motorcyclist rider lying on the left side of my motor car.” He was clearly not consistent in his evidence.
+
+58     In the circumstances, I found DW2 to be an unreliable witness and I did not believe in his evidence.
+
+## Credibility of the PW1 (Victim)
+
+59     On the other hand, having observed the demeanour of the Victim and the consistency in his evidence, I found the Victim to be candid and a credit worthy witness.
+
+60     I agreed with the Prosecution that despite being cross-examined extensively on the same issues numerous times, the Victim consistently maintained that the Accused suddenly opened the door when he was riding on the left of the car. He had wanted to pass the car from the left and was able to see the left side of the car.[^11] The width of the road can accommodate both the vehicles as confirmed by the prosecution witness PW6.[^12]
+
+61     The Victim’s evidence of what happened on the day in question was also consistent with his account given to the doctor at the Accident & Emergency Department of CGH and to PW2 and PW3, the doctors who saw him on 23 January 2018. His account was that he was travelling at low speed on the left side of the car when the door suddenly opened and hit his finger.
+
+62     PW3 and PW2 testified that the Victim sustained a ‘crush’ injury to the finger, i.e. it was pressed between two firm/hard surfaces and the history given by the Victim was consistent with the injury sustained. Both of them also confirmed that the speed the Victim was travelling was likely to be about 10km/h at the time of impact.
+
+63     PW3 also stated that it was likely that the Victim’s finger had come into contact with the outside edge of the car door.[^13] In fact, given the absence of injury to the ring and middle fingers, PW3 opined that the Victim had placed his finger on the brake lever “and just struck something narrow and hard with the finger while on the brake lever”.[^14] This was consistent with the Victim’s evidence that the door was not fully opened and was at an angle when it hit his right small finger.[^15]
+
+64     I was aware that there were some inconsistencies in the Victim’s evidence. But these were minor in nature. Hence, given the material consistency in the evidence of the Victim which was corroborated by the independent evidence of PW2 and PW3 as well as the objective evidence, I had no hesitation in accepting the testimony of the Victim.
+
+## My Findings
+
+65     Having assessed the Victim to be a credit worthy witness, I accepted his evidence. I found that on the material day at Bishan Place, the Victim was riding his motorcycle behind the car. Subsequently, the car stopped at the pedestrian crossing when the light was red. The car was actually more towards the right side of the lane leaving the Victim with sufficient space to pass on the left of the car. At the moment when the Victim was passing by the left side of the car near to the road pavement, the Accused failed to keep a proper lookout when opening the front passenger car door and causing it to hit the Victim’s finger. I found the Victim’s finger was crushed and fractured. This was consistent with the evidence of the doctor that the Victim’s finger was on the brake handle when it was hit by the edge of the car door.
+
+66     In the SMSes sent by the Accused, she had accepted responsibility for the accident and apologized to the Victim. See exhibit D1. I was of the view that this supported the finding that she failed to keep a proper look out when opening the car door. This finding was also buttressed by the Accused’s own admission in D2 that she was “willing to accept corrective advice”.
+
+67     I accepted the evidence of the medical doctor that the injury on the finger was due to the finger being hit by the edge of the door of the car. This indicated that the collision took place when the Accused was opening the car door with its edge crushing the Victim’s finger when the Victim was riding by.
+
+68     I rejected the submission that because the Victim failed to report to the doctor at CGH of his leg injuries therefore his testimony should be discredited. I accepted the Victim’s explanation that he did not pay much thought to his leg injuries as it was a small problem. His main concern was the injury to his finger. I also found no reason to draw an adverse inference for the non-production of the medical certificate when it was expressly stated in P5 that the Victim was given hospitalization leave from 14 January 2018 to 27 January 2018.
+
+69     I accepted the Victim’s evidence that he would not have gone to the left of the car if he (a) had known that the Accused wanted to open the door[^16] or (b) had seen the Accused opening the car door.[^17]
+
+70     I found that it would be illogical for the Victim to ride pass the car by the left if the car door was already in an open position as alleged by the Defence given the fact that he was an experienced rider for about 20 years. If it had already been open, the front wheel of the motorcycle would have collided into the inside of the car door. But this was not the case as the injury sustained by the Victim was consistent with the finger being hit by the edge of the door of the car.
+
+71     I rejected the contention of the Defence that the door of the car was already open for 3 seconds before the collision. If the door was already open as contended, then the front wheel of the motorcycle would have collided into the car door. But this was not the case as there was no evidence of any damage to the inside of the door or the wheel of the motorcycle. In my view, the Victim’s finger came into contact with the outside edge of the car door. This was consistent with the evidence of PW3 that the Victim had placed his finger on the brake lever and was hit by the outside edge of the door. The medical evidence was that the injury was consistent with it being crushed between two hard surfaces. Moreover, I had found the defence witnesses to be unreliable and not worthy of credit. I therefore rejected the defence’s contention.
+
+72     The Prosecution at \[36\] of the submissions highlighted “that although the charge expressly makes reference to the accused’s failure to keep a proper lookout when opening the door, the accused did not state in D2 that she had either checked or kept a proper lookout before opening the car door.” In this respect, I rejected the Accused’s explanation that the omission was because she had stated that she was always very careful, and the motorcycle came from behind.
+
+73     I was also of the view that the fact that the Accused had offered to pay for the medical bill incurred by the Victim was consistent with my finding that the Accused was the one who had caused the Victim to sustain the injury. This was also supported by her statement in D2 that she was “willing to accept corrective advice”.
+
+74     As for the failure to tender the Victim’s police report, I was of the view that the Prosecution already had all the necessary evidence to support their case without the need for the Victim’s police report. It was to be noted that during the examination-in-chief of the Victim, it was disclosed that he lodged a police report on 17 January 2018. This showed that there was no sinister motive in not tendering the police report. I therefore rejected the contention that an adverse inference be drawn.
+
+75     I also agreed with the Prosecution that there was no basis to release DW2’s statement (P12) to the Defence. It was not contended that the exceptions to section 259 Criminal Procedure Code were applicable. In any event, DW2’s statement P12 as well as his police report (P13) were disclosed and admitted in evidence during the trial.
+
+76     With respect, I did not see how the late offer of DW2 as a defence witness prejudiced the preparation of the Defence. The Defence knew that DW2 would not be called as a prosecution witness before the close of the Prosecution. The Defence also had the opportunity to interview him.
+
+## Guilty and Convicted
+
+77     In the circumstances stated above, I was satisfied beyond reasonable doubt that the Prosecution had proven its case beyond a reasonable doubt. The Accused was found guilty and convicted.
+
+## Antecedents
+
+78     The Accused had no known antecedents.
+
+## Submission on Sentence
+
+79     The Prosecution submitted for a fine of $4,000. In support of the submission, the Prosecution relied on the unreported case of _PP v Abu Bin Kathi_ (MAC-907895-2020) where the offender pleaded guilty and was fined $3,000 for opening the passenger door of the car and hit onto a motorcyclist. As a result of the accident, the motorcyclist’s right little finger was fractured. He also suffered contusion to the chest area.
+
+80     The Defence submitted that the grievous hurt caused to the Victim was on the lowest scale. He also contended that there was contributory negligence on the part of the Victim by overtaking the car by the left.
+
+81     Counsel also highlighted that the Accused had a clean record. She was a lecturer at a private college and a consultant in a company. It was also said that the criminal conviction might affect her obtaining a Certificate of Clearance for going to Canada on a scholarship.
+
+82     Counsel conceded that rehabilitation was not the relevant sentencing consideration. He agreed that the relevant sentencing consideration was one of deterrence.
+
+## Sentencing Considerations
+
+83     I noted that the offence committed by the Accused is punishable with imprisonment up to 2 years or fine up to $5,000 or both.
+
+84     Next, I considered the harm caused to the Victim was a fracture of his little finger. He was given 14 days’ medical leave. His finger was deformed. With respect, I therefore disagreed that the injury suffered was on the lowest scale. I was of the view that the degree of harm caused was more towards greater harm, given the 14 days of medical leave and the deformity suffered.
+
+85     In assessing the sentence, I also considered the Accused’s culpability. I disagreed that the Victim had contributed to the accident. It was clear that the width of the road was wide enough to accommodate both vehicles especially when the car was stationary more to the right of the road. Hence, it was reasonable for the Victim to pass by on the left of the stationary car which was stopping in front of the pedestrian crossing light when the light was red. I also noted the nature of the act done that resulted in the collision. In my view, it was unsafe to open the car door at the pedestrian crossing without ascertaining it was safe to do so. I would assess the Accused’s culpability as low.
+
+## Mitigating and aggravating factors
+
+86     I noted the Accused had no criminal record. There were no offender-specific sentencing factors that do not relate directly to the commission of the offence which would constitute as aggravating factors. On the other hand, I noted that the Accused did not show any remorse.
+
+87     In respect of the Certificate of Clearance, I found there was no evidence adduced to support the contention that the Victim will not be able to obtain such certificate. In summary, I did not find any mitigating factor in this case, other than the fact that the Accused had a clean record.
+
+## Conclusion
+
+88     Considering all the circumstances, the Accused was sentenced to pay a fine of $4,000, in default 10 days’ imprisonment.
+
+89     In my view, the sentence imposed was consistent with the precedent cited by the Prosecution and appropriately reflected the criminality of the Accused’s conduct.
+
+* * *
+
+[^1]: NE for 13 January 2020, page 15 Lines 1 – 4
+
+[^2]: NE for 13 January 2020, page 15 Lines 7 – 19 & Exhibit page 3-6
+
+[^3]: NE for 13 January 2020, page 16 Lines 17 – 20 & page 17 Lines 2 – 5
+
+[^4]: NE for 12 August 2020, page 8 Lines 9 – 11
+
+[^5]: NE for 13 August 2020, page 9 Lines 6 - 12
+
+[^6]: NE for 12 Aug 2020 page 15 Lines 12 -13
+
+[^7]: NE for 12 Aug 2020 page 60 Lines 17-20
+
+[^8]: NE for 12 Aug 2020 page 4 Lines 19-20 and page 6 Lines 1 – 4.
+
+[^9]: See \[66\] of Prosecution’s Submissions
+
+[^10]: See NE 13 Aug 2020 page 55 Lines 11-17.
+
+[^11]: NE for 13 Jan 2020 page 34 Lines12 -20
+
+[^12]: The width of the road is 3.5m (Exhibit P6). The width of the car, with the door fully opened, is 3.1m (Exhibit P8). The width of the motorcycle is 0.7m (Exhibit P7).
+
+[^13]: NE for 15 January 2020, page 8 Lines 7 – 32 and page 9 Line 1.
+
+[^14]: NE for 15 January 2020, page 7 Lines 28 – 32 and page 8 Line 1.
+
+[^15]: NE for 13 January page 15 Lines 5 – 14.
+
+[^16]: NE for 13 January 2020, page 34 Lines 17 – 20
+
+[^17]: NE for 13 January 2020, page 36 Lines 22 – 26
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F25824-SSP.xml)

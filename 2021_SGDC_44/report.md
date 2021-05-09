@@ -1,0 +1,91 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Ng Kok Boon  
+
+### \[2021\] SGDC 44
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">District Arrest Case No. 927827 of 2018 &amp; Ors, Magistrate's Appeal No. 9049 of 2021</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">08 March 2021</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Shaiffudin Bin Saruwan</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">SPO Teo Keng Beng for the Prosecution; Wee Hong Shern &amp; Ramakrishnan s/o Kandasamy for the Accused.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Ng Kok Boon</td></tr></tbody></table>
+
+CRIMINAL PROCEDURE AND SENTENCING – Sentencing
+
+\[LawNet Editorial Note: An appeal to this decision has been filed in MA 9049/2021/01.\]
+
+8 March 2021
+
+### District Judge Shaiffudin Bin Saruwan:
+
+## Introduction
+
+1       The accused person, Ng Kok Boon, pleaded guilty to four charges and consented to have five charges taken into consideration for the purpose of sentencing.
+
+## The charge
+
+2       He pleaded guilty to the following charges–
+
+> (a)     One charge of LT1 consumption of morphine under s 8(b)(ii) punishable under s 33A(1) of the Misuse of Drugs Act (Cap 185, Rev Ed 2008)(“MDA”);
+
+> (b)     One charge of possession of diamorphine under s 8(a) MDA;
+
+> (c)     Two charges of failing to report for urine test under Reg 15(3)(f) punishable under Reg 15(6)(a) of the Misuse of Drugs (Approved Institutions and Treatment and Rehabilitation) Regulations (Cap 185, Reg 3)(“the Regulations”).
+
+## The Facts
+
+3       The accused person was arrested on 6 August 2018 at about 7.10 pm at the Sembawang MRT Station for drug-related offences. From a bag that he was holding, the police seized two packets containing granular/powdery substances, one straw containing granular/powdery substance and one plastic container containing a syringe. There was some brown liquid inside the syringe.
+
+4       The accused person was brought to Ang Mo Kio Police Divisional Headquarters with all the seized items.
+
+### The LT1 consumption charge
+
+5       The accused person then provided two bottles of his urine samples which were sent to the Health Sciences Authority (“HSA”) for analysis on 7 August 2018. On 10 August 2018, HSA issued two certificates under s 16 MDA certifying that both urine samples contained morphine. Morphine was a known metabolite for diamorphine.
+
+6       In the course of investigations, the accused person admitted that he had smoked “bai fen”, the street name for diamorphine a few hours before his arrest. He had placed the “bai fen” on a piece of aluminium foil and had heated the underside of the foil using a cigarette lighter. He then inhaled the fumes emitted using a rolled-up paper. This accounted for the presence of morphine in his urine samples.
+
+### The drug possession charge
+
+7       The seized items enumerated at \[3\] were also analysed at HSA. The granular/powdery substances in the two packets were found to contain not less than 0.01 grams and 0.09 grams diamorphine respectively. The granular/powdery substance in the straw and the brown liquid in the syringe were also found to contain diamorphine.
+
+8       The accused person had admitted that he had bought the above items from an unknown male Chinese in Hougang for his own consumption.
+
+### The failing to report for urine test charges
+
+9       The accused person was placed under compulsory supervision for 24 months starting from 7 June 2016 to 6 June 2018. This was pursuant to a supervision order issued by the Director (Investigation Division) of the Central Narcotic Bureau under Regulation 15 of the Regulations.
+
+10     The accused person was required to present himself for urine tests at the Jurong Police Divisional Headquarters on every Friday of each month from 9.30 am to 10.00 pm starting from 13 August 2016 as directed by his supervision officer. He failed to report for his urine tests on at least 55 occasions. In particular, he had failed to report for his urine test on 25 May 2018 and 1 June 2018 without any valid reason.
+
+## Antecedents
+
+11     On 30 September 2002, the accused person was convicted on one charge of trafficking in a controlled drug with common intention, under s 5(1)(a) MDA read with s 34 of the Penal Code, Chapter 224, and on one charge of possession of a controlled drug under s 8(a) MDA. The drug in both these charges was nimetazepam. He was sentenced to three years six months’ imprisonment and two strokes of the cane for the trafficking charge, and six months’ imprisonment for the possession charge. Both sentences ran concurrently.
+
+12     He has antecedents for theft and harassment on behalf of illegal moneylenders offences. These were not relevant to the present case.
+
+## Prosecution’s sentencing submission
+
+13     DPP Chong Yonghui sought for the following sentences –
+
+> (a)     For the two MDA charges, he sought the minimum mandatory prescribed for the offences.
+
+> (b)     For the failing to report for urine test charges, he sought for four months’ imprisonment each.
+
+14     DPP Chong asked that the imprisonment sentences for the LT1 consumption charge and one of the failing to report for urine test charge be ordered to run consecutively.
+
+## Mitigation plea
+
+15     Mr Wee Horn Sheng disclosed that the accused person has three children; two of whom resided with him. They comprised his 21 year old son and 17 year old daughter. His 12 year old daughter resided with his ex-wife. Mr Wee also informed that the accused person’s mother suffered from stage 4 liver cancer, and was currently under chemotherapy. He was currently employed as a sales promoter for appliances and earned about $1,000 a month. However, his salary fluctuated depending on his commissions.
+
+16     Mr Wee highlighted the accused person’s long battle with drugs since his school days. Since his release from the drug rehabilitation centre (“DRC”), he had made attempts to turn over a new leaf and keep away from drugs. Unfortunately, several external stressors made him succumb. First, the financial pressure concerning his mother’s diagnosis of stage 4 cancer and the attendant medical bills for which he was solely shouldering, which added to the pressure of supporting his family. This was exacerbated by his inability to secure gainful employment since his release from DRC. His discovery about his wife’s infidelity that led to a divorce was the last straw. All these caused him to return to his old drug habit. However, Mr Wee submitted that the accused person was not truly remorseful and sought the court’s leniency not to impose a crushing sentence.
+
+## The sentence
+
+17     In relation to the two MDA charges, I noted that the accused persons has previous convictions for these same offences in 2002, albeit involving a different type of controlled drug which was nimetazepam (at \[11\]). I also noted that he has one other LT1 consumption charge and two enhanced possession charges taken into consideration. However, I was of the opinion that there was no compelling reason not to impose the mandatory minimum sentences prescribed for these offences. As such, I sentenced the accused person to five years’ imprisonment for the LT1 consumption charge. As he was below 50 years old, I also impose the mandatory minimum of three strokes of the cane. In relation to the enhanced possession charge, I sentenced him to two years’ imprisonment.
+
+18     The starting point for an offence of failing to report for urine test was four to six months’ imprisonment. see _Jassic s/o Kumar Steven_ <span class="citation">\[2015\] SGDC 135</span> (MA 9065 of 2015)(“_Jassic_”), _PP v Sakinah Waheeda binte Abdul Manan_ <span class="citation">\[2018\] SGDC 78</span> (MA 9076 of 2018)(“_Sakinah_”) and _PP v Radika d/o Rajavarma_ <span class="citation">\[2020\] SGDC 190</span> (“”). In _Jassic_, the appellant had pleaded guilty to two failing to report for urine test charges. One similar charge was taken into consideration. The District Judge had imposed a sentence of six weeks’ imprisonment each and ordered the sentences to run concurrently. On appeal by the prosecution, See Kee Oon JC (as he then was) enhanced the sentence to four months’ imprisonment each to run concurrently.
+
+19     I noted that the accused person had failed to report for urine tests on 55 occasions. Before me, he had pleaded guilty to two charges. One similar charge was taken into consideration. However, he was a first offender in respect of these charges. He has also pleaded guilty. As such, I was of the view that four months’ imprisonment was appropriate. I accordingly sentenced him to four months’ imprisonment on each of the two failing to report for urine test charges.
+
+## Conclusion
+
+20     I ordered the imprisonment sentence for the LT1 consumption charge to run consecutively with the imprisonment sentence for one of the failing to report for urine test charges. The total aggregate sentence was therefore five years four months’ imprisonment, and three strokes of the cane. I did not think that the total aggregate sentence offended the totality principle. Lastly, I ordered the imprisonment sentence to run from 25 June 2019.
+
+21     The accused person has lodged an appeal against sentence. He is currently serving his sentence of imprisonment.
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F25699-SSP.xml)

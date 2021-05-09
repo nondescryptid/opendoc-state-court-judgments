@@ -1,0 +1,221 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Choy Swee Seng _v_ Heng Zheng Yi Benedict  
+
+### \[2021\] SGDC 50
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">District Court Suit No 1358 of 2019</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">17 March 2021</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">James Leong Kiu Yiu</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Kenny Khoo and Chiang Wan Ting (Ascentsia Law Corporation) for the plaintiff; Koh Kok Kwang and Lee Pin Wen Karin (CTLC Law Corporation) for the defendant</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Choy Swee Seng — Heng Zheng Yi Benedict</td></tr></tbody></table>
+
+TORT – Misrepresentation – Fraud and deceit
+
+TORT – Misrepresentation – Negligent misrepresentation
+
+RESTITUTION – Money had and received
+
+17 March 2021 - Judgment reserved.
+
+### District Judge James Leong Kiu Yiu:
+
+## Introduction
+
+1       The plaintiff’s claim against the defendant is premised primarily on misrepresentation for introducing “sham” or non “financially viable” investment products pursuant to a multi- level marketing (“MLM”) scheme that has collapsed. The plaintiff’s claim is founded on fraudulent or negligent misrepresentation and in the alternative for an account of monies paid to the defendant. The plaintiff’s separate pleaded claim under section 2 of the Misrepresentation Act (Cap 390, 1994 Rev Ed) was forgone by the plaintiff at the commencement of the trial. The trial was heard over three days followed by the exchange of three sets of written submissions each on behalf of the plaintiff and the defendant i.e. closing submissions, reply submissions and submissions on costs. This is my judgment in relation to the claim.
+
+## Facts
+
+2       The plaintiff was introduced to the defendant by the latter’s acquaintance Zenon Teh (“Zenon”) and they met in China in June 2013. Zenon was named as a witness for the defendant at the Summons for Directions stage but did not file any Affidavit of Evidence in Chief (“AEIC”) or feature at the trial[^1]. The defendant was then working with a company known as Cuffz Holdings Pte Ltd (“Cuffz”) that operated a MLM business. Cuffz marketed investment products including the International Royale Franchise (“Royale Investment”) and the Islandia Resort issued by a company known as Excelsior Capital Finance Limited (“Excelsior”/“ECF”).
+
+## The parties’ cases
+
+3       The plaintiff was his own sole witness at the trial. It is the plaintiff’s case as distilled in his closing submissions that the defendant made the following representations:
+
+> (a)     The first representations in June 2013 that Excelsior issued Royale Investments in US$10,000.00 tranches, each yielding a profit of US$17,000.00 over 24 months and these investments were subject to asset holding protection by a Swiss International Trust Company;
+
+> (b)     The second representations in August 2013 that Excelsior developed or sold the Islandia Resort at US$30,000.00 with an additional payout of US$27,000.00 payable over 30 months; and
+
+> (c)     The third representations in December 2013 that Excelsior issued Royale Investments in US$30,000.00 tranches, each yielding a profit of US$60,000.00 over 30 months.
+
+4       In reliance of which the plaintiff:
+
+> (a)     Paid the defendant $99,615.00 on 8 and 16 June 2013 pursuant to the first representations for seven tranches of US$10,000.00 Royale Investments;
+
+> (b)     Paid the defendant $25,675.00 on 26 August 2013 pursuant to the second representations for the purchase of one Islandia Resort unit; and
+
+> (c)     Paid RMB71,500.00 on or around 22 January 2014 pursuant to the third representations to a Chinese bank account nominated by the defendant for two tranches of US$30 000 Royale Investments.
+
+5       In addition to himself[^2], the defendant called Toh Ching Kang (“DW1”) and Leong Shao Ming Shaun (“DW2”) to testify for the defence. DW1 was his uncle who testified that he had invested with other family members in the investment products through the defendant and suffered losses. DW2 had requested the defendant to help Zenon to explain the investment products to the plaintiff as the defendant was more fluent in Mandarin and was travelling to China. DW2 testified that the defendant was not part of the MLM upline or downline for the investments made by the plaintiff and thus did not receive any commission or payment, unlike Zenon or himself.
+
+6       The defendant does not dispute introducing and explaining the investment products to the plaintiff. The defendant’s position is that he did not derive financial benefit from the transactions. He had explained the investment products to the plaintiff at the request of DW2 who together with Zenon earned the rewards from the plaintiff’s investment. The defendant also does not dispute assisting the plaintiff to set up the online account operated by Excelsior and handling payment transactions for the plaintiff. The defendant however disputes the plaintiff’s claim for misrepresentation, both fraudulent and negligent, and contests the plaintiff’s claim that he failed to apply the monies received from the plaintiff for the mandated purposes.
+
+## Issues to be determined
+
+7       The parties were in broad agreement[^3] that the following issues of fact and law fell to be determined at trial[^4]:
+
+> (a)     Whether the defendant made the first, second and third representations to the plaintiff. In this connection:
+
+>> (i)       Whether forwarding of information received from Excelsior (including “explaining”, “conveying”, “passing” per paras. 11-14, defendant’s AEIC) constitute the making of representations to the plaintiff; and
+
+>> (ii)       Whether the information conveyed provided for the first, second and third representations;
+
+> (b)     For the purpose of fraudulent misrepresentation, whether
+
+>> (i)       the defendant had made the representations intending the plaintiff acts on it;
+
+>> (ii)       the plaintiff had acted on the representations;
+
+>> (iii)       the defendant had made the representations in the absence of a genuine belief that they were true;
+
+> (c)     For the purpose of negligent misrepresentation, whether
+
+>> (i)       the loss was foreseeable, and
+
+>> (ii)       a duty of care should be found in light of the proximity and policy considerations; and
+
+> (d)     Whether the defendant failed to apply the investment monies for the mandated purposes.
+
+8       A secondary issue that arose at trial was the admissibility or otherwise of the High Court decision in _Toh Fong Peng and others v Excelsior Finance Ltd and others_ <span class="citation">\[2020\] SGHC 51</span> that was affirmed by the Court of Appeal subsequent to the conclusion of the trial in _Fan Ren Ray and others v Toh Fong Peng and others_ <span class="citation">\[2020\] SGCA 117</span>.
+
+## Secondary issue
+
+9       Addressing the secondary issue first, citing section 44 of the Evidence Act (Cap 47, 1997 Rev Ed) (“EA”), the plaintiff relies on the High Court decision that was affirmed by the Court of Appeal to assert that Swiss International was a sham company and the undisputed fact that ECF i.e. Excelsior was a dormant company[^5]. The defendant who first highlighted the existence of the High Court decision at trial by including it in the bundle of documents[^6] challenged admissibility on the ground that there was no public element to the findings of the High Court as well as relevance.
+
+10     The High Court decision was a claim in contract by seven named respondents and 546 other participants in a network marketing scheme owned and operated by a networking marketing business in Malaysia. The main issue that fell to be determined there was who were the owners and operators of the Malaysian business. Essentially, it was found by the High Court and affirmed by the Court of Appeal that the appellants including Fan Ren Ray and Fan Ruicheng (“Fan brothers”) were the owners and operators of the Malaysian MLM business. It was also conceded before the High Court by counsel for the defendants that they were the owners of the Singapore business but not the Malaysian one.
+
+11     On balance, I agreed with the plaintiff that the findings of the High Court would be admissible given that they do relate to a matter of a public nature and was of relevance to our case. To this end, the defendant’s reading of s44 of the EA to equate public nature with the public right of way mentioned in the illustration is too restrictive, especially in view of section 7A(a) of the Interpretation Act (Cap 1, 2002 Rev Ed) which states that the example or illustration shall not be taken to be exhaustive. That said, the decision of the High Court that was affirmed by the Court of Appeal is not conclusive proof as provided by s44 of the EA. The decision is also not dispositive of the issues in our case given the difference in the cause of action, the difference in the parties involved as well as the difference in the investments that were sold in Malaysia as compared to the investments in our case that were sold in Singapore.
+
+12     Considering that it is patently clear to both the plaintiff and the defendant by now that the MLM scheme has collapsed, nothing turns on admitting the findings of the High Court that were affirmed by the Court of Appeal that Swiss International was a sham company and ECF i.e. Excelsior was a dormant company. After all, if the investments had panned out as promised, and the returns were paid as promised, there would be no need for this action.
+
+## Whether the defendant made the first, second and third representations to the plaintiff
+
+13     Having regard to the submissions and evidence in relation to the representations, I am satisfied that the defendant did indeed make them to the plaintiff as pleaded. It is pertinent to note that the defendant does not dispute that he participated in the business of Cuffz who marketed various products including the Royale Investment and Islandia Resort issued by Excelsior and had introduced or explained these products to the plaintiff[^7]. I am also satisfied that the actions of the defendant in forwarding the documents from Excelsior and explaining, conveying and passing the documents to the plaintiff would constitute the making of representations.
+
+14     In this regard, it is clear to me that the information conveyed generally conformed and provided for the first, second and third representations save for the fact that the documents provided for the Royale investment to be in International Royale Points (“IRP”) rather than US dollars. Nothing however turns on this given the common understanding that the IRP points were supposed to be exchangeable for US dollars. According to both DW2[^8] and the defendant[^9], this could be done at some point in time via the website with the monies being paid to one’s bank account. It is also evident from the testimony of the plaintiff[^10] that it would not have made sense for him to have invested if the IRP points were not exchangeable.
+
+15     As for the specific representations that were made, I find myself in broad agreement with the submission of the defendant that not all of them were false and some of them would not constitute a past or existing fact but were future promises or opinions[^11]. It is apparent that the plaintiff did in substance obtain what he had bargained for in the sense that the investment products were procured on his behalf in his name and that of his wife and father in law through the administrative assistance of the defendant and registered to their respective accounts. As such, while the three sets of representations were made, I am in broad agreement with the defendant as per the decision of the High Court in _Zuraimi bin Mohamed Dahlan v Zulkarnine B Hafiz_ <span class="citation">\[2020\] SGHC 219</span> (“_Zuraimi_”) that since only representations as to past or present facts are actionable, this made the claim untenable.
+
+16     As highlighted by the defendant[^12], the three sets of representations as to the potential returns were akin to the dividend representation in _Zuraimi_ in that they referred to some future benefit that the representee would receive from a third party. As noted by Chan Seng Onn J in _Zuraimi_ at \[52\], “…there is a crucial distinction between actionable misrepresentations and a future promise. In the context of commercial contracts, a claim relating to the latter (a future promise of commercial returns) would fall more properly into the realm of contractual terms and the enforcement of the same.”
+
+17     The above alone would make the claim untenable as the representations relating to the future rather than past or present facts are not actionable. Next, I would also dismiss the claim on the basis that while there was reliance, the representations are neither fraudulent or negligent.
+
+18     In determining whether there was reliance on the representations, I was guided by the Court of Appeal decision in _Wee Chiaw Sek Anna v Ng Li-Ann Genevieve_ \[2013\] 3 SLR 803[^13] (“_Anna Wee”_). Given that the question of inducement is to be approached from the perspective of the representor i.e. the defendant whose purpose was to assist DW2 and Zenon to earn the commission, inducement is made out here.
+
+19     As for reliance, this is to be approached from the perspective of the representee i.e. the plaintiff. It is clear that the plaintiff made the investments in question following the meetings with the defendant. It is also clear that in making the investments, he was influenced by the attractive returns being offered.
+
+20     What is less clear is whether these investments were made as a result of the representations. As set out at \[94\] of _Anna Wee_ “… the representor’s statement need not be the sole inducement, so long as it had played a real and substantial part…, no matter how strong or how many were the other matters which also played on the representee’s mind…”. Considering that the statements need not be the sole inducement, I accept that the representations would have played a real and substantial part in influencing the plaintiff to invest such that reliance is made out.
+
+## Whether there was fraudulent misrepresentation
+
+21     Having regard to the above findings that the defendant made the representations intending the plaintiff to act on them and the plaintiff did rely on them to so act, the key question remaining for the fraudulent misrepresentation claim is whether the defendant had made the representations in the absence of a genuine belief that they were true.
+
+22     It is the plaintiff’s contention relying on the High Court decision in _Chu Said Thong v Vision Law LLC_ <span class="citation">\[2014\] SGHC 160</span> (“_Chu Said Thong_”) that the defendant had made the representations fraudulently[^14] in that they were made:
+
+> (a)     Without belief in its truth; and
+
+> (b)     Recklessly, not caring whether they are true or false.
+
+23     As noted by Vinodh Coomaraswamy J in _Chu Said Thong_, the above second limb of Lord Herschell’s formulation in _Derry v Peek_ (1889) 14 Cas 337 was to capture the fraudster who buried his head ostrich like in the sand, shutting one’s eye to the facts. As for the third limb, this was to cover the defendant who makes a representation conscious but indifferent to the risk it may be false.
+
+24     Great store in this regard was placed by the plaintiff on the defendant’s acknowledgment at \[4\] of his AEIC[^15] that:
+
+>     “Since about 2016, Cuffz and ECF ceased operations. In a nutshell, on hindsight, I now believe that ECF, Cuffz and associated entities were marketing “sham” products or products that were at least not financially viable, thus causing many investors to lose their investments, including myself.”
+
+25     It was submitted that the fact that the MLM business was not viable was alive to the defendant at the material time. It was further submitted that he had every reason to turn a blind eye as he stood to gain financially being next in line to the management and/or the Fan brothers referred to at \[10\] above who were the owners of the business.
+
+26     It is pertinent to note that the acknowledgment that the products were a sham or not financially viable was one made with the benefit of hindsight. The defendant had clarified in cross examination his definition of sham as “Shady, unorthodox”[^16] and concluded that “… it feels like it is not totally true but I can’t point how true it is.”[^17]
+
+27     As noted by Coomaraswamy J at \[125\] of _Chu Said Thong_ , “… fraud requires either outright dishonesty or recklessness amounting to dishonesty: _Anna Wee_ at \[35\]. Recklessness here is subjective recklessness: indifference to a risk which the defendant is conscious of.” In _Anna Wee_, the Court of Appeal further observed at \[30\] that “… If an allegation of fraud is successfully made, the representor would be justifiably found to have been guilty of _dishonesty_. Dishonesty is a grave allegation requiring a high standard of proof.”
+
+28     Applying the facts to the law, the plaintiff offered no proof of dishonesty or recklessness amounting to dishonesty beyond his strong personal conviction that he had been wronged by the defendant. As noted by the defendant, the proof of the pie is in the pudding and it was clear that the defendant had invested in the same products and recommended them to family members such as his sister and uncle during the time of the representations. Considering that the defendant and his family members, like the plaintiff, all lost money, I saw no evidence of dishonesty or subjective recklessness on the part of the defendant. The defendant must surely have had an honest belief in the viability and profitability of the investment products that led him to personally invest and also recommend his family members to do so.
+
+29     While the defendant’s actions in assisting the plaintiff to administer the account are not entirely altruistic since he likely used some of his own IRP points in exchange for the monies that the plaintiff handed to him to invest, this does not amount to dishonesty and is also not legally wrong. Ultimately, the plaintiff did obtain what he contracted to purchase. The arrangement for the plaintiff to avail himself of currency exchange rate discount/special rate if the investment monies was made through the defendant is also one of the representations in question and the plaintiff admitted in evidence that he was fact was given such a discount[^18].
+
+## Whether there was negligent misrepresentation
+
+30     Turning to the claim for negligent misrepresentation, I agree broadly with the submissions of the plaintiff that it was entirely foreseeable to the defendant that the plaintiff would lose his investments if the representations turned out to be false. Objectively, it is eminently reasonable for this to be so and the submissions of the defendant do not appear to argue otherwise or address this directly.
+
+31     In the High Court decision of _Haw Wan Sin David and another v Sim Tee Meng and another_ <span class="citation">\[2018\] SGHC 272</span> (“_David Haw”_), Lai Siu Chiu SJ found that the respondent Belle Seah who was an estate agent did owe a personal duty of care to the appellants who were retail investors who had entered into agreements with a New Zealand company to purchase a residential unit there and lost monies when the developer went into liquidation as a result of financial wrongdoings that siphoned off monies paid by purchasers such as the appellants. At \[107\] of the judgment, Lai SJ held that there was no need to resort to the application of the test in _Spandeck Engineering (S) Pte Ltd v Defence Science & Technology Agency_ \[2007\] 4 SLR (R) 100 (“_Spandeck_”) afresh since the test was to be applied incrementally and analogous precedents should be relied on where available. Adopting this approach and given that the defendant’s position in representing Excelsior to “market” the investment products was akin to that of Belle Seah, save for the undisputed fact that he was not licensed under the Estate Agents Act (Cap 95A, 2011 Revised Ed), the defendant does owe a personal duty of care to the plaintiff.
+
+32     Insofar as the issue of licensing was concerned, it was not disputed that the defendant was not licensed under the Financial Advisors Act (Cap 110, 2007 Rev Ed) and the Securities and Futures Act (Cap 289, 2006 Rev Ed). Considering that it is not pleaded or alleged that the defendant had held himself out to be so licensed, nothing really turns on the fact that he was not properly licensed or that the MLM scheme itself was in all likelihood in contravention of the Multi-Level Marketing and Pyramid Selling (Prohibition) Act (Cap 190, 2000 Rev Ed).
+
+33     Having determined that the defendant owes the plaintiff a duty of care, I turn next to the issue of whether the duty has been breached.
+
+34     On the facts, the information conveyed by the defendant to the plaintiff was derived from information that he received from Cuffz and/or Excelsior. This information was also forwarded to the plaintiff who had the benefit of the material. Notwithstanding the plaintiff’s best efforts to show that the defendant had gone beyond the script provided by Cuffz and/or Excelsior, there is no credible evidence for this. It is apparent that the defendant did nothing more than forward and explain the marketing materials in relation to the investment products to the plaintiff.
+
+35     Having regard to the above, I find that the role of the defendant was more analogous to that of Belle Seah in _David Haw_ rather than Jimmy Sim, the Key Executive Officer (“KEO”) of Faber Property Pte Ltd (“Faber”) who was found to have breached his duty of care. In _David Haw_, the District Court had allowed the claim in misrepresentation against Faber, the licensed estate agency but dismissed the claims against Belle Seah who was an associate director of Faber and Jimmy Sim who was the KEO. On appeal, Lai SJ found Jimmy Sim but not Belle Seah liable for negligent misrepresentation. On the facts, Jimmy Sim had met with the appellants following their meeting with Belle Seah at the marketing event and assured them that all the representations made by Belle Seah at the marketing event were true. Lai SJ’s observations at \[116-117\] are apposite:
+
+> “116  In my view, Belle Seah’ role at the marketing event was similar. She was trained to make certain representations and she did precisely that. She did not deviate from what her training taught her to say. It seems to me highly artificial to expect that if hypothetically, Faber had 100 property agents to help out at the marketing event, that each and everyone of those 100 property agents would be required to independently carry out their own due diligence checks to verify for themselves that the representations that they were taught to make in formal training sessions were true. It must be that the real estate agency, Faber, assumes the responsibility of verifying the facts, and its property agents, in this situation, are entitled to assume that Faber had done its job. Delegation of responsibility and the chain of command are part and parcel of any business.
+
+> 117.  For these reasons, I therefore find that Belle Seah did not fall below the standard of care expected of her. It must be recalled that the tort of negligence requires only that an individual act reasonably, and not that the individual acted above all reproach. Just because more could be done does not mean that the individual was negligent.”
+
+36     Substituting the defendant for Belle Seah and Cuffz for Faber with Excelsior taking on the role of those responsible for the financial wrongdoing that contributed to the liquidation of the developer, I am satisfied that the defendant did not breach the duty of care that he owed to the plaintiff.
+
+37     In my view, the submission of the plaintiff[^19] that the defendant’s liability stood on a higher footing than that of Jimmy Sim on account of the fact that the payment mechanisms were different i.e. direct to the developer and Singapore entity as compared to through the defendant is without merit. The mode of payment is equivocal at best and not indicative of greater or lesser responsibility.
+
+38     The plaintiff’s efforts to portray the defendant as someone with direct links to the Fan brothers[^20] who were the masterminds of the Singapore and Malaysian MLM business is neither pleaded or proved. The evidence showed that the defendant had no special role or office in Cuffz or Excelsior nor did he hold himself out as such. The defendant is also not a party to the proceedings referred to at \[8\] above, both at first instance and on appeal. In this regard, there is no reasonable basis to impose on the defendant the duty to conduct the necessary background check as suggested by the plaintiff. The alarm bells that the plaintiff speak of that would have put the defendant on notice are, with respect, the benefit of hindsight which while perfect, is unfortunately too late to be of any consequence. It is pertinent to note that the investments in question spanned approximately seven months between June 2013 and January 2014 and when the going was good in the sense that Excelsior was ostensibly paying the returns, the plaintiff had absolutely no complaints against the defendant.
+
+## Whether defendant applied investment monies for the mandated purposes
+
+39     The plaintiff’s claim for an account is in the alternative. As stated in their closing submissions [^21] the claim proceeds on the basis of the defendant’s admission to receiving the investment monies for the stated purpose and concession that he has absolutely no evidence to prove that the monies were so paid to Excelsior or the Fan Brothers. This submission ignores the plaintiff’s admission in cross examination that the eight tranches (seven Royale Investments and one Islandia Villa) were successfully transacted making the claim for an account untenable[^22]:
+
+> “Q    So, I put it to you that, the fact these investments were reflected on ECF’s account, if anything, proves that the Defendant did transact the purchase for you and that’s why it showed in your account. You agree?
+
+> A    I agree”
+
+40     Moreover, it is the plaintiff’s burden to prove his claim and the attempt to reverse the burden of proof is unsupported by any controlling authority. In the premises, the alternative claim for an account is without any legal merit.
+
+## Conclusion
+
+41     In light of all of the above, the plaintiff’s claim is dismissed with costs to the defendant. As for the quantum of costs to be awarded, submissions were sought on the basis of the amount that each party would seek if they were successful. The plaintiff submitted costs at $21,000.00 and disbursements at $5,816.52[^23]. The defendant sought costs at $27,000.00 and disbursements at $3,820.60[^24].
+
+42     Having regard to the respective submissions on costs including the quantum of the claim, length of trial, complexity, voluminous documentation and taking cognisance of the way the claim was pleaded, I am of the view that a sum of $24,000.00 plus GST would be reasonable and award that amount to the defendant accordingly. As for disbursements, they are to be agreed or fixed by the court. To this end, parties are at liberty to notify me in writing within 2 weeks from today if they are unable to agree on the disbursements.
+
+* * *
+
+[^1]: Order of Court DC/ORC 60/2020 filed on 6 January 2020.
+
+[^2]: DW 3.
+
+[^3]: Defendant’s Opening Statement (“DOS”) at \[26\].
+
+[^4]: Plaintiff’s Opening Statement (“POS”) at \[20\].
+
+[^5]: Plaintiff’s Reply Submissions (“PRS”) at \[6\].
+
+[^6]: Agreed Bundle of Documents Volume 6 at pages 6-54.
+
+[^7]: Defendant’s Closing Submissions (“DCS”) at \[3-5\].
+
+[^8]: Notes of Evidence (“NE”), 25 August 2020, 45/24-31.
+
+[^9]: NE, 26 August 2020, 40/11-18.
+
+[^10]: NE, 23 June 2020, 26/17-21.
+
+[^11]: DCS at \[55\].
+
+[^12]: DCS at \[99-106\].
+
+[^13]: PCS at \[16\].
+
+[^14]: PCS at \[51-58\].
+
+[^15]: Defendant’s AEIC dated 4 March 2020 (“DF AEIC”).
+
+[^16]: NE, 26 August 2020, 44/29.
+
+[^17]: NE, 26 August 2020, 44/2-3.
+
+[^18]: NE, 23 June 2020, 35/9-19.
+
+[^19]: Plaintiff’s Reply Submissions (“PRS”) at \[19(e)\].
+
+[^20]: PCS at \[58\].
+
+[^21]: PCS at \[69\].
+
+[^22]: NE, 23 June 2020, 64/10-14.
+
+[^23]: Closing submissions of the Plaintiff on the issue of costs dated 12 January 2021.
+
+[^24]: Closing submission of the Defendant on the issue of costs dated 12 January 2021.
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F25793-SSP.xml)

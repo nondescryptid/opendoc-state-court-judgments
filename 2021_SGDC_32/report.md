@@ -1,0 +1,310 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Rafael Voltaire Alzate  
+
+### \[2021\] SGDC 32
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">District Arrest Case No. DAC-912873-2020, Magistrate's Appeals No. MA-9001-2021-01</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">11 February 2021</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Lorraine Ho</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Yap Poh Huat Jimmy and Vimala Raj S/O Pathmanathan (Criminal Investigation Division) for the Public Prosecutor; Lee Yoon Tet Luke (Luke Lee &amp; Co.) for the Accused</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Rafael Voltaire Alzate</td></tr></tbody></table>
+
+Criminal Procedure and Sentencing – Sentencing
+
+Road Traffic – Offences – Drink driving – Disqualification order
+
+\[LawNet Editorial Note: An appeal to this decision has been filed in MA 9001/2021/01.\]
+
+11 February 2021
+
+### District Judge Lorraine Ho:
+
+## Introduction
+
+1       The accused, a 44-year-old Singaporean male, was a lecturer at ITE College East from 2009 to 2019. He was also the Head of Enterprise for its Enterprise Development Centre. Currently, he is the Manager of the Entrepreneurship Centre at Singapore Polytechnic.
+
+2       On 11 June 2020, the accused had an appointment with one of his former students from ITE College East. The former student had wanted to seek his pro bono advice on the management of the former’s business and how to improve it. The accused rode his motorcycle no. FBN84K (“the accused’s motorcycle”) to ITE College East (“the venue”) for the meeting and parked it at the venue’s basement carpark.
+
+3       During the meeting, as a gesture of gratitude for rendering pro bono advice to him, the former student offered the accused whisky. The accused accepted the offer and, according to him, consumed three to four glasses of whisky. The accused started drinking whisky at about 9pm in the evening and only stopped drinking in the early morning at about 1am on 12 June 2020.
+
+4       After the meeting, the accused decided to ride his motorcycle home. Therefore, the accused went back to his parked motorcycle.
+
+5       However, it proved to be a poor decision on his part. After he began riding his motorcycle and before he could even reach the exit of the carpark, he was too tipsy to ride it further. In fact, he was so tipsy that he lost his balance and landed on the ground together with his motorcycle not far away from the exit of the carpark. He could not even lift his motorcycle from the ground.
+
+6       Shortly after, the police arrived at the scene. The accused was observed to be reeking of alcohol. A breathalyser test was administered on the accused and the result showed “fail”.
+
+7       Hence, the accused was arrested at the scene. The Breath Analysing Device (“BAD”) test conducted at the Bedok Police Division at about 3.31am revealed that the proportion of alcohol in the accused’s breath was 62µg of alcohol per 100ml of breath, which was above the prescribed limit of 35µg of alcohol per 100ml of breath.
+
+8       As a consequence of the accused’s actions, the accused was charged with the offences of drink driving under s 67(1)(b) read with s 67(2)(a) of the Road Traffic Act (Cap 276) (“RTA”).
+
+9       On 4 January 2021, the accused pleaded guilty before me to the drink driving charge. Accordingly, the accused was thereafter sentenced as follows:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="0"><colgroup><col width="10.18%"> <col width="13.4%"> <col width="28.6%"> <col width="47.82%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>S/No.</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Charge No.</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Offence</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Sentence</b></p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">1</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC-912873-2020</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">S 67(1)(b) RTA p/u S 67(1) RTA r/w</p><p align="justify" class="Table-Para-1">S 67(2)(a) RTA</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Fine of $4,000 in default fifteen (15) days' imprisonment.</p><p align="justify" class="Table-Para-1">Disqualified from holding or obtaining all classes of driving licences for a period of thirty (30) months with effect from 4 January 2021.</p></td></tr></tbody></table>
+
+  
+  
+
+10     On the same day, the accused filed a Notice of Appeal because he was dissatisfied with the disqualification order imposed on him.
+
+11     I granted a stay of execution on the disqualification order pending the outcome of the appeal.
+
+## Background facts
+
+### The Charges
+
+12     The drink driving charge reads as follows:
+
+> You, are charged that you, on 12 June 2020, at about 1.28 a.m., along the carpark of ‘ITE East College’ off Simei Avenue, Singapore, whilst riding motorcycle FBN84K, did have so much alcohol in your body that the proportion of it in your breath, _to wit_, not less than 62 microgrammes of alcohol in 100 millilitres of breath, exceeded the prescribed limit of 35 microgrammes of alcohol in 100 millilitres of breath, and you have thereby committed an offence under Section 67(1)(b) and punishable under Section 67(1) read with Section 67(2)(a) of the Road Traffic Act (Cap 276, 2004 Rev Ed).
+
+### Statement of facts
+
+13     The accused admitted to the Statement of Facts (“SOF”) dated 13 November 2020 without qualification. A concise, succinct and edited version of the SOF depicting the offence of drink driving reads as follows:
+
+> …
+
+> 4    On 12 June 2020 at or about 1.28 a.m., the complainant attended to a case of complaint at ‘ITE East College’ carpark located off Simei Avenue. While engaging in a conversation with the accused, she observed the accused reeked strongly of alcohol. The complainant administered a breathalyzer test on the accused and the result shown is **‘Fail’**. The accused was arrested for driving under the influence of alcohol and he was escorted to Bedok Division for Breath Analyzing Device (BAD) test.
+
+> 5    CCTV footage shown that the accused was seen riding his motorcycle within the carpark and was seen losing his balance and fell to the right side onto the floor.
+
+> 6    The BAD test was conducted by Sergeant 3 Ken Ng on the 12 June 2020 at about 3.31 a.m. at Bedok Division. The breath test revealed that the proportion of alcohol in accused’s breath was **62 microgrammes** of alcohol in every 100 millilitres of breath. The prescribed limit is 35 microgrammes of alcohol per 100 millilitres of breath.
+
+> 7    Investigations revealed that on 11 June 2020 at about 5 plus p.m., the accused was at ITE East College located off Simei Avenue whereby the accused had consumed three to four glasses of Whiskey. The accused started drinking at about 9 plus p.m. The accused stopped drinking at about 1 a.m. on 12 June 2020 and subsequently left the location. The accused was seen riding within the carpark.
+
+> …
+
+14     Relevant screenshots of the footage obtained from the CCTV located at the carpark depicting the incident are as follows:
+
+![]([2021] SGDC 0032_Image/[2021] SGDC 0032_image1.png)
+
+## Antecedents
+
+15     The accused was traced for dissimilar non-traffic related convictions in 2013. This was not disputed by the accused.
+
+## Prosecution’s submissions on sentence
+
+16     The Prosecution orally submitted for a fine of $4,000 and a disqualification from holding or obtaining all classes of driving licences (“DQAC”) for a period of 30 months.
+
+17     This was because the accused’s alcohol level at the material time was in band two at 62µg/100ml of breath.
+
+18     The Prosecution submitted that this was based on the alcohol banding as set out in the seminal decision of _Edwin s/o Suse Nathen v PP_ <span class="citation">\[2013\] SGHC 194</span> (_“Edwin Suse”_). However, in view of the amendments to the RTA on 1 November 2019 for drink driving where the maximum prescribed punishment has since been doubled from a fine of $5,000 to $10,000 and an imprisonment from six months to 12 months or to both, there was a need to adjust the sentencing benchmarks in _Edwin Suse_ accordingly.
+
+19     The mandatory minimum disqualification period has similarly been raised from one year to two years. Again, the corollary adjustments must be made to the sentencing benchmarks to reflect the legislative changes.
+
+20     The Prosecution further took into account the fact that the accused has pleaded guilty at the first available opportunity and was a first offender for drink driving. There was also no accident caused as a result of the offence.
+
+21     As such, the Prosecution relied on the table published by the Attorney-General’s Chambers on its website in its submissions for an accused who decides to plead guilty at the mentions stage as follows:
+
+![]([2021] SGDC 0032_Image/[2021] SGDC 0032_image2.png)
+
+## Mitigation
+
+22     The Defence had no quarrel with the appropriate fine to be imposed on the accused as submitted by the Prosecution.
+
+23     Instead, it argued that no disqualification order should be imposed on him because there were special reasons justifying the court to exercise its discretion in this case not to impose the specified minimum disqualification period as required under s 67(1)(a) of the RTA.
+
+24     In support of its submissions, the Defence tendered a written mitigation on behalf of the accused.
+
+25     In terms of the accused’s personal circumstances for drinking prior to him committing the offences on the fateful day in question, as mentioned earlier, the accused accepted the offer from his former student to drink whisky during their meeting where the accused was rendering pro bono advice in business management. The accused felt that he was a socially responsible person by continuing to guide his former students with their businesses even after he left ITE College East.
+
+26     The accused submitted there were special reasons in the present circumstances justifying the court not to impose any disqualification order because first, he had only ridden a short distance of approximately 52.9m within the carpark of the venue. This short distance convinced him that he should not continue to ride home.
+
+27     While trying to repark his motorcycle at another parking lot, he lost his balance and fell together with his motorcycle. He tried to seek help from someone to help him lift his motorcycle from the ground but at one plus in the morning, there was no one else in the carpark.
+
+28     In desperation, he went to the Tech block at the venue to shout for help. Still, nobody came to assist him. He then returned to the carpark and waited beside his fallen motorcycle hoping that someone would help him. He could not abandon the motorcycle in its fallen position because it would likely to not only cause obstruction to other vehicles parking at that spot in the morning but also cause fuel spillage from the motorcycle.
+
+29     In essence, he felt he needed to be responsible to wait next to his fallen motorcycle until someone was able to assist him.
+
+30     Unfortunately for him, only the police came to the scene.
+
+31     Second, besides riding only for a short distance within the carpark, given the fact that there was nobody and no other vehicles at the carpark in the early hours of the morning, no one’s safety was endangered by the accused’s act.
+
+32     Third, the accused highlighted that he no longer had any intention to ride home after realising that he was in no condition to even ride out of the carpark. He merely needed help to lift his fallen motorcycle from the ground. Again, with this realisation, he would not pose a danger to other road users.
+
+33     The Defence therefore argued that such a conscious decision not to ride further out from the carpark and onto the roads ought to qualify as a special reason in the circumstances for the court to exercise its discretion not to impose a disqualification order in this situation.
+
+34     Defence counsel admitted that the accused bore the burden of proving that the factors that related to the facts or circumstances culminating in the accused’s offence amounted to special reasons. Moreover, such factors must not relate to the special circumstances of the offender but must go towards reducing the moral culpability of the offender for example in cases of medical emergencies.
+
+35     The Defence cited three local decisions on the principles behind “special reasons”: _Toh Yong Soon v PP_ <span class="citation">\[2011\] 3 SLR 147</span> (“_Toh Yong Soon”_) at \[5\], _Prathib s/o M Balan v PP_ <span class="citation">\[2018\] 3 SLR 1066</span> (“_Prathib”_) at \[11\] and _Muhammad Faizal Bin Rahim_ <span class="citation">\[2012\] 1 SLR 116</span> (“_Muhammad Faizal”_) at \[42\].
+
+36     It further cited two English decisions of _Coombs V Kehoe_ <span class="citation">\[1972\] 1 WLR 797</span> (_“Coombs”_) and _Chatters v Burke_ <span class="citation">\[1986\] 1 WLR 1321</span> (“_Chatters”_). In particular, it requested the court to consider the seven factors stated in _Chatters_ which are:
+
+> (1)     How far the vehicle was being driven;
+
+> (2)     Manner of driving;
+
+> (3)     State of the vehicle;
+
+> (4)     Whether the driver intended to go further;
+
+> (5)     Road and traffic conditions prevailing at the material time;
+
+> (6)     Possibility of danger by coming into contact with other road users or pedestrians; and
+
+> (7)     Reasons for the vehicle being driven.
+
+37     When I asked how the above decisions aided the accused’s position in the present case, the Defence conceded that they did not. In fact, _Coombs_ was a case where it was held that driving for a short distance from a side road to the main street to park the vehicle did not, in any way, constitute “special reasons”.
+
+38     Nonetheless, the Defence urged this court to exercise its discretion not to impose the disqualification order as the accused has demonstrated the presence of special reasons given the peculiar circumstances on the facts.
+
+## Decision on Sentence
+
+### Sections 67(1)(b) of the RTA
+
+39     The new s 67(1)(b) of the RTA since the amendments to the RTA on 1 November 2019 states:
+
+> **Driving while under influence of drink or drugs**
+
+> 67.— (1)    Any person who, when driving or attempting to drive a motor vehicle on a road or other public place —
+
+>> (a)    is unfit to drive in that he is under the influence of drink or of a drug or an intoxicating substance to such an extent as to be incapable of having proper control of such vehicle; or
+
+>> (b)    has so much alcohol in his body that the proportion of it in his breath or blood exceeds the prescribed limit,
+
+> shall be guilty of an offence and shall be liable on conviction to a fine of not less than $2,000 and not more than $10,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a second or subsequent conviction, to a fine of not less than $5,000 and not more than $20,000 and to imprisonment for a term not exceeding 2 years.
+
+40     For the disqualification period, s 67(2) of the RTA states:
+
+> (2)    Subject to sections 64(2D) and (2E) and 65(6) and (7), a court convicting a person for an offence under this section in the following cases is to, _unless the court for special reasons thinks fit to not order or to order otherwise_, order that the person be disqualified from holding or obtaining a driving licence for a period of not less than the specified period corresponding to that case, starting on the date of the person’s conviction or, where the person is sentenced to imprisonment, on the date of the person’s release from prison:
+
+>> (a)     _for a first offender — 2 years;_
+
+>> (b)    for a repeat offender — 5 years. \[emphasis added\]
+
+41     As pointed out by both the Prosecution and Defence, the specified minimum sentence for drink driving under s 67(1)(b) of the RTA has doubled from $1,000 to $2,000 for a first offender. The maximum prescribed punishment has also doubled from a fine of $5,000 to $10,000 and an imprisonment from six months to 12 months or to both. The specified minimum DQ period has similarly been raised from one year to two years save for special reasons.
+
+### Rationale for amendments to the RTA
+
+42     The rationale for the amendments to the RTA, which came into force on 1 November 2019, was presented during the Second Reading of the Road Traffic (Amendment) Bill 2019 \[Bill No. 13/2019\] in Parliament on 8 July 2019 (“Second Reading of the RT(A) Bill”).
+
+43     The key reason was to create a greater deterrence against irresponsible driving. Second Minister for Home Affairs, Mrs Josephine Teo said as follows:
+
+> To make our roads safer, _we need stronger deterrence against irresponsible driving._ We will do this by: _(a) enhancing the criminal penalties for irresponsible driving;_ and (b) tightening the regulatory regime against irresponsible driving. \[emphasis added\]
+
+44     Irresponsible driving remains a big concern as this affects public safety. Mrs Josephine Teo added:
+
+> However, _irresponsible driving remains a big concern._ The number of feedback letters received on irresponsible driving has increased by more than 70% in five years. We also see more video footage of such behaviour being shared online.
+
+> Why is this a problem? Because irresponsible driving can have deadly consequences. _Even if victims survive the accident, they, or their families, may suffer long-term problems – sometimes, medical; sometimes, permanent disabilities._
+
+> …
+
+> Enforcement, education and road safety infrastructure must certainly continue to be improved. _But we also need stronger deterrence against irresponsible driving…_.
+
+45     The 2019 RTA amendments also addressed the offence of driving under the influence of alcohol and drugs as a form of irresponsible driving. Referring to the Second Reading of the RT(A) Bill again, Mrs Josephine Teo highlighted the perils of drink driving:
+
+> Mr Speaker, I will now turn to the amendments for driving under influence. Drivers who are _drunk or drug-impaired show a blatant disregard for the safety of other road users. They are one of the biggest contributors to serious accidents on our roads._ These are also accidents that clearly could have been avoided if the motorist had not come under influence or did not drive.
+
+46     Therefore, as drink driving is an offence that not only shows the offender’s flagrant disregard of the law but the safety of other road users, it was Parliamentary intention that the criminal penalties must adequately reflect the gravity of drink driving for greater deterrence. The previous criminal penalties were hence inadequate, particularly when an accident is caused.
+
+47     Appositely, Parliament was of the view that it was necessary to increase the criminal penalties for drink driving even when no accidents are caused as such irresponsible behaviour by a motorist is already, in itself, a danger to other road users. Mrs Josephine Teo continued:
+
+> Mr Speaker, _during the public engagement process, respondents felt that even a standalone driving under influence offence where no accident is caused, should attract higher penalties to better reflect its gravity._
+
+> _We agree with this view._ The consumption of alcohol or drugs already makes a motorist a danger to other road users. Section 67 in Clause 17 of the Bill _will raise the penalties to about double the current levels. We will also raise the existing minimum DQ period to two years for first-time driving under influence offenders and five years for second-time driving under influence offenders._ A lifelong disqualification will be imposed on third-time driving under influence offenders. In addition, we will amend section 47C through clause 11 to allow Traffic Police to impose immediate suspension for all driving under influence offences. \[emphasis added\]
+
+48     As regards the definition of “special reasons” in the RTA, Mrs Josephine Teo elaborated:
+
+> Special reasons must constitute _exceptional mitigating factors or circumstances specific to the case_. For example, the offender was rushing to send a passenger for emergency medical treatment in a life-and-death situation when the accident occurred. \[emphasis added\]
+
+49     As the accused is only appealing against the disqualification order imposed, I shall only focus on the issue of whether there were special reasons in the present case so as to exercise my discretion not to impose the said disqualification order as would have otherwise been required under s 67(2) of the RTA.
+
+### What constitutes “special reasons”
+
+50     I will first address the authorities raised by the Defence. As mentioned earlier, they do not, in my view aid the accused in his position.
+
+51     In _Muhammad Faizal_, Tay Yong Kwang J (as he then was) held that the existing interpretation of “special reasons” under s 3(3) of the Motor Vehicles (Third-Party Risks and Compensation) Act (Cap 189, 2000 Revised Edition) (“MVA” by the Singapore courts was a narrow one and only reasons connected with the offence and not the offender would be considered. Besides the seriousness of the offence, there is strong policy reason behind s 3(1) of the MVA, which is to ensure that victims of road traffic accidents will be able to seek compensation with mandatory motor insurance coverage. At \[38\] – \[43\], Tay J held:
+
+> \[38\]  In short, it is insufficient for an offender to merely assert that he or she was caught in exceptional circumstances peculiar to the offence. When an offender seeks to come within the “special reasons” exception under s3(3), “the facts to back up such circumstances must be proved to the satisfaction of the court” (_Toh Yong Soon v PP_ <span class="citation">\[2011\] 3 SLR 147</span> at \[5\]). The hurdles which the appellants in _Sriekaran_ (\[33\] _supra_) and _Siti Hajar_ failed to cross in their appeals were not legal but factual ones. Seen in this light, it cannot be said that the application of the existing interpretation has resulted in undue harshness to offenders under s 3(1) of the MVA.
+
+> _The policy and principle behind the existing interpretation_
+
+> \[39\]  The policy behind s 3(1) of the MVA is to prevent the situation articulated in _PP v Hiew Chin Fong_ <span class="citation">\[1988\] 1 MLJ 467</span> at 468: “if an innocent road user is knocked down and injured or killed, he and/or his dependants may have no means of recovering from the uninsured driver any loss or damage he and/or they may have suffered or sustained”. Section 3(1) therefore seeks to ensure that compensation would be available to persons involved in accidents on the road. For that reason, a contravention of s 3(1)is a serious offence (_Stewart Ashley James v PP_ <span class="citation">\[1996\] 3 SLR(R) 106</span> at \[17\]) and Parliament has deemed it fit to make the offence one of strict liability with only a limited defence in s 3(4).
+
+> \[40\]   _The seriousness of the offence is also reflected in a possible custodial sentence (s 3(2)) and a mandatory 12 months’ disqualification order_ (s 3(3)) that avail the judge in sentencing the offender (_Re Kanapathipillai_ <span class="citation">\[1960\] MLJ 243</span> at 245). _As the Prosecution correctly observed, the policy behind the mandatory 12 months’ disqualification order is deterrence (Sriekaran_ at \[4\]), for “a disqualification meant that for 365 days the accused person is reminded every morning of his offence” (_MV Balakrishnan_ (\[28\] _supra_) at \[9\]).
+
+> \[41\]  Thus, even though Parliament has not unequivocally expressed how the words “special reasons” in s 3(3) are to be interpreted, I agree that, taking the seriousness of the offence and the policy behind s 3(1) into account, construing “special reasons _as being those connected with the offence and not the offender would be the clearest means of giving effect to Parliament’s intention_” (_MV Balakrishnan_ at \[9\]). _Widening the “special reasons” exception would “encourage frivolous defences that could derogate from the policy behind s 3(1) of the MVA_” (_Chua Chye Tiong v PP_ <span class="citation">\[2004\] 1 SLR(R) 22</span> (“_Chua Chye Tiong_”) at \[53\]). \[emphasis added\]
+
+> \[42\]  The existing interpretation of “special reasons” is not merely satisfactory on policy but it is justifiable in principle as well. _Circumstances peculiar to the offence are given exceptional treatment as “special reasons” because they go towards reducing the moral culpability of the offender_ – _e.g._, if the uninsured offender was suddenly “called to attend \[to\] a dying relative” (_Whittall_ (\[30\] _supra_) at 201) or if it was “urgently necessary to take a sick person to hospital and the only conveyance available is a motor vehicle whose insurance has happened to run out” (_PP v Mohd Isa_ <span class="citation">\[1963\] MLJ 135</span> at 136).
+
+> \[43\]  On the other hand, _circumstances peculiar to the offender do not go towards reducing the moral culpability of the offender. They are essentially extrinsic facts about the offender which are unrelated to the offence but are produced to illicit sympathy from the court – e.g._, being unable to work without a licence (_Chua Chye Tiong_) or requiring a licence to ferry one’s elderly grandparents for religious and medical purposes (_Siti Hajar_ (\[36\] _supra_)). These circumstances are morally distinguishable from circumstances peculiar to the offence. \[emphasis added\]
+
+52     In _Toh Yong Soon_, the High Court held that there were no special reasons when the accused claimed that he had, as an abettor, employed the co-accused as his driver on the belief that the co-accused had a valid licence.
+
+53     In _Prathib_, the High Court similarly held that there were no special reasons when the accused was found guilty of permitting his employee to use a lorry without an insurance policy in force. The accused’s failure to enforce or ensure compliance was not a “special reason”.
+
+54     In the English case of _Coombs_, the Court of Appeal held that merely parking one’s vehicle at the time of the drink driving offence did not constitute a special reason for not disqualifying the accused from driving.
+
+55     As regards the English decision of _Chatters_, which is in any event not binding on this court, I was of the view that the case could be distinguished on its facts. In _Chatters_, the accused, after having consumed alcohol, asked his friend to drive him home in the accused’s car. The friend lost control of the car which ended up on a field adjacent to the highway and with a flat tyre. To avoid the car from sinking further into the field, the accused drove a short distance merely to get the car out from the field onto the side of the road and waited for the police to arrive.
+
+56     It was held that there were special reasons in _Chatters_. Nonetheless, the English High Court emphasised that such instances of special reasons being found will be rare and that the shortness of the distance driven is not the only or the major criterion.
+
+57     I would say that the facts in _Chatters_ could be distinguished from the present case as the English High Court was of the view that there was an urgency for the accused to get the sinking car out from the field and back onto the road. This was not the situation in the present case. In contrast, the accused had attempted to ride home on his motorcycle after drinking. There was an unequivocal intention to do so. He only stopped because he was so tipsy that he fell onto the ground together with his motorcycle even before he could reach the carpark exit and he could not even lift his motorcycle to proceed any further.
+
+58     Coming back to the local position, I would like to highlight three High Court decisions involving the offence of drink driving not raised by the Defence. They provide invaluable guidance as to why “special reasons” are only applicable to exceptional circumstances which are specific to the facts as per Parliamentary intention.
+
+59     In _Roland Joseph George John v PP_ <span class="citation">\[1995\] SGHC 245</span>, the accused argued that there were special reasons for him to drink and drive because he was allegedly forced to drink by friends. Despite that, he had proper control of his vehicle. The accused was also the sole breadwinner in his family and he needed to drive to make a living.
+
+60     The High Court held that none of the above amounted to “special reasons” for the purpose of s 67(2) of the RTA. Yong Pung How CJ gave an example at \[6\] what could or could not amount to a special reason:
+
+> Consider, for example, the man who comes home late one night from a drunken party to find his wife seriously ill. There is no one else around; there are no taxis easily available; even the ambulance may not be able to respond soon enough. The man decides to drive in spite of his inebriated condition, so as to rush his wife to hospital. He is stopped by the police on the way to the hospital and charged with driving under the influence. In such a case, the urgent and critical circumstances leading to his driving whilst under the influence would very likely be considered “special reasons” exempting him from disqualification under s 67(2). Consider, on the other hand, another scenario. The same man, having sent his wife to hospital, decides to drive himself home even though he is still over the limit. He is stopped by the police and charged with driving under the influence. He cannot now say that he was compelled to drive by urgent or extenuating circumstances. Nor can be plead as a “special reason” the fact that his business requires him to drive, or his invalid wife depends on him to drive her around, or that he has been driving for 30-odd years without any mishap. Such factors would not relate to the circumstances of the offence but to the offender himself.
+
+61     In _Sivakumar s/o Rajoo v PP_ <span class="citation">\[2002\] SGHC 28</span>, the accused had consumed alcohol to drown his sorrows. Soon after, he received a telephone call from a close friend who had informed him that she was thinking of taking the lives of her children and then ending her own life before hanging up. After several unsuccessful attempts of contacting her, the accused drove and sped to her house. Along the way, he was arrested for drink driving.
+
+62     The High Court held that the facts did not amount to “special reasons”. There was limited discretion by the courts not to disqualify and this could only be made in very exceptional circumstances, having regard to the special circumstances as well as to the whole of the circumstances surrounding the commission of the offence. Additionally, before an emergency was capable of amounting to special reason under the law, the offender must show that there was no alternative but for him to drive and that he had expired every reasonable alternative before driving.
+
+63     Finally, in _Cheong Wai Keong v PP_ <span class="citation">\[2005\] SGHC 126</span> (“_Cheong Wai Keong”)_, the accused had parked his car by the side of the road along the double yellow lines. He thereafter consumed alcohol with his friends. Whilst he had no intention of driving his car, he decided to move his car to the carpark which was just next to the road where the car was parked.
+
+64     It was held by the High Court that the fact that the accused had only driven over a short distance and in circumstances such that he was unlikely to be brought into contact with other road users did not amount to a special reason to reduce the period of disqualification prescribed by law.
+
+65     It was pertinent to note that Yong CJ was of the opinion (at \[14\]) that the English cases that were discussed, including _Coombs_ and _Chatters_ raised by the Defence, did not provide useful guidance to our courts when we are asked to determine whether “special reasons” exist. This was because Courts in England often take time in considering the distance travelled and whether there was other traffic at the time, before deciding whether or not there were special reasons to reduce the mandatory period of disqualification.
+
+66     Yong CJ further held at \[16\] that it would be preferable to lay down a simple rule that a person who is convicted of drink driving should be disqualified for the mandatory period. If he has started the car and moved it at all, unless there are very “special reasons” for not doing so, the distance travelled does not constitute a “special reason” as such. This was because Courts would find it an impossible task to try and determine the relevance of various distances in different cases in deciding on whether or not to allow the period of disqualification to be reduced, thus making it difficult in practice to administer the law (at \[15\]).
+
+67     As can be gleaned from the legislative intent and cases above, “special reasons” takes a very narrow meaning. When construing what amounts to “special reasons”, there must be a link or connection with the offence and not the offender.
+
+### The appropriate sentence to impose
+
+#### There were no “special reasons” in the accused’s case
+
+68     I was of the view that there were no special reasons as submitted by the Accused in the present case.
+
+69     Before I address the reasons cited by him, it is important to point out that the only reason the accused had drank and rode his motorcycle was because he felt obliged to accept the offer of his former student to consume alcohol because the accused was providing pro bono advice on entrepreneurship to the latter during their meeting. Having consumed alcohol voluntarily, there was truly no reason, good or otherwise, for him to drink and ride home.
+
+70     As regards his first reason that he had only driven a short distance within the carpark of the venue, as clearly enunciated in the High Court’s decision of _Cheong Wai Keong_, this could not amount to a “special reason”.
+
+71     The fact remained that the accused had attempted to ride home on his motorcycle when he rode the short distance at the carpark. The CCTV footage produced showed that he even attempted to ride towards the carpark exit. Unfortunately, he was too tipsy and when he reached a kerb, lost his balance on the motorcycle and fell together with it. Otherwise, if he had been successful in riding home, this would not have been a short distance travelled.
+
+72     Following from there, the accused’s suggestion that he had consciously changed his mind about riding home when he realised that he would pose a danger to other road users could not amount to a second special reason. His intention was irrelevant. On the contrary, it was rather ingenious for the accused to now suggest that he had changed his mind to ride home given his inebriated state and was trying to repark his motorcycle.
+
+73     Even taking the accused’s reason at its highest, the accused would not have been able to ride his motorcycle home in any event because he was unable to lift his motorcycle off the ground at the carpark. He was literally discovered next to his fallen motorcycle when the police arrived.
+
+74     As for his third reason, the fact that when he rode within the carpark where there were no other vehicles or persons around in the wee hours of the morning, this was neither here nor there. Generally, people who attempt to drink and drive are likely to take such risks during odd hours of the day where it is expected that there are least people and vehicles on the roads. This is primarily to avoid detection and reduce the opportunity for getting caught in the act. Therefore, the argument that potential harm is the lowest during such periods could not and should not be used as a “special reason”.
+
+75     Last but not least, the accused’s personal circumstances, including the fact that he was typically a socially responsible person and he was doing a good deed on the material day in question could not have amounted to “special reasons” justifying the court to exercise its discretion in his favour as they are specific to the offender. The “good deed” was certainly not for the purpose of a medical emergency. All in all, the scope of “special reasons”, in my opinion, cannot be unnecessarily expanded or this may be subject to abuse and encourage flippant excuses or unwarranted defences being raised.
+
+#### The period of disqualification imposed
+
+76     It now leaves me to determine the appropriate duration of the disqualification order that should be imposed on the accused.
+
+77     As highlighted by the Prosecution, in view of the 2019 RTA amendments, the sentencing benchmarks as stated in _Edwin Suse_ for first offenders who have committed only a drink driving offence (i.e. drink driving _simpliciter_) may be revised as follows:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="34.12%"> <col width="24.46%"> <col width="41.42%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Level of alcohol</b></p><p align="justify" class="Table-Para-1"><b>(μg per 100 ml of breath)</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Range of fines</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Range of disqualification</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">35 – 54</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">$2,000 – $4,000</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">24 – 30 months</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">55 – 69</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">$4,000 –$6,000</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">30 – 36 months</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">70 – 89</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">$6,000 – $8,000</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">36 – 48 months</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">≥ 90</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">&gt; $ 8,000</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">48 – 60 months (or longer)</p></td></tr></tbody></table>
+
+  
+  
+
+78     Thus, given that the accused’s alcohol level of 62µg fell within the lower end of band 2 at the material time, I agreed with the Prosecution that the period of disqualification should be 30 months.
+
+79     Moreover, it must be reiterated that the accused was satisfied with the sentence to a fine of $4,000 imposed, which was at the lower end of the range in band 2. This suggested that the accused did not disagree with the revised sentencing benchmark which was adapted from _Edwin Suse_.
+
+80     All things considered, having duly examined all the evidence as a whole, including any mitigating factors raised e.g. the accused was a first offender, had pleaded guilty and cooperated fully with police investigations, I sentenced the accused to a fine of $4,000 and DQAC for 30 months.
+
+## Conclusion
+
+81     To summarise, the accused was accordingly sentenced as follows:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="28.76%"> <col width="71.24%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Charge No.</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Sentence Ordered</b></p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC-912873-2020</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Fine of <b>$4,000</b> in default fifteen (15) days' imprisonment.</p><p align="justify" class="Table-Para-1">Disqualified from holding or obtaining all classes of driving licences for a period of <b>thirty (30) months</b> with effect from 4 January 2021.</p></td></tr></tbody></table>
+
+  
+  
+
+82     The accused is currently on bail pending the appeal.
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F25621-SSP.xml)

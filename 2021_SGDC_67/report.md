@@ -1,0 +1,173 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Shahrul Nizam Bin Kharuddin  
+
+### \[2021\] SGDC 67
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">District Arrest Case No. 905959 of 2020, Magistrate's Appeal No. MA-9059-2021-01</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">09 April 2021</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Shaiffudin Bin Saruwan</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">DPP Tongyi Tan for the Prosecution; Rajwin Singh Sandhu and Maxine Wong Chuhui for the Accused.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Shahrul Nizam Bin Kharuddin</td></tr></tbody></table>
+
+CRIMINAL PROCEDURE AND SENTENCING – Sentencing – Penal Code – s 377BE(2)
+
+\[LawNet Editorial Note: An appeal to this decision has been filed in MA 9059/2021/01\]
+
+9 April 2021
+
+### District Judge Shaiffudin Bin Saruwan:
+
+## Introduction
+
+1       The Accused pleaded guilty to one charge under s 377BE(2) punishable under s 377BE(3) of the Penal Code (Cap 224, Rev Ed 2008).
+
+## The charge
+
+2       The Accused had knowingly threatened to distribute intimate recordings of the victim, _to wit_, by sending her Whatsapp messages threatening to send video recordings of her performing intimate acts on the Accused to her family members and friends. The intimate acts in question involved masturbating herself and fellating the Accused. The intention was to cause her alarm.
+
+## The Facts
+
+3       The Victim was an Indonesian national.
+
+4       Sometime in 2018, the Accused and the Victim entered into a romantic relationship after they met on social media, The Accused knew that the Victim was divorced and had one daughter from her previous marriage. He also knew the contact numbers of her mother and ex-husband. From March 2019, the Victim travelled occasionally into Singapore to visit the Accused. Around January 2019, their relationship began to deteriorate when the Accused began to suspect the Victim of cheating on him. They quarrelled frequently.
+
+5       In March 2019, the Victim made a trip to Singapore to meet the Accused. On one occasion during this trip, they engaged in sex during which the Accused recorded three video clips of the Victim masturbating herself and fellating the Accused (“the recordings”). The recordings were made with her consent. However, they agreed that the recordings were to be kept between themselves and were for their own consumption only. Sometime in December 2019, the Victim who had returned to Indonesia, pressed the Accused for a break-up. After numerous arguments, they ended the relationship.
+
+6       On 10 Jan 20, from about 12.00 pm to 12.35 pm, the Accused sent Whatsapp messages to the Victim demanding to know the identity of the man whom the Victim was cheating him with. The Victim denied the allegation. He responded by sending the Victim a Whatsapp message that he was “one button away” from distributing the recordings to her family, friends and her ex-husband and his family.
+
+7       The Accused also sent further Whatsapp messages to the Victim. The contents of these messages were –
+
+> (a)     Expressing that the Victim’s ex-husband would be the first person to know of the recordings;
+
+> (b)     Insinuating that the distribution of the recordings might cause the Victim to lose the care of her daughter to her ex-husband; and
+
+> (c)     Insulting the Victim by calling her a “cheap mother”.
+
+8       The Accused then sent the recordings to the Victim, with the message “which one u want?”. The Victim took screenshots of the full Whatsapp conversation between the Accused and herself. These screenshots were subsequently provided to the Police. The Accused knew that threatening to send the recordings to the Victim’s family, friends, ex-husband and his family would cause her alarm.
+
+9       The Victim had sought the assistance of a friend in Singapore to lodge a police report as she was not in Singapore at the time.
+
+## Antecedents
+
+10     The Accused was a first offender.
+
+## Prescribed punishment
+
+11     The prescribed punishment for the offence was imprisonment not exceeding five years, or with fine, or with caning, or a combination of such punishments.
+
+## Prosecution’s sentencing submission
+
+12     DPP Tongyi Tan sought a sentence of at least 14 weeks’ imprisonment for the offence. The reasons were set out below.
+
+### Targeted response to the increasingly prevalent practice of distributing intimate images and recordings without consent
+
+13     DPP Tan submitted that s 377BE(2) was enacted to provide a stronger and more effective legal response to deter the prevalent practice of distributing sexually explicit images without consent. The new section was in recognition of the need to provide proper framing and adequate punishment for such conducts, particularly since such offences was facilitated by technology and has seen an increase in recent times. This was especially necessary in view of the proliferation of devices and channels now available for distributing such images and recordings, with potentially far-reaching consequences for the victims.
+
+### General deterrence is the key sentencing consideration
+
+14     Given the prevalence of such offences, DPP Tan submitted that the overarching guiding principle for sentence was general deterrence. She argued that this view was supported by the fact that Parliament had expanded the sentencing powers for these type of offences. Prior to the enactment of s 377BE(2), these offences were usually dealt with under the first limb of s 506 of the Penal Code (“PC”). The prescribed punishment for an offence under the first limb of s 506 PC was up to two years’ imprisonment. Under s 377BE(2), the maximum imprisonment prescribed was five years, and caning was included as a sentencing option. These showed that Parliament viewed such offences as deserving greater condemnation and more deterrent sentences than previously permitted under s 506 PC.
+
+### Proposed sentencing framework
+
+15     DPP Tan set out a proposed sentencing framework under s 377BE(2). She submitted that there were two arguments in support of a sentencing framework. One, a framework ensured that the courts has cognizance of the entire sentencing spectrum: see _PP v Hue An Li_ <span class="citation">\[2014\] 4 SLR 661</span> at \[58\]. Two, s 377BE(2) created a specific offence tailored to deal specifically with the actual and threatened distribution of intimate images and recordings. The punishments were also significantly higher, and caning was made a sentencing option. Therefore, in sentencing offenders under this section, the courts should not be bound by the sentencing precedents because these offences were previously dealt with under various different Penal Code provisions, for example, s 292(a), s 383 (extortion) and more commonly s 506. This would likely lead to inconsistency in sentencing.
+
+16     The proposed sentencing framework was modelled on the five-step sentencing framework set out by Menon CJ in _Ye Lin Myint v PP_ <span class="citation">\[2019\] 5 SLR 1005</span> (“_Ye Lin Myint_”), which was modelled on the framework in _Logachev Vladislav v PP_ <span class="citation">\[2018\] 4 SLR 609</span>. _Ye Lin Myint_ involved an offence under s 507 PC. In _Ye Lin Myint_, in the course of the offender’s employment as an insurance agent, he had sent anonymous communications in the form of letters and e-mails, threatening, _inter alia_, to humiliate the recipients, destroy their reputations and harass their homes and workplaces.
+
+17     The proposed five-step framework were as follows –
+
+> (a)      **Step 1**: Identify the offence-specific factors to identify (a) the level of harm caused by the offence, and (b) the level of the offender’s culpability. Based on _Ye Lin Myint_ (at \[47\]), the following offence-specific factors were relevant:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="49.36%"> <col width="50.64%"> </colgroup><tbody><tr><td align="left" class="b" colspan="2" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Offence-specific factors</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><u>Factors going towards harm</u></p><p align="justify" class="Table-Para-1">a) The degree of humiliation, alarm or distress caused</p><p align="justify" class="Table-Para-1">b) Harm occasioned by the threat</p><p align="justify" class="Table-Para-1">c) Vulnerability of the victim</p></td><td align="left" class="" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><u>Factors going towards culpability</u></p><p align="justify" class="Table-Para-1">a) The degree of planning and premeditation</p><p align="justify" class="Table-Para-1">b) The level of sophistication</p><p align="justify" class="Table-Para-1">c) The duration of offending</p><p align="justify" class="Table-Para-1">d) Age disparity between offender and victim</p><p align="justify" class="Table-Para-1">e) Abuse of position and breach of trust</p><p align="justify" class="Table-Para-1">f) The offender’s motive in committing the crime</p></td></tr></tbody></table>
+
+  
+  
+
+> (b)      **Step 2**: Identify the applicable indicative sentencing range using the appropriate matrix (set out below) based on the maximum sentencing range for the offence. In this regard, for the purposes of adapting the _Ye Lin Myint_ framework, the matrix should be adjusted to encapsulate the entire spectrum of the prescribed punishment for s 377BE(2). Fines should be reserved for the most exceptional of cases, for example, where there were no offence-specific aggravating factors, or where these factors were only present to a very limited extent. Caning would be reserved for the most egregious of cases.
+
+![]([2021] SGDC 0067_Image/[2021] SGDC 0067_image1.png)
+
+> (c)      **Step 3**: After identifying the applicable indicative sentencing range, identify the appropriate indicative starting point within that range, with reference again to the offence-specific factors as set out above.
+
+> (d)      **Step 4**: After identifying the appropriate indicative starting point, adjust the sentence after taking into account the offender-specific factors. The proposed factors were:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="49.36%"> <col width="50.64%"> </colgroup><tbody><tr><td align="left" class="b" colspan="2" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Offender-specific factors</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><u>Aggravating factors</u></p><p align="justify" class="Table-Para-1">a) Offences taken into consideration</p><p align="justify" class="Table-Para-1">b) Relevant antecedents</p><p align="justify" class="Table-Para-1">c) Evident lack of remorse</p><p align="justify" class="Table-Para-1">d) Risk of reoffending</p><p align="justify" class="Table-Para-1">e) Offending while on bail</p></td><td align="left" class="" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><u>Mitigating factors</u></p><p align="justify" class="Table-Para-1">a) A guilty plea</p><p align="justify" class="Table-Para-1">b) Co-operation with authorities</p><p align="justify" class="Table-Para-1">c) Psychological factors with causal link</p><p align="justify" class="Table-Para-1">d) Exceptional ill-health</p><p align="justify" class="Table-Para-1">e) Remorse</p></td></tr></tbody></table>
+
+  
+  
+
+> (e)      **Step 5**: In cases where an offender has been convicted of multiple charges, further adjustments should be made to the sentence to take into account the totality principle.
+
+18     The proposed framework was intended to apply to offenders who claimed trial. Also, the framework would be further refined as more sentencing precedents were amassed.
+
+### Applying the framework to the present case
+
+19     DPP Tan submitted that the case fell into the slight harm-low culpability category. The category was fortified by the fact that the Accused did not ultimately act on the threat. Accordingly no direct harm was caused to the Victim’s reputation.
+
+20     On harm, there was one offence-specific factor, which was, the degree of humiliation, alarm or distressed caused. DPP Tan submitted that the Victim experienced a moderate degree of alarm for the following reasons –
+
+> (a)     Less than two hours after the threats and the receipt of the recordings, the Victim had felt compelled to send screenshots of the intensely private conversation to her friend in Singapore, Luqman Bin Mohamad, in order to seek his help to lodge a police report here. She was sufficiently alarmed to take quick steps to prevent the Accused from carrying out his threat.
+
+> (b)     The very targeted nature of the threat to disseminate the recordings, that is, to her family and ex-husband, with the specific intention of potentially causing her to lose the care of her daughter, would have caused significant alarm to the Victim.
+
+> (c)     The fact that the Accused knew the contact numbers of the Victim’s mother and ex-husband made the threat more imminent and real.
+
+> (d)     The fact that one of the recordings captured the Victim’s face meant that there was an element of identifiability.
+
+> (e)     The Accused’s persistent goading would serve to exacerbate the alarm caused.
+
+21     On culpability, DPP Tan submitted that there were two offence-specific factors. The first was motive. The Accused had committed the offence out of malice as the threat was made immediately after the Victim had denied his allegation that she was seeing another man. That he had acted out of malice was further supported by the fact that he had taunted the Victim with the messages that her ex-husband would be able to “claim” their daughter, and that he pitied her daughter for having a “cheap mother”.
+
+22     The second offence-specific factor on culpability was breach of trust. DPP Tan argued that there was a breach of trust based on the nature of the relationship shared by the Accused and the Victim. The Victim had trusted the Accused when she consented to him recording the intimate scenes. The trust was premised on their existing intimate relationship. They had agreed that these recordings were to be kept between the parties, and for their own consumption only.
+
+23     The next step was to identify the applicable indicative sentencing range. Following the earlier discussion, the indicative sentencing range was a fine or up to 7 and a half months’ imprisonment. On the facts, the moderate intensity of harm caused, and the low number of factors going towards culpability, DPP Tan submitted that the appropriate starting point was four months’ imprisonment. However, credit should be given to the Accused for his guilty plea as it obviated the need for the Victim to testify. Taking that into account, DPP Tan submitted that the sentence could be reduced to 14 weeks’ imprisonment.
+
+## Mitigation plea
+
+24     The Accused was unrepresented when he pleaded guilty. The matter was then adjourned for the prosecution to prepare written submission on sentence. On the return date, Mr Rajwin Singh Sandhu and Ms Maxine Wong Chuhui came on board. The matter was further adjourned several times for counsels to prepare their case.
+
+25     In their written submissions, the defence did not agree that general deterrence was the overarching sentencing consideration. The defence recognised that Parliament’s intent in enacting s 377BE(2) was to provide a consolidated and consistent legal response towards offences of this nature, in light of the technological advances and the increasing trend of distributing sexually explicit images without consent. However, they submitted that the four sentencing principles would have to be considered equally, in that, a more holistic approach should be adopted. Applying this holistic approach, they submitted that the principles of retribution and deterrence (general and specific) assumed centre-stage. In this regard, the circumstances surrounding the commission of the offence and the actual consequential harm were key.
+
+26     The defence argued that in the case of actual distribution, actual harm would have been caused, in that, the harm would be real, permanent and would have far reaching effects. A threat to distribute therefore constituted lower culpability as the harm was only potential harm. The degree of alarm or distress caused would be consequently lower. The defence also pointed out that the manner in which the offending images or recordings were obtained would also affect culpability. They argued that culpability would be higher if the images or recordings had been obtained without consent, as opposed to if they had been obtained with consent.
+
+27     In ensuring that the principle of general and specific deterrence was adequately addressed, the Court should not only take into account the specific aggravating and mitigating factors but to also consider if a particular sentence would deter that specific individual from committing the same offence again. The defence stressed that deterrence should not be the only overarching consideration because there has been no conclusive evidence that general deterrence in and of itself was effective. This was because there were many different reasons why a person would commit an offence.
+
+28     On the whole, the defence were largely in agreement with the prosecution on the issue of the proposed sentencing framework, its desirability and the methodology of its application. They only differed on the indicative sentencing ranges for the various categories. The defence’s proposed framework was as follows –
+
+![]([2021] SGDC 0067_Image/[2021] SGDC 0067_image2.png)
+
+29     The differences were two-fold - First, for the slight harm-low culpability, the appropriate sentence was confined to a fine. There was no option to impose imprisonment under this category. Second, the sentencing ranges across all categories were generally lower compared to the prosecution’s proposed sentencing ranges.
+
+30     Like the prosecution, the defence placed the Accused into the slight harm-low culpability category. In that regard, they argued that the appropriate sentence should be a fine of $1,000. However, there was no detailed analysis offered in their written submissions as to how they had come to this conclusion.
+
+31     In his oral submissions in court, Mr Singh highlighted that the Accused was the sole breadwinner of the family, and a filial son. He did not have any criminal traits. He had readily confessed to the offence. Having to wear a GPS tag on his leg since his arrest had an adverse effect on both his employment and his mental state. He was not able to work with SMRT and that had compounded the depression that he felt because of the break-up with the Victim. Mr Singh also suggested that all these factors were “rehabilitative traits”.
+
+## The sentence
+
+32     I agreed with the submissions of DPP Tan that the key sentencing consideration in this case was general deterrence. One main reason was the prevalence of the offence. In _PP v Law Aik Meng_ <span class="citation">\[2007\] 2 SLR(R) 814</span> (at \[25(a)\], the High Court had held that the prevalence of an offence might attract general deterrence. Parliament had recognised the prevalence of distributing and the threat to distribute intimate images and recordings in our society. This had led to the enactment of s 377BE(2) to specifically tackle this increasingly widespread practice. Parliament did this in two ways. First, they created the specific offences of threatening to distribute and distributing such images and recordings. This was to address the current unsatisfactory practice of prosecuting such offences using a patchwork of different penal legislations such as s 506 of the Penal Code. Secondly, they expanded the courts’ sentencing powers for these offences. These offences were now punishable with up to five years’ imprisonment, and caning was also included as an option. These clearly indicated Parliament’s intention that these offences were deserving of greater condemnation and more deterrent sentences.
+
+33     I did not agree with the defence’s argument that the four sentencing considerations should be considered equally and that deterrence should not be the only overarching consideration. To say that deterrence was the key or overarching sentencing consideration did not mean that the other sentencing pinciples were disregarded. It just meant that different weightages were given to the four sentencing principles depending on the nature of the offence, and the circumstances of the offence and offender. In this case, for the reasons I had set out in the earlier paragraph, I found that general deterrence had the most weightage. Deterrence was the dominant sentencing consideration.
+
+34     On the sentencing framework, I found that the basis for the sentencing framework proposed by the prosecution was cogent and principled. The prosecution’s proposed applicable indicative sentencing ranges across all categories took cognizance of and encapsulated the entire spectrum of the prescribed punishment for s 377BE(2). Having said that, I would not go so far as to give the framework my full endorsement. However, it provided very useful guidance using a broadly consistent methodology to assist me to determine and calibrate the appropriate sentence.
+
+35     I agreed with the prosecution and the defence that the case fell into the slight harm-low culpability category. In my mind, cases involving a threat to distribute, and where there was no actual distribution, would generally fall into this category. On the applicable indicative sentences, I agreed with the sentencing range proposed by DPP Tan, which was, a fine or up to seven and a half months’ imprisonment. I found that the defence proposed sentencing range for this category did not adequately make provisions for the more egregious cases that fell under this category. It was also not consistent with the case precedents involving threats to distribute that were dealt with under s 506 PC, in which imprisonment sentences have been consistently meted out.
+
+36     The defence argued that the sentence should be a fine of $1,000. This was consistent with their proposed applicable indicative sentencing range under the slight harm-low culpability category of their framework. In pegging the quantum of fine at $1,000, they have fixed the offence at the lowest end of the sentencing range. However, there was no elaboration in their written submissions on the basis why they had arrived at this position. But I think the main argument for their proposed $1,000 fine sentence could perhaps be gleaned from Mr Singh’s oral submission in court.
+
+37     In court, Mr Singh had placed great emphasis on what he described as the Accused’s extreme emotional state that had led to the commission of the offence. This extreme emotional state was the outcome of what the Accused had perceived to be a betrayal by the Victim. As such, Mr Singh submitted that the offence was not laced with “perverse intention” or driven by a “profane mentality”. The primary objective of the Accused’s action was to get back the money for the engagement ring. It was not for something perverse or profane, like obtaining sexual gratification, as was the case in most of the case precedents cited. If, in making this submission, Mr Singh was saying that sexual gratification as a motive was aggravating, I would agree.
+
+38     However, even if I agreed that there was no “perverse intention” or a “profane mentality”, the facts clearly showed that the Accused had committed the offence not just to get back his money. He was also motivated by malice. As DPP Tan had pointed out, the threat was made immediately after the Victim had denied the accusation made by him. He had also followed up on the threat with other messages in which he had expressed the idea that the Victim’s ex-husband might be able to wrest her daughter away from her care, and that he pitied her daughter for having a “cheap mother”. Malice or spite as a motive for committing an offence has been accepted as an aggravating factor: see _Lim Ying Ying Luciana v PP_ <span class="citation">\[2016\] 4 SLR 1220</span> (at \[45\]). On this point alone, I did not think that the case fell into the lowest end of the spectrum of the slight harm-low culpability category. I therefore rejected the defence’s proposed sentence.
+
+39     In addition to malice, I agreed with DPP Tan that there was a second aggravating offence-specific factor present in the case. This was breach of trust. The Accused and Victim were in an intimate relationship at the material time. The recordings had been made in the context of this intimate relationship. The Victim had consented to the Accused filming the intimate scenes because they were in this intimate relationship, and as such she had trusted that the Accused understood that the recordings were to be kept only between them, and for their own consumption only. The Accused’s threat to distribute these recordings to her mother and family and her ex-husband represented an egregious breach of trust. The fact that the Accused had the contact information of the Victim’s mother and family as well as the ex-husband, which could have only been possible because of the intimate relationship they were in, served to amplify the threat made by him.
+
+40     On the basis of \[38\] and \[39\], I came to the conclusion that the custodial threshold has been crossed. A fine, even a high fine was wholly inappropriate. In my mind, the case fell into the middle of the slight harm-low culpability category. In my opinion, the indicative starting point should be 12 weeks’ imprisonment.
+
+41     As rightly pointed out by DPP Tan, there was only one offender-specific factor present in the case. This was his plea of guilty. Although generally a plea of guilty constituted a significant mitigating factor, in cases where the objective evidence was overwhelming, the weight given to a plea of guilty would be significantly reduced. In the present case, there were numerous screenshots of the threatening messages and the recordings sent from the Accused’s handphone. The objective evidence was indeed overwhelming, and as such there was very little choice but to plead guilty. However, some credit would still be given for the plea of guilty because by doing so, the Accused had spared the Victim further humiliation and embarrassment in having to testify in court. Other factors which were taken in his favour were his clean record, the fact that he had not carried out his threat, and he had deleted the offending recordings. Lastly, I was of the view that the Accused’s highly emotional state did not carry much weight, if any, as a mitigating factor.
+
+42     All considered, I was of the view that a downward shift of two weeks from the indicative starting point of 12 weeks was appropriate. As such, I imposed a sentence of 10 weeks’ imprisonment.
+
+43     The sentence of 10 weeks’ imprisonment was on the whole consistent when compared to the sentences meted out for such offences with similar facts that were dealt with under s 506 of the Penal Code. These were the cases cited by DPP Tan namely, _PP v Mohammad Hairudy bin Ab Hamid_ (DAC 501027/2013)(“_Hairudy_”), _PP v Wanniarachchige Wikum Priyadharshana Fonseka_ (DAC 10151/2010)(“_Wanniarachchige_”), PP v _Roman_ <span class="citation">\[2015\] SGMC 8</span> (“_Roman_”), and _PP v Muhammad Farid bin Farus_ (MAC 902306/2015)(“_Farid_”). In these cases, the accused persons and their victims had been in an intimate relationship, either before or at the time of the offences.
+
+44     The accused persons in these cases had recorded images and videos of intimate nature in the course of their relationships. Subsequently, they threatened their victims with the distribution of these images or recordings. In _Hairudy_, the accused person had sent the victim screenshots of the recordings via text messages after they had broken up and told the victim that the images would be posted on the internet for a few minutes unless she had sex with him. In _Wanniarachchige_, the accused person, who was the husband of the victim, had threatened to show nude photographs of her to everyone in Sri Lanka. In _Roman_, the accused person had threatened to distribute nude photographs of the victim on Instagram if she did not have sex with him. In _Farid_, the accused person had threatened the victim that he would upload the compromising photographs and videos on the internet and sent them to her family to shame her for initiating the breakup and making him look bad. The accused persons in _Hairudy_, _Wanniarachchige_, _Roman_ and _Farid_ were sentenced to six months’ imprisonment, seven months’ imprisonment, two months’ imprisonment and two weeks imprisonment respectively.
+
+## Conclusion
+
+45     The accused person has lodged an appeal against sentence. He is currently on bail pending appeal.
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F25842-SSP.xml)

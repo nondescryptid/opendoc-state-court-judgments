@@ -1,0 +1,213 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Ooi Chun Hau _v_ Yeow Tow Ming  
+
+### \[2021\] SGDC 56
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">District Court Suit No S 301 of 2016</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">23 March 2021</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Lee Li Choon</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Subir Singh Panoo (Sim Mong Teck &amp; Partners) for the plaintiff; Chong Pik Wah (Wong Thomas &amp; Leong) for the defendant; Fernandez Christopher (Tan Kok Quan Partnership) for the intervener.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Ooi Chun Hau — Yeow Tow Ming</td></tr></tbody></table>
+
+TORT – Negligence – Contributory negligence – Res ipsa loquitur
+
+23 March 2021 - Judgment reserved.
+
+### District Judge Lee Li Choon:
+
+## Background
+
+1       The Plaintiff’s claim is for damages for injuries suffered as a result of an “incident” that occurred on 20 May 2016 along the PIE or BKE when the Plaintiff was riding as a pillion rider on the motorcycle ridden by the Defendant. The Plaintiff sustained injuries which caused him to become unconscious immediately after the accident and he has no recollection of how the accident happened.
+
+## The Defendant’s Defence
+
+2       The Defendant’s defence is that the accident was caused by the negligence of an unknown motor vehicle that had collided into the Defendant’s motorcycle and that the unknown motor vehicle is solely responsible for causing the accident and that the driver of that unknown motor vehicle is therefore, solely liable to the Plaintiff.
+
+3       Due to the Defendant’s defence, Motor Insurers’ Bureau of Singapore participated in the proceedings as the intervener.
+
+## Facts That Are Not In Dispute
+
+4       It is not in dispute that on the morning of the day of the accident, the Defendant was riding back to his home in Johor Bahru. At that time, he had given a lift to the Plaintiff and the Plaintiff was a pillion rider on his motorcycle. Both parties do not dispute that an accident happened along PIE or BKE towards the Woodlands Checkpoint and the accident led to the Plaintiff suffering injuries which led to this suit against the Defendant.
+
+## Key Issues for Determination
+
+5       The Plaintiff fell unconscious immediately upon the occurrence of the accident and was therefore unable to recall how the accident happened. It was stated in the medical reports of the Plaintiff that he was comatose on admission to the Tan Tock Seng Hospital[^1] and that he was found to have prolonged post traumatic amnesia for 39 days consistent with initial severity of his head injury[^2].
+
+6       Nevertheless, the Plaintiff gave evidence that he can however recall that the motorcycle was travelling at a fast speed[^3]. The Plaintiff’s position is therefore that the accident was probably caused by the Defendant failing to exercise proper control of his motorcycle or that the Defendant was going too fast[^4].
+
+7       The Defendant’s position is that he is not liable and the accident was caused solely and/or contributed to by the negligence of the driver of the unknown vehicle that collided into the rear of his motorcycle.[^5] The Defendant initially took the position that the Plaintiff contributed to his own injuries by failing to wear a proper crash helmet; however this defence was eventually dropped at trial.[^6]
+
+8       The Intervener disputes the fact that there was an unknown vehicle involved in the accident[^7] and takes the position that the Defendant is 100% liable to the Plaintiff.[^8]
+
+9       Arising from the dispute of facts and positions taken by the respective parties as stated above, the following issues arise for my determination:
+
+> (a)     Whether there was another unknown motor vehicle involved in the said accident as alleged by the Defendant
+
+> (b)     Whether the accident was caused solely or partly by the Defendant’s negligence
+
+> (c)     Whether the Defendant is solely liable to the Plaintiff
+
+## My Decision
+
+### Whether there was another motor vehicle involved in the said accident
+
+10     Section 105 of the Evidence Act, Cap 97 provides that, “The burden of proof as to any particular fact lies on that person who wishes the court to believe in its existence, unless it is provided by any law that the proof of that fact shall lie on any particular person.”
+
+11     It is clear in this case that it is the Defendant who wishes the court to believe that there was another unknown vehicle involved in the accident and that it was the unknown vehicle’s collision into the Defendant’s motorcycle that caused the accident that led to the injuries sustained by the Plaintiff. Therefore, by virtue of section 105 of the Evidence Act, the evidential burden of proving the existence of this unknown vehicle lies on the Defendant.
+
+#### There is a lack of objective evidence to show that there was another unknown vehicle involved in the accident
+
+12     In his affidavit of evidence in chief, the Defendant stated that he was informed by the workshop where he had sent his motorcycle for repairs that the impact to “the rear portion of his motorcycle was so strong that it had caused the rear tyre to puncture”[^9]. However, the alleged “information” told to him is clearly inadmissible hearsay evidence. At the first tranche of the trial hearing on 24 February 2020, the photographs that he initially sought to adduce as part of his evidence were also expunged due to such being hearsay evidence because he had failed to obtain any independent survey report on the damage or any statement from the maker of the photographs showing the damage to his motorcycle[^10]. Despite having the opportunity to plug this gap in his evidence by the time of the second tranche of hearing on 26 November 2020, he had failed to do so.
+
+13     The Defendant has therefore not adduced any objective evidence of damage to his motorcycle that would show that indeed, there was a collision from the rear as alleged.
+
+14     Further, the Traffic Police Investigation Report also shows that no action was taken against anyone in this accident.[^11] From this, I infer that the investigations by the Traffic Police did not reveal the involvement of any other vehicle in the said accident.
+
+15     Based on the foregoing, it is clear that there is no objective evidence whatsoever that shows the existence of an unknown vehicle or that there was an unknown driver tortfeasor that was involved in the accident.
+
+#### The Defendant’s injuries do not support his allegation that he had “blacked out”
+
+16     The Defendant has alleged that he “cannot recall what happened after the impact as _he_ had “black out” and that “when _he_ regained consciousness _he_ was already in the hospital”[^12] but has failed to adduce any supporting evidence such as medical reports or ambulance reports to substantiate his allegation that he had “blacked out” immediately after the accident. It is also not his case that he had suffered any head injuries as a result of the accident that could explain why he had "blacked out". By his own admission, he had only suffered light injuries, ie., lacerations to the chin, right and left armm and right foot and ankle[^13].
+
+#### The Defendant’s account is a bare assertion and is purely based on his own conjecture
+
+17     While he was said to have “blacked out” and could not recall how the accident happened, surprisingly, he was sure that his motorcycle was collided into at the rear by a vehicle that “must have been a car”[^14]. From his response in cross-examination, it is clear to me that his testimony that it must have been a car that collided into his motorcycle is based solely on his own conjecture that if it had been a motorcycle that collided into him, the motorcyclist would be injured and not based on what he knows to be a fact.
+
+> Q    Since you agree that you blacked out, do you agree that you would not know if a car left the scene.
+
+> A    I blacked out. I do not know what happened afterwards. I only remembered I was collided into by a car.
+
+> Q    Would you also agree that because you say you had lost consciousness immediately after the impact, you do not know that---you would not know that it was a car that hit you?
+
+> A    If there was an impact, I would know it. **_If it was a motorcycle that had collided into me, that motorcycle would be injured as well. So, there could be 4 victims. So, in this case it must have been a car._**
+
+> Q    So, you confirm it was a car?
+
+> A    Yes, I confirmed.[^15]
+
+18     The Defendant has also not provided any information or explanation as to what happened just before he was allegedly hit from behind or any other relevant specifics as regards the alleged collision.
+
+19     Therefore, all that we have in terms of evidence as to the disputed fact that the Defendant’s motorcycle was hit from the rear by an unknown car is the Defendant’s bare assertion that is also based solely on his own conjecture.
+
+#### The Defendant’s account lacks credibility
+
+20     The Defendant’s evidence is inconsistent and contradictory. For instance, his testimony in court that he had visited the Plaintiff in the hospital and that the Plaintiff had also “_remembered that there was a car in front which have collided_”[^16] is out of sync with his testimony that his motorcycle was collided into from the rear. This is also in contrast to the Plaintiff’s consistent testimony that he “_does not remember any other motor vehicle hitting or colliding_” with them.[^17]
+
+21     The Defendant states that after the Plaintiff was discharged from the hospital, he bumped into the Plaintiff at the office but that he had not visited him in the hospital to show him photographs of his motorcycle. This is contradicted by the Plaintiff’s evidence in his affidavit of evidence in chief that the Defendant had met him “_in a coffee shop in Johor Bahru shortly after (he) had been discharged from hospital_”[^18]. At trial, the Plaintiff confirmed that the Defendant had shown him photographs at that meeting and that initially, he was led to believe that the Defendant’s account of his motorcycle being hit from behind was true. The Plaintiff is clear that his initial belief was based on the Defendant’s own assumption arising from the Defendant’s allegation of damage to the rear of his motorcycle. The Plaintiff has explained that that was the reason why he had stated what he stated in his initial police report. The Plaintiff has further elaborated that when he realized that he had no basis to rely on the Defendant’s bare assertion and assumption, he subsequently corrected his account in another police report two years later[^19]. I find that the Plaintiff was able to give a vivid description of what transpired at that meeting[^20]. This is in contrast to the Defendant’s bare denial that such an exchange had taken place. As for the Plaintiff’s seemingly contradictory police reports, I find no reason not to accept his explanation as to why he had a change of position to now, a denial that the Defendant’s motorcycle was hit by a car from behind.
+
+22     Further, I also find the Defendant’s evidence on the location of the accident to be problematic and lacking in consistency and credibility. In his affidavit of evidence in chief, the Defendant said he was travelling in the 2nd lane of the PIE heading towards the direction of BKE when all of a sudden, his motorcycle was hit from behind[^21]. At trial, in cross-examination, he changed his testimony from the accident taking place at a point “_when (he) was turning, (but) had not reached BKE_” to “_after (he) turned (into BKE) and had moved a bit of distance into BKE_”.[^22] He then subsequently changed it back to be aligned with his testimony in his affidavit of evidence in chief and confirmed that he was travelling on the 2nd land of the PIE prior to the accident[^23]. When questioned further, he added one more detail to the location of the accident – that the accident happened near where the Singtel Building is[^24].
+
+23     The Defendant’s inconsistent testimonies and evasiveness as to the location of the accident shows that his account lacks credibility and consistency.
+
+24     Counsel for the Intervener adduced Google maps to show that PIE is essentially a 6-lane expressway with three lanes going straight and three lanes turning into BKE towards the Woodlands Checkpoint. The Google maps also show that the location of Singtel satellites is where the breakout into BKE is.
+
+25     Therefore, if I were to accept that the Defendant was travelling on Lane 2 of the PIE just before the accident and given the undisputed fact that the Defendant was headed towards the Woodlands Checkpoint, then it is likely that the Defendant would have had to filter and cut across two lanes from Lane 2 to Lane 4 to go into BKE.
+
+26     The Plaintiff’s consistent testimony is that the Defendant was moving very fast. Therefore, I find that it is more likely than not that the Defendant was speeding while in the process of cutting across two lanes to move into BKE and that in so doing, the Defendant’s motorcycle had skidded due to the speed of the motorcycle or due to the Defendant swerving it to avoid oncoming vehicles as it encroached onto their paths.
+
+#### My Finding – The Defendant has failed to discharge his evidential burden to prove that there was another vehicle involved in the accident.
+
+27     In light of the foregoing analysis, I find that the Defendant has failed to discharge his evidential burden to prove that there was another motor vehicle that was involved in the accident and that it was the negligence of the driver of this unknown motor vehicle that caused the accident.
+
+## Whether the accident was caused by the Defendant’s negligence
+
+#### On the facts, is the maxim “res ipsa loquitur” applicable?
+
+28     In this case, while there is clear evidence that an accident had occurred, there is no direct evidence as to how the accident happened. In discharging his legal burden of proof, the Plaintiff had to rely on circumstantial and indirect evidence and the doctrine of res ipsa loquitur. To establish the applicability of the doctrine of res ipsa loquitur, it must be shown that the following criteria are met:
+
+> (a)     The Defendant must have been in control of the situation or thing which resulted in the accident;
+
+> (b)     The accident would not have happened in the ordinary course of things, if proper care had been taken; and
+
+> (c)     The cause of the accident is unknown.
+
+29     When an inference of negligence under the doctrine of res ipsa loquitur arises, the Defendant is entitled to displace the effect of the rule by showing that he was not negligent or by showing that the evidence is consistent with the conclusion that there was no negligence on his part or that the evidence contradicts the Plaintiff’s evidence in some way.
+
+30     In closing submissions, counsel for the Plaintiff cited cases involving rather similar scenarios as the one in the instant case whereby the maxim of res ipsa loquitur was found to be applicable. One such case is the case of _Ooi Han Sun & anor v Bee Hua Meng_ \[1991\] 1 SLR (R) 922 (“_Ooi Han Sun_”). The plaintiff in this case was a passenger seated at the back of a motor pick-up driven by the defendant when the pick-up overturned. The defendant had contended that the accident was caused by the driver of a taxi who had cut into the defendant's path without warning, causing the defendant to swerve and apply his brakes, and colliding onto the road divider, thus causing the pick-up to overturn. Similar to our case here, the plaintiff in that case also could not recall how the accident occurred because he was dozing off at the back of the pick-up. There were also no other witnesses in that case. The High Court stated at \[4\] that, “_the mere fact that the accident happens speaks for itself and in applying the maxim res ipsa loquitur, the court can draw an inference of negligence against the defendant so as to establish a prima facie case against him_.” The High Court then went on to quote a passage from the leading case of Scott v St Katherine Docks Co (1865) 3 H & C 596 d where Erle CJ said:
+
+> "There must be reasonable evidence of negligence. But where the thing is shown to be under the management of the defendant or his servants, and the accident is such as in the ordinary course of things does not happen if those who have management use proper care, it affords reasonable evidence, in the absence of explanation by the defendants, that the accident arose from want of care.”
+
+31     In the case of _Ooi Han Sun_, as the pick-up was at all times under the control and management of the defendant, and the accident which resulted in the pick-up overturning in the middle of the road could not have happened in the ordinary course of things without negligence on the part of the defendant, the maxim res ipsa loquitur was found to be applicable. The burden of proof was therefore shifted to the defendant to show how the accident actually occurred, and how this was consistent with due care on his part. The High Court had difficulty believing the defendant's version of what happened and therefore found that the defendant had not rebutted the inference of negligence against him.
+
+32     The Plaintiff also cited the case of _Muthan Sinnathambi v Puran Singh_ <span class="citation">\[1992\] 2 SLR(R) 88</span> (“_Muthan Sinnathambi_”) in which Justice Yong Pung How, as he then was, said (at \[5\]):
+
+> "5.    In this case, there were no witnesses for the Plaintiff, but the mere fact that the accident occurred spoke for itself and, in applying the maxim res ipsa loquitur, the court could draw an inference of negligence against the Defendant so as to establish a prima facie case against him. The motorcycle was at all times under the Defendant's control and management, and the accident which involved the motorcycle going off the road and colliding into a tree could not have happened in the ordinary course of things without negligence on his part. A burden is therefore cast upon the Defendant, and he must show how the accident actually occurred, and how this was consistent with due care on his part. In other words, he must rebut the inference of negligence raised against him: Ooi Han Sun v Bee Hua Meng \[1991\] 1 SLR (R) 922. "
+
+33     In the case of _Muthan Sinnathambi_, the defendant’s motorcycle had gone off the road and collided into a tree, killing the pillion rider. In his Defence, the defendant had alleged that the deceased was contributory negligent because the deceased had clutched and pulled violently at the defendant's torso when the Defendant was braking and swerving to avoid a collision with a pick-up, which resulted in the defendant losing control of his motorcycle, causing it to crash into a tree. Justice Yong Pung How said (at \[9\])
+
+> "9.    At the hearing, the allegation of contributory negligence against the deceased was wisely not pressed by the Defendant's counsel. The fact was that the Defendant's account of the deceased's actions, coupled with his demonstration of the Defendant's pulling on his left arm, was totally unconvincing. Even if this had happened, it would have been a reflex or instinctive action on the part of the deceased which was brought about by the action of the Defendant in braking and swerving and could not have amounted to contributory negligence on the part of the deceased.
+
+> 10.    The question which then remains is whether the accident was in fact caused by the negligence of the driver of the unknown pickup, as alleged by the Defendant. In circumstances such as these, the answer must necessarily depend on whether the solitary evidence of the Defendant is accepted. The account which he gave of how the pickup overtook him on his left was an unusual one, as he himself readily admitted in cross-examination. There was no conceivable reason for the pickup to have squeezed through on his left and into the restricted space between him and the lorry, when it had the whole of the right-hand side of the road to use. This would have been so if it was going to overtake both the motorcycle and the lorry; it would have been just as inconceivable if it was not going to do so.
+
+> 11.    The version which the Defendant told about the pickup was broadly what he had reported to the police some 17 days after the accident when he was discharged from the hospital. I watched him carefully while he gave his evidence, and came to the conclusion that here was an otherwise honest person who, for some unknown reason, had decided while in hospital to concoct a story and, having done so, had to stick to the same silly story which did not do justice to himself and his counsel. The result was that in the witness box he could not remember simple facts which he should have remembered and was unnecessarily hesitant when he could. In my opinion, having heard his evidence and having watched him giving it, there was no pickup and there might even have been no lorry. For some reason which we do not know, the Defendant simply lost control of his motorcycle and went off the road and collided into a tree. In my judgment, the Defendant was wholly to blame for the accident.”
+
+34     As stated by Justice Judith Prakash in the case of _Chai Yew Chian v Yeoh Yeow Yee and Others_ <span class="citation">\[2015\] SGHC 124</span> (“_Chai Yew Chian_”) (at \[10\]), “From the plaintiff’s point of view, her lack of memory is not fatal or even very significant. She was an innocent party injured by events caused by the first and/or the second defendant. In this situation, the law is that the proper inference to be drawn is that the collision was caused either by the negligence of both the first and second defendants or by the negligence of the first defendant or of the second defendant and it is for the defendants to rebut the inference of negligence on their part and show that they were blameless (see _Tan Eng Bok v Kim Meng Kok_ \[1988\] 1 SLF (R) 554).”
+
+35     The facts of this case is similar to the facts in the aforestated cases in which the doctrine of res ipsa loquitur was found to be applicable. The Plaintiff is the innocent pillion rider. As the Defendant has already withdrawn his allegation that the Plaintiff was not wearing a crash helmet at the material time (_and this is because the Plaintiff was in fact wearing a proper crash helmet and this initial allegation of the Defendant was completely groundless_), the Plaintiff cannot be held guilty of any contributory negligence. Save that he can only recall that the Defendant was travelling at a fast speed, the Plaintiff is unable to recall or give any evidence as to how the accident occurred. As stated by Justice Judith Prakash in _Chai Yew Chian_, the lack of memory by the Plaintiff of the accident is not fatal to his case. The motorcycle was at all times under the control and management of the Defendant, and the accident could not have occurred in the ordinary course of things without negligence on the Defendant's part. Hence, applying the maxim res ipsa loquitur, an inference of negligence against the Defendant can be drawn. A prima facie case of negligence against the Defendant is thus established. The burden is then cast upon the Defendant to show how the accident actually occurred, and to show how this was consistent with due care on his part, in order to rebut the inference of negligence raised against him.
+
+36     As the Defendant had put the blame on the driver of an unknown car, the answer to the question whether the accident was in fact caused by the negligence of the driver of the unknown car as alleged by the Defendant will depend on whether the solitary evidence of the Defendant is accepted. I have already made the finding that the Defendant’s evidence consists only of a bare assertion based on a mere conjecture on his part and is not supported or corroborated by any other evidence. I have also found that it is likely that the accident was caused by the Defendant speeding while in the process of cutting across two lanes to the left to move from Lane 2 of the PIE into BKE and that in so doing, the Defendant’s motorcycle had skidded due to the speed of the motorcycle or due to the Defendant swerving it to avoid oncoming vehicles.
+
+37     Based on the above analysis, I conclude that the inference of negligence on the part of the Defendant has not been displaced.
+
+### Whether the Defendant is solely liable to the Plaintiff
+
+38     As I have found the Defendant to have failed to displace the inference of negligence against him, the result is that the Defendant must necessarily be liable to the Plaintiff.
+
+39     In any event, even if I were to accept the Defendant’s case that there was another unknown car that was involved in the accident, the Defendant would still be solely liable to the Plaintiff. In the case of Tan Bok Eng v Lim Meng Kok \[1988\] 1 SLR (R) 554 (“_Tan Bok Eng_"), there were two defendants involved in the accident. The case proceeded only as against the first defendant. Justice LP Thean recognised that the facts do point to the second defendant being more blameworthy than the first defendant (see \[7\]). It was nonetheless held that, “_even if the extent of (the first defendant’s) blame for the accident was only 1%, the first defendant would still be a joint tortfeasor with the second defendant and vis-à-vis the plaintiff would be wholly liable_” (see \[7\]).
+
+40     The law on joint tortfeasors is that where an injury has been inflicted on a plaintiff and the injury is indivisble, any tortfeasor whose act has been a proximate cause of the injury must compensate for the whole of it (see TV Media Pte Ltd v De Cruz Andrea Heidi <span class="citation">\[2004\] 3 SLR(R) 543</span> at \[155\]).
+
+41     Therefore, even if I were to accept that there was an unknown vehicle involved in the accident, as long as the Defendant’s negligence is found to be have contributed to the accident by only 1%, he is wholly liable to the Plaintiff. In this case, as I have found above, it is likely that the accident is caused by the Defendant’s negligence in the riding of his motorcycle as it moved from Lane 2 of the PIE into BKE. I have also found that it is likely that the Defendant had been speeding at the material time as alleged by the Plaintiff. In this connection, regardless of the involvement of another joint tortfeasor driver of an unknown car even assuming the existence thereof, the Defendant’s negligence has contributed to the accident in any event. In the circumstances, based on the law on joint tortfeasors, the Defendant is still nonetheless wholly liable to the Plaintiff.
+
+## Conclusion
+
+42     Accordingly, Interlocutory Judgment is entered against the Defendant based on 100% liabiltiy, with damages to be assessed by the Registrar and costs reserved to after the assessment of damages.
+
+* * *
+
+[^1]: Supplementary Set Down Bundle (“2BP”) 14
+
+[^2]: 2BP 15
+
+[^3]: Affidavit of Evidence In Chief (“AEIC”) of the Plaintiff, \[6\]
+
+[^4]: AEIC of the Plaintiff, \[11\]
+
+[^5]: AEIC of the Defendant, \[7\]; Defence Amendment No.1, \[4\]
+
+[^6]: Notes of Evidence (“NE”), 26 November 2020, 9 / 2 – 30
+
+[^7]: Intervener’s closing submissions, \[11\]
+
+[^8]: Intervener’s closing submissions, \[9\] – \[10\]
+
+[^9]: AEIC of the Defendant, \[11\]
+
+[^10]: NE, 24 February 2020, 3 / 12 – 14; 5 / 13 – 17
+
+[^11]: Defendant’s Bundle of Documents (“DBD”) 4
+
+[^12]: AEIC of the Defendant, \[7\]
+
+[^13]: NE, 26 November 2020, 28 / 5 – 14
+
+[^14]: NE, 26 November 2020, 36 / 22 – 29
+
+[^15]: NE, 26 November 2020, 36 / 18 – 31
+
+[^16]: NE, 26 November 2020, 28 / 23 – 26
+
+[^17]: AEIC of the Plaintiff, \[11\]
+
+[^18]: AEIC of the Plaintiff, \[7\]
+
+[^19]: NE, 24 February 2020, 18 / 13 – 23
+
+[^20]: NE, 24 February 2020, 32 / 1 -13; 34 / 11 – 21
+
+[^21]: AEIC of the Defendant, \[6\] – \[7\]
+
+[^22]: NE, 26 November 2020, 12 / 19 – 13 / 3 ; 16 / 13 – 16
+
+[^23]: NE, 26 November 2020, 16 / 17 – 22
+
+[^24]: NE, 26 November 2020, 39 / 29 – 40 / 3 ; 48 / 10 – 15
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F25868-SSP.xml)
