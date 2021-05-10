@@ -17,6 +17,9 @@ styling_options:
   opendoc_logo_path: /assets/images/logo-full.png
   feedback_url: null
 document_order:
+  - 2021_SGDC_82
+  - 2021_SGDC_83
+  - 2021_SGDC_84
   - 2021_SGDC_81
   - 2021_SGDC_72
   - 2021_SGDC_74
