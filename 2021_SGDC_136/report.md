@@ -1,0 +1,261 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Aw Chwee Chye _v_ Muhammad Insan Bin Abdullah  
+
+### \[2021\] SGDC 136
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">District Court Suit No 3290 of 2017</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">21 July 2021</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Lim Mei Yee Elaine</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Mrs Susila Ganesan (Low Yeap Toh &amp; Goon LLP) for the plaintiff; Mr Mohammad Shafiq bin Haja Maideen (Abdul Rahman Law Corporation) for the defendant.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Aw Chwee Chye — Muhammad Insan Bin Abdullah</td></tr></tbody></table>
+
+Tort – Negligence – Breach of duty
+
+Tort – Negligence – Contributory negligence
+
+21 July 2021
+
+### District Judge Lim Mei Yee Elaine:
+
+## Introduction
+
+1       In the early hours of 14 December 2014, a collision occurred inside the controlled cross junction of Yishun Avenue 7, Gambas Avenue and Sembawang Road (the “**Junction**”), between the plaintiff’s lorry GV 1535T and the defendant’s rented car SGE 1494S. At the time, the plaintiff was crossing the Junction from Yishun Avenue 7 towards Gambas Avenue. The defendant had entered the Junction from Sembawang Road, which was perpendicular and to the left of the plaintiff.
+
+2       As a result of the accident, the plaintiff was injured and his lorry was damaged. The plaintiff brought this action for losses arising from his injuries and the damage to his lorry.
+
+3       The trial before me was solely to determine liability. Both parties alleged that the other had caused the accident by entering the Junction when the traffic lights were red against him. These positions are mutually exclusive, in that the traffic lights at the Junction must have been green in favour of one party and red against the other.
+
+4       It was not disputed that the party who had beat the red light would be wholly liable for the accident, subject to any contributory negligence on the part of the other party: see scenarios 5(a) and (b) of _Motor Accident Guide: A Guide on the Assessment of Liability in Motor Accident Cases_ (Mighty Minds Publishing Pte Ltd, 2nd Ed, 2016) (“**MAG**”).[^1] Thus there are two main issues in this case:
+
+> (a)     first, which party had beat the red light, and
+
+> (b)     second, whether the party who did not beat the red light was contributorily negligent. If so, what is the appropriate apportionment of liability between the parties.
+
+5       Three witnesses gave evidence at the trial: the plaintiff, the defendant and his mother, Mdm Saripah Binte Hussain (“Mdm Saripah”), who was the front seat passenger in the defendant’s car.
+
+6       After considering the evidence and the parties’ submissions, I find the defendant wholly liable to the plaintiff. I set out my reasons below.
+
+## Background facts
+
+7       The following facts are undisputed.
+
+8       The plaintiff is a fishmonger. In his daily route from his home to Senoko Fish Market to pick up fish stock, he travels across the Junction from Yishun Avenue 7 towards Gambas Avenue. At the time of the accident, he was on his way to Senoko Fish Market to pick up fish stock.[^2] He had entered the Junction from lane two of Yishun Avenue 7.[^3]
+
+9       The defendant and his mother were heading home from a birthday celebration for the defendant’s uncle at Bedok. The defendant was travelling on lane two of Sembawang Road prior to entering the Junction.[^4]
+
+10     At the time of the accident, the traffic lights at the Junction were working, the weather was clear, the road was dry and the traffic volume was light. The plaintiff’s lorry had crossed the width of about four lanes into the Junction, while the defendant’s car had crossed about a car length into the Junction, at the point that they collided.[^5]
+
+11     Upon impact, the plaintiff was flung out of his lorry and the defendant’s car spun around. Both parties lost consciousness for a while.[^6]
+
+12     The Traffic Police investigated the accident, but were unable to conclusively determine which party was at fault.[^7]
+
+## Issue 1: Which party had beat the red light at the Junction
+
+13     Regrettably, there was no contemporaneous objective evidence, such as video footage, on the state of the traffic lights at the Junction at the material time. In their accident statement reports and police reports, each party alleged that the traffic lights were in their favour when they entered the Junction.[^8]
+
+14     The determination of this issue therefore rested heavily on the credibility of the witnesses at trial. I summarise below the key points of the witnesses’ evidence at trial, before analysing their credibility.
+
+### The plaintiff’s evidence at trial
+
+15     The plaintiff testified that he wakes up at 3.30am and leaves his home at about 4am daily. If the traffic lights are in his favour, he takes about 15 to 20 minutes to travel to Senoko Fish Market to pick up fish stock, and another 15 minutes to travel to his stall at Yishun Chong Pang Market. If the traffic lights are not in his favour, he takes about double the time. Once he arrives at Yishun Chong Pang Market, he takes about ten minutes to set up his stall.[^9] On the morning of the accident, he had not overslept as it has become his habit to wake up at 3.30am daily.[^10] Thus he was not in a rush that morning.
+
+16     The plaintiff admitted that he knew that there are no red-light cameras or speed cameras at the portion of Gambas Avenue leading up to the Junction.[^11] However, he maintained that the traffic lights were green in his favour when he entered the Junction.
+
+17     The plaintiff acknowledged that there were other competitor fish stalls at Yishun Chong Pang Market, and that if he ran late on a particular morning, some of his customers might purchase fish from his competitors instead. However, that would not cause him financial loss, as he does not purchase a lot of fish stock and is able to sell all his stock each day.[^12]
+
+### The defendant’s evidence at trial
+
+18     The defendant testified that he had obtained his military driving licence for Class 3 and Class 4 vehicles since 2009, and his civilian driving licence for Class 3 vehicles since 2013. At the time of the accident, he had been an ambulance driver for three years and had done night shifts for at least half of his roster.[^13]
+
+19     As of the date of the accident, the defendant had been on leave for more than two weeks. The night before the accident, he and Mdm Saripah left their home at about 10 or 10.15pm to head to Bedok to celebrate the birthday of Mdm Saripah’s younger brother, _ie_, his uncle.[^14] They arrived at the celebration venue at about 11pm, and left at about 3.30 or 3.45am to head home. When the defendant was travelling along Sembawang Road on the way home, there were no vehicles on all lanes of that road.[^15]
+
+20     The defendant stated that there were three arrows on the stretch of Sembawang Road leading up to the Junction. The following occurred at each arrow: [^16]
+
+> (a)     When he reached the third arrow, which was furthest from the Junction, the traffic lights were green. At that juncture, he slowed down from 50km/h, which was the speed limit of Sembawang Road, to 40 km/h to anticipate the change in the traffic lights. This was the practice taught to him in National Service, and in the driving lessons he took to obtain his civilian driving licence.
+
+> (b)     He gauged that he was about 10m away from the Junction when he slowed down to 40km/h, because the distance between the first arrow and the stop line was about 5–7m.
+
+> (c)     When he reached the second arrow, and then the first arrow which was closest to the Junction, the lights were still green. Thus he proceeded across the Junction.
+
+21     When asked about the distance between each arrow, the defendant replied that it was about 10m. He claimed that this was knowledge derived from his profession.[^17]
+
+22     During re-examination, the defendant was asked, among other things, about the colour of the traffic lights at the Junction at the time of the collision. He replied that it was difficult to say because he had lost consciousness for a while after the collision.[^18]
+
+### Mdm Saripah’s evidence at trial
+
+23     Mdm Saripah testified that on the night before the accident, she and the defendant left their home at around “8 plus” or “9 plus” pm to head to the celebration venue at Bedok. The journey from their home to Bedok probably took about 45 minutes to an hour. They spent about two or more hours at Bedok before heading home.[^19]
+
+24     On the journey home, she was relaxing in the car. She did not know the lane of Sembawang Road the defendant was driving on, the time the accident occurred, and the speed the defendant was travelling at on Sembawang Road. However, she was certain that the defendant was not speeding at the time of the accident because she could tell, while looking straight ahead of her, that the defendant was driving slowly. [^20]
+
+25     At the material time, there were no vehicles in front of their car along Sembawang Road. When the defendant was about 10m away from the Junction, she was looking straight ahead, and saw that the traffic lights were green in their favour and were red in the other direction.
+
+### My findings
+
+26     In my judgment, the defendant and Mdm Saripah were not credible witnesses.
+
+27     There was a material inconsistency in the defendant’s account of the events immediately before the collision. During cross-examination, the defendant initially claimed that he slowed down to 40km/h when he was about 10m away from the Junction, and that this occurred when he reached the third arrow on Sembawang Road. However, he also gave evidence that the distance between each of the three arrows on that road was 10m, and the distance between the first arrow and the stop line was 5 to 7m: see \[20\]–\[21\] above. If the latter were true, the defendant would have been 35 to 37m away from the Junction when he slowed down to 40km/h. He could not have been merely 10m away.
+
+28     Moreover, there was no satisfactory explanation for the defendant’s reluctance to commit to the colour of the traffic lights at the time of the collision: see \[22\] above. He had testified that the traffic lights were green in his favour when he had entered the Junction, and that he had only crossed about a car length into the Junction at the time of the collision.[^21] At his alleged speed of 40 km/h, which translates to approximately 11.1m/s, he would have covered the distance of one car length in less than a second. In the circumstances, I found it extremely curious that he could not say what the colour of the traffic lights were at the time of the collision.
+
+29     As for Mdm Saripah, there were material inconsistencies between her affidavit of evidence-in-chief (“AEIC”) dated 26 March 2021 and her evidence at trial.
+
+30     In \[5\]–\[6\] of her AEIC, Mdm Saripah had stated that:
+
+> (a)     at around 4.30am on 14 December 2014, just prior to the occurrence of the accident, the defendant was driving along the second rightmost lane of Sembawang Road and his speed was roughly 40 km/h;
+
+> (b)     as the defendant arrived at the Junction, she saw the traffic light was green in their favour and the defendant proceeded across the Junction;
+
+> (c)     just as the defendant was driving through the yellow box at the Junction, she noticed a fast approaching vehicle from their right – the plaintiff’s lorry – just before the collision.
+
+31     However, at trial, Mdm Saripah testified that she did not know the lane of Sembawang Road the defendant was driving on, the time the accident occurred, the speed the defendant was travelling at on Sembawang Road, and what was a yellow box: see \[24\] above.
+
+32     No satisfactory explanation was given by Mdm Saripah for why, at the trial, she departed from the evidence in her AEIC which was filed a mere three weeks before the trial. In my view, these inconsistencies show that Mdm Saripah’s evidence on the accident is unreliable, and that she had been prepared to echo the defendant’s account of the accident in her AEIC, even if she did not know whether his account was true.
+
+33     It was also apparent to me that Mdm Saripah’s recollection of events was unreliable at times. I provide two examples below:
+
+> (a)     Based on the timings Mdm Saripah provided at trial (see \[23\] above), she and the defendant would have left Bedok to head home sometime between midnight to 1am, at the latest. In so far as that is the case, the accident could not have taken place at around 4am as alleged by the plaintiff or around 4.30am as alleged by the defendant. It would have taken place a few hours before then. I also note that Mdm Saripah’s timings differed from those provided by the defendant as set out in \[18\] above.
+
+> (b)     Mdm Saripah testified that the defendant was working on 12 December 2014.[^22] Her evidence was, however, contradicted by the defendant’s testimony at trial that he had been on leave for more than two weeks as at the date of the accident: see \[18\] above.
+
+34     In contrast, I found the plaintiff to be a forthright and honest witness. His evidence at trial was coherent, and also consistent with his pleaded case and his AEIC.
+
+35     The defendant submitted that his account of the accident is more probable than that of the plaintiff because:[^23]
+
+> (a)     While the plaintiff might have been driving for a longer period of time, the defendant had been better trained as a driver.
+
+> (b)     At the time of the accident, the defendant was not in a rush as he was serving notice and clearing his leave. Thus there was no need for him to beat the red light on his way home.
+
+> (c)     On the other hand, the plaintiff had incentive to beat the red light. It was the plaintiff’s evidence that he would normally be at Senoko Fish Market at between 4.15–4.20am to pick up fish stocks. The investigations by the Traffic Police place the time of the accident at 4.32am, and it is judicially observable that Senoko Fish Market is 5km away from the Junction. Thus the plaintiff was clearly running late that morning, and had beat the red light in order to speed up his journey.
+
+36     I am unable to accept these submissions.
+
+37     Even if the defendant was the better trained driver and was not in a rush at the time of the accident, this does not adequately account for the inconsistencies in his evidence at trial.
+
+38     Furthermore, I do not agree that the plaintiff had incentive to beat the red light:
+
+> (a)     The defendant’s argument on this point is premised on the accident having occurred at 4.32am. However, the plaintiff was not challenged during cross-examination on his evidence in his AEIC,[^24] police report,[^25] and accident statement[^26] that the accident had occurred at around 4am. In fact, it was put to the plaintiff that he had beat the red light at the Junction at around 4am.[^27]
+
+> (b)     Even if the accident had in fact occurred at 4.32am, meaning that the plaintiff was running late that morning, I find that there was no incentive for him to beat the red light. I accept his testimony that he would not suffer financial losses even in the event that he ran late, because he is able to sell all his stock each day: see \[17\].
+
+39     In the premises, I find that the traffic lights at the Junction were green in favour of the plaintiff and red against the defendant at the time that the parties proceeded across the Junction.
+
+## Issue 2: Whether the Plaintiff was contributorily negligent
+
+40     In light of my finding that the defendant had beat the red light at the Junction, the defendant would be fully liable for the accident subject to any contributory negligence on the part of the plaintiff: see \[4\] above.
+
+41     The defendant pleaded that the plaintiff was contributory negligent in:[^28]
+
+> (a)     failing to wear his seat belt;
+
+> (b)     failing to keep a proper lookout for other traffic along the Junction;
+
+> (c)     driving at an excessive speed; and
+
+> (d)     failing to swerve or otherwise manage his lorry so as to avoid the collision.
+
+42     For the reasons explained below, I find that these allegations are unmeritorious.
+
+### Whether the plaintiff failed to wear his seat belt
+
+43     It is the unchallenged evidence of Mdm Saripah that she and the defendant had worn their seat belts at the time of the accident.[^29] The defendant submitted that the plaintiff clearly was not wearing his seat belt at the time of the accident because he was flung out of his lorry upon impact, whereas the defendant and Mdm Saripah were not flung out of their car.[^30]
+
+44     However, the defendant did not adduce any expert evidence to substantiate this submission. I therefore cannot exclude the possibility that even if the plaintiff had worn his seat belt, he could still have been flung out of his lorry for other reasons. This is especially in light of the defendant’s concession at trial that even if people wear their seat belts, they could still be flung out of their vehicle if the force of the collision was very big.[^31] On the facts, the force of the collision was great. The damage to the plaintiff’s lorry was so extensive that the surveyors, Pro Plus Automobile Engineers, recommended that it be written off as a constructive total loss.[^32] The fact that the defendant’s car had spun around upon impact also underscores the significant force of the collision.
+
+45     In the premises, I find that there is insufficient evidence to show that the plaintiff did not wear his seat belt at the time of the accident.
+
+### Whether the plaintiff failed to keep a proper lookout for other traffic along the Junction
+
+46     The defendant did not adduce any evidence to establish that even if the traffic lights were green in favour of the plaintiff, he had contributed to the occurrence of the accident by failing to keep a proper lookout. In their AEICs, both the defendant and Mdm Saripah pinpointed the cause of the accident as “the Plaintiff beating the red light”.[^33] They made no mention that the plaintiff had failed to keep a proper lookout for other traffic along the Junction. The plaintiff also was not cross-examined on his alleged failure to keep a proper lookout.
+
+47     Hence the defendant has not proven its case that the plaintiff had failed to keep a proper lookout for other traffic along the Junction.
+
+### Whether the plaintiff had driven at an excessive speed
+
+48     The defendant argued that the plaintiff had driven at an excessive speed because the force of the collision was so great that it had caused the defendant’s car to spin.[^34] However, the defendant did not adduce any evidence to show that the force of the collision could only be due to the plaintiff travelling at excessive speed.
+
+49     The plaintiff was not even cross-examined on the speed at which he was travelling. The defendant had also conceded at trial that he did not know what speed the plaintiff was travelling at.[^35]
+
+50     In the premises, I find the defendant’s argument on excessive speed to be wholly unfounded.
+
+### Whether the plaintiff failed to take the appropriate evasive action to avoid the collision
+
+51     No evidence was led by the defendant to establish that the plaintiff had failed to take appropriate evasive action to avoid the collision. The defendant and Mdm Saripah did not allege such failure on the part of the plaintiff, whether in their AEICs or at trial. Nor was the plaintiff cross-examined on this issue.
+
+52     In the circumstances, there is no basis for the defendant’s allegation that the plaintiff had failed to take appropriate evasive action.
+
+## Conclusion
+
+53     In conclusion, taking into consideration the evidence in its entirety, I find that the defendant is wholly liable for the accident.
+
+54     I will hear parties on costs up to the date of this judgment.
+
+* * *
+
+[^1]: Defendant’s Closing Submissions dated 21 June 2021 (“DCS”) at \[17\]
+
+[^2]: Notes of Evidence (“NE”), 19 April 2021, 11/20-24, 15/1-8; the Plaintiff’s Affidavit of Evidence-in-chief (“AEIC”) dated 13 May 2019 (“Plaintiff’s AEIC”) at \[3\]
+
+[^3]: Plaintiff’s AEIC at pp 12, 20
+
+[^4]: Plaintiff’s AEIC at pp 12, 20
+
+[^5]: Plaintiff’s AEIC at p 12; Defendant’s AEIC dated 22 May 2019 (“Defendant’s AEIC”) at p 7; NE, 19 April 2021, 57/9-25
+
+[^6]: Plaintiff’s AEIC at \[4\]; Defendant’s AEIC at \[9\]
+
+[^7]: Plaintiff’s AEIC at p 15
+
+[^8]: Plaintiff’s AEIC at pp 9, 19
+
+[^9]: NE, 19 April 2021, 12/11-13/13, 14/13-15, 17/4-9, 17/28-18/22
+
+[^10]: NE, 19 April 2021, 14/21-23, 20/22-21/5, 23/8-12
+
+[^11]: NE, 19 April 2021, 15/1-16/23
+
+[^12]: NE, 19 April 2021, 13/27-14/8, 17/10-18, 17/23-27
+
+[^13]: NE, 19 April 2021, 47/13-48/7, 49/30-50/6
+
+[^14]: NE, 19 April 2021, 48/19-49/20
+
+[^15]: NE, 19 April 2021, 49/21-29, 50/11-13
+
+[^16]: NE, 19 April 2021, 50/20-51/12, 51/19-24
+
+[^17]: NE, 19 April 2021, 56/6-22
+
+[^18]: NE, 19 April 2021, 65/3-6
+
+[^19]: NE, 19 April 2021, 29/15-30/11, 30/29-31/19, 34/11-17, 39/9-14
+
+[^20]: NE, 19 April 2021, 36/17-24, 37/24-26, 38/8-39/6, 39/17-24, 39/31-40/5, 43/4-19
+
+[^21]: NE, 19 April 2021, 57/22-25, 65/7-9
+
+[^22]: NEs 19 April 2021, page 31 lines 20 to 32
+
+[^23]: DCS at \[31\], \[32\], \[57\]
+
+[^24]: Plaintiff’s AEIC at \[3\]
+
+[^25]: Plaintiff’s AEIC at p 8
+
+[^26]: Plaintiff’s AEIC at p 10
+
+[^27]: NE, 19 April 2021, 20/22-28
+
+[^28]: Defence (Amendment No. 1) dated 19 October 2018 at \[5\]
+
+[^29]: Mdm Saripah’s AEIC at \[13\]
+
+[^30]: DCS at \[44\]
+
+[^31]: NE, 19 April 2021, 60/30-61-4
+
+[^32]: Plaintiff’s AEIC at pp 31–35
+
+[^33]: Defendant’s AEIC at \[8\]; Mdm Saripah’s AEIC at \[10\]
+
+[^34]: Defendant’s AEIC at \[9\]
+
+[^35]: NE, 19 April 2021, 58/3-9
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F26267-SSP.xml)

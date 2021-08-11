@@ -1,0 +1,125 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Gabriel Prieztiano Loke Jian Xun _v_ Loke Siew Kee  
+
+### \[2021\] SGDC 97
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">District Court Suit No 2990 of 2019, Summons No 155 of 2021</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">27 May 2021</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Joanne Leong</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Foo Soon Yien and Eugenia Kwong Yan Ying (BR Law Corporation) for the plaintiff; Lim Ying Ying (Yuen Law LLC) for the defendant.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Gabriel Prieztiano Loke Jian Xun — Loke Siew Kee</td></tr></tbody></table>
+
+Civil Procedure – Affidavits – Dispensation of affidavit of evidence-in-chief
+
+27 May 2021
+
+### Deputy Registrar Joanne Leong:
+
+1       This was the plaintiff’s application for leave of court for a witness to give her evidence-in-chief orally at trial, and for her affidavit of evidence-in-chief (“AEIC”) to be dispensed with. Having heard the parties’ arguments, I allowed the application with brief oral reasons. I now provide the full grounds of my decision.
+
+## Background
+
+2       The dispute that forms the background to the present application pertains to the execution of the will of Loke Soon Han (“Testator”). The plaintiff is the Testator’s son, and a beneficiary of the Testator’s estate. The defendant is the Testator’s sister and sole executrix of the Testator’s estate. The defendant is also the plaintiff’s paternal aunt.
+
+3       The issue of the extent of the Testator’s shareholding lies at the heart of the dispute. Prior to the Testator’s death, he was one of the original shareholders in a company known as Kian Hoe Loke Kee Pte Ltd (“the Company”). The other shareholders were Testator’s brothers, including one Loh Soon Yam (“LSY”) and one Loke Soon Seet (“LSS”).[^1] Upon the Company’s incorporation in 1977, the Testator had an initial shareholding of 59,523 shares.
+
+4       According to the plaintiff, two share transfers from LSS and LSY to the Testator occurred, one of which took place in 2002. The result of the two transfers was that the Testator became the owner of a total of 135,133 shares.[^2]
+
+5       These two share transfers are disputed by the defendant, who contends that although the relevant share transfer agreements were prepared and signed, the share transfers were not effected. Instead, the defendant’s position is that LSY only intended to give 8,044 shares to the Testator. This meant that the Testator was the legal and beneficial owner of a total of only 67,567 shares (including the Testator’s initial shareholding of 59,523 shares) at the material time. As for the balance of 67,567 shares comprising other half of the 135,133 shares, while these were also transferred to the Testator, they were held on trust for the benefit of LSS.[^3]
+
+6       Following news of the Testator’s ill health in June 2010, the Testator’s niece, Rina Lok Li San (“Rina”), began to manage the Company on the Testator’s behalf. Rina is the plaintiff’s cousin and the defendant’s niece.[^4] Rina was also the witness to whom the present application related.
+
+7       Several months later in November 2010, the Testator executed a will (“the First Will”), and then amended it the day after (“the Second Will”). The First Will provided that “all \[the Testator’s\] 59,523 … of the \[Company\]” was to be bequeathed to the plaintiff. This clause was amended in the Second Will to state that “all \[the Testator’s\] shares of the \[C\]ompany”.[^5] Notably, in the Second Will, the number of shares to be bequeathed to the plaintiff was not expressly stated. The Testator passed away later that same month.
+
+8       About half a year after the Testator’s death in May 2011, two share transfers from LSS and LSY to the Testator were registered with ACRA. These mirror those share transfers alleged by the plaintiff to have taken place (as stated at \[4\] above).[^6]
+
+9       As the sole executrix, the defendant applied for the grant of probate in respect of the Testator’s estate by submitting the First Will, and not the Second Will. The grant of probate was issued in November 2012.
+
+10     In 2014, the defendant sold all the Testator’s shares and deposited the sales proceeds into the Testator’s bank account. The plaintiff claims that he is entitled to the whole of the sales proceeds and brought this suit for the unpaid balance.
+
+## Procedural history and the present application
+
+11     In September 2020, an Order of Court (_vide_ DC/ORC 2922/2020) was extracted by the plaintiff following directions given by the court under O 25 r 1 of the Rules of Court (Cap 322, R 5, 2014 Rev Ed) (“ROC”). Rina was named therein as one of the plaintiff’s witnesses. The Order of Court further stipulated that the AEICs of all witnesses were to be exchanged by 11 December 2020. In January 2021, the defendant’s solicitors consented to the plaintiff solicitors’ summons for an extension of time to file and exchange parties' AEICs by 11 January 2021.
+
+12     On 5 January 2021, the plaintiff’s solicitors wrote an email to Rina requesting that she give a statement for the purposes of preparing her AEIC. Rina responded that same evening, stating that she “\[did\] not agree to giving a detailed statement” and “\[did\] not wish to depose to an affidavit”.[^7]
+
+13     On 11 January 2021, the defendant filed its witnesses’ AEICs. The plaintiff filed its witnesses’ AEICs except Rina’s, and also filed the present application (_ie_, DC/SUM 155/2021 (“SUM 155”)) on the same date for Rina’s evidence-in-chief to be given orally instead of by affidavit.
+
+## Legal principles
+
+14     Pursuant to O 38 r 2(1) of the ROC, the general rule in trials of actions commenced by writ is that a witness must give his evidence-in-chief by way of an affidavit. This is because of the judicial policy against trial by ambush, which requires the timely submission of evidence-in-chief in affidavit form: _Basil Anthony Herman v Premier Security Co-operative Ltd and others_ <span class="citation">\[2010\] 3 SLR 110</span> at \[78\].
+
+15     However, under O 38 r 2(4) of the ROC, the court may, “if it thinks just”, exercise its discretion thereunder to allow a witness to give his evidence-in-chief either entirely or partially by oral testimony at the trial instead.
+
+## Parties’ arguments
+
+16     The plaintiff’s basis for SUM 155 was that while Rina was a material witness, she refused to depose to an AEIC. It would thus be in the interests of justice to adduce her evidence-in-chief orally at trial.
+
+17     The defendant opposed the application, arguing that the plaintiff’s application in SUM 155 took them by surprise, and that it would be prejudicial for various reasons to permit Rina to give her evidence-in-chief orally.
+
+## Decision
+
+18     In my judgment, it was in the interests of justice to grant the plaintiff’s application and allow Rina to give her evidence-in-chief orally, as long as certain conditions (discussed at \[29\] below) were met by the plaintiff. The defendant’s allegations of prejudice were, to an extent, unmeritorious. Where there was a potential risk of prejudice, this would be adequately mitigated by the rigours of trial. I explain below.
+
+### Materiality of the witness
+
+19     As a preliminary matter, I noted that Rina is clearly a material and significant witness. Indeed, this was undisputed between the parties. Rina was involved in the running of the Company since the Testator fell ill sometime in June 2010. She had also been involved in arranging for the drafting of the First and Second Wills when the Testator was ill. Furthermore, according to the plaintiff, Rina had, after she took over the management of the Company, discovered certain shareholders’ and directors’ resolutions and letters pertaining to the disputed transfer of LSS’s and LSY’s shares to the Testator, even if she was not involved when the resolutions were passed.[^8] The plaintiff also claimed that Rina has personal knowledge of the circumstances surrounding the registration of the share transfers from LSS and LSY to the Testator (see \[8\] above).[^9] Rina was therefore likely to be a significant witness at the trial.
+
+### Justification for the application
+
+20     I now turn to the reasons underlying this application. As the plaintiff stated in his supporting affidavit, Rina refused to depose to an AEIC despite several requests made over the course of about half a year beginning in August 2020. Rina refused as she did not want to be embroiled in the family dispute, given that Rina was related to both the plaintiff and the defendant.[^10] The plaintiff nonetheless included Rina’s name in his list of witnesses as it was his intention to subpoena Rina in the event she continued to be uncooperative.[^11] On 5 January 2021, the plaintiff’s counsel requested by email and letter that Rina give a detailed statement. Rina responded to state that she did not agree to give a detailed statement. Later that same day, the plaintiff’s counsel asked Rina to confirm if she was not willing to depose to an AEIC, and Rina confirmed in writing that she was not.
+
+21     Given the sequence of events and Rina’s repeated refusal, I was satisfied that an AEIC could not be obtained from Rina. I was further persuaded that this constituted a justification for the present application. Although there was little case law on this point, I took guidance from Jeffrey Pinsler, “A Review of Recent Amendments to the Rules of the Supreme Court” <span class="citation">(1991) 3 SAcLJ 167</span> at 174, as relied on by the plaintiff. Therein, Jeffrey Pinsler SC noted that the court may grant leave for a witness’ AEIC to be dispensed with if the witness refuses to depose to one:
+
+>     There may be situations in which the court may be satisfied that an affidavit cannot be obtained from a particular witness. What constitutes ‘sufficient cause’ remains to be determined but likely instances include a party not knowing the whereabouts of the witness despite reasonable efforts to locate him _or the situation in which the witness refuses to depose_. In these circumstances the court will have _to decide on an alternative method for disclosing the witness’s evidence to the other parties prior to the trial_. The discretion might also be exercised under Order 38 rule 2(4) when, for instance, a new witness appears on the scene just before the trial so that there is no time for the affidavit process to operate. \[emphasis added in italics\]
+
+22     The defendant argued that the plaintiff’s counsel had asked for Rina’s written confirmation of her refusal at the eleventh hour, _ie_, only in early January 2021. While that might be so, I noted that the plaintiff had also failed in multiple earlier attempts to secure Rina’s cooperation. The defendant did not dispute the existence of those earlier requests. The defendant also argued that there were no reasons given by Rina herself in the relevant correspondence for her refusal. However, the plaintiff had stated on affidavit the reasons communicated to him by Rina in September 2020. In any case, regardless of Rina’s reasons, the fact remained that she has refused to depose to an affidavit. There was no basis to suggest that Rina’s refusal was not genuine.
+
+### Prejudice to the defendant
+
+23     I now address the defendant’s argument that he would, for various reasons, suffer prejudice if the application was allowed. First, the defendant argued that the plaintiff should have subpoenaed Rina at the earliest juncture when it became known that Rina objected to deposing to an AEIC, and “should not have waited until the last minute” to subpoena Rina.[^12]
+
+24     In my view, the defendant’s point was irrelevant to the present application. I noted that the defendant’s written submissions made refence to SUM 155 being an application to subpoena Rina. This was inaccurate, as SUM 155 was not an application to subpoena Rina; it was an application for leave for Rina’s evidence-in-chief to be given orally at trial instead of by affidavit. There was no pending application to subpoena Rina at the time this application was heard. Further, the timing of any subpoena application was irrelevant to this application. Given the existence of this application, it was clearly the plaintiff’s intention to adduce Rina’s evidence at the trial, and by extension, to apply to subpoena Rina at the appropriate juncture if she refused to attend to give her evidence orally.
+
+25     Second, the defendant argued that it would be prejudicial if Rina was allowed to give evidence orally, because Rina had not been reliable or truthful. In particular, the defendant cited a meeting that occurred in August 2020 between Rina and members of the family who were involved in the Company, where Rina allegedly stated that she was prepared to lie about certain facts relating to the dispute in order to protect herself.[^13]
+
+26     I was of the view that this argument was wholly unmeritorious. I noted that the plaintiff’s argument in substance went beyond a mere objection to Rina giving her evidence orally. It was in fact an objection to Rina giving any evidence at all, as there is no reason why any (alleged) dishonesty would emerge only if her evidence were given orally. In any event, it would be for the trial judge to assess the truth of Rina’s testimony. To exclude Rina’s evidence on the basis of what was allegedly said in the past would be to prejudge an issue which is properly left to the trial court.
+
+27     Third, the defendant argued that the last-minute nature of SUM 155 meant that Rina might have seen the defendant’s witnesses’ AEICs before giving her own evidence-in-chief in court. According to the defendant, there was no prior indication from the plaintiff between September 2020 to 11 January 2021 that Rina did not want to be a witness or that she did not want to give her evidence in the form of an AEIC.[^14] The plaintiff had several opportunities to inform the defendant of Rina’s refusal but did not do so. The defendant only knew of Rina’s refusal _after_ the AEICs of the other witnesses were filed and exchanged. The result of all this was that there was a risk that Rina may have read the AEICs already tendered and tailor her evidence at trial, causing the defendant prejudice.
+
+28     I acknowledged that there might be such a risk, given the late stage at which the present application was filed. However, I was of the view that this risk will be ameliorated to some extent because Rina will be subjected to cross-examination at trial. Hence, the veracity of her evidence will still be tested before the trial judge. As the Court of Appeal stated in _Auto Clean ‘N’ Shine Services v Eastern Publishing Associates Pte Ltd_ <span class="citation">\[1997\] 2 SLR(R) 427</span> (“_Auto Clean ‘N’ Shine_”) at \[20\], while it is accepted that there is always a possibility of a party re-shaping his own evidence after seeing the opposing parties’ AEICs, our courts are sufficiently perceptive and robust to deal with this risk at trial through the trial process. Because of this, the courts have similarly permitted AEICs to be exchanged sequentially instead of simultaneously in special circumstances: _Auto Clean ‘N’ Shine_ at \[20\]–\[21\].
+
+29     That being said, I was mindful of the judicial policy against trial by ambush and agreed with Jeffrey Pinsler SC’s statement (reproduced at \[21\] above) that an alternative method for disclosing the witness’s evidence to the other party prior to the trial should be provided for. At the hearing of this application, the plaintiff’s counsel suggested providing to the defendant a list of questions intended to be posed to Rina during her evidence-in-chief. I agreed that this was a sensible proposal which would provide sufficient notice of the nature of Rina’s evidence-in-chief, so long as the list was provided in good time. To provide further clarity to the defendant, I was of the view that an additional list which stated the issues to be covered by Rina’s evidence-in-chief should also be provided.
+
+## Conclusion
+
+30     Accordingly, I granted leave for the plaintiff’s witness, Rina, to give her evidence-in-chief orally and for her AEIC to be dispensed with, on the condition that the plaintiff’s counsel provide to the defendant within four weeks of my decision the list of questions and list of issues as described above.
+
+* * *
+
+[^1]: Statement of Claim (“SOC”) at para 4.
+
+[^2]: SOC at paras 6–7.
+
+[^3]: Defence (Amendment No 2) at paras 6–7.
+
+[^4]: Plaintiff’s reply affidavit at para 6.
+
+[^5]: Plaintiff’s AEIC at GL-5, pp 83–87 and 88–91.
+
+[^6]: SOC at para 13.
+
+[^7]: Plaintiff’s supporting affidavit at GL-6, pp 9-14.
+
+[^8]: Plaintiff’s AEIC at paras 9–13.
+
+[^9]: Plaintiff’s written submissions at para 5.3; Plaintiff’s AEIC at para 21.
+
+[^10]: Plaintiff’s reply affidavit at para 6.
+
+[^11]: Plaintiff’s reply affidavit at para 7.
+
+[^12]: Defendant’s further submissions at para 17.
+
+[^13]: Defendant’s reply affidavit at para 34.
+
+[^14]: Defendant’s reply affidavit at para 16.
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F26263-SSP.xml)

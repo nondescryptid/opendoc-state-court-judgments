@@ -1,0 +1,335 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Ro Sungyoung and another  
+
+### \[2021\] SGDC 104
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">District Arrest Case 913893 of 2020 and 913839 of 2020, Magistrate's Appeal Nos. 9118/2021/01 and 9119/2021/01</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">04 June 2021</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Jill Tan Li Ching</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Navindraram Naidu, Kelvin Chong &amp; Victoria Ting (Attorney-General's Chambers) for the Public Prosecutor; Hamidul Haq &amp; Wan Zahrah bte Ahmad Alif Lim (Rajah &amp; Tann LLP) for both the Accused.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Ro Sungyoung — Kim Young-Gyu</td></tr></tbody></table>
+
+Criminal Law – Statutory offence – Prevention of Corruption Act
+
+Criminal Procedure and sentencing – Sentencing
+
+\[LawNet Editorial Note: An appeal to this decision has been filed in MA 9118/2021/01 and MA 9119/2021/01.
+
+4 June 2021
+
+### District Judge Jill Tan Li Ching:
+
+## Introduction
+
+1       The accused persons, Ro Sungyoung (“Ro”) and Kim Young-Gyu (“Kim”), each pleaded guilty to one charge under s 6(b) read with s 7 and s 29(a) of the Prevention of Corruption Act (Cap 241, 1993 Rev Ed) (“PCA”). Each man’s charge was for engaging in a conspiracy with the other to corruptly give gratification in the form of a loan of $30,000 to one Foo Yung Thye Henry (“Foo”), an employee of the Land Transport Authority (“LTA”). The gratification was an inducement for Foo doing an act in relation to his principal’s affairs, namely, advancing the business interests of Daewoo Engineering & Construction Co Ltd (“Daewoo”) with LTA. Kim and Ro each had one similar charge taken into consideration for the purpose of sentencing (“TIC”), which involved giving Foo gratification in the form of a loan of $20,000. They were each sentenced to eight months’ imprisonment. These are the grounds for my decision.
+
+## Facts
+
+2       A Joint Statement of Facts[^1] was tendered for Ro and Kim, which they admitted to without qualification. These facts are summarised below.
+
+### Background
+
+3       On 21 April 2014, LTA awarded the main contract (“T216”) for the construction of the Stevens Mass Rapid Transit Station to Daewoo, for S$441 million. It was the first time Daewoo had been awarded such a project in Singapore. At the material time:
+
+> (a)     Kim was a Project Director with Daewoo, and was overall in charge of the T216 project as well as Daewoo’s Singapore office. He reported to Daewoo’s vice-president who was based in South Korea.
+
+> (b)     Ro was a Project Manager with Daewoo, and was responsible for liaising with Daewoo’s clients, including LTA. Ro worked on the T216 project, and reported to Kim.
+
+> (c)     Foo was the Deputy Group Director, Thomson-East Coast and Cross-Island Lines (Civil), of LTA. Stevens Station is on the Thomson-East Coast line, and Foo was in charge of the T216 project as part of his responsibilities. He had also been a member of the tender steering committee and the chairman of the tender evaluation committee for the award of T216.
+
+4       Kim and Ro reported to Foo for official quarterly meetings with LTA, and they began communicating with him frequently from 2015. Initially, Ro regarded Foo as difficult to talk to, and demanding on Daewoo. Kim and Ro did not speak to Foo on non-work matters, and were not friends with him. In mid-2018, Foo informed Ro that he had financial problems and asked for a loan. Ro, being afraid of offending Foo due to his senior position within LTA, responded that he would discuss the request with Kim.
+
+5       Kim initially rejected the request angrily when it was conveyed to him. This was because he knew that Daewoo had strong compliance policies prohibiting the payment of monies to clients, and that such a payment would be against Singapore law. Foo repeated his request at least two to three times, and was rejected with the excuse that Daewoo was undergoing financial difficulties. However, as he persisted, Ro and Kim eventually decided that they could no longer deny Foo’s requests, in view of his position within LTA and on T216.
+
+6       Kim and Ro hoped that agreeing to Foo’s request would put them on friendly terms with him and facilitate the smooth progress of works on T216. Kim feared that offending Foo would lead to him applying time pressure on Daewoo or influencing LTA’s inspections such that Daewoo would be made to re-do work that failed the inspections. Ro, for his part, thought that a good relationship with Foo was important as Foo had been demanding on Daewoo in their compliance with safety and environmental regulations. They also hoped that granting Foo’s request would stand them in good stead to be awarded future contracts by LTA, especially in comparison with other contractors who had not given monies to Foo. It was thus that Kim and Ro conspired to corruptly give gratification to Foo as inducement for Foo to advance Daewoo’s business interests in relation to contracts with the LTA, a public body.
+
+7       Kim left Ro to decide how much to give Foo, and how to raise the money. As compensation, Kim promised to offer Ro the role of a project director with an increased monthly salary of $20,000, up from the $15,000 that he was drawing, since they were unsure if Foo would repay the loan. Ro obtained the money from rental income from a property he owned in Seoul. They did not report this matter to Daewoo’s headquarters in South Korea.
+
+### Facts Concerning the Proceeded Charges – DAC 913839/2020 (Kim) and DAC 913893/2020 (Ro)
+
+8       The proceeded charges for Kim and Ro concerned a request by Foo in December 2018 for a loan. The request was made to Ro by WhatsApp, and Foo stated that he needed to urgently raise money for family issues. Ro then sought Kim’s approval to extend a payment to Foo. They felt that it was wrong to give money to Foo due to his position within LTA, but feared offending him, and wanted to be in his “good books” to facilitate the progress of T216. Kim thus agreed to the payment, and both men decided to give Foo $30,000.
+
+9       Ro informed Foo of this, after which Foo asked Ro to deposit the sum of $30,000 in four separate payments, into two bank accounts. The following amounts were thus deposited by Ro in cash on 6 December 2018:
+
+> (a)     Amounts of $8,200 and $7,800 into an account held by Foo; and
+
+> (b)     Amounts of $8,000 and $6,000 into an account jointly held by Foo and his wife.
+
+10     Ro informed Foo after the payments were completed. Foo communicated his appreciation for this and stated that he would repay the money, but did not specify when. There was no subsequent discussion on this, and the monies were not repaid.
+
+### Subsequent Communications and Assistance
+
+11     On 3 May 2019, Ro contacted Foo by WhatsApp to request for a “cover up” of certain safety cleanliness infringements, as LTA had inspected the T216 work site and Daewoo had been given a negative score. Ro’s motivation in seeking Foo’s help was his concern that this infringement would adversely affect Daewoo’s ongoing bid for another LTA project, the Jurong Extension Line (“JEL project”). Instead of rejecting Ro’s request, since Foo felt indebted to Kim and Ro for the monies extended in 2018, he responded that he would help by speaking to LTA’s Group Director of Safety and Contracts. However, Foo’s intervention did not change Daewoo’s negative score. Daewoo was also not awarded the JEL project.
+
+12     In August 2019, Kim asked Ro to approach Foo to find out why Daewoo had failed in a tender relating to yet another project, for the construction of tunnels at Changi Airport (“T316”). This was so that Kim could answer to Daewoo’s headquarters in South Korea for the failure. Ro thus contacted Foo on WhatsApp on 14 August 2019 seeking the explanation. In reply, Foo sent Ro a screenshot of the tender evaluation committee’s assessment, containing the reason for Daewoo failing the tender requirements. Foo also stated, “Pls do not forward this. It’s confidential info, only for you and PD Kim.” Foo added, “Will help you guys more for CRL1 tenders.” Foo knew that the correct means for Daewoo to obtain information on their failure was through a formal written request to LTA, and that he should not have given Ro the screenshot.
+
+## Sentencing
+
+13     Under s 6(b) read with s 7 and s 29(a) of the PCA, Kim and Ro were liable to be punished with a fine not exceeding $100,000 or to imprisonment for a term not exceeding seven years, or both. Both men had no previous convictions.
+
+14     Both parties agreed that the applicable sentencing framework was that laid down by the High Court _in PP v Wong Chee Meng & Anor_ <span class="citation">\[2020\] 5 SLR 807</span> at \[62\] to \[88\] (“_Wong Chee Meng_”). However, they disagreed on the sentencing band that should apply, and the appropriate sentence. I will set out the _Wong Chee Meng_ sentencing framework, summarise each party’s submissions on sentence, then explain my decision.
+
+### The Wong Chee Meng Sentencing Framework
+
+15     The _Wong Chee Meng_ (\[14\] _supra_) sentencing framework was based on the two-stage, five-step framework adopted in _Logachev Vadislav v PP_ <span class="citation">\[2018\] 4 SLR 609</span>. In essence, the framework requires the court to consider offence-specific as well as offender-specific factors.
+
+#### First step
+
+16     The **first step** of the framework involves **identifying the level of harm caused by the offence and the level of culpability**, having regard to the following list of non-exhaustive offender-specific factors:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="49.52%"> <col width="50.48%"> </colgroup><tbody><tr><td align="left" class="b" colspan="2" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Offence-specific factors</b></p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><u>Factors going towards harm</u></p></td><td align="left" class="" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><u>Factors going towards culpability</u></p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">(a) Actual loss caused to principal</p><p align="justify" class="Table-Para-1">(b) Benefit to the giver of gratification</p><p align="justify" class="Table-Para-1">(c) Type and extent of loss to third parties</p><p align="justify" class="Table-Para-1">(d) Public disquiet</p><p align="justify" class="Table-Para-1">(e) Offences committed as part of a group or syndicate</p><p align="justify" class="Table-Para-1">(f) Involvement of a transnational element</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">(a) Amount of gratification given or received</p><p align="justify" class="Table-Para-1">(b) Degree of planning and premeditation</p><p align="justify" class="Table-Para-1">(c) Level of sophistication</p><p align="justify" class="Table-Para-1">(d) Duration of offending</p><p align="justify" class="Table-Para-1">(e) Extent of the offender’s abuse of position and breach of trust</p><p align="justify" class="Table-Para-1">(f) Offender’s motive in committing the offence</p></td></tr></tbody></table>
+
+  
+  
+
+17     On the factors going towards harm, the High Court noted at \[64\] to \[67\] that:
+
+> (a)     A key consideration is the actual harm suffered by the agent’s principal, and such harm need not be in the form of direct pecuniary loss.
+
+> (b)     Separately from the harm to the principal, the court should consider the benefits obtained by the giver of the gratification. In this regard, “the court should be alive to other less readily apparent but nonetheless very valuable benefits that the giver may derive from the corrupt transaction.” In _Wong Chee Meng_, the giver cultivated Wong, the general manager of Ang Mo Kio Town Council (“AMKTC”), not so much to secure favourable treatment for his companies, but to have an insider in a senior position within AMKTC who would watch out for his interests such as by assisting with the provision of inside information or according him additional levels of access. The High Court regarded these as “extremely tangible and valuable” benefits.
+
+> (c)     The court may consider the wider impact of corruption offences on society, such as “its impact on society’s expectations that transactions and decisions in both the private and public sphere will be carried out fairly and transparently.” It would thus be relevant if the offences cause loss to third parties, or cause unease in the general public.
+
+18     On the factors going towards culpability, the set out by the High Court at \[70\] to \[73\] that are relevant to the present case are as follows:
+
+> (a)     A larger bribe indicates a greater degree of corrupt influence exerted on the receiver, which in turn leads to a greater subversion of the public interest.
+
+> (b)     There is no material difference in terms of culpability where an accused person receives gratification in the form of a loan or where he is given an outright payment, since in both situations, “the quantum of the loan or payment is reflective of the receiver’s greed and level of influence or advantage sought by the giver.”
+
+19     Based on the court’s assessment of the harm and culpability caused, the court can **then classify the conduct on a scale according to its severity**. These are slight, moderate or severe harm, and low, medium or high culpability.
+
+#### Second step
+
+20     The **second step** of the framework requires the court to **identify the applicable starting range** based on the offence-specific factors present. In this regard, the sentencing matrix set out in _Wong Chee Meng_ (\[14\] _supra_) at \[84\], for accused persons who claim trial, was as follows:
+
+![]([2021] SGDC 0104_Image/[2021] SGDC 0104_image1.png)
+
+#### Third step
+
+21     The **third step** requires the court to **identify the appropriate starting point** within the range. It is in this step that the court should have regard to the public service rationale, in that public sector corruption is typically regarded as the greater evil. Custodial sentences are thus the norm, and to be departed from only in exceptional cases – see _Wong Chee Meng_ (\[14\] _supra_) at \[60\] and \[86\].
+
+#### Fourth step
+
+22     In the **fourth step**, the court will **adjust the indicative starting point to take offender-specific factors into account** – see _Wong Chee Meng_ (\[14\] _supra_) at \[79\] and \[87\]. This may result in the sentence moving out of the indicative sentencing range originally identified. The non-exhaustive offender-specific factors set out are as follows:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="49.52%"> <col width="50.48%"> </colgroup><tbody><tr><td align="left" class="b" colspan="2" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Offender-specific factors</b></p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><u>Aggravating factors</u></p></td><td align="left" class="" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><u>Mitigating factors</u></p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">(a) Offences taken into consideration for sentencing purposes</p><p align="justify" class="Table-Para-1">(b) Relevant antecedents</p><p align="justify" class="Table-Para-1">(c) Evident lack of remorse</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">(a) A guilty plea</p><p align="justify" class="Table-Para-1">(b) Co-operation with the authorities</p><p align="justify" class="Table-Para-1">(c) Actions taken to minimise harm to victims</p></td></tr></tbody></table>
+
+  
+  
+
+#### Fifth step
+
+23     The **fifth step** of the framework is to make **final adjustments** to the sentence **to account for the totality principle**. It is not relevant in the present case as each accused person is only being sentenced for one charge.
+
+### Prosecution’s Submissions on Sentence[^2]
+
+24     The prosecution sought a sentence of at least eight months’ imprisonment for Kim and Ro. The sentencing factors for both accused persons were taken jointly.
+
+25     The harm factors identified by the prosecution[^3] were as follows:
+
+> (a)     First, the benefit to the accused persons, in that they had an insider to watch out for their interests. The _quid pro quo_ that they received for the bribes was the confidential information that they obtained from Foo on the unsuccessful tender for the T316 project. By the same token, there was harm occasioned to LTA, because this case involved the ‘cultivation’ of an agent, and any intervention by that agent would have affected the processes for the award of public contracts. Relying on _Wong Chee Meng_ (\[14\] _supra_) at \[91\], the prosecution also submitted that it was not necessary to demonstrate that there was any actual interference in the tender process and award of contracts to evidence harm.
+
+> (b)     Second, the harm or loss caused to third parties such as competitors or existing contractors supervised by LTA, as the present offences harmed their legitimate expectations of being able to compete with Daewoo on an equal footing without any insider assistance.
+
+> (c)     Third, the public disquiet caused by the bribery of a senior LTA officer in connection with high value and essential public infrastructure projects, and the consequent damage to LTA’s institutional credibility. It was submitted that the public is entitled to be concerned about “potential implications of the bribery” on not only the quality of the public infrastructure provided, but also the “integrity of LTA's procurement, vendor-selection and works-supervision processes.”
+
+26     The culpability factors identified by the prosecution[^4] were:
+
+> (a)     First, the amount of gratification, at $30,000 for the proceeded charges, and $50,000 in all, which were comparable to the amounts involved in the proceeded charges in _Wong Chee Meng_ (\[14\] _supra_). Those were $13,500, $27,796.02, and $34,070.04, and had been described by the High Court (at \[95\]) as “sizeable”.
+
+> (b)     Second, that the accused persons had bribed Foo, who had abused his senior position within the LTA. The prosecution relied on the High Court’s view in _Wong Chee Meng_ (\[14\] _supra_) at \[93\] that the receiver’s seniority within his principal’s organisational structure could also be considered in assessing the giver’s culpability for the offences. In this regard, given Foo’s position in the T216 project and his various other roles, Kim and Ro knew that “they were ‘buying over’ a person of seniority and influence from LTA.”
+
+> (c)     Third, the fact that Kim and Ro were motivated by gaining an unfair advantage for Daewoo to be treated favourably in LTA’s inspections, and to be favoured in future contracts with LTA.
+
+27     The prosecution submitted that these factors placed the offences in the lower end of the “moderate” category for harm, and the higher end of the “low” category for culpability. Based on the matrix set out at \[20\] above, this meant that the indicative sentencing range was one to two years’ imprisonment, and the prosecution submitted that the appropriate starting point was 14 months’ imprisonment.[^5]
+
+28     This submission was arrived at with reference to the facts of _Wong Chee Meng_ (\[14\] _supra_). In that case, the giver (Chia) was convicted on three charges of corruptly giving gratification to Wong to obtain construction-related jobs with AMKTC. The starting points for the sentences were as follows:
+
+> (a)     1st charge: $13,500: 18 months’ imprisonment;
+
+> (b)     2nd charge: $27,796.02: 20 months’ imprisonment; and
+
+> (c)     3rd charge: $34,070.04: 26 months’ imprisonment.
+
+29     However, the prosecution acknowledged that there were harm and culpability factors in _Wong Chee Meng_ (\[14\] _supra_) that were absent in the present case. These included Wong having manipulated requirements to advantage Chia’s companies, Chia concealing the payments to avoid detection, and the offences taking place over a period of two years.
+
+30     The prosecution then considered that Kim and Ro had pleaded guilty against the fact that they each had one charge TIC. Considering that a one-third sentencing discount is normally given to accused persons who plead guilty, the prosecution submitted that an imprisonment term of eight months would be on the lower end of the appropriate sentencing range, and thus sought a sentence of at least eight months’ imprisonment.[^6]
+
+### Mitigation & Defence’s Submissions on Sentence[^7]
+
+31     In a joint plea in mitigation, the defence asked the court to note that the amounts involved in Kim’s and Ro’s offences were the lowest amounts in comparison to the other contractors involved in the charges concerning the bribery of Foo. It was thus submitted that the sentences to be imposed on them should be high fines instead of imprisonment. The defence also pointed out that the charges concerned a loan given in Ro’s personal capacity and did not arise out of a “corporate exercise to gain a benefit for Daewoo”, while Kim’s involvement was purely when Ro consulted him on whether to extend the loan.
+
+32     The accused persons’ personal circumstances were as follows:
+
+> (a)     Ro is married with a wife and son. His wife suffers from a multiple cervical disc herniation, while his son suffers from pneumothorax. The last time Ro saw them was in late 2019, and he wishes to be reunited with them as soon as possible. He has worked for Daewoo since he graduated, has volunteered as a blood donor, and offered information to the Corrupt Practices Investigation Bureau about another senior LTA officer.
+
+> (b)     Kim is married with a wife and two sons. His wife suffers from a slipped disc. His elder son (aged 25) suffers from glaucoma, while his younger son (aged 23) had lung surgery recently for a pneumothorax. He, too, wishes to be reunited with his family as soon as possible. He had also worked for the Daewoo conglomerate since graduation, and was a valuable member of Daewoo’s team that worked on T216. He also assisted in obtaining information about the senior LTA officer mentioned in the preceding sub-paragraph.
+
+33     Concerning Ro, the defence submitted that the following factors were relevant in determining the appropriate level of harm[^8]:
+
+> (a)     First, there was no quantifiable benefit gained, unlike for the giver Chia in _Wong Chee Meng_ (\[14\] _supra_). It was submitted that this was not a case where Ro had sought to influence Foo to award Daewoo an actual tender or contract, since T216 had been awarded before the loan was given. In this regard, the defence relied on an oral assertion made by Foo in open court when he was first produced in court and charged, that he “did not give any benefit to the lenders”.
+
+> (b)     Second, there was no harm caused to third parties such as Daewoo’s competitors. Foo’s oral assertion was also used in support of this point. The defence pointed out that despite Ro’s enquiries, Daewoo’s Environmental, Safety and Security (“ESS”) score remained the same, and that there was no allegation that Foo had assisted Daewoo to be awarded a tender to the loss of another contractor. Defence counsel Mr Haq also submitted orally that there was no real public disquiet in this case, as the acts were isolated to one senior officer from the LTA, who had also perpetrated crimes on his colleagues.
+
+Based on these factors, it was submitted that the harm caused by Ro was on the low end of the “slight” category, as it was not the case where an outright bribe was offered for a benefit.
+
+34     As for the factors going to culpability[^9], the defence submitted as follows:
+
+> (a)     First, the WhatsApp messages sent to Foo in May and August 2019 did not show that the accused persons sought Foo’s assistance with Daewoo’s operations. This was because the loan was given months before, so such assistance was not contemplated when the loan had been given. The requests were thus made in the ordinary course of interactions between Daewoo and LTA. The defence also stressed that the offence would have crystallised at the date of the charge, so these messages should be read in context as they were not required for the offence. Further, Daewoo’s ESS scores did not change, while the request for information about the unsuccessful tender was made only after Daewoo had already failed to secure it.
+
+> (b)     Second, it was pointed out that Foo had initiated the requests for the loan. Although it was not disputed that part of Ro’s motivation to extend the loan to Foo was a fear of offending him, it was also submitted that Foo sounded in “desperate need of help” for his relative’s medical problems, which elicited a “genuine humanitarian response” from Ro to assist. It was further submitted that being Korean and obliging, Ro did not know how to refuse Foo’s request. The defence pointed out that in contrast, the giver in _Wong Chee Meng_ (\[14\] _supra_) sought to cultivate Wong over a period of time, and he was motivated by greed.
+
+Based on these factors, it was submitted that Ro’s culpability fell within the low end of the “low” category.
+
+35     For Kim, the defence reiterated the points submitted for Ro, but additionally sought to distance his conduct from Daewoo, by making three points. First, Ro’s consultation with Kim on Foo’s request was not an attempt to obtain legitimacy from Daewoo for the loan. Second, Kim did not approve the lending of funds from Daewoo’s accounts and did not provide any of his own funds. Third, at the time of giving the loan, they were not seeking a benefit for Daewoo and no funds from Daewoo were used. The defence thus submitted that Kim’s offence should also be considered as causing harm in the low end of the “slight” category, with culpability in the low end of the “low” category.[^10]
+
+36     It was therefore contended that using the sentencing matrix (see \[20\] above), the applicable indicative starting point for the sentences for both accused persons should be a fine or up to one year’s imprisonment. Since both accused persons pleaded guilty and the matrix set out the sentencing ranges for persons who claimed trial, the defence submitted that the starting point for the sentences should not cross the custodial threshold. This court was also urged to consider their clean criminal records. It was contended that an imprisonment term would be a “devastating blow” to their livelihood, as they would be terminated by Daewoo should they receive custodial sentences. Further, since both accused persons would return to Korea once the case concluded, it was submitted that there was no risk of them re-offending.[^11]
+
+37     As to the appropriate sentence, the defence pointed out that the accused persons’ “culpabilities ought to be lowered in light of \[Foo’s\] pressurising conduct”, and that they should only be subject to the maximum fine. Four sentencing precedents in which fines were imposed were cited. [^12] However, three of these involved private sector corruption, in which sentences are governed by different sentencing principles and for which the custodial sentence is generally triggered at a higher threshold than in public sector corruption (see _PP v Syed Mostofa Romel_ <span class="citation">\[2015\] 3 SLR 1166</span> at \[26\] \[“_Romel_”\] and _Takaaki Masui v PP and another appeal and other matters_ <span class="citation">\[2020\] SGHC 265</span> at \[236\] to \[286\]).
+
+38     I thus had greater regard to the precedent that involved a public body – the case of _PP v Pang Hian Seng_ <span class="citation">\[2016\] SGDC 44</span>, in which the offender was convicted after trial under s 6(b) read with 7 of the PCA. He had offered $200 to a procurement executive (Tham), an employee of Singapore Health Services Pte Ltd, as a reward for awarding his company a contract to supply pillowcases to Singapore General Hospital. Tham’s job had been to summarise the findings and recommendations of the evaluation committee. A fine of $10,000 was imposed on Pang as the court noted that there had been no conferment of advantage or benefit on him, Tham’s duty to his principal was not compromised, and the offer of gratification was made after the contract was awarded.
+
+39     The defence then made a submission in the alternative – that if the court took the view that a custodial sentence was more appropriate, then it should not exceed three to four weeks’ imprisonment in view of their position that the cases fell within the “lowest level of the amount and culpability”.[^13] In this regard, three sentencing precedents were cited, though their applicability was limited as they concerned corruption offences under s 6(b) of the PCA which were **not** read with s 7 of the PCA. The maximum punishment contemplated by those courts was thus lower, and the sentencing would have been accordingly affected. One of them also involved private sector corruption and would be distinguishable from the present case – I thus set out only the summaries for the two cases involving public bodies.
+
+> (a)      _PP v Eng Heng Chiaw_ <span class="citation">\[2005\] SGDC 98</span>
+
+> In this case, the offender offered **$500,000** to the Deputy Chief Executive for Strategic Development of the Defence Science and Technology Agency (“DSTA”) in return for confidential pricing information by rivals in a naval helicopter tender conducted by the Ministry of Defence (“MINDEF”). The DSTA is a statutory board set up under MINDEF. The offender pleaded guilty midway through trial. The court noted that the case concerned corruption involving public bodies and/or their servants, with the integrity of MINDEF’s procurement system and processes at stake. Although no money changed hands and the defence described this as a “bare offer with no chance of success”, the court found this to be immaterial since the offence was constituted once the offer was made. Having noted that the offence of attempting to bribe a government official was a grave one, but balancing this against the offender’s exemplary conduct before this single incident, a sentence of **eight weeks’ imprisonment** was imposed.
+
+> (b)      _PP v Lo Hock Peng_ <span class="citation">\[2015\] SGDC 23</span>
+
+> This offender, Lo, pleaded guilty to one charge for bribing a procurement executive in the employ of a company that was a wholly-owned subsidiary of Singapore Technologies Kinetics. The bribes, amounting to **$136,018**, were for assisting Lo’s company to secure contracts with the said subsidiary, which was in the business of munitions and guided system components. Two further charges were TIC. Although the bribes were not initiated by Lo, he was sentenced to **four months’ imprisonment**, after the court considered the size of the bribe, the fact scenario being one that occasioned a loss of confidence in the defence industry, and Lo’s seniority within his company (he was the director).
+
+40     The defence pointed out that the amounts of the bribes in these cases far exceeded those in the present case, and that the bribes were given to procure contracts with clear motive and intention to benefit the giver. It was submitted that the amount of the gratification in the present case was far lower, that the loan was given for a “completely different purpose”, and that Ro suffered a loss by giving his personal funds to Foo.[^14]
+
+41     In submitting that a longer custodial sentence was inappropriate, the defence sought to distinguish the case of _PP v Tan Boon Gee_ <span class="citation">\[2015\] SGDC 90</span>, arguing that the facts in that case were far more egregious.[^15] That offender, Tan, pleaded guilty to seven charges, with 13 charges TIC. Of the charges he pleaded guilty to, four were under s 6(b) of the PCA, for corruptly giving gratification to a senior technical officer (Oh) from the National Environment Agency, for Oh to be lenient in his supervisions over works carried out by Tan’s company, and for Tan’s company to be awarded contracts:
+
+> (a)     The amounts given for the three charges involving leniency in supervision were said to be “loans”, and the sentences imposed for these offences were as follows:
+
+>> (i)       Charge involving $9,600: Six months’ imprisonment;
+
+>> (ii)       Charge involving $30,000: 12 months’ imprisonment;
+
+>> (iii)       Charge involving $24,500: 12 months’ imprisonment.
+
+> (b)     Concerning the charge for which gratification was given for Tan’s company to be awarded contracts, the gratification amount was $8,000, and Tan was sentenced to six months’ imprisonment.
+
+The defence submitted that although Oh requested the loans, Tan had earlier approached him to ask for help to reveal information about the project Tan was interested in, promising to give Oh a commission for projects that Tan secured. It was also pointed out that the offences had taken place over a period of three years, and there were numerous charges TIC. The defence thus submitted that even after taking the public service rationale into account, Kim and Ro’s sentence “should certainly not reach” six months’ imprisonment.[^16]
+
+42     In a final bid for a lower custodial sentence, the defence also submitted for a combination of a fine with a custodial term.[^17]
+
+### Prosecution’s Reply to Defence’s Position on Sentence
+
+43     The prosecution’s oral response[^18] to the defence’s submission on sentence was as follows:
+
+> (a)     Although it was true that the amounts of the gratifications in the charges faced by Kim and Ro were the lowest among those involving Foo, this relativity did not affect their sentencing in the present case or mitigate their acts.
+
+> (b)     The defence’s characterisation of the offending as being for humanitarian reasons was misguided, since the Joint Statement of Facts that Kim and Ro admitted to clearly stated (at paras 8 and 19) that they hoped that granting Foo’s request would facilitate their dealings with LTA in T216.
+
+> (c)     On the point that nothing had been asked for or done at the time the money was given, the prosecution submitted that this was the very nature of a payment as inducement – it was for acts to be performed subsequently as and when needed by the giver.
+
+> (d)     Concerning the argument that the money was given as a loan instead of an outright bribe, the High Court held in _Wong Chee Meng_ (\[14\] _supra_) at \[73\] that this made no material difference.
+
+> (e)     Although Ro had used his own funds for the bribe, it was submitted that this had no mitigating weight, as the act ultimately was done for the benefit of Kim, Ro and Daewoo. Ro had also been promised a promotion as compensation for giving the monies to Foo.
+
+> (f)     On the claim that no benefit was given to Kim and Ro, it was contended that the court should look beyond pure profits and into other tangible benefits of the bribe, such as those referred to in \[17(b)\] above.
+
+> (g)     Imposing a fine was inconsistent with the sentencing precedents and the relevant sentencing framework.
+
+### Decision on Sentence
+
+#### Application of Sentencing Framework
+
+44     Applying the _Wong Chee Meng_ (\[14\] _supra_) sentencing framework, my analysis was as follows.
+
+45     The **first step** was to identify **the level of harm caused by the offences and the level of culpability**.
+
+46     My view was that the applicable **_harm factors_** were the benefit to the givers of the gratification, the harm caused to third parties, and the possible raising of public disquiet.
+
+47     I took the view that Kim and Ro did not actively seek to cultivate Foo. However, when they finally decided to give in to his requests, it was not completely for selfless reasons. They did so also to benefit themselves and Daewoo, even if they may not have had in mind any specific type of assistance that Foo could render when the money was passed. Indeed, when the time came later, they did seek Foo’s assistance to cover up Daewoo’s cleanliness infringements and obtained confidential information concerning the failed T316 tender which information they would not otherwise have received in that form. Foo also promised to help them with another tender. Adopting the reasoning in _Wong Chee Meng_ (\[14\] _supra_) at \[91\], having an insider in LTA who could intervene on their behalf or advance their interests was a very real benefit, even if it was difficult to quantify or its effects were seen only after the offence was committed. On this point, Foo’s assertion in court when he was first charged that he did not give any benefits to the givers of the gratifications was unsworn and self-serving. I was thus unable to give it any weight.
+
+48     Even if Foo’s interventions did not assist in changing the outcome of Daewoo’s ESS score and they could have found out the substantive reasons for their failing to win the T316 tender, these points should not be overstated. My view was that the defence’s description of the acts as being in the ordinary course of interactions between Daewoo and LTA were an attempt to minimise the seriousness of the conduct. The fact remained that Daewoo’s ESS assessment outcome was raised to a Group Director, and the accused persons were allowed to see an extract of the actual tender evaluation report, which privileges their competitors did not have, and which access they would not have received if not for the inroad to LTA that they had gained through Foo.
+
+49     Next, the harm caused to third parties or Daewoo’s competitors was not any actual financial loss that they might have suffered, but the fact that they were potentially put in the position of having to compete against Daewoo on an unequal footing. Public contracts and the public procurement process must remain transparent processes, and Kim and Ro’s actions compromised this.
+
+50     On public disquiet, I agreed with Mr Haq’s submission insofar as the facts before me did not reveal any widespread corruption in the ranks of LTA. In this regard, the public disquiet might not be pervasive. However, given that the contracts involved high value public transport infrastructure projects, a senior public officer involved therein, and that senior officer receiving gratification not just from these two accused persons, my view was that these taken together would have been sufficient to cause some public disquiet. I agreed with the prosecution’s submission that these facts would raise questions not only about the quality of the stations and tunnels built, but also the integrity of LTA’s procurement, vendor selection and works supervision processes. These go towards increasing the level of harm caused by the offences.
+
+51     Thus, on the harm factor, I disagreed with the defence that the harm caused was slight. My assessment was that the harm caused by the accused persons’ actions fell within the lower half of the “moderate” category.
+
+52     As for the offence-specific factors going towards **_culpability_**, my view was that the amount of the gratification, the accused persons’ motives, and the fact that they had bribed a senior officer were relevant.
+
+53     Although the amount of the gratification in the proceeded charges was not of the order of six figures and the courts have seen higher bribe amounts, the bribe, at $30,000, was nevertheless sizeable. Similar bribe amounts were described as such by the High Court in _Wong Chee Meng_ (\[14\] _supra_) at \[95\].
+
+54     Next, although Kim and Ro may not have been motivated by greed in the same manner as the giver in _Wong Chee Meng_ (\[14\] _supra_), I agreed with the prosecution that there was sufficient evidence to show that they were motivated by the unfair advantage gained for Daewoo and by extension, themselves. In this regard, I was not persuaded by Mr Haq’s argument that the gratification was a loan extended for a medical or “humanitarian” reason. The fact remains that the accused persons knew that this was wrong: Kim’s initial angry reaction to the request for the loan bore testament to his knowledge of this, while Ro’s need to check with Kim on the request indicated that he also realized that the request was out of the ordinary.
+
+55     It was also undeniable that Kim and Ro had bribed a senior officer in LTA, who had abused his authority. While Foo’s culpability would almost certainly be greater in comparison to Kim and Ro, the fact that they bribed such a senior officer also added to their culpability – see _Wong Chee Meng_ (\[14\] _supra_) at \[93\].
+
+56     I therefore assessed that the culpability level of the offences was in the higher end of the “low” category. In this regard, I agreed with the prosecution’s submission, and disagreed with the defence that the culpability level should be in the lower end of the “low” category.
+
+57     In making my assessments on harm and culpability, I had regard to the facts of _Wong Chee Meng_ (\[14\] _supra_). The High Court described at \[10\], \[12\] and \[16\] the three proceeded charges as the Discount Charge (gratification amount $13,500), the Remittance Charge (gratification amount $27,796.02) and the Entertainment Charge (gratification amount $34,070.04). As its name suggested, the Discount Charge related to a discount given to Wong. The Remittance Charge was in a sense a loan to Wong, as it involved the giver (Chia) remitting money to Wong’s mistress in China. The Entertainment Charge related to entertainment expenses incurred by Chia at lounges, restaurants, spas and a hotel.
+
+58     In terms of the harm caused, the High Court noted (at \[91\] to \[93\]) the benefit gained by Chia in having an insider in AMKTC and the harm caused to third parties at having to compete against Chia’s companies on an unequal footing. As the corruption was limited to Wong, the High Court was not satisfied that the public disquiet caused was sufficient to constitute a separate aggravating factor, and only considered Wong’s seniority within AMKTC. In all, the High Court (at \[94\]) considered the harm caused for the offences to be in the lower end of the “moderate” category. Given that similar considerations existed in the present case, though my view was that there was the additional factor of public disquiet, given that it was not likely to be pervasive, I concluded that pegging the harm caused in the present case at the lower half of the “moderate” category was consistent with the outcome in _Wong Chee Meng_ (\[14\] _supra_).
+
+59     As for the culpability factor, the High Court noted (at \[95\] to 100\]) the sizeable amount of the bribes; their sophistication as they involved considerable planning and premeditation; Wong’s abuse of his position as the general manager of AMKTC and the high degree of trust reposed in him; and the parties being motivated by greed. The High Court concluded at \[101\] that the culpability for Chia for the Discount and Remittance Charges to be at the higher end of the “low” category, while his culpability for the Entertainment Charge was in the “medium” category. In comparison, although the offences in the present case were not sophisticated and the accused persons were not motivated by greed, I nevertheless did not find their culpability so minimal that it should be pegged at the lower end of the “low” category. I therefore concluded that the assessment of the culpability in the present case as being in the higher end of the “low” category was not inconsistent with _Wong Chee Meng_ (\[14\] _supra_).
+
+60     Moving on to the **second step** in the framework, applying the matrix set out in \[20\] above, I found that the **indicative starting range** for the sentences was one to two years’ imprisonment.
+
+61     The **third step** required me to identify the **appropriate starting point** within that range. I was not inclined to peg the starting point at the minimum of one year’s imprisonment, since as noted above, I did not find the harm and culpability factors to be minimal. I also rejected Mr Haq’s submission that a fine was an appropriate starting point. This was because public sector corruption typically attracts a custodial sentence except in exceptional cases (see _PP v Chew Suang Heng_ <span class="citation">\[2001\] 1 SLR(R) 127</span> at \[10\] – \[11\], cited in _Romel_, \[37\] _supra_ at \[15\]) and no exceptional reasons for departing from this norm were put before me.
+
+62     As for the sentencing precedents submitted by the defence, as noted above (at \[37\] and \[39\]), many were of limited relevance as they involved private sector corruption, or did not involve offences read with s 7 of the PCA. For those that were of greater relevance and which I noted above, my view was that they could be distinguished as follows:
+
+> (a)     In _PP v Pang Hian Seng_ (see \[38\]), the bribe amount was only $200 and thus far lower than in the present case. It is thus of little weight as a precedent.
+
+> (b)     As for _PP v Eng Heng Chiaw_ (see \[39(a)\]), although a public body was involved and a sentence of eight weeks’ imprisonment was imposed for offering a bribe of $500,000, the offence was not one read with s 7 of the PCA. This was also the case for _PP v Lo Hock Peng_ (see \[39(b)\]), in which a sentence of four months’ imprisonment was imposed for the giving of bribes of $136,018. As I have noted, since the maximum punishment that the courts could have imposed would have been lower than in a case punishable under s 7 of the PCA, the sentencing scale contemplated by those courts would have been lower, and the sentencing would have been accordingly affected. These cases must therefore also be given limited weight as sentencing precedents.
+
+More importantly, all these cases preceded _Wong Chee Meng_ (\[14\] _supra_), which effectively set down a new sentencing framework for offences under s 6 read with s 7 of the PCA. I thus exercised caution in being overly wedded to the precedents and attempting to reconcile them with sentences to be meted out under the present framework.
+
+63     I noted that the High Court in _Wong Chee Meng_ (\[14\] _supra_) pegged the Remittance Charge for Chia (which being a loan of sorts to Wong was the closest factually to the charges faced by Kim and Ro) to a starting point of 20 months’ imprisonment. There were also arguably fewer aggravating factors overall for Kim and Ro than for Chia. This being the case, I agreed with the prosecution that a starting point lower than that in _Wong Chee Meng_, but higher than the minimum, would be appropriate. I thus accepted the prosecution’s submission that 14 months’ imprisonment was an appropriate starting point.
+
+64     The **fourth step** of the framework was to **further adjust the sentence from that starting point, taking offender-specific factors into account**. The accused persons’ personal circumstances were of limited weight, while the “clang of the prison gates” principle had limited relevance in view of the various harm and culpability factors already cited, including the sizeable amount of the gratification given. In terms of Kim’s and Ro’s personal responsibilities in the offences, while their roles were slightly different, neither the prosecution nor the defence contended that their sentences should be different. I accepted this position, noting that this was undeniably a joint enterprise.
+
+65     The main mitigating factor was their plea of guilt and in this regard, I agreed with the prosecution that a substantial discount could be given on the sentence. I noted that the prosecution, in seeking a minimum imprisonment term of eight months, had departed from more than the usual one-third sentencing discount. My view was that the facts of the case were sufficient to justify this departure, but not to go lower. I also did not consider a combination of a fine with imprisonment to be suitable in this case, primarily because it was not a situation where the accused persons should be made to effectively disgorge any financial gains. Finally, even though Kim and Ro each had one charge TIC, my view was that a further adjustment for a heavier sentence was not required on account of this. I thus reduced the sentence from the starting point of 14 months’ imprisonment and determined that a sentence of eight months’ imprisonment was appropriate. My assessment ended here since as noted above, the **fifth step** of the sentencing framework **was not applicable** in this case.
+
+#### Decision
+
+66     Kim and Ro were thus sentenced to eight months’ imprisonment each.
+
+## Conclusion
+
+67     Both accused persons began serving their respective sentences on 18 May 2021, but have appealed against the sentences imposed.
+
+* * *
+
+[^1]: PS1.
+
+[^2]: P3.
+
+[^3]: P3, paras 15 – 27.
+
+[^4]: P3, paras 10 – 14.
+
+[^5]: P3, paras 28 – 29.
+
+[^6]: P3, paras 38 – 44.
+
+[^7]: D1.
+
+[^8]: D1, paras 20 – 27.
+
+[^9]: D1, paras 28 – 29.
+
+[^10]: D1, paras 30 – 31.
+
+[^11]: D1, paras 33 – 36.
+
+[^12]: D1, paras 51, 53 and 56.
+
+[^13]: D1, para 57.
+
+[^14]: D1, paras 58 – 60.
+
+[^15]: D1, paras 62 – 67.
+
+[^16]: D1, para 67.
+
+[^17]: D1, para 68.
+
+[^18]: Notes of Evidence (“NE”), 7 May 2021, pages 27, 36 to 40.
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F26101-SSP.xml)

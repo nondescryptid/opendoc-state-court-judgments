@@ -1,0 +1,334 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Boon Fuxin (Wen Fuxin)  
+
+### \[2021\] SGDC 130
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">District Arrest Case Nos 944597 &amp; 946298 of 2016 &amp; 13 Ors, Magistrate's Arrest Nos 905047, 905049, 905053, 905055, 905058 &amp; 905060 of 2017 &amp; 13 Ors, Magistrate's Appeal 9123/2021/01</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">12 July 2021</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Jasbendar Kaur</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">[Samuel Yap] (Attorney-General's Chambers) &amp; [Mohamed Riasudeen &amp; Nur Ishameena] (Ministry of Manpower) for the Public Prosecutor; [Mohamed Arshad] (M/s Kertar &amp; Sandhu LLC) for the Accused.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Boon Fuxin</td></tr></tbody></table>
+
+Criminal Procedure and Sentencing – Sentencing
+
+Moneylenders’ Act – Employment of Foreign Manpower Act – Unrelated offences – Order for payment of proceeds of crime
+
+\[LawNet Editorial Note: An appeal to this decision has been filed in MA 9123/2021/01.\]
+
+12 July 2021
+
+### District Judge Jasbendar Kaur:
+
+## Introduction
+
+1       This appeal concerns the two sets of charges that the accused Boon Fuxin (Wen Fuxin)( hereinafter known as the “Accused”), a 33-year old male Singaporean, pleaded guilty before me on 17 March 2021. For the first set, he pleaded guilty to two charges under section 5(1) of the Moneylenders’ Act, Chapter 188 (Rev. Ed. 2010) (hereinafter referred to as the “MLA”), with 13 similar charges being taken into consideration for the purposes of sentencing. In relation to the second set, he pleaded guilty to six charges under the Employment of Foreign Manpower Act, Chapter 91A (hereinafter referred to as the “EFMA”), with 13 similar charges being taken into consideration[^1].
+
+2       The details of the two section 5(1) of the MLA charges which are punishable under section 14(1)(b)(i) read with section 14(1A)(a) of the same are as follows:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="33.58%"> <col width="66.42%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC 944597/2016</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">The Accused did on 22 April 2015 carry on a business of unlicensed moneylending by issuing a loan of $5000, chargeable at an interest rate of 10% to Chia Kai Yean when he was not an excluded moneylender or an exempt moneylender or authorized to do so by license.</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC 946298/2016</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">The Accused did in the month of May 2015 carry on a business of unlicensed moneylending by issuing a loan of $500, chargeable at an interest rate of 15% to Lee Hwee Kang when he was not an excluded moneylender or an exempt moneylender or authorized to do so by license.</p></td></tr></tbody></table>
+
+  
+  
+
+3       In relation to the EFMA charges, the details of the charges that he pleaded guilty to are as follows:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="33.58%"> <col width="66.42%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">MAC 905058/2017</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><u>Section 22B(1) p/u section 22B(1) EFMA</u></p><p align="justify" class="Table-Para-1">The Accused did obtain a work permit on or about 5 May 2016 for a foreign employee, Jiang Wei to work for Monstar F&amp;B Group as a performing artiste, even though the business did not require her employment and she was not subsequently employed by the said company, when he knew that the foreign employee only wanted the work pass to legitimize her stay in Singapore and he made the work pass application in order to earn some commission.</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">MAC 905047/2017 MAC 905049/2017 MAC 905055/2017 MAC 905060/2017</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><u>Section 22A(1)(b) p/u section 22A(2) EFMA</u></p><p align="justify" class="Table-Para-1">The Accused did receive directly from a foreign employee, Wang Lixian a sum of $750 as a condition for continued employment of the said foreign employee by Monstar F&amp;B Group on four occasions:</p><p align="justify" class="Table-Para-1"><b><em>-</em></b> 14 May 2016, 14 June 2016, 14 July 2016 &amp; 14 August 2016</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">MAC 905053/2017</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><u>Section 22(1)(d) r/w section 23(1) p/u section 22(1)(ii) EFMA</u></p><p align="justify" class="Table-Para-1">The Accused did on 3 November 2016 abet by instigating a foreign employee, Zhang Dandan, to furnish false information to the Employment Inspector of Ministry of Manpower which he knew to be false in a material particular in that he sent a text message instructing her to give false details of her employment with Monstar F&amp;B Group during the recording of her statement on 3 November 2016 by the Employment Inspector, Chung Pak Nan.</p></td></tr></tbody></table>
+
+  
+  
+
+4       After considering the submissions from both the Prosecution and the Defence, I decided to sentence the Accused as follows:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="33.58%"> <col width="66.42%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>DAC 944597/2016</b></p><p align="justify" class="Table-Para-1"><b>DAC 946298/2016</b></p><p align="justify" class="Table-Para-1"><em>Section 5(1) p/u 14(1)(b)(i) r/w section 14(1A)(a) MLA</em></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">10 months’ imprisonment &amp; $30,000 fine (in default, 1 month’s imprisonment) on each charge.</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>MAC 905058/2017</b></p><p align="justify" class="Table-Para-1"><em>Section 22B(1) p/u section 22B(1) EFMA</em></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">8 months’ imprisonment</p><p align="justify" class="Table-Para-1">Order granted under section 23A EFMA for the recovery of $4700 (in default, 20 days’ imprisonment)</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>MAC 905047/2017</b></p><p align="justify" class="Table-Para-1"><b>MAC 905049/2017</b></p><p align="justify" class="Table-Para-1"><b>MAC 905055/2017</b></p><p align="justify" class="Table-Para-1"><b>MAC 905060/2017</b></p><p align="justify" class="Table-Para-1"><em>Section 22A(1)(b) p/u section 22A(2) EFMA</em></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">4 weeks’ imprisonment per charge</p><p align="justify" class="Table-Para-1">Order granted under section 23A EFMA for the recovery of $750 (in default, 5 days’ imprisonment) for each charge. Total: $3000 (in default, 20 days’ imprisonment)</p><p align="justify" class="Table-Para-1">&nbsp;</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>MAC 905053/2017</b></p><p align="justify" class="Table-Para-1"><em>Section 22(1)(d) r/w section 23(1) p/u section 22(1)(ii) EFMA</em></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">2 months’ imprisonment</p><p align="justify" class="Table-Para-1">&nbsp;</p></td></tr><tr><td align="left" class="b" colspan="2" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Sentences in DAC 944597/2016, MAC 905047/2017, MAC 905053/2017, and MAC 905058/2017 to run consecutively, with the rest running concurrently.</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Total</b></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">20 months and 4 weeks’ imprisonment &amp; fine of $60,000 (in default, 2 months’ imprisonment).</p><p align="justify" class="Table-Para-1">Amount ordered to be confiscated under section 23A EFMA: $7,700 (in default, 40 days’ imprisonment)</p></td></tr></tbody></table>
+
+  
+  
+
+5       The Defence being dissatisfied with the sentencing outcome has filed an appeal against the sentences that have been passed.
+
+## Background
+
+### Brief Facts
+
+##### Facts Supporting the MLA charges
+
+6       During a raid conducted on 25 November 2016 by the officers of the Ministry of Manpower (the “MOM”) at the office premises occupied by the Accused at 462 Crawford Lane #02-69, they discovered a stack documents containing photocopies of NRICs and personal documents bearing the names of various persons. Investigations that were subsequently conducted revealed the following:
+
+> (a)     The Accused inherited about $15,000 from an uncle in 2013 and he used these monies and other sources of funds to extend loans to various people between 2014 and 2016.
+
+> (b)     He extended these loans mainly to friends, acquaintances and persons who were referred to him by friends.
+
+> (c)     The amounts loaned ranged between $500 to $5000, with him charging a monthly interest rate between 10% and 20%.
+
+> (d)     The borrowers had to make monthly repayments of the interest on the loan, until they could make full repayment of the principal sum in one lump sum.
+
+> (e)     Chia Kai Yean was an acquaintance of the Accused and sometime in April 2015, she approached the Accused for a loan as she needed money to support her coffeeshop business. The Accused agreed to give her a loan of $5000 on 22 April 2015, subject to an interest rate of 10% per month. The loan amount was given to Chai Kai Yean in cash and she was told to pay the interest of $500 per month until the full amount was paid up. Chai Kai Yean was not able to repay the principal sum after making several monthly payments. She subsequently took two further loans from the Accused which brought the total loan amount to $15,000. For this amount, she had to pay $1500 as the chargeable interest. To date, she has not repaid the loans in full.
+
+> (f)     In May 2015, the Accused approached his friend Lee Hwee Kang to ask if he needed a loan, chargeable at a monthly interest rate of 15%. Lee Hwee Kang decided to take a loan of $500 from the Accused as he needed money to run his coffeeshop and limousine businesses. The loan amount was forwarded to Lee Hwee Kang via a bank transfer to his bank account. Lee Hwee Kang has repaid the loan[^2].
+
+7       Investigations confirmed that the Accused was not an excluded moneylender or an exempted moneylender or authorised to carry on the business of moneylending in Singapore.
+
+##### Facts supporting the EFMA charges
+
+8       The MOM started investigating the Accused for possible contraventions under the EFMA on 6 March 2017. The investigations revealed that the Accused had committed several offences under the EFMA that related to the illegal employment of foreign workers. The Accused committed these offences together with his brother, Wen Fuqiang, Lim Bee Eng and an employment agent based in China known as “Ling Ling”. He got involved in the scam to obtain illegal work passes for Chinese jobseekers after his brother introduced “Ling Ling” to him. “Ling Ling” engaged the Accused and his brother to apply for work passes for her clients who needed a work pass to legalise their stay in Singapore as they looked for their own employment in exchange for a cut of the payment that the foreign workers would pay as ‘employment agency fees’.
+
+9       For the purposes of making the work pass applications, the Accused approached an acquaintance, one Lim Bee Eng, to register a shell sole-proprietorship named Monstar F&B Group (hereinafter referred to as “Monstar”) and offered to pay him $500 to $1000 for his role in the scam. Lim Bee Eng agreed and registered himself as the sole proprietor of Monstar on 14 September 2015. He then provided his ‘Singpass’ account details to the Accused for him to make the necessary work pass applications.
+
+10     The facts in relation to MAC 905058 of 2017 are as follows:
+
+> (a)     Sometime in April 2016, one Jiang Wei, a Chinese national, was referred by “Ling Ling” to the Accused and his brother, Wen Fuqiang. Jiang Wei contacted his brother via ‘WeChat” and informed that she wanted a work permit to legalise her stay in Singapore while she worked as a freelance masseur. She was informed by Wen Fuqiang that she would have to pay $9300 to him to obtain a work permit. Jiang Wei agreed to pay the amount and she furnished her personal particulars to Wen Fuqiang who then forwarded the information to the Accused.
+
+> (b)     The Accused proceeded to make an application for a work permit for Jiang Wei on 27 April 2016 purportedly to be employed by Monstar as a Performing Artiste. The said application was approved and an In-Principal Approval (the “IPA”) was issued to Jiang Wei. This IPA was forwarded to Jiang Wei via ‘WeChat’ after she forwarded the initial payment of $4600 into a Chinese bank account.
+
+> (c)     Jiang Wei used the IPA to enter Singapore on 4 May 2016 and she was picked up from the airport by Wen Fuxiang. Thereafter, Wen Fuxiang brought her for a medical examination and for the registration of her fingerprints as required by the MOM for the issuance of the work permit.
+
+> (d)     The balance of $4700 was paid by Jiang Wei after the work permit (XXX) was issued on 5 May 2016 and given to her.
+
+> (e)     The Accused had made the application for a work permit for Jiang Wei knowing that she will not be employed by Monstar. From 25 May to 11 October 2016, Jiang Wei worked as a freelance masseur in Singapore and at no point did she work for Monstar.
+
+11     These are the facts for MAC 905047, MAC 905049, MAC 905055 and 905060 of 2017:
+
+> (a)     Sometime in November 2015, one Wang Lixian, a Chinese national, was referred to the Accused as she wanted to obtain a work permit to legalise her stay in Singapore as she worked on a freelance basis. The Accused informed her that he would be able to obtain a work permit for her for this purpose and that once it is issued, she would have to make a monthly payment of $750 to ensure that the work permit is not cancelled. Wang Lixian agreed to make this monthly payment.
+
+> (b)     The Accused proceeded to apply for a work permit for her. Wang Lixian arrived in Singapore on 27 April 2016 and she was issued a work permit on 28 April 2016.
+
+> (c)     Thereafter, from May 2016 onwards, Wang Lixian had made the following monthly payments to the Accused to ensure that her work permit was not cancelled by Monstar:
+
+>> (i)       14 May 2016 (4th payment)
+
+>> (ii)       14 June 2016 (5th payment)
+
+>> (iii)       14 July 2016 (6th payment)
+
+>> (iv)       14 August 2016 (7th payment).
+
+12     These are the facts in relation to MAC 905053 of 2017:
+
+> (a)     The Accused had obtained a work permit for one Zhang Dandan in September 2016 to legalise her stay in Singapore while she worked as a freelance worker. Zhang Dandan had paid him $9000 on 6 September 2016 for this purpose and $750 on 15 September 2016 to ensure that her work permit was not cancelled.
+
+> (b)     Zhang Dandan was called down for investigations on 3 November 2016 by Chung Pak Nan, an Employment Inspector of MOM. Before she went down to give her statement, the Accused had sent text messages to Zhang Dandan to instigate her to furnish false information about her alleged employment with Monstar which he knew was false in a material particular. He directed her to inform the Employment Inspector during the recording of her statement that she works for Monstar five days a week from 7.00 pm to 12.00 am, her rest day is during the weekdays, her monthly salary was $1200 and that all fees and work permit levies are paid by Monstar. The Accused also told her to inform the Employment Inspector that she only paid fees to an agent in China for the application of her work permit and that she was not required to make any payment in Singapore.
+
+> (c)     During the recording of the statement on 3 November 2016, Zhang Dandan revealed to the Employment Inspector Chung Pak Nan that she did not work for Monstar and that the Accused had instructed her to provide false information to suggest that she was working for Monstar.
+
+## Prosecution’s Submissions on Sentence
+
+13      _MLA Charges_: The Prosecution tendered a table of sentencing precedents for MLA cases (“Table of Sentencing Precedents for Carrying on the Business of an Unlicensed Moneylender”) and submitted that a sentence 12 months’ imprisonment and the minimum fine of $30,000 be imposed on each charge, with one charge being ordered to run consecutively. They argued that the Accused’s mitigating factors did not warrant a lower sentence as his ran a 17-month long unlicensed moneylending business. They also added that the fact that the Accused did not charge exorbitant interest rates and that he did not harass his debtors were neutral factors and that all that can be said was that these common aggravating factors did not exist in this case. They disputed the Defence’s claim that the Accused did not make any profits as the facts and the charges taken into consideration revealed that he had issued loans in the total value of $45,000.
+
+14      _EFMA Charges_: The MOM tendered three tables as sentencing precedents for the three sets of charges and sought the following sentences:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="51.46%"> <col width="48.54%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Section 22B(1)</p><p align="justify" class="Table-Para-1">MAC 905058/2017</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">8 months’ imprisonment (to run consecutively)</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Section 22A(1)(b)</p><p align="justify" class="Table-Para-1">MAC 905047/2017, MAC 905049/201, MAC 905055/2017 &amp; MAC 905060/2017</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Fine of 12,000 (4-8 weeks’ imprisonment).</p><p align="justify" class="Table-Para-1">If the Accused is not able to pay any fine payment, to impose 4 weeks’ imprisonment instead. (one charge to run consecutively)</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Section 22(1)(d)</p><p align="justify" class="Table-Para-1">MAC 905053/2017</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">2 weeks’ imprisonment (to run consecutively)</p></td></tr></tbody></table>
+
+  
+  
+
+15     Based on the sentencing positions of the Prosecution, a global sentence of 20 months’ and 6 weeks imprisonment and $60,000 fine (in default, 2 months’ imprisonment) was sought by them.
+
+16     In addition, the MOM applied for an Order for the Payment of Proceeds of Crime under section 23A of the EFMA for the charges under sections 22B(1) and 22A(1)(b) of the EFMA on which the Accused had been convicted to confiscate the proceeds of crimes for all the sums of monies that were handed to him when he committed the offences under these four charges - MAC 905058/2017 ($4700) and MAC 905047, 905049, MAC 905055/2017 and MAC 905060/2017 ($750 for each payment).
+
+17     In relation to this application, they disputed the Defence’s submission that the Accused did not retain the monies that were paid to him and that he was required to hand the monies to one Eric Chia who was running the illegal operations. The MOM stated that their position was premised on the fact that the Accused did not reveal Eric Chia’s involvement during the investigations and the investigations against Eric Chia also did reveal his involvement in these offences.
+
+## Defence’s Plea in Mitigation & Sentencing Submissions
+
+18     The Accused was represented by counsel who submitted a Joint Plea in Mitigation for both him and his brother, Wen Fuqiang wherein he sought a global sentence of 14 months’ imprisonment and a total fine of $60,000 (in default, 2 months’ imprisonment) for the Accused. The following personal information and mitigating factors were highlighted:
+
+> (a)     The Accused recently got married on 19 March 2021 and he is the sole-bread winner in his family as his wife is not working. He also has to contribute towards the financial support for his 94-year old grandmother for her medical expenses;
+
+> (b)      _MLA offences_: After the Accused inherited $15,000 from his uncle in 2013, he started lending money but only to his friends and acquaintances, which is unlike “the ethos of stereotypical loan sharks, who have no qualms about lending money to all and sundry with simple intention of earning as much money as possible.” He started doing this when one of his friends approached him for a loan when she needed capital to start her hawker business. Subsequently, other friends and acquaintances approached him for loans.
+
+> (c)     The Defence distinguished the cases cited by the Prosecution and submitted that the aggravating factors that were present in those cases were absent in this case and that the Accused did not harass any of the lenders even when they failed to repay the full amount. They suggested that the Accused may have ended up “making a loss on the money that he lent out to his friends” as some borrowers have yet to return their loans. Based on this, they argued that “a departure from the benchmark sentences is warranted.”
+
+> (d)      _EFMA offences_: The Accused was not the mastermind and in fact both he and his brother had acted on the instructions and guidance of one Eric Chia. The Defence submitted that it was Eric Chia who had decided to set up Monstar, put in money to start this illegal busines and taught the Accused and his brother on how to make the work permit applications. In other words, they suggested that the Accused had “worked” for Eric Chia and handed all the monies that he had collected to him.
+
+> (e)     The Accused did not make “much profit”. For each work permit application, he and his brother were paid about $100 to $150 each and their “profit” was what they did not use to cover their transport costs and other incidental expenses.
+
+> (f)     He had cooperated in the investigations and that the risk of recidivism was “very low” as he had moved away from “negative company” and wants to lead his life as a law-abiding citizen.
+
+19     They sought the following sentences for the individual offences:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="51.46%"> <col width="48.54%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Section 5(1) MLA</p><p align="justify" class="Table-Para-1">DAC 944597/2016</p><p align="justify" class="Table-Para-1">DAC 946298/2016</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">6 month’s imprisonment and a fine of $30,000 (in default, 1 month’s imprisonment) on each charge</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Section 22B(1) EFMA</p><p align="justify" class="Table-Para-1">MAC 905058/2017</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">7 months’ imprisonment</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Section 22A(1)(b) EFMA</p><p align="justify" class="Table-Para-1">MAC 905047/2017, MAC 905049/201, MAC 905055/2017 &amp; MAC 905060/2017</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">4 weeks’ imprisonment since the Accused is genuinely not able to pay any fine payment.</p><p align="justify" class="Table-Para-1">(one charge to run consecutively)</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Section 22(1)(d) EFMA</p><p align="justify" class="Table-Para-1">MAC 905053/2017</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">2 weeks’ imprisonment</p></td></tr></tbody></table>
+
+  
+  
+
+20     In addition, the Defence submitted that as the Accused was “genuinely unable to pay” the fines, lower default sentences ought to be imposed if the Court was not minded to impose a custodial sentence on the four charges under section 22A(1)(b) of the EFMA.
+
+21     The Defence sought a global sentence of 14 months’ imprisonment and a fine of $60,000 (in default, 2 months’ imprisonment) with the charges DAC 944597/2016, MAC 905058/2017 and MAC 905047/2017 to run consecutively.
+
+22     In relation to the disgorgement application under section 23A of the EFMA, the Defence admitted that monies were received by the Accused but argued that a lower sum should be forfeited. It was their case that the Accused had handed the monies to Eric Chia and had only retained $100 to $150 as payment for his expenses. Based on the charges that he pleaded guilty to, they suggested that the Accused had only retained about $500 as “ill-gotten gains” and therefore, that should be the amount that ought to be forfeited under section 23A under the EFMA.
+
+## Court’s Sentencing Approach and Decision
+
+23     Based on the sentencing submissions put forward by the Defence, it can reasonably be inferred that the Accused’s dissatisfaction is in relation to the following sentencing outcomes:
+
+> (a)     The fact that a 10-month custodial sentence was imposed for the MLA charges when he had sought a lower sentence of 6 months’ imprisonment;
+
+> (b)     The fact that an 8-month sentence was imposed on the section 22B(1) EFMA charge when he had sought a 7-month sentence;
+
+> (c)     The fact that a 2-month custodial sentence was imposed on the section 22(1)(d) EFMA charge when both the Prosecution and the Defence had submitted for a 2-week imprisonment sentence;
+
+> (d)     The fact that four sentences were ordered to run consecutively, resulting in a global sentence of 20 months and 4 weeks’ imprisonment when he had sought for three imprisonment sentences to run consecutively; and
+
+> (e)     The fact that the amount $7,700 was ordered to be recovered from him under the section 23A order when according to him, he had retained a much lower amount.
+
+24     I will proceed to explain why the sentencing outcomes mentioned above and the amount ordered to be recovered under the section 23A order are not just appropriate to reflect the level of criminality involved but also fair.
+
+#### Sentences imposed for the two unlicensed moneylending charges
+
+25     The Defence’s main argument in seeking a sentence of 6 months’ imprisonment was that the Accused’s unlicensed moneylending operations did not have “the ethos of stereotypical loan sharks” since he only gave loans to his friends and acquaintances and did not charge exorbitant interest rates. It was emphasised that the Accused operated his business quite differently from the “stereotypical loan sharks”. First, the interest rate of 10% imposed was “far lower than the interest rates charge(d) by stereotypical sharks.” Second, the Accused did not harass or chase the borrowers for payment even though his borrowers often defaulted. Third, the Accused ran a “simplistic” operation which was “a one-man show and there was no element of syndication”. It was the Defence’s position that the harsh punishments provided under the MLA regime are intended for “clamping down on the increase in loan shark activity and the consequent harassment faced by the general public” and this factor was not applicable in this case. Based on this, the Defence submitted that the “sentencing precedents concerning typical loan sharks should be given little weight in the case at hand” since he was merely an “unlicensed moneylender” and not a loan shark.
+
+26     The Prosecution on the other hand argued that these factors did not justify a lower sentence as they were merely neutral factors and not mitigating factors. The Prosecution submitted that 9 to 13 months’ imprisonment is the norm for unlicensed moneylenders and that the facts in this case warranted a 12-month custodial sentence on each charge.
+
+27     Having considered the facts of this case, I agreed with the Prosecution that the facts did not justify a departure from the benchmark sentencing norm for four main reasons.
+
+28     First, the Accused’s alleged one-man “simplistic” operation in form and substance was not very different from the typical unlicensed moneylending setups. Over a 17-month period, he had given loans to not just his friends and acquaintances, but also to persons who were referred to him by his friends. Just like the typical unlicensed moneylenders, he required the borrowers to submit copies of their NRICs and other personal documents which were found in his possession when the MOM raided his office on 25 November 2016. The 13 unlicensed moneylending charges that were taken into consideration for the purposes of sentencing showed that he had ran a steady business over a relatively long period, granting loans often in the region of $2000 to $5000. Further, he offered illegal loans at interest rates of 10% to 20% per month and even the lower interest rate of 10% has been described as being exorbitant by the High Court in **_PP v Lee Pit Chin_** <span class="citation">\[2013\] SGHC 157</span> wherein it held at \[25\] that “Therefore the fact that the Respondent had charged an interest rate of “only” 10% per month was more an aggravating factor rather that one which had mitigating value.” All these factors taken together belied the Accused’s claim that he was not a typical unlicensed moneylender.
+
+29     Second, the fact that the Accused did not harass or chase his borrowers for payment using unscrupulous methods cannot be considered a mitigating factor. As explained by the High Court in **_PP v Lee Pit Chin_** at \[26\] that “…no mitigating weight should be attributed to the fact that the Respondent did not commit any acts of harassment. This is because such acts of harassment are separate offences under s 28 of the MLA carrying harsh penalties of their own…”
+
+30     Third, the evidence did not support the Defence’s claim that the Accused may have ended up not making any profits since some of his friends did not return the money. While it is true that the Statement of Facts stated that the borrower Chai Kai Yean did not manage to repay her loan of $15,000, the length of the operations, the number of borrowers and the fact that he managed to grant loans in the region of $2000 to $5000 to several borrowers strongly suggested that his illegal business was not ran at a loss.
+
+31     Fourth, his antecedents report revealed that he had engaged in an unlicensed moneylending business before as he admitted and consented to four similar charges under section 5(1) of the MLA to be taken into consideration for the purposes of sentencing in 2013. Further, I decided to give little or no weight to his plea of guilt to these offences as the documentation found in his possession during the raid by the MOM provided unequivocal evidence that he was operating an unlicensed moneylending business and the details about his borrowers and the loans that they had taken from him.
+
+32     However, taking into account the fact that there were fewer aggravating factors in this case compared to the precedents that the Prosecution was relying on, it was necessary to calibrate the Prosecution’s proposed sentence of 12 month’s imprisonment downwards. These are the relevant cases:
+
+> \-     **_PP v Low Buay Huat_** (unreported): The accused imposed higher interest rates (20% to 28%) and the total value of loans disbursed was much higher ($177,500) – sentenced to 11 months’ imprisonment and ordered to pay a fine of $40,000 (in default, 1 month’ imprisonment) per charge.
+
+> \-     **_PP v Koh Suat Lay <span class="citation">\[2012\] SGDC 398</span> (MA 210/2012):_** The accused claimed trial, imposed higher interest rates (10% to 60%) and ran his business for a much longer period – sentenced to 12 months’ imprisonment and ordered to pay a fine of $40,000 (in default, 2 months’ imprisonment) per charge.
+
+> \-     **_PP v Tan Kiah Chye_** (unreported): The total value of loans disbursed was much higher with 42 borrowers, the accused generated a much high profit ($81,570) and 67 charges were taken into consideration – sentenced to 12 months’ imprisonment and ordered to pay a fine of $40,000 (in default, 1 month’ imprisonment) per charge.
+
+> \-     **_PP v Lee Kim Hock <span class="citation">\[2011\] SGDC 201</span> (MA 124/2011):_** The accused ran a more sophisticated set-up with profit sharing arrangement with his accomplice and had higher number of debtors – sentenced to 13 months’ imprisonment and ordered to pay a fine of $30,000 (in default, 6 weeks’ imprisonment) per charge.
+
+33     Based on the reasons stated above, I decided that it would be fair to sentence him to 10 months’ imprisonment and to order him to pay the minimum fine of $30, 000 (in default, 1 month’s imprisonment) on each charge.
+
+#### Sentences imposed for the section 22B(1) of the EFMA
+
+34     In relation this charge, the Defence sought a custodial sentence of 7 months’ imprisonment. It was their position that any sentence imposed against the Accused for this charge should not be longer than that imposed on his co-accused, Lim Bee Eng which was 7 month’s imprisonment on each charge. This was because Lim Bee Eng was charged with higher number of charges under section 22B(1) EFMA (31 charges) involving other companies and he had pleaded guilty to more charges (12 charges). The Defence also argued that the Accused’s sentence should not be higher than that of his co-accused as it was not his plan to use Lim Bee Eng to register Monstar or to offer to pay him $500 to $1000 for this work as he had done this on the instructions of Eric Chia. In other words, it was the Defence’s submission that he was less culpable than Lim Bee Eng in terms of his role as he was not the directing mind of the illegal operations.
+
+35     The MOM disputed the Accused’s claim that Eric Chia was the actual mastermind behind these nefarious operations and that the Accused had acted on his instructions. They stated that they are rejecting the Accused’s claim as both the Accused and his brother did not mention Eric Chia’s involvement when they were being investigated. They argued that the sentence imposed on the Accused ought to be higher than that imposed on Lim Bee Eng because of the role that he had played in the operations since it was he who had communicated with the foreigners, collected the payment of the fees from them and it was he who had prepared and filed the work pass applications.
+
+36     I agreed with the Prosecution that the sentence imposed against the Accused for the section 22B(1) charge had to be higher than that imposed against his co-accused as he was a more important cog in the illegal operations. The facts that the Accuse admitted without qualification revealed that Lim Beng Eng’s role was limited to the use of his Singpass account details to register the sole proprietorship and to apply for work passes for the Chinese jobseekers who were referred to the Accused by “Ling Ling”. In other words, he was hired by the Accused to register a business enterprise to legitimise the illegal work permit application operations and he was not involved in the work permit application process or in the collection of “employment agency fees” from the foreigners. Therefore, a higher sentence of 8 months’ imprisonment was justified purely based on the different roles that Lim Beng Eng and the Accused had played and their involvement.
+
+37     Further, I gave zero weight to the Accused’s claim in his mitigation that he did not direct the operations and that he was merely engaged to carry out Eric Chia’s instructions. This was because his claim was inconsistent with the following incriminating facts that he had admitted to:
+
+> (a)     It was his brother who met the employment agent “Ling Ling” in China and “Ling Ling” was introduced to the Accused and not to Eric Chia;
+
+> (b)     The facts stated that “Ling Ling” shared her proposal and had discussed the payment of a “cut of the fees” as commission with the brothers not with Eric Chia;
+
+> (c)     All the payments by the foreigners were collected by the Accused and there was no mention that the monies collected were paid to Eric Chia;
+
+> (d)     It is also highly unlikely that the Accused would have run the operations and had taken the risks without proper compensation. Therefore, if Lim Bee Eng was offered $500 to $1000 just to be a “fall guy”, it was highly unlikely that the Accused was only paid $100 to $150 to cover his transport and other expenses for each application that he had made when the evidence suggested that he practically ran the operations; and
+
+> (e)     Since it was the Defence’s position that the Accused had cooperated during the investigations, it was reasonable to assume that the Accused had told the truth when he admitted that he had ran the illegal operations with his brother during the investigations.
+
+38     In any event, even if Eric Chia had indeed worked behind the scenes, it did not detract from the fact that the Accused played a bigger role in the illegal operations than Lim Bee Eng and that a higher sentence was therefore necessary to reflect his higher culpability. Considering that the mandatory minimum sentence under section 22B(1) of the EFMA is 6 months’ imprisonment, the sophistication of the operations and the fact that two charges under section 22B(1) of the EFMA were taken into consideration for the purposes of sentencing, a sentence of 8 months’ imprisonment cannot be said to be manifestly excessive.
+
+#### Sentences imposed for the section 22(1)(d) EFMA charge
+
+39     It is now trite that the dominant sentencing consideration for offences under section 22(1)(d) of the EFMA is deterrence and that a custodial sentence is the norm – see **_Chiew Kok Chai v PP_** <span class="citation">\[2019\] 5 SLR 713</span> at \[52\] and \[62\]. The Defence did not dispute this and agreed with the Prosecution that a custodial sentence is the applicable norm and that a sentence of 2 weeks’ imprisonment was appropriate. I decided that it was necessary to impose a longer imprisonment sentence in light of the Accused similar antecedents and after considering the sentencing approach endorsed by the High Court in **_Chiew Kok Chai v PP_** and the sentencing outcome in that case.
+
+40     In **_Chiew Kok Chai_**’s case, the accused conspired with another to apply for work passes for three foreign workers when his company was not entitled to employ foreign manpower. The three foreign workers were issued work passes by the Work Pass Division (the “WPD”) of the MOM and these workers worked solely for the accused’s company. The accused pleaded guilty to 18 charges under the EFMA with 43 charges being taken into consideration for the purposes of sentencing. Of the 18 charges that he pleaded guilty to; one was under section 22(1)(d) of the EFMA. The facts showed that the WPD would not have approved the applications but for the false declarations made in the work pass applications.
+
+41     The High Court in that case laid down the following sentencing framework for offences under section 22(1)(d) of the EFMA after considering the sentencing precedents, the legislative objective of the EFMA and the sentencing framework governing the offences under section 57(1)(k) of the Immigration Act and section 182 of the Penal Code:
+
+> 67    Moving to the sentencing framework proper, the court is to consider the following non-exhaustive offence-specific factors at the first stage:
+
+>> (a)    the materiality of the false representation on the mind of the decision-maker (_Chowdhury_ (\[10\] _supra_) at \[28\]) – the greater the impact of the falsehood in inducing the grant of the application, the more severe the sentence imposed;
+
+>> (b)    the nature, sophistication and extent of the deception (_Chowdhury_ at \[29\]) – more severe punishment is merited if the applicant went to greater lengths to deceive or if he acted in conscious defiance of public authorities;
+
+>> (c)    the consequences of the deception (_Chowdhury_ at \[30\]) – the court may consider the extent to which harm was caused to foreign workers by way of exploitation, the wastage of resources by public authorities in uncovering the deception, whether a potentially better-qualified applicant was deprived of the job opportunity, or whether the offender put others at risk of adverse consequences by performing a job without the requisite skills;
+
+>> (d)    whether a transnational element was present and/or whether the offence was committed as part of a criminal syndicate’s operations;
+
+>> (e)    the specific role played by the offender, and, relatedly, the number of people involved in the furnishing of false information;
+
+>> (f)    whether the offender obtained gains (financial or otherwise) from the commission of the offence; and
+
+>> (g)    the motive of the offender in circumventing the work pass framework, _eg_, for vice or criminal activities.
+
+>     Once the gravity of the offence has been ascertained based on these factors, the court places the offence within an appropriate band.
+
+> 68    At the second stage, the court is to take into account the “offender-specific factors”, _ie_, the personal mitigating factors applicable to the offender (_Chowdhury_ at \[31\]). This could relate to his character, personal attributes, expression of remorse, and cooperation with the authorities. It is envisioned that a fine might be appropriate where strong personal mitigating factors are present.
+
+42     When considering the first-stage offence-specific factors, I was aware that the framework as laid down by the High Court pertains to the false declaration offences that involve work pass applications and renewals and that the High Court had left the sentencing approach for non-work pass offences open for another court to decide. However, I decided that the said factors provided a useful guide to assess the seriousness of the section 22(1)(d) offence that the Accused had committed. At the same time, I also referred to the non-exhaustive list of factors in the sentencing guidance for the offences under section 182 of the Penal Code that was laid down by the 3-Judge Panel of the High Court in **_Koh Yong Chiah v PP_** \[2019\] 3 SLR 447 to consider the degree of harm caused or likely to be caused by the Accused’s wrongdoing. Next, I considered the following sentencing bands that were endorsed by the High Court in **_Chiew Kok Chai_**’s case:
+
+![]([2021] SGDC 0130_Image/[2021] SGDC 0130_image1.png)
+
+43     Having done so, I decided that the Accused’s wrongdoing fell within Band 1 which attracted a short custodial sentence of less than five months’ imprisonment but at the higher end of the range provided. This was because, in my judgment, the section 22(1)(d) offence committed by the Accused was more serious in nature than that committed by the accused in **_Chiew Kok Chai_**’s case for the following reasons:
+
+> (a)     The Accused involved a third party and blatantly instigated her to furnish false information to an Employment Inspector of the MOM by telling the officer that she was working for Monstar. In **_Chiew Kok Chai’s_** case, the accused committed the wrongdoing with a co-conspirator who was jointly managing the construction projects with him.
+
+> (b)     The facts suggested that he may have exerted some pressure on Zhang Dandan to give the false statement as the issuance of the text messages on 3 November 2016 was not the first time he had instigated her. The Statement of Facts stated that these text messages were forwarded to _remind_ her to furnish false information. In **_Chiew Kok Chai’s_** case, the accused and his co-conspirator had jointly agreed to make the false declarations in the work pass applications.
+
+> (c)     In the text messages he stated in detail what Zhang Dandan should tell the officer and this showed that this was a planned and deliberate act on his part.
+
+> (d)     His motive was more iniquitous as it was to obstruct the investigations that were being conducted by the MOM to shield Monstar and himself from being investigated and to prevent the detection of the offences that he had already committed. This is unlike the motivation on the part of the accused in **_Chiew Kok Chai_**’s case who had committed the false declarations offences mainly because of business operations and/or financial pressures.
+
+> (e)     The Accused had previous antecedents for making false statements to a public servant. On 11 June 2013, he pleaded guilty to 6 charges under section 57(1)(k) of the Immigration Act for making a false statement to obtain or attempt to obtain permit, pass, Singapore visa or certificate. He was sentenced to 2 months’ imprisonment on each charge and with 3 charges ordered to run consecutively, his total sentence was 6 months’ imprisonment. The accused in **_Chiew Kok Chai_**’s case was a first offender.
+
+44     Further, the High Court had decided in **_Chiew Kok Chai_**’s case that the indicative starting point for offences under section 22(1)(d) of the EFMA is 2 month’s imprisonment and in that case it was calibrated downwards slightly to 6 weeks’ imprisonment after taking into account the accused’s mitigating factors. Based on this, I had to reject the 2-week imprisonment sentence as proposed by the parties since the giving of a false statement during investigations should not be considered as being less serious than the making of false declarations in work pass applications. Further, as the aggravating factors in this case were more serious for the reasons stated above, I took the view that the appropriate starting point sentence was 3 months’ imprisonment but taking into account the Accused’s plea of guilt, I decided that it would be fair to sentence the Accused to 2 months’ imprisonment on this charge.
+
+#### Total sentence imposed: The number of charges ordered to run consecutively
+
+45     I ordered four sentences to run consecutively – sentences in DAC 944597/2016 (s5(1) MLA), MAC 905047/2017 (s22A(1)(b) EFMA), MAC 905053/2017 (s22(1)(d) EFMA) and MAC 905058/2017 (s22B(1) EFMA) – with a global imprisonment sentence of 20 months and 4 week’s imprisonment. The Defence sought a global imprisonment sentence of 14 months’ imprisonment with the charges DAC 944597/2016, MAC 905058/2017 and MAC 905047/2017 to run consecutively.
+
+46     There was generally no dispute that the offences committed by the Accused were unrelated even though all the EFMA offences were committed to legitimise the illegal stay of the foreign workers while they stayed to find their own employment. This was because all the offences concerned distinct conduct that could not be said to be a “single invasion of the same legally protected interest” in terms of “the proximities in time, place, continuity of action, and continuity in purpose or design”[^3]. Therefore, the only the issue was whether it was appropriate to order the fourth charge, the charge under section 22(1)(d) of the EFMA, to run consecutively.
+
+47     When determining how many sentences ought to be ordered to run consecutively when the charges are unrelated, “the general rule of consecutive sentences for unrelated offences” laid down by Menon CJ in **_PP v Raveen Balakrishnan_** <span class="citation">\[2018\] 5 SLR 799</span> is instructive wherein he stated that where an offender has committed multiple unrelated offences, each offence committed should generally attract its own distinct consequence by ordering the sentences to run consecutively:
+
+> “41    In my judgment, _as a general rule_, a multiple offender who has committed unrelated offences should be separately punished for each offence, and this should be achieved by an order that the individual sentences run consecutively. I will, for ease of reference, henceforth refer to this rule as “the general rule of consecutive sentences for unrelated offences”. This general rule is, to my mind, well justified as a matter of principle and policy for the following reasons.
+
+> 42    First, this should be so as a matter of first principle. Since the offences are unrelated, each offence committed by a multiple offender should attract its own distinct consequence. There is no reason in principle why a second or subsequent offence should attract less or possibly no distinct consequence just by reason of the fact that it is one of a number of separate offences for which the offender is being sentenced. All else being equal, a multiple offender bears greater culpability and will have caused greater harm than an offender who has committed only a single offence…Single offenders and multiple offenders therefore ought not in principle be treated in like manner, and the sentencing approach should reflect this.
+
+> 43    Secondly, in many situations, concurrent sentences for unrelated offences would not adequately serve, and in fact may undermine, the sentencing considerations that underlie the individual sentences comprising the aggregate term. For one thing, the imposition of concurrent sentences for unrelated offences would afford an offender who has already committed an offence less or no real incentive to refrain from committing a further offence, in so far as such a sentencing position would result in the offender not having to bear any real consequence for the further offending. This creates a distorted incentive that detracts from the deterrent value of the individual sentences notionally imposed…
+
+> 44    If the need to give sufficient weight to deterrence can afford a justification for a sentencing court to depart from the one-transaction rule and impose consecutive sentences for _related_ offences, then the same interest should logically justify and indeed call for the imposition of consecutive sentences in relation to _unrelated_ offences. Furthermore, from the retributivist perspective, imposing concurrent sentences for unrelated offences would mean that the second or later legally protected interest that was infringed would have no apparent vindication in law. Neither would the duration of imprisonment adequately reflect the greater need for public protection against a multiple offender who cannot claim to have acted in an isolated instance of misjudgment.
+
+> 45    Thirdly, the imposition of consecutive sentences for unrelated offences accords with the alternative scenario, which involves the offender being separately sentenced for each of these offences. If that had been done, the offender would have received separate and in fact aggravated sentences for the later offences, taking into account that his earlier offences would have been considered antecedents in relation to these later offences. Whether an offender is sentenced for unrelated offences altogether at a single sitting, or for each offence separately in different sittings, is a matter that often depends on extraneous factors unrelated to his criminality, such as the time needed for investigations, or expediency, or scheduling issues. There is no reason in principle why the operation of any of these factors should entitle the offender to a materially more lenient or more serious sentence depending just on whether the sentencing occurs on separate occasions or at a single sitting of the court.
+
+> 46    Fourthly, and perhaps most intuitively, allowing a multiple offender to be punished less seriously, or even not at all, for a second or further offending would be a perverse outcome that flies in the face of any notion of justice. As I will elaborate at \[81\] below, public confidence in the administration of criminal justice requires the court to avoid any suggestion or impression that a multiple offender may benefit from some sort of bulk discount in sentencing. Indeed, it seems especially wrong in circumstances such as the present – where the offender committed the second offence while on bail for having committed the first offence, but the first sentence is longer in duration than the second sentence – to run the second sentence concurrently with the first. This would effectively mean imposing no consequence in terms of imprisonment for the second offence, when the fact that the second offence was committed on bail would ordinarily have been an offence-specific aggravating factor.”
+
+48     In my judgment, it was suitable to order the sentence imposed for the charge under section 22(1)(d) of the EFMA to run consecutively as it was a serious distinct wrongdoing and there was nothing that justified the displacement of the application of the “the general rule of consecutive sentences for unrelated offences”. Therefore, to impose a sufficiently deterrent aggregate sentence in this case that involved “multiple wrongdoing by a multiple wrongdoer”, it was necessary to order four sentences to run consecutively. As for the aggregate sentence, it could hardly be described as ‘harsh’, ‘crushing’ or ‘manifestly excessive’ especially when the aggregate imprisonment term did not exceed the maximum prescribed imprisonment for the various offences proceeded with in this case.
+
+#### Amount ordered to be recovered under section 23A of the EFMA
+
+49     The Accused admitted that he had received monies from the foreign workers for whom he had obtained work permits but he disputed the amount that should be forfeited[^4]. The Prosecution argued that he had received $4700 from Jiang Wei for obtaining a work pass for her and $750 from Wang Lixian on four occasions as the monthly payment to avoid the cancellation of her work permit. The Defence argued that it would not be fair to recover the payments that he had received in full as he did not retain the full amount. They claimed that the Accused handed the monies to Eric Chia who had only paid him $100 to $150 for each transaction and based on this, the Court should only order to forfeit $500 from him. The Prosecution argued that the Defence’s submission is “contrary to the text of the statute” as the purpose of section 23A is to confiscate the amount that “he received in respect of the offences, and not the profit he derived from the offence.”
+
+50     I agreed with the Prosecution that the intent of section 23A of the EFMA is to confiscate the whole sum received and not just the profits made. In other words, it would be wrong for the Court to deduct expenses incurred by the Accused from the amount received to ascertain the amount to be confiscated. However, the Defence was partially correct to suggest that the Court has the discretion not to disgorge the proceeds of crime in a “blanket manner” if the evidence showed that the monies received by the Accused were not retained by him. This is because section 23A(2) provides that “the court shall, if it thinks fit” take into account any relevant evidence admitted in the proceedings in determining the amount to be confiscated. Therefore, if the evidence admitted in the proceedings had revealed that (i) the Accused was acting on Eric Chia’s instructions when he committed the offences, (ii) he had transferred the monies received to Eric Chia upon receipt and (iii) that the Prosecution had confiscated or that they intent to confiscate these monies from Eric Chia in subsequent court proceedings, then it may be necessary to ascertain the sum of money that was retained by the Accused.
+
+51     In my judgment, it was not necessary for the Court to consider doing this on the facts of this case after I rejected his mitigation that he had committed the offences on the instructions of Eric Chia and that he was only paid $100 to $150 upon transferring the monies received to Eric Chia. Therefore, as there was clear evidence that the five payments were received by the Accused, I ordered the total amount of $7700 to be recovered from the Accused under section 23A of the EFMA.
+
+#### The appropriate sentence for section 22A(1)(b) EFMA offences
+
+52     For completeness, I will explain my reasons for imposing 4 weeks’ imprisonment for the four offences under section 22A(1)(b) of the EFMA.
+
+53     The Prosecution had proposed that the Accused be ordered to pay a fine of $12,000 (in default, 4 to 6 weeks’ imprisonment) on each section 22A(1)(b) charge. The Defence urged the Court to consider imposing a custodial sentence for these charges. Relying on the case **_Low Meng Chay v PP_** <span class="citation">\[1993\] 1 SLR(R) 46</span>, they argued that it would not be fair for the Accused to serve default imprisonment sentences of up to 16 to 24 weeks when he was “genuinely unable to pay” any fines.
+
+54     I sentenced the Accused to 4 weeks’ imprisonment on the four section 22A(1)(b) charges not because of his inability to pay the fines but because, in my view, the custodial threshold was crossed for these offences for the following reasons:
+
+> (a)     The facts revealed that the Accused asked the foreign workers for whom he had illegally obtained a work pass to make a monthly payment of $750 to avoid the cancellation of their work permits that legitimised their stay in Singapore. This meant that the Accused sought kickback payments to assist the foreign workers to continue to illegally stay in Singapore;
+
+> (b)     Wang Lixian made four payments for this purpose between 14 May to 14 August 2016 alone. The charges that were taken into consideration showed that he had repeatedly sought such payments from 3 other foreigners. In total, the Accused collected $8000 as kickbacks;
+
+> (c)     The Accused opportunistically sought to enrich himself by seeking monthly payments from the foreign workers as he knew that they would pay if they wanted to continue living illegally in Singapore;
+
+> (d)     Imposing a non-custodial sentence for the section 22A(1)(b) offences in this case would not be appropriate as seeking payments to guarantee their continuing illegal in Singapore was akin to demanding a payment of a bribe which is a very serious offence; and
+
+> (e)     There is a strong public interest in deterring the solicitation and receipt of kickbacks to facilitate the continuation of an offence and this requires the imposition of a custodial sentence.
+
+55     Based on this, I decided that the custodial threshold was crossed and imposed 4 weeks’ imprisonment on each charge for the section 22A(1)(b) offences.
+
+## In Conclusion
+
+56     Having given due consideration to the relevant sentencing considerations and the facts of this case, in my judgment, the individual and global sentences that I decided to impose adequately reflect the overall offending of the Accused and achieved the necessary deterrent effect.
+
+57     At the time of preparing these grounds, the Accused is on bail pending the hearing of his appeal.
+
+* * *
+
+[^1]: One charge was under section 6(2) and p/u section 6(4)(a) of the Employment Agencies Act, Cap 92 (Rev Ed 2009).
+
+[^2]: Lee Hwang Kang took a second loan of $2000 in July 2015.
+
+[^3]: **PP v Raveen Balakrishnan: ** <span class="citation">\[2018\] 5 SLR 799</span> at \[39\].
+
+[^4]: See paragraph 4 of the “The Defence’s Submission on S23A EFMA”.
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F26258-SSP.xml)

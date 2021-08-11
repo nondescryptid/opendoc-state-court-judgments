@@ -1,0 +1,139 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# First Construction & Engineering Pte Ltd _v_ Yim Hon Yuen  
+
+### \[2021\] SGDC 120
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Originating Summons No 2 of 2021, HC/RAS 13 of 2021</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">23 June 2021</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Wong Peck</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Patrick Yap and Callie Kwong (BR Law Corporation) for the plaintiff; Lavan Vickneson (Legal Solutions LLC) for the defendant.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">First Construction &amp; Engineering Pte Ltd — Yim Hon Yuen</td></tr></tbody></table>
+
+CREDIT AND SECURITY – Performance bond
+
+23 June 2021
+
+### District Judge Wong Peck:
+
+## Introduction
+
+1       The plaintiff brought the present action to restrain payment under a performance bond. As ascertained and agreed between parties at the hearing before me on 18 May 2021, the hearing dealt with the final disposal of the Originating Summons and I accordingly made no order as to the prayers in the interim injunction in DC/SUM 11 of 2021.
+
+2       After hearing parties, my decision was to dismiss the plaintiff’s application for restraining payment under the performance bond. Being dissatisfied, the plaintiff has now appealed against my decision.
+
+## Background
+
+3       The performance bond No DBPFHQ18-000252 issued on 14 September 2018 by EQ Insurance Company Limited (“EQ Insurance”) was made in favour of the defendant who was the employer for the project of construction of a new semi-detached dwelling house (“the house”) located at 87 Braemar Drive, Singapore 559490. The plaintiff was the contractor engaged by the defendant to carry out, complete and maintain the project works. The performance bond was furnished in lieu of the 10% cash deposit that the plaintiff was to provide to the defendant to ensure the plaintiff’s due performance and observance of its contractual obligations as the plaintiff was the contractor tasked with constructing the house.
+
+4       The original completion date was to be 14 August 2019. However, the works were not completed on that date. On 21 October 2020, the temporary occupation permit (“TOP”) for the house was issued. On 18 January 2021, the architect for the project issued a Liquidated Damages entitlement certificate (“LD certificate”) dated 16 January 2021 which stated that the contract completion date was 21 October 2020 and that there had been a delay of 435 days past the original completion date. As there was an extension of time of 122 working days granted, the revised contract completion date was 21 June 2020. Hence, the default period was 313 days resulting in liquidated damages of $156,500 being payable as the LD rate was $500 per day.
+
+5       Based on 10% of the contract sum, the bond amount was $105,300. According to the terms of the bond, it was valid till 5 July 2020 and automatically extended for successive period of 90 days unless EQ Insurance notified the defendant to the contrary. On 21 October 2020, the defendant sent an email to EQ Insurance to call on the bond. This was supplemented by a further email of 3 November 2020 to EQ Insurance informing that the defendant was calling on the full bond amount and details of the defendant’s claim totaling ($115,960) were set out in an excel spreadsheet attached to this email to EQ Insurance. The computation comprised of total cost to defendant ($36,990) plus LD of 250 days ($125,000) less the net outstanding ($46,030.3452).
+
+## The plaintiff’s arguments to restrain call on performance bond
+
+6       The plaintiff’s position as stated in their submissions was that the call on the performance bond was tainted with fraud and unconscionability. In the submissions before me, the plaintiff’s counsel made four main arguments. Firstly, they took the position that based on clause 16 of the contract made between the parties, the LD certificate was a condition precedent. When the call on the performance bond was made in October 2020, no LD certificate had been issued by the architect yet. This was because the defendant only made the request for the LD certificate on 16 January 2021. As the LD had not crystalised yet at the time the call on the performance bond was made, the defendant was not entitled to make the call. Hence, the call was made fraudulently by the defendant as he was not concerned with whether the call was correct, or at the very least, unconscionable to do so on his part.
+
+7       Secondly, the LD certificate was invalid as the plaintiff claimed that there were five errors made in the certificate. The errors were as follows:
+
+> a.     Wrong completion date was stated. It should be 14 August 2019 and not 21 October 2020 as it was a 12-month contract to build the house. 21 October 2020 was the TOP date.
+
+> b.     Architect failed to state the last interim certificate as he had only attached this certificate.
+
+> c.     435 days of delay was wrong.
+
+> d.     Architect had wrongly stated the extension of time which was not necessary as construction was completed before the COVID-19 pandemic.
+
+> e.     As the number of days of delay was wrong, it followed that the LD sum was wrong. It should be $56,000 and not $156,000.
+
+8       Thirdly, the defendant has claimed a sum lesser than what the architect had certified in the LD certificate. Although the defendant had justified doing so out of goodwill, the plaintiff claimed that the reason was because the defendant had substantially completed the works. The final argument was that only $9,750 worth of works was not certified by the architect and this amounted to less than 1% of the original contract sum on which the bond was based.
+
+9       The plaintiff also claimed that the architect was employed by the defendant and not an independent third party as he was paid by the defendant for his services. The Singapore Institute of Architects (“SIA”) contract also provided that the architect was an agent of the employer.
+
+## The defendant’s arguments not to restrain call on performance bond
+
+10     The defendant counsel’s preliminary objection was that the plaintiff did not complain of fraud in its supporting affidavit. Therefore, it was not fair for the plaintiff now to allege fraud in their written submissions. Counsel also submitted that in this hearing, the Court was not to embark on minute examination of facts and circumstances but to focus on lack of bona fides. Further, the plaintiff had acknowledged in its supporting affidavit that they owed liquidated damages but were only disputing the quantum.
+
+11     There had been numerous documents showing outstanding works and repeated reminders and warnings issued by the architect. An example given was the warning letter issued by the architect on 26 March 2020 for outstanding works. Another example was the architect’s instruction dated 13 April 2020 where he stated the works that were severely late. Other examples were the Whatsapp messages of 30 January 2020 and 19 August 2020 that were exhibited showing that works were still outstanding. This was further proven by the notes of meeting taken for site meeting number 23 dated 10 October 2019 stating outstanding works when all parties were present.
+
+12     The defendant submitted that based on case law, where there are genuine disputes, this does not go towards fraud or unconscionability. Instead, such matters should be resolved at trial or arbitration. In the present case, evidence of outstanding works had been exhibited and this was sufficient for the beneficiary to call on the performance bond. Further the architect’s LD certificate had proven that the defendant was entitled to claim LD.
+
+13     As for the plaintiff’s claim that the LD certificate was a condition precedent in clause 16, this was incorrect as the only condition precedent in clause 16(9) was that the contract date had passed. In the present case, this had been complied with.
+
+14     The onus was on the plaintiff to prove fraud or unconscionability. This Court was not required to decide on the merits of each party’s case and just decide on a broad-brush approach if the call was valid. As for the architect being an agent of the defendant, the architect was also a professional who must use his professional skill and judgment and act in a fair and unbiased manner. Finally, this Court was not the appropriate forum to challenge the architect’s certificate.
+
+## Issue
+
+15     The issue is whether this Court ought to order a restrain on the performance bond on grounds of fraud and/or unconscionability. I shall first outline the prevailing law on performance bonds.
+
+16     It is trite law that the Court will only intervene to prevent a beneficiary from calling on a performance bond if it can be shown that the call was either fraudulent or unconscionable. As rightly pointed out by the defendant in his oral arguments, it is the plaintiff who bears the onus to prove the call on the performance bond ought to be restrained based on grounds of fraud and/or unconscionability.
+
+17     For the fraud exception, in _Bintai Kindenko Pte Ltd v Samsung C&T Corp and another_ <span class="citation">\[2019\] SGCA 39</span>, the Court enunciated that the plaintiff has to establish a strong prima facie case that the defendant called on the bond:
+
+> a.     with the knowledge that its demand was invalid;
+
+> b.     without belief in the validity of its demand; or
+
+> c.     with indifference as to whether the demand was valid or not.
+
+18     For the unconscionability exception, it has been established in _Sulzer Pumps Spain, SA_ v _Hyflux Membrane Manufacturing (S) Pte Ltd_ <span class="citation">\[2020\] 5 SLR 634</span> that it applies to situations where the beneficiary’s conduct is sufficiently reprehensible to justify an injunction but does not amount to fraud. The plaintiff bears the burden of proving a strong prima facie case of unconscionability. The framework to be applied was outlined in _CEX v CEY and another_ <span class="citation">\[2021\] 3 SLR 571</span>.
+
+19     In the plaintiff’s written submissions, it was relying on both grounds of fraud and unconscionability in its application to restrain the call on the bond.
+
+## The decision
+
+### Argument of fraud
+
+20     I agreed with the defendant that fraud was not alleged in the plaintiff’s affidavits and that fraud was only mentioned in the plaintiff’s written submissions. Hence, this Court focused its decision on whether unconscionability had been proven by the plaintiff as the ground for restraining the call on the performance bond rather than allegations of fraud. For completeness, I would nonetheless address such allegations of fraud.
+
+21     Based on the affidavits filed by parties, I found that the plaintiff had not established a strong prima facie case that the defendant called on the bond knowing that the demand was invalid or without belief in the validity of its demand or with indifference to whether the demand was valid or not. When the defendant made the call on the bond, he outlined the details of his claim in his email to EQ Insurance and quantified it as $115,960. His act of doing so showed that there was no fraud on his part in that he made the call believing it to be valid and took pains to quantify it as he was not indifferent as to whether his call was valid or not. In fact, the defendant had even quantified his claim for LD at a lower number of days at 250 days as compared to the number of days quantified by the architect in his LD certificate at 313 days. This conservative estimate of LD days by the plaintiff showed that he was careful and did not do so in a lackadaisical attitude like the first Respondent in _Bintai Kindenko Pte Ltd_ case.
+
+22     The plaintiff submitted that there was fraud because the defendant made the call before the LD certificate was issued by the architect in January 2021. With respect, the plaintiff had made the call because the expiry date of the bond was coming up on 5 November 2020.
+
+### Argument of unconscionability
+
+23     The framework for determining whether an injunction restraining a performance bond should be granted on the ground of unconscionability has been set out in _CEX_ case at \[9\] to \[39\]. I shall now turn to applying the framework to the facts of the present case.
+
+24     Looking at the nature of the performance bond, I determined that the performance bond in question was an unconditional, on demand performance bond. A copy of the bond had been exhibited at Tab 1 of Chew Chia Kang’s affidavit affirmed on 31 December 2020. This meant that there was no need to prove that the contractor had breached its obligations under the contract. As the parties did not dispute that the terms 1(a) to (c) of the performance bond had been complied with, the call would therefore fall within the terms of the bond.
+
+25     The next step was to determine if the plaintiff had made out a strong prima facie case of unconscionability. The threshold to meet before the Court will exercise its discretion to grant in injunction is a high one. The plaintiff has to establish a strong prima facie case of unconscionability, having regard to the entire context of the case.
+
+26     As this was an Originating Summons without the benefit of cross-examination to test the veracity of the deponents’ evidence, it was not for this Court to embark on a protracted consideration of the merits of the case as this Court was not in the position to determine the reliability and probative value of the evidence. The question to be answered here was whether the defendant’s conduct had prima facie been unconscionable or reprehensible or lacked bona fides.
+
+27     In _CEX_ case, Lee Seiu Kin J outlined the unconscionable conduct that are commonly found in the following scenarios:
+
+> a.     calls for excessive sums
+
+> b.     calls based on contractual breaches which the beneficiary itself is responsible for
+
+> c.     calls tainted by unclean hands
+
+28     Other circumstances that may lead to a finding of unconscionability are:
+
+> a.     calls made for ulterior motives
+
+> b.     calls based on a position which is inconsistent with the stance that the beneficiary took prior to calling on the bond.
+
+This is a non-exhaustive list.
+
+29     In the present case, I found that the plaintiff had not shown a strong prima facie case that there was unconscionability on the part of the defendant in calling on the performance bond. None of the circumstances that I had outlined earlier existed in the present case. Nor was there other conduct on the part of the plaintiff that showed unconscionability. I shall elaborate.
+
+30     The plaintiff claimed that the LD certificate was riddled with errors and that the amount was incorrect and inconsistent with the defendant’s own estimation. I agreed with the defendant that it was not for this Court to rule whether the architect’s LD certificate was invalid. Nor was this Court able to conclusively determine without cross examination if the sum of $153,960 as computed by the defendant was excessive. These were issues for trial or arbitration and such disputes did not lead to the finding of unconscionability based on the case authorities cited by the defendant. I found that prima facie, this sum was not excessive as I had earlier held that the said computation was conservative. The plaintiff did not dispute per se the third-party contractors were engaged to finish the works but the amount. However, dispute as to amount alone did not give rise to a restraint on the call.
+
+31     The plaintiff disputed the calculations in the LD certificate and complained that the form was not in compliance with the SIA conditions. As these alleged disputed breaches were on the part of the architect, I found that the defendant was not responsible for the alleged breaches.
+
+32     As for the plaintiff’s submission that it was condition precedent that the LD certificate be obtained first, I agreed with the defendant’s reply skeletal submissions at paras 30-40 that it was not a condition precedent in that once the contract completion had passed, the defendant was entitled to claim LD based on $500 per day. The only condition was that such claim was not to exceed what has been stated in the latest Certificate of Liquidated Damages Entitlement. Clause 16(9)(a) did not require the LD Certificate to be issued first before the defendant raised a claim for LD.
+
+33     As for plaintiff’s contention that outstanding works were only minor defects that require rectification, I found that based on the documents at pages 374 to 381 of the Bundle of Affidavits Vol 2, these were clear indications that the plaintiff was repeatedly reminded and warned for many months via architect’s instructions since 10 January 2020 that outstanding works were still pending. I noted from these documents that there was a segregation of “defects” from “outstanding works” mentioned in these instructions. Therefore, these were outstanding works that went beyond minor defects.
+
+34     I found that the defendant had exhibited various contemporaneous documentary evidence showing that complaints about the delay and incomplete works were highlighted to the plaintiff prior to the call on the performance bond in October 2020. These could be found at paras 35-36 at pages 14-16 of the defendant’s affidavit filed on 27 January 2021. Hence, the plaintiff was not in the position to say that the defendant had taken an inconsistent position with his stance prior to calling on the bond. Therefore, the plaintiff’s claim made at paras 14-15 of Chew Chia Kang’s affidavit affirmed on 31 December 2020 that there was no complaint till 25 June 2020 was not true.
+
+35     The plaintiff was unhappy that the defendant made the call on the bond even before the instructing the architect to prepare the LD certificate. I found that the architect’s certificate of 18 January 2021 affirmed the defendant’s position that the call was justifiable given that the amount of the defendant’s claim was higher than the bond amount of $105,600. In any case, as rightly pointed out by the defendant, paras 23 and 27 of the plaintiff’s first affidavit affirmed on 31 December 2020 clearly showed that the plaintiff acknowledged that they were liable for LD and only disputed the quantum.
+
+36     As for the plaintiff’s assertion that the architect was employed by the defendant and therefore was not an independent third party, I found that there was no merit in this allegation where the LD certificate was concerned. At \[61\] of _CEX_ case, Lee J opined that whether the architect is an agent of the developer or not depends on the nature of the duty that the architect is exercising at the relevant time. Further, His Honour went on to explain that:
+
+> “When the architect is called on to exercise his independent judgment and issue certificates, however, he cannot be the agent of the developers/building owners: _Hiap Hong_ at \[35\]”
+
+37     In the present case, the LD certificate was issued by the architect using his independent judgment. Therefore, the architect was not an agent of the defendant when he issued the LD Certificate.
+
+## Conclusion
+
+38     As parties had made numerous written submissions and filed voluminous affidavits to support their respective positions, I ordered costs and disbursements of $10,000 all-in to be paid by the plaintiff to the defendant.
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F26198-SSP.xml)

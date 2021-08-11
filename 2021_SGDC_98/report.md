@@ -1,0 +1,267 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Marcus Cheong Wai Kit  
+
+### \[2021\] SGDC 98
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">District Arrest Case No. 926583 of 2019, Magistrate Arrest Case No 909672 of 2019, Magistrate's Appeal No 9102/2021/01</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">31 May 2021</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Teoh Ai Lin</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Tan Pei Wei (Attorney General's Chambers) for the Prosecution; Irving Cho and Oei Su-ying Renee Nicolette (Optimus Chambers LLC) for the accused.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Marcus Cheong Wai Kit</td></tr></tbody></table>
+
+Criminal Law – Offences – Property – Criminal Breach of Trust
+
+Criminal Procedure and Sentencing – Sentencing
+
+\[LawNet Editorial Note: An appeal to this decision has been filed in MA 9102/2021/01.
+
+31 May 2021
+
+### District Judge Teoh Ai Lin:
+
+1       The accused Marcus Cheong aged 25 years worked as a part-time order fulfilment agent for his employers who were in the business of selling gift vouchers. He had initially claimed trial to dishonestly misappropriating $25,000 worth of gift vouchers entrusted to him, and for giving false information to police. After two prosecution witnesses had given evidence, he decided to plead guilty to two charges under section 408 and section 182 of the Penal Code.
+
+2       I sentenced the accused to eight months imprisonment on the section 408 charge and three weeks’ imprisonment on section 182 charge, with both sentences to run consecutively. The accused has appealed against my sentence.
+
+## The Charges
+
+3       The accused pleaded guilty to the following two charges:
+
+> DAC-926583-2019
+
+> You, \[…\] are charged that you, from 19 December 2018 to 10 April 2019, at 40B Pagoda Street, Singapore 059199, being a servant employed by Option Gift Pte Ltd, to wit, an Order Fulfilment Agent (Part Time), and being in such capacity entrusted with dominion over property, to wit, gift vouchers with a value amounting to S$25,000, did dishonestly misappropriate the said property, and you have thereby committed an offence punishable under Section 408 of the Penal Code (Cap 224).
+
+> MAC-909672-2019
+
+> You, \[…\] are charged that you, on 10 April 2019, at or about 4.05pm, at the premises of Option Gift Pte Ltd at 40B Pagoda Street in Singapore, did give false information to a public servant, namely, SSSGT Mohamad Zaeid Mohamad Rasid of the Singapore Police Force, to wit, by stating in your statement dated 10 April 2019 that one Gabriel, your friend from CMPB, had given you gift vouchers which were the subject of a potential criminal breach of trust offence, which information you knew to be false, intending thereby to cause the said public servant to omit to further investigate your involvement in the alleged offence, which such public servant ought not to omit if the true state of facts respecting which such information is given were known by him, and you have thereby committed an offence punishable under Section 182 of the Penal Code (Cap 224).
+
+#### Prescribed punishment
+
+4       The section 408 offence is punishable with imprisonment of up to 15 years and the offender is also liable to a fine. The section 182 offence is punishable with imprisonment of up to one year, or fine of up to $5000, or both.
+
+## Material Facts
+
+5       The accused, a Singapore citizen, was employed as a part-time order fulfilment agent from 19 December 2018 to 10 April 2019 with Option Gift Pte Ltd (“the company”), located at 40B Pagoda Street. The company is in the business of selling Uniqgift and Al-Futtaim gift vouchers, which would be delivered to customers by Singpost or courier.
+
+6       The accused’s job scope included packing gift vouchers which had been ordered for delivery to customers. He was thus entrusted with dominion over these vouchers in his capacity as an employee of the company.
+
+##### Facts relating to DAC-926583-2019 (1st charge)
+
+7       During the course of his employment, the accused dishonestly misappropriated vouchers amounting to $25,000 by taking them for himself instead of packing them for delivery. He used some of these vouchers for his own purposes and sold some to his friend Fabian Hui Wei Hao (“Fabian”) at half their value.
+
+8       The accused and Fabian conducted the transactions primarily over Telegram, a messaging application. In these messages, the accused told Fabian that he was able to purchase the vouchers from the company at half-price.
+
+9       The accused was not authorised to take the vouchers for his own purposes. By doing so, he dishonestly misappropriated them and has thereby committed an offence under s 408 of the Penal Code (Cap 224). No restitution has been made.
+
+##### Facts relating to MAC-909672-2019 (2nd charge)
+
+10     Subsequently, the company’s operations manager, Tay Tze Hsien Ian, discovered a large quantity of vouchers missing and made a police report on 19 March 2019. The police commenced investigations into a potential offence under s 381 PC.
+
+11     Investigations revealed that vouchers that had gone missing from the company were being sold on Carousell. These were traced to Fabian, who informed the police that the accused had sold the vouchers to him.
+
+12     On 10 April 2019 at about 4.05 p.m., the accused’s statement was recorded by SSSGT Mohamad Zaeid Mohamad Rasid of the Singapore Police Force under s 22 of the Criminal Procedure Code (Cap 68). In this statement, the accused admitted to giving vouchers to Fabian but falsely stated that “\[his\] friend, Gabriel from \[the Central Manpower Base\], whose name I cannot recall, had handed over the vouchers for me. His number XXX. He told me to hand over the vouchers to Fabian.” The accused was referring to one Ng Jun Song Gabriel Lernard (“Gabriel”), with whom the accused had served his national service at the Central Manpower Base.
+
+13     The accused had not received any vouchers from Gabriel, nor had Gabriel ever instructed the accused to hand vouchers to Fabian on his behalf.
+
+14     In giving this false information to SSSGT Zaeid, the accused intended to cause SSSGT Zaeid to omit to further investigate his own involvement in the potential offence, which SSSGT Zaeid ought not to omit to do if the true state of facts respecting which such information is given was known by him. The accused has thus committed an offence under s 182 of the Penal Code (Cap 224).
+
+15     As a result of the false information provided by the accused, SSSGT Zaeid visited Gabriel’s residence on 11 April 2019 at 2.20 a.m. together with another officer to record a statement from him and to search for vouchers. No vouchers were found at his residence.
+
+16     The accused admitted to having lied about Gabriel’s involvement and confessed to having misappropriated vouchers from the company in a further statement recorded from him on 12 April 2019 at 1.45 a.m.
+
+##### Other relevant facts
+
+17     The accused’s statements in which he admitted to the offences were disclosed in the Case for the Prosecution, which was served on 26 December 2019.
+
+18     The Telegram messages between the accused and Fabian for March 2019 were disclosed in the Prosecution’s Supplementary Bundle, which was served in April 2020.
+
+## Antecedents
+
+19     The accused has no antecedents.
+
+## Prosecution’s submission for global sentence of at least 12 months and 6 weeks imprisonment
+
+20     Prosecution submitted that the accused should be sentenced to at least 12 months jail for the section 408 offence and at least 6 weeks’ jail for the section 182 offence, with both sentences to run consecutively.
+
+21     For the section 408 offence, prosecution relied on _Kavitha d\\o Mailvaganam_ <span class="citation">\[2017\] SGHC 133</span> (“_Kavitha_”) where the High Court indicated that the appropriate sentence for a usual offender such as the accused who had pleaded guilty and misappropriated $30,423.96 was ten months’ jail. Prosecution sought an uplift of two months to at least 12 months’ jail, as the accused had only pleaded guilty after the principal prosecution witness Fabian had given evidence against him.
+
+22     For the section 182 offence, the custodial threshold was caused as appreciable harm was caused to a third party whose house had been searched and a statement recorded in the wee hours of the morning. As the accused had claimed trial, an uplift of two weeks to at least 6 weeks’ jail was warranted, compared to those plead-guilty cases where accused persons had been sentenced to four weeks jail for falsely implicating third parties.
+
+## Mitigation and submission for global sentence of five months’ imprisonment
+
+23     Defence submitted that the accused was a first-time offender and had learnt a hard lesson and was remorseful.
+
+24     They submitted for a five month jail sentence, based on _Chong Kum Heng v Public Prosecutor_ <span class="citation">\[2020\] SGHC 21</span> (“_Chong Kum Heng_”) where the High Court had on appeal imposed a ten month sentence for a section 408 offence involving $49,000. As for the section 182 charge, a two week jail term was appropriate, with the two sentences running concurrently as the two offences were “not unrelated”.
+
+## Issues to be determined
+
+25     The issues for determination were as follows:
+
+> (a)     What is the appropriate sentence for the section 408 offence.
+
+> (b)     What is the appropriate sentence for the section 182 offence.
+
+## Issue 1: What is the appropriate sentence for the s 408 offence
+
+### Prosecution’s reliance on Kavita for sentence at least 12 months’ imprisonment
+
+26     Prosecution relied on _Kavita’s_ case for their submission that the accused deserved an uplifted sentence of at least twelve months’ jail.
+
+27     Kavita was a customer service officer tasked to collect payments from customers and to record them in her employer’s internal accounting system. Over a period of five months she misappropriated $30,423.96 cash payments received from 21 customers. She made restitution of $2,000 and pleaded guilty to one charge of criminal breach of trust by clerk or servant. She had dated antecedents and the court was of the view that they did not carry significant weight: at \[19\] and \[22\]. She was sentenced to nine months’ jail in the first instance. On appeal her sentence was reduced to seven months’ jail.
+
+28     The High Court was of the view that the appropriate sentence for a usual offender in the accused’s position would be ten months’ jail. The court noted that in previous cases the usual sentences for such offences ranged from nine to 15 months’ jail for misappropriated sums of $11,000 to $30,000. Applying the precedents, and taking into account that the offending was premeditated, the guilty plea and the partial restitution, the appropriate sentence would be ten months’ jail for the accused: at \[21\] and \[22\].
+
+29     However a three-month discount was appropriate as her motive in committing the offence was a relevant mitigating factor and made her less culpable. She did not commit the offence out of greed or personal gain, but needed the monies to pay off illegal moneylenders who were harassing her as she had acted as a guarantor for a friend. The moneylenders had threatened to burn down her house and workplace and to harm her young son, and her reason for committing the offence was her fear arising from the threats particularly in relation to her young son.
+
+#### Other cases in prosecution’s sentencing table
+
+30     Prosecution’s table of sentencing precedents comprised three other State Courts cases. These cases were not referred to in submissions and I do not propose to deal with them except briefly and for completeness. On a broad level, these cases showed that sentences of between four to eight months jail had been imposed for misappropriation of sums in the region of $20,000 to $23,000.
+
+31     In the reported case of _PP v Farhana bte Nasrullah Khan_ <span class="citation">\[2011\] SGDC 3</span> (“_Farhana_”), the accused was sentenced to four months jail, with three other section 408 charges taken into consideration. She had made full restitution and received four months’ jail. _Farhana_’s case lent little assistance – she had misappropriated a far larger sum of $57,901.85 when her other section 408 charges were taken into consideration, and the misappropriation had taken place over a period of three years. In the other two unreported cases in the table, the misappropriated sums were similar to the present case and the accused persons had made no or small restitutionary payments. They had each received a sentence of eight months’ jail. However being unreported decisions, not much weight could be placed on them.
+
+### Defence’s reliance on Chong Kum Heng for five months’ imprisonment
+
+32     In _Chong Kum Heng_, the accused claimed trial to three section 408 charges (“CBT offences”) and six charges under the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act for using the benefits of his CBT offences (“CDSA offences”).
+
+33     The accused was the project manager in a company carrying out electrical and cabling works as sub-contractor in building projects. Upon completion there would be excess cables which the company was obliged to clear out of the work sites. His employer left it to the project managers including the accused to manage the disposal of the excess cables. They could ask their own sub-contractors to dispose of them or they could sell them as scrap, with the proceeds to be used for staff welfare or worksite expenses. The accused was aware of this policy.
+
+34     The accused was convicted and sentenced to 12 months jail for the CBT offences involving $49,000 and $54,000, and 21 months’ jail for the CBT offence involving $111,000. On appeal, the conviction was upheld. The sentences were reduced to 10 months’ jail for the CBT offences involving $49,000 and $54,000, and 18 months’ jail for the CBT offence involving $111,000: at \[65\].
+
+35     His employer did not deem itself as having suffered any loss or damage. They took the position that the excess cables were of no value, and it was open to the company’s subcontractors to dispose the excess cables or for the accused to undertake the disposal himself.
+
+36     The court noted that this did not negate the accused’s criminal liability nor attenuate his culpability for the wrongful gain he had obtained. These facts had no bearing on the fundamental point that the accused was expected to adhere to company policy on the use of the sale proceeds, and they did not absolve the accused of criminal liability or diminish his culpability. That the company was more forgiving and did not consider itself to have suffered tangible loss was not a valid mitigating factor. In reducing the sentences, the court had also taken into account that the accused had claimed trial and was unremorseful, and had made no restitution: at \[3\] and \[61\].
+
+### Analysis of the cases and application to the facts
+
+#### Prosecution’s starting point of ten months’ imprisonment inappropriate
+
+37     The offences in _Kavita_ and the precedents considered by the court in _Kavita_ involved more egregious forms of offending where the accused persons had falsified documents and\\or made fictitious entries.
+
+38     The accused in _Kavita_ had falsified documents and company records to facilitate and cover-up her misappropriation. She had recorded in the employer’s accounting system lower sums paid by some customers and misappropriated the difference, or recorded customer payments made by cheque or NETS under the names of the cash-paying customers and misappropriated the cash sums entirely: at \[4\].
+
+39     Likewise the two precedent cases examined by the court in _Kavita_, Gopalakrishnan _Vanitha v PP_ \[1999\] 3SLR(R) 310 and _PP v Quek Hui Peng Margaret_ (DAC 32270\\2011). The former involved an accused making false entries into pre-signed company cheques, and the latter involved an accused recording fictitious company expenses, inflating prices from cash sales receipts and leaving out cash sale receipts from accounts books in order to misappropriate the sums: at \[21\].
+
+40     The court in _Chong Kum Heng_ had made a similar observation about a misappropriation case involving falsification of documents cited by prosecution. In response to _PP v Wan Kam Lan_ (DAC 920285-2018) (“_Wan Kam Lan_” ) cited by prosecution, the court expressed the view that the accused’s conduct in _Wan Kam Lan_ was more egregious than the accused in _Chong Kum Heng_, as the former had falsified the company’s records and issued personal cheques to herself: at \[62\].
+
+41     In principle, it would not be appropriate to use the ten-month indicative sentence in _Kavita_ as a starting point and then apply an uplift from there, as prosecution had urged.
+
+#### Untenable to halve Chong Kum Heng’s ten-month sentence as defence urged
+
+42     Neither would it be right in principle as defence submitted, to simply halve the ten-month sentence imposed by the court in _Chong Kum Heng_ for the misappropriation offences involving $49,000 and $54,000, on the basis that the misappropriated sum of $25,000 in the present case was about half the amount.
+
+43     First, the sum misappropriated is only one of the several considerations weighing in the sentencing matrix. Whilst the sums misappropriated are relevant in calibrating the appropriate sentence, to mathematically reduce the accused’s sentence proportionately based on the sums misappropriated is unknown in law. This was apparent from _Chong Kum Heng_ itself. The ten-month sentences for the offence involving $49,000 and $54,000 were not derived by simply halving down the 18-month sentence for the offence involving $111,000.
+
+44     In my view an accused who misappropriated $25,000 in the same circumstances as the accused in _Chong Kum Heng_, and who like the accused had also claimed trial, showed no remorse and made no restitution, would merit a sentence with a significant uplift from the five months urged by defence. The sum of $25,000 representing the criminal benefit obtained was substantial, even if the sum was not an accurate proxy of the harm caused to the victim on those facts. The acts were planned, and deterrence would be an important sentencing consideration.
+
+45     Second, the court in _Chong Kum Heng_ had noted at the outset that the case differed from most other criminal breach of trust cases. The court stated that the company could arguably be said to have suffered no loss if the accused had allowed the subcontractors to dispose of the excess cables rather than handle the disposal of the cables himself: at \[59\] to \[61\].
+
+46     The court stated that the quantum the accused converted to his own use could not serve as a direct and accurate proxy for the degree of harm caused to the company. In most criminal breach of trust cases, economic value serves as a proxy for both the degree of criminal benefit received by the offender as well as the degree of harm caused to the victim, and both these factors are relevant sentencing considerations: at \[3\], \[57\] and \[59\].
+
+#### Appropriate sentence was eight months imprisonment
+
+47     I agreed with prosecution that unlike _Chong Kum Heng_, in this case the sums misappropriated were a direct proxy of both the degree of the accused’s criminal benefit as well as the degree of harm suffered by the company. Therefore when the harm aspect of the offence was considered, the present case was more similar to the usual criminal breach of trust cases like _Kavita_, where the sums misappropriated did function as a proxy of both wrongful gain and wrongful loss.
+
+48     Similar to _Kavita_, the offence was premeditated. I attached no weight to defence’s claim that the offence was due to a “temporary lapse in judgement”. The misappropriation had taken place over a period of four months, and could not be attributed to any temporary lapse. The accused had also committed the offence for pecuniary benefit and profit, and he had made no restitution.
+
+49     However leaving aside the motive factor for which the accused in _Kavita_ received a three-month sentencing discount, overall the commission of the offence in _Kavita_ was more egregious even considering that the accused had pleaded guilty at an earlier stage than the present accused. She had misappropriated $30423.96 from 21 customers over a 5-month period. Compared to the present offence, the sums misappropriated in _Kavita_ were larger (even taking into account the restitution she made), her misappropriation had occurred over a longer period and on 21 separate occasions, and she had also falsified records and documents in order to cover-up the misappropriation.
+
+50     As for mitigating factors in favour of the present accused, the accused had pleaded guilty, even though this was only after the principal witness Fabian had given evidence that the accused had sold him a substantial quantity of gift vouchers, and despite the accused’s positive statements and Telegram messages between him and Fabian having been disclosed to the accused prior to trial. I attached little weight to defence’s claim that the accused was remorseful. The accused’s guilty plea in this case would carry less weight than an early guilty plea indicative of remorse. However the guilty plea did carry mitigating value as it had saved the court’s time and resources in what would otherwise have been a lengthy trial.
+
+51     The accused has no previous convictions. He also has no further brushes with the law since April 2019 and has been constructively engaged. He has been working on a part-time basis since August 2019 with a positive work testimonial from his employer, and had also enrolled in an undergraduate program with SIM Global Education in July 2020.
+
+52     All things considered including the sentencing parameters in _Kavita_ and _Chong Kum Heng_, I was of the view that an eight month sentence was appropriate, and reflective of the accused’s culpability and the gravity of the offence. The eight-month sentence would also be sufficiently deterrent, given the substantial sum involved and that the offence was committed for pecuniary benefit and profit.
+
+## Issue 2: What is the appropriate sentence for the section 182 offence
+
+### Parties’ position on sentencing
+
+#### Prosecution sought an uplifted sentence of at least six weeks’ jail
+
+53     In seeking a sentence of at least six weeks’ jail, prosecution relied mainly on the State Court decisions of _PP v Gui Lee Suan_ <span class="citation">\[2016\] SGDC 226</span> (“_Gui Lee Suan_”) and _PP v Ashraf Johaib_ <span class="citation">\[2010\] SGDC 265</span> (“_Ashraf_”). The accused persons had pleaded guilty and were sentenced to one month’s jail. Their appeals against sentence had been dismissed.
+
+54     As the present accused had only pleaded guilty after trial commenced, prosecution said that an uplifted sentence of at least six weeks’ jail was appropriate. The discount given to a timeously effected plea of guilt ranges from a quarter to a third of what would otherwise be considered an appropriate sentence: _Tan Kay Beng v PP_ \[2006\] 4 SLR (R) 0010 at \[36\].
+
+#### Defence sought two weeks’ jail
+
+55     Defence submitted for a two week jail term, but did not cite any cases or provide any arguments in support of the two weeks’ jail term they were seeking. Defence said the two week uplift sought by prosecution was not warranted just because the accused had claimed trial.
+
+### Custodial threshold crossed
+
+#### Test of appreciable harm
+
+56     In _Koh Yong Chiah v Public Prosecutor_ <span class="citation">\[2016\] SGHC 253</span> (“_Koh Yong Chiah_”), the court guided that whether the custodial threshold is crossed is determined according to the degree of harm caused or likely to be crossed. The test is one of appreciable harm – if appreciable harm may be caused by the offence, the courts should as a starting point impose a custodial term. The range of harm that may ensue includes harm arising from the waste of public investigative resources. Harm in this context refers to both actual and potential harm – if the falsehood it had the potential to cause significant harm even if no harm actually eventuated a custodial sentence would be justified as a starting point: at \[50\] and \[51\].
+
+57     In this case the custodial threshold was crossed when the test of appreciable harm was applied. The accused falsely claimed that he had obtained the vouchers from one Gabriel to hand them to Fabian the buyer of the vouchers. The falsehood resulted in a wastage of police investigative resources as they went to record a statement from Gabriel and search his residence for vouchers at 220am in the early morning hours of the very next morning after taking the accused’s statement. The lie was aimed at perverting the administration of justice and the harm caused in terms of the wasted investigative resources and its impact on a third party were more than _de minimis._
+
+58     The test of appreciable harm provides the court with a starting point on sentence. Other sentencing factors to assess the level of culpability of the offender and the level of harm caused by the offender should then be taken into account to determine whether the starting point should be departed from, and what the appropriate fine and\\or length of imprisonment should be: at \[43\],\[44\] and \[56\].
+
+59     Defence did not dispute that a custodial term was appropriate.
+
+### Assessing the appropriate sentence
+
+#### Prosecution’s sentencing precedents
+
+60     Prosecution submitted two sentencing tables, one of reported State Courts cases and the other of unreported plead-guilty cases. They submitted that _Gui Lee Suan_ and _Ashraf_ were the most relevant cases as they involved similar scenarios of offenders who had given false statements implicating innocent parties to shield themselves during police investigations.
+
+61     In _Gui Lee Suan_ the accused was wanted by police in connection with a cheating offence. During the recording of a statement by Traffic Police into a traffic-related offence of forging a Traffic Police notice, she told the investigation officer that she was one “Lin Mei Lian” (“Lin”) and that she had lost her identity card. Lin was in fact a friend of the accused. The accused did not reveal her true identity as she feared that she would be arrested immediately for another pending investigation against her for cheating.
+
+62     Subsequently another investigation officer was tasked to record a further statement from the accused, who was believed to be Lin. To locate Lin, CPF screening was done to obtain the employment details of Lin. Lin was investigated and a statement recorded from her at her workplace.
+
+63     In _Ashraf_, the accused was being investigated for cheating while gaming at the casino. He had placed an additional cash chip after the winning number had been declared. He told police that his friend Goswami had instigated him to place the additional cash chip after the winning number was declared. This resulted in police placing Goswami under arrest.
+
+64     I agreed with prosecution that the factual matrix in the present case was similar to that in _Gui Lee Suan_ and _Ashraf_ in that the accused persons had falsely implicated innocent parties in an attempt to shield themselves in the course of police investigations. However as I will elaborate below at \[81\] and \[82\], the present accused’s level of culpability was lower and the level of harm he caused were less than in these two cases.
+
+#### Other cases in sentencing tables of limited assistance to prosecution
+
+65     In the first sentencing table, aside from _Gui Lee Suan_ and _Ashraf_, there were two other reported State Courts cases: _PP v Liu Linyan_ <span class="citation">\[2013\] SGDC 434</span> _(“Liu Linyan_”) and _PP v Feng Meizhen (“Feng Meizhen”)_. A sentence of two weeks’ jail had been imposed in these two cases, and their appeals against sentence had been dismissed.
+
+66     Prosecution had not referred to either _Liu Linyan_ or _Feng Meizhen_ in submissions. However for completeness, I will deal with them as well as the unreported cases in the second sentencing table.
+
+67      _Liu Linyan_ as well as some of the unreported decisions in the second table concerned factual matrices of an accused person falsely reporting to police that an innocent third party had committed a criminal offence.
+
+68     The accused in _Liu Linyan_ had falsely accused the victim of robbing her. She was angry with the victim, a stranger, as he had swung his arm backwards and hit her face. The court found in a Newton hearing that this was not an intentional attack by the victim. The court attached no mitigating value to her guilty plea and found that she had shown a lack of remorse. Not only was there a wastage of police resources, the victim had also suffered trauma by being chased and pinned to the ground before being handed to the police. The accused continued to maintain her false claims to the police even after witnessing what had happened to the victim.
+
+69     The High Court in _Koh Yong Chiah_ had examined this group of cases including _Liu Linyan_ where accused persons falsely reported innocent parties to the police, where imprisonment would tend to be the norm sentence. As the court observed, these false reports usually have a serious impact on both the victims and on the investigative process. The time the accused took to recant the false statement had a material impact on the sentence imposed: at \[22\] and \[23\].
+
+70      _Liu Linyan_ was a 2013 decision and a sentence of two weeks’ jail was imposed. Three of the five sentencing cases in the prosecution’s second sentencing table concerned accused persons who for their own various motives and reasons, had also deliberately lied to police that an innocent victim had committed criminal offences.[^1] In these more recent unreported decisions (2019 and 2020), the accused persons had been sentenced to four weeks’ jail, compared to the two weeks’ jail received by the accused in _Liu Linyan_.
+
+71     Aside from the limited weight that should be placed on unreported decisions, the factual matrices of these cases differed from the present case, even though they involved innocent third parties who had been adversely impacted by the accused’s lies. The sentencing factors relevant to assess the level of culpability and level of harm in these cases would not be the same as the present case, nor would they necessarily apply and weigh in the same way. For example the accused’s motives for commiting the offence would be different, and factors such as the gravity of the underlying offence the accused was seeking to shield himself from would also be absent.
+
+72     As for the last reported case in the first sentencing table, _Feng Meizhen_ was a 2008 decision where the then maximum prescribed sentence for a section 182 offence was a jail term of up to six month or fine of $1000. The accused faced numerous immigration-related charges relating to her entry into Singapore and claimed trial to some of them and pleaded guilty to others.
+
+73     In respect of the section 182 offence she pleaded guilty to, she had falsely informed the police that she had entered Singapore illegally and a under a fictitious name “Huang Siew Fang”. This resulted in wasted police resources when the screening turned up negative for the fictitious Huang. The court held that it was treating the case as no different from that of an accused giving false information to shield the real offender, and would not be departing from the sentencing norm of 2 weeks’ jail.
+
+74      _Feng Meizhen’s_ case had been cited in _Koh Yong Chiah_ among the group of cases where an accused person gave false information to shield himself from investigation or prosecution. The High Court observed that the sentence passed depended on the complexity of the deceptive scheme including whether it was planned and premeditated, the seriousness of the offence the offender sought to cover up and the extent to which public resources were wasted.
+
+75      _Feng Meizhen_ could lend little support to prosecution’s submission for a starting point sentence of four weeks’ jail. Aside from the different prescribed sentence, the harm-culpability assessment would be different as the accused did not falsely implicate a real person and there was no impact on a third party. The fifth and last case in the second sentencing table of unreported cases was similar to _Feng Meizhen_, which involved the making of a false report that a car had been stolen but the accused did not falsely implicate a third party.[^2]
+
+76     I turn finally to the only case in prosecution’s second sentencing table of unreported cases where an accused had provided false information implicating a third party to shield himself during police investigation: _PP v Mohammad Ali bin Jaafar_ (DAC-902203-2017) (“_Ali bin Jaafar_”).[^3] The accused had been disqualified from driving and procured a fake driving licence with his own photo but containing his twin brother’s particulars to obtain a job as a lorry-driver.
+
+77     When the accused was stopped for a road traffic offence, he produced the fake driving licence to avoid being caught for driving under disqualification. This resulted in his twin brother receiving a summons for driving without seat-belt. The accused was sentenced to one month’s jail. Being unreported the factors that had weighed with the court in reaching the sentence were unknown. However the accused’s acts in this case involved planning and premeditation. The fake driving licence was intended to enable the accused to pass himself off as his twin brother, and he had in fact done so when he was stopped for the traffic offence.
+
+#### Relevant sentencing factors and appropriate sentence
+
+78     In this case, the accused had told a deliberate lie about an innocent party’s involvement in an attempt to shield himself from further investigations. The predicate offence he was seeking to avoid was a serious one carrying a jail term of up to 15 years jail. Police resources had been wasted in taking a statement from Gabriel and in conducting a search in the early morning hours, and Gabriel had been inconvenienced and impacted by the surprise and unpleasantness of the early morning police investigations. However there was no indication that the wastage of police resources and the impact to Gabriel had gone beyond that. The accused had recanted about 24 hours after the search and admitted that he lied about Gabriel’s involvement, and this would have limited the harm caused. In my view the level of harm caused was in the moderate range.
+
+79     As regards the accused’s level of culpability I found this to be low. It was an unsophisticated lie to provide an explanation as to where the accused had obtained the vouchers from to pass to Fabian. According to PW1 the operations manager of the company, he was surprised when the police suddenly turned up at the company’s office to interview the accused. It appeared to be spontaneous lie made without any planning or premeditation. There were no complexities involved in the lie and it was a lie that could easily be uncovered.
+
+80     As regards the sentencing precedents, the level of harm caused by the present accused exceeded that in _Feng Meizhen’s_ case. Aside from the different prescribed sentence, no innocent party had been adversely impacted in _Feng Meizhen_. In my view a jail term of more than the two weeks imposed in _Feng Meizhen_ was called for in this case.
+
+81     As for those cases where the accused persons had been sentenced to four weeks’ jail for falsely implicating innocent parties to shield themselves while under police investigations, the present case was absent the multiple aggravating factors in _Gui Lee Suan_. In _Gui Lee Suan_ the court had considered it aggravating that the lie resulted in the innocent party having her police statement recorded at her workplace causing much inconvenience and embarrassment. The lie was also told to shield the accused from being arrested for another offence of cheating the police were already investigating against her. Substantial resources had been expended by the police in screening to trace the victim for further investigations, and the accused had persisted in maintaining the falsehood for more than a year: at \[24\].
+
+82     Neither did the harm caused in this case reach the level in _Ashraf_, which resulted in the victim being arrested. The court in _Ashraf_ had considered the accused’s false claim that he had been instigated to commit the offence a grievous act of falsehood. The court stated that it did not impose a more severe jail term than four weeks only because the accused had recanted soon after he was brought back to CID and that he was remorseful: at \[8\] to \[10\]. As for the accused in _Ali bin Jaafar_, the extent of his culpability far exceeded that of the present accused. The lie by the accused in _Ali bin Jaafar_ as to his identity was premeditated and elaborate, and was only capable of execution by his procuring and using a fake driving licence.
+
+83     In my view the present offence was less egregious than those in _Gui Lee Suan, Ashraf_ and _Ali bin Jaafar_. I also took into account the mitigating factors in favour of the accused, as discussed at \[50\] and \[51\] above. All things considered, a three week imprisonment term would sufficiently reflect the gravity of the offence and the culpability of the accused.
+
+## Conclusion
+
+#### Total sentence of eight months and three weeks imprisonment
+
+84     I was of the view that the appropriate sentences were eight months’ imprisonment for the section 408 offence and three weeks’ imprisonment for the section 182 offence. The offences were distinct and involved different legally protected interests. Having considered the totality principle, I was of the view that the sentences should run consecutively to reflect the accused’s overall criminality. I therefore sentenced the accused to a total imprisonment term of eight months and three weeks.
+
+* * *
+
+[^1]: _PP v Hamidah bte Ismail_ (MCN 902548-2019), _PP v Mercado Sheila Rosete_ (MCN-901309-2019) and _PP v Junaninah bte Ali_ (MAC-902401-2019 & otrs); serial number 2,3 and 4 respectively in the second sentencing table
+
+[^2]: _PP v Abdul Mutablib bin Mohamed Tahir_ (MCN-902157-2017)
+
+[^3]: Serial number 1 in the second sentencing table
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F26086-SSP.xml)

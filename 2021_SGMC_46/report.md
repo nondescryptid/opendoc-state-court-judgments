@@ -1,0 +1,580 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Tan Kah Heng  
+
+### \[2021\] SGMC 46
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Magistrate's Arrest Case No. 906795 of 2019 and 7 Ors, Magistrate's Appeal No. 9056 of 2021</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">08 July 2021</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">Magistrates Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Christopher Goh Eng Chiang</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Stephanie Koh (Attorney-General's Chambers) for the Prosecution; Chia Boon Teck (Chia Wong Chambers LLC) for the Accused.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Tan Kah Heng</td></tr></tbody></table>
+
+Criminal Procedure – Outrage of Modesty – Whether the victims’ evidence were unusually convincing
+
+\[LawNet Editorial Note: An appeal to this decision has been filed in MA 9056/2021/01.\]
+
+8 July 2021
+
+### District Judge Christopher Goh Eng Chiang:
+
+## Introduction
+
+1       The accused claimed trial to nine outrage of modesty (“OM”) charges under s 354 of the Penal Code (Cap 224) (“PC”). The accused, the owner of a bubble tea shop, was alleged to have outraged the modesty of two of his young employees, Victim 1 (“V1”), then aged 16 years old, and Victim 2 (“V2”), then aged 17 years old in November 2017.
+
+2       At the close of the Prosecution’s case, the Prosecution withdrew one of the OM charges allegedly committed against V2 and amended the particulars of two OM two charges allegedly committed against V1.
+
+3       At the conclusion of the trial, I acquitted the accused on the remaining eight OM charges. The Prosecution, being dissatisfied with the order of acquittal, now appeals against it.
+
+## The Charges
+
+### The alleged acts of OM committed against V1
+
+4       The three acts of OM that were allegedly committed against V1 occurred “_sometime in November 2017_” at the accused’s bubble tea shop located at 541 Kallang Bahru #B1-01, Geylang Bahru MRT Station known as Coi 5 (“Coi 5”). The particulars of the three charges are as follows:
+
+> (a)      MAC-906795-2019: by using his hand to touch V1’s buttocks once. The time period in this charge was subsequently amended to “_sometime between_ _October or_ _November 2017_” at the close of the Prosecution’s case;
+
+> (b)      MAC-906796-2019: using his hand to smack V1’s buttocks once; and
+
+> (c)      MAC-906797-2019: by pulling both her hands to the back of her neck, and hugging her body from her back. This was subsequently amended by deleting the particulars _“pulling both her hands to the back of her neck, and”_.
+
+### The alleged acts of OM committed against V2
+
+5       The accused originally faced six charges for molesting V2. These also occurred “_sometime in November 2017_” on the premises of Coi 5. The particulars are as follows:
+
+> (a)      MAC-906802-2019: on the _first_ occasion, using his hand to brush against V2’s buttocks;
+
+> (b)      MAC-906803-2019: on the _second_ occasion, using his hand to brush against V2’s buttocks. This charge was withdrawn after the close of the Prosecution’s case;
+
+> (c)      MAC-906804-2019: on the _third_ occasion, using his hand to brush against V2’s buttocks;
+
+> (d)      MAC-906805-2019: on the _fourth_ occasion, using his hand to brush against V2’s buttocks;
+
+> (e)      MAC-906806-2019: on the _fifth_ occasion, using his hand to brush against V2’s buttocks; and
+
+> (f)      MAC-906807-2019: on the _sixth_ occasion, using his hand to brush against V2’s buttocks;
+
+## Case for the Prosecution
+
+6       Both V1 and V2 were the employees of the accused. He ran the food and beverage shop known as Coi 5. All the acts of OM allegedly committed by the accused occurred on the premises of Coi 5.
+
+7       Sometime in early October 2017, V1 came across a job advertisement on an online job portal known as _Gumtree_ for a job at Coi 5. She was hired as a part-time employee on 20 October 2017 and was paid $9 an hour. She later recommended her friend, V2 for the job. V2 commenced working at Coi 5 at the end of October 2017. V2 was initially hired as a part-timer but from 13 November 2017 onwards she was employed on a full-time basis. Both V1 and V2 were secondary school mates. They were close and V2 regarded V1 as her best friend.[^1]
+
+8       Their jobs at Coi 5 involved the taking of orders, making drinks, and general cleaning. They were supervised by Wee Bo Xian Daniella (“PW3”) whom they referred to as their manager.
+
+### Evidence of V1
+
+#### The three OM incidents
+
+9       V1 testified that she had been molested three times by the accused. On the first occasion, she alleged that the accused molested her as she was making drinks by the bar area. As he walked past her from the counter to the sink, she felt a brief “grab” on her butt over her shorts.[^2] She is unable to recall when this incident occurred, except that it happened before 12 November 2017. As the accused did not show any reaction and that the contact was brief, she thought that the touch was accidental. She also did not react or say anything to the accused because she was scared. There was no one else in the shop at that time.
+
+10     The second incident occurred in the afternoon or early evening, between 1700-1900 hrs[^3] on 12 November 2017. There was no one in the shop at that time. She had just made some new drink recipes for the shop. The accused came over to the bar area, tasted the drink, said that it was good, and then slapped and grabbed her butt.[^4] She was shocked and backed away from the accused, who walked away and pretended as though nothing happened. This time, V1 did not think that it was accidental as the accused had been calling her “baby” on text messages since the first incident. V1 had told the accused that didn’t like being called “baby” as that was not her name. However, the accused simply laughed it off. V2 no longer has any records of these messages on her phone. However, she told the Investigation Officer (“IO”) about these messages but she was informed by the IO that these were not important and that there was no need to forward them.[^5]
+
+11     The third incident also occurred on 12 November 2017, an hour or two after the second incident. The accused had called her over to the counter where he was. When she was at the counter, V1 started stretching because she had a backache. The accused then told her that he had a back-cracking technique that he wanted to show her. V1 then said “No, it’s okay”, but the accused was persistent on showing her the technique. He came up from behind her and covered his arms around her, over the front of her check. She could feel his body on her back. Although she said “no” three to four times, the accused only let go when she raised her voice. She felt disgusted and violated but continued with her work. V1 was also scared of losing her job if she made an issue out of it. There was also no one present in the shop when the third incident occurred.[^6]
+
+#### Filing of the police report
+
+12     V1 returned to work at Coi 5 on 13 November 2017 despite what had happened the day before because she felt that it would be unprofessional if she were to skip work.[^7]
+
+13     On 14 November 2017, for the first time she told PW3 about the accused calling her “baby” and also about the third incident but PW3 was not keen to speak about such things at work and that they would talk about it over lunch.[^8] V1 explained that she decided to tell PW3 because she was the manager at the shop.
+
+14     The next day, on 15 November 2017, she met PW3 and V2 at NEX, a shopping mall (“NEX”), for a meal after work. She told them about the three OM incidents and the fact that the accused had been calling her pet names and through text messages.[^9] V2 advised her to make a police report and PW3 agreed with V2.
+
+15     As V1 was scared and nervous to go to the police station by herself because it was the first time she was making a police report, V2 and PW3 accompanied her to Serangoon Neighbourhood Police Centre (“NPC”) to file it. From Serangoon NPC, V1 and PW3 proceeded to Ang Mo Kio Police Division Headquarters to have her statement taken. V2 did not accompany them. After making the police report, V1 did not go back to work as she was advised by the Investigation Officer (“IO”) not to do so.
+
+#### After the filing of the police report
+
+16     A few days after filing the police report, she contacted the accused in order to recover her outstanding pay for the month of November 2017. According to the Point-of-Sale System (“POS system”) installed at Coi 5, which recorded when employees checked in and checked out, and therefore, the number of hours each employee worked, V1 had worked a total of 186.25 hours from 28 October to 13 November 2017[^10]. However, there was a dispute as to the number of hours V1 had worked as the accused felt that the number of hours was too high. His own calculations showed that V1 had worked for only 78 hours during that same period.[^11]
+
+17     As there was no resolution to their dispute over pay, after a week or two, V1 sought help from her father. From the information given by V1, her father did some calculations as to what was owed, and his calculations can be seen in Exhibits D3 and D4. At this point in time, V1 had yet to tell her father about the acts of OM.
+
+18     Eventually, the accused arranged to meet V1 so that he could hand the money to her. However, because the IO had advised her not to meet the accused personally, V1 again asked her father for his help. On the day that her father was going to meet the accused, V1 finally told her parents of what had happened at Coi 5. According to V1, her parents were both angry at what had happened. This was two to three weeks after 15 November 2017. [^12]
+
+19     V1’s father met up with the accused at Waterpoint Shopping Mall. V1’s father told her that the accused did not agree with V1’s calculation as to how much was owed. V1’s father did not tell V1 anything about confronting the accused about having molested V1. V1 was not surprised by this because all she wanted was the money[^13] and she had told her father that they were not supposed to talk about it because she had already made the police report.
+
+20     V1 only found out that V2 was molested by the accused in 2019. This was through a mutual friend. V2 had never told V1 that she had also been molested by the accused.
+
+### Evidence of V2
+
+#### The OM incidents
+
+21     V2 alleged that the accused had molested her about six times between 4 to 15 November 2017. The accused would swipe (also described as a “brush”[^14]) his hands against her butt cheeks. Each alleged incident happened on a different day.
+
+22     The first incident occurred sometime in November 2017 but V2 could not recall the exact date. She was then serving a customer at the bubble tea section of the shop. As the accused entered the shop, he walked past her to serve a customer. As he did so, he used his hands to swipe her butt.[^15] V2 was shocked and turned around to look at the accused, but the accused was already serving the customer. V2 did not confront the accused because he thought it may have been accidental and she did not want to interrupt the accused who was serving a customer. One other staff member was in the shop, but that person was making a coffee drink and was not paying attention. Although she had been molested, the next time V2 went to work, she went around as per normal.[^16]
+
+23     The second incident occurred two or three days after the first incident. While she was mopping some stains on the floor, the accused had asked her to use a scrubber to scrub the stain off instead. As she bent down to scrub, the accused came by and grabbed her hand to wipe against the stain. He would not let her hand go. She felt disgusted and violated.[^17]
+
+24     The third incident occurred one or two days after the second incident. Like the first incident, it also happened at the bubble tea section. As the accused was going to a drawer below the cashier, he walked past V2, and as he did so, he swiped his hands against her butt. She was shocked. She did not think it was accidental as this was the second time it had happened. There was no reaction from the accused. V2 did not confront the accused as she was scared.
+
+25     The fourth incident was similar to the third and occurred one to two days after the third incident.[^18] V2 was at the bubble tea section when the accused walked past her to get to the drawer. As he walked past her, the accused swiped her butt with his hands.[^19] V2 was unable to remember if there was anyone in the shop but she felt disgusted and violated.
+
+26     The fifth incident also occurred at the bubble tea section of the shop. It occurred roughly one or two days after the fourth incident.[^20] V2 was making a drink for herself during a break. When the accused walked past behind her to get to the drawer, he swiped her butt with his hands.[^21] She quickly made her drink and stood at another corner. There was another staff member in the shop, but she was in the coffee section. Again, V2 did not say anything because she was scared. This time V2 felt more violated. She rated her feelings of being violated at nine out of ten.
+
+27     The sixth incident also occurred at the bubble tea section of the shop. It occurred one or two days after the fifth incident.[^22] V2 was making an order for a customer. The accused again walked towards the same drawer. Again, as he walked past behind V2, the accused used his hand to swipe her butt. Although she felt violated, she didn’t say anything because she was scared.[^23]
+
+28     V2 did not confront the accused because she did not want any action to be taken against her. She was also, at that point, looking for another job but had yet to find one.
+
+#### Making of the police report
+
+29     V2 confirmed that she had lunch at NEX with V1 and PW3 on 15 November 2017. That was when V1 told them that the accused sexually harassed her and called her “baby”. This was the first time V2 had heard of what happened to V1. Furthermore, V2 did not tell V1 or PW3 about what the accused did to her as she usually kept things to herself.[^24] After the lunch at about 1500 hrs, V2 went home and she did not follow V1 and PW3 when V1 proceeded to make a police report.
+
+30     V2 did not go to work on 16 November 2017 as she was not feeling well but she could have gone to work on 17 November 2017. On 18 November 2017, V2 went down to the shop but the shop was closed. There were workers renovating the air-conditioner. Therefore, she went home. On 19 November 2017, V2 also did not go to work. She explained that she had not received her schedule for work. Noticing something was up, her mother queried her about what happened. She finally told her mother what the accused did to her. Her mother then made her sister, and her sister’s fiancée go down with her to Tampines East Neighbourhood Police Post (“NPP”) to make a report.[^25]
+
+#### After the filing of the police report
+
+31     After making the police report, the IO advised her against going to work and therefore, she stopped going to work. About two days later, she asked the accused about her salary. The accused promised to pay her, but he did not. Eventually, V2 gave up trying to get her unpaid salary for the period 8 to 17 November 2017 from the accused.
+
+### Evidence of PW3
+
+32     PW3 was the manager at Coi 5. The accused was her boss. She started working at Coi 5 on the same day as V1, 20 October 2020. She worked five days a week and she often had to bring work home as well.
+
+#### The allegations of V1 against the accused
+
+33     PW3 had witnessed incidents of inappropriate contact by the accused on V1. The first incident was when the accused touched V1’s waist. It happened in the afternoon when it was not a peak period at the shop. PW3 and V1 were both talking. For some reason, the accused asked V1 to raise her hands. After which he stood behind her and touched her waist. PW3 was standing about four metres away from V1 so V1 was aware that PW3 had seen the incident. After work that day, she asked V1 whether she was okay.[^26]PW3 is unable to recall the exact conversation she had with V1.
+
+34     In the second incident, the accused had smacked V1’s butt while she was making coffee in the shop. PW3 thought the V1 looked surprised and shocked. Her eyes were wide open, but she didn’t say anything. PW3 is unable to recall if she spoke to V1 about this. V1 was aware that she, PW3, had seen the incident.[^27] Later that day, she spoke to the accused about what happened. PW3 is, however, unable to remember to recall the exact nature of the conversation or the accused’s reply but she told the Court that she told the accused not to touch V1 because it was inappropriate.[^28]
+
+35     PW3 also witnessed another incident involving the accused and V1. Other than saying that the accused touched V1’s hand without permission, she was unable to provide the Court with any more details.[^29]
+
+36     V1 also told PW3 that that the accused had sent her WhatsApp messages in which the accused referred to V1 as “dear” or “baby”, These messages were then screenshot to her by V1. However, she no longer had these screenshots as she had changed her mobile phone.
+
+#### The allegations of V2 against the accused
+
+37     PW3 has not seen the accused touch V2 inappropriately. However, PW3 recalled V2 giving her feedback that the accused had touched her hand in an improper manner when the accused was showing V2 how to wipe certain things. PW3 is unaware when this incident occurred.[^30]
+
+38     On 15 November 2017, PW3 brought V1 and V2 out to lunch at NEX after work.[^31] As they were eating and making small talk, V1 and V2 told her that when she, namely PW3, was not around, the accused would touch them inappropriately.[^32] PW3 is unable to remember the details of what V1 said regarding the inappropriate touches. PW3 told V1 and V2 that they could either continue working at the shop, quit, or go make a police report.
+
+39     After lunch, PW3 accompanied V1 to Serangoon NPC. She did so because V1 felt uncomfortable in doing so. After V1 made the police report, both of them went on their separate ways. PW3 never went back to work after 15 November 2017 because the accused told her that she need no longer report for work. PW3 did not keep in contact with V1 and V2 thereafter.
+
+## Case for the Defence
+
+40     There is only one witness for the Defence. This was the accused himself. He is the owner of Coi 5, the location where the alleged acts of OM took. Coi 5 operated from October 2017 to February 2018. According to the accused, Coi 5 was initially profitable. He was able to earn between $1,000-$2,000, after deducting expenses. However, by the time the shop closed, he had lost about $10,000.
+
+41     When the shop opened on 20 October 2017, he had only two employees, namely V1 and PW3. By the end of the month, he had another two employees, both part-timers. V2 was employed later that October on the recommendation of V1.
+
+42     The POS system recorded the attendance of the employees. They were supposed to punch in when they came to work, and then punch out when they left work. The POS system would then calculate the number of hours that a particular employee worked during a given period. That employee would then be paid accordingly. This was applicable to both part-time employees, who were paid by the hour, as well as full time employees, as their overtime pay would be calculated by the POS system.
+
+43     The accused, being lowly educated, only had a rudimentary understanding of how the POS system worked. He realised that the POS system could be open to manipulation by dishonest employees. He felt that he would not be able to do anything about it. He therefore relied PW3 to administer the system.
+
+### The Denials
+
+44     The accused’s defence is one of denial. The accused had never touched, brushed, squeezed, grabbed or slapped V1’s backside during the course of her employment at Coi 5, either deliberately or accidentally[^33]. The accused also denied forcibly helping V1 to crack her back by hugging her from behind. In fact, he had never heard V1 mentioning anything about her back.[^34] The accused also denied that PW3 had ever confronted him after she had witnessed that accused molesting V1 on two occasions.[^35]
+
+45     Likewise, the accused had never touched V2 throughout her employment at Coi 5.
+
+### Reasons why V1, V2 and PW3 may have conspired to frame the accused
+
+#### The missing $10 notes
+
+46     The accused suspected that V1, V2 and PW3 may have conspired to frame him because he had suspected that V1 had been pilfering from the cash register and due to the ongoing salary dispute between them.
+
+47     On 8 November 2017, the accused found a $10 note missing from the cash register. He suspected it was V1 who had taken it, but he did not confront her. Neither did he tell PW3 as he had no evidence. Three days later, on 11 November 2017, another $10 note was missing. The accused was sure that he had not made a mistake because he had counted the money twice. In order to have more accountability for the cash, and to avoid any confrontation with V1, he decided to only have the full-timers deal use the cash register. This way, in the event that any money was missing, no one could blame the part-timers, who did much shorter shifts. The full-timers at this time were PW3 and V2. According to the accused, V1 appeared upset by these new instructions.[^36]
+
+#### The salary disputes
+
+48     Another reason proffered by the accused were the salary disputes that he had with V1, V2 and PW3.
+
+49     With regard to V1, the accused had already paid her for work done between 20 to 27 October 2017. After V1 stopped working at Coi 5 on 15 November 2017, she sought to recover her salary for the period 28 October to 15 November 2017 which amounted to $1,457.50 for 186.25 hours that she had worked. Although this was the number of hours reflected on POS system at Exhibit P4, the accused felt that V1 could not have worked 186 plus hours and by his own calculations, she had worked about 78 hours during that period.[^37]
+
+50     On 25 November 2017, the accused met V1’s parents at NEX. He gave them $854.95, being what he calculated to be V1’s owed salary[^38]. They had spoken over the phone and V1’s parents decided on where they were to meet. According to the accused, the parents did not show any signs of displeasure when they met, neither did they appear upset at the accused for having molested their daughter.
+
+51     With regard to V2, she had asked the accused for $2,047 after she left Coi 5’s employment. Although he received a call from V2’s father regarding the non-payment of V2’s salary after 20 November 2017, no meeting with V2’s father took place. To date, the accused has not paid V2 her outstanding salary. During this conversation, the fact that the accused had allegedly molested V2 was never raised even though V2’s father had threatened to report him to the police for the non-payment of her salary.[^39]
+
+52     When PW3 stopped work on 15 November 2017, the accused paid her $2,925. The accused added that this was the same day he fired PW3 because she had demanded money over and above her monthly salary of $2,500.[^40] Despite this, PW3 claimed that the accused still owed her money. However, he never paid PW3 any further amounts.
+
+## Analysis of the Evidence
+
+### The applicable legal principles
+
+53     As with most cases of this nature, it essentially the evidence of the victim, in this case, two victims, against that of the accused. There were no independent eyewitnesses any of the acts of molest in the present case.
+
+54     However, where sexual offences are concerned, a complainant’s testimony alone can constitute proof beyond reasonable doubt if it is so unusually convincing to overcome any doubts that might arise from the lack of corroboration (see: _Pram Nair v Public Prosecutor_ <span class="citation">\[2017\] 2 SLR 1015</span> at \[57\] (“_Pram Nair_”). In other words, if the evidence of the complainant is not unusually convincing, the conviction on the sole basis of the complainant’s testimony would be unsafe (see: _Haliffie bin Mamat v Public Prosecutor and other appeals_ \[2016\] SLR 636 at \[30\] (“_Haliffie_”).
+
+55     The term “unusually convincing was explained by the Court of Appeal in _PP v Mohammed Liton Muhammed Syeed Mallik_ <span class="citation">\[2008\] 1 SLR(R) 601</span> at \[39\] as –
+
+> _“… In our view, therefore, the “extra something’ implied by the word “unusually” must refer to the need for the trial judge to be aware of the dangers of convicting solely on the complainant’s testimony as well as of the importance of convicting only on testimony that_, **_when weighed against the overall backdrop of the available facts and circumstances, contains that ring of truth which leaves the court satisfied that no reasonable doubt exists in favour of the accused_**_.”_
+
+> (Emphasis added)
+
+56     A trial judge evaluates whether this standard is met _“by weighing the demeanour of the complainant alongside both the internal and external consistencies found in the complainant’s testimony”_ (per Chan J in _Kunasekaran s/o Kalimuthu Somasundara v Public Prosecutor_ <span class="citation">\[2018\] 4 SLR 580</span> at \[26\] (“_Kunasekaran_”).
+
+57     As such, I proceeded to evaluate the evidence of V1 and V2 to determine if their evidence were unually convincing.
+
+### Evaluation of V1’s evidence
+
+58     For convenience, I set out once again the OM allegations made by V1 against the accused, in particular, the dates on which the acts of OM were alleged to have occurred.
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="17.36%"> <col width="20.66%"> <col width="20.66%"> <col width="20.66%"> <col width="20.66%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">&nbsp;</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Date on charge</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Date per V1’s evidence</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Date on Police Report</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Particulars of OM</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">1<sup>st</sup> Incident</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Sometime in October or November 2017</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Cannot recall</p></td><td align="left" class="br" rowspan="3" valign="top"><p align="justify" class="Table-Para-1">&nbsp;</p><p align="justify" class="Table-Para-1">&nbsp;</p><p align="justify" class="Table-Para-1">&nbsp;</p><p align="justify" class="Table-Para-1">On 11 November @ 1630 hrs</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Touched her buttocks once</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">2<sup>nd</sup> Incident</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Sometime in November 2017</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">12 November 2017 @ 1700-1900 hrs</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Smacked her buttocks once</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">3<sup>rd</sup> Incident</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Sometime in November 2017</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">12 November 2017 one or two hours after 2<sup>nd</sup> incident</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Hugging her body from the back</p></td></tr></tbody></table>
+
+  
+  
+
+#### When the acts of OM occurred
+
+59     It is not uncommon that victims may not be able to recall exactly when the OM incident occurred, in particular, where there are several such instances of OM or when a police report is made some time after the OM incidents took place. However, in this case, what appeared odd is the paucity of information in the charges as to when the incidents occurred, especially since the police report was made barely two or at most three weeks after the first alleged OM incidents and barely days after the second and third alleged OM incidents.
+
+60     V1 made her police report and gave her statement to the police on 15 November 2017. Whilst it may be argued that the first alleged OM incident occurred sufficiently further back in time, i.e. “_before 12 November 2017_”[^41], for V1 not to be able to remember what day or date it occurred but surely, at the very least, V1 should have been able to say with some certainty when the incidents occurred. Such acts were not something that happened routinely to anyone. In fact, she had described herself as being “shocked”[^42] and “scared”[^43] after the first alleged OM incident. While she eventually did say that it occurred in the “afternoon”[^44], this was something that was said without any conviction or certainty.
+
+61     V1’s police report stated that she was molested in the shop “_on 11/11/17 at 1630 hrs …_”.[^45] It seems fairly clear that the act or acts of molest occurred on or about 1630 hrs on 11 November 2017 and not on any other day. However, in her Evidence-in-Chief (“EIC”), V1 clarified with certainty, or so it seemed, that the second and third OM incidents occurred on 12 November 2017, not 11 November 2017 at per her police report, and that they occurred between 1700 – 1900 hrs. V1 sought to explain that this discrepancy in the dates was due to her nervousness when making the police report.[^46] This is, by itself, understandable. However, as pointed out by the Defence, in Exhibits D3 and D4, documents that were prepared by V1’s father based on information given to him by V1, appeared to show that the V1 was not at work on 12 November 2017. These documents showed that V1 was “off” on 12 November 2017. In fact, V1 had confirmed that that the information in the documents were obtained from the POS system and that they were accurate.[^47]
+
+62     Therefore, based on V1’s own evidence, there is very much doubt as to whether these acts of molest occurred on 11 or 12 November 2017 or at all. As mentioned, this lack of certainty in the when the acts occurred is itself is extremely puzzling as the V1’s police report was filed on 15 November 2017, barely a few days after the second and third OM incidents.
+
+#### Inconsistencies in V1’s evidence
+
+63     I note that there several inconsistencies in V1’s evidence, examples of which are highlighted below:
+
+> (a)     According to V1, she first tried to tell PW3 of the accused’s inappropriate behaviour towards her on 14 November 2017 but had been told by PW3 not to discuss such matters at work.[^48] Hence, she only described what had happened to her at the NEX lunch meeting on 15 November 2017. However, it seems extremely curious that despite this assertion, V1’s own evidence in Court was that her last day at work at Coi 5 was on 13 November 2017[^49]. Likewise, documents that were prepared by V1 and by her father based on information given to him by V1 showed also that V1 did not work after 13 November 2017.[^50] It therefore begs the question that, if she was not at work on 14 November 2017, how could she have tried to tell PW3 about the accused’s inappropriate behaviour?
+
+> (b)     V1 had felt “disgusted” and “violated” after the third OM incident. These feelings are understandable had her modesty been outraged. However, her actions after that seemed to suggest otherwise. Instead of confronting the accused or running off after the third OM incident, she continued working, not just on the day itself, but the next day, 13 November 2017. Perhaps V1 continuing to work immediately after this third OM incident can be explained by the shock at what had happened. However, the fact that she continued to come to work the following day despite having an entire night to think through what had happened, was most peculiar, especially the reasons she gave for coming to work the following day. Apparently, her feelings of disgust and of being violated were superseded by V1 wanting not to be regarded as “unprofessional” if she failed to come to work.[^51];
+
+> (c)     On 15 November 2017, V1 had lunch with V2 and PW3 at NEX. Thereafter, all three proceeded to Serangoon NPC where V1 made a police report. [^52] The police report was timed at 1800 hrs because V1, V2 and PW3 had to sit around for a few hours.[^53] However, this does not sit with the evidence of PW3 or V2. For example, according to PW3, she brought V1 to the police station while V2 went home[^54] whilst V2’s evidence was similar to that of PW3, that was, that she rushed home after the NEX lunch.[^55]
+
+64     In all, I was of the view that there were sufficient inconsistencies in V1’s evidence for me to treat it with great circumspect.
+
+#### Salary disputes
+
+65     I will touch briefly on this. One of the Defence’s case theories was that there was a salary dispute between V1 (and also V2 and PW3) and the accused. As a result, V1 colluded to make the allegations of OM against the accused with V2 and PW3. The Prosecution, on the other hand, highlighted that any salary dispute only arose after the police reports were filed.
+
+66     I am of the view that there were some indeed some underlying dispute over the salary of V1. It does not seem probable that these disputes simply came to the fore after V1 filed the police reports. However, more importantly, the salary dispute between V1 and the accused reinforced my view as to why I doubted the quality of V1’s evidence.
+
+67     First, it seems strange to me that V1 seemed more concerned about her unpaid salary rather than what consequences the accused would face for his actions. Although he had described her feelings as being “scared”, “disgusted” and “violated” after the acts of OM, these were apparently insufficient to deter her from contacting the accused shortly after the police report was made. In fact, she did not meet the accused personally not because she was “scared” of him, but because the IO told her not to do so.
+
+68     At this point that I would highlight that V1’s evidence with regard to what happened after she made her police report seemed externally inconsistent. It appeared that the acts of OM committed against her supposedly by the accused was not the most important thing, which seemed strange. What was important was apparently her unpaid salary[^56], which she took great effort to recover, including enlisting her father’s help. I would have expected that a victim of OM would have wanted no contact with her molester. If she had wanted to recover any unpaid salary from her molester, I would have expected her to go directly to an adult, in this case the parent instead of negotiating with her molester.
+
+69     Next, V1 had claimed that her unpaid salary for period of 17 days from 28 October 2017 to 13 November 2017 was equivalent to 186.25 hours of work. This was, as V1 said, reflected in the POS system. A simple calculation would show that to achieve this number of hours worked, V1 would have had to work almost 11 hours for each those 17 days at Coi 5 without a break. Yet we know that she did not.
+
+70     At Exhibit P4, where V1’s name appeared, it showed that she worked usually about 4 hours at a stretch with 8 hours on one occasion. [^57] In fact, the number of hours that she had claimed to work was so improbable, that it appeared V1’s father had to revise the number of hours she worked downwards, as can be seen in Exhibits D3 and D4. This claim was clearly so extreme that I was unable to believe that V1 actually believed that she worked for 186.25 hours, notwithstanding that this was what was reflected in the POS System. Perhaps she felt that the accused would cave in to her excessive claim because of her police report made against him.
+
+71     Against the backdrop of evidence such as this, I was slow to accept V1’s evidence at face value and as mentioned, treated it with great circumspect.
+
+#### Corroborative evidence
+
+72     In my mind, there appeared to be none. PW3’s evidence suggested that she saw or heard certain things would give an impression that the accused could possibly have committed the alleged acts of molest. Whilst I will deal with the evidence of PW3 later in these grounds, suffice to say at this point is that I was totally unconvinced with her evidence.
+
+73     It is clear that PW3 had never seen any of the specific acts of OM that V1 had alleged that the accused had committed against her. PW3 did give evidence that she had seen the accused commit acts against V1 which could be described as inappropriate, she was unable to recall the details when pressed.
+
+74     Perhaps V1’s father or her mother could have been someone who could have assisted the Court. After all, it would appear that other than V2 and PW3, they were the next people whom V1 supposedly told about the OM incidents. Although there appears to be some dispute as to whether V1’s mother or father or both met the accused to collect V1’s unpaid salary, it seems clear that the meeting was apparently uneventful from the evidence of both V1 and the accused. This lack of tension seemed peculiar in light of the fact that V1 had just told her parents why she could not meet the accused, namely, that she had been molested by the him and the fact that V1’s evidence was that her father was angry after being told.[^58] Even though V1 asserts that she told her father that they were not supposed to discuss the OM incidents because of the police report,[^59] I very much doubt that any parent would be able to meet someone who had allegedly molested their daughter, and a teenage daughter at that, without any reaction. Hence, other than V1 telling the Court that she did tell her parents of the OM incidents, we are none the wiser. Unfortunately, for reasons best known to the Prosecution, they were never called to give evidence.
+
+75     Lastly, V1 informed the Court that she felt that the second OM incident was not accidental because the accused had been calling pet names through text as well as in person on one occasion.[^60] PW3 had also given evidence that V1 had forwarded her screenshots of the accused’s WhatsApp messages calling her pet names.[^61] By some strange coincidence, there is no evidence of this. Both V1 and PW3 are no longer in possession of their old phones. Neither were the messages forwarded to the police. V1 had said in evidence the IO had told her that these messages were unimportant, hence, they were never forwarded. However, there was no evidence of this in the Prosecution’s case. It should be noted that V2 had testified that she had never heard the accused calling her such names at work.[^62] Accordingly, this bit of information remained for what it essentially was, an assertion without any proof.
+
+76     In assessing V1’s evidence, I therefore found it neither internally nor externally consistent. It was not unusually convincing.
+
+### Evaluation of V2’s evidence
+
+77     In my view, the acts of OM alleged by V2 to have been committed by the accused were even less convincing that that of V1.
+
+#### When the acts of OM occurred
+
+78     As in the case of V1, I tried to determine when these acts of OM occurred or at least when they could possibly have occurred. At this point, it should be noted that the charge relating to the second OM incident was withdrawn by the Prosecution at the close of the Prosecution’s case, however, I have in these grounds, continued to make reference to it as the second OM incident to avoid confusion.
+
+79     The starting point for this is the police report filed by V2 on 19 November 2017.[^63] The police report stated that V2 was molested between the period 4 to 17 November 2017. I have summarised the following information from the incomplete information from the POS system[^64], namely photographs taken by V2, the accused’s own record as to when V2 was working[^65] and V2’s own evidence, into the following table to show when V2 was working or could possibly have been working from 1 to 18 November 2017 to narrow down the days when she could have been molested:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="11.7023404680936%"> <col width="17.5435087017403%"> <col width="15.6031206241248%"> <col width="19.4838967793559%"> <col width="35.6671334266853%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Date (2017)</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>POS record</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Accused’s record</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>V2’s evidence</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Remarks / Reference</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">1/11</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">N.A.</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Off</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Can’t remember<span class="FootnoteRef"><a href="#Ftn_66" id="Ftn_66_1"><sup>[note: 66]</sup></a></span></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1">-</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">2/11</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">N.A.</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Working</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Working</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1">-</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">3/11</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">N.A.</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Working</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Working</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1">-</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">4/11</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">N.A.</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Working</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Working</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1">V2 asked for salary advance, <em>per</em> Exhibit P6.</p><p align="center" class="Table-Para-1">V2 agrees no molest took place, <em>per</em> NE, 14 October 2017, at 58/15</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">5/11</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">V2 working</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Working</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Working</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1">-</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">6/11</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">N.A.</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Off</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Don’t know if working<span class="FootnoteRef"><a href="#Ftn_67" id="Ftn_67_1"><sup>[note: 67]</sup></a></span></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1">-</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">7/11</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">V2 working</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Working</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Working</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1">V2 unable to recall if molested, <em>per</em> NE 14 October 2020, at 59/28.</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">8/11</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">V2 working</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Working</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Working</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1">V2 unable to recall if molested, <em>per</em> NE 14 October 2020, at 60/9</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">9 -11/11</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">N.A.</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Leave</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Holiday</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1">-</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">12/11</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">N.A.</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Leave</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Not on holiday but unsure if working</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><em>Per</em> NE, October 2020 Day 2, at 74/12 – 14.</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">13/11</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">V2 working</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Working</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Working</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1">V2 signed Exhibit D6, employment agreement on this date, <em>per</em> NE, 14 October 2020, at 69/25</p><p align="center" class="Table-Para-1">&nbsp;</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">14/11</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">N.A.</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Off</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Can’t remember<span class="FootnoteRef"><a href="#Ftn_68" id="Ftn_68_1"><sup>[note: 68]</sup></a></span></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1">-</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">15/11</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">N.A.</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Working</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Working<span class="FootnoteRef"><a href="#Ftn_69" id="Ftn_69_1"><sup>[note: 69]</sup></a></span></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1">No molest. Cleaning day. Accused was in shop only 10 minutes. <em>Per</em> NE, 14 October 2020, at 62/2.</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">16/11</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">N.A.</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Sick</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Not Working</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1">V2 was sick, <em>per</em> Exhibit P7, WhatsApp message at 2015 hrs</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">17/11</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">N.A.</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Sick</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Can’t remember but could have worked<span class="FootnoteRef"><a href="#Ftn_70" id="Ftn_70_1"><sup>[note: 70]</sup></a></span></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Note: V2 had earlier said in evidence that she was not working on 17/11, <em>per</em> NE, 14 October 2017, at 80/13 – 19.</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="center" class="Table-Para-1">18/11</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="center" class="Table-Para-1">N.A.</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Off</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Not working<span class="FootnoteRef"><a href="#Ftn_71" id="Ftn_71_1"><sup>[note: 71]</sup></a></span></p></td><td align="left" class="" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Air con repair day at shop.</p></td></tr></tbody></table>
+
+  
+  
+
+80     Based on the above table, the dates between 4 and 17 November inclusive, on which the OM incidents could have occurred are:
+
+> (a)     From V2’s own evidence: The OM incidents could have occurred on 5, 7, 8 & 13 November 2017, when V2 was sure she was working. It could also _possibly_ have happened on 6, 12, 14 & 17 November 2017 when V2 could not say for certain whether she was working;
+
+> (b)     From the accused’s record, read with V2’s evidence : The OM incidents could have occurred on 5, 7, 8 & 13 November 2017 when V2 was working.
+
+81     In my assessment, having reviewed the evidence of V2, the accused and the documentary evidence, I found that it was more likely than not, that it was the accused’s record that provided a more accurate record of the dates on which V2 was working at Coi 5. The record he prepared did not appear like one which was specifically crafted to fit a particular narrative. V2’s evidence, on the other hand, was unsatisfactory. There were many dates for which she was unable to remember whether she was working or not. In fact, I found most of her evidence in this regard extremely vague.
+
+82     For example, I was prepared to accept that V2 was, in all probability, not working on 12 November 2017. She may not have been on holiday, but she was not working. If she had been working on 12 November 2017, I would have no doubt that her employment contract, Exhibit D6, would have been signed that day instead of on 13 November 2017. Next, the accused’s explanation as to why V2 was not at work on 17 November 2017 was a more plausible explanation than V2’s vague answer. Had she been working on 17 November 2017, she would have realised that the store’s air-condition system would be undergoing repairs. As she was not working, she was therefore unaware of this and came to work the following day, 18 November 2017.
+
+83     Hence, I found that V2 was working on the following dates during the period in which the OM incidents were alleged to have occurred, namely 5, 7, 8 & 13 November 2017.
+
+84     I next examined V2’s evidence regarding the number of days between each alleged OM incident. The following is a summary:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="29.3541291741652%"> <col width="48.5102979404119%"> <col width="22.1355728854229%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Incidents</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>No. of days between them</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Reference</b> <span class="FootnoteRef"><a href="#Ftn_72" id="Ftn_72_1"><sup>[note: 72]</sup></a></span></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">1<sup>st</sup> and 2<sup>nd</sup> incidents</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">two to three days apart</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">at 45/31</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">2<sup>nd</sup> and 3<sup>rd</sup> incidents</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">one or two days apart</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">at 47/9</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">3<sup>rd</sup> and 4<sup>th</sup> incidents</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">one or two days apart</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">at 49/5</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">4<sup>th</sup> and 5<sup>th</sup> incidents</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">can’t remember but roughly one to two days apart</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">at 52/13 – 17.</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">5<sup>th</sup> and 6<sup>th</sup> incidents</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">one or two days apart. However least one day in between that no molest occurred.</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">at 53/30 and 54/11.</p></td></tr></tbody></table>
+
+  
+  
+
+85     Comparing this table with the dates that I have adjudged that the OM incidents could have occurred at \[83\], above, we will notice that these six incidents do not sit with the four potential dates. Even if, at the very highest, I accepted that V2 worked at Coi 5 on all the days she said she worked and even the days which she was unsure or could not remember, as per \[80(a)\], above (which I do not), I am still unable to reconcile her evidence to fit all six incidents of molest within the time frame of 4 to 17 November 2017 as per her police report. As characterized by Counsel, it was like trying to fit a square peg into a round hole.
+
+86     In re-examination, V2 tried to explain that the several of the OM incidents could have occurred in the late October to November period. However, I did not think very much of her answers. Her answers were all very woolly as to whether they could have happened or not. To say that she was less than certain was to have given her too much credit. It must be borne in mind that V2 filed the police report not three years later in 2020, but on 19 November 2017. Surely if these incidents were indeed as traumatic as she made them out to be, there is no reason why she was unable to pin down when the OM incidents occurred. Even if she were unable give the exact dates, at the very least, to be able to be certain the period in which the alleged incidents took place. It is extremely suspicious to have stated on 19 November 2017 that the OM incidents occurred between 4 and 17 November when the incidents were fresh in her mind only to now extend the range to October 2017 when she was cross-examined.
+
+#### The lunch at NEX
+
+87     The evidence of V1, V2 and PW3 appeared to suggest that that all three of them had lunch at NEX on 15 November 2017. PW3 treated them. This was important to the Prosecution’s case as, for the first time, V1 told V2 and PW3 about the accused acts of molest against her. However, I noted that her evidence did not seem to gel with the other evidence. It led me to consider whether or not there was such a lunch at NEX on 15 November 2017 and if there was, whether V2 actually did go for this particular lunch or whether it was another meeting at NEX between V1, V2 and PW3 as alluded to by the accused during his cross-examination:
+
+> (a)     First, V2 was adamant that the lunch at NEX took place on a non-working day as she as she would be expected to go home directly after work.[^73] In contrast, based on the evidence of V1, PW3 and V2, this lunch at NEX happened on 15 November 2017. However, according to V2’s own evidence in Court and the WhatsApp messages in Exhibit P6, V2 was working at Coi 5 on 15 November 2017. Therefore, V2’s evidence in this respect seemed rather odd;
+
+> (b)     Next, V2 gave evidence that the lunch at NEX was “_around 12:00 to 1:00_”[^74] and she left _“around 3 plus”[^75]._ Assuming that V2 did indeed go for lunch with V1 and PW3 at NEX on 15 November 2017, then this timing does not match the contemporaneous evidence. The WhatsApp messages in Exhibit P6 show that V2 did not leave Coi 5 till at least past 1434 hrs;[^76]
+
+> (c)     Furthermore, there appears to be further inconsistencies in the evidence of V2 when compared with, for example PW3. PW3’s evidence is that both V1 and V2 told her that the accused had touched them inappropriately.[^77] However, V2’s evidence was that she had never told anyone about the acts of OM until after she made her police report.
+
+88     All considered, all these discrepancies gave rise to my doubts whether the NEX lunch of 15 November did actually occur or whether V2 did indeed attend it.
+
+#### Corroborative evidence
+
+89     Other than the evidence of V2 herself, there was no corroborative evidence. Unlike the case of V1, PW3’s evidence was that she had never seen any acts of inappropriate behaviour by the accused vis-à-vis V2. The only incident she saw was when the accused had grabbed V2’s hand while she was wiping the floor. This appears to be the second OM incident which the Prosecution had withdrawn at the close of the Prosecution’s case. While PW3 had given evidence that V2 had told her about the acts of inappropriate behaviour at lunch on 15 November 2017 at NEX, V2 herself had disputed this.
+
+90     As in the case of V1, it is indeed peculiar that the Prosecution did not call V2’s mother, V2’s sister and / or the sister’s fiancée to give evidence. In particular, her mother, as it appeared that she was the only one that V2 actually told about the alleged OM incidents. As none of them were called, all the Court to go on was an _assertion_ that she told her mother about the OM incidents and it was her mother who had “forced” her to make a police report. As her evidence was already filled with inconsistencies and uncertainties, I cannot even be certain whether she did indeed tell her mother or even whether her sister and her sister’s fiancée accompanied her to file the police report on 19 November 2017, such was the quality of her evidence.
+
+#### Lack of external consistency
+
+91     V2 had described her feelings as being “scared”, “violated” and “disgusted” after being molested by the accused. The words used to describe her feelings were strangely very similar to those used by V1 to describe how she had felt after being molested. In fact, V2 had rated the violation after the fifth alleged OM incident as being 9 out of 10.[^78] It seemed that V2 felt more traumatised than V1.
+
+92     In analysing when the acts of OM could have happened, I had concluded that the majority of the OM incidents, if they occurred, would have happened _prior_ to 13 November 2017 (see \[80\], above). This begs the question: why would she sign an employment contract, D6, on 13 November 2017, which saw her being a permanent employee of Coi 5 instead of a part-time employee, she had been constantly molested by the accused and was feeling how she told the Court she felt? It was not as though she had no time to reflect upon it. At the very least, based on her own evidence, she was on holiday from 8 to 11 November 2017. To sign this employment contract suggested that she was happy at Coi 5, or at the very least, neutral about her employment. It certainly does not show that she was as “scared” or “disgusted” as she claimed to be.
+
+93     My view on this is further reinforced by the series of WhatsApp messages between the accused and V2 which is found at Exhibit P6. The period these messages cover is from 4 to 19 November 2017. They do not show that V2 had been traumatised in anyway. In fact, they show quite the opposite. The working relationship between the accused and V2 appear to be sufficiently good for V2 to request an advance of his salary on 4 November 2017. The messages thereafter also do not seem to show anything out of the ordinary.
+
+94     Even if V2’s evidence that she was molested by the accused is accepted at face value, it is extremely odd that she thereafter never told anyone about what happened until 19 November 2017, before she filed the police report. I can understand why a teenager may not want to confide such matters with their parents, but in my view, it is highly unusual that she did not share this information with her supposed best friend, V1.[^79] In fact, V1 told the Court that she only found out about what happened to V2 in 2019 through a mutual friend. What made it odder still was that this reluctance to tell V1 what happened persisted even when V1 told PW3 and V2 what had happened to her when they were at NEX on 15 November 2017. Her reaction to what V1 told her seemed cold and dis-interested. One would have expected V2 to share with V1 the similar things that had happened to her. Perhaps V2 did not share her experiences of being touched inappropriately by the accused because it did not happen.
+
+95     V2 was ill on 16 November 2017. It is unclear whether V2 actually went in to work on 17 November 2017 but she did so the following day, 18 November 2017. However, she was unable to enter the shop because there were people repairing the air-conditioner. Her actions, once again, seemed to be incompatible with one who had been molested. By 18 November 2017, she would have been molested a total of five times by her employer. She had also found out that her best friend from secondary school had been molested at least three times by the same employer and who had gone to make a police report. Yet, she still chose to come in to work. I found this incredulous.
+
+96     At the end of the day, I did not find V2’s evidence compelling at all. Even more so than V1, I found her evidence did not add up. I found it unlikely that she could have been molested during the period she had stated. Her evidence also lacked consistency both internally and externally. She was not convincing, let alone “unusually convincing”.
+
+### Evaluation of PW3’s evidence
+
+97     PW3 did not witness any inappropriate behaviour of the accused vis-à-vis V2. However, she claimed that she witnessed inappropriate behaviour on the part of the accused towards V1 on two occasions. In addition, V1 had also informed her two to three weeks before she “quit this job” that the accused had tried to touch her bum and about the pet names that the accused had been calling V1[^80]. I will deal with them in turn.
+
+#### The “other” inappropriate acts committed against V1 and witnessed by PW3
+
+98     For the first inappropriate act, the accused had asked V1 to raise her hands and he thereafter used both his hands to grab V1’s waist. PW3 was just three to four metres away[^81] and V1 was aware that she had witnessed the incident.[^82] At first glance, the description of this incident seemed strangely similar to V1’s third OM allegation. However, this is unlikely, as upon closer examination, there appears to be quite a number of differences between the two events and in addition, V1’s evidence was that she was alone when the third OM incident took place.[^83] Did PW3 did actually see this? I have my doubts. First, the incident as described by PW3 is as serious as the third OM incident alleged by V1 . If V1 had felt “disgusted” and “violated” then, she would have felt the same when this occurred. Yet, despite this, V1 had never mentioned this incident to anyone even though V1 could clearly see, supposedly, that she had a witness to the accused’s inappropriate behaviour. Neither was this one of the OM allegations that the accused faced.
+
+99     For the second inappropriate act, she saw the accused’s hand smack V1’s butt as she and V1 were talking. V1 was therefore aware that PW3 had seen this.[^84] The description of this incident also sounded similar to V1’s first OM incident but yet, it could not be so. V1’s evidence was that no one was present in the shop when the first OM incident occurred. PW3 had stated that, chronologically, the accused’s second inappropriate act occurred after the first.[^85] If the accused did commit this act, and there was a witness to it, I am extremely surprised that V1 had never mentioned it to any other person or in Court.
+
+100    PW3 claimed that she had confronted the accused after she witnessed the abovementioned inappropriate acts but was ignored by the accused. However, other than saying this, the other details of the supposed confrontation were vague. For example, she could not remember when she confronted him, nor any details of the confrontation. This was not something that routinely occurred. In fact, PW3 admitted that it was the first time such a thing had happened to her and the incident had left a strong impression in her mind. I was therefore very surprised that the recollection was as hazy and vague as it was.
+
+101    Furthermore, PW3 did not tell V1 that she had confronted the accused. Not even at the NEX lunch of 15 November 2017[^86]. This seems rather odd, and even inconsistent. Considering that V1 had been describing how the accused had molested her on three separate occasions, and knowing that these three OM incidents were in addition to the two acts of inappropriate behaviour that PW3 herself had witnessed, it would be entirely logical and consistent for PW3 to tell V1 that she had confronted the accused after she had witness him acting inappropriately towards V1. All these factors and the accused’s denial that there were any confrontations led me to have doubts as to whether any such confrontation occurred.
+
+102    I agreed that with the Defence that it is very likely that PW3 did not confront the accused, if at all. Her testimony was devoid of details and was nothing more than a sweeping allegation without any substantiation or corroborative evidence.[^87]
+
+#### The “other” inappropriate acts committed against V1 that V1 told her about
+
+103    The first of these was V1 telling PW3 that the accused had attempted to touch her butt two or three weeks before she quit her job.[^88] Like her other evidence, these was severely lacking in details. Moreover, this incident seems at odds with the contemporaneous evidence. Other than attempting to tell PW3 about the third OM incident on 14 November 2017, V1’s evidence was that the first time she told anyone anything about the accused behaviour was on 15 November 2017 at NEX. Hence, I had my doubts as to whether this conversation did indeed take place.
+
+104    Likewise, I had my doubts about the allegations that the accused had been calling V1 pet names through the WhatsApp chat as described earlier in these grounds at \[75\].
+
+#### Reasons for leaving Coi 5
+
+105    PW3 did not go back to work at Coi 5 after she accompanied V1 to file her police report on 15 November 2017. The reason she gave was not only that she was told by the accused that she did not need to come to work anymore but that she did not think it was safe to continue working there. She also did not feel comfortable working there after witnessing him touching V1 inappropriately[^89]. In her statement to the police, she mentioned that she had “quit” her job at Coi 5. This would give the impression that she may have voluntarily left Coi 5’s employment. It was only in cross-examination that PW3 conceded that the reason why she left Coi 5 was because her employment had been terminated by the accused.[^90] PW3 is unable to recall when her employment was terminated. However, based on PW3’s testimony in Court and the documentary evidence, [^91] it would appear that her employment was terminated on 15 November 2017, before the lunch meeting at NEX with V1 and V2. This suggests that there was more to lunch at NEX than met the eye. This chronology of events gives more credence to the accused’s allegation that there was indeed a salary dispute, minimally at least with PW3.
+
+106    On the note of the lunch meeting at NEX on 15 November 2017, I touch on another inconsistency in PW3’s evidence. All three of them i.e. V1, V2 and PW3, apparently left for the lunch from the shop.[^92] As we have already seen, V1’s last day of work at Coi 5 was on 13 November 2017. Therefore, PW3’s evidence in this respect must be seriously doubted.
+
+107    At the end of the day, I was decidedly unimpressed with PW3’s evidence. She never saw and of the alleged acts of OM allegedly committed by the accused against V1 or V2. When she supposedly did see acts of inappropriate behaviour on the part of the accused, they were, in my view, riddled with inconsistencies to an extent that I would not take them at even face value.
+
+### General observations
+
+108    The particulars of the six charges in which V2 alleged that the accused had molested her are, as I have stated, rather lacking. Other than identifying which occasion it was, for example _“on the first occasion ….. “_ or _“ on the second occasion …”_ etc, the charges were identical. This caused some problems at the end of the Prosecution’s case.
+
+109    The description that V2 gave for one of the alleged acts of OM was assessed by the Prosecution as an act that did not amount to act of OM. This incident involved the accused showing V2 how to scrub the shop floor.[^93] Chronologically, this was the _second_ alleged OM incident. However, the Prosecution sought to withdraw the ninth charge, i.e. MAC-906807-2019[^94], which referred to an act on “ _… the sixth occasion ….”._
+
+110    There seemed to be no other reason why the Prosecution would have sought to withdraw the charge containing V2’s _sixth_ OM allegation instead of the _second_ unless the particulars of the charges were so lacking that it caused confusion even for the Prosecution when determining which charge to withdraw. This lack of details was an inherent weakness of the Prosecution’s case especially since the police reports, and it appeared that the victims’ interviews by the IO as well, were made very soon after the alleged OM. Incidents.
+
+## Conclusion at the end of the trial
+
+111    At the end of the day, the Court had to consider the allegations of OM against the employer of two young girls. However, the onus is always on the Prosecution to prove these allegations beyond a reasonable doubt. It is not for the accused to prove his innocence.
+
+### Whether the victims’ evidence “unusually convincing”
+
+112    The evidence of V1 and V2, fell far short of being “_unusually convincing_”, in particular, the evidence of V2. Their evidence was neither internally nor externally consistent. While I do not expect their evidence to be in any way perfect, they were lacking in details and there were too many discrepancies for the Court to disregard. Accordingly, I adjudged that it would not be safe to rely on solely on their evidence to convict the accused of the charges.
+
+### Whether there was corroborative evidence
+
+113    There was little or no corroborative evidence. PW3 never saw any of the alleged acts of OM committed by the accused either against V1 or V2. Her evidence alleging that the accused had committed other acts of inappropriate behaviour against the V1 left much to be desired. At best, she was with V1 and V2 at NEX on 15 November 2017. However, even then, I had my doubts about what truly happened at that supposed lunch meeting. In short, I was unimpressed with her evidence.
+
+114    The parents of V1 and V2 were never called to give evidence. As such, we are left to wonder whether V1 and V2 actually told their parents about what had happened. How V1’s parents’ reaction, or rather the lack of reaction thereof, at the meeting between.
+
+### Whether the accused’s evidence raised a reasonable doubt
+
+115    Having found that the evidence of V1 and V2 were both not internally nor externally consistent and that their evidence was not unusually convincing and that there was no corroborative evidence, it was not necessary for me to touch on the accused’s evidence and the Defence’s theory.
+
+116    Suffice to say that I found the accused’s evidence to be more believable that either V1, V2 or PW3. In my view, he did not embellish his evidence in anyway. For example, his explanations why V2 may or may not have worked on a particular day were logical and clear. This contrasted favourably with the with V2’s evidence on this issue. He was honest enough to admit that he still owed V2 some of her salary.
+
+117    For the aforesaid reasons, I found that the Prosecution had not proven their case beyond a reasonable and acquitted the accused on the eight charges under s 354 of the PC, namely _MAC-906795-2019, MAC-906796-2019, MAC-906797-2019, MAC-906802-2019, MAC-906804-2019, MAC-906805-2019, MAC-906806-2019, MAC-906807-2019_ with _MAC-906803-2019_ having been earlier withdrawn at the close of the Prosecution’s case.
+
+118    The Prosecution, being dissatisfied with my decision, now appeals against my order of acquittal.
+
+* * *
+
+[^1]: Notes of Evidence (“NE”), 13 October 2020, at 69/19 – 24 and 14 October 2020, at 83/21 – 22.
+
+[^2]: NE, 13 October 2020, at 12/24 – 28, 15/13 and 15/16 – 17.
+
+[^3]: NE, 13 October 2020 at 17/30.
+
+[^4]: NE, 13 October 2020 at 18/11 – 19 and 19/6.
+
+[^5]: NE ,13 October 2020, at 86/10 – 17.
+
+[^6]: NE, 13 October 2020, at 26/22 – 23.
+
+[^7]: NE, 13 October 2020, at 38/4 – 5.
+
+[^8]: NE, 13 October 2020, at 27/3 – 22.
+
+[^9]: NE, 13 October 2020, at 28/16 – 18.
+
+[^10]: Exhibit P4, Page 10.
+
+[^11]: Exhibit D5.
+
+[^12]: NE, 13 October 2020, at 67/17 – 32.
+
+[^13]: NE, 13 October 2020, at 73/30 – 31.
+
+[^14]: NE, 14 October 2020, at 10/12.
+
+[^15]: NE, 14 October 2020, at 8/7 – 15.
+
+[^16]: NE, 14 October 2020, at 45/15.
+
+[^17]: NE, 14 October 2020, at 12/7 – 29.
+
+[^18]: NE 14 October 2020, at 49/5.
+
+[^19]: NE, 14 October 2020, from 14/28 to 15/3.
+
+[^20]: NE, 14 October 2020, at 52/17.
+
+[^21]: NE, 14 October 2020, at 18/25 – 32.
+
+[^22]: NE, 14 October 2020, at 53/30.
+
+[^23]: NE, 14 October 2020, at 19/23 – 31.
+
+[^24]: NE, 14 October 2020, at 100/31 – 101/1.
+
+[^25]: Exhibit P5.
+
+[^26]: NE, 15 October 2020, from 22/3 to 25/21. Also see PW3’s police statement at Exhibit P7.
+
+[^27]: NE, 15 October 2020, from 25/26 to 27/21.
+
+[^28]: NE, 15 October 2020, at 6/30 – 32.
+
+[^29]: NE, 15 October 2020, at 7/6.
+
+[^30]: NE, 15 October 2020, at 28/22 – 30.
+
+[^31]: NE, 15 October 2020, at 45/1 – 2.
+
+[^32]: NE, 15 October 2020, at 9/ 22 – 28.
+
+[^33]: NE, 16 October 2020, at 30/27-32.
+
+[^34]: NE, 16 October 2020, at 32/1-10.
+
+[^35]: NE, 16 October 2020, at 39/22.
+
+[^36]: NE, 20 October 2020, at 14/16.
+
+[^37]: NE, 20 October 2020, at 22/17-19 and Exhibit P5.
+
+[^38]: NE, 20 October 2020, at 29/1-5.
+
+[^39]: NE, 16 October 2020, at 38/13-25 and 59/21.
+
+[^40]: NE, 16 October 2020, at 62/31 – 32.
+
+[^41]: NE, 13 October 2017 at 13/5.
+
+[^42]: NE, 13 October 2017 at 15/32.
+
+[^43]: NE, 13 October 2017 at 16/6.
+
+[^44]: NE, 13 October 2017 at 13/17 and 17/11.
+
+[^45]: See Exhibit P3. Police report filed by V1.
+
+[^46]: NE, 13 October 2020, at 12/14 – 15.
+
+[^47]: NE, 13 October 2020, at 62/18 – 27.
+
+[^48]: NE, 13 October 2020, at 27/7 – 22.
+
+[^49]: NE, 13 October 2020, at 90/4 and 97/25.
+
+[^50]: Exhibits D2, D3 and D4.
+
+[^51]: NE, 13 October 2020, at 38/1 – 4.
+
+[^52]: Exhibit P3.
+
+[^53]: NE, 13 October 2020, at 96/14 – 18.
+
+[^54]: NE, 15 October 2020, at 10/20 – 22.
+
+[^55]: NE, 14 October 2020, at 98/8 – 9.
+
+[^56]: For example, see NE, 13 October 2020, at 73/30 – 32.
+
+[^57]: See Exhibit P4, for 4, 8 & 13 November 2017.
+
+[^58]: NE, 13 October 2020, at 69/28.
+
+[^59]: NE, 13 October 2020, at 74/5 – 14.
+
+[^60]: NE, 13 October 2020, at 20/2 – 29.
+
+[^61]: Exhibit P7.
+
+[^62]: NE, 14 October 2020, at 95/5.
+
+[^63]: Exhibit P6.
+
+[^64]: Exhibit P4, photos of the POS System record taken by V2 shows _only_ the record for 4, 5, 7, 8 & 13 November 2017 for the relevant period i.e. 1 – 17 November 2017.
+
+[^65]: Exhibit D7, accused’s own records derived from POS records.
+
+[^66]: NE, 20 October 2020, at 74/3.
+
+[^67]: NE, 14 October 2020, at 77/32.
+
+[^68]: NE, 14 October 2020, at 81/4.
+
+[^69]: Per Exhibit P6, V2 likely to have worked till past 1434 hrs, based on WhatsApp record.
+
+[^70]: NE, 14 October 2020, at 82/20.
+
+[^71]: NE, 14 October 2020, at 74/26.
+
+[^72]:  All references here are from the NE on 14 October 2020.
+
+[^73]: NE, 14 October 2020, at 88/10 – 32.
+
+[^74]: NE, 14 October 2020, at 91/5.
+
+[^75]: NE, 20 October 2020, at 99/9.
+
+[^76]: Exhibit P6, see WhatsApp messages for 15 November 2017 from 1427 hrs to 1434 hrs.
+
+[^77]: NE, 15 October 2020, at 10/8 – 10.
+
+[^78]: NE, 14 October 2020, at 52/5.
+
+[^79]: NE, 14 October 2020, at 83/21 – 22.
+
+[^80]: Exhibit P7, Page 2, A6.
+
+[^81]: NE, 15 October 2020, at 23/13 – 15.
+
+[^82]: NE, 15 October 2020, at 24/31 – 32.
+
+[^83]: NE, 13 October 2020, at 26/22 – 23.
+
+[^84]: NE, 15 October 2020, at 27/15 – 17.
+
+[^85]: NE, 15 October 2020, at 58/11 – 13.
+
+[^86]: NE, 15 October 2020, at 62/10.
+
+[^87]: Defence Closing Submissions at \[138\].
+
+[^88]: NE, 15 October 2020, at 20/4 – 8 and at Exhibit P7, Page 2, A6.
+
+[^89]: NE, 15 October 2020, at 12/22 – 32.
+
+[^90]: NE, 15 October 2020, at 74/22.
+
+[^91]: Exhibits P9 and D7.
+
+[^92]: NE, 15 October 2020, at 9/16 – 18.
+
+[^93]: NE, 15 October 2020, at 12/7 – 14.
+
+[^94]: NE, 15 October 2020 at 104/10 – 12.
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F26252-SSP.xml)

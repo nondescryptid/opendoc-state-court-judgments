@@ -1,0 +1,131 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Tan Ching Shuon, Kelvin _v_ Azli Bin Omar and another (NTUC Income Insurance Co-operative Limited, Intervener)  
+
+### \[2021\] SGDC 71
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">District Court Suit No 1396 of 2017, Assessment of Damages No 647 of 2018</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">24 May 2021</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Patrick Tay Wei Sheng</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Bay Thiam Hock Stanley (Oracle Law Corporation) for the plaintiff; Second Defendant in person; Chua Tong Nung Edwin (Lawrence Chua Practice LLC) for the intervener.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Tan Ching Shuon, Kelvin — Azli Bin Omar — Baby Batrisyia Bazil — NTUC Income Insurance Co-Operative Limited</td></tr></tbody></table>
+
+Damages – Measure of damages – Personal injuries cases
+
+Damages – Special damages – Medical expenses – Medishield Life Fund paid for medical expenses – Whether rule against double recovery precluded plaintiff from recovering medical expenses
+
+Damages – Special damages – Medical expenses – Plaintiff’s employer paid for medical expenses – Whether rule against double recovery precluded plaintiff from recovering medical expenses
+
+24 May 2021 - Judgment reserved.
+
+### Deputy Registrar Patrick Tay Wei Sheng:
+
+1       The plaintiff suffered personal injury in an accident caused by the defendants. Much of the medical expenses he incurred did not involve direct expenditure on his part. Instead, these expenses were paid by four entities: Singapore Press Holdings Ltd (“SPH”), Shenton Insurance Pte Ltd (“Shenton”), AIA Singapore Private Limited (“AIA”), and the Medishield Life Fund administered by the Central Provident Fund Board and the Ministry of Health (“Medishield”). Still, the plaintiff seeks to recover these expenses from the defendants as damages, even as he undertakes to reimburse Medishield and AIA insofar as the law requires him to do so.
+
+2       Interlocutory judgment was entered against the second defendant in default of her appearance. Thereafter, the insurers of the defendants’ vehicle, NTUC Income Insurance Co-Operative Limited, who are liable to satisfy any judgment in respect of personal injury entered against the defendants pursuant to the Motor Vehicles (Third-Party Risks and Compensation) Act (Cap 189, 2000 Rev Ed), intervened in these proceedings. The plaintiff and the intervener then attended at the assessment of damages on 8 January 2020. The second defendant did not attend this hearing.
+
+3       On 20 February 2020, the plaintiff and the intervener attended before me for the delivery of my judgment. The second defendant also attended for the first time in these proceedings and stated that she was an undischarged bankrupt. I stayed these proceedings and directed the parties to seek clarification from the Official Assignee (“OA”) on the status of these proceedings and to update the court thereafter.
+
+4       On 21 January 2021, the plaintiff and the intervener replied to confirm that the OA had no objections to the bringing of these proceedings against the second defendant. This was even as the second defendant would have required the prior sanction of the OA to defend these proceedings. On 26 February and 26 March 2021, parties made submissions on and satisfied the court that final judgment could be entered against the second defendant. I thus deliver my judgment.
+
+## General damages
+
+5       I begin with the general damages for personal injury: damages for pain and suffering and damages for loss of earning capacity. The submissions of the plaintiff and of the intervener are aligned as to the quantum of these damages. The second defendant did not make any submissions on the quantum of these damages. I find that the submissions of the plaintiff and the intervener are reasonable and assess damages accordingly.
+
+6       For pain and suffering, I assess damages as follow:
+
+> (a)     Neck injury: $5,000;
+
+> (b)     Rotator cuff injury: $3,000; and
+
+> (c)     Back injury (disc prolapse): $12,000.
+
+7       For loss of earning capacity, I assess damages at $5,000.
+
+8       This gives a total of $25,000 in general damages.
+
+## Special damages
+
+9       The plaintiff and the intervener are aligned as to the special damages in respect of transport expenses and medical expenses, both of which were paid by plaintiff out of his own pocket. The second defendant made no submission on these damages. I find that the quantum of these damages as claimed by the plaintiff is reasonable and assess damages accordingly as follow:
+
+> (a)     Transport expenses: $300.00; and
+
+> (b)     Medical expenses paid by the plaintiff: $6,926.32.
+
+10     I turn to the medical expenses that were paid by SPH, Shenton, Medishield, and AIA. The plaintiff seeks to recover these expenses as special damages in these proceedings. The intervener disagrees and submits that these expenses should not be recoverable as damages because they did not involve out-of-pocket expenditure on the part of the plaintiff. In the alternative, the intervener submits that the damages should be paid not to the plaintiff but to the entities that paid for the medical expenses in question.
+
+11     The entities that paid these medical expenses, and the quantum of these expenses, are as follow:
+
+> (a)     SPH: $1,519.28;
+
+> (b)     Shenton: $30,956.28;
+
+> (c)     Medishield: $1,125.00; and
+
+> (d)     AIA: $21,288.77.
+
+### Medical expenses paid by SPH and Shenton
+
+12     In my judgment, the medical expenses paid by SPH (the employer of the plaintiff) and Shenton (the insurers of SPH) are recoverable as damages by the plaintiff. As the Court of Appeal held in _Minichit Bunhom v Jazali bin Kastari and another_ <span class="citation">\[2018\] 1 SLR 1037</span> at \[83\], where a plaintiff has paid for insurance with his own moneys, the fruits of his thrift and foresight in buying that insurance should inure to his and not to the defendant’s advantage. This is notwithstanding that the plaintiff may thereby be compensated beyond his loss. Here, even if the plaintiff did not pay for the medical expense coverage provided by SPH/Shenton in cash, he did so in kind, through his labour as an employee of SPH. This medical expense coverage so provided by SPH is but the fruit of that labour of the plaintiff, and it is difficult to see why those fruits should inure to the benefit of the defendants, who have no relation to SPH. I thus find that these medical expenses are recoverable by the plaintiff.
+
+13     It is irrelevant, as the intervener submits, that neither SPH nor Shenton have required the plaintiff to reimburse them the amount of his medical expenses that they have paid. Indeed, the willingness by SPH and Shenton to bear the medical expenses without seeking recovery from the plaintiff fortifies the conclusion that the medical expenses coverage is an employment benefit. There is no suggestion that SPH or Shenton provided this medical expense coverage other than in the context of the employer-employee relationship between SPH and the plaintiff.
+
+14     In any event, even if these payments by SPH and Shenton were made benevolently and outside the employer-employee relationship between SPH and the plaintiff, they fall within a well-established exception to the basic rule against double recovery. This is the receipt of money from the benevolence of third parties prompted by sympathy for his misfortune, as in the case of a beneficiary from a disaster fund (_The “MARA”_ <span class="citation">\[2000\] 3 SLR(R) 31</span> at \[28\]):
+
+>     There are two established exceptions to the basic rule against double recovery. The first is where a plaintiff recovers any moneys under an insurance policy for which he has paid the premiums, and the insurance moneys are not deductible from damages payable by the tortfeasor: _Bradburn v Great Western Rly Co_ (1874) LR 10 Exch 1; \[1874–80\] All ER Rep 195. The second is where the plaintiff receives money from the benevolence of third parties prompted by sympathy for his misfortune, as in the case of a beneficiary from a disaster fund, and the amount received is again to be disregarded: _Redpath v Belfast and County Down Railway_ \[1947\] NI 167. In _Hussain_ (\[26\] _supra_), Lord Bridge, having referred to these two exceptions, said at 527–528:
+
+>> In both these cases there is in one sense double recovery. If the award of damages adequately compensates the plaintiff, as it should, the additional amounts received from the insurer or from third party benevolence may be regarded as a net gain to the plaintiff resulting from his injury. But in both cases the common sense of the exceptions stares one in the face. It may be summed up in the rhetorical question: ‘Why should the tortfeasor derive any benefit, in the one case, from the premiums which the plaintiff has paid to insure himself against some contingency, however caused, in the other case, from the money provided by the third party with the sole intention of benefiting the injured plaintiff?’
+
+15     There is no dispute as to the quantum of these expenses as submitted by Plaintiff. I thus assess damages to the plaintiff at $1,519.28 (as paid by SPH) and $30,956.28 (as paid by Shenton).
+
+### Medical expenses paid by Medishield and AIA
+
+16     I turn to the medical expenses paid by Medishield and by AIA. The interveners submit that these expenses should not be recoverable as damages by the plaintiff because they are not the fruits of his foresight or prudence but simply the operation of the Medishield Life Scheme Regulations 2015 (S 622/2015) (the “Medishield Regulations”). The Medishield Regulations require working citizens and permanent residents of Singapore like the plaintiff to make annual payments out of their salaries to the Central Provident Fund Board. In return, the Medishield Fund covers citizens and permanent residents of Singapore for the costs of medical treatment incurred at approved hospitals up to various stipulated lifetime claim limits.
+
+17     I will examine first the medical expenses paid by AIA and thereafter those paid by Medishield.
+
+18     The medical expenses paid by AIA were paid pursuant to an integrated medical shield plan (“ISP”) that the plaintiff purchased from AIA. This ISP, which was entered into by the plaintiff in a commercial transaction with AIA, provides additional coverage over and above the basic level of insurance provided by Medishield. To that extent, these pay-outs are the fruit of the thrift and prudence of the plaintiff in purchasing the ISP. They are thus recoverable by the plaintiff as damages. Nevertheless, r 13(3) of the CPF (Private Medical Insurance Scheme) Regulations requires the plaintiff to reimburse AIA to the extent of any such recovery. The plaintiff has confirmed at trial his intention to do the same. I thus see no reason why the plaintiff should be precluded from recovering the amount paid by AIA.
+
+19     I turn to the medical expenses paid by Medishield. In _National Insurance Co of New Zealand Ltd v Espagne_ (1961) 105 CLR 569 (“_Espagne_”) at 573, Dixon CJ drew a distinction between benefits that communities typically confer upon all injured persons and benefits that are conferred upon a particular injured plaintiff “not only independently of the existence in him of a right of redress against others but so that they may be enjoyed by him although he may enforce that right”. The injured plaintiff cannot calculate his damages as if he had not availed himself of the former benefits but may do so without taking account of the latter benefits.
+
+>     There are certain _special services, aids, benefits, subventions and the like which in most communities are available to injured people_. Simple examples are hospital and pharmaceutical benefits which lighten the monetary burden of illness. _If the injured plaintiff has availed himself of these, he cannot establish or calculate his damages on the footing that he did not do so_. On the other hand there may be advantages which accrue to the injured plaintiff, whether as a result of legislation or of contract or of benevolence, which have an additional characteristic. It may be true that they are conferred because he is intended to enjoy them in the events which have happened. Yet they have this distinguishing characteristic, namely they are _conferred on him not only independently of the existence in him of a right of redress against others but so that they may be enjoyed by him although he may enforce that right_: they are the product of a disposition in his favour intended for his enjoyment and not provided in relief of any liability in others fully to compensate him. \[Emphasis added\]
+
+These observations were cited with approval by the General Division of the High Court in _Noor Azlin bte Abdul Rahman and another v Changi General Hospital Pte Ltd and others_ <span class="citation">\[2021\] SGHC 10</span> (“_Noor Azlin_”).
+
+20     I find that the Medishield pay-outs are in the nature of “special services, aids, benefits, subventions and the like which in \[Singapore\] are available to injured people”. Medishield is a basic health insurance scheme that covers all citizens and permanent residents of Singapore in respect of large healthcare bills, and for which subsidies are provided by the government to individuals of limited means to keep premiums affordable. Given this availability of Medishield to all injured citizens and permanent residents in Singapore, it is difficult to see how, in the language of _Espagne_ at 573, a pay-out thereunder to an injured person can be “a disposition in his favour intended for his enjoyment and not provided in relief of any liability in others fully to compensate him.” The plaintiff should not therefore be allowed to calculate his damages as if he had not availed of Medishield coverage.
+
+21     The plaintiff points out that he had paid the premiums for his Medishield coverage out of his salary. But this payment was made purely because of the mandatory legislation (the Medishield Regulations), and not through foresight or prudence on the part of the plaintiff. Moreover, the mode of funding a scheme of social benefits that lighten the burdens of an injured person should not affect whether those benefits are conferred on him “not only independently of the existence in him of a right of redress against others but so that they may be enjoyed by him although he may enforce that right” (_Espagne_ at 573).
+
+22     The decision of _Noor Azlin_ bears this out, albeit in the converse. There, Belinda Ang Saw Ean JAD held that the plaintiff, who was of limited means, was entitled to recover medical expenses that had been paid out of financial assistance schemes for low-income individuals. Such financial assistance, which Ang JAD called “subsidies”, was available not to the community at large but only to “citizens who qualify for assistance” (at \[213\]–\[214\])
+
+> 213    The same reasoning applies to government subsidies. Subsidies are provided by the government to its citizens or residents due to the _government’s relationship with its people_. Such subsidies are awarded for a multitude of public policy reasons, such as the betterment of public health or access to _affordable healthcare for citizens who qualify for assistance_.
+
+> 214    … Therefore, the fact that Ms Azlin’s medical expenses were paid by her insurance or government subsidies does not prevent her from claiming for compensation for these medical expenses from the tortfeasor.
+
+>     \[Emphasis added\]
+
+23     As with an insurance pay-out that accrues to an injured person pursuant to a contract of insurance entered into by him with an insurer, the financial assistance pay-outs in _Noor Azlin_ accrued to the injured plaintiff pursuant to “the government’s relationship with \[her\]”. The mode of funding the scheme of social benefits (governmental benevolence rather than individual payment) did not affect whether the financial assistance pay-outs were “a disposition in h\[er\] favour intended for h\[er\] enjoyment and not provided in relief of any liability in others fully to compensate h\[er\].”
+
+24     For these reasons, I do not think that the plaintiff s entitled to recover the medical expenses paid by Medishield.
+
+## Conclusion
+
+25     I award the plaintiff a total of $85,990.65.
+
+26     This figure comprises the following sums:
+
+> (a)     General damages: $25,000.00
+
+> (b)     Special damages (transport expenses): $300.00
+
+> (c)     Special damages (medical expenses):
+
+>> (i)       As paid by the plaintiff: $6,926.32
+
+>> (ii)       As paid by SPH: $1,519.28
+
+>> (iii)       As paid by Shenton: $30,956.28
+
+>> (iv)       As paid by AIA: $21,288.77
+
+27     There shall be the usual consequential orders.
+
+28     The costs of these proceedings are to be fixed, if not agreed.
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F26082-SSP.xml)

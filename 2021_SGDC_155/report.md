@@ -1,0 +1,101 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Bank Simpanan Nasional (BSN)  
+
+### \[2021\] SGDC 155
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">District Arrest Case No. 926715/2019 and Others, Magistrate's Appeals No. 001/2021/01</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">03 August 2021</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Ng Cheng Thiam</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Lim Li Ting (Singapore Customs) for the Prosecution.; A Revi Shanker s/o K Annamalai (M/s AR Shanker Law Chambers) for the Claimant.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Bank Simpanan Nasional (BSN)</td></tr></tbody></table>
+
+\[LawNet Editorial Note: An appeal to this decision has been filed in MA 1/2021/01.\]
+
+3 August 2021
+
+### District Judge Ng Cheng Thiam:
+
+## Introduction
+
+1       On 12 April 2021, pursuant to an application of the Prosecution under s 123(2) of the Customs Act (Cap 70, 2004 Rev Ed) (“the Act”), I ordered the forfeiture of a vehicle (“the Forfeiture Order”).
+
+2       The vehicle in question was fixed with a false licence plate JRD 7976 (“the Vehicle”). Investigations by the Singapore Customs (“Customs”) revealed that the true licence plate was AKM 195.
+
+3       Bank Simpanan Nasional (“the Claimant”) made a claim on the Vehicle, which claim was rejected by me. Being dissatisfied with the Forfeiture Order, the Claimant filed an appeal.
+
+## Background
+
+### Charges and Sentence
+
+4       On 21 September 2019, one Tan Kok Wei (“the Accused”), a Malaysian, was arrested at Woodlands Checkpoint for smuggling duty unpaid cigarettes (“uncustomed goods”) into Singapore.
+
+5       The Accused was charged with two offences. On 11 October 2019, before me, the Accused pleaded guilty to the offences. After he had admitted without qualification to the Statement of Facts (“SOF”) adduced by the Prosecution, I found him guilty and convicted him. I imposed an aggregate sentence of seven months’ imprisonment (see table below) on him.
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="27.9144171165767%"> <col width="44.3111377724455%"> <col width="27.7744451109778%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Charge Number</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Offence</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Sentence</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">DAC No. 926715/2019</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Section 128F of the Act which is punishable under s 128L(4) of the same Act.</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Seven (7) months’ imprisonment.</p><p align="center" class="Table-Para-1">(Concurrent)</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">DAC No. 926716/2019</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Section 128F of the Act read with s 26 of the Goods and Services Tax Act (Cap 117A, Rev Ed 2005) and punishable under s 128L(4) of the Act.</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1">One (1) month’s imprisonment.</p><p align="center" class="Table-Para-1">(Concurrent)</p></td></tr><tr><td align="left" class="r" colspan="2" rowspan="1" valign="top"><p align="right" class="Table-Para-1">Aggregate Sentence</p></td><td align="left" class="" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Seven (7) months' imprisonment.</p></td></tr></tbody></table>
+
+  
+  
+
+### Facts of the Case
+
+6       Reproduced below are the pertinent facts that are relevant to the forfeiture application of the Vehicle:
+
+> 2.    On 21st September 2019, at about 4.00 pm, at Arrival Car Zone 4, Woodlands Checkpoint, Singapore, the Accused was arrested for being concerned in the importation of uncustomed goods (duty unpaid cigarettes).
+
+> 3.    On 21st September 2019, at about 10.50 am, Immigrations and Checkpoints Authority (‘ICA’) officers (“the officers”) on duty at Woodlands Checkpoint directed a Malaysia-registered vehicle bearing registration number JRD 7976 (‘the car’) to the 100% Inspection Pit for enhanced checks. The said car was driven by the Accused from Malaysia into Singapore. Upon checking, the officers found a total of 313 cartons x 200 sticks and 1,251 packets x 20 sticks of duty unpaid cigarettes (‘the cigarettes’) hidden in various modified compartments of the said car. Upon questioning, the Accused admitted knowledge of the said cigarettes and was arrested. The said car and the said cigarettes were seized as case exhibits, and the matter was referred to Singapore Customs for further investigations.
+
+> 4.    Investigations revealed that the Accused was engaged by two male Malaysians known to him as “Ah Boon” and “Alex” to smuggle duty unpaid cigarettes into Singapore and also provide carpool services to passengers from Malaysia to Singapore. The car was modified for the purpose of smuggling cigarettes into Singapore. As instructed by either Ah Boon or Alex, upon clearing the immigration, the Accused would fetch the passengers to their desired locations in Singapore and after dropping off the passengers, the Accused will inform Ah Boon or Alex via WeChat on where the car was parked so that their workers could take over the car and drive to an unknown location to retrieve the duty unpaid cigarettes concealed inside the car. After the cigarettes were retrieved, Ah Boon or Alex would then inform the Accused that the cigarettes have been retrieved and the Accused would proceed to drive the car back to Malaysia. The Accused was paid a remuneration of RM1000 for every successful delivery trip. The Accused started smuggling duty unpaid cigarettes for about a month and have done it for about ten times.
+
+> 5.    On 21 September 2019, Ah Boon and Alex had similarly informed the Accused to pick up the car containing duty unpaid cigarettes. Thereafter, the Accused drove the car into Singapore whereupon he was checked and arrested by the officers at Woodlands Checkpoint.
+
+> 6.    The Accused knew that the excise duty and the Goods and Services Tax (‘GST’) leviable on the seized cigarettes were unpaid at the material time the offences were committed.
+
+## Forfeiture
+
+### Chronology of Events
+
+7       The chronology of events pertaining to the application for forfeiture of the Vehicle is summarised in the table below. The matter was mentioned twice without any discussion on the merits of the forfeiture application.
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="7.44%"> <col width="25.9%"> <col width="66.66%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>No.</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Date</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Summary</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">1</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">5 June 2020</p><p align="justify" class="Table-Para-1">(Mention)</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">The Prosecution informed the Court that the Claimant would be contesting the forfeiture. However, the Claimant did not turn up. The Court adjourned the matter to another day for the Claimant to turn up. The Prosecution agreed to contact the Claimant.</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">2</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">23 February 2021</p><p align="justify" class="Table-Para-1">(Mention)</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Counsel for the Claimant appeared for the mention through video-conferencing facilities. Counsel informed that upon being briefed by the Claimant and its instructing lawyers, he had sent a letter of representations to Customs. Counsel sought an adjournment to await the reply from Customs.</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">3</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">12 April 2021</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Hearing of the forfeiture application.</p></td></tr></tbody></table>
+
+  
+  
+
+### Forfeiture Hearing
+
+8       The Prosecution applied for forfeiture of the Vehicle under s 123(2) of the Act, which is reproduced in full below:
+
+> **Court to order disposal of goods seized**
+
+> **123**—(1)    An order for the forfeiture or for the release of anything liable to forfeiture under the provisions of this Act shall be made by the court before which the prosecution with regard thereto has been held.
+
+> (2)    An order for the forfeiture of goods shall be made if it is proved to the satisfaction of the court that an offence under this Act has been committed and that the goods were the subject-matter of, or were used in the commission of, the offence, notwithstanding that no person may have been convicted of the offence.
+
+> (3)    All goods forfeited shall be delivered to a proper officer of customs and shall be disposed of in accordance with the directions of the Director-General.
+
+9       “Goods” is defined in s 122(2) of the Act to include “receptacles, packages, **vehicles**, vessels not exceeding 200 tons net registered tonnage and aircraft, other than aircraft engaged on international carriage” \[emphasis in bold added\].
+
+10     The Prosecution’s position was that forfeiture of the Vehicle is mandatory as the Vehicle was used in the commission of the offences.
+
+11     Counsel noted that the hirer of the Vehicle was one Zulkifli bin Alias (“the hirer”). The hirer took a loan from the Claimant to purchase the Vehicle. Counsel informed that the Claimant was unaware of the arrangement between the hirer and the Accused over the use of the Vehicle.
+
+12     Counsel also stated that the Claimant was unaware or have reasons to believe that:
+
+> (a)     The licence plate of the Vehicle had been removed and replaced with a false licence plate;
+
+> (b)     The Vehicle had been modified; and
+
+> (c)     The Vehicle was being used for the commission of the offences by the Accused.
+
+13     Counsel submitted that the Claimant had carried out due diligence before entering into the hire-purchase agreement with the hirer on 18 August 2018. As far as the Claimant was concerned, the Vehicle was in full control of the hirer.
+
+14     The crux of Counsel’s submission was that the Claimant was a victim of the crime perpetuated by the Accused and/or the hirer.
+
+### Law on Forfeiture
+
+15     It is clear from s 123(2) of the Act that forfeiture is mandatory once two elements are proved: (a) an offence under the Act has been committed, and (b) the goods were used in the commission of the offence. Goods will be used in the commission of the offence if they are directly related and substantially connected to the commission of the offence: _Moey Keng Kong v PP_ <span class="citation">\[2001\] 2 SLR(R) 867</span> at \[16\] (“_Moey Keng Kong_”) following _PP v Mayban Finance (Singapore) Ltd_ <span class="citation">\[1997\] 3 SLR(R) 216</span>.
+
+16     The High Court in _Moey Keng Kong_ at \[17\] also stated that there is no discretion within the courts to refuse any application for forfeiture. Even where a party may be innocent and have taken all necessary precautions, forfeiture will have to be ordered once it is clear that an offence had been committed: _Moey Keng Kong_ at \[17\] following _PP v M/s Serve You Motor Services_ <span class="citation">\[1996\] 1 SLR(R) 343</span> at \[29\].
+
+## Court’s decision
+
+17     On the facts of the present case, duty unpaid cigarettes were found hidden in various modified compartments of the Vehicle. The duty unpaid cigarettes were smuggled into Singapore by the Accused driving the Vehicle from Malaysia into Singapore. Therefore, I found that the two elements required for the operation of s 123(2) of the Act were satisfied. The Vehicle was clearly “goods” as defined by s 122(2). In the circumstances, the clear words of the Act must be applied. Forfeiture of the Vehicle must be ordered, and I did so.
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F26363-SSP.xml)
