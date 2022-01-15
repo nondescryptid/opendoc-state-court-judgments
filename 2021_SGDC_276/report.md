@@ -1,0 +1,969 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ James Ong Teck Keong  
+
+### \[2021\] SGDC 276
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">District Arrest Case No 934280 of 2018 and 5 Others, Magistrate's Appeals No 9015 of 2021</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">09 December 2021</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Ong Chin Rhu</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Andre Chong, Seah Ee Wei and Benedict Teong (Attorney-General's Chambers) for the Public Prosecutor; Lalwani Anil Mangan, Adrian Teo and Ng Yuan Sheng (DL Law Corporation) for the Accused.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — James Ong Teck Keong</td></tr></tbody></table>
+
+Criminal Law – Offences – Maid abuse
+
+Criminal Procedure and Sentencing – Sentencing
+
+\[LawNet Editorial Note: An appeal to this decision has been filed in MA 9015/2021/01.\]
+
+9 December 2021
+
+### District Judge Ong Chin Rhu:
+
+1       The Accused, Mr James Ong Teck Keong, claimed trial to six charges under the Penal Code (Cap 224, 2008 Rev Ed) in relation to doing a rash act as well as causing hurt to his domestic maid.
+
+2       At the conclusion of the trial, I found the Accused guilty and convicted him on five charges. The Accused was granted a discharge amounting to acquittal on one charge (MAC-903729-2018, the sixth charge). I sentenced the Accused to a global term of 10 months’ and 12 weeks’ imprisonment. The Accused being dissatisfied with his conviction and sentence has filed an appeal. He is currently on bail pending the hearing of his appeal.
+
+3       I had provided brief oral grounds at the conclusion of the trial to explain some of my findings and my decision on the charges, including my decision to acquit the Accused on the sixth charge.[^1] As there was no appeal against acquittal, I shall focus on elaborating on my reasons for conviction and sentence on the first to fifth charges in these grounds.
+
+## The Charges
+
+4       The details of the five charges on which the Accused was convicted were as follows:[^2]
+
+> MAC-903724-2018 (“first charge”)
+
+> You \[…\] are charged that you, sometime in early 2016, at Blk 676B Jurong West Street 64 #XXX, Singapore 642676, did commit an act so rashly as to endanger the personal safety of others, _to wit_, by **throwing a filled Nalgene water bottle** at one San Pa Pa, and you have thereby committed an offence punishable under Section 336(a) of the Penal Code, Chapter 224.
+
+> MAC-903725-2018 (“second charge”)
+
+> You \[…\] are charged that you, sometime in late 2015, at Blk 676B Jurong West Street 64 #XXX, Singapore 642676, being the employer of one San Pa Pa, a domestic maid, did voluntarily cause hurt to the said San Pa Pa, to wit, by **slapping the said San Pa Pa’s face**, causing her to suffer bodily pain, and you have thereby committed an offence punishable under Section 323 of the Penal Code, Chapter 224 read with Section 73(2) of the said Act.
+
+> MAC-903726-2018 (“third charge”)
+
+> You \[…\] are charged that you, sometime in 2016 at Blk 676B Jurong West Street 64 #XXX, Singapore 642676, being the employer of one San Pa Pa, a domestic maid, did voluntarily cause hurt to the said San Pa Pa, to wit, by **slapping her face**, causing her to suffer bodily pain, and you have thereby committed an offence punishable under Section 323 of the Penal Code, Chapter 224 read with Section 73(2) of the said Act.
+
+> MAC-903727-2018 (fourth charge)
+
+> You \[…\] are charged that you, sometime in late 2015 or early 2016, at Blk 676B Jurong West Street 64 #XXX, Singapore 642676, being the employer of one San Pa Pa, a domestic maid, did voluntarily cause hurt to the said San Pa Pa, _to wit_, by **slapping her face**, causing her to suffer bodily pain, and you have thereby committed an offence punishable under Section 323 of the Penal Code, Chapter 224 read with Section 73(2) of the said Act.
+
+> DAC-934280-2018 (fifth charge)
+
+> You \[…\] are charged that you, sometime in late 2016, at Blk 676B Jurong West Street 64 #XXX, Singapore 642676, being the employer of one San Pa Pa, a domestic maid, did voluntarily cause hurt to the said San Pa Pa, by means of a heated substance, to wit, by **splashing hot water on her**, causing her to suffer a burn injury and bodily pain, and you have thereby committed an offence punishable under Section 324 of the Penal Code, Chapter 224 read with Section 73(2) of the said Act.
+
+## Undisputed facts and the issues at trial
+
+### Background and undisputed facts
+
+5       Ms San Pa Pa (“San”), the victim named in the charges, was a Myanmar national. The Accused had employed San as a foreign domestic worker through a maid agency to work for his family at Blk 676B Jurong West Street 64 #XXX (“the Accused’s flat”) since 8 August 2014 (see Exhibit D1). Besides the Accused, the other members of the household were his wife, Madam Lee Bee Li (DW2, “Mdm Lee”), and their young son.
+
+6       On 14 July 2017, at about 9:06am, the police received a “999” call from a “Miss Winnie” stating “A Myanmar maid tried to jump down and we are holding her now” (Exhibit P1). It was not disputed that the maid mentioned in the message was San and that she had threatened to jump down from the common area outside the Accused’s flat. It was also not disputed that Mdm Lee and San’s friend, Ms Htay Win (PW6, “Htay”), were holding her back. Following the incident, San was placed under arrest for attempting suicide and the photographs in Exhibits P12-1 to P12-9 were taken of her on the same day at 9.31pm by police photographer Leong Sok Leng (PW3).
+
+7       It was not disputed that San had departed Singapore for Myanmar on 4 September 2018 (see Exhibit P13) and had not returned to Singapore as at the conclusion of the trial.
+
+### The issues of fact at trial
+
+8       The prosecution’s case was that the Accused had been abusing San since late 2015. According to the prosecution, on various occasions as set out in the charges, the Accused had thrown a filled Nalgene water bottle (Exhibit P11) at San, slapped her on her face, and splashed hot water on her.
+
+9       On the other hand, while the Accused accepted that certain incidents did take place between him and San, the defence took the position that the Accused did not commit the offences as stated in the charges. In particular, the defence’s case was that he did not possess the necessary _mens rea_ for the first, fourth and fifth charges as those were accidents. As for the second and third charges for slapping San, the Accused claimed that he had merely touched or tapped San on her cheek to get her attention.
+
+## The case for the prosecution
+
+10     The prosecution called the following six witnesses for its case:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="14.9570085982803%"> <col width="44.8510297940412%"> <col width="40.1919616076785%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Witness</b></p><p align="center" class="Table-Para-1"><b>Number</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Name</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Role</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">PW1</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Muhammad Zharif Bin Raihan</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Recorder of Accused’s statements</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">PW2</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Calvin Tay Chee Heng</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Investigation Officer</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">PW3</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Leong Sok Leng</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Photographer</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">PW4</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Aye Aye Myint</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Interpreter</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">PW5</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Tin Hlaing</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Interpreter</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">PW6</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Htay Win</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">San Pa Pa’s friend</p></td></tr></tbody></table>
+
+  
+  
+
+11     I do not propose to set out the evidence of all the prosecution witnesses in detail in these grounds, but would highlight the salient parts of the material witnesses’ testimonies.
+
+### The Accused’s statements were admitted into evidence
+
+12     At the start of the trial, the prosecution sought to admit the Accused’s statements given in the course of investigations into evidence through the recorder, Inspector Muhammad Zharif Bin Raihan (“Insp Zharif”). As the defence had no objection to the admissibility of the statements recorded by Insp Zharif from the Accused, they were admitted into evidence as follows:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="30.9338132373525%"> <col width="34.4531093781244%"> <col width="18.3163367326535%"> <col width="16.2967406518696%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Nature of statement</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Date</b></p><p align="center" class="Table-Para-1"><b>Time start / end</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Language</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Exhibit marking</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Section 22 Criminal Procedure Code (“CPC”)</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">17 July 2017</p><p align="justify" class="Table-Para-1">5pm / 6.55pm</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">English</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">P2</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Section 22 CPC</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">5 October 2017</p><p align="justify" class="Table-Para-1">11am /12pm</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">English</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">P3</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Cautioned statement</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">11 April 2018</p><p align="justify" class="Table-Para-1">10.15am / 10.30am</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">English</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">P4</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Cautioned statement</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">11 April 2018</p><p align="justify" class="Table-Para-1">10.31am / 10.42am</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">English</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">P5</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Cautioned statement</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">11 April 2018</p><p align="justify" class="Table-Para-1">10.43am / 10.55am</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">English</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">P6</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Cautioned statement</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">11 April 2018</p><p align="justify" class="Table-Para-1">10.56am / 11.05am</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">English</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">P7</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Cautioned statement</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">11 April 2018</p><p align="justify" class="Table-Para-1">11.06am / 11.17am</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">English</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">P8</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Cautioned statement</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">11 April 2018</p><p align="justify" class="Table-Para-1">11.18am / 11.28am</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">English</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">P9</p></td></tr></tbody></table>
+
+  
+  
+
+13     During cross-examination, Insp Zharif testified that he could not recall whether the Accused had asked if an interpreter was available. However, he found the Accused to be conversant in English. Additionally, had the Accused asked for an interpreter, Insp Zharif would have informed the Accused that one would be made available.[^3]
+
+### The ancillary hearing and the admission of the victim’s statements
+
+14     As mentioned earlier in these grounds, San had left Singapore in September 2018 and did not return to testify as a witness during the trial. Instead, the prosecution sought to admit her statements into evidence under section 32(1)(j)(iii) of the Evidence Act (“EA”). As the defence objected to the admissibility of San’s statements, the Court proceeded to convene an ancillary hearing under section 279 of the CPC to determine the admissibility of her statements as follows:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="18.02%"> <col width="18.02%"> <col width="26.42%"> <col width="19.18%"> <col width="18.36%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Nature of statement</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Recorder</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Date</b></p><p align="center" class="Table-Para-1"><b>Time start / end</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Language</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Interpreter</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Section 22 CPC</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">SSSgt Calvin Tay Chee Heng<span class="FootnoteRef"><a href="#Ftn_4" id="Ftn_4_1"><sup>[note: 4]</sup></a></span></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">14 July 2017</p><p align="justify" class="Table-Para-1">6pm / 8.21pm</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Myanmar language</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Aye Aye Myint<span class="FootnoteRef"><a href="#Ftn_5" id="Ftn_5_1"><sup>[note: 5]</sup></a></span></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Section 22 CPC</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Insp Zharif<span class="FootnoteRef"><a href="#Ftn_6" id="Ftn_6_1"><sup>[note: 6]</sup></a></span></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">4 October 2017</p><p align="justify" class="Table-Para-1">11am / 12 pm</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Myanmar language</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Aye Aye Myint<span class="FootnoteRef"><a href="#Ftn_7" id="Ftn_7_1"><sup>[note: 7]</sup></a></span></p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Victim Impact Statement</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Insp Zharif<span class="FootnoteRef"><a href="#Ftn_8" id="Ftn_8_1"><sup>[note: 8]</sup></a></span></p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">4 September 2018</p><p align="justify" class="Table-Para-1">1pm / 2pm</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Myanmar language</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Tin Hlaing<span class="FootnoteRef"><a href="#Ftn_9" id="Ftn_9_1"><sup>[note: 9]</sup></a></span></p></td></tr></tbody></table>
+
+  
+  
+
+#### Prosecution’s case for the ancillary hearing
+
+##### (1)   The prosecution was initially unable to contact San
+
+15     At the start of the ancillary hearing on 6 August 2019, the prosecution’s position was that they were unable to contact San before the trial to ask her to return to Singapore to give evidence. As such, besides calling the recorders and interpreters to provide evidence on the recording process of San’s statements (see references set out at \[14\]), the prosecution also led evidence on the efforts they made to reach her.
+
+16     To this end, Senior Staff Sergeant Calvin Tay Chee Heng (“IO Calvin”) gave evidence of his attempts to contact San upon taking over as the investigation officer of the case from Insp Zharif sometime in April 2019 (about four months before the commencement of the trial).[^10] IO Calvin had obtained San’s phone number from Insp Zharif and attempted to contact her via phone calls, Viber and Whatsapp, but to no avail. His attempts at contacting her through the Embassy of Myanmar also drew a blank.[^11] During the course of the trial, IO Calvin made further attempts to contact San using information found in her biodata provided by the maid agency (Exhibit P18). Although he managed to place a call through the telephone number recorded in P18, the female person who answered the call hung up before IO Calvin could verify her identify.[^12]
+
+17     Insp Zharif was also recalled to give evidence in the ancillary hearing. He testified that during the course of investigations, San had requested to go back to Myanmar to see her mother. This was conveyed to Insp Zharif through the maid agency, following which Insp Zharif obtained concurrence to allow her to leave Singapore. He also informed San that she was required to return to Singapore in the event of a trial, and that her expenses would be borne by the police. Further, on the day of her departure from Singapore, Insp Zharif had met San at the Centre for Domestic Employees (“CDE”) to record a Victim Impact Statement from her and reiterated that she would be required to come back to Singapore. Prior to that, Insp Zharif had also obtained San’s employment biodata (P18) as well as her contact details on a Post-it note (Exhibit P20) when he recorded a statement from San at the maid agency on 4 October 2017.[^13]
+
+18     Insp Zharif confirmed that he had relinquished his role as the investigation officer for this case in February 2019 and could not recall if he made any attempts to contact San after she left Singapore. He had also assumed that the address he had obtained from San as well as her contact number were sufficient for the purpose of getting in touch with her. San had also never informed Insp Zharif that she was never going to return to Singapore.[^14]
+
+19     Insp Zharif testified that he had never attempted to call San’s Myanmar phone number in P18. However, before she left Singapore, he had spoken to her once on the Singapore telephone number in P20. Sometime after February 2019, Insp Zharif was instructed to assist to check whether San was able to return to Singapore and tried to contact her on her Singapore phone number but nobody answered the call.[^15]
+
+20     San’s friend, Htay Win (“Htay”), a fellow domestic worker from Myanmar, came to Court to give evidence on 7 August 2019. Htay informed the Court that she did not know San’s home address in Myanmar nor her contact number. However, she had last contacted San on 3 August 2019 via San’s mother’s phone number. Htay had kept a record of the phone number as she had previously contacted San’s mother on San’s behalf. Htay also managed to retrieve records of several phone numbers she believed belonged to San and her Myanmar employment agent before attending Court (see Exhibit P23).[^16]
+
+21     Htay explained that her call on 3 August 2019 was initially picked up by a man who identified himself to be San’s father. When San came to the phone, Htay could recognise San’s voice. Htay told San that the police was asking for San’s contact number and address. According to Htay, although San agreed to send her contact number to Htay, she did not do so. In the course of their conversation, San mentioned that she was afraid to come to Singapore as she just had a baby and could not afford a prolonged stay here. The day before Htay attended Court, she attempted to contact San again but the phone appeared to be switched off. She also tried to call San on another phone number which San had previously used to contact her after returning to Myanmar, but a male voice answered the phone and told her that she had called the wrong number.[^17]
+
+##### (2)   San did not want to return to Singapore for the trial
+
+22     IO Calvin made further attempts to contact San using the information provided by Htay. He returned to Court on 30 January 2020 to give further evidence in the ancillary hearing and took the Court through the steps he took (which were detailed in his investigation diary in Exhibit P15A).
+
+23     IO Calvin testified that he tried to contact San using the numbers provided by Htay in P23. On 17 August 2019, IO Calvin’s call to the number which Htay claimed to belong to San’s mother was answered, and he spoke to a female person who identified herself as “San Pa Pa”. After acknowledging that the police required her to return to Singapore and being informed that her expenses would be covered by the police, San informed IO Calvin that she did not wish to return to Singapore. This was because she was about to give birth and, since her husband was working in Malaysia, there would be no one to take care of her infant while she was away.[^18]
+
+24     On 19 August 2019, IO Calvin sent a letter by registered post to San (Exhibit P24) reiterating that her attendance was required for the trial and that the police would cover her expenses and make the arrangements for her return. IO Calvin also included his contact details in the letter and asked San to get in touch with him. On 19 September 2019, IO Calvin received a text message on Whatsapp stating “Hi”, followed by an audio message with a female voice saying “Hi, I’m San Pa Pa” and a photograph of P24. IO Calvin and San then exchanged several text and voice messages (see the screenshots of the Whatsapp messages in Exhibit P25 and the recording of the audio messages in P26-1 to P26-4) during which IO Calvin attempted to persuade San to return to Singapore for the trial. However, San declined to do so, citing the same reasons concerning her having to take care of her young baby. IO Calvin’s further messages on 28 January 2020 to San to check whether she could attend Court in March 2020 went unanswered.[^19]
+
+#### San’s statements were admitted into evidence
+
+25     The defence did not call any witnesses for the ancillary hearing. At the conclusion of the hearing, both parties tendered written submissions on the admissibility of San’s statements and responded to each other’s submissions orally in Court.[^20] Having carefully reviewed and considered the evidence presented before the Court as well as the submissions of both parties, I ruled that San’s statements were admissible and marked them according as:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="33.3333333333333%"> <col width="33.3333333333333%"> <col width="33.3333333333333%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Nature of statement</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Date</b></p><p align="center" class="Table-Para-1"><b>Time start / end</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Exhibit marking</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Section 22 CPC</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">14 July 2017</p><p align="justify" class="Table-Para-1">6pm / 8.21pm</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1">P16</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Section 22 CPC</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">4 October 2017</p><p align="justify" class="Table-Para-1">11am / 12 pm</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1">P21</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Victim Impact Statement</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">4 September 2018</p><p align="justify" class="Table-Para-1">1pm / 2pm</p></td><td align="left" class="" rowspan="1" valign="top"><p align="center" class="Table-Para-1">P 22</p></td></tr></tbody></table>
+
+  
+  
+
+26     The reasons for my decision were as follows.
+
+27     Both the prosecution and defence were in broad agreement with regard to the statutory provisions as well as common law principles that governed the admission of San’s statements. As pointed out by the prosecution in their submissions, the default position set out in section 259(1) of the CPC was that the statements made by any person other than an accused person in the course of any investigation, was inadmissible in evidence, unless the statement fell into one of the exceptions enumerated therein. One of the exceptions was that in section 259(1)(c) of the CPC, which allowed a statement to be admitted if it was made admissible as evidence in any criminal proceeding by virtue of the EA.
+
+28     Section 32(1)(j)(iii) of the EA, on which the prosecution’s application was grounded, provided that:
+
+> 32\. --(1)    Subject to subsections (2) and (3), statements of relevant facts made by a person (either orally, in a document or otherwise), are themselves relevant facts in the following cases:
+
+>> …
+
+>> (j)    when the statement is made by a person in respect of whom it is shown –
+
+>>> …
+
+>>> (iii)   that he is outside Singapore and it is not practicable to secure his attendance.
+
+29     The admission of statements under section 32(1) was subject to, _inter alia_, section 32(3) of the EA which states:
+
+> A statement which is otherwise relevant under subsection (1) shall not be relevant if the court is of the view that it would not be in the interests of justice to treat it as relevant.
+
+30     Further, the party seeking to admit the evidence under section 32(1) of the EA must comply with the notice requirements prescribed by the Minister under section 428 of the CPC.[^21] These were in turn set out in Regulation 2 of the Criminal Procedure Code (Notice Requirements to Admit Hearsay Evidence) Regulations 2012 (“Notice Requirements Regulations”).
+
+31     Turning back to section 32(1)(j)(iii) of the EA, both parties agreed that the two requirements therein were cumulative in nature. The defence acknowledged that the first requirement was met in this case -- that San was indeed outside Singapore at the material time. Further the defence did not dispute that the requisite notice under the Notice Requirements Regulations had been furnished by the prosecution.
+
+32     The defence’s objection to the admission of San’s statements was founded on the second requirement in section 32(1)(j)(iii). The defence argued that the prosecution had failed to prove that it was not practicable to secure her attendance and raised the following points in support.
+
+> (a)     Due to lapses in the investigative process, the prosecution had failed to prove that they had acted diligently to take sufficient and adequate steps to secure San’s attendance. In particular,
+
+>> (i)       Insp Zharif only obtained a mobile number from San after she left Singapore;
+
+>> (ii)       before August 2019, both IO Calvin and Insp Zharif had failed to write to San at the address she provided in September 2018; and
+
+>> (iii)       there was no attempt to contact San from the time she left Singapore until April 2019, to verify that she was contactable.
+
+> (b)     When San informed IO Calvin in September 2019 that her refusal to return to Singapore was solely due to her not having a caregiver for her child, IO Calvin failed to proffer travelling expenses and subsistence allowance for the child.
+
+> (c)     IO Calvin did not impress upon San that she was the complainant in this matter and that her evidence was critical.
+
+> (d)     There were no further attempts to contact San from 19 Sept 2019 to 27 January 2020 to inquire if there was a change in circumstances to allow her to come to Singapore.
+
+33     Further and in the alternative, even if San’s statements were _prima facie_ admissible under section 32(1)(j)(iii) of the EA, the defence urged the Court to exclude the statements in the interest of justice, pursuant to section 32(3) of the EA, based on the following grounds.
+
+> (a)     San’s statement in P16 was taken when she was in handcuffs and held in custody for attempting suicide earlier that day. She was also subjected to lengthy interrogation by the police for more than three hours without any breaks. Thus, it would be reasonable to conclude that San’s statement in P16 was given in hopes of securing her release from custody. In addition, she would have felt compelled for fear of legal reprisal to stick to her version in P16 when she gave her subsequent statements in P21 and P22.
+
+> (b)     San’s statements were the mainstay of the prosecution’s case. Her attendance at trial was crucial as her testimony was needed to attest to the truth of her statements which the prosecution was relying on. Her absence would deprive the defence of an invaluable opportunity to test the authenticity and reliability of her statements by way of cross-examination. Thus, admitting the evidence would be “procedurally oppressive and substantively unjust as the statements may be taken at face value”. This would in turn prejudice the Accused.
+
+34     In considering the defence’s arguments, I first had regard to the case of _Gimpex Ltd v Unity Holdings Business Ltd and others and another appeal_ <span class="citation">\[2015\] 2 SLR 686</span> (“_Gimpex_”) which set out the factors to be considered in the admission of hearsay evidence under section 32(1)(j)(iii) of the EA. I was acutely mindful that the burden would be on the prosecution to prove that San was unavailable, and that a mere allegation of her unavailability was not acceptable. As highlighted by both parties in their submissions, in relation to assessing whether the second requirement in section 32(1)(j)(iii) of the EA was met, the applicable principles were those set out by Professor Colin Tapper in _Cross and Tapper on Evidence_ (LexisNexis, 12th Ed, 2010), which were cited with approval by the Court of Appeal in _Gimpex_ at \[99\]:
+
+> \[t\]he second condition, however, refers not to inability to attend, but to _secure_ attendance, and may be satisfied by the recalcitrance of a witness outside the United Kingdom. Reasonable practicality implies assessing the likely effectiveness of taking normal steps to secure the attendance of the witness and considering in relation to such a judgement the importance of the evidence, the degree of prejudice to the defence if it is admitted, and the expense and inconvenience involved in securing attendance …
+
+35     Applying the above considerations to the present case, I was of the view that the second requirement in section 32(1)(j)(iii) of the EA had been satisfied. Firstly, the evidence showed that the police had indeed taken steps to obtain San’s contact details (P20) before her departure from Singapore. Secondly, while I was inclined to agree with the defence that perhaps more could have been done to check that San was indeed contactable at the phone number and address provided, it could not be disputed that direct contact was eventually established with her, based on the information provided by Htay. In particular, IO Calvin had communicated with San between 17 August and 19 September 2019 via phone call (P15A), text/voice messages (P25 and P26) and registered mail (P24) to inform her that her attendance at the trial was required and that the police would cover the costs and make the necessary travel arrangements. Thirdly, Htay and IO Calvin’s testimonies as well as the objective evidence in P25 and P26 clearly showed that San understood that she was required to return to Singapore for the trial against the Accused but had consistently responded (even in the context of her private conversation with Htay) that she did not wish to return to Singapore as she was having a baby. In my view, that San had no intention of returning to Singapore for the hearing was further evinced by her failure to respond to IO Calvin’s message to her in January 2020, asking if she could attend Court in March 2020.
+
+36     In considering whether the second requirement in section 32(1)(j)(iii) of the EA had been met, I found the High Court case of _PP v Sutherson, Sujay Solomon_ <span class="citation">\[2016\] 1 SLR 632</span> instructive. In that case, the prosecution witness who was residing in Hong Kong had similarly cited personal reasons for refusing to return to Singapore to testify, despite being informed that the costs of her return would be borne by the State and that she would be given a subsistence allowance for the duration of her stay. The Court found that the requirements of section 32(1)(j)(iii) were satisfied and the DNA report prepared by the witness was ruled to be _prima facie_ admissible.
+
+37     In arriving at my decision to admit San’s statements, I had also considered the defence’s submission that IO Calvin should have offered to cover San’s infant’s travelling expenses and subsistence allowance. I was of the view that this would not come within the ambit of “normal” steps that should be taken by the police to secure the attendance of a foreign witness, not least because the Criminal Procedure Code (Witnesses’ Allowances) Regulations 2010 only provided for trans-national travel expenses (reg 7) and subsistence allowance (reg 6) for the witness. Further, I agreed with the prosecution’s submissions that the requirement of practicality did not entail exhausting _all_ possible means to persuade the witness to return.
+
+38     Having found that San’s statements were _prima facie_ admissible under section 32(1)(j)(iii) of the EA, I turned to consider the defence’s further argument that the Court should nonetheless exclude them under section 32(3) of the EA. In doing so, I referred to the set of general factors to be considered in this assessment, as suggested by Professor Pinsler in “Admissibility and the Discretion to Exclude Evidence: In Search of a Systematic Approach” <span class="citation">(2013) 25 SAcLJ 215</span>, which were cited with approval by the Court of Appeal in _Gimpex_.[^22] These included:
+
+> (a)     the danger of unreliability or other harm which might compromise fair adjudication;
+
+> (b)     additional costs;
+
+> (c)     delay in the proceedings;
+
+> (d)     distraction of the court and/or the parties;
+
+> (e)     the evidence’s tendency to confuse or its misleading effect;
+
+> (f)     lack of reliability; and
+
+> (g)     prejudice.
+
+The Court of Appeal in _Gimpex_ also cautioned that where the hearsay evidence sought to be admitted was of limited probative value, such evidence should properly be excluded. Further, the party seeking the admission of the hearsay evidence must be able to show the Court that there were safeguards or measures that applied to that evidence which would ensure a minimal degree of reliability. However, the Court should not normally exercise its discretion to exclude evidence that was declared to be admissible by the EA.[^23]
+
+39     As set out earlier in these grounds, the defence’s submissions for excluding San’s statements under section 32(3) of the EA centred on the lack of reliability and the prejudicial effect of her statements.
+
+40     Having carefully reviewed the testimonies of IO Calvin, Insp Zharif and Mdm Aye Aye Myint concerning the recording of the statements in P16 and P21, I agreed with the prosecution’s submissions that the statements were recorded in accordance with the following procedural requirements set out in section 22(3) of the CPC[^24]:
+
+> A statement made by any person examined under this section must –
+
+>> (a)    be in writing;
+
+>> (b)    be read over to him;
+
+>> (c)    if he does not understand English, be interpreted for him in a language that he understands; and
+
+>> (d)    be signed by him.
+
+41     The recording process of the Victim Impact Statement in P22, as described by Insp Zharif and Mr Tin Hlaing also did not raise any concerns of procedural impropriety that may impinge upon the accuracy and reliability of the statements. Overall, I was satisfied that San’s statements were accurately recorded.
+
+42     As for the defence’s submission that San’s statements could have been tainted by her hopes of securing release from custody, I was of the view that this was unsupported by evidence and speculative at best.
+
+43     I also found the defence’s argument that the statements should be excluded as San’s evidence was critical to assessing their accuracy, somewhat circuitous. This was because, if San had come to court as a witness, her statements would not be admissible under section 32(1)(j)(iii) of the EA, and the issue of her confirming the contents of the statements would not have arisen. As pointed out by the prosecution in their submissions, that Parliament enacted this provision to admit statements by a person who was dead or could not be produced as witness was a clear indication that the inability to cross-examine such witnesses was not a bar to the admissibility of their statements. I further agreed with the prosecution that any prejudice against the Accused could be ameliorated at the stage when the Court, having regard to the facts and circumstances of the case, decided on the appropriate weight (if at all) to be ascribed to the statements.
+
+44     Having carefully considered the probative value and reliability of San’s statements as well as potential prejudice to the Accused, I declined to exclude San’s statements under section 32(3) of the EA.
+
+45     In my view, my decision to admit P16, P21 and P22 into evidence after the ancillary hearing was fortified by subsequent developments in the main trial. During the defence’s case, it became clear that the Accused was in fact not disputing the general veracity of San’s statements. I shall further elaborate on this later in these grounds when I discuss the weight to be given to them.
+
+### A summary of the contents of the Accused’s and victim’s statements
+
+46     At this juncture, it would be useful to distil the salient portions of the Accused’s and San’s statements which had been admitted into evidence, with respect to the incidents set out in the first to fifth charges against the Accused. Where appropriate, I would refer to the relevant portions of the statements in greater detail, later in these grounds.
+
+> _First charge – throwing a filled Nalgene water bottle at San_
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="13.1%"> <col width="19.04%"> <col width="67.86%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Exhibit</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Statement of</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Paragraph / Brief Summary</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">P2</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Accused</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">[A7] The Accused’s hand movement caused the water bottle to accidentally slip out of his hand and hit San’s hand.</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">P3</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Accused</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">[A2], [A3], [A4] The Accused threw a water bottle at San deliberately but it did not hit her.</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">P7</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Accused</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">The Accused did not throw the water bottle deliberately, it was an accident.</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">P16</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">San</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">[6], [A6] The Accused threw a water bottle at San’s face and it hit the left side of her face.</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">P21</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">San</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">[A3], [A4]<span class="FootnoteRef"><a href="#Ftn_25" id="Ftn_25_1"><sup>[note: 25]</sup></a></span> The Accused took a water bottle and threw it at San deliberately, but it did not hit her.</p></td></tr></tbody></table>
+
+  
+  
+
+> _Second charge – slapping San’s face in late 2015_
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="13.1%"> <col width="19.04%"> <col width="67.86%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Exhibit</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Statement of</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Paragraph / Brief Summary</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">P2</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Accused</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">[A6] The Accused’s arms were folded. He slapped San using the back of his right hand to hit the left side of her face.</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">P4</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Accused</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">The Accused was sorry for his actions and admitted it was his mistake.</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">P16</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">San</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">[3], [A4], [A5] The first time the Accused slapped San was about one year after she started work. The Accused slapped her once on the right of her face using the back of his right hand.</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">P21</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">San</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">[A2] The first time the Accused slapped her was after she had worked for one year.</p></td></tr></tbody></table>
+
+  
+  
+
+> _Third charge – slapping San’s face sometime in 2016_
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="13.1%"> <col width="19.04%"> <col width="67.86%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Exhibit</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Statement of</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Paragraph / Brief Summary</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">P3</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Accused</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">[A2] The Accused thought San might have gone out of the house and used his finger to tap San on her head in a manner which could be “assumed” to be a slap.</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">P5</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Accused</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">The Accused was sorry for his mistake. It was not done deliberately as he was worried about his son who was left alone at home.</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">P16</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">San</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">[A7] The Accused alleged that San had gone to look for her boyfriend and pushed and slapped her.</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">P21</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">San</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">[A2] The Accused suspected that San had gone out with her boyfriend and gave her a slap once.</p></td></tr></tbody></table>
+
+  
+  
+
+> _Fourth charge – slapping San’s face sometime in late 2015 or early 2016_
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="13.1%"> <col width="19.04%"> <col width="67.86%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Exhibit</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Statement of</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Paragraph / Brief Summary</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">P3</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Accused</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">[A2] The Accused swung his hand “in the sky” and slapped San.</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">P6</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Accused</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">The Accused was sorry for his actions and regretted it.</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">P16</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">San</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">[A6] The Accused was angry at San for talking back to him and slapped her.</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">P21</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">San</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">[A2] San walked away while the Accused was talking to her and he slapped her.</p></td></tr></tbody></table>
+
+  
+  
+
+> _Fifth charge – splashing hot water on San_
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="13.1%"> <col width="19.04%"> <col width="67.86%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Exhibit</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Statement of</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Paragraph / Brief Summary</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">P2</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Accused</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">[A6] San was throwing her hands around when she hit the Accused’s hand which was holding a milk bottle containing hot water. The bottle accidentally fell out of his hand and the water spilled onto San’s left stomach area as well as on his hand.</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">P3</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Accused</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">[A3] The Accused took the kettle to show San that the water inside was hot and the water accidentally spilled on her.</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">P8</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Accused</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">The Accused accidentally poured the hot water on San.</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">P16</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">San</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">[5], [A1] The Accused threw hot water from the electric kettle at the left side of San’s waist and some water hit her hand.</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">P21</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">San</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">[A3], [A5], [A4]<span class="FootnoteRef"><a href="#Ftn_26" id="Ftn_26_1"><sup>[note: 26]</sup></a></span> Accused took the small kettle to show her the water was hot. When she insisted it was not hot, the Accused deliberately threw the water in the kettle directly at her.</p></td></tr></tbody></table>
+
+  
+  
+
+### The evidence of Htay Win
+
+47     Htay was recalled to give evidence in the main trial. She testified that she came to Singapore in December 2013 to work for a family residing in the same block as the Accused and San. In fact, Htay’s employer’s flat (“Htay’s flat”) was located at level 11, two storeys above the Accused’s flat.[^27]
+
+48     Sometime around December 2016, Htay first met San at the ground floor of their block when San approached her to ask if she was from Myanmar. Three or four days later, San came to Htay’s flat to borrow Htay’s phone to call her parents as her phone was kept by her employers. San was sitting in front of Htay’s employer’s father when she made the call to her mother, while Htay was cooking in the kitchen. Htay overheard San informing her mother that she could not give her mother money because her employer had not paid her the money. San was crying and told her mother that her employer slapped her and splashed her with hot water. When Htay came out of the kitchen, San handed Htay the phone as she was crying and could not continue speaking.
+
+49     After telling San’s mother to call her later, Htay asked San if her employer really hit her and splashed hot water on her. San proceeded to pull her shirt up and showed Htay a scar caused by the hot water. Htay noticed that the injury had almost healed and left a circular “brown patch” about 5 centimetres in diameter. When shown the photograph in Exhibit P12-7, Htay drew a circle to indicate the position of the injury adding that it was darker in colour when San showed it to her. Upon seeing this, Htay’s employer’s father wrote the word “Police” on a piece of paper and gave it to San. However, San told them that if she made a report, her employers might be unhappy and might “torture” her more. Htay then suggested that San inform her agent and request for a change of employer. However, San was reluctant to do so as she had yet to receive her salary.[^28]
+
+50     Since then, San had gone to Htay’s flat to make calls on three or four occasions. San had also borrowed money from Htay on about three occasions. Once, sometime around March 2017, San borrowed $20 from Htay to go to the clinic claiming that her stomach was painful as her employer had kicked her in her stomach the night before. On the other occasions, Htay had given San $10 because San was hungry and wanted to eat. Htay testified that she had given the money to San to buy something to eat and did not regard it as a loan. San’s employment agent had since returned $50 to Htay on San’s behalf.[^29]
+
+51     Htay also recalled an occasion when Mdm Lee came to Htay’s flat to show Htay a photograph and ask if the person shown in the photograph was San’s boyfriend. Subsequently, the Accused came to Htay’s flat to apologise to Htay’s employer and explained that they were worried that San might get pregnant if she had a boyfriend.[^30]
+
+52     Htay testified that about three to four times a week since 2015, when she was either in the kitchen or in her bedroom, she would hear loud noises and a male and a female voice “scolding” and “shouting” from a unit downstairs. Subsequently, she realised that the noises came from the Accused’s flat because she could hear San crying and found out that it was San’s employers who were scolding her and shouting at her.[^31]
+
+53     On 14 July 2017, Htay heard “long scolding” in the morning followed by shouting and screaming. When she went to the lift landing and looked down, she saw San trying to jump down and Mdm Lee holding her back. Htay went down to the ninth floor and assisted Mdm Lee to pull San back into the Accused’s flat. San had initially lost consciousness and when she came-to, she said “don’t have boyfriend, don’t have boyfriend.” Upon hearing this, Mdm Lee responded by saying “I don’t say next time”. Htay then told San that if she could not work there, she could have gone to her agent instead of trying to jump down.[^32] During cross-examination, Htay agreed that San never told her why she wanted to commit suicide nor could she be sure what problems San was facing on that day.[^33]
+
+54     During cross-examination, Htay told the Court that San had called her about a week after she first attended Court on 7 August 2019. San said that she had yet to give birth. Htay clarified that she had misunderstood San previously and erroneously told the Court that San had a baby. Htay had told San during this conversation that she did not know what San had told the police, but she would tell the Court what she knew. Thereafter, San had called Htay on subsequent occasions and sometimes sent Htay pictures of her child, but they never discussed the case. Two days before Htay attended Court on 17 March 2020, San had called her again and Htay informed San that she was going to Court again whereupon San told her not to talk about it.[^34]
+
+## The case for the defence
+
+55     At the close of the prosecution’s case, I found that the prosecution had made out a _prima facie_ case against the Accused on the proceeded charges and called upon him to give evidence in his own defence. The Accused elected to testify. The Accused also called Mdm Lee, as well as a representative from the maid agency, Ms Chu Kai Yin Mandy (DW3, “Mandy”), as witnesses for the defence. Their evidence relating to the first to fifth charges is summarised below.
+
+### The Accused’s evidence
+
+#### San’s employment with the Accused
+
+56     The Accused had hired San to take care of his family and paid her a salary of $420. San’s first employment contract was for a two-year term. According to the “FDW Weekly Rest Day Agreement” signed by San and the Accused (see D1), San would not have weekly rest days but would be compensated $17 for each rest day forgone. In May 2016, the Accused and San agreed to extend her contract for a year as the Accused’s child was still young and the Accused was “crippled” by a broken leg. The contract extension was formalised at the maid agency.[^35]
+
+57     The Accused testified that San’s job scope was to care for his child and cook simple meals. When San first stared working for his family, she did not know English nor how to clean or do the laundry. As such, the Accused had to train her from scratch, one task at a time. As a daily routine, San would wake up at 7am to clean the house and do the laundry. Thereafter, she would take care of the Accused’s child for the rest of the day until the Accused and Mdm Lee returned from work. At the material time, the Accused was working for Monster Curry in its set up team for new branches while Mdm Lee was working in a casino. The Accused would leave home for work at about 7am and return at 11pm. Mdm Lee’s hours were irregular, depending on whether she was working the day or night shift.[^36]
+
+58     The Accused treated San like a daughter and she would address him and his wife as “papa” and “mama” respectively. The family shared a room together with San. The Accused, Mdm Lee and their child slept on the bed and San slept on a mattress on the floor. Besides sharing their food at home with San, the family also brought her out for meals and outings. In addition, the Accused took San along for a family holiday in Malaysia after receiving his bonus in January 2015. As a form of reward, San was also invited to join the Accused’s family and some of his colleagues for a holiday in Thailand from 19 to 23 May 2016. San treated the Accused’s family like her own. When she received her salary, she would sometimes buy toys for the Accused’s child or buy food as a treat for the family.[^37]
+
+59     However, after working for a year, San began to show signs of frustration and would respond negatively when asked to do work. Nonetheless, the Accused continued to employ her as his child was still young and both he and Mdm Lee were working shifts.[^38] During cross-examination, the Accused agreed that he found San’s work performance to be satisfactory; otherwise, he would not have renewed her contract.[^39]
+
+60     When the Accused was referred to the following words which were written behind the third page of San’s employment contract in D1, he testified that these were written in May 2016 by Mandy, an employee of the maid agency.
+
+![]([2021] SGDC 0276_Image/[2021] SGDC 0276_image1.png)
+
+61     According to the Accused, San had watched YouTube videos on the family’s television set and used the house phone “many many times”. When Mdm Lee confronted San on this, San suggested going to the maid agency. Thereat, Mandy assisted to “breakdown” the bills which San agreed to pay. However, the Accused and Mdm Lee decided not to pursue the matter. During cross-examination, the Accused said that the amounts to be deducted were decided by Mdm Lee and he agreed with her, even though he was of the view that the deductions were unreasonable.[^40]
+
+62     The Accused also testified about an incident in 2016 during which he slapped San (as mentioned in P3 at \[A2\]). San had told him that she needed to send money home. After discussing with Mdm Lee, the Accused went to look for the key to the drawer to retrieve some money for San. As he could not find the key anywhere, he attempted to open the drawer and found it unlocked. Upon discovering that San’s salary (which was kept inside the drawer upon her request) missing, the Accused confronted San and asked whether she had stolen the key. When Mdm Lee returned from work, she found the drawer key in the Accused’s bag. Mdm Lee and the Accused continued to question San but San persisted in denying stealing the money from the drawer. However, when Mdm Lee searched through San’s belongings, she found the money and San’s handphone (which was originally kept in the drawer) there. The Accused admitted that he had slapped San for lying but added that it was not very forceful. San eventually apologised saying that she stole the money for someone else and the Accused also apologised to her.[^41]
+
+63     During cross-examination, the Accused agreed that San came to Singapore with her own handphone but the Accused had kept it in a drawer because Mandy had told him that foreign domestic workers could not use their handphones at home. The Accused had kept San’s handphone as well as her salary in a locked drawer and the key to the drawer was kept by Mdm Lee. The Accused explained that this was because the drawer also contained items belonging to him such as his passport. The Accused initially said that it was San who asked for her salary to be placed in the drawer and did not want to have access to the money because she was afraid she might over-spend. Subsequently, the Accused conceded that San did in fact want to access the drawer and had stolen the key to the drawer on several occasions. San even admitted to the Accused that she broke the drawer open with a screwdriver to take money for urgent use. The Accused added that San was allowed to use her phone when she asked to make a call to her parents and when she told him that her grandmother was dying.[^42]
+
+64     The Accused testified that he had scolded San on a number of occasions when she did something wrong or spoke in a louder voice. The Accused said that when he scolded someone, “the whole building would know” as he would be “screaming” and the neighbours in the block would be able to hear him.[^43]
+
+#### First charge – the water bottle had slipped and fallen accidentally
+
+65     According to the Accused, the incident relating to the water bottle occurred in early 2016. The Accused had wanted to drink from the Nalgene water bottle in Exhibit P11 but detected a smell in it. When San revealed that she had cleaned the bottle using the same cleaning implement she used to wash the plates, the Accused asked her how he was supposed to drink from it and suggested that she tried drinking from it instead. When San refused to do so, P11, which the Accused was holding in his right hand, was “accidentally pushed to the floor”. The Accused explained that he had wanted to place P11 on the table but did not do so properly, so it slipped and fell to the floor. The Accused added that San was about 1.8 metres away from him at that time and P11, which was filled with water, had fallen just in front of her toes. According to the Accused, San reacted by saying “sorry” repeatedly while he also apologised.[^44]
+
+66     During cross-examination, the Accused was referred to P3 where he had stated in \[A2\] to \[A4\] that San had thrown a tantrum and that he threw a water bottle at her deliberately but it did not hit her. The Accused reiterated that he did not throw the water bottle at San. He explained that the bottle had accidentally dropped out of his hand when he was letting San smell it, as its exterior was wet. He also claimed that he had told Insp Zharif that he did not throw the bottle deliberately. Although he agreed that Insp Zharif had read P3 back to him after it was recorded, he claimed that he did not fully understand English.[^45]
+
+67     When the Accused was referred to his statement in P2, where he stated “… and my hand movement cause the water bottle to accidentally slipped out of my hand and hit her hand.”,[^46] he explained that he did not know if P11 had hit San’s hand or leg, so he apologised to her. As for his cautioned statement in P7, where he had stated:
+
+> “I did not throw the water bottle deliberately, it was accidental. I hope that you can give me a chance. I will not do it again. Please be lenient on my sentence. …”,
+
+the Accused explained that he used the word “throw” because the recording officer asked if he had “thrown” the water bottle. The officer also told him that he could end up in jail for throwing something or hurting people. Therefore, he explained that it was an accident and asked to be given a chance. He also promised not to make the same mistake again.[^47]
+
+#### Second charge – the Accused had tapped San on her right cheek
+
+68     The Accused testified that sometime in 2015, San started to forget things or break things. When he told her that she had done things wrongly, San would show that she was unwilling to listen to him by looking upwards and away from him. As the Accused wanted San to look at him when he was talking to her, he would gently push her left cheek with the first two phalanges of his fingers in a manner that would not hurt or injure her. The Accused reiterated that this was his habit as he wanted people to look at him when they spoke to him. San would respond by looking at him saying “sorry, lah”. The Accused also agreed that San had told him “you cannot slap me. My father also never slap me.” as stated at \[3\] of her statement in P16.[^48]
+
+69     The Accused affirmed that the incident described by San in \[A5\] of P16 did occur. He explained that he was crossing his arms when he asked San why she did not clean the milk bottle properly. When she responded saying that she had cleaned it already, the Accused used the back of his hand to “tap” on her right cheek saying “Hey, do you know what you are saying?”.[^49]
+
+70     When the Accused was referred to his cautioned statement in P4, where he stated that he was sorry for his actions and admitted his mistake, the Accused explained that he was sorry for his habit and mistake of touching other people’s faces. He also thought that the recording officer had told him that to touch someone’s face was already a crime.[^50]
+
+#### Third charge – the Accused had tapped San on her cheek
+
+71     With regard to the incident mentioned by San in \[A7\] of P16, the Accused testified that he had rushed out of his home with only his mobile phone after being informed by his sister that his mother was experiencing breathing difficulties. He only realised, upon reaching the hospital, that he did not bring his wallet along. As the hospital required his identification card, he called home multiple times but nobody picked up his calls. He therefore had to leave his mother at the hospital and take a taxi home to retrieve his wallet.
+
+72     When he reached home, the Accused asked San why she did not pick up his calls and she explained that she was showering the child. She also apologised after the Accused told her the matter was very urgent. Thereafter, San closed her eyes as if she did not want to listen anymore. The Accused used his right hand to tap her on her cheek to ask her to “wake up”. The Accused agreed that during the same incident, he had also lightly tapped San on her head as mentioned in his statement in P3 at \[A2\]. During cross-examination, the Accused added that he had told Insp Zharif he had tapped San on her head but Insp Zharif said that to touch a person was wrong and it was a slap.[^51]
+
+73     In Court, the Accused emphasised that the tap was not very strong or intense and not like a slap. It was akin to how one would “hit” a friend on the shoulder. The Accused was of the view that his action would not hurt San or cause her to suffer redness or swelling.[^52]
+
+74     With regard to his cautioned statement in P5, the Accused explained that he was referring to the scolding he had given San when he said that he was sorry for his mistake. The Accused said that he did not scold San “intentionally” but because he was unhappy that San had left his child in bed alone and was worried that his child could have fallen off the bed. During cross-examination, the Accused further explained that he said he was sorry in P5 because the officer had informed him that to touch San’s face was equivalent to slapping her.[^53]
+
+#### Fourth charge – the Accused swung his hand and accidentally touched or hit San on her face
+
+75     When the Accused was referred to the incident described by San at \[A6\] of P16, he agreed that he had told San that the kitchen was not cleaned properly and the ants would come. According to the Accused, San responded by saying “okay, okay okay, yes, yes, yes”. The Accused therefore used his hand to tap her left cheek. He told her to “wake up” and asked if she understood what he was saying. San then apologised to him saying “sorry sir”.[^54]
+
+76     As for his statement in P3 at \[A2\] where he mentioned that he had swung his hands “in the sky in a gesture which slapped \[San\]”, the Accused explained that since San appeared as if she did not want to listen to him, he swung his hand to indicate that he also did not want to listen to her and hit or touched her face accidentally. During cross-examination, the Accused explained that he and San were bending over to look at the dirty spot and were standing close to each other. As such when he swung his hand and told her to “shut up”, he knew that it was certainly going to hit her. However, the Accused denied that he slapped San.[^55]
+
+77     The Accused was also referred to his cautioned statement in P6 where he stated:
+
+> “I’m sorry for my actions and I regret it. I know I should not have done it. I treat her like my own daughter. I apologise to her and hope that everything is okay. Please give me a chance as I need to take care of my wife and child. I have diabetes.”
+
+The Accused explained that he had told the recording officer that he did not intentionally hit San but regretted having gestured while he talked and touched San’s face. During cross-examination, the Accused admitted that he meant that he was sorry for his action of slapping San. This was because Insp Zharif had told him that to hit or touch the face was akin to a slap. The Accused emphasised however that he did not slap San until her head swelled like a “pig’s head”.[^56]
+
+#### Fifth charge – the hot water had accidentally spilled on San
+
+78     According to the Accused, the incident set out in the fifth charge happened sometime past 10pm in the area of the kitchen as seen in Exhibit D3-4. The Accused’s child had asked for milk but San did not respond to Mdm Lee and the Accused’s repeated calls to prepare the milk. Finally, the Accused decided to go to the kitchen to see what San was doing. San told the Accused that she was boiling water to prepare the milk. At that time, San was standing in the position indicated by Mdm Lee in Exhibit D3-2 while the Accused was standing in the position indicated by Mdm Lee in Exhibit D3-3.[^57] The Accused estimated that he and San were standing half a metre apart.[^58]
+
+79     The Accused initially testified that he then opened the kettle (which was placed on the countertop in the same position as the rice cooker seen in D3-2 and D3-3) and found that there was very little water inside. The Accused asked San whether she knew that the kettle would explode. Thereafter, he lifted the kettle with his right hand and told San “it’s very hot” and accidentally spilt hot water on her.[^59]
+
+80     When the Accused was further questioned by his counsel as to how he had held the kettle in his hand and spilled water on San, the Accused told the Court that the milk bottle was filled with hot water and sitting on the countertop. The Accused took the milk bottle, pointed out to San that it was very hot, and questioned how his child could drink from it. As San had set the kettle to boil, the Accused checked the kettle and remarked to San that there was so little water inside, it could explode. While the Accused was standing about 45 centimetres from San, he shook the milk bottle with his right hand and some of the water accidentally spilt from the milk bottle onto San and himself. As San was exclaiming that it was hot, the Accused and Mdm Lee quickly brought her to the toilet to give her a cold shower. The Accused denied throwing the hot water at San intentionally saying that if it was done on purpose, he would have poured the entire bottle of water on her. Instead, he had wanted to put the bottle down but he did it in a “slanted manner”. However, during cross-examination, the Accused agreed that as the milk bottle was filled to the top with boiled water from the kettle, he knew that there was a high risk of the water spilling out when he shook it.[^60]
+
+81     During cross-examination, the Accused was referred to \[A3\] in P3 where he mentioned that some water spilled on San when he was trying to show her that the water in the kettle was hot. The Accused explained that he had “accidentally” tilted the kettle almost horizontally in order to show San that the water inside was hot and he knew that there was a high chance that the hot water would come out of the kettle and splash onto her when he did so. He also knew it likely that San would be scalded by the hot water.[^61]
+
+82     After the incident, the Accused kept apologising to San. Mdm Lee brought San to the room and applied “Dettol cream” for her.[^62] San told the Accused that she did not want to see a doctor because it was “nothing” and “just a small problem.” Although the Accused could not see any sign of the injury in photographs in P12-6 to P12-8 he agreed that San suffered a burn injury (which he described as a red patch) as a result of his actions.[^63]
+
+83     The Accused was referred to his cautioned statement in P8, where he stated:
+
+> “I’m sorry for my actions. I accidentally pour hot water and it also hit me. I immediately help her with her medication and I feel guilty about it. I apologise that my actions had caused such an incident. I have a family to take care of and I also have diabetes.”
+
+The Accused explained that he was sorry because he was holding on to the milk bottle when he spilt the water on San. He also felt rather guilty about his actions because San was scalded and was crying.[^64]
+
+#### The Accused’s evidence concerning the recording of his statements
+
+84     During cross-examination, the Accused testified that he had asked for his statements to be recorded in Mandarin as he understood “a little English”. However, the Accused agreed that although he did not graduate from primary six, he had basic proficiency in English. The Accused also acknowledged that during the trial, he had switched from speaking in Mandarin to English on a number of occasions but added that he could only understand “normal English” and not “too complicated English”.[^65]
+
+85     With regard to P2, the Accused testified that Insp Zharif had read the statement back to him and explained every single word therein in basic English and the Accused had signed to affirm that it was true and accurate. The Accused testified that Insp Zharif had told him that the statement was meant for the Court and agreed that he was therefore very careful when he signed it. Although the Accused initially agreed that several grammatical amendments were made to his statement in P2 on his instructions, he subsequently alleged that the amendments were initiated by Insp Zharif and he was merely told to sign.[^66]
+
+86     As for his cautioned statements in P4 to P9 which were recorded on 11 April 2018, the Accused similarly alleged that he had asked for a translator but none was provided. Instead, Insp Zharif had explained everything to him in “very broken English”. In response to queries from the Court, the Accused clarified that each time his statement was recorded, he had expressly told Insp Zharif that he could not really understand what Insp Zharif said in English and had asked for a translator. In response, Insp Zharif would invariably promise to explain everything slowly in the most basic English to him. The Accused also alleged that during the recording of his cautioned statements, he spoke in a mixture of Malay and Mandarin to Insp Zharif and the latter had nodded to indicate that he understood. The Accused added that when Insp Zharif had difficulty explaining or expressing himself, he would resort to using body language.[^67]
+
+87     During cross-examination, the Accused also alleged that Insp Zharif had largely copied his cautioned statements in P4, P5, P6, P8 and P9. He explained that when Insp Zharif asked him to state his defence in the cautioned statements, he told Insp Zharif that he did not know English and asked Insp Zharif to help him. Insp Zharif then started writing each statement silently, and when he was done with a statement, he would read it to the Accused and ask the Accused if it was correct. The same process would be repeated for each cautioned statement. Insp Zharif also told the Accused that the contents of the statements were more or less the same, “except that the story would be changed differently”. The Accused later explained that he was not saying that everything was made up by Insp Zharif because he did give a “rough statement” to the officer. However, there were a number of things he did not know how to say in English. The Accused also affirmed that the contents of his statement in P5 came from him although the Insp Zharif had changed some of the words he used.[^68]
+
+88     The Accused explained that although the word “slapped” appeared in his statements, he did not actually slap San but had touched or tapped her on the face to ask her to look at him. However, when he told Insp Zharif that he had merely touched San’s face, the officer told him that it amounted to a slap and recorded it as such in the statements.[^69]
+
+89     During cross-examination, the Accused disagreed that a slap meant a forceful blow with an open palm. To him, a slap was a forceful blow which would lead to swelling, bleeding or a visit to a hospital; while a tap would be a non-forceful touch. He agreed however that he understood a slap to be distinct from a tap and would not use the terms interchangeably.[^70]
+
+90     Specifically, the Accused did not use the word “slap” when \[A6\] of P2 was recorded. However, even though the Accused told Insp Zharif in English that he “touched” San’s face, and despite his objections, the officer said to touch a person’s face was equivalent to slapping the person.[^71]
+
+### Mdm Lee’s evidence
+
+91     Mdm Lee told the Court that San was “very good” during the first two years of her employment with the family. According to Mdm Lee, San’s employment contract was extended to 2017 because Mdm Lee regarded San as her daughter and could not bear to lose her. However, San would sometimes lie to Mdm Lee, and failed to perform tasks which she had promised to do. In addition, San initially told Mdm Lee that she had no boyfriend. She subsequently revealed that she had a boyfriend but later said they had broken up.[^72]
+
+92     As for the handwritten notes in D1 (see \[60\]), Mdm Lee testified that she had written them to “deceive” and “scare” San because San was not serious about her work and was always playing. Mdm Lee had returned home to find the house messy and vented her anger by writing this. Mdm Lee was upset that San’s family members had called her many times and was angry with San for watching a Myanmar television programme very loudly. In response, San had knelt down to ask Mdm Lee for forgiveness. Mdm Lee added that she did not deduct any of the amounts written in the note from San’s salary as she would have forgotten the incidents within a few days.[^73]
+
+93     Mdm Lee paid San’s salary on the 30th of each month and placed the money in a drawer. She explained that after San had worked for six months, her salary was initially placed in a bank account. Subsequently, San requested that Mdm Lee help her safekeep the cash as San was tempted to spend the money when she went out with Mdm Lee. Mdm Lee explained that her family’s passports were kept in the drawer together with some watches and only she and the Accused had the key to the drawer. Whenever San needed money, Mdm Lee would take it out of the drawer for her. However, there was an incident when Mdm Lee discovered the handphone that she had previously confiscated from San and placed in the drawer was charged up. There were also recent photographs in the phone. When Mdm Lee asked San if she had opened the drawer, San told her that she had used the Accused’s key to open it. Mdm Lee was not aware of any attempt by San to open the drawer with a screwdriver.[^74]
+
+94     During cross-examination, Mdm Lee agreed that there were occasions when she was unhappy with San and she would “punish” San by not speaking to her. After two days, San would feel sad and cry. Mdm Lee also explained that she had confiscated San’s phone because San had used the phone too frequently and she punished San like she would a ten-year-old child. Mdm Lee explained that she had brought San to buy the phone and that San did not arrive in Singapore with her own phone. A representative of the maid agency told Mdm Lee that she could confiscate the phone so Mdm Lee decided to put the phone in the locked drawer.[^75]
+
+95     Mdm Lee testified that the photographs in D2-1 to D2-3, D2-6 and D2-10 were taken during a trip to Bangkok, Thailand from 18 or 19 to 23 May 2017, while the photographs in D2-4 and D2-5 were taken during a family trip to Sentosa with San.[^76]
+
+96     In relation to the charges against the Accused, Mdm Lee recalled an incident in 2016 when San was injured by hot water. At that time, Mdm Lee was changing her child’s diapers in the room when San and the Accused were talking in the kitchen. She heard San shouting loudly and saw San standing in the kitchen just outside the toilet. San was holding onto her tummy and her body was wet. The Accused told Mdm Lee that San was scalded whereupon Mdm Lee brought San to the room to apply medication for her. Mdm Lee also scolded the Accused and San for playing with hot water. Mdm Lee bandaged San and continued to apply medication for her over a week until she was healed. Mdm Lee testified that the injury was at San’s waist (though Mdm Lee could not recall which side). Initially there was redness. Blisters subsequently developed in the area. Eventually, the blisters dried up and healed without leaving a mark. When shown the photograph in P12-8, Mdm Lee agreed that the discolouration that could be seen was all that remained of the burn injury.[^77]
+
+97     As regards the events of 14 July 2017, Mdm Lee testified that she had previously instructed San to prepare her child’s traditional costume for use on that day. That morning, when she checked with San on this, San started searching for the clothes. Mdm Lee was angry and asked San what she had been doing for the past three days. Mdm Lee also started throwing things in her anger. San responded angrily saying that it was her fault. She gave Mdm Lee a cane and asked Mdm Lee to hit her. When Mdm Lee refused to hit San and threw the cane aside, San opened the door and wanted to jump down. Seeing this, Mdm Lee rushed after San and held onto her while shouting for help at the same time. Mdm Lee surmised that San had threatened to jump down as she wanted to go home and marry her boyfriend.[^78]
+
+### Mandy’s evidence
+
+98     Mandy was a sales executive at the maid agency.
+
+99     According to Mandy, the “Foreign Domestic Worker’s Declared Items” form in D1 showed that San did not bring any handphone with her when she first arrived to work at the Accused’s house.[^79]
+
+100    Mandy testified that she had never seen the handwritten note in D1 before (see \[60\]). It was also the policy of the maid agency to leave it to the employer and foreign domestic worker to agree on the frequency the latter was to use the phone to call home. The agency would not give any instructions in this regard to the employer nor tell the employer to confiscate the maid’s phone. As for the maid’s salary, the employer should either credit it to the maid’s bank account or pay her in cash. Mandy added that she would not instruct an employer to keep the maid’s salary as this was against the law.[^80]
+
+101    Mandy told the Court that San did not make any previous complaints about the Accused. However, after San was handed over to her by the police, Mandy asked San what had happened and San told Mandy that she was under a lot of stress from her employer and tried to commit suicide. After Mandy spent some time comforting San and allowed her to call her parents, San told Mandy that she was beaten up and splashed with hot water.[^81]
+
+## Analysis of the evidence and the Court’s findings
+
+### Weight to be ascribed to San’s statements
+
+102    This was an unusual case in which San, the alleged victim of the crime, never came to Court to testify against the Accused. While I had admitted her statements into evidence at the conclusion of the ancillary hearing, I remained acutely mindful that the Court should nonetheless be circumspect and exercise caution when considering the weight to be accorded to these statements. I was fully cognisant that these were out of court statements which were untested by cross-examination. However, it did not mean that the Court should altogether disregard them or give them no weight at all.
+
+103    In deliberating the issue of weight to be placed on San’s statements, I first considered the defence’s arguments in their closing submissions that the Court should not place any weight on them. The defence submitted that Insp Zharif and IO Tay had done a shoddy job in their investigations and the answers they had obtained from San (as recorded in her statements) were incomplete, lacked thoroughness and/or were unreliable. In particular, the defence submitted that Insp Zharif was evasive on the stand and it could be surmised that his investigations were not thorough due to his lack of experience. The defence also highlighted that although San was sent for medical examination and referred to the IMH, the medical reports were not admitted into evidence. This indicated that they were either immaterial or adverse to the prosecution’s case. The defence submitted that the injuries found in the photographs in P12 were not medically verified and could have been caused during the struggle to hold San back when she was attempting suicide. The defence also pointed out that Insp Zharif did not direct for complete photographs to be taken of the Accused’s flat and nor did he show P11 to San for her to confirm that it was indeed the bottle that was thrown at her. Further Insp Zharif’s interpretation of what San meant when she said in P16 that: “I am very sorry for today’s action” and “I’m very stressful” were not clearly stated in San’s statements. The defence also argued that the statements recorded by Insp Zharif and IO Calvin lacked specificity as to date, time and location as well as to how the alleged incidents happened, including the intensity of the slaps mentioned by San. The defence further alleged that answers to the questions in P22 were not those of San’s but had instead been “paraphrased” by Insp Zharif. Finally, the defence argued that San was not truthful and was making self-serving statements when she stated in P16 (at \[A18\]): “… I also want to get back my handphone and belongings from my employer because I want to call my parents.” This was because San did not have a mobile phone when she started work for the Accused.
+
+104    It was interesting to note that while the defence raised concerns in their submissions on the veracity of San’s statements, the defence did not present substantive evidence, through the Accused or otherwise, to specify the parts which were inaccurate, unreliable, or untrue, or to directly contradict the contents of her statements. On the contrary, it became quite apparent during the defence’s case that the defence was not alleging that San had made up all the incidents mentioned in her first statement, P16. Indeed, the Accused was referred to P16 several times by his counsel during examination-in-chief and he had largely affirmed that the events mentioned by San in the statement did take place.
+
+105    Furthermore, I agreed with the prosecution’s submissions that San’s statements were internally consistent on the material accounts of abuse. I also observed that the contents of San’s statements were consistent with, and found supported in, other evidence before the Court. For instance, her allegation in \[4\] of P16 that she told a fellow Myanmar maid living upstairs about being assaulted was corroborated by Htay’s testimony. Her account of the trigger for the incident on 4 July 2017 at \[9\] and \[10\] of P16 largely mirrored Mdm Lee’s account.
+
+106    Further, reading San’s statements in P16, P21 and P22 objectively, it was apparent that she had a soft spot for the Accused’s family, especially Mdm Lee and the child. She also candidly acknowledged that the Accused and Mdm Lee treated her like a daughter and did not want the Accused to be punished for what he had done. These accorded with the Accused’s and Mdm Lee’s testimonies concerning their relationship with San and, more importantly, militated against the allegations that she would lie callously against the Accused to the police.
+
+107    In my view, the defence’s submissions relating to the absence of medical evidence of the injuries caused to San were not material to the question of weight to be placed on San’s statements. I also did not see how the overall quality of Insp Zharif’s investigative work would materially affect my finding of the reliability of San’s statements. As for the arguments relating to the lack of particularisation or details in her statements, I was of the view that this was neither here nor there. If at all, it could be more of a detriment to the prosecution rather than the defence, as the burden was on the prosecution to present evidence to prove the elements of the charges against the Accused. Finally, in relation to San’s answers in P22, I noted that the answers were read back and interpreted in Myanmar language to San by the interpreter Mr Tin Hlaing, and San had signed to confirm that the information given was true and correct.
+
+108    It was also pertinent to note that the defence’s suggestion that San had falsely alleged abuse in P16 so she could be released from custody, did not sit well with Htay’s evidence concerning San’s _prior_ complaints. In particular, Htay had testified that sometime in December 2016 (i.e. more than six months before San attempted suicide on 14 July 2017) she had overheard San crying and telling her mother on the phone that her employers had _slapped_ her and _splashed hot water_ on her. This clearly showed that San’s allegations of assault were not new and certainly did not arise only when P16 was recorded. In this regard, I also did not find the fact that San referred to the mobile phone which Mdm Lee bought for her as “my handphone” to indicate that she was dishonest.
+
+109    In my view, the above demonstrated that San’s statements were generally accurate, reliable and worthy of credit. I therefore accorded due weight to her statements, especially where they were found to be consistent with, or corroborated by other evidence before the Court, including the Accused’s testimony and / or his statements. The specific instances where I made reference to San’s statements in coming to my decisions on the charges would be highlighted below.
+
+### Weight to be placed on the Accused’s statements
+
+110    Turning to the Accused’s statements, the defence mounted a two-fold challenge to the weight to be given to them. Firstly, the defence alleged that the Accused was handicapped in the English language and that he had asked for his statements to be recorded in Mandarin but was not given an interpreter. Secondly, the Accused raised specific instances where Insp Zharif had allegedly twisted the Accused’s words and falsely incriminated the Accused.
+
+111    I would first deal with the Accused’s allegations relating to his lack of proficiency in the English language and the impact this had on the accuracy (or otherwise) of his statements. As for the more specific contentions, they would be dealt with later in these grounds when I delve into the evidence relating to the charges.
+
+112    The Accused’s position was that he did not complete his Primary School Leaving Examinations and his command of English was poor. Hence, he had asked for an interpreter each time his statement was recorded so that he could give his statements in Mandarin, but none was provided. While the prosecution did not seek to dispute the Accused’s lack of academic qualifications, the prosecution’s case was that the Accused was sufficiently conversant in English to provide his statements to Insp Zharif, as well as understand them when they were read back to him before he signed. Further, the Accused did not ask for his statements to be recorded in Mandarin nor did he request for an interpreter.
+
+113    In assessing the evidence on this point, it was pertinent to note that the Accused admitted during cross-examination that the allegations concerning the accuracy of his statements were not included in his Case for the Defence.
+
+114    I also noted that Insp Zharif had testified that he found the Accused to be conversant in English. While Insp Zharif candidly admitted that he could not recall specifically if the Accused had asked for an interpreter, he said that if the Accused had requested for an interpreter, he would have made one available.
+
+115    Further, while the Accused claimed that he had requested for an interpreter each time his statements were recorded on 17 July 2017, 5 October 2017 and 11 April 2018, it was not disputed that the Accused nonetheless proceeded to provide his statement in English when his alleged requests were not acceded to. In Court, when questioned as to why he provided his statements in English, the Accused’s explained that this was because Insp Zharif was “the police” and that he promised to explain everything slowly to the Accused in “very basic” or “broken” English.[^82] I found the Accused’s explanation contrived and illogical. This was because, if the Accused’s request for an interpreter was denied as he claimed on 17 July 2017 and, assuming he had difficulty understanding Insp Zharif’s “very basic” or “broken” English, he would surely have insisted on an interpreter on 5 October 2017 and/or 11 April 2018. On the other hand, if he found that he was able to communicate with Insp Zharif in English on 17 July 2017, there would have been no reason for him to repeat his request for an interpreter on 5 October 2017 and 11 April 2018.
+
+116    Indeed, if the Accused had explicitly and persistently asked for an interpreter each time his statements were recorded, there was really no reason for Insp Zharif to repeatedly deny the Accused’s legitimate request. In fact, Insp Zharif had arranged for the services of a Myanmar language interpreter each time he recorded San’s statements. As Mandarin was a commonly-used language in Singapore, it would be inexplicable for Insp Zharif to refuse to obtain the assistance of a Mandarin speaking colleague or a certified interpreter to facilitate the recording of the statements.
+
+117    On the other hand, Insp Zharif’s evidence that the Accused was able to provide his statements in English was buttressed by the Accused’s own behaviour in Court. The Accused had, on several occasions, intuitively lapsed into English when providing answers to questions posed to him, sometimes even without waiting for the questions to be interpreted in Mandarin. In my view, the Accused was clearly attempting to downplay his competence in the English language when he claimed in Court initially that he only understood “a little English”. Indeed upon further questioning by the prosecution, the Accused eventually conceded that he could understand “normal English” and that P2 and P3 were recorded accurately.[^83]
+
+118    That the Accused’s alleged lack of proficiency in the English language was an afterthought was made even more apparent when the Accused was cross-examined on his cautioned statements. It was only when he was brought through the contents of his cautioned statements by the prosecution that the Accused alleged, for the first time, that he was speaking to Insp Zharif in a mixture of Malay and Mandarin and that Insp Zharif had nodded to indicate that he understood. When pressed, the Accused prevaricated between agreeing that he only spoke to Insp Zharif in “broken English” and alleging that he also spoke to Insp Zharif “in a mixture of other languages”. Subsequently, the Accused even alleged that Insp Zharif resorted to using “body language” when he had difficulty explaining certain words to the Accused.[^84] In my view, it was most telling that these assertions were never put by the defence to Insp Zharif. The Accused’s evolving accounts also indicated that these were spurious allegations made up by him on the witness stand in an attempt to dissociate himself from the incriminating parts of his statements.
+
+119    Having carefully weighed the evidence before the Court, I accepted Insp Zharif’s evidence and found as a fact that the Accused did not ask for an interpreter when his statements were recorded and had not objected to his statements being taken in English. I also found that the Accused was sufficiently proficient in the language to provide his statements in English and was able to understand them when they were read back to him.
+
+### First charge – throwing a filled Nalgene water bottle at San
+
+120    I now turn to examine the evidence relating to the charges against the Accused. To recapitulate, the first charge under section 336(a) of the Penal Code alleged that the Accused had committed a rash act which endangered the personal safety of others by throwing a filled Nalgene water bottle at San.
+
+121    The defence did not dispute that an incident involving P11 (a Nalgene water bottle) occurred in early 2016, or that P11 was then filled with water. Instead, the Accused’s defence to the charge centred on his claim that the water bottle had accidentally slipped or fallen onto the floor.
+
+122    In evaluating the evidence relating to the first charge, I noted that the Accused had twice admitted in P3 that he had thrown the water bottle at San as he was angry with her. Firstly, in the third sub-paragraph of \[A2\], he mentioned that “… She then threw tantrum again where I took a water bottle and threw at her however it did not hit her.” The Accused reinforced this in \[A3\], where he stated:
+
+> “The water bottle incident occurred during the second slapped incident. She was throwing tantrum and had ignored me. I was angry at her hence I took a water bottle on the table and threw at her however it did not hit her.”
+
+123    When asked specifically in \[Q4\] whether the incident was accidental or deliberate, the Accused affirmed in \[A4\] that he had thrown the water bottle at San _deliberately_ while emphasising again that it did not hit her.
+
+124    In Court, the Accused gave differing versions concerning how the alleged accident occurred. During examination-in-chief, the Accused testified that the bottle was accidentally _“pushed”_ to the floor. Subsequently, he explained that he had wanted to put the bottle on the table but did not do so properly. As such, the bottle was _misplaced_ and slipped to the ground. However, during cross-examination, the Accused changed his tune and stated that he was letting San smell the bottle when it accidentally _slipped out of his hand because it was wet_.
+
+125    When the Accused was confronted with his admissions in P3 by the prosecution, he alleged that during the recording of the statement, he had told Insp Zharif that he did not throw the water bottle deliberately. In considering the weight to be placed on the Accused’s admissions, I noted that this material allegation was, once again, never put to Insp Zharif by the defence. More crucially, the Accused was unable to provide a coherent explanation as to why, if this were true, he would have signed P3 after it was read back to him. When pressed, the Accused again resorted to blaming his poor command of English:
+
+> Q    Yes. And when he read it back to you, you would have been – he would have read to you, “I had thrown the water bottle at her deliberately”, correct?
+
+> A    Well, I --- I did tell him that I did not throw the bottle, but I gave the bottle to her to smell it, but it slipped out of my hand.
+
+> Q    Well, I mean, if that was your version and if he had in fact written down, “I had thrown the water bottle at her deliberately”, you would have asked him to correct that sentence, wouldn’t you?
+
+> A    Yes, but I do not really understand English fully. There are some things I don’t understand.
+
+> Q    Well, I mean, you understood it enough to be able to reply if it was accidental or deliberate, right?
+
+> A    Yes, but I did tell him that I did not do it deliberately.
+
+126    Having carefully examined the evidence, I could not discern any reason for Insp Zharif to twist the Accused’s words in P3 to incriminate the Accused. Indeed, as pointed out by the prosecution to the Accused during cross-examination, Insp Zharif had recorded in the very next sentence in the same paragraph (\[A4\]) that the “hot water” incident (relating to the fifth charge) was “accidental”. Indeed, in the Accused’s earlier statement in P2 which was also recorded by Insp Zharif, the Accused had stated in \[A7\] that his hand movement caused the water bottle to “accidentally” slip out of his hand. It was again Insp Zharif who subsequently recorded the cautioned statement in P7 where the Accused stated that he did not throw the water bottle deliberately and that “it was accidental”. In my view, the above clearly ran contrary to any insinuation from the Accused that Insp Zharif had put words in his mouth to falsely implicate him.
+
+127    Further, and flowing from my earlier analysis, I was not persuaded that the Accused’s command of English was so dismal that he could not understand the distinction between the words “deliberate” and “accident” when P3 was read back to him before he signed. Therefore, having carefully considered the evidence, I found that the Accused’s admissions as set out in P3 accurately reflected what he had told Insp Zharif.
+
+128    In deliberating the evidence relating to the first charge, I had also carefully considered the Accused’s statements in P2 and P7, in which he claimed that the episode involving the water bottle was an accident. In considering which of his two versions to accept, I noted that while the Accused had clearly, unequivocally and repeatedly affirmed in P3 that he had deliberately thrown the water bottle at San out of anger, his accounts of how the water bottle had fallen accidentally were vague and inconsistent. In addition to the different versions set out earlier, the Accused had stated in P2 that he was saying “how to drink like that” when his “hand movement” caused the water bottle to accidentally slip out of his hand.
+
+129    In discerning which version was the truth, I also had regard to San’s statement in P21 where she mentioned an incident during which the Accused had thrown a water bottle at her but did not hit her. In \[A3\] San stated:
+
+> “The incident where he threw the water bottle happened after the third incident that he slapped me. \[The Accused\] continued scolding me for not cleaning the kitchen properly. He was angry and took a water bottle on the table and throw at me however it did not hit me.”[^85]
+
+130    Having assessed all the evidence in relation to the first charge, I found that the Accused’s admissions in P3 to be the truth and that he had indeed thrown P11 at San deliberately.
+
+131    I next considered whether the Accused’s actions would amount to a rash act which would endanger the personal safety of others. As set out by Chan Seng Onn J in _PP v Lim Choon Teck \[_2015\] 5 SLR 1395 at \[30\], advertence to risk would generally be an essential element of rashness. The element of rashness would be satisfied when the offender was actually advertent to the potential risks which might arise from his conduct but proceeded anyway despite such advertence. It our case, it was not disputed that P11 was filled with water, and that San was standing within striking distance (1.8 metres) from the Accused. Under these circumstances and given my finding that the Accused had _deliberately thrown P11 at San_, he must have been cognisant of the risk of the water bottle hitting her. Thus, I was satisfied that the Accused had acted rashly in doing so. I therefore found him guilty and convicted him of the first charge.
+
+### Second to fourth charges – slapping San’s face
+
+132    I now turn to consider the second to fourth charges which related to three separate incidents of slapping. In this regard, it was pertinent to note that the Accused had admitted to slapping San on various occasions in his statements in P2 and P3. In Court, the Accused did not dispute the date of the offences as stated in the respective charges.[^86] The Accused’s defence to the slapping charges rested, in the main, on his claim that he had merely tapped San’s face to get her attention. He also alleged that he had used the English word “touch” to describe his actions to Insp Zharif.[^87] However, Insp Zharif told him that this should be considered a slap and proceeded to record the statements using the term “slap”. In addition, in relation to the fourth charge, the Accused claimed that he had touched or hit San’s face accidentally.
+
+133    I shall first deal with the Accused’s overarching claim that Insp Zharif had substituted what the Accused told him was a “touch”, with the word “slap”. Having closely scrutinised the evidence, I was of the view that the Accused’s allegation was a mere afterthought concocted by him in an attempt to dissociate himself from his clear admissions to slapping San in his statements.
+
+134    Firstly, it was most telling that this material aspect of the Accused’s defence was never put to Insp Zharif.
+
+135    Secondly, the Accused gave evidence that he understood the distinction between the terms “slap” and “tap” and would not use them interchangeably.[^88] Yet, the Accused was unable to provide a cogent explanation for agreeing to his actions being described as a “slap” multiple times in his statements:
+
+> Q    Okay. So you say you told him, “touched”, correct?
+
+> A    Yes.
+
+> Q    Yes. But in fact, it was recorded as “slapped”, correct?
+
+> A    Yes.
+
+> Q    Yes. And if you had in fact said “touched”, and he had recorded it as “slapped”, surely, you would have objected to it.
+
+> A    Yes, I did, but he said these are the same. He said, “To touch the face is to give the person a slap.”
+
+> Q    But that was not your understanding of “slap”, right?
+
+> A    Yes.
+
+> Q    So, you wouldn’t have agreed to him wri---writing “slap”, would you?
+
+> A    Yes, but because the police officer said that these are two---the---the 2 are the same.
+
+> Q    Yes. But even if he told you they’re the same, you wouldn’t have blindly agreed to it, would you?
+
+> A    Yes. But---Yes, but this case came out of a sudden because at that time, she wanted to jump down from the building.
+
+> Q    I don’t understand how that relates to your use of the word “slap”. Maybe you want to explain?
+
+> A    Well, the slap was recorded here because the police had asked me what did I do, what---what did I do to touch her face.
+
+> Q    Alright. And so, if he asked you what did you do to touch her face, how did it become “slap”?
+
+> A    I do not know.
+
+> Q    I put it to you, Mr. Ong, that it says there, you slapped her because that’s the exact word you used to the investigating officer.
+
+> A    I do not know.
+
+136    Furthermore, in both P2 (at the third sub-paragraph of \[A6\]) and P3 (at the fourth sub-paragraph of \[A2\]), the Accused mentioned an incident where San admitted to stealing the key to a drawer and that he had slapped her. In Court, the Accused did not dispute that he had indeed slapped San on that occasion and further explained that he had used “medium” force. In my view, this directly contradicted the Accused’s claim that he had all along told Insp Zharif that he had only “touched” (or tapped) San’s face, and buttressed the prosecution’s position that the statements were recorded accurately by Insp Zharif.
+
+137    It was also pertinent to note that when the Accused was confronted directly with the charges for slapping San while his cautioned statements P4, P5 and P6 were recorded, he never once mentioned in his defence that he did not slap her, or that he had merely touched or tapped her face. Instead, the Accused responded to the charges by apologising for his actions and pleading for leniency. This further reinforced the veracity of the Accused’s admissions in P2 and P3 of slapping San.
+
+138    I now turn to examine the evidence specific to each charge. In relation to the second charge, the Accused had described the first occasion he slapped San in P2 at \[A6\] (second sub-paragraph). The Accused stated that he was taken aback by San’s rudeness and “slapped” the left side of her face using the back of his right hand. In Court, although the Accused sought to downplay the incident by describing his action as a touch or tap, he clarified that the back of his right hand had come into contact with the _right side of San’s face_.[^89] It was also pertinent to note that the Accused’s admission in P2 that he had _slapped San with the back of his right hand_ dovetailed San’s account at \[A5\] of P16 where she stated that the Accused had _slapped her on the right side of her face using the back of his right hand_.
+
+139    Indeed, when testifying during examination-in-chief in relation to the second charge, the Accused agreed that when he allegedly touched San’s cheek to get her to look at him, San responded by saying “you cannot slap me. My father also never slap me” as stated in her statement in P16 at \[3\]. To me, it would be illogical for San to react to a mere touch or tap in this way. Instead, this clearly indicated that San was, as mentioned in her statement, reacting to being _slapped_ by the Accused.
+
+140    In relation to the third charge, the Accused had admitted in P3 (in the third sub-paragraph of \[A2\]) that during an incident relating to him sending his mother to the hospital, he had confronted San for failing to pick up his calls and “tapped” San’s head with his finger in a manner “which could be assumed as a slap”. That the Accused had in fact slapped San during this incident was reinforced by San’s statements in P16 (at \[A7\]) and P21 (at the second sub-paragraph of \[A2\]) where she provided a consistent and detailed description of the same event which largely mirrored that given by the Accused in P3. San had stated unequivocally in both her statements that the Accused had slapped her because he believed that she had stepped out of the house.
+
+141    The prosecution’s case in relation to the third charge was further strengthened by the Accused’s response to the same in his cautioned statement in P5. As highlighted earlier, instead of mentioning his defence, the Accused provided reasons to explain his actions saying:
+
+> I’m sorry for my mistake. It was not deliberate as I was _worried about my son_ as she left him alone at home. I was _not emotionally happy_ with what she did. Please give me a chance as I am the sole breadwinner of my family. I also have diabetes.
+
+> (emphasis added)
+
+142    When confronted with P5, the Accused again resorted to casting aspersions on Insp Zharif, alleging that the latter had “copied” his cautioned statements in P4, P5, P6, P8 and P9. He also alleged that Insp Zharif had just written down “whatever \[Insp Zharif\] thought of”. Unsurprisingly, these allegations were never put to Insp Zharif. In addition, after it was pointed out to him that the contents of the cautioned statements were not the same and being challenged to substantiate his allegations, the Accused eventually conceded that Insp Zharif did not make up the contents of his statements. In my view, this clearly showed that the Accused was grasping at straws in an attempt to avoid explaining why his cautioned statements directly contradicted his defence.
+
+143    In relation to the second and third charges, it was also germane to consider the Accused’s claim that he had merely “touched” or “tapped” San’s face in the context of his description of a “slap”. Specifically, the Accused disagreed that a slap was “a forceful blow with an open palm”. Instead, he told the Court that to him, a slap was a forceful blow that would cause bleeding or swelling or result in the victim being hospitalised.[^90] In my view, the Accused had artificially set the bar for a slap higher than what that the term was commonly understood to mean so that he could conveniently claim that he did not “slap” San, since there was no medical evidence of any “bleeding” or “swelling” suffered by San and she was not conveyed to the hospital.
+
+144    Finally, in relation to the fourth charge, the Accused admitted in P3 (at the second sub-paragraph of \[A2\]) that during an incident where he asked San to clean the kitchen, he had “swung \[his\] hand in the sky in a gesture which slapped her”. San’s statements in P16 (at \[A6\]) and P21 (in the third sub-paragraph of \[A2\]) attested to the same dispute about cleaning the kitchen during which the Accused had slapped her.
+
+145    In Court, the Accused claimed that he swung his hand as he did not want to listen to San anymore and he thought he might have accidentally hit or touched San’s face. However, during cross-examination, the Accused agreed that he and San were standing about 26 centimetres apart, as the kitchen where they were at was very small. The Accused also conceded that _he knew that he was certainly going to hit San with his hand when he swung it_.[^91] To my mind, it was also important to note that the Accused did not mention an accident in any of his cautioned statements relating to the slapping charges.
+
+146    In view of the above, I found that as a fact that the Accused had indeed intentionally slapped San’s face as alleged in second to fourth charges. Further, based on the evidence before the Court, including the Accused’s descriptions of the circumstances leading to him slapping San, I agreed with the prosecution’s submissions that he had done so with the intention, at the very least, of causing bodily pain to San. San had also stated in P22 that she felt pain after each slap and cried each time she was slapped by the Accused. As such, I found the Accused guilty and convicted him on the second to fourth charges.
+
+### Fifth charge – splashing hot water on San
+
+147    I now turn to explain my findings with regards to the fifth charge which concerned the splashing of hot water on San.
+
+148    It was largely undisputed during the trial that this arose in the context of a dispute between the Accused and San relating to boiling water to make milk for the Accused’s child. It was also not disputed that the Accused had splashed hot water on San during the incident, causing a burn injury at her waist or stomach area. The main issue in contention was whether it was an accident or an intentional act on the part of the Accused to splash the water on San.
+
+149    San maintained in both her statements in P16 (at \[5\] and \[A1\]) and P21 (at \[A3\], \[A5\] and \[A4\][^92]) that the Accused had “poured” or “thrown” the hot water _from the kettle_ at her _deliberately_ when she disagreed that the water was hot enough. While the Accused took the position in his statements as well as in his testimony in Court that this was an accident, he gave several conflicting versions concerning how the accident occurred:
+
+> (a)     At second sub-paragraph of \[A6\] in P2, the Accused mentioned that the hot water accidentally spilled on San when _she “threw her hands around” and hit his hand_ which was holding _a milk bottle_ containing the hot water.
+
+> (b)     In P3 at \[A3\], the Accused said that San was “throwing tantrum” and insisting that the water was not hot. He was _holding the kettle_ to show her that the water was hot and the water accidentally spilled on her.
+
+> (c)     Next, during his examination-in-chief, the Accused initially maintained that he was _holding the kettle which had “very little water”_ and accidentally spilt the hot water on San.
+
+>> And San Pa Pa said she was making milk for my child. And I replied, “Okay. But why are you taking so long?” When she said that was boiling water, so I opened up the kettle and saw that there was very little water inside. And I asked her does she know that the kettle will explode. And thereafter, I lifted up the kettle and say “It’s very hot” and then I accidentally spilt the hot water on her.[^93]
+
+> (d)     When asked to elaborate by his counsel, the Accused explained that he was standing about 45 centimetres from San and was _shaking the milk bottle._ As it was too full, some hot water spilled onto San.
+
+>> Q    Just moments ago, you gave the evidence, “I accidentally spill the hot water on her.” Can you explain to me with the---imagine the kettle is in your hand as well you said it was, how did you accidentally spill the water on her?
+
+>> A    So, when she was making milk, she was at the tabletop near to the milk powder. Well, she had poured a large amount of water into the milk bottle and I took the milk bottle, and I told her that “This is so hot, how can my boy drink it?” I also checked on the kettle because she was still boiling water and I told her that there was so little water in the kettle, it could explode. And the milk bottle was not kept properly and I was saying “This is so hot, how can he drink it” and I was shaking the bottle at the same time. So, perhaps the milk bottle was too full at that time, so some of the water spilt onto her and myself. Because she was exclaiming that that it was very hot, so I took care of her first, and my wife and I brought her together to the toilet.
+
+>> Q    Let me take you back to the---you said that there was a milk bottle and there is a kettle. Can I just ask from which device did the water spill from?
+
+>> A    It was the milk bottle.
+
+>> Q    It was the milk bottle?
+
+>> A    Yes.[^94]
+
+> (e)     Subsequently, in response to further questions from his counsel, the Accused alleged that he had _wanted to put the bottle down but did it in a “slanted manner”_, resulting in the water spilling out.[^95]
+
+> (f)     During cross-examination, the Accused initially maintained his version of _shaking or jerking the milk bottle_. The Accused also admitted that as the _milk bottle_ was almost full, he knew that there was a high risk of hot water coming out when he shook it.[^96]
+
+> (g)     However, when shown his statement in P3 at \[A3\], the Accused conceded that he did not mention a milk bottle in the statement. Once again, the Accused changed his testimony and admitted that he was in fact _tilting the kettle to an “almost horizontal position”_ to show San that the water was hot, when the water spilled onto her.
+
+150    In my view, the Accused’s vacillations in his account and inability to provide a clear or consistent version of how he had, as he claimed, accidentally scalded San, reinforced the prosecution’s case it was not an accident after all.
+
+151    The Accused’s insistence that he had tilted the kettle “accidentally” to show San the dangers of boiling so little water in the kettle, also could not stand up to scrutiny. Upon further probing by the prosecution, the Accused conceded that the distance between the kettle and San was less than 36 centimetres and he knew that when he tilted the kettle, there was a high likelihood that the water would splash out of the kettle onto San and that she would be scalded. The Accused also admitted that despite knowing this, he nonetheless proceeded to tilt the kettle at San.[^97] This further bolstered the prosecution’s position that the Accused had intentionally splashed hot water on San during the incident.
+
+152    In view of the above, I found as a fact that the Accused had splashed hot water at San from the kettle knowing that it was likely that he would thereby cause hurt to her. I therefore found the Accused guilty and convicted him of the fifth charge.
+
+## Sentencing
+
+### Prescribed Penalties
+
+153    In relation to the first charge, the punishment prescribed by section 336(a) of the Penal Code was an imprisonment term which may extend to 6 months, or a fine which may extend to $2500, or both.
+
+154    For the second to fourth charges, section 323 of the Penal Code provided for a term of imprisonment which may extend to 2 years, or a fine which may extend to $5000 or both.
+
+155    For the fifth charge, section 324 of the Penal Code stated that the offender shall be punished with imprisonment for a term which may extend to 7 years, or with fine, or with caning, or with any combination of such punishments.
+
+156    In addition, section 73(2) of the Penal Code would apply to the offences in the second to fifth charges as they fell into the category of offences described in section 73(1)(a) of the Penal Code as “an offence of causing hurt or grievous hurt to any domestic maid … punishable under section 323, 324 or 325”. As at the date of the offences, section 73(2) of the Penal Code stated:
+
+> “Where an employer of a domestic maid or a member of the employer’s household is convicted of an offence described in section (1)(a) …, the court may sentence the employer of the domestic maid or the member of his household, as the case may be, to one and a half times the amount of punishment to which he would otherwise have been liable for that offence.”
+
+157    Hence, for the second to fourth charges, the Accused would be liable to be punished with imprisonment of up to 3 years or a fine up to $7500 or with both; and for the fifth charge, the maximum imprisonment term would be 10½ years.[^98]
+
+### Antecedents
+
+158    The Accused was untraced.
+
+### Prosecution’s Submissions on Sentence
+
+159    The prosecution tendered written submissions on sentence and supplemented these with oral submissions in Court. The prosecution sought a global sentence of at least 16 months’ imprisonment with the following individual sentences against the Accused:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="23.7352529494101%"> <col width="27.254549090182%"> <col width="25.2149570085983%"> <col width="23.7952409518096%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Charge</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Brief details</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Punishment Section</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Individual Sentence sought</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">MAC-903724-2018</p><p align="justify" class="Table-Para-1">(first charge)</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Throwing a filled Nalgene water bottle at San</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Section 336(a) Penal Code</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">At least 3 weeks’ imprisonment</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">MAC-903725-2018</p><p align="justify" class="Table-Para-1">(second charge)</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Slapping San’s face in late 2015</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Section 323 read with section 73(2) Penal Code</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">At least 2 months’ imprisonment</p><p align="justify" class="Table-Para-1">&nbsp;</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">MAC-903726-2018</p><p align="justify" class="Table-Para-1">(third charge)</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Slapping San’s face sometime in 2016</p><p align="justify" class="Table-Para-1">&nbsp;</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Section 323 read with section 73(2) Penal Code</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">At least 2 months’ imprisonment</p><p align="justify" class="Table-Para-1">(consecutive)</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">MAC-903727-2018</p><p align="justify" class="Table-Para-1">(fourth charge)</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Slapping San’s face sometime in late 2015 or early 2016</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Section 323 read with section 73(2) Penal Code</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">At least 2 months’ imprisonment</p><p align="justify" class="Table-Para-1">(consecutive)</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC-934280-2018</p><p align="justify" class="Table-Para-1">(fifth charge)</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Splashing hot water on San</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Section 324 read with section 73(2) Penal Code</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">At least 12 months’ imprisonment</p><p align="justify" class="Table-Para-1">(consecutive)</p></td></tr></tbody></table>
+
+  
+  
+
+160    In relation to the sentences for the second to fourth charges, the prosecution submitted that the applicable sentencing framework was that set out in _PP v Tay Wee Kiat_ <span class="citation">\[2018\] 4 SLR 1315</span> (“_Tay Wee Kiat_”) at \[70\] to \[75\].
+
+161    For the second charge, the prosecution submitted that the Accused had perceived that San had been rude to him and slapped her on the cheek with the back of his hand. Chronologically, this was the first instance of abuse and the harm was predominantly physical bodily pain, with no reported injuries. There was also no notable aggravating or mitigating factors present. As such, the prosecution proposed a sentence of at least 2 months’ imprisonment (which was below the indicative starting point of 3 months’ imprisonment as set out in _Tay Wee Kiat_ for cases involving less serious physical and psychological harm). The sentenced of 2 months’ imprisonment was also reconcilable with that imposed on Chia Yun Ling (“Chia”), the co-accused in _Tay Wee Kiat_. Chia had been convicted after trial and was sentenced to 2 months’ imprisonment for a charge of slapping the victim which caused predominantly physical and minor harm. Chia’s culpability was broadly similar to that of the Accused and a similar sentence would be justified.
+
+162    The prosecution further submitted that similar sentencing considerations applied to:
+
+> (a)     the third charge, where the Accused had slapped San as he was dissatisfied with her explanation for not having answered the phone, and presumed she was lying; and
+
+> (b)     the fourth charge, where the Accused had slapped San on her face because he thought she had failed to clean the house properly.
+
+On both occasions, the harm disclosed was again predominantly physical bodily pain with no aggravating or mitigating factors present. The prosecution therefore submitted that a sentence of at least 2 months’ imprisonment per charge would also be appropriate.
+
+163    In Court, the prosecution added that although the Accused had the right to claim trial, when he was confronted with his clear admissions in his statements to having slapped San, the Accused concocted various allegations against Insp Zharif, claiming that the latter had copied his statements and changed the words he intended to use. The Accused only conceded during cross-examination that these were untrue. The Accused also claimed to not be conversant in English at all and could not understand what was written in his statements. Yet, he repeatedly addressed the Court in English during the trial. As the Accused had not shown any remorse, the prosecution urged the Court to treat him like the co-Accused in _Tay Wee Kiat_.
+
+164    Turning to the first charge, the prosecution pointed out that while this was an offence of a rash act, the Accused’s behaviour formed part of a broader pattern of abusive conduct towards San. As he was convicted after trial, it was submitted that a sentence of at least 3 weeks’ imprisonment should be meted out.
+
+165    Finally, in relation to the offence in the fifth charge, the context was that the Accused had asked San to prepare milk for the child. When San disagreed with the Accused that the water in the kettle was hot, the Accused poured the hot water on her. Although there was no medical evidence of the injury, Mdm Lee testified that San’s skin blistered. San also stated in P22, her Victim Impact Statement, that she had some difficulty showering and sleeping thereafter for two weeks due to the injury. The prosecution highlighted several sentencing precedents in support of the proposed sentence of at least 12 months’ imprisonment:
+
+> (a)      _PP v Zinnerah Binte Abdul Majeed_ (unreported)
+
+>> The offender pleaded guilty to and was sentenced to 12 months’ imprisonment per charge under section 324 read with section 73(2) of the Penal Code for burning the victim with a heated metal spoon. While the present case had a lesser degree of deliberation and the injuries were lighter, the offender in _Zinnerah_ was given a discount based on her plea of guilt.
+
+> (b)      _PP v Seah Lei Sie Linda_ (unreported)
+
+>> The offender was convicted after trial on, _inter alia_, a charge under section 323 read with section 73(2) of the Penal Code for directing the victim to scald herself (by pouring hot water on her left shoulder), causing the victim to suffer redness. The offender was sentenced to 12 months’ imprisonment and a fine of $1000 on that charge. Although the offender’s culpability was certainly higher than the Accused’s, and a significant degree of psychological harm was inflicted, this was offset by the fact that she was charged under section 323 of the Penal Code, which carried a significantly lower maximum punishment.
+
+> (c)      _PP v Tong Chew Wei_ (unreported)
+
+>> The offender was convicted after trial on, _inter alia_, a charge under section 323 read with section 73(2) of the Penal Code for throwing hot water from a mug towards the victim causing her to suffer scald burns, and was sentenced to 8 months’ imprisonment for that charge. The prosecution submitted that the Accused’s culpability was similar to that of the offender in _Tong_ and the injuries in _Tong_ were not substantially more serious than that in the present case. Considering that the charge against the Accused was under section 324 read with section 73(2) of the Penal Code, it was submitted that a sentence of 12 months’ imprisonment was justified against the Accused.
+
+166    In relation to the appropriate global sentence, the prosecution submitted that the pattern of abuse against San had gone on for some time and the five charges on which the Accused was convicted spanned over a year. The prosecution observed that San was also subjected to other abusive conduct by the Accused and Mdm Lee. They had:
+
+> (a)     locked San’s handphone in a drawer;
+
+> (b)     withheld her salary for a prolonged period and threatened to make unreasonable deductions from her salary; and
+
+> (c)     regularly shouted at San such that the shouting and San’s cries from two floors below could be heard by Htay.
+
+167    The prosecution cited _PP v Bong Sim Swan Suzanna_ <span class="citation">\[2020\] 2 SLR 1001</span> at \[73\] and argued that even if the Accused did not face charges for the above conduct, it should still be considered in sentencing in so far as it reflected the pattern of abuse by the Accused and shed light on the psychological harm suffered by San as a consequence. Indeed, San had stated in P22 that she was “emotionally affected by the incidents” and cried after each slapping incident. This was an important consideration when determining the global sentence and how many sentences ought to run consecutively.
+
+168    Bearing the above in mind, the prosecution urged the Court to run at least three sentences consecutively. The prosecution was of the view that it would be appropriate for the three longest sentences (i.e. those for the third, fourth and fifth charges) to run consecutively, to make up the aggregate sentenced of at least 16 months’ imprisonment.
+
+### Mitigation & Defence’s Submissions on Sentence
+
+169    The defence tendered written submissions on sentence supplemented by oral submissions and sought a global sentence of 5 months’ and 3 weeks’ imprisonment as follows:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="33.32%"> <col width="33.34%"> <col width="33.34%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Charge</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Sentence</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Remarks</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">First charge</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">3 weeks</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Consecutive</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Second charge</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">3 weeks</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Concurrent</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Third charge</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">3 weeks</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Concurrent</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Fourth charge</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">3 weeks</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Concurrent</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Fifth charge</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">5 months</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Consecutive</p></td></tr></tbody></table>
+
+  
+  
+
+170    The defence began by presenting the personal background of the Accused and the mitigating factors in this case. The salient points are summarised below.
+
+> (a)     The Accused was not highly educated and had only studied until primary six. He was then employed as a cleaner and was the main breadwinner of the family.
+
+> (b)     The Accused was diagnosed with diabetes and required four injections per day. He was also on daily medication for his heart condition and high blood pressure. Mdm Lee was then working in a polyclinic and was taking daily medication for low blood pressure. Their six-year-old child also suffered from the same condition.
+
+> (c)     The Accused was a first-time offender. The offences were isolated incidents and the Accused firmly regretted his actions.
+
+171    The defence cited the case of _PP v Lim Yee Hua and another appeal_ <span class="citation">\[2018\] 3 SLR 1106</span> at \[47\] and submitted that based on the principles of tempering of deterrence with proportionality, a fine would have the same deterrence effect as a custodial sentence. The defence argued that there were extenuating circumstances in this case which militated against the imposition of a custodial sentence.
+
+> (a)     The Accused had to take four insulin injections per day with the help of his wife. Thus, incarceration would disrupt his medical routine and be detrimental to his welfare.
+
+> (b)     The Accused’s family was greatly dependent on him for financial support and a custodial sentence would deprive the family of the Accused’s income.
+
+> (c)     As the Accused was the pillar of support for his wife and child, a custodial sentence would be draconian and harsh as the Accused would be separated from his family for a long time.
+
+> (d)     The Accused’s child was still young and it was essential that the Accused be present to provide care and support. A jail term would thus be crushing on the spirits of the family.
+
+172    However, if the Court were of the view that a custodial sentence was warranted, the appropriate sentencing framework would be that in _Tay Wee Kiat_. The defence submitted that the harm inflicted on San was predominantly physical and the offences were isolated and committed at the spur of the moment. After the hot water was splashed on San, the Accused and Mdm Lee immediately rendered medical assistance to her and care was given until her wounds were healed.
+
+173    In addition, the Accused had a cordial relationship with San. He treated her like his daughter and brought her on family outings and holidays overseas. It was clear from the evidence that the Accused and his family had treated San with kindness and compassion. It was unfortunate that they good working relationship was marred by the isolated incidents. Nonetheless, no psychological harm was ever caused to San.
+
+174    In relation to the first charge, the defence cited the decision in _PP v Tay Siew Hoon_ <span class="citation">\[2009\] SGDC 283</span> where the offender was convicted on a charge under section 336 read with 73(2) of the Penal Code and sentenced to 1 month’s imprisonment for throwing a dog’s bowl and a knife at her maid_._ As a water bottle was a less dangerous object, the defence submitted that a sentence of 3 weeks’ imprisonment would be warranted in this case.
+
+175    As for the second to fourth charges for slapping San, the defence noted that the Court in _Tay Wee Kiat_ had cited the case of _Chua Siew Peng v PP_ <span class="citation">\[2017\] 4 SLR 1247</span> where Chan Seng Onn J had observed that sentencing precedents suggested that sentences of 3 to 6 weeks’ imprisonment had been imposed on offenders who had slapped their domestic helpers. In line with the sentencing precedents, the defence submitted that the sentence for this case should fall under the lower end of the sentencing range i.e. 3 weeks. This would be appropriate in view of the earlier mitigating factors as well as the Accused’s cooperation with the authorities.
+
+176    As for the fifth charge, the defence highlighted the case of _PP v Anita Damu @ Shazana bt Abdullah_ <span class="citation">\[2019\] SGDC 35</span> at \[48\] where, though the Court noted that the sentencing factors for offences under section 323 read with section 73 of the Penal Code applied _mutatis mutandis_ to offences under section 324 read with section 73 of the Penal Code, the Court was reluctant to adopt a purely arithmetic approach to uplift the sentence.
+
+177    The defence also cited the case of _Low Gek Hong v PP_ <span class="citation">\[2016\] SGHC 69</span> (“_Low Gek Hong_”) where the High Court on appeal upheld the sentence of 5 months’ imprisonment meted out to the offender who was convicted under section 323 read with section 73(2) of the Penal Code for pouring hot water on the victim’s back. As such, the defence argued that notwithstanding that the Accused had been convicted under section 324 of the Penal Code, the nature of the offence was similar and there should be no upward adjustment to the sentence. The defence was of the view that the sentencing precedents tendered by the prosecution, where sentences between 8 to 12 months were imposed, all concerned offenders who had higher culpability than the Accused – in that the acts were either very perverse or were premeditated. There were also medical reports available which indicated that the burns were likely to leave permanent scars. These were distinguishable from the present case. Further, the Accused and Mdm Lee had rendered medical assistance to San until her wounds were healed and this should be considered a mitigating factor. The defence therefore submitted that a 5-month imprisonment term ought to be imposed for the fifth charge.
+
+178    In deciding on which sentences to run consecutively or concurrently, the defence urged the Court to have regard to the totality principles as set out in the case of _Mohamed Shouffee bin Adam v PP_ <span class="citation">\[2014\] 2 SLR 998</span> at \[27\] to \[82\]. The defence submitted that only the sentences for the first and fifth charges should run consecutively; because if the sentences for all the charges were to run consecutively, the aggregate sentence of 8 months’ imprisonment would be much higher than the normal level of sentences for the “highest” offence (which was 5 months for the fifth charge) and result in a crushing sentence on the Accused.
+
+179    The defence added that the fact that the Accused claimed trial should not be considered an aggravating factor due to the nature of the case and the fact that San was absent at trial. Contrary to the prosecution’s assertions that San was subjected to abuse, the evidence showed that the Accused and his wife treated San very kindly and brought her along to restaurants for meals as well as for holidays overseas. Therefore, the total sentence should be no more than 5 months’ and 3 weeks’ imprisonment.
+
+### Prosecution’s reply
+
+180    In their oral response to the defence’s submissions, the prosecution noted that the defence had not raised any precedents of maid abuse where a non-custodial sentence had been imposed. Indeed, in _Tay Wee Kiat_, the starting point in the framework set out by the Court was a custodial term.
+
+181    For the sentence for the section 324 Penal Code charge, the case of _Low Gek Hong_ was quite different as the offender had pleaded guilty to a charge under section 323 of the Penal Code. The offender was also found to be suffering from significant caregiver stress, which would have lowered her liability. The medical assistance rendered by the Accused and his wife was not a mitigating factor and would have been factored into the overall harm inflicted. While the prosecution acknowledged that the precedents they had cited involved premeditated conduct, the heightened culpability of the offenders were offset by the fact that they had pleaded guilty and would have been afforded a sentencing discount.
+
+182    The prosecution also noted that the defence was proposing the same sentence for the section 323 and section 336(a) Penal Code charges and submitted that this would not do justice to the fact that hurt was caused in the former charges and the prescribed punishment was also higher.
+
+### Decision on Sentence
+
+#### Sentencing considerations & principles
+
+183    I begin by addressing the defence’s submission for a non-custodial sentence against the Accused. The Accused’s plea for a fine to be imposed was based, in the main, on his personal and family circumstances. In this regard, I agreed with the prosecution’s observation that the defence did not cite any precedents in relation to maid abuse cases in support of its position. Instead, the defences’ position ran counter to the High Court’s observation in _Tay Wee Kiat_ at \[70\] (citing the decision in _ADF v PP_ <span class="citation">\[2010\] 1 SLR 874</span> at \[91\]) that “a custodial sentence was almost invariably warranted in cases of domestic maid abuse where there has been any manner of physical abuse”. In addition, I did not consider the personal and family circumstances of the Accused in this case to be so exceptional or extenuating to merit a departure from the usual sentencing norms for similar offences.
+
+184    Moving on to the sentence for the first charge under section 336(a) of the Penal Code, I noted that both the prosecution and defence sought a sentence of 3 weeks’ imprisonment. Having considered the facts and circumstances of the case, I agreed that a 3-week imprisonment term would be appropriate for this charge.
+
+185    As for the sentences for the second to fourth charges under section 323 read with section 73(2) of the Penal Code, I agreed with both parties that the applicable sentencing framework was that set out in _Tay Wee Kiat._ Based on the facts and circumstances of the case, I also agreed with both parties that the harm caused to San was predominantly physical in nature, and was relatively minor. Thus, the indicative sentencing range would be between 3 to 6 months’ imprisonment.
+
+186    In calibrating sentence, I noted that there were no reported injuries suffered by San as a result of the slaps. I agreed with the prosecution that there was also no significant aggravating or mitigating factors. I also considered the defence’s submissions for a 3-week imprisonment term. As pointed out by the prosecution, this would result in the same sentence being meted out for both the charges under section 336(a) and section 323 of the Penal Code. Given that the section 323 offence was more serious (and therefore subjected to higher prescribed punishment) and the fact that actual hurt was caused to San, I was of the view that 3 weeks’ imprisonment would be inadequate. I should also add that although the Accused did not have any prior convictions, he had been charged and convicted of multiple offences committed over about a year. As such, he could not be considered a first offender. Further, I disagreed with the defence that the incidents were “isolated”, given that the Accused had admittedly slapped San on at least four occasions, including the time she was allegedly caught stealing the key to the drawer.
+
+187    Having carefully weighed all the sentencing considerations, I was of the view that a sentence of 6 weeks’ imprisonment per charge would be appropriate for the second to fourth charges.
+
+188    In considering the sentence for the fifth charge, I had studied the sentencing precedents submitted by the prosecution and defence. In relation to the case of _Low Gek Hong_ cited by the defence, I agreed with the prosecution’s observation that the offender in that case had pleaded guilty. While I certainly did not consider the Accused claiming trial to be an aggravating factor, he could not expect to be accorded the sentencing discount usually given to offenders who had pleaded guilty as a sign of genuine remorse. In addition, the offender in _Low Gek Hong_ was convicted of a charge under section 323 read with section 73(2) of the Penal Code for pouring a mug of hot water on the victim’s back, while the charge faced by the Accused in this case was that under section 324 of the Penal Code. More significantly, the High Court had given weight to the uncontroverted fact that the offender in that case was suffering from “fairly significant caregiver stress” which had clearly taken a serious toll on her both mentally and physically.[^99] In my view, the above clearly distinguished the present case from that in _Low Gek Hong_.
+
+189    Turning to the sentencing precedents highlighted by the prosecution, they indicated custodial sentences ranging from 8 to 12 months’ imprisonment for maid abuse cases where hot water was employed to cause burn injuries to the victims. In particular, I was of the view that the case of _Tong Chew Wei_, where the offender was convicted after trial for throwing a mug filled with hot water towards the victim, was most similar to the present case. Taking into consideration the fact that the offender in _Tong Chew Wei_ was convicted of a charge undern section 323 of the Penal Code, I was of the view that a 2-month uplift from the 8-month imprisonment term meted out in _Tong Chew Wei_ would be appropriate. I therefore sentenced the Accused to 10 months’ imprisonment on the fifth charge.
+
+#### Sentence imposed
+
+190    The Accused was accordingly sentenced as follows:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="35.372925414917%"> <col width="33.4733053389322%"> <col width="31.1537692461508%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Charge</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Penal Code section</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Sentence</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">MAC-903724-2018</p><p align="justify" class="Table-Para-1">(first charge)</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Section 336(a)</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">3 weeks’ imprisonment</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">MAC-903725-2018</p><p align="justify" class="Table-Para-1">(second charge)</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Section 323 read with section 73(2)</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">6 weeks’ imprisonment</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">MAC-903726-2018</p><p align="justify" class="Table-Para-1">(third charge)</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Section 323 read with section 73(2)</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">6 weeks’ imprisonment</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">MAC-903727-2018</p><p align="justify" class="Table-Para-1">(fourth charge)</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Section 323 read with section 73(2)</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">6 weeks’ imprisonment</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC-934280-2018</p><p align="justify" class="Table-Para-1">(fifth charge)</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Section 324 read with section 73(2)</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">10 months’ imprisonment</p></td></tr></tbody></table>
+
+  
+  
+
+191    I further agreed with the prosecution that, taking into account the period of offending and the Accused’s overall criminality, three of the sentences should run consecutively. I therefore ordered the sentences in DAC-934280-2018, MAC-903726-2018 and MAC-903727-2018 to run consecutively and the rest of the sentences to run concurrently.
+
+## Conclusion
+
+192    The total net sentence was therefore _10 months’ and 12 weeks’ imprisonment._ In my view, this sentence was proportionate to the Accused’s culpability and sufficient for the purpose of deterrence.
+
+* * *
+
+[^1]: NE, 26 November 2020, p 1 to 8.
+
+[^2]: Emphasis added to highlight the key particulars of each charge.
+
+[^3]: Notes of Evidence (“NE”), 6 August 2019, p 26 to 29 and p 46 to 47.
+
+[^4]: NE, 6 August 2019, p 61 to 89.
+
+[^5]: NE, 7 August 2019, p 86 to 88 and p 91 to 100.
+
+[^6]: NE, 7 August 2019, p 24 to 27 and p 46 to 71.
+
+[^7]: NE, 7 August 2019, p 88 to 90 and p 100 to 102.
+
+[^8]: NE, 7 August 2019, p 27 to 33 and 78 to 82.
+
+[^9]: NE, 7 August 2019, p 103 to p118.
+
+[^10]: See IO Calvin’s investigation diary in Exhibit P15.
+
+[^11]: NE, 6 August 2019, p 48 and p 50 to 54 and p 98 to 99. See also the letter to the Embassy of Myanmar in Exhibit P14 and the screenshots from IO Calvin’s phone at Exhibit P17.
+
+[^12]: NE, 7 August 2019, p 4 to 5 and p 8 to 13. See IO Calvin’s call records in Exhibit P19.
+
+[^13]: NE, 7 August 2019, p 15 to 21 and p 73 to 76.
+
+[^14]: NE, 7 August 2019, p 38 to 41.
+
+[^15]: NE, 7 August 2019, p 76 to 78.
+
+[^16]: NE, 7 August 2021, p 120 to 125.
+
+[^17]: NE, 7 August 2021, p 125 to 129.
+
+[^18]: NE, 30 January 2020, p 4 to 7.
+
+[^19]: NE, 30 January 2020, p 7 to 14.
+
+[^20]: See the prosecution’s written submissions dated 13 February 2020 (“Prosecution’s Submissions”) and defence’s written submissions and reply submissions dated 19 February 2020 and 27 February 2020 respectively. NE, 28 February 2020, p 4 to 18.
+
+[^21]: Section 32(4)(a) of the EA.
+
+[^22]: See _Gimpex_ at \[106\] to \[109\].
+
+[^23]: See _Gimpex_ at \[109\].
+
+[^24]: This was the version applicable at the date of the recording of these statements.
+
+[^25]: There were two \[A4\] in P21. This refers to both \[A4\].
+
+[^26]: There were two \[A4\] and \[A5\] in P21. This refers to the first \[A5\] and the second \[A4\].
+
+[^27]: NE, 17 March 2020, p 3 to 5.
+
+[^28]: NE, 17 March 2020, p 6 to 10 and p 26 to 31.
+
+[^29]: NE, 17 March 2020, p 10 to 12 and p 31 to 39.
+
+[^30]: NE, 17 March 2020, p 12 to 14 and p 45 to 46.
+
+[^31]: NE, 17 March 2020, p 14 to 15, p 43 to 44 and p 46 to 49.
+
+[^32]: NE, 17 March 2020, p 15 to 18.
+
+[^33]: NE, 17 March 2020, p 49 to 51.
+
+[^34]: NE, 17 March 2020, p 21 to 25.
+
+[^35]: NE, 17 March 2020, p 55 to 66 and p 69.
+
+[^36]: NE, 17 March 2020, p 55, p 71 and p 73 to 75.
+
+[^37]: NE, 17 March 2020, p 72 and NE, 18 March 2020, p 2 to 11. See also Exhibits D2-1 to D2-8 and D2-10.
+
+[^38]: NE, 17 March 2020, p 71 to 73.
+
+[^39]: NE, 3 August 2020, p 38 to 39.
+
+[^40]: NE, 17 March 2020, p 66 to 67 and p 70 to 71; 3 August 2020, p 36 to 38.
+
+[^41]: NE, 18 March 2020, p 76 to 80.
+
+[^42]: NE, 3 August 2020, p 22 to 31 and p 34 to 35.
+
+[^43]: NE, 3 August 2020, p 19 to 21.
+
+[^44]: NE, 17 March 2020, p 51 to 59.
+
+[^45]: NE, 3 August 2020, p 64 to 71.
+
+[^46]: See \[A7\] in P2.
+
+[^47]: NE, 18 March 2020, p 59 to 61; 3 August 2020, p 48 to 49.
+
+[^48]: NE, 18 March 2020, p 63 to 65
+
+[^49]: NE, 18 March 2020, p 66 to 67.
+
+[^50]: NE, 31 March 2020, p 2 to 3; 3 August 2020, p 50 to 52.
+
+[^51]: NE, 18 March 2020, p 68 to 72 and p 75 to 76; 3 August 2020, p 53 to 54.
+
+[^52]: NE, 18 March 2020, p 72.
+
+[^53]: NE, 31 March 2020, p 5 to 6; 3 August 2020, p 55 and p 63 to 64.
+
+[^54]: NE, 18 March 2020, p 67.
+
+[^55]: NE, 18 March 2020, p 74 to 75; 3 August 2020, p 71 to 77.
+
+[^56]: NE, 31 March 2020, p 6 to to 8; 3 August 2020, p 77 to 78.
+
+[^57]: The Accused had taken the photographs in Exhibit D3 sometime in March 2019 with Mdm Lee as his “model”.
+
+[^58]: NE, 18 March 2020, p 36 to 40.
+
+[^59]: NE, 18 March 2020, p 40 to 42.
+
+[^60]: NE, 18 March 2020, p 42 to 48; 3 August 2020, p 79 to 82.
+
+[^61]: NE, 3 August 2020, p 82 to 90.
+
+[^62]: NE, 18 March 2020 p 49.
+
+[^63]: NE, 18 March 2020, p 81; 3 August 2020, p 90 to 94.
+
+[^64]: NE, 18 March 2020, p 49 to 50.
+
+[^65]: NE, 3 August 2020, p 3 to 7.
+
+[^66]: NE, 3 August 2020, p 8 to 11.
+
+[^67]: NE, 3 August 2020, p 11 to 19.
+
+[^68]: NE, 3 August 2020, p 55 to 63.
+
+[^69]: NE, 31 March 2020, p 8.
+
+[^70]: NE, 3 August 2020, p 40 to 41.
+
+[^71]: NE, 3 August 2020, p 44 to 48.
+
+[^72]: NE, 4 August 2020, p 9 to 11 and p 33 to 34.
+
+[^73]: NE, 4 August 2020, p 24 to 29.
+
+[^74]: NE, 4 August 2020, p 29 to 32 and p 62 to 65.
+
+[^75]: NE, 4 August 2020, p 55 to 67.
+
+[^76]: NE, 4 August 2020, p 3 to 8 and p 34 to 37.
+
+[^77]: NE, 4 August 2020, p 17 to 24 and p 48 to 55.
+
+[^78]: NE, 4 August 2020, p 15 to 17.
+
+[^79]: NE, 4 August 2020, p 68 to 75.
+
+[^80]: NE, 4 August 2020, p 76 to 79 and p 82 to 83.
+
+[^81]: NE, 4 August 2020, p 79 to 81.
+
+[^82]: NE, 3 August 2020, p 7 to 13.
+
+[^83]: NE, 3 August 2020, p 11.
+
+[^84]: NE, 3 August 2020, p 16 to 18.
+
+[^85]: San had also mentioned in P16 at \[6\] and \[A6\] that the Accused had thrown a water bottle at her face. However, this appeared to relate to a separate incident involving her speaking loudly to the Accused’s child.
+
+[^86]: These were broadly based on the time periods mentioned in San’s statements relating to the occasions she was slapped by the Accused.
+
+[^87]: NE, 3 August 2020, p 47.
+
+[^88]: NE, 3 August 2020, p 40 to 41.
+
+[^89]: NE, 3 August 2020, p 49.
+
+[^90]: NE, 3 August 2020, p 40.
+
+[^91]: NE, 3 August 2020, p 72 to 76.
+
+[^92]: There were two \[A4\] and \[A5\] in P21. This refers to the first \[A5\] and the second \[A4\].
+
+[^93]: NE, 18 March 2020, p 40 to 41.
+
+[^94]: NE, 18 March 2020, p 42 to 43.
+
+[^95]: NE, 18 March 2020, p 48.
+
+[^96]: NE, 3 August 2020, p 79 to 82.
+
+[^97]: NE, 3 August 2020, p 86 to 89.
+
+[^98]: Section 73(3) of the Penal Code provided that “Notwithstanding anything to the contrary in the Criminal Procedure Code (Cap. 68) -- … (b) a District Court shall have jurisdiction to hear and determine all proceedings for the offences punishable under sections 324 and 325 and shall have power to award the full punishment provided under subsection (2) in respect of those offences.”
+
+[^99]: _Low Gek Hong_ at \[21\].
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F26917-SSP.xml)

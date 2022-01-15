@@ -1,0 +1,135 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# TG25 Pte Ltd _v_ Ferh International Pte Ltd (DBS Bank Ltd, garnishee)  
+
+### \[2021\] SGMC 77
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Magistrate Court Originating Summons No 364 of 2021</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">29 October 2021</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">Magistrates Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Jonathan Ng Pang Ern</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Lim Phuan Foo Kelvin (Kelvin Lim &amp; Partners) for the plaintiff.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">TG25 Pte Ltd — Ferh International Pte Ltd — DBS Bank Ltd</td></tr></tbody></table>
+
+Civil Procedure – Judgments and orders – Enforcement
+
+29 October 2021 - Judgment reserved.
+
+### Deputy Registrar Jonathan Ng Pang Ern:
+
+1       Section 36 of the Small Claims Tribunals Act (Cap 308, 1998 Rev Ed) (“SCT Act”) provides that orders under ss 17(2), (5), (7), 20(4) and 35(1) of the SCT Act (“SCT Orders”) “may be enforced in the same manner as a judgment or an order made by a District Court”. The present application sought the enforcement, by way of garnishee proceedings, of an SCT Order. However, it was filed in the Magistrates’ Courts. Can an SCT Order be enforced in the Magistrates’ Courts in light of s 36 of the SCT Act? After hearing Mr Kelvin Lim, who acted for the Plaintiff, I reserved judgment. This is my decision.
+
+## Background
+
+2       On 22 March 2021, the Plaintiff obtained an order against the Defendant in a Small Claims Tribunal. The order stated that the Defendant was to pay the Plaintiff the sum of $13,740 plus $412.22 as disbursements (total: $14,152.22) by 5 April 2021, failing which the Plaintiff may enforce the order accordingly.[^1]
+
+3       On 30 September 2021, the Plaintiff filed the present _ex parte_ application in the Magistrates’ Courts. The application sought the following orders:
+
+> 1.     All debts due or accruing due from the abovementioned garnishee to the abovementioned Defendant, namely FERH INTERNATIONAL PTE. LTD. for the sum limited of $14,152.22 be attached to answer an Order of Tribunal recovered against the said Defendant by the abovenamed Plaintiff in the Small Claims Tribunals in the State Courts on 22 March 2021 (Claim No: SCT/18163/2020) for the sum $14,152.22, on which Order of Tribunal, the sum of $14,152.22 remains due and unpaid.
+
+> 2.     The garnishee do attend Court on an application by the Plaintiff that the garnishee do pay to the Plaintiff the debt due from the garnishee to the Defendant, or so much thereof as may be sufficient to satisfy the Order of Tribunal, together with the costs of the garnishee proceedings.
+
+4       On the same day, the application was placed before me as a “paper” hearing. Upon perusing the application, I directed that Mr Lim write in on whether a Magistrate’s Court has jurisdiction to grant this application in light of s 36 of the SCT Act, which refers to a District Court. At the same time, I adjourned the application for a further “paper” hearing on 13 October 2021.
+
+5       Mr Lim duly wrote in on 1 October 2021. I set out Mr Lim’s submissions in detail below. For present purposes, it suffices to state that Mr Lim was still pursuing the application. Accordingly, at the further “paper” hearing on 13 October 2021, I fixed the application for an oral hearing on 20 October 2021 to clarify certain aspects of Mr Lim’s submissions.
+
+6       At the oral hearing on 20 October 2021, Mr Lim clarified that there were two prongs to his argument: (a) first, an SCT Order is inherently enforceable; and (b) second, in any event, s 36 of the ACT relates to only the manner of enforcement. After hearing Mr Lim, I reserved judgment.
+
+## Issues
+
+7       The central question before me is whether an SCT Order can be enforced in the Magistrates’ Courts in light of s 36 of the SCT Act. For ease of reference, s 36 of the SCT Act provides for the enforcement of an SCT Order in the following terms:
+
+> **Enforcement of section 35(1) order**
+
+> 36.    Each of the following orders _may be enforced in the same manner as a judgment or an order made by a_ **_District Court_**:
+
+>> (_a_)    an order made by a tribunal under section 35(1);
+
+>> (_b_)    an order made by the Registrar under section 17(2), (5) or (7) or 20(4), read with section 35(1).
+
+> \[emphasis added in italics and bold italics\]
+
+8       Following from Mr Lim’s clarifications at the oral hearing (see \[6\] above), the answer to this question turns on two issues:
+
+> (a)     whether an SCT Order is inherently enforceable; and
+
+> (b)     whether s 36 of the SCT Act relates to only the manner (as opposed to both the manner and forum) of enforcement.
+
+9       As I explain later (see \[10\] and \[16\] below), if the answer to either of these issues is in the positive, then it does not matter whether or not s 36 of the SCT Act refers to the District Courts instead of the Magistrates’ Courts; an SCT Order can be enforced in the Magistrates’ Courts and the application should be granted. Conversely, if the answer to both these issues is in the negative, it follows that an SCT Order cannot be enforced in the Magistrates’ Courts and the application must be dismissed.
+
+## Analysis
+
+### Whether an SCT Order is inherently enforceable
+
+10     The first issue is whether an SCT Order is inherently enforceable. This issue arises because many of Mr Lim’s submissions are predicated on the assumption that that an SCT Order is inherently enforceable. The argument, as I understand it, is that an SCT Order is _automatically_ enforceable without the need for an explicit legislative provision to provide for its enforcement. If this is correct, then it does not matter whether or not s 36 of the SCT Act refers to the District Courts instead of the Magistrates’ Court; an SCT Order will be enforceable anyway, with or without s 36 of the SCT Act.
+
+11     In my view, an SCT Order is not inherently enforceable. First, orders of tribunals are never inherently enforceable and always require an explicit legislative provision to provide for their enforcement. Indeed, such provisions are commonplace in our legislation. For example, s 46(1) of the Arbitration Act (Cap 10, 2002 Rev Ed) provides that an award made by an arbitral tribunal “may, with leave of the Court, be enforced in the same manner as a judgment or order of the Court to the same effect”. Equally, s 19 of the International Arbitration Act (Cap 143A, 2002 Rev Ed) provides that an award on an arbitration agreement “may, by leave of the General Division of the High Court, be enforced in the same manner as a judgment or an order to the same effect”. Similarly, s 27(1) of the Building and Construction Industry Security of Payment Act (Cap 30B, 2006 Rev Ed) provides that an adjudication determination made under the Act “may, with leave of the court, be enforced in the same manner as a judgment or an order of the court to the same effect”.
+
+12     In fact, it appears that even judgments or orders of _courts_ require an explicit legislative provision to provide for their enforcement. Thus, s 18(2) read with para 8 of the First Schedule of the Supreme Court of Judicature Act (Cap 322, 2007 Rev Ed) confers on the General Division of the High Court the “\[p\]ower to enforce a judgment of the court in any manner which may be prescribed by any written law or by Rules of Court or Family Justice Rules”. In a similar vein, s 44 of the State Courts Act (Cap 321, 2007 Rev Ed) provides that “a judgment or an order of a District Court may be enforced in any manner prescribed by Rules of Court”, while s 54 of the State Courts Act provides that “\[e\]very judgment or order of a Magistrate’s Court in the exercise of its civil jurisdiction … shall be enforced in the same manner as if it were given or made by a District Court”. If this is correct, then it is _a fortiori_ the case that orders of _tribunals_ require an explicit legislative provision to provide for their enforcement.
+
+13     Second, if orders of tribunals are inherently enforceable, then this would render s 36 of the SCT Act and all other similar provisions (see, _eg_, those at \[11\] above) superfluous. To this, Mr Lim submitted that the purpose of s 36 of the SCT Act is to allow an SCT Order to be enforced in the District Courts because “the jurisdiction and order made by \[the Small Claims Tribunals\] is clearly not within the jurisdiction of the District Courts which only deal with a claim from $60,000.00 to $250,000.00”. In contrast, the jurisdiction of the Small Claims Tribunals is within the jurisdiction of the Magistrates’ Courts, and so reference to the Magistrates’ Courts is not required.[^2]
+
+14     However, the District Court limit under s 19(4) read with s 2 of the State Courts Act is an _upper_ limit of $250,000. Although the Magistrate’s Court limit under s 52(1A) read with s 2 of the State Courts Act is $60,000, there is nothing in the State Courts Act that suggests that the District Courts’ jurisdiction starts only where the Magistrates’ Courts’ jurisdiction ends. In other words, the District Courts’ jurisdiction does not have a _lower_ limit of $60,000. Thus, even if, as Mr Lim suggested, an SCT Order were inherently enforceable, it would be so in the District Courts as much as it were so in the Magistrates’ Courts. It therefore appears to me that s 36 of the SCT Act cannot have the purpose Mr Lim proffered. Instead, it is an explicit provision to provide for the enforcement of SCT Orders.
+
+15     For the above two reasons, I am of the view that an SCT Order is not inherently enforceable. Rather, an SCT Order requires an explicit provision to provide for its enforcement and s 36 of the SCT Act fulfils precisely this function. This conclusion also suffices to dispose of Mr Lim’s submission that s 36 of the SCT Act does not preclude the enforcement of an SCT Order in the Magistrates’ Courts when the sum in question is less than $60,000.[^3] If an SCT Order is not inherently enforceable, then the question is not whether s 36 of the SCT Act _precludes_ the enforcement of an SCT Order in the Magistrates’ Courts; it is whether s 36 of the SCT Act _provides_ for the same. This segues neatly into the second issue and it is to this that I now turn.
+
+### Whether s 36 of the SCT Act relates to only the manner (as opposed to both the manner and forum) of enforcement
+
+16     The second issue is whether s 36 of the SCT Act relates to only the _manner_ (as opposed to both the manner and _forum_) of enforcement. This issue arises because s 36 of the SCT Act only states that an SCT Order “may be enforced _in the same manner_ as a judgment or an order made by a District Court” \[emphasis added\]; it does not go so far as to prescribe that an SCT Order must be enforced _in_ the District Courts. The argument could therefore be made that s 36 of the SCT Act relates to only the _manner_ and not the _forum_ of enforcement. Indeed, I understand Mr Lim to have alluded to this when he submitted that s 36 of the SCT Act merely clarifies that an SCT Order may be enforced in the same manner as a judgment or order made by a District Court.[^4] If this is correct, then, again, it does not matter whether or not s 36 of the SCT Act refers to the District Courts instead of the Magistrates’ Courts; the reference to a District Court will be descriptive of the manner of enforcement, and not prescriptive of the forum of the same.
+
+17     I note at the outset that this interpretation of s 36 of the SCT Act is not implausible. The language of s 36 of the SCT Act is certainly broad enough to allow for such a reading. Further (and although this is not a point raised by Mr Lim), s 54 of the State Courts Act provides that “\[e\]very judgment or order of a Magistrate’s Court in the exercise of its civil jurisdiction … shall be enforced in the same manner as if it were given or made by a District Court”. This wording is similar to s 36 of the SCT Act but it is plainly not the practice for judgments and orders of the Magistrates’ Courts to be enforced in the District Courts. Instead, such judgments and orders are routinely enforced in the Magistrates’ Courts.
+
+18     On balance, however, I am of the view that s 36 of the SCT Act relates to both the manner and forum of enforcement. First, if Parliament’s intention had simply been for s 36 of the SCT Act to prescribe the manner of enforcement, then the reference to a District Court would be unnecessary and, indeed, inexplicable. There is nothing particularly unique about the manner in which a judgment or order of the District Courts may be enforced as compared to a judgment or order of, _eg_, the General Division of the High Court or the Magistrates’ Courts to warrant this specific reference to a District Court. Thus, if Parliament were truly agnostic as to the forum of enforcement, it would have simply referred to “the court”. Indeed, Parliament has done so in s 27(1) of the Building and Construction Industry Security of Payment Act (see \[11\] above). (For completeness, although s 46(1) of the Arbitration Act also refers to “the Court” (see \[11\] above), “Court” is defined in s 2(1) of the Arbitration Act as referring to the General Division of the High Court.)
+
+19     Second, the reference to a District Court is deliberate. Section 36 of the SCT Act, in its present form, was introduced by the Small Claims Tribunals (Amendment) Act 2018 (Act 33 of 2018). In its previous iteration, the provision referred to the Magistrates’ Courts in the following manner:
+
+> **Enforcement of orders to pay money**
+
+> **36.**—(1)    Every order made by a tribunal or the Registrar requiring a party to pay money shall be deemed to be an order of a Magistrate’s Court and, subject to this section, may be enforced accordingly.
+
+> (2)    Where application is made to a Magistrate’s Court for the issue of any process to enforce an order provided for by section 35(1)(c) (requiring a party to pay money to another as an alternative to compliance with a work order), the Registrar shall give notice of the application to the party against whom enforcement is sought.
+
+> (3)    If that party does not file in the tribunal within the period prescribed for so doing a notice of objection in the prescribed form, the order may, after the expiry of that period, be enforced pursuant to subsection (1).
+
+> (4)    The notice referred to in subsection (3) may only be given on the ground that it is the belief of the party that the order of the tribunal or the Registrar has been fully complied with and that the party therefore disputes the entitlement of the applicant to enforce it.
+
+> (5)    If the party against whom enforcement is sought files the notice referred to in subsection (3) within the prescribed period, the Registrar shall refer the matter to the tribunal to be heard and determined under section 37(3).
+
+> (6)    No filing fee shall be payable by a person who seeks to enforce an order pursuant to subsection (1) but any fee which would otherwise be payable therefor shall be included in and be deemed as part of the award of the tribunal and shall be recoverable from the opposite party for the credit of the Consolidated Fund.
+
+20     This previous iteration of s 36 of the SCT Act did at least two things. First, it provided for a _sui generis_ objection process. This has been done away with in the current version of s 36 of the SCT Act. Second, and more importantly, it explicitly prescribed, among other things, the forum of enforcement (see, in particular, the parts that read “shall be deemed to be an order of a Magistrate’s Court and … may be enforced accordingly” and “\[w\]here application is made to a Magistrate’s Court”). It can therefore be surmised that the current version of s 36 of the SCT Act, which replaces the previous iteration of s 36 of the SCT Act, performs the same function, save that the forum of enforcement is now the District Courts and no longer the Magistrates’ Courts.
+
+21     The reason for this change in forum is, unfortunately, not readily discernible. The parliamentary debates during the Second Reading of the Small Claims Tribunals (Amendment) Bill (Bill No 23/2018) do not appear to have touched on this, although there is some hint that the change might have been due to the expansion of the Small Claims Tribunals’ powers (_Singapore Parliamentary Debates, Official Report_ (9 July 2018) vol 94 (Murali Pillai, Member of Parliament for Bukit Batok)):
+
+> The proposed new section 35 of the Act will also now empower the SCT to order vacant possession of premises in cases involving unpaid rent by a tenant. This is in addition to an order for the tenant to pay outstanding rent. Notwithstanding that the SCT's jurisdiction is only in respect of claims relating to a contract for the short-term lease of residential property not exceeding two years, an order for possession, which may be enforced by a writ of possession, is, I would suggest, an onerous remedy against the tenant. It also in effect deals with a subject matter, in form of the _res_, that usually exceeds, the SCT's monetary jurisdiction. In fact, as it stands, under section 52(1A) of the State Courts Act, even the Magistrate's Court, which is a forum where parties may have legal representation, does not have the civil jurisdiction to hear and try an action where there is no claim for any sum of money or the relief sought in addition to the claim amount is in respect of the subject matter which exceeds the Magistrate Court's limit. I am concerned whether the SCT is the best forum to determine this issue, especially since parties do not have legal representation.
+
+22     Be that as it may, the difficulty in discerning a reason for the change in forum does not detract from, and is not fatal to, the point made at \[20\] above: s 36 of the SCT Act prescribes, among other things, the forum of enforcement.
+
+23     Third, I accept that s 54 of the State Courts Act (see \[17\] above) complicates the analysis. Indeed, although Mr Lim did not refer specifically to s 54 of the State Courts Act, he did submit, relatedly, that it does not make sense that a judgment of the Magistrates’ Courts can be enforced by way of a garnishee order in the Magistrates’ Courts, but an SCT Order cannot be similarly enforced.[^5] In my view, it might be useful to focus on the difference in wording between s 54 of the State Courts Act and s 36 of the SCT Act. Under s 54 of the State Courts Act, a judgment or order of the Magistrates’ Courts shall be enforced “in the same manner _as if it were_ given or made by a District Court” \[emphasis added\]. Under s 36 of the SCT Act, an SCT Order may be enforced “in the same manner _as_ a judgment or an order made by a District Court” \[emphasis added\]. To the extent that the language in the former is _weaker_ than the language in the latter, this might suggest that, while s 54 of the State Courts Act relates only to the manner of enforcement, s 36 of the SCT Act goes further and relates to both the manner and forum of enforcement. I accept that this reading is not necessarily the most persuasive. However, in the final analysis, s 54 of the State Courts Act is just one factor to be taken into account. Bearing in mind the points made at \[18\]–\[22\] above, I am of the view that s 54 of the State Courts Act is, on its own, insufficient to displace the otherwise clear legislative intent and tilt the balance in favour of the opposing interpretation.
+
+24     For the above three reasons, I am of the view that s 36 of the SCT Act relates to both the manner and forum of enforcement. Accordingly, the reference to a District Court means that an SCT Order can only be enforced in the District Courts and not in the Magistrates’ Courts. This conclusion also suffices to dispose of Mr Lim’s submission that if an SCT Order cannot be enforced, this would make a mockery of SCT Orders as they would be legally ineffective and unenforceable.[^6] The question is not _whether_ an SCT Order is enforceable; it is whether the Magistrates’ Courts are the correct _forum_ of enforcement.
+
+## Conclusion
+
+25     Before concluding, I deal with one final point. In the course of his letter, Mr Lim submitted that the “Rule of Beneficial Construction” requires that, where there are two or more possible ways of interpreting a legislative provision, the meaning which gives relief and protects the benefits which the legislation purports to give should be chosen.[^7] I note that Mr Lim did not refer to any authority which provides the basis for, or explains, this rule. But even taking Mr Lim’s submission at its highest, it follows from the above analysis that s 36 of the SCT Act is likely to be open to only one interpretation.
+
+26     To summarise, I answer the two issues identified at \[8\] above as follows:
+
+> (a)     An SCT Order is not inherently enforceable. Rather, it requires an explicit provision to provide for its enforcement and s 36 of the SCT Act fulfils precisely this function.
+
+> (b)     Section 36 of the SCT Act relates to both the manner and forum of enforcement. Accordingly, the reference to a District Court means that an SCT Order can only be enforced in the District Courts and not in the Magistrates’ Courts.
+
+27     Returning to the central question at \[7\] above, an SCT Order cannot be enforced in the Magistrates’ Courts in light of s 36 of the SCT Act. In the circumstances, the application must be and is, therefore, dismissed. This does not appear to be a case where an order as to costs would be appropriate, but Mr Lim is at liberty to write in, within 7 days from the date of this judgment, if he wishes to make any submissions to the contrary. Finally, although I did not ultimately agree with Mr Lim, I am grateful for his submissions and for the fair and measured way in which he conducted these proceedings.
+
+* * *
+
+[^1]: Affidavit of Simon Lee Fun affirmed on 24 September 2021 at p 4.
+
+[^2]: Letter from Kelvin Lim & Partners dated 1 October 2021 at paras 6-7.
+
+[^3]: Letter from Kelvin Lim & Partners dated 1 October 2021 at paras 4-5.
+
+[^4]: Letter from Kelvin Lim & Partners dated 1 October 2021 at para 3.
+
+[^5]: Letter from Kelvin Lim & Partners dated 1 October 2021 at para 13.
+
+[^6]: Letter from Kelvin Lim & Partners dated 1 October 2021 at para 8.
+
+[^7]: Letter from Kelvin Lim & Partners dated 1 October 2021 at paras 9-11.
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F26772-SSP.xml)

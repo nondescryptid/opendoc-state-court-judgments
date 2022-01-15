@@ -1,0 +1,251 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Lim Zi Jian (Lin Zijian)  
+
+### \[2021\] SGDC 233
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">DAC 922860/2020, Magistrate's Appeal 9213/2021/01</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">29 October 2021</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Carol Ling Feng Yong</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Lee Zu Zhao (Attorney General's Chambers) for the Prosecution; Ashwin Ganapathy (I.R.B. Law LLP) for the Accused</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Lim Zi Jian (Lin Zijian)</td></tr></tbody></table>
+
+Criminal Procedure and Sentencing – Road Traffic Act, Chapter 276 – Dangerous Driving punishable under Section 64(2B)(a) RTA
+
+\[LawNet Editorial Note: The appeal in MA 9213/2021/01 was withdrawn on 23 November 2021.\]
+
+29 October 2021
+
+### District Judge Carol Ling Feng Yong:
+
+## Charge and Sentence
+
+1       The Accused pleaded guilty to a charge of dangerous driving under Section 64(1) of the Road Traffic Act, Chapter 276 (“RTA”), punishable under Section 64(2B)(a) of the same. The charge reads:
+
+>     “You….are charged that on 17 January 2020 at or about 7.07 am, along Anson Road signalised junction of Maxwell Road, Singapore, did drive a motor car SLJ4778T on a road in a manner which is dangerous to the public, having regard to all the circumstances of the case, including the nature, condition and use of the road, and the amount of traffic which is actually at the time, or which might reasonably be expected to be, on the road, to wit, by making a right turn onto Maxwell Road and failed to give way to a pedestrian, namely Felicia Juandi, female 30 years old, by colliding onto her who was crossing on green man signal at the signalised pedestrian crossing from your right to left perspective, and hurt was caused to the said pedestrian by such driving, you have thereby committed an offence of dangerous driving causing hurt under Section 64(1) punishable under Section 64(2B)(a) of the Road Traffic Act, Chapter 276.”
+
+2       I sentenced the Accused to five weeks’ imprisonment and disqualified him from driving for a period of 30 months, with effect from his release from prison.
+
+3       The Accused was dissatisfied with the sentence imposed.
+
+## Facts relating to the Incident
+
+4       The Accused admitted to the Statement of Facts without qualification. The key facts are set out below[^1].
+
+5       On 17 January 2020, at about 7.07 am, the Accused was driving motor car SLJ 4778T, along Anson Road at the signalized junction of Maxwell Road, Singapore. Investigations from the in-car camera footage[^2] showed that the Accused was stationary at the traffic junction in lane one due to a traffic red light signal. The victim, one Felicia Juandi, female, 30 years old, was first seen crossing at the pedestrian crossing of Anson Road directly in front of the Accused’s car while he was waiting at the junction on traffic red light signal from his left to right perspective. After the victim crossed the road, she waited at the pavement at the traffic light to cross Maxwell Road at the pedestrian crossing that was perpendicular to the one she had just crossed. She remained visible on the Accused’s right while waiting for the traffic light at the pedestrian crossing to show green man.
+
+6       Thereafter, the traffic light for the Accused changed to green light only and the traffic light for the pedestrian crossing in the victim’s direction changed to green man. The victim proceeded to cross the road and the Accused proceeded to make the right turn from Anson Road, which is a one-directional road with no oncoming traffic from the opposite direction, into Maxwell Road. The victim was crossing the road from the Accused’s right to left perspective.
+
+7       The in-car camera footage showed that the Accused did not stop at the right turning pocket and did not slow down when making the right turn. The victim had just crossed beyond the midpoint of the pedestrian crossing when the front portion of the Accused’s car collided into the victim’s left side. Upon impact, the Accused failed to stop his car immediately and his car continued moving forward and negotiating the right turn for approximately one car length before stopping. As a result, the victim was trapped under the motor car and had to be extricated.
+
+8       The victim was conveyed by ambulance to Singapore General Hospital. She sustained the following injuries[^3]:
+
+> (a)     Right clavicle fracture (lateral third)
+
+> (b)     Right humerus midshaft fracture
+
+> (c)     Right 2nd and 3rd rib fractures
+
+> (d)     Left clavicle fracture (middle third)
+
+> (e)     Left manubrium fracture
+
+> (f)     Left 1st to 5th rib fractures
+
+> (g)     T2 vertebra right transverse process fracture
+
+> (h)     C7 vertebra right transverse process fracture
+
+> (i)     Left inferior pubic ramus fracture
+
+> (j)     Left acetabular fracture
+
+> (k)     Pneumomediastinum with small upper mediastinal haematoma
+
+> (l)     Bilateral upper lung lobe consolidation, possibly contusion
+
+> (m)     Right Post-ganglionic C6-T1 Brachial plexus injury
+
+> (n)     Right and left eye lower lid trichiasis and both eye subconjunctival haemorrhage.
+
+9       The victim underwent surgical fixation of her fractures on 21 January 2020. She was warded from 17 January 2020 to 18 February 2020 and discharged with 71 days of hospitalization leave till 27 March 2020 (which included the number of days warded in hospital).
+
+10     Due to the accident, the Accused’s car had dents on his front centre portion of the bonnet and its left front portion ripped off. At the time of accident, the weather was fine, the road surface was dry, the traffic flow was light and the visibility was clear.
+
+## Prosecution’s Position on Sentence[^4]
+
+11     The Prosecution sought an imprisonment term of at least eight weeks’ imprisonment and 30 months’ disqualification.
+
+12     Citing the Second Reading of the Road Traffic (Amendment) Bill No. 13/2019 (“Second Reading of the RT(A) Bill”), the learned Deputy Public Prosecutor (“DPP”) submitted that it is clear that the dominant sentencing consideration for dangerous driving cases is deterrence. He added that Parliament sought to achieve the objective of deterrence “_by not merely enhancing the punishment prescribed for dangerous driving simpliciter, but by also prescribing distinct punishments for different degrees of hurt caused_”[^5].
+
+13     With reference to the harm-culpability framework set out in _Public Prosecutor v Koh Thiam Huat_ <span class="citation">\[2017\] 4 SLR 1099</span>, Prosecution assessed the harm in this case to be “_serious_” (specifically, “mid-high serious”[^6]) and the culpability of the Accused to be at the “_upper end of low_”[^7]. Prosecution submitted that the custodial threshold had clearly been crossed in this case.
+
+## Mitigation
+
+14     Defence Counsel asked the Court to impose a fine and a “_minimal_” disqualification order[^8].
+
+15     He accepted that deterrence was a key sentencing consideration for dangerous driving offences but from the Second Reading of the RT(A) Bill, Defence Counsel submitted that what Parliament was particularly seeking to deter through the RTA amendments are offenders who display ““_egregious irresponsible driving” whose actions result in death or some form of permanent disabilities_”. The examples cited by the Minister in the Second Reading of the RT(A) Bill demonstrated that position. Defence Counsel further argued that the Accused’s conduct was not the type of ““_egregious irresponsible driving” that would necessitate a harsher sentence_”. For that reason, the custodial threshold had not been crossed[^9].
+
+16     Defence Counsel calibrated the harm to be moderate[^10] and culpability -“_right at the bottom of the culpability spectrum_”[^11].
+
+## Sentencing Considerations
+
+### 2019 Amendments to the RTA
+
+17     It was explicit from the Second Reading of the RT(A) Bill that stronger deterrence against irresponsible driving was the main reason for Parliament enhancing criminal penalties for driving offences under the RTA. The enactment of differentiated offences according to the levels of harm under an amended section 65 (driving without due care and attention or without reasonable consideration) and an amended section 64 (dangerous driving) was part of an enhanced overall approach by Parliament to consolidate irresponsible driving offences under the RTA and to penalise irresponsible driving based on the circumstances of the offence and the level of harm caused. Clear parliamentary intention set the backdrop against which courts ought to approach the sentencing in respect of these offences under sections 64 and 65 of the RTA.
+
+18     In view of the above, I was unable to fully accept Defence Counsel’s submission at \[34\] of his mitigation that Parliament was seeking to deter offenders with a particular type of offending with very serious consequences. In increasing penalties, Parliament intended to strongly deter all forms of irresponsible driving. The examples of irresponsible driving which resulted in death or some form of permanent disabilities were cited in Parliament to demonstrate the inadequacy of the sentences meted out under the old provisions of the RTA. It may very well be that such “_egregious irresponsible driving_” with severe consequences may warrant the imposition of the maximum imprisonment term under the new provisions of the RTA. The key point was that with an increase in criminal penalties, the courts will now be able to consider a wider range of sentences in relation to the facts and circumstances of each case that comes before them.
+
+19     With the increase in criminal penalties as stronger deterrence, it is trite that courts have to act in tandem in sentencing[^12]. In sentencing, the court would also have to bear in mind the maximum sentences prescribed for these offences as that would indicate the gravity with which Parliament views them. Thereafter, the court has to “_apply his mind to determine precisely where the offender’s conduct falls within the entire range of punishment devised by Parliament_”. This meant that the full spectrum of sentences enacted by Parliament had to be carefully explored in arriving at the appropriate sentence[^13].
+
+### Harm and Culpability framework
+
+20     The levels of harm and culpability are relevant in determining the appropriate sentence in this case.
+
+21     In _Public Prosecutor v Koh Thiam Huat_ <span class="citation">\[2017\] 4 SLR 1099</span> (“_Koh Thiam Huat_”) at \[41\], it was stated:
+
+>      _“….. the two principal parameters which a sentencing court would generally have regard to in evaluating the seriousness of a crime are: (a) the harm caused by the offence; and (b) the accused’s culpability. “Harm” is a measure of the injury which has been caused to society by the commission of the offence, whereas “culpability” is a measure of the degree of relative blameworthiness disclosed by an offender’s actions and is measured chiefly in relation to the extent and manner of the offender’s involvement in the criminal act. In the context of the offence of dangerous driving under s 64(1) of the RTA, the primary factor relating to the harm caused would be the extent of injury or damage caused. A related and equally important consideration would be the potential harm that might have resulted, given that driving is an inherently dangerous activity that can pose serious risk to road users and pedestrians alike. The factors increasing the accused’s culpability would include a particularly dangerous manner of driving. As illustrations, the aggravating factors identified in Hue An Li, i.e., speeding, drink-driving and sleepy driving, would clearly contribute to this, as would driving while using a mobile phone. In addition, if the dangerous driving was deliberate (for instance, in “hell riding” cases), this would also indicate a higher level of culpability. Aside from these two principal parameters, the court should also have regard to other mitigating and aggravating factors which do not directly relate to the commission of the offence per se. These include (but are not limited to) an accused’s good or bad driving record, as well as his remorse or lack thereof.”_
+
+22     As highlighted by the Prosecution[^14], this harm-culpability framework has been endorsed in the cases of _Public Prosecutor v Aw Tai Hock_ <span class="citation">\[2017\] 5 SLR 1141</span> and _Stansilas Fabian Kester v Public Prosecutor_ \[2017\]5 SLR 755 (“Stansilas”).
+
+#### Level of Harm
+
+23     In my view, the level of harm caused by the Accused’s dangerous driving was between the moderate and serious levels on a spectrum of hurt under section 64(2B(a) of the RTA.
+
+24     The victim sustained fractures on multiple parts of her body – collarbone, upper limbs, ribs, sternum, hip. She also sustained injuries to her lungs, chest, right arm nerves and eyes[^15]. Whilst some of the fractures were conservatively treated, the victim underwent surgical fixation of her right humerus midshaft and her left clavicle. The extent of her injuries could also be seen in the number of days she was hospitalised for - a total of 33 days, and her period of hospitalization leave of 71 days (which included the days she was hospitalised for). It was no wonder that the victim sustained such injuries since she was trapped under the Accused’s car and had to be extricated by paramedics.
+
+25     The determination of the victim’s injuries as falling into the “_serious harm_” category did not offend the indicators of harm as set out in _Stansilas_. As submitted by the Prosecution, even though _Stansilas_ involved a charge of drink driving under section 67(1)(b) of the RTA, the various degrees of actual harm in _Stansilas_ were equally relevant in the context of dangerous driving[^16]. In _Stansilas_, “_serious harm_” encompassed “_serious personal injury usually involving fractures including injuries which are permanent in nature and/or which necessitate significant surgical procedures_”[^17]. The medical report confirmed that the victim had undergone surgery to fix the fractures on her left clavicle and right humerus midshaft.
+
+26     Having said that, on the evidence, it was inconclusive whether the victim had sustained any permanent disability as a result of the accident since she did not return to the hospital for a follow-up upon discharge. On this count, I was prepared to accord the Accused the benefit of a doubt. However, given the number and nature of injuries documented by the doctor upon her admission on 17 January 2020, her prolonged stay in hospital as well as the medical leave thereafter, I was of the view that overall, the level of harm would hover between moderate and serious levels.
+
+#### Level of Culpability
+
+27     I assessed the culpability of the Accused to be in the medium to high range of “low”.
+
+28     I noted these facts in connection with the Accused’s failure to give way to the victim as she was crossing on a green man at the signalised pedestrian crossing:
+
+> (a)     The victim had actually walked past the front of the Accused’s car when he was stationary on a red light in his direction. She remained visible on his right while waiting for the traffic light to be in her favour, before crossing the road that he was turning into[^18];
+
+> (b)     The Accused was travelling on a one-directional road i.e., there were no oncoming vehicles travelling from the opposite direction which may have diverted the Accused’s attention and distracted him from noticing the victim as he was making the right turn into Maxwell Road;
+
+> (c)     The screenshot in the Statement of Facts showed that the victim was clearly visible from the Accused’s perspective as he was making the turn[^19]. From the perspective of the in-car camera, there were no obstacles obstructing the visibility of the Accused, and the movement of the victim should have been easily observed from the Accused’s point of view[^20].
+
+> (d)     The Accused failed to stop at the right turning pocket and did not slow down at all when making the right turn[^21]; and
+
+> (e)     It appeared that it was only upon impact that the Accused realised that there was a pedestrian since he failed to stop his motor car immediately. By the time he stopped his motor car, he had already negotiated the right turn for approximately one car length and caused the victim to be trapped under his car[^22].
+
+29     Whilst the essence of the Accused’s dangerous driving lay in him failing to give way to the victim when she was on a pedestrian crossing on a green man, the facts above raised his culpability to the medium to high range of “low”.
+
+30     I was able to accept that there was no evidence of the Accused’s conduct falling within the description of “_egregious irresponsible driving_” insofar as there was no evidence of him speeding across the pedestrian crossing, using his mobile phone when driving or that he was intoxicated or on drugs et cetera at the material time. However, given the levels of harm and culpability in this case, I was satisfied that the custodial threshold had been crossed. Whilst the Accused’s manner of driving and the consequences which followed may not warrant an imprisonment anywhere near the maximum imprisonment prescribed for this offence, it warranted a deterrent sentence in the form of a custodial term. A fine, even a heavy one would not be an appropriate sentence in this case.
+
+### Sentencing Precedents
+
+#### Public Prosecutor v Lee Kuan Yee
+
+31     The case of _Public Prosecutor v Lee Kuan Yee_ <span class="citation">\[2020\] SGDC 298</span> (“_Lee Kuan Yee_”) was cited by Defence Counsel in support of his submission for a fine to be imposed. This was one of two reported cases involving an offence under section 64(2B)(a) of the RTA which was relevant at the time of sentencing. The other reported case[^23] considered different issues.
+
+32     This was a case where the offender was travelling on the third lane of four lanes from the right along Moulmein Road towards the direction of Newton Road. It was a going-straight-only lane. He stopped his motorcar when the traffic light turned red. When the traffic light turned green, the offender, instead of proceeding straight towards Newton Road, decided to make a right turn towards Thomson Road. This resulted in a collision with a motorcycle which was proceeding straight from the opposite direction. At that material time, the traffic light was showing green in favor of the motorcyclist with the red right-turn arrow against the offender. The culpability of _Lee_ was placed at the lower end of moderate.
+
+33     In terms of harm, the motorcyclist was conveyed conscious to Tan Tock Seng Hospital on the day of the accident and was discharged on the next day on the 28th day of January 2020. He sustained a closed comminuted fracture of his right distal radius. The victim received 7 days of hospitalisation leave from the hospital. The harm was pegged at medium. On these facts, the offender in _Lee Kuan Yee_ was fined a sum of $7,500 and disqualified from driving for 18 months. The decision in the lower court was upheld on appeal.
+
+34     The distinction between the present case and _Lee Kuan Yee_ in terms of the level of harm is apparent. As pointed out by the Prosecution: “_While the difference between the culpability of the accused here and the offender in Lee Kuan Yee is relatively small, the difference in the harm caused is significant…….the harm caused here was significantly greater, as seen from the number and location of fractures, the need for surgical intervention on two of the victim’s injuries, and the length of medical leave given to the victim_” [^24].
+
+35     I agree with the Prosecution. The injuries of the victim in this case were far more severe than the motorcyclist in _Lee Kuan Yee_, even if the levels of culpability were comparable. There can be no doubt that actual harm which results from irresponsible driving is a critical factor in determining the sentence to be imposed. The 2019 RTA amendments clearly had its focus on the level of harm caused. As stated in the Second Reading of the RT(A) Bill: “_Besides looking at the circumstances of the offence, our enhanced approach will also consider the level of harm caused. If the motorist causes more harm, the level of punishment will be higher_”.
+
+36     The harm caused to the victim in this case was also not mitigated by the Accused’s manner of driving. I did not agree with Defence Counsel’s submission that his client’s culpability was “_way lower than the \[offender’s\] culpability in Lee Kuan Yee_”[^25]. As discussed, the degree of the Accused’s culpability was not at the lowest, noting the circumstances in which he had failed to notice and give way to the victim. His manner of driving with the attendant consequences was deserving of a custodial sentence.
+
+#### Public Prosecutor v Koh Thiam Huat
+
+37     In _Koh Thiam Huat_, the offender was driving his motor lorry and came to a signalised traffic junction, where he failed to conform to the red light signal. This resulted in a collision with the victim, who was then crossing the signalised traffic junction on a green man signal from his right to left. The offender admitted that he did not notice the traffic light signal as he was following a white sedan car in front of him, and that he did not notice the victim until she was about an arm’s length away.
+
+38     The victim suffered multiple injuries as a result of the accident, including traumatic head injury features such as a comminuted undisplaced fracture of the skull vault in the left parieto-temporal region extending to the temporal bone. She was warded for seven days and given hospitalisation leave over two periods totaling 42 days (this latter figure included the seven days she was warded)[^26].
+
+39     The offender was fined a sum of $3,000[^27] and disqualified from driving for 11 months in the lower court. On appeal, the High Court substituted the fine with one week’s imprisonment and a disqualification of 18 months. The Court found that “_harm caused by the offence tended towards the higher side but that the \[offender’s\] culpability was not particularly high….. what ultimately tipped the balance in bringing the present case over the custodial threshold was the \[offender’s\] bad driving record_”[^28].
+
+40     Defence Counsel stated that since his client’s driving record was “_almost unblemished_” and like _Koh Thiam Huat_, the Accused’s driving was not particularly dangerous, he submitted that the custodial threshold had not been breached. He accepted that a much higher fine may be imposed seeing that the Accused’s offence was committed after the 2019 RTA amendments[^29].
+
+41     As recognized by Defence Counsel himself, _Koh Thiam Huat_ was a case decided before the 2019 RTA amendments. Then, all forms and manner of dangerous driving were punished under section 64(1) of the RTA alone, with a single prescribed punishment with no differentiated levels of harm. With the 2019 RTA amendments, as urged by the Prosecution, the court now had to specifically consider the hurt caused in this case against a whole spectrum of hurt under section 64(2B)(a) of the RTA which would utilize the entire range of sentence. On such a re-look, in the words of the learned DPP: “_something borderline in the past will no longer be borderline here_”[^30]. One would need to treat with circumspection the sentences imposed in precedent cases prior to the 2019 RTA amendments. I was not persuaded by the case of _Koh Thiam Huat_ that the appropriate sentence in this case should be a high fine.
+
+42     Save for general principles cited in other case authorities raised by Defence Counsel, I did not find them particularly helpful in my consideration of the sentence since they involved offences under different legislation.
+
+## The Appropriate Sentence
+
+43     Having determined that the custodial threshold had been crossed, the next more difficult question to be considered was what the appropriate sentence should be.
+
+44     Explaining the sentence of eight weeks’ imprisonment they were seeking, the learned DPP himself recognized that there were no applicable reported cases at this point in time and that the jurisprudence in this area was in a state of “_flux_”[^31]. The caution in relying on unreported cases remained. Given the nature of the injuries and the manner in which the Accused had driven his vehicle, Prosecution stated that the appropriate imprisonment term in the current case would not be at the “_lowest end_” but “_because sentencing norms are being pushed up, instead of a borderline low imprisonment case, this would be a clear but low imprisonment case_”[^32] Further, the Prosecution considered that on the facts, the charge preferred in this case could easily be one of causing grievous hurt by dangerous driving where the prescribed punishment was a minimum imprisonment term of one year[^33]. That was an indication that the imprisonment in this case should not be “_too low_”[^34]. I found Prosecution’s perspective to be fairly thought-provoking. Based on the facts of the case and an assessment of harm and culpability, a sentence of eight weeks’ imprisonment could be justified.
+
+45     I was prepared to extend a measure of leniency on the Accused. I took into account the fact that he had pleaded guilty and was genuinely remorseful for the offence. As put forward by Defence Counsel, at the scene, the Accused rendered his assistance to the victim and stayed with her until the ambulance arrived. He penned a letter of apology to the victim and also attempted to make compensation to her. In terms of his driving record, the Accused only had one compounded offence for speeding, committed in March 2020. Overall, I was certain that the Accused had taken a valuable lesson from this experience. Where the level of culpability was low, as in this case (notwithstanding it was in the medium to high range of low), I was satisfied that a short imprisonment term would be both sufficient punishment and deterrence for the Accused.
+
+46     Having regard to the totality of the facts and circumstances in this case, I sentenced the Accused to five weeks’ imprisonment and imposed a disqualification of 30 months, with effect from the date of his release from prison.
+
+## Conclusion
+
+47     The Accused is currently on bail pending this appeal. As with the imprisonment, disqualification has been stayed.
+
+* * *
+
+[^1]: Statement of Facts dated 13 August 2021
+
+[^2]: Footage not played in court; NE 16 August 2021, 10/21-27
+
+[^3]: Medical Report dated 13 April 2020
+
+[^4]: Prosecution’s Skeletal Submissions on Sentence
+
+[^5]: Prosecution’s Skeletal Submissions on Sentence, \[4\]-\[5\]
+
+[^6]: NE, 22 September 2021, 4/19-5/12
+
+[^7]: Prosecution’s Skeletal Submissions on Sentence, \[14\]-\[15\]
+
+[^8]: Plea-in-Mitigation, \[7\]-\[8\]
+
+[^9]: Plea-in-Mitigation, \[19\]-\[36\]
+
+[^10]: Plea-in-Mitigation, \[37\]-\[51\]
+
+[^11]: Plea-in-Mitigation, \[52\]-\[58\]
+
+[^12]: This was recognised in _Public Prosecutor v GS Engineering & Construction Corp_ <span class="citation">\[2017\] 3 SLR 682</span> at \[51\]
+
+[^13]: _Poh Boon Kiat v Public Prosecutor_ <span class="citation">\[2014\] 4 SLR 892</span> at \[60\]; reiterated in _Janardana Jayasankarr v Public Prosecutor <span class="citation">\[2016\] 4 SLR 1288</span>_, at \[21\]
+
+[^14]: Prosecution’s Skeletal Submissions on Sentence, \[9\]
+
+[^15]: Medical Report from Singapore General Hospital dated 13 April 2020
+
+[^16]: Prosecution’s Skeletal Submissions on Sentence, \[9\]; _Public Prosecutor v Aw Tai Hock_ <span class="citation">\[ 2017\] 5 SLR 1141</span> at \[33\]
+
+[^17]: _Stansilas Fabian Kester v Public Prosecutor_, \[75\]
+
+[^18]: Statement of Facts, \[5\]; Prosecution’s Submission on Sentence, \[9b\]
+
+[^19]: Statement of Facts, \[6\]
+
+[^20]: Prosecution’s Skeletal Submissions on Sentence, \[9f\]
+
+[^21]: Statement of Facts, \[7\]; Prosecution’s Submission on Sentence, \[9d\]
+
+[^22]: Statement of Facts, \[8\]; Prosecution’s Skeletal Submissions on Sentence, \[9e\]
+
+[^23]: _Public Prosecutor v Mills Simon Nicholas_ <span class="citation">\[2021\] SGDC 187</span>
+
+[^24]: Prosecution’s Skeletal Submissions on Sentence, \[19\]
+
+[^25]: Plea-in-Mitigation, \[69\]
+
+[^26]: _Public Prosecutor v Koh Thiam Huat_ <span class="citation">\[2017\] 4 SLR 1099</span>, headnotes
+
+[^27]: At the time of the offence on 20 August 2015, the maximum punishment for a first offender under section 64(1) RTA was a fine not exceeding $3,000 or to imprisonment for a term not exceeding 12 months or to both
+
+[^28]: _Public Prosecutor v Koh Thiam Huat_ <span class="citation">\[2017\] 4 SLR 1099</span> at \[63\]
+
+[^29]: Plea-in-Mitigation, \[79\]-\[82\]
+
+[^30]: NE 22 September 2021, 25/12-26/20
+
+[^31]: NE 22 September 2021, 5/23-26
+
+[^32]: NE 22 September 2021, 8/8-11; 8/12-9/13
+
+[^33]: Section 64(1) punishable under section 64(2A)(a) of the RTA
+
+[^34]: NE 22 September 2021, 9/29-32
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F26747-SSP.xml)

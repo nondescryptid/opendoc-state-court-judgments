@@ -1,0 +1,141 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Tay Boon Ping (Zheng Wenbin) _v_ Nadar Rajesh and another  
+
+### \[2021\] SGDC 244
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">District Court Suit No 2745 of 2020, District Court Appeal No 38 of 2021</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">02 November 2021</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Jonathan Toh Jun Hian</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Han Hean Juan (Hoh Law Corporation) for the plaintiff; Tay Boon Chong Willy (Willy Tay's Chambers) for the defendants.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Tay Boon Ping (Zheng Wenbin) — Nadar Rajesh — Visco Offshore Engineering Pte. Ltd.</td></tr></tbody></table>
+
+Tort – Negligence – Breach of duty
+
+\[LawNet Editorial Note: An appeal to this decision has been filed in DCA 38/2021.\]
+
+2 November 2021
+
+### District Judge Jonathan Toh Jun Hian:
+
+## Introduction
+
+1       On 24 March 2020 at about 9 pm, the car driven by the 1st defendant collided into the plaintiff who was riding a bicycle across the zebra crossing of the East Coast Park Service Road near the East Coast Lagoon Food Village. The plaintiff was flung from his bicycle and conveyed to the hospital thereafter.
+
+2       The trial was bifurcated. At the trial on liability, the plaintiff called himself as his sole witness and the 1st defendant gave evidence on behalf of both defendants. It was not disputed that the car was owned by the 2nd defendant and that the 1st defendant was driving the car in the course of his employment with the 2nd defendant. As such, the 2nd defendant would be vicariously liable for the 1st defendant’s negligent driving.
+
+3       After hearing oral closing submissions, I granted the plaintiff interlocutory judgment to the extent of 60% of the damages to be assessed with costs and interest reserved to the Court assessing the damages. The plaintiff has filed an appeal and I set out my grounds of decision.
+
+## The Facts
+
+### The Parties’ cases
+
+4       The main factual dispute concerns how the plaintiff came to cross the zebra crossing on his bicycle.
+
+5       The plaintiff’s case was that he was riding his bicycle along the cycling or foot path at East Coast Park. He came from the East Coast Park C4 fitness corner and was on his way home at Block 33 Bedok South Avenue 2, Singapore 460033.[^1] His route took him across the zebra crossing of the East Coast Park Service Road near the East Coast Lagoon Food Village. When he was doing so, the 1st defendant drove the car through the zebra crossing without stopping and collided into the plaintiff’s bicycle.[^2]
+
+6       The defendants’ case was that the 1st defendant was driving eastbound along the East Coast Park Service Road towards the car park near the East Coast Lagoon Food Village. He approached the zebra crossing and checked that there were no pedestrians or cyclists on both sides before driving through. There was a car on the opposite lane traversing the zebra crossing at about the same time (the “non-party car”).[^3] The plaintiff was not cycling on the foot path towards the zebra crossing. Rather, he was cycling on the opposite lane of the East Coast Park Service Road trailing the non-party car. He then decided to cycle across the zebra crossing, cutting across the path of the 1st defendant’s car from the right to the left and giving the 1st defendant no reasonable time to avoid contact. As such, the defendants argued that the 1st defendant was not negligent.
+
+### My findings
+
+7       After hearing the evidence, I made the following findings of fact.
+
+8       First, I found that the plaintiff had crossed the zebra crossing from the pedestrian foot path beside the East Coast Lagoon Food Village. He was not cycling on the East Coast Park Service Road on the opposite lane trailing behind the non-party car.
+
+> (a)     The plaintiff’s evidence was that he had come from the fitness corner in East Coast Park near the Macdonald’s restaurant at Marine Cove[^4] after exercising there and had cycled along the cycling or foot path to get home to Block 33 Bedok South Avenue 2. This would lead him to cross the zebra crossing near the East Coast Lagoon Food Village.[^5] He had done this many times.[^6] The defendants had no basis to contradict this evidence.
+
+> (b)     If the plaintiff was cycling along the East Coast Park Service Road to get home, he would have been travelling in the same direction as the 1st defendant rather than the opposite direction. There was no reason put forth to explain why the plaintiff would be coming from the opposite direction.
+
+> (c)     The defendants’ case that the plaintiff was cycling on the opposite lane of the East Coast Service Road was not based on the 1st defendant’s knowledge but was merely speculative. The 1st defendant’s evidence in his AEIC[^7] and the police report made on 1 April 2020[^8] was that he was unsure where the plaintiff came from. He believed that the plaintiff was cycling behind the car on the opposite lane of the road because he had checked that there was no pedestrian or cyclist entering the zebra crossing before he drove across.
+
+> (d)     This did not prove that the plaintiff was cycling on the opposite lane of the East Coast Park Service Road. It was more likely that the 1st defendant did not see the plaintiff coming from the foot path because his view was blocked by the car that was crossing the zebra crossing in the opposite lane at the same time.
+
+9       Prior to cycling across the zebra crossing, the plaintiff navigated yellow speed barriers[^9] which required him to slow down and ride in a zig-zag manner.[^10] This brought him to almost a stop.[^11] At this time, he had already seen the 1st defendant’s car approaching the zebra crossing. He nevertheless chose to cycle across the zebra crossing without stopping because he thought that the car was still far away.[^12] The plaintiff estimated that he had accelerated to about 20 km/h when cycling across the zebra crossing.[^13] He agreed that this was faster than walking speed, which was about 5 km/h.[^14]
+
+10     The 1st defendant was driving quite slowly when he approached the zebra crossing. As the 1st defendant explained, the crossing was on a hump[^15] that required him to slow down. Further, the 1st defendant was intending to enter the car park a short distance away from the zebra crossing,[^16] and had no reason to be speeding.
+
+11     I also accepted the 1st defendant’s evidence that there was a non-party car in the opposite lane that was driving through the zebra crossing at about the same time when the 1st defendant was doing so.[^17] This fact was contemporaneously reported by him in his police report of 1 April 2020.[^18]
+
+12     I found that the plaintiff cycled across the zebra crossing behind the non-party car as it crossed the zebra crossing on the opposite lane. In his police report, the plaintiff stated that the road to his right was clear, but he made no mention of the traffic to his left.[^19]
+
+13     This was also likely to be the reason why the 1st defendant did not see the plaintiff on the foot path cycling towards the zebra crossing. The 1st defendant’s evidence was that he only started to look out for pedestrians between 1.5 and 2 car lengths from the zebra crossing.[^20] By this time, his view was likely to be blocked by the non-party car and as such he did not see the plaintiff’s bicycle until it was too late.
+
+14     As for the point of impact, the defendants argued that the bicycle crashed directly into the side of the car while the plaintiff argued that it was the front of the car that hit the side of the bicycle.
+
+15     In my view, the point of impact was the front right corner of the car hitting the left side of the bicycle as the bicycle was moving across the zebra crossing. The bicycle’s momentum brought it forward to damage the front license plate of the car while the plaintiff was flung towards the left side of the car. This is consistent with the objective evidence:
+
+> (a)     The license plate at the front of the car was cracked and damaged.[^21]
+
+> (b)     There was also damage and scratches both to the front right corner as well as the right side of the car above the wheel.[^22]
+
+> (c)     Both parties also gave consistent evidence that after the collision, the plaintiff ended up on the left side of the car at the edge of the zebra crossing and the pavement.[^23]
+
+16     If the bicycle had simply collided into the side of the car, the rider would have been flung over the car, while the bicycle remained on the side without damaging the license plate. If the front of the car had hit the bicycle, there would not be the dent and scratches on the right side of the car.
+
+## Liability
+
+17     In my view, the 1st defendant was negligent by driving through the zebra crossing without stopping and colliding with the plaintiff’s bicycle.
+
+18     First, the plaintiff has precedence at the uncontrolled crossing. Rule 6 of the Road Traffic (Pedestrian Crossings) Rules (1990 Rev Ed) states:
+
+> The driver of every vehicle at, or approaching, a pedestrian crossing where traffic is not for the time being controlled by a police officer or by light signals shall allow free and uninterrupted passage to any pedestrian, cyclist, mobility vehicle user or PMD rider who is either crossing or is starting to cross a road and every pedestrian, cyclist, mobility vehicle user and PMD rider shall have precedence over all vehicular traffic at such crossing.
+
+19     A reasonable driver in the 1st defendant’s position would have taken more care to check that there was no pedestrian, cyclist, or other person using or approaching the zebra crossing before driving across. If the driver’s view of the pedestrian traffic was blocked by a car driving across on the opposite lane, he should slow down to a stop and wait to ensure that he could see that the crossing was clear and that there were no pedestrians or other users attempting to cross.
+
+20     On the other hand, this is also a case where the plaintiff was contributorily negligent.
+
+21     Even though the plaintiff saw the 1st defendant’s car moving towards the zebra crossing earlier on, he did not stop and wait to make sure that the road was clear and that there was no on-coming traffic in breach of rule 14(1) of the Road Traffic (Pedestrian Crossings) Rules.
+
+22     Instead, the plaintiff cycled across the road at a fast speed. As stated at \[9\] above, the plaintiff estimated his speed to be about 20 km/h. Pursuant to paragraph 44B of the Highway Code (1990 Rev Ed), he was supposed to cross the zebra crossing at walking speed, which he agreed was about 5 km/h. As such, the plaintiff was cycling at an excessively fast speed across the zebra crossing. There was no good reason for the plaintiff to do so. He had just navigated the speed barriers before the zebra crossing which required him to slow to almost a standstill. He could have slowly navigated the crossing at walking speed or simply come to a stop until the road was clear. Instead, he chose to cross immediately and accelerate to a speed of about 20 km/h, which resulted in the collision.
+
+23     I come now to the apportionment of liability. In _Cai Xiao Qing v Leow Fa Dong_ <span class="citation">\[2012\] SGHC 67</span> (“_Cai Xiao Qing_”), the driver of a car in a collision with a cyclist at a zebra crossing was found to be liable to the extent of 70% of the damages. The High Court found that the cyclist was cycling at speed, the driver was not driving at an excessive speed, the cyclist noticed the car’s presence but proceeded nevertheless to cross, and the driver was not aware of the cyclist’s presence (_Cai Xiao Qing_ at \[28\]).
+
+24     The relevant facts of this case are quite similar to those highlighted in _Cai Xiao Qing_. However, I was of the view that the plaintiff’s share of the liability should be slightly more than the cyclist in _Cai Xiao Qing_. In particular, the plaintiff had decided to cycle at speed across the zebra crossing _behind_ the non-party car. This created a more dangerous situation on the road because the 1st defendant’s view could be blocked by the non-party car.
+
+25     In the circumstances, I granted the plaintiff interlocutory judgment to the extent of 60% of the damages to be assessed, with costs and interest reserved to the court assessing the damages.
+
+* * *
+
+[^1]: Plaintiff’s Answer to Interrogatories filed on 26 July 2021, Answers 1 to 3.
+
+[^2]: Statement of Claim (Amendment No. 1) filed on 1 July 2021, \[1\] (“SOC”).
+
+[^3]: Affidavit of Evidence in Chief of Nadar Rajesh filed on 24 March 2021, \[6.2\] – \[6.7\] (“1st Defendant’s AEIC”).
+
+[^4]: Notes of Evidence, 6 September 2021, 12/21 (“NE, \[page\]/\[line\]”).
+
+[^5]: Defendant’s Bundle of Documents (“DBD”), DBD 6.
+
+[^6]: NE, 55/24.
+
+[^7]: 1st Defendant’s AEIC, \[6.8\].
+
+[^8]: 1st Defendant’s AEIC, page 8.
+
+[^9]: DBD 6.
+
+[^10]: NE, 19/7-23.
+
+[^11]: NE, 56/30-57/3.
+
+[^12]: NE, 56/20-57/9.
+
+[^13]: NE, 54/4-16.
+
+[^14]: NE, 34/5-15; 48/30-32.
+
+[^15]: NE, 82/20.
+
+[^16]: NE, 68/9-13.
+
+[^17]: 1st Defendant’s AEIC, \[6.8\].
+
+[^18]: 1st Defendant’s AEIC, page 8.
+
+[^19]: Affidavit of Evidence-in-Chief of Tay Boon Ping filed on 24 March 2021, page 6 (“Plaintiff’s AEIC”).
+
+[^20]: NE, 88/30-89/6.
+
+[^21]: 1st Defendant’s AEIC, page 20.
+
+[^22]: 1st Defendant’s AEIC, page 22.
+
+[^23]: NE, 29/4-30/28; 110/22-113/13.
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F26766-SSP.xml)

@@ -1,0 +1,648 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Ran Weidong  
+
+### \[2021\] SGMC 85
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Magistrate's Arrest Case No. 902209 of 2020, Magistrate's Appeal No. 9165-2021-01</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">23 November 2021</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">Magistrates Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Christopher Goh Eng Chiang</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Jeremy Bin (Attorney-General's Chambers) for the Prosecution; Terence Tan and Jolyn Yeo (Genesis Law Corporation) for the Accused.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Ran Weidong</td></tr></tbody></table>
+
+Criminal Law – Statutory Offence – Outrage of Modesty
+
+Criminal Procedure and Sentencing – Sentencing
+
+\[LawNet Editorial Note: An appeal to this decision has been filed in MA 9165/2021/01.\]
+
+23 November 2021
+
+### District Judge Christopher Goh Eng Chiang:
+
+## Introduction
+
+1       The accused, a 35-year-old Singapore Permanent Resident, claimed trial to one outrage of modesty (“OM”) charge under s 354(1) of the Penal Code (Cap 224) (“PC”). The accused, the owner and one of the masseurs at a massage shop, Kang Foot Wellness located at JCube Shopping Mall, was alleged to have outraged the modesty of the 24-year-old victim (“the Victim”), who was a customer at his massage establishment.
+
+2       At the conclusion of the trial, I convicted the accused and sentenced him to 14 months’ imprisonment and three strokes of the cane. The accused, being dissatisfied his conviction and the sentence imposed, now appeals against it.
+
+## The Charge
+
+3       The charge faced the accused was as follows
+
+> _“ …. that you, on 3 May 2019 at about 10.05pm, at a massage establishment named “Kang Foot Wellness” located at 2 Jurong East Central 1, J Cube, #B1-04, Singapore, did use criminal force to …. \[the Victim\] …., intending to outrage her modesty, to wit, by using your fingers to touch the victim’s vulva area of her vagina, and you have thereby committed an offence punishable under Section 354(1) of the Penal Code, Chapter 224.”_
+
+## Case for the Prosecution
+
+4       The main witnesses called by the Prosecution are as follows:
+
+> (a)     The Victim (“PW2”);
+
+> (b)     Kelvin Fern Yu Hua (“PW3”), a friend of the Victim;
+
+> (c)     Shaun Paul Peh Yee Wei (“PW4”), a friend and was a colleague of the Victim when the OM incident occurred; and
+
+> (d)     Charlene Lee Zhi Hui (“PW5”), a friend of the Victim and who had introduced her to Kang Foot Wellness.
+
+### Facts leading up to the OM incident [^1]
+
+5       On 3 May 2019, the Victim made a booking at Kang Foot Wellness (“the shop”) for a 40-minute foot massage for SGD$35.00. She wanted a foot massage because she had hurt her foot at Muay Thai. As her regular masseuse was unavailable, her friend, PW5, introduced the shop to her as an alternative. PW5 and another of the Victim’s friends, PW3, were aware that the Victim had scheduled a foot massage at the shop that evening.
+
+6       The Victim arrived at the shop at about 2045 hrs and she met the accused in the shop. As she was wearing a pair of jeans, the accused passed her a pair of shorts to change into. She then washed her feet, before getting seated in a massage chair for the foot massage. At 2055 hrs, the Victim sent a Telegram text message, with a photo, to PW3, letting him know that she was at the shop.[^2] There was no one else in the shop.
+
+7       The accused then began massaging the Victim’s legs, beginning with the Victim’s left leg from the ankle area upwards, then the right leg. As the accused reached the region of the Victim’s thigh, he then massaged her inner thigh.[^3] She felt weird at the accused’s touches.
+
+8       At about 2155 hrs, the Victim had finished her scheduled massage session. The accused then told the Victim that what was affecting the pain in her ankle was her waist. He was willing to extend the session as there were no longer any customers for the day.
+
+9       The accused and the Victim then moved from the massage chair to the neighbouring massage bed area, which was separated by a curtain. The accused then drew the curtains encircling the massage bed.
+
+### The OM incident
+
+10     Upon the request of the accused, the Victim proceeded to lie face down on the massage bed. The accused began the massage on the Victim’s left ankle and moved his hand upwards, with his fingers and hands making circular motions.
+
+11     As the accused’s hands reached the Victim’s shorts, he rolled up the left hem of her shorts. She felt that her left buttocks were exposed. The accused hands then went into her shorts. She felt like his fingers were trying to get into her panty and the sides of her vagina[^4]. She kept fidgeting and was feeling uncomfortable. Eventually, she said “_enough_” in mandarin (ie. “_gou le_”), indicating that the accused should stop whatever he was doing. The Victim was scared and conceded that she did not say “_enough_” in a stern voice.
+
+12     The accused stopped massaging the left leg after the Victim said “_enough_”, and moved to the right leg, beginning with the right ankle. The victim was still lying on her stomach. Like the left leg, the accused started from the right ankle and worked his way up the Victim’s right leg with his hands and fingers moving in a circular motion. He then rolled up the right hem of the Victim’s shorts, also exposing her buttocks. At this point, both hems of the shorts were rolled up.
+
+13     Once again, the Victim felt as though the accused was trying to get his fingers into her panty. She kept fidgeting, trying to move away her vagina away from his fingers. She was not successful, and she could feel the accused’s fingers get into her panty.[^5] He touched her at the region around her private parts for about a minute to a minute and a half [^6]. She kept saying “_enough_” and that “_it’s not pain already_” in mandarin[^7], meaning that her ankles were no longer painful, and she wanted him to stop. She was feeling really scared.
+
+14     The accused then told her that, as the pain in her ankles was coming from her waist, he wanted to massage her waist. The accused then pulled down the top of the shorts. As the Victim as still lying on her stomach, this meant that the top half of her buttocks were exposed. He then proceeded to massage her waist.[^8] He did this only for a short while as she kept saying “_enough_”, and “_that it’s not pain already_”
+
+15     At this time, the air-conditioning had already shut down and the Victim could tell that the accused was perspiring. He then asked the Victim to lie on her side and face him. He told the victim that he wanted to “crack her bones”, like cracking one’s knuckles. This was when she noticed that that the accused’s penis was erected. She was shocked and scared. It made her feel that he had touched her deliberately for his own pleasure.
+
+16     After “cracking her bones”, the accused then asked the Victim to sit up. She sat near the edge of the massage bed with the accused behind her. His hands then went underneath her blouse to massage her shoulders. As he did so, she felt his hands coming lower and lower down the front of her body, although he definitely did not touch her chest area, meaning her breast[^9]. She did not request for this massage and neither did the accused explain why he was doing it.
+
+17     After the accused massaged the Victim’s shoulder area, the massage ended. The Victim changed back into her jeans and went to the counter to pay for the massage. As she was putting her shoes back on, she noticed that the accused’s pants were tight, and saw that the accused still had an erection. She then left he shop quickly. The Victim did not leave the massage halfway because she was scared. She was alone and did not know what the accused to do.[^10] In essence, she froze.
+
+### Victim’s reaction after the OM incident
+
+18     Upon leaving the shop, she told PW3, PW4 and PW5 what happened.
+
+#### Reaction viz PW3
+
+19     PW3 is a good friend of the Victim. He would usually accompany the Victim when she goes for massages. However, he did not accompany her for the massage on 3 May 2019 as he was out with his friends.
+
+20     It was at 2237 hrs that evening that the Victim first told PW3 about the incident at the shop through text messages.[^11] She had felt awkward telling PW3 what had happened, that was why she used terms like “LOL” or “LMAO” (ie. “_Laugh Out Loud_” and “_Laughing My Ass Off_” respectively) to hide her awkwardness. Through her messages, she told PW3 that the accused had touched her butt and the sides of her vagina.[^12]
+
+21     Later that evening, just before midnight, PW3 called the Victim, telling her that he was coming home and that he would look for her. They then arranged to meet up for supper. During supper, the Victim described to PW3 what happened during the massage. It appeared to PW3 that the Victim was confused and unsure whether was done to her by the accused was wrong. However, the Victim was crying, frightened and mentioned that she felt “dirty”.[^13] They decided to clarify with her regular masseuse what would be the correct procedure for a leg massage before deciding on whether to make a police report.
+
+22     Later that day, 4 May 2019, they went to the massage place at Jurong Mall that the Victim usually frequented. PW3 is unable to recall the exact conversation with the Victim’s regular female masseuse but he did recall that such massages should not have even gone above the knee level.
+
+23     From the massage place in Jurong Mall, they went to the shop ie. Kang Wellness at JCube. PW3 proceeded to confront the accused while the Victim remained outside the shop. After confirming the identity of the accused, PW3 sought an explanation from him. The accused claimed that he may have touched the Victim’s vagina accidentally. PW3 remembered the accused explaining to him that he had an erection because he thought that the Victim was very pretty. However, he does not recall the accused saying that he had no ulterior motives against her. The accused then offered to apologize personally to the Victim.
+
+24     Later that evening, PW3 accompanied the Victim to make a police report at Yew Tee Community Club.[^14] Since the incident, the Victim has been afraid of going to work and of strangers and crowds. Healthwise, since the incident, she has been often sick and have been on medical leave regularly.
+
+#### Reaction viz PW4
+
+25     PW4 is a friend and an ex-colleague of the Victim. At the time of the incident, they were paralegals in the same law firm. PW4’s best friend is also the Victim’s boyfriend.[^15] On 3 May 2019, the Victim told him that she would be going for a massage at JCube as her regular masseuse was unavailable.
+
+26     On the evening of 3 May 2019, at about 2300 hrs, PW4 was having dinner with a friend at Changi Airport when he received a phone call from the Victim. PW4 recalled that the Victim told him that the masseur had touched her vagina and buttocks[^16]. The massage was normal in the beginning but when her thigh was being massaged, the masseur’s hand grazed against her vagina several times. The masseur stopped after the Victim said “_enough_” in mandarin. The masseur stopped massaging that area, went down the limb but went back to the same “private areas”.[^17] PW4’s personal assessment was that the Victim was scared and could not grasp what was happening. She was also appeared “dumbfounded” and “dis-orientated”.
+
+27     The Victim told him that she wanted to check with her regular masseuse whether what had happened was a normal occurrence. She wanted to be very sure that, if she makes a police report, she would not be a false accusation. The Victim declined PW4’s offer to come down and accompany her. PW4 understood this to mean that the Victim was already with a friend. In addition to this conversation, both the Victim and PW4 also communicated _via_ text messages. [^18]
+
+28     Based on his conversation and the text communication with the Victim, as well as the Victim’s own character, namely that he had not known the Victim to exaggerate, PW4 concluded that the Victim had been molested.[^19]
+
+29     The next day, 4 May 2021, the Victim kept PW4 updated with her (and PW3’s) visit to the Victim’s regular masseur and thereafter down to the shop at JCube where PW3 confronted the accused. It should be noted that while PW4 knew that PW3 was accompanying the Victim, he did not know PW3 personally.
+
+30     PW4 encouraged the Victim to make a police report. According to PW4, the Victim had indicated to him that she wanted to make a police report and therefore he, as her friend, encouraged her to do so because he wanted to show her his support.
+
+#### Reaction viz PW5
+
+31     PW5 is a close friend and gym mate of the Victim. She is familiar with the shop and the accused. The shop was near her home and she goes there regularly for body and foot massages. After the incident with the Victim, she had stopped going to the shop. She subsequently resumed her visits to the shop, although at a lesser frequency. The accused is her regular masseur and she described him as a sincere businessman.
+
+32     In May 2019, the date of the incident, the Victim had called her to ask for a recommendation for massages due to pain in her leg. PW5 had recommended Kang Foot Wellness. It was PW5 who had checked for available slots on behalf of the Victim. This call was at about 2030 hrs.
+
+33     After the massage, at about 2200 hrs, the Victim called her. The Victim wanted to know details like how long did PW5’s massages usually last, where (on her body) was she massaged and whether it was normal for massages to be done on the bed.[^20] The Victim told PW5 that her own massage had been long and that she was uncomfortable about it. She was asked to lie down on the bed and that the masseur massaged her thighs and went “up and up”. The Victim told PW5 that she felt violated. PW5 could feel fear in the tone of the Victim’s voice and the fact that she was unsure of herself.
+
+34     PW5’s conclusion after talking to the Victim was that she had been violated. The reason for this assessment was that the Victim’s description of the massage that she had bene given was very different from the massages that the accused had given PW5.
+
+35     The next day, the Victim once again called PW5. She updated PW5 on what had happened the previous night, her visit to the shop with her friend and her friend’s confrontation with the accused.
+
+36     About a year later, on 22 June 2020, the accused texted PW5 to say that he wanted to meet up and discuss something.[^21] The next day, 23 June 2020, PW5 met the accused at JCube. The accused expressed his concerned about the continuity of his business if he were to serve an imprisonment term. PW5 told the accused that if had done something wrong, he should plead guilty. The accused wanted PW5 to approach the Victim to see if he, the accused, could make any form of compensation so that the Victim would drop the charges.
+
+37     PW5 conveyed the accused’s offer to the Victim. However, the Victim did not want to accept any form of compensation.[^22] PW5 then conveyed the Victim’s answer to the accused.
+
+## Submission at the close of the Prosecution’s case
+
+38     At the close of the Prosecution’s case, the Defence made a submission of no case to answer. Having reviewed the written submissions of both the Defence and Prosecution,[^23] suffice to say, I was of the view that the Defence’s submission for no case to answer was clearly misconceived.
+
+39     The Defence main submission as to why the accused had no case to answer was, in essence, the quality of the Prosecution’s witnesses. For example, at \[72\] of the Defence’s written submission, the Defence submitted that PW4 was an “untruthful witness” or at \[42\] of the same submission, where it was submitted that PW2’s account of the alleged molest was “entirely unbelievable”. This was clearly not how the Court should treat a witness’s evidence at this stage of the trial.
+
+40     On the contrary, I did not find the Prosecution’s evidence inherently incredible. In my view, there was “ _…. some evidence which is not_ **_inherently incredible_** _and which satisfies each and every element of the charge …_.”[^24]. I therefore called upon the accused to enter his defence and administered the standard allocution. The accused elected to give evidence.
+
+## The Case for the Defence
+
+41     The accused is a male masseuse and the owner of Kang Foot Wellness and has been operating the establishment since 2016. The shop advertises certain Traditional Chinese Medicine (“TCM”) practices, but he is not a licenced TCM masseur.
+
+42     On 3 May 2019, the Victim made a reservation for a massage by telephone. The Victim arrived at the shop at about 2100 hrs. Although the accused was the only person in the shop, the Victim agreed to allow the accused to massage her. As she agreed to have her kneecap massaged, she changed out from her jeans and into a pair of shorts provided by the shop. Once done, the Victim sat down, and the accused commenced the massage.
+
+43     About 30 minutes into the massage, he told the Victim that the pain in her ankle was related to her waist.[^25] If she wanted to, she could try a waist massage. This would alleviate the pain in her calf and her ankles. The Victim agreed and proceeded to lie face down on the bed.
+
+44     The accused then covered the Victim’s body from her legs to her waist and started the massage using his elbow to press down. As the Victim found the massage painful, he suggested that he used some oil which would be more soothing. He proceeded to rolled up the hem of her blouse. He then used a towel, inserted it into the waist band of the Victim’s shorts, pushed the waistband down to half of the buttocks area. The accused then applied some oil to his hands and massaged the Victim’s lower back.[^26]
+
+45     He then began massaging the outer area of the left buttock for about two minutes when the Victim said “_enough_”. As he had only massaged her left side, he asked the Victim whether she wanted him to massage her right side. As the Victim nodded in affirmation, the accused walked over to the other side. He massaged the right side the same way as he did the left side.
+
+46     After he removed the oil, the accused pulled up the Victim’s shorts and pulled down her shirt. He then told the Victim to lie down on her side facing him. He then pressed down her right hip with his left hand. He continued by using his right hand to massage the Victim’s shoulder. He then had the Victim to relax her waist and began pounding the Victim’s right waist with his hands. He then did the same to the other side.
+
+47     After the accused had finished, he asked the Victim to sit up, facing him. He then spent 10 minutes massaging her shoulders which he claimed was tensed. Once he loosened her shoulders, he helped to adjust her spine. He “pressed” her head to the left and right, and there was a cracking sound. He massaged her upper back over her clothes and then tried to stretch her spine.
+
+48     Once the accused finished massaging the Victim, the Victim said “_thank you_” in mandarin. She then collected her clothes to change into. After changing, she told the accused that the massage was “_good_” when asked. They chatted for a while, and the accused recalled commenting that the Victim looked very young. He also told her to contact him should she continue to experience pain.
+
+49     At all times during the massage, the Victim was relaxed. However, when he first started massaging her waist, the Victim felt pain and to “dodge a bit”.[^27] However, once he started using oil for the massage, the Victim no longer experienced pain. It is also the accused’s evidence that they were chatting normally during the course of the massage.
+
+50     The following night, just as he was going to get off work, he was approached by a man who identified himself as the Victim’s boyfriend. The man asked him questions about the Victim, like how he had massaged her and how long was the massage. The accused explained to the man how he had massaged the Victim the previous night.
+
+51     He acknowledged that he had massaged the Victim above her kneecaps and her thighs. The accused explained why it was necessary to do so. When he massaged the back of the Victim’s thigh, she had her leg raised and because her pants (or shorts) were quite loose, he could have touched the side of the Victim’s vagina over her clothes.**[^28]** However, the Victim was relaxed and never expressed any discomfort throughout the massage. He denied that he had an erection but admitted to the man that his girlfriend (ie. the Victim), was pretty but he had no interest in her. The accused provided his name and contact number and told the man that if the Victim was unhappy or uncomfortable, she could come over and he would apologise to her. However, this was rejected by the man.
+
+52     Sometime in June 2020, after the Circuit Breaker in Singapore, the accused met the customer of his that had recommended the Victim for the massage on the first floor of JCube. The aim of this meeting was to settle the matter of the Victim’s allegation of molest. He told the Victim’s friend that he was willing to acceded to any condition or conditions that the Victim may have if the Victim would withdraw her charges against him. The main reason for this was to keep his business running. She eventually told him, after speaking to the Victim, that she was not willing to withdraw the charges.
+
+53     The accused denied that he had touched any of the parts that were marked out by the Victim in Exhibit P10. The accused maintained that he had no chance at any time to massage the Victim’s “private area” and that he did not massage the Victim’s thigh at all whilst she was on the massage bed. [^29]
+
+## The applicable legal principles
+
+54     As with most cases of this nature, it essentially the evidence of a victim, against that of the accused. There were no independent eyewitnesses any of the acts of molest in the present case.
+
+55     However, where sexual offences are concerned, a complainant’s testimony alone can constitute proof beyond reasonable doubt if it is so unusually convincing to overcome any doubts that might arise from the lack of corroboration (see: _Pram Nair v Public Prosecutor_ <span class="citation">\[2017\] 2 SLR 1015</span> at \[57\] (“_Pram Nair_”). In other words, if the evidence of the complainant is not “unusually convincing”, the conviction on the sole basis of the complainant’s testimony would be unsafe (see: _Haliffie bin Mamat v Public Prosecutor and other appeals_ \[2016\] SLR 636 at \[30\] (“_Haliffie_”).
+
+56     The term “unusually convincing” was explained by the Court of Appeal in _PP v Mohammed Liton Muhammed Syeed Mallik_ <span class="citation">\[2008\] 1 SLR(R) 601</span> at \[39\] as –
+
+> **_“…_** _In our view, therefore, the “extra something’ implied by the word “unusually” must refer to the need for the trial judge to be aware of the dangers of convicting solely on the complainant’s testimony as well as of the importance of convicting only on testimony that_, **_when weighed against the overall backdrop of the available facts and circumstances, contains that ring of truth which leaves the court satisfied that no reasonable doubt exists in favour of the accused_**_.”_
+
+> (Emphasis added)
+
+57     A trial judge evaluates whether this standard is met _“by weighing the demeanour of the complainant alongside both the internal and external consistencies found in the complainant’s testimony”_ (per Chan J in _Kunasekaran s/o Kalimuthu Somasundara v Public Prosecutor_ <span class="citation">\[2018\] 4 SLR 580</span> at \[26\] (“_Kunasekaran_”).
+
+58     There were no eyewitnesses of the OM incident. As such, I proceeded to evaluate the evidence of the Victim to determine if her evidence was unusually convincing.
+
+## Analysis of the Evidence
+
+### Whether the Victim’s evidence was internally consistent
+
+59     I first examined the Victim’s description of what had happened, from why she had gone to the accused’s shop as well as what happened when she was at the shop.
+
+#### The OM incident
+
+60     The Victim’s visit to the shop was not planned in advance. Her appointment was only made late in the day, due to the unavailability of her regular masseuse. This was recommended by her friend, PW5.
+
+61     The accused was alleged to have committed the act of molest while the Victim was lying on her stomach. The accused first massaged her left leg from her ankles upwards. When he reached the hem of the shorts, he proceeded to roll it up, exposing her buttocks. The Victim felt the accused’s fingers trying to get inside her panty as her continued the massage. I found the Victim’s description of the molest to be clear and concise. Her evidence was very compelling and believable. She described the actions of the accused’s hands and fingers as they went up the back of her thigh, namely in a circular motion, very vividly. It was understandable why she was uncomfortable and fidgeted when she felt his fingers trying to get underneath her panty. When the accused managed to get his fingers underneath her panty, she felt him stroke the side of her vulva. He stopped when she said “_enough_”. He then commenced massaging her right leg and the same thing happened again.
+
+62     The Court was shown a similar pair of shorts worn by the Victim during the massage[^30]. It was not a tight pair of shorts. In fact, the accused had conceded that the pair of shorts provided by the shop was loose fitting. It was clearly possible for the hems of the shorts to be rolled up to allow the accused access to the upper reaches of the back of the Victim’s thigh and lower buttock area and necessary in order to avoid the hems of the shorts from getting in the way of the massage. The positioning of the Victim lying on her stomach clearly allowed the accused an opportunity, at the very least, to “massage” the area close to the Victim’s vulva. This is contrary to the accused’s protestations that he had no chance at any time to massage the Victim’s “private area”.[^31]
+
+63     The Defence tried to draw the Court’s attention to supposed inconsistencies in the Victim’s evidence. For example, it was submitted that the Victim had contradicted herself when she said that she “froze” and by later saying that she “kept fidgeting” to move away from the accused’s fingers. I think this is a mischaracterization of the Victim’s evidence. In cross-examination, she had adequately explained what she meant by “frozen”, namely that she did not know what to do.[^32] As further highlighted by the Prosecution, the references to being “frozen” was in relation to why she did not leave the shop halfway through the massage despite being inappropriately touched.[^33] On the other hand the fidgeting clearly referred to the Victim to move her private parts away from the accused’s fingers as he moved them inside her panty. In fact, the Victim’s use of these supposed contradicting words to described what had happened reinforced my belief that she was a forthright witness, and her description was given without any attempt to embellish, conceal or fabricate her evidence.
+
+64     The Defence has placed great emphasis on the CCTV, in particular what was captured on the audio. In essence, the Defence has attempted to show, from the audio recording, that nothing had happened during the course of the massage. There were only sounds of friendly chatting. When the Victim could be seen in the CCTV footage, she was behaving normally. However, having heard the Victim’s evidence, I accepted her explanation that she had not raised any alarm or strong objection when the sides of her vulva were touched, it was because she was in a state of shock, fear and confusion.[^34]
+
+65     The Victim did not disagree that she did have an amicable conversation with the accused at various points of the massage and even thank the accused once the massage was completed[^35]. I agreed with the Prosecution’s submission that this showed that she had been forthcoming in her evidence. She was candid. She laid out the evidence as it happened, and it did not appear that she was embellishing her evidence in any way. If she were intending to do so, there would have been ample time and opportunity for her to tailor evidence to fit her narrative so as to ensure that there would be as little contradiction as possible.
+
+66     For example, the Victim was clear in her evidence that the accused had touched her vulva twice while she was lying face down on the massage bed. Yet she was also very clear that the accused had not touched her inappropriately when she described how the accused massaged her after “cracking her bones”. Although her evidence was that the accused hands came lower and lower down the front of her body, she was very definite that he did not touch her chest (or breast) area. [^36] She could have easily embellished her evidence and alleged that the accused had touched her inappropriately to strengthen her version of events.
+
+67     The Defence has suggested that the lack of action on the part of the Victim to having been molested was unbelievable[^37]. This is, in my view, misconceived. There is no definitive way in which a victim to react to a sexual offence. This has been recognised by the High Court in numerous decisions. It has been held that:
+
+> (a)      _“ …. there was no standard “reasonable” yardstick to judge the response of rape victims and each case had to be decided on its specific facts.”_ (per Foo Chee Hock JC in _PP v BDA_ <span class="citation">\[2018\] SGHC 72</span> at \[39\];
+
+> (b)      _“ …. victims of sexual crimes cannot be straightjacketed in their expectations that they must act or react in a specific manner ….”_ (per See Kee Oon J in _GBR v PP_ \[2018\] 3 SLR 2056 at \[20\]) ; and
+
+> (c)      _“ …. I accept that victims of sexual offences may not behave in a stereotypical way ….”_ (per Aedit Abdullah J in _PP v Yue Roger Jr_ <span class="citation">\[2018\] SGHC 125</span> at \[30\]).
+
+68     In short, I could not accept the Defence’s submission that the Victim’s version of what happened should not be believed.
+
+#### The Victim’s immediate post OM reaction
+
+69     The Victim’s reactions immediately after the massage, in my view, is also consistent with the fact that something happened during the massage that greatly troubled her. Almost immediately after the massage at about 2237 hrs, she immediately texted PW3 to let him know that she felt violated after the massage. She not only informed PW3 but also PW4 and she also called her friend, PW5, who had introduced her to the shop.
+
+70     Her distress was clearly evident from her text messages (to PW3 and to PW4) as well as from the tone of her voice when she spoke to her friends. Her distress at what had happened was also clear to PW3 who met her after midnight. Her reaction to what the accused did was clearly immediate and spontaneous. It did not look contrived on planned.
+
+#### Conclusion
+
+71     At the end of the day, I adjudged that the Victim’s evidence was internally consistent. I accepted that her actions (or lack thereof, according to the Defence) during the massage was due to the fact that she was scared, confused or both.
+
+72     Once the massage was over, she immediately informed her friends as to what had happened and what she told each of them were extremely consistent. In my view, the Victim was shocked and, understandably confused, after the incident.
+
+73     Despite her shock and confusion, she was still unsure whether what had happened to her was wrong. It was therefore entirely consistent that on 4 May 2019, she went to check with her regular masseuse as to what was the proper way to do such massages. She was working as a paralegal and was familiar with cases involving molest as seen from a defendant’s point of view. It is therefore not surprising she wanted to be certain before she filed a police report.
+
+### Whether the Victim’s evidence was externally consistent
+
+74     I next considered whether the Victim’s evidence was externally consistent. In this respect, I considered her evidence against that of PW3, PW4, PW5 and the contemporaneous documentary evidence, namely the text messages sent to PW3 and PW4
+
+#### PW3’s evidence
+
+75     PW3 confirmed that the Victim had contacted her immediately after her massage had ended and that she had told him that the accused had touched the side of her vagina[^38].
+
+76     PW3’s evidence thereafter is consistent with that of the Victim’s. He corroborated her account that they had later gone for supper where she related to him what had happened. I accepted that his description of the of the incident was broadly similar to the account given by the Victim[^39]. In this respect, his evidence as to what happened the next day is also similar to the evidence given by the victim.
+
+#### PW4’s evidence
+
+77     The Victim had told PW4 about the incident over the phone, including how the accused had touched her vagina area several times. This was corroborated by PW4 in his evidence[^40].
+
+78     The Victim had described to him how the accused had started massaging her thighs and how his hands had grazed against her vagina several times and that she had told him “_enough_” several times.[^41] From the tone of her voice, PW4 could tell that the Victim was worried, scared and a bit dumbfounded. She could not really grasp what was happening[^42].
+
+79     The Defence had suggested that PW4 had “_taken it upon himself to support his friend and (ex) colleague in court”_[^43] as the messages between himself and the Victim did not make any reference to the touching of the Victim’s vagina by the accused. I did not accept this submission. I am of the view that PW4 provided clear and cogent evidence as to what happen. Any support given by him was the support that he gave to a friend (ie. the Victim) who appeared to be traumatised by the incident. I agreed with the Prosecution’s submission that there was no material discrepancy between PW4’s accounts of the Victim’s conversations with him and her testimony.
+
+#### PW5’s evidence
+
+80     PW5 corroborated the Victim’s evidence that they spoke on the phone shortly after the massage[^44]. Her recollection of the call was also consistent with the Victim’s evidence. PW5 was candid enough to tell the Court that the Victim did not tell her exactly where she was touched[^45] but her understanding was that the Victim had been violated. More importantly, PW5 had also testified that the Victim had sounded fearful during the phone call[^46].
+
+#### The contemporaneous documentary evidence
+
+81     There are two sets of text messages from the Victim to be considered, namely that with PW3 and that with PW4[^47]. In her text messages to PW3, we can see that almost immediately after the massage, she told PW3 that she felt violated[^48] and that she had been touched on her butt and on “the sides of my pussy”.[^49] This is consistent with the Victim’s evidence in Court.
+
+82     Her text messages to PW4, unlike that to PW3, does not set out the actually acts of OM committed by the accused in detail. However, what emerges from the message was that, although the Victim felt confused and unsure and wanted to check with her regular masseuse whether or not what was done to her was proper[^50], she also felt that she had been molested. In this respect, she compared the OM incident to “_Willet Ong_”[^51] involving a massage therapist outraging the modesty of his customer. The Victim had been assisting her firm with the matter.[^52]
+
+83     The text messages also supported the Victim’s evidence as to how she was feeling after the OM incident. For example, this can be seen from the various text messages to PW5 soon after the incident that she felt like crying[^53]. It clearly showed how traumatised she was.
+
+84     The Victim filed a police report[^54] on the late evening of 4 May 2019, about a day after the OM incident. Although the Defence does not suggest that there was any collusion between the Prosecution’s witnesses, the Defence’s submission was that the Victim was reluctant to make a police report because she had not been assaulted on the massage bed the way she claimed that she had been and it was because she was “encouraged” by her friends, PW3, PW4 and even PW5 to do so[^55]. I am of the opinion that this was not entirely correct. Although she may have been initially reluctant to make the police report, my view was that this was because she was in a state of confusion. Her state of mind after the OM incident was confirmed by the Prosecution’s witnesses. She had wanted to ensure that what was done to her was indeed wrong before making any report. She checked with a colleague of hers, one Wan, who used to be a police officer[^56] and Wan advised her to check with her regular masseuse.
+
+85     What her friends did by asking her to make a police report could be construed as “encouragement”. I see nothing wrong with this. The Victim told her friends that she had bene molested and they believed her. It would be natural for them to want the Victim to do the right thing and for the culprit to be brought to task. Therefore, the fact that they did “encourage’ her is really neither here nor there. In fact. I would have been more concerned if, having believed the Victim, they didn’t do so.
+
+86     I accepted the Prosecution’s submission that the fact that the police report was made so shortly after the OM incident gave more credence to the Victim’s version of events. It suggested that the Victim’s testimony was truthful, and that the incident did indeed happen
+
+87     Further, there seemed to be no obvious reason why the Victim or her friends would want to make up a story that would implicate the accused:
+
+> (a)     The Victim herself only met the accused for the first time on 3 May 2019;
+
+> (b)     PW3 only met the accused the day after, namely 4 May 2019, when he confronted the accused. In fact, from the evidence of both the accused and PW3, this confrontation was not heated at all. It was PW3 simply trying to illicit more information about the case as well as the accused particulars;
+
+> (c)     PW4 had never even met the accused;
+
+> (d)     PW5 was in fact a regular customer of the accused. She had even described him as a “sincere businessman”. She even continued coming to the shop for massages after the incident, albeit less frequently.
+
+#### Conclusion
+
+88     In conclusion, I found the Victim’s evidence to be externally consistent. Her evidence in Court as to what happened on 3 May 2019 is consistent with the contemporaneous documentary evidence as well as her subsequent actions the next day. The evidence of PW3, PW4 and PW5 not only supported her version of events that occurred that evening, but it also supported her evidence as to the distress that she had felt after the massage.
+
+89     Her police report was made only about 24 hours or so after the incident. This report was only made after she had confirmed that she had not mistaken what had happened to her was wrong and also after she had obtained the accused’s particulars through PW3. As mentioned, this quick reporting of the incident gave more credence to her evidence as to what happened.
+
+### Whether the accused’s evidence has raised a reasonable doubt
+
+90     In summary, the accused denied touching the Victim inappropriately and if he did touch her, it was accidental.
+
+#### The accused’s evidence in court compared to that in his long statement
+
+91     On 7 May 2019, three days after the Victim filed a police report, the Investigation Officer, IO Jeremy Kuan recorded a statement[^57] from the accused at his home. This was done in Mandarin and the accused confirmed that he had no problems communicating with the IO. The following is what the accused has said in Court compared to what was recorded in his statement:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="8.24%"> <col width="43.3%"> <col width="48.46%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">&nbsp;</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Evidence in Court</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Long Statement</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">1</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">He never pulled the Victim’s shorts upwards.<span class="FootnoteRef"><a href="#Ftn_58" id="Ftn_58_1"><sup>[note: 58]</sup></a></span></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">He pulled the Victim’s shorts upwards.<span class="FootnoteRef"><a href="#Ftn_59" id="Ftn_59_1"><sup>[note: 59]</sup></a></span></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">2</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">He never had any skin-to-skin contact with the bottom of the Victim’s buttocks.<span class="FootnoteRef"><a href="#Ftn_60" id="Ftn_60_1"><sup>[note: 60]</sup></a></span></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">He made skin-to-skin contact with the bottom of the Victim’s buttocks during the massage.<span class="FootnoteRef"><a href="#Ftn_61" id="Ftn_61_1"><sup>[note: 61]</sup></a></span></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">3</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">There was no possibility he could have touched the Victim’s vagina or vulva area.<span class="FootnoteRef"><a href="#Ftn_62" id="Ftn_62_1"><sup>[note: 62]</sup></a></span></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">He could have touched the Victim’s vagina area accidentally.<span class="FootnoteRef"><a href="#Ftn_63" id="Ftn_63_1"><sup>[note: 63]</sup></a></span></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">4</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">His fingers never went below her collarbones.<span class="FootnoteRef"><a href="#Ftn_64" id="Ftn_64_1"><sup>[note: 64]</sup></a></span></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Whilst massaging the Victim’s shoulders, his fingers went below her collarbones and massaged her chest.<span class="FootnoteRef"><a href="#Ftn_65" id="Ftn_65_1"><sup>[note: 65]</sup></a></span></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">5</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">He did not have any erection.<span class="FootnoteRef"><a href="#Ftn_66" id="Ftn_66_1"><sup>[note: 66]</sup></a></span></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">He had a semi erection when massaging the Victim because he found her pretty.<span class="FootnoteRef"><a href="#Ftn_67" id="Ftn_67_1"><sup>[note: 67]</sup></a></span></p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">6</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">He never massaged the Victim’s legs while she was lying on the massage bed.<span class="FootnoteRef"><a href="#Ftn_68" id="Ftn_68_1"><sup>[note: 68]</sup></a></span></p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">He massaged the Victim’s legs while she was lying on the massage bed.<span class="FootnoteRef"><a href="#Ftn_69" id="Ftn_69_1"><sup>[note: 69]</sup></a></span></p></td></tr></tbody></table>
+
+  
+  
+
+92     At this point I would highlight that the Prosecution did not apply to impeach the accused’s credit but only sought to show the inconsistencies with what the accused said in his statement compared to his evidence in Court.
+
+93     The accused’s evidence in Court suggested that he did not massage the Victim’s legs as described by her. The massage done to the Victim whilst she was lying on her stomach involved massaging the area of the Victim’s back above the buttocks. To do so, he had to roll up the hem of the Victim’s blouse and pull the Victim’s shorts down until the upper part of the Victim’s buttocks were exposed. He then massaged the Victim’s lower back.
+
+94     I was unable to accept the Defence’s submission that these inconsistencies are not relevant.[^70] The difference as to what the accused told IO Kuan and what the accused told the Court concerning what happened during the massage were clearly material. The accused was unable to explain these inconsistencies satisfactorily when he was cross-examined.
+
+95     My doubt regarding the accused’s version of events is not simply because it differed from what he had told IO Kuan in his Statement. First, his description of the massage in Court is diametrically opposite what the Victim had described. The accused claimed that he massaged the Victim’s back including the upper parts of the buttocks, beginning with the left buttock[^71]. When she said “enough” he moved to the right side[^72] Clearly, the Victim would have been able to differentiate if the massage was being done to her back and upper buttocks compared with if the massage going up her legs with the accused fingers moving in a circular motion. It was a very detailed description indeed. Even if the Victim could not see the accused massaging her, she could not have been mistaken as to where she was being massaged.
+
+96     Further, if indeed the main purpose of this massage was to massage the Victim’s waist, there appeared to be no need for the accused to start with the left leg and then move to the right. This suggested to me that the accused was trying to explain away why he had to move from one side to the other despite having only to massage the Victim’s waist. In my view, the Victim’s description that the accused was massaging her left leg before touching her vulva, and then her right leg and then doing the same to her vulva again, seemed more believable. I therefore adjudged that the Victim’s version of events was what really happened that evening.
+
+97     Although the accused had made certain allegations regarding the accuracy of his Statement, I found it curious that the accused only disputed the portions of his Statement that implicated him in the OM incident but accepted the other parts of the Statement as true and correct[^73]. What is perhaps more telling is that the version of the incident as described by the accused in his Statement to IO Kuan is generally similar to the version of the incident as described by the Victim.
+
+98     I therefore adjudged that the accused version of the incident as per his Statement is the version that is more believable and was what indeed happened in the shop that evening. I agreed that, as characterised by the Prosecution, his evidence in Court is an afterthought[^74] and is an attempt to distance himself from the act of OM that was perpetrated on the Victim.
+
+#### The CCTV footage
+
+99     At \[64\] of these Grounds, above, I had already touched on the accused’s reliance on the CCTV footage (or rather, the audio accompanying the CCTV footage) to show nothing occurred. I did not think that the supposed lack of reaction from the Victim, as per the audio recording, assisted the accused much. First, as previously mentioned, a victim’s reaction to a sexual offence varies from victim to victim. Even if a victim showed little or no reaction during an OM incident, it could be due to various factors, including fear or shock or both. The evidence shows that the Victim’s reaction after the OM incident, that is to say, her telephone calls, text messages etc, clearly showed her fear, confusion, shock at distress as to what happened.
+
+100    Second, what is again more telling in the present case is that the reaction of the Victim almost _immediately_ after the massage is consistent with the Victim’s description as to what happened _during_ the massage. This reinforced my view that what happened that evening is as was described by the Victim and not the accused, that is to say, that the accused did touch the Victim’s vulva.
+
+#### Whether the touch was accidental
+
+101    Having concluded that the accused did touch the Victim’s vulva, I next considered whether the touch could have been accidental. When the OM incident occurred, the Victim was lying on the massage bed, on her stomach. She had her underwear on and was wearing a loose pair of shorts provided by the shop. In order to facilitate the massage, the hems of the shorts were rolled up and the bottom of her buttocks were exposed. The touching of the Victim’s vulva occurred as the accused massaged up her legs.
+
+102    I have no doubt that such a touch could not have been accidental. Any accidental touch would not, in my view, be skin-to-skin. This was because the Victim was wearing her panty. In order to achieve skin-to-skin contact with the Victim’s vulva, the accused fingers would have to go underneath the edge of the panty. This is exactly the way the touch was described by the Victim, namely that when the accused had reached the top of her left thigh, he put his fingers _into_ her underwear and stroked her vulva[^75] and subsequently again on her right side, the accused put his fingers into her panty while moving in a circular motion.[^76]
+
+#### Conclusion
+
+103    Having considered the accused’s evidence, I was of the view that his evidence did not raise any reasonable doubt in my mind. For the reasons above, I was of the view that what was recorded in the accused’s Statement, P12, was an accurate reflection of what happened on the night in question. In contrast, I did not believe the evidence that he had given during the course of the trial. I had no doubt that the accused did touch the Victim’s vulva without her consent as he was massaging her.
+
+104    In addition, I had also adjudged that the said touch during the massage was not accidental. The manner in which in occurred suggested to me that the touch was deliberate. The accused had deliberately inserted his fingers underneath the edge of the Victim’s panty to achieve this.
+
+### Whether the Prosecution breached its disclosure obligations
+
+105    The Defence had submitted that the Prosecution had breached its disclosure obligations set out by the Court of Appeal _in Muhammad bin Kadar and Another v Public Prosecutor_ <span class="citation">\[2011\] 3 SLR 1205</span> (“_Kadar_”)[^77]. This occurred when the Prosecution sought to admit the accused’s Statement to IO Kuan[^78] as part of their case during the accused’s cross-examination.
+
+106    The Defence submitted that the Prosecution’s failure to provide the accused’s statements to the Defence would render a conviction unsafe on the basis that “_the contents of P12 was prima facie exculpatory as it reflects PW2’s (ie. the Victim) allegations, as investigated by SI Kuan, which contradict her evidence at the trial_”.[^79]
+
+107    In _Xu Yuanchen v Public Prosecutor and another matter_ <span class="citation">\[2021\] SGHC 64</span> (“_Xu Yuanchen_”), the High Court set out when an accused’s statements should be disclosed. In this respect, I was of the view that the _Kadar_ disclosure obligations had not been triggered. I agreed with the Prosecution’s submission[^80] that the fact that an accused’s statement contains a denial from the accused, and his alleged defence to the charge, is in itself insufficient to undermine the Prosecution’s case or strengthen the Defence’s case[^81].
+
+108    The Defence suggests that as a consequence of the Prosecution’s failure to provide the accused’s statement, they were unable to ascertain what was said by the Victim in her police report that in turn allowed IO Kuan to pose the questions that he did to the accused, that formed the basis of P12.[^82] Hence, this curtailed the Defence’s ability to cross-examine the Victim. I found this to be misconceived. The _Kadar_ disclosure obligations primary relates to evidence that the accused cannot access, or might not even be aware of[^83]. On the other hand, an accused’s statement is a form of evidence that emanates from the accused himself. There was nothing to prevent Counsel from cross-examining the Victim based on the accused instructions[^84].
+
+109    I agreed with the Prosecution that even if, taking the Defence’s submissions at its highest, the Prosecution did breach its disclosure obligations (which I did not accept), there was no prejudice to the accused. It was open to the Defence to make an apply to recall the Victim for cross-examination once P12 had been admitted into evidence. No such application was made.
+
+## Decision at the end of trial
+
+110    In summary, I found the Victim’s evidence to be unusually convincing. Her evidence was, in my view, internally and externally consistent. I had no doubt in my mind that the accused had touched the victim at the vulva area of her vagina. I further found that the touches by the accused were not accidental. They were deliberate. He did this without the Victim’s consent and the accused knew that his acts were likely to outrage the Victim’s modesty.
+
+111    On the other hand, I did not find the accused’s denial convincing. His evidence did not raise any reasonable doubt in my mind. In fact, it reinforced my belief that the touches were deliberately done. I therefore adjudged that the Prosecution had proven their case beyond a reasonable doubt.
+
+112    Accordingly, I found the accused guilty and convicted him of the charge of OM under s 354(1) of the PC.
+
+## Submissions on Sentence
+
+113    Having convicted the accused, I next dealt with the issue of sentence.
+
+### Prosecution’s submission
+
+114    The Prosecution submitted that the sentencing framework for offences under s 354(1) of the PC as laid out by the High Court in _Kunasekaran_ at \[49\] was applicable in the present case.
+
+115    The first step was to find the indicative starting point. The Prosecution submitted that this case fell within Band 2 of the _Kunasekaran_ sentencing framework (ie 5 to 15 months’ imprisonment). There were eight offence-specific aggravating factors in the present case to determine where the starting point on this band was. These factors included:
+
+> (a)     Skin to skin contact;
+
+> (b)     Touching of the vulva;
+
+> (c)     Prolonged touches;
+
+> (d)     Multiple and persistent touches;
+
+> (e)     Premeditation;
+
+> (f)     Reprehensible circumstances;
+
+> (g)     Deception;
+
+> (h)     Harm to the victim;
+
+116    As there were no offence-specific mitigating factors, it was submitted that this case lay on the highest end of Band 2, namely 15 months’ imprisonment, in addition to three stokes of the cane.
+
+117    The Prosecution further submitted for an uplift of one months’ imprisonment in light of the offender-specific factors in the case, namely that the accused had shown no remorse throughout the case. Therefore, the final sentence submitted by the Prosecution was 16 months’ imprisonment and three strokes of the cane.
+
+### Defence’s submission / plea in mitigation
+
+118    Likewise, the Defence also cited the sentencing framework _Kunasekaran_. In addressing the eight offence-specific aggravating factors cited by the Prosecution, the Defence highlighted the following:
+
+> (a)     Double counting. Four of the aggravating factors that were cited by the Prosecution, namely, degree or sexual exploitation, touching of the vulva, the protracted conduct and multiple and persistent touches should all be considered under a single head ie. degree of sexual exploitation;
+
+> (b)     The was no premeditation;
+
+> (c)     There was no deception;
+
+> (d)     No clear harm caused by the incident.
+
+119    The Defence cited the following cases as precedents:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="29.3541291741652%"> <col width="36.4927014597081%"> <col width="34.1531693661268%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Case</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Brief Facts</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Sentence Imposed</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>PP v Li Qingdong</em> <a class="pagecontent" href="javascript:viewPageContent('/Judgment/19794-SSP.xml')">[2016] SGMC 60</a> <em>(“Li Qingdong”)</em></p><p align="justify" class="Table-Para-1">1 x s 354(1) PC</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">The offender, a masseur outraged the modesty of a customer.</p><p align="justify" class="Table-Para-1">He used his fingers and touched the victim’s vagina 9 to 10 times under her underwear and massaged her buttocks over her bare skin for about 20 seconds</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Pre-<em>Kunasekaran<span class="FootnoteRef"><a href="#Ftn_85" id="Ftn_85_1"><sup>[note: 85]</sup></a></span></em></p><p align="justify" class="Table-Para-1">Sentenced to 11 mths imprisonment and 3 strokes of the cane.</p><p align="justify" class="Table-Para-1">Appeal dismissed</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>PP v Qu Laihua</em> <a class="pagecontent" href="javascript:viewPageContent('/Judgment/25217-SSP.xml')">[2020] SGMC 45</a> (“<em>Qu Laihua</em>”)</p><p align="justify" class="Table-Para-1">3 x s 354(1) PC</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">The offender, a masseur molested 3 victims on 3 separate occasions over a span of 2 weeks.</p><p align="justify" class="Table-Para-1">The acts of OM included rubbing one victim’s groin and sliding his hand under another victim’s panty and rubbing her vagina</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>Kunasekaran</em> framework applied.</p><p align="justify" class="Table-Para-1">Sentenced between 10 – 12 mths’ imprisonment for each offence, with global sentence being 22 months’ imprisonment</p><p align="justify" class="Table-Para-1">Appeal dismissed</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>PP v Chai Meng Teck</em> <a class="pagecontent" href="javascript:viewPageContent('/Judgment/21608-SSP.xml')">[2018] SGMC 16</a> (<em>“Chai Meng Teck”</em>)</p><p align="justify" class="Table-Para-1">4 x s 354(1) PC &amp;</p><p align="justify" class="Table-Para-1">1 x s 354(1) r/w s 511 PC</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">The offender was a school counsellor.</p><p align="justify" class="Table-Para-1">The details of the two more serious charges were that he touched the penis of one victim and stroked the penis and scrotum of another.</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>Kunasekaran</em> framework applied.</p><p align="justify" class="Table-Para-1">Sentenced to 12 mths’ imprisonment and 3 strokes for the charges described.</p><p align="justify" class="Table-Para-1">Global sentence was 32 mths’ imprisonment and 12 wks’ imprisonment <em>in lieu</em> of caning.</p><p align="justify" class="Table-Para-1">Appeal dismissed.</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">PP v <em>Chan Cheng</em> <a class="pagecontent" href="javascript:viewPageContent('/Judgment/23822-SSP.xml')">[2019] SGDC 245</a> (“<em>Chan Cheng</em>”)</p><p align="justify" class="Table-Para-1">5 x s 354 PC (1985 Ed)</p><p align="justify" class="Table-Para-1">TIC: 12 x s 354 PC</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">The offender was engaged to prepare the programme content for a youth camp for molested secondary one male students. He molested the students.</p><p align="justify" class="Table-Para-1">Three charges involved skin-to-skin contact where he caressed the victims’ penises.</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>Kunasekaran</em> framework applied.</p><p align="justify" class="Table-Para-1">Sentenced to 14 mths’ imprisonment for each of the three charges.</p><p align="justify" class="Table-Para-1">The global sentence was 38 month’s imprisonment and 5 months’ imprisonment <em>in lieu</em> of caning.</p><p align="justify" class="Table-Para-1">Appeal dismissed.</p></td></tr></tbody></table>
+
+  
+  
+
+120    It was submitted that the present case was less egregious than _Qu Laihua_ and did not involve persons in authority like the offenders in _Chai Meng Teck_ and _Chan Cheng_. As there had been no deception and no premeditation, the present case fell in the middle, and not at the highest end of Band 2 of the _Kunasekaran_ sentencing framework. It was therefore submitted that the appropriate sentence was 10 months’ imprisonment and three strokes of the cane.[^86]
+
+## Decision on sentence
+
+### Punishment prescribed by law
+
+121    The punishment prescribed by law for a charge of OM under s 354(1) of the Penal Code is a term of imprisonment which may extend to 2 years, or a fine, or with caning, or any such combination of such punishments.
+
+### The Kunasekaran sentencing framework
+
+122    Both parties agreed that the _Kunasekaran_ framework should apply in the present case. Under the first step of the framework:
+
+> (a)     The Court ascertains the gravity of the offence by examining the manner and mode in which the offence was committed (“offence-specific factors”). This entails examining:
+
+>> (i)       the degree of sexual exploitation,
+
+>> (ii)       the circumstances of the offence, and
+
+>> (iii)       the harm caused to the victim whether physical or psychological.
+
+> (b)     After examining these factors, the Court should place the offence within the appropriate band. This was set out by the High Court in _Kunasekaran_ at \[49\],
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="14.6%"> <col width="31.62%"> <col width="53.78%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Band</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Sentencing Range</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Factors</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">1</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Less than 5 months’</p><p align="justify" class="Table-Para-1">Imprisonment</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Cases at the lowest end of the spectrum, which do not</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">2</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">5 to 15 months’</p><p align="justify" class="Table-Para-1">Imprisonment</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Cases where two or more offence specific aggravating factors are present. The lower end of the band involves cases where the private parts of the victim are intruded, but there is no skin-to-skin contact. The higher end of the band involves cases where there is skin-to-skin contact with the victim’s private parts.</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="center" class="Table-Para-1">3</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">15 to 24 months’</p><p align="justify" class="Table-Para-1">Imprisonment</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Cases involving the most serious instances of outrage of modesty</p></td></tr></tbody></table>
+
+  
+  
+
+123    For the second step of the framework, the Court should consider:
+
+> (a)     the aggravating and mitigating factors that are personal to the offender (“offender-specific factors”); and
+
+> (b)     the offender-specific aggravating factors include an offender’s lack of remorse and the number of charges taken into consideration.
+
+#### First Step: Offence-Specific Factors
+
+124    Both Parties agreed that present case fell within Band 2 of the _Kunasekaran_ sentencing framework. Where they differed was where on the 5-to-15-month sentencing range did this case lie.
+
+125    While I agreed with the Prosecution that this case fell on the upper end of Band 2, I did not agree that there were the “_8 offence-specific aggravating factors in the present case_”[^87] as set out by the Prosecution. In my view, the following offence-specific aggravating factors were present:
+
+> (a)     Degree of sexual exploitation. Under this head, I would include touching of the vulva, protracted conduct, multiple offences and persistence which were placed by the Prosecution under separate heads. First, the fact that this OM incident involved the accused having skin-to-skin contact with the Victim’s vulva was clearly an aggravating factor. Next, while I am prepared to accept the Defence’s submission that accused did not actually touch the Victim for “_approximately 1 to 1.5 minutes_”[^88] and perhaps the actual duration may not be definitively known, I was nonetheless of the view that the touch was sufficiently long for it not to be considered as a fleeting touch. It is sufficient to describe it as a prolonged or sustained touch. I also agreed that a further aggravating factor was the that accused persisted in his touching of the victim’s vulva area, perpetrating the act a second time despite her protests;
+
+> (b)     Abuse of trust. I accepted that there was some degree of an abuse of trust. The Victim had allowed herself to be massaged by the accused in the manner described implied that she trusted the accused as a professional masseur, and expected that he would perform the massage in a lawful manner. By outraging her modesty, the accused had thus abused this trust.
+
+> (c)     Deception. Like the district judge in _Qu Laihua_,[^89] I was of the view that in order to commit the offence, the accused had practised deception. It was under the guise of performing the massage that he slipped his hand under her panty and touched her vulva.
+
+> (d)     Harm caused. While there was no victim impact statement, the Victim was considerably affected by the incident. The stress manifested itself in the form of Irritable Bowel Syndrome, which caused her to necessarily take regular medical leave, affecting her employment. She became afraid of patronising massage services, feared crowded areas, and avoided taking public transportation. At her workplace, a law firm, she found it difficult to interact with clients who were similarly charged under s 354 PC[^90].
+
+126    However, I was not prepared to find that there was premeditation on the part of the accused. I assessed that the accused had simply been opportunistic. The Victim had only made the appointment late in the day. She had been the last customer in the shop. The accused simply took this opportunity to commit the act of OM. There was no real planning in the sense that there had been some prior preparation on the part of the accused.
+
+127    All considered, I was of the view that the aggravating factors cited above warranted a sentence on the higher end of the Band 2 of the _Kunasekaran_ sentencing framework. I adjudged that the appropriate sentence was 14 months’ imprisonment.
+
+#### Second Step: Offender-Specific Factors
+
+128    The Prosecution had sought an uplift of one month’s imprisonment as the accused had showed a lack of remorse by arranging to meet PW5 seeking her help in asking the Victim to discontinue the criminal proceedings against him and giving conflicting and false testimony in Court about his reasons for not providing CCTV footage to the police. However, I was unconvinced of the Prosecution’s characterization of the accused actions, hence, I declined to impose any uplift in the present case.
+
+129    I also reviewed the mitigating factors set out by the Defence. I did not think they warranted any downward adjustment of the sentence. I agreed with the Prosecution that there were no offender-specific mitigating factors relevant to the present case.
+
+### Caning
+
+130    In _PP v Chow Yee Sze_ \[2010\] SGHC (“_Chow Yee Sze_”) at \[9\], the High Court held that caning will be imposed where a victim’s private parts and sexual organs were intruded upon. This itself was cited with approval in _GBR_ at \[21\].
+
+131    In the present case, the act of molest committed by the accused involved skin-to-skin contact on the private parts of a victim, namely the vulva. Hence, I was of the view that caning would be appropriate. Both the Prosecution and the Defence seemed to have accepted that the appropriate number of strokes to be ordered was three. I did not disagree with this.
+
+### The last look
+
+132    In finalising the sentence, I reviewed the sentences imposed in the cases that were cited by both the Prosecution and the Defence. I was of the view that the final sentence that I have reached was appropriate under the circumstances. There was no necessity to adjust the sentence any further.
+
+## The Final Sentence Imposed
+
+133    For the above reasons, I sentenced the accused to :
+
+> **14 months’ imprisonment and three strokes of the cane**
+
+134    The accused, being dissatisfied with his conviction and the sentence I have imposed, has now appealed against both conviction and sentence.
+
+### Postscript
+
+135    The accused is presently on bail pending the outcome of this appeal (ie bail pending appeal). However, it should be noted that the accused is also on a separate court bail for another criminal charge he faced in _MAC-902496-2021_.
+
+136    Upon his conviction for the present OM charge, the accused had indicated that he wished to claim trial for _MAC-902496-2021_. Hence, this was sent to the Pre-Trial Conference Centre of the State Courts for further management.
+
+* * *
+
+[^1]: Note the Statement of Agreed Facts (“SOAF”) at PS1.
+
+[^2]: Exhibit P7.
+
+[^3]: See marked spots in Exhibit P9.
+
+[^4]: Notes of Evidence (“NE”), 25 January 2021, at 43/1 – 3.
+
+[^5]: NE, 25 January 2021, at 49/6.
+
+[^6]: See location of touch at Exhibit P10.
+
+[^7]: NE, 25 January 2021, at 48/13,
+
+[^8]: NE, 25 January 2021, at 50/1 – 22.
+
+[^9]: NE, 25 January 2021, at 53/1 – 3 and 53/24 – 26.
+
+[^10]: NE, 25 January 2021, at 55/14 – 16.
+
+[^11]: See Exhibit P7.
+
+[^12]: Exhibit P7, messages from the Victim timed at 10:37 pm and at 10:38 pm.
+
+[^13]: NE, 4 February 2021, at 11/13 – 19.
+
+[^14]: Exhibit P1.
+
+[^15]: Referred to as “DJ” in Exhibit P11.
+
+[^16]: NE, 4 February 2021, at 27/6 – 7.
+
+[^17]: NE, 4 February 2021, at 27/6 – 7 and from 27/24 to 28/15,
+
+[^18]: Exhibit P11.
+
+[^19]: NE, 4 February 2021, at 30/16.
+
+[^20]: NE, 17 March 2021 at 9/16 – 19.
+
+[^21]: Exhibit P6.
+
+[^22]: Exhibit P5.
+
+[^23]: See the Defence’s _Submission For No Case to Answer_ and the Prosecution’s _Skeletal Submission at the Close of Prosecution’s Case and Reply to Defence’s Submissions on No Case to Answer_.
+
+[^24]: See s 230(1)(j) of the Criminal Procedure Code (Cap 68) (“CPC”).
+
+[^25]: Although the word used is “waist”, what was actually described is the area around the tail bone.
+
+[^26]: NE, 30 March 2021, at 43/1 – 3, 43/15 – 17 and 44/5 – 6.
+
+[^27]: NE, 30 March 2021, at 48/26.
+
+[^28]: NE, 30 March 2021, at 61/5 – 12.
+
+[^29]: NE, 30 March 2021 at 67/10 – 11.
+
+[^30]: A photograph of a pair of shorts was shown to the Court. The Prosecution and Defence both agreed that the pair of shorts worn by the Victim was similar to the one shown in the photograph.
+
+[^31]: NE. 30 March 2021, at 57/10 - 11.
+
+[^32]: NE, 26 January 2021, at 11/19 – 24.
+
+[^33]: NE, 25 January 2021, at 55/10 – 16 and at 97/11 – 22.
+
+[^34]: NE, 26 January 2021, at 63/1 – 9.
+
+[^35]: NE, 26 January 2021, at 101/17 – 24.
+
+[^36]: NE, 27 January 2021, at 53/1 – 3.
+
+[^37]: Defence’s Closing Submissions (“DCS”) at \[129\] – \[122\].
+
+[^38]: NE, 26 January 2021, at 110/21 – 26 and the text messages at P7, timed at 2238 hrs.
+
+[^39]: NE, 26 January 2021, from 114/7 to 117/13.
+
+[^40]: NE 4 February 2021, from 27/1 to 29/15.
+
+[^41]: NE, 4 February 2021, from 27/28 - 28/15.
+
+[^42]: NE, 4 February 2021, at 28/19 – 23.
+
+[^43]: DCS at \[104\].
+
+[^44]: NE, 17 March 2021, at 9/7 – 28.
+
+[^45]: NE, 17 March 2021, at 9/29 – 31.
+
+[^46]: NE, 17 March 2021, 10/9 – 31.
+
+[^47]: See Exhibits P7 and P11 respectively.
+
+[^48]: See P7, message timed at 10:37 PM.
+
+[^49]: See P7, message timed at 10:28 PM.
+
+[^50]: See P11, message timed at 11:27:25 PM on 3/5/19.
+
+[^51]: _PP v. Willet Ong Tat Kee_ (MAC-901369-2018 & Ors).
+
+[^52]: NE, 4 February 2021, at 34/4 – 18.
+
+[^53]: See P11, messages timed at 12:05:05 AM; 12:21:35 AM; 12:24:13AM, all on 4/5/19.
+
+[^54]: See Exhibit P1.
+
+[^55]: DCS from \[146\] to \[164\].
+
+[^56]: See Exhibit P11. Text message timed at 10:56:58 PM on 3 May 2019.
+
+[^57]: IO Jeremy Kuan was not called to give evidence and the accused’s statement was admitted and marked as P12.
+
+[^58]: NE, 31 March 2021, from 45/18 to 46/6.
+
+[^59]: Exhibit P12, A7.
+
+[^60]: NE, 31 March 2021, from 46/18 to 48/9.
+
+[^61]: Exhibit P12, A9.
+
+[^62]: NE, 31 March 2021, from 48/21 to 50/15.
+
+[^63]: Exhibit P12, A9
+
+[^64]: NE, 31 March 2021, from 52/5 to 53/14.
+
+[^65]: Exhibit P12, A11 & A13.
+
+[^66]: NE, 31 March 2021, from 53/32 to 55/1.
+
+[^67]: Exhibit P12, A14.
+
+[^68]: NE, 31 March 2021, from 43/31 to 44/9.
+
+[^69]: Exhibit P12, A12.
+
+[^70]: See DCS at \[165\] – \[168\] and the Defence’s Submissions in Reply to Prosecution’s Closing Submissions (“DRS”) at \[53\] – \[58\].
+
+[^71]: NE, 30 March 2021, at 44/25 – 31.
+
+[^72]: NE, 30 March 2021, at 45/6 – 9.
+
+[^73]: NE, 31 March 2021, at 88/1-5
+
+[^74]: Prosecution’s Closing Submissions (“PCS”) at \[67\].
+
+[^75]: NE, 25 January 2021, at 94/5 – 25.
+
+[^76]: NE, 25 January 2021, at 47/28 – 30.
+
+[^77]: DCS at \[43\] – \[67\].
+
+[^78]: P12.
+
+[^79]: DCS at \[50\].
+
+[^80]: Prosecution’s Reply to Defence’s Closing Submissions (“PRS”) at \[7\].
+
+[^81]: Per _Xu Yuanchen_ at \[35\].
+
+[^82]: DCS at \[57\].
+
+[^83]: Per _Xu Yuanchen_ at \[42\].
+
+[^84]: Per _Xu Yuanchen_ at \[38\].
+
+[^85]: Note that at \[39(a)\] of the Plea in Mitigation (“PIM”), the Defence had submitted that the trial court had applied the _Kunasekaran_ sentencing framework. This appears to be incorrect as the decision in _Kunasekaran_ was only determined by the High Court on 11 January 2018.
+
+[^86]: PIM at \[39(d)\].
+
+[^87]: Prosecution’s Address on Sentence (“PAS”) at \[8\].
+
+[^88]: NE, 25 January 2021, at 48/5 – 10.
+
+[^89]: _Qu Laihua_ at \[361\].
+
+[^90]: NE, 25 January 2021, from 74/2 – 75/5.
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F26828-SSP.xml)

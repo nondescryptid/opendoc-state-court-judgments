@@ -1,0 +1,127 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Ramesh s/o Rengasamy  
+
+### \[2021\] SGDC 251
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">District Arrest Case No. 916686-2020, Magistrate's Appeal No. MA-9234-2021-01</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">10 November 2021</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Shaiffudin Bin Saruwan</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">DPP Pavitra Ramkumar for the Prosecution; The Accused in person.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Ramesh s/o Rengasamy</td></tr></tbody></table>
+
+Criminal law – Misuse of Drugs – Consumption
+
+\[LawNet Editorial Note: An appeal to this decision has been filed in MA/9234/2021/01.\]
+
+10 November 2021
+
+### District Judge Shaiffudin Bin Saruwan:
+
+## Introduction
+
+1       On 29 June 2020, the Accused was alleged to have consumed methamphetamine (“ice”) when his urine was tested positive during a routine test. As he was on a remission order at the material time, he was also accused of breaching his remission order.
+
+## The charges
+
+2       The charge against the Accused was–
+
+> “…on or before 29 June 2020, in Singapore, did consume a specified drug listed in the Fourth Schedule to the Misuse of Drugs Act (Cap 185, 2008 Rev Ed)(“MDA”), _to wit_, Methamphetamine, without authorisation under the MDA or the Regulations made thereunder, and … have thereby committed an offence under s 8(b)(ii) of the MDA.”
+
+3       In addition to the above, the Accused was also liable to punishment under s 50T(1)(a) of the Prisons Act (Cap 247, 2014 Rev Ed)(“Prisons Act”) for breaching a basic condition of his remission order, _to wit_, an enhanced sentence of imprisonment for a term not exceeding the remaining duration of the remission order of 823 days from 29 June 2020 to 29 September 2022.
+
+## The trial
+
+### The case for the prosecution
+
+4       The prosecution’s case was that on 29 June 2020, the Accused had reported for his routine urine test. His urine samples were procured in accordance with the procedures set out in the MDA Regulations. The Instant Urine Test (“IUT”) of his urine sample was positive for amphetamines. His urine samples were then sent to the Health and Science Authority (“HSA”) for analysis. HSA analysis confirmed that the urine samples contained methamphetamines. As such, by virtue of s 22 of the MDA, the Accused was presumed to have consumed the methamphetamine in contravention of s 8(b)(ii) of the MDA.
+
+5       The prosecution led evidence from eight witnesses as follows –
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="18.82%"> <col width="40.06%"> <col width="41.12%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>No</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Witness</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Role</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">PW1</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Bellen Chung</p><p align="justify" class="Table-Para-1">HSA Analyst</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Analysed the Accused’s urine sample and produced the HSA certificate</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">PW2</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Maggie Tiong Su Su</p><p align="justify" class="Table-Para-1">HSA Analyst</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Same</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">PW3</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Yap Hon Chian</p><p align="justify" class="Table-Para-1">Narcotics officer (“NO”)</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Conducted the IUT of the Accused’s urine sample</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">PW4</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Lin Yuanzhun Brandon</p><p align="justify" class="Table-Para-1">Narcotics Officer</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Procured the urine sample from the Accused</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">PW5</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Nur Nida Amalina Binte Yusni</p><p align="justify" class="Table-Para-1">Narcotics Officer</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Sealed the bottles containing the Accused’s urine specimens</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">PW6</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Chong Jia Yee Lowell</p><p align="justify" class="Table-Para-1">Narcotics Officer</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Investigation officer</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">PW7</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Muhammad Fauzan bin Abdul Jalel</p><p align="justify" class="Table-Para-1">Narcotics Officer</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Sent the Accused’s urine samples to HSA</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">PW8</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Marfiqah Binte Muhamed Makhfuz</p><p align="justify" class="Table-Para-1">Narcotics Officer</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Arrested the Accused</p></td></tr></tbody></table>
+
+  
+  
+
+6       The Accused was a drug supervisee who was required to report regularly for urine test at the CNB office at Bedok Police Division Headquarters. On 29 June 2020, he reported for one such urine test. The Accused’s urine samples were procured and then subjected to IUT. The IUT result was positive for amphetamines. The Accused’s urine samples in the two blue bottles were sealed and the Accused then deposited them into a locked metal box. The locked metal box containing the Accused’s urine samples was then sent to HSA. The Accused’s urine samples were analysed. HSA confirmed the presence of methamphetamine in both urine samples. The Accused was then placed under arrest.
+
+### The Accused’s case
+
+7       The Accused’s defence was that his urine sample was procured on 22 June 2020, and not on 29 June 2020. He denied that he had not undergone IUT on 29 June 2020. He had denied that he had deposited any bottle containing his urine samples into the locked metal box on 29 June 2020. However, when the Accused was called upon to enter his defence at the close of the prosecution’s case, he elected to remain silent.
+
+### The issues
+
+8       I had to determine the following issues –
+
+> (a)     Whether the Accused’s urine samples were procured on 29 June 2020 and not on 22 June 2020.
+
+> (b)     Whether there was any irregularity in the procurement process such that it cast doubt on the integrity of the urine samples, and therefore the certificates issued by HSA.
+
+> (c)     Whether the Accused had consumed methamphetamine at the material time?
+
+### Analysis of the evidence
+
+9       The Accused’s urine samples were procured by Narcotics Officer (“NO”) Brandon Lin Yuanzhun (“NO Lin”). NO Lin had testified on how he had procured the Accused’s urine sample on 29 June 2020. He had asked the Accused to wash his hands first. Then he had asked the Accused to choose one red bottle and two blue bottles from a drawer. The drawer contained at least 10 red bottles and at least 20 blue bottles. All the bottles were new and wrapped in plastic. After making his selection of the bottles, the Accused was then brought into the toilet where he was told to urinate into the red bottle. When sufficient amount of his urine was collected, NO Lin told the Accused to close the bottle with the red cap. The Accused then carried the red bottle and two blue bottles out of the toilet. At a table located outside the toilet, the Accused then poured the urine from the red bottle into the two blue bottles. The two blue bottles were then closed with their respective caps, and then sealed using tape. NO Lin had also ensured that the seals were secured and that there was no leak. The two bottles were then put into a plastic bag and the bag was heat-sealed. The plastic bag was then passed back to the Accused for him to hold. He left the Accused in the holding room with the plastic bag containing the two bottles pending the outcome of the IUT.
+
+10     In cross-examination, NO Lin said that he was not aware if the Accused had his urine samples procured on 22 June 2020. He rejected the Accused’s contention that he was not the one who had procured the Accused’s urine samples on 29 June 2020. He maintained that he was the procurement officer on that date in relation to the Accused’s urine samples. To support this claim, he relied on that fact that his signature was on the IUT result slip dated 29 June 2020 (Exhibit P3). He explained that he had appended his signature on the IUT result slip to record the fact that he had procured the Accused’s urine samples on that date.
+
+11     The IUT was conducted by NO Yap Hon Chian (“NO Yap”). NO Yap recounted that he had registered the Accused’s particulars into the IUT machine. The Accused was then escorted to the toilet for the procurement process. After the urine samples were procured, and poured into the two blue bottles, a small quantity was then siphoned from the remaining sample in the red bottle for the IUT. The red bottle and its contents were then disposed of. The IUT revealed that the Accused’s urine sample was positive for amphetamines. NO Yap then printed out the IUT result slip and appended his signature on it. NO Yap had also printed out two labels which were to be used during the sealing process. The labels contained the Accused’s personal details. NO Yap also lodged the arrest report against the Accused (Exhibit P4). The Accused did not cross-examine NO Yap.
+
+12     NO Nur Nida Amalina Binte Yusni (“NO Nur Nida”) was the officer who had sealed the Accused’s urine samples after the IUT. NO Nur Nida had brought the Accused, together with the plastic bag containing the two blue bottles, and the two labels containing the Accused’s personal details, to the sealing station. The two labels had been obtained from the IUT operator. NO Nur Nida first instructed the Accused to check the accuracy of the particulars printed on the two labels. These included, _inter alia_, his name, identity card number, the date of the sealing process, and the specimen number. When the Accused confirmed that these particulars were correct, he appended his signature on both labels. NO Nur Nida then tore open the sealed plastic bag containing the two blue bottles. She checked to confirm there were no leaks from the two bottles. Satisfied, she then sealed the two bottles with masking tape, pasted the labels on the two bottles followed by pasting clear masking tape over them. After that, she told the Accused to check the bottles again and to confirm that the labels were the ones that bore his name and signatures. After the Accused had checked, she told the Accused to deposit the two bottles into a locked metal box. The only key to the metal box was in the possession of HSA. After the Accused had deposited the two bottles containing his urine samples into the metal box, NO Nur Nida placed the metal box into the freezer located in the IUT room. She also appended her signature on the IUT result slip (Exhibit P3) to record the fact that she had sealed the Accused’s urine samples. During the Accused’s cross-examination, NO Nur Nida rejected his suggestions that he was never at the sealing station on 29 June 2020, and that he had not put the two bottles into the metal box.
+
+13     On 30 June 2020, at about 11.00 am, NO Muhammad Fauzan Bin Abdul Jalel (“NO Fauzan”) had taken out the metal box from the freezer and brought it to HSA for analysis. He confirmed that the urine samples had not been tampered with. He also confirmed that the metal box was locked and no one other than the staff at HSA had the key. The Accused did not cross-examine NO Fauzan.
+
+14     The Accused’s urine samples were analysed by Ms Bellene Chung and Ms Maggie Tiong Su Su, both analysts with the HSA. They found that the Accused’s two urine samples contained methamphetamine, at concentration levels of 1,514 and 1,513 nanogrammes per millilitre of urine. They opined that the presence of methamphetamine in the Accused’s urine samples was consistent with the consumption of methamphetamine. They prepared the certificates pursuant to s 16 of the MDA (Exhibits P1 and P2). The Accused did not cross-examine Ms Chung and Ms Tiong.
+
+15     Based on the two HSA certificates, Sgt Marfiqa Binte Mohamed Makhfuz (“Sgt Marfiqa”) had placed the Accused under arrest for the offence of unauthorised consumption of a controlled drug. She lodged the arrest report (Exhibit P6).
+
+16     Inspector Lowell Chong Jia Yee (“Inspector Chong”) was the investigator of the case. Inspector Chong testified that all urine tests conducted at the station on any given day would be logged in and recorded in their electronic system. The logging in and recording were done at the point when the Accused’s details were registered into the system by the IUT operator just before the IUT was conducted. Inspector Chong testified that he had checked the system’s records and he confirmed that there was no record in the system of any urine test conducted on the Accused on 22 June 2020.
+
+17     When asked by the Accused about his urine card, Inspector Chong explained that the urine card was normally produced by the drug supervisee when he reported to the station for his regular urine test. The card was used to ‘mark’ his physical attendance at the station. If a urine test was conducted, this fact would also be recorded in the urine card by the supervision officer. However, if for whatever reason, the urine test was not conducted or could not be conducted, the supervision officer would just sign off on the card and the supervisee could then leave the station. Inspector Chong said one probable scenario was that the Accused could have produced a medical certificate when he reported to the CNB Office on 22 June 2020 for his urine test. This would account for there being no record in the system of a urine test conducted on him on 22 June 2020.
+
+18     As stated earlier, the Accused had remained silent when his defence was called.
+
+19     On the basis of the evidence of the prosecution witnesses as set out in the preceding paragraphs, I was satisfied that the Accused’s urine samples had been procured properly. There was no irregularity in the procurement process that could have cast doubt on the identity and integrity of the urine samples procured. I also found that the said urine samples had been procured on the 29 June 2020. I rejected the Accused’s contention or suggestion that his urine samples had been procured on 22 June 2020.
+
+20     I was also satisfied that the analysis of the urine samples had been conducted properly, and that the samples analysed were those procured from the Accused on 29 June 2020. I found that the integrity of the samples had not been compromised. On that basis, by virtue of the certificates issued in Exhibits P1 and P2, the presumption under s 22 of the MDA was invoked, in that, the Accused was presumed to have consumed methamphetamine in contravention of the Act. The Accused had declined to give evidence in his defence. On the totality of the evidence, I found that he has failed to rebut the presumption.
+
+21     As such, I found the Accused guilty of the charge and I duly convicted him accordingly.
+
+## Antecedent
+
+22     The Accused has the following antecedents –
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="22.8554289142172%"> <col width="41.9116176764647%"> <col width="35.2329534093181%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Date</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Offence</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Global sentence</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">24 Nov 98</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">1 count of LT1 (morphine)</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">5 years’ imprisonment and 3 strokes</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">22 Aug 03</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">1 count s294(a) Cap 224</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">2 weeks’ imprisonment</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">1 Jul 04</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">1 count s21(1)(c) Cap 184</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">$700 fine</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">6 Jan 05</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">1 count s20 Cap 184</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">$1,000 fine</p></td></tr><tr><td align="left" class="br" rowspan="2" valign="top"><p align="justify" class="Table-Para-1">28 Jun 05</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">1 count s22(1)(a) Cap 184</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">3 months’ imprisonment</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">1 count s447 Cap 224</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">2 weeks’ imprisonment (concurrent)</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">8 Jun 2009</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">1 count s379 Cap 224</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">6 months’ imprisonment</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">26 Jun 12</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">1 count s325 Cap 224</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">10 months’ imprisonment</p></td></tr><tr><td align="left" class="br" rowspan="2" valign="top"><p align="justify" class="Table-Para-1">16 Dec 15</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">1 count LT2 (methamphetamine)</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">7 years’ imprisonment and 6 strokes.</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">1 count s379 Cap 224</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">2 weeks’ imprisonment (concurrent)</p></td></tr></tbody></table>
+
+  
+  
+
+23     In addition to the above, the Accused was admitted into the Drug Rehabilitation Centre (“DRC”) on 15 March 1994 and 7 September 1996. He was placed on drug supervision on 12 December 1992, 16 February 1996 and 27 February 1998.
+
+## The prescribed punishment
+
+24     The prescribed punishment for an LT2 consumption offence was imprisonment of not less than seven years’ imprisonment and six strokes of the cane, and not more than 13 years’ imprisonment and 12 strokes of the cane.
+
+## The sentence
+
+### Prosecution’s submission on sentence
+
+25     For the LT2 offence, DPP Ramkumar sought for the mandatory minimum sentence of seven years’ imprisonment. She noted that he was not liable for the mandatory caning because he was above 50 years old. However, she did not seek additional imprisonment in lieu of caning.
+
+26     For the enhanced sentence under s 50T of the Prisons Act, she highlighted the fact that the offence for which the Accused had been placed on a remission order was for a similar LT2 offence. Given that he had breached the basic order of the remission order by committing another LT2 offence, she submitted that the full duration of the remission order ie, 823 days, should be imposed in relation to the enhanced sentence.
+
+### The mitigation plea
+
+27     The Accused did not make any plea in mitigation.
+
+### Sentence by the court
+
+28     There are two aggravating factors of significance, First, the Accused had a previous LT2 conviction in 2015 where he was sentenced to the minimum mandatory sentence of seven years’ imprisonment and six strokes of the cane. Secondly, he had committed the present offence 10 days after he was placed on a remission order which commenced on 19 June 2020.
+
+29     In addressing the enhanced sentence under s 50T of the Prisons Act, I applied the framework established in _Abdul Mutalib bin Aziman v PP and other appeals_ <span class="citation">\[2021\] SGHC 102</span>. Firstly, in my view, given that the fresh offence committed by the Accused was an LT2 offence, the gravity of the fresh offence was very high. The fact that the Accused had committed the LT2 offence some 10 days after he was placed on a remission order for a previous LT2 offence, showed that his rehabilitative prospect was very poor. For these reasons, I would place him on the high end of Band 3 which would attract sentences between two-thirds and the full remaining duration of the remission order. In the Accused’s case, I found that the full remaining duration of the remission order was appropriate ie, 823 days’ imprisonment.
+
+30     Following the above, I was of the view that for the LT2 offence itself, the minimum mandatory imprisonment sentence of seven years would serve the ends of justice and would not offend the proportionality principle. For the same reason, I agreed with the prosecution that although the Accused could not be caned on account of his age, no additional imprisonment sentence need be imposed in lieu of caning.
+
+## Conclusion
+
+31     I therefore sentenced the Accused to seven years’ imprisonment and an enhanced sentence of 823 days. The sentence of imprisonment was backdated to 19 August 2020.
+
+32     The Accused has lodged an appeal against sentence. He is currently serving sentence.
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F26768-SSP.xml)

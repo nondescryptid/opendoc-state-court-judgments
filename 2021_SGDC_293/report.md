@@ -1,0 +1,295 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Vincent s/o Nallusamy  
+
+### \[2021\] SGDC 293
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">District Arrest Case No 907218-2021, Magistrate's Appeal No 9281-2021-1</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">30 December 2021</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Salina Bte Ishak</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Yap Poh Huat Jimmy (Traffic Police Department) for the Prosecution; Kanthosamy Rajendran (RLC Law Corporation) for the accused.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Vincent s/o Nallusamy</td></tr></tbody></table>
+
+Criminal Procedure and Sentencing – Statutory Offences – Road Traffic Act
+
+\[LawNet Editorial Note: An appeal to this decision has been filed in MA 9281/2021/01.\]
+
+30 December 2021
+
+### District Judge Salina Bte Ishak:
+
+## Background
+
+1       The accused, Mr Vincent s/o Nallusamy, a 69 years-old male Singapore citizen had pleaded guilty to the following charge:
+
+Amended Charge
+
+> are charged that on the 31st day of January 2021, at or about 08.25 A.M., along Loyang Ave towards Tampines Avenue 7, near lamp post 185, Singapore, did drive a motor car, bearing registration SLE2050Z, on a road, without due care and attention, to wit, by failing to have a proper lookout while driving on lane 2 of 3 lanes road, resulting in a collision with a cyclist who was cycling on lane 2 of 3 lanes road and hurt was caused to one Sali Tay, (female Chinese/age 31), by such driving, you have thereby committed an offence under Section 65(1)(a) of the Road Traffic Act, Chapter 276 and punishable under Section 65(4)(a) of the same Act.
+
+2       The accused was originally charged with an offence of driving without due care and attention and causing grievous hurt to a cyclist, one Sali Tay under section 65(3)(_a_) of the Road Traffic Act (Cap 276, 2004 Rev Ed) (“RTA”). On condition of a plea of guilt, the Prosecution agreed to proceed on a reduced charge of driving without due care and attention and causing hurt under section 65(4)(_a_) of the RTA.
+
+3       On 9 December 2021, the accused pleaded guilty to the amended charge (C1A) and admitted to the Statement of Facts without any qualification. After carefully considering the accused’s plea in mitigation and the Prosecution’s submissions on sentence, I sentenced the accused to ten days’ imprisonment and disqualified him from holding or obtaining all classes of driving licences for a period of 18 months with effect from the date of his release.
+
+4       The accused being dissatisfied with my decision had filed his Notice of Appeal against my sentence and order of disqualification on 9 December 2021. He is on bail pending the hearing of his appeal.
+
+5       Having set out the background for the present case, I now provide the reasons for my decision.
+
+> **Statement Facts**
+
+> Involved Party
+
+> The Defendant is Vincent S/O Nallusamy, male Indian, 68 years old, Singaporean. He was the driver of motor car, SLE2050Z, at the time of accident.
+
+> 2    The Victim is Sali Tay, female Chinese, 31 years old, Singaporean. She was the cyclist, at the time of accident.
+
+> Facts of Case
+
+> 3    Investigation reveals that on the 31st day of January 2021, at or about 08.25 A.M., along Loyang Ave towards Tampines Avenue 7, near lamp post 185, Singapore, the defendant did drive a motor car, bearing registration SLE2050Z, on a road, without due care and attention, to wit, by failing to have a proper lookout while driving on lane 2 of 3 lanes road, resulting in a collision with a cyclist who was cycling on lane 2 of 3 lanes road and hurt was caused to the victim.
+
+> 4    The In-Car camera Footage shows that the defendant was driving at the above-mentioned road. The defendant was driving on lane 2 of 3 lanes road. Subsequently, the defendant collided onto the victim who was cycling ahead of the defendant.
+
+> Injury
+
+> 5    Due to the accident, the victim was conveyed to Changi General Hospital. She was conscious all the time. The victim was then transferred to Mount Elizabeth Hospital for surgery. The victim sustained a comminuted fracture of her left elbow olecranon, extending to proximal ulnar shaft. Victim underwent a surgical fixation and was hospitalized from 31 Jan 2021 to 4 Feb 2021 (5 days) and given hospitalization leave till 13 March 2021 (42 days).
+
+> Prevailing Condition
+
+> 6    At the time of accident, the weather was fine, road surface was dry, traffic flow was moderate, and visibility was good.
+
+> Conclusion
+
+> 7    By virtue of the foregoing, the defendant has committed the offence of Driving Without Due Care Causing Hurt under Section 65(1) (a) punishable under Section 65(4)(a) of the Road Traffic Act, Chapter 276.
+
+## Sentencing
+
+### Prescribed Penalty
+
+6       The prescribed penalty for an offence of driving without due care and attention and causing hurt under s 65(1)(_a_) punishable under s 65(4)(_a_) of the Road Traffic Act (Cap 276, 2004 Rev Ed) (“RTA”) is fine not exceeding $2,500 or to imprisonment for a term not exceeding 12 months or to both.
+
+7       In addition, s 42(1) of the RTA provides that a court before which person convicted of an offence in connection with the driving of a motor vehicle, may where so required by this Act, order him to be disqualified from holding or obtaining a driving licence for life or for such period as the court may think fit.
+
+## Antecedents
+
+8       On 16 June 1976 in Court 14, the accused was convicted for an offence of careless driving under r 48 of the Road Traffic Rules where a fine of $150 was imposed.
+
+9       On 24 July 2015, the accused compounded an offence of inconsiderate driving under s 65(b) of the RTA and paid a fine of $200.
+
+## Prosecution’s Submissions on Sentence
+
+10     The Prosecution sought a sentence of at least two to three weeks’ imprisonment and disqualification order for a period of 18 months for all classes of vehicles.
+
+#### Degree of harm
+
+11     It was the Prosecution’s case that this was a medium harm case as surgical intervention was required. The victim was given a total of 42 days of hospitalisation leave.
+
+#### Level of culpability
+
+12     In respect of the accused’s level of culpability, it was submitted that it was moderate. It was highlighted that as shown in the video footage, the victim was travelling on lane 2 of 3-lanes road where the accused clearly had sight of her. He had failed to slow down which caused the collision. As such, the custodial threshold has been crossed in this case.
+
+## Defence’s Submissions on Sentence
+
+13     In his written plea in mitigation, Defence Counsel Mr. Kanthosamy Rajendran had set out his client’s personal and family background as well as the medical conditions of both the accused and his wife.
+
+14     It was highlighted that his wife is a housewife and like the accused, is of old age. She is under the sole care and supervision of the accused. According to the Defence, she is of ill health as she suffers from regular chest pains, she is a diabetic and is also ‘severe asthmatic’. She requires constant attention in managing her daily affairs and chores. As such, a custodial sentence imposed on the accused would be harsh and have a devasting effect on the accused and his wife.
+
+#### Sentencing considerations
+
+15     It was submitted that the accused’s timely plea of guilt was a strong mitigating factor in his favour when determining the appropriate sentence. By pleading guilty, the accused acknowledged his wrongdoings, thereby saving precious time and expenses of both the Court and the Prosecution.
+
+16     It was further submitted that after the accident, the accused had waited at the scene for the police and the ambulance to arrive. He had also assisted the police in their investigations. According to the defence, the accused had fully cooperated with the authorities to the best of his abilities.
+
+17     It was the Defence’s case that the accused was genuinely remorseful for his actions and humbly pleads for a chance to be given to him.
+
+#### Facts surrounding the charge
+
+18     It was the Defence’s case that the accident had occurred when the accused was changing lanes from the extreme right lane to the 2nd lane of the said road. From the facts, it was clear that the victim was a pedal cyclist cycling a racing bicycle along the middle lane of the said road. From the victim’s police report, she was riding with six other cyclists who were riding ahead of the victim.
+
+19     It was submitted that the speed limit along the said road was 70km/h and at a fast-moving road, the safest lane for cyclists to ride would be the left-most lane. However, the victim was not travelling along the left-most lane of the said road. Given that it is a road with a speed limit of 70km/h, the victim ought not to have been travelling on the centre lane. The Defence referred to r 8 of the Road Traffic (Bicycles) Rules (1990, Revised Edition) as well as paragraph 29 of the Highway Code (1990, Revised Edition) in support of his submission.
+
+20     It was further submitted that there was a park connector lane where cyclist could ride instead of being on the road. The park connector lane is on the opposite side of the road (as shown in the Google map image at page 18 of the mitigation).
+
+21     It was the Defence’s case that one would not expect a cyclist to be riding on the middle lane of the road. It was highlighted that although the victim’s version was that she and her convoy of cyclists were intending to turn right at the junction ahead, the distance between the accident site and the next turn is about 290m.
+
+22     It was submitted that at the material time, the accused had switched lane from the 1st lane to 2nd lane after overtaking another vehicle. After switching lanes, the victim was just in front of him and it was too late for him to stop his vehicle.
+
+23     It was the Defence’s case that the accused does not deny that he drove his vehicle without care and attention. However, it was submitted that the level of culpability was low and the court should also look at the conduct of the victim.
+
+#### Proposed sentence
+
+24     The Defence urged the Court to impose a fine and the appropriate length of disqualification from all classes of vehicles. In support of its position, the Defence referred to the case of _Tang Ling Lee v PP_ <span class="citation">\[2018\] SGHC 18</span> (“_Tang Ling Lee_”) where it was submitted that the High Court had suggested a sentencing framework for ‘road traffic accidents’ as set out below:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="15.3369326134773%"> <col width="38.872225554889%"> <col width="45.7908418316337%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Category</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Circumstances</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Presumptive Sentencing Range</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">1</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Lesser harm and lower culpability</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Fines</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">2</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Greater harm and lower culpability Or</p><p align="justify" class="Table-Para-1">Lesser harm and higher culpability</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">One to two weeks’ imprisonment</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">3</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Greater harm and higher culpability</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">More than two weeks’ imprisonment</p></td></tr></tbody></table>
+
+  
+  
+
+25     In the present case, the victim had to undergo surgery, was hospitalised for five days and was given hospitalisation leave for 42 days. It was submitted that the above table is the presumptive sentencing ranges for accused persons who have claimed trial. In the present case, the accused had pleaded guilty. Further, the Court was urged to consider the fact that the victim ought to have been on left most lane when riding her bicycle.
+
+26     The Defence had also referred to three cases where the offenders had been dealt with for offences under s 65(1)(_a_) and s 65(1)(_b_) punishable under s 65(4)(_a_) of the RTA:
+
+> (a)      _PP v Nur Hurul Ain Binte Kamsani (DAC 909456 of 2021)(9 June 2021)_ where a fine of $2500 and disqualification for a period of 12 months was imposed. On the 17th August 2020 at about 07.45am the accused did drive motor her motor car along the Pan Island Expressway towards Changi without due care and attention, when changing lane from lane 1 of 3 lane road to lane 2, resulting in a collision with the victim who was riding motorcycle FBJ6632K which was proceeding straight from the accused’s left side and hurt was caused to the victim by such driving. The victim suffered an open fracture ankle, lateral, malleolus and an open dislocation of metatarsophalangeal. The victim was hospitalised for 46 days and was discharged with hospitalisation leave of 46 days;
+
+> (b)      _PP v Phoa Seng Hock (DAC 910145 of 2020)(16 June 2020)_ where a fine of $2500 and disqualification for a period of 12 months was imposed. On 6th December 2019 at about 8.20pm the accused was driving his motor taxi along the open space carpark of Blk 26 Marsiling Drive, and caused hurt to the victim, by failing to keep a proper lookout ahead while making a right turn at the non-signalized junction, resulting in a collision with the victim who was crossing from the accused’s left to right. The victim suffered a closed fracture of tibial plateau. The victim was hospitalised for three days and was given 60 days of hospitalisation leave.
+
+> (c)      _PP v Syed Qasim s/o Syed Nizam_ <span class="citation">\[2021\] SGDC 157</span> (“_Syed Qasim_”) where a fine of $2300 and disqualification for a period of 14 months was imposed. On 18 April 2020, the accused failed to keep a proper lookout and give way to motorcycle when he turned right from a carpark to the main road causing a collision between the victim who was travelling on motorcycle, FBA4051Y along the main road. The victim suffered left hand tenderness and fracture of 4th and 5th metacarpal bones. The victim was given 123 days of hospitalisation leave.
+
+#### Application to the present facts
+
+27     It was submitted that in the absence of aggravating factors such as speeding, intoxication, sleep driving, and the location of the accident was not within a residential and school zone, the present case fell within the lower end of the low level of culpability.
+
+28     It was further submitted that the accused’s actions were not deliberate but instead, there was a momentary lapse of judgment. This was not a case of a prolonged, persistent and deliberate course of very bad driving.
+
+29     It was the Defence’s case that the accused was extremely remorseful for causing the injury to the victim. His livelihood and health will be jeopardized if a custodial sentence is imposed.
+
+30     It was submitted that the victim had sustained a left elbow fracture and was hospitalised for five days and given hospitalisation leave for 38 days (42 days at paragraph 5 of the Statement of Facts). It was further submitted that in comparison with the cases cited above, the victim suffered lesser injuries and custodial sentences were not imposed.
+
+31     It was further submitted that if a custodial sentence was imposed, the accused’s ‘exposure to a new environment would undoubtedly place him at risk as he is vulnerable and his immunity is relatively weak due to his prolonged list of medical condition’.
+
+32     It was the Defence’s case that taking into account the accused’s timely plea of guilt, his remorse along with other mitigating factors, a fine ought to be imposed.
+
+## Prosecution’s Reply
+
+33     In response to the plea in mitigation, the Prosecution highlighted that the fact remains that the accused had failed to keep a proper lookout. As shown in the video footage, the victim was clearly visible from accused’s point of view.
+
+34     It was submitted that in respect of the three cases cited by the Defence, the present case was much more severe as none of the victims in the three cases required any surgical intervention. However, in the present case, surgery was done and as such it was submitted that the level of harm was much more severe. As such, it was the Prosecution’s case that the custodial threshold has been crossed.
+
+## Decision on sentence
+
+### Sentencing approach
+
+35     S 65(1) of the RTA encapsulates the primary offence of driving without due care or reasonable consideration for other persons using the road. The subsequent subsections from ss 65(2) to 65(4) are the penalty prescribing provisions, each tiered according to the degree of hurt caused and for s 65(5), for any other case of non-personal injury or potential harm. For ease of reference, I have set out the relevant provisions from ss 65(1) to 65(5) of the RTA below:
+
+![]([2021] SGDC 0293_Image/[2021] SGDC 0293_image1.png)
+
+![]([2021] SGDC 0293_Image/[2021] SGDC 0293_image2.png)
+
+#### Irresponsible driving under the Road Traffic Act
+
+36     The present offence under s 65(1)(_a_) of the RTA was enacted on 1 November 2019, following the passing of the Road Traffic (Amendment) Act 2019 (Act 19 of 2019). The Amendment Act arose out of a review of the RTA and it aimed to provide stronger deterrence against irresponsible driving, according to the explanation presented by the Second Minister for Home Affairs, Mrs Josephine Teo (the “Minister”) to Parliament on 8 July 2019 (_Singapore Parliamentary Debates, Official Report_ (8 July 2019), vol 94). The Minister’s explanation is set out below:
+
+> I will start with our enhanced approach towards irresponsible driving offences. Today, irresponsible driving offences are prosecuted in two ways. One way is under the Penal Code, for Rash Act and Negligent Act. Another way is under the RTA, for Reckless or Dangerous Driving, and Driving without Due Care or Reasonable Consideration. The penalties differ.
+
+> For better clarity and consistency, we propose to consolidate irresponsible driving offences under the RTA. We will also streamline the offences into two classes: the first category is Reckless or Dangerous Driving, which I will refer to as Dangerous Driving in the rest of the speech. The second category is Driving without Due Care or Reasonable Consideration, which I will refer to as Careless Driving. 
+
+> The definitions of Dangerous Driving and Careless Driving are currently in the RTA. We will maintain the current definitions.
+
+> Dangerous Driving is more serious than Careless Driving. The two can be differentiated, on a case-by-case basis. The three main considerations, among others, are as follows.
+
+> First, whether the manner of driving predictably puts other road users at risk and cause other road users to be unable to react in time. Examples of driving that are considered as dangerous, as opposed to careless, include swerving across lanes suddenly and without warning, driving against the flow of traffic and speeding.
+
+> Second, whether the motorist had driven, even though he should have known he was not in a condition to drive safely.
+
+> Second, whether the motorist had driven, even though he should have known he was not in a condition to drive safely. Examples of behaviour that are considered dangerous include using mobile devices while driving and failing to use visual aids such as spectacles even though he is seriously short-sighted.
+
+> Third, whether the road situation required the motorist to take extra care but he did not. Examples include when he is approaching a zebra crossing, or a junction where other road users have the right of way.
+
+> When determining the punishment, we will look at the circumstances under which the offence is committed. The threshold for Dangerous Driving is higher than Careless Driving; so too the penalties. 
+
+> Besides looking at the circumstances of the offence, our enhanced approach will also consider the level of harm caused. If the motorist causes more harm, the level of punishment will be higher. 
+
+> There will be four levels of harm: Death, Grievous Hurt, Hurt and Endangering Life. Such tiering of harm is not new in our laws – the Penal Code already has it. 
+
+> To summarise, we will enhance our overall approach to penalise irresponsible driving depending on: (a) the circumstances of the offence – whether it constitutes Dangerous Driving or Careless Driving; and (b) the level of harm caused – whether they result in Death, Grievous Hurt, Hurt, or Endangering Life. 
+
+37     As at the date of my decision, there is no existing sentencing framework enunciated by the High Court for offences under s 65(1), particularly for an offence punishable under s 65(4)(_a_) of the RTA.
+
+#### Precedents cited by the Defence
+
+38     In my determination of the appropriate sentence to be imposed, I was mindful that the sentencing framework in _Tang Ling Lee_ relied on by the Defence applies to an offender of a road traffic offence under s 338(b) of the Penal Code who had claimed trial. As such, the sentencing framework which applies to offences where grievous hurt is caused by a negligent act which either endangers human life or personal safety of other would not be applicable to the present case involving an offence punishable under s 65(4)(_a_) of the RTA.
+
+39     I was also mindful that as the first two cases cited by the Defence at \[24(a) and 24(b)\] above were unreported cases, they hold little precedential value particularly in the absence of reasoned grounds. In any event, they both involved a different factual matrix from the present case. In the present case, hurt that was grievous in nature was caused as a result of a collision between the accused’s motorcar and the victim, a cyclist who was riding in the same lane ahead of the accused.
+
+40     Lastly, the case of _Syed Qasim_ cited by Defence although reported, also involves a different factual matrix from the present case. The offender in that case had failed to keep a proper lookout and give way to motorcycle when he turned right from a carpark to the main road causing a collision between his motorcar and the victim who was travelling on motorcycle along the main road.
+
+41     In the recent case of _Wu Zhi Yong v PP_ <span class="citation">\[2021\] SGHC 261</span>(“_Wu Zhi Yong_”), the High Court had dealt with the more serious form of irresponsible driving and prescribed a sentencing framework for an offence reckless driving under s 64(1) punishable under s 64(2C)(_a_) read with ss 64(2C)(_c_) of the RTA. The prescribed penalty for an offence punishable under section 64(2C)(_a_) of the RTA is fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both. Where the offence involves a serious offender, he is liable to a fine of not less than $2,000 and not more than $10,000 or to imprisonment for a term not exceeding 12 months or to both, in addition to the punishment under section 64(2C)(a) of the RTA.
+
+42     Although the present case concerns the second category of irresponsible driving, due to the similarity in the structure of the statutory provisions for both forms of irresponsible driving under s 64(1) and s 65(1), I was of the view the observations as well as the sentencing approach set out by the High Court provides some useful guidance on how an offence under s 65(1) should be dealt with.
+
+43     In _Wu Zhi Yong_, after a careful consideration of different sentencing approaches at \[22\] to \[29\] the High Court had prescribed the sentencing band approach when dealing with offences punishable under s 64(2C)(_a_) read with ss 64(2C)(_c_) of the RTA. At \[30\] and \[48\] of the judgment, the High Court had set out the following sentencing approach:
+
+> _The sentencing approach_
+
+> 30    At the first step, as set out in _Terence Ng_ at \[39\], the court should identify the band applicable to the offence and the indicative starting point with reference to that band, having regard to the _offence_\-specific factors present. These would encompass factors relating to the manner and mode by which the offence was committed, as well as the harm caused by the offender. At the second step, the court would have regard to the _offender_\-specific factors, being the aggravating and mitigating factors that are personal to the offender...
+
+> 48    At the second step of the analysis, the court will have regard to the offender-specific factors. Examples of these factors have been set out at \[62\] – \[71\] of _Terence Ng_ and apply equally in the present framework. Offender-specific aggravating factors include offences taken into consideration for the purposes of sentencing, the presence of relevant antecedents (apart from where the offender’s antecedents have been taken into account under the “repeat offender” or “serious repeat offender” provisions), and evidence showing a lack of remorse. Offender-specific mitigating factors include evidence of genuine remorse and an offender’s youth.
+
+44     The sentencing band prescribed by the High Court in _Wu Zhi Yong_ is set out below:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="13.1%"> <col width="44.86%"> <col width="42.04%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Band</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Degree of seriousness</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Sentencing range</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">1</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Lower level of seriousness with no offence-specific aggravating factors present or where they are present only to a limited extent. The offender’s blood alcohol level is also likely to be at the lowest or second lowest bands in the framework set out in <em>Rafael Voltaire Alzate</em> <a class="pagecontent" href="javascript:viewPageContent('/Judgment/26621-SSP.xml')">[2021] SGHC 224</a>.</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">A fine of between $2,000 and $15,000 and/or up to one month’s imprisonment and a disqualification period of two to three years.</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">2</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Higher level of seriousness and would usually contain two or more offence-specific aggravating factors. In these cases, the level of culpability and the blood alcohol level will typically both be on the higher side. Where an offender’s blood alcohol level is in the highest or second highest band of the framework in <em>Rafael Voltaire Alzate</em>, the case is likely to fall at least within Band 2.</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Between one month’s and one year’s imprisonment and a disqualification period of three to four years.</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">3</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">The most serious cases of reckless or dangerous driving whilst under the influence of drink. In these cases, there will be multiple aggravating factors suggesting higher levels of culpability and higher alcohol levels.</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Between one year’s and</p><p align="justify" class="Table-Para-1">two years’ imprisonment</p><p align="justify" class="Table-Para-1">and a disqualification</p><p align="justify" class="Table-Para-1">period of four to five</p><p align="justify" class="Table-Para-1">years.</p></td></tr></tbody></table>
+
+  
+  
+
+#### Offence-specific factors
+
+45     In my view, a sentencing band approach would be the appropriate sentencing approach when dealing with the second category of irresponsible driving with the necessary calibration made to the range of sentences in each band.
+
+46     Hence, guided by the sentencing approach as set out in _Wu Zhi Yong_, I first considered the offence-specific factors to determine the appropriate sentencing band where the present offence should be situated. In my view, some of the offence-specific factors considered by the High Court in _Wu Zhi Yong_ at \[36\] under the sentencing bands would also be relevant in the present case, namely:
+
+> (a)      _Serious potential harm_: Apart from actual harm, it has long been accepted that regard should also be had to the potential harm that can result from the act of dangerous or reckless driving (see _Stansilas Fabian Kester v Public Prosecutor_ <span class="citation">\[2017\] 5 SLR 755</span> (“_Stansilas”_) at \[47\]; _Public Prosecutor v Koh Thiam Huat_ <span class="citation">\[2017\] 4 SLR 1099</span> (“_Koh Thiam Huat_”) at \[41\]). The level of potential harm would be “assessed against facts which would include … the condition of the road, the volume of traffic or number of pedestrians actually on or which might reasonably be expected to be on the road at the relevant time, the speed and manner of driving, visibility at the relevant time, the type of vehicle, and any particular vulnerabilities (_eg_ a truck or car colliding into a motorcycle or pedestrian)”: _Neo Chuan Sheng v Public Prosecutor_ <span class="citation">\[2020\] SGHC 97</span> at \[22\];
+
+> (b)      _Serious property damage_: The extent of property damage caused is a relevant sentencing factor. As a general rule, the amount of any loss or damage may serve as a proxy indicator of harm;
+
+> (c)      _An offender’s reason or motivation for driving_: The court in _Edwin s/o Suse Nathen v Public Prosecutor_ <span class="citation">\[2013\] 4 SLR 1139</span> (“_Edwin Suse_”) held that an offender’s reason or motivation for driving could be an aggravating (or conceivably, in some circumstances, even a mitigating) factor in respect of an offence of drink driving. The court further considered that the gravity of an offender’s conduct would be increased if he had, at that time, been driving a passenger for hire or reward (at \[33\]);
+
+> (d)      _Increased culpability_: In _Koh Thiam Huat_ at \[41\], the court considered that factors _increasing_ an accused person’s culpability for an offence of dangerous driving would include a _particularly dangerous manner_ of driving. For an offence under s 65(1) of the RTA, an example of such an aggravating factor would be a high degree of carelessness in the manner of driving;
+
+> (e)      _The offender’s conduct following the offence or attempt to evade arrest_: Conduct that is “belligerent or violent” upon arrest would constitute an aggravating factor: _Edwin Suse_ at \[32\]. Likewise, the failure to stop in an attempt to evade arrest or to avoid apprehension should also weigh against an offender: _Public Prosecutor v Lee Meng Soon_ <span class="citation">\[2007\] 4 SLR(R) 240</span> at \[33\].
+
+> (f)      _the number of victims involved_: Where there are multiple victims impacted by the accused’s irresponsible driving, this would be regarded as an aggravating factor;
+
+#### Proposed sentencing bands
+
+47     The range of sentences that can be imposed for the present offence is a fine not exceeding $2,500 or to imprisonment for a term not exceeding 12 months or to both.
+
+## Band 1
+
+48     In my view, an offence with a lower level of seriousness and with no offence-specific aggravating factors, the range of a fine between $1,000 to $2,500 and/or up to one month’s imprisonment and a disqualification period of up to 12 months for all classes of vehicles can be considered.
+
+## Band 2
+
+49     For the next band involving a higher level of seriousness with more than one offence-specific aggravating factors, a range of between one month’s imprisonment and up to six months’ imprisonment and disqualification for a period between 12 to 24 months can be considered. The accused’s level of culpability would typically be in the medium range.
+
+## Band 3
+
+50     The final band would be reserved for the most serious case of causing grievous hurt by careless or inconsiderate driving where there are multiple aggravating factors and the offender’s level of culpability is high. For such cases, a range of between six and up to twelve months’ imprisonment and disqualification for a period of 24 to 36 months would be appropriate.
+
+#### Calibration of sentence
+
+51     The next step would be for the court to calibrate the sentence after having regard to the offender-specific factors. The relevant factors would include offences that are taken into consideration for the purposes of sentencing, the presence of relevant antecedents and evidence showing a lack of remorse. Offender-specific mitigating factors include a clean record, an early plea of guilt, evidence of genuine remorse and an offender’s youth.
+
+52     I now turn to the facts of the present case.
+
+## Offence-specific factors
+
+#### Manner and mode of offence
+
+53     In the present case, the accused had driven his motorcar without due care and attention by failing to have a proper lookout while driving on lane 2 of a 3-lanes road, resulting in a collision with a cyclist who was cycling ahead of him in the same lane. At the time of accident, the weather was fine, road surface was dry, traffic flow was moderate, and visibility was good. The accident was captured on the accused’s in-car camera footage which showed the victim cycling in the middle of lane 2 directly in front of him and the accused’s motorcar colliding into her shortly from the rear shortly after. The victim was flung forward from the impact.
+
+54     According to the victim’s unchallenged police report exhibited by the Defence, the victim was riding in a convoy of seven riders with her being the last rider along Loyang Avenue at 8:15am. The riders were changing lanes to the rightmost lane to make a turn ahead. When it was the victim’s turn to make the lane change from the leftmost lane to the centre lane, she had checked her right and then her blind spot before gradually from the leftmost lane to the centre lane. After she was in the centre lane for about 5 to 6 seconds and about to change to the rightmost lane, the accused’s motorcar collided into the rear of her bicycle causing her to be flung off a few metres in front.
+
+55     It was submitted by the Defence that the speed limit along the said road was 70km/h and at a fast-moving road, the safest lane for cyclists to ride would be the left-most lane. It was further submitted that there was a park connector lane where cyclist could ride instead of being on the road.
+
+56     I disagreed with the Defence that one would not expect a cyclist to be riding on the middle lane of the road. In my view, such cyclists particularly those riding on bicycles meant for use on paved roads or commonly known as road bikes are a common sight on Singapore roads. As the victim was riding together with six other cyclists in a convoy who intended to make a turn ahead, she and for that matter the other six cyclists, could not be expected to be cycling on the park connector on the opposite side of the road.
+
+57     It was thus not unreasonable for the victim to have gradually made her way from the leftmost lane to the centre lane and thereafter to the rightmost lane as she had intended to make a right turn about 290m ahead. By her own account she had taken the necessary precaution to check her right and her blind spot before moving to the centre lane or lane 2. She had also been in lane 2 for 5 to 6 seconds before she was hit by the accused’s motorcar from the rear. In my view, the victim had taken all the necessary precautions as a road user as she travelled along Loyang Avenue that morning. As the victim was hit from the rear, there was no way for the victim to take any evasive action to avoid the collision.
+
+58     Instead, there was clearly a high degree of carelessness on the accused part when he failed to notice her presence when she was directly ahead of her. As there was no obstruction ahead of him, the victim would have been clearly visible to the accused had he paid attention to what was ahead of him. I observed that there were no culpability increasing factors such as excessive speeding or deliberate dangerous driving in the present case.
+
+59     Even if I accept the Defence’s position that the accused was changing lanes from the extreme right lane to the 2nd lane of the said road, the accused ought to have similarly exercised the same precaution as the victim by checking his left side as well as his blind spot for other road users around him. Based on the above, I agreed with the Prosecution that the accused’s level of culpability was moderate instead of low as submitted by the Defence.
+
+#### Nature of harm caused
+
+60     In addition, I took into account the factor that as a cyclist, the victim was in a vulnerable position from any impact from a collision between a motorcar and a bicycle. The victim sustained a comminuted fracture of her left elbow olecranon, extending to proximal ulnar shaft. She underwent a surgical fixation and was hospitalized for 5 days and given 42 days of hospitalization leave. Her bicycle was also badly damaged as a result of the accident. In light of the nature of the harm caused, I agreed with Prosecution that degree of harm caused in the present case is medium.
+
+#### Serious potential harm
+
+61     I had also considered the potential harm to other six cyclists who had been travelling as a part of a convoy ahead of the victim. Had they been travelling at the closer distance with one another, they too could have been involved in the accident as a result of the accused’s high degree of careless when driving. Furthermore, as the traffic flow was moderate there was also the high risk of the victim as well as her fellow cyclists being run over by other vehicles from the aftermath of any collision.
+
+62     Based on the above factors, as there were several offence-specific aggravating factors present, I was of the view that the present case fell within Band 2 where a range of between one month’s imprisonment and up to six months’ imprisonment and disqualification for a period between 12 to 24 months can be considered. In my view, it was clear that the custodial threshold had been crossed in the present case and the starting point for the present case should be at the lowest end of Band 2 _ie_ one month’s imprisonment.
+
+## Offender-specific factors
+
+63     The next step was for me to calibrate the sentence after considering offender-specific factors. The accused had pleaded guilty to a single charge, he had waited at the scene for the police and the ambulance to arrive. He had also assisted the police in their investigations. He was remorseful for his actions and had admitted that he was careless. Nevertheless, I was mindful that the accused did not have a clean driving record as he had compounded a similar offence in 2015.
+
+64     After considering both the aggravating factors as well as the mitigating factors, I had calibrated the starting point of the Band 2 custodial sentence downwards to the ten days’ imprisonment. I was of the view that a disqualification order at the mid-point of Band 2 _ie_ 18 months disqualification for all classes of vehicles was appropriate after having regard to both the offence-specific and offender-specific factors.
+
+65     All things considered, I was of the view that a sentence of ten days’ imprisonment and disqualification from holding or obtaining all classes of driving licences for a period of 18 months with effect from the date of his release was just and appropriate in the circumstances.
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F26999-SSP.xml)

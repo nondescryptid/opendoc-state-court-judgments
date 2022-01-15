@@ -1,0 +1,117 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Devin Lim Teck Bin  
+
+### \[2021\] SGDC 275
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">District Arrest Case No. 909267 of 2021 and 1 Other, Magistrate's Appeal No. 9239-2021-01</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">07 December 2021</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Wong Li Tein</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Wee Yang Xi (Attorney-General's Chambers) for the Public Prosecutor; Yap Bock Heng Christopher (Alpha Law LLC) for the Accused.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Devin Lim Teck Bin</td></tr></tbody></table>
+
+Offences – Hurt – Sentencing
+
+\[LawNet Editorial Note: An appeal to this decision has been filed in MA 9239/2021/01.\]
+
+7 December 2021
+
+### District Judge Wong Li Tein:
+
+1       The Accused, Devin Lim Teck Bin, was a 25-year-old male Singaporean charged for one count under s 323 of the Penal Code (Cap 224, 2008 Rev Ed) (“Penal Code”) for punching the victim (“the victim”) on his left eye following a basketball game.
+
+2       He pleaded guilty to the charge, and after carefully considering the facts of the case and submissions by both the Prosecution and the Defence, I sentenced the Accused to an imprisonment term of four weeks.
+
+3       I set out below the reasons for my decision.
+
+## The Charge
+
+4       The charge for which the Accused pleaded guilty to read as follows:
+
+> You, DEVIN LIM TECK BIN, are charged that you, on 19 August 2019, at or about 9pm, at the basketball court at Blk 204 Marsiling Drive, Singapore 730204, did voluntarily cause hurt to one Pan Minghuang, to wit, by punching him once on his left eye, knowing that you were likely thereby to cause hurt to the said Pan Minghuang, and you have thereby committed an offence punishable under s 323 of the Penal Code (Cap 224, 2008 Rev Ed).
+
+5       He agreed for a similar charge against him under the same provision to be taken into consideration for purposes of sentencing (“TIC charge”). The TIC charge read as follows:
+
+> You, DEVIN LIM TECK BIN, are charged that you on 19/08/2019, at or about 8.50pm, at the basketball court at Blk 204 Marsiling Drive, Singapore 730204, did voluntarily cause hurt to one Edwin Ling Jun Hao, to wit, by punching him two times, on the left and right side of his head, causing the following injuries:    
+
+>> \- haematoma injuries over his right temporalis and left parietal region,
+
+>> \- right subconjunctival haemorrhage,
+
+> and you have thereby committed an offence punishable under Section 323 of the Penal Code, Chapter 224 (Rev. Ed. 2008).
+
+## Facts
+
+6       The detailed facts of this case were found in the Statement of Facts which the Accused had admitted to without qualifications. For purposes of explaining my decision, I set out briefly the pertinent facts.
+
+### Statement of Facts
+
+7       The Accused and the victim were 23 and 22 years of age respectively at the time of the offence. They were acquaintances and had played basketball together on several occasions previously.
+
+8       On the evening of 19 August 2019 at around 8.00pm, the Accused and the victim arrived at the basketball court located at Block 204 Masiling Drive with their own group of friends and started playing basketball together. In the victim’s group was a young man named Edwin Ling (“Edwin”), whom the victim had known for four years.
+
+9       Shortly after 9.00pm, the Accused played on a team against Edwin. The match became increasingly intense and aggressive with the players coming into bodily contact with one another. At one point, the Accused lost his temper and punched Edwin’s face twice – one near his left eye and the other near his right eye.
+
+10     The victim, who was watching the match at this time as a spectator, shouted at the Accused to stop but the Accused refused to do so. The victim ran towards them whilst shouting “Oi stop! What are you doing?” As the victim neared him, the Accused turned around and punched the victim on his face. The Accused’s punch was on the victim’s left eye and broke the left lens of his glasses. A broken piece of the glassed pierced his skin and became embedded in the wound. The victim started bleeding profusely. The victim’s friends helped him away from the Accused and gave him a towel to press on the wound. They also called the police.
+
+11     The victim was seen by a doctor at around 10.00pm the same night after being conveyed to Khoo Teck Puat Hospital (“KTPH”). According to a report dated 23 August 2019 by Dr Francesca Thng of the KTPH Acute and Emergency Care Centre, the victim suffered a deep lateral laceration wound extending from his left medial canthus to the left cheek with the wound still oozing at the time of assessment. A foreign object still embedded in the wound.
+
+12     The victim was later referred to the KTPH Department of Ophthalmology and Visual Sciences and the Department of Plastic, Reconstructive and Aesthetic Surgery, where he had to go through toilet and suture of the facial lacerations and removal of the foreign object embedded in the wound under local anaesthesia. He was given medical leave of 17 days. According to a further report by Dr George Varughese of the KTPH Department of Surgery dated 11 November 2019, the victim’s left eyelid and facial scars required further treatment as of 1 October 2019, and there was permanent scarring to the victim’s left eyelid and face. He had also incurred more than $2000.00 in medical expenses for the treatment of his facial scars.
+
+## Prosecution’s Sentencing Position
+
+### Low Song Chye Sentencing Framework
+
+13     The Prosecution sought a custodial term of between four to five weeks’ imprisonment against the Accused in accordance with the sentencing framework set out in _PP v Low Song Chye <span class="citation">\[2019\] SGHC 140</span>_ (“_Low Song Chye_”) for untraced offenders who elected to plead guilty to a charge under s 323 of the Penal Code as set out below:
+
+> (a)     Band 1 for cases where low harm was caused, with no visible injury or minor hurt such as bruises, scratches, minor lacerations or abrasions: Fines or short custodial term of up to four weeks;
+
+> (b)     Band 2 for cases where moderate harm was caused, with hurt resulting in short hospitalisation or a substantial period of medical leave, simple fractures, or temporary or mild loss of a sensory function: Between four weeks to six months’ imprisonment; or
+
+> (c)     Band 3 for cases where serious harm was caused, with serious injuries which are permanent in nature and/or which necessitate significant surgical procedures: Between six to 24 months’ imprisonment.
+
+14     The Prosecution submitted that the case fell within Band 2 as the harm caused to the victim was moderate. The victim suffered a deep laceration wound on his face with a foreign object embedded within the wound and was given 17 days of medical leave. The wound resulted in permanent scarring on his face, which could not be said to be a minor laceration by any account. An indicative sentencing range would therefore be between four weeks to six months’ imprisonment.
+
+15     The Prosecution submitted that a sentence of between four to five weeks’ imprisonment would already be at the lowest end of the indicative sentencing range for harm caused of this severity. Additionally, there were no significant mitigating factors to justify a significant deviation from the lowest end of the indicative sentencing range, especially since there was a similar charge under s 323 of the Penal Code being taken into consideration for the purposes of sentencing.
+
+## Mitigation Plea by Defence
+
+### Facts leading to the Offence
+
+16     The Court was informed by the Defence that the Accused, the victim and Edwin were known to one another and had played basketball together in the past two or three years. Edwin had even stayed overnight at the Accused’s home before. On the night of the incident, after the Accused had punched Edwin, the Accused heard a loud voice from behind him stating in Mandarin "what are you trying to do?" The Accused turned towards the voice and threw a punch before realising that he had punched the victim, who then fell to the ground. According to the Defence, when the victim came towards them, the Accused and Edwin had already stopped fighting.
+
+### Mitigating Factors
+
+17     It was submitted that the Accused had acted out of character and that this was a case of “playing basketball gone wrong”. No weapons were used and the offence was not gang related. The Defence contended that although the Accused was 22 years of age at the commission of the offence and there was no presumption of rehabilitation as the dominant sentencing consideration for adult offenders, the Court should regard this as an exceptional case and sentence the Accused to probation on the account that he had “an extremely strong propensity for reform” based on the three-limbed framework laid down by _Public Prosecutor v. Siow Kai Yuan Terence \[2020\] 4 SLP 1412_ (“_Terence Siow_”). In _Terence Siow_, it was held at para \[55\] that the court should consider whether the offender has demonstrated a positive desire to change since the commission of the offence, whether there were conditions in the offender’s life conducive to helping him turn over a new leaf, and finally whether there were reasons to revisit the finding of such a high capacity for reform. In revisiting the finding of the capacity to reform, Defence Counsel referred to the case of _GCM v Public Prosecutor <span class="citation">\[2021\] 4 SLR 1086</span>_ (“_GCM_”) where it was held that the Court had to consider if this could be “diminished or even eclipsed by such considerations as deterrence or retribution where the circumstances warrant”. This would be so in cases where the offence committed was serious, the harm caused severe, the offender hardened and recalcitrant, and/or where the conditions did not exist to make rehabilitative sentencing options viable.
+
+18     In this regard, Defence Counsel submitted that the Accused was young and had demonstrated a positive desire to change since the commission of the offences by first, admitting readily to his wrongdoing and expressing remorse in his statements to the police and apology to both Edwin and the victim, secondly, his early plea of guilt, thirdly, by cooperating fully with the police during investigations, and finally, by taking steps to avoid a recurrence by ceasing to play basketball altogether. He urged the Court to consider that the offence was not premeditated or even foreseeable “because the Accused and Edwin were friends and had been playing the Basketball without incident even with the occasional rough play like elbowing”. Further, the Accused’s family and one Aunt Gabey, whom he was close to, were willing and able to support him in his rehabilitation.
+
+### Injuries suffered by the Victim
+
+19     The Defence submitted that the only reason that the victim suffered the injuries which he did was that the lens of his glasses broke and cut his eyelid and cheek. As such, this case should fall within Band 1, or between Band 1 and 2 of the _Low Song Chye_ sentencing framework, with the Court then making the necessary adjustments to the indicative starting point sentence based on its assessment of the offender’s culpability as well as all other relevant factors, so as to take the eventual sentence against the Accused out of the applicable indicative sentencing range.
+
+### Sentence Sought by the Defence
+
+20     Defence counsel sought a probation order or community service order against the Accused, or a fine or a short custodial term of no more than seven days.
+
+## Sentencing Considerations
+
+21     Having considered the facts of this case and the injuries suffered by the victim, it was obvious that neither probation nor a community service order would be suitable sentencing options. As a starting point, the Accused was an adult and should be treated as one. Unlike the case for young offenders where rehabilitation would be the dominant consideration, general and specific deterrence, as well as retribution, would be the key considerations in this case.
+
+22     In _Terence Siow_ referred to by the Defence, the learned Chief Justice held \[at 44 – 45\] that in order to justify displacing deterrence as the primary sentencing consideration in a case involving an adult offender, there was a need to demonstrate “an extremely strong propensity for reform.” Even on the face of it, the Accused had produced nothing to show such a propensity nor was able to raise any remarkable factors for reform. Whilst he had admitted to the offences and shown remorse by pleading guilty early, these were neutral factors on the basis that there were multiple eye-witnesses to the incident. In other words, he was “caught red-handed”. Apart from avoiding basketball games altogether, nothing else was done to address his tendency to resort to physical violence over trivial matters. The Accused had obvious anger management issues but displayed little or no awareness of the extent of the problem. The sentencing framework in _Low Song Chye_ for first offenders facing charges under s 323 of the Penal Code would thus apply squarely in this case.
+
+### Low Song Chye Framework
+
+23     The Prosecution had generously placed the Accused within Band 2 of the _Low Song Chye_ framework in view of the “moderate” injuries caused to the victim. I agreed with the Prosecution, although the injuries caused could just as well have been placed under the lower end of Band 3. The victim had suffered a deep laceration wound on his face with a foreign object embedded within the wound due to damage caused to his glasses. The wound resulted in permanent scarring on his face, a sorry reminder that he had tried to stop an aggressive basketball player from causing further hurt to his friend during a game. He was given 17 days of medical leave, a considerable period of time to allow the wound to heal. I agreed that the indicative sentencing range would be between four weeks to six months’ imprisonment, and that the Prosecution’s proposed sentence of between four to five weeks’ imprisonment was reasonable and would already be at the lowest end of the indicative sentencing range for harm.
+
+### Aggravating and Mitigating Factors
+
+24     As mentioned above, I found that there were no notable mitigating factors in this case. The Defence Counsel used the Accused’s relatively young age as a mitigating factor, which in and of itself had no persuasive value if not accompanied by other factors or substantive steps taken for change. He claimed that the Accused had “demonstrated a positive desire to change since the commission of the offences” by admitting to his wrongdoing in his statements, cooperating with the police, apologising to the victims and ceasing basketball play. However, I fail to see how any of these factors reflected such “positive desire to change”. The desire to change is more than a feeling or an impulse. Introspection and proactive steps must be applied in manifestation of that desire. Instead of expressing full and unreserved remorse for his actions, the Accused blamed the extent of injuries suffered by the victim on the fact that the lens of his glasses broke and cut his eyelid and cheek. Instead of addressing his anger management issues through counselling or professional help, the Accused decided to simply avoid playing basketball. In a final attempt to cast aspersions on the victim, Defence Counsel informed the Court that the victim had demanded compensation for his injuries from the Accused through his solicitors as amongst the claims were expenses for treatment of scarring “which could be erased”. The Defence produced no further information on this point, which in my view was nothing more than a superfluous and desperate attempt to downplay the Accused’s role in the assailment.
+
+25     I now turn to the aggravating factors in this case. Although the Accused acted without premeditation, this was not a case where he had committed the offence at the spur of the moment. In the TIC charge, the Accused was engaged in rough basketball play with Edwin before the incident and punched Edwin twice on his head, causing haematoma injuries over his right temporalis and left parietal region and right subconjunctival haemorrhage. According to the Defence, the altercation had stopped by this time, which meant that the Accused should have realised that he was wrong to behave so aggressively in a friendly ball game. Instead, when the victim shouted at him and came from behind him, he blindly threw a punch at the victim for no rhyme or reason. The victim had not been an opponent in the game nor done nothing to provoke such a reaction. The Accused’s anger management issues hence posed a high risk for reoffending.
+
+26     The resultant injuries caused to the victim were serious and permanent scarring was caused. This was reflected by the long medical leave granted to him. It was fortuitous that the victim did not suffer more serious injuries.
+
+## Conclusion
+
+27     Having considered fully the facts of this case and in view of the TIC charge against him, I sentenced the Accused to four weeks’ imprisonment.
+
+28     Being dissatisfied with the sentence imposed, the Accused has now appeal against my decision. Stay of execution was granted pending appeal.
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F26906-SSP.xml)

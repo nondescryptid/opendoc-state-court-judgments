@@ -1,0 +1,362 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Teo Chee Seng _v_ The Subsidiary Management Corporation No. 2 – Strata Title Plan No. 02  
+
+### \[2021\] SGDC 255
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">DC/OSS 52 of 2021, HC/RAS 22/2021</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">16 November 2021</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Kow Keng Siong</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Bernard Sahagar s/o Tanggavelu (Lee Bon Leong &amp; Co) for the plaintiff; Twang Kern Zern &amp; Mark Lam (Central Chambers Law Corporation) for the defendant.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Teo Chee Seng — The Subsidiary Management Corporation No. 2 - Strata Title Plan No. 02-3953</td></tr></tbody></table>
+
+Civil Procedure – Injunctions – Grant of mandatory injunction – Application of the principle of “fair outcome” in deciding whether to grant mandatory injunction
+
+Civil Procedure – Costs – Successful party not awarded costs
+
+\[LawNet Editorial Note: The appeal in HC/RAS 22/2021 was dismissed by the High Court on 29 November 2021.\]
+
+16 November 2021 - Judgment reserved.
+
+### District Judge Kow Keng Siong:
+
+## Introduction
+
+1       DC/OSS 52/2021 (“**OSS 52**”) is an application for a declaration and mandatory injunction by the Plaintiff (a resident in a condominium at No. 33 Rochester Drive) against the Defendant (the condominium’s subsidiary management corporation).
+
+2       The application concerns a flat-roof covered walkway – a common property under the Defendant’s control and management – that ran just below (and outside of) the kitchen window, bedroom windows and balcony of the Plaintiff’s unit.
+
+3       In 2020, the Defendant installed two rows of glass panels along the length of the covered walkway outside the Plaintiff’s unit.
+
+> (a)     The flat roof of the covered walkway is shown in the middle of Photo 1.
+
+> (b)     The two rows of glass panels can be seen to be sloping from the building walls downwards to the roof of the walkway.
+
+> (c)     Windows of the Plaintiff’s unit is shown on the right side of Photo 1.
+
+![]([2021] SGDC 0255_Image/[2021] SGDC 0255_image1.png)
+
+4       After the installation of the two rows of glass panels in 2020, rainwater tended to collect on roof of the covered walkway outside the Plaintiff’s unit (“**water ponding issue**”). The water ponding can be seen in Photo 2 as a darker patch on the roof of the walkway.
+
+![]([2021] SGDC 0255_Image/[2021] SGDC 0255_image2.png)
+
+## The Application
+
+5       The Plaintiff was concerned that the water ponding on the roof of the covered walkway could be conducive for mosquito breeding. Accordingly, he commenced OSS 52 to apply for the following:
+
+> (a)     “A declaration that the formation of stagnated water at the covered \[walkway\] ... is a health hazard and a nuisance”. (“**Prayer 1**”)
+
+> (b)     “A mandatory injunction that the Defendants do within one (1) month do the necessary to remove _and/or_ permanently prevent stagnated water collecting at the covered \[walkway\] ...”. \[emphasis added\] (“**Prayer 1(a)**”)
+
+>> _Note._ Prayer 1(a) consists of three proposed orders _in the alternative_ by the Plaintiff:
+
+>>> (i)       “to _remove_ ... stagnated water collecting at the covered \[walkway\]” (“**First Proposal**”), OR
+
+>>> (ii)       “to ... _permanently prevent_ stagnated water collecting at the covered \[walkway\]” (“**Second Proposal**”), OR
+
+>>> (iii)       “to remove _and ..._ permanently prevent stagnated water collecting at the covered \[walkway\]” (“**Third Proposal**”).
+
+> (c)     “_Alternatively_, a mandatory injunction that the Defendants do within one (1) month do the necessary to remove the covered \[walkway\] ...”. \[emphasis added\] (“**Prayer 1(b)**”)
+
+> (d)     “An order that the Defendants pays (_sic_) the Plaintiff's costs on an indemnity basis”. (“**Prayer 2**”)
+
+## The Plaintiff’s case
+
+6       The Plaintiff accepted that the Defendant had taken measures to address the water ponding issue.[^1]
+
+7       The Plaintiff however felt that these were _“temporary measures”_ as the water ponding issue persisted “every time it rains”.[^2]
+
+8       According to the Plaintiff, the roof of the covered walkway was poorly designed and/or constructed. First, the gradient of the roof was such that it would lead to water ponding. Second, the installation of the two rows of glass panels – which according to the Plaintiff was neither pursuant to a formal resolution of the MCST nor approved by any qualified persons and/or regulatory bodies – effectively closed the gaps between the roof of the covered walkway and the walls of the buildings. Without drainage, this caused more rainwater to flow onto the roof. Finally, the gutter system of the covered walkway was “submerged” below the glass panels and this further led to a collection of stagnant water.[^3]
+
+9       The Plaintiff wanted a mandatory injunction to compel the Defendant to find a “permanent solution” to address the water ponding issue.
+
+10     During oral submissions, the Plaintiff made it clear that he was no longer seeking the removal of the roof of the covered walkway. In other words, he had _abandoned Prayer 1(b)_ and was only seeking an injunction in accordance with the terms of Prayer 1(a).
+
+11     Regarding prayer 1(a) –
+
+> (a)     Initially, in his _written_ submission, the Plaintiff wanted the Defendant to undertake “permanent repairs or re-design \[of the covered walkway\] to prevent formation of stagnated water”.[^4] In support of this, the Plaintiff alleged that NEA had informed the Defendant after site inspections on 9 April and 24 June 2021 that (i) “there were obvious design flaws \[with\] the covered walkway”, and (ii) “\[the Defendant\] was to refer to their architect/engineers to rectify the defect of the \[covered walkway\] that caused the collection of stagnated water as long term solution”.[^5] To substantiate these allegations, the Plaintiff relied on two notes containing information/instructions purportedly from NEA. The instructions in these notes – which can be found in the Affidavit of Teo Chee Seng dated 11 August 2021 at pages 105 and 106 – are disputed by the Defendant.
+
+> (b)     Subsequently in his _oral_ submissions, the Plaintiff wanted the Defendant to instead remove all the glass panels installed in 2020.
+
+## The Defendant’s case
+
+12     The Defendant explained that it had installed the two rows of glass panels along the roof of the covered walkway in 2020 at the request of the subsidiary proprietors of the condominium. It was found that the ground below the roof would be wet and slippery after a downpour. The glass panels were thus installed to prevent rain from making the ground wet and hazardous.[^6] (_Note_. The Plaintiff accepted the latter contention by the Defendant.[^7])
+
+13     The Defendant did not dispute that stagnant water might potentially be a health hazard if mosquito breeding had occurred.[^8] It however contended that there was no such concern as there was no evidence of mosquito breeding in the present case.[^9] According to the Defendant, this was because (a) it would remove the rainwater on the roof to prevent it from being stagnant and (b) it would place mosquito dung on the roof to prevent mosquito breeding. The Defendant highlighted that it had actively sought to address the water ponding issue _prior_ to – and after – OSS 52 was served. (_Note._ The efforts taken by the Defendant to address the water ponding issue are in grey in the following chronology of events):
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="18.56%"> <col width="81.44%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Date</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Event</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">01 Apr 21</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">The Plaintiff filed OSS 52.</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">09 Apr 21</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">NEA conducted site inspection concerning the water ponding issue.</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>13 Apr 21</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Follow a request from the Defendant, Bestlink Construction Pte Ltd (“<b>Bestlink</b>”) sent a quotation to the Defendant to enlarge the drain outlet on the top of the covered walkway.<span class="FootnoteRef"><a href="#Ftn_10" id="Ftn_10_1"><sup>[note: 10]</sup></a></span></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">13 Apr 21</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">The Plaintiff obtained leave to amend the Originating Summons <b>before serving it</b>.</p><p align="justify" class="Table-Para-1">The defendant stated in the Originating Summons was not the Defendant – but another entity (“<b>Third Party</b>”).</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">14 Apr 21</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">The Plaintiff served the Originating Summons and supporting affidavit on the Third Party.</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">24 Jun 21</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">NEA conducted site inspection concerning the water ponding issue.<span class="FootnoteRef"><a href="#Ftn_11" id="Ftn_11_1"><sup>[note: 11]</sup></a></span></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>29 Jun 21</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Following an email from NEA, the Defendant informed NEA that to prevent mosquito breeding –</p><p align="justify" class="Table-Para-1">[1] It would <b>vacuum the top of the covered walkway whenever it rained</b>;</p><p align="justify" class="Table-Para-1">[2] It had placed BTI mosquito dunk on the top of the covered walkway, and would continue to so after a rain or when the dunks completely dissolve; and</p><p align="justify" class="Table-Para-1">[3] It would also <b>monitor the areas and ensure that no stagnant water was present</b>.<span class="FootnoteRef"><a href="#Ftn_12" id="Ftn_12_1"><sup>[note: 12]</sup></a></span></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">01 Jul 21</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">The Plaintiff obtained leave to amend Originating Summons to substitute the Third Party with the Defendant as the defendant.</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>19 Jul 21</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">The Plaintiff served the amended Originating Summons and supporting affidavit on the Defendant.</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>02 Aug 21</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Works were carried out on the covered walkway to address the water ponding issue.</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>06 Aug 21</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Bestlink communicated with the Defendant on the removal of glass panels along the roof of the covered walkway for easy maintenance.<span class="FootnoteRef"><a href="#Ftn_13" id="Ftn_13_1"><sup>[note: 13]</sup></a></span></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>23 Aug 21</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">The Defendant received Bestlink’s quotation to dismantle fixed glass panels adjoining the roof of the covered walkway.<span class="FootnoteRef"><a href="#Ftn_14" id="Ftn_14_1"><sup>[note: 14]</sup></a></span></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>11 Sep 21</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Bestlink <b>removed two glass panels</b> along the roof of the covered walkway. (See <b>Photo 3A</b>.) This was to make it easier for the Defendant to <b>carry out daily cleaning of the top of the covered walkway</b>,<span class="FootnoteRef"><a href="#Ftn_15" id="Ftn_15_1"><sup>[note: 15]</sup></a></span> (See <b>Photo 3B</b>.)</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="center" class="Table-Para-1">26 Oct 21</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Injunction granted</p></td></tr></tbody></table>
+
+  
+  
+
+![]([2021] SGDC 0255_Image/[2021] SGDC 0255_image3.png)
+
+14     According to the Defendant, the measures it had taken – which complied with NEA guidelines – were adequate to address the water ponding issue.
+
+15     As for the two notes containing information/instructions purportedly from NEA (see \[11\](a) above), the Defendant denied knowledge of them and questioned the veracity of their contents.[^16] The Defendant urged me to give weight only to official email communications from NEA and not the notes.
+
+16     In light of the above, the Defendant submitted that OSS 522 ought to be dismissed.
+
+## Orders made
+
+17     I _granted_ the Plaintiff’s applications in _Prayer 1_ and _Prayer 1(a)_.
+
+18     Regarding _Prayer 1_, the declaration was made in the following terms:
+
+> (a)     After a rain, water is likely to collect at the covered walkway of the aerial bridge at level 9 of 33 Rochester Drive, Singapore 138638.
+
+> (b)     There is a high potential for such a collection of water to be stagnant due to the installation of \[glass panels\] at both sides of the covered walkway at the area outside the Plaintiff’s unit.
+
+> (c)     Collection of stagnant water on the said covered walkway poses a health hazard and a nuisance.
+
+> (d)     The Defendant has a duty to abate the health hazard and a nuisance as (i) it is responsible for the management and control of the covered walkway and (ii) it had installed the \[glass panels\].
+
+19     As for _Prayer 1(a)_ –
+
+> (a)     I did _not_ make an order in line with the _Second Proposal_ – as I did not think that it is appropriate to order the glass panels to be removed.
+
+> (b)     Instead, in line with the Plaintiff’s _First Proposal_, I ordered that the Defendant was to ensure that water which might from time to time collect on the covered walkway did not become stagnant.
+
+> (c)     I further directed that measures which might be taken in compliance with this direction included ensuring that water which might collect on the covered walkway was removed within a reasonable time.
+
+20     As for Prayer 2 – I declined to make any order on costs. This meant that each party had to bear their own costs.
+
+## Grounds of appeal
+
+21     The Plaintiff appealed against my decision – on the basis that I had failed to make any order on Prayer 1(a) and Prayer 2.
+
+## My decision
+
+### The injunction ordered
+
+22     The Plaintiff’s appeal on the basis that I had failed to make an order on Prayer 1(a) is clearly misconceived.
+
+> (a)     To reiterate, I had in fact ordered the Defendant to ensure that water which might from time to time collect on the covered walkway did not become stagnant, and that this included ensuring that such water was _removed_ within a reasonable time from the walkway.
+
+> (b)     This order came within one of the three alternative orders proposed by the Plaintiff under Prayer 1(a) – specifically the First Proposal: see \[5\](b) above.
+
+23     In making the order, I considered the following:
+
+> (a)     Before the order was made, the Defendant had already taken measures to remove water that collected on the roof of the covered walkway. As stated in \[13\] above:
+
+>> (i)       It would vacuum the roof of the covered walkway whenever it rained.
+
+>> (ii)       It had caused two glass panels along the roof to be removed so as to facilitate daily cleaning of the roof.
+
+>> (iii)       It would monitor the area and ensure that no stagnant water was present.[^17]
+
+> (b)     There was an NEA site inspection on 24 June 2021 regarding the water ponding issue. After the inspection, the Defendant reported to NEA regarding the measures that it had taken. In its reply, NEA did not make express the view that these measures were inadequate.[^18]
+
+> (c)     The Plaintiff did not dispute the Defendant’s contention that there had been no mosquito breeding at the roof of the covered walkway. I accepted the Defendant’s evidence that this was due to its “proactive steps at clearing water every time it rains and placing mosquito dungs”.[^19]
+
+> (d)     I further accepted the Defendant’s unrebutted evidence that the authorities, including NEA, had not taken any action regarding the covered walkway and the water ponding issue, and this showed that the Defendant did not breach any regulations.[^20]
+
+> (e)     The injunction ordered was intended to provide the Plaintiff with some comfort, so that he would now have a court order to compel the Defendant to abate the health hazard and nuisance posed by the water ponding issue – and not simply have to rely on the Defendant to comply on its statutory duties (e.g., under the Environmental Public Health Act) to ensure that there is no mosquito breeding on the roof of the walkway.
+
+24     The Plaintiff was unhappy that water ponding still occurred on the roof of the covered walkway “every time it rains”.[^21] Regarding this unhappiness, I make the following observations:
+
+> (a)     It is unclear whether the Plaintiff had expected that water must never collect on the roof of the walkway “every time it rains”. If so, then this would be an unreasonable expectation. The Defendant cannot be expected to remove water that collects on the covered walkway while it is still raining.
+
+> (b)     I think what would be more reasonable is that the Defendant must ensure that water which might from time to time collect on the covered walkway did not become stagnant, e.g., by removing such water _within a reasonable time_. This is what I had ordered, in line with the Plaintiff’s First Proposal in Prayer 1(a).
+
+> (c)     What is a “reasonable time” to remove the water from the roof of the walkway is of course an objective test, to be applied based on good sense. In crafting the order, I had deliberately avoided very prescriptive language (e.g., to remove the collection of water within x hours) so that the injunction can be applied sensibly. This is because at the time of making the order, it was not possible to anticipate the various scenarios that the order would have to apply to. Unintended consequences and unnecessary litigation may arise if too prescriptive language is used in the order.
+
+> (d)     As to whether the measures taken by the Defendant were the most practical way to address the water ponding issue, I made no judgement. This is because no evidence had been submitted on this issue, such as reports from professional engineers, despite me having alluded to the usefulness of such evidence in the case management conferences leading up to the hearing.
+
+25     The Plaintiff had sought an order directing the Defendant to remove all the glass panels. I did not think that this was appropriate:
+
+> (a)     Prayer 1(a) is an application for the making of a _mandatory_ injunction. Where a mandatory injunction is sought, a court must determine whether the order will produce a _fair result_. In making this determination, the court must take into consideration, amongst others, the benefit that the order will confer on the plaintiff and the detriment that it will cause to the defendant. The plaintiff will not be permitted to insist on a form of relief which will confer no appreciable benefit on him and which will be materially detrimental to the defendant: _Tay Tuan Kiat v Pritnam Singh Barr_ \[1985-1986\] SLR(R) 763 at \[8\] – \[10\].
+
+> (b)     It also bears noting that since the Plaintiff was seeking a mandatory injunction, _he had the burden to prove_ that such an injunction could be applied in a way that did not cause disproportionate detriment to the Defendant. The Plaintiff has failed to do so.
+
+> (c)     In fact, it is clear that ordering a removal of the glass panels at the covered walkway would cause disproportionate detriment to the Defendant.
+
+>> (i)       The removal of all the glass panels will require the Defendant to incur potentially significant costs.
+
+>> (ii)       It also bears recalling that the glass panels were installed to prevent the ground of the walkway from becoming slippery and hazardous after a downpour. This was accepted by the Plaintiff.[^22] An order requiring the Defendant to remove all the glass panels would thus (1) potentially expose the condominium residents and visitors to safety hazards and (2) potentially expose the Defendant to legal liability should any such persons slip (because the ground under the roof is wet) and injure themselves.
+
+>> (iii)       The Plaintiff had failed to show why it was necessary for such costs and risks to be incurred when water ponding on the roof of the walkway could simply be removed via the measures already taken by the Defendant.
+
+26     The Plaintiff claimed that NEA –
+
+> (a)     had taken the view that “there were obvious design flaws \[with\] the covered walkway”, and
+
+> (b)     had required the Defendant to refer to their architect/engineers to rectify the defect.
+
+These claims were based on two notes containing information/instructions purportedly from NEA.[^23]
+
+27     I declined to place weight on these notes.
+
+> (i)     The Plaintiff had failed to adduce evidence to show the circumstances in which the notes were made. For instance, it is not clear whether the notes were prepared by the alleged NEA officer concerned or were prepared by another person.
+
+> (ii)     Further, there is no evidence to show that NEA had provided the notes _to the Defendant_.
+
+> (iii)     In this regard, I observe that when NEA needed to communicate with the Defendant regarding the water ponding issue, it would do so officially via emails. Examples of this can be found in the affidavit of Stewart Kiong Kheng Ho dated 3 September 2021 at pages 66 and 75. In _none of these emails_ did NEA take the view that –
+
+>> (i)       the measures taken by the Defendant to deal with the water ponding issue on the roof of the covered walkway were inadequate,
+
+>> (ii)       there were obvious design flaws with the covered walkway, or
+
+>> (iii)       the Defendant was required to find a “permanent solution” or “long term solution” to the water ponding issue by referring the matter to its architect/engineers.
+
+> (iv)     If NEA had felt that it was necessary to _give directions_ to the Defendant to take certain measures, one would have expected NEA to have done so via official correspondence, or minimally via an email – and not by way of notes.
+
+> (v)     The notes contain assertions of fact or opinion that apparently by NEA. Such assertions are hearsay given that their maker (the alleged NEA officer concerned) did not affirm an affidavit on these matters.
+
+28     The Plaintiff submitted that weight should be given to the notes. In support of this submission, the Plaintiff highlighted that –
+
+> (a)     the notes were signed by one “Shafiq” – the same person who had sent emails to the Defendant regarding the water ponding issue, and
+
+> (b)     the said Shafiq had amended the note at page 105 of the Plaintiff’s affidavit dated 11 August 2021 – thus suggesting that the said Shafiq would not “blindly sign the note\[s\]”.
+
+29     I am not persuaded that the Plaintiff’s submissions address the issues and concerns in \[27\].
+
+### The costs order
+
+30     In Prayer 2, the Plaintiff had sought an order that the Defendant pay his costs on an _indemnity_ basis.
+
+31     The general principles on which costs are to be awarded are well established:
+
+> (a)     Costs are in the court’s discretion.
+
+> (b)     Costs should follow the event – except when it appears to the court that in the circumstances of the case, some other order should be made, or that there are special reasons for depriving the successful litigant of his costs in part or in full: O 59 r 3 (2) of the Rules of Court (“**ROC**”).
+
+> (c)     “Indemnity costs are an _exception_ and have to be _exceptionally justified_” \[emphasis added\]: _CCM Industrial Pte Ltd v. Uniquetech Pte Ltd_ \[2009\] 2 SLR (R) 20 at \[32\].
+
+32     I rejected the Plaintiff’s application for the Defendant to pay indemnity costs. There is simply no reason to award costs on such a basis:
+
+> (a)     The Plaintiff had failed to provide any justification, either in its submissions or affidavit, as to why indemnity costs ought to be awarded.
+
+> (b)     The Plaintiff had failed to adduce evidence that would typically justify indemnity costs – e.g., contractual provision to that effect or unreasonable or improper conduct on the part of the unsuccessful party: Singapore Civil Procedure 2021 vol 1 (Cavinder Bull S.C. gen ed) (Sweet & Maxwell, 2021) at page 1113 \[59/5/3\].
+
+33     The Plaintiff submitted that he had made an offer to settle pursuant to O 22A r 1 of the ROC on 1 September 2021 (“**OTS**”). The terms of the offer to settle are as follows:
+
+> “1.    The Defendant consents to the Order(s) sought in the Originating Summons (Amendment No. 3), specifically prayer 1(a) therein.
+
+> 2.    The Defendant pay (_sic_) the Plaintiff costs of the action on a standard basis assessed to the date this Offer to Settle is accepted or to the date 14 days after this Offer to Settle is served, whichever is earlier; and
+
+> 3.    If the Offer to Settle is not accepted within 14 days of service, the Defendant pays to the Plaintiff costs of the action on an indemnity basis assessed from the date 14 days after this Offer to Settle is served until this Offer to Settle is accepted or until the disposal of the claim.”
+
+34     In my view, the OTS did not assist the Plaintiff in justifying an order for indemnity costs.
+
+> (a)     It is well-established that before an offer to settle can be a relevant consideration on the awarding of costs, its terms must be _clear and unequivocal_. The reasons for this have been eloquently articulated in _Denis Harte v. Tan Hun Hoe and Gleneagles Hospital Ltd._ <span class="citation">\[2001\] SGHC 19</span> at \[47(c)\] as follows:
+
+>> “It is of crucial importance therefore that a clear offer to settle be made with all the terms comprehensively set out. _The offeree needs to know precisely what the terms are before he accepts the offer_. ... A precise offer with unequivocal terms also _helps the court to determine whether the plaintiff has, on the action as a whole, obtained an order or a judgment sum (together with the interest awarded for the period before the service of the offer to settle) which is more favourable or less favourable than the terms of the offer_. If the court cannot readily determine that because of incomplete terms or ambiguity, the court may disregard the offer and the offeror will lose his costs advantage altogether”. \[emphasis added\]
+
+> (b)     According to clause 1 of the OTS, the Defendant was to consent “to the Order(s) sought in the Originating Summons (Amendment No. 3), _specifically prayer 1(a)_ therein” \[emphasis added\].
+
+> (c)     As stated earlier, Prayer 1(a) contains _three different options_ for the injunction sought by the Plaintiff. To recap, these are –
+
+>> (i)       “to remove ... stagnated water collecting at the covered \[walkway\]” (“**First Proposal**”), OR
+
+>> (ii)       “to ... permanently prevent stagnated water collecting at the covered \[walkway\]” (“**Second Proposal**”), OR
+
+>> (iii)       “to remove _and ..._ permanently prevent stagnated water collecting at the covered \[walkway\]” (“**Third Proposal**”).
+
+> (d)     It is _not clear_ from clause 1 of the OTS which of the above three options the OTS is based. Because of this uncertainty, one cannot say whether the Plaintiff had obtained an order which is more favourable or less favourable than the terms of the offer. For instance, if the OTS was based on the Third Proposal, then the injunction ordered would have been more favourable to the Defendant than the terms of the OTS.
+
+35     In exercising my discretion as to costs, I am entitled to “take into account ... the conduct of all the parties, including _before_ ... the proceedings”: O 59 r 5 of the ROC.
+
+36     Taking into account the conduct of both the Plaintiff and the Defendant to address the water ponding issue before OSS 52 was heard by me, I did not find it appropriate that costs should follow the event.
+
+37     First, I accepted the Defendant’s submission that the Plaintiff did not take any step to resolve the water ponding issue with the Defendant _before_ having the issue litigated.
+
+> (a)     The Plaintiff claimed that before initiating OSS 52, he had spoken to the Defendant regarding the water ponding issue on or around 9 April 2021. However, the latter did not take any action regarding the issue.[^24]
+
+> (b)     The Plaintiff’s claim was robustly disputed by the Defendant. According to the latter –
+
+>> (i)        _Prior to the commencement of OSS 52_, the Plaintiff did not speak to either the Defendant or its managing agent about his unhappiness with the water ponding issue.[^25]
+
+>> (ii)       Any concerns that the Plaintiff might have with the water ponding issue should be raised directly with the Defendant at general meetings or Council meetings or even by way of visiting the Defendant’s office in the condominium to leave feedback – instead of by way of an application to Court.[^26]
+
+> (c)     The Plaintiff failed to prove that he had a conversation with the Defendant to address the water ponding issue prior to commencing OSS 52.
+
+>> (i)       The Plaintiff’s claim of the alleged conversation was a bare allegation which is bereft of any details. For instance, the Plaintiff did not provide any information as to _who_ he had spoken to and _what_ information was exchanged during the alleged conversation.
+
+>> (ii)       Despite knowing that the alleged conversation was disputed,[^27] the Plaintiff did not either (1) exhibit any evidence to substantiate his claim that the conversation had taken place or (2) show that he had taken steps to address the water ponding issue with the Defendant.
+
+>> (iii)       The complete absence of any evidence showing that the Plaintiff had surfaced the water ponding issue to the Defendant stood in stark contrast to the fact that he had – through his solicitors – sent several letters to the Defendant in March and April 2021 regarding his unhappiness with another issue – the “dust, noise and/or glare” caused by the installations of retractable awning to shelter the BBQ lounge area at level 9 of the condominium (“**retractable awning issue**”).[^28] From the correspondence regarding the retractable awning issue, it is evident that the Plaintiff was aware of the importance of putting the Defendant on notice of his grievance and seeking the latter to address such grievance.
+
+>> (iv)       The evidence also shows that the Plaintiff had been conscientious enough (1) to document his conversations with an NEA officer who visited the condominium on 9 April 2021 and 24 June 2021 to look into the water ponding issue and (2) to present these notes as part of his case in OSS 52.[^29] Surely, if the Plaintiff had approached the Defendant regarding the water ponding issue, one would have expected him to document such conversations as well. None was produced.
+
+38     Second, I accepted the Defendant’s contention that it had actively taken measures to address the water ponding issue _prior_ to – and after – OSS 52 was served. These measures are at \[13\] above. The Plaintiff did not dispute the fact that the Defendant had sought to address the water ponding issue.
+
+39     Civil litigation involves the use of public resources, and such resources should be applied efficiently. It bears emphasis that litigation ought to be a remedy of last resort – after a plaintiff has exhausted all reasonable means to resolve a dispute with a defendant. In the present case, the Plaintiff did not attempt to surface the water ponding issue with the Defendant – much less engage with the Defendant to find a mutually accept way to address the issue – before commencing OSS 52.
+
+40     I agree with the Defendant that –
+
+> (a)     If the Plaintiff had bothered to engage with the Defendant, he would have been aware that the Defendant was already in the process of addressing the drainage at the covered walkway _even before the papers for OSS 52 was served._[^30]
+
+> (b)     OSS 52 would have been unnecessary as the Defendant was already doing what the Plaintiff is trying to obtain a mandatory injunction to compel the Defendant to do.[^31] If the Plaintiff had engaged with the Defendant, there is a good chance that the incurring of costs and public resources could have been avoided.
+
+41     In my judgement, requiring the Plaintiff and Defendant to bear their own costs is in line with the policy of encouraging amicable settlement of disputes and to pursue litigation only as a last resort.
+
+## Conclusion
+
+42     For the above reasons –
+
+> (a)     I granted Prayer 1(a) by ordering the Defendant to ensure that water which might from time to time collect on the covered walkway did not become stagnant, and that such water be removed from the walkway within a reasonable time; and
+
+> (b)     I declined to make any order on costs in relation to Prayer 2.
+
+* * *
+
+[^1]: Affidavit of Teo Chee Seng dated 11 August 2021 at \[6.5\].
+
+[^2]: Affidavits of Teo Chee Seng dated 11 August 2021 at \[6.5\], \[6.6\] and \[7.2\], and dated 17 September 2021; Plaintiff’s Submissions dated 20 October 2021 at \[1\], \[10.3\], \[11\] and \[17\] – \[22\].
+
+[^3]: Affidavit of Teo Chee Seng dated 11 August 2021 at \[6.2\], \[6.4\], \[10\] and \[11\]; Plaintiff Submissions dated 20 October 2021 at \[16\].
+
+[^4]: Affidavit of Teo Chee Seng dated 11 August 2021 at \[6.5\], \[7.2\], \[9\], \[10\] and \[11\]; Plaintiff Submissions dated 20 October 2021 at \[11\].
+
+[^5]: Affidavit of Teo Chee Seng dated 11 August 2021 at \[8\] and \[9\]; Plaintiff’s Submissions dated 20 October 2021 at \[22\], \[24.2\], \[24.3\] and \[25\].
+
+[^6]: Affidavit of Stewart Kiong Kheng Ho dated 3 September 2021 at \[7\].
+
+[^7]: Plaintiff’s Submissions dated 20 October 2021 at \[15.2\].
+
+[^8]: Defendant’s Submissions dated 20 October 2021 at \[13\](i).
+
+[^9]: Defendant’s Submissions dated 20 October 2021 at \[13\](i), \[18\].
+
+[^10]: Affidavit of Stewart Kiong Kheng Ho dated 3 September 2021 at pages 54 – 57.
+
+[^11]: Affidavit of Stewart Kiong Kheng Ho dated 3 September 2021 at page 66.
+
+[^12]: Affidavit of Stewart Kiong Kheng Ho dated 3 September 2021 at \[13\] and page 70 – 74.
+
+[^13]: Affidavit of Stewart Kiong Kheng Ho dated 3 September 2021 at pages 63 and 64.
+
+[^14]: Affidavit of Stewart Kiong Kheng Ho dated 3 September 2021 at pages 61 and 62.
+
+[^15]: Affidavit of Stewart Kiong Kheng Ho dated 17 September 2021.
+
+[^16]: Affidavit of Stewart Kiong Kheng Ho dated 3 September 2021 at \[15\].
+
+[^17]: Affidavits of Stewart Kiong Kheng Ho dated 3 September 2021 at \[13\] and pages 70 – 74 and dated 17 September 2021.
+
+[^18]: Affidavits of Stewart Kiong Kheng Ho dated 3 September 2021 at \[13\] and page 66 – 75 and dated 17 September 2021.
+
+[^19]: Defendant’s submissions dated 20 October 2021 at \[13\], \[17\] and \[20\].
+
+[^20]: Affidavit of Stewart Kiong Kheng Ho dated 3 September 2021 at \[17\].
+
+[^21]: Affidavits of Teo Chee Seng dated 11 August 2021 at \[6.5\], \[6.6\] and \[7.2\], and dated 17 September 2021.
+
+[^22]: Plaintiff’s Submissions dated 20 October 2021 at \[15.2\].
+
+[^23]: These notes are contained in the Affidavit of Teo Chee Seng dated 11 August 2021 at pages 105 and 106.
+
+[^24]: Affidavit of Teo Chee Seng dated 11 August 2021 at \[7\].
+
+[^25]: Affidavit of Stewart Kiong Kheng Ho dated 3 September 2021 at \[8\].
+
+[^26]: Affidavit of Stewart Kiong Kheng Ho dated 3 September 2021 at \[17\].
+
+[^27]: After the affidavit of Stewart Kiong Kheng Ho dated 3 September 2021, the Plaintiff affirmed an affidavit dated 17 September 2021. This affidavit is conspicuously silent on the Defendant’s contentions in \[37\](b) above.
+
+[^28]: Affidavit of Stewart Kiong Kheng Ho dated 3 September 2021 at pages 21, 23, 32 and 44 – 52.
+
+[^29]: Affidavit of Teo Chee Seng dated 11 August 2021 at pages 105 and 106.
+
+[^30]: Affidavit of Stewart Kiong Kheng Ho dated 3 September 2021 at \[10\], 11\] and \[18\].
+
+[^31]: Affidavit of Stewart Kiong Kheng Ho dated 3 September 2021 at \[18\].
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F26781-SSP.xml)

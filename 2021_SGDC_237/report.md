@@ -1,0 +1,113 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# William Lim Tien Hou _v_ Ling Kok Hua  
+
+### \[2021\] SGDC 237
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">DI-900019-2020, Magistrate's Appeal No. 9214/2021/01</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">25 October 2021</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">A Sangeetha</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">State Counsel Cheng You Duen (Attorney-General's Chambers) for the Public Prosecutor; Mr Che Weichin (Covenant Chambers LLC) for Mr William Lim Tien Hou; Ms Anna Oei and Mr Friedrich Heng (Tan, Oei &amp; Oei LLC) for Mr Ling Kok Hua</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">William Lim Tien Hou — Ling Kok Hua</td></tr></tbody></table>
+
+Criminal Procedure and Sentencing – Disposal of Property – Section 370 Criminal Procedure Code (Cap 68, 2012 Rev Ed)
+
+\[LawNet Editorial Note: An appeal to this decision has been filed in MA 9214/2021/01.\]
+
+25 October 2021
+
+### District Judge A Sangeetha:
+
+## Introduction
+
+1       A Disposal Inquiry (“DI”) was commenced pursuant to s 370 of the Criminal Procedure Code (Cap. 68, 2012 Rev Ed) (“CPC”) to determine the disposal of a sum of $10,001 (“Sum”) which was earmarked in UOB Bank Current Account xxx-xxx-xxx-x (“UOB Account”) held by one Mr William Lim Tien Hou (“Mr Lim”).
+
+2       There were two claimants in this DI, namely Mr Lim and Mr Ling Kok Hua (“Mr Ling”). Both claimants were represented. At the end of the DI, I ordered that the earmark be lifted and the Sum be returned to Mr Ling (“DI Order”).
+
+3       Dissatisfied, Mr Lim filed a Magistrate’s Appeal against the DI Order. The reasons for my decision are set out below.
+
+## Undisputed facts
+
+4       In the following paragraphs, I have summarised the pertinent facts from the DI Report dated 4 August 2021, which was prepared by Senior Investigation Officer SSS Lim Ivan (“DI Report”) and the Agreed Statement of Facts dated 6 August 2021, which was prepared by solicitors for the claimants (“ASOF”).
+
+### Facts pertaining to Mr Ling’s claim
+
+5       On 10 November 2018, through Facebook messenger, Mr Ling was contacted by someone (“Unknown Person”) who purported to be his former supervisor, Mr Kao Yit Chee (“Mr Kao”). Mr Ling was unaware that Mr Kao’s Facebook account was compromised.
+
+6       The Unknown Person requested Mr Ling’s assistance to transfer monies to a Singapore bitcoin trading investment account. On the Unknown Person’s request, Mr Ling provided his POSB online banking credentials and allowed the Unknown Person remote access to his bank account via TeamViewer.
+
+7       Pursuant to instructions from the Unknown Person, Mr Ling first prepared a transfer of $1.00 to the UOB Account. At the same time, the Unknown Person requested that Mr Lim provide him with a photograph showing Mr Ling’s identity card details and a piece of paper with the words “buying bitcoin from cryptotil on localbitcoins.com 10/11/18” (“1st Photograph”). Mr Ling complied.
+
+8       Shortly after, the Unknown Person requested that Mr Ling provide proof of address. Again, Mr Ling complied by taking a photograph of a letter which contained his address (2nd Photograph”).
+
+9       While Mr Ling was taking the 2nd photograph, without his knowledge or authorisation, the Unknown Person amended the sum of $1.00 to $10,000 and effected a transfer from Mr Ling’s account to the UOB Account (“1st Transfer”). Mr Ling was unaware of the 1st Transfer until after it was done.
+
+10     The Unknown Person then requested another transfer of $1.00 to the UOB Account. Pursuant to this instruction, Mr Ling prepared a transfer of $1.00. Without his knowledge and authorisation, the Unknown Person amended the sum from $1.00 to $30,000. However, Mr Ling noticed the entry of $30,000 and deleted it, proceeding to effect a transfer of $1.00 to the UOB Account (“2nd Transfer”) instead.
+
+11     Upon discovering what the Unknown Person had done in relation to the 1st Transfer, Mr Ling confronted the Unknown Person and informed him that no further transactions would be done until the sum of $10,000 was returned to him. Mr Ling’s request was refused.
+
+12     Mr Ling logged out of the bank’s online portal. The Unknown Person asked Mr Ling to log back into the bank’s online portal. Such a request was refused by Mr Ling, who reiterated that nothing further would be done until the funds were returned to him.
+
+13     Thereafter, Mr Ling attempted to call Mr Kao before sending him messages via Whatsapp. His efforts were futile. The next day, Mr Ling got in touch with Mr Kao and came to know that Mr Kao’s Facebook account had been hacked.
+
+14     Following the events of 10 November 2018 and upon realising the Mr Kao’s Facebook had been hacked, Mr Ling proceeded to make a Police Report. The Sum was subsequently earmarked by the Police.
+
+### Facts pertaining to Mr Lim’s claim
+
+15     Mr Lim had been doing bitcoin peer-to-peer trading in and out of Singapore since June 2018. He operated under the username, “cryptotil”. He placed an advertisement to sell bitcoins at $9,028.89 per bitcoin on an online peer-to-peer trading platform, Localbitcoins.com.
+
+16     On 10 November 2018, a user named “haylieelan” contacted Mr Lim for a bitcoin trade worth $10,000. Mr Lim requested “haylieelan” to provide a photograph and identity details. The 1st Photograph was submitted by “haylieelan” to Mr Lim. Upon confirming that this was a genuine purchase, Mr Lim provided details of the UOB Account.
+
+17     Later, Mr Lim received $10,000 in the UOB Account. Upon verification, Mr Lim released the bitcoins to “haylieelan” and completed the trade. Subsequently, Mr Lim noticed that he had received another $1 but had no idea what it was for.
+
+18     It is undisputed that Mr Lim and Mr Ling were unknown to each other.
+
+19     Upon the conclusion of police investigations, Mr Lim and Mr Ling indicated that they would be laying competing claims on the Sum. Accordingly, a DI had to be convened.
+
+## Preliminary issue: Appropriate course of action to challenge the DI Order
+
+20     The preliminary issue concerned the appropriate course of action to challenge the DI Order.
+
+21     As disposal inquiries are not a criminal case or matter, there was no right of appeal against the orders made pursuant to a disposal inquiry: see _Sofjan v Public Prosecutor_ <span class="citation">\[1970\] 2 MLJ 272</span>. A similar position was adopted by the High Court in _Thai Chong Pawnshop Pte Ltd v Vankrisappan s/o Gopanaidu_ \[1994\] 2 SLR (R) 113 (“_Thai Chong Pawnshop_”) (at \[12\]). Aggrieved parties may wish to petition for revision if there was a fundamental error occasioning a clear failure of justice.
+
+22     In the present case, Mr Lim had, through his solicitors, lodged an appeal instead of a petition for revision against the DI Order. Notwithstanding this, I considered this as an application to the High Court to exercise its powers of revision under s 401 of the Criminal Procedure Code (Cap 68, 2012 Rev Ed). As enunciated by the High Court in _Magnum Finance Bhd v Public Prosecutor_ <span class="citation">\[1996\] 2 SLR(R) 159</span> (“_Magnum Finance_”) at \[4\], the High Court can regularise this technical irregularity by exercising its powers of revision.
+
+23     It is trite law that the High Court would only exercise its revisionary powers if it is shown that there are fundamental errors of law which have occasioned a clear failure of justice: _Magnum Finance_ at \[4\]. In other words, Mr Lim must demonstrate that, in making the DI Order, I had made an error which resulted in material and serious injustice.
+
+## Governing principles
+
+24     A disposal inquiry is not a means to resolve conclusively a dispute over title where there are factual disputes giving rise to competing claims. This is because the court conducting the disposal inquiry lacked the procedures available in civil process to decide between the competing claims and applies a “rough and ready” approach to make an award to the party that it thinks has the better right to possession: _Public Prosecutor v Intra Group (Holdings) Co Inc_ <span class="citation">\[1999\] 1 SLR(R) 154</span> at \[12\].
+
+25     As set out in the case of _Thai Chong Pawnshop_ (at \[5\]), a disposal inquiry is intended to be an inexpensive and expeditious manner of distributing items and the width of the judge’s discretion underlines this intention. A judge presiding over disposal inquiries is given broad powers and a fair measure of discretion to make orders. A disposal inquiry is not conclusive as to title and parties are not foreclosed from commencing civil suit to assert their rights.
+
+26     The High Court in _Sim Cheng Ho and another v Lee Eng Soon_ <span class="citation">\[1997\] 3 SLR(R) 190</span> (at \[9\]) held that in exercising its discretion to determine who was entitled to possession, the Court must look at the facts of the case. This position was reaffirmed in _Wang Wang Pawnshop Pte Ltd v K J Tiffany_ <span class="citation">\[2004\] 2 SLR(R) 222</span> (at \[9\]).
+
+27     In _Oon Heng Lye v Public Prosecutor_ <span class="citation">\[2017\] 5 SLR 1064</span>, the High Court held at \[44\] and \[49\] that a person could only be entitled to possession of seized property under s 392 of the Criminal Procedure Code (Cap. 68, 1985 Rev Ed) (“CPC 1985”) if he satisfied the precondition of being in lawful possession of the seized property (at \[44\]). Where a person admitted that the seized property were proceeds of a crime, his possession could not be regarded as lawful (at \[49\]). It bears noting that s 392 of the CPC 1985 has been re-enacted as ss 370 to 372 of the CPC (albeit with amendments). As s 392 of the CPC 1985 and ss 370 to 372 of the CPC are similarly worded insofar as they refer to the concept of a “person entitled to possession of seized property”, the same precondition was applicable in the present case.
+
+## Summary of parties’ positions
+
+28     Both claimants understood and accepted the contents of the DI Report. There were no factual disputes. Counsel for both claimants prepared and agreed on the contents of the ASOF. Parties also agreed to dispense with the taking of evidence. In the premises, on the evidence before the court, parties were invited to make submissions.
+
+29     The State took no position on who the Sum should be returned to.
+
+30     Mr Lim’s counsel submitted that Mr Lim had a legitimate contract with “haylieelan” where the latter would transfer $10,000 to Mr Lim in exchange for 1.10853807 bitcoins. Mr Lim, who had no obligation to verify the actual identity of “haylieelan”, requested for a photo ID and handwritten note before processing the sale transaction. Mr Lim had provided valuable consideration for the sum of $10,000 he had received from “haylieelan”. It was submitted that Mr Lim was not a party to the illegal fraud that was committed in respect of the sum of $10,000 that came from “haylieelan”. As Mr Lim had rightfully received the sum of $10,000 pursuant to a legal contract, his claim over the sum of $10,000 was lawful. If an order was made against Mr Lim, he would be unfairly penalised for releasing the bitcoins to “haylieelan”. In any event, Mr Ling has numerous civil remedies such as conversion and/or unjust enrichment against the Unknown Person. Mr Lim was willing to provide reasonable assistance to help the authorities and Mr Ling.
+
+31     Mr Ling’s counsel submitted that the factual scenario in the present case was similar to that of _Chen Xiuzhu v Public Prosecutor_ <span class="citation">\[2020\] SGDC 34</span> (“_Chen Xiuzhu_”). In _Chen Xiuzhu_, pursuant to a scam, the appellant had received monies from the other claimant. The court was of the view that the monies should be returned to the other claimant because the court had misgivings as to the appellant’s standing in the proceedings and the appellant failed to demonstrate or articulate the basis of her claim. The appellant was dissatisfied with the order that was made against her and lodged an appeal, which was later dismissed by the High Court.
+
+32     Mr Ling’s counsel also submitted that the Sum, which was fraudulently transferred to the UOB account, came from Mr Ling. As Mr Ling was duped into making the transfer of the Sum, Mr Lim was a constructive trustee of the Sum. Further, Mr Lim did not have proprietary interest or claim to the Sum. The fact that Mr Lim had provided evidence of the transfer of the sum of $10,000 was not sufficient to establish Mr Lim’s proprietary interest or claim. It was also submitted that there were inherent risks involved in Mr Lim’s trade which he had accepted and proceeded to engage in the trade.
+
+33     In response to Mr Ling’s arguments, Mr Lim’s counsel submitted that the case of _Chen Xiuzhu_ was distinguishable. This was because Mr Lim completed a legitimate trade with “haylieelan” by making the transfer of bitcoin on his own. The correct test to be employed for disposal inquiries was whether the claimant has proprietary interest. That any analysis concerning constructive trust over the Sum should be for the civil courts to decide. It was also submitted that Mr Lim’s case was different from pawnbroking cases such as _Thai Chong Pawnshop._ This was because there was no statute governing trading of bitcoin, Mr Lim was selling bitcoin for money after performing due diligence checks, no resale value was available for the seized item and the standard of proof to prove legal ownership in pawnbroking cases was much lower.
+
+## My decision
+
+34     This was a case where both Mr Lim and Mr Ling were victims of an elaborate scam.
+
+35     I first considered Mr Ling’s entitlement to the Sum. Investigations showed that the Sum was transferred from Mr Ling’s bank account to the UOB Account on 10 November 2018 via two fund transfers. The said transfers were procured by fraud. The Sum which was earmarked in the UOB Account came from Mr Ling. To my mind, Mr Ling was in lawful possession of the Sum and an offence was committed in respect of the Sum.
+
+36     I turned to consider Mr Lim’s claim. It was undisputed that Mr Lim had a legitimate trading contract with one “haylieelan”. Peer-to-peer or private trading of bitcoins, as in the present case, is largely unregulated in Singapore. Any trade performed in an unregulated industry on a peer-to-peer online platform entailed risks, such as tainted funds being used as payment and non-performance of contract upon receiving consideration. To mitigate such risks, one could take steps that may be necessary before entering into such trades.
+
+37     In the present case, Mr Lim appeared to have appreciated the risks associated with such trades. That was why, despite it not being necessary, Mr Lim conducted due diligence checks. It was only after Mr Lim was satisfied with the results of his checks did he perform the trade and transfer the bitcoins to “haylieelan”. In my view, the cloak of criminality that followed the Sum from Mr Ling’s account to the UOB Account was not removed _simply because_ Mr Lim had entered into a transaction with “haylieelan”. The Sum was still tainted and remained so. I, therefore, exercised my discretion to restore the Sum to Mr Ling, who was last in lawful possession of the Sum before it was subject to criminal acts.
+
+38     While I appreciated that Mr Lim had released bitcoins and suffered a loss, as his counsel suggested to Mr Ling, it might be that Mr Lim’s recourse might lie elsewhere. In any event, as held in _Thai Chong Pawnshop_, any order made as to the disposal of property in a disposal inquiry does not foreclose parties’ rights to re-litigate the same issues in civil proceedings.
+
+## Conclusion
+
+39     In conclusion, I found that the Sum represented criminal proceeds which were traceable directly to Mr Ling’s account. Since the Sum came from Mr Ling’s account, he was entitled to the Sum. Accordingly, I ordered that the earmark on the Sum be lifted and the Sum be returned to Mr Ling.
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F26727-SSP.xml)

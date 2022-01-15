@@ -1,0 +1,174 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Muhammad Khasdi Bin Ajis  
+
+### \[2021\] SGDC 268
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">DAC 908587/2021, Magistrate's Appeal 9247/2021/01</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">06 December 2021</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Carol Ling Feng Yong</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Bryan Joel Lim (Attorney General's Chambers) for the Prosecution; Chiam Jia-An (M/s Netto &amp; Magin LLC) for the Accused</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Muhammad Khasdi Bin Ajis</td></tr></tbody></table>
+
+Criminal Procedure and Sentencing – Road Traffic Act, Chapter 276 – Driving without reasonable consideration under section 65(1)(b) RTA punishable under Section 65(4)(a) read with Section 65(6)(d) of the RTA
+
+\[LawNet Editorial Note: An appeal to this decision has been filed in MA 9247/2021/01.\]
+
+6 December 2021
+
+### District Judge Carol Ling Feng Yong:
+
+## Charge and Sentence
+
+1       The Accused was riding a motorcycle when he caused an accident. He pleaded guilty to the charge below:
+
+> “You….are charged that on 28th day of September 2020 at or about 7.23 a.m., along Holland Avenue towards Commonwealth Avenue, Singapore, did ride a motorcycle FBB4030C on a road without reasonable consideration for other persons using the road, to wit, by failing to keep a proper lookout when changing lanes from lane 2 of 2-lane road to lane 1 of 2-lane road and encroached into the path of motorcycle FBP6726S, which was proceeding straight on lane 1 of 2-lane road from your right to left and had the right of way, thus resulting in the said motorcycle to skid and fall, and hurt was caused to the rider of motorcycle FBP6726S, namely one Abu Bakar Bin Mohd Amin, Male, Malay, 68 years old, by such driving, you have thereby committed an offence under Section 65(1)(b) punishable under Section 65(4)(a) read with Section 65(6)(d) of the Road Traffic Act (Cap 276, 2004 Rev Ed) (“RTA”).”
+
+2       These three other charges were taken into consideration (“TIC charges”) for purposes of sentencing:
+
+> (a)     Failing to stop after the accident under section 84(1) of the RTA;
+
+> (b)     Failing to make a police report within 24 hours of the accident under section 84(2) of the RTA;
+
+> (c)     Failing to render assistance under section 84(3) of the RTA.
+
+3       I imposed the maximum fine of $2,500 (in default 10 days’ imprisonment) on the Accused and disqualified him from driving for a period of 15 months, with effect from the date of conviction i.e. 26 October 2021.
+
+4       The Prosecution appealed against the sentence imposed.
+
+## Facts relating to the Incident
+
+5       The Accused admitted to the Statement of Facts without qualification. A video footage of the accident was played in court. The Accused confirmed the footage to be an accurate reflection of what took place that day. The key facts are set out below[^1].
+
+6       On the day in question, the Accused was riding his motorcycle when he came out from Holland Close into Holland Avenue (towards Commonwealth Avenue).
+
+7       The in-car camera footage from a witness, one Lee Woei Shiuan, showed the Accused travelling along lane 2 of Holland Avenue (towards Commonwealth Avenue), a 2-lane road, while one Abu Bakar Bin Mohd Amin (“the victim”) was travelling straight on lane 1 along the same road. When the Accused was near the u-turn point along Holland Avenue, he made an abrupt lane change and cut across lane 1 to make a u-turn at the u-turn point. When the Accused did so, he encroached into the victim’s path. The victim applied emergency brakes and then skidded due to the Accused’s abrupt lane change and encroachment.
+
+8       Due to the accident, the victim was conveyed to National University Hospital for treatment by ambulance. The medical report dated 2 November 2020 revealed the following injuries:
+
+> (a)     A 3-cm laceration over the right eyebrow associated with periorbital hematoma extending down to the right cheek;
+
+> (b)     Multiple abrasions were noted over the forehead, right elbow, right and left hand and right knee;
+
+> (c)     Laceration of left middle finger;
+
+> (d)     Several foci of acute subdural haemorrhage; and
+
+> (e)     Acute subarachnoid haemorrhage in the right Sylvian fissure.
+
+9       The victim was warded from 28/09/2020 to 01/10/2020 (4 days). He was given hospitalisation leave from 28/09/2020 to 18/10/2021 (21 days), which included the period he was warded for[^2].
+
+10     In terms of vehicle damage, the victim’s motorcycle sustained scratches on the right-side mirror, right box and right portion of the fairing. There were no damages on the Accused’s motorcycle.
+
+11     At the time of the accident, the weather was fine, road surface was dry, traffic flow was moderate, and visibility was fair.
+
+## Accused’s Driving Record
+
+12     The Accused had several compounded traffic offences from 2000 to 2020, which included using a helmet which was not of an approved type, driving without a rear light, speeding, failing to conform to a red light signal, disobeying traffic signs and parking infringements. In this period of time, the Accused also compounded offences of careless driving under Rule 29 of the RTA and section 65(5)(a) RTA as well as inconsiderate driving under section 65(a) RTA.
+
+## Prosecution’s Position on Sentence
+
+13     In his brief oral submissions, the learned Deputy Public Prosecutor (“DPP”) sought a two-week imprisonment term and a disqualification of 18 months.
+
+14     In the Prosecution’s view, both the levels of harm and culpability were moderate. In respect of harm, the learned DPP highlighted that the victim had suffered traumatic brain injuries and was on 21 days of medical leave. The Accused’s actions were particularly culpable due to the abrupt manner in swerving from lane 2 to lane 1 in an attempt to make a u-turn. Prosecution also urged the court to consider the three TIC charges and the Accused’s multiple compounded traffic offences[^3].
+
+## Mitigation
+
+15     Defence Counsel tendered a written mitigation. In gist, she submitted that the custodial threshold had not been met on the facts and circumstances of the case and a fine with a disqualification, would be appropriate. Portions of the mitigation will be discussed in the course of these written grounds.
+
+## Reasons for the Sentence
+
+### Levels of Harm and Culpability
+
+16     The levels of harm and culpability are relevant in determining the appropriate sentence[^4] in this case. On the facts of the case, I was of the view that the degree of harm caused was in the lower end of “medium” and Accused’s culpability was “low” but on the higher end.
+
+#### Level of Harm
+
+17     There was property damage to the victim’s motorcycle and victim himself suffered injuries on the head, face and other parts of the body. The victim was also warded in hospital for a period of four days and total hospitalization leave was 21 days (inclusive of the four days he was warded). The victim received conservative treatment and simple surgical procedures such as wound debridement, suture[^5]. Based on the medical reports which were tendered, there was no indication of any permanent disabilities or long-term effect from these injuries. The Prosecution also informed the Court that they had no further medical reports which evidenced that the Accused may have suffered any of that[^6]. On a working definition as set out in the case of _Public Prosecutor_ v _Cullen Richard Alexander_ <span class="citation">\[2020\] SGDC 88</span>, I was of the view that the harm suffered by the victim was in the lower end of “medium”.
+
+#### Level of Culpability
+
+18     In respect of the Accused’s culpability, I agreed with Defence Counsel[^7] that the culpability of the Accused was on the higher end of “low”.
+
+19     In this case, the cause of the accident was the Accused’s failure to keep a proper lookout before he made a sudden lane change which encroached into the path of the victim’s motorcycle. There was no collision between the Accused’s motorcycle and the victim’s motorcycle but the abrupt movement of the Accused caused the victim to apply emergency brakes and he skidded. In his mitigation, the Accused explained that he was on his way to pick food up from MacDonald’s at Queensway Shopping Centre as a Grab Food delivery driver. He was unfamiliar with the area and his Global Positioning System (GPS) mechanism was not of help to him. When he saw the u-turn sign, he made an error of judgment to change lanes, thus resulting in the accident[^8].
+
+20     In abruptly changing lanes without keeping a proper look out in order to make a u-turn, the Accused clearly showed inconsideration for other road users. As these were the essential facts on which the charge of inconsiderate driving under section 65(1)(b) of the RTA were premised on, I could not agree with the learned DPP’s submission that “_the Accused’s actions were particularly culpable due to the abrupt manner of swerving from lane 2 to lane 1 in an attempt to make a U-turn_”[^9]. On the evidence before me, it did not appear that there were any other culpability-increasing factors, such as the Accused was looking at his mobile phone whilst checking for directions or that he was speeding at the material time. In the circumstances, I was of the view that the level of culpability of the Accused was on the higher end of low, and not “moderate” as submitted by the Prosecution[^10].
+
+21     The levels of harm and culpability which I found present in this case did not clearly indicate that the custodial threshold had been crossed.
+
+### Precedent Cases
+
+22     The view above was fortified when in the course of my deliberations, Defence Counsel highlighted two cases in her mitigation: _Public Prosecutor v Syed Qasim s/o Syed Nizam_ <span class="citation">\[2021\] SGDC 157</span> (“_Syed Qasim_”) and _Public Prosecutor v Dong Tao_ <span class="citation">\[2021\] SGDC 126</span> (“_Dong Tao_”). Both these cases dealt with an offence punishable under the same section as the current case i.e. section 65(4)(a) RTA, and fines were meted out. Defence Counsel submitted that the level of harm in this current case was less serious than that in _Dong Tao_ and _Syed Qasim_[^11]_._ Compared with the offender in _Dong Tao_, she further highlighted that the Accused’s culpability was lower[^12].
+
+23     When the facts of these cases were compared, the imposition of a non-custodial sentence and a term of 15 months’ disqualification in this current case sat well with the sentences imposed in these precedent cases. The table below assists to illustrate this more clearly:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="16.92%"> <col width="29.36%"> <col width="36.78%"> <col width="16.94%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">&nbsp;</p></td><td align="left" class="br" colspan="2" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Court’s findings on</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">&nbsp;</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Case</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Level of Culpability</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Level of Harm</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Sentence Imposed</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>Public Prosecutor v Syed Qasim s/o Syed Nizam</em></p><p align="justify" class="Table-Para-1"><em>-</em> Pleaded guilty</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Low</p><p align="justify" class="Table-Para-1">The Accused, driving a motor car, failed to keep a proper lookout and failed to give way to a motorcycle when making a right turn from a carpark and resulted in a collision with a motorcycle which was travelling along the main road from Accused’s right to left</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Higher end of medium</p><p align="justify" class="Table-Para-1">The victim suffered two fractures – on the fourth and fifth metacarpal bone; injuries to the left wrist. Victim was given 123 days of hospitalisation leave. Victim’s hand was covered with a cast for six weeks after the collision, and subsequently in a splint. He was also referred to an occupational therapist to assist in his rehabilitation.</p><p align="justify" class="Table-Para-1">There was property damage to both the offender’s motor car and the victim’s motorcycle.</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">A fine of $2,300 and disqualifi-cation of 14 months</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>Public Prosecutor v Dong Tao</em></p><p align="justify" class="Table-Para-1">- Claimed trial</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Higher end of low</p><p align="justify" class="Table-Para-1">The offender drove a motor trailer and failed to keep a proper lookout when changing lanes to the right, resulting in a collision with a motorcycle. Even though the offender did signal, there was potential for greater harm because the offender was driving a trailer</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Medium</p><p align="justify" class="Table-Para-1">The victim was found to have multiple abrasions over his right eyebrow, right parietal region, bilateral hands and right knee as well as a left pinna laceration. Victim lost consciousness after the accident and regained consciousness only after a week. He was given 35 days of hospitalisation leave.</p><p align="justify" class="Table-Para-1">No mention of property damage</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">A fine of $2,500 and disqualifi-cation of 15 months</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Current case</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Higher end of low</p><p align="justify" class="Table-Para-1">The Accused, riding a motorcycle, failed to keep a proper look out and made an abrupt lane change, encroaching into the lane of an oncoming motorcycle, causing him to brake and skid</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Lower end of medium</p><p align="justify" class="Table-Para-1">Victim suffered head injury, had multiple abrasions on the forehead, right elbow, right and left hand, right knee, lacerations over right eyebrow and on left middle finger. He was given hospitalisation leave of 21 days (inclusive of the 4 days he was warded for)</p><p align="justify" class="Table-Para-1">There was property damage to the right of the victim’s motorcycle; no damage to the Accused’s motorcycle</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">$2,500 fine and disqualifi-cation of 15 months</p></td></tr></tbody></table>
+
+  
+  
+
+24     In light of these precedent cases where the sentences imposed on balancing similar calibrations of levels of harm and culpability were fines, I was satisfied that a fine in the current case, along with a term of disqualification was an appropriate sentence. The facts in the Accused’s case were not clearly more aggravating than the facts in the precedent cases such that the custodial threshold had been met.
+
+25     I was aware that appeals had been filed in both _Syed Qasim_ and _Dong Tao._ At the time of the plead-guilty mention, the appeal against conviction and sentence in the case of _Dong Tao_ had lapsed whilst the appeal against sentence in the case of _Syed Qasim_ was still pending. What was more significant was the fact that in both these cases, no appeal against sentence had been filed by the Prosecution. That was an indication that the sentences imposed in the two cases (which were fines and a term of disqualification) were outcomes which were acceptable to the Prosecution[^13]. In the absence of an appeal against sentence by the Prosecution, it was unlikely that the sentence in _Syed Qasim_ would be enhanced on appeal.
+
+26     Along with these two reported cases of _Dong Tao_ and _Syed Qasim_, Defence Counsel also submitted a table of unreported cases[^14] in which fines and disqualifications had been meted out. I was mindful that these cases remained unreasoned but the summaries were helpful insofar as they sketched a broad view of relevant sentencing trends[^15] and in giving the court an overall flavour of the facts found in the type of cases prosecuted under section 65(4)(a) of the RTA in which fines were similarly imposed. Against this backdrop of reported and unreported cases, I was satisfied that a fine and a term of disqualification would be an appropriate sentence in this case.
+
+### Accused’s TIC Charges
+
+27     The Prosecution was asked to reconcile their sentencing position of a custodial term of two weeks in this case with the fines imposed in _Dong Tao_ and _Syed Qasim_, based on the levels of harm and culpability. In response, the learned DPP maintained that the culpability of the Accused was moderate on the basis of TIC charges where he admitted to failing to stop and failing to render assistance to the victim and he argued that this _“particular aggravating factor pushes the Accused’s actions into that of moderate culpability and therefore the custodial threshold is crossed_”[^16].
+
+28     I had some difficulty with the Prosecution’s position. The learned DPP was submitting that the composite actions of the Accused having failed to stop, to make a police report and to render assistance was a “_particular aggravating factor”_ which increased the Accused’s culpability enough to warrant a custodial term, when a primary assessment of key relevant factors such as the levels of harm and culpability in the case did not call for one.
+
+29     Apart from the fact that there were charges which Prosecution had chosen not to procced on, I found that to do as Prosecution suggested would require the Court to make certain assumptions of fact in relation to the TIC charges which would be highly speculative. Unlike the charge which had been proceeded with (which facts surrounding the commission of the offences had been fully fleshed out in the Statement of Facts and admitted unequivocally to by the Accused), these TIC charges had no facts to stand on; there were no details relating to the TIC charges which the court has regard to.
+
+30     Hence, even though I was fully mindful of the principle as stated in the case of _Tan Gek Young v Public Prosecutor and another appeal_ <span class="citation">\[2017\] 5 SLR 820</span> at \[73\] that “_it is well-established that TIC charges should generally enhance the sentences for the charges proceeded with though that is not to say the court must necessarily do so in every such instance (see_ _PP v UI (\[50\] _supra_) at \[38\])”_, I did not think that these TIC charges in themselves were sufficient to enhance the sentence such that a custodial term was called for. Having considered them in sentencing, I was of the view that the maximum fine under section 65(4)(a) RTA and a suitable length of disqualification would be sufficient.
+
+### Accused’s Compounded Traffic Offences
+
+31     I did not overlook the Accused’s driving record. I was well-aware that the Accused had multiple compounded offences from 2000 to 2020, totalling 15 in number. Out of the 15 compounded traffic offences, a bulk of it related to parking-related and traffic infringements which included speeding and failing to conform to red light signal. The two compounded offences of careless driving and one count of inconsiderate driving took place in 2007 and 2019, and 2018 respectively. Notwithstanding, I was of the view that the Accused’s driving record did not tip the scales in favour of a custodial term; rather, a composite sentence of a maximum fine and a suitable term of disqualification would suffice as an appropriate sentence for this Accused.
+
+32     For offenders convicted under the RTA or any other written law in connection with the driving of a motor vehicle[^17], disqualification is a a key component of a sentence and is acknowledged as an effective deterrent[^18]. In the case of _Edwin s/o Suse Nathen v Public Prosecutor_ <span class="citation">\[2013\] 4 SLR 1139</span>, it was also recognised that a disqualification order combines the three sentencing objectives of punishment, protection of the public and deterrence. It is clear that disqualification is a critical aspect of the sentence imposed on motorists which serves the aims of deterrence effectively.
+
+33     Hence, in this case, I was satisfied that the total sentence of a maximum fine and 15 months’ disqualification would meet the objectives of punishment and deterrence in respect of this Accused, the latter also compelling the Accused to re-take and pass the prescribed tests of competence as is required under section 43(1)(b) of the RTA.
+
+## Conclusion
+
+34     The Accused was remorseful and had pleaded guilty at the earliest opportunity. Having considered the totality of the facts and circumstances in this case, including the TIC charges and his driving history, I was satisfied that overall, the maximum fine of $2,500 under section 65(4)(a) of the RTA along with a disqualification of 15 months would be adequate punishment and deterrence for the Accused.
+
+35     Upon sentence, the Accused paid up the fine forthwith and is now serving his term of disqualification.
+
+* * *
+
+[^1]: Statement of Facts dated 21 October 2021
+
+[^2]: Further Medical Report dated 27 November 2020
+
+[^3]: NE 26 October 2021, 10/2-23
+
+[^4]: _Public Prosecutor v Koh Thiam Huat_ <span class="citation">\[2017\] 4 SLR 1099</span>, \[41\]
+
+[^5]: Mitigation Plea, \[30\]
+
+[^6]: NE 26 October 2021, 16/21-17/3
+
+[^7]: Mitigation Plea, \[41\]
+
+[^8]: Mitigation Plea, \[12\]-\[15\]
+
+[^9]: NE 26 October 2021, 10/13-16
+
+[^10]: NE 26 October 2021, 10/4-5
+
+[^11]: Mitigation Plea, \[27\]-\[29\]
+
+[^12]: Mitigation Plea, \[38\]-\[41\]
+
+[^13]: _Public Prosecutor v GS Engineering & Construction Corp_ <span class="citation">\[2017\] 3 SLR 682</span>, \[59\]-\[60\]
+
+[^14]: Mitigation Plea, Annex D
+
+[^15]: _GCM v Public Prosecutor and another appeal_ <span class="citation">\[2021\] SGHC 81</span> at \[75\]
+
+[^16]: NE 26 October 2021, 19/19-31
+
+[^17]: Section 42 of the RTA
+
+[^18]: _Public Prosecutor v Chiam Liang Kee_ <span class="citation">\[1960\] MLJ 163</span>
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F26901-SSP.xml)

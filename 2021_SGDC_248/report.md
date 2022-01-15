@@ -1,0 +1,1245 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Sng Jing Xiang Benjamin t/a Blink! Events & Entertainment _v_ Xie Shun Heng and others and another suit  
+
+### \[2021\] SGDC 248
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">District Court Suits No 2684 of 2017 and 2681 of 2017, District Court Appeals DCA 54 and 55 of 2021</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">22 November 2021</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Tan May Tee</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Daniel Chia Hsiung Wen and Jeanette Wong (Morgan Lewis Stamford LLC) for the plaintiffs in both suits; Mato Kotwani (PDLegal LLC) for the defendants in DC 2681/2017 and the first, fourth and fifth defendants in DC 2684/2017.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Sng Jing Xiang Benjamin t/a Blink! Events &amp; Entertainment — Xie Shun Heng — Sheryl Yeo Kai Qing — Rachel Kang Pei Shan — Exxigo Pte Ltd — Otwo Inc Pte Ltd — Nova Artiste Management Pte Ltd</td></tr></tbody></table>
+
+22 November 2021 - Judgment reserved
+
+### District Judge Tan May Tee:
+
+## Introduction
+
+1       By consent orders[^1], these two suits were tried together on the understanding that the evidence led in one suit was to be treated as evidence led in the other suit. It had also been ordered in each suit that the trial be bifurcated with the issue of liability being heard separately and prior to the hearing for an assessment of damages, if necessary[^2].
+
+### DC 2684/2017
+
+2       In DC 2684/2017, the plaintiff is Mr Sng Jing Xiang Benjamin (“Mr Sng”). He is the sole proprietor of an events and entertainment management business called Blink! Events & Entertainment (“Blink”). The action concerned Mr Sng’s claims against the first defendant, Mr Xie Shun Heng _aka_ Richel Xie (“Mr Xie”), and Mr Xie’s companies, Exxigo Pte Ltd (“Exxigo”) and Otwo Inc Pte Ltd (“Otwo”), which are the fourth and fifth defendants respectively.
+
+3       Mr Sng had obtained judgments against the second and third defendants in default of their appearance in the suit. They were young interns who had been engaged by Mr Xie to assist him in various projects. Both the second and third defendants, however, attended as witnesses at the trial. The second defendant, Sheryl Yeo (“Ms Yeo”), testified as Mr Xie’s witness while the third defendant, Rachel Kang (“Ms Kang”), appeared as Mr Sng’s witness.
+
+4       As against Mr Xie, Mr Sng’s claims are for:
+
+> (a)     breach of fiduciary and/or equitable duties,
+
+> (b)     breach of confidence,
+
+> (c)     trespass to land,
+
+> (d)     conversion and/or detinue and trespass to chattels,
+
+> (e)     passing off, and
+
+> (f)     defamation.
+
+5       As against Exxigo and Otwo, Mr Sng’s claims are for an injunction, damages, an account of profits and/or an order for the appointment of a receiver arising from Mr Xie’s alleged breaches of fiduciary and/or equitable duties as well as misuse of confidential information. Exxigo has a counterclaim against Mr Sng for unlawful interference and/or inducement of breach of contract in relation to its contract with a client called Dennis Wee Realty Pte Ltd which all parties have referred to as “DWG”.
+
+### DC 2681/2017
+
+6       In DC 2681/2017, the plaintiff, Nova Artiste Management Pte Ltd (“Nova”), is a company which was incorporated in December 2014 with Mr Sng, Mr Xie and one Chee Kean Chin Jeremy (“Mr Chee”) as shareholders and directors. At the commencement of the suit, both Mr Xie and Mr Chee were no longer directors of Nova, although Mr Xie remains as a shareholder owning 30% of the shares of Nova with Mr Sng as the majority shareholder holding 70%.
+
+7       Nova’s claims against Mr Xie are for breach of fiduciary and/or equitable duties in diverting business opportunities away from it to his business entities, Exxigo and Otwo. Besides seeking an inquiry and an account of profits against Mr Xie for his alleged breaches of fiduciary and/or equitable duties, Nova seeks a mandatory injunction to compel Mr Xie to grant access to Nova’s IT systems to its board of directors as Mr Sng claims that his requests for such access had been wilfully refused or denied by Mr Xie.
+
+8       As against Exxigo and Otwo, Nova also seeks an inquiry and an account of profits as well as an order for payment of all sums due arising from the business opportunities diverted to them by virtue of Mr Xie’s alleged breaches of fiduciary and/or equitable duties.
+
+9       While there is significant commonality in the parties and events leading to the proceedings in both suits, each suit has a different plaintiff with different causes of action pleaded. As the claims made in DC 2684/2017 traverse a wider compass and touch on events earlier in time, this judgment will deal with Mr Sng’s claims and Exxigo’s counterclaim in DC 2684/2017 first before dealing with Nova’s claims made in DC 2681/2017.
+
+## Background
+
+### The parties’ relationship before December 2012
+
+10     According to Mr Sng, since starting his business under the name of Blink in 2005, he had spent a considerable amount of time, money and resources to build up its reputation in the events and entertainment industry. He was able to run more than 100 events annually under Blink with clientele which included DWG, Nestle, Samsung, M1, Estee Lauder, Yokogawa, Singapore Swimming Club, Daimler South East Asia and Frasers Hospitality Group Pte Ltd[^3]. As such, Blink had gained a significant reputation and goodwill over the years and enjoyed an annual turnover estimated at over $2.6 million in the five years before he started these proceedings. Blink’s business was heavily reliant on its existing client base as well as word-of-mouth and client referrals over the years[^4].
+
+11     Mr Sng and Mr Xie first worked together in 2007 when Mr Xie was enagaged as a talent to perform the role of master of ceremonies (or emcee) at events which Mr Sng had run under Blink.
+
+12     Mr Xie testified that he began his career in the events industry in 2006 when he trained with a company called Stagecraft. He was then assigned several emceeing gigs by Stagecraft before he started operating on a freelance basis under various business names[^5].
+
+13     Between 2007 and 2012, Mr Sng had engaged Mr Xie to host many of Blink’s events as the emcee. From 2012 onwards, Mr Sng would also involve Mr Xie in client meetings for their mutual benefit whenever he engaged Mr Xie as emcee.
+
+### The parties’ relationship from December 2012
+
+14     Sometime in 2012, an oral agreement was reached among Mr Sng, Mr Xie and Mr Chee for profit-sharing (“Oral Agreement”). The terms of the Oral Agreement and its effect are in dispute.
+
+#### Mr Sng’s version
+
+15     Mr Sng’s case[^6] is that he, Mr Xie and Mr Chee carried on a business association with respect to Blink’s affairs in the manner of an informal partnership. The material terms of this partnership based on the Oral Agreement were as follows:
+
+> (a)     Mr Sng would oversee the overall management of Blink’s business, including running administrative and logistical support of Blink’s events. He was also in charge of Blink’s marketing and outreach efforts to customers, akin to the role of a chief executive officer (“CEO”).
+
+> (b)     Mr Xie’s role was that of a business development director, in charge of bringing in new leads and assisting in project management and project pitches.
+
+> (c)     Mr Chee’s role was that of a projects and design director, in charge of the design and creative direction of Blink’s events.
+
+> (d)     Blink’s profits were to be shared in the following manner:
+
+>> (i)       For projects that were introduced by Mr Xie or Mr Chee, Mr Sng would receive 30% of the profits while Mr Xie or Mr Chee would receive 70% (depending on the party who introduced the project).
+
+>> (ii)       For projects that were introduced by Mr Sng but were executed by Mr Xie or Mr Chee, Mr Sng would receive 60% of the profits while Mr Xie or Mr Chee would receive 40% (depending on the party who executed the project).
+
+>> (iii)       For projects that were introduced and executed by Mr Sng, the profits would go solely to Mr Sng.
+
+> (e)     Any intellectual property created in the course of Blink’s business would be owned by Blink; and
+
+> (f)     Both Mr Xie and Mr Chee owed fiduciary and/or equitable duties to Mr Sng akin to that of a director of company, _inter alia_ –
+
+>> (i)       A duty to act _bona fide_ in the best interests of Mr Sng trading as Blink,
+
+>> (ii)       A duty of good faith and fidelity to Mr Sng trading as Blink,
+
+>> (iii)       A duty to act for the proper purposes of Mr Sng trading as Blink in relation to its affairs,
+
+>> (iv)       A duty not to divert business opportunities away from Mr Sng trading as Blink,
+
+>> (v)       A duty so long as their “directorship” subsisted not to misuse any information confidential to Mr Sng trading as Blink or to disclose such information to a third party; and
+
+>> (vi)       A duty to Mr Sng trading as Blink, following the termination of their “directorship”, not to use or disclose to third parties any trade secrets or other information deemed confidential by Mr Sng trading as Blink.
+
+16     In the alternative, Mr Sng says that arising from their business association as informal partners, Mr Xie and Mr Chee owed to him fiduciary duties and/or equitable duties, _viz_
+
+> (a)     duty of good faith and fidelity,
+
+> (b)     duty not to place himself in a position where his interest would or may conflict with duties owed to Mr Sng,
+
+> (c)     duty not to make a profit from his position,
+
+> (d)     duty to disclose and render true accounts and full information of all things affecting Blink to Mr Sng,
+
+> (e)     duty to account to Mr Sng for private profits, and
+
+> (f)     duty not to compete with Mr Sng.
+
+#### Mr Xie’s version
+
+17     Mr Xie says that the oral agreement between him and Mr Sng had various iterations over the years. Initially, Mr Sng had been running Blink from his home. In 2012, he wanted to scale up and get office premises. He suggested to Mr Xie to work out an arrangement whereby Mr Xie could also benefit from running his business from the same office as there was extra space. Mr Chee was introduced as another person in a similar position. Mr Sng offered to finance their projects through Blink but they would continue running them. In return, Blink would receive 30% of the profits for their projects.
+
+18     Mr Xie found Mr Sng’s offer to be a viable option for his growing business. They agreed on the following terms: Mr Xie would be given some space in Blink’s office. He could opt to run his events/projects through Blink. For these projects, he would get 70% of the profits while Mr Sng would get the remaining 30%. For projects that were brought in by Mr Sng, Blink would get 100% of the profits.
+
+19     During this time, Mr Sng would also ask Mr Xie to assist him at some of Mr Sng’s events for which Mr Xie he would be paid $150 for helping to manage the event on-site. Subsequently, as Mr Sng took on larger projects, some of the smaller projects were handed to Mr Xie to execute and they agreed to split the profits 50:50.
+
+20     The first office premises were rented by Mr Sng. In 2016, Mr Sng decided to purchase commercial property, namely at 3 Upper Aljunied Link #07-03 Joo Seng Warehouse Singapore 367902 (“the Registered Office”). Mr Sng had also hired staff to help run Blink’s operations. Due to the higher overhead expenses, Mr Sng then proposed to reduce Mr Xie’s profit share to 40% for projects which he brought in and handed to Mr Xie to execute. The terms of the Oral Agreement were thereafter revised to the following[^7]:
+
+> (a)     For projects that Mr Xie introduced to Blink, he would take 70% of the profits and Mr Sng would take the remaining 30%. Given that it was Mr Xie who had introduced these clients to Blink, it was understood between the parties that if Mr Xie terminated the Oral Agreement with Mr Sng, if the clients wished to follow Mr Xie, they would be at liberty to do so.
+
+> (b)     For projects that were brought in by Mr Sng but executed by Mr Xie, 40% of the profits for the project would go to Mr Xie and Mr Sng would take the remaining 60%; and
+
+> (c)     For projects that were brought in by Mr Sng and executed by Mr Sng, no profits would be due to Mr Xie.
+
+21     It is Mr Xie’s case that at the time the parties entered into the Oral Agreement, he had informed Mr Sng that he would still be operating and managing his projects in Exxigo as its sole shareholder and director. Mr Sng was aware of such an arrangement and had never objected to it.[^8]
+
+22     Mr Xie asserts that he never had any informal partnership, nor had he intended to form any partnership, with Mr Sng. The Oral Agreement was a contract for services between the parties. He did not own any interest in Blink, was never appointed a director and the decisions in Blink were all made by Mr Sng who managed the sole proprietorship on his own. As such, Mr Xie denies owing to Mr Sng any fiduciary and/or equitable duties[^9].
+
+### The parties incorporate Nova
+
+23     According to Mr Sng, in an effort to formalise the parties’ business association and to expand their scope of services, Nova was incorporated on 28 December 2014. The incorporation of Nova was to support Blink’s business of event and entertainment management by acting as an agent, and performing related services, for artistes, athletes, models and other performers[^10].
+
+24     The shareholdings of Mr Sng, Mr Xie and Mr Chee were 40%, 30% and 30% respectively. All three of them were also appointed as directors of Nova and entered into a written directorship agreement[^11] on 1 January 2015 (“Directorship Agreement”). Mr Sng says that the terms of the Directorship Agreement mirrored the parties’ understanding and duties under their business association and profit-sharing agreement regarding Blink[^12].
+
+25     Mr Xie denies that the Directorship Agreement mirrored the parties’ understanding and/or business association regarding Blink[^13]. He asserts that the incorporation of Nova was a separate and distinct business venture between him, Mr Sng and Mr Chee[^14]. Nova had been incorporated to specifically provide talent/manpower services which Exxigo was already providing. Mr Xie had incorporated Exxigo on 12 February 2014. Mr Xie had informed Mr Sng that he should consider providing such services as well. Mr Sng was reluctant to do so as he worked closely with other talent/manpower companies and did not wish to create any commercial conflict of interests[^15].
+
+26     As a result, Nova allowed Mr Xie to provide such services, and the intention was for the parties to use Nova for bigger contracts. According to Mr Xie, at all times Mr Sng knew and/or ought to have known that Mr Xie and Exxigo were direct competitors of Nova[^16]. Mr Sng, however, denies that he had any prior knowledge of Exxigo.
+
+### Termination of relationship, events on 2 April 2017 and after
+
+27     Due to various disagreements, Mr Xie and Mr Chee decided to terminate their business relationship with Mr Sng in April 2017. Each of them prepared a letter of termination dated 1 April 2017[^17]. Prior to this date, Mr Xie had incorporated Otwo on 22 March 2017. This was done so that he could run his own projects and events after terminating his business relationship with Mr Sng/Blink/Nova[^18].
+
+28     On Sunday 2 April 2017, Mr Xie, Mr Chee, Ms Yeo and Ms Kang accompanied by some other persons entered the Registered Office at various times between 11.46am and 2.28pm. They removed different items from the Registered Office which they claim to be their personal belongings. Thereafter, after packing up their different items for removal, Mr Xie and Mr Chee entered Mr Sng’s office at the Registered Office and placed their respective letters of termination on his desk. It is Mr Sng’s case that the presence of the various parties at the Registered Office on 2 April 2017 was unlawful and constituted a trespass.
+
+29     The activities carried out by Mr Xie, Mr Chee, Ms Yeo, Ms Kang and those who accompanied them were captured on video by the CCTV on the Registered Office. They were observed to have accessed the computers at the Registered Office and had removed various items including furniture and files of documents.
+
+30     Mr Sng discovered what had taken place when he returned to the Registered Office on 3 April 2017, found the termination letters in his office and viewed the CCTV footage. He then engaged solicitors and filed police reports against Mr Xie, Mr Chee, Ms Yeo and Ms Kang.
+
+31     Subsequent to his departure on 2 April 2017, Mr Xie had caused certain statements to be published on his Facebook page. He had also spoken about the termination of his business relationship in an interview with the website titled “The Asian Entrepreneur” which was published on 15 August 2017. While there was no express mention of his name in the publications, Mr Sng claims that the statements made by Mr Xie are defamatory of him.
+
+32     During the tenure of his business association with Mr Sng, Mr Xie was a member of the Singapore chapter of Business Network International (“BNI”), a business networking organisation. Mr Xie’s BNI profile had referred to Blink as well as used Blink’s logo after the termination of his association with Mr Sng on 1 April 2017. Mr Sng claims that this was an act of passing-off by Mr Xie.
+
+## Issues
+
+33     From the cases as pleaded, the issues that the Court has to decide in DC 2684/2017 are as follows:
+
+> (a)     Was the business association between Mr Sng and Mr Xie a partnership giving rise to fiduciary and/or equitable duties on the part of Mr Xie?
+
+> (b)     If the business association between Mr Sng and Mr Xie amounted to a partnership, did Mr Xie breach his fiduciary and/or equitable duties as a partner?
+
+> (c)     Did Mr Xie’s entry into the Registered Office on 2 April 2017 constitute a trespass?
+
+> (d)     Did Mr Xie’s removal of various items from the Registered Office on 2 April 2017 constitute conversion?
+
+> (e)     Did Mr Xie’s Facebook post and the publication in The Asian Entrepreneur amount to defamation?
+
+> (f)     Did Mr Xie commit passing-off by referring to Blink and Blink’s logo in his BNI profile?
+
+> (g)     Did Mr Sng trading as Blink unlawfully interfere with Exxigo’s contractual relations with DWG?
+
+### Was the business association between Mr Sng and Mr Xie a partnership giving rise to fiduciary and/or equitable duties on the part of Mr Xie?
+
+#### Applicable law
+
+34     The definition of a partnership is stated in s 1 of the Partnership Act (Cap 391, 1994 Rev Ed) (“the Act”) as “the relation which subsists between persons carrying on a business in common with a view of profit” with the rules for determining whether or not a partnership exists set out in s 2 of the Act. The relevant rule for the present case is s 2(3) of the Act which provides:
+
+> (3)  The receipt by a person of a share of the profits of a business is _prima facie_ evidence that he is a partner in the business, but the receipt of such a share, or of a payment contingent on or varying with the profits of a business, does not of itself make him a partner in the business.
+
+35     A helpful elucidation to determine whether a partnership exists is given in _Rabiah Bee bte Mohamed Ibrahim v Salem Ibrahim_ <span class="citation">\[2007\] 2 SLR(R) 655</span> (“_Rabiah_”). _Rabiah_ at \[63\] endorsed the statement of _Lindley & Banks on Partnership_ (Sweet & Maxwell, 18th Ed, 2002) at p 73 to the effect that to determine the existence of a partnership, one must pay regard to the true contract and intention of the parties as it appears from all the facts of the case. It was noted by the High Court that:
+
+> “…in effect, this statement was a distillation of the following _dicta_ of Cozens-Hardy MR in _Weiner v Harris_ <span class="citation">\[1910\] 1 KB 285</span> at 290 … :
+
+>> Two parties enter into a transaction and say “It is hereby declared there is no partnership between us.” The Court pays no regard to that. The Court looks at the transaction and says “Is this, in point of law, really a partnership? It is not in the least conclusive that the parties have used a term or language intended to indicate that the transaction is not that which in law it is.”
+
+36     As stated in \[64\] of _Rabiah_, it is clear from the above _dicta_ and the Act that a partnership is not a contract but a relationship that arises from a contract. Accordingly, one has to study exactly what the contract concerned entailed in order to ascertain what sort of relationship the parties to the contract were actually in.  In short, to determine whether there is a partnership relationship one has to look at the true contract and the intention of the parties as appears from all the facts and circumstances of the case: _Rabiah_ at \[69\].
+
+#### Mr Sng’s case
+
+37     Mr Sng claims that both Mr Xie and Mr Chee were his “informal” business partners involved in the running of Blink’s business[^19]. He testified that the genesis of this informal partnership was in December 2012 when Mr Chee who was facing some problems in his partnership with another events company proposed to be an informal partner with Mr Xie and Mr Sng and started working with them[^20]. The three of them then entered into the Oral Agreement for profit-sharing[^21].
+
+38     The terms of the oral profit-sharing agreement are detailed in \[15\] and \[16\] above. According to Mr Sng, the profits that Mr Xie and Mr Chee earned from Blink were higher than that in the market, and the agreement had been intentionally structured to give them a stake in Blink’s business so that they would feel invested in Blink’s affairs[^22]. Mr Xie and Mr Chee enjoyed intangible benefits from their partnership with Blink such as using Blink’s offices without having to pay rent as well as the usage of Blink’s resources and Blink’s name. Mr Xie and Mr Chee put themselves out to internal and external parties as representatives of Blink and Mr Sng trusted them with the affairs of Blink.
+
+39     From December 2012 to April 2017, as Blink gained more traction, he and Mr Xie had become closer business partners and he had thus entrusted Mr Xie to handle Blink’s administrative and financial matters as well[^23].
+
+40     Counsel for Mr Sng submitted[^24] that the requisite elements for a partnership under s 1(1) of the Act were satisfied as there was an existing business, _ie_ Blink, carried on by two or more persons (Mr Sng, Mr Xie and Mr Chee) in common with a view to profit. Mr Xie’s receipt of a share of the profits of Blink is _prima facie_ evidence that he was a partner of Blink. The various invoices and commission pay-out slips produced at the trial evidence the share of profits from projects under Blink that Mr Xie had received of which two examples are:
+
+> (a)     “FCP Family Day” event organised by Blink for its client, Fraser, on 31 March 2015 – Blink earned a total revenue of $8,155 and a total profit of $2,864.77. As the project manager of the event, Mr Xie received $2,000 being about 70% of Blink’s total profit for the event[^25].
+
+> (b)     “JSCC Bursary & Open House 2017” event organised by Blink for its client, Jurong Spring CC, on 7 and 8 January 2017 – Blink earned a total revenue of $24,000 and a total profit of $19,737. As the project manager of the event, Mr Xie received $13,815.90 as commission which amounts to 70% of Blink’s total profit for the event[^26].
+
+41     The evidence from both Mr Xie and Mr Chee made it clear that they had operated Blink together with Mr Sng with a profit motive in mind. The documentary evidence showed that Mr Xie had regularly pitched Blink to potential clients in his capacity as the Business Development Manager of Blink using his Blink email address, richel@blinkevents.com[^27]. Mr Xie had also admitted that from 2010 all the way to 2017, he had represented himself as an integral part of Blink to prospective clients[^28].
+
+42     Mr Xie had on many occasions communicated to third parties that he was the Business Development Manager of Blink and clients were under the impression that Mr Xie was a partner of Mr Sng in Blink. Internally, he also had a large say in Blink’s affairs, _eg_ he had emailed Blink’s employees to highlight what the invoicing standard procedure should be and reviewed and/or rejected candidates applying for jobs at Blink.
+
+43     Further, it was submitted that a level of trust was required in the relationship between Mr Sng, Mr Xie and Mr Chee as payments in cash were often made. Parties would have to trust each other that the items stated in the invoices, quotations and commission pay-out slips prepared were done so honestly.
+
+44     It was also contended for Mr Sng that Mr Xie’s defence of being merely an “_ad hoc contractor_” of Blink and that he had free rein to decide whether projects should be parked under Blink, Nova or his own companies, Exxigo and Otwo, does not accord with commercial sense[^29]. Mr Sng had testified that he would not have agreed to Mr Xie running Exxigo and/or Otwo as:
+
+> “there will be no commercial sense for me to have someone come and .. share my profits and then still be able to run business on the side using my resources for free”
+
+#### Mr Xie’s case
+
+45     Mr Xie described the profit-sharing oral agreement among the three men as one in which each party’s interest in his respective clients was preserved while at the same time recognising the contributions of the other party who had assisted either by his efforts in executing the projects or through allowing his entity’s structure and resources to be used[^30].
+
+46     He disagreed with Mr Sng’s characterisation of the agreement as a partnership. He disagreed that he and Mr Chee had taken on any managerial or executive roles akin to that of a director. Mr Xie sought to highlight that:
+
+> (a)     Blink’s legal structure remained a sole proprietorship even after the Oral Agreement was entered into.
+
+> (b)     There was no sharing of Blink’s profits from projects brought in or executed by Mr Sng or any sharing of Blink’s annual profits. Mr Xie was only entitled to receive a share of the profit for projects that he had personally brought in or executed. The same applied to Mr Chee.
+
+> (c)     The Oral Agreement as set out at \[20\] above was a simple agreement. Had it included the elaborate terms as contended by Mr Sng encompassing fiduciary duties and obligations, Mr Xie would never have agreed to the same and even if he had, he would have requested that the agreement be reduced into writing.
+
+47     In cross-examination, Mr Xie said that he considered himself as an “_ad hoc_ contractor” of Blink[^31], and somewhat akin to an “ERA property agent”[^32].
+
+48     Counsel for Mr Xie submitted that:
+
+> (a)     Mr Sng’s pleaded case (which he confirmed under cross-examination) was that the parties had expressly agreed to the oral terms including the fiduciary obligations set out in the statement of claim. This was, however, contrary to the evidence given by Mr Xie as well as Mr Chee. Significantly, when Mr Chee was questioned on the witness stand, he was not even aware of the meaning of “fiduciary” [^33] which Mr Sng claimed had been mentioned when the parties entered into the Oral Agreement.
+
+> (b)     Mr Sng’s version of the Oral Agreement is incredible when considered in the context it was negotiated and agreed on, _ie_ that three laypersons had met at a coffeeshop[^34] (as attested to by Mr Xie) to discuss and agree upon such detailed contractual terms expressed in legalistic form.
+
+> (c)     The objective evidence supports Mr Xie’s case that the terms of the Oral Agreement were limited to those set out in \[20\]:
+
+>> (i)       Mr Xie had been running his own events prior to 2012, and even after the Oral Agreement was entered into, Mr Xie was still running his own events and projects under his own entities such as Exxigo.
+
+>> (ii)       It was common practice for Mr Xie to “split-bill” projects under Blink and his own entities such as Exxigo. For some of the events run under Exxigo or split-billed under Exxigo, Mr Xie had even engaged Mr Sng as an emcee to host these events and Mr Sng would have been paid by Exxigo in those instances. This must mean that Mr Sng would have known what scope of work was executed for the projects, and if indeed Mr Xie had not billed for such scope of work under Blink as he claims he ought to, Mr Sng would have easily found out.
+
+>> (iii)       Mr Chee, other staff members and independent suppliers like Vishal Nanik Ram (DW3) were aware that Mr Xie was running his own events under his own entities and gave evidence that Mr Sng was also aware of this.
+
+>> (iv)       DW3 who specialises in the supply of audio-visual equipment in particular gave evidence that he had known Mr Xie since 2010. At that time, Mr Xie was working as an emcee and also running events under XEntertainment or Xclent. This was before he started collaborating with Blink. DW3 gave evidence that there were occasions where Mr Xie would engage him for projects he ran under Exxigo and projects where Exxigo collaborated with Blink. DW3 also stated that when he visited Blink’s office to collect payments or to discuss projects, he would also openly discuss with Mr Xie as well as Mr Sng whether it should be billed under Exxigo or Blink. There were times when Mr Xie would tell him to bill a certain project under Blink and times when Mr Sng would inform him to bill certain projects under Exxigo. He also recalled having collected cheques issued by Exxigo from Blink’s staff[^35].
+
+>> (v)       Mr Chee had given evidence that in 2012 when he was introduced to Mr Xie, he was informed that Mr Xie was working as an emcee as well as an events manager. He also found out that Mr Xie was operating XEntertainment. He had also testified that Mr Xie would openly discuss with Mr Sng at the Registered Office which entity (Blink and/or Nova, or Exxigo) to run their projects under. Mr Xie would also paste Exxigo invoices behind his seat at the Registered Office which was visible to everyone in the office[^36].
+
+49     As to the requirements for a partnership stated in the Act, counsel for Mr Xie submitted that it is undisputed that Mr Xie was not receiving any share of the profits of the business. He only received a commission for the projects he ran under Blink or for Blink’s projects which he was told to execute. As Mr Xie had no rights of equity in Blink and did not receive any general share of Blink’s profits, there could not be a partnership subsisting between them, citing _Wee Soon Kim Anthony v Lim Chor Pee & Anor_ <span class="citation">\[2005\] 4 SLR(R) 367</span> and _Chua Ka Seng v Boonchai Sompolpong_ <span class="citation">\[1993\] 1 SLR(R) 17</span>.
+
+50     The evidence at trial from Mr Xie and Mr Chee was also that all major decisions pertaining to the running of Blink’s business was made by Mr Sng. Neither Mr Xie nor Mr Chee had any say in any of the significant decisions in Blink’s business. It was submitted that this factor weighs heavily against a finding that there was a partnership agreement between Mr Sng, Mr Xie and Mr Chee.
+
+#### My findings
+
+##### (1)   No formal registration required
+
+51     It is well settled that there are no formalities required for the formation of a partnership. The Court must look at all the facts to examine the true intention of the parties to determine if a partnership exists. Having considered the evidence adduced, I have to agree that the three requisite elements of a partnership stated in s 1(1) of the Act are all present on the facts of this case.
+
+52     Since no formal registration is required to establish a partnership, the fact that Blink continued to operate as a sole proprietorship under Mr Sng was not an impediment to a finding that Mr Xie and Mr Chee had joined him in partnership. From their collaboration after the Oral Agreement was reached in 2012 to work together in Blink, I find that Mr Sng and Mr Xie together with Mr Chee were carrying on the business of Blink in common with the view of profit thus rendering them partners.
+
+##### (2)   No sharing of profits required
+
+53     While it has been argued that Mr Xie did not receive any annual profits from Blink other than those for the projects he had brought in and/or executed, the law does not require that the profits have to be shared equally among the partners or in any specific proportion. This was so held in the English Court of Appeal decision of _M Young Legal Associates Ltd v Zahid (A Firm) and others_ <span class="citation">\[2006\] 1 WLR 2562</span>, a case pertaining to a firm of solicitors. The court found that the fifth defendant who did not contribute any capital to the firm and would be paid a fixed sum irrespective of the size of the firm’s profits was nonetheless a partner within the meaning of s 1(1) of the UK Partnership Act 1890 which is _in pari materia_ with s 1(1) of our Act[^37]. As to whether the Act required profits to be shared among the partners, the dicta of Hughes LJ at \[40\] and \[41\] of the judgment as set out below is of direct application to the present case:
+
+> … That the sharing of profits is a characteristic of partnership, as distinct from an essential ingredient of it, was and is uncontroversial.
+
+> 41 However that may be, _the words of section 1 of the 1890 Act_ seem to me to put the matter beyond doubt. They _refer to the making of profit as an aim, but studiously abstain from reference to any necessity that it be shared._ On principle it seems to me that if there is an essential element of partnership it is the carrying on of business in common, that is to say in such manner as to make each the agent of the other for all acts done in the course of the business. Having thus constituted themselves, _the partners are free under the Act to arrange for the remuneration of themselves in any manner they choose,_ including by agreement that one or more shall receive specific sums, or that one or more receive nothing, in either case irrespective of profits.
+
+(emphasis in italics mine)
+
+54     In any case, it cannot be argued that Mr Xie received no profits at all from Blink – they were tied to the projects he brought in and/or executed in accordance with the profit-sharing Oral Agreement and evidenced by the various commission pay-out slips. There is common ground between them as to the profit-sharing ratios depending on which party had brought in the project and/or executed it.
+
+##### (3)   No commercial sense in Mr Xie’s version
+
+55     I agree with the submissions made on behalf of Mr Sng that there would be no commercial sense if Mr Xie were allowed free rein under the profit-sharing agreement to determine which projects he could park under Blink and which projects to his own entities. It would be unfair and untenable that after Mr Xie had employed Blink’s name and Blink’s resources to secure a project, he could then choose to execute the project under another entity and claim the full profit for himself without accounting for the 30% profit which is Mr Sng’s entitlement under the profit-sharing Oral Agreement.
+
+56     The argument made by Mr Xie that his version of the agreement in fact made commercial sense since Blink did not have to pay him any salary as business development manager is, in my view, misconceived since it fails to recognise that in addition to the 70% profit from his own client’s projects, he would also be entitled to 40% profit from projects that Mr Sng had brought in and were handed to him for execution. His remuneration from the business of the partnership was performance-based which is not out of the ordinary. While he had no equity in the business, the corollary is that he also had no personal risk or liability for its debts which remained at all times with Mr Sng[^38].
+
+##### (4)   Mr Xie represented and regarded as ‘partner’
+
+57     Mr Xie’s attempt to characterise his role merely as an _ad hoc_ contractor vis-à-vis Blink was disingenuous, especially in light of his own representation to third parties and government authorities that he was at all material times a partner in Blink. One particular instance stands out – Mr Xie had in his application for deferment of his national service obligations prepared a letter dated 23 September 2013[^39] signed by his partners in which he had outlined the critical role he played in Blink in the following terms (as extracted from the letter):
+
+> “He (ie Mr Xie) is the business development manager & resident Show host for our company…and plays an integral part of operations for many approved projects for this end of year season. He would be heading 60% of the projects during that period of time for us to afford to release him for the reservist. We have reviewed and found it only possible to get someone to take over his scope of work for only a very limited number of projects affected during that period…
+
+> As **_a partner_** _to the Company_, he would also incur substantial loss of income, as we operate our company on an add on commission-per-project basis, and he is highly dependent on executing or hosting these projects as his primary source of income…
+
+> For him to leave on reservist during this crucial period for 3 weeks, would mean he has to give up that income, in which it would also result in considerable cost to the company as well…
+
+(emphasis in italics and bold italics mine)
+
+58     When cross-examined on the matters stated in the letter for deferment, Mr Xie did not dispute the truth of its contents, see below:
+
+> Q    Okay. And at page 563, there’s a deferment letter.
+
+> A    Mmm hmm.
+
+> Q    I assumed that you definitely saw this letter before you?
+
+> A    Yah.
+
+> Q    You found it, right? So, let’s see how you are described. …
+
+>> Pause here. So, this particular matter for deferment, obviously sets out that how important you are to the business, right? You are ---
+
+>> …
+
+>> an integral part of the business. It isn’t set out that you are some kind of third party on a introductory fee or a commission basis, right? You’re an integral part of Blink! Events business, am I correct?
+
+> A    Yah, this letter said so.
+
+> Q    The letter also calls you a partner to the company …
+
+>> …
+
+>> can---we can disagree of what that means---
+
+> A    Mmm.
+
+> Q    if you don’t mind. And then it says that, because you are part in the company, “He would also incurs of essential lost of income as we operate our company on ad---add on commission per project and his highly depend on executing or hosting is where as his primary source of income.” I pause here. There is no suggestion here, in this letter, that Mr---Mr Benjamin Sng is aware that you are doing any kind or other kinds of events business at this particular point in time. As far as he is concerned, the hosting of this projects is your primary source of income when you were working for Blink!, am I right?
+
+> A    According to the letter.
+
+>> …
+
+>> …
+
+> Q    Yah. So, you know, at least in this letter first, now I take you through a bit more, but in his letter, contrary to what you said, this is not a situation where, “I have a separate business, Ben has a separate business. If I refer contracts with him and we collaborate, then there is an agreement about how the profit share should be.” The letter suggest that you are an integral part of the business and that you are going out there to try to make it successful, am I right?
+
+> A    In the letter.
+
+> Q    Yah. Would you sub---submit something that is false to your---to the SAF?
+
+> A    I will not comment on that.
+
+> …
+
+> Q    Are you saying that this letter is false?
+
+> A    I’m not saying the letter is false.
+
+59     The documentary evidence further shows that Mr Xie had reached out to potential clients after December 2012 and throughout the period of his association with Mr Sng/Blink as the Business Development Manager representing Blink and not as an independent or _ad hoc_ contractor as he claimed. If indeed he had represented himself to third parties in any other capacities to pitch for projects, no document has been shown to the Court evidencing this.
+
+60     Evidence was also adduced showing that clients had the impression that Mr Xie had a partnership with Mr Sng. In March 2017, in a Whatsapp conversation between Mr Xie and PW1, the director of Heart Neu Circus Production (“HNCP”) on his impending departure from Blink, PW1 had asked Mr Xie, “(s)o you confirm stopping the partnership with Ben liao?”. Mr Xie answered affirmatively with a “Yah”.
+
+61     Mr Xie had sought to rely on the evidence of Mr Chee to corroborate his case that the business collaboration they had was not a partnership, and further that Mr Sng knew that Mr Xie was concurrently operating under his other entities. In my assessment, Mr Chee’s evidence was equivocal. While he did not consider himself a partner[^40] because he and Mr Xie were not involved in the decision-making for Blink, Mr Chee admitted without reservation that the three of them would go out and jointly market themselves as Blink and try to improve Blink’s brand name such that people began to associate the three of them as Blink[^41].
+
+62     As to whether at the start of the partnership, it was discussed and agreed that after they brought in a project, the partners could decide to execute the project they secured under another entity, and earn the entire profit himself, Mr Chee said this was not mentioned. See the following excerpt[^42]:
+
+> Q    Okay. Was it mentioned that you can bring in your own project? You can---if one of Blink!’s clients approached you, you can then decide to park it under your own entities and earn all the profit from there and cut Blink! out, was that mentioned?
+
+> A    It was not mentioned.
+
+> …
+
+> Q    Okay. So, what was mentioned was “Come in, you can use Blink!’s premises, you can use Blink!’s name through the signature block.” Alright? “You could use Blink!’s name cards. We will go out and market together as Blink!.” Alright?
+
+> A    Yah.
+
+> Q    “We will try to get in all of these clients and if you bring in the client through your effort the split is 70-30.”---
+
+> A    Okay.
+
+> …
+
+> Q    Alright? And it wasn’t a situation when what was also mentioned was, “I---if---if a client comes to me whether it’s my own referral or whether it’s one of Blink!’s clients.” Because you know, you all are pitching together as Blink!, right?
+
+> A    Mmm hmm.
+
+> Q    “I can then, even though I got the client because of Blink! because I held myself out as a---as a representative of Blink! I can then park it under my own company and earn all the profit from there without telling Blink!.” That was not mentioned, correct?
+
+> A    Not mentioned.
+
+63     As to whether Mr Sng knew or ought to have known that Mr Xie had been parking different projects under his various entities at his discretion, Mr Chee’s overall testimony did not support Mr Xie’s case. Firstly, he had never seen any emails in which Mr Xie had approached clients as a representative of Exxigo. He was also unaware of any project pitches that Mr Xie had made as a representative of Exxigo. While he had initially testified that Mr Xie would discuss openly with Mr Sng on which entity he intended to run his projects under, when cross-examined, he was unable to give any details, and conceded that he had formed this view based on snippets of conversation that he had heard but had not participated in.
+
+64     Mr Chee explained his belief that Mr Sng ought to have known about Mr Xie’s projects under Exxigo as Mr Xie would paste Exxigo invoices behind his seat in the Registered Office and everyone could see these invoices. When questioned further, Mr Chee revealed that what he meant was that he saw some invoices that did not have a red logo. As Blink’s had a red colour logo, he assumed that the non-red invoices were Exxigo’s invoices. He could not confirm if they were indeed Exxigo’s invoices[^43].
+
+65     Mr Xie had further relied on the evidence of Mr Vishal Nanik Ram (DW3). In similar vein, the evidence from DW3 did not advance Mr Xie’s case. His assertion that during his visits to the Registered Office, Mr Xie and Mr Sng would openly talk about projects and discuss the issue whether the billing would be under Exxigo or Blink did not stand up to scrutiny during cross-examination. He could not recall any specific projects and also could not remember if the name “Exxigo” was actually used. His overall testimony appeared to be based on a rather hazy impression of events from seven years ago and would be unsafe to rely on without any documentary support.[^44]
+
+66     While Mr Xie vigorously contended that Mr Sng had all along known and agreed to him parking his projects under his own entities, there is no documentary evidence which specifically attests to this. It is clear that Mr Sng could not have agreed to Mr Xie running projects under Exxigo or Otwo as these entities were non-existent at the time the Oral Agreement was made in 2012 contrary to his pleaded case[^45]. Mr Sng’s knowledge of Mr Xie’s earlier unincorporated entities (XEntertainment and Xclent) was limited to Mr Xie’s emcee gigs before the parties entered into the Oral Agreement.
+
+67     Mr Xie’s case that he had orally informed Mr Sng about Exxigo is a bare assertion, there being no corroborative evidence of the same in writing. Mr Xie’s allegation that he was referring to Exxigo’s “precursor”, Xclent, does not add any weight to his case. The documentary evidence produced shows that Xclent was used by Mr Xie to bill for his professional emcee fees which Mr Sng had no issue with[^46].
+
+68     Mr Xie’s allegation in his AEIC[^47] that the Oral Agreement had several iterations over the years, even if true, does not negate the finding that the parties had carried on business together as partners in Blink albeit with different profit-sharing ratios.
+
+69     Mr Xie’s reliance on the “split bills” between Blink and Exxigo for projects, in particular the Teck Ghee SG Community Walk for the People’s Association Youth Division (“Teck Ghee Event”) did not add any significant weight to his case as Mr Sng testified that the first time he saw the Exxigo invoice was after Mr Xie had departed from Blink. Mr Sng also stated categorically that he had never received any cheque payments from Exxigo[^48] for the emcee assignments that Mr Xie had allocated to him purportedly under Exxigo for projects under Visibility Design Pte Ltd (“Visibility”). He had understood then that the scope of work done was to be accounted under Nova[^49].
+
+70     Consequently, it is my finding that the relationship between Mr Sng, Mr Xie and Mr Chee was a partnership based on the profit-sharing Oral Agreement made in 2012. Mr Sng and Mr Xie owed to each other the fiduciary and/or equitable duties and obligations of a partnership with respect to Blink’s affairs as pleaded in Mr Sng’s statement of claim[^50].
+
+71     It is also my finding that Mr Sng did not know and had not consented to Mr Xie parking projects which had been secured under the auspices of Blink pursuant to the Oral Agreement and billing for them under his own entities.
+
+### If the business association between Mr Sng and Mr Xie amounted to a partnership, did Mr Xie breach his fiduciary and/or equitable duties?
+
+72     Mr Sng’s case is that Mr Xie had in breach of his fiduciary and/or equitable obligations advanced a diversion of businesses scheme to benefit his own companies Exxigo and Otwo whilst he was a partner of Blink. This was done in the following manner: Mr Xie had liaised with clients as a partner in Blink. Work would be completed using Blink’s resources. However, when it came to payment for the work, Mr Xie would issue invoices under Exxigo and/or Otwo and represent to clients that Exxigo and/or Otwo are affiliated companies of Blink and/or Nova. This resulted in clients making payments to Exxigo and/or Otwo instead of Blink. Five instances of such diversions were pleaded.
+
+#### DWG
+
+73     Mr Sng’s case is that DWG has been Blink’s client since 2013. Blink had organised for DWG a Dinner and Dance in 2013 and Annual Business Conferences in 2016 and 2017. Blink’s resources were used for all these events. After Mr Xie’s departure, he had issued DWG an invoice for the Annual Business Conference in 2017 under Exxigo so that DWG would make payment to Exxigo for the same.
+
+74     Mr Xie’s pleaded case[^51] was that Blink had never entered into contract with DWG and that DWG had been a client of Exxigo since 2015. It was Exxigo that planned and executed DWG’s conference in 2016. Similarly, it was Exxigo and not Blink which organised the DWG Conference which was held on 29 March 2017. Blink was not involved in the planning, conceptualisation or execution of the event. All invoices issued by the contributors of the DWG Conference such as suppliers, talents and manpower were issued to Exxigo, and payments to the contributors were made by Exxigo.
+
+75     The evidence adduced at trial however contradicted Mr Xie’s case as pleaded. While he claimed that DWG was his client, he admitted that he had run their 2013 Dinner and Dance event under Blink. For the 2017 Annual Business Conference, he had also taken this project through Blink. In his AEIC, he further admitted that Blink’s designer, one Elisa, had carried out around 20 hours of work for the project. He stated that he was willing to pay for design fees and to provide 30% of the profit from this project to Blink.
+
+76     Mr Xie’s admission that Blink is entitled to payment from the DWG project is, in my assessment, an admission that he has breached his fiduciary duty as partner in Blink. Regardless of which party had initially made the contact with DWG, the evidence clearly showed that the project had been secured through Blink. The contract with DWG would have been signed with Blink, and as admitted by Mr Xie, Blink’s resources and personnel had been used. Accordingly, Mr Xie had an obligation under the profit-sharing Oral Agreement to account for 30% of the profit from the project to Mr Sng.
+
+77     Mr Xie ought to have billed DWG through Blink upon completion of the project so that payment would also be made to Blink. I find that Mr Xie’s action in billing for the project under Exxigo was intended to divert the entire profit to himself and his own entities. This amounts to a breach of his fiduciary obligation to Mr Sng/Blink.
+
+#### William Grant & Sons (Singapore) Pte Ltd (“WGS”)
+
+78     Mr Sng’s case is that in or around February 2017, Mr Xie represented to one Ms Kelly Zhang of WGS that he was a representative of Blink. He had provided Ms Zhang with an informal proposal on a WGS birthday celebration event (“WGS Birthday Celebration”) and also attended an on-site visit to WGS in a Blink t-shirt prior to 2 April 2017.
+
+79     However, instead of properly channelling the opportunity to Blink, Mr Xie did not provide Ms Zhang an official quotation from Blink on the WGS Birthday Celebration despite several reminders from Ms Zhang. On 3 April 2017, Mr Xie issued a quotation of $12,945 under Otwo for the WGS Birthday Celebration and the sum quoted was to be payable to Exxigo[^52].
+
+80     Mr Xie testified that WGS was introduced to him through a contact in BNI, and he had corresponded with WGS’s representative using his Blink email account. He then subsequently informed WGS that the event would be rum through Otwo. However, payments were made to Exxigo as Otwo did not yet have a bank account set up. No resources from Blink were used for this project.
+
+81     In my assessment, since Mr Xie had secured the project using his Blink profile in BNI, and had corresponded with WGS using Blink’s email, the quotation and invoice ought to have been from Blink. It is not correct for Mr Xie to assert that no resources from Blink were used for the project since Blink’s name had been used. As the quotation from Otwo was dated 3 April 2017, just one day after Mr Xie’s departure date from Blink, the pitch that was made for the project must have been made with Blink’s resources. This was accordingly a business opportunity that had been diverted from Blink to Otwo for which Mr Xie ought to account for.
+
+#### Fraser Hospitality Group (also referred to as “FHG”)
+
+82     Mr Sng’s case is that FHG had been Blink’s client since 2015. In 2015, Blink organised for FHG a Family Day. In 2017, Blink organised for FHG a Fraser Day in 2017. Blink’s resources were used for these events. However, in 2017, after Mr Xie’s departure, Exxigo issued FHG an invoice for the 2017 Fraser Day event.
+
+83     Mr Xie’s case is that FHG had been Exxigo’s client since 2015. For the 2017 event, there was no contract between FHG and Blink as the quotations provided by Blink had not been signed and accepted by FHG. Mr Xie admitted that Exxigo had issued the invoice to FHG for the 2017 Fraser Day event. He asserted however that Blink was not involved in the planning, conceptualisation, or execution of the FHG Event. All invoices issued by the contributors of the FHG event such as suppliers, talents and manpower were issued to Exxigo, and the payments to them were made by Exxigo. Mr Xie had informed FHG’s representative in his capacity as Exxigo’s director, on or around 20 March 2017, that he had left Blink and therefore would have to issue the invoices in Exxigo’s name, to which FHG had no issue with[^53].
+
+84     In his AEIC, Mr Xie admitted that Blink expended resources on the Fraser Day event, and that his position had always been to provide Blink with 30% of the net profits of this project[^54]. His admission that Blink was entitled to at least 30% profit was confirmed during cross-examination[^55].
+
+85     As with DWG, Mr Xie’s admission that Blink should be paid 30% of the profits serves as an admission of a breach of his fiduciary duty. The emails which he had exhibited in his AEIC showed that he had communicated with FHG using Blink’s email address, and he had also referred to the 2015 event programme which had been run through Blink[^56]. The 2017 event that he had run for FHG ought to be treated no differently from the 2015 event. From the documents, it appears that the event was held on 31 March 2017, before Mr Xie’s departure from Blink. By channelling the quotation and invoice for FHG through Exxigo, Mr Xie was clearly diverting the business opportunity away from Blink to Exxigo.
+
+#### Planner Affairs
+
+86     Mr Sng’s case is that in early 2017, Blink was engaged by Planner Affairs to provide _inter alia_ venue booking and emcee services for an event called “Mercedes Awards Night 2017” (“Mercedes Event”) for the sum of $21,300. On or around 17 February 2017, Blink received a deposit of $10,650 for the Mercedes Event. Blink paid the venue rental fee of $18,000 for Club Millian, which is located at St James Power Station, for the Mercedes Event which was held on 24 February 2017. However, after the Mercedes Event, Blink did not receive the balance payment of $10,650 from Planner Affairs for the services it had rendered for the Mercedes Event.
+
+87     On or around 6 September 2017, Mr Sng contacted Planner Affairs’ representative, one Thomas, regarding the balance payment. Thomas informed him that Planner Affairs had passed a cheque for $10,650 to Mr Xie as payment for Blink’s services for the Mercedes Event. Thomas responded by sending Mr Sng a text message stating that everything had been settled with Mr Xie as well as a screenshot of a message from Mr Xie telling him that he could ignore Mr Sng’s messages.
+
+88     While Mr Sng’s pleaded claim is that Mr Xie had diverted the Mercedes Event as a business opportunity from Blink[^57], it appears from the closing submissions filed that the allegation had morphed into Mr Xie diverting monies away from Blink[^58].
+
+89     Mr Xie denies Mr Sng’s claims. He explained that Thomas was his client from long ago who had given him many emcee jobs. Thomas had engaged him to provide the venue, deejay and emcee services for the Mercedes Event which he had decided to run through Blink. Blink was the billing entity and he had signed the invoices issued on behalf of Blink to Planner Affairs. The correspondence, cheque images and the commission pay-out slip were exhibited[^59].
+
+90     It appears from the documents exhibited that the event was completed on 24 February 2017. On 28 February 2017, Mr Xie had messaged Thomas to ask about the balance payment and Thomas’s reply was “(s)hould be next Monday”. On 6 March 2017, Mr Xie followed up with Thomas to confirm that he was “dropping (his) cheque later” that day. Thomas replied affirmatively.
+
+91     While Ms Kang had given evidence in support of Mr Sng’s allegation that Mr Xie had diverted the payment – she testified that she had seen a conversation in April or May 2017 when accessing Mr Xie’s computer of payments allegedly made to Exxigo’s account – she was unable to substantiate her assertion during cross-examination.
+
+92     Reading the entire Whatsapp exchange between Mr Xie and Thomas and examining the documents adduced[^60], I find Mr Xie’s version to be more credible. Further, Blink’s accountant had processed the commission payment to Mr Xie for the Mercedes Event which would have been approved by Mr Sng. It would have been unlikely that Blink had not received the balance payment of $10,650 from Planner Affairs since the commission due to Mr Xie was paid out.
+
+93     Mr Sng’s allegation of breach of fiduciary duty by Mr Xie pertaining to Planner Affairs is not proven.
+
+#### Uncollected fees from Guo Hong
+
+94     Mr Sng’s case was that in or around 2015, Mr Xie had introduced one Guo Hong to Blink. Subsequently, Guo Hong engaged Blink for its event management services but Guo Hong only paid Blink 50% of the agreed fees. Mr Sng avers that Blink had paid Mr Xie 70% of the expected profits from the engagement in advance. Despite giving several reminders to Mr Xie to collect the outstanding 50% of the agreed fees, Mr Xie claimed that Guo Hong was uncontactable.
+
+95     Mr Xie testified that this was Blink’s project and the fees should have been paid to Blink. He had never serviced this client, and could not be responsible for any of Blink’s bad debts[^61]. Mr Xie’s evidence in this regard was not challenged in cross-examination.
+
+96     I agree with the submission made by Mr Xie’s counsel that Mr Sng has not laid any legal foundation as to how Mr Xie could be liable for the bad debts of Blink. There is no evidence of any diversion by Mr Xie, nor could any uncollected fees be deemed a business opportunity loss. I find this to be an unmeritorious claim by Mr Sng.
+
+#### Clients listed in Annex A
+
+97     In addition to the five instances of Mr Xie’s purported diversions dealt with from \[73\] to \[96\] above, Mr Sng claims that Mr Xie had diverted a much larger number of business opportunities away from Blink and Nova. This diversion had happened as early as 2014 when Mr Xie was a partner of Blink and/or a director of Nova. This had been done by issuing Exxigo and Otwo invoices that contained references to Blink and/or Nova.
+
+98     As a partner of Blink, Mr Xie should have accounted for these diverted business opportunities which Mr Sng was not aware of and did not consent to the same.
+
+99     The diverted business opportunities included the customers listed at Annex A of the Statement of Claim, namely:
+
+> (a)     Mary Chia Beauty & Slimming Specialist Pte Ltd,
+
+> (b)     Panasonic Research and Development Centre Singapore,
+
+> (c)     The Edge Property (Singapore),
+
+> (d)     Fresver Beauty Pte Ltd,
+
+> (e)     Stardom Entertainment Pte Ltd,
+
+> (f)     Wah Toh Tit Tar,
+
+> (g)     Yokogawa Engineering Asia Pte Ltd,
+
+> (h)     Singapore Press Holdings Limited,
+
+> (i)     Agri-Food & Veterinary Authority of Singapore,
+
+> (j)     In2Ideas, and
+
+> (k)     Limelite Productions
+
+100    Mr Xie has explained his position with regard to each of these customers at paragraph 107 of his AEIC.
+
+101    As I have found that Mr Xie was a partner in Blink from the time the Oral Agreement was entered into in 2012 until his departure on 1 April 2017, Mr Xie is required to account to Mr Sng in relation to those projects which he had billed under his own entities during this period. Where the client had been his initial contact (as appears to be the case with Mary Chia Beauty & Slimming Specialist Pte Ltd, Panasonic Research and Development Centre Singapore, Fresver Beauty Pte Ltd, Stardom Entertainment Pte Ltd, Agri-Food & Veterinary Authority of Singapore, In2Ideas and Limelite Productions), Mr Xie would nonetheless have to account to Mr Sng for 30% of the profits similar to the position taken for DWG and FHG in accordance with the Oral Agreement.
+
+102    As an account has to be taken, I need say no more with regard to the list of clients in Annex A.
+
+#### Breach of confidence – misuse of confidential information
+
+103    Mr Sng’s case is that Mr Xie had wrongfully accessed Blink’s computers on 2 April 2017 and transmitted confidential information of Blink and Nova which he then made use of for Exxigo’s and Otwo’s benefit[^62]. The confidential information (“Confidential Information”) consisted of copies of Blink’s customer list, past quotations/invoices, proposals, design templates and/or other confidential information[^63].
+
+104    Exxigo and Otwo being the entities controlled by Mr Xie should have known at all material times and in all the circumstances that the Confidential Information belonged to Blink and had been unlawfully procured. Mr Xie had wrongfully made use of the Confidential Information for Exxigo’s and Otwo’s benefit when he approached some of Blink’s customers, including DWG, WGS, FHG and Planner Affairs on the basis of Blink’s Confidential Information. Mr Xie had sought to persuade and/or persuaded the said customers to give their business to Exxigo and Otwo instead of Blink[^64].
+
+105    Mr Xie denies this claim on the basis that he had only taken his computer from the Registered Office. It was argued that Mr Sng had not taken any proper steps to investigate this issue. No forensic report had been adduced. Further, no evidence was given of any shared computer network in the office which would somehow allow Mr Xie to delete files and documents belonging to Blink. As such, Mr Sng had not discharged his evidential burden to show that Mr Xie had accessed Blink’s computers. Even if he had, no objective evidence had been produced detailing how the Confidential Information was stored, whether Mr Xie had access to the same, and which items of Confidential Information was accessed and moved to his personal accounts.
+
+106    Mr Xie’s submission that the burden of proof has not been discharged by _inter alia_ the failure by Mr Sng to procure a computer forensic report of what files had been accessed and deleted has ignored completely the direct evidence from Ms Kang as to what Mr Xie had instructed her to do[^65] on 2 April 2017 and after. Ms Kang had used the information of Blink’s past events and projects as references when pitching for new projects for Exxigo and Otwo. Ms Kang’s testimony in this regard during re-examination is clear evidence of the misuse of Confidential Information to benefit Mr Xie’s entities.[^66]
+
+### Did Mr Xie’s entry into the Premises on 2 April 2017 constitute a trespass?
+
+107    Mr Sng’s claim is that Mr Xie had committed a trespass of his property on 2 April 2017 between 1.46pm to 2.28pm[^67]. The security footage showed that during this time, Mr Xie was seen entering the Registered Office together with one Phyllis Oh and two unknown men being the movers he had engaged. They removed various items from the shelves and the workstations. Mr Xie was also seen accessing the computers.
+
+108    Mr Sng’s claim in trespass is on the basis that the Mr Xie’s licence to enter the Registered Office was to perform duties in the ordinary course of Blink’s business and the licence would terminate upon the termination of their business association. Following the termination of their Oral Agreement and/or business association on 1 April 2017, Mr Xie no longer had a licence to enter the Registered Office. Further, Mr Xie’s actions and supervision of the movers’ actions did not constitute duties in the ordinary course of Blink’s business.
+
+109    Mr Xie denies that he had committed any trespass. The Registered Office was also that Nova of which Mr Xie was a director. He had resigned as a director of Nova only in July 2017. As such, he had a licence to enter Nova’s registered office on 2 April 2017. In the alternative, Mr Xie says that his entry into the Registered Office was not wrongful as he had gone there to pack and collect his belongings which he was lawfully entitled to do.
+
+110    It is not disputed that both Mr Xie and Mr Chee had placed their respective letters of termination of their business association with Blink only on 2 April 2017 although the letters were dated 1 April 2017. Mr Sng’s case is that because the termination letter is dated 1 April 2017, Mr Xie’s licence to enter the Registered Office terminates on that date.
+
+111    I am unable to agree with Mr Sng’s contention that Mr Xie had committed trespass. Even if an employee were to terminate his employment, it must be implied that the employee would have the licence to enter the employer’s premises to physically tender his resignation letter. Mr Xie was not just any ordinary employee – he was the Business Development Manager of Blink and a director of Nova who was allowed liberal access to the Registered Office. Further, contrary to Mr Sng’s assertion, in the termination letter written by Mr Xie, he had expressly stated that with effect from 1st April 2017, he “_will end any association with Blink Events & Entertainment_”. Nothing of the sort was stated with regard to Nova.
+
+112    In any case, the documentary evidence shows that Mr Xie was a director of Nova as at 2 April 2017. As Nova’s director, he would thus have a separate and independent licence to enter Nova’s registered office which was also at the Registered Office. While Mr Xie had resigned as director of Nova only in July 2017, the company records in fact still reflected his name as a director as at July 2019[^68].
+
+113    Accordingly, I find no merit in Mr Sng’s claim against Mr Xie for trespass.
+
+### Did Mr Xie’s removal of various items from the Registered Office on 2 April 2017 constitute conversion?
+
+114    Mr Sng claims that Mr Xie and the movers engaged by him had on 2 April 2017 unlawfully removed the following items which belong to Blink from the Registered Office:
+
+> (a)     company files and documents,
+
+> (b)     an Ipad,
+
+> (c)     a Lenovo laptop,
+
+> (d)     a wireless clicker,
+
+> (e)     a decorative signage,
+
+> (f)     stationery,
+
+> (g)     a Secretlab gaming chair,
+
+> (h)     a bamboo holder containing CD-ROMs and DVDs of photographs and video recordings of past Blink events,
+
+> (i)     furniture items and other items, including cartons, large plastic bags, and a chair.
+
+115    In his defence, Mr Xie pleaded that he had removed items which belong to him such as the decorative signage and the Secretlab gaming chair. For some of the items identified by Mr Sng, he denied removing them and has no knowledge of their whereabouts.
+
+116    To succeed in his claim for conversion and/or detinue, Mr Sng must show that he has a right to the immediate possession of the items in question, and that the items have been taken from his possession. The CCTV footages and screenshots which were exhibited in Mr Sng’s AEIC and also shown during the trial provide _prima facie_ evidence of various items being taken away by Mr Xie[^69]. As the Registered Office and all its contents would _prima facie_ belong to Blink and/or Nova, the onus would be on Mr Xie to prove that he had a possessory right to the items that were removed.
+
+117    From the list of items set out in \[114\], Mr Xie has admitted removing files, documents, stationery items from the shelves at his workstation[^70], furniture items and other items, including cartons, large plastic bags, and a chair belonging to Mr Chee who had asked him to remove on his behalf. Through his previous solicitors, Mr Xie had also returned two lever arch files with documents[^71]. Mr Xie, however, denies taking the iPad, Lenovo laptop and the wireless clicker.
+
+118    Mr Xie has, however, explained that he took a decorative signage which read “Coffee is Good for You”. He said that as a coffee lover, he had purchased this in Bali some years back[^72]. This evidence has not been challenged by Mr Sng.
+
+119    As for the Secretlab gaming chair, Mr Xie has provided evidence that he had paid for it by way of a cheque dated 13 November 2016 issued from Exxigo’s bank account[^73]. Mr Sng admits that the payment was received[^74].
+
+120    There is no evidence from the CCTV footage that Mr Xie had taken the iPad, Lenovo laptop and the wireless clicker. Mr Sng sought to explain that the iPad, Lenovo laptop and the wireless clicker had been removed earlier, and his assertion is supported by the evidence of Ms Kang. However, as Mr Sng’s pleaded case is that these items were removed by Mr Xie during the time of his alleged trespass into the Registered Office [^75], this part of his case in conversion and detinue is unsupported by the evidence and unproven.
+
+121    As it is unclear from the CCTV footage that Mr Xie had removed a bamboo holder containing CD-ROMs and DVDs of photographs and video recordings of past Blink events, this item in Mr Sng’s claim for conversion and detinue is also not proven.
+
+122    From the admissions made by Mr Xie and the evidence adduced, I find that Mr Xie is liable for conversion of the following items which he had removed or caused to be removed from the Registered Office:
+
+> (a)     files and documents,
+
+> (b)     stationery, and
+
+> (c)     furniture items and other items, including cartons, large plastic bags, and a chair.
+
+123    While it appears to be common ground[^76] that the items which Mr Xie had removed were of relatively low value, Mr Sng as the owner and entitled to their possession would nonetheless be entitled to damages for the same.
+
+### Did Mr Xie’s Facebook post and the publication in The Asian Entrepreneur amount to defamation?
+
+#### Mr Sng’s case
+
+124    Mr Sng’s claim in defamation is premised on two publications that were made by, or attributed to, Mr Xie. The first publication is a post that Mr Xie had published on his personal Facebook page in April 2017 (referred to in the statement of claim as the “Defamatory Facebook Post”)[^77]. The second publication are words that he had spoken in an interview which were published on The Asian Entrepreneur website on 15 August 2017 (referred to in the statement of claim as the “Defamatory Interview Statement”)[^78].
+
+125    The Defamatory Facebook Post which was publicly accessible is reproduced below:
+
+> It’s time for me to make an official statement I suppose.
+
+> It’s been awhile since the split, and **through all the chaos he created** I have tried to remain civil. But I think that it’s time for me to clear the air officially.
+
+> The following are all facts.
+
+> 1.    I never had any shares in the company, nor is my name listed in it’s records. Neither am I registered as an employee of the company, nor am I paid any form of a basic salary. There are no employment/partnership documents in any form signed between me and the company. Throughout the 10 years I was contributing to the company, i was earning only on a commission per project basis (70% to 30% of the profits from each project)
+
+> 2.    I do not get any form of remuneration for months where i don’t have any commission from projects.
+
+> 3.    I had to frequently pay for project expenses up front, before claiming back together with my commission. This process could take 2-3 months.
+
+> 4.    I have never ever received any share of any of the profits the company made throughout the years, despite being termed “a partner”. In that same time, the company shifted from working from home, to a rented office, to owning a entire unit. And the owner of the company went from one hatchback, to a SUV plus a hatchback, to one SUV plus one Merc.
+
+> I don’t own a car. I have a bicycle.
+
+> 5.    Despite being paid only a commission per project basis, I contributed my own time and my money on endeavors not related to my projects. I was not paid for time spent on working other projects belonging to the company. If i was asked to help manage a particular project on site, my remuneration for planning, executing and managing the project was around $150, with no personal expenses incurred claimable.
+
+> 6.    Despite taking on two additional staff out of my own expenses to help with projects, my commission percentage had no change.
+
+> 7.    None of the partners from any of the subsidiary companies set up are current active partners. None of the partnerships lasted more than two years.
+
+> 8.    After my separation from the company, three other staff members left or tendered too. One other “partner” in a similar situation as me, left too. On last check, only the part time account, and a new admin girl who just started this month, remains.
+
+> There are many other reasons for me leaving the company, but these reasons could be debated as being “defamatory” or “derogatory to his reputation” and hence, I am not sharing them in this space. I believe though, that these facts should give everyone a much clearer picture of the situation. I do not require sympathy, nor do i seek everyone’s understanding.
+
+> I would just like to present the facts.
+
+> I hereby announce that I am now not affiliated with the company nor it’s owner, as of 31st March 2017. My projects would henceforth be pursuits under the banner of my own company. If any of you have received any emails/sms/watsapp messages or any other forms of communication from anyone with current relation to the former company, please kindly ignore and note that the contents of the messages or communication bears absolutely no relation to me or my company, and does not represent my thoughts, ideas, actions or plans in anyway.
+
+> I thank you for your time in reading this, and look forward to continue working closely with everyone on all future events.
+
+> #breakfree #startingfresh #towardsgreenerpastures
+
+(emphasis in bold and underline appears as pleaded)
+
+126    The words in the Defamatory Interview Statement which Mr Sng takes offence to were the following:
+
+> What have you just learnt recently that blew you away?
+
+> That people who are the closest to you, are the ones who could actually hurt you in the worst possible fashion. **I recently ended a business relationship with a former business partner whom I helped earn a lot of money for. It was really eye-opening to see how devious, petty and vindictive a person with whom you used to share so much with, can be.** But it was even more heart-breaking to see, that when everything goes sour, people with whom you have done so much for, and on whom you thought you could count on for support, just disappear.
+
+> I have heard about the cruelty of mankind before, but experiencing this myself, just blew me away.”
+
+(emphasis in bold and underline appears as pleaded)
+
+127    Mr Sng claims that in their natural and ordinary meaning the words in the Defamatory Facebook Post and the Defamatory Interview Statement meant and were understood to mean that he and/or Blink were dishonest and unethical in their business dealings.
+
+128    Mr Sng also claims by way of innuendo that:
+
+> (a)     the subject matter of the Defamatory Facebook Post referred to him and the “company” referred to in the post was Blink, and
+
+> (b)     the phrase “former business partner” in the Defamatory Interview Statement referred to and was understood to refer to him.
+
+129    It is Mr Sng’s case that the two publications were calculated to disparage him and/or Blink in the events and entertainment industry after Mr Xie purported to terminate their profit-sharing agreement and/or business association with effect from 1 April 2017.
+
+#### Mr Xie’s defence
+
+130    Mr Xie admits that the two publications were made[^79]. He denies, however, that the words were defamatory of Mr Sng.
+
+131    As regards the Defamatory Facebook Post, Mr Xie pleads that the post did not refer to, or make any reference to, Mr Sng.
+
+132    Further, the matters set out in the Defamatory Facebook Post meant and/or were understood to mean that[^80] he had contributed substantially to Mr Sng’s success but had not been properly remunerated, Mr Sng had caused him much inconvenience by making false allegations against him, and Mr Sng had a relatively high turnover rate for staff.
+
+133    If the words in the Defamatory Facebook Post carried the natural and ordinary meaning as pleaded by Mr Sng, Mr Xie relies on the defence of justification particularised as follows:
+
+> (a)     Mr Sng had caused him unnecessary inconvenience by the following acts:
+
+>> (i)       Making a false police report that Mr Xie and others had stolen items from the office, causing them the hassle of going down to the police station to assist in investigations,
+
+>> (ii)       Making a false police report that Mr Xie had forged his signature causing him the hassle of going down to the police station to assist in investigations,
+
+>> (iii)       Writing emails to the Mr Xie’s clients warning them not to work with him to avoid being implicated in legal proceedings, and
+
+>> (iv)       Sending letters of demand to Mr Xie’s staff demanding that they provide information against him or face legal proceedings.
+
+> (b)     Mr Xie only had a business association with Mr Sng; and was neither an employee nor a director of Blink. He was merely hired on a contract for services basis.
+
+> (c)     Mr Xie did not own any shares in Blink, did not have a basic salary and worked on a commission basis.
+
+> (d)     Claims for expenses incurred by Mr Xie on behalf of Mr Sng/Blink took two to three months to process. This was unreasonably long given that Mr Sng/Blink had already been paid its fees.
+
+> (e)     Mr Xie had gone out of his way to contribute to Mr Sng/Blink’s projects which he was not involved in.
+
+> (f)     Mr Xie, through Exxigo, had paid for Sheryl’s and Rachel’s fees notwithstanding that they were used by Mr Sng/Blink for his events.
+
+> (g)     After Mr Xie had terminated his association with Mr Sng, four other staff working in Blink also left.
+
+> (h)     After Mr Xie had terminated his association with Mr Sng, he had carried out projects under the companies he owned such as Exxigo and Otwo.
+
+#### Applicable law
+
+134    In order for a plaintiff to succeed in an action in defamation, three conditions must be fulfilled:
+
+> (a)     the statement made must bear a defamatory meaning,
+
+> (b)     the statement must refer to the plaintiff, and
+
+> (c)     the statement must have been published to a third party.
+
+135    The third condition is not in issue here since Mr Xie has admitted to both the publications.
+
+136    As to whether a statement made is defamatory, the High Court in _Golden Season Pte Ltd v Kairos Singapore Holdings Pte Ltd_ \[2015\] 2 SLR 741 (“_Golden Season_”), a case which also dealt with _inter alia_ defamatory Facebook posts, had endorsed at \[36\] the succinct summary in Gary Chan Kok Yew & Lee Pay Woan, _The Law of Torts in Singapore_ (Academy Publishing, 2011) at para 12.014: A statement is considered to be defamatory if it:
+
+> (a)     lowers the plaintiff in the estimation of right-thinking members of society generally;
+
+> (b)     causes the plaintiff to be shunned or avoided; or
+
+> (c)     exposes the plaintiff to hatred, contempt or ridicule.
+
+137    A statement can be defamatory based on the natural and ordinary meaning of the words used or by way of an innuendo.
+
+138    The general principles applicable to the construction of words based on their natural and ordinary meanings are as follows (see _Golden Season_ at \[37\]):
+
+> (a)     the natural and ordinary meaning is that which is conveyed to an ordinary reasonable person;
+
+> (b)     as the test is objective, the meaning which the defendant intended to convey is irrelevant;
+
+> (c)     the ordinary reasonable reader is not avid for scandal but can read between the lines and draw inferences;
+
+> (d)     where there are a number of possible interpretations, some of which may be non-defamatory, such a reader will not seize on only the defamatory one;
+
+> (e)     the ordinary reasonable reader is treated as having read the publication as a whole in determining its meaning, thus “the bane and the antidote must be taken together”; and
+
+> (f)     the ordinary reasonable reader will take note of the circumstances and manner of the publication.
+
+139    Further, at \[38\] of _Golden Season_, the High Court explained that:
+
+> Apart from establishing that the statement is defamatory, it must also be shown that it is the plaintiff who has been defamed by the publication of the statement. There is no need for the plaintiff to be named, but it must be shown that the words would be understood by ordinary people to refer to the plaintiff. The act of publication and reference to the plaintiff are key elements of the tort.
+
+#### Whether the publications refer to Mr Sng
+
+140    Counsel for Mr Xie contended that Mr Sng’s case is fundamentally flawed as he has not led any evidence supporting his assertion that it was widely known in the events and entertainment industry that the two men had been working together since March 2007[^81]. Mr Sng had also not led any evidence or provided any explanation as to how by way of innuendo, the posts make reference to him. The omission to do so had been admitted by Mr Sng during cross-examination[^82]. In fact, Mr Sng had also admitted that the two publications did not identify him[^83].
+
+141    While the two publications did not expressly refer to Mr Sng, I do not think it can be seriously argued that persons acquainted with Mr Sng would be unable to identify him from the words used.
+
+142    It is settled law that no express identification of a plaintiff is required so long as the words would be understood by ordinary people to refer to the plaintiff, see _Golden Season_ at \[38\]. _Gatley_ on Libel and Slander (11th Edition, Sweet & Maxwell 2008) at para 7.3 put it succinctly thus:
+
+> “… where a statement is capable of referring to a plaintiff, “the question is not whether anyone **_did_** identify the claimant but whether persons who were acquainted with the claimant **_could_** identify him from the words used.”
+
+(emphasis in bold italics added).
+
+143    Mr Sng’s evidence that he had worked with Mr Xie for close to ten years from 2007 is not challenged. Mr Xie himself testified that from 2012 whenever he was engaged by Blink as emcee for any particular event, he would accompany Mr Sng to meetings with the client. Hence, it would be possible for any of these former clients to identify Mr Sng from the two publications.
+
+144    From the testimonies of Wendy Yew (“PW1”) and also Vishal Nanik Ram (“DW3”), of their respective dealings with both Mr Xie and Mr Sng, although their evidence was not directed to the two publications, it can also be inferred that persons like them who had regular dealings with Blink and Nova over the years would have been able to identify Mr Sng and Blink as the former partner or company that Mr Xie had severed ties with.
+
+#### Whether the publications in their natural and ordinary meaning are defamatory of Mr Sng
+
+##### (1)   Defamatory Facebook Post
+
+145    There is no explanation from the closing submissions filed on behalf of Mr Sng as to which portions of the rather lengthy Post[^84] would convey the meaning that Mr Sng and/or Blink were dishonest and unethical in their business dealings.
+
+146    Reading the Post in its entirety, I am unable to find that an ordinary reasonable reader taking note of the circumstances of the publication and reading between the lines would form the view that the “company” that Mr Xie had worked with or its owner was dishonest in its business dealings.
+
+147    In my assessment, the natural and ordinary meaning of the Post taken as a whole served to convey the message that the writer had left the company where he had worked for ten years without any formal agreement because of his unhappiness with the way he had been compensated. He had contributed to the success of the company and its owner including making upfront payments for the company but had not been properly remunerated beyond the commissions received for his projects. Others had also left the company, leaving only a part-timer and a new administrative staff. None of the partnerships with the owner had lasted beyond two years.
+
+148    In the sense that Mr Sng as the owner of the company had treated his business associates and staff unfairly by not remunerating them properly, this could be regarded as unethical behaviour. To accuse a businessman of unethical behaviour would be regarded as defamatory.
+
+##### (2)   Defamatory Interview Statement
+
+149    The underlined words in the Interview Statement described the “former business partner” of Mr Xie as being “devious, petty and vindictive”. It cannot be seriously argued that to label someone as being “devious, petty and vindictive” is not defamatory. These are words that connote negative character traits and are a blight on anyone’s reputation.
+
+150    The ordinary meaning of “devious” incorporates an element of dishonesty and underhandedness. Since the context of the statement is on Mr Xie’s experience with his former business partner, I agree that the words would convey to an ordinary reasonable reader that the person thus described is in some sense dishonest and unethical in his business dealings.
+
+#### Whether Mr Xie can rely on the defence of justification
+
+##### (1)   “Unethical / Dishonest / Devious”
+
+151    The defamatory sting of the two publications lies in the accusation that Mr Sng had been unethical or dishonest in his dealings. The meaning of the Defamatory Post as I have found is the accusation that Mr Sng had treated his business associates and staff unfairly by not remunerating them properly and was thus guilty of unethical conduct.
+
+152    To succeed in the defence of justification, the defendant must prove that the defamatory imputations are true in substance and in fact (see Doris Chia, _Defamation, Principles and Procedure in Singapore and Malaysia, LexisNexis 2016_ at \[7.1\]).
+
+153    The particulars of justification pleaded in paragraphs 75 (a) to (i) and 81 (a) to (c) of Mr Xie’s Defence and Counterclaim do not go to prove that Mr Sng had been guilty of unethical and dishonest/devious behaviour. Further, Mr Xie has not adduced evidence to prove that the police reports filed by Mr Sng against him, Mr Chee, Ms Yeo and Ms Kang are unfounded given the CCTV footage of what had transpired on 2 April 2017[^85].
+
+154    No evidence was adduced to substantiate the claim that the expenses Mr Xie incurred on Blink’s behalf took an unreasonably long time to process. Neither did Mr Xie provide evidence supporting his assertion of how he had gone out of his way to contribute to Mr Sng’s projects that he was not involved in.
+
+155    As to Mr Xie’s allegation that Mr Sng often claimed that clients that Mr Xie had brought into Blink were brought in by him and demanding a higher percentage of the profits notwithstanding the Oral Agreement, while these assertions had repeatedly been made on the witness stand, Mr Xie has not adduced any documentary evidence to show that Mr Sng had in fact paid him less than the 70% profit for the projects that he had brought into Blink in accordance with the Oral Agreement[^86]. The details pertaining to the projects/clients tabulated in paragraph 107 of Mr Xie’s AEIC do not go to show how Mr Sng had staked claims to Mr Xie’s clients and demanded a higher percentage of profits.
+
+156    During cross-examination, Mr Xie had alluded to Mr Sng’s claim for the Secretlab chair that he had already paid for. While this claim by Mr Sng could be characterised as dishonest or unethical given that proof of payment had been given, it is however not pleaded as one of the particulars of justification.
+
+##### (2)   “Petty, vindictive”
+
+157    Mr Xie had pleaded in justification that Mr Sng often lost his temper with the people he was working with and frequently used vulgarities and humiliating words whenever the people he was working with made mistakes such as making errors in design, not tidying the office, being slightly late for work and for being slow in responding to emails.
+
+158    Again, as with his other particulars of justification, Mr Xie did not bring any evidence for the Court to make a finding in his favour. He in fact conceded during cross-examination that his AEIC did not contain any documents or evidence that Mr Sng lost his temper with people and hurled vulgarities at them. Mr Xie’s vague assertion that Ms Kang’s Whatsapp chats showed that she was afraid of him without more is woefully inadequate as proof of Mr Sng’s alleged bad behaviour towards the people he worked with[^87].
+
+159    I note that the WhatsApp messages disclosed to the Court and letters of termination penned by Mr Xie and Mr Chee[^88] exhibited in Mr Sng’s AEIC refer to several examples of Mr Sng’s uncharitable conduct towards his erstwhile partners and staff. However, as these aspects had not been put to Mr Sng in cross-examination, it would be improper for the Court to make any findings against Mr Sng in this regard. In my assessment, Mr Xie has failed to discharge his burden of proof on his pleaded case of justification of the defamatory statements against Mr Sng.
+
+### Did Mr Xie commit passing-off in his BNI profile which had referred to Blink and used Blink’s logo?
+
+160    BNI is the local chapter of a business networking organisation that seeks to increase their members’ business through structured and professional word-of-mouth referral programs.
+
+161    Mr Sng claims that Mr Xie had continued to represent himself as being affiliated to Blink in his BNI profile even after 2 April 2017[^89]. A screenshot of Mr Xie’s profile taken on 21 April 2017 with the Blink logo was exhibited in evidence[^90]. Although by the time the claim was filed, Blink’s logo and Mr Xie’s association with Blink was no longer found on his BNI profile, Mr Sng alleges that Mr Xie had continued to exploit and associate himself and his businesses with Blink on other platforms.
+
+162    Mr Xie denied all accusations of passing off. He had informed all his clients that he had left Blink and had also announced his departure on his Facebook page on 4 April 2017. He had also removed all references to Blink from his profiles on Facebook and LinkedIn. There could thus be no confusion as the public would be aware that he was no longer associated with Blink.
+
+163    As far as his BNI profile was concerned, Mr Xie explained that he had submitted the application within a week from 2 April 2017 to change his particulars to remove all references to Blink. BNI took some time to process and effect the change.
+
+164    Mr Sng had made a similar accusation of passing off against Ms Yeo. Her evidence[^91] that she and Mr Xie had applied to BNI to change their particulars including the company associated with their profiles at the earliest opportunity but that BNI took time to effect the change was not challenged during cross-examination.
+
+165    In order to succeed in a passing off action, it is settled law that a plaintiff must prove three elements: (1) goodwill in a business, (2) misrepresentation by the defendant _ie_ passing off his goods or services as that of the plaintiff’s, and (3) damage.
+
+166    Mr Sng has referred in his AEIC to the goodwill and reputation that he had built up in Blink through his marketing efforts over the years. When cross-examined, he agreed that he had not provided any evidence of the marketing expenditure nor exhibited any evidence of the Blink’s annual turnover[^92].
+
+167    As to the second element of misrepresentation, two components must be present – misrepresentation by the defendant and confusion or likelihood of confusion caused by the misrepresentation. No evidence was adduced by Mr Sng as to how the misrepresentation on Mr Xie’s BNI profile would have caused confusion in the minds of potential clients as to whose services they were in fact contracting for when they approach Mr Xie.
+
+168    As for the third element of damage, while proof of actual damage may not be required, there has to be evidence of a real tangible risk that the goodwill would be damaged by the misrepresentation. Mr Sng has adduced no evidence of actual damage to the goodwill of Blink caused by the references made in Mr Xie’s BNI profile. Given the short span of time that the references to Blink remained on the BNI profile, it is unsurprising that Mr Sng is unable to show any damage let alone a real and tangible risk of damage to Blink’s goodwill.
+
+169    In the premises, Mr Sng’s claim in passing off fails and has to be dismissed.
+
+### Did Mr Sng trading as Blink unlawfully interfere with Exxigo’s contractual relations with DWG?
+
+170    This issue pertains to the counterclaim made on behalf of Exxigo, _ie_ that Mr Sng had unlawfully interfered with Exxigo’s contractual relations with DWG and/or induced DWG to breach its contract with the Exxigo by sending them threatening legal letters causing them to withhold payment. As a result, Exxigo has not been paid its fees for the DWG project to date and has thereby suffered loss and damage.
+
+171    The premise for Exxigo’s counterclaim that Mr Sng had unlawfully interfered with its contractual relations with DWG is Mr Xie’s belief that he was at complete liberty to decide which entity to run the DWG project under and he had decided to run this project under Exxigo.
+
+172    As I have found that Mr Sng did not know, and had not consented, to Mr Xie parking projects secured under the auspices of Blink pursuant to the Oral Agreement and billing for them under his own entities, and that Mr Xie ought to have billed DWG through Blink upon completion of the project so that payment would also be made to Blink, there is no basis for Exxigo’s counterclaim.
+
+173    Further, Mr Xie has expressly admitted that Blink is entitled to a 30% share of the profits from the DWG project. As such, Mr Sng had a legitimate basis to write to DWG to raise the irregularity in the invoicing. Exxigo’s counterclaim has to be dismissed.
+
+## Summary of findings in DC 2684
+
+174    In summary, my findings in DC 2684 are:
+
+> (a)     The business association between Mr Sng and Mr Xie pursuant to the Oral Agreement amounted to a partnership which gave rise to fiduciary and/or equitable duties on the part of Mr Xie.
+
+> (b)     Mr Xie had breached his fiduciary and/or equitable duties as a partner when he diverted payments and/or projects secured while he was a partner of Blink to his own entities.
+
+> (c)     Mr Xie had wrongfully made use of the Confidential Information owned by Blink for the benefit of Exxigo and Otwo.
+
+> (d)     Mr Xie’s entry into the Registered Office on 2 April 2017 did not constitute a trespass as he had a continuing licence as a director of Nova to enter the premises which also served as Nova’s registered office.
+
+> (e)     Mr Xie is liable for conversion of the files and documents, stationery, and furniture items and other items, including cartons, large plastic bags, and a chair.
+
+> (f)     Mr Xie’s Facebook post and the publication in The Asian Entrepreneur amounts to defamation and his defence of justification is not proven.
+
+> (g)     Mr Sng’s claim for passing-off by reason of the reference to Blink and Blink’s logo in Mr Xie’s BNI profile is not proven.
+
+> (h)     Mr Sng did not unlawfully interfere with Exxigo’s contractual relations with DWG.
+
+175    Mr Sng is entitled to, and judgment is accordingly entered, on his proven claims for breach of fiduciary and/or equitable duties, breach of confidence, conversion and defamation as outlined above. Exxigo’s counterclaim is dismissed. As the trial was ordered to be bifurcated, the Court will hear counsel on the specific prayers for relief sought, and the orders and directions to be made as required.
+
+## DC 2681 – Nova’s claims
+
+### Breaches alleged
+
+176    In this suit, Nova’s claim against Mr Xie is for breach of his fiduciary and/or equitable duties owed as a director of Nova. From Nova’s pleaded claim[^93], the breaches alleged are as follows:
+
+> (a)     trespass and unlawful removal of items from the Premises[^94],
+
+> (b)     unauthorised access of Blink’s computers[^95],
+
+> (c)     unapproved contract with Visibility Design Pte Ltd (“Visibility”)[^96],
+
+> (d)     diverting business opportunities, including that with Visibility, from Nova to Exxigo[^97],
+
+> (e)     causing Nova loss by entering into an unapproved contract for website design and marketing services with a company known as Sauce Networks Pte Ltd[^98],
+
+> (f)     causing the DreamGirl SG Competition, a business opportunity rightfully belonging to Nova, to be diverted from Nova[^99],
+
+> (g)     wilfully ignoring and/or denying Mr Sng’s request for access to Nova’s IT systems[^100], and
+
+> (h)     causing unapproved and unaccounted cash withdrawals to be made from Nova’s bank account and petty cash fund[^101].
+
+177    In relation to the breaches outlined at \[176(c)\] to \[176(h)\] above, Nova’s case is that Mr Xie had acted _mala fide_ and against Nova’s interests and for improper purposes in relation to Nova’s affairs.
+
+### Mr Xie’s defence
+
+178    Mr Xie’s version of the history on Nova’s incorporation is at \[23\] to \[26\] above. It is not disputed that Nova had been incorporated to specifically provide talent / manpower services.
+
+179    Mr Xie’s case is that all the directors of Nova were well aware at all material times that he was running his own events and talent/manpower projects and he was at liberty to run them under Nova, Blink or Exxigo. In essence, Nova knew that he and Exxigo were its direct competitors and allowed him to do so[^102]. As such, he denies any breach of his fiduciary duty to Nova.
+
+### Applicable law
+
+180    A succinct exposition as to the ambit of a director’s fiduciary duty to his company is given in _Nordic International Ltd v Morten Innhaug_<span class="citation">\[2017\] 3 SLR 957</span> (“_Nordic_”) at \[52\] to \[56\] (per Steven Chong J (as His Honour then was)):
+
+> 52    A director has the duty to act _bona fide_ – which means to act honestly – in the best interests of the company (see _Walter Woon on Company Law_ (Tan Cheng Han gen ed) (Sweet & Maxwell, Revised 3rd Ed, 2009) (“_Walter Woon on Company Law_”) at para 8.10). A court would be slow to interfere with commercial decisions of directors which have been honestly made even if they turned out to be financially detrimental, but this does not mean the court would stop short of interfering as long as the directors claim to be genuinely acting to promote the company’s interests (see _Ho Kang Peng v Scintronix Corp Ltd_ <span class="citation">\[2014\] 3 SLR 329</span> (“_Scintronix_”) at \[37\]–\[38\]).
+
+> 53    The no-conflict rule obliges a director, as a fiduciary, to avoid any situation where his personal interest conflicts with or may conflict with that of the company whose interest he is bound to protect, such that there is a risk he may prefer his interest over that of the company’s. The rule is strict: where a director is found to have placed himself in a position of conflict of interest, he will not be permitted to assert that his action was _bona fide_ or thought to be in the interests of the company (_Walter Woon on Company Law_ at para 8.44, citing _Howard Smith Ltd v Ampol Petroleum Ltd_ <span class="citation">\[1974\] AC 821</span> at 834). A director can be in breach of the rule even though his or her own conduct has caused no loss to the company (_Company Directors: Duties, Liabilities, and Remedies_ (Simon Mortimore ed) (Oxford University Press, 2009) at para 14.11, citing _Regal (Hastings) Ltd v Gulliver_ <span class="citation">\[1967\] 2 AC 134</span> (“_Regal (Hastings)_”) at 134 and 153).
+
+> 54    The no-profit rule obliges a director not to retain any profit which he has made through the use of the company’s property, information or opportunities to which he has access by virtue of being a director, without the fully informed consent of the company. The rule is again a strict one and liability to account arises simply because profits are made (see _Regal (Hastings)_ at 144).
+
+> 55    The rule against self-dealing prohibits a director from entering, on behalf of the company, into an arrangement or transaction with himself or with a company or firm in which he is interested (see _Tan Hup Thye v Refco (Singapore) Pte Ltd_ <span class="citation">\[2010\] 3 SLR 1069</span> at \[29\]). There is “self-dealing” because the director essentially acts on behalf of both parties in such a transaction.
+
+> 56    It can be seen that there is indeed overlap between the no-conflict rule, no-profit rule and rule against self-dealing. A director who enters into a self-dealing transaction would inevitably be in a position of conflict and, if a profit is made, would be in breach of the duty not to make a profit out of his position. For that reason, the no-profit rule and rule against self-dealing have been described as particular instances of the broader duty of a director not to place himself in a position of conflict (see _Walter Woon on Company Law_ at para 8.45). In turn, there is overlap between the no-conflict rule and a director’s duty to act in the best interests of the company, “for when a director makes his interests paramount, invariably he will not be acting in the best interests of his company” (_Walter Woon on Company Law_ at para 8.39).
+
+181    In relation to cross-directorships in several companies, while this _per se_ is not a breach of a director’s duty of loyalty, it is incumbent on the director to declare his conflict of interests to the company and obtain the approval of the board, whether express or implied[^103].
+
+### Was there approval or informed consent by Nova?
+
+182    Mr Xie had traced Nova’s genesis to his long association with Visibility, a company that does design, marketing and branding for clients like Nestle Singapore Pte Ltd (“Nestle”), F&N Foods Pte Ltd and Fraser and Neave Ltd (collectively “F&N”). He asserted that after his initial good performance as emcee at a Nestle event, he became Visibility’s “go-to emcee” for all their Nestle road shows. Thereafter, Visibility had asked him to provide promoters, talents, models and part-timers for its Nestle events.
+
+183    From 2010 to 2014, he then provided Visibility with these talents for its Nestle projects and billed them under Exxigo. He had shared with Mr Sng that this was a good source of business but because Mr Sng had reservations about using Blink to supply talent due to a potential conflict with its clients, Mr Sng then suggested that Nova be set up to handle supply of manpower and talent. Mr Xie was the driving force behind Nova since he had the most experience in this area[^104].
+
+184    Mr Xie revealed that prior to Nova being set up, most of the Visibility contracts for supply of manpower and talent were billed under Exxigo. After Nova was incorporated, he then decided to bill some of the contracts under Nova. It was ultimately his decision whether to bill them under Nova or Exxigo since Visibility was his client. Even though running the projects under Nova meant he had to share the profits of the Visibility projects with Mr Sng and Mr Chee, he decided to do so in order for Nova to get started with its operations.
+
+185    Mr Xie’s claim to Visibility as his/Exxigo’s client since 2006 was however debunked by documentary evidence produced by Mr Sng showing that[^105]:
+
+> (a)     Exxigo was only incorporated on 12 February 2014.
+
+> (b)     The earliest record of a communication with Visibility was an introductory email dated 6 July 2010 at 2:29 pm from Mr Sng using his Blink email address to one Ken Leong, the managing director of Visibility. After Ken Leong’s reply asking for his charges, a contract was sent by Visibility’s project director, one Melissa Zhuo, to engage Mr Sng as emcee for a Nescafe event. A further exchange of emails in 2010 followed by which Mr Sng was appointed as an agent to provide a model for another Nescafe event. Mr Xie had played no role in these projects although he was copied on the emails.
+
+> (c)     The earliest invoice disclosed in evidence was one issued by Mr Sng under Blink’s account in June 2010 which was signed by Mr Xie as the Business Development Manager of Blink.
+
+186    Mr Xie’s witness, Laraine Tan (DW2), Visibility’s Senior Project Director, who has since chosen to work with Mr Xie, was shown the 2010 emails in cross-examination. She then admitted that her predecessor, Melissa Zhuo, was communicating and liaising with Mr Sng for Visibility’s projects and Visibility’s prior working relationship since 2010 was with Mr Sng/Blink[^106].
+
+187    Notably, neither Mr Xie nor DW2 had disclosed any correspondence which predated 2010 which showed that Mr Xie and/or any of his entities had a business relationship with Visibility prior to 2010.
+
+188    In my assessment of the evidence relating to Visibility, as well as my earlier findings stated in \[63\] to \[67\] and \[69\], Mr Xie’s assertion that Nova’s board had approved for him to park his projects under Exxigo is not proven. No board resolution had been passed as attested to by Mr Chee[^107]. Mr Chee also confirmed that he had never heard Mr Xie asking permission from Mr Sng to use Exxigo instead of Nova for any particular project. Neither was there any Whatsapp chat or message in which Mr Xie had sought permission to do so.
+
+189    Mr Sng had stridently denied any prior knowledge of Exxigo’s activities.
+
+190    Interestingly, the Directorship Agreement that was signed by all three directors had a clause on “conflict of interests” which provided for the signing and approval of internal transactions between Nova and the “mother company”. Presumably, this referred to Blink since Mr Sng was referred to as “General Manager” of the “mother company”. If indeed, Mr Xie had declared his interest in Exxigo at the point of Nova’s incorporation and his cross-directorship and self-dealing had been approved, there would have been no difficulty for this fact to be included in the Directorship Agreement.
+
+191    From the overall tenor of the evidence, I find that Nova’s affairs were left very much to Mr Xie to manage[^108]. As a director of Nova, he had placed himself in an invidious position of conflict by not openly declaring his interest in Exxigo and seeking the informed consent of its board for his activities. Accordingly, any talent management project that had been parked under Exxigo amounts to a breach of the rule against self-dealing for which he is liable to account to Nova for the same.
+
+### Nova’s specific claims
+
+192    While Nova has also pleaded claims against Mr Xie in trespass, unlawful removal of its property and the unauthorised access of its computers, these appear to be concurrent with Mr Sng’s claims in DC 2684. There is no necessity for the Court to make separate findings for/against Nova as far as these claims are concerned.
+
+193    This section of the Judgment will deal with the specific claims particularised in paragraphs 18 to 44 of Nova’s statement of claim.
+
+#### Unapproved contract with Visibility
+
+194    Nova claims that in breach of his fiduciary duties, Mr Xie had without Mr Sng’s knowledge and approval signed a contract dated 25 April 2016 with Visibility (“Visibility Contract”). The parties to the Visibility Contract were Visibility on one side and Blink, Nova, Exxigo and their affiliated or associate companies on the other. In essence, the contract required Blink, Nova and its associated companies not to compete with Visibility for a period of two years from 26 April 2016 to 25 April 2018 for Nestle projects.
+
+195    It contained the signatures of DW2, Mr Xie as director of Exxigo and a signature purportedly that of Mr Sng’s next to Blink’s business stamp. Mr Sng claims that his signature appearing on the Visibility Contract was forged as he does not use his “short-hand” signature on contracts.
+
+196    DW2 had explained that Visibility had received reports that some of its emcees had approached Nestle directly for projects. Visibility’s management had thus determined that all companies engaged for its roadshows were required to sign a non-compete agreement to safeguard its interests.
+
+197    Given DW2’s explanation[^109] on why the Visibility Contract was required, and the fact that Blink and Nova continued to work with Visibility on many projects, it is unclear how the Contract had adversely affected Nova’s interests, if at all. In fact, if the Visibility Contract had not been signed, Visibility might not have continued to engage Nova for its Nestle events.
+
+198    In any case, Nova is not seeking to set aside the Visibility Contract, and no specific relief has been pleaded even if the Court were to find that the signing of the Contract was unauthorised by Nova’s board. Further, Mr Sng’s allegation of forgery based on his assertion is not proven without any forensic evidence from a handwriting expert.
+
+#### Diverting business opportunities – Visibility, DreamGirl SG and others
+
+##### (1)   Visibility
+
+199    Nova has claimed collectively the sum of $46,640 being the total of six invoices issued by Exxigo to Visibility as particularised in paragraph 23 of its statement of claim. The specific invoices are seen at pages 86 to 91 in Mr Sng’s AEIC in Nova’s suit.
+
+200    By diverting these business opportunities away from Nova to Exxigo, Mr Xie has breached his fiduciary duty to Nova, having flouted the no-conflict rule, and rule against self-dealing as explicated in _Nordic_. Mr Xie and Exxigo are liable to account to Nova for these invoices.
+
+##### (2)   DreamGirl SG Competition
+
+201    The DreamGirl SG Competition is apparently a talent competition for petite girls. Mr Xie had conceptualised the event and ran it under Nova in 2015. He claimed that he had funded the DreamGirl SG project in 2015 from his personal funds and it made huge losses. In 2017, he and one Beverly Tan, purportedly the licence holder, had decided to run the competition again. As he was leaving Nova, Beverly Tan’s company decided to work with Otwo on the project.
+
+202    Nova’s claim is that the DreamGirl SG Competition in 2017 was initially run under Nova and Nova’s resources had been used. Mr Xie had diverted the opportunity away to Otwo without approval from Nova’s board of directors.
+
+203    Mr Xie was shown a letter of partnership dated 1 October 2016 with one Melissa Fann in which Nova was described as the “event & production company, holds on to the rights of the competition” for the DreamGirl SG Competition. The letter which was prepared and signed by Mr Xie under Nova’s letterhead further stated that all forms of intellectual property rights in DreamGirl SG Competition are owned by Nova.
+
+204    I agree with Nova’s submission that the letter clearly identifies Nova as the owner of the DreamGirl SG Competition. The documentary evidence also disclosed that a sponsorship publicity deck for the DreamGirl SG Competition in 2017 carried Nova’s logo. Mr Xie had signed off as a representative of Nova and provided his Nova email address.
+
+205    Under cross-examination, Mr Xie admitted that he did not seek permission from Nova’s board of directors to move the DreamGirl SG Competition in 2017 from Nova to Otwo. Without Nova’s consent, Mr Xie was not entitled to freely divert the DreamGirl SG Competition in 2017 to his entity, Otwo, especially when Nova was already the event’s designated organiser and would have expended resources for it.
+
+206    Accordingly, Mr Xie and Otwo will have to account to Nova for the profits and losses for the DreamGirl SG Competition in 2017.
+
+##### (3)   Clients listed in Annex A
+
+207    Nova had also claimed for the invoices issued by Exxigo to the following as listed in Annex A of its statement of claim:
+
+> (a)     Oomph Pte Ltd
+
+> (b)     Heart Neu Circus Production
+
+> (c)     Trafficking Pte Ltd
+
+> (d)     2+1 Concepts
+
+> (e)     35SCE
+
+> (f)     Carlsberg Singapore Pte Ltd
+
+> (g)     The Edit Room
+
+> (h)     Virtus Management Pte Ltd
+
+208    Where the description of work covered in these invoices falls within the Nova’s scope of business in the provision of talent and manpower, Mr Xie and Exxigo are liable to account for the same to Nova.
+
+#### Unapproved contract with Sauce Networks Pte Ltd
+
+209    Nova’s case is that Mr Sng discovered on 30 January 2015 that a company known as Sauce Networks Pte Ltd (“Sauce Networks”) had issued an invoice to Mr Xie (as a representative of Nova) for $25,000 (including a $2,500 deposit) for work done in relation to the design of Nova’s website, Invoicing, CRM Module and Payment Gateway Module (“Website Design Service”).
+
+210    Nova’s board of directors was aware that Sauce Networks was engaged to design Nova’s website. However, the board was informed by Mr Xie that a large portion, if not all, of the costs of the Website Design Service could be claimed from the Productivity and Innovation Credit Grant (“PIC Grant”)_._ Nova’s case is also that Mr Sng and Mr Chee would only approve the Website Design Service by Sauce Networks if the costs could in fact be claimed back under the PIC Grant, otherwise they would not approve.[^110]
+
+211    Nova claims that Mr Xie did not update the board that the PIC Grant was rejected and had caused Nova to pay the sum of $25,000.00 to Sauce Networks even though Nova’s board did not approve of this payment.
+
+212    Nova further pleaded that Mr Sng had discovered that on 6 September 2016, a company known as SauceInk Pte Ltd (“SauceInk”) which is related to Sauce Networks had issued an invoice to Mr Xie as representative of Nova purportedly for work done in relation to “Digital Marketing Services”. Nova avers that its board of directors was not aware of this engagement and had not approved of the same.
+
+213    The evidence adduced does not go to show that Mr Xie had acted _mala fide_ against Nova’s interests and for an improper purpose in relation to Nova’s contracts with Sauce Networks and SauceInk. While it was Mr Xie who had initiated the contract with Sauce Networks for Nova’s website design with the view of applying for the PIC Grant, this decision had been approved by all the three directors.
+
+214    In fact, it was Mr Chee who was reluctant to go ahead with the contract as he was not confident that they would get the Grant approved but he was “outvoted” by Mr Sng and Mr Xie[^111]. Mr Sng had come up with the money for Nova and it was treated as a loan to Nova. Mr Xie’s testimony that the cheque to Sauce Networks had been signed by Mr Sng was not challenged. Nothing was stated that the approval from Nova’s board would be conditional on the PIC Grant being approved.
+
+215    As to Nova’s allegation that the contract sum was significantly above market price for work of a similar nature, no evidence has been adduced to substantiate this. Nova’s accusation that Mr Xie had failed to update the board that the PIC claim is rejected as it goes against the documentary evidence exhibited in Mr Xie’s AEIC.
+
+216    In regard to the payment of $9,620 to SauceInk for digital marketing services rendered to Nova, Mr Xie had explained how the payment had come about. Nova had engaged SauceInk to carry out a variety of marketing efforts to increase Nova’s branding. They had contributed to the publicity for DreamGirl 2015, assisted with video editing, marketing and featuring contestants on their portal. The cost of the services was $9,620 but they had not demanded payment immediately. In August 2016, SauceInk held an event called Singapore Active Gaming at Marina Bay Sands in which Nova had provided the televisions, consoles, emcees and the backdrop. Nova had issued an invoice to SauceInk for $11,350. SauceInk had given Nova the Singapore Active Gaming project to enable Nova to repay the debt. The invoice had been processed by Mr Sng’s accountant, Jean, and the cheque was signed by Mr Xie and Mr Chee.
+
+217    Mr Xie’s testified that the agreement with SauceInk was made in good faith and in the best interests of Nova. The PIC Grant would have benefitted Nova if it had been approved. The digital marketing services provided by SauceInk was done for DreamGirls 2015 which was a Nova project at the material time. Mr Sng/Nova has not produced any evidence to show that Mr Xie had acted _mala fide_ and/or for any improper purpose in relation to Nova’s affairs in entering into the contracts with Sauce Networks and SauceInk.
+
+#### Denying Mr Sng’s request for access to Nova’s IT systems
+
+218    Nova’s complaint is that Mr Sng had been denied access to Nova’s IT systems, including Nova’s social media platforms, customer database, email accounts and web domain (collectively “IT Systems”). The allegation is that Mr Sng had written to Mr Xie on or around 22 July 2017 to request that Mr Xie grant Nova’s board of directors access to Nova’s IT Systems but Mr Xie had wilfully ignored and/or refused the request.
+
+219    Contrary to Nova/Mr Sng’s allegation, Mr Xie had replied to Mr Sng’s email of 22 July 2017 on 26 July 2017 stating that he did not have access to the website and email hosting and domain for Nova and that he only had access to his own email account. He had also suggested that Mr Sng check with Nova’s accountant, Jean, as all official documents would be with her.
+
+220    In his AEIC, Mr Xie had explained that the Nova website login details had been given to Mr Sng and Mr Chee. The evidence in the form of contemporaneous WhatsApp chat logs showing that the login information was communicated was exhibited.
+
+221    Nova has not adduced any contrary evidence to challenge Mr Xie’s testimony. As such, this aspect of Nova’s claim fails.
+
+#### Unapproved cash withdrawals from Nova’s bank account / petty cash fund
+
+222    Nova’s claim is that Mr Xie had caused cash withdrawals from Nova’s bank account and petty cash fund amounting to $13,446.73 which were unaccounted for and had not been approved by Mr Sng. A total of eight transactions were identified:
+
+> (a)     On the 14 December 2016, a sum of $1,500 was withdrawn with a cash cheque from Nova’s bank account. A Nova payment voucher for the amount of $1,500 was described as “_withdrawn cash from bank to top up petty cash_” and bore Mr Chee’s signature. The payment voucher indicated that the monies were withdrawn via DBS cash cheque no. 300149.
+
+> (b)     On 27 February 2017, a sum of $5,370 was withdrawn with a cash cheque from Nova’s bank account. A Nova Receiving Voucher No. 0028/17/RV/N dated 27 February 2017 for the amount of $5,370 was described as “_Received $5,370.00 from Nova’s Bank Account_” and bore Mr Chee’s signature.
+
+> (c)     On 2 March 2017, an amount of $1,000 was withdrawn by a cash cheque from Nova’s bank account. A Nova Receiving Voucher No. 0029/17/RV/N dated 2 March 2017 for the amount of $1,000 was described as “_Received $1,000.00 from Nova Bank Account_” and bore Mr Chee’s signature. The Receiving Voucher indicated that the monies were withdrawn via DBS cash cheque no. 300062.
+
+> (d)     On 13 March 2017, an amount of $1,000 was withdrawn by a cash cheque from Nova’s bank account. A Nova Payment Voucher no. 0204/17/PV/N dated 13 March 2017 for the amount of $1,000 was described as “_withdraw cash from bank to top up petty cash_” and bore Mr Chee’s signature. The Receiving Voucher indicated that the monies were withdrawn via DBS cash cheque no. 300064.
+
+> (e)     On 20 March 2017, an amount of $446.73 was withdrawn by a cheque no. 0300063 from Nova’s bank account. Nova does not have any record of this cheque.
+
+> (f)     On 24 March 2017, an amount $895.00 was withdrawn from Nova’s petty cash fund.
+
+> (g)     On 25 March 2017, an amount of $1,735.00 was attempted to be withdrawn by a cash cheque no. 0300067 from Nova’s Bank account. Nova has no record of this cash cheque. The cash cheque bounced due to insufficient funds in Nova’s bank account, resulting in a deduction of $40.00 as service charge for the returned cheque.
+
+> (h)     On 3 April 2017, a sum of $1,500.00 was withdrawn by a cash cheque no. 0300038 from Nova’s bank account, leaving an amount of $38.67 in Nova’s bank account. Nova has no record of this cash cheque.
+
+223    It is Nova’s case that Mr Xie had caused Mr Chee to sign off the various Payment Vouchers and Receiving Vouchers without Mr Sng’s knowledge or approval.
+
+224    Mr Xie denies any liability for any of the transactions. His defence is that where the vouchers bore Mr Chee’s signatures, it is Mr Chee who should explain what the withdrawals were for. Further, Nova had control measures in place for all expenses such that Mr Sng’s accountant had to approve the claims before any money is paid out.
+
+225    Mr Chee had testified in Court that he had signed the vouchers of his own volition. While this piece of evidence on its own could exculpate Mr Xie as a director for the five withdrawals which bore Mr Chee’s signature, in the present case, however, the onus is on Mr Xie to check and account to Nova on the withdrawals. This is because in the Directorship Agreement, Mr Xie is stated to be in charge of “business development and finance/bank account issues, bank account access and checking of bank balances”.
+
+226    Additionally, the evidence from the Whatsapp exchange indicates that Mr Xie had instructed Ms Yeo and Ms Kang to make the withdrawals to obtain petty cash to pay the part-timers who had helped out in the DWG conference, Visibility projects and FHG events[^112]. As these projects were subsequently billed to Exxigo, Mr Xie is liable to account for them.
+
+## Summary of findings in DC 2681
+
+227    In summary, Mr Xie is liable to Nova for having breached his fiduciary duty as a director in:
+
+> (a)     diverting business opportunities away from Nova to Exxigo and Otwo; and
+
+> (b)     causing various unaccounted cash withdrawals to be made from Nova’s bank account and petty cash fund.
+
+228    Exxigo and Otwo are liable to account to Nova for the profits and/or payments from the business opportunities diverted in their favour. There will be judgment in Nova’s favour against all three defendants. The Court will hear counsel on the specific prayers for relief, and the further orders and directions required given that the trial is bifurcated.
+
+## Conclusion
+
+229    In conclusion, Mr Sng and Nova have succeeded substantially in their claims in both actions.
+
+230    The Court will hear submissions on costs and further directions on a date to be fixed.
+
+* * *
+
+[^1]: DC/ORC 3352/2019 in DC 2684/2017 and DC/ORC 3351/2019 in DC 2681/2017
+
+[^2]: DC/ORC 3353/2019 in DC 2684/2017 and DC/ORC 3350/2019 in DC 2681/2017
+
+[^3]: Affidavit of evidence-in-chief (“AEIC”) of Sng Jing Xiang Benjamin (“PW3”) at paragraph 12 (“PW3’s AEIC \[12\]”)
+
+[^4]: PW3’s AEIC \[13\]
+
+[^5]: AEIC of Xie Shun Heng (“DW1”) at \[11\], \[17\], \[18\], \[20\] – \[23\]
+
+[^6]: Statement of Claim (Amendment No. 2) dated 28 January 2020 (“ASOC”) paragraphs 8, 9 and 9A (“ASOC \[8\], \[9\] and \[9A\]”)
+
+[^7]: Defence and Counterclaim (Amendment No. 3) (“ADCC”) at paragraph 9 (“ADCC \[9\]”); DW1’s AEIC at \[25\] – \[39\]
+
+[^8]: ADCC \[12\]
+
+[^9]: ADCC \[10\] – \[11A\]
+
+[^10]: ASOC \[10\]
+
+[^11]: PW3’s AEIC at pages 56 – 58
+
+[^12]: ASOC \[11\]
+
+[^13]: ADCC \[14\]
+
+[^14]: ADCC \[13\]
+
+[^15]: ADCC \[13a\]
+
+[^16]: ADCC \[13b\]
+
+[^17]: PW3’s AEIC at Tab-6 pages 75 to 81
+
+[^18]: DW1’s AEIC at \[7\]
+
+[^19]: PW3’s AEIC at \[7\]
+
+[^20]: PW3’s AEIC at \[15\]
+
+[^21]: PW3’s AEIC at \[16\]
+
+[^22]: PW3’s AEIC at paragraphs 17 and 18
+
+[^23]: PW3’s AEIC at paragraph 19
+
+[^24]: Plaintiffs’ Closing Submissions (“PCS”) at pages 66 to 75
+
+[^25]: Agreed Bundle of Documents at pages 854 to 859 (“ABD854 – 859”)
+
+[^26]: DW3’s AEIC at p 97
+
+[^27]: ABD239 – 249, 403, 600 and 1862
+
+[^28]: NE, 17 Mar 2020, 99/31 – 100/2
+
+[^29]: PCS \[7bi\], \[28\] and \[220\]; Notes of Evidence of 13 March 2020 page 123 lines 6 to 9 (“NE, 13 Mar 2020, 123/6 – 9”)
+
+[^30]: DW3’s AEIC at \[42\]
+
+[^31]: NE, 17 Mar 2020, 97/15 – 25
+
+[^32]: NE, 17 Mar 2020, 79/26 – 27
+
+[^33]: NE, 9 Sep 2020, 130/11 – 18
+
+[^34]: NE, 9 Sep 2020, 93/15 – 22
+
+[^35]: DW3’s AEIC at \[16\] to \[18\]
+
+[^36]: NE, 9 Sep 2020, 110/28 – 111/8; 115/31 – 116/10; NE, 10 Sep 2020, 68/6 – 71/15
+
+[^37]: Plaintiffs Further Submissions (“PFS”) at \[5\] to \[7\]
+
+[^38]: NE, 13 Mar 2020, 113/30 – 114/1
+
+[^39]: ABD563 – 564
+
+[^40]: NE, 10 Sep 2020, 93/28 – 94/2
+
+[^41]: NE, 10 Sep 2020, 66/18 – 21
+
+[^42]: NE, 10 Sep 2020, 63/24 – 64/29
+
+[^43]: NE, 10 Sep 2020, 70/29 – 71/3
+
+[^44]: NE, 30 March 2020, 34/13 – 20, 39/5 – 41/15
+
+[^45]: ADCC \[12\]
+
+[^46]: DW1’s AEIC at pages 194 - 197
+
+[^47]: DW1’s AEIC at \[38\] – \[40\]
+
+[^48]: NE, 16 March 2020, 6/3 – 6
+
+[^49]: NE, 16 March 2020, 3/27 – 4/2
+
+[^50]: ASOC \[8\], \[9\] and \[9A\]
+
+[^51]: ADCC at \[35\]
+
+[^52]: PW3’s AEIC at \[202\] – \[206\], and page 106
+
+[^53]: DCC3 at paragraphs 42 and 43
+
+[^54]: DW1’s AEIC at paragraph 107f
+
+[^55]: NE, 17 Mar 2020, 196/4 – 22
+
+[^56]: DW1’s AEIC at pages 149 to 160
+
+[^57]: ASOC \[35(d)\]; \[47\] – \[52\]
+
+[^58]: PCS \[176\] to \[181\]
+
+[^59]: DW1’s AEIC at \[107g\]
+
+[^60]: DW1’s AEIC at pages 168 to 184
+
+[^61]: DW1’s AEIC at \[107v\]
+
+[^62]: ASOC \[20(c)\]
+
+[^63]: ASOC \[33\]
+
+[^64]: ASOC \[57\] – \[61\]
+
+[^65]: PW2’s AEIC at \[28(b) to (d)\]
+
+[^66]: NE, 13 Mar 2020, 62/13 – 65/1
+
+[^67]: ASOC \[19\], \[20\]
+
+[^68]: DW1’s AEIC at pages 53 – 57; Agreed Bundle of Documents (“ABD”) pages 1755 to 1759
+
+[^69]: ABD2242 – 2252; PW3’s AEIC at pages 63 – 72
+
+[^70]: DW1’s AEIC at \[89\]
+
+[^71]: ABD2610
+
+[^72]: DW1’s AEIC at \[89c\]
+
+[^73]: DW1’s AEIC at \[89e\] and Tab J
+
+[^74]: NE, 13 Mar 2020, 88/5 – 24, 100/7 – 10
+
+[^75]: ASOC \[20\], \[28\] – \[30\]
+
+[^76]: ASOC \[31\]
+
+[^77]: ASOC \[77\]; PW3’s AEIC at paragraphs 125 – 126 and Tab 56
+
+[^78]: ASOC \[78\] – \[79\]; PW3’s AEIC at paragraphs 127 – 129 and Tab 57
+
+[^79]: ADCC \[69\], \[70\] and \[70A\]
+
+[^80]: ADCC \[73\] and \[74\]
+
+[^81]: DCS \[176\]
+
+[^82]: NE, 16 Mar 2020, 60/32 – 61/9
+
+[^83]: NE, 16 Mar 2020, 61/21 – 23
+
+[^84]: ASOC pages 25 to 28
+
+[^85]: NE, 9 Sep 2020, 31/21 – 39/15
+
+[^86]: NE, 9 Sep 2020, 28/25 – 30/13
+
+[^87]: NE, 9 Sep 2020, 23/14 – 25/25
+
+[^88]: PW3’s AEIC at pages 75 to 81
+
+[^89]: PW3’s AEIC at \[118\] – \[121\], \[124\]
+
+[^90]: PW3’s AEIC at Tab 55 page 221
+
+[^91]: DW4’s AEIC at \[31\] – \[35\]
+
+[^92]: PW3’s AEIC at \[12\] and \[13\]; NE 13 Mar 2020, 79/28 – 80/19
+
+[^93]: Statement of Claim (Amendment No 1) in DC 2681/2017 (“ASOC (Nova)”)
+
+[^94]: ASOC (Nova) \[16\] – \[17\]
+
+[^95]: ASOC (Nova) \[17c\]
+
+[^96]: ASOC (Nova) \[18\] – \[20\]
+
+[^97]: ASOC (Nova) \[23\], \[31A\], \[31B\], \[37\]
+
+[^98]: ASOC (Nova) paragraphs \[24\] – \[29\], 39
+
+[^99]: ASOC (Nova) paragraphs \[30\] – \[31\], \[41\]
+
+[^100]: ASOC (Nova) \[32\] – \[34\], \[43\]
+
+[^101]: ASOC (Nova) \[34A\], \[43B\]
+
+[^102]: DCS \[192\]
+
+[^103]: _Walter Woon on Company Law_ 3rd Ed (Rev) (Sweet & Maxwell 2009) p 315 \[8.55\]
+
+[^104]: DW1’s AEIC in DC 2681 at \[20\] to \[23\]
+
+[^105]: NE, 17 March 2020, 6/8 – 13/10
+
+[^106]: NE, 30 Mar 2020, 19/1 – 6
+
+[^107]: NE, 10 Sep 2020, 38/24 – 39/9
+
+[^108]: See also NE, 10 Sep 2020, 8/10 – 19
+
+[^109]: DW2’s AEIC at \[10\]
+
+[^110]: Nova’s statement of claim in DC 2681 at \[25\]
+
+[^111]: NE, 10 Sep 2020, 85/3 – 21
+
+[^112]: PCS at pages 85 to 86
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F26914-SSP.xml)
