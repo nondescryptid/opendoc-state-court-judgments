@@ -1,0 +1,220 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ GEE  
+
+### \[2022\] SGDC 14
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">DAC Nos. 940012-4 of 2018, Magistrates Appeal No. 9203/2021/01</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">13 January 2022</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">John Ng</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Lim Ying Min (Attorney-General's Chambers) for the Public Prosecutor; Kalaithasan s/o Karuppaya (Regent Law LLC) for the Accused.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — GEE</td></tr></tbody></table>
+
+Criminal LAW – Penal Code Section 354(2) – Outrage of Modesty
+
+Criminal Procedure and Sentencing – Sentencing – Penal Code Section 354(2) – Outrage of Modesty
+
+\[LawNet Editorial Note: An appeal to this decision has been filed in MA 9203/2021/01.\]
+
+13 January 2022
+
+### District Judge John Ng:
+
+## Introduction
+
+1       The Accused, male/36, was found guilty after a trial and convicted of the three charges in _DACs 940012-4/2018_ for two offences of Outrage of Modesty against a person under 14 years of age under Section 354(2) of the Penal Code (Cap 224, 2008 Rev Ed) (“Penal Code”) and one attempted Outrage of Modesty against the same person (“the victim”). There is a Gag Order in place to prevent the disclosure of the victim’s identity in view of the relationship of the Accused and the victim. The Accused was sentenced to a total imprisonment term of 30 months and 3 strokes of the cane. The Accused has filed an appeal against the conviction and sentence and is currently on bail.
+
+## Charges
+
+2       The three offences were committed when the victim – a boy of 12 years old – was having a sleepover at the home of the Accused, who was 32 years old at that time. The redacted three charges read as follows:
+
+> _DAC 940012/2018_,
+
+> “You are charged that you, on 15 June 2017, sometime in the afternoon, at \[_address redacted_\], did use criminal force on one \[_name of victim redacted_\] (male / then-12 years old, D.O.B: _redacted_), _to wit_, by using your hand to tap his penis over his shorts, intending to outrage the modesty of the said victim, and you have thereby committed an offence punishable under Section 354(2) of the Penal Code, Cap 224 (2008 Rev Ed).”
+
+> _DAC 940013/2018_,
+
+> “You are charged that you, on 15 June 2017, sometime in the afternoon, at \[_address redacted_\], did use criminal force on one \[_name of victim redacted_\] (male / then-12 years old, D.O.B: _redacted_), _to wit_, by inserting your hand into his shorts and underwear and touching his penis (skin-on-skin), intending to outrage the modesty of the said victim, and you have thereby committed an offence punishable under Section 354(2) of the Penal Code, Cap 224 (2008 Rev Ed).”
+
+> _DAC 940014/2018_,
+
+> “You are charged that you, on 16 June 2017, sometime in the early morning, at \[_address redacted_\], did attempt to use criminal force on one \[_name of victim redacted_\] (male / then-12 years old, D.O.B: _redacted_), _to wit_, by attempting to touch his penis over his shorts, intending to outrage the modesty of the said victim, and you have thereby committed an offence punishable under Section 354(2) read with Section 511 of the Penal Code, Cap 224 (2008 Rev Ed).”
+
+Two other charges – _MACs 911744-5/2018_ – were stood down.
+
+## Prosecution’s Case
+
+3       The Accused was a primary school teacher. The Accused became the Form Teacher of the victim in 2016 when he was in Primary Six. In the course of teaching and helping the victim as his student in preparing for the PSLE (Primary School Leaving Examinations), the Accused became very close to the victim and his family. He became the godfather of the boy in 2017 with the consent of the boy’s mother.
+
+4       The victim testified as PW2 in the trial. The victim’s mother testified as PW4. The key aspects of the Prosecution’s Case are as follows:
+
+> a.     PW2, 16 years old at the time of the trial, testified that when he was 12 years old and in Secondary 1, the Accused, his godfather, invited him to have a sleepover at the home of the Accused. PW2 accepted and the sleepover took place from noontime of 15 June 2017 to the next day 16 June 2017, during the school holidays. This was the only time that PW2 had a sleepover at the home of the Accused.
+
+> b.     PW2 testified that on 15 June 2017, after the mother of the Accused had left for work after lunch, when they were alone, the Accused spoke to him about sex education when they were at the living room. The Accused was seated on a sofa and PW2 sat on his lap. PW2 was wearing a shirt with shorts and underwear. The Accused spoke to him about masturbation and pornography and asked him the type of pornography he was interested in.
+
+> c.     In the course of the conversation, PW2 told the Accused that he had accidentally burnt his penis while playing with fire in 2013. During this conversation, the Accused tapped the penis of PW2 over his shorts. It was a quick tap and PW2 felt uncomfortable.
+
+> d.     The Accused asked if he felt any pain. He answered that he did not feel any pain as the incident for the injury had happened a long time ago. The Accused asked if he could see the injury but PW2 said no. The Accused did not insist and went to his bedroom to bring out his laptop.
+
+> e.     After retrieving his laptop, the Accused sat next to PW2 and asked PW2 about the website he had used to watch pornography. Both of them proceeded to watch a pornographic video for several minutes. After watching the video, the Accused told PW2 to go inside his bedroom. PW2 laid on the bed inside the bedroom and was playing a game on his mobile phone when the Accused entered the bedroom and laid next to him.
+
+> f.     PW2 was concentrating on his game when suddenly the Accused put his hand into his shorts and underwear and touched his penis for a few seconds. PW2 slapped the hand of the Accused away and told him that he was not gay. PW2 left the bedroom and went to the living room.
+
+> g.     To avoid being alone with the Accused, PW2 suggested that they go out to play soccer. They played soccer from about 4pm to 7pm at the nearby community centre. PW2 reminded the Accused of their plan to go to the Geylang Bazaar and they returned to the Accused’s home to take a shower. Back at the flat, the Accused asked PW2 to shower together but PW2 declined. After they had taken their showers separately, they left for Geylang Bazaar.
+
+> h.     After spending a few hours at Geylang Bazaar, PW2 suggested going to Old Changi Hospital as he did not want to return to the home of the Accused before the mother of the Accused was likely to be home after her work. PW2 did not want to be alone at the home of the Accused.
+
+> i.     After the trip to Old Changi Hospital, PW2 told the Accused he wanted to eat durian and they had durian before returning to the home of the Accused at about 2.45am.
+
+> j.     After washing up, the Accused and PW2 watched a movie and played games on their mobile phones while lying on the bed of the Accused. PW2 testified that he had laid on his stomach to make it more difficult for the Accused to touch his penis. After playing the games on their phones, they put their phones away in order to sleep.
+
+> k.     Shortly after, PW2 felt the hand of the Accused touch the zipper of his pants. PW2 quickly turned his body to face away from the Accused as he did not want the Accused to touch his penis. Nothing happened thereafter.
+
+> l.     PW2 stayed at the home of the Accused until the afternoon when they left at about 4pm to meet friends for dinner that evening. The dinner ended at about 7pm and the Accused sent PW2 home.
+
+5       PW2 told his mother that he wanted to report the sexual assault to the police but his mother stopped him. It was only when the school term resumed after the school holidays that the sexual assault was disclosed to his school counsellor on 27 June 2017, after the school had received information that the Accused was seen behaving inappropriately towards PW2 in a public place. A police report was lodged the following day.
+
+6       There was clearly a case for the Accused to answer and he elected to testify.
+
+## Defence’s Case
+
+7       The Accused denied molesting the boy. He testified that when they were in the living room on the day of the alleged incident, he had touched the top part of the bulge of the shorts that PW2 was wearing. This was done with the consent of PW2 and without any intent to outrage the modesty of the boy. The Accused had wanted to assess the seriousness of the injury after PW2 told him that he had accidentally burnt his penis two years ago in 2013.
+
+8       The Accused, however, denied the other allegations that he had put his hand inside the shorts of PW2 and touching his penis in the afternoon when they were in his bedroom, as well as any attempt to touch his groin later that night after they had returned from their outing.
+
+## Evaluation and Findings
+
+9       The following are my evaluation of the material evidence and the findings on relevant facts which led to the conviction of the Accused as charged.
+
+10     I accepted the evidence of PW2 on how he was molested by the Accused. PW2 was able to describe clearly what had happened on the day of the incidents. He came across as an honest witness with the forthright answers he gave in examination-in-chief and during the cross-examination.
+
+11     The truthfulness of PW2’s testimony that his penis was touched by the Accused was corroborated by the exchange of WhatsApp phone messages between PW2 and the Accused. The exchange of phone messages (as shown in Exhibit P25) on 19 June 2017 – three days after the sleepover – was as follows:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="20.4%"> <col width="79.6%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Sender</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Text</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">PW2</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>Can u stop touching my dick?</em></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Accused</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>Ok</em></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">PW2</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>And abt u putting ur hand inside my underwear</em></p><p align="justify" class="Table-Para-1"><em>istg it’s so disgusting and I’m not gay fgs</em></p><p align="justify" class="Table-Para-1">[Note: “<em>istg” – “i swear to god”</em>][“<em>fgs” – “for god’s sake”</em>]</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Accused</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>Ok</em></p><p align="justify" class="Table-Para-1"><em>I apologise for that</em></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">PW2</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>Ok</em></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Accused</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>We are both not</em></p><p align="justify" class="Table-Para-1"><em>I already said it that day</em></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">PW2</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>Ok</em></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Accused</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>I guess I just wanted u to understand the</em></p><p align="justify" class="Table-Para-1"><em>importance of what I was talking about</em></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">PW2</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>But don’t have to touch my dick</em></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Accused</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>Next time speak to me about this</em></p><p align="justify" class="Table-Para-1"><em>It’s not wrong for you to speak your mind</em></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">PW2</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>I feel so insecure after I came back home</em></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Accused</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>Earlier I mean</em></p><p align="justify" class="Table-Para-1"><em>If next time anything troubles you, speak to</em></p><p align="justify" class="Table-Para-1"><em>Me earlier</em></p><p align="justify" class="Table-Para-1"><em>Like I said, it’s not wrong</em></p><p align="justify" class="Table-Para-1"><em>It’s meant to be a discussion</em></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">PW2</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>Y u touch my dick?</em></p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Accused</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>I Guess I was trying to get your trust</em></p></td></tr></tbody></table>
+
+  
+  
+
+12     When confronted with this exchange of messages which corroborated PW2’s testimony that the Accused had put his hand inside PW2’s underwear and had touched his penis, the Accused claimed that he was not admitting in the messages to putting his hand inside the underwear or to the touching of the penis. This was clearly an untenable position on the part of the Accused. The messages between the Accused and PW2 were clear and unequivocal.
+
+13     The Accused’s purported reasons for saying that he did not admit to the touching the penis of PW2 did not make sense and is rejected by the court. Any attempt to twist the meaning of the messages was futile in the light of the sequences of the text messages and the clear words used by PW2 and the Accused in the exchange. I agree with the submissions of the Prosecution that the attempted explanations by the Accused on the messages are afterthoughts which had no leg to stand and could not be believed. I fully accepted the cogent arguments put up by the DPP at Paragraph 165 to Paragraph 172 and do not need to repeat them here.
+
+14     There was no motive for PW2 to fabricate the allegations against the Accused. There was no hint of any embellishment in his evidence. The evidence of the victim was internally and externally consistent.
+
+15     The Defence attacked the evidence of the victim on three major fronts:
+
+> a.     The Defence submitted that PW2 was inconsistent in his description of the tapping of the penis for the first charge. On the one hand, he said that the Accused had tapped his penis and then changed to say the Accused had a quick tap outside of his shorts.
+
+> b.     PW2 failed to draw attention or seek help after the incident on the 1st charge and after the more serious incident of the 2nd charge.
+
+> c.     The failure to make a police report soon after the incidents.
+
+16     These attacks on the evidence of PW2 were mounted without merit. The testimony of PW2 was not inconsistent. When PW2 mentioned that the Accused had a quick tap outside of his shorts, he was merely emphasizing that the tapping occurred outside the shorts and that there was no skin-on-skin contact for that first incident.
+
+17     The Prosecution submitted that the Defence is making a broad and sweeping generalisation of the victim’s post-incident actions or lack thereof. I accepted the Prosecution’s submission that the reasonableness of a victim’s behaviour and responses after a molest depends on the circumstances and specific facts of the case. The circumstances of this case were such that the Accused and the victim shared a very close relationship akin to that of a father and son. The acts of molest and attempted molest were carried out gradually and not done overtly. They were not traumatic or sudden in nature but a series of careful small steps. Therefore, the response of the victim was not incongruous with what had happened to him. The Accused was his godfather and had gained his trust over the years. The boy did not sense any danger or threat requiring him to take flight or seek help or refusing to continue the sleepover at his godfather’s home.
+
+18     Contrary to the Defence’s caricature of the boy, I found him to be an honest witness. The victim was also truthful in his evidence of the attempt by the Accused to take a shower together. The evidence of this suggestion of the Accused to bathe together was corroborated by the following exchange of messages which showed that PW2 was speaking the truth:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="20.4%"> <col width="79.6%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Sender</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Text</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">PW2</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>And u want to touch</em></p><p align="justify" class="Table-Para-1"><em>And then u want to shower with me</em></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Accused</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>That’s because u said your brothers shower with you</em></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">PW2</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>Like I said I’m only comfortable to do that with my Mom</em></p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Accused</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>Again it was to gain your trust</em></p></td></tr></tbody></table>
+
+  
+  
+
+### Consistency in the overall evidence
+
+19     The account of the incidents by PW2 to his mother, the school counsellor (PW8), the child protection officer (PW5) and the child psychiatrist (PW6) were materially consistent. Since what were told to these witnesses by PW2 emanated from PW2, the significance of the testimonies is not corroborative in nature. Such evidence of recipients of subsequent narration of the incidents are relevant in so far as they show either consistency or inconsistency in the material aspects of the evidence of PW2. I did not find any material inconsistencies in the testimony of PW2 and what he had subsequently told PW5, PW6 and PW8 about the incidents.
+
+20     PW2’s account to his mother after she had asked him how he was molested was more detailed and particularly consistent. He told her that the Accused had put his hand inside the pants and underwear and touched his penis. PW2 told her that he had pushed the hand of the Accused away and told him that he was not gay. PW2 told his mother that he wanted to report to the police but as she was busy with the criminal case of another son, she told him not to make the police report and to stay away from the Accused in the meantime.
+
+### Rejection of the Defence
+
+21     Accused denied molesting the victim. His counsel submitted that he was a truthful witness and that his version should be accepted. I did not agree for the following reasons:
+
+> a.     The Accused tried to deny that he had admitted touching the penis of the boy in the messages he had exchanged on the phone with the boy. The Accused’s attempts at denying the admission fell flat as his explanations were illogical and were also at odds with his police statement in P23.
+
+> b.     Question 14 of Exhibit P23 specifically referred to the messages about putting his hand inside the underwear. The Accused did not inform the police that his apologetic response to the boy telling him not to touch his penis was due to a miscommunication. In fact, the Accused understood that the boy was referring to the incident of him putting his hand inside the boy’s underwear and touching his penis and the Accused told the police that he had apologised to calm the boy down.
+
+> c.     The Accused tried to mislead the court in his testimony that any admission he might have made in the messages of the Accused putting his hand inside the underwear and touching the penis of the boy or similar references made in the police statement were meant to refer to the tapping of the penis on the outside of the shorts. As rightly submitted and shown by the DPP, these attempts by the Accused were afterthoughts and showed that the Accused had no qualms about making up evidence as the trial progressed.
+
+> d.     The Accused had given inconsistent accounts of whether he had touched the boy’s penis over the top of his shorts. In his evidence-in-chief, the Accused testified that he only slightly brushed the top of the bulge of the victim’s shorts and the victim was in pain. Under cross-examination by the DPP, the Accused changed his evidence to “I was close to touching, so I think I did not touch.” In the police statements (Exhibit P22 and P23) given by the Accused, he told the police that he had placed his hand on the victim’s penis outside his shorts with the consent of the boy. The Accused had clearly prevaricated in his evidence on this material aspect of his defence.
+
+> e.     The Accused had also given inconsistent accounts of how the boy had given his consent for the Accused to touch his penis. The Accused testified that he had asked the boy if it was okay to touch above the boy’s shorts and he said “okay”. In his police statement P22, he said that he had placed his hand on the victim’s private part areas outside his shorts after he asked the boy why he had used a lighter to burn his penis. There was no mention of the Accused asking the boy for consent before the act of placing his hand on his shorts.
+
+> f.     The Accused was also shown to be lying to avoid the calls he was getting from the mother of the victim. He had lied to the boy that he was in the hospital and wearing an oxygen mask and being hooked onto a breathing machine. The Accused had initially maintained in court that he was really in the hospital and was not trying to avoid the boy’s mother. However, he was shown to be a liar when the DPP produced documentary evidence that he was never warded in the hospital at all. The Accused showed himself to be a person capable of telling lies if he was able to get away with it. He was also a person who would not come clean until and unless his lie had been exposed.
+
+22     The Accused’s version of the incidents was tested by the Prosecution during the cross-examination and the Accused was shown to be an unreliable witness. The various claims of the Accused were meticulously taken apart by the DPP and shown to be inconsistent and inconceivable.
+
+### No reasonable doubt in this case
+
+23     After a review of the evidence in this case, I am satisfied that the boy was a truthful witness. I found his evidence to be cogent and reliable. There was internal consistency in his testimony. The events after the incidents were also consistent with what he said had happened during the incidents.
+
+24     On the other hand, I found the Accused to be evasive and his evidence to be unreliable. Nevertheless, the burden of proof is always on the Prosecution and it is not for the Accused to show that his version is to be believed. Based on the totality of the evidence adduced in the course of this trial, I was satisfied that the charges against the Accused had been proven beyond a reasonable doubt by the Prosecution. Therefore, I had found the Accused guilty as charged.
+
+## Antecedents
+
+25     The Accused has no criminal record.
+
+## Submissions on sentence
+
+### Prosecution’s submissions
+
+26     The DPP drew guidance from the case of _GBR v Public Prosecutor_ <span class="citation">\[2018\] 3 SLR 1048</span> (“**GBR**”) decided by Justice See Kee Oon in her sentencing submissions. In that judgment, Justice See set out a sentencing framework for the outrage of modesty of persons under 14 years of age. The Prosecution submitted, based on that sentencing framework, a global sentence of 31 to 34 months of imprisonment with 5 strokes of the cane.
+
+27     The DPP highlighted that the sentencing principles applicable to this case are Deterrence and Retribution.
+
+28     The Prosecution placed the present case within Band 2 of the **GBR** sentencing framework. The DPP put forth the following factors in support:
+
+> a.     There was an abuse of a position of trust. The Accused was the victim’s former primary school form teacher and later became his godfather. This was the most aggravating feature in this case. It was undisputed that the Accused shared a close father-son relationship with the boy and he was treated like a member of the family of the boy.
+
+> b.     There was a high degree of premeditation and planning. The actions of the Accused were not opportunistic but were committed after planning. He created the opportunity of a sleepover and set the stage by asking the victim about pornography and masturbation under the guise of sex education.
+
+> c.     The offences had impacted the victim greatly. The victim became insecure, more sensitive and easily angered. He had suicidal and self-harm thoughts and had trust issues. He even got his arm tattooed with the words: “Trust no one.”
+
+### Mitigation
+
+29     A written plea in mitigation (“Mitigation”) was submitted. Other than the Accused being a first offender, there was little mitigatory factors to be found for the Accused in this case. Counsel subsequently put in the Submissions on Sentence and agreed that the case fell within Band 2 of the **GBR** framework and sought for a global sentence of 24 to 28 months of imprisonment and 3 strokes of the cane.
+
+## Sentence
+
+30     The offence under Section 354(2) of the Penal Code is punishable with imprisonment of up to 5 years, or with fine, or with caning, or with any combination of such punishments. The offence of Outrage of Modesty is a serious offence. When it is committed against a person under 14 years of age, it is repugnant. The Accused had not shown any remorse and was convicted after a trial. There were several aggravating factors for the offences committed, therefore a substantial total custodial sentence was justified.
+
+31     The dominant sentencing principles in this case are Deterrence and Retribution. The case of **GBR** set out the sentencing approach for offences under s354(2) as follows:
+
+> a.     First, the court should consider the following offence-specific factors: (i) the degree of sexual exploitation; (ii) the circumstances of the offence; and (iii) the harm caused to the victim.
+
+> b.     Based on the consideration of these offence-specific factors, the court then ascertains the gravity of the offence and places the offence within the following three bands of imprisonment and caning:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="14.58%"> <col width="31.42%"> <col width="54%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Band</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Sentencing Range</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Factors</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Band 1</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Less than one year’s imprisonment.</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Cases at the lowest end of the spectrum of seriousness, which do not present any (or at most one) aggravating offence-specific factors.</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Band 2</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">One to three years’ imprisonment.</p><p align="justify" class="Table-Para-1">Caning of 3 strokes as a starting point.</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Cases where two or more aggravating offence-specific factors are present. The higher end of the band involves cases where there is skin-to-skin contact with the victim’s private parts.</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Band 3</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Three to five years’ imprisonment.</p><p align="justify" class="Table-Para-1">Caning of 6 strokes as a starting point.</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Cases of most serious instances of aggravated outrage of modesty involving numerous offence-specific factors such as those involving the exploitation of particularly vulnerable victims, serious abuse of a position of trust and/or the use of violence.</p></td></tr></tbody></table>
+
+  
+  
+
+> c.     Finally, the court considers offender-specific factors which are either aggravating or mitigating.
+
+32     The key sentencing factors in this case are:
+
+> a.     The abuse of a position of trust. It is not in dispute that the Accused had shared a father-son relationship with the boy. Instead of protecting the boy, the Accused had betrayed the trust of the boy in him and gave sway to his sexual desires.
+
+> b.     There was premeditation and planning. The Accused created the opportunity to be with the boy by initiating a sleepover. When the Accused was alone with him in the home of the Accused, he ventured into the subject of pornography under the pretext of sex education. The Accused’s actions were deliberate and not opportunistic. This reflected a higher culpability.
+
+> c.     The offences had affected the victim negatively. After the incident, the victim became insecure and easily angered. He got a tattoo on his arm saying: “Trust no one”. He had found difficulty to trust people after being betrayed by the Accused, who had been like a father to him.
+
+> d.     There are no mitigating factors. The fact that the Accused was a first offender carried little weight in the circumstances of this case.
+
+33     Based on the sentencing factors in this case of Outrage of Modesty Against Person Below 14 years of age, I am satisfied that the case falls within Band 2 of the guideline sentencing framework for offences under Section 354(2) Penal Code as laid down in the case of **GBR.** The sentencing range in Band 2 is from one to three years of imprisonment and caning of three strokes as a starting point.
+
+34     After considering the respective submissions on sentence by the Prosecutor and Defence Counsel, I am satisfied that the appropriate punishment is a total sentence of 30 months’ imprisonment and 3 strokes of the cane. In imposing 3 strokes of the cane instead of the 5 strokes as suggested by the DPP, I accepted the submissions of counsel that the degree of sexual exploitation was at the lower end and the starting point of 3 strokes would be appropriate. The individual sentences imposed were as follows:
+
+> a.     DAC 940012/2018 – 12 months (concurrent)
+
+> b.     DAC 940013/2018 – 24 months and 3 strokes (consecutive)
+
+> c.     DAC 940014/2018 – 6 months (consecutive) for the Attempt Charge
+
+## Conclusion
+
+35     When the perpetrator of a sexual offence against a child is an authoritative figure of that child, the commission of the offence takes on a heinous element which is highly aggravating to say the least.
+
+36     The Accused was the godfather of the victim at the time of the molest incidents. The boy first knew the Accused when he was a teacher in his primary school. The Accused subsequently became the Form Teacher of the boy when he was in Primary Six. He became the godfather of the boy after helping the boy in his studies and getting acquainted with the boy’s family and gaining their trust.
+
+37     The boy was a Secondary One student in a different school at the time of the alleged offences. Although the victim was no longer a student of the Accused by this time, they still shared a very close relationship, having moved from teacher-student to godfather-godson. There was evidence of manipulation and emotional blackmail by the Accused in the course of their relationship. The Accused had shown no remorse and was totally unrepentant despite the irrefutable evidence against him for which there was no reasonable doubt of his guilt.
+
+38     The sentence of 30 months of imprisonment and 3 strokes of the cane was imposed in view of all the sentencing factors submitted by the Prosecution which I had fully accepted. The sentence of imprisonment has been stayed pending the appeal. The Accused is currently on bail.
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F27058-SSP.xml)

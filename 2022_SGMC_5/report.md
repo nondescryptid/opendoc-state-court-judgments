@@ -1,0 +1,179 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Chua Chuan Thye and another  
+
+### \[2022\] SGMC 5
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">MCN-901393-2021 &amp; MCN-901394-2021, Magistrate's Appeal Nos. 9283-2021-01 &amp; 9284-2021-01</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">12 January 2022</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">Magistrates Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Tan Jen Tse</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">DPP Kwang Jia Min for the Public Prosecutor; David Siow (JusEquity Law Corporation) for both accused</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Chua Chuan Thye — Chua Chuan Joo</td></tr></tbody></table>
+
+Criminal procedure and sentencing – Sentencing
+
+\[LawNet Editorial Note: An appeal to this decision has been filed in MA 9283/2021/01 and MA 9284/2021/011.\]
+
+12 January 2022
+
+### District Judge Tan Jen Tse:
+
+## Introduction
+
+1       The accused persons, Chua Chuan Thye, male, 52 years (“Chuan Thye”) and Chua Chuan Joo, male 53 years, (“Chuan Joo”), pleaded guilty to an offence punishable under s 323 read with s 34 of the Penal Code (Cap 224, 2008 Rev Ed). They had, in furtherance of their common intention, caused hurt to Muhammad Ridzuan Bin Mohammad Yusof (“the victim”) by punching and kicking him repeatedly.
+
+2       They were each sentenced to two weeks’ imprisonment. They have appealed against sentence and have been released on bail pending appeal.
+
+## The charges
+
+3       The charge against Chuan Thye was as follows:-
+
+> **Charge (Amended) (MCN-901393-2021)**
+
+> are charged that you, on the 6th day of January 2021, at about 3.21pm, at 52 Ubi Avenue 3, Frontier Building, Singapore, together with one Chua Chuan Joo, and in furtherance of the common intention of you both, did voluntarily cause hurt to one Muhammad Ridzuan Bin Mohammad Yusof, to wit, by punching and kicking the said Muhammad Ridzuan Bin Mohammad Yusof repeatedly, and you have thereby committed an offence punishable under Section 323 read with Section 34 of the Penal Code (Cap 224, 2008 Rev Ed).
+
+4       The charge against Chuan Joo stated:-
+
+> **Charge (Amended) (MCN-901394-2021)**
+
+> are charged that you, on the 6th day of January 2021, at about 3.21pm, at 52 Ubi Avenue 3, Frontier Building, Singapore, together with one Chua Chuan Thye, and in furtherance of the common intention of you both, did voluntarily cause hurt to one Muhammad Ridzuan Bin Mohammad Yusof, to wit, by punching the said Muhammad Ridzuan Bin Mohammad Yusof repeatedly, and you have thereby committed an offence punishable under Section 323 read with Section 34 of the Penal Code (Cap 224, 2008 Rev Ed).
+
+## Joint Statement of Facts
+
+5       The accused persons admitted to the Joint Statement of Facts (“SOF”) without qualification:-
+
+**JOINT STATEMENT OF FACTS**
+
+> 1.    The accused persons are:
+
+>> a.    Chua Chuan Thye, male, aged 52 years old (date of birth: 18 July 1969), bearing NRIC No. XXX, a Singapore Citizen (“Chuan Thye”); and
+
+>> b.    Chua Chuan Joo, male, aged 53 years old (date of birth: 23 July 1968), bearing NRIC No. XXX, a Singapore Citizen (“Chuan Joo”).
+
+> 2.    At the material time, Chuan Thye and Chuan Joo were running a family business, operating at 52 Ubi Avenue 3, Frontier Building, #01-40, Singapore 408867.
+
+> 3.    The complainant is Muhammad Ridzuan Bin Mohammad Yusof, a 32-year-old male. At the material time, the complainant was working as a deliveryman under the employment of DHL Express Singapore.
+
+> **FIRST INFORMATION REPORT**
+
+> 4.    On 6 January 2021, at about 3.25pm, the complainant called the Police, stating “Painting. 2 person hit me. My van was blocking and he scold my father. I working DHL. He is here. He punch me.” The incident location was reported to be 52 Ubi Avenue 3, Frontier Building, #01-29, Singapore 408867 (“the Incident Location”).
+
+> **FACTS PERTAINING TO THE CHARGE – MCN-901393-2021 (Chua Chuan Thye) & MCN-901394-2021 (Chua Chuan Joo)**
+
+> 5.    On 6 January 2021, at about 3.21pm, the complainant drove his van and arrived outside the Incident Location. He then parked his van directly outside the unit, alighted, retrieved a parcel from his van and went to the unit to make a delivery.
+
+> 6.    At the material time, Chuan Joo was in a lorry which was parked directly behind the complainant’s van. As the complainant’s van was blocking his way, Chuan Joo could not drive forward. When Chuan Joo sounded his horn to alert the complainant, the complainant gestured at him, requesting that he wait for him to complete his delivery.
+
+> 7.    However, Chuan Joo continued sounding his horn, and this prompted the complainant to approach him. Chuan Joo alighted from his lorry and confronted the complainant, asking if the road belonged to the complainant’s father. An argument then ensued between the two of them.
+
+> 8.    At this juncture, Chuan Thye, who was in the vicinity, approached Chuan Joo and the complainant. All of a sudden, without saying a word, Chuan Thye punched the complainant on his face. Thereafter, in furtherance of the common intention of Chuan Thye and Chuan Joo to cause hurt to the complainant, Chuan Joo threw several punches at the complainant’s face, and continued doing so even as the complainant backed away from him. A passer-by tried to stop Chuan Thye and Chuan Joo from attacking the complainant by standing between them. Despite this, they chased after the complainant. Chuan Thye rained punches and kicks on the complainant, while Chuan Joo rained punches on the complainant. They continued doing so even after the complainant fell to the ground.
+
+> 9.    Chuan Thye and Chuan Joo only stopped attacking the complainant after another passer-by intervened and separated the parties.
+
+> 10.    The incident, which lasted for about one minute, was captured by a closed circuit television camera.
+
+> 11.    According to the medical report prepared by Dr Edgar Azada Salandanan of Changi General Hospital dated 22 January 2021, as a result of the incident, the complainant suffered contusions on his left shoulder, right jaw and left lower back. He was treated as an outpatient, prescribed with medication and given three days of medical leave.
+
+> 12.    By virtue of the foregoing,
+
+>> a.    Chuan Thye, together with Chuan Joo, in furtherance of the common intention of the two of them to cause hurt to the complainant, did punch and kick the complainant repeatedly,
+
+>> b.    Chuan Joo, together with Chuan Thye, in furtherance of the common intention of the two of them to cause hurt to the complainant, did punch the complainant repeatedly,
+
+> thereby causing the complainant to suffer contusions on his left shoulder, right jaw and left lower back. 13. Chuan Thye and Chuan Joo have thereby each committed an offence punishable under Section 323 read with Section 34 of the Penal Code (Cap 224, 2008 Rev Ed).
+
+## Antecedents
+
+6       Chuan Thye had no antecedents.
+
+7       Chuan Joo had a dated antecedent. In 1991, he was fined $300 for an offence of affray. The prosecution indicated that they were not relying on this and no weight was placed on his antecedent.
+
+## Consideration of sentence
+
+8       The prescribed punishment for an offence punishable under s 323 read with s 34 of the Penal Code is a term of imprisonment which may extend to three years, or with a fine which may extend to $5,000, or with both.
+
+9       The dominant sentencing consideration would be the need for deterrence and retribution. The prosecution submitted for a sentence of two to three weeks’ imprisonment, while the defence submitted for a fine.
+
+### Sentencing approach
+
+10     In sentencing the accused persons, the two-step sentencing process for s 323 offences set out in _Low Song Chye v Public Prosecutor_ <span class="citation">\[2019\] SGHC 140</span> (_“Low Song Chye”_) applied. See Kee Oon, J stated at \[78\]:-
+
+> \[I\]n sentencing an offender under s 323 of the Penal Code, the court should therefore undertake a two-step inquiry:
+
+>> (a)    First, the court should identify the sentencing band and where the particular case falls within the applicable indicative sentencing range by considering the hurt caused by the offence. This would allow the court to derive the appropriate indicative starting point.
+
+>> (b)    Next, the court should make the necessary adjustments to the indicative starting point sentence based on its assessment of the offender’s culpability as well as all other relevant factors. This may take the eventual sentence out of the applicable indicative sentencing range. The aggravating and mitigating factors identified in _BDB_ at \[62\] to \[70\] and \[71\] to \[75\] respectively are relevant at this step.
+
+### The injuries fell at the middle to upper end of Band 1
+
+11     Although the hurt caused to the victim was relatively minor, it was not insignificant. He suffered contusions to his left shoulder, right jaw and left lower back and was given three days’ medical leave. The hurt caused fell within Band 1 of _Low Song Chye_. This band applied to cases where there was low harm, no visible injury or minor hurt such as bruises, scratches, minor lacerations or abrasions. The indicative sentencing range for Band 1 as set out in _Low Song Chye_ would be fines or short custodial terms of up to four weeks’ imprisonment.
+
+12     In my assessment, the hurt caused fell in the middle to upper end of Band 1. While each injury was relatively minor, the victim sustained three documented injuries, one of which was to his facial region. According to the medical report from Changi General Hospital dated 22 January 2021, the victim complained of pain to his left collarbone, left shoulder, left lower back, both cheeks and jaw. In view of the multiple injuries, I was not inclined to agree with the defence that this case fell at the lower end of Band 1.
+
+13     The appropriate indicative starting point based on the hurt caused would be in the range of a high fine to a short custodial sentence. However, various aggravating factors indicated that the custodial threshold had been crossed.
+
+### Calibration of sentence
+
+#### This case involved road rage violence
+
+14     The prosecution submitted that the case was aggravated as it involved road rage violence, while the defence submitted that this was not a “classic typical road rage case”.[^1]
+
+15     The issue of what constituted road rage violence was considered in _Public Prosecutor v Lim Yee Hua_ <span class="citation">\[2018\] 3 SLR 1106</span> (“_Lim Yee Hua_”). Chan Seng Onn, J stated at \[21\]:-
+
+> 21    In my view, an incident of violence should be labelled as an episode of road rage violence only where the facts disclose violence perpetrated by road users as a result of real or perceived slights by other road users stemming from differences that arise in the course of the shared use of our roads. The litmus test for whether the deterrent sentencing policy associated with road rage offences should apply for a particular offence of violence is thus whether the violence originates from differences arising through common road use. In other words, the harsh deterrent sanctions for road rage incidents only apply when road users engage in violence _specifically_ over disputes that arise from the shared use of our roads. It follows that where incidents of violence happen to break out on the roads, but the cause of the violence has _no nexus to the parties’ shared use of the roads_, the road rage deterrent sentencing policy should _not_ apply.
+
+16     The prosecution submitted that differences arose over how the victim parked his van. The same position was also adopted by the defence. Defence counsel conceded, “This was actually a dispute between 2, 3 parties pertaining to the – arising from the parking of the vehicle.”[^2] In my assessment, this was properly regarded as a road rage case, since the violence originated from differences arising from common road use i.e., the way the victim parked his van caused unhappiness.
+
+17     The defence contended that this was not a road rage case as the dispute related to how the victim parked his vehicle and not how he drove.[^3] This was a spurious distinction, since driving and parking a vehicle would be integral parts of the driving process. This submission also paid no heed to the test for road rage violence as set out in _Lim Yee Hua_.
+
+18     Counsel further suggested that this was not a road rage case as “the assault took place because of arguments subsequently between parties.”[^4] However, as the defence had conceded, this was a dispute over how the victim parked his vehicle. Nothing in the SOF or the pleas-in-mitigation suggested that the parties argued over any other issue. The operative cause of the use of violence was therefore, the unhappiness over how the victim parked his van.
+
+19     Chuan Joo was unhappy that the victim parked his van in an obstructive manner, despite being alerted not to park there.[^5] He sounded his horn incessantly, which prompted the victim to approach him. Even if the victim confronted Chuan Joo over the use of his horn, this was inextricably linked to how the victim parked his vehicle, since Chuan Joo had expressed his displeasure by sounding his horn. When Chuan Joo alighted from his lorry, he even asked the victim if the road belonged to his grandfather.[^6] This clearly showed that the issue of how the victim parked his van was still playing on his mind.
+
+20     It should be noted that shortly before the confrontation between Chuan Joo and the victim, another van which was obstructing the driveway moved off, leaving the driveway passable to traffic. Chuan Joo thus had the option of continuing his journey by driving past the victim’s van, but he chose not to.[^7] Instead, he came out of his lorry to engage the victim over his parking.
+
+21     In Chuan Thye’s case, he came out of his unit as he heard the sound of a horn along the driveway. He noticed that Chuan Joo wanted to exit the building, but that he had been blocked by the victim’s vehicle. He also noticed that when the victim returned, he did not immediately drive the van away but went to confront Chuan Joo. He then walked towards the parties.[^8] Chuan Thye would have known that there was a dispute over how the victim parked his vehicle. He chose to get involved in this dispute and threw the first punch.
+
+22     Taking into account all the circumstances, I found that this was a case involving road rage violence as there was a sufficient nexus between how the victim parked his van and the subsequent use of violence. This violence originated from differences arising through common road use. The accused persons engaged in violence specifically over this dispute. The harsh deterrent sentencing policy for road rage cases would therefore apply.
+
+#### Other aggravating factors
+
+23     Even if this could not properly be regarded as a road rage case, other aggravating factors indicated that the custodial threshold had been crossed as the accused persons bore a high culpability. The factors which showed this included:-
+
+> (a)     The accused persons used violence in a public place. Public disquiet was caused. Two passers-by intervened to try to stop the assault;
+
+> (b)     This was a group attack where the victim was outnumbered;
+
+> (c)     The attack was prolonged. It lasted for about a minute during which the victim was punched and kicked repeatedly; and
+
+> (d)     There was a persistent use of violence. The accused persons continued to attack the victim, even when a passer-by stood between them and the victim to try to prevent further violence. They chased the victim and continued to punch and kick him when he fell to the ground. The accused persons thus displayed a high level of aggression.
+
+### Pleas-in-mitigation
+
+24     In sentencing the accused persons, I took into account the factors raised in their respective pleas-in-mitigation. They were remorseful and had pleaded guilty at an early opportunity. They offered to compensate the victim. They had no relevant antecedents. Counsel stated that the offence was out of character.
+
+25     I accepted the submission that the violence occurred in the heat of the moment. However, the accused persons had a chance to reflect and stop their attack when the passer-by intervened. However, they chose to continue their assault on the victim.
+
+## Conclusion
+
+26     The sentencing precedents tendered by the prosecution showed that for offences involving group attacks, sentences of between 3 to 10 weeks’ imprisonment were imposed. These cases involved facts which were not similar and were of no precedent value.
+
+27     Overall, I was of the view that the custodial threshold had been crossed and that a short custodial sentence would be appropriate. In this respect, the prosecution’s submission for a sentence of two to three weeks’ imprisonment was reasonable.
+
+28     Considering the mitigating factors, in particular, the remorse expressed by the accused persons, I imposed a sentence of two weeks’ imprisonment on each of them. This was proportional to the offence committed and cannot be said to be manifestly excessive.
+
+* * *
+
+[^1]: NE 15 December 2021 (“NE”), page 13, line 11.
+
+[^2]: NE, page 13, lines 16-19.
+
+[^3]: NE page 13, lines 16-19.
+
+[^4]: NE page 13, lines 28-30.
+
+[^5]: Chuan Joo’s plea-in-mitigation at \[4\].
+
+[^6]: SOF at \[6\]-\[7\].
+
+[^7]: NE page 6, lines 15-21.
+
+[^8]: Chuan Thye’s plea-in-mitigation at \[5\]-\[6\].
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F27039-SSP.xml)

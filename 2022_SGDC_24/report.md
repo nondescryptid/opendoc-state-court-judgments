@@ -1,0 +1,162 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Edmund Kam Wei Liang  
+
+### \[2022\] SGDC 24
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">District Arrest Case No 923438 of 2020 &amp; Ors, Magistrate's Appeals No 9002 of 2022 - 01</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">08 February 2022</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Kok Shu-en</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">DPP Samuel Chew (Attorney-General's Chambers) for the Public Prosecutor; S Ramanujen (Amarick Gill LLC) for the Accused.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Edmund Kam Wei Liang</td></tr></tbody></table>
+
+Criminal Procedure and Sentencing – Sentencing
+
+Criminal Law – Penal Code – Rioting – False information
+
+Criminal Law – Societies Act
+
+\[LawNet Editorial Note: An appeal to this decision has been filed in MA 9002/2022/01.\]
+
+8 February 2022
+
+### District Judge Kok Shu-en:
+
+## Introduction
+
+1       The accused is a 23 year old male Singaporean who pleaded guilty to 4 charges and gave his consent for another 5 charges to be taken into consideration for the purposes of sentencing:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="22.5%"> <col width="62%"> <col width="15.5%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Charge</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Offence section</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Position</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC-923438-2020</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Section 147 Penal Code (Cap 224, Rev Ed 2008) Rioting</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Proceed</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">MAC-900002-2021</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Section 182 Penal Code False information to public servant</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Proceed</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC-923440-2022</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Section 14(3) Societies Act (Cap 311, Rev Ed 2014) Being member of an unlawful society</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Proceed</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC-923439-2022</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Section 14(3) Societies Act (Cap 311, Rev Ed 1985) Being member of an unlawful society</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">TIC</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">MAC-900003-2021</p></td><td align="left" class="br" rowspan="2" valign="top"><p align="justify" class="Table-Para-1">Reg 6 COVID-19 (Temporary Measures) (Control Order) Regulations 2020 (“COVID-19 Regulations”) p/u Section 34(7)(a) COVID-19 (Temporary Measures) Act 2020 (No. 14 of 2020) (“COVID-19 Act”)</p><p align="justify" class="Table-Para-1">Meeting another individual not living in the same place of residence for any social purpose</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Proceed</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">MAC-900004-2021</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">TIC</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">MAC-900005-2021</p></td><td align="left" class="br" rowspan="2" valign="top"><p align="justify" class="Table-Para-1">Reg 4 COVID-19 Regulations p/u Section 34(7)(a) COVID-19 Act</p><p align="justify" class="Table-Para-1">Leaving ordinary place of residence in Singapore</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">TIC</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">MAC-900006-2021</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">TIC</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">MAC-903746-2021</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Section 267B Penal Code</p><p align="justify" class="Table-Para-1">Affray</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">TIC</p></td></tr></tbody></table>
+
+  
+  
+
+2       I sentenced the accused to a total sentence of 17 months’ and 5 weeks’ imprisonment and a fine of $4,000 (in default 16 days’ imprisonment).
+
+3       The accused is dissatisfied with the sentence and has filed an appeal.
+
+## Facts
+
+### Rioting charge
+
+4       On 18 November 2018 at about 4.30am, the accused and a group of 7 other individuals (“the accused’s group”) were drinking at a club. The victim, a 26-year old male Singaporean, and two friends (“the victim’s group”) were also at the same club for drinks at a separate table.
+
+5       The two groups first came into conflict when one of the victim’s group bumped shoulders with one of the accused’s group, one Tan Hong Sheng, prompting Hong Sheng to challenge the victim’s friend to a fight. The victim’s group enquired with the club’s manager about the identity of the accused’s group and was informed by the club’s manager that the accused’s group were members of the “Pak Hai Tong” Triad Society. At the victim’s request, the manager assisted to resolve tensions between the groups by asking the accused’s group to forget about the shoulder bumping incident, which the accused’s group agreed to.
+
+6       Shortly after, the same two individuals from the earlier conflict engaged in a staring match, which culminated in Hong Sheng approaching the victim’s friend aggressively. The rest of the accused’s group, including the accused, followed behind Hong Sheng in readiness to support him if he attacked the victim’s friend. Another challenge to fight was issued by the accused’s group.
+
+7       At this juncture, the victim who was returning from the restroom attempted to intervene in the confrontation. One of the accused’s group reacted to this by punching the victim’s face. The accused and other members of the accused’s group joined in by punching and kicking the victim multiple times on his face and body. The victim fell to the ground after being tripped by one of the accused’s group, and the accused’s group continued to kick his face and body while he was on the ground. Other members of the accused’s group also used glass Martell bottles and beer buckets to hit the victim’s head and body multiple times. The assault on the victim lasted for around 3 minutes, ending only when the club’s staff managed to push back the accused’s group.
+
+8       As a result of the assault, the victim sustained multiple bruises and hematoma over his scalp and forehead, and a 1cm laceration at the dorsum right hand. The laceration was toileted and sutured, and he was issued with 3 days of outpatient medical leave with oral analgesia.
+
+### Reg 6 COVID-19 Regulations charge
+
+9       On 10 May 2020 at about 7pm, the accused met one Kang Yan Qing and one Teo Shou Ren for a meet-up session at a place that was outside of the accused’s ordinary place of residence. Neither Kang nor Shou Ren lived in the same place as the accused at the material time.
+
+### False information charge
+
+10     On this same occasion on 10 May 2020, Shou Ren hit one Teo Jia Wei and used a knife to slash all over Jia Wei. The accused did not participate in the assault though he witnessed the incident. After the assault, the accused and Shou Ren left the incident location together.
+
+11     The accused was arrested the next day for his suspected involvement in the assault on Jia Wei, and a statement was recorded from him by a police officer holding the rank of Inspector. In this statement, the accused informed the officer that he did not see Shou Ren use a weapon during the assault on Jia Wei. He knew that this information that he provided to the police officer was false and knew it to be likely that by providing this false information, he would cause the police officer to omit conducting investigations against Shou Ren for an offence of causing hurt with a dangerous weapon.
+
+12     The accused subsequently admitted in a further statement given on 19 May 2020 that he did see Shou Ren carry a weapon behind his back when he attacked Jia Wei. Shou Ren was eventually charged for an offence of voluntarily causing hurt by a dangerous weapon under Section 324 of the Penal Code.
+
+### Member of an unlawful society charge
+
+13     From 28 February 2014 and 7 October 2020, the accused was a member of the “Pak Hai Tong” Triad Society of the “Ji It” Group operating in Singapore. “Pak Hai Tong” Triad Society is not a registered society under the Societies Act and is therefore an unlawful society.
+
+## Antecedents
+
+14     The accused was placed on 15 months of probation on 13 August 2013 for the offence of being a member of an unlawful assembly under Section 143 of the Penal Code.
+
+## Parties’ submissions
+
+15     Before me, parties were not far apart in their sentencing positions.
+
+16     The Prosecution sought a global sentence of 20 months’ imprisonment and a fine of between $4,000 and $6,000.
+
+17     The Defence had sought a global sentence of 15 to 16 months’ imprisonment in their written submissions but clarified in oral submissions that this was in relation to the rioting charge only, and that the global term that they were submitting for was in fact 17 to 18 months’ imprisonment and a fine.
+
+18     The individual sentences sought are set out in the following table:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="0"><colgroup><col width="14.82%"> <col width="22.16%"> <col width="31%"> <col width="32.02%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Charge</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Offence section</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Prosecution’s position</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Defence’s position</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC-923438-2020</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Section 147 Penal Code</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">18 months’ imprisonment (consecutive)</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">15-16 months’ imprisonment (consecutive)</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">MAC-900002-2021</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Section 182 Penal Code</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Fine of between $2,000 and $3,000</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Fine</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC-923440-2022</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Section 14(3) Societies Act</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">2 months’ imprisonment (consecutive)</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">2 months’ imprisonment (consecutive)</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">MAC-900003-2021</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Reg 6 COVID-19 Regulations</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Fine of between $2,000 and $3,000</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Fine</p></td></tr></tbody></table>
+
+  
+  
+
+## Reasons for the sentences imposed
+
+### Rioting
+
+19     Under Section 147 of the Penal Code, the punishment for rioting is imprisonment for a term which may extend to 7 years. The offender is also liable to caning for this offence.
+
+20     In assessing the severity of the offence, I noted the following offence specific factors:
+
+> (a)     The potential for serious injuries was high, as members of the accused’s group had used weapons to assault the victim. Two of them used glass bottles to hit the victim’s head, another two used beer buckets to hit the victim’s head and body, while another had attempted to pick up a table to hit the victim. It is fortuitous that the injuries sustained by the victim were minor.
+
+> (b)     The accused’s group of 8 persons far outnumbered the single victim and had instigated the aggression by issuing two challenges to fight to the victim’s group. It was also the accused’s group that approached the victim’s group aggressively and eventually threw the first punch at the victim, who had been trying to intervene in the confrontation.
+
+> (c)     The assault lasted for about 3 minutes, continuing even after the victim had fallen to the ground and stopped only when the club’s staff intervened.
+
+21     While the accused had not used any of the objects that could have caused more serious harm to the victim, he was still an active participant to the assault, having kicked and punched the victim multiple times on the head and body.
+
+22     The Prosecution cited the case of _Phua Song Hua v Public Prosecutor_ <span class="citation">\[2004\] SGHC 33</span> (“_Phua Song Hua”_), where the High Court held at \[39\] that rioting is a serious offence that warrants a deterrent sentence, with the gravamen of the offence being the pursuit of a common unlawful pursuit through weight of numbers. The High Court noted that the usual range of sentences imposed for “non-secret society related” offences was between 18 to 36 months’ imprisonment and 3 to 12 strokes of the cane.
+
+23     The Prosecution submitted that a sentence of 18 months’ imprisonment, which is at the lowest end of the sentencing range observed in _Phua Song Hua_ was appropriate in this case, in view of the accused’s previous conviction for being a member of an unlawful assembly, his plea of guilt and his relatively young age at the time of the offences.
+
+24     In seeking a sentence of 15 to 16 months’ imprisonment, the Defence highlighted that the accused is ashamed and apologetic for his actions and appreciates the gravity of his actions.
+
+25     In determining the appropriate sentence to be imposed in this case, I had regard to the following reported precedents:
+
+> (a)     In _Phua Song Hua_, the offender had claimed trial to two counts of rioting, involving two incidents that took place one after the other against two victims. For the first incident, the offender had been present during the fight but did not personally use violence against the victims, and for this charge he was sentenced to 12 months’ imprisonment. For the second incident, the offender had punched one of the two victims on the left side of his head, and for this he was sentenced to 18 months’ imprisonment. The victims suffered minor injuries consisting of bruises and abrasions.
+
+> (b)     In _Robin Anak Mawang v Public Prosecutor_ <span class="citation">\[2006\] 1 SLR(R) 373</span>, the offender claimed trial to a single charge of rioting. The offender had been in a group of 5 persons who attacked a single victim. The offender kicked the victim’s upper body once while the co-offenders kicked the victim two or three times. The victim suffered bruising and a laceration on his scalp. The offender was sentenced to 15 months’ imprisonment.
+
+26     I was of the view that the attack in this case was more severe than those in the precedent cases. The outnumbering of the victim in this case was more significant that in the other cases and featured the use of weapons. The accused’s own involvement in the violence was also not insignificant, having punched and kicked the victim multiple times.
+
+27     In considering the appropriate sentence to be imposed for this offence, I also considered offender-specific factors, namely the accused’s similar antecedent for being a member of an unlawful assembly as well as his guilty plea. Taking all these into account, I was of the view that the appropriate sentence in this case was 17 months’ imprisonment.
+
+### Member of unlawful society
+
+28     The offence under Section 14(3) of the Societies Act is punishable by a fine of up to $5,000, imprisonment of up to 3 years, or both.
+
+29     The Prosecution sought a 2-month imprisonment term, which it argued is in line with precedents. The Defence was not opposed to this position.
+
+30     The Prosecution cited two precedents involving offenders who had been sentenced to 2 weeks’ and 5 months’ imprisonment respectively. I accepted their argument that the case of _Public Prosecutor v Chua Kok Thye_ <span class="citation">\[2019\] SGDC 125</span>, where the offender was sentenced to 2 weeks’ imprisonment on the Section 14(3) charge, could be distinguished from the present case. While the offender in that case had uttered a gang slogan, he had ceased being a gang member in 1990. In this case, the accused was a member of the “Pak Hai Tong” Triad Society for a continuous period of about 7 years (including the period that is the subject of the TIC charge) from 2013 to 2020.
+
+31     The other cited precedent of _Public Prosecutor v Nor Mohamad Azril Bin Sajali_ <span class="citation">\[2020\] SGDC 71</span> was certainly more aggravated that the present case. The offender in that case had a long history of involvement with various secret society groups and had been appointed a “Senior Member” when he joined the secret society again after his release from prison. He was sentenced to 5 months’ imprisonment on the Section 14(3) charge.
+
+32     The main aggravating factors in this case was the duration of the accused’s membership with the “Pak Hai Tong” Triad Society and the TIC charges for a similar offence, though the facts do not indicate that his other offences were committed in his capacity as a member of the unlawful society.
+
+33     On the facts, I was of the view that 6 weeks’ imprisonment was the appropriate punishment on this charge, though I adjusted this downward to 5 weeks’ imprisonment to account for the period that he had spent in remand (see \[41\] below).
+
+### Giving of false information
+
+34     Under Section 182 of the Penal Code, the offence of giving false information to a public servant is punishable with imprisonment for a term which may extend to 2 years, or with fine, or with both.
+
+35     Citing the case authority of _Koh Yong Chiah v Public Prosecutor_ <span class="citation">\[2017\] 3 SLR 447</span>, the Prosecution noted that a custodial term is ordinarily the appropriate starting point if appreciable harm might be caused by the offence. The Prosecution took the position that the custodial threshold had not been crossed in this case, given that the accused had retracted his lie about 8 days after the initial false statement and the fact that no significant harm resulted from the false information. I agreed with the Prosecution’s analysis that this was not a case where the custodial threshold had been crossed and imposed a fine of $2,000 for this charge.
+
+### COVID-19 Regulations
+
+36     Pursuant to Section 34(7)(a) of the COVID-19 Act, a breach of Reg 6 of a control order is punishable with a fine of up to $10,000, imprisonment of up to 6 months, or both.
+
+37     This was not a particularly aggravated breach of the COVID-19 Regulations. The gathering was for a social purpose, and while Shou Ren proceeded to assault Jia Wei on this occasion, it does not appear from the facts that the accused was involved in this criminal behaviour, and the Prosecution did not suggest that this should affect the sentence on this charge.
+
+38     Accordingly, I considered a fine of $2,000 to be the appropriate sentence on this charge.
+
+### Consecutive sentences
+
+39     I ordered the imprisonment terms imposed on the charges for rioting and being a member of an unlawful society to run consecutively. This was the position that both parties took before me as well. In doing so, I bore in mind the one-transaction rule and the totality principle as set out in _Mohamed Shouffee bin Adam v Public Prosecutor_ <span class="citation">\[2014\] 2 SLR 998</span>. The two offences in question invaded distinct legally protected interests, and while the rioting occurred whilst the accused was a member of the “Pak Hai Tong”, there is no indication on the facts that the two offences were connected, _i.e._, this was not a triad-connected rioting incident.
+
+40     I was also of the view that the aggregate imprisonment term of 17 months and 5 weeks was not a crushing sentence in view of the accused’s entire set of offending conduct, his record and prospects, and accordingly did not offend the totality principle.
+
+## Conclusion
+
+41     The accused had been remanded for a week at the start of proceedings for investigations before being released on bail on 20 May 2020. I took this period of remand into account and adjusted the sentence imposed on the Section 14(3) Societies Act charge (see \[33\] above).
+
+42     The total sentence imposed was 17 months’ and 5 weeks’ imprisonment and a fine of $4,000 (in default 16 days’ imprisonment):
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="21.2242448489698%"> <col width="55.0110022004401%"> <col width="23.7647529505901%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Charge</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Offence section</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Sentence</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC-923438-2020</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Section 147 Penal Code</p><p align="justify" class="Table-Para-1">Rioting</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">17 months’ imprisonment (consecutive)</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">MAC-900002-2021</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Section 182 Penal Code False information to public servant</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">$2,000 (in default 8 days’ imprisonment)</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC-923440-2022</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Section 14(3) Societies Act</p><p align="justify" class="Table-Para-1">Being member of an unlawful society</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">5 weeks’ imprisonment (consecutive)</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">MAC-900003-2021</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Reg 6 COVID-19 Regulations</p><p align="justify" class="Table-Para-1">Meeting another individual not living in the same place of residence for any social purpose</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">$2,000 fine (in default 8 days’ imprisonment)</p></td></tr></tbody></table>
+
+  
+  
+
+43     The accused is currently on bail pending appeal and execution of the imprisonment term and fine having been stayed.
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F27147-SSP.xml)
