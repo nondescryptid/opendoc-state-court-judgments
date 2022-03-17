@@ -1,0 +1,214 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Sathiya Seelan Maliandi  
+
+### \[2022\] SGDC 46
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">District Arrest Case No 935320 of 2019, Magistrate's Appeal No. 9009-2022-01</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">04 March 2022</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Brenda Tan</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Deputy Public Prosecutor Tay Zhi Jie (Attorney General's Chambers) for the Public Prosecutor; A.Revi Shanker s/o K.Annamalai (Arshanker Law Chambers) for the accused.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Sathiya Seelan Maliandi</td></tr></tbody></table>
+
+Criminal Procedure and Sentencing – Sentencing
+
+Criminal Law – Offences – Misuse of Drugs Act – Trafficking
+
+\[LawNet Editorial Note: An appeal to this decision has been filed in MA 9009/2022/01.\]
+
+4 March 2022
+
+### District Judge Brenda Tan:
+
+## Introduction
+
+1       The accused, Sathiya Seelan Maliandi, a 35-year-old male Malaysian, initially claimed trial to one charge of trafficking in not less than 164.68 grams of methamphetamine (commonly known as “ice”) in exchange for $4,000 under s 5(1)(a) of the Misuse of Drugs Act (Cap 185, 2008 Rev Ed) (“MDA”).
+
+2       On the first day of the trial, counsel for the accused sought an adjournment to make representations to the Prosecution. Pursuant to the representations, the Prosecution subsequently amended the charge by reducing the weight of the methamphetamine trafficked to “not less than 150 grams”. The accused pleaded guilty to the amended charge and I convicted him accordingly.
+
+3       The Prosecution submitted for a sentence of 12 years’ imprisonment and nine to ten strokes of the cane while the Defence pleaded for a sentence of ten years’ imprisonment and nine strokes of the cane. I sentenced the accused to 11 years’ imprisonment and nine strokes of the cane. I backdated his sentence to the date of his arrest on 19 December 2019.
+
+4       The accused being dissatisfied with his sentence has appealed against it. He is presently serving his sentence.
+
+5       I now set out the reasons for my decision.
+
+## The charge
+
+6       The trafficking charge which the accused pleaded guilty to is set out below:
+
+> You…are charged that you, on 19 December 2019, sometime around 10 p.m. to 10.30 p.m., in the vicinity of Yishun Street 41, Singapore, did traffic in a Class A Controlled Drug listed in the First Schedule to the Misuse of Drugs Act (Cap 185, 2008 Rev Ed), to wit, by delivering two packets containing not less than 150 grams of methamphetamine, to one Abdul Aziz Bin Ahmad of NRIC: XXX in exchange for $4,000/-, without any authorisation under the said Act or the Regulations made thereunder, and you have thereby committed an offence under Section 5(1)(a) which is punishable under Section 33(1) of the said Act.
+
+## The statement of facts
+
+7       The accused admitted to the statement of facts (“SOF”) which formed the basis for his conviction without any qualification. The SOF is reproduced below:
+
+> 1.    The accused is Sathiya Seelan Maliandi (“**Sathiya**”), a 35-year-old male Malaysian (Date of Birth: 30 January 1986), bearing FIN No. XXX.
+
+> 2.    The co-accused is Abdul Aziz Bin Ahmad (“**Abdul Aziz**”), a 56-year-old Singaporean (Date of Birth: 5 October 1965), bearing NRIC No. XXX.
+
+> **Facts pertaining to the arrest of Sathiya and Abdul Aziz**
+
+> 3.    On 19 December 2019, at about 10.30pm, officers from the Central Narcotics Bureau (“**CNB**”) arrested Sathiya at the traffic junction between Yishun Street 41 and Yishun Ring Road for suspected drug offences. Sathiya was brought to the vicinity of 676A Yishun Ring Road, where a search was conducted on him. The following items, among other items, were recovered from Sathiya, sealed in tamper-proof bags and seized as case exhibits:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="11.28%"> <col width="65.92%"> <col width="22.8%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>SN.</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>DESCRIPTION OF EXHIBITS</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>MARKING</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">1.</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">One black sling bag (containing the cash in S/N 2 below)</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>SSM-A</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">2.</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Cash in $50 denomination, amounting to $4,000</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>SSM-A1FIT</b></p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">3.</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Two red rubber bands (securing the cash in S/N 2 above)</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>SSM-A1RB</b></p></td></tr></tbody></table>
+
+  
+  
+
+> 4.    On the same day, at about 10.35pm, CNB officers arrested Abdul Aziz for suspected drug offences, at some place along Lentor Avenue towards SLE, Singapore, in a taxi. Abdul Aziz was brought to Yio Chu Kang Stadium, where he was searched. The following items, among other items, were recovered from the search. These items were sealed in tamper-proof bags and seized as case exhibits:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="11.3%"> <col width="65.96%"> <col width="22.74%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>SN.</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>DESCRIPTION OF EXHIBITS</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>MARKING</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">1.</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">One black sling bag</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>AABA-A</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">2.</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">One black plastic bag (found inside the black sling bag at S/N 1 above)</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>AABA-A1</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">3.</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">One plastic packet containing crystalline substances with ‘125’ marking (found inside the black plastic bag at S/N 3 above)</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>AABA-A1A</b></p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">4.</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">One plastic packet containing crystalline substances (found inside the black plastic bag at S/N 3 above)</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>AABA-A1B</b></p></td></tr></tbody></table>
+
+  
+  
+
+> 5.    AABA-A1, AABA-A1A and AABA-A1B are shown as follows:
+
+![]([2022] SGDC 0046_Image/[2022] SGDC 0046_image1.png)
+
+> **Facts pertaining to the Charge (DAC-935320-2019)**
+
+> 6.    Sometime in the afternoon of 19 December 2019, in Malaysia, Sathiya received a call from one “Murugan” whom, according to Sathiya, is Sathiya’s cousin’s brother. Murugan asked Sathiya to go into Singapore to collect $4,000 from an unknown person and bring the $4,000 back to Murugan in Malaysia.
+
+> 7.    Murugan arranged for the delivery of a Honda EX5 motorcycle, bearing registration number AHQ9392, to Sathiya in Malaysia and instructed Sathiya to ride this motorcycle into Singapore. Murugan also told Sathiya that there was a black plastic bag in the storage compartment of the motorcycle. Murugan told Sathiya to deliver the black plastic bag to the same unknown person and take $4,000 from this unknown person in exchange for the black plastic bag. This black plastic bag is AABA-A1 (S/N 2 in the table below \[4\]), and it contained two plastic packets containing crystalline substances, namely AABA-A1A and AABA-A1B (S/N 3 to 4 in the table below \[4\]), at all material times.
+
+> 8.    Sathiya knew that the black plastic bag (AABA-A1) contained methamphetamine, which is a Class A controlled drug listed in the First Schedule to the Misuse of Drugs Act (Cap 185, 2008 Rev Ed) (“**MDA**”).
+
+> 9.    Sathiya entered Singapore from Malaysia in the night of 19 December 2019. He was instructed by Murugan to wait in the vicinity of Block 676A Yishun, Singapore, to exchange the black plastic bag (AABA-A1) for $4,000 with a “Malay guy”.
+
+> 10.    Sometime around 10pm to 10.30pm, Sathiya saw Abdul Aziz in the vicinity of Block 675 Yishun, Singapore. Sathiya called Murugan and described Abdul Aziz’s attire to Murugan to check if Abdul Aziz is the “Malay guy”. Murugan confirmed with Sathiya that Abdul Aziz is the “Malay guy” that he was supposed to transact with.
+
+> 11.    Sathiya approached Abdul Aziz and the pair stopped somewhere in the vicinity of Yishun Street 41. Sathiya delivered the black plastic bag (AABA-A1) (which contained the plastic packets AABA-A1A and AABA-A1B) to Abdul Aziz, knowing that the said black plastic bag contained methamphetamine. Sathiya asked Abdul Aziz for the money in exchange for the black plastic bag. Abdul Aziz passed Sathiya $4,000 in cash (SSMA1FIT) and the pair parted ways.
+
+> 12.    Sathiya and Abdul Aziz were arrested by CNB officers soon after they parted ways. Per \[4\] above, CNB officers seized, _inter alia_, exhibits AABA-A1A and AABA-A1B (which were found inside exhibit AABA-A1) from Abdul Aziz during his arrest on 19 December 2019.
+
+> 13.    On 20 December 2019, the CNB submitted exhibits AABA-A1A and AABA-A1B (S/N 3 and 4 in the table below \[4\]) to the Health Sciences Authority (“**HSA**") for analysis. On 23 January 2020, Tang Shi Ying Angeline, analyst with the HSA issued two certificates under section 16 of the MDA, bearing Lab Nos. ID-1932-02821-001 and ID-1932-02821-002 (which certificates are attached in the Annex to this Statement of Facts), stating the following:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="16.76%"> <col width="19.78%"> <col width="63.46%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>DATE</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>LAB NO.</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>RESULT</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">23 January</p><p align="justify" class="Table-Para-1">2020</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">ID-1932-02821-001</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">The exhibit marked “AABA-A1A” was found to be one packet containing not less than 124.1 grams of crystalline substances, that upon analysis, was found to contain not less than 82.87 grams of methamphetamine</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">23 January</p><p align="justify" class="Table-Para-1">2020</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">ID-1932-02821-002</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">The exhibit marked “AABA-A1B” was found to be one packet containing not less than 122.0 grams of crystalline substances, that upon analysis, was found to contain not less than 81.81 grams of methamphetamine</p></td></tr></tbody></table>
+
+  
+  
+
+> 14.    Collectively, exhibits AABA-A1A and AABA-A1B were found to contain not less than 150 grams of methamphetamine.
+
+> 15.    Sathiya is not authorised under the MDA or the Regulations made thereunder to traffic in methamphetamine.
+
+> 16.    By delivering exhibits AABA-A1A and AABA-A1B, which are two packets containing not less than 150 grams of methamphetamine, to Abdul Aziz in exchange for $4,000 sometime around 10pm to 10.30pm on 19 December 2019 in the vicinity of Yishun Street 41, Sathiya has trafficked in methamphetamine. He has thereby committed an offence under section 5(1)(a) of the MDA, which offence is punishable under section 33(1) of the MDA.
+
+## Antecedents
+
+8       The accused had no antecedents.
+
+## Prescribed punishment
+
+9       The offence of trafficking is punishable under s 33(1) of the MDA read with the Second Schedule. There is a prescribed mandatory minimum sentence of five years’ imprisonment and five strokes of the cane up to a maximum sentence of 20 years’ imprisonment and 15 strokes of the cane.
+
+10     Under s 53 of the MDA, a District Court has the power to impose the full penalty.
+
+## Sentencing framework under _Vasentha d/o Joseph v Public Prosecutor_
+
+11     In _Vasentha d/o Joseph v Public Prosecutor_ <span class="citation">\[2015\] SGHC 197</span> (“_Vasentha_”), the High Court held that the quantity of drugs trafficked would clearly have a direct correlation to the harm caused and therefore the quantity would have a strong bearing on the sentence to be imposed because it is a reliable indicator of the seriousness of the offence: at \[19\] and \[23\]. That said, Menon CJ made it clear that quantity is not the sole consideration and that the sentencing judge must have due regard to all the circumstances of the case: at \[3\]. Thus, in _Vasentha_, Menon CJ set out a sentencing framework for first-time traffickers in diamorphine by establishing a three-step approach to enable the sentencing court to arrive at the appropriate sentence: \[44\] to \[50\]. The three steps are as follows:
+
+> (a)     Identify an indicative starting sentence based on the quantity of drugs;
+
+> (b)     Consider the necessary adjustments upwards or downwards from the indicative starting point sentence based on the offender’s culpability and the relevant aggravating or mitigating factors. (In a case where no adjustment is necessary, the indicative starting point might well be the appropriate sentence to be imposed); and
+
+> (c)     Take into account the time the offender had spent in remand prior to conviction, by either backdating the sentence or discounting the intended sentence.
+
+12     In _Vasentha_, Menon CJ laid down indicative starting points or sentencing bands according to the quantity of diamorphine trafficked. _Vasentha_ was affirmed by the Court of Appeal in _Suventher Shanmugam v Public Prosecutors_ <span class="citation">\[2017\] 2 SLR 115</span> at \[28\] – \[30\]. Subsequently the High Court in _Loo Pei Xiang Alan v Public Prosecutor_ <span class="citation">\[2015\] 5 SLR 500</span> (“_Loo Pei Xiang Alan_”) applied a conversion rate to the sentencing bands established in _Vasentha_ for trafficking in diamorphine to extrapolate sentencing bands for trafficking in methamphetamine on the basis that one gram of diamorphine was equivalent to 16.7 g of methamphetamine.
+
+13     The conversion table for methamphetamine is as follows (“the conversion table”):
+
+![]([2022] SGDC 0046_Image/[2022] SGDC 0046_image2.png)
+
+## The appropriate sentence in this case
+
+14     In the present case, the actual quantity of methamphetamine trafficked was not less than 164.68 grams of methamphetamine. According to the conversion table, the indicative sentencing range for trafficking in this amount of methamphetamine is between 13 to 15 years’ imprisonment and 10 to 11 strokes of the cane. Since the Prosecution had elected to charge the accused for trafficking in a reduced amount of not less 150 grams of methamphetamine, at step one of the _Vasentha_ sentencing framework, both the Prosecution and the Defence agreed that the indicative starting range based on 150 grams of methamphetamine would be between 10–13 years imprisonment and 9-10 strokes of the cane, as highlighted in the conversion table.
+
+15     The Prosecution submitted that the indicative starting point should be 13 years’ imprisonment and 10 strokes of the cane. The Defence did not make any specific submission in this regard. As the accused had trafficked in not less than 150 gram of methamphetamine which is at the uppermost limit of the quantity of methamphetamine for the indicative starting range, I agreed with the Prosecution that the indicative starting point should be 13 years’ imprisonment and 10 strokes of the cane.
+
+16     Step 2 of _Vasentha’s_ sentencing framework requires the court to adjust the indicative starting point upwards or downwards based on the accused’s culpability and the relevant aggravating or mitigating factors. It is a matter of judgment as to what the appropriate adjustment should be: \[80\].
+
+### The accused’s culpability
+
+17     To evaluate an offender’s culpability, the sentencing judge would have to assess holistically all the circumstances of the offence such as the offender’s motive, the nature and extent of his role and involvement in the drug trade and other factors such as whether steps were taken to avoid detection: \[49 – 50\] of _Vasentha_. Menon CJ has formulated a list of non-exhaustive indicia in _Vasentha_ to assist the sentencing court: \[51\]. For easy reference, I reproduce below the illustrative culpability indicia.
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="30.76%"> <col width="69.24%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Culpability</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Indicia</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Higher</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">· Directing or organising drug trade on a commercial scale (eg, having regular clientele or offering wide variety of drugs)</p><p align="justify" class="Table-Para-1">· Involving others in the operation whether by pressure, influence, intimidation or reward</p><p align="justify" class="Table-Para-1">· Being motivated by financial or other advantage, whether operating as part of a drug syndicate or alone (eg, to sustain offender’s own drug habits)</p><p align="justify" class="Table-Para-1">· Taking active steps to avoid detection of the offence</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Lower</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">· Performing only a limited function under direction</p><p align="justify" class="Table-Para-1">· Being engaged by pressure, coercion and intimidation, or being involved through naivety and exploitation</p></td></tr></tbody></table>
+
+  
+  
+
+18     The Defence stated in its Mitigation Plea that the accused was purely doing a “favour for his cousin brother who asked for his help ie, last minute request and he did it without any form of remuneration and/or benefits from his cousin brother”[^1]. The Defence therefore argued that the accused’s culpability fell on the lower end of the scale as he performed only a limited function of delivery[^2].
+
+19     The Prosecution accepted that the accused did not receive any monetary benefit from Murugan for making the drug delivery to Abdul Aziz. While the Prosecution did not make any submission as to the specific level of the accused’s culpability (whether it was on the higher or lower end), it highlighted two aspects of the accused’s role and involvement in the case. First, the Prosecution pointed out that the accused would have introduced at least 150 grams of methamphetamine into circulation in Singapore if his deeds had not been detected. Secondly, the Prosecution stressed that the accused’s involvement was not limited to the delivery of drugs but extended to the ferrying of illegal proceeds out of Singapore’s jurisdiction to Malaysia when he agreed to help Murugan bring back the cash of $4,000.
+
+20     I agreed with the Prosecution that the accused’s job was more than that of a deliveryman, contrary to what the Defence had claimed. The accused admitted to the SOF which stated clearly at \[6\] that his task included collecting $4000 in exchange for the methamphetamine and bringing the cash proceeds from the drug dealing back to Murugan in Malaysia.
+
+21     The Defence confirmed that the accused was not pressured into complying with Murugan’s request[^3]. The accused had readily agreed to do Murugan the favour despite the short notice. At the time of the offence, the accused was a mature man of 34 years of age. He was fully aware that the Singapore Government had zero tolerance towards drug trafficking[^4].
+
+22     Clearly, the culpability of the accused was not as low as where the Defence had pegged it to be. He was not a mere courier. He had the additional function of bringing the criminal proceeds back to Malaysia to profit the criminal enterprise. That said, I noted that the accused was acting under directions and there was no evidence that he was operating as part of a syndicate. It was also not in dispute that the accused did not derive any benefit or monetary payment for running the errand for Murugan. Hence, looking at the facts, I found the accused’s relative culpability to be at the low end of the spectrum.
+
+### Aggravating and mitigating factors
+
+23     In _Vasentha_, Menon CJ cautioned against double counting the sentencing factors. For example, if a factor had been considered in assessing an offender’s culpability, it should not be regarded as a separate aggravating factor: \[55\].
+
+24     In this case, the accused had no antecedents, which is a neutral factor: _BPH v Public Prosecutor_ <span class="citation">\[2019\] 2 SLR 764</span> at \[85\]. There were no further aggravating factors in this case.
+
+25     As regards the mitigating factors, let me first summarise the Mitigation Plea of the accused:
+
+> (a)     The accused was single and the eldest in the family. He had two younger brothers aged 23 and 22 and one schooling sister aged 20. Prior to his arrest, he was living with parents who were in their 60s. The accused was the sole breadwinner. After his arrest, his brothers had to support their aged parents. The family was in disarray without the accused’s financial support.
+
+> (b)     The accused hoped to be given a second chance to lead an exemplary life after his release from prison. His parents were furious with what he had done but had forgiven him. Due to the Covid pandemic, his family members had not been able to visit him in prison for the past two years during his remand. Upon reflection and soul searching, he deeply regretted his foolish actions and had learned his valuable lesson.
+
+> (a)     This was his first-time delivering drugs and collecting money which he did as a favour for Murugan without any form of remuneration or benefits. He had co-operated fully with CNB and had given CNB information about Murugan[^5].
+
+> (b)     The accused wished to finish serving his sentence as soon as possible so that he could return to his family. He asked the court to impose the “minimum sentence”[^6] of ten years’ imprisonment with nine strokes of the cane which is at the lowest end of the indicative starting sentencing range.
+
+26     In terms of the mitigating factors, while the accused had pleaded guilty to the charge, he did not do so at the first opportunity. He only decided to plead guilty on the day of the trial. In fact, the Prosecution argued that little weight should be attached to his guilty plea as he was caught red handed[^7]. In this regard, I noted that the accused and his co-accused (Abdul Aziz) were arrested after they had parted ways (see \[12\] of the SOF). They were not caught together during the transaction itself. Therefore, while the accused was not entitled to the full mitigating weight due to his late admission of guilt, I was of the view that some weight ought to be given because his plea of guilt had resulted in savings of time and state resources. I also gave credit to the accused for co-operating with the authorities and providing them with information about Murugan. These points were not challenged by the Prosecution. But there was nothing exceptional about the hardship caused to accused’s family which would give rise to any mitigating value: _Lai Oei Mui Jenny v PP_ \[1993\] 2 SLR (R) 406 at \[11\].
+
+27     In light of the above facts and circumstances, I was of the view that the indicative starting point of 13 years’ imprisonment and ten strokes of the cane should be reduced to 11 years’ imprisonment and nine strokes of the cane.
+
+## Sentence imposed on the co-accused, Abdul Aziz
+
+28     In the present case, the co-accused, Abdul Aziz, had been dealt with earlier in respect of the same batch of methamphetamine which he had received from the accused. Abdul Aziz was charged for being in possession of 164.68 grams of methamphetamine for the purpose of trafficking and was sentenced to 13 years’ imprisonment (“possession for purpose of trafficking charge”), but no caning was imposed as he was above 50 years of age.
+
+29     The brief facts relating to Abdul Aziz’s case were as follows. On 22 December 2021, Abdul Aziz pleaded guilty to three drug charges comprising the possession for purpose of trafficking charge, one charge of possessing 38.32 grams of methamphetamine (unrelated) and one LT2 consumption charge (unrelated). He gave his consent to have two remaining drug charges (unrelated) taken into consideration (“TIC”) for the purpose of sentencing. His aggregate sentence was 15 years’ imprisonment. There were no published reasons for the court’s decision in his case.
+
+30     The respective sentences meted out to Abdul Aziz are shown in the table below.
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="7.78%"> <col width="22.12%"> <col width="48.6%"> <col width="21.5%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">S/N</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC number</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Offence</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Sentence</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">1.</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC-903853- 2021</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Possession for purpose of trafficking not less than 164.68 grams of methamphetamine under s 5(1)(a) read with s 5(2) and punishable under (“p/u”) s 33(4A)(i) of the MDA</p><p align="justify" class="Table-Para-1">- involving the same methamphetamine received from the accused.</p><p align="justify" class="Table-Para-1">(liable for enhanced punishment)</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">13 years’ imprisonment <b>(consecutive)</b>;</p><p align="justify" class="Table-Para-1">No caning as Abdul Aziz was above 50.</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">2.</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC-903854- 2021</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Possession of not less than 38.32 grams of methamphetamine under s 8(a) of the MDA p/u s 33(1) of the MDA</p><p align="justify" class="Table-Para-1">- unrelated to the accused.</p><p align="justify" class="Table-Para-1">(liable for enhanced punishment)</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">2 years’ imprisonment <b>(consecutive)</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">3.</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC-903856-2021</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Consumption of methamphetamine (LT2) under s 8(b)(ii) p/u s 33A(2) of the MDA</p><p align="justify" class="Table-Para-1">– unrelated to the accused</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">7 years and 6 months’ imprisonment (concurrent)</p></td></tr><tr><td align="left" class="r" colspan="3" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Global sentence:</p><p align="justify" class="Table-Para-1"><u>Two TIC charges:</u></p><p align="justify" class="Table-Para-1">1) One count of drug possession under s 8(a) p/u s 33(1) MDA</p><p align="justify" class="Table-Para-1">2) One count of possession of drug utensils under s 9 p/u s 33(1) MDA</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">15 years’ imprisonment</p></td></tr></tbody></table>
+
+  
+  
+
+31     Although the accused and Abdul Aziz were involved in the same offence/common criminal enterprise, I was of the view that parity of sentence was not relevant here for the following reasons:
+
+> (a)     Unlike the accused who was a first offender, Abdul Aziz was a repeat offender for drug trafficking and thus liable for enhanced punishment. A separate sentencing regime governs repeat drug traffickers: _Lai Teck Guan v Public Prosecutor_ <span class="citation">\[2018\] SGHC 151</span>.
+
+> (b)     The accused pleaded guilty to trafficking in a reduced quantity of methamphetamine (150 grams) while Abdul Aziz was charged for being in possession of the actual quantity of 164.68 grams of methamphetamine for the purpose of trafficking.
+
+> (c)     Unlike the accused who faced a single charge, Abdul Aziz faced four additional unrelated drug charges which engaged other sentencing considerations such as the totality principle: _Mohamed Shouffee bin Adam v Public Prosecutor_ <span class="citation">\[2014\] 2 SLR 998</span>.
+
+32     I therefore agreed with the Prosecution that the court should not determine the sentence for the accused by simply taking the sentence imposed on Abdul Aziz for the same offence and reducing it accordingly on the premise that the accused was a first-time trafficker[^8]. In any event, the sentence I passed on the accused is lower than that handed down to Abdul Aziz.
+
+## Conclusion
+
+33     For the foregoing reasons, I was satisfied that a sentence of 11 years’ imprisonment and nine strokes of the cane was just and fair in the circumstances of this case which I imposed accordingly.
+
+34     The accused is presently serving his sentence.
+
+* * *
+
+[^1]: Mitigation Plea, page 5.
+
+[^2]: Mitigation Plea, page 4, last paragraph.
+
+[^3]: Notes of evidence, Day 3, page 8, line 21.
+
+[^4]: Mitigation plea, page 3, second paragraph from the top.
+
+[^5]: Notes of evidence, Day 3, page 10, lines 9 to 16.
+
+[^6]: Mitigation plea, page 5.
+
+[^7]: Prosecution’s Submission on Sentence at \[8\].
+
+[^8]: Prosecution’s Submissions on Sentence at \[11\] – \[13\].
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F27245-SSP.xml)

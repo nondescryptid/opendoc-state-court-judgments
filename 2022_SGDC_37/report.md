@@ -1,0 +1,94 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Jaswant Singh s/o Jaginder Singh  
+
+### \[2022\] SGDC 37
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">District Arrest Case No 910526 of 2021, Magistrate's Appeal No 9024-2022-01</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">23 February 2022</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Salina Bte Ishak</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Jakki Lim (Traffic Police Department) for the Prosecution; Rai Satish (Kalidass Law Corporation) acting for the accused.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Jaswant Singh s/o Jaginder Singh</td></tr></tbody></table>
+
+Criminal Procedure and Sentencing – Statutory Offences – Road Traffic Act – Drink Driving
+
+\[LawNet Editorial Note: An appeal to this decision has been filed in MA 9024/2022/01.\]
+
+23 February 2022
+
+### District Judge Salina Bte Ishak:
+
+## Background
+
+1       The accused, Mr Jaswant Singh s/o Jaginder Singh, a 62 years-old male Singapore citizen faced a single charge under Section 67(1)(_b_) of the Road Traffic Act, Chapter 276 (“RTA”) and punishable under Section 67(1) read with Section 67(2)(_a_) of the said Act.
+
+2       On 28 January 2022, he pleaded guilty to the charge and admitted to the Statement of Facts without any qualification.
+
+3       After carefully considering the Defence’s written plea in mitigation and the Prosecution’s submissions on sentence, I sentenced the accused to the prescribed minimum fine of $2,000 and disqualified him from holding or obtaining all classes of driving licences for a period of two years with effect from 28 January 2022 which is also the minimum period of disqualification for the offence. This was the sentence sought by both the Prosecution and his Defence Counsel.
+
+4       The accused being dissatisfied with my decision had filed his Notice of Appeal in person against the sentence on 11 February 2022. He had paid the fines in full on 28 January 2022.
+
+5       Having set out the background for the present case, I now provide the reasons for my decision.
+
+## Salient Facts
+
+6       The complainant is one Sergeant (3) Wilson Tang Zhi Yu attached to Bukit Merah West Neighbourhood Police Centre.
+
+7       The accused is Jaswant Singh s/o Jaginder Singh. He was the driver of motorcar bearing registration number, SBQ9567J, at the time of the incident.
+
+8       On 31 March 2020 at or about 10.38pm, the complainant was patrolling along Lower Delta Road towards the direction of River Valley Road when the complainant came across the accused who was having a dispute with a Certis Cisco Enforcement Officer along Lower Delta Road near to lamp post 6. When the complainant interviewed the accused, the complainant observed that the accused reeked of alcohol. The accused admitted to the complainant that he had consumed alcohol prior to driving to the said location. As such, the complainant administered a breathalyzer test on the accused and the result shown is ‘Fail’. The accused was arrested for driving under the influence of drinks and he was escorted to Singapore General Hospital for blood test due to a medical problem. The accused consented his blood to be taken by the doctor for alcohol analysis.
+
+9       The Blood Test was conducted by Analyst, Leong Hsiao Tung from the Analytical Toxicology Laboratory. The report (Lab Report No.: TX-2031-02095) dated 7 April 2020 revealed that the proportion of alcohol in accused’s blood was 100 milligrammes of alcohol in every 100 millilitres of blood. The prescribed limit is 80 milligrammes of alcohol per 100 millilitres of blood.
+
+10     Investigations revealed that on 31 March 2020 at or about 10.10pm, the accused had purchased a bottle of Budweiser beer from a 7-11 store located somewhere along Havelock Road and consumed the said beer immediately outside the 7-11 store. The accused finished the beer about 10 minutes later and left the location immediately. The accused proceeded to his motorcar bearing registration number, SBQ9567J, which was parked along the main road directly outside the 7-11 store and drove it away with the intention to go home. However, the accused ended up driving the vehicle and followed the said enforcement officer to Lower Delta Road before stopping near to lamp post 6 to confront the enforcement officer as the accused claimed whilst he was driving along Havelock Road, the enforcement officer had encroached into his path somewhere near to Beo Crescent.
+
+11     Therefore, the accused has committed the offence of Drink Driving under Section 67(1)(b) of the Road Traffic Act, Chapter 276 and punishable under Section 67(1) read with Section 67(2)(a) of the Road Traffic Act, Chapter 276 (2004 Rev Ed).
+
+## Sentencing
+
+### Prescribed Penalty
+
+12     The prescribed penalty for an offence of drink driving under s 67(1)(_b_) of the RTA is a fine of not less than $2,000 and not more than $10,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a second or subsequent conviction, to a fine of not less than $5,000 and not more than $20,000 and to imprisonment for a term not exceeding 2 years. Section 67(2) RTA.
+
+13     In addition, pursuant to s 67(2)(_a_) of the RTA unless the court for special reasons thinks fit to not order or to order otherwise, the court must order that the person be disqualified from holding or obtaining a driving licence for at least two years for a first offender.
+
+## Antecedents
+
+14     The accused was untraced.
+
+## Prosecution’s Submissions on Sentence
+
+15     It was the Prosecution’s case that as the level of alcohol was 100 milligrams in every 100 millilitres of blood which was about 43 mcg per 100 millilitres of breath, it fell under Band 1 of the sentencing framework prescribed by the High Court in _Rafael Voltaire Alzate v Public Prosecutor_ <span class="citation">\[2021\] SGHC 224</span> (“_Rafael Voltaire_”).
+
+16     The Prosecution sought a fine of between $2,000 and disqualification order for all classes of vehicles for a period of 24 months.
+
+## Mitigation
+
+17     In his written plea in mitigation, Defence Counsel Mr. Rai Satish had set out his client’s personal background, both the offence-specific and the offender-specific mitigating factors as well as the circumstances that led to the commission of the offence.
+
+18     His Counsel referred to the sentencing framework established by Menon CJ in _Rafael Voltaire_ and submitted that the accused would fall the first sentencing range where the range of fines is between $2,000 and $4,000 and the period of disqualification is between 24 to 30 months.
+
+19     In light of the various mitigating factors, his Counsel sought a fine of $2,000 and a disqualification for a period of two years to deter the accused from re-offending.
+
+## My decision on sentence
+
+#### Sentencing framework for drink driving
+
+20     In determining the appropriate sentence to be imposed in respect of the drink driving charge, I had considered the sentencing framework established by the High Court in _Rafael Voltaire_ for first time drink drivers as a neutral starting point.
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="35.5271054210842%"> <col width="34.9269853970794%"> <col width="29.5459091818364%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Level of alcohol (µg per 100ml of breath)</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Range of fines</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Range of disqualification</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">36-54</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">$2,000-$4,000</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1">24-30 months</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">55-69</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">$4,000-$6,000</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1">30-36 months</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">70-89</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">$6,000-$8,000</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1">36-48 months</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="center" class="Table-Para-1">≥90</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="center" class="Table-Para-1">$8,000-$10,000</p></td><td align="left" class="" rowspan="1" valign="top"><p align="center" class="Table-Para-1">48-60 months</p></td></tr></tbody></table>
+
+  
+  
+
+21     In the application of the above sentencing framework, the High Court made two additional points at \[32\] and \[33\]:
+
+> (a)     The sentencing framework is only applicable where no harm to person or property has eventuated; and
+
+> (b)     The framework provides only neutral starting points based on the relative seriousness of the offence and considering only the level of alcohol in the offender’s body. Regard should still be had to any aggravating or mitigating circumstances (see _Edwin Suse Nathen v Public Prosecutor_ <span class="citation">\[2013\] 4 SLR 1139</span> (“_Edwin Suse_”) at \[22\]) and if the former, if they exist, could result in the custodial threshold being crossed.
+
+22     I was mindful that this framework is only applicable where no harm to person or property has eventuated. This framework provides only neutral starting points based on the relative seriousness of the offence and considering only the level of alcohol in the offender’s body. When sentencing, I would still have to consider whether there was any aggravating or mitigating circumstances and to make the necessary calibrations to the relevant starting points.
+
+23     In determining the appropriate sentence, I would also consider other relevant factors such as the manner of driving, the type of vehicle, the distance travelled, the road and traffic conditions, any impairment of the ability to drive or whether there was accident resulting in harm to person or property.
+
+24     In the present case, I considered the fact that the accused was a first offender who had pleaded guilty to the present charge. There was no harm caused to person or property or any culpability enhancing factors. I agreed with both the Prosecution and the Defence that the present case fell within the lowest range _ie_ Band 1 of the _Rafael Voltaire_ sentencing framework. Hence, I imposed a fine of $2,000 in default seven days imprisonment and and disqualified him from holding or obtaining all classes of driving licences for a period of two years with effect from 28 January 2022. In the present case, no special reasons relating to the offence was provided by the Defence for the court not to impose the disqualification order.
+
+25     It is unclear why the accused had filed an appeal against his sentence when the sentence imposed was consistent with his plea in mitigation and he had the benefit of legal advice from his Counsel.
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F27210-SSP.xml)

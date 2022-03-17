@@ -1,0 +1,377 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ GEH  
+
+### \[2022\] SGDC 25
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">DAC-913702-2020 &amp; Ors, Magistrate's Appeal No 9008-2022-01, Magistrate's Appeal No 9008-2022-02</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">14 February 2022</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Toh Han Li</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">DPP Jeremy Bin (Attorney-General's Chambers) for the Prosecution; Mr Luke Anton Netto (Netto &amp; Magin LLC) for the Accused</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — GEH</td></tr></tbody></table>
+
+Criminal Law – Offences – Grievous Hurt
+
+Criminal Law – Offences – Distribution of intimate recording
+
+Criminal Law – Offences – Disorderly conduct
+
+Criminal Procedure and Sentencing – Sentencing
+
+\[LawNet Editorial Note: An appeal to this decision has been filed in MA 9008/2022/01-02.\]
+
+14 February 2022
+
+### Principal District Judge Toh Han Li:
+
+## Introduction
+
+1       The accused pleaded guilty to the following three charges with three charges taken into consideration for the purposes of sentencing (“TIC”).
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="9.28%"> <col width="18.52%"> <col width="27.14%"> <col width="24.7%"> <col width="20.36%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>S/No</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Charge</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Offence</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Brief facts</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Remarks</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">1</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC-913702-2020</p><p align="justify" class="Table-Para-1">(1<sup>st</sup> charge)</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Voluntarily causing grievous hurt with common intention</p><p align="justify" class="Table-Para-1">Section 325 r/w section 34 of the Penal Code (Cap 224. 2008 Rev Ed)</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">The accused punched and kicked the victim’s face and body multiples times causing him to sustain fractures on his facial area</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Proceed</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">2</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC-913704-2020</p><p align="justify" class="Table-Para-1">(5<sup>th</sup> charge)</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Distributing an intimate recording</p><p align="justify" class="Table-Para-1">Section 377BE(1) p/u section</p><p align="justify" class="Table-Para-1">377BE(3) of the Penal Code (Cap 224. 2008 Rev Ed)</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">The accused distributed an intimate recording of the victim by sending it to multiple persons using Whatsapp</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Proceed</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">3</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">MAC-9055732020</p><p align="justify" class="Table-Para-1">(6<sup>th</sup> charge)</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Disorderly conduct on a public road with Common Intention</p><p align="justify" class="Table-Para-1">Section 20 of Miscellaneous</p><p align="justify" class="Table-Para-1">Offences (Public Order and Nuisance) Act (Cap 184, 1997 Rev Ed) r/w section 34 of the Penal Code</p><p align="justify" class="Table-Para-1">(Cap 224. 2008 Rev Ed)</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Behaving rowdy in a public place in view of police officers</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Proceed</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">4</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC-913703-2020</p><p align="justify" class="Table-Para-1">(2<sup>nd</sup> charge)</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Criminal intimidation with common</p><p align="justify" class="Table-Para-1">intention (first limb)</p><p align="justify" class="Table-Para-1">Section 506 r/w section 34 of the Penal Code (Cap 224. 2008 Rev Ed)</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Threatening to circulate</p><p align="justify" class="Table-Para-1">videos of the victim being beaten and stripped online, unless he admitted that he was a party to an extra-marital affair</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">TIC</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">5</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">MAC-905571-2020</p><p align="justify" class="Table-Para-1">(3<sup>rd</sup> charge)</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Insulting modesty Section 377BA of the Penal Code (Cap 224. 2008 Rev Ed)</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Insulting the modesty of NH by shouting vulgarities relating to her genitals</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">TIC</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">6</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">MAC-905572-2020</p><p align="justify" class="Table-Para-1">(4<sup>th</sup> charge)</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Insulting modesty with common</p><p align="justify" class="Table-Para-1">intention</p><p align="justify" class="Table-Para-1">Section 377BA r/w section 34 of the Penal Code (Cap 224. 2008 Rev Ed)</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Intruding upon the victim’s privacy by taking videos of his exposed penis without his consent</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">TIC</p></td></tr></tbody></table>
+
+  
+  
+
+2       The accused was sentenced as follows:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="9.28185637127425%"> <col width="19.6039207841568%"> <col width="23.504700940188%"> <col width="27.3654730946189%"> <col width="20.244048809762%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>S/No</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Charge</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Offence</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Brief facts</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Sentence</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">1</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC-913702-2020</p><p align="justify" class="Table-Para-1">(1<sup>st</sup> charge)</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Voluntarily causing grievous hurt with common intention</p><p align="justify" class="Table-Para-1">Section 325 r/w section 34 of the Penal Code (Cap 224. 2008 Rev Ed)</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">The accused punched and kicked the victim’s face and body multiples times causing him to sustain fractures on his facial area</p><p align="justify" class="Table-Para-1">&nbsp;</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">18 months’ imprisonment and 4 strokes of the cane</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">2</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC-913704-2020</p><p align="justify" class="Table-Para-1">(5<sup>th</sup> charge)</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Distributing an intimate recording</p><p align="justify" class="Table-Para-1">Section 377BE(1) p/u section</p><p align="justify" class="Table-Para-1">377BE(3) of the Penal Code (Cap 224. 2008 Rev Ed)</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">The accused distributed an intimate recording of the victim by sending it to multiple persons using Whatsapp</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">18 months’ imprisonment</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">3</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">MAC-9055732020</p><p align="justify" class="Table-Para-1">(6<sup>th</sup> charge)</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Disorderly conduct on a public road with common intention</p><p align="justify" class="Table-Para-1">Section 20 of Miscellaneous</p><p align="justify" class="Table-Para-1">Offences (Public Order and Nuisance) Act (Cap 184, 1997 Rev Ed) r/w section 34 of the Penal Code</p><p align="justify" class="Table-Para-1">(Cap 224. 2008 Rev Ed)</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Behaving rowdy in a public place in view of police officers</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">$1,500 fine in default 6 days’ imprisonment</p></td></tr></tbody></table>
+
+  
+  
+
+3       The sentences of imprisonment for the 1st and 5th charge were ordered to run consecutively resulting in a global sentence of 36 months’ imprisonment, 4 strokes of the cane and a fine of $1,500, in default 6 days’ imprisonment.
+
+4       Both the prosecution and the accused have filed appeals against my sentence and I now give my full grounds.
+
+## Statement of Facts
+
+5       The accused was the husband of NH (the victim in the 3rd charge), and they were undergoing divorce proceedings at the material time. Co-accused D was the uncle of NH. Co-accused N was co-accused D’s son and the cousin of NH. Co-accused Z was co-accused N’s girlfriend.
+
+### First information report
+
+6       On 7 February 2020 at or about 11.21pm, the police received a call informing ”_2 boys fighting with my friend”_. The location given was Woodlands Centre Road towards Woodlands Checkpoint, lamp post W537.
+
+### Background facts
+
+7       On 7 February 2020 at approximately 10.00 pm, the accused persons went to NH’s home address in order to follow her, as they suspected that she was having an extra-marital affair. When NH exited her home, the accused persons began following her.
+
+8       NH then boarded the victim’s (the victim in the 1st, 2nd, 4th and 5th charge) motor car. The accused persons suspected that NH and the victim were in a relationship. They boarded their respective vehicles and followed the victim’s motor car. The accused, co-accused N, and co-accused D drove separate motor cars, with co-accused Z sitting in co-accused N’s motor car. Throughout the entire time, the accused persons kept in contact with each other using mobile applications, updating each other on the location of the victim’s vehicle. Co-accused N and the accused continued tailing the victim’s motor car. Co-accused D lost sight of the victim’s motor car and was unable to catch up.
+
+9       As the victim’s motor car exited the Bukit Timah Expressway to Woodlands Centre, on the way towards Woodlands Checkpoint, the accused and co-accused N coordinated a driving manoeuvre to trap the victim. The accused manoeuvred his vehicle directly behind the victim’s motor car, while co-accused N stopped immediately in front of the victim’s motor car, thereby wedging the car and preventing it from leaving. Co-accused N instructed co-accused Z to record the incident. He and the accused then alighted from their respective vehicles and confronted the victim.
+
+10     A dispute then broke out between the victim, co-accused N and the accused, as the victim did not want to alight from his vehicle. The accused kicked the side mirror of the victim’s motor car and shouted at the victim to step out of the car. At this point, the victim complied, and the accused persons, along with the victim and NH proceeded to a grass patch next to the road.
+
+### Facts pertaining to the s 325 Penal Code charge
+
+11     The accused and co-accused N then formed the common intention to attack the victim. The accused punched the victim multiple times, and co-accused N tackled the victim and pinned him to the ground. Co-accused N held the victim in a chokehold, with his arms around the victim’s neck.
+
+12     While the victim was pinned, both the accused and co-accused N punched and kicked the victim’s face and body numerous times, while shouting vulgarities at him. Amongst other actions, the accused stepped back and performed multiple football kicks against victim’s head, kicked his crotch multiple times, spat in his face, and shouted “_Engkau ada apa dengan dia??! Sebelum aku bukak kau punya baju engkau baik cakap sekarang… Jangan sampai gua tembak lu kat sini sekarang lu mati lah Mat!_”, a Malay phrase which, translated to English, meant “_What’s your relationship with her??! Before I remove your clothes, you better say it now… Don’t make me shoot you to death here now lah Mat! Whatever happens, let it happen!_”
+
+13     Co-accused N similarly poked the victim s eyes with his fingers and choked him repeatedly to the point that he could not breathe, belittling the victim and punching and slapping his face when the latter begged him to release his grip.
+
+14     Co-accused D arrived a short time after the attack began, and immediately joined the attack, forming the intention to cause hurt to the victim. While co-accused N continued to pin the victim, co-accused D stepped on the victim’s head, kicked his head and body with his boots, used his elbow to strike the victim’s body, and said, amongst other things, “_Oh my, she’s after this small cock? Lan jiao lah!! Take a picture here lah! Hold his legs and take picture lah!_”.
+
+15     When NH attempted to intervene, she was spat on by the accused, who shouted at her to “_shut the fuck up_”. She was also attacked by co-accused D, who slapped and kicked her, and dragged her by her neck.
+
+16     The attack lasted about half an hour, with the victim being pinned to the ground and choked by co-accused N the entire time, and with the accused and co-accused D alternating punches and kicks against victim’s head and body. Towards the end of the incident, the accused also kicked the victim’s bare genitals.
+
+17     As a result of this attack, the victim suffered the following injuries:
+
+> (a)     Facial contusion,
+
+> (b)     Right floor of orbit fracture,
+
+> (c)     Right maxillary hemoantrum,
+
+> (d)     Right periorbital hematoma,
+
+> (e)     Right clavicle fracture, and
+
+> (f)     Minor head injury.
+
+18     The victim was given a total of 21 days’ medical and hospitalization leave. He was further offered an additional 30 days of hospitalization leave during a medical review, but declined the hospitalization leave as he needed to return to work.
+
+### Facts pertaining to the 377BE Penal Code charge
+
+19     Whilst attacking the victim, the accused, co-accused N, and co-accused D then decided to humiliate him further. Co-accused N continued to restrain the victim while the accused and co-accused D pulled down his pants and underwear to expose his genitals. When the victim attempted to resist, co-accused D punched his stomach, co-accused N poked his eyes a second time, and the accused kicked his crotch.
+
+20     The accused and co-accused D then took photos and videos of the victim’s genitals without his consent, while co-accused N continued to hold him down. Specifically, the accused used the victim’s own phone without his consent to take a video, recording both the victim’s injured face and exposed penis at length while insulting him verbally.
+
+21     At this point, co-accused D told the accused, “_Take! Then take his picture, send to all his contacts! Find group! Find group quick! Picture of his cock, his face with his cock! I slept with someone’s wife! Send all to group!_”_._ The accused then sent this video to over 500 of the victim’s contacts over Whatsapp for the purposes of causing humiliation to the victim. This included the victim’s colleagues, friends, neighbours, and sporting teammates. The accused also sent a copy of these videos to co-accused N.
+
+### Facts pertaining to the s 20 Miscellaneous Offences (Public Order and Nuisance) Act charge
+
+22     After the arrival of police officers, upon being told to calm down and to stop behaving in a rowdy fashion, the accused, co-accused N and co-accused D continued to conduct themselves in a disorderly manner by shouting derogatory insults at NH. They also sang “happy birthday” loudly for the purposes of mocking her. They did so while standing along Woodlands Centre Road, a public road. They only stopped shouting at NH when they were placed under arrest.
+
+23     In total, the victim incurred S$1,365.87 for his medical bills arising from this incident. Due to the extended hospitalization leave taken following this incident, his company did not renew his contract and he became unemployed.
+
+## Victim impact statement
+
+24     In his victim impact statement, the victim stated that he felt traumatised and ashamed towards his parents and cousins with regard to the injuries to his eyes. The injuries to his eyes and shoulder and the severe stress caused him to take a month off work. He was afraid of crowds which made him stay at home. He was advised to take a further 30 days of hospitalisation leave but he rejected it as he needed to return to work. When he returned to work, he felt frail and had no energy to work. His injuries had to be covered up by wearing a right shoulder support together with sunglasses to cover his right eye. He obtained a bad record in his company due to long hospitalisation leave and his contract was not renewed, resulting in him being dismissed in April 2020. He became fearful of driving and would be traumatised while driving if any vehicle followed him from behind. He had difficulty sleeping at night for several months and kept reliving the incident in his mind. He could not forget what the accused persons had done to him.
+
+## Antecedents
+
+25     The accused was untraced.
+
+## Prosecution’s submission on sentence
+
+26     The prosecution sought a global sentence of at least 4.5 years’ imprisonment and 6 strokes of the cane.
+
+27     This was achieved by running the sentences for the 1st charge, comprising at least 2.5 years’ imprisonment and 6 strokes of the cane, and the 5th charge, comprising at least 3 years’ imprisonment and 3 strokes of the cane, consecutively, achieving a total of at least 5.5 years’ imprisonment and 9 strokes of the cane. The prosecution submitted for at least one week’s imprisonment for the 6th charge which sentence would run concurrently with the 1st and 5th charges. The sentence would then be calibrated downwards, in light of the second limb of the totality principle, resulting in a global sentence of 4.5 years’ imprisonment and 6 strokes of the cane.
+
+28     The prosecution submitted that the applicable sentencing principles in the present case were deterrence and retribution and that retribution was applicable as the victim suffered from serious harm, including physical, financial, and emotional injury.
+
+29     Physically, the victim suffered from multiple fractures to different part of his body, including a fracture to his face, a vulnerable part of his body. The prosecution submitted that the victim’s medical report does not show the full extent of physical harm caused to him. The victim was offered an additional month of hospitalization leave upon being reviewed, bringing the total amount of medical leave offered to 51 days. He was also unable to drive properly for a protracted period of time due to his eye injury.
+
+30     Financially, the victim’s injuries caused him to take a month off work, which caused a significant decrease in his salary as a result. His contract was also not renewed as a direct result of his inability to attend work due to his injuries.
+
+31     Emotionally, the victim’s reputation was heavily affected, and he was made to suffer shame, by virtue of the nude videos of him in a compromised and battered state being circulated to over 500 of his friends, colleagues, teammates, and neighbours. His injuries also had to be covered up when he returned to work
+
+32     Psychologically, the victim was severely traumatized and became fearful of driving and crowded areas. He was also unable to sleep at night, and his daily activities were significantly affected by this stress.
+
+33     With regard to the 1st charge of causing grievous hurt, the prosecution submitted that this was a group offence which caused public disquiet and many members of the public witnessed the “brazen and brutal” attack occurring starkly in the open.
+
+34     Under the two-step sentencing framework established by the Court of Appeal in _PP v BDB_ <span class="citation">\[2018\] 1 SLR 127</span> (“_BDB_”), the prosecution submitted that where the offenders had caused more than one fracture to the facial region and pleaded guilty, the indicative starting point was between 2 to 4.5 years’ imprisonment, and 6 to 9 strokes of the cane, citing the cases of _PP v Ho Soo Kok_ <span class="citation">\[2002\] SGDC 134</span> (“_Ho Soo Kok_”) and _PP v Toh Jian Rui_ <span class="citation">\[2020\] SGDC 175</span> (“_Toh Jian Rui_”). The prosecution highlighted that _Ho Soo Kok_ was decided under the 1985 Penal Code, which imposed a lower maximum sentence of 7 years’ imprisonment for an offence under s 325 Penal Code, as opposed to the current 10 years’ imprisonment for the same offence. However, while the maximum sentence had been increased to account for a greater range of harm and culpability across a variety of factual matrixes, the tariff for offences with similar harm had not increased commensurately.
+
+35     The prosecution submitted that there were multiple fractures in this case, along with the victim being offered up to 51 days’ medical leave and the injuries were similar to those in _Ho Soo Kok_. As such, the prosecution submitted that the starting point in the present case should be at least 2 years’ imprisonment, and 6 strokes of the cane.
+
+36     As for the next step of the _BDB_ sentencing framework, the prosecution highlighted the following aggravating factors:
+
+> a.     The attack took place as a group attack, through the combined efforts of co-accused N, D and the accused thereby overpowering the victim and rendering him at their mercy throughout the entire incident;
+
+> b.     At all times, the victim was pinned to the ground by co-accused N, allowing the accused to attack him freely, performing a running kick into his face, a kick to his bare crotch, and even belittling the victim when the latter sought for co-accused N to ease his chokehold because he could not breathe;
+
+> c.     The attack was vicious and protracted and continued for over half an hour;
+
+> d.     The attack occurred near Woodlands Checkpoint on a Friday night, a peak traffic period at that location where hundreds of vehicles passed by the incident location during the material time and were able to see the attack.
+
+37     The prosecution submitted that there were few mitigating factors in the accused’s favour and his plea of guilt did not provide significant mitigating value as the video footage provided overwhelming and unassailable evidence against the accused.
+
+38     Taking into account the aggravating factors and the lack of mitigating factors, the prosecution accordingly sought an upward adjustment of the indicative sentence by 6 months to at least 2.5 years’ imprisonment, and 6 strokes of the cane.
+
+39     With regard to the 5th charge (transmission of intimate recording), the prosecution noted that this was a new provision that was enacted in the 2020 Penal Code amendments to stem the rising trend of offending behaviour, leveraging on technology to cause far-reaching psychological and reputational harm to victims. The prosecution submitted that a deterrent message must be sent to prevent would be offenders from engaging in such conduct.
+
+40     The prosecution submitted that the offence and offender specific factors set out in the reported decision of _PP v Shahrul Nizam Bin Kharuddin_ <span class="citation">\[2021\] SGDC 67</span> (“_Shahrul Nizam_”) were relevant even if the High Court on appeal did not endorse the prosecution’s sentencing framework.
+
+41     In _Shahrul Nizam_ the offender and the victim were in a romantic relationship, which ended as the offender suspected the victim to be cheating on him. Although the victim denied the allegation, the offender sent WhatsApp messages to her threatening to send video recordings of her masturbating herself and fellating him to her family members and friends. The offender pleaded guilty to a charge under s 377BE(2) Penal Code for threatening to distribute the intimate recordings. A sentence of 10 weeks’ imprisonment was imposed by the District Court and the offender’s appeal was dismissed by the High Court.
+
+42     The prosecution submitted that the accused’s acts were far more egregious in comparison with _Shahrul Nizam_ and should be punished far more severely, as there was an actual distribution of intimate images as opposed to mere threats to distribute such images.
+
+43     In terms of harm, the prosecution submitted that the primary factor in relation to harm for this case was the degree of humiliation, alarm or distress caused. The prosecution highlighted that the video was taken, using the victim’s phone, in the course of the victim being sexually assaulted and restrained. The accused further narrated the victim’s name, deliberately recorded his face, then moved to film his exposed genitalia. There was a clear intent for the victim to be identifiable in the videos. The accused then sent the video in a targeted fashion, to the victim’s various group-chats with his colleagues, neighbours, football teammates, and friends using the Whatsapp application. As the video came from the victim’s account, it was far more likely to be watched by his colleagues than if the accused had sent it using his own account, as the victim’s friends would have believed it to be a legitimate message from him. There was clear actual harm suffered by the victim in the form of severe trauma and his resultant fear of crowded public areas. In addition, he was made to suffer substantial humiliation, the sending of the videos deteriorating his relationships with nearly everyone acquainted to him and affecting his reputation at work, as evidenced by the victim impact statement. Accordingly, the emotional and psychological harm caused to the victim was clearly severe.
+
+44     As for culpability, the prosecution submitted that the offence was committed out of malice as the threat was made immediately after the victim denied his allegations that he was in a relationship with the NH. The fact that the accused acted out of malice, and his intention was entirely to cause harm to the victim, was further evident from his follow-up message to the victim’s group chat, where he sends a voice message stating “_Please forward to all people! Right? Forward to all everyone!_”
+
+45     The prosecution submitted that the accused’s offending continued over a protracted period of time while the victim was continually held down for over half an hour in a single period of intense humiliation. He was subjected to having the accused filming him with his own phone and sending the video to nearly all of his acquaintances, while being powerless to stop the accused. The prosecution accordingly submitted that the accused’s culpability was manifestly high.
+
+46     As the harm suffered by the victim was severe and the accused’s culpability was manifestly high, the prosecution submitted that the appropriate starting point was 45 months’ imprisonment, and 3 strokes of the cane. The prosecution submitted caning was justified as the facts of the case disclosed an offence of aggravated outraging of modesty under s 354A Penal Code which attracted mandatory caning.
+
+47     As for offender specific factors, the prosecution submitted that the accused had little choice but to plead guilty given the overwhelming objective evidence against him. As for the accused’s emotional state at the material time, the prosecution noted that the court in _Shahrul Nizam_ had stated explicitly that the accused’s highly emotional state, even at being betrayed by an intimate partner, did not carry much weight, if any, as a mitigating factor.
+
+48     Nonetheless, the prosecution was prepared to adjust the starting point to take into account the accused’s plea of guilt, such that the sentence for the 5th charge could be reduced by 9 months’ imprisonment from 45 months’ imprisonment to 36 months’ imprisonment and 3 strokes of the cane.
+
+49     With regard to the 6th charge, the prosecution submitted that primary aggravating factor was the fact that the accused and the co-accused D and N continued to berate NH after the police had already intervened and told the accused persons to comply with their instructions and cease their riotous behaviour, which demonstrated the accused’s disregard for authority and lack of remorse. It was only after the accused was placed under arrest that this behaviour ceased.
+
+50     The prosecution accordingly submitted that the appropriate sentence was a short custodial sentence of at least one week’s imprisonment.
+
+51     The prosecution submitted that the offences in the 1st and 5th charge were distinct in that the physical harm caused by the accused persons in the 1st charge, and the psychological and reputational harm caused to the victim by distributing the intimate videos of him in the 5th charge, fall under entirely separate legal interests. As such the sentences for the 1st and 5th charge should run consecutively.
+
+52     On the first limb of the totality principle as set out in _Mohamed Shouffee bin Adam v Public Prosecutor_ <span class="citation">\[2014\] 2 SLR 998</span> (“_Shouffee_”), the prosecution submitted that the accused’s aggregate sentence was not above the most normal level of sentences for the most serious of the individual offences involved (the s 325 Penal Code offence).
+
+53     On the second limb of the totality principle, the prosecution submitted that the aggregate imprisonment term of 5.5 years’ imprisonment and 9 strokes of the cane was both higher than the accused’s overall criminality in the current circumstances, and would be a crushing sentence on the accused. As such, a downward adjustment should be made by reducing the sentence by 1 year’s imprisonment and 3 strokes of the cane.
+
+54     This resulted in a global sentence of at least 4.5 years’ imprisonment and 6 strokes of the cane.
+
+## Mitigation
+
+55     The defence submitted for a global sentence of 6 months’ imprisonment and a S$500.00 fine.
+
+56     With respect to the 1st charge (grievous hurt), the defence referred to a number of case precedents namely _Arumugam Selvaraj v PP_ <span class="citation">\[2019\] SGHC 199</span> (“_Arumugam Selvaraj_”), _PP v Melis Hendrikus Dirk Maria_ <span class="citation">\[2020\] SGDC 93</span> (“_Melis Hendrikus Dirk Maria”_), _PP v Muhammad Haikal bin Suhairuddin_ <span class="citation">\[2020\] SGDC 108</span> (“_Muhammad Haikal bin Suhairuddin_”), _PP v Ong Choon Beng, Francis_ <span class="citation">\[2018\] SGDC 59</span> (“_Francis Ong_”), _PP v Samson Tanuwidjaja_ <span class="citation">\[2018\] SGDC 228</span> (_Samson Tanuwidjaja_”), _PP v Tan Jun Kai_ <span class="citation">\[2021\] SGDC 101</span> (“_Tan Jun Kai_”), _PP v Wong Tuan Huat_ <span class="citation">\[2018\] SGDC 248</span> (“_Wong Tuan Huat_”), _PP v Ryan Xavier Tay Seet Choong & anor_ <span class="citation">\[2020\] SGDC 27</span> (“_Ryan Xavier Tay_”).
+
+57     The defence submitted that it could be gleaned from these precedents that where the victim generally suffered fractures at the facial region, the imprisonment term was around 4 to 13 months’ imprisonment regardless of whether the offender had claimed trial or pleaded guilty.
+
+58     In the circumstances, given that the two most serious injuries that the victim suffered were the right floor of orbit fracture and a right clavicle fracture, the defence submitted for an indicative starting point of 8 months’ imprisonment. The defence submitted that a starting sentence of 8 months’ imprisonment was above the lowest sentence involving single facial fracture and below egregious cases such as _Francis Ong_ and _Ryan Xavier Tay_. The defence also submitted that caning was inappropriate given the factual matrix of the case.
+
+59     As for the second step on the BDB framework, the defence submitted that the only aggravating factor was that it was a group attack. The defence submitted that there was no deliberation or premeditation in attacking the victim and the accused persons had decided to assault the victim after they had confronted the victim and the victim had thrown the first punch. The manner and duration of the attack was also relatively short and the victim was not attacked by the accused throughout and the accused had only attacked him for a brief moment.
+
+60     As for mitigating factors the defence submitted that the accused was generally remorseful, had pleaded guilty at the first instance, had cooperated with the police, had written to the victim to apologise for his actions, offered to pay for the victim’s medical bills and was not in the right frame of mind when he caught NH cheating on him.
+
+61     After considering the aggravating factor and mitigating factors, the defence submitted that the starting position of 8 months’ imprisonment term should be reduced to a term of 6 months’ imprisonment.
+
+62     With regard to the 5th charge, the defence referred to the Penal Code Review Committee’s Report dated August 2018 (“PCRC report”). The defence submitted that the only case involving the actual distribution of intimate image which was cited by the PCRC report was the unreported case of _PP v Lu Yi_ where the offender was sentenced to 4 weeks’ imprisonment.
+
+63     While _Shahrul Nizam_ was a reported decision, the defence submitted that this was a case which involved the threatening to distribute intimate recordings of the victim under Section 377BE(2) and not 377BE(1) Penal Code. This was similar to offences which had been charged under sections 383 (extortion) and 506 (criminal intimidation) of the old Penal Code and as such, the sentence there should not be an appropriate guideline in arriving at a reasonable sentence for the accused. Nonetheless, the defence submitted that the offence specific factors and the offender-specific factors stated in _Shahrul Nizam_ was of assistance to the court in determining an appropriate sentence for the accused.
+
+64     In terms of harm, the defence submitted that the harm caused was on the severe end of slight as the video were not distributed to the public at large and were only sent to the two WhatsApp group chats and to the victim’s father. There was a low risk of the video circulation outside of the intended recipients as the victim’s father and their colleagues would not have sent the video to somebody else nor saved the video.
+
+65     The defence submitted that the intention of the enactment of Section 377BE of the Penal Code was mainly used to tackle revenge pornography which in this case, it clearly was not.
+
+66     The defence submitted that the nature of intimate recordings could be placed on a spectrum which showed different levels of harm as follows:
+
+![]([2022] SGDC 0025_Image/[2022] SGDC 0025_image1.png)
+
+67     The defence accordingly submitted that the video should be distinguished from the usual circumstances as the video was not one of a perverse nature (i.e., one with sexual activities) whereby there would be a risk of the intended recipients watching the video repeatedly for their perverted pleasure.
+
+68     In terms of culpability, the defence submitted that the accused had a low level of culpability. There was no pre-meditation nor sophistication on the part of the accused as the decision to send the video via WhatsApp was made on the spur of the moment. The accused had only initially wanted to send the video to his phone as evidence to show that NH had committed adultery but in a moment of folly and upon being spurred by co-accused D, he decided to send the video via WhatsApp. The defence did not deny that when the accused’s sent the video, his motive in committing the crime was solely to humiliate the victim but he was not in the right frame of mind and he was instigated into sending the video.
+
+69     The defence relied on the cases of _PP v Luo Zhiang_ <span class="citation">\[2016\] SGDC 115</span> (“_Luo Zhiang_”) and _PP v Koh Kwok Lun, Samuel_ <span class="citation">\[2016\] SGDC 130</span> (“Samuel _Koh”)_ where sentences of eight and ten weeks’ imprisonment were meted out respectively. In the circumstances, the defence submitted for a sentence of six weeks’ imprisonment for the 5th charge.
+
+70     As for the 6th charge, the defence submitted that the custodial threshold had not been crossed as a first-time offender who pleaded guilty to an offence under Section 20 of Miscellaneous Offences (Public Order and Nuisance) Act, usually be fined, relying on _PP v Gao Zhengkun_ <span class="citation">\[2019\] SGDC 241</span> _(“Gao Zhengkun”)_ at \[123\].
+
+71     Having regard to the case of _PP v Manfred Wu Jing Jie_ <span class="citation">\[2019\] SGDC 126</span> (“_Manfred Wu”_) where a fine of $1,500 was imposed, the defence submitted that the facts of the present case were less serious than that in _Manfred Wu_ and a fine of $500 should be imposed or alternatively one day’s imprisonment if the court was minded to impose a custodial term.
+
+72     The defence submitted that all three proceeded charges were offences which formed part of a single transaction and any imprisonment term imposed should run concurrently due to proximity in time, place, continuity of action and continuity in purpose. As such, the imprisonment terms for the 1st and 5th charge should run concurrently. This resulted in a global sentence of 6 months’ imprisonment and a fine of S$500.00.
+
+## The court’s decision on sentence
+
+### 1st charge - Voluntarily causing grievous hurt with common intention
+
+73     In _BDB_ the Court of Appeal set out the sentencing framework for an offence of causing grievous hurt under s 325 Penal Code. The _BDB_ two-step process was as follows:
+
+> a)     The first step was to ascertain the indicative starting point which corresponds to the seriousness of the injury, having regard to the nature and permanence of the injury and the full breadth of the permitted sentencing range.
+
+> b)     The second step was an adjustment of the indicative starting point based on the accused’s culpability and the relevant aggravating and mitigating factors.
+
+#### The victim’s injuries
+
+74     I first considered the injuries suffered by victim. The victim suffered two fractures as a result of the assault, namely a right clavicle fracture and a right orbital floor fracture. He also sustained a facial contusion, right maxillary hemoantrum, right periorbital hematoma, and a minor head injury. From the victim’s medical report of 4 August 2021, the victim was given hospitalisation leave from 8 to 26 February 2020 (19 days). He was then given outpatient leave from 27 February to 6 March 2020 (9 days).
+
+75     In _PP v Kwong Kok Hing_ \[2008\] 2 SLR (R) 684 at \[22\] (“_Kwong Kok Hing”)_ the Court of Appeal held that “hurt” as defined under s 319 Penal Code could “extend to non-physical injury, eg mental harm” and held at \[27\] that “long term psychological harm…is a relevant, and indeed often, crucial sentencing consideration.” The Court of Appeal accordingly held at \[28\] that despite the relatively superficial physical injuries suffered by the victim in _Kwong Kok Hing_, the emotional trauma callously inflicted upon her by the offender should not have been overlooked.
+
+76     In his victim impact statement, the victim stated that he felt traumatised and ashamed towards his parents and cousins due to the injuries to his eyes. The victim’s injuries caused him to take a month off work. He was afraid of crowds which made him stay at home. He rejected the further 30 days of hospitalisation leave offered as he needed to return to work. When he did return to work, he had to cover his injuries by wearing a right shoulder support together with sunglasses to cover his right eye, felt frail and had no energy to work. He obtained a bad record in his company due to his long hospitalisation leave and his contract was not renewed, resulting in him being dismissed in April 2020. He became fearful of driving and would be traumatised while driving if any vehicle followed him from behind. He had difficulty sleeping at night for several months. He kept reliving the incident in his mind and could not forget what the accused persons had done to him. In my view, these non physical dimensions of harm would need to be factored into the starting point.
+
+#### Sentencing precedents
+
+77     The defence referred to a number of case precedents (at \[56\]) and submitted for an indicative starting point of 8 months’ imprisonment. In my view, these case precedents can be distinguished as follows:
+
+78      _Arumugam Selvaraj_ was a case of _a single fracture_ to the victim’s right middle finger where the assault lasted for two minutes.
+
+79     In _Melis Hendrikus Dirk Maria_ the charge was reduced from one under s 325 Penal Code to one of causing hurt under s 323 Penal Code after a Criminal Revision was filed to the High Court.
+
+80     In _Muhammad Haikal bin_ the offender punched the victim once in the left eye resulting in _a single fracture_ and the victim was given three days of medical leave.
+
+81     In _Francis Ong_ the offender had stomped on victim’s face once resulting in _a single fracture_.
+
+82     In _Samson Tanuwidjaja_ the victim sustained _a single fracture_ of the tip of the nasal bone.
+
+83     In _Tan Jun Kai_ the victim sustained a _single fracture_, namely a _mildly displaced fracture_ of the right maxilla. Notably, he had an enhanced drug consumption charge which carried a minimum of 3 years’ imprisonment and the District Judge specifically took this long mandatory minimum sentence into account in passing a global sentence of 3 years and 4 months’ imprisonment.
+
+84     In _Wong Tuan Huat_ the victim sustained _a single fracture_, namely a minimally displaced nasal bone fracture.
+
+85     In _Ryan Xavier Tay Seet Choong_ the accused Ryan who was 20 years old at the time of the offence, had _punched the deceased in the head multiple times and smashed his face into the floor causing multiple fractures which lead to his death_. Ryan was sentenced to 4 years’ imprisonment and the co-accused Lawrence was sentenced to 8 months’ imprisonment. Lawrence’s role in the assault was much lower than that of Ryan and he was charged with facilitating Ryan in the assault by sitting on the victim to prevent the latter from extricating himself from the attacks of Ryan who inflicted the injuries on the deceased’s face. Notably, the District Judge found that the deceased had harassed and stalked Ryan and his family for 2 years which was a strong mitigating factor and held that this was an exceptional case of “vigilante justice”.
+
+86     In _BDB_ the Court of Appeal held at \[56\] that “where multiple fractures of the type and gravity described in the sixth charge against the accused in BDB are caused, the _starting point is an imprisonment term of around 3 years’ and 6 months’ imprisonment”_. The injuries sustained by the victim in _BDB_ in respect of the sixth charge were fractures to his left elbow, left calf, and his right 8th to 11th ribs. This starting point of 3 years’ and 6 months’ imprisonment for injuries of the nature sustained by the victim in _BDB_ was also referenced by the District Judge in _Toh Jian Rui_ in calibrating his starting point of 18 months’ imprisonment where the injuries included a fracture to the nasal bone/septum and a fracture of the anterior wall of the right maxillary sinus.
+
+87     Next, I considered two reported decisions where the court calibrated the starting point based on the seriousness of the injuries where there was more than one fracture.
+
+88     In _PP v Win Thu Ya_ <span class="citation">\[2018\] SGDC 204</span> (“_Win Thu Ya_”) the offender punched the victim in the face a few times in the course of a fight over a common love interest, causing the victim to sustain four facial fractures. The injuries sustained were left lamina papyracea fracture; floor of the left orbit fracture involving the left infraorbital nerve canal; depressed fracture of the left nasal bone; and fracture of the perpendicular plate of the ethmoid bone. The District Judge’s indicative starting point was 3 years’ imprisonment. The offender’s appeal to the High Court against his sentence lapsed.
+
+89     In _Muhammad Fuad Kamroden v PP_ <span class="citation">\[2019\] SGDC 287</span> (“_Muhammad Fuad Kamroden”)_ the victim sustained facial fractures involving the anterior, medial and lateral walls of the left maxillary sinus, left medial and lateral pterygoid plates, and medial wall of the right maxillary sinus. The District Judge referred to _Win Thu Ya_ and found that the fractures in _Win Thu Ya_ were worse in nature as they were concentrated not only on the nose but at the vulnerable left eye region too. The District Judge in _Muhammad Fuad Kamroden_ accordingly adopted an indicative starting point of 2 years’ imprisonment. The sentence was upheld by the High Court.
+
+90     In the present case, there were two fractures sustained by the victim which included one to the vulnerable eye region. I took into account the length of the hospitalisation and outpatient leave (19 and 9 days respectively), the additional 30 days of hospitalisation leave offered to him but rejected as he needed to work, as well as the emotional and psychological harm caused to the victim which I have earlier articulated and stated in his victim impact statement. In the circumstances, while the injuries in the present case were less serious than that in _BDB_, _Win Thua Ya_ and _Mohammad Fuad Kamroden_, they were certainly more serious than those cited by the defence in their case precedents which involved single fractures and which did not indicate emotional and psychological harm. For this reason, I was of the view that the indicative starting point should be 15 months’ imprisonment.
+
+91     As for aggravating factors, I took into account that this was a group attack as evidenced by the charge which was one of voluntarily causing grievous hurt _with common intention_. I gave no weight to the defence’s assertion that the victim had thrown the first punch as this was not borne out by the video footage which showed the victim helplessly pinned to the ground by co-accused N in a chokehold. While the victim was not continuously assaulted by the accused persons during that half hour, he was in a _continuous chokehold_ by co-accused N and there were several instances during the video where the victim said he could not breathe and asked co-accused N to release his grip whereupon co-accused N would punch and slap his face. The accused would then assault the victim from time to time (including kicking his exposed private parts) as he remained helpless, pinned down by co-accused N, spitting on him as well as belittling him and haranguing him to confess to adultery. Co-accused D would also take turns to assault the victim from time to time. When NH sought to intervene and stop the attacks on the victim, she was assaulted by co-accused D.
+
+92     While the prosecution submitted that the assault took place in a public place “witnessed by members of the public”, the initial confrontation with the victim had taken place on the road with other cars present where the accused and co-accused N had coordinated a driving manoeuvre to trap the victim’s car and prevented him from leaving. The parties then moved to a grass patch several metres away from the road. To this end, from the videos I did not see any crowd gathering or cars stopping to watch the incident. I accordingly placed less weight on this as an aggravating factor.
+
+93     In terms of mitigating factors, the prosecution’s submitted that the accused’s acts were captured on video and as such he had “little choice” but to plead guilty given the “overwhelming objective evidence” against him. That said, I noted that co- accused D and N had claimed trial and I took into account the fact that the accused had cooperated with the authorities and elected to plead guilty which would have spared the victim of testifying and reliving the ordeal of that night. The accused had also written a letter of apology to the victim and offered compensation although that was rejected by the victim. As for the accused’s highly emotional state of discovering NH with the victim in what he perceived to be an act of unfaithfulness, this was absolutely no excuse for committing the acts of violence on the victim and I gave this little weight as a mitigating factor.
+
+94     On balance, taking into account both aggravating and mitigating factors, I found that the aggravating factors outweighed the mitigating factors and imposed an uplift of 3 months’ imprisonment leading to a sentence of 18 months’ imprisonment for the s 325 Penal Code charge.
+
+#### Whether caning should be imposed
+
+95     The Court of Appeal in _BDB_ made the following observations on caning for an offence under s 325 Penal Code at \[76\]:
+
+> In cases prosecuted under s 325 of the Penal Code, **our courts have invariably imposed, in addition to imprisonment sentences, caning of at least six strokes where the offender in question is not exempted from caning under the CPC. As the authors of Sentencing Practice have noted (at p 266), caning “is also appropriate unless there are exceptional circumstances”. Where violence has been inflicted on a victim, retribution is likely to be the principal sentencing consideration that warrants the imposition of caning**: see Sentencing Principles in Singapore at paras 6.021 and 30.023, as well as Amin bin Abdullah v PP <span class="citation">\[2017\] SGHC 215</span> (“Amin”) at \[63\].
+
+> In our judgement, where death is caused, a sentence of 12 or more strokes of the cane may be warranted; whereas **where non-fatal serious injury is caused, a sentence of between six and 12 strokes of the cane may be considered**.
+
+\[emphasis added\]
+
+96     In _PP v ASR_ <span class="citation">\[2019\] 1 SLR 941</span> the Court of Appeal explained the relevance of the sentencing principle of retribution to caning at \[128\]:
+
+> The principle of retribution holds that the punishment imposed should reflect the degree of harm that has been occasioned by the offence and the offender’s culpability in committing it see _PP v Loqmanul Halom bin Buang_ \[2007\] 4 SLR (R) 753 at \[46\]. **Harm is generally measured by looking at the consequences of the offence, for example the degree of trauma and degradation suffered by the victim in this case**. Culpability, on the other hand, is generally assessed by looking at the offender’s state of mind when he committed the offence, for example whether the offence was committed with premeditation, out of rashness or under an afflicted mind.
+
+97     In the present case, I did not find any exceptional circumstances to depart from the starting point of caning for the s 325 Penal Code offence. To my mind and as I have earlier stated, it was clear that assault had resulted in significant trauma to the victim which justified the principle of retribution to be engaged and for caning to be imposed. At the same time, taking into account the fact that the accused had pleaded guilty thus saving the victim the trauma from having to testify as well as the fact that the offence was not pre-meditated, I imposed a sentence of 4 strokes of the cane for the s 325 Penal Code charge.
+
+### 5th charge - Distribution of an intimate recording
+
+98     Both parties agreed that the offence and offender specific factors as set out in _Shahrul Nizam_ were a useful guide even if the High Court on appeal did not adopt the prosecution’s sentencing framework in _Shahrul Nizam_.
+
+99     Accordingly, I set out the _Shahrul Nizam_ offence and offender specific factors as follows:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="52.6%"> <col width="47.4%"> </colgroup><tbody><tr><td align="left" class="b" colspan="2" rowspan="1" valign="middle"><p align="center" class="Table-Para-1"><b>Offence-specific factors</b></p></td></tr><tr><td align="left" class="r" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">Factors going towards harm</p><p align="justify" class="Table-Para-1">a) The degree of humiliation, alarm or distress caused</p><p align="justify" class="Table-Para-1">b) Harm occasioned by the threat</p><p align="justify" class="Table-Para-1">c) Vulnerability of the victim</p></td><td align="left" class="" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">Factors going towards culpability</p><p align="justify" class="Table-Para-1">a) The degree of planning and premeditation</p><p align="justify" class="Table-Para-1">b) The level of sophistication</p><p align="justify" class="Table-Para-1">c) The duration of offending</p><p align="justify" class="Table-Para-1">d) Age disparity between offender and victim</p><p align="justify" class="Table-Para-1">e) Abuse of position and breach of trust</p><p align="justify" class="Table-Para-1">f) The offender’s motive in committing the crime</p></td></tr></tbody></table>
+
+  
+  
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="52.62%"> <col width="47.38%"> </colgroup><tbody><tr><td align="left" class="b" colspan="2" rowspan="1" valign="middle"><p align="center" class="Table-Para-1"><b>Offender-specific factors</b></p></td></tr><tr><td align="left" class="r" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">Aggravating factors</p><p align="justify" class="Table-Para-1">a) Offences taken into consideration</p><p align="justify" class="Table-Para-1">b) Relevant antecedents</p><p align="justify" class="Table-Para-1">c) Evident lack of remorse</p><p align="justify" class="Table-Para-1">d) Risk of reoffending</p><p align="justify" class="Table-Para-1">e) Offending while on bail</p></td><td align="left" class="" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">Mitigating factors</p><p align="justify" class="Table-Para-1">a) A guilty plea</p><p align="justify" class="Table-Para-1">b) Co-operation with authorities</p><p align="justify" class="Table-Para-1">c) Psychological factors with causal link</p><p align="justify" class="Table-Para-1">d) Exceptional ill-health</p><p align="justify" class="Table-Para-1">e) Remorse</p></td></tr></tbody></table>
+
+  
+  
+
+100    The PCRC report recognised that prior to the enactment of s 377BE Penal Code, the Penal Code did not contain specific offences to criminalise specific acts of transmission of intimate recordings and such conduct was prosecuted under a patch work of offences under sections 292(a), 384, and 506 Penal Code. The PCRC report observed at \[3\] that “\[t\]he proliferation of the Internet and smart phones has made it extremely easy for images to be created, uploaded, and downloaded on various platforms, and very difficult for such images to be removed.” The PCRC report observed at \[4\] that a “stronger and consistent response is required to address the actual or threatened distribution of nude, semi-nude, sexual or sexually explicit images without consent” and accordingly recommended the creation of a new offence to criminalize actual or threatened distribution of intimate images.
+
+101    In _Shahrul Nizam_ the District Judge explained the rationale behind the enactment of s 377BE Penal Code at \[32\] which I respectfully agree with and set out as follows:
+
+> Parliament had recognised the prevalence of distributing and the threat to distribute intimate images and recordings in our society. This had led to the enactment of s 377BE(2) to specifically tackle this increasingly widespread practice. Parliament did this in two ways. First, they created the specific offences of threatening to distribute and distributing such images and recordings. **This was to address the current unsatisfactory practice of prosecuting such offences using a patchwork of different penal legislations** such as s 506 of the Penal Code. Secondly, they expanded the courts’ sentencing powers for these offences. **These offences were now punishable with up to five years’ imprisonment, and caning was also included as an option. These clearly indicated Parliament’s intention that these offences were deserving of greater condemnation and more deterrent sentences.**
+
+\[emphasis added\]
+
+102    In this regard, the PCRC report observed at \[17\] that:
+
+> …the spectrum of punishment prescribed should be able to accommodate egregious cases (eg where the image is actually distributed and where serious harm is caused to the victim). At the same time, the punishments prescribed should not be automatically harsh as a starting point in all cases because there could be less egregious (eg where an image is threatened to be distributed and the harm caused to the victim is not as serious).
+
+103    In my view, in applying the offence specific factors that affect harm and culpability, it would be necessary to apply them across the _whole spectrum_ of the sentencing range of 5 years under s 377BE(1) Penal Code. The PCRC report had also recognised at \[17\] that a threat to distribute was not as serious as actual distribution.
+
+104    Defence counsel submitted (at \[66\]) that there was a hierarchy of harm in ascending severity starting with photos/videos of the victim in undergarments, non-sexual photos/videos of the victim fully nude, sexual photos/videos of the victim fully nude, photos/videos of the victim engaging in sexual activity without full nudity and finally photos/videos with the victim engaging in sexual activities fully nude at the apex.
+
+105    With respect, I did not agree that the level of harm was so cut and dried so as to be able to be compartmentalised in such an ascending order as defence counsel asserts. This was necessarily a fact-sensitive exercise and much would turn on the context of each case including factors such as whether it was a photo or video, the number of photos and/or the duration of the video, whether the victim’s face and/or private parts could be seen, how the photos/videos were obtained (whether with or without the victim’s consent) and the context and to whom the photo/video was transmitted.
+
+106    I also did not accept defence counsel’s submissions that s 377BE Penal Code was enacted mainly to tackle revenge pornography (which in this case it was not). In my view the term “revenge pornography” was nothing more than a convenient label pertaining to a certain fact situation and does not necessarily cover the whole spectrum of offences contemplated under 377BE(1) Penal Code. In this regard, I am fortified by the PCRC report, where it was stated at the Introduction portion of the report as follows:
+
+> “Revenge pornography" is a media-generated term to describe the distribution of nude, semi-nude, or other sexual images without consent. The term, however, is a misnomer and has been widely rejected by scholars, practitioners, and lawmakers for two reasons. First, not all perpetrators are motivated by revenge. Second, not all images are pornographic or serve the purpose of pornography.
+
+107    Specifically, I did not agree with the defence counsel’s submission that a video of the victim engaged in sexual activity fully nude would _always_ rank worse in terms of harm than a video of the victim partially nude as in the present case. In the present case, the victim’s injured face could clearly be seen in the video with a light being shone on the victim’s private part with derogatory comments made by the accused about it, coupled with the accused’s commentary that the victim had committed adultery with another person’s wife and how he was caught on the way to Johor Bahru. The video was then sent to over 500 of his contacts using his phone which included his company, neighbourhood friends and soccer team chatgroups. I agreed with the prosecution that as the video was sent from the victim’s phone, it was more likely that it would be viewed by the victim’s contacts, as opposed to it being sent from the accused’s phone who the contacts would not know. The victim would then have to face the humiliation of meeting his colleagues and friends thereafter. The victim had stated in his victim impact statement that as a result of the video being sent to over 500 of his contacts, he was not able to meet his friends. He was subsequently dismissed from his job and has since joined a new company where he would keep the incident to himself and not share the incident with any of his new colleagues. That said, I could not say that the harm in the present case ranked at the very highest level of harm. Take for example, a case where a vulnerable victim such as a child who attempted suicide by the distribution of a video of the child being raped, which I would rank as higher in severity of harm. In the circumstances, I would place the harm in this case at the higher end of moderate in the present case.
+
+108    In terms of culpability, I took into account the fact that the filming of the video was done while the victim was helpless and pinned down by co-accused N whereupon his pants and underwear was removed for the filming to take place. I also took into the account that the video was of a relatively long duration which was more than 12 minutes long. I agreed with the prosecution that the offence was committed in malice as the intention was to send the video to the victim’s contacts ensuring that the victim was identified, with his private part filmed with a commentary by the accused to humiliate him including a comment by the accused asking the recipients to further forward the videos to “everyone”. Further, as for the defence’s submission that it was co-accused D who had instigated the accused to send the videos, this would be an aggravating factor for co-accused D and not a mitigating factor in favour of the accused. That said, I accepted that there was no pre-meditation on the accused’s part as the offence was committed on the spur of the moment and was not committed in a particularly sophisticated manner. I accordingly placed the accused’s culpability at the middle level of medium in this case.
+
+109    With harm at the higher end of moderate and culpability at the middle end of medium and taking into the full sentencing range of 5 years’ imprisonment, this would result in a starting point of 21 months’ imprisonment.
+
+110    In terms of offender specific factors, there were two related charges that were taken into consideration, namely the 2nd charge of criminal intimidation under s 506 Penal Code for threatening to circulate videos of the victim being beaten and stripped, as well as the 4th charge for insulting the modesty of the victim under s 377BA Penal Code.
+
+111    The video was eventually circulated which formed the basis of the 5th charge for which he was being sentenced. As for mitigating factors, the prosecution submitted that the accused’s acts were captured on the video and had “little choice” but to plead guilty given the “overwhelming objective evidence” against him. That said, I noted that both co-accused N and D had claimed trial and I took into account the fact that the accused had cooperated with the authorities and his plea of guilt would have spared the victim the ordeal of testifying. Further, he had written a letter of apology to the victim and offered compensation albeit rejected by the victim. On account of this, I adjusted the sentence downwards by 3 months to 18 months’ imprisonment for the 5th charge.
+
+112    With regard to the case precedents cited by defence counsel such as _PP v Luo Zhiang_ <span class="citation">\[2016\] SGDC 115</span> and _PP v Koh Kwok Lun Samuel_ <span class="citation">\[2016\] SGDC 130</span>, I found these cases of little assistance as they related to an offence under s 292(a) Penal Code (sale of obscene books etc) where the maximum punishment was only 3 months’ imprisonment whereas s 377BE(1) Penal Code was enacted with a punishment of up to 5 years’ imprisonment with Parliament recognising that such “offences were deserving of greater condemnation and more deterrent sentences.” The defence also referred me to a newspaper article dated 9 December 2021 of a case where the offender had sent a video of him having sex with the victim to her cousin to compel the victim to speak to him and the sentence passed was 12 weeks’ imprisonment. I did not find this newspaper article to be of much assistance as no grounds of decision was published by the District Judge for the sentence in that case.
+
+113    As for caning, given the accused had not been charged for an offence of aggravated outraging of modesty under s 354A Penal Code, I did not agree with the prosecution’s submission that caning should be imposed for the 5th charge on the basis that the facts of the case disclosed an offence under s 354A Penal Code which attracted mandatory caning. In any event, as I have already imposed 4 strokes of the cane for the s 325 Penal Code offence, I did not see the need to impose caning for the s 377BE(1) Penal Code offence. Further, I noted from the prosecution’s submissions that it was prepared to adjust the number of strokes downwards on the basis of the totality principle.
+
+### 6th charge - Disorderly behaviour with common intention
+
+114    In _Gao Zhengkun_ the court held at \[123\] that the usual sentencing tariff for such offences of disorderly behaviour were usually fines.
+
+115    In _Manfred Wu_ the offender acted in a disorderly manner by shouting vulgarities towards members of the public, despite given warnings for it. He was fined $1,500.
+
+116    In the present case, after the arrival of the police officers, the accused and the co-accused persons were told to calm down but they behaved in a rowdy fashion by shouting insults at NH and only stopped when placed under arrest.
+
+117    I was of the view that there was no reason to depart from the starting point of a fine as stated in _Gao Zhengkun_ as the accused was a first offender and the facts in the present case could not be said to be more serious than that in _Manfred Wu._ I accordingly imposed a fine of $1,500, in default 6 days’ imprisonment.
+
+## Consecutive sentences and totality
+
+118    In _Mohamed Shouffee bin Adam v PP_ <span class="citation">\[2014\] 2 SLR 998</span> (“_Shouffee_”) the High Court discussed the one-transaction rule at \[30\] as follows:
+
+> The better articulation of the rationale for the rule is found in the principle that consecutive sentences are not appropriate if the various offences involve a “single invasion of the same legally protected interest” (see D A Thomas, Principles of Sentencing (Heinemann, 2nd Ed, 1979) at p 53):
+
+>> The essence of the one-transaction rule appears to be that consecutive sentences are inappropriate when all the offences taken together constitute a single invasion of the same legally protected interest. The principle applies where two or more offences arise from the same facts — as when the same series of blows constitutes assault occasioning actual bodily harm and willful ill treatment of a child, or **malicious wounding and indecent assault** — **but the fact that the two offences are committed simultaneously or close together in time does not necessarily mean that they amount to a single transaction.** …
+
+>> On this formulation, the real basis of the one-transaction rule is unity of the violated interest that underlies the various offences. **Where multiple offences are found to be proximate as a matter of fact but violate different legally protected interests, then they would not, at least as a general rule, be regarded as forming a single transaction**.
+
+\[emphasis added\]
+
+119    I agreed with the prosecution that even though the offences were proximate in time and involved the same victim, they violated separate legally protected interests. Notably, in _Shouffee_ the court held that the fact that offences of malicious wounding and indecent assault were committed simultaneously or close together in time did not necessarily mean that they amount to a single transaction. In my view, an offence of causing grievous bodily harm and an offence of transmission of an intimate video concerned the protection of separate legally protected interests of the victim, with the former concerned with grievous hurt sustained by the victim whilst the latter concerned with the humiliation caused to the victim as a result of the intimate video being sent to over 500 of his contacts. Further, it did not follow that one offence would necessarily lead to the other and in this case, the focus of the video was not so much the grievous injuries caused to the victim but a narration of his alleged adultery and filming of his private parts with the intent to humiliate him.
+
+120    In my view, as both offences violated separate legally protected interests, they did not form a single transaction and both sentences of imprisonment should run consecutively.
+
+121    This resulted in a total sentence of 36 months’ imprisonment and 4 strokes of the cane and a fine of $1,500, in default 6 days’ imprisonment. I did not find a need to further adjust the global sentence on a totality basis as I was of the view that it was not substantially above the normal level of sentences for the most serious individual offence (in this case s 325 Penal Code). I also did not find the sentence crushing and was in accordance with the criminality of the accused.
+
+122    Finally, I note that the prosecution did not seek a compensation order as the victim had declined the voluntary compensation offered by the accused and I accordingly did not make any compensation order.
+
+123    The accused is on bail pending appeal.
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F27173-SSP.xml)
