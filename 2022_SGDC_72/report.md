@@ -1,0 +1,304 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Foo Chuan Chin  
+
+### \[2022\] SGDC 72
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">District Arrest Case No. 926158 of 2019, Magistrate's Appeal No. 9017-2022-01</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">04 April 2022</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Christopher Goh Eng Chiang</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Dwayne Lum (Attorney-General's Chambers) for the Prosecution; Gopalakrishnan Dinagaran (Prestige Legal LLP) for the Accused.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Foo Chuan Chin</td></tr></tbody></table>
+
+Immigration Act – Reasonable Cause to remain in Singapore
+
+Criminal Procedure and Sentencing – Sentencing
+
+\[LawNet Editorial Note: An appeal to this decision has been filed in MA 9017/2022/01.\]
+
+4 April 2022
+
+### District Judge Christopher Goh Eng Chiang:
+
+## Introduction
+
+1       The accused, Foo Chuan Chin (“the accused” or “Foo”), claimed trial to a single charge under s 15(3) punishable under s 15(3)(b) of the Immigration Act (“IA”), namely, that he remained in Singapore, without reasonable cause, from 29 April 1998 to 14 August 2018, a period of 20 years, 3 months and 17 days (7,413 days), after the expiry of the Employment Pass (“EP”) issued to him on 28 April 1995.
+
+## Background
+
+2       This matter was originally fixed for trial on 9 July 2021. However, the accused was diagnosed with major depressive disorder and was undergoing electroconvulsive therapy (“ECT”). He was certified medically unfit for trial by Dr Ng Beng Yeong (“Dr BY Ng”) and Dr Lim Yun Chin (“Dr YC Lim”)[^1]. A further mention date was fixed on 26 July 2021.
+
+3       On 26 July 2021, the Court was updated that the accused was still undergoing ECT[^2]. However, Counsel informed the Court that the accused had changed his mind and intended to plead guilty to the charge. Accordingly, the matter was fixed for a plead guilty mention on 15 September 2021. The plead guilty mention on 15 September 2021 was unsuccessful. The accused qualified his plea of guilt and his guilty plea was rejected. The matter was then fixed for trial on 12 November 2021.
+
+4       At the conclusion of the trial on 12 November 2021, I convicted the accused and sentenced him to 22 weeks’ imprisonment and a fine of $2,000, in default eight days’ imprisonment _in lieu_ of caning. The accused, being dissatisfied his conviction and the sentence imposed, has now appealed against both his conviction and sentence.
+
+## The Charge
+
+5       The charge faced by the accused is as follow:
+
+>     “that you, from 29.04.1998 to 14.08.2018, did contravene the provisions of Section 15(1) of the Immigration Act (Cap 133), to wit, that you, without reasonable cause, did remain in Singapore for a period of 20 years, 3 months and 17 days (7,413 days) after the expiry of the Employment Pass issued to you on 28.04.1995, permitting you to remain in Singapore till 28.04.1998, and you have thereby committed an offence under Section 15(3) punishable under Section 15(3)(b) of the Immigration Act.”
+
+## Case for the Prosecution
+
+6       The case for the Prosecution was fairly straight forward.
+
+### Evidence of PW1
+
+7       Mohamed Rudy bin Mahabut (“PW1”) was the Investigation Officer (“IO”) of the case.
+
+8       Sometime in 2018, the Immigration and Checkpoints Authority (“ICA”) conducted checks into children whose births were not registered. This was done with the aim of detecting parents who may be overstayers. During these checks, the child of the accused, one Brandon Foo, who was born on 1 March 2000, was discovered to be unregistered. Subsequent investigations revealed that the accused was not in possession of a valid pass that permitted him to remain in Singapore. In other words, his stay in Singapore was illegal.
+
+9       It was established that the accused had begun working for Asea Brown Boveri Pte Ltd (which later became ABB Industry Pte Ltd \[both entities will be referred to as “ABB”\]) sometime in 1990 and he left the company in November 2012. His last day of employment was on 30 November 2012.
+
+10     During the course of investigations, the following exhibits were obtained by PW1:
+
+> (a)     The accused’s Malaysian Passport[^3]. This showed the endorsement stamp stating that the Employment Pass (“EP”) issued to the accused _“permitted \[the accused\] to enter Singapore and remain until 28 Apr 1998 provided the travel document is valid”_[^4]_._ The accused’s Malaysian Passport expired on 9 June 1996.
+
+> (b)     The accused’s physical EP.[^5] This showed that the date of expiry of the EP 28 April 1998.
+
+11     Further investigations showed that, although there were two previous applications by the accused to renew his EP in 1993[^6] and 1995[^7], ICA’s records did not show any applications by the accused for other forms of visit pass, permanent residency status or Singapore citizenship after 28 April 1998, the date of the EP’s expiry.
+
+12     It is also the Prosecution’s case that Exhibits P3 and P4 also showed that the accused was aware of the expiry date of his Malaysian Passport as he was required to fill up the expiry date of his Malaysian Passport in the application forms when he applied to extend his EP.
+
+13     The accused was formally arrested on 14 August 2018. Therefore, from 29 April 1998 to 14 August 2018, the accused was not in possession of any pass that permitted him to remain legally in Singapore.
+
+### Evidence of PW2, PW3 and PW4
+
+14     Lee Hwee San (“PW2”), Ng Bee Eng (“PW3”) and Purdy Donna Maree (“PW4”) are presently or were employees working in the Human Resource (“HR”) Department of ABB.
+
+15     PW2 is an employee of ABB. She has been working in the HR Department since 1992. Between 2000 to 2013, she took care of ABB’s work pass applications. This was outsourced to an external agency, PricewaterhouseCoopers (“PwC”) in 2013. PW2 confirmed that a valid passport was required to apply for a work pass. The company did not renew passports for their employees nor do they safe keep them as this was a personal document. As far as she could recall, between 1998 to the end of 2012, the accused had never enquired from her as to the status of his EP .
+
+16     PW3 was an employee of ABB in Singapore from August 1999 to December 2011. From January 2012 to July 2014 she worked for ABB in China. While in Singapore, she was ABB’s HR Manager, overseeing the HR Department. Like PW2, she confirmed that an EP could not be renewed with an expired passport. She confirmed that ABB did not renew their employees’ passports on their behalf, and that the accused had never approached her to enquire about the status of his EP whilst she was ABB’s HR Manager.
+
+17     PW4 is the present HR Manager of ABB. She joined ABB in 2015, after the accused had left the company. The internal documents that she had retrieved from the company for the purpose of this case showed that the accused was ABB’s country managing director from 2006 to 2012. From 2012 to November 2012, when the accused resigned from ABB, he held the position of Global Business Controller.
+
+18     In cross-examination, PW4 explained how work passes were presently renewed. PwC, who now managed the renewal of such passes, would contact the expatriate whose EPs were about to expire, and forward the paperwork to him or her. Once that expatriate had completed the forms, it would be sent back to PwC[^8] and PwC would manage the renewal. Prior to this function being outsourced to PwC, the procedure was generally similar. The renewal notices would be sent by the Ministry of Manpower to ABB’s HR Department, who would, in turn, forward it to the individual concerned. Once the forms were completed by the individual concerned, it would be returned to the HR Department, who would then “lodge the application and make payment”.[^9]
+
+## Case for the Defence
+
+19     It is the accused’s defence that that he had _reasonable cause_ to remain in Singapore. The Defence had divided the period the accused had overstayed in Singapore into two time periods. This was the period when he was employed by ABB and the period after he left ABB’s employment.
+
+### 28 April 1998 to 30 November 2012
+
+20     This encompassed the period when the accused was in the employ of ABB. The period is from the expiry of the accused’s EP on 28 April 1998 until his last day of work at ABB on 30 November 2012.
+
+21     In 1991, the accused joined ABB. He rose through the ranks in ABB, eventually becoming, effectively, its Chief Executive Officer in 2006 until his resignation in November 2012.
+
+22     While at ABB, he signed two application forms in 1993 and 1995 to extend his EP[^10]. For the first of these application forms, Exhibit P3, or the 1993 application form, the accused confirmed that he filled up the particulars at pages 1 and 2 of the form, including the expiry date of his Malaysian Passport, and he had signed the application form.[^11] For the second of these application forms, Exhibit P4, or the 1995 application, the accused did not fill up the particulars of the form, however, he confirmed that the signature of the applicant at page 2 of the form was his signature.[^12]
+
+23     Based on these two applications, the accused assumed that ABB would continue to apply for the renewal of his EP and submit the application forms. His impression was reinforced by the fact that he continued to work for the company, was paid his salary, obtained pay raises, paid his taxes and made contributions to his Central Provident Fund (“CPF”)[^13], without any problem. Although he had no other EP other than Exhibit P2, he had the impression that subsequent EPs were applied for, were approved, and were safe kept by ABB.
+
+24     In late 2012, the accused resigned from ABB. He cited burnout as one of the factors. To facilitate his retirement, he requested certain documents from ABB including all his EPs. Only one, Exhibit P2, was returned to him.[^14] This was when he realised that he had overstayed in Singapore. He confirmed that despite finding this out, he did not speak to the company’s HR manager about ABB’s failure to renew his EP. He felt that there was no point in doing so as he was about to leave the company.
+
+25     The accused was aware when his Malaysian Passport was going to expire ie. 9 June 1996. However, he did not renew it because, before he could do so, he would have to renew his blue Malaysian Identity Card (“MIC”). This he did not do because the Malaysian staff at the immigration department in Johor had demanded money from him before they would renew his MIC and he had refused to pay. In any event, he did not realise that the EP was linked to his Malaysian Passport. No one from ABB had informed him. If he had known, he would have done something about it, ie. to renew his Malaysian Passport, despite the fact that his MIC had expired[^15].
+
+### 1 December 2012 to 14 August 2018
+
+26     This encompassed the period after the accused left ABB, from 1 December 2012, until he was formally arrested for this offence on 14 August 2018. The accused does not deny that he was not in possession of a valid pass that would allow him to remain in Singapore during this period. However he cited his mental condition as the reason why he did not regularise his stay.
+
+27     When the accused discovered that he had overstayed in Singapore, he was shocked and puzzled. With this discovery, he also began to harbour suicidal thoughts. His mental health began to deteriorate, and he fell into clinical depression, although at that time, he did not know it was depression. This was only diagnosed later, after he sought legal advice. He felt a sense of hopelessness, helplessness, sense of malaise and a lack of motivation[^16].
+
+## Analysis of the evidence
+
+28     The accused does not deny that that he was not in possession of a valid pass from 29 April 1998 to 14 August 2018, a period of 20 years, 3 months and 17 days. Therefore, the only issue is whether the accused had _reasonable cause_ to remain in Singapore despite not having a valid pass.
+
+### Reasonable cause
+
+29     The term “reasonable cause” is not defined in the IA, However, the High Court’s decisions in _Virgie Rizza V Leong v Public Prosecutor_ <span class="citation">\[1998\] SGHC 112</span> (“_Virgie Rizza_”) and _Chan Chun Yee v Public Prosecutor_ \[1998\] SLR (R) 172 (“_Chan Chun Yee_”) has given an indication as to what this would entail. This would include, _inter alia_, that:
+
+> (a)     what suffices as reasonable cause must depend on the circumstances of each case (per _Virgie Rizza_ at \[23\]);
+
+> (b)     there must objectively be evidence showing that the belief is reasonable in the circumstances (per _Chan Chun Yee_ at \[22\]);
+
+> (c)     blind reliance on others for compliance with the IA does not afford a defence and the burden is on the offender claiming that they have a right to remain in Singapore to show that they have made reasonable inquiries to verify their own immigration status. A strict approach was necessary as there are serious social implications of unrestricted immigration that the Act attempts to curb (per _Chan Chun Yee_ at \[23\]);
+
+30     As mentioned, the Defence had divided the accused’s period of overstaying of 20 years, 3 months and 17 days or 7,413 days into two parts. The first period covered his period of employment at ABB, whilst the second period covered the time after he left ABB until he was arrested. I will deal with these two periods in turn.
+
+### 28 April 1998 to 30 November 2012
+
+31     From the accused’s own evidence, it is clear that he was aware that his Malaysian Passport was going to expire on 9 June 1996.[^17] He had tried to unsuccessfully renew it prior to its expiry date. The accused was also aware of the endorsement in his passport which stated that his EP would be valid until 28 April 1998 or for as long as his passport was valid.[^18] Therefore the accused would have been aware that, if his EP was not renewed, his stay in Singapore after 28 April 1998 would be illegal, although he claimed that it did not strike him as such because he thought that ABB would have renewed his EP.
+
+32     The accused’s defence was that he had reasonable cause to remain in Singapore because, as ABB had renewed his EP on two previous occasions prior to 1998, hence it was reasonable for him to expect that ABB would have continued to apply for and / or extend the EP on his behalf from 1998 onwards. I did not find this expectation or assumption of the accused reasonable.
+
+33     The accused’s belief that ABB had continued to apply for and / or extend the EP on his behalf after 28 April 1998 was difficult to understand. In the 1993 application, the accused had fill up the particulars in the application form himself while in the 1995 application, these particulars were filled for him. However, in both instances, he had to personally sign the declaration in the application forms signifying that the contents of the application form were true and correct. Therefore, the accused would still have to, at least minimally, check the application forms for their accuracy before appending his signature to them. This is not surprising. An EP may be linked to an applicant’s company, but they are personal to the applicant and the obligation would be on an applicant to ensure the accuracy of the information stated therein.
+
+34     For his two previous EP renewal applications in 1993 and 1995, the accused admitted that[^19]:
+
+> (a)     he was aware that each application was for just three years at a time;
+
+> (b)     he checked every detail on P3 and P4 for accuracy;
+
+> (c)     he personally signed the application forms; and
+
+> (d)     he submitted his travel document to obtain the endorsement stamp from the immigration authorities.
+
+35     It is therefore difficult to believe that despite having to take all of these steps in order to renew his EP then, for more than 17 years after he signed on the 1995 application form, he did not sign any other application form, and yet this fact did not raise any concerns with the accused. In fact, throughout this period, he had never enquired from the HR department about anything regarding his EP. He seemed to have conveniently ignored it.
+
+36     The accused’s belief is even more curious and difficult to understand when one considers that the accused was aware when his Malaysian Passport would have expired, namely on 9 June 1996. The accused is an educated person, running a multi-million-dollar company. Surely, he would have realised that, at the very least, upon the expiry of his Malaysian Passport, his continued stay in Singapore would be illegal, irrespective of whether his EP had expired or not, even if he had not been aware of the endorsement in his Malaysian Passport (on Page 17, Exhibit P1) or that, as he claimed, he was under the impression that ABB had renewed his EP on his behalf. It is inconceivable that he did not realise this.
+
+37     In fact, it does not make sense, objectively, that an EP could “outlive” the principal document allowing a person’s continued stay in a foreign country ie. the passport. Yet, the expiry of the passport also did not seem to raise any alarm or concern in the accused. I therefore did not find this belief reasonable at all.
+
+38     Next, I am unable to accept the Defence’s submission the accused _“… did not blindly rely on ABB to comply with the IA because he honestly believed that ABB would have applied similarly as they did so \[on\] 19 August 1993 and 22 March 1995 ….”[^20]._
+
+39     Even if I accepted that the accused’s belief that ABB would have applied for, or extended his EP on his behalf was reasonable and an honest belief at that, which I do not, and that it was an administrative oversight on the part of ABB in failing to do so, the accused is unable to provide an adequate explanation why he had made no checks or inquires during this period to determine if this was indeed the case. In fact, when queried by the Court, the accused was unable to explain rationale basis for this assumption that ABB would be extending the EP on his behalf when he had not signed any forms[^21].
+
+40     The fact that the accused was promoted to a high post within the company, that ABB continued to pay his CPF contributions, that he continued to pay income tax etc does not detract from the fact that accused made no checks or inquires whatsoever. The fact that the accused “_honestly believed_” that ABB would be extending and / or applying for the EP on his behalf was also neither here nor there because no checks or inquiries were made. In fact, by not doing any checks or inquiries into the status of his EP for such a long period of time, it is the very definition of to “blindly rely” and, as per the High Court’s decision in _Chan Chun Yee_ at \[23\], and it does not afford the accused a defence to the provisions in the IA.
+
+41     I note that the accused has made an assertion that ABB had been extending EPs for other expatriates or senior foreign managers working for the company[^22] and the Defence had suggested that the evidence of PW2, PW3 and PW4 confirmed this fact. In addition, the Defence had submitted that ABB, having realised their mistake in not renewing the accused’s EP, had outsourced the task of applying for EPs in 2013.[^23]
+
+42     I have to again disagree with the Defence. There is no evidence that ABB had been extending EPs for other expatriates or senior foreign managers working for the company. I am unsure how the Defence had reached this conclusion. No evidence has been proffered by the accused. The evidence from the Prosecution’s witnesses and even from the accused were clear and unequivocal. When such applications were dealt with by ABB internally or eventually outsourced, these renewal application forms would be sent by ABB (and later PwC) to the persons concerned, at the very least to check for the accuracy of the contents. More importantly, it was for the applicant to sign the forms and declare that the contents were accurate. The company would not be able to do this on their behalf. At best, the company would assist them in their application.
+
+43     All considered, I was therefore incredulous that the accused could have reached the assumption that ABB had applied for, or extended his EP on his behalf, without any involvement from the accused himself during his period of employment after 28 April 1998. The accused had suggested that, because of his position within the company, he had to sign many documents, and that he assumed that one of these documents could have been the renewal applications[^24]. This was disingenuous. It is absurd that a person in the accused’s position would have signed any document without first reading and understanding what he was signing.
+
+44     Therefore, in my view, the accused has not shown any reasonable cause for remaining in Singapore during this period without a valid pass of any kind.
+
+### 1 December 2012 to 14 August 2018
+
+45     As mentioned, this was the period after the accused left ABB’s employment until his arrest. In fact, the Defence had admitted that the accused[^25] had no reasonable cause to remain in Singapore during this period. It was conceded that by 11 September 2012, the accused was aware that he had no valid EP[^26], but he had chosen to continue to overstay in Singapore. He had, on occasion, thought of surrendering but did not do so because of his fear as to what would happen to his family[^27].
+
+46     The best reason that the accused had to offer was apparently his mental health. After his “retirement” from ABB, the accused fell into clinical depression and his mental condition deteriorated. His mental condition during that period of time prevented him from doing anything. He was in deep clinical depression.[^28] He only sought psychiatric help later.
+
+47     Other than the assertion of the accused himself, there is no objective evidence to show that the accused was suffering for a particular mental condition or that this condition was so serious as to prevent him from regularising his stay in Singapore. The accused’s own evidence showed otherwise. For example, in late November 2012, he was e-mailing ABB’s HR Department to arrange to have continued use of the company’s vehicle for an additional month after his resignation.[^29] It seemed strange that he was able to negotiate for the continued use of the company’s vehicle, but yet, suggested that his mental condition was so bad that he was not able to regularise his stay or, “to do anything”.
+
+48     It is also pertinent to note that despite the accused’s protestations to the contrary about how ABB had failed in their obligation to renew his EP, he had never queried ABB about this but yet he had taken the time and effort to e-mail ABB for further use of the company’s vehicle.
+
+49     The Defence may point to the several medical reports, memoranda and letters that the Court had sight of, setting out the accused’s mental condition. These documents showed that the accused was suffering from a major depressive disorder and the type of treatment he was getting. However, it should be noted that they never formed part of the trial proceedings. The Defence had never sought to have them admitted into evidence as part of the trial, either through Dr YC Lim and / or Dr BY Ng, the makers of the documents or through the accused. These were filed on 14 September 2021 as part of the Defence’s Bundle of Documents and formed part of the accused’s plea in mitigation for the scheduled plead guilty mention the next day, 15 September 2021. Nevertheless, I proceeded to peruse these reports. I concluded that, even if they had been admitted into evidence for the purposes of the trial, they would not have led me to the conclusion that the accused’s mental condition was so severe that he was unable to take steps to regularise his stay in Singapore. Hence, I found that there was no reasonable cause for the accused to remain in Singapore during this period.
+
+## Decision at the end of trial
+
+50     In summary, I found the following at the conclusion of the trial:
+
+> (a)     that the Prosecution had proven that the accused had remained in Singapore from 28 April 1998 to 14 August 2018 without a valid pass; and
+
+> (b)     that the accused had not shown, on a balance of probability, that he had reasonable cause to remain in Singapore throughout this entire period.
+
+51     Accordingly, I found the accused guilty and convicted him of the single charge under s 15(3) punishable under s 15(3)(b) of the IA for overstaying in Singapore for more than 90 days.
+
+52     I will touch briefly on one other point. Namely the reason why the accused had never registered his child’s birth or sent his son for any formal education until after this offence was discovered.[^30]
+
+53     The Prosecution had suggested that the accused’s failure to do so was because he did not want his illegal status in Singapore to be discovered.[^31] The Defence strongly denied this fact. However, in determining whether the accused was guilty or not guilty of the overstaying charge, and whether the accused had reasonable cause to remain in Singapore, it was not necessary for me to decide on the motivation behind why the accused had not registered his son’s birth or why he had not subsequently sent him for any formal education. I therefore made no finding on this matter whatsoever.
+
+## Decision on sentence
+
+54     Having convicted the accused of the overstaying charge, I next dealt with the issue of the appropriate sentence to impose.
+
+### Punishment prescribed by law
+
+55     The punishment prescribed by law under s 15(3)(b) of the IA for remaining unlawfully in Singapore for a period exceeding 90 days is as follows:
+
+>      _“…. shall on conviction be punished with imprisonment for a term not exceeding 6 months and shall also, subject to sections 325(1) and 330(1) of the Criminal Procedure Code 2010 be punished with caning with not less than 3 strokes, or where, by virtue of that section he is not punishable with caning, he shall, in lieu of caning, be punished with a fine not exceeding $6,000.”_
+
+### Submissions on sentence
+
+56     In light of the long period that that the accused had overstayed illegally in Singapore, the Prosecution submitted for a sentence of six months’ imprisonment and a fine of $6,000 _in lieu_ of caning. This would represent the maximum sentence that the Court could impose. The Defence left the issue of sentencing to the Court
+
+#### Mandatory Treatment Order (“MTO”)
+
+57     Although Counsel had left sentencing to the Court,[^32] he subsequently informed the Court that he wished to rely on his submission entitled “_Application to call for a Mandatory Treatment Order Suitability Report_” dated 14 September 2021, which was filed as part the accused’s plea in mitigation for the unsuccessful plead guilty mention on 15 September 2021. In this, Counsel urged the Court to call for an MTO suitability report on account of the accused’s mental condition. This was supported by the various medical reports that can be found in the Bundle of Documents alluded to earlier in these Grounds.
+
+58     The accused had been convicted of an offence under s 15(3)(b) of the IA. This carried a mandatory minimum sentence of three strokes of the cane upon conviction. Unfortunately, s 337(1)(b)(ii) of the Criminal Procedure Code provides that the Court is unable to make any community order, which includes an MTO, where the offence prescribes a mandatory sentence of, among other things, caning. Therefore, the Court is unable to make such an order. I therefore rejected the submission to call for an MTO Suitability Report.
+
+### The indicative starting point
+
+59     I first began with determining the indicative starting point for such an offence.
+
+60     The two main factors for overstayers in the determination of sentence are the duration and purpose of the overstaying. These have been applied in other reported decisions. For example, in _PP v Nomana Intekhab Hadi_ <span class="citation">\[2015\] SGDC 342</span> (“_Normana”_) at \[15\], in _PP v Monica Rachelle Vinca Rosea_ <span class="citation">\[2020\] SGDC 137</span> (_“Monica”)_ at \[17\] and in _PP v Cai Xianye_ <span class="citation">\[2021\] SGDC 257</span> (_“Cai”_) at \[30\]. However. I noted that in many cases, there is no information as to why an offender had overstayed in Singapore, hence, the key factor in determining the indicative starting point for such offences in such cases, would, in my view, be the duration an offender had overstayed in Singapore.
+
+61     I reviewed precedent cases, including those cases referred to by the Prosecution. Whilst several of these are unreported decisions, they nonetheless provide some guidance in determining where the indicative starting sentence should lie. The following are some of the precedents I had reviewed:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="31.46%"> <col width="37.96%"> <col width="30.58%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Case</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Brief Facts</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Sentence Imposed</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>Cai Xianye.</em></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Overstayed 240 days after the expiry of his visit pass.</p><p align="justify" class="Table-Para-1">Tried to look for a job but was unsuccessful.</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">6 weeks’ impt and 3 strokes of the cane.</p><p align="justify" class="Table-Para-1">Appeal discontinued</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>Nomana</em></p><p align="justify" class="Table-Para-1">Note: Offender also faced other charges</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Overstayed 942 days after the expiry of her social visit pass.</p><p align="justify" class="Table-Para-1">She liked Singapore and wanted to enjoy life here.</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">4 months’ impt and fine $4,000 i/d 1 months’ impt <em>in lieu</em> of caning.</p><p align="justify" class="Table-Para-1">Appeal withdrawn</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>Monica</em></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Overstayed 1062 days after the expiry of her student pass.</p><p align="justify" class="Table-Para-1">No reasons given why she overstayed.</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">14 weeks’ impt and fine $2,000 i/d 2 weeks’ impt <em>in lieu</em> of caning.</p><p align="justify" class="Table-Para-1">Appeal dismissed</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>PP v. Karuppia Sathyaraj</em></p><p align="justify" class="Table-Para-1">(DAC-926448-2019)</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Overstayed 2777 days after the expiry of his visit pass.</p><p align="justify" class="Table-Para-1">No reasons given why he overstayed.</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">6 months' impt and 4 strokes of the cane</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>PP v Zhang Luye</em></p><p align="justify" class="Table-Para-1">(DAC-911302-2021)</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Overstayed 3535 days after the expiry of her visit pass.</p><p align="justify" class="Table-Para-1">No reasons given why she overstayed.</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">6 months' impt and fine of $2,000 i/d 2 weeks’ impt <em>in lieu</em> of caning.</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>PP v. Ali Raza</em></p><p align="justify" class="Table-Para-1">(DAC-900806-2021)</p><p align="justify" class="Table-Para-1">Note: Offender also faced other charges</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Overstayed 5738 days after the expiry of his student pass.</p><p align="justify" class="Table-Para-1">Had to work to earn money for his family</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">6 months' impt and 3 strokes of the cane</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>PP v Chen Lihua</em> (DAC-930129-2019)</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Overstayed 6924 days after the expiry of her visit pass.</p><p align="justify" class="Table-Para-1">No reasons given why she overstayed.</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">6 months' impt and fine of $2,000 i/d 2 weeks’ impt <em>in lieu</em> of caning.</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>PP v. Wang Liyun</em> (DAC-946542-2017)</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Overstayed 7443 days after the expiry of her visit pass.</p><p align="justify" class="Table-Para-1">No reasons given why she overstayed.</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">24 weeks’ impt and fine $2,000 i/d 8 days’ impt <em>in lieu</em> of caning</p></td></tr></tbody></table>
+
+  
+  
+
+62     The sentences imposed in these cases show the correlation between the period overstayed and the length of the imprisonment term imposed, namely, the longer the period that an offender has overstayed in Singapore, the longer the term of imprisonment imposed. Where the period overstayed is substantial, the maximum imprisonment term of six months is usually imposed.
+
+63     In the present case, the period that the accused overstayed in Singapore is extremely long. It is almost as long the 7,443 days in _Wang Liyun_, above. Hence, I am of the view that the indicative starting point of six months’ imprisonment submitted by the Prosecution would not be inappropriate.
+
+### Mitigating and aggravating factors considered
+
+64     There were no aggravating factors in this case. I therefore proceeded to consider the mitigating factors. I was of the view that the following factors warranted a downward adjustment from the indicative starting sentence.
+
+65     First, the accused’s mental condition. For the purposes of mitigation, I considered the medical reports prepared by Dr YC Lim and Dr BY Ng. Essentially, the accused has been diagnosed to be suffering from major depression. His condition had deteriorated to such a stage that he is receiving treatment in the form of ECT to, amongst other things, _“suppress his suicidal thoughts and to improve his mood”[^33]._
+
+66     Next, I considered his personal circumstances. The accused had worked and lived in Singapore for almost the entirety of his adult life. He has contributed towards the economy of Singapore by way of his job and the payment of taxes etc, and he has never run afoul of the law. He is also married to a Singaporean and has a son who is Singaporean. By most measures, the accused is practically a Singaporean. Unfortunately, for reasons best known to him, he failed to regularise his stay in Singapore and has ended up in this predicament. Having been convicted for this offence, the accused would likely be deported from Singapore upon once he has served his sentence and would be separated from his family. I empathised with his situation.
+
+## The Sentence Imposed
+
+67     All considered, I was of the view that a slight downward adjustment from the indicative starting sentence of six months’ imprisonment would be appropriate. Accordingly, I adjudged that the appropriate sentence of imprisonment to be imposed in the present case was 22 weeks’ imprisonment.
+
+68     Upon conviction, the Court is also required to impose a sentence of caning of at least three strokes. However, as the accused is above 50 years of age and cannot be caned, I adjudged that a fine of $2,000 in default 8 days’ imprisonment _in lieu_ of caning as prescribed under the IA was appropriate.
+
+69     Having adjudged what the appropriate sentence was in the present case, I took a last look at the case to determine if there was a need to adjust the sentence any further. There were none. The final sentence that I had reached was in line with the sentencing precedents that I had reviewed, above. Therefore, the final sentence imposed on the accused was as follows:
+
+**22 weeks’ imprisonment and**
+
+**$2,000 in default eight days** **_in lieu_** **of caning**
+
+70     The accused has now appealed against both his conviction and sentence imposed. I have stayed the commencement of the accused’s imprisonment term and the payment of the fine. The accused is on bail pending the outcome of this appeal.
+
+* * *
+
+[^1]: See the letter from Dr YC Lim dated 6 July 2021 addressed to the Court and the memorandum from Dr BY Ng 7 July 2021.
+
+[^2]: See letter from Dr BY Ng dated 23 July 2021.
+
+[^3]: Exhibit P1.
+
+[^4]: Exhibit P1, at page 17.
+
+[^5]: Exhibit P2.
+
+[^6]: Exhibit P3.
+
+[^7]: Exhibit P4.
+
+[^8]: Notes of Evidence (“NE”), 12 November 2021, at 81/4 – 8.
+
+[^9]: NE, 12 November 2021, at 81/14 – 18.
+
+[^10]: Exhibits P3 and P4.
+
+[^11]: NE, 12 November 2021, from 91/1 to 92/2.
+
+[^12]: NE, 12 November 2021, at 95/12.
+
+[^13]: NE, 12 November 2021, at 96/10 – 32.
+
+[^14]: NE, 12 November 2021, at 107/6 – 7.
+
+[^15]: NE, 12 November 2021, at 111/2 – 12.
+
+[^16]: NE, 12 November 2012, at 114/3 – 13.
+
+[^17]: NE, 21 November 2021, at 119/6 - 24
+
+[^18]: NE, 12 November 2021, at 121/9 – 18.
+
+[^19]: NE, 12 November 2021, at 123/9 – 17, 124/1 – 11 and 132/4 – 11.
+
+[^20]: Defence Closing Submissions (“DCS”) at \[6\].
+
+[^21]: NE, 12 November 2021, from 153/24 to 154/20.
+
+[^22]: Exhibit P5 at \[7\], the accused’s Statement to the Police dated 14 August 2018.
+
+[^23]: DCS at \[28\].
+
+[^24]: NE, 12 November 2021, from 152/21 to 153/3.
+
+[^25]: See DCS at \[48\].
+
+[^26]: NE, 21 November 2021, at 144/22 – 25.
+
+[^27]: For example, see Exhibit P5, the accused’s statement dated 14 August 2018 at \[10\]; Exhibit D1, the accused’s statement dated 9 October 2018, at \[3\] on page 4.
+
+[^28]: NE, 21 November 2021, at 114/3 – 10.
+
+[^29]: NE, 12 November 2021, from 142/26 – 144/4.
+
+[^30]: NE, 12 November 2021, at 135/25 – 30.
+
+[^31]: Prosecution’s Closing Submissions (“PCS”), \[21\] – \[23\].
+
+[^32]: NE, 19 January 2022, at 30/13 – 25.
+
+[^33]: See Medical Report of Dr BY Ng dated 23 July 2021.
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F27351-SSP.xml)

@@ -1,0 +1,387 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ GEJ  
+
+### \[2022\] SGDC 62
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">District Arrest Charge No. 930512 of 2018, Magistrate's Appeals No. 9026-2022-01</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">25 March 2022</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Ng Peng Hong</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Claire Poh (Attorney-General's Chambers) for the Public Prosecutor; Md Noor E Adnaan (WONGPARTNERSHIP LLP) for the Accused.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — GEJ</td></tr></tbody></table>
+
+Criminal Law – Offences – Aggravated Outrage of Modesty – Criminal Procedure and Sentencing-Sentencing
+
+\[LawNet Editorial Note: An appeal to this decision has been filed in MA 9026/2022/01.\]
+
+25 March 2022
+
+### District Judge Ng Peng Hong:
+
+## Introduction
+
+1       The Accused is appealing against his conviction and sentence. He was sentenced to an imprisonment term of 5 years 9 months and 5 strokes of the cane.
+
+2       The Accused claimed trial to a charge under Section 354A(2)(b) of the Penal Code. The charge was amended during the trial. The amendment was in relation to the date of the offence. The amended charge reads as follows:
+
+![]([2022] SGDC 0062_Image/[2022] SGDC 0062_image1.png)
+
+## The Case for the Defence
+
+3       The Accused gave evidence in his own defence. He also called Dr. Angsumita Pramanick as his witness. But the Defence declined the offer of the Prosecution to the Defence for one Sabura Bagum to be the witness for the Defence.
+
+4       Essentially, the Accused’s defence was one of denial. It was also submitted that the Prosecution had failed to prove the charge beyond a reasonable doubt. In particular, it was contended that the Prosecution had failed to prove beyond a reasonable doubt that the alleged offence had taken place on 7th February 2018. It was highlighted that the statements of the Accused stated that it took place on 14th February 2018 which was consistent with the evidence of the Victim and her mother (“**PW3**”).
+
+5       The Accused also challenged the admissibility of his two statements.
+
+## The Prosecution’s Case
+
+6       The Prosecution called 11 witnesses. The Victim was the main witness and at the material time she was about 11 years old. Besides the evidence of the witnesses, the Prosecution also relied on the Accused’s statements (See exhibits P14 and exhibit P15). The Prosecution contended that the Accused’s statements amounted to a confession and that the Accused can be convicted based on the confession alone.
+
+7       In summary, the Prosecution’s case was that on 7th February 2018, the Victim’s mother (PW3), and her friend, Mdm Kartina (“**PW7**”), had gone out in the evening to sell tickets (the “**Tickets**”) and distribute flyers for the Spooner Cookout event (the “**Event**”) scheduled on 10th February 2018. When PW3 and PW7 were away selling Tickets and distributing flyers for the Event, only the Victim and the Accused’s son (the Victim’s nephew) were at home (the “**Unit**”). It was also at this time that the Accused returned to the Unit and committed the offence.
+
+## Preliminary Issue
+
+8       The Defence submitted that the Victim’s evidence must be “unusually convincing” in order to prove the charge against the Accused. With respect, I agreed with the Prosecution that this was not a case where the Prosecution was relying solely on the Victim’s evidence to prove its case against the Accused. Besides the evidence of the Prosecution’s witnesses (including the Victim), the Prosecution was also using the Accused’s statements to prove its case against the Accused. I also agreed with the Prosecution that the Accused’s confession alone can be the basis for his conviction[^1].
+
+## Background Facts
+
+9       The Victim was a student at the material time. She was about 11 years old. She stayed in a flat which had a partition that divided the bedroom and the living room (the “**Unit**”). See exhibit P2 which showed the layout of the Unit after the Victim and her family had moved out of the Unit.
+
+10     The Victim was about 13 years old when she gave evidence in court through live video.
+
+11     The Victim had an elder sister (“**PW2**”) and an elderly mother who was a widow (“**PW3**”). The sister was not residing at the Unit at the material time. She left the Unit sometime in November 2017. When the alleged offence was committed, PW2 was not there. After the incident but before 23rd March 2018, PW2 met the Accused at Boon Lay MRT.
+
+12     When PW2 gave evidence in court in November 2019, she was about 23 years of age.
+
+13     The Accused was born in September 1995. He was the ex-boyfriend of PW2. They first met sometime in August 2015 when PW2 was about 19 years old. They were not married. Within a short period of time, they had a son who was born in December 2016. Their son was about 14 months’ old (the “**nephew**”) when the alleged offence took place in February 2018. By the time the incident happened, the Accused and PW2 were no longer in a relationship. In fact, soon after the incident, the Accused had married another woman and they had a daughter born on 26th July 2019.
+
+14     The Accused, his son, PW3 and the Victim were the only occupants of the Unit at the material time. The Unit was located at level 3 of the block of flats at Spooner Road. The room in the Unit had a bed, a cupboard and book rack. The Accused would sleep in the room while his son, the Victim and her mother slept in the living hall. The Accused was allowed to stay at the Unit on account of the fact that he was the father of PW3’s grandson.
+
+15     The Accused had the house key and gate key to the Unit. He worked at PSA International Pte Ltd (“**PSA**”) at the material time.
+
+## The Undisputed Facts
+
+16     It was not disputed that on 7th February 2018, the Accused left work at 5.35pm.[^2]
+
+17     The Accused was able to understand Tamil and English.
+
+18     On the day of the incident, which was a weekday in February 2018, the Accused went back to the Unit sometime at night. This was after drinking with his friends Rajesh and Rajamani. The Accused was alone with the Victim and his son in the Unit for a period of time. During this time, PW3 was away. When PW3 returned to the Unit with PW7, she noticed that the Victim was in the toilet.[^3]
+
+19     On the same night after the incident in February 2018, PW3 brought the Victim to a neighbour’s house at the first floor. Thereafter, PW3 went back to the Unit and confronted the Accused. The Accused then left the Unit that same night. It was not disputed that an incident had occurred in February 2018 that led the Accused leaving the Unit[^4]. When the Accused left the Unit, he also left behind his handwritten note. See exhibit P9. The note states as follow:
+
+> _“TQ FOR ALL. ONE DAY YOU ALL WILL KNOW THAT I NEVER DO MISTAKE NO PROB. I WILL COME FOR MY SON. THIS IS MY FAMILY. TQ.”_
+
+20     In short, on the night when the Accused left the Unit, it was established that (1) the Victim had been with the Accused at home, (2) PW3 had to do something with PW7 and (3) the Victim was brought down to the 1st floor[^5].
+
+21     On 21st March 2018, PW3 lodged a police report regarding the alleged incident (See exhibit P1).
+
+22     It was during the trial that the Prosecution realized that the date 14th February 2018, as originally stated in the charge, might be a mistake. The trial was then adjourned for the Prosecution to investigate into the possibility of an alibi defence. Thereafter, the Defence formally served the alibi notice on the Prosecution and the charge was amended to state 7th February 2018 as the date the offence was alleged to have been committed[^6].
+
+## The Prosecution’s Evidence
+
+23     There was a total of 11 witnesses who gave evidence for the Prosecution during the trial. I will now proceed to summarize only the evidence given by the main witnesses.
+
+### Evidence of Victim
+
+24     The Victim testified that at the material time, she had a “normal relationship” with the Accused. She would address him as “Mama” in Tamil. She conversed with the Accused in English. The Accused had helped her with her English homework[^7].
+
+25     The Victim testified that on 14th February 2018, before 8pm, PW3 went out to distribute flyers leaving only the Victim and her nephew at the Unit. PW3 had locked the gate but not the door when she left the Unit. Thereafter, the Accused returned to the Unit while PW3 was still away. The Accused was smelt of alcohol. But he was not drunk. He went to the room where the bed was. The Victim went to the room to take her homework. She noticed the Accused was in his uniform. She then went back to the hall and while doing homework, the Accused called for her. She saw him without his shirt and he was at the corner of the bed. He was searching for something and then he told her that he wanted to show her a video on his phone. The Victim closed her eye when she saw the video was showing what she described as something funny – the people were naked. Then the Accused put his phone to the corner and held her hand with his 2 hands. When showing her the video, the Victim was sitting on the bed. The Victim shouted when he held both her hands too tightly. He then held her leg with his leg. By this time, she was on the bed and he was above her. The Victim tried to shout. He held on her hands with one hand and used his finger to take out her pant. Before that, he rubbed her thigh. He used one hand to rub her thigh and the other hand holding on her hands. He did not manage to take out her pants as it was too tight. He used his finger to put under her pant and underwear. His finger was rubbing her private parts for a few seconds. She struggled. He stopped rubbing her private parts when he received a phone call. The Victim then pushed him away and ran to the toilet. She closed the toilet door and locked it. Then she heard her mother’s voice. When she was in the toilet her mother called out her name. The Victim did not respond to her call as she was scared. Her mother then took a chair and climbed up to look into the toilet. The Victim was shivering and scared.
+
+26     During the cross-examination of the Victim, the Defence applied to admit the Victim’s statement recorded on 21st March 2018 at 5pm by PW8 Senior Staff Sergeant Rakbir Singh (“**SSSgt Rakbir**”) as exhibit D4. The application was granted. After she was shown her statement, the Victim testified that the Accused had indeed taken off her pants and her underwear[^8].
+
+### Evidence of Victim’s mother PW3
+
+27     PW3 testified that at the material time when she returned to the house, she noted that the door was closed. She unlocked the door and after entering the house, she saw that the Accused was half naked and his “face changed completely”[^9]. She confronted the Accused and asked for the whereabouts of the Victim. She called out for the Victim and found her in the toilet. She took a chair to stand on it and to look at what was happening in the toilet from the top. She observed the Victim was very scared. She and PW7 then brought the Victim to a neighbour’s house. Thereafter, PW3 returned to confront the Accused and told him to leave the house and not to come back.[^10]
+
+28     A few days later, a social worker from SINDA, PW10 Najma Banu binte Haja Alaudeen (“**Najma**”), advised her to lodge a Police Report. PW3 lodged the report on 21st March 2018.
+
+### Evidence of Kartina PW7
+
+29     PW7 testified that on the day of the incident, she had been selling tickets for the Spooner Road Cookout with PW3 from about 7.30pm to 7.45pm at the same building as the Unit, starting from level 8. Along their way, they stopped by the Unit and PW3 unlocked the door and entered into her house while PW7 remained at the corridor of the house. Soon after, PW3 emerged and told her “something not good” had happened and the Victim was brought to Julie’s house located at the first floor[^11]. While in Julie’s house, PW7 asked the Victim what had happened and whether the Accused had done anything to her. The Victim told her that the Accused had touched her vagina.
+
+30     Subsequently, on the 21st March 2018 at 11.13am, PW7 accompanied PW3 to Police Cantonment Complex to lodge a Police Report. PW7 acted as an informal interpreter as PW3’s command of English was poor.
+
+### Evidence of SSSGT Rakbir Singh (PW8)
+
+31     On 21st March 2018 at 1120am, with the assistance of a Tamil interpreter Uzheiat Ali (PW9), SSSGT Rakbir began recording a statement from PW3 which ended at 12.10pm. See exhibit D2. On the same day at 5pm, SSSGT Rakbir recorded the Victim’s statement in English and it ended at 540pm. See exhibit D4.
+
+### Evidence of IO Thanabalan (PW11)
+
+32     On 22nd March 2018, IO Thanabalan was assigned to attend to this case. He held the rank of Senior Station Inspector. He read through PW3’s and the Victim’s statements, namely, exhibit D2 and exhibit D4[^12] respectively.
+
+33     On 23rd March 2018, IO Thanabalan recorded the Accused’s statement exhibit P14. On 29th August 2018, IO Thanabalan served the charge on the Accused and recorded a cautioned statement from him. See exhibit P15. The unamended charge in exhibit P15 stated that the offence was committed on 14th February 2018 at about 8pm.
+
+34     It was during the trial that the Prosecution realized that the date 14th February 2018 might be wrong. As indicated above at \[22\], the trial was then adjourned for the Prosecution to investigate into the possibility of an alibi defence.[^13] In the Case for the Defence, the Accused did not raise any issue that he was not at the Unit at the stated time on 14th February 2018. IO Thanabalan re-investigated into the matter and confirmed that on 14th February 2018, the Accused was working and had indeed left PSA at 9.29pm that day.
+
+### Evidence of Dr Cai Yiming (“Dr Cai”)
+
+35     Dr Cai (“**PW4**”) was a consultant at Child Guidance Clinic. PW4 examined the victim on 13th July 2018 and produced a report exhibit P7 dated 16th July 2018. He reported that the Victim was frightened. The Victim felt sad and was unable to study for about a month following the incident.
+
+36     The Victim told PW4 that the Accused had tried to touch her breasts and had removed her pants and underwear. He had also put his finger into her vagina.[^14] When the Victim was recalled to the stand, she clarified that she had tried to tell PW4 that the Accused attempted to insert his finger into her vagina but he could not do so[^15].
+
+## Admissibility of Accused’s Statements
+
+37     An ancillary hearing was conducted to determine the admissibility of the Accused’s statements exhibit P14 (long statement) and exhibit P15 (cautioned statement).
+
+38     The Accused conceded that the confession in his cautioned statement came from him. He also conceded that there was no threat, inducement or promise made by IO Thanabalan on 29th August 2018 when exhibit P15 was recorded.[^16] It was clear that the warning and charge must have been read to him otherwise he would not have said that he was intoxicated when he committed the offence. He had also signed on the first page with the charge and also below the warning. Moreover, he was able to read and write in English. The fact that the Accused tried to downplay his culpability by stating he was intoxicated also indicated that he knew what offence he was confessing to. In the circumstances, I was satisfied beyond a reasonable doubt that there was no threat, inducement or promise made in the making of exhibit P15. Accordingly, I admitted exhibit P15 into evidence and accorded the full weight to his confession.
+
+39     As to the recording of exhibit P14, the Accused conceded that here was no language communication barrier between himself and IO Thanabalan during the recording[^17]. There was therefore no need to have an interpreter.
+
+40     The Accused claimed that when exhibit P14 was being recorded, IO Thanabalan had threatened him that he would have to serve a sentence whether or not he admitted to it[^18]. He also alleged that IO Thanabalan had used vulgarities on him. The Accused also claimed that IO Thanabalan had promised him that he would get a lighter sentence. He was also scared. Hence, he signed the statement (Exhibit P14)[^19]. Before exhibit P14 was recorded, the Accused alleged that SSSgt Rakbir had pushed and scolded him.
+
+41     I found the Accused’s allegations to be unfounded. These claims were categorially denied by IO Thanabalan and SSSgt Rakbir. I had no reason to disbelieve IO Thanabalan and SSSgt Rakbir. As pointed out by the Prosecution, IO Thanablan had given a textured account of what happened which bore a ring of truth[^20]. If IO Thanabalan had made all those allegations as claimed by the Accused, he would not have recorded in Q3A3 in exhibit P14 that the Accused had not shown any pornographic materials to the Victim. The amendments made at Q3A3 also indicated that the statement was translated to Tamil and understood by the Accused and he was given the opportunity to amend. There was also no reason shown as to why IO Thanabalan had to threaten the Accused or for SSSgt Rakbir and himself to harass and assault the Accused before the recording of the statement. I also noted that the Accused had signed on every page of exhibit P14.
+
+42     I also noted that the Accused had given information of the Unit’s layout-which IO Thanabalan was then not privy to as he had yet to visit the house. What the Accused did after the incident was also a fact only known to the Accused. The Accused also provided extraneous details like the cupboard was shared by everyone to put clothes. I agreed with the Prosecution that what the Accused had given was far from the Accused’s account that he was originally asked, “yes” or “no” answers before the IO suddenly asked him, “what did you do to the child?”[^21] Moreover, the fact that the Accused had provided the cell phone numbers of his friends showed that the Accused was at ease and spoke freely with the IO. I also noted that the Accused had conceded that IO Thanabalan had asked him the final question Q12 in exhibit P14, “do you wish to say anything else” and that he had answered as recorded, “I hope that the police will not charge me in Court.” The answer to Q12 was consistent with IO Thanabalan’s version that the Accused had confessed to the offence. It must also be highlighted that exhibit P14 included some exculpatory portions which were inconsistent with the version given by the Victim or PW3’s statement. There was no reason for these to be reflected in exhibit P14 if IO Thanabalan had wanted to fabricate evidence against the Accused.
+
+43     In the circumstances, I rejected the allegation that what happened after the drinking session as reflected at \[10\]-\[12\] of exhibit P14 was fabricated by IO Thanabalan. I did not find any motive for IO Thanabalan to fabricate evidence against the Accused. I was satisfied beyond a reasonable doubt that exhibit P14 was recorded voluntarily from the Accused without any threat, promise or inducement and was accurately recorded.
+
+44     Accordingly, I admitted the statement exhibit P14 into evidence and gave full weight to the confession stated in exhibit P14. In particular, I accepted and found the Accused had the urge to have sex after he had consumed alcoholic drinks. At the material time, he was also watching pornography on the phone while at the Unit. On seeing the Victim, he felt a strong urge to have sex. He grabbed her hands and pulled her to the bed. On the bed, he had held onto the Victim’s hands with his left hand and removed her pants with his right hand. He told her not to shout. He then pushed and spread apart the victim’s left leg and used his right middle finger coated with his saliva, to rub on the Victim’s vulva for less than 10 seconds before stopping. He stopped when he realized that PW3 was at the door. When PW3 confronted him for touching the Victim’s vagina, he denied. He then took his passport and left for his friend’s place at Woodlands. He also admitted that what he had done to the Victim was an offence.
+
+## Evidence of the Defence
+
+45     The Accused testified that nothing happened on 7th February 2018 as he went to work and came back as per normal. He asserted that it was on 14th February 2018 that he left the Unit. He added that on this date, he came back to the Unit at 10.30pm to 11pm after drinking with his friends.[^22] He saw PW3 at the gate of the Unit and she told him to look after his child and the Victim as she was going to sell something with PW3. He claimed that the Victim was playing with his son and he told her to stop. He also said that the Victim was watching pornography on PW3’s phone while on the bed. He then shouted at the Victim and asked what she was doing. The Victim then stopped and went to the living hall. Suddenly, the Victim went to the toilet at the moment when PW3 came back[^23].
+
+46     The Accused also called Dr. Angsumita Pramanick to give evidence for the Defence. At the time when Dr Angsumita gave evidence in court, she was a senior resident physician in the obstetrics and gynecology department in National University Hospital. She prepared a medical form for complaint of sexual offence and a medical report. Both these documents were admitted as exhibits D6 and exhibits D7 respectively. Exhibit D6 was prepared on 10th May 2018 when the Police brought the Victim to the doctor for examination.
+
+47     According to Dr Angsumita, the Victim had told her that the Accused’s finger had gone to the vaginal area. But it could not be ascertained whether the finger had gone inside or on the outside as the Victim was unable to say exactly the degree of penetration. She was certain that the Victim said that the finger went to the vaginal area. But the Victim was unable to specifically say whether it went inside or not and how much of it went inside. But the Victim’s perception was that there was a finger going to the vagina. If there was definite penetration, then it would have been stated that it went inside the vagina. In the present case, it was the finger in her vaginal area and not inside the vagina. This was reflected at 5th paragraph of Exhibit D7.
+
+48     The blood and urine tests showed the Victim had no sexually transmitted diseases and was not pregnant. There was also no obvious injury found on the Victim’s hymen.
+
+## Analysis of the Evidence
+
+49     I will now examine the issue as to whether the Prosecution had proven beyond a reasonable doubt that the Accused had committed the offence as charged. In this respect, I will determine whether the evidence supported the contention that the Accused did commit an offence of aggravated outrage of modesty and whether he did so on 7th February 2018.
+
+50     In my view, based on the statements (exhibit P14 and exhibit P15) of the Accused and, subject to the date of the offence to be proved, I found that it would be sufficient to convict the Accused of an offence of aggravated outrage of modesty[^24]. He confessed at \[10\] of P14 that
+
+![]([2022] SGDC 0062_Image/[2022] SGDC 0062_image2.png)
+
+51     At Q1A1 and Q4A4 of P14, the Accused elaborated that he grabbed on the Victim’s hands and pulled her to the bed where he held on her hands and told her not to shout. I found there was no reason to doubt the truth of the confession in \[10\] and Q4A4 of exhibit P14. Firstly, I was of the view that the Accused had a reasonably good understanding of the English language. That explained why he had no problem in filling up the application form exhibit P5 and the application to marry (P6) which were in English. I accepted the evidence of the Accused’s former girlfriend PW2 that the Accused’s English was “really good”[^25]. The Accused would therefore have no problem in understanding exhibit P14 when he appended his signatures. In any event, exhibit P14 was recorded in Tamil and the Accused had no problem communicating with IO Thanabalan in Tamil.
+
+52     Next, exhibit P14 was made on 23rd March 2018 when the events would still be fresh in the Accused’s mind. A few months later on 29th August 2018, when the Accused was served with the charge, he did not deny it. Instead, he admitted he was highly intoxicated when he committed the offence. He asked for forgiveness and a light sentence. See exhibit P15 which the Accused admitted amounted to a confession[^26]. Given the lapse of time from the date exhibit P14 was made, to the date exhibit P15 was recorded, the Accused had the opportunity to retract what he had confessed in exhibit P14 but he failed to do so. Even if there were any threat, inducement, assault or promise given before exhibit P14 was made, this should no longer operate on him when exhibit P15 was recorded. And if there were any untruth in exhibit P14, there was no reason why when exhibit P15 was recorded, the Accused had chosen again to admit that he had committed the offence when drunk. He had been cautioned and given the statutory warning to state any fact or matter in his defence lest it would be less likely to be believed at trial. He chose not to state any fact or matter in his defence in exhibit P15. I also found that the Accused had admitted that significant parts of exhibit P14 and the whole of exhibit P15 had materially came from him. In these circumstances, I have no doubt at all that the contents in \[10\] and Q4A4 of exhibit P14 were true. My finding was fortified by the fact that it was also substantially consistent with the evidence of the Victim.
+
+53     It was not disputed that the Accused did leave the Unit. This was consistent with the fact that the Accused had left behind a note exhibit P9 that he “WILL COME FOR MY SON”. In my view, a serious incident must have happened that led to the Accused leaving the Unit without his son. Before the alleged offence, PW3 had allowed the Accused to stay at the Unit for about one year and had given him the house key. According to PW3, the Accused had done something with the Victim. Leaving aside the date of the offence, based on the Victim’s evidence, I found that the something was the Accused outraging her modesty as alleged by the Victim and corroborated by the Accused’s statements. If the Accused did not outrage the modesty of the Victim, there was no reason why when the Accused met PW2 at the Boon Lay MRT, he did not mention at all that he was wrongly chased out of the Unit especially when his son was still staying at the Unit. In my judgment, these circumstances further fortified my finding that the confession in exhibit P14 was true and reliable.
+
+54     Next, I was of the view that there were other circumstances surrounding the offence which also corroborated the account in the Accused’s statements. Firstly, when PW3 and PW7 returned to the Unit, I found that the door was closed. On entering the Unit, PW3 observed that the Accused was half naked which was not normally the case. The Victim was also in fright and hiding in the toilet. Although PW3’s memory was not accurate in some areas, I found that she was able to broadly recall the key events. There was no reason why all her evidence must be rejected especially when there was no reason for her to lie against the Accused.[^27] The Court is entitled to determine which part of witness’s testimony remains credible despite its discrepancies[^28]. After all, she had allowed him to stay at the Unit given the fact that he was the father to her grandson. She also trusted him by giving him the house key. It also showed that they had a good relationship before the incident. The Defence had not raised any evidence of motive for PW3 to lie against the Accused. Her evidence was also substantially corroborated by PW7’s evidence. PW3 had also given a balanced account of the Accused’s character and readily acknowledged the Accused’s contributions to the family. I therefore had no hesitation to conclude that PW3 was an honest and credible witness but was unable to recall some aspects of the case accurately due to the passing of time and lack of record keeping. I found no reason for PW3 to falsely implicate the Accused who was the father of her grandson. Moreover, the Accused had been staying with PW3 for about one year. There was no reason at all for her to wait until now to tell lies against the Accused. I also rejected the Defence’s contention that PW3 would have been able to see the Victim taking her pants and running to the toilet as this was not put to PW3 and this was also not attested to by the Accused.
+
+55     Next, I found PW7 to be a credible and truthful witness. She too had no motive to falsely implicate the Accused. Her account of the events was textured and corroborated by extrinsic evidence like the Cookout tickets, pamphlets, and the PSA records. All these supported her evidence that the offence was committed on 7th February 2018. Accordingly, I accepted PW7’s evidence that the door and window were closed when they returned to the Unit. PW3 then unlocked the door to enter the Unit. This was consistent with the evidence of PW3. Such circumstances indicated that the Accused had deliberately closed the door for privacy because he wanted to have sex as stated in his statement. In this respect, I was of the view that the Victim’s testimony regarding the door was not accurate. The Victim most probably presumed that the door was open as it was normally kept open during prayer time from 6pm to 8pm. Moreover, she might not have noticed it being closed as she was focusing on her homework.
+
+56     Next, PW7 observed that the Accused’s face had changed completely and had a fear on his face. The Accused was also noted by PW3 and PW7 to be shirtless. I also accepted PW3’s evidence that when she returned home, she found the Victim locked herself in the toilet and saw her gripped with fear. In my view, these were indicators of the Accused’s guilt of having molested the Victim.
+
+57     I also found that the Victim’s account that the Accused had restrained her and touched her vagina per the charge can be believed. In fact, this aspect of her testimony was corroborated by the Accused’s confession in his statements. The Accused in exhibit P14 had admitted that he used his middle finger to rub on the Victim’s vulva. It was also consistent with the evidence of PW3 and PW7 as stated above, in particular the fact that the door was closed and the demeanour of the Accused and the Victim as observed by them. The demeanour of the Victim during the trial was also consistent with a child being sexually abused by a trusted family member. The trial had to be stood down for a few times for the Victim to regain her composure. She described the video shown to her as “doing something funny” and she shut her eyes. It was upon probing that she said it involved naked people. It bears emphasis that the Victim was then very young. There was also no evidence that she had received any kind of sex education. In my view, these were hallmarks of the Victim’s innocence and youthfulness and not one out to falsely implicate the Accused. She would definitely not one who knew how to access and watch pornographic material on the phone by herself as alleged by the Accused. I rejected the claim that the Victim had told lies to cover up her act of watching pornography. See also \[79\]-\[80\] below. I also accepted the Victim’s evidence that the Accused had shown her pornographic material on his phone. This was buttressed by the Accused’s admission that he had watched pornography on his phone. See also exhibit P14, Q3A3. The Accused could, therefore, easily access his pornographic materials on his phone for the Victim to view.
+
+58     I noted that the Defence had raised some inconsistencies in the Victim’s evidence[^29]. For instance, the Victim seemed to have told PW4 that the Accused inserted his finger into her vagina and touched her breasts. However, the Victim had explained that she was trying to tell PW4 that the Accused was trying to insert his finger into her vagina but could not.[^30] I accepted her explanation. In any event, I agreed with the prosecution that “the reality is that a truthful victim of sexual assault may not provide a similar account of their ordeal every single time. This has been recognized by the Court of Appeal (“**CA**”) in the context of a rape case: _PP v Mohd Ariffan bin Mohd Hassan <span class="citation">\[2019\] 2 SLR 490</span>_. The CA held at \[79\] that
+
+> “a victim of sexual assault cannot always be expected to provide a completely similar and full account every time he or she discloses the offence to another person….. As with the issue of delay in reporting, the nature of the inconsistency in the offences disclosed and its effect on the credibility of the complainant have to be considered in the light of the facts of each case.”
+
+59     Bearing in mind the principle stated above by the CA, I was of the view that considering the events that transpired after PW3 had returned home and the Accused’s confessions, the Victim’s testimony that the Accused had touched her vagina and held down her hands was reliable and consistent with extrinsic evidence. In fact, the Accused admitted he had used his finger to rub her vulva. I was of the view that the inconsistencies highlighted by the Defence, did not undermine the credibility of the Victim in light of the corroborative evidence. Moreover, I found the Victim had no reason to make up the evidence to implicate the Accused. She had nothing to gain by falsely implicating the Accused; on the contrary, after the Accused left the Unit, she now lost the benefit of the Accused’s tutoring. By pulling the Victim to the bed and holding on to her hands, I found the Accused had caused wrongful restraint to the Victim to facilitate the commission of the offence. In the circumstances, I found the elements of outrage of modesty of an aggravated form under Section 354A(2)(b) of the Penal Code were satisfied beyond a reasonable doubt.
+
+60     Having determined that there was an offence of aggravated outrage of modesty of a minor, I will proceed to determine when was the offence committed.
+
+## Date of Offence
+
+61     Having considered the evidence, the circumstances, and the submissions of the parties, I found that the date of the offence committed by the Accused was on 7th February 2018. I agreed with the Prosecution that this was the date provided by PW7, the only witness who had an objective recorded reference point, namely, the Spooner Road Cookout tickets (the “**Tickets**”) and flyers which stated that the Cookout event was on 10th February 2018[^31]. Besides the objective recorded reference point stated above, I also found PW7 to be coherent and consistent in the material aspects of her testimony. There was also no evidence of any motive for her to lie in court. In short, I found her to be a truthful and reliable witness. I had no reason not to believe in her evidence. Hence, I accepted PW7’s testimony that she was selling Tickets with PW3 on the Wednesday preceding the Event. Accordingly, the day of the incident must have been on 7th February 2018. The date of the Cookout event was 10th February which was about 1 week before the Chinese New Year (“**CNY**”) and it was in conjunction with the CNY celebration.[^32] It is a fact that the first day of the CNY was on 16th February 2018. I also found that both PW3 and PW7 were selling the Tickets and distributing the flyers on 7th February 2018 at about 7.30pm or 7.45pm.
+
+62     Next, I accepted PW7’s explanation as to how PW3 got the date wrong when the latter lodged the police report on 21st March 2018. When the police asked for the date, they initially told the police that it was the week before Chinese New Year. PW7 remembered that it was on a Wednesday. As there was no calendar at the counter, PW3 then hazarded a guess that it was 14th February 2018.[^33]
+
+63     I was also of the view that PW7’s evidence was corroborated by exhibit P14 and the PSA record (See Exhibit P8). The timings in P8 indicated clearly that the Accused in giving his statement exhibit P14 was describing the events on 7th February 2018. In this respect, I accepted and reproduced herewith the submissions made by the Prosecution. “On the face of it, exhibit P14 appeared to be describing what took place on 14 February 2018. However, when one compares the timings given with the PSA record, it was unmistakable that the accused must have been describing events on 7 February 2018. The accused was narrating what had happened on the day of the incident. As the accused himself explained, the reason why he had used the date 14th February 2018 was because IO Thanabalan had asked him where he was on 14th February 2018. It was undisputed that the accused had given an account of how he had been drinking with Rajesh and Rajamani on the day of the incident at \[8\]-\[9\]. However, contrary to the timings he gave in Court, the accused in exhibit P14 stated that he finished work at 5.30pm. He also said that he and his friends bought Anchor Strong beers and they started drinking at 5.50pm. The session ended at 8pm and he made his way to the unit. Although the accused indicated the timing of the drinking session was inserted by IO Thanabalan, it was wholly implausible for the IO Thanabalan to pluck a time from thin air when this was not crucial to the confession. There was completely no reason for IO Thanabalan to take the risk of manufacturing timings which could be contradicted by other objective records (like the PSA records which he did not have when exhibit P14 was recorded). These timings were plainly given by the accused.”[^34] In the circumstances, I found that the offence was committed on 7th February 2018. My finding was also supported by the circumstances stated below.
+
+64     On a perusal of exhibit P8, in the month of February 2018, I found that the Accused left PSA compound before 6pm only on 3 dates, namely, 7th February 2018 at 5.35pm, 15th February 2018 at 4.03pm and 19th February 2018 at 5.47pm. The timing on 7th February 2018 was consistent with the timings provided by the Accused and the evidence of PW3, PW7 and the Victim that it was a Wednesday. Moreover, 7th February 2018 was before CNY (16th February 2018) which was also consistent with PW7’s evidence that they were selling Tickets in conjunction with the CNY celebration. It must also be highlighted that the Accused tapped out of PSA at 5.35pm on 7th February 2018 which further fortified PW7’s evidence regarding when the offence was committed.
+
+65     I accepted the Prosecution’s submission that PW3 was confused as to whether the date was 7th February 2018 or 14th February 2018. But there was no doubt that on the day of the incident, PW3 was selling Tickets which she thought were for a CNY event. According to PW7, the Tickets were for a Cookout event that was in conjunction with the CNY celebration as CNY fell on the 16th February 2019 to 17th February 2018. It was also noted that in February 2018, the only event involving the block which PW3 and PW7 were selling the Tickets for, was the Cookout event[^35]. PW3 was also aware that the Tickets were priced at $2 each. This was consistent with P11. In \[3\] and \[4\] of exhibit D2, PW3 also mentioned that she was distributing flyers which as confirmed by PW7 were for the Cookout event. In the circumstances, the date of the offence must be 7th February 2018 and not 14th February 2018 as was thought to be by PW3.
+
+66     With respect, I rejected the contention by the Defence that PW3 was not a credible witness. The fact that she did not mention the Cookout event in her statement was not an inconsistency. I found that she was giving/pasting pamphlets/flyers and selling Tickets on the day of the incident. This was corroborated by PW7’s evidence that the pamphlets were pasted at the lift area or given to the residents and they were selling Tickets for the Cookout event on 7th February 2018. I have also stated at \[54\] above, the reasons why I found PW3 to be an honest and credible witness.
+
+67     I also rejected the suggestion that PW3 could be selling tickets for the events such as the CNY tour to temples held on 3rd March 2018 or the Lunar New Year Dinner at Summer Garden, SAFRA Mount Faber, as the suggestion was never put to PW3. It must also be highlighted that the Tickets which PW3 were selling were priced at $2 whereas the ticket for the temple tour was $5 while the Lunar New Year dinner was priced at $30 per ticket. PW3’s evidence was that she was selling the $2 tickets. Hence, it could not be possible that PW3 was involved in the selling of tickets for the temple tour or the Lunar New Year Dinner. Moreover, PW7 had confirmed that the Summer Garden event was not organized for the residents at Spooner Road. In fact, PW7 was not aware of such event and she was very confident that the event PW3 was involved in was the Spooner Cookout event[^36]. PW7 also added that PW3 could not have even attended these events because PW7 was the first point of contact between the Residents’ Committee and the residents of Spooner Road.
+
+68     I also preferred PW7’s evidence over the Victim’s account as to the date of the offence. Firstly, the Victim was not sure of the date as she had started her statement (See exhibit D4) with, “somewhere in February 2018”[^37]. See also the notes of evidence of 26th June 2021 (Day 6) at page 9, lines 6-11. In D7, Dr Angsumita also noted that the Victim was unsure of the date of the offence. I also noted that the Victim recalled that she was rejected for a dance performance and this took place on 7th February 2018 when the Accused returned to the Unit before 8pm.[^38] It must also be highlighted that in exhibit D4, the Victim also said that the Accused returned home after PW3 had left at about 8pm. According to P8, at about 8pm the Accused was still working on 14th February 2018. Hence, the 14th February 2018 as recollected by the Victim cannot be the correct date.
+
+69     Next, unlike PW7, the Victim had no written record to rely on when she claimed that the incident took place on 14th February 2018. She simply relied on the date her mother had told her as the date of the incident[^39]**.** On the other hand, PW7 anchored on the Tickets and flyers to confirm the date to be 7th February 2018 when the incident took place. Such evidence clearly is more reliable than that based on memory.
+
+70     In light of the above, I was of the view that the Victim had made a mistake when she claimed that the date of the offence was 14th February 2018. My view was also supported by the fact that the Victim had stated in her statement (See exhibit D4) that on the day of the incident the Accused returned home shortly after her mother had left at about 8pm. Moreover, according to exhibit P8, the Accused would still have been at work at this time on 14th February 2018. Therefore, the date of the offence cannot be 14th February 2018.
+
+71     Finally, it must be highlighted that nowhere in the Accused’s statements and Case for the Defence (dated 4th June 2019), did he state that at the material time on 14th February 2018, he was not at the Unit but was still working at his workplace in PSA. I agreed with the Prosecution that the Accused attempted to leverage on the wrong date at a late stage to cast doubt on the Prosecution’s evidence as to the timing the offence was committed. In my view, I found that based on the evidence adduced, the offence took place on 7th February 2018 and not 14th February 2018.
+
+72     For completeness, based on the evidence of the Victim, PW3 and PW7, I found that the Accused left the Unit on 7th February 2018 after the offence was committed. I also found that the main door was closed when PW3 returned to the Unit. Hence, I rejected the suggestion by the Defence that the Accused would not have done the act as the door was open.
+
+## Dr Angsumita Pramanick’s Evidence
+
+73     In my judgment, Dr Angsumita’s account was substantially consistent with the Prosecution’s case. Dr Angsumita was the author of the medical report exhibit D7. She had examined the Victim about 3 months after the alleged incident. The Victim was unsure of the date of incident but it happened one night at about 8pm in February 2018 when her mother had gone out to sell tickets. It was also reported that the Accused came home and called the Victim to the bed area. She did not go initially but ultimately; she went because of the Accused’s persistent calling. The Accused pushed her down on the bed, held her arms and pulled down her pyjamas. The Accused put his finger in her vaginal area. At that point, the Victim’s mother PW3 came home and the Accused let go of her. The Victim informed her mother about the incident and PW3 told the Accused to leave the Unit. See exhibit D7.
+
+74     I also found that Dr Angsumita confirmed that the Victim was unable to specifically say whether the finger went inside the vagina or not and how much of it went inside. The Victim’s perception was that the finger went to the vaginal region. In my view, Dr Angsumita’s testimony showed that the Victim was not prone to exaggeration and it was also consistent with the Victim’s testimony in court as well as her version as stated in exhibit D4 at Q2A2 that the Accused did not insert his finger into her vagina but touched her vagina. As a matter of fact, I found the Victim did not inform Dr Angsumita that there was digital-vaginal penetration. I also found that Dr Angsumita’s evidence was also not inconsistent with the Victim’s account to PW4. I agreed with the Prosecution that for the interview with PW4 (who was conducting a psychological examination), the Victim had loosely used the term, “put finger into her vagina” which did not necessarily mean digital penetration into her vagina (as opposed to insertion into the labia area).[^40] It must be highlighted that like PW4, Dr Angsumita was not conducting investigations into the offences. She was merely conducting a physical examination of the Victim. Hence, their evidence must be viewed from this perspective.
+
+## Delay in Reporting the Alleged Incident
+
+75     In my view, no one would expect a Victim who was 11 years old to know that she should lodge a police report. A young victim might also not know that an offence had been committed against her. In the circumstances, it was not unusual that the Victim did not lodge a police report herself. As for PW3, she had provided a cogent explanation as to why she did not want to lodge a report earlier. It was not disputed that PW3 had confronted the Accused on the day of the incident leading to the Accused leaving the Unit. She was not fluent in English and thought the Police spoke in English. Her elder daughter (PW2) was also missing at that time. Finally, she did not want to trouble PW7 as she felt this was a family problem. This was understandable given the embarrassment felt by PW3. This also explained why Najma had to explain to PW3 the adverse impact non-reporting would have on the Victim in the future. It was due to Najma’s counsel that PW3 decided to lodge a Police Report. Hence, it was not unusual for victims of sexual abuse not to report such traumatic and humiliating experiences until much later or at all.
+
+## Exhibit P9
+
+76     In my view, exhibit P9 and the suggestion that the Accused had gone to Malaysia shortly after the offence and still returned to Singapore, did not cast any doubt on the Accused’s guilt. It was clear that exhibit P9 was written with the hope that he could still return in the future to see his son after being chased out of the Unit[^41]. This was why he had to state in exhibit P9 that he did not make a mistake. And by the time exhibit P14 was recorded on 23rd March 2018, the Accused knew that the Police had begun investigation and the chances of him returning to the Unit to see his son was not high. It was therefore not surprising that the Accused confessed to the commission to the offence and hoping that he would not be charged in court.
+
+77     As for the trip to Malaysia on 17th February 2018, it was at best a neutral fact. He knew for a fact the reason why he was chased out of the Unit by PW3. There was also no suggestion that the Accused was aware of the police report made against him and decided to return to assist in the police investigation. The cogent reason why he had returned to Singapore was because he had found work in Singapore and for his son[^42]. In my view, it was not because he did not commit the offence.
+
+## Lateness in Police Investigations
+
+78     The Defence submitted that the poor and delayed investigations by the police raised reasonable doubt in the Prosecution’s case. With respect, I rejected this submission. I was of the view that the police investigations conducted after the trial had started was primarily because of the alibi defence raised by the Defence at a late stage during the trial which I had mentioned at \[22\] above.
+
+## Credibility of the Accused
+
+79     I agreed with the Prosecution that the Accused had come up with the ludicrous defence that it was the Victim who was watching pornography and had come up with lies to cover up her act. I found that this was an afterthought that only emerged during his evidence in chief. It was not stated in both of his statements or the Case for the Defence. Neither was it mentioned to PW3 or PW2. It was also not put to the Victim when she was giving evidence in court.
+
+80     The allegation that the Victim was watching pornography was also illogical as it was inconsistent with the fact that the Victim had difficulty in describing what she had seen on the Accused’s handphone. This was understandable as she was only 11 years old at that time. Most telling was the fact that when PW3 confronted the Accused, he did not deny the accusation nor assert that the Victim had been watching pornography. In any event, there was no reason for the Victim to cover up something which her mother could not have discovered in the first place. This was because when her mother returned to the Unit, the Victim was in the toilet.
+
+81     The Accused’s testimony was also filled with contradictions and inconsistencies. The Accused alleged that the Victim had been watching pornography yet when PW3 confronted him that he had done something wrong with the Victim, he said he could tell that PW3 suspected something but he did not know anything about the Victim.[^43] This was certainly inconsistent with his allegation that the Victim had been watching pornography.
+
+82     The Accused testified that the Victim went to the toilet before PW3 returned. However, during cross examination, he denied that he knew the victim was in the toilet. When PW3 asked him where the Victim was, he said she was in the kitchen.[^44]
+
+83     I also found the Accused’s testimony on material points were contradicted by PW3 and PW7.
+
+84     The Accused in his evidence in chief claimed that PW3 was outside the gate when he returned home at about 10.30pm to 11pm and PW3 asked him to look after his son and the Victim as PW3 was going out to sell something with PW7[^45]. This was inconsistent with the evidence of PW3 that she had left the Unit before the Accused had returned to the Unit. Her evidence was supported by the Victim’s evidence and corroborated by the Accused’s statement P14. Moreover, the Accused’s allegation was never put to PW3 who had testified that she left the Unit at about 7pm to 7.45pm. PW7 also testified that she met PW3 to distribute the Tickets and flyers after the Muslim prayer time which ended about 7.30pm to 7.45pm. I also think it was highly implausible that PW3 and PW7 would have gone selling the tickets after 11pm. Most people would be sleeping by this time especially when it was a weekday.
+
+85     The Accused’s claim that when PW3 returned to the Unit, he was playing with his son at the bedroom area. This was contradicted by PW7’s evidence that she saw the Accused’s son watching television in the living room.
+
+86     During the cross-examination, the Accused clarified that when PW3 accused him of touching the Victim and not penetrating the Victim, he told her to bring the Victim to hospital for a check. Clearly, the Accused was embellishing his evidence. With respect, I rejected the submission that because Dr Angsumita could have done tests on the Victim, it fortified the Accused’s account that he had asked PW3 to bring the Victim to the hospital after PW3 had asked him if he “touched” the Victim. It must be highlighted that the allegation to take the Victim to the hospital for examination had not been put to PW3. The Accused also did not know what the hospital could check for in an allegation of mere touching[^46]. In my view, the Accused was not truthful.
+
+87     The Defence submitted that the fact that the Victim had a medical history of fit supported the Accused’s claim that the Victim had watched pornographic material on her own but did not directly confront the Victim due to her “fits problem”. With respect, in my view this submission showed that the Accused was making up his case and was an exaggeration. Firstly, there was evidence that the seizures had stopped since 2016 (two years before the incident) and the Victim had ceased to be on medication since then. There was also no supporting expert’s evidence to show that confronting the Victim could lead to her fit seizure. Finally, as pointed out by the Prosecution that it was plainly illogical for the Accused to claim that he did not confront the Victim directly because she had a history of fits when he could confront her for jumping on the bed and calling out loudly for her to stop[^47].
+
+88     In the final analysis, I found the Accused was not a credible witness. The inconsistencies in his evidence casted doubt on his veracity and credibility. He was making up the evidence as the case was progressing. His allegations were uncorroborated and not put to the relevant prosecution witnesses. Most of it were also not in his statements or Case for the Defence. Most telling was the fact that he did not mention in his statements that there was no offence committed by him on 7th or 14th February 2018. Some of his allegations were also illogical. For example, he alleged that he admitted he made a confession in P15 because he was promised that his punishment would be 2 years’ imprisonment. This was illogical as it was contrary to the minimum punishment prescribed for the offence. In the circumstances, I found the Accused to be an untruthful witness and I disbelieved the evidence given in his defence.
+
+## Conclusion on the Charge
+
+89     At the end of the case, I was satisfied that the Prosecution had proved beyond a reasonable doubt the charge against the Accused. I found the Accused to be an untruthful witness who contradicted himself on material aspects, and there were internal and external inconsistencies in his testimony.
+
+90     Besides the Victim’s testimony, there were other evidence to support the Prosecution’s case. I accepted the Accused’s incriminating evidence highlighted at \[44\] above, his confession in exhibit P15 and the Victim’s account of the sexual abuse that had taken place in the Unit. I also accepted the evidence of PW7 that she and PW3 went about selling Tickets and distributing the pamphlets or flyers on 7th February 2018 after the Muslim prayer had ended at about 7.30pm to 7.45pm. Considering all the evidence adduced by the Prosecution, I had no doubt at all that it was on 7th February 2018 at about 8pm that the Accused committed the offence for which he was charged. Accordingly, I found the Accused guilty and convicted him on the charge.
+
+## Submissions on Sentence
+
+91     The Prosecution submitted for a sentence of six years’ imprisonment and six strokes of the cane. See Prosecution’s skeletal submission dated 31st January 2022.
+
+92     The Defence submitted that the sentence should be 4 years and 2 strokes of cane. See the Mitigation plea dated 31st January 2022.
+
+##    Sentencing Considerations
+
+93     Considering the nature of the offence and the circumstances, the main sentencing considerations must be deterrence and retribution.
+
+94     The prescribed punishment under Section 354A(2)(b) of the Penal Code was an imprisonment for a term of not less than three years and not more than ten years with caning.
+
+95     I applied the sentencing framework that has been recognized for an offence under s354A(1) of the Penal Code in the High Court case of _PP v BDA <span class="citation">\[2018\] SGHC 72</span> (“BDA”)_. In the case _of BSR v PP and another matter <span class="citation">\[2020\] 2 SLR 758</span> (“BSR”)_ at \[21\], the Court of Appeal (“**CA**”) explained how the framework in _BDA_ applied to an offence under Section 354A(2)(b) of the Penal Code.
+
+96     Bearing in mind the principles stated in _BDA_ and _BSR_, I proceeded to determine the number of offence specific factors. In this context, I examined the degree of sexual exploitation and the circumstances of the offence. I found there was skin-on-skin contact with the Victim’s vagina and it was not a fleeting touch. The Accused had pushed and spread open the Victim’s left leg and used his right hand middle finger coated with his saliva to rub on the Victim’s vulva for about 10 seconds. Next, the Victim was about 11 years old at the time of the offence. In this respect, she was not near to the age ceiling of 14 years as stipulated in Section 354A(2)(b) of the Penal Code.
+
+97     I noted that the Accused had stayed with the Victim’s family for about one year and had tutored the Victim in her studies. He was the father of the Victim’s nephew. She addressed him as “Mama” in Tamil which is ordinarily understood as uncle[^48]. The Accused himself sated in exhibit P9 that this was his family. He also admitted that he had taken care of the Victim as his own child[^49]. As highlighted by the Prosecution , the Accused stood in _loco-parentis_ to the Victim. Hence, there was an abuse of trust in a familial context. And such offences were hard to detect as victims of intra-familial sexual abuse may be unwilling or hesitant to report the matter to the authorities. Indeed, PW3 was reluctant to lodge a police report. The incident only came to light because of the urging from Najma, the representative of SINDA.
+
+98     I also found that the Accused had shown the Victim a pornographic video before perpetrating the molest.
+
+99     Having considered the multiple offence specific factors present in this case, I was of the view that this case fell within the higher end of Band 2 of the sentencing framework in _BDA_. A case under Band 2 would attract a sentence of between four to seven years’ imprisonment, and six strokes of the cane.
+
+100    I also agreed with the Prosecution that it was aggravating that the offence had occurred at the Victim’s home and thereby violated the sanctity of the Victim’s home (_PP v UI <span class="citation">\[2008\] 4 SLR(R) 500</span>_ at \[27\]).
+
+101    Next, I considered whether there were any mitigating factors that were not offence-specific. Having considered the mitigation plea, I was of the view that there were no mitigating circumstances. I was of the view that the personal circumstances of the Accused were not so exceptional as to warrant any mitigating value. I would hold that the Accused had failed to show any remorse as demonstrated by the manner in which he had conducted his defence. During the trial, he had conjured up spurious allegation that it was the Victim who had made up lies in order to cover her alleged act of watching pornography.
+
+102    Finally, the Accused’s clean record was to be regarded as a neutral factor (_Xia Qin Lai v PP <span class="citation">\[1999\] 3 SLR(R) 257</span>)_. The presence of related antecedents would have been an aggravating factor.
+
+## Conclusion on The Sentence
+
+103    Having considered the circumstances, I sentenced the Accused to an imprisonment term of 5 years 9 months and 5 strokes of the cane. In my view, this was in line with the sentence meted out by the High Court in _PP v BSR <span class="citation">\[2020\] 4 SLR 335</span>_. In _BSR_, the offender was convicted by the High Court for multiple sexual offences including one charge under Section 354A(2)(b) of the Penal Code. In that case, the offender had pleaded guilty to one count under Section 354A(2)(b) of the Penal Code. The offender, in order to facilitate the offence, pushed and pinned his 13 year old niece to a bed and used criminal force on her, removing her bra and T-shirt and touching and licking her breasts and nipples and kissing her neck and face, with intent to outrage her modesty. He was sentenced to five and a half years’ imprisonment and 6 strokes of the cane. The sentence was upheld by the CA. With respect, I did not think that the facts in _BSR_ were much more aggravating and the degree of sexual exploitation was more egregious. In the present case, the Accused had subjected the Victim to the trauma of reliving the heinous incident by pleading not guilty. The Victim was clearly traumatized and started shaking uncontrollably during cross examination. The degree of sexual exploitation was certainly more intrusive in that it involved skin to skin contact at the vaginal area. The Victim in the present case was also much younger than the victim in _BSR_. In the present case, the offence had taken place in the sanctity of the Victim’s home. Hence, I disagreed that the present case was less egregious.
+
+104    The case of _PP v Mohamed Ardlee Iriandee bin Mohamed Sanip <span class="citation">\[2021\] SGDC 64</span>_ cited by the Defence was distinguishable as it did not involve skin to skin contact. The offender in that case did restrain and used criminal force on a female aged 8 years old, by placing his hand under her school uniform and touching her vagina area over her underwear. He was sentenced to an imprisonment term of 4 years 6 months and 4 strokes of the cane. It was also unfortunate that the district court did not have the benefit of the decisions of the Court of Appeal and the High Court in _BSR_ for guidance when considering the appropriate sentence to be imposed.
+
+105    To conclude, I was of the view that the sentence imposed in the present case was reflective of the overall criminality of the Accused and commensurate with the gravity of the offence. The Accused is currently on bail pending the appeal.
+
+* * *
+
+[^1]: Chin Seow Noi and others v Public Prosecutor <span class="citation">\[1993\] 3 SLR(R) 566</span> at \[84\]
+
+[^2]: NE, Day 10, Page 4, lines 26 to page 5, line 5 and exhibit P8 at s/no 23.
+
+[^3]: NE, Day 10, Page 50, lines 30-32
+
+[^4]: Defence’s Closing Submissions (“DCS”) at \[16\].
+
+[^5]: NE, Day 10, Page 35, Lines 24-31.
+
+[^6]: NE, Day 3, Page 1, Line 9 to Page 2, Line 10.
+
+[^7]: NEs, Day 1, Page 13, Lines 25-27.
+
+[^8]: NEs, Day 5, Page 114 at Lines 30 to Page 115 at Lines 1-3.
+
+[^9]: NEs, Day 3, Page 26, Lines 7-9.
+
+[^10]: NE, Day 3, Page 42, Lines 14-22.
+
+[^11]: NE, Day 4, Page 84, Lines 8-11.
+
+[^12]: NE, Day 7, Page 30, Lines 4-6
+
+[^13]: The alibi notice under s 268 of the Criminal Procedure Code (Cap. 68) was served on 10 December 2019 after the first tranche.
+
+[^14]: NE, Day 2, Page 66, Lines 23-25.
+
+[^15]: NE, Day 5, Page 138 at Lines 10-13.
+
+[^16]: NE, Day 7, Page 93, Lines 4-10
+
+[^17]: NE, Day 7, Page 88 at Lines 17-22
+
+[^18]: NE, Day 7, Page 78, Lines 18-20.
+
+[^19]: NE, Day 7, Page 77, Lines 28-31
+
+[^20]: See Prosecution’s Closing Submissions (“PCS”) at \[63\]
+
+[^21]: See PCS at \[65\].
+
+[^22]: NE, Day 10, Page 6 at Lines 1-7.
+
+[^23]: NE, Day 10, Page 9, Lines 1-11.
+
+[^24]: Chin Seow Noi and others v Public Prosecutor <span class="citation">\[1993\] 3 SLR(R) 566</span> at \[84\]
+
+[^25]: NEs, Day 2, Page 6, Lines 14-17.
+
+[^26]: NE, Day 10, page 53, Lines 6-13.
+
+[^27]: See Govindaraj Perumalsamy v PP <span class="citation">\[2004\] SGHC 16</span>
+
+[^28]: See Lewis Christine v PP \[2001\] 2 SLR (R) 131 at \[19\].
+
+[^29]: DCS at \[33\]-\[42\].
+
+[^30]: NEs, Day 5, Page 138 at Lines 10-13.
+
+[^31]: See PCS at \[44\]
+
+[^32]: NE, Day 4, Page 53, Line 22 to Page 54 Line11, Page 56, Lines 23-25..
+
+[^33]: NE, Day 4, Page 100, Line18-Page 101, Line 6
+
+[^34]: See PCS at \[49\].
+
+[^35]: NE, Day 4, Page 46, Lines 4-8
+
+[^36]: NE, Day 5, Page 81, Lines18-29.
+
+[^37]: NE, Day 6, Page 9, Lines 6-18.
+
+[^38]: NE, Day 5, Page 164, Lines 7-18
+
+[^39]: NE, Day 6, Page 5, Lines 1-7
+
+[^40]: Prosecution’s supplementary submissions dated 2nd Dec 2021, page 9 at \[11(b)\] .
+
+[^41]: NE, Day 10, Page 61, Lines 8-11.
+
+[^42]: NE, Day 10, Page 17, Lines 9-10.
+
+[^43]: NE, Day 8, Page 13, Lines 1-4.
+
+[^44]: NE, Day 10, Page 52, Lines 10-15.
+
+[^45]: NE, Day 10 Page 6, Lines 5-14
+
+[^46]: NE, Day 10 Page 48, Line 22 – Page 49, Line 6.
+
+[^47]: Prosecution’s supplementary submissions dated 2nd Dec 2021, page 9 at \[11(c)\].
+
+[^48]: NE, Day 2, page 26, Lines19-22
+
+[^49]: NE, Day 10, page 15, Lines 14 -17.
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F27317-SSP.xml)

@@ -1,0 +1,344 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Ashwin Kumar Kumaraswamy Sanketh  
+
+### \[2022\] SGDC 57
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">District Arrest Case No 910604 of 2021 &amp; Anor, Magistrate's Appeal No 9045-2022-01</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">22 March 2022</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Salina Bte Ishak</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Choong Hefeng Gabriel (Attorney-General's Chambers) for the Prosecution; Nathan Sahidaran and Laura Neo (Withers KhattarWong LLP) for the accused.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Ashwin Kumar Kumaraswamy Sammeth</td></tr></tbody></table>
+
+Criminal Procedure and Sentencing – Statutory Offences – Road Traffic Act – Drink driving – Irresponsible driving
+
+\[LawNet Editorial Note: An appeal to this decision has been filed in MA 9045/2022/01.\]
+
+22 March 2022
+
+### District Judge Salina Bte Ishak:
+
+## Background
+
+1       The accused, Mr Ashwin Kumar Kumaraswamy Sanketh, a 43 years-old male Singapore Permanent Resident faced two charges namely:
+
+> (a)      **DAC 910604-2021**
+
+**1st Charge**
+
+> are charged that you, on 15th October 2020, at about 10.45 p.m., along Tanjong Rhu Road towards Rhu Cross, Singapore, when driving motorcar SML4900J, did have so much alcohol in your body that the proportion of it in your breath, to wit, not less than 72 microgrammes of alcohol in 100 millilitres of breath, exceeded the prescribed limit of 35 microgrammes of alcohol in 100 millilitres of breath, and you have thereby committed an offence under Section 67(1)(b) and punishable under Section 67(1) read with Section 67(2)(a) of the Road Traffic Act (Cap 276, 2004 Rev Ed).
+
+> (b)      **DAC 910605-2021**
+
+**2nd Charge**
+
+> are charged that you, on 15th October 2020, at about 10.45 p.m., along Tanjong Rhu Road towards Rhu Cross, Singapore, did drive motorcar SML4900J without due care and attention, to wit, by failing to keep proper control of the motorcar, thereby mounting a kerb and colliding onto two safety bollards, and you have thereby committed an offence under Section 65(1)(a) and punishable under Section 65(5)(a) read with Section 65(5)(c) and Section 65(6)(i) of the Road Traffic Act (Cap 276, 2004 Rev Ed).
+
+2       On 8 March 2022, the accused pleaded guilty to both charges and admitted to the Statement of Facts without any qualification.
+
+3       After carefully considering the Defence’s written plea in mitigation and the Prosecution’s submissions on sentence, I sentenced the accused as follows:
+
+> (a)      **DAC 910604-2021** – one week’s imprisonment and disqualified him from holding or obtaining all classes of driving licences for a period of three years with effect from date of release and
+
+> (b)      **DAC 910605-2021** – two weeks’ imprisonment and disqualified him from holding or obtaining all classes of driving licences for a period of three years with effect from date of release.
+
+As I ordered the sentences for both charges to run concurrently, his total sentence was two weeks’ imprisonment and disqualified him from holding or obtaining all classes of driving licences for a period of three years with effect from date of release.
+
+4       The accused being dissatisfied with my decision had filed his Notice of Appeal against the sentence on 8 March 2022. He is presently on bail pending the hearing of his appeal.
+
+5       Having set out the background for the present case, I now provide the reasons for my decision.
+
+## Salient Facts
+
+6       The complainant is Senior Staff Sergeant Noah Karim Masagoes of the Traffic Police.
+
+7       The accused is Ashwin Kumar Kumaraswamy Sanketh, a 43-year-old male Indian national and Singapore Permanent Resident. At the material time the accused was driving the motorcar bearing registration number SML4900J (the “motorcar”).
+
+8       On 15th October 2020 from about 7.15 p.m., the accused visited a public house along Joo Chiat Road where he consumed four glasses of beer. At about 10.25 p.m., he drove off from this public house in the motorcar together with a friend. At about 10.45 p.m., the accused turned right from Kampong Arang Road into Tanjong Rhu Road towards Rhu Cross. While executing this turn, the accused failed to keep proper control of the motorcar and drove into a bus stop on the left of Tanjong Rhu Road. He mounted the kerb and collided into two safety bollards, uprooting one. The accused then swerved the motorcar to the right and mounted the kerb of the central divider of Tanjong Rhu Road.
+
+![]([2022] SGDC 0057_Image/[2022] SGDC 0057_image1.png)
+
+9       The accused had thereby driven the motorcar without due care and attention. The motorcar came to a stop while straddling the central divider. At this time, the complainant was patrolling along Tanjong Rhu Road and came across the accused’s motorcar. He made a check on the accused and found he smelled strongly of alcohol. He conducted a breathalyzer test on the accused, who failed the test. He then arrested the accused for drink driving and escorted him to back to the Traffic Police Headquarters for a breath analysing device (BAD) test.
+
+10     On 16th October 2020 at about 12.30 a.m., Station Inspector Lim Yong Leng of the Traffic Police conducted a BAD test on the accused. The test revealed that the proportion of alcohol in the accused’s breath was not less than 72 microgrammes of alcohol in every 100 millilitres of breath. The prescribed limit is 35 microgrammes of alcohol per 100 millilitres of breath.
+
+11     The following property damage resulted from the accused’s driving:
+
+> (a)     It cost the Land Transport Authority $340 to repair the safety bollard uprooted by the accused at the bus stop. The accused has made full restitution for this repair cost.
+
+> (b)     The left-front portion of the motorcar cracked, scratched and dented.
+
+12     At the time of the collision, the weather was fine, the road was dry, visibility was fair and the traffic condition was light.
+
+## Sentencing
+
+### Prescribed Penalties
+
+#### s 67(1)(b) RTA
+
+13     The prescribed penalty for an offence of drink driving under s 67(1)(_b_) of the RTA is a fine of not less than $2,000 and not more than $10,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a second or subsequent conviction, to a fine of not less than $5,000 and not more than $20,000 and to imprisonment for a term not exceeding two years.
+
+14     In addition, pursuant to s 67(2)(_a_) of the RTA unless the court for special reasons thinks fit to not order or to order otherwise, the court must order that the person be disqualified from holding or obtaining a driving licence for at least two years for a first offender.
+
+#### s 65(1)(a) RTA
+
+15     The prescribed penalty for an offence of driving without due care and attention under s 65(1)(_a_) of the RTA punishable under s 65(5)(_a_) is a fine not exceeding $1,500 or to imprisonment for a term not exceeding 6 months or to both. Further, pursuant to s 64(8) of the RTA, as the accused has also been convicted for an offence under s 67 of the RTA, the accused is liable as a serious offender to a fine of not less than $2,000 and not more than $10,000 or to imprisonment for a term not exceeding 12 months or to both, _in addition_ to any punishment under s 65(1)(_a_) of the RTA.
+
+16     In addition, s 65(6)(_i_) of the RTA provides that unless the court for special reasons thinks fit to not order or to order otherwise, the court must order that the person be disqualified from holding or obtaining a driving licence for at least two years for a first offender.
+
+## Antecedents
+
+17     The accused was untraced.
+
+## Prosecution’s Submissions on Sentence
+
+18     The Prosecution sought a two weeks’ imprisonment and three years’ disqualification on each charge in this case and for the sentences to run concurrently.
+
+#### Applicable Law
+
+19     It was the Prosecution’s position that the sentencing bands at _Wu Zhi Yong v Public Prosecutor_ <span class="citation">\[2021\] SGHC 261</span> (“_Wu Zhi Yong_”) at \[39\] should be adapted for use under s 65(5)(_a_) read with s 65(5)(_c_) of the RTA. It was submitted that the same considerations envisioned by parliament – a tiered structure calibrated to the degree of hurt caused, stiffer penalties for drink driving, and enhanced penalties where drink driving occurred in conjunction with bad driving (see \[15\] and \[16\] of _Wu Zhi Yong_) – apply to both ss 64 and 65 of the RTA.
+
+20     It was the Prosecution’s case that as the maximum imprisonment term under the s 65(5) of the RTA is three-quarters its counterpart in s 64(2C) of the RTA, the sentencing bands here can be calibrated as follows:
+
+> _Band 1_: $2,000 to $11,500 fine and/or imprisonment up to 3 weeks, and 2 to 3 years’ disqualification.
+
+> _Band 2_: Between 3 weeks and 9 months’ imprisonment, and 3 to 4 years’ disqualification.
+
+> _Band 3_: Between 9 months and 18 months’ imprisonment, and 4 to 5 years’ disqualification.
+
+21     It was submitted that the guidance at \[40\] to \[47\] of _Wu Zhi Yong_ equally apply to illustrate each band, as do the offence-specific factors identified at \[36\] of that judgment. Specifically, a case falls at least within Band 2 if an offender's alcohol level is in the second highest or highest band of the framework in _Rafael Voltaire Alzate v Public Prosecutor_ <span class="citation">\[2021\] SGHC 224</span> (“_Rafael Voltaire Alzate_”) (_Wu Zhi Yong_ at \[42\]).
+
+#### Application to the facts
+
+#### Careless driving.
+
+22     It was the Prosecution’s case that this was a Band 2 case pursuant to above submission. The accused’s breath alcohol level (at 72 mcg per 100ml of breath) falls within the second highest band in _Rafael Voltaire Alzate_. Significant actual and potential harm also arose:
+
+> (a)     The accused crashed with sufficient force to uproot a safety bollard, causing damage of $340. He wrecked the left-front portion of his motorcar.
+
+> (b)     He would have posed potential harm to any person present at the bus stop, and also endangered his passenger, given the manner in which he had driven while drunk.
+
+> (c)     He would have posed potential harm to other motorists on the road as he swerved over the central divider.
+
+23     It was submitted that on balance, a sentence at the lower end of Band 2 was appropriate, with a further reduction given the accused’s timeous plea of guilty. The appropriate sentence was thus two weeks’ imprisonment and three years’ disqualification.
+
+#### Drink driving
+
+24     It was submitted that a term of imprisonment will generally be an appropriate starting point where an offender has caused damage to property as a result of driving whilst under the influence of drink (_Wu Zhi Yong_ at \[53\]). Given his breath alcohol level was 72 mcg, at least three years’ disqualification should also be imposed (_Rafael Voltaire Alzate_ at \[31\]). The same sentence imposed on the careless driving charge can be imposed on the drink driving charge, to run concurrently. It was further submitted that the disqualification period should take effect after the accused’s release from prison (_Muhammad Saiful bin Ismail v Public Prosecutor_ \[2014\] 2 SLR at \[46\]).
+
+## Mitigation
+
+25     In his written plea in mitigation, Defence Counsel Mr. Nathan Shashidaran had set out his client’s personal background as well as the circumstances that led to the commission of the offences. He had also set out the following mitigating factors at \[11\] to \[26\] of the written plea in mitigation namely:
+
+> (a)     the accused’s genuine and extreme remorse;
+
+> (b)     it was out of character and the accused is highly unlikely to reoffend;
+
+> (c)     he had no antecedent and a good driving record;
+
+> (d)     he had extended full cooperation with the authorities.
+
+#### s 67 RTA
+
+26     It was highlighted that in _Rafael Voltaire Alzate_, CJ Menon had set out the sentencing framework for offences under s 67(1)(_b_) of the RTA. While the sentencing framework envisages only the situation wherein no harm to person or property has eventuated, it was submitted that it is still instructive in the present case as it categorises the offender’s level of alcohol into four distinct bands.
+
+27     It was further highlighted that in _Wu Zhi Yong_, CJ Menon had stated at \[53\] that a term of imprisonment will generally be an appropriate starting point where an offender has caused personal injury or damage to property as a result of driving whilst under the influence of drink. He further stated that in such instances, it is a matter for the sentencing judge to consider whether the custodial threshold has been crossed and that much will turn on the circumstances.
+
+28     In _Stansilas Fabian Kester v Public Prosecutor_ <span class="citation">\[2017\] 5 SLR 755</span> ("_Stansilas_"), CJ Menon held at \[74\] that in considering the circumstances and gravity of the offence under s 67 of the RTA, regard should be had to the degree of harm caused and the culpability of the offender, which would entail consideration of the extent to which the offender's alcohol level exceeds the prescribed limit as well as the manner of the offender's driving. In _Stansilas_, CJ Menon set out four categories of harm and three categories of culpability and based on this matrix, he went on to set out an indicative sentencing range calibrated according to the degree of harm caused and the offender's culpability.
+
+29     In the present case, it was the Defence’s case that the harm caused fell within the lowest end of the slight harm category as only slight damage was caused to one safety bollard amounting to $340. It was submitted that the property damage was substantially mitigated by the accused’s full, expedient and voluntary restitution of the cost of the repairs of the bollard.
+
+30     In relation to the culpability of the accused, it was further submitted that his culpability fell within the medium culpability range which encompasses medium to high alcohol levels or dangerous driving behaviour. In the present case, his alcohol level was 72 mcg/100ml of breath, which only marginally placed him in Band 3 of the _Rafael Voltaire Altzate_ bands. However, it was the Defence’s case that there was no dangerous driving on the part of the accused in the present case.
+
+31     While the accused fully accepted that he should not have been driving after consuming alcohol, it was the Defence’s position that he had not lost control of his vehicle as a result of the effects of the alcohol in his system. It was submitted that at no time did the accused feel any intoxication at all from the alcohol that he consumed. Instead, the accused had been momentarily distracted when navigating the turn along Tanjong Rhu Road as he was engaging in conversation with his friend and had taken his eyes off the road for a split second at the time, which caused him to mount the kerb and collide into the bollard.
+
+32     It was the Defence’s case that with slight harm and medium culpability, the present case would consequently fall under category where the indicative sentencing range entails a term of imprisonment of up to a month.
+
+33     The Defence had referred to _M Raveendran v Public Prosecutor_ <span class="citation">\[2021\] SGHC 254</span> (“_Raveendran”_) and _Public Prosecutor v Vilashini d/o Nallan Rajenderan_ <span class="citation">\[2018\] SGDC 142</span> (“_Vilashini_”) as sentencing precedents. In _Raveendran_’s case, the accused had consumed some alcohol while he was with his friends at Newton Food Centre and at about 12.35am. While driving home, he lost control of the car and veered right, causing the car to mount the centre divider and collided into 12 pieces of the centre guard railings, resulting in $1,438.50 worth of damage. His alcohol level at the time was 91 mcg/100ml of breath. On appeal, his sentence of one week’s imprisonment was reduced to five days’ imprisonment.
+
+34     It was highlighted that in coming to its decision on the appropriate sentence, the High Court had considered _Vilashini_’s case. The offender in _Vilashini_ had consumed alcohol and went on a joyride in the course of which she lost control of the car, causing chain collisions involving seven vehicles in an open-air carpark. She was found to have 53 mcg/100ml of alcohol in her breath and was sentenced to one week’s imprisonment. It was submitted that the High Court took the view that the offender in _Vilashini_ caused far more harm than in _Raveendran_ and accordingly, the sentence in _Raveendran_ should be lower.
+
+35     It was the Defence’s case that the present case can be distinguished from _Vilashini_. It was submitted that the damage caused in the present case pales in comparison to the extent of damage caused in _Vilashini_. In the present case, only one safety bollard was damaged, which the accused expediently and voluntarily made full restitution for. In _Vilashini_, the offender only made partial restitution. Second, there was no dangerous driving behaviour exhibited in the present case. The offender in _Vilashini_ had not obtained a valid and full driving licence at the time she decided to drink while under the influence of alcohol and only had a provisional driving licence. On the contrary, the accused had a fully valid driving licence at the material time. Third, the accused faced two charges in the present case, with no other charges taken into consideration for the purposes of sentencing while the offender in _Vilashini_ faced two charges and had an additional three charges taken into consideration for the purposes of sentencing. Although the accused had a higher alcohol level at the material time than the offender in _Vilashini_, it was submitted that the harm caused in the latter case was significantly higher.
+
+36     It was the Defence’s case that while the accused’s culpability in the present case falls in the medium range as well by virtue of his alcohol level, if the harm caused in _Vilashini_ was considered to be in the slight harm category, the harm caused in the present case should be at the lowest end of the slight harm category. It was submitted that taking into account the accused’s early plea of guilt, full and voluntary restitution and forthcomingness during investigations the appropriate sentence in the present case would be significantly less than the one week’s imprisonment meted out in _Vilashini_. It was further submitted that in the present case a sentence in the region of one to two days’ imprisonment and a disqualification period of two years for the charge under s 67 of the RTA would be appropriate in light of the mitigating factors and the sentencing precedents.
+
+#### s 65 RTA
+
+37     The Defence had referred to the High Court decision in _Wu Zhi Yong_ where CJ Menon had set out a sentencing framework for offenders who were convicted on charges under sections 64 and 67 of the RTA arising from the same incident, and where no hurt was caused to any person. The two steps of the sentencing framework are first, to identify the sentencing band applicable, having regard to the offence-specific factors (_ie_ the manner and mode by which the offence was committed, as well as the harm caused) (at \[30\] and \[36\]) and second, adjust the sentence thereafter, based on the offender-specific factors (at \[48\]).
+
+38     It was highlighted that CJ Menon had stated at \[48\] that some examples of offender-specific aggravating factors would include offences taken into consideration for the purposes of sentencing, presence of relevant antecedents and evidence showing a lack of remorse, while offender-specific mitigating factors include evidence of genuine remorse and an offender's youth.
+
+39     It was the Defence’s position that while the _Wu Zhi Yong_ framework is limited to cases under s 64 RTA, it is instructive and can be calibrated downwards for cases involving ss 65 and 67 of the RTA offences arising from the same incident and where no hurt to persons eventuated.
+
+40     It was submitted that in addressing the offence-specific factors, while, prima facie, the accused's alcohol level would fall in Band 3 of the _Rafael Voltaire Alzate_ bands and consequently likely fall in Band 2 of the _Wu Zhi Yong_ framework (\[42\] of _Wu Zhi Yong_), his alcohol level at 72 mcg/100ml of breath, had only gently crossed into Band 3 of the _Rafael Voltaire Alzate_ bands. As such, it was further submitted that the accused's alcohol level could be considered to be moderate.
+
+#### Offence-specific factors
+
+41     It was the Defence’s position that the actual harm caused in the present case was extremely slight as damage was only caused to a single safety bollard, resulting in $340 of repairs. In any event, the damage was more than sufficiently mitigated by the accused’s expedient, voluntary and full restitution of the cost of the repairs. The accused took the initiative to contact LTA to facilitate the restitution of the cost of repairs shortly after the accident and initially paid for the cost of two safety bollards without question even though he remembered only damaging one bollard.
+
+42     It was submitted that the accused’s conduct following the offence was nothing short of exemplary in the circumstances. According to the Defence he immediately got out of his vehicle to check what he had collided into, picked up the debris from his vehicle from the road to avoid causing any inconvenience to other road users, and most importantly remained at the scene for the police to arrive. When the police arrived, he was extremely forthcoming with them and immediately admitted to having consumed alcohol. He provided his full cooperation from the beginning to the end of the investigations and continued to be cooperative throughout these proceedings. In light of the above, it was the Defence’s position that apart from the accused's alcohol level, no other offence-specific aggravating factors were present in the circumstances.
+
+#### Offender-specific factors
+
+43     Turning to the offender-specific factors, it was submitted the accused was untraced and apart from this incident, holds an unblemished driving record with commendations. There are no other charges that have been taken into consideration for the purposes of sentencing. The accused's genuine and extreme remorse for his actions have been more than demonstrated in the present case – beginning with his conduct immediately after the accident, his forthcomingness with the authorities, and his voluntarily and timeously making restitution for the damage caused. The accused had also pleaded guilty at an early instance, further showing that he fully acknowledges his wrongdoing and was extremely contrite.
+
+44     It was the Defence’s position that after calibrating the sentencing range in _Wu Zhi Yong_ downwards, and taking into consideration the offender-specific mitigating factors to further adjust the sentence, the appropriate sentence for the s 65 charge was in the region of one to two days' imprisonment and a disqualification period of two years. It was the Defence’s position that a sentence of two weeks’ imprisonment would be extremely harsh and crushing on him.
+
+#### Global sentence
+
+45     It was highlighted that it was held in _Wu Zhi Yong_ at \[56\] that as a general rule the sentences under ss 64 and 67 of the RTA should run concurrently insofar as any term of imprisonment or disqualification order is concerned. Although in the context of a s 65 of the RTA offence, as the accused has been charged for an offence punishable under Section 65(5)(_c_) as a serious offender, it was submitted that the imprisonment sentences and the disqualification periods ordered in the present case should run concurrently, in line with the principle and reasoning in _Wu Zhi Yong_.
+
+## Prosecution’s Reply
+
+46     In response to the Defence’s position on sentence, it was submitted that _Raveendran_ and _Vilashini_ do not only predate _Wu Zhi Yong_, they also predate the 2019 amendments to the RTA. It was further submitted that the statutory prescribed punishment is presently twice as high as they were prior to the amendments and the cases can be set aside.
+
+47     It was highlighted that the Defence had sought a downward calibration of the sentence on account of the remorse shown. In response, it was the Prosecution’s position that the sentences sought have been calibrated downwards. Although the proposed framework would suggest three weeks’ imprisonment as a starting point, the Prosecution had reduced it backwards to two weeks’ imprisonment.
+
+48     It was further submitted that the clang of the prison gates doctrine had been doubted recently in _Leong Sow Hon v Public Prosecutor_ <span class="citation">\[2021\] 3 SLR 1199</span> at \[66\]. It was highlighted that offenders are sentenced in terms of consistency of sentencing across all places rather than more accounting on individual assessments of what the offender has done in his performance in Singapore for example his track record. It was submitted that benchmark sentences are to be applied across all offenders instead.
+
+## My decision on sentence
+
+#### Sentencing framework for drink driving
+
+49     In determining the appropriate sentence to be imposed in respect of the drink driving charge as the accused was a first offender, I had considered the sentencing framework established by the High Court in _Rafael Voltaire Alzate_ as a neutral starting point.
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="35.5271054210842%"> <col width="34.9269853970794%"> <col width="29.5459091818364%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Level of alcohol (µg per 100ml of breath)</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Range of fines</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Range of disqualification</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">36-54</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">$2,000-$4,000</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1">24-30 months</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">55-69</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">$4,000-$6,000</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1">30-36 months</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">70-89</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">$6,000-$8,000</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1">36-48 months</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="center" class="Table-Para-1">≥90</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="center" class="Table-Para-1">$8,000-$10,000</p></td><td align="left" class="" rowspan="1" valign="top"><p align="center" class="Table-Para-1">48-60 months</p></td></tr></tbody></table>
+
+  
+  
+
+50     In the application of the above sentencing framework, CJ Menon made two additional points at \[32\] and \[33\]:
+
+> (a)     The sentencing framework is only applicable where no harm to person or property has eventuated; and
+
+> (b)     The framework provides only neutral starting points based on the relative seriousness of the offence and considering only the level of alcohol in the offender’s body. Regard should still be had to any aggravating or mitigating circumstances (see _Edwin Suse Nathen v Public Prosecutor_ <span class="citation">\[2013\] 4 SLR 1139</span> (“_Edwin Suse_”) at \[22\]) and if the former, if they exist, could result in the custodial threshold being crossed.
+
+51     I was mindful that this framework is applicable where no harm to person or property has eventuated. This framework only provides starting points based on the relative seriousness of the offence and considering only the level of alcohol in the offender’s body. When sentencing, I would still have to consider whether there was any aggravating or mitigating circumstances and to make the necessary calibrations to the relevant starting points.
+
+52     In determining the appropriate sentence, I would also consider other relevant factors such as the manner of driving, the type of vehicle, the distance travelled, the road and traffic conditions, any impairment of the ability to drive or whether there was accident resulting in harm to person or property.
+
+#### Level of alcohol
+
+53     As highlighted by the Defence in _Stansilas_, CJ Menon held at \[74\] that in considering the circumstances and gravity of the offence under s 67 of the RTA, regard should be had to the degree of harm caused and the culpability of the offender, which would entail consideration of the extent to which the offender's alcohol level exceeds the prescribed limit as well as the manner of the offender's driving.
+
+54     In the present case, I considered the fact that the accused was a first offender who had pleaded guilty to the present charge. His alcohol level was 72 mcg of alcohol in 100 millilitres of breath which was more than twice the legal limit and within Band 3 of _Wu Zhi Yong_ sentencing framework. For an offence of drink driving where no harm to person or property has eventuated, the range of sentence would be a fine between $6,000 to $8,000 and disqualification of between 36 to 48 months for all classes of vehicles.
+
+55     As highlighted by Menon CJ in _Stansilas_:
+
+> _The offender’s alcohol level_
+
+> 52 The same principle as that identified in _Edwin Suse_ (\[2\] supra) at \[22\] applies – “in general, the higher the alcohol level, the greater should be \[the punishment\]”. There are two reasons why this is correct as a matter of principle. The first reason concerns the potential consequences of a high alcohol level which in turn affects the risks imposed on other road users. The higher the offender’s alcohol level, the more likely it is that his driving ability has been impaired and the greater the extent of the likely impairment.
+
+> 53 The second reason concerns the culpability of the offender. The higher the offender’s alcohol level, the higher the extent of his disregard for the law and for the well-being of others. It indicates the offender’s level of personal responsibility and, consequently, his “relative blameworthiness” and culpability. This is relevant even in a case where there is no indication of actual impairment of one’s driving ability (for instance, where the offender does not display any lack of control over his vehicle).
+
+#### Consequences of the act
+
+56     In the present case, the accused had failed to keep proper control of his motorcar and drove into a bus-stop on the left side of Tanjong Rhu Road. He mounted the kerb and collided into two safety bollards, uprooting one. I agreed with the Prosecution that the accused must have crashed with sufficient force to uproot the bollard as shown in the pictures at \[8\] above. The accused then went on to swerve right and mounted the kerb of the central divider. From the accused’s in-car footage, his motorcar had straddled across the central divider onto the first lane of the road in the opposite direction. As his motorcar had obstructed the first lane of the road, other motorists had to slow down and proceed with care when travelling from the opposite direction.
+
+57     I disagreed with the Defence’s position that he had lost control of his vehicle not due to the effects of the alcohol in his system but because he was momentarily distracted when navigating the turn along Tanjong Rhu Road as he was engaging in conversation with his friend. It was more likely that his driving ability has been impaired due to the level of alcohol which was more than twice the legal limit. In the present case, after making a right turn the accused had not only crashed his motorcar into the bollards at the bus-stop but he then went on to swerve right and mounted the kerb of the central divider causing obstruction to other motorists travelling from the opposite direction. He caused damage amounting to $340 for the uprooted bollard for which full restitution has been made to the LTA. He also wrecked the left-front portion of his motorcar as it was cracked, scratched and dented. Based on the facts, I found that his culpability was medium.
+
+58     I agreed with the Prosecution that there was potential harm to any persons present at the bus stop, he had endangered his passenger and there was potential harm to other motorists travelling in both directions along Tanjong Rhu Road when he swerved to the right and mounted the kerb of the central divider. In the present case, the offences were committed at 10:45pm when one would expect the presence of other motorists along Tanjong Rhu Road and in fact they could be seen in the in-car camera footage.
+
+59     Based on the above, I disagreed with the Defence’s position that the actual harm caused in the present case was extremely slight but was instead at a moderate level. In the present case, not only was actual harm caused, there was also the existence of serious potential harm present in this case. Based on the circumstances of the present case, it was only fortuitous that no personal injury was occasioned to himself, his passenger and other road users in the vicinity as a consequence of the accused driving while under the influence of alcohol. It was clear that the custodial threshold had been crossed in the present case.
+
+60     I noted that both the Prosecution and the Defence agree that the custodial threshold had been crossed. The only disagreement was the appropriate length of the imprisonment term. The Prosecution had sought a sentence of two weeks’ imprisonment and disqualification for a period of three years. In contrast, the Defence had sought one to two days’ imprisonment and a disqualification period of two years.
+
+61     In my view, the appropriate starting point for the present charge is two weeks’ imprisonment and disqualification for a period of 36 to 48 months. After taking into account the fact that the accused was a first offender who had pleaded guilty and had cooperated with the authorities as well as the fact that he showed remorse by making full restitution for the damage caused, I was of the view a downward calibration to one week’s imprisonment and three years’ disqualification was appropriate in the circumstances.
+
+62     In my view the proposed sentence by the Defence of one to two days’ imprisonment and the minimum period of disqualification of two years was inadequate in view of the accused’s level of alcohol and the fact that property damage was occasioned. The minimum disqualification period of two years is more appropriate for cases where the alcohol level is at the lower end of Band 1 of the _Rafael Voltaire Alzate_ framework and where no harm to person or property has eventuated. Hence, I disagreed with the Defence’s position that a sentence of two weeks’ imprisonment would be extremely harsh and crushing on the accused.
+
+63     I agreed with the Prosecution that the cases of _Raveendran_ and _Vilashini_ referred to by the Defence can be distinguished as sentencing precedents as they were decided prior _Wu Zhi Yong_ and also predate the 2019 amendments to the RTA. The statutory prescribed punishment is presently twice as high as they were prior to the amendments and I am entitled to consider the full range of the statutory penalties that are provided for under s 67(1)(_b_) of the RTA.
+
+64     I now turn to the second charge under s 65(1)(_a_) of the RTA.
+
+#### Sentencing framework for irresponsible driving
+
+65     The primary offence of driving without due care or reasonable consideration for other persons using the road is encapsulated under s 65(1) of the RTA. The subsequent subsections from ss 65(2) to 65(4) are the penalty prescribing provisions, each tiered according to the degree of hurt caused and for s 65(5), for any other case of non-personal injury or potential harm.
+
+66     The present offence under s 65(1)(_a_) of the RTA was enacted on 1 November 2019, following the passing of the Road Traffic (Amendment) Act 2019 (Act 19 of 2019). The Amendment Act arose out of a review of the RTA and it aimed to provide stronger deterrence against irresponsible driving.
+
+67     Presently there is no existing sentencing framework enunciated by the High Court for offences under s 65(1), particularly for an offence punishable under s 65(5)(_a_) read s 65(5)(_c_) with of the RTA. Although the present case concerns the second category of irresponsible driving, due to the similarity in the structure of the statutory provisions for both forms of irresponsible driving under s 64(1) and s 65(1), I was of the view the observations as well as the sentencing approach set out by the High Court in _Wu Zhi Yong_ provides some useful guidance on how an offence under s 65(1) should be dealt with. I note that both the Prosecution and the Defence do not dispute this.
+
+68     In my view the offence-specific factors set out by the High Court in _Wu Zhi Yong_ at \[36\], which dealt with offences under s 64 of the RTA where there was no hurt caused could apply equally to offences under s 65(1) of the RTA. In _Wu Zhi Yong_, after a careful consideration of the different sentencing approaches at \[22\] to \[29\] the High Court had prescribed the sentencing band approach when dealing with offences punishable under s 64(2C)(_a_) read with ss 64(2C)(_c_) of the RTA. At \[30\] and \[48\] of the judgment, the High Court had set out the following sentencing approach:
+
+> _The sentencing approach_
+
+> 30 At the first step, as set out in _Terence Ng_ at \[39\], the court should identify the band applicable to the offence and the indicative starting point with reference to that band, having regard to the _offence_\-specific factors present. These would encompass factors relating to the manner and mode by which the offence was committed, as well as the harm caused by the offender. At the second step, the court would have regard to the _offender_\-specific factors, being the aggravating and mitigating factors that are personal to the offender...
+
+> 48 At the second step of the analysis, the court will have regard to the offender-specific factors. Examples of these factors have been set out at \[62\] – \[71\] of _Terence Ng_ and apply equally in the present framework. Offender-specific aggravating factors include offences taken into consideration for the purposes of sentencing, the presence of relevant antecedents (apart from where the offender’s antecedents have been taken into account under the “repeat offender” or “serious repeat offender” provisions), and evidence showing a lack of remorse. Offender-specific mitigating factors include evidence of genuine remorse and an offender’s youth.
+
+#### Offence-specific factors
+
+69     Hence, in my view, the sentencing band approach would be the appropriate sentencing approach when dealing with the second category of irresponsible driving with the necessary calibration made to the range of sentences in each band. Accordingly guided by the sentencing approach as set out in _Wu Zhi Yong_, I first considered the offence-specific factors to determine the appropriate sentencing band where the present offence should be situated. In my view, the offence-specific factors considered by the High Court in _Wu Zhi Yong_ at \[36\] under the sentencing bands would also be relevant in the present case, namely:
+
+> (a)      _Serious potential harm_: Apart from actual harm, it has long been accepted that regard should also be had to the potential harm that can result from the act of dangerous or reckless driving: _Stansilas_ at \[47\]; _Koh Thiam Huat_ at \[41\]. The level of potential harm would be “assessed against facts which would include … the condition of the road, the volume of traffic or number of pedestrians actually on or which might reasonably be expected to be on the road at the relevant time, the speed and manner of driving, visibility at the relevant time, the type of vehicle, and any particular vulnerabilities (_eg_ a truck or car colliding into a motorcycle or pedestrian: _Neo Chuan Sheng v Public Prosecutor_ <span class="citation">\[2020\] SGHC 97</span> at \[22\];
+
+> (b)      _Serious property damage_: The extent of property damage caused is a relevant sentencing factor. As a general rule, the amount of any loss or damage may serve as a proxy indicator of harm;
+
+> (c)      _High alcohol level found in the accused person’s blood or breath_: A high level of alcohol that substantially exceeds the prescribed limit would be an aggravating factor. As noted by the court in _Stansilas_ at \[37\], an offender’s alcohol level is an indicator of his inability or unfitness to drive due to his alcohol intake, and heavier punishment should therefore be imposed on drivers with higher alcohol levels. This determination of whether an offender’s alcohol level is high can be made with reference to the sentencing framework for an offence under s 67, set out in _Rafael Voltaire_ at \[31\], which is calibrated in accordance with the alcohol levels found in an offender’s blood or breath. In the context of sentencing a serious offender under s 65(5)(_c_), this will be a factor of particular importance;
+
+> (d)      _An offender’s reason or motivation for driving_: The court in _Edwin s/o Suse_ held that an offender’s reason or motivation for driving could be an aggravating (or conceivably, in some circumstances, even a mitigating) factor in respect of an offence of drink driving. The court further considered that the gravity of an offender’s conduct would be increased if he had, at that time, been driving a passenger for hire or reward (at \[33\]);
+
+> (e)      _Increased culpability_: In _Koh Thiam Huat_ at \[41\], the court considered that factors _increasing_ an accused person’s culpability for an offence of dangerous driving would include a _particularly dangerous manner_ of driving. For an offence under s 65(1) of the RTA, an example of such an aggravating factor would be a high degree of carelessness in the manner of driving;
+
+> (f)      _The offender’s conduct following the offence or attempt to evade arrest_: Conduct that is “belligerent or violent” upon arrest would constitute an aggravating factor: _Edwin Suse_ at \[32\]. Likewise, the failure to stop in an attempt to evade arrest or to avoid apprehension should also weigh against an offender: _Public Prosecutor v Lee Meng Soon_ <span class="citation">\[2007\] 4 SLR(R) 240</span> at \[33\].
+
+70     Apart from the factors listed above, another relevant factor to be considered would be the number of victims involved. Where there are multiple victims impacted by the accused’s irresponsible driving under the influence of alcohol, this would be regarded as an aggravating factor.
+
+#### Proposed sentencing bands
+
+71     As a serious offender, the accused is liable to the prescribed punishment under s 65(5)(_c_) of the RTA which is _in addition_ to any punishment under s 65(5)(_a_) of the RTA. This is in view of Parliament’s intention to punish offenders for the aggravated conduct of driving without due care and attention or without reasonable consideration for others using the road while under the influence of alcohol. Hence, a court can impose a fine of more than $2,000 and not exceeding $11,500 or to imprisonment for a term not exceeding 18 months or to both.
+
+72     In their address on sentence, the Prosecution had proposed the following sentencing bands namely:
+
+> _Band 1_: $2,000 to $11,500 fine and/or imprisonment up to 3 weeks, and 2 to 3 years’ disqualification.
+
+> _Band 2_: Between 3 weeks and 9 months’ imprisonment, and 3 to 4 years’ disqualification.
+
+> _Band 3_: Between 9 months and 18 months’ imprisonment, and 4 to 5 years’ disqualification.
+
+73     In my recent grounds of decision in _PP v Shin Seung Ho_ <span class="citation">\[2022\] SGDC 33</span> at \[63\] to \[65\] which involved similar charges as the present case, I had proposed a sentencing framework for serious offenders under s 65(5)(_c_) read with s 65(5)(_a_) of the RTA. My proposed framework is largely similar to the framework proposed by the Prosecution save for the fact the imprisonment term under Band 1 is up to one month imprisonment under Band 1 and starts at one month under Band 2.
+
+74     In addition, in my view the minimum fine ought to be an amount exceeding $2,000 as pursuant to s 64(8) of the RTA, the accused is liable as a serious offender to a fine of not less than $2,000 and not more than $10,000 or to imprisonment for a term not exceeding 12 months or to both, in addition to any punishment under s 65(1)(_a_) of the RTA. My proposed sentencing band is set out below:
+
+#### Band 1
+
+75     In my view, Band 1 would involve an offence with a lower level of seriousness, where the offender’s blood alcohol level is also likely to be at the lowest or second lowest bands in the framework set out in _Rafael Voltaire Alzate_ and with no offence-specific aggravating factors. A range of a fine between $2,500 to $11,500 and/or up to one month’s imprisonment and a disqualification period of two years to three years for all classes of vehicles can be considered.
+
+#### Band 2
+
+76     Band 2 would involve a higher level of seriousness and would usually contain two or more offence-specific aggravating factors. The level of culpability and the blood alcohol level will typically both be on the highest band or second highest band of the framework in _Rafael Voltaire Alzate_. In my view, a range of between one month’s imprisonment and up to nine months’ imprisonment and disqualification for a period between three to four years can be considered. The accused’s level of culpability would typically be in the medium range.
+
+#### Band 3
+
+77     The final band would be reserved for the most serious cases of driving without due care and attention or without reasonable consideration for others using the road while under the influence of alcohol where there are multiple aggravating factors including alcohol levels being at the highest band of the framework in _Rafael Voltaire_ and where the offender’s level of culpability is high. For such cases, a range of between nine months and up to eighteen months’ imprisonment and disqualification for a period of four to five years would be appropriate.
+
+#### Calibration of sentence
+
+78     The next step would be for the court to calibrate the sentence after having regard to the offender-specific factors. The relevant factors would include offences that are taken into consideration for the purposes of sentencing, the presence of relevant antecedents and evidence showing a lack of remorse. Offender-specific mitigating factors include a clean record, an early plea of guilt, evidence of genuine remorse and an offender’s youth.
+
+79     I now turn to the facts of the present case.
+
+## Offence-specific factors
+
+#### Manner and mode of offence
+
+80     As set out at \[56\] above, the accused while under the influence of alcohol at the second highest band of the sentencing framework in _Rafael Voltaire Alzate_ had failed to keep proper control of his motorcar and drove into a bus-stop on the left side of Tanjong Rhu Road. He mounted the kerb and collided into two safety bollards with sufficient force to uproot one of the bollards. He then went on to swerve right and mounted the kerb of the central divider causing obstruction to other motorists travelling from the opposite direction.
+
+81     In my view, the accused clearly had poor control of his motorcar and it was not a situation where he was momentarily distracted when he took his eyes of the road was navigating the right turn along Tanjong Rhu Road as he was engaging in conversation with his friend.
+
+82     There was also the potential harm or danger he had posed to any persons present at the bus stop, he had endangered his passenger and there was potential harm to other motorists travelling along Tanjong Rhu Road when he swerved to the right and mounted the kerb of the central divider causing obstruction to other motorists travelling from the opposite direction. As highlighted earlier when the offences were committed at 10:45pm one would reasonably expect the presence of other motorists along Tanjong Rhu Road. Under such circumstances, I was of the view that his level of culpability was medium and the harm at the moderate level in light of the significant actual and potential harm that arose.
+
+83     Based on the above, as there were several offence-specific aggravating factors present, I was of the view that the present case fell within Band 2 where a range of between one month’s imprisonment and up to nine months’ imprisonment and disqualification for a period between 3 to 4 years can be considered. It was undisputed that the custodial threshold had been crossed in the present case and the starting point for the present case should be at the lowest end of Band 2 _ie_ one month’s imprisonment.
+
+## Offender-specific factors
+
+84     The next step was for me to calibrate the sentence after considering offender-specific factors. The accused had pleaded guilty to both charges, he was a first offender who had waited at the scene for the police to arrive and he had made restitution to LTA for the property damage. He was remorseful for his actions.
+
+85     After considering both the aggravating factors as well as the mitigating factors, I had calibrated the starting point of the Band 2 custodial sentence downwards to the two weeks’ imprisonment. I agreed with the Prosecution that a period of disqualification of three years for all classes of vehicles was appropriate after having regard to both the offence-specific and offender-specific factors.
+
+### Global Sentence
+
+86     As the facts underlying the first charge under s 67 are in relation to the same act of driving which gave rise to second charge under s 65(1)(_a_), the offences engage an identical or largely overlapping set of facts. The operation of the enhanced penalty provision in s 65(5)(_c_) is contingent on the offender also being convicted of either an offence under ss 67 or 70(4) of the RTA.
+
+87     Guided by the approach in _Wu Zhi Yong_, I was of the view that the sentences for both offences should run concurrently because the punishment for the offence of driving without due care and attention would already have been enhanced on account of the serious offender provision pursuant to s 65(5)(c) of the RTA.
+
+88     All things considered, a global sentence of two weeks’ imprisonment and disqualification from holding or obtaining all classes of driving licences for a period of three years with effect from the date of his release was just and appropriate in the circumstances.
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F27310-SSP.xml)

@@ -1,0 +1,252 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Chua Teck Huat  
+
+### \[2022\] SGDC 65
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">District Arrest Case No 912223-2020, Magistrate's Appeal No 9049-2022-01</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">30 March 2022</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Salina Bte Ishak</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Kenneth Kee (Attorney-General's Chambers) for the Prosecution; Wee Qianling (Covenant Chambers) for the accused.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Chua Teck Huat</td></tr></tbody></table>
+
+Criminal Procedure and Sentencing – Statutory Offences – Road Traffic Act
+
+\[LawNet Editorial Note: An appeal to this decision has been filed in MA 9049/2022/01.\]
+
+30 March 2022
+
+### District Judge Salina Bte Ishak:
+
+## Background
+
+1       The accused, Mr Chua Teck Huat, a 63 years-old male Singapore citizen was first charged on 15 July 2020 for the following offence:
+
+Charge
+
+> are charged that on 20 February 2020 at or about 8.36 a.m., at signalised cross junction of Ang Mo Kio Ave 5 and Ang Mo Kio Ave 8, Lamppost 61/1, Singapore, did drive a motor vehicle SKG2330S on a road without reasonable consideration for other persons using the road, to wit, by failing to give way when turning right from Ang Mo Kio Avenue 5 towards Yio Chu Kang into Ang Mo Kio Ave 8 towards Ang Mo Kio Ave 6 on ‘Green’ light signal, and you have encroached onto the path of a motorcycle bearing, FL9208A, which was riding along Ang Mo Kio Ave 5 towards Buangkok Green on lane 2 of a 3 lanes road when traffic light was showing ‘Green’ signal light, and resulted in a collision and the said motorcycle to collide into the left front passenger door of your door and grievous hurt was caused to one, Ridhwan Bin Abdul Rahiman (male Malay, 28 years old) by such driving, you have thereby committed an offence Section 65(1)(b) of the Road Traffic Act, Chapter 276 punishable under Section 65(3)(a) and Section 65(6)(d) of the Road Traffic Act, Chapter 276.
+
+2       On 11 March 2022, the accused pleaded guilty to the charge and admitted to the Statement of Facts without any qualification. After carefully considering the accused’s oral plea in mitigation and the Prosecution’s submissions on sentence, I sentenced the accused to eight weeks’ imprisonment and disqualified him from holding or obtaining all classes of driving licences for a period of five years with effect from the date of his release. As the accused sought a deferment of his sentence for him to settle his personal matters, I had initially ordered his sentence to commence on 25 March 2022.
+
+3       The accused being dissatisfied with my decision had filed his Notice of Appeal against my sentence and order of disqualification on 11 March 2022. He is on bail pending the hearing of his appeal.
+
+4       Having set out the background for the present case, I now provide the reasons for my decision.
+
+## Salient Facts
+
+5       The accused is a 63-year-old Singaporean male. The accused was the driver of the motorcar bearing registration number SKG 2330S (“the car”) at the material time.
+
+6       The victim is Mr Ridhwan Bin Abdul Rahiman, a 28-year-old Singaporean male, who was the rider of the motorcycle bearing registration number FL 9208A (“the motorcycle”) at the material time.
+
+7       On 20 February 2020 at about 8.36 am, a member of public called the police to report a case of a road traffic accident with a motorcycle that had skidded. The incident location was reported as the cross junction of Ang Mo Kio Avenue 5 and Ang Mo Kio Avenue 8 (“the junction”).
+
+#### Facts pertaining to the charge
+
+8       On 20 February 2020 shortly before 8.36 am, the accused was driving the car from Ang Mo Kio Avenue 5 and was headed in the direction of Yio Chu Kang as he approached the junction. At the same time, the victim was riding the motorcycle along Ang Mo Kio Avenue in the opposite direction as he approached the junction.
+
+9       As the accused approached the junction, he intended to turn right into Ang Mo Kio Avenue 8. Meanwhile, the victim continued going straight along Ang Mo Kio Avenue 5. At the material time, the traffic light signal for both the accused and the victim were green. The victim had the right of way as he was going straight, while the accused’s right turn was discretionary, and he was supposed to keep a proper lookout for vehicles coming from the victim’s direction before executing the turn.
+
+10     As the accused executed the right turn into Ang Mo Kio Avenue 8 at the junction, he failed to notice or give way while encroaching into the victim’s path, resulting in a collision between both vehicles. The impact caused the victim to be flung off the motorcycle.
+
+11     After the accident, the accused alighted from the car and rendered assistance to the victim, who was subsequently conveyed to Khoo Teck Puat Hospital (“the hospital”) via ambulance.
+
+12     Due to the accident, the victim was warded in hospital for seven days and was also issued with 35 days of hospitalisation leave (from 20 February 2020 to 25 March 2020). On 26 August 2020, the hospital issued a medical report noting that the victim suffered from the following injuries:
+
+> (a)     Splenic laceration;
+
+> (b)     Left kidney pedicle injury with devascularisation;
+
+> (c)     Right elbow and forearm degloving injury;
+
+> (d)     L3 and L4 transverse process fractures (the middle of the lumbar spine).
+
+13     A second medical report (reference number – 2020-5654-0) was issued in respect of the victim’s injuries, which found that there was “very little meaningful function in the left kidney which has atrophied since the accident.” The victim’s right kidney was effectively the sole functioning kidney as of 6 November 2020. The medical report also found that the victim would require medical follow up for life and noted that the “disability from the loss of left kidney function based on MOM guidelines is 10% permanent incapacity”. The victim’s injuries were caused by the accident with the car.
+
+14     At the time of the accident, the weather was fine, the road surface was dry while visibility was clear. The traffic flow was light.
+
+15     Prior to the accident, there was no mechanical fault to the car or the motorcycle. As a result of the accident, the car was damaged with dents and scratches while the front left window was shattered. The motorcycle was damaged with scratches and was twisted on the right side.
+
+16     By virtue of the foregoing, the accused did drive a motor vehicle on a road without reasonable consideration for other persons using the road and has committed an offence under s 65(1)(_b_) of the Road Traffic Act (Cap 276, 2004 Rev Ed) (“RTA”).
+
+17     Given that grievous hurt was caused to another person due to the accused’s driving of the car, the accused shall be punished under s 65(3)(_a_) read with s 65(6)(_d_) of the RTA. The accused stands charged accordingly.
+
+## Sentencing
+
+## Prescribed Penalty
+
+18     The prescribed penalty for an offence under s 65(1)(_b_) and punishable ss 65(3)(_a_) read with 65(6)(_d_) of the Road Traffic Act (“RTA”) is fine not exceeding $5,000 or to imprisonment for a term not exceeding 2 years or to both. In addition, the offender is liable to a mandatory disqualification order for all classes of vehicles for at least five years.
+
+## Antecedents
+
+19     The accused did not have any similar antecedents.
+
+## Prosecution’s Submissions on Sentence
+
+20     The Prosecution sought a term of at least two months’ imprisonment and a disqualification order for the mandatory minimum term of five years based on the sentencing framework adopted in _PP v Cullen Richard Alexander_ <span class="citation">\[2020\] SGDC 88</span> (at \[134\])(“_Cullen_”).
+
+21     It was the Prosecution’s case that the accused’s culpability was low. There was no indication that he was travelling at a high speed or that he had flouted any of the relevant traffic laws. However, the accused did have a duty while executing the discretionary right turn to exercise a proper look out while executing the discretionary right turn. That failure to do so while it was acknowledged was a momentary lapse, led to serious consequences.
+
+22     It was submitted that the harm caused to the victim fell within the upper range of medium harm. There were serious fractures to the victim’s spine, coupled with the effective loss of an entire kidney as well. The victim was permanently disabled with regard to his left kidney. The Prosecution had also considered the accused’s plea of guilt, his cooperation with the authorities, and his efforts to render assistance to the victim along with his driving history in coming to its sentencing position.
+
+## Mitigation
+
+23     It was the Defence’s position that a maximum fine of $5,000 and a five years’ disqualification period was more than sufficient punishment for the accused and would more than suffice in achieving the sentencing principle of deterrence and that a custodial term was not warranted in the circumstances.
+
+24     Based on the facts, it was submitted that the accused’s level of culpability was on the low end of the spectrum. In this regard, the accused was neither speeding nor making an illegal turn and was not blatantly and consciously ignoring traffic rules. The accident was caused by a momentary lapse of judgment which he deeply regrets to this day.
+
+25     At the material time, the accused was driving along Ang Mo Kio Avenue 5 and proceeding to Ang Mo Kio Avenue 8. He was stationary at the traffic light junction waiting to turn into Ang Mo Kio Ave 8. He then checked the traffic light that was oncoming from the opposite site and the traffic light was green in his favour. This meant that he could execute the right turn so long as he had done the necessary checks to ensure that there were no oncoming vehicles. He had seen a few vehicles go by from the opposite side and it was only after these vehicles had gone past him and he did not see any more oncoming vehicles that he proceeded to execute the right turn. He was almost completing the turn into Ang Mo Kio Ave 8 when he felt an impact on the left side of his passenger door. The motorcycle had collided into the front left portion of his car, _ie_ at the passenger door area.
+
+![]([2022] SGDC 0065_Image/[2022] SGDC 0065_image1.png)
+
+26     It was submitted that the accused was executing the right turn within the speed limit and was in fact travelling at a slow pace. It was the Defence’s position that the accused had no intention of raising any issue of contributory negligence but noted that the substantial damage caused to the left front passenger door of his car.
+
+27     It was further submitted that the accused was executing a right turn and the extent of the damage to his car suggested that the motorcyclist was travelling at a high speed and that he had substantially completed the right turn, resulting in the motorcyclist colliding head on to his car as evidenced by the post-accident photographs taken by the accused of his car.
+
+28     It was the Defence’s case that whilst the categorisation of the injuries sustained by the motorcyclist falls under grievous hurt, pursuant to s 320 of the Penal Code, the injuries sustained by the motorcyclist falls under the degree of medium harm (moderate injury) as defined in _Cullen_. In _Cullen_, the victim was hospitalised for three days at SGH and given hospitalisation leave for about 45 days (see \[146\] of decision). The victim was unable to work as a general medical practitioner during this period. The court found that the degree of harm caused was medium.
+
+29     In the present case, the victim was admitted in hospital for about six days and thereafter given 34 days of hospitalisation leave. Based on the medical reports, the victim has stable renal function and does not require any surgery to be performed on his kidney at this point of time or in the foreseeable future. It was submitted that the degree of harm caused in the present case fell under the degree of medium.
+
+30     In support of its position that the custodial threshold had not been crossed, the Defence had relied on _PP v Lee Kuan Yee_ <span class="citation">\[2020\] SGDC 298</span> (“_Lee Kuan Yee_”) where the accused was charged with an offence of dangerous driving causing grievous hurt under s 64(1) punishable under s 64(2A)(a) of the RTA which was reduced to a charge of dangerous driving causing hurt punishable under s 64(2B)(a) of the RTA.
+
+31     The Defence had also relied on _PP v Bhahwatkar Nitin Vasant Rao_ <span class="citation">\[2015\] SGDC 254</span> (“_Bhahwatkar_”) where a fine of $2,500 with a 12 months’ disqualification period was imposed on the accused despite serious injuries. In _Bhahwatkar_, the accused was charged for dangerous driving under s 64(1) of the RTA. The accused was driving a car and breached the red-light signal by making a right turn when the directional arrow for cars turning right was red. The accused collided into a motorcycle which was coming in the opposite direction, resulting in injuries to the motorcyclist and the pillion rider. Whilst the pillion rider sustained light injuries and was discharged with three days’ medical leave, the motorcyclist sustained multiple traumatic injuries such as:
+
+> (a)     left deep scrotal teat treated by wound debridement and surgical removal of the left testicle;
+
+> (b)     left open wrist fracture with deep right elbow laceration; and c. stable left greater trochanter fracture and right knee multiple ligamentous injury treated by ligament reconstruction surgery (total 219 days medical leave).
+
+32     It was submitted that the present case concerns less serious injuries than the victim in _Bhahwatkar._ The accused’s culpability was low as he was neither speeding nor breaching red light signals. Similar to the accused in _Bhahwatkar_, he did not have antecedents and had pleaded guilty.
+
+33     It was the Defence’s position that there was an absence of offence-specific aggravating factors in that it was a momentary lapse of the accused’s part that led to the unfortunate accident. He was neither speeding, driving recklessly or making an illegal turn. On the contrary, it was submitted that there were offender-specific mitigating factors which would lend credence to the Defence’s position that a fine and a disqualification period ought to be imposed in lieu of a custodial sentence.
+
+34     The following mitigator factors were highlighted namely:
+
+> (a)     His plea of guilt signals remorse and saves judicial resources;
+
+> (b)     He had rendered his fullest cooperation with the authorities and understands the gravity of his actions.
+
+> (c)     Absence of antecedents.
+
+> (d)     Work ethic and character in his job.
+
+> (e)     Charitable work and contribution to community,
+
+35     It was submitted that a custodial term would have a significant impact on his personal and family life as well as his work. As the accused is turning 64 this year, the imposition of a custodial sentence will invariably result in a loss of employment as he is employed on a yearly contract basis due to his age. It was further submitted that a fine and disqualification was sufficient to satisfy the deterrent and retributive aims of criminal justice and punishment.
+
+## Sentencing considerations
+
+### S 65(1) of the RTA
+
+36     The present offence under s 65(1) of the RTA was enacted on 1 November 2019, following the passing of the Road Traffic (Amendment) Act 2019 (Act 19 of 2019). S 65(1) of the RTA encapsulates the primary offence of driving without due care or reasonable consideration for other persons using the road. The subsequent subsections from ss 65(2) to 65(4) are the penalty prescribing provisions, each tiered according to the degree of hurt caused and for s 65(5), for any other case of non-personal injury or potential harm.
+
+37     Prior to the 2019 amendment, the offence of driving without due care or reasonable consideration under s 65 of the RTA was a singular provision without any differentiation as to degree of hurt caused and punishable with a fine not exceeding $1,000 or to imprisonment not exceeding six months or imprisonment not exceeding six months or to both. A second or subsequent offender was liable to a fine not exceeding $2,000 or to imprisonment not exceeding 12 months or to both. In addition, pursuant to s 42(1) of the RTA, the court has a discretion to impose a period of disqualification for life or for such a period as the court may think fit.
+
+38     The 2019 amendments to s 65 of the RTA resulted in a tiered approach in the prescribed penalties where a first offender under s 65(1) who fell at the lowest end of the spectrum of no personal injury or potential harm is occasioned is liable to a fine not exceeding $1,500 or to imprisonment not exceeding six months or to both. At the highest end of the spectrum where death is caused, the first offender is liable to a fine not exceeding $10,000 or to imprisonment not exceeding three years or to both. In addition, enhanced penalties as well as minimum disqualification periods were introduced for offences where death or grievous hurt is caused as well as for a repeat offender, a serious offender as well as a serious repeat offender.
+
+#### Sentencing approach
+
+39     Presently, there is no existing sentencing framework enunciated by the High Court for offences under s 65(1), particularly for one punishable under s 65_(3)_(a) of the RTA. In the present case, both the Prosecution and the Defence had referred to _Cullen_ a reported district court decision in their address on sentence.
+
+40     In _Cullen_ the district judge in that case had proposed a sentencing matrix framework for offences punishable under s 65(3)(_a_) of the RTA for offenders who claim trial. The appropriate adjustments are to be made for offenders who plead guilty by taking into consideration the offender-specific mitigating factors.
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="27.7144571085783%"> <col width="18.0563887222555%"> <col width="18.0763847230554%"> <col width="18.0763847230554%"> <col width="18.0763847230554%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="3" valign="top"><p align="center" class="Table-Para-1"><b><em><u>CULPABILITY</u></em></b></p></td><td align="left" class="b" colspan="4" rowspan="1" valign="top"><p align="center" class="Table-Para-1">GRIEVOUS HURT</p><p align="center" class="Table-Para-1">S 65(3)(a) RTA</p></td></tr><tr><td align="left" class="b" colspan="4" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Up to $5,000 OR Up to 2 years or Both</p><p align="center" class="Table-Para-1">Mandatory DQ: At least 5 years</p></td></tr><tr><td align="left" class="b" colspan="4" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b><em><u>HARM</u></em></b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">&nbsp;</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Low</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Medium</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Serious</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Very serious</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Low</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">$2,500 to $5,000</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Up to 3 months</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">3 to 6 months</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1">6 to 9 months</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Moderate</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Up to 3 months</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">3 to 6 months</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">6 to 9 months</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1">9 to 12 months</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>High</b></p></td><td align="left" class="r" rowspan="1" valign="top"><p align="center" class="Table-Para-1">3 to 6 months</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="center" class="Table-Para-1">6 to 9 months</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="center" class="Table-Para-1">9 to 12 months</p></td><td align="left" class="" rowspan="1" valign="top"><p align="center" class="Table-Para-1">12 to 24 months</p></td></tr></tbody></table>
+
+  
+  
+
+41     A sentence of ten weeks’ imprisonment and disqualification for all classes of vehicles for a period of five years with effect from date of release as well as a prohibition under s 47F RTA from driving any motor vehicle in Singapore for a period of five years with effect from date of release was imposed for the charge involving s 65(3)(_a_) of the RTA.
+
+42     In that case, the offender was charged with two counts of driving without reasonable consideration under the s 65(1)(_b_) of the RTA together with one count of failing to stop after an accident under s 84(1)(_a_) read with s 84(7) of the RTA. This was in respect of two separate road traffic accidents which had occurred on the same day on 10 November 2019 within a span of about five minutes and not more than one kilometre apart. Damage was caused to the first victim’s motorcar for the first accident. For the second accident, the accused was liable to under s65(3)(_a_) of the RTA as serious damage was caused to the second victim’s motorcar and grievous hurt was caused to the second victim. He was hospitalised for three days and given 48 days of hospitalisation leave. The medical report indicated that the victim had sustained a fracture to his lumbar spine (L4 superior endplate acute fracture with mild anterior wedging of L4 due to mild depression in the anterior aspect of the superior endplate). He was treated conservatively for his lumbar spine injury with a lumbar corset.
+
+43     Due to the dearth of reported decisions after the 2019 amendments to s 65(1) of the RTA, I have observed that _Cullen_ is often cited by both the Prosecution and the Defence in their address on sentence for accident cases where grievous hurt is caused regardless of whether it fell within the first or second category of irresponsible driving. Nevertheless, I am not bound by that decision as there is no appellate determination on the appropriateness of the suggested sentencing framework.
+
+44     In the recent case of _Wu Zhi Yong v PP_ <span class="citation">\[2021\] SGHC 261</span>(“_Wu Zhi Yong_”), Menon CJ had dealt with the first category and the more serious form of irresponsible driving and prescribed a sentencing band framework for an offence reckless driving under s 64(1) punishable under s 64(2C)(_a_) read with ss 64(2C)(_c_) of the RTA.
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="10.08%"> <col width="51.6%"> <col width="38.32%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Band</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Degree of seriousness</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Sentencing Range</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">1</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Lower level of seriousness with no offence-specific aggravating factors present or where they are present only to a limited extent.</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">A fine of between $2,000 and $15,000 and/or up to one month’s imprisonment and a disqualification period of two to three years.</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">2</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Higher level of seriousness and would usually contain two or more offence-specific aggravating factors. In these cases, the level of culpability and the blood alcohol level will typically <em>both</em> be on the higher side. Where an offender’s blood alcohol level is in the highest or second highest band of the framework in <em>Rafael Voltaire Alzate</em>, the case is likely to fall <em>at least</em> within Band 2</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Between one month’s and one year’s imprisonment and a disqualification period of three to four years.</p><p align="justify" class="Table-Para-1">&nbsp;</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="center" class="Table-Para-1">3</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">The most serious cases of reckless or dangerous driving whilst under the influence of drink. In these cases, there will be multiple aggravating factors suggesting higher levels of culpability and higher alcohol levels.</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Between one year’s and two years’ imprisonment and a disqualification period of four to five years.</p></td></tr></tbody></table>
+
+  
+  
+
+45     The prescribed penalty for an offence punishable under section 64(2C)(_a_) of the RTA is fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both. Where the offence involves a serious offender, he is liable to a fine of not less than $2,000 and not more than $10,000 or to imprisonment for a term not exceeding 12 months or to both, in addition to the punishment under section 64(2C)(a) of the RTA.
+
+46     In _Wu Zhi Yong_, after a careful consideration of different sentencing approaches at \[22\] to \[29\] the High Court had prescribed the sentencing band approach when dealing with offences punishable under s 64(2C)(_a_) read with ss 64(2C)(_c_) of the RTA. At \[30\] and \[48\] of the judgment, the High Court had set out the following sentencing approach:
+
+> The sentencing approach
+
+> 30 At the first step, as set out in _Terence Ng_ at \[39\], the court should identify the band applicable to the offence and the indicative starting point with reference to that band, having regard to the _offence_\-specific factors present. These would encompass factors relating to the manner and mode by which the offence was committed, as well as the harm caused by the offender. At the second step, the court would have regard to the _offender_\-specific factors, being the aggravating and mitigating factors that are personal to the offender.
+
+> 48 At the second step of the analysis, the court will have regard to the offender-specific factors. Examples of these factors have been set out at \[62\] – \[71\] of _Terence Ng_ and apply equally in the present framework. Offender-specific aggravating factors include offences taken into consideration for the purposes of sentencing, the presence of relevant antecedents (apart from where the offender’s antecedents have been taken into account under the “repeat offender” or “serious repeat offender” provisions), and evidence showing a lack of remorse. Offender-specific mitigating factors include evidence of genuine remorse and an offender’s youth.
+
+47     Although the present case concerns the second category of irresponsible driving, due to the similarity in the structure of the statutory provisions for both forms of irresponsible driving under s 64(1) and s 65(1), I was of the view the observations as well as the sentencing approach set out by Menon CJ are instructive and provides some useful guidance on how an offence under s 65(1) should be dealt with the necessary downward calibration.
+
+48     In my recent grounds of decision in _PP v Chua Choon Yee_ <span class="citation">\[2021\] SGDC 264</span> at \[24\] to \[26\] which involved a similar charge as the present case, I had proposed a sentencing band framework for offences punishable under s 65(3)(_a_) of the RTA. To determine the appropriate sentence, the court should first consider the offence-specific factors to determine the appropriate sentencing band where the present offence should be situated. Such factors would include the following:
+
+> (a)     The manner, the mode and the location by which the offence was committed _eg_ driving against the flow of traffic, high degree of carelessness;
+
+> (b)     the level of potential harm _eg_ serious risk posed to other road users;
+
+> (c)     the nature of the harm caused to the victim _eg_ both grievous hurt and property damage caused;
+
+> (d)     the number of victims involved;
+
+> (e)     the accused’s motivation for driving _eg_ he had been driving a passenger for hire or reward;
+
+> (f)     the accused had failed to stop after the accident to evade arrest or to avoid apprehension.
+
+#### Proposed sentencing bands
+
+49     The range of sentence that can be imposed for the present offence is a fine not exceeding $5,000 or to imprisonment for a term not exceeding 2 years or to both. The proposed sentencing band is as follows:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="10.0779844031194%"> <col width="44.131173765247%"> <col width="45.7908418316337%"> </colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Band</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Degree of seriousness</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Sentencing Range</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">1</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Lower level of seriousness and with no offence- specific aggravating factors.</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">A fine between $1,000 to $5,000 and/or up to one month’s imprisonment and the minimum disqualification period of five years for all classes of vehicles.</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">2</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Higher level of seriousness with more than one offence-specific aggravating factors. The accused’s level of culpability would typically be in the medium range.</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Between one month’s imprisonment and up to one year’s imprisonment and disqualification for a period of five to six years.</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="center" class="Table-Para-1">3</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">The most serious case of causing grievous hurt by careless or inconsiderate driving where there are multiple aggravating factors and the offender’s level of culpability is high.</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Between one year’s imprisonment and two years’ imprisonment and disqualification for a period of six to seven years.</p></td></tr></tbody></table>
+
+  
+  
+
+#### Calibration of sentence
+
+50     The next step would be for the court to calibrate the sentence after having regard to the offender-specific factors. The relevant factors would include offences that are taken into consideration for the purposes of sentencing, the presence of relevant antecedents and evidence showing a lack of remorse. Offender-specific mitigating factors include a clean record, an early plea of guilt, evidence of genuine remorse and an offender’s youth.
+
+51     I now turn to the facts of the present case.
+
+## My decision on sentence
+
+## Offence-specific factors
+
+#### Manner and mode of offence
+
+52     In the present case, I had considered the fact that the accident occurred as the accused was making a discretionary turn right into Ang Mo Kio Avenue 8. The victim was travelling straight along Ang Mo Kio Avenue 5. At the material time, the traffic light signal for both the accused and the victim were green. Nevertheless, as the victim was going straight, the victim had the right of way. As the accused’s right turn was discretionary, he was expected to keep a proper lookout for vehicles coming from the victim’s direction before executing the turn. In the present case, when the accused executed the right turn into Ang Mo Kio Avenue 8 at the junction, he had failed to notice or give way while encroaching into the victim’s path, resulting in a collision between both vehicles. The impact caused the victim to be flung off the motorcycle.
+
+53     I observed that there were no culpability increasing factors such as excessive speeding, deliberate dangerous driving or deliberate flouting of road traffic rules in the present case. Hence, I agreed with both the Prosecution and the Defence that the accused’s culpability was low.
+
+54     It was the Defence’s position that the accused had almost completed making the right turn into Ang Mo Kio Ave 8 when he felt an impact on the left side of his passenger door.
+
+![]([2022] SGDC 0065_Image/[2022] SGDC 0065_image2.png)
+
+From the sketch plan (P1) which showed the position of the victim’s motorcycle after the accident and from damage on the accused’s motorcar (seen at \[25\] above), the point of impact was when the front left portion of the accused’s car had first encroached directly into the victim’s travel path. In my view, if the accused had indeed almost completed making the right turn, the point of impact would have been situated more to the left rear portion of his car and not on the left side of the front passenger door.
+
+55     The present facts indicate a moderate degree of carelessness when the accused failed to exercise a proper look out for oncoming vehicles on his left that had the right of way as he encroached into the victim’s travel path. Although the Defence had submitted that the extent of the damage to the accused’s car suggested that the motorcyclist was travelling at a high speed, I found that this was an assertion not supported by the relevant expert evidence.
+
+#### Nature of grievous hurt caused
+
+56     In respect of the harm caused, I considered the fact that the victim had suffered serious injuries namely splenic laceration, left kidney pedicle injury with devascularisation, right elbow and forearm degloving injury and L3 and L4 transverse process fractures (the middle of the lumbar spine). A further medical report found that there was “very little meaningful function in the left kidney which has atrophied since the accident.” The victim’s right kidney was effectively the sole functioning kidney as of 6 November 2020. The victim would require medical follow up for life and noted that the “disability from the loss of left kidney function based on MOM guidelines is 10% permanent incapacity. The victim was hospitalised for seven days and was issued with 35 days of hospitalisation leave.
+
+57     In my view, such injuries would fall within the category of serious harm as the victim was permanently disabled with regards to his left kidney. He would also require medical follow up for life. Hence, I disagreed with the Defence’s characterisation of the harm being medium as the victim suffered fractures to a vulnerable part of his body _ie_ his spine and he also lost the use of his left kidney. Although based on the medical reports, the victim has stable renal function and does not require any surgery to be performed on his kidney at this point of time or in the foreseeable future, the injury caused to his left kidney was so serious that the victim he lost the use of that kidney.
+
+58     I disagreed that the cases of _Lee Kuan Yee_ and _Bhahwatkar_ supported the Defence’s position that the custodial threshold had not been crossed as both cases involved the offence of dangerous driving. In _Lee Kuan Yee_ the accused was dealt with on a charge of dangerous driving causing hurt punishable under s 64(2B)(a) of the RTA although he was originally charged with an offence of dangerous driving causing grievous hurt.
+
+59     In _Bhahwatkar_, it was highlighted that a fine of $2,500 with a 12 months’ disqualification period was imposed on the accused despite serious injuries. In _Bhahwatkar_, the accused was charged for dangerous driving under the old s 64(1) of the RTA which was punishable with a fine not exceeding $3,000 or to imprisonment for a term not exceeding 12 months or to both. If he had been dealt with under the current statutory provisions for an offence of dangerous driving where grievous hurt was caused, he would have been liable to the enhanced penalties under s 64(2A)(a) of the RTA which carries a mandatory imprisonment term of not less than one year and not more than five years.
+
+60     In addition, I disagreed that the present case concerns less serious injuries than the victim in _Bhahwatkar._ I also found the reported as well unreported cases under s 338(a) of the Penal Code referred to by the Defence was unhelpful as it involved a different statutory provision and that the unreported cases have little precedential value.
+
+#### Serious potential harm
+
+61     All motorists should keep a proper look out and exercise care when approaching traffic light junctions and when making discretionary turns across a junction when traffic light signal is green in their favour. The accused had admitted that he had failed to notice or give way while encroaching into the victim’s path, resulting in a collision between both vehicles.
+
+62     Apart from the actual harm caused, there was serious potential harm present in the case as the accident had occurred at 8:36am on a weekday _ie_ on a Tuesday at a junction with at four lanes in both the accused’s and the victim’s direction where there might be other road users apart from the victim travelling along Ang Mo Kio Avenue 5.
+
+63     Due to the seriousness of the offence as set out above, I was of the view the custodial threshold had been crossed and that starting point of the present case fell within the upper range of the lower end of Band 2 of the sentencing band. There were several offence-specific aggravating factors present in this case namely, the moderate degree of carelessness, the serious potential harm to other road users and serious harm caused to the victim. The imposition of the maximum fine would not be appropriate in the circumstances.
+
+## Offender specific factors
+
+64     The next step was for me to calibrate the sentence after considering offender-specific factors. The accused had pleaded guilty to a single charge and had unrelated antecedents. He was remorseful for what he had done, he had co-operated with the authorities and had admitted that he was careless.
+
+65     The Prosecution had sought a sentence of at least two months’ imprisonment and disqualification for a period of five years for all classes of vehicles. The accused had asked for the maximum fine of $5,000 and for a disqualification for a period of five years for all classes of vehicles.
+
+66     Due to the seriousness of the offence and the presence of several offence-specific aggravating factors, I was of the view that the starting point of the present offence should be three months’ imprisonment. After taking into account the relevant offender specific factors, a downward calibration to eight weeks’ imprisonment was appropriate in the circumstances. I was also of the view that the minimum disqualification period of five years with effect from the date of release agreed to by both the Prosecution and the Defence was appropriate as there were no special reasons before me not to make the order or to order a period less than the specified period of five years.
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F27335-SSP.xml)
