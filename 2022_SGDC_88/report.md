@@ -1,0 +1,247 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Pondok Abang _v_ Apexlink Pte Ltd  
+
+### \[2022\] SGDC 88
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">District Court Suit No 2827 of 2019, District Court Appeal No 11 of 2022</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">26 April 2022</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Lim Wee Ming</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Paul Fitzgerald (Paul Fitzgerald) for the plaintiff; Low Chang Yong (Wee, Tay &amp; Lim LLP) for the defendant</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Pondok Abang — Apexlink Pte Ltd</td></tr></tbody></table>
+
+Commercial Transactions – Sale of goods
+
+Contract – Contractual terms – Implied terms
+
+\[LawNet Editorial Note: The appeal in HC/DCA 11/2022 was withdrawn on 31 May 2022.\]
+
+26 April 2022
+
+### District Judge Lim Wee Ming:
+
+## Introduction
+
+1       The plaintiff’s claim against the defendant is for damages arising from the defendant’s alleged breach of contract, in selling the defendant cooking pans which were unable to cook evenly, the plaintiff’s required quantity of 100 kilograms of beef lungs per pan.
+
+2       I dismissed the plaintiff’s claim. The plaintiff has appealed against my decision.
+
+## Facts
+
+3       The plaintiff is a halal food manufacturer in Singapore with a variety of ready to cook (“RTC”) and ready to eat (“RTE”) products.[\[note: 1\]](#Ftn_1)
+
+4       The defendant is in the business of the manufacture, sale and maintenance of kitchen equipment.[\[note: 2\]](#Ftn_2)
+
+5       In April 2018, the plaintiff was seeking to expand its manufacturing capacity and wished to acquire equipment capable of cooking 200 kilograms of beef lungs per cooking cycle, an increase from its existing capacity of 80 kilograms.[\[note: 3\]](#Ftn_3)
+
+6       The plaintiff’s owner, Hasan bin Abdul Rahman (“Hasan”), dealt with the defendant’s assistant application sales manager, Kelvin Kua (“Kelvin”). In a whatsapp message of 3 May 2018, Hasan informed Kelvin of the plaintiff’s interest in acquiring Firex Cucimax pressure round pans, each capable of cooking 100 kilograms per cooking cycle.[\[note: 4\]](#Ftn_4)
+
+7       Firex is an Italian company in the business of manufacturing professional kitchen equipment. The defendant is an authorised distributor of Firex products in Singapore.
+
+8       Hasan and Kelvin met on 4 May 2018 at the plaintiff’s premises. At the meeting, Hasan informed Kelvin that the plaintiff wished to increase its capacity for cooking beef lungs from 80 kilograms per cooking cycle to 200 kilograms per cooking cycle. The plaintiff was therefore looking at purchasing two Cucimax pressure-cooking pans, each with a capacity of 100 kilograms of beef lungs per cooking cycle.[\[note: 5\]](#Ftn_5)
+
+9       On 15 May 2018, Kelvin sent Hasan the defendant’s quotation for two Cucimax pans, each with a total tank capacity of 162 litres and a useful capacity of 135 litres, for a price of $42,350 per pan. The plaintiff signed the quotation and returned it to the defendant on the same day.[\[note: 6\]](#Ftn_6)
+
+10     In July 2018, the plaintiff applied to IE Singapore for the Capability Development Grant (“CDG”) which would subsidise 50% of the purchase.[\[note: 7\]](#Ftn_7) The plaintiff’s application was approved on 24 September 2018.[^8]
+
+### Testing of the pans at Bangi
+
+11     In August 2018, Kelvin invited the plaintiff to attend a test of the Cucimax pans at Bangi in Malaysia. The plaintiff attended the test on 27 and 28 September 2018.[\[note: 9\]](#Ftn_9) The test was attended by:
+
+> (a)     Hasan,
+
+> (b)     Abdul Rahman bin Yad Ali, Hasan’s father,
+
+> (c)     Habib Mansoor, the plaintiff’s senior marketing executive, and
+
+> (d)     Gabriele Vendruscolo (“Venruscolo”), the Firex representative.
+
+12     The defendant did not attend the test.
+
+13     Initially, the plaintiff wished to test only 3 kilograms of beef lungs, but in an email of 15 August 2018 to the defendant and the plaintiff,[\[note: 10\]](#Ftn_10) Vendruscolo suggested that the plaintiff “consider a load of around 30 LT finished product”, in view of the 100 litre capacity of each pan. In that email, Vendruscolo further stated, “not sure how \[30 LT of finished product\] translate into the meat quantity but \[I\] am sure you can have an idea”.[^11]
+
+14     At the test, the plaintiff cooked a load of a little over 20 kilograms of beef lungs.[\[note: 12\]](#Ftn_12) According to Hasan, the beef lungs were cooked to “a good standard”.[^13] Hasan’s evidence was that “After the test cooking, my father asked Mr Vendruscolo whether the pans could handle 100 kilograms. Mr Vendruscolo seemed confident that the pans could handle our required quantity but stated that he was in no position to predict quality.”[^14]
+
+15     Thereafter, the plaintiff proceeded with the purchase of the Cucimax pans. The plaintiff made payment for the pans and the defendant delivered and installed the pans in March 2019.[\[note: 15\]](#Ftn_15)
+
+### Unevenly cooked beef lungs
+
+16     After the plaintiff started test cooking its products with the Cucimax pans, the plaintiff discovered that it could achieve acceptable results with its RTE dishes. However, the plaintiff could only achieve consistent cooking of the beef lungs in batches of 30 kilograms. If 100 kilograms of beef lungs was used, some lungs would be cooked to an acceptable standard, whereas others would be over or under cooked.[\[note: 16\]](#Ftn_16)
+
+17     The plaintiff raised the problem with the defendant. On 14 May 2019, Vendruscolo attended the plaintiff’s premises to observe the cooking of the beef lungs. Vendruscolo ascertained that the issue arose from the beef lungs floating which caused the floating meat to be undercooked. In an email to the plaintiff of 21 May 2019, he proposed that a perforated steel disc be placed at the top of the pan so that the beef lungs would remain under water.[\[note: 17\]](#Ftn_17) Vendruscolo informed the plaintiff that there would be a cost to this proposed solution.
+
+18     The plaintiff was unhappy with this proposed solution, as the disc would lock the plaintiff into cooking less than 100 kilograms of beef lungs per cooking session.[\[note: 18\]](#Ftn_18) The defendant then suggested that the plaintiff purchase a larger pan with a capacity of 300 litres. The plaintiff refused to accept this proposal.[^19]
+
+19     Thereafter, the plaintiff commenced the action herein against the defendant.
+
+## Plaintiff’s position
+
+20     The plaintiff’s claim against the defendant is for:
+
+> (a)     Breach of the implied condition under section 13(1) of the Sale of Goods Act (Cap 393, 1999 Rev Ed) (“SOGA”) in that the Cucimax pans supplied by the defendant failed to conform with the description in the quotation, in that each pan could only boil satisfactorily 30 kilograms of beef lungs per cooking cycle, below the useful capacity of 135 litres described in the quotation and the 100 kg specified by the plaintiff as the required capacity.[\[note: 20\]](#Ftn_20)
+
+> (b)     Breach of the implied condition under section 14(3) of SOGA in that the Cucimax pans supplied by the defendant were unfit for purpose, in that they could only boil satisfactorily 30 kilograms of beef lungs per cooking cycle, below the 100 kilograms specified by the plaintiff as being the required capacity.[\[note: 21\]](#Ftn_21)
+
+21     In relation to the plaintiff’s claim under section 14(3) of SOGA, the plaintiff relies on the Court of Appeal decision in _National Foods Ltd v Pars Ram Brothers (Pte) Ltd_ \[2007\] 2 SLR (R) 1048 (at \[73\], \[81\]), where the Court of Appeal held that section 14(3) assumes that where the buyer makes known to the seller any particular purpose for which the goods are being bought, there is reliance on the seller’s skill and judgment. The onus then falls on the seller to prove that there was no such reliance, or that the reliance was unreasonable in the circumstances.[\[note: 22\]](#Ftn_22)
+
+22     The plaintiff further claims that the pans were unable to cook the required quantity of beef lungs uniformly.[\[note: 23\]](#Ftn_23)
+
+## Defendant’s position
+
+23     The defendant’s position in relation to the plaintiff’s claim under section 13(1) of SOGA, is that the description of 100 kilograms does not form part of the description or specifications of the pans sold.[\[note: 24\]](#Ftn_24)
+
+24     In relation to the plaintiff’s claim under section 14(3) of SOGA, although the defendant accepts that the plaintiff did make known to the defendant that they wished for the pans to cook 100 kilograms of beef lungs per cooking cycle, the defendant informed the plaintiff that:
+
+> (a)     the defendant could not provide confirmation on the pans’ ability to cook 100 kilograms of beef lungs per cooking cycle,[\[note: 25\]](#Ftn_25) and
+
+> (b)     the plaintiff had to establish the Cucimax pans’ ability to cook 100 kilograms per cooking cycle on its own.[\[note: 26\]](#Ftn_26)
+
+25     Essentially, the defendant’s position is that in the light of the aforesaid matters that the defendant informed the plaintiff of, the plaintiff could not rely on the defendant’s skill and judgment on the Cucimax pans’ ability to evenly cook 100 kilograms of beef lungs per cooking cycle.
+
+## Issue
+
+26     In relation to the plaintiff’s claim under section 13(1) of SOGA, the defendant’s quotation for the two Cucimax pans, describes each pan as having a total tank capacity of 162 litres and a useful capacity of 135 litres.[\[note: 27\]](#Ftn_27) No mention is made in the quotation of the weight of food that could be taken by each pan. In the premises, I am of the view that there is no merit to the plaintiff’s claim under section 13(1) of SOGA.
+
+27     In relation to the plaintiff’s claim under section 14(3) of SOGA, the key issue in this case is whether the defendant informed the plaintiff that the defendant could not provide confirmation on the pans’ ability to cook 100 kilograms of beef lungs per cooking cycle.
+
+## Plaintiff informed that defendant could not confirm the pans’ ability to cook 100 kilograms of beef lungs
+
+28     I found that the defendant had informed the plaintiff that it could not confirm the pans’ ability to cook 100 kilograms of beef lungs per cooking cycle.
+
+29     In coming to my decision, I relied on the following:
+
+> (a)     Kelvin’s evidence that he had informed Hasan that he was unable to advise on the capacity of the pans in terms of kilograms.
+
+> (b)     The evidence of Hasan and Vendruscolo on the test at Bangi, showing that Vendruscolo did not commit on whether 100 kilograms of beef lungs could be cooked satisfactorily.
+
+### Kelvin informed Hasan that he was unable to advise on the capacity in kilograms
+
+30     Kelvin’s affidavit of evidence-in-chief states that he told Hasan “the specifications of the model states that there is a useful capacity of at least 100 litres (volume), but I was unable to advise on its ability in terms of kilogrammes (weight or mass). I then told Hasan that \[the plaintiff\] had to assess if the selected Cucimax Pans were suitable for their needs based on their experience during the demonstration test in Bangi, Malaysia.”[\[note: 28\]](#Ftn_28)
+
+31     In cross-examination, counsel for the plaintiff referred to Kelvin’s statement that “I was unable to advise on its ability in terms of kilogrammes (weight or mass)” and questioned Kelvin that no one speaks like that. Kelvin explained that he said, “In terms of Kg, I cannot advise you.”[\[note: 29\]](#Ftn_29)
+
+32     Kelvin’s evidence that “In terms of Kg, I cannot advise you”, is consistent with Vendruscolo’s email of 15 August 2018, suggesting that for the test at Bangi, the plaintiff’s proposed quantity of 3 kilograms of food was too low and that the plaintiff “consider a load of around 30 LT finished product, not sure how that translate into the meat quantity but \[I\] am sure you can have an idea”.[\[note: 30\]](#Ftn_30) It is apparent from this email that Vendruscolo also could not confirm how much each pan’s capacity in litres would translate into the quantity of food in kilograms. In the premises, I accept Kelvin’s evidence that he had informed Hasan that he was unable to advise on the capacity in kilograms.
+
+33     Kelvin’s evidence was that he told Hasan that the plaintiff “had to assess if the selected Cucimax Pans were suitable for their needs based on their experience during the demonstration test in Bangi, Malaysia.”[\[note: 31\]](#Ftn_31)
+
+34     The plaintiff has pointed out that Vendruscolo’s email of 15 August 2018 makes no mention that the testing at Bangi was the plaintiff’s opportunity to test the capacity for 100 kg of beef lungs and that Kelvin had agreed in cross-examination that “yes, on … hindsight, it will be best to document it … but unfortunately, during that time we did not.”[\[note: 32\]](#Ftn_32)
+
+35     Nevertheless, I am of the view that the whole purpose of the test at Bangi was to give the plaintiff an opportunity to satisfy themselves that the Cucimax pans could meet their requirements, before proceeding with the contract. There would be no good reason for the test at Bangi, if that was not the case. The plaintiff knew its own requirements and it was open to the plaintiff to request that the test at Bangi be carried out on 100 kilograms of beef lungs, for the plaintiff to satisfy itself that the Cucimax pans could meet its requirements. The defendant had arranged the test at Bangi for the plaintiff and there was no obligation upon the defendant to remind the plaintiff of the plaintiff’s own requirements.
+
+### Vendruscolo informed Hasan that he could not commit on how the food would turn out
+
+36     In Hasan’s affidavit of evidence-in-chief, his evidence was that the Cucimax pans “were able to achieve acceptable results with many of our RTE dishes.”[\[note: 33\]](#Ftn_33) However, only 30 kilograms of the beef lungs could be consistently cooked in a single batch. If 100 kilograms of beef lungs was used, this “would result in some lungs being cooked to an acceptable standard, while others would be cooked unevenly”.[^34]
+
+37     This points to the pans having the capacity to load 100 kilograms of beef lungs and that the issue arises from the peculiar nature of beef lungs which float to the top, causing some the beef lungs to be cooked unevenly. Accordingly, the issue appears to be one of quality, rather than just of quantity. The particular issue of beef lungs floating to the top of the water while being cooked would be better known to the plaintiff, who are in the business of cooking beef lungs, than the defendant, who are merely suppliers of cooking pans.
+
+38     Although Hasan’s evidence is that Kelvin was previously a chef and had experience cooking beef lungs,[\[note: 35\]](#Ftn_35) Kelvin was not present at the test at Bangi. In the circumstances, it was for the plaintiff to protect its own interest to ensure that the pans could satisfactorily cook 100 kilograms of beef lungs during the test at Bangi. If the plaintiff failed to do so, the plaintiff cannot turn around and blame the defendant for not reminding the plaintiff.
+
+39     Hasan’s evidence was that “After the test cooking, my father asked Mr Vendruscolo whether the pans could handle 100 kilograms. Mr Vendruscolo seemed confident that the pans could handle our required quantity but stated that he was in no position to state quality.”[\[note: 36\]](#Ftn_36) The aforesaid extract from Hasan’s affidavit of evidence-in-chief, is Hasan’s description of his conversation with Vendruscolo at the Bangi test.
+
+40     That conversation was recorded by the plaintiff and the transcript of that conversation makes it even clearer that Vendruscolo was unable to commit on how the food would turn out. In the relevant extract of the transcript, Vendruscolo states, “Remember one thing, the machine can do what you want, however, if the food comes out good or bad, is not for me to say.”[\[note: 37\]](#Ftn_37)
+
+41     In the light of the aforesaid qualification by Vendruscolo that “if the food comes out good or bad, is not for me to say”, there is no basis for Hasan to complain that after the plaintiff took delivery of the pans, if 100 kilograms of beef lungs was used, this “would result in some lungs being cooked to an acceptable standard, while others would be cooked unevenly”.[\[note: 38\]](#Ftn_38)
+
+42     In other words, the pan is physically capable of taking 100 kilograms of beef lungs, but in terms of quality of cooking, that would be another issue altogether, which Vendruscolo was unable to comment on. Any confirmation that Vendruscolo gave on the quantity of food the pans could handle, is qualified in that Vendruscolo had informed Hasan that he was unable to commit on whether “the food comes out good or bad”. Accordingly, the plaintiff cannot now complain about the uneven cooking of the beef lungs, when 100 kilograms of beef lungs are put into the pan.
+
+43     The plaintiff has submitted that the contract was formed upon the plaintiff’s acceptance of the quotation dated 15 May 2018,[\[note: 39\]](#Ftn_39) although the plaintiff’s performance of its obligations was conditional on IE Singapore’s approval of the CDG.[^40] The plaintiff disputes the defendant’s position that payment of the deposit was deemed confirmation and acceptance of the quotation.[^41] However, the plaintiff’s submission is inconsistent with Hasan’s evidence that after the test at Bangi, his father “asked Mr Vendruscolo whether the pans could handle 100 kilograms”.[^42] There would be no reason for this query, if the plaintiff was under the impression that the plaintiff was already bound to proceed with the purchase of the pans.
+
+44     The plaintiff submits that the solutions proposed by the defendant to resolve the beef lungs issue amount to an admission that the pans are unfit for their purpose.[\[note: 43\]](#Ftn_43) The plaintiff has relied on _MCST Plan No 1166 v Chubb Singapore Pte Ltd_ \[1999\] 2 SLR (R) 1035 (“_Chubb_”), wherein the High Court treated the offer of an alternative product as an admission by the seller that the original security and communication system sold and installed in the plaintiff’s condominium was not fit for purpose.
+
+45     I am of the view that _Chubb_ may be distinguished as the defendant’s position in the present case, is that it had informed the plaintiff that it could not provide confirmation on the pans’ ability to cook 100 kilograms of beef lungs per cooking cycle.[\[note: 44\]](#Ftn_44) In contrast, in _Chubb_, there was no such defence raised that the seller had informed the buyer, that it could not provide confirmation on a specific purpose raised by the buyer.
+
+46     In the light of the aforesaid reasons, I accept the defendant’s defence that the defendant had informed the plaintiff that it could not provide confirmation on the pans’ ability to cook 100 kilograms of beef lungs per cooking cycle. The plaintiff was also informed that there was no commitment on whether “the food comes out good or bad”. In the premises, the plaintiff could not rely on the defendant’s skill and judgment on whether the pans could evenly cook 100 kilograms of beef lungs.
+
+47     It was for the plaintiff to decide whether to proceed with the contract after the test at Bangi. The plaintiff had the opportunity to request that the test at Bangi be carried out on 100 kilograms of beef lungs, for the plaintiff to be satisfied that the Cucimax pans could meet its requirements of quantity and quality. The onus was on the plaintiff to satisfy itself at the Bangi test that the pans suited its requirements. The defendant cannot be liable, if the plaintiff failed to avail itself of the opportunity to carry out the necessary test.
+
+## Conclusion
+
+48     In the premises, the plaintiff’s claim was dismissed. Parties were directed to file written submissions on costs, if they are unable to agree on costs.
+
+* * *
+
+[\[note: 1\]](#Ftn_1_1)Statement of claim at \[3\].
+
+[^2]: Statement of claim at \[2\]
+
+[^3]: Statement of claim at \[4\]
+
+[^4]: Affidavit of evidence-in-chief (“AEIC”) of Hasan at 36.
+
+[^5]: Hasan’s AEIC at \[14\].
+
+[^6]: Hasan’s AEIC at 52-53.
+
+[^7]: Hasan’s AEIC at \[10\],
+
+[^8]: Hasan’s AEIC at 58-67.
+
+[^9]: Statement of claim at \[12\].
+
+[^10]: Vendruscolo’s AEIC at 13.
+
+[^11]: Vendruscolo’s AEIC at 13.
+
+[^12]: Hasan’s AEIC at \[22\].
+
+[^13]: Hasan’s AEIC at \[22\].
+
+[^14]: Hasan’s AEIC at \[22\].
+
+[^15]: Hasan’s AEIC at \[28\].
+
+[^16]: Hasan’s AEIC at \[30\].
+
+[^17]: Hasan’s AEIC at 113.
+
+[^18]: Hasan’s AEIC at \[39\].
+
+[^19]: Hasan’s AEIC at \[40\], \[41\].
+
+[^20]: Statement of claim at \[14\], \[15\].
+
+[^21]: Statement of claim at \[18a\].
+
+[^22]: Plaintiff’s closing submissions at \[5.1\].
+
+[^23]: Statement of claim at \[18b\].
+
+[^24]: Defendant’s closing submissions at \[17\].
+
+[^25]: Defence at \[10f\], \[18\].
+
+[^26]: Defence at \[18\].
+
+[^27]: Hasan’s AEIC at 52-53.
+
+[^28]: Kelvin’s AEIC at \[17\].
+
+[^29]: Transcript (18 November 2021) at 62.
+
+[^30]: Vendruscolo’s AEIC at 13.
+
+[^31]: Kelvin’s AEIC at \[17\].
+
+[^32]: Plaintiff’s closing submissions at 18.
+
+[^33]: Hasan’s AEIC at \[30\].
+
+[^34]: Hasan’s AEIC at \[30\].
+
+[^35]: Hasan’s AEIC at \[37\].
+
+[^36]: Hasan’s AEIC at \[22\].
+
+[^37]: Hasan’s AEIC at 36.
+
+[^38]: Hasan’s AEIC at \[30\].
+
+[^39]: Plaintiff’s closing submissions at \[3.7.12\].
+
+[^40]: Plaintiff’s closing submissions at \[3.7.4\].
+
+[^41]: Plaintiff’s closing submissions at \[3.7.4\], \[3.7.5\].
+
+[^42]: Hasan’s AEIC at \[22\].
+
+[^43]: Plaintiff’s closing submissions at \[6.6\].
+
+[^44]: Defence at \[10f\], \[18\].
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F27462-SSP.xml)

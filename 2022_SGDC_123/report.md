@@ -1,0 +1,227 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Govin s/o Narayan Morthy  
+
+### \[2022\] SGDC 123
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">DAC-941080-2018 &amp; Ors, Magistrate's Appeal No. 9074-2022-01</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">31 May 2022</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Chay Yuen Fatt</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">DPP Jane Lim for the Public Prosecutor; Muhammed Riyach Bin Hussain Omar(H C Law Practice) for the Accused</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Govin s/o Narayan Murthy</td></tr></tbody></table>
+
+Criminal Procedure and Sentencing – Sentencing – Disqualification
+
+\[LawNet Editorial Note: An appeal to this decision has been filed in MA 9074/2022/01.\]
+
+31 May 2022
+
+### District Judge Chay Yuen Fatt:
+
+## Introduction
+
+1       The accused, a 33-year-old male Singaporean, pleaded guilty to seven charges (“proceeded charges”). He was represented by counsel when he pleaded guilty. The most serious of the proceeded charges is for an offence under s 144 of the Penal Code for unlawful assembly with dangerous weapon (“s 144 offence”) which additionally carried a liability of enhanced punishment under the Prisons Act. The remaining proceeded charges included several road traffic-related charges. He further admitted and consented to 17 other charges to be taken into consideration (“TIC”) for the purpose of his sentence.
+
+2       He was sentenced in total to 15 months and two 2 weeks' imprisonment and an enhanced sentence of 49 days' imprisonment. He was also fined $3,000 in default two 2 weeks' imprisonment. Finally, he was disqualified from holding or obtaining all classes of driving licences for a period of 48 months with effect from the date of his release from prison (“DQ” or “DQ order”).
+
+3       The accused filed an appeal only against the DQ order.[\[note: 1\]](#Ftn_1) He is presently serving his imprisonment sentence which was backdated to 18 May 2021 which is not the subject-matter of this appeal.
+
+## Charges
+
+4       The seven proceeded charges are as follows:
+
+> a)     One charge of unlawful assembly with dangerous weapon under s 144 of the Penal Code (Cap 224)(“PC”) and read with s 50T(1)(a) of the Prisons Act (Cap 247);
+
+> b)     Two charges of drink driving under s 67(1)(b) read with s 67(2) of the Road Traffic Act (Cap 276)(“RTA”);
+
+> c)     One charge of careless driving under s 65(1)(a) and punishable under s 65(5)(a) RTA which involved a hit-and-run incident;
+
+> d)     One charge of voluntarily causing hurt under s 323 of the PC;
+
+> e)     One charge of criminal breach of trust under s 406 of the PC; and
+
+> f)     One charge of criminal intimidation under s 506 of the PC.
+
+5       He further admitted to 17 other TIC charges which included multiple road traffic-related offences under the RTA. These included another charge of drink driving[\[note: 2\]](#Ftn_2) and one for disorderly driving[^3] involving another instance of hit-and-run.
+
+## Sentence Imposed
+
+6       The accused was sentenced as follows in respect of the proceeded charges:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="29.2858571714343%"><col width="35.3470694138828%"><col width="35.3670734146829%"></colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">Charge No.</p></td><td align="left" class="br" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">Section Convicted Under</p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">Sentence</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">DAC-941080-2018</p></td><td align="left" class="br" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">Section 144 Penal Code (Cap 224, Rev Ed 2008) r/w Section 50T(1)(a) Prisons Act (Cap 247)</p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">Thirteen (13) months'</p><p align="justify" class="Table-Para-1">imprisonment and enhanced sentence of forty-nine (49) days' imprisonment.</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">DAC-915647-2019</p></td><td align="left" class="br" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">Section 67(1)(b) Road Traffic Act (Cap 276) r/w Section 67(2) Road Traffic Act (Cap 276)</p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">Fine of $1,500, in default one (1) week's imprisonment.</p><p align="justify" class="Table-Para-1">Disqualified from holding or obtaining all classes of driving licences for fifteen (15) months with effect from date of release.</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">DAC-908598-2021</p></td><td align="left" class="br" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">Section 323 Penal Code (Cap 224, Rev Ed 2008)</p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">One (1) week's imprisonment.</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">DAC-908624-2021</p></td><td align="left" class="br" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">Section 67(1)(b) Road Traffic Act (Cap 276) r/w Section 67(2)(a) Road Traffic Act (Cap 276)</p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">Two (2) weeks' imprisonment. Disqualified from holding or obtaining all classes of driving licences for forty-eight (48) months with effect from date release.</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">DAC-912483-2021</p></td><td align="left" class="br" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">Section 65(1)(a) Road Traffic Act (Cap 276) p/u Section 65(5)(a) Road Traffic Act (Cap 276)</p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">Fine of $1,500, in default one (1) week's imprisonment. Disqualified from holding or obtaining all classes of driving licences for twelve (12) months with effect from date of release.</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">DAC-912676-2021</p></td><td align="left" class="br" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">Section 406 Penal Code (Cap 224)</p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">One (1) week's imprisonment.</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">MAC-908612-2021</p></td><td align="left" class="br" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">Section 506 Penal Code (Cap 224)</p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">Two (2) months' imprisonment.</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">Further Orders:</p></td><td align="left" class="b" colspan="2" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">Sentences in DAC-908624-2021, DAC-941080-2018 and MAC-908612-2021 to run consecutively.</p><p align="justify" class="Table-Para-1">Sentences in DAC-908598-2021 and DAC-912676-2021 to run concurrently.</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">Total Sentence:</p></td><td align="left" class="b" colspan="2" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">Enhanced sentence of forty-nine (49) days' imprisonment and fifteen (15) months and two (2) weeks' imprisonment with effect from 18-May-2021 and fine of $3,000, in default two (2) weeks' imprisonment. <b>Disqualified from holding or obtaining all classes of driving licences for a period of forty-eight (48) months with effect from date of release.</b></p><p align="justify" class="Table-Para-1">Fine not paid: $3,000, in default two (2) weeks' imprisonment.</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">Remarks:</p></td><td align="left" class="" colspan="2" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">To take into account the remand period but to exclude the period that the accused was serving sentence from 7-26 March 2022 (Prison Memo dated 21 April 2022 refers).</p></td></tr></tbody></table>
+
+  
+  
+
+The sentences pertaining to the DQ order are highlighted in the above table for easy reference.
+
+7       The aggregate imprisonment sentence was ordered to take effect from the date when he was remanded in custody after his last arrest.
+
+## Statement of Facts
+
+8       The accused admitted to the statement of facts (“SOF”) tendered by the prosecution. This was confirmed by his counsel. I propose to set out only the portions of the SOF that are relevant to the three offences which resulted in DQ orders being made. The relevant portions are as set out follows and all references to “Govin” means the accused:
+
+> FACTS RELATING TO THE 5th CHARGE (DAC-915647-2019)
+
+> 20.    On 17 May 2019, at about 5.12am, the police received a call with the text of message “THERE IS A SMALL LORRY ENGINE RUNNING WITHOUT ANY DRIVER”. The incident location given was the junction of Jurong West Avenue 4 by Jalan Bahar, Singapore.
+
+> 21.    Investigations revealed that between 11pm on 16 May 2019 to 3am on 17 May 2019, Govin was with his friends at a void deck somewhere in Jurong West and he had consumed about 5 to 6 cans of Anchor beer. Subsequently, Govin drove the motor vehicle bearing the registration number YM9184D (the “Vehicle”) along Jurong West Avenue 4 towards Jurong West Avenue 2, and he stopped the Vehicle on the 2nd lane from the right of a 5-lane road along Jurong West Avenue 4, near the junction of Jurong West Avenue 4 by Jalan Bahar.
+
+> 22.    On 17 May 2019, at about 5.46am, Staff Sergeant Muhammad Taufiq Bin Mohamed (“SSGT Taufiq”) was dispatched to attend to incident. SSGT Taufiq arrived at the incident location at 6.15pm and observed that the Vehicle was stopped on the 2nd lane from the right of a 5-lane road along Jurong West Avenue 4, near the junction of Jurong West Avenue 4 by Jalan Bahar. SSGT Taufiq also observed that the engine and the headlight of the Vehicle was on.
+
+> 23.    SSGT Taufiq approached the driver door of the Vehicle and observed that Govin was slumped forward and sleeping with his seat belt on. SSGT Taufiq woke Govin up and observed that Govin smelled strongly of alcohol, had blood shot eyes and slurred speech. SSGT Taufiq interviewed Govin and Govin admitted that he had drove the Vehicle.
+
+> 24.    SSGT Taufiq then conducted a breathalyser test on Govin and the result showed fail. Thereafter, Govin was arrested for drink driving and escorted to Traffic Police Divisional Headquarters (“TP HQ”) for a BAD test.
+
+> 25.    The BAD test was conducted by Tommi Chia on the 17 May 2019 at about 8.07am at TP HQ. The BAD test revealed that the proportion of alcohol in Govin’s breath was 48 micrograms of alcohol in 100 millilitres of breath which exceeded the prescribed limit is 35 micrograms of alcohol in 100 millilitres of breath.
+
+> 26.    By virtue of the foregoing, Govin, when driving the Vehicle on a road, did have so much alcohol in his body that the proportion of it in his breath exceeded the prescribed limit. Govin has thereby committed an offence punishable under s 67(1)(_b_) of the RTA.
+
+> 27.    Govin committed this offence while on police bail for earlier offences.
+
+> ….
+
+> FACTS RELATING TO THE 10th CHARGE (DAC-908624-2021)
+
+> 36.    On 28 November 2020, at 2.13am, the police received a call with the text of message “OP12 APO officers informed dispute between 2 drivers”. The incident location given was Tuas Checkpoint, located at 501 Jalan Ahmad Ibrahim, Singapore.
+
+> 37.    Investigations revealed that, on 27 November 2020, at about 10pm, Govin was at Ayer Rajah food court with his 3 sisters and had drank about 1 or 2 cans of Anchor beer. On 28 November 2020, at about 1am, Govin bought some Anchor beer and Carlsberg beer at a nearby provision shop and sat in his motor lorry bearing the vehicle registration number YP3566J (“Motor Lorry”). Thereat, Govin consumed about 8 cans of beer. Govin’s 3 sisters then boarded the Motor Lorry and Govin drove them home.
+
+> 38.    On the way to their home, when he was travelling along Ayer Rajah Expressway towards Tuas, there was another vehicle which overtook Govin’s Motor Lorry. Angered by this, Govin followed the said vehicle all the way to Tuas Checkpoint. When the driver of the said vehicle stopped at Tuas Checkpoint, Govin approached the driver and asked why he shouted at him. Subsequently, the police were called in.
+
+> 39.    A police officer interviewed Govin and asked if he had consumed any alcohol. Govin admitted that he had consumed alcohol and drove. The police officer then conducted a breathalyser test on Govin and the result showed fail. Govin was then escorted to an office at Tuas Checkpoint to conduct the BAD test.
+
+> 40.    The BAD test revealed that the proportion of alcohol in Govin’s breath was 144 micrograms of alcohol in 100 millilitres of breath which exceeded the prescribed limit of 35 micrograms of alcohol in 100 millilitres of breath.
+
+> 41.    By virtue of the foregoing, Govin, when driving the Motor Lorry on a road, did have so much alcohol in his body that the proportion of it in his breath exceeded the prescribed limit. Govin has thereby committed an offence punishable under s 67(1)(b) of the RTA.
+
+> 42.    Govin committed this offence while on court bail for earlier offences.
+
+> FACTS RELATING TO THE 14th CHARGE (DAC-912483-2021)
+
+> 43.    At the material time Govin was the driver of motor vehicle bearing registration number YN5604E (the “Motor Vehicle”).
+
+> 44.    The victim is Lee Chee Hua (“LCH”), 57-year-old male Singaporean. At the material time, he was the owner of the motor car bearing the vehicle registration number SLT7350X (the “Motor Car”).
+
+> 45.    The witness is Le Lui Kwang (“LLK”), a 59-year-old male Singaporean.
+
+> 46.    On 1 March 2021, at or about 11.28 am, the police received a call with text of message “I THINK THERE WAS A HIT AND RUN. THE CAR BUMPER AND DEBRIS ALL ON THE ROAD. THE PEOPLE HERE SAY IT WAS A TRUCK. HIT AND DROVE OFF”. The incident location given was the open space carpark next to Block 175 Boon Lay Drive, Singapore (the “Carpark”).
+
+> 47.    Investigation revealed that on 1 March 2021, at or about 11.28am, Govin was the driver of the Motor Vehicle which was parked in a lot in the Carpark. On the left of the Motor Vehicle was the Motor Car which was parked in a lot. Govin started driving the Motor vehicle out of the said lot and turned left to exit the Carpark. However, Govin failed to keep a proper lookout whilst turning left from the parking lot and resulted in a collision between the Motor Vehicle and the right front portion of Motor Car. After the collision, Govin did not stop the Motor Vehicle or tell anyone about the accident. He simply drove out of the Carpark. Fortunately, there was nobody in the Motor Car.
+
+> 48.    The damage to the Motor Car can be seen from the picture below:
+
+> 49.    At the material time, LLK, who was having his coffee and sitting along the level 1 corridor of Blk 175 Boon Lay Drive, Singapore, witnessed that the Motor Vehicle has collided into the Motor Car.
+
+> 50.    The vehicle damage report showed that the front bumper of the Motor Car was ripped off and the right front wheel of the Motor Car was slightly twisted.
+
+> 51.    The cost for the repair of the Motor Car amounted to $14,812.87. The bill for the said cost of repair is annexed herein as “Annex B”.
+
+> 52.    At the time of accident, the weather was fine, and the road surface was dry. Traffic flow was light, and visibility was clear.
+
+> 53.    By virtue of the foregoing, Govin, did drive the Motor Vehicle, without due care and attention, by failing to keep a proper lookout whilst turning left from a parking lot and resulting in a collision between the Motor Vehicle and the right front portion of Motor Car. Govin has thereby committed an offence under s 65(1)(a) punishable under s 65(5)(a) of the RTA.
+
+> 54.    Govin committed this offence while on court bail for earlier offences.
+
+## Criminal Antecedents
+
+9       The accused has a number of prior convictions including convictions for road traffic-related offences. However, the prosecution did not emphasise or rely on any of these convictions in support of its submission on sentence in respect of the DQ order to be made. Therefore, I did not consider the accused’s previous convictions in deciding on the appropriate DQ order to be imposed.
+
+## Sentencing Considerations
+
+10     I set out the sentencing parties’ sentencing positions and the court’s sentencing considerations in respect of the issue of DQ pertaining to the three charges in question.
+
+11     At the outset, I should point out that counsel for the accused did not disagree with the prosecution’s sentencing position except that he asked for a shorter imprisonment sentence only in respect the s 144 offence. More importantly, he did not make any submissions in respect of the length of the disqualification to be ordered against the accused.
+
+12     The accused also filed an additional 4-page written mitigation to supplement counsel’s oral mitigation. Much of it pertains to the s 144 offence and to a small degree, the offence of criminal breach of trust. He expressed his remorse and vowed to do better for himself and his family. As regards the DQ to be imposed for the drink driving offences and other RTA offences, he simply asked for the shortest possible period of DQ. He informed that driving was his passion and he also alluded that any DQ would affect his job. He further asked for the DQ order to take effect one week after his release from prison because he needed the time to settle some matters relating to his car.
+
+#### Disqualification in General
+
+13     Sundaresh Menon CJ (“Menon CJ”) held in _Edwin s/o Suse Nathen v Public Prosecutor_ <span class="citation">\[2013\] 4 SLR 1139</span> (“_Edwin Suse Nathen_”) at \[13\] – \[14\] that:
+
+> 13    … A disqualification order combines three sentencing objectives: punishment, protection of the public and deterrence (see Peter Wallis gen ed, _Wilkinson’s Road Traffic Offences_ (Sweet & Maxwell, 20th Ed, 2001) at para 4.412; Kow Keng Siong, _Sentencing Principles in Singapore_ (Academy Publishing, 2009) at paras 32.150–32.159 …
+
+> 14    Where an offence reflects a blatant disregard for the safety of other road users and a lack of personal responsibility, there is a public interest in taking such a driver off the roads for a substantial period of time. The aims of deterrence are also served by sounding a stiff warning that such drivers can expect a lengthy disqualification order. The disqualification order should therefore increase in tandem with the severity of the offence, whether or not it is also accompanied by a substantial fine or period of imprisonment.
+
+14     In the case of many other RTA offences or offences under other written law in connection with the driving of a motor vehicle, a DQ order is discretionary as provided under s 42(1) of the RTA. In contrast, Parliament has deemed it necessary to legislate for drink driving offences to carry a mandatory DQ for a minimum period. Such is the gravity of drink driving offences and the potential for drink drivers to cause serious and even fatal harm.
+
+15      _Edwin Suse Nathen_ was decided in 2013 and it concerned a first offence under s 67(1)(b) of the RTA, which then carried mandatory DQ for a minimum period of 12 months. Thereafter, the RTA was broadly amended in 2019 to enhance criminal penalties and tighten the regulatory regime to deter irresponsible driving (“the 2019 amendments”). The 2019 amendments were made by virtue of the Road Traffic (Amendment) Act 2019 (Act 19 of 2019) which, _inter alia_, increased the prescribed punishment for the offence of drink driving and, more pertinent to the present appeal, increased the minimum DQ periods to be imposed for drink driving offences.
+
+16     The legislative intent as well as the relevant parliamentary speeches are comprehensively set out by Menon CJ in _Wu Zhi Yong v Public Prosecutor_ <span class="citation">\[2021\] SGHC 261</span> (“_Wu Zhi Yong_”) at \[12\]. In particular, the doubling of the prescribed punishment and DQ periods in respect of drink driving offences is noted by Menon CJ at \[50\]. I noted that in _Wu Zhi Yong_, the alcohol level in respect of the that offender’s drink driving charge under s 67(1)(b) of the RTA was 46 micrograms of alcohol per 100ml of breath. However, he was also charged, in conjunction with the drink driving offence, with one count of reckless driving under s 64(1) and was punishable in respect of the reckless driving offence as a “serious offender” under the enhanced punishment provisions of the RTA. The offender in _Wu Zhi Yong_ pleaded guilty to both charges and was sentenced, in respect of each charge, to 17 days' imprisonment with a DQ order for a period of 42 months, which sentences were upheld on appeal by Menon CJ.
+
+#### 1st Drink Driving Offence
+
+17     The present accused committed the first drink driving offence on 17 May 2019 which pre-dated the 2019 amendments. The applicable sentencing matrix for drink driving prior to the 2019 amendments was laid down in _Edwin Suse Nathen_ at \[22\]. The level of alcohol in the accused’s body was 48ug per 100ml of breath which situates the case squarely and centrally within Band 1 of the sentencing matrix in _Edwin s/o Suse Nathen_:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="33.9667933586717%"><col width="30.1860372074415%"><col width="35.8471694338868%"></colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Level of alcohol (μg per 100 ml of breath)</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Range of fines</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Range of Disqualification</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="center" class="Table-Para-1">35 – 54</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="center" class="Table-Para-1">$1,000 – $2,000</p></td><td align="left" class="" rowspan="1" valign="top"><p align="center" class="Table-Para-1">12 – 18 months</p></td></tr></tbody></table>
+
+  
+  
+
+18     I therefore agree with the prosecution’s submission for a fine of at least $1,500 and a DQ period of at least 15 months and imposed the said fine and DQ accordingly. The prosecution also rightly pointed out that the accused had caused an obstruction to traffic by stopping his lorry on the second lane of a 5-lane road just before a junction. This amounted to an offence under the Road Traffic Rules which formed the subject-matter of one of the TIC charges.[\[note: 4\]](#Ftn_4) In addition, the drink driving offence was committed whilst the accused was on bail for his other offences. The DQ imposed did not materially factor in these additional aggravating factors.
+
+19     Further and as indicated earlier, counsel made no submissions in respect of this charge. He was quite prepared to accept the prosecution’s sentencing position for this offence.
+
+20     I would also point out that 15-month DQ imposed in respect of this drink driving charge runs concurrently with and would hence be masked by the longer DQ imposed in respect of the second drink driving offence which I will now come to.
+
+#### 2nd Drink Driving Offence
+
+21     The second drink driving offence was committed on 28 November 2020 i.e. after the 2019 amendments to the RTA. The level of alcohol for this offence was very much higher at 144μg per 100ml of the accused’s breath. This would have put the case within Band 4 (highest band) of the sentencing matrix set out in _Edwin Suse Nathen_ had the offence been committed prior to the 2019 RTA amendments:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="33.9667933586717%"><col width="30.1860372074415%"><col width="35.8471694338868%"></colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Level of alcohol (μg per 100 ml of breath)</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Range of fines</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1">Range of Disqualification</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="center" class="Table-Para-1">≥ 90</p><p align="center" class="Table-Para-1">&nbsp;</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="center" class="Table-Para-1">&gt; $ 4,000</p></td><td align="left" class="" rowspan="1" valign="top"><p align="center" class="Table-Para-1">36 – 48 months (or longer)</p></td></tr></tbody></table>
+
+  
+  
+
+The prosecution relied on this sentencing band and scaled its proposed sentence and period of DQ upwards in light of and to give effect to the enhanced prescribed sentence and DQ period introduced by the 2019 amendments.
+
+22     However, the more appropriate framework for sentencing an offence for drink driving post 2019 amendments was recently reformulated in _Rafael Voltaire Alzate v Public Prosecutor_ <span class="citation">\[2021\] SGHC 224</span> ("_Rafael Voltaire Alzate_") at \[31\] and re-endorsed in _Wu Zhi Yong_ at \[36\] and \[50\] as follows:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="33.6467293458692%"><col width="35.5471094218844%"><col width="30.8061612322465%"></colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Level of alcohol (μg</p><p align="justify" class="Table-Para-1">per 100ml of breath)</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Range of fines</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Range of Disqualification</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">36-54</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">$2,000-$4,000</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">24-30 months</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">55-69</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">$4,000-$6,000</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">30-36 months</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">70-89</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">$6,000-$8,000</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">36-48 months</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">≥ 90</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">$8,000-$10,000</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">48-60 months (or longer)</p></td></tr></tbody></table>
+
+  
+  
+
+23     As may be seen from the framework in _Rafael Voltaire Alzate_, the appropriate period of DQ corresponding to an alcohol level of 144μg per 100ml of breath would start from 48 months.
+
+24     The prosecution also highlighted the aggravating circumstances surrounding the second drink driving offence. The SOF stated that the accused had consumed eight cans of beer before driving off in his lorry with his three sisters in the vehicle. The very high alcohol in breath level reflects the large amount of beer consumed. The accused was unhappy when another car overtook his car and he pursued the said car along the expressway all the way to the Tuas Checkpoint to confront the other driver. By so doing, he endangered the safety of his passengers and other road users. Further, it was particularly aggravating in that he committed the second drink driving offence while he was on bail for the first drink driving offence.
+
+25     I considered prosecution’s submission that in a case where two charges of drink- driving are prosecuted at the same hearing, while a custodial sentence is not mandatory, such cases are more aggravated than even those involving a single drink driving charge with enhanced sentence. Therefore, a custodial sentence may be appropriate: _Pua Hung Jaan Jeffrey Nguyen v Public Prosecutor_ <span class="citation">\[2017\] 5 SLR 1120</span> at \[46\] and \[61\]. I also considered that the accused committed a third similar offence on 6 March 2018 for being in charge of a vehicle while intoxicated, which is the subject-matter of one of the TIC charges.[^5]
+
+26     Although the framework in _Rafael Voltaire Alzate_ points to only a fine even for a case falling with the most egregious band, Menon CJ explained in _Wu Zhi Yong_ at \[54\] that this framework merely provides a _neutral starting point_ relative to the level of alcohol present in the offender's blood/breath. At that point, regard will not yet have been had to any aggravating or mitigating circumstances and the former may well result in the custodial threshold being crossed in a given case. Having regard to the aggravating circumstances in the present case, I therefore agree with the prosecution that a custodial sentence should be imposed in respect of this second drink driving offence and accordingly, I imposed a jail sentence of two weeks.
+
+27     With regards to DQ, the prosecution sought an uplift to the period of DQ which would otherwise have been indicated in Band 4 of the _Edwin Suse Nathen_ framework. In effect, the prosecution submitted for a DQ period of 54 months instead of the range of 36-48 months under Band 4. However, as I have stated above, the framework in Rafael Voltaire Alzate is the applicable framework and the appropriate period of DQ corresponding to an alcohol level of 144μg per 100ml of breath starts from 48 months. Therefore, the prosecution’s proposed sentence is consistent with the reformulated framework.
+
+28     In respect of the accused’s second drink driving charge, I was of the view that a DQ period of 48 months would be sufficient punishment and I made the DQ order accordingly. The present accused is not a repeat offender in the strictest sense that he has no prior conviction for drink driving offences. As such, I felt that a DQ period of 54 months (proposed by the prosecution) would be too close to the mandatory minimum DQ period of five years for a repeat offender subject to the post-2019 enhanced punishments. Quite apart from the DQ duration as indicated by the sentencing framework, the accused cannot be treated as a first offender and deserving of the minimum 2-year DQ period for the simple reason that he has driven or gotten behind the wheel of a vehicle while intoxicated at least three times between 2018 and 2020, not to mention the plethora of other road-traffic related offences which he also committed. Therefore, he cannot be put on the same footing as an offender who is facing only a single charge.
+
+29     I again noted that counsel for the accused made no submissions in respect of this offence. Counsel did not disagree with the sentencing position of the prosecution in respect of this charge.
+
+#### Careless Driving Offence
+
+30     Finally, the prosecution did not make any submissions on the appropriate sentence in respect of the offence of careless driving. The prosecution did not object to a fine and left it to court’s discretion as to the quantum of fine and the duration of the DQ to be ordered against the accused. Nonetheless, the prosecution highlighted the cost of repairs and the fact that it was a hit-and-run incident. Furthermore, the accused committed the said offence while on bail for his other charges. For this offence of careless driving, I fined the accused $1500 and ordered a DQ for a period of 12 months.
+
+31     In _Wu Zhi Yong_, the court set out at \[36\] a list of offence-specific factors for an offence under s 64(1) of the RTA which should apply equally to the present offence under s 65(1) of the RTA. The factors which would be relevant to the present case would include potential harm, serious property damage and that the offender’s conduct in driving off after the collision to avoid detection.
+
+32     I also considered that in _Neo Chuan Sheng v Public Prosecutor_ <span class="citation">\[2020\] SGHC 97</span> which concerned an offence of dangerous driving under s 64(1) of the RTA which was committed prior to the 2019 amendments, Chua J considered another High Court decision in _Public Prosecutor v Koh Thiam Huat_ <span class="citation">\[2017\] 4 SLR 1099</span> (which also involved a charge of dangerous driving under s 64(1) of the RTA) and accepted at \[20\] that the two principal parameters which a sentencing court would generally have regard to in evaluating the seriousness of a crime are (a) the harm caused by the offence, and (b) the accused’s culpability. Chua J considered at \[46\] lower court precedents on DQ orders made in respect of s 64(1) RTA cases irrespective of the fines imposed. Chua J then observed at \[47\] that DQ orders of at least 12 months were generally made in cases in which the levels of both harm and culpability were at least medium. Chua J added that the precedents show that the 12-month threshold would generally not be crossed unless the levels of both harm and culpability are at least medium. Notwithstanding that Chua J’s observations were made in relation to a more serious offence of dangerous driving, I was of the view that the guiding parameters of harm and culpability are equally relevant in the context of the present offence of careless driving. In the present case, I considered that the harm/damage caused and the accused’s culpability were medium and therefore, a 12 month DQ would not be inappropriate.
+
+33     Counsel for the accused in the present case again made no submissions in respect of this offence of careless driving and was quite willing to accept the prosecution’s sentencing position for this charge. Further, I also make the point that the DQ imposed for this charge would run concurrently with and is therefore subsumed within the much longer period of DQ ordered for the second drink driving offence.
+
+#### Effective Date of DQ
+
+34     I ordered all the periods of DQ to take effect from the date of the accused’s release from prison. I did find that there were any special reason for the court to exercise a discretion to delay the effective date of the DQ as requested by the accused. This is especially so for the DQ period imposed for the second drink driving offence under s 67(2) of the RTA which expressly provides that the DQ period is to start on the date of conviction or “_where the person is sentenced to imprisonment, on the date of the person’s release from prison_.” On the contrary, given the accused’s egregious conduct, pattern of re-offending and overall culpability, there was every reason not to accede to the accused’s request.
+
+## Conclusion
+
+35     In total, the DQ order against the accused was for 48 months. Since the accused was also sentenced to a jail term which was not short, the DQ was ordered to take effect from the date of his release from prison. Given the numerous road-traffic related charges and the successive drink driving offences that were committed by the accused while he was on bail no less, there was a clear public interest in taking the accused off the roads for a long period of time to protect the public. A significant DQ order was also necessary as a specific deterrent to the accused and a general deterrent to other like-minded drivers.
+
+36     In the circumstances, the DQ period that was ordered was justified and commensurate with his overall culpability and the circumstances of the case.
+
+* * *
+
+[\[note: 1\]](#Ftn_1_1)Notice of Appeal dated 22 April 2022.
+
+[^2]: DAC-932587-2018.
+
+[^3]: DAC-910345-2021.
+
+[^4]: DAC-915648-2019.
+
+[^5]: DAC-932587-2018.
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F27605-SSP.xml)

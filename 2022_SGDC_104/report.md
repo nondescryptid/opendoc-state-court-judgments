@@ -1,0 +1,194 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Lim Hock Lai  
+
+### \[2022\] SGDC 104
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">TP 216040761211-1, Magistrate's Appeal No. 9069/2022/01</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">20 May 2022</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Janet Wang Lan Jee</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Andrew Chia (Attorney-General's Chambers) for the Prosecution; Accused in person</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Lim Hock Lai</td></tr></tbody></table>
+
+Criminal Procedure and Sentencing – Road Traffic Act, Chapter 276 – Driving without reasonable consideration for other persons using the road under Section 65(1)(b) Road Traffic Act, Chapter 276 – Disqualification
+
+\[LawNet Editorial Note: An appeal to this decision has been filed in MA 9069/2022/01.\]
+
+20 May 2022
+
+### District Judge Janet Wang Lan Jee:
+
+## Introduction
+
+1       The Accused, a 66-year old male Singaporean, claimed trial to one charge of driving without reasonable consideration for other road users. The proceeded charge was as set out :
+
+> You…are charged that you, on 28 January 2021, at or about 5.25 pm, at the signalised cross junction of Aljunied Road and Sims Drive, Singapore, did drive a motor car bearing registration number SLP3786U on a road without reasonable consideration for other persons using the road, to wit, by proceeding straight on a right-turn only lane at the said cross junction towards the direction of Upper Aljunied Road, and you have thereby committed an offence under Section 65(1) (b) of the Road Traffic Act, Chapter 276, punishable under Section 65(5)(a) of the Road Traffic Act, Chapter 276.
+
+2       The Accused conducted his own case. At the conclusion of the trial, I found him guilty and convicted him on the charge. I imposed a sentence of a fine of $900 (in default 3 days’ imprisonment) and a disqualification from holding or obtaining all classes of driving licences for a period of one month.
+
+3       Against the disqualification order, the Accused filed the present appeal.
+
+## Background
+
+### Parties’ cases at trial
+
+4       It was the Prosecution’s case that the Accused was driving a black Mazda car along Aljunied Road towards the direction of Upper Aljunied Road at the material time.Aljunied Road was a five-lane road. The first three lanes were straight going, while the fourth and fifth lanes were meant for right turning vehicles only. The Accused’s vehicle was in the extreme right-turn only lane. He stopped at the signalised cross junction of Aljunied and Sims Drive, as right turn arrow was red. The Accused signalled left and proceeded to filter left, while cutting across the junction in front of the vehicle in the adjacent lane belonging to PW1 Chung Wei An Alvis (“Chung”). At this juncture, PW1 Chung testified that he sounded his horn to warn the Accused to warn him of the oncoming cars, namely, a white Mini Cooper car that was approaching the junction.[\[note: 1\]](#Ftn_1) Another vehicle on the left of PW1 Chung’s vehicle also sounded the horn almost concurrently.[^2]
+
+5       The Accused continued to drive straight into the cross junction, while attempting to filter left into the third straight going lane. The white Mini Cooper car travelling in that lane had to move towards its left to avoid the Accused’s vehicle. The Accused’s actions were captured by the in-car camera of PW1 Chung’s vehicle. Pursuant to the incident, PW1 Chung lodged a report on the Singapore Police Force online portal and submitted the video footage of the incident, Exhibit P1.
+
+6       The Accused’s defence was that he had not violated any traffic rules.[\[note: 3\]](#Ftn_3) Notably, the facts were largely not in dispute. The Accused did not dispute that he had filtered from the extreme right-turning lane (5th lane) to the third lane, which was straight-going[^4]. According to the Accused, he had stopped at the right-turn only lane before he considered changing lane to the left, in order to proceed straight towards his job assignment. It was his evidence that he had properly signalled his intent to turn left and go straight to PW1 Chung, whose vehicle was to his left, and had stopped momentarily in front of the latter’s vehicle. The Accused stated that he carefully filtered left and proceeded straight when the coast was clear. The Accused added that he carefully manoeuvered to go left in order to proceed straight. The traffic light for straight-going vehicles was then showing green, with a red-light arrow next to it. According to the Accused, no car was approaching from the left during the 6th\- 7th second frame of the video footage, Exhibit P1. It was only after the 7th second, that the white Mini Cooper came fast on the left. The Accused testified that the white Mini Cooper car on the left was travelling faster than his car, and he had slowed down his vehicle to allow the white Mini Cooper car to pass straight on the 3rd lane. It was the Accused’s position that he did not cause the white Mini Cooper car to swerve as he had neither encroached nor caused any inconvenience.
+
+## Summary of Court’s findings [^5]
+
+7       In convicting the Accused on the charge, I found the evidence presented to be incontrovertible. As a vehicle on the extreme right-turn only lane, the Accused was unable to proceed straight as he must obey the direction indicated by the arrow marked in the lane.[\[note: 6\]](#Ftn_6) He was not permitted to change lane in the middle of the cross junction abruptly and cause inconvenience or danger to other road users. This was evident from the layout of the designated lanes as seen from the photographs of the said roads and the intersecting junction[^7], as well as the sketch plan.[^8] The lanes with the designated arrows were specifically intended for vehicles travelling straight and turning right only. The trajectory of the turning lanes into the junction prohibited any right turning vehicles from switching to the straight going lanes. Similarly, the trajectory of the straight going lanes was not intended for any filtering of vehicles from the extreme right turning lanes. The demarcation of the traffic lanes clearly ruled out any changing of lanes by vehicles.
+
+8       The Accused, whose vehicle was on the extreme right-turn lane only, had effectively cut across the adjacent right-turn lane (4th lane from the left) and proceeded into the junction, with a view to switching to the 3rd lane for straight travelling vehicles only. Such a manoeuvre posed a considerable degree of risk to the safety of the Accused as well as other road users, given the oncoming traffic on the three straight travelling lanes.
+
+9       By his admission, the Accused did not follow the direction of the right-turn only lane which his vehicle was on.[\[note: 9\]](#Ftn_9) He knew that he was not allowed to travel straight from the extreme right-turn lane. He admitted having proceeded straight across the right-turn lane towards the left lane.[^10] It was thus a deliberate act on the part of the Accused when he cut across the lanes into the junction on the red right-turn arrow, and in his own words, when ‘the coast was clear’, to filter into the straight going lane.[^11] Given his driving experience of over 30 years, the Accused was fully aware that this was prohibited. The Accused’s actions in turn caused other road users to sound their horns immediately. The independent and contemporaneous evidence of the video footage, Exhibit P1 further lent weight to the evasive action taken by the white Mini Cooper car travelling straight in the lane. It was observed to have moved towards its left to avoid the Accused’s vehicle. I found the Accused’s contention that he had slowed down to give way to the fast-moving white Mini Cooper to be misplaced. Pertinently, the Accused’s vehicle should not have been in that location at the outset. I agreed with the Prosecution that the road users travelling straight would not have reasonably anticipated the sudden appearance of a vehicle attempting to filter into their lane from the extreme right. The situation of vehicles with the right of way and giving way to vehicles filtering from the right did not arise in the present case. The Accused had evidently driven without reasonable consideration for other road users.
+
+## Antecedents
+
+10     The Accused had similar antecedents involving traffic offences relating to speeding and stopping in a zebra-controlled area, which were compounded[\[note: 12\]](#Ftn_12)
+
+## Prosecution’s submissions on sentence
+
+11     The Prosecution sought a fine of at least $1000, and a disqualification order, the length of which to be determined by the court[\[note: 13\]](#Ftn_13). In support of the sentence, the Prosecution cited the case of _PP v Simon Tan Yew Chong_ <span class="citation">\[2019\] SGDC 73</span> (“ _Simon Tan_ ”) , where the offender was sentenced to a fine of $800 upon his conviction after trial for a similar offence on a charge under Section 65(b) of the Road Traffic Act (pre-2019 Road Traffic Act amendments). In that case, the offender was performing a legal U-turn and failed to give way to other road users who had the right of way. He had cut into the path of another vehicle, which resulted in the driver of that vehicle honking and taking evasive action by braking to avoid colliding with the offender’s van.[^14] In seeking an uplift in the fine to be imposed, the Prosecution submitted that the present facts were more aggravating than those in _Simon Tan_, as the Accused had performed an illegal manoeuvre by moving his vehicle in a direction from a location which other road users would not have reasonably anticipated. In addition, the Prosecution highlighted that the enhanced punishment provided for an offence under section 65(1)(b) of the Road Traffic Act, namely, section 65(5)(a) of the Road Traffic Act, warranted an increase in the sentence to be imposed.[^15] The Prosecution submitted that a disqualification order was warranted to ensure the safety of other road users, and that the Accused learnt his lesson.[^16] In support of a disqualification order, the Prosecution highlighted the driving history of the Accused, which it described as chequered with 17 demerit points at the material time of the present offence. According to the Prosecution, the demerit points were awarded for the traffic offences which were committed within a short period of time from 2 August 2020 to 26 February 2021.[^17] These traffic offences were compounded. It was the Prosecution’s contention that the Accused had not shown remorse for his actions, given his position at trial and his conduct in rejecting multiple offers of composition for the present offence. The Prosecution argued that specific deterrence was necessary to prevent the Accused from re-offending as he had failed to recognise that his behaviour was illegal and that he had inconvenienced other road users by his driving.[^18]
+
+## Plea in mitigation
+
+12     The Accused sought a low fine and urged the court not to order suspension of his driving licence as he needed to drive daily as a means of support for him and his aged mother, with whom he was living.[\[note: 19\]](#Ftn_19) The Accused was a full-time Grab driver for over a year at the material time. He earned a daily amount ranging from $80 to $100. He had some debts to repay. The Accused asserted that he had executed a careful manoeuvre, which did not result in any collision or cause inconvenience.[^20]
+
+## Reasons for the Disqualification Order
+
+### Punishment prescribed by law
+
+13     The prescribed punishment for an offence of driving without reasonable consideration for other road users under Section 65(1)(b) of the Road Traffic Act is a fine not exceeding $1,500 or to imprisonment for a term not exceeding six months or to both. In addition, the court may impose a disqualification order under section 42(1) of the Road Traffic Act, which provides that where an offender is convicted of an offence under the Road Traffic Act, “_the court may, in addition to imposing on the offender the punishment provided for such offence, make an order disqualifying the offender from holding or obtaining a driving licence for life or for such period as the court may think fit_”. A disqualification order is discretionary in respect of a conviction under section 65(1)(b) of the Road Traffic Act.
+
+### Whether a disqualification order should be imposed
+
+14     Disqualification serves as an effective deterrent against offenders convicted under the Road Traffic Act or any other written law in connection with the driving of a motor vehicle.[\[note: 21\]](#Ftn_21) The case of _Edwin s/o Suse Nathen v PP_ <span class="citation">\[2013\] 4 SLR 1139</span> (“_Edwin Nathen_”) is instructive in setting out the three sentencing objectives of punishment, protection of the public and deterrence, the combination of which undergirds the making of a disqualification order[^22]. The learned Chief Justice Sundaresh Menon noted at \[14\] that :
+
+> Where an offence reflects a blatant disregard for the safety of other road users and a lack of personal responsibility, there is a public interest in taking such a driver off the roads for a substantial period of time. The aims of deterrence are also served by sounding a stiff warning that such drivers can expect a lengthy disqualification order. The disqualification order should therefore increase in tandem with the severity of the offence, whether or not it is also accompanied by a substantial fine or period of imprisonment.
+
+While _Edwin Nathen_ involved a case of drink-driving under section 67(1)(a) of the Road Traffic Act which carries mandatory disqualification, these sentencing objectives are equally relevant in determining whether the court should exercise its discretion to impose a disqualification order under section 42(1) of the Road Traffic Act, as well as the length of such an order - see _Neo Chuang Sheng v PP_ <span class="citation">\[2020\] SGHC 97</span> at \[17\].
+
+15     Similarly, in _PP v Chiam Liang Kee_ <span class="citation">\[1960\] MLJ 163</span>, the court observed that while the statute in question did not involve automatic disqualification, it recognised disqualification as “… _a power which Magistrates might usefully employ more frequently, since it is disqualification which the motorist fears rather than a fine. Disqualification serves a double purpose, in that it is firstly, the punishment most feared by the motorist and therefore the most effective deterrent, and, secondly, it keeps the careless or dangerous driver off the road for a period and does that practical amount of good"._
+
+16     I agreed with the Prosecution that general deterrence is the primary sentencing consideration in the present case. In _PP v Law Aik Meng_ \[2007\] 2 SLR (R) 814 at \[24\] - \[25\], a list of non-exhaustive factors were identified to attract the sentencing principle of general deterrence. The following relevant factors are:
+
+> (a)     the offence affects public safety;
+
+> (b)     the offence leads to public disquiet; and
+
+> (c)     the offence is difficult to detect and/or the offender is difficult to apprehend.
+
+These factors were demonstrably present. The manner of the Accused’s driving, namely, in blatant disregard of the traffic rules and the safety of other road users had caused considerable public disquiet. As a public road user, PW1 Chung, was concerned at what he perceived to be a dangerous act when the Accused cut across the junction from the extreme right-turning lane only, and sounded his horn to warn the latter of the oncoming traffic.[\[note: 23\]](#Ftn_23) Apart from PW1 Chung, another road user honked at the Accused. Public indignation generated by the Accused’s act of irresponsible driving found expression in the sounding of vehicular horns by the road users. PW1 Chung was galvanised into further action of submitting feedback of the incident to the police website with supporting evidence of an objective nature, namely, the video footage from his in-car camera, Exhibit P1, which captured the incident. Given the high vehicular volume plying the cross-junction at the material time, there was a heightened risk of potential danger to the personal safety of other road users. There was a public interest in protection of other road users in keeping the Accused off the roads for a period of time. In the absence of such contemporaneous evidence as the in-car camera video footage, Exhibit P1, it would have been challenging to detect the offence and apprehend the Accused.
+
+### The appropriate period of disqualification
+
+17     Having determined that a disqualification order was necessary as a deterrent to the Accused and other like-minded drivers, I next considered the length of disqualification. I was mindful that the disqualification order should increase in tandem with the severity of the offence, regardless of whether a substantial fine or imprisonment term was imposed, given that the disqualification order and the fine imposed, as in the present case, are not mutually compensatory - see _Edwin Nathen_ at \[13\]- \[14\] .
+
+18     In evaluating the severity of the offence, I considered two principal parameters, namely, (a) the harm caused by the offence, and (b) the Accused’s culpability. In this regard, ‘harm’ is the measure of the injury and the extent of the damage which has been caused to society by the commission of the offence, while ‘culpability’ is a measure of the degree of relative blameworthiness disclosed by an offender’s actions and is measured chiefly in relation to the extent and manner of the offender’s involvement in the criminal act - see _PP v Koh Thiam Huat_ <span class="citation">\[2017\] 4 SLR 1099</span> at \[41\].
+
+19     On the degree of harm, it was fortuitous that no accident involving personal injury and property damage occurred. While there was no or negligible actual harm, the Accused’s actions created a potential for significant harm. Having regard to the high vehicular traffic at the material time, the prospect of actual harm was not insignificant as there was a real likelihood of the risk manifesting in an accident from the Accused’s deliberate manoeuvre. The level of potential harm that could have occasioned by the Accused’s act of inconsiderate driving was high. In my view, deterrence would be served with a short disqualification period to minimise the risks to the society by discouraging irresponsible conduct which endangers public safety, even if no actual harm materialised.
+
+20     The Accused’s culpability must be assessed in the light of the extent of and manner of his involvement in the criminal act- see _Koh Thiam Huat_ at \[41\]. This would generally include the manner of driving, the circumstances of driving which might have increased the danger to road users during the incident, as well as the offender’s reasons for driving- see _PP v Aw Tai Hock_ <span class="citation">\[2017\] 5 SLR 1141</span> at \[37\]-\[40\].
+
+21     On the manner of driving, the Accused had failed to comply with the traffic direction as indicated on his right-turn only lane when he proceeded straight across the signalised cross junction. This was clearly in breach of the traffic rules, namely, Rule 55 and Rule 57 of the Highway Code (Cap 276, R 11). These rules provide as follows:
+
+> 55    You must obey the directions indicated by arrows or words marked in the lanes…You must not change lanes so suddenly as to inconvenience or endanger other traffic. Signal early before changing lanes and plan your route well.
+
+> 57    Well before you reach a junction, make sure that you are in the appropriate lane.
+
+As an experienced driver of over 30 years, the Accused was highly advertent to the potential risk of danger to the safety of other road users when he cut across two lanes in the junction in his attempt to filter into the straight-going lane. The Accused’s deliberate manoeuvre clearly took the other road users by surprise, as was evident from the sounding of vehicular horns in response to his act of inconsiderate driving as a cautionary measure. The Accused sought to downplay the illegality of his actions by asserting that he had properly signalled his intent to go straight before proceeding to filter carefully across the junction and giving way to the straight travelling white Mini Cooper car by slowing down. Given that the Accused should not have ventured straight beyond the extreme right-turn only lane from the outset, road users who were travelling straight, like the driver of the white Mini Cooper car, would not have reasonably anticipated the sudden appearance of the Accused’s vehicle attempting to filter into their straight-going lane from the extreme right.
+
+22     I next considered the circumstances surrounding the incident. The Accused was a private hire driver with Grab. By his admission, he had changed his intent to go straight from the extreme right-turn only lane due to a job assignment which required him to go straight.[\[note: 24\]](#Ftn_24) As a seasoned driver, the Accused knew that he was prohibited from going straight as his vehicle was in the extreme right-turn only lane. Yet, notwithstanding the prohibition, the Accused proceeded to execute the manoeuvre abruptly for the job. His actions in turn caused considerable inconvenience to the other road users.
+
+23     Viewed in totality, the level of the accused’s culpability should be situated on the moderate end, while the degree of harm occasioned by his conduct was low. While the custodial threshold has not been breached, I agreed with the prosecution that a high fine and a short disqualification were warranted.
+
+24     Aside from the two principal parameters, I further considered the other mitigating and aggravating factors which do not directly relate to the commission of the offence _per se._ These would include the offender’s driving record and his remorse or lack thereof – see _Koh Thiam Huat_ at \[41\].
+
+#### The Accused’s driving record
+
+25     To his credit, I noted this was the Accused’s first conviction for a traffic offence. Equally relevant, however, was his driving record. The Accused’s driving record reflected a sustained pattern of poor driving. This included compounded traffic offences involving speeding and stopping in a zebra-controlled area.[\[note: 25\]](#Ftn_25) The following compounded traffic offences were marked as serious [^26] :
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="11.36%"><col width="29.66%"><col width="27.66%"><col width="31.32%"></colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>SN</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Date</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Offence</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Composition Amount</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">1</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">2 August 2020</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Speeding</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">$200</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">2</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">3 January 2021</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Speeding</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">$150</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">3</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">26 February 2021</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Speeding</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">$150</p></td></tr></tbody></table>
+
+  
+  
+
+In _Teo Seng Tiong v PP_ <span class="citation">\[2021\] SGCA 65</span> at \[123\], the court held as follows :
+
+> 123    As a matter of law, a court can take into account offences compounded under the RTA as an aggravating factor when sentencing an offence under the RTA or any other law. As a matter of fact, whether those compounded offences amount to aggravation so as to warrant an enhancement of the sentence involves good sense in application. The same considerations apply when considering compounded offences under any other law in the sentencing of an offence which is under the RTA or any other law…
+
+Accordingly, I took into account the Accused’s compounded traffic offences as a relevant aggravating factor in determining the length of the disqualification. It is pertinent to note that these were of a recent nature, in particular, the last offence of speeding on 26 February 2021, occurred barely one month after the present offence of 28 January 2021. It was particularly troubling that the Accused had refused to learn from his traffic violations and persisted in his cavalier manner of driving.
+
+#### The Accused’s lack of remorse
+
+26     As highlighted by the Prosecution, the Accused demonstrated little remorse. The Accused’s conduct of his defence was relevant. His lack of remorse and contrition could be inferred from a pattern of conduct displayed during the court proceedings. Short of reflecting upon his wrongful act, the Accused embarked on a blame game in which he persistently blamed PW1 Chung for being a ‘busybody’ driver in submitting the complaint and the video footage (Exhibit P1) to the police. At all times, the Accused categorically maintained that he did not violate the traffic rules, despite the overwhelming evidence presented. The notion of responsible driving had clearly eluded him.
+
+27     Unlike an offender who had pleaded guilty, the Accused who claimed trial was not entitled to any sentencing discount that might otherwise have been accorded to him in view of a timely plea. While it was the prerogative of the Accused to challenge and claim trial to the charge, I observed with some misgivings his motivation in this regard. The Accused was reluctant to compound the present offence, despite the ample occasions accorded to him. By his admission, the Accused was concerned about the potential consequence of a suspension from driving if he accumulated the requisite demerit points upon the composition of the offence before the expiry of the statutory time frame.[\[note: 27\]](#Ftn_27) As of 26 June 2021, the Accused had accumulated 17 demerit points, according to the Notice of Accumulation of Demerit Points, Exhibit D1, that was tendered by the Accused during the trial.[^28] This was 7 points short of the requisite 24 demerit points for a full suspension of his driving licence. As an experienced driver, the Accused was alive to the possible consequences of suspension from driving for a considerate period of time upon the accumulation of the requisite demerit points, namely, an award of 24 or more demerit points within a period of 24 months may result in suspension for a period not exceeding 36 months – see Road Traffic (Driver Improvement Points System) Rules, Rule 4.
+
+28     While the offence was not so serious as to compel the Accused to re-take and pass the prescribed test of competence as is required under section 43(1)(b) of the Road Traffic Act, should the disqualification period be a year or longer, the sting of a short disqualification order must be brought to bear on the Accused. The imposition of a disqualification order underscores the overarching rationale of keeping such irresponsible drivers as the Accused off the roads.
+
+29     While I was fully cognisant of the personal circumstances of the Accused involving familial and financial hardship, these bore little mitigating value – see _Annis bin Abdullah v PP_ <span class="citation">\[2004\] 2 SLR(R) 93</span>. Similarly, in _Stansilas Fabian Kester v PP_ <span class="citation">\[2017\] 5 SLR 755</span> at \[110\] and \[111\], the learned Chief Justice Sundaresh Menon observed that the argument that an offender should not receive punishment of a certain type or above a certain degree because he would lose his job or face disciplinary proceedings should be rejected. A person who breached the criminal law could expect to face the consequences that followed under the criminal law. Such collateral consequences are not relevant to the sentencing court. Accordingly, I rejected the Accused’s argument that the imposition of suspension from driving would compromise his livelihood and lead to financial hardship.
+
+## Conclusion
+
+30     Having taken a final look at the circumstances presented in the case, I accepted the Prosecution’s submission that disqualification was in order. I was fortified in my view that a disqualification order of one month accorded with the overall criminality of the Accused’s actions, without being crushing.
+
+* * *
+
+[\[note: 1\]](#Ftn_1_1)Notes of Evidence, 18 February 2022 (Day 1) , p 44, lines 1-14
+
+[^2]: Notes of Evidence, 18 February 2022 (Day 1), p 26, line 32 and p 27, lines 8-12
+
+[^3]: Notes of Evidence, 12 April 2022 (Day 2), pp 14-15; see also Defence Closing Submissions dated 15 April 2022
+
+[^4]: Notes of Evidence, 18 February 2022 (Day 1) , p 46, lines 11 -13 , and p 47, lines 3-6
+
+[^5]: Notes of Evidence, 20 April 2022 (Day 3), pp 14-18
+
+[^6]: Rule 55 of the Highway Code (Cap 276, R11)
+
+[^7]: Exhibit P3
+
+[^8]: Exhibit P2
+
+[^9]: Notes of Evidence, 12 April 2022 (Day 2), p 30
+
+[^10]: Notes of Evidence, 12 April 2022 (Day 2), p 29, lines 22-25
+
+[^11]: Defence Submissions, 12 April 202 (Day 2), p 52, lines 10-11
+
+[^12]: Conviction history of the Accused filed on 4 October 2021; see also Notice of Accumulation of Demerit Points – Exhibit D1
+
+[^13]: Notes of Evidence, 20 April 2022 (Day 3), p 20, lines 2-5 and p 23, lines 4-5
+
+[^14]: Notes of Evidence, 20 April 2022 (Day 3) at p 21, lines 14- 31; see also Prosecution’s Further Submissions at \[33\].
+
+[^15]: Notes of Evidence, 20 April 2022 (Day 3), p 20, lines 30-32, and p 21, lines 1-8
+
+[^16]: Notes of Evidence, 20 April 2022 (Day 2), p 22, lines 12-22
+
+[^17]: Exhibit D1
+
+[^18]: Notes of Evidence, 20 April 2022 (Day 3), p 27, lines 8-15
+
+[^19]: Mitigation Plea – see Notes of Evidence, 20 April 2022 (Day 3) , p 26
+
+[^20]: Mitigation Plea – see Notes of Evidence, 20 April 2022 (Day 3), p 29, lines 5-9
+
+[^21]: Section 42 of the Road Traffic Act (Cap 276, 2004 Rev Ed)
+
+[^22]: See paragraph 13
+
+[^23]: Notes of Evidence, 18 February 2022 (Day 1), p 44, lines 18-23
+
+[^24]: Notes of Evidence, 12 April 2022 (Day 2), p 21, lines 19-21 & p 53, lines 2-5
+
+[^25]: Notice of Accumulation of Demerit Points, Exhibit D1
+
+[^26]: Conviction history of the Accused, filed on 4 October 2021
+
+[^27]: Notes of Evidence, 12 April 2022 (Day 2), p 20, lines 20-25
+
+[^28]: Notes of Evidence, 18 February 2022 (Day 1), p 73 , lines 1-9
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F27553-SSP.xml)

@@ -1,0 +1,83 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Mark Fritz Tanel  
+
+### \[2022\] SGMC 26
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Magistrate Arrest Case No 902398 of 2022 and Others, Magistrate's Appeals No 9091 of 2022-01</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">13 May 2022</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">Magistrates Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Ronald Gwee</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Kiera Yu (Attorney-General's Chambers) for the Public Prosecutor; The Accused (unrepresented), in person.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Mark Fritz Tanel</td></tr></tbody></table>
+
+Criminal Law – Offences – Public decency and morals
+
+\[LawNet Editorial Note: The appeal in MA 9091/2022/01 was withdrawn on 30 May 2022.\]
+
+13 May 2022
+
+### District Judge Ronald Gwee:
+
+1       The Accused, Mark Fritz Tanel (“Tanel”), pleaded guilty before me to two charges on 26 April 2022. Two other charges were taken into consideration (“TIC”) for purposes of sentencing.
+
+2       Tanel was sentenced to a total of 8 weeks’ imprisonment and commenced serving sentence on 27 April 2022. It is understood that Tanel indicated to the Prison authorities on 10 May 2022 that he intended to lodge an appeal against sentence. Tanel is currently serving sentence.
+
+3       The first of the two proceeded charges Tanel had pleaded guilty to was a “voyeurism” charge under section 377BB(4) punishable under section 377BB(7) of the Penal Code. This charge shall be referred to as the “Voyeurism Charge”.
+
+4       The second of the two proceeded charges Tanel had pleaded guilty to was for making insulting communication to another person with intent to cause distress to that other person. This was an offence under section 3(1)(b) and punishable under section 3(2) of the Protection from Harassment Act (“POHA”). This charge shall be referred to as the “POHA Charge”.
+
+5       The recitation of the facts surrounding the offences committed by Tanel are gleaned from the Statement of Facts (“SOF”) to which Tanel had admitted without qualification. Where necessary, portions of the SOF will be quoted, _verbatim_.
+
+6       Tanel had committed the offence set out in the Voyeurism Charge against a female who in these Grounds shall be referred to as “FV”. On 6 July 2021, Tanel was at a shopping mall when he noticed FV walk past him. Tanel started to trail FV and followed her up an escalator. Tanel stood closely behind FV on the escalator and bent down to operate his mobile telephone (“mobile”) to “film (FV) under her skirt, without her consent.” Tanel did so “with the intention of enabling himself to observe (FV’s) covered buttocks in circumstances where her underwear would not otherwise be visible.”
+
+7       The SOF goes on to recite that before Tanel “managed to successfully capture an upskirt video of (FV), (FV) felt a bump on the back of her left knee.” FV turned around and saw Tanel. FV asked Tanel “what he was trying to do”. Tanel replied that “nothing had happened”. Pursuant to FV’s continued querying, Tanel eventually handed his mobile to FV.
+
+8       FV checked Tanel’s mobile and discovered that there was no video capturing any images of her. The mobile however “contained videos of various unknown women filmed by (Tanel) on other occasions”.
+
+9       FV drafted a handwritten admission and obtained Tanel’s signature thereon. Tanel also allowed FV to leave the location with his mobile. FV subsequently reported the incident to the Police and handed Tanel’s mobile to the Police.
+
+10     On 16 July 2021, Tanel sent a message to a fellow student at the Singapore Institute of Management (“SIM”) (where Tanel was a student at the material time). Tanel’s message to the fellow student (the “Recipient”), sent through the chat function on SIM’s online learning platform, had been “Can you send me a picture of your cock? So I can masturbate to it.”.
+
+11     The Recipient’s friend reported the matter to the school’s authorities. A male member of the staff (hereinafter referred to as “MV”) then emailed Tanel through the SIM Student Conduct email to request an “online meeting” to “investigate the incident”.
+
+12     The SOF narrates that “Despite repeated emails between 22 July to 15 September 2021, there was no response from (Tanel) (except on one occasion where (Tanel) responded with a medical certificate to excuse his absence). Eventually on 15 September 2021, (MV) sent a final reminder to (Tanel) to respond to the request to meet, and informed (Tanel) that the school would withhold his Diploma certificate and transcripts until he complied. All communications between (MV) and (Tanel) between 22 July to 15 September 2021 used the SIM Student Conduct email and (Tanel’s) SIM email account.”
+
+13     The SOF goes on to state, “In response, (Tanel) sent a flood of 19 emails across 15 to 17 September 2021 in total to both the SIM’s Student Conduct’s email and (MV’s) individual email to express his (Tanel’s) anger and frustrations, knowing that (MV) would access the SIM’s Student Conduct email, and intending to cause (MV) distress by targeting his (MV’s) religion.”
+
+14     In relation to the POHA Charge, the SOF tabulates 12 emails sent by Tanel to MV which contained “insulting words and communications, featuring vulgarities towards (MV)”. In several of these emails, Tanel used expletives, and also called MV “stupid”, “idiot”, “thieving”, as well as an animal that is considered unclean in MV’s religion. Tanel once used the words “Fucking animal (a person of MV’s religion)”. In one email, Tanel enclosed what appeared to be a document that contained statements purportedly made by a State Senator from a Commonwealth nation (the “Document”). These purported statements commented on the shootings in two houses of worship (which practised MV’s religion) that had occurred in a country in the Southern Hemisphere in 2019. Tanel had sent all these communications to MV “with the intent to cause distress to (MV)” and did indeed cause MV distress.
+
+15     The first of the two TIC charges related to Tanel’s possession of 54 intimate recordings, having reason to believe the possession thereof were without the consent of the persons depicted in the recordings. The second of the TIC charges related to Tanel having made, with intent to cause alarm to MV, threatening communication to MV. This had been done in the process of the emails that Tanel had sent to MV. Tanel had sent a photograph to MV showing cuts on himself (Tanel) and had implied that he (Tanel) intended to commit suicide, and that the reason for the suicide would have been traced to MV’s actions. As a result of these communications, MV was alarmed.
+
+16     As to sentence, the Prosecution submitted that an imprisonment term of “6 to 8 weeks’ imprisonment” ought to be imposed for the Voyeurism Charge. For the POHA Charge, the Prosecution submitted that a “high fine” be imposed. Therefore, the Prosecution were seeking a total sentence of imprisonment for a term between six to eight weeks, and a “high fine”.
+
+17     I considered the Prosecution’s submission on sentence and the Mitigation plea put forth by Tanel.
+
+18     I was in agreement with the Prosecution with regard the sentence for the Voyeurism Charge. I sentenced Tanel to an imprisonment term of six weeks for the Voyeurism Charge.
+
+19     I could not agree with the Prosecution that the custody threshold had not been crossed for the POHA Charge. I sentenced Tanel to an imprisonment term of two weeks for the POHA Charge. The Voyeurism Charge and the POHA Charge reflected serious offences that had occurred at different times and involved different victims and different legal interests. Quite clearly, the imprisonment sentences ought to be made to run consecutively, and I so ordered.
+
+20     The total sentence of eight weeks’ imprisonment was also considered to not be “crushing”, in the circumstances, considering the level of criminality demonstrated by Tanel. The two TIC charges had also to be considered in the final reckoning as to the appropriate (total) sentence that ought to be meted out to Tanel.
+
+21     In effect, the sentence meted out to Tanel would appear to be on the lenient side, considering that the Prosecution were pressing for a total sentence of imprisonment of up to eight weeks AND a “high fine”. Tanel was finally sentenced to imprisonment for a total term of eight weeks with no fine being imposed. In his Mitigation plea, Tanel had demonstrated a degree of remorse for his various offences, and I took this into account.
+
+22     With regard to the Voyeurism Charge, the Prosecution cited _Public Prosecutor v Chong Hou En_ <span class="citation">\[2015\] 3 SLR 222</span> (“_Chong Hou En_”). The case of _Chong Hou En_ brought into clear focus the need for deterrent sentences for cases involving the “surreptitious recording” of victims. The Prosecution also pointed out Parliament’s intention when section 377BB of the Penal Code was enacted. Previously, similar offences of “upskirting” were punishable under (then) section 509 of the Penal Code where the maximum imprisonment sentence was for one year. In contrast, the maximum imprisonment sentence under section 377BB of the Penal Code had been doubled to two years.
+
+23     Of particular concern to the Courts is the recent proliferation of such “upskirting” offences. Deterrent sentences for such offences have been imposed for several of such offenders. Such cases also attract much attention in the media (which should mean that the message that deterrent sentences are regularly meted out for such offences would reach a wider audience). Yet, the Courts see several similar cases come before them for sentencing.
+
+24     It cannot be overemphasised that the Courts must send out a stern message to would-be offenders, that such offences are not treated lightly. It also has to be emphasised that such offences are often difficult to detect. In the present case, Tanel’s criminal act was discovered because FV had “felt a bump on the back of her left knee”. It could be said that the unwelcome contact that FV had experienced in addition to Tanel’s attempt at obtaining an “upskirt” image or video was aggravating in the circumstances.
+
+25     I also agreed with the Prosecution that whilst Tanel’s early plea of guilt was mitigating, limited weight should be accorded to such early plea. Tanel had been “caught red-handed” by FV. I also fully agreed with the Prosecution that the fact that Tanel had not managed to record an “upskirt” image or video of FV was not mitigating. The Prosecution asserted that “(giving) mitigating weight to this fact would be perverse as (Tanel) would be allowed to benefit from (FV’s) own alertness.”
+
+26     I also agreed with the Prosecution that the fact that the offence for the Voyeurism Charge occurred in a shopping mall on an escalator was aggravating. Persons such as FV ought to feel safe and assured that their privacy and modesty were not being invaded or impinged upon. The Prosecution’s sentencing position with regard to the Voyeurism Charge was definitely correct and appropriate.
+
+27     However, I could not agree with the Prosecution’s characterisation with regard the sentence for the POHA Charge. The Table of the various insulting words/phrases that Tanel had sent to MV are set out in \[11\] of the SOF.
+
+28     Several religious references were contained in these emails and the enclosed Document. These would have been particularly insulting and hurtful for MV.
+
+29     In Singapore, racial and religious harmony are treasured and cherished. There must be vigilance to protect against the mindless acts of persons who denigrate the religion of others or insult their religions or religious beliefs. In the present case, some of the emails to MV had been sent to the SIM Student Conduct email. Whilst there was no evidence that these emails had (at the material time) been read by persons other than MV, the fact that this email may be accessed by other persons ought to be considered. The possibility that Tanel’s criminal communications could possibly be read by others (who may be of the same religion as MV) could not be treated lightly.
+
+30     That Tanel chose to insult MV to cause distress, by reference to MV’s religion was particularly egregious in the circumstances. Tanel insulted MV over a series of emails. All considered, a custodial sentence was warranted in this case, and I was of the view that a sentence of two weeks’ imprisonment for the POHA Charge was appropriate.
+
+31     Tanel was therefore sentenced to six weeks’ imprisonment for the Voyeurism Charge. This was in line with sentencing norms for such offences and was calibrated to again send out the message that such offences would not be tolerated by the Courts.
+
+32     Tanel was sentenced to two weeks’ imprisonment for the POHA Charge. Tanel’s religious references and the insulting words and phrases used were egregious. The contents of the Document were also particularly insulting for persons professing MV’s religion.
+
+33     The sentences were ordered to run consecutively. Thus, Tanel was sentenced to a total term of eight weeks’ imprisonment. As stated above, Tanel appealed against sentence and is, at the time of release of these Grounds, serving sentence.
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F27521-SSP.xml)

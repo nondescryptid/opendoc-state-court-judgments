@@ -1,0 +1,274 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Mohamed Asadullah Bin Mohamed Iqball  
+
+### \[2022\] SGDC 94
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">District Arrest Case No. 909147-2019, Magistrate's Appeal No. MA-9020-2022-01</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">05 May 2022</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Shaiffudin Bin Saruwan</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">DPP Theong Li Han for the Prosecution; The Accused in person</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Mohamed Asadullah Bin Mohamed Iqball</td></tr></tbody></table>
+
+Criminal law – Statutory offences – Misuse of Drugs Act
+
+Criminal procedure and sentencing – Sentencing
+
+\[LawNet Editorial Note: An appeal to this decision has been filed in MA 9020/2022/01.\]
+
+5 May 2022
+
+### District Judge Shaiffudin Bin Saruwan:
+
+## Introduction
+
+1       The Accused was convicted after trial on the charge of consumption of methamphetamine under s 8(b)(ii) punishable under s 33A(2) of the Misuse of Drugs Act (Cap 185, 2008 Rev Ed)(“MDA”). This charge is commonly referred to as the LT2 charge. He has now appealed against the conviction only.
+
+## The charge
+
+2       The charge against the Accused was that he had consumed methamphetamine, on or about 1 March 2019, without any authorisation under the MDA or the regulations made thereunder. As he had been previously convicted of a consumption charge under s 8(b)(ii) punishable under s 33A(1) of the MDA, he was liable to punishment under s 33A(2) of the same Act.
+
+3       DPP Theong Li Han conducted the prosecution. The Accused was self-represented.
+
+4       Eight other charges were stood down pending the outcome of the trial of the consumption charge. After he was found guilty and convicted on the LT2 charge, he accepted the prosecution’s offer on the eight stood down charges. He pleaded guilty to five and consented to have three taken into consideration for the purpose of sentencing.
+
+5       As the Accused had only appealed against his conviction on the LT2 charge, I would only address the LT2 charge in the grounds of decision.
+
+## The case for the prosecution
+
+6       The Accused was arrested on 1 March 2019 at Block 525 Bedok North Street 3, at about 11.00 pm. He was thereafter brought back to Bedok Police Division Headquarters (“G Division”). Subsequently, urine samples were procured from him and sent to HSA for analysis. In this regard, three attempts were made to procure the Accused’s urine samples, with the third and last attempt being successful. These three incidents would be discussed at length in the paragraphs below. The Health and Science Authority (“HSA”) analysed the urine samples and found that they contained methamphetamine.
+
+7       The prosecution invoked the presumption under s 22 of the MDA. They submitted that the Accused had failed to rebut the presumption.
+
+## The case for the defence
+
+8       The Accused denied that he had consumed any illicit drug. He advanced a two-tiered defence; First, he alleged impropriety in the urine procurement processes, although he was not specific about what they comprised. Second, he alleged that his urine samples had tested positive because he had consumed ‘desoxyn’, a weight reducing or slimming pill. He claimed that he did not know, at the time he had consumed them, that they contained methamphetamine. He had been told about ‘desoxyn’ as a weight reducting medication by a doctor. Pursuant to this, he had purchased the pills from a makeshift stall at Geylang Lorong 24.
+
+## The issues
+
+9       The two issues before me were –
+
+> (a)     Were the Accused’s urine samples procured in accordance with the proper procedures?
+
+> (b)     Has the Accused rebutted the presumption under s 22 MDA?
+
+## Analysis of the evidence
+
+### Were the Accused’s urine samples procured in accordance with the proper procedures?
+
+10     As stated earlier, the Accused challenged the integrity of the urine procurement process. However, he did not make any specific allegation or assertion as to how the integrity of his urine samples have been compromised. As such, it would be prudent to examine the entire procurement process ie from the time his urine samples were procured until the time they were tested positive for methamphetamine.
+
+11     On 1 March 2019 at about 9.00 pm, a party of police officers conducted a police operation to arrest the Accused. The Accused was wanted for several offences which included failing to report for urine test. At about 11.00 pm, the Accused was seen with one Mohamad Nurhisham Bin Mohamad Salim (“Nurhisham”) at the vicinity of Block 525 Bedok North Street 3. They were seen getting into a parked car. Nurhisham was arrested in the driver’s seat while the Accused fled the scene. He was arrested a short distance away. He was handcuffed and searched. The search was conducted by Mohamad Danial Bin Mohamad Sazali (“Sgt Danial”). According to Sgt Danial, the Accused had on him a black sling bag. Inside the bag he found, _inter alia_, two transparent plastic sachets. One sachet contained three green tablets. The other plastic sachet had white stains inside it.
+
+12     The Accused was conveyed to G Division. At G Division he was required to provide a specimen pursuant to s 31(1) of the MDA. Because the Accused had failed to report for urine tests and he had in his possession with the items bag as set out in \[10\] when he was arrested, it was reasonable to suspect that the Accused could have committed an offence under s 8(b) of the MDA. As such, it was reasonable to require the Accused to provide his urine samples pursuant to s 31(1) MDA.
+
+13     Consequently, as stated earlier, three attempts were made to procure the Accused’s urine samples. I would now deal with the circumstances that led to these three attempts. I would categorise the three attempts into the following headings –
+
+> (a)     The incident at the handicap toilet at the Changi General Hospital (“CGH”);
+
+> (b)     The first procurement attempt at G Division;
+
+> (c)     The second procurement attempt at G Division.
+
+#### The incident at the handicap toilet at CGH
+
+14     After the arrest, the Accused was brought back to G Division. There, an arrest report (“Exhibit P4”) was lodged. During this time, the Accused had complained of chest pain[\[note: 1\]](#Ftn_1). He was conveyed to CGH, escorted by three police officers namely, Anwar Mushadad bin Abdul Rahman (“Sgt Anwar”), Muhammad Hakim bin Hassan (“Sgt Hakim”) and Heap Zhi Yong (“SSgt Heap”). Sgt Anwar brought along an escort bag containing the paraphernalia necessary to procure the Accused’s urine samples in CGH should the Accused wished to provide his urine sample there[^2].
+
+15     At CGH, the Accused was brought to a holding room. He then informed the escorting officers that he was ready to provide his urine sample. The three officers escorted him to the handicap toilet which was located two doors away from the holding room. Inside the toilet, the Accused chose one bottle with a red cap from a plastic bag which contained several bottles with red caps and two bottles with blue caps from a plastic bag which contained several bottles with blue caps[\[note: 3\]](#Ftn_3).
+
+16     After he had chosen the three bottles, the Accused said that he wanted to pass motion instead. He was seated on the toilet bowl and the three escorting officers were standing. While seated, the Accused kept bending his body forward thereby obstructing the escorting officers’ view of his private area. He continued with this action despite being warned by them not to do so. At this time, he was holding the bottle with the red cap in one hand while his other hand was cuffed. Then, Sgt Anwar observed the Accused making a fast scooping motion inside the toilet bowl with his hand that was holding the bottle with the red cap. After making the scooping motion, the Accused then handed Sgt Anwar the bottle with the red cap to him[\[note: 4\]](#Ftn_4). Sgt Anwar noted that the said bottle now contained a clear liquid which felt cold to the touch. Sgt Anwar handed the bottle to Sgt Hakim and asked him to touch the bottle. Sgt Hakim testified that he touched it and noted that the liquid in the bottle felt cold. He also noted that the liquid inside was clear. SSgt Heap then asked the Accused to stand up. SSgt looked into the toilet bowl and noted that there was nothing inside the toilet bowl and that the water in the bowl was very clear[^5].
+
+17     Sgt Anwar testified that the Accused had told him that the liquid inside the bottle with the red cap was his urine. However, Sgt Anwar was doubtful about the truth of the Accused’s assertion. In court, he explained that from his experience in procuring urine samples from suspected persons, the urine samples would be coloured light yellow or dark yellow and would be warm to the touch. This was not the case here[\[note: 6\]](#Ftn_6). Because there was a doubt that the liquid inside the bottle was urine, Sgt Anwar threw the bottle and its content in a dustbin in the handicap toilet. He did this in the Accused’s presence and view. He told the Accused that his urine sample would have to be procured again. The two bottles with the blue caps which the Accused had chosen earlier were also disposed off[^7].
+
+18     The party then returned to G Division, where the Accused was handed over to Ken Ng Kok Wah (“Sgt Ken”). During the hand-over, Sgt Anwar informed Sgt Ken about the incident at the handicap toilet at CGH. Sgt Ken confirmed that the bottle with the red cap which had contained the clear and cold liquid had not been brought back to G Division[\[note: 8\]](#Ftn_8).
+
+19     The Accused had denied that this incident in the handicap toilet had happened. However, I accepted the accounts furnished by Sgt Anwar, Sgt Hakim and SSgt Heap. I rejected the Accused’s argument that it was impossible for him to have blocked the views of the three officers, while seated on the toilet bowl. I found that it was possible for the views of the officers of the interior of the toilet bowl and the Accused’s private parts to have been partially or totally blocked by the Accused’s action of bending his body forward. There was no reason for the three officers to lie. I found that it was also implausible that the three officers had colluded and fabricated a story about the Accused scooping water from the toilet bowl with the bottle. If the officers had been satisfied that the Accused had provided his urine sample, there was no reason why the bottle and its content would have been rejected by them and discarded. They had done so because they had not witnessed the Accused providing his urine sample into the bottle and based on their experience in procuring urine samples, the colour and temperature of the liquid in the bottle was not consistent with that of urine. I found that their suspicion and doubt about the nature of the liquid in the bottle was based on reasonable and cogent grounds. Admittedly, there were some discrepancies in the details of the incident, but these were minor and not significant such that they rendered the officers’ evidence unreliable. On the contrary, I found that these discrepancies strengthened their overall credibility and rendered any suggestion that they had fabricated the incident highly improbable.
+
+#### The first procurement attempt at G Division
+
+20     After taking custody of the Accused, Sgt Ken put him at the temporary holding area (“THA”) in the charge office. He told the Accused that he needed to provide his urine sample. He gave the Accused a cup of water which he took from a water dispenser located inside the lock-up office[\[note: 9\]](#Ftn_9). As at CGH, the Accused told him that he needed to use the toilet because he had a stomach-ache. He was then escorted out of the THA for the urine procurement[^10]. In the toilet, the Accused was told to wash his hands with soap. Sgt Ken then saw excess soap on the Accused’s hands so he instructed the Accused to wash it away and then dry his hands. After the Accused had complied, he was escorted to the remand locker area where the urine bottles were kept. Sgt Ken then asked him to choose one bottle with a red cap (“the master bottle”) from a pool of more than 10 such bottles, and two bottles with blue caps from a pool of more than 10 such bottles. After the Accused had made his choices of bottles, Sgt Ken told him to remove the individual plastic wrappings from the three bottles. The Accused complied. After that Sgt Ken escorted the Accused into remand cell 1 where he witnessed the Accused providing his urine sample into the master bottle. The Accused then poured his urine sample from the master bottle into the two bottles with the blue caps. Once done, Sgt Ken placed the master bottle into a polymer bag. The two bottles with the blue caps were placed inside another polymer bag. He then escorted the Accused back to the THA. The two polymer bags containing the bottles were held at all times by the Accused.
+
+21     On the way back to the THA, Sgt Ken saw that the Accused tried to squeeze the urine bottles inside the polymer bags. Seeing this, Sgt Ken took over possession of the two polymer bags. When they arrived at the THA, Sgt Ken placed the two polymer bags out of reach of the Accused but within his sight. He did this because he was afraid the Accused might attempt to tamper with the bottles again[\[note: 11\]](#Ftn_11).
+
+22     Sometime on 2 March 2019, Marsidi bin Ali (“SI Marsidi”) arrived at the THA and escorted the Accused to the Central Narcotics Bureau (“CNB”) office for the instant urine test (“IUT”). At this time, the Accused was in possession of the two polymer bags. While walking, SI Marsidi noticed that the Accused was squeezing the urine bottles inside the two polymer bags. He took over the two polymer bags from the Accused and held them in front of him while proceeding to the CNB office. SI Marsidi said that while they walked, the two polymer bags were in the Accused’s view at all times[\[note: 12\]](#Ftn_12).
+
+23     At the CNB office, the Accused sat on a chair and the two polymer bags were placed on a chair in front of him, such that they could be seen by the Accused. SI Marsidi then proceeded to conduct the IUT. At about 3.00 am, he entered the Accused’s details into the machine. He then took the label that was printed by the machine and pasted it on a test tube. He then took out the master bottle from the polymer bag. He noted that some of the urine had leaked out, but he was able to siphon some urine from the bottle into the test tube. He then put the test tube into the machine and started the IUT. The master bottle was then discarded by him in the Accused’s view[\[note: 13\]](#Ftn_13). The IUT took about 15 minutes. The urine sample was found to be positive for amphetamine.
+
+24     SI Marsidi then printed out the IUT result slip (“exhibit P2”). He also printed out the HSA labels which was to be used to seal the two bottles with the blue caps. When he opened the polymer bag that contained the two said bottles, he noted that the urine in the two bottles had leaked, and that both bottles were only half full[\[note: 14\]](#Ftn_14). SI Marsidi said he then informed the CNB duty officer about this. The CNB duty officer instructed him to pour the remaining urine samples into two new bottles with blue caps. He proceeded to do this in the presence of the Accused. The Accused was made to choose two new bottles with blue caps. After pouring the contents in the two leaked bottles into the new bottles, he placed the two bottles into a new polymer bag. The original two bottles that had leaked were thrown away. SI Marsidi then held onto the bag when he escorted the Accused back to the THA. He had done this to prevent any further tampering of the bottles by the Accused. In the THA, he had placed the polymer bag in front of the Accused, who was seated on a bench[^15]. SI Marsidi then informed Sgt Ken that the Accused had to provide his urine sample again.
+
+25     I accepted the evidence of both Sgt Ken and SI Marsidi that they had seen the Accused squeezed the two bottles containing his urine samples. They had no reason to lie. Their observations were consistent with the fact that SI Marsidi had found the bottles to have leaked, which was the probable result of the Accused’s action of squeezing the bottles. I noted that SI Marsidi’s observation of the Accused’s action was recorded in the station diary (exhibit D9). Although Sgt Ken had admitted that his own observations of the Accused’s action was not recorded down in exhibit D9, I found that he had no reason to fabricate evidence against the Accused. The Accused was not known to him prior to the incident.
+
+#### The second procurement attempt at G Division
+
+26     At about 7.25 am on the same day, the Accused informed Sgt Ken that he was ready to provide his urine sample. Sgt Ken then escorted the Accused out of the THA to wash his hands. After that, he was brought to the remand locker area where the Accused once again chose one master bottle and two bottles with blue caps. After that, the Accused was escorted to the toilet area in the remand cell. After the Accused had deposited his urine sample into the master bottle, he then poured the urine from the master bottle into the two bottles with the blue caps. When Sgt Ken was satisfied that the urine samples inside both bottles were of sufficient quantity, he discarded the previous two bottles and their contents. After that, Sgt Ken sealed the master bottle and the two bottles with the blue caps with masking tape. He placed the master bottle into a polymer bag and the two other bottles into another polymer bag. He then escorted the Accused back to the THA. During the journey, Sgt Ken had held onto the two polymer bags and ensured that they were within the Accused’s view at all times. He had done this in order to prevent any further attempt at tampering with the bottles again. Inside the THA, the Accused was handcuffed and seated on the bench, and the polymer bags were placed a short distance away from him, but within his view[\[note: 16\]](#Ftn_16).
+
+27     Thereafter, SI Marsidi came to the charge office with two locked metal boxes. He had taken the two metal boxes from the CNB office earlier. He brought the Accused to the charge office with the two polymer bags. In the Accused’s presence, he cut open the two bags. He took out the two bottles with the blue caps, showed the Accused the HSA labels and asked the Accused to verify his name and identity card numbers on the labels. He confirmed that these information were correct by appending his signatures on the labels. Then SI Marsidi sealed the two bottles with the labels. After that, he told the Accused to place one bottle each into each metal box through a hole that was found on the boxes. After that, SI Marsidi brought the boxes back to the CNB office, and placed them in the fridge. The fridge was then locked[\[note: 17\]](#Ftn_17).
+
+28     I note that The Accused did not dispute that the urine samples that were sent to and tested were procured from him[\[note: 18\]](#Ftn_18). Notwithstanding this, I still had to analyse the evidence of both Sgt Ken and SI Marsidi and come to a conclusion whether the procurement process was done properly. I had to also satisfy myself that the urine samples procured were from the Accused, and that there was no mix-up of urine samples. I also had to be satisfied that the urine samples had not been tampered with or tainted. The testimonies of Sgt Ken and SI Marsidi, which had been set out above, were cogent and clear. I was satisfied that Sgt Ken had properly procured the Accused’s urine samples and had stored them in the two bottles with the blue caps. I also found that he had properly sealed the bottles, and then placed them into a polymer bag. I was also satisfied that SI Marsidi had properly verified with the Accused the information contained on the labels pasted on the two bottles, and then they were finally placed in the metal boxes for despatch to HSA.
+
+### The urine analysis at HSA
+
+29     On 4 March 2019, Chen Zhili, Dominic (“Chen”) retrieved the metal boxes from the locked fridge and sent the boxes to the Analytical Toxicology Laboratory, HSA, for the urine samples to be analysed.
+
+30     At HSA, the Accused’s urine samples were tested by analysts Siti Aisyah Binte Jamil (“Ms Aisyah”) and Maggie Tiong Su Su (“Ms Tiong”). The tests were conducted separately and independently of each other. The outcome of their analyses were the same, that was, the Accused’s urine samples contained methamphetamine. Their conclusions were set out in the two HSA certificates issued pursuant to s 16 MDA (“Exhibit P1” and “Exhibit P3”).
+
+31     Ms Aisyah stated[\[note: 19\]](#Ftn_19) that when the urine samples were received from CNB, HSA would verify the information on the urine bottles and also that the seals on the bottles were intact. After the verification process, she broke the seal and proceeded to conduct the initial test. She said that when the initial test showed that the urine sample was positive for methamphetamine, she then proceeded to conduct the confirmatory test. She testified that the result of the confirmatory test was also positive for methamphetamine. She said that the presence of methamphetamine in the Accused’s urine sample was consistent with the consumption of methamphetamine. She also explained that the period of time in which methamphetamine would stay in the human body would depend on factors such as the individual metabolic rate, the amount of the drug consumed, and the amount of water consumed. Typically, methamphetamine would remain in the body for one to three days after consumption.
+
+32     In response to the Accused’s question in cross-examination, Ms Aisyah had testified that the concentration of methamphetamine in the Accused’s urine sample was 8,018 nanograms per millilitre. She explained that the HSA protocol required that the concentration level of the methamphetamine must be above 500 nanograms per millilitre before the certificate under s 16 MDA certifying that the urine sample was positive for methamphetamine would be issued[\[note: 20\]](#Ftn_20).
+
+33     Ms Tiong conducted the analysis of the Accused’s urine sample in the other bottle. She confirmed that she had supervised the urine testing process and analysed and interpreted the results. She confirmed that the urine sample tested was positive for methamphetamine. She also disclosed that the concentration level of the methamphetamine was 8,450 nanograms per millilitre. Ms Tiong also confirmed Ms Aisyah’s testimony that methamphetamine could generally be detected in the body up to three days after consumption[\[note: 21\]](#Ftn_21).
+
+34     The Accused did not raise any serious challenge with respect to the analysis by Ms Aisyah and Ms Tiong. Nevertheless, it was incumbent on me to examine the evidence adduced by the two HSA analysts and consider whether the procedure adopted during the analysis of the Accused’s urine sample was beyond reproach and that the integrity of the test results were not compromised. Having considered their evidence, I was satisfied that they have proven beyond a reasonable doubt that the analysis had been conducted properly and that the results obtained from the two sets of tests were accurate.
+
+35     As such, the presumption under s 22 MDA operated. The Accused has to rebut the presumption on a balance of probabilities. He has to prove that he did not consume the drug found in his urine samples ie, methamphetamine: _PP v Mohammad Ashik bin Aris_ <span class="citation">\[2011\] 4 SLR 34</span> at \[277\].
+
+### Has the Accused rebutted the s 22 MDA presumption?
+
+36     The Accused’s defence was that he did not have the requisite _mens rea_ of consuming methamphetamine. His case was that he had consumed desoxyn, a slimming pill, and that at the time he consumed it, he did not know that it contained methamphetamine. However, his accounts of how he came to know about desoxyn, how he had purchased them, and the subsequent consumption were, in my view, inconsistent and not cogent.
+
+37     The Accused testified that he had first found out about desoxyn from a doctor he had visited. According to him, the doctor had told him the name of the medication but said he could not prescribe it to the Accused as it was not an approved medication. When pressed to name the doctor or the clinic, he was unable to furnish these details. He claimed that he had forgotten the name of the doctor and the clinic.
+
+38     The Accused claimed that he then made the decision to go to Geylang to look for desoxyn. This was because he knew that a lot of medication were sold at the Geylang area[\[note: 22\]](#Ftn_22). He then narrated four instances when he had bought desoxyn at Lorong 24 Geylang in the company of other persons. The four instances were as follows –
+
+> (a)     Sometime in March 2018, he had bought 50 desoxyn pills from a Chinese man for $100 at Lorong 24 Geylang. These pills were packed in a ziplock bag. At the time, he claimed that his younger brother, Muhammad Izzat bin Mohamed Iqball (“Izzat”) was with him. However, Izzat had stayed in the car while he had alighted and left the car to buy the pills. When the Accused returned to the car with the pills, he had told Izzat that they were slimming pills. Izzat then asked for a few to try. The Accused told Izzat to take as many as he liked, but that he should consume half a pill first. He claimed that both of them had consumed half a pill each in the car[\[note: 23\]](#Ftn_23).
+
+> (b)     Some three months later, around June 2018, the Accused had gone to the same seller at the same place to purchase more desoxyn pills. They were in the same packaging. This time, his elder brother, Mohamed Khairuddin bin Mohamed Iqball (“Khairuddin”) was with him. The Accused had told Khairuddin later that the pills he had bought were called desoxyn. According to the Accused, Khairuddin had seen him consumed the pill[\[note: 24\]](#Ftn_24).
+
+> (c)     About three months later, sometime in September 2018, the Accused again purchased the same quantity of desoxyn pills from the same Chinese man from Lorong 24 Geylang for the same price and in the same packaging. This time, the Accused’s other elder brother, Mohamed Haider bin Mohamed Iqball (“Haider”) was with him. Haider had remained in the car when the Accused had gone to look for the Chinese man to make his purchase. When he returned to the car, the Accused had told Haider that the pills were for slimming and was called desoxyn. The Accused had consumed one pill before driving home.
+
+> (d)     About two months after that, the Accused claimed that he had again purchased desoxyn pills at the same place. This time he was accompanied by his childhood friend Nurhisham. Norhisham had stayed in the car while the Accused had gone to make the purchase. When the Accused returned, he had told Norhisham that the pills were slimming pills called desoxyn. He had consumed one pill in Norhisham’s presence.
+
+39     The Accused called three of the four persons named above. Haider was not called to testify as a defence witness because he was not in Singapore at the time of the trial. Upon closer scrutiny of the testimonies of the three that testified, I found that their testimonies did not further the defence that he had consumed desoxyn prior to his arrest, and that he had done so not knowing that desoxyn contained methamphetamine.
+
+40     The HSA analysts Ms Aisyah[\[note: 25\]](#Ftn_25) and Ms Tiong[^26] had stated that methamphetamine could generally be detected in the urine of the consumer up to three days after consumption. In other words, the Accused would have to consume the drug one to three days prior to 1 March 2019 in order for the drug to be detected in his urine. With this time-frame in mind, the testimonies of Khairuddin and Izzat did not assist the Accused’s defence in any way. Khairuddin’s testimony was that after he had accompanied the Accused to Lorong 24 Geylang when the Accused had purchased the desoxyn, he had seen the Accused consumed desoxyn once or twice[^27]. Crucially, he could not remember the last time he had allegedly seen the Accused consumed desoxyn[^28]. Izzat had testified that he had last seen the Accused consuming the desoxyn a few days before Izzat was arrested by the CNB in March 2018. This was way beyond the one to three days’ time-frame. And since Izzat have been in remand from the time he was arrested to the time he gave evidence in court, he could not have known or seen the Accused consumed the desoxyn one to three days prior to the Accused’s arrest[^29].
+
+41     That left the Accused with Nurhisham’s testimony. Nurhisham and the Accused were childhood friends. Nurhisham had testified that on 1 March 2019, the date both he and the Accused were arrested, he had seen the Accused consumed a white pill. He said that the pill was the same one that the Accused had bought at Geylang Lorong 24. However, his account in court about the pill was vague. I found that his evidence was insufficient to prove that the said pill he claimed he had seen the Accused consumed was desoxyn. Nurhisham had admitted that he was not sure what the pill was. He was also unsure if there was any marking on the pill that could identify its nature or name. He could only make a vague comment that the Accused liked to take the pill.[\[note: 30\]](#Ftn_30). When pressed further to provide specifics, he admitted that he had presumed that the pill he saw the Accused consumed was similar to the ones that he had purchased at Geylang Lorong 24. For these reasons, I did not find his evidence to be cogent or credible. In my view, he had not been truthful in his testimony in court and that he had wanted to help bolster the Accused’s defence.
+
+42     This conclusion was reinforced by the extent to which Nurhisham had deliberately avoided giving any evidence that he felt would incriminate the Accused. During cross-examination, Nurhisham had made three claims – (i) he had not seen the Accused consumed methamphetamine after the Accused’s release from his LT1 imprisonment sentence; (ii) the last time they had consumed methamphetamine together was before the Accused had gone to prison for his LT1 offence; and (iii) he (Nurhisham) had never obtained methamphetamine from the Accused[\[note: 31\]](#Ftn_31). These claims were severely contradicted by his own statement to CNB on 29 January 2021 (“Exhibit P12”). In Exhibit P12, he had stated that he had obtained methamphetamine from the Accused prior to his (Nurhisham) admission into the drug rehabilitation centre (“DRC”) in March 2019[^32]. He had also said that on multiple occasions, he had invited the Accused to his house to consume methamphetamine, and that the last time they had consumed methamphetamine was a few weeks before their arrest on 1 March 2019. His explanations for these inconsistencies were unconvincing and not credible. In fact, he had such difficulty explaining away the inconsistencies that at the end, he had no choice but to agree that the last time he and the Accused had consumed methamphetamine together was not before the Accused’s LT1 prison sentence[^33]. In other words, he admitted that he had not told the truth in court. Overall, I found Nurhisham’s credibility to be highly suspect, and therefore he could not be believed. I rejected his oral evidence in relation to his dealings with the Accused on both the procurement and consumption of methamphetamine.
+
+43     Lastly, it was pertinent to note that all three witnesses had testified that the Accused had told them that the pills that he had purchased was desoxyn or was for slimming. In other words, their knowledge that the pills were slimming pills called desoxyn had been derived from what the Accused had told them. There was no way for them to verify this independently. As such, I attached no weight to their evidence on this point.
+
+### The Accused was not a credible witness
+
+44     I noted that the Accused had not mentioned desoxyn in his first statement to the CNB (“Exhibit D1”). Exhibit D1 was recorded by Fawwaz Bin Fathurrahman (“SSgt Fawwaz”) on 12 March 2019. In Exhibit D1, the Accused had very clearly and unambiguously stated he did not know why his urine sample was tested positive for methamphetamine. He also said that he did not know what could have caused the positive result[\[note: 34\]](#Ftn_34). He also stated that he had not consumed anything that could have caused his urine sample to be positive[^35]. If the Accused’s evidence was to be believed, he had purchased and consumed at least between 150 to 200 desoxyn pills between March 2018 to November 2018. In this context, I found the omission by the Accused to mention desoxyn in Exhibit D1 was inexplicable. In my view, the omission supported the conclusion that his claim about desoxyn was completely unreliable. In court, the Accused had alleged that he had mentioned desoxyn to SSgt Fawwaz but SSgt Fawwaz had declined to record this down by claiming that he had run out of paper. I found this allegation unbelievable and implausible. Looking at Exhibit D1, I noted that there was ample space on the last page of the statement for SSgt Fawwaz to record this fact down if it had been mentioned to him. In addition, \[6\] and \[7\] of Exhibit D1 concerned a discussion about why the Accused’s urine samples were found to be positive for methamphetamine. There was therefore every reason for the Accused to mention the desoxyn pills. The fact that he had not done so pointed to the inexorable conclusion that his defence in relation to the desoxyn pills was an afterthought.
+
+45     The Accused had only mentioned the desoxyn pills in his statement to the CNB (“Exhibit P10”) which was recorded on 10 April 2019. In Exhibit P10, he made the following assertions concerning desoxyn –
+
+> (a)     The desoxyn pills he had purchased was packed in bottles.
+
+> (b)     The ingredients of the desoxyn pills were written down on the bottles, and methamphetamine was listed as one of the ingredients.
+
+> (c)     He had also checked the ingredients online and confirmed that the desoxyn pills contained methamphetamine. This research was done by him before his arrest.
+
+> (d)     Although he knew that the desoxyn pills contained methamphetamine, he thought that it was not illegal for him to consume it as the desoxyn was in pill form.
+
+46     The above assertions were wholly inconsistent and in direct contradiction with the defence that he ran in court which was that he did not know that the desoxyn pills contained methamphetamine. Additionally, he had testified in court that the desoxyn pills he purchased were loosely packed in unlabelled ziplock plastic bags. In court, he had also claimed that he had not done the online research himself but that someone else had done it for him[\[note: 36\]](#Ftn_36). All these were wholly inconsistent not only with what he had asserted in Exhibit P10, but also his Case for the Defence. For these reasons, I found that the Accused had no credibility as a witness. The inconsistencies reinforced the conclusion that the Accused’s defence was a fabrication. On a side-note, I was also of the view that the Accused’s assertion that he had thought that it was not illegal to consume the methamphetamine because it was in pill form was wholly without any basis.
+
+47     Therefore, on the weight of the evidence, I found that the Accused had consumed methamphetamine shortly prior to his arrest, and that he knew that he had consumed methamphetamine. His knowledge was consistent with his repeated attempts at thwarting the CNB’s efforts to procure his urine samples. These attempts have been set out in detailed above. He had made these attempts because he knew that he had consumed methamphetamine shortly before his arrest and therefore his urine would be positive for the drug.
+
+48     All considered, I found that the Accused had failed to rebut the presumption on a balance of probabilities. Consequently, I found that the prosecution has proven their case against the Accused beyond reasonable doubt. I therefore found the Accused guilty and I duly convicted him on the charge.
+
+## Antecedents
+
+49     The Accused has the following relevant antecedents –
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="26.68%"><col width="34.28%"><col width="39.04%"></colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Conviction date</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Offence</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Global sentence</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">6 August 2002</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">s 8(b)(i) MDA Cap 185</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">12 months’ imprisonment</p></td></tr><tr><td align="left" class="br" rowspan="2" valign="top"><p align="justify" class="Table-Para-1">30 September 2004</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">s 5(1)(a) MDA Cap 185</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">5 years’ imprisonment and 5 strokes of the cane</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">s 5(1)(a) MDA Cap 185</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Taken into consideration</p></td></tr><tr><td align="left" class="br" rowspan="5" valign="top"><p align="justify" class="Table-Para-1">12 February 2010</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">s 8(b)(ii) MDA Cap 185</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">3 years’ imprisonment</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">s 8(a) MDA Cap 185</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">15 months’ imprisonment (consecutive)</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">s 8(a) MDA Cap 185</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">15 months’ imprisonment (concurrent)</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">s 8(a) MDA Cap 185</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Taken into consideration</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">s 9 MDA Cap 185</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Taken into consideration</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">20 November 2015</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">s 8(b)(ii) MDA Cap 185 (LT1)</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">5 years’ 6 months’ imprisonment and 3 strokes of the cane</p></td></tr></tbody></table>
+
+  
+  
+
+50     The Accused had also been placed on 24 months’ drug supervision on three occasions namely, 9 April 2003, 27 July 2012 and 2 May 2018. On 20 August 2003 he had been placed on record by the Registrar of Societies for being a member of an unlawful society.
+
+## The sentence
+
+### The prescribed punishment
+
+51     The prescribed punishment for the LT2 charge was mandatory imprisonment of not less than seven years’ and not more than 13 years, and mandatory caning of not less than six strokes and not more than 12 strokes of the cane.
+
+### Prosecution’s submissions on sentence
+
+52     In relation to the LT2 charge, DPP Theong did not make any specific submission save to highlight that the offence carried the mandatory minimum seven years’ imprisonment and six strokes of the cane.
+
+### The mitigation plea
+
+53     The Accused merely sought for leniency and for his sentence to be backdated.
+
+### The sentence by the court
+
+54     Under the circumstances, and notwithstanding the fact that the Accused had claimed trial, I was of the opinion that there was no overwhelming reason to impose more than the prescribed mandatory minimum sentence. As such I sentenced him to seven years’ imprisonment and six strokes of the cane. Including the sentences meted out for the charges he had pleaded guilty to after he was convicted on the LT2 charge, the total aggregate sentence imposed was seven years’ and four months’ imprisonment and six strokes of the cane. The imprisonment sentence was backdated to the date of his arrest, 1 March 2019.
+
+## Conclusion
+
+55     The Accused has lodged an appeal against his conviction for the LT2 charge. He is presently serving his sentence.
+
+* * *
+
+[\[note: 1\]](#Ftn_1_1)NE Day 2, page 35 lines 26-31.
+
+[^2]: NE Day 3, page 15 lines 19-32.
+
+[^3]: NE Day 3, page 15 line 10 to page 17 line 29.
+
+[^4]: NE Day 3, page 18 lines 20-27; page 26 lines 24-31.
+
+[^5]: NE Day 3, page 16 to page 19 line 11; page 39 lines 9-19; page 58, lines 8-20.
+
+[^6]: NE Day 3, page 19 lines 19-28.
+
+[^7]: NE Day 3, page 19 line 12 to page 20 line 17; page 69 line 11 to page 70 line
+
+[^8]: NE Day 1, page 82 lines 26-28.
+
+[^9]: NE Day 1, page 82 line 31 to page 83 line 28.
+
+[^10]: NE Day 1, page 84 line 6 to page 86 line 30.
+
+[^11]: NE Day 1, page 87 lines 3-28.
+
+[^12]: NE Day 2, page 3 line 32 to page 4 line 10.
+
+[^13]: NE Day 2, page 4 line 17 to page 5 line 24.
+
+[^14]: NE Day 2, page 5 line 20 to page 6 line 5.
+
+[^15]: NE Day 2, page 6 line 7 to page 8 line 4.
+
+[^16]: NE Day 1, page 88 line 28 to page 91 line 19.
+
+[^17]: NE Day 2, page 8 line 13 to page 9 line 30.
+
+[^18]: NE Day 6, page 15 line 32 to page 16 line 8.
+
+[^19]: NE Day 1, page 8 line 24 to page 9 line 12.
+
+[^20]: NE Day 1, page 26 lines 14-27.
+
+[^21]: NE Day 1, page 30 line 25 to page 31 line 4.
+
+[^22]: NE Day 5, page 12 line 25 to page 13 line 1.
+
+[^23]: NE Day 5 page 11 line 15 to page 12 line 13; page 13 line 27 to page 14 line 1.
+
+[^24]: NE Day 5 page 14 line 2 to page 15 line 12.
+
+[^25]: NE Day 1 page 9 lines 5-11.
+
+[^26]: NE Day 1 page 32 lines 8-10.
+
+[^27]: NE Day 7, page 7 line 31 to page 8 line 22.
+
+[^28]: NE Day 6, page 14 lines 20-23.
+
+[^29]: NE Day 7, page 20 lines 1-24.
+
+[^30]: NE Day 7, page 31 line 7 to page 32 line 24.
+
+[^31]: NE Day 7, page 36 lines 7-15.
+
+[^32]: Exhibit P12 at \[4\].
+
+[^33]: NE Day 7, page 42 lines 20-23.
+
+[^34]: Exhibit D1 at \[6\].
+
+[^35]: Exhibit D1 at \[7\].
+
+[^36]: NE Day 6, page 31 lines 19-32.
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F27472-SSP.xml)

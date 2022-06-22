@@ -1,0 +1,101 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Muhammad Aslan Kamal Batcha  
+
+### \[2022\] SGMC 33
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Magistrate Arrest Case No 901190-2021 &amp; Ors, Magistrate's Appeal No 9075-2022-01</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">26 May 2022</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">Magistrates Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Eugene Teo Weng Kuan</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Deputy Public Prosecutor Ms Theong Li Han for the Public Prosecutor; Mr Sankar S/O Kailasa Thevar Saminathan (STERLING LAW CORPORATION) for Muhammad Aslan Kamal Batcha</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Muhammad Aslan Kamal Batcha</td></tr></tbody></table>
+
+Criminal Procedure and Sentencing – Outraging of Modesty
+
+\[LawNet Editorial Note: An appeal to this decision has been filed in MA 9075/2022/01.\]
+
+26 May 2022
+
+### District Judge Eugene Teo Weng Kuan:
+
+1       Mr Muhammad Aslan Kamal Batcha (“Aslan”) pleaded guilty before me to a single charge for outraging the modesty of one Ms \[B\], an offence under section 354(1) of the Penal Code, Cap 224, 2008 Rev. Ed. (“Penal Code”). Another two other connected charges were taken into consideration for sentencing. In mitigation, he pleaded for probation. After considering the facts, his mitigation, the applicable precedents, and the prosecution’s position on sentence, I declined to grant probation and sentenced him for the offence. These are the grounds for my decision.
+
+## Facts, Charges and Plea:
+
+2       Aslan is a Malaysian and was born on 13th August 2000. He came to Singapore in 2019 to work, and resided here with his aunt and cousin, whilst his own family (parents) remained in Kuala Lumpur, Malaysia. After changing jobs from minimart helper, to cleaner, Aslan started working as a dishwasher at “the restaurant” in early January 2021. He was then 20+ years old and about to turn 21.
+
+3       \[B\] was the supervisor at the restaurant, and she had to supervise Aslan’s work. Soon after Aslan started working there, he obtained the mobile phone number of \[B\] from another employee and started texting her to profess his love for her. Even though \[B\] informed Aslan that she already had a boyfriend, Aslan continued to send more text messages professing his love for her. \[B\] reiterated to Aslan that she did not reciprocate his feelings, and they could only be friends. Despite being informed thus, Aslan committed the offences in mid-February 2021 – about a month plus after he started working at the restaurant.
+
+4       On 11 February 2021, at about 3.30 pm, whilst at the area outside the level 2 female toilet of Westgate Mall (where the restaurant was located), Aslan approached \[B\], grabbed her right forearm and hugged her from the front. For using criminal force in that manner against \[B\], whilst knowing it likely that he would thereby outrage her modesty, Aslan faced one charge under section 354(1) of the Penal Code: **MAC 904821/2021**.
+
+5       Two days later on 13 February 2021, at about 5.30 pm, whilst at the bench located outside the level 3 female toilet of Westgate Mall, Aslan approached \[B\] again and sat down on the bench next to her whilst she rested. When \[B\] woke from her rest, Aslan engaged her again and professed his feelings for her and tried to get her to agree to be his girlfriend. At several points, \[B\] tried to disengage and leave, but was prevented from doing so because Aslan blocked her with his arm. At one point, Aslan then wrapped his right arm around the shoulders of \[B\] and pulled down her facemask with his other hand before kissing her on her lips. Aslan’s facemask was also down and the kiss was direct lips-on-lips. \[B\] did not consent to any of those actions, and was shocked and frightened. She eventually managed to break free from that position after struggling against Aslan. Those events were all captured on CCTV footage, and those 25 minutes showing the incident were played in court. For using criminal force in that manner against \[B\], whilst knowing it likely that he would thereby outrage her modesty, Aslan faced another charge under section 354(1) of the Penal Code: **MAC 901190/2021**.
+
+6       Finally, the next day on 14 February 2021, at about 9.05 pm at the linkway between Westgate Mall and the Jurong East MRT Station, Aslan again approached \[B\] and used criminal force against her by pulling her left arm from the back and pushing her against the side railing. For using criminal force in that manner, Aslan faced one charge under section 352 of the Penal Code: **MAC 904822/2021**.
+
+7       \[B\] reported the incidents to her superior at (“the restaurant”), who then lodged a police report on 16 February 2021. Investigations led to Aslan’s arrest and he was charged in court two days later.
+
+8       In response, Aslan engaged learned counsel and proceeded to deny all his charges. After several rounds of Court Mentions and Pre-Trial Conferences, the matter was set down for trial before me. However, when the parties attended before me on the first day of the trial (7th March 2022), learned counsel sought time to view the CCTV footage and take instructions. That review resulted in a change of Aslan’s plea position on his charges. Some further discussions between the parties then gave rise to the plea offer to proceed only on MAC 901190/2021. Aslan then pleaded guilty to that charge, admitted to the facts (as summarized above) and that the CCTV footage captured his actions, and also admitted to MAC 904821/2021 & MAC 904822/2021 and consented to have them being taken into consideration for the purposes of sentencing. Aslan was already well past his 21st birthday by that stage and was a few months short of his 22nd birthday.
+
+## Prescribed Penalty:
+
+9       The prescribed penalty for the proceeded charge in MAC 901190/2021 under section 354(1) of the Penal Code is up to 2 years’ imprisonment, or with fine or with caning, or with any combination of such punishments.
+
+## Antecedents:
+
+10     Aslan was untraced.
+
+## Mitigation:
+
+11     Learned counsel tendered a written mitigation which made three broad points:
+
+> ■    That Aslan’s feelings of affection towards \[B\] were real and that he had meant her no harm[\[note: 1\]](#Ftn_1);
+
+> ■    That Aslan was young and inexperienced in such matters[\[note: 2\]](#Ftn_2); and
+
+> ■    That Aslan’s actions were fleeting and foolishly impulsive, and that \[B\] has since accepted his apology[\[note: 3\]](#Ftn_3).
+
+12     Given that level of harm and culpability, learned counsel then submitted that probation was appropriate because Aslan was below 21 years old at the time of the offences, and has some family connection in Singapore (his aunt) who was willing to cooperate and assist in his rehabilitation. Learned counsel submitted, in the alternative, that a fine was a sufficient punishment. When prompted by the court, learned counsel conceded that he had not prepared any precedents to justify the plea for probation or for a fine given the facts of the present case. Time was then granted for counsel to get up on the matter. When the case next resumed, no precedents were tendered to justify probation or a fine, but learned counsel nonetheless maintained his plea for one because an imprisonment term “_would mean the end of his life and job opportunities in Singapore_”.[\[note: 4\]](#Ftn_4)
+
+## Prosecution’s Submissions on Sentence:
+
+13     On its part, the prosecution submitted that probation was not appropriate, and that Aslan ought to be sentenced to around 6 weeks’ imprisonment in accordance with the sentencing framework for such offences laid down by the High Court in _Kunasekaran s/o Kalimuthu Somasundaram v PP_ \[2018\]4 SLR 580 (“_Kunasekaran_”). The prosecution submitted that the case fell within Band 1 and highlighted the following[\[note: 5\]](#Ftn_5):
+
+> ■    That Aslan’s actions had clear sexual overtones and evidenced sexual exploitation on his part.
+
+> ■    That the contact was skin-to-skin and intrusive, placing \[B\] at a heightened risk of contracting an infection.
+
+> ■    That the CCTV footage showed \[B\] was restrained by Aslan over a prolonged period before the acts, and after the acts.
+
+> ■    That \[B\] was shocked and was frightened by Aslan’s actions.
+
+> ■    That the act was not an isolated incident – as evidenced by the two other connected charges which were being taken into consideration for the purposes of sentencing.
+
+14     Finally, precedents involving imprisonment terms being imposed for similar acts were also cited in support.
+
+## Decision:
+
+15     I accepted learned counsel’s submission that probation was not completely ruled out just because Aslan was a foreigner: _PP v Fernando Payagula Waduge Malitha Kumar_ <span class="citation">\[2007\] SGHC 23</span>, per VK Rajah J (as he then was) at \[17\]. An examination of Aslan’s circumstances did not however indicate that he was a suitable candidate for that sentencing option. Those circumstances include:
+
+> ■    The fact that Aslan has hardly any roots to speak of in Singapore. He was brought up in Malaysia. His immediate family members continue to remain in Malaysia, and he only came to Singapore recently to work. Whilst I recognized that he did have an aunt living in Singapore, their relationship did not appear especially strong or even that connected. After all, if Aslan had indeed found the fervent object of his sincere and true affections as claimed, that aunt neither knew about it nor was she even on hand to offer any guidance at all on how Aslan ought to treat women. Before me, nothing was also said about whether this aunt held any sway over Aslan at all on such matters, or any matters in general. Nothing was also said about Aslan’s plans here. In the end, the circumstances indicated that Aslan was – like the many others who arrive in the same situation – here primarily to earn a living, and that he remains here only for that purpose. Whilst earnest labour is always appreciated, it provides no shield for wrongdoing. In that regard, I recognized that an imprisonment term may, as learned counsel dramatically put it, “_mean the end of his life and job opportunities in Singapore_”, but that is the plain just deserts awaiting all those – local or foreign – who choose to put their own desires first and fail to heed the laws of this land which aim to afford protection to all. This connects to the next point about Aslan’s circumstances.
+
+> ■    Aslan’s plea of remorse ought to be viewed in the context of his actions in response to the charges. It bears repeating that after he was charged in court, Aslan did not admit to his actions and chose instead to contest the matter. Aslan only changed his plea when he realized that his actions had been graphically captured by CCTV footage. Aslan’s change in plea at the doorstep to trial was exceedingly late, and \[B\] was only relieved from testifying at the last possible moment. Throughout that entire period of contestation, Aslan continued to have his aunt apparently at his side, but Aslan did not exhibit any particular insight into his actions or contrition. Instead, he adopted a wholly unmerited posture which resulted in far more resources being expended in this case, capitulating only when it became apparent that there was no more room to manoeuvre. All this had to be considered in the assessment as to whether Aslan was a suitable candidate who had shown such a sober degree of remorse and special potential for rehabilitation that further resources ought to be expended on him in that direction.
+
+> ■    Finally, the circumstances in which Aslan committed the offences also did not indicate that his offending was so slight as to displace the usual objectives deterrence and retribution in sentencing. As the prosecution pointed out, this was not an isolated incident on Aslan’s part, and the facts showed an entirely unjustified persistence and his refusal to take “no” from a woman for an answer. Even the circumstances of the proceeded charge – as the CCTV shows – were prolonged and involved the victim being forcibly restrained by him over an extended period at that isolated, albeit public, area of the mall. Even if \[B\] has, as the defence claims, since accepted his apology, the fact remains that she was shocked and frightened by his brazen and intimately intrusive actions and distressed enough over them to seek help and to report the matter.
+
+16     In the round, it was my judgment that the circumstances did not indicate that rehabilitation ought to take centre stage in this case and displace all the other sentencing objectives.
+
+17     Next, both parties were in agreement that the _Kunasekaran_ sentencing framework applied and that the present case fell within Band 1. Under this category, fines were appropriate only for cases where minor acts of molestation were involved. When that was not the case, a sentence of up to 5 months’ imprisonment ought to be imposed for cases which present at most one offence specific aggravating factor. For the reasons set out earlier in relation to how Aslan committed the offence, I determined that the custodial threshold had clearly been crossed in this case. A review of the entire incident captured in the CCTV bears this out. This court did not consider the act of restraining a woman in that isolated area for that prolonged period despite her clear protestations, embracing her in that manner without her consent, and kissing her forcibly and directly on her lips without her consent, to be a minor act of molestation. The prosecution also correctly pointed out that the act of kissing a woman directly on her lips was overtly sexual and which indicates the clear sexual gratification being derived by perpetrators of such acts. It was also intimately intrusive and exposed the victim to further unwanted infections. For such acts, the prosecution cited various precedents which indicated that such perpetrators (untraced and who pleaded guilty) have been sentenced to terms of imprisonment ranging from 6 weeks’ to 2 months’ imprisonment.[\[note: 6\]](#Ftn_6) Being unreported decisions, I do not propose to go further into them. It was my judgment that the _Kunasekaran_ framework itself already sufficed to indicate that a custodial term was to be expected in this case. Indeed, no cases were tendered by the defence to indicate that a fine was justified instead for the present actions. Lenient penalties for such acts would send the entirely wrong signals about the liberties which men can take with women. Having considered the offence-specific factors in this case, I determined that an imprisonment term of between 6-8 weeks would have been appropriate; the higher end of the range being justified after the two other connected charges – committed by Aslan on completely separate occasions against the same victim – were taken into consideration. I then turned to consider the mitigating factors in this case. I acknowledged the defence submissions about Aslan being untraced, and his being inexperienced had led to him acting impulsively and that some accommodation could be had on those counts. I agreed as well that his plea of guilt – though entered exceedingly late – did ultimately obviate the need for the victim to testify. All the other matters cited by the defence were however neutral to the final assessment. I accordingly tempered the sentence and determined that a sentence of 6 weeks’ imprisonment was appropriate given his circumstances and the facts of this case, and I so imposed.
+
+18     Aslan has since filed an appeal against the sentence. He is presently on bail pending the appeal.
+
+* * *
+
+[\[note: 1\]](#Ftn_1_1)\[6\]-\[11\], \[26\] of the Mitigation.
+
+[^2]: \[24\] of the Mitigation.
+
+[^3]: \[12\], \[20\], \[25\] of the Mitigation.
+
+[^4]: \[27\] of the Mitigation.
+
+[^5]: \[7\] – \[8\] of the Prosecution’s Skeletal Sentencing Submissions.
+
+[^6]: See Table of Unreported Sentencing Precedents tendered by the Prosecution.
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F27584-SSP.xml)

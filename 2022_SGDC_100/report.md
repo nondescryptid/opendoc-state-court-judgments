@@ -1,0 +1,402 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Manmeet Singh _v_ Teh Mui Eng Judy  
+
+### \[2022\] SGDC 100
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">District Court Suit No 2407 of 2020 (Summonses Nos 1967 &amp; 4441 of 2021)</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">24 May 2022</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Liu Zeming</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Nevinjit Singh J and Lee Nicolette Wanling (Phoenix Law Corporation) for the plaintiff; Rajvant Kaur d/o Jagit Singh (OMNIA Law Chambers LLC) for the defendant</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Manmeet Singh — Teh Mui Eng Judy</td></tr></tbody></table>
+
+Civil Procedure – Amendments – Amendment of pleadings
+
+Civil Procedure – Striking out
+
+24 May 2022
+
+### Deputy Registrar Liu Zeming:
+
+1       A and B commenced an action against C in which A and B claimed that they each beneficially own _half_ of the properties registered in C’s name. They successfully obtain leave to enter judgment against C for a declaration to that effect, and for those properties to be transferred to A and B _equally_. Having obtained the benefit of such a court order, can A still maintain a separate action against D in which A claims to be the owner of _all_ of those properties, and seek a full refund of monies allegedly paid for these properties?
+
+2       Having considered the matter carefully, I answered the question in the negative and struck out the Plaintiff’s claim against the Defendant in this action. These are the grounds of my decision.
+
+## Facts
+
+### Background to the dispute and parties’ positions
+
+3       The Defendant was the sole owner of shares (“**Shares**”) in a company known as The Chillout Place Pte Ltd (“**Company**”).[\[note: 1\]](#Ftn_1)
+
+4       The Plaintiff purportedly purchased the Shares from the Defendant for a price of $240,000 pursuant to an oral agreement (“**Oral Agreement**”) between:[\[note: 2\]](#Ftn_2)
+
+> (a)     the Plaintiff;
+
+> (b)     Shankar Karesenan (“**Shankar**”);
+
+> (c)     Anbalagan s/o Ayyakannu (“**Anba**”); and
+
+> (d)     the Defendant.
+
+5       Between August to October 2019, the Plaintiff purportedly paid the Defendant $181,276 pursuant to the Oral Agreement.[\[note: 3\]](#Ftn_3) The balance of the purchase price was paid to the Defendant through deduction from “_monies collected from the business_” of the Company.[^4]
+
+6       However, the Defendant did not transfer any of the Shares to the Plaintiff. Instead, she transferred all the Shares to Anba.[\[note: 5\]](#Ftn_5) The Plaintiff claimed that this was a breach of the Oral Agreement and/or there was a total failure of consideration, and sought a refund of $181,276 on that basis.
+
+7       This was the Plaintiff’s claim as originally pleaded. The Defendant’s version was, however, very different.
+
+8       The Defendant denied the existence of any alleged Oral Agreement. According to the Defendant, at all material times, she only negotiated with Anba over the sale of the Shares.[\[note: 6\]](#Ftn_6) These negotiations eventually culminated into:
+
+> (a)     a letter of intent signed by the Defendant and Anba on 16 August 2019 (“**LOI**”);[\[note: 7\]](#Ftn_7) and
+
+> (b)     a sale and purchase agreement concluded between the Defendant and Anba dated 12 December 2019 (“**SPA**”).[\[note: 8\]](#Ftn_8)
+
+9       The Plaintiff was neither a party to the LOI nor the SPA, although he stood as a guarantor for some of Anba’s obligations under the LOI.[\[note: 9\]](#Ftn_9)
+
+10     The Defendant admitted to having transferred the Shares to Anba, but her case was that she breached nothing in doing so because she was legally obliged under the SPA to transfer the Shares to Anba.
+
+### Procedural history
+
+11     In October 2020, the Plaintiff commenced this action (“**DC 2407**”) against the Defendant. As mentioned, the claim in DC 2407 was for a refund of the monies which the Plaintiff allegedly paid to the Defendant for the purchase of the Shares pursuant to the Oral Agreement.
+
+12     Unbeknownst to the Defendant, the Plaintiff and Shankar (collectively, the “**DC 614 Plaintiffs**”) commenced a separate action against Anba in March 2020 (i.e. around seven months prior) _vide_ District Court Suit No. 614 of 2020 (“**DC 614**”). In that suit, the DC 614 Plaintiffs sought a declaration that Anba held the Company and the Shares on trust for the DC 614 Plaintiffs and that these shares be “_split equally_” between the DC 614 Plaintiffs. The DC 614 Plaintiffs also claimed, as an alternative to the declaratory reliefs, that Anba reimburse to them the sum of $220,000 being the “_total amount paid towards the consideration for the_ \[Shares\]”.[\[note: 10\]](#Ftn_10)
+
+13     Upon learning of the Plaintiff’s claims in DC 614, the Defendant filed DC/SUM 1967/2021 (“**Striking Out Application**”) in DC 2407 to strike out the entirety of the Plaintiff’s claim on the ground that the Plaintiff had no reasonable cause of action and/or that DC 2407 was frivolous and vexatious.
+
+14     Some nine affidavits were exchanged between the parties and the Striking Out Application came up for hearing before me on 3 September 2021 (“**First Hearing**”). At the First Hearing, I outlined a number of concerns I had with the Plaintiff’s pleadings. I was, in particular, concerned with apparent inconsistencies between the Plaintiff’s pleaded position in DC 2407 and DC 614 (I would elaborate on these at \[22\] to \[25\] and \[30\] to \[34\] below). As a result, the Plaintiff sought and I granted an adjournment of the Striking Out Application, with certain procedural directions given for the Plaintiff to:
+
+> (a)     amend his pleadings in DC 2407; and/or
+
+> (b)     consolidate DC 614 and DC 2407.
+
+15     When the Striking Out Application returned before me on 12 November 2021 (“**Second Hearing**”), the Plaintiff had only just filed the application to amend his statement of claim _vide_ DC/SUM 4441/2021 (“**Amendment Application**”), in breach of the directions given at the First Hearing. The Plaintiff’s counsel also explained that the Plaintiff had not made any application to consolidate DC 614 and DC 2407 because Anba had been adjudicated to be bankrupt and leave of the High Court was required for DC 614 to continue. On that basis, the Plaintiff sought a further adjournment of the Striking Out Application.
+
+16     With some reluctance, I granted the adjournment as I considered it important to my decision in the Striking Out Application whether the pleadings in DC 614 could be amended, and whether DC 614 and DC 2407 could be consolidated. I ordered the Plaintiff to pay the Defendant’s costs for the adjournment of the First and Second Hearings.
+
+17     By the third and last time the Striking Out Application came to be heard before me in April 2022 (together with the Amendment Application) (“**Third Hearing**”), the following had taken place:
+
+> (a)     The DC 614 Plaintiffs had obtained leave from the General Division of the High Court to continue proceedings in DC 614 notwithstanding the bankruptcy order made against Anba; and
+
+> (b)     The DC 614 Plaintiffs had obtained an order in DC 614 to strike out the entirety of Anba’s defence and counterclaim filed in DC 614, with leave to enter judgment against Anba.
+
+18     As I would explain below, these developments had an important bearing on my decision in the Striking Out Application. As a matter of procedure, however, I dealt first with the Amendment Application.
+
+## The Amendment Application
+
+### Preliminary issue – introduction of new amendments
+
+19     The Amendment Application was filed on 12 November 2021 and the proposed amendments were attached to the application (“**Proposed Amendments**”). At the Third Hearing before me on 6 April 2022, the Plaintiff’s lawyer indicated that he had just sent a set of new amendments to the Defendant’s counsel on the evening of 5 April 2022 (“**New Proposed Amendments**”), and wished for the Amendment Application to be determined by reference to the New Proposed Amendments. The Plaintiff’s lawyer indicated that the New Proposed Amendments were “_just to correct typos_” and there should be no prejudice to the Defendant if we proceeded on that instead. The Defendant’s lawyer objected.
+
+20     I did not allow the Plaintiff to rely on the New Proposed Amendments. The Plaintiff had more than sufficient time to put forward the amendments he wished to propose. The New Proposed Amendments were not before me and the Defendant’s lawyer had no meaningful opportunity to consider them. Neither had I. In any event, since the New Proposed Amendments were merely intended to correct typographical errors, then they ought to be relatively immaterial and the Amendment Application should not be further delayed for that reason.
+
+21     The Amendment Application was therefore determined based on the Proposed Amendments attached to the application.
+
+### The Plaintiff’s original pleaded case in DC 2407
+
+22     The Plaintiff’s pleaded case in DC 2407, prior to the Proposed Amendment, was as follows:
+
+> (a)     The Defendant owned the Shares.[\[note: 11\]](#Ftn_11)
+
+> (b)     Pursuant to the Oral Agreement, “_the Defendant agreed to sell to the Plaintiff, and the Plaintiff agreed to buy from the Defendant, the_ \[Shares\] _or a price of S$240,000_”.[\[note: 12\]](#Ftn_12)
+
+> (c)     The Defendant subsequently “_informed the Plaintiff_” that “_she would cause to be executed a share transfer agreement_” which would contain a term that “_the Defendant would transfer 34% of her Shares to the Plaintiff; 33% of her Shares to Shankar; and the remaining 33% of her Shares to_ \[Anba\]”.[\[note: 13\]](#Ftn_13) The Plaintiff did not state that he agreed to vary the Oral Agreement in this manner.
+
+> (d)     Pursuant to the Oral Agreement, the Plaintiff paid S$181,276 to the Defendant.[\[note: 14\]](#Ftn_14)
+
+> (e)     The Defendant was “_fully aware that these monies were for_ \[sic\] _paid to her for purchase of the Shares, and that the Defendant was obligated to transfer the Shares to the Plaintiff_”.[\[note: 15\]](#Ftn_15)
+
+> (f)     However, in breach of the Oral Agreement, the _“Defendant transferred all of the Shares to_ \[Anba\] _and has failed, neglected and/or refused to transfer the Shares to the Plaintiff_”.[\[note: 16\]](#Ftn_16)
+
+> (g)     As a result, the Plaintiff alleges that “_there has been a total failure of consideration_”.[\[note: 17\]](#Ftn_17)
+
+23     The Plaintiff’s original pleaded case was therefore straight-forward: He paid the Defendant S$181,276 for all of the Shares, and did not get any of the Shares.
+
+24     However, when one considered the Plaintiff’s pleaded position in DC 614 and his affidavit evidence in the Striking Out Application, matters are no longer so straight-forward.
+
+### The Plaintiff’s pleaded case in DC 614
+
+25     The DC 614 Plaintiffs’ claims against Anba were as follows:
+
+> (a)     In early 2019, “_the_ \[DC 614\] _Plaintiffs orally agreed with_ \[Anba\]_, that the_ \[DC 614\] _Plaintiffs would provide monies for the purchase of_ \[the Shares\] _from…one Teh Mui Eng Judy_”.[\[note: 18\]](#Ftn_18)
+
+> (b)     As part of this oral agreement (the “**DC 614 Oral Agreement**”), the DC 614 Plaintiffs would pay for the purchase of the Shares, and the Shares “_shall be split equally between_ \[the DC 614 Plaintiffs\] _initially_”, and Anba would eventually “_buy back 16.5% of the shares from each_ \[of the DC 614 Plaintiffs\] _over the course of business_”.[\[note: 19\]](#Ftn_19) In the meantime, Anba would run the business of the Company as an employee and for a salary.[^20]
+
+> (c)     Pursuant to the DC 614 Oral Agreement, the DC 614 Plaintiffs made payments to Teh Mui Eng Judy (i.e. the Defendant in DC 6407) for the Shares. These payments were made between August to October 2019.[\[note: 21\]](#Ftn_21)
+
+> (d)     By late November 2019, Anba stopped reporting to the DC 614 Plaintiffs in respect of the running of the business and there was a “_falling out_” between the DC 614 Plaintiffs and Anba in December 2019. Anba then claimed that the Shares and the business of the Company belonged solely to him (i.e. Anba).[\[note: 22\]](#Ftn_22)
+
+> (e)     In view of this, the DC 614 Plaintiffs sought a declaration that Anba was holding the Shares and the business of the Company on trust for them, and a declaration that the Shares be split equally between the DC 614 Plaintiffs. In the alternative, the DC 614 Plaintiffs sought “_reimbursement of the sum of $220,000_” from Anba.[\[note: 23\]](#Ftn_23)
+
+### The Plaintiff’s affidavit evidence
+
+26     The Plaintiff filed a number of affidavits in the Striking Out Application. Two of these were relevant to the Amendment Application.
+
+27     The first was the Plaintiff’s Affidavit dated 28 May 2021 (“**Plaintiff’s 28 May Affidavit**”). This was an affidavit filed in opposition of the Defendant’s Striking Out Application in which the Plaintiff explained the background to his claim in DC 2407, as follows:
+
+> 8.    On or about August 2019, I entered into an oral agreement…alongside \[Shankar\] and \[Anba\] to purchase shares in the Defendant’s company. The terms of the agreement are as follows:
+
+>> a.     **The Defendant would sell to me the Defendant’s shares in the Company** for a price of S$240,000…;
+
+>> …
+
+>> d.     **Over the course of business, \[Anba\] and Shankar would transfer their shares to me such that we each held an equal third of the \[Shares\];…**
+
+> …
+
+> 22.    I contacted the Defendant personally during this period \[of early 2020\], letting her know that I was the only one providing capital for the purchase of the \[Shares\], and as a result, the \[Shares\] should not be transferred to \[Anba\]. **The Defendant was fully aware that the \[Shares\] were to be transferred to me**….”
+
+(emphasis added in bold)
+
+28     The second affidavit relevant to the Amendment Application was the Plaintiff’s undated affidavit filed on 16 July 2021 in the Striking Out Application (“**Plaintiff’s 16 July Affidavit**”). In this affidavit, the Plaintiff describes the “_agreement_” as follows:[\[note: 24\]](#Ftn_24)
+
+> The first oral agreement…took place about on or around August 2019. \[Anba\], \[Shankar\] and \[the Plaintiff\] entered into an agreement to buy the \[Shares\] from the Defendant pursuant to the following terms:
+
+>> a.    \[The Plaintiff\] would be providing capital for the purchase of the shares.
+
+>> …
+
+>> c.     **The \[Shares\] would be transferred equally to me and Shankar**.
+
+>> …
+
+>> e.     **Later, \[Anba\] would buy shares from me and Shankar – 16.5% from each of us – so that we would each hold 1/3 of the Company’s total shares** (i.e. with the end result being 34% shares to me, 34% to Shankar and 33% to \[Anba\]).
+
+> **This was communicated to the Defendant, and she agreed to follow these terms in the transfer of the Company’s…shares.**
+
+(emphasis added in bold)
+
+### The inconsistencies between the Plaintiff’s various positions
+
+29     The fundamental basis of the Plaintiff’s claim in DC 2407 was that the Defendant had wrongfully transferred the Shares to Anba, and this was in breach of an understanding and/or agreement that the Shares would be transferred in a different manner. But what was that “_different manner_”?
+
+30     This was an issue that vexed me since the First Hearing, because the Plaintiff’s position was inconsistent and confusing:
+
+> (a)     Based on the DC 2407 SOC, the Plaintiff’s case was that “_the Defendant agreed to sell to the Plaintiff, and the Plaintiff agreed to buy from the Defendant, the_ \[Shares\]”.[\[note: 25\]](#Ftn_25) This suggested that the agreement was for the Plaintiff to purchase **100% of the Shares**.
+
+> (b)     Yet, in the same statement of claim, the Plaintiff alleged that the Defendant had “_informed_” the Plaintiff that she (i.e. the Defendant) would transfer **34% of the Shares to the Plaintiff and 33% to each of Anba and Shankar**.[\[note: 26\]](#Ftn_26) The Plaintiff did not say that he agreed to this, that this constituted a variation of the Oral Agreement, or that this was a repudiatory breach of the Oral Agreement.
+
+> (c)     In the DC 614 SOC, the Plaintiff said that the Shares “_shall be split equally_” between the Plaintiff and Shankar, and Anba would later “_buy back_” 16.5% from each of the Plaintiff and Shankar.[\[note: 27\]](#Ftn_27) This meant that **50% of the Shares were to be transferred to the Plaintiff, and the remaining 50% to Shankar**.
+
+> (d)     In the Plaintiff’s 28 May Affidavit, the Plaintiff said that the Defendant would “_sell_ \[the Shares\] _to_ \[the Plaintiff\]” and later “\[Anba\] _and Shankar would transfer their shares to_ \[the Plaintiff\] _such that_ \[they\] _each held an equal third of the_ \[Shares\]”.[\[note: 28\]](#Ftn_28) The first part suggested that **100% of the Shares were to be transferred to the Plaintiff**, whereas the second part suggested that the **Shares should be transferred to Anba and Shankar equally**.
+
+> (e)     In the Plaintiff’s 16 July Affidavit, the “_oral agreement_” outlined by the Plaintiff was largely consistent with his pleaded case in DC 614, namely that the **Shares were to be transferred to the Plaintiff and Shankar equally** (i.e. 50% each), and later Anba would purchase 16.5% of the Shares from each of the Plaintiff and Shankar.
+
+31     For completeness and to be clear, none of these conflicting accounts were pleaded or indicated as legal alternatives as to the terms of the alleged Oral Agreement between the Plaintiff and the Defendant.
+
+32     Through the various versions of the alleged oral agreement(s) put forward by the Plaintiff, one question remained unclear: in what manner was the Defendant _supposed_ to have transferred the Shares?
+
+33     Should the Defendant have transferred 100% of the Shares to the Plaintiff (as alleged in the DC 2407 SOC and the Plaintiff’s 28 May Affidavit)? Should she have transferred 50% of the Shares to the Plaintiff and 50% to Shankar (as alleged in the DC 614 SOC and the Plaintiff’s 16 July Affidavit)? Or should the Defendant have transferred the Shares equally between the Plaintiff, Shankar and Anba from the outset (as suggested in the DC 2407 SOC)? Fundamentally, what was the term of the alleged Oral Agreement between the Plaintiff and the Defendant that the Defendant was supposed to have breached? I was unable to tell.
+
+34     My concerns were made known to the Plaintiff’s lawyer at the First Hearing. As a result, the Plaintiff’s lawyer indicated that the Plaintiff wished to amend his statement of claim in DC 2407 to clarify the position.
+
+35     It was in this context that the Amendment Application was made.
+
+### The Proposed Amendments
+
+36     The Proposed Amendments sought to alter the Plaintiff’s case substantially and now described _three oral agreements_:
+
+> (a)     The first oral agreement was allegedly made between made the Plaintiff, Shankar, Anba and the Defendant in August 2019. Under this first oral agreement, the “_Defendant agreed to sell to the Plaintiff, and the Plaintiff agreed to buy from the Defendant_” the Shares.[\[note: 29\]](#Ftn_29)
+
+> (b)     The Plaintiff, Shankar and Anba then “_planned_” certain terms as part of the first oral agreement, and “_communicated the same to the Defendant_”. This included a term that the Shares “_would first be transferred to the Plaintiff and Shankar_”, and Anba would later buy 16.5% of the Shares from each of them.[\[note: 30\]](#Ftn_30) The Proposed Amendments did not state that the Defendant agreed to these “_planned_” terms.
+
+> (c)     The Defendant later “_informed the Plaintiff_” that she would execute a share transfer agreement which would provide that the Shares be transferred to the Plaintiff, Shankar and Anba in roughly equal proportions.[\[note: 31\]](#Ftn_31) Again, the Proposed Amendments did not state that the Plaintiff agreed to this. Notwithstanding, the Plaintiff pleaded that the Defendant was “_therefore obligated to transfer all her shares to the Plaintiff, Shankar and Anba at 34%, 33% and 33% respectively_”.[^32]
+
+> (d)     The Proposed Amendments then went on to outline the various payments made by the Plaintiff towards the purchase of the Shares between August to October 2019, with an assertion that “_the Defendant was obligated to transfer the_ \[Shares\] _to the Plaintiff on receipt of these monies_”.[\[note: 33\]](#Ftn_33)
+
+> (e)     Then a “_second oral agreement_” was formed in or around October 2021, when the Defendant requested and the Plaintiff agreed that only Anba would be listed as a director of the Company.[\[note: 34\]](#Ftn_34) This “_second oral agreement_” had nothing to do with how and to whom the Shares were to do transferred.
+
+> (f)     The last of this trilogy of oral agreements was allegedly formed in February 2020 (the “**Third Oral Agreement**”). According to the Proposed Amendments, the Plaintiff engaged a debt collection agency whose agent, one Shatish s/o Arjunan (“**Shatish**”), spoke to the Defendant in February 2020. During this conversation, the Defendant allegedly “_promised to the Plaintiff_ \[the Defendant\] _would not transfer the shares to_ \[Anba\] _until the matter was settled between_ \[Anba\] _and the Plaintiff_”. In reliance on this promise, the Plaintiff “_stayed his hand and did not make the Defendant a party to_ \[DC 614\]”.[\[note: 35\]](#Ftn_35)
+
+### My decision on the Amendment Application
+
+37     The law on amendment of pleadings is trite. Generally speaking, amendment of pleadings should be allowed if they would enable the real question and/or issue in controversy between the parties to be determined: see _Review Publishing Co Ltd v Lee Hsien Loong_ \[2010\] 1 SLR(R) 52 at \[107\]. However, amendments which would themselves be liable to be struck out would not be allowed: see _EA Apartments Pte Ltd v Tan Bek and others_ <span class="citation">\[2017\] 3 SLR 559</span> at \[25\]. No useful purpose is achieved in allowing amendments only to see them struck down subsequently: _Symphony Ventures Pte Ltd v DNB Bank ASA, Singapore Branch_ <span class="citation">\[2021\] 5 SLR 1213</span> at \[63\].
+
+38     In this case, I had taken much effort in attempting to understand and reconcile the various versions of the Plaintiff’s case, and summarised them at \[22\] to \[36\] above. Ultimately, I came to the view that the Amendment Application should be dismissed because the Proposed Amendments simply did not make sense. They did not assist in enabling the real question and/or issue in controversy between the parties to be determined.
+
+39     Fundamentally, the Proposed Amendments contained internally inconsistent assertions as to how the Shares were to be transferred by the Defendant. These internal inconsistencies are summarised in the table below.
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="34.42%"><col width="65.58%"></colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Reference to Proposed Amendments</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Manner in which the Shares were to be transferred</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Paragraph [2(a)]</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">100% to Plaintiff</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Paragraphs [2A(b)] and [2A(c)]</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">50% to Plaintiff; 50% to Shankar</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Paragraph [4(a)]</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">34% to Plaintiff; 33% to Shankar; 33% to Anba</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Paragraph [4A]</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">34% to Plaintiff; 33% to Shankar; 33% to Anba</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Paragraph [7]</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">100% to Plaintiff</p></td></tr></tbody></table>
+
+  
+  
+
+40     Not only were the Proposed Amendments _internally inconsistent_, it was also at odds with the Plaintiff’s pleaded position in DC 614, which was that the Shares “_shall be split equally between_ \[the DC 614 Plaintiffs\]” (see \[25(b)\] above).[\[note: 36\]](#Ftn_36)
+
+41     Given the confusing state of affairs, I sought clarification from the Plaintiff’s lawyer at the Third Hearing on what exactly was the Plaintiff’s case as to how much of the Shares should be transferred to the Plaintiff. The Plaintiff’s lawyer then submitted that the agreement between the parties, prior to the Third Oral Agreement, was that 100% of the Shares should have been transferred to the Plaintiff. I would deal with the Third Oral Agreement later (see \[47\] to \[53\] below) but for the present purpose, suffice to note that the Plaintiff’s position at Third Hearing was that _100% of the Shares should have been transferred by the Defendant to the Plaintiff_.
+
+42     Accordingly, the Plaintiff’s positions across the various different settings on the single factual issue as to how the Shares should have been transferred may be summarised in the table below. For completeness, I also set out in **Annex A** the original text from which these differing positions were derived.
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="37.98%"><col width="62.02%"></colgroup><tbody><tr><td align="left" class="b" colspan="2" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Plaintiff’s Position in Proposed Amendments</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Reference</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Manner in which the Shares were to be transferred</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Paragraph [2(a)]</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">100% to Plaintiff</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Paragraphs [2A(b)] and [2A(c)]</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">50% to Plaintiff; 50% to Shankar</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Paragraph [4(a)]</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">34% to Plaintiff; 33% to Shankar; 33% to Anba</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Paragraph [4A]</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">34% to Plaintiff; 33% to Shankar; 33% to Anba</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Paragraph [7]</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">100% to Plaintiff</p></td></tr><tr><td align="left" class="b" colspan="2" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Plaintiff’s Position in DC 614</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Reference to Statement of Claim in DC 614</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Manner in which the Shares were to be transferred</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Paragraph 2(b)</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">50% to Plaintiff; 50% to Shankar</p></td></tr><tr><td align="left" class="b" colspan="2" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Plaintiff’s Position on Affidavit</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Reference</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Manner in which the Shares were to be transferred</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Plaintiff’s 28 May Affidavit Paragraph [8]</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">100% to Plaintiff <u>or</u> 50% to Anba; 50% to Shankar</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Plaintiff’s 16 July Affidavit</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">50% to Plaintiff; 50% to Shankar</p></td></tr><tr><td align="left" class="b" colspan="2" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Plaintiff’s Position at Third Hearing</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Reference</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Manner in which the Shares were to be transferred</b></p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">N.A.</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">100% to Plaintiff</p></td></tr></tbody></table>
+
+  
+  
+
+43     It ought to be self-evident from the foregoing why I could not allow the Amendment Application. Even if I were to look _only_ at the Proposed Amendments, they were internally inconsistent and, for the most part, contradictory to the Plaintiff’s own submissions at the Third Hearing. The Proposed Amendments, instead of clarifying the inconsistencies between the pleadings in DC 614 and DC 2407, imported these inconsistencies in a manner which simply did not make sense. I was unable to see how allowing these amendments would enable the real question and/or issue in controversy between the parties to be determined.
+
+44     To be clear, none of the inconsistencies within the Proposed Amendments were indicated as alternative cases. They were merely conflicting and different accounts as to what was allegedly agreed between the Plaintiff and the Defendant on how the Shares were to be transferred.
+
+45     Even if these conflicting accounts could generously be regarded as alternative cases, I was of the view that the Proposed Amendments were still liable to be struck out as an abuse of process. This was because while a pleader can plead inconsistent causes of action in the alternative, the inconsistency cannot offend common sense. One example of an inconsistency which offends common sense is when the pleader has actual knowledge of which alternative is true: see _Ng Chee Weng v Lim Jit Ming Bryan and another_ <span class="citation">\[2012\] 1 SLR 457</span> at \[37\]; _Liberty Sky Investments Ltd v Aesthetic Medical Partners Pte Ltd and other appeals and another matter_ <span class="citation">\[2020\] 1 SLR 606</span> (“**_Liberty Sky_**”) at \[28\].
+
+46     In this case, the inconsistent accounts offended common sense because the Plaintiff – who was allegedly a party to the oral agreement with the Defendant – must know what was agreed and must be able to take a consistent position on that: see _Chandra Winata Lie v Citibank NA_ <span class="citation">\[2015\] 1 SLR 875</span> at \[74\]; _Liberty Sky_ at \[29\]. Of course, it would be open to the Plaintiff to say, for example, that the initial oral agreement was subsequently varied, and to plead alternative cases based on either the varied or the original agreement, in the event the court found that that was no variation. But that was _not_ the case the Plaintiff was seeking to advance in the Proposed Amendments. The Plaintiff simply described the effect of the _same_ oral agreement with the Defendant differently in different parts of the Proposed Amendments.
+
+47     Insofar as the Proposed Amendments sought to introduce a new cause of action based on the alleged Third Oral Agreement (see \[36(f)\] above), I likewise did not allow the amendment as I found that the case as pleaded was doomed to fail.
+
+48     First, the Third Oral Agreement was not supported by consideration, and therefore unenforceable. According to the Proposed Amendments, the only consideration from the Defendant under the Third Oral Agreement was the promised that she “_would not transfer the shares to_ \[Anba\] _until the matter was settled between_ \[Anba\] _and the Plaintiff_”.[\[note: 37\]](#Ftn_37) However, according to the position taken by the Plaintiff’s lawyer at the Third Hearing and the Plaintiff’s pleaded case (without the Proposed Amendments), the Defendant had already, prior to the Third Oral Agreement, promised to transfer 100% of the Shares to the Plaintiff. In other words, by the Plaintiff’s own case, the Defendant had already promised to the Plaintiff not to transfer the Shares to anyone else (including Anba) but the Plaintiff. In those circumstances, for the Defendant to promise to the Plaintiff _not_ to transfer the Shares to Anba was as good as saying: _I promise to you that I would not breach the agreement that we have already made_. Such a promise was clearly past consideration which could not support an enforceable contract.
+
+49     Further, even if I was wrong on the issue of consideration, I was of the view that the Third Oral Agreement was doomed to fail because its terms were too vague and uncertain to be enforceable.
+
+50     As pleaded, the terms of the Third Oral Agreement was simply that the Defendant “_would not transfer the shares to_ \[Anba\] _until the matter was settled between_ \[Anba\] _and the Plaintiff_”.[\[note: 38\]](#Ftn_38) It was unclear what was meant by the phrase “_the matter was settled_”. It was also unclear for how long the Defendant must hold on to the Shares and what would happen (i.e. how should the Shares be disposed of) if the matter was not “_settled_” between Anba and the Plaintiff. All of these were missing from the Proposed Amendments and not addressed or elaborated upon in any of the affidavits filed by the Plaintiff in the Amendment Application.
+
+51     I sought clarification from the Plaintiff’s lawyer on these issues at the Third Hearing. In response, it was submitted that the terms of the Third Oral Agreement was that the Defendant would hold on to the Shares “_indefinitely_” until a “_consensus was reached between the three gentlemen_”, namely Anba, the Plaintiff and Shankar. I then asked the Plaintiff’s lawyer what would happen if no consensus was reached, and the Plaintiff’s lawyer indicated that he had no instructions on this as there was “_no prospect of no consensus being reached_”.
+
+52     It is trite that for a contract to be valid and enforceable, its terms must be certain and the contract must be complete. If a crucial term is incomprehensible or missing, and there is no objective or reasonable method of ascertaining how the term or agreement is to be carried out, then there is no binding obligation: see _Harwindar Singh s/o Geja Singh v Wong Lok Yung Michael and another_ <span class="citation">\[2015\] 4 SLR 69</span> at \[12\] to \[14\].
+
+53     In this case, I was of the view that the terms of the alleged Third Oral Agreement were too vague and uncertain to be enforceable. Material terms such as the duration for which the Defendant was obliged to “_hold on_” to the Shares, and the identification of a “_trigger event_” upon which the Shares may be disposed of by the Defendant were unclear. Without these crucial terms, how would a court even begin to determine if the alleged agreement had been breached? The Third Oral Agreement as pleaded was simply unworkable.
+
+54     There were a number of other minor issues with the Proposed Amendments which I summarised at **Annex B** below. These were typographical, formatting or definitional errors which, though immaterial to the final outcome of the Amendment Application, demonstrated carelessness and made the review of the Proposed Amendments much more difficult.
+
+55     The Plaintiff had been given ample opportunity to formulate a set of workable amendments to his pleadings. This had not been done. As the Proposed Amendments stood, I was of the view that they were internally inconsistent, unclear, embarrassing and/or doomed to fail. I therefore dismissed the Amendment Application.
+
+## The Striking Out Application
+
+56     Having dismissed the Amendment Application, I proceeded to consider the Defendant’s Striking Out Application. This was adjudicated based on the Plaintiff’s pleading as it stood, without the Proposed Amendments.
+
+57     At the First Hearing, I had indicated to parties that:
+
+> (a)     on the face of the pleadings in DC 2407 alone, I was unable to agree with the Defendant that no reasonable cause of action was disclosed;
+
+> (b)     however, I was of the tentative view that the claim was inconsistent with the Plaintiff’s pleaded case in DC 614, and the Plaintiff should be given an opportunity to present a set of amended pleadings to address this (see \[22\] to \[35\] above).
+
+58     I made it clear to parties at the First Hearing that those views were tentative and did not constitute my decision on the Striking Out Application. The purpose of making those observations were intended to highlight to the Plaintiff the areas of my concern, so that the Plaintiff would have an opportunity to address them. I also made it clear to parties that the Plaintiff’s pleadings were still liable to the struck out if those concern were not addressed.
+
+59      Since the First Hearing, a few events of significance transpired:
+
+> (a)     First, the Plaintiff had put forward the Proposed Amendments and, for the reasons given, I had rejected them.
+
+> (b)     Second, the Plaintiff had obtained leave of court to strike out the entirety of Anba’s defence and counterclaim in DC 614, and to enter judgment against Anba in DC 614.
+
+60     The significance of the first event was obvious, namely that the inconsistencies I was previously concerned with remained unaddressed (see \[22\] to \[33\] above).
+
+61     The second event compounded the problem because by the time of the Third Hearing, the Plaintiff had a crystallised claim against Anba in DC 614 with leave to enter judgment in DC 614 for:
+
+> (a)     a declaration that Anba was holding the Company and the business on trust for the DC 614 Plaintiffs;
+
+> (b)     a declaration that the Shares be split equally between the DC 614 Plaintiffs;
+
+> (c)     alternatively, reimbursement of the sum of $220,000.
+
+62     This created a new issue. Since the Plaintiff had already obtained leave to enter judgment against Anba in respect of the Shares or, alternatively, reimbursement of $220,000 being the purchase price for the Shares, how could the Plaintiff still hope to claim a refund of $181,276 from the Defendant in this suit, being the monies paid for these _same Shares_? The Plaintiff must decide if he wanted all of the Shares, half of the Shares or if he wanted a refund. He could not approbate and reprobate and have them all.
+
+63     In this regard, the doctrine of approbation and reprobation extended to inconsistent positions asserted against _different_ parties in _different_ proceedings, as long as the party has received an _actual benefit_ as a result of the earlier inconsistent position: see _BWG v BWF_ <span class="citation">\[2020\] 1 SLR 1296</span> (“**_BWG_**”) at \[118\].
+
+64     Such was the situation in _First National Bank plc v Walker_ \[2001\] 1 FLR 505 (“**_First National Bank_**”), where the wife was precluded by the doctrine of approbation and reprobation from relying on the defence of undue influence against a bank’s claim for possession, when in earlier matrimonial proceedings the wife had proceeded on the basis that the bank’s charge over the property was valid: see _First National Bank_ at \[82\]. Similarly, in _Twinsectra Ltd and another v Llyods Bank plc_ \[2018\] EWHC 672 (Ch) (“**_Twinsectra_**”), the company was precluded from asserting that certain charges were invalid in an action by the bank, when the same company had, in an earlier separate proceedings against one of its former directors, successfully obtained judgment against the former director for having granted those charges in breach of his duties. Both _First National Bank_ and _Twinsectra_ were cited with approval by the Court of Appeal in _BWG_: see _BWG_ at \[109\]; \[114\] to \[117\].
+
+65     In this case, the Plaintiff’s position in DC 614 and in this suit were clearly inconsistent. In this suit, the Plaintiff said the Defendant agreed to transfer _all_ of the Shares to the Plaintiff. In DC 614, the Plaintiff said he and Shankar were each entitled to receive 50% of the Shares from the Defendant. On the basis of the case which the Plaintiff chose to advance in DC 614, the Plaintiff obtained leave to enter judgment against Anba for a declaration that the Shares are to be split _equally_ between the Plaintiff and Shankar.
+
+66     In my view, that was sufficient “_benefit_” to trigger the doctrine of approbation and reprobation constituted by a judgment: see _BWG_ at \[119\]. The fact that the DC 614 Plaintiffs had not yet extracted the judgment in DC 614 was merely a matter of formality. The fact of the matter was that the Plaintiff had obtained leave to enter judgment in DC 614 on the basis that _half_ of the Shares should have been transferred to him (and the other half to Shankar). The Plaintiff could not then turn around to the Defendant to make a claim that _all_ of the Shares should have been transferred to the Plaintiff, and seek a full refund from the Defendant on that basis.
+
+67     I was conscious that the Plaintiff only obtained leave to enter judgment in DC 614 _after_ the Striking Out Application was made. This was something I took into account in deciding the costs of the Striking Out Application. However, this subsequent and significant development should and must, in my view, be taken into account in deciding the merits of the application as well.  
+
+68     Accordingly, given that the Plaintiff had already obtained leave to enter judgment in DC 614 on basis which was inconsistent with the claims and reliefs sought against the Defendant in DC 2407, I granted the Striking Out Application on the ground that the claim in DC 2407 was frivolous, vexatious and/or an abuse of process.
+
+## Conclusion
+
+69     In conclusion, the Amendment Application was dismissed and the Striking Out Application was allowed. After hearing parties on costs, I ordered that costs of the Amendment Application and the Striking Out Application be paid by the Plaintiff to the Defendant fixed at $5,000 (all in).
+
+70     I thank both counsels for their assistance in these applications.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+## Annex A: Plaintiff’s Inconsistent Pleadings / Statements
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="27.3%"><col width="72.7%"></colgroup><tbody><tr><td align="left" class="b" colspan="2" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Plaintiff’s Position in Proposed Amendments</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Reference</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Original Text</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Paragraph [2(a)]</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">“<em>the Defendant agreed to sell to the Plaintiff, and the Plaintiff agreed to buy from the Defendant, the Defendant’s shares in the Company…</em>”</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Paragraphs [2A(b)] and [2A(c)]</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>“The Plaintiff, Shankar and Anbalagan planned the following terms initially as part of the First Oral Agreement and communicated the same to the Defendant:</em></p><p align="justify" class="Table-Para-1"><em>…</em></p><p align="justify" class="Table-Para-1"><em>(b) The shares of the Company would first be transferred to the Plaintiff and Shankar;</em></p><p align="justify" class="Table-Para-1"><em>(c) The Plaintiff, Shanlar and Anba initially planned for the shares to be transferred 50% to Plaintiff and 50% to Shankar, with Anbalagan buying 16.5% each from the Plaintiff and Shankar (such that each party owned 1/3 of the total shares).”</em></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Paragraph [4(a)]</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>“The Defendant informed the Plaintiff that before the Plaintiff completed payment S$240,000.00 to the Defendant, she would cause to be executed a share transfer agreement in respect of the sale and purchase of the Shares (“Share Transfer Agreement”) on the following terms:</em></p><p align="justify" class="Table-Para-1"><em>a. the Defendant would transfer 34% of her Shares to the Plaintiff; 33% of her Shares to Shankar; and the remaining 33% of her Shares to Anbalagan…”</em></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Paragraph [4A]</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>“The Defendant was therefore obligated to transfer all her shares to the Plaintiff, Shankar and Anba at 34%, 33% and 33% respectively.”</em></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Paragraph [7]</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>“The Defendant was at all material times fully aware that these monies were for paid to her for purchase of the Defendant’s shares in the Company, and that the Defendant was obligated to transfer the said shares to the Plaintiff on receipt of these monies.”</em></p></td></tr><tr><td align="left" class="b" colspan="2" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Plaintiff’s Position in DC 614</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Reference to Statement of Claim in DC 614</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Original Text</b></p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Paragraph 2(b)</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>“Pursuant to the said oral agreement between the parties (“the Oral Agreement”), the following terms were agreed:</em></p><p align="justify" class="Table-Para-1"><em>…</em></p><p align="justify" class="Table-Para-1"><em>(b) That the said shares of the Company shall be split equally between the 1st Plaintiff [i.e. the Plaintiff] and the 2nd Plaintiff [i.e. Shankar] initially;</em></p><p align="justify" class="Table-Para-1"><em>…</em></p><p align="justify" class="Table-Para-1"><em>(f) That the Defendant [i.e. Anba] would buy back 16.5% of the shares from each Plaintiff over the course of business.”</em></p></td></tr></tbody></table>
+
+  
+  
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="27.3%"><col width="72.7%"></colgroup><tbody><tr><td align="left" class="b" colspan="2" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Plaintiff’s Position on Affidavit</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Reference</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Manner in which the Shares were to be transferred</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Plaintiff’s 28 May Affidavit Paragraph [8]</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>“On or about August 2019, I entered into an oral agreement (“the Agreement”) alongside Shankar Karesenan (“Shankar”) and Anbalagan s/o Ayyakannu (“Anbalagan”) to purchase shares in the Defendant’s company. The terms of the agreement are as follows:</em></p><p align="justify" class="Table-Para-1"><em>a. The Defendant would sell to me the Defendant’s shares in the Company for a price of S$240,000.00 (“Shares”);</em></p><p align="justify" class="Table-Para-1"><em>…</em></p><p align="justify" class="Table-Para-1"><em>d. Over the course of business, Anbalagan and Shankar would transfer their shares to me such that we each held an equal third of the Company’s shares…”</em></p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Plaintiff’s 16 July Affidavit Paragraph [10(i)(c) &amp; (e)]</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><em>“The first oral agreement (“OA1”) took place about on or around August 2019. Mr Anabalagan [sic], Mr Shankar and I entered into an agreement to buy the shares of The Chillout Place Pte ltd (“the Company”) from the Defendant pursuant to the following terms:-</em></p><p align="justify" class="Table-Para-1"><em>…</em></p><p align="justify" class="Table-Para-1"><em>(c) The shares would be transferred equally to me and Shankar;</em></p><p align="justify" class="Table-Para-1"><em>…</em></p><p align="justify" class="Table-Para-1"><em>(e) Later, Anbalagan would buy shares from me and Shankar – 16.5% from each of us – so that we would each hold 1/3 of the Company’s total shares (i.e. with the end result being 34% shares to me, 35% to Shankar and 33% to Anbalagan).”</em></p></td></tr></tbody></table>
+
+  
+  
+
+> **Annex B: Other Minor Issues with the Proposed Amendments**
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="40.34%"><col width="59.66%"></colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Reference</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Issue</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Paragraphs [1B] and [2]</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Duplicative definitions for “Shankar” and “Anbalagan”</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Paragraph [2B] and [3]</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Term “Agreement” not defined</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Paragraph [2B(d)]</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Term “Conduct of the Parties” not defined</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Paragraph [2]</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Addition of the words “First Oral” to the word “Agreement” not underlined</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Paragraph [4]</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Addition of the word “of” not underlined</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Paragraph [5]</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Deletion of the second and third sentences not identified by strike-through</p></td></tr></tbody></table>
+
+  
+  
+
+* * *
+
+[\[note: 1\]](#Ftn_1_1)Plaintiff’s Statement of Claim dated 8 October 2020 (“**SOC**”) at \[1\].
+
+[^2]: SOC at \[2(a)\].
+
+[^3]: SOC at \[6\].
+
+[^4]: SOC at \[9\].
+
+[^5]: SOC at \[10\].
+
+[^6]: Defence dated 9 November 2020 (“**Defence**”) at \[6\].
+
+[^7]: Defence at \[9\].
+
+[^8]: Defence at \[13\].
+
+[^9]: Defence at \[9\] & \[10\].
+
+[^10]: Statement of Claim in DC 614 dated 1 March 2020 (“**DC 614 SOC**”) at \[4\].
+
+[^11]: SOC at \[1\].
+
+[^12]: SOC at \[2(a)\].
+
+[^13]: SOC at \[4(a)\].
+
+[^14]: SOC at \[6\].
+
+[^15]: SOC at \[7\].
+
+[^16]: SOC at \[10\].
+
+[^17]: SOC at \[11\].
+
+[^18]: DC 614 SOC at \[1\].
+
+[^19]: DC 614 SOC at \[2(a)\], \[2(b)\] and \[2(f)\].
+
+[^20]: DC 614 SOC at \[1\] and \[2(c)\] and \[2(e)\].
+
+[^21]: DC 614 SOC at \[3\].
+
+[^22]: DC 614 SOC at \[12\] and \[13\].
+
+[^23]: DC 614 SOC at \[20\].
+
+[^24]: Plaintiff’s 16 July Affidavit at \[10\].
+
+[^25]: SOC at \[2(a)\].
+
+[^26]: SOC at \[4\].
+
+[^27]: DC 614 SOC at \[2\].
+
+[^28]: Plaintiff’s 28 May Affidavit at \[8\].
+
+[^29]: Proposed Amendments at \[2(a)\].
+
+[^30]: Proposed Amendments at \[2A(b)\] and \[2A(c)\].
+
+[^31]: Proposed Amendments at \[4(a)\].
+
+[^32]: Proposed Amendments at \[4A\].
+
+[^33]: Proposed Amendments at \[6\] and \[7\].
+
+[^34]: Proposed Amendments at \[9A\].
+
+[^35]: Proposed Amendments at \[9D\].
+
+[^36]: DC 614 SOC at \[2(a)\], \[2(b)\] and \[2(f)\].
+
+[^37]: Proposed Amendments at \[9D\].
+
+[^38]: Proposed Amendments at \[9D\].
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F27552-SSP.xml)

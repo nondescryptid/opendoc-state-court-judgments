@@ -1,0 +1,123 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Nur Atiqah Binte Mohamad Awal  
+
+### \[2022\] SGDC 125
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">District Arrest Case No DAC-903432-2022 and 2 Others, Magistrate's Appeal No 9101-2022-01</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">06 June 2022</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Kessler Soh</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Jeremy Bin (Attorney-General's Chambers) for the Public Prosecutor; Defendant in person.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Nur Atiqah Binte Mohamad Awal</td></tr></tbody></table>
+
+Criminal Law – Offences – Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act, Chapter 65A – Section 44(1)(a) – Assisting another to retain benefits from criminal conduct
+
+Criminal Law – Sentencing – Reformative training
+
+\[LawNet Editorial Note: An appeal to this decision has been filed in MA 9101/2022/01.\]
+
+6 June 2022
+
+### District Judge Kessler Soh:
+
+## Introduction
+
+1       Ms Nur Atiqah Binte Mohamad Awal (“**Atiqah**”), 19 years of age, was involved in an arrangement in which she handed control of bank accounts in her name to an unknown person. The bank accounts were then used to receive various sums of money, which were benefits of criminal conduct. She thus facilitated the control by this person of the benefits of criminal conduct. The offences occurred between May and June 2021. Her older sister, Nur Syafiqah Binte Mohamad Awal (“**Syafiqah**”), was involved in similar offences. (Syafiqah is the appellant in the related appeal, MA 9102-2022-01.)
+
+2       Atiqah faced three charges under the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act, Chapter 65A (“**CDSA**”). On 8 March 2022, she pleaded guilty and was convicted on one charge. The remaining two charges were taken into consideration for the purposes of sentencing. Pre-sentence reports were called to assess her suitability for probation and reformative training. She was unresponsive to the probation officer, and probation was not a suitable sentencing option. She was found suitable to undergo reformative training.
+
+3       On 24 May 2022, she was sentenced to undergo reformative training with a minimum period of detention of 12 months. She filed the present appeal against the sentence on 27 May 2022.
+
+4       The grounds of my decision on the sentence are set out below.
+
+## Plea of Guilt
+
+### Proceeded charge
+
+5       Atiqah pleaded guilty to the following charge (DAC-903432-2022):
+
+> You \[…\] are charged that you, from May to June 2021, in Singapore, were concerned in an arrangement with one “Raymond”, having reasonable grounds to believe that by this arrangement, the control by “Raymond” of his benefits of criminal conduct was facilitated, and having reasonable grounds to believe that “Raymond” is a person who has engaged in criminal conduct, to wit, you gave control of your DBS Account bearing Account Number XXX28-9 to “Raymond”, which bank account was then used to receive sums amounting to S$193,000, which sum was the benefits of criminal conduct, namely, offences of cheating under Section 420 of the Penal Code (Cap 224, 2008 Rev Ed), of “Raymond”, and you have thereby committed an offence under Section 44(1)(a) of the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act (Cap 65A, 2000 Rev Ed) punishable under Section 44(5)(a) of the same.
+
+6       Section 44(1)(a) of the CDSA provides:
+
+> \[A\] person who enters into or is otherwise concerned in an arrangement, knowing or having reasonable grounds to believe that, by the arrangement – (a) the retention or control by or on behalf of another \[…\] of that other person’s benefits from criminal conduct is facilitated (whether by concealment, removal from jurisdiction, transfer to nominees or otherwise) \[…\] and knowing or having reasonable grounds to believe that that other person is a person who engages in or has engaged in criminal conduct or has benefited from criminal conduct shall be guilty of an offence.
+
+7       The offence is punishable under s 44(5) of the CDSA:
+
+> Any person who commits an offence under this section shall be liable on conviction – (a) if the person is an individual, to a fine not exceeding $500,000 or to imprisonment for a term not exceeding 10 years or to both\[.\]
+
+### Facts
+
+8       These were the salient facts.
+
+#### Background
+
+9       From November to December 2020, Atiqah’s mother, Siti Aidah Binte Abdullah (“**Siti**”) became acquainted with an unknown individual known only as “Raymond” on an online dating mobile application. “Raymond” asked Siti to open bank accounts in her name and to send the linked debit cards to him. As Siti was unaware of how to do so, she sought help from her daughter Atiqah, who complied.
+
+10     Subsequently, Atiqah began communicating directly with “Raymond”, whom she knew only as “Daddy”. Atiqah did the following in exchange for payment: (a) relinquishing already-opened bank accounts to “Raymond”; and (b) applying for and sending debit cards to addresses in Malaysia on the instructions of “Raymond”.
+
+11     She had reasonable grounds to believe that these bank accounts were being used for the facilitation of benefits from criminal conduct. She knew that her actions were illicit but continued to do so anyway as she received payment for doing so.
+
+12     Meanwhile, from May to August 2021, the police received reports from multiple victims reporting that they had lost money in a scam. This would generally occur in one of two ways:
+
+> (a)     They would meet an unknown individual on an online dating platform, form a relationship with this person, and subsequently be instructed to transfer large sums of money for various issues cited by the unknown individual.
+
+> (b)     They would come across cryptocurrency investment advertisements on social media platforms. When they responded to these advertisements, they were instructed to deposit monies into specific bank accounts in order to invest in Bitcoin.
+
+Subsequently, being deceived by these scams, the victims would transfer money to one of Atiqah’s bank accounts.
+
+#### Facts relating to the charge
+
+13     From May to June 2021, Atiqah was concerned in an arrangement with “Raymond”, having reasonable grounds to believe that by the arrangement, the control of “Raymond’s” benefits from criminal conduct would be facilitated, and having reasonable grounds to believe that “Raymond” was one who engaged in criminal conduct.
+
+14     Pursuant to this arrangement, she provided “Raymond” with her iBanking login credentials to two of her POSB Bank Accounts bearing account numbers XXX52-1 and XXX72-6. She also provided “Raymond” with a one-time password sent to her mobile phone in order for “Raymond” to login to these accounts. The control of these accounts therefore allowed “Raymond” to open a DBS bank account bearing account number XXX28-9 (“DBS 289”) on 30 May 2021 in her name using DBS’s iBanking service. On the instructions of “Raymond”, and under the guidance of her older sister Syafiqah, Atiqah further used DBS’s Video Teller Machines to apply for multiple duplicate debit cards linked to DBS 289, which she then passed to her mother Siti in order for them to be sent to “Raymond”.
+
+15     In total, benefits of criminal conduct of at least S$193,000 were transacted through the account.
+
+16     In total, Atiqah profited at least S$200 from her arrangements with “Raymond” to facilitate the benefits of criminal conduct.
+
+## Sentencing
+
+### Charges taken into consideration
+
+17     Atiqah admitted to two other similar offences, which were taken into consideration (TIC) for the purpose of sentencing. The salient details of these TIC offences were as follows:
+
+> (a)     in May 2021 she gave control of her DBS Account bearing Account Number XXX00-5 to “Raymond”, which bank account was then used to receive sums amounting to S$3,000 (DAC-903430-2022); and
+
+> (b)     from May 2021 to June 2021, she gave control of her DBS Account bearing Account Number XXX91-3 to “Raymond”, which bank account was then used to receive sums amounting to S$41,060 (DAC-903431-2022).
+
+### Calling of pre-sentence reports
+
+18     In a brief oral submission, the prosecution urged the court to call for pre-sentence reports for probation and reformative training. Atiqah pleaded for leniency.
+
+19     In my judgment, considering that Atiqah was a young offender with no prior convictions, the dominant sentencing consideration was rehabilitation. Her offences, however, were serious. She had, in effect, facilitated acts of money-laundering by a person unknown to her. She did so for personal, financial gain despite being aware that the transactions were illicit. Such conduct had to deterred. Given her young age, I considered both probation and reformative training to be relevant sentencing options for her rehabilitation. Accordingly, I called for pre-sentence reports both for probation and for reformative training.
+
+### Probation not a viable sentencing option
+
+20     As it transpired, probation was not a viable sentencing option. The probation officer (PO) was unable to prepare a probation report for Atiqah as she and her family failed to cooperate during social investigations by the probation officer. The following was reported by the probation officer in an ITC (Information to Court) dated 18 May 2022:
+
+> 3.2    PO managed to have a first session with her and her mother on 6 Apr 2022. PO scheduled a 2nd interview session with Atiqah on 19 Apr 2022. However, she defaulted the session and did not respond to PO’s calls to her that day. PO contacted her mother who informed that she has not returned home since she left her house the previous evening. She failed to call back and did not respond to PO’s calls after that. PO sent her a text message to inform that her next scheduled appointment would be on 20 Apr 2022 but she replied that she would not be at home on 20 Apr 2022 and was going out to look for a job. PO rescheduled her appointment to 22 Apr 2022 and she responded she would be able to attend. However, Atiqah failed to respond when PO video called her via WhatsApp, hence defaulting the session again.
+
+> 3.3    PO made several attempts to call to reschedule her appointment on 5 May 2022, 6 May 2022 and 9 May 2022. On 8 May 2022 she sent a text message to PO informing that she had a medical appointment on 9 May 2022 and could not attend POs scheduled session at 10am. A subsequent check revealed that her medical appointment was at 2.40pm actually. She then suggested to have a session with PO on 10 May 2022 and promised that she would co-operate with PO this time. However, Atiqah again failed to respond on 10 May 2022 when PO called her at the scheduled time. She also did not provide any reasons for failing to respond to POs calls.
+
+> 3.4    PO rescheduled her \[appointment\] and she agreed to report for an interview session with PO at PCRS office on 11 May 2022 at 10am. However she failed to turn up at PCRS office despite agreeing to do so the previous day. She did not give any reasons for failing to turn up. PO then rescheduled her appointment for a video call to 13 May 2022 at 10am but she said she would only be available at 2pm. However when PO contacted her, she again failed to respond to PO’s calls and did not reply to PO’s text messages either. On 17 May 2022 she replied to say she was unwell and hence did not report to PO as agreed on 11 May 2022. As of 18 May 2022, Atiqah continues to be defensive of her unresponsiveness.
+
+> 3.5    PO had also attempted to contact the mother whenever PO was unable to contact Atiqah. However, her mother was also not responsive to POs calls and texts.
+
+> 3.6    In view of Atiqah and her mother s non-responsiveness, PO is unable to conduct proper social investigations in order to prepare the Probation Suitability Report for Atiqah. She had also failed to provide PO with the relevant documents that PO asked for the preparation of the PSR. She had also breached her time restriction despite having been placed on Court e-tag. Her behaviour so far indicated that she has not shown motivation nor seriousness in accepting another chance extended by the Court. \[…\]
+
+21     As reported by the probation officer, Atiqah and her mother were unresponsive to attempts to contact them. The probation officer had attempted to contact them numerous times, without success. Atiqah had shown complete nonchalance towards her rehabilitation. She did not comply with time restrictions. Probation would require the active participation of the offender as well as the support of the family in the rehabilitative efforts of the offender. These were plainly absent in Atiqah’s case.
+
+### Suitable to undergo reformative training
+
+22     In the pre-sentence report for reformative training dated 23 May 2022, Atiqah was found to be physically and mentally suitable to undergo the reformative training regime. Having considered her history of offending; presenting behaviour; and various criminogenic needs domains, such as her family, education, companions, drug problems, recreation, personality and behaviour, attitude and orientation, the report concluded:
+
+> Atiqah presented with multiple needs that require intervention, such as in the areas of her family, companions, employment, leisure, self-management and thinking supportive of crime. She would also benefit from interventions to maintain her abstinence from drugs.
+
+23     The report went on to recommend that Atiqah undergo “Level 2 intensity of rehabilitation” if sentenced to reformative training.
+
+### Sentence imposed
+
+24     Given that probation was not viable, the only available rehabilitative sentencing option for Atiqah was reformative training. The prosecution submitted that Atiqah ought to be sentenced to reformative training. I accepted the submission of the prosecution that reformative training would be an appropriate sentencing option as the offences were serious in nature and called for general deterrence. Reformative training would serve a much-needed point of intervention for Atiqah, to facilitate her rehabilitation in a structured environment.
+
+25     I would also add that a community sentence was not available in the present case. Community sentences are provided under Part 17 of the Criminal Procedure Code 2010 (“CPC”). Such a sentencing option is generally not available if the offence is punishable with a term of imprisonment which exceeds 3 years: s 337(1)(i) of the CPC. Given that the present offences are punishable with imprisonment for up to 10 years, community sentences are excluded.
+
+26     Accordingly, with the view to Atiqah’s rehabilitation, I imposed a sentence of reformative training with a minimum period of detention of 12 months, in accordance with the recommendations in the reformative training report. The sentence took effect from the date on which the sentence was passed, on 24 May 2022. Atiqah is presently serving the sentence.
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F27607-SSP.xml)
