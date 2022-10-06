@@ -1,0 +1,369 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ GEZ  
+
+### \[2022\] SGMC 59
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Magistrate's Court Notice No 901656 of 2020, Magistrate's Appeals No MA-9111-2022-01</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">28 September 2022</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">Magistrates Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Eddy Tham Tong Kong</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Deputy Public Prosecutor Colin Ng (Attorney-General's Chambers) for the Public Prosecutor; Defence Counsel Ong Ying Ping (M/s Ong Ying Ping ESQ) for the Accused.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — GEZ</td></tr></tbody></table>
+
+Criminal Law – Offences – Insult the modesty of a woman – Section 509 of the Penal Code (Cap 224, 2008 Rev Ed)
+
+Criminal Procedure and Sentencing – Trials – End of Prosecution’s Case – Electing to remain silent
+
+Criminal Procedure and Sentencing – Sentencing – Principles
+
+\[LawNet Editorial Note: An appeal to this decision has been filed in MA 9111/2022/01.\]
+
+28 September 2022
+
+### District Judge Eddy Tham Tong Kong:
+
+## INTRODUCTION
+
+1       The Accused claimed trial before me to one charge of insulting the modesty of a woman, namely his then wife (“the Complainant”) by recording her while she was in the bathroom, an offence under section 509 of the Penal Code, Chapter 224, 2008 Ed. (“the Penal Code”).
+
+2       At the end of the prosecution’s case, when I called upon the Accused to enter his defence, he elected to remain silent. Thereafter, upon hearing submissions from both parties, I convicted the Accused of this charge.
+
+3       I sentenced the Accused to 12 weeks’ imprisonment.
+
+4       The Accused being dissatisfied with the decision of the Court has filed an appeal against both conviction and sentence. He has been released on bail pending the hearing of the appeal. I now set out the grounds of my decision.
+
+### The charge
+
+5       The charge to which Accused had claimed trial to is as follows:
+
+> you on 23 August 2019, at or about 8.00am, at the master bedroom toilet of Blk \[XX\] Jalan Bukit Merah #\[XXX\]\], Singapore, intending to insult the modesty of \[the Complainant\], did intrude upon the privacy of the said woman, to wit, by placing your mobile phone in the master bedroom toilet and using it to video record her while she was showering and changing in the said toilet, and you have thereby committed an offence punishable under Section 509 of the Penal Code (Cap 224, 2008 Rev Ed).
+
+## THE PROSECUTION’S CASE
+
+### Background information
+
+6       The main witness of the Prosecution is the Complainant (hereinafter to be referred to as V”). V was married to the Accused at the material time. They have a 10 -year old son, E, from this marriage. However, by the time of the trial, V and the Accused had already divorced. Divorce proceedings were started in December 2019 and was finalised in June or October 2021.
+
+7       At the material time they were living together in a HDB flat as set out in the charge (“the Flat”).
+
+8       After the divorce proceedings between parties commenced in December 2019, V and E moved out to the Flat to live with her parents. The Accused obtained joint custody of E with V having sole care and control of E.
+
+### Facts leading to the filing of the police report
+
+#### The police report
+
+9       On 23 August 2019, V lodged a police report stating that the Accused had placed a mobile phone in the toilet and used it to record her while she was showering and changing in the said toilet.
+
+#### Circumstances leading to the discovery of the iPhone
+
+10     On 23 August 2019, V woke up at around 7.00am. She noted that the Accused was lying on the bed in the master bedroom. V then entered the master bedroom toilet (“the Toilet”). After urinating and defecating, she removed her clothes at the ‘dry area’ and made her way to the ‘wet area’ to take a shower. She stood in front of the showerhead and used the toiletries placed on the rack beside the showerhead while she was showering. She spent about 20 to 25 minutes in the shower.
+
+11     After her shower, she put her clothes back on and went back to her bedroom to put on her makeup. At this time, she noticed that the Accused was still lying on the bed in the master bedroom.
+
+12     After putting on her makeup, she retrieved her work attire and intended to change into it in the toilet. She realised that the Accused was in the Toilet. She waited for a while before knocking on the toilet door as she needed to go to work. When the Accused opened the toilet door and came out, V entered the Toilet. She hung her work attire at the rack that was near the toilet bowl at the ‘dry area’ before removing her shorts and T-shirt/singlet to relieve herself in the toilet bowl.
+
+13     After relieving herself, she made her way to the ‘wet area’, took the showerhead and squat down to wash her private part. It was at this time that she discovered a silver colour iPhone (“the iPhone”) which was placed behind or between the bottles of shampoo on the floor of the ‘wet area’ of the Toilet.
+
+14     The camera of the iPhone was facing towards her direction. She knew that the iPhone belonged to the Accused as she had seen him using it before. She picked it up and found that the recording function of the iPhone was turned on. She stopped the recording and inspected the gallery folder in the iPhone.
+
+15     On inspection of the iPhone, the victim discovered three videos in the gallery folder with the following contents:
+
+> (a)     The first video (“the First Video”) was a video of the Accused placing the iPhone at the area around the bottles of shampoo that were on floor before walking around the ‘wet area’ of the Toilet to ensure that the placement of the iPhone was in order. The Victim noticed that the time stated in the video was 3.32am. She did not view the contents of the First Video in its entirety as she was feeling scared after discovering that the Accused might have recorded her showering and changing in the Toilet. She immediately skipped to the second video.
+
+> (b) The second video (“the Second Video”) was a video of the victim walking into the Toilet and closing the door of the Toilet. She was wearing the same attire that she wore to the Toilet in the morning of 23 August 2019. She did not view the contents of the Second Video in its entirety as she was feeling scared after realising that the Accused might have recorded her showering and changing in the Toilet. She skipped to the third video.
+
+> (c) The third video (“the Third Video”) was a video of the Accused wiping off the water droplets on the glass partition between the ‘dry area’ and the ‘wet area’ of the Toilet. The Accused then placed the iPhone back on the floor and ensured that the placement of the iPhone was in order before walking out of the Toilet. Shortly after, V entered the Toilet. She removed her clothes, relieved herself and made her way to the ‘wet area’ of the Toilet. She squatted down to wash her private part and discovered the iPhone. The video came to an end as she immediately stopped the recording upon discovering the iPhone.
+
+#### Confrontation with the Accused
+
+16     V felt scared, insulted, ashamed and confused. She did not wish for anyone to have sight of her naked videos and deleted all three videos from the iPhone. Thereafter she hid the iPhone in the pocket of her denim skirt with the intention of inspecting the contents of the iPhone later as she was afraid that the videos were still present in the deleted folder and she did not want anyone else to see them.
+
+17     As she exited the Toilet, the Accused got up from the bed and made his way into the Toilet. He came out shortly and confronted V asking her “Where is it?” V assumed he was referring to the iPhone but tried to feign ignorance, saying “I don’t know what you are talking about”.
+
+18     However, the Accused managed to find the iPhone after searching her bag and body. V tried to get back the iPhone but the Accused refused to give it to her. V then demanded to inspect the contents of the iPhone to ensure that the videos were deleted. However, the Accused refused to hand over the iPhone to her. Instead, he unlocked the iPhone with his passcode, and held onto the iPhone while letting V inspect it.
+
+19     After checking that the videos in the iPhone were deleted, the V confronted the Accused regarding the recording of the videos, asking him why he had recorded the videos. In response, the Accused told the V
+
+“Because we didn’t intimate for a (sic) very long”[\[note: 1\]](#Ftn_1)
+
+and that he was returning to Saudi Arabia.
+
+20     V understood the Accused’s response to mean that he wanted the videos for his own viewing pleasure. She explained that they had ceased all forms of sexual intimacy about two years after E was born.
+
+#### The lodging of the police report
+
+21     After leaving the flat, V broke down and confided in her colleague, one S, who was also a friend of the Accused. She told S that of her discovery of the mobile phone with the recording of her naked body by the Accused.
+
+22     V had stated that she felt very scared, insulted and ashamed when she saw the videos[\[note: 2\]](#Ftn_2). She subsequently lodged a police report on the same day at or about 4.57pm.
+
+### The police investigations
+
+23     After the police report was lodged, the Investigating Officer, Inspector Lim Chew Boon (“IO Lim”) had requested V to carry out a video re-enactment by placing her handphone at the same location in the toilet to determine if the recording was able to capture her body. She did as requested from her parents’ residence as she had moved out of the matrimonial flat by then. The video is admitted as P6. In the video, after positioning the handphone, V could be seen walking around from her feet upwards all the way to her head at some point and when she was nearer the camera, up to her chest area. Towards the last part, when she squatted, the recording was able to capture her whole body.
+
+#### PW2 Investigation Officer Lim Chew Boon’s evidence
+
+24     IO Lim testified that he had requested V to carry out a re-enactment to record a video to determine if the placement of the iPhone at the location she had found it was able to capture V’s naked body. IO Lim clarified that the re-enactment was conducted at V’s parents’ apartment instead of at the Flat. He explained that as V had left the matrimonial flat by then, he did not wish to put her in a difficult position due to the acrimonious relationship between her and the Accused and his family. Nonetheless, he was of the view that the fact of the re-enactment being carried out at a different location did not impinge on the accuracy of the re-enactment. He had instructed V to place her handphone in the same position as she has found the iPhone on that day. He concluded that the placement of the iPhone at the material time would have been able to capture V’s naked body as evidenced by the video recording done by V.
+
+#### Accused’s 2 statements recorded by the police
+
+25     The Prosecution adduced 2 statements of the Accused recorded by IO Lim under s 22 of the Criminal Procedure Code (Cap 68, 2012 Rev Ed) (“CPC”)– Exhibits P7 and P8. The Defence Counsel after checking with the Accused confirmed that they have no objections for the statements to be admitted. In other words, the statements were not being challenged on the ground that they were involuntarily made by the Accused.
+
+26     In P7, the Accused admitted that he had placed his handphone behind a shampoo bottle and had activated the recording mode. However, he claimed that he placed the handphone on the top rack. He gave the reason for setting up his handphone in this way. It was to capture V using her handphone in the hope that the recording would reveal her access code to unlock her handphone. The Accused explained that he wanted to gather evidence of adultery against V and needed access to her handphone for that purpose.
+
+27     However, in P8, a further statement recorded, when the Accused was asked to confirm the location of his handphone in the toilet, he elaborated that whilst he had initially wanted to place his handphone on the top rack, he subsequently placed it on the floor at the corner of the shower area when he was not able to make his handphone upright.
+
+#### The whereabouts of the Accused’s iPhone
+
+28     During the recording of P7 on 23 August 2019 at Clementi Police Division, IO Lim had asked the Accused for the iPhone. However, the Accused informed that he did not bring the iPhone with him. IO Lim then told the Accused to hold on to the iPhone and that the Investigation Officer who was in charge of the case would contact the Accused to retrieve the iPhone. When IO Lim was subsequently assigned to take over investigations sometime in December 2019, he discovered that the iPhone was not seized. IO Lim thus contacted the Accused on 7 January 2020[\[note: 3\]](#Ftn_3) to request for the iPhone. However, the Accused claimed that the iPhone was faulty, and he had given it away during Christmas.
+
+29     IO Lim further added that he did not further pursue to find out who the Accused had allegedly given away the handphone to in order to seize it since the Accused had already admitted to the act of placing handphone in the toilet and activating the recording mode of the handphone
+
+## THE ANALYSIS OF THE EVIDENCE
+
+### Effect of the Accused electing to remain silent
+
+30     Before I move into the analysis of the evidence, I pause here to first emphasise that the Accused had elected to remain silent. Hence, he had failed to give any evidence to challenge the evidence given by V. The analysis of V’s version of the material facts will thus be premised on the fact that it remained substantially unchallenged by the Accused.
+
+31     In addition, section 291(3) of the Criminal Procedure Code 2010 (“the CPC”), provides that where an accused, who has been called to give evidence in his defence to the charge, refuses to do so, the court, “in deciding whether the accused is guilty of the offence, may draw such inferences from the refusal as appears proper”.
+
+### The elements of the charge
+
+32     I will now move on to what would have to be required to be proven by the Prosecution in order to secure a conviction on the charge under section 509 of the Penal Code.
+
+33     The Prosecution would have to prove that the Accused did:
+
+> (i)     intrude upon the privacy of V by placing his mobile phone in the master bedroom toilet and using it to video record her while she was showering and changing in the said toilet, and
+
+> (ii)     that such an intrusion was with the intent of insulting her modesty.
+
+#### Was there any intrusion upon V’s privacy?
+
+34     On the first element, I found clearly that this has been proven beyond a reasonable doubt. The Accused had not challenged V whilst she was on the stand on the following aspects of her evidence:
+
+> (a)     She had gone twice into the bathroom, once to shower and once to wash her private part after she had urinated.
+
+> (b)     Whilst squatting down to wash her private part, V discovered the Accused’s iPhone had been placed on the floor of the shower area between some bottles and that it was in a recording mode.
+
+> (c)     After stopping the recording, V had checked and seen 3 videos in the gallery, one of which had captured her entering the toilet and another was of her relieving herself and then squatting down to wash her private part whilst naked.
+
+> (d)     The Accused had after searching V, managed to retrieve the iPhone and allowed V to check that all the recordings have been deleted.
+
+> (e)     V confronted the Accused about the videos and the Accused’s response was that he did it because they had not been “intimate” for a long time.
+
+> (f)     Her re-enactment of the video recording based on the distance of what she saw on that day[\[note: 4\]](#Ftn_4)
+
+35     There was a mere bare assertion that there was no recording of her in the nude during the cross-examination of V[\[note: 5\]](#Ftn_5). This bare challenge that there was no nude recording of her was clearly made without any foundation. This was because the Accused had admitted in his statements to the police that he had placed his camera on the floor of the toilet and had set it in a recording mode.
+
+36     Further, based on the unchallenged account of V, she had already deleted the videos and the Accused only had the handphone for a short while after snatching it off her before allowing her to check his handphone to ensure that the videos had been deleted. As such, the Accused would not have himself been in the position to check to see whether the recording had been successfully done of the V in the nude.
+
+37     I found V’s evidence highly believable given that her account of finding the iPhone placed on the floor of the shower toilet with the recording mode turned on has already been corroborated by the Accused’s admission in his police statements. Hence, this is not a case where the Prosecution was relying on the evidence of a sole prosecution witness. Accordingly, this is not a case where the test is one of “unusually convincing” based on uncorroborated evidence of a sole witness.
+
+38     There is thus no doubt that there was indeed at least one recording of the V in the nude in respect of the Third Video as was confirmed by the direct testimony of V. This video was of V squatting down and washing her private part during the second time she had entered the bathroom on that morning.
+
+39     If there is any doubt, it would only be in respect of whether there was also a second video of her in the nude showering when she went into the bathroom the first time. This was because V did not finish watching the Second Video. All she saw was of her entering the toilet and closing the door. She stopped watching the video as she was afraid of seeing her being recorded in the nude.
+
+40     However, as the iPhone was not recovered due to the Accused allegedly giving away the handphone despite being told to hold on to it, the police did not have the chance to check the contents of the iPhone. The police thus did not have an opportunity to investigate where there had been any incriminating videos stored in the iPhone or to attempt retrieving any deleted videos from it.
+
+41     I found that V’s account on this Second Video highly believable. There was no need for her to say that she stopped watching this video if she wanted to embellish her evidence against the Accused. After all, she had already stated that she saw the Third Video of her being naked. I found that she had shown candour in admitting that she did not watch the crucial part of her in the nude when showering. In all likelihood the Second Video would have gone on to reveal a footage of V being naked whilst on the toilet bowl and subsequently in the shower area. However, given that there is no evidence that this was successfully captured, I would not be in a position to make a conclusive finding on this. However, this is not crucial given that it has been proven successfully that the Third Video did record V in the nude washing her private part. I agree with Prosecution this act of washing of her private part can be considered as part of showering process and therefore the Accused had clearly intruded on the privacy of V.
+
+42     In any case, even if the iPhone did not successfully capture V changing and showering in the nude, the undisputed fact that the Accused had placed his handphone with the recording mode on in the shower area, knowing full well that V would be using the toilet, would have clearly established the element of intruding upon the privacy of V.
+
+43     I now turn to the evidence of IO Lim on the re-enactment of the recording of the handphone. His evidence that based on the re-enactment he was able to establish that the handphone placed in the position on the floor of the shower would be able to successfully capture V in the nude was not challenged under cross-examination by the Defence. The only criticism that could be raised against IO Lim was that the re-enactment was not carried out at the actual scene of the alleged incident and that the IO himself did not personally supervise the re-enactment of the recording. However, these omissions were not crucial as I am satisfied it did not impinge on the accuracy of the recording. l had the opportunity to view P6 and the footage was consistent with the phone being placed on the floor on the corner of the bathroom as it showed more of the lower part of V’s body with the feet being more at the front of the screen. In any case, it was open to the Defence to similarly re-enact the recording to prove that any recording by a phone placed on the floor in that position would not have been able to capture the body of V. No such attempt was made and no evidence was tendered to contradict the evidence of P6.
+
+44     Accordingly, I found that it has been proven and overwhelmingly established that the Accused had indeed placed his handphone on the floor of the toilet in the shower area and had turned on the recording of the handphone knowing that V would be entering the bathroom to use it. Such an act was clearly done without the consent of V and the Accused had intruded upon her privacy. This finding thus made out the first element of the charge which is the _actus reus_ of the offence.
+
+#### Was the act done with intent insult the modesty of V?
+
+45     I now turn to the second element of the offence, which is whether the Accused had committed the act with the intention of insulting V’s modesty.
+
+46     The Accused in his police statement tried to justify his action by stating that it was to obtain V’s password in order to gain access to her phone in the hope that he would be able to obtain evidence of V’s adulterous affair.
+
+47     I have no hesitation in dismissing his explanation as being clearly an afterthought on his part. If he really wanted the recording to capture the access code to unlock the phone, he would have to position the camera from a height above V and angle it downwards. It would be patently obvious to him that it would be impossible for the recording to capture that action of V if it was placed on the floor of the toilet. V would naturally be holding her handphone to face her as she keys in the access code and thus only the back of the phone would be captured by the iPhone when it is angled upwards from the floor of the toilet.
+
+48     I found that his spontaneous answer when confronted by V that he did it because they had not had any intimate relationship for a long time as clearly closer to the truth and consistent with where he had placed the iPhone.
+
+49     I therefore found that he had intentionally wanted to record V in the nude when he placed his handphone on the toilet floor and turned on the recording mode. Such an intention would clearly amount to insulting V’s modesty. As such, the second element of the offence that the Accused had committed the offending act with the intention of insulting the modesty has been firmly established.
+
+### Accused elected to remain silent
+
+50     Given the preponderance of evidence against the Accused, it behoved on the Accused to give his defence when called upon to do so. This is a case clearly where if he remained silent, it would be appropriate and necessary to draw an adverse inference against the Accused when determining whether or not he is guilty of the offence.
+
+51     As set out above, section 291(3) of the CPC provides that in such a case where an accused refuses to give evidence, the court, “in deciding whether the accused is guilty of the offence, may draw such inferences from the refusal as appears proper”.
+
+52     The irresistible inference from the Accused’s silence is that he has nothing contrary to offer against the evidence that he had placed the iPhone in a recording mode in corner of the toilet shower floor area with the intention of capturing the private acts of V in the nude. I accordingly drew an adverse inference against the Accused which further reinforced my conclusion that the charge has been proven beyond a reasonable doubt.
+
+53     I now turn to the arguments raised by the Defence both during cross-examination and in the closing submissions.
+
+## ARGUMENTS RAISED BY THE DEFENCE
+
+### Ulterior motive of V
+
+54     It was put to V during cross-examination that she did not start divorce proceedings immediately as she was intending to use the complaint of the recording as a bargaining chip to deter the Accused from raising allegation of his association with one X[\[note: 6\]](#Ftn_6). The Defence Counsel repeated this line of questioning when he referred to a letter which V signed, as evidence that she had agreed to withdraw the charge against the Accused as part of a global settlement on the divorce in which the Accused also agreed to withdraw allegation of her adulterous relationship with X[^7].
+
+55     I found this argument wholly unmeritorious and misconceived. The sequence of events would make it clear that this complaint could not have been trumped up in order to secure any advantage in the subsequent divorce proceedings. At the material time of the incident when the recording was done, it was the Accused’s case that he had merely suspected that V was in an adulterous relationship. However, he himself had not accused her or confronted her directly with his suspicion. There was no discussion about her relationship with X and no petition for divorce had been filed. Therefore, it would be highly unlikely for V to trump up a false report in anticipation of a petition for divorce being filed against her and to use the report to deter the Accused from raising the issue of her relationship with X.
+
+56     I further found that the fact that V had included this allegation of the nude recording in the subsequent divorce proceedings is a neutral factor. V was clearly entitled to refer to this alleged act of the Accused as part of her case about the unreasonable behaviour of the Accused. Her subsequent agreement to withdraw this allegation as part of a global settlement with the Accused which included the removal of X as a co-defendant by the Accused in the divorce proceedings in my view are but part and parcel of divorce litigation process whereby parties agree to settle matters amicably through mutual withdrawal of certain contentious allegations. Such withdrawal of allegations does not add or detract from the truthfulness of those allegations.
+
+### V wanting to withdraw her allegation more than once
+
+57     The Defence tried to attack the credibility of V from another angle in respect of her agreement to withdraw this allegation in the divorce proceedings. The same argument was also made of a letter addressed to the Attorney-General’s Chambers (“AGC”) signed by her stating that she wanted to withdraw her complaint against the Accused and appealing for the charge to be withdrawn (exhibit D2). The Defence argued that such acts of V are clearly inconsistent with her feeling “insulted, scared and confused” by the videos she allegedly saw on the Accused’s iPhone.
+
+58     V gave a clear and credible response to these assertions. She explained that although she did not wish to withdraw her complaint against the Accused, she nonetheless signed the letter as she was told that the global settlement was conditional upon her signing this letter. At that point of time, the divorce matter was adversely affecting her mental health as well as E. Hence, she signed the letter in order to expeditiously resolve the matter. A copy was given to her for her to send it to AGC but ultimately, she did not do so as she wanted to leave it to AGC as to whether to proceed against the Accused.
+
+59     IO Lim also confirmed that he had checked with V upon receipt of D2 which was enclosed as part of the Defence’s representations to AGC. V was consistent in that she similarly informed IO Lim that she had signed the document as part of a global divorce settlement and she did not intend for the charge to be withdrawn.
+
+60     I accepted her explanation that she had agreed to sign the letter as well as to delete the allegation of the video recording as it was clearly understandable given the stress and toll an acrimonious divorce matter would take on her and her son. I therefore found that there is no incongruence between this action and the fear and insult that she felt upon discovery of the recording.
+
+### The interaction between V and the Accused after the alleged incident
+
+61     The Defence highlighted the interactions V had with the Accused post the alleged incident and submitted that they were inconsistent with V being insulted, scared and confused.
+
+62     The Defence pointed out that V had used a phrase “I will care for you” in a text message dated 23 September 2019 to the Accused and described that as being “lovey-dovey” with the Accused. V had also continued to reside at the matrimonial home with the Accused and did not move back to her parents’ home immediately. Finally, the Defence highlighted that V had gone on a trip with the Accused to the Middle East shortly after the alleged incident for about 2 weeks in November 2019 as further evidence of it of this inconsistency.
+
+63     I paid short shrift to the above arguments. The starting point of the analysis ought to be the context of these words used by V. She was asked how she felt upon discovering the videos. It was in the context of the immediate aftermath of the discovery that she said “I feel very scared, I feel insulted, um ashamed, uh confused”[\[note: 8\]](#Ftn_8).
+
+64     As such, it is inappropriate to judge the action and words of V at a time when some time has lapsed from the discovery of the videos. What was not disputed is that V on the same day confided in a mutual friend about the incident and thereafter had gone to lodge a police report. V was clearly affected by the incident and she took almost immediate action on the same day.
+
+65     With regard to the text message, I would firstly disagree with the categorisation of the Defence Counsel that V was acting in a “lovey-dovey” manner. The full context of the message at exhibit D1-2 is set out here as follows:
+
+> “Thx. No matter what happen or decision we gg to make. You will always be my family and I will still care for you”
+
+66     Her follow up message was
+
+> “Don’t intend to. But you are always my family whether we are married or divorce. Care and love is (sic) 2 totally different things”.
+
+67     V had explained that on this day in 23 September 2019, although no divorce proceedings had commenced, they were already in a discussion about divorce. This is consistent with the full text message as set out above with reference to possibility of divorce and that there was a difference between caring and loving. V, far from being lovey-dovey, was actually talking about ‘care’ in the context of a divorce situation that she would still care even if they are divorced. The Defence Counsel had clearly misconstrued what V meant by “care for you”.
+
+68     It also bears noting that this text message was sent out some 4 months after the alleged incident. The conciliatory tone of the message is explainable when seen in the light that there was an ongoing relationship between the Accused and V even if they were heading towards a divorce as they continue to be linked as parents to their son.
+
+69     V had also given very credible explanations as to why she had remained in the matrimonial home and had even gone on a trip with the Accused subsequent to the alleged incident. She reasoned that she could not simply just move out as she has a son whose school was near the matrimonial home and her parents-in-law were helping to look after him. She had to make logistical arrangements for her son before she was ready to move out.
+
+70     As for the trip to the Middle East, she explained that although she was reluctant to go with the Accused, she did so for the sake of their son. The Accused managed to convince her to go when he brought up the fact that he had told E about the trip and he did not want to disappoint E.
+
+71     I found all these explanations very reasonable and convincing. In the absence of any evidence to the contrary (as the Accused elected to remain silent), I have no difficulty accepting her explanations as true and that her actions post-incident were clearly not inconsistent with how she had felt immediately after the incident.
+
+### V’s modesty could not be insulted
+
+72     The Defence Counsel further argued that as the attempt to record V in the privacy of the bathroom with the possibility of catching her in a state of undress is much less severe than exposure of a wife in the process of sexual intercourse with her husband, this act could not amount to insulting V’s modesty. The Defence Counsel based his argument on the assertion that marital rape defence was still available in May 2019.
+
+73     The Defence also argued that as V was involved in an adulterous relationship, by virtue of that unchaste and wrongful relation, she had given up her chastity and therefore her modesty was incapable of being insulted.
+
+74     I found these arguments by the Defence Counsel highly preposterous, bereft of any legal basis and somewhat offensive to common sensibility. It is surprising, to say the least, that the Defence Counsel would put forward such arguments, without any leg to stand on.
+
+75     The offence under section 509 of the Penal Code is defined under that section itself. Hence, the marital rape defence which specifically provides an exception to the offence of rape would have no bearing when determining whether an offence under section 509 has been made out. It is clearly wrong to attempt to read such an exception into section 509 of the Penal Code.
+
+76     I was equally flummoxed by the argument that a woman has no modesty to protect if she is involved in an adulterous relationship. The Defence Counsel had made this rather astonishing submission without supporting it with any legal authority or precedent. It was clearly a frivolous and vexatious argument.
+
+### No satisfactory evidence as to when the Accused could have gone into the Toilet to switch the recording button and off three times
+
+77     The Defence Counsel further argued that V could not explain how there could be three videos of her showering and changing when there was no satisfactory choronology of when the Accused could have entered the Toilet to switch the recording button and and off three times.
+
+78     This argument is flawed in that it is not accurate to say that the Accused was the person who switched the on and off button three times in order for there to be three videos. This is because the person who turned the recording off for the Third Video would have been V upon her discovering of the iPhone.
+
+79     Hence for there to be three videos, only the first two videos would have to be turned on and off by the Accused and the Third Video would have to be turned on by the Accused. V’s direct evidence would be able to account for the turning off the recording for the Second Video and turning on and off the recording for the Third Video. The testimony of V was that she had gone into the Toilet twice that morning. After she had showered, the Accused had gone into the Toilet and was occupying the Toilet for some time before she could get into it for the second time that morning. The presence of the Accused during the interval between V using the Toilet on two occasions would account for the Accused being able to turn off the recording of the Second Video and to turn on the recording for the Third Video.
+
+80     The question thus arises: when did the Accused turn on and off the recording for the First Video and turn on the recording for the Second Video? V did not witness the Accused entering the Toilet before she used the Toilet the first time. However, there would have been ample opportunity for the Accused to do so before V woke up that morning. As noted by V, the first recording had a time stamp of 3:32am. This could account for the Accused having gone into the Toilet much earlier before V woke up to set up the recording, testing out the recording and to check that the iPhone had been positioned correctly to capture the view that he wanted. Whils this scenario can be criticised as speculative, it is clearly a plausible explanation for the existence of the three Videos. This scenario could have been tested with cross-examination of the Accused but through his election, he had both deprived himself of the opportunity to explain why this was not possible as well as the Prosecution from cross-examining him on his movement that morning.
+
+### No incriminatory videos had been produced
+
+81     Finally, I turn to the argument that there is a reasonable doubt as to whether there was any nude recording of V. The Defence had argued firstly that it was unbelievable that V would have thoughtlessly deleted the crucial evidence if indeed she was so offended by the Accused’s act. Secondly, the Defence criticised the lackadaisical attitude of the police in failing to recover the iPhone and to produce any forensic evidence to establish some digital trail of there being any recording of V showering.
+
+82     I found the V’s explanation of why she had immediately deleted the videos upon the discovery convincing. It was an instinctive response on her part as a result of the shock and fear she had felt. Her immediate concern was that no one should see such nude videos of her. Her evidence that she was allowed to check the iPhone to ensure that the videos were completely removed was also not challenged by the Defence. The inference from this unchallenged evidence is that the Accused knew that there were probably such embarrassing nude videos of V on his iPhone leading to V’s insistence on checking his iPhone.
+
+83     I also found that while the police might have been a bit tardy in not immediately following up to seize the handphone, the Accused was more at fault in this regard. He had been told by IO Lim specifically to hold onto the iPhone and he would thus be aware of the importance and significance of the iPhone for the investigation of the case. It would have been patently obvious to the Accused that the iPhone had the potential to yield important information. He had blatantly ignored this request by claiming that the iPhone was faulty and he had given it away during Christmas.
+
+84     I found it unbelievable that he would give away a faulty handphone to anyone and all the more so when he had been told to hold onto it whilst awaiting action from the Investigating Officer to retrieve it.
+
+85     The irresistible inference is that the Accused knew that iPhone would only yield incriminating evidence against him and hence he chose to conveniently dispose of it to ensure that it did not fall into the hands of the police.
+
+## CONCLUSION ON THE VERDICT
+
+86     I found that the Prosecution had established a very strong case against the Accused on the charge and the Accused clearly had a lot to explain on the unchallenged evidence against him. His silence is deafening and the circumstances clearly warranted an inference to be drawn that he would not be able to give any credible explanation or defence. As such I found that the Prosecution has proven the charge against the Accused beyond a reasonable doubt and found him guilty and convicted.
+
+## THE APPEAL AGAINST SENTENCE
+
+### The Prosecution’s submissions on sentence
+
+87     The Prosecution highlighted the following aggravating features of the case:
+
+> (a)     There was premeditation and planning. The Accused had taken time and effort to position the iPhone in the toilet shower whilst still maintaining the presence of mind not to spend too much time in the toilet to prevent arousing V’s suspicion.
+
+> (b)     There was abuse of trust. The Accused was V’s husband at the material time. The recording violated this marital trust.
+
+> (c)     The offence was committed in their matrimonial home which should have been a safe and secure haven for V.
+
+> (d)     The use of a handphone with modern technology and the danger posed by video recording warrant a deterrent sentence.
+
+> (e)     Lack of remorse. The Accused’s conduct at trial in repeatedly submitting that V had lost her modesty through lack of chastity evinced a lack of remorse and insight to his offending behaviour.
+
+> (f)     No sentencing discount as the Accused had elected to claim trial.
+
+88     For sentencing precedents, the Prosecution relied mainly on the case of _PP v Chong Hou En_ <span class="citation">\[2015\] 3 SLR 222</span> (“_Chong Hou En_”), whereby the offender was convicted on four counts of section 509 charges. The Accused had used a digital camera disguised as a lighter to film his girlfriend and his girlfriend’s sisters showering.
+
+89     The High Court had started with the sentence at 18 weeks per charge given the aggravating features of young victims, multiple victims as well as the use of the disguised video camera. It then calibrated the sentence down to 12 weeks’ imprisonment in view of the offender’s plea of guilt and show of remorse with cooperation during police investigations.
+
+90     The Prosecution conceded that the present case was less egregious. However, they submitted it also did not have similar mitigating circumstances such as pleading guilty or show of remorse. The Prosecution thus submitted for a sentence of 10-12 weeks’ imprisonment.
+
+91     The Prosecution also relied on another case precedent as comparison. In the case of _PP v Sean Lee Yang_ <span class="citation">\[2021\] SGMC 84</span> (“_Sean Lee Yang_”), the District Court was referred to an unreported decision in _PP v Ong Chin Chye_ (SC-901220-2021) _(“Ong Chin Chye_”). The Prosecution highlighted that the facts of Ong Chin Chye are similar in that it was also a case of a husband placing a spy camera in the toilet of the matrimonial home to record his wife showering. The offender was sentenced to 15 weeks’ imprisonment on his plea of guilt.
+
+92     The Prosecution acknowledged that _Ong Chin Chye_ was a case dealt with under the amended Penal Code. The punishment for this similar offence under the new section 377BB(7) has been increased with the maximum sentence increased by twofold to 2 years’ imprisonment in contrast to the present offence under section 509 of the Penal Code. Accordingly, the Prosecution submitted for a downward calibration of the 15 weeks’ imprisonment imposed in that case.
+
+### Mitigation
+
+93     The Defence Counsel merely asked for a fine or a short custodial sentence of 2 weeks’ imprisonment on the ground essentially of the mitigating factor of a grave and sudden provocation arising from the Accused having just discovered that V was having an adulterous affair.
+
+94     The Defence Counsel also attempted to rely on the fact that the Accused had shown remorse exhibited by the Accused in his conditioned statement to the police.
+
+95     The Defence Counsel also tendered a testimonial from a friend of the Accused to support the fact that the Accused was visibly affected and gravely saddened by the discovery of the affair. He then submitted that the on the contemporaneous evidence, he was acting out of impulse. He referred to the Accused’s answer to Q4 in his statement at P7 where he had stated that “I did that out of impulse as I am too eager to gather evidence of her committing adultery”.
+
+96     The Accused also requested to say something in person. He then set out an account of how devastated he was upon hearing the intimate conversation V had with her boss after downloading the car camera recording that morning. He continued to assert that he wanted to hack into her phone in a knee jerk reaction and that he had no intention to insult or violate V.
+
+### The Accused’s antecedent record
+
+97     The Accused has no record of any previous convictions.
+
+### The reasoning for the sentence
+
+#### Analysis of the mitigation plea
+
+98     I will first address the mitigation presented. I reiterate the grounds that I have made above in rejecting the Accused’s purported reason for recording V in the Toilet.
+
+99     The Accused had, with the benefit of legal advice, elected to remain silent. After he has been convicted, the Accused is now attempting to litigate this point by giving evidence during the mitigation process. This attempt is ill-advised and the Accused cannot be allowed to put in such evidence at this stage where his evidence would not be subjected to the rigour of cross-examination by the Prosecution. I had thus not given any weight to his evidence of discovery of the conversation between V and X.
+
+100    As for the assertion that he had shown remorse by allegedly confessing to the offence in his cautioned statement, my first response was one of disbelief. If the Accused had indeed confessed to committing the offence, Prosecution would surely have tendered it as a substantive part of their case. My disbelief was well founded for as it turned out, when Prosecution read out the entire statement, it was evident that the Accused, whilst stating that he had made a mistake and had committed the offence without thinking, asserted that did not have any intention to violate or insult the Victim.
+
+101    Therefore, the Accused, far from admitting to the offence, was clearly intent on denying having any _mens rea_ and was only admitting to the act of recording. Instead of expressing true remorse, he continued to foist blame on V’s adulterous behaviour.
+
+102    Accordingly, I found that the Accused did not show any remorse and I would not accord any mitigating weight to his plea of mitigation. I also did not find that his act was impulsive or on the spur of the moment. Instead, the Accused had planned the recording by going into the Toilet more than once to ensure that the iPhone was placed in a vantage position to capture the body of V. He also took care not to stay in the toilet for too long lest he arouse V’s suspicion. His actions were clearly thought through.
+
+#### Sentencing principle
+
+103    I now move on to the sentencing principle. The main sentencing principle in this case is clearly one of deterrence. Offences of such a nature involving the use of a handphone have been committed with relative ease and a deterrent sentence would inevitably be meted out especially in cases where full nudity of the body has been captured. As pointed out in the case of _Chong Hou En_, the ease of such videos being downloaded and disseminated have the potential to cause unimaginable harm and stress on victims. Even if such videos have not been downloaded and disseminated, the danger would warrant a deterrent sentence to be imposed to deter such acts of recording in the first place.
+
+104    In the present case, there is an added aggravating factor in that the offence was committed in the sanctity of the home and in the private moment of V showering, cleaning herself and changing in her bathroom. Another aggravating factor is the betrayal of trust that she would have in the Accused as her then husband. He only had the opportunity to do this because he resided with her and was sharing the bedroom and toilet with her.
+
+105    Looking at the sentencing precedents cited, one less aggravating feature compared to the cases of _Chong Hou En_, _Sean Lee Yang_ and Ong _Chin Chye_ is the use of a digital recorder disguised as something innocuous to reduce the chance of detection. However, on the other hand, one important difference about these 3 cases is that the offender had pleaded guilty and was therefore accorded a sentencing discount. The sentences for these cases would have ranged from 12- 18 weeks before further calibration was done.
+
+106    I am of the view that in the present case, if the Accused had pleaded guilty, the sentence should be about 10 weeks’ imprisonment. However, given that he had claimed trial, he was not entitled a sentencing discount, I had imposed a sentence of 12 weeks’ imprisonment.
+
+## CONCLUSION
+
+107    The Accused appears to be fixated on his belief that V had been unfaithful and refused to acknowledge his wrongdoing until the very end. He is clearly misconceived into thinking that he could mount a viable defence on that ground. In any case, I found that he was clearly not trying to gather any evidence for divorce given the position he had placed the handphone and his response to V when he was confronted.
+
+108    The sentence imposed is within the sentencing band of such offences taking into account he has claimed trial and showed no remorse for his action.
+
+* * *
+
+[\[note: 1\]](#Ftn_1_1)Notes of Evidence, 24 January 2022, 37/18-19
+
+[^2]: Notes of Evidence, 24 January 2022, 36/1-2
+
+[^3]: Notes of Evidence, 25 January 2022, 10/30-31, 11/30-31
+
+[^4]: Notes of Evidence, 24 January 2022, 58/25-26
+
+[^5]: Notes of Evidence, 24 January 2022, 89/6-8
+
+[^6]: Notes of Evidence, 24 January 2022, 68/24-30
+
+[^7]: Notes of Evidence 24 January 2022, 71/5-73/24
+
+[^8]: Notes of Evidence, 24 January 2022, 36/1-3
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F28843-SSP.xml)

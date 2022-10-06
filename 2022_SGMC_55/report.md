@@ -1,0 +1,327 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Rozman Bin Abdul Rahman  
+
+### \[2022\] SGMC 55
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Magistrate Arrest Case No. 904894/2020, Magistrate's Appeals No. 9282/2021/01</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">13 September 2022</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">Magistrates Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Ng Cheng Thiam</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Lee Ti Ting and Lai Yan (Attorney-General's Chambers) for the Prosecution; Mr Azri Imran Tan and Mr Joshua Chow (I.R.B. Law LLP) for the Defence</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Rozman Bin Abdul Rahman</td></tr></tbody></table>
+
+Criminal Law – Statutory Offences – Infectious Diseases Act – Exposing Others to the Risk of Infection
+
+Criminal Procedure and Sentencing – Sentencing – Exposing Others to the Risk of Infection
+
+\[LawNet Editorial Note: An appeal to this decision has been filed in MA 9282/2021/01.\]
+
+13 September 2022
+
+### District Judge Ng Cheng Thiam:
+
+## Introduction
+
+1       The Accused pleaded guilty to the following charge:
+
+> “You, Rozman Bin Abdul Rahman, …, are charged that you, from 20 March 2020 to 30 March 2020 and from 1 April 2020 to 3 April 2020, having reason to suspect that you were a contact of Coronavirus Disease 2019 (COVID-19), a disease in the Second Schedule of the Infectious Diseases Act (Cap 137)(“IDA”), as you were aware that you were subject to a Stay-Home Notice which required you to remain in your place of accommodation at all times from 20 March 2020 to 3 April 2020, did expose others to the risk of infection by your presence in a place used in common by persons other than the members of your own family or household, to wit, by reporting to work as a night-shift security officer at Grocery Logistic of Singapore Pte Ltd, located at 5 Joo Koon Circle, Singapore, and you have thereby contravened section 21A(1) of the IDA, which is an offence under section 21A(4), and punishable with section 65(a) of the same Act.”
+
+2       The Prosecution adduced the following Statement of Facts (“SOF”).
+
+> **Statement of Facts**
+
+> Involved Parties
+
+> 1.    The accused is Rozman Bin Abdul Rahman (male / Singaporean / DOB: 9 October 1980 / … / 40 years old).
+
+> 2.    The witnesses are:
+
+>> (i)    Arasazhagi d/o Saminathan, female/52 years old (A1) ICA Deputy Team Leader;
+
+>> (ii)   Tan Xin Tian, Adeline, female/39 years old (A2) ICA officer/complainant;
+
+>> (iii)   Ramlan Bin Ab Aziz, male/35 years old (A3) ICA officer deployed to the COVID-19 House Visit Team (“HVT”); and
+
+>> (iv)   Lim Kian Beng (A4), ICA Senior Officer.
+
+> First Information Report
+
+> 3.    On 5 May 2020 at 1807hrs, A2 lodged a police report against the accused for breach of his SHN, which was valid from 20 March 2020 to 3 April 2020 2359hrs.
+
+> 4.    The accused’s breach of his SHN was discovered on 3 April 2020 when officers from the HVT visited Blk 298 Punggol Place #XXX Singapore 821298, the address the accused had provided in his SHN, and found out from the accused’s step-sister that the accused did not proceed to the said address, and that they were not in contact.
+
+> 5.    As the accused was uncontactable and could not be located, officers from the HVT contacted the accused’s employer, Concorde Security Pte Ltd (Singapore), and found out that the accused had been reporting to work as a night shift security officer at Grocery Logistic of Singapore Pte Ltd (GLS) located at 5 Joo Koon Circle throughout the duration of his SHN, from 20 March 2020 to 30 March 2020 and from 1 April 2020 to 3 April 2020.
+
+> Background
+
+> 6.    The Coronavirus Disease 2019 (“COVID-19”) is a form of viral pneumonia which can be spread through droplets and/or physical contact with infected persons.
+
+> 7.    Since early 2020, Singapore had been fighting the spread of COVID-19 in the country. On 12 March 2020, the World Health Organisation declared the escalating COVID-19 situation a pandemic, indicating that COVID-19 was spreading worldwide.
+
+> 8.    To control the spread of COVID-19, the Government of Singapore required individuals arriving in Singapore from 16 March 2020, 2359hrs who fall within the following categories to remain in their place of residence at all times for a 14-day period, under the Stay-Home Notice (SHN) measure:
+
+>> (a)    Singapore residents (i.e. Singapore Citizens and Permanent Residents), long-term pass holders (i.e. Student’s Pass, Dependent’s Pass, Long-Term Visit Pass), foreign employees issued with a work pass and short-term visitors with travel history to mainland China (outside of Hubei), Republic of Korea, Iran, Italy, France, Germany, Spain, ASEAN countries, Japan, Switzerland, or the United Kingdom in the last 14 days;
+
+>> (b)    Singapore residents, long-term pass holders, foreign employees issued with a work pass and short-term visitors who exhibit fever and/or other symptoms of respiratory illness and required to undergo a COVID-19 swab test at the checkpoints; or
+
+>> (c)    All foreign domestic workers issued with a work pass, regardless of travel history or health status.
+
+> 9.    The press release issued by the Ministry of Health, Singapore, dated 15 March 2020 is enclosed (see “Annex 1”).
+
+> Facts pertaining to MAC-904894-2020
+
+> 10.    On 20 March 2020 at about 1721hrs, the accused returned to Singapore from Batam, Indonesia via ferry. At the Singapore Cruise Center, the accused refused to sign a stay-home notice (“SHN”) that an Immigration & Checkpoints Authority (“ICA”) officer tried to serve to him. The accused claimed that he had found out from the Singapore Ministry of Health website earlier that day that all travellers entering Singapore from 20 March 2020 2359hrs will be issued with a 14 days SHN and that he should not be issued a SHN. Contrary to the accused’s claim, the Singapore government had required all individuals arriving in Singapore from 16 March 2020, 2359hrs that fall within the groups as set out in paragraph 8(a) – (c) above to serve a 14 days SHN (see “Annex 1”).
+
+> 11.    The accused was directed to A1. The accused maintained that the SHN should only be issued to travellers returning from China and the European Union, and not Singaporeans or Permanent Residents. A1 then sought the assistance of A4, who was at the office.
+
+> 12.    A1 and A4 explained to the accused that all travellers returning from ASEAN countries would be served with a 14 days SHN. When the accused insisted that only travellers entering Singapore from 20 March 2020 2359hrs will be issued with a 14 days SHN, as this was what he had seen from the news, A4 visited the MOH website using his handphone, and showed the travel restrictions in force with effect from 16 March 2020 to the accused. After much explanation, the accused accepted the explanations made by A1 and A4 that he had to serve a SHN if he wishes to enter Singapore. A4 then left the office to continue his supervisory duties, and left A1 to serve the SHN to the accused.
+
+> 13.    A1 asked the accused why he did not wish to serve a SHN. The accused told A1 that he was only going to stay in Singapore for 2 to 3 days. The accused told A1 “I am not staying in Singapore” and that his house was in Malaysia. The accused told A1 that he travels back and forth between Singapore and Malaysia as he stays in Malaysia, but works in Singapore.
+
+> 14.    A1 asked the accused where he would be staying to serve the SHN. The accused immediately told A1 that he will be staying at his sister’s house. In the portion titled “address for where you will be serving the SHN” of the SHN, the accused then wrote down his sister’s address, 298 Punggol Place #XXX Singapore 821298.
+
+> 15.    In the course of their engagement, the accused also asked A1 if there was any way to avoid serving a SHN. A1 offered the accused the option of returning to Batam, Indonesia if he did not wish to serve a SHN but the accused declined the offer. At no time did the accused inform A1 or A4 that he would have difficulty staying at his sister’s address in Singapore, or elaborate on the nature of his relationship with his sister.
+
+> 16.    A1 then briefed the accused on the requirements of the SHN and ordered that he not leave his place of accommodation at all times for a 14 day period, for the duration of the SHN, from 20 March 2020 to 3 April 2020. A1 reminded the accused that the authorities will conduct checks on him throughout his SHN. A1 also showed the accused a copy of the SHN (exhibited hereto as ‘Annex 2’), and explained the document which, inter alia, contained the following information:
+
+>> _1_.     _The Government of Singapore requires you to remain in your place of residence at all times for a 14-day period, if you are arriving in Singapore from 16 March 2020, 2359 hrs and belong to the following groups:_
+
+>>> (_a_)     _Singapore residents (i.e. Singapore Citizens and Permanent Residents), long-term pass holders (i.e. Student’s Pass, Dependent’s Pass, Long-Term Visit Pass), foreign employees issued with a work pass and short-term visitors with travel history to mainland China (outside of Hubei), Republic of Korea, Iran, Italy, France, Germany, Spain, ASEAN countries, Japan, Switzerland, or the United Kingdom in the last 14 days;_
+
+>> _2_.     _This is a precautionary measure taken to_ _minimize_ _the risk of additional imported cases of COVID-19. The SHN period will commence from the day of your return to Singapore. During this period, you are required to comply with the requirements in Annex A._
+
+> 17.    Annex A to the SHN, inter alia, contained the following information:
+
+>> _1_.     _You must remain in your place of residence at all times during the 14-day period. Do not leave your residence, even if it is to purchase food and essentials. If necessary, you may opt for home delivery services or enlist the assistance of others for your daily necessities._
+
+>> _2_.     _You should minimize contact with others, and avoid having visitors to your residence. You should maintain a record of persons you come into close contact with during this period_
+
+> 18.    The accused signed and acknowledged receipt of the SHN and indicated that he understood that if he failed to comply with the SHN, he may be prosecuted under section 21A of the Infectious Diseases Act, and may face penalties as stated in the SHN.
+
+> 19.    The accused did not proceed to his sister’s address, his declared place of accommodation as stated in his SHN. The accused lived on the streets. The accused lived at a multi-storey carpark behind Chinatown Point, and a walkway near Vivocity from 20 March 2020 to 14 April 2020, before moving to a homeless shelter. Had the accused raised the difficulty he faced in proceeding to his sister’s address to serve his SHN to the ICA officers, they would have assisted him to find an alternative place of accommodation to serve his SHN. However, the accused did not do so.
+
+> 20.    During his SHN, the accused reported to work every day from 20 March 2020 to 30 March 2020 and from 1 April 2020 to 3 April 2020, from 7pm to 7am, as a night-shift security officer at Grocery Logistic of Singapore Pte Ltd (GLS) located at 5 Joo Koon Circle.
+
+> 21.    The accused’s manager stated that the accused failed to inform the company that he had been issued a SHN. During his night shift, the accused was paired with another security guard. As part of his duties, the accused has to check the gate pass of the delivery drivers before allowing them entry into the premises. The delivery driver would usually remain within the vehicle and they do not have to alight from their vehicle.
+
+> 22.    The accused had reason to suspect that he was a contact of Coronavirus Disease 2019 (COVID-19), a disease in the Second Schedule of the Infectious Diseases Act (Cap 137) ("IDA"), as he was aware that he was subject to a Stay-Home Notice which required him to remain in his place of accommodation at all times from 20 March 2020 to 3 April 2020. By reporting to work as a night-shift security officer at Grocery Logistic of Singapore Pte Ltd (GLS) located at 5 Joo Koon Circle from 20 March 2020 to 30 March 2020 and from 1 April 2020 to 3 April 2020 from 7pm to 7am, the accused exposed others to the risk of infection by his presence in a place used in common by persons other than the members of his own family or household. The accused has therefore contravened section 21A(1) of the IDA, which is an offence under section 21A(4) and punishable under section 65(a) of the same Act, and has been charged accordingly.
+
+3       The Accused did not accept the SOF without qualification. The Accused admitted to breaching the Stay Home Notice (“SHN”). But he disputed some of the facts surrounding the making and issuance of the SHN. The disputed areas were:
+
+> (a)     With reference to paragraph \[13\] of the SOF, the Accused’s position was that he did not tell Arasazhagi d/o Saminathan that he would be staying in Singapore for 2 – 3 days;
+
+> (b)     With reference to paragraph \[14\] of the SOF, the Accused’s position was that he did not tell Arasazhagi d/o Saminathan that he would be staying at his sister’s house. The Accused also disputed the background facts that led to him writing his sister’s address on the SHN;
+
+> (c)     With reference to paragraph \[15\] of the SOF, the Accused denied that he was offered the option of returning to Batam, Indonesia. The Accused also denied the last sentence of paragraph \[15\]. The Accused’s position was that he had made it explicitly clear to Arasazhagi d/o Saminathan and Lim Kian Beng that he could not stay at his sister’s place; and
+
+> (d)     With reference to the last sentence in paragraph \[19\] of the SOF, the Accused’s position was that he had raised the difficulty of staying at his sister’s with Arasazhagi d/o Saminathan and Lim Kian Beng.
+
+4       On account of the Accused’s admissions that he was served with a SHN; that he had written an address on the SHN declaring the said address to be the place of residence where he would be serving his SHN; that he had breached the SHN by reporting for work from 20 March 2020 to 30 March 2020 and from 1 Apr 2020 to 3 April 2020; and that he did not remain at the address he had declared on the SHN, I found the Accused guilty of committing the offence stated in the charge and I convicted him accordingly.
+
+5       With respect to the portions of the SOF that were disputed by the Accused, it was clear to the Court that the Accused was putting forth a case to diminish his culpability for the offence. An offender’s culpability bears a direct correlation to the punishment imposed by the court. In the circumstances, I determined that a Newton hearing was necessary to establish the background facts that led to the making and issuance of the SHN, as this would have a bearing on the appropriate sentence to be imposed on the present case.
+
+6       In addition to the factual disputes enumerated at \[3\] above, the Accused’s counsel asserted that three high ranking male ICA officers and one female ICA officer were present at the material time. This assertion was materially different from paragraphs \[2\] and \[12\] of the SOF. By ordering a Newton hearing, the Court would hear evidence that would assist in determining the exact number of ICA officers present that day _i.e._ 20 March 2020.
+
+7       At the conclusion of the Newton hearing, the case proceeded to the sentencing stage. After hearing both parties’ submissions, I imposed a sentence of seven weeks’ imprisonment.
+
+8       The Accused, being dissatisfied with the sentence, filed an appeal against the sentence. He also applied for a stay on the execution of the sentence. I granted the application. The Accused is currently on bail pending the hearing of the appeal.
+
+9       In these Grounds of Decision, I begin by layout the evidence adduced at the Newton hearing before delving into my findings of fact. I then provide the reasons undergirding my decision to impose a sentence of seven weeks’ imprisonment.
+
+## Newton Hearing
+
+10     The Prosecution called five witnesses at the Newton hearing.
+
+11     Let me first recap the undisputed background facts. On the evening of 20 March 2020, the Accused arrived at the Singapore Cruise Centre. A male Immigration Officer tried to serve a SHN on him. The Accused refused to accept the SHN. He was then referred to the Secondary Team Office (“ST Office”) and referred to Arasazhagi d/o Saminathan.
+
+### Summary of the Prosecution’s Case
+
+#### Evidence of PW1 (Arasazhagi d/o Saminathan) and PW2 (Lim Kian Beng)
+
+12     PW1 testified that when she attended to the Accused, he was adamant that he did not have to serve a SHN. As PW1 was not allowed to use her mobile phone in the presence of a member of the public, she stepped out of the ST Office to seek help. She returned to the ST Office with PW2.
+
+13     PW2 was a senior Immigration Officer who had supervisory duties on 20 March 2020. PW2 then used his mobile phone to search for the relevant MOH notification that applied to the Accused. The Accused was shown a MOH news highlight dated 15 March 2020 which stated that all travellers from ASEAN countries arriving in Singapore after 16 March 2020 2359 hours were required to serve an SHN (see Exhibit P2). The Accused read the news highlight and realised that he had been mistaken that the SHN requirements did not apply to him. He thus stopped disputing the officers’ assertion that the SHN requirement applied to him.
+
+14     PW2 observed that the Accused had transitioned from an agitated state to a relaxed mood after reading the MOH news highlight. PW2 assessed that the Accused comprehended and understood that the SHN requirements applied to him. PW2’s observation of the Accused’s behaviour was corroborated by PW1 who observed that the Accused had calm down after reading the MOH news highlight. PW2 then left the ST Office. PW1 remained behind to serve the Accused with the SHN form. While PW1 was explaining the conditions and requirements of the SHN to the Accused, the Accused stated that he did not want to serve the full 14-day SHN as he was staying in Malaysia then and intended to stay in Singapore for only three days. PW1 explained to him that he had to comply with the directions given by MOH and serve a 14-day SHN. PW1 offered the Accused the option of serving his SHN at a hotel or at a relative’s place of abode. In the alternative, the Accused was offered the option of returning to Batam, Indonesia if he did not wish to serve the SHN. According to PW1, the Accused responded positively by stating that he could stay at his sister’s place.
+
+15     The Accused filled in the SHN form in his own handwriting. At the field requiring the Accused to state the “_Address for where you will be serving the Stay-Home Notice (SHN)_”, the Accused wrote “_298 Punggol Place #XXX (821298)_”. After filling up the SHN form, the Accused appended his signature. He gave another confirmation to PW1 that he understood the conditions of the SHN and thanked PW1 for explaining the SHN to him.
+
+16     PW1 and PW2 denied the Accused’s allegation that he had informed them that he could not stay at his sister’s place as he was not on talking terms with his sister. PW2 also denied the Accused’s allegations that he had told him to simply write an address because “_it was not serious_”.
+
+#### PW3 (Ridley Kim Zhi Guang) and PW4 (Felicia Loy Boon Hwee)
+
+17     At the material time on 20 March 2020, there were two other Immigration Officers who were present in the ST Office. They were PW3 and PW4. Both of them testified that they did not interact with the Accused. In particular, PW3 testified that he was dealing with another member of the public and hence was not involved with the Accused’s case at all.
+
+18     The evidence of PW3 and PW4 corroborated the evidence of PW1 and PW2 in that they were the only four Immigration Officers present at the ST Office at the material time.
+
+#### PW5 (Ramlan Bin Ab Aziz)
+
+19     PW5 is an Immigration Officer who interviewed the Accused on 22 April 2020. PW5 kept notes of the interview. PW5’s notes were adduced in evidence as Exhibit P7. Exhibit P7 contained a series of pre-determined questions and these were posed to the Accused. The Accused’s answers to these questions were reduced into writing. Exhibit P7 reflects that the Accused understood the conditions of the SHN, in particular, that he was required to stay at home for a period of 14 days. Exhibit P7 also states that the Accused had breached the conditions because he needed to work.
+
+###    Summary of the Accused’s testimony
+
+20     The Accused testified that on his arrival in Singapore, a male Immigration officer at the Manual Counter wanted to serve him a SHN. He disputed that he was required to serve a SHN. The Accused was then referred to PW1 in the ST Office.
+
+21     When the Accused was with PW1, he again disputed that he was required to serve a SHN. The Accused used his mobile phone to show MOH news highlight dated 18 March 2022 (see Exhibit D2) to PW1. However, PW1 was unable to verify the authenticity of Exhibit D2. PW1 was then joined by three male senior officers, one of whom the Accused was able to identify as PW2. PW2 did most of the talking. At one stage, one of the male senior officers left the ST Office. At that stage, the Accused informed PW1, PW2 and the other male senior officer that he could not serve a SHN because he did not have a place of residence in Singapore. The male senior officer who had left the ST Office subsequently returned and verified that MOH new highlight dated 15 March 2022 (see Exhibit P2) applied to all persons entering Singapore from ASEAN countries. The Accused then realised that he had to serve a SHN. He then informed all the immigration officers present that he did not have a place of residence in Singapore. He showed his identity card, which reflects an address in Malaysia, as proof.
+
+22     PW2 then suggested to the Accused to write down a local address of his family or his relatives or his friends. The Accused replied that he has a sister but he could not stay with her because of a dispute over the purchase of a house with their mother. At this stage, PW2 then told him “_just write down any address_”. The Accused replied that he could not write down the address because he could not remember it. PW2 then told him “_just write it down, it’s not so serious_”. Relying on PW2’s words, the Accused agreed. PW2 and the other two male senior officers then left the ST Office.
+
+23     The Accused was alone with PW1 for the issuance of the SHN. When the Accused was filling up the SHN form, he told PW1 that the address he had furnished might not be accurate.
+
+24     In support of his defence, the Accused adduced his investigation statement, Exhibit D3. In Exhibit D3, the Accused alleged that he had informed “_two to three_” high ranking immigration officers that he did not have a local place to serve the SHN. But these senior immigration officers were not helpful and told him to furnish a contactable address. _They_ also told him that it would not be a serious matter. The Accused claimed that these senior immigration officers merely wanted to have the SHN signed by him so as to get him out of the ST Office. The Accused claimed that he was pressured by these senior immigration officers to write a local address on the SHN. He thus wrote his sister’s address despite telling these senior immigration officers that he did not have any relative or friend with whom he could stay.
+
+###    Court’s Findings
+
+25     Having heard the evidence and having assessed the credibility of the Prosecution’s witnesses and that of the Accused, I made the following findings:
+
+> (a)     Only PW1 and PW2 dealt with the Accused prior to the Accused executing the SHN in the presence of PW1. The only other male senior immigration officer who was present in the ST Office at the material time was PW3. I accepted PW3’s evidence that he had no dealings with the Accused. I found that the Defence had failed to prove the Accused’s assertion that there was a third male senior immigration officer present at the material time.
+
+> (b)     PW2 had clarified and showed the Accused the correct MOH notification which stated that the Accused fell into the classes of travellers entering Singapore who were required to serve a SHN. Having convinced the Accused, PW1 then left the duty of issuing the SHN to PW1. PW2 was a senior officer having supervision of the entire operations. However, it was not his role or duty to issue the SHN to the Accused. It was PW1’s specific task to issue the SHN to the Accused. Therefore, at the material time concerning the issuance of the SHN, only PW1 dealt with the Accused. PW2 was not involved in the issuance of the SHN at all. I also found that PW2 did not tell the Accused to simply put any address on the SHN. As the testimonies of PW1 and PW2 were cogent and corroborated by each other, I believed and accepted their evidence. In contrast, and for reasons that follow, I disbelieved the Accused and thus rejected his evidence.
+
+> (c)     The crux of the Accused’s explanation in relation to how he ended up writing his sister’s address on the SHN was two-fold:
+
+>> (i)       The Accused had informed PW1 and PW2 that he was unable to serve his SHN at his sister’s house because there was existing animosity between him, his sister and their mother.
+
+>> (ii)       The Accused was then told by PW2 to just state an address on the SHN and that it was not a serious matter.
+
+> In my assessment, the crux of the Accused’s defence ought to have been stated in Exhibit P7. The interview of the Accused by PW5 took place on 22 April 2020, slightly more than a month after the SHN was issued. Therefore, the material facts surrounding the making of the SHN would have been fresh in the Accused’s memory. If these allegations were true, then the Accused would have been expected to state. I accepted PW5’s evidence that he had accurately recorded what the Accused had told him. I found that the Accused’s omission to inform PW5 on these material facts have significantly undermined his credibility and the cogency of his account. I thus rejected the Accused’s evidence. In accepting PW1 and PW2’s evidence, I also gave no weight to the exculpatory portion of the Accused’s investigation statement in Exhibit D3.
+
+26     During the Newton hearing, the Accused also claimed to have informed PW1 and PW2 that the address he had written on the SHN might not be accurate. I disbelieved this aspect of the Accused’s evidence for the following reasons:
+
+> (a)     The sister’s address on the SHN was written in the Accused’s own handwriting. The sister’s address, with the wrong details, was given as early as 4 July 2019 during his application for a long term pass for his wife. The sister’s address, again with the wrong details, was stated by the Accused in his investigation statement, Exhibit D3, which was recorded on 13 May 2020. In my assessment, the Accused had always believed that the sister’s address he had furnished was accurate. I thus found the Accused’s allegation during the Newton hearing to be an afterthought.
+
+> (b)     I was also mindful that the Accused’s allegation was not put to PW1, PW2 or PW5 when they were cross-examined by the Accused’s counsel. It was clear to me that the Accused had made up this allegation during his oral testimony.
+
+27     During the Newton hearing, the Accused also claimed that he believed that he would have difficulties returning to Batam, Indonesia, as he had heard rumours that Batam had closed its border to non-Indonesians. Under cross-examination, the Accused was asked to account for failing to state this purported belief during in his interview with PW5 (see Exhibit P7) and in his investigation statement, Exhibit D3. The Accused first insisted that he had raised this IO Lim Wang Hsing (“IO Lim”), the recorder of Exhibit D3. However, upon further questioning by the Prosecution, the Accused then changed his evidence and claimed that he had not mentioned it because IO Lim had not asked him. According to PW1, she had given the Accused the option of returning to Batam but he did not take up the offer. More importantly, the Accused did not state his belief to PW1 that Batam had closed it borders. Having reviewed the evidence, I agreed with the Prosecution’s submission that the Accused was “_simply scrambling for an excuse_”.
+
+28     Having reviewed all the evidence, I found that the Accused had wanted to enter Singapore at all costs for the sole purpose of reporting for work. Hence, when he found out that he was required to serve a SHN, he lied to PW1 that he could serve the SHN at his sister’s place. Putting his sister’s address on the SHN allowed him to clear immigration control. Thereafter, he proceeded to report for work in blatant breach of the SHN. When he was subsequently caught for breaching the SHN, he resorted to concocting false allegations against PW1 and PW2 in order to downplay his culpability for breaching the SHN.
+
+## Prosecution’s Address on Sentence
+
+29     In brief, the Prosecution sought a sentence of at least seven weeks’ imprisonment. The Prosecution’s submissions are set out at \[30\] to \[39\] below.
+
+### Seeking a Deterrent Sentence
+
+30     The Prosecution submitted that a deterrent sentence in the form of a custodial sentence was warranted in the present case.
+
+31     The Prosecution first argued that the COVID-19 pandemic was an unprecedented crisis in which the importance of controlling the incidence and transmission of COVID-19 in Singapore could not be understated. Every person issued with a SHN is expected to comply with all the requirements. Every instance of non-compliance is a threat to public health and severe punishments are needed to deter those who has acted in breach of the SHN requirements.
+
+32     Next, the Prosecution argued that the Accused’s conduct was most egregious. Instead of staying at the stated place of residence in the SHN, the Accused had reported for work from 20 March 2020 to 30 March 2020 and 1 April 2020 to 3 April 2020. The Accused did not report for work on 31 March 2020. The Accused had therefore acted in contravention of the SHN for its _entire period_ save for 31 March 2020. Even so, on 31 March 2020, the Accused did not stay at the stated place of residence in the SHN. The Accused’s irresponsible conduct had exposed his co-workers to the risk of contracting COVID-19.
+
+33     The Prosecution further argued that when dealing with a widespread and contagious virus, there was a heightened need for individuals to be socially responsible, especially those who had been assessed by the authorities to be public health risks. In this regard, the Prosecution referred to the speech of the Minister for National Development made on 25 March 2020 during the Update on Whole-of-Government Response to COVID-19[\[note: 1\]](#Ftn_1):
+
+> We also know that we cannot rely on tests alone, because someone who tests negative at the point of entry may simply be incubating the virus and could develop symptoms over the following days. That is why it is important to also isolate these returnees and have all of them serve a 14-day Stay-Home Notice. They have to stay at their place of residence and avoid contact with others even within the same household … … We will continue with the tough enforcement for both Stay-Home Notice and quarantine cases, including through all the various means we have put in place – remote monitoring, video calls and random house visits. We have put in place also very strict penalties for those who breached the requirements … …
+
+### Factors Affecting Sentence
+
+#### Offence-specific factors
+
+34     The Prosecution highlighted that the Accused reported to work on 13 out of the 14 days during his SHN period. The Accused had to travel some distance from the places where he slept to get to his workplace. This meant that he had repeatedly exposed his co-workers and members of the public to the risk of transmission over a prolonged period. The Prosecution thus assessed the risk of transmission of COVID-19 to be moderate.
+
+35     As for the Accused’s culpability, the Prosecution had assessed it to be moderate. The factors that the Prosecution relied on were as follows:
+
+> (a)     The Accused chose the option of stating a place of residence in the SHN but showed reckless disregard by reporting for work and thus undermined the SHN regime;
+
+> (b)     The Accused was paired with another security officer at his workplace. The co-worker was therefore placed at risk of being infected with COVID-19.
+
+> (c)     The Accused did not inform the ICA officers that he could not stay at his sister’s place, even though he had used her address as the place of residence in the SHN. The Accused also declined the ICA’s offer to return to Batam.
+
+36     In its assessment of the Accused’s culpability, the Prosecution took into account that he did not breach the SHN for frivolous reasons. The Accused also did not flaunt or publicize his breach.
+
+#### Offender-specific factors
+
+37     The Prosecution submitted that little weight should be accorded to the Accused’s “homeless” status in Singapore. The Prosecution argued that the Court should not be sending the message that a Singapore Citizen who does not have a home here, but has a home in another country, and chooses to flout the SHN in order to report for work and earn a living, is deserving of a lighter sentence.
+
+38     Whilst the Accused had pleaded guilty, the Prosecution argued that the Court was entitled to reduce the weight attributed to remorse as a mitigating factor if an unmeritorious Newton hearing was done whereby time and costs were wasted: _Public Prosecutor v Chong Hou En_ <span class="citation">\[2015\] 3 SLR 222</span> at \[59\].
+
+#### Sentence sought is in line with case precedents
+
+39     The Prosecution submitted that a custodial sentence of at least seven weeks’ imprisonment was in line with case precedents. The Prosecution highlighted the following four unreported cases, which involved the commission of the same offence as the Accused.
+
+> A.      _PP v Tham Xiang Sheng Alan_ (DSC-900220-2020)
+
+>> On his arrival in Singapore from Myanmar on 23 March, the offender was served with a SHN. Instead of proceeding to his place of residence immediately, the offender went to a food court at the airport and then to Peninsula Plaza. After taking a shower at home, he went out to have a meal of _Bak Kut Teh_. He posted pictures of this meal on social media and despite receiving comments on his post urging him to be responsible and return home, he went to a supermarket to purchase groceries first before going home. He did not wear a face mask. He spent about 4 ½ hours out of his place of residence.
+
+>> The offender was charged with one count under s 21A(1) of the IDA. He pleaded guilty and was sentenced to six weeks’ imprisonment.
+
+> B.      _PP v Quresh Singh Sandhu_ (MAC-903629-2020) (_“Quresh”_)
+
+>> On his arrival in Singapore from Batam on 17 March 2020, the offender was served with a SHN. From 17 March 2020 to 21 March 2020, he did not remain at his place of residence. He went to work as a security officer at Marina Bay Sands for his 8 pm to 8 am shifts. He used the MRT system for his transportation needs.
+
+>> The offender was charged with one count under s 21A(1) of the IDA. He pleaded guilty and was sentenced to six weeks’ imprisonment.
+
+> C.      _PP v Adenan Bin Amat_ (MAC-904895-2020 and others) (_“Adenan”_)
+
+>> The offender was charged with one count under s 21A(1) of the IDA and one count under Reg 3(1) punishable under Reg 3(3) of the Infectious Disease (COVID-19 – Stay Orders) Regulations.
+
+>> On his arrival in Singapore from Batam on 3 April 2020, the offender was served with a SHN.
+
+>> With respect to the offence under s 21A(1) of the IDA, the offender went for a job interview on 10 April 2020. The offender accepted the job as a cleaner. He worked for four to five days during the period 10 to 17 April 2020. His working hours were 7 am to 4 pm. He wore a full set of personal protective equipment at all times whilst he was at work. He did not inform his supervisor that he was then serving a SHN.
+
+>> The offender pleaded guilty to both charges. In respect of the offence under s 21A(1) of the IDA, he was sentenced to six weeks’ imprisonment.
+
+> D.      _PP v Nurul Afiqah Binte Mohammad_ (MAC909864-2020 and others)
+
+>> On her arrival in Singapore from Australia, the offender was served with a SHN. She breached the SHN on at least 7 occasions. On the first occasion, she left her place of residence to buy bubble tea. (Duration: One hour and 33 minutes.) On the second occasion, she visited her friend for wedding preparations. (Duration: Five hours and seven minutes.) On the third occasion, she visited her friend for wedding preparations. (Duration: Seven hours.)
+
+>> The offender pleaded guilty to her offences. The Prosecution proceeded with three counts under s 21A(1) of the IDA. Four other counts under s 21A(1) of the IDA were taken into consideration for sentencing. The offender received an aggregate sentence of seven weeks’ imprisonment with the breakdown as follows:
+
+>> Breach on first occasion: Two weeks’ imprisonment (concurrent)
+
+>> Breach on second occasion: Three weeks’ imprisonment (consecutive)
+
+>> Breach on third occasion : Four weeks’ imprisonment (consecutive)
+
+## Mitigation Plea and Defence’s Address on Sentence
+
+40     The Accused’s plea-in-mitigation can be summarised as follows:
+
+> (a)     He is a Singapore citizen without an abode in Singapore. He resided in Johor Bahru and commuted daily to Singapore to work.
+
+> (b)     On 20 March 2020, he returned to Singapore believing that he would not have to serve a SHN. The evidence led at the Newton hearing showed that he had held a wrong belief. The Accused was then informed that he had to serve a SHN. The Accused accepted that he had to serve a SHN.
+
+> (c)     For the purpose of the SHN, he had stipulated the address (albeit with the wrong details) of the place jointly owned by his mother and sister. As they were estranged and not on good terms, he did not stay at his sister’s place during the SHN period. Where possible, he slept at his workplace or at multi-storey carparks. He gave his best efforts to stay away from crowds.
+
+> (d)     He did not breach the SHN for frivolous reasons. He needed to work to earn the money to support himself and his wife.
+
+> (e)     The Defence submitted that there was a greater need for deterrence _then_ (_i.e_. in March/ April 2020), as opposed to _the time of sentencing_ (_i.e_. in December 2021).
+
+> (f)     The Defence further submitted that the ordinary principles of deterrence cannot apply where an accused person, out of sheer vicissitude, is “_homeless”_.
+
+> (g)     He was not found to be COVID-19 positive and there was no evidence to suggest that he had infected anyone.
+
+41     The Defence argued that a combination of a Short Detention Order (“SDO”) and a Community Service Order (“CSO”) would be appropriate punishment for the present case. It was the Defence’s case that it would be more meaningful for the Accused to remain gainfully employed. The Defence further argued that a sentence of imprisonment would only serve to make it an even greater struggle for the Accused to turn his life around.
+
+42     In the alternative, the Defence submitted that if a custodial term was to be imposed, it should be at most two weeks’ imprisonment. The Defence relied on the case of _PP v Palanivelu Ramasamy_ (MAC-903312-2020, unreported) (“_Palanivelu”_), which is discussed in \[44\] below.
+
+43     Finally, as a last resort, the Defence submitted that a fine was an appropriate sentence. The Defence did not provide any substantive legal analysis or cases to support its submission. It was a mere one-liner amongst its 33-page long written plea-in-mitigation.
+
+## Sentence Imposed by the Court
+
+44     In _PP v Palanivelu Ramasamy_ (MAC-903312-2020, unreported) (“_Palanivelu”_), the offender, who was served with a SHN on 21 March 2020, acted in breach of the SHN by leaving his place of residence to deliver newspapers to at least 14 units across eight floors at Goldhill Plaza. The offender had taken public transport to travel from his place of residence to Goldhill Plaza to do the newspaper deliveries. The offender was charged under Reg 4(1) of the Infectious Diseases (COVD-19 – Stay Orders) Regulations 2020 (“Regulations”) and punishable under Reg 4(2) of the said Regulations. The offender was sentenced to two weeks’ imprisonment.
+
+45     It is clear from _Palanivelu_ and the other four cases (see \[39\] above) that the paramount principle of sentencing would be one of deterrence. A deterrent sentence is needed to prevent breaches that would undermine the collective efforts of all to prevent the spread of COVID-19.
+
+46     I was mindful that these case precedents were unreported decisions. Case precedents without grounds or explanations should bear little weight, if any, because they are unreasoned. A sentencing court should approach such case precedents with caution: _Janardana Jayasankarr v Public Prosecutor_ <span class="citation">\[2016\] 4 SLR 1288</span> at \[13(b)\]. That said, I made two observations. First, a custodial sentence was imposed in each of the case precedents. It was clear that the courts have determined that the imposition of a custodial sentence would address the deterrence needed of offences of this nature and genre. Second, I observed that the sentencing range that this court could glean from the sentencing precedents is consistent with the general principle that the severity of sentence must be commensurate with the culpability of the offender.
+
+47     In my judgment, the Accused had deliberately lied about his place of residence in the SHN. He had done so because his primary purpose was to go to work. It was clear from the evidence that he had returned to Singapore with the sole purpose of reporting for work. The SHN was an obstacle which he intended to avoid by breaching the law. The Court cannot condone such a wilful and deliberate criminal act.
+
+48     I was therefore in total agreement with the Prosecution’s submissions (see \[30\] to \[39\] above) that a custodial sentence was warranted in this case. In my assessment, I found that neither a fine nor a community-based sentence (such as a SDO or a CSO), or sentences (such as a combination of SDO and CSO) were an adequate punishment in this case. The need for a deterrent sentence was paramount and the factors raised by the Defence in its plea-in-mitigation and sentencing submissions had failed to displace this sentencing consideration.
+
+49     I rejected the Defence’s submission that there was a greater need for deterrence _then_ (_i.e._ in March/ April 2020), as opposed to at the time of sentencing (_i.e._ in December 2021). The COVID-19 pandemic, even at the date of writing, has not left us. We continue to deal with offenders breaching COVID-19 related laws and regulations. Deterrence as a principle of sentencing continues to be paramount. Furthermore, I have observed that the offenders in _Palanivelu_ and the other four case precedents cited by the Prosecution committed their respective offences around the same time (_i.e_. March 2020 or April 2020) as this Accused and these offenders had pleaded guilty early. If this Court were to accept the Defence’s submission, then it would give a perverse incentive to offenders to delay their criminal case in the hope of getting a more lenient sentence. In my assessment, the Accused ought to be given a sentence that is either on par with or within the permissible range of sentences imposed in _Palanivelu_ and the other four case precedents.
+
+50     The Defence repeatedly made the argument that this was an exceptional case because the Accused was “homeless”. I disagreed with the Defence’s characterisation. The Accused, despite being a Singapore Citizen, had decided to set up his home in Malaysia, rather than in Singapore, his home country. He therefore has a home, albeit not in Singapore. The Accused would have weighed up the benefits and/or disadvantages that came with his decision to base his place of residence in Malaysia, with or without the COVID-19 pandemic. Many foreigners entering Singapore would not have a permanent place of residence and yet would have to comply with the prevailing laws of our country. Our laws apply to all equally. No exception can be carved out for the Accused.
+
+51     I gave no weight to the Accused’s personal and family hardship. It is well settled that, except in most exceptional circumstances, hardship to the offender’s family has very little, if any mitigating value: see _Lai Oei Mui Jenny v Public Prosecutor_ <span class="citation">\[1993\] 2 SLR(R) 406</span>. I did not find the Accused’s personal and family circumstances to be any different from other cases. The Accused’s personal and family hardship was plainly not an exceptional case.
+
+52     I was aware that there was no evidence suggesting that the Accused had contracted COVID-19 nor that he had infected others with COVID-19. This was only fortuitous. If the Accused had been found to have infected others with COVID-19 during the period of his SHN, then it would have been an aggravating factor for the purpose of sentence. On the contrary, the absence of an aggravating factor cannot _ipso facto_ constitute a mitigating factor: _Public Prosecutor v AOM_ <span class="citation">\[2011\] 2 SLR 1057</span> at \[37\].
+
+53     Having regard to the sentences meted out in the case precedents, and having regard to the relevant sentencing factors highlighted by the Prosecution, as well as my findings of fact from the Newton hearing, it was my assessment that the appropriate sentence for this case was an imprisonment term of seven weeks. I therefore passed the said sentence on the Accused.
+
+#### The Court declined to adopt a sentencing framework for an offence under s 21A IDA
+
+54     In its written submission on sentence, the Prosecution urged the Court to adopt a sentencing framework for an offence under s 21A of the IDA for first-time offenders who were convicted at the end of a trial. The sentencing framework was proposed by the Prosecution during the case of _PP v Tham Xiang Seng Alan_ (DSC-900220-2020, unreported) (“_Tham_”) (See \[39A\] above).
+
+55      _Tham_ is an unreported decision. As I have stated in \[46\] above, case precedents without grounds or explanations should bear little weight, if any, because they are unreasoned. Additionally, I was mindful of the caution stated by the Court of Appeal (“CA”) in _Adri Anton Kalangie v Public Prosecutor_ <span class="citation">\[2018\] 2 SLR 557</span> at \[67\] where the CA stated: “\[r\]elatedly, since the court establishing a new sentencing framework will likely be an appellate court, the doctrine of prospective overruling will likewise most likely arise for consideration by an appellate court. … It would probably be a rare case where a first instance court, whether the High Court sitting in its original criminal jurisdiction or a State Court, has to calibrate a sentencing framework for the first time and must therefore consider the prospectivity of the framework laid down. Such a situation should generally be avoided.” I heeded the CA’s advice. For the reasons stated, I declined to adopt and use the sentencing framework proposed by the Prosecution in _Tham_.
+
+* * *
+
+[^1]: _Singapore Parliamentary Debates_, Official Report (25 March 2020) Vol. 94 – Lawrence Wong, Minister for National Development.
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F28755-SSP.xml)

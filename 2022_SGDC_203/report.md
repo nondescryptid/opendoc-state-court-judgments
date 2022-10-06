@@ -1,0 +1,248 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Jacyln Chua _v_ Control Automation Pte Ltd  
+
+### \[2022\] SGDC 203
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">District Court Suit No. 2570 of 2018, District Court Registrar's Appeal No.42 of 2022, HC/RAS 22/2022</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">02 September 2022</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Toh Yung Cheong</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Joseph Liow (Joseph Liow LLP) (instructed), Rajvant Kaur d/o Jagit Singh (Omnia Law Chambers LLC) for the plaintiff and defendants in counterclaim; and Pua Lee Siang (Kelvin Chia Partnership) for the defendant and plaintiff in counterclaim</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Jaclyn Chua — Control Automation Pte Ltd — Boo Choon Chik (trading as J &amp; J Automation)</td></tr></tbody></table>
+
+Civil Procedure – Pleadings – Striking out
+
+Civil Procedure – Discovery of documents
+
+\[LawNet Editorial Note: An appeal to this decision has been filed in HC/RAS 22/2022.\]
+
+2 September 2022 - Judgment reserved
+
+### District Judge Toh Yung Cheong:
+
+1       This is an appeal by the defendants to the counterclaim (Jaclyn Chua and Boo Choon Chik, hereinafter referred to as the Appellants) in DC Suit No. 2570 of 2018 against the Deputy’s Registrar’s decision in DC/SUM/541/2022 to strike out their defence to CAPL’s counterclaim.
+
+2       After hearing submissions from both parties, I dismissed the appeal. As the Appellants have filed a Notice of Appeal, I will now set out the reasons for my decision.
+
+## Brief Facts
+
+3       The Defendant (“CAPL”) is a company that is involved in the business of oil refining machinery and equipment manufacturing, repairing, general building engineering design, and consultancy services. The plaintiff (“Chua”) was an ex-director of CAPL. She left CAPL around July 2017. J&J Automation (“J&J”) was a business that was set up in February 2011 with her husband (“Boo”) as the registered owner.
+
+4       Chua filed a claim against CAPL for unpaid salaries. CAPL denies the claim and filed a counterclaim against Chua and Boo (who are therefore the first and second defendants in the counterclaim). The counterclaim relates to allegations that Chua had breached her employment contract, her obligations as a trustee of CAPL’s assets and her duties as CAPL’s director in a number of ways, including using J&J to siphon business from CAPL.
+
+### Procedural history
+
+5       For ease of reference, I will set out the procedural history of the case which led to the present Appeal:
+
+> (a)     On 30 September 2021, Deputy Registrar Lewis Tan partially granted CAPL’s application for specific discovery. His order was extracted as DC/ORC 3490/2021 (“The Discovery Order”). These covered 16 categories of documents and broadly pertained to CAPL’s counterclaim.
+
+> (b)     On 12 Nov 2021, CAPL filed DC/SUM/4475/2021 seeking to strike out Chua’s claim and defence to the counterclaim, or in the alternative, for an Unless Order to be made against Chua. On 21 January 2022, Deputy Registrar Elaine Lim (“DR Lim”) granted the Unless Order against Chua and Boon requiring them to comply fully with the Discovery Order save as to 3 of the 16 categories listed in the Discovery Order.
+
+> (c)     On 10 February 2022, CAPL filed DC/SUM 484/2022 seeking to strike out Chua’s entire claim and defence to the counterclaim. Six days later, Chua filed DC/SUM 541/2022 for an extension of time to file their list of documents and affidavit verifying list of documents in DC/SUM 4475/2021. On 12 May 2022, Deputy Registrar Kim Bum Soo partially granted the orders sought in DC/SUM 484/2022 and struck out Chua and Boon’s Defence to Counterclaim. As for DC/SUM 541/2022, the Deputy Registrar granted the extension of time but noted at \[58\] that it had “no practical implication for whether there had indeed been a breach of the Unless Order.”
+
+### Deputy Registrar’s decision on the breach of the Unless Order
+
+6       The Deputy Registrar found that there had been a “punctuality breach” of the Unless Order as the list of documents was only filed and served on 11 February 2022, which was a date after the 4 February 2022 deadline.
+
+7       More significantly, the Deputy Registrar found that even if the documents had been filed in time, they did not sufficiently fulfil the Appellants’ obligations under the Unless Order as there was inadequate disclosure of the following items:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="16.66%"><col width="83.34%"></colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="center" class="Table-Para-1"><b>Annex &amp; Item No.</b></p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="center" class="Table-Para-1"><b>Description</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">A1</p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">All documents relating to J&amp;J’s accounts, transactions, sales, customer lists.</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">A3</p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">All documents evidencing transactions between J&amp;J and Yokogawa and its related entities.</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="middle"><p align="center" class="Table-Para-1">A6</p></td><td align="left" class="" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">All financial statements of J&amp;J, including but not limited to the profit and loss statements and balance sheets</p></td></tr></tbody></table>
+
+  
+  
+
+8       Next, the Deputy Registrar went on to consider Chua’s explanations for her non-disclosure and explained why he found that Chua’s explanations were inadequate. Given the inadequacy of Chua’s explanations and that no extraneous circumstances were highlighted by the Appellants, the Deputy Registrar found that the Unless Order had been breached.[\[note: 1\]](#Ftn_1)
+
+9       There has been no appeal against the Deputy Registrar’s finding that the Unless Order had been breached.
+
+### Deputy Registrar’s decision on the striking out application
+
+10     The Deputy Registrar proceeded to consider the parties’ various claims and the factual allegations underpinning each of these claims. The focus in this decision is on the counterclaim and I adopt the Deputy Registrar’s categorisation[\[note: 2\]](#Ftn_2):
+
+> (a)     CAPL’s claim that Chua had breached her duties as CAPL’s director and/or her obligation as trustee of its assets/properties by:
+
+>> (i)       failing to return/hand over its confidential documents upon her resignation (“**the Handover Allegation**”);[\[note: 3\]](#Ftn_3)
+
+>> (ii)       failing to account to Leong about CAPL’s day-to-day business operations (“**the Accountability Allegation**”);[\[note: 4\]](#Ftn_4)
+
+>> (iii)       wrongfully removing/deleting documents belonging to CAPL (“**the Disposal Allegation”**);[\[note: 5\]](#Ftn_5)
+
+>> (iv)       setting up and operating J&J as a competing business (“**the Competing Business Allegation**”);[\[note: 6\]](#Ftn_6)
+
+>> (v)       failing to disclose her interest in J&J to CAPL (“**the Disclosure Allegation**”);[\[note: 7\]](#Ftn_7)
+
+>> (vi)       causing CAPL to supply manpower and materials to J&J at an undervalue (“**the Undervalue Allegation**”);[\[note: 8\]](#Ftn_8)
+
+>> (vii)       communicating CAPL’s confidential information to third parties like Boon and J&J (“**the 3P Communication Allegation**”);[\[note: 9\]](#Ftn_9)
+
+> (b)     CAPL’s claim concerning an unlawful means conspiracy, to the effect that Chua had conspired with Boon to defraud CAPL[\[note: 10\]](#Ftn_10) by:
+
+>> (i)       setting up and operating J&J as a competing business (effectively the Competing Business Allegation);[\[note: 11\]](#Ftn_11)
+
+>> (ii)       failing to disclose J&J’s registration to CAPL (an extension of the Non-disclosure Allegation);[\[note: 12\]](#Ftn_12)
+
+>> (iii)       wrongfully diverting projects away from CAPL to J&J (“**the Diversion Allegation**”);[\[note: 13\]](#Ftn_13)
+
+>> (iv)       causing CAPL to supply manpower and materials to J&J at an undervalue (effectively the Undervalue Allegation);[\[note: 14\]](#Ftn_14)
+
+>> (v)       continuing to retain CAPL’s confidential information (an extension of the Handover Allegation);[\[note: 15\]](#Ftn_15)
+
+>> (vi)       communicating such confidential information to third parties like Boon and J&J (effectively the 3P Communication Allegation);[\[note: 16\]](#Ftn_16)
+
+>> (vii)       inducing one of CAPL’s employee (“Peong”), to work for J&J (“the Peong Allegation”);[\[note: 17\]](#Ftn_17)
+
+> (c)     CAPL’s claim that Boon was a “constructive trustee for the Defendant”[\[note: 18\]](#Ftn_18) as he had knowing receipt of the proceeds from:
+
+>> (i)       CAPL’s supply of services and materials to J&J at an undervalue (premised on the Undervalue Allegation);[\[note: 19\]](#Ftn_19)
+
+>> (ii)       CAPL’s supply of services and material to J&J without proper disclosure of the actual value of such services/materials (premised on the Non-disclosure Allegation);[\[note: 20\]](#Ftn_20)
+
+>> (iii)       Chua’s breaches of her director’s duties and/or obligations as trustee of CAPL’s properties/assets.[\[note: 21\]](#Ftn_21)
+
+> (d)     CAPL’s claim that Boon and Chua had unlawfully interfered with its business by:
+
+>> (i)       setting up J&J to compete with CAPL (effectively the Competing Business Allegation);[\[note: 22\]](#Ftn_22) and
+
+>> (ii)       inducing Peong to work for J&J (effectively the Peong Allegation);[\[note: 23\]](#Ftn_23)
+
+11     The Deputy Registrar found that CAPL would be “significantly disabled by the non-disclosure” of items in Annex A, items 1, 3 and 6.[\[note: 24\]](#Ftn_24) The Deputy Registrar considered, but rejected the following submissions from Chua’s Counsel:
+
+> (a)     The crux of CAPL’s counterclaim pertained to the issue of CAPL’s consent to the operation of J&J and that the non-disclosure did not affect this issue.[\[note: 25\]](#Ftn_25)
+
+> (b)     The non-disclosure related only to the quantum of damages that CAPL stood to be awarded and that liability could be adjudicated by reference to what had been produced.[\[note: 26\]](#Ftn_26)
+
+> (c)     The businesses whose custom J&J had allegedly stolen from CAPL could always be summoned by CAPL for examination at trial or asked to produce documents relating to the circumstances in which they entered into business with J&J.[\[note: 27\]](#Ftn_27)
+
+12     The Deputy Registrar concluded that:
+
+> In my view, CAPL would be seriously prejudiced in prosecuting its counterclaim as some of the factual building blocks are simply not available anymore. In the circumstances, I concluded that a fair trial was not possible for CAPL’s counterclaims and accordingly, struck out Chua and Boon’s Defence to Counterclaim.
+
+13     The decision of the Deputy Registrar to strike out the Appellants’ Defence to Counterclaim forms the subject matter of this appeal. For completeness, CAPL has not appealed against the Deputy Registrar’s decision not to strike out Chua’s claim.
+
+## Analysis
+
+### Approach
+
+14     The arguments before me were largely similar to the arguments before the Deputy Registrar save for the additional argument that the “Peong allegation” could be separated from the rest of the counterclaim and Chua’s defence to the Peong allegation should not have been struck out.
+
+15     I will go through each of the 3 categories of documents that were not disclosed and explain why I agreed with the Deputy Registrar that the breach of the Unless Order and non-disclosure led to the conclusion that a fair trial will no longer be possible on the Counterclaim.
+
+### Applicable Law
+
+16     There was common ground between parties on the applicable law on the striking out of pleadings for breaches of discovery obligations. The Deputy Registrar in his written Judgment cited three principles from the Court of Appeal decision of _Mitora Pte Ltd v Agritrade International (Pte) Ltd._ <span class="citation">\[2013\] 3 SLR 1179</span> that were the most applicable to the present case.[^28]
+
+### Preliminary issue: Appellant’s submission that the Deputy Registrar failed to consider alternative sanctions
+
+17     Before commencing my analysis, I will deal with the submission that the Deputy Registrar could have considered alternative sanctions before imposing the “draconian sanction of striking out”[\[note: 29\]](#Ftn_29) as the Court has to be guided by considerations of proportionality when imposing sanctions for a breach of an Unless Order: _Mitora_ at \[39\].
+
+18     I found that the issue of alternative sanctions for the breach of the Unless Order did not arise in this case because of the finding that a fair trial of the counterclaim was not possible. In other words, the prejudice suffered by CAPL was so great that striking out of the Defence to Counterclaim was the correct order in this case.
+
+19     In the following part of my Decision, I will explain why items A1, A2 and A6 were relevant to CAPL’s counterclaim and therefore, why CAPL’s ability to proceed with its counterclaim was affected by their non-disclosure.
+
+### Annex A Category 1 (“A1”): All documents relating to J&J’s accounts, transactions, sales, and customer lists
+
+20     I agreed with the Deputy Registrar that documents in this category were highly relevant to the Diversion Allegation[\[note: 30\]](#Ftn_30) and whether Chua and Boon wrongfully diverted projects away from CAPL to J&J. Para 27 of the DNCC lists 13 specific projects.[^31] Correspondence between J&J and various parties in relation these projects would be relevant in highlighting the circumstances under which the projects and/or transactions were carried out.
+
+21     The Appellants’ submit that since J&J’s defence is that they were a “business conduit” for CAPL[\[note: 32\]](#Ftn_32), the sole issue was whether J&J was operated with the knowledge and consent of CAPL and that non-disclosure of documents under A1 did not affect this.
+
+22     I disagreed with the submission. Even if J&J was set up with the consent of CAPL, CAPL may nevertheless go on to show that it was operated in a manner that amounted to a conspiracy to defraud CAPL.[\[note: 33\]](#Ftn_33) The documents discoverable pursuant to A1 would be required by CAPL for this purpose.
+
+### Annex A Category 3 (“A3”) All documents evidencing transactions between J&J and Yokogawa and its related entities
+
+23     For similar reasons, I agreed that A3 would be relevant to the issue of whether J&J diverted business away from CAPL (the Diversion Allegation) as well as the Competing Business Allegation. The documents evidencing transactions such as purchase orders would be relevant to this. However, Chua’s position, which had shifted in the course of proceedings, is that they only found one purchase order from Yokogawa and the rest were left with CAPL.[\[note: 34\]](#Ftn_34)
+
+24     The Appellants submit that since J&J did not dispute transacting with Yokogawa, the only issue was consent and the non-disclosure of A3 did not prevent CAPL from proving that they did not consent. Therefore, the lack of documents such as purchase orders from Yokogawa only affected the determination of the quantum of damages and not liability.
+
+25     In relation to this issue, the Deputy Registrar highlighted (while stating that he was not making any finding on the evidence) that there was evidence to the effect that J&J was meant to “get jobs from Yokogawa panel department and some new customers.”[\[note: 35\]](#Ftn_35)
+
+26     However, I was of the view that the documents discoverable pursuant to A3 were still relevant to the issue of liability and whether CAPL could prove the various allegations in relation to the unlawful means conspiracy. Unless there is clear evidence that CAPL gave J&J a ‘blank cheque’ to do anything they wanted, the Court may still be called upon to determine whether J&J was acting within the scope of CAPL’s knowledge or authorisation, and this would require a thorough examination of J&J’s dealings with Yokogawa and its related entities.
+
+27     In respect of the Appellants’ submission that a fair trial would still be possible if Yokogawa and its related entities could be summoned by CAPL for examination at trial or asked to produce documents[\[note: 36\]](#Ftn_36), I noted that unlike A1, the transaction-related documents in A3 may well be sufficiently identifiable for a request to be made to Yokogawa and its related entities to be made. However, I agreed with the Deputy Registrar’s view that CAPL should not be expected to remedy J&J’s non-disclosure which was caused by Chua and/or J&J’s disposal of these documents.
+
+### Annex A Category 6 (“A6”): All financial statements of J&J Automation, including but not limited to the profit and loss statements and balance sheets
+
+28     I agreed with the Deputy Registrar that A6 was relevant to the Accountability Allegation[\[note: 37\]](#Ftn_37) The financial statements would have revealed the profits J&J had made and would allow CAPL to verify whether Chua had accounted to CAPL regarding the same. This was not merely a question of the quantum of damages but went to the issue of whether CAPL is able to prove the Accountability Allegation.
+
+### Assessment of Appellant’s submission that Peong allegation was not affected by the non-Disclosure
+
+29     At the hearing of this appeal, the appellants argued that the Peong allegation was not affected by the non-Disclosure of A1, A3 or A6.
+
+30     I was of the view that the Peong allegation was linked to the Diversion Allegation and the Competing Business Allegation. Documents that were not disclosed in A1 and A6 may shed light on the role Peong played in interacting with Yokogawa and other clients. The documents may also have been relevant to the question of whether Peong was hired for the purpose of interfering with CAPL’s business.
+
+## Decision
+
+31     Given my assessment of the impact of the non-disclosure of A1, A3 and A6, I found that a fair trial of the counterclaim was no longer possible and agreed with the Deputy Registrar that Chua and Boon’s Defence to Counterclaim should be struck out. The appeal is therefore dismissed.
+
+* * *
+
+[\[note: 1\]](#Ftn_1_1)DR’s Judgment at \[24\]-\[40\], \[45\]
+
+[^2]: DR’s Judgment at \[52\]
+
+[^3]: Defence and Counterclaim filed by CAPL (“DNCC”) at \[22.1\] .
+
+[^4]: DNCC at \[22.2\].
+
+[^5]: DNCC at \[23\].
+
+[^6]: DNCC at \[28.5\]
+
+[^7]: DNCC at \[28.2.1\]
+
+[^8]: DNCC at \[28.3\]
+
+[^9]: DNCC at \[28.4\]
+
+[^10]: DNCC at \[26\].
+
+[^11]: DNCC at \[26.2\]
+
+[^12]: DNCC at \[27.1\] – \[27.2\].
+
+[^13]: DNCC at \[27.5\]
+
+[^14]: DNCC at \[27.6\]
+
+[^15]: DNCC at \[27.7\]
+
+[^16]: DNCC at \[27.7\]
+
+[^17]: DNCC at \[27.8\] and \[27.11\].
+
+[^18]: DNCC at \[51.2\]
+
+[^19]: DNCC at \[46.1\] and \[46.2\].
+
+[^20]: DNCC at \[46.3\].
+
+[^21]: DNCC at \[28.6\].
+
+[^22]: DNCC at \[26.2\] and \[51.3\]
+
+[^23]: DNCC at \[27.8\], \[27.11\], \[51.3\]
+
+[^24]: DR’s Judgment at \[56\]
+
+[^25]: Appellant’s submissions at the Registrar’s Appeal at page 17
+
+[^26]: Appellant’s submissions at the Registrar’s Appeal at pages 18-20
+
+[^27]: Appellant’s Submissions at the Registrar’s Appeal at page 21
+
+[^28]: DR’s Judgment at \[44\]
+
+[^29]: Appellant’s submissions at the Registrar’s Appeal at page 28-29.
+
+[^30]: DNCC at \[27.5\]
+
+[^31]: The DNCC also states that the counterclaim is ‘not limited’ to these 13 projects.
+
+[^32]: Appellant’s submissions at the Registrar’s Appeal at page 16
+
+[^33]: DNCC at \[26\]
+
+[^34]: DR’s Judgment at \[33\].
+
+[^35]: DR’s Judgment at \[26\]
+
+[^36]: Appellant’s submissions at the Registrar’s Appeal at page 22
+
+[^37]: DNC at \[22.2\], DR’s Judgment at \[56\]
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F27928-SSP.xml)

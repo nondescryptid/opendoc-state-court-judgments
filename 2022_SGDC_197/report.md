@@ -1,0 +1,1226 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Reza Md Hasan  
+
+### \[2022\] SGDC 197
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">District Arrest Case No 900131 of 2021 and 1 Other, Magistrate's Appeals No 9114-2022-01</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">31 August 2022</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Hamzah Moosa</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Cheng You Duen (Attorney-General's Chambers) for the Public Prosecutor; Revi Shanker (ARShanker Law Chambers) for the Accused.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Reza Md Hasan</td></tr></tbody></table>
+
+Offences – Statutory offences – Misuse of Drugs Act – Possession of controlled drugs
+
+Offences – Statutory offences – Misuse of Drugs Act – Consumption of controlled drugs
+
+Criminal Sentencing and Procedure – Sentencing – Appeals
+
+\[LawNet Editorial Note: An appeal to this decision has been filed in MA 9114/2022/01.\]
+
+31 August 2022
+
+### Senior District Judge Hamzah Moosa:
+
+## Introduction
+
+1       The Accused, Reza Md Hasan, is a Bangladeshi national and presently 34 years of age (and was 32 at the time of the offences on 2 August 2020). He claimed trial to two charges under the Misuse of Drugs Act (Cap 185, 2008 Rev. Ed.) (“the MDA”). The first charge – in DAC-900131-2021 – was under s. 8(b)(ii) of the MDA for the consumption of Methamphetamine (“the Consumption Charge”). The second charge – in DAC-900132-2021 – was under s. 8(a) of the MDA for the possession of Methamphetamine (“the Possession Charge”). I found him, at the conclusion of the trial, guilty and convicted him on the two charges. I then sentenced him to an imprisonment term of 14 months and 2 weeks for the Consumption Charge and an imprisonment term of 10 months for the Possession Charge – and ordered that the two sentences run concurrently – with an aggregate imprisonment sentence of 14 months and 2 weeks. The Accused, being dissatisfied with the decision, has appealed against the conviction and the sentence. He is currently on bail pending appeal.
+
+## The Charges
+
+2       The two charges that the Accused was tried and convicted on are:
+
+> DAC-900131-2021 (the Consumption Charge)
+
+> You, …, are charged that you, on or about 2 August 2020, in Singapore, did consume a Specified Drug listed in The Fourth Schedule to the Misuse of Drugs Act (Chapter 185, 2008 Rev Ed), _to wit_, Methamphetamine, without any authorisation under the said Act or the Regulations made thereunder, and you have thereby committed an offence under Section 8(b)(ii) and punishable under Section 33(3A) of the Misuse of Drugs Act (Chapter 185, 2008 Rev Ed).
+
+> DAC-900132-2021 (the Possession Charge)
+
+> You, …, are charged that you, on 2 August 2020 at or about 7.30am at 30 Paya Lebar Road, Paya Lebar MRT Station Singapore 409006, did have in your possession a controlled drug specified in Class A of the First Schedule to the Misuse of Drugs Act (Cap. 185, 2008 Rev. Ed.) _to wit_, 01 packet containing not less than 0.63 gram of crystalline substance which was analysed and found to contain not less than 0.42 gram of methamphetamine, at the said place without any authorisation under the said Act or the Regulations made thereunder and you have thereby committed an offence under Section 8(a) of the Misuse of Drugs Act (Cap. 185, 2008 Rev. Ed.), punishable under Section 33(1) of the Misuse of Drugs Act (Cap. 185, 2008 Rev. Ed.).
+
+## Applicable Law
+
+### The Consumption Charge – Section 8(b)(ii) of the MDA
+
+3       The relevant provisions of the MDA, namely ss. 8(_b_)(ii), 16, 22, 31(1) and 31(4), are set out below for ease of reference:
+
+> **Possession and consumption of controlled drugs**
+
+> **8**.    Except as authorised by this Act, it shall be an offence for a person to –
+
+>> (_b_)    smoke, administer to himself or otherwise consume –
+
+>>> …
+
+>>> (ii)   a specified drug.
+
+>>> …
+
+> **Certificate of analyst, etc**.
+
+> **16**.    A certificate purporting –
+
+>> (_a_)    to be signed by –
+
+>>> (i)    an analyst employed by the Health Sciences Authority…
+
+> shall be admitted in evidence, in any proceedings for an offence under this Act, on its production by the prosecution without proof of signature and, until the contrary is proved, shall be proof of all matters contained therein.
+
+> …
+
+> **Presumption relating to urine test**
+
+> **22**.    If any controlled drug is found in the urine of a person as a result of both urine tests conducted under section 31(4)(_b_), he shall be presumed, until the contrary is proved, to have consumed that controlled drug in contravention of section 8(_b_).
+
+> …
+
+> **Urine tests**
+
+> **31.** – (1)    Any officer of the Bureau, immigration officer or police officer not below the rank of sergeant may, if he reasonably suspects any person to have committed an offence under section 8(_b_), require that person to provide a specimen of his urine for urine tests to be conducted under this section.
+
+> …
+
+> (4)    A specimen of urine provided under this section shall be divided into 3 parts and dealt with, in such manner and in accordance with such procedure as may be prescribed, as follows:
+
+>> (_a_)    a preliminary urine test shall be conducted on one part of the urine specimen; and
+
+>> (_b_)    each of the remaining 2 parts of the urine specimen shall be marked and sealed and a urine test shall be conducted on each part by a different person, being either an analyst employed by the Health Sciences Authority or any person as the Minister may, by notification in the _Gazette_, appoint for such purpose.
+
+4       In _Mohammad Ashik Bin Aris v Public Prosecutor_ <span class="citation">\[2011\] 4 SLR 802</span> (“_Ashik_”), the Court of Appeal stated (at \[10\]) that: “_\[t\]he significance of compliance with s 31(4)(b) is that if there are positive results from both the urine tests carried out pursuant to this subsection, the s 22 presumption will operate to presume that the accused person has, in contravention of s 8(b), consumed the controlled drug detected in his urine samples_” – and this means that both the _actus reus_ and the _mens rea_ are presumed by s. 22 (of the MDA). Accordingly, the accused person would have to rebut the presumption either by showing that he did not in fact consume the controlled drug, or by showing that he did not in fact know the nature of the substance he was consuming.
+
+5       Insofar as non-compliance with s. 31(4)(b) of the MDA is concerned, the only effect would be that the s. 22 presumption may not be relied upon., _i.e._, the Prosecution would have to show beyond a reasonable doubt that the accused person had consumed a controlled drug in contravention of s. 8(_b_) of the MDA. A s. 16 certificate would still be admissible in evidence to show that certain tests to detect the existence and quantity of specified drug(s) in an accused person’s urine samples were done by the Health Sciences Authority (“the HSA”). Such tests are also capable of proving beyond a reasonable doubt the existence and quantity of the specified drug(s) in the accused person’s urine samples: _Ashik_ at \[37\].
+
+6       The key to rebutting the s. 16 presumption is demonstrating forensic inaccuracy _i.e._ the inaccuracy of the identification and/or quantification of the specified drug purportedly detected: _Ashik_ at \[42\]. The successful rebuttal of the s. 16 presumption would _ipso facto_ constitute a rebuttal of the s. 22 presumption (if the latter was triggered in the first place) because the implicit assumption of s. 22 (_viz_, that the two urine tests were in themselves accurate in their identification of the drug\[s\] in the urine sample) would have been fatally undermined: _Ashik_ at \[35\].
+
+### The Possession Charge – Section 8(a) of the MDA
+
+7       The relevant provisions of the MDA, namely ss. 8, 18(1) and 18(2), are set out below for ease of reference:
+
+> **Possession and consumption of controlled drugs**
+
+> **8**.    Except as authorised by this Act, it shall be an offence for a person to –
+
+>> (_a_)    have in his possession a controlled drug
+
+>> …
+
+> **Presumption of possession and knowledge of controlled drugs**
+
+> **18.** – (1)    Any person who is proved to have had in his possession or custody or under his control –
+
+>> (_a_)    anything containing a controlled drug;
+
+>> …
+
+> shall, until the contrary is proved, be presumed to have had that drug in his possession.
+
+> (2)    Any person who is proved or presumed to have had a controlled drug in his possession shall, until the contrary is proved, be presumed to have known the nature of that drug.
+
+8       The offence of possession under s. 8(_a_) of the MDA is not a strict liability offence that is established simply by proof of the fact of possession. To make out an offence of possession under s. 8(_a_) of the MDA, the Prosecution must prove both: the fact of knowing possession of the thing that turned out to be a drug – the _actus reus_ element; and the accused person’s knowledge of the nature of the drug in his possession – the _mens rea_ element: _Adili Chibuike Ejike v Public Prosecutor_ <span class="citation">\[2019\] 2 SLR 254</span> (“_Adili_”) at \[35\].
+
+#### The presumption of knowing possession under section 18(1) of the MDA
+
+9       The Court of Appeal in _Adili_ also clarified the legal significance of the concept of “possession” (of a drug) under the MDA (at \[28(a)\] and \[34\]):
+
+> First, the concession by the Defence that the Appellant had been in possession of the drugs appeared to be inconsistent with the case it advanced that the Appellant did not know that the two bundles containing the drugs were hidden in the case. This is a **fact of profound legal significance** because… the Appellant **must know of the** **_presence_** **of a thing before he can be said in a legal sense to “possess” it**. If the drugs had been hidden in the case without his knowledge, he could not be said to have been in possession of the drugs even if he was in possession of the case that was later found to contain the drugs. Thus, although the Defence accepted that the Appellant was in possession of the drugs, it had evidently misunderstood the legal concept of possession as entailing only the fact of physical custody. Possession also entails awareness that the thing (which is subsequently found to be a drug) is in one’s possession, custody or control and this was fundamentally inconsistent with the substance of the case that the Defence had advanced at the trial.
+
+> …
+
+> … The **distinction may be expressed in terms of inadvertent possession on the one hand, which would not amount to possession in the legal sense, and knowing possession, which would**. At this stage of the inquiry, knowing possession means only knowledge on the part of the accused person that the thing that turns out to be a drug is in his possession, control or custody…
+
+\[emphasis in bold added\]
+
+10     The distinction is to be made between possession that _triggers the presumption_ under s. 18(1) of the MDA, and possession that is _consequently presumed_ under s. 18(1) of the MDA. The former refers to secondary possession of the drug – explained by the Court of Appeal in _Obeng Comfort v Public Prosecutor_ <span class="citation">\[2017\] 1 SLR 633</span> (“_Obeng Comfort_”) at \[34\]:
+
+> Section 18(1) lists certain circumstances under which a person is presumed to have had a controlled drug in his possession. For the purposes of s 18(1), **what we are concerned with is whether the thing in issue exists and whether the accused in fact has possession, control or custody of the thing in issue**. The thing in issue is the container, the key or the document of title. In this sense, this provision deals with secondary possession of the drug in that the accused possesses, controls or has custody of something which has the drug or which relates to the title in, or delivery of, the drug. As is evident in s 18(3), the accused does not need to be in physical possession of the drug, _ie_, primary possession… Once the Prosecution proves that the thing in issue exists and that the accused has possession, control or custody of the thing in issue, **the effect of s 18(1) is to raise a presumption of fact, which is that the accused**, by virtue of his possession, control or custody of the thing in issue, **is presumed to possess the drugs** which are contained in or are related to the thing in issue.
+
+(emphasis in bold added)
+
+11     The knowledge presumed under s. 18(1) of the MDA refers exclusively to _actual knowledge_ and does not encompass knowledge that the accused person is said to be wilfully blind to: _Adili_ at \[67\]. Therefore, where the accused person’s position is that he did not know that the thing that turned out to be a drug was in his possession, custody, or control, he should advance his case in such manner as to rebut the presumption under s. 18(1) of the MDA. The said accused person should not – as the Appellant in _Adili_ had done – leave the s. 18(1) presumption unchallenged as that would be contrary to the Defence’s case. Instead, the accused person should do the following: _Obeng Comfort_ at \[35\]:
+
+> To rebut the presumption in s 18(1), the accused has to prove, on a balance of probabilities, that he did not have the drug in his possession. In this context, the most obvious way in which the presumption can be rebutted is by establishing that the accused did not know that the thing in issue contained that which is shown to be the drug in question. Thus, for instance, the presumption could be rebutted successfully if the accused is able to persuade the court that the drug was slipped into his bag or was placed in his vehicle or his house without his knowledge…
+
+12     The above point was reiterated by the Court of Appeal in _Adili_ at \[71\].
+
+#### The presumption of knowledge as to the nature of the drug under section 18(2) of the MDA
+
+13     If the presumption in s. 18(1) of the MDA is left unrebutted, or the Prosecution proves beyond a reasonable doubt that the accused person had knowing possession of the drug, s. 18(2) of the MDA would be triggered. Adopting the phraseology from _Obeng Comfort_ (see above \[10\]), the effect of s. 18(2) of the MDA is to raise a presumption of fact, which is that the accused person, by virtue of his knowing possession of the drug, is presumed to have known the nature of the drug.
+
+14     In _Gobi a/l Avedian v Public Prosecutor_ <span class="citation">\[2021\] 1 SLR 180</span>, the Court of Appeal extended its holding in respect of the presumption in s. 18(1) of the MDA to the presumption in s. 18(2) of the MDA (at \[56\]) _i.e._, it held that the knowledge that is presumed under s. 18(2) of the MDA is confined to actual knowledge of the nature of the drugs in the accused person’s possession and does not encompass knowledge of matters to which the accused person is said to be wilfully blind.
+
+15     An accused person must, in order to rebut the presumption under s. 18(2) of the MDA, prove on a balance of probabilities, that he did not have knowledge of the nature of the controlled drug (_i.e._ that he did not in effect have the _mens rea_ of the offence): _Obeng Comfort_ at \[36\]. The accused person could do so by showing on a balance of probabilities that he did not know, or could not reasonably be expected to have known, the nature of the controlled drug that was found in his possession: _Dinesh Pillai a/l K Raja Retnam v Public Prosecutor_ <span class="citation">\[2012\] 2 SLR 903</span> at \[18\].
+
+16     An accused person must, because the presumption under s. 18(2) of the MDA operates to vest the accused person with knowledge of the nature of the drug which he is in possession of, give an account of what he thought the drug was – in order to rebut the presumption: _Obeng Comfort_ at \[39\]. Ultimately, what the court is concerned with is the credibility and veracity of the accused person’s account – this depends not only on the credibility of the accused person as a witness but also on how believable his account relating to the purported item is: _Obeng Comfort_ at \[40\]. In _Mohamed Shalleh Bin Abdul Latiff v Public Prosecutor_ <span class="citation">\[2022\] SGCA 23</span> (“_Shalleh_”), the Court of Appeal reiterated the importance of the assessment of the accused person’s credibility and account (at \[45\]):
+
+> The _only_ issue in this case was whether the s 18(2) presumption had been rebutted. In considering that question… **the ultimate question the court is concerned with would be: does it believe the accused person’s story? The more one’s suspicions are raised, the more bizarre and unreal the circumstances, and the more untenable the story, the less likely it is that the court will find it possible to believe what an accused person is saying.** To put it more starkly, even if somewhat tautologously, the more incredible the story, the less likely it is that it will be believed… **So, in the context of an inquiry into whether the presumption has been rebutted, if a court says**, for instance, **that the accused person’s claim**, that he believed what he was told because he trusted the person who told him what the package was, **is untenable because there were so many suspicious circumstances… it is saying simply that it finds the accused person’s story to be incredible**.
+
+(emphasis in bold added)
+
+17     When the presumptions in ss. 18(1) and 18(2) of the MDA apply, the accused person would stand before the Court – presumed to have been in possession of the drug and to have known the nature of the drug that he was carrying: _Obeng Comfort_ at \[38\].
+
+## The Prosecution’s Case
+
+18     The learned Deputy Public Prosecutor Mr Cheng You Duen (“the DPP”) appeared for the Prosecution. The Prosecution called a total of 17 witnesses. Their names/designations are, for ease of reference, set out in the table below:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="11.46%"><col width="62.32%"><col width="26.22%"></colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>S/No.</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Witness</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Referred in the GD as:</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>1.</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Lim Xiang Jing,</p><p align="justify" class="Table-Para-1">Special Constable Sergeant (“SC/Sgt”), Singapore Police Force (“SPF”)</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">PW1</p><p align="justify" class="Table-Para-1">SC/Sgt Lim</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>2.</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Low Jason,</p><p align="justify" class="Table-Para-1">Special Constable Sergeant, SPF</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">PW2</p><p align="justify" class="Table-Para-1">SC/Sgt Low</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>3.</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Ng Chuan Yew,</p><p align="justify" class="Table-Para-1">Sergeant, SPF</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">PW3</p><p align="justify" class="Table-Para-1">Sgt Ng</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>4.</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Noorul Nadiah Binte Hairon Hanwar,</p><p align="justify" class="Table-Para-1">Sergeant, SPF</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">PW4</p><p align="justify" class="Table-Para-1">Sgt Noorul Nadiah</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>5.</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Alvin Wong Hong Wee,</p><p align="justify" class="Table-Para-1">Station Inspector (“SI”), SPF</p><p align="justify" class="Table-Para-1">(on 15 February 2022) /</p><p align="justify" class="Table-Para-1">Senior Staff Sergeant (“SSSgt”), SPF</p><p align="justify" class="Table-Para-1">(on 2 August 2020)</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">PW5</p><p align="justify" class="Table-Para-1">SI Wong</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>6.</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Nor Eddie Bin Abdul Rahman,</p><p align="justify" class="Table-Para-1">Station Inspector, SPF</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">PW6</p><p align="justify" class="Table-Para-1">SI Nor Eddie</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>7.</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Luqmanul Hakim Bin Abu Bakar,</p><p align="justify" class="Table-Para-1">Sergeant, Central Narcotics Bureau (“CNB”)</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">PW7</p><p align="justify" class="Table-Para-1">Sgt Luqmanul Hakim</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>8.</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Muhammad Ramadan Bin Rosli,</p><p align="justify" class="Table-Para-1">Staff Sergeant (“SSgt”), CNB</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">PW8</p><p align="justify" class="Table-Para-1">SSgt Muhammad Ramadan</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>9.</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Nur Nida Amalina Binte Yusni,</p><p align="justify" class="Table-Para-1">Staff Sergeant, CNB</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">PW9</p><p align="justify" class="Table-Para-1">SSgt Nur Nida</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>10.</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Muhamad Nizam Bin Abudol Ramin,</p><p align="justify" class="Table-Para-1">Grade XT5, Home Team Science and Technology Agency (“HTX”)</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">PW10</p><p align="justify" class="Table-Para-1">XT5 Muhamad Nizam</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>11.</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Woong Si Xuan</p><p align="justify" class="Table-Para-1">Grade XT3, HTX</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">PW11</p><p align="justify" class="Table-Para-1">XT3 Woong</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>12.</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Look Yi Jun,</p><p align="justify" class="Table-Para-1">Sergeant 3, CNB</p><p align="justify" class="Table-Para-1">(the Current Investigation Officer)</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">PW12</p><p align="justify" class="Table-Para-1">Sgt Look</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>13.</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Joseph Justin Selvam,</p><p align="justify" class="Table-Para-1">Senior Staff Sergeant, CNB</p><p align="justify" class="Table-Para-1">(the Previous Investigation Officer)</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">PW13</p><p align="justify" class="Table-Para-1">SSSgt Justin</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>14.</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Tan Moy Eng,</p><p align="justify" class="Table-Para-1">Counter (Laboratory) Officer,</p><p align="justify" class="Table-Para-1">HSA</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">PW14</p><p align="justify" class="Table-Para-1">HSA Counter Officer Tan</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>15.</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Josephine Teo Siew Hoon,</p><p align="justify" class="Table-Para-1">Counter (Laboratory) Officer,</p><p align="justify" class="Table-Para-1">HSA</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">PW15</p><p align="justify" class="Table-Para-1">HSA Counter Officer Teo</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>16.</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Siti Aisyah Binte Jamil,</p><p align="justify" class="Table-Para-1">Analyst, Analytical Toxicology Laboratory, HSA</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">PW16</p><p align="justify" class="Table-Para-1">HSA Analyst Siti Aisyah</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>17.</b></p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Goh Mei Ling Evelyn,</p><p align="justify" class="Table-Para-1">Analyst, Analytical Toxicology Laboratory, HSA</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">PW17</p><p align="justify" class="Table-Para-1">HSA Analyst Goh</p></td></tr></tbody></table>
+
+  
+  
+
+19     The Witness Statement of one “Ghosh Bikash Chandra” (“the Witness Statement”) was, pursuant to the Prosecution’s application (on the basis that he could not be found within or outside Singapore despite reasonable efforts to locate him), admitted into evidence after an Ancillary Hearing (see below at \[84\]).
+
+### Summary of the Prosecution’s Case
+
+#### The Prosecution’s Case regarding the Possession Charge
+
+20     The summary of the Prosecution’s case regarding the Possession Charge is set out below.
+
+21     PW1 SC/Sgt Lim was, on 2 August 2020, serving his National Service in the Public Transport Security Command of the SPF as a Transport Command (“TransCom”) Police Officer (a TransCom Police Officer is one who patrols in and around the MRT stations). The key points of his testimony were as follows. He reported for work at around 4.00 a.m. to 5.00 a.m. on 2 August 2020 and was then dispatched, at around 6.00 a.m. to 7.00 a.m., to patrol at the Paya Lebar MRT Station (located at 30 Paya Lebar Road, Singapore).[\[note: 1\]](#Ftn_1)
+
+22     At around 7.30 a.m., while PW1 SC/Sgt Lim and his group (of Police Officers) was performing patrol duties, he saw the Accused at “Exit D” of the Paya Lebar MRT station. He observed that the Accused was behaving nervously and avoiding eye contact.[\[note: 2\]](#Ftn_2) He decided to approach and speak with the Accused. In doing so, he asked the Accused to empty his pockets. The Accused then took out a “Marlboro Gold” cigarette box (“the Cigarette Box”) from his pocket.[^3] He (PW1) then opened the said Cigarette Box and found two rows of cigarette sticks as well as a small zip lock bag containing white crystalline substance (“the Zip Lock Bag”) in the said Cigarette Box.[^4] He (PW1) added that he was able, upon opening the said Cigarette Box, to see the Zip Lock Bag “_straightaway_”.[^5]
+
+23     PW1 SC/Sgt Lim then took the Zip Lock Bag out of the Cigarette Box and asked the Accused “_what is this?_”. He could not however remember what the Accused’s response was.[\[note: 6\]](#Ftn_6) He (PW1) then detained the Accused in the Staff Room of the Paya Lebar MRT Station,[^7] and informed the Ops Room about what had happened.[^8] At about 9.00 am that same morning – his supervisor as well as Police Officers from the Neighbourhood Police Centre – being PW2 SC/Sgt Low and PW4 Sgt Noorul Nadiah – arrived at the Staff Room.[^9] He then transferred custody of the Accused and the Cigarette Box, together with the Zip Lock Bag (containing the unknown white crystalline substance), to PW4.
+
+24     There was a minor difference between the evidence of PW2 SC/Sgt Low and PW4 Sgt Noorul Nadiah as to who took over possession of the Zip Lock Bag, upon their arrival at the Staff Room of the Paya Lebar MRT Station, from PW1 SC/Sgt Lim (see below at \[129\]). PW2 and PW4 were however clear and firm in their testimonies and confirmed the following. The Zip Lock Bag was in the possession of PW2 while they both escorted the Accused (from the Staff Room of the Paya Lebar MRT Station) back to the Bedok Police Divisional Headquarters (“the BPHQ”) in a police vehicle.[\[note: 10\]](#Ftn_10) PW4 drove the vehicle while PW2 sat at the back of the vehicle together with the Accused.[^11]
+
+25     PW4 Sgt Noorul Nadiah testified that she – upon their arrival at the BPHQ – lodged an “Arrest and Seizure Report”.[\[note: 12\]](#Ftn_12) This said report was, with the consent of the learned Defence Counsel, Mr Revi Shanker (“the DC”), admitted and marked as Exhibit P1 (the _First Police Report – by PW4_).[^13] PW4 added that, after lodging Exhibit P1, she and PW2 SC/Sgt Low escorted the Accused to the Charge Office at the BPHQ (“the Charge Office”).[^14]
+
+26     PW2 SC/Sgt Low added the following. He then filled up, at the Charge Office (at about 10.51 a.m. the same morning), various fields on a tamper-proof polymer bag and signed on it.[\[note: 15\]](#Ftn_15) The said tamper-proof polymer bag was, with the DC’s consent, admitted and marked as Exhibit P5 (“the Tamper-Proof Polymer Bag”).[^16] PW2 also added the following. He had, in filling out the fields on Exhibit P5, written the words “_ref S/N 01_” in the last table/box (with the header “_REMARKS_”) at the bottom of Exhibit P5. This was in reference to the “_ONE ZIP LOCK BAG CONTAINING WHITE CRYSTALLIZED_” described at “_S/N 1_” in the table/box titled “_Property Information_” at page 2 of Exhibit P1 (the _First Police Report – by PW4 Sgt Noorul Nadiah_).[^17] He then placed the Zip Lock Bag into Exhibit P5 and sealed it.[^18] PW4 Sgt Noorul Nadiah then handed over custody of Exhibit P5 – containing the Zip Lock Bag in it – to PW3 Sgt Ng (who was on duty at the Charge Office on 2 August 2020).[^19] PW4 also handed over custody of the Accused to the Charge Office.
+
+27     PW3 Sgt Ng confirmed the following in his testimony. He personally received (from PW4 Sgt Noorul Nadiah) Exhibit P5 (the Tamper-Proof Polymer Bag – containing the Zip Lock Bag in it),[\[note: 20\]](#Ftn_20) which he then kept in a safe at the Charge Office.[^21] He alone had access to the said safe and the access was by way of a PIN code and keys only.[^22]
+
+28     PW8 SSgt Muhammad Ramadan stated the following. He then took over custody - at about 4.00 p.m. on the same day – of Exhibit P5 (the Tamper-Proof Polymer Bag – containing the Zip Lock Bag in it) from PW3 Sgt Ng. This transfer of custody was captured in a document titled “_ACKNOWLEDGEMENT SLIP_” – which stipulated that PW3 had handed over “_ONE ZIP LOCK BAG CONTAINING WHITE CRYSTALLIZED_” to one “_CNB G RAMADAN”_ of _“CNB BEDOK_” (PW8).[\[note: 23\]](#Ftn_23) This “_ACKNOWLEDGEMENT SLIP_” was, with the DC’s consent, admitted and marked as Exhibit P4 (the _ACKNOWLEDGEMENT SLIP_).[^24]
+
+29     PW8 SSgt Muhammad Ramadan added the following. He then escorted the Accused and brought Exhibit P5 (the Tamper-Proof Polymer Bag – containing the Zip Lock Bag in it) to the CNB Office located within the BPHQ (“the CNB Office at the BPHQ”). He then “processed” the Zip Lock Bag by carrying out the following:[\[note: 25\]](#Ftn_25)
+
+> (a)     he first donned gloves and cut open Exhibit P5 with a pair of scissors;
+
+> (b)     he then weighed the Zip Lock Bag on a weighing scale;
+
+> (c)     he thereafter took a photograph of the Zip Lock Bag; and
+
+> (d)     he lastly placed the Zip Lock Bag inside a new “CNB Tamper-Proof Polymer Bag” and placed it inside the office of the Officer-in-Charge of Investigations (“the OC, Investigations’ Office”).
+
+30     The photograph taken of the Zip Lock Bag (by PW8 Muhammad Ramadan) was, with the DC’s consent, admitted and marked as Exhibit P2.[\[note: 26\]](#Ftn_26)
+
+31     PW7 Sgt Luqmanul Hakim stated the following. He then recorded a statement from the Accused on the same day. The Accused mentioned, during the recording of the said statement, that he had received the Cigarette Box from a stranger, and that the Zip Lock Bag had been found in the said Cigarette Box.[\[note: 27\]](#Ftn_27) PW7 added the following. He then realised that the Cigarette Box was not amongst the “case exhibits” that had been seized earlier from the Accused.[^28] He therefore escorted, together with PW8 SSgt Muhammad Ramadan, the Accused back to the Charge Office to seize the said Cigarette Box from a Tamper-Proof Polymer Bag that had been used to store the Accused’s personal properties.[^29]
+
+32     PW8 SSgt Muhammad Ramadan added the following. He then asked the Accused, after cutting open the said Tamper-Proof Polymer bag, whether the Cigarette Box that was inside it was the Cigarette Box that he (the Accused) had referred to.[\[note: 30\]](#Ftn_30) The Accused confirmed this.[^31] The Cigarette Box was then retrieved and seized from inside the said Tamper-Proof Polymer Bag in the presence of the Accused,[^32] and placed into another (new) Tamper-Proof Polymer Bag for “re-documentation” and “re-sealing” at the Charge Office.[^33] He (PW8) then lodged a Police Report in relation to his said seizure of “_1 cigarette box ‘Marlboro Gold’ containing 12 cigarette sticks_”. This said Police Report was, with the DC’s consent, admitted and marked as Exhibit P11 (the Second Police Report – by PW8).[^34] The physical/actual Cigarette Box was, with the DC’s consent, admitted and marked as Exhibit P12 (the “Marlboro Gold” Cigarette Box).[^35] He (PW8) then cut open the Tamper-Proof Polymer Bag to take photographs of Exhibit P12.[^36] The said photographs of Exhibit P12 were, with the DC’s consent, collectively admitted and marked as Exhibit P3.[^37] PW8 then placed Exhibit P12 into a CNB Tamper-Proof Polymer Bag – which was then kept inside the OC, Investigations’ Office.
+
+33     PW9 SSgt Nur Nida was the “Dispatch Officer” in this case. She retrieved, on 3 August 2020, the said Tamper-Proof Polymer Bag (containing the Zip Lock Bag in it) from the metal cabinet in the said OC, Investigations’ Office and took custody of it.[\[note: 38\]](#Ftn_38) The said metal cabinet was locked prior to her said retrieval.[^39] She then immediately transported the said Tamper-Proof Polymer Bag (containing the Zip Lock Bag in it) to the office of the “Forensic Response Team” at the CNB Headquarters (“the CNB HQ”) for examination.[^40]
+
+34     PW9 SSgt Nur Nida confirmed in her testimony, with reference to an “_ACKNOWLEDGEMENT RECEIPT_” – which was, with the DC’s consent, later admitted and marked as Exhibit P13 – that she had, on 3 August 2020 at 11.56 a.m., handed the said exhibit to PW11 XT3 Woong.[\[note: 41\]](#Ftn_41) This said exhibit was the Tamper-Proof Polymer Bag (containing the said Zip Lock Bag in it) described as “_1 ZIPLOC PACKET CONTAINING CRYSTALLINE SUBSTANCE BTB CONTROLLED DRUG_” (listed under S/No. “1” as “Exhibit Marking” “A” in Exhibit P13) – (“the Drug Exhibit Marked ‘A’”).[^42]
+
+35     PW11 XT3 Woong stated the following. She then handed over the said Drug Exhibit Marked “A” to PW10 XT5 Muhamad Nizam. She thereafter prepared the said Exhibit P13 (the “_ACKNOWLEDGEMENT RECEIPT_”) and signed it.
+
+36     PW10 XT5 Muhamad Nizam testified as follows. He took custody (from PW11 XT3 Woong) the said Drug Exhibit Marked “A” and brought it to the workstation and prepared the necessary items required (to do the swab).[\[note: 43\]](#Ftn_43) He then undertook the following swabbing procedure:[^44]
+
+> (a)     firstly, he cut open the said Tamper-Proof Polymer Bag and slid out the said Drug Exhibit Marked “A” onto a piece of brown paper;
+
+> (b)     secondly, he removed two swab sticks – each having a cotton bud at one end – from their packaging. He wet one stick with distilled water and kept the other stick dry;
+
+> (c)     thirdly, he used both swab sticks to swab the entire external surface of the said Drug Exhibit Marked “A”;
+
+> (d)     fourthly, he placed the two swab sticks into a paper box, before closing, sealing, and marking the said paper box;
+
+> (e)     fifthly, he prepared two “controls” for the swabs. The “first control”, a wet swab stick, was placed into a second paper box. The “second control”, a dry swab stick, was placed into a third paper box; and
+
+> (f)     sixthly, he marked, sealed, and then placed the said three paper boxes into a new Tamper-Proof Polymer Bag. The said Drug Exhibit Marked “A” was placed into a new evidence bag/Tamper-Proof Polymer Bag.
+
+37     PW10 XT5 Muhamad Nizam added the following. He then handed the said Drug Exhibit Marked “A” (together with the “_Swabs & Controls_”) at 2.07 pm on 3 August 2020 to PW9 SSgt Nur Nida. He thereafter prepared and signed a “_DNA SWAB COLLECTION RECEIPT_” – which was, with the DC’s consent, admitted and marked as Exhibit P14.[\[note: 45\]](#Ftn_45)
+
+38     PW9 SSgt Nur Nida then immediately brought the said Drug Exhibit Marked “A” directly to the Illicit Drugs Laboratory of the HSA for submission for analysis.[\[note: 46\]](#Ftn_46)
+
+39     The said Drug Exhibit Marked “A” was then analysed in the Illicit Drugs Laboratory of the HSA and found to contain “_not less than 0.42 gram of \[M\]ethamphetamine_”. The results of the said analysis were documented in a “_CERTIFICATE UNDER SECTION 16 OF THE MISUSE OF DRUGS ACT (CAP. 185)_” and certified by one Dr. Zhang Shuhua (“Dr Zhang”) of the HSA. Dr Zhang was on maternity leave during the trial. She was (with the Defence’s agreement) not called by the Prosecution to testify. The said Certificate was, with the DC’s consent, admitted and marked as Exhibit P8.
+
+#### The Prosecution’s Case regarding the Consumption Charge
+
+40     The summary of the Prosecution’s Case regarding the Consumption Charge is set out below.
+
+41     PW5 SI Wong stated the following. He took over custody of the Accused, after the Accused was brought to the Charge Office (see \[26\] above), to procure his urine samples. His first interaction with the Accused was at the Lock Up Area of the BPHQ – where he asked the Accused if he was able to urinate. The Accused replied that he was able to and PW5 then escorted him to a basin to wash and dry his hands.[\[note: 47\]](#Ftn_47) PW5 thereafter escorted the Accused to a place where urine bottles (“the Urine Sample Bottles”) were kept in two drawers of a cabinet. There were at least 20 Urine Sample Bottles with “_red caps_” stored in one drawer of the said cabinet and at least another 40 Urine Sample Bottles with “_blue caps_” stored in the other drawer of the said cabinet.[^48] The said Urine Sample Bottles with the “_red caps_” were larger than the said Urine Sample Bottles with the “_blue caps_”.[^49] All the said bottles were empty and sealed in clear plastic wrapping.[^50] He (PW5) then asked the Accused to choose (from among the said Urine Sample Bottles with the “_red caps_”) one bottle (“the Master Bottle”) and (from among the said Urine Sample Bottles with the “_blue caps_”) two bottles (“the Small Bottles”) (collectively – “the Bottles”).[^51] He (PW5), after the Accused had selected the Bottles, escorted the Accused to a cubicle and instructed the Accused to “_break open the plastic_” wrapping of the Master Bottle and urinate into the Master Bottle until he said “_stop_”.[^52] He (PW5) was, at the material time, standing perpendicular to the Accused, less than 30 cm away, and witnessed the Accused urinate into the said Master Bottle.[^53] The Accused urinated into the Master Bottle in one continuous stream.[^54] At least 80 ml of the Accused’s urine was collected in the said Master Bottle.[^55]
+
+42     PW5 SI Wong added the following. He then, after the Accused completed urinating, escorted the Accused away from the said cubicle and instructed him to place the said Master Bottle on the ground. He thereafter instructed the Accused to “_break open_” the plastic wrappings of the said two Small Bottles and pour the urine from the said Master Bottle into the said two Small Bottles until he (PW5) instructed him to “_stop_”.[\[note: 56\]](#Ftn_56) The Accused complied and poured at least 30 ml of urine into each of the said two Small Bottles.[^57] He then instructed the Accused to close the bottle caps for all the said three Bottles.[^58] He then used a “masking tape” to tape, in front of the Accused, the caps of the said three Bottles.[^59] He thereafter wrote the Accused’s name, “_Reza_”, on two Tamper-Proof Polymer Bags. The Accused then confirmed – upon being prompted by him (PW5) – that “_Reza_” was his name.[^60]
+
+43     PW5 SI Wong also added the following. He then instructed the Accused to put the said two Small Bottles (containing his urine) into one of the said two Tamper-Proof Polymer Bags and the said Master Bottle (containing his urine) into the other said Tamper-Proof Polymer Bag.[\[note: 61\]](#Ftn_61) The Accused did so and he (PW5) sealed the said two Tamper-Proof Polymer Bags in the Accused’s view.[^62] He then instructed the Accused to hold onto the said two Tamper-Proof Polymer Bags while he escorted the Accused back to the Charge Office.[^63]
+
+44     PW6 SI Nor Eddie then took over custody of the Accused (from PW5 SI Wong) to conduct an “Instant Urine Test” on the Accused’s urine samples. He (PW6) escorted the Accused from the Charge Office to the CNB Office at the BPHQ. He (PW6) testified as follows on the procedures that were undertaken in the said office:
+
+> (a)     he logged onto the computer to print out a “_barcode_” containing the Accused’s particulars. These particulars included the Accused’s name and Foreign Identification Number (“the FIN”).[\[note: 64\]](#Ftn_64) He then verified these particulars - by reading out the Accused’s name - and the Accused nodded his head in agreement.[^65] He explained that he did not read out the FIN as most accused persons would not remember their FIN;[^66]
+
+> (b)     he then brought the printed “_barcode_”, together with a test tube and a dropper, to the Accused.[\[note: 67\]](#Ftn_67) (The dropper was used to siphon urine out of the Master Bottle and into the test tube.[^68]) The printed “barcode” was then affixed onto the said test tube;[^69]
+
+> (c)     he then checked the Tamper-Proof Polymer Bag to ensure that it had not been tampered with and that the name of the Accused was that reflected on the Tamper-Proof Polymer Bag.[\[note: 70\]](#Ftn_70) He thereafter asked the Accused whether the urine samples were his and the Accused again nodded his head (in agreement);[^71]
+
+> (d)     he proceeded, after this verification, to cut open the Tamper-Proof Polymer Bag and siphon urine out of the Master Bottle and into the said test tube; and
+
+> (e)     he thereafter brought the said test tube (using a test tube holder) and placed it inside the “Urine Testing Machine” (located at the “Urine Testing Station” within the CNB Office at the BPHQ).[\[note: 72\]](#Ftn_72) He then closed the lid and pressed the “_START_” button (on the display monitor) of the said “Urine Testing Machine” and waited for the results.[^73]
+
+45     PW6 SI Nor Eddie added the following. The results of the said “Instant Urine Test” were generated in the form of a “_URINE TEST RESULT SLIP_”.[\[note: 74\]](#Ftn_74) This indicated that the Accused’s Urine Sample “tested positive” for Amphetamine at 3,362.88 ng/ml.[^75] He signed the said “_URINE TEST RESULT SLIP_” in his capacity as the “_Operator_” of the said “Instant Urine Test” and as the “_Sealing Officer_”. The said “_URINE TEST RESULT SLIP_” was, with the DC’s consent, admitted and marked as Exhibit P10.[^76]
+
+46     PW6 SI Nor Eddie also added the following. He then called the Duty Officer at the CNB to inform him of the said positive result. The said Duty Officer instructed him to “_seal_” the said two Small Bottles.[\[note: 77\]](#Ftn_77) He (PW6) then printed “HSA labels” – that set out the Accused’s name, his FIN and the “specimen number” (“the HSA Labels”).[^78] Two of the said HSA Labels were labelled “_1_” and “_2_”. He (PW6) showed these HSA Labels to the Accused for him (the Accused) to verify his particulars and to sign on them. PW6 then cut open the Tamper-Proof Polymer Bag containing the said two Small Bottles and – after ensuring that there was no leakage – affixed the said HSA Labels onto the said Small Bottles, labelling them _“1”_ and “_2_” .[^79] He then instructed the Accused to place the Small Bottle with the HSA Label _“1”_ into an HSA metal box with the number “_1_” on it and the Small Bottle with the HSA Label “_2_” into an HSA metal box with the number “_2_” on it (collectively – “the HSA Metal Boxes”).[^80] He (PW6) then placed the said two HSA Metal Boxes in the freezer in the CNB Office at the BPHQ.[^81]
+
+47     PW9 SSgt Nur Nida stated the following. She retrieved, on 3 August 2020, the Urine Samples from the said freezer in the CNB Office at the BPHQ.[\[note: 82\]](#Ftn_82) The said Urine Samples were, when she retrieved them from the said freezer, secured in “standard issue” HSA Metal Boxes.[^83] The said freezer was locked prior to her said retrieval.[^84] She then proceeded directly to the HSA and submitted the said HSA Metal Boxes (in which the said Urine Samples were secured) to the two HSA Counter (Laboratory) Officers on duty at the Analytical Toxicology Lab of the HSA.[^85] These two said officers were PW14 HSA Counter Officer Tan and PW15 HSA Counter Officer Teo.
+
+48     PW14 HSA Counter Officer Tan and PW15 HSA Counter Officer Teo testified to the following on the operational procedures that they complied with when “processing” the Urine Sample Bottles. The said operational procedures included the checking by PW14 that the “safety lock” on both the said HSA Metal Boxes (in which the said Urine Samples were secured) were intact,[\[note: 86\]](#Ftn_86) inspecting one of the said two Urine Sample Bottles (with the other being inspected by PW15),[^87] ensuring that the Accused had signed on both the Urine Sample Bottles before matching the particulars on the CNB label (affixed onto the Urine Sample Bottle) with a “Urine Sample Submission Form” that was submitted to her by PW9 SSgt Nur Nida,[^88] and ascertaining that the seal on the Urine Sample Bottle was intact (collectively – “the Checks”).[^89] PW14 and PW15 both confirmed that they conducted the said Checks for the Urine Sample Bottle labelled “_P-SG-20-00980-2_” and the Urine Sample Bottle labelled “_P-SG-20-00980-1_” , respectively.[^90] They added the following. They both then “stamped” and signed on the “Urine Sample Submission Form” to confirm that the said Checks had been conducted by them and found to be in order.[^91] The said “Urine Sample Submission Form”, with the DC’s consent, was admitted and marked as Exhibit P18.[^92]
+
+49     PW14 HSA Counter Officer Tan and PW15 HSA Counter Officer Teo also added the following. They thereafter individually affixed a computer-generated HSA label onto their respective Urine Sample Bottle before placing it on a metal rack beside them (at their workplace at the said laboratory counter) (“the Metal Rack”).[\[note: 93\]](#Ftn_93) They each had their own Metal Rack to which no one else had access.[^94] PW14 later transferred the said Urine Sample Bottle labelled “_P-SG-20-00980-2_” to PW17 HSA Analyst Goh while PW15 later transferred the said Urine Sample Bottle labelled “_P-SG-20-00980-1_” to PW16 HSA Analyst Siti Aisyah.
+
+50     PW16 HSA Analyst Siti Aisyah and PW17 HSA Analyst Goh both testified as follows on the operational procedures that they individually complied with when “processing” their respective Urine Sample Bottle. PW16 confirmed that she received the Urine Sample Bottle labelled “_P-SG-20-00980-1_”,[\[note: 95\]](#Ftn_95) while PW17 confirmed that she received the Urine Sample Bottle labelled “_P-SG-20-00980-2_”.[^96] They both then conducted the same said Checks on their respective Urine Sample Bottle,[^97] before unsealing it and performing an “_initial test_”[^98] / “_screening test_”[^99] on the urine contained inside the said respective Urine Sample Bottle. The urine inside both the said Urine Sample Bottles labelled “_P-SG-20-00980-1_” and “_P-SG-20-00980-2_” were, following the said tests, found to be positive for Methamphetamine. They each therefore performed a “_confirmatory test_” on their respective Urine Sample – which showed that both the said Urine Samples were found to contain Methamphetamine.[^100] PW16 then prepared the “_CERTIFICATE UNDER SECTION 16 OF THE MISUSE OF DRUGS ACT (CAP. 185)_” in relation to the urine she tested from inside the Urine Sample Bottle labelled “_P-SG-20-00980-_**_1_** _REZA MD HASAN GXXX_”. This was, with the DC’s consent, admitted and marked as Exhibit P6.[^101] PW17 prepared the “_CERTIFICATE UNDER SECTION 16 OF THE MISUSE OF DRUGS ACT (CAP. 185)_” in relation to the urine she tested from inside the Urine Sample Bottle labelled “_P-SG-20-00980-_**_2_** _REZA MD HASAN GXXX_”. This was, with the DC’s consent, admitted and marked as Exhibit P7.[^102]
+
+### Close of the Prosecution’s case
+
+51     The DC stated, at the Close of the Prosecution’s Case, that the Defence was not making a submission of no case to answer. I was satisfied and found that there was some evidence which was not inherently incredible which satisfied each and every element of both the Consumption Charge and the Possession Charge. I therefore called upon the Accused to give evidence in his own defence. The Accused elected to give evidence.
+
+## The Defence’s case
+
+### The Defence’s Case regarding the Possession Charge
+
+52     The Defence’s case regarding the Possession Charge was essentially a bare denial – the Accused, throughout his evidence, denied having had knowing possession of the Zip Lock Bag. The Accused’s testimony was as follows. He had been working in Singapore for 14 years prior to his arrest on 2 August 2020 and was unemployed at the time of his arrest.[\[note: 103\]](#Ftn_103) He stayed over at the home of his friend, one “Ghosh Bikash Chandra” (“Bikash”), on the night of 1 August 2020. Bikash gave him a sleeping pill and a glass of Coca-Cola that night.[^104] Bikash told him that the sleeping pill was brought from Bangladesh.[^105] He (the Accused) was, while he was on his way home the next morning, stopped by two TransCom Police Officers (one of whom was PW1 SC/Sgt Lim) outside the Paya Lebar MRT Station. He was “_searched_” by these TransCom Police Officers.[^106] The Cigarette Box was then found in his possession.[^107]
+
+53     The Accused’s explanation for being in possession of the Cigarette Box was that he had, on the morning of 2 August 2020, met an unidentified Chinese man along Joo Chiat Road (“the Unknown Chinese Man”) who gave him the said Cigarette Box. He added that he had asked the Unknown Chinese Man for a stick of cigarette – but was instead given the entire Cigarette Box – which he immediately placed into his pocket.[\[note: 108\]](#Ftn_108)
+
+54     The Accused also stated the following. He asked the TransCom Police Officers why they stopped him. They replied that his eyes were red and that was why they wanted to search him.[\[note: 109\]](#Ftn_109) He then responded to them (the TransCom Police Officers) that his friend Bikash had, on the previous night, given him a sleeping pill and a glass of Coca-Cola that had been “_mixed with something_”,[^110] and Bikash had told him (the Accused) that he “_won’t be able to sleep”_ after drinking the said glass of Coca-Cola.[^111] He (the Accused) reiterated (in Court) that this was the reason why his eyes were red on the morning of 2 August 2020.[^112]
+
+55     The Accused further stated the following. PW1 SC/Sgt Lim did not – in his presence: open the said Cigarette Box; search the said Cigarette Box; find the Zip Lock Bag inside the said Cigarette Box; or show him the said Zip Lock Bag when he was first stopped at the Paya Lebar MRT Station.[\[note: 113\]](#Ftn_113) He was only shown the said Zip Lock Bag for the first time in the Staff Room of the Paya Lebar MRT Station by one of the Police Officers – who told him that the said Zip Lock Bag was found in the said Cigarette Box –and asked him if he recognised it.[^114] He had then responded (to the said Police Officer) that he had never seen the Zip Lock Bag and that he did not know of the contents of the said Cigarette Box (which was given to him by the Unknown Chinese Man).[^115] He (the Accused) contended in Court that he was shown the Zip Lock Bag again about two hours later and asked whether he recognised it – which he denied. He did not remember seeing the Zip Lock Bag again.[^116]
+
+### The Defence’s Case regarding the Consumption Charge
+
+56     The Accused appeared, in relation to the Consumption Charge, to challenge aspects of the procurement and the chain of custody of his urine samples – in the following manner:
+
+> (a)     firstly, with respect to the procurement of his urine samples, the Accused denied that PW5 SI Wong had instructed him to wash and dry his hands and that he (the Accused) had complied.[\[note: 117\]](#Ftn_117) He then claimed that he did not pour his urine from the Master Bottle into the two Small Bottles[^118] as his hands were handcuffed (behind his back),[^119] and that there was another officer who had done the pouring.[^120] He (the Accused) also disagreed for the same reason that he had closed the bottle caps for the Master Bottle and the two Small Bottles; and[^121]
+
+> (b)     secondly, in relation to the “Instant Urine Test”, the Accused denied that PW6 SI Nor Eddie had confirmed (with him) whether the Tamper-Proof Polymer Bags had been properly sealed and whether the urine samples in the said Polymer Bags were in fact his.[\[note: 122\]](#Ftn_122) He (the Accused) also denied having signed on the “HSA Labels” or the “CNB Labels” which were affixed onto the Urine Sample Bottles.[^123]
+
+57     The Accused, notably, also oscillated between two defences for the Consumption Charge. The first defence he proffered – “the Spiked Cigarette Defence” – was that set out in paragraph 2 of his “_CASE FOR THE DEFENCE_”. The said _CASE FOR THE DEFENCE_ was, with the DC’s consent, admitted and marked as Exhibit P19.[\[note: 124\]](#Ftn_124) The two paragraphs of his _CASE FOR THE DEFENCE_ were in the following terms:
+
+> 1    Reza Md Hasan(Reza) did not know that the zip-lock bag contains white crystalline substance was inside the “Marlboro Gold” cigarette box which was given by one Chinese guy at Joo Chiat. Reza did not suspect anything when he obtains the cigarette box from the Chinese guy and he did not check the contents of the cigarette box till he was searched by the police officers at Pay Lebar MRT station.
+
+> **2**      **In respect of consumption of “ice”, Reza did not know that he is consuming “ice” when he smokes cigarette which was offered by his friend. He did not know the cigarette contains “ice”. Lack of mens rea.**
+
+> …
+
+\[emphasis in bold added\]
+
+58     The Accused, despite having clearly set out the Spiked Cigarette Defence in his _CASE FOR THE DEFENCE_, did not at all raise or mention it during his entire Examination-in-Chief. He instead switched to and advanced another defence – “the Spiked Coca-Cola Defence” – contending that his urine samples tested positive for Methamphetamine because of his consumption of the Coca-Cola (mixed with unknown substances) that had been given to him by Bikash.
+
+59     The Accused confirmed, when asked by the DPP during Cross-Examination, that his one and only defence to the Consumption Charge was the Spiked Coca-Cola Defence.[\[note: 125\]](#Ftn_125) He also confirmed that he had instructed his Counsel (the DC) to file Exhibit P19 (his _CASE FOR THE DEFENCE_).[^126]
+
+60     When confronted thereafter by the DPP with Exhibit P19 – which instead set out the Spiked Cigarette Defence – and asked whether his (the Accused’s) defence was the Spiked Cigarette Defence or the Spiked Coca-Cola Defence, the Accused became non-committal and stated merely that he did not know which was the reason for his urine samples testing positive for Methamphetamine.[\[note: 127\]](#Ftn_127)
+
+61     In relation to the Spiked Cigarette Defence, the Accused found fault with the word “_friend_” at line 3 of paragraph 2 of his _CASE FOR THE DEFENCE_ (see above at \[57\]) and claimed that the said person was “_not \[his\] friend, he is an unknown Chinese person_”.[\[note: 128\]](#Ftn_128) His response, when confronted by the DPP with his (the Accused’s) earlier testimony that he had instructed his lawyer (the DC) to file Exhibit P19 (the _CASE FOR THE DEFENCE_) for him, was as follows:[^129]
+
+> A    When I spoke to my lawyer, I did not mention this person as a friend. Maybe because of my lack of proficiency in the English language, there had been a misunderstanding. This Chinese---this unknown Chinese person is not my friend.
+
+62     The Accused then claimed – when further confronted by the DPP with paragraph 1 of the _CASE FOR THE DEFENCE_ (which the DPP highlighted was completely consistent with the Accused’s testimony on his Defence Case regarding the Possession Charge – and hence his claim of a misunderstanding due to a lack of proficiency in the English language was suspect) that the reference at paragraph 2 to the person as his “_friend_” “_may be a typo error_”.[\[note: 130\]](#Ftn_130)
+
+63     The Accused further claimed – in response to the DPP’s challenge that he (the Accused) could not provide any explanation why he had completely failed to raise the Spiked Cigarette Defence during his Examination-in-Chief – that he had mentioned this reason to his DC and had asked him to “_submit this reason_”. He (the Accused) added:[\[note: 131\]](#Ftn_131)
+
+> **A:**     … And today also I wanted to mention, but I could not understand.
+
+64     In relation to the Spiked Coca-Cola Defence, the Accused also wavered in his position. He had advanced (during his Examination-in-Chief) the Spiked Coca-Cola Defence by stating that he was given a glass of Coca-Cola (mixed with unknown substances) by Bikash and that was the reason why his urine samples tested positive for Methamphetamine. He however changed his position completely during Cross-Examination and claimed that he did not actually suspect that Bikash had given him substances containing drugs since, to his knowledge, Bikash did not take drugs.[\[note: 132\]](#Ftn_132)
+
+65     The DPP then applied, towards the end of the Defence’s case, to impeach the Accused’s credit with Exhibit P19 (the _CASE FOR THE DEFENCE_) under s. 258(A)(1) of the Criminal Procedure Code 2010 (“the CPC 2010”).
+
+## Impeachment of the Accused’s credit
+
+### The law on Impeachment
+
+66     Section 157 of the Evidence Act 1893 (“the EA”) is in the following terms:
+
+> **Impeaching credit of witness**
+
+> **157**.    The credit of a witness may be impeached in the following ways by the adverse party or, with the consent of the court, by the party who calls him or her:
+
+>> …
+
+>> (_c_)    by proof of former statements inconsistent with any part of his or her evidence which is liable to be contradicted.
+
+67     The purpose of the impeachment of a witness’s credit is to undermine the witness’s credibility by showing that his oral testimony should not be believed because he is of such a character and moral make-up that he is one who is incapable of speaking the whole truth under oath and should not be relied on: _Kwang Boon Keong Peter v Public Prosecutor_ <span class="citation">\[1998\] 2 SLR(R) 211</span> (“_Peter Kwang_”) at \[19\]. However, the successful impeachment of a witness’s credit under s. 157 of the EA would only go to the weight of his oral testimony in court and not to its admissibility (_Peter Kwang_ at \[24\]). The Court in _Public Prosecutor v Somwang Phatthanasaeng_ <span class="citation">\[1990\] 2 SLR(R) 414</span> stated (at \[43\]): “_the Court must carefully scrutinise the whole of the evidence to determine which aspect might be true and which aspect should be disregarded_”.
+
+68     The Court should, in considering whether an accused person’s credit has been impeached, compare the oral evidence and the previous statement and assess the overall impression which had been created as a whole – the critical question was whether the two utterances were in effect inconsistent and appeared to have been produced by incompatible beliefs: _Public Prosecutor v Heah Lian Khin_ <span class="citation">\[2000\] 2 SLR(R) 745</span> at \[32\].
+
+### The Court’s finding on Impeachment
+
+69     I was satisfied and found, having regard to the entirety of the evidence at the trial, that the Accused’s credit was impeached by virtue of, among other issues, the wholly inconsistent defences he set out in his _CASE FOR THE DEFENCE_ (Exhibit P19) and that which he advanced during the trial.
+
+70     The Accused had earlier set out, with respect to the Consumption Charge, the Spiked Cigarette Defence in his _CASE FOR THE DEFENCE_ (Exhibit P19). This was however not canvassed at all during his Examination-in-Chief. He had ample opportunity to raise the said Spiked Cigarette Defence during his Examination-in-Chief but did not. He had in fact, during his testimony, described in some detail his interaction with the alleged Unknown Chinese Man (during which they supposedly smoked cigarettes – see \[79(a)\]-\[79(b)\] below). However, at no point in time during his Examination-in-Chief did the Accused raise the possibility of the cigarette being spiked/the Spiked Cigarette Defence. Further, there was confusion as to who exactly had given the cigarette stick to the Accused in the first place; the said person was described as a “friend” at paragraph 2 of the _CASE FOR THE DEFENCE._ The Accused then, during his Cross-Examination, took the position that the said person was not his “friend” but the Unknown Chinese Man. These were, in my view, serious discrepancies that the Accused did not satisfactorily account for during his Cross-Examination.
+
+71     The effect of the presumption triggered by s. 22 of the MDA (as set out earlier at \[4\]) was for the burden to be on the Accused, to not only raise this defence but to also prove it on a balance of probabilities. I did not believe the Accused’s excuse (during his Cross-Examination) that he had wanted to raise the Spiked Cigarette Defence but did not as he “_could not understand_”. The onus was on the Accused to raise the Spiked Cigarette Defence, whether or not he thought that he could rely on the Spiked Coca-Cola Defence, as – in the Accused’s own words – “_which is the reason for the testing of my urine positive, I do not know_”.[\[note: 133\]](#Ftn_133) The Spiked Cigarette Defence and the Spiked Coca-Cola Defence (for the Consumption Charge) were clearly two separate defences that the Accused should have raised if he wanted to rely on them. The failure of the Accused to raise the Spiked Cigarette Defence (during his Examination-in-Chief) pointed to it not being a truthful defence. This in turn pointed to the Spiked Coca-Cola Defence being an after-thought, as the Accused had not – even with the benefit of legal advice from his Counsel – thought it fit to include it in the _CASE FOR THE DEFENCE_ (Exhibit P19).
+
+72     I was satisfied and found, in light of the foregoing, and the entirety of the evidence, the Accused’s credit to be impeached and attributed little weight to the Accused’s defences to the Consumption Charge.
+
+## No Re-Examination of the Accused
+
+73     At the conclusion of the DPP’s Cross-Examination of the Accused, the DC (in consultation with the Accused) declined to re-examine the Accused (who was the Defence’s sole witness).[\[note: 134\]](#Ftn_134)
+
+## Main Issues for Determination
+
+74     I was of the opinion, having reviewed the Prosecution’s Case and the Defence’s Case, that the main issues for determination were the following:
+
+> (a)     whether the Unknown Chinese Man existed and whether he had given the Accused the Cigarette Box containing the Zip Lock Bag (“Issue 1”);
+
+> (b)     whether the Accused had smoked a spiked cigarette given to him by the Unknown Chinese Man (“Issue 2(a)”);
+
+> (c)     whether the Accused had consumed a glass of spiked Coca-Cola given to him by Bikash (“Issue 2(b)”); and
+
+> (d)     whether there was a break in the chain of custody of the Zip Lock Bag and the Accused’s Urine Samples (“Issue 3”).
+
+### Issue 1: The Unknown Chinese Man – with respect to the Possession Charge
+
+75     It was apparent, from a review of the Defence’s case, that the issue of the Unknown Chinese Man was a crucial one – he was central to the Accused’s defences to both the Consumption Charge and the Possession Charge. According to the Spiked Cigarette Defence to the Consumption Charge, the Accused had unknowingly “consumed” Methamphetamine by smoking a cigarette that was given to him by the Unknown Chinese Man. The Defence’s case for the Possession Charge was that the Cigarette Box, in which the Zip Lock Bag containing the Methamphetamine was found, was given to the Accused by the same Unknown Chinese Man.
+
+76     The question of whether the Accused’s testimony with regard to all his alleged interactions with the said Unknown Chinese Man, and whether this Unknown Chinese Man even existed, were therefore critical. I noted that the Accused had, in his Examination-in-Chief, claimed that he had asked the Police Officers to check for CCTV footage at the area where the Unknown Chinese Man had allegedly handed over the Cigarette Box to him.[\[note: 135\]](#Ftn_135) He (the Accused) did not however state as to when or to which of the Police Officers he had mentioned his assertions of the alleged CCTV footage. These said assertions of the Accused were, more importantly, not raised at all during the Cross-Examination of any of the Prosecution’s witnesses.
+
+77     I also noted that the Accused – when asked if he had any evidence to prove that the Unknown Chinese Man really existed – responded as follows:[\[note: 136\]](#Ftn_136)
+
+> A    I don’t know the Chinese person, I have not seen him before. Then while I was giving the statement, if police asked me to look for him, I could go and look for him.
+
+78     If the Accused’s contention – that it was the Unknown Chinese Man who had given him the Cigarette Box that contained the Zip Lock Bag – was in fact true, the reasonable reaction may well have been for the Accused to have looked for the said Unknown Chinese Man in the vicinity instead of needing to be directed by the Police to do so. Indeed, there was no assertion on the Accused’s part that he had tried to look for the Unknown Chinese Man after he was released on bail.
+
+79     I was also mindful – beyond the issue of whether the Unknown Chinese Man existed – that the Accused’s purported interaction with the said Unknown Chinese Man was not credible:
+
+> (a)     firstly, it was very difficult to believe that the Unknown Chinese Man would have given a Cigarette Box – containing not less than 10 cigarette sticks _and_ the Zip Lock Bag of Methamphetamine – to the Accused – a complete stranger he had just met. In response to the DPP’s contention that it was unbelievable that a stranger would give him Methamphetamine out of the kindness of his heart, the Accused surmised that the Unknown Chinese Man had probably forgotten that the Zip Lock Bag was inside the Cigarette Box.[\[note: 137\]](#Ftn_137) However, the Accused had earlier testified that he and the Unknown Chinese Man had each smoked a cigarette stick before the Unknown Chinese Man gave the Cigarette Box to him.[^138] PW1 SC/Sgt Lim had testified that he was able, when he opened the Cigarette Box, to see the Zip Lock Bag “_straightaway_”.[^139] It was therefore not possible or believable that the Unknown Chinese Man would have missed or overlooked the Zip Lock Bag when he opened the Cigarette Box to take out the two cigarette sticks (for himself and the Accused to smoke); and
+
+> (b)     secondly, the Accused’s account of his purported encounter with the Unknown Chinese Man was fraught with inconsistencies. He described the encounter as follows:[\[note: 140\]](#Ftn_140)
+
+>> **A**     I asked for one stick of cigarette, then the Chinese man told me, “Do you have money?” I replied, “No, I have no money”. Then he told me that in this packet, there are 10 sticks of cigarettes, you take all the 10 sticks so that you can smoke these later.
+
+80     When the DPP later confronted the Accused with Exhibit P3 (the photographs of the Cigarette Box) which showed that there was a total of 12 cigarette sticks in the said Cigarette Box,[\[note: 141\]](#Ftn_141) the Accused denied having earlier stated how many cigarette sticks there were in the Cigarette Box.[^142] He changed his story and stated:[^143]
+
+> **A**     He did not mention whether there was 6 or 7 or 12 cigarettes in the box. He just said that there are cigarettes in the box, you can smoke them later…
+
+81     Given the external and internal inconsistencies in the Accused’s evidence in relation to the Unknown Chinese Man, I was disinclined to believe him. The Defence failed to provide any form of evidence indicating that the Unknown Chinese Man had existed. I agreed with and accepted the DPP’s point that – even if the Unknown Chinese Man had existed – the Accused did not provide any credible reason why the said Unknown Chinese Man would have given the Accused the Cigarette Box/packet of cigarettes (which is not an inexpensive item) to a complete stranger. I also agreed with and accepted the DPP’s further point that there was no credible reason for the Unknown Chinese Man to have given the Accused a cigarette box/packet of cigarettes (namely – the Cigarette Box) out of kindness – knowing that it also contained a packet of Methamphetamine. The said Unknown Chinese Man had, according to the Accused’s testimony, given the Accused a stick of cigarette from the Cigarette Box and had himself smoked a stick of cigarette from the said Cigarette Box at the same time. I was satisfied and found as a fact that the Accused’s testimony on all his alleged interactions with the Unknown Chinese Man was wholly untrue and that the said Unknown Chinese Man did not in fact exist.
+
+### Issue 2(a): The Spiked Cigarette Defence – with respect to the Consumption Charge – and the Court’s finding on the Spiked Cigarette Defence
+
+82     I was, having reviewed the evidence, not satisfied that there was any evidential basis for the Spiked Cigarette Defence (to the Consumption Charge). I noted that the DC had, in his Cross-Examination of PW16 HSA Analyst Siti Aisyah and PW17 HSA Analyst Goh, only raised with them on whether the consumption of illegal sleeping pills and sex tablets might give rise to Methamphetamine being detected in a person’s urine samples.[\[note: 144\]](#Ftn_144) He did not however raise with any of the Prosecution’s witnesses the Spiked Cigarette Defence. The Accused had sought to make reference to the Spiked Cigarette Defence only after the DPP had confronted him with his _CASE FOR THE DEFENCE_. The Defence did not also call any witness to testify on the same. In any event, I was of the view, having regard to my finding that the Accused’s testimony on the Unknown Chinese Man was wholly untrue and that he did not in fact exist, that the Accused’s Spiked Cigarette Defence to the Consumption Charge was not made out on a balance of probabilities.
+
+### Issue 2(b): The Spiked Coca-Cola Defence – with respect to the Consumption Charge
+
+83     I then considered the Accused’s other defence (that he raised in Court) to the Consumption Charge – namely the Spiked Coca-Cola Defence. The Accused’s evidence at trial was, as stated earlier, that he had consumed a glass of Coca-Cola (mixed with unknown substances) that was given to him by his friend Bikash (see \[54\] and \[58\] above). The Prosecution had, as stated earlier (see \[19\]), applied to admit Bikash’s Witness Statement into evidence – on the basis that he could not be found within or outside Singapore despite reasonable efforts to locate him. The DC objected to the admission of Bikash’s said Witness Statement and an Ancillary Hearing was held.[\[note: 145\]](#Ftn_145)
+
+#### The Ancillary Hearing
+
+84     The Ancillary Hearing was convened pursuant to s. 279 of the CPC 2010 to determine the admissibility, under s. 32(1)(_j_)(ii) of the EA, of the Witness Statement made by Bikash.
+
+##### (1)   The law on the admissibility of evidence under s. 32(1)(_j_)(ii) of the EA
+
+85     Section 32 of the EA envisages a two-step approach:
+
+> (a)     at the first step, under s. 32(1)(_j_)(ii), the Court has to determine whether a statement has been made by a witness who cannot be found within or outside Singapore despite reasonable efforts to locate him. If the Prosecution is able to satisfy the criteria under this limb, the statement becomes a relevant fact. It is apt to note that the threshold for admissibility under s. 32(1)(_j_)(ii) is proof that _reasonable_ efforts had been undertaken. It is not necessary for _all_ sources of information to have been exhausted; and
+
+> (b)     at the second step, under s. 32(3), the Court then has to decide whether it is _not_ in the interests of justice to treat the statement as relevant. In _Gimpex Ltd v Unity Holdings Business Ltd and others and another appeal_ <span class="citation">\[2015\] 2 SLR 686</span>, the Court of Appeal endorsed Professor Jeffrey Pinsler’s suggestions on several (non-exhaustive) factors that the Court could take into account when determining whether a relevant statement should nevertheless be excluded under s. 32(3) of the EA (at \[106\]-\[110\]):
+
+>> (i)       its probative value;
+
+>> (ii)       the danger of unreliability or other harm which might compromise fair adjudication;
+
+>> (iii)       additional costs (as when a hearsay statement is not necessary because it essentially duplicates other evidence in the case);
+
+>> (iv)       delay in the proceedings (where additional time is needed to adduce the evidence or the proceedings have to be postponed);
+
+>> (v)       the distraction of the court and/or the parties (where the evidence raises collateral issues that require undue attention);
+
+>> (vi)       its tendency to confuse or its misleading effect (as when there are doubts about authenticity and good faith);
+
+>> (vii)       lack of reliability (where the circumstances of the author of a statement or in which the statement was made raise concerns about its truthfulness); and
+
+>> (viii)       prejudice (in the sense of evidence that would have the effect of being substantively unjust or procedurally oppressive).
+
+##### (2)   The Prosecution’s case at the Ancillary Hearing
+
+86     PW12 Sgt Look and PW13 SSSgt Justin both testified at the Ancillary Hearing. PW13 was the previous Investigation Officer of the case involving the Accused while PW12 was the current Investigation Officer.
+
+87     PW13 SSSgt Justin testified as follows. He had, in the course of his investigations, recorded a “Witness Statement” from Bikash[\[note: 146\]](#Ftn_146) and that said Statement was that marked for identification as Exhibit P15i.[^147] In relation to the recording of the Witness Statement:
+
+> (a)     he had recorded Exhibit P15i from Bikash (as a witness) because the Accused had stated in his earlier further statement that he had taken tablets from Bikash;[\[note: 148\]](#Ftn_148)
+
+> (b)     he had recorded Exhibit P15i at the CNB HQ on 4 October 2020 – commencing at 9.50 a.m. and concluding at 10.11 a.m.[\[note: 149\]](#Ftn_149) Bikash was asked what language he preferred to speak in and given a choice of language for the interview. Bikash had stated that he was able to converse in simple English and chose to speak in English without the need for an Interpreter.[^150] He (PW13) had also assessed that an Interpreter was not needed as Bikash was able to converse in simple English.[^151] He would have called for an Interpreter if Bikash had any trouble with the questions posed to him. Bikash was able to understand him;[^152] and
+
+> (c)     he had observed Bikash to be calm and there was nothing noteworthy about his demeanour during the recording of Exhibit P15i.[\[note: 153\]](#Ftn_153)
+
+88     PW13 SSSgt Justin also stated the following in relation to the contents of Exhibit P15i:
+
+> (a)     he had posed questions to Bikash and recorded his answers.[\[note: 154\]](#Ftn_154) He had asked Bikash whether he had given the Accused any tablets or pills for sex or for sleeping – in order to verify the Accused’s account of events – and Bikash denied doing so;[^155]
+
+> (b)     he had personally written out Exhibit P15i. He had then read it out to Bikash to confirm its accuracy.[\[note: 156\]](#Ftn_156) Bikash had then signed on the left side of every page of Exhibit P15i and all the signatures on the left side of Exhibit P15i were his.[^157] He (PW13) had signed or stamped his name on the right side of Exhibit P15i; and
+
+> (c)     the contents of Exhibit P15i were true and accurate to the best of his (PW13’s) knowledge.[\[note: 158\]](#Ftn_158) He had not made any threat, inducement or promise to Bikash in the course of recording Exhibit P15i.[^159]
+
+89     PW13 SSSgt Justin further confirmed that Bikash was only a witness, had never been arrested,[\[note: 160\]](#Ftn_160) was not placed on bail and his passport had never been seized, in relation to the present case against the Accused.[^161]
+
+90     PW12 Sgt Look testified that he sought, after taking over the case from PW13 SSSgt Justin, to locate Bikash. He (PW12) stated the following on his efforts to locate/contact Bikash. He called Bikash’s mobile telephone number that was specified in the said Witness Statement (Exhibit P15i) but found that the said mobile number was classified as “_no longer in use_”.[\[note: 162\]](#Ftn_162) He then made efforts to contact Bikash overseas. He searched the CNB’s records for Bikash’s overseas contact number, email or address – but was unable to find any.[^163]
+
+91     PW12 Sgt Look also testified as follows. He then proceeded to contact Bikash’s boss, one “Mr. Richard”, sometime in early August 2021.[\[note: 164\]](#Ftn_164) This “Mr. Richard” informed him that Bikash had already left Singapore,[^165] and provided him a copy of a passport and an e-ticket in Bikash’s name, which showed that Bikash had been scheduled to leave Singapore on 13 February 2021.[^166] He (PW12) followed up on this lead and conducted a “screening” with both the Immigration and Checkpoints Authority (“the ICA”) and the Ministry of Manpower (“the MOM”).
+
+92     PW12 Sgt Look added the following. He conducted the ICA “screening” on 26 October 2021 using Bikash’s name, date of birth, FIN and passport number.[\[note: 167\]](#Ftn_167) The “screening” result, which covered Bikash’s “travel movement” records for the period 13 February 2021 to 25 October 2021, showed that Bikash had indeed departed Singapore on 13 February 2021 via the checkpoint at Changi Airport Terminal 1 and had not returned since.[^168] The said ICA “screening” result (certified on 28 October 2021 by the Commissioner of the ICA) was, with the DC’s consent, admitted and marked as Exhibit P16.[^169]
+
+93     PW12 Sgt Look stated the following in relation to the MOM “screening”. He conducted the said “screening” on 28 October 2021 using Bikash’s name and FIN.[\[note: 170\]](#Ftn_170) The result of the MOM “screening” showed that Bikash’s Work Permit, which was first issued on 18 March 2020, had been cancelled on 22 October 2020. It also showed that a “Special Pass” was issued to Bikash on the same day (22 October 2020) and this had then expired on 13 February 2021.[^171] He (PW12) added that the said Work Permit and the said Special Pass were both tagged to Bikash’s employer – one “Waspada Pte. Ltd.” (“Waspada”).[^172] The MOM “screening” result (dated 28 Oct 2021 and certified by the Controller of Work Passes of the MOM on 12 November 2021) was, with the DC’s consent, admitted and marked as Exhibit P17.[^173]
+
+94     PW12 Sgt Look further stated the following. He was, between August 2021 and October 2021,[\[note: 174\]](#Ftn_174) unable to contact/reach the said “Mr. Richard” as the latter did not answer telephone calls or reply to messages (via “WhatsApp”).[^175] Therefore, in search of “Mr. Richard”, he (PW12) had, on 20 October 2021, personally visited Waspada’s registered address (at Bedok Reservoir Road) to locate him.[^176] He was unable to find anyone at the relevant unit .[^177] He was then informed by a person from the neighbouring unit that the “owner” of the unit (at Waspada’s registered address) would only return “_once in a while_”.[^178] He (PW12) then did a “Google” search and found that Waspada had a second registered address (at Eunos Avenue 7).[^179] He proceeded immediately (on 20 October 2021) to the said second address but found that the said second address was occupied by another company.[^180] He (PW12) thereafter stated that he stopped contacting “Mr. Richard” sometime after October 2021 – as the said “Mr Richard” had not responded to his telephone calls or “WhatsApp” messages. He was, at the time of testifying in Court, still waiting for “Mr. Richard” to respond to his messages.[^181] He (PW12) confirmed that, despite all his various efforts, he was unable to locate Bikash whether within or outside Singapore.[^182]
+
+##### (3)   The Accused’s claim to have Bikash’s foreign contact number
+
+95     The DC, during his Cross-Examination of PW12 Sgt Look, informed him (PW12) that the Accused had Bikash’s foreign contact number and asked if he would contact him. PW12 responded that he would, if either the Accused or the DC provided him the said foreign contact number, attempt to contact Bikash.[\[note: 183\]](#Ftn_183) The DPP then stated that the Prosecution would not be undertaking any further investigations in respect of any purported foreign contact information of Bikash – as the Defence had not earlier raised the existence of such information despite having been served the Notice of the Prosecution’s intention to admit Bikash’s Witness Statement (Exhibit P15i).[^184] The DC responded as follows. The Accused had only informed him of Bikash’s said foreign contact number that very morning.[^185] Bikash had, according to the Accused, contacted him five days earlier and informed him (the Accused) that he would be coming to Singapore “_in one or two-months’ time_” to work.[^186] The DC further confirmed that the Accused had Bikash’s present contact number in Bangladesh.[^187]
+
+##### (4)   The Defence’s case at the Ancillary Hearing
+
+96     The Defence did not call any witness for the Ancillary Hearing.
+
+##### (5)   The Submissions by the DPP and the DC on the Ancillary Hearing
+
+97     The DPP and the DC made, in addition to their written submissions, further oral submissions.
+
+98     The DPP then informed the Court of the following. The Accused, despite having claimed that he had Bikash’s latest/updated Bangladeshi contact number/information, and that it would be provided on the night of 15 March 2022 to the DC to then provide it to PW12 Sgt Look, failed – as at the evening of the further hearing on 17 March 2022 – to furnish any such contact information.[\[note: 188\]](#Ftn_188) The DPP then submitted that little weight should be placed on any claim by the Accused/Defence in Court during the Ancillary Hearing that Bikash was contactable outside Singapore.[^189] The DPP also highlighted that the two witnesses at the Ancillary Hearing, PW12 and PW13 SSSgt Justin, both testified and confirmed that there was nothing they could do or have done to ensure that Bikash had remained in Singapore as Bikash was not himself the subject of investigations or arrested or on bail.[^190] The DPP further submitted that Exhibit P15i was highly relevant (albeit the Prosecution’s case did not turn on it – and the Prosecution was relying on the presumptions in the MDA) as it served as “rebuttal evidence” for any “spiking defence” that the Defence may choose to run for their case.[^191]
+
+99     The DC responded that the Accused had not provided PW12 Sgt Look the telephone number in Bangladesh for Bikash as the number “_cannot connect_”.[\[note: 192\]](#Ftn_192) The Accused then stated (directly) to the Court that when he had tried to call the number, there was “_no response_” and “_no ring sound_”.[^193] The DC then informed the Court that the Accused had already provided the said telephone number to the DPP/PW12.[^194] The DPP then stated that PW12 had dialled the said telephone number but that it was shown to be “_invalid_”.[^195] The DPP then highlighted that the said telephone number that the Accused had provided (as being Bikash’s latest Bangladeshi telephone number) was in fact the same telephone number (in Singapore) that was set out under Bikash’s “_Pager/Handphone No:_” in Exhibit P15i – and which was clearly no longer in service.[^196]
+
+100    The DC then stated that Bikash had contacted the Accused using an “IMO” application.[\[note: 197\]](#Ftn_197) The Accused then claimed that as Bikash was not “_online_” at the moment, it was not possible to contact him. The Accused thereafter stated that - “_Since I’m unable to contact him, then I must abandon to try to call him_”.[^198] The DC then confirmed that the Accused/Defence was no longer pursuing, and was abandoning, the earlier contention that Bikash was contactable by telephone in Bangladesh.[^199]
+
+##### (6)   The Court’s decision on the Ancillary Hearing
+
+101    I was satisfied and found, having considered the evidence of PW12 Sgt Look and PW13 SSSgt Justin, and the submissions of both the DPP and the DC, that the statutory requirements set out in s. 32(1)(_j_)(ii) of the EA were satisfied:
+
+> (a)     firstly, there was no dispute that the Witness Statement (Exhibit P15i) had been made by Bikash himself – and there was no allegation of any threat, inducement or promise having been made by PW13 before or during the recording of the said Statement;
+
+> (b)     secondly, it was undisputed that Bikash had left Singapore on 13 February 2021 and had not re-entered thereafter. He was therefore no longer available in Singapore to give evidence at the trial; and
+
+> (c)     thirdly, PW12 had undertaken reasonable efforts to locate Bikash’s whereabouts, by calling his last-known mobile number – which was no longer in use – and by ascertaining and confirming with the MOM and Bikash’s last-known employer that his Work Permit and his Special Pass had been cancelled. Two things were, based on these, clear – that Bikash had become uncontactable after having left Singapore, and that there was no reasonable expectation of his returning to Singapore in the near future.
+
+102    I was of the view and found that the Accused’s belated claim in Court – that he had Bikash’s “new” telephone number in Bangladesh – was a last-ditch effort to delay the proceedings. The Accused/Defence had in any event abandoned this claim.
+
+103    In light of the foregoing, I was satisfied and found that, despite the reasonable efforts of the investigation authorities, Bikash could not be found within or outside Singapore.
+
+104    I was of the view, with regard to the question of whether the Court should exercise its discretion to exclude Bikash’s Witness Statement (Exhibit P15i) in the interests of justice under s. 32(3) of the EA, that I ought not to. I was conscious that the Defence would not have an opportunity to cross-examine Bikash on his Witness Statement. This could not however, without more, be the basis for excluding the Witness Statement as it would render s. 32(1)(_j_) of the EA otiose and redundant.
+
+105    I did not find, as regards the contents of the Witness Statement (Exhibit P15i), any reason to doubt the _prima facie_ accuracy of the said Witness Statement. I noted in this connection that the Witness Statement was recorded by PW13 SSSgt Justin in English after Bikash had informed him that he understood simple English. No issue was raised by the Defence regarding the communication between PW13 and Bikash. The Witness Statement was read back to Bikash. He (Bikash) was given the opportunity to verify, affirm and make any amendment to his Witness Statement – which he in fact did.
+
+106    I had, in view of the foregoing, agreed with and allowed the Prosecution’s application to admit Bikash’s said Witness Statement into evidence under s. 32(1)(_j_)(ii) of the EA. The said Witness Statement, which had been earlier “marked for identification” as “Exhibit P15i”, was accordingly admitted and marked as Exhibit P15.
+
+107    The relevant parts of Exhibit P15 are set out below for ease of reference:
+
+> …
+
+> I am now asked if I have given ‘Hasan’ any tablets or pills. I wish to say that I have never given ‘Hasan’ any tablets. I have never given him any tablets or pills for sex or for sleeping.
+
+> The last time I was in contact with ‘Hasan’ was one month ago… When I met him I did not sell or pass him any pills or tablets.
+
+> I do not know if ‘Hasan’ takes any pills or tablets. I do not know if he takes any drugs, we do not stay together.
+
+108    I was mindful, in assessing the weight to be accorded to the contents of Bikash’s said Witness Statement (Exhibit P15), that the Defence did not have the opportunity to cross-examine Bikash on his said Statement. I was of the opinion and decided, in the context of s. 32(5) of the EA, that substantial weight need not be assigned to Bikash’s claims in his said Witness Statement (Exhibit P15) that he had not given any tablets or pills to the Accused.
+
+109    The DPP submitted that Bikash’s said Witness Statement (Exhibit P15) served as rebuttal evidence against the Accused’s Spiked Coca-Cola Defence (for the Consumption Charge).
+
+#### The Accused’s inconsistent position on the Spiked Coca-Cola Defence
+
+110    I was particularly mindful – as regards the Accused’s position on the Spiked Coca-Cola Defence – that he, towards the end of his Cross-Examination, had vacillated on whether Bikash had spiked him (see above at \[64\]). The Accused had, when earlier referred to Bikash’s Witness Statement (Exhibit P15), stated as follows:[\[note: 200\]](#Ftn_200)
+
+> I would like to say that Bikash Chandra has denied giving me the pills and other medicine because if he agrees, then he will be in trouble. And this is the reason that he was scared and went back to Bangladesh. He knew that I was arrested by police… because he gave me---because Bikash Chandra, when I was arrested in the morning, Bikash Chandra called me many times. The record can be found in my phone. And I informed Bikash Chandra that I was arrested by Bedok Police. So he was scared. He asked me whether I have mentioned his name to police. I told him that, “Yes, I mentioned your name and I have given your telephone number to police”. Then he told me, he told me that, “If police asked me whether I have given you the sleeping pill and medicine so that you cannot sleep whole night, I shall deny that I have given you the sleeping pill and medicine so that you cannot sleep whole night.” … He was scared and that is why he went to Bangladesh. He intentionally went to Bangladesh because he was scared.
+
+111    It was difficult to reconcile the Accused’s very strong stance during the first part of his evidence – as set out above – with his sudden change of position – as set out below – during the Cross-Examination by the DPP:[\[note: 201\]](#Ftn_201)
+
+> **Q**     There are only two reasons why you think your urine tested positive for methamphetamine, right?
+
+> **A**     Yes.
+
+> …
+
+> **Q**     One is that Bikash gave you sleeping pills and a drink with unknown substance added to it. Correct?
+
+> …
+
+> **A**     Yes.
+
+> …
+
+> **Q**     The other is that an unknown Chinese man gave you a cigarette which may have contained methamphetamine, correct?
+
+> **A**     Yes.
+
+> …
+
+> **Q**     … Without this second possibility, the only possibility is that Bikash gave you drugs, correct?
+
+> …
+
+> **A**     No, I **do not suspect Bikash has given me substances with drug**. To my knowledge, he doesn’t take drug… He brought these things from Bangladesh, which he offered me, the sleeping pill and unknown substance mixed with coke. He brought these things from Bangladesh. So **I don’t suspect this contained drug**.
+
+\[emphasis in bold added\]
+
+#### The Court’s further observations on the Accused’s credibility
+
+112    I was, in addition to my finding on the impeachment of the Accused’s credit (see \[69\]-\[72\] above), also satisfied and found the Accused’s credibility to be suspect in general – having regard to various other (internal) inconsistencies in the Accused’s evidence – which cast serious doubt on his credibility:
+
+> (a)     firstly, as discussed at \[80\], the Accused had claimed that the Unknown Chinese Man had given him the Cigarette Box and stated clearly that there were 10 sticks of cigarettes left. However, when confronted later with evidence that the Cigarette Box actually had 12 sticks of cigarettes left inside and questioned on why a total stranger would give him a box of 12 cigarettes, the Accused feigned ignorance and claimed that he had received the Cigarette Box not knowing how many sticks of cigarettes were left inside;
+
+> (b)     secondly, during his Examination-in-Chief, the Accused had initially claimed that he had maintained contact with Bikash “_every day_” – between 2 August 2020 and 13 February 2021 – and had even met up with him several times during this period.[\[note: 202\]](#Ftn_202) However, when his said claim was later challenged (the DPP had asked why Bikash would have kept in contact with the Accused if Bikash was so afraid of being apprehended by the Police), the Accused suddenly denied having met Bikash “_every day_” and contended that Bikash was in fact angry with him for having provided his contact details to the Police;[^203]
+
+> (c)     thirdly, the Accused had claimed during Cross-Examination that he was unable to pour his urine from the Master Bottle into the two Small Bottles as he was handcuffed behind his back (see above at \[56(a)\]), despite having earlier testified that he was able to use his two hands to choose the Master Bottle and the two Small Bottles from the cabinet; and
+
+> (d)     fourthly, as was touched upon at \[60\] and \[110\] above, the Accused’s positions on the Spiked Coca-Cola Defence (for the Consumption Charge) were conflicting.
+
+113    I also noted and found that the Accused had a tendency to switch between stating that he _could not remember_, and _flatly disputing_ points that he thought might possibly affect or weaken his case/defence, as follows:
+
+> (a)     the Accused stated during Cross-Examination that he did not remember whether PW1 SC/Sgt Lim had, in front of him (the Accused), taken out the Zip Lock Bag (containing the white crystalline substance) from the Cigarette Box and asked him “_what is this?_”.[\[note: 204\]](#Ftn_204) However, shortly thereafter, the Accused flatly denied that PW1 had done so;[^205]
+
+> (b)     the Accused also stated during Cross-Examination that he did not remember whether PW2 SC/Sgt Low had – at the Charge Office – placed, in his (the Accused’s) presence, the Zip Lock Bag (containing the white crystalline substance) into Exhibit P5 (the Tamper-Proof Polymer Bag).[\[note: 206\]](#Ftn_206) However, he (the Accused) almost immediately thereafter stated categorically that PW2 had _not_ placed the said Zip Lock Bag inside Exhibit P5 in front of him;[^207]
+
+> (c)     the Accused also initially denied – during Cross-Examination – that: PW5 SI Wong had instructed him to place the two Small Bottles into a Tamper-Proof Polymer Bag and the Master Bottle into another Tamper-Proof Polymer Bag; and that he (the Accused) had complied.[\[note: 208\]](#Ftn_208) However, when the same was put to him, he (the Accused) did not provide a direct answer and stated that he could not remember as it had been a long time;[^209] and
+
+> (d)     the Accused, in relation to the point at \[112(c)\] above, had first claimed that he could not remember pouring his urine into the Small Bottles, and then claimed that he remembered that he did _not_ pour the urine into the said Small Bottles.[\[note: 210\]](#Ftn_210)
+
+114    I was mindful that there is a substantial difference between not remembering whether something had happened and disputing that it had happened. I was of the view that, while it was not prejudicial to the Accused for him to not have remembered certain events, it was detrimental to his credibility for him to have switched stances throughout his evidence. I did not accept the Accused’s excuse that these inconsistencies (and the others stated above) were due to a miscommunication or misunderstanding arising from his lack of proficiency in the English language (see above at \[61\]). I found the Accused to be an articulate, confident, and intelligent witness who advanced inconsistent accounts – not due to a language issue or barrier – but due to his propensity to prevaricate and to retract admissions once he realised that they were or might be against his case: _Obeng Comfort_ at \[48\]-\[49\]. I further noted that none of these inconsistencies – as surfaced by the DPP during the Cross-Examination of the Accused – was thereafter addressed or touched upon by the DC, who had – as was the prerogative of the Defence – declined (after discussion with the Accused) to re-examine the Accused.[\[note: 211\]](#Ftn_211)
+
+115    I also considered the concept of “Lucas Lies” that the DPP raised during the Prosecution’s Closing Submission.[\[note: 212\]](#Ftn_212) The concept of a “Lucas Lie”, that originated from _Regina v Lucas (Ruth)_ 1 QB 720 (“_R v Lucas_”), stipulates that a lying statement would be capable of amounting to corroboration (of evidence of guilt) if it fulfilled four criteria (at 724E-G):
+
+> (a)     the lie told out of court must be deliberate;
+
+> (b)     the lie must relate to a material issue;
+
+> (c)     the motive for the lie must be a realisation of guilt and a fear of the truth; and
+
+> (d)     the statement must be clearly shown to be a lie by evidence from an independent witness (_i.e._, not an accomplice).
+
+(collectively – “the _Lucas_ requirements”)
+
+116    The _Lucas_ principle is also extendable to lies told _in_ Court, as long as the four _Lucas_ requirements were fulfilled. In _Public Prosecutor v Yeo Choon Poh_ <span class="citation">\[1993\] 3 SLR(R) 302</span>, Yong Pung How CJ (as he then was) endorsed the broader principle in _R v Lucas_ that lies – told both in and out of court – were capable of corroborating evidence of guilt in prescribed circumstances (at \[30\]-\[33\]). The corroborated evidence of guilt may then form the basis of convicting the accused person. Where lies told by the accused person fall short of the _Lucas_ requirements, they may nevertheless be relied on to reject the accused person’s evidence for lack of creditworthiness: _Heng Aik Peng v Public Prosecutor_ <span class="citation">\[2002\] 2 SLR(R) 535</span> (“_Heng Aik Peng_”) at \[27\].
+
+117    The DPP argued in the Prosecution’s Closing Submission that the Accused’s claim that he had been given the Cigarette Box by the Unknown Chinese Man was a _Lucas_ Lie.[\[note: 213\]](#Ftn_213) I considered the point and noted the following. The Accused’s lie that he had been given the Cigarette Box by the Unknown Chinese Man fulfilled the first three _Lucas_ requirements (_i.e._ that the lie was deliberate, related to a material issue and was told out of a realisation of guilt and fear of the truth). It was however unclear exactly which independent witness’s evidence showed the Accused’s statement to be a lie. The difficulty with the issue of the Unknown Chinese Man was precisely that he was unknown. No one, save for the Accused (purportedly), had met this Unknown Chinese Man. There was no evidence from any of the Prosecution’s witnesses that directly contradicted the Accused’s claim that the Unknown Chinese Man had existed. To this extent, I could not agree with the DPP that the Accused’s testimony regarding the existence of the Unknown Chinese Man was a _Lucas_ lie. However, taking guidance from _Heng Aik Peng_, I was satisfied and found that the Accused’s incessant lies had done severe damage to his own credibility. It was the Accused’s own contradictory testimony, and the documentary and other evidence at the trial, that bolstered my finding that the Accused was clearly lying and the Unknown Chinese Man did not exist.
+
+#### The Court’s finding on the Spiked Coca-Cola Defence
+
+118    I was satisfied and found that the Accused’s claim that he had consumed the Coca-Cola (mixed with unknown substances) that was given to him by Bikash – and that was the reason why his Urine Samples were found to contain Methamphetamine – was unsupported by the evidence and wholly untrue. Having regard to the totality of the evidence, the Accused’s oral testimony and the various inconsistencies in his Defence for the Consumption Charge, and bearing in mind that his credit had been impeached, I found, on a balance of probabilities, that his Spiked Coca-Cola Defence for the Consumption Charge failed.
+
+### Issue 3: Whether there was a break in the chain of custody of the exhibits
+
+119    The Accused had at trial claimed – with respect to both the Possession Charge and the Consumption Charge – that there was a break in the chain of custody of the exhibits (being the Zip Lock Bag for the Possession Charge and the Urine Sample Bottles for the Consumption Charge). I reviewed all the evidence to determine whether the Zip Lock Bag found in the Accused’s possession, as well as the Accused’s Urine Samples, had been in an unbroken chain of custody from seizure/procurement to their submission for analysis at the HSA.
+
+120    It is well established that the Prosecution bears the burden of proving beyond a reasonable doubt the chain of custody of the exhibits: _Mohamed Affandi bin Rosli v Public Prosecutor_ <span class="citation">\[2019\] 1 SLR 440</span> at \[39\]. Once the Prosecution establishes the chain of custody – it would be on the Defence to suggest that there was a break in the chain of custody – by raising a reasonable doubt as to whether the chain of custody had been broken.
+
+121    I was satisfied and found on the evidence that the chain of custody with respect to the Zip Lock Bag and the Accused’s Urine Samples were established beyond a reasonable doubt by the Prosecution.
+
+#### Evidence led by the Prosecution showed a single unbroken chain of custody
+
+122    I had regard, in assessing the credibility of the Prosecution’s witnesses and the veracity of their accounts, to _Farida Begam d/o Mohd Artham v Public Prosecutor_ <span class="citation">\[2001\] 3 SLR(R) 592</span> (“_Farida Begam_”) – wherein CJ Yong Pung How (as he then was) laid out non-exhaustive factors on which the credibility of a witness may be assessed (at \[9\]):
+
+> (a)     his demeanour;
+
+> (b)     the internal consistency (or lack thereof) in the content of his evidence; and
+
+> (c)     the external consistency (or lack thereof) between the content of his evidence and extrinsic evidence (for example, the evidence of other witnesses, documentary evidence or exhibits).
+
+123    I did not find the demeanour of any of the Prosecution’s witnesses to be suspect – they had all spoken candidly while on the stand. They did not, throughout the trial, attempt in any way to bolster the Prosecution’s case.
+
+124    Where there was a minor difference in their evidence (see \[129\] below), I found that this was an inadvertent oversight due to insubstantial gaps in memory, attributable to the passage of time. Most importantly, I found that the Prosecution’s witnesses were disinterested witnesses who were merely performing their duties and had no reason to make up lies on the stand – _Farida Begam_ at \[12\].
+
+125    Having regard to the above, it was clear from the evidence of the Prosecution’s witnesses that adequate safeguards and strict processes had been implemented and complied with to prevent any potential mix-up or break in the chain of custody of the said exhibits. My findings on the principal features/milestones of the chain of custody, from the point of the Accused’s arrest to the point of the submission of the exhibits to the HSA for analyses, are set out below.
+
+##### (1)   Custody of the Zip Lock Bag from the point of seizure at the Paya Lebar MRT Station to conveyance of the Accused to the BPHQ
+
+126    I accepted PW1 SC/Sgt Lim’s evidence that: he had first found the Zip Lock Bag in the Cigarette Box while he was inspecting the said Cigarette Box; he had taken it (the said Zip Lock Bag) out of the said Cigarette Box to show it to the Accused;[\[note: 214\]](#Ftn_214) and he had then placed the said Zip Lock Bag back into the said Cigarette Box in the presence of the Accused.[^215]
+
+127    It was undisputed that PW1 SC/Sgt Lim and the Accused had thereafter proceeded directly to the Staff Room of the Paya Lebar MRT Station. There was no evidence to suggest that, from the point of finding the Zip Lock Bag (inside the Cigarette Box) on the Accused at the Paya Lebar MRT station, until their arrival at the Staff Room of the BPHQ, PW1 had been left alone with the said Zip Lock Bag.
+
+128    I also accepted PW1 SC/Sgt Lim’s following evidence. He then, while in the Staff Room of the BPHQ, showed the Accused the Zip Lock Bag and asked him if he recognised it. The Zip Lock Bag was then placed, along with the Accused’s other possessions, on a table. Upon the arrival of PW2 SC/Sgt Low and PW4 Sgt Noorul Nadiah, he (PW1) transferred custody of the Accused and the exhibits, including the Zip Lock Bag, to them.
+
+129    There was admittedly a minor difference as to who had taken over possession of the Zip Lock Bag from PW1 SC/Sgt Lim (in the Staff Room of the Paya Lebar MRT Station). PW1 had stated that he had handed the Zip Lock Bag to PW4 Sgt Noorul Nadiah.[\[note: 216\]](#Ftn_216) PW2 SC/Sgt Low stated that he had taken over possession of the Zip Lock Bag.[^217] PW4 was unable to recall whether it was herself or PW2 who had taken over the Zip Lock Bag from PW1.[^218]
+
+130    I noted that both PW1 SC/Sgt Lim and PW2 SC/Sgt Low were honest witnesses who had completed their National Service and left the SPF while PW4 Sgt Noorul Nadiah was also an honest witness who was away on maternity leave. I found that this minor difference was due to insubstantial gaps in their memory and attributable to the passage of time. I was satisfied on the evidence that PW4 or PW2 (who were together in the said Staff Room) took over possession of the Zip Lock Bag from PW1. I was therefore of the view that the Prosecution had shown, beyond a reasonable doubt, that the Zip Lock Bag that was brought from the Staff Room of the Paya Lebar MRT Station to the BPHQ was the same Zip Lock Bag that was initially found (by PW1) in the Accused’s possession:
+
+> (a)     firstly, the Prosecution had led evidence to show that the arrest of the Accused was the first duty of the day for PW2 and PW4.[\[note: 219\]](#Ftn_219) They were therefore not in possession of any other exhibit from any previous cases or arrests;
+
+> (b)     secondly, it was undisputed that the Zip Lock Bag had at all material times remained within the said Staff Room until custody of it was transferred from PW1 to either PW4 or PW2; and
+
+> (c)     thirdly, I accepted the corroborative evidence of PW2 and PW4 that – while the Accused was being conveyed from the Paya Lebar MRT Station to the BPHQ – the Zip Lock Bag was in the custody of PW2 (see above at \[24\]).
+
+131    I also accepted and found the following. The Zip Lock Bag remained in the custody of PW2 SC/Sgt Low upon their arrival at the BPHQ until he, at the Charge Office, placed the said Zip Lock Bag into Exhibit P5 (the Tamper-Proof Polymer Bag) and sealed it.[\[note: 220\]](#Ftn_220) He (PW2) then handed over Exhibit P5 (with the Zip Lock Bag inside it) to PW4 Sgt Noorul Nadiah, who then handed it to PW3 Sgt Ng (who was the officer in charge of the Charge Office). The said handover was done at about the same time that Exhibit P1 (the _First Police Report – by PW4_) was lodged – at 10.51 a.m.[^221] PW3 then deposited Exhibit P5 (with the Zip Lock Bag inside it) in a safe at the Charge Office. PW3 was the only person with access to the said safe. I also found PW3 to be an honest witness and accepted his testimony. PW8 SSgt Muhammad Ramadan later arrived and collected Exhibit P5 (with the Zip Lock Bag inside it) from PW3 at around 4.00 p.m. on the same day.[^222]
+
+132    I further accepted and found the following with respect to the testimony of PW8 SSgt Muhammad Ramadan. His role vis-à-vis the Zip Lock Bag was confined to “processing” it – by weighing it on a weighing scale and taking a photograph of it. This entire process did not last more than half a minute.[\[note: 223\]](#Ftn_223) He did not do anything else with the said Zip Lock Bag apart from taking it out from Exhibit P5, weighing it, photographing it, resealing it in a new Tamper-Proof Polymer Bag and depositing it in the OC, Investigations’ Office.[^224] I found that PW8 was a candid witness who had, in his own words, “_exercised care and caution during \[the\] handling \[of\] the said exhibit_”.[^225]
+
+##### (2)   Procurement of the Urine Samples in the CNB Office at the BPHQ
+
+133    I accepted, as regards the procurement of the Accused’s Urine Samples, the testimony of PW5 SI Wong and found the following. There was no evidence of pre-contamination of the Accused’s Urine Samples. PW5 had taken care to ensure that the Accused had washed and dried his hands before urinating into the Master Bottle.[\[note: 226\]](#Ftn_226) He had asked the Accused to choose, at random and at his own volition, a (sealed) Master Bottle and two (sealed) Small Bottles from a cabinet with no fewer than 20 of the same bottles. After the Accused’s urine was apportioned (by the Accused) into the two Small Bottles and the Master Bottle, PW5 then used a “masking tape” to seal, in front of the Accused, the caps of the Bottles.[^227]
+
+134    I also accepted PW5 SI Wong’s evidence and found the following. He had written the Accused’s name, “_Reza_”, on two Tamper-Proof Polymer Bags and confirmed with him (the Accused) that it was his name, which he did.[\[note: 228\]](#Ftn_228) He (PW5) then instructed the Accused: to put the said two Small Bottles into one of the said two Tamper-Proof Polymer Bags and the said Master Bottle into the other Tamper-Proof Polymer Bag; and to hold onto the said two Tamper-Proof Polymer Bags while he escorted the Accused for his “Instant Urine Test” that PW6 SI Nor Eddie was to conduct.[^229]
+
+135    I accepted PW6 SI Nor Eddie’s testimony and found the following. He first ensured, before cutting open the said Tamper-Proof Polymer Bags, that the Urine Sample Bottles contained within belonged to the Accused. He did this by checking that the Accused’s name, “_Reza_”, was reflected on the said Tamper-Proof Polymer Bags, and verbally confirming with the Accused that the Urine Samples contained inside belonged to him. The “Instant Urine Test” was conducted at about 2.16 p.m. on 2 August 2020.[\[note: 230\]](#Ftn_230) After the “Instant Urine Test” returned positive for Methamphetamine, PW6 instructed the Accused to place the two Small Bottles into the HSA Metal Boxes. I also accepted PW6’s evidence that only officers from the HSA could unlock the said HSA Metal Boxes.[^231] This meant that – after the Accused had deposited the said two Small Bottles into the said HSA Metal Boxes – there was no possibility of tampering until after the said HSA Metal Boxes were unlocked at the HSA (by the relevant HSA officers). The said HSA Metal Boxes were also kept in a locked freezer in the CNB Office at the BPHQ – which provided an additional layer of security. I further accepted that the Accused had complied with the instructions and had deposited the said two Small Bottles into the said locked HSA Metal Boxes with his own hands.
+
+##### (3)   Courier of the Zip Lock Bag and the Urine Sample Bottles to the CNB and the HSA
+
+136    I accepted the testimony of PW9 SSgt Nur Nida and found the following. She transported, on the next day (3 August 2020), the Zip Lock Bag and the said two HSA Metal Boxes (with the Small Bottles) to the CNB HQ and the HSA, respectively. She did not at any point in time directly touch the said Small Bottles – as they had been locked in the said HSA Metal Boxes – until their delivery to the Analytical Toxicology Laboratory of the HSA. The Zip Lock Bag that she had collected from the OC, Investigations’ Office was the same Zip Lock Bag that she had handed over to PW11 XT3 Woong in the CNB HQ at 11.56 a.m.
+
+137    I noted that the purpose of sending the Zip Lock Bag to the CNB HQ was for DNA swabs to be taken from the external surfaces of the Zip Lock Bag for analysis. The Prosecution did not produce or refer to any report regarding the results of these swab tests. This was entirely within the Prosecution’s prerogative. I also noted that it was not detrimental to the Defence’s case for the Prosecution not to have produced the report. This is on the premise that even if the report had returned negative for the Accused’s DNA, the absence of DNA evidence is neither conclusive nor even necessarily probative and may at best be regarded as a neutral factor: _Sulaiman Bin Jumari v Public Prosecutor_ <span class="citation">\[2021\] 1 SLR 557</span> (at \[111\]) – citing _Mui Jia Jun v Public Prosecutor_ <span class="citation">\[2018\] 2 SLR 1087</span> (at \[62\]).
+
+138    I also accepted and found that PW10 XT5 Muhamad Nizam, after swabbing the external surfaces of the said Zip Lock Bag for DNA, resealed the Zip Lock Bag into a new Tamper-Proof Polymer Bag and handed it back to PW9 SSgt Nur Nida on the same afternoon at 2.07 p.m. I also found PW11 XT3 Woong and PW10 to be honest witnesses. I accepted their testimonies and found that they had not at any point in time opened the Zip Lock Bag or tampered with it. I further found that PW9 then transported the said Zip Lock Bag to the Illicit Drugs Laboratory of the HSA.
+
+139    The counter staff at the Illicit Drugs Laboratory of the HSA were not called to testify. Dr Zhang Shuhua (an Analyst at the said Illicit Drugs Laboratory of the HSA) had, as stated earlier (see above \[39\]), certified in the Certificate under s. 16 of the MDA (dated 21 August 2020 – Exhibit P8) that the white crystalline substance in the said Zip Lock Bag was analysed and found to contain “_not less than 0.42 gram of \[M\]ethamphetamine_”.
+
+##### (4)   Processing of the Urine Sample Bottles at the Analytical Toxicology Laboratory of the HSA and Submission for Analysis
+
+140    PW9 SSgt Nur Nida had confirmed, and I accepted her testimony on the following: she had (on 3 August 2020) delivered the said Urine Sample Bottles – that were inside the said two locked HSA Metal Boxes – to the counter officers on duty at the Analytical Toxicology Laboratory of the HSA – namely PW14 HSA Counter Officer Tan and PW15 HSA Counter Officer Teo. I also accepted the congruous evidence of PW14 and PW15 and found that: PW14 had unlocked the said two HSA Metal Boxes to retrieve the said Urine Sample Bottles; and they had each followed the stringent protocol in implementing the various said Checks for each of their assigned Small Bottle (see above \[47\]). I further accepted and found that these stringent Checks were also done by PW16 HSA Analyst Siti Aisyah and PW17 HSA Analyst Goh before the testing of the urine had commenced. I was satisfied and found that, by virtue of all the said stringent protocols and the said Checks having been carried out by all the various officers involved, the said two Urine Sample Bottles that had been submitted to the HSA for analysis had contained the urine samples obtained from the Accused – and that there was no possibility of cross-contamination.
+
+141    In summary, I was satisfied that the Prosecution’s witnesses had, in their various capacities and involvements in the handling/processing of the said Zip Lock Bag and the said two Urine Sample Bottles, exercised great caution and complied strictly with the protocols and processes and ensured that the said white crystalline substance in the said Zip Lock Bag and the urine in the said two Urine Sample Bottles that were eventually analysed by the HSA were the same, untainted exhibits that had been seized/procured from the Accused.
+
+#### The Defence did not raise a reasonable doubt that the chain of custody had been broken
+
+142    While the DC had, in the course of cross-examining the Prosecution’s witnesses, alluded to the possibility of the chain of custody being broken, I was of the view and found that the Defence had not raised a reasonable doubt.
+
+143    The Defence did not at any point in time, while cross-examining the Prosecution’s witnesses, put to them that the chain of custody of the exhibits had been broken. There was no suggestion whatsoever that the Prosecution’s witnesses had contaminated the exhibits or that they had mixed them up with an entirely different exhibit.
+
+144    This was contrary to the rule in _Browne v Dunn_ (1893) 6 R 67 (“_Browne v Dunn_”). In _Yeo Kwan Wee Kenneth v Public Prosecutor_ <span class="citation">\[2004\] 2 SLR(R) 45</span>, the High Court described the rule in _Browne v Dunn_ as follows (at \[35\]):
+
+> … \[T\]he central purpose of the rule in Browne v Dunn is simply to secure procedural fairness in litigation. The rule ensures that contradictory facts are put to the witness during cross-examination to give the witness an opportunity to respond. **Any testimony left unchallenged may be treated by the court as undisputed** and therefore accepted by the opposing party… \[If\] the appellant wished to contradict the evidence of Dr Low that the scarring was “probably” permanent, **it was incumbent on the appellant to put his case** to Dr Low **so as to afford** Dr Low **an opportunity to explain his evidence**.
+
+\[emphasis in bold added\]
+
+145    I regarded, as it was not put to the Prosecution’s witnesses that there had been a break in the chain of custody of the Zip Lock Bag and the Urine Sample Bottles, the Prosecution’s evidence on the unbroken chain of custody as undisputed.
+
+146    The DC had – in the course of his Cross-Examination of the Prosecution’s witnesses – questioned them on whether the exhibits were kept within the Accused’s view or sight. The DPP had, in relation to this, stated in the Prosecution’s Closing Submission that “_there is no requirement in law for drug exhibits to be kept in an accused’s persons field of vision before or after the exhibits are seized from his possession_”.[\[note: 232\]](#Ftn_232) There does not appear to be a statutory prescription on this in the MDA. I was, on the evidence, satisfied and found that the Prosecution’s witnesses had complied strictly with the relevant procedures/processes set out in the MDA.
+
+147    Having regard to all the above, I was satisfied and found the following. There was a single, unbroken chain of custody in relation to the Zip Lock Bag and the Accused’s Urine Sample Bottles. The white crystalline substance that was analysed and found to contain Methamphetamine was the same white crystalline substance found in the Zip Lock bag – which was inside the Cigarette Box – found in the Accused’s possession on 2 August 2020 at the Paya Lebar MRT Station. The Urine Samples that tested positive for Methamphetamine were the same urine samples that were procured from the Accused in the afternoon of 2 August 2020 at the BPHQ.
+
+## The Conclusions on the Consumption Charge and the Possession Charge
+
+### The Conclusion on the Consumption Charge
+
+148    In relation to the Consumption Charge, I was satisfied and found the following. The necessary procedures and processes in procuring the Accused’s Urine Samples and conveying them for analyses at the HSA were strictly complied with. PW5 SI Wong was not below the rank of sergeant and was vested with the authority, under s. 31(1) of the MDA, to require the Accused to provide his Urine Samples for testing. He (PW5) had directed the Accused to divide his (the Accused’s) Urine Samples into three parts – as required by s. 31(4) of the MDA. PW6 SI Nor Eddie had then conducted a preliminary urine test on one part of the Urine Samples (contained in the Master Bottle) – as required by s. 31(4)(_a_) of the MDA. The remaining two parts were then marked and sealed by PW6 – as required by s. 31(4)(_b_) of the MDA. A urine test was then conducted on each part by PW16 HSA Analyst Siti Aisyah and PW17 HSA Analyst Goh separately – also as required by s. 31(4)(_b_) of the MDA. I was satisfied, having regard to the testimonies of PW5, PW6, PW9 SSgt Nur Nida, PW14 HSA Counter Officer Tan, PW15 HSA Counter Officer Teo, PW16 and PW17 – all of whom I found to be honest and reliable witnesses – that there was no break in the chain of custody of the Urine Sample Bottles and that there was no contamination of the Urine Samples. The forensic accuracy of the tests was also not challenged by the Defence.
+
+149    Methamphetamine was, as a result of the tests conducted, found in the Accused’s Urine Samples – as certified in Exhibit P6 (the HSA _CERTIFICATE_ issued by PW16 HSA Analyst Siti Aisyah) and Exhibit P7 (the HSA _CERTIFICATE_ issued by PW17 HSA Analyst Goh). (The Prosecution, as stated earlier, relied on the applicable presumptions in the MDA.) The Accused was, pursuant to ss. 16 and 22 of the MDA, presumed to have consumed Methamphetamine in contravention of s. 8(_b_) of the MDA. I was of the view and found that the Accused had failed to rebut, on a balance of probabilities, the presumption in s. 22 of the MDA. This finding was, in light of, amongst others, his contradictory defences to the Consumption Charge (the Spiked Cigarette Defence and the Spiked Coca-Cola Defence) and his wavering position on whether Bikash had given him drugs (see \[64\] above) – all of which, for the reasons stated earlier, I disbelieved.
+
+150    Having regard to the foregoing, I was satisfied that the Prosecution had proved its case beyond a reasonable doubt against the Accused. I accordingly found the Accused guilty and convicted him on the Consumption Charge.
+
+### The Conclusion on the Possession Charge
+
+151    In relation to the Possession Charge, it was undisputed that the Accused had possession of the Cigarette Box (in which the Zip Lock Bag was found). (The Prosecution, as stated earlier, relied on the applicable presumptions in the MDA.) The Accused was therefore presumed – under s. 18(1) of the MDA – to have had knowing possession of the Zip Lock Bag by way of secondary possession. The Prosecution’s case – that the Unknown Chinese Man was a fictional character – was accordingly that the Zip Lock Bag was in the knowing possession of the Accused. I was satisfied and found – having disbelieved the Accused and determined that the Unknown Chinese Man did not in fact exist – that the Accused had failed to rebut, on a balance of probabilities, the presumption under s. 18(1) of the MDA. I accordingly found that he had knowing possession of the Zip Lock Bag (containing the white crystalline substance which was later analysed and found to contain Methamphetamine).
+
+152    The Accused, by virtue of s. 18(2) of the MDA being triggered, was presumed to have known the nature of the drug found in his possession. The Accused did not provide an account of what he thought the drug was – as his defence to the Possession Charge was merely that he did not have knowing possession of the Zip Lock Bag in the first place. I nevertheless considered – in accordance with the guidance of the Court of Appeal in _Shalleh_ (see above at \[16\]) – the credibility of the Accused’s account pertaining to the Cigarette Box. His sole case regarding the Possession Charge was that he had been given the Cigarette Box containing the Zip Lock Bag by the Unknown Chinese Man – whom I had earlier found to be non-existent. I was satisfied and found his account to be wholly suspicious and incredible. I was therefore of the view that the Accused had failed to rebut, on a balance of probabilities, the presumption in s. 18(2) of the MDA (that he knew the nature of the drugs in his possession).
+
+153    I was also satisfied – having regard to the testimonies of PW1 SC/Sgt Lim, PW2 SC/Sgt Low, PW3 Sgt Ng, PW4 Sgt Noorul Nadiah, PW7 Sgt Luqmanul Hakim, PW8 SSgt Muhammad Ramadan, PW9 SSgt Nur Nida, PW10 XT5 Muhamad Nizam and PW11 XT3 Woong – all of whom I found to be honest and reliable witnesses – that there was a single, unbroken chain of custody of the Zip Lock Bag from the point of its seizure (at the Paya Lebar MRT Station) to its submission for analysis (at the Illicit Drugs Laboratory of the HSA) and that there was no contamination of the Zip Lock Bag or its contents.
+
+154    The white crystalline substance in the Zip Lock Bag was analysed and found to contain not less than 0.42 gram of Methamphetamine as certified in Exhibit P8 (the HSA _CERTIFICATE_ issued by HSA Analyst Dr Zhang Shuhua). The forensic accuracy of the test conducted on the white crystalline substance was also not challenged by the Defence.
+
+155    Having regard to the foregoing, I was satisfied that the Prosecution had proved its case beyond a reasonable doubt against the Accused. I accordingly found the Accused guilty and convicted him on the Possession Charge.
+
+## Sentencing
+
+### The Prosecution’s Submission on Sentence
+
+##### (1)   The Consumption Charge
+
+156    The DPP sought an imprisonment term of at least one year and three months for the Consumption Charge. He submitted that a three-month uplift (above the mandatory imprisonment term of one year) was warranted due to the following:
+
+> (a)     the Accused had not shown an ounce of remorse throughout the trial by running mutually contradictory and incredible defences; and
+
+> (b)     the Accused never cooperated with the authorities and had not spared the authorities any resources in its investigations and even during the trial (as the Prosecution had to call 17 witnesses).
+
+##### (2)   The Possession Charge
+
+157    The DPP sought an imprisonment term of at least 10 months for the Possession Charge. He stated, in support of this submission, that the usual sentencing benchmark for first-time offenders convicted of an offence under s. 8(a) of the MDA was between six to 18 months’ imprisonment.
+
+158    The DPP then relied on the same factors set out above at \[156\] in seeking a three-month uplift. He added that a sentence of 10 months’ imprisonment, having regard to the small quantity of the Methamphetamine involved, was appropriate.
+
+159    The DPP further submitted that the imprisonment sentences for both the charges run concurrently.
+
+### The Defence’s Mitigation and Submissions on Sentence
+
+160    The DC stated the following in his oral mitigation. The Accused was a first-time drug offender. His choice to claim trial was his prerogative and he should not be penalised for having exercised his right to claim trial. He however agreed that an uplift in the sentences was justified. The DC also agreed with the DPP that the imprisonment sentences for both the charges run concurrently
+
+161    In relation to the Consumption Charge, the DC submitted that a two-month uplift be imposed on the mandatory minimum of one year’s imprisonment.
+
+162    In relation to the Possession Charge, the DC submitted that, in light of the relatively low amount of the Methamphetamine (0.42 gram), a starting point of six months would be appropriate. He then added that an uplift of two months would be sufficient.
+
+### The Sentencing Factors
+
+163    The record filed by the Prosecution showed that the Accused had been convicted on 16 December 2020 for an offence contrary to s. 323 of the Penal Code (Cap. 224, 2008 Rev. Ed.) and sentenced to an imprisonment term of six months. The Accused admitted to this.
+
+##### (1)   The Consumption Charge
+
+164    The punishment for a first offence contrary to s. 8(_b_)(ii) of the MDA is set out in s. 33(3A) of the MDA:
+
+> **Punishment for offences**
+
+> **33.** – (3A)    Any person convicted of an offence under section 8(_b_)… that is committed on or after the date of commencement of section 16 of the Misuse of Drugs (Amendment) Act 2019 shall on conviction be punished with imprisonment for a term of not less than one year but not more than 10 years and shall also be liable to a fine not exceeding $20,000, unless the person is punished under subsection (4), (4AA) or (4AB) or section 33A (as the case may be) for that same offence.
+
+165    I agreed with the DPP and the DC that the starting point was a mandatory minimum imprisonment term of one year. While I agreed with the DC that the Accused had a right to claim trial, I also took into consideration the DPP’s point (on the manner in which the Accused had conducted his defence) in determining the possible uplift. I was of the view, having regard to all the circumstances, that an uplift of the imprisonment term by two months and two weeks would be appropriate. I therefore imposed an imprisonment sentence of 14 months and two weeks for the Consumption Charge.
+
+##### (2)   The Possession Charge
+
+166    The Second Schedule of the MDA provides a maximum sentence of 10 years’ imprisonment or a fine of $20,000, or both, for a first offence contrary to s. 8(_a_) of the MDA.
+
+167    I accepted the DPP’s submission that the usual tariff for a first offence contrary to s. 8(_a_) of the MDA was an imprisonment term of between six and 18 months. I was of the view, having considered the amount of the Methamphetamine, the DPP’s point (on the manner in which the Accused had conducted his defence), and all the circumstances, that the uplift and the sentence submitted by the DPP was appropriate. I therefore imposed an imprisonment sentence of 10 months for the Possession Charge.
+
+##### (3)   The Aggregate Sentence
+
+168    The Accused faced and was convicted of only two offences. The requirement under s. 307(1) of the CPC 2010 was therefore inapplicable.
+
+169    I nevertheless reviewed, having decided the appropriate individual sentences in respect of the two offences, if the imprisonment sentences imposed for the Consumption Charge and the Possession Charge should run concurrently or consecutively. I considered in this connection the one-transaction rule and the totality principle enunciated by Menon CJ in _Mohamed Shouffee Bin Adam v Public Prosecutor_ <span class="citation">\[2014\] 2 SLR 998</span>.
+
+170    The two offences that the Accused was convicted of – the Consumption Charge and the Possession Charge – were committed in the course of a single transaction and also implicated similar legally protected interests. I was therefore of the view that the totality of the Accused’s criminal behaviour did not warrant the two terms of imprisonment to be run consecutively. I also considered that an imprisonment sentence of 14 months and two weeks would not, in all the circumstances, be crushing.
+
+171    I accordingly ordered that the imprisonment term of 14 months and two weeks for the Consumption Charge and the imprisonment term of 10 months for the Possession Charge run concurrently. I also backdated the sentence to account for a total of 73 days that the Accused had earlier spent in remand (from 2 August 2020 to 3 August 2020 and from 5 January 2021 to 18 March 2021).
+
+172    The Accused, being dissatisfied with the decision, has appealed against the conviction and the sentence. He is presently on bail pending appeal.
+
+* * *
+
+[\[note: 1\]](#Ftn_1_1)Notes of Evidence (“NE”), 25 November 2021, 15/23-16/14
+
+[^2]: NE, 25 November 2021, 16/16-17/25
+
+[^3]: NE, 25 November 2021, 18/29-19/4
+
+[^4]: NE, 25 November 2021, 19/5-15
+
+[^5]: NE, 25 November 2021, 32/9-20
+
+[^6]: NE, 25 November 2021, 35/12-18; 41/8-20
+
+[^7]: NE, 25 November 2021, 20/14-21
+
+[^8]: NE, 25 November 2021, 26/31-32
+
+[^9]: NE, 25 November 2021, 27/7-22
+
+[^10]: NE, 25 November 2021, 63/28-64/10
+
+[^11]: NE, 25 November 2021, 65/12-15 and NE, 10 December 2021, 18/15-19/1
+
+[^12]: NE. 10 December 2021, 20/15-17
+
+[^13]: NE, 25 November 2021, 13/14-23
+
+[^14]: NE, 10 December 2021, 20/19-21
+
+[^15]: NE, 16 February 2022, 28/25-30/23
+
+[^16]: NE, 16 February 2022, 31/5-21
+
+[^17]: NE, 16 February 2022, 29/17-30/4
+
+[^18]: NE, 16 February 2022, 30/24-31/4
+
+[^19]: NE, 25 November 2021, 100/2-12
+
+[^20]: NE, 25 November 2021, 106/3-25
+
+[^21]: NE, 25 November 2021, 101/4-13
+
+[^22]: NE, 25 November 2021, 101/15-26
+
+[^23]: NE, 25 November 2021, 97/21-98/27
+
+[^24]: NE, 25 November 2021, 98/21-27
+
+[^25]: NE, 15 February 2022, 65/9-66/11
+
+[^26]: NE, 15 February 2022, 66/24-28
+
+[^27]: NE, 15 February 2022, 51/21-31
+
+[^28]: NE, 15 February 2022, 52/19-32
+
+[^29]: NE, 15 February 2022, 55/11-12; 16-21
+
+[^30]: NE, 15 February 2022, 72/17-22
+
+[^31]: NE, 15 February 2022, 72/24
+
+[^32]: NE, 15 February 2022, 73/5-15
+
+[^33]: NE, 15 February 2022, 72/27-30
+
+[^34]: NE, 15 February 2022, 68/21-24
+
+[^35]: NE, 15 February 2022, 70/28-71/4
+
+[^36]: NE, 15 February 2022, 74/6-8
+
+[^37]: NE, 15 February 2022, 74/25-29
+
+[^38]: NE, 14 March 2022, 8/3-6
+
+[^39]: NE, 14 March 2022, 12/26-28
+
+[^40]: NE, 14 March 2022, 5/28-6/4; 10/17-27
+
+[^41]: NE, 14 March 2022, 51/24-52/11
+
+[^42]: NE, 14 March 2022, 10/28-12/12
+
+[^43]: NE, 14 March 2022, 36/31-37/4
+
+[^44]: NE, 14 March 2022, 37/2-38/1
+
+[^45]: NE, 14 March 2022, 39/10-29
+
+[^46]: NE, 14 March 2022, 14/3-7; 14/22-15/1
+
+[^47]: NE, 15 February 2022, 7/13-24
+
+[^48]: NE, 15 February 2022, 7/25-8/11
+
+[^49]: NE, 15 February 2022, 10/25-28
+
+[^50]: NE, 15 February 2022, 9/4-6; 9-11
+
+[^51]: NE, 15 February 2022, 8/31-9/3
+
+[^52]: NE, 15 February 2022, 9/13-20
+
+[^53]: NE, 15 February 2022, 9/21-30
+
+[^54]: NE, 15 February 2022, 9/31-10/4
+
+[^55]: NE, 15 February 2022, 10/5-9
+
+[^56]: NE, 15 February 2022, 10/14-19
+
+[^57]: NE, 15 February 2022, 10/20-24
+
+[^58]: NE, 15 February 2022, 10/29-32
+
+[^59]: NE, 15 February 2022, 11/1-4
+
+[^60]: NE, 15 February 2022, 11/4-15
+
+[^61]: NE, 15 February 2022, 11/17-24
+
+[^62]: NE, 15 February 2022, 12/1-6
+
+[^63]: NE, 15 February 2022, 12/7-16
+
+[^64]: NE, 15 February 2022, 25/9-13
+
+[^65]: NE, 15 February 2022, 25/14-18
+
+[^66]: NE, 15 February 2022, 25/19-21
+
+[^67]: NE, 15 February 2022, 23/16-23
+
+[^68]: NE, 15 February 2022, 24/2-5
+
+[^69]: NE, 15 February 2022, 24/6-8
+
+[^70]: NE, 15 February 2022, 24/19-23
+
+[^71]: NE, 15 February 2022, 24/31-25/4
+
+[^72]: NE, 15 February 2022, 25/22-30
+
+[^73]: NE, 15 February 2022, 25/32-26/5
+
+[^74]: NE, 15 February 2022, 26/6-18
+
+[^75]: NE, 15 February 2022, 27/6-28
+
+[^76]: NE, 15 February 2022, 28/11-15
+
+[^77]: NE, 15 February 2022, 28/18-31
+
+[^78]: NE, 15 February 2022, 29/3-8
+
+[^79]: NE, 15 February 2022, 29/27-32
+
+[^80]: NE, 15 February 2022, 30/10-17
+
+[^81]: NE, 15 February 2022, 30/22-27
+
+[^82]: NE, 14 March 2022, 7/21-31
+
+[^83]: NE, 14 March 2022, 8/13-21; 9/26-10/2
+
+[^84]: NE, 14 March 2022, 8/1-2
+
+[^85]: NE, 14 March 2022, 8/7-12; 23-27; 8/31-9/5
+
+[^86]: NE, 17 March 2022, 20/30-21/2; 38/19-39-15
+
+[^87]: NE, 17 March 2022, 27/7-12
+
+[^88]: NE, 17 March 2022, 21/10-13; 21/31-22/6; 39/32-40/23
+
+[^89]: NE, 17 March 2022, 21/11-13; 22/7-11; 44/27-45/9
+
+[^90]: NE, 17 March 2022, 29/17-20; 46/32-47/15
+
+[^91]: NE, 17 March 2022, 22/17-28
+
+[^92]: NE, 17 March 2022, 25/20-28
+
+[^93]: NE, 17 March 2022, 27/13-21; 43/5-44/6
+
+[^94]: NE, 17 March 2022, 27/30-32; 47/16-22
+
+[^95]: NE, 17 March 2022, 59/28-60/5
+
+[^96]: NE, 17 March 2022, 70/21-28s
+
+[^97]: NE. 17 March 2022, 70/30-71/2
+
+[^98]: NE, 17 March 2022, 60/11-13
+
+[^99]: NE, 17 March 2022, 71/3-11
+
+[^100]: NE, 17 March 2022, 61/18-23; 71/12-17
+
+[^101]: NE, 25 November 2021, 133/28-134/8
+
+[^102]: NE, 25 November 2021, 133/28-134/7; 10-12
+
+[^103]: NE, 25 April 2022, 4/19-34
+
+[^104]: NE, 25 April 2022, 5/25-6/7
+
+[^105]: NE, 26 April 2022, 34/21-24
+
+[^106]: NE, 25 April 2022, 5/7-8
+
+[^107]: NE, 25 April 2022, 9/11
+
+[^108]: NE, 25 April 2022, 7/9-13
+
+[^109]: NE, 25 April 2022, 9/11-14
+
+[^110]: NE, 25 April 2022, 9/14-18
+
+[^111]: NE, 25 April 2022, 9/18-19
+
+[^112]: NE, 25 April 2022, 9/14-24
+
+[^113]: NE, 25 April 2022, 10/20-29
+
+[^114]: NE, 25 April 2022, 11/6-9
+
+[^115]: NE, 25 April 2022, 11/9-12
+
+[^116]: NE, 25 April 2022, 11/18-21
+
+[^117]: NE, 26 April 2022, 3/16-25
+
+[^118]: NE, 26 April 2022, 7/14-16
+
+[^119]: NE, 26 April 2022, 8/21-31
+
+[^120]: NE, 26 April 2022, 9/6-24
+
+[^121]: NE, 26 April 2022, 9/29-31
+
+[^122]: NE, 26 April 2022, 13/6-9; 14/7-10
+
+[^123]: NE, 26 April 2022, 16/17-20
+
+[^124]: NE, 26 April 2022, 21/8-20
+
+[^125]: NE, 26 April 2022, 20/31-21/5
+
+[^126]: NE, 26 April 2022, 21/24-22/3
+
+[^127]: NE, 26 April 2022, 22/24-23/11
+
+[^128]: NE, 26 April 2022, 22/9-10
+
+[^129]: NE, 26 April 2022, 24/27-30
+
+[^130]: NE, 26 April 2022, 25/4-7
+
+[^131]: NE, 26 April 2022, 25/18-26/27
+
+[^132]: NE, 26 April 2022, 34/13-20
+
+[^133]: NE, 26 April 2022, 27/8-9
+
+[^134]: NE, 26 April 2022, 38/8-9
+
+[^135]: NE, 25 April 2022, 35/24-36/9
+
+[^136]: NE, 25 April 2022, 36/13-15
+
+[^137]: NE, 25 April 2022, 34/5-19
+
+[^138]: NE, 25 April 2022, 8/8-10
+
+[^139]: NE, 25 November 2021, 32/9-20
+
+[^140]: NE, 25 April 2022, 6/19-22
+
+[^141]: Exhibit P3
+
+[^142]: NE, 25 April 2022, 31/14-32/2
+
+[^143]: NE, 25 April 2022, 31/24-25
+
+[^144]: NE, 17 March 2022, 65/5-25 and 75/29-76/30
+
+[^145]: NE, 15 March 2022, 21/13-14
+
+[^146]: NE, 15 March 2022, 50/20-26
+
+[^147]: NE, 15 March 2022, 50/27-51/3
+
+[^148]: NE, 15 March 2022, 51/13-52/4
+
+[^149]: NE, 15 March 2022, 51/11-12; 52/6-18
+
+[^150]: NE, 15 March 2022, 55/2-16
+
+[^151]: NE, 15 March 2022, 55/18-20
+
+[^152]: NE, 15 March 2022, 55/26-27
+
+[^153]: NE, 15 March 2022, 55/30-56/5
+
+[^154]: NE, 15 March 2022, 57/7-19
+
+[^155]: NE, 15 March 2022, 58/13-59/16
+
+[^156]: NE, 15 March 2022, 57/25-30
+
+[^157]: NE, 15 March 2022, 52/22-54/30
+
+[^158]: NE, 15 March 2022, 58/3-5
+
+[^159]: NE, 15 March 2022, 58/6-11
+
+[^160]: NE, 15 March 2022, 59/21-23
+
+[^161]: NE, 15 March 2022, 59/24-26
+
+[^162]: NE, 15 March 2022, 22/7-20
+
+[^163]: NE, 15 March 2022, 29/31-30/4
+
+[^164]: NE, 15 March 2022, 29/19-22
+
+[^165]: NE, 15 March 2022, 22/20-24
+
+[^166]: NE, 15 March 2022, 22/24-23/1; 23/13-26
+
+[^167]: NE, 15 March 2022, 24/18-19; 25/3-4
+
+[^168]: NE, 15 March 2022, 23/3-12; 24/10-12; 24/27-29
+
+[^169]: NE, 15 March 2022, 25/16-21
+
+[^170]: NE, 15 March 2022, 26/1-3; 26/19-20
+
+[^171]: NE, 15 March 2022, 26/7-10
+
+[^172]: NE, 15 March 2022, 26/12-17
+
+[^173]: NE, 15 March 2022, 27/10-15
+
+[^174]: NE, 15 March 2022, 27/21-32
+
+[^175]: NE, 15 March 2022, 28/1-3
+
+[^176]: NE, 15 March 2022, 28/10-19
+
+[^177]: NE, 15 March 2022, 28/19-20
+
+[^178]: NE, 15 March 2022, 28/22-23
+
+[^179]: NE, 15 March 2022, 28/23-29/3
+
+[^180]: NE, 15 March 2022, 29/5-8
+
+[^181]: NE, 15 March 2022, 29/12-17
+
+[^182]: NE, 15 March 2022, 30/13-15
+
+[^183]: NE, 15 March 2022, 40/6-20
+
+[^184]: NE, 15 March 2022, 42/32-44/5
+
+[^185]: NE, 15 March 2022, 44/12-45/7
+
+[^186]: NE, 15 March 2022, 45/32-46/10
+
+[^187]: NE, 15 March 2022, 46/19-31
+
+[^188]: NE, 17 March 2022, 3/10-19
+
+[^189]: NE, 17 March 2022, 3/20-23
+
+[^190]: NE, 17 March 2022, 3/25-29
+
+[^191]: NE, 17 March 2022, 3/13-4/20
+
+[^192]: NE, 17 March 2022, 6/3-23
+
+[^193]: NE, 17 March 2022, 6/24-26
+
+[^194]: NE, 17 March 2022, 8/10-12
+
+[^195]: NE, 17 March 2022, 8/21-9/12
+
+[^196]: NE, 17 March 2022, 11/15-20
+
+[^197]: NE, 17 March 2022, 10/22-30
+
+[^198]: NE, 17 March 2022, 12/4-15
+
+[^199]: NE, 17 March 2022, 12/24-28
+
+[^200]: NE, 25 April 2022, 14/21-15/13
+
+[^201]: NE, 26 April 2022, 33/6-34/24
+
+[^202]: NE, 25 April 2022, 17/3-9
+
+[^203]: NE. 26 April 2022, 31/15-21
+
+[^204]: NE, 25 April 2022, 23/21-25
+
+[^205]: NE, 25 April 2022, 23/32-24/3
+
+[^206]: NE, 25 April 2022, 28/3-8
+
+[^207]: NE, 26 April 2022, 28/14-17
+
+[^208]: NE, 26 April 2022, 10/31-11/2
+
+[^209]: NE, 26 April 2022, 11/13-16
+
+[^210]: NE, 26 April 2022, 7/17-20
+
+[^211]: NE, 26 April 2022, 38/8-9 (see above \[73\])
+
+[^212]: NE, 31 May 2022, 10/8-11/9
+
+[^213]: NE, 31 May 2022, 10/8-23
+
+[^214]: NE, 25 November 2021, 33/22-23
+
+[^215]: NE, 25 November 2021, 20/8-11
+
+[^216]: NE, 25 November 2021, 27/24-28/4
+
+[^217]: NE, 25 November 2021, 70/12-32; 71/18-72/5
+
+[^218]: NE, 10 December 2021, 31/20-27
+
+[^219]: NE, 25 November 2021, 91/24-30
+
+[^220]: NE, 16 February 2022, 30/24-31/4; NE, 10 December 2021, 25/32-26/5
+
+[^221]: Exhibit P1 at “Date/Time Report Made”
+
+[^222]: Exhibit P4
+
+[^223]: NE, 16 February 2022, 22/1-8
+
+[^224]: NE, 16 February 2022, 22/12-23/1
+
+[^225]: NE, 16 February 2022, 11/18-23
+
+[^226]: NE, 15 February 2022, 7/13-24
+
+[^227]: NE, 15 February 2022, 11/1-4
+
+[^228]: NE, 15 February 2022, 11/4-15
+
+[^229]: NE, 15 February 2022, 12/7-16
+
+[^230]: Exhibit P10 at “_Date of Urine Test Proceed:_”
+
+[^231]: NE, 15 February 2022, 30/18-22
+
+[^232]: Prosecution’s Closing Submission dated 23 May 2022 at \[54\]
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F27919-SSP.xml)

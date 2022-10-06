@@ -1,0 +1,315 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Mockridge Philip Richard  
+
+### \[2022\] SGMC 49
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">MCN-900028-2022 and others</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">25 August 2022</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Soh Tze Bian</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">DPP Wu Yu Jie for the Prosecution; Accused in person.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Mockridge Philip Richard</td></tr></tbody></table>
+
+Criminal Law – Sentence – Failure to wear mask – Deliberate defiance of authority
+
+25 August 2022
+
+### District Judge Soh Tze Bian:
+
+## CHARGES
+
+1       The accused person, Mockridge Philip Richard (“AP”) pleaded guilty to the following charge in MCN-900028-2022:
+
+> “…you, on 16 May 2021, from around 9.11 pm to 9.26 pm, at MOS Burger, City Square Mall, 180 Kitchener Road, #B2-04, Singapore 208539, did contravene reg 3A(1)(a) of the COVID-19 (Temporary Measures) (Control Order) Regulations 2020, to wit, by not wearing a mask over your nose and mouth whilst you were outside your ordinary place of residence, without reasonable excuse, and you have thereby committed an offence punishable under s 34(7)(a) of the COVID-19 (Temporary Measures) Act 2020.”
+
+2       The AP also consented to 2 other similar charges in MCN-901973-2021 and MCN-901974-2021 (“TIC charges”) to be taken into consideration for the purpose of sentencing for the proceeded charge and these TIC charges are as follows:
+
+> MCN-901973-2021
+
+> “…you, on 26 November 2020, from around 10 pm to around 11 pm, at Sengkang LRT/MRT Station, Blk 5 Sengkang Square, Singapore 546052, did contravene reg 3A(1)(a) of the COVID-19 (Temporary Measures) (Control Order) Regulations 2020, to wit, by not wearing a mask over your nose and mouth whilst you were outside your ordinary place of residence, without reasonable excuse, and you have thereby committed an offence punishable under s 34(7)(a) of the COVID-19 (Temporary Measures) Act 2020.”
+
+> MCN-901974-2021
+
+> “…you, on 19 December 2020, at about 10.50 pm, at Serangoon MRT Station, Blk 21 Serangoon Central, Singapore 556082, did contravene reg 3A(1)(a) of the COVID-19 (Temporary Measures) (Control Order) Regulations 2020, to wit, by not wearing a mask over your nose and mouth whilst you were outside your ordinary place of residence, without reasonable excuse, and you have thereby committed an offence punishable under s 34(7)(a) of the COVID-19 (Temporary Measures) Act 2020.”
+
+3       Regulation 3A(1)(a) of the COVID-19 (Temporary Measures) (Control Order) Regulations 2020 states that: “Every individual must wear a mask at all times when the individual is not in his or her ordinary place of residence”, and section 34(7)(a) of the COVID-19 (Temporary Measures) Act 2020 states that: “A person who, without reasonable excuse, contravenes a control order, commits an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both.”
+
+## STATEMENT OF FACTS
+
+4       The statement of facts which the AP had admitted without qualification stated as follows:
+
+> “    The accused is Mockridge Philip Richard, a 55-year-old United Kingdom national and Singaporean Permanent Resident, bearing NRIC No. SXXXXXXXG (“the accused”).
+
+> 2    At the material time, the accused’s ordinary place of residence was 622 Serangoon Road, Singapore 218222.
+
+> **FACTS PERTAINING TO THE CHARGE IN MCN-900028-2022**
+
+> 3    On 16 May 2021, at around 8.47pm, one Goh Leong Sin called the police informing that he had told a person to wear his mask, but that person had refused. The incident location was ascertained to be City Square Mall, 180 Kitchener Road, Singapore 208539.
+
+> 4    At around 9.11pm, two police officers, Sergeant Shawn Ang Yi Xiang (“SGT Ang”) and Sergeant Sheikh Anis, spotted the accused sitting in MOS Burger, #B2-04 in City Square Mall. The police officers approached the accused. The accused had his mask pulled down over his chin, and his mouth and nose were exposed. The accused did not have any food or drink with him at this time.
+
+> 5    SGT Ang informed the accused that he had to put his mask on while not eating or drinking. The accused then asked for the police officers’ identification. The police officers presented their identification. In the meantime, the accused continued to have his mask on his chin, and not covering his mouth and nose.
+
+> 6    SGT Ang then told the accused again that he had to wear a mask over his mouth and nose while not eating or drinking. The accused replied, “Are you sure about that? I’m not so sure.”
+
+> 7    At around 9.15pm, the accused then walked away from the police officers to collect his food from the counter. His mask continued to be on his chin, and his nose and mouth remained uncovered. At around 9.15pm, a member of the public stood next to him at the counter while collecting food. At around 9.20pm, the accused received his food from the staff of MOS Burger, who passed the accused his food directly. He then returned to the police officers with his food in a plastic bag. He did not eat or drink at any of the material times.
+
+> 8    At this point, the accused and the two police officers stood at the entrance to MOS Burger. At around 9.22pm, SGT Ang asked the accused if he had an issue with wearing a mask over his mouth and nose. The accused replied, “Which law are you referring to?” At this point, the accused took his mobile phone out and began recording the exchange. SGT Ang repeated his question, asking the accused if he had an issue with wearing a mask over his mouth and nose. The accused again challenged SGT Ang and asked, “Which law are you referring to?” SGT Ang then referred to the “COVID-19 temporary regulations”, by which he meant the COVID19 (Temporary Measures) (Control Order) Regulations 2020 (“TMCO”), and that the accused was supposed to wear his mask over his mouth and nose. The accused replied, “And if I don’t, what will you do?”
+
+> 9    In response to the accused’s question, SGT Ang proceeded to inform the accused of the usual composition fines for a first-time and second-time offence, and the usual practice of charging third-time offenders in court. The accused replied, “So you’re threatening to put me in a cage?” SGT Ang explained that he was only informing the accused of the consequences of failing to comply with the law, and that it was for the court to determine the consequences. The accused maintained that SGT Ang was threatening him. Throughout this conversation, the accused was not wearing a mask over his mouth and nose, despite having been informed of the potential legal consequences of his non-compliance.
+
+> 10    At around 9.26pm, as the accused persistently refused to wear his mask despite the police officers’ instructions, SGT Ang informed the accused that he would have to answer to any follow-up action. The accused then walked away, while his mask was still on his chin and not covering his mouth and nose.
+
+> 11    Regulation 2(1) of the TMCO provides that “wear”, in relation to any provision in the TMCO requiring a mask to be worn, “means to wear a mask over and covering the wearer’s nose and mouth, with the mask touching the wearer’s nose, cheeks and chin”. Furthermore, at the material time, the accused was already being investigated for the first and second incidents (on 26 November and 19 December 2020 respectively) which form the basis of the 1st and 2nd charges.
+
+> 12    As such, the accused had failed to wear a mask at all times while outside his ordinary place of residence. By virtue of the foregoing, he has contravened reg 3A(1)(_a_) of the TMCO, without reasonable excuse, and he has thereby committed an offence under s 34(7)(_a_) of the COVID-19 (Temporary Measures) Act 2020.”
+
+## PROSECUTION SUBMISSION ON SENTENCE
+
+5       The prosecution submitted for a maximum fine of $10,000 for the proceeded charge in MCN-900028-2022 on the following grounds:
+
+> (a)     On 7 April 2020, Parliament passed the COVID-19 (Temporary Measures) Act 2020 (“TMA”) to deal with matters relating to the COVID-19 pandemic that allowed the Minister to implement control orders for the purpose of preventing, protecting against, delaying and controlling the incidence or transmission of COVID-19 in Singapore. These Safe Distancing Measures (“SDM”) were necessary and crucial to preventing and containing the spread of COVID-19 in our community. Breaches of SDM pose challenges to the containment of COVID-19 in Singapore.
+
+> (b)     The primary sentencing consideration in such cases is general and specific deterrence. There is a need to ensure that SDM are adhered to strictly in the midst of the COVID-19 pandemic.
+
+> (c)     The prosecution relies on the following sentencing framework:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="33.3266653330666%"><col width="33.3266653330666%"><col width="33.3466693338668%"></colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">&nbsp;</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Factors</b></p></td><td align="left" class="b" rowspan="1" valign="middle"><p align="center" class="Table-Para-1"><b>Sentencing Range</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">Fine is appropriate where –</p><p align="justify" class="Table-Para-1">(1) Breach is</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">An offence involving <u>Minor Breach AND Low Culpability</u>.</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Fine of up to $2,000</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Low/Moderate</p><p align="justify" class="Table-Para-1">AND</p><p align="justify" class="Table-Para-1">(2) Culpability is</p><p align="justify" class="Table-Para-1">Low/Moderate</p></td><td align="left" class="br" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">If the accused <u>pleads guilty</u>, and there are no exceptional aggravating or mitigating factors</p><p align="justify" class="Table-Para-1">Offence <u>exceeds Minor Breach AND</u></p><p align="justify" class="Table-Para-1"><u>Low Culpability but does not exceed</u></p><p align="justify" class="Table-Para-1"><u>Moderate Breach AND Moderate</u></p><p align="justify" class="Table-Para-1"><u>Culpability</u></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Fine of $1,000 i/d 3 days</p><p align="justify" class="Table-Para-1">&nbsp;</p><p align="justify" class="Table-Para-1">&nbsp;</p><p align="justify" class="Table-Para-1">Fine of $2,000 to $10,000.</p></td></tr><tr><td align="left" class="br" rowspan="3" valign="top"><p align="justify" class="Table-Para-1">Custodial threshold is crossed where the offence <b>exceeds</b> –</p><p align="justify" class="Table-Para-1">Moderate Breach</p><p align="justify" class="Table-Para-1">AND</p><p align="justify" class="Table-Para-1">Moderate</p><p align="justify" class="Table-Para-1">Culpability</p></td><td align="left" class="br" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">Moderate Breach AND High Culpability;</p><p align="justify" class="Table-Para-1">OR</p><p align="justify" class="Table-Para-1">Serious Breach AND Moderate</p><p align="justify" class="Table-Para-1">Culpability</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Imprisonment</p><p align="justify" class="Table-Para-1">of up to 1</p><p align="justify" class="Table-Para-1">month</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">Serious Breach AND High Culpability</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Imprisonment of 1 – 2 months</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="middle"><p align="justify" class="Table-Para-1">Egregious Breaches (e.g. offender is infected with COVID-19; there is a breach on a wide-scale implicating many other persons); AND High</p><p align="justify" class="Table-Para-1">Culpability</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Imprisonment</p><p align="justify" class="Table-Para-1">of more than 2 months</p></td></tr></tbody></table>
+
+  
+  
+
+> (d)     There are two steps in applying this sentencing framework.
+
+>> (i)       At the first stage, the court identifies the offence-specific factors to determine the appropriate sentencing band. The following factors may be relevant:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="100%"></colgroup><tbody><tr><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Non-Exhaustive List of Culpability Factors</b></p></td></tr><tr><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">The offender’s reason for breaching the regulation</p></td></tr><tr><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Whether the offender has symptoms associated with COVID-19</p></td></tr><tr><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Whether the offender took precautions to reduce the risk of infection to others (e.g. wearing a mask) [<em>Note. This factor is relevant only if the offender is not facing a separate charge of failing to comply with the requirement to wear a mask.</em>]</p></td></tr><tr><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">The offender took actions to conceal the breach, including by giving false information to enforcement officers or during investigations</p></td></tr><tr><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">The offender publicised or flaunted his breach (e.g. by posting it on social media). If so, did this cause alarm / panic.</p></td></tr><tr><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">The extent to which the offender disregarded advice to comply with the requirements of TM(CO) after being confronted</p></td></tr><tr><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Repeat offending, including prior evidence of compounding similar offences</p></td></tr><tr><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Non-Exhaustive List of Severity of Breach Factors</b></p></td></tr><tr><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Distance that the offender travelled away from the specified place of accommodation</p></td></tr><tr><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Whether the offender had travelled to public places after leaving the specified place of accommodation, and if so, the nature of these places</p></td></tr><tr><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Nature of the meeting (<em>eg.</em> family meal, drinking party, gambling session, tryst or engaging sexual services etc)</p></td></tr><tr><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Role of the offender in the meeting (<em>eg</em>. organiser or participant)</p></td></tr><tr><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Duration of the meeting</p></td></tr><tr><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Number of persons involved in the meeting</p></td></tr><tr><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Degree of proximity between the persons involved in the meeting</p></td></tr><tr><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Offender has COVID-19</p></td></tr></tbody></table>
+
+  
+  
+
+>> (ii)       The above factors do not have to be fulfilled in a cumulating fashion for the offender’s culpability to be high or the breach to be serious.
+
+> (e)     At the second stage, the court then determines the offender-specific factors, such as the offender’s character, personal attributes, expression of remorse, or any other considerations which are particular to the offender rather than factors relating to the manner and mode of the offending or the harm caused by the offence. These can relate to offences taken into consideration for the purposes of sentencing, the presence of relevant antecedents, the lack of or display of evident remorse, and a genuine plea of guilt.
+
+> (f)     The prosecution highlighted the following offence-specific factors:
+
+>> (i)       The breach was of moderate severity in this case. The AP remained unmasked for _at least_ 15 minutes (between 9.11pm and 9.26pm) while at MOS Burger. The AP did not just remain in his seat but walked to the counter to collect his food while unmasked, between 9.15pm and 9.20pm. When the AP left the presence of the police officers, at around 9.26pm, he was still unmasked.
+
+>> (ii)       In relation to the AP’s culpability, his culpability was at least moderate:
+
+>>> (1) The AP had no reason for not wearing his mask.
+
+>>> (2)       The AP was already being investigated for the offences forming the basis of the 1st and 2nd charges. Despite having encountered the police twice for failing to wear a mask, the AP remained defiant and committed this third breach.
+
+>>> (3)       The AP’s responses to the police officers who advised him to wear his mask clearly demonstrate his defiance, despite having gone through two prior incidents with the police.
+
+>>>> (A)       When told that he had to wear his mask over his mouth and nose, the AP replied, “Are you sure about that? I’m not so sure” (see the SOF at \[6\]).
+
+>>>> (B)       When SGT Ang asked if the AP had an issue with wearing his mask over his mouth and nose, the AP demanded to know which law he was referring to. After he was given an answer, the AP challenged SGT Ang, “And if I don’t, what will you do?” (see the SOF at \[8\]).
+
+>>>> (C)       When SGT Ang, in _response_ to the AP’s question, set out the usual practice for breaches of the TMCO, the AP then took what SGT Ang said as a threat to “put \[him\] in a cage” (see the SOF at \[9\]). He continued to be non-compliant despite having been informed of the potential legal consequences of his breach.
+
+>>>> (D)       Throughout this exchange, the AP refused to wear his mask over his nose and mouth.
+
+> (g)     In relation to the offender-specific factors:
+
+>> (i)       The AP also faces two TIC charges.
+
+>> (ii)       The AP has pleaded guilty.
+
+## MITIGATION PLEA
+
+6       In his mitigation plea, the AP sought a “$1000 fine offset due to the mistaken remand resulting in DISCHARGE WITH STERN WARNING” on the following grounds:
+
+> (I)     On the prosecution's offence-specific factors:
+
+>> (a)       15 minutes as a person without Covid, at a quiet time in the late evening, thereby presenting no threat of any harm to anyone. This is not changed by getting up to fetch a meal and is consistent with someone who is there merely to do that and for no other, potentially aggravating, reason. Respectfully submit this remains at the LOW end of breach.
+
+>> (b)       Culpability:
+
+>>> i.       That there was no reasonable excuse for the breach is accepted.
+
+>>> ii.       The AP had no reason whatsoever to be aware of any other investigations, he had almost completely forgotten about events from many months earlier.
+
+>>> iii.       Genuine and legitimate questions regarding the law:
+
+>>>> A)       This was a genuine question regarding the officer's certainty as to the application of the law, partly arising from doubts regarding proper identification.
+
+>>>> B)       This was a genuine and important question regarding legal process.
+
+>>>> C)       Sgt. Ang responded to A) and B) above in a way that suggests he perceived them to be genuine, legitimate, questions regarding the law which is why he answered them to the best of his ability, despite his response being factually incorrect as to the process, in the AP’s case. The AP’s response was clumsy, but addressed a genuine and important concern.
+
+>>>> D)       That there was no reasonable excuse for the breach is accepted, however culpability should not rise in response to reasonable and legitimate questions regarding the law being asked of law enforcement officers, although now the AP accepts he was more persistent than he should have been, whilst no more than appeared appropriate to him at the time. Neither should it rise for the use of clumsy language in a moment of tension, something that is no part of the sentencing framework.
+
+>> (c)       Apart from advice which should have been more immediately responded to and/or the meal being consumed immediately (it wasn't due to the ongoing discussion), and accepting that the list is non-exhaustive, there is otherwise an absence of culpability factors as per the Prosecution's own proposed sentencing framework and the AP therefore suggests it remains at the LOWEST end of the scale, possibly rising slightly for the persistence.
+
+> (II)     On the Offender-specific factors:
+
+>> a)       TIC accepted.
+
+>> b)       Guilty plea from the outset.
+
+>> c)       Person of good character.
+
+>> d)       1st time offense.
+
+>> e)       Remorse - no repeat offense in over a year since this incident.
+
+>> f)       No personal benefit from the offense.
+
+>> g)       Again, as evidenced by absence of re-offending, the position regarding eating establishments and the legal process/severity of sentencing is now understood and there is no intention for a repeat incident.
+
+> (III)     The Prosecution's offender and offense specific factors have been addressed to show that both breach and culpability remain on the low end, barely reaching moderate if at all, and that a sentence close to the officer's involved’s own assessment, namely a composition notice fine, is appropriate for the breach.
+
+> (IV)     For the reasons stated above, there are no exceptional aggravating factors.
+
+> (V)     The AP asks the court to consider the relevant case references as follows:
+
+>> (a)     Case No. SC-903327-2020
+
+>> Name of Accused Permjit Singh s/o Khazan Singh
+
+>> Antecedents Yes - has previous antecedents after turning 21
+
+>> Relevant antecedents Yes - Relevant because of previous conviction for similar offenses.
+
+>> Summary: Accused was spotted at Fort Canning Green seated on a wooden bench inside a sheltered pavilion that had been cordoned off from public use. When approached by an NParks officer, the Accused used abusive and vulgar words and challenged the officer to a fight. The Accused was also found on 5 separate occasions of not wearing a mask, Fine of $3,000, in default ten (10) days' imprisonment.
+
+>> Similarity: Persistence
+
+>> Distinguishing factors: Vulgar, abusive and violent towards officer
+
+>> (b)     Case No. SC-903198-2020
+
+>> Name of Accused Zulkeflee Bin Ab Razak (under 21). Fine of $300, in default one (1) day's imprisonment.
+
+>> (c)     Case No. SC-904907-2021
+
+>> Name of Accused Mohammad Shahrunnizam Bin Yazid. Fine of $500, in default one (1) day's imprisonment.
+
+>> (d)     Case No. SC-905534-2020
+
+>> Name of Accused Christopher s/o Anthony.Fine of $500, in default five (5) days' imprisonment.
+
+>> Similarity: Low level of breach
+
+>> Distinguishing factors: Combined with other, sometimes more serious, offenses.
+
+>> (e)     Case No. SC-903304-2020
+
+>> Name of Accused Kumaran Roy s/o Rajendran
+
+>> Summary: Accused was approached by an SG Clean Ambassador for not wearing a mask at a market. Accused used the collar of his shirt to cover his mouth (without covering the nose) and claimed that the shirt was his mask. The Accused turns and walk away. Later that day he was found without a mask again, and remained adament that his shirt was sufficient. Fine of $1,500, in default five (5) days' imprisonment.
+
+>> Similarity: 'Remained adament and 'persistent'.
+
+>> Distinguishing factor: 'Later that day' - reasonable to assume the breach went on for many hours, far longer than the 15 minutes in the current case.
+
+> (VI)     The AP was remanded in custody for 1.5 days between 11 January 2022 and 12 January 2022 as a result of a mix-up by the police and authorities on an unrelated matter. Whilst a warrant was issued the incident occurred through no fault of his own, he asked the court to please consider the effect that this would have had, not least in so far as it took his blood pressure to dangerously high levels just 4 days after having underdone a full hip replacement operation. Medical report is submitted.
+
+## PROSECUTION REPLY TO THE MITIGATION PLEA
+
+7       The prosecution replied to the mitigation plea as follows:
+
+> (a)     Concerning the offence-specific factors:
+
+>> (i)       The prosecution maintains that the length of the breach (at least 15 minutes) and the fact that the AP left the presence of the police officers without wearing a mask passes the threshold of a minor breach.
+
+>> (ii)       The AP accepts that he had no reason for not wearing his mask.
+
+>> (iii)       The prosecution does not accept that the AP “had no reason whatsoever to be aware of any other investigations”. The two incidents forming the basis of the TIC charges occurred on 26 November and 19 December 2020 respectively. Furthermore, the police had recorded a statement in respect of these two offences on 8 March 2021. The claim that he had “completely forgotten” about the previous incidents is not believable.
+
+>> (iv)       The prosecution does not accept that the questions the AP asked the police officers were “genuine and legitimate questions regarding the law”. The AP accepts the facts as stated in the SOF and the question here goes to the proper characterisation of those facts.
+
+>> (v)       The AP had no basis on which to doubt the identities of the police officers or that they were truly police officers.
+
+>> (vi)       The AP’s language belies the claim that these were genuine and legitimate questions. His language was confrontational – at para 6 of the SOF, “Are you sure about that? I’m not so sure”, and later, at para 9 of the SOF, “So you’re threatening to put me in a cage?”. Furthermore, he was not genuinely intending to accept the responses of the police, as evidenced by his escalating questions about what the police would do if he failed to comply with their directions.
+
+>> (vii)       The AP had no basis on which to doubt the answers that the police officers were giving and that the law required him to wear a mask at the material time.
+
+>> (viii)       In any event, ignorance of the law is no excuse. He cannot be heard to rely on his alleged ignorance to claim that he has no responsibility for disobeying the request of the police officers and for committing the offence of failing to wear a mask.
+
+> (b)     As for the offender-specific factors:
+
+>> (i)       The AP accepts the offender-specific factors of the two additional TIC charges.
+
+>> (ii)       The AP cannot be given credit for a “first-time” offence since he had committed the same offence on two prior occasions.
+
+>> (iii)       The fact that there was no personal benefit is not a mitigating factor, but only the absence of an additional aggravating factor.
+
+>> (iv)       The AP has pleaded guilty and avoided the need for a trial and he has not reoffended.
+
+> (c)     On the basis of the above, the case is one of moderate breach and moderate culpability, and a sentence of $10,000 is appropriate in the light of the TIC charges.
+
+> (d)     As for the AP’s “case references”, these are not reported cases and no published decisions have been provided. They are therefore of limited utility to the court as it is not clear what the facts of each case are and what factors went into sentencing for these cases.
+
+> (e)     On the issue of the AP’s remand, his claim that he was unlawfully or wrongfully remanded is a matter that is not, with respect, for the present court to decide. If he has a complaint, it is for the AP to consider what avenues to pursue. The present issue is solely what the appropriate sentence for the charge that the AP faces is.
+
+> (f)     There is no basis on which the court should order a discharge with a stern warning. A fine of $10,000 is the most appropriate sentence given the facts of this case and the two TIC charges.
+
+## REASONS FOR THE COURT’S SENTENCE
+
+8       Having considered the prosecution submissions, the mitigation plea and the prosecution reply to the mitigation plea, I took the view that a fine of $8,000 in default 2 weeks imprisonment will be an appropriate sentence for the charge preferred against the AP in MCN-900028-2022 for the following reasons :
+
+> (a)     I agreed with the following aspects of the prosecution submissions:
+
+>> (i)       In the light of the legislative intent when passing the COVID-19 (Temporary Measures) Act 2020 (“TMA”) to deal with matters relating to the COVID-19 pandemic that allowed the Minister to implement control orders for the purpose of preventing, protecting against, delaying and controlling the incidence or transmission of COVID-19 in Singapore, these Safe Distancing Measures (“SDM”) were necessary and crucial to preventing and containing the spread of COVID-19 in our community and breaches of SDM pose challenges to the containment of COVID-19 in Singapore.
+
+>> (ii)       The primary sentencing consideration in such cases is general and specific deterrence. There is a need to ensure that SDM are adhered to strictly in the midst of the COVID-19 pandemic.
+
+>> (iii)       Based on the sentencing framework as proposed by the prosecution and the list of culpability and breach factors, I agreed with the prosecution that the breach was of moderate severity in this case. The AP remained unmasked for _at least_ 15 minutes (between 9.11pm and 9.26pm) while at MOS Burger. The AP did not just remain in his seat but walked to the counter to collect his food while unmasked, between 9.15pm and 9.20pm. When the AP left the presence of the police officers, at around 9.26pm, he was still unmasked. In relation to the AP’s culpability, his culpability was at least moderate. The AP had no reason for not wearing his mask. The AP was already being investigated for the offences forming the basis of the 1st and 2nd charges. Despite having encountered the police twice for failing to wear a mask, the AP remained defiant and committed this third breach. The AP’s responses to the police officers who advised him to wear his mask clearly demonstrate his defiance, despite having gone through two prior incidents with the police. His defiance was clear from the following:
+
+>>> (A)       When told that he had to wear his mask over his mouth and nose, the AP replied, “Are you sure about that? I’m not so sure” (see the SOF at \[6\]).
+
+>>> (B)       When SGT Ang asked if the AP had an issue with wearing his mask over his mouth and nose, the AP demanded to know which law he was referring to. After he was given an answer, the AP challenged SGT Ang, “And if I don’t, what will you do?” (see the SOF at \[8\]).
+
+>>> (C)       When SGT Ang, in _response_ to the AP’s question, set out the usual practice for breaches of the TMCO, the AP then took what SGT Ang said as a threat to “put \[him\] in a cage” (see the SOF at \[9\]). He continued to be non-compliant despite having been informed of the potential legal consequences of his breach.
+
+>>> (D)       Throughout this exchange, the AP refused to wear his mask over his nose and mouth.
+
+>> (iv)       In relation to the offender-specific factors, I note that the AP has pleaded guilty, avoided the need for a trial and has not reoffended, and also faces two TIC charges.
+
+>> (v)       I accepted the following aspects of the prosecution’s reply to the mitigation plea:
+
+>>> (a)       The length of the breach (at least 15 minutes) and the fact that the AP left the presence of the police officers without wearing a mask passes the threshold of a minor breach.
+
+>>> (b)       The AP accepted that he had no reason for not wearing his mask.
+
+>>> (c)       As regards the AP’s claim that he “had no reason whatsoever to be aware of any other investigations”, I note that the two incidents forming the basis of the TIC charges occurred on 26 November and 19 December 2020 respectively, and the police had recorded a statement from the AP in respect of these two offences on 8 March 2021. The claim that the AP had “completely forgotten” about the previous incidents is not believable.
+
+>>> (d)       The questions the AP had asked the police officers were not “genuine and legitimate questions regarding the law”. The AP had accepted the facts as stated in the SOF and the question here goes to the proper characterisation of those facts.
+
+>>> (e)       The AP had no basis on which to doubt the identities of the police officers or that they were truly police officers.
+
+>>> (f)       The AP’s language belied the claim that these were genuine and legitimate questions. His language was confrontational – at para 6 of SOF, “Are you sure about that? I’m not so sure”, and later, at para 9 of SOF, “So you’re threatening to put me in a cage?”. Furthermore, he was not genuinely intending to accept the responses of the police, as evidenced by his escalating questions about what the police would do if he failed to comply with their directions.
+
+>>> (g)       The AP had no basis on which to doubt the answers that the police officers were giving and that the law required him to wear a mask at the material time.
+
+>>> (h)       In any event, ignorance of the law is no excuse. The AP cannot be heard to rely on his alleged ignorance to claim that he has no responsibility for disobeying the request of the police officers and for committing the offence of failing to wear a mask.
+
+>>> (i)       The AP had accepted the offender-specific factors of the two additional TIC charges.
+
+>>> (j)       The AP cannot be given credit for a “first-time” offence since he had committed the same offence on two prior occasions.
+
+>>> (k)       The fact that there was no personal benefit is not a mitigating factor, but only the absence of an additional aggravating factor.
+
+>>> (l)       The AP has pleaded guilty and avoided the need for a trial and he has not reoffended.
+
+>>> (m)       On the basis of the above, the AP’s case is one of moderate breach and moderate culpability.
+
+>>> (n)       As for the AP’s “case references”, these are not reported cases and no published decisions have been provided. They are therefore of limited utility to the court as it is not clear what the facts of each case are and what factors went into sentencing for these cases. In addition, the case references in the mitigation plea are not relevant for the purpose of sentencing the AP as these references relate to either a different offence for using abusive and vulgar words against an officer and challenging him to a fight, or are based on different facts and circumstances from the AP's case.
+
+>>> (o)       On the issue of the AP’s remand, his claim that he was unlawfully or wrongfully remanded is a matter that is not for the present court to decide. If he has a complaint, it is for the AP to consider what avenues to pursue. The present issue is solely what the appropriate sentence for the charge that the AP faces is. In my view, whether the AP has been mistakenly remanded for 1.5 days allegedly leading to higher blood pressure for him is clearly a matter for another forum and not for this court to decide.
+
+>>> (p)       There is no basis on which this Court could accept the AP’s submission for a “$1000 fine offset due to the mistaken remand resulting in DISCHARGE WITH STERN WARNING”. The $1000 fine as proposed by the AP is manifestly inadequate and this Court simply has no jurisdiction and power in a plead guilty mention to examine the alleged mistaken remand and make the order for a discharge with a stern warning as sought by the AP.
+
+>>> (q)       I disagreed with the prosecution submission to impose a maximum fine of $10,000 on the AP as it will result in a manifestly excessive fine. I took the view that the maximum fine should be reserved for the most egregious case and I was not satisfied that the present case is such a case. In my view, a fine of $8,000[\[note: 1\]](#Ftn_1) (in default 2 weeks’ imprisonment) will be sufficient to reflect the AP’s breach of moderate severity and his culpability as highlighted by the prosecution, as well as to take into account the 2 TIC offences as it is trite law that the Court is entitled to consider the similar TIC offences for the purpose of enhancing the sentence to be imposed for the proceeded charge.[^2]
+
+## CONCLUSION
+
+9       For all the above reasons, the fine of $8,000 (in default 2 weeks’ imprisonment) which I have imposed on the AP was not manifestly excessive or inadequate, but wholly appropriate and commensurate with the nature and extent of the AP’s culpability and was a sufficient deterrent sentence tempered with proportionality without the effect of a crushing sentence. Although the AP was given one week to pay the fine, he chose not to pay the fine and instead to serve the default sentence of 2 weeks’ imprisonment.
+
+* * *
+
+[\[note: 1\]](#Ftn_1_1)In _PP v John Milton (SC-905959-2021)_, the offender entered a restaurant without wearing a mask and shouted at a waiter for a prolonged period of time when the offender was denied entry. The offender committed two other very similar COVID-19 offences which were TIC-ed. He was fined $5,000. In my view, the present case is more serious than _PP v John Milton_ as the AP’s breach of moderate severity and his culpability as highlighted by the prosecution, as well as the 2 TIC offences, justify a higher fine of $8,000 in the present case.
+
+[^2]: See _PP v Mok Ping Wuen Maurice <span class="citation">\[1998\] 3 SLR(R) 439</span> at \[19\]._
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F27901-SSP.xml)

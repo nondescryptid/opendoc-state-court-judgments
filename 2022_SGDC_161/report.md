@@ -1,0 +1,618 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Prem N Shamdasani _v_ Management Corporation Strata Title Plan No 0920  
+
+### \[2022\] SGDC 161
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">DC/OSS 177/2021</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">27 July 2022</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Tan May Tee</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Prakash Mulani and Safiuddin Naseem [M&amp;A Law Corporation] for the plaintiff; Leo Cheng Suan and Lee Shu Xian [Infinitus Law Corporation] for the defendant.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Prem N Shamdasani — Management Corporation Strata Title Plan No 0920</td></tr></tbody></table>
+
+Land – Strata titles – Building Maintenance and Strata Management Act 2004 – By-laws
+
+\[LawNet Editorial Note: An appeal to this decision has been filed in HC/RAS 23/2022.\]
+
+27 July 2022 - Judgment reserved
+
+### District Judge Tan May Tee:
+
+## Introduction
+
+1       The plaintiff is the subsidiary proprietor of the property at 75 Meyer Road #XXX Hawaii Tower, Singapore 437901 (“the Unit”)[\[note: 1\]](#Ftn_1).
+
+2       Hawaii Tower is a 21-storey freehold residential condominium development (“the Development”) comprising 135 units situated at 73 to 77 Meyer Road, Singapore. The Development was completed in 1984[\[note: 2\]](#Ftn_2). The defendant is the management corporation of the Development.
+
+3       In this action, the plaintiff seeks an order pursuant to various provisions of the Building Maintenance and Strata Management Act 2004 (“BMSMA”) that[\[note: 3\]](#Ftn_3):
+
+> (a)     the defendant be restrained from ordering/directing the plaintiff to remove and /or reinstate the following renovation works in the Unit:
+
+>> (i)       the installation of aluminium framed glass windows behind the approved window grilles along the balcony edge;
+
+>> (ii)       the removal of the living room and master bedroom sliding doors; and
+
+>> (iii)       the replacement of the air-conditioner condenser unit placed on the external wall.
+
+> (b)     the defendant pays him a sum of $14,025.00 or damages to be assessed together with interest; and
+
+> (c)     the defendant pays him the costs of these proceedings.
+
+## Background
+
+4       The plaintiff has been living in the Development since June 1995. He also owns another unit in the Development at 77 Meyer Road #XXX which is tenanted[\[note: 4\]](#Ftn_4).
+
+### The plaintiff’s renovation application
+
+5       On or around 29 January 2021, the plaintiff submitted an application to the defendant to carry out extensive renovation works to the Unit[\[note: 5\]](#Ftn_5). The application was made in the prescribed form mandated in the defendant’s Additional By-Laws passed at the defendant’s general meeting in November 2014 described as Appendix C[^6].
+
+6       The application was verbally approved by the defendant’s condominium manager, Mr Loh Kok Leong (“Mr Loh”), on the same date[\[note: 7\]](#Ftn_7). It was accompanied by an attachment with a description of the works to be carried out entitled “Job Scope” which listed a total of ten items, as reproduced below[^8] (“Approved Works”):
+
+> 1    Hacking works – Hack existing bedroom timber floor in 3 bedrooms, all false ceiling, display cabinet partition wall, existing wardrobe in 3 rooms, al (_sic)_ build in cabinets, hack 2 bathroom floor and wall tiles, all bedroom and bathroom door and door frame. Removae (_sic)_ all wallpaper in house
+
+> 2    Masonry works – tile up floor and wall in 2 bathrooms
+
+> 3    Plumbing works – piping work in 2 bathrooms, install bathroom fitting (_sic)_, tap, basin, shower set, toilet bowl, bathtub
+
+> 4    Ceiling and partition works – New false ceiling in living, dining, 3 bedroom, 2 bathrooms. cornice for whole house
+
+> 5    Painting works – Painting of whole house internal walls
+
+> 6    Door works – new door and door frame for bathrooms and bedrooms
+
+> 7    Glass works – New shower screen in 2 bathroom, carpentry mirror trimming inlay.
+
+> 8    Floor works – new timber floor in 3 bedroom floor
+
+> 9    Miscellaneous works – protection floor with corrugated paper, cleaning of house, polish existing marble at living and dining
+
+> 10    Carpentry works – new shoe cabinet, feature wall behind sofa and behind dining table with display niche, feature wall panelling with mirror inlay, feature wall tv console with stone finish backing, island counter, top and bottom cabinet in dry and wet kitchen with marble or quartz counter top and backsplash, wardrobe in 3 bedrooms, bathroom vanity and mirror in 2 bathroom, bedframe and side table, new study table, new alter (_sic)_ cabinet, new settee in living. New dresser table
+
+7       The renovation works began on 3 February 2021 with the plaintiff’s contractor carrying out the hacking works. In the course of the works, the contractor also proceeded to remove the sliding doors at the balconies of the living room and master bedroom[\[note: 9\]](#Ftn_9). In addition, they hacked an opening on the master and common bathroom reinforced concrete wall[^10] below the window which forms part of the building façade[^11].
+
+8       According to the plaintiff, he had the sliding doors at the balconies removed as a precursor to the installation of aluminium framed glass windows on the balcony ledge. The plan to carry out the installation of the glass windows at the balconies had apparently materialised only after the renovation application had been approved by the defendant on 29 January 2021 and he “_inadvertently forgot to update the renovation form_” that he had earlier submitted for the defendant’s approval[\[note: 12\]](#Ftn_12).
+
+### The defendant stops the renovation works
+
+9       On 26 February 2021, the defendant stopped all works in the Unit and prevented the plaintiff’s contractor from having access to the Unit. The plaintiff was informed that the works were stopped due to _inter alia_ the removal of the sliding doors at the balconies of the living room and master bedroom[\[note: 13\]](#Ftn_13).
+
+10     Mr Loh informed the plaintiff that the works that he had intended to carry out _viz_ the removal of the sliding doors at the balconies of the living room and master bedroom and the installation of aluminium framed glass windows behind the existing window grilles were objected to as they would affect the façade of the Development.
+
+11     The defendant’s objection did not make sense to the plaintiff as he was simply doing what he had done to the balconies of two of the bedrooms in the Unit some 18 years ago. The plaintiff stated that he had renovated the Unit on two previous occasions and had carried out the following works without any objection from the defendant[\[note: 14\]](#Ftn_14):
+
+> (a)     affixing of an air conditioner condenser unit on an external wall some 25 years ago;
+
+> (b)     installing window grilles in the balcony some 24 years ago for the living room, master bedroom and two other bedrooms; and
+
+> (c)     removing the balcony sliding doors and installing aluminium framed sliding glass windows at the balconies of two of the bedrooms some 18 years ago.
+
+12     There is, however, no record of the plaintiff’s application to the defendant for approval to carry out the previous renovation works.
+
+13     The plaintiff then asked Mr Loh whether instead of aluminium framed glass windows the defendant would be amenable to him installing foldable and frameless glass curtains to the balcony of his living room and master bedroom (“glass curtains”). He had made this suggestion as the glass curtains would be less visible as they did not have any frames.
+
+14     However, Mr Loh informed him that the glass curtains would also not be allowed by the defendant.[\[note: 15\]](#Ftn_15) He was verbally informed that for any of the renovation works to continue, including the Approved Works, he would have to first carry out reinstatement works. It was only then that the plaintiff decided to formally write to the defendant to seek its consent for the removal of the sliding doors and the installation of the glass curtains behind the window grilles[^16].
+
+15     In his email to Mr Loh sent on the evening of 26 February 2021, the plaintiff sought the defendant’s approval to install foldable and frameless glass curtains to the balconies of the living room and master bedroom. He cited two reasons for wanting to carry out these installations – firstly, to make the premises “dengue-safe” for his elderly relatives who often visit and spend time in the balcony, and secondly, to keep out the construction noise and dust from the nearby construction site at Meyer Rise[\[note: 17\]](#Ftn_17).
+
+16     Mr Loh replied on 2 March 2021 informing him that his request to install glass curtains was not approved by the defendant[\[note: 18\]](#Ftn_18) as it was “deemed to be changing the building façade.” The defendant did not relent even after the plaintiff’s further requests that it reconsider his application. The plaintiff emphasised that the glass curtains which he intended to install behind the existing grilles are frameless and would not detract from the appearance of the building. It would also provide an additional buffer against haze.
+
+17     The plaintiff had pointed out that numerous other units in the Development have windows installed at their balconies. He requested Mr Loh for the records of all the subsidiary proprietors who had made renovation applications since November 2014. This was because he had observed that various units in the Development had installed window grilles and glass windows which were incongruent with what was stipulated in the By-Laws.
+
+18     According to the plaintiff, the Development has many other units with different kinds of installations at the balconies such as windows, roller blinds, invisible grilles _etc_ such that there is no uniform appearance and façade to the buildings. The plaintiff had wanted to look at the renovation records to ascertain if he was being unfairly targeted by the defendant.
+
+### The plaintiff’s agreement to carry out reinstatement works
+
+19     Between 26 February 2021 and 18 March 2021, the plaintiff’s contractor was unable to carry out any works including the Approved Works at the Unit. Eventually, the plaintiff was informed by Mr Loh that his contractor would be allowed to resume work provided he carry out reinstatement work as follows[\[note: 19\]](#Ftn_19):
+
+> 1)    To redo flooring to living and master bedroom and balconies including electrical work and plumbing work before can install the new sliding door at the living room and master bedroom.
+
+> 2)    to reinstate master and common bathroom wall below existing window to original by End April 2021.
+
+> 3)    to reinstate living and master bedroom sliding aluminium door to original position, colour and design by End April 2021.
+
+> 4)    The Management shall order to cease all works if item 2 and 3 are not completed by End April 2021.
+
+20     It appears that the reinstatement works had not been carried out as required by the defendant. This led to the defendant stopping the works in the Unit again on 10 May 2021. The exact chronology and correspondence between parties has not been fully disclosed to the court, but it seems that even up to 21 May 2021, the reinstatement works required by the defendant had not been carried out. In the defendant’s solicitors’ reply of 21 May 2021, a further deadline of 4 June 2021 was given to the plaintiff to complete the reinstatement works[\[note: 20\]](#Ftn_20).
+
+### Reinstatement of reinforced concrete wall in master and common bathrooms
+
+21     One of the critical issues raised by the defendant was the reinstatement of the master and common bathroom reinforced concrete wall below the window which was part of the building façade. This was mentioned in item 2 of Mr Loh’s email of 18 March 2021 and his earlier email of 4 March 2021[\[note: 21\]](#Ftn_21).
+
+22     The plaintiff’s contractor had carried out hacking works on the “half-walls” of the master and common bathroom as the plaintiff had wanted to install a “window door” in its place to improve the ventilation in the Unit. This was not part of the Approved Works itemised in the plaintiff’s renovation application but the plaintiff had proceeded with it as he had taken the view that the “window door” would not be visible from the external façade due to the half-height wall at the balcony ledge with window grilles installed[\[note: 22\]](#Ftn_22).
+
+23     Although the plaintiff claimed that he had obtained the certification of a professional engineer that this was not a structural wall, the defendant had noticed that the wall was supported by rebars and sought advice from the Building and Construction Authority (“BCA”) due to concerns that the removal of the wall had affected the structural integrity of the building. The plaintiff has referred to the endorsed certification of a professional engineer, Mr Mok Yew Meng, pertaining to the demolition of non-load-bearing walls at the common bathroom and the bedroom[\[note: 23\]](#Ftn_23) which he had attached to his renovation application. However, looking at the attached plan, the certification therein provided was for an internal wall and not in relation to the reinforced concrete wall[^24] below the window which was part of the external façade. The certification of the wall in question appears to have been obtained from the professional engineer only on 16 July 2021 _after_ the hacking had been carried out in February 2021 and the defendant had raised the issue by way of an email on 15 July 2021[^25].
+
+24     Upon their inspection, BCA had determined that the wall was structural and had required the plaintiff to reinstate it. Notably, the plaintiff did not challenge BCA’s determination. The reinstatement was finally completed with a professional engineer’s endorsement obtained on 1 November 2021[\[note: 26\]](#Ftn_26) as required by BCA.
+
+25     The plaintiff had taken the position that the hacking of the reinforced concrete wall in the bathrooms is not a live issue in these proceedings as he had reinstated them even though his professional engineer was adamant that they did not affect the structural integrity of the building and wanted to dispute BCA’s finding. He has accused the defendant of making misleading allegations. As the plaintiff has provided no direct evidence other than a bare assertion from his professional engineer to support his allegation, the defendant’s position that the plaintiff’s hacking works had affected the structural integrity of the building supported by BCA’s finding is established.
+
+26     While the reinstatement of the reinforced concrete wall in the bathrooms has been completed and is not part of the disputed works which are the subject of the plaintiff’s present action, the facts are nonetheless relevant for the court’s consideration of whether the stoppage of works insisted on by the defendant in the first place was unreasonable and a breach of the BMSMA. The plaintiff is after all claiming damages for such breach on the part of the defendant.
+
+### Replacement of the air-conditioner condenser on the external wall of the Unit
+
+27     According to the plaintiff, while the renovations in the Unit were ongoing, he decided to replace the old air-conditioner condenser which he had previously affixed to the external wall of the Unit some 25 years ago. He had informed Mr Loh of this decision verbally and was apparently told that this work would be approved and all that was required was to reroute the water discharge from the condenser pipe into his Unit.
+
+28     Subsequently, on 16 April 2021, Mr Loh informed the plaintiff’s contractor that the air-conditioner condenser would not be allowed to be installed on the external wall but had to be installed within the Unit. The defendant’s stated reason that the installation of the new air-conditioner condenser on the external wall poses a hazard to residents was not accepted by the plaintiff since he was merely doing what he had done 25 years ago.
+
+29     The plaintiff pointed to other units in the Development which had their air-conditioner condensers installed on the external wall in a similar manner[\[note: 27\]](#Ftn_27). The plaintiff complained that the defendant had not taken action against these other subsidiary proprietors and alleged that the defendant has been clearly inconsistent in its treatment towards him in relation to the renovations in his Unit.
+
+### The plaintiff’s request for past renovation records
+
+30     To substantiate his view that he had been unfairly targeted as the defendant had allowed the installations in the other units to remain, the plaintiff had, as earlier mentioned, made verbal requests to Mr Loh to seek the renovation records of all subsidiary proprietors in the Development who had made applications for renovation since November 2014.
+
+31     The defendant had initially taken the position that the renovation records could not be disclosed due to confidentiality reasons. However, after the plaintiff engaged solicitors to write to the defendant on its obligation under s 47(1) BMSMA, he was able to inspect the renovation records of the various units in the Development subject to payment of the requisite fees[\[note: 28\]](#Ftn_28).
+
+32     The plaintiff had observed that there is currently a total of 19 units in the Development (other than his Unit) which had also installed windows at their balconies – five units in Block 73, eleven units in Block 75 and three units in Block 77. While the plaintiff had initially sought inspection of the renovation records since 2014 (presumably from the time the Additional By-Laws were passed), it appears that he was able to peruse the records going way back to even before 1995 when he first moved into the Development. Significantly, the plaintiff did not find nor disclose any records of the previous renovations that he had admittedly carried out to the Unit around 18 years ago when he removed the balcony sliding doors and installed aluminium framed glass windows in two of the bedrooms of the Unit. There is also no record of him seeking written approval for the installation of his air-conditioning condenser on the external wall which he said was done in 1996.
+
+33     Particulars of the 19 units, the dates of the renovations carried out, where applicable, and whether approval was sought for installation of glass windows are set out in the table below:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="11.12%"><col width="14.82%"><col width="35.18%"><col width="38.88%"></colgroup><tbody><tr><td align="left" class="b" colspan="4" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Block 73</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>S/No.</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Unit no.</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Date of renovations as stated in application form</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Remarks</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">1</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">#XXX</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">6 June to 6 August 2002</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">No mention of installation of glass windows at balcony in application form <span class="FootnoteRef"><a href="#Ftn_29" id="Ftn_29_1"><sup>[note: 29]</sup></a></span>.</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">2</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">#XXX</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Unknown</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">No mention of installation of glass windows at balcony in application form.<span class="FootnoteRef"><a href="#Ftn_30" id="Ftn_30_1"><sup>[note: 30]</sup></a></span></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">3</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">#XXX</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">5 to 31 September 2016</p><p align="justify" class="Table-Para-1">4 July 1994</p><p align="justify" class="Table-Para-1">6 June 1991</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">No mention of installation of glass windows at balcony in any of the three application forms<span class="FootnoteRef"><a href="#Ftn_31" id="Ftn_31_1"><sup>[note: 31]</sup></a></span></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">4</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">#XXX</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">29 May to 29 August 2017</p><p align="justify" class="Table-Para-1">7 June 1999</p><p align="justify" class="Table-Para-1">26 June 1990</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">No mention of installation of glass windows at balcony in any of the three application forms<span class="FootnoteRef"><a href="#Ftn_32" id="Ftn_32_1"><sup>[note: 32]</sup></a></span>.</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">5</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">#XXX</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">19 March 2001</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">No mention of installation of glass windows at balcony in application form<span class="FootnoteRef"><a href="#Ftn_33" id="Ftn_33_1"><sup>[note: 33]</sup></a></span>.</p></td></tr><tr><td align="left" class="b" colspan="4" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Block 75</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">6</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">#XXX</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">23 February to 22 May 2015</p><p align="justify" class="Table-Para-1">20 August to 5 September 2001</p><p align="justify" class="Table-Para-1">28 March 2001</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">No mention of installation of glass windows at balcony in any of the three application forms<span class="FootnoteRef"><a href="#Ftn_34" id="Ftn_34_1"><sup>[note: 34]</sup></a></span>.</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">7</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">#XXX</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">26 September to 10 October 2019</p><p align="justify" class="Table-Para-1">3 to 20 September 2014</p><p align="justify" class="Table-Para-1">11 October to 11 November 2011</p><p align="justify" class="Table-Para-1">29 September to 29 October 2008</p><p align="justify" class="Table-Para-1">26 May to 16 July 2003</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">No mention of installation of glass windows at balcony in any of the five application forms <span class="FootnoteRef"><a href="#Ftn_35" id="Ftn_35_1"><sup>[note: 35]</sup></a></span>.</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">8</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">#XXX</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">22 May 1995</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">No mention of installation of glass windows at balcony in application form<span class="FootnoteRef"><a href="#Ftn_36" id="Ftn_36_1"><sup>[note: 36]</sup></a></span>.</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">9</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">#XXX</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">17 August to 16 November 2016</p><p align="justify" class="Table-Para-1">27 October to 27 November 2003</p><p align="justify" class="Table-Para-1">18 March 1993</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">No mention of installation of glass windows at balcony in any of the three application forms <span class="FootnoteRef"><a href="#Ftn_37" id="Ftn_37_1"><sup>[note: 37]</sup></a></span>. The defendant had approved the refund of the renovation deposit in March 2017 upon confirmation by the managing agent that the works carried out by the subsidiary proprietor were “in keeping with (our) by-laws”<span class="FootnoteRef"><a href="#Ftn_38" id="Ftn_38_1"><sup>[note: 38]</sup></a></span>.</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">10</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">#XXX</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Application form not found</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Photograph exhibited shows aluminium framed glass windows at balcony edge<span class="FootnoteRef"><a href="#Ftn_39" id="Ftn_39_1"><sup>[note: 39]</sup></a></span> of the two highest levels of the block.</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">11</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">#XXX</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">7 June to 7 July 2012</p><p align="justify" class="Table-Para-1">Dates were not ascertainable on two other forms.</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">No mention of installation of glass windows at balcony in any of the application forms<span class="FootnoteRef"><a href="#Ftn_40" id="Ftn_40_1"><sup>[note: 40]</sup></a></span>.</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">12</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">#XXX</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">20 April to 20 May 2016</p><p align="justify" class="Table-Para-1">19 to 24 November 2012</p><p align="justify" class="Table-Para-1">17 November to 31 December 2008</p><p align="justify" class="Table-Para-1">18 April 2007</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">No mention of installation of glass windows at balcony in any of the application forms<span class="FootnoteRef"><a href="#Ftn_41" id="Ftn_41_1"><sup>[note: 41]</sup></a></span>.</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">13</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">#XXX</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">18 July to 17 August 2016</p><p align="justify" class="Table-Para-1">Date was not ascertainable on one other form.</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">No mention of installation of glass windows at balcony in any of the application forms<span class="FootnoteRef"><a href="#Ftn_42" id="Ftn_42_1"><sup>[note: 42]</sup></a></span>.</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">14</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">#XXX</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">11 September 1995</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">No mention of installation of glass windows at balcony in the application form<span class="FootnoteRef"><a href="#Ftn_43" id="Ftn_43_1"><sup>[note: 43]</sup></a></span>.</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">15</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">#XXX</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">6 June to 15 July 2016</p><p align="justify" class="Table-Para-1">21 November 2005 to 21 January 2006</p><p align="justify" class="Table-Para-1">24 March to 23 April 2004</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">No mention of installation of glass windows at balcony in any of the application forms<span class="FootnoteRef"><a href="#Ftn_44" id="Ftn_44_1"><sup>[note: 44]</sup></a></span>.</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">16</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">#XXX</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">12 October 2015 to 31 January 2016</p><p align="justify" class="Table-Para-1">28 March 1993</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">No mention of installation of glass windows at balcony in any of the application forms<span class="FootnoteRef"><a href="#Ftn_45" id="Ftn_45_1"><sup>[note: 45]</sup></a></span>.</p><p align="justify" class="Table-Para-1">Copies of an email discussion among the defendant’s council members indicated that the council had contemplated requiring the subsidiary proprietor to reinstate the balcony door in Bedroom 2 (which had been removed and aluminium glass windows installed along the balcony ledge) to its original condition. The subsidiary proprietor had not agreed but was apparently willing to cooperate if other owners were also willing to reinstate their balcony doors to the original condition<span class="FootnoteRef"><a href="#Ftn_46" id="Ftn_46_1"><sup>[note: 46]</sup></a></span>.</p></td></tr><tr><td align="left" class="b" colspan="4" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Block 77</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">17</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">#XXX</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">28 September to 28 October 2016</p><p align="justify" class="Table-Para-1">20 June to 18 July 2008</p><p align="justify" class="Table-Para-1">8 October to 8 November 2003</p><p align="justify" class="Table-Para-1">25 May 1996</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">No mention of installation of glass windows at balcony in any of the application forms<span class="FootnoteRef"><a href="#Ftn_47" id="Ftn_47_1"><sup>[note: 47]</sup></a></span> but the renovation application in 2003 had stated one item of the works as “Replace balcony sliding door.”<span class="FootnoteRef"><a href="#Ftn_48" id="Ftn_48_1"><sup>[note: 48]</sup></a></span></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">18</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1">#XXX</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Application form not found</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Photograph exhibited shows aluminium framed glass windows covering the balcony area<span class="FootnoteRef"><a href="#Ftn_49" id="Ftn_49_1"><sup>[note: 49]</sup></a></span>.</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="center" class="Table-Para-1">19</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="center" class="Table-Para-1">#XXX</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Application form not found</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Photograph exhibited shows aluminium framed glass windows covering the balcony area<span class="FootnoteRef"><a href="#Ftn_50" id="Ftn_50_1"><sup>[note: 50]</sup></a></span>.</p></td></tr></tbody></table>
+
+  
+  
+
+### The GFA issue
+
+34     The defendant had also initially objected to the plaintiff’s installation of the aluminium framed glass windows or glass curtains on the basis that they would effectively enclose the plaintiff’s balcony and increase the gross floor area (“GFA”) of the Unit and the Development[\[note: 51\]](#Ftn_51).
+
+35     In response to this objection, the plaintiff had engaged a building surveyor, Mr Chin Cheong, who had examined the strata title plan of the Unit in conjunction with the handbook (“GFA Handbook”) issued by the Urban Redevelopment Authority (“URA”). He found that as the Development was built in 1984, URA’s Balcony Incentive Scheme developed in 2001 and updated in 2019 did not apply. The Balcony Incentive Scheme is meant to allow developers to build balconies in flats and condominiums with the GFA of the balconies over and above the allowable gross plot ratio subject to a cap of 7%. However, from the strata title plan drawing of the Unit, the balconies of the Unit have been computed as part of the base GFA of the Unit and URA’s guidelines under the Balcony Incentive Scheme did not apply[\[note: 52\]](#Ftn_52).
+
+36     Upon the defendant’s solicitors’ inquiries with the URA, the position stated by Mr Chin Cheong was confirmed to be correct. URA stated that the balconies in the Development had been approved “as the main building GFA” and not under the bonus balcony GFA scheme. As such, URA stated that it was able to support the enclosure of the balconies with glass panels / windows. Nonetheless, URA highlighted that this does not override any by-laws that the defendant may have enacted under the BMSMA specific to such works[\[note: 53\]](#Ftn_53).
+
+## The plaintiff’s case
+
+37     It is the plaintiff’s case that the defendant has been unreasonable in refusing to approve:
+
+> (a)     the installation of aluminium framed glass windows behind the approved window grilles along the living room and master bedroom balcony edge in the Unit;
+
+> (b)     the removal of the living room and master bedroom sliding doors inside the Unit; and
+
+> (c)     the replacement of the air-conditioner condenser unit placed on the external wall of the Unit
+
+(“the Unapproved Works”).
+
+38     The plaintiff submits that even though he had “inadvertently” not included the Unapproved Works in his renovation application, this is not fatal to his case as he did later seek approval from the defendant by way of an email to Mr Loh dated 26 February 2021.
+
+39     He likens his case to that of _Low Yung Chyuan v The MCST Plan No. 2178_ <span class="citation">\[2019\] SGSTB 3</span> (“_Low Yung Chyuan_”) in which the applicant had also installed aluminium sliding windows at his unit without gaining prior approval from the respondent. The Strata Titles Board (“STB”) held that the applicant should not have carried out the installation without the respondent’s approval, but nonetheless applied s 37(4) BMSMA, and took the view that the applicant’s installation of the sliding windows did not detract from the appearance of the building.
+
+40     It is the plaintiff’s submission that the defendant is bound to take into consideration the relevant BMSMA provisions (namely ss 37(3) and 37(4)) in order to authorise the Unapproved Works. Since the uniformity of the building can no longer be preserved and there is no benefit to be gained by the defendant, it is unreasonable for the defendant to withhold consent for the Unapproved Works. Relying on s 37(3) and s 37(4) BMSMA, the plaintiff contends that:
+
+> (a)     the removal of the living room and master bedroom sliding doors and the installation of aluminium framed glass windows behind the approved window grilles do not affect the appearance of any building within the Development;
+
+> (b)     the removal of the living room and master bedroom sliding doors and the installation of aluminium framed glass windows behind the approved window grilles do not detract from the appearance of any of the buildings, and is in keeping with the rest of the buildings, within the Development; and
+
+> (c)     the replacement of the air-conditioner condenser unit placed on the external wall of the Unit does not affect nor detract from the appearance of any of the buildings and is in keeping with the rest of the buildings within the Development.
+
+41     In addition, the plaintiff contends that in its attempt to “strong-arm” the plaintiff in complying with its demands, the defendant had stopped the renovation works at the Unit for a total of 51 days causing the plaintiff to incur loss of rental income amounting to $14,025.50. The defendant is, accordingly, liable to the plaintiff in damages for its refusal to approve the Unapproved Works and causing delays and stoppages to the works at the Unit.
+
+## The defendant’s case
+
+42     The defendant contends that the plaintiff’s application should be dismissed with costs on an indemnity basis. The defendant relies on the chronology of the material events and highlights the following points:
+
+> (a)     The plaintiff had not included the Unapproved Works in the renovation application form dated 29 January 2021. There was also no application for hacking of the reinforced concrete wall of the master and common bathrooms.
+
+> (b)     The plaintiff had failed to obtain the defendant’s written approval to remove the sliding doors at the balcony of the living room and master bedroom, to install aluminium framed glass windows on the balcony edge, and to hack the reinforced concrete wall at the master and common bathroom. The plaintiff’s actions were against the Additional By-Laws passed on or around 15 November 2014 at a general meeting. The plaintiff had signed on the application form and initialled on each page specifically acknowledging his agreement with the Additional By-Laws on Addition and Alteration Works[\[note: 54\]](#Ftn_54).
+
+> (c)     By removing the living and master bedroom sliding doors and hacking the reinforced concrete wall in the common and master bathroom within the Unit, the plaintiff had breached the defendant’s Additional By-Laws as well as s 37 BMSMA.
+
+> (d)     The installation of the glass windows affects the appearance of the building as the front of the plaintiff’s balcony reflects more sunlight than other units.
+
+> (e)     The plaintiff’s hacking of the reinforced concrete wall in the common and master bathroom within the Unit had affected the structural integrity of the building and the safety of the occupants in the building. Given the grave consequences of the plaintiff’s actions, the defendant was compelled to stop all works and insist that the plaintiff complete the reinstatement works on an urgent basis. Crucially, it was BCA that had ordered the plaintiff to reinstate the reinforced concrete wall.
+
+> (f)     The affixing of the air-conditioner condenser unit on the external wall is in breach of the Additional By-Laws passed at an annual general meeting on 17 February 1990. It also poses a hazard as it might fall and injure innocent passers-by below.
+
+43     As the plaintiff had breached the Additional By-Laws, the defendant was empowered to cease all works in the Unit and to require the plaintiff to rectify the works to their original condition. The defendant’s act of ceasing all works in the Unit was occasioned by the plaintiff’s breach of the Additional By-Laws and his own commitment to carry out reinstatement works. The works were stopped with cause, and the defendant should not be liable for the plaintiff’s alleged loss of rental proceeds. The defendant had not acted unreasonably or in breach of the provisions of the BMSMA.
+
+44     The defendant submits that from the outset, it had been concerned with the façade of the Development, maintaining the look of the estate and protecting the integrity of the design. While the Development is an old estate with previous unauthorised structures before the Additional By-Laws were passed to regulate and control the façade, once the subsidiary proprietors had agreed to regulate and control all future renovations, all subsidiary proprietors are bound by the same. Otherwise, the situation would worsen.
+
+45     In fact, more than 85% of the units are compliant with the Additional By-Laws (_ie_ do not have alterations and/or installations at the balcony). In relation to the other units, the defendant is currently investigating possible breaches by other subsidiary proprietors and has taken action against some subsidiary proprietors:
+
+> (a)     In relation to Block 75 #XXX, a letter of demand was sent on 25 August 2021 to the subsidiary proprietor of the unit to remove the unauthorised installation and to reinstate the common property to its original condition. The defendant is preparing to take enforcement action against this subsidiary proprietor.
+
+> (b)     In relation to Block 73 #XXX, an originating summons was filed in the District Court and parties attended mediation provided by the State Courts. The subsidiary proprietor of the unit has agreed to remove the unauthorised structure within 24 months after the Annual General Meeting held on 27 November 2020 (_ie_ by 27 November 2022).
+
+46     The defendant has shown that it is trying to act in an even-handed way and trying to regulate the uniformity of the façade. Allowing the plaintiff to install or retain the glass windows would be tantamount to condoning the commission of plaintiff’s breaches and would severely undermine the defendant’s ability and authority to manage the Development by ensuring that subsidiary proprietors comply with BCA’s regulations and the defendants’ By-Laws.
+
+## Issues
+
+47     From the arguments canvassed by the parties, the issues that the court has to decide are as follows:
+
+> (a)     whether the Unapproved Works or any part thereof affect the appearance of any building in the Development;
+
+> (b)     whether the Unapproved Works or any part thereof detract from the appearance of any of the buildings in the Development or is in keeping with the rest of the buildings;
+
+> (c)     whether the defendant is liable to the plaintiff in damages for its refusal to approve the Unapproved Works and causing delays and stoppages to the works at the Unit; and
+
+> (d)     whether the defendant ought to be restrained from ordering/directing the plaintiff to remove and/or reinstate the Unapproved Works.
+
+48     While the defendant had initially also raised the issue that the plaintiff’s installation of the glass windows at the balcony had resulted in an increase of the GFA in breach of s 37(1) BMSMA, that issue is now moot. As such, this judgment will not touch on the GFA issue although it had been ventilated in some detail in the plaintiff’s written submissions[\[note: 55\]](#Ftn_55). The parties are nonetheless at liberty to raise it for the court’s consideration of costs at the appropriate juncture.
+
+### Whether the Unapproved Works or any part thereof affect the appearance of any building in the Development
+
+#### The plaintiff’s submissions
+
+49     The plaintiff referred to the principles laid down by the High Court in _Management Corporation Strata Title Plan No 940 v Lim Florence Marjorie_ <span class="citation">\[2019\] 4 SLR 773</span> (“_Lim Florence Marjorie_”) that:
+
+> 74    Determining whether renovations affect the appearance of a building is a factual exercise, undertaken by comparing the façade presented by the flat in question with the façade presented by other similar flats and by all of the flats as a whole. _MCST Plan No 1786 v Huang Hsiang Shui_ <span class="citation">\[2006\] SGDC 20</span> at \[112\]. Thus, for instance, a feature permanently affixed to a balcony and which does result in the balcony looking different from its original state does affect the overall appearance of the building: _MCST Plan No 1378 v Chen Ee Yueh Rachel_ <span class="citation">\[1993\] 3 SLR(R) 630</span> ("_Chen Ee Yueh Rachel_") at \[17\].
+
+> 75    Whether an improvement effected to a particular flat affects the façade of its building is not to be ascertained as a theoretical exercise but from the viewpoint of a reasonable observer who looks at the building from a position which is practically possible or likely…
+
+50     Applying the principles of _Lim Florence Marjorie_, the plaintiff submits that from a viewpoint of a reasonable observer, the removal of the sliding glass doors and the installation of the aluminium framed glass windows do not affect the appearance of the building. The plaintiff pointed to some of the units in the Development that had windows installed behind the approved window grilles. The plaintiff contends that from the photographs taken of some of these units it can be gleaned that the glass windows do not objectively affect the appearance of the building. This is so as the approved window grilles are the items that formulate the look rather than the glass windows[\[note: 56\]](#Ftn_56).
+
+51     Since the plaintiff has only installed the aluminium framed glass windows behind the window grilles, it was submitted that the glass windows which are behind the approved window grilles do not affect the overall appearance of the building. This is because the window grilles are the dominant feature of the external façade.
+
+52     A similar argument was made with respect to the removal of the sliding glass doors at the living room and master bedroom. It was further submitted that as the sliding doors are located inside the Unit and approximately 2.4 metres behind the balcony parapet wall, the removal of the sliding doors would not affect the appearance of the building[\[note: 57\]](#Ftn_57).
+
+53     As for the air-conditioning condenser, the plaintiff referred to the Additional By-Laws passed in 1990 which prohibit the installation of any air-conditioning unit on the common areas without the defendant’s prior written approval. He submitted that he had affixed the condenser unit to the external wall of the Unit some 25 years ago with the approval of the defendant and was merely replacing the same. In the circumstances, it was submitted that the defendant has been unreasonable in not approving the said work as this was simply a replacement of the condenser which had been previously installed on a rack on the external wall[\[note: 58\]](#Ftn_58).
+
+54     There are also many other units in the Development that had had their air-conditioning condensers installed in a similar fashion as evident in the photographs exhibited. As such, applying the same factual exercise mentioned in _Lim Florence Marjorie_, it could not be said that the plaintiff’s air-conditioning condenser unit had affected the appearance of the buildings in the Development in breach of s 37(3) BMSMA.
+
+55     In view of the placement of the air-conditioner condensers of other units on the external wall, the defendant has again shown itself to be targeting the plaintiff unfairly and is being inconsistent in enforcing the Additional By-Laws in an even-handed manner[\[note: 59\]](#Ftn_59).
+
+#### The defendant’s submissions
+
+56     The defendant submitted that a feature permanently affixed to a balcony, and which does result in the balcony looking different from its original state, does affect the overall appearance of the building, as found by the High Court in _Chen Ee Yueh Rachel__[\[note: 60\]](#Ftn_60)_.
+
+57     The defendant also relied on _Lim Florence Marjorie_ where parties had tendered various photographs of the defendant’s balcony and the balconies of the surrounding flats comprising the same façade. The sliding doors between the living room and the balcony of flats in the development in question, The Arcadia, were noted to be set well back from the external wall of the balcony. Despite the deep set-back to the sliding doors, the works were found to be clearly visible in the photographs adduced which showed a discernible variance, more than _de minimis_ between the façade presented by the defendant’s flat and the façade presented by all of the other flats in the block, both individually and taken as a whole. Therefore, the High Court found that the works in question did affect the appearance of the buildings comprised in The Arcadia.
+
+58     Similarly, it was submitted in the present case that the glass windows affect the appearance of the building as the front of the plaintiff’s balcony reflects more sunlight than other units due to the material of the glass windows/ curtains. This does not occur with the defendant’s approved designs for the balconies (_ie_ the windows grilles)[\[note: 61\]](#Ftn_61).
+
+59     In relation to the air-conditioner condenser, the defendant took the position that the plaintiff’s air-conditioner condenser had been fixed on the exterior of the building or common property in breach of the defendant’s Additional By-Laws. The plaintiff had not obtained the defendant’s prior written approval before installing the air-conditioner condenser as required[\[note: 62\]](#Ftn_62).
+
+60     Further, it was pointed out that all new developments do not allow air-conditioner condensers to be dangling from the wall. These air-conditioner condensers have to be placed on concrete ledges instead[\[note: 63\]](#Ftn_63).
+
+61     The plaintiff’s air-conditioner condenser unit installed on the exterior of the building poses a hazard to residents. Reference was made to published reports of cases of air-conditioner condensers falling and injuring innocent passers-by below[\[note: 64\]](#Ftn_64).
+
+#### My decision
+
+62     While it is the plaintiff’s submission that the installation of the aluminium framed glass windows does not affect the appearance of the buildings in the Development, the only photographs that show the external appearance of the Unit do not support the plaintiff’s case. See for example photographs A27, A28 and A29 in Chin Cheong’s affidavit which show the plaintiff’s Unit and also comparing with those units where no glass windows have been installed behind similar window grilles as well as those with glass windows (such as can be seen in P-1 pages 93, 98, 112, 208 and 216) – there is a discernible difference in the appearance of those units with glass windows and those units without the glass windows installed. The variance in the appearance is, in my assessment, more than _de minimis._
+
+63     Looking at the photographs, I accept the defendant’s submission that the Unit with glass windows would reflect more sunlight than those without any glass windows installed as per the original design of the balconies in the Development. The plaintiff has not provided any photographs which show the Unit in its completed state with glass windows and those of other units with only the approved window grilles to refute the defendant’s case.
+
+64     As such, I find that the plaintiff’s installation of the aluminium framed glass windows would amount to a breach of s 37(3) BMSMA which provides that:
+
+> (3)    Except pursuant to an authority granted under subsection (4) by the management corporation …, no subsidiary proprietor of a lot that is comprised in a strata title plan shall effect any other improvement in or upon his lot for his benefit which affects the appearance of any building comprised in the strata title plan.
+
+65     As for the removal of the sliding doors at the living room and master bedroom, there are no clear photographs of the Unit exhibited that allow the court to make a determination whether the appearance is affected or not. Granted that the sliding doors are set back some 2.4 metres behind the balcony parapet wall, the removal of the sliding doors might not be obvious to a casual observer. However, if the glass windows were not installed, it would be a logical inference that the façade presented with the sliding doors would look quite different from one without such doors in place when seen from appropriate vantage points. This was also the finding in _Lim Florence Marjorie_ where the sliding doors were noted to be set well back from the external wall of the balcony.
+
+66     Notably, just as in _Lim Florence Marjorie_, special By-Laws had been passed by the defendant which specifically govern any additions or alterations to the balcony and balcony glass doors, see below:
+
+> 9.    A Subsidiary Proprietor or occupier shall NOT at all times:-
+
+>> a.    make any alterations to the balcony glass doors, windows installed in the external walls of the subdivided building without having obtained the written approval of the Management Corporation.
+
+>> b.    make any alterations or additions to any balcony of his lot without the approval in writing of the Management Corporation.
+
+67     In any case, as disclosed by the plaintiff, he had removed the balcony sliding doors as a precursor to the installation of the aluminium framed glass windows so both these items ought to be considered together for the purposes of s 37 (3) BMSMA.
+
+68     As for the replacement of the air-conditioner condenser on the external wall, paragraph 6.0 of the defendant’s Additional By-Laws 1990 states as follows:
+
+> “No air-conditioning unit shall be installed in or otherwise fixed to the common areas or any part thereof thereby affecting the general façade of the building except with the prior approval in writing of the Management Corporation.”
+
+69     Although the plaintiff had submitted that he had obtained the defendant’s prior approval some 25 years ago, there is no evidence of the same. Since the renovation records perused by the plaintiff in relation to the 19 units had uncovered application forms from as far back as the 1990s, if in fact the plaintiff had obtained the defendant’s written approval as he claimed, he should have been able to exhibit evidence of such approval. It seems to me to be most unlikely that the defendant would have given such approval in express contradiction of paragraph 6.0 of the Additional By-Laws quoted above. The inference to be drawn is that the plaintiff had carried out the installation in contravention of the Additional By-Laws of 1990 with no enforcement action taken against him all these years.
+
+70     The defendant’s concerns on the safety of residents and passers-by with the installation of air-conditioning condensers on the common property are not to be dismissed outright. The affixing of the condenser units on common property would necessarily mean that the defendant has a continuing duty to maintain such installations to ensure they do not pose a hazard to unsuspecting passers-by. Given that the air-conditioning condenser serves only the Unit for the benefit of the plaintiff and his family members, it begs the question why the defendant would have to undertake such an obligation for as long as the condenser is affixed to the common property at the expense of other subsidiary proprietors in the Development who have complied with the Additional By-Laws.
+
+71     The plaintiff has referred to photographs of other units in the Development which have similarly installed the air-conditioner condensers on the external wall to substantiate his submission that his condenser unit does not affect the appearance of the façade or is in keeping with the buildings in the Development. A closer inspection of the photographs relied on (see P-1 pages 249 and 250) shows only six such units. The photographs at P-1 pages 85 and 86 appear to be copies of pages 249 and 250. Since there are 135 units in the Development, six units would clearly be in the minority.
+
+72     Even if it can be said that the appearance of the buildings in the Development is not affected by the presence of the plaintiff’s condenser unit, that it does not detract from, or is in keeping with, the rest of the buildings in the Development, the defendant nonetheless has a reasonable basis for rejecting the plaintiff’s application to have his condenser continue to be affixed on the common property for the reasons set out in \[70\] above. Granted that there are several other non-compliant subsidiary proprietors who have similarly affixed their condenser units on common property, the onus will be on the defendant to take the necessary enforcement actions against them.
+
+### Whether the Unapproved Works or any part thereof detract from the appearance of any of the buildings in the Development or is in keeping with the rest of the buildings
+
+#### The plaintiff’s submissions
+
+73     The plaintiff referred to _Low Yung Chyuan_ in which the STB had found that the subsidiary proprietor’s installation of sliding windows at the yard area of her unit without the MCST’s approval had affected the external appearance of the development (namely Castle Green condominium). Notwithstanding this, the STB took the position that the subsidiary proprietor’s installation of the sliding windows did not detract from the appearance of, and was in keeping with, the rest of the buildings as the same sliding windows had been allowed for ground floor units and various types of installations of screens, blinds, grilles and netting had also been permitted.
+
+74     The STB in _Low Yung Chyuan_ held that where the subsidiary proprietor’s installation of the sliding windows does not detract from the appearance or is in keeping with the rest of the building, and where there is no dispute that the installation of windows does not affect the structural integrity of the buildings, the onus falls on the MCST to have a reasonable basis for rejecting the application based on the facts and appearance of the buildings in question. It found that the MCST had unreasonably refused the subsidiary proprietor’s application to install sliding doors and ordered the MCST to consent to the same[\[note: 65\]](#Ftn_65).
+
+75     The plaintiff also drew an analogy of his case to that of _Chen Ee Yueh Rachel_ in which the High Court had found that the sliding windows which were permanently affixed on the balcony did affect the overall appearance of the building. Despite that, the Court did not grant a mandatory injunction against the defendant. The Court held that to order the defendant to remove the sliding windows would cause hardship to the defendant without any real corresponding benefit as the uniformity sought by the management corporation was out of the question. There were seven other units in the building which had either metal grilles or glass windows covering the balconies but as these structures had been erected well before the management corporation came into being, it could not order the structures to be removed and there was no indication that the subsidiary proprietors concerned would agree to have them removed. Chao Hick Tin J (as His Honour then was) declined to exercise his discretion to order the defendant to remove the sliding windows as the object of uniformity declared by the management corporation could no longer be achieved[\[note: 66\]](#Ftn_66).
+
+76     The plaintiff submits that juxtaposed with the seven units in _Chen Ee Yueh Rachel_, the uniformity sought by the defendant here is also out of the question considering there are 19 other units in the Development with alterations and additions made to their balconies. As such, the plaintiff contends that the defendant’s exercise of its discretion in not approving the Unapproved Works is unreasonable since there are similar works which have been undertaken by the subsidiary proprietors throughout the Development. The plaintiff found it disturbing that his request for the approval of the Unapproved Works had been rejected when there are other units which have done the same[\[note: 67\]](#Ftn_67).
+
+#### The defendant’s submissions
+
+77     The defendant pointed to the more than 85% of the units in the Development that are compliant with the Additional By-Laws (_ie_ do not have alterations and/or installations at the balcony). In relation to the other units, the defendant has taken enforcement action against some of them – a final letter of demand has been sent to the subsidiary proprietor of Block 75 #XXX while an originating summons had been filed against the subsidiary proprietor of Block 73 #XXX who had subsequently agreed at a mediation to remove the unauthorised structures within 24 months[\[note: 68\]](#Ftn_68).
+
+78     The defendant submitted that it has been trying to act with even hands to regulate the uniformity of the façade. The plaintiff has placed the defendant in a difficult position. If the plaintiff’s actions went without challenge and goes without redress, the defendant’s authority is undermined and its hands tied in deciding future action with respect to the preservation and appearance of the building and the performance of its duty to act in the common interest of all the proprietors[\[note: 69\]](#Ftn_69).
+
+#### My decision
+
+79     In my view, the two cases relied on by the plaintiff, _Low Yung Chyuan_ and _Chen Ee Yueh Rachel_ are distinguishable on their facts.
+
+80     In _Low Yung Chyuan_, the MCST had permitted the installation of the yard windows for quite a number of subsidiary proprietors in particular for the ground floor units but refused the approve the applicant’s application for the installation of sliding windows for her unit on the sixth floor. The STB was of the view that there was no reason why the applicant should be treated differently from the ground floor units. The MCST’s exercise of its discretion in not approving the applicant’s installation of sliding windows at her yard was found unreasonable when the same sliding windows had been allowed for ground floor units.
+
+81     Unlike _Low Yung Chyuan_, none of the 19 units in the Development had obtained any written approval from the defendant for the removal of the sliding doors and the installation of the different types of windows as shown from the renovation records exhibited by the plaintiff. It appears that these 19 subsidiary proprietors had all acted in breach of the By-Laws but no enforcement action had been taken against them by the defendant.
+
+82     It also appears likely that the plaintiff himself had acted in breach of s 37(3) BMSMA when he had removed the sliding doors in the other two bedrooms and installed aluminium framed glass windows 18 years ago since there is no record of him seeking the defendant’s approval for such works. It seems to me that the plaintiff was relying on his past breaches (for which no action had been taken against him then) as a _fait accompli_ to seek approval for the exact same breaches that he was now guilty of.
+
+83     As for _Chen Ee Yueh Rachel_, this case is distinguishable by virtue of the special circumstances there – the High Court found that uniformity in the façade could not possibly be achieved as the MCST could take no action against seven of the units because the installations had been put in place even before the MCST was constituted. In the present case, however, uniformity can still be achieved as the 19 units with the unapproved installations comprise only 15% of the total units in the Development. The defendant is empowered to act against the 19 subsidiary proprietors and has in fact begun enforcement action against two of them.
+
+84     There is clearly a reasonable basis for the defendant to reject the plaintiff’s application for the installation of the Unapproved Works. The present case is not one in which any hardship caused to the plaintiff by requiring the removal of the Unapproved Works would bring no real corresponding benefit to the defendant. The defendant has, and ought to, consider the position of the other 85% of the units in the Development which have complied with the BMSMA and the Additional By-Laws.
+
+85     As for the installation of the air-conditioning condenser unit on the common property, the defendant’s case is even stronger given that the evidence adduced by the plaintiff shows only six other such units in the Development which are non-compliant.
+
+### Whether the defendant is liable to the plaintiff in damages for its refusal to approve the Unapproved Works and causing delays and stoppages to the works at the Unit
+
+#### The plaintiff’s submissions
+
+86     The plaintiff says that the defendant should pay him damages for having stopped the renovation works at his Unit. In his first affidavit, he had initially claimed that the defendant should pay him the sum of $14,025 being loss of rental proceeds for 51 working days in respect of the stoppage of works from 26 February 2021 to 11 July 2021. He had been staying at his other unit in the Development at 77 Meyer Road #XXX (“Other Unit”) which is usually rented out and had to continue staying at the Other Unit until parties came to an agreement that the plaintiff would be allowed to complete the renovation works pending the adjudication of this matter.
+
+87     Subsequently, in his third affidavit filed on 25 January 2022, the plaintiff disclosed that he had secured a tenant for the Other Unit for a period of 24 months at a monthly rental of $5,800. The tenant had wanted to start the lease in December 2021. However, as the hearing of this matter had to be adjourned to February 2022 on account of the defendant’s application to file a further affidavit to address the GFA issue, the plaintiff had little choice but to inform the tenant that the lease could only commence in March 2022. Accordingly, the plaintiff then increased his claim for damages to the sum of $31,233.33 with the following breakdown:
+
+> (a)     51 days of “unreasonable stoppage of works” – 51 working days/20 working days (in a month) x $5,800 = $14,790
+
+> (b)     For re-fixing of hearing (17 November 2021 to 10 February 2022) – 85 days/30 days (in a month) x $5,800 = $16,433.33
+
+> Total damages: $14,790 + $16,433.33 = **$31,233.33**
+
+88     The plaintiff’s claim for damages is premised on s 88(1) and s 88(2) BMSMA.
+
+#### The defendant’s submissions
+
+89     The defendant submits that as the plaintiff had prayed for an injunction to issue against the defendant with respect to the Unapproved Works, he was not entitled to seek damages as a further remedy pursuant to a strict reading of s 88(1) BMSMA. According to the defendant’s interpretation of the section, the relief that can be obtained for a breach committed by the management corporation is _either_ an order to restrain the breach _or_ to recover damages but not both.
+
+90     On the facts, the defendant submits that it should not be liable for the plaintiff’s loss of rental proceeds for the following reasons:
+
+> (a)     The plaintiff had showed complete disregard for the defendant’s Additional By-Laws when he proceeded to carry out the Unapproved Works. The defendant’s decision to stop the Unapproved Works was in accordance with the Additional By-Laws and in the interests of the occupants in the building.
+
+> (b)     The plaintiff had, without the approval of the defendant, hacked an opening in the reinforced concrete wall of the Unit, which had affected the structural integrity of the building and the safety of the occupants in the building. Given the grave consequences of the plaintiff’s actions, the defendant was compelled to stop all the works and insist that the plaintiff complete the reinstatement works on an urgent basis. Crucially, BCA had ordered the plaintiff to reinstate the reinforced concrete wall that was hacked without approval by 12 October 2021.
+
+#### My decision
+
+91     The provision governing the plaintiff’s claim for damages is s 88 BMSMA which provides as follows:
+
+> 88.—(1)    If a management corporation or subsidiary management corporation commits a breach of any provision of this Part, or makes default in complying with any requirement of, or duty imposed on it by, any provision of this Part, a subsidiary proprietor or mortgagee in possession or occupier of a lot is entitled to apply to the court —
+
+>> (a)    for an order to restrain the breach of any such provision by; or
+
+>> (b)    to recover damages for any loss or injury to the subsidiary proprietor, mortgagee in possession, or occupier or property arising out of the breach of any such provision from,
+
+> the management corporation or subsidiary management corporation, as the case may be.
+
+> (2)    The court may make such order against any such person, the management corporation or the members of its council, or the subsidiary management corporation or its executive committee, or the managing agent, as the court thinks fit.
+
+92     I agree with the plaintiff’s submission that the defendant has adopted an overly technical reading of s 88(1) BMSMA. In _Diora-Ace Ltd and others v Management Corporation Strata Title Plan No. 3661 and another_ <span class="citation">\[2015\] SGHC 88</span>, the High Court had explained at \[31\] and \[32\] that the court’s powers are not limited to only the reliefs in s 88(1), see below:
+
+> 31    Section 88 of the BMSMA is found in Pt V of the same Act; under Pt V, the duties and powers of management corporations and other details are set out. Section 88(1) of the BMSMA entitles a subsidiary proprietor to apply to court either to restrain any breach of the provisions of Pt V of the BMSMA by a management corporation, or to recover damages for any loss or injury occasioned by the breach. Section 88(2) then provides that the court may make any order that the court thinks fit against, _inter alia_, the management corporation, the members of its council, or the managing agent. Section 88(3) also provides that a subsidiary proprietor may apply to the court to compel the management corporation to carry out any requirement or duty imposed by law, and the court may make such an order, or to make any other orders as it thinks proper.
+
+> 32    Thus, it appears that while the applicant must apply for these reliefs as stated in ss 88(1) or 88(3), the court, in hearing the matter under this section, is not limited to ordering only such reliefs as applied for; the court may make any such order as the court thinks fit. …
+
+93     On the facts, however, I find no merit in the plaintiff’s claim for damages. It is undisputed that the plaintiff had breached the Additional By-Laws which were passed at the general meeting on 15 November 2014 regulating any renovation works to be carried out within the Development[\[note: 70\]](#Ftn_70). The specific By-Laws contained in Part III under the caption of “Additions and Alteration Works” state as follows:
+
+> 3.    Plans for the renovation works are required to be submitted to the Management Corporation. If changes are required, updates to the plans should be submitted to the Management Corporation. **_The Management Corporation must approve all plans prior to the commencement of works_**.
+
+> 4.    The subsidiary proprietor or occupier shall ensure that the works to be carried out are in keeping with these by-laws, will not in any way affect the structure of the premises …
+
+> …
+
+> 6.    In applying for approval, the subsidiary proprietor or occupier undertake to abide by and be subjected to the terms and condition as laid out in Appendix C.
+
+> …
+
+> 9     **_A Subsidiary Proprietor or occupier shall NOT at all times:-_**
+
+>> a.     **_make any alterations to the balcony glass doors_**, windows installed in the external walls of the subdivided building **_without having obtained the written approval of the Management Corporation_**.
+
+>> b.     **_make any alterations or additions to any balcony of his lot without the approval in writing of the Management Corporation_**.
+
+>> c.     **_hack off all or any part thereof of beams, slabs and columns._**
+
+>> …
+
+>> The Management Corporation may ask for any such works done to be rectified to the original. Such a requirement will apply even if the alterations were made by a prior Subsidiary Proprietor.
+
+>> …
+
+>> …
+
+> 17.    During the progress of the renovation, addition and alteration works, the Estate Supervisor, management Council Members or the representatives of the Managing Agent reserve the right to conduct inspection on the unit concerned. Upon completion of the said work, the Subsidiary Proprietor is required to inform the Estate Supervisor, Council Members or the representatives of the Managing Agent for a joint inspection.
+
+> 18.     **_If the by-laws or requirements placed by the Management Corporation from time-to-time are not observed by the Subsidiary Proprietor_** or his Agents or Contractors, **_the Management Corporation at its discretion may require all works in the unit to cease and stop all agents, contractors and workers from entering the condominium, or asking them to leave if they are already in the condominium_**.
+
+(emphasis in bold italics mine)
+
+94     The plaintiff says that the defendant must compensate him in respect of lost rental for 51 days in the first instance due to unreasonable stoppage of works for the following periods:
+
+> (a)     14 working days from 26 February to 18 March 2021;
+
+> (b)     16 working days from 10 May to 2 June 2021;
+
+> (c)     21 working days from 11 June to 11 July 2021
+
+95     The defendant has, however, justified stopping the works due to the plaintiff’s unauthorised removal of the sliding doors which had not been included in the Approved Works in his renovation application, and the unauthorised hacking of the reinforced concrete wall below the master and common bathroom window. The plaintiff had committed a flagrant breach of paragraphs 3 and 9 of the Additional By-Laws, and the defendant had rightly intervened to ensure compliance.
+
+96     The subsequent stoppages in May 2021 and again in June 2021 were due to the plaintiff’s non-compliance with the reinstatement conditions[\[note: 71\]](#Ftn_71). This was despite his own express commitment to carry out the reinstatement.
+
+97     It also appears that the timelines for reinstatement had been suggested by the plaintiff which were then acceded to by the defendant. In his email to Mr Loh dated 16 April 2021, the plaintiff had stated as follows[\[note: 72\]](#Ftn_72):
+
+> Please allow us to proceed to re-do the flooring for our living and master bedroom and the balconies including the electrical and plumbing before we can install the new sliding doors and tracks and to reinstate the master and common bathroom walls by the end of April. Due to COVID-19 restrictions, my contractors have informed me that fabricating the window frames and glass doors will take longer.
+
+98     Mr Loh’s reply email of 18 March 2021 had stated the defendant’s agreement for the reinstatement to be completed by end April 2021.
+
+99     While the issue of the structural integrity of the building caused by the hacking of the reinforced concrete wall was not raised until July 2021 when the defendant consulted BCA, the plaintiff’s actions in carrying out works that had not been approved were in total disregard of the Additional By-Laws. The plaintiff had acted against the interests of the other subsidiary proprietors in the Development and in breach of the statutory contract encapsulated in the Additional By-Laws as provided in s 32(6) BMSMA:
+
+> (6)    Without limiting the operation of any other provision of this Act, the prescribed by-laws and any by-laws made under this section … bind the management corporation and the subsidiary proprietors … to the same extent as if the by-laws —
+
+>> (_a_)    had been signed and sealed by the management corporation, and each subsidiary proprietor … ; and
+
+>> (_b_)    contained mutual covenants to observe, comply and perform all the provisions of the by-laws.
+
+100    As such, the plaintiff’s claim for loss of rental which arose due to his own breaches of the Additional By-laws is, in my view, misconceived and without any legal basis.
+
+101    As for the second period of his alleged loss of rental from 17 November 2021 to to 10 February 2022, this claim is also untenable. The plaintiff had in his second affidavit asserted that his contractor had advised him that the renovation works would be completed by 12 November 2021[\[note: 73\]](#Ftn_73). According to his third affidavit filed on 25 January 2022, he had secured a tenancy for his Other Unit which commenced on 1 March 2022[^74]. Since his initial plan was to vacate the Other Unit after the renovations were completed, there was really nothing to stop the plaintiff from moving back to the Unit at the end of November 2021 as the renovations would have been completed by then[^75]. There is no clarity as to why the plaintiff had not moved back to the Unit at the end of November 2021 as indicated. If the plaintiff’s delay in moving back to the Unit was of his own volition, it begs the question why the defendant (and effectively, the other subsidiary proprietors in the Development) should have to compensate him for any loss of rental proceeds.
+
+102    As for the adjournment to allow a further affidavit by the defendant on the issue of GFA, since the court had allowed the adjournment and the issue of GFA has been clarified with URA, there is no merit in the plaintiff’s claim for any loss or damages in this regard. As pointed out, the plaintiff was not precluded from moving back to the Unit pending the adjudication of this matter.
+
+103    In the premises, the plaintiff’s claim for damages is dismissed.
+
+### Whether the defendant ought to be restrained from ordering/directing the plaintiff to remove and/or reinstate the Unapproved Works
+
+104    The plaintiff is clearly aggrieved by the fact that the defendant has apparently allowed 19 other units with unapproved installations at their balconies (some of which clearly affecting the appearance of the Development such as Block 75 #XXX) but refusing to allow a similar installation in his Unit.
+
+105    While the defendant’s reticence to act in past cases has in some way contributed to the current difficulties faced by the parties, the court cannot be seen to be endorsing the plaintiff’s blatant breaches of the Additional By-Laws by granting the injunction prayed for. As aptly stated by Chao J (as he then was) in _Chen Ee Yueh Rachel_ at \[27\]:
+
+> It is clear that, under the Act, matters affecting … the appearance of a strata title building are entrusted to the management corporation. Individual proprietors should not be allowed to dictate to the management corporation. Otherwise, there would be chaos and the management corporation would not be able to discharge its functions effectively.
+
+106    The facts of this case show that quite a number of subsidiary proprietors in the Development (including the plaintiff) have acted contrary to the BMSMA and the Additional By-Laws. Such actions reveal a disregard of the fundamental principle of communal living in a strata-titled property. The High Court had at the very start of its judgment in _Lim Florence Marjorie_ at \[1\] succinctly issued a reminder to all parties that:
+
+> The strata title legislative scheme exists to facilitate communal living. It draws a distinction between an individual strata title lot and common property. The former is owned solely by its subsidiary proprietor. The latter is owned communally by the community of subsidiary proprietors, acting through a management corporation. Although the legislative scheme recognises that a subsidiary proprietor owns her strata title unit absolutely, it does not recognise that she controls it absolutely. In certain circumstances, the scheme subordinates an individual subsidiary proprietor’s right to deal as she pleases with her own property to the interests of the community of subsidiary proprietors taken as a whole.
+
+107    The plaintiff is not left without recourse. He is at liberty to propose the necessary resolution at a general meeting to persuade the majority of the subsidiary proprietors in the Development that they should agree for him to retain the Unapproved Works in the Unit.
+
+## Conclusion
+
+108    In summary, the plaintiff had removed the sliding doors at the balconies of the living room and master bedroom in the Unit and installed aluminium framed glass windows at the balcony edge. The plaintiff had also installed an air-conditioning condenser on the external wall of the building which was common property. These Unapproved Works were done without seeking the defendant’s prior written approval in breach of the Development’s Additional By-Laws.
+
+109    While the court is empowered to order the defendant to approve such Unapproved Works pursuant to s 88(1)(a) BMSMA if the requirements of s 37(3) and 37(4) were met, on the evidence adduced by the plaintiff, the court is unable to find that the Unapproved Works do not detract from the appearance of the buildings in the Development or are in keeping with the rest of the buildings. The defendant had acted in accordance with the Additional By-Laws in requiring the works to be stopped when the Unapproved Works were discovered.
+
+110    Accordingly, the plaintiff’s application is dismissed. The court will hear parties on the issue of costs on a date to be fixed.
+
+* * *
+
+[\[note: 1\]](#Ftn_1_1)Plaintiff’s 1st affidavit filed on 13 September 2021 (“P-1”) at paragraph 4 (“P-1 \[4\]”)
+
+[^2]: Affidavit of Chin Cheong filed on 3 November 2021 at page 25
+
+[^3]: An amendment was sought to amend prayer 1 of the OS and allowed by consent on 7 April 2022 as the plaintiff had completed all the works in the Unit by November 2021.
+
+[^4]: P-1 \[5\] and \[63\]
+
+[^5]: P-1 at pages 25 to 33
+
+[^6]: First Affidavit of Tan Jia Wu filed on behalf of the defendant on 21 October 2021 (“D-1”) at paragraphs 5 and 8 (“D-1 \[5\] and \[8\]”)
+
+[^7]: P-1 \[8\]
+
+[^8]: P-1 at page 26
+
+[^9]: P-1 \[10\]
+
+[^10]: P-1 \[10\]; Plaintiff’s 2nd Affidavit filed on 3 November 2021 (“P-2”) at pages 13 to 14; D-1 \[9\]; DS \[10\]
+
+[^11]: D-1 \[9\]
+
+[^12]: P-1 \[10\]
+
+[^13]: P-1 \[11\]
+
+[^14]: P-1 \[5\]
+
+[^15]: P-1 \[12\] and pages 40 and 41
+
+[^16]: P-1 \[13\]
+
+[^17]: P-1 at page 41
+
+[^18]: P-1 \[18\]
+
+[^19]: Mr Loh’s email dated 18 March 2021 to the plaintiff at P-1 page 35
+
+[^20]: P-1 pages 88 to 91
+
+[^21]: P-1 at page 39
+
+[^22]: Plaintiff’s second affidavit filed on 3 November 2021 (“P-2”) at \[10\] – \[13\]
+
+[^23]: P-2 at \[10(b)\] referring to P-1 at page 33
+
+[^24]: Photographs exhibited in P-2 at pages 13 and 14
+
+[^25]: See P-2 at pages 17 to 19
+
+[^26]: P-2 at pages 21 to 32; D-1 at pages 170 to 180
+
+[^27]: P-1 \[51\] to \[53\] and photographs at pages 249 and 250
+
+[^28]: P-1 pages 46 and 90
+
+[^29]: Exhibited in P-1 at “PNS-16”
+
+[^30]: Exhibited in P-1 at “PNS-17”
+
+[^31]: Exhibited in P-1 at “PNS-19”
+
+[^32]: Exhibited in P-1 at “PNS-20”
+
+[^33]: Exhibited in P-1 at “PNS-18”
+
+[^34]: Exhibited in P-1 at “PNS-9”
+
+[^35]: Exhibited in P-1 at “PNS-15”
+
+[^36]: Exhibited in P-1 at “PNS-5”
+
+[^37]: Exhibited in P-1 at “PNS-11”
+
+[^38]: P-1 at page 147
+
+[^39]: Exhibited in P-1 at “PNS-6”
+
+[^40]: Exhibited in P-1 at “PNS-7”
+
+[^41]: Exhibited in P-1 at “PNS-12”
+
+[^42]: Exhibited in P-1 at “PNS-13”
+
+[^43]: Exhibited in P-1 at at “PNS-8”
+
+[^44]: Exhibited in P-1 at “PNS-14”
+
+[^45]: Exhibited in P-1 at “PNS-10”
+
+[^46]: P-1 at pages 127 to 131
+
+[^47]: Exhibited in P-1 at “PNS-23”
+
+[^48]: P-1 at page 240
+
+[^49]: Exhibited in P-1 at “PNS-21”
+
+[^50]: Exhibited in P-1 at “PNS-22”
+
+[^51]: As stated in the letter dated 21 May 2021 from Infinitus Law Corporation at P-1 pages 89 to 90
+
+[^52]: Affidavit of Chin Cheong filed on 3 November 2021 at \[13\] to \[15\] and paragraphs 5.2 and 5.3 of his Surveyor’s Report at page 29 of the affidavit
+
+[^53]: Defendant’s second affidavit filed on 4 January 2022 (“D-2”) at \[4\] to \[5\] and pages 5 to 6
+
+[^54]: P-1 at pages 25 to 32, and specifically at page 29
+
+[^55]: Plaintiff’s Skeletal Submissions dated 11 November 2021 (“PS”) at \[69\] to \[84\]
+
+[^56]: PS \[44\] to \[50\]
+
+[^57]: PS \[51\] to \[53\]
+
+[^58]: PS \[85\] to \[89\]
+
+[^59]: PS \[90\] to \[92\]
+
+[^60]: Defendant’s Written Submissions dated 15 November 2021 (“DS”) at \[44\] to \[46\]
+
+[^61]: DS \[50\]
+
+[^62]: DS \[55\] and \[56\]
+
+[^63]: DS \[58\]
+
+[^64]: DS \[57\]
+
+[^65]: PS \[55\] to \[56\]
+
+[^66]: PS \[57\]
+
+[^67]: PS \[58\] to \[60\]
+
+[^68]: DS \[68\]
+
+[^69]: DS \[70\]
+
+[^70]: D-1 \[5\]
+
+[^71]: Defendant’s Further Written Submissions dated 11 February 2022 (“DFS”) at \[15\]
+
+[^72]: P-1 at page 35
+
+[^73]: Plaintiff’s 2nd Affidavit filed on 3 November 2021 (“P-2”) at \[36\]
+
+[^74]: P-3 \[29\] and \[30\]
+
+[^75]: P-2 at pages 38 and 39
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F27804-SSP.xml)

@@ -1,0 +1,214 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Eurogreen Building Products Private Limited _v_ Savourer Pte Ltd  
+
+### \[2022\] SGMC 53
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">Magistrate Court Originating Claim No 49 of 2022 (Summons No 2889 of 2022)</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">01 September 2022</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">Magistrates Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Lewis Tan</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Chuah Hui Fen, Christine (Tan Oei &amp; Oei LLC) for the Claimant; A Rajandran (A Rajandran) for the Defendant.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Eurogreen Building Products Private Limited — Savourer Pte. Ltd.</td></tr></tbody></table>
+
+Civil Procedure – Pleadings – Striking out – Res judicata
+
+1 September 2022
+
+### Deputy Registrar Lewis Tan:
+
+## Introduction
+
+1       The Claimant sued the Defendant in the Small Claims Tribunal (“SCT”), seeking payment for materials that it had supplied pursuant to a construction contract. The Defendant resisted the claim by relying on a settlement agreement between the parties which allegedly set-off the claimed sum. The tribunal magistrate found that a large portion of the claim and the defence of set-off fell outside his jurisdiction, and so only a small aspect of the claim was disposed of on the merits.
+
+2       The Claimant then brought the present action, claiming the portion of the invoiced amount which was deemed to fall outside the SCT’s jurisdiction, and the Defendant sought again to set off this amount by relying on the settlement agreement. The Claimant considered this set-off defence to be, amongst others, a re-litigation of matters, and sought to strike off much of the Defence and Counterclaim (“DCC”). After hearing parties, I dismissed the Claimant’s striking out application.
+
+3       Given that the application was brought under the new Rules of Court 2021 (“ROC 2021”), and with the lack of reported decisions in this regard, I now provide the fuller reasons for my decision.
+
+## Facts
+
+4       The Defendant, Savourer Pte Ltd, was a sub-contractor involved in the refurbishment of the link bridges at Changi Airport Terminal 2. As part of the works, the Defendant engaged the Claimant for the supply of wall and roof panels. In addition, the Defendant sub-contracted the works pertaining to the removal and reinstallation of these roof and wall panels to another contractor, Island Construction Pte Ltd (“Island Construction”).
+
+5       Amidst the installation of the panels, issues appeared to arise regarding the different colour tones on said panels, and this led to several meetings between the representatives of the Claimant, Defendant, and Island Construction. According to the Defendant, the result of these meetings was that (a) the Claimant would supply replacement panels at its own expense, and (b) Island Construction would carry out the rectification works, which would take an estimated two weeks and cost about $28,000. Upon completion of the rectification works, Island Construction submitted their invoice to the main contractor of the project. The main contractor then invoiced the Defendant for the said works.
+
+6       It is unclear from the pleadings whether the Defendant has paid Island Construction and/or the main contractor for the rectification works. Nonetheless, any such payment would not have directly affected the Claimant because, as the Defendant pleads, there was an alleged settlement agreement between the Claimant and the Defendant whereby the Claimant would only have to pay the Defendant $20,000 plus Goods and Services Tax (“GST”) for the rectification works carried out by Island Construction (hereinafter, the “Settlement Agreement”). Pursuant to this Settlement Agreement, the Claimant made partial payment of $5,000 plus GST to the Defendant, leaving a sum of $15,000 plus GST owing to the Defendant.
+
+7       The Claimant strenuously refutes the existence of said Settlement Agreement, and it instructed solicitors to issue a letter of demand claiming $22,682.61 from the Defendant for the supplied materials. Being of the view that $15,000 plus GST ($16,050) remained outstanding under the Settlement Agreement, the Defendant proceeded to tender a cheque for $6,632.61 (_ie_, $22,682.61 minus $16,050), but this did not put the matter to a close.
+
+## Procedural history
+
+8       Instead, the Claimant lodged a claim against the Defendant in the SCT, claiming the sum of $16,050.[\[note: 1\]](#Ftn_1) The Defendant resisted the claim, arguing that the Claimant had acknowledged its mistake in the supply of certain materials which had already been installed by Island Construction. After some negotiations, the Claimant agreed to compensate $20,000 plus GST, but only $5,350 (_ie_, $5,000 plus GST) was paid. Therefore, $16,050 remained owed by the Claimant to the Defendant. The Claimant disputed this, asserting that the $5,350 that it had paid amounted to a “full and final settlement of any disputes that had arisen”.[^2]
+
+9       Dealing first with the Claimant’s claim for $16,050, the learned Tribunal Magistrate (“TM”) allowed the claim for $4,791.46. As regards the remaining $11,258.54, the TM held that this sum stemmed from a contract which value exceeded the SCT’s jurisdiction of $20,000, and so that portion of the Claimant’s claim fell outside his jurisdiction. Turning to the Defendant’s defence of set-off, the TM held that this also fell outside of his jurisdiction as the set-off “d\[id\] not apply to the portion of the claim \[_ie_, $4,791.46\] that \[was\] within the Tribunal’s jurisdiction”.
+
+10     Following the TM’s decision, the Claimant brought the present action, claiming for the remaining $11,258.54 which fell outside the TM’s jurisdiction. The Defendant resisted this claim for much the same reasons provided at \[8\] above, namely that the claimed sum should be set-off against the $16,050 (_ie_, $15,000 plus GST) which remains outstanding under the Settlement Agreement. Alternatively, the Defendant was entitled to counterclaim for $16,050 and/or damages to be assessed for the rectification works done by Island Construction.
+
+## The striking out application
+
+11     By way of the present summons, the Claimant seeks to strike out portions of the DCC which rely on the Settlement Agreement. According to the Claimant, such references to the Settlement Agreement by the Defendant should be struck out pursuant to O 9 rr 16(1)(_b_) or 16(1)(_c_) of ROC 2021 for being an abuse of process or as it would be in the interests of justice to do so. This is for three reasons:
+
+> (a)     First, the TM had held that both legal and equitable set-off could not apply in the Defendant’s favour, so that by operation of the doctrine of _res judicata_, the Defendant is barred from raising its counterclaim and/or relying on the Settlement Agreement in this action.
+
+> (b)     Second, the Defendant’s position that the Settlement Agreement was between the Claimant and the Defendant is inconsistent with the evidence given at the SCT proceedings, where the Defendant’s position was that the sum under the said agreement should be paid by the Claimant to Island Construction (and not the Defendant).[\[note: 3\]](#Ftn_3)
+
+> (c)     Closely related to the second reason, the Defendant is, by pleading that the Settlement Agreement was entered into between the Claimant and the Defendant, attempting to “get around the issue of privity” after the TM had observed that “it does not appear that \[the Defendant\] was party to \[the Settlement Agreement\]”.[\[note: 4\]](#Ftn_4)
+
+## Applicable principles
+
+12     The application was brought under the new ROC 2021 regime, which differs from the Rules of Court 2014 (“ROC 2014”) in substantial ways. For ease of comparison, the rules providing for the striking out of pleadings under both sets of Rules (_ie_, O 18 r 19(1) of ROC 2014 and O 9 r 16(1) of ROC 2021) are set out:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="48.6%"><col width="51.4%"></colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>O 18 r 19(1) of ROC 2014</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>O 9 r 16(1) of ROC 2021</b></p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">19.—(1) The Court may at any stage of the proceedings order to be struck out or amended any pleading or the endorsement of any writ in the action, or anything in any pleading or in the endorsement, on the ground that —</p><p align="justify" class="Table-Para-1">(<em>a</em>) it discloses no reasonable cause of action or defence, as the case may be;</p><p align="justify" class="Table-Para-1">(<em>b</em>) it is scandalous, frivolous or vexatious;</p><p align="justify" class="Table-Para-1">(<em>c</em>) it may prejudice, embarrass or delay the fair trial of the action; or</p><p align="justify" class="Table-Para-1">(<em>d</em>) it is otherwise an abuse of the process of the Court,</p><p align="justify" class="Table-Para-1">and may order the action to be stayed or dismissed or judgment to be entered accordingly, as the case may be.</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">16.—(1) The Court may order any or part of any pleading to be struck out or amended, on the ground that —</p><p align="justify" class="Table-Para-1">(<em>a</em>) it discloses no reasonable cause of action or defence;</p><p align="justify" class="Table-Para-1">(<em>b</em>) it is an abuse of process of the Court; or</p><p align="justify" class="Table-Para-1">(<em>c</em>) it is in the interests of justice to do so,</p><p align="justify" class="Table-Para-1">and may order the action to be stayed or dismissed or judgment to be entered accordingly.</p></td></tr></tbody></table>
+
+  
+  
+
+13     The differences notwithstanding, similarities remain – for example, both O 18 r 19(1)(_d_) of ROC 2014 and O 9 r 16(1)(_b_) of ROC 2021 provide for the power to strike out or amend any pleading on the ground that it is an abuse of process of the Court. Further guidance is provided in the recent decision of _Iskandar bin Rahmat and others v Attorney-General and another_ <span class="citation">\[2022\] SGCA 58</span> (“_Iskandar bin Rahmat_”). There, in explaining the applicable test for each limb under O 9 r 16(1) of ROC 2021, the Court of Appeal relied on cases that pre-dated ROC 2021, thus showing that such authorities remain relevant in assessing the merits of a striking out application under the new regime (_Iskandar bin Rahmat_ at \[17\]–\[19\]):
+
+> 17    Under O 9 r 16(1)(_a_) \[of\] ROC \[2021\], the test is whether the action has some chance of success when only the allegations in the pleadings are concerned: _Gabriel Peter & Partners (suing as a firm) v Wee Chong Jin and others_ <span class="citation">\[1997\] 3 SLR(R) 649</span> (“_Gabriel Peter_”) at \[21\]. If that is found to be the case, then the action will not be struck out.
+
+> 18    Order 9 r 16(1)(_b_) allows the court to strike out pleadings which constitute an abuse of process of the court. The inquiry here includes considerations of public policy and the interests of justice, and signifies that the process of the court must be used _bona fide_ and properly and must not be abused; the court will prevent improper use of its machinery and the judicial process from being used as a means of vexation and oppression in the process of litigation: _Gabriel Peter_ at \[22\].
+
+> 19    In addition, Order 9 r 16(1)(_c_) allows the Court to strike out pleadings when it is in the interests of justice to do so. … \[T\]his gives effect to the court’s inherent jurisdiction to prevent injustice, such as where the claim is plainly or obviously unsustainable: _The “Bunga Melati 5”_ <span class="citation">\[2012\] 4 SLR 546</span> at \[33\].
+
+14     This approach of referring to decisions that predate the new Rules has also been adopted in other cases where the substance of the old and new Rules remain similar: see, _eg, Chan Tam Hoi (alias Paul Chan) v Wang Jian and other matters_ <span class="citation">\[2022\] SGHC 192</span> at \[28\] _Combe International Ltd v Dr August Wolff GmbH & CO KG Arzneimittel_ <span class="citation">\[2022\] SGHC 78</span> at \[14\].
+
+15     On this basis, I proceeded to consider the Claimant’s application.
+
+## _Res judicata_: Cause of action and issue estoppel
+
+16     First, the Claimant submitted that cause of action or issue estoppel applied to bar the Defendant from reviving its defence of set-off and/or counterclaim for the $15,000 plus GST as this had been raised and dismissed at the SCT. Accordingly, the aspects of the DCC that referred to the Settlement Agreement, which formed the basis of the set-off/counterclaim, ought to be struck out for being an abuse of process.
+
+17     For there to be a cause of action estoppel, four cumulative requirements must be established (_Zhang Run Zi v Koh Kim Seng and another_ <span class="citation">\[2015\] SGHC 175</span> at \[67\]):
+
+> (a)     there must be a final and conclusive judgment on the merits;
+
+> (b)     the court pronouncing the earlier judgment must have been a competent court;
+
+> (c)     identity of parties; and
+
+> (d)     identity of causes of action.
+
+18     Similarly, for there to be an issue estoppel, four cumulative requirements must be established, namely the first three requirements set out at \[17(a)\]–\[17(c)\] above, and an identity of subject-matter in the two proceedings (_CKR Contract Services Pte Ltd v Asplenium Land Pte Ltd and others_ <span class="citation">\[2020\] 5 SLR 665</span> (“_CKR Contract_”) at \[44\], citing _Lee Tat Development Pte Ltd v Management Corporation of Strata Title Plan No 301_ <span class="citation">\[2005\] 3 SLR(R) 157</span> at \[14\]–\[15\]).
+
+### No final and conclusive judgment on the merits
+
+19     To begin, the TM’s decision had to be analysed in greater detail. As mentioned, the Claimant’s claim before the SCT was for $15,000 plus GST ($16,050), but much of this claim was, in the TM’s view, outside of the SCT’s jurisdiction as it stemmed from a contract for a sum which exceeded the SCT’s monetary limit of $20,000:[\[note: 5\]](#Ftn_5)
+
+> … the parties’ agreement is formed by the quotation and the PO \[_ie_, purchase order\] – these constitute the offer and acceptance necessary to bind both parties in contract. The breaking up of the sum in a PO into multiple invoices does not change the fact that the contract is for a larger sum. Under s 2(2) of the Small Claims Tribunal Act \[1984\], the value of \[the Claimant’s\] claim would be the value of the contract. For the 17 or 21 September 2020 POs, this would be $73,521.25 or $64,768.43 respectively. Any claim based on either contract is clearly beyond the monetary jurisdiction of this tribunal, based on the prescribed limit of $20,000.00.
+
+20     Accordingly, $11,258.54 of the $16,050 claimed at the SCT fell outside of the Tribunal’s jurisdiction. Incidentally, this $11,258.54 is the sum claimed by the Claimant in this action. After declining to consider the merits of the Claimant’s claim as regards the $11,258.54, the TM then considered the claim for the remainder sum of $4,791.46, and after attending to the parties’ arguments, he awarded the Claimant the entirety of this $4,791.46.
+
+21     The TM then proceeded to assess whether the $4,791.46 allowed could be “set-off in an equal amount”. He declined to do so because, in his view, the defence of set off “does not apply _to the portion of the claim that is within this Tribunal’s jurisdiction_” \[emphasis added\]. In other words, the set off defence did not pertain to the $4,791.46 and was thus outside of the TM’s jurisdiction. Notwithstanding this, the TM proceeded to make certain remarks about the applicability of a legal and equitable set-off, which remarks the Claimant strenuously relied on as forming the basis of the estoppel. In full, these remarks were (collectively, “the Remarks”):
+
+> 24    In my view, legal set-off does not apply because legal set-off requires that the cross-claim be liquidated (_Hua Khian Ceramics Tiles Supplies Pte Ltd v Torie Construction Pte Ltd_ <span class="citation">\[1991\] 2 SLR(R) 901</span> (HC) at \[10\] _per_ G P Selvam JC). However, in this case, \[the Defendant’s\] claim strictly speaking appears to be an unliquidated claim. Any supposed agreement to fix the compensation at $21,400.00 \[_ie_, $20,000 plus GST\] was between \[the Claimant\] and \[Island Construction\], and in the evidence it does not appear that \[the Defendant\] was party to this agreement. While it appears that \[the Defendant’s\] supposed loss is (at least partly) the $21,400.00 which it had to pay \[Island Construction\] for rectification works, this is subject to the usual limiting principles of causation, mitigation and remoteness, and not capable of being finally determined as a matter of arithmetic only.
+
+> 25    In my view, equitable set-off also does not apply because this requires that the claim and cross-claim be so closely connected that it would be manifestly unjust to permit one to proceed without the other (_Abdul Salam Asanaru Pillai (t/a South Kerala Cashew Exporters) v Nomanbhoy & Sons Pte Ltd_ <span class="citation">\[2007\] 2 SLR(R) 856</span> (HC) at \[26(d)\] _per_ Sundaresh Menon JC (as he then was)). However, in this case, \[the Defendant’s\] claim supposedly arose from the wrong delivery of panels order in the \[purchase orders\]. In other words, they pertain to the portion of the claim which has already fallen outside the Tribunal’s jurisdiction. By 16 December 2020, \[the Defendant’s\] representative had given \[the Claimant\] formal notice of these issues. However, the claims which I am inclined to allow start from Invoice 800298, which was dated 1 February 2021. It is, in my judgment, not manifestly unjust for \[the Claimant’s\] claims on these subsequent invoices to proceed without the counterclaim.
+
+22     Put briefly, the TM opined that the set-off or counterclaim was not a liquidated claim and that the Defendant did not appear to be a party to the Settlement Agreement in any case. As such, a legal set-off did not apply. An equitable set-off also did not apply because the set-off or counterclaim (for $16,050) pertained to invoices raised in 2020, and these invoices fell outside of the TM’s jurisdiction.
+
+23     Read in context, while the TM may have made certain remarks about the inapplicability of the set-off defence raised by the Defendant, it was clear that such remarks were made in the context of explaining why the defence fell outside of his jurisdiction. Put another way, the Remarks were intended to explain why the Tribunal lacked jurisdiction to decide the action on its merits, and _not_ a decision on the merits of the set-off defence. Any remarks made were thus in exercise of the SCT’s (undisputed) jurisdiction to decide whether the Tribunal had jurisdiction to decide the set-off defence on its merits and ought not to be confused with an exercise of the jurisdiction to decide the defence on its merits. As Lord Fraser explained in _Williams & Glyn’s Bank plc v Astro Dinamico Cia Naviera SA_ \[1984\] 1 All ER 760 at 763 (cited in _WSG Nimbus Pte Ltd v Board of Control for Cricket in Sri Lanka_ <span class="citation">\[2002\] 1 SLR(R) 1088</span> at \[37\]):
+
+> … **The fallacy is in confusing two different kinds of jurisdiction; the first is jurisdiction to decide the action on its merits, and the second is jurisdiction to decide whether the court has jurisdiction of the former kind**. The distinction was explained in _Wilkinson v Barking Corporation_ <span class="citation">\[1948\] 1 K.B. 721</span> at p. 725 by Lord Justice Asquith who said this:
+
+>> The argument we are here rejecting seems to be based on a confusion between two distinct kinds of jurisdiction: the Supreme Court may, by statute, lack jurisdiction to deal with a particular matter - … but it has jurisdiction to decide whether or not it has jurisdiction to deal with such matters. …
+
+> \[emphasis added in bold\]
+
+24     Once the distinction between the two kinds of jurisdiction is appreciated, it was obvious that the Remarks did not amount to a final and conclusive judgment on the merits of the set-off defence. Rather, they were used to explain why the Defendant could not even get over the jurisdictional hurdle, such that the SCT never had the jurisdiction to decide the set-off defence on its merits. That the TM never intended his Remarks to amount to a final and conclusive decision on the merits of the set-off defence giving rise to an estoppel was made abundantly clear by the concluding paragraph in his judgment:
+
+> In the event, \[the Claimant’s\] claim on the invoices arising from the 17 or 21 September 2020 POs \[for the $11,258.54 that fell outside the SCT’s jurisdiction\], _as well as \[the Defendant’s\] defence of set-off (or even counterclaim) can be properly vindicated in another forum_. \[emphasis added\]
+
+25     Despite this, counsel for the Claimant, Ms Chuah Hui Fen, Christine (“Ms Chuah”), ran a somewhat convoluted argument, which I can attempt to summarise in the following steps:
+
+> (a)     The TM had awarded the Claimant $4,791.46.
+
+> (b)     A legal set-off operates to set off _any_ debt and would have set-off the $4,791.46 awarded to the Claimant.
+
+> (c)     However, the TM opined that a legal set-off did not apply because (i) a legal set-off only applies to a liquidated claim, but the Defendant’s set-off defence or counterclaim appeared to be an unliquidated claim, and (ii) the Defendant did not appear to be a party to the Settlement Agreement.
+
+> (d)     As such, cause of action and/or issue estoppel applied to bar the Defendant from now relying on a legal set-off defence, which appeared to be the Defendant’s primary defence and counterclaim in the present action, namely for the liquidated sum of $15,000 plus GST.
+
+26     In my view, this line of submission missed or ignored the fundamental point that the TM’s Remarks were made _after_ he had concluded that he lacked jurisdiction to decide on the set-off defence. Hence, even if the Remarks went to the potential merits of the Defendant’s set-off defence (_eg_, on the issue of privity), they were at best _obiter_, and did not amount to a final and conclusive decision on the merits of this issue or cause of action.
+
+27     This closely resembles the situation in _Turf Club Auto Emporium Pte Ltd and others v Yeo Boong Hua and others and another appeal and other matters_ <span class="citation">\[2017\] 2 SLR 12</span> (“_Turf Club Auto Emporium_”). There, the parties were engaged in a lengthy dispute pertaining to a joint venture to develop a large plot of land. Amidst the dispute, the first set of suits was initiated, but before this first set of suits proceeded to trial, the parties reached a settlement that was encapsulated in a consent order (“the Consent Order”). However, the execution of the Consent Order exceeded the envisaged timeline, and this resulted in the respondents filing an application seeking, among other things, permission to clarify and/or vary the Consent Order. This application was dismissed by Choo Han Teck J (“Choo J”) on the basis that the court did not have the jurisdiction to vary the Consent Order. Separately Choo J also expressed the view that the allegations of breaches raised in the application were “unfounded because no such obligations existed”. Eventually, the respondents commenced another action to set aside the Consent Order for several reasons, of which only that of issue estoppel is relevant here. In this regard, both the High Court Judge (“the Judge”) and the Court of Appeal held that an issue estoppel did not arise by operation of Choo J’s remarks about the alleged breaches. The Court of Appeal explained thus (_Turf Club Auto Emporium_ at \[99\]–\[100\]):
+
+> 99    In our judgment, the Judge was correct to hold that Choo J’s construction of the Consent Order was not final and conclusive on the merits. We agree with the Judge and the Respondents that Choo J’s observations were _obiter_, and that Choo J did not intend these to be final, conclusive and binding on the Respondents. … Choo J had accepted the primary submission of the Defendants … and disposed of the \[summons to vary the Consent Order\] on the basis of his lack of jurisdiction, although he then went on to make some further observations. **Having already determined that he did not have jurisdiction, he could not have intended to also make a final and binding pronouncement on the rights of the parties in respect of these issues over which he had already decided he had no jurisdiction**. …
+
+> 100    Further, like the Judge, we find it telling that Choo J twice stated in \[his judgment\] that any allegation of breach had to be ventilated independently in a separate action …
+
+> \[emphasis added in bold\]
+
+28     The above passages were directly applicable here; having decided that he had no jurisdiction over the set-off defence (and counterclaim) raised by the Defendant,[\[note: 6\]](#Ftn_6) and having made clear that the Defendant was in any case entitled to have the “defence of set-off (or even counterclaim) … properly vindicated in another forum”,[^7] the TM could _not_ have intended for his Remarks to operate as final and binding pronouncements on the rights of the parties in respect of the set-off defence.
+
+### Not a competent court for the set-off defence
+
+29     Related to this, given the lack of jurisdiction over the Defendant’s defence of set-off and counterclaim, the SCT was also, for the purposes of the defence and counterclaim, not a court of competent jurisdiction. Hence, the second requirement for a cause of action or issue estoppel to operate was also unsatisfied.
+
+### No identity of subject matter
+
+30     There was a further difficulty for the Claimant. The fourth requirement (_ie_, identity of cause of action/subject matter) encapsulates three sub-requirements (_Turf Club Emporium_ at \[108\], citing _Goh Nellie v Goh Lian Teck and others_ <span class="citation">\[2007\] 1 SLR(R) 453</span> (“_Goh Nellie_”)):
+
+> (a)     The prior decision must traverse the same ground as the subsequent proceedings and the facts and circumstances giving rise to the earlier decision must not have changed or should be incapable of change.
+
+> (b)     The previous determination must have been _fundamental and not merely collateral to the previous decision_ so that the decision could not stand without that determination, and this analysis should be approached from the perspective of common sense.
+
+> (c)     The issue should be shown in fact to have been raised and argued.
+
+31     Ultimately, the analysis at this stage requires the court to balance “the important public interest in securing finality and in ensuring that the same issues are not repeatedly litigated on one hand, and on the other, the private interest in not foreclosing a litigant from arguing an issue which, in substance was not the central issue decided by a previous court” (_Goh Nellie_ at \[37\]).
+
+32     Here, the arguments in respect of the set-off defence had not been fully canvassed before a competent court because, per the TM’s decision on jurisdiction, the SCT was the improper forum to canvass arguments on the merits of such defence. As I sought to stress to Ms Chuah during the course of submissions, the TM was concerned, first and foremost, with whether he had jurisdiction to decide the set-off defence on its merits. At \[23\] of his judgment, he made clear that he had no such jurisdiction because the set-off defence did not apply to the portion of the claim that was within the Tribunal’s jurisdiction. This was sufficient to dispose of the need to consider the applicability of a legal or equitable set-off, and any remarks that he made in this respect were thus strictly _obiter_ and clearly not tantamount to a conclusive disposition of the merits of the set-off defence. The TM himself was alive to this fact, and he thus stressed in closing that the defence of set-off, whether legal or equitable in nature, could be “properly vindicated in another forum”.
+
+33     Hence, the Remarks, in particular as regards the merits of a legal or equitable set-off, were at best collateral, and certainly not fundamental, to the TM’s decision, and issue and cause of action estoppel were accordingly inapplicable.
+
+34     In sum, the Claimant’s reliance on cause of action and issue estoppel failed as there was neither a final and conclusive judgment on the merits, nor an earlier judgment that was pronounced by a competent court as regards the cause of action or issue. Furthermore, there was no identity of subject matter or cause of action between the SCT proceedings and the present action. Therefore, I declined to strike out the DCC on these bases.
+
+## Factual unsustainability and inconsistent positions
+
+35     Perhaps appreciating that I was not with her on the point of estoppel, Ms Chuah proceeded to raise concerns of privity. According to her, the Defendant’s plea that there exists a Settlement Agreement “between the Claimants and the Defendants \[_sic_\] (as well as Island Construction)”[\[note: 8\]](#Ftn_8) is factually unsustainable as the documentary evidence and witness statements in the SCT proceedings show that the Defendant had asked the Claimant to make payment to Island Construction, not the Defendant. It was also submitted that this was an abuse of process as it was tailored to overcome the TM’s remarks that “it does not appear that \[the Defendant\] was party to this \[Settlement Agreement\]”.[^9]
+
+36     However, as described at length in the Defendant’s DCC at \[3\], the Defendant’s case is that the Settlement Agreement was entered into as a form of tripartite compromise between the Claimant, Defendant, and Island Construction. This was necessitated after certain defects came to light as regards the material supplied by the Claimant which required rectification by Island Construction.
+
+37     The details of how this Settlement Agreement came into being was also detailed in the witness statement of Mr Tang Thian Fatt (“Mr Tang”), the representative of the Defendant, in the SCT proceedings. Briefly, Mr Tang explained that after the installation of the panels supplied by the Claimant, it was realised that the roof panels were of different colour tones, and this led to several meetings with the Claimant’s representative who “acknowledged their mistake” and their willingness to “compensate us the materials and labour costs to replace the roof and wall panels”. On this basis, and after several meetings between representatives of the Claimant, Defendant, and Island Construction, it was agreed that the Claimant would re-supply the material and pay $20,000 plus GST for the labour cost. Upon completion of the rectification works, Island Construction then “billed \[the Defendant\] for a sum of $20,000 excluding GST”, and while the Claimant had “settled an amount of $5,000.00 excluding GST … there is still an outstanding amount of $15,000.00 owing to date”.[\[note: 10\]](#Ftn_10)
+
+38     Mr Xu Wen Yan (“Mr Xu”), the representative of Island Construction in the SCT proceedings, provided a similar exposition – per Mr Xu’s witness statement, Island Construction agreed to rectify the different colour tones, but it would bill the Defendant for such works. The sum of $20,000 would then be billed by the Defendant to the Claimant, and that the Claimant’s “payment ha\[d\] to be made direct to \[the Defendant\]”.[\[note: 11\]](#Ftn_11)
+
+39     However, in a series of messages between Mr Tang and the Claimant’s representative, Mr Phua Chia Ping Benny (“Mr Phua”), Mr Tang chased Mr Phua to pay “\[t\]he 15k that \[you\] owe to Mr \[X\]u”, Island Construction’s representative.[\[note: 12\]](#Ftn_12) This, Ms Chuah submitted, shows that any Settlement Agreement was between the Claimant and Island Construction, and the Defendant’s DCC was thus factually unsustainable.
+
+40     In my judgment, the fact that payment may have been due to Island Construction rather than the Defendant did not defeat the Defendant’s claim that the Settlement Agreement was entered into between the Claimant and Defendant. As Mr Xu had explained in his witness statement, the Defendant was to act as the proxy for chasing for and receiving payment from the Claimant for the rectification works done by Island Construction. This was consistent with the Claimant’s _own_ case before the SCT, which was that the $5,000 plus GST that it had paid to the _Defendant_ (and _not_ Island Construction) constituted full and final settlement of any disputes that arose. The Defendant’s response, both at the SCT and in this action, had consistently been that the $5,000 plus GST was in _partial settlement_ of the $20,000 plus GST that it (and not Island Construction) was owed under the Settlement Agreement. The documentary evidence did not render either party’s version of events incredible, and it was clear that the issue ought properly to be considered at trial rather than summarily struck out at this juncture. This was particularly so given the high threshold for striking out, _ie_, that it must be a “plain and obvious” case warranting a striking out (_TMT Asia Ltd v BHP Billiton Marketing AG (Singapore Branch) and another_ <span class="citation">\[2019\] 2 SLR 710</span> at \[25\]; see also _Iskandar bin Rahmat_ (_supra_ \[13\]) at \[19\]).
+
+41     Furthermore, comparing the DCC with the witness statements before the SCT, it appeared that any additional particulars in the DCC was not strictly speaking a shift in position, but an elaboration of why, contrary to the Claimant's assertion, the Defendant maintained that the Settlement Agreement was only partially paid for (see \[36\]–\[38\] above). In any event, it was surely not such a significant shift that rose to the level of abuse of process which warranted a striking out of the DCC. As Ang Cheng Hock J explained in _CKR Contract_ (_supra_ \[18\]) at \[48\] (albeit in a different context), the doctrine of abuse of process “is more concerned with the proper administration of justice”. Regardless of the TM's views on the merits of the defence of set-off, it was surely consistent with the proper administration of justice that the Defendant be allowed to properly make its case for the counterclaim, which was not conclusively considered on the merits by the TM (see \[31\]–\[33\] above).
+
+## Conclusion
+
+42     For all the above reasons, I dismissed the striking out application. In my view, this was not only an unmeritorious attempt to stifle the Defendant’s counterclaim, but also an ill-considered effort to invoke the striking out jurisdiction of the court, a jurisdiction that is jealously guarded (see \[13\] above).
+
+43     As the Claimant must have appreciated, the TM did not, for want of jurisdiction, make any conclusive remarks pertaining to a large portion of the Claimant’s claim or on the merits of the Defendant’s set-off defence and counterclaim. While seemingly content in re-raising the portion of its claim that fell outside of the TM’s jurisdiction by this action, the Claimant was asking this Court, through its striking out application, to somehow prohibit the Defendant from raising the very same defence and counterclaim that was similarly dismissed for want of jurisdiction. Apart from being somewhat ironic, this blatantly ignored two key aspects of the TM’s decision, specifically that (a) he could not deal with the defence of set off as it did not apply to the portion of the claim that was within his jurisdiction,[\[note: 13\]](#Ftn_13) and more significantly that (b) both the Claimant’s claim and the Defendant’s set-off defence (and counterclaim) could “be properly vindicated in another forum.”[^14] Had the Claimant applied its mind to these aspects of the TM’s judgment and read his decision holistically (rather than selectively, and with an undue focus on the Remarks), it should have been clear that this application was entirely unnecessary.
+
+44     Having regard to the complexity of the application, the work done, and to the principle of proportionality, the Claimant was ordered to pay costs fixed at $1,800 (inclusive of disbursements) to the Defendant.
+
+* * *
+
+[\[note: 1\]](#Ftn_1_1)Affidavit of Benny Phua Chia Ping (20 May 2022) (“Benny”) at p 10, \[2\].
+
+[^2]: Benny at pp 10 to 11, \[4\] – \[5\].
+
+[^3]: Claimant’s Skeletal Arguments at \[16\]
+
+[^4]: Benny at p 15, \[24\].
+
+[^5]: Benny at p 13, \[15\].
+
+[^6]: Benny at p 15, \[23\].
+
+[^7]: Benny at p 16, \[26\].
+
+[^8]: Defence and Counterclaim at \[3(h)\].
+
+[^9]: Benny at p 15, \[24\].
+
+[^10]: Benny at p 19.
+
+[^11]: Benny at p 21, \[6\].
+
+[^12]: Affidavit of Tang Thian Fatt at p 26.
+
+[^13]: Benny at p 15, \[23\].
+
+[^14]: Benny at p 16, \[26\].
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F27917-SSP.xml)

@@ -1,0 +1,316 @@
+<style>.footnotes::before { content: "Footnotes:"; }</style>
+# Public Prosecutor _v_ Alwinder Singh  
+
+### \[2022\] SGDC 225
+
+<table id="info-table"><tbody><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Case Number</td><td class="txt-body">District Arrest Case No 916926 of 2020 and 26 Others, Magistrate's Appeals No 9172-2022-01</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Decision Date</td><td class="txt-body">26 September 2022</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Tribunal/Court</td><td class="txt-body">District Court</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Coram</td><td class="txt-body">Lee Lit Cheng</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Counsel Name(s)</td><td class="txt-body">Norman Yew (Attorney-General's Chambers) for the Public Prosecutor; Wee Hong Shern (Ong &amp; Co LLC) for the accused.</td></tr><tr class="info-row"><td class="txt-label" style="padding: 4px 0px; white-space: nowrap" valign="top">Parties</td><td class="txt-body">Public Prosecutor — Alwinder Singh</td></tr></tbody></table>
+
+Criminal Procedure and Sentencing – Sentencing – Corrective training
+
+\[LawNet Editorial Note: An appeal to this decision has been filed in MA 9172/2022/01.\]
+
+26 September 2022
+
+### District Judge Lee Lit Cheng:
+
+## Introduction
+
+1       The 39-year-old accused faced a total of 27 charges. The offences were committed within a year from his last release from prison in October 2019 and when a remission order made by the Commissioner of Prisons under s 50I of the Prisons Act (Cap 247, 2000 Rev Ed) (“Prisons Act”) against him was still in force.
+
+2       The accused committed the first series of offences in June and August 2020. He was charged in court on 14 August 2020 and was released on bail on 21 August 2020. While on bail, he committed the second series of offences on 6 and 7 October 2020.
+
+3       There was an escalation in the accused’s criminal conduct over the period that culminated in a high-speed car chase on 7 October 2020 when the accused drove dangerously against the flow of traffic and beat red lights while fleeing from the police. When cornered, he rammed his car into the pursuing police vehicle, before bashing through a metal road divider to the opposite side of the road and getting away.
+
+4       The accused pleaded guilty to 12 charges (denoted in bold in the table below) and the remaining 15 charges were taken into consideration (“TIC”) for the purpose of sentencing:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="12.62%"><col width="29.48%"><col width="57.9%"></colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>S/No</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Charge No</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Offence</b></p></td></tr><tr><td align="left" class="b" colspan="3" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>Offences committed on 6 June 2020</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>1</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>DAC-924338-2020</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>s 65(1)(a) r/w s 65(5)(a) Road Traffic Act (Cap 276, 2004 Rev Ed) (“RTA”) r/w s 50T(1)(a) Prisons Act</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">2</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC-924339-2020</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">s 84(1) r/w s 84(7) r/w s 131(2)(a) RTA r/w s 50T(1)(a) Prisons Act</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">3</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC-924340-2020</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">s 122 RTA r/w s 50T(1)(a) Prisons Act</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">4</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC-924341-2020</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">s 84(2) r/w s 84(7) r/w s 131(2)(a) RTA r/w s 50T(1)(a) Prisons Act</p></td></tr><tr><td align="left" class="b" colspan="3" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Offences committed on 12 June 2020</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">5</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC-910076-2022</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">s 50V(3)(e)(i) r/w s 50Y Prisons Act</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">6</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC-910474-2022</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">s 426 Penal Code (Cap 224, 2008 Rev Ed) (“Penal Code”) r/w s 50T(1)(a) Prisons Act</p></td></tr><tr><td align="left" class="b" colspan="3" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Offences committed on 11 August 2020</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>7</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>DAC-910099-2022</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>s 26(2) Police Force Act (Cap 235, 2006 Rev Ed) (“PFA”) r/w s 50T(1)(a) Prisons Act</b></p></td></tr><tr><td align="left" class="b" colspan="3" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Offences committed on 12 August 2020</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>8</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>DAC-909988-2022</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>s 337(a) Penal Code r/w s 50T(1)(a) Prisons Act</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>9</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>DAC-909990-2022</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>s 3 Vandalism Act (Cap 341, 2014 Rev Ed) (“Vandalism Act”) r/w s 50T(1)(a) Prisons Act</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">10</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC-909991-2022</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">s 336(a) Penal Code r/w s 50T(1)(a) Prisons Act</p></td></tr><tr><td align="left" class="b" colspan="3" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Offences committed on 13 August 2020</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>11</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>DAC-916926-2020</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>s 353 Penal Code r/w s 50T(1)(a) Prisons Act</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>12</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>DAC-909989-2022</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>s 506 Penal Code r/w s 50T(1)(a) Prisons Act</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">13</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC-910501-2022</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">s 6(3) Protection from Harassment Act (Cap 256A, 2015 Rev Ed) r/w s 50T(1)(a) Prisons Act</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">14</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC-916909-2020</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">s 31(2) r/w s 33A(1) Misuse of Drugs Act (Cap 185, 2008 Rev Ed) (“MDA”) r/w s 50T(1)(a) Prisons Act</p></td></tr><tr><td align="left" class="b" colspan="3" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>The accused was released on bail on 21 August 2020.</b></p></td></tr><tr><td align="left" class="b" colspan="3" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Offence committed on 6 October 2020</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">15</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC-910471-2022</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">s 6 Corrosive and Explosive Substances and Offensive Weapons Act (Cap 65, 2013 Rev Ed) (“CESOW”) r/w s 50T(1)(a) Prisons Act</p></td></tr><tr><td align="left" class="b" colspan="3" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Offences committed on 7 October 2020</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>16</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>DAC-920591-2020</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>s 332 Penal Code r/w s 50T(1)(a) Prisons Act</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>17</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>DAC-924342-2020</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>s 64(1) RTA r/w s 50T(1)(a) Prisons Act</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>18</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>DAC-910455-2021</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>s 8(a) r/w s 33(1) Misuse of Drugs Act (Cap 185, 2008 Rev Ed) (“MDA”) r/w s 50T(1)(a) Prisons Act (“LT-1 consumption charge”)</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>19</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>DAC-910457-2021</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>s 8(b)(ii) r/w s 33A(1) MDA r/w s 50T(1)(a) Prisons Act</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>20</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>DAC-910472-2022</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>s 6(1) CESOW r/w s 50T(1)(a) Prisons Act</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>21</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>DAC-910473-2022</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1"><b>s 3 Vandalism Act r/w s 50T(1)(a) Prisons Act</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">22</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC-924343-2020</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">s 84(1)(a) r/w s 84(7) r/w s 131(2)(a) RTA r/w s 50T(1)(a) Prisons Act</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">23</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC-924344-2020</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">s 84(2) r/w s 84(7) r/w s 131(2)(a) RTA r/w s 50T(1)(a) Prisons Act</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">24</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC-924345-2020</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">s 84(3) r/w s 84(7) r/w s 131(2)(a) RTA r/w s 50T(1)(a) Prisons Act</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">25</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC-924346-2020</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">s 122 RTA r/w s 50T(1)(a) Prisons Act</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">26</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC-910456-2021</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">s 8(a) r/w s 33(1) MDA r/w s 50T(1)(a) Prisons Act</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">27</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC-910458-2021</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">s 9 r/w s 33(1) MDA r/w s 50T(1)(a) Prisons Act</p></td></tr></tbody></table>
+
+  
+  
+
+5       After considering the pre-sentence suitability report for corrective training (“Pre-sentence Report”) prepared by the Singapore Prisons Service, I sentenced the accused to six years’ corrective training (“CT”). In addition, I imposed the following:
+
+> (a)     18 strokes of the cane;
+
+> (b)     an enhanced sentence of 120 days’ imprisonment pursuant to s 50T(1)(a) of the Prisons Act;
+
+> (c)     an order disqualifying the accused from holding or obtaining all classes of driving licences (“DQAC”) for a period of 48 months with effect from the date of release.
+
+6       The accused has appealed against the sentence.
+
+## Facts
+
+7       A remission order was in force against the accused from 26 October 2019 to 3 November 2020 (“the Remission Order”).
+
+### Facts relating to DAC-924338-2020 committed on 6 June 2020 – failure to keep a proper lookout
+
+8       On 6 June 2020, the accused drove a rented car bearing registration number SJJ1334E without due care and attention and collided into the rear of another vehicle which had stopped at a red light along Choa Chu Kang Drive. As a result of the impact, the victim’s vehicle was pushed passed the traffic lights junction to the other side of the road. The accused abandoned his rented car and left the scene.
+
+9       At the time of the offence, the remaining duration of the Remission Order was 151 days.
+
+### Facts relating to DAC-910099-2022 committed on 11 August 2020 – failing to stop at road barrier
+
+10     On 11 August 2020 at about 3.45am, the accused was driving a motor vehicle bearing registration number SKD7827J when he came to a police roadblock along Scotts Road.
+
+11     As the accused did not want to be arrested for the offences he had committed from 6 to 12 June 2020, he failed to comply with the signal of a police officer requiring him to stop his vehicle and sped off.
+
+12     At the time of the offence, the remaining duration of the Remission Order was 85 days.
+
+### Facts relating to DAC-909988-2022 and DAC-909990-2022 committed on 12 August 2020 – rash act causing hurt and vandalism
+
+13     On 12 August 2020, the police received information about the accused, who was wanted by the police. Sgt Ong Jing Wei and another police officer went to the carpark at Block 1001 Bukit Merah Lane 3 to apprehend him.
+
+14     On arrival at the carpark at about 8pm, the police officers saw the accused seated in his rented car bearing registration number SJQ7883P which was parked in a parking lot. The police officers parked their police vehicle in front of (and perpendicular to) the accused’s vehicle to prevent the accused from driving off.
+
+15     The police officers then approached the accused’s car and asked him to alight from the car. The accused refused to comply. He started the engine of his car and drove it straight into the side of the parked police vehicle at speed to push the police vehicle away. In the process, the accused’s car hit Sgt Ong, who was standing close to the accused’s car outside the driver’s door.
+
+16     The accused then reversed his car before accelerating forward towards the right, with Sgt Ong caught in a tight space between the accused’s car and the van parked on its right. The accused managed to drive out of the parking lot through a gap he had created by pushing the police vehicle away with his car and fled.
+
+17     As a result of the accused’s rash act of driving his car at speed and colliding into Sgt Ong who was standing close to his car, Sgt Ong suffered pain, tenderness and a contusion on his left hip.
+
+18     The accused had also committed vandalism by damaging the police vehicle, a public property.
+
+19     At the time of the offences, the remaining duration of the Remission Order was 84 days.
+
+###    Facts relating to DAC-909989-2022 committed on 13 August 2020 – criminal intimidation
+
+20     After the accused fled from the Bukit Merah carpark on 12 August 2020, he believed that the police went to look for him at the carpark because his car mechanic, Mr Ng Chee Heng, had informed the police of his whereabouts. The accused had collected the rented car SJQ7883P from Mr Ng’s workshop on 12 August 2020 at about 7.40pm, shortly before the police officers found him at the carpark at 8pm.
+
+21     On 13 August 2020 at about 12.43am, the accused sent an audio recording via WhatsApp to Mr Ng threatening to injure Mr Ng with intent to cause him alarm. The accused said:
+
+> “Lu punya mak punya mak punya puki lu ar anak sundal lu ar, lu main main gua ngan police ar, mak lu punya puki ar, ko tunggu ar, puki mak lu, lu punya kedai dengan lu, lu skali nanti gua bakar”, which means “your mother’s mother’s cunt, you are a son of a whore ar, you made a fool out of me with the police ar, your mother’s cunt, you wait ar, your mother’s cunt, your shop along with you I will burn” in English language.
+
+22     At the time of the offence, the remaining duration of the Remission Order was 83 days.
+
+### Facts relating to DAC-916926-2020 committed on 13 August 2020 – criminal force against a public servant
+
+23     The accused was arrested by the police on in the afternoon of 13 August 2020 and brought to the Police Cantonment Complex (“PCC”). At about 11.15pm that day, when Auxiliary Police Officer (“APO”) Thangaraj A/L Mohan was escorting the accused out of an interview room at the Regional Lock Up of PCC, the accused spoke aggressively to APO Thangaraj and pushed him on his chest once.
+
+24     At the material time, APO Thangaraj was an APO appointed under the PFA and carrying out the duty of a police officer. He was therefore deemed to be a public servant for the purposes of the Penal Code.
+
+25     At the time of the offence, the remaining duration of the Remission Order was 83 days.
+
+### Charged in court and released on bail
+
+26     The accused was first charged in court on 14 August 2020 and remanded for investigations. He was released on bail on 21 August 2020.
+
+### Facts relating to DAC-920591-2020, DAC-924342-2020 and DAC-910473-2022 committed on 7 October 2020 – causing hurt to a public servant, dangerous driving and vandalism
+
+27     On 7 October 2020 at about 3.21am, Special Constabulary Sergeant Ululazmi Bin Rossli (“Sgt Ululazmi”) and Staff Sergeant Ahmad Ridzwan Bin Md Yat (“SSgt Ahmad”) were patrolling in a police vehicle at a carpark at Chai Chee Road when they spotted a car bearing registration number SMQ5162P being driven by the accused at a high speed in the carpark. The police officers signalled for the accused to stop his car but the accused did not comply and drove off.
+
+28     The police officers gave chase in their police vehicle. While fleeing, the accused drove in a manner which was dangerous to the public by beating the red light at three signalised traffic junctions and by driving against the flow of traffic along Bedok North Street 1.
+
+29     From Bedok North Street 1, the accused turned into a service road leading to the drop-off point of Heartbeat@Bedok Active SG. As the service road had only one exit point, SSgt Ahmad stopped the police vehicle along Bedok North Street 1 to block the exit point to prevent the accused from driving away. Seeing that he was trapped, the accused drove his car and collided into the left portion of the police vehicle, pushing the police vehicle out of his way. After that, the accused’s car bashed through a metal road divider to the opposite side of Bedok North Street 1 before he fled from the scene.
+
+30     The collision caused Sgt Ululazmi to hit his head against the interior of the police vehicle and he suffered a left frontal contusion on his head. He was given one day’s medical leave. The accused knew that it was likely to cause hurt to Sgt Ululazmi by colliding his car into the police vehicle when Sgt Ululazmi was in the police vehicle.
+
+31     The accused had also committed vandalism by damaging the police vehicle, a public property.
+
+32     At the time of the offences, the remaining duration of the Remission Order was 28 days.
+
+### Facts relating to DAC-910472-2022 and DAC-910455-2021 committed on 7 October 2020 – possession of offensive weapon and controlled drug
+
+33     The accused was arrested by the police on 7 October 2020 at about 7.15pm near 1 Beach Road, a public place. He was found to be in possession of the following:
+
+> (a)     A knife measuring 8cm with a blade measuring 6cm was found in the accused’s pants pocket. The accused was in possession of the offensive weapon without lawful authority or a lawful purpose.
+
+> (b)     Six packets of crystalline substances which were analysed and found to contain not less than 15.24 grams of Methamphetamine: see certificate issued by the Health Sciences Authority under s 16 of the MDA bearing Lab No. 2010767-ID-002. The accused was not authorised under the MDA or the Regulations made thereunder to possess the controlled drug.
+
+34     Before the commission of the present offence of possession of Methamphetamine, the accused had been convicted of an offence of possession of a controlled drug, namely, Methamphetamine, on 13 July 2017 in District Court 12 vide DAC/922567/2016 for which he was sentenced to imprisonment for a term of three years and nine months. The conviction has not been set aside.
+
+35     At the time of the offences, the remaining duration of the Remission Order was 28 days.
+
+### Facts relating to DAC-910457-2021 committed on 7 October 2020 – LT-1 consumption charge
+
+36     Following his arrest on 7 October 2020, the accused provided two bottles of his urine specimen which were analysed and found to contain Methamphetamine: see certificates issued by the Health Sciences Authority under s 16 of the MDA bearing Lab No 2010536-AT-001 and 2010536-AT-002.
+
+37     Methamphetamine is a specified drug listed in the Fourth Schedule to the MDA. The accused was not authorised under the MDA or the Regulations made thereunder to consume Methamphetamine.
+
+38     Before the commission of this offence, the accused had been convicted of an offence of consumption of a specified drug, namely, Methamphetamine, on two previous occasions:
+
+> (a)     On 6 March 2015 in District Court 3 vide DAC/904250/2015 under s 8(b)(ii) r/w s 33(1) MDA for which he was sentenced to 18 months’ imprisonment; and
+
+> (b)     On 13 July 2017 in District Court 12 vide DAC/931107/2016 under s 8(b)(ii) r/w s 33(4) MDA for which he was sentenced to three years’ imprisonment.
+
+39     These previous convictions have not been set aside.
+
+40     At the time of the offence, the remaining duration of the Remission Order was 28 days.
+
+## Antecedents
+
+41     The accused’s first conviction was in the year 2000. His relevant convictions are set out below:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="22.78%"><col width="77.22%"></colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Date of conviction</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Offences</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">27 Jun 2002</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Convicted of two charges of trafficking in controlled drug, and two other trafficking charges were TIC.</p><p align="justify" class="Table-Para-1">Total sentence: 5 years 6 months’ imprisonment and 8 strokes of the cane</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">2 Oct 2006</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Convicted of voluntarily causing hurt and sentenced to 2 months’ imprisonment.</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">18 Jan 2008</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Convicted of voluntarily causing hurt by dangerous weapons and sentenced to 5 months’ imprisonment.</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">6 Feb 2009</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Convicted of trafficking in a controlled drug and sentenced to 7 years’ imprisonment and 6 strokes of the cane.</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">15 Apr 2009</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Convicted of permitting another to drive without licence and without third-party insurance.</p><p align="justify" class="Table-Para-1">Total sentence: Fine $1,300 and disqualified from holding or obtaining a driving licence for all classes of vehicles for 12 months.</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">7 May 2009</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Convicted of voluntarily causing hurt with a criminal intimidation charge TIC. Sentenced to 9 months’ imprisonment.</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">6 Mar 2015</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Convicted of two charges of possession of controlled drug, one charge of consumption of controlled drug and one charge of possession of drug utensils, with nine other charges of possession of controlled drugs TIC.</p><p align="justify" class="Table-Para-1">Total sentence: 24 months’ imprisonment.</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">13 Jul 2017</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Convicted of attempted criminal intimidation, consumption of controlled drug and possession of controlled drug. A charge for possession of controlled drug, two charges for criminal intimidation and a charge for possession of a scheduled weapon were TIC.</p><p align="justify" class="Table-Para-1">Total sentence: 4 years’ imprisonment + enhanced sentence of 140 days’ imprisonment under s 50T(1)(a) Prisons Act.</p></td></tr></tbody></table>
+
+  
+  
+
+## The Prosecution’s Submissions on Sentence
+
+42     The Prosecution initially sought a total sentence of seven years and 17 months’ imprisonment, enhanced sentence of 151 days’ imprisonment under s 50T(1)(a) of the Prisons Act, 15 strokes of the cane, and a DQAC for 48 months.
+
+43     After the Court directed both parties to submit on the appropriateness of a sentence of CT, the Prosecution sought a sentence of eight years’ CT in addition to an enhanced sentence of 151 days, 15 strokes of the cane and a DQAC for 48 months.
+
+44     With regards to caning, although the Prosecution’s Sentencing Submissions stated that the Prosecution was seeking a total of 15 strokes of the cane (including three strokes for the offence under s 332 of the Penal Code _vide_ DAC-920591-2020), there was an error in calculation as the Prosecution omitted to add the mandatory minimum three strokes of the cane which must be ordered for the LT-1 consumption charge _vide_ DAC-910457-2021. Accordingly, the Prosecution was in fact seeking 18 strokes of the cane.
+
+## Mitigation & Defence’s Submissions on Sentence
+
+45     Counsel for the accused, Mr Wee Hong Shern, highlighted the accused’s efforts at reintegration and reform:
+
+> (a)     Two months prior to the accused’s last release from prison in October 2019, the accused had publicly renounced all affiliation with secret societies.
+
+> (b)     Upon release from prison in October 2019, the accused secured a food delivery job and worked long hours to secure a decent pay of $3,500 a month.
+
+> (c)     He used his earnings to care for his mother and sought to upgrade himself and obtained a Class 3 driving licence.
+
+> (d)     He met his wife and decided to start a family together. She became pregnant in early 2020. The accused married his wife while in remand and his son was 21 months’ old. He had also purchased a HDB flat whilst in remand so that his wife and son would have a place to call their own. His wife and son are his anchors towards abstaining from crime, and they mark a material change in his circumstances.
+
+46     Mr Wee said that the accused was sincere in wanting to turn over a new leaf after his last release from prison. However, problems started to brew after his girlfriend (now wife) became pregnant in early 2020. His girlfriend’s parents disapproved of the accused due to his chequered history and for impregnating their daughter before marrying her. The accused’s father got into trouble with the law and went to jail. The accused’s aunt criticised and insulted him. The accused sank into misery and doubted his ability to make a living. He turned to old friends for company and became re-addicted to drugs.
+
+47     Mr Wee submitted for a global sentence of seven years’ imprisonment or alternatively five to six years’ CT, plus an enhanced sentence of 120 days’ imprisonment under s 50T(1)(a) of the Prisons Act, and the mandatory minimum of 15 strokes of the cane.
+
+## My decision
+
+### The accused satisfied the technical requirements for CT
+
+48     Applying the sentencing framework for CT adopted by the High Court in _Sim Yeow Kee v PP_ <span class="citation">\[2016\] 5 SLR 936</span> (“_Sim Yeow Kee_”), the first stage of the inquiry was to ascertain whether the accused satisfied the technical requirements for CT to be imposed.
+
+49     The accused met the technical requirements for CT set out in s 304(1)(a) of the Criminal Procedure Code 2010 (“CPC”):
+
+> (a)     He was above 18 years of age.
+
+> (b)     He was convicted before District Court of an offence punishable with imprisonment for two years or more.
+
+> (c)     He had been convicted in Singapore at least twice since he reached 16 years of age for offences punishable with imprisonment for two years or more.
+
+50     He also satisfied the technical requirements in s 304(1)(b) of the CPC:
+
+> (a)     He was above 18 years of age.
+
+> (b)     He was convicted at one trial before a District Court of three or more distinct offences punishable with imprisonment for two years or more.
+
+> (c)     He had been convicted and sentenced in Singapore to imprisonment for at least one month since he reached 16 years of age for an offence punishable with imprisonment for two years or more.
+
+### Whether it was expedient to sentence the accused to CT with a view to his reformation and prevention of crime
+
+51     Having found that the technical requirements for CT were fulfilled, I proceeded to the second stage of the _Sim Yeow Kee_ sentencing framework to consider whether it was expedient with a view to the accused’s reformation and the prevention of crime that he be sentenced to corrective training.
+
+52     At this stage of the inquiry, I considered (a) the likely imprisonment term to be imposed if I decided not to sentence the accused to CT; (b) whether the Mandatory Aftercare Scheme (“MAS”) was available and whether it could benefit the accused; and (c) whether a sentence of CT would be unduly disproportionate as compared to the likely imprisonment term that would otherwise have been imposed.
+
+#### The likely imprisonment that the Court would have imposed
+
+53     The term of imprisonment initially sought by the Prosecution was 7 years, 17 months, while Mr Wee submitted for 7 years.
+
+54     The likely imprisonment that I would otherwise have imposed would be about 7 to 8 years’ imprisonment. In addition to the mandatory minimum five years’ imprisonment for the LT-1 consumption charge (_vide_ DAC-910457-2021), the sentences for other charges that I would likely have ordered to run consecutively include:
+
+> (a)     DAC-920591-2020 – The offence under s 332 of the Penal Code fell within Category 2 of the sentencing framework in _PP v Yeo Ek Boon Jeffrey_ <span class="citation">\[2018\] 3 SLR 1080</span> (“_Yeo Ek Boon_ Jeffrey”) for cases with lesser harm and higher culpability, with a sentencing range of one to three years’ imprisonment. The likely term of imprisonment is at least 12 months.
+
+> (b)     DAC-909990-2022 – The likely term of imprisonment for the vandalism offence committed on 12 August 2020 is at least six months.
+
+> (c)     DAC-910472-2022 – The usual term of imprisonment for an offence of possessing an offensive weapon is six months.
+
+#### Whether the MAS was available and whether it could benefit the accused
+
+55     The MAS would have been available to the accused given that his drug offences under the MDA fall within the First Schedule to the Prisons Act.
+
+56     However, given that the accused was a recalcitrant offender who clearly posed a danger to the public and to law enforcement officers, I was satisfied that a longer term of incarceration was called for both for the prevention of crime and to specifically deter him in the interests of his reformation.
+
+#### Whether a sentence of CT would be disproportionate
+
+57     I was satisfied that a term of CT would not be disproportionate to the likely term of imprisonment that would otherwise have been imposed.
+
+58     In assessing the appropriate term of CT to be ordered, I considered the accused’s antecedents and the following matters highlighted in the Pre-sentence Report:
+
+> (a)     The accused had a consistent pattern of re-incarceration within a year, the shortest period in the community between sentences was approximately two months (between 12 April and 7 July 2001) and the longest period was about a year (between 26 October 2019 and 7 October 2020 when he was arrested a second time for the present offences and no bail was offered thereafter).[\[note: 1\]](#Ftn_1)
+
+> (b)     The accused started selling VCDs illegally in 1997 when he was 14 years old.[\[note: 2\]](#Ftn_2) He first went to jail in 2000 at the age of 17 years for offences under the Films Act.
+
+> (c)     His first drug convictions were in 2002 (at 19 years of age) for trafficking by passing drugs to a friend without being paid. He was again convicted of trafficking in 2009. He was first convicted of drug consumption in 2015. During his time in the community after his release in March 2016 and in October 2019, the accused continued to consume drugs which contributed to more drug-related offences (for which he was arrested in 2016 and 2020). His current offences were all committed under the influence of Methamphetamine.[\[note: 3\]](#Ftn_3) His drug addiction was a significant risk factor. The accused started taking drugs (Ecstasy) at the age of 15. After his last release from prison in October 2019, the accused managed to stay away from drugs for three months before returning to drugs as a maladaptive way of coping with stress from his conflicts with his aunt and his girlfriend’s family. He consumed drugs daily and this was assessed to have contributed to the spree of offences that he was currently convicted of, as the accused said he wanted to escape from the authorities so that he would not be caught for drug possession and consumption. The accused’s drug use had increased his risk of violent offending by affecting his decision-making, impulse control, and placing him in high-risk situations where he felt the need to escape from the authorities without considering the consequences.[^4]
+
+> (d)     The accused has a string of violence-related convictions. In 2006, he was convicted of voluntarily causing hurt and sentenced to two months’ imprisonment. In 2008, he was convicted of voluntarily causing hurt by dangerous weapons and sentenced to five months’ imprisonment. In 2009, he was convicted of voluntarily causing hurt (with a criminal intimidation charge TIC) and sentenced to nine months’ imprisonment. In 2017, he was convicted of attempted criminal intimidation and was sentenced to three months’ imprisonment and enhanced sentence of 140 days’ imprisonment (with two charges for criminal intimidation and a charge for possession of a scheduled weapon TIC).
+
+> (e)     The accused’s violent offence history began when he joined a gang at 14 years of age. His violence escalated in frequency and severity in his early adulthood, especially when he was involved in gang fights and fights (with weapons used) to resolve interpersonal conflicts in the community. He also fought in prison during his past incarcerations. In his adolescence and adulthood, his violence use was both instrumental (to gain status in the gang, to get his money from drug clients, to get his way in prison) and reactive (when confronted or perceived others to be disrespecting him) and was often destabilized by his alcohol and drug use. His previous incarcerations had been marked by numerous institutional offences in each sentence, escalating to the highest severity in his previous incarceration (2016 to 2019) for defiant and disruptive behaviours, including destruction of prison property and verbal abuse and threats towards prison officers. It was observed that there was a significant reduction in his violence and attitudes towards violence which indicated the accused’s insight into his reactive violence and responsiveness towards rehabilitation. The accused reported that he continued to abstain from engaging in reactive violence when he was in the community. During his remand for the present offences, the accused engaged in one incident of reactive violence after encountering repeated provocations from other inmates. While the accused was able to manage his reactive violence, he had engaged in instrumental violence in his current offences contributed by his drug use. Specifically, he resorted to violence to escape arrest as he had consumed drugs and had drugs with him. Overall, the accused engaged in high frequency and moderate severity of reactive and instrumental violence. While there had been a reduction in his reactive violence, he continued to engage in instrumental violence to resolve his problems and still endorses some violence-permissive attitudes regarding use of violence in retaliation to others’ attacks on him.[\[note: 5\]](#Ftn_5)
+
+> (f)     Other risk factors highlighted in the Pre-sentence Report include the accused’s association with antisocial peers whom he befriended from gang, prison, or through drug-related contacts. Despite his attempt to stay away from his antisocial peers following his last release from prison in October 2019, his environment (easy access to drugs) and stress contributed to his drug relapse. The accused’s alcohol use also contributed to his violent and drug offending. He started drinking alcohol since 14 years of age.[\[note: 6\]](#Ftn_6) The accused’s antisocial attitudes were also a risk factor. His justification and lack of insight into the consequences of his actions perpetuated his offending. In relation to the current offences, the accused justified his actions by saying that he thought he did not have any other choice as he had consumed drugs and had drugs in his possession when he encountered the police. As such, he believed that he had to escape with no regards to the safety of others. He also lacked remorse and victim empathy. When asked about his collision with the police officer who requested him to alight from his car, the accused blamed the victim by saying “who asked him jump on top of the car”. He also minimised the severity of the harm he caused when he collided into the police car to evade arrest.[^7]
+
+59     The Pre-sentence Report highlighted the following protective factors:
+
+> (a)     The accused renounced from his gang during his incarceration in 2017 and had expressed his desire not to associate with gang-related matters anymore.
+
+> (b)     The accused is close to his mother, who had been his consistently strongest pillar of support throughout his nine incarcerations.[\[note: 8\]](#Ftn_8)
+
+> (c)     The accused expressed his desire to stay away from crimes for the sake of his wife and son. His wife does not have a history of offending and has been a prosocial source of significant support for the accused. This positive shift had contributed to a reduction in reactive violence and disruptive behaviours. He showed improvements in his emotional regulation skills during his remand for the present offences. In one fight (July 2022) which he was involved in with another inmate, the accused said he had been managing his anger towards the inmate for approximately three months but had ended up in a fight when they started quarrelling.[\[note: 9\]](#Ftn_9)
+
+60     The accused’s general risk of criminal recidivism is High, with a 70.2% probability of recidivism within two years of release. His specific risk of violent re-offending is also High.[\[note: 10\]](#Ftn_10)
+
+61     The present string of offences of escalating severity showed that the accused had no regard for the law or the safety of other. While the accused is now motivated to stay away from crime for the sake of his wife and son, they were also the ones the accused had in mind when he decided that he _had to_ escape from the police and did so in a manner that placed others in danger. On the other hand, given the positive shifts in his attitude and greater willingness and ability to manage his reactive violence, I was of the view that a term of six years’ CT (at the lower end of the sentencing range from five to 14 years) was appropriate. The sentence was ordered to be backdated to 13 August 2020, when he was first arrested for the present offences, and to exclude the period he was released on bail.
+
+62     At the time of this judgment, I became aware that separate terms of imprisonment should have been ordered for the following four proceeded charges for offences punishable with imprisonment for less than two years, given that the Public Prosecutor did not apply under s 304(5) of the CPC for them to be taken into account for the purpose of determining the period of CT:
+
+> (a)     DAC-924338-2020 – s 65(1)(a) r/w s 65(5)(a) RTA;
+
+> (b)     DAC-910099-2022 – s 26(2) PFA;
+
+> (c)     DAC-924342-2020 – s 64(1) r/w s 64(2C)(a) RTA; and
+
+> (d)     DAC-909988-2022 – s 337(a) Penal Code.
+
+63     Be that as it may, no serious injustice arose from this omission. The accused was not prejudiced for not having been separately sentenced for the four charges, and the Prosecution was not seeking additional imprisonment terms for the charges.
+
+64     In addition to six years’ CT, I imposed the following sentences:
+
+<table align="left" cellpadding="0" cellspacing="0" class="Judg-2-tblr" frame="all" pgwide="1"><colgroup><col width="22.9154169166167%"><col width="38.372325534893%"><col width="38.7122575484903%"></colgroup><tbody><tr><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Charge No</b></p></td><td align="left" class="br" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Offence</b></p></td><td align="left" class="b" rowspan="1" valign="top"><p align="center" class="Table-Para-1"><b>Sentence</b></p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC-909990-2022</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">s 3 Vandalism Act r/w s 50T(1)(a) Prisons Act</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Enhanced sentence of 84 days’ imprisonment and 3 strokes of the cane</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC-910457-2021</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">s 8(b)(ii) MDA r/w s 50T(1)(a) Prisons Act</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">3 strokes of the cane</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC-910472-2022</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">s 6(1) CESOW r/w s 50T(1)(a) Prisons Act</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Enhanced sentence of 18 days’ imprisonment and 6 strokes of the cane</p></td></tr><tr><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC-910473-2022</p></td><td align="left" class="br" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">s 3 Vandalism Act r/w s 50T(1)(a) Prisons Act</p></td><td align="left" class="b" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">3 strokes of the cane</p></td></tr><tr><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">DAC-920591-2020</p></td><td align="left" class="r" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">s 332 Penal Code r/w s 50T(1)(a) Prisons Act</p></td><td align="left" class="" rowspan="1" valign="top"><p align="justify" class="Table-Para-1">Enhanced sentence of 18 days’ imprisonment and 3 strokes of the cane and DQAC for 48 months wef release from prison</p></td></tr></tbody></table>
+
+  
+  
+
+### Caning
+
+65     The mandatory minimum number of strokes of caning imposed by law were ordered for the charges relating to LT-1 consumption, vandalism, and possession of offensive weapon. They add up to 15 strokes.
+
+66     As for the offence under s 332 of the Penal Code, guidance by the High Court in _Yeo Ek Boon Jeffrey_ (at \[74\]) is that caning is appropriate as a general rule where an offender exhibits inordinate violence, uses weapons or where he attempts to snatch or to use the police officer’s firearms in the course of causing hurt to the police officer. Other considerations justifying caning would include a case where the offender’s antecedents demonstrate recalcitrance and a strong propensity to commit violent offences. Caning may be imposed in Category 2 cases where the circumstances and consequences of the attack are egregious and outrageous although the injury caused may not be severe.
+
+67     I imposed three strokes of the cane for the charge under s 332 of the Penal Code (_vide_ DAC-920591-2020) as the accused had used a weapon to cause hurt to a police officer, namely, by ramming his car into the police vehicle that the officer was in. The circumstances of the attack were egregious and outrageous in that the accused displayed no fear or regard for the law and the law enforcement officers. His conduct on 7 October 2020 could not be said to be out of character, as he had also rammed his car into a police vehicle on 12 August 2020 to flee from the police. His repeated violent offending over the years also showed a propensity to commit violent offences. In my view, caning ought to be imposed to meet the ends of specific deterrence.
+
+### Enhanced punishment under s 50T(1)(a) Prisons Act
+
+68     The maximum term of imprisonment that could be imposed on the accused pursuant to s 50T(1)(a) of the Prisons Act was 151 days.
+
+69     The accused had returned to crime within months after his last release from prison in October 2019 and had even re-offended while he was released on bail. Applying the framework in _Abdul Mutalib bin Aziman v Public Prosecutor and other appeals_ <span class="citation">\[2021\] 4 SLR 1220</span>, I assessed that the accused’s case was of high severity (Band 3) given the gravity of the offences he had committed and his poor rehabilitative prospects.
+
+70     The sentencing range for Band 3 is two-thirds to the full remaining duration of the remission order. I was of the view that an enhanced sentence of about 80% of the remaining duration was appropriate and ordered an enhanced sentence of 120 days’ imprisonment in total.
+
+### DQAC
+
+71     As the charge under s 332 of the Penal Code (DAC-920591-2020) was for an offence in connection with the driving of a motor vehicle, I also ordered a DQAC for 48 months pursuant to s 42(1)(a) of the RTA. The period of disqualification will commence from the accused’s release from prison.
+
+## Conclusion
+
+72     Given the accused’s proclivity for crime and the danger he posed to the public and to law enforcement officers, I was satisfied that a sentence of six years’ CT was appropriate both for the prevention of crime and to specifically deter him in the interests of his reformation.
+
+73     The global sentence of six year’s CT, enhanced punishment of 120 days’ imprisonment, 18 strokes of the cane and a DQAC for 48 months is in keeping with his overall criminality and rehabilitative prospects.
+
+* * *
+
+[\[note: 1\]](#Ftn_1_1)Pre-sentence Report, Part IV at p6.
+
+[^2]: _Ibid._
+
+[^3]: _Ibid._
+
+[^4]: Pre-sentence Report, Part VI, p9.
+
+[^5]: Pre-sentence Report, Part VI, pp 7-8.
+
+[^6]: , Pre-sentence Report, Part VI, pp 8- 9.
+
+[^7]: Pre-sentence Report, Part VI, p 9.
+
+[^8]: Pre-sentence Report, Part VI, p 7.
+
+[^9]: Pre-sentence Report, pp 9-10_._
+
+[^10]: Pre-sentence Report, Part VII, p10.
+
+
+Source: [link](https://www.lawnet.sg:443/lawnet/web/lawnet/free-resources?p_p_id=freeresources_WAR_lawnet3baseportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&_freeresources_WAR_lawnet3baseportlet_action=openContentPage&_freeresources_WAR_lawnet3baseportlet_docId=%2FJudgment%2F28834-SSP.xml)
